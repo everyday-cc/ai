@@ -27,6 +27,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 44
+  - title: "Nvidia introduces ‘guardrails’ for AI chatbots"
+    excerpt: "Nvidia has released an open-source initiative to keep chatbots from hallucinating. This refers to the factual inaccuracies that an application such as"
+    publishedDateTime: 2023-04-26T09:26:00Z
+    webUrl: "https://www.techzine.eu/news/analytics/105151/nvidia-introduces-guardrails-for-ai-chatbots/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 39
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2022/01/Nvidia-1.png"
+        width: 1500
+        height: 800
+        isCached: true
 
 secured: "nUdwqghYjwnqupaff8F/tgxnK/zZnlnQ+NlCxwZ25XtBwdgQfJa+U7gC8QN9awGDFBJuPY+QpWB3UtnQaZdbBteaRowPjVxve9j8K+q1xqIszwNNYhN3Q0szDT/La07LQWq56XDTywNJXupssDqX9TEgsISb9qq1fEpqScKKtzYG2XEVCbBLSPwaXTPpQ1Yka+ipdoECaLvENqh2tHHYDPCwqmSWdAvclevhX54C7XonwOb0bBUQ3mq34g6jTZ/D+ZtsQ0BxpoxjP5mRxMI2Pfc8gyJCc38B25iOcQxCjfpxUBa1Xz4m04Vkt/E0tftit/sQefgTxF0XNC74YDTLLW54B1f8k1PqcqZNKr1W/g7EH74iVLUK3ZmMunvKTIRvtDekOQI+kRB2IHyG47dV9hqzajApzF9j255MGDsy1DXxwGj6EhdgXYXtZ1tDjDTx0CXmZWR8AmNaII2qL0ZAllmZD2NpO91IwMl/oVMfFWaG45ngMVTmXYOpe5Di6LRCDoU/N9FGxSg9DIDUShzyMw==;9A7wmbRZgsZcJWwSVyZ3KQ=="
 ---

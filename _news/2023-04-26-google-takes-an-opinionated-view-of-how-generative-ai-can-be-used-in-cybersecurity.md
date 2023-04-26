@@ -24,45 +24,130 @@ images:
     isCached: true
 
 related:
-  - title: "Palo Alto Networks automates cybersecurity with machine learning"
-    excerpt: "Palo Alto Networks uses 3rd Gen Intel® Xeon® Scalable processors and Intel software in the cloud for its Cloud-Delivered Security Services to boost machine learning and inferencing performance."
-    publishedDateTime: 2023-04-24T15:58:00Z
-    webUrl: "https://www.infoworld.com/article/3693108/palo-alto-networks-automates-cybersecurity-with-machine-learning.html"
+  - title: "How Generative AI Can Be Used In Electronics Manufacturing"
+    excerpt: "By tapping into the creative potential of generative AI, we can help assuage our national security and infrastructure concerns while paving the way for innovative solutions across a range of industries."
+    publishedDateTime: 2023-04-26T10:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/26/how-generative-ai-can-be-used-in-electronics-manufacturing/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/26/how-generative-ai-can-be-used-in-electronics-manufacturing/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/26/how-generative-ai-can-be-used-in-electronics-manufacturing/amp/"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 71
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://images.idgesg.net/images/article/2023/04/istock-1294339697-100939579-large.jpg?auto=webp&quality=85,70"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/61f030570018a072dc46d1ec/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Using Generative AI In Workforce Management"
+    excerpt: "Generative AI is the most transformative thing in the business landscape right now, perhaps even since the proliferation of the internet."
+    publishedDateTime: 2023-04-24T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/using-generative-ai-in-workforce-management/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/using-generative-ai-in-workforce-management/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/24/using-generative-ai-in-workforce-management/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62825152c50f091b0e2568f8/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 799
+        isCached: true
+  - title: "The 5 biggest risks of generative AI, according to an expert"
+    excerpt: "According to Gartner analyst Avivah Litan, some of the biggest risks of generative AI concern trust and security and include hallucinations, deepfakes, data privacy, copyright issues, and cybersecurity problems."
+    publishedDateTime: 2023-04-25T09:54:00Z
+    webUrl: "https://www.zdnet.com/article/the-5-biggest-risks-of-generative-ai-according-to-an-expert/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-5-biggest-risks-of-generative-ai-according-to-an-expert/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-5-biggest-risks-of-generative-ai-according-to-an-expert/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/0cc190b128c483df4d94a80b464a741210a694f4/2023/04/24/ba357ab7-5959-44f7-a452-d12811dba59b/gettyimages-1404749040-170667a.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Cyble Triumphs Yet Again With 9 Category Wins at the Global InfoSec Awards 2023, Including Editor's Choice for Cybersecurity Startup"
-    excerpt: "Cyble, the Y Combinator-backed leader in AI-powered global cyber threat intelligence, today announced that it has been named a winner in 9 categories of the 11th Annual Global InfoSec Awards hosted by the Cyber Dfense Magazine CDM,"
-    publishedDateTime: 2023-04-25T04:41:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2428608-cyble-triumphs-yet-again-with-9-category-wins-at-the-global-infosec-awards-2023-including-editors-choice-for-cybersecurity"
-    ampWebUrl: "https://www.devdiscourse.com/article/technology/2428608-cyble-triumphs-yet-again-with-9-category-wins-at-the-global-infosec-awards-2023-including-editors-choice-for-cybersecurity?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2428608-cyble-triumphs-yet-again-with-9-category-wins-at-the-global-infosec-awards-2023-including-editors-choice-for-cybersecurity?amp"
+  - title: "How reinforcement learning with human feedback is unlocking the power of generative AI"
+    excerpt: "How reinforcement learning with human feedback helps ensure that businesses are building ethical generative AI models."
+    publishedDateTime: 2023-04-23T16:20:00Z
+    webUrl: "https://venturebeat.com/ai/how-reinforcement-learning-with-human-feedback-is-unlocking-the-power-of-generative-ai/"
+    ampWebUrl: "https://venturebeat.com/ai/how-reinforcement-learning-with-human-feedback-is-unlocking-the-power-of-generative-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-reinforcement-learning-with-human-feedback-is-unlocking-the-power-of-generative-ai/amp/"
     type: article
     provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 26
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 83
     images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_33_51_6762345.png?width=1280"
-        width: 1280
-        height: 723
+      - url: "https://venturebeat.com/wp-content/uploads/2023/04/annevb_human_and_artificial_intelligence_working_together_to_un_5b2cbb9e-e380-4bb1-812b-366943b59568.png?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Transforming digital landscapes: Cloud solutions, cybersecurity and AWS’ approach"
-    excerpt: "In fact, AWS has a dedicated team working around the clock to ensure a fully secure, efficient cloud experience for its clients. “I do a lot of work around securing ourselves, and then I also talk to customers and empathize with them about what it takes to do security at scale in the cloud,"
-    publishedDateTime: 2023-04-25T18:33:00Z
-    webUrl: "https://siliconangle.com/2023/04/25/transforming-digital-landscapes-cloud-solutions-cybersecurity-aws-approach-rsac/"
+  - title: "Why the struggle for ethics in generative AI is more complex than we imagine"
+    excerpt: "Some generative AI companies have been criticized for scraping the Web for training data, including copyrighted material, without the consent of creators and rights owners. In this way, the work of any number of creative,"
+    publishedDateTime: 2023-04-24T09:23:00Z
+    webUrl: "https://diginomica.com/why-struggle-ethics-generative-ai-more-complex-we-imagine"
+    ampWebUrl: "https://diginomica.com/why-struggle-ethics-generative-ai-more-complex-we-imagine?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/why-struggle-ethics-generative-ai-more-complex-we-imagine?amp"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 14
+      name: Diginomica
+      domain: diginomica.com
+    quality: 71
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2023-03/ethics-gb40633784_640.jpg"
+        width: 640
+        height: 453
+        isCached: true
+  - title: "Manufacturers hope for AI boost in factories"
+    excerpt: "Manufacturers are hoping for the artificial intelligence revolution to reach their factories, envisaging robots being used to repair complex machinery."
+    publishedDateTime: 2023-04-23T18:01:00Z
+    webUrl: "https://techxplore.com/news/2023-04-ai-boost-factories.html"
+    ampWebUrl: "https://techxplore.com/news/2023-04-ai-boost-factories.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-04-ai-boost-factories.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/manufacturers-see-pote.jpg"
+        width: 1024
+        height: 680
+        isCached: true
+  - title: "Siemens and Microsoft drive industrial productivity with generative artificial intelligence"
+    excerpt: "Siemens' new Teamcenter app for Microsoft Teams to use AI, boosting productivity and innovation throughout a product lifecycleAzure OpenAI Service powered assistant can augment the creation, optimization and debugging of code in software for factory automationIndustrial AI to enable visual quality inspection on the shop floorSiemens and Microsoft are harnessing the collaborative power of (AI) to help industrial companies drive innovation and efficiency across the design,"
+    publishedDateTime: 2023-04-24T09:42:00Z
+    webUrl: "https://www.newswit.com/en/M5T3"
+    type: article
+    provider:
+      name: academy
+      domain: newswit.com
+    quality: 44
+    images:
+      - url: "https://www.newswit.com/img/f/20230424/c1ff69547c5cca490d95efe7466311a0-0.jpg"
+        width: 1200
+        height: 673
+        isCached: true
+  - title: "Manufacturers hope for artificial intelligence boost in factories"
+    excerpt: "Manufacturing firms are keen on using AI to automate the repair of complex machinery, thereby increasing efficacy and solving technical issues. This development was showcased in Germany's industrial Home Fair,"
+    publishedDateTime: 2023-04-24T02:22:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/manufacturers-hope-for-artificial-intelligence-boost-in-factories/99718084"
+    type: article
+    provider:
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 39
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-99718084,imgsize-152838,width-1200,height=765,overlay-etcio/next-gen-technologies/manufacturers-hope-for-artificial-intelligence-boost-in-factories.jpg"
+        width: 1200
+        height: 765
+        isCached: true
 
 secured: "Vm9geRj+a3bzFCdQg1QHK/MEg6iPhWG4hz4wBL/2QaKO+KEbY4Vv5oCnZG8WirQKckqwlP/8XgRKjW78NPxLZ0oOTkRShp6vo/8eWOh74uX9kWMTjA8cir6mqSRuFj5rBHRurTxwX+5xwQoRgKvOnEBU4iaFBYcRH5WsfH3zkZA99ZycRcPYlOe6I61ApCp2d/7kCuDdU58VGGhO6n+QobsHk+NqgtADBmlSdsNfWIYOjaHgIZpA+jNKIjeHrUC4qazQH6BhjKK3EWRC6PGnuEn1QBnIum9Ta5LGh2i+o71QNTsKKsBiHEkIK9GuejeqD2EDom+0i93SNyUtH3F8tjcBGdDvVF77cCrS/x49PWY=;uo38ls+zwHkxqumIFydTYQ=="
 ---

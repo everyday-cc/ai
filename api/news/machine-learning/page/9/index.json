@@ -2,6 +2,49 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-02-10-automated-machine-learning-market-to-be-usd-154993-million-by-2030.md",
+      "title": "Automated Machine Learning Market To Be USD 15,499.3 Million by 2030",
+      "excerpt": "In 2022, the automated machine learning market size stood at USD 631.0 million, which is projected to witness a 49.2% CAGR during 2022–2030, reaching",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1105555483/Automated-Machine-Learning-Market-To-Be-USD-154993-Million-by-2030",
+      "originalUrl": "https://menafn.com/1105555483/Automated-Machine-Learning-Market-To-Be-USD-154993-Million-by-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?892040",
+          "width": 375,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-10T07:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-10-deep-multi-magnification-similarity-learning-helps-histopathological-diagnosis.md",
       "title": "Deep multi-magnification similarity learning helps histopathological diagnosis",
       "excerpt": "Nazar Mustafa Zaki's team from United Arab Emirates University, proposed a novel deep multi-magnification similarity learning (DSML) approach to improve performance in histopathological ...",
@@ -1252,40 +1295,6 @@
       "provider": {
         "name": "idw",
         "domain": "idw-online.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-machine-learning-model-predicts-physician-departure-with-ehr-use-metrics.md",
-      "title": "Machine Learning Model Predicts Physician Departure With EHR Use Metrics",
-      "excerpt": "The machine learning model found that physician demographics, EHR use metrics, and patient panel characteristics contributed most to the risk of physician departure.",
-      "sourceUrl": null,
-      "webUrl": "https://ehrintelligence.com/news/machine-learning-model-predicts-physician-departure-with-ehr-use-metrics",
-      "originalUrl": "https://ehrintelligence.com/news/machine-learning-model-predicts-physician-departure-with-ehr-use-metrics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://ehrintelligence.com/news/amp/machine-learning-model-predicts-physician-departure-with-ehr-use-metrics",
-      "cdnAmpWebUrl": "https://ehrintelligence-com.cdn.ampproject.org/c/s/ehrintelligence.com/news/amp/machine-learning-model-predicts-physician-departure-with-ehr-use-metrics",
-      "publishedDateTime": "2023-02-06T05:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EHR Intelligence",
-        "domain": "ehrintelligence.com",
         "images": null,
         "publishers": null,
         "authors": null

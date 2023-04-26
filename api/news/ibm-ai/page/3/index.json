@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-02-12-inside-philadelphia-eagles-quarterback-jalen-hurts-rumored-relationship-with-ai-professional-bry-burrows.md",
+      "title": "Inside Philadelphia Eagles Quarterback Jalen Hurts' Rumored Relationship With AI Professional Bry Burrows",
+      "excerpt": "She joined the sales team at IBM in 2019, quickly working her way up the corporate ... Today, she is an AI Partner at a Fortune 500 company, working on its artificial intelligence product Watson. You may remember Watson as the AI that beat Number Two ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.yourtango.com/entertainment/who-jalen-hurts-girlfriend-bry-burrows",
+      "originalUrl": "https://www.yourtango.com/entertainment/who-jalen-hurts-girlfriend-bry-burrows",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.yourtango.com/sites/default/files/styles/listing_big/public/image_blog/jalen-hurts-girlfriend-bry-burrow-super-bowl.png?itok=iFKQEMJE",
+          "width": 620,
+          "height": 309,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.yourtango.com/entertainment/who-jalen-hurts-girlfriend-bry-burrows",
+      "cdnAmpWebUrl": "https://www-yourtango-com.cdn.ampproject.org/c/s/www.yourtango.com/entertainment/who-jalen-hurts-girlfriend-bry-burrows",
+      "publishedDateTime": "2023-02-11T09:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YourTango",
+        "domain": "yourtango.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-11-studies-show-ibm-watson-reaches-mostly-same-cancer-decisions-as-doctors.md",
       "title": "Studies show IBM Watson reaches mostly same cancer decisions as doctors",
       "excerpt": "IBM has unveiled new data for its Watson AI which shows the software to be in agreement with doctor's recommendations up to 96% of the time. Unveiled at this year's American Society of Clinical ...",
@@ -1276,58 +1319,6 @@
         "name": "Technical",
         "domain": "technical.ly",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-09-australian-gov-renews-ibm-contract-for-quantum-computing-ai.md",
-      "title": "Australian gov renews IBM contract for quantum computing, AI",
-      "excerpt": "This includes IBM’s suite of technology capabilities like IBM Watson, which uses AI to automate processes, and the IBM Cloud, to store government data. The new agreement follows the first of its ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/business-strategy/public-sector/369819/australian-gov-renews-ibm-contract-for-quantum-computing-ai",
-      "originalUrl": "https://www.itpro.co.uk/business-strategy/public-sector/369819/australian-gov-renews-ibm-contract-for-quantum-computing-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1673259843/itpro/2023/January/IBM_DTA_Australia_press.png",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T03:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

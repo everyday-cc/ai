@@ -22,6 +22,20 @@ topics:
   - AI
 
 related:
+  - title: "Nvidia introduces ‘guardrails’ for AI chatbots"
+    excerpt: "Nvidia has released an open-source initiative to keep chatbots from hallucinating. This refers to the factual inaccuracies that an application such as"
+    publishedDateTime: 2023-04-26T09:26:00Z
+    webUrl: "https://www.techzine.eu/news/analytics/105151/nvidia-introduces-guardrails-for-ai-chatbots/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 39
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2022/01/Nvidia-1.png"
+        width: 1500
+        height: 800
+        isCached: true
   - title: "Deloitte teams with NVIDIA on artificial intelligence platform for logistics and retail"
     excerpt: "Consulting firm Deloitte today launched a suite of artificial intelligence (AI) tools for logistics and retail businesses, saying they can help users to enhance customer experiences, optimize operations,"
     publishedDateTime: 2023-04-25T17:40:00Z

@@ -75,6 +75,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Image Recognition in Retail Market Research, 2023-2030"
+    excerpt: "Newest 126 Pages Report,the goal of Image Recognition in Retail Market Image Recognition in Retail Market is to broaden"
+    publishedDateTime: 2023-04-26T07:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/image-recognition-in-retail-market-research-2023-2030-2023-04-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The AI Recognition market is driven from 2023 to 2030 with an impressive compound annual growth rate 12.3% CAGR."
     excerpt: "The Global Market Overview of \"AI Recognition Market\"offers a unique insight into key trends shaping the industry world-wide and in the largest markets. Written by some of our most experienced analysts,"
     publishedDateTime: 2023-04-21T22:22:00Z

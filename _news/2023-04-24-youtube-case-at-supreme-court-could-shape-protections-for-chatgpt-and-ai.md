@@ -132,6 +132,15 @@ related:
         width: 624
         height: 351
         isCached: true
+  - title: "Google creates DeepMind division to combat threat from ChatGPT and Bing AI"
+    excerpt: "The rate of AI development is seemingly speeding up each day, and Google is one of the biggest players in the game. The teams have an impressive history of achievements in AI coll"
+    publishedDateTime: 2023-04-24T13:37:00Z
+    webUrl: "https://www.techradar.com/news/google-creates-deepmind-division-to-combat-threat-from-chatgpt-and-bing-ai"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 62
   - title: "ChatGPT: Opportunities and threats"
     excerpt: "November 30, 2022 to be precise, ChatGPT, an artificial intelligence chatbot, has been gaining rave reviews as"
     publishedDateTime: 2023-04-25T16:46:00Z

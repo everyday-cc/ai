@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-03-17-we-need-to-make-machine-learning-sustainable-heres-how.md",
+      "title": "We Need To Make Machine Learning Sustainable. Here’s How",
+      "excerpt": "Moreover, large, intricate models based on complex architectures, such as those of deep learning, can be opaque and difficult to understand. This lack of transparency can have a two-fold effect. On the one hand, it can lead to mistrust and lack of adoption.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/esade/2023/03/17/we-need-to-make-machine-learning-sustainable-heres-how/",
+      "originalUrl": "https://www.forbes.com/sites/esade/2023/03/17/we-need-to-make-machine-learning-sustainable-heres-how/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64132abc2efe9ea45c018393/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 502,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/esade/2023/03/17/we-need-to-make-machine-learning-sustainable-heres-how/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/esade/2023/03/17/we-need-to-make-machine-learning-sustainable-heres-how/amp/",
+      "publishedDateTime": "2023-03-17T05:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-17-best-practices-for-leveraging-artificial-intelligence-and-machine-learning-in-2023.md",
       "title": "Best practices for leveraging artificial intelligence and machine learning in 2023",
       "excerpt": "In many ways, this year will come to be remembered as the one when artificial intelligence (AI) and machine learning (ML) finally broke through the hype, delivering consumer-focused products that amazed millions of people. Generative AI, including DALL·E ...",
@@ -1369,59 +1421,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-10-real-time-fraud-detection-using-aws-serverless-and-machine-learning-services.md",
-      "title": "Real-time fraud detection using AWS serverless and machine learning services",
-      "excerpt": "Online fraud has a widespread impact on businesses and requires an effective end-to-end strategy to detect and prevent new account fraud and account takeovers, and stop suspicious payment transactions. In this post, we show a serverless approach to detect online transaction fraud in near-real time. We",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/real-time-fraud-detection-using-aws-serverless-and-machine-learning-services/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/real-time-fraud-detection-using-aws-serverless-and-machine-learning-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/03/10/real-time-fraud-detection.jpg",
-          "width": 1564,
-          "height": 781,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-10T10:14:37-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

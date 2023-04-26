@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/iese/2023/04/25/in-the-artificial-intellig
 ampWebUrl: "https://www.forbes.com/sites/iese/2023/04/25/in-the-artificial-intelligence-race-is-your-brain-trained-to-compete/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/iese/2023/04/25/in-the-artificial-intelligence-race-is-your-brain-trained-to-compete/amp/"
 type: article
-quality: 102
-heat: 102
+quality: 104
+heat: 104
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/6447918c9384cd1bfdf33129/0x0.jpg?format=jpg&width=1200"

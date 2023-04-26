@@ -2,6 +2,94 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-03-27-artificial-intelligence-in-indian-healthcare-system-icmr-releases-first-ethical-guidelines.md",
+      "title": "Artificial Intelligence In Indian Healthcare System: ICMR Releases First Ethical Guidelines",
+      "excerpt": "In a major development in the healthcare system in India, the Department of Health Research and ICMR's Artificial Intelligence Cell have released the first-ever ethical guidelines for applying artificial intelligence in biomedical research and healthcare structure in the country.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehealthsite.com/news/artificial-intelligence-in-indian-healthcare-system-icmr-releases-first-ethical-guidelines-965130/",
+      "originalUrl": "https://www.thehealthsite.com/news/artificial-intelligence-in-indian-healthcare-system-icmr-releases-first-ethical-guidelines-965130/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://st1.thehealthsite.com/wp-content/uploads/2023/03/AI-in-healthcare.png",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehealthsite.com/news/artificial-intelligence-in-indian-healthcare-system-icmr-releases-first-ethical-guidelines-965130/amp/",
+      "cdnAmpWebUrl": "https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/news/artificial-intelligence-in-indian-healthcare-system-icmr-releases-first-ethical-guidelines-965130/amp/",
+      "publishedDateTime": "2023-03-26T23:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheHealthSite",
+        "domain": "thehealthsite.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-03-26-icmr-releases-first-ethical-guidelines-for-ai-in-healthcare.md",
+      "title": "ICMR releases first ethical guidelines for AI in healthcare",
+      "excerpt": "The guidelines aim to establish an ethical framework for the development of AI-based tools that can benefit all stakeholders.",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/news/india/icmr-releases-first-ethical-guidelines-for-ai-in-healthcare-11679845618748.html",
+      "originalUrl": "https://www.livemint.com/news/india/icmr-releases-first-ethical-guidelines-for-ai-in-healthcare-11679845618748.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.livemint.com/lm-img/img/2023/03/26/600x338/cervical_cancer__1679845856883_1679845857081_1679845857081.webp",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/news/india/icmr-releases-first-ethical-guidelines-for-ai-in-healthcare/amp-11679845618748.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/icmr-releases-first-ethical-guidelines-for-ai-in-healthcare/amp-11679845618748.html",
+      "publishedDateTime": "2023-03-26T08:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-03-24-trump-arrested-putin-jailed-fake-ai-images-spread-online.md",
       "title": "Trump arrested? Putin jailed? Fake AI images spread online",
       "excerpt": "He even stated clearly in his Twitter thread that the images were AI-generated. Still, the images were enough ... Arthur Holland Michel, a fellow at the Carnegie Council for Ethics in International Affairs in New York who is focused on emerging ...",
@@ -1334,94 +1422,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-07-sas-data-ethics-chief-talks-about-keeping-an-ethical-eye-on-ai.md",
-      "title": "SAS' data ethics chief talks about keeping an ethical eye on AI",
-      "excerpt": "SAS Institute's Data Ethics Practice's director Reggie Townsend. Photo illustration: Lindsey Bailey/Axios. Photo courtesy of SAS Institute The U.S. is at a crossroads when it comes to the future of artificial intelligence,",
-      "sourceUrl": null,
-      "webUrl": "https://www.axios.com/local/raleigh/2023/03/07/sas-head-of-artificial-intelligence-ethics",
-      "originalUrl": "https://www.axios.com/local/raleigh/2023/03/07/sas-head-of-artificial-intelligence-ethics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.axios.com/l0HjUVno5evT4xHFAks95sBilNI=/0x0:1920x1080/1366x768/2023/03/06/1678140445306.jpg",
-          "width": 1366,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-07T05:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Axios",
-        "domain": "axios.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-04-can-religion-save-us-from-artificial-intelligence.md",
-      "title": "Can religion save us from Artificial Intelligence?",
-      "excerpt": "“Indeed, if technological progress increases inequality, it is not true progress,” Pope Francis said in a Nov. 2020 video announcing his prayer intention that robotics and artificial intelligence may always serve humankind. The Vatican’s goal is not ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/world-nation/story/2023-03-03/can-religion-save-us-from-artificial-inte",
-      "originalUrl": "https://www.latimes.com/world-nation/story/2023-03-03/can-religion-save-us-from-artificial-inte",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/f945c1c/2147483647/strip/true/crop/2400x1260+0+170/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F95%2Fe4%2F38a91b6245bcb0f695100dd36eea%2Funnamed.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-03T17:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics",
-        "AI in Autos"
       ]
     }
   ],

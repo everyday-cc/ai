@@ -2,6 +2,94 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-03-06-understanding-the-world-of-artificial-intelligence-and-its-future-impacts.md",
+      "title": "Understanding the world of artificial intelligence and its future impacts",
+      "excerpt": "Dr. Rebecca Leis, a computer science program director at Full Sail University, sat down with anchor Justin Warmoth on “The Weekly” to help us better understand the world of AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.clickorlando.com/news/local/2023/03/05/understanding-the-world-of-artificial-intelligence-and-its-future-impacts/",
+      "originalUrl": "https://www.clickorlando.com/news/local/2023/03/05/understanding-the-world-of-artificial-intelligence-and-its-future-impacts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/03-05-2023/t_0fb618fcb9db4ccf9a1b664f859dae53_name_image.jpg?_a=ATCqVhC0",
+          "width": 700,
+          "height": 394,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-05T09:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News 6 WKMG",
+        "domain": "clickorlando.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-03-05-lewis-can-artificial-intelligence-be-evil.md",
+      "title": "Lewis: Can artificial intelligence be evil?",
+      "excerpt": "In the year 2050, the world was a vastly different place, controlled by advanced AI systems that governed everything from transportation to health care. However, a series of bizarre incidents began to occur across",
+      "sourceUrl": null,
+      "webUrl": "https://www.vaildaily.com/opinion/lewis-can-artificial-intelligence-be-evil/",
+      "originalUrl": "https://www.vaildaily.com/opinion/lewis-can-artificial-intelligence-be-evil/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vaildaily.com/wp-content/uploads/sites/7/2022/07/MarkLewis-1-683x1024.jpeg",
+          "width": 683,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-04T14:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vail Daily",
+        "domain": "vaildaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-03-04-can-religion-save-us-from-artificial-intelligence.md",
       "title": "Can religion save us from Artificial Intelligence?",
       "excerpt": "“Indeed, if technological progress increases inequality, it is not true progress,” Pope Francis said in a Nov. 2020 video announcing his prayer intention that robotics and artificial intelligence may always serve humankind. The Vatican’s goal is not ...",
@@ -1332,112 +1420,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-02-24-how-artificial-intelligence-helps-protect-intellectual-property.md",
-      "title": "How Artificial Intelligence Helps Protect Intellectual Property",
-      "excerpt": "Brands today have enough challenges: build great products, reach target customers cost-effectively, and increase sales and revenue. The last thing they want to contend with is finding out that someone somewhere is copying their products and selling them ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/24/how-artificial-intelligence-helps-protect-intellectual-property/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/24/how-artificial-intelligence-helps-protect-intellectual-property/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63f7c6727d0ada838b093b46/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/24/how-artificial-intelligence-helps-protect-intellectual-property/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/02/24/how-artificial-intelligence-helps-protect-intellectual-property/amp/",
-      "publishedDateTime": "2023-02-24T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-02-24-everything-you-wanted-to-know-about-ai-but-were-afraid-to-ask.md",
-      "title": "Everything you wanted to know about AI – but were afraid to ask",
-      "excerpt": "From chatbots to deepfakes, here is the lowdown on the current state of artificial intelligence Barely a day goes by without some new story about AI, or artificial intelligence. The excitement about it is palpable – the possibilities, some say ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2023/feb/24/ai-artificial-intelligence-chatbots-to-deepfakes",
-      "originalUrl": "https://www.theguardian.com/technology/2023/feb/24/ai-artificial-intelligence-chatbots-to-deepfakes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/543d6b74c91d5d5fb908173506f00e60567f9f5c/0_70_5704_3422/master/5704.jpg?width=620&quality=85&auto=format&fit=max&s=4854fc9c9b45b2aa64285c3d335f0a4f",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2023/feb/24/ai-artificial-intelligence-chatbots-to-deepfakes",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/feb/24/ai-artificial-intelligence-chatbots-to-deepfakes",
-      "publishedDateTime": "2023-02-24T05:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "AI in Autos",
-        "Machine Learning"
       ]
     }
   ],

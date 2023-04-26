@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/04/25/what-mar
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/04/25/what-marketing-and-advertising-specialists-can-expect-from-chatgpt/amp/"
 type: article
 quality: 91
-heat: 251
+heat: 261
 published: true
 
 provider:
@@ -126,6 +126,15 @@ related:
         width: 624
         height: 351
         isCached: true
+  - title: "Google creates DeepMind division to combat threat from ChatGPT and Bing AI"
+    excerpt: "The rate of AI development is seemingly speeding up each day, and Google is one of the biggest players in the game. The teams have an impressive history of achievements in AI coll"
+    publishedDateTime: 2023-04-24T13:37:00Z
+    webUrl: "https://www.techradar.com/news/google-creates-deepmind-division-to-combat-threat-from-chatgpt-and-bing-ai"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 62
   - title: "YouTube case at Supreme Court could shape protections for ChatGPT and AI"
     excerpt: "A forthcoming decision whether to weaken a powerful shield protecting internet companies could have implications for artificial intelligence chatbot ChatGPT."
     publishedDateTime: 2023-04-24T09:12:00Z

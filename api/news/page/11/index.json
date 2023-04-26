@@ -2,6 +2,626 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-04-17-restaffing-the-self-driving-space-moving-past-traditional-recruitment.md",
+      "title": "Restaffing The Self-Driving Space: Moving Past Traditional Recruitment",
+      "excerpt": "Self-driving cars were science fiction a few years ago, but most technologically advanced nations now have autonomous automobiles—making this once-impossible fantasy a reality. Self-driving cars have conquered the automotive sector with significant ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/17/restaffing-the-self-driving-space-moving-past-traditional-recruitment/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/17/restaffing-the-self-driving-space-moving-past-traditional-recruitment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6109756bd03b841ec749f142/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 698,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/17/restaffing-the-self-driving-space-moving-past-traditional-recruitment/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/17/restaffing-the-self-driving-space-moving-past-traditional-recruitment/amp/",
+      "publishedDateTime": "2023-04-17T04:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-17-bull-of-the-day-baidu-bidu.md",
+      "title": "Bull of the Day: Baidu (BIDU)",
+      "excerpt": "Under the leadership of Robin Li, Baidu has orchestrated key government partnerships to utilize technology parks in Beijing and Shanghai for the development of autonomous driving. Now that ChatGPT ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/bull-of-the-day:-baidu-bidu-0",
+      "originalUrl": "https://www.nasdaq.com/articles/bull-of-the-day:-baidu-bidu-0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-17T04:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-17-harnessing-the-power-of-ai-in-the-insurance-sector.md",
+      "title": "Harnessing The Power Of AI In The Insurance Sector",
+      "excerpt": "AI can help insurers evaluate risk more accurately by analyzing large amounts of data such as historical claims data, credit scores and social media activity—thereby enabling in",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/17/harnessing-the-power-of-ai-in-the-insurance-sector/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/17/harnessing-the-power-of-ai-in-the-insurance-sector/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63c15e4efdaea7ad1989b8c5/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/17/harnessing-the-power-of-ai-in-the-insurance-sector/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/17/harnessing-the-power-of-ai-in-the-insurance-sector/amp/",
+      "publishedDateTime": "2023-04-17T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-17-the-ai-revolution-googles-artificial-intelligence-developers-on-whats-next-in-the-field.md",
+      "title": "The AI revolution: Google's artificial intelligence developers on what's next in the field",
+      "excerpt": "The revolution in artificial intelligence is at the center of a debate ranging from those who hope it will save humanity to those who predict doom. Scott Pelley headed to Google to see what's coming next in AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/sanfrancisco/news/ai-advancements-google-artificial-intelligence-future/",
+      "originalUrl": "https://www.cbsnews.com/sanfrancisco/news/ai-advancements-google-artificial-intelligence-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/04/14/c12480c9-3363-478b-86bf-a856a2fa8598/thumbnail/1200x630/7b4e4968150471b425ee46c93ff66fd1/google-robot-1.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/sanfrancisco/news/ai-advancements-google-artificial-intelligence-future/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/ai-advancements-google-artificial-intelligence-future/",
+      "publishedDateTime": "2023-04-17T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-17-elon-musk-and-ai-leaders-call-for-gpt-4-to-pause-is-it-about-managing-risks-or-catching-up-in-the-ai-race.md",
+      "title": "Elon Musk And AI Leaders Call For GPT-4 To Pause: Is It About Managing Risks Or Catching Up In The AI Race?",
+      "excerpt": "Many of the people who signed the Pause letter have invested in AI. The pause will not manage the risks, but give AI investors time to catch up on the AI arms race. Instead of pausing, we need better regulation of AI based on the leadership principles of transparency and inclusion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/timabansal/2023/04/17/elon-musk-and-ai-leaders-call-for-gpt-4-to-pause-is-it-about-managing-risks-or-catching-up-in-the-ai-race/",
+      "originalUrl": "https://www.forbes.com/sites/timabansal/2023/04/17/elon-musk-and-ai-leaders-call-for-gpt-4-to-pause-is-it-about-managing-risks-or-catching-up-in-the-ai-race/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/643c2f6670dc16b795fe5714/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/timabansal/2023/04/17/elon-musk-and-ai-leaders-call-for-gpt-4-to-pause-is-it-about-managing-risks-or-catching-up-in-the-ai-race/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timabansal/2023/04/17/elon-musk-and-ai-leaders-call-for-gpt-4-to-pause-is-it-about-managing-risks-or-catching-up-in-the-ai-race/amp/",
+      "publishedDateTime": "2023-04-17T03:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-17-deep-learning-robotics-dlrob-announces-support-for-universal-robots-devices-in-its-ai-powered-robotics-software.md",
+      "title": "Deep Learning Robotics (DLRob) Announces Support for Universal Robots devices in its AI-powered Robotics Software",
+      "excerpt": "Deep Learning Robotics (DLRob), a leading provider of AI robotics software, has announced its support for new hardware devices in its latest software update. The new",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/04/n31824160/deep-learning-robotics-dlrob-announces-support-for-universal-robots-devices-in-its-ai-powered-robo",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/04/n31824160/deep-learning-robotics-dlrob-announces-support-for-universal-robots-devices-in-its-ai-powered-robo",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-17T03:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-04-17-congress-can-shape-ai-governance-without-stifling-innovation-heres-how.md",
+      "title": "Congress Can Shape AI Governance Without Stifling Innovation. Here’s How.",
+      "excerpt": "As we progress deeper into the artificial intelligence (AI) era, it is critical to rethink how we address the growing impact of AI technologies on society.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/divyanshkaushik/2023/04/17/congress-can-shape-ai-governance-without-stifling-innovation-heres-how/",
+      "originalUrl": "https://www.forbes.com/sites/divyanshkaushik/2023/04/17/congress-can-shape-ai-governance-without-stifling-innovation-heres-how/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/643865e6e5e9481f10a008b9/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/divyanshkaushik/2023/04/17/congress-can-shape-ai-governance-without-stifling-innovation-heres-how/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/divyanshkaushik/2023/04/17/congress-can-shape-ai-governance-without-stifling-innovation-heres-how/amp/",
+      "publishedDateTime": "2023-04-17T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-17-large-language-models-are-the-new-cloud-battleground.md",
+      "title": "Large language models are the new cloud battleground",
+      "excerpt": "Perhaps the biggest thing since open source or Google, LLMs may have companies fighting for supremacy, but it’s the developers who come out ahead.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3693330/large-language-models-are-the-new-cloud-battleground.html",
+      "originalUrl": "https://www.infoworld.com/article/3693330/large-language-models-are-the-new-cloud-battleground.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/02/fighter_boxer_competition_boxing-glove_best_fight_-totokita-getty-100787964-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3693330/large-language-models-are-the-new-cloud-battleground.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3693330/large-language-models-are-the-new-cloud-battleground.amp.html",
+      "publishedDateTime": "2023-04-17T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-17-google-ai-staffers-shocked-that-samsung-apple-phone-search-exclusive-at-risk.md",
+      "title": "Google AI Staffers Shocked That Samsung, Apple Phone Search Exclusive At Risk",
+      "excerpt": "Stunned that Samsung has been considering switching its default phone search to Microsoft’s Bing, with Apple's contract up for renewal as well, Google is pulling out all the stops for Google I/O next month with new chat features for its traditional search function,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/martineparis/2023/04/17/google-160-ai-staffers-shocked-that-samsung-apple-phone-exclusive-at-risk/",
+      "originalUrl": "https://www.forbes.com/sites/martineparis/2023/04/17/google-160-ai-staffers-shocked-that-samsung-apple-phone-exclusive-at-risk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/643cc0aa4cbcd5f9e63bf6fb/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/martineparis/2023/04/17/google-160-ai-staffers-shocked-that-samsung-apple-phone-exclusive-at-risk/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/04/17/google-160-ai-staffers-shocked-that-samsung-apple-phone-exclusive-at-risk/amp/",
+      "publishedDateTime": "2023-04-17T01:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-17-baidu-releases-new-products-to-enhance-intelligent-driving.md",
+      "title": "Baidu Releases New Products To Enhance Intelligent Driving",
+      "excerpt": "Chinese artificial intelligence company Baidu Inc BIDU revealed a series of new products to enhance intelligent driving on Sunday, in a bid to be part of the transition to smarter cars in the future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/23/04/31826546/baidu-releases-new-products-to-enhance-intelligent-driving",
+      "originalUrl": "https://www.benzinga.com/news/23/04/31826546/baidu-releases-new-products-to-enhance-intelligent-driving",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2023/Photo_by_Tim_Foster_on_Unsplash.jpeg?width=1200&height=800&fit=crop",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-17T00:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-17-healthcare-artificial-intelligence-ai-market-growth-and-forecast-till-2031.md",
+      "title": "Healthcare Artificial Intelligence (AI) Market Growth and Forecast till 2031",
+      "excerpt": "The latest market research report on the Global \"Healthcare Artificial Intelligence (AI) Market\" is segmented by",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-growth-and-forecast-till-2031-2023-04-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-growth-and-forecast-till-2031-2023-04-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 268,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-17T00:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-17-the-ai-dilemma-for-entrepreneurs-pivot-now-or-wait-it-out.md",
+      "title": "The AI Dilemma For Entrepreneurs: Pivot Now Or Wait It Out?",
+      "excerpt": "In November 2022 Chat GPT made artificial intelligence widely accessible to entrepreneurs, arguably for the first time. What followed was a wave of business owners figuring out how they could use AI to save time, ramp up production, make more money and stand out in their field.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jodiecook/2023/04/17/the-ai-dilemma-for-entrepreneurs-pivot-now-or-wait-it-out/",
+      "originalUrl": "https://www.forbes.com/sites/jodiecook/2023/04/17/the-ai-dilemma-for-entrepreneurs-pivot-now-or-wait-it-out/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6410537ca114703a117aa269/0x0.jpg?format=jpg&crop=2217,1247,x0,y214,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jodiecook/2023/04/17/the-ai-dilemma-for-entrepreneurs-pivot-now-or-wait-it-out/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jodiecook/2023/04/17/the-ai-dilemma-for-entrepreneurs-pivot-now-or-wait-it-out/amp/",
+      "publishedDateTime": "2023-04-16T23:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-17-baidu-shares-drop-to-8-week-lows-after-company-reveals-chatgpt-rival.md",
+      "title": "Baidu shares drop to 8-week lows after company reveals ChatGPT rival",
+      "excerpt": "Beijing has pushed for national self-sufficiency in tech, while maintaining censorship and increasing regulation of data. Many Chinese companies, other than Baidu, are developing similar tech.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/03/16/baidu-shares-drop-after-chatgpt-ernie-bot-reveal.html",
+      "originalUrl": "https://www.cnbc.com/2023/03/16/baidu-shares-drop-after-chatgpt-ernie-bot-reveal.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-16T23:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-17-the-week-in-web3-and-ai-gucci-x-vans-alts-by-adidas-ami-x-zepeto-lvmhs-patou.md",
       "title": "The Week In Web3 And AI: Gucci x Vans, ALTS By adidas, AMI x ZEPETO, LVMH’s Patou",
       "excerpt": "Following the announcement of its ALTS Web3 loyalty program, on Friday, adidas revealed mechanics whereby dedicated fans could bypass a random allocation of traits by paying to secure their choice — offering an interesting glimpse into the way the brand plans to further monetize the initiative.",
@@ -586,598 +1206,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-04-16-constitutional-recognition-through-an-indigenous-voice-to-parliament.md",
-      "title": "Constitutional Recognition through an Indigenous Voice to Parliament",
-      "excerpt": "An Indigenous Voice to Parliament is a proposal which has been met with a wide range of responses from Aboriginal and Torres Strait Islander people.",
-      "sourceUrl": null,
-      "webUrl": "https://www.abc.net.au/radio/programs/speakingout/referendum-voices/102220564",
-      "originalUrl": "https://www.abc.net.au/radio/programs/speakingout/referendum-voices/102220564",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://live-production.wcms.abc-cdn.net.au/e13a4d92ff42ecdd669dedef3ba2da5d?impolicy=wcms_crop_resize&cropH=720&cropW=1280&xPos=0&yPos=0&width=862&height=485",
-          "width": 862,
-          "height": 485,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-16T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Australian Broadcasting Corporation",
-        "domain": "abc.net.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-16-financial-institutions-directed-to-adopt-facial-recognition-feature.md",
-      "title": "Financial institutions directed to adopt facial recognition feature",
-      "excerpt": "According to the central bank, the measures require commercial banks and microfinance banks (MFBs) to implement a combination of at least two controls, such as facial recognition, in-app live original identity document verification, in-app live picture verification, and call-back verification.",
-      "sourceUrl": null,
-      "webUrl": "https://tribune.com.pk/story/2412181/financial-institutions-directed-to-adopt-facial-recognition-feature",
-      "originalUrl": "https://tribune.com.pk/story/2412181/financial-institutions-directed-to-adopt-facial-recognition-feature",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.tribune.com.pk/media/images/biz1681621227-0/biz1681621227-0.jpg",
-          "width": 1588,
-          "height": 1664,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://tribune.com.pk/story/2412181/financial-institutions-directed-to-adopt-facial-recognition-feature?amp=1",
-      "cdnAmpWebUrl": "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2412181/financial-institutions-directed-to-adopt-facial-recognition-feature?amp=1",
-      "publishedDateTime": "2023-04-15T22:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Express Tribune",
-        "domain": "tribune.com.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-16-mit-physicist-max-tegmark-calls-for-a-halt-on-ai-development.md",
-      "title": "MIT physicist Max Tegmark calls for a halt on AI development",
-      "excerpt": "Physicist and MIT professor Max Tegmark tells 'Unfiltered' host Dan Bongino that we should be building technology we can 'trust and understand.'",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/video/6325184853112",
-      "originalUrl": "https://www.foxnews.com/video/6325184853112",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c4b5d133-0cef-4983-92c5-91ed27dd6887/8092b1a6-c899-4a2b-a195-1aa7249216e9/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-15T19:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-16-baidu-apollo-releases-major-product-updates-to-help-manufacturers-build-smarter-cars-for-tomorrow.md",
-      "title": "Baidu Apollo Releases Major Product Updates to Help Manufacturers Build Smarter Cars for Tomorrow",
-      "excerpt": "Baidu Apollo City Driving Max is upgraded with \"lightweight HD map\", which is 80% \"lighter\" compared to traditional HD maps. Baidu's Apollo Highway Driving Pro will be deployed on Black Sesame Semiconductor's Huashan II A1000 chip computing platform and will be officially released in Q3 this year.",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/04/16/9795077.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/04/16/9795077.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-15T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-15-reviving-the-dead-with-ai-is-it-really-worth-it.md",
-      "title": "Reviving The Dead With AI: Is It Really Worth It?",
-      "excerpt": "If AI could let you speak with your deceased loved ones again, would you take the chance? It’s not a rhetorical question. A few companies and experts believe this will soon be possible, and some are even starting to market their own solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/federicoguerrini/2023/04/15/reviving-the-dead-with-ai-is-it-really-worth-it/",
-      "originalUrl": "https://www.forbes.com/sites/federicoguerrini/2023/04/15/reviving-the-dead-with-ai-is-it-really-worth-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/643acded61f9a64accfe5712/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/federicoguerrini/2023/04/15/reviving-the-dead-with-ai-is-it-really-worth-it/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/federicoguerrini/2023/04/15/reviving-the-dead-with-ai-is-it-really-worth-it/amp/",
-      "publishedDateTime": "2023-04-15T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-15-an-ai-safety-expert-outlined-a-range-of-speculative-doomsday-scenarios-from-weaponization-to-power-seeking-behavior.md",
-      "title": "An AI safety expert outlined a range of speculative doomsday scenarios, from weaponization to power-seeking behavior",
-      "excerpt": "For all of the excitement surrounding the mainstream use of AI technology, there are also the science fiction-type scenarios that are the stuff of nightmares. A recent paper authored by Dan ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-safety-expert-research-speculates-dangers-doomsday-scenarios-weaponization-deception-2023-4",
-      "originalUrl": "https://www.businessinsider.com/ai-safety-expert-research-speculates-dangers-doomsday-scenarios-weaponization-deception-2023-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6439affa56f0dc0019893e79?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ai-safety-expert-research-speculates-dangers-doomsday-scenarios-weaponization-deception-2023-4?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-safety-expert-research-speculates-dangers-doomsday-scenarios-weaponization-deception-2023-4?amp",
-      "publishedDateTime": "2023-04-15T05:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-15-2023-2029-ai-in-computer-vision-market-share-with-86-pages-by-irb.md",
-      "title": "2023-2029 \"AI In Computer Vision Market\" Share, With 86+ Pages By IRB",
-      "excerpt": "AI In Computer Vision Market ” Report Insights with 86 + pages of analysis on business strategy taken up byÂemerging industry players, geographical scope, market segments, product landscape and cost structure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/2023-2029-ai-in-computer-vision-market-share-with-86-pages-by-irb-2023-04-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/2023-2029-ai-in-computer-vision-market-share-with-86-pages-by-irb-2023-04-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-15T05:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-15-spacex-launches-startups-first-cell-tower-in-space.md",
-      "title": "SpaceX Launches Startup's First 'Cell Tower in Space'",
-      "excerpt": "With a SpaceX rocket launch late Friday, a Spanish company called Sateliot took its first step toward helping you get text messaging abilities in mountains, rural areas and other parts of the world where conventional mobile networks fail.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/home/internet/spacex-launches-startups-first-cell-tower-in-space/",
-      "originalUrl": "https://www.cnet.com/home/internet/spacex-launches-startups-first-cell-tower-in-space/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/f8cd5c4525386ce7a982925e6f428a54c6080942/hub/2023/04/06/21031a62-fd2f-4f4d-a647-214d77009e95/sateliot-satellite.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/spacex-launches-startups-first-cell-tower-in-space/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/spacex-launches-startups-first-cell-tower-in-space/",
-      "publishedDateTime": "2023-04-15T04:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-15-new-artificial-intelligence-tool-helps-predict-colon-cancer-survival.md",
-      "title": "New Artificial Intelligence Tool Helps Predict Colon Cancer Survival",
-      "excerpt": "Artificial intelligence (AI) or machine intelligence refers to the intelligence displayed by computers or robots in contrast to the natural intelligence exhibited by humans. It is considered one of the major advancements of the 4th industrial revolution and finds application in several fields including medicine.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/new-artificial-intelligence-tool-helps-predict-colon-cancer-survival-211365-1.htm",
-      "originalUrl": "https://www.medindia.net/news/new-artificial-intelligence-tool-helps-predict-colon-cancer-survival-211365-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.medindia.net/health-images/artificial-intelligence-can-now-predict.jpg",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/new-artificial-intelligence-tool-helps-predict-colon-cancer-survival-211365-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/new-artificial-intelligence-tool-helps-predict-colon-cancer-survival-211365-1.htm",
-      "publishedDateTime": "2023-04-15T04:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-04-15-robot-sophia-stars-at-artificial-intelligence-forum-in-dominican-republic.md",
-      "title": "Robot Sophia stars at artificial intelligence forum in Dominican Republic",
-      "excerpt": "The robot Sophia was the main protagonist at the Global Forum in Casa de Campo (La Romana, eastern Dominican Republic) where the advances and risks posed by artificial intelligence (AI) were discussed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.laprensalatina.com/robot-sophia-stars-at-artificial-intelligence-forum-in-dominican-republic/",
-      "originalUrl": "https://www.laprensalatina.com/robot-sophia-stars-at-artificial-intelligence-forum-in-dominican-republic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.laprensalatina.com/wp-content/uploads/2023/04/f5f380243fc2f1893919f61814c51c7bba7e37f6w-1024x683.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.laprensalatina.com/robot-sophia-stars-at-artificial-intelligence-forum-in-dominican-republic/amp/",
-      "cdnAmpWebUrl": "https://www-laprensalatina-com.cdn.ampproject.org/c/s/www.laprensalatina.com/robot-sophia-stars-at-artificial-intelligence-forum-in-dominican-republic/amp/",
-      "publishedDateTime": "2023-04-15T04:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "La Prensa Latina",
-        "domain": "laprensalatina.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-15-ai-aspiring-toward-all-in-global-geopolitical-multilateral-unity-arrangement-for-sake-of-humanity-says-ai-ethics-and-ai-law.md",
-      "title": "AI Aspiring Toward All-In Global Geopolitical Multilateral Unity Arrangement For Sake Of Humanity Says AI Ethics And AI Law",
-      "excerpt": "Advocates of AI are saying that we need large-scale global multilateral arrangements to try and prevent an AI apocalyptical nightmare upon humankind. I explore what this all means and whether it is feasible,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2023/04/15/ai-aspiring-toward-all-in-global-geopolitical-multilateral-unity-arrangement-for-sake-of-humanity-says-ai-ethics-and-ai-law/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/04/15/ai-aspiring-toward-all-in-global-geopolitical-multilateral-unity-arrangement-for-sake-of-humanity-says-ai-ethics-and-ai-law/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62871351ad5ec247308a0ba8/0x0.jpg?format=jpg&crop=1850,1387,x113,y0,safe&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2023/04/15/ai-aspiring-toward-all-in-global-geopolitical-multilateral-unity-arrangement-for-sake-of-humanity-says-ai-ethics-and-ai-law/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/04/15/ai-aspiring-toward-all-in-global-geopolitical-multilateral-unity-arrangement-for-sake-of-humanity-says-ai-ethics-and-ai-law/amp/",
-      "publishedDateTime": "2023-04-15T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-15-elon-musk-founds-new-artificial-intelligence-company-called-xai.md",
-      "title": "Elon Musk founds new artificial intelligence company called X.AI",
-      "excerpt": "Twitter owner Elon Musk has founded a new artificial intelligence company named X.AI, according to a Nevada business filing from last month. The filing, dated March 9, lists Musk as the company ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/technology/3952116-elon-musk-founds-new-artificial-intelligence-company-called-x-ai/",
-      "originalUrl": "https://thehill.com/policy/technology/3952116-elon-musk-founds-new-artificial-intelligence-company-called-x-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/wp-content/uploads/sites/2/2023/04/6436cc09aba5a3.70276051-e1681563491443.jpeg?w=1280",
-          "width": 1280,
-          "height": 719,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/policy/technology/3952116-elon-musk-founds-new-artificial-intelligence-company-called-x-ai/amp/",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/3952116-elon-musk-founds-new-artificial-intelligence-company-called-x-ai/amp/",
-      "publishedDateTime": "2023-04-15T01:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-15-thailand-uses-facial-recognition-technology-in-disease-control.md",
-      "title": "Thailand uses facial recognition technology in disease control",
-      "excerpt": "Eye and facial recognition technology will be used in a pilot project in Thailand, aimed at improving healthcare services for foreign workers, refugees and ethnic people in five provinces, the Thai Department of Disease Control has said.",
-      "sourceUrl": null,
-      "webUrl": "https://en.vietnamplus.vn/thailand-uses-facial-recognition-technology-in-disease-control/251608.vnp",
-      "originalUrl": "https://en.vietnamplus.vn/thailand-uses-facial-recognition-technology-in-disease-control/251608.vnp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnimgen.vietnamplus.vn/t660/uploaded/wbxx/2023_04_15/thailand.jpg",
-          "width": 660,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://en.vietnamplus.vn/thailand-uses-facial-recognition-technology-in-disease-control/251608.amp",
-      "cdnAmpWebUrl": "https://en-vietnamplus-vn.cdn.ampproject.org/c/s/en.vietnamplus.vn/thailand-uses-facial-recognition-technology-in-disease-control/251608.amp",
-      "publishedDateTime": "2023-04-15T01:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VietnamPlus",
-        "domain": "vietnamplus.vn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

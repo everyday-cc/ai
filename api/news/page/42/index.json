@@ -2,6 +2,610 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2023-03-17-tiny-machine-learning-tinyml-market-size-growing-demand-and-trends-2023-to-2030-google-microsoft-arm-stmicroelectronics.md",
+      "title": "Tiny Machine Learning (TinyML) Market Size, Growing Demand and Trends 2023 to 2030 | Google, Microsoft, ARM, STMicroelectronics",
+      "excerpt": "The Tiny Machine Learning (TinyML) market report provides a detailed analysis of global market size, regional and country-level market size, segmentation market growth, market share, competitive Landscape,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/tiny-machine-learning-tinyml-market-size-growing-demand-and-trends-2023-to-2030-google-microsoft-arm-stmicroelectronics-2023-03-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/tiny-machine-learning-tinyml-market-size-growing-demand-and-trends-2023-to-2030-google-microsoft-arm-stmicroelectronics-2023-03-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-17T00:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-17-baidu-wins-permit-to-offer-driverless-robotaxi-service-in-beijing.md",
+      "title": "Baidu wins permit to offer driverless robotaxi service in Beijing",
+      "excerpt": "With the permit, Baidu's Apollo service will deploy 10 fully autonomous vehicles in a technology park developed by the government of Beijing, it said in a statement.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/technology/baidu-wins-permit-to-offer-driverless-robotaxi-service-in-beijing-city/articleshow/98726604.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/baidu-wins-permit-to-offer-driverless-robotaxi-service-in-beijing-city/articleshow/98726604.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-157536,msid-98726612/baidu.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/technology/baidu-wins-permit-to-offer-driverless-robotaxi-service-in-beijing-city/amp_articleshow/98726604.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/baidu-wins-permit-to-offer-driverless-robotaxi-service-in-beijing-city/amp_articleshow/98726604.cms",
+      "publishedDateTime": "2023-03-17T00:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-17-baidu-says-it-can-now-operate-robotaxis-in-beijing-with-no-human-staff-inside.md",
+      "title": "Baidu says it can now operate robotaxis in Beijing with no human staff inside",
+      "excerpt": "Since the third quarter, Baidu claimed that in major Chinese cities, its self-driving taxis complete an average of more than 15 rides per vehicle per day — on par with traditional ride-hailing services. BEIJING — Chinese tech company Baidu announced ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/03/17/baidu-says-it-can-now-operate-robotaxis-in-beijing-with-no-human-staff-inside.html",
+      "originalUrl": "https://www.cnbc.com/2023/03/17/baidu-says-it-can-now-operate-robotaxis-in-beijing-with-no-human-staff-inside.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 216,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107100111-1659921398203-Image_from_iOS_64.jpg?v=1679035563",
+          "width": 1919,
+          "height": 1279,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/03/17/baidu-says-it-can-now-operate-robotaxis-in-beijing-with-no-human-staff-inside.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/03/17/baidu-says-it-can-now-operate-robotaxis-in-beijing-with-no-human-staff-inside.html",
+      "publishedDateTime": "2023-03-16T23:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-17-ai-and-computer-vision-for-fighting-fires.md",
+      "title": "AI and computer vision for fighting fires",
+      "excerpt": "A Charles Sturt University academic has led research that has produced new AI technologies that will save lives, homes and livelihoods by reducing bushfires. Dr Anwaar Ulhaq Senior Lecturer in the Charles Sturt School of Computing,",
+      "sourceUrl": null,
+      "webUrl": "https://www.spatialsource.com.au/ai-and-computer-vision-for-fighting-fires/",
+      "originalUrl": "https://www.spatialsource.com.au/ai-and-computer-vision-for-fighting-fires/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.spatialsource.com.au/wp-content/uploads/2023/03/banner-image_625x442.jpg",
+          "width": 625,
+          "height": 442,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-16T18:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Spatial Source",
+        "domain": "spatialsource.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-17-this-week-in-xr-sxsw-winners-350-million-for-adept-ai-tilia-raises-22-million.md",
+      "title": "This Week In XR: SXSW Winners, $350 Million For Adept AI, Tilia Raises $22 Million",
+      "excerpt": "Adept AI Is A Unicorn. The startup ... The funding comes from Seoul, South Korea-based fintech leader Dunamu, which is joining existing investor J.P. Morgan Payments. In 2021, Oberwager acquired Linden Lab, the company behind the “Second Life” metaverse.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/charliefink/2023/03/16/this-week-in-xr-sxsw-winners-350-million-for-adept-ai-tilia-raises-22-million/",
+      "originalUrl": "https://www.forbes.com/sites/charliefink/2023/03/16/this-week-in-xr-sxsw-winners-350-million-for-adept-ai-tilia-raises-22-million/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6413a9fa7177f9e52f460b8d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2023/03/16/this-week-in-xr-sxsw-winners-350-million-for-adept-ai-tilia-raises-22-million/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/03/16/this-week-in-xr-sxsw-winners-350-million-for-adept-ai-tilia-raises-22-million/amp/",
+      "publishedDateTime": "2023-03-16T17:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-17-gm-ceo-meets-with-senators-on-self-driving-cars.md",
+      "title": "GM CEO meets with senators on self-driving cars",
+      "excerpt": "WASHINGTON, March 16 (Reuters) - General Motors (GM.N) CEO Mary Barra met with two key senators on Thursday as the Detroit automaker pushes for legislation to speed deployment of self-driving ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/business/autos-transportation/gm-ceo-meets-with-senators-self-driving-cars-2023-03-17/",
+      "originalUrl": "https://www.reuters.com/business/autos-transportation/gm-ceo-meets-with-senators-self-driving-cars-2023-03-17/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/fCGG0BQIKYeKuBLV_PCQDPviSuA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UXE7GOEGVZLSDILGHMPMUZPNGQ.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-16T17:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-17-amid-thin-twitter-safety-staff-elon-musk-frets-over-microsoft-reportedly-axing-ai-ethics-team.md",
+      "title": "Amid Thin Twitter Safety Staff, Elon Musk Frets Over Microsoft Reportedly Axing AI Ethics Team",
+      "excerpt": "Elon Musk fusses over Microsoft Corporation MSFT reportedly firing its AI Ethics and Society team amid concerns about the reduced Twitter workforce. What Happened: On Thursday, Musk reacted to a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/23/03/31374406/amid-thin-twitter-safety-staff-elon-musk-frets-over-microsoft-reportedly-axing-ai-ethics-team",
+      "originalUrl": "https://www.benzinga.com/news/23/03/31374406/amid-thin-twitter-safety-staff-elon-musk-frets-over-microsoft-reportedly-axing-ai-ethics-team",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2023/Elon_Musk_and_Twitter_Photo_by_rafapress_on_Shutterstock_4.jpeg?width=1200&height=800&fit=crop",
+          "width": 771,
+          "height": 514,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/31374406",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31374406",
+      "publishedDateTime": "2023-03-16T17:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-17-watch-google-deepminds-alphago-documentary-for-free.md",
+      "title": "Watch Google Deepmind's AlphaGo Documentary for Free",
+      "excerpt": "In 2016, DeepMind, Google's subsidiary focused on artificial intelligence research, made history when AlphaGo, an AI system became one of the world's best Go players. Over the course seven days, in a best-of-five-game competition, AlphaGo bested high ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/electronics-test/watch-google-deepminds-alphago-documentary-free",
+      "originalUrl": "https://www.designnews.com/electronics-test/watch-google-deepminds-alphago-documentary-free",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/AlphaGoDocumentary.jpg",
+          "width": 1278,
+          "height": 724,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-16T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-17-ai-generated-images-from-text-cant-be-copyrighted-us-government-rules.md",
+      "title": "AI-generated images from text can't be copyrighted, US government rules",
+      "excerpt": "The US Copyright office has issued new guidance on the copyrightability of works that contain AI-generated elements..",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/ai-generated-images-from-text-cant-be-copyrighted-us-government-rules-174243933.html",
+      "originalUrl": "https://www.engadget.com/ai-generated-images-from-text-cant-be-copyrighted-us-government-rules-174243933.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/z0DrGfDE2hCafrbAOi3u2g--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/bf3954c0-c41b-11ed-bffd-8307d83a5179.cf.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/ai-generated-images-from-text-cant-be-copyrighted-us-government-rules-174243933.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ai-generated-images-from-text-cant-be-copyrighted-us-government-rules-174243933.html",
+      "publishedDateTime": "2023-03-16T16:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!News",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-17-cobalt-speech-and-language-offering-limited-time-application-for-a-free-trial-speech-recognition-technology.md",
+      "title": "Cobalt Speech and Language Offering Limited-time Application for a Free Trial Speech Recognition Technology",
+      "excerpt": "Cobalt Transcribe is a state-of-the-art speech recognition system that provides fast, accurate speech recognition. Cobalt Transcribe is a highly flexible system that can run on-premise, in your private cloud,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.buffalonews.com/buffnews/article/getnews-2023-3-16-cobalt-speech-and-language-offering-limited-time-application-for-a-free-trial-speech-recognition-technology",
+      "originalUrl": "https://markets.buffalonews.com/buffnews/article/getnews-2023-3-16-cobalt-speech-and-language-offering-limited-time-application-for-a-free-trial-speech-recognition-technology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-16T16:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Buffalo News",
+        "domain": "buffalonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-17-microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work.md",
+      "title": "Microsoft makes reductions in ethics AI team amid ChatGPT work",
+      "excerpt": "Microsoft says it hasn't \"de-invested\" in its ethics team as it pursues its ChatGPT AI project. Reports pointed to layoffs in that area.",
+      "sourceUrl": null,
+      "webUrl": "https://scrippsnews.com/stories/microsoft-reduces-ethics-ai-team-furthers-chatgpt-work/",
+      "originalUrl": "https://scrippsnews.com/stories/microsoft-reduces-ethics-ai-team-furthers-chatgpt-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.scrippsnews.com/images/videos/m/1679006239_Wz7rHZ.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-16T15:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scrippsnews",
+        "domain": "scrippsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-17-characterai-could-change-how-stans-engage-in-fan-fiction.md",
+      "title": "Character.ai could change how stans engage in fan fiction",
+      "excerpt": "She described character.ai as making the barrier to entry \"a lot lower” for those who want to start writing fan fiction. The parasocial relationships fans have with stars, to some degree, is crucial in the success of a platform like character.ai.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/tech/characterai-stans-fan-fiction-rcna74715",
+      "originalUrl": "https://www.nbcnews.com/tech/characterai-stans-fan-fiction-rcna74715",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-03/230315-2x1-donald-trump-pedro-pascal-joel-ew-1238p-83de4f.jpg",
+          "width": 2500,
+          "height": 1250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna74715",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna74715",
+      "publishedDateTime": "2023-03-16T13:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-17-ai-imager-midjourney-v5-stuns-with-photorealistic-imagesand-5-fingered-hands.md",
+      "title": "AI imager Midjourney v5 stuns with photorealistic images—and 5-fingered hands",
+      "excerpt": "Midjourney announced version 5 of its commercial AI image synthesis service, which can produce photorealistic images at a quality level that some AI art fans are calling creepy and \"too perfect.\" Midjourney v5 is available now as an alpha test for customers who subscribe to the Midjourney service,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/03/ai-imager-midjourney-v5-stuns-with-photorealistic-images-and-5-fingered-hands/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/03/ai-imager-midjourney-v5-stuns-with-photorealistic-images-and-5-fingered-hands/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/midjourney_v5_hero_2-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/03/ai-imager-midjourney-v5-stuns-with-photorealistic-images-and-5-fingered-hands/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/03/ai-imager-midjourney-v5-stuns-with-photorealistic-images-and-5-fingered-hands/amp/",
+      "publishedDateTime": "2023-03-16T13:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-17-generative-ai-output-could-be-eligible-for-copyright-protection-but-theres-a-catch.md",
       "title": "Generative AI output could be eligible for copyright protection. But there’s a catch.",
       "excerpt": "According to a new policy statement from the U.S. Copyright Office, generative AI could be eligible for copyright protection. But, there’s a catch: Proof of human authorship (a prerequisite reaffirmed by the Copyright Office a year ago) is still required,",
@@ -612,637 +1216,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-balancing-the-promise-of-new-vr-techs-x-ray-vision-with-privacy-concerns.md",
-      "title": "Balancing the promise of new VR tech's X-Ray vision with privacy concerns",
-      "excerpt": "What exactly is this headset capable of doing? The headset built by MIT researchers has a system that combines computer vision and wireless perception to locate a hidden item. It does this by using radio frequency signals, which can pass through objects to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/balancing-promise-new-vr-techs-x-ray-vision-privacy-concerns",
-      "originalUrl": "https://www.foxnews.com/tech/balancing-promise-new-vr-techs-x-ray-vision-privacy-concerns",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/57b7a6d5-576d-4f03-ad24-50b2a587a598/20f0fdc2-3380-4b2f-98f1-2818a50d7287/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/balancing-promise-new-vr-techs-x-ray-vision-privacy-concerns.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/balancing-promise-new-vr-techs-x-ray-vision-privacy-concerns.amp",
-      "publishedDateTime": "2023-03-16T09:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-datarobot-unveils-new-ai-platform-ushering-in-the-era-of-value-driven-ai.md",
-      "title": "DataRobot Unveils New AI Platform, Ushering in the Era of Value-Driven AI",
-      "excerpt": "New capabilities and integrations with Microsoft Azure OpenAI Service and SAP ® solutions help accelerate time to value for enterprise customers DataRobot today announced the release of DataRobot AI Platform 9.0, along with deeper partner integrations ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/03/b31383827/datarobot-unveils-new-ai-platform-ushering-in-the-era-of-value-driven-ai",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/03/b31383827/datarobot-unveils-new-ai-platform-ushering-in-the-era-of-value-driven-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/31383827",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31383827",
-      "publishedDateTime": "2023-03-16T09:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-how-ai-is-altering-health-care-in-michigan.md",
-      "title": "How AI is altering health care in Michigan",
-      "excerpt": "At CoreweIl Health in Grand Rapids, AI algorithms are deciphering patterns in a CAT scan that humans can’t see. Grand Blanc-based McLaren Health Care is using AI imaging analysis of stroke patients to pinpoint potentially fatal blood clots in the brain.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bridgemi.com/michigan-health-watch/how-ai-altering-health-care-michigan",
-      "originalUrl": "https://www.bridgemi.com/michigan-health-watch/how-ai-altering-health-care-michigan",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bridgemi.com/sites/default/files/styles/large/public/2023-03/AI%20healthcare%20shutterstock.jpg?itok=F2c1uM73",
-          "width": 480,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bridgemi.com/michigan-health-watch/how-ai-altering-health-care-michigan?amp",
-      "cdnAmpWebUrl": "https://www-bridgemi-com.cdn.ampproject.org/c/s/www.bridgemi.com/michigan-health-watch/how-ai-altering-health-care-michigan?amp",
-      "publishedDateTime": "2023-03-16T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bridge Magazine",
-        "domain": "bridgemi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-how-ai-is-altering-healthcare-in-michigan.md",
-      "title": "How AI is altering healthcare in Michigan",
-      "excerpt": "At CoreweIl Health in Grand Rapids, AI algorithms are deciphering patterns in a CAT scan that humans can’t see. Grand Blanc-based McLaren Health Care is using AI imaging analysis of stroke patients to pinpoint potentially fatal blood clots in the brain.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bridgemi.com/michigan-health-watch/how-ai-altering-healthcare-michigan",
-      "originalUrl": "https://www.bridgemi.com/michigan-health-watch/how-ai-altering-healthcare-michigan",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bridgemi.com/sites/default/files/styles/large/public/2023-03/AI%20healthcare%20shutterstock.jpg?itok=F2c1uM73",
-          "width": 480,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bridgemi.com/michigan-health-watch/how-ai-altering-healthcare-michigan?amp",
-      "cdnAmpWebUrl": "https://www-bridgemi-com.cdn.ampproject.org/c/s/www.bridgemi.com/michigan-health-watch/how-ai-altering-healthcare-michigan?amp",
-      "publishedDateTime": "2023-03-16T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bridge Magazine",
-        "domain": "bridgemi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-how-ai-is-changing-artistic-creation-and-challenging-ip-laws.md",
-      "title": "How AI Is Changing Artistic Creation and Challenging IP Laws",
-      "excerpt": "The use of artificial intelligence (AI) is gaining notoriety among traditional and Web3 artists alike. While some creatives worry that AI will one day replace their jobs or steal their work, other artists have welcomed the technical experimentation and ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/currencies/how-ai-is-changing-artistic-creation-and-challenging-ip-laws-1032173438",
-      "originalUrl": "https://markets.businessinsider.com/news/currencies/how-ai-is-changing-artistic-creation-and-challenging-ip-laws-1032173438",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.coindesk.com/resizer/hWylKqpm_gM9JyGcJpKuf8__ROo=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/FP3Q3PWCCVFCBMOI6Q4CJIGBDE.png",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-16T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-microsofts-new-power-platform-ai-copilot-will-build-your-apps-for-you.md",
-      "title": "Microsoft’s new Power Platform AI copilot will build your apps for you",
-      "excerpt": "The idea here is to use AI to make using these tools for building line-of-business ... For now, Microsoft describes these features as “experimental previews powered by Azure OpenAI Service with GPT” and warns that they are not meant for production ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/03/16/microsofts-new-power-platform-ai-copilot-will-build-your-apps-for-you/",
-      "originalUrl": "https://techcrunch.com/2023/03/16/microsofts-new-power-platform-ai-copilot-will-build-your-apps-for-you/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 324,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/03/Screenshot-2023-03-16-083404.png?resize=1200,649",
-          "width": 1200,
-          "height": 649,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/03/16/microsofts-new-power-platform-ai-copilot-will-build-your-apps-for-you/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/16/microsofts-new-power-platform-ai-copilot-will-build-your-apps-for-you/amp/",
-      "publishedDateTime": "2023-03-16T08:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-small-businesses-have-fewer-resources-than-big-companies-heres-how-ai-can-fill-the-gaps.md",
-      "title": "Small Businesses Have Fewer Resources Than Big Companies. Here's How AI Can Fill the Gaps.",
-      "excerpt": "Generative AI technology offers small businesses several advantages when it comes to marketing and operations. It can speed up the content creation process, minimize errors, and help teams start tasks with more accuracy. Here are a few ways generative AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/science-technology/how-ai-can-help-small-businesses-do-more-in-less-time/445042",
-      "originalUrl": "https://www.entrepreneur.com/science-technology/how-ai-can-help-small-businesses-do-more-in-less-time/445042",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1678471153-GettyImages-1413357684.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-16T08:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-cast-ai-raises-20m-to-help-companies-reduce-cloud-spend.md",
-      "title": "Cast AI raises $20M to help companies reduce cloud spend",
-      "excerpt": "Cast AI customers can connect their cloud plans across AWS ... Customers will pay only once they start saving money. Frayman says that Cast will put the newly secured funds, which bring the startup’s total raised to more than $63 million, toward growing ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/03/16/cast-ai-raises-20m-to-help-companies-reduce-cloud-spend/",
-      "originalUrl": "https://techcrunch.com/2023/03/16/cast-ai-raises-20m-to-help-companies-reduce-cloud-spend/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1334236014.jpg?resize=1200,804",
-          "width": 1200,
-          "height": 804,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/03/16/cast-ai-raises-20m-to-help-companies-reduce-cloud-spend/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/16/cast-ai-raises-20m-to-help-companies-reduce-cloud-spend/amp/",
-      "publishedDateTime": "2023-03-16T08:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-after-year-of-downsizing-datarobot-unveils-new-ai-platform.md",
-      "title": "After year of downsizing, DataRobot unveils new AI platform",
-      "excerpt": "With the latest release, DataRobot AI Platform Single-Tenant SaaS is now available on AWS, Google Cloud, and Microsoft Azure. For on-premises and private cloud customers, DataRobot now supports Red Hat OpenShift for faster installations and deployments ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/after-year-of-downsizing-datarobot-unveils-new-ai-platform/",
-      "originalUrl": "https://venturebeat.com/ai/after-year-of-downsizing-datarobot-unveils-new-ai-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/03/Untitled-design-27.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/after-year-of-downsizing-datarobot-unveils-new-ai-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/after-year-of-downsizing-datarobot-unveils-new-ai-platform/amp/",
-      "publishedDateTime": "2023-03-16T07:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-goldman-sachs-loves-snowflake-as-it-inks-25-billion-aws-deal.md",
-      "title": "Goldman Sachs ‘Loves’ Snowflake As It Inks $2.5 Billion AWS Deal",
-      "excerpt": "We will build an artificial intelligence/machine learning layer on top of the Legend Platform. We love Snowflake and how it is integrated into the Legend Platform,.” Earlier this month, Snowflake SNOW announced it would spend $2.5 billion on the AWS ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/petercohan/2023/03/16/goldman-sachs-loves-snowflake-as-it-inks-25-billion-aws-deal/",
-      "originalUrl": "https://www.forbes.com/sites/petercohan/2023/03/16/goldman-sachs-loves-snowflake-as-it-inks-25-billion-aws-deal/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6307599ad3c88f6036653b55/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 905,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/petercohan/2023/03/16/goldman-sachs-loves-snowflake-as-it-inks-25-billion-aws-deal/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2023/03/16/goldman-sachs-loves-snowflake-as-it-inks-25-billion-aws-deal/amp/",
-      "publishedDateTime": "2023-03-16T07:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-googles-ai-healthcare-tools-take-center-stage-raising-ethical-concerns.md",
-      "title": "Google’s AI healthcare tools take center stage, raising ethical concerns",
-      "excerpt": "Google popped the hood on a variety of healthcare tools built with artificial intelligence (AI) this week, from consumer-facing search and symptom-checking features to apps designed to help doctors screen for tuberculosis and plan cancer treatment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mmm-online.com/home/channel/googles-ai-healthcare-tools-take-center-stage-raising-ethical-concerns/",
-      "originalUrl": "https://www.mmm-online.com/home/channel/googles-ai-healthcare-tools-take-center-stage-raising-ethical-concerns/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mmm-online.com/wp-content/uploads/sites/2/2023/01/GettyImages-1235961216.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-16T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MM&M",
-        "domain": "mmm-online.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-gods-in-the-machine-the-rise-of-artificial-intelligence-may-result-in-new-religions.md",
-      "title": "Gods in the machine? The rise of artificial intelligence may result in new religions",
-      "excerpt": "We are about to witness the birth of a new kind of religion. In the next few years, or perhaps even months, we will see the emergence of sects devoted to the worship of artificial intelligence (AI).",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-03-gods-machine-artificial-intelligence-result.html",
-      "originalUrl": "https://techxplore.com/news/2023-03-gods-machine-artificial-intelligence-result.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/gods-in-the-machine-th.jpg",
-          "width": 600,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-03-gods-machine-artificial-intelligence-result.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-03-gods-machine-artificial-intelligence-result.amp",
-      "publishedDateTime": "2023-03-16T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-ai-will-make-human-art-more-valuable.md",
-      "title": "AI Will Make Human Art More Valuable",
-      "excerpt": "And if history is any indication, our tastes will evolve in a way that rigs the game in favor of human artists. It’s not surprising that in conceiving of a new world awash with AI art, we haven’t accounted for a society-wide change in taste.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/art-artificial-intelligence-history/",
-      "originalUrl": "https://www.wired.com/story/art-artificial-intelligence-history/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/641266a357db3e0d5a2fa8ea/master/pass/ideas_art_ai_human_history.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/art-artificial-intelligence-history/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/art-artificial-intelligence-history/amp",
-      "publishedDateTime": "2023-03-16T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

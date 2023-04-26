@@ -9,7 +9,7 @@ ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/ai-revolution-manufact
 cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/ai-revolution-manufacturers-hope-for-artificial-intelligence-boost-in-factories-71682272340109.html"
 type: article
 quality: 69
-heat: 99
+heat: 79
 published: true
 
 provider:
@@ -27,36 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Manufacturers hope for AI boost in factories"
-    excerpt: "Manufacturers are hoping for the artificial intelligence revolution to reach their factories, envisaging robots being used to repair complex machinery."
-    publishedDateTime: 2023-04-23T18:01:00Z
-    webUrl: "https://techxplore.com/news/2023-04-ai-boost-factories.html"
-    ampWebUrl: "https://techxplore.com/news/2023-04-ai-boost-factories.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-04-ai-boost-factories.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/manufacturers-see-pote.jpg"
-        width: 1024
-        height: 680
-        isCached: true
-  - title: "Manufacturers hope for artificial intelligence boost in factories"
-    excerpt: "Manufacturing firms are keen on using AI to automate the repair of complex machinery, thereby increasing efficacy and solving technical issues. This development was showcased in Germany's industrial Home Fair,"
-    publishedDateTime: 2023-04-24T02:22:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/manufacturers-hope-for-artificial-intelligence-boost-in-factories/99718084"
-    type: article
-    provider:
-      name: cio.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 39
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-99718084,imgsize-152838,width-1200,height=765,overlay-etcio/next-gen-technologies/manufacturers-hope-for-artificial-intelligence-boost-in-factories.jpg"
-        width: 1200
-        height: 765
-        isCached: true
   - title: "Manufacturers hope for AI boost in factory repairs"
     excerpt: "HANOVER–Manufacturers are hoping for the artificial intelligence revolution to reach their factories, envisaging robots being used to repair complex machinery."
     publishedDateTime: 2023-04-24T10:30:00Z

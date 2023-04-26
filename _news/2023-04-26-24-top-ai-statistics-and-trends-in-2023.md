@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/advisor/business/ai-statistics/"
 webUrl: "https://www.forbes.com/advisor/business/ai-statistics/"
 type: article
 quality: 67
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "How Businesses Are Using Artificial Intelligence In 2023"
+    excerpt: "Businesses are employing artificial intelligence (AI) in a variety of ways to improve efficiencies, save time and decrease costs. With continued advancements, AI is quickly becoming a precious resource for companies across industries."
+    publishedDateTime: 2023-04-25T19:46:00Z
+    webUrl: "https://www.forbes.com/advisor/business/software/ai-in-business/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+    images:
+      - url: "https://www.forbes.com/advisor/wp-content/uploads/2023/04/ai_business_survey_-_article_image.jpg"
+        width: 958
+        height: 538
+        isCached: true
   - title: "Five AI stocks under $10 to watch in 2023"
     excerpt: "Its value of nearly 100 billion U.S. dollars is expected to grow twentyfold by 2030, up to nearly two trillion U.S. dollarsMany companies are investing in AI technology to gain a competitive edge in their respective markets."
     publishedDateTime: 2023-04-24T12:58:00Z

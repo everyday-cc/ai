@@ -2,6 +2,93 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2023-01-24-microsoft-to-invest-10-billion-in-openai-the-creator-of-chatgpt.md",
+      "title": "Microsoft to Invest $10 Billion in OpenAI, the Creator of ChatGPT",
+      "excerpt": "He covers artificial intelligence, driverless cars, robotics, virtual reality and other emerging areas. @cademetz Karen Weise is a technology correspondent based in Seattle, covering Amazon and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/01/23/business/microsoft-chatgpt-artificial-intelligence.amp.html",
+      "originalUrl": "https://www.nytimes.com/2023/01/23/business/microsoft-chatgpt-artificial-intelligence.amp.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-24T02:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-24-after-being-used-as-a-test-bed-ngee-ann-polytechnic-gets-free-driverless-bus-service.md",
+      "title": "After being used as a test bed, Ngee Ann Polytechnic gets free driverless bus service",
+      "excerpt": "(Photo: Liew Zhi Xin/CNA) SINGAPORE: It is one of the latest driverless vehicles allowed on public roads. Called the MooBus, it has recently been deployed by homegrown company MooVita in its first ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.channelnewsasia.com/cna-insider/ngee-ann-polytechnic-free-driverless-bus-service-moobus-moovita-3220171",
+      "originalUrl": "https://www.channelnewsasia.com/cna-insider/ngee-ann-polytechnic-free-driverless-bus-service-moobus-moovita-3220171",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://onecms-res.cloudinary.com/image/upload/s--ECfwQWgH--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/01/20/moobus_liew_zhi_xin-20_1.jpg?itok=c4ztjfcP",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-23T14:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Channel NewsAsia Singapore",
+        "domain": "channelnewsasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-24-driverless-bus-service-begins-in-ngee-ann-polytechnic-and-its-free.md",
       "title": "Driverless bus service begins in Ngee Ann Polytechnic, and it’s free",
       "excerpt": "(Photo: Liew Zhi Xin/CNA) SINGAPORE: It is one of the latest driverless vehicles allowed on public roads. Called the MooBus, it has recently been deployed by homegrown company MooVita in its first ...",
@@ -1237,101 +1324,6 @@
       "provider": {
         "name": "Livewire Markets",
         "domain": "livewiremarkets.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-18-tesla-employee-testifies-autopilot-video-was-actually-staged.md",
-      "title": "Tesla Employee Testifies Autopilot Video Was Actually Staged",
-      "excerpt": "Elluswamy claimed that the video was not an accurate portrayal of a Tesla’s so-called self-driving capabilities at the time and Andrew McDevitt, the lawyer representing Huang’s family ...",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/tesla-autopilot-self-driving-autonomous-1849996806",
-      "originalUrl": "https://gizmodo.com/tesla-autopilot-self-driving-autonomous-1849996806",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/fa6eecf6bc8a6fcfca54c6ecfeac5942.gif",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-17T13:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-18-whats-going-on-with-baidu-shares.md",
-      "title": "What's Going On With Baidu Shares",
-      "excerpt": "Baidu Inc BIDU shares are trading lower by 6.23% to $130.30 during Tuesday's trading session. Shares of Chinese companies at large are trading lower after China's GDP growth slowed in the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/23/01/30447092/whats-going-on-with-baidu-shares",
-      "originalUrl": "https://www.benzinga.com/news/23/01/30447092/whats-going-on-with-baidu-shares",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2023/01/17/analysis-4937349_0.jpg?width=1200&height=800&fit=crop",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-17T10:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

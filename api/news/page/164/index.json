@@ -2,100 +2,22 @@
   "page": 164,
   "value": [
     {
-      "path": "_news/2022-06-01-fintech-ai-leader-photon-commerce-partners-with-identifee-to-enable-banks-to-instantly-digitize-and-analyze-statements.md",
-      "title": "Fintech AI Leader Photon Commerce Partners With Identifee to Enable Banks to Instantly Digitize and Analyze Statements",
-      "excerpt": "Photon Commerce, the leader in artificial intelligence for fintech, today announced a strategic collaboration with Identifee, the connected platform for financial services, to enable banks to instantly digitize,",
+      "path": "_news/2022-12-05-top-six-trends-and-recommendations-for-ai-and-ml-in-2023.md",
+      "title": "Top Six Trends (And Recommendations) For AI And ML In 2023",
+      "excerpt": "Manasi Vartak is founder and CEO of Verta, a Palo Alto-based provider of solutions for Operational AI and ML Model Management.",
       "sourceUrl": null,
-      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-1-fintech-ai-leader-photon-commerce-partners-with-identifee-to-enable-banks-to-instantly-digitize-and-analyze-statements",
-      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-1-fintech-ai-leader-photon-commerce-partners-with-identifee-to-enable-banks-to-instantly-digitize-and-analyze-statements",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/05/top-six-trends-and-recommendations-for-ai-and-ml-in-2023/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/05/top-six-trends-and-recommendations-for-ai-and-ml-in-2023/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 84,
       "tags": null,
       "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-31T22:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Herald",
-        "domain": "dailyherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-the-new-marketing-is-a-cognitive-process.md",
-      "title": "The New Marketing Is a Cognitive Process",
-      "excerpt": "It’s not. Branding needs to forge new connections with consumers. Branding is all about understanding how consumers choose products and services. Cognitive science is all about understanding how our brain works and makes decisions. It encompasses ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=153181",
-      "originalUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=153181",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-31T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Destination CRM",
-        "domain": "destinationcrm.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-ai-ethics-what-it-is-and-why-it-matters.md",
-      "title": "AI Ethics: What It Is And Why It Matters",
-      "excerpt": "As AI proliferates, and governments attempt to catch up in structure and law to the fast growing technology, AI Ethics has emerged as a critical topic that everyone should be aware of.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/nishatalagala/2022/05/31/ai-ethics-what-it-is-and-why-it-matters/",
-      "originalUrl": "https://www.forbes.com/sites/nishatalagala/2022/05/31/ai-ethics-what-it-is-and-why-it-matters/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//6296d7085f56620471be2bda/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 805,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/nishatalagala/2022/05/31/ai-ethics-what-it-is-and-why-it-matters/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2022/05/31/ai-ethics-what-it-is-and-why-it-matters/amp/",
-      "publishedDateTime": "2022-05-31T20:58:00-07:00",
+      "publishedDateTime": "2022-12-05T04:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -118,26 +40,26 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
-        "AI"
+        "AI",
+        "Machine Learning"
       ]
     },
     {
-      "path": "_news/2022-06-01-type-2-diabetes-linked-to-cognitive-decline-in-older-age.md",
-      "title": "Type 2 diabetes linked to cognitive decline in older age",
-      "excerpt": "The finding comes from a large UK study of people with and without diabetes, based on cognitive tests and brain scans. Type 2 diabetes involves blood sugar rising too high after meals, often ...",
+      "path": "_news/2022-12-05-world-cup-2022-can-you-outguess-our-ai-predictor-robot.md",
+      "title": "World Cup 2022: Can you outguess our AI predictor robot?",
+      "excerpt": "Al Jazeera’s AI robot has made up for a shaky start and has correctly predicted the outcome of all four knockout games.",
       "sourceUrl": null,
-      "webUrl": "https://www.newscientist.com/article/2322347-type-2-diabetes-linked-to-cognitive-decline-in-older-age/",
-      "originalUrl": "https://www.newscientist.com/article/2322347-type-2-diabetes-linked-to-cognitive-decline-in-older-age/",
+      "webUrl": "https://www.aljazeera.com/sports/2022/12/5/who-is-going-to-reach-the-quarter-finals-of-world-cup-2022",
+      "originalUrl": "https://www.aljazeera.com/sports/2022/12/5/who-is-going-to-reach-the-quarter-finals-of-world-cup-2022",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 84,
       "tags": null,
       "images": [
         {
-          "url": "https://images.newscientist.com/wp-content/uploads/2022/05/31112108/SEI_107193938.jpg?width=1200&enable=upscale",
+          "url": "https://www.aljazeera.com/wp-content/uploads/2022/12/INTERACTIVE-Kashef-prediction-scorecard-December-5.jpg?resize=1200%2C675",
           "width": 1200,
-          "height": 800,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -145,193 +67,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.newscientist.com/article/2322347-type-2-diabetes-linked-to-cognitive-decline-in-older-age/amp/",
-      "cdnAmpWebUrl": "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2322347-type-2-diabetes-linked-to-cognitive-decline-in-older-age/amp/",
-      "publishedDateTime": "2022-05-31T19:46:00-07:00",
+      "ampWebUrl": "https://www.aljazeera.com/amp/sports/2022/12/5/who-is-going-to-reach-the-quarter-finals-of-world-cup-2022",
+      "cdnAmpWebUrl": "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/sports/2022/12/5/who-is-going-to-reach-the-quarter-finals-of-world-cup-2022",
+      "publishedDateTime": "2022-12-05T03:34:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "New Scientist",
-        "domain": "newscientist.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-googles-massive-language-translation-work-identifies-where-it-goofs-up.md",
-      "title": "Google's massive language translation work identifies where it goofs up",
-      "excerpt": "For low-resource languages such as kalaallisut and Fula, a big effort to find out what is lost in translation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/googles-massive-language-translation-work-identifies-where-it-goofs-up/",
-      "originalUrl": "https://www.zdnet.com/article/googles-massive-language-translation-work-identifies-where-it-goofs-up/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/139ace89f7e872d7780a9232cf7c9507f505a04e/2022/06/01/aaee0f3c-fa3b-4649-92ea-b6c077ec2e32/c201c7dd-7cfe-44db-8c07-bb63391efdce.png?width=1200&fit=bounds&format=pjpg&auto=webp",
-          "width": 1200,
-          "height": 788,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/googles-massive-language-translation-work-identifies-where-it-goofs-up/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-massive-language-translation-work-identifies-where-it-goofs-up/",
-      "publishedDateTime": "2022-05-31T19:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-chick-fil-a-taps-refraction-ai-for-autonomous-delivery-pilot.md",
-      "title": "Chick-fil-A taps Refraction AI for autonomous delivery pilot",
-      "excerpt": "The deal with Chick-fil-A is part of tests Refraction is running to understand how it could serve quick service restaurants by maximizing profitability/effectiveness of robotic delivery",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/05/31/chick-fil-a-taps-refraction-ai-for-autonomous-delivery-pilot/",
-      "originalUrl": "https://techcrunch.com/2022/05/31/chick-fil-a-taps-refraction-ai-for-autonomous-delivery-pilot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/05/SoCo_5.jpg?w=1024",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/05/31/chick-fil-a-taps-refraction-ai-for-autonomous-delivery-pilot/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/31/chick-fil-a-taps-refraction-ai-for-autonomous-delivery-pilot/amp/",
-      "publishedDateTime": "2022-05-31T17:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-gretel-keeps-the-data-trail-hidden.md",
-      "title": "Gretel Keeps the Data Trail Hidden",
-      "excerpt": "In the financial services area, Gretel often helps companies identify ... do we augment our existing real world customer data with synthetic data to help my machine learning algorithms do better.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/2022/06/01/gretel-keeps-the-data-trail-hidden/",
-      "originalUrl": "https://www.datanami.com/2022/06/01/gretel-keeps-the-data-trail-hidden/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/06/data_twist_shutterstock_Yurchanka-Siarhei.jpg",
-          "width": 679,
-          "height": 373,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-31T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-tiny-robot-crab-to-perform-tasks-inside-body.md",
-      "title": "Tiny Robot Crab to Perform Tasks Inside Body",
-      "excerpt": "Engineers at Northwestern University have developed a tiny remote controlled crab robot. The device is just half a millimeter wide, and can perform a variety of impressive tasks, including jumping ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medgadget.com/2022/06/tiny-robot-crab-to-perform-tasks-inside-body.html",
-      "originalUrl": "https://www.medgadget.com/2022/06/tiny-robot-crab-to-perform-tasks-inside-body.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-31T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medgadget",
-        "domain": "medgadget.com",
+        "name": "Al Jazeera English",
+        "domain": "aljazeera.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -346,21 +88,21 @@
       ]
     },
     {
-      "path": "_news/2022-06-01-us-pushes-light-regulations-for-ai-in-contrast-to-europe.md",
-      "title": "US pushes light regulations for AI, in contrast to Europe",
-      "excerpt": "The guidelines encourage driverless-car manufacturers to submit safety self ... But they do aim to deliver on von der Leyen’s promise to initiate legislation on artificial intelligence within her first 100 days in office, a pledge she made last summer ...",
+      "path": "_news/2022-12-05-digiyatra-facial-recognition-technology-is-now-available-at-these-indian-airports.md",
+      "title": "DigiYatra: Facial recognition technology is now available at these Indian airports",
+      "excerpt": "With the assistance of a facial recognition software known as \"DigiYatra,\" you will be able to sail through the process of flying, which will now be paperless and contactless.",
       "sourceUrl": null,
-      "webUrl": "https://www.politico.eu/article/us-pushes-light-regulations-for-ai-in-contrast-to-europe/amp/",
-      "originalUrl": "https://www.politico.eu/article/us-pushes-light-regulations-for-ai-in-contrast-to-europe/amp/",
+      "webUrl": "https://economictimes.indiatimes.com/news/new-updates/digiyatra-facial-recognition-technology-is-now-available-at-these-indian-airports/articleshow/96000093.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/news/new-updates/digiyatra-facial-recognition-technology-is-now-available-at-these-indian-airports/articleshow/96000093.cms",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 88,
       "tags": null,
       "images": [
         {
-          "url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2020/01/GettyImages-1035331888.jpg",
-          "width": 1200,
-          "height": 630,
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-53688,msid-96000068/digiyatra-facial-recognition-technology-is-now-available-at-these-indian-airports.jpg",
+          "width": 600,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -368,13 +110,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.politico.eu/article/us-pushes-light-regulations-for-ai-in-contrast-to-europe/amp/",
-      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/us-pushes-light-regulations-for-ai-in-contrast-to-europe/amp/",
-      "publishedDateTime": "2022-05-31T17:00:00-07:00",
+      "ampWebUrl": "https://m.economictimes.com/news/new-updates/digiyatra-facial-recognition-technology-is-now-available-at-these-indian-airports/amp_articleshow/96000093.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/new-updates/digiyatra-facial-recognition-technology-is-now-available-at-these-indian-airports/amp_articleshow/96000093.cms",
+      "publishedDateTime": "2022-12-05T01:43:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "POLITICO",
-        "domain": "politico.eu",
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -384,31 +126,40 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "Computer Vision",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-06-01-virtual-cognitive-behavioral-therapy-services-offered-at-carolina-behavioral-therapy.md",
-      "title": "Virtual Cognitive Behavioral Therapy Services Offered At Carolina Behavioral Therapy",
-      "excerpt": "Columbia, SC based Carolina Behavioral Therapy would like to shed light on Cognitive Behavioral Therapy ... let Carolina Behavioral Therapy help. All services at Carolina Behavioral Therapy ...",
+      "path": "_news/2022-12-05-medical-studies-get-tech-edge-with-ai-machine-learning-remote-care.md",
+      "title": "Medical studies get tech edge with AI, machine learning, remote care",
+      "excerpt": "New-age technologies like Artificial Intelligence (AI) and Machine Learning (ML) have taken diagnosis, treatment, post-operative care, remote patient care and palliative care to a whole new level. Exp",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/05/g27490201/virtual-cognitive-behavioral-therapy-services-offered-at-carolina-behavioral-therapy",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/05/g27490201/virtual-cognitive-behavioral-therapy-services-offered-at-carolina-behavioral-therapy",
+      "webUrl": "https://health.economictimes.indiatimes.com/news/education/medical-studies-get-tech-edge-with-ai-machine-learning-remote-care/95993114",
+      "originalUrl": "https://health.economictimes.indiatimes.com/news/education/medical-studies-get-tech-edge-with-ai-machine-learning-remote-care/95993114",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 84,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-95993114,imgsize-87468,width-1200,height-628,overlay-ethealthworld/medical-studies-get-tech-edge-with-ai-machine-learning-remote-care.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-31T16:14:00-07:00",
+      "ampWebUrl": "https://health.economictimes.indiatimes.com/amp/news/education/medical-studies-get-tech-edge-with-ai-machine-learning-remote-care/95993114",
+      "cdnAmpWebUrl": "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/education/medical-studies-get-tech-edge-with-ai-machine-learning-remote-care/95993114",
+      "publishedDateTime": "2022-12-04T21:31:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "health.economictimes.indiatimes",
+        "domain": "indiatimes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -418,27 +169,26 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
+        "Machine Learning",
+        "AI"
       ]
     },
     {
-      "path": "_news/2022-06-01-sentient-hubs-deploys-holistic-modelling-solution-on-microsoft-azure-to-help-protect-wetlands.md",
-      "title": "Sentient Hubs deploys holistic modelling solution on Microsoft Azure to help protect wetlands",
-      "excerpt": "Due to the complexity of the modelling and the inaccessible nature of many water sources, however, this isn’t always easy. But one Australian company believes that technology could offer a way forward.",
+      "path": "_news/2022-12-05-aws-reinvent-2022-round-up-data-management-ai-compute-take-centre-stage.md",
+      "title": "AWS re:Invent 2022 round-up: Data management, AI, compute take centre stage",
+      "excerpt": "AI features added to multiple services To help enterprises get more of a return on their data, AWS added new artificial intelligence (AI) features to a range of other services, including Textract, Transcribe, Kendra, CodeWhisperer, and HealthLake.",
       "sourceUrl": null,
-      "webUrl": "https://news.microsoft.com/en-au/features/sentient-hubs-deploys-holistic-modelling-solution-on-microsoft-azure-to-help-protect-wetlands/",
-      "originalUrl": "https://news.microsoft.com/en-au/features/sentient-hubs-deploys-holistic-modelling-solution-on-microsoft-azure-to-help-protect-wetlands/",
+      "webUrl": "https://www.reseller.co.nz/article/703800/aws-re-invent-2022-round-up-data-management-ai-compute-take-centre-stage/",
+      "originalUrl": "https://www.reseller.co.nz/article/703800/aws-re-invent-2022-round-up-data-management-ai-compute-take-centre-stage/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 82,
       "tags": null,
       "images": [
         {
-          "url": "https://news.microsoft.com/wp-content/uploads/prod/sites/66/2022/05/xan-y-X7L9FoIcMEE-unsplash-scaled.jpg",
-          "width": 2560,
-          "height": 1704,
+          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/adam_selipsky_aws_6.jpg",
+          "width": 504,
+          "height": 315,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -448,14 +198,57 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-31T15:17:00-07:00",
+      "publishedDateTime": "2022-12-04T19:11:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
+        "name": "Reseller News",
+        "domain": "reseller.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-05-cerebras-announces-pay-as-you-go-ai-training-on-cirrascale-cloud.md",
+      "title": "Cerebras Announces Pay-As-You-Go AI Training On Cirrascale Cloud",
+      "excerpt": "Company claims it can train AI 8X faster than AWS at half the cost for large models. Cerebras is not your typical AI chip company. And thats a good thing. We already have a lot of knock-offs taking on NVIDIA, and they all seem to do a good job of knocking ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2022/12/05/cerebras-announces-pay-as-you-go-ai-training-on-cirrascale-cloud/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2022/12/05/cerebras-announces-pay-as-you-go-ai-training-on-cirrascale-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/638e4946cfebecc8ea93c5c7/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2022/12/05/cerebras-announces-pay-as-you-go-ai-training-on-cirrascale-cloud/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/12/05/cerebras-announces-pay-as-you-go-ai-training-on-cirrascale-cloud/amp/",
+      "publishedDateTime": "2022-12-04T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -471,26 +264,26 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
+        "AI Hardware",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-06-01-self-driving-cars-to-be-tested-at-boca-raton-innovation-campus.md",
-      "title": "Self-driving cars to be tested at Boca Raton Innovation Campus",
-      "excerpt": "The future has arrived in Boca Raton. The city is now testing self-driving cars with the hope of eventually adding them alongside drivers on the road.",
+      "path": "_news/2022-12-05-cuttlefish-passed-a-cognitive-test-designed-for-humans.md",
+      "title": "Cuttlefish passed a cognitive test designed for humans",
+      "excerpt": "This discovery, the researchers say, is an example of advanced self-control and shows that the creatures perform better in cognitive tasks. It has also been hypothesized that these positive ...",
       "sourceUrl": null,
-      "webUrl": "https://www.wptv.com/marketplace/automotive/self-driving-cars-to-be-tested-at-boca-raton-innovation-campus",
-      "originalUrl": "https://www.wptv.com/marketplace/automotive/self-driving-cars-to-be-tested-at-boca-raton-innovation-campus",
+      "webUrl": "https://bgr.com/science/cuttlefish-passed-a-cognitive-test-designed-for-humans/",
+      "originalUrl": "https://bgr.com/science/cuttlefish-passed-a-cognitive-test-designed-for-humans/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://x-default-stgec.uplynk.com/ausw/slices/842/2fbf8a5e953e4a01960f2f5161cc4953/842bd12b85384a098ef07b66a1d5a77e/poster_59ad2966ce3a4100afb888e2f6338a3a.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://bgr.com/wp-content/uploads/2022/12/AdobeStock_159088227.jpeg?quality=82&strip=all",
+          "width": 2400,
+          "height": 1596,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -498,13 +291,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wptv.com/marketplace/automotive/self-driving-cars-to-be-tested-at-boca-raton-innovation-campus?_amp=true",
-      "cdnAmpWebUrl": "https://www-wptv-com.cdn.ampproject.org/c/s/www.wptv.com/marketplace/automotive/self-driving-cars-to-be-tested-at-boca-raton-innovation-campus?_amp=true",
-      "publishedDateTime": "2022-05-31T14:31:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-04T16:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WPTV",
-        "domain": "wptv.com",
+        "name": "BGR",
+        "domain": "bgr.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -514,31 +307,40 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "Microsoft AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-06-01-mariadb-and-mindsdb-raise-the-iq-for-cloud-databases.md",
-      "title": "MariaDB and MindsDB Raise the IQ for Cloud Databases",
-      "excerpt": "MariaDB Corporation  and MindsDB, the leader in in-database machine learning, today together announced a technology collaboration that makes machine learning predictions easy and accessible to cloud database users.",
+      "path": "_news/2022-12-05-artificial-intelligence-and-heart-care-pt-1.md",
+      "title": "Artificial intelligence and heart care — Pt 1",
+      "excerpt": "ARTIFICIAL intelligence (AI ... systems, and convolutional neural networks. In medical imaging, and more particularly cardiovascular imaging, AI has become very instrumental in efficiently ...",
       "sourceUrl": null,
-      "webUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1258317&cat=PR News Wire",
-      "originalUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1258317&cat=PR News Wire",
+      "webUrl": "https://www.jamaicaobserver.com/health/artificial-intelligence-and-heart-care-pt-1/",
+      "originalUrl": "https://www.jamaicaobserver.com/health/artificial-intelligence-and-heart-care-pt-1/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://imengine.public.prod.jam.navigacloud.com/?uuid=bed7186e-bbf9-52e7-a219-69c1352aa6fb&function=fit&type=preview",
+          "width": 500,
+          "height": 333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-31T13:58:00-07:00",
+      "ampWebUrl": "https://www.jamaicaobserver.com/health/artificial-intelligence-and-heart-care-pt-1/amp/",
+      "cdnAmpWebUrl": "https://www-jamaicaobserver-com.cdn.ampproject.org/c/s/www.jamaicaobserver.com/health/artificial-intelligence-and-heart-care-pt-1/amp/",
+      "publishedDateTime": "2022-12-04T10:17:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Webindia 123",
-        "domain": "webindia123.com",
+        "name": "The Jamaica Observer",
+        "domain": "jamaicaobserver.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -553,21 +355,21 @@
       ]
     },
     {
-      "path": "_news/2022-06-01-tensorflow-now-defaults-to-intel-onednn-ai-optimizations.md",
-      "title": "TensorFlow now defaults to Intel oneDNN AI optimizations",
-      "excerpt": "OneDNN is an open-source cross-platform library intended for devs of deep learning applications and frameworks such as TensorFlow.",
+      "path": "_news/2022-12-05-sudbury-plays-host-to-first-robotics-competition.md",
+      "title": "Sudbury plays host to FIRST robotics competition",
+      "excerpt": "Tech Qualifier with students competing from across Sudbury, North Bay, Manitoulin Island, Bruce County and Toronto. Teams had to use their robots to complete different challenges, using pylons while amassing points.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/31/tensorflow-now-defaults-to-intel-onednn-ai-optimizations/",
-      "originalUrl": "https://venturebeat.com/2022/05/31/tensorflow-now-defaults-to-intel-onednn-ai-optimizations/",
+      "webUrl": "https://northernontario.ctvnews.ca/sudbury-plays-host-to-first-robotics-competition-1.6180419",
+      "originalUrl": "https://northernontario.ctvnews.ca/sudbury-plays-host-to-first-robotics-competition-1.6180419",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1216705894-e1644616451773.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
+          "url": "https://beta.ctvnews.ca/content/dam/ctvnews/videos/axis/2022/12/4/2577491/_jcr_content/renditions/videothumbnail.1670204290046.jpg",
+          "width": 1020,
+          "height": 596,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -575,9 +377,52 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/31/tensorflow-now-defaults-to-intel-onednn-ai-optimizations/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/31/tensorflow-now-defaults-to-intel-onednn-ai-optimizations/amp/",
-      "publishedDateTime": "2022-05-31T13:48:00-07:00",
+      "ampWebUrl": "https://beta.ctvnews.ca/local/northern-ontario/2022/12/4/1_6180419.amp.html",
+      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/northern-ontario/2022/12/4/1_6180419.amp.html",
+      "publishedDateTime": "2022-12-04T09:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CTV News",
+        "domain": "ctvnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-05-why-you-need-an-organizational-ai-ethics-committee-to-do-ai-right.md",
+      "title": "Why you need an organizational AI ethics committee to do AI right",
+      "excerpt": "How forming an AI ethics committee will educate and engage your teams and customers about ethical dilemmas artificial intelligence can raise.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/why-you-need-an-organizational-ai-ethics-committee-to-do-ai-right/",
+      "originalUrl": "https://venturebeat.com/ai/why-you-need-an-organizational-ai-ethics-committee-to-do-ai-right/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-875599880-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 629,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/why-you-need-an-organizational-ai-ethics-committee-to-do-ai-right/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-you-need-an-organizational-ai-ethics-committee-to-do-ai-right/amp/",
+      "publishedDateTime": "2022-12-04T09:10:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -600,500 +445,10 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-google-assistant-personalized-speech-recognition-makes-the-ai-better.md",
-      "title": "Google Assistant Personalized Speech Recognition Makes The AI Better",
-      "excerpt": "... up to provide even better results to voice commands on a personal level thanks to newly-spotted “Personalized speech recognition” features. That’s based on an APK teardown of the latest Google app release performed by 9to5Google. Specifically ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidheadlines.com/2022/05/google-assistant-personalized-speech-recognition-makes-the-ai-better.html",
-      "originalUrl": "https://www.androidheadlines.com/2022/05/google-assistant-personalized-speech-recognition-makes-the-ai-better.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidheadlines.com/wp-content/uploads/2022/02/00-Google-Assistant-speed-DG-AH-2022.jpg",
-          "width": 1600,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidheadlines.com/2022/05/google-assistant-personalized-speech-recognition-makes-the-ai-better.html/amp",
-      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2022/05/google-assistant-personalized-speech-recognition-makes-the-ai-better.html/amp",
-      "publishedDateTime": "2022-05-31T13:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android",
-        "domain": "androidheadlines.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-pmis-beat-technology-leads-gains.md",
-      "title": "PMIs Beat, Technology Leads Gains",
-      "excerpt": "“Baidu delivered solid first quarter results, especially regarding our cloud and intelligent driving businesses. Baidu AI Cloud reported another quarter of strong revenue growth and Apollo Go ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/brendanahern/2022/05/31/pmis-beat-technology-leads-gains/",
-      "originalUrl": "https://www.forbes.com/sites/brendanahern/2022/05/31/pmis-beat-technology-leads-gains/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//6296381d6805b5b22ed94143/0x0.jpg?format=jpg&width=1200",
-          "width": 1024,
-          "height": 410,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/brendanahern/2022/05/31/pmis-beat-technology-leads-gains/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brendanahern/2022/05/31/pmis-beat-technology-leads-gains/amp/",
-      "publishedDateTime": "2022-05-31T12:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-signal-detection-theory-may-be-useful-for-characterizing-cognitive-fatigue-in-multiple-sclerosis-patients.md",
-      "title": "Signal detection theory may be useful for characterizing cognitive fatigue in multiple sclerosis patients",
-      "excerpt": "These findings were reported in Frontiers in Behavioral Neuroscience on March 16, 2022, in the open access article \"Signal Detection Theory as a Novel Tool to Understand Cognitive Fatigue in ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-05-theory-characterizing-cognitive-fatigue-multiple.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-05-theory-characterizing-cognitive-fatigue-multiple.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-31T12:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-deere-co-taps-into-technology-to-drive-revenue-growth-julian-sanchez-and-joshua-jepsen-discuss.md",
-      "title": "Deere & Co Taps Into Technology to Drive Revenue Growth; Julian Sanchez and Joshua Jepsen Discuss",
-      "excerpt": "BONDURANT, IA - As technological advancements continue to drive agricultural development, Deere & Co is tapping into the sector to meet demand and up its revenue growth.",
-      "sourceUrl": null,
-      "webUrl": "https://www.andnowuknow.com/behind-greens/deere-tapping-technology-drive-revenue-growth-julian-sanchez-and-joshua-jepsen/melissa-de-leon-chavez/78665",
-      "originalUrl": "https://www.andnowuknow.com/behind-greens/deere-tapping-technology-drive-revenue-growth-julian-sanchez-and-joshua-jepsen/melissa-de-leon-chavez/78665",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-31T11:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "And Now U Know",
-        "domain": "andnowuknow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-ethics-adviser-questions-pm-over-partygate-fine.md",
-      "title": "Ethics adviser questions PM over Partygate fine",
-      "excerpt": "Boris Johnson must explain why he has not broken the ministerial code after being fined over Partygate, his ethics adviser says",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/uk-politics-61653755",
-      "originalUrl": "https://www.bbc.com/news/uk-politics-61653755",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/uk-politics-61653755.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-politics-61653755.amp",
-      "publishedDateTime": "2022-05-31T10:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-us-senate-candidate-runs-on-anti-tesla-full-self-driving-platform.md",
-      "title": "US Senate candidate runs on anti-Tesla “Full Self Driving” platform",
-      "excerpt": "Single-issue candidates for the US Senate aren't the usual fodder for Ars' car coverage, but it seems like an exception might exist for Dan O'Dowd. O'Dowd, an engineer and CEO of a software company, is running for one of California's Senate seats on a platform to ban Tesla's \"Full Self Driving\" feature.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/cars/2022/05/us-senate-candidate-runs-on-anti-tesla-full-self-driving-platform/",
-      "originalUrl": "https://arstechnica.com/cars/2022/05/us-senate-candidate-runs-on-anti-tesla-full-self-driving-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/unsafe-at-any-speed-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-31T10:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-how-ai-can-assist-in-coral-reef-restoration.md",
-      "title": "How AI Can Assist In Coral Reef Restoration",
-      "excerpt": "By learning the difference between how healthy and unhealthy reefs sound, this AI algorithm may able to support coral conservation efforts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/priyashukla/2022/05/31/how-ai-can-assist-in-coral-reef-restoration/",
-      "originalUrl": "https://www.forbes.com/sites/priyashukla/2022/05/31/how-ai-can-assist-in-coral-reef-restoration/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62959c2799ec499d9535a8d4/0x0.jpg?format=jpg&width=1200",
-          "width": 1149,
-          "height": 766,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/priyashukla/2022/05/31/how-ai-can-assist-in-coral-reef-restoration/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/priyashukla/2022/05/31/how-ai-can-assist-in-coral-reef-restoration/amp/",
-      "publishedDateTime": "2022-05-31T10:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-31-how-to-leverage-ai-in-influencer-marketing.md",
-      "title": "How to Leverage AI in Influencer Marketing",
-      "excerpt": "Artificial intelligence is a growing tool in any digital marketer's arsenal. Enabling quick analysis of data, machine learning",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/how-to-leverage-ai-in-influencer-marketing",
-      "originalUrl": "https://www.digitaljournal.com/pr/how-to-leverage-ai-in-influencer-marketing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.getnews.info/uploads/34f213753bed451d6f1428fceae18a59.jpg",
-          "width": 480,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-31T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-05-31-how-artificial-intelligence-ai-can-help-detect-wildfires.md",
-      "title": "How Artificial Intelligence (AI) Can Help Detect Wildfires",
-      "excerpt": "For the period 2012-2021, there was an average of 61,289 wildfires annually and an average of 7.4 million acres impacted annually, according to statistics by the Congressional Research Service. In 2021,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/how-artificial-intelligence-ai-can-help-detect-wildfires",
-      "originalUrl": "https://www.nasdaq.com/articles/how-artificial-intelligence-ai-can-help-detect-wildfires",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/how-artificial-intelligence-can-help-detect-wildfires?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/how-artificial-intelligence-can-help-detect-wildfires?amp",
-      "publishedDateTime": "2022-05-31T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-31-how-has-robotics-changed-manufacturing-technology.md",
-      "title": "How Has Robotics Changed Manufacturing Technology?",
-      "excerpt": "Robotics has been changing manufacturing technology for decades. Production has advanced in numerous ways since the introduction of robots. Primarily, industrial robots can do repetitive tasks much more quickly than humans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/topics/articles/2022/05/31/452472-how-has-robotics-changed-manufacturing-technology.htm",
-      "originalUrl": "https://www.tmcnet.com/topics/articles/2022/05/31/452472-how-has-robotics-changed-manufacturing-technology.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.tmcnet.com/tmc/misc/articles/image/2022-may/9384508427-robot-2791671_960_720.jpg",
-          "width": 960,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-31T08:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-31-depressed-this-algorithm-can-tell-from-the-tone-of-your-voice.md",
-      "title": "Depressed? This algorithm can tell from the tone of your voice",
-      "excerpt": "Mental health issues have come into a clearer focus amid the pandemic. Depression became endemic, but it still too often goes undetected. Even when it does, health care providers struggle to meet demand.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/05/31/depressed-this-algorithm-can-tell-from-the-tone-of-your-voice/",
-      "originalUrl": "https://techcrunch.com/2022/05/31/depressed-this-algorithm-can-tell-from-the-tone-of-your-voice/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-1243567776.jpg?w=1024",
-          "width": 1024,
-          "height": 723,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/05/31/depressed-this-algorithm-can-tell-from-the-tone-of-your-voice/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/31/depressed-this-algorithm-can-tell-from-the-tone-of-your-voice/amp/",
-      "publishedDateTime": "2022-05-31T08:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }
   ],
-  "nextPage": 165
+  "nextPage": null
 }

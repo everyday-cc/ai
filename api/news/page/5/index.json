@@ -2,6 +2,488 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-04-24-machine-learning-as-ai-tools-gain-heft-the-jobs-that-could-be-at-stake.md",
+      "title": "Machine learning: As AI tools gain heft, the jobs that could be at stake",
+      "excerpt": "The OpenAI study also said that around 19 per cent of US workers will see at least 50 per cent of their tasks impacted, with the qualifier that GPT exposure is likely greater for higher-income jobs, but spans across almost all industries.",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/technology/artificial-intelligence/machine-learning-as-ai-tools-gain-heft-the-jobs-that-could-be-at-stake-8572182/",
+      "originalUrl": "https://indianexpress.com/article/technology/artificial-intelligence/machine-learning-as-ai-tools-gain-heft-the-jobs-that-could-be-at-stake-8572182/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2023/04/ai_1200_gettyimages.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/technology/artificial-intelligence/machine-learning-as-ai-tools-gain-heft-the-jobs-that-could-be-at-stake-8572182/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/machine-learning-as-ai-tools-gain-heft-the-jobs-that-could-be-at-stake-8572182/lite/",
+      "publishedDateTime": "2023-04-23T16:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-23-mps-condemn-frasers-groups-use-of-facial-recognition-cameras-in-stores.md",
+      "title": "MPs condemn Frasers Group’s use of facial recognition cameras in stores",
+      "excerpt": "Exclusive: Cross-party collection of parliamentarians write letter to Sports Direct owner",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/business/2023/apr/23/mps-condemn-frasers-groups-use-of-facial-recognition-cameras-in-stores?ref=biztoc.com",
+      "originalUrl": "https://www.theguardian.com/business/2023/apr/23/mps-condemn-frasers-groups-use-of-facial-recognition-cameras-in-stores?ref=biztoc.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/4c14124c6135d5ccc6e785003a21fefdb05ecc79/0_83_3000_1800/master/3000.jpg?width=620&quality=85&auto=format&fit=max&s=ee459190323236390d1ef2e99f46c882",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/business/2023/apr/23/mps-condemn-frasers-groups-use-of-facial-recognition-cameras-in-stores",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2023/apr/23/mps-condemn-frasers-groups-use-of-facial-recognition-cameras-in-stores",
+      "publishedDateTime": "2023-04-23T09:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-23-google-deepmind-restructuring-aims-to-deliver-next-gen-ai-breakthroughs.md",
+      "title": "Google DeepMind restructuring aims to deliver next-gen AI breakthroughs",
+      "excerpt": "The newly-formed business unit aims to accelerate the company’s progress in developing AI in a safe and responsible manner.",
+      "sourceUrl": null,
+      "webUrl": "https://cointelegraph.com/news/google-deepmind-restructuring-aims-to-deliver-next-gen-ai-breakthroughs",
+      "originalUrl": "https://cointelegraph.com/news/google-deepmind-restructuring-aims-to-deliver-next-gen-ai-breakthroughs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDQvZTYwNjVmYTYtOGFkNy00ZmVlLTkxM2ItOTE3NDhlOWIwMDk0LmpwZw==.jpg",
+          "width": 740,
+          "height": 493,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cointelegraph.com/news/google-deepmind-restructuring-aims-to-deliver-next-gen-ai-breakthroughs/amp",
+      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/google-deepmind-restructuring-aims-to-deliver-next-gen-ai-breakthroughs/amp",
+      "publishedDateTime": "2023-04-22T23:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinTelegraph",
+        "domain": "cointelegraph.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-23-michael-schumacher-magazine-editor-sacked-over-ai-generated-interview-with-seven-time-f1-champion.md",
+      "title": "Michael Schumacher: Magazine editor sacked over AI-generated 'interview' with seven-time F1 champion",
+      "excerpt": "The editor of a German magazine that published an artificial intelligence-generated 'interview' with Michael Schumacher has been sacked.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/sport/formula1/65361193",
+      "originalUrl": "https://www.bbc.com/sport/formula1/65361193",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_sport/1086B/production/_129419676_hi020461788.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/sport/formula1/65361193.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/sport/formula1/65361193.amp",
+      "publishedDateTime": "2023-04-22T15:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-22-ai-can-write-your-emails-reports-and-essays-but-can-it-express-your-emotions-should-it.md",
+      "title": "AI can write your emails, reports, and essays. But can it express your emotions? Should it?",
+      "excerpt": "If AI-written vows, eulogies, speeches, love letters, apologies, poems, or songs become ubiquitous, are they still meaningful?",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-can-write-your-emails-and-reports-but-can-it-express-your-emotions/",
+      "originalUrl": "https://www.zdnet.com/article/ai-can-write-your-emails-and-reports-but-can-it-express-your-emotions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/27a39b2f3e2bb9c2bf30da74b13c1104cb3511d5/2023/03/21/585c7714-5218-4ca3-8350-3e63a5e869bf/gettyimages-1256204421-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-can-write-your-emails-and-reports-but-can-it-express-your-emotions/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-can-write-your-emails-and-reports-but-can-it-express-your-emotions/",
+      "publishedDateTime": "2023-04-22T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-22-groundlight-raises-10m-for-natural-language-powered-computer-vision.md",
+      "title": "Groundlight raises $10M for natural language powered computer vision",
+      "excerpt": "Groundlight's $10 million funding round included participation from Madrone, Greycroft Partners and Founders Co-op.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/groundlight-raises-10m-for-natural-language-powered-computer-vision/",
+      "originalUrl": "https://www.therobotreport.com/groundlight-raises-10m-for-natural-language-powered-computer-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2023/04/groundlight-featured.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-22T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-22-how-ai-powered-robots-are-changing-retail.md",
+      "title": "How A.I.-powered robots are changing retail",
+      "excerpt": "An army of inventory robots is being deployed to help retailers appease angry customers, boost sales and respond to the ongoing worker shortage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/04/22/how-ai-powered-robots-are-changing-retail.html",
+      "originalUrl": "https://www.cnbc.com/2023/04/22/how-ai-powered-robots-are-changing-retail.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105609537-1544038192286walmartbraincorprobot.jpg?v=1682168401",
+          "width": 2000,
+          "height": 1125,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/04/22/how-ai-powered-robots-are-changing-retail.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/04/22/how-ai-powered-robots-are-changing-retail.html",
+      "publishedDateTime": "2023-04-22T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-22-2023-2029-artificial-intelligence-chipset-market-trend-with-124-pages-by-irb.md",
+      "title": "2023-2029 \"Artificial Intelligence Chipset Market\" Trend, With 124+ Pages By IRB",
+      "excerpt": "Report Highlights with 124+ pages: -\"The global Artificial Intelligence Chipset market looks promising in the next 5",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/2023-2029-artificial-intelligence-chipset-market-trend-with-124-pages-by-irb-2023-04-22",
+      "originalUrl": "https://www.marketwatch.com/press-release/2023-2029-artificial-intelligence-chipset-market-trend-with-124-pages-by-irb-2023-04-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-22T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-22-simulations-with-a-machine-learning-model-predict-a-new-phase-of-solid-hydrogen.md",
+      "title": "Simulations with a machine learning model predict a new phase of solid hydrogen",
+      "excerpt": "Hydrogen, the most abundant element in the universe, is found everywhere from the dust filling most of outer space to the cores of stars to many substances here on Earth. This would be reason enough to study hydrogen,",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-04-simulations-machine-phase-solid-hydrogen.html",
+      "originalUrl": "https://phys.org/news/2023-04-simulations-machine-phase-solid-hydrogen.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/putting-hydrogen-on-so.jpg",
+          "width": 955,
+          "height": 490,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-04-simulations-machine-phase-solid-hydrogen.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-04-simulations-machine-phase-solid-hydrogen.amp",
+      "publishedDateTime": "2023-04-21T23:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-22-aimachine-learning-market-report-industry-dynamics-by-top-players-2023-2031.md",
+      "title": "AI/Machine Learning Market Report Industry Dynamics by Top Players 2023-2031",
+      "excerpt": "Global AI/Machine Learning Market Research Report 2023 is spread across 116 pages and 148 Number of Tables and",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/aimachine-learning-market-report-industry-dynamics-by-top-players-2023-2031-2023-04-22",
+      "originalUrl": "https://www.marketwatch.com/press-release/aimachine-learning-market-report-industry-dynamics-by-top-players-2023-2031-2023-04-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-21T22:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-22-self-driving-or-driverless-cars-market-emerging-offers-new-opportunities-forecast-2023-2030.md",
       "title": "Self-Driving or Driverless Cars Market Emerging Offers New Opportunities forecast 2023-2030",
       "excerpt": "Global Self-Driving or Driverless Cars Market research report offers a detailed analysis of valuable insight into",
@@ -758,527 +1240,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-the-best-shows-on-amazon-prime-right-now-april-2023.md",
-      "title": "The best shows on Amazon Prime right now (April 2023)",
-      "excerpt": "Follow her on Twitter @christinetechCA. If you’ve been searching for some of the greatest horror movies you can stream, Amazon Prime Video has got you covered. Home to hundreds of chilling ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/movies/best-shows-on-amazon-prime/",
-      "originalUrl": "https://www.digitaltrends.com/movies/best-shows-on-amazon-prime/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/04/dead-ringers-prime-video.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/movies/best-shows-on-amazon-prime/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/best-shows-on-amazon-prime/?amp",
-      "publishedDateTime": "2023-04-21T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-artificial-intelligence-ai-in-fintech-market-complete-overview-till-2031.md",
-      "title": "Artificial Intelligence (AI) in Fintech Market Complete Overview till 2031",
-      "excerpt": "New Report (2023-2031) of 75 Pages: Global Artificial Intelligence (AI) in Fintech Market Status and Prospect A summary",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-complete-overview-till-2031-2023-04-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-complete-overview-till-2031-2023-04-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-20T23:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-facial-recognition-is-expanding-its-watchful-eye-but-suffers-from-notable-fails.md",
-      "title": "Facial recognition is expanding its watchful eye but suffers from notable fails",
-      "excerpt": "Various police departments and businesses in the U.S. are increasingly using facial recognition as a security measure, but has been hit with notable criticisms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/facial-recognition-expanding-watchful-eye-suffers-notable-fails",
-      "originalUrl": "https://www.foxnews.com/tech/facial-recognition-expanding-watchful-eye-suffers-notable-fails",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e702dcb0-2ff1-4895-96a1-af55176105b0/298264ac-cd74-457f-913c-021026f36032/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/facial-recognition-expanding-watchful-eye-suffers-notable-fails.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/facial-recognition-expanding-watchful-eye-suffers-notable-fails.amp",
-      "publishedDateTime": "2023-04-20T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-israel-leads-with-early-ai-battlefield-integration-the-future-of-defense-systems.md",
-      "title": "Israel leads with early AI battlefield integration: 'The future of defense systems'",
-      "excerpt": "Artificial intelligence has existed in some form over the past few decades, but only recently has it reached the level of potentially disrupting economic and social systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/world/israel-leads-early-ai-battlefield-integration-future-defense-systems",
-      "originalUrl": "https://www.foxnews.com/world/israel-leads-early-ai-battlefield-integration-future-defense-systems",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d7475860-cb58-4b4b-ad40-e7b4075c8e33/3f4696d9-bca5-42aa-8098-7dc1bdfe3720/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/world/israel-leads-early-ai-battlefield-integration-future-defense-systems.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/israel-leads-early-ai-battlefield-integration-future-defense-systems.amp",
-      "publishedDateTime": "2023-04-20T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-artificial-neural-networks-market-analysis-and-forecast-to-2030trends-with-cagr.md",
-      "title": "Artificial Neural Networks Market Analysis and Forecast to 2030|Trends with CAGR",
-      "excerpt": "The research report on the \"Artificial Neural Networks Market\" Report helps to Development Strategy to optimise",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-neural-networks-market-analysis-and-forecast-to-2030trends-with-cagr-2023-04-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-neural-networks-market-analysis-and-forecast-to-2030trends-with-cagr-2023-04-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-20T22:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-womans-bowel-cancer-spotted-by-artificial-intelligence.md",
-      "title": "Woman's bowel cancer spotted by artificial intelligence",
-      "excerpt": "The Colo-Detect study uses AI to flag up areas of concern during colonoscopies A woman who was part of a study using artificial intelligence (AI) to detect bowel cancer is free of the disease after it was found and removed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/uk-england-tyne-65336477.amp",
-      "originalUrl": "https://www.bbc.com/news/uk-england-tyne-65336477.amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/9ED6/production/_129426604_4cb71ac6-7d85-4663-b06d-3dcb18ff33a6.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/uk-england-tyne-65336477.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-tyne-65336477.amp",
-      "publishedDateTime": "2023-04-20T22:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-2023-to-2030-natural-language-processing-market-upcoming-trends.md",
-      "title": "2023 to 2030 Natural Language Processing Market Upcoming Trends",
-      "excerpt": "Natural Language Processing Market” Are a Collection of Information and Analysis Obtained From Diverse Sources to",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/2023-to-2030-natural-language-processing-market-upcoming-trends-2023-04-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/2023-to-2030-natural-language-processing-market-upcoming-trends-2023-04-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-20T21:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-automated-machine-learning-automl-market-research-2023-2030.md",
-      "title": "Automated Machine Learning (AutoML) Market Research, 2023-2030",
-      "excerpt": "Automated Machine Learning (AutoML) Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-research-2023-2030-2023-04-20",
-      "originalUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-research-2023-2030-2023-04-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-20T20:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-2023-artificial-intelligence-and-robotics-in-aerospace-and-defense-market-dynamic-report-by-2030.md",
-      "title": "2023 Artificial Intelligence and Robotics in Aerospace and Defense Market | Dynamic Report By 2030",
-      "excerpt": "Artificial Intelligence and Robotics in Aerospace and Defense Market | Outlook 2023-2028 | Pre and Post-COVID Research",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/2023-artificial-intelligence-and-robotics-in-aerospace-and-defense-market-dynamic-report-by-2030-2023-04-20",
-      "originalUrl": "https://www.marketwatch.com/press-release/2023-artificial-intelligence-and-robotics-in-aerospace-and-defense-market-dynamic-report-by-2030-2023-04-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-20T20:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-cxl-for-accelerated-ai-workloads.md",
-      "title": "CXL For Accelerated AI Workloads",
-      "excerpt": "This article will focus on two recent product announcements using CXL for accelerated artificial intelligence (AI) workloads. These include the TrainingCXL PCIe device from Korean-bawsed Panmesia and a high-performance CXL switch chip from Enfabrica that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomcoughlin/2023/04/20/cxl-for-accelerated-ai-workloads/",
-      "originalUrl": "https://www.forbes.com/sites/tomcoughlin/2023/04/20/cxl-for-accelerated-ai-workloads/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6441c2efe474ff3fce23907c/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomcoughlin/2023/04/20/cxl-for-accelerated-ai-workloads/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomcoughlin/2023/04/20/cxl-for-accelerated-ai-workloads/amp/",
-      "publishedDateTime": "2023-04-20T16:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

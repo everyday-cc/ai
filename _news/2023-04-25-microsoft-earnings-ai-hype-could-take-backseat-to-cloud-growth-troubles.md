@@ -179,6 +179,22 @@ related:
         width: 1200
         height: 797
         isCached: true
+  - title: "Here’s how Microsoft plans to reap billions from AI"
+    excerpt: "The company hopes steal search revenue from Google, help businesses build their own chatbots and AI tools, and incorporate AI-enhanced productivity tools across its product lineup."
+    publishedDateTime: 2023-04-26T07:00:00Z
+    webUrl: "https://www.computerworld.com/article/3694091/here-s-how-microsoft-plans-to-reap-billions-from-ai.html"
+    ampWebUrl: "https://www.computerworld.com/article/3694091/here-s-how-microsoft-plans-to-reap-billions-from-ai.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3694091/here-s-how-microsoft-plans-to-reap-billions-from-ai.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 74
+    images:
+      - url: "https://images.techhive.com/images/article/2014/04/flying-dollars-95715483-100264949-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 1200
+        isCached: true
   - title: "Microsoft results top forecasts as AI boosts sales"
     excerpt: "Microsoft has beaten Wall Street's estimates for quarterly revenue and profit, driven by growth in its cloud computing and Office productivity software businesses, and the company said artificial intelligence products were stimulating sales."
     publishedDateTime: 2023-04-26T06:29:00Z
@@ -221,6 +237,36 @@ related:
         width: 1500
         height: 800
         isCached: true
+  - title: "Missed Out On Microsoft's AI-Powered Rally This Year? Analyst Sees Another 25% Surge Likely Soon"
+    excerpt: "The results wowed a couple of Microsoft bulls, and here's what the analysts think about the quarterly report: The Microsoft Analysts: Piper Sandler analyst Brent Bracelin maintained an Overweight rating and hiked the price target from $290 to $348."
+    publishedDateTime: 2023-04-26T11:09:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/missed-out-on-microsoft-s-ai-powered-rally-this-year-another-25-surge-likely-soon-says-analyst-1032262759"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 71
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/Photo_by_JOCA_PH_on_Shutterstock.jpeg"
+        width: 1024
+        height: 768
+        isCached: true
+  - title: "Microsoft not dreaming about future: Its cloud business drives profits, plans for AI"
+    excerpt: "The world's most advanced AI models are coming together with the world's most universal user interface - natural language - to create a new era of computing,” says Satya Nadella, chairman and chief executive officer of Microsoft after the tech giant posted quarterly earnings growth."
+    publishedDateTime: 2023-04-26T11:07:00Z
+    webUrl: "https://wraltechwire.com/2023/04/26/microsoft-not-dreaming-about-future-its-cloud-business-drives-profits-plans-for-ai/"
+    ampWebUrl: "https://wraltechwire.com/2023/04/26/microsoft-not-dreaming-about-future-its-cloud-business-drives-profits-plans-for-ai/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/04/26/microsoft-not-dreaming-about-future-its-cloud-business-drives-profits-plans-for-ai/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 67
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2020/11/cloud-computing-internet-of-things-e1605713015179.png"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Microsoft reports boost in profits, revenue, as it pushes AI"
     excerpt: "Analysts polled by FactSet expected Microsoft to post revenue of $51.02 billion for the quarter. The quarter marked an ambitious push by Microsoft to capitalize on its investments in artificial intelligence and partnership with San Francisco-based startup OpenAI with the February release of a new AI chatbot feature on its search engine Bing."
     publishedDateTime: 2023-04-26T01:23:00Z
@@ -248,6 +294,20 @@ related:
       - url: "https://static.ffx.io/images/$zoom_0.7933%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_91/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_opinion_no_age_social_wm/4fb82f3e241731b3a369156a5495d58018ec20dd"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Will Microsoft and Artificial Intelligence Save the Market?"
+    excerpt: "Both companies are benefiting from a boom in artificial intelligence (AI). The growth there is even faster than what occurred during the internet bubble in the late 1990s, and Microsoft is the leader."
+    publishedDateTime: 2023-04-26T11:14:00Z
+    webUrl: "https://realmoney.thestreet.com/investing/will-microsoft-and-artificial-intelligence-save-the-market--16122127"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 54
+    images:
+      - url: "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/07a7b3af-aa2a-11e9-bc6a-93daea8853a2.png"
+        width: 1200
+        height: 800
         isCached: true
   - title: "The era of AI: How the Microsoft Cloud is accelerating AI transformation across industries"
     excerpt: "This past quarter has put a spotlight on advancements in generative AI, and the possibilities of its application to deliver pragmatic business outcomes. For organizations around the world, there is incredible opportunity to enhance products and services while unlocking innovation and business value to help shape the future of industry."

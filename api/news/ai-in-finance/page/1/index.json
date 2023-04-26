@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-04-25-chatgpt-how-to-use-ai-as-a-virtual-financial-adviser.md",
+      "title": "ChatGPT: How to use AI as a virtual financial adviser",
+      "excerpt": "From chatbots and virtual assistants to fraud detection and risk management, artificial intelligence (AI) is now being used in many areas of finance. But what could an AI system like ChatGPT do for your bank balance?",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-04-chatgpt-ai-virtual-financial.html",
+      "originalUrl": "https://techxplore.com/news/2023-04-chatgpt-ai-virtual-financial.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/chatgpt-how-to-use-ai.jpg",
+          "width": 1356,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-04-chatgpt-ai-virtual-financial.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-04-chatgpt-ai-virtual-financial.amp",
+      "publishedDateTime": "2023-04-25T09:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-04-25-fintech-firm-klarna-overhauls-its-app-with-a-tiktok-like-discovery-feed-as-ai-hype-swirls.md",
       "title": "Fintech firm Klarna overhauls its app with a TikTok-like discovery feed as A.I. hype swirls",
       "excerpt": "\"Buy now, pay later\" firm Klarna on Tuesday made some sweeping changes to its app, including a TikTok-inspired discovery feed that recommends products to users.",
@@ -1227,59 +1271,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-24-machine-learning-ml-platforms-market-size-by-2031.md",
-      "title": "Machine Learning (ML) Platforms Market Size by 2031",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 23, 2023 (The Expresswire) -- The \"Machine Learning (ML) Platforms Market\" study describes how the technology industry is evolving and how major and emerging players in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-ml-platforms-market-size-by-2031-2023-03-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-ml-platforms-market-size-by-2031-2023-03-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 196,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-23T21:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

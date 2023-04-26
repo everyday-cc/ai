@@ -2,6 +2,160 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-04-26-jabil-is-building-reports-with-ibm-business-analytics-portfolio.md",
+      "title": "Jabil is building reports with IBM Business Analytics Portfolio",
+      "excerpt": "Learn how global supply chain expert Jabil is turning reporting change into business success with the IBM Business Analytics portfolio.\nThe post Jabil is building reports with IBM Business Analytics Portfolio appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/jabil-is-building-reports-with-ibm-business-analytics-portfolio/",
+      "originalUrl": "https://www.ibm.com/blog/jabil-is-building-reports-with-ibm-business-analytics-portfolio/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/04/20220512_CaitOppermann_WorkingWorld_LA_473_02.l-e1682351784695.jpg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-26T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-26-ai-could-spell-the-end-of-big-business.md",
+      "title": "AI Could Spell the End of Big Business",
+      "excerpt": "The leading companies in artificial intelligence tend to be small, and many big ones will use it to get smaller.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/opinion/articles/2023-04-26/ai-could-spell-the-end-of-big-business",
+      "originalUrl": "https://www.bloomberg.com/opinion/articles/2023-04-26/ai-could-spell-the-end-of-big-business",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9rRKQiMCs54/v1/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-26T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-26-how-generative-ai-can-be-used-in-electronics-manufacturing.md",
+      "title": "How Generative AI Can Be Used In Electronics Manufacturing",
+      "excerpt": "By tapping into the creative potential of generative AI, we can help assuage our national security and infrastructure concerns while paving the way for innovative solutions across a range of industries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/26/how-generative-ai-can-be-used-in-electronics-manufacturing/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/26/how-generative-ai-can-be-used-in-electronics-manufacturing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61f030570018a072dc46d1ec/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/26/how-generative-ai-can-be-used-in-electronics-manufacturing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/26/how-generative-ai-can-be-used-in-electronics-manufacturing/amp/",
+      "publishedDateTime": "2023-04-26T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-26-microsoft-shares-surge-7-after-the-chatgpt-investor-reveals-ai-boosted-its-cloud-sales.md",
       "title": "Microsoft shares surge 7% after the ChatGPT investor reveals AI boosted its cloud sales",
       "excerpt": "Microsoft CEO Satya Nadella said AI fueled growth in the tech giant's Azure cloud business and Bing search engine last quarter.",
@@ -10,7 +164,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/microsoft-stock-price-chatgpt-investor-ai-cloud-azure-satya-nadella-2023-4",
       "featuredContent": null,
       "highlight": null,
-      "heat": 353,
+      "heat": 393,
       "tags": null,
       "images": [
         {
@@ -153,6 +307,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-26-exclusive-swiss-startup-unveils-world-first-ai-translation-service.md",
+      "title": "Exclusive: Swiss startup unveils ‘world-first’ AI translation service",
+      "excerpt": "Interprefy claims to have created the world’s first advanced automated speech translation service for online and live events.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/interprefy-startup-unveils-worlds-first-advanced-automated-speech-translation-service-for-online-and-live-eventsinterprefy",
+      "originalUrl": "https://thenextweb.com/news/interprefy-startup-unveils-worlds-first-advanced-automated-speech-translation-service-for-online-and-live-eventsinterprefy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F04%2FUntitled-design-10.jpg&signature=d0273374d0073cb706cb6f2cdea4ca35",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-26T00:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -412,7 +618,7 @@
       "originalUrl": "https://techcrunch.com/2023/04/25/ai-startup-runway-launches-app-to-bring-users-video-to-video-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -618,7 +824,7 @@
       "originalUrl": "https://www.forbes.com/advisor/business/ai-statistics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -1017,21 +1223,21 @@
       ]
     },
     {
-      "path": "_news/2023-04-25-andrew-ngs-landing-ai-makes-it-easier-to-create-computer-vision-apps-with-visual-prompting.md",
-      "title": "Andrew Ng’s Landing AI makes it easier to create computer vision apps with Visual Prompting",
-      "excerpt": "Landing AI's new Visual Prompting feature makes it easy for users to develop new computer-vision applications.",
+      "path": "_news/2023-04-25-chatgpt-how-to-use-ai-as-a-virtual-financial-adviser.md",
+      "title": "ChatGPT: How to use AI as a virtual financial adviser",
+      "excerpt": "From chatbots and virtual assistants to fraud detection and risk management, artificial intelligence (AI) is now being used in many areas of finance. But what could an AI system like ChatGPT do for your bank balance?",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/andrew-ngs-landing-ai-makes-it-easier-to-create-computer-vision-apps-with-visual-prompting/",
-      "originalUrl": "https://venturebeat.com/ai/andrew-ngs-landing-ai-makes-it-easier-to-create-computer-vision-apps-with-visual-prompting/",
+      "webUrl": "https://techxplore.com/news/2023-04-chatgpt-ai-virtual-financial.html",
+      "originalUrl": "https://techxplore.com/news/2023-04-chatgpt-ai-virtual-financial.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 71,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/06/computer-vision-e1663772711547.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 801,
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/chatgpt-how-to-use-ai.jpg",
+          "width": 1356,
+          "height": 668,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1039,23 +1245,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/andrew-ngs-landing-ai-makes-it-easier-to-create-computer-vision-apps-with-visual-prompting/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/andrew-ngs-landing-ai-makes-it-easier-to-create-computer-vision-apps-with-visual-prompting/amp/",
-      "publishedDateTime": "2023-04-25T09:37:00-07:00",
+      "ampWebUrl": "https://techxplore.com/news/2023-04-chatgpt-ai-virtual-financial.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-04-chatgpt-ai-virtual-financial.amp",
+      "publishedDateTime": "2023-04-25T09:50:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1064,214 +1261,9 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-machine-learning-as-a-service-mlaas-market-4346-cagr-till-2030.md",
-      "title": "Machine Learning as a Service (MlaaS) Market [ 43.46% CAGR ] till 2030",
-      "excerpt": "Machine Learning as a Service (MlaaS) Market is expected to record a [ 43.46% CAGR ] over the forecast period 2023 to",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-4346-cagr-till-2030-2023-04-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-4346-cagr-till-2030-2023-04-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-25T09:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-a-meta-executive-reportedly-warned-staff-last-year-that-we-have-a-significant-gap-when-it-comes-to-ai.md",
-      "title": "A Meta executive reportedly warned staff last year that 'we have a significant gap' when it comes to AI",
-      "excerpt": "Mark Zuckerberg and other execs had a five-hour discussion on how Meta could implement systems for cutting edge AI last year, Reuters reports.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/meta-executive-warned-staff-falling-behind-ai-report-2023-4",
-      "originalUrl": "https://www.businessinsider.com/meta-executive-warned-staff-falling-behind-ai-report-2023-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6447d9cb90523900196fceb6?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/meta-executive-warned-staff-falling-behind-ai-report-2023-4?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/meta-executive-warned-staff-falling-behind-ai-report-2023-4?amp",
-      "publishedDateTime": "2023-04-25T09:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!News",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-republicans-launch-eerie-ai-generated-attack-ad-on-biden.md",
-      "title": "Republicans Launch Eerie AI-Generated Attack Ad On Biden",
-      "excerpt": "The video shows realistic images of a collapse of world order under a second Biden-Harris term—and suggests the possibility of a lot of artificial intelligence in upcoming campaigns.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/saradorn/2023/04/25/republicans-launch-eerie-ai-generated-attack-ad-on-biden/",
-      "originalUrl": "https://www.forbes.com/sites/saradorn/2023/04/25/republicans-launch-eerie-ai-generated-attack-ad-on-biden/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6447ef043664b77e0aa3babc/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/saradorn/2023/04/25/republicans-launch-eerie-ai-generated-attack-ad-on-biden/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saradorn/2023/04/25/republicans-launch-eerie-ai-generated-attack-ad-on-biden/amp/",
-      "publishedDateTime": "2023-04-25T08:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-harnessing-the-power-of-ai-for-job-seekers-and-recruiters.md",
-      "title": "Harnessing The Power Of AI For Job Seekers And Recruiters",
-      "excerpt": "\"AI already is proving to be a powerful tool for recruiters, job counselors and most of all job seekers, if they know how to harness it,\" explains RecruiterShare CEO, John Younger. \"The challenge for each of the these three groups is learning how to best harness it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/michaelbernick/2023/04/25/harnessing-the-power-of-ai-for-job-seekers-and-recruiters/",
-      "originalUrl": "https://www.forbes.com/sites/michaelbernick/2023/04/25/harnessing-the-power-of-ai-for-job-seekers-and-recruiters/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/644699ce5d21f906bf1742ca/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 1055,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/michaelbernick/2023/04/25/harnessing-the-power-of-ai-for-job-seekers-and-recruiters/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelbernick/2023/04/25/harnessing-the-power-of-ai-for-job-seekers-and-recruiters/amp/",
-      "publishedDateTime": "2023-04-25T07:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
+        "AI in Finance",
+        "AI",
+        "Natural Language Processing"
       ]
     }
   ],

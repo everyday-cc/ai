@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-03-24-machine-learning-ml-platforms-market-size-by-2031.md",
+      "title": "Machine Learning (ML) Platforms Market Size by 2031",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 23, 2023 (The Expresswire) -- The \"Machine Learning (ML) Platforms Market\" study describes how the technology industry is evolving and how major and emerging players in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-ml-platforms-market-size-by-2031-2023-03-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-ml-platforms-market-size-by-2031-2023-03-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 196,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-23T21:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2023-03-23-southeast-asian-credit-fintech-kredivo-scores-270m-series-d.md",
       "title": "Southeast Asian credit fintech Kredivo scores $270M Series D",
       "excerpt": "Kredivo’s direct and indirect competitors include Akulaku’s BNPL and Bank Neo Commerce (the fintech also recently raised significant funding from a large Japanese bank), Advance.ai’s Atome BNPL service and Kredit Pintar cash loans and Sea Group’s ...",
@@ -1396,58 +1449,6 @@
         "AI",
         "AI in Healthcare",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-03-07-7-investors-reveal-whats-hot-in-fintech-in-q1-2023.md",
-      "title": "7 investors reveal what’s hot in fintech in Q1 2023",
-      "excerpt": "We’re also looking at thoughtful enterprise applications of AI that intersect with each of these segments of our fintech thesis. We continue to avoid balance-sheet heavy businesses that take ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/03/07/7-investors-reveal-whats-hot-in-fintech-in-q1-2023/",
-      "originalUrl": "https://techcrunch.com/2023/03/07/7-investors-reveal-whats-hot-in-fintech-in-q1-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/10/GettyImages-1033407190-1.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-06T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

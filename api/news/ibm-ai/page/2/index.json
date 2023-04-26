@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-04-03-ibm-and-masters-use-generative-ai-to-create-spoken-word-commentary.md",
+      "title": "IBM and Masters use generative AI to create spoken word commentary",
+      "excerpt": "IBM and Masters have worked together for more than 25 years Generative AI promises many use cases for the sports industry The Masters golf tournament will use generative artificial intelligence (AI) technology to create automated audio commentary for more than 20,",
+      "sourceUrl": null,
+      "webUrl": "https://www.sportspromedia.com/news/us-masters-gold-ibm-generative-ai-tech-apps/",
+      "originalUrl": "https://www.sportspromedia.com/news/us-masters-gold-ibm-generative-ai-tech-apps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-03T03:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SportsPro",
+        "domain": "sportspromedia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-03-ibm-uses-ai-to-generate-commentary-for-golfs-masters.md",
       "title": "IBM uses AI to generate commentary for golf’s Masters",
       "excerpt": "worked with the Masters digital team to leverage multiple foundation models — including IBM Watson Text-to-Speech – to train the AI in the language of golf at the Masters, automating the process of adding spoken commentary to video clips, said IBM.",
@@ -1383,49 +1417,6 @@
         "IBM AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-12-inside-philadelphia-eagles-quarterback-jalen-hurts-rumored-relationship-with-ai-professional-bry-burrows.md",
-      "title": "Inside Philadelphia Eagles Quarterback Jalen Hurts' Rumored Relationship With AI Professional Bry Burrows",
-      "excerpt": "She joined the sales team at IBM in 2019, quickly working her way up the corporate ... Today, she is an AI Partner at a Fortune 500 company, working on its artificial intelligence product Watson. You may remember Watson as the AI that beat Number Two ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.yourtango.com/entertainment/who-jalen-hurts-girlfriend-bry-burrows",
-      "originalUrl": "https://www.yourtango.com/entertainment/who-jalen-hurts-girlfriend-bry-burrows",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.yourtango.com/sites/default/files/styles/listing_big/public/image_blog/jalen-hurts-girlfriend-bry-burrow-super-bowl.png?itok=iFKQEMJE",
-          "width": 620,
-          "height": 309,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.yourtango.com/entertainment/who-jalen-hurts-girlfriend-bry-burrows",
-      "cdnAmpWebUrl": "https://www-yourtango-com.cdn.ampproject.org/c/s/www.yourtango.com/entertainment/who-jalen-hurts-girlfriend-bry-burrows",
-      "publishedDateTime": "2023-02-11T09:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YourTango",
-        "domain": "yourtango.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

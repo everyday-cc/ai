@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/global-development/2023/apr/25/human-val
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/global-development/2023/apr/25/human-values-as-well-as-ai-must-be-at-the-core-of-the-future-of-work-chatgtp"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 620
     height: 372
     isCached: true
+
+related:
+  - title: "AI, Robots, and the Inventive Future of White Castle"
+    excerpt: "White Castle has been around 102 years, give a month or two. A journey that began when Billy Ingram and Walter Anderson began dishing square hamburgers for 5 cents apiece. Still family owned, the brand’s guidepost remains nostalgic—“Create Memorable Moments."
+    publishedDateTime: 2023-04-25T16:02:00Z
+    webUrl: "https://www.qsrmagazine.com/exclusives/ai-robots-and-inventive-future-white-castle"
+    type: article
+    provider:
+      name: QSR magazine
+      domain: qsrmagazine.com
+    quality: 54
+    images:
+      - url: "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/2022-02/WCFlippy.jpg?itok=Op-wfPU2"
+        width: 765
+        height: 446
+        isCached: true
 
 secured: "Yzw2ADBacRcVkCs6/wYGTJ2wmo0mLT/ANjVWA/Z7bN6a+6K40froHV172ibzLay2gw2CLMEtztTyOXksntUJFnwPrVbrc+PLE5MKBUeQLfCjXBDXbUySfFUzmmzHxT/QPXOkXtMSAGFwhGz6QCWU4lhdNBLCefKBHfAAA+qGVJpqEgayNLCgEkafZjSDM0S7ezIkU1X/EUDWizTwI1X+TnAja/W8b1B24YqCs2SVO8sx6UW4+XVOQtqyTIJShZXkbJBwWDDpLfErvlZZ5TRGl3+4p+GB5EYBY9CJ1AwfTHNFj7KycMzSkE0H9uBsrJvbNR/x5fezATWWFsjDkXCOa0uOloYBUl/hrtdRMrSme1EapJfFTQBt++o8Xj95oubqxHr4DypMG9s/iOq10Q+rSToBH7qzrSSXPVeLpwrYhiqDhiU9sTVnMgihxaa8WAC8GPMFGmq1wptUWpjM8dppug3sNfqFW8FezYTKWzr/CGDxRksnQm52xC4bpM7EkDU088BBzyf0Bt87lrfYQUhV8Q==;nMIQ9vqcDOP4++xiFJVIsg=="
 ---

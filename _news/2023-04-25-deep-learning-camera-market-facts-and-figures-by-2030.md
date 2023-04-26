@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/deep-learning-camera-mar
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-camera-market-facts-and-figures-by-2030-2023-04-25"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Data Science and Machine-Learning Platforms Market by Product Type and Consumers-2030"
+    excerpt: "Apr 25, 2023 (The Expresswire) -- \"Data Science and Machine-Learning Platforms Market\" Insights 2023 By Applications (Open Source Data Integration"
+    publishedDateTime: 2023-04-26T01:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-platforms-market-by-product-type-and-consumers-2030-2023-04-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

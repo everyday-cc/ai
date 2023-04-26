@@ -62,7 +62,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-research-report-with-analysis-2023-to-2030-2023-04-25",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -647,6 +647,49 @@
         "AWS AI",
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2023-04-19-bologna-fc-1909-becomes-the-first-club-to-use-opta-vision-stats-performs-new-ai-enriched-positional-analysis-data.md",
+      "title": "Bologna FC 1909 becomes the first club to use Opta Vision, Stats Perform's new AI-enriched positional analysis data",
+      "excerpt": "Leveraging the richest sports database, Stats Perform enhances sports competition and entertainment through machine learning and computer vision to create advanced predictions and analysis – be that for digital and broadcast media with differentiated ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/04/n31882980/bologna-fc-1909-becomes-the-first-club-to-use-opta-vision-stats-performs-new-ai-enriched-positiona",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/04/n31882980/bologna-fc-1909-becomes-the-first-club-to-use-opta-vision-stats-performs-new-ai-enriched-positiona",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-19T01:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -1310,49 +1353,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-07-global-computer-vision-system-market-2023-2030-an-in-depth-analysis-on-industry.md",
-      "title": "Global Computer Vision System Market [2023-2030] | An In-Depth Analysis on Industry",
-      "excerpt": "The Global Computer Vision System Market is Forecasted to Reach a Multimillion-Dollar Valuation by 2030, Exhibiting",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-computer-vision-system-market-2023-2030-an-in-depth-analysis-on-industry-2023-04-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-computer-vision-system-market-2023-2030-an-in-depth-analysis-on-industry-2023-04-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-07T02:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -54,7 +54,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/04/25/what-marketing-and-advertising-specialists-can-expect-from-chatgpt/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 251,
+      "heat": 261,
       "tags": null,
       "images": [
         {
@@ -247,7 +247,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-market-growth-by-2031-2023-04-24",
       "featuredContent": null,
       "highlight": null,
-      "heat": 221,
+      "heat": 211,
       "tags": null,
       "images": [
         {
@@ -491,6 +491,49 @@
         "AWS AI",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-04-20-artificial-intelligence-being-used-at-omahas-chi-health-clinics.md",
+      "title": "Artificial intelligence being used at Omaha’s CHI Health clinics",
+      "excerpt": "OMAHA, Neb. (WOWT) - The types of AI that healthcare providers at CHI Health use are the kind patients rarely see. “This is all done to help the providers and the nurses, and it informs them ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wowt.com/2023/04/21/artificial-intelligence-being-used-omahas-chi-health-clinics/",
+      "originalUrl": "https://www.wowt.com/2023/04/21/artificial-intelligence-being-used-omahas-chi-health-clinics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-wowt-prod.cdn.arcpublishing.com/resizer/Hsw_OILhmQlPWzD1D8GAaqnUcuE=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/PT2T74TZ7JCYNPQLYYPTGDBOXY.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wowt.com/2023/04/21/artificial-intelligence-being-used-omahas-chi-health-clinics/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-wowt-com.cdn.ampproject.org/c/s/www.wowt.com/2023/04/21/artificial-intelligence-being-used-omahas-chi-health-clinics/?outputType=amp",
+      "publishedDateTime": "2023-04-19T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WOWT.com",
+        "domain": "wowt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     },
     {
@@ -1389,49 +1432,6 @@
         "AI in Autos",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-04-07-global-artificial-intelligence-ai-in-construction-market-2023-2030-gain-a-competitive-edge-with-top-countries-data.md",
-      "title": "Global Artificial Intelligence (AI) in Construction Market [2023-2030] | Gain a Competitive Edge with Top Countries Data",
-      "excerpt": "Global Artificial Intelligence (AI) in Construction Market [2023-2030] research report is a compilation of information",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-construction-market-2023-2030-gain-a-competitive-edge-with-top-countries-data-2023-04-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-construction-market-2023-2030-gain-a-competitive-edge-with-top-countries-data-2023-04-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-07T02:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

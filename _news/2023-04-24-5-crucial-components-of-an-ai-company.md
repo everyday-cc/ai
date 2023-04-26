@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/0
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/04/24/5-crucial-components-of-an-ai-company/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://www.itweb.co.za/static/pictures/2023/04/86-Humanoid-reading-2023.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Why the struggle for ethics in generative AI is more complex than we imagine"
-    excerpt: "Some generative AI companies have been criticized for scraping the Web for training data, including copyrighted material, without the consent of creators and rights owners. In this way, the work of any number of creative,"
-    publishedDateTime: 2023-04-24T09:23:00Z
-    webUrl: "https://diginomica.com/why-struggle-ethics-generative-ai-more-complex-we-imagine"
-    ampWebUrl: "https://diginomica.com/why-struggle-ethics-generative-ai-more-complex-we-imagine?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/why-struggle-ethics-generative-ai-more-complex-we-imagine?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 71
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2023-03/ethics-gb40633784_640.jpg"
-        width: 640
-        height: 453
         isCached: true
   - title: "How AI could change computing, culture and the course of history"
     excerpt: "For a sense of what may be on the way, consider three possible analogues, or precursors: the browser, the printing press and practice of psychoanalysis. One changed computers and the economy, one changed how people gained access and related to knowledge, and one changed how people understood themselves."

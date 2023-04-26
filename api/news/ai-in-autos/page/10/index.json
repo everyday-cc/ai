@@ -2,6 +2,103 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-02-07-this-company-is-beating-google-to-chat-based-search-and-its-not-microsoft.md",
+      "title": "This Company Is Beating Google to Chat-Based Search, and It's Not Microsoft",
+      "excerpt": "Baidu is best known for its search engine, but it has been investing in artificial intelligence for several years, and those efforts are beginning to bear fruit. Baidu has launched fully driverless robotaxis in Wuhan and Chongqing, and it plans to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/02/07/baidu-beating-google-chat-based-search/",
+      "originalUrl": "https://www.fool.com/investing/2023/02/07/baidu-beating-google-chat-based-search/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/719430/china-e-commerce.jpg",
+          "width": 2120,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T07:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-6-jobs-artificial-intelligence-is-already-replacing-and-how-investors-can-capitalize-on-it.md",
+      "title": "6 Jobs Artificial Intelligence Is Already Replacing and How Investors Can Capitalize on It",
+      "excerpt": "It’s no secret artificial intelligence (AI ... but business is likely to pick up the pace in the future. From a self-driving Tesla Semi to Starship’s Food Delivery robot fleet, robots powered by AI are beginning to dominate the delivery sector.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/23/02/30766478/6-jobs-artificial-intelligence-is-already-replacing-how-investors-can-capitalize-on-it",
+      "originalUrl": "https://www.benzinga.com/news/23/02/30766478/6-jobs-artificial-intelligence-is-already-replacing-how-investors-can-capitalize-on-it",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2023/02/07/arseny-togulev-meckpokjyjm-unsplash.jpg?width=1200&height=800&fit=crop",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/30766478",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30766478",
+      "publishedDateTime": "2023-02-07T06:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-02-07-future-toyota-cars-to-be-powerd-by-robosense-lidar-for-safer-self-driving.md",
       "title": "Future Toyota Cars to be Powerd by RoboSense LiDAR for Safer Self-Driving",
       "excerpt": "RoboSense, a world-leading provider of Smart LiDAR Sensor Systems, officially announced its partnership with Toyota, the world's best-selling carmaker, on large-scale production with nominated orders for multiple models.",
@@ -1098,111 +1195,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-03-the-baidu-stock-rally-looks-set-to-continue.md",
-      "title": "The Baidu Stock Rally Looks Set To Continue",
-      "excerpt": "Chinese search engine behemoth Baidu’s stock (NASDAQ: BIDU) has witnessed a solid rally over the last month (about 21 trading days), gaining roughly 33%, compared to the broader S&P 500 which was up about 7% over the same period.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/greatspeculations/2023/02/03/the-baidu-stock-rally-looks-set-to-continue/",
-      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2023/02/03/the-baidu-stock-rally-looks-set-to-continue/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63dc9d6061b2c7b1499afec2/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2023/02/03/the-baidu-stock-rally-looks-set-to-continue/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2023/02/03/the-baidu-stock-rally-looks-set-to-continue/amp/",
-      "publishedDateTime": "2023-02-03T02:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-03-self-driving-bus-market-size-sales-cagr-and-competition-data-from-2023-to-2028.md",
-      "title": "Self-driving Bus Market Size, Sales, CAGR And Competition Data from 2023 To 2028",
-      "excerpt": "Self-driving Bus Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022, at unexpected",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/self-driving-bus-market-size-sales-cagr-and-competition-data-from-2023-to-2028-2023-02-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-bus-market-size-sales-cagr-and-competition-data-from-2023-to-2028-2023-02-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-03T00:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

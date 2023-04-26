@@ -2,6 +2,631 @@
   "page": 107,
   "value": [
     {
+      "path": "_news/2023-01-27-artificial-intelligence-out-buzzes-the-blockchain.md",
+      "title": "Artificial intelligence out-buzzes the blockchain",
+      "excerpt": "The blockchain is so last year. The newest craze to excite investors is artificial intelligence. BuzzFeed is case in point. Shares in the digital publisher more than doubled on Thursday after the Wall Street Journal reported that the company run by Jonah Peretti is going to use OpenAI,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/breakingviews/artificial-intelligence-out-buzzes-blockchain-2023-01-27/",
+      "originalUrl": "https://www.reuters.com/breakingviews/artificial-intelligence-out-buzzes-blockchain-2023-01-27/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/DeYdHV7CD7lkZZ7mfk-skDgg4Fk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RDOIHOEZWJIDVB77W3JQZTWN6A.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-27T06:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-27-consumer-robotics-how-artificial-intelligence-is-changing-the-game.md",
+      "title": "Consumer Robotics: How Artificial Intelligence Is Changing The Game",
+      "excerpt": "From vacuum cleaners and lawnmowers to personal assistants and healthcare workers, robots are increasingly becoming a common sight in homes and businesses worldwide.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/27/consumer-robotics-how-artificial-intelligence-is-changing-the-game/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/27/consumer-robotics-how-artificial-intelligence-is-changing-the-game/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63d2872a3e9e3b86964c5506/0x0.jpg?format=jpg&width=1200",
+          "width": 1123,
+          "height": 748,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/27/consumer-robotics-how-artificial-intelligence-is-changing-the-game/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/01/27/consumer-robotics-how-artificial-intelligence-is-changing-the-game/amp/",
+      "publishedDateTime": "2023-01-27T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-01-27-workers-want-more-ai-to-get-rid-of-their-office-busywork-says-microsoft-survey.md",
+      "title": "Workers want more AI to get rid of their office busywork, says Microsoft survey",
+      "excerpt": "As AI assistants such as ChatGPT continue to cause a sensation, a survey by Microsoft of over 3,000 people has found that the vast majority of workers want more help from artificial intelligence to automate mundane daily tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/home-and-office/work-life/workers-want-more-ai-to-get-rid-of-their-office-busywork-says-microsoft-survey/",
+      "originalUrl": "https://www.zdnet.com/home-and-office/work-life/workers-want-more-ai-to-get-rid-of-their-office-busywork-says-microsoft-survey/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 180,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/137375a87a2b79fdafa822be1cc1af3467954667/2023/01/27/b4df6d49-a210-46a0-b638-3ae9128247ce/officework.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/home-and-office/work-life/workers-want-more-ai-to-get-rid-of-their-office-busywork-says-microsoft-survey/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/home-and-office/work-life/workers-want-more-ai-to-get-rid-of-their-office-busywork-says-microsoft-survey/",
+      "publishedDateTime": "2023-01-27T05:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-27-buzzfeed-and-ai-are-a-match-made-in-fad-city.md",
+      "title": "BuzzFeed and AI Are a Match Made in Fad City",
+      "excerpt": "Shares of struggling digital-media company BuzzFeed Inc. soared as much as 200% on Thursday after saying “AI inspired content” will become “part of our core business” this year. It apparently mattered little to investors that the type of content BuzzFeed has in mind includes its signature quizzes (“Try to Identify 8/8 of these Famous Rodents If You Can” or “If You Paid Attention In Third Grade,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/opinion/articles/2023-01-27/buzzfeed-bzfd-and-ai-are-a-match-made-in-fad-city",
+      "originalUrl": "https://www.bloomberg.com/opinion/articles/2023-01-27/buzzfeed-bzfd-and-ai-are-a-match-made-in-fad-city",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i2p2.K7DK4Ao/v1/1200x801.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-27T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-27-artificial-intelligence-in-south-africa-comes-with-special-dilemmas-plus-the-usual-risks.md",
+      "title": "Artificial intelligence in South Africa comes with special dilemmas – plus the usual risks",
+      "excerpt": "Artificial Intelligence comes with a litany of ethical risks and dilemmas. Some are universal, but some are unique to particular countries, like South Africa.",
+      "sourceUrl": null,
+      "webUrl": "https://www.modernghana.com/news/1208405/artificial-intelligence-in-south-africa-comes-with.html",
+      "originalUrl": "https://www.modernghana.com/news/1208405/artificial-intelligence-in-south-africa-comes-with.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.modernghana.com/images/content/1272023123738-0g730m4yxs-file-20230106-13-750vf8.jpg",
+          "width": 800,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.modernghana.com/amp/news/1208405/artificial-intelligence-in-south-africa-comes-with.html",
+      "cdnAmpWebUrl": "https://www-modernghana-com.cdn.ampproject.org/c/s/www.modernghana.com/amp/news/1208405/artificial-intelligence-in-south-africa-comes-with.html",
+      "publishedDateTime": "2023-01-27T03:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "modernghana.com",
+        "domain": "modernghana.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-27-james-dolan-defends-facial-recognition-use-to-ban-legal-foes-from-venues.md",
+      "title": "James Dolan defends facial recognition use to ban legal foes from venues",
+      "excerpt": "James Dolan, executive chairman and CEO of Madison Square Garden, defended his use of facial recognition technology to keep attorneys involved in lawsuits against MSG Entertainment out of its venues.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxbusiness.com/sports/james-dolan-defends-facial-recognition-use-ban-legal-foes-venues",
+      "originalUrl": "https://www.foxbusiness.com/sports/james-dolan-defends-facial-recognition-use-ban-legal-foes-venues",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2023/01/GettyImages-1368431178-copy.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxbusiness.com/sports/james-dolan-defends-facial-recognition-use-ban-legal-foes-venues.amp",
+      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/sports/james-dolan-defends-facial-recognition-use-ban-legal-foes-venues.amp",
+      "publishedDateTime": "2023-01-27T03:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox Business",
+        "domain": "foxbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-27-talking-ai-ceo-arvind-khrisna-on-ibms-monetization-strategy.md",
+      "title": "Talking AI - CEO Arvind Khrisna on IBM's monetization strategy",
+      "excerpt": "In his view, there have been three moments that matter in the past decade in terms of AI emerging to have business potential and impact: One, when IBM won Jeopardy! with Watson, I think it was a big moment, and AI came onto everyone's roadmap.",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/talking-ai-ceo-arvind-khrisna-ibms-monetization-strategy",
+      "originalUrl": "https://diginomica.com/talking-ai-ceo-arvind-khrisna-ibms-monetization-strategy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2022-01/Screenshot%202022-01-25%20at%2011.06.30.png",
+          "width": 1192,
+          "height": 876,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/talking-ai-ceo-arvind-khrisna-ibms-monetization-strategy?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/talking-ai-ceo-arvind-khrisna-ibms-monetization-strategy?amp",
+      "publishedDateTime": "2023-01-27T03:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-27-5-ways-ml-and-sme-collaboration-can-accelerate-innovation.md",
+      "title": "5 Ways ML And SME Collaboration Can Accelerate Innovation",
+      "excerpt": "In this article, I will lay out five ways in which partnerships between data scientists and subject matter experts (SMEs) can accelerate innovation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/01/27/5-ways-ml-and-sme-collaboration-can-accelerate-innovation/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/01/27/5-ways-ml-and-sme-collaboration-can-accelerate-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5ffe0a25c386c343ec2b0a9b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 871,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/01/27/5-ways-ml-and-sme-collaboration-can-accelerate-innovation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/01/27/5-ways-ml-and-sme-collaboration-can-accelerate-innovation/amp/",
+      "publishedDateTime": "2023-01-27T03:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-01-27-4-ways-fintech-changed-business-financing.md",
+      "title": "4 Ways Fintech Changed Business Financing",
+      "excerpt": "Fintech’s influence will continue to ripple in the finance world as technology advances, but here are four key impacts our industry has had so far.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/01/27/4-ways-fintech-changed-business-financing/",
+      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/01/27/4-ways-fintech-changed-business-financing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6170329671bdc8c063550907/0x0.jpg?format=jpg&width=1200",
+          "width": 1050,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/01/27/4-ways-fintech-changed-business-financing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2023/01/27/4-ways-fintech-changed-business-financing/amp/",
+      "publishedDateTime": "2023-01-27T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-27-robot-lawyer-pulled-from-first-court-case-over-jail-time-threats.md",
+      "title": "“Robot lawyer” pulled from first court case over jail time threats",
+      "excerpt": "CEO of the New York-based startup DoNotPay, Joshua Browder ... being threatened with possible prosecution and jail time. The “robot lawyer” technology relies on a few prominent AI text generators — such as ChatGPT and DaVinci — to dictate responses ...",
+      "sourceUrl": null,
+      "webUrl": "https://mybroadband.co.za/news/software/478011-robot-lawyer-pulled-from-first-court-case-over-jail-time-threats.html",
+      "originalUrl": "https://mybroadband.co.za/news/software/478011-robot-lawyer-pulled-from-first-court-case-over-jail-time-threats.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mybroadband.co.za/news/software/478011-robot-lawyer-pulled-from-first-court-case-over-jail-time-threats.html/amp",
+      "cdnAmpWebUrl": "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/software/478011-robot-lawyer-pulled-from-first-court-case-over-jail-time-threats.html/amp",
+      "publishedDateTime": "2023-01-27T02:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MyBroadband",
+        "domain": "mybroadband.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-27-all-in-on-ai-how-smart-companies-win-big-with-artificial-intelligence.md",
+      "title": "All In On AI: How Smart Companies Win Big With Artificial Intelligence",
+      "excerpt": "AI has been hitting the headlines recently, with generative AI, in particular, generating a great deal of interest. Two tools - the large language model chatbot ChatGPT and image generator Dall-E - have caused a big stir since launching as public betas in recent months.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/01/27/all-in-on-ai-how-smart-companies-win-big-with-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/01/27/all-in-on-ai-how-smart-companies-win-big-with-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63d37f2aff185a2577a89c49/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 797,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/01/27/all-in-on-ai-how-smart-companies-win-big-with-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/01/27/all-in-on-ai-how-smart-companies-win-big-with-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-01-26T22:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-01-27-deci-claims-breakthrough-inference-performance-on-intel-sapphire-rapids.md",
+      "title": "Deci claims breakthrough inference performance on Intel Sapphire Rapids",
+      "excerpt": "Israeli startup Deci claims to have achieved breakthrough performance in running computer vision and natural language processing (NLP) models on Intel’s latest Xeon processor. Delivering GPU-like AI inference performance, the breakthrough was ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/news/252529647/Deci-claims-breakthrough-inference-performance-on-Intel-Sapphire-Rapids",
+      "originalUrl": "https://www.computerweekly.com/news/252529647/Deci-claims-breakthrough-inference-performance-on-Intel-Sapphire-Rapids",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.computerweekly.com/rms/onlineimages/ai_a264431831.jpg",
+          "width": 1200,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerweekly.com/news/252529647/Deci-claims-breakthrough-inference-performance-on-Intel-Sapphire-Rapids?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252529647/Deci-claims-breakthrough-inference-performance-on-Intel-Sapphire-Rapids?amp=1",
+      "publishedDateTime": "2023-01-26T22:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2023-01-27-sean-hannity-biden-is-mired-in-scandal-and-plagued-by-his-cognitive-decline.md",
+      "title": "SEAN HANNITY: Biden is mired in scandal and plagued by his cognitive decline",
+      "excerpt": "Fox News host Sean Hannity questioned whether President Biden fully comprehends and understands what exactly is going on ahead of debt ceiling negotiations in Thursday's opening monologue.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/sean-hannity-biden-scandal-plagued-cognitive-decline",
+      "originalUrl": "https://www.foxnews.com/media/sean-hannity-biden-scandal-plagued-cognitive-decline",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/afde1ac8-9e3b-404f-a5d4-35a9c8462b23/aeaad84c-8eda-4683-b05d-e3fe0dd7ce9c/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/sean-hannity-biden-scandal-plagued-cognitive-decline.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/sean-hannity-biden-scandal-plagued-cognitive-decline.amp",
+      "publishedDateTime": "2023-01-26T22:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-27-ut-will-launch-online-masters-program-in-artificial-intelligence.md",
       "title": "UT will launch online master’s program in artificial intelligence",
       "excerpt": "AUSTIN (KXAN) — For the first time ever, people may be able to pursue a master’s degree in artificial intelligence online at the University of Texas at Austin. The university shared in a news ...",
@@ -535,640 +1160,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-27-both-pros-and-cons-emerge-as-artificial-intelligence-technology-ai-advances-quickly.md",
-      "title": "Both pros and cons emerge as artificial intelligence technology, AI, advances quickly",
-      "excerpt": "Its name is FRIDA and it's a robot using artificial intelligence technology to generate portrait paintings from photographs. Usually, they are of colleagues of its developers, Jean Oh and Peter ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/pittsburgh/news/artificial-intelligence-technology-ai-pros-cons-carnegie-mellon-university/",
-      "originalUrl": "https://www.cbsnews.com/pittsburgh/news/artificial-intelligence-technology-ai-pros-cons-carnegie-mellon-university/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/01/26/a4c2df77-e3cf-4c8a-948f-91ac6db82f2f/thumbnail/1200x630/67e8bede1b2b8381d16dbda08f9c9cd7/gettyimages-1246453874-1.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/pittsburgh/news/artificial-intelligence-technology-ai-pros-cons-carnegie-mellon-university/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/pittsburgh/news/artificial-intelligence-technology-ai-pros-cons-carnegie-mellon-university/",
-      "publishedDateTime": "2023-01-26T11:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-26-best-egg-achieved-three-times-faster-ml-model-training-with-amazon-sagemaker-automatic-model-tuning.md",
-      "title": "Best Egg achieved three times faster ML model training with Amazon SageMaker Automatic Model Tuning",
-      "excerpt": "This post is co-authored by Tristan Miller from Best Egg. Best Egg is a leading financial confidence platform that provides lending products and resources focused on helping people feel more confident as they manage their everyday finances. Since March 2014, Best Egg has delivered $22 billion in consumer",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/best-egg-achieved-three-times-faster-ml-model-training-with-amazon-sagemaker-automatic-model-tuning/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/best-egg-achieved-three-times-faster-ml-model-training-with-amazon-sagemaker-automatic-model-tuning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/01/26/best-egg-sagemaker.jpg",
-          "width": 1567,
-          "height": 789,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-26T09:45:36-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-01-27-european-banks-struggle-with-ai-while-us-banks-lead-the-field-according-to-a-new-index.md",
-      "title": "European banks struggle with AI, while US banks lead the field, according to a new index",
-      "excerpt": "“As the real-world application of AI accelerates at astonishing speed ... Over a call she added: “Setting our methodology onto the banks felt like the right place to start because this is a sector that has been really focused on this for a number ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/01/26/european-banks-ai/",
-      "originalUrl": "https://techcrunch.com/2023/01/26/european-banks-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/01/EVIDENT_INSIGHTS_COL_HR-1-1.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/01/26/european-banks-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/01/26/european-banks-ai/amp/",
-      "publishedDateTime": "2023-01-26T09:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-27-deep-learning-reconstruction-enables-accelerated-knee-mri.md",
-      "title": "Deep Learning Reconstruction Enables Accelerated Knee MRI",
-      "excerpt": "THURSDAY, Jan. 26, 2023 (HealthDay News) -- Deep learning (DL) reconstructed knee magnetic resonance imaging (MRI) is diagnostically equivalent to conventional accelerated MRI for evaluating ...",
-      "sourceUrl": null,
-      "webUrl": "https://buffalonews.com/lifestyles/health-med-fit/deep-learning-reconstruction-enables-accelerated-knee-mri/article_1bad850c-7055-56d2-9513-94daf9dc4fd7.html",
-      "originalUrl": "https://buffalonews.com/lifestyles/health-med-fit/deep-learning-reconstruction-enables-accelerated-knee-mri/article_1bad850c-7055-56d2-9513-94daf9dc4fd7.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-26T09:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Buffalo News",
-        "domain": "buffalonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-27-new-artificial-intelligence-program-may-speed-development-of-gene-therapy.md",
-      "title": "New artificial intelligence program may speed development of gene therapy",
-      "excerpt": "RELATED Gene therapy may help children born with 'bubble boy' disease To address this, researchers came up with ZFDesign, an artificial intelligence that uses a database of nearly 50 billion ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Science_News/2023/01/26/artificial-intelligence-improve-gene-therapy/3961674750373/",
-      "originalUrl": "https://www.upi.com/Science_News/2023/01/26/artificial-intelligence-improve-gene-therapy/3961674750373/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/upi_com/3961674750373/2023/1/9e2e53d727c8ce5cb398145eebcff87c/v1.5/New-artificial-intelligence-program-may-speed-development-of-gene-therapy.jpg",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Science_News/2023/01/26/artificial-intelligence-improve-gene-therapy/3961674750373/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2023/01/26/artificial-intelligence-improve-gene-therapy/3961674750373/",
-      "publishedDateTime": "2023-01-26T09:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-01-27-accelerating-ai-for-growth-the-key-role-of-infrastructure.md",
-      "title": "Accelerating AI for growth: The key role of infrastructure",
-      "excerpt": "High-performance AI infrastructure offers CIOs and enterprises a way to cost-effectively manage and accelerate growth of production AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/accelerating-ai-for-growth-the-key-role-of-infrastructure/",
-      "originalUrl": "https://venturebeat.com/ai/accelerating-ai-for-growth-the-key-role-of-infrastructure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/01/9-Sponsored-How-infrastructure-helps-CIOs-unify-enterprise-AI-GREEN-e1674659119985.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/accelerating-ai-for-growth-the-key-role-of-infrastructure/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/accelerating-ai-for-growth-the-key-role-of-infrastructure/amp/",
-      "publishedDateTime": "2023-01-26T08:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-01-27-james-dolan-defends-facial-recognition-policy-against-lawyers-who-are-suing-msg-please-dont-come.md",
-      "title": "James Dolan defends facial recognition policy against lawyers who are suing MSG: ‘Please don’t come’",
-      "excerpt": "Several attorneys say they have been denied entry into MSG-owned venues because their firm is in active litigation against the company.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/james-dolan-defends-facial-recognition-policy-against-lawyers-who-are-suing-msg-please-dont-come-11674755769",
-      "originalUrl": "https://www.marketwatch.com/story/james-dolan-defends-facial-recognition-policy-against-lawyers-who-are-suing-msg-please-dont-come-11674755769",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 209,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-710774/horizontal",
-          "width": 1320,
-          "height": 742,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/james-dolan-defends-facial-recognition-policy-against-lawyers-who-are-suing-msg-please-dont-come-11674755769",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/james-dolan-defends-facial-recognition-policy-against-lawyers-who-are-suing-msg-please-dont-come-11674755769",
-      "publishedDateTime": "2023-01-26T08:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-27-mass-congressman-reads-ai-generated-speech-on-house-floor.md",
-      "title": "Mass. Congressman Reads AI-Generated Speech On House Floor",
-      "excerpt": "When U.S. Rep. Jake Auchincloss decided to deliver a speech on a bill that would create a U.S.-Israel artificial intelligence center, he opted to let the AI do the talking.",
-      "sourceUrl": null,
-      "webUrl": "https://www.huffpost.com/entry/rep-jake-auchincloss-ai-speech-congress_n_63d2aacae4b01e9288694809",
-      "originalUrl": "https://www.huffpost.com/entry/rep-jake-auchincloss-ai-speech-congress_n_63d2aacae4b01e9288694809",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.huffingtonpost.com/asset/63d2ac101e00006d003fc771.jpeg?cache=CaZG5GUiSl&ops=1200_630",
-          "width": 1200,
-          "height": 629,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.huffpost.com/entry/rep-jake-auchincloss-ai-speech-congress_n_63d2aacae4b01e9288694809/amp",
-      "cdnAmpWebUrl": "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/rep-jake-auchincloss-ai-speech-congress_n_63d2aacae4b01e9288694809/amp",
-      "publishedDateTime": "2023-01-26T08:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HuffPost",
-        "domain": "huffpost.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/huffpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-27-co-lawmakers-look-into-artificial-intelligence-to-identify-wildfires-early.md",
-      "title": "CO lawmakers look into artificial intelligence to identify wildfires early",
-      "excerpt": "A bill was introduced in the Colorado legislature and is proposing a $2 million pilot program that may use artificial intelligence to detect wildfire early.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/co-lawmakers-look-artificial-intelligence-identify-wildfires-early",
-      "originalUrl": "https://www.foxnews.com/politics/co-lawmakers-look-artificial-intelligence-identify-wildfires-early",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/daa64398-7c35-4780-9515-f943a69ee32a/e774c2ef-5e3a-448c-9489-b441bf0cf811/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/co-lawmakers-look-artificial-intelligence-identify-wildfires-early.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/co-lawmakers-look-artificial-intelligence-identify-wildfires-early.amp",
-      "publishedDateTime": "2023-01-26T08:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-01-27-nist-releases-new-ai-risk-management-framework-for-trustworthy-ai.md",
-      "title": "NIST releases new AI risk management framework for ‘trustworthy’ AI",
-      "excerpt": "Today the National Institute of Standards and Technology (NIST) released the first version of its new AI Risk Management Framework.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/nist-releases-new-ai-risk-management-framework-for-trustworthy-ai/",
-      "originalUrl": "https://venturebeat.com/ai/nist-releases-new-ai-risk-management-framework-for-trustworthy-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/01/Untitled-design-12.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/nist-releases-new-ai-risk-management-framework-for-trustworthy-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nist-releases-new-ai-risk-management-framework-for-trustworthy-ai/amp/",
-      "publishedDateTime": "2023-01-26T08:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-26-ai-machine-learning-robotics-will-improve-supply-chains-amid-ongoing-disruptions-in-2023.md",
-      "title": "AI, Machine Learning, Robotics Will Improve Supply Chains Amid Ongoing Disruptions in 2023",
-      "excerpt": "War, raw materials shortages, rising energy costs and extreme weather conditions are just some of the factors that will disrupt global supply chains in 2023, warns the non-profit organisation that aims to elevate,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itnewsafrica.com/2023/01/ai-machine-learning-robotics-will-improve-supply-chains-amid-ongoing-disruptions-in-2023/",
-      "originalUrl": "https://www.itnewsafrica.com/2023/01/ai-machine-learning-robotics-will-improve-supply-chains-amid-ongoing-disruptions-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.itnewsafrica.com/wp-content/uploads/2021/06/Artificial-Intelligence-AI-2-696x452.jpg",
-          "width": 696,
-          "height": 452,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-26T07:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT News Africa",
-        "domain": "itnewsafrica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-01-26-university-of-texas-edx-team-up-to-offer-new-online-ms-in-artificial-intelligence.md",
-      "title": "University Of Texas, EdX Team Up To Offer New Online MS In Artificial Intelligence",
-      "excerpt": "The University of Texas at Austin is partnering with edX, a leading online learning platform founded by Harvard and MIT a decade ago, to offer a low-cost, online Master of Science degree in Artificial Intelligence (MSAI).",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/michaeltnietzel/2023/01/26/university-of-texas-edx-team-up-to-offer-new-online-ms-in-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/michaeltnietzel/2023/01/26/university-of-texas-edx-team-up-to-offer-new-online-ms-in-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/616fead4f21964288cb397dd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 696,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/michaeltnietzel/2023/01/26/university-of-texas-edx-team-up-to-offer-new-online-ms-in-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaeltnietzel/2023/01/26/university-of-texas-edx-team-up-to-offer-new-online-ms-in-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-01-26T07:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-01-26-chatgpt-leads-lawmakers-to-call-for-regulating-artificial-intelligence.md",
-      "title": "ChatGPT leads lawmakers to call for regulating artificial intelligence",
-      "excerpt": "The rise of the chatbot ChatGPT, with its ability to generate informed, sophisticated text, is leading lawmakers to push for government intervention in the realm of artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/chatgpt-leads-lawmakers-call-regulating-artificial-intelligence",
-      "originalUrl": "https://www.foxnews.com/politics/chatgpt-leads-lawmakers-call-regulating-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 531,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/chatgpt-leads-lawmakers-call-regulating-artificial-intelligence.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chatgpt-leads-lawmakers-call-regulating-artificial-intelligence.amp",
-      "publishedDateTime": "2023-01-26T06:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

@@ -34,6 +34,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "AI Is Coming for Wealth Management. Here’s What That Means"
+    excerpt: "AI will allow the client to access an incredible amount of information and ask questions in a language that the client is comfortable with and receive answers. For practitioners, the limitation it will have will be in researching what is happening today with that company,"
+    publishedDateTime: 2023-04-24T13:33:00Z
+    webUrl: "https://www.wealthmanagement.com/technology/ai-coming-wealth-management-here-s-what-means"
+    type: article
+    provider:
+      name: WealthManagement.com
+      domain: wealthmanagement.com
+    quality: 39
+    images:
+      - url: "https://www.wealthmanagement.com/sites/wealthmanagement.com/files/uploads/2016/02/robot-businessmen.jpg"
+        width: 770
+        height: 400
+        isCached: true
 
 secured: "qt/47nDToID+RJPGzeaH8LhVPhCOBUIn0NegUDQZ0X7IM4vdBjgnSckmPYOxcCzquI2qJc9kn5RMGvo0JxVCki0yvolw/TZwFelpCIkoaQFGAaBwhXMbH1iyrk4Osh9ij3hRk56VjDT9QB1Px6g1HyDsUDXioEZzC/jU6oPlLgCFK9kcHMCzl0p1bo5MK2PgCaJ1CasXb4o6zTZPg1eMBTXWBJHZmsagW+Za15syyEDu0ZYuVxtf//8gkPdxS6ly1+4hguKXp5+ONsGxJV3F2u6CJLhEnFtu3jOyxbX0ihH3dUomMaLrJXcIKVvtTkTff+r+evQqhYF5VkTK073FfC9A24kIv0uzhlHIyK3ajdc=;aonhYcXqqJn718vUZ+9oTg=="
 ---

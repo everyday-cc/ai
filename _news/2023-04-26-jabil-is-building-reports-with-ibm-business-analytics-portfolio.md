@@ -1,0 +1,52 @@
+---
+category: news
+title: "Jabil is building reports with IBM Business Analytics Portfolio"
+excerpt: "Learn how global supply chain expert Jabil is turning reporting change into business success with the IBM Business Analytics portfolio.\nThe post Jabil is building reports with IBM Business Analytics Portfolio appeared first on IBM Blog.\n"
+publishedDateTime: 2023-04-26T12:00:00Z
+originalUrl: "https://www.ibm.com/blog/jabil-is-building-reports-with-ibm-business-analytics-portfolio/"
+webUrl: "https://www.ibm.com/blog/jabil-is-building-reports-with-ibm-business-analytics-portfolio/"
+type: article
+quality: 102
+heat: 122
+published: true
+
+provider:
+  name: IBM
+  domain: ibm.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - IBM AI
+
+images:
+  - url: "https://www.ibm.com/blog/wp-content/uploads/2023/04/20220512_CaitOppermann_WorkingWorld_LA_473_02.l-e1682351784695.jpg"
+    width: 1200
+    height: 600
+    isCached: true
+
+related:
+  - title: "3 Ways Payers Can Employ Machine Learning, Advanced Analytics"
+    excerpt: "MVP Health Care (MVP) has been piloting machine learning and advanced analytics solutions and, in the process, explored three key uses for these types of tools. Machine learning falls under the umbrella of artificial intelligence tools."
+    publishedDateTime: 2023-04-25T13:30:00Z
+    webUrl: "https://healthpayerintelligence.com/features/3-ways-payers-can-employ-machine-learning-advanced-analytics"
+    type: article
+    provider:
+      name: healthpayerintelligence.com
+      domain: healthpayerintelligence.com
+    quality: 19
+  - title: "Grid Dynamics AWS Analytics Platform Starter Kit Leveraged by Client, Mistplay, to Improve Business Operations"
+    excerpt: "Grid Dynamics Holdings, Inc. (NASDAQ:GDYN) (Grid Dynamics), a leader in enterprise-level digital transformation services and solutions, announced today that its client, Mistplay, the leading loyalty"
+    publishedDateTime: 2023-04-25T12:45:00Z
+    webUrl: "https://www.asiaone.com/business/grid-dynamics-aws-analytics-platform-starter-kit-leveraged-client-mistplay-improve"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 0
+
+secured: "GCWhqLUVGUDLI4RrCjgcR1g85oKSo23FinFTdGuW1KTskiWwLCNk85smqdgyswFRICacTmkeWCL+JbzWjvI0AuHizo3uJpPsQ+Q/Ril0XjZc9bLT6VtSRT/opOb989BwB8aFnSqToaoGBSOpTfdW3s/NDwWor9GZ/SbqV1qQjYahSPL8KQs9d8CUyF4cxgjAuFvJLlHCtKxKOfPLuFR5EnF0Qs86OkADfEib9rsylcOUtUFG13GKGtHwyHQATilpg6wuhBA5vKxhlCoxTRlMwXm/hWU5rr0bu9l0Gn5JZFBg2A4yxGrVPqX+d3mxil6el4epoPlRrBOL85lzdbj55pvAEwGNbbxU7m3B2RKanyU=;PZHO1C7hbbFuvEeeRS1jDQ=="
+---
+

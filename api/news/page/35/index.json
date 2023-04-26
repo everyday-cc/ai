@@ -2,6 +2,623 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2023-03-23-a-tough-stock-not-to-own-wall-street-endorses-club-name-nvidia-as-it-dominates-ai.md",
+      "title": "'A tough stock not to own.' Wall Street endorses Club name Nvidia, as it dominates AI",
+      "excerpt": "\"Generative AI is marking an inflection point for AI and we continue ... Nvidia (NVDA) has demonstrated this week that both its chips and budding software offerings are integral to the future of artificial intelligence, bolstering the Club case in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/03/22/a-tough-stock-not-to-own-wall-street-endorses-club-holding-nvidia.html",
+      "originalUrl": "https://www.cnbc.com/2023/03/22/a-tough-stock-not-to-own-wall-street-endorses-club-holding-nvidia.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107198977-1677173650792-huang.jpg?v=1679516659&w=1920&h=1080",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-22T13:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-23-texas-lawmaker-uses-chatgpt-to-deliver-remarks-on-ai-bill.md",
+      "title": "Texas lawmaker uses ChatGPT to deliver remarks on AI bill",
+      "excerpt": "That’s why we need HB 2060.” He said the council created by this proposal would monitor use of AI by state agencies, examine the need for a code of ethics for AI systems and recommend policies to protect Texans’ privacy. “House Bill 2060 is a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kxan.com/news/texas-politics/texas-lawmaker-uses-chatgpt-to-deliver-remarks-on-ai-bill/",
+      "originalUrl": "https://www.kxan.com/news/texas-politics/texas-lawmaker-uses-chatgpt-to-deliver-remarks-on-ai-bill/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.kxan.com/wp-content/uploads/sites/40/2023/02/f5ae2bc0547d4821b9400e9a506a4250.jpg?w=1280",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kxan.com/news/texas-politics/texas-lawmaker-uses-chatgpt-to-deliver-remarks-on-ai-bill/amp/",
+      "cdnAmpWebUrl": "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/news/texas-politics/texas-lawmaker-uses-chatgpt-to-deliver-remarks-on-ai-bill/amp/",
+      "publishedDateTime": "2023-03-22T13:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KXAN",
+        "domain": "kxan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-23-best-samsung-robot-vacuum-deals-during-the-discover-samsung-sale.md",
+      "title": "Best Samsung robot vacuum deals during the Discover Samsung sale",
+      "excerpt": "The Samsung Jet Bot AI+ robot vacuum has a bunch of cool features, including 30 watts of adjustable suction, 3D object recognition with AI and powerful LiDAR navigation. This robot vacuum can recognize what objects to avoid, so you won't have to deal with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/essentials/best-samsung-robot-vacuum-deals-for-spring-cleaning-2023-03-22/",
+      "originalUrl": "https://www.cbsnews.com/essentials/best-samsung-robot-vacuum-deals-for-spring-cleaning-2023-03-22/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/02/28/0d05e20f-fb26-434c-aee7-89cfc48406cf/thumbnail/1200x630/6ddd630ffc4d4d5d252c08853935328d/samsung-jet-bot-header.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/best-samsung-robot-vacuum-deals-for-spring-cleaning-2023-03-22/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-samsung-robot-vacuum-deals-for-spring-cleaning-2023-03-22/",
+      "publishedDateTime": "2023-03-22T13:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-03-23-mindfulness-based-cognitive-therapy-outperforms-standard-cbt-in-self-help-trial.md",
+      "title": "Mindfulness-Based Cognitive Therapy Outperforms Standard CBT in Self-Help Trial",
+      "excerpt": "Opens in a new tab or window Practitioner-supported mindfulness-based cognitive therapy (MBCT ... from depression while costing health services less money,\" they concluded.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medpagetoday.com/psychiatry/depression/103655",
+      "originalUrl": "https://www.medpagetoday.com/psychiatry/depression/103655",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.medpagetoday.net/media/images/103xxx/103655.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-22T11:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MedPage Today",
+        "domain": "medpagetoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-03-23-working-with-ai-robots-could-worsen-human-work-cultures.md",
+      "title": "Working with AI robots could worsen human work cultures",
+      "excerpt": "It’s said that as work becomes increasingly automated by Artificial Intelligence (AI), our special human traits ... Will we start expecting our human colleagues to be similarly pliant? A robot is not a person—even if its apologies sound genuinely ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/opinion/columns/working-with-ai-robots-could-worsen-human-work-cultures-11679507470823.html",
+      "originalUrl": "https://www.livemint.com/opinion/columns/working-with-ai-robots-could-worsen-human-work-cultures-11679507470823.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2018/12/28/600x338/Opinion_1545994499293.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/opinion/columns/working-with-ai-robots-could-worsen-human-work-cultures/amp-11679507470823.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/working-with-ai-robots-could-worsen-human-work-cultures/amp-11679507470823.html",
+      "publishedDateTime": "2023-03-22T10:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-23-speech-ai-supercomputing-in-the-cloud-and-gpus-for-llms-and-generative-ai-among-nvidias-next-big-moves.md",
+      "title": "Speech AI, supercomputing in the cloud, and GPUs for LLMs and generative AI among Nvidia’s next big moves",
+      "excerpt": "In this regard, the company unveiled NeMo and DGX Cloud on the software side, and Hopper GPU on the hardware one. NeMo, part of the Nvidia AI Foundations cloud services, creates AI-driven language and speech models. DGX Cloud is an infrastructure platform ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/speech-ai-supercomputing-cloud-gpus-llms-generative-ai-nvidia-next-big-moves/",
+      "originalUrl": "https://venturebeat.com/ai/speech-ai-supercomputing-cloud-gpus-llms-generative-ai-nvidia-next-big-moves/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/07/conversation.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 850,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/speech-ai-supercomputing-cloud-gpus-llms-generative-ai-nvidia-next-big-moves/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/speech-ai-supercomputing-cloud-gpus-llms-generative-ai-nvidia-next-big-moves/amp/",
+      "publishedDateTime": "2023-03-22T10:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-03-23-supermicro-expands-gpu-solutions-portfolio-with-deskside-liquid-cooled-ai-development-platform-powered-by-nvidia.md",
+      "title": "Supermicro Expands GPU Solutions Portfolio with Deskside Liquid-Cooled AI Development Platform, Powered by NVIDIA",
+      "excerpt": "(NASDAQ: SMCI), a Total IT Solution Provider for Cloud, AI/ML, Storage, and 5G/Edge, is announcing the first in a line of powerful yet quiet and power-efficient NVIDIA-accelerated AI Development platforms which gives information professionals and developers the most powerful technology available today at their deskside.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-supermicro-expands-gpu-solutions-portfolio-with-deskside-liquid-/2023/03/22/9781497.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-supermicro-expands-gpu-solutions-portfolio-with-deskside-liquid-/2023/03/22/9781497.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1443241/Supermicro_Logo.jpg",
+          "width": 400,
+          "height": 206,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-22T10:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-23-nvidia-ceo-says-ai-can-overcome-the-death-of-moores-law.md",
+      "title": "Nvidia CEO Says AI Can Overcome the Death of Moore’s Law",
+      "excerpt": "Moore said “the number of transistors incorporated in a chip will approximately double every 24 months,” offering performance and cost benefits over time. Huang also explained that the AI industry has already gone through several stages of development.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/nvidia-ceo-ai-chips-moores-law-2fc9a763",
+      "originalUrl": "https://www.barrons.com/articles/nvidia-ceo-ai-chips-moores-law-2fc9a763",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-748583/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/nvidia-ceo-ai-chips-moores-law-2fc9a763",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-ceo-ai-chips-moores-law-2fc9a763",
+      "publishedDateTime": "2023-03-22T10:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-23-ethical-ai-art-generation-adobe-firefly-may-be-the-answer.md",
+      "title": "Ethical AI art generation? Adobe Firefly may be the answer",
+      "excerpt": "Since the mainstream debut of image synthesis models last year, the field has been fraught with issues around ethics and copyright. For example, the AI art generator called Stable Diffusion gained its ability to generate images from text descriptions after ...",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/03/ethical-ai-art-generation-adobe-firefly-may-be-the-answer/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/03/ethical-ai-art-generation-adobe-firefly-may-be-the-answer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/adobe_firefly_hero-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/03/ethical-ai-art-generation-adobe-firefly-may-be-the-answer/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/03/ethical-ai-art-generation-adobe-firefly-may-be-the-answer/amp/",
+      "publishedDateTime": "2023-03-22T10:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-22-automate-amazon-rekognition-custom-labels-model-training-and-deployment-using-aws-step-functions.md",
+      "title": "Automate Amazon Rekognition Custom Labels model training and deployment using AWS Step Functions",
+      "excerpt": "With Amazon Rekognition Custom Labels, you can have Amazon Rekognition train a custom model for object detection or image classification specific to your business needs. For example, Rekognition Custom Labels can find your logo in social media posts, identify your products on store shelves, classify",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automate-amazon-rekognition-custom-labels-model-training-and-deployment-using-aws-step-functions/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automate-amazon-rekognition-custom-labels-model-training-and-deployment-using-aws-step-functions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/03/22/automate-rekognition-custom-labels-step-functions.jpg",
+          "width": 1149,
+          "height": 577,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-22T09:45:36-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2023-03-22-build-a-machine-learning-model-to-predict-student-performance-using-amazon-sagemaker-canvas.md",
+      "title": "Build a machine learning model to predict student performance using Amazon SageMaker Canvas",
+      "excerpt": "There has been a paradigm change in the mindshare of education customers who are now willing to explore new technologies and analytics. Universities and other higher learning institutions have collected massive amounts of data over the years, and now they are exploring options to use that data for deeper",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-machine-learning-model-to-predict-student-performance-using-amazon-sagemaker-canvas/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-machine-learning-model-to-predict-student-performance-using-amazon-sagemaker-canvas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/03/22/student-prediction-sagemaker-canvas.jpg",
+          "width": 1152,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-22T09:40:05-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-03-22-telaeris-deploys-new-facial-recognition-technology.md",
+      "title": "Telaeris deploys new facial recognition technology",
+      "excerpt": "Telaeris’ XPID200 readers expand biometric verification with facial recognition in addition to fingerprint and industry-leading support for badge technologies Related To: Telaeris Inc. Handheld ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/product/53029277/telaeris-inc-telaeris-deploys-new-facial-recognition-technology",
+      "originalUrl": "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/product/53029277/telaeris-inc-telaeris-deploys-new-facial-recognition-technology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2023/03/Teleris_mobile_biometric_verification_3.641b223c0d7f8.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-22T08:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Security",
+        "domain": "securityinfowatch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-22-ubisofts-new-ai-tool-automatically-generates-dialogue-for-non-playable-game-characters.md",
+      "title": "Ubisoft’s new AI tool automatically generates dialogue for non-playable game characters",
+      "excerpt": "Ubisoft announced that it's using an AI \"Ghostwriter\" tool to automatically write dialogue for some NPCs in its games.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/03/22/ubisofts-new-ai-tool-automatically-generates-dialogue-for-non-playable-game-characters/",
+      "originalUrl": "https://techcrunch.com/2023/03/22/ubisofts-new-ai-tool-automatically-generates-dialogue-for-non-playable-game-characters/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1438362948.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/03/22/ubisofts-new-ai-tool-automatically-generates-dialogue-for-non-playable-game-characters/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/22/ubisofts-new-ai-tool-automatically-generates-dialogue-for-non-playable-game-characters/amp/",
+      "publishedDateTime": "2023-03-22T08:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!News",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-22-eight-major-issues-with-influencer-marketing-according-to-rad-ai.md",
       "title": "Eight Major Issues with Influencer Marketing, According to RAD AI",
       "excerpt": "Press Release Influencer marketing suffers from eight common issues that sabotage campaign results, according to an analysis by RAD AI, a platform that delivers ROI-based creative intelligence solutions.",
@@ -580,636 +1197,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-how-ai-could-reduce-contract-inefficiencies-and-drudgery.md",
-      "title": "How AI Could Reduce Contract Inefficiencies And Drudgery",
-      "excerpt": "Ways AI Can Be Used To Create Better Contracts Natural language processing: AI-powered NLP can be used to analyze and interpret the language used in existing contracts to identify common clauses and language patterns. This can be useful in drafting new ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/03/22/how-ai-could-reduce-contract-inefficiencies-and-drudgery/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/03/22/how-ai-could-reduce-contract-inefficiencies-and-drudgery/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/641a10e38556bdc74e0aff98/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/03/22/how-ai-could-reduce-contract-inefficiencies-and-drudgery/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/03/22/how-ai-could-reduce-contract-inefficiencies-and-drudgery/amp/",
-      "publishedDateTime": "2023-03-22T04:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-how-pr-professionals-can-use-artificial-intelligence-tools-to-enhance-their-work.md",
-      "title": "How PR Professionals Can Use Artificial Intelligence Tools To Enhance Their Work",
-      "excerpt": "Are robots taking over our jobs? That’s the million-dollar question people across many different industries have been asking as the world of artificial intelligence continues to advance at a rapid speed. But the fact of the matter is technology has been ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/22/how-pr-professionals-can-use-artificial-intelligence-tools-to-enhance-their-work/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/22/how-pr-professionals-can-use-artificial-intelligence-tools-to-enhance-their-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f5b7915a5d68b0459dfcbb7/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/22/how-pr-professionals-can-use-artificial-intelligence-tools-to-enhance-their-work/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/03/22/how-pr-professionals-can-use-artificial-intelligence-tools-to-enhance-their-work/amp/",
-      "publishedDateTime": "2023-03-22T04:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-what-does-fintech-mean-and-how-can-it-help-business-owners.md",
-      "title": "What Does Fintech Mean, And How Can It Help Business Owners?",
-      "excerpt": "At the same time, AI-powered fraud detection algorithms can analyze large amounts of data, enabling them to detect fraudulent transactions in real time. Plus, fintech companies must comply with industry security standards, like the Payment Card Industry ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/03/22/what-does-fintech-mean-and-how-can-it-help-business-owners/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/03/22/what-does-fintech-mean-and-how-can-it-help-business-owners/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6419e430c1773afe3e88e9f8/0x0.jpg?format=jpg&width=1200",
-          "width": 1009,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/03/22/what-does-fintech-mean-and-how-can-it-help-business-owners/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2023/03/22/what-does-fintech-mean-and-how-can-it-help-business-owners/amp/",
-      "publishedDateTime": "2023-03-22T04:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-a-us-agency-rejected-face-recognitionand-landed-in-big-trouble.md",
-      "title": "A US Agency Rejected Face Recognition—and Landed in Big Trouble",
-      "excerpt": "He’d decided that Login.gov, which provides a secure way to access dozens of government apps and websites, wouldn’t use selfies and face recognition to verify the identity of people creating new accounts. “The benefits of liveness/selfie do not ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/a-us-agency-rejected-face-recognition-and-landed-in-big-trouble/",
-      "originalUrl": "https://www.wired.com/story/a-us-agency-rejected-face-recognition-and-landed-in-big-trouble/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/641a4ef3b19ad4e3186e06c8/master/pass/US-Govt-Breaks-Its-Own-Facial-Recognition-Rules-Business-1247661398.jpg",
-          "width": 1800,
-          "height": 2400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/a-us-agency-rejected-face-recognition-and-landed-in-big-trouble/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/a-us-agency-rejected-face-recognition-and-landed-in-big-trouble/amp",
-      "publishedDateTime": "2023-03-22T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-how-ford-and-vws-multibillion-dollar-self-driving-car-project-failed.md",
-      "title": "How Ford and VW's multibillion-dollar self-driving car project failed",
-      "excerpt": "Ford and Volkswagen invested billions into self-driving startup Argo AI to match rivals such as Uber, Tesla and Google. In October 2022 the project shut down.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/03/22/how-ford-and-vws-multibillion-dollar-self-driving-car-project-failed.html",
-      "originalUrl": "https://www.cnbc.com/2023/03/22/how-ford-and-vws-multibillion-dollar-self-driving-car-project-failed.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107062410-1652798050614-Argo_Driverless_3.jpg?v=1679486401",
-          "width": 5000,
-          "height": 3333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/03/22/how-ford-and-vws-multibillion-dollar-self-driving-car-project-failed.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/03/22/how-ford-and-vws-multibillion-dollar-self-driving-car-project-failed.html",
-      "publishedDateTime": "2023-03-22T03:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-trade-surveillance-systems-global-market-report-2022-ai-and-machine-learning-integration-to-bolster-sector-moving-forward.md",
-      "title": "Trade Surveillance Systems Global Market Report 2022: AI And Machine Learning Integration To Bolster Sector Moving Forward",
-      "excerpt": "The \"trade surveillance systems global market report 2022: ukraine-russia war impact\" report has been added to ResearchAndMarkets.com's offering. The global trade surveillance systems market is expected to grow from $1.",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105835668/Trade-Surveillance-Systems-Global-Market-Report-2022-AI-And-Machine-Learning-Integration-To-Bolster-Sector-Moving-Forward",
-      "originalUrl": "https://menafn.com/1105835668/Trade-Surveillance-Systems-Global-Market-Report-2022-AI-And-Machine-Learning-Integration-To-Bolster-Sector-Moving-Forward",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-22T01:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-green-intelligence-why-data-and-ai-must-become-more-sustainable.md",
-      "title": "Green Intelligence: Why Data And AI Must Become More Sustainable",
-      "excerpt": "As big data, machine learning, and artificial intelligence continue to gain prominence in information technology, experts are raising concerns about the environmental costs of computation — primarily data and AI’s carbon footprint and greenhouse gas ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/03/22/green-intelligence-why-data-and-ai-must-become-more-sustainable/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/03/22/green-intelligence-why-data-and-ai-must-become-more-sustainable/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/641aadbcab36eced214b2898/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/03/22/green-intelligence-why-data-and-ai-must-become-more-sustainable/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/03/22/green-intelligence-why-data-and-ai-must-become-more-sustainable/amp/",
-      "publishedDateTime": "2023-03-22T00:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-artificial-intelligence-chipsets-market-size-trends-and-forecast-2030.md",
-      "title": "Artificial Intelligence Chipsets Market Size, Trends and Forecast 2030",
-      "excerpt": "Market Updates(360marketupdates.com) published a new research report on Artificial Intelligence Chipsets Market",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-size-trends-and-forecast-2030-2023-03-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-size-trends-and-forecast-2030-2023-03-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-21T20:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-2023-2028-neural-network-market-insights-and-demand-outlook.md",
-      "title": "2023-2028 Neural Network Market Insights and Demand Outlook",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 21, 2023 (The Expresswire) -- The “Neural Network Market” Report provides accurate information on industry SWOT analysis, CAGR status, product growth prospects and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/2023-2028-neural-network-market-insights-and-demand-outlook-2023-03-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/2023-2028-neural-network-market-insights-and-demand-outlook-2023-03-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-21T20:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-aspecta-nabs-35m-to-build-ai-vetted-coder-profiles.md",
-      "title": "Aspecta nabs $3.5M to build AI-vetted coder profiles",
-      "excerpt": "While LinkedIn is helpful for displaying people’s educational and professional achievements, there exists a world of self-taught tech talent whose skills are not so easily reflected on the networking site.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/03/21/aspecta-nabs-3-5m-to-build-ai-vetted-coder-profiles/",
-      "originalUrl": "https://techcrunch.com/2023/03/21/aspecta-nabs-3-5m-to-build-ai-vetted-coder-profiles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/03/241679375867_.pic_hd.png?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/03/21/aspecta-nabs-3-5m-to-build-ai-vetted-coder-profiles/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/21/aspecta-nabs-3-5m-to-build-ai-vetted-coder-profiles/amp/",
-      "publishedDateTime": "2023-03-21T19:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-brain-computer-interface-enables-mind-control-of-robot-dog.md",
-      "title": "Brain-Computer Interface Enables Mind Control of Robot Dog",
-      "excerpt": "A new peer-reviewed study published in ACS Applied Nano Materials demonstrates a new type of AI-enabled brain-machine interface (BMI) featuring noninvasive biosensor nanotechnology and augmented reality that enables humans to use thoughts to control robots with a high degree of accuracy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202303/brain-computer-interface-enables-mind-control-of-robot-dog",
-      "originalUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202303/brain-computer-interface-enables-mind-control-of-robot-dog",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-03/pic77155.jpg?itok=kEySPcAo",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202303/brain-computer-interface-enables-mind-control-of-robot-dog?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202303/brain-computer-interface-enables-mind-control-of-robot-dog?amp",
-      "publishedDateTime": "2023-03-21T17:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-nvidia-tweaks-flagship-h100-chip-for-export-to-china-as-h800.md",
-      "title": "Nvidia tweaks flagship H100 chip for export to China as H800",
-      "excerpt": "Nvidia Corp , the U.S. semiconductor designer that dominates the market for artificial intelligence (AI) chips, said it has modified its flagship product into a version that is legal to export to China.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/nvidia-tweaks-flagship-h100-chip-export-china-h800-2023-03-21/",
-      "originalUrl": "https://www.reuters.com/technology/nvidia-tweaks-flagship-h100-chip-export-china-h800-2023-03-21/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/T5ftYrseaMtfZ1YNXckWGXq4dZQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/V4WEDSSQ65LGVM66ZN3DWSXLMI.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-21T17:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-wimbledon-2019-ibms-slammtracker-ai-technology-heralds-the-demise-of-the-human-player.md",
-      "title": "Wimbledon 2019: IBM’s Slammtracker AI Technology Heralds The Demise Of The Human Player",
-      "excerpt": "Whilst we patiently wait for the day that Womble-shaped robots replace human tennis players at Wimbledon, we can admire the IBM powered AI technology ... them into the huge Watson driven analytics ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2019/07/08/wimbledon-2019-ibms-slammtracker-ai-technology-heralds-the-demise-of-the-human-player/",
-      "originalUrl": "https://hackaday.com/2019/07/08/wimbledon-2019-ibms-slammtracker-ai-technology-heralds-the-demise-of-the-human-player/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-21T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

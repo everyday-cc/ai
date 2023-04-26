@@ -2,6 +2,49 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-01-30-will-machine-learning-help-us-find-extraterrestrial-life.md",
+      "title": "Will machine learning help us find extraterrestrial life?",
+      "excerpt": "Researchers have applied a deep learning technique to a previously studied dataset of nearby stars and uncovered eight previously unidentified signals of interest. When pondering the probability ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/01/230130130512.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/01/230130130512.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-29T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-28-deep-learning-model-aids-differentiation-of-colon-cancer-acute-diverticulitis.md",
       "title": "Deep learning model aids differentiation of colon cancer, acute diverticulitis",
       "excerpt": "A three-dimensional (3-D) convolutional neural network (CNN) can be used as an artificial intelligence (AI) support system for differentiating colon carcinoma (CC) and acute diverticulitis (AD) on computed tomography (CT) images,",
@@ -1354,59 +1397,6 @@
         "AI in Robotics",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-01-17-deepl-takes-aim-at-grammarly-with-the-launch-of-write-to-clean-up-your-prose.md",
-      "title": "DeepL takes aim at Grammarly with the launch of Write, to clean up your prose",
-      "excerpt": "After raising funding at a $1 billion valuation, translation startup DeepL is taking the wraps off Write to improve your writing.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/01/17/deepl-takes-aim-at-grammarly-with-the-launch-of-write-to-clean-up-your-prose/",
-      "originalUrl": "https://techcrunch.com/2023/01/17/deepl-takes-aim-at-grammarly-with-the-launch-of-write-to-clean-up-your-prose/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2015/12/typewriter.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/01/17/deepl-takes-aim-at-grammarly-with-the-launch-of-write-to-clean-up-your-prose/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/01/17/deepl-takes-aim-at-grammarly-with-the-launch-of-write-to-clean-up-your-prose/amp/",
-      "publishedDateTime": "2023-01-17T05:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

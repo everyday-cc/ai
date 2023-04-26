@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/natural-language-process
 webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-market-growth-by-2031-2023-04-24"
 type: article
 quality: 101
-heat: 221
+heat: 211
 published: true
 
 provider:
@@ -95,20 +95,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 71
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Cloud Natural Language Processing Market Demand by 2031"
-    excerpt: "The latest market research report on the Global \"Cloud Natural Language Processing Market\" is segmented by Regions, Country, Company and other Segments. The global Cloud Natural Language Processing market is dominated by key Players,"
-    publishedDateTime: 2023-04-21T18:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-demand-by-2031-2023-04-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

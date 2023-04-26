@@ -86,6 +86,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Image Recognition in Retail Market Research, 2023-2030"
+    excerpt: "Newest 126 Pages Report,the goal of Image Recognition in Retail Market Image Recognition in Retail Market is to broaden"
+    publishedDateTime: 2023-04-26T07:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/image-recognition-in-retail-market-research-2023-2030-2023-04-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Speech and Voice Recognition Market Size 2023 Will Grow Rapidly Another Level in The Forthcoming Year"
     excerpt: "Speech and Voice Recognition Market Size 2023 | New Report (106 Pages) | Analytics | In This Reports Speech and"
     publishedDateTime: 2023-04-24T03:41:00Z

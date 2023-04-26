@@ -2,6 +2,50 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-02-28-researchers-use-artificial-intelligence-to-predict-cardiovascular-disease.md",
+      "title": "Researchers use artificial intelligence to predict cardiovascular disease",
+      "excerpt": "Researchers may be able to predict cardiovascular disease—such as arterial fibrillation and heart failure—in patients by using artificial intelligence (AI) to examine the genes in their DNA, according to a new Rutgers study.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-02-artificial-intelligence-cardiovascular-disease.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-02-artificial-intelligence-cardiovascular-disease.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/researchers-use-artifi.jpg",
+          "width": 2880,
+          "height": 4023,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-02-artificial-intelligence-cardiovascular-disease.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-02-artificial-intelligence-cardiovascular-disease.amp",
+      "publishedDateTime": "2023-02-27T11:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-02-27-ai-driven-medical-care-a-health-data-reality-check.md",
       "title": "AI-Driven Medical Care? A Health Data Reality Check",
       "excerpt": "\"The reality is that we have a disaggregated, fragmented system with a lack of organization around common, transparent, high-quality information.\"",
@@ -1427,53 +1471,6 @@
         "AI",
         "AI in Autos",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-02-16-criticalriver-partners-with-accureai-to-accelerate-artificial-intelligence-and-machine-learning-adoption-for-businesses.md",
-      "title": "CriticalRiver Partners with Accure.ai to Accelerate Artificial Intelligence and Machine Learning Adoption for Businesses",
-      "excerpt": "The multi-year innovation partnership will provide an accelerated AI/ML platform to automate processes. Accelerates the use of AI to improve processes across key industries. PLEASANTON, Calif. (PRWEB)",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/02/p30929603/criticalriver-partners-with-accure-ai-to-accelerate-artificial-intelligence-and-machine-learning-a",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/02/p30929603/criticalriver-partners-with-accure-ai-to-accelerate-artificial-intelligence-and-machine-learning-a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/30929603",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30929603",
-      "publishedDateTime": "2023-02-15T08:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning",
-        "AI in Healthcare",
-        "Natural Language Processing",
-        "AI in Finance"
       ]
     }
   ],

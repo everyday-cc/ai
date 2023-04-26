@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/using-gene
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/24/using-generative-ai-in-workforce-management/amp/"
 type: article
 quality: 87
-heat: 197
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "How Generative AI Can Be Used In Electronics Manufacturing"
+    excerpt: "By tapping into the creative potential of generative AI, we can help assuage our national security and infrastructure concerns while paving the way for innovative solutions across a range of industries."
+    publishedDateTime: 2023-04-26T10:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/26/how-generative-ai-can-be-used-in-electronics-manufacturing/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/26/how-generative-ai-can-be-used-in-electronics-manufacturing/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/26/how-generative-ai-can-be-used-in-electronics-manufacturing/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/61f030570018a072dc46d1ec/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "The 5 biggest risks of generative AI, according to an expert"
     excerpt: "According to Gartner analyst Avivah Litan, some of the biggest risks of generative AI concern trust and security and include hallucinations, deepfakes, data privacy, copyright issues, and cybersecurity problems."
     publishedDateTime: 2023-04-25T09:54:00Z
@@ -62,65 +78,37 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "These are the 9 best books to get up to speed on the hot new world of generative AI, according to experts"
-    excerpt: "The AI Revolution in Medicine: GPT-4 and Beyond Author: Peter Lee, Carey Goldberg, and Isaac Kohane. Lee, Corporate VP for Research and Incubations at Microsoft; Goldberg, medical and science ..."
-    publishedDateTime: 2023-04-24T00:00:00Z
-    webUrl: "https://www.businessinsider.com/list-generative-ai-artificial-intelligence-best-books-for-learning-experts-2023-3"
-    ampWebUrl: "https://www.businessinsider.com/list-generative-ai-artificial-intelligence-best-books-for-learning-experts-2023-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/list-generative-ai-artificial-intelligence-best-books-for-learning-experts-2023-3?amp"
+  - title: "Why the struggle for ethics in generative AI is more complex than we imagine"
+    excerpt: "Some generative AI companies have been criticized for scraping the Web for training data, including copyrighted material, without the consent of creators and rights owners. In this way, the work of any number of creative,"
+    publishedDateTime: 2023-04-24T09:23:00Z
+    webUrl: "https://diginomica.com/why-struggle-ethics-generative-ai-more-complex-we-imagine"
+    ampWebUrl: "https://diginomica.com/why-struggle-ethics-generative-ai-more-complex-we-imagine?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/why-struggle-ethics-generative-ai-more-complex-we-imagine?amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 72
+      name: Diginomica
+      domain: diginomica.com
+    quality: 71
     images:
-      - url: "https://i.insider.com/6442e90e3d49030019df18aa?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://diginomica.com/sites/default/files/images/2023-03/ethics-gb40633784_640.jpg"
+        width: 640
+        height: 453
         isCached: true
-  - title: "How Businesses Are Using Artificial Intelligence In 2023"
-    excerpt: "Businesses are employing artificial intelligence (AI) in a variety of ways to improve efficiencies, save time and decrease costs. With continued advancements, AI is quickly becoming a precious resource for companies across industries."
-    publishedDateTime: 2023-04-25T19:46:00Z
-    webUrl: "https://www.forbes.com/advisor/business/software/ai-in-business/"
+  - title: "Manufacturers hope for AI boost in factories"
+    excerpt: "Manufacturers are hoping for the artificial intelligence revolution to reach their factories, envisaging robots being used to repair complex machinery."
+    publishedDateTime: 2023-04-23T18:01:00Z
+    webUrl: "https://techxplore.com/news/2023-04-ai-boost-factories.html"
+    ampWebUrl: "https://techxplore.com/news/2023-04-ai-boost-factories.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-04-ai-boost-factories.amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
+      name: techxplore
+      domain: techxplore.com
+    quality: 59
     images:
-      - url: "https://www.forbes.com/advisor/wp-content/uploads/2023/04/ai_business_survey_-_article_image.jpg"
-        width: 958
-        height: 538
-        isCached: true
-  - title: "Artificial intelligence playing increasing roles in the workplace"
-    excerpt: "Artificial intelligence is playing an increasing role in the workplace."
-    publishedDateTime: 2023-04-25T03:55:00Z
-    webUrl: "https://www.wowt.com/video/2023/04/25/artificial-intelligence-playing-increasing-roles-workplace/"
-    ampWebUrl: "https://www.wowt.com/video/2023/04/25/artificial-intelligence-playing-increasing-roles-workplace/?outputType=amp"
-    cdnAmpWebUrl: "https://www-wowt-com.cdn.ampproject.org/c/s/www.wowt.com/video/2023/04/25/artificial-intelligence-playing-increasing-roles-workplace/?outputType=amp"
-    type: article
-    provider:
-      name: WOWT.com
-      domain: wowt.com
-    quality: 61
-    images:
-      - url: "https://do0bihdskp9dy.cloudfront.net/04-25-2023/t_4acfa4e84bdd4394918dfa85bc95c986_name_file_1280x720_2000_v3_1_.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "India’s Chip Design Workforce Faces Massive AI Threat"
-    excerpt: "AI-based tool for FPGA designers showed about 5 times (more in many cases) improvement in the output by senior engineers"
-    publishedDateTime: 2023-04-24T09:00:00Z
-    webUrl: "https://analyticsindiamag.com/indias-chip-design-workforce-faces-massive-ai-threat/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/04/ai-india-chip.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/manufacturers-see-pote.jpg"
+        width: 1024
+        height: 680
         isCached: true
   - title: "Siemens and Microsoft drive industrial productivity with generative artificial intelligence"
     excerpt: "Siemens' new Teamcenter app for Microsoft Teams to use AI, boosting productivity and innovation throughout a product lifecycleAzure OpenAI Service powered assistant can augment the creation, optimization and debugging of code in software for factory automationIndustrial AI to enable visual quality inspection on the shop floorSiemens and Microsoft are harnessing the collaborative power of (AI) to help industrial companies drive innovation and efficiency across the design,"
@@ -136,59 +124,31 @@ related:
         width: 1200
         height: 673
         isCached: true
-  - title: "AI Is Coming for Wealth Management. Here’s What That Means"
-    excerpt: "AI will allow the client to access an incredible amount of information and ask questions in a language that the client is comfortable with and receive answers. For practitioners, the limitation it will have will be in researching what is happening today with that company,"
-    publishedDateTime: 2023-04-24T13:33:00Z
-    webUrl: "https://www.wealthmanagement.com/technology/ai-coming-wealth-management-here-s-what-means"
+  - title: "Manufacturers hope for artificial intelligence boost in factories"
+    excerpt: "Manufacturing firms are keen on using AI to automate the repair of complex machinery, thereby increasing efficacy and solving technical issues. This development was showcased in Germany's industrial Home Fair,"
+    publishedDateTime: 2023-04-24T02:22:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/manufacturers-hope-for-artificial-intelligence-boost-in-factories/99718084"
     type: article
     provider:
-      name: WealthManagement.com
-      domain: wealthmanagement.com
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
     quality: 39
     images:
-      - url: "https://www.wealthmanagement.com/sites/wealthmanagement.com/files/uploads/2016/02/robot-businessmen.jpg"
-        width: 770
-        height: 400
+      - url: "https://etimg.etb2bimg.com/thumb/msid-99718084,imgsize-152838,width-1200,height=765,overlay-etcio/next-gen-technologies/manufacturers-hope-for-artificial-intelligence-boost-in-factories.jpg"
+        width: 1200
+        height: 765
         isCached: true
-  - title: "Recommendations for handling AI in schools"
-    excerpt: "The Berlin Senate Department for Education has issued recommendations for teachers on the use of artificial intelligence (AI) in schools."
-    publishedDateTime: 2023-04-25T15:32:00Z
-    webUrl: "https://www.berlin.de/en/news/8171213-5559700-recommendations-ai-schools.en.html"
-    type: article
-    provider:
-      name: Berlin
-      domain: berlin.de
-    quality: 39
-    images:
-      - url: "https://www.berlin.de/binaries/asset/image_assets/8171261/ratio_4_3/1682428664/800x600/"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Generative AI Is Only as Good as the Prompt You Give It"
-    excerpt: "It is ironic that much of the early conversation about ChatGPT had to do with the demise of writing skills when, in fact, the very success of generative-AI searches is determined by the quality of precisely written prompts."
-    publishedDateTime: 2023-04-26T05:42:00Z
-    webUrl: "https://www.insidehighered.com/opinion/blogs/online-trending-now/2023/04/26/generative-ai-only-good-prompt-you-give-it"
-    type: article
-    provider:
-      name: Inside Higher Ed
-      domain: insidehighered.com
-    quality: 39
-    images:
-      - url: "https://www.insidehighered.com/sites/default/files/2023-04/ihe-logo-web.png"
-        width: 600
-        height: 324
-        isCached: true
-  - title: "Growth of generative AI is leading to change moment for DevOps"
-    excerpt: "The role of data in DevOps is changing, facilitated by the introduction of powerful new generative artificial intelligence engines such as ChatGPT. The success of DevOps in modern, cloud-native environments has given rise to platform engineering,"
-    publishedDateTime: 2023-04-25T15:59:00Z
-    webUrl: "https://siliconangle.com/2023/04/25/growth-generative-ai-leading-change-moment-devops-kubecon/"
+  - title: "Google takes an opinionated view of how generative AI can be used in cybersecurity"
+    excerpt: "Google LLC announced a large language model fine-tuned for cybersecurity operations. The new generative AI model, Sec-PaLM, is designed to address enterprise challenges around threat overload, tool sprawl and a shortage of talent in the cybersecurity business."
+    publishedDateTime: 2023-04-25T22:17:00Z
+    webUrl: "https://siliconangle.com/2023/04/25/google-intros-large-language-model-security-leverage-threat-data-generative-ai-rsac/"
     type: article
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 37
+    quality: 31
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/04/Mohan-et-al.jpg"
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/04/Sunil-Potti.jpg"
         width: 986
         height: 657
         isCached: true

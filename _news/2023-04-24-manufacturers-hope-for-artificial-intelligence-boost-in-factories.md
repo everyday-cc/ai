@@ -25,21 +25,85 @@ images:
     isCached: true
 
 related:
-  - title: "AI revolution: Manufacturers hope for artificial intelligence boost in factories"
-    excerpt: "Manufacturers are hoping for the artificial intelligence revolution to reach their factories, envisaging robots being used to repair complex machinery. There has been an explosion of interest in uses of AI across many sectors since the launch last year of chatbot ChatGPT from US startup OpenAI."
-    publishedDateTime: 2023-04-24T05:18:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/ai-revolution-manufacturers-hope-for-artificial-intelligence-boost-in-factories-71682272340109.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/ai-revolution-manufacturers-hope-for-artificial-intelligence-boost-in-factories-71682272340109.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/ai-revolution-manufacturers-hope-for-artificial-intelligence-boost-in-factories-71682272340109.html"
+  - title: "How Generative AI Can Be Used In Electronics Manufacturing"
+    excerpt: "By tapping into the creative potential of generative AI, we can help assuage our national security and infrastructure concerns while paving the way for innovative solutions across a range of industries."
+    publishedDateTime: 2023-04-26T10:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/26/how-generative-ai-can-be-used-in-electronics-manufacturing/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/26/how-generative-ai-can-be-used-in-electronics-manufacturing/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/26/how-generative-ai-can-be-used-in-electronics-manufacturing/amp/"
     type: article
     provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 69
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://images.hindustantimes.com/tech/img/2023/04/24/1600x900/AI-COMPANIES--2_1681557402437_1681557402437_1682312254516.JPG"
-        width: 1600
-        height: 900
+      - url: "https://imageio.forbes.com/specials-images/imageserve/61f030570018a072dc46d1ec/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Using Generative AI In Workforce Management"
+    excerpt: "Generative AI is the most transformative thing in the business landscape right now, perhaps even since the proliferation of the internet."
+    publishedDateTime: 2023-04-24T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/using-generative-ai-in-workforce-management/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/using-generative-ai-in-workforce-management/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/24/using-generative-ai-in-workforce-management/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62825152c50f091b0e2568f8/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 799
+        isCached: true
+  - title: "The 5 biggest risks of generative AI, according to an expert"
+    excerpt: "According to Gartner analyst Avivah Litan, some of the biggest risks of generative AI concern trust and security and include hallucinations, deepfakes, data privacy, copyright issues, and cybersecurity problems."
+    publishedDateTime: 2023-04-25T09:54:00Z
+    webUrl: "https://www.zdnet.com/article/the-5-biggest-risks-of-generative-ai-according-to-an-expert/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-5-biggest-risks-of-generative-ai-according-to-an-expert/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-5-biggest-risks-of-generative-ai-according-to-an-expert/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/0cc190b128c483df4d94a80b464a741210a694f4/2023/04/24/ba357ab7-5959-44f7-a452-d12811dba59b/gettyimages-1404749040-170667a.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "How reinforcement learning with human feedback is unlocking the power of generative AI"
+    excerpt: "How reinforcement learning with human feedback helps ensure that businesses are building ethical generative AI models."
+    publishedDateTime: 2023-04-23T16:20:00Z
+    webUrl: "https://venturebeat.com/ai/how-reinforcement-learning-with-human-feedback-is-unlocking-the-power-of-generative-ai/"
+    ampWebUrl: "https://venturebeat.com/ai/how-reinforcement-learning-with-human-feedback-is-unlocking-the-power-of-generative-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-reinforcement-learning-with-human-feedback-is-unlocking-the-power-of-generative-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 83
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/04/annevb_human_and_artificial_intelligence_working_together_to_un_5b2cbb9e-e380-4bb1-812b-366943b59568.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Why the struggle for ethics in generative AI is more complex than we imagine"
+    excerpt: "Some generative AI companies have been criticized for scraping the Web for training data, including copyrighted material, without the consent of creators and rights owners. In this way, the work of any number of creative,"
+    publishedDateTime: 2023-04-24T09:23:00Z
+    webUrl: "https://diginomica.com/why-struggle-ethics-generative-ai-more-complex-we-imagine"
+    ampWebUrl: "https://diginomica.com/why-struggle-ethics-generative-ai-more-complex-we-imagine?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/why-struggle-ethics-generative-ai-more-complex-we-imagine?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 71
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2023-03/ethics-gb40633784_640.jpg"
+        width: 640
+        height: 453
         isCached: true
   - title: "Manufacturers hope for AI boost in factories"
     excerpt: "Manufacturers are hoping for the artificial intelligence revolution to reach their factories, envisaging robots being used to repair complex machinery."
@@ -57,15 +121,34 @@ related:
         width: 1024
         height: 680
         isCached: true
-  - title: "Manufacturers hope for AI boost in factory repairs"
-    excerpt: "HANOVER–Manufacturers are hoping for the artificial intelligence revolution to reach their factories, envisaging robots being used to repair complex machinery."
-    publishedDateTime: 2023-04-24T10:30:00Z
-    webUrl: "https://www.manilastandard.net/business/power-technology/314324509/manufacturers-hope-for-ai-boost-in-factory-repairs.html"
+  - title: "Siemens and Microsoft drive industrial productivity with generative artificial intelligence"
+    excerpt: "Siemens' new Teamcenter app for Microsoft Teams to use AI, boosting productivity and innovation throughout a product lifecycleAzure OpenAI Service powered assistant can augment the creation, optimization and debugging of code in software for factory automationIndustrial AI to enable visual quality inspection on the shop floorSiemens and Microsoft are harnessing the collaborative power of (AI) to help industrial companies drive innovation and efficiency across the design,"
+    publishedDateTime: 2023-04-24T09:42:00Z
+    webUrl: "https://www.newswit.com/en/M5T3"
     type: article
     provider:
-      name: manilastandard
-      domain: manilastandard.net
-    quality: 19
+      name: academy
+      domain: newswit.com
+    quality: 44
+    images:
+      - url: "https://www.newswit.com/img/f/20230424/c1ff69547c5cca490d95efe7466311a0-0.jpg"
+        width: 1200
+        height: 673
+        isCached: true
+  - title: "Google takes an opinionated view of how generative AI can be used in cybersecurity"
+    excerpt: "Google LLC announced a large language model fine-tuned for cybersecurity operations. The new generative AI model, Sec-PaLM, is designed to address enterprise challenges around threat overload, tool sprawl and a shortage of talent in the cybersecurity business."
+    publishedDateTime: 2023-04-25T22:17:00Z
+    webUrl: "https://siliconangle.com/2023/04/25/google-intros-large-language-model-security-leverage-threat-data-generative-ai-rsac/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 31
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/04/Sunil-Potti.jpg"
+        width: 986
+        height: 657
+        isCached: true
 
 secured: "zHxppNreaKp4KFpUJ9JusrgIyVppISZaOBz1opi0fNyV4n/WV2Nr2MjdpX9nhmbPY/JBb6x59OblIPKR2immoV0zL5Z7EJvSDdiAv8UyTzXDdH1DpI8ABDpuvgu5+gw8oAQZCmHsgx5snA7yv0Kq96XTxo+uR1u0IrcufuvAgqKul/AdY0SJy56o8r9osPbtyUm4ayOPtSvyvPmq54BInjJsT9ExECr2fsi+PJ1V5T4UvFtr0XVyAGRCVKWzeD3k4Jf70f2BKxHNbDy35c7fO0o37Q9bkqpoiwkCZJiwfeVdhX9gkMEaxR03Pw8xM5ndpFTR2Op57sidIERZY+Lp6yO8n0zChS5KivINvfwg5U8/ufW8TAR/lUq3TYSfbDeYQY8kpejKbCXQ63RHVrEPfjNI1Nog2mAl/tqZzBtaqxp1YFLDiU5MaWBQasQXBoUFfsB6vslcI1TQQ7GnQs5VjTBxfO27BsI9+LlWW/fsSTr3nTm1MPTHS14bO3MKGFLi/VWChp8dahRoWTCRqHi+Jw==;F8xJlq/HIrHSMwgNbRjK4Q=="
 ---

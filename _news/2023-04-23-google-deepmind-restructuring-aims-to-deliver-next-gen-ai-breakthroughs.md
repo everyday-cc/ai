@@ -9,8 +9,8 @@ ampWebUrl: "https://cointelegraph.com/news/google-deepmind-restructuring-aims-to
 cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/google-deepmind-restructuring-aims-to-deliver-next-gen-ai-breakthroughs/amp"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 104
+published: true
 
 provider:
   name: CoinTelegraph
@@ -27,52 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind melds with Google's Brain Team to accelerate AI growth"
-    excerpt: "Google appears determined to ramp up its AI efforts, despite recent concerns from employees on the company's execution. Here's its latest move."
-    publishedDateTime: 2023-04-21T17:10:00Z
-    webUrl: "https://www.zdnet.com/article/deepmind-melds-with-googles-brain-team-to-accelerate-ai-growth/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/deepmind-melds-with-googles-brain-team-to-accelerate-ai-growth/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/deepmind-melds-with-googles-brain-team-to-accelerate-ai-growth/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 106
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/5e0cc139b907b1b7d5f9f4b2f4b34e1d305d22c4/2023/04/21/74797833-85ff-42b4-a00d-10aa74deb208/gettyimages-1406773591.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Google’s AI panic forces merger of rival divisions, DeepMind and Brain"
-    excerpt: "Google's 'Code Red' panic over the rise of ChatGPT and its failure to excite the world with its AI products is resulting in a big merger. Alphabet's two big AI teams, the independent Alphabet company DeepMind and the \"Google Brain\" AI division,"
-    publishedDateTime: 2023-04-21T18:49:00Z
-    webUrl: "https://arstechnica.com/gadgets/2023/04/googles-ai-panic-forces-merger-of-rival-divisions-deepmind-and-brain/"
-    ampWebUrl: "https://arstechnica.com/gadgets/2023/04/googles-ai-panic-forces-merger-of-rival-divisions-deepmind-and-brain/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/04/googles-ai-panic-forces-merger-of-rival-divisions-deepmind-and-brain/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 104
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/04/623082907ce4897c3820b24c_DeepMind-800x420.jpg"
-        width: 684
-        height: 300
-        isCached: true
-  - title: "UK-based DeepMind merges with Google Brain in transatlantic AI tie-up"
-    excerpt: "Alphabet has merged DeepMind with Google Brain into a single AI research unit, imaginatively named Google DeepMind"
-    publishedDateTime: 2023-04-21T17:23:00Z
-    webUrl: "https://thenextweb.com/news/google-deepmind-merges-google-brain-ai-race"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 84
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F10%2FGoogle-News.jpg&signature=b284eb96a862bbf51bec27fad7f29a8c"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Google intensifies its bid to lead AI race, announces Google DeepMind: Here’s what it means"
     excerpt: "Google DeepMind is the combination of DeepMind and Google Brain. The new collective unit is expected to steer Google’s progress in AI."
     publishedDateTime: 2023-04-22T04:08:00Z
@@ -89,24 +43,6 @@ related:
         width: 1200
         height: 667
         isCached: true
-  - title: "Google creates DeepMind division to combat threat from ChatGPT and Bing AI"
-    excerpt: "The rate of AI development is seemingly speeding up each day, and Google is one of the biggest players in the game. The teams have an impressive history of achievements in AI coll"
-    publishedDateTime: 2023-04-24T13:37:00Z
-    webUrl: "https://www.techradar.com/news/google-creates-deepmind-division-to-combat-threat-from-chatgpt-and-bing-ai"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 62
-  - title: "Google Merges Brain Division and DeepMind"
-    excerpt: "Google is no longer treating artificial intelligence like a side project—Microsoft and OpenAI have seen to that with the public availability of ChatGPT. Google has already started reorganizing to improve its Bard AI."
-    publishedDateTime: 2023-04-21T18:00:00Z
-    webUrl: "https://www.extremetech.com/science/google-merges-brain-division-and-deepmind"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 34
   - title: "Google Merges DeepMind and Brain AI Units"
     excerpt: "Google has merged its artificial intelligence research units, DeepMind and Brain, to form a new unit called Google DeepMind. Google acquired DeepMind in 2014. The firm combines machine learning techniques with neuroscience systems to build learning algorithms for eCommerce and games development."
     publishedDateTime: 2023-04-24T23:32:00Z

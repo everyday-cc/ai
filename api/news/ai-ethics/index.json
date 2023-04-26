@@ -54,6 +54,110 @@
       ]
     },
     {
+      "path": "_news/2023-04-25-in-the-artificial-intelligence-race-is-your-brain-trained-to-compete.md",
+      "title": "In The Artificial Intelligence Race, Is Your Brain Trained To Compete?",
+      "excerpt": "While it’s uncertain who the winners of the artificial intelligence race will be, business leaders and employees must make sure their brains are trained to compete.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/iese/2023/04/25/in-the-artificial-intelligence-race-is-your-brain-trained-to-compete/",
+      "originalUrl": "https://www.forbes.com/sites/iese/2023/04/25/in-the-artificial-intelligence-race-is-your-brain-trained-to-compete/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6447918c9384cd1bfdf33129/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/iese/2023/04/25/in-the-artificial-intelligence-race-is-your-brain-trained-to-compete/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/iese/2023/04/25/in-the-artificial-intelligence-race-is-your-brain-trained-to-compete/amp/",
+      "publishedDateTime": "2023-04-25T01:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-04-24-is-ai-dangerous-heres-what-musk-pichai-and-ai-experts-think.md",
+      "title": "Is AI dangerous? Here's what Musk, Pichai, and AI experts think",
+      "excerpt": "With AI getting better by the day, experts are starting to question: is AI dangerous? The answer depends on whom you ask.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/is-ai-dangerous-threat-3316199/",
+      "originalUrl": "https://www.androidauthority.com/is-ai-dangerous-threat-3316199/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidauthority.com/wp-content/uploads/2022/11/elon-musk-scaled.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-24T09:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-22-we-all-contribute-to-ai-should-we-get-paid-for-that.md",
       "title": "We all contribute to AI — should we get paid for that?",
       "excerpt": "The idea is for people to “get paid for what they create, even when it is filtered and recombined” into something that’s unrecognizable. The concept isn’t brand new, with Lanier first introducing the notion of data dignity in a 2018 Harvard Business Review piece titled,",
@@ -1354,94 +1458,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-03-27-artificial-intelligence-in-indian-healthcare-system-icmr-releases-first-ethical-guidelines.md",
-      "title": "Artificial Intelligence In Indian Healthcare System: ICMR Releases First Ethical Guidelines",
-      "excerpt": "In a major development in the healthcare system in India, the Department of Health Research and ICMR's Artificial Intelligence Cell have released the first-ever ethical guidelines for applying artificial intelligence in biomedical research and healthcare structure in the country.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehealthsite.com/news/artificial-intelligence-in-indian-healthcare-system-icmr-releases-first-ethical-guidelines-965130/",
-      "originalUrl": "https://www.thehealthsite.com/news/artificial-intelligence-in-indian-healthcare-system-icmr-releases-first-ethical-guidelines-965130/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://st1.thehealthsite.com/wp-content/uploads/2023/03/AI-in-healthcare.png",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehealthsite.com/news/artificial-intelligence-in-indian-healthcare-system-icmr-releases-first-ethical-guidelines-965130/amp/",
-      "cdnAmpWebUrl": "https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/news/artificial-intelligence-in-indian-healthcare-system-icmr-releases-first-ethical-guidelines-965130/amp/",
-      "publishedDateTime": "2023-03-26T23:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheHealthSite",
-        "domain": "thehealthsite.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-03-26-icmr-releases-first-ethical-guidelines-for-ai-in-healthcare.md",
-      "title": "ICMR releases first ethical guidelines for AI in healthcare",
-      "excerpt": "The guidelines aim to establish an ethical framework for the development of AI-based tools that can benefit all stakeholders.",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/news/india/icmr-releases-first-ethical-guidelines-for-ai-in-healthcare-11679845618748.html",
-      "originalUrl": "https://www.livemint.com/news/india/icmr-releases-first-ethical-guidelines-for-ai-in-healthcare-11679845618748.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.livemint.com/lm-img/img/2023/03/26/600x338/cervical_cancer__1679845856883_1679845857081_1679845857081.webp",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/news/india/icmr-releases-first-ethical-guidelines-for-ai-in-healthcare/amp-11679845618748.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/icmr-releases-first-ethical-guidelines-for-ai-in-healthcare/amp-11679845618748.html",
-      "publishedDateTime": "2023-03-26T08:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

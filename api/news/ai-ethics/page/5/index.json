@@ -2,6 +2,112 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-01-17-building-an-ai-governance-strategy-that-works.md",
+      "title": "Building an AI governance strategy that works",
+      "excerpt": "Any organization that uses or develops AI should focus on their AI governance practices, lest they put their business and customers at risk.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/building-an-ai-governance-strategy-that-works/",
+      "originalUrl": "https://venturebeat.com/ai/building-an-ai-governance-strategy-that-works/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1037155966.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 659,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/building-an-ai-governance-strategy-that-works/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/building-an-ai-governance-strategy-that-works/amp/",
+      "publishedDateTime": "2023-01-16T18:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-16-how-soon-will-m3gan-become-reality-robot-ethicists-weigh-in.md",
+      "title": "How soon will M3gan become reality? Robot ethicists weigh in",
+      "excerpt": "The horror movie’s hi-tech star may be fiction, but concerns over the human relationship with AI are real",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/film/2023/jan/16/megan-film-robot-ai-ethics-real-life",
+      "originalUrl": "https://www.theguardian.com/film/2023/jan/16/megan-film-robot-ai-ethics-real-life",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/8cbe1d6be565c48d135529109932104bb25ba2ae/0_0_7500_4500/master/7500.jpg?width=620&quality=85&auto=format&fit=max&s=d73b13b448bb94e1599a5791447aa36b",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/film/2023/jan/16/megan-film-robot-ai-ethics-real-life",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/film/2023/jan/16/megan-film-robot-ai-ethics-real-life",
+      "publishedDateTime": "2023-01-16T06:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-01-15-a-mental-health-tech-company-ran-an-ai-experiment-on-real-users-nothings-stopping-apps-from-conducting-more.md",
       "title": "A mental health tech company ran an AI experiment on real users. Nothing’s stopping apps from conducting more.",
       "excerpt": "A chat app used for emotional support used a popular chatbot to write answers for humans to select. Controversy followed.",
@@ -1272,93 +1378,6 @@
       "provider": {
         "name": "Outlookindia",
         "domain": "outlookindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-10-ethics-and-artificial-intelligence-talking-to-chatgpt.md",
-      "title": "Ethics and artificial intelligence — talking to ChatGPT",
-      "excerpt": "Artificial intelligence or AI, whether you notice it or not, is becoming a bigger part of our lives. Its increasing presence in the technology we all interact with has prompted lawmakers – like ...",
-      "sourceUrl": null,
-      "webUrl": "https://wtop.com/podcast/dmv-download-podcast/ethics-and-artificial-intelligence-talking-to-chatgpt/",
-      "originalUrl": "https://wtop.com/podcast/dmv-download-podcast/ethics-and-artificial-intelligence-talking-to-chatgpt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wtop.com/wp-content/uploads/2017/04/wtop_logo_512x512.png",
-          "width": 512,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-09T18:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTOP News",
-        "domain": "wtop.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-12-10-your-selfies-are-helping-ai-learn-you-did-not-consent-to-this.md",
-      "title": "Your selfies are helping AI learn. You did not consent to this.",
-      "excerpt": "Sure, that drunk selfie you posted on Instagram might be personally embarrassing. Now imagine that selfie is also training fuel for an artificial intelligence system that helps put an innocent ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/technology/2022/12/09/chatgpt-lensa-ai-ethics/",
-      "originalUrl": "https://www.washingtonpost.com/technology/2022/12/09/chatgpt-lensa-ai-ethics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6EP4XULR2FFXXDDBTNP4WFLFMM.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-09T17:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Washington Post",
-        "domain": "washingtonpost.com",
         "images": null,
         "publishers": null,
         "authors": null

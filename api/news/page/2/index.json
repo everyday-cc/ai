@@ -2,6 +2,315 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-04-25-andrew-ngs-landing-ai-makes-it-easier-to-create-computer-vision-apps-with-visual-prompting.md",
+      "title": "Andrew Ng’s Landing AI makes it easier to create computer vision apps with Visual Prompting",
+      "excerpt": "Landing AI's new Visual Prompting feature makes it easy for users to develop new computer-vision applications.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/andrew-ngs-landing-ai-makes-it-easier-to-create-computer-vision-apps-with-visual-prompting/",
+      "originalUrl": "https://venturebeat.com/ai/andrew-ngs-landing-ai-makes-it-easier-to-create-computer-vision-apps-with-visual-prompting/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/06/computer-vision-e1663772711547.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/andrew-ngs-landing-ai-makes-it-easier-to-create-computer-vision-apps-with-visual-prompting/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/andrew-ngs-landing-ai-makes-it-easier-to-create-computer-vision-apps-with-visual-prompting/amp/",
+      "publishedDateTime": "2023-04-25T09:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-25-machine-learning-as-a-service-mlaas-market-4346-cagr-till-2030.md",
+      "title": "Machine Learning as a Service (MlaaS) Market [ 43.46% CAGR ] till 2030",
+      "excerpt": "Machine Learning as a Service (MlaaS) Market is expected to record a [ 43.46% CAGR ] over the forecast period 2023 to",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-4346-cagr-till-2030-2023-04-25",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-4346-cagr-till-2030-2023-04-25",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-25T09:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-25-a-meta-executive-reportedly-warned-staff-last-year-that-we-have-a-significant-gap-when-it-comes-to-ai.md",
+      "title": "A Meta executive reportedly warned staff last year that 'we have a significant gap' when it comes to AI",
+      "excerpt": "Mark Zuckerberg and other execs had a five-hour discussion on how Meta could implement systems for cutting edge AI last year, Reuters reports.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/meta-executive-warned-staff-falling-behind-ai-report-2023-4",
+      "originalUrl": "https://www.businessinsider.com/meta-executive-warned-staff-falling-behind-ai-report-2023-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6447d9cb90523900196fceb6?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/meta-executive-warned-staff-falling-behind-ai-report-2023-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/meta-executive-warned-staff-falling-behind-ai-report-2023-4?amp",
+      "publishedDateTime": "2023-04-25T09:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!News",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-25-republicans-launch-eerie-ai-generated-attack-ad-on-biden.md",
+      "title": "Republicans Launch Eerie AI-Generated Attack Ad On Biden",
+      "excerpt": "The video shows realistic images of a collapse of world order under a second Biden-Harris term—and suggests the possibility of a lot of artificial intelligence in upcoming campaigns.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/saradorn/2023/04/25/republicans-launch-eerie-ai-generated-attack-ad-on-biden/",
+      "originalUrl": "https://www.forbes.com/sites/saradorn/2023/04/25/republicans-launch-eerie-ai-generated-attack-ad-on-biden/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6447ef043664b77e0aa3babc/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/saradorn/2023/04/25/republicans-launch-eerie-ai-generated-attack-ad-on-biden/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saradorn/2023/04/25/republicans-launch-eerie-ai-generated-attack-ad-on-biden/amp/",
+      "publishedDateTime": "2023-04-25T08:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-25-watched-while-working-use-of-monitoring-and-ai-in-the-workplace-increases.md",
+      "title": "Watched while working: Use of monitoring and AI in the workplace increases",
+      "excerpt": "Wendi S. Lazar and Cody Yorke of Outten & Golden LLP discuss privacy and other workplace concerns as employers increasingly monitor employees working remotely or use AI in decision-making.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/legal/legalindustry/watched-while-working-use-monitoring-ai-workplace-increases-2023-04-25/",
+      "originalUrl": "https://www.reuters.com/legal/legalindustry/watched-while-working-use-monitoring-ai-workplace-increases-2023-04-25/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/8SXVB-HGlMtm1YJkZeYwCQPfPGc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LPRMGTTS5VIVPETVD4OBZ3XRJI.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-25T07:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-25-harnessing-the-power-of-ai-for-job-seekers-and-recruiters.md",
+      "title": "Harnessing The Power Of AI For Job Seekers And Recruiters",
+      "excerpt": "\"AI already is proving to be a powerful tool for recruiters, job counselors and most of all job seekers, if they know how to harness it,\" explains RecruiterShare CEO, John Younger. \"The challenge for each of the these three groups is learning how to best harness it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/michaelbernick/2023/04/25/harnessing-the-power-of-ai-for-job-seekers-and-recruiters/",
+      "originalUrl": "https://www.forbes.com/sites/michaelbernick/2023/04/25/harnessing-the-power-of-ai-for-job-seekers-and-recruiters/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/644699ce5d21f906bf1742ca/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 1055,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/michaelbernick/2023/04/25/harnessing-the-power-of-ai-for-job-seekers-and-recruiters/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelbernick/2023/04/25/harnessing-the-power-of-ai-for-job-seekers-and-recruiters/amp/",
+      "publishedDateTime": "2023-04-25T07:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-25-why-optimize-your-warehouse-with-a-data-lakehouse-strategy.md",
       "title": "Why optimize your warehouse with a data lakehouse strategy",
       "excerpt": "You know a data warehouse is essential. Let’s look at why warehouse optimization is key in a data lakehouse strategy, and why it matters for your business.\nThe post Why optimize your warehouse with a data lakehouse strategy appeared first on IBM Blog.\n",
@@ -52,7 +361,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-camera-market-facts-and-figures-by-2030-2023-04-25",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -260,7 +569,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/04/25/what-marketing-and-advertising-specialists-can-expect-from-chatgpt/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 251,
+      "heat": 261,
       "tags": null,
       "images": [
         {
@@ -615,7 +924,7 @@
       "originalUrl": "https://www.forbes.com/sites/iese/2023/04/25/in-the-artificial-intelligence-race-is-your-brain-trained-to-compete/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -654,7 +963,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI Ethics"
       ]
     },
     {
@@ -771,7 +1081,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-research-report-with-analysis-2023-to-2030-2023-04-25",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -968,306 +1278,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-chatgpt-makes-waves-in-yokosuka-first-ai-chatbot-used-in-japanese-municipality-offices.md",
-      "title": "ChatGPT Makes Waves in Yokosuka: First AI Chatbot Used in Japanese Municipality Offices",
-      "excerpt": "The AI-powered chatbot, ChatGPT will be used in a one-month trial to improve operations and free up human resources for tasks",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2023/04/25/chatgpt-yokosuka-administration-breakthrough/",
-      "originalUrl": "https://www.gizmochina.com/2023/04/25/chatgpt-yokosuka-administration-breakthrough/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2023/04/np_file_222875-e1682397707915.jpeg",
-          "width": 1500,
-          "height": 1008,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-24T21:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-yes-ai-increases-productivity-study-suggests.md",
-      "title": "Yes, AI Increases Productivity, Study Suggests",
-      "excerpt": "Everyone is excited about generative artificial intelligence, but hype doesn't necessarily translate into solid productivity or revenue gains. Now, a study suggests that even in these early, hyped-up days of generative AI, there are gains being scene,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/04/25/yes-ai-increases-productivity-study-suggests/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/04/25/yes-ai-increases-productivity-study-suggests/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5fe0e38e220093c48951892b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/04/25/yes-ai-increases-productivity-study-suggests/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/04/25/yes-ai-increases-productivity-study-suggests/amp/",
-      "publishedDateTime": "2023-04-24T21:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-blog-the-future-of-artificial-intelligence-is-a-no-brainer.md",
-      "title": "Blog: The future of artificial intelligence is a no-brainer",
-      "excerpt": "Does ChatGPT, like the Grammatizator, harbinger a similar outcome, and the simultaneous end of human creativity and industry, today? We address this question here. Let us begin by making sense of how ChatGPT works.",
-      "sourceUrl": null,
-      "webUrl": "https://www.campaignindia.in/article/blog-the-future-of-artificial-intelligence-is-a-no-brainer/482817",
-      "originalUrl": "https://www.campaignindia.in/article/blog-the-future-of-artificial-intelligence-is-a-no-brainer/482817",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdni.autocarindia.com/utils/imageresizer.ashx?n=http://img.haymarketsac.in/campaignindia/campaign-india/content/20230421030356_chatgpt.jpg",
-          "width": 832,
-          "height": 536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.campaignindia.in/article/blog-the-future-of-artificial-intelligence-is-a-no-brainer/482817/amp",
-      "cdnAmpWebUrl": "https://www-campaignindia-in.cdn.ampproject.org/c/s/www.campaignindia.in/article/blog-the-future-of-artificial-intelligence-is-a-no-brainer/482817/amp",
-      "publishedDateTime": "2023-04-24T20:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Campaign India",
-        "domain": "campaignindia.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-europe-zooming-in-on-ai-rates-and-chips-wars.md",
-      "title": "EUROPE Zooming in on AI, rates and chips wars",
-      "excerpt": "A look at the day ahead in European and global markets from Vidya Ranganathan.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/markets/europe/global-markets-view-europe-2023-04-25/",
-      "originalUrl": "https://www.reuters.com/markets/europe/global-markets-view-europe-2023-04-25/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/sCjPgigxGRsErknWN7eSfxLsGZY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/45VBV2HLUJOF7NWNRIGT6ESZLE.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-24T20:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-from-fake-drake-to-ai-generated-eminem-tracks-can-musicians-copyright-style.md",
-      "title": "From fake Drake to AI-generated Eminem tracks: Can musicians copyright style?",
-      "excerpt": "An AI art lecturer says an AI-generated song seemingly created in the style of musician Drake raises copyright questions surrounding an artist's style.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/fake-drake-ai-generated-eminem-tracks-musicians-copyright-style",
-      "originalUrl": "https://www.foxnews.com/entertainment/fake-drake-ai-generated-eminem-tracks-musicians-copyright-style",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fe044709-5321-49e6-889e-24f2e7e60968/56371045-25a7-49d1-b3c9-f3c01b831a6e/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/entertainment/fake-drake-ai-generated-eminem-tracks-musicians-copyright-style.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/fake-drake-ai-generated-eminem-tracks-musicians-copyright-style.amp",
-      "publishedDateTime": "2023-04-24T18:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-this-week-in-data-the-truth-about-ai.md",
-      "title": "This week in data: The truth about AI",
-      "excerpt": "In this week's video, Bruno and a special guest examine Gartner's latest Spaghetti Chart, discuss the real truth about AI, and more.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/data-infrastructure/this-week-in-data-the-truth-about-ai/",
-      "originalUrl": "https://venturebeat.com/data-infrastructure/this-week-in-data-the-truth-about-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/04/Apr-24.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/data-infrastructure/this-week-in-data-the-truth-about-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/this-week-in-data-the-truth-about-ai/amp/",
-      "publishedDateTime": "2023-04-24T17:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

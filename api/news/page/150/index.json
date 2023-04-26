@@ -2,6 +2,592 @@
   "page": 150,
   "value": [
     {
+      "path": "_news/2022-12-13-vicai-secures-52m-in-series-c-funding-to-expand-suite-of-ai-enterprise-fintech-offerings.md",
+      "title": "Vic.ai Secures $52M in Series C Funding to Expand Suite of AI Enterprise Fintech Offerings",
+      "excerpt": "NEW YORK, Dec. 13, 2022 (GLOBE NEWSWIRE) -- Vic.ai today announced $52 million in Series C funding to expand its artificial intelligence (AI) platform for real-time, autonomous accounting and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/12/g30056073/vic-ai-secures-52m-in-series-c-funding-to-expand-suite-of-ai-enterprise-fintech-offerings",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/12/g30056073/vic-ai-secures-52m-in-series-c-funding-to-expand-suite-of-ai-enterprise-fintech-offerings",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png",
+          "width": 800,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/30056073",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30056073",
+      "publishedDateTime": "2022-12-13T04:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-13-opinion-ill-bet-you-didnt-write-that-an-artificial-intelligence-robot-did.md",
+      "title": "Opinion: I’ll bet you didn’t write that. An artificial intelligence robot did",
+      "excerpt": "Write an 800-word opinion piece about what ChatGPT is, as well as its benefits and drawbacks.” In seconds it delivered a sensible, fair-minded description. No doubt ChatGPT and tools like it will become much more valuable and human-sounding — especially when these products ingest and learn from millions of emails and texts to create more personalized responses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eastbaytimes.com/2022/12/13/opinion-ill-bet-you-didnt-write-that-an-artificial-intelligencer-robot-did/",
+      "originalUrl": "https://www.eastbaytimes.com/2022/12/13/opinion-ill-bet-you-didnt-write-that-an-artificial-intelligencer-robot-did/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eastbaytimes.com/wp-content/uploads/2022/12/OPED-ROBOT-WRITING-COMMENTARY-DMT.jpg?w=1024&h=683",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.eastbaytimes.com/2022/12/13/opinion-ill-bet-you-didnt-write-that-an-artificial-intelligencer-robot-did/amp/",
+      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2022/12/13/opinion-ill-bet-you-didnt-write-that-an-artificial-intelligencer-robot-did/amp/",
+      "publishedDateTime": "2022-12-13T04:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "East Bay Times",
+        "domain": "eastbaytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-13-is-learning-code-still-necessary-for-businesses.md",
+      "title": "Is Learning Code Still Necessary For Businesses?",
+      "excerpt": "Whether you rent a storefront or operate fully online, you’ll be in need of the software development know-how required to thrive in the digital realm.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/13/is-learning-code-still-necessary-for-businesses/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/13/is-learning-code-still-necessary-for-businesses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5fb2b1a203edc9665484d31e/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/13/is-learning-code-still-necessary-for-businesses/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/12/13/is-learning-code-still-necessary-for-businesses/amp/",
+      "publishedDateTime": "2022-12-13T03:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-13-first-ever-ai-video-platform-integrating-text-generated-image-and-animation.md",
+      "title": "First-Ever AI Video Platform Integrating Text-Generated Image And Animation",
+      "excerpt": "Tel Aviv-based DI-D released today the first multimodal generative AI video platform to combine text, image and animation in one interface. The self-service video platform integrates D-ID’s proprietary generative AI technology with GPT-3 from Open AI and Stable Diffusion from Stability AI,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gilpress/2022/12/13/first-ever-ai-video-platform-integrating-text-generated-image-and-animation/",
+      "originalUrl": "https://www.forbes.com/sites/gilpress/2022/12/13/first-ever-ai-video-platform-integrating-text-generated-image-and-animation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/639785f66713c491c4620eb9/0x0.jpg?format=jpg&crop=2860,1609,x0,y16,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2022/12/13/first-ever-ai-video-platform-integrating-text-generated-image-and-animation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2022/12/13/first-ever-ai-video-platform-integrating-text-generated-image-and-animation/amp/",
+      "publishedDateTime": "2022-12-13T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-12-13-cloud-natural-language-processing-market-2023-2028-impact-of-existing-and-emerging-flexible-trends-and-topmost-key-players.md",
+      "title": "Cloud Natural Language Processing Market 2023-2028 Impact of Existing and Emerging Flexible Trends and Topmost Key Players",
+      "excerpt": "In 2023,What is “Cloud Natural Language Processing Market” Insights? | [Report Pages No125] Market Growth Reports",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-2023-2028-impact-of-existing-and-emerging-flexible-trends-and-topmost-key-players-2022-12-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-2023-2028-impact-of-existing-and-emerging-flexible-trends-and-topmost-key-players-2022-12-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-13T02:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-13-deep-learning-chipset-market-2023-analysis-business-growth-global-demand-revenue-and-geographical-forecast-to-2029.md",
+      "title": "Deep Learning Chipset Market 2023 Analysis Business Growth, Global Demand, Revenue, and Geographical Forecast To 2029",
+      "excerpt": "In 2023,What is “Deep Learning Chipset Market” Insights? | [Report Pages No120] Market Growth Reports released a report",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-chipset-market-2023-analysis-business-growth-global-demand-revenue-and-geographical-forecast-to-2029-2022-12-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-chipset-market-2023-analysis-business-growth-global-demand-revenue-and-geographical-forecast-to-2029-2022-12-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-13T02:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-13-kami-vision-announces-more-than-800-growth-since-2018-marked-by-global-expansion-executive-hires-and-technology-innovation.md",
+      "title": "Kami Vision Announces More Than 800% Growth Since 2018 Marked by Global Expansion, Executive Hires, and Technology Innovation",
+      "excerpt": "Kami Vision, the computer vision company that provides AI solutions to enterprise, SMB and consumers, today announced record 817% growth between 2018 and 2021, fueled by strong product demand, strategic leadership appointments and global expansion.",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2022/12/13/9728988.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2022/12/13/9728988.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-13T02:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-13-how-ai-can-be-used-ethically-to-monitor-worker-productivity.md",
+      "title": "How AI Can Be Used Ethically to Monitor Worker Productivity",
+      "excerpt": "Morgan Lewis’s Amy Schuh offers guidance for companies looking to employ AI to monitor their workforce. She shares important questions to ask beyond AI’s intended uses, and potential unintended consequences.",
+      "sourceUrl": null,
+      "webUrl": "https://news.bloomberglaw.com/us-law-week/how-ai-can-be-used-ethically-to-monitor-worker-productivity",
+      "originalUrl": "https://news.bloomberglaw.com/us-law-week/how-ai-can-be-used-ethically-to-monitor-worker-productivity",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-13T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "news.bloomberglaw",
+        "domain": "bloomberglaw.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-13-arcimoto-to-develop-driverless-evs-for-tourism-rentals-with-faction-and-gocar-tours.md",
+      "title": "Arcimoto to develop driverless EVs for tourism rentals with Faction and GoCar Tours",
+      "excerpt": "Arcimoto (NASDAQ:FUV) partners with Faction Technology and GoCar Tours to develop up to 310 driverless electric vehicles, powered by Faction’s DriveLink and TeleAssist technologies and ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/news/3916444-arcimoto-to-develop-driverless-evs-for-tourism-rentals-with-faction-and-gocar-tours",
+      "originalUrl": "https://seekingalpha.com/news/3916444-arcimoto-to-develop-driverless-evs-for-tourism-rentals-with-faction-and-gocar-tours",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-12T23:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-13-tesla-our-failure-to-make-actual-self-driving-cars-is-not-fraud.md",
+      "title": "Tesla: Our ‘failure’ to make actual self-driving cars ‘is not fraud’",
+      "excerpt": "Tesla CEO Elon Musk has said numerous times since 2015 that Tesla cars would be entirely self-driving in two years, or less. But years after his self-imposed deadlines have blown by, it still hasn ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2022/12/12/business/tesla-fsd-autopilot-lawsuit/index.html",
+      "originalUrl": "https://www.cnn.com/2022/12/12/business/tesla-fsd-autopilot-lawsuit/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/221212163026-tesla-car-0630-file-restricted-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/12/12/business/tesla-fsd-autopilot-lawsuit/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/12/12/business/tesla-fsd-autopilot-lawsuit/index.html",
+      "publishedDateTime": "2022-12-12T22:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-13-microsoft-now-requires-verification-for-uk-financial-services-advertisers.md",
+      "title": "Microsoft now requires verification for UK Financial Services advertisers",
+      "excerpt": "Search Engine Land » PPC » Microsoft now requires verification for UK Financial Services advertisers Starting early this year, Microsoft will allow only advertisers duly authorized by the UK ...",
+      "sourceUrl": null,
+      "webUrl": "https://searchengineland.com/microsoft-now-requires-verification-for-uk-financial-services-advertisers-390263",
+      "originalUrl": "https://searchengineland.com/microsoft-now-requires-verification-for-uk-financial-services-advertisers-390263",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://searchengineland.com/wp-content/seloads/2022/12/Shutterstock_1174442599.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-12T21:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Search Engine Land",
+        "domain": "searchengineland.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-13-amid-controversy-and-emerging-regulations-around-ai-for-talent-management-beamery-emphasizes-explainability.md",
+      "title": "Amid controversy and emerging regulations around AI for talent management, Beamery emphasizes explainability",
+      "excerpt": "Helping bring explainability to AI in talent management, Beamery announced it has raised $50 million in a series D round of funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/amid-controversy-and-emerging-regulations-around-ai-for-talent-management-beamery-emphasizes-explainability/",
+      "originalUrl": "https://venturebeat.com/ai/amid-controversy-and-emerging-regulations-around-ai-for-talent-management-beamery-emphasizes-explainability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/09/now-hiring-e1670889718739.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 698,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/amid-controversy-and-emerging-regulations-around-ai-for-talent-management-beamery-emphasizes-explainability/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/amid-controversy-and-emerging-regulations-around-ai-for-talent-management-beamery-emphasizes-explainability/amp/",
+      "publishedDateTime": "2022-12-12T21:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-12-13-did-a-robot-write-this-we-need-watermarks-to-spot-ai.md",
+      "title": "Did a Robot write this? we need watermarks to spot AI",
+      "excerpt": "And remarkably, it will soon get better. OpenAI is widely expected to release its next iteration known as GPT-4 in the coming months, and early testers say it is better than anything that came before.",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/opinion/did-a-robot-write-this-we-need-watermarks-to-spot-ai-9695701.html",
+      "originalUrl": "https://www.moneycontrol.com/news/opinion/did-a-robot-write-this-we-need-watermarks-to-spot-ai-9695701.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2021/05/Robot-rock-n-roll-monkey-FTfjMijq-Ws-unsplash.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/opinion/did-a-robot-write-this-we-need-watermarks-to-spot-ai-9695701.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/did-a-robot-write-this-we-need-watermarks-to-spot-ai-9695701.html/amp",
+      "publishedDateTime": "2022-12-12T20:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-13-the-double-edged-sword-of-facial-recognition-technology.md",
       "title": "The Double-Edged Sword of Facial Recognition Technology",
       "excerpt": "On the television crime drama \"FBI,\" Special Agent Jubal Valentine brusquely orders an underling to run a photograph through facial recognition to identify a suspect. Boom! After a rocket-speed search,",
@@ -537,581 +1123,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-procrastination-the-cognitive-biases-that-enable-it-and-why-its-sometimes-useful.md",
-      "title": "Procrastination: The cognitive biases that enable it, and why it's sometimes useful",
-      "excerpt": "As research shows, it is related to a number of cognitive biases. For example, we may disregard the future consequences of an action. This comes into play when I give in to temptation and eat yet ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-12-procrastination-cognitive-biases-enable.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-12-procrastination-cognitive-biases-enable.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-12T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-study-exercise-mindfulness-training-or-both-do-not-improve-cognitive-performance-in-seniors.md",
-      "title": "Study: Exercise, mindfulness training, or both do not improve cognitive performance in seniors",
-      "excerpt": "Older adults work with exercise trainers as part of a study to see whether exercise, mindfulness training, or both might improve cognitive performance in seniors. A new study did not show such ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20221213/Study-Exercise-mindfulness-training-or-both-do-not-improve-cognitive-performance-in-seniors.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20221213/Study-Exercise-mindfulness-training-or-both-do-not-improve-cognitive-performance-in-seniors.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Dementia-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20221213/Study-Exercise-mindfulness-training-or-both-do-not-improve-cognitive-performance-in-seniors.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20221213/Study-Exercise-mindfulness-training-or-both-do-not-improve-cognitive-performance-in-seniors.aspx",
-      "publishedDateTime": "2022-12-12T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-top-tech-brains-to-shape-robotics-strategy.md",
-      "title": "Top tech brains to shape robotics strategy",
-      "excerpt": "Minister for Industry and Science Ed Husic has set up a national robotics strategy committee to advise on boosting automation technologies across the economy.",
-      "sourceUrl": null,
-      "webUrl": "https://thewest.com.au/business/top-tech-brains-to-shape-robotics-strategy-c-9143460",
-      "originalUrl": "https://thewest.com.au/business/top-tech-brains-to-shape-robotics-strategy-c-9143460",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.thewest.com.au/publication/C-9143460/cded5e2d25ed9363eea9ed324380e9a7c62fa3b3-16x9-x0y0w1280h720.jpg?imwidth=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thewest.com.au/business/top-tech-brains-to-shape-robotics-strategy-c-9143460.amp",
-      "cdnAmpWebUrl": "https://thewest-com-au.cdn.ampproject.org/c/s/thewest.com.au/business/top-tech-brains-to-shape-robotics-strategy-c-9143460.amp",
-      "publishedDateTime": "2022-12-12T15:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The West Australian",
-        "domain": "thewest.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-tesla-ordered-to-upgrade-self-driving-computer-for-free-due-to-false-advertising.md",
-      "title": "Tesla ordered to upgrade self-driving computer for free due to ‘false advertising’",
-      "excerpt": "A judge has ordered Tesla to upgrade a customer's self-driving computer for free in order to subscribe to Tesla's Full Self-Driving program.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/12/12/tesla-ordered-upgrade-self-driving-computer-for-free-false-advertising/",
-      "originalUrl": "https://electrek.co/2022/12/12/tesla-ordered-upgrade-self-driving-computer-for-free-false-advertising/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2016/01/elon-musk-twitter1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-12T14:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-yan-receives-nsf-grant-to-advance-multi-gpu-supercomputer-abilities.md",
-      "title": "Yan receives NSF grant to advance multi-GPU supercomputer abilities",
-      "excerpt": "The $275,573 grant will be used to support Yan’s project, titled “Massively Parallel Graph Processing on Next-Generation Multi-GPU Supercomputers.” The impact of this project will be significant, considering that the nation is replacing Central ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.uab.edu/news/people/item/13305-yan-receives-nsf-grant-to-advance-multi-gpu-supercomputer-abilities",
-      "originalUrl": "https://www.uab.edu/news/people/item/13305-yan-receives-nsf-grant-to-advance-multi-gpu-supercomputer-abilities",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.uab.edu/news/media/k2/items/cache/c0dd4284d41c24140acd705579c738fa_XL.jpg",
-          "width": 900,
-          "height": 614,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-12T13:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kaleido Scope",
-        "domain": "uab.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-ai-art-apps-are-cluttering-the-app-stores-top-charts-following-lensa-ais-success.md",
-      "title": "AI art apps are cluttering the App Store’s Top Charts following Lensa AI’s success",
-      "excerpt": "Consumer demand for Lensa AI, and for AI edits more broadly, has now pushed numerous other \"AI\" apps into the U.S. App Store's Top Charts.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/12/12/ai-art-apps-are-cluttering-the-app-stores-top-charts-following-lensa-ais-success/",
-      "originalUrl": "https://techcrunch.com/2022/12/12/ai-art-apps-are-cluttering-the-app-stores-top-charts-following-lensa-ais-success/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/12/lensa-ai-magic-avatar.jpg?resize=1200,730",
-          "width": 1200,
-          "height": 730,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/12/12/ai-art-apps-are-cluttering-the-app-stores-top-charts-following-lensa-ais-success/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/12/ai-art-apps-are-cluttering-the-app-stores-top-charts-following-lensa-ais-success/amp/",
-      "publishedDateTime": "2022-12-12T13:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-robco-links-up-with-14m-led-by-sequoia-to-bring-modular-robotics-to-industrial-smbs.md",
-      "title": "Robco links up with $14M led by Sequoia to bring modular robotics to industrial SMBs",
-      "excerpt": "Robco's current offering is based around three components that focus on lathe turning, laser engraving and palletizing.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/12/11/robco-links-up-with-14m-led-by-sequoia-to-bring-modular-robotics-to-industrial-smbs/",
-      "originalUrl": "https://techcrunch.com/2022/12/11/robco-links-up-with-14m-led-by-sequoia-to-bring-modular-robotics-to-industrial-smbs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/12/Robco_Team.jpg?resize=1200,801",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/12/11/robco-links-up-with-14m-led-by-sequoia-to-bring-modular-robotics-to-industrial-smbs/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/11/robco-links-up-with-14m-led-by-sequoia-to-bring-modular-robotics-to-industrial-smbs/amp/",
-      "publishedDateTime": "2022-12-12T13:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!Finance",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-could-walking-backwards-be-the-secret-to-physical-and-cognitive-health.md",
-      "title": "Could walking backwards be the secret to physical and cognitive health?",
-      "excerpt": "How many steps have you taken today? For many people, walking is one of the easiest, low-impact forms of exercise. Every step can help increase one’s metabolism and, for some of us, help ...",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2022/12/12/could-walking-backwards-be-the-secret-to-physical-and-cognitive-health/",
-      "originalUrl": "https://nypost.com/2022/12/12/could-walking-backwards-be-the-secret-to-physical-and-cognitive-health/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-12T12:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-roadrunner-uses-artificial-intelligence-to-revamp-waste-processing.md",
-      "title": "RoadRunner uses artificial intelligence to revamp waste processing",
-      "excerpt": "CNBC's Diana Olick joins 'Power Lunch' to discuss a clean energy startup making moves to change recycling methods, the logistical considerations involved in waste management, and the value of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/video/2022/12/12/roadrunner-uses-artificial-intelligence-to-revamp-waste-processing.html",
-      "originalUrl": "https://www.cnbc.com/video/2022/12/12/roadrunner-uses-artificial-intelligence-to-revamp-waste-processing.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107164843-16708745101670874507-27115159683-1080pnbcnews.jpg?v=1670875361&w=1920&h=1080",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-12T12:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-brainchip-joins-intel-foundry-services-to-advance-neuromorphic-ai-at-the-edge.md",
-      "title": "BrainChip Joins Intel Foundry Services to Advance Neuromorphic AI at the Edge",
-      "excerpt": "LAGUNA HILLS, CA / ACCESSWIRE / December 11, 2022 / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(ADR:BCHPY), the world's first commercial producer of ultra-low power neuromorphic AI IP ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/brainchip-joins-intel-foundry-services-to-advance-neuromorphic-ai-at-the-edge-01670798126",
-      "originalUrl": "https://www.wsj.com/articles/brainchip-joins-intel-foundry-services-to-advance-neuromorphic-ai-at-the-edge-01670798126",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-12T11:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-feds-warn-against-cybersecurity-risks-associated-with-automation-in-healthcare.md",
-      "title": "Feds warn against cybersecurity risks associated with automation in healthcare",
-      "excerpt": "Examples of automation in cybersecurity include machine learning and artificial intelligence, penetration testing, and automated intelligence collection. HHS said using automated technologies can help healthcare organizations detect threats more quickly and fill gaps in the cybersecurity workforce.",
-      "sourceUrl": null,
-      "webUrl": "https://www.beckershospitalreview.com/cybersecurity/feds-warn-against-cybersecurity-risks-associated-with-automation-in-healthcare.html",
-      "originalUrl": "https://www.beckershospitalreview.com/cybersecurity/feds-warn-against-cybersecurity-risks-associated-with-automation-in-healthcare.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.beckershospitalreview.com/images/13thAnnualReviewerButton.png",
-          "width": 2200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-12T11:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Becker's Hospital Review",
-        "domain": "beckershospitalreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-commercial-artificial-intelligence-market-2022-latest-innovations-future-technology-driving-factors-demand-over-the-worldwide-to-2028.md",
-      "title": "Commercial Artificial Intelligence Market 2022 – Latest Innovations, Future Technology, Driving Factors & Demand over the Worldwide to 2028",
-      "excerpt": "The Commercial Artificial Intelligence Market Report Included Analysis by Key Players - IBM, Google, Microsoft, AWS, General Vision & More. Pune, Maharashtra -- -- 12/12/2022 -- C",
-      "sourceUrl": null,
-      "webUrl": "https://markets.buffalonews.com/buffnews/article/sbwire-2022-12-12-commercial-artificial-intelligence-market-2022-latest-innovations-future-technology-driving-factors-and-demand-over-the-worldwide-to-2028",
-      "originalUrl": "https://markets.buffalonews.com/buffnews/article/sbwire-2022-12-12-commercial-artificial-intelligence-market-2022-latest-innovations-future-technology-driving-factors-and-demand-over-the-worldwide-to-2028",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-12T11:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Buffalo News",
-        "domain": "buffalonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-startup-podium-adds-to-the-growing-list-of-tech-layoffs.md",
-      "title": "Startup Podium Adds To The Growing List Of Tech Layoffs",
-      "excerpt": "Podium - the software designed to help small businesses \"build their online reputation\" - is joining the growing list of tech companies laying off staff. What are the impacts of recent tech layoffs? And how should investors adjust accordingly?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2022/12/12/startup-podium-adds-to-the-growing-list-of-tech-layoffs/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2022/12/12/startup-podium-adds-to-the-growing-list-of-tech-layoffs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63975eaad0868b400d3ef9b4/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 832,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/12/12/startup-podium-adds-to-the-growing-list-of-tech-layoffs/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/12/12/startup-podium-adds-to-the-growing-list-of-tech-layoffs/amp/",
-      "publishedDateTime": "2022-12-12T08:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

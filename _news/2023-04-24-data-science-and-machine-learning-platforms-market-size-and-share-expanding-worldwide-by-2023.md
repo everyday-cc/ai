@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Data Science and Machine-Learning Platforms Market by Product Type and Consumers-2030"
+    excerpt: "Apr 25, 2023 (The Expresswire) -- \"Data Science and Machine-Learning Platforms Market\" Insights 2023 By Applications (Open Source Data Integration"
+    publishedDateTime: 2023-04-26T01:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-platforms-market-by-product-type-and-consumers-2030-2023-04-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "LKBgj6+YtU0WH9sNw3wleUelP6K3iiiZQX8eJPCRtI22T20gqtt9yn1TP5fj4mddsc/phgeCc1ewyRmkHdKjjmQyyIqk1j6eUu96zvx94Oq3Va0vEq6//XKVx2x8DalHOzdGC3q59+CocAaH+S+wsje99HVjNJfmyaPaLR+gJqri4w8zs1WxrQBhr+MzTsOnaz6/p4af7qKcBIDMZHMyoxs+CV4EEXIHDuhEfPJrq1M2VI0Uzh18GsqRysqjhjDsFsPkr2A5j95TbX1RFKW+jRN+Vly/QHuI+diA3RhfeSDMD6Gk71G3S4BHQyTpGZOv4nlHPcwAxXAs/vlBS76liorKqoKgh329xZLnEsMG7VA=;f1an98hAuqtYA5LTLFhNJQ=="
 ---

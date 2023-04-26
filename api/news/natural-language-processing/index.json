@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-04-26-exclusive-swiss-startup-unveils-world-first-ai-translation-service.md",
+      "title": "Exclusive: Swiss startup unveils ‘world-first’ AI translation service",
+      "excerpt": "Interprefy claims to have created the world’s first advanced automated speech translation service for online and live events.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/interprefy-startup-unveils-worlds-first-advanced-automated-speech-translation-service-for-online-and-live-eventsinterprefy",
+      "originalUrl": "https://thenextweb.com/news/interprefy-startup-unveils-worlds-first-advanced-automated-speech-translation-service-for-online-and-live-eventsinterprefy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F04%2FUntitled-design-10.jpg&signature=d0273374d0073cb706cb6f2cdea4ca35",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-26T00:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-26-rsac-2023-securityscorecard-launches-first-gpt-4-security-ratings-platform.md",
       "title": "RSAC 2023: SecurityScorecard launches ‘first’ GPT-4 security ratings platform",
       "excerpt": "At RSAC 2023 in San Francisco, SecurityScorecard announced the launch of the 'first' GPT-4 security ratings platform.",
@@ -52,6 +104,50 @@
         "Natural Language Processing",
         "AI",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-04-25-chatgpt-how-to-use-ai-as-a-virtual-financial-adviser.md",
+      "title": "ChatGPT: How to use AI as a virtual financial adviser",
+      "excerpt": "From chatbots and virtual assistants to fraud detection and risk management, artificial intelligence (AI) is now being used in many areas of finance. But what could an AI system like ChatGPT do for your bank balance?",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-04-chatgpt-ai-virtual-financial.html",
+      "originalUrl": "https://techxplore.com/news/2023-04-chatgpt-ai-virtual-financial.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/chatgpt-how-to-use-ai.jpg",
+          "width": 1356,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-04-chatgpt-ai-virtual-financial.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-04-chatgpt-ai-virtual-financial.amp",
+      "publishedDateTime": "2023-04-25T09:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -414,7 +510,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-market-growth-by-2031-2023-04-24",
       "featuredContent": null,
       "highlight": null,
-      "heat": 221,
+      "heat": 211,
       "tags": null,
       "images": [
         {
@@ -1198,19 +1294,19 @@
     {
       "path": "_news/2023-04-14-timekettle-ai-language-translator-device-redefines-intercultural-communication.md",
       "title": "Timekettle AI Language Translator Device Redefines Intercultural Communication",
-      "excerpt": "Language communication has always been an indispensable link in the journey of cross-cultural communication. As a leading translation tech company, Timekettle has a mission to \"break down language ...",
+      "excerpt": "There was also a cultural exchange session held by the United Nations Women's Conference, where an award ceremony for the renowned calligrapher Li Guiming was held at the Nigerian Permanent ...",
       "sourceUrl": null,
-      "webUrl": "https://www.news-journal.com/timekettle-ai-language-translator-device-redefines-intercultural-communication/article_b3819467-20de-5b86-8876-223cc8bd1b7b.html",
-      "originalUrl": "https://www.news-journal.com/timekettle-ai-language-translator-device-redefines-intercultural-communication/article_b3819467-20de-5b86-8876-223cc8bd1b7b.html",
+      "webUrl": "https://www.asiaone.com/business/timekettle-ai-language-translator-device-redefines-intercultural-communication",
+      "originalUrl": "https://www.asiaone.com/business/timekettle-ai-language-translator-device-redefines-intercultural-communication",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/d/bd/dbdd0081-782c-5ff1-86fa-a8544ad1c59d/64390b906b893.image.jpg?crop=1268%2C666%2C0%2C24&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
+          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Apr2023/Timekettle_Fluentalk_T1_Provides_Real_Time_Translation_Services_Cross_cultural_Exchange_Event_0.jpg?h=c7c06f0b&itok=4SulKGpd",
+          "width": 600,
+          "height": 316,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1220,11 +1316,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-14T01:43:00-07:00",
+      "publishedDateTime": "2023-04-14T04:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Longview News-Journal",
-        "domain": "news-journal.com",
+        "name": "Asia One",
+        "domain": "asiaone.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1322,101 +1418,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-13-can-ai-answer-your-money-questions-we-put-chatbots-to-the-test.md",
-      "title": "Can AI answer your money questions? We put chatbots to the test",
-      "excerpt": "Face it, we could all use a little help with our money. So who better to ask for personal finance advice than a couple of the most powerful chatbots on the planet?",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/markets/wealth/can-ai-answer-your-money-questions-we-put-chatbots-test-2023-04-13/",
-      "originalUrl": "https://www.reuters.com/markets/wealth/can-ai-answer-your-money-questions-we-put-chatbots-test-2023-04-13/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/jNVRinp2T_SXac_4KvfiD0LjfVA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5MBSSC3XD5ORJMYHLNP4RJMSVI.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-13T05:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-12-speech-and-voice-recognition-market-size-share-revenue-trends-and-drivers-for-2023-2032.md",
-      "title": "Speech And Voice Recognition Market Size, Share, Revenue, Trends And Drivers For 2023-2032",
-      "excerpt": "The Business Research Company's Speech And Voice Recognition Global Market Report 2023 – Market Size, Trends, And Market Forecast 2023-2032 The Business Research Company's global market reports ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105992847/Speech-And-Voice-Recognition-Market-Size-Share-Revenue-Trends-And-Drivers-For-2023-2032",
-      "originalUrl": "https://menafn.com/1105992847/Speech-And-Voice-Recognition-Market-Size-Share-Revenue-Trends-And-Drivers-For-2023-2032",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2023-04/12/EP_c6c5dimage_story.jpeg",
-          "width": 1024,
-          "height": 536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-12T06:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

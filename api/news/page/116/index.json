@@ -2,6 +2,599 @@
   "page": 116,
   "value": [
     {
+      "path": "_news/2023-01-19-deep-learning-based-ai-system-helps-infer-and-predict-indonesian-throughflow.md",
+      "title": "Deep learning-based AI system helps infer and predict Indonesian throughflow",
+      "excerpt": "Scientists from the Institute of Oceanology of the Chinese Academy of Sciences (IOCAS) and Nanjing University of Information Science and Technology have successfully constructed an inference and prediction system of the Indonesian Throughflow (ITF) by using a deep-learning method and realized the valid prediction of the ITF transport.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-01-deep-learning-based-ai-infer-indonesian.html",
+      "originalUrl": "https://phys.org/news/2023-01-deep-learning-based-ai-infer-indonesian.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/deep-learning-based-ai.jpg",
+          "width": 1372,
+          "height": 520,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-01-deep-learning-based-ai-infer-indonesian.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-01-deep-learning-based-ai-infer-indonesian.amp",
+      "publishedDateTime": "2023-01-19T06:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-19-ai-improves-field-service-quality-and-customer-experience.md",
+      "title": "AI improves field service quality and customer experience",
+      "excerpt": "Research shows that 80% of high performing field service organizations use artificial intelligence (AI). Also: One bad experience is all it takes to lose a customer. Here are thre",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-improves-field-service-quality-and-customer-experience/",
+      "originalUrl": "https://www.zdnet.com/article/ai-improves-field-service-quality-and-customer-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/f748509203a5703ad1ec5ad7840e4842cdb63d79/2022/12/02/4631c01c-b209-4b8c-a497-091a6049e34c/artificial-intelligence.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-improves-field-service-quality-and-customer-experience/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-improves-field-service-quality-and-customer-experience/",
+      "publishedDateTime": "2023-01-19T06:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-19-teachers-are-adapting-to-concerns-about-a-powerful-new-ai-tool.md",
+      "title": "Teachers are adapting to concerns about a powerful new AI tool",
+      "excerpt": "When Kristen Asplin heard about a powerful new AI chatbot tool called ChatGPT going viral online recently with its ability to write frighteningly good essays in seconds, she worried about",
+      "sourceUrl": null,
+      "webUrl": "https://omaha.com/business/technology/teachers-are-adapting-to-concerns-about-a-powerful-new-ai-tool/article_35f716ea-ee7d-5e9b-abd6-e4ff849fbf40.html",
+      "originalUrl": "https://omaha.com/business/technology/teachers-are-adapting-to-concerns-about-a-powerful-new-ai-tool/article_35f716ea-ee7d-5e9b-abd6-e4ff849fbf40.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/a/54/a54f0a8b-59d1-519a-8837-ecd67d1dad25/63d29488682b5.image.jpg?crop=1762%2C927%2C0%2C124&resize=1200%2C631&order=crop%2Cresize",
+          "width": 1200,
+          "height": 631,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-19T04:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Omaha.com",
+        "domain": "omaha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-19-how-grenoble-has-mastered-industryacademia-science-collaborations.md",
+      "title": "How Grenoble has mastered industry–academia science collaborations",
+      "excerpt": "Despite its small size, the French city’s long history of science and business means it punches above its weight in scientific output.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nature.com/articles/d41586-023-00109-x",
+      "originalUrl": "https://www.nature.com/articles/d41586-023-00109-x",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-023-00109-x/d41586-023-00109-x_23932204.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-19T04:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-19-microsoft-ceo-satya-nadella-claims-artificial-intelligence-will-redefine-business-and-work.md",
+      "title": "Microsoft CEO Satya Nadella Claims Artificial Intelligence Will Redefine Business And Work",
+      "excerpt": "Microsoft CEO Satya Nadella said on Wednesday that the world is approaching a golden age of artificial intelligence by citing a recent instance in which an Indian farmer utilized a ChatGPT interface to access a secret government program online despite only understanding a local dialect.",
+      "sourceUrl": null,
+      "webUrl": "https://in.mashable.com/tech/45748/microsoft-ceo-satya-nadella-claims-artificial-intelligence-will-redefine-business-and-work",
+      "originalUrl": "https://in.mashable.com/tech/45748/microsoft-ceo-satya-nadella-claims-artificial-intelligence-will-redefine-business-and-work",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_in/photo/default/803e1912-a021-46f2-9614-a3c081e6b95c_efqm.620.jpg",
+          "width": 620,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://in.mashable.com/tech/45748/microsoft-ceo-satya-nadella-claims-artificial-intelligence-will-redefine-business-and-work?amp=1",
+      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/45748/microsoft-ceo-satya-nadella-claims-artificial-intelligence-will-redefine-business-and-work?amp=1",
+      "publishedDateTime": "2023-01-19T04:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "in.mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-19-styles-of-machine-learning-intro-to-neural-networks.md",
+      "title": "Styles of machine learning: Intro to neural networks",
+      "excerpt": "Artificial intelligence (AI ... A prominent style of architecture is known as the neural network, a form of so-called deep learning. This article introduces you to neural networks and how ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3683314/styles-of-machine-learning-intro-to-neural-networks.html",
+      "originalUrl": "https://www.infoworld.com/article/3683314/styles-of-machine-learning-intro-to-neural-networks.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2022/11/istock-1188134154-100934502-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3683314/styles-of-machine-learning-intro-to-neural-networks.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3683314/styles-of-machine-learning-intro-to-neural-networks.amp.html",
+      "publishedDateTime": "2023-01-19T04:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-19-cheaters-hacked-an-ai-botand-beat-the-rocket-league-elite.md",
+      "title": "Cheaters Hacked an AI Bot—and Beat the Rocket League Elite",
+      "excerpt": "Expert players of the popular vehicular soccer game have been caught out by lesser players using a superhuman bot built on cutting-edge machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/cheaters-hacked-an-ai-bot-and-beat-the-rocket-league-elite/",
+      "originalUrl": "https://www.wired.com/story/cheaters-hacked-an-ai-bot-and-beat-the-rocket-league-elite/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/63c85c5cd58658572e6f21a2/master/pass/Rocket-League-AI-Bots-Business.jpg",
+          "width": 1620,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/cheaters-hacked-an-ai-bot-and-beat-the-rocket-league-elite/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/cheaters-hacked-an-ai-bot-and-beat-the-rocket-league-elite/amp",
+      "publishedDateTime": "2023-01-19T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-19-weride-l4-self-driving-minibus-receives-beijings-first-road-test-license.md",
+      "title": "WeRide L4 Self Driving Minibus Receives Beijing’s First Road Test License",
+      "excerpt": "WeRide announced that its autonomous technology enabled minibus was the first to officially obtain the road test license in Beijing. The bus is equipped with L4 self driving technology and is a major milestone for the brand.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2023/01/19/weride-self-driving-bus-beijing-license/",
+      "originalUrl": "https://www.gizmochina.com/2023/01/19/weride-self-driving-bus-beijing-license/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2023/01/3caa4ac2-6d02-415f-ab79-f5e38fb17107.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmochina.com/2023/01/19/weride-self-driving-bus-beijing-license/?amp=1",
+      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2023/01/19/weride-self-driving-bus-beijing-license/?amp=1",
+      "publishedDateTime": "2023-01-19T03:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-19-9-ways-entrepreneurs-can-leverage-machine-learning-to-elevate-their-business.md",
+      "title": "9 Ways Entrepreneurs Can Leverage Machine Learning To Elevate Their Business",
+      "excerpt": "However, few are more exciting or have more potential to transform life as we know it than machine learning (ML). Machine learning is a branch of artificial intelligence that describes applications that learn and improve from experience without being explicitly programmed,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/19/9-ways-entrepreneurs-can-leverage-machine-learning-to-elevate-their-business/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/19/9-ways-entrepreneurs-can-leverage-machine-learning-to-elevate-their-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f4e95e4f671590c4412a595/0x0.jpg?format=jpg&crop=7500,4219,x0,y437,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/19/9-ways-entrepreneurs-can-leverage-machine-learning-to-elevate-their-business/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/01/19/9-ways-entrepreneurs-can-leverage-machine-learning-to-elevate-their-business/amp/",
+      "publishedDateTime": "2023-01-19T03:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-19-chinas-self-driving-car-push-hits-legal-cost-roadblocks.md",
+      "title": "China’s self-driving car push hits legal, cost roadblocks",
+      "excerpt": "Baidu, an industry leader ... Among the challenges for self-driving taxi companies is that rules on autonomous driving are set by local governments, with no nationwide legal framework.",
+      "sourceUrl": null,
+      "webUrl": "https://www.freemalaysiatoday.com/category/business/2023/01/19/chinas-self-driving-car-push-hits-legal-cost-roadblocks/",
+      "originalUrl": "https://www.freemalaysiatoday.com/category/business/2023/01/19/chinas-self-driving-car-push-hits-legal-cost-roadblocks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-19T02:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Free Malaysia Today",
+        "domain": "freemalaysiatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-19-investigation-exposes-murkier-side-of-ai-chatbot-industry.md",
+      "title": "Investigation exposes murkier side of AI chatbot industry",
+      "excerpt": "A Time investigation has exposed the murkier side of the AI chatbot industry, highlighting how at least one startup has been using questionable practices.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/investigation-exposes-murkier-side-of-ai-chatbot-industry/",
+      "originalUrl": "https://www.digitaltrends.com/computing/investigation-exposes-murkier-side-of-ai-chatbot-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/01/ChatGPT-OpenAI-logo.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/investigation-exposes-murkier-side-of-ai-chatbot-industry/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/investigation-exposes-murkier-side-of-ai-chatbot-industry/?amp",
+      "publishedDateTime": "2023-01-18T19:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-19-us-keeps-chipping-away-at-dutch-resistance-on-china.md",
+      "title": "US Keeps Chipping Away At Dutch Resistance On China",
+      "excerpt": "Nvidia and AMD Last August, the US government ordered Nvidia and AMD to stop exporting their GPU and AI chips, as well as Nvidia's AI server called DGX, to China and Russia. It explained to Nvidia ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1105448347/US-Keeps-Chipping-Away-At-Dutch-Resistance-On-China",
+      "originalUrl": "https://menafn.com/1105448347/US-Keeps-Chipping-Away-At-Dutch-Resistance-On-China",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-18T19:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-19-lawsuit-claims-ibm-falsely-used-mainframe-sales-to-boost-ai-cloud-businesses.md",
+      "title": "Lawsuit claims IBM falsely used mainframe sales to boost AI, cloud businesses",
+      "excerpt": "A lawsuit has been filed against 13 current and former IBM executives, including CEO and Chairman Arvind Krishna and former CEO Ginni Rometty, accusing the company of securities fraud — bundling ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cio.com/article/419451/lawsuit-claims-ibm-falsely-used-mainframe-sales-to-boost-ai-cloud-businesses.html",
+      "originalUrl": "https://www.cio.com/article/419451/lawsuit-claims-ibm-falsely-used-mainframe-sales-to-boost-ai-cloud-businesses.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cio.com/wp-content/uploads/2023/01/ibm-sign-5.jpg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cio.com/article/419451/lawsuit-claims-ibm-falsely-used-mainframe-sales-to-boost-ai-cloud-businesses.html/amp/",
+      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/419451/lawsuit-claims-ibm-falsely-used-mainframe-sales-to-boost-ai-cloud-businesses.html/amp/",
+      "publishedDateTime": "2023-01-18T19:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2023-01-19-fico-chief-analytics-officer-scott-zoldi-on-responsible-ai.md",
       "title": "FICO Chief Analytics Officer Scott Zoldi on Responsible AI",
       "excerpt": "I spoke with Scott Zoldi, Chief Analytics Officer at FICO, about how companies can ensure they are ethical and appropriate as they deploy artificial intelligence. Among the topics we discussed: As you survey the business market,",
@@ -565,612 +1158,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-19-vdoai-aims-to-bring-new-revenue-to-publishers.md",
-      "title": "VDO.AI Aims To Bring New Revenue To Publishers",
-      "excerpt": "VDO says their AI technology is enabling platforms such as theirs so they can handle over 5 billion transactions daily each.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/waynerash/2023/01/18/vdo-aims-to-bring-new-revenue-to-publishers/",
-      "originalUrl": "https://www.forbes.com/sites/waynerash/2023/01/18/vdo-aims-to-bring-new-revenue-to-publishers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63c826873b5ed2b91de9af4f/0x0.jpg?format=jpg&crop=3840,1699,x0,y219,safe&width=1200",
-          "width": 1200,
-          "height": 531,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/waynerash/2023/01/18/vdo-aims-to-bring-new-revenue-to-publishers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/waynerash/2023/01/18/vdo-aims-to-bring-new-revenue-to-publishers/amp/",
-      "publishedDateTime": "2023-01-18T08:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-19-natural-language-processing-in-artificial-intelligence-what-it-is-and-why-it-matters.md",
-      "title": "Natural Language Processing in Artificial Intelligence: What It Is and Why It Matters",
-      "excerpt": "F or the past few decades, the idea of Artificial Intelligence (AI) has moved from being the stuff of pure science fiction to something that seems to be inching closer to reality.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/natural-language-processing-in-artificial-intelligence:-what-it-is-and-why-it-matters",
-      "originalUrl": "https://www.nasdaq.com/articles/natural-language-processing-in-artificial-intelligence:-what-it-is-and-why-it-matters",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/natural-language-processing-in-artificial-intelligence%3A-what-it-is-and-why-it-matters?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/natural-language-processing-in-artificial-intelligence%3A-what-it-is-and-why-it-matters?amp",
-      "publishedDateTime": "2023-01-18T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-01-18-seeq-recognizes-its-2022-reseller-and-service-partners-of-the-year.md",
-      "title": "Seeq Recognizes its 2022 Reseller and Service Partners of the Year",
-      "excerpt": "Seeq Corporation, a leader in manufacturing and industrial internet of things advanced analytics software, announced its 2022 Reseller and Service Partners of the Year. These partners have been selected for their excellence in providing value to customers,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-seeq-recognizes-its-2022-reseller-service-partners-the-/2023/01/18/9745322.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-seeq-recognizes-its-2022-reseller-service-partners-the-/2023/01/18/9745322.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1985743/SEEQ_PARTNER_OF_THE_YEAR.jpg",
-          "width": 343,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-18T07:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-18-artificial-intelligence-based-medical-device-market-is-set-to-grow-in-forecast-period-2029.md",
-      "title": "Artificial Intelligence Based Medical Device Market is Set to Grow in forecast period 2029",
-      "excerpt": "Artificial Intelligence Based Medical Device Market Report Insights: (Report Pages: 110) “The Artificial Intelligence",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-based-medical-device-market-is-set-to-grow-in-forecast-period-2029-2023-01-18",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-based-medical-device-market-is-set-to-grow-in-forecast-period-2029-2023-01-18",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-18T07:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-18-arrayus-technologies-awarded-funding-to-advance-focused-ultrasound-therapy-through-ai.md",
-      "title": "Arrayus Technologies Awarded Funding to Advance Focused Ultrasound Therapy through AI",
-      "excerpt": "CNW/ - Arrayus Technologies Inc., an innovator in focused ultrasound therapy for oncology, announced today it has been awarded funding of up to $1.9 million from INOVAIT and the Government of",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/01/n30464658/arrayus-technologies-awarded-funding-to-advance-focused-ultrasound-therapy-through-ai",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/01/n30464658/arrayus-technologies-awarded-funding-to-advance-focused-ultrasound-therapy-through-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/30464658",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30464658",
-      "publishedDateTime": "2023-01-18T06:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-18-the-enemies-list-at-madison-square-garden.md",
-      "title": "The ‘Enemies List’ at Madison Square Garden",
-      "excerpt": "This is “The Daily.” [THEME MUSIC] Today, with little warning or regulation, more and more companies have begun using facial recognition technology on their customers, they say as a security ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/01/18/podcasts/the-daily/facial-recognition-madison-square-garden.html",
-      "originalUrl": "https://www.nytimes.com/2023/01/18/podcasts/the-daily/facial-recognition-madison-square-garden.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/01/19/multimedia/18daily-1/13Daily-MSG-audio-app-zcgv-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2023/01/18/podcasts/the-daily/facial-recognition-madison-square-garden.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/01/18/podcasts/the-daily/facial-recognition-madison-square-garden.amp.html",
-      "publishedDateTime": "2023-01-18T05:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-18-ai-bill-of-rights-industry-should-police-itself-claims-ml-company.md",
-      "title": "AI Bill of Rights - industry should police itself, claims ML company",
-      "excerpt": "So, in the long tail of the Facebook/Meta and Cambridge Analytica ... downsides when governments directly regulate an industry like AI or machine learning. It’s a very fast-moving area. Research is rapidly developing and it’s impossible or impractical ...",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/ai-bill-rights-industry-should-police-itself-claims-ml-company",
-      "originalUrl": "https://diginomica.com/ai-bill-rights-industry-should-police-itself-claims-ml-company",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2021-11/5E7E9601-C1C5-4EA8-94A0-7E3ECA1A6C2D.jpeg",
-          "width": 640,
-          "height": 427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/ai-bill-rights-industry-should-police-itself-claims-ml-company?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ai-bill-rights-industry-should-police-itself-claims-ml-company?amp",
-      "publishedDateTime": "2023-01-18T05:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Machine Learning",
-        "AI Ethics",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-01-18-microsoft-expands-availability-of-azure-openai-service.md",
-      "title": "Microsoft expands availability of Azure OpenAI Service",
-      "excerpt": "Microsoft announced that it’s expanding the general availability of Azure OpenAI, which allows more businesses to apply for access to AI models such as GPT-3.5, Codex and DALL•E 2.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmagazine.com/news/emerging-technology/microsoft-expands-availability-of-azure-openai-service",
-      "originalUrl": "https://www.scmagazine.com/news/emerging-technology/microsoft-expands-availability-of-azure-openai-service",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://files.scmagazine.com/wp-content/uploads/2023/01/011823_microsoft_logo.jpg",
-          "width": 1500,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-18T05:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SC Media",
-        "domain": "scmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-18-how-russias-marker-combat-robots-could-impact-ukraine-war.md",
-      "title": "How Russia's 'Marker' Combat Robots Could Impact Ukraine War",
-      "excerpt": "Russian \"Marker\" combat robots are unlikely to be sent into the heavy battles taking place in Ukraine, Newsweek was told after Russian state media announced testing in the country. On Sunday, Dmitry Rogozin,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/russia-marker-combat-robots-ukraine-tests-impact-1774666",
-      "originalUrl": "https://www.newsweek.com/russia-marker-combat-robots-ukraine-tests-impact-1774666",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/2180903/comp-russian-unmanned-ground-combat-vehicles.jpg",
-          "width": 1600,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/russia-marker-combat-robots-ukraine-tests-impact-1774666?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/russia-marker-combat-robots-ukraine-tests-impact-1774666?amp=1",
-      "publishedDateTime": "2023-01-18T05:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-18-the-morning-after-getty-images-sues-ai-art-generator.md",
-      "title": "The Morning After: Getty Images sues AI art generator",
-      "excerpt": "Twitter admits it’s intentionally breaking third-party apps, Getty Images sues AI art generator over data-scraping allegations, Samsung’s new 200-megapixel sensor will probably appear in the Galaxy S23 Ultra.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/the-morning-after-getty-images-sues-ai-art-generator-121539563.html",
-      "originalUrl": "https://www.engadget.com/the-morning-after-getty-images-sues-ai-art-generator-121539563.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-11/a0f17a10-6caf-11ed-adef-6471c8c12f2e",
-          "width": 1536,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/the-morning-after-getty-images-sues-ai-art-generator-121539563.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/the-morning-after-getty-images-sues-ai-art-generator-121539563.html",
-      "publishedDateTime": "2023-01-18T04:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!Finance",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-18-infinite-ai-interns-for-everybody.md",
-      "title": "Infinite AI Interns for Everybody",
-      "excerpt": "I predict 2023 is the year that finally changes, thanks to artificial intelligence. By the end of 2023, AI will be fast becoming one of the most important factors of production in the global economy. It’s true that the history of AI is largely a history ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/artificial-intelligence-labor/",
-      "originalUrl": "https://www.wired.com/story/artificial-intelligence-labor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/63c6ed49e99d817cb5daad76/master/pass/03_Infinite-AI-interns-for-everybody.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/artificial-intelligence-labor/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-labor/amp",
-      "publishedDateTime": "2023-01-18T04:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-01-18-dells-new-poweredge-services-promise-latest-intel-chips-top-end-ai-power.md",
-      "title": "Dell's new PowerEdge services promise latest Intel chips, top-end AI power",
-      "excerpt": "His expectations for the next generation of PowerEdge servers is that it “raises the bar in power efficiency, performance and reliability”. The latest Intel Xeon chips were made available earlier in 2023,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/dells-new-poweredge-services-promise-latest-intel-chips-top-end-ai-power",
-      "originalUrl": "https://www.techradar.com/news/dells-new-poweredge-services-promise-latest-intel-chips-top-end-ai-power",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/JuRfTQSJwfzpgDwoimHNwC-1200-80.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-18T03:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-18-delivering-data-insight-via-natural-language-processing.md",
-      "title": "Delivering data insight via natural language processing",
-      "excerpt": "Improving the Patient Financial Experience Throughout the Patient Journey While many healthcare providers believe that improving the patient financial experience is a critical step for their organization, few have done so successfully. Read this brief to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.healthcarefinancenews.com/video/delivering-data-insight-natural-language-processing",
-      "originalUrl": "https://www.healthcarefinancenews.com/video/delivering-data-insight-natural-language-processing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-18T03:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Healthcare Finance News",
-        "domain": "healthcarefinancenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

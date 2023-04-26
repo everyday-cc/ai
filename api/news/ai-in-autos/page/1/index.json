@@ -46,6 +46,58 @@
       ]
     },
     {
+      "path": "_news/2023-04-25-how-aurora-is-navigating-the-bumpy-road-to-commercial-self-driving-trucks.md",
+      "title": "How Aurora is navigating the bumpy road to commercial self-driving trucks",
+      "excerpt": "Chris Urmson, the CEO of AV company Aurora, talks about the road to commercial operations, the Uber ATG merger and what challenges lie ahead.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/04/24/how-aurora-is-navigating-the-bumpy-road-to-commercial-self-driving-trucks/",
+      "originalUrl": "https://techcrunch.com/2023/04/24/how-aurora-is-navigating-the-bumpy-road-to-commercial-self-driving-trucks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/04/Aurora-terminal-4.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/04/24/how-aurora-is-navigating-the-bumpy-road-to-commercial-self-driving-trucks/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/04/24/how-aurora-is-navigating-the-bumpy-road-to-commercial-self-driving-trucks/amp/",
+      "publishedDateTime": "2023-04-24T18:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-24-this-machine-learning-project-could-help-jumpstart-self-driving-cars-again.md",
       "title": "This machine learning project could help jumpstart self-driving cars again",
       "excerpt": "So far autonomous vehicles just don't seem to be able to do the one essential thing that they should -- predict the glorious unpredictability of other erratic humans.",
@@ -243,6 +295,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-20-is-artificial-intelligence-becoming-smarter-than-humans.md",
+      "title": "Is artificial intelligence becoming smarter than humans?",
+      "excerpt": "More than 1,000 scientists, engineers, many of them leaders in the Big Tech industry, recently signed an open letter calling for a pause in the development of the newest artificial",
+      "sourceUrl": null,
+      "webUrl": "https://www.daytonatimes.com/commentaries/is-artificial-intelligence-becoming-smarter-than-humans/article_ec170ae8-df99-11ed-8e0d-bb1c7f2396d9.html",
+      "originalUrl": "https://www.daytonatimes.com/commentaries/is-artificial-intelligence-becoming-smarter-than-humans/article_ec170ae8-df99-11ed-8e0d-bb1c7f2396d9.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/daytonatimes.com/content/tncms/assets/v3/editorial/7/bd/7bdf133c-df9a-11ed-9675-b32d9f78d52b/64416be8a3611.image.png?resize=400%2C231",
+          "width": 400,
+          "height": 231,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-20T09:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daytona Times",
+        "domain": "daytonatimes.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1283,93 +1378,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-04-14-amazon-jumps-into-the-generative-ai-race-with-new-cloud-service.md",
-      "title": "Amazon jumps into the generative AI race with new cloud service",
-      "excerpt": "The announcement indicates the largest provider of cloud infrastructure won’t be leaving a trendy growth area to challengers such as Google and Microsoft.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/tech/tech-news/amazon-jumps-generative-race-new-cloud-service-rcna79599",
-      "originalUrl": "https://www.nbcnews.com/tech/tech-news/amazon-jumps-generative-race-new-cloud-service-rcna79599",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 361,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-12/211215-las-vegas-the-venetian-expo-aws-ac-1159p-b07aeb.jpg",
-          "width": 2500,
-          "height": 1663,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna79599",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna79599",
-      "publishedDateTime": "2023-04-13T18:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-04-12-regulating-ai-three-experts-explain-why-its-difficult-to-do-and-important-to-get-right.md",
-      "title": "Regulating AI: Three experts explain why it's difficult to do and important to get right",
-      "excerpt": "From fake photos of Donald Trump being arrested by New York City police officers to a chatbot describing a very-much-alive computer scientist as having died tragically, the ability of the new generation of generative artificial intelligence systems to create convincing but fictional text and images is setting off alarms about fraud and misinformation on steroids.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-04-ai-experts-difficult-important.html",
-      "originalUrl": "https://techxplore.com/news/2023-04-ai-experts-difficult-important.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-64.jpg",
-          "width": 1920,
-          "height": 1343,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-04-ai-experts-difficult-important.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-04-ai-experts-difficult-important.amp",
-      "publishedDateTime": "2023-04-12T09:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],
