@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/self-driving-or-driverle
 webUrl: "https://www.marketwatch.com/press-release/self-driving-or-driverless-cars-market-emerging-offers-new-opportunities-forecast-2023-2030-2023-04-22"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -86,20 +86,6 @@ related:
       - url: "https://images.perthnow.com.au/publication/C-10437991/10c76bddecb78bf9b55cf909e0f5e83908f25c18-16x9-x0y92w1220h686.png?imwidth=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Who’s really in control of getting driverless cars safely onto UK roads?"
-    excerpt: "Autonomous vehicles could be operating in Britain within a year, but the legal principles that will govern their use are still far from clear."
-    publishedDateTime: 2023-04-21T10:27:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2023/04/who-s-really-in-control-of-getting-driverless-cars-safely-onto-uk-roads/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 38
-    images:
-      - url: "https://eandt.theiet.org/media/21204/dreamstime_xl_132751765.jpg?crop=0,0.075833333333333336,0,0.43197916666666664&cropmode=percentage&width=1200&height=450&rnd=133264769130000000"
-        width: 1200
-        height: 450
         isCached: true
 
 secured: "ElsQQekI4RrUhpb6lenZzREsrjncAC/GggjW12tub7UkN/CC+QUJ/d/h+ppZmp8ZakKbPOnEXEb90nPam1pXHId53HV0Dj1ai/Wuu8ElfvzmmOBlbanpnB6Q2BWNfn47MEyUK4XtBHtQS2PU6KPVweEhUczmxPHQoCe6B61NH+74D0tgttbJCmwMDXyq3B7MqkyZkIOpCaFNGX19DYqhodpDmFQd+m+nIj7rOJlG7QTouBxRbr+pn+lUcNMauq+yJkbyM5m6B4LtI1moMyFjRtV9myBzJRjAOwdFmBDJ5Vs39Y19LywwGYhmmMHAMH706Yss8nS2xA7IJ1gOP3ePTwihpDQRYMqOm852+4ucbN0=;nrmnzdbO1+NTdpCm0NT0Ow=="

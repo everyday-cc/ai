@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Self Driving Bus Market Size 2023, Latest Trends, Growth Drivers, Industry Analysis by Top Companies and Forecast 2030"
-    excerpt: "Self Driving Bus Market size is projected to grow from 2030 to2023, at a CAGR ofduring the forecast period. They"
-    publishedDateTime: 2023-04-21T12:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-bus-market-size-2023-latest-trends-growth-drivers-industry-analysis-by-top-companies-and-forecast-2030-2023-04-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "zh5iXjautFhOjc0e4rVic8O+mtZfLgOqOwrvPLXlLKoSqbNlPwTqDeCeM5NuAKyA3IBu/Q5LfLNv5oePX6XJyIv/LBHK6NmBA6sK+0JIa54kKRdvRb2pjWD1rwa/xstgtg8ZUfI9D7TkaX2OV0v7GNU7LF3NCRTzGpztUw5cK4BHAHe7jjuqEYd/KzeVbIAcr0EjZh705Fz2J6SL87DURguvi6F/TbgNRbHsO8PqySGlDhDYifY2QYFEJyoqyFNIDykjZZQrO+ShzqrT/pG+WnGu7G9sJ/oem3baCBLJFW6UgrFL7jwjVW5pHtUrAIbrinsaj98hAcJR3vLTYtefSMouHXb9meQ/9qc6Qpou3nM=;4yXn3le2Ni37Jm+Z8w5B5w=="
 ---

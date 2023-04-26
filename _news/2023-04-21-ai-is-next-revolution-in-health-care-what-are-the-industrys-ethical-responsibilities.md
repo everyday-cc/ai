@@ -53,20 +53,6 @@ related:
         width: 1024
         height: 680
         isCached: true
-  - title: "Cold robots revolutionise cold chain logistics"
-    excerpt: "The labour attraction to the cold chain facilities is not growing, however, the market does. The global cold storage market"
-    publishedDateTime: 2023-04-21T09:45:00Z
-    webUrl: "https://www.aircargoweek.com/cold-robots-revolutionise-cold-chain-logistics/"
-    type: article
-    provider:
-      name: AIR CARGO WEEK
-      domain: aircargoweek.com
-    quality: 54
-    images:
-      - url: "https://www.aircargoweek.com/wp-content/uploads/2023/04/Cold-Robots-Revolutionize-Cold-Chain-Logistics.jpeg"
-        width: 1385
-        height: 766
-        isCached: true
   - title: "Manufacturers hope for artificial intelligence boost in factories"
     excerpt: "Manufacturing firms are keen on using AI to automate the repair of complex machinery, thereby increasing efficacy and solving technical issues. This development was showcased in Germany's industrial Home Fair,"
     publishedDateTime: 2023-04-24T02:22:00Z

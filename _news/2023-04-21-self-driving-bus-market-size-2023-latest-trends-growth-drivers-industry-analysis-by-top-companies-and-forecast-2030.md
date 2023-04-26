@@ -29,34 +29,57 @@ images:
     isCached: true
 
 related:
-  - title: "Autonomous Delivery Robots Market 2023-2031"
-    excerpt: "What is the Autonomous Delivery Robots market growth? Autonomous Delivery Robots Market Size is projected to Reach Multimillion USD by 2030, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2030."
-    publishedDateTime: 2023-04-25T10:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/autonomous-delivery-robots-market-2023-2031-2023-04-25"
+  - title: "GPU for Deep Learning Market Sales Volume, And Forecast 2030"
+    excerpt: "The \" GPU for Deep Learning Market\" Size, Trends and Forecasts (2023-2030)â, provides a comprehensive analysis of the"
+    publishedDateTime: 2023-04-25T11:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-sales-volume-and-forecast-2030-2023-04-25"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 69
+    quality: 103
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "3D Camera Market worth $9.1 Billion by 2028 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "The global 3D camera market is expected to be valued at USD 3.6 Billion in 2023 and is projected to reach USD 9.1 Billion by 2028; it"
-    publishedDateTime: 2023-04-24T16:00:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/3d-camera-market-worth-9-1-billion-by-2028---exclusive-report-by-marketsandmarkets-301805209.html"
+  - title: "Deep Learning Chip Market Size, Share, Key Players, Revenue, Demand, and Forecast 2031"
+    excerpt: "Deep Learning Chip Market [ NEW REPORT 2023] offers a whole overview of the present-day market kingdom of affairs and affords a forecast until 2031. This report provides a balanced mix of qualitative and quantitative data that highlights imperative market developments,"
+    publishedDateTime: 2023-04-25T08:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chip-market-size-share-key-players-revenue-demand-and-forecast-2031-2023-04-25"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 17
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 78
     images:
-      - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
-        width: 666
-        height: 350
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "Data Science and Machine-Learning Platforms Market Forthcoming Trends and Share Analysis by 2030"
+    excerpt: "Latest Research Report 2023-2030: “Data Science and Machine-Learning Platforms Market” | Survey with 126 Pages Report"
+    publishedDateTime: 2023-04-21T11:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-platforms-market-forthcoming-trends-and-share-analysis-by-2030-2023-04-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Graphic Processing Unit (GPU) Market Upcoming Trends, Size, Key Players, Revenue, Share, and Forecast 2023 to 2031"
+    excerpt: "Graphic Processing Unit (GPU) Market [NEW REPORT 2023] offers a whole overview of the present-day market kingdom of affairs and affords a forecast until 2031. This report provides a balanced mix of qualitative and quantitative data that highlights imperative market developments,"
+    publishedDateTime: 2023-04-24T06:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/graphic-processing-unit-gpu-market-upcoming-trends-size-key-players-revenue-share-and-forecast-2023-to-2031-2023-04-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 27
 
 secured: "edNbLwEI2uFTSD4fGdQMUN/gO6KnR+d59hzsq3viAuMdw9aycq3vVSIAFZ7ljZfmRyBdn4Wst/fbWYMelOhu/ivWDdb7RJM2/GtKTONYY/CgUBuSDzlqwOQ41KW+sKUj/9aBhI8oojUzULrcrOW0BrDE8B1yfjIIZxmZiQ4wzgaIte72dH3hsq7M5Rv96gjUchYJBqa/XcFMymlMdg5rlH2/lYWRZYyx9S1PC53XXRvrvon/4srGDfENAH7gRYNWnStgaEvG9CBrUmPGLHOurbMwPbNo3ZPWDqyKpKRpM4n5xsp7GCNQGB6iR6SxIJGJIFBuPvIrdZIWJQLfWIcV4RJap54tdYkR3ifEgbMaL5w=;Zi5qeXxRO+oEh8UlejAmnA=="
 ---

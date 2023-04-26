@@ -29,29 +29,29 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning as a Service (MLaaS) Market 2023, Size And Share An Expand Worldwide Business Opportunities"
-    excerpt: "Machine Learning as a Service (MLaaS) Market Size 2023 | New Report (118 Pages) | Analytics | In This Reports Machine Learning as a Service (MLaaS) Market Top Machine Learning as a Service (MLaaS) Companies (BigML,"
-    publishedDateTime: 2023-04-24T03:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-2023-size-and-share-an-expand-worldwide-business-opportunities-2023-04-23"
+  - title: "Deep Learning Camera Market Facts and Figures By 2030"
+    excerpt: "The latest market research report on the Global \"Deep Learning Camera Market\" is segmented by Regions, Country, Company"
+    publishedDateTime: 2023-04-25T12:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-camera-market-facts-and-figures-by-2030-2023-04-25"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 65
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Object Recognition Imaging Systems Market Size From 2023 And Unlimited Opportunities for New Companies"
-    excerpt: "Object Recognition Imaging Systems Market Size 2023 | New Report (127 Pages) | Analytics | In This Reports Object Recognition Imaging Systems Market Top Object Recognition Imaging Systems Companies (Servo-Robot Inc,"
-    publishedDateTime: 2023-04-24T03:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/object-recognition-imaging-systems-market-size-from-2023-and-unlimited-opportunities-for-new-companies-2023-04-23"
+  - title: "Data Science and Machine-Learning Platforms Market Size and Share Expanding worldwide by 2023"
+    excerpt: "Data Science and Machine-Learning Platforms Market Size 2023 | New Report (130 Pages) | Analytics | In This Reports"
+    publishedDateTime: 2023-04-24T03:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-platforms-market-size-and-share-expanding-worldwide-by-2023-2023-04-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 53
+    quality: 43
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -64,6 +64,22 @@ related:
         width: 5784
         height: 3848
         isCached: true
+  - title: "Microsoft Results Top Forecasts, Shares Jump 8% As AI Juices Sales"
+    excerpt: "Microsoft Corp beat Wall Street's estimates for quarterly revenue and profit on Tuesday, driven by growth in its cloud computing and Office productivity software businesses, and the company said artificial intelligence products were stimulating sales."
+    publishedDateTime: 2023-04-26T01:55:00Z
+    webUrl: "https://www.ibtimes.com/microsoft-results-top-forecasts-shares-jump-8-ai-juices-sales-3689088"
+    ampWebUrl: "https://www.ibtimes.com/microsoft-results-top-forecasts-shares-jump-8-ai-juices-sales-3689088?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/microsoft-results-top-forecasts-shares-jump-8-ai-juices-sales-3689088?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 91
+    images:
+      - url: "https://d.ibtimes.com/en/full/4450263/microsoft-logo-seen-issy-les-moulineaux-near-paris.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Microsoft Sees AI Shaking Up Search While Google Calms Investors"
     excerpt: "Alphabet Inc.’s Google and Microsoft Corp., whose quarterly earnings each got a boost from their established search and cloud-computing businesses, used their time with investors to emphasize what’s next: artificial intelligence."
     publishedDateTime: 2023-04-26T00:16:00Z
@@ -297,6 +313,6 @@ related:
       domain: automationworld.com
     quality: 34
 
-secured: "aAqVJUMCJgSGaT1W44yGLLVL1f9H4zHUrW79WCEdZ1/+5+7d1jUmJFUh4QV570ZAocnb6IWLY0BfiREOXHE/55XqvNz3Jc9lag+NCBrYP9xW5LiTBen7K/rSYw3Md6kL5l06lpRe3upOdF+/bcJC7LZ1GgGMGxt6CjQnOSyZKM/8aSavVKXWDAWAv5wq+YszKXTC5gKsGWle4CKg4QHcdplIJ569jBU7YDxAT5tEO4QUCeLAquZFo/palgDseDODEGaOcMpPbnApMZu/lGbRgBYLte6rFBBZwvyjTGm9R1O8Cjz61khpQVX4RycmJ6w2K5Nxibzx1/JgAR7zl86EZ1ZzYQdYOuDsWY2vLeBfiIk=;NbgooUUObEPaloso86Gg6A=="
+secured: "dGCK2gISReyc2jZ3MxT/z3XmWLVm777Nw14qGXbs9VnPUAbm7E+x3UixtbvvcnF04453SniobdXMCRcru8uhJo6fBXh5XLiyIDre7faxHzj1eHqLn48YmGizww0f34JKz2r/SlmnDECGPgbh8Fj4Mng3W43nW7GBsrkC4O2+8bcMzmzr7aWksu3xA8JEY8mlhxJHsbo0bGSghLxIjirZpXngA7r1Y02AqVISKkDjCu9GMffG1fC+Sy+J/nVTgSBlue8aR1ZxcvtL3iD5CT4gV0eJEYtMcMwBZQp0s7rxNEyRwUaXNJXVWiVJxPBPGYGNawd3Sm3W0qYOGVxlZPnomX2j4ocepUA2shRp4Sa723fNljckxIviWq1HijbDjc/lYyNHWOS3W7QErw9TsbAwE1leYistyr+Hc5PHmEFPRDsPEKgLREuCGza76q+3DwptVlHbPhYGzD2H3Prn+fgCU73LYfnEz3AYoELgUIY9+oukaiPHblX/ygk1ZVDuPdAd05Cn5PeZ48PPc4iGMX6HHQ==;IG8ZsGOtW5SBSvZ2wQzgJA=="
 ---
 

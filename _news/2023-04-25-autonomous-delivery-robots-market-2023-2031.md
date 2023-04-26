@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/autonomous-delivery-robo
 webUrl: "https://www.marketwatch.com/press-release/autonomous-delivery-robots-market-2023-2031-2023-04-25"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self Driving Bus Market Size 2023, Latest Trends, Growth Drivers, Industry Analysis by Top Companies and Forecast 2030"
-    excerpt: "Self Driving Bus Market size is projected to grow from 2030 to2023, at a CAGR ofduring the forecast period. They"
-    publishedDateTime: 2023-04-21T12:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-bus-market-size-2023-latest-trends-growth-drivers-industry-analysis-by-top-companies-and-forecast-2030-2023-04-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "3D Camera Market worth $9.1 Billion by 2028 - Exclusive Report by MarketsandMarkets™"
     excerpt: "The global 3D camera market is expected to be valued at USD 3.6 Billion in 2023 and is projected to reach USD 9.1 Billion by 2028; it"
     publishedDateTime: 2023-04-24T16:00:00Z

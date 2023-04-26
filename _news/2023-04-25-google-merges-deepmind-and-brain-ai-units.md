@@ -51,20 +51,6 @@ related:
         width: 684
         height: 300
         isCached: true
-  - title: "Google Forms New DeepMind Team to Develop 'World-Changing' AI Faster"
-    excerpt: "Google is merging the Brain team from Google Research with the DeepMind team to form one AI-focused group called Google DeepMind. In a blog post (Opens in a new window), Google CE"
-    publishedDateTime: 2023-04-21T10:43:00Z
-    webUrl: "https://www.pcmag.com/news/google-forms-new-deepmind-team-to-develop-world-changing-ai-faster"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 84
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/05C1PuwHonzRo3UhK26DH82-1.fit_lim.size_1200x630.v1682073025.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "UK-based DeepMind merges with Google Brain in transatlantic AI tie-up"
     excerpt: "Alphabet has merged DeepMind with Google Brain into a single AI research unit, imaginatively named Google DeepMind"
     publishedDateTime: 2023-04-21T17:23:00Z
@@ -120,20 +106,6 @@ related:
       name: TechRadar
       domain: techradar.com
     quality: 62
-  - title: "Google forms AI dream team by merging 'Brain' and 'DeepMind' projects"
-    excerpt: "Perhaps in response to the disappointing performance of \"Bard,\" Google has announced it will be merging its \"Brain\" and \"Deepmind\" teams."
-    publishedDateTime: 2023-04-21T11:02:00Z
-    webUrl: "https://interestingengineering.com/innovation/google-brain-deepmind-teams-merging"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 54
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/04/21/image/jpeg/huNErHzaB6ZTMTj2Zzp8k9IHCsmziSADkmDQyQQ7.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Google merges its DeepMind and Google Brain AI research groups"
     excerpt: "Google LLC parent Alphabet Inc. is merging its two main artificial intelligence research groups into a single unit. Alphabet Chief Executive Officer Sundar Pichai announced the move in a blog post published today."
     publishedDateTime: 2023-04-21T16:04:00Z

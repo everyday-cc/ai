@@ -87,20 +87,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Who’s really in control of getting driverless cars safely onto UK roads?"
-    excerpt: "Autonomous vehicles could be operating in Britain within a year, but the legal principles that will govern their use are still far from clear."
-    publishedDateTime: 2023-04-21T10:27:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2023/04/who-s-really-in-control-of-getting-driverless-cars-safely-onto-uk-roads/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 38
-    images:
-      - url: "https://eandt.theiet.org/media/21204/dreamstime_xl_132751765.jpg?crop=0,0.075833333333333336,0,0.43197916666666664&cropmode=percentage&width=1200&height=450&rnd=133264769130000000"
-        width: 1200
-        height: 450
-        isCached: true
 
 secured: "ffgWg/S1/PswZWdpqJaikjx4nVfh3rqljA8d/sRv73R+kCryGR9n/u6GrpGGollRJuwVpjxc7dum/fxoIJdA+7pshqztH1tNi0XxKEdMBznJ7Mim7jDiqo0WuXyzxO3phoCnXO4QMCuW58A2diP8Wg1VilwUE5jrgZFxHOnHdURiDSIxVRxXdnH7MpD1rZJkZcA8F794rlifR5UNEnD8s7iRdy7GgbJRjOWE8a2Pz6SMMlYQKkDjCpxarujz8r3qS8nGHwAYZxmvrrWXqWWjkACdAV6BiSWMQYbUyNBMFknjDd3+YS/u/qnoOrzO0u5LDVjnEn+SHvv9w69/o8mlHIkrSwOyuaibHOX/nKNkxZE=;AriKDIrN2+DA4dO5gLDPEg=="
 ---

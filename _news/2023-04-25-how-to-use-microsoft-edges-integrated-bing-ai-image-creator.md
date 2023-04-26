@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/how-to-use-microsoft-edges-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-use-microsoft-edges-integrated-bing-ai-image-creator/"
 type: article
 quality: 104
-heat: 294
+heat: 304
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/107217766-1680185818324-gettyimages-1248335425-raa-openaich230315_npwTZ.jpeg?v=1682370030"
         width: 5784
         height: 3848
+        isCached: true
+  - title: "Microsoft Results Top Forecasts, Shares Jump 8% As AI Juices Sales"
+    excerpt: "Microsoft Corp beat Wall Street's estimates for quarterly revenue and profit on Tuesday, driven by growth in its cloud computing and Office productivity software businesses, and the company said artificial intelligence products were stimulating sales."
+    publishedDateTime: 2023-04-26T01:55:00Z
+    webUrl: "https://www.ibtimes.com/microsoft-results-top-forecasts-shares-jump-8-ai-juices-sales-3689088"
+    ampWebUrl: "https://www.ibtimes.com/microsoft-results-top-forecasts-shares-jump-8-ai-juices-sales-3689088?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/microsoft-results-top-forecasts-shares-jump-8-ai-juices-sales-3689088?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 91
+    images:
+      - url: "https://d.ibtimes.com/en/full/4450263/microsoft-logo-seen-issy-les-moulineaux-near-paris.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Microsoft shares up 8.3% as AI features give a boost to sales"
     excerpt: "Redmond-based company exceeded analysts’ estimates, driven by its cloud computing and Office software businesses"

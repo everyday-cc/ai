@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-cognitive-system-
 webUrl: "https://www.marketwatch.com/press-release/global-cognitive-system-artificial-intelligence-ai-systems-market-forecast-analysis-of-industry-trends-and-opportunities-2023-2030-2023-04-23"
 type: article
 quality: 51
-heat: -1
+heat: 61
 published: false
 
 provider:
@@ -29,15 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence for Accounting Market: Global Trends and Prospects 2023"
-    excerpt: "Pre and Post-Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
-    publishedDateTime: 2023-04-21T09:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-accounting-market-global-trends-and-prospects-2023-2023-04-21"
+  - title: "Radar Market Latest Trends, Segmentation Analysis, Share, Size, and Forecast 2023 to 2031"
+    excerpt: "The global radar market was valued at $32.56 billion in 2019, and is projected to reach $49.43 billion by 2027, to register a CAGR of 3.80% from 2020 to 2027. Radar is an electronic system, which measures the range and behavior of objects by transmitting an electromagnetic pulse at the object."
+    publishedDateTime: 2023-04-24T07:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/radar-market-latest-trends-segmentation-analysis-share-size-and-forecast-2023-to-2031-2023-04-24"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 65
+    quality: 45
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

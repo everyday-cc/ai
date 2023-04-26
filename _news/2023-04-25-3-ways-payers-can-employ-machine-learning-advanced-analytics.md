@@ -21,8 +21,8 @@ topics:
 related:
   - title: "Chicago Blackhawks invest in AI startup Springbok Analytics"
     excerpt: "Spun out of the University of Virginia by three professors, Springbok Analytics uses AI-powered software to transform MRI static 2D imagery into precise 3D muscle assessments. These new views can be used to analyze an individual's muscle system to support injury prevention,"
-    publishedDateTime: 2023-04-25T17:13:00Z
-    webUrl: "https://www.bizjournals.com/chicago/inno/stories/news/2023/04/25/chicago-blackhawks-invest-springbok-analytics.html"
+    publishedDateTime: 2023-04-25T18:13:00Z
+    webUrl: "https://www.bizjournals.com/chicago/news/2023/04/25/chicago-blackhawks-invest-springbok-analytics.html"
     type: article
     provider:
       name: The Business Journals

@@ -29,57 +29,34 @@ images:
     isCached: true
 
 related:
-  - title: "Deep Learning Chip Market Size, Share, Key Players, Revenue, Demand, and Forecast 2031"
-    excerpt: "Deep Learning Chip Market [ NEW REPORT 2023] offers a whole overview of the present-day market kingdom of affairs and affords a forecast until 2031. This report provides a balanced mix of qualitative and quantitative data that highlights imperative market developments,"
-    publishedDateTime: 2023-04-25T08:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chip-market-size-share-key-players-revenue-demand-and-forecast-2031-2023-04-25"
+  - title: "Deep Learning Camera Market Facts and Figures By 2030"
+    excerpt: "The latest market research report on the Global \"Deep Learning Camera Market\" is segmented by Regions, Country, Company"
+    publishedDateTime: 2023-04-25T12:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-camera-market-facts-and-figures-by-2030-2023-04-25"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 78
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Healthcare Market [2023], Global Demand, Industry Size, Revenue Analysis, Regional Share and Competitive Landscape"
-    excerpt: "Fortune Business Insights™ published a \"Artificial Intelligence in Healthcare Market\"Business Analysis and Growth"
-    publishedDateTime: 2023-04-24T04:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2023-global-demand-industry-size-revenue-analysis-regional-share-and-competitive-landscape-2023-04-24"
+  - title: "2023-2030 Cloud Natural Language Processing Market Size with Manufactures and Upcoming Opportunities"
+    excerpt: "Apr 22, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The 2023 research report on the"
+    publishedDateTime: 2023-04-22T10:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-2030-cloud-natural-language-processing-market-size-with-manufactures-and-upcoming-opportunities-2023-04-22"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 49
+    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Radar Market Latest Trends, Segmentation Analysis, Share, Size, and Forecast 2023 to 2031"
-    excerpt: "The global radar market was valued at $32.56 billion in 2019, and is projected to reach $49.43 billion by 2027, to register a CAGR of 3.80% from 2020 to 2027. Radar is an electronic system, which measures the range and behavior of objects by transmitting an electromagnetic pulse at the object."
-    publishedDateTime: 2023-04-24T07:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/radar-market-latest-trends-segmentation-analysis-share-size-and-forecast-2023-to-2031-2023-04-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Graphic Processing Unit (GPU) Market Upcoming Trends, Size, Key Players, Revenue, Share, and Forecast 2023 to 2031"
-    excerpt: "Graphic Processing Unit (GPU) Market [NEW REPORT 2023] offers a whole overview of the present-day market kingdom of affairs and affords a forecast until 2031. This report provides a balanced mix of qualitative and quantitative data that highlights imperative market developments,"
-    publishedDateTime: 2023-04-24T06:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/graphic-processing-unit-gpu-market-upcoming-trends-size-key-players-revenue-share-and-forecast-2023-to-2031-2023-04-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
 
 secured: "LKBgj6+YtU0WH9sNw3wleUelP6K3iiiZQX8eJPCRtI22T20gqtt9yn1TP5fj4mddsc/phgeCc1ewyRmkHdKjjmQyyIqk1j6eUu96zvx94Oq3Va0vEq6//XKVx2x8DalHOzdGC3q59+CocAaH+S+wsje99HVjNJfmyaPaLR+gJqri4w8zs1WxrQBhr+MzTsOnaz6/p4af7qKcBIDMZHMyoxs+CV4EEXIHDuhEfPJrq1M2VI0Uzh18GsqRysqjhjDsFsPkr2A5j95TbX1RFKW+jRN+Vly/QHuI+diA3RhfeSDMD6Gk71G3S4BHQyTpGZOv4nlHPcwAxXAs/vlBS76liorKqoKgh329xZLnEsMG7VA=;f1an98hAuqtYA5LTLFhNJQ=="
 ---

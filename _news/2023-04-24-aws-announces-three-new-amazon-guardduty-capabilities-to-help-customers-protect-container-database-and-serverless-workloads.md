@@ -1,32 +1,22 @@
 ---
 category: news
 title: "AWS Announces Three New Amazon GuardDuty Capabilities to Help Customers Protect Container, Database, and Serverless Workloads"
-excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced three new capabilities for"
-publishedDateTime: 2023-04-24T12:00:00Z
-originalUrl: "https://www.marketwatch.com/press-release/aws-announces-three-new-amazon-guardduty-capabilities-to-help-customers-protect-container-database-and-serverless-workloads-2023-04-24"
-webUrl: "https://www.marketwatch.com/press-release/aws-announces-three-new-amazon-guardduty-capabilities-to-help-customers-protect-container-database-and-serverless-workloads-2023-04-24"
+excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced three new capabilities for Amazon GuardDuty, AWS’s threat detection service, that further strengthen customer security through expanded coverage and continuous enhancements in machine learning,"
+publishedDateTime: 2023-04-24T12:25:00Z
+originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AMZN-Q/pressreleases/16238204/aws-announces-three-new-amazon-guardduty-capabilities-to-help-customers-protect-container-database-and-serverless-workloads/"
+webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AMZN-Q/pressreleases/16238204/aws-announces-three-new-amazon-guardduty-capabilities-to-help-customers-protect-container-database-and-serverless-workloads/"
 type: article
-quality: 57
-heat: 67
+quality: 7
+heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Globe and Mail
+  domain: theglobeandmail.com
 
 topics:
   - AWS AI
   - AI
-
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "AWS Announces 3 New Amazon GuardDuty Capabilities"
@@ -44,6 +34,6 @@ related:
         height: 674
         isCached: true
 
-secured: "ebpA5iKcHLbnjxjD1BHHyfohHZG3vbHghEFouNMzxZKB2T4VcaHnTpTgsq6ZZYqArjumtPbg6QF0gZrTQWnJC/7YOk5TebRjvS3qC4pHSq1yt4mry2L5CKFnx4cOjVrVueJ6ryxo99yP4IrLiJ/3yUJk/PQUHRuuuU0O0zVKnqY6CxLJBeUY5KEtE7Vr79KgI4W8+aDN8cv259bKwWqhQIHnXy85B9m+tRllF7VAnJfkrYjqRi3+8470udRXdWeLnezil/0MeWVIkHZbOqPGaauF6ZAnbKnvhnq9wqvYXR9g3zNPl34+VoRb0uZLLthZlDhVMURRgFK+N5BsEuuHsBwX4nkBAmB45Hrdpfje66M=;r42DW3irW7FHdWOAlIPodQ=="
+secured: "BZpgZ8RWy18Ab6Q0H62YVa6YJ4jg3o3tlJY8ZMfrGliiAF5sy4YI39o0EncSM9iMR5alWKr40qZjfBd3hDgMflVT6PbWG5hd6JlDOC9EgcCwnYQ5DW7lB1WFtba2gAQl/xxkTF4iDDUSVNgH3moVhDbPR2gpckmzxZSD7ns8zCRza9wPzLmOht9v4+oZPriSY8wNOtQrj0BYvBiDNTd+QQq4F3VzJuou1ovBFUIpHXArvzGGBjz+OnPKlTO/mjS6WzUm6Th7X41PT6eNkA10EkPO9oBqtPczGq4OUR/VS0BoKqarQuLAJt5hqvhpfTYKy7OnMeoYjWUEwtASJqB3kmLxTc/7VBejgQTuDuzox5Y=;UQ/HtdyCVM7Z/JS3nI0ijQ=="
 ---
 

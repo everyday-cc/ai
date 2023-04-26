@@ -51,20 +51,6 @@ related:
         width: 1024
         height: 680
         isCached: true
-  - title: "Cold robots revolutionise cold chain logistics"
-    excerpt: "The labour attraction to the cold chain facilities is not growing, however, the market does. The global cold storage market"
-    publishedDateTime: 2023-04-21T09:45:00Z
-    webUrl: "https://www.aircargoweek.com/cold-robots-revolutionise-cold-chain-logistics/"
-    type: article
-    provider:
-      name: AIR CARGO WEEK
-      domain: aircargoweek.com
-    quality: 54
-    images:
-      - url: "https://www.aircargoweek.com/wp-content/uploads/2023/04/Cold-Robots-Revolutionize-Cold-Chain-Logistics.jpeg"
-        width: 1385
-        height: 766
-        isCached: true
   - title: "AI is 'next revolution' in health care. What are the industry's ethical responsibilities?"
     excerpt: "Robots won't be doing your surgery anytime soon. But AI has a major role to play in health care. What are the human ethical responsibilities around that technology?"
     publishedDateTime: 2023-04-21T14:52:00Z

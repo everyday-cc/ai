@@ -2,9 +2,9 @@
 category: news
 title: "Chicago Blackhawks invest in AI startup Springbok Analytics"
 excerpt: "Spun out of the University of Virginia by three professors, Springbok Analytics uses AI-powered software to transform MRI static 2D imagery into precise 3D muscle assessments. These new views can be used to analyze an individual's muscle system to support injury prevention,"
-publishedDateTime: 2023-04-25T17:13:00Z
-originalUrl: "https://www.bizjournals.com/chicago/inno/stories/news/2023/04/25/chicago-blackhawks-invest-springbok-analytics.html"
-webUrl: "https://www.bizjournals.com/chicago/inno/stories/news/2023/04/25/chicago-blackhawks-invest-springbok-analytics.html"
+publishedDateTime: 2023-04-25T18:13:00Z
+originalUrl: "https://www.bizjournals.com/chicago/news/2023/04/25/chicago-blackhawks-invest-springbok-analytics.html"
+webUrl: "https://www.bizjournals.com/chicago/news/2023/04/25/chicago-blackhawks-invest-springbok-analytics.html"
 type: article
 quality: 17
 heat: -1
@@ -60,6 +60,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "wrBzhGALL3vxkiL8/zhkiDGli7Gkpy9VdznBG7nX/qc4MKR2zvWELNyoPVV1g2ip8GOoBN8A/IfwTxC8jf3lFYrpn7JGKUL+AWS5vLzdHYq8gwc1eYgfjimTRzAVwLofEIkZqS4ANBPx11eoxFqEQjDS9cqUQSxLlrH0xITvpVlpVH+7ZlT3p9fbeISGOLs78PZUvuQ1IX4TuZkjwyuc+xJDVsAgU/AjpPsxZAuvcs6XNItk+A85SvXjSR+56+ZLosJvl9BvU/exBxQ8DnyekeuwWSDOkVsvW6sMlUNYRr89YFekPu8S/M+o1clJ4/oa60X9NeszcHNVUtarxsB3BpfdmoZhGdaE06jCpPgvR/EmlXJfdjlaHQwdUV0oJmNc3rLkZR5sPJ71oRzbeRqlD0/993fz+LmdsMlc4hGWcMNAIdZ9Oy/OpzDuiq2gWHhSNBO8W4udlmcQ5mCr/r3WUoB79xXePKCNDrtDE5uEwLg2avqenDg8hsES3NsFovHWCXFcYBbGPweQGep6FKTRfA==;zXaneKjm/YUifdGnw7oCGw=="
+secured: "1ajdACxUKz1eEzQply9GVYo+0XVQWQMsLI9F2LYKtYLMhTysHBDkJxOjffE6QlWJwAzBJWniqO8J6NE30yNeDmAF2FgpJfAFYUuhmgqSNBENrq3ULePqiFmg2duKeBGYuXRA3p8fwQ4Me1/1nVSuPU0GQuZk6R4WP2lNa0W7K35YH+uPIPq6xm0ymYGH3tTW6tHYmvFXaU83nYGyuthWkVB6I+d4npV/WBPa83nGV85QWCCPQbsNOPatCvNULAiUcQETfJ6MFh6BbufstfBisECNqOp4R7JKyRBk5Cc20atUTDEN+qFzxhpBblEuSyejvX1j9zPltNNTRmnDTlnzVMrJrNx1RkcMjBLJCIA3y1LUzS/fCh1wff7u8JyqHg9WYvao2FG5L1kTQLr/yIU0LoI4HspT4njR0dS/1hUwlOsAZeadMU1teakLMIhit2/DUUXra+sFKeZXWISDwrHqFx2GIY8Po8erc/vm5pj9KAclCTrHxXVj9sRY+rLSr1ptr3BF5DNbqarYKMKr3A+EFg==;qXpARXYfpyBDkYXTxpt49g=="
 ---
 
