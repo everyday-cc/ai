@@ -26,7 +26,7 @@
       "twitter": {
         "username": "tesla",
         "url": "https://twitter.com/tesla",
-        "followers": 19981681
+        "followers": 19982170
       },
       "size": "10,001+ employees",
       "yearFounded": 2003,
@@ -79,7 +79,7 @@
       "twitter": {
         "username": "NvidiaAI",
         "url": "https://twitter.com/NvidiaAI",
-        "followers": 117408
+        "followers": 117416
       },
       "size": "10,001+ employees",
       "yearFounded": 1993,
@@ -139,7 +139,7 @@
       "twitter": {
         "username": "cruise",
         "url": "https://twitter.com/cruise",
-        "followers": 39153
+        "followers": 39178
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2013,
@@ -222,7 +222,7 @@
           "url": "https://www.youtube.com/watch?v=4J742uB60NY"
         }
       ],
-      "heat": 231,
+      "heat": 232,
       "tags": [
         "Autonomous Vehicles"
       ],
@@ -261,7 +261,7 @@
       "twitter": {
         "username": "Waymo",
         "url": "https://twitter.com/Waymo",
-        "followers": 79544
+        "followers": 79548
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2009,
@@ -320,7 +320,7 @@
       "twitter": {
         "username": "DidiGlobal",
         "url": "https://twitter.com/DidiGlobal",
-        "followers": 4416
+        "followers": 4417
       },
       "size": "5,001-10,000 employees",
       "yearFounded": 2012,
@@ -364,7 +364,7 @@
       "twitter": {
         "username": "zoox",
         "url": "https://twitter.com/zoox",
-        "followers": 23338
+        "followers": 23340
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2014,
@@ -576,7 +576,7 @@
       "twitter": {
         "username": "Aptiv",
         "url": "https://twitter.com/Aptiv",
-        "followers": 18639
+        "followers": 18638
       },
       "yearFounded": 0,
       "locations": [
@@ -675,7 +675,7 @@
       "twitter": {
         "username": "NautoInc",
         "url": "https://twitter.com/NautoInc",
-        "followers": 3677
+        "followers": 3676
       },
       "size": "51-200 employees",
       "yearFounded": 2015,
@@ -1154,7 +1154,7 @@
       "twitter": {
         "username": "Cortica",
         "url": "https://twitter.com/Cortica",
-        "followers": 438
+        "followers": 439
       },
       "size": "51-200 employees",
       "yearFounded": 2007,
@@ -1413,7 +1413,7 @@
       "twitter": {
         "username": "May_Mobility",
         "url": "https://twitter.com/May_Mobility",
-        "followers": 2780
+        "followers": 2779
       },
       "size": "51-200 employees",
       "yearFounded": 2017,
