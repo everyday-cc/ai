@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Timekettle AI Language Translator Device Redefines Intercultural Communication"
-excerpt: "There was also a cultural exchange session held by the United Nations Women's Conference, where an award ceremony for the renowned calligrapher Li Guiming was held at the Nigerian Permanent ..."
-publishedDateTime: 2023-04-14T11:15:00Z
-originalUrl: "https://www.asiaone.com/business/timekettle-ai-language-translator-device-redefines-intercultural-communication"
-webUrl: "https://www.asiaone.com/business/timekettle-ai-language-translator-device-redefines-intercultural-communication"
+excerpt: "Language communication has always been an indispensable link in the journey of cross-cultural communication. As a leading translation tech company, Timekettle has a mission to \"break down language ..."
+publishedDateTime: 2023-04-14T08:43:00Z
+originalUrl: "https://www.news-journal.com/timekettle-ai-language-translator-device-redefines-intercultural-communication/article_b3819467-20de-5b86-8876-223cc8bd1b7b.html"
+webUrl: "https://www.news-journal.com/timekettle-ai-language-translator-device-redefines-intercultural-communication/article_b3819467-20de-5b86-8876-223cc8bd1b7b.html"
 type: article
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: Longview News-Journal
+  domain: news-journal.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Apr2023/Timekettle_Fluentalk_T1_Provides_Real_Time_Translation_Services_Cross_cultural_Exchange_Event_0.jpg?h=c7c06f0b&itok=4SulKGpd"
-    width: 600
-    height: 316
-    isCached: true
-
-secured: "NdciCaQGkgshVpjYhz03J42sVlpiYXJh02IxKYiXk0SPYygZbwrWyJdQjp31x9NpskobgzqEK753f6NkgggbkGBurp6jNsivRxxkT6MGpobTmKzsUVfKHZfwNb6RJBBuwDrXi2NxDrEESal+yvc2W9XkWu27fQ+nofU+0thPard+gkNdqH5UkQYjQHcZyOd7HCm6F5V+kl2V1p7OHlPOFPA8sJ7ImHCm92vGcN6FcMHJdv58/H0GJdE1CJwLxo7tCh8FTichiUCA2xTXNaFcf7/mea7bdTlznWM4CLAeH36uZHRMqpMj/1KGhlPqT1HAnzUK5Ll4EDPbKIYqjOtvy3gdcBCUzNsofulxJ6j1UAg=;wDup/Uz/+KWr+95b+RbuKg=="
+secured: "sSRgL2KC0C+xSB15+JhsZXj0JJH1vEHsonmokfwiZu02SFwVZwT2vZa8gNab2N/jJjKDpgM//g4lCYPEakzezLgwK4Pi2zsp3vBjEjSDYOkajPRXrwQh95acjQhapLsfYQn18joeWAMfqQLrwOoIsWQa1UQBxJo0SAljcoMzTOyp6vefA7XqmW8s8Ftw7P3qtPnWLMNBg0bCWXOW8gYXEI65tBFWSg2bamc5E7HeLb8PuupvuWFMAiNy/PnxCV5NRwYbqNN95XVmVSCWmposzh4GbinBg1vQqyw/wzS377fUvMNDLLcwW819iJilX5Ps6nr0KiPK7hMmQgMr1mP0dwThlv3D4VcZ9F+YPogythA=;/nxSRQdJBK9GWlm7iR41ZA=="
 ---
 

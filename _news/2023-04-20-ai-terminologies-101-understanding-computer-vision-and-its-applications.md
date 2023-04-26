@@ -2,9 +2,9 @@
 category: news
 title: "AI Terminologies 101: Understanding Computer Vision and Its Applications"
 excerpt: "Computer Vision is a type of artificial intelligence (AI) that enables machines to interpret and understand the visual world. Computer Vision algorithms can analyse and extract information from ..."
-publishedDateTime: 2023-04-20T16:37:00Z
-originalUrl: "https://yourstory.com/2023/04/ai-terminologies-101-understanding-computer-vision"
-webUrl: "https://yourstory.com/2023/04/ai-terminologies-101-understanding-computer-vision"
+publishedDateTime: 2023-04-20T15:29:00Z
+originalUrl: "https://yourstory.com/preview/2023/04/ai-terminologies-101-understanding-computer-vision"
+webUrl: "https://yourstory.com/preview/2023/04/ai-terminologies-101-understanding-computer-vision"
 type: article
 
 provider:
@@ -15,12 +15,6 @@ topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/NucleusAIwall-elikecuterobotsmilingandreadingabooklo64cf6bf2-2dc6-4006-80fc-53762f2dce63-1682004860300.jpg?fm=png&auto=format"
-    width: 1536
-    height: 768
-    isCached: true
-
-secured: "kXIDdxZx7GzRe3+KiKvwQ6mUdeG2ZEkfJoq5V+ofzLBZ9FrKESeBi42UOGIyGOFdotchwEUcyUkMHRhNEoo4lRrX3D+lOxHaAPMaXZVw2Kb5cFleOQFt5hQH32lndjYW4WhvFvgHXjY9kqEKFCwsW6f2CnIs+tDkY+Zd4gbZRt8CcPNzldYAWzQ7+g62FuvKDrlKKKsRN7WlNgr9Tf5DsXmlSvSkdzKu3WwtZ1VK6K7Nq82w4p7l0Bf/jBBFq7V8EdSmnbHtU+5Vnx7wHPuIO+UjyC6OC4ajo+cmL0vs45GxOUeUMavERy/SInUZNKUwZJtQIO5tSXLb1Az2vQQRrIEXcaO1JXOTz8Q2SygUdho=;2V0ZG1co3COoxujR8rzF3g=="
+secured: "4WcUL4xCiVaw6o3MmS0OT5nCmMBdXoYqduZ/xu/OzYcOLs7n7ACC9OrkaDo4q2DaGbi3YO85ggy7IuTsB0+xH1Ho13t5ZXwnMxensQZGebUVBJryrzsH6neQgYK2a0TDv0S2mXNOrpGUr6AxO4DRMDsXxmZPN8lBadBZe+YiDN+RQi/toQsCWTPt6cMh6kmRCmQkG0GtyuGOOEnv0psX5qJb9Tj0iaIDDSudk0GVvcqZ7jHz7ogSpCI8R4qUNIIhrAxfPvIIF22iAzqhh6cuqc64ZmTdFod/PkY4pMQldusZLLr4iVQv3UBUAJzI92ohU5CfqOVG2+akDq7KwiufOxB3ftgfge6DLo+mIQOEC/A=;xJdr1EywigdGNjGiBTPemg=="
 ---
 
