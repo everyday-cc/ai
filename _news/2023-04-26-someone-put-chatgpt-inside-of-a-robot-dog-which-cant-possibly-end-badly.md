@@ -201,6 +201,20 @@ related:
         width: 2560
         height: 1631
         isCached: true
+  - title: "What Can ChatGPT Tell Us About the Evolution of Artificial Intelligence?"
+    excerpt: "In the last decade, artificial intelligence (AI) has elicited both dreams of a massive transformation in the tech industry  and a deep anxiety surrounding its potential ramifications. Elon Musk, a leading voice in the tech industry,"
+    publishedDateTime: 2023-04-26T16:07:00Z
+    webUrl: "https://www.unite.ai/what-can-chatgpt-tell-us-about-the-evolution-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 38
+    images:
+      - url: "https://www.unite.ai/wp-content/uploads/2023/04/evolution-ai-896x600.png"
+        width: 896
+        height: 600
+        isCached: true
   - title: "Chat AI Chatbot Assistant: Revolutionizing Productivity And Assistance Powered By Chatgpt"
     excerpt: "Chat AI Chatbot powered by ChatGPT Discover the power of intelligent and engaging conversations with the Chat AI Chatbot Assistant app, n"
     publishedDateTime: 2023-04-25T21:52:00Z
@@ -285,6 +299,6 @@ related:
       domain: benzinga.com
     quality: 0
 
-secured: "gIULJUazmv8Vr9AxBPXFT8dzcDhcrpt4cFaIF1I+9f0DGG6spnGKonkSP0xG+IffagZsjk16Z88yUYt6iWYDXFTvWYmN4XEdncS8wpivpVylWWeFeB4m77Z1J+N2cF8GvU6GtscnY7O3F8ZwpD8as4Vbn5Ji17spUPr0utbGhR1gPqIalJjYljmI60pyN6mG1e5pi0ieZ8+h+8PlCp1bPl3w8/KCH73DdInbqQuEPxFDyO3pnvLar6TAiHbDwBxyBxdR70954CoAR5sqQmWYJEMKslMnDvKLnTKd6SlJ6LIL++oTpWZDT8jM18wkoZdkE0X0kjVLNi36DnuQ+Ama7LyHWEIVVmWw6fXrBeADWV8=;tfalfFbFZB7uMh1pSKF8Lw=="
+secured: "aZJyfStkPTMqmYFIaSMZozIf0KLKkISU14wb2hsE61JEW8ucETeRb5N/gZmj1anbF7Ytyi3cvImeqrcJKAmcmwZKj+Y2ryOGzB6z+q0H0jJ1QEa6iIkZ722sFkxhtQ/qBMhtqwsPIUwqVyaIcyZFSe0AUp4yr2J6s0sz2oIeo/qpOzaek9RMwj2yJfUDfsmUEgpPnHpraDMLX+oDcvL12OUyAv8/2N2zDdq+H5X/Bcb7HQ1dfPir2LsklrGLNbgw0NlCcJeJSB2wwdTsnp1qVITKqjjNRna3AVNgKryuxAJ0cpc1nUqCtjK7/F9DrCJGZ9J6ee1kN3QlIs7VkAoR5bdlOHZ69ZOowtrcA3hx1keE2GSshkoxWenJzh3xCUApyiOh7vj+AYSdaeGYGfh0JUDAmKCCvnKvr2Xh9eIWurO7MsiHzM2hRMBLuxPCOUcEPKCo7aTraepyW/S6Sdy2GdGj6Qtc5/mkeEvfU0Y3/ozMYw1+TlDAvF5PE7+WUkUu6Utk1TNAnoT5t7YdueaaYg==;CE+1Ixe78IcAb09/ThQxOw=="
 ---
 

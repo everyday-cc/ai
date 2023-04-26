@@ -1,12 +1,12 @@
 ---
 category: news
 title: "The AI revolution: Google's artificial intelligence developers on what's next in the field"
-excerpt: "The revolution in artificial intelligence is at the center of a debate ranging from those who hope it will save humanity to those who predict doom. Scott Pelley headed to Google to see what's coming next in AI."
-publishedDateTime: 2023-04-17T11:00:00Z
-originalUrl: "https://www.cbsnews.com/sanfrancisco/news/ai-advancements-google-artificial-intelligence-future/"
-webUrl: "https://www.cbsnews.com/sanfrancisco/news/ai-advancements-google-artificial-intelligence-future/"
-ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/ai-advancements-google-artificial-intelligence-future/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/ai-advancements-google-artificial-intelligence-future/"
+excerpt: "Artificial intelligence solved an impossible problem in biology and robots powered by AI taught themselves to play soccer. The machines never get tired. They never get hungry. They learn ..."
+publishedDateTime: 2023-04-16T19:02:00Z
+originalUrl: "https://www.cbsnews.com/news/ai-advancements-google-artificial-intelligence-future-60-minutes-2023-04-16/"
+webUrl: "https://www.cbsnews.com/news/ai-advancements-google-artificial-intelligence-future-60-minutes-2023-04-16/"
+ampWebUrl: "https://www.cbsnews.com/amp/news/ai-advancements-google-artificial-intelligence-future-60-minutes-2023-04-16/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/ai-advancements-google-artificial-intelligence-future-60-minutes-2023-04-16/"
 type: article
 
 provider:
@@ -14,7 +14,7 @@ provider:
   domain: cbsnews.com
 
 topics:
-  - AI in Robotics
+  - AI in Autos
   - AI
 
 images:
@@ -23,6 +23,6 @@ images:
     height: 630
     isCached: true
 
-secured: "EjOcmpi5ywrXUt2AvP0ChBax3td4kvZPKL8eIFPHWeYXDMwDafgYPXQDR4hWH4UIRMMeFv2oJhmXcKb2BiIU9aTKuK9X/WJpPRi2e64nL4uzE0rI8TPwbnm79xu6QCWC0grlwEW4boKGgFVN6ULNIOZWo929FYXde2lPtRio+YRpli8TJXKgGLVkRzLp7iGYXRJL1I3pvC18qCeGJ6L+4nBLStkDBNveE3fyk6wZaen1sEhdTCl5iMXu8XttovVxIJcS6u4064IrIXaFA5I9sEbI+oliwff4wAOISBjpU+jKzzsCs8YYAp8YR5H/3jjTJF2udKEzG1k06nSDygoO+at21SbCi/l/eaQcvHUCGqm0UnOf7b4eJO4xWdEpBMh28gu1s6+fJVZ9gGuH1CvwkG6PJrXq5GGdIAF3lQvNy1lB5M2zZzNRjgk7a9Jj7RySmYqOrWHNStV56qmBF1kFdCs2MnZiA2MrjSrC571RD28vDV7T8lIlXUhy2fOu1KWmxklV7WnBxZlUS/FRgrihUw==;iJnHp9mjNQQvD56YJmYmJg=="
+secured: "X03GRVYcajWVulcsevJ0eMlSNNrMhZF1eXwedGlJHWssImHhpRRzp3dobHcYIKC1BJqN46w7JhimDqKOxBS43MUbWQhtGFcDlKu2CHPxN6hLYyvW6kgvHRbZgcFMUZ5l54z8fYRBJEHcZwDrsl/xO/PvTV0VRni6Oxygc8lq+oIvqbYDAUMs3JMrwmSIV89WbS/kMTncBinu5eKv3xQtQYocYpkvqIrL2q+OdqxaQY4yPj13g+6lT3uG9sTiUynutJprWibcbjLRKlYwAQ+bNGVQ3mwGLLNdqeU8yn1R0JVvrxDNWIHZUuk3HSCHf4/nlcWN1SjuQAiwgfBn9HsTIF3uqcqpzs60B2+qMn9VgXc=;RMI0DHjDgC8ZfeuVB4/WfQ=="
 ---
 

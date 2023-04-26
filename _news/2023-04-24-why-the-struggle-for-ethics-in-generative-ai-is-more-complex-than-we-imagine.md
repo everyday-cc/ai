@@ -75,6 +75,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Here Is How AI Is Being Used In Fetal Ultrasounds"
+    excerpt: "This artificial Intelligence software from Sonio, a French tech company is being used to assist in the diagnosis of fetal anomalies and associated syndromes."
+    publishedDateTime: 2023-04-26T17:30:00Z
+    webUrl: "https://www.forbes.com/sites/jenniferhicks/2023/04/26/here-is-how-ai-is-being-used-in-fetal-ultrasounds/"
+    ampWebUrl: "https://www.forbes.com/sites/jenniferhicks/2023/04/26/here-is-how-ai-is-being-used-in-fetal-ultrasounds/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2023/04/26/here-is-how-ai-is-being-used-in-fetal-ultrasounds/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64495d4d01bc3672eff33129/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 848
+        isCached: true
   - title: "How reinforcement learning with human feedback is unlocking the power of generative AI"
     excerpt: "How reinforcement learning with human feedback helps ensure that businesses are building ethical generative AI models."
     publishedDateTime: 2023-04-23T16:20:00Z

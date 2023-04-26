@@ -39,6 +39,22 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "Robot jellyfish swarms could soon help clean the oceans of plastic"
+    excerpt: "By simulating jellyfish movement with artificial muscles, the robots can safely kick up ocean trash to be collected."
+    publishedDateTime: 2023-04-26T17:00:00Z
+    webUrl: "https://www.popsci.com/technology/jellyfish-robot-ocean-pollution/"
+    ampWebUrl: "https://www.popsci.com/technology/jellyfish-robot-ocean-pollution/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/jellyfish-robot-ocean-pollution/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 59
+    images:
+      - url: "https://www.popsci.com/uploads/2023/04/26/Screenshot-2023-04-26-at-10.36.50-AM.png?auto=webp"
+        width: 2000
+        height: 1125
+        isCached: true
 
 secured: "aJ4mznQVFLCnYGPyUZyZ53utlNyv+lz1JlroS+kLKaIHn/Oq1f/lUPkftaB0Lh9Hq9t6Tya4hmwGZRcW02sc5pltOOwRh8Cnyer05S2+9RkxRw/3CXM/1SbLQQl+ZI2mhv+WWK0GcyRHQCRcN0op1fwFsxSKOQmQXS2AorXSz1Oh1X6Ezhl/7pnmHvqDRyLsySKafynSH7kwTm/TGVQI1g0ghdPLDnI9vXxUHMggVgbsDYG19JFAYwyU3mXwhdn96ftAPlkQgRxca/LLdr7yvhswNFZg+A6Fk6B0G1S44KJ9VnoSre4JeQD4+1OIjSp5lef8KPCbRD6L40Lp9+DqdEP+bGRj2El12V9vw9SrXKY=;h3ox9rpojr1nSHFdVo+iHw=="
 ---

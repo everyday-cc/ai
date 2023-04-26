@@ -2,40 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2023-04-04-a-sensor-that-might-someday-enable-mind-controlled-robots.md",
-      "title": "A Sensor That Might Someday Enable Mind-Controlled Robots",
-      "excerpt": "A newly designed dry sensor that can measure brain activity may someday enable mind control of robotic systems.",
-      "sourceUrl": null,
-      "webUrl": "https://neurosciencenews.com/mind-controlled-robots-22931/",
-      "originalUrl": "https://neurosciencenews.com/mind-controlled-robots-22931/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-03T14:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neuroscience News",
-        "domain": "neurosciencenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-04-next-gen-dry-electrodes-used-to-control-a-robot-via-brain-waves.md",
       "title": "Next-gen \"dry\" electrodes used to control a robot via brain waves",
       "excerpt": "Now, however, scientists have developed a new-and-improved type of \"dry\" electrode – and it's been used to mind-control a robot. One of the obvious problems with conductive gel is the fact that ...",
@@ -1400,6 +1366,58 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-03-23-for-smarter-robots-just-add-humans.md",
+      "title": "For Smarter Robots, Just Add Humans",
+      "excerpt": "OpenAI’s COO and manager of the OpenAI Startup Fund says. For humans to help robots with teleoperation, AI might also need to be developed to ease the collaboration between person and machine. Chelsea Finn, an assistant professor at UC Berkeley ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/fast-forward-for-smarter-robots-just-add-humans/",
+      "originalUrl": "https://www.wired.com/story/fast-forward-for-smarter-robots-just-add-humans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/641b9a323491f4dd17124cb5/master/pass/Sanctuary-AI-Robot-Still-Fast-Foward-Business.jpg",
+          "width": 2143,
+          "height": 1210,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/fast-forward-for-smarter-robots-just-add-humans/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/fast-forward-for-smarter-robots-just-add-humans/amp",
+      "publishedDateTime": "2023-03-23T09:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],

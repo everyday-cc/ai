@@ -50,6 +50,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 44
+  - title: "Artificial Intelligence in the Education Sector Market Size Worth USD 17.83 Billion by 2027 – Emergen Research"
+    excerpt: "AI transforming education: personalized learning, improved outcomes, and reduced costsVANCOUVER, Canada - April 26, 2023 — The global"
+    publishedDateTime: 2023-04-26T16:33:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-the-education-sector-market-size-worth-usd-17-83-billion-by-2027-–-emergen-research-1032262928"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 44
   - title: "Digital Workplace Market Size Worth USD 90.52 Billion in 2028 – By Emergen Research"
     excerpt: "Embrace the digital revolution with the latest workplace solutions. Discover the benefits of digital transformation with customizable services"
     publishedDateTime: 2023-04-24T18:40:00Z

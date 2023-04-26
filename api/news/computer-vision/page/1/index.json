@@ -2,49 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-04-26-tinder-to-weed-out-fake-profiles-with-facial-recognition-and-video-selfies.md",
-      "title": "Tinder to weed out fake profiles with facial recognition and video selfies",
-      "excerpt": "Open the Tinder app. Tap the profile icon and then tap the Message Settings icon. Scroll to ‘Control Who Messages You’ and toggle on ‘Photo Verified Chat’. Done! Only Photo Verified users can message you now.",
-      "sourceUrl": null,
-      "webUrl": "https://metro.co.uk/2023/04/26/tinder-introduces-facial-recognition-and-video-selfies-to-verify-users-18676377/",
-      "originalUrl": "https://metro.co.uk/2023/04/26/tinder-introduces-facial-recognition-and-video-selfies-to-verify-users-18676377/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://metro.co.uk/wp-content/uploads/2023/04/tinder-9427.jpg?quality=90&strip=all&zoom=1&resize=600%2C395",
-          "width": 600,
-          "height": 395,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://metro.co.uk/2023/04/26/tinder-introduces-facial-recognition-and-video-selfies-to-verify-users-18676377/amp/",
-      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/04/26/tinder-introduces-facial-recognition-and-video-selfies-to-verify-users-18676377/amp/",
-      "publishedDateTime": "2023-04-26T02:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Metro",
-        "domain": "metro.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-25-andrew-ngs-landing-ai-makes-it-easier-to-create-computer-vision-apps-with-visual-prompting.md",
       "title": "Andrew Ng’s Landing AI makes it easier to create computer vision apps with Visual Prompting",
       "excerpt": "Landing AI's new Visual Prompting feature makes it easy for users to develop new computer-vision applications.",
@@ -253,7 +210,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/amid-microsoft-google-ai-rivalry-apple-could-be-the-winner-no-matter-where-industry-goes-analyst-1032253335",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -1351,6 +1308,58 @@
         "name": "SciTech Daily",
         "domain": "scitechdaily.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-08-how-to-unlock-your-phone-with-facial-recognition-even-when-you-have-your-glasses-on.md",
+      "title": "How to unlock your phone with facial recognition even when you have your glasses on",
+      "excerpt": "Face ID utilizes facial recognition technology to scan your face and verify your identity. When activated, the feature uses the front-facing camera, or selfie cam, to securely authenticate you are ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/how-unlock-your-phone-facial-recognition-you-have-your-glasses-on",
+      "originalUrl": "https://www.foxnews.com/tech/how-unlock-your-phone-facial-recognition-you-have-your-glasses-on",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3e1606f4-9dc7-4a77-a1f7-d0820d9415aa/bed61823-673c-4543-b5d7-0629195fdbbe/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/how-unlock-your-phone-facial-recognition-you-have-your-glasses-on.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/how-unlock-your-phone-facial-recognition-you-have-your-glasses-on.amp",
+      "publishedDateTime": "2023-04-07T15:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

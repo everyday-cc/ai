@@ -2,49 +2,6 @@
   "page": 46,
   "value": [
     {
-      "path": "_news/2023-03-15-ai-machine-learning-necessary-to-run-a-modern-network.md",
-      "title": "AI, machine learning necessary to run a modern network",
-      "excerpt": "Duxbury Networking is holding events in Cape Town, Johannesburg and Durban where it will introduce customers to the features and benefits of ExtremeCloud IQ",
-      "sourceUrl": null,
-      "webUrl": "https://www.itweb.co.za/content/4r1ly7R9gZrvpmda",
-      "originalUrl": "https://www.itweb.co.za/content/4r1ly7R9gZrvpmda",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.itweb.co.za/static/pictures/2017/12/resized/-fs-Artificial-intelligence-2017.xl.jpg",
-          "width": 816,
-          "height": 459,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itweb.co.za/amp/content/4r1ly7R9gZrvpmda",
-      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/4r1ly7R9gZrvpmda",
-      "publishedDateTime": "2023-03-14T23:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-03-15-india-must-think-hard-on-artificial-intelligence-guardrails.md",
       "title": "India must think hard on Artificial Intelligence guardrails",
       "excerpt": "(Source: Shutterstock) Highlights: India has taken a lead in terms of policy intent for adopting Artificial Intelligence and its varied use cases for the economy India expects a big jump in demand for AI and data science professionals, with an ...",
@@ -1144,6 +1101,58 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-15-swarm-engineering-announces-agrifood-virtual-advisor-ava-powered-by-openai-and-microsoft-azure.md",
+      "title": "SWARM Engineering Announces AgriFood Virtual Advisor (AVA), Powered by OpenAI and Microsoft Azure",
+      "excerpt": "SWARM Engineering is proud to announce AVA, the first AgriFood Virtual Advisor, an AI-powered digital assistant based on OpenAI, Microsoft Azure and SWARM technology, designed to help businesses in agri-food solve operational challenges and save millions of dollars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/swarm-engineering-announces-agrifood-virtual-advisor-ava-powered-by-openai-and-microsoft-azure-2023-03-14",
+      "originalUrl": "https://www.marketwatch.com/press-release/swarm-engineering-announces-agrifood-virtual-advisor-ava-powered-by-openai-and-microsoft-azure-2023-03-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-14T11:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     }

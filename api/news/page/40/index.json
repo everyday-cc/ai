@@ -2,58 +2,6 @@
   "page": 40,
   "value": [
     {
-      "path": "_news/2023-03-20-ibm-focuses-on-enterprise-ai-adoption-at-think-2018.md",
-      "title": "IBM focuses on enterprise AI adoption at Think 2018",
-      "excerpt": "IBM released a number of new solutions designed to help enterprises harness the power of artificial intelligence. The company announced IBM Watson Data Kit and revealed new offerings with Apple at ...",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/ai/ibm-focuses-enterprise-ai-adoption-think-2018/",
-      "originalUrl": "https://sdtimes.com/ai/ibm-focuses-enterprise-ai-adoption-think-2018/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2018/03/ibm-think.jpeg",
-          "width": 600,
-          "height": 314,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-19T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-03-20-ibm-watson-and-guerbet-want-to-tackle-prostate-cancer-diagnosis-with-ai.md",
       "title": "IBM Watson and Guerbet Want to Tackle Prostate Cancer Diagnosis with AI",
       "excerpt": "Guerbet has landed a second co-development agreement with IBM Watson Health. This time around, the two companies will develop an artificial intelligence tool to help clinicians detect, segment, characterize, and monitor prostate cancer. “The main ...",
@@ -1132,6 +1080,58 @@
         "AI in Autos",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-03-18-a-life-changing-phone-call-and-more-the-week-in-reporter-reads.md",
+      "title": "A Life-Changing Phone Call and More: The Week in Reporter Reads",
+      "excerpt": "She found recognition with “Dear Edward ... consider imposing a “major sanction” on the professor. His about-face prompted protests from free speech groups, which cited one of tenure ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/03/17/podcasts/oprah-winfrey-book-club-face-recognition-software.html",
+      "originalUrl": "https://www.nytimes.com/2023/03/17/podcasts/oprah-winfrey-book-club-face-recognition-software.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/03/15/multimedia/17narrated-image-3/14ANNNAPOLITANO1-btkl-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2023/03/17/podcasts/oprah-winfrey-book-club-face-recognition-software.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/03/17/podcasts/oprah-winfrey-book-club-face-recognition-software.amp.html",
+      "publishedDateTime": "2023-03-18T05:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     }
   ],

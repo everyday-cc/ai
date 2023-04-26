@@ -2,6 +2,108 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-04-26-airops-is-helping-companies-build-ai-enabled-applications-on-top-of-llms.md",
+      "title": "AirOps is helping companies build AI-enabled applications on top of LLMs",
+      "excerpt": "AirOps, an early-stage startup, is looking to help companies build business applications on top of large language models.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/04/26/airops-is-helping-companies-build-ai-enabled-applications-on-top-of-llms/",
+      "originalUrl": "https://techcrunch.com/2023/04/26/airops-is-helping-companies-build-ai-enabled-applications-on-top-of-llms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/04/GettyImages-1388687270-1.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/04/26/airops-is-helping-companies-build-ai-enabled-applications-on-top-of-llms/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/04/26/airops-is-helping-companies-build-ai-enabled-applications-on-top-of-llms/amp/",
+      "publishedDateTime": "2023-04-26T09:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-26-tiktok-is-testing-an-in-app-tool-that-creates-generative-ai-avatars.md",
+      "title": "TikTok is testing an in-app tool that creates generative AI avatars",
+      "excerpt": "TikTok is experimenting with a new tool that allows users to create generative AI avatars, the company confirmed to TechCrunch",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/04/26/tiktok-is-testing-an-in-app-tool-that-creates-generative-ai-avatars/",
+      "originalUrl": "https://techcrunch.com/2023/04/26/tiktok-is-testing-an-in-app-tool-that-creates-generative-ai-avatars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1248373545.jpg?resize=1200,788",
+          "width": 1200,
+          "height": 788,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/04/26/tiktok-is-testing-an-in-app-tool-that-creates-generative-ai-avatars/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/04/26/tiktok-is-testing-an-in-app-tool-that-creates-generative-ai-avatars/amp/",
+      "publishedDateTime": "2023-04-26T09:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-26-this-ai-chatbot-can-sum-up-any-pdf-and-answer-any-question-you-have-about-it.md",
       "title": "This AI chatbot can sum up any PDF and answer any question you have about it",
       "excerpt": "ChatPDF runs on OpenAI's GPT 3.5 large language model and can answer any question you have about the PDF you upload. The chatbot can even give you a full summary of the PDF without you having to read it.",
@@ -163,7 +265,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/26/how-generative-ai-can-be-used-in-electronics-manufacturing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -207,49 +309,6 @@
       ]
     },
     {
-      "path": "_news/2023-04-26-tinder-to-weed-out-fake-profiles-with-facial-recognition-and-video-selfies.md",
-      "title": "Tinder to weed out fake profiles with facial recognition and video selfies",
-      "excerpt": "Open the Tinder app. Tap the profile icon and then tap the Message Settings icon. Scroll to ‘Control Who Messages You’ and toggle on ‘Photo Verified Chat’. Done! Only Photo Verified users can message you now.",
-      "sourceUrl": null,
-      "webUrl": "https://metro.co.uk/2023/04/26/tinder-introduces-facial-recognition-and-video-selfies-to-verify-users-18676377/",
-      "originalUrl": "https://metro.co.uk/2023/04/26/tinder-introduces-facial-recognition-and-video-selfies-to-verify-users-18676377/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://metro.co.uk/wp-content/uploads/2023/04/tinder-9427.jpg?quality=90&strip=all&zoom=1&resize=600%2C395",
-          "width": 600,
-          "height": 395,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://metro.co.uk/2023/04/26/tinder-introduces-facial-recognition-and-video-selfies-to-verify-users-18676377/amp/",
-      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/04/26/tinder-introduces-facial-recognition-and-video-selfies-to-verify-users-18676377/amp/",
-      "publishedDateTime": "2023-04-26T02:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Metro",
-        "domain": "metro.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-26-microsoft-shares-surge-7-after-the-chatgpt-investor-reveals-ai-boosted-its-cloud-sales.md",
       "title": "Microsoft shares surge 7% after the ChatGPT investor reveals AI boosted its cloud sales",
       "excerpt": "Microsoft CEO Satya Nadella said AI fueled growth in the tech giant's Azure cloud business and Bing search engine last quarter.",
@@ -258,7 +317,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/microsoft-stock-price-chatgpt-investor-ai-cloud-azure-satya-nadella-2023-4",
       "featuredContent": null,
       "highlight": null,
-      "heat": 423,
+      "heat": 443,
       "tags": null,
       "images": [
         {
@@ -603,57 +662,6 @@
       ]
     },
     {
-      "path": "_news/2023-04-26-yelp-harnesses-ai-and-llms-to-enhance-search-review-and-hiring-experiences.md",
-      "title": "Yelp harnesses AI and LLMs to enhance search, review and hiring experiences",
-      "excerpt": "Yelp has introduced new AI-powered features aimed to enhance its platform's search and discovery and better connect users with businesses.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/yelp-harnesses-ai-and-llms-to-enhance-search-review-and-hiring-experiences/",
-      "originalUrl": "https://venturebeat.com/ai/yelp-harnesses-ai-and-llms-to-enhance-search-review-and-hiring-experiences/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/04/ecommerce.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 726,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/yelp-harnesses-ai-and-llms-to-enhance-search-review-and-hiring-experiences/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/yelp-harnesses-ai-and-llms-to-enhance-search-review-and-hiring-experiences/amp/",
-      "publishedDateTime": "2023-04-25T20:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-26-avengers-director-predicts-artificial-intelligence-will-be-able-to-make-movies-in-two-years.md",
       "title": "Avengers director predicts artificial intelligence will be able to make movies in two years",
       "excerpt": "Endgame\" and \"Avengers: Infinity War\" predicts that in two years artificial intelligence could be making moves, according to comments he made at the Sands International Film Festival in St. Andrews, Scotland.",
@@ -815,7 +823,7 @@
       "originalUrl": "https://www.forbes.com/sites/darylaustin/2023/04/25/jellyfish-robots-could-one-day-clean-up-the-worlds-oceans/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {

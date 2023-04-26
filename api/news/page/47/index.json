@@ -2,58 +2,6 @@
   "page": 47,
   "value": [
     {
-      "path": "_news/2023-03-15-swarm-engineering-announces-agrifood-virtual-advisor-ava-powered-by-openai-and-microsoft-azure.md",
-      "title": "SWARM Engineering Announces AgriFood Virtual Advisor (AVA), Powered by OpenAI and Microsoft Azure",
-      "excerpt": "SWARM Engineering is proud to announce AVA, the first AgriFood Virtual Advisor, an AI-powered digital assistant based on OpenAI, Microsoft Azure and SWARM technology, designed to help businesses in agri-food solve operational challenges and save millions of dollars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/swarm-engineering-announces-agrifood-virtual-advisor-ava-powered-by-openai-and-microsoft-azure-2023-03-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/swarm-engineering-announces-agrifood-virtual-advisor-ava-powered-by-openai-and-microsoft-azure-2023-03-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-14T11:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-03-15-let-1000-flowers-bloom-ai-funding-frenzy-escalates.md",
       "title": "‘Let 1,000 Flowers Bloom’: A.I. Funding Frenzy Escalates",
       "excerpt": "When four leading artificial intelligence researchers left Google this year to create a start-up called Mobius AI, they weren’t sure what their product might be — just that it would involve A.I. technology that could generate its own photos and videos.",
@@ -1183,6 +1131,49 @@
       ],
       "topics": [
         "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-14-neural-networks-youve-got-it-so-easy.md",
+      "title": "Neural Networks: You’ve Got It So Easy",
+      "excerpt": "And so it was Scientific American magazine’s September 1992 special issue on Mind and Brain that introduced me to neural networks, both the biological and artificial kinds. Back then you had the ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2017/04/24/neural-networks-youve-got-it-so-easy/",
+      "originalUrl": "https://hackaday.com/2017/04/24/neural-networks-youve-got-it-so-easy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2017/04/neural_network_books-featured.jpg",
+          "width": 1110,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-13T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     }

@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI Will Take Many Cybersecurity Jobs, But It's Not a Complete Disaster"
+    excerpt: "AI will force some big changes in the cybersecurity job market, but Rohit Ghai, CEO of RSA Security, tells RSAC 2023 attendees that he's hopeful AI tools and human workers can coexist."
+    publishedDateTime: 2023-04-26T16:04:00Z
+    webUrl: "https://www.pcmag.com/news/ai-will-take-many-cybersecurity-jobs-but-its-not-a-complete-disaster"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/05iUDYbdzZRKkboE6Y2NAzm-1.fit_lim.size_1200x630.v1682519762.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Cybersecurity and AI trends analysis live from RSA Conference"
     excerpt: "At this week’s RSA Conference in San Francisco, the focus remained on generative artificial intelligence, with some uncertainty about its involvement in recent hacks. The technology will likely become increasingly relevant as it develops further,"
     publishedDateTime: 2023-04-26T15:14:00Z

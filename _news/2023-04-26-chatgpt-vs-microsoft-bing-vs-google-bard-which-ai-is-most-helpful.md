@@ -122,6 +122,22 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "Microsoft mentioned artificial intelligence 50 times on its earnings call and Wall Street is thrilled"
+    excerpt: "\"Nadella and Co. delivered another masterpiece cloud quarter which will be the focus of the Street and sets a positive tone,\" Wedbush said."
+    publishedDateTime: 2023-04-26T17:56:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-stock-price-earnings-call-artificial-intelligence-ai-wall-street-2023-4"
+    ampWebUrl: "https://markets.businessinsider.com/news/stocks/microsoft-stock-price-earnings-call-artificial-intelligence-ai-wall-street-2023-4?amp"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/microsoft-stock-price-earnings-call-artificial-intelligence-ai-wall-street-2023-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 89
+    images:
+      - url: "https://i.insider.com/644951b29052390019700246?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Microsoft Sees AI Shaking Up Search While Google Calms Investors"
     excerpt: "Alphabet Inc.’s Google and Microsoft Corp., whose quarterly earnings each got a boost from their established search and cloud-computing businesses, used their time with investors to emphasize what’s next: artificial intelligence."
     publishedDateTime: 2023-04-26T00:16:00Z
@@ -283,6 +299,20 @@ related:
       - url: "https://images.barrons.com/im-473512/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Microsoft, Google just told us AI is for real, right now. Here's a broad selection of stocks that will benefit"
+    excerpt: "Artificial intelligence is now so meaningful that big customers have come into them saying what can we do, how can we use it?"
+    publishedDateTime: 2023-04-26T14:04:00Z
+    webUrl: "https://www.cnbc.com/2023/04/26/microsoft-google-just-told-us-ai-is-for-real-right-now-heres-a-broad-selection-of-stocks-that-will-benefit.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 64
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107192888-1676056121575-gettyimages-1246879766-raa-openaich230207_npeGa.jpeg?v=1682525152&w=1920&h=1080"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Microsoft reports boost in profits, revenue, as it pushes AI"
     excerpt: "Analysts polled by FactSet expected Microsoft to post revenue of $51.02 billion for the quarter. The quarter marked an ambitious push by Microsoft to capitalize on its investments in artificial intelligence and partnership with San Francisco-based startup OpenAI with the February release of a new AI chatbot feature on its search engine Bing."
@@ -451,6 +481,6 @@ related:
       domain: interestingengineering.com
     quality: 19
 
-secured: "sOqTFk8Yv3I1eR4alArkziC3LZh77YT7uugDQyDHIS7YOeBTUmViEsZZyPf3jThSq0PLGYHi0GhwXoo5dWsZUUASjh/ul3r4Z48WrQ8zDmerq8QPEVfaKYLK6xUJpG0yM+jDtXZ6mllYvZa5rQqChURJwIric4po3dhYDGi5ToQxT/Q1x2REplEyOuE9GCy4FQS+yP5v1TL9e2fgExE8XndFyzFaE2f5+3vEUyaq2KpCWH4X3tKaEbCUvMKeS0Y5OOJfmftAV+qMYldI2KRDLmYFvK0bkC4GfZ+gyd2fkVGnJBaO7Le8hBFCCrgqbIFQ/sinPSTO3vuz6p53QVqAqMUiRWblCdOJRKcQH5o0518=;/ozFQR6lx8O+EeUvkkZXlA=="
+secured: "MTAKaVWEJbz7ZFhkhHLlXrylAf9MDsBGkmimukfVd7sMjf6J9pqpzUNu1qah9BExEVrTTq7nU9IXoSMGru3Ucsf3Ws67WR7z4wgerk54erCQu7UIuXEowinpaXFfcyxpkG/WFZQR3qF3UGnfWYq/eQoRJpeslOK0dhXqlZZ9M080kiyFXafHzfzrQasfglpuP5yTeg+NGI1gTp7p95zUHUW8zRq4VYLEGVn1uZf1TqqHaxMYyxGja3cUGtgeSCipinkNosGmJX55icgMU221t8q0ObzL5yxLyllt9lHxNpXtCwXFKMfYmDEYKNi1GeZt9IbUONn8bgloRC+sjzzCXGimXaNpkLSe41sdXNlKnLVj8UgE7Fz6jM4Fuwa8e7+eezsIax8w20ntH2xsEtlLd3HkIOawx0LNdrnTuhJdPZpc27CULypu36xRJhxkAySiiqXaKTQa2N4peqAvdCmeDK+6JH8bVGGbi/nqVUJ9/iCrNsgd/3T4e32Zzd8f2v67qZBUPAmpjQPBO41UXSRkwg==;ZhPM0hsnxgy6yzsOfIT9UQ=="
 ---
 

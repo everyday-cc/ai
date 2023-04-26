@@ -2,57 +2,6 @@
   "page": 34,
   "value": [
     {
-      "path": "_news/2023-03-23-from-cavemen-to-cowboys-ai-reimagines-selfies-throughout-history.md",
-      "title": "From Cavemen to Cowboys: AI Reimagines Selfies Throughout History",
-      "excerpt": "An AI program has generated a series of lifelike time-period selfies featuring Vikings, samurai and other groups from history. Reddit user _M0us316_ shared the series of 18 photos in the r/midjourney group dedicated to content about the AI program of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/cavemen-cowboys-ai-reimagines-selfies-throughout-history-1789858",
-      "originalUrl": "https://www.newsweek.com/cavemen-cowboys-ai-reimagines-selfies-throughout-history-1789858",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/2213097/ai-generated-images-cavemen-cowboys.jpg",
-          "width": 2160,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/cavemen-cowboys-ai-reimagines-selfies-throughout-history-1789858?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/cavemen-cowboys-ai-reimagines-selfies-throughout-history-1789858?amp=1",
-      "publishedDateTime": "2023-03-23T07:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-03-23-stable-diffusion-vs-midjourney-which-is-the-best-ai-art-tool.md",
       "title": "Stable Diffusion vs. Midjourney — which is the best AI art tool?",
       "excerpt": "Stable Diffusion and Midjourney are two of the best AI art tools, but which is better? What is the best AI art tool?",
@@ -1198,6 +1147,59 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-23-socialcoach-taps-fintech-exec-andria-lightfoot-and-launches-ai-driven-social-media-marketing-solution.md",
+      "title": "SocialCoach Taps Fintech Exec Andria Lightfoot and Launches AI Driven Social Media Marketing Solution",
+      "excerpt": "The mortgage centric social media marketing software company today announced the launch of its new innovative product enhancement integrating Artificial Intelligence (AI) to help mortgage lenders and loan officers drive social selling and lead generation ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/socialcoach-taps-fintech-exec-andria-lightfoot-and-launches-ai-driven-social-media-marketing-solution-2023-03-22",
+      "originalUrl": "https://www.marketwatch.com/press-release/socialcoach-taps-fintech-exec-andria-lightfoot-and-launches-ai-driven-social-media-marketing-solution-2023-03-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.send2press.com/wire/images/23-0322-s2p-Andria-Lightfoot-800x600.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-22T15:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Marketing"
       ]
     }
   ],

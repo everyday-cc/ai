@@ -60,6 +60,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Microsoft 'holding a lot of the cards' in AI-powered search war with Google"
+    excerpt: "Microsoft didn’t mention Bing once on its earnings call. The search engine hasn’t been a big growth driver for Microsoft in the past. That's changing."
+    publishedDateTime: 2023-04-26T17:22:00Z
+    webUrl: "https://www.aol.com/finance/microsoft-holding-lot-cards-ai-171612672.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 52
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/rEQvskN4tIZdTSt1jmNJoA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/5ad4fc321a52c21d694cdbe3d7565c03"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "b27hjRVGIt2cYrdekmgQm3pHis7X1lUHinxEQejXc9wa6asTRCWcl1CPKr+7jEYMJuVWO8cg0d2PaIWKv0lRqP/dK3au+dOZg+/WyG1p3PaLxv32CdJTaz5/jV1uAEQh3UdSLkTvu0CoPkvYiumM7m4RyJGjAWUoSI7zY7yfcq4auJD1yA6/pE/ESHXwk3uV80yrDtHGfIhadxjQaxx4iLU1BpGF+0Jt0dZSYQZO+JsWXtWQhaJur4KVa7ESqV4Q4KWiusBeaXyzN9YWef4Xj6mOByZwbv+uzsAI7xPZlwmQvMzOAkDNNzUdgTamQtMdHAk1DtIc83zRR7G0F3ril5A63WiPjzNN1FMv59sZg40=;RvqWXHp5wfZWBfVLU71tIA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/04/25/what-mar
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/04/25/what-marketing-and-advertising-specialists-can-expect-from-chatgpt/amp/"
 type: article
 quality: 91
-heat: 281
+heat: 291
 published: true
 
 provider:
@@ -205,6 +205,20 @@ related:
       - url: "https://techwireasia.com/wp-content/uploads/2023/04/shutterstock_1950040216-scaled.jpg"
         width: 2560
         height: 1631
+        isCached: true
+  - title: "What Can ChatGPT Tell Us About the Evolution of Artificial Intelligence?"
+    excerpt: "In the last decade, artificial intelligence (AI) has elicited both dreams of a massive transformation in the tech industry  and a deep anxiety surrounding its potential ramifications. Elon Musk, a leading voice in the tech industry,"
+    publishedDateTime: 2023-04-26T16:07:00Z
+    webUrl: "https://www.unite.ai/what-can-chatgpt-tell-us-about-the-evolution-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 38
+    images:
+      - url: "https://www.unite.ai/wp-content/uploads/2023/04/evolution-ai-896x600.png"
+        width: 896
+        height: 600
         isCached: true
   - title: "Chat AI Chatbot Assistant: Revolutionizing Productivity And Assistance Powered By Chatgpt"
     excerpt: "Chat AI Chatbot powered by ChatGPT Discover the power of intelligent and engaging conversations with the Chat AI Chatbot Assistant app, n"

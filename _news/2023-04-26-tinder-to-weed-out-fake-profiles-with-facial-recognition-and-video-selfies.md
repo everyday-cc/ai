@@ -9,8 +9,8 @@ ampWebUrl: "https://metro.co.uk/2023/04/26/tinder-introduces-facial-recognition-
 cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/04/26/tinder-introduces-facial-recognition-and-video-selfies-to-verify-users-18676377/amp/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Metro
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Tens Of Millions Of Faces Training Facial Recognition; You’ll Soon Be Able To Search For Yourself"
-    excerpt: "In a stiflingly hot lecture tent at CCCamp on Friday, Adam Harvey took to the stage to discuss the huge data sets being used by groups around the world to train facial recognition software."
-    publishedDateTime: 2023-04-22T00:00:00Z
-    webUrl: "https://hackaday.com/2019/08/25/the-tens-of-millions-of-faces-training-facial-recognition-youll-soon-be-able-to-search-for-yourself/"
-    type: article
-    provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 39
-    images:
-      - url: "https://hackaday.com/wp-content/uploads/2019/08/Andrew-Harvey-PegaPixels-facial-recognition-CCCamp2019-featured.jpg"
-        width: 2951
-        height: 1660
-        isCached: true
   - title: "Black man falsely arrested for theft based on facial recognition"
     excerpt: "Black man named Robert Williams was falsely arrested by Detroit police officers for theft based on faulty facial recognition technology"
     publishedDateTime: 2023-04-26T13:25:00Z

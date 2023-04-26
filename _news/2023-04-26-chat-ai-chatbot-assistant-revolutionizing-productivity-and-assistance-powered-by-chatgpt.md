@@ -215,6 +215,20 @@ related:
         width: 2560
         height: 1631
         isCached: true
+  - title: "What Can ChatGPT Tell Us About the Evolution of Artificial Intelligence?"
+    excerpt: "In the last decade, artificial intelligence (AI) has elicited both dreams of a massive transformation in the tech industry  and a deep anxiety surrounding its potential ramifications. Elon Musk, a leading voice in the tech industry,"
+    publishedDateTime: 2023-04-26T16:07:00Z
+    webUrl: "https://www.unite.ai/what-can-chatgpt-tell-us-about-the-evolution-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 38
+    images:
+      - url: "https://www.unite.ai/wp-content/uploads/2023/04/evolution-ai-896x600.png"
+        width: 896
+        height: 600
+        isCached: true
   - title: "ChatGPT craze drives domestic innovation"
     excerpt: "\"Technologies behind ChatGPT are not new to market players, but ChatGPT represents how AI has evolved and progressed over the past few years. Also, it demonstrates the popularity of the NLP market and brings forward the market one to two years,"
     publishedDateTime: 2023-04-24T23:40:00Z

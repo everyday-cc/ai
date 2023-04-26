@@ -2,51 +2,6 @@
   "page": 120,
   "value": [
     {
-      "path": "_news/2023-01-17-column-facial-recognition-will-transform-airport-security-checkpoints.md",
-      "title": "Column: Facial recognition will transform airport security checkpoints",
-      "excerpt": "Imagine using technology that never forgets a face, while improving airport security and shortening lines. Such technology exists and may be coming to an airport near you.",
-      "sourceUrl": null,
-      "webUrl": "https://www.meadvilletribune.com/opinion/column-facial-recognition-will-transform-airport-security-checkpoints/article_7ba6038c-9367-11ed-9b72-afc9da8ed730.html",
-      "originalUrl": "https://www.meadvilletribune.com/opinion/column-facial-recognition-will-transform-airport-security-checkpoints/article_7ba6038c-9367-11ed-9b72-afc9da8ed730.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/meadvilletribune.com/content/tncms/custom/image/dd8c79a0-d940-11e7-a71b-87c93befe28f.jpg?resize=600%2C600",
-          "width": 600,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-16T21:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Meadville Tribune",
-        "domain": "meadvilletribune.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision",
-        "AI in Security"
-      ]
-    },
-    {
       "path": "_news/2023-01-17-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-size-2023-with-presentation-outlook-horizontal-viewpoint-global-view.md",
       "title": "Natural Language Processing (NLP) in Healthcare and Life Sciences Market Size 2023 with Presentation Outlook, Horizontal Viewpoint, Global View",
       "excerpt": "Natural Language Processing (NLP) in Healthcare and Life Sciences Marketsize, segment (mainly coveringMajorType (, Statistical NLP, Hybrid based NLP, Rule NLP, ,),End Users (, Healthcare, Life Sciences,",
@@ -1166,6 +1121,49 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-16-machine-learning-predicts-brain-tumor-progression.md",
+      "title": "Machine Learning Predicts Brain Tumor Progression",
+      "excerpt": "Researchers used a deep learning model to turn the MRI data into patient-specific parameter estimates that inform a predictive model for brain tumor growth.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/machine-learning-predicts-brain-tumor-progression-210095-1.htm",
+      "originalUrl": "https://www.medindia.net/news/machine-learning-predicts-brain-tumor-progression-210095-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/salmonella-for-treatment-of-glioblastoma.jpg",
+          "width": 1200,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/machine-learning-predicts-brain-tumor-progression-210095-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/machine-learning-predicts-brain-tumor-progression-210095-1.htm",
+      "publishedDateTime": "2023-01-16T03:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     }

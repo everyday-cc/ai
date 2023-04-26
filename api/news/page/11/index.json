@@ -2,57 +2,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_news/2023-04-17-generative-ai-is-changing-your-technology-career-path-what-to-know.md",
-      "title": "Generative AI is changing your technology career path. What to know",
-      "excerpt": "Automation is creating a step change in the work of IT professionals, but there's still an important role for talented people with the right set of skills.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/generative-ai-is-changing-your-technology-career-path-heres-what-you-need-to-know/",
-      "originalUrl": "https://www.zdnet.com/article/generative-ai-is-changing-your-technology-career-path-heres-what-you-need-to-know/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/ae4eec77b58f25ebe03703a8edc695ae33d3a325/2023/04/17/e48a3080-b1be-4499-932d-3d5c27bd3815/gettyimages-1356534663.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/generative-ai-is-changing-your-technology-career-path-heres-what-you-need-to-know/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-is-changing-your-technology-career-path-heres-what-you-need-to-know/",
-      "publishedDateTime": "2023-04-17T06:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-17-ai-demystified-making-sense-of-artificial-intelligence-for-your-business.md",
       "title": "AI Demystified: Making Sense Of Artificial Intelligence For Your Business",
       "excerpt": "If you want an AI implementation now, turn your attention to narrow AI. Think about tasks that are manual, repetitive and structured.",
@@ -282,49 +231,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-17-the-ai-revolution-googles-artificial-intelligence-developers-on-whats-next-in-the-field.md",
-      "title": "The AI revolution: Google's artificial intelligence developers on what's next in the field",
-      "excerpt": "The revolution in artificial intelligence is at the center of a debate ranging from those who hope it will save humanity to those who predict doom. Scott Pelley headed to Google to see what's coming next in AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/sanfrancisco/news/ai-advancements-google-artificial-intelligence-future/",
-      "originalUrl": "https://www.cbsnews.com/sanfrancisco/news/ai-advancements-google-artificial-intelligence-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/04/14/c12480c9-3363-478b-86bf-a856a2fa8598/thumbnail/1200x630/7b4e4968150471b425ee46c93ff66fd1/google-robot-1.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/sanfrancisco/news/ai-advancements-google-artificial-intelligence-future/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/ai-advancements-google-artificial-intelligence-future/",
-      "publishedDateTime": "2023-04-17T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     },
@@ -1056,6 +962,49 @@
       ]
     },
     {
+      "path": "_news/2023-04-17-the-ai-revolution-googles-artificial-intelligence-developers-on-whats-next-in-the-field.md",
+      "title": "The AI revolution: Google's artificial intelligence developers on what's next in the field",
+      "excerpt": "Artificial intelligence solved an impossible problem in biology and robots powered by AI taught themselves to play soccer. The machines never get tired. They never get hungry. They learn ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/ai-advancements-google-artificial-intelligence-future-60-minutes-2023-04-16/",
+      "originalUrl": "https://www.cbsnews.com/news/ai-advancements-google-artificial-intelligence-future-60-minutes-2023-04-16/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/04/14/c12480c9-3363-478b-86bf-a856a2fa8598/thumbnail/1200x630/7b4e4968150471b425ee46c93ff66fd1/google-robot-1.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/ai-advancements-google-artificial-intelligence-future-60-minutes-2023-04-16/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/ai-advancements-google-artificial-intelligence-future-60-minutes-2023-04-16/",
+      "publishedDateTime": "2023-04-16T12:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-17-2023-2030-speech-recognition-market-report-latest-developments.md",
       "title": "2023-2030 Speech Recognition Market Report: Latest Developments",
       "excerpt": "Apr 16, 2023 (The Expresswire) -- \"Speech Recognition Market\" information for each competitor includes (VoiceVault, Microsoft, Agnitio, ReadSpeaker",
@@ -1198,6 +1147,57 @@
       ],
       "topics": [
         "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-16-algorithms-auditing-algorithms-gpt-4-a-reminder-that-responsible-ai-is-moving-beyond-human-scale.md",
+      "title": "Algorithms auditing algorithms: GPT-4 a reminder that responsible AI is moving beyond human scale",
+      "excerpt": "Responsible AI is the foundation for accurate, effective and trustworthy AI systems, addressing bias, ensuring transparency and more.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/algorithms-auditing-algorithms-gpt-4-responsible-ai-beyond-human-scale/",
+      "originalUrl": "https://venturebeat.com/ai/algorithms-auditing-algorithms-gpt-4-responsible-ai-beyond-human-scale/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/04/annevb_artificial_intelligence_monitoring_artificial_intelligen_e0903052-c092-4cd0-bae3-0dade58f600f.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/algorithms-auditing-algorithms-gpt-4-responsible-ai-beyond-human-scale/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/algorithms-auditing-algorithms-gpt-4-responsible-ai-beyond-human-scale/amp/",
+      "publishedDateTime": "2023-04-16T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

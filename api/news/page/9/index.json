@@ -2,50 +2,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_news/2023-04-19-microsoft-readies-own-ai-chip-everything-you-need-to-know.md",
-      "title": "Microsoft readies own AI chip — everything you need to know",
-      "excerpt": "According to The Information (opens in new tab), Microsoft has been secretly working on Project Athena — a first-party chip designed to power the supercomputers that train AI. The hope is the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tomsguide.com/news/microsoft-readies-own-ai-chip-everything-you-need-to-know",
-      "originalUrl": "https://www.tomsguide.com/news/microsoft-readies-own-ai-chip-everything-you-need-to-know",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/htJtE2TbsB4Tfmo8YuN7Te-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-18T12:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tom's Guide",
-        "domain": "tomsguide.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-19-so-you-want-to-launch-an-ai-startup.md",
       "title": "So you want to launch an AI startup",
       "excerpt": "It seems like it’s the best of times for founders thinking about launching an AI startup, especially with OpenAI releasing ChatGPT to the masses, as it has the potential to really put AI front ...",
@@ -1101,6 +1057,40 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-18-using-ai-to-translate-human-language-into-data-qa-with-inuvos-melodie-du.md",
+      "title": "Using AI To Translate Human Language Into Data: Q&A With Inuvo's Melodie Du",
+      "excerpt": "Inuvo has created a language-model-based, generative AI capable of identifying the words associated with the audience for any product, service, or brand.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mediapost.com/publications/article/384462/using-ai-to-translate-human-language-into-data-q.html",
+      "originalUrl": "https://www.mediapost.com/publications/article/384462/using-ai-to-translate-human-language-into-data-q.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-17T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MediaPost",
+        "domain": "mediapost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     }

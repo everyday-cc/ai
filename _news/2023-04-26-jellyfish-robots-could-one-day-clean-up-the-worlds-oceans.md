@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/darylaustin/2023/04/25/jellyfish-robots
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/darylaustin/2023/04/25/jellyfish-robots-could-one-day-clean-up-the-worlds-oceans/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Robot jellyfish swarms could soon help clean the oceans of plastic"
+    excerpt: "By simulating jellyfish movement with artificial muscles, the robots can safely kick up ocean trash to be collected."
+    publishedDateTime: 2023-04-26T17:00:00Z
+    webUrl: "https://www.popsci.com/technology/jellyfish-robot-ocean-pollution/"
+    ampWebUrl: "https://www.popsci.com/technology/jellyfish-robot-ocean-pollution/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/jellyfish-robot-ocean-pollution/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 59
+    images:
+      - url: "https://www.popsci.com/uploads/2023/04/26/Screenshot-2023-04-26-at-10.36.50-AM.png?auto=webp"
+        width: 2000
+        height: 1125
+        isCached: true
   - title: "Jellyfish-like robots could one day clean up the world's oceans"
     excerpt: "Roboticists have developed a jellyfish-inspired underwater robot with which they hope one day to collect waste from the bottom of the ocean. The almost noise-free prototype can trap objects underneath its body without physical contact,"
     publishedDateTime: 2023-04-25T22:16:00Z

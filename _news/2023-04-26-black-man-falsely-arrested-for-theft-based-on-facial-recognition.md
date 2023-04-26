@@ -35,20 +35,6 @@ related:
         width: 600
         height: 395
         isCached: true
-  - title: "The Tens Of Millions Of Faces Training Facial Recognition; You’ll Soon Be Able To Search For Yourself"
-    excerpt: "In a stiflingly hot lecture tent at CCCamp on Friday, Adam Harvey took to the stage to discuss the huge data sets being used by groups around the world to train facial recognition software."
-    publishedDateTime: 2023-04-22T00:00:00Z
-    webUrl: "https://hackaday.com/2019/08/25/the-tens-of-millions-of-faces-training-facial-recognition-youll-soon-be-able-to-search-for-yourself/"
-    type: article
-    provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 39
-    images:
-      - url: "https://hackaday.com/wp-content/uploads/2019/08/Andrew-Harvey-PegaPixels-facial-recognition-CCCamp2019-featured.jpg"
-        width: 2951
-        height: 1660
-        isCached: true
 
 secured: "n+cL7F+Dt+oFfWypLGrUVQwl9oigfgfz16fkqV/lMLDIiVWd4iD73pEKkIwcIDK1T/Nc6mYFSaD435YToc8lh+/YL553iGf3k5QCHKcvQ63L/X3somQezo1389lCh4FICoeFP1YpIhrxmSyoyf+F0PDSmPR3Q0RHTidkkYKY/Mw1NFXnms95c4CLE0a7idrbsBnvxJ4zTYlgg65YQCf/rlGT/DIjH/a3ZG2jtldJMMXE6U9Ott9cB9sSQH2k+bo6iH8mEvNGLdIiYvsmRMLWdpaIIssk+ma0a9z/El7qX94qqOPPUgXR0GGAcK7oqbP5cJ08vWdxq0LTaCpkUYeYJQZP2+gnlR1IltsZroC9jRuoKyQz1AHjGveTfEIzVP+CtiDAshZIjXBDPoFL+jjoRmdAKPNatSfkLmYFQAt8lpFrrO7PuEVo3QL1x4t/lq4a6T5ske1c2AlWincDWFcmsp9LYSEU0jvfKQD8WsoMATcuYuv7TVcxeXx+38OvQG1Oiu6OgAojlcdOim70VPaoVw==;S7I+h0aRjEXEd0xy1s9r3w=="
 ---

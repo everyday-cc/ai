@@ -2,58 +2,6 @@
   "page": 56,
   "value": [
     {
-      "path": "_news/2023-03-07-daily-crunch-ai-driven-fintech-candidly-nabs-205m-series-b-to-help-consumers-crush-debt.md",
-      "title": "Daily Crunch: AI-driven fintech Candidly nabs $20.5M Series B to help consumers ‘crush debt’",
-      "excerpt": "The enterprise is about to get hit by the generative AI hype train, as Salesforce prepares to invest in startups developing what it calls “responsible generative AI,” Paul writes. As the toxic ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/03/07/daily-crunch-ai-driven-fintech-candidly-nabs-20-5m-series-b-to-help-consumers-crush-debt/",
-      "originalUrl": "https://techcrunch.com/2023/03/07/daily-crunch-ai-driven-fintech-candidly-nabs-20-5m-series-b-to-help-consumers-crush-debt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/07/GettyImages-860183434.jpg?resize=1200,797",
-          "width": 1200,
-          "height": 797,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/03/07/daily-crunch-ai-driven-fintech-candidly-nabs-20-5m-series-b-to-help-consumers-crush-debt/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/07/daily-crunch-ai-driven-fintech-candidly-nabs-20-5m-series-b-to-help-consumers-crush-debt/amp/",
-      "publishedDateTime": "2023-03-06T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-03-07-schools-are-using-voice-technology-to-teach-reading-is-it-helping.md",
       "title": "Schools Are Using Voice Technology to Teach Reading. Is It Helping?",
       "excerpt": "They try to replicate the experience of a teacher listening carefully and identifying potential problem areas in comprehension, pronunciation and letter recognition. Voice technology — especially the use of an AI bot that talks back to the learner ...",
@@ -1117,6 +1065,49 @@
       ],
       "topics": [
         "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-06-artificial-intelligence-could-help-detect-breast-cancer-study.md",
+      "title": "Artificial intelligence could help detect breast cancer: study",
+      "excerpt": "The use of artificial intelligence is growing across a myriad of sectors, from being used to detect emissions and predict lightning strikes to monitor aging infrastructure and drive vehicles. Early research has now found it could be effective at helping doctors detect breast cancer,",
+      "sourceUrl": null,
+      "webUrl": "https://www.silive.com/news/2023/03/artificial-intelligence-could-help-detect-breast-cancer-study.html",
+      "originalUrl": "https://www.silive.com/news/2023/03/artificial-intelligence-could-help-detect-breast-cancer-study.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/LLZSV63TI5FEZIKVKAEDJVKO5M.jpg",
+          "width": 2916,
+          "height": 2233,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.silive.com/news/2023/03/artificial-intelligence-could-help-detect-breast-cancer-study.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-silive-com.cdn.ampproject.org/c/s/www.silive.com/news/2023/03/artificial-intelligence-could-help-detect-breast-cancer-study.html?outputType=amp",
+      "publishedDateTime": "2023-03-05T18:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Staten Island Advance",
+        "domain": "silive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     }

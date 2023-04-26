@@ -127,6 +127,22 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "Microsoft mentioned artificial intelligence 50 times on its earnings call and Wall Street is thrilled"
+    excerpt: "\"Nadella and Co. delivered another masterpiece cloud quarter which will be the focus of the Street and sets a positive tone,\" Wedbush said."
+    publishedDateTime: 2023-04-26T17:56:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-stock-price-earnings-call-artificial-intelligence-ai-wall-street-2023-4"
+    ampWebUrl: "https://markets.businessinsider.com/news/stocks/microsoft-stock-price-earnings-call-artificial-intelligence-ai-wall-street-2023-4?amp"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/microsoft-stock-price-earnings-call-artificial-intelligence-ai-wall-street-2023-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 89
+    images:
+      - url: "https://i.insider.com/644951b29052390019700246?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Microsoft Sees AI Shaking Up Search While Google Calms Investors"
     excerpt: "Alphabet Inc.’s Google and Microsoft Corp., whose quarterly earnings each got a boost from their established search and cloud-computing businesses, used their time with investors to emphasize what’s next: artificial intelligence."
     publishedDateTime: 2023-04-26T00:16:00Z
@@ -272,6 +288,20 @@ related:
       - url: "https://images.barrons.com/im-473512/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Microsoft, Google just told us AI is for real, right now. Here's a broad selection of stocks that will benefit"
+    excerpt: "Artificial intelligence is now so meaningful that big customers have come into them saying what can we do, how can we use it?"
+    publishedDateTime: 2023-04-26T14:04:00Z
+    webUrl: "https://www.cnbc.com/2023/04/26/microsoft-google-just-told-us-ai-is-for-real-right-now-heres-a-broad-selection-of-stocks-that-will-benefit.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 64
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107192888-1676056121575-gettyimages-1246879766-raa-openaich230207_npeGa.jpeg?v=1682525152&w=1920&h=1080"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "ChatGPT vs. Microsoft Bing vs. Google Bard: Which AI is most helpful?"
     excerpt: "Three AI models that may change the world. ChatGPT vs. Microsoft Bing vs. Google Bard? Which of them operates on acceptable technology in the present and future?"

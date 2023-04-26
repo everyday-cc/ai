@@ -2,102 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2023-04-20-how-amazon-has-reorganized-around-artificial-intelligence-and-machine-learning.md",
-      "title": "How Amazon Has Reorganized Around Artificial Intelligence And Machine Learning",
-      "excerpt": "I am a Customer Experience Futurist, Author and Keynote Speaker. In honor of Amazon Prime Day, let’s take a look at the inner workings of this company that is pushing the bounds of innovation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/blakemorgan/2018/07/16/how-amazon-has-re-organized-around-artificial-intelligence-and-machine-learning/",
-      "originalUrl": "https://www.forbes.com/sites/blakemorgan/2018/07/16/how-amazon-has-re-organized-around-artificial-intelligence-and-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/dam/imageserve/80be61df19f54b8e87e96066748b9882/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 870,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-20T02:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-04-20-drones-navigate-unseen-environments-with-liquid-neural-networks.md",
-      "title": "Drones Navigate Unseen Environments With Liquid Neural Networks",
-      "excerpt": "MIT researchers exhibit a new advancement in autonomous drone navigation, using brain-inspired liquid neural networks that excel in out-of-distribution scenarios.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/informatics/news/drones-navigate-unseen-environments-with-liquid-neural-networks-372383",
-      "originalUrl": "https://www.technologynetworks.com/informatics/news/drones-navigate-unseen-environments-with-liquid-neural-networks-372383",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/372383/drones-navigate-unseen-environments-with-liquid-neural-networks-372383-640x360.jpg?cb=20230420",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-20T02:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks",
-        "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-20-a-remarkable-learning-journey-leads-to-asia-for-the-post-gpt-mba.md",
       "title": "A Remarkable Learning Journey Leads To Asia For The Post-GPT MBA",
       "excerpt": "Sanjay Sarma, the incoming President, CEO and Dean of Asia School of Business (ASB), based in Kuala Lumpur has what he describes as an unconventional background - professor, businessman, author, father.",
@@ -681,6 +585,49 @@
       ]
     },
     {
+      "path": "_news/2023-04-20-drones-navigate-unseen-environments-with-liquid-neural-networks.md",
+      "title": "Drones navigate unseen environments with liquid neural networks",
+      "excerpt": "In the vast, expansive skies where birds once ruled supreme, a new crop of aviators is taking flight. These pioneers of the air are not living creatures, but rather a product of deliberate innovation: drones.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-04-drones-unseen-environments-liquid-neural.html",
+      "originalUrl": "https://techxplore.com/news/2023-04-drones-unseen-environments-liquid-neural.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/drones-navigate-unseen.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-04-drones-unseen-environments-liquid-neural.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-04-drones-unseen-environments-liquid-neural.amp",
+      "publishedDateTime": "2023-04-19T13:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-20-reddit-will-start-charging-some-users-for-api-access-bad-news-for-ai-companies.md",
       "title": "Reddit will start charging some users for API access -- bad news for AI companies",
       "excerpt": "Reddit is now putting a halt to that, announcing on Tuesday that it will begin to charge big businesses for Reddit API data access. The social networking platform added a new \"premium access point\" for third party users who require \"additional capabilities, higher usage limits, and broader usage rights,\" according to the announcement .",
@@ -1179,6 +1126,49 @@
         "AWS AI",
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2023-04-19-a-brief-history-of-artificial-intelligence-ai-from-turing-to-iot.md",
+      "title": "A Brief History of Artificial Intelligence (AI): From Turing to IoT",
+      "excerpt": "Artificial intelligence (AI) as a concept dates back to ancient times, but modern AI began in the mid-20th century with pioneers like Alan Turing.",
+      "sourceUrl": null,
+      "webUrl": "https://decrypt.co/resources/a-brief-history-of-artificial-intelligence-ai-from-turing-to-iot",
+      "originalUrl": "https://decrypt.co/resources/a-brief-history-of-artificial-intelligence-ai-from-turing-to-iot",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/1-intro-to-crypto-tax-gID_7-pID_1.png@png",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-19T02:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!Finance",
+        "domain": "decrypt.co",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     }
   ],

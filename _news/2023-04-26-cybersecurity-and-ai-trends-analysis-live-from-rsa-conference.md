@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI Will Take Many Cybersecurity Jobs, But It's Not a Complete Disaster"
+    excerpt: "AI will force some big changes in the cybersecurity job market, but Rohit Ghai, CEO of RSA Security, tells RSAC 2023 attendees that he's hopeful AI tools and human workers can coexist."
+    publishedDateTime: 2023-04-26T16:04:00Z
+    webUrl: "https://www.pcmag.com/news/ai-will-take-many-cybersecurity-jobs-but-its-not-a-complete-disaster"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/05iUDYbdzZRKkboE6Y2NAzm-1.fit_lim.size_1200x630.v1682519762.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Cyble Triumphs Yet Again With 9 Category Wins at the Global InfoSec Awards 2023, Including Editor's Choice for Cybersecurity Startup"
     excerpt: "Cyble, the Y Combinator-backed leader in AI-powered global cyber threat intelligence, today announced that it has been named a winner in 9 categories of the 11th Annual Global InfoSec Awards hosted by the Cyber Dfense Magazine CDM,"
     publishedDateTime: 2023-04-25T04:41:00Z
@@ -64,6 +78,6 @@ related:
       domain: siliconangle.com
     quality: 14
 
-secured: "6oWdgcTJcxEtLKVaWz3hcKyCRC/xvs+HgtMLIcr0sXYqFqtFSmR6sX+CQe70QUO2U/1Kwrz1oCD/Bayao7q+EuuL6k4vEWBh0pWvjJaUc8ffIUSEqLXZlyLsP2GnnSsn/6vpWbT4q934dsHSoBGWBGUUSE9Jfpxli8k5pDi1SHlqQvvB2uYGBTP7bq/ROM9i0GavQ4FLZ9Y94odvHi+Rn3rWdxmCJOJolEEqub//rqDWl52FqbaItcNsMuskYqnC7YwRG/VZJVKH+shvJqdzAtcQDmb5Q+0ZP1KbOndFrEw/fjBDjPwi8KglATyp+ptc3+VAg/n/e7WkZ/K59R0elvziqfHdQGJOoAoqWXGmT2k=;/td+fvZkUzcHqMqxaR5zSw=="
+secured: "3IkGCNJ7k4RE5k7BRyw4NckQXXn9eBgTN57EC9W7GcvtyPJ3aLaR7h6XJ7n7emj4OOaXrbLwZ8CFcEWpk8bTqfuYaf1qdr4h1YldeRNxfkI+UuA1IxoN5YDzvCBCi1RIEd5MKp1z689n3Rv/WVFnjB0Pyg32l0yEiIxT87wo1MP0f+UYGoH8FJUj75i5idyEHjHbSuuvNkah8sOXjPBMbROn3OBnAXYTn+zGJSNnQiZ5g5lONWnrozZrJG4bmDnTfpJ5dvWo0YV5aEH5qr08GuEwn0jywOecRZ1F94DTjYpRkDeEaIMROiXJhR4t0ymFYxIFsyIyyEMN85/o2YON5MJ5tQFSLgsoKEi1NwPgX0tVfMgJNMUltCb9DTK3ppTt66L46H8Z9UHkkxYcW8/Hr2FeWXFPBZ4+2q4yyhhJGQBdDQ45nGP+sV6FrFajGWrgP4rxDAbaEH/pRXwiaydivx0h3STW0fQb5w8yI3NS/fQYFJ11aFMkZoQf3kUIK7rlxCd5HjajCM8FShyFnOBanw==;+4nNlVZvMmV3uWZt/Z9now=="
 ---
 

@@ -2,49 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2023-03-09-heres-how-facial-recognition-is-changing-travel-through-bay-area-airports.md",
-      "title": "Here’s how facial recognition is changing travel through Bay Area airports",
-      "excerpt": "For speedier entry into the U.S., your most important travel tool is now your face. All three of the Bay Area’s airports are deploying new facial recognition technology, called Simplified Arrival, to screen incoming international passengers and testing it in San Jose to track some departing passengers too.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bostonherald.com/2023/03/08/heres-how-facial-recognition-is-changing-travel-through-bay-area-airports/",
-      "originalUrl": "https://www.bostonherald.com/2023/03/08/heres-how-facial-recognition-is-changing-travel-through-bay-area-airports/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bostonherald.com/wp-content/uploads/2023/03/SJM-L-BIOMETRICS-0308-2-1.jpg?w=1024&h=575",
-          "width": 1024,
-          "height": 575,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bostonherald.com/2023/03/08/heres-how-facial-recognition-is-changing-travel-through-bay-area-airports/amp/",
-      "cdnAmpWebUrl": "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2023/03/08/heres-how-facial-recognition-is-changing-travel-through-bay-area-airports/amp/",
-      "publishedDateTime": "2023-03-08T18:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Boston Herald",
-        "domain": "bostonherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-03-09-bay-area-airports-adopt-facial-recognition-to-process-travelers.md",
       "title": "Bay Area Airports Adopt Facial Recognition to Process Travelers",
       "excerpt": "All three of the Bay Area’s airports are deploying new facial recognition technology, called Simplified Arrival, to screen incoming international passengers and testing it in San Jose to track some departing passengers too.",
@@ -1372,6 +1329,58 @@
       "ampWebUrl": "https://www.wired.com/story/software-criticism/amp",
       "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/software-criticism/amp",
       "publishedDateTime": "2023-02-23T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-23-in-ukraine-identifying-the-dead-comes-at-a-human-rights-cost.md",
+      "title": "In Ukraine, Identifying the Dead Comes at a Human Rights Cost",
+      "excerpt": "Five days after Russia launched its full-scale invasion of Ukraine, a year ago this week, US-based facial recognition company Clearview AI offered the Ukrainian government free access to its ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/russia-ukraine-facial-recognition-technology-death-military/",
+      "originalUrl": "https://www.wired.com/story/russia-ukraine-facial-recognition-technology-death-military/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/63f6321a7d87edd2f4f351b3/master/pass/ideas_GettyImages-1246812281.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/russia-ukraine-facial-recognition-technology-death-military/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/russia-ukraine-facial-recognition-technology-death-military/amp",
+      "publishedDateTime": "2023-02-22T18:39:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Wired",

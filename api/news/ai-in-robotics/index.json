@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/darylaustin/2023/04/25/jellyfish-robots-could-one-day-clean-up-the-worlds-oceans/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -956,49 +956,6 @@
       ]
     },
     {
-      "path": "_news/2023-04-17-the-ai-revolution-googles-artificial-intelligence-developers-on-whats-next-in-the-field.md",
-      "title": "The AI revolution: Google's artificial intelligence developers on what's next in the field",
-      "excerpt": "The revolution in artificial intelligence is at the center of a debate ranging from those who hope it will save humanity to those who predict doom. Scott Pelley headed to Google to see what's coming next in AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/sanfrancisco/news/ai-advancements-google-artificial-intelligence-future/",
-      "originalUrl": "https://www.cbsnews.com/sanfrancisco/news/ai-advancements-google-artificial-intelligence-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/04/14/c12480c9-3363-478b-86bf-a856a2fa8598/thumbnail/1200x630/7b4e4968150471b425ee46c93ff66fd1/google-robot-1.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/sanfrancisco/news/ai-advancements-google-artificial-intelligence-future/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/ai-advancements-google-artificial-intelligence-future/",
-      "publishedDateTime": "2023-04-17T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-17-deep-learning-robotics-dlrob-announces-support-for-universal-robots-devices-in-its-ai-powered-robotics-software.md",
       "title": "Deep Learning Robotics (DLRob) Announces Support for Universal Robots devices in its AI-powered Robotics Software",
       "excerpt": "Deep Learning Robotics (DLRob), a leading provider of AI robotics software, has announced its support for new hardware devices in its latest software update. The new",
@@ -1413,6 +1370,49 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-04-13-column-does-ai-mean-the-four-day-workweek-and-its-happy-companion-the-three-day-weekend-is-almost-here.md",
+      "title": "Column: Does AI mean the four-day workweek — and its happy companion, the three-day weekend — is almost here?",
+      "excerpt": "Who says the world is going to hell and the future is bleak? Artificial intelligence, advanced robotics and job automation hold out the hope of less work, more leisure and long weekends every weekend.",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/opinion/story/2023-04-13/artificial-intelligence-ai-four-day-week-automation-robots",
+      "originalUrl": "https://www.latimes.com/opinion/story/2023-04-13/artificial-intelligence-ai-four-day-week-automation-robots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/dd66ea5/2147483647/strip/true/crop/6720x3528+0+476/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F13%2Fa1%2F477d5a30ae522aab1164bed4acec%2Fimg-3075003-fi-ports-aut-2-1-b064rpps.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-13T03:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],

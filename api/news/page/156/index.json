@@ -2,49 +2,6 @@
   "page": 156,
   "value": [
     {
-      "path": "_news/2022-12-09-india-could-be-next-super-power-in-ai-says-ibm-india-md.md",
-      "title": "India could be next super power in AI, says IBM India MD",
-      "excerpt": "BENGALURU: In 2023, emerging technologies such as automation, artificial intelligence (AI), 5G/6G, augmented/virtual reality and robotics will be a game changer and many enterprises are now ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newindianexpress.com/business/2022/dec/09/india-could-be-nextsuper-power-in-aisays-ibm-india-md-2526458.html",
-      "originalUrl": "https://www.newindianexpress.com/business/2022/dec/09/india-could-be-nextsuper-power-in-aisays-ibm-india-md-2526458.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2019/6/30/w600X390/IBM-Hiring_Veterans_AP.jpg",
-          "width": 600,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newindianexpress.com/business/2022/dec/09/india-could-be-nextsuper-power-in-aisays-ibm-india-md-2526458.amp",
-      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2022/dec/09/india-could-be-nextsuper-power-in-aisays-ibm-india-md-2526458.amp",
-      "publishedDateTime": "2022-12-08T18:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Indian Express",
-        "domain": "newindianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-12-09-apple-audi-and-others-scale-back-self-driving-others-go-further.md",
       "title": "Apple, Audi And Others Scale Back Self-Driving, Others Go Further",
       "excerpt": "The consolidation and shake-out in the self-driving business brought on by the bad market conditions of 2022 are continuing. A recent report suggests that Apple will scale back its secretive ...",
@@ -1104,6 +1061,40 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-09-why-every-office-needs-a-window-the-influence-of-a-view-on-cognitive-performance.md",
+      "title": "Why every office needs a window: The influence of a view on cognitive performance",
+      "excerpt": "Dr. Baumann, a cognitive neuroscientist, said those in the room with a view performed best. \"When people were able to see the sky and trees they produced more answers in a task that demanded they ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-12-office-window-view-cognitive.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-12-office-window-view-cognitive.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-08T10:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     }
