@@ -2,6 +2,85 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2023-03-03-microsoft-and-mitre-create-tool-to-help-security-teams-prepare-for-attacks-on-machine-learning-systems.md",
+      "title": "Microsoft and MITRE Create Tool to Help Security Teams Prepare for Attacks on Machine Learning Systems",
+      "excerpt": "New Arsenal plug-in brings together Microsoft Counterfit, MITRE CALDERA™, and MITRE ATLAS™ to help cybersecurity practitioners better understand threats to machine learning systems Microsoft and MITRE have developed a plug-in that combines several open ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/03/b31174152/microsoft-and-mitre-create-tool-to-help-security-teams-prepare-for-attacks-on-machine-learning-sys",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/03/b31174152/microsoft-and-mitre-create-tool-to-help-security-teams-prepare-for-attacks-on-machine-learning-sys",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/31174152",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31174152",
+      "publishedDateTime": "2023-03-02T08:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Security",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-03-nvidia-nasdaqnvda-riding-the-ai-chip-buzz.md",
+      "title": "Nvidia (NASDAQ:NVDA): Riding the AI Chip Buzz",
+      "excerpt": "The decline in the end market demand due to macroeconomic weakness and inventory issues dragged chip stocks lower, including Nvidia (NASDAQ:NVDA). However, the growing buzz around AI (Artificial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/nvidia-nasdaq:nvda:-riding-the-ai-chip-buzz",
+      "originalUrl": "https://www.nasdaq.com/articles/nvidia-nasdaq:nvda:-riding-the-ai-chip-buzz",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-02T08:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-02-chips-industry-goes-all-in-on-ai.md",
       "title": "Chips industry goes all-in on AI",
       "excerpt": "US firm Nvidia dominates the market in specialised chips known as GPUs, which happen to be ideal for training AI programmes like the wildly popular chatbot ChatGPT. \"Technology trends are working ...",
@@ -1047,84 +1126,6 @@
         "AI",
         "Machine Learning",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-03-02-icici-prudential-life-insurance-leverages-machine-learning-models-for-customers.md",
-      "title": "ICICI Prudential Life Insurance leverages machine learning models for customers",
-      "excerpt": "ICICI Prudential Life Insurance has deployed advanced machine learning models for their customers. This digital solution predicts future persistency behavior and has enabled the Company to improve persistency across all cohorts.",
-      "sourceUrl": null,
-      "webUrl": "https://cio.economictimes.indiatimes.com/news/corporate-news/icici-prudential-life-insurance-leverages-machine-learning-models-for-customers/98351567",
-      "originalUrl": "https://cio.economictimes.indiatimes.com/news/corporate-news/icici-prudential-life-insurance-leverages-machine-learning-models-for-customers/98351567",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-98351567,imgsize-15524,width-1200,height-628,overlay-etcio/icici-prudential-life-insurance-leverages-machine-learning-models-for-customers.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/icici-prudential-life-insurance-leverages-machine-learning-models-for-customers/98351567",
-      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/icici-prudential-life-insurance-leverages-machine-learning-models-for-customers/98351567",
-      "publishedDateTime": "2023-03-01T19:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cio.economictimes.indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-03-02-richard-kyte-here-are-the-ethical-questions-we-should-be-asking-about-ai.md",
-      "title": "Richard Kyte: Here are the ethical questions we should be asking about AI",
-      "excerpt": "Richard Kyte is director of the D.B. Reinhart Institute for Ethics in Leadership at Viterbo University in La Crosse, Wis., and co-host of \"The Ethical Life\" podcast. Our society has experienced plenty of disruptive technology over the past couple of centuries,",
-      "sourceUrl": null,
-      "webUrl": "https://www.stltoday.com/news/national/richard-kyte-here-are-the-ethical-questions-we-should-be-asking-about-ai/article_9a3f6f5b-eccb-56ba-b8f9-c295ecce862d.html",
-      "originalUrl": "https://www.stltoday.com/news/national/richard-kyte-here-are-the-ethical-questions-we-should-be-asking-about-ai/article_9a3f6f5b-eccb-56ba-b8f9-c295ecce862d.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-01T18:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "St. Louis Post-Dispatch",
-        "domain": "stltoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

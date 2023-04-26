@@ -37,20 +37,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "APS music education program receives national recognition"
-    excerpt: "Austin Public Schools has been named one of the Best Communities for Music Education by The NAMM Foundation for its outstanding commitment to music education. Now in its 24th year, the Best Communities for Music Education designation is awarded to districts that demonstrate outstanding achievement in efforts to provide music access and education to all"
-    publishedDateTime: 2023-04-21T15:09:00Z
-    webUrl: "https://www.austindailyherald.com/2023/04/aps-music-education-program-receives-national-recognition/"
-    type: article
-    provider:
-      name: YAHOO!News
-      domain: austindailyherald.com
-    quality: 41
-    images:
-      - url: "https://www.austindailyherald.com/wp-content/uploads/sites/15/2019/03/0306-Band-Piece2.jpg"
-        width: 800
-        height: 425
-        isCached: true
 
 secured: "CRMGC/wpECGwZoapL84xc0ipH4ackwpQ11wCDyOfj6JrEfrOIIJswTZqINwpeLHippEZmlEpynqX6xhDlt9Hl3KBL7qtEAZdnbv1vc+fwAM9f3uBW0XjrCVGISiToA5FW9tt3Xs24L9hDmJi3ZlF1th41C3qpI9g3+9p3wkI5tkaCp+SaGN2yrTeJDqMFMaEWa78tQjVS2utkhnUf8/Pra3fAP6bsWIfeea576BrimLAPD4i2pIElDoypsMm2qOGHONyranbY+id1BNoD3uAZKuiqlX2H3wovTr42W3G3qRNbE5unHC2tZjhyoCIjbq9wFGcgodMB1GqUy988rjDVV6+e2tnAl3tNnhda+7r35McffWSm00CczMMaLaBKSn24K+Ca0pRJA4efRnnG+fdmht/9L76MPQzj6zYy8rzpeqPvFCKD0FiYuN53XdYy4NmcYfprO2nlHJFyJPznHVF07kxyzEayu3jmLk/7nF8ajXc0NXS7P1o6nlM4nNLVktaJ/1tM1KSj0czkc5sudEvjQ==;XAKA/HB8LG0YU/Syl6VejA=="
 ---

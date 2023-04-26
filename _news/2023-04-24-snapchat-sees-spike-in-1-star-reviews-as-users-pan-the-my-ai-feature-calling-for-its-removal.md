@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/04/24/snapchat-sees-spike-in-1-star-revi
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/04/24/snapchat-sees-spike-in-1-star-reviews-as-users-pan-the-my-ai-feature-calling-for-its-removal/amp/"
 type: article
 quality: 75
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -39,6 +39,15 @@ related:
       name: Washington Times
       domain: washingtontimes.com
     quality: 18
+  - title: "Snapchat's New My AI Feature Is an Example of the 1 Thing No Company Should Ever Do"
+    excerpt: "Here's the thing--Snapchat's new AI feature doesn't have any real value, at least, not to users. It's just entertainment, sort of. It's not something anyone is asking for, and you have to pay to get rid of it. It's as though Snap isn't thinking about its customers, but rather what features it can add to increasingly monetize the app."
+    publishedDateTime: 2023-04-26T07:52:00Z
+    webUrl: "https://www.inc.com/jason-aten/snapchats-new-my-ai-feature-is-an-example-of-1-thing-no-company-should-ever-do.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 11
 
 secured: "bFNnyeJvdnvYOZn0mdAxmdfXIStQHRG0ZRQS72IZn/OKwSNpLjLkIqLV1qGM5LO7gKpaT6fzQF70cj5odIl2WupDJtfzuEg5r5CvtSv9aoK98XIRc/UnIcZS82VAXVJQmXC/Eg2uene5miq4UFNxQlLdvrvxn26wUpGYyRn0yrmU4RiWKCipNoq2IVszoYkVp64PdIHy+ybOFsfJe9pYLZX/an2LMAei/2W94ftJ67PR9RrueqOIt5Ir9EgoEXmbIEhthV/NtjnrbXn+Bjg6K+UMIbkzMNONnYJCV43kCh6nDibVnYBjis+aW76llFYNDPg4D/+QhirkbXvMzrLHunkzGRrTHyiHo+/4KICa2Q4=;2FPM0gnEkXROybAvNWndNg=="
 ---

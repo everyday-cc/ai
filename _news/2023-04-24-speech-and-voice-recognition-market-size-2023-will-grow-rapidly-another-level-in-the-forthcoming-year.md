@@ -71,15 +71,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Manufacturing Market Research, 2023-2030"
-    excerpt: "Artificial Intelligence in Manufacturing Market Insights 2023 by Types (Deep Learning , Computer Vision , Context"
-    publishedDateTime: 2023-04-21T14:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-research-2023-2030-2023-04-21"
+  - title: "Computer Vision System Market Research, 2023-2030"
+    excerpt: "The major players covered in the Computer Vision System market report are: Computer Vision System Marketsize, segment (mainly coveringMajorType (, Hardware, Software and Service, ,),End Users (, Automotive,"
+    publishedDateTime: 2023-04-25T18:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-system-market-research-2023-2030-2023-04-25"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 67
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

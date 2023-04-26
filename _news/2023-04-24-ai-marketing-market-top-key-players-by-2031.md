@@ -136,6 +136,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Market Demand by 2031"
+    excerpt: "The latest market research report on the Global \"Artificial Intelligence Market\" is segmented by Regions, Country,"
+    publishedDateTime: 2023-04-26T06:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-demand-by-2031-2023-04-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Natural Language Processing (NLP) Software Market 2023, Size And Share An Expand Worldwide Business Opportunities"
     excerpt: "Natural Language Processing (NLP) Software Market Size 2023 | New Report (99 Pages) | Analytics | In This Reports"
     publishedDateTime: 2023-04-25T11:13:00Z
@@ -159,6 +173,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
+  - title: "Natural Language Processing (NLP) Market Size, Share, Price, Trends, Growth, Analysis, Report, Forecast 2023-2028"
+    excerpt: "Global Natural Language Processing (NLP) Market Size To Grow At A CAGR Of 21.30% In The Forecast Period Of 2023-2028 30 NORTH GOULD STREET, SHERIDAN, WYOMING, UNITED STATES, April 25, 2023 /einpresswire.com / -- The 'Global natural language processing (nlp ..."
+    publishedDateTime: 2023-04-26T07:05:00Z
+    webUrl: "https://menafn.com/1106098898/Natural-Language-Processing-NLP-Market-Size-Share-Price-Trends-Growth-Analysis-Report-Forecast-2023-2028"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 33
+    images:
+      - url: "https://menafn.com/updates/pr/2023-04/26/EP_bceaeimage_story.jpeg"
+        width: 600
+        height: 314
+        isCached: true
 
 secured: "1qtiBGxrEXtkiKl7C+XOhg2PF+CN5kMVMyeTHSqel6dMbMNC+nRUmTZWCZTUBPyV9/vqa+ga9sOf0iHKtFHa23kRerU3ftiz/oBii9YCSbfY1hmx0PMuNm7vBP2NupyoOJl0ygmgoYwR2n1Ig+xf1Myksl0hfUKMNWWw/o1Cttwq+sGn3kGPrk8v6nmWf7BTYTi0xQgJYHS/ZRJO41/cJExMgA0bPyqKnnSY9PZ23vSY69rkwFSkTobM9do73a99WE8/D+bIJM0n82voLORIn39pWJPguiP+fnOW8wUc7yrJjSgws2h0ighl4zxLj87kGA05pyryfgVFkBe2hD2cGRq+xOnby4Ps3as3QsiIBuY=;ZfK+mSFX1MMfYtfC4WlH7g=="
 ---

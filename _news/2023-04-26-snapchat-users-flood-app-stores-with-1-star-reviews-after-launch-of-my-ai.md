@@ -35,6 +35,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Snapchat's New My AI Feature Is an Example of the 1 Thing No Company Should Ever Do"
+    excerpt: "Here's the thing--Snapchat's new AI feature doesn't have any real value, at least, not to users. It's just entertainment, sort of. It's not something anyone is asking for, and you have to pay to get rid of it. It's as though Snap isn't thinking about its customers, but rather what features it can add to increasingly monetize the app."
+    publishedDateTime: 2023-04-26T07:52:00Z
+    webUrl: "https://www.inc.com/jason-aten/snapchats-new-my-ai-feature-is-an-example-of-1-thing-no-company-should-ever-do.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 11
 
 secured: "r1sR7hA3CYtR7bJoppsTtNT1ywQNf7snKEp3EZrxCrxjP9cvoUjSmRWNKt2YO31vOtQOM2OwUmMA1LJdegJOaKSbhOPxiokSrpnU9RWaGYxFTaCzu7VUBqZLK/BuAqoo5KjXbU9Jp+JnuTvQAq1mb23KWuniyPySVYiPuxZIGaHcoydDpa44nAym50wYjBs8JM7PcmzPmgZcHhcf38Ug0ckvCL+LafmLzhVhxICZisHSvRYRxvuPyAxYuvkqyt8KyKZUboUAz67gq7bOMaBQBH6O3KyUzNRqn6Wu1XH7AO4s/U/JhBV6QfBb5+/BJG68fWtJvVhnnYp+uTUN/ZcbPB4KVCvqEwm2fMoAPBjWl6ayQIu8LS6x+Ez/NLCVFyiI5C5czDynG78gohYNnKRd+55lZS8tVDdSydS3tGGTnf1oKKcN0bcFKrLSmMDAkpT/I3IR+/C8fNVCCwk71dGm2gMF6G/DOOTfksStjznCKZIZOQrzQi3Ri4qJ/WAeZcfzUNTdwtrtbJMsanC6+Lt/2g==;SMVAu1XyMzwISyWx/h9Opg=="
 ---

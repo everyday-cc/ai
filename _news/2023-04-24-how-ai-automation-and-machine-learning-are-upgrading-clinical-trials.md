@@ -7,7 +7,7 @@ originalUrl: "https://www.pharmaceutical-technology.com/sponsored/how-ai-automat
 webUrl: "https://www.pharmaceutical-technology.com/sponsored/how-ai-automation-and-machine-learning-are-upgrading-clinical-trials/"
 type: article
 quality: 54
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       - url: "https://cdn.ttgtmedia.com/rms/onlineimages/ai_a352095729.jpg"
         width: 1200
         height: 400
-        isCached: true
-  - title: "AI Adoption in Healthcare is Growing. Healthcare Pros Need To Differentiate Between AI, Automation, and Unfounded Hype."
-    excerpt: "AI adoption in healthcare continues to grow, and with it comes an important distinction between AI and automation. Healthcare professionals should make sure to understand those specifics to make intentional technology adoption decisions."
-    publishedDateTime: 2023-04-21T14:02:00Z
-    webUrl: "https://marketscale.com/industries/healthcare/ai-adoption-in-healthcare-is-growing-healthcare-pros-need-to-differentiate-between-ai-automation-and-unfounded-hype/"
-    type: article
-    provider:
-      name: marketscale
-      domain: marketscale.com
-    quality: 30
-    images:
-      - url: "https://marketscale.com/wp-content/uploads/2023/04/shutterstock_2136963833.jpg"
-        width: 1000
-        height: 428
         isCached: true
   - title: "Artificial intelligence innovation: Leading companies in autonomous-manual transition handling for the automotive industry"
     excerpt: "GlobalData uncovers the leading innovators in autonomous-manual transition handling for the automotive industry."

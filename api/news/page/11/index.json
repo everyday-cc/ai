@@ -2,6 +2,59 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-04-17-gpu-for-deep-learning-market-analysis-2023-2030-understanding-the-latest-market-trends.md",
+      "title": "GPU for Deep Learning Market Analysis [2023-2030] Understanding the Latest Market Trends",
+      "excerpt": "This GPU for Deep Learning Market report researches the key producers of GPU for Deep Learning, also provides the sales of main regions and countries. Highlights of the upcoming m",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-analysis-2023-2030-understanding-the-latest-market-trends-2023-04-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-analysis-2023-2030-understanding-the-latest-market-trends-2023-04-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-16T22:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-04-17-is-artificial-intelligence-advancing-too-quickly-what-ai-leaders-at-google-say.md",
       "title": "Is artificial intelligence advancing too quickly? What AI leaders at Google say",
       "excerpt": "The soccer robots, for example, can't write up a grocery list or book your travel or drive your car. The ultimate goal is what's called artificial general intelligence-- a learning machine that can score on a wide range of talents. Scott Pelley ...",
@@ -939,6 +992,49 @@
       ]
     },
     {
+      "path": "_news/2023-04-15-elon-musk-founds-new-artificial-intelligence-company-called-xai.md",
+      "title": "Elon Musk founds new artificial intelligence company called X.AI",
+      "excerpt": "Twitter owner Elon Musk has founded a new artificial intelligence company named X.AI, according to a Nevada business filing from last month. The filing, dated March 9, lists Musk as the company ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/policy/technology/3952116-elon-musk-founds-new-artificial-intelligence-company-called-x-ai/",
+      "originalUrl": "https://thehill.com/policy/technology/3952116-elon-musk-founds-new-artificial-intelligence-company-called-x-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/wp-content/uploads/sites/2/2023/04/6436cc09aba5a3.70276051-e1681563491443.jpeg?w=1280",
+          "width": 1280,
+          "height": 719,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/policy/technology/3952116-elon-musk-founds-new-artificial-intelligence-company-called-x-ai/amp/",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/3952116-elon-musk-founds-new-artificial-intelligence-company-called-x-ai/amp/",
+      "publishedDateTime": "2023-04-15T01:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-15-thailand-uses-facial-recognition-technology-in-disease-control.md",
       "title": "Thailand uses facial recognition technology in disease control",
       "excerpt": "Eye and facial recognition technology will be used in a pilot project in Thailand, aimed at improving healthcare services for foreign workers, refugees and ethnic people in five provinces, the Thai Department of Disease Control has said.",
@@ -1065,109 +1161,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-15-elon-musk-quietly-starts-xai-a-new-artificial-intelligence-company-to-challenge-openai.md",
-      "title": "Elon Musk quietly starts X.AI, a new artificial intelligence company to challenge OpenAI",
-      "excerpt": "Elon Musk is preparing to launch a new artificial intelligence startup, X.AI, that aims to rival OpenAI, according to a bombshell report published by the Wall Street Journal on Friday.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/elon-musk-quietly-starts-x-ai-a-new-artificial-intelligence-company-to-challenge-openai/",
-      "originalUrl": "https://venturebeat.com/ai/elon-musk-quietly-starts-x-ai-a-new-artificial-intelligence-company-to-challenge-openai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 525,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/04/elon.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/elon-musk-quietly-starts-x-ai-a-new-artificial-intelligence-company-to-challenge-openai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/elon-musk-quietly-starts-x-ai-a-new-artificial-intelligence-company-to-challenge-openai/amp/",
-      "publishedDateTime": "2023-04-14T17:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-04-15-3-generative-ai-misunderstandings-resolved-for-enterprise-success.md",
-      "title": "3 generative AI misunderstandings resolved for enterprise success",
-      "excerpt": "ChatGPT, Bing AI and other generative AI tools have arrived. Will we surrender to the algorithms, or is there more nuance to the story?",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/3-generative-ai-misunderstandings-resolved-for-enterprise-success/",
-      "originalUrl": "https://venturebeat.com/ai/3-generative-ai-misunderstandings-resolved-for-enterprise-success/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/03/artificial-intelligence_brain_machine-learning_digital-transformation_world-networking-100777429-large.3x2.jpg?w=1200&strip=all",
-          "width": 700,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/3-generative-ai-misunderstandings-resolved-for-enterprise-success/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/3-generative-ai-misunderstandings-resolved-for-enterprise-success/amp/",
-      "publishedDateTime": "2023-04-14T17:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

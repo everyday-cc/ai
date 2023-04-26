@@ -127,6 +127,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Market Demand by 2031"
+    excerpt: "The latest market research report on the Global \"Artificial Intelligence Market\" is segmented by Regions, Country,"
+    publishedDateTime: 2023-04-26T06:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-demand-by-2031-2023-04-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI Marketing Market Top Key Players by 2031"
     excerpt: "The latest market research report on the Global \"AI Marketing Market\" is segmented by Regions, Country, Company and"
     publishedDateTime: 2023-04-24T08:41:00Z
@@ -159,6 +173,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
+  - title: "Natural Language Processing (NLP) Market Size, Share, Price, Trends, Growth, Analysis, Report, Forecast 2023-2028"
+    excerpt: "Global Natural Language Processing (NLP) Market Size To Grow At A CAGR Of 21.30% In The Forecast Period Of 2023-2028 30 NORTH GOULD STREET, SHERIDAN, WYOMING, UNITED STATES, April 25, 2023 /einpresswire.com / -- The 'Global natural language processing (nlp ..."
+    publishedDateTime: 2023-04-26T07:05:00Z
+    webUrl: "https://menafn.com/1106098898/Natural-Language-Processing-NLP-Market-Size-Share-Price-Trends-Growth-Analysis-Report-Forecast-2023-2028"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 33
+    images:
+      - url: "https://menafn.com/updates/pr/2023-04/26/EP_bceaeimage_story.jpeg"
+        width: 600
+        height: 314
+        isCached: true
 
 secured: "Bl4wiSRpkIvIaE6p/hqImiE+cD01UjeAn+GvhKRCe0WIbqZDi8z/x0hDY34njaT5PVWHrLgSkT3n3Jdn8nXGDIlZRL4X8lYvATADibz1u4OJnzo1Jtp2Jlfd1Hp68YkAf5qL3Q9NNt2JrPANnwiGMKOvRaveTCAdjhhEniMxWhzaril3N+DD6Tlr4QaNTxP20p9PfeUMFlq5UVyMTCCfK16RCM6teazngKuB/7xy5ZFLDfsAzst9RG8ggEwjYRv2EWZeNMx38HBJoHcpDlBaNHtI8Ul7IXHM3xtQcViyqle6/iHhVH1qPoSH8zFk+HP4gCanmq/MLjwLx5G7IKY2Pewot7XYTfvA33NJcuX2ifA=;E57QmQc+qly8eCQg1AVvAA=="
 ---

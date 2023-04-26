@@ -2,6 +2,48 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-04-25-new-ai-tool-describes-surroundings-to-visually-impaired-people.md",
+      "title": "New AI tool describes surroundings to visually impaired people",
+      "excerpt": "The app Be My Eyes has a new artificial intelligence tool that provides low vision or blind users with an audio description of whatever they are facing. NBC News’ Ellison Barber spoke with one user who is testing the virtual assistant and says it is helping him do more on his own.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/nightly-news/video/new-ai-tool-describes-surroundings-to-visually-impaired-people-171207237511",
+      "originalUrl": "https://www.nbcnews.com/nightly-news/video/new-ai-tool-describes-surroundings-to-visually-impaired-people-171207237511",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_04/1682377642150_nn_eba_ai_revolution_be_my_eyes_230424_1920x1080-bto1k7.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo171207237511",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo171207237511",
+      "publishedDateTime": "2023-04-24T16:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-25-66-of-americans-would-not-want-ai-to-help-make-hiring-decisions.md",
       "title": "66% of Americans would not want AI to help make hiring decisions",
       "excerpt": "A recent Pew Research study about using artificial intelligence when hiring and evaluating workers reveals mixed opinions.",
@@ -690,7 +732,7 @@
       "originalUrl": "https://techcrunch.com/2023/04/24/snapchat-sees-spike-in-1-star-reviews-as-users-pan-the-my-ai-feature-calling-for-its-removal/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -792,7 +834,7 @@
       "originalUrl": "https://www.pharmaceutical-technology.com/sponsored/how-ai-automation-and-machine-learning-are-upgrading-clinical-trials/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -1121,7 +1163,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/04/24/5-crucial-components-of-an-ai-company/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -1137,57 +1179,6 @@
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/04/24/5-crucial-components-of-an-ai-company/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/04/24/5-crucial-components-of-an-ai-company/amp/",
-      "publishedDateTime": "2023-04-24T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-24-using-generative-ai-in-workforce-management.md",
-      "title": "Using Generative AI In Workforce Management",
-      "excerpt": "Generative AI is the most transformative thing in the business landscape right now, perhaps even since the proliferation of the internet.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/using-generative-ai-in-workforce-management/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/using-generative-ai-in-workforce-management/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 197,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62825152c50f091b0e2568f8/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/using-generative-ai-in-workforce-management/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/24/using-generative-ai-in-workforce-management/amp/",
       "publishedDateTime": "2023-04-24T04:30:00-07:00",
       "updatedDateTime": null,
       "provider": {

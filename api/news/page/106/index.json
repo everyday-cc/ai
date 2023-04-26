@@ -2,6 +2,101 @@
   "page": 106,
   "value": [
     {
+      "path": "_news/2023-01-28-elon-musk-is-being-investigated-by-the-sec-for-tesla-self-driving-claims-report-says.md",
+      "title": "Elon Musk is being investigated by the SEC for Tesla self-driving claims, report says",
+      "excerpt": "Elon Musk is facing SEC scrutiny into whether he may have made false or misleading statements about Tesla's self-driving capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/01/27/elon-musk-is-being-investigated-by-the-sec-for-tesla-self-driving-claims/",
+      "originalUrl": "https://techcrunch.com/2023/01/27/elon-musk-is-being-investigated-by-the-sec-for-tesla-self-driving-claims/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 277,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/11/tesla-fsd.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/01/27/elon-musk-is-being-investigated-by-the-sec-for-tesla-self-driving-claims/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/01/27/elon-musk-is-being-investigated-by-the-sec-for-tesla-self-driving-claims/amp/",
+      "publishedDateTime": "2023-01-27T15:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!Finance",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-28-ted-lieu-uses-a-robot-to-draft-the-first-ai-written-bill-for-congress.md",
+      "title": "Ted Lieu uses a robot to draft the first AI-written bill for Congress",
+      "excerpt": "Rep. Ted Lieu, a California Democrat, is pulling out all the stops to warn us about the need to regulate artificial intelligence technology such as ChatGPT.",
+      "sourceUrl": null,
+      "webUrl": "https://www.msnbc.com/the-reidout/reidout-blog/ted-lieu-chatgpt-ai-bill-congress-rcna67944",
+      "originalUrl": "https://www.msnbc.com/the-reidout/reidout-blog/ted-lieu-chatgpt-ai-bill-congress-rcna67944",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-01/230127-ROB-Ted-Lieu-jg-copy-c5e42f.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna67944",
+      "cdnAmpWebUrl": "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna67944",
+      "publishedDateTime": "2023-01-27T14:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MSNBC",
+        "domain": "msnbc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-28-top-5-ai-trends-to-watch-out-for-in-2023.md",
       "title": "Top 5 AI trends to watch out for in 2023",
       "excerpt": "The internet has significantly impacted the way we communicate and access knowledge systems. It has made possible for people all over the world to connect and share data, and has pushed the boundaries of what we understand today as access and surveillance in the digital world.",
@@ -1070,91 +1165,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-27-buzzfeed-ceo-says-ai-may-revolutionize-media-fears-possible-dystopian-path.md",
-      "title": "BuzzFeed CEO says AI may revolutionize media, fears possible 'dystopian' path",
-      "excerpt": "Over the holidays while most media executives were perhaps looking to get away from work, BuzzFeed's CEO was online, immersed in experimenting with artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/sanfrancisco/news/buzzfeed-ceo-says-ai-could-revolutionize-media-fears-possible-dystopian-path/",
-      "originalUrl": "https://www.cbsnews.com/sanfrancisco/news/buzzfeed-ceo-says-ai-could-revolutionize-media-fears-possible-dystopian-path/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2020/11/19/8df9dbcc-6bd3-4949-98bb-acec75321acc/thumbnail/1200x630g8/72e7059bdd593ff3bdc845eb0f73ba0d/gettyimages-169671245.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/sanfrancisco/news/buzzfeed-ceo-says-ai-could-revolutionize-media-fears-possible-dystopian-path/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/buzzfeed-ceo-says-ai-could-revolutionize-media-fears-possible-dystopian-path/",
-      "publishedDateTime": "2023-01-26T18:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-27-explainer-what-is-an-australian-black-voice-to-parliament.md",
-      "title": "EXPLAINER: What is an Australian Black Voice to Parliament?",
-      "excerpt": "Australians expect to vote this year in a referendum that would enshrine in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies that effect their lives known a",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/International/wireStory/explainer-australian-black-voice-parliament-96681527",
-      "originalUrl": "https://abcnews.go.com/International/wireStory/explainer-australian-black-voice-parliament-96681527",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/International/wirestory_07694a5fc5e28b243c09873c994bb3d6_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/International/wireStory/explainer-australian-black-voice-parliament-96681527",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/explainer-australian-black-voice-parliament-96681527",
-      "publishedDateTime": "2023-01-26T16:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

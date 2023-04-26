@@ -2,6 +2,101 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2023-03-21-pickle-launches-its-truck-unloading-robot-arm.md",
+      "title": "Pickle launches its truck unloading robot arm",
+      "excerpt": "MIT-birthed startup Pickle publicly showcased its container unloading robot for the first time this morning at ProMat.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/03/20/pickle-launches-its-truck-unloading-robot-arm/",
+      "originalUrl": "https://techcrunch.com/2023/03/20/pickle-launches-its-truck-unloading-robot-arm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/03/20230320_130151.jpg?resize=1200,900",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/03/20/pickle-launches-its-truck-unloading-robot-arm/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/20/pickle-launches-its-truck-unloading-robot-arm/amp/",
+      "publishedDateTime": "2023-03-20T13:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!News",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-21-this-mind-controlled-robot-will-pour-you-the-perfect-pint.md",
+      "title": "This mind-controlled robot will pour you the perfect pint",
+      "excerpt": "When I say “mind reading robots” what's the first thing that comes to mind? I’m willing to bet you thought of some campy horror movie from the 80’s, but actually, I’m referring to Homer ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.stltoday.com/news/science/video_f8c65b1d-dc1a-57ad-becb-46db5495ea65.html",
+      "originalUrl": "https://www.stltoday.com/news/science/video_f8c65b1d-dc1a-57ad-becb-46db5495ea65.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/f/8c/f8c65b1d-dc1a-57ad-becb-46db5495ea65/64187bfce9e26.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-20T13:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "St. Louis Post-Dispatch",
+        "domain": "stltoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-21-google-showcases-a-collaborative-partner-in-an-ai-powered-workspace.md",
       "title": "Google Showcases ‘A Collaborative Partner’ In An AI-Powered Workspace",
       "excerpt": "Days later, Google debuted its own conversational AI model called Bard. It was the start of an AI race that will go down in history. Google came out strong last week with a slew of AI announcements across several platforms and business units. Here I'll ...",
@@ -1104,101 +1199,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-20-facial-recognition-market-is-booming-worldwide-forecast-2023-2026.md",
-      "title": "Facial Recognition Market Is Booming Worldwide Forecast 2023-2026",
-      "excerpt": "Facial Recognition Market 2023 with 112 Pages Report and enhance with extents shares into sub-counties are covered in",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-is-booming-worldwide-forecast-2023-2026-2023-03-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-is-booming-worldwide-forecast-2023-2026-2023-03-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-19T19:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-20-pgi-to-help-make-cutting-edge-ai-based-healthcare-tools.md",
-      "title": "PGI to help make cutting edge AI-based healthcare tools",
-      "excerpt": "Post Graduate Institute of Medical Education and Research (PGIMER) here has been designated as a centre of excellence for artificial intelligence (AI) in healthcare by the Ministry of Health. The move comes as the Central Government ramps up its efforts to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tribuneindia.com/news/chandigarh/pgi-to-help-make-cutting-edge-ai-based-healthcare-tools-489596",
-      "originalUrl": "https://www.tribuneindia.com/news/chandigarh/pgi-to-help-make-cutting-edge-ai-based-healthcare-tools-489596",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://englishtribuneimages.blob.core.windows.net/gallary-content/2023/3/2023_3$largeimg_582755391.jpg",
-          "width": 660,
-          "height": 402,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-19T18:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Tribune",
-        "domain": "tribuneindia.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

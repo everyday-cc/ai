@@ -57,17 +57,6 @@ related:
         width: 1024
         height: 680
         isCached: true
-  - title: "AI is 'next revolution' in health care. What are the industry's ethical responsibilities?"
-    excerpt: "Robots won't be doing your surgery anytime soon. But AI has a major role to play in health care. What are the human ethical responsibilities around that technology?"
-    publishedDateTime: 2023-04-21T14:52:00Z
-    webUrl: "https://www.bizjournals.com/atlanta/news/2023/04/21/medical-ethics-artificial-intelligence.html"
-    ampWebUrl: "https://www.bizjournals.com/atlanta/news/2023/04/21/medical-ethics-artificial-intelligence.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/atlanta/news/2023/04/21/medical-ethics-artificial-intelligence.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 45
   - title: "Manufacturers hope for AI boost in factory repairs"
     excerpt: "HANOVER–Manufacturers are hoping for the artificial intelligence revolution to reach their factories, envisaging robots being used to repair complex machinery."
     publishedDateTime: 2023-04-24T10:30:00Z

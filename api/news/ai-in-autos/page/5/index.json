@@ -2,6 +2,50 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-03-16-artificial-intelligence-isnt-close-to-becoming-sentient.md",
+      "title": "Artificial intelligence isn't close to becoming sentient",
+      "excerpt": "Chatbots like ChatGPT raise important new questions about how artificial intelligence will shape our lives and about ... rather than the machines' actual personhood. In Japan, where robots are regularly used for elder care, seniors become attached to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Voices/2023/03/16/AI-sentient-danger-artificial-intelligence/5211678968643/",
+      "originalUrl": "https://www.upi.com/Voices/2023/03/16/AI-sentient-danger-artificial-intelligence/5211678968643/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/upi_com/5211678968643/2023/1/db4c392242fd2b808f2c372be5b16d03/v1.5/Artificial-intelligence-isnt-close-to-becoming-sentient.jpg",
+          "width": 1018,
+          "height": 681,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Voices/2023/03/16/AI-sentient-danger-artificial-intelligence/5211678968643/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Voices/2023/03/16/AI-sentient-danger-artificial-intelligence/5211678968643/",
+      "publishedDateTime": "2023-03-16T05:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-03-16-chinese-chatgpt-rival-from-search-engine-firm-baidu-fails-to-impress.md",
       "title": "Chinese ChatGPT rival from search engine firm Baidu fails to impress",
       "excerpt": "Shares plummet after Ernie Bot AI chatbot software falls short of expectations at unveiling in Beijing",
@@ -1312,51 +1356,6 @@
         "AI in Autos",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-03-04-can-religion-save-us-from-artificial-intelligence.md",
-      "title": "Can religion save us from Artificial Intelligence?",
-      "excerpt": "“Indeed, if technological progress increases inequality, it is not true progress,” Pope Francis said in a Nov. 2020 video announcing his prayer intention that robotics and artificial intelligence may always serve humankind. The Vatican’s goal is not ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/world-nation/story/2023-03-03/can-religion-save-us-from-artificial-inte",
-      "originalUrl": "https://www.latimes.com/world-nation/story/2023-03-03/can-religion-save-us-from-artificial-inte",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/f945c1c/2147483647/strip/true/crop/2400x1260+0+170/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F95%2Fe4%2F38a91b6245bcb0f695100dd36eea%2Funnamed.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-03T17:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics",
-        "AI in Autos"
       ]
     }
   ],

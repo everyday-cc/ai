@@ -70,6 +70,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Automotive Artificial Intelligence Market Business Report [2023-2030]"
+    excerpt: "In 2023,Automotive Artificial Intelligence Market with technical and procedural infrastructure that gathers and"
+    publishedDateTime: 2023-04-25T18:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-business-report-2023-2030-2023-04-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) Oven Market Top Manufacturers By 2030"
     excerpt: "Oven market growth? Artificial Intelligence (AI) Oven Market Size is projected to Reach Multimillion USD by 2030, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2030. Browse Detailed TOC,"
     publishedDateTime: 2023-04-25T05:12:00Z

@@ -45,15 +45,6 @@ related:
         width: 1200
         height: 798
         isCached: true
-  - title: "How RevoFi is leading the way in AI training and applications"
-    excerpt: "RevoFi has positioned itself as a prominent player in the cloud computing industry by delivering affordable and accessible solutions while spearheading a revolution in the field"
-    publishedDateTime: 2023-04-21T15:00:00Z
-    webUrl: "https://cointelegraph.com/press-releases/how-revofi-is-leading-the-way-in-ai-training-and-applications"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 19
 
 secured: "1rcDH9gcaCzXAg/I0lNCCRIBnW/eX87sAWMTlQnoYorem+lyopJkVHyUGq1DHw4InhnCkSJUPZNGYnfmGyhQe9Hg9j7yASxQ464jBiQ3g2rgF7KNfha3PZw2lYf8oHjQ/fzFLapKIIPHsr2M2W2JxGFHzy14P0ji1ZVm1YrBpOjN6LzKQLI2fuS/uUb36QaeggORDUOQtpqlhajwLSgPwfCkdW7yq4QS0cZv0ebzOQAZWi8DB9bYPnmPvWgtXsHlomIb/VpKfsju/37jtZVUB1oE9os4zZp6Hj6D7dKlNNKvEuXTKAWe7pmQ5/95uzJX2Rv0IUBbkNFbHJ/XZSRjCZNxixOub0vD3sCJhjZ8qyGRQKE5l32JLPdn4bkBa2B0KCAYgUKJzGcDuF6dpV+hPBaaCWPIIrZzkyX4bkHapU5xK2uyH169tMR62qs1l83fAYXXWhQSzMn7TDy6UuzFL9HC6x9pYzv/OgyIMYDi/1RK0GAZuc2kj/5r9oBI5QSzZcAtFxbnVqliJUg2ghBmnw==;BQzO+cAx96FFyezPh3wdOA=="
 ---

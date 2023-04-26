@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/gpu-for-deep-learning-ma
 webUrl: "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-sales-volume-and-forecast-2030-2023-04-25"
 type: article
 quality: 103
-heat: 123
+heat: 133
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 78
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Neural Networks Market Share and Forecast till 2030"
+    excerpt: "Newest Report will contain the Competitional Analysis of Top 5 Key Plyers (Intel, Starmind, Clarifai, Microsoft,"
+    publishedDateTime: 2023-04-26T00:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-neural-networks-market-share-and-forecast-till-2030-2023-04-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

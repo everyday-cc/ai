@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/how-to-use-microsoft-edges-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-use-microsoft-edges-integrated-bing-ai-image-creator/"
 type: article
 quality: 104
-heat: 324
+heat: 344
 published: true
 
 provider:
@@ -164,6 +164,34 @@ related:
       - url: "https://static.toiimg.com/thumb/resizemode-4,msid-99726281,imgsize-32894,width-800/99726281.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "Microsoft results top forecasts as AI boosts sales"
+    excerpt: "Microsoft has beaten Wall Street's estimates for quarterly revenue and profit, driven by growth in its cloud computing and Office productivity software businesses, and the company said artificial intelligence products were stimulating sales."
+    publishedDateTime: 2023-04-26T06:29:00Z
+    webUrl: "https://www.rte.ie/news/business/2023/0426/1379187-microsoft-quarterly-results/"
+    type: article
+    provider:
+      name: RTE Online
+      domain: www.rte.ie
+    quality: 71
+    images:
+      - url: "https://img.rasset.ie/001d3132-1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Microsoft shares jump 8% as AI juices sales"
+    excerpt: "Microsoft has beaten Wall Street's estimates for quarterly revenue and profit, driven by growth in its cloud computing and Office productivity software businesses, and the company said artificial intelligence products were stimulating sales."
+    publishedDateTime: 2023-04-26T07:33:00Z
+    webUrl: "https://www.breakingnews.ie/business/microsoft-shares-jump-8-as-ai-juices-sales-1467543.html"
+    type: article
+    provider:
+      name: BreakingNews.ie
+      domain: breakingnews.ie
+    quality: 71
+    images:
+      - url: "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjNcXFwvMDJcXFwvMjEyMDQ4MTNcXFwvMi4zNTA4OTk4MC5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pbWFnZXNcXFwvbm8taW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjhjYThjNTEyYjg4NGI1Mjk1MDJhNzY2MjhjYjRiNzA1ZThhODI0N2IifQ==/microsoft-shares-jump-8-as-ai-juices-sales.jpg"
+        width: 1200
+        height: 627
         isCached: true
   - title: "Microsoft shares leap higher as AI juices quarterly sales"
     excerpt: "Microsoft beat estimates for quarterly revenue and profit, with the company saying that artificial intelligence products are helping stimulate sales."

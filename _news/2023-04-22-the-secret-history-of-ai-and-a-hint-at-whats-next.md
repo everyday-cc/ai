@@ -7,8 +7,8 @@ originalUrl: "https://www.wsj.com/articles/the-secret-history-of-ai-and-a-hint-a
 webUrl: "https://www.wsj.com/articles/the-secret-history-of-ai-and-a-hint-at-whats-next-428905de"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Wall Street Journal
@@ -26,6 +26,17 @@ images:
     width: 1280
     height: 640
     isCached: true
+
+related:
+  - title: "How to Use AI to Find Your Next Hire"
+    excerpt: "ChatGpt and AI are amazing tools for your business, but they aren't without flaws. Spend a few minutes conversing with the interface and you will quickly learn that while it is a wealth of knowledge,"
+    publishedDateTime: 2023-04-25T08:43:00Z
+    webUrl: "https://www.inc.com/david-finkel/how-to-use-ai-to-find-your-next-hire.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 17
 
 secured: "GYb4PzC1w+VnCu+dhakvyuO1A2O9IHefEHYAIV0J9JIWAk6ZIU8tIjLKdWSX/NDQrp9OQYH952+aVlqEWlg94mcZMQqr7JHbucSWYyjl/7uw33W1VkYdk5udpMgUiIVQ1PnyttUw3zPHmbs8zGa2mMGLrXCywYtEk/zDVtVsn2vUSD5HOswQv3rrQH94GK4vCXHmuC73tR83dnEcNZKmWE22e+QwSTCky+eYQa2N8PCyYP1BV58dabWT4Orz7TLcSLpTAb3NUlqbyXaskmTLzRD8q2Gpq2k2q8OKui5wmx3MM4D0PluTxbdA3RC1+oQB38qo+cxZ8+qzUCu1sy0m1fSi1e6JURltUan+4f18UaVOOAg0SkVvwA/BKIcHds9U5oStmDgNRQDEaTfpSm9iQibDYRKN2j9Albb4WQtM/96OjmsnseDhnS+8ibWt0mIiW/UNBDmNXT8Qm/1ICWFABE6slwovxkQVs8h/tZg2w/ZpSdG+YFSNUlgIVSmOH1e8JqBrFGUPQBtVu6cSvDH7kg==;KkwtIhzq+iYwapITYEXoQA=="
 ---

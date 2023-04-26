@@ -2,6 +2,83 @@
   "page": 111,
   "value": [
     {
+      "path": "_news/2023-01-24-futurism-cnets-ai-articles-show-evidence-of-plagiarism.md",
+      "title": "Futurism: CNET’s AI articles show evidence of plagiarism",
+      "excerpt": "A Futurism investigation found extensive evidence that the CNET’s artificial intelligence-produced stories show phrasing similarities to articles previously published elsewhere, without giving credit,",
+      "sourceUrl": null,
+      "webUrl": "https://talkingbiznews.com/media-news/futurism-cnets-ai-articles-show-evidence-of-plagiarism/",
+      "originalUrl": "https://talkingbiznews.com/media-news/futurism-cnets-ai-articles-show-evidence-of-plagiarism/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://talkingbiznews.com/wp-content/uploads/2022/08/CNET-Main-Logo-Red.png",
+          "width": 4001,
+          "height": 1485,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://talkingbiznews.com/media-news/futurism-cnets-ai-articles-show-evidence-of-plagiarism/amp/",
+      "cdnAmpWebUrl": "https://talkingbiznews-com.cdn.ampproject.org/c/s/talkingbiznews.com/media-news/futurism-cnets-ai-articles-show-evidence-of-plagiarism/amp/",
+      "publishedDateTime": "2023-01-23T15:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Talking Biz News",
+        "domain": "talkingbiznews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-24-aws-launches-second-infrastructure-region-in-australia.md",
+      "title": "AWS Launches Second Infrastructure Region in Australia",
+      "excerpt": "We are excited about the launch of a second AWS Region in Australia, as it gives us access to advanced technologies, like machine learning and artificial intelligence, at a lower latency to help ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20230123005697/en/AWS-Launches-Second-Infrastructure-Region-in-Australia/?feedref=JjAwJuNHiystnCoBq_hl-QKgmG6JQBT0uUT2P8A7FnP-A1Xt1W6a2nSinTmJVjPl7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LPgxNjXHjsNmKaXEz4koEK2AJhcZjZrEZPnZ-1m8zDO3A==",
+      "originalUrl": "https://www.businesswire.com/news/home/20230123005697/en/AWS-Launches-Second-Infrastructure-Region-in-Australia/?feedref=JjAwJuNHiystnCoBq_hl-QKgmG6JQBT0uUT2P8A7FnP-A1Xt1W6a2nSinTmJVjPl7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LPgxNjXHjsNmKaXEz4koEK2AJhcZjZrEZPnZ-1m8zDO3A==",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-23T15:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "newsroom.businesswire.com",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-24-ai-deep-learning-predicts-brain-tumor-growth.md",
       "title": "AI Deep Learning Predicts Brain Tumor Growth",
       "excerpt": "Artificial intelligence (AI) deep learning combined with patient imaging data is opening a new world of possibilities for medical clinicians and researchers, especially in neuroscience. A new study published in the Journal of Theoretical Biology demonstrates how AI deep learning can predict brain tumor progression for glioblastoma from medical images to accelerate precision medicine.",
@@ -1054,102 +1131,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-23-machine-learning-operations-mlops-market-is-booming-worldwide-including-119-pages-report.md",
-      "title": "Machine Learning Operations (MLOps) Market Is Booming Worldwide | Including 119 Pages Report",
-      "excerpt": "In 2023] The Global Machine Learning Operations (MLOps) Market Size (119 Report Pages) is estimated to be worth",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-operations-mlops-market-is-booming-worldwide-including-119-pages-report-2023-01-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-operations-mlops-market-is-booming-worldwide-including-119-pages-report-2023-01-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-22T17:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-23-artificial-insurance-how-machine-learning-is-transforming-underwriting.md",
-      "title": "Artificial Insurance? How Machine Learning Is Transforming Underwriting",
-      "excerpt": "“French AI startup firm Shift Technology incorporates this technology in their fraud prevention services, which have already processed over 77 million claims. The cognitive machine learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessnewsdaily.com/10203-artificial-intelligence-insurance-industry.html",
-      "originalUrl": "https://www.businessnewsdaily.com/10203-artificial-intelligence-insurance-industry.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.businessnewsdaily.com/app/uploads/2022/04/04073124/audit_andrei_r_getty.jpg",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-22T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business News Daily",
-        "domain": "businessnewsdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

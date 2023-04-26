@@ -2,6 +2,51 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-03-04-can-religion-save-us-from-artificial-intelligence.md",
+      "title": "Can religion save us from Artificial Intelligence?",
+      "excerpt": "“Indeed, if technological progress increases inequality, it is not true progress,” Pope Francis said in a Nov. 2020 video announcing his prayer intention that robotics and artificial intelligence may always serve humankind. The Vatican’s goal is not ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/world-nation/story/2023-03-03/can-religion-save-us-from-artificial-inte",
+      "originalUrl": "https://www.latimes.com/world-nation/story/2023-03-03/can-religion-save-us-from-artificial-inte",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/f945c1c/2147483647/strip/true/crop/2400x1260+0+170/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F95%2Fe4%2F38a91b6245bcb0f695100dd36eea%2Funnamed.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-03T17:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-03-04-one-expert-thinks-elon-musk-is-wrong-about-ai-heres-why-hes-right.md",
       "title": "One Expert Thinks Elon Musk Is Wrong About AI. Here’s Why He’s Right.",
       "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips It’s no secret that Elon Musk is highly focused on artificial",
@@ -1393,49 +1438,6 @@
         "Natural Language Processing",
         "AI in Autos",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-02-24-these-experts-are-racing-to-protect-ai-from-hackers-time-is-running-out.md",
-      "title": "These experts are racing to protect AI from hackers. Time is running out",
-      "excerpt": "\"It has all kinds of AI going on in there: lane assist, sign recognition, and all the rest,\" Draper says, before adding: \"You could imagine all that sort of thing being hacked -- the AI being attacked.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/in-depth/innovation/these-experts-are-racing-to-protect-ai-from-hackers-time-is-running-out/",
-      "originalUrl": "https://www.zdnet.com/in-depth/innovation/these-experts-are-racing-to-protect-ai-from-hackers-time-is-running-out/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-24T05:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

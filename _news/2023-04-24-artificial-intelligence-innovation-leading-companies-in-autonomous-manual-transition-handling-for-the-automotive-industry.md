@@ -46,20 +46,6 @@ related:
         width: 1200
         height: 400
         isCached: true
-  - title: "AI Adoption in Healthcare is Growing. Healthcare Pros Need To Differentiate Between AI, Automation, and Unfounded Hype."
-    excerpt: "AI adoption in healthcare continues to grow, and with it comes an important distinction between AI and automation. Healthcare professionals should make sure to understand those specifics to make intentional technology adoption decisions."
-    publishedDateTime: 2023-04-21T14:02:00Z
-    webUrl: "https://marketscale.com/industries/healthcare/ai-adoption-in-healthcare-is-growing-healthcare-pros-need-to-differentiate-between-ai-automation-and-unfounded-hype/"
-    type: article
-    provider:
-      name: marketscale
-      domain: marketscale.com
-    quality: 30
-    images:
-      - url: "https://marketscale.com/wp-content/uploads/2023/04/shutterstock_2136963833.jpg"
-        width: 1000
-        height: 428
-        isCached: true
   - title: "Artificial intelligence innovation: Leading companies in autopilot-manual switching for the automotive industry"
     excerpt: "The automotive industry continues to be a hotbed of innovation, with activity driven by the growth of connected and autonomous vehicles, and growing importance of technologies such as artificial intelligence,"
     publishedDateTime: 2023-04-24T12:59:00Z

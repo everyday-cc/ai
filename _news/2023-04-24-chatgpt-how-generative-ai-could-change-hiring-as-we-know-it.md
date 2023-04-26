@@ -165,6 +165,22 @@ related:
         width: 1000
         height: 1099
         isCached: true
+  - title: "Is ChatGPT using Artificial Emotional Intelligence as its secret weapon?"
+    excerpt: "Their designers may also prioritize fluency over accuracy. That is one reason why these tools are exceptionally good at mimicking empathy"
+    publishedDateTime: 2023-04-26T06:06:00Z
+    webUrl: "https://www.business-standard.com/technology/tech-news/is-chatgpt-using-artificial-emotional-intelligence-as-its-secret-weapon-123042600306_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/technology/tech-news/is-chatgpt-using-artificial-emotional-intelligence-as-its-secret-weapon-123042600306_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/technology/tech-news/is-chatgpt-using-artificial-emotional-intelligence-as-its-secret-weapon-123042600306_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 43
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2023-04/13/full/1681409565-5088.jpg"
+        width: 3840
+        height: 2562
+        isCached: true
   - title: "How ChatGPT and other advanced AI tools are helping secure the software supply chain"
     excerpt: "AI tools like ChatGPT are improving intelligence gathering and detection and patching of vulnerabilities in the software supply chain."
     publishedDateTime: 2023-04-25T18:05:00Z
@@ -201,6 +217,20 @@ related:
       - url: "https://techwireasia.com/wp-content/uploads/2023/04/shutterstock_1950040216-scaled.jpg"
         width: 2560
         height: 1631
+        isCached: true
+  - title: "AI experts say ChatGPT, other chatbots fine to use with caution"
+    excerpt: "Amid widespread debate over ChatGPT and similar chatbots, Japan’s artificial intelligence experts expressed cautious optimism regarding the generative AI."
+    publishedDateTime: 2023-04-26T07:28:00Z
+    webUrl: "https://www.asahi.com/ajw/articles/14894495"
+    type: article
+    provider:
+      name: 朝日新聞社
+      domain: asahi.com
+    quality: 39
+    images:
+      - url: "https://p.potaufeu.asahi.com/43b2-p/picture/27549615/9a5a02d4feff0539fac813e67c964089.jpg"
+        width: 660
+        height: 440
         isCached: true
   - title: "Chat AI Chatbot Assistant: Revolutionizing Productivity And Assistance Powered By Chatgpt"
     excerpt: "Chat AI Chatbot powered by ChatGPT Discover the power of intelligent and engaging conversations with the Chat AI Chatbot Assistant app, n"

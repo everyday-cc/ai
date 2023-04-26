@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How AI could change computing, culture and the course of history"
+    excerpt: "For a sense of what may be on the way, consider three possible analogues, or precursors: the browser, the printing press and practice of psychoanalysis. One changed computers and the economy, one changed how people gained access and related to knowledge, and one changed how people understood themselves."
+    publishedDateTime: 2023-04-26T03:03:00Z
+    webUrl: "https://www.livemint.com/technology/how-ai-could-change-computing-culture-and-the-course-of-history-11682436092490.html"
+    ampWebUrl: "https://www.livemint.com/technology/how-ai-could-change-computing-culture-and-the-course-of-history/amp-11682436092490.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/how-ai-could-change-computing-culture-and-the-course-of-history/amp-11682436092490.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 61
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/04/25/600x338/AI-keo--621x414LiveMint_1682436432973_1682436433122.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "t9Ks/x+yDke2oAUcRsM11Tcxthkwf1Kig06NDLCHsSPU7gnXXMO9DKl5GCKsd8NmX5l39sHN2eAG17l5HmHfFgnR6raqvr3mgsvFFGspSprVnjj8hl6ezDq9FpuL93p5lCwPMTJYmz2D8uG6quUU1Y4aQp6wkqsxrjb0G5BioP0I6CimBOzjkcHR+pBizq42AccwjqgeHSKo9gPeEchJi9K3ubQfIwNK/MAhWtmQCfSlSZhn08YdRz5biDxY7/3EirE4s64WUYMOUzJZuc8Uk4BnY3YeH9/x+/gi710X+Izah/pJpAAoDa4QqL5bCKIfe0tWMjW195PyefZ6fkjljxVLluC6NBhPFEbsVJ41AeAjOHeAXXyHfmwvYyy08Tm+dAcK7OR8OlDJHePHUVCSk3Uy5kf+wW1KHXImbKv/WknGBBWLthIGohGanUzEnm8S4c4dXIbUbvTrKQbt3Nm+Q+f2mJE1uJdXp1LirFACkvhxsyo/yhpQ5HpUUu2vk0iePF5s6F0J2QgQfDXJCcRlCA==;1786nVgBSxuEWt5fn7/MSQ=="
 ---

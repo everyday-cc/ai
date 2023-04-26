@@ -2,6 +2,82 @@
   "page": 90,
   "value": [
     {
+      "path": "_news/2023-02-07-generative-like-ai-like-chatgpt-is-changing-lives-but-humans-must-set-the-rules.md",
+      "title": "Generative like AI like ChatGPT is changing lives but humans must set the rules",
+      "excerpt": "To be sure, bad actors could abuse these tools for various illicit schemes, such as sophisticated online scams or writing malware. But the technology’s prospective",
+      "sourceUrl": null,
+      "webUrl": "https://www.khaleejtimes.com/opinion/generative-like-ai-like-chatgpt-is-changing-lives-but-humans-must-set-the-rules",
+      "originalUrl": "https://www.khaleejtimes.com/opinion/generative-like-ai-like-chatgpt-is-changing-lives-but-humans-must-set-the-rules",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T11:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Khaleej Times",
+        "domain": "khaleejtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-google-will-fight-chatgpt-with-bard-a-similar-ai-powered-bot.md",
+      "title": "Google will fight ChatGPT with 'Bard,' a similar AI-powered bot",
+      "excerpt": "It was only a matter of time before Google responded to ChatGPT. That response is known as Google Bard, and it's coming to the public soon.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/google-bard-3276866/",
+      "originalUrl": "https://www.androidauthority.com/google-bard-3276866/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T11:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-07-google-reveals-plans-for-chatbot-bard-as-ai-tech-race-heats-up.md",
       "title": "Google reveals plans for chatbot ‘Bard’ as AI tech race heats up",
       "excerpt": "Google revealed plans on Monday to launch a chatbot to rival OpenAI’s popular ChatGPT, as it seeks to make up lost ground in the race to bring powerful new language artificial intelligence to the internet search business.",
@@ -853,83 +929,6 @@
       "provider": {
         "name": "Polygon",
         "domain": "polygon.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-pinecone-now-available-on-aws-marketplace-and-gcp-marketplace.md",
-      "title": "Pinecone now available on AWS Marketplace and GCP Marketplace",
-      "excerpt": "The announcement comes as Pinecone has seen tremendous growth in recent months as machine learning models such as GPT-3 have become more widely used. Pinecone provides critical infrastructure to use these models in useful and meaningful ways,",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/02/06/9755563.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/02/06/9755563.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T09:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-bigbearai-bounces-higher-on-institutional-speculation-in-artificial-intelligence.md",
-      "title": "BigBear.ai Bounces Higher on Institutional Speculation in Artificial Intelligence",
-      "excerpt": "Facebook just reached the milestone ... For instance, while analysts at Grand View Research anticipates that the global AI industry will expand at a compound annual growth rate of 37.3% between ...",
-      "sourceUrl": null,
-      "webUrl": "https://247wallst.com/investing/2023/02/06/bigbear-ai-bounces-higher-on-institutional-speculation-in-artificial-intelligence/",
-      "originalUrl": "https://247wallst.com/investing/2023/02/06/bigbear-ai-bounces-higher-on-institutional-speculation-in-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://247wallst.com/wp-content/uploads/2021/12/imageForEntry10-kzI.jpg?w=400",
-          "width": 400,
-          "height": 224,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://247wallst.com/investing/2023/02/06/bigbear-ai-bounces-higher-on-institutional-speculation-in-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/investing/2023/02/06/bigbear-ai-bounces-higher-on-institutional-speculation-in-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-02-06T09:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "24/7 Wall St",
-        "domain": "247wallst.com",
         "images": null,
         "publishers": null,
         "authors": null

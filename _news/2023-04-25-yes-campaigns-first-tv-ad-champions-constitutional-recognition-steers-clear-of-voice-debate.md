@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "APS music education program receives national recognition"
-    excerpt: "Austin Public Schools has been named one of the Best Communities for Music Education by The NAMM Foundation for its outstanding commitment to music education. Now in its 24th year, the Best Communities for Music Education designation is awarded to districts that demonstrate outstanding achievement in efforts to provide music access and education to all"
-    publishedDateTime: 2023-04-21T15:09:00Z
-    webUrl: "https://www.austindailyherald.com/2023/04/aps-music-education-program-receives-national-recognition/"
-    type: article
-    provider:
-      name: YAHOO!News
-      domain: austindailyherald.com
-    quality: 41
-    images:
-      - url: "https://www.austindailyherald.com/wp-content/uploads/sites/15/2019/03/0306-Band-Piece2.jpg"
-        width: 800
-        height: 425
-        isCached: true
   - title: "Sneak peak at Yes campaign’s first TV commercial supporting the voice referendum"
     excerpt: "A historic new commercial is coming to Aussie television screens within days – but news.com.au readers can have an exclusive sneak peak right now."
     publishedDateTime: 2023-04-26T00:05:00Z

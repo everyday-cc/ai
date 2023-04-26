@@ -2,6 +2,92 @@
   "page": 77,
   "value": [
     {
+      "path": "_news/2023-02-14-global-x-robotics-artificial-intelligence-etf.md",
+      "title": "Global X Robotics & Artificial Intelligence ETF",
+      "excerpt": "Got a confidential news tip? We want to hear from you. Sign up for free newsletters and get more CNBC delivered to your inbox Get this delivered to your inbox, and more info about our products and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/quotes/BOTZ",
+      "originalUrl": "https://www.cnbc.com/quotes/BOTZ",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-13T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-14-new-ai-tool-guides-users-away-from-incendiary-language.md",
+      "title": "New AI tool guides users away from incendiary language",
+      "excerpt": "To help identify when tense online debates are inching toward irredeemable meltdown, Cornell University researchers have developed an artificial intelligence tool that can track these conversations in real-time,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/979744",
+      "originalUrl": "https://www.eurekalert.org/news-releases/979744",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-13T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-14-touched-by-ai-competitive-intelligence-culls-new-data-insights.md",
       "title": "Touched by AI: Competitive intelligence culls new data insights",
       "excerpt": "“At IBM, we have an AI Ethics Board that supports a centralized governance, review and decision-making process for IBM ethics policies, practices, communications, research, products and services,” said Ramos. “Doing so helps your models adhere to ...",
@@ -1116,111 +1202,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-13-voice-actors-warn-artificial-intelligence-could-replace-them-cut-industry-jobs-and-pay.md",
-      "title": "Voice actors warn artificial intelligence could replace them, cut industry jobs and pay",
-      "excerpt": "Actors are sounding the alarm on new artificial intelligence (AI) technology that creates replicas of their voices and could replace them without proper compensation. According to a report by VICE ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/voice-actors-artificial-intelligence-replace-cut-industry-jobs-pay",
-      "originalUrl": "https://www.foxnews.com/media/voice-actors-artificial-intelligence-replace-cut-industry-jobs-pay",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/10/340/340/32c1b574-IMG_0282_Facetune_12-01-2022-10-53-23.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/voice-actors-artificial-intelligence-replace-cut-industry-jobs-pay.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/voice-actors-artificial-intelligence-replace-cut-industry-jobs-pay.amp",
-      "publishedDateTime": "2023-02-12T08:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-02-12-ai-comes-to-expense-reports.md",
-      "title": "AI comes to expense reports",
-      "excerpt": "Personally, we’ve been wondering at TC when generative AI was going to impact the fintech space, so I’m intrigued by this move on TripAction’s — I mean Navan’s — part. But I should point out Navan wasn’t the only company in the financial ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/02/12/ai-comes-to-expense-reports/",
-      "originalUrl": "https://techcrunch.com/2023/02/12/ai-comes-to-expense-reports/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-1371961757.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/02/12/ai-comes-to-expense-reports/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/02/12/ai-comes-to-expense-reports/amp/",
-      "publishedDateTime": "2023-02-12T07:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

@@ -2,9 +2,9 @@
 category: news
 title: "Chicago Blackhawks invest in AI startup Springbok Analytics"
 excerpt: "Spun out of the University of Virginia by three professors, Springbok Analytics uses AI-powered software to transform MRI static 2D imagery into precise 3D muscle assessments. These new views can be used to analyze an individual's muscle system to support injury prevention,"
-publishedDateTime: 2023-04-25T18:13:00Z
-originalUrl: "https://www.bizjournals.com/chicago/news/2023/04/25/chicago-blackhawks-invest-springbok-analytics.html"
-webUrl: "https://www.bizjournals.com/chicago/news/2023/04/25/chicago-blackhawks-invest-springbok-analytics.html"
+publishedDateTime: 2023-04-25T17:13:00Z
+originalUrl: "https://www.bizjournals.com/chicago/inno/stories/news/2023/04/25/chicago-blackhawks-invest-springbok-analytics.html"
+webUrl: "https://www.bizjournals.com/chicago/inno/stories/news/2023/04/25/chicago-blackhawks-invest-springbok-analytics.html"
 type: article
 quality: 17
 heat: -1
@@ -52,14 +52,14 @@ related:
     quality: 0
   - title: "MCA Connect Acquires Data Consultancy Pervicta to Enable Modern Manufacturing with Advanced Analytics and AI"
     excerpt: "Pervicta employs a seasoned team of data experts with deep expertise in building IP and providing consulting services to help companies turn their data into a strategic asset. \"Now more than ever, data is at the heart of every customer conversation."
-    publishedDateTime: 2023-04-25T18:42:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/04/25/9801703.htm"
+    publishedDateTime: 2023-04-25T17:40:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/04/25/9801703.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
     quality: 0
 
-secured: "1ajdACxUKz1eEzQply9GVYo+0XVQWQMsLI9F2LYKtYLMhTysHBDkJxOjffE6QlWJwAzBJWniqO8J6NE30yNeDmAF2FgpJfAFYUuhmgqSNBENrq3ULePqiFmg2duKeBGYuXRA3p8fwQ4Me1/1nVSuPU0GQuZk6R4WP2lNa0W7K35YH+uPIPq6xm0ymYGH3tTW6tHYmvFXaU83nYGyuthWkVB6I+d4npV/WBPa83nGV85QWCCPQbsNOPatCvNULAiUcQETfJ6MFh6BbufstfBisECNqOp4R7JKyRBk5Cc20atUTDEN+qFzxhpBblEuSyejvX1j9zPltNNTRmnDTlnzVMrJrNx1RkcMjBLJCIA3y1LUzS/fCh1wff7u8JyqHg9WYvao2FG5L1kTQLr/yIU0LoI4HspT4njR0dS/1hUwlOsAZeadMU1teakLMIhit2/DUUXra+sFKeZXWISDwrHqFx2GIY8Po8erc/vm5pj9KAclCTrHxXVj9sRY+rLSr1ptr3BF5DNbqarYKMKr3A+EFg==;qXpARXYfpyBDkYXTxpt49g=="
+secured: "ue6ioJEZ+XBLJA3ttYSgESzlkSrtBsrK7Op3izRhnNBsiTC7R/uxae95DODS/4H7jVsVUPNsSzTgaLWpO4T49HUuIBZY5C8qscHodILuia6Q+PDCXjW2D5QBxfiLv2jHJRrVrXyN8V3lSVhDDFWrvSdm8CMknuK20dBcd3iAmzddss88WPrv2cZ5FMkBun4gzlopZANZZ5aw4h/gY7P8fEuQOUB8x4HM24V5QxhXWLurkgmk5/GDnHaOTsS8ObtsYko7DX9X1K4Rb1cK6+0AEtrLME86Z+tpQBHcQ90KL5IV3ochxSgGid45ZpNeuRetzhsqZ8vfAbwiFiyGJs53et3EAPXcUuS3sTbkufmwMAskxtXmQHO6LbP2kqOgCtOWG6P5d8HbAf+7k5V5L/m/a6ONLa1FwBHRuMmC5YrZXeNUFIDN70hBGA6HTdL7fnxAP0Jv0yypRCNGHZIgme5Cv1PmHgZzcRED6VXgOOp5VajvKqdQPUiGQfiY+aHjNbjjKf9Wsn7tsVWgaPnKoJHAZw==;nmZLwnduShH6Gv1K74u0gw=="
 ---
 

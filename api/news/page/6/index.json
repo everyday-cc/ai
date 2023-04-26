@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-04-21-googlers-say-bard-ai-is-worse-than-useless-ethics-concerns-were-ignored.md",
+      "title": "Googlers say Bard AI is “worse than useless,” ethics concerns were ignored",
+      "excerpt": "From the outside, Google Bard looks like a rushed product to try to compete with ChatGPT, and some Google employees share those sentiments. A new report from Bloomberg interviews 18 current and former workers and came away with a pile of damning commentary and concerns about AI ethics teams that were \"disempowered and demoralized\" so Google could get Bard out the door.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/gadgets/2023/04/googlers-say-bard-ai-is-worse-than-useless-ethics-concerns-were-ignored/",
+      "originalUrl": "https://arstechnica.com/gadgets/2023/04/googlers-say-bard-ai-is-worse-than-useless-ethics-concerns-were-ignored/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2017/05/google-800x523.jpg",
+          "width": 760,
+          "height": 388,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/gadgets/2023/04/googlers-say-bard-ai-is-worse-than-useless-ethics-concerns-were-ignored/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/04/googlers-say-bard-ai-is-worse-than-useless-ethics-concerns-were-ignored/amp/",
+      "publishedDateTime": "2023-04-20T14:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-21-musk-counts-on-full-self-driving-as-next-tesla-profit-driver.md",
       "title": "Musk counts on full self-driving as next Tesla profit driver",
       "excerpt": "Elon Musk is counting on full-self driving and other new technologies and vehicles at Tesla Inc to provide the \"wow factor\" that will continue to drive the electric carmaker's value far beyond its automotive rivals.",
@@ -484,6 +536,49 @@
         "AWS AI",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-04-20-drones-navigate-unseen-environments-with-liquid-neural-networks.md",
+      "title": "Drones Navigate Unseen Environments With Liquid Neural Networks",
+      "excerpt": "MIT researchers exhibit a new advancement in autonomous drone navigation, using brain-inspired liquid neural networks that excel in out-of-distribution scenarios.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologynetworks.com/informatics/news/drones-navigate-unseen-environments-with-liquid-neural-networks-372383",
+      "originalUrl": "https://www.technologynetworks.com/informatics/news/drones-navigate-unseen-environments-with-liquid-neural-networks-372383",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/372383/drones-navigate-unseen-environments-with-liquid-neural-networks-372383-640x360.jpg?cb=20230420",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-20T02:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technologynetworks",
+        "domain": "technologynetworks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1027,49 +1122,6 @@
       ]
     },
     {
-      "path": "_news/2023-04-20-drones-navigate-unseen-environments-with-liquid-neural-networks.md",
-      "title": "Drones navigate unseen environments with liquid neural networks",
-      "excerpt": "In the vast, expansive skies where birds once ruled supreme, a new crop of aviators is taking flight. These pioneers of the air are not living creatures, but rather a product of deliberate innovation: drones.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-04-drones-unseen-environments-liquid-neural.html",
-      "originalUrl": "https://techxplore.com/news/2023-04-drones-unseen-environments-liquid-neural.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/drones-navigate-unseen.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-04-drones-unseen-environments-liquid-neural.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-04-drones-unseen-environments-liquid-neural.amp",
-      "publishedDateTime": "2023-04-19T13:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-20-reddit-will-start-charging-some-users-for-api-access-bad-news-for-ai-companies.md",
       "title": "Reddit will start charging some users for API access -- bad news for AI companies",
       "excerpt": "Reddit is now putting a halt to that, announcing on Tuesday that it will begin to charge big businesses for Reddit API data access. The social networking platform added a new \"premium access point\" for third party users who require \"additional capabilities, higher usage limits, and broader usage rights,\" according to the announcement .",
@@ -1169,40 +1221,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-20-microsoft-azure-marketplace-integrates-space-and-times-web3-tools.md",
-      "title": "Microsoft Azure Marketplace Integrates Space and Time’s Web3 Tools",
-      "excerpt": "Space and Time’s Web3 “data warehouse” has been integrated into the Microsoft (NASDAQ:MSFT) Azure Marketplace, an “app store” for developers using the cloud computing platform. Enterprise builders can now make a one-click deployment of Space and Time's data product,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/microsoft-azure-marketplace-integrates-space-and-times-web3-tools",
-      "originalUrl": "https://www.nasdaq.com/articles/microsoft-azure-marketplace-integrates-space-and-times-web3-tools",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-19T12:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

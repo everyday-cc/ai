@@ -2,6 +2,111 @@
   "page": 78,
   "value": [
     {
+      "path": "_news/2023-02-13-voice-actors-warn-artificial-intelligence-could-replace-them-cut-industry-jobs-and-pay.md",
+      "title": "Voice actors warn artificial intelligence could replace them, cut industry jobs and pay",
+      "excerpt": "Actors are sounding the alarm on new artificial intelligence (AI) technology that creates replicas of their voices and could replace them without proper compensation. According to a report by VICE ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/voice-actors-artificial-intelligence-replace-cut-industry-jobs-pay",
+      "originalUrl": "https://www.foxnews.com/media/voice-actors-artificial-intelligence-replace-cut-industry-jobs-pay",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/10/340/340/32c1b574-IMG_0282_Facetune_12-01-2022-10-53-23.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/voice-actors-artificial-intelligence-replace-cut-industry-jobs-pay.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/voice-actors-artificial-intelligence-replace-cut-industry-jobs-pay.amp",
+      "publishedDateTime": "2023-02-12T08:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-02-12-ai-comes-to-expense-reports.md",
+      "title": "AI comes to expense reports",
+      "excerpt": "Personally, we’ve been wondering at TC when generative AI was going to impact the fintech space, so I’m intrigued by this move on TripAction’s — I mean Navan’s — part. But I should point out Navan wasn’t the only company in the financial ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/02/12/ai-comes-to-expense-reports/",
+      "originalUrl": "https://techcrunch.com/2023/02/12/ai-comes-to-expense-reports/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-1371961757.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/02/12/ai-comes-to-expense-reports/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/02/12/ai-comes-to-expense-reports/amp/",
+      "publishedDateTime": "2023-02-12T07:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-12-super-bowl-ad-slams-teslas-full-self-driving-tech.md",
       "title": "Super Bowl ad slams Tesla’s ‘Full Self-Driving’ tech",
       "excerpt": "The ad cost $598,000, a Dawn Project spokesperson told CNN. It shows a Tesla Model 3, which allegedly has the Full Self-Driving mode turned on, running over a child-sized dummy on a school crosswalk, and then a fake baby in a stroller, in a series of tests ...",
@@ -1067,92 +1172,6 @@
       "provider": {
         "name": "TheWrap",
         "domain": "thewrap.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-11-fintech-bytes-investcloud-55ip-and-broadridge.md",
-      "title": "Fintech Bytes: InvestCloud, 55ip and Broadridge",
-      "excerpt": "In this week's fintech news, InvestCloud partners with 55ip, Broadridge partners with Point Local, and Opto partners with Merchant.",
-      "sourceUrl": null,
-      "webUrl": "https://www.investmentnews.com/fintech-bytes-investcloud-55ip-and-broadridge-233936",
-      "originalUrl": "https://www.investmentnews.com/fintech-bytes-investcloud-55ip-and-broadridge-233936",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s32566.pcdn.co/wp-content/uploads/2023/01/technology-web.jpg.optimal.jpg",
-          "width": 900,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-10T11:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InvestmentNews",
-        "domain": "investmentnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-11-tcs-hyderabad-engineers-working-on-3-prototype-driverless-cars.md",
-      "title": "TCS Hyderabad engineers working on 3 prototype driverless cars",
-      "excerpt": "TCS is incorporating special features in these cars which are ideal for Indian roads. Artificial intelligence (AI) is also integrated into self-driving cars to simulate decision-making processes ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newindianexpress.com/states/telangana/2023/feb/10/tcs-hyd-engineers-working-on-3-prototype-driverless-cars-2546074.html",
-      "originalUrl": "https://www.newindianexpress.com/states/telangana/2023/feb/10/tcs-hyd-engineers-working-on-3-prototype-driverless-cars-2546074.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2023/2/10/w600X390/driverless.JPG",
-          "width": 600,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newindianexpress.com/states/telangana/2023/feb/10/tcs-hyd-engineers-working-on-3-prototype-driverless-cars-2546074.amp",
-      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/telangana/2023/feb/10/tcs-hyd-engineers-working-on-3-prototype-driverless-cars-2546074.amp",
-      "publishedDateTime": "2023-02-10T11:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Indian Express",
-        "domain": "newindianexpress.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chip-market-new-development-strategy-2023-2030-fully-explained-2023-04-25"
 type: article
 quality: 87
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -52,6 +52,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 76
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Automotive Artificial Intelligence Market Business Report [2023-2030]"
+    excerpt: "In 2023,Automotive Artificial Intelligence Market with technical and procedural infrastructure that gathers and"
+    publishedDateTime: 2023-04-25T18:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-business-report-2023-2030-2023-04-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
