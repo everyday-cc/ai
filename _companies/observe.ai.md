@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "observeai"
   url: "https://twitter.com/observeai"
-  followers: 1057
+  followers: 1058
 
 locations:
   - New York, NY
