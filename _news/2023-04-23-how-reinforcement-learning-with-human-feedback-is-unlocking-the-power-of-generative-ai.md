@@ -166,6 +166,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Generative AI Is Only as Good as the Prompt You Give It"
+    excerpt: "It is ironic that much of the early conversation about ChatGPT had to do with the demise of writing skills when, in fact, the very success of generative-AI searches is determined by the quality of precisely written prompts."
+    publishedDateTime: 2023-04-26T05:42:00Z
+    webUrl: "https://www.insidehighered.com/opinion/blogs/online-trending-now/2023/04/26/generative-ai-only-good-prompt-you-give-it"
+    type: article
+    provider:
+      name: Inside Higher Ed
+      domain: insidehighered.com
+    quality: 39
+    images:
+      - url: "https://www.insidehighered.com/sites/default/files/2023-04/ihe-logo-web.png"
+        width: 600
+        height: 324
+        isCached: true
   - title: "Growth of generative AI is leading to change moment for DevOps"
     excerpt: "The role of data in DevOps is changing, facilitated by the introduction of powerful new generative artificial intelligence engines such as ChatGPT. The success of DevOps in modern, cloud-native environments has given rise to platform engineering,"
     publishedDateTime: 2023-04-25T15:59:00Z

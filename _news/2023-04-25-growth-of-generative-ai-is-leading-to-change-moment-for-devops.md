@@ -174,6 +174,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Generative AI Is Only as Good as the Prompt You Give It"
+    excerpt: "It is ironic that much of the early conversation about ChatGPT had to do with the demise of writing skills when, in fact, the very success of generative-AI searches is determined by the quality of precisely written prompts."
+    publishedDateTime: 2023-04-26T05:42:00Z
+    webUrl: "https://www.insidehighered.com/opinion/blogs/online-trending-now/2023/04/26/generative-ai-only-good-prompt-you-give-it"
+    type: article
+    provider:
+      name: Inside Higher Ed
+      domain: insidehighered.com
+    quality: 39
+    images:
+      - url: "https://www.insidehighered.com/sites/default/files/2023-04/ihe-logo-web.png"
+        width: 600
+        height: 324
+        isCached: true
 
 secured: "v9IM6F3m6mb7wQiUGrcB6R2iM7RfpoQfGHKqkroIi/NYu43Wp/5rNzuI8qnum/TO6cCx9HuboF9wsRGH4KoTJMwqE3xL96n2sl/2hIZLImh7QYzHwWqI76/H77lS1KG6KIUYyBr5/ZaMgld/OQR18FDiCSXzI0mBnZTcgZiKWlNjB0+SVoKcdDkzwN5hhtpcV+xs4fj3Dzw7CCdE6u+INsGR1wHkbSNAkAh/nGmP/4ybEtrDlOIRNyw48+7nkHn3/ZT+ctnkhgU9lw4AHsgTj04LQR1OfCuC1AaU7IOM6OnPXCYU76XS81s26p4W05yj0VN6SFbh1mGoFH4TQCl/axoVslSMmQDzkS46+nMGP0M2FGPABtAD0nJEEwR/b24fS6sIssaswadHx9UsMb/OYdq8WKlCwRniB7WaxTOunAQtZAD7eNVCL1Xw5zdRp/iwAqVjjQNWW4nUh2YMFyiWCYQnKa435EwUepXX5yBIZ3mOmZZ//Fz8vjcWSDA6quJwR1Vx9KIjldor/5BljkxotQ==;34+udq21SDprxt17Oe7A9A=="
 ---

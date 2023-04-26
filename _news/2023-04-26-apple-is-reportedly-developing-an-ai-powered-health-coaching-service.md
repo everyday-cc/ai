@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2023/04/25/apple-is-reportedly-developing-an-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/04/25/apple-is-reportedly-developing-an-ai-powered-health-coaching-service/amp/"
 type: article
 quality: 87
-heat: 119
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechCrunch
@@ -30,19 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "Samsung's AI-powered Galaxy Enhance-X app is coming to the Galaxy A series"
-    excerpt: "Samsung has rereleased the Galaxy Enhance-X app for the S23 series, but there's good news for owners of cheaper Galaxy handsets."
-    publishedDateTime: 2023-04-24T09:23:00Z
-    webUrl: "https://www.androidauthority.com/samsung-galaxy-enhance-x-galaxy-a-series-3316304/"
+  - title: "Apple building an AI health coach for Apple Watch, report claims"
+    excerpt: "Apple is developing an AI-powered health coach designed to offer personalized advice for improving exercise, diet, and sleep, a new report claims."
+    publishedDateTime: 2023-04-26T05:50:00Z
+    webUrl: "https://www.digitaltrends.com/mobile/apple-may-be-building-ai-health-coach-for-apple-watch/"
+    ampWebUrl: "https://www.digitaltrends.com/mobile/apple-may-be-building-ai-health-coach-for-apple-watch/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/apple-may-be-building-ai-health-coach-for-apple-watch/?amp"
     type: article
     provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 65
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 87
     images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2023/04/Galaxy-Enhance-X-app-listing-scaled.jpg"
-        width: 2560
-        height: 1440
+      - url: "https://www.digitaltrends.com/wp-content/uploads/2023/04/apple-health-app-report.jpg?resize=1200%2C630&p=1"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Apple plans to expand Health services to include mood & eye tracking, AI coach planned for later"
     excerpt: "Apple reportedly plans to release an AI-powered health coach and tools to track a person's mood, and the Health app might finally be available on the iPad."
@@ -53,15 +55,6 @@ related:
       name: AppleInsider
       domain: appleinsider.com
     quality: 4
-  - title: "iOS 17 to Include Mood Tracker and Health App for iPad, AI-Based Health Coaching Service Coming in 2024"
-    excerpt: "The iOS 17 update that Apple plans to show off in June will include several new health-related features, according to Bloomberg's Mark"
-    publishedDateTime: 2023-04-25T18:44:00Z
-    webUrl: "https://www.macrumors.com/2023/04/25/ios-17-health-app-updates/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 1
 
 secured: "GIgow7s1QUhrGNMeq9Nwir+4hISdTHtEloZ1QKeaBRfkAIGhPoHax5Wrxq9mZuje/gtI4DnsPvyysBolvLmc/366UZfEF0F6hnYGaPIWoyEm13m1hd9M91nbsxkRtEh/4J6e7qoDsKKuUhvk3PRudR7TmL0KESfcuPpk4oDKJdTS1dCL92vd6G1FdQcvSe4ytaLiIRZGmH2kxJ7A94jqlDPFhxDwWFLGlo6+YnPUtX5s89ojUVa3iHvN1rCOkarpNtAP2HN79Jcue4MC1FI9Qy/0FbaL4mrwMcLNJ+JL8/kOoVSVzk3ET46mx9Ygbf9XM8x6Bh1cXt8Yp2uuV7ooukncn0gr7uzdv9DSZSUOF2U=;Sw+SnULnGxQNvAOetUaSRA=="
 ---

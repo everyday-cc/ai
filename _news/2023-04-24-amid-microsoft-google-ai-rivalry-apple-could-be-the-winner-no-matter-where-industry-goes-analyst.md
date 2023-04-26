@@ -110,6 +110,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Microsoft's AI Ambitions Spell Trouble for Intel, Warns Analyst"
+    excerpt: "This could prove to be a positive for the software giant but hurt one of the biggest chipmakers, an analyst said. Microsoft cut server orders by 25-30% in 2023, with the bulk of these planned for the second half of the year,"
+    publishedDateTime: 2023-04-26T05:40:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-s-ai-ambitions-spell-trouble-for-intel-warns-analyst-1032261946"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 84
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/Microsoft._Photo_by_Volodymyr_Kyrylyuk_on_Shutterstock_5.jpeg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Microsoft leans on its AI prowess to deliver a surprising quarterly earnings beat"
     excerpt: "Microsoft's (MSFT) better-than-feared fiscal third-quarter results, coupled with solid revenue guidance, sent shares soaring in afterhours trading."
     publishedDateTime: 2023-04-25T22:00:00Z
@@ -153,6 +167,20 @@ related:
       - url: "https://static.toiimg.com/thumb/resizemode-4,msid-99726281,imgsize-32894,width-800/99726281.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "Microsoft shares leap higher as AI juices quarterly sales"
+    excerpt: "Microsoft beat estimates for quarterly revenue and profit, with the company saying that artificial intelligence products are helping stimulate sales."
+    publishedDateTime: 2023-04-26T05:51:00Z
+    webUrl: "https://techcentral.co.za/microsoft-shares-leap-higher-as-ai-juices-quarterly-sales/224958/"
+    type: article
+    provider:
+      name: TechCentral
+      domain: techcentral.co.za
+    quality: 71
+    images:
+      - url: "https://techcentral.co.za/wp-content/uploads/2023/01/satya-nadella-1500-800.jpg"
+        width: 1500
+        height: 800
         isCached: true
   - title: "Artificial Intelligence Based Medical Device Market 2023 Precise Outlook – Google, Apple, Microsoft, IBM"
     excerpt: "The global Artificial Intelligence Based Medical Device market 2023 research report typically contains an in-depth analysis of a specific market or industry. It provides insights into market size, trends,"

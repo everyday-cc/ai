@@ -2,9 +2,9 @@
 category: news
 title: "MCA Connect Acquires Data Consultancy Pervicta to Enable Modern Manufacturing with Advanced Analytics and AI"
 excerpt: "Pervicta employs a seasoned team of data experts with deep expertise in building IP and providing consulting services to help companies turn their data into a strategic asset. \"Now more than ever, data is at the heart of every customer conversation."
-publishedDateTime: 2023-04-25T17:40:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/04/25/9801703.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/04/25/9801703.htm"
+publishedDateTime: 2023-04-25T18:42:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2023/04/25/9801703.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2023/04/25/9801703.htm"
 type: article
 quality: 0
 heat: -1
@@ -61,6 +61,6 @@ related:
       domain: asiaone.com
     quality: 0
 
-secured: "aSaKMGQg+vQUavRFhBfBzz972qX56Afrm8r5d2xW+0uP5NdGWg7lmKLz+00mEI7iwuSzkJTT4rHAmwb4c7eVX42geHH/YpozB0fZ5fszuGw5K3GY+wKco+29nSfNTKoCsg4fJDHiUWO2FDbxXYZ7LTVMVVyK3e6GAAi88e/SwOy0afn5oKMuBZk58pU/LBOT24zeVKfl7Td3VEM6mteQIvr0Iyagy/1l/iq2+ac2U47Ti3ACzoJjk1sL9dDl8YFNxpXXzJd4g59PT2UelFmauGRYldgPbhadkLT0nDa10v2WVLFu4o3lZwouujhHKjhG3QSrjriITl7ftm+ZeAGF71uNV9vwfeyAJDDPq8Pmz2uPUdRIWbBm8N+2hn1hhPKbWmO1EXP8r/Y6ktTYm8CBoFU/8u8eMVavi06MrgiQ7aUQEyiXPiz8anBt8B4fNL9QNBi9rj6bZ8vYcwuURKyAAuELn3JdkT8X/lV0+RrrKsuFKbSqwUqpl7eEqRVXEUkOJ228Dxw9yxEqfK8RU6qgBA==;26gvigQIFgL5vZ+XCQIQsA=="
+secured: "3qJuGWGkZnaSuJphEOImEoiiP7SML2eCbgPcNRUSeM1Y4jtt8zEMnRAcuqpOCRHniFLZ4BDpqwFb8XsnIWG7qGyAkmbsxeUxoJK88zcJntCw2dukmOHqyMj9L+kOLw73pSpnkJC6FTsqEH+uNYFJf9ADu6x85JNqEZ+IQiCoxQrk/fxM1c8zCMV3712/CC0bC9mGe1Vo4Q5QYYtzYhmkGcYZ/iCwN2k0spnYYUHvrxuFVyk8VnR6MLrZ+3KioGmtxn7lo8SVyeGwBztgKNslicjn5YYwVBTkDTDL3/3twzLrNtS6WD0euYqMf2Ov67WSthODw8iVOIKtKnXpo0EkXDtSD62BIQkrrRchaWa/AinyL1lafm3fWbbIiIxa5MWORtfjBcYBRVjHPYmaP8iurEMPY2/UVVjGjhctVgAdji1RUlbqN3Qt7OWqf8yxMAXwf3f8IwEM23y6JYCut6+9YeHjcImTcv2tdNlQ8Ifsbl2Rn+hP1TKiCgsrKBylBcyLKyCb4S4I8n4tncjmgBqyXA==;sL/oAvFljybrvAoM0uZBqQ=="
 ---
 

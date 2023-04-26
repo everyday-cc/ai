@@ -53,8 +53,8 @@ related:
         isCached: true
   - title: "MCA Connect Acquires Data Consultancy Pervicta to Enable Modern Manufacturing with Advanced Analytics and AI"
     excerpt: "Pervicta employs a seasoned team of data experts with deep expertise in building IP and providing consulting services to help companies turn their data into a strategic asset. \"Now more than ever, data is at the heart of every customer conversation."
-    publishedDateTime: 2023-04-25T17:40:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/04/25/9801703.htm"
+    publishedDateTime: 2023-04-25T18:42:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/04/25/9801703.htm"
     type: article
     provider:
       name: TMCnet

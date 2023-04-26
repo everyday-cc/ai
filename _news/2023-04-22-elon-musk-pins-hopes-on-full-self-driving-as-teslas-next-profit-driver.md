@@ -55,20 +55,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Autonomous Driving Software Platform Market 2023 Insights and Precise Outlook -NVDIA, Sensible 4, Hexagon, Baidu"
-    excerpt: "The Autonomous Driving Software Platform Market research report provides a comprehensive analysis of the market size, share, overview and growth prospects influencing the market growth. The global Autonomous Driving Software Platform market report helps buyers identify market challenges and opportunities."
-    publishedDateTime: 2023-04-21T11:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/autonomous-driving-software-platform-market-2023-insights-and-precise-outlook--nvdia-sensible-4-hexagon-baidu-2023-04-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Watch a driverless car get pulled over by police"
     excerpt: "Although Australian legislation doesn’t allow a vehicle to operate without a driver behind the wheel, some US jurisdictions have already legalised driverless cars – and with that comes the prospect of an AI-driven vehicle being pulled over by police."
     publishedDateTime: 2023-04-24T01:04:00Z

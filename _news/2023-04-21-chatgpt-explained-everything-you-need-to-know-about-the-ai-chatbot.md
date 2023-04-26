@@ -138,20 +138,6 @@ related:
         width: 1200
         height: 797
         isCached: true
-  - title: "ChatGPT vs. Watson Assistant"
-    excerpt: "Watson Assistant is much more focused as an offering. Using artificial intelligence, this AI-chatbot platform developed by IBM enables businesses to build, train, and deploy conversational ..."
-    publishedDateTime: 2023-04-21T13:03:00Z
-    webUrl: "https://www.eweek.com/artificial-intelligence/chatgpt-vs-watson-assistant/"
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 69
-    images:
-      - url: "https://www.eweek.com/wp-content/uploads/2021/04/AI-motherboard.jpeg"
-        width: 1920
-        height: 1120
-        isCached: true
   - title: "ChatGPT: How generative AI could change hiring as we know it"
     excerpt: "Candidates are already using tools such as ChatGPT to write cover letters and CVs. But it’s just a small piece of how AI is transforming hiring processes."
     publishedDateTime: 2023-04-23T19:38:00Z
@@ -241,6 +227,20 @@ related:
       - url: "https://img2.chinadaily.com.cn/images/202304/25/64470bd4a310b60580cbcd50.jpeg"
         width: 720
         height: 480
+        isCached: true
+  - title: "ChatGPT’s Secret Weapon Is Artificial Emotional Intelligence"
+    excerpt: "The race to plug chatbots into search engines makes little sense when they are better at mimicking empathy than recalling facts."
+    publishedDateTime: 2023-04-25T23:24:00Z
+    webUrl: "https://www.washingtonpost.com/business/2023/04/26/openai-s-chatgpt-google-bard-are-better-for-emotional-support-than-search/6ba14432-e3ea-11ed-9696-8e874fd710b8_story.html"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 24
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "4 of The Best Speech to Text Extensions to Talk to ChatGPT Using Your Voice"
     excerpt: "I personally do not agree with the decision to ban ChatGPT or any other technology for that matter. Bans do not work and students will always find ways to circumvent them (e.g., u"

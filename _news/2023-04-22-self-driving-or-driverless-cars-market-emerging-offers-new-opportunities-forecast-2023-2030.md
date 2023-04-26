@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/self-driving-or-driverle
 webUrl: "https://www.marketwatch.com/press-release/self-driving-or-driverless-cars-market-emerging-offers-new-opportunities-forecast-2023-2030-2023-04-22"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://media.12news.com/assets/KPNX/images/a2166696-37f9-4029-9180-c7ca1cf65d15/a2166696-37f9-4029-9180-c7ca1cf65d15_1140x641.jpg"
         width: 1140
         height: 641
-        isCached: true
-  - title: "Autonomous Driving Software Platform Market 2023 Insights and Precise Outlook -NVDIA, Sensible 4, Hexagon, Baidu"
-    excerpt: "The Autonomous Driving Software Platform Market research report provides a comprehensive analysis of the market size, share, overview and growth prospects influencing the market growth. The global Autonomous Driving Software Platform market report helps buyers identify market challenges and opportunities."
-    publishedDateTime: 2023-04-21T11:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/autonomous-driving-software-platform-market-2023-insights-and-precise-outlook--nvdia-sensible-4-hexagon-baidu-2023-04-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Elon Musk pins hopes on full self-driving as Tesla's next profit driver"
     excerpt: "Some analysts and investors worry that Tesla's industry-leading market valuation is threatened by factors including price cuts that have undermined its margins, delays in rolling out new models and revisions to its full self-driving software."

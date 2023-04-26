@@ -50,20 +50,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "2023-2030 Artificial Intelligence Delivery Robot Market Growth Strategies and Insights"
-    excerpt: "Global “Artificial Intelligence Delivery Robot Market” research report for 2023 offers a detailed analysis of the"
-    publishedDateTime: 2023-04-21T13:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-2030-artificial-intelligence-delivery-robot-market-growth-strategies-and-insights-2023-04-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 76
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Face Recognition Software Market New Development Strategy [2023-2030]| Fully Explained"
     excerpt: "The \"Face Recognition Software Market\" Report covers the global and regional market with an in-depth analysis of"
     publishedDateTime: 2023-04-25T10:59:00Z

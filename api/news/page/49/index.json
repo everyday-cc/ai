@@ -2,6 +2,58 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2023-03-12-mideast-spymasters-hot-ai-stocks-rely-on-related-party-sales.md",
+      "title": "Mideast Spymaster’s Hot AI Stocks Rely on Related-Party Sales",
+      "excerpt": "Two high-flying AI companies backed by an influential Middle Eastern royal have been opening up to the public markets for the first time. Behind the scenes, their rise has been predominantly powered by business with connected parties.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2023-03-12/mideast-spymaster-s-hot-ai-stocks-rely-on-related-party-sales",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2023-03-12/mideast-spymaster-s-hot-ai-stocks-rely-on-related-party-sales",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/itJyj8c4GwZY/v0/1200x891.jpg",
+          "width": 1200,
+          "height": 891,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-11T18:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2023-03-12-new-survey-on-artificial-intelligence-platform-market-augmented-expansion-to-be-registered-by-2023-2028.md",
       "title": "New Survey on \"Artificial Intelligence Platform Market\" Augmented Expansion to Be Registered by 2023-2028",
       "excerpt": "Mar 11, 2023 (The Expresswire) -- Report Highlights with 124 pages:-\"The global Artificial Intelligence Platform market size was valued at USD 2511.37 million in 2022 and is expected to expand at a CAGR of 15.36% during the forecast period, reaching USD ...",
@@ -1120,40 +1172,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-10-aitxs-subsidiary-robotic-assistance-devices-announces-completion-of-multiple-device-deployment-at-a-large-regional-hospital-group.md",
-      "title": "AITX's Subsidiary Robotic Assistance Devices Announces Completion of Multiple Device Deployment at a Large Regional Hospital Group",
-      "excerpt": "Eight ROSA units comprising this phase of the deployment have been configured as dual-unit ROSA-P devices in addition to one standard ROSA. ROSA-P is one of the recent additions to the ROSA lineup that uses existing light poles as its primary power source whether or not the light is centrally controlled.",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/03/10/9775009.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/03/10/9775009.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-10T06:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }
