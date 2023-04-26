@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-04-18-spiking-neural-networks-hardware-algorithm-developments.md",
+      "title": "Spiking Neural Networks: Hardware & Algorithm Developments",
+      "excerpt": "A new technical paper titled “Exploring Neuromorphic Computing Based on Spiking Neural Networks: Algorithms to Hardware” was published by researchers at Purdue University, Pennsylvania State University, and Yale University. Excerpt from Abstract ...",
+      "sourceUrl": null,
+      "webUrl": "https://semiengineering.com/spiking-neural-networks-hardware-algorithm-developments/",
+      "originalUrl": "https://semiengineering.com/spiking-neural-networks-hardware-algorithm-developments/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://semiengineering.com/wp-content/uploads/AdobeStock_207929333-brain-03-09-22-scaled-e1646861472441.jpeg?fit=1702%2C1087&ssl=1",
+          "width": 1702,
+          "height": 1087,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-18T00:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Semiconductor Engineering",
+        "domain": "semiengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-18-ai-terminologies-101understanding-neural-networks.md",
       "title": "AI Terminologies 101:Understanding Neural Networks",
       "excerpt": "Neural Networks are a type of artificial intelligence (AI) that's modeled after the way the human brain works. They're made up of interconnected nodes or \"neurons\" that process information and ...",
@@ -1230,40 +1273,6 @@
         "Machine Learning",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-application-development-software-market-size-to-reach-around-usd-11592-billion-by-2031-cagr-of-235.md",
-      "title": "Application Development Software Market Size To Reach Around USD 1159.2 Billion By 2031, CAGR Of 23.5%",
-      "excerpt": "Application Development Software Market Size Big Data Security positively impacts the growth of the application development software mark",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105953633/Application-Development-Software-Market-Size-To-Reach-Around-USD-11592-Billion-By-2031-CAGR-Of-235",
-      "originalUrl": "https://menafn.com/1105953633/Application-Development-Software-Market-Size-To-Reach-Around-USD-11592-Billion-By-2031-CAGR-Of-235",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-05T19:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

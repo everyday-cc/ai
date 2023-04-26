@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-26T12:12:00Z
 originalUrl: "https://www.forbes.com/sites/isaacmizrahi/2023/04/26/do-ai-based-tools-understand-diversity-biases/"
 webUrl: "https://www.forbes.com/sites/isaacmizrahi/2023/04/26/do-ai-based-tools-understand-diversity-biases/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Forbes

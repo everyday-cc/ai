@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-26T13:00:00Z
 originalUrl: "https://siliconangle.com/2023/04/26/aixplain-raises-8m-low-code-no-code-ai-app-development-platform/"
 webUrl: "https://siliconangle.com/2023/04/26/aixplain-raises-8m-low-code-no-code-ai-app-development-platform/"
 type: article
+quality: 23
+heat: 23
+published: false
 
 provider:
   name: SiliconANGLE

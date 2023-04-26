@@ -99,20 +99,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The AI Recognition market is driven from 2023 to 2030 with an impressive compound annual growth rate 12.3% CAGR."
-    excerpt: "The Global Market Overview of \"AI Recognition Market\"offers a unique insight into key trends shaping the industry world-wide and in the largest markets. Written by some of our most experienced analysts,"
-    publishedDateTime: 2023-04-21T22:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/the-ai-recognition-market-is-driven-from-2023-to-2030-with-an-impressive-compound-annual-growth-rate-123-cagr-2023-04-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Speech Recognition Market Size, Share, Key Players, Revenue, Research Report and Forecast 2023 to 2031"
     excerpt: "The global speech recognition market was valued at $6.39billion in 2018, and is projected to reach $29.28 billion by 2026, registering a CAGR of 19.9% from 2019 to 2026. Speech recognition technology enables system to identify the sound of spoken words and convert them into machine readable form."
     publishedDateTime: 2023-04-25T05:14:00Z

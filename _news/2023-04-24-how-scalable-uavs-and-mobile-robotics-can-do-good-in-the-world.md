@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/how-scalab
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/24/how-scalable-uavs-and-mobile-robotics-can-do-good-in-the-world/amp/"
 type: article
 quality: 104
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Cloud scalability: Scale-up vs. scale-out"
+    excerpt: "The difference between scaling up and scaling out, and how to determine which is the best strategy for you.\nThe post Cloud scalability: Scale-up vs. scale-out appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-04-26T13:23:27Z
+    webUrl: "https://www.ibm.com/blog/cloud-scalability-scale-up-vs-scale-out/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 82
 
 secured: "ZjA/aGY85JeQFSqu/eB7ohcLGVZf2oyZLkoWQ7/wP3MgCitXEE/+lyexUiAltCqjiAhkAHjmuITWnm2D0uEuVoznBp697rojYNPqdEJOc+3S/BnWZq9w49xjAeL/FuL5U41qpvHt6ci5ox4JhaIcLUZw5IyxiJsBD6ZazwCnAVk7ZEYoOlF9B58bpBHfoeRQmhwqHE02irQtpz4vjtCmi8/p/K+C6jfC5StUxUuUrtgsbvVeLxnKoEOc0l984pRf4nbzX3Q0hWMlh6Awu7o20FC2CNR/i1gh2izRlEUiF2RkPuSJMX76exNQZRDP/qv6IkhAEIOzfvIzXBobloRXkwkouY4KbCskcGRbkEA8AkxlgjDzBedODGOy50gwQpkAj5f7X2Fj8/KWWA1XeLUQ/IxQDIRDP/y5wYzPN4tyN4rMS6mm/HBo9RX+/3SzYgDNtzhf0HEWzPRfr15MVJL8QfYawSLW30OWX+/sHIo6RrS3mdew0IRqljcubTpxFQZwUcKS48E38HICNvYYP6opjA==;0UD4Y6b4unQmFs1+qaJpxw=="
 ---

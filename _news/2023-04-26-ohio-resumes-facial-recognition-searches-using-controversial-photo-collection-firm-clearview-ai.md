@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-26T13:00:00Z
 originalUrl: "https://www.cleveland.com/news/2023/04/ohio-resumes-facial-recognition-searches-using-controversial-photo-collection-firm-clearview-ai.html"
 webUrl: "https://www.cleveland.com/news/2023/04/ohio-resumes-facial-recognition-searches-using-controversial-photo-collection-firm-clearview-ai.html"
 type: article
+quality: 7
+heat: 7
+published: false
 
 provider:
   name: Cleveland.com

@@ -2,6 +2,144 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-04-19-microsoft-readies-own-ai-chip-everything-you-need-to-know.md",
+      "title": "Microsoft readies own AI chip — everything you need to know",
+      "excerpt": "According to The Information (opens in new tab), Microsoft has been secretly working on Project Athena — a first-party chip designed to power the supercomputers that train AI. The hope is the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tomsguide.com/news/microsoft-readies-own-ai-chip-everything-you-need-to-know",
+      "originalUrl": "https://www.tomsguide.com/news/microsoft-readies-own-ai-chip-everything-you-need-to-know",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/htJtE2TbsB4Tfmo8YuN7Te-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-18T12:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tom's Guide",
+        "domain": "tomsguide.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-19-so-you-want-to-launch-an-ai-startup.md",
+      "title": "So you want to launch an AI startup",
+      "excerpt": "It seems like it’s the best of times for founders thinking about launching an AI startup, especially with OpenAI releasing ChatGPT to the masses, as it has the potential to really put AI front ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/04/18/so-you-want-to-launch-an-ai-startup/",
+      "originalUrl": "https://techcrunch.com/2023/04/18/so-you-want-to-launch-an-ai-startup/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/04/GettyImages-948886934.jpeg?resize=1200,900",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-18T12:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-19-the-10-most-evil-rogue-ai-in-movie-and-tv-history.md",
+      "title": "The 10 Most Evil Rogue AI in Movie and TV History",
+      "excerpt": "This feature is part of AI Week. For more stories, including How AI Could Doom Animation and comments from experts like Tim Sweeney, check out our hub. AI is an exciting concept that has been the foundation of many of our greatest sci-fi",
+      "sourceUrl": null,
+      "webUrl": "https://me.ign.com/en/movies/207320/feature/the-10-most-evil-rogue-ai-in-movie-and-tv-history",
+      "originalUrl": "https://me.ign.com/en/movies/207320/feature/the-10-most-evil-rogue-ai-in-movie-and-tv-history",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.ign.com/t/ign_me/feature/t/the-10-mos/the-10-most-evil-rogue-ai-in-movie-and-tv-history_jztd.1200.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-18T11:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IGN",
+        "domain": "ign.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-19-investigational-deep-learning-model-may-help-stratify-risk-for-patients-with-endometrial-cancer.md",
       "title": "Investigational deep learning model may help stratify risk for patients with endometrial cancer",
       "excerpt": "An investigational deep learning model requiring one histopathologic slide accurately predicted the risk of distant recurrence in patients with endometrial cancer, according to findings presented at the AACR Annual Meeting 2023,",
@@ -963,126 +1101,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-18-using-ai-to-translate-human-language-into-data-qa-with-inuvos-melodie-du.md",
-      "title": "Using AI To Translate Human Language Into Data: Q&A With Inuvo's Melodie Du",
-      "excerpt": "Inuvo has created a language-model-based, generative AI capable of identifying the words associated with the audience for any product, service, or brand.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mediapost.com/publications/article/384462/using-ai-to-translate-human-language-into-data-q.html",
-      "originalUrl": "https://www.mediapost.com/publications/article/384462/using-ai-to-translate-human-language-into-data-q.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-17T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MediaPost",
-        "domain": "mediapost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-18-tric-robotics-offers-farmers-uv-pest-control.md",
-      "title": "Tric Robotics offers farmers UV pest control",
-      "excerpt": "One of Tric Robotics' tractors bathes crops in ultraviolet light. (courtesy photo) San Luis Obispo-based Tric Robotics started in Delaware in 2017 making small, lunchbox-sized robots for police SWAT teams.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pacbiztimes.com/2023/04/17/tric-robotics-offers-farmers-uv-pest-control/",
-      "originalUrl": "https://www.pacbiztimes.com/2023/04/17/tric-robotics-offers-farmers-uv-pest-control/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pacbiztimes.com/wp-content/uploads/2019/11/CHC.jpg",
-          "width": 350,
-          "height": 329,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-17T20:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pacbiztimes.com",
-        "domain": "pacbiztimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-18-not-too-much-to-ask-harvard-undergrad-workers-rally-for-a-union-after-university-denies-recognition.md",
-      "title": "‘Not Too Much to Ask’: Harvard Undergrad Workers Rally for a Union After University Denies Recognition",
-      "excerpt": "Without voluntary recognition, HUWU will have to gain majority ... Sanders ’24 mentioned Curran’s reply during a speech at the rally, the crowd responded with boos. “Shame on Paul!",
-      "sourceUrl": null,
-      "webUrl": "https://www.thecrimson.com/article/2023/4/18/huwu-recognition-denied/",
-      "originalUrl": "https://www.thecrimson.com/article/2023/4/18/huwu-recognition-denied/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/thumbnails.thecrimson.com/photos/2023/04/17/230704_1363158.jpeg.2000x1333_q95_crop-smart_upscale.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-17T20:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Harvard Crimson",
-        "domain": "thecrimson.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/danidiplacido/2023/04/24/ai-generated-s
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danidiplacido/2023/04/24/ai-generated-songs-that-sound-like-kanye-and-drake-are-going-viral-on-tiktok/amp/"
 type: article
 quality: 84
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1200
     height: 854
     isCached: true
+
+related:
+  - title: "TikTok Adds AI Avatar Generation Feature"
+    excerpt: "Upload anywhere from 3 to 10 selfies and let TikTok generate up to 30 avatars in 5 different styles for you to choose from."
+    publishedDateTime: 2023-04-26T13:46:00Z
+    webUrl: "https://gizmodo.com/tiktok-avatar-ai-art-lensa-1850377003"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 47
 
 secured: "qftyLVfbFa6BTjrogKzr9VbVIiHrWZJW4wj4EGItnrQHcKg7cW25aCJ3krXAwRP/sSiV7VJUCZQgTJxsqNCB5IsrgWvO3WkPaCcoL98ukiH2fyOKvXTiq22fhWL2vWdyd2k0B+h4WYhtaWKv/Fb07mLWWtxvhCMeRH7XP/ArwSqI8yoiifH64+s2bzK4tIYTa8Bs42Kz+nokZfdYmtfFeUzbpda8yidJG7erZ4eO34R4bf9q6ye/5rysci17xds7fr4j8vxmAfwVJAi0SXAO0j5K8jevDe2vZ04F/zn2B4wwocaTbkQZtl0IlJ84i6TJimobi00nXKv58DlKjoYeinq2LkNNqnx1kqKEwBw5RrA=;UZV9VoY/OJGD+dUJrXD23g=="
 ---

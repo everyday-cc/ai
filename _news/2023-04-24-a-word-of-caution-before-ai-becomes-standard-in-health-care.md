@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/opinion/healthcare/3965108-a-word-of-caution-bef
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/healthcare/3965108-a-word-of-caution-before-ai-becomes-standard-in-healthcare/amp/"
 type: article
 quality: 61
-heat: 74
+heat: 71
 published: true
 
 provider:

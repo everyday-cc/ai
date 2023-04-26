@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-26T13:57:00Z
 originalUrl: "https://menafn.com/1106102212/Exordiums-AI-Gametoearn-Opens-Whitelist-Application-For-100000-Reward-Opportunity"
 webUrl: "https://menafn.com/1106102212/Exordiums-AI-Gametoearn-Opens-Whitelist-Application-For-100000-Reward-Opportunity"
 type: article
+quality: 10
+heat: 10
+published: false
 
 provider:
   name: Mena FN

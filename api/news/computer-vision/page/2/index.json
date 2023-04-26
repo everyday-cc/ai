@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-04-08-how-to-unlock-your-phone-with-facial-recognition-even-when-you-have-your-glasses-on.md",
+      "title": "How to unlock your phone with facial recognition even when you have your glasses on",
+      "excerpt": "Face ID utilizes facial recognition technology to scan your face and verify your identity. When activated, the feature uses the front-facing camera, or selfie cam, to securely authenticate you are ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/how-unlock-your-phone-facial-recognition-you-have-your-glasses-on",
+      "originalUrl": "https://www.foxnews.com/tech/how-unlock-your-phone-facial-recognition-you-have-your-glasses-on",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3e1606f4-9dc7-4a77-a1f7-d0820d9415aa/bed61823-673c-4543-b5d7-0629195fdbbe/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/how-unlock-your-phone-facial-recognition-you-have-your-glasses-on.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/how-unlock-your-phone-facial-recognition-you-have-your-glasses-on.amp",
+      "publishedDateTime": "2023-04-07T15:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-07-global-computer-vision-system-market-2023-2030-an-in-depth-analysis-on-industry.md",
       "title": "Global Computer Vision System Market [2023-2030] | An In-Depth Analysis on Industry",
       "excerpt": "The Global Computer Vision System Market is Forecasted to Reach a Multimillion-Dollar Valuation by 2030, Exhibiting",
@@ -1252,50 +1304,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-23-best-samsung-robot-vacuum-deals-during-the-discover-samsung-sale.md",
-      "title": "Best Samsung robot vacuum deals during the Discover Samsung sale",
-      "excerpt": "The Samsung Jet Bot AI+ robot vacuum has a bunch of cool features, including 30 watts of adjustable suction, 3D object recognition with AI and powerful LiDAR navigation. This robot vacuum can recognize what objects to avoid, so you won't have to deal with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/essentials/best-samsung-robot-vacuum-deals-for-spring-cleaning-2023-03-22/",
-      "originalUrl": "https://www.cbsnews.com/essentials/best-samsung-robot-vacuum-deals-for-spring-cleaning-2023-03-22/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/02/28/0d05e20f-fb26-434c-aee7-89cfc48406cf/thumbnail/1200x630/6ddd630ffc4d4d5d252c08853935328d/samsung-jet-bot-header.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/best-samsung-robot-vacuum-deals-for-spring-cleaning-2023-03-22/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-samsung-robot-vacuum-deals-for-spring-cleaning-2023-03-22/",
-      "publishedDateTime": "2023-03-22T13:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

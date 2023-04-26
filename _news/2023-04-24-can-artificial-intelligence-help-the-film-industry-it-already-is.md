@@ -22,6 +22,15 @@ topics:
   - AI
 
 related:
+  - title: "Empower - Not Overpower - With AI In The Healthcare Industry"
+    excerpt: "With human knowledge and experience still being the number one driver in the healthcare industry, it is a perfect example of how AI can empower, not overpower to achieve better results, and improve the quality of the patient's experience and their life."
+    publishedDateTime: 2023-04-26T13:51:00Z
+    webUrl: "https://www.thehealthsite.com/diseases-conditions/empower-not-overpower-with-ai-in-the-healthcare-industry-972979/"
+    type: article
+    provider:
+      name: TheHealthSite
+      domain: thehealthsite.com
+    quality: 34
   - title: "Artificial Intelligence In The African Asset Management Industry: Four Factors To Consider Before Developing A Strategy"
     excerpt: "Discussions about AI’s potential to disrupt enterprises, business models and entire industries have become mainstream. With the advanced data processing speed that AI affords, smaller asset management firms can now onboard clients faster using AI enabled know-your-customer (KYC) software."
     publishedDateTime: 2023-04-25T12:15:00Z

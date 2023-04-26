@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-26T12:37:00Z
 originalUrl: "https://mises.org/wire/prices-food-employment-ai-and-robotics-are-regular-folks-not-just-elite"
 webUrl: "https://mises.org/wire/prices-food-employment-ai-and-robotics-are-regular-folks-not-just-elite"
 type: article
+quality: 43
+heat: 43
+published: false
 
 provider:
   name: Mises Institute

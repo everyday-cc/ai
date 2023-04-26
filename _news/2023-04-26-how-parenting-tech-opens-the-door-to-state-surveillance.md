@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-26T13:00:00Z
 originalUrl: "https://www.wired.com/story/how-parenting-tech-opens-the-door-to-state-surveillance/"
 webUrl: "https://www.wired.com/story/how-parenting-tech-opens-the-door-to-state-surveillance/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Wired

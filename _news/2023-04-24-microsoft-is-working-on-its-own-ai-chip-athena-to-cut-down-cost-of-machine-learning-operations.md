@@ -7,7 +7,7 @@ originalUrl: "https://www.medianama.com/2023/04/223-microsoft-ai-chip-athena-mac
 webUrl: "https://www.medianama.com/2023/04/223-microsoft-ai-chip-athena-machine-learning/"
 type: article
 quality: 75
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -41,6 +41,15 @@ related:
         width: 611
         height: 458
         isCached: true
+  - title: "The ODP Corporation Expands Collaboration with Microsoft to Leverage the Power of AI Technology from Microsoft Azure OpenAI Service"
+    excerpt: "Recognizing Azure's immense potential, ODP has been working with Microsoft to migrate legacy systems and to build out its customer-facing platforms, including its Varis digital procurement ecosystem and Business Central integration,"
+    publishedDateTime: 2023-04-26T13:55:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-odp-corporation-expands-collaboration-with-microsoft-leverage-power-/2023/04/26/9802325.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "bh5XFIjMm90Iu00Hc38KTjDhTBlzhhtGKC3ekI6KcEgLla4WK+JjF6kVsC0auiTnRUo177jb1oi+6IG2W03JfDwKD5X/C7XK4XSwvFXp/atmewZ0aXpAQij3zsDS6XECvRHX1W7kX5gKSapUVuBY3hRmNuj5scbtaQ93vfIqcIZEP0NmCTQjBnj2W40TlNjDTkjs8zYWq3A7WniNXp/H7N7Ws4JFkotYO03S1MKIgS1c1v3Y83BFAeYy4loii0A/TQlYlJ/qddcfeA9t/1Y9cPS+iEu04qhDT2fvolIXFJFgQ5wn6gENkZTZL4sN1To2PK5mkuGHnFOtMloQ6m+CxEERGjChznGqzI5DyjltHXY74FES+eiYbqSqa1Ulq/NArWP9YqDK73YgRnHGSZjBGsILo70DQvaGFI/ahg7cQYjWjfXVDNhH/t+RRL1MlrE7BSK/Rd64HbGhxNoOizTQa8oRw60lKwsDJQmlKMod1r2JjlUbU1fKoMhaHT0iUFdUv45kt+HjX35yfXRlfpBq6w==;J26BKjOus/WV6yFCRgCZqw=="
 ---

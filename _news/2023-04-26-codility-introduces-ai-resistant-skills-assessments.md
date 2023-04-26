@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-26T13:17:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/codility-introduces-ai-resistant-skills-assessments-1032263145"
 webUrl: "https://markets.businessinsider.com/news/stocks/codility-introduces-ai-resistant-skills-assessments-1032263145"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Business Insider

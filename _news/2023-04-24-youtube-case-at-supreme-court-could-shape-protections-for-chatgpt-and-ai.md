@@ -141,6 +141,22 @@ related:
       name: TechRadar
       domain: techradar.com
     quality: 62
+  - title: "Someone Put ChatGPT Inside Of A Robot Dog, Which Can't Possibly End Badly"
+    excerpt: "Massive upgrade!\" Of course, this isn't a case of simply installing ChatGPT into a robot and getting immediate results. As seen in the video, Santiago and the team had to create specific terms and routines for ChatGPT to function properly within Spot."
+    publishedDateTime: 2023-04-26T15:10:00Z
+    webUrl: "https://www.gamespot.com/articles/someone-put-chatgpt-inside-of-a-robot-dog-which-cant-possibly-end-badly/1100-6513590/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/someone-put-chatgpt-inside-of-a-robot-dog-which-cant-possibly-end-badly/1100-6513590/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/someone-put-chatgpt-inside-of-a-robot-dog-which-cant-possibly-end-badly/1100-6513590/"
+    type: article
+    provider:
+      name: GameSpot
+      domain: gamespot.com
+    quality: 58
+    images:
+      - url: "https://www.gamespot.com/a/uploads/original/1601/16018044/4130173-blade-wolf.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "ChatGPT: Opportunities and threats"
     excerpt: "November 30, 2022 to be precise, ChatGPT, an artificial intelligence chatbot, has been gaining rave reviews as"
     publishedDateTime: 2023-04-25T16:46:00Z
@@ -261,6 +277,15 @@ related:
       name: manilatimes
       domain: manilatimes.net
     quality: 19
+  - title: "AI Set To Significantly Impact The Job Market – Amesite Helps Users Get Ready To Succeed In Tomorrow's Economy By Integrating ChatGPT Into Learning"
+    excerpt: "Artificial intelligence (AI) has taken the markets by storm ever since the release of Open AI’s Chat GPT, powered by the generative AI model GPT-3. AI’s creative potential, as well as fears surrounding its use,"
+    publishedDateTime: 2023-04-26T12:45:00Z
+    webUrl: "https://www.benzinga.com/markets/penny-stocks/23/04/32009425/ai-set-to-significantly-impact-the-job-market-amesite-helps-users-get-ready-to-succeed-in-to"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "BLbesDcWLYdLt9v4y1wOWAaG6u8vybtn5mYqfoS5amQDTmK1tW6F505i3IkD1r/l+jEgGD9/eWhJF4I7IoOKupEzWIh4uPrAEFGbVNdgzJ59K5lqsqdvvEtV4BDqpKp0pbYmXjLva/i+pD8M+c8gz8Kzm5MVDjxCKknKsohZ5Jn7HH7LsR5PdsjwvKeSCEKSV4KlOc6rU2JxnSPP0r7AhZTslIr/5qxrns7SFhdd1wtUHZulOOcZIfZS8mI862Ad2KPukHBa8dLpptA0ePo64f31B6iJaKsU1/USP4dpX+2igJFCEPKgnRShsn4PyI2We0SBy2YQTIrw9e7bwIg0XeY/1vzSlcD1/oAbMOprAHmSZq6gglB2PgdnqYNlM68Gn1+ca8rxLpudt9z8MYqODinSogK+b1133HIeZ6z6OSHqCzhSo+WVltI3dXSK+vFAeyAAIS0U9tWOUs+lnPWAMyGvlZ/IvHXHL9I+JrazWlNKVm0kuvXzRWFk9dy4bwqol4cWTYooZXiWnSa5m7ZRGw==;ws/MDbVkQkwmytqteZIoaA=="
 ---

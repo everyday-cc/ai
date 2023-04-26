@@ -2,6 +2,249 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2023-04-11-should-robots-with-artificial-intelligence-have-moral-or-legal-rights.md",
+      "title": "Should Robots With Artificial Intelligence Have Moral or Legal Rights?",
+      "excerpt": "Artificial intelligence is writing essays ... bolstering longstanding worries that robots might someday overtake us.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/robots-ai-legal-rights-3c47ef40",
+      "originalUrl": "https://www.wsj.com/articles/robots-ai-legal-rights-3c47ef40",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-756352/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-10T11:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-04-11-how-robots-and-ai-are-transforming-the-surgery-room.md",
+      "title": "How Robots and AI Are Transforming the Surgery Room",
+      "excerpt": "Robotic devices and artificial intelligence are being increasingly incorporated into healthcare institutions across the world: What the future may hold for this critical sector.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/science-technology/how-ai-and-robotics-can-make-healthcare-better/448464",
+      "originalUrl": "https://www.entrepreneur.com/science-technology/how-ai-and-robotics-can-make-healthcare-better/448464",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-10T10:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-10-should-robots-with-artificial-intelligence-have-moral-or-legal-rights.md",
+      "title": "Should Robots With Artificial Intelligence Have Moral or Legal Rights?",
+      "excerpt": "Last year a software engineer at Google made an unusual assertion: that an artificial-intelligence chatbot developed at the company had become sentient, was entitled to rights as a person and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/robots-ai-legal-rights-3c47ef40?mod=latest_headlines",
+      "originalUrl": "https://www.wsj.com/articles/robots-ai-legal-rights-3c47ef40?mod=latest_headlines",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-756352/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-10T09:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-10-shanghai-opens-first-industrial-park-dedicated-to-cell-and-gene-therapy.md",
+      "title": "Shanghai opens first industrial park dedicated to cell and gene therapy",
+      "excerpt": "The city's first dedicated industrial park for cell and gene therapy will be unveiled later this year in the latest bid to implement Shanghai's three-year action plan for the booming sector. The Shanghai International Medical Zone,",
+      "sourceUrl": null,
+      "webUrl": "https://www.shine.cn/biz/economy/2304105729/",
+      "originalUrl": "https://www.shine.cn/biz/economy/2304105729/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://obj.shine.cn/files/2023/04/10/e6269de4-c55c-4061-a51d-647f37d8600a_0.jpg",
+          "width": 576,
+          "height": 324,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-10T05:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SHINE",
+        "domain": "shine.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-10-dashcam-footage-shows-driverless-cars-clogging-san-francisco.md",
+      "title": "Dashcam Footage Shows Driverless Cars Clogging San Francisco",
+      "excerpt": "The 54, brought to a halt by an autonomous vehicle belonging to Alphabet’s Waymo, isn’t the only bus that’s run into trouble with San Francisco’s growing crowd of driverless vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/dashcam-footage-shows-driverless-cars-cruise-waymo-clogging-san-francisco/",
+      "originalUrl": "https://www.wired.com/story/dashcam-footage-shows-driverless-cars-cruise-waymo-clogging-san-francisco/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6430be5f3715dbabc0357bd9/master/pass/Autonomous-Vehicles-Are-Clogging-San-Francisco-Business-1390904981.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/dashcam-footage-shows-driverless-cars-cruise-waymo-clogging-san-francisco/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/dashcam-footage-shows-driverless-cars-cruise-waymo-clogging-san-francisco/amp",
+      "publishedDateTime": "2023-04-10T04:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-10-artificial-intelligence-in-space-the-amazing-ways-machine-learning-is-helping-to-unravel-the-mysteries-of-the-universe.md",
       "title": "Artificial Intelligence In Space: The Amazing Ways Machine Learning Is Helping To Unravel The Mysteries Of The Universe",
       "excerpt": "AI is revolutionizing space exploration, from autonomous spaceflight to planetary exploration and charting the cosmos. ML algorithms help astronauts and scientists navigate and study space, avoid hazards,",
@@ -871,186 +1114,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-08-new-side-effect-of-covid-19-discovered-face-blindness.md",
-      "title": "New Side Effect of COVID-19 Discovered: “Face Blindness”",
-      "excerpt": "A Dartmouth College study discovered impairments in both face recognition and navigational abilities. A recent Dartmouth study published in the journal Cortex has revealed that COVID-19 can lead to difficulties in face recognition and navigation.",
-      "sourceUrl": null,
-      "webUrl": "https://scitechdaily.com/new-side-effect-of-covid-19-discovered-face-blindness/",
-      "originalUrl": "https://scitechdaily.com/new-side-effect-of-covid-19-discovered-face-blindness/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-08T00:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-08-an-ai-created-robots-out-of-living-tissue-then-they-started-to-reproduce-meet-the-xenobots.md",
-      "title": "An AI created robots out of living tissue. Then they started to reproduce…. Meet the xenobots",
-      "excerpt": "Scientists are using living materials to make machines that some would regard as alive… and now they’ve started to replicate",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencefocus.com/future-technology/ai-xenobots/",
-      "originalUrl": "https://www.sciencefocus.com/future-technology/ai-xenobots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-08T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC Focus",
-        "domain": "sciencefocus.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-08-thornbury-business-the-mower-doctor-launches-line-of-robotic-mowers.md",
-      "title": "Thornbury business The Mower Doctor launches line of robotic mowers",
-      "excerpt": "Take the strain out of the perfect lawn with latest robotic mowers from a Thornbury business. The Mower Doctor near Thornbury is your local garden and estate machinery experts. With a wide range of lawnmowers,",
-      "sourceUrl": null,
-      "webUrl": "https://www.gazetteseries.co.uk/news/23440382.thornbury-business-mower-doctor-launches-line-robotic-mowers/",
-      "originalUrl": "https://www.gazetteseries.co.uk/news/23440382.thornbury-business-mower-doctor-launches-line-robotic-mowers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-07T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gazette Series",
-        "domain": "gazetteseries.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-08-opinion-artificial-intelligence-should-be-embraced-not-feared.md",
-      "title": "Opinion: Artificial intelligence should be embraced, not feared",
-      "excerpt": "We are witness to the next “iPhone moment ,” and it should be embraced, not feared. There are valid reasons for the pessimism that Elon Musk and others outline in a recent open letter, where he and other tech leaders urged a pause of AI development for six months.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chron.com/opinion/article/opinion-artificial-intelligence-should-be-17882702.php",
-      "originalUrl": "https://www.chron.com/opinion/article/opinion-artificial-intelligence-should-be-17882702.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/32/16/63/23653586/3/rawImage.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-07T20:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "chron.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-04-08-new-deep-learning-based-model-estimates-breast-density-with-high-precision.md",
-      "title": "New deep learning-based model estimates breast density with high precision",
-      "excerpt": "Breast cancer is the most common cancer to affect women worldwide. According to the American Cancer Society, about 1 in 8 women in the United States will develop breast cancer in their lifetime.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20230407/New-deep-learning-based-model-estimates-breast-density-with-high-precision.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20230407/New-deep-learning-based-model-estimates-breast-density-with-high-precision.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-07T19:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

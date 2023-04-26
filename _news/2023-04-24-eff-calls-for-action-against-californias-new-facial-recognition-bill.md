@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/98420-eff-calls-action-against-calif
 webUrl: "https://www.techspot.com/news/98420-eff-calls-action-against-california-new-facial-recognition.html"
 type: article
 quality: 64
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -23,17 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Facial recognition company says it collected 30 billion social media images for police to use"
-    excerpt: "New York facial-recognition company Clearview AI says it has collected 30 billion images from Facebook and other social media platforms to build its vast database of images that critics complain amount to a perpetual police line-up."
-    publishedDateTime: 2023-04-21T23:09:00Z
-    webUrl: "https://www.fox26houston.com/news/facial-recognition-company-says-it-collected-30-billion-social-media-images-for-police-to-use"
-    ampWebUrl: "https://www.fox26houston.com/news/facial-recognition-company-says-it-collected-30-billion-social-media-images-for-police-to-use.amp"
-    cdnAmpWebUrl: "https://www-fox26houston-com.cdn.ampproject.org/c/s/www.fox26houston.com/news/facial-recognition-company-says-it-collected-30-billion-social-media-images-for-police-to-use.amp"
-    type: article
-    provider:
-      name: KRIV
-      domain: fox26houston.com
-    quality: 28
   - title: "Amazon Delivery Drivers in California Join Teamsters Union (2)"
     excerpt: "Amazon.com Inc. drivers in Palmdale, Calif., became the first in the nation to join the International Brotherhood of Teamsters, the union said Monday."
     publishedDateTime: 2023-04-24T22:08:00Z

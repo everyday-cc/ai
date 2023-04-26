@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-26T07:05:00Z
 originalUrl: "https://omaha.com/lifestyles/no-one-is-driving-this-taxi-what-possibly-could-go-wrong/article_eebc9d8c-7790-5083-8495-f151ac4f48cf.html"
 webUrl: "https://omaha.com/lifestyles/no-one-is-driving-this-taxi-what-possibly-could-go-wrong/article_eebc9d8c-7790-5083-8495-f151ac4f48cf.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Omaha.com

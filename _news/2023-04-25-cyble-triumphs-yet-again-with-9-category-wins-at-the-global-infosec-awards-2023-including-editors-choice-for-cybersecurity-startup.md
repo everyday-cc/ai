@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Cybersecurity and AI trends analysis live from RSA Conference"
+    excerpt: "At this week’s RSA Conference in San Francisco, the focus remained on generative artificial intelligence, with some uncertainty about its involvement in recent hacks. The technology will likely become increasingly relevant as it develops further,"
+    publishedDateTime: 2023-04-26T15:14:00Z
+    webUrl: "https://siliconangle.com/2023/04/26/cybersecurity-and-ai-trends-analysis-live-from-rsa-conference-rsac/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/04/Sarbjeet-Johal-RSAC-2023-V2.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Transforming digital landscapes: Cloud solutions, cybersecurity and AWS’ approach"
     excerpt: "In fact, AWS has a dedicated team working around the clock to ensure a fully secure, efficient cloud experience for its clients. “I do a lot of work around securing ourselves, and then I also talk to customers and empathize with them about what it takes to do security at scale in the cloud,"
     publishedDateTime: 2023-04-25T18:33:00Z

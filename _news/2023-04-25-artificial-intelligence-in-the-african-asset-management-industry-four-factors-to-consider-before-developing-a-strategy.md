@@ -31,6 +31,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Empower - Not Overpower - With AI In The Healthcare Industry"
+    excerpt: "With human knowledge and experience still being the number one driver in the healthcare industry, it is a perfect example of how AI can empower, not overpower to achieve better results, and improve the quality of the patient's experience and their life."
+    publishedDateTime: 2023-04-26T13:51:00Z
+    webUrl: "https://www.thehealthsite.com/diseases-conditions/empower-not-overpower-with-ai-in-the-healthcare-industry-972979/"
+    type: article
+    provider:
+      name: TheHealthSite
+      domain: thehealthsite.com
+    quality: 34
 
 secured: "cipXnEqUg/8wSkRQuw4Z1kJjNKaxoid4C+P4aAqpEXDr7+O6wKpiVaZ4Ev2cKVmlXphN1hqZOvjvwkkzhqxjyc2msVnL0L8JwiZrBxLFUImisH3VDxaZ5qcFAsd0ACu7J3yg7OvKI9Ilto0if2ilJO1h63eZgyT5/aZBzpV3b8J4a71l5zpDg+45qCTVf2XXOc0tuFjMsOz93f4vM89RFJJ1f/w+fl4UuntK6GzxNujvddtENnyD4djz3X0cUmsbTTxY3wjUGOPtP7ryrOwt7ovJCL6kC/OIzzw3bWJf3ku29ugykIcEV1NsDvIDO86I1ZNZtzQdRUmCoqzp+JuC3D/OJ5yahSXm20lOeRnRHtUqsDjOrcdHj8DAHNrU47dQEITTQJVGzIzbC1ZdTRfAVlwn0xnQ6IW+J2jHKJAa9Yq+CwYhZHkYKYFGUOLj2OMTPfsp4la9dHG+S27S5MsSl5lPWtoUdZjQ8T0OPFzyr8FrZJRioEIUniByBEdkru2zpFq+DFVmU89A2GfNgj36Ag==;/8unu13PG07NlExa15A2DA=="
 ---

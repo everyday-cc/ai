@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/self-driving-or-driverle
 webUrl: "https://www.marketwatch.com/press-release/self-driving-or-driverless-cars-market-emerging-offers-new-opportunities-forecast-2023-2030-2023-04-22"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
     quality: 53
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Elon Musk pins hopes on full self-driving as Tesla's next profit driver"
-    excerpt: "Some analysts and investors worry that Tesla's industry-leading market valuation is threatened by factors including price cuts that have undermined its margins, delays in rolling out new models and revisions to its full self-driving software."
-    publishedDateTime: 2023-04-21T21:46:00Z
-    webUrl: "https://www.autonews.com/executives/elon-musk-hopes-full-self-driving-will-be-next-tesla-profit-driver"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 39
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/Elon%20Musk%20pensive%20web.jpg"
         width: 1200
         height: 630
         isCached: true

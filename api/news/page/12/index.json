@@ -2,6 +2,160 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2023-04-16-algorithms-auditing-algorithms-gpt-4-a-reminder-that-responsible-ai-is-moving-beyond-human-scale.md",
+      "title": "Algorithms auditing algorithms: GPT-4 a reminder that responsible AI is moving beyond human scale",
+      "excerpt": "Responsible AI is the foundation for accurate, effective and trustworthy AI systems, addressing bias, ensuring transparency and more.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/algorithms-auditing-algorithms-gpt-4-responsible-ai-beyond-human-scale/",
+      "originalUrl": "https://venturebeat.com/ai/algorithms-auditing-algorithms-gpt-4-responsible-ai-beyond-human-scale/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/04/annevb_artificial_intelligence_monitoring_artificial_intelligen_e0903052-c092-4cd0-bae3-0dade58f600f.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/algorithms-auditing-algorithms-gpt-4-responsible-ai-beyond-human-scale/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/algorithms-auditing-algorithms-gpt-4-responsible-ai-beyond-human-scale/amp/",
+      "publishedDateTime": "2023-04-16T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-16-australian-universities-split-on-using-new-tool-to-detect-ai-plagiarism.md",
+      "title": "Australian universities split on using new tool to detect AI plagiarism",
+      "excerpt": "Turnitin claims its device is 98% accurate but some institutions are concerned about not having enough time to make a decision",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/australia-news/2023/apr/16/australian-universities-split-on-using-new-tool-to-detect-ai-plagiarism",
+      "originalUrl": "https://www.theguardian.com/australia-news/2023/apr/16/australian-universities-split-on-using-new-tool-to-detect-ai-plagiarism",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/e5fccb4a3288b0d7fdba8b10f53196cdade5fdb4/0_456_8192_4918/master/8192.jpg?width=620&quality=85&auto=format&fit=max&s=4fad7490e8f106ce527c5ee67fbcdb73",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/australia-news/2023/apr/16/australian-universities-split-on-using-new-tool-to-detect-ai-plagiarism",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/apr/16/australian-universities-split-on-using-new-tool-to-detect-ai-plagiarism",
+      "publishedDateTime": "2023-04-16T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-16-how-ai-and-chatgpt-can-crush-customer-service.md",
+      "title": "How AI And ChatGPT Can Crush Customer Service",
+      "excerpt": "Rather than agents spending time looking up answers, the AI ChatGPT platform is programmed to give them the information they need in the fastest possible time. In other words, it makes an agent’s life easier.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/shephyken/2023/04/16/how-ai-and-chatgpt-can-crush-customer-service/",
+      "originalUrl": "https://www.forbes.com/sites/shephyken/2023/04/16/how-ai-and-chatgpt-can-crush-customer-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 339,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64385b4765e1abf46213615f/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/shephyken/2023/04/16/how-ai-and-chatgpt-can-crush-customer-service/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shephyken/2023/04/16/how-ai-and-chatgpt-can-crush-customer-service/amp/",
+      "publishedDateTime": "2023-04-16T05:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-04-16-constitutional-recognition-through-an-indigenous-voice-to-parliament.md",
       "title": "Constitutional Recognition through an Indigenous Voice to Parliament",
       "excerpt": "An Indigenous Voice to Parliament is a proposal which has been met with a wide range of responses from Aboriginal and Torres Strait Islander people.",
@@ -996,143 +1150,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/04/14/zooms-virtual-agent-brings-ai-powered-resolutions-to-contact-centers/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/04/14/zooms-virtual-agent-brings-ai-powered-resolutions-to-contact-centers/amp/",
       "publishedDateTime": "2023-04-14T14:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-15-ai-frenzy-puts-chips-back-onto-the-menu-buy-the-tech-behind-revolution.md",
-      "title": "AI frenzy puts chips back onto the menu: Buy the tech behind revolution",
-      "excerpt": "Slavishly following fashion when building a portfolio is not a good idea. But acknowledging trends makes sense - and ChatGPT is part of a mega trend.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thisismoney.co.uk/money/investing/article-11974189/AI-frenzy-puts-chips-menu-Buy-tech-revolution.html",
-      "originalUrl": "https://www.thisismoney.co.uk/money/investing/article-11974189/AI-frenzy-puts-chips-menu-Buy-tech-revolution.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2023/04/14/20/69846491-0-image-a-72_1681502145335.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thisismoney.co.uk/money/investing/article-11974189/amp/AI-frenzy-puts-chips-menu-Buy-tech-revolution.html",
-      "cdnAmpWebUrl": "https://www-thisismoney-co-uk.cdn.ampproject.org/c/s/www.thisismoney.co.uk/money/investing/article-11974189/amp/AI-frenzy-puts-chips-menu-Buy-tech-revolution.html",
-      "publishedDateTime": "2023-04-14T13:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "This is Money",
-        "domain": "thisismoney.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-15-dubai-sheikh-mohammed-issues-new-law-on-driverless-vehicles-up-to-dh50000-fine-announced-for-violators.md",
-      "title": "Dubai: Sheikh Mohammed Issues New Law On Driverless Vehicles Up To Dh50,000 Fine Announced For Violators",
-      "excerpt": "A new law in Dubai is set to regulate the operations of driverless vehicles in the ... environment that facilitates the use of artificial intelligence (AI) in transportation.",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1106015524/Dubai-Sheikh-Mohammed-Issues-New-Law-On-Driverless-Vehicles-Up-To-Dh50000-Fine-Announced-For-Violators",
-      "originalUrl": "https://menafn.com/1106015524/Dubai-Sheikh-Mohammed-Issues-New-Law-On-Driverless-Vehicles-Up-To-Dh50000-Fine-Announced-For-Violators",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2023-04/14/KT_b2688image_story.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-14T11:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-15-generative-ai-music-platform-creates-forever-songs-with-artists-unique-sounds-melodies-and-beats.md",
-      "title": "Generative AI Music Platform Creates Forever Songs With Artists’ Unique Sounds, Melodies, And Beats",
-      "excerpt": "A generative AI startup named Aimi has launched a new music platform that fundamentally transforms music, artists, listeners, and monetization. It’s simultaneously a creation tool that works alongside artists to create tracks, a listening experience that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2023/04/14/generative-ai-music-platform-creates-forever-songs-with-artists-unique-sounds-melodies-and-beats/",
-      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2023/04/14/generative-ai-music-platform-creates-forever-songs-with-artists-unique-sounds-melodies-and-beats/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64398a48797e9c71efa00872/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 843,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2023/04/14/generative-ai-music-platform-creates-forever-songs-with-artists-unique-sounds-melodies-and-beats/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2023/04/14/generative-ai-music-platform-creates-forever-songs-with-artists-unique-sounds-melodies-and-beats/amp/",
-      "publishedDateTime": "2023-04-14T10:43:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

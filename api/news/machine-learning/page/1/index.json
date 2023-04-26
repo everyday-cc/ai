@@ -221,7 +221,7 @@
       "originalUrl": "https://www.gizmochina.com/2023/04/25/nanowire-ai-networks-human-memory-brain/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -414,7 +414,7 @@
       "originalUrl": "https://www.infoworld.com/article/3693108/palo-alto-networks-automates-cybersecurity-with-machine-learning.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -554,7 +554,7 @@
       "originalUrl": "https://www.medianama.com/2023/04/223-microsoft-ai-chip-athena-machine-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -759,6 +759,49 @@
       "provider": {
         "name": "Psychology Today",
         "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-22-networks-of-silver-nanowires-seem-to-learn-and-remember-much-like-our-brains.md",
+      "title": "Networks of silver nanowires seem to learn and remember, much like our brains",
+      "excerpt": "Collections of self-organising nanowires behave a lot like the neurons and synapses in our brains, with startling results.",
+      "sourceUrl": null,
+      "webUrl": "https://theconversation.com/networks-of-silver-nanowires-seem-to-learn-and-remember-much-like-our-brains-204115",
+      "originalUrl": "https://theconversation.com/networks-of-silver-nanowires-seem-to-learn-and-remember-much-like-our-brains-204115",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.theconversation.com/files/522255/original/file-20230421-1579-qs4r3k.jpeg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=320&fit=crop",
+          "width": 320,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theconversation.com/amp/networks-of-silver-nanowires-seem-to-learn-and-remember-much-like-our-brains-204115",
+      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/networks-of-silver-nanowires-seem-to-learn-and-remember-much-like-our-brains-204115",
+      "publishedDateTime": "2023-04-21T14:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Conversation",
+        "domain": "theconversation.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1352,49 +1395,6 @@
       "provider": {
         "name": "techxplore",
         "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-18-spiking-neural-networks-hardware-algorithm-developments.md",
-      "title": "Spiking Neural Networks: Hardware & Algorithm Developments",
-      "excerpt": "A new technical paper titled “Exploring Neuromorphic Computing Based on Spiking Neural Networks: Algorithms to Hardware” was published by researchers at Purdue University, Pennsylvania State University, and Yale University. Excerpt from Abstract ...",
-      "sourceUrl": null,
-      "webUrl": "https://semiengineering.com/spiking-neural-networks-hardware-algorithm-developments/",
-      "originalUrl": "https://semiengineering.com/spiking-neural-networks-hardware-algorithm-developments/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://semiengineering.com/wp-content/uploads/AdobeStock_207929333-brain-03-09-22-scaled-e1646861472441.jpeg?fit=1702%2C1087&ssl=1",
-          "width": 1702,
-          "height": 1087,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-18T00:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Semiconductor Engineering",
-        "domain": "semiengineering.com",
         "images": null,
         "publishers": null,
         "authors": null

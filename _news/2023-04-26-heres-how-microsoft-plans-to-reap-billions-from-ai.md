@@ -253,6 +253,36 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Microsoft Stock Climbs After Earnings Reveal Early AI Impact. Wall Street Is Bullish."
+    excerpt: "Microsoft cloud unit may have been the standout performer in its quarterly earnings but Wall Street is becoming increasingly enthusiastic about its AI growth opportunity. The tech giant (ticker: MSFT) beat earnings expectations,"
+    publishedDateTime: 2023-04-26T14:35:00Z
+    webUrl: "https://www.barrons.com/articles/microsoft-stock-price-earnings-ai-cloud-7cfc526d"
+    ampWebUrl: "https://www.barrons.com/amp/articles/microsoft-stock-price-earnings-ai-cloud-7cfc526d"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/microsoft-stock-price-earnings-ai-cloud-7cfc526d"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 67
+    images:
+      - url: "https://images.barrons.com/im-473512/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "ChatGPT vs. Microsoft Bing vs. Google Bard: Which AI is most helpful?"
+    excerpt: "Three AI models that may change the world. ChatGPT vs. Microsoft Bing vs. Google Bard? Which of them operates on acceptable technology in the present and future?"
+    publishedDateTime: 2023-04-26T15:52:00Z
+    webUrl: "https://interestingengineering.com/innovation/chatgpt-vs-microsoft-bing-vs-google-bard"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 56
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/04/26/image/jpeg/PtJ6EQn6QUfFoo55OFjqRtO0N70iJQu0i2fb6UPd.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Microsoft reports boost in profits, revenue, as it pushes AI"
     excerpt: "Analysts polled by FactSet expected Microsoft to post revenue of $51.02 billion for the quarter. The quarter marked an ambitious push by Microsoft to capitalize on its investments in artificial intelligence and partnership with San Francisco-based startup OpenAI with the February release of a new AI chatbot feature on its search engine Bing."
     publishedDateTime: 2023-04-26T01:23:00Z
@@ -309,6 +339,15 @@ related:
         width: 1200
         height: 847
         isCached: true
+  - title: "Snapchat Debuts ChatGPT-Powered Snap AI – But Is It Safe For Kids?"
+    excerpt: "ChatGPT-powered Snap AI raises concerns about the safety and privacy of young users. This article discusses the potential benefits of early AI exposure, while highlighting the importance of parental vigilance in mitigating risks associated with misinformation,"
+    publishedDateTime: 2023-04-26T13:03:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/04/26/snapchat-debuts-chatgpt-powered-snap-ai--but-is-it-safe-for-kids/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "The era of AI: How the Microsoft Cloud is accelerating AI transformation across industries"
     excerpt: "This past quarter has put a spotlight on advancements in generative AI, and the possibilities of its application to deliver pragmatic business outcomes. For organizations around the world, there is incredible opportunity to enhance products and services while unlocking innovation and business value to help shape the future of industry."
     publishedDateTime: 2023-04-24T15:11:00Z

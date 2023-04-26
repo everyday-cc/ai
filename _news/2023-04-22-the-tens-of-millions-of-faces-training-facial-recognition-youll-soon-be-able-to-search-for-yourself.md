@@ -41,6 +41,15 @@ related:
         width: 600
         height: 395
         isCached: true
+  - title: "Black man falsely arrested for theft based on facial recognition"
+    excerpt: "Black man named Robert Williams was falsely arrested by Detroit police officers for theft based on faulty facial recognition technology"
+    publishedDateTime: 2023-04-26T13:25:00Z
+    webUrl: "https://bossip.com/2307826/black-man-falsely-arrested-for-theft-based-on-facial-recognition/"
+    type: article
+    provider:
+      name: Bossip
+      domain: bossip.com
+    quality: 19
 
 secured: "iyZ6/AM/LeyhXjR4ivT5vKl/SGEUR0IUlg5hVvXQl8N+bWpsGzMrqQG259JnfMujdiihfW+jWGr4iMkOqPrAnuKKPq6zQJ0LxfZyg+I7K2MyIqnkOREALDD7A3ilTpvg3qT+hngeR7dFAcxpv4atZHj3SnGom3TxsV79m/xKTjLuP17ygBuQsLc5Zlw3x3U9y5wgQJwXYz3sHNkV1xkwaxz0pj2406rbUtPPBFV6CDSrRHxh6od/furMvZf7DOCevY2/ZAkmPKgj5EFEN/v1WsU2sWkrgr9wblYzd4Ptnig9H+d97W86ZR5Ed/tXkOghUbVIBMl4qXSdGzSZxeR1FGF4OahmEmksLs9YJF7FLZ0=;FJs988y+oDcS/TKe/qCD+g=="
 ---

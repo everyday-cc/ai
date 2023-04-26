@@ -31,8 +31,8 @@ images:
 related:
   - title: "Interprefy unveils next-generation AI event translator Aivia"
     excerpt: "Experience the full interactive Multichannel News Release here: Multilingual meeting technology and services provider Interprefy has today unveiled Interprefy Aivia, the world's first advanced automated speech translation service for online and live events,"
-    publishedDateTime: 2023-04-26T11:07:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/04/26/9802122.htm"
+    publishedDateTime: 2023-04-26T12:23:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-interprefy-unveils-next-generation-ai-event-translator-aivia-/2023/04/26/9802122.htm"
     type: article
     provider:
       name: TMCnet

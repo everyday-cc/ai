@@ -55,20 +55,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Elon Musk pins hopes on full self-driving as Tesla's next profit driver"
-    excerpt: "Some analysts and investors worry that Tesla's industry-leading market valuation is threatened by factors including price cuts that have undermined its margins, delays in rolling out new models and revisions to its full self-driving software."
-    publishedDateTime: 2023-04-21T21:46:00Z
-    webUrl: "https://www.autonews.com/executives/elon-musk-hopes-full-self-driving-will-be-next-tesla-profit-driver"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 39
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/Elon%20Musk%20pensive%20web.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Watch a driverless car get pulled over by police"
     excerpt: "Although Australian legislation doesn’t allow a vehicle to operate without a driver behind the wheel, some US jurisdictions have already legalised driverless cars – and with that comes the prospect of an AI-driven vehicle being pulled over by police."
     publishedDateTime: 2023-04-24T01:04:00Z

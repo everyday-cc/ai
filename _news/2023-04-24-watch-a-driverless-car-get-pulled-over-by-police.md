@@ -69,20 +69,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Elon Musk pins hopes on full self-driving as Tesla's next profit driver"
-    excerpt: "Some analysts and investors worry that Tesla's industry-leading market valuation is threatened by factors including price cuts that have undermined its margins, delays in rolling out new models and revisions to its full self-driving software."
-    publishedDateTime: 2023-04-21T21:46:00Z
-    webUrl: "https://www.autonews.com/executives/elon-musk-hopes-full-self-driving-will-be-next-tesla-profit-driver"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 39
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/Elon%20Musk%20pensive%20web.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "ZNUKSQzElOBtiEikkAn7kRpvfhW0kHu/rAN4BSdrdm8xOdKdhfBvsjyAD7nodEeSf/5j6VHThLYwEtUwMkSIQkNu2a2VUcxMeNxL8UaWi9/k5RsRIyQF3q0AsW226AbRkscmgyP0M0FD6zlqz5Dci5KP37BhZDLTjvd6GyKFvegotU7e7gugoRV37d6zPw9/vFMD1bM286Eb82Yi9PqTFqHADRiiLkno9uegOmoWrZxVPJe11TtgHntOM7YdMYwM9ttGsFJTzxdAcus5IBcTzTwHh7YuzNR0+tUXLoocJ11AM5haL9jiB/JYR9jJNRExB0SQKRvZXK82B1mlBXLS0xQoK5TZ4Bhx+nxZR103lhBsJWF8cF5k4IcBElelFfqQMCRcpQFEwBN3tQa3MMGhCGT2gSdBN/vFv5szUOu2PLaDyX9S76oT/hrzQKLmARvEC1614Pboll8svBt7Q5lpgju6JEKPgJbBhGfLpRW/FdoaedhLbVNYcBaAiAlX46yW7IbZPqY7PrlaMCbwkaEkfQ==;0ACb42vj/wuCkjW4PzfgrQ=="
 ---

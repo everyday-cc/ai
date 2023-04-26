@@ -34,17 +34,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 64
-  - title: "Facial recognition company says it collected 30 billion social media images for police to use"
-    excerpt: "New York facial-recognition company Clearview AI says it has collected 30 billion images from Facebook and other social media platforms to build its vast database of images that critics complain amount to a perpetual police line-up."
-    publishedDateTime: 2023-04-21T23:09:00Z
-    webUrl: "https://www.fox26houston.com/news/facial-recognition-company-says-it-collected-30-billion-social-media-images-for-police-to-use"
-    ampWebUrl: "https://www.fox26houston.com/news/facial-recognition-company-says-it-collected-30-billion-social-media-images-for-police-to-use.amp"
-    cdnAmpWebUrl: "https://www-fox26houston-com.cdn.ampproject.org/c/s/www.fox26houston.com/news/facial-recognition-company-says-it-collected-30-billion-social-media-images-for-police-to-use.amp"
-    type: article
-    provider:
-      name: KRIV
-      domain: fox26houston.com
-    quality: 28
 
 secured: "tUUPTq1tPaIiErASty7dlBDxOEqDjqz/m3S9nX2wXNNl3YnIwWTfzfKGvxOlP0t1RdNzLYExEdNI6b3bNjdYi2wrbe1xOM7kQpTjstzL6Rf4Dv6lXwBRMzzi9g6Aq02xKnXFHpkZ6EtktJRLBHE7t2w+LXqbahHRapOJg3RUPPIfG5nozuJCq29rbJ3f7Q+R+dc3XRppxe3oQWK+dXnzzGNLFv9A7H56VpDPEWR4SpnACJP3t3c5w4/z4Ds3GnKA6DhhPJls93LYhLjyGV6EgzNvHhqEPZxbNJ/kkJ5Gxg8faQ1Hj6nZKJM0AadtJO6hqAUCN0loLeCj5KUmrmQK3o4jWzpe19XoAvv2nq9XBmVX1Srn1/gtNkH85AX3O9mlYPAR1ofYyiOk1HAsl65V6CRp27X9WiQfbu7awfUCdyOV8QX6/kKT6f5qY9soulCpKf/dFVrfG+ofcQA+FF7ZSGn8EExtXhDh2jAJQtI8QEigf6CJyaPKqoqof8c/MtHhM5Hf26jVt5V/Ka26em+OkQ==;q8jptEVitng2TcEXw6HlOg=="
 ---

@@ -20,6 +20,22 @@ topics:
 
 related:
   - title: "China’s DriveGPT Is Here. Time to Play Catch-Up"
+    excerpt: "The AI-backed advances have put China’s auto and related software industry leagues ahead of competitors. (Bloomberg) China's artificial intelligence-powered autonomous-vehicle market is showing serious promise."
+    publishedDateTime: 2023-04-26T15:56:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/chinas-drivegpt-is-here-time-to-play-catchup-71682442447874.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/chinas-drivegpt-is-here-time-to-play-catchup-71682442447874.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/chinas-drivegpt-is-here-time-to-play-catchup-71682442447874.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 44
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2023/04/26/1600x900/china_1682482803967_1682482811615.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "China’s DriveGPT Is Here. Time to Play Catch-Up"
     excerpt: "Beijing’s regulation has put its autonomous-vehicle industry way ahead of competitors. Entry-level offerings won’t cut it any more."
     publishedDateTime: 2023-04-24T16:04:00Z
     webUrl: "https://www.washingtonpost.com/business/2023/04/24/autonomous-vehicles-tesla-needs-to-catch-up-with-china-s-drivegpt/30271504-e2e5-11ed-9696-8e874fd710b8_story.html"

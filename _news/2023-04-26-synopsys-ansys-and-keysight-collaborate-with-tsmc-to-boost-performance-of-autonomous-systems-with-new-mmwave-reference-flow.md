@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-26T13:24:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-synopsys-ansys-keysight-collaborate-with-tsmc-boost-performance-/2023/04/26/9802226.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-synopsys-ansys-keysight-collaborate-with-tsmc-boost-performance-/2023/04/26/9802226.htm"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: TMCnet

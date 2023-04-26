@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-26T13:30:00Z
 originalUrl: "https://healthitanalytics.com/news/va-primary-care-group-expands-artificial-intelligence-partnership"
 webUrl: "https://healthitanalytics.com/news/va-primary-care-group-expands-artificial-intelligence-partnership"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Analytics
