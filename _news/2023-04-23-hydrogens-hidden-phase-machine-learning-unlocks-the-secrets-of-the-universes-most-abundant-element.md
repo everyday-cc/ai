@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Simulations with a machine learning model predict a new phase of solid hydrogen"
-    excerpt: "Hydrogen, the most abundant element in the universe, is found everywhere from the dust filling most of outer space to the cores of stars to many substances here on Earth. This would be reason enough to study hydrogen,"
-    publishedDateTime: 2023-04-22T06:02:00Z
-    webUrl: "https://phys.org/news/2023-04-simulations-machine-phase-solid-hydrogen.html"
-    ampWebUrl: "https://phys.org/news/2023-04-simulations-machine-phase-solid-hydrogen.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-04-simulations-machine-phase-solid-hydrogen.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 55
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/putting-hydrogen-on-so.jpg"
-        width: 955
-        height: 490
-        isCached: true
   - title: "Putting hydrogen on solid ground: Simulations with a machine learning model predict a new phase of solid hydrogen"
     excerpt: "Hydrogen, the most abundant element in the universe, is found everywhere from the dust filling most of outer space to the cores of stars to many substances here on Earth. This would be reason enough to study hydrogen,"
     publishedDateTime: 2023-04-23T03:22:00Z

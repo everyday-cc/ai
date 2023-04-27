@@ -2,9 +2,9 @@
 category: news
 title: "Moveworks Launches Creator Studio: A No-Code, Generative AI Platform for Building Any Conversational AI Use Case Across the Enterprise"
 excerpt: "Moveworks, the leading conversational AI platform for the enterprise, today announced Creator Studio - a no-code, generative AI platform for building any conversational AI use case in minutes. The platform leverages advanced large language models (LLMs) and generative AI to provide a natural language interface that serves as an enterprise-wide copilot for employees."
-publishedDateTime: 2023-04-26T14:33:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-moveworks-launches-creator-studio-no-code-generative-ai-/2023/04/26/9802438.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-moveworks-launches-creator-studio-no-code-generative-ai-/2023/04/26/9802438.htm"
+publishedDateTime: 2023-04-26T15:34:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/04/26/9802438.htm"
+webUrl: "https://it.tmcnet.com/news/2023/04/26/9802438.htm"
 type: article
 quality: 0
 heat: -1
@@ -50,6 +50,6 @@ related:
         height: 506
         isCached: true
 
-secured: "n1nKpPC1VmVeLdqVUGS1O0JGmeuT3VMtbVwgzd7R9JgmRO6AphpotzjkJoS4MdoiasPWxvVbB03YsoLmcvOXDuQQ/VVex425/GizUCga6s3Bxi4ffDL1D172t3Fa8+dhmFGo8z3Okir5w2is8tZKbl9ZPogioOgsMN5sBoabOCdlM+3FxLH0zeJnnGxUnkj5GfCV+uagGsEckUAXVRvOEC/tCTBrveSE+XvQeAU/o6h4xhdbjPKp1LHz89f7EzmSptlro4eJEXmGqT1sAB+2QVm3m1JOZAGuN4cmmvBH6xT//F7oVi11Yt9EYkryOV6BpKS9lRW3eSzKNbnhAvONebSshn1ez14BfpU84HLaBbg=;GOcovYKmvH5IPOsf8uoDdg=="
+secured: "kkWig888d8ku19+x3qNxMHwpYqtFNPQ+6YdRNKX+4cca13j6pDHPxmaMFU7IpR344mESwRvKyDIQaENRoCAFUKdN2NDaN7bhdOzrNrdGVGn36ghl1XlNhRvUR4jHmnciHmEWUkpLtQFVz4Num5E5S1qV6aBiuW8r0+Wqw46tgiQH4Cj0sHXCyb/WkwFNrTXvR6iL0uW1rHrmlltvPDXS6Z9oavAZxi0LG4jbfaAB05YiFEpOEIcKc5qm32Tn8spM3ZuKrV8eEkFlGfAoE3lHHp93ywAtbBC1TtSR8JTRhLVEk6Afcz0xPcm0gnql7ANK2gHPLjLJ1MHjBOCFQaREB+ATGTCGU83yQ7msm8HJJd0=;fmY9ynlTTyR26GztQFm7Zw=="
 ---
 

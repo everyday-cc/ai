@@ -21,8 +21,8 @@ topics:
 related:
   - title: "Cadence Collaborates with GUC on AI, HPC and Networking in Advanced Packaging Technologies"
     excerpt: "GUC's big-die CoWoS platform represents real-world CPU, GPU, AI, and networking chips by integrating multiple instances of the Cadence 112G-LR SerDes with a 7.2Gbps HBM3 controller and PHY, as well as a GLink-2."
-    publishedDateTime: 2023-04-26T14:57:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/04/26/9802615.htm"
+    publishedDateTime: 2023-04-26T16:04:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/04/26/9802615.htm"
     type: article
     provider:
       name: TMCnet

@@ -87,6 +87,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "PricewaterhouseCoopers announces multiyear $1B investment into generative AI"
+    excerpt: "PricewaterhouseCoopers LLP announced plans today to invest $1 billion in generative artificial intelligence that will expand its offerings for clients in the U.S. to use the technology to power their businesses."
+    publishedDateTime: 2023-04-26T20:46:00Z
+    webUrl: "https://siliconangle.com/2023/04/26/pricewaterhousecoopers-announces-multiyear-1b-investment-generative-ai/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 36
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/artificial-intelligence-g47a8f3489_1280.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "PwC Stakes $1 Billion on AI Investments in Tax, Consulting Work"
     excerpt: "Big Four accounting firm PwC US will invest $1 billion over the next three years to expand how its tax accountants, auditors, and consultants use artificial intelligence to improve the work they do for clients,"
     publishedDateTime: 2023-04-26T12:00:00Z

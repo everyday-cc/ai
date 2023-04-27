@@ -18,6 +18,7 @@ topics:
   - AI Ethics
   - AI
   - AI in Robotics
+  - AI in Autos
 
 images:
   - url: "https://media.townhall.com/cdn/hodl/2018/184/36bcc181-97f7-41ee-95d0-845e323decf1.jpg"

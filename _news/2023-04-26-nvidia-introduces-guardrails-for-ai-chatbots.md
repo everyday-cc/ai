@@ -34,15 +34,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 44
-  - title: "Deloitte teams with NVIDIA on artificial intelligence platform for logistics and retail"
-    excerpt: "Consulting firm Deloitte today launched a suite of artificial intelligence (AI) tools for logistics and retail businesses, saying they can help users to enhance customer experiences, optimize operations,"
-    publishedDateTime: 2023-04-25T17:40:00Z
-    webUrl: "https://www.dcvelocity.com/articles/57292-deloitte-teams-with-nvidia-on-artificial-intelligence-platform-for-logistics-and-retail"
-    type: article
-    provider:
-      name: DC Velocity
-      domain: dcvelocity.com
-    quality: 24
 
 secured: "zitOJj2xQkpqPccPi7C1U0sKJqG+gbvdTyPRttH0IfPpMn6pLy5TgA+tazfpr0uymlhqmlDatPXGfzZc/5ek2LPXdC23oxtPMNQaR5HYcXnVzJn1iRoJQ406gkJnNZPKWm2ftzs7bwwtPSjO8nQxtBoTdeEHJUBmNYH9dsE9MiqtomYCbCTghD/Fy6sji1lXdyj1RzOyjasvIjGf0fQYWp9zz1LIjejNc3m51FSvl/wdrom0QNjX/l+WSimf1CBD+Pejq5d1TdC5dN4WhzgUL/v3WtcxpHgSKSBSd+KdL77LmE2uggT2NryaqOVlY69ZZ1eFUK1GXWjtxXg/HMxd+nzPTwYmtPPxjn6wFM+oOvyzlNlldBF5dVGM4nFjT54TdOnf9WOAhQVcjpgyjved6JyUmMO+1GIiIKCTbn3l/YENxg8H5E8DFs/GHJwwCOgo4+ag7WCqHaXQZ+dygvV0bkDerCG/kRp3mTd6mgtur1gRyM8jx0SkUD5IWim/J9/1BlnjwKuvb2eesaZkybspkA==;sIy2htm5M6eGHZQ6BHr1yg=="
 ---

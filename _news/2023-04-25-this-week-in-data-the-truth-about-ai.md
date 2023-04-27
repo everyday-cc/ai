@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/data-infrastructure/this-week-in-data-the-tr
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/this-week-in-data-the-truth-about-ai/amp/"
 type: article
 quality: 87
-heat: 93
+heat: 87
 published: true
 
 provider:

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-cognitive-system-
 webUrl: "https://www.marketwatch.com/press-release/global-cognitive-system-artificial-intelligence-ai-systems-market-forecast-analysis-of-industry-trends-and-opportunities-2023-2030-2023-04-23"
 type: article
 quality: 51
-heat: 61
+heat: -1
 published: false
 
 provider:
@@ -29,15 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Radar Market Latest Trends, Segmentation Analysis, Share, Size, and Forecast 2023 to 2031"
-    excerpt: "The global radar market was valued at $32.56 billion in 2019, and is projected to reach $49.43 billion by 2027, to register a CAGR of 3.80% from 2020 to 2027. Radar is an electronic system, which measures the range and behavior of objects by transmitting an electromagnetic pulse at the object."
-    publishedDateTime: 2023-04-24T07:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/radar-market-latest-trends-segmentation-analysis-share-size-and-forecast-2023-to-2031-2023-04-24"
+  - title: "Object Recognition Imaging Systems Market Size From 2023 And Unlimited Opportunities for New Companies"
+    excerpt: "Object Recognition Imaging Systems Market Size 2023 | New Report (127 Pages) | Analytics | In This Reports Object Recognition Imaging Systems Market Top Object Recognition Imaging Systems Companies (Servo-Robot Inc,"
+    publishedDateTime: 2023-04-24T03:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/object-recognition-imaging-systems-market-size-from-2023-and-unlimited-opportunities-for-new-companies-2023-04-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 45
+    quality: 53
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

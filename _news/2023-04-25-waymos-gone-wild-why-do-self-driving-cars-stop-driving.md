@@ -9,7 +9,7 @@ ampWebUrl: "https://www.12news.com/amp/article/tech/waymo-wild-self-driving-cars
 cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/tech/waymo-wild-self-driving-cars-stop-driving-arizona-phoenix/75-50bbc373-63c4-4450-8525-2977983a7a62"
 type: article
 quality: 59
-heat: -1
+heat: 59
 published: false
 
 provider:
@@ -25,50 +25,6 @@ images:
     width: 1140
     height: 641
     isCached: true
-
-related:
-  - title: "Self-Driving or Driverless Cars Market Emerging Offers New Opportunities forecast 2023-2030"
-    excerpt: "Global Self-Driving or Driverless Cars Market research report offers a detailed analysis of valuable insight into"
-    publishedDateTime: 2023-04-22T05:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-or-driverless-cars-market-emerging-offers-new-opportunities-forecast-2023-2030-2023-04-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Object Recognition Imaging Systems Market Size From 2023 And Unlimited Opportunities for New Companies"
-    excerpt: "Object Recognition Imaging Systems Market Size 2023 | New Report (127 Pages) | Analytics | In This Reports Object Recognition Imaging Systems Market Top Object Recognition Imaging Systems Companies (Servo-Robot Inc,"
-    publishedDateTime: 2023-04-24T03:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/object-recognition-imaging-systems-market-size-from-2023-and-unlimited-opportunities-for-new-companies-2023-04-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Watch a driverless car get pulled over by police"
-    excerpt: "Although Australian legislation doesn’t allow a vehicle to operate without a driver behind the wheel, some US jurisdictions have already legalised driverless cars – and with that comes the prospect of an AI-driven vehicle being pulled over by police."
-    publishedDateTime: 2023-04-24T01:04:00Z
-    webUrl: "https://www.perthnow.com.au/lifestyle/motoring/watch-a-driverless-car-get-pulled-over-by-police-c-10437991"
-    type: article
-    provider:
-      name: Perth Now
-      domain: perthnow.com.au
-    quality: 39
-    images:
-      - url: "https://images.perthnow.com.au/publication/C-10437991/10c76bddecb78bf9b55cf909e0f5e83908f25c18-16x9-x0y92w1220h686.png?imwidth=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "bU3JLRZzNvbFu3jPO/dZ8Idlj++m7tUDSMEs/H8C9p99lWIiGhOchlHZJolCNENfW0P9Sf+PU3uQvUkhy5WgaWRjTi1hHWgclWiU6AvswE0Wkz1y969TUbRTTxvBBYRdcM4sGLbRcAoY8skq+77hsOxTVPJVN0kusNh4zIdnLM6NvbuOuCYVEF2cZRVXoiaMX8sHzZg9pt6WDUraon3whwanWMnUbxihMl1Z5QdG3d7deVSKlLV48HvTcrcDMrPSOPEeMoitV1x/wlUFj7OP+O8TA+2dCQxG5Ca8Ef3Bi7C2tnDjpDHize4ORzBzspj7LRjD+B/3Qp33hEYylM7As51XDYh0Dbdv4PcgIeroyvneEd+4MTnJlCGfihuMDctVZgbGHd5xNmnmJskElcpO+em9SHjK6amkoVbjxdOC0tW3kQo0MaO8DSDO19S4PONCPbyBpFGYeFiLO1QsSHGvK/O6/LjA6P10f3JqkfHnrMbILaHm9ZSNi+mKLeCXGFW1IX5HsQdTBAHfMtqEGux5hQ==;sMHM+mE3bYcFsH36SVS04g=="
 ---

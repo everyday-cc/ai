@@ -30,6 +30,24 @@ images:
     height: 372
     isCached: true
 
+related:
+  - title: "Yes23 launches first major advertisement for the Voice referendum"
+    excerpt: "The Yes23 Campaign Alliance has launched its first major campaign which features Indigenous community figures. The campaign invites Australians to join the Yes movement for the Voice referendum.The announcement:This week,"
+    publishedDateTime: 2023-04-26T22:38:00Z
+    webUrl: "https://mumbrella.com.au/yes23-launches-first-major-advertisement-for-the-voice-referendum-784822"
+    ampWebUrl: "https://mumbrella.com.au/yes23-launches-first-major-advertisement-for-the-voice-referendum-784822/amp"
+    cdnAmpWebUrl: "https://mumbrella-com-au.cdn.ampproject.org/c/s/mumbrella.com.au/yes23-launches-first-major-advertisement-for-the-voice-referendum-784822/amp"
+    type: article
+    provider:
+      name: Mumbrella
+      domain: mumbrella.com.au
+    quality: 44
+    images:
+      - url: "https://mumbrella.com.au/wp-content/uploads/2023/04/yes23--e1682551765783.png"
+        width: 619
+        height: 348
+        isCached: true
+
 secured: "9CR3p/TBe5jCqnCEtw038Me3UdP9qKiAAqusbSG1hxYdFTB4pGwVR3QX5LZ6qqmPFAHR8JCDQ/alZqCx8Nj4WqIwfr8j+HziJUxeEcSZWraq4h3wqiE8Hr8Cl6qppGMTMByE5XdvoNo2Qh3/cEipMEAIXNfWr3gl8p1AvGr1SvDxBqaP66A+byoDf0ZxQ3TFpqPnElC07pp0Lrpc6YdXWiOjzseGz953E1zxlOwym707rii0ZcKePseW0b6Lzf4jABlbBj0rRMEVdkDjfMn5UACFgQ85PZtUTIoNVNsDp9CcrjvERlPhybzRk54H6FwglWTq8udaoJeTyUHhCZniLOck3B1zsfBLJgtF9Ags2PQ5ySjvUZjA43YgU9mOHNquUmxUTs7+Ja93WF/1np+O39nQl+bCnUpmPMXOXMJga+8/UvQhQ+CcH/iE0eenRu6+EApBUqfZt2eIP49C/j+sXsIBqXu8rMt1RbcIoQm0wr4tfxXI/AEGveYUtTUhZGbCV7JOT0iHqiYBIHpIGa/tJg==;BMp+5T5F16+ejq5zSpbvlQ=="
 ---
 

@@ -499,6 +499,15 @@ related:
       name: Automation World
       domain: automationworld.com
     quality: 34
+  - title: "What the Alphabet and Microsoft earnings calls tell us about the AI arms"
+    excerpt: "Alphabet and Microsoft are acting aggressively to get in front of the large profits that could be had when AI begins to radically change the face of computing."
+    publishedDateTime: 2023-04-26T17:16:00Z
+    webUrl: "https://www.fastcompany.com/90887297/what-the-alphabet-and-microsoft-earnings-calls-tell-us-about-the-ai-arms"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 33
   - title: "GigaChat: Russia enters AI race with its ChatGPT rival"
     excerpt: "After Chinese companies unveiled their AI models, it is now Russia's turn to showcase its AI chatbot. How good is it, we won't know for long."
     publishedDateTime: 2023-04-24T12:47:00Z

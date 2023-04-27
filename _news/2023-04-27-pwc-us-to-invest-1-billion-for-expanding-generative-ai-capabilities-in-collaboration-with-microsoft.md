@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/pwc-us-to-invest-1-billion-for-expanding-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/pwc-us-to-invest-1-billion-for-expanding-generative-ai-capabilities-in-collaboration-with-microsoft/amp/"
 type: article
 quality: 89
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -89,6 +89,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "PricewaterhouseCoopers announces multiyear $1B investment into generative AI"
+    excerpt: "PricewaterhouseCoopers LLP announced plans today to invest $1 billion in generative artificial intelligence that will expand its offerings for clients in the U.S. to use the technology to power their businesses."
+    publishedDateTime: 2023-04-26T20:46:00Z
+    webUrl: "https://siliconangle.com/2023/04/26/pricewaterhousecoopers-announces-multiyear-1b-investment-generative-ai/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 36
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/artificial-intelligence-g47a8f3489_1280.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "PwC Stakes $1 Billion on AI Investments in Tax, Consulting Work"
     excerpt: "Big Four accounting firm PwC US will invest $1 billion over the next three years to expand how its tax accountants, auditors, and consultants use artificial intelligence to improve the work they do for clients,"
     publishedDateTime: 2023-04-26T12:00:00Z
@@ -117,6 +131,6 @@ related:
       domain: tmcnet.com
     quality: 19
 
-secured: "Ib73meCrHSU4JN2tzAZTjYfafU9wZ3cbJex3Y4PRKq0oqruOSKvmn3TqWs54DNvIDvvrcGfuc+Tm3xiyGG4TgUXW6knFKM3Pnbc2HK4j0lYmOdsp9xu7TEaTuiny02UL0eHd9il6d1EbN8aLhtYdhgvq2uBPQTckxUmyt+ODzg88E4THhIV263a8tD+zWgrZO3X8xr0SnoeqnneuqkLZ+rLcQ0g6XBYk06pjYlU80cZBY+6MQEcv86Xa6gOfIXetN7Jn0/6QHhmlzx36QlUaEytMlmh2ViRR8j7uth6NSy1aXwY8N2x+8u5n3YVpS/xVltpprjTjVaJVrxU8JGg/eRgDeC5bB89Aujm5fz2SNis=;G8CDcZ300bv/ysGMatf1Fw=="
+secured: "e9SsLXBABU/quyG705F4y+W+s7Sp75SbGsGdmcIrdItNALbNmjyxgusL7+NIU40WDWvFgJgtlJIutpByYmjsf7199AyPMHFDKa9wCNYVejmwRBCBqC6cANazBzZnoIHR39Htzt1dBe0/YWtQurk7YHDF4T6fQT6EkYKkJ9LTM/cu7b3ORlwpL9jc8a3mqEKWcHtSV6PmZGk9vN0R3Fc+ozNhP0WjvqNjegKH5mjadrFp/Pka4coZxJtq7SYnxkQ3+I8ZH5vLNM0ZgJkVyaH3dawjEpQNbq7fdelYhjYXbwAuFTdiNI2knsh9NiV+Nr08t3YvjKPIb+GKYwq3aURjDfzIY9tYEGF2fzoyLEzTBSbBX1Bkf71L4DcSAngIS2u+jWR386WjtA5GVOF+yXObbp0ngn6Hlhvbqt/9swhDjBLR7CM9paFIkI8x066g0VUzX4m33/TsiJ/zedNd6M6kQ+5uiuO+kw+yRbgcpGjXphXf0g6urQJrG1Skk9UIy1WIF0Z7PdhOjIBpeFdUYq5rKw==;pZJQyuXcpcBa94O/h2K63A=="
 ---
 

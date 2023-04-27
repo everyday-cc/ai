@@ -18,28 +18,21 @@ topics:
   - AI
 
 related:
-  - title: "Nvidia helps enterprises guide and control AI responses with NeMo Guardrails"
-    excerpt: "Nvidia's new NeMo Guardrails help enterprises define and enforce limits to ensure AI responses are topical and safe."
-    publishedDateTime: 2023-04-25T13:54:00Z
-    webUrl: "https://venturebeat.com/ai/nvidia-helps-enterprises-guide-and-control-ai-responses-with-nemo-guardrails/"
+  - title: "Deloitte looks to bring AI to the frontline with a little help from Nvidia"
+    excerpt: "With help from Nvidia, Deloitte is rolling out new AI capabilities to enhance logistics, supply chain and customer care deployments."
+    publishedDateTime: 2023-04-26T21:18:00Z
+    webUrl: "https://venturebeat.com/ai/deloitte-looks-to-bring-ai-to-the-frontline-with-a-little-help-from-nvidia/"
+    ampWebUrl: "https://venturebeat.com/ai/deloitte-looks-to-bring-ai-to-the-frontline-with-a-little-help-from-nvidia/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/deloitte-looks-to-bring-ai-to-the-frontline-with-a-little-help-from-nvidia/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 44
-  - title: "Nvidia introduces ‘guardrails’ for AI chatbots"
-    excerpt: "Nvidia has released an open-source initiative to keep chatbots from hallucinating. This refers to the factual inaccuracies that an application such as"
-    publishedDateTime: 2023-04-26T09:26:00Z
-    webUrl: "https://www.techzine.eu/news/analytics/105151/nvidia-introduces-guardrails-for-ai-chatbots/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 39
+    quality: 85
     images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2022/01/Nvidia-1.png"
-        width: 1500
-        height: 800
+      - url: "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-840412560-Thatree-Thitivongvaroon.jpg?w=1200&strip=all"
+        width: 1200
+        height: 606
         isCached: true
 
 secured: "nUdwqghYjwnqupaff8F/tgxnK/zZnlnQ+NlCxwZ25XtBwdgQfJa+U7gC8QN9awGDFBJuPY+QpWB3UtnQaZdbBteaRowPjVxve9j8K+q1xqIszwNNYhN3Q0szDT/La07LQWq56XDTywNJXupssDqX9TEgsISb9qq1fEpqScKKtzYG2XEVCbBLSPwaXTPpQ1Yka+ipdoECaLvENqh2tHHYDPCwqmSWdAvclevhX54C7XonwOb0bBUQ3mq34g6jTZ/D+ZtsQ0BxpoxjP5mRxMI2Pfc8gyJCc38B25iOcQxCjfpxUBa1Xz4m04Vkt/E0tftit/sQefgTxF0XNC74YDTLLW54B1f8k1PqcqZNKr1W/g7EH74iVLUK3ZmMunvKTIRvtDekOQI+kRB2IHyG47dV9hqzajApzF9j255MGDsy1DXxwGj6EhdgXYXtZ1tDjDTx0CXmZWR8AmNaII2qL0ZAllmZD2NpO91IwMl/oVMfFWaG45ngMVTmXYOpe5Di6LRCDoU/N9FGxSg9DIDUShzyMw==;9A7wmbRZgsZcJWwSVyZ3KQ=="

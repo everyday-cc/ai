@@ -506,6 +506,15 @@ related:
       name: Automation World
       domain: automationworld.com
     quality: 34
+  - title: "What the Alphabet and Microsoft earnings calls tell us about the AI arms"
+    excerpt: "Alphabet and Microsoft are acting aggressively to get in front of the large profits that could be had when AI begins to radically change the face of computing."
+    publishedDateTime: 2023-04-26T17:16:00Z
+    webUrl: "https://www.fastcompany.com/90887297/what-the-alphabet-and-microsoft-earnings-calls-tell-us-about-the-ai-arms"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 33
   - title: "GigaChat: Russia enters AI race with its ChatGPT rival"
     excerpt: "After Chinese companies unveiled their AI models, it is now Russia's turn to showcase its AI chatbot. How good is it, we won't know for long."
     publishedDateTime: 2023-04-24T12:47:00Z
@@ -516,6 +525,6 @@ related:
       domain: interestingengineering.com
     quality: 19
 
-secured: "QECCBmXgDwFLja9xR/Y+8lwThX/A81UqaftUJDwR8jZp4L8U32u2aNmI3bcYahHch/gr94bIVe5sRiWkVBlkSfqTUksvwoYE5r7Z7W0qjZvSMeVkArBFl47xt8DYgeC2eewxoM7r929hUGLCEAF5Y7jmgZZPcz84LjuSiVs6JI0dv+7xgUKLMZ5WhiqQpLVF7667AScQb6TgJCIAdiBSIeRSH4Dld9qUBf3YGL8qh3Qywe0QwcYV2xIdtnDSagxvn7WbDoTbt5EyX4y+iiItjr4MzoKHjvsCfbEM/IC/UmC9jbpkWfRGs+mUqNjsMhKEWTbYj0zlMEyTONNncHsC+6IKrJQNBv4mfOmKaiDngcc=;BWPM94wqIw9SyqL7G7TU3Q=="
+secured: "0qIHKUcyWBpYSSjTqEOPEt3ijIxDOWMTitk7xyS2orQLmLAeyHj7Zg8dHjhjKFxON+Cagmzs9+8v7fVB/SSyiH58UMY/V37AXPDg4XOnmZLalwHZOtu7doQ7b7m0t3PhdSTR3tZcekPoLKM43DDUk3L+phbvH55wg/wK7/DWkKuBMtEETG9gHsN7SRzC+0rEwyGIa7gpwuCkad5agO/AycsIMhKQcGqgGCKRFuLpCMVh3GS408spd9XRC8HvaW7lzDLvTw23E7yJHksIMJjqkuQXTfCnpo2422JwmWgZK8y6kO2Vzn0bmDRrHjlDqmi/5D0nMnoOY9uZdeprVaD2VbIM1VANrD3SvfH4/T+mdjV7PfqyM8XqUPduQNsORVoaJ3VPCiT+j6dU8yGYGlFYfQeuMEUw56QVt1o/61fWv6EExLNrJ6j+zqyZWLjGozp8WTkEin6x0sMPWxaJA2Gyvz7yU4bpNWlMiO5h4+0OVf1hM3sIAC4jIHk+cwnfWfP6Ij/zYd5+gc441nwaFfW/VQ==;6jjT5aZuq4nt6XYKFw5t4Q=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2023/04/230421195032.htm"
 webUrl: "https://www.sciencedaily.com/releases/2023/04/230421195032.htm"
 type: article
 quality: 28
-heat: -1
+heat: 28
 published: false
 
 provider:
@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Simulations with a machine learning model predict a new phase of solid hydrogen"
-    excerpt: "Hydrogen, the most abundant element in the universe, is found everywhere from the dust filling most of outer space to the cores of stars to many substances here on Earth. This would be reason enough to study hydrogen,"
-    publishedDateTime: 2023-04-22T06:02:00Z
-    webUrl: "https://phys.org/news/2023-04-simulations-machine-phase-solid-hydrogen.html"
-    ampWebUrl: "https://phys.org/news/2023-04-simulations-machine-phase-solid-hydrogen.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-04-simulations-machine-phase-solid-hydrogen.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 55
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/putting-hydrogen-on-so.jpg"
-        width: 955
-        height: 490
-        isCached: true
   - title: "Hydrogen’s Hidden Phase: Machine Learning Unlocks the Secrets of the Universe’s Most Abundant Element"
     excerpt: "Putting hydrogen on solid ground: simulations with a machine learning model predict a new phase of solid hydrogen. A machine-learning technique developed by University of Illinois Urbana-Champaign researchers has revealed a previously undiscovered high-pressure solid hydrogen phase,"
     publishedDateTime: 2023-04-23T08:34:00Z

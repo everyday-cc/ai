@@ -1,23 +1,33 @@
 ---
 category: news
 title: "Japanese manufacturing leader Musashi Seimitsu and Israeli AI innovation powerhouse SIXAI partner for global launch of Industry 4.0 solutions"
-excerpt: "Musashi Seimitsu and SIXAI partner to combine Japanese industrial experience and Israeli innovation. 634AI deploys its MAESTRO platform globally with one of the largest autonomous robot orders and Musashi AI launches global rollout of visual inspection robot for automakers."
-publishedDateTime: 2023-04-25T08:55:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/04/25/9800813.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/04/25/9800813.htm"
+excerpt: "Japanese manufacturing leader Musashi Seimitsu and Israeli AI innovation powerhouse SIXAI partner for global launch of Industry 4.0 solutions Apr 25,"
+publishedDateTime: 2023-04-25T08:45:00Z
+originalUrl: "https://www.marketwatch.com/press-release/japanese-manufacturing-leader-musashi-seimitsu-and-israeli-ai-innovation-powerhouse-sixai-partner-for-global-launch-of-industry-40-solutions-2023-04-25"
+webUrl: "https://www.marketwatch.com/press-release/japanese-manufacturing-leader-musashi-seimitsu-and-israeli-ai-innovation-powerhouse-sixai-partner-for-global-launch-of-industry-40-solutions-2023-04-25"
 type: article
-quality: 0
-heat: 0
+quality: 34
+heat: 34
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "WgJ0fOb0Yn0e0QZbliTzI4Ywojbko/m2htT1WFKr3My5+2tbYsNovf8ujS3/y8hOmXUy2IXTJpSNEhLSdHGqmialHoEr2KYDJhqMCTiAwzyT6LQ+YHc9Rrq3Yp8UBKrMrwT7fkLxa2+gaj7Nbu0DAdP76xYGFJRreNTzfBYDuiioqE2UhsfBYp3Vq4IrOoaefuxqyV51tq7GiT7FQZ2WTZcywsxDfhIRz3vtoTo0IldPX0IH6ROxkHq50bnojOZ9VUQz+CeUAdiMZUgV4ddam7NNB+AUfuYAf2X1Ud1+05EU5lID/a4x6NgNhyQsZ6aGe2A9J0MWaSnaNfIslzYXNq4e5uHQoYLFqoXlXZRK4hA=;dcfi3B/Gl/blTpTAAZLIBg=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "hD5PIiDSOCQ8qldzp23lLqSHnKdjvCrrYyGHPKbK6WQmchJXvJb3C/MrT9ay9Bz+E3oOV6I6qA59N1vPiYp2DEBq69l1JoSLw7MSUmD5bZFu8L+VBCV4Jk7zQvJp9ICXwB08qbByzCrzxke8txbRfx7RE7J4lGTKzSNTyFVfvWa4vDrWmvOPn+bL2iTooYyydou9UMZ0ExnPapJaVptf7WfrRSOU1nbEnltWyC/VMxdPr09BlvGpJXud+VpVycWgxH8Pj+E6FqD0/TOvbXh3V7FEddcUjBZknU1YbRTBzEdT/DttpPo/k1KIHYdjxR17Vi1TJwDLoBrMPPX3617kOxrYIS5SVpMIkp/MGY7Onqo=;8J3ys5SK95qAG6oRuEZ0yg=="
 ---
 

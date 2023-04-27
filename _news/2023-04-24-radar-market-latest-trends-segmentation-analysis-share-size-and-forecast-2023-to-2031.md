@@ -29,15 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Global Cognitive System & Artificial Intelligence (AI) Systems Market Forecast: Analysis of Industry Trends and Opportunities | 2023-2030"
-    excerpt: "Apr 23, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The 2023 research report on the"
-    publishedDateTime: 2023-04-24T02:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-cognitive-system-artificial-intelligence-ai-systems-market-forecast-analysis-of-industry-trends-and-opportunities-2023-2030-2023-04-23"
+  - title: "Artificial Intelligence in Healthcare Market [2023], Global Demand, Industry Size, Revenue Analysis, Regional Share and Competitive Landscape"
+    excerpt: "Fortune Business Insights™ published a \"Artificial Intelligence in Healthcare Market\"Business Analysis and Growth"
+    publishedDateTime: 2023-04-24T04:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2023-global-demand-industry-size-revenue-analysis-regional-share-and-competitive-landscape-2023-04-24"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 51
+    quality: 49
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
