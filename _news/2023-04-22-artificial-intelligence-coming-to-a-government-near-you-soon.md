@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://i.guim.co.uk/img/media/539651549e7314ba6c15927228301747422b71cb/0_338_5130_3078/master/5130.jpg?width=620&quality=85&auto=format&fit=max&s=eac8ab7567927ab880f41df02de7a436"

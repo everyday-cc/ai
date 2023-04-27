@@ -175,6 +175,15 @@ related:
         width: 1200
         height: 765
         isCached: true
+  - title: "How Artificial Intelligence Can Aid Democracy"
+    excerpt: "BKC Affiliates Nathan Sanders and Bruce Schneier write about AI's potential to advance the public good by helping democracy."
+    publishedDateTime: 2023-04-27T12:32:00Z
+    webUrl: "https://cyber.harvard.edu/story/2023-04/how-artificial-intelligence-can-aid-democracy"
+    type: article
+    provider:
+      name: Harvard Medical School
+      domain: harvard.edu
+    quality: 34
 
 secured: "Vm9geRj+a3bzFCdQg1QHK/MEg6iPhWG4hz4wBL/2QaKO+KEbY4Vv5oCnZG8WirQKckqwlP/8XgRKjW78NPxLZ0oOTkRShp6vo/8eWOh74uX9kWMTjA8cir6mqSRuFj5rBHRurTxwX+5xwQoRgKvOnEBU4iaFBYcRH5WsfH3zkZA99ZycRcPYlOe6I61ApCp2d/7kCuDdU58VGGhO6n+QobsHk+NqgtADBmlSdsNfWIYOjaHgIZpA+jNKIjeHrUC4qazQH6BhjKK3EWRC6PGnuEn1QBnIum9Ta5LGh2i+o71QNTsKKsBiHEkIK9GuejeqD2EDom+0i93SNyUtH3F8tjcBGdDvVF77cCrS/x49PWY=;uo38ls+zwHkxqumIFydTYQ=="
 ---

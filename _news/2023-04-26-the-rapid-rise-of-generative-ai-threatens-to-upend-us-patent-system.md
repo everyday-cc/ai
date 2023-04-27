@@ -18,21 +18,21 @@ topics:
   - AI
 
 related:
-  - title: "These are the 9 best books to get up to speed on the hot new world of generative AI, according to experts"
-    excerpt: "The AI Revolution in Medicine: GPT-4 and Beyond Author: Peter Lee, Carey Goldberg, and Isaac Kohane. Lee, Corporate VP for Research and Incubations at Microsoft; Goldberg, medical and science ..."
-    publishedDateTime: 2023-04-24T00:00:00Z
-    webUrl: "https://www.businessinsider.com/list-generative-ai-artificial-intelligence-best-books-for-learning-experts-2023-3"
-    ampWebUrl: "https://www.businessinsider.com/list-generative-ai-artificial-intelligence-best-books-for-learning-experts-2023-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/list-generative-ai-artificial-intelligence-best-books-for-learning-experts-2023-3?amp"
+  - title: "Open-source Ray 2.4 upgrade speeds up generative AI model deployment"
+    excerpt: "Ray, an ML technology for deploying and scaling AI workloads, released Ray 2.4 today, which specifically accelerates generative AI workloads."
+    publishedDateTime: 2023-04-27T14:02:00Z
+    webUrl: "https://venturebeat.com/ai/open-source-ray-2-4-upgrade-speeds-up-generative-ai-model-deployment/"
+    ampWebUrl: "https://venturebeat.com/ai/open-source-ray-2-4-upgrade-speeds-up-generative-ai-model-deployment/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/open-source-ray-2-4-upgrade-speeds-up-generative-ai-model-deployment/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 72
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://i.insider.com/6442e90e3d49030019df18aa?width=1200&format=jpeg"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/04/VB_Ray24_logo_1200x800_042723.jpg?w=1200&strip=all"
         width: 1200
-        height: 600
+        height: 801
         isCached: true
 
 secured: "ROaW0qFv2D+VMPpoJmlKpTJjd9CXafVM7cy8dELVxJ4kvb8mi1+fdehBXKV1Ka0cDnq1FI3bigOxwNbNNdARfmnPQaA4dv/YfDERTNKoZEPlMjx/4lKH+U19O9cyVBfdHR13KLuz73kuU2UZn97RC8vZYrpGZgvgXff0XPRqEOYT92yNWiSt+/c1XK3MP4WEECnPdD53g59HjX86/LEDpQKfQkoQjy7UwTVhiKgzpf0bFHCbW+GZTVSQe7vcb8PqbzOYQX677iN9NO38r613INoKDA9qj0KhZDjGp6BGgBUmCfIhW8D4X50WlPHNlg4CbvGIltIqa37otf+KYnu6+zhYQMTZTeiXnstqkPjFiP34wOmyl1ua2tZMi+dcc1h8ZgfWWHa2FCt2LJw/5lzoSu/c6xy+xgHzueWF5X9LkK48peXxtjyCOil6u+mCWzfnroIwhDx3xaqatBKB7hz804nXiVIwm3ThL3PHJNB0OkwffVPP2i0LKGqoK4hIVyIlDARsw64nDZ8EXW+IqIwspg==;JtZ0f8J+NB3VaPDYUHVAYw=="

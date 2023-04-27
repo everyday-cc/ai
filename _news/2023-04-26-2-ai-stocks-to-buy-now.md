@@ -32,14 +32,14 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "3 Takeaways to Guide Your AI Strategy"
-    excerpt: "Encapsulating the recent Healthcare Information and Management Systems Society’s annual meeting can be like trying to devour an elephant. Where does one begin? But for health care executives, key takeaways could be found amid the many discussions about artificial intelligence (AI) in all its forms and how the technology will continue to impact the field."
-    publishedDateTime: 2023-04-25T12:23:00Z
-    webUrl: "https://www.aha.org/aha-center-health-innovation-market-scan/2023-04-25-3-takeaways-guide-your-ai-strategy"
+  - title: "AI wants to know what dove is"
+    excerpt: "Schnabel is probably too near the centre of the ECB because her most hawkish speeches have all been recent, so they haven’t yet moved the average. Broadbent probably over-indexes as a dove because he speaks rarely and cagily. The opposite may be true of Pill and his unique presentation style. Etc."
+    publishedDateTime: 2023-04-27T14:33:00Z
+    webUrl: "https://www.ft.com/content/4a6d60bd-62a2-4c98-a0c9-5d58814ce0bf"
     type: article
     provider:
-      name: aha.org
-      domain: aha.org
+      name: The Financial Times
+      domain: ft.com
     quality: 19
 
 secured: "vuQI3uCfV0BTnaTfMP7FgJJO8rXXvEqLWsx4voWhIdmfQ3gcRy4eW5hK8JUWPP1zfwqnDBJeDasWC5OYHBBml/9uU6vauAewtQRVG4ZLFLBk0Y9/zpk/X7dMnF2jJpI4SMw2HIP1ETA/eQ+u0ktrQ0IwVS/SxRzagt98kZ9G3ZhVCcECtOl+i+7zOg1zV1Q+vQWvaM8gRVlzvwCQnEMKUgg+H7fBDWfRPlDh0nKFgqRRnqBTXzWhthaq6jcsinhC3SH+X0MROIkV47lyENNg1rSLj7SETUyd2vCR7YpWD/GRJvPLhIwlW/xMZ7Gvln7gK0nUrzN4aZ0s0MSadkY45NTtWmMa80TfSiQvt6LyJGg=;hTu8Wah3AKNWMt7cuFSSyw=="

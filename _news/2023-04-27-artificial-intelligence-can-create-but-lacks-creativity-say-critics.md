@@ -77,6 +77,15 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 47
+  - title: "Rumored: AI-generated avatars are in the works at TikTok"
+    excerpt: "According to The Verge, TikTok says its AI avatar generator is only available in select regions and is still a work in progress. It's still being determined when this feature will be available to the public if it will require a subscription, and what technology is behind the generator."
+    publishedDateTime: 2023-04-27T13:25:00Z
+    webUrl: "https://www.zdnet.com/article/rumored-ai-generated-avatars-are-in-the-works-at-tiktok/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 47
   - title: "Opinion: Generative AI is a powerful tool that requires a human touch"
     excerpt: "Although AI models are constantly taking in new information, that information takes the form of new symbolic data without any context."
     publishedDateTime: 2023-04-24T13:00:00Z

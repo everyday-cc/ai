@@ -27,7 +27,12 @@ related:
     provider:
       name: Omaha.com
       domain: omaha.com
-    quality: 4
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/b/e7/be7e2c85-bbe7-5ed1-ade9-03c57263d314/6448cf8b4ff76.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "7g3E+yTnDQdQzZHz26hWIgrtnY62LYiwTUF1yHU0zKdx8vsdu9oKYfsUJhGwi/bhnZn+sKF1bSRo1dcKKnWx4rmJWMBq4wM2MZ2lbweR6eRQsfiNwn2AmP88CkpQj40kIASpewDxdhSC6ZMIjeR2fcdwebJT5ZxGiKfFVG9O/LBsdfpWIrAQceXrbpy5kMGU26+tTRt+5B7OY4rs21J/p2ZrmG6AhbwQSHAcnc7nH99jP+IDjc9B9ts0w7lcBchTjovBKYwJex+psj1S+UUycaiZf9T5O+9PzOhJc9E+POGWMmIxjw6Ng663tm+Fw1DS2NrD4QNWN+Iu8IIsNDFuAbiFTxl1vAgSDWWSKJLuVqbZ9s9ugRTwT21ghVoQs5LObstrEmGlfIRsq3Fv4RD1+ohQAkpAvfEjy5LWHw3AX7aJ7mSzLrX1j/hVuXIK///GnllU4jCyewDrwdK7/rrKdEw368g7EMl27tAo+oDxi3d3XejBiv+0ZWdo5HMIn11eqcudegS2B4YosHiez/7c9Q==;ZLja1ZwbotSuJIYrfS7lYQ=="
 ---

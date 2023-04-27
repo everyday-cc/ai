@@ -1,10 +1,10 @@
 ---
 category: news
 title: "AI Terminologies 101: Understanding Computer Vision and Its Applications"
-excerpt: "Computer Vision is a type of artificial intelligence (AI) that enables machines to interpret and understand the visual world. Computer Vision algorithms can analyse and extract information from images and videos, including objects, patterns, and facial ..."
-publishedDateTime: 2023-04-20T16:37:00Z
-originalUrl: "https://yourstory.com/2023/04/ai-terminologies-101-understanding-computer-vision"
-webUrl: "https://yourstory.com/2023/04/ai-terminologies-101-understanding-computer-vision"
+excerpt: "Computer Vision is a type of artificial intelligence (AI) that enables machines to interpret and understand the visual world. Computer Vision algorithms can analyse and extract information from ..."
+publishedDateTime: 2023-04-20T15:29:00Z
+originalUrl: "https://yourstory.com/preview/2023/04/ai-terminologies-101-understanding-computer-vision"
+webUrl: "https://yourstory.com/preview/2023/04/ai-terminologies-101-understanding-computer-vision"
 type: article
 
 provider:
@@ -16,11 +16,11 @@ topics:
   - AI
 
 images:
-  - url: "https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/NucleusAIwall-elikecuterobotsmilingandreadingabooklo64cf6bf2-2dc6-4006-80fc-53762f2dce63-1682004860300.jpg?fm=png&auto=format"
-    width: 1536
-    height: 768
+  - url: "https://images.yourstory.com/cs/images/undefined/nucleus-1677242056743.png"
+    width: 1024
+    height: 1024
     isCached: true
 
-secured: "hmAXEwYDZvj0+NrUqSANiA4t/lDZgI+5JZe3HewciRDdLqET28weE7NLpNphbDr2M33EVAnqI07qxB32hTKlkmiY5yL64WVAK4xlJLqrI38W+f+b6BY7iqR+89rI3RllR1vO7gGn5kFE2WoGC7i9qwaEAkn+YLijgHWs5TxoaxtrJLQnBQ+1g+5PmHLJG4WeD/9KkSHNTYMAPp59X4vpADFlBO7gnZs7st4QF7SXG1FJP0PuOCHk5XLD9WqKCJSvGogmkQjcK5TICIKapcCLfxCevaJ98A5BVVlB3qsohKbsLhNr9gwS8XBmnZTIEP9XMdZ30b3Jws0g7uz4LMGs6Sc7PKUh37hRA2DJoR9h3QI=;aQHqvajqWVziIOicYOMvPw=="
+secured: "tEh83gui0Vielg/bEuvWK4XEonwobBPDzotLv4h+/fjbCyli4xyu93T9GRn17s3JDi5vKLZ+sFiUbO8elbA3sbOxZSQXQ+lfTFdBBWOSEx21heBxel4++ncGCv5D01h14iyFPSPqRtNiMqLFvmKef69X9tRZUMJURBDR2zwys22kfLuT8A5ZbpbYFCJOCdowq2DKKGgT2l5ij+RrMdZhAqTPgrchAdxSyKLg7Z6LV3yExDI0v2lNvfbjOjb4T5QGGSZPAiGRxyeckggZNDqJlcGwZAw4QI6F0CV9rHMVIWtR4iXKZTHH4K3v/yS5Cxam99imPRZyQxUG512t6sJi1HVkaDO8Bi5czW9RP8wlOjw=;WK+se8jwYSN/ifp9nd6Rxw=="
 ---
 

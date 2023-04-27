@@ -6,8 +6,8 @@ publishedDateTime: 2023-04-27T00:45:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/telix-accelerates-artificial-intelligence-ai-development-program-with-acquisition-of-dedicaid-1032265571"
 webUrl: "https://markets.businessinsider.com/news/stocks/telix-accelerates-artificial-intelligence-ai-development-program-with-acquisition-of-dedicaid-1032265571"
 type: article
-quality: 50
-heat: 70
+quality: 52
+heat: 72
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 related:
   - title: "Australian biopharma Telix banks on AI with Dedicaid acquisition"

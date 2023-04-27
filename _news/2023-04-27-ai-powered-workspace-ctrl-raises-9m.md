@@ -36,7 +36,21 @@ related:
       name: Dataquest
       domain: dqindia.com
     quality: 39
+  - title: "The risks and rewards of AI-powered translation"
+    excerpt: "Advances in AI deep learning for machine translation are an opportunity for organisations to remove language barriers to global trade"
+    publishedDateTime: 2023-04-27T15:30:00Z
+    webUrl: "https://www.business-reporter.co.uk/management/the-risks-and-rewards-of-ai-powered-translation"
+    type: article
+    provider:
+      name: business-reporter.co.uk
+      domain: business-reporter.co.uk
+    quality: 39
+    images:
+      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/028/AI_translation.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
-secured: "5Td3amUWf9yLf/PJXw2tYcpei5bS8UF7ALuNc0pjQDXseSHTHcKazz5eRKuwJj4q0OUaEcGg7eoTLKpqTCTYnkOFxFibPcMvLkgjkyHuwPtPH70iIFb7c+MMY9W4ZvOP3st6ToiOYAsu1/7TFffE8O+20tCJ3XxndUfrhqKV+gNAJgzUCXF6+rDxQTTLTK4FCjM5lXLoo3A6qhWDKnBANoPg60KCMbv4NsoHRuE/M1vQ24Mo+w4tzPzX8EwkfDfO15mVc7qHwLMUvHAAF+NBgjr9BvhrcfDbc6xImqLkA3TsUJ4CnXe6gTvuuVYna2X5OKPldGdDB0RbK1+QD+tm4CHklmnQ3Bob6PTTkyUhCiI=;uYqFI8i/qk9e4T6wbiGezA=="
+secured: "78pg8X8ZLx3xlIe0rDWhm/2v6fcgs9dhk69/CwF0DOufGeQ35Qhit2HPeVMIpiuH4OMnbGOjMKWS6iPV2RRlzWedYTx8qNKmRGoJSlMwgOuRYkK+HegOuq+ABd1LxPCQq2zOyYKYexdKZ/G/XDI+6Mtx2FB+xvFs41OzPCa5U1j4rwB5IYP5qk9//qKz7W4gBxLyDP+L0qdoNzBjbGvAObhkZqxRfXYSmmHFQ5qglogcogazA9o701I+OjE5G8I4EyP/sDc4SkhS4z0B0yud4pJnnPhF12XLiM8PPG0R2H/JDYukUM6yzj542GPqx1RCm8KIDy8GqKoKUP5HGE5xqshc2ZJqMw1RVhpR1vrhcb2m87XbzdeQ5294HBNty7fIrMybP86QR4PI+1SYJefNBI1O1RFaByQnOoQJ9GxQb0w1IDVOsvEwXFcVwaU5tfqB7Wj4SfPy/E7B3pK3GP00ZzE7s82TH8u8rY99KrbkUdF0qC2lfnafEABbsE/Rg2zyUK8sMaZneoSvGaxLcuEBrQ==;pfpLVqDWnMU44s4Y9IIAHw=="
 ---
 

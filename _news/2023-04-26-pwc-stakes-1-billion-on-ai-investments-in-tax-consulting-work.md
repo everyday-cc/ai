@@ -121,6 +121,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Accounting giant PricewaterhouseCoopers embraces ChatGPT AI, plans $1 billion investment"
+    excerpt: "PricewaterhouseCoopers (PwC) plans to invest $1 billion in generative artificial intelligence (AI) technologies in its US operations over the next three years."
+    publishedDateTime: 2023-04-27T13:04:00Z
+    webUrl: "https://interestingengineering.com/culture/pricewaterhousecoopers-embraces-chatgpt-ai"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 30
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/04/27/image/jpeg/FVdn06UhtMs6ieSTbYVzmwFUZu6GMjWi5ClBIyop.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "PwC US plans $1 billion AI investment"
     excerpt: "PwC US plans to devote $1 billion over the next three years to AI projects for both its clients and its own operations, including upskilling its 65,000 workers. Why it matters: Companies are grappling with the best way to use AI to improve their businesses."
     publishedDateTime: 2023-04-26T12:05:00Z

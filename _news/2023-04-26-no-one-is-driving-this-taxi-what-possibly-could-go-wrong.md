@@ -6,8 +6,8 @@ publishedDateTime: 2023-04-26T07:05:00Z
 originalUrl: "https://omaha.com/lifestyles/no-one-is-driving-this-taxi-what-possibly-could-go-wrong/article_eebc9d8c-7790-5083-8495-f151ac4f48cf.html"
 webUrl: "https://omaha.com/lifestyles/no-one-is-driving-this-taxi-what-possibly-could-go-wrong/article_eebc9d8c-7790-5083-8495-f151ac4f48cf.html"
 type: article
-quality: 4
-heat: 4
+quality: 24
+heat: 24
 published: false
 
 provider:
@@ -17,6 +17,12 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/b/e7/be7e2c85-bbe7-5ed1-ade9-03c57263d314/6448cf8b4ff76.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "No one is driving this taxi. What possibly could go wrong?"
@@ -29,6 +35,6 @@ related:
       domain: lasvegassun.com
     quality: 4
 
-secured: "ZTv/7QGkeWdWZYCzHYgY0A3TevSH0nyC1cBwiUUXVdFR+gHhN9M2rxSZEfmv2GETsnZXZg/YZDj+hh5FI23CM+1KeYRja+uQyFP7GNcZv1yc5ieu39n1pI4HtcSSmT6V9UbsIMfs3v9gU8GeH7jpfAalP40McAMAHOvt5OUrGosdS0bZJTRkeR0TC55SWddC+auX3A70Cab3elODs42O5DdkXhVcxO95kwUFxdGcG0AGz4TXbsFwsgOV11WKr/fXNWktW/npf246pedKOFlkuqZC9ZmklPBi31X6jPgjibFBWrOA7zB/fKptvX7i33OWrUgbFPSlRWjzljE0Y9Y6EZcOaqWemBNc+uH8HCxCH2Nch4Raj31xeIqciIpYzUVdTLfMmM7DUEjtyK9hWNTndFhXBRv7/SDWWjUejEtHMfeCle6Yv9g/Lwu/kXMI4Aq895Gq+d2z0vW779m9sNk7ND9EZK+DK56QXgv+iq0CipbVnSWvjRQ36mXgezzMfXb77tGYmKYcz7Dqwm5F+HnSHw==;/Mr0fmLCxXX42cFuFqIemA=="
+secured: "06o3KtPVtHsniXgfEF+EMdIe+lf+TJexUvYxUst70BEVDGvxx9vxOllIhNAqCqewL4RYkIX+djLpsCTKV1W6sjmJy6o9aJq8Fpf5R+kch8FVSJlKkHIAfoZLgzvn7FDq9/UGpy+72rdi4zwQzoT61kMRRqdjXGZLOHlH+vKTMrFV+Uyq02RfeJgYf2eUxY47OT3J2I2ZF69oD7HD+6duleLdbEIFh75efRBvFrZPyxvMzAPdy1ec2XCMLbEqqpX8+moo/wozt3HCmpIcen3FiGxIv1cQzOLw6lUQdkZfG5wB4mf4NYgxUKV54XsTz0eDjayiCPAMwkbfIbpjrBU5obnhmBc5POZL5HjieP/bnR0=;vOuPtg//3EbF7vow3iUKmw=="
 ---
 

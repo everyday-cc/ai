@@ -2,21 +2,27 @@
 category: news
 title: "AWS Announces Three New Amazon GuardDuty Capabilities to Help Customers Protect Container, Database, and Serverless Workloads"
 excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced three new capabilities for Amazon GuardDuty, AWS’s threat detection service, that further strengthen customer security through expanded coverage and continuous enhancements in machine learning,"
-publishedDateTime: 2023-04-24T12:25:00Z
-originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AMZN-Q/pressreleases/16238204/aws-announces-three-new-amazon-guardduty-capabilities-to-help-customers-protect-container-database-and-serverless-workloads/"
-webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AMZN-Q/pressreleases/16238204/aws-announces-three-new-amazon-guardduty-capabilities-to-help-customers-protect-container-database-and-serverless-workloads/"
+publishedDateTime: 2023-04-24T12:02:00Z
+originalUrl: "https://www.valdostadailytimes.com/ap/business/aws-announces-three-new-amazon-guardduty-capabilities-to-help-customers-protect-container-database-and-serverless/article_994797f8-a702-537a-9f74-d86b020e032d.html"
+webUrl: "https://www.valdostadailytimes.com/ap/business/aws-announces-three-new-amazon-guardduty-capabilities-to-help-customers-protect-container-database-and-serverless/article_994797f8-a702-537a-9f74-d86b020e032d.html"
 type: article
-quality: 7
+quality: 27
 heat: -1
 published: false
 
 provider:
-  name: The Globe and Mail
-  domain: theglobeandmail.com
+  name: The Valdosta Daily Times
+  domain: valdostadailytimes.com
 
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
+    width: 600
+    height: 315
+    isCached: true
 
 related:
   - title: "AWS Announces 3 New Amazon GuardDuty Capabilities"
@@ -34,6 +40,6 @@ related:
         height: 674
         isCached: true
 
-secured: "BZpgZ8RWy18Ab6Q0H62YVa6YJ4jg3o3tlJY8ZMfrGliiAF5sy4YI39o0EncSM9iMR5alWKr40qZjfBd3hDgMflVT6PbWG5hd6JlDOC9EgcCwnYQ5DW7lB1WFtba2gAQl/xxkTF4iDDUSVNgH3moVhDbPR2gpckmzxZSD7ns8zCRza9wPzLmOht9v4+oZPriSY8wNOtQrj0BYvBiDNTd+QQq4F3VzJuou1ovBFUIpHXArvzGGBjz+OnPKlTO/mjS6WzUm6Th7X41PT6eNkA10EkPO9oBqtPczGq4OUR/VS0BoKqarQuLAJt5hqvhpfTYKy7OnMeoYjWUEwtASJqB3kmLxTc/7VBejgQTuDuzox5Y=;UQ/HtdyCVM7Z/JS3nI0ijQ=="
+secured: "ObTVeU7aZfhfRmGTyX/qeBuddx3ZbDE9NZmhAGE6SpnlSn659NT0bx2mRezDCgFeneTswOAMDPT0dlRI5larwregqnwOdrC/s/I0DYmIZzcE4AcRi7rNrVAcN4/eFRMcCFsqGc2ddszabZFAEsyElBfZYq0zcfr9nXtPCdtvhmSJFNw2HLqO7Qx5I2IV1Ii8zwHsdnGZwyNLr2mXG8R8E9UQL1iCMY+6Te4Uxsg+vjwQuRWfdH8i2xe5cBnEKTOiyRrg0iGMauGisu9P9cI633VniFHJ384Us6fbTi5s7+q368y/hp9WxtMzrkhGqFidTr4FmeElS5A4AbltF4Xc5W48uwmWVEDEHIM5AmGTvs8=;9KijGSShIlUx104UlOUUkQ=="
 ---
 

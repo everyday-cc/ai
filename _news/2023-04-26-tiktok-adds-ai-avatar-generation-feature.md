@@ -70,6 +70,15 @@ related:
         width: 600
         height: 334
         isCached: true
+  - title: "Rumored: AI-generated avatars are in the works at TikTok"
+    excerpt: "According to The Verge, TikTok says its AI avatar generator is only available in select regions and is still a work in progress. It's still being determined when this feature will be available to the public if it will require a subscription, and what technology is behind the generator."
+    publishedDateTime: 2023-04-27T13:25:00Z
+    webUrl: "https://www.zdnet.com/article/rumored-ai-generated-avatars-are-in-the-works-at-tiktok/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 47
   - title: "Artificial Intelligence Can Create, But Lacks Creativity, Say Critics"
     excerpt: "Artificial intelligence, or AI, could potentially transform arts and entertainment, from music to movies, but it is also raising concerns. Is AI a creative tool or a threat to creators and artists? VOA’s Mike O’Sullivan examines the question."
     publishedDateTime: 2023-04-27T01:26:00Z

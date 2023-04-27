@@ -33,6 +33,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Predictive Analytics and Machine Learning Market Manufacturing Cost Structure By 2031"
+    excerpt: "Apr 26, 2023 (The Expresswire) -- The latest market research report on the Global \"Predictive Analytics and Machine Learning Market\" is segmented by Regions, Country, Company and other Segments. The global Predictive Analytics and Machine Learning market ..."
+    publishedDateTime: 2023-04-27T11:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/predictive-analytics-and-machine-learning-market-manufacturing-cost-structure-by-2031-2023-04-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
   - title: "Grid Dynamics AWS Analytics Platform Starter Kit Leveraged by Client, Mistplay, to Improve Business Operations"
     excerpt: "Grid Dynamics Holdings, Inc. (NASDAQ:GDYN) (Grid Dynamics), a leader in enterprise-level digital transformation services and solutions, announced today that its client, Mistplay, the leading loyalty"
     publishedDateTime: 2023-04-25T12:45:00Z

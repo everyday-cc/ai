@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/98420-eff-calls-action-against-calif
 webUrl: "https://www.techspot.com/news/98420-eff-calls-action-against-california-new-facial-recognition.html"
 type: article
 quality: 64
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "Facial recognition swings for the fences"
+    excerpt: "Facial recognition is being used to improve security, ease fan access and concession transactions in ever more baseball stadiums across America."
+    publishedDateTime: 2023-04-27T15:36:00Z
+    webUrl: "https://www.biometricupdate.com/202304/facial-recognition-swings-for-the-fences"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/09/26125209/stadium-security-public-safety-scaled.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "Amazon Delivery Drivers in California Join Teamsters Union (2)"
     excerpt: "Amazon.com Inc. drivers in Palmdale, Calif., became the first in the nation to join the International Brotherhood of Teamsters, the union said Monday."
     publishedDateTime: 2023-04-24T22:08:00Z

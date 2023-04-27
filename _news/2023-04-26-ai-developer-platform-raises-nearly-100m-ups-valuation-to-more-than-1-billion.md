@@ -7,7 +7,7 @@ originalUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/fundings/202
 webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/fundings/2023/04/25/replit-generative-ai-developer-tools-new-funding.html"
 type: article
 quality: 14
-heat: 14
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,33 @@ provider:
 topics:
   - AI in Robotics
   - AI
+
+related:
+  - title: "AI startup Pinecone raises $100 million as vector database market for LLMs heats up"
+    excerpt: "Vector database leader Pinecone announced today that it has raised $100 million at a $750 million valuation, led by Andreessen Horowitz."
+    publishedDateTime: 2023-04-27T15:05:00Z
+    webUrl: "https://venturebeat.com/ai/ai-startup-pinecone-raises-100-million-as-vector-database-market-for-llms-heats-up/"
+    ampWebUrl: "https://venturebeat.com/ai/ai-startup-pinecone-raises-100-million-as-vector-database-market-for-llms-heats-up/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-startup-pinecone-raises-100-million-as-vector-database-market-for-llms-heats-up/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 81
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/04/Untitled-design-60.png?w=1200&strip=all"
+        width: 1200
+        height: 750
+        isCached: true
+  - title: "Andreessen-Backed AI Startup Pinecone Valued at $750 Million"
+    excerpt: "Pinecone Systems Inc., a startup whose platform supports artificial intelligence software, has raised $100 million in a funding round that values the company at $750 million."
+    publishedDateTime: 2023-04-27T11:01:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-04-27/andreessen-backed-ai-startup-pinecone-valued-at-750-million"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
 
 secured: "3X5SkcpkLbRCOEisUJA6YTZGwnUGwVC0w+pU4E53wlFaoN7FypZ7y3mUf7RWlxMhJqE6ojPanivwKwz66NasKNj8HgNHJcYIC/ldC4YwnFqD0ARJPOSnCLVwAHrqItVJ/agh1qe4PX8K/sMsACzpc5G/CX4uX4zfPwFDkVpNBL5/sgMiWIuF/qQjZ19ae60MI7ywssCZjTDKw5BvfcgZjqU9VC9S5JmynIKTsuc0c1j7Nr6JI/uJdFU1uWx5Ps573m7J09qWedIh9tmqj5vCID6fu6mVCtZ04/5oV7CFqbkzBuqIGo/wWv86tDXI1XfhKxdz3Fampcl2OEq3eufpm92FiGfTUNWZWWceHDoPo07RtwSwHRlFl2YaJmEGPTMaZDXralHDyQo3pPZMXQ/NnT1pkxyZh5WPEz+ymevVF7Ffd/M0yu621ux/5N/SwDHrshK9a02XgO1vvN/oful/pUuFhxgZ66i4WSH/WjqZyiG+B/I/ji1SXASCeXfFwZ3cgO+hTkb4AFN3Qa/Rosfjbg==;Fq4av15NelUKHHhlaK1DGg=="
 ---

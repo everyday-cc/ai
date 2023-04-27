@@ -42,6 +42,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 46
+  - title: "Edge Artificial Intelligence (AI) Software Market Size Worth USD 2,519.3 Million in 2028 - Emergen Research"
+    excerpt: "Discover the latest trends in the rapidly growing edge AI software market. Learn about key drivers, restraints, growth factors, and government"
+    publishedDateTime: 2023-04-27T15:04:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/edge-artificial-intelligence-ai-software-market-size-worth-usd-2-519-3-million-in-2028---emergen-research-1032267936"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 46
   - title: "Conversational AI Market Size Worth USD 25.04 Billion in 2028 – Emergen Research"
     excerpt: "The latest market research on the Conversational AI industry, including size, share, and growth projections. Forecast to reach USD 25.04"
     publishedDateTime: 2023-04-23T18:42:00Z

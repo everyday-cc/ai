@@ -80,6 +80,20 @@ related:
         width: 628
         height: 350
         isCached: true
+  - title: "What caught your eye this week? (Arm chip, AI warfare, Space critical infrastructure)"
+    excerpt: "For example, our technology editor says it is good to hear that the House of Lords is looking into the use of artificial intelligence in warfare - he hopes a deep and thorough public report is likely"
+    publishedDateTime: 2023-04-27T15:24:00Z
+    webUrl: "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/what-caught-your-eye-this-week-arm-chip-ai-warfare-space-critical-infrastructure-2023-04/"
+    type: article
+    provider:
+      name: Electronics Weekly
+      domain: electronicsweekly.com
+    quality: 47
+    images:
+      - url: "https://static.electronicsweekly.com/wp-content/uploads/2019/03/11060252/House-of-Lords.jpg"
+        width: 460
+        height: 230
+        isCached: true
   - title: "Behind the Buzz of Artificial Intelligence"
     excerpt: "Much of the buzz at the festival this year has been about the rise of artificial intelligence (AI) and what it means for the future of journalism – and the world. On the one hand, there is a promise of tedious,"
     publishedDateTime: 2023-04-24T11:19:00Z

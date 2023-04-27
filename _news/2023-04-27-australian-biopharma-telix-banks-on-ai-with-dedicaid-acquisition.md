@@ -33,7 +33,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 50
+    quality: 52
   - title: "Telix Pharmaceuticals Limited: Telix Accelerates Artificial Intelligence (AI) Development Program with Acquisition of Dedicaid"
     excerpt: "Telix Pharmaceuticals Limited (ASX: TLX, Telix, the Company) today announces the expansion of its artificial intelligence (AI) capability"
     publishedDateTime: 2023-04-26T23:35:00Z
@@ -44,6 +44,6 @@ related:
       domain: finanznachrichten.de
     quality: 6
 
-secured: "DN+MBhVBSM7+JZxYjtvCTOmyTkR8D5Jy6lnfheEwUmKZViTnY1/muIUrOurbl/Y8AoxkOe4ExgU0vz3FIhVZ9jYyRROlym6UKsNBk+23ytm/SISr4bQFAoQQdVx2KzwLTOkiG/VknWb0cQPQlcTpYAGHxWRDJZ272Qbh91XxQXgjrmrXjKggA/qn5vwCyaQpy/if/ygRWhxL9qvzFNU+Ep9vECPWrkXO1HsOXCzK7n3Aw+JVXnT3xCKUsx37VQf7pIVeSsgHt625YaUcqUwUlvDNlFJF37c5T89ePJhS09Zv7Azc57wiswqosVgHAoecPC31yM1j5bv6V1Xepryjf2jMYH/4sAKJvANzpTv0aSw=;BxtmJhcBhuwo1rvbgPl2yw=="
+secured: "tzk5HMSMEF2hshIc1D9gLKLtfHp8N4ENWjpV5cIHKspLjeC70P2U4Uz+rXYzq9pR+fktTNia6UPdwCHtnx0y7ZyghPeGaxXj4ULCpQmKLOR17kYCvXDA8iFlfZLRp558B3nMOO2sTomI7G9KYf826iMFJWFcNEYH2St3LTktUsPzcDWobR7Scie5k3+a4e95MKQ6xnoMRvvGhCwbLp1TnU/JL7JbgSAIkwSdlUSsU9aGLoId2U8nlNHUR7MrgSgOkoWTUhCSJc6wb6yPjPLG/bM6ue5uMHXZaYdRjWPLe3ai9hk8cTen2iLiJEmr/+TVyEGsOOvSEDsW1sttOiieTiF1+gEXDDqiVCSCxzWCuvhz9LBgdbyoJJNXKpMmj09DffhngCCQclw4uOJuH/A0AIPMvbSAkqIEu0lv2VBZ/NzYt1AO9HDQGMJJAlQrZqQc4Ba2ee1V1gPjNFOTgdO+EcF8Bt8+AFRYSutqYo3s2nMeFUt0ZEImpyeVD29WemmkBjFX8zrzEPfetVZlU9v6+g==;WYZug9LKKsZs11bpRSuBfw=="
 ---
 

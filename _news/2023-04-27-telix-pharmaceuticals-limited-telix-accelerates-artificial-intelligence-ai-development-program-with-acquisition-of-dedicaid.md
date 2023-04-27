@@ -27,7 +27,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 50
+    quality: 52
   - title: "Australian biopharma Telix banks on AI with Dedicaid acquisition"
     excerpt: "Telix is expanding its AI capability with the acquisition of Austria-based Dedicaid, a spin-off of the Medical University Vienna."
     publishedDateTime: 2023-04-27T11:08:00Z

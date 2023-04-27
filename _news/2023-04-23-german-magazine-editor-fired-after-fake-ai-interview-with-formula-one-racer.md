@@ -7,8 +7,8 @@ originalUrl: "https://www.pcmag.com/news/german-magazine-editor-fired-after-fake
 webUrl: "https://www.pcmag.com/news/german-magazine-editor-fired-after-fake-michael-schumacher-ai-interview"
 type: article
 quality: 65
-heat: -1
-published: false
+heat: 85
+published: true
 
 provider:
   name: PC Magazine
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Michael Schumacher: Magazine editor sacked over AI-generated 'interview' with seven-time F1 champion"
-    excerpt: "The editor of a German magazine that published an artificial intelligence-generated 'interview' with Michael Schumacher has been sacked."
-    publishedDateTime: 2023-04-22T22:57:00Z
-    webUrl: "https://www.bbc.com/sport/formula1/65361193"
-    ampWebUrl: "https://www.bbc.com/sport/formula1/65361193.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/sport/formula1/65361193.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 72
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_sport/1086B/production/_129419676_hi020461788.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "German Magazine Editor Fired Over AI-Generated Interview"
     excerpt: "Editor-in-chief Anne Hoffmann was “relieved of her duties” after more than a decade at the helm of Die Aktuelle."
     publishedDateTime: 2023-04-24T00:50:00Z

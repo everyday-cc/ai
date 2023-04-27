@@ -77,6 +77,20 @@ related:
         width: 628
         height: 350
         isCached: true
+  - title: "What caught your eye this week? (Arm chip, AI warfare, Space critical infrastructure)"
+    excerpt: "For example, our technology editor says it is good to hear that the House of Lords is looking into the use of artificial intelligence in warfare - he hopes a deep and thorough public report is likely"
+    publishedDateTime: 2023-04-27T15:24:00Z
+    webUrl: "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/what-caught-your-eye-this-week-arm-chip-ai-warfare-space-critical-infrastructure-2023-04/"
+    type: article
+    provider:
+      name: Electronics Weekly
+      domain: electronicsweekly.com
+    quality: 47
+    images:
+      - url: "https://static.electronicsweekly.com/wp-content/uploads/2019/03/11060252/House-of-Lords.jpg"
+        width: 460
+        height: 230
+        isCached: true
   - title: "Behind the Buzz of Artificial Intelligence"
     excerpt: "Much of the buzz at the festival this year has been about the rise of artificial intelligence (AI) and what it means for the future of journalism – and the world. On the one hand, there is a promise of tedious,"
     publishedDateTime: 2023-04-24T11:19:00Z
@@ -110,6 +124,6 @@ related:
       domain: fastcompany.com
     quality: 17
 
-secured: "hls8Z3cimu/3iMkDCO9RZXcLtbmODEcaBY5FgJkcuICzlVY7APwzdmB/SOQeUcISPnBT2HwoAiflL9hIOSIGyLZrtYOaUZAhJCpTugJwS3uyDgwfhbRPMqxiMWV3Pp2s6FC7IBJSkdgXemT6W7P96Wc7Typ3+FYzY5nvh19nTJb4hrPmLs/f3XhrWVmQKmEji2FQnuyUdsaXb2qf3u0RSvnuq8NglReTeFc+OEtO3Z3M3j0Dg1xvqqQASjxk3zdB1R/dnanogCxMOZAtDFCjUPe7n3hJlUSkWRrz/B4vcqRkDMb/ILdj8m/ul6fxxavy9TcJlXHJZ820bpKprCFQEQbugEUiBPQwxstJKjxZyL4=;9WCGcyDtfv2mQ1ynDbtl8Q=="
+secured: "Y+kAFG0eXf1l/lMfofeEQ412sMvYDlJ1BgMHYDoEvCQKYNvzfGospVg8uMoRi8M+hXChHvO261s8C4ixMJF9bpix/MOe9jojs8JdcUXPtIic4f5B6ceWFHx1GJBX2+E+9JjZZShQWW1Fi0HGmNrpN5joPCbMzeqqEFhB5ni2t9C4aSB2jm+p8lFeDnqofxipLL4e1+Yfa1eVadh5YDiEkeP2NzqCwSW/VHhcG6nU8/SQIapP6r2PewIKLPxZ3i7qzTvb3Lt0EyG3BstVS12HraN41We9lxXt9p34wmRoUbfSMvNJD4rmUwsOZFx6z0IfF95TZoX39zaZpQKuI+3ArOYG8ZQ5IWLRxynre8PU04+Lk9vm6n50Ge4ViGCREvBi1vOygHiw3WX7D+oOvvl4Nqo83Bcdpft1AO5fTVzc37eb4dDaNMtlYcx7mVU//n2eZ53tK5b6UEvAPgfyiloNGa/zR72Dph7iWxU1fcDLI1KyCDs7122ZHi79JTJLXt7izwWYG+DDCfaIrJA+KwcE6A==;mdmQ12BvE+h2HvTHIodM+Q=="
 ---
 

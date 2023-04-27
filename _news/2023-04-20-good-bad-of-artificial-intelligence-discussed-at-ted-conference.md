@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://gdb.voanews.com/01000000-0aff-0242-7abf-08db41fa91ed_w1080_h608_s.jpg"

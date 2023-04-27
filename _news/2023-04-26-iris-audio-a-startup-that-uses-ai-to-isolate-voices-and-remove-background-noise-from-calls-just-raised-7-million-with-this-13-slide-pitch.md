@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/iris-audio-pitch-deck-ai-raises-7-
 webUrl: "https://www.businessinsider.com/iris-audio-pitch-deck-ai-raises-7-million-series-a-2023-4"
 type: article
 quality: 30
-heat: 30
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Generative AI startup Synthesia in talks with US fund Accel to raise funds in a deal that could value it at around $1 billion, sources say"
+    excerpt: "Any deal would make the London-based startup the latest company to benefit from the immense demand from VCs to invest in the breakthrough tech."
+    publishedDateTime: 2023-04-27T14:54:00Z
+    webUrl: "https://www.businessinsider.com/synthesia-generative-ai-startup-in-talks-raise-funds-from-accel-2023-4"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 35
+    images:
+      - url: "https://i.insider.com/6449235512a82b00192f9877?width=1200&format=jpeg"
+        width: 1000
+        height: 500
+        isCached: true
 
 secured: "nsrEiubWWo07VxIzgHUnAD6txq4ieUKUcMHs+51PMjMHatNuqdZ5zBkwR0BZxvq6nt7TTp2bOgXsd1EdEsG4XPZEkG8CRCoFfXMoelue4fcWSmDMgOpwAfnZIxmqVaZFYQQoGCrJb4mYevPCf/oL7L7/mU19XmVeTzb468SkyQSfbwcUT6WFfUOBhybi0iubgT+j5b5j/ERETflTfMSBgAnzqzf/Ejz2oKZiW0RqWLt6ZD6whGxbYuXLHct0X4kNwG9MQoOMKoJWK0gjiOY96YOhAsYXglSW9dCeEblYVrDQ/WRahV6dM0jg/czDnjOm/rvEX/b5g27NWiqxRzgMHr/7AVp8Cb6iiuxlgin71kn+ifZBpUdDpI/hVh+Cb5Y41g0TEUnb4MZSJ3425cwc/JTTMHZcmBJRQMPQpMeBTRmjSHBEay5fi9XyJCYKbye35+zvrIcuete5lTGWrWN3S6o4MO9qos0nytsuAAK0MOI9YlW3nhDnY3B2yh0EgMYn2INej/Nrgtz9qfDZeIrIwA==;0KBmh1GPVs5UYNTb6Ob5CQ=="
 ---

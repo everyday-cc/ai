@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Michael Schumacher: Magazine editor sacked over AI-generated 'interview' with seven-time F1 champion"
-    excerpt: "The editor of a German magazine that published an artificial intelligence-generated 'interview' with Michael Schumacher has been sacked."
-    publishedDateTime: 2023-04-22T22:57:00Z
-    webUrl: "https://www.bbc.com/sport/formula1/65361193"
-    ampWebUrl: "https://www.bbc.com/sport/formula1/65361193.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/sport/formula1/65361193.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 72
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_sport/1086B/production/_129419676_hi020461788.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "German Magazine Editor Fired After Fake AI Interview With Formula One Racer"
     excerpt: "Die Aktuelle ran a headline promising the first interview with Michael Schumacher since a 2013 accident, but the quotes attributed to Schumacher were produced by AI."
     publishedDateTime: 2023-04-23T16:13:00Z

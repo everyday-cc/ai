@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft's Q1 Earnings Show Impact Of Companies Going All-In On AI"
+    excerpt: "Revenue, net income and cloud computing were all up, delighting Wall Street and confirming Microsoft’s gamble has so far paid off."
+    publishedDateTime: 2023-04-27T15:13:00Z
+    webUrl: "https://www.forbes.com/sites/qai/2023/04/27/microsofts-q1-earnings-show-impact-of-companies-going-all-in-on-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/qai/2023/04/27/microsofts-q1-earnings-show-impact-of-companies-going-all-in-on-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/04/27/microsofts-q1-earnings-show-impact-of-companies-going-all-in-on-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/644a90ed0c69a91ea555c171/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 777
+        isCached: true
   - title: "Microsoft Results Top Forecasts, Shares Jump 8% As AI Juices Sales"
     excerpt: "Microsoft Corp beat Wall Street's estimates for quarterly revenue and profit on Tuesday, driven by growth in its cloud computing and Office productivity software businesses, and the company said artificial intelligence products were stimulating sales."
     publishedDateTime: 2023-04-26T01:55:00Z
@@ -333,6 +349,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "MSFT Stock Alert: AI Supercharges Microsoft Higher"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Microsoft (NASDAQ:MSFT) reported stronger-than-expected fiscal third-quarter"
+    publishedDateTime: 2023-04-26T14:14:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/msft-stock-alert-ai-supercharges-microsoft-higher-1032264175"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
   - title: "ChatGPT vs. Microsoft Bing vs. Google Bard: Which AI is most helpful?"
     excerpt: "Three AI models that may change the world. ChatGPT vs. Microsoft Bing vs. Google Bard? Which of them operates on acceptable technology in the present and future?"
     publishedDateTime: 2023-04-26T15:52:00Z

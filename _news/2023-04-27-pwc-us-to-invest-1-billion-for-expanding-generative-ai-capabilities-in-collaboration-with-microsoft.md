@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/pwc-us-to-invest-1-billion-for-expanding-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/pwc-us-to-invest-1-billion-for-expanding-generative-ai-capabilities-in-collaboration-with-microsoft/amp/"
 type: article
 quality: 89
-heat: 179
+heat: 189
 published: true
 
 provider:
@@ -116,6 +116,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/artificial-intelligence-g47a8f3489_1280.jpg"
         width: 1280
         height: 853
+        isCached: true
+  - title: "Accounting giant PricewaterhouseCoopers embraces ChatGPT AI, plans $1 billion investment"
+    excerpt: "PricewaterhouseCoopers (PwC) plans to invest $1 billion in generative artificial intelligence (AI) technologies in its US operations over the next three years."
+    publishedDateTime: 2023-04-27T13:04:00Z
+    webUrl: "https://interestingengineering.com/culture/pricewaterhousecoopers-embraces-chatgpt-ai"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 30
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/04/27/image/jpeg/FVdn06UhtMs6ieSTbYVzmwFUZu6GMjWi5ClBIyop.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "PwC Stakes $1 Billion on AI Investments in Tax, Consulting Work"
     excerpt: "Big Four accounting firm PwC US will invest $1 billion over the next three years to expand how its tax accountants, auditors, and consultants use artificial intelligence to improve the work they do for clients,"

@@ -1,0 +1,53 @@
+---
+category: news
+title: "Andreessen-Backed AI Startup Pinecone Valued at $750 Million"
+excerpt: "Pinecone Systems Inc., a startup whose platform supports artificial intelligence software, has raised $100 million in a funding round that values the company at $750 million."
+publishedDateTime: 2023-04-27T11:01:00Z
+originalUrl: "https://www.bloomberg.com/news/articles/2023-04-27/andreessen-backed-ai-startup-pinecone-valued-at-750-million"
+webUrl: "https://www.bloomberg.com/news/articles/2023-04-27/andreessen-backed-ai-startup-pinecone-valued-at-750-million"
+type: article
+quality: 47
+heat: -1
+published: false
+
+provider:
+  name: Bloomberg L.P.
+  domain: bloomberg.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+related:
+  - title: "AI startup Pinecone raises $100 million as vector database market for LLMs heats up"
+    excerpt: "Vector database leader Pinecone announced today that it has raised $100 million at a $750 million valuation, led by Andreessen Horowitz."
+    publishedDateTime: 2023-04-27T15:05:00Z
+    webUrl: "https://venturebeat.com/ai/ai-startup-pinecone-raises-100-million-as-vector-database-market-for-llms-heats-up/"
+    ampWebUrl: "https://venturebeat.com/ai/ai-startup-pinecone-raises-100-million-as-vector-database-market-for-llms-heats-up/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-startup-pinecone-raises-100-million-as-vector-database-market-for-llms-heats-up/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 81
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/04/Untitled-design-60.png?w=1200&strip=all"
+        width: 1200
+        height: 750
+        isCached: true
+  - title: "AI developer platform raises nearly $100M, ups valuation to more than $1 billion"
+    excerpt: "A generative AI coding platform for developers has doubled its funding in a Series B extension that pushed the San Francisco startup's valuation past $1 billion. Replit announced on Tuesday that it raised $94."
+    publishedDateTime: 2023-04-25T18:01:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/fundings/2023/04/25/replit-generative-ai-developer-tools-new-funding.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 14
+
+secured: "sPtc6z8jeiCCPmqfUniMe44TK+3gzd9AJG+Uhylj0Usz/noAUl/sQHiKAQU6/Rh7Jt8lMbPqWMp+NQjW4p9sI3tW33yVqoHqGfd103kT5tj1QvUcIu0Ar6pt9PK7qEU5z2AncoFQ2cMAn96snurfdU8g4b1xvyOJy4iXLGe2Bsi66aw5+qn/Q+p1a+XVOH37nTuQ4Hsw+th5vRhia3Z3myxQJb/vYgrWYzVExOuyB8MlnCyLSLbzgKkUlp78RtEhvyVenMzoQwaAImcmSlMUIkSp9+vWWENZyILgiU2ceTO9s8QobMwyrxaxFmeSBwKgVv3dL37OL8AfbSI7MkLAaDSwQBESBNbTzm0mlNoe902xnsi+ReEYZX6s7m+g2q7XRXjMaIyrKkb7cql69mQg65NhvGBOKSNgJr0fMi8o0kFgDmAse/U2seKVe4t5AwMm04UNWn/lNiBmKfOI06dPRl5k0WrJZRrqiq6XsKEstniYp3vcj9/gDGZpGmfSsc/iLV9VHnBXY4Vkt5lKDl2xEQ==;ZJiM1XvpHoiq9RoE1RzLmw=="
+---
+

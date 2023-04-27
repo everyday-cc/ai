@@ -54,6 +54,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "The future of generative AI is niche, not generalized"
+    excerpt: "ChatGPT has sparked speculation about artificial general intelligence. But the next real phase of AI will be in specific domains and contexts."
+    publishedDateTime: 2023-04-27T15:32:00Z
+    webUrl: "https://www.technologyreview.com/2023/04/27/1072102/the-future-of-generative-ai-is-niche-not-generalized/"
+    ampWebUrl: "https://www.technologyreview.com/2023/04/27/1072102/the-future-of-generative-ai-is-niche-not-generalized/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/04/27/1072102/the-future-of-generative-ai-is-niche-not-generalized/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/04/TW_generativeAI_1200.jpg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "/ZU7560X4ax2A2spv0FomSqKeApnN5kE4JOZ0vl6mdg/HPe48t7tbTiqwdJYI/fSVWOahRSwMnAaDa++kzbNfItOpHMAAkrHH8/absK6wgxiQ/ZoN224yaFiLUAuLxu+zaC02ECOuUa7ZIu2BIQddRBZ/CVAMh70oKXRS6ErULK7FSFYCZygSO7sBWvErWNZjcI6LyPhrccUtZwTludlLMXMuX13NvXQSnmXTl9xpg1UsJgMDMB14OcbVYtTkD5UHz7Ea5Tg6VyHbDe4Xk2APTGog3S7wyx2w4Cb3s5XcFzO7CtbYt+0yZCjICZ8lvYvTDe4Nis544QZPnxGTVF7c278aOTOvJnwimxrYr17LsWEMELJWbNj+YA/2bt7FP/y7xXTJZR8CpNnSjPbD2go5DF2h/YvBrGIvLqwzZPPdeVHtQyldf6pzrSDh5OFaWLjSWrzEAm8zAIpXJyk8qmcp/7mQrFeWW0sDSMxmtxy9hz47IhdhJnHdc87UxMTaVD+QnJ2OGlEJD7khYZXFAkbLg==;t/qw+Z2fT+5oRL2fYujZ3w=="
 ---

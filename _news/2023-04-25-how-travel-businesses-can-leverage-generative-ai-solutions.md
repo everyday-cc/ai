@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 613
         isCached: true
+  - title: "The future of generative AI is niche, not generalized"
+    excerpt: "ChatGPT has sparked speculation about artificial general intelligence. But the next real phase of AI will be in specific domains and contexts."
+    publishedDateTime: 2023-04-27T15:32:00Z
+    webUrl: "https://www.technologyreview.com/2023/04/27/1072102/the-future-of-generative-ai-is-niche-not-generalized/"
+    ampWebUrl: "https://www.technologyreview.com/2023/04/27/1072102/the-future-of-generative-ai-is-niche-not-generalized/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/04/27/1072102/the-future-of-generative-ai-is-niche-not-generalized/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/04/TW_generativeAI_1200.jpg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "The Needed Executive Actions to Address the Challenges of Artificial Intelligence"
     excerpt: "Artificial intelligence (AI) 1 is becoming more widely available to the public and increasingly sophisticated, leading to the advent of what Bill Gates recently called “The Age"
     publishedDateTime: 2023-04-25T16:00:00Z
