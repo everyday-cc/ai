@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/boston-dynamics-robot-dog-c
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/boston-dynamics-robot-dog-can-answer-your-questions-now-thanks-to-chatgpt/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -63,7 +63,21 @@ related:
         width: 600
         height: 334
         isCached: true
+  - title: "Oh Great, They Put ChatGPT Into a Boston Dynamics Robot Dog"
+    excerpt: "As if robot dogs weren't creepy enough, at least one is now equipped with OpenAI's ChatGPT and can speak aloud."
+    publishedDateTime: 2023-04-27T20:36:00Z
+    webUrl: "https://futurism.com/the-byte/chatgpt-boston-dynamics-robot-dog"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 39
+    images:
+      - url: "https://wp-assets.futurism.com/2023/04/chatgpt-boston-dynamics-robot-dog.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "2f6nPFXhLdDQruqSpQ7IPoHY9VloBG1uuxQ2ZcTstYhgFKla7LOAZN+p+Lku0gAoB2LXPCSHtn8Ao5Kmzg6XJlXOEH/OydUB2As7abk/MuPqBLzf6Ekii/1YIPRld+/zqsqYG7kjLklMI4dA3+KMGq7uvq5dbDVC6F/nTFJ6Pxj+1Lt+4jSsOBz3FcC83XjXabX5c98oWS0musnL9pREBABYtioGXw/5lXGT9qROb6quRWjh2YkZz4UZOnxQ7wuCREFLj/FxbUPFYgCHuVRhqT9Sjf3/NelSc4mgwedk73Y7NAebTYvmYb92Kw1Tw0rUgmz6wNYayJqy8BgkZeeiuQ8NYd4TYEmE98hDLnoVAMk=;BnbOTYhJZL41bNSVwtuWbA=="
+secured: "GTI4VFK7FiySnOgxF5hhn7XX37o5zvnG8zQFWFX5MLC4sV4s9LkSVXyyxPjuwLCnJBJG8/0/8fHMcyoR3R93o0+ZSkoYphTIcgrJyTBTxdOmpnKpqV+rFze9MH5Py/BH90+xZTuEs0+T+prob7+X3UQTBp58YxK3uw/jp2FIcBou3TtOh8RA5xwj0tuzvaDWn4m+LdxS+VuloyXl0SfW/g0ANvCjvl1lPG/DMfb6d3DyzPhqxSK6IEwVN4mXCUKGnZXyp4nRPUuPgzQDUhq1DhR3qyiHErA0PYP4jedGpLFEMyCPJYUrU9WbMRlpqvKYyZHD6U98Ght9AeSgUzJ+CZfZA+V/pAF/JMFHyABiNnBrkaGzPER/yLw4IA727M8bhPEUnOF3bckeZW1eNfEJUgoFY1L0SkEcHi2W6Zakp3HqEN6JS0BrD3g9WGJzGKFjYWqNy/00hOFfdOnEWrwcpBVtl8iULit/NPwZBcvUMZ/iXR4EHiDlNPbMiU0z3y3hoJvaWb81izVEFZ4ycQlFIg==;UAaGYD/PBk5Fysu4Q9XpxQ=="
 ---
 

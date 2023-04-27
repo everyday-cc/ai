@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/advisor/business/ai-statistics/"
 webUrl: "https://www.forbes.com/advisor/business/ai-statistics/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "AI Trends In Education And The Workforce That You Should Know About In 2023"
+    excerpt: "The field of Artificial Intelligence is evolving so quickly that nearly every industry is being impacted seemingly overnight."
+    publishedDateTime: 2023-04-27T18:18:00Z
+    webUrl: "https://www.forbes.com/sites/sergeirevzin/2023/04/27/ai-trends-in-education-and-the-workforce-that-you-should-know-about-in-2023/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 62
   - title: "Five AI stocks under $10 to watch in 2023"
     excerpt: "Its value of nearly 100 billion U.S. dollars is expected to grow twentyfold by 2030, up to nearly two trillion U.S. dollarsMany companies are investing in AI technology to gain a competitive edge in their respective markets."
     publishedDateTime: 2023-04-24T12:58:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2023/04/26/zuckerberg-says-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/04/26/zuckerberg-says-meta-will-add-generative-ai-to-all-its-products/amp/"
 type: article
 quality: 87
-heat: 130
+heat: 140
 published: true
 
 provider:
@@ -92,6 +92,15 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "Mark Zuckerberg says AI boosts monetization by 30% on Instagram, 40% on Facebook"
+    excerpt: "The core business for Meta since the early days of Facebook has been advertising sales, which still account for 98% of the company’s quarterly revenue. So naturally, enhancing advertisements with A.I."
+    publishedDateTime: 2023-04-27T18:21:00Z
+    webUrl: "https://www.aol.com/finance/mark-zuckerberg-says-ai-boosts-181123857.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 14
 
 secured: "d4gGXB9BK/x2bhnKIcbm0CDuYcguW/rfk6FNKAwcw/cGDp+B9KWdRWMrq6lwFToq8a9JjitF58vZzFK4RzGNDWLZ2l5LTORPiHV3HZL4vwN+oqjo0cqYKOsO0EJn1D1DTTwe7GIcIydkOFBnjFSy/n0r1aw7Lu8ztvzxQ+eSnRUPx6NfSJT4OlG+w4khjK1GW5IcnHiE+FRpN2CN2qCqP5LacDUQjLiGVDg3p5ehxoYRK3ncwz5uZQM1E2W4i1OIzU5XaT1KshUARpB5l5QusoOrXXnlpA44agUzl9YJH2a8kggcbUBHOueolP2AQP02ZC6o6h0ko9sTVi3SOM/lyo0ZaGSG1fjTrWrJmYlmgN6AGDgnhhn/ii9TpM39i0lapyh997Mhf3CWSiuk6cZIYAGOoAHeVCvldIB1xmaOrZUwB6T+a6RQTkbGfJDJ7W7GvmvCzocBWtxR1iBjNw2uEcvejctulbLI0jMz1678XWb8jBz48i26cu7SzIZsxrt7deNx7/jQ4skc3W0jy7UK/w==;kW9rxsqZWqOduF2UbLXjug=="
 ---

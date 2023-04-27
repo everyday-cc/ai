@@ -157,6 +157,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Voice Market Growth by 2031"
+    excerpt: "The latest market research report on the Global \"Artificial Intelligence Voice Market\" is segmented by Regions,"
+    publishedDateTime: 2023-04-27T04:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-voice-market-growth-by-2031-2023-04-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Deep Learning in CT Scanners Market Growth by 2031"
+    excerpt: "The latest market research report on the Global \"Deep Learning in CT Scanners Market\" is segmented by Regions,"
+    publishedDateTime: 2023-04-27T04:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-ct-scanners-market-growth-by-2031-2023-04-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Mobile Artificial Intelligence Market Demand by 2031"
     excerpt: "The latest market research report on the Global \"Mobile Artificial Intelligence Market\" is segmented by Regions,"
     publishedDateTime: 2023-04-24T08:46:00Z
@@ -208,6 +236,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Healthcare Market Scope, Trends, Growth Status, Share and Forecast 2028"
+    excerpt: "The Global Artificial Intelligence in Healthcare Market is estimated to register a CAGR of over 38.1% during the"
+    publishedDateTime: 2023-04-27T07:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-scope-trends-growth-status-share-and-forecast-2028-2023-04-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
   - title: "Computer Vision Software Market 2023-2031"
     excerpt: "The latest market research report on the Global \"Computer Vision Software Market\" is segmented by Regions, Country,"
     publishedDateTime: 2023-04-25T10:15:00Z

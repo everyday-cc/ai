@@ -48,6 +48,24 @@ related:
         width: 960
         height: 369
         isCached: true
+  - title: "First man wrongfully arrested because of facial recognition testifies as California weighs new bills"
+    excerpt: "One bill would ban its use for 10 years, while the second could allow police to match images to the state driver’s license database"
+    publishedDateTime: 2023-04-27T18:07:00Z
+    webUrl: "https://www.theguardian.com/us-news/2023/apr/27/california-police-facial-recognition-software"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 4
+  - title: "Embedded Vision Summit® Announces Full Conference Program for Edge AI and Computer Vision Innovators, May 22-24 in Santa Clara, California"
+    excerpt: "The premier event for product creators incorporating computer vision and edge AI in products and applications SANTA CLARA, Calif., /PRNewswire/ -- The Edge AI and Vision Alliance, a 100+ company world"
+    publishedDateTime: 2023-04-27T18:53:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/04/n32056890/embedded-vision-summit-announces-full-conference-program-for-edge-ai-and-computer-vision-innovator"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "hemEuSU7450QvcsPAuo8O45YFe48UVp+fB4rNtOez+pdwjLF1M1dNwoekyALyrujbKebfaCcMLq5nq1xFmq1yvdt9YQIIQErlO6eyLBepJAXCsFjTuvTGaC+z5lv//0kkMm4VMMdT1f+Uo1hKQpxsOWNK3Da3NFjO27Lkm7ymiw74OjQ3+m1det4Q1JlNRneLFYkH6CokwUxqTLT8ZQy1KIesJY3dJLnMEVHZeeED5PL3jLb8fj+/G7D+ldbFAO91PIEAjiUd6h4ZO8R+mvkkFN3XlgyuqqT2QGQzjzLNm2VmXPA2wsvMlNqwgrKvtANEbtg2/069mO3i0gPn+XHviqviJcslCQ+KCv7/Z2JVMGSSd0Mh2LJdB4ZGATOTFMPAq38R3XNbfczuS8SiGvDEMHnO/utgZbg8ZOVtOULCpwr3HIpm7bSfp+Dxi5pdos+6OXLiSLEs+SYkifhZh2TI4by2Id38N9M+y1lvuub2KhNlW8U1nea7998YpU9bVU6z0YDCYNN+LVoXeW+SHgbNA==;qxI/hdEIEQZsJDgNB0WKcQ=="
 ---

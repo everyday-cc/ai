@@ -58,6 +58,15 @@ related:
         width: 900
         height: 506
         isCached: true
+  - title: "PInecone, an AI-related startup with Bay Area roots, has scored $100M in funding"
+    excerpt: "But while it also has a hub in Tel Aviv, Israel, the startup retains strong ties to the Bay Area. A large portion of its team is in the San Francisco-San Jose region, as is Bob Wiederhold, its president,"
+    publishedDateTime: 2023-04-27T16:28:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/news/2023/04/27/ai-startup-with-bay-area-roots-scores-big-funding.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 12
 
 secured: "3X5SkcpkLbRCOEisUJA6YTZGwnUGwVC0w+pU4E53wlFaoN7FypZ7y3mUf7RWlxMhJqE6ojPanivwKwz66NasKNj8HgNHJcYIC/ldC4YwnFqD0ARJPOSnCLVwAHrqItVJ/agh1qe4PX8K/sMsACzpc5G/CX4uX4zfPwFDkVpNBL5/sgMiWIuF/qQjZ19ae60MI7ywssCZjTDKw5BvfcgZjqU9VC9S5JmynIKTsuc0c1j7Nr6JI/uJdFU1uWx5Ps573m7J09qWedIh9tmqj5vCID6fu6mVCtZ04/5oV7CFqbkzBuqIGo/wWv86tDXI1XfhKxdz3Fampcl2OEq3eufpm92FiGfTUNWZWWceHDoPo07RtwSwHRlFl2YaJmEGPTMaZDXralHDyQo3pPZMXQ/NnT1pkxyZh5WPEz+ymevVF7Ffd/M0yu621ux/5N/SwDHrshK9a02XgO1vvN/oful/pUuFhxgZ66i4WSH/WjqZyiG+B/I/ji1SXASCeXfFwZ3cgO+hTkb4AFN3Qa/Rosfjbg==;Fq4av15NelUKHHhlaK1DGg=="
 ---

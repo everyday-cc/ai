@@ -7,7 +7,7 @@ originalUrl: "https://www.benzinga.com/startups/23/04/32018434/drake-the-weeknd-
 webUrl: "https://www.benzinga.com/startups/23/04/32018434/drake-the-weeknd-and-how-ai-is-turning-the-music-industry-upside-startup"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -16,19 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "An AI Hit of Fake ‘Drake’ and ‘The Weeknd’ Rattles the Music World"
-    excerpt: "The song's successful (if brief) arrival on official streaming services intensified alarms that were already ringing in the music business about AI."
-    publishedDateTime: 2023-04-23T03:00:00Z
-    webUrl: "https://www.seattletimes.com/entertainment/an-ai-hit-of-fake-drake-and-the-weeknd-rattles-the-music-world/"
-    ampWebUrl: "https://www.seattletimes.com/entertainment/an-ai-hit-of-fake-drake-and-the-weeknd-rattles-the-music-world/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/entertainment/an-ai-hit-of-fake-drake-and-the-weeknd-rattles-the-music-world/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 39
 
 secured: "FckjgekASXm9vdGNIEA03M0Gy+8HVcec+e0SMyhsBtHawDg6tWuywrj/rpiiENFQsMo+biRP73PFzaOH3t3Ypbr0QprNo3SedBLof8vh3EF9DE2UA9prEeaFqIl/iq+pQ0Codrwa5ZgY2V4JweprQWhaCl/wSzwqZPCbPZ1krB2TSmFF4XlVOjm4URvWaNc+nya+F10NPJSlIk2YvvURK2L3YG9EvyeGueXnRPo2+xXHcU+cQZxD6dvPPL8+EDKKoMgNbd0VoGz9HlN5HHxByrbgLzOO+PVQSfOGyJVPkgClqhRSmzo1AAyN3UQkYaCdunw8HHV47ERON9gKKViOuSXt354h7XRfNDU/z1D2x50=;zZTZPY2vF7QE47ZEUjzmQA=="
 ---

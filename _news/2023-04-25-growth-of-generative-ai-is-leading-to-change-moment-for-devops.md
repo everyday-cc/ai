@@ -56,6 +56,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How generative AI is transforming enterprise search solutions"
+    excerpt: "Generative AI can unlock the full potential of data in the enterprise for the employees who rely on it, lowering barrier to knowledge."
+    publishedDateTime: 2023-04-27T18:13:00Z
+    webUrl: "https://venturebeat.com/ai/how-generative-ai-is-transforming-enterprise-search-solutions/"
+    ampWebUrl: "https://venturebeat.com/ai/how-generative-ai-is-transforming-enterprise-search-solutions/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-generative-ai-is-transforming-enterprise-search-solutions/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/04/AdobeStock_569404196-copy.png?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Using Generative AI In Workforce Management"
     excerpt: "Generative AI is the most transformative thing in the business landscape right now, perhaps even since the proliferation of the internet."
     publishedDateTime: 2023-04-24T11:30:00Z
@@ -118,6 +134,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Music Executives Grapple With Generative AI on Earnings Calls"
+    excerpt: "The leaders of Spotify and Universal Music Group are trying to sort through the threats and opportunities surrounding AI"
+    publishedDateTime: 2023-04-27T18:31:00Z
+    webUrl: "https://www.bloomberg.com/news/newsletters/2023-04-27/music-executives-grapple-with-generative-ai-on-earnings-calls"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
   - title: "HackerRank Research Finds Generative AI Changing How Developers Code--and How Companies Hire Developers"
     excerpt: "Gap Identified Between the AI Skills Needed and the Skills TestedMOUNTAIN VIEW, Calif., April 24, 2023 /PRNewswire/ -- HackerRank, the developer"
     publishedDateTime: 2023-04-24T14:40:00Z

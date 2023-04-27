@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/98420-eff-calls-action-against-calif
 webUrl: "https://www.techspot.com/news/98420-eff-calls-action-against-california-new-facial-recognition.html"
 type: article
 quality: 64
-heat: 84
+heat: 104
 published: true
 
 provider:
@@ -51,6 +51,24 @@ related:
         width: 960
         height: 369
         isCached: true
+  - title: "First man wrongfully arrested because of facial recognition testifies as California weighs new bills"
+    excerpt: "One bill would ban its use for 10 years, while the second could allow police to match images to the state driver’s license database"
+    publishedDateTime: 2023-04-27T18:07:00Z
+    webUrl: "https://www.theguardian.com/us-news/2023/apr/27/california-police-facial-recognition-software"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 4
+  - title: "Embedded Vision Summit® Announces Full Conference Program for Edge AI and Computer Vision Innovators, May 22-24 in Santa Clara, California"
+    excerpt: "The premier event for product creators incorporating computer vision and edge AI in products and applications SANTA CLARA, Calif., /PRNewswire/ -- The Edge AI and Vision Alliance, a 100+ company world"
+    publishedDateTime: 2023-04-27T18:53:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/04/n32056890/embedded-vision-summit-announces-full-conference-program-for-edge-ai-and-computer-vision-innovator"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "nWXyMTJ3ZwvgDqRa3HRLN3RjE0uztCtowGshWTSpxvPRFqcs+0SF7laLxV1hXbRfMtWfz1Wnq2aapYFR0S8FHf8XGLD6xiRICmM6DD1IXSUAuBpfEGzMAY9V7IPO1iONL/AtbeQHsFlIiQu/KgeJC42APlKztg/DPAZFu+rmix9jJ5Ue7CDjhUiaF4LzrhFBC14AEou/ZsqDAStVFa/uF6pokhRMLcIJT8jPvBRJapNDinpUkZUk/Y0VDNytLgqcUsdtXzMLPOUjJP6NkhsRtev1KCk1yvAHTAj2ezKGL0Z3+7vQNtaTg4gRmX+MPs8A43ZxGDr/hRuT0irHoiTFXQN/hutroYtkX0SkwUoFbb9HV+ZOlZqnBHspRtottUfTFBrivkUExy57M1Lza06i2rIx7M9nJiw3KfkzVmUfpeT7e93VxaPSvXKHlTu9KGI/EBgS9UKAZ1jKKS0JT93AcXcBOLdr60ODJS2kX2XRATNRyK4AjG5TJG2oqGdN+DJeAeHxXce1+NkSITK/k530TA==;IgqBBPMPpjaJACwmhH6weg=="
 ---

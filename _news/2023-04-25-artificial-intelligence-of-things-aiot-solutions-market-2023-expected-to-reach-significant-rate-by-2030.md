@@ -28,15 +28,15 @@ images:
     isCached: true
 
 related:
-  - title: "Radiology AI market size is anticipated to expand significantly over the projected period of 2023 to 2030 with a CAGR of 8.5%"
-    excerpt: "The Global Market Overview of \"Radiology AI Market\"offers a unique insight into key trends shaping the industry world-wide and in the largest markets. Written by some of our most experienced analysts,"
-    publishedDateTime: 2023-04-23T03:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/radiology-ai-market-size-is-anticipated-to-expand-significantly-over-the-projected-period-of-2023-to-2030-with-a-cagr-of-85-2023-04-22"
+  - title: "Artificial Neural Networks Market by Size, Trend & New Technology till 2023-2030"
+    excerpt: "To know How COVID-19 and Russia-Ukraine War Influence Will Impact This Market/Industry - Request a sample copy of the report:  In This Reports Artificial Neural Networks Market Segment by Type ( BFSI,"
+    publishedDateTime: 2023-04-27T02:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-neural-networks-market-by-size-trend-new-technology-till-2023-2030-2023-04-26"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 42
+    quality: 64
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

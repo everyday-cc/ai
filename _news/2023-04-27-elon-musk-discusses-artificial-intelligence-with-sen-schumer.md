@@ -56,6 +56,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Musk meets with Schumer as Senate looks into artificial intelligence"
+    excerpt: "Artificial intelligence has been a focus of research for years, from Silicon Valley to the Pentagon and globally. Now, Senate Majority Leader Chuck Schumer, a New York Democrat, is considering legislation to regulate AI."
+    publishedDateTime: 2023-04-27T18:53:00Z
+    webUrl: "https://www.autonews.com/executives/musk-schumer-meet-senate-looks-artificial-intelligencee"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 17
 
 secured: "UgHJd+fbfaXcC3Qq+QVj9wilgXaWRyZWcQCH9RvWIjuVTIr62m3h/5DKVUf34qgNSoDF4WgA1x+eEXvHKbthtb9bDa0HP/4p9f32huK+A44uLJwVa0msrMw8eC7MjY5mhCl6KvrD3UFabDqgbH1ta3r+jCnqm5Co2beVcowJl1x01YOwfoxSLXtDxs6u9r0fcmJjlTMbpXKjtzg8Tc/skyiRBMT+HdkbX0uudsIqCaXGaF6Rvj+kHP7RJMiMgjUE1/NRgkiSARQdhrbqWIoA86kNVLyy+isChl06Y1akAHKGsV6XEmuK34+3OoBh3dX0fF0Npucb+lHFHKxUFxyFkiTmgluxMQJEf8XvATIQLVI=;uPIwtxp/vCR/yZF0AIGiDw=="
 ---

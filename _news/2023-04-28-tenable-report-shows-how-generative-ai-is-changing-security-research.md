@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/security/tenable-report-shows-how-generative
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/tenable-report-shows-how-generative-ai-is-changing-security-research/amp/"
 type: article
 quality: 106
-heat: 206
+heat: 226
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/61f030570018a072dc46d1ec/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "How generative AI is transforming enterprise search solutions"
+    excerpt: "Generative AI can unlock the full potential of data in the enterprise for the employees who rely on it, lowering barrier to knowledge."
+    publishedDateTime: 2023-04-27T18:13:00Z
+    webUrl: "https://venturebeat.com/ai/how-generative-ai-is-transforming-enterprise-search-solutions/"
+    ampWebUrl: "https://venturebeat.com/ai/how-generative-ai-is-transforming-enterprise-search-solutions/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-generative-ai-is-transforming-enterprise-search-solutions/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/04/AdobeStock_569404196-copy.png?w=1200&strip=all"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Using Generative AI In Workforce Management"
     excerpt: "Generative AI is the most transformative thing in the business landscape right now, perhaps even since the proliferation of the internet."
@@ -110,6 +126,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Music Executives Grapple With Generative AI on Earnings Calls"
+    excerpt: "The leaders of Spotify and Universal Music Group are trying to sort through the threats and opportunities surrounding AI"
+    publishedDateTime: 2023-04-27T18:31:00Z
+    webUrl: "https://www.bloomberg.com/news/newsletters/2023-04-27/music-executives-grapple-with-generative-ai-on-earnings-calls"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
   - title: "Growth of generative AI is leading to change moment for DevOps"
     excerpt: "The role of data in DevOps is changing, facilitated by the introduction of powerful new generative artificial intelligence engines such as ChatGPT. The success of DevOps in modern, cloud-native environments has given rise to platform engineering,"
     publishedDateTime: 2023-04-25T15:59:00Z
@@ -166,6 +191,6 @@ related:
       domain: healthitanalytics.com
     quality: 19
 
-secured: "zMypZAU6aufjFI0YBXx1uKei1An0KDaYzJWPVeeiAau4CECMq670CDiNCU5Mf3Si0eviNyIitoaS3xcMZoL9Hgg/p5ZiMxY1+UsmG9PpYWODxGCTJUsBelWZOK1ZpbXyVsDzSTHc7oh9Y4uV3i2N55cUBUqmJA7SJmd784tOm2ALWy5f3KaIivbY2AtmY+FUpBcVPY1E18M1wu1hrsh8wz+lpoiPtsm7n6nIePQzTWHQv0Oyrfis5tP/3fTZWlx/tgwpMC1lDUooDeYcaalWaSvHDR7AIUmjVlkDeovK0AVKG+bIpoYg+yN4Ju5+Im3F/lEFc/XsDA85terEbQW9i6UEVgSKtiNofvTHp+bdYBI=;4NVxucWpMzTmLer57DFv8w=="
+secured: "mUyVpg3BKf6pWw4EfGFDh60sIQVIk49FIrYGketytVRhH5Uf9BHbu8KEdRNEPb+zWTu7bcdPPsk34tETEa53adBEQvxYDNb2KNfwlm79bpbJpASrNy1ajnzUmUm4Zo818Yp5iXLFogt4+QPUltNhVpTuVC/XuOiA6CikUg9J3yCsvbW8ZVhlxj14DluzAy5dJI5a2GgcDh0Tle1Ho8RhpiC8hvlltTmhzWQoFzSv75OlppYcb1fZjCKq0uNcTHBybdGh9/ufHOdyGDeq484FXNUSYaVAbYYgG7CfOYSB3qOsLls7f7A8fga1rYsqYLgYaE9EtnjPA3N9QvGm/OOqNNFeI5+Ik2aJ8ZPR9600jeP4tZFQ/8UbrPjrpTb7r7R3K6KUWOHQziat9MVgxLR2SuAWHNITPVxhUJeZX3z7mRDY4K8BpYW3Z+N7mfzMS+K/PTyYweQ9Zhh8xe+Nm/BwydE3TaSuF2dup6oWw7OKnDb6jVf2DvDJmJZzAe56I0fJbRQjXO4ticO2cFKp1SFc2g==;Tv9zvtB/uJVa5NPmlGeH7w=="
 ---
 

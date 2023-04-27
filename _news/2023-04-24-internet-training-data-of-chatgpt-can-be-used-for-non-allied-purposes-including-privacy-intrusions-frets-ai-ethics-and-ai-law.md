@@ -80,22 +80,6 @@ related:
         width: 1200
         height: 798
         isCached: true
-  - title: "5 things ChatGPT (and GPT-4) can’t solve in financial services…yet"
-    excerpt: "New products and compliance are just two of the things humans, rather than LLMs and generative AI models like ChatGPT, still need to handle."
-    publishedDateTime: 2023-04-23T01:10:00Z
-    webUrl: "https://venturebeat.com/ai/5-things-chatgpt-and-gpt-4-cant-solve-in-financial-services-yet/"
-    ampWebUrl: "https://venturebeat.com/ai/5-things-chatgpt-and-gpt-4-cant-solve-in-financial-services-yet/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/5-things-chatgpt-and-gpt-4-cant-solve-in-financial-services-yet/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 74
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/04/chatGPT-financial-problem.jpg?w=1200&strip=all"
-        width: 1024
-        height: 613
-        isCached: true
   - title: "ChatGPT life hacks: How users are spawning grocery lists from AI-generated recipes and meal plans"
     excerpt: "The emergence of generative AI is opening a whole new world of life hacks including the creation of diet-specific meal plans and grocery lists to match. TikToker Mellyssa Viele and The Microsoft Garage director Mike Pell weigh in."
     publishedDateTime: 2023-04-24T06:00:00Z

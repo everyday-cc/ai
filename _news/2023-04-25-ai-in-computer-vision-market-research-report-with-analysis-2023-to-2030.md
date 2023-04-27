@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-ma
 webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-research-report-with-analysis-2023-to-2030-2023-04-25"
 type: article
 quality: 84
-heat: 254
+heat: 274
 published: true
 
 provider:
@@ -169,6 +169,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "FinTech Market Research and Development till 2030"
+    excerpt: "The Global FinTech Market research report for 2023-2030 provides a detailed analysis of the current market scenario, including qualitative and quantitative information, growth potentials, and competitive landscape."
+    publishedDateTime: 2023-04-27T08:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/fintech-market-research-and-development-till-2030-2023-04-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "VOICE RECOGNITION SYSTEM Market Global Analysis 2023-2030"
     excerpt: "In 2023,VOICE RECOGNITION SYSTEM Market with technical and procedural infrastructure that gathers and evaluates the"
     publishedDateTime: 2023-04-27T05:57:00Z
@@ -178,6 +192,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "2023-2030 Global Artificial Intelligence In Manufacturing Market is Growing Rapidly with Modern Trend"
+    excerpt: "Artificial Intelligence In Manufacturing Market Report Insights (2023-2030) :(113 Pages Report) Artificial Intelligence"
+    publishedDateTime: 2023-04-27T09:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-2030-global-artificial-intelligence-in-manufacturing-market-is-growing-rapidly-with-modern-trend-2023-04-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

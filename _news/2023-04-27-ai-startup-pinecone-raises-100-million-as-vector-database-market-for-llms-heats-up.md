@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/ai-startup-pinecone-raises-100-million-as
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-startup-pinecone-raises-100-million-as-vector-database-market-for-llms-heats-up/amp/"
 type: article
 quality: 81
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -62,6 +62,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 14
+  - title: "PInecone, an AI-related startup with Bay Area roots, has scored $100M in funding"
+    excerpt: "But while it also has a hub in Tel Aviv, Israel, the startup retains strong ties to the Bay Area. A large portion of its team is in the San Francisco-San Jose region, as is Bob Wiederhold, its president,"
+    publishedDateTime: 2023-04-27T16:28:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/news/2023/04/27/ai-startup-with-bay-area-roots-scores-big-funding.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 12
 
 secured: "Gpod80x25xn+qLeY1TiV40yI6AQQbcXJIyV4Azum8Qux8QBwc4uSZNZQDvjN74krP+toijrlgbOMX4EXc4/SJNnWD4MicGUwXBMqstDakAWo6ZUUaj9tSCzGrD1MZnj0L445LH7Io0dif7N3pb8veBA/EwEq6gfeBhdyKYrucDl58LZ+sLxMkOsGOQTHB7gnrUKJ0nXRZempir9eaK93oIyJj7vamwXxBvlXGngT6tCdSPmKySnTda3qO01PlWfR40tKZ4znuVS0ERCo9KFoHQo/lebQv/95gVOkHuDShBZffPu4+W71AwiRFYAeq6btIbul6Q4tCSR181HUb67SPUq2cTuZT5aDl88iKZ6HVZSeBj/yEK2b2ygEPG6J1qxwy18XLh8BpChH2/Y8D7Y+4Gl389EBVTtOi0581m0u0IcKKa6Teo28/I1DlunhtR0lZJMvcl/8X+k8EsTMEFYpZOTjXw49JAQwlWbpUbUvXMg7gowLCZJvqnUPRCtduiR3t104uLkXkdTpGuDxOLIv7g==;8obB8s6nspfpzBhYh61RnQ=="
 ---

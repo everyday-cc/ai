@@ -9,7 +9,7 @@ ampWebUrl: "https://www.moneycontrol.com/news/opinion/traders-have-little-to-fea
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/traders-have-little-to-fear-from-artificial-intelligence-10469941.html/amp"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 770
     height: 433
     isCached: true
+
+related:
+  - title: "It’s Time to Protect Yourself From AI Voice Scams"
+    excerpt: "In reality, the teen had not been kidnapped, and was safe; DeStefano believes someone used AI to create a replica of her daughter’s voice to deploy against her family. “It was completely her voice,” she said in one interview."
+    publishedDateTime: 2023-04-27T18:11:00Z
+    webUrl: "https://www.theatlantic.com/technology/archive/2023/04/ai-voice-cloning-imposter-scams/673879/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 47
 
 secured: "c+1xVHx0m3pYrbfkDqMN7eItRkvLnghzhXOY/+pgXEmLcd29OIx2dEbUDA1S6sEFLIMVFP+GuLwWffoOJEnPBOrLejFaHwprdK6AS5mZ2wJh0R3vdNB/5/7CHXJ5dWqpN/3hNrs2n/VLiT9q7Bey8pOEdBczBg+cKs6Gb7RACa8zw2fmN1+Sn51sJaO9Ukl5BidiuVef/wHX3dx77+iBRHTToOfNKHfcvV+qSYxVhjY9WjDNsFEJ0sknYzVh9lXEB2+XYu5iZy15uZ0OuBALAQn947S2yMjKsQhIO4ObJSpnlU+CuYNhbexDlrL5LRamW7Xfg1k4E0Y9OkmKXKYx1534NA15V0u4I2NW2nyX5xY=;U7Tx84equWQSiQHV4wbjig=="
 ---

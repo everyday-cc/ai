@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna81696"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna81696"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -56,6 +56,15 @@ related:
         width: 1440
         height: 965
         isCached: true
+  - title: "Musk meets with Schumer as Senate looks into artificial intelligence"
+    excerpt: "Artificial intelligence has been a focus of research for years, from Silicon Valley to the Pentagon and globally. Now, Senate Majority Leader Chuck Schumer, a New York Democrat, is considering legislation to regulate AI."
+    publishedDateTime: 2023-04-27T18:53:00Z
+    webUrl: "https://www.autonews.com/executives/musk-schumer-meet-senate-looks-artificial-intelligencee"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 17
 
 secured: "0qvZSQhtQpbZcKt0ajSsEA7q3/QHyPt39P0xyrGKp/I/aNTisl/o2t9RE29NbMTrJ9lKEqf+aA54DhPmA7v5w4spCHjmb6+UQfyv8/QUwO8dt2r4mhjBPFmNuFWpLAjMCiGcsIu4Xj9Tv7MyEYYTX9yhAjFAc7my9t/ZAP1NTZkExuyrO1UMjP4iQ1EpVV8DGsfo3NaZmpMbV/K8B2LB49WG78lMzxSI9mEHx8U7m0I0hl8rwStsMKr0WTZIh6rPz3r21Mi3yNs+NycmIABAkTkljkgTvlonaG25aywWhkM+thAc2Y7LQaNKyJDkIfhGYHS0KPVjFE8p+G4qHVGyD3uMWEA8JpevyO33Ut7vTHTSS5JRiAWWkPpWdv8KyM8eHysqj4/R5AixtVqW22anTk65mvDx+nfDn8rQDRD1Hlxig1wC0kuVFMaFEIbucwUJekVoy0XmaZypngy29qGaS4UEcqAW2KytHY9j0WrSvBk6CgrhiFDRTqttJEPwZx9wRtee7bTve/JotnTk2PoWow==;G+H/U2lX/jGgTmeQ90FymQ=="
 ---

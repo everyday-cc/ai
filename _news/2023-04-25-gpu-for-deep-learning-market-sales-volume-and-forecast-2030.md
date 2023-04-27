@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/gpu-for-deep-learning-ma
 webUrl: "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-sales-volume-and-forecast-2030-2023-04-25"
 type: article
 quality: 103
-heat: 153
+heat: 163
 published: true
 
 provider:
@@ -82,6 +82,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Tiny Machine Learning Market 2023 Projected Revenue Figures, Growth Rate Throughout the Forecast Period 2030"
+    excerpt: "The Global \"Tiny Machine Learning Market Size\"2023 research report covers explicit information regarding the development rate, market estimates, drivers, limitations, future-based demand, and revenue during the forecast period."
+    publishedDateTime: 2023-04-27T06:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/tiny-machine-learning-market-2023-projected-revenue-figures-growth-rate-throughout-the-forecast-period-2030-2023-04-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -60,6 +60,22 @@ related:
         width: 1200
         height: 788
         isCached: true
+  - title: "Apple is working on an AI health coaching service, according to reports"
+    excerpt: "Need help staying on top of your health and wellness goals? Apple is working on some projects that might help."
+    publishedDateTime: 2023-04-27T18:44:00Z
+    webUrl: "https://www.zdnet.com/article/apple-is-working-on-an-ai-health-coaching-service-according-to-reports/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/apple-is-working-on-an-ai-health-coaching-service-according-to-reports/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/apple-is-working-on-an-ai-health-coaching-service-according-to-reports/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/aafc79d1ed5b4855d68660b317f0131688ea004f/2022/09/08/675c038f-0a14-43e6-ab88-3cc88698813c/apple-watch-series-8.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "These are the 9 best books to get up to speed on the hot new world of generative AI, according to experts"
     excerpt: "The AI Revolution in Medicine: GPT-4 and Beyond Author: Peter Lee, Carey Goldberg, and Isaac Kohane. Lee, Corporate VP for Research and Incubations at Microsoft; Goldberg, medical and science ..."
     publishedDateTime: 2023-04-24T00:00:00Z
@@ -85,6 +101,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Ocean’s roar of generative AI and expanding dark web capture security world’s attention at RSA"
+    excerpt: "That single metric speaks volumes about the pace of change in the tech world today, and the security community has taken notice. Security researchers are scrambling to assess what mass deployment of generative AI will mean in the broader context of protecting critical systems."
+    publishedDateTime: 2023-04-27T19:45:00Z
+    webUrl: "https://siliconangle.com/2023/04/27/oceans-roar-generative-ai-expanding-dark-web-capture-security-worlds-attention-rsa/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 44
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/04/rohitghai-rsa-badai.jpg"
+        width: 2500
+        height: 1434
+        isCached: true
   - title: "Generative AI Is Only as Good as the Prompt You Give It"
     excerpt: "It is ironic that much of the early conversation about ChatGPT had to do with the demise of writing skills when, in fact, the very success of generative-AI searches is determined by the quality of precisely written prompts."
     publishedDateTime: 2023-04-26T05:42:00Z

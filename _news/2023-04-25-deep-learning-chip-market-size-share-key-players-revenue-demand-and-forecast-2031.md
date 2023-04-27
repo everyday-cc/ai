@@ -86,6 +86,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tiny Machine Learning Market 2023 Projected Revenue Figures, Growth Rate Throughout the Forecast Period 2030"
+    excerpt: "The Global \"Tiny Machine Learning Market Size\"2023 research report covers explicit information regarding the development rate, market estimates, drivers, limitations, future-based demand, and revenue during the forecast period."
+    publishedDateTime: 2023-04-27T06:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/tiny-machine-learning-market-2023-projected-revenue-figures-growth-rate-throughout-the-forecast-period-2030-2023-04-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Graphic Processing Unit (GPU) Market Upcoming Trends, Size, Key Players, Revenue, Share, and Forecast 2023 to 2031"
     excerpt: "Graphic Processing Unit (GPU) Market [NEW REPORT 2023] offers a whole overview of the present-day market kingdom of affairs and affords a forecast until 2031. This report provides a balanced mix of qualitative and quantitative data that highlights imperative market developments,"
     publishedDateTime: 2023-04-24T06:38:00Z

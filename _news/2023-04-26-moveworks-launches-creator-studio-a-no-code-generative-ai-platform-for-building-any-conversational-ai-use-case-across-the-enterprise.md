@@ -49,6 +49,15 @@ related:
         width: 900
         height: 506
         isCached: true
+  - title: "Moveworks Launches Creator Studio: A No-Code, Generative AI Platform for Building Any Conversational AI Use Case Across the Enterprise"
+    excerpt: "Moveworks, a leading conversational AI platform for the enterprise, announced Creator Studio — a no-code, generative AI platform for building any conversational AI use case in minutes. The platform leverages advanced large language models (LLMs) and generative AI to provide a natural language interface that serves as an enterprise-wide co-pilot for employees."
+    publishedDateTime: 2023-04-27T18:27:00Z
+    webUrl: "https://www.datanami.com/this-just-in/moveworks-launches-creator-studio-a-no-code-generative-ai-platform-for-building-any-conversational-ai-use-case-across-the-enterprise/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 0
 
 secured: "kkWig888d8ku19+x3qNxMHwpYqtFNPQ+6YdRNKX+4cca13j6pDHPxmaMFU7IpR344mESwRvKyDIQaENRoCAFUKdN2NDaN7bhdOzrNrdGVGn36ghl1XlNhRvUR4jHmnciHmEWUkpLtQFVz4Num5E5S1qV6aBiuW8r0+Wqw46tgiQH4Cj0sHXCyb/WkwFNrTXvR6iL0uW1rHrmlltvPDXS6Z9oavAZxi0LG4jbfaAB05YiFEpOEIcKc5qm32Tn8spM3ZuKrV8eEkFlGfAoE3lHHp93ywAtbBC1TtSR8JTRhLVEk6Afcz0xPcm0gnql7ANK2gHPLjLJ1MHjBOCFQaREB+ATGTCGU83yQ7msm8HJJd0=;fmY9ynlTTyR26GztQFm7Zw=="
 ---

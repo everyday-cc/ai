@@ -89,6 +89,15 @@ related:
         width: 931
         height: 465
         isCached: true
+  - title: "Mark Zuckerberg says AI boosts monetization by 30% on Instagram, 40% on Facebook"
+    excerpt: "The core business for Meta since the early days of Facebook has been advertising sales, which still account for 98% of the company’s quarterly revenue. So naturally, enhancing advertisements with A.I."
+    publishedDateTime: 2023-04-27T18:21:00Z
+    webUrl: "https://www.aol.com/finance/mark-zuckerberg-says-ai-boosts-181123857.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 14
 
 secured: "ik+Bvs0KEQJa0eiA6yqXPh57BiQJJk6wTuue80JFZlr20YTbIkrh6gjRxrX4jYKVZo1mkXLUSdgo+obWyDKn2DWd10/xaFQNINXB6Ni3XDLbnb6wnf94DZVtGal3S7oHPr6btxCAyhx46ftG31ci2+nITEV9l2xPgdqUDeJPCMiEHzaPINbKYpxnyHnPs+by6HkGouVrgJcfIe6zTOOiGUWTsw4kKnN59OWHRdJy/rax3dZW68u8uu8blji4Y9rQpdC5cilnIBgmxzm3U1eyPhx6id/iyRxpA4x+5odjpH1pIhMILxCM7v1mE9080BfVXUxaldGtwsnxXmG/vPumP64N60TCbAZFEeMqROo8AxS1jj5hr4HSSed4j900OPoLolygQkQIkrbtW2a/W6WhmwGyZmQQNslW9ehJnsxcc97JYymwid4y0DKd52NEnJS9050Z7FkmWhvXcp5YvmSLh9htPx3g4Fvr/eDRQDeiQxAAIZyJ+avrFs+SqWDzHOrrDl+TiPGvs+Lv+Ns2953IAg==;gtA74Mod70cDemY+4f/ifQ=="
 ---

@@ -33,6 +33,15 @@ related:
         width: 958
         height: 539
         isCached: true
+  - title: "AI Trends In Education And The Workforce That You Should Know About In 2023"
+    excerpt: "The field of Artificial Intelligence is evolving so quickly that nearly every industry is being impacted seemingly overnight."
+    publishedDateTime: 2023-04-27T18:18:00Z
+    webUrl: "https://www.forbes.com/sites/sergeirevzin/2023/04/27/ai-trends-in-education-and-the-workforce-that-you-should-know-about-in-2023/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 62
 
 secured: "3ndTpaovYoVskMRBnK9ZKTnq/lcA8QX/Y/UyyfuWnR4+54sJ8+JLV0WtRYeh2Ujh2MQeXPtPdx/C0Wr67eCSQee/w3/HKdNhHpwe7CPLKV2b/2ELK4SoMLVXiqJbI1xin0QVb5aLBHaH8hlP8/bcrsIdmOvmaCsEfI2j4h8Z07TyWbVOex1w4wmq9fEIwWxFRmADmNv+TebxcyTdkYeZWZw0dWZ50ZaOQEQBVETBinm8dyCwFUS5OdbaS1XJWq1hql3tfcVjM2tP1jFxbDsQAl4HFRz/K+2NuYk7E0EnLChfGdBhJx//vrTqJt0Jp4i//X/P34+WIM9r17prQOstls3jB73bOvqJdzXZqJImw5M=;jqhcH3MOIVYlXM8nxSCP6Q=="
 ---

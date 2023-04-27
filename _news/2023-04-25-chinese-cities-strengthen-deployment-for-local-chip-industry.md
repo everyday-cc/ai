@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Canadian creates translation app to help him argue with Chinese parents (PHOTOS)"
+    excerpt: "The creator of the translation app, Binko Chat, says built-in AI tech has allowed him to communicate with his parents like never before."
+    publishedDateTime: 2023-04-27T19:26:00Z
+    webUrl: "https://dailyhive.com/canada/canadian-binko-chat-translation-app-communicate-chinese-parents"
+    type: article
+    provider:
+      name: Daily Hive
+      domain: dailyhive.com
+    quality: 0
 
 secured: "m0qwO+T+B57sKqQ9ZzUfPMdJ/y03RGDlkmcpIc30K/Ed/foELWUN6JgXnGPnEEyRMqdyOVJh72zfBj4LSpXmp8ByNTxjk+K76tD9C3oREENKMRO5JiKx6TSZUBP9FAgoe7vHJkz9ZA5Rcr7mDlZE9VWXvkbCadCpIIPL7G2+QQsFuqMH0tSt5o7gEaa3Qh+vfqHPeapWs43oKtHIFfzBw1l+R9Rh0nsZNC6bmY7bPVrVPfyswhb+LHT2XRU/vWzkoshvXGUTpJkU2as8b+QhZJ0LyHLt1TodepPqcbHMI1tasqUhKxTenxWsOE7WabYE2lnrT8bUJnhOp5lYzdGTxd1Y8EXXMKxugooFWyuu2Vc=;lL4r5qE+MNPRtHZpAQylHQ=="
 ---

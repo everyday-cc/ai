@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/newsletters/2023-04-24/ai-to-help-f
 webUrl: "https://www.bloomberg.com/news/newsletters/2023-04-24/ai-to-help-fight-next-public-health-crisis-top-chinese-scientist-says"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "Canadian creates translation app to help him argue with Chinese parents (PHOTOS)"
+    excerpt: "The creator of the translation app, Binko Chat, says built-in AI tech has allowed him to communicate with his parents like never before."
+    publishedDateTime: 2023-04-27T19:26:00Z
+    webUrl: "https://dailyhive.com/canada/canadian-binko-chat-translation-app-communicate-chinese-parents"
+    type: article
+    provider:
+      name: Daily Hive
+      domain: dailyhive.com
+    quality: 0
 
 secured: "9XdPycz117H2bPGKno05IEUCf41R0MweyL9/NU7rlzd25PF5xUm1awhDXFQtKwauIKzxVb/q8m8oYqkiimWdQBfge239gtnYkIKC+7rPka+1QwQKMfETnSvzn+WfkPtbftZHl69CjM6hYtwCUk83frnmb9DTqjIFN6XzKoLiFtf9iR+MM+Hz1JlzyQ/7g1gcNlNnZvVrK675dtzk9XYM892fvmIp1d7MSW8ooWEweDFTyZ/kYwByIwTXpbhxaPdxPUEsRT1TxS/w0IBjbO3viutWI8ky8RIlz2klRk+ofS6GunS9yXuAuFTLcx6cG/EMn0BQt6XkdHObgS2b9fvziGBOg5dAQsGWDQTP6MG9tJyQcTTQ1jbayjVJxrMNoMIQdKdJdlPhOdPHqFSETw9iYdJiBc/iVK2IfdTMf8HkLjuG691234AY3WpRnGmXbBn7KjcVGxpqGSqYq0J8F+QBHqCQR2hQ2dITavaNguL/TarI1G5VhLLWwA92PEmciqnXD6K5My/Xl09aDpSCnTivnA==;mFId0Qu6Jdb89LXoh9S6Jg=="
 ---

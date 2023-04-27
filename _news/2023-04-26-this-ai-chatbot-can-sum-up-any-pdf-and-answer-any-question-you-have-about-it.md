@@ -62,6 +62,20 @@ related:
         width: 600
         height: 334
         isCached: true
+  - title: "Oh Great, They Put ChatGPT Into a Boston Dynamics Robot Dog"
+    excerpt: "As if robot dogs weren't creepy enough, at least one is now equipped with OpenAI's ChatGPT and can speak aloud."
+    publishedDateTime: 2023-04-27T20:36:00Z
+    webUrl: "https://futurism.com/the-byte/chatgpt-boston-dynamics-robot-dog"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 39
+    images:
+      - url: "https://wp-assets.futurism.com/2023/04/chatgpt-boston-dynamics-robot-dog.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "9IT1bickjtFM9TTA6KPcVPq6FIwZn3sGHIbNycQ6jhy9FH6b4PAsdcGEWUoyTfXuUz7rA1Yrj1mMxJhbrG4JYfnc76TannzeaYDEaJYUoCGwvLYZiR0+mHFCIdZtFU2K+Nx8cJkayBEUiFAAkOO+WM5fGNsc9liuIxc5ygm30MNX81LD6bBJ5yAHZpl2b9RuVORxexEFmIyqB4KzJ/ujr6bagyRnwxs9qMBz+m9lZpSfPMqXRBbjOEh8VoB3WLtRM8qURRlCmSygmatr8lueDbplDsDD9dXxyI0Q4FpyQcNdSkRQVW6c2chtYkjc0/tgFFRlpFLBS/QR0ASQ9zEo4TjNhjTG4hRu917WIqSoxE4=;IScMoLdOdiBAPLElgJZCnw=="
 ---

@@ -93,6 +93,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tiny Machine Learning Market 2023 Projected Revenue Figures, Growth Rate Throughout the Forecast Period 2030"
+    excerpt: "The Global \"Tiny Machine Learning Market Size\"2023 research report covers explicit information regarding the development rate, market estimates, drivers, limitations, future-based demand, and revenue during the forecast period."
+    publishedDateTime: 2023-04-27T06:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/tiny-machine-learning-market-2023-projected-revenue-figures-growth-rate-throughout-the-forecast-period-2030-2023-04-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "MYXbga5UhA3Ajc8caeEmmKFlHuMVOhvmwcAgeM5swEHxA2ONfhkItHPijs4QZsadp/0xZIySJGea4nT0cdM+PlLKS7D40r/ErGqgHu1j4t7VdF9QvTwI4bGeUf+IfxC3gVjgdP0tjyE5FUKRIuL5m/IRlZ/A7GPLVe5wYjGDpXF2cjnoxjHFir76CVMNN7evdxXoKXevE/lV/u4VcuK/80s5PuYM7Cy+tUpSvlm6v1+22dFjepVlYIPm0Zu3DZzSchCgZ7GDG/g+B3eEaNsTVnN6Z2aVCO4wqCsFqasSgOpCmwM/vZZwXpnpvmHfJcSBoaeF7T0Uyg6P3x/0CY1NrzfFF2gGSotH02EMxwAphCI=;wTlG3ufMnvxxhfOdy2f+ug=="
 ---

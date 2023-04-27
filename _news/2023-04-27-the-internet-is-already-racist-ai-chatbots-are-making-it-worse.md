@@ -88,6 +88,38 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Snapchat's new AI chatbot is already raising alarms among teens, parents"
+    excerpt: "Snapchat's AI chatbot is facing backlash not only from parents but also from some Snapchat users who are bombarding the app with bad reviews in the app store."
+    publishedDateTime: 2023-04-27T21:50:00Z
+    webUrl: "https://abc7chicago.com/snapchat-ai-chatbot-artificial-intelligence/13190393/"
+    ampWebUrl: "https://abc7chicago.com/amp/snapchat-ai-chatbot-artificial-intelligence/13190393/"
+    cdnAmpWebUrl: "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/snapchat-ai-chatbot-artificial-intelligence/13190393/"
+    type: article
+    provider:
+      name: ABC 7 Chicago
+      domain: abc7chicago.com
+    quality: 56
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/13164354_042023-wls-snapchat-ai-7pvo-vid.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Snapchat's new AI chatbot is already raising alarms among teens and parents"
+    excerpt: "The feature is powered by the viral AI chatbot tool ChatGPT – and like ChatGPT, it can offer recommendations, answer questions and converse with users."
+    publishedDateTime: 2023-04-27T19:49:00Z
+    webUrl: "https://www.wmur.com/article/snapchats-ai-chatbot-raising-alarms/43729456"
+    ampWebUrl: "https://www.wmur.com/amp/article/snapchats-ai-chatbot-raising-alarms/43729456"
+    cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/snapchats-ai-chatbot-raising-alarms/43729456"
+    type: article
+    provider:
+      name: WMUR
+      domain: wmur.com
+    quality: 55
+    images:
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-824abf0991d3efa93a1eaf912b2c3be1-h-298c97ee32e1099ebd7b0fc43dcce1c7-jpg-644ada9152f7a.jpg?crop=0.905xw:0.763xh;0.0240xw,0.146xh&resize=1200:*"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Chatbots and the new AI: What will Silicon Valley unleash upon the world this time?"
     excerpt: "All will be impacted by Silicon Valley’s latest creation: “generative” artificial intelligence. With new chatbots and AI software that generates text, images and sound, technology companies have smashed open Pandora’s Box,"
     publishedDateTime: 2023-04-25T13:10:00Z
@@ -103,6 +135,20 @@ related:
       - url: "https://www.eastbaytimes.com/wp-content/uploads/2023/04/2023dmt6.png?w=1024&h=569"
         width: 1022
         height: 568
+        isCached: true
+  - title: "New artificial intelligence feature comes to Snapchat"
+    excerpt: "I’m here to chat with you and keep you company! Is there anything you’d like to talk about?” my Artificial Intelligence asked me. The second I questioned its arrival, I didn’t enjoy the idea of this robot “keeping me company."
+    publishedDateTime: 2023-04-27T14:45:00Z
+    webUrl: "https://www.inklingsnews.com/b/2023/04/27/new-artificial-intelligence-feature-comes-to-snapchat/"
+    type: article
+    provider:
+      name: Inklings
+      domain: inklingsnews.com
+    quality: 39
+    images:
+      - url: "https://www.inklingsnews.com/wp-content/uploads/2023/04/Screenshot-2023-04-27-at-10.17.35-AM-900x501.png"
+        width: 900
+        height: 501
         isCached: true
   - title: "Japanese AI researchers advise chatbot users to be aware of pros and cons"
     excerpt: "Japanese researchers specializing in artificial intelligence are advising caution when using generative AIs, saying the technology is still a work in progress."

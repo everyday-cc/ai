@@ -61,6 +61,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 14
+  - title: "PInecone, an AI-related startup with Bay Area roots, has scored $100M in funding"
+    excerpt: "But while it also has a hub in Tel Aviv, Israel, the startup retains strong ties to the Bay Area. A large portion of its team is in the San Francisco-San Jose region, as is Bob Wiederhold, its president,"
+    publishedDateTime: 2023-04-27T16:28:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/news/2023/04/27/ai-startup-with-bay-area-roots-scores-big-funding.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 12
 
 secured: "sPtc6z8jeiCCPmqfUniMe44TK+3gzd9AJG+Uhylj0Usz/noAUl/sQHiKAQU6/Rh7Jt8lMbPqWMp+NQjW4p9sI3tW33yVqoHqGfd103kT5tj1QvUcIu0Ar6pt9PK7qEU5z2AncoFQ2cMAn96snurfdU8g4b1xvyOJy4iXLGe2Bsi66aw5+qn/Q+p1a+XVOH37nTuQ4Hsw+th5vRhia3Z3myxQJb/vYgrWYzVExOuyB8MlnCyLSLbzgKkUlp78RtEhvyVenMzoQwaAImcmSlMUIkSp9+vWWENZyILgiU2ceTO9s8QobMwyrxaxFmeSBwKgVv3dL37OL8AfbSI7MkLAaDSwQBESBNbTzm0mlNoe902xnsi+ReEYZX6s7m+g2q7XRXjMaIyrKkb7cql69mQg65NhvGBOKSNgJr0fMi8o0kFgDmAse/U2seKVe4t5AwMm04UNWn/lNiBmKfOI06dPRl5k0WrJZRrqiq6XsKEstniYp3vcj9/gDGZpGmfSsc/iLV9VHnBXY4Vkt5lKDl2xEQ==;ZJiM1XvpHoiq9RoE1RzLmw=="
 ---

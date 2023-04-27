@@ -94,22 +94,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "5 things ChatGPT (and GPT-4) can’t solve in financial services…yet"
-    excerpt: "New products and compliance are just two of the things humans, rather than LLMs and generative AI models like ChatGPT, still need to handle."
-    publishedDateTime: 2023-04-23T01:10:00Z
-    webUrl: "https://venturebeat.com/ai/5-things-chatgpt-and-gpt-4-cant-solve-in-financial-services-yet/"
-    ampWebUrl: "https://venturebeat.com/ai/5-things-chatgpt-and-gpt-4-cant-solve-in-financial-services-yet/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/5-things-chatgpt-and-gpt-4-cant-solve-in-financial-services-yet/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 74
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/04/chatGPT-financial-problem.jpg?w=1200&strip=all"
-        width: 1024
-        height: 613
-        isCached: true
   - title: "Google creates DeepMind division to combat threat from ChatGPT and Bing AI"
     excerpt: "The rate of AI development is seemingly speeding up each day, and Google is one of the biggest players in the game. The teams have an impressive history of achievements in AI coll"
     publishedDateTime: 2023-04-24T13:37:00Z

@@ -29,20 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Cloud Natural Language Processing Market New Technologies and Current Trends Analysis Growth Forecast to 2033"
-    excerpt: "Cloud Natural Language Processing Market Was Valued At USD 17.7 Billion In 2023 And Is Reach To USD 195.23 Billion By 2033 At A CAGR Of 27.13% Firstly, the report adds a market definition that gives a brief idea about the Cloud Natural Language Processing market."
-    publishedDateTime: 2023-04-27T05:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-new-technologies-and-current-trends-analysis-growth-forecast-to-2033-2023-04-27"
+  - title: "Robotics as a Service (RaaS) Market 2023 Industry Size, Shares, Segment and Forecast up to 2031"
+    excerpt: "Global Robotics as a Service (RaaS) Market is valued at approximately USD 1.3 billion in 2021and is anticipated"
+    publishedDateTime: 2023-04-27T07:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/robotics-as-a-service-raas-market-2023-industry-size-shares-segment-and-forecast-up-to-2031-2023-04-27"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+    quality: 52
 
 secured: "qtpiDC/FrANAaH94l/KkVMh8qFRTFyJCh9EZ8PAu7QteziaZlq8S1G6SVd7YpKPGjQnVQLDsT+wnrV0h8NtZgMRRRTu0lQIEDp54aDL5gQMR99I+viO4UOusy92Njg76fNSTgZf5xxeUddpC9B/Bow2vT4oWcP/uedx1rByXV3AZ2o963AIeYFBaC4KLRqij8IWWJUuuEetehBUKGWmskVNOP1lLXXhytJeDO2K4mULsU6smDvvIuykMhi79KMTgxWWd9p03/DdlXHurlp3N8FwRAN1j5rYvLLMZ2NnHJIdZB6Xz2T38XjYlIIzOVv46nc2mh/ZFFcg03Tk36hV6c9KqwnEPqvQy+yg0b2q5MEs=;gIFbX48VqJkCAkto7SqRwQ=="
 ---
