@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/michaelbernick/2023/04/25/harnessing-th
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelbernick/2023/04/25/harnessing-the-power-of-ai-for-job-seekers-and-recruiters/amp/"
 type: article
 quality: 87
-heat: 117
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "The power of infrastructure purpose-built for AI"
+    excerpt: "Advances in powerful computing and the cloud are at the heart of the AI revolution. With faster, more efficient processing of vast amounts of data, companies can break through the"
+    publishedDateTime: 2023-04-26T20:20:00Z
+    webUrl: "https://venturebeat.com/ai/the-power-of-infrastructure-purpose-built-for-ai/"
+    ampWebUrl: "https://venturebeat.com/ai/the-power-of-infrastructure-purpose-built-for-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-power-of-infrastructure-purpose-built-for-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/04/AdobeStock_564311673.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 686
+        isCached: true
   - title: "Unleashing the Power of Deep Learning in 2023: A Vision for AI’s Future"
     excerpt: "Deep learning has emerged as a revolutionary technology within data science, enabling businesses to extract valuable insights from their data like never before. In the era of data-driven technology, deep learning offers businesses a competitive advantage by utilizing advanced neural networks to build intelligent applications."
     publishedDateTime: 2023-04-24T08:13:00Z
@@ -58,15 +74,15 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Harnessing Artificial Intelligence for a Cutting-Edge Tsunami Early Warning System"
-    excerpt: "Real-time classification of underwater earthquakes based on acoustic signals enables earlier, more reliable disaster preparation. Researchers have developed an AI-powered early warning system for tsun"
-    publishedDateTime: 2023-04-25T15:00:00Z
-    webUrl: "https://scitechdaily.com/harnessing-artificial-intelligence-for-a-cutting-edge-tsunami-early-warning-system/"
+  - title: "Empower - Not Overpower - With AI In The Healthcare Industry"
+    excerpt: "With human knowledge and experience still being the number one driver in the healthcare industry, it is a perfect example of how AI can empower, not overpower to achieve better results, and improve the quality of the patient's experience and their life."
+    publishedDateTime: 2023-04-26T13:51:00Z
+    webUrl: "https://www.thehealthsite.com/diseases-conditions/empower-not-overpower-with-ai-in-the-healthcare-industry-972979/"
     type: article
     provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 11
+      name: TheHealthSite
+      domain: thehealthsite.com
+    quality: 34
 
 secured: "LyFSMLEAnU5MK3xm5vp0gtKNBNFR4PsS0FdYw1oBUvlFM6Qai3fdNUPPsfxTW92gZfNDZcAjOi/HTE7G0E9Qqgoh6Bn6fJOKU/7K57sCu/2zQ2Gx+4N3NDNX477Ed+qqgNw0Y5eU2T4UGxXGq1Qg6mt+v8lIf1sFIYs34lmbCMlFjdITyQtj1A6krjjoZFbiZMLUhztwb9gveIIFh/eGPmcPaz33IrDfd0etVs6f04dz+0lYId6OthA78ouAwdvBLL1lfkFcoi9u4qY+VpgBC3hjsBlFcRaNK27uTOale9ouFTgPVtT9d+SjhSUqYidFJGaT4tS7wh8eVKwPzCMRDhG3fY4ci/5vWHUNSOwJxPQ=;Gcw//Mt3HbWCGNwgsW/dhw=="
 ---

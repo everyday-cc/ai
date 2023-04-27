@@ -2,6 +2,110 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-04-18-elon-musk-plans-truthgpt-ai-to-rival-openai-deepmind.md",
+      "title": "Elon Musk plans 'TruthGPT' A.I. to rival OpenAI, DeepMind",
+      "excerpt": "Tesla, SpaceX and Twitter CEO Elon Musk called for regulation of AI during a taped interview that aired on Fox News Channel's \"Tucker Carlson Tonight.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/04/18/musk-calls-plans-truthgpt-ai-to-rival-openai-deepmind.html",
+      "originalUrl": "https://www.cnbc.com/2023/04/18/musk-calls-plans-truthgpt-ai-to-rival-openai-deepmind.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107183730-1674656520668-gettyimages-1246506636-TESLA_MUSK_COURT.jpeg?v=1681820167",
+          "width": 4000,
+          "height": 2667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/04/18/musk-calls-plans-truthgpt-ai-to-rival-openai-deepmind.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/04/18/musk-calls-plans-truthgpt-ai-to-rival-openai-deepmind.html",
+      "publishedDateTime": "2023-04-18T05:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-18-19-ways-ai-may-soon-revolutionize-the-healthcare-industry.md",
+      "title": "19 Ways AI May Soon Revolutionize The Healthcare Industry",
+      "excerpt": "From managing administrative tasks to analyzing big data to help diagnose disease, AI may soon be enhancing and accelerating cutting-edge patient care.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/18/19-ways-ai-may-soon-revolutionize-the-healthcare-industry/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/18/19-ways-ai-may-soon-revolutionize-the-healthcare-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/643d9fea07da9e511fae41f3/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/18/19-ways-ai-may-soon-revolutionize-the-healthcare-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/18/19-ways-ai-may-soon-revolutionize-the-healthcare-industry/amp/",
+      "publishedDateTime": "2023-04-18T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-18-nexcobot-collaborates-with-ecosystem-partners-to-build-first-x86-functional-safety-robot-control-solution.md",
       "title": "NexCOBOT collaborates with ecosystem partners to build first x86 functional safety robot control solution",
       "excerpt": "NexCOBOT and its ecosystem partners, will announce the launch of a new functional safety robot control solution in Hannover Messe 2023. NexCOBOT's PC-based robot control platform-SCB100 ...",
@@ -1044,110 +1148,6 @@
         "AI",
         "AI in Robotics",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-04-18-bing-could-cost-google-23-billion-in-search-revenue.md",
-      "title": "Bing Could Cost Google $23 Billion In Search Revenue",
-      "excerpt": "Google has been worried about A.I.-powered competitors since OpenAI demonstrated a chatbot called ChatGPT in November.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/petercohan/2023/04/17/bing-could-cost-google-23-billion-in-search-revenue/",
-      "originalUrl": "https://www.forbes.com/sites/petercohan/2023/04/17/bing-could-cost-google-23-billion-in-search-revenue/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/643d53f7884efb12b73bf6f9/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 732,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/petercohan/2023/04/17/bing-could-cost-google-23-billion-in-search-revenue/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2023/04/17/bing-could-cost-google-23-billion-in-search-revenue/amp/",
-      "publishedDateTime": "2023-04-17T11:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-18-insights-into-the-robotics-in-entertainment-market-growth-and-future-prospects-with-projected-cagr-rate-10-for-period-2023-2030.md",
-      "title": "Insights into the Robotics in Entertainment Market Growth and Future Prospects with projected CAGR rate 10% for period 2023-2030",
-      "excerpt": "The global Robotics in Entertainment market size is projected to reach multi million by 2030, in comparision to 2021, at unexpected CAGR during 2023-2030 (Ask for Sample Report). As a consultant or industry expert in the field of robotics,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/insights-into-the-robotics-in-entertainment-market-growth-and-future-prospects-with-projected-cagr-rate-10-for-period-2023-2030-2023-04-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/insights-into-the-robotics-in-entertainment-market-growth-and-future-prospects-with-projected-cagr-rate-10-for-period-2023-2030-2023-04-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-17T11:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

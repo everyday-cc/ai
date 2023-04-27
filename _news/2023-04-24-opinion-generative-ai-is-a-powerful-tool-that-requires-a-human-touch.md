@@ -60,6 +60,17 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 47
+  - title: "Artificial Intelligence Can Create, But Lacks Creativity, Say Critics"
+    excerpt: "Artificial intelligence, or AI, could potentially transform arts and entertainment, from music to movies, but it is also raising concerns. Is AI a creative tool or a threat to creators and artists? VOA’s Mike O’Sullivan examines the question."
+    publishedDateTime: 2023-04-27T01:26:00Z
+    webUrl: "https://www.voanews.com/a/artificial-intelligence-can-create-but-lacks-creativity-say-critics/7068177.html"
+    ampWebUrl: "https://www.voanews.com/amp/artificial-intelligence-can-create-but-lacks-creativity-say-critics/7068177.html"
+    cdnAmpWebUrl: "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/amp/artificial-intelligence-can-create-but-lacks-creativity-say-critics/7068177.html"
+    type: article
+    provider:
+      name: Voice of America
+      domain: voanews.com
+    quality: 37
 
 secured: "5m5lOhkA/vvsjPrRZS3ZwdvGtqHC+todILu+8lQzUkjhrbEKGT8pT80d6KrwQOSBg/XHWXbcAFr9ILOL/Hqj2ypS7d3ZvC/RgcvjkTMnUwbXme6WVb6phocuZOnkJG236DdyVgVLM1dG9X63727d5kGxr41Gzc97N3T6BKqZ1UHcTtnKsluw3pqkMLsAlAoj9eYpkqeRa+4jJmMgbPRE8FW5k+wJfmd0XiMm4BQHItZ4f8RZxvEWJXlK2ebLzwsYCy6WbdaiSo4+OloCvahGy5iQYzCkX5/NB6OZpOoJ5j2hF6+6CeOZWIDEs3MRfmtixKyARmjD91gwPLvLDXHZ2f1FsD7mDhky/XU/cP9pKkxuhZ+p+LM45GmzXOwWfUbN8GHoRqjKwZPAKYvFn5msVK7Yr5QxyXUjcueySTICXj7gh+Hj8SVHKIado58ZX4j5fkKvOgwutflYRXYTLYXsyP1qB972AW/ZkpIUysNVp1b3OUWiSd3L0V4IYkNpEGFFtM1q9U7Hr4idUuG+mpgcQQ==;xdaLa7Pk5B2Tf20ctOWFMQ=="
 ---

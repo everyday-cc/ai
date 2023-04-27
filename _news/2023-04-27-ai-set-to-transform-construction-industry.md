@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxbusiness.com/technology/ai-disrupt-construction-indus
 cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/ai-disrupt-construction-industry.amp"
 type: article
 quality: 57
-heat: 87
-published: true
+heat: 67
+published: false
 
 provider:
   name: Fox Business
@@ -26,24 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Can Artificial Intelligence Help The Film Industry? It Already Is."
-    excerpt: "Monica Landers, founder and CEO of StoryFit, is using artificial intelligence to help the film industry with scripts and characters. And it's not ChatGPT."
-    publishedDateTime: 2023-04-24T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/danpontefract/2023/04/24/can-artificial-intelligence-help-the-film-industry-it-already-is/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "Artificial Intelligence In The African Asset Management Industry: Four Factors To Consider Before Developing A Strategy"
-    excerpt: "Discussions about AI’s potential to disrupt enterprises, business models and entire industries have become mainstream. With the advanced data processing speed that AI affords, smaller asset management firms can now onboard clients faster using AI enabled know-your-customer (KYC) software."
-    publishedDateTime: 2023-04-25T12:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/04/25/artificial-intelligence-in-the-african-asset-management-industry-four-factors-to-consider-before-developing-a-strategy/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 23
   - title: "Dallas-Based AI Platform Worlds Forms Strategic Advisory Board with Industry Giants to Lead Automation in Industrial Metaverse"
     excerpt: "Dallas-based AI platform Worlds has formed a 2023 Strategic Advisory Board that includes prominent industry leaders from manufacturing, distribution, transportation, logistics, national defense, and government sectors."
     publishedDateTime: 2023-04-25T00:27:00Z

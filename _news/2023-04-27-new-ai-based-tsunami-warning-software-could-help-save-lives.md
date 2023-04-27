@@ -34,6 +34,15 @@ related:
         width: 1920
         height: 1676
         isCached: true
+  - title: "Harnessing Artificial Intelligence for a Cutting-Edge Tsunami Early Warning System"
+    excerpt: "Real-time classification of underwater earthquakes based on acoustic signals enables earlier, more reliable disaster preparation. Researchers have developed an AI-powered early warning system for tsun"
+    publishedDateTime: 2023-04-25T15:00:00Z
+    webUrl: "https://scitechdaily.com/harnessing-artificial-intelligence-for-a-cutting-edge-tsunami-early-warning-system/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 11
 
 secured: "bydIH8sTVFZ19aBchwk2U61A2pVPVvHemv+TCzAPdjQHItxaisxFcKRMDt6y9YzT/X1nNtXVaUefG2O6w1u5qvQynsO6l+btVzYIcZ4bqtBfbbQwM4O6KrdUtgoV4xGzPczM+GA0FNqleTlHuddPUjIY5bYoOpbD1ZWOX6eZwM+tUeSeUFQ8j79B6+an3t3Tq53lkXpwrD4yLvSnUA3xiIiD7fyn5oa3L8XyvDdhlaR+P0z8eAPFXQkMCY6uDtYwqowAO2YyEPopRW6++aL3wSFhxoJYS6LBVNaXKI4Q7nvfwbRNwsFm98GOUiSVuP4iTXuvnrDw6tLdgDh8vM3xM+sEJHo8F61lk3Yx1EIaxkwztaJYkQGPmmUW3lX4y6L3ga5h3FUgwtLPrMWuwfgBJND5EQwlbbLPqjGZruXC8FaJOKrTQJR2GGRrxfi5Qeh+8CI4o5igNkzTwU6b0MXHuVeOfqyZBVNEWwcOdhd/CilORTBnj/A39UJU6tTdf6ENvL3oINP0HVpOxpo5FBv7yQ==;SRsQrzdiKOzSKJ5fsCTiaQ=="
 ---

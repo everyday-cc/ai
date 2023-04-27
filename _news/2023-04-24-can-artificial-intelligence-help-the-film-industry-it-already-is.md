@@ -22,21 +22,21 @@ topics:
   - AI
 
 related:
-  - title: "AI set to transform construction industry"
-    excerpt: "Artificial intelligence tools like ChatGPT could revolutionize the construction industry, according to an industry insider who is using the tool and finding spectacular results."
-    publishedDateTime: 2023-04-26T21:00:00Z
-    webUrl: "https://www.foxbusiness.com/technology/ai-disrupt-construction-industry"
-    ampWebUrl: "https://www.foxbusiness.com/technology/ai-disrupt-construction-industry.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/ai-disrupt-construction-industry.amp"
+  - title: "The Ascendancy Of AI In Asia’s Financial Services Industry"
+    excerpt: "As AI matures and becomes more widely integrated into business operations, this trend is set to accelerate At the same time, both the financial industry and regulators know that there are challenges and risks associated with AI that must be addressed Indeed,"
+    publishedDateTime: 2023-04-27T01:34:00Z
+    webUrl: "https://www.forbes.com/sites/zennonkapron/2023/04/26/the-ascendancy-of-ai-in-asias-financial-services-industry/"
+    ampWebUrl: "https://www.forbes.com/sites/zennonkapron/2023/04/26/the-ascendancy-of-ai-in-asias-financial-services-industry/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zennonkapron/2023/04/26/the-ascendancy-of-ai-in-asias-financial-services-industry/amp/"
     type: article
     provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 57
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/2c2f1e14-7e3f-4124-bc88-4b05fbc1ee26/cd3bfd40-0cfd-4fb8-95a6-f1670b2e3598/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6445de39b964f059b2fa527d/0x0.jpg?format=jpg&width=1200"
+        width: 800
+        height: 500
         isCached: true
   - title: "Artificial Intelligence In The African Asset Management Industry: Four Factors To Consider Before Developing A Strategy"
     excerpt: "Discussions about AI’s potential to disrupt enterprises, business models and entire industries have become mainstream. With the advanced data processing speed that AI affords, smaller asset management firms can now onboard clients faster using AI enabled know-your-customer (KYC) software."
@@ -47,20 +47,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 23
-  - title: "Dallas-Based AI Platform Worlds Forms Strategic Advisory Board with Industry Giants to Lead Automation in Industrial Metaverse"
-    excerpt: "Dallas-based AI platform Worlds has formed a 2023 Strategic Advisory Board that includes prominent industry leaders from manufacturing, distribution, transportation, logistics, national defense, and government sectors."
-    publishedDateTime: 2023-04-25T00:27:00Z
-    webUrl: "https://dallasinnovates.com/dallas-based-ai-platform-worlds-forms-strategic-advisory-board-with-industry-giants-to-lead-automation-in-industrial-metaverse/"
-    type: article
-    provider:
-      name: Dallas Innovates
-      domain: dallasinnovates.com
-    quality: 9
-    images:
-      - url: "https://s24806.pcdn.co/wp-content/uploads/2023/04/Worlds-courtesy-industrial-metaverse.jpg"
-        width: 970
-        height: 463
-        isCached: true
 
 secured: "4oWRy7dWY6Qo15ZA2Vp4cHRA6Up080HeNemchZPylW3b6Y02q0z/Sbd1UL9bibC5kYcLRwGqj7kiRdqRQarh9p62Uaf5EsT9tQL7qKDpiFLPN/73pR/sgPX6KdsaFXdOR2OoO3OW/AHB15SznDY8JxwGn5NWV76gky9KOpm6Ni92evMdOeJIMjPqRTvDBF/0x2wBFNR6/M7I6FjrajtVQi2qn9ZJI4J2du3VkSPWcfmdO5MH+OVFhT6HzyxQUgpNY0IeKCOKHgWAoSHMH/JxM2kNXsrIQgsNjvyI2E+7+SLEJ8RAN1i6/Pz6lZgJtMTYRVpYELXZVecBdhhwVbRISWNJYe6wSJSjA8/qhK7NDb3f6DHGDf29QtzTKTMF0BxutwIOP5WYTaum/eE7zxVx4WopVF72/AF/yRIrwBPW/VLF9bS3AsGuBycN2dOcrj59m1jIabQrJGSlhbXuIt+6fdu/Psa1ah4hAZxd4x69KvT8dCc3deiksmDgVYm69xCAJ2Uh8fo/bNVgiCXnIgjSEg==;Da8OBRNPpXQEJbOwF9jTCg=="
 ---

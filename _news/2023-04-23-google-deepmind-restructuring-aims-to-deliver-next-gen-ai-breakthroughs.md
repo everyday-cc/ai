@@ -9,7 +9,7 @@ ampWebUrl: "https://cointelegraph.com/news/google-deepmind-restructuring-aims-to
 cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/google-deepmind-restructuring-aims-to-deliver-next-gen-ai-breakthroughs/amp"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Google Unveils DeepMind: Merging AI Powerhouses for a Better World"
+    excerpt: "Google recently announced the formation of Google DeepMind, a joint venture that combines Alphabet Inc's DeepMind and Google Research's Brain team. The collaboration is set to further expand ..."
+    publishedDateTime: 2023-04-25T02:36:00Z
+    webUrl: "https://yourstory.com/2023/04/google-deepmind-merging-ai-leaders"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 54
+    images:
+      - url: "https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/64410a99d52cf88103c4b88cGDM169-1682088724409.jpg?fm=png&auto=format"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Google Merges DeepMind and Brain AI Units"
     excerpt: "Google has merged its artificial intelligence research units, DeepMind and Brain, to form a new unit called Google DeepMind. Google acquired DeepMind in 2014. The firm combines machine learning techniques with neuroscience systems to build learning algorithms for eCommerce and games development."
     publishedDateTime: 2023-04-24T23:32:00Z

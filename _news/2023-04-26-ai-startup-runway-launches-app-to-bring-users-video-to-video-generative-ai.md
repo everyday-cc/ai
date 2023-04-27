@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/04/25/ai-startup-runway-launches-app-to-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/04/25/ai-startup-runway-launches-app-to-bring-users-video-to-video-generative-ai/amp/"
 type: article
 quality: 85
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -30,6 +30,17 @@ images:
     isCached: true
 
 related:
+  - title: "AI startups to watch"
+    excerpt: "AI is taking over the startup world. Here are the companies to keep your eye on. Cat Francis/American Inno Amid a turbulent year for the tech sector, one that has brought layoffs, funding ..."
+    publishedDateTime: 2023-04-22T09:59:00Z
+    webUrl: "https://www.bizjournals.com/bizjournals/news/2023/04/21/ai-startups-to-watch.html"
+    ampWebUrl: "https://www.bizjournals.com/bizjournals/news/2023/04/21/ai-startups-to-watch.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/bizjournals/news/2023/04/21/ai-startups-to-watch.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 37
   - title: "Yelp rolls out AI, video to enhance business searches"
     excerpt: "The review platform Yelp is getting its \"most significant update in recent years\" featuring some of today's trendiest technologies."
     publishedDateTime: 2023-04-25T07:00:00Z

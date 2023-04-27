@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "U.S. Officials Raise Concerns About AI’s Cybersecurity Implications"
+    excerpt: "Rush to deploy ChatGPT and other models may leave organizations open to unknown threats, hacks, cybersecurity officials say."
+    publishedDateTime: 2023-04-26T23:06:00Z
+    webUrl: "https://www.wsj.com/articles/u-s-officials-raise-concerns-about-ais-cybersecurity-implications-f32496ed?mod=latest_headlines"
+    ampWebUrl: "https://www.wsj.com/amp/articles/u-s-officials-raise-concerns-about-ais-cybersecurity-implications-f32496ed"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/u-s-officials-raise-concerns-about-ais-cybersecurity-implications-f32496ed"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 87
+    images:
+      - url: "https://images.wsj.net/im-770952/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Palo Alto Networks automates cybersecurity with machine learning"
     excerpt: "Palo Alto Networks uses 3rd Gen Intel® Xeon® Scalable processors and Intel software in the cloud for its Cloud-Delivered Security Services to boost machine learning and inferencing performance."
     publishedDateTime: 2023-04-24T15:58:00Z
@@ -76,7 +92,12 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 14
+    quality: 34
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/04/IMG_7334.jpg"
+        width: 1918
+        height: 1279
+        isCached: true
 
 secured: "1dIBZvjK4G96BlT9QPOBpArNZmOjtSZM699YIQY1dGkAyeW6iG5YxVpMaD5q3Kh9N4NbmoA/NMHOmX6vH/lLv4XtRR1MyX6BciR4G+uQybWOokZTjUsnl04Cmhp2ZB7IsVX+19VW0BtS1cp+yxifWYggHsfQq/r1jsgiVGgVCsICwqcPJHX4hLR988gOXiav+I3BhXUeJWQXweAt/hhQLgF+TOWMvWd4iZHsRBxb0mUNrGwFpZD2HhdB3FI/72r2iSNsbKAlS2OJ3bsRNrJri6IxiY/XDQJHKXR+rLqwUhJcbw2Ge2xpco52JsftwRAgn3ui5tfdMgTjhese4ioXs4Gamp+//R3f/fIW1l+2u+Y=;WBDsO/Se8KRBObW1HOMorA=="
 ---

@@ -51,6 +51,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Deep Learning Software Market Future Trends Outlook 2023, and Forecast to 2030 | Microsoft, Google, IBM"
+    excerpt: "The most important motive of Deep Learning Software Market studies is to collect the maximum beneficial insights for"
+    publishedDateTime: 2023-04-26T06:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-software-market-future-trends-outlook-2023-and-forecast-to-2030-microsoft-google-ibm-2023-04-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 70
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Neural Networks Market Share and Forecast till 2030"
     excerpt: "Newest Report will contain the Competitional Analysis of Top 5 Key Plyers (Intel, Starmind, Clarifai, Microsoft,"
     publishedDateTime: 2023-04-26T00:47:00Z

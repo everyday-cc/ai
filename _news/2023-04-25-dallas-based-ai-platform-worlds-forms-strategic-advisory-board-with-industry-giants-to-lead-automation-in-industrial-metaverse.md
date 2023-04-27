@@ -40,24 +40,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Can Artificial Intelligence Help The Film Industry? It Already Is."
-    excerpt: "Monica Landers, founder and CEO of StoryFit, is using artificial intelligence to help the film industry with scripts and characters. And it's not ChatGPT."
-    publishedDateTime: 2023-04-24T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/danpontefract/2023/04/24/can-artificial-intelligence-help-the-film-industry-it-already-is/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "Artificial Intelligence In The African Asset Management Industry: Four Factors To Consider Before Developing A Strategy"
-    excerpt: "Discussions about AI’s potential to disrupt enterprises, business models and entire industries have become mainstream. With the advanced data processing speed that AI affords, smaller asset management firms can now onboard clients faster using AI enabled know-your-customer (KYC) software."
-    publishedDateTime: 2023-04-25T12:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/04/25/artificial-intelligence-in-the-african-asset-management-industry-four-factors-to-consider-before-developing-a-strategy/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 23
 
 secured: "IOPg3HjAFXvm2yWGnXdfmpN2KDWL3q7rRa0wbYEhV6KEe/RBvNox40f2rrJXOLqDuAOKqbKpi1RvpBcaPloBFzL55+Bg/zL/SpvRiGGgJZ/lcq5x8mMZsVOR6zGFx50Lux/dGbSZHudjFvvCSE6DkYvWwM9C3s1uEAqFSeQReiXzbH0TCHl9pWH10Jx7q2lQQ6FBY850JKcK9/MKZ2TMesGCPpw62170c1ngwZd0EevE7StFaKZ4WHr+wMg70ULmsuwnw8w7UlTN1CfGvukOdcGoPYz1i//WRR2SHlOwDFPKjlj4lCn8r4j0PhV4xmXQgKWNLA56hbctrAYwMBx2ySkdIFrOlSmOHMUoajn2Rz4=;QH5NEtZikDvcuzPbvfav1A=="
 ---

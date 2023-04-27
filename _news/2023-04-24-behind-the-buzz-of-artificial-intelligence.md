@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "The power of infrastructure purpose-built for AI"
+    excerpt: "Advances in powerful computing and the cloud are at the heart of the AI revolution. With faster, more efficient processing of vast amounts of data, companies can break through the"
+    publishedDateTime: 2023-04-26T20:20:00Z
+    webUrl: "https://venturebeat.com/ai/the-power-of-infrastructure-purpose-built-for-ai/"
+    ampWebUrl: "https://venturebeat.com/ai/the-power-of-infrastructure-purpose-built-for-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-power-of-infrastructure-purpose-built-for-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/04/AdobeStock_564311673.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 686
+        isCached: true
   - title: "Harnessing The Power Of AI For Job Seekers And Recruiters"
     excerpt: "\"AI already is proving to be a powerful tool for recruiters, job counselors and most of all job seekers, if they know how to harness it,\" explains RecruiterShare CEO, John Younger. \"The challenge for each of the these three groups is learning how to best harness it."
     publishedDateTime: 2023-04-25T14:03:00Z
@@ -54,15 +70,15 @@ related:
         width: 628
         height: 350
         isCached: true
-  - title: "Harnessing Artificial Intelligence for a Cutting-Edge Tsunami Early Warning System"
-    excerpt: "Real-time classification of underwater earthquakes based on acoustic signals enables earlier, more reliable disaster preparation. Researchers have developed an AI-powered early warning system for tsun"
-    publishedDateTime: 2023-04-25T15:00:00Z
-    webUrl: "https://scitechdaily.com/harnessing-artificial-intelligence-for-a-cutting-edge-tsunami-early-warning-system/"
+  - title: "Empower - Not Overpower - With AI In The Healthcare Industry"
+    excerpt: "With human knowledge and experience still being the number one driver in the healthcare industry, it is a perfect example of how AI can empower, not overpower to achieve better results, and improve the quality of the patient's experience and their life."
+    publishedDateTime: 2023-04-26T13:51:00Z
+    webUrl: "https://www.thehealthsite.com/diseases-conditions/empower-not-overpower-with-ai-in-the-healthcare-industry-972979/"
     type: article
     provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 11
+      name: TheHealthSite
+      domain: thehealthsite.com
+    quality: 34
 
 secured: "oKz6gVGwfjKOy56pIYppV5gaKSqMEghkaEOGnlyZjJ/EgUgovTksLVONCZ31+Hp5PTfa5AaY1Zd820O958ZubgTKs7svbHR7NosM//ZIhkfFeBOhP7MtppChpJKBdAWF0YpcIb0KPkTiVTcjrMAKXwFtjmLctfnK2Z3o+mmnx7fKZ9YeB91Dxun8LXktommCwEIbfWd84kAiSZYGH0g/P6RuFbBWq0YI0DUaYMUx3q7f8q3QdSkNdh09FnWEY5K50mHPvq2NJdHW6m4zUqXoGUVGrTDkV6VsjwNlu1z2ErKjLX2Vm+Atmh3TJrdLOw5bN2T4CKkgRrAwuzeV+0aIqI/OkjzLOj0mIjlUucE+5zs=;FNFSBrNbVjaXBe+vrAOuEQ=="
 ---
