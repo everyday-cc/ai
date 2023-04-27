@@ -205,12 +205,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://everyday.cc/ai/company/viz.ai/</loc>
-    <lastmod>2023-04-24T00:00:00-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://everyday.cc/ai/company/pathai/</loc>
     <lastmod>2023-04-24T00:00:00-07:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -224,6 +218,12 @@
   </url>
   <url>
     <loc>https://everyday.cc/ai/company/vectra.ai/</loc>
+    <lastmod>2023-04-24T00:00:00-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://everyday.cc/ai/company/viz.ai/</loc>
     <lastmod>2023-04-24T00:00:00-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
