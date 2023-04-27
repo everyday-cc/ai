@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Zuckerberg Says Meta Will Add Generative AI To All Its Products"
+    excerpt: "During Meta’s Q1 earnings call, CEO Mark Zuckerberg outlined to investors when and how the company expects to integrate generative AI into its products. But don’t call this a pivot away from the metav"
+    publishedDateTime: 2023-04-27T03:03:00Z
+    webUrl: "https://www.forbes.com/sites/johanmoreno/2023/04/26/zuckerberg-says-meta-will-add-generative-ai-to-all-its-products/"
+    ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2023/04/26/zuckerberg-says-meta-will-add-generative-ai-to-all-its-products/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/04/26/zuckerberg-says-meta-will-add-generative-ai-to-all-its-products/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6449e51aced99251e6bfa396/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 672
+        isCached: true
   - title: "Mark Zuckerberg has become so obsessed with AI that one Wall Street research firm is jesting that Facebook will change its name to MetAI"
     excerpt: "After a Metaverse spending splurge last year, the company has been buying a lot of Nvidia chips, which are needed to train large AI models."
     publishedDateTime: 2023-04-24T22:31:00Z

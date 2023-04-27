@@ -175,6 +175,22 @@ related:
         width: 1000
         height: 1099
         isCached: true
+  - title: "ChatGPT’s Secret Weapon Is Artificial Emotional Intelligence"
+    excerpt: "Alphabet Inc.'s Google are rushing to enhance their search engines with the large language model technology that underpins ChatGPT — but there is good reason to think the technology works better as an emotional companion than as a provider of facts."
+    publishedDateTime: 2023-04-27T02:36:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/chatgpts-secret-weapon-is-artificial-emotional-intelligence-71682528287549.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/chatgpts-secret-weapon-is-artificial-emotional-intelligence-71682528287549.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/chatgpts-secret-weapon-is-artificial-emotional-intelligence-71682528287549.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 44
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2023/04/27/1600x900/USA-AI--0_1682562770511_1682562806556.JPG"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Is ChatGPT using Artificial Emotional Intelligence as its secret weapon?"
     excerpt: "Their designers may also prioritize fluency over accuracy. That is one reason why these tools are exceptionally good at mimicking empathy"
     publishedDateTime: 2023-04-26T06:06:00Z

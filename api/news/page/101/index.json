@@ -2,6 +2,234 @@
   "page": 101,
   "value": [
     {
+      "path": "_news/2023-02-03-how-aws-helps-lovisa-improve-personalised-shopping-experiences.md",
+      "title": "How AWS helps Lovisa improve personalised shopping experiences",
+      "excerpt": "Australia has a strong history of technical innovation, and the launch of a second AWS Region in Australia provides even greater resilience and enables more customers to develop cloud-based applications that help fuel economic development across the country,",
+      "sourceUrl": null,
+      "webUrl": "https://www.retailbiz.com.au/topics/omnichannel/how-aws-helps-lovisa-improve-personalised-shopping-experiences/",
+      "originalUrl": "https://www.retailbiz.com.au/topics/omnichannel/how-aws-helps-lovisa-improve-personalised-shopping-experiences/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.retailbiz.com.au/wp-content/uploads/2023/02/WEB-ONLY-How-AWS-helps-Lovisa-improve-personalised-shopping-experiences_feature-image.jpg",
+          "width": 1920,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-02T20:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "retailbiz.com.au",
+        "domain": "retailbiz.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-03-quad-agrees-to-leverage-machine-learning-to-enhance-cyber-security.md",
+      "title": "Quad agrees to leverage machine learning to enhance cyber security",
+      "excerpt": "Quad, an informal grouping of four countries Australia, India, Japan and the United States, has agreed to leverage machine learning and related advanced technologies to enhance cyber security, the White House has said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/international/quad-agrees-to-leverage-machine-learning-to-enhance-cyber-security-123020300103_1.html",
+      "originalUrl": "https://www.business-standard.com/article/international/quad-agrees-to-leverage-machine-learning-to-enhance-cyber-security-123020300103_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2021-09/24/full/1632506444-4684.jpg",
+          "width": 620,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/international/quad-agrees-to-leverage-machine-learning-to-enhance-cyber-security-123020300103_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/international/quad-agrees-to-leverage-machine-learning-to-enhance-cyber-security-123020300103_1.html",
+      "publishedDateTime": "2023-02-02T19:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-02-03-famed-stock-picker-predicts-amazon-can-have-more-robot-than-human-workers-by-2030.md",
+      "title": "Famed stock picker predicts Amazon can have more robot than human workers by 2030",
+      "excerpt": "Wood went on to say that the world is \"at the dawn of the robotics age,\" with innovations such as artificial intelligence and battery technology also contributing to the developments. She expects ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxbusiness.com/technology/famed-stock-picker-amazon-robot-human-workers-2030",
+      "originalUrl": "https://www.foxbusiness.com/technology/famed-stock-picker-amazon-robot-human-workers-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/adc683dc-de16-40ab-90c8-f350537c6e82/11ba1b2b-fba6-4996-8a9c-bb0cb99ba39f/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxbusiness.com/technology/famed-stock-picker-amazon-robot-human-workers-2030.amp",
+      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/famed-stock-picker-amazon-robot-human-workers-2030.amp",
+      "publishedDateTime": "2023-02-02T19:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox Business",
+        "domain": "foxbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-03-quad-agrees-to-leverage-machine-learning-related-advanced-technologies-to-enhance-cyber-security.md",
+      "title": "Quad agrees to leverage machine learning, related advanced technologies to enhance cyber security",
+      "excerpt": "In the longer term, the Group committed to leverage machine learning and related advanced ... chain methodology will encourage major software services, products, and providers leveraged by ...",
+      "sourceUrl": null,
+      "webUrl": "https://telecom.economictimes.indiatimes.com/news/quad-agrees-to-leverage-machine-learning-related-advanced-technologies-to-enhance-cyber-security/97565750",
+      "originalUrl": "https://telecom.economictimes.indiatimes.com/news/quad-agrees-to-leverage-machine-learning-related-advanced-technologies-to-enhance-cyber-security/97565750",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-97565750,imgsize-156698,width-1200,height-628,overlay-ettelecom/quad-agrees-to-leverage-machine-learning-related-advanced-technologies-to-enhance-cyber-security.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://telecom.economictimes.indiatimes.com/amp/news/quad-agrees-to-leverage-machine-learning-related-advanced-technologies-to-enhance-cyber-security/97565750",
+      "cdnAmpWebUrl": "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/quad-agrees-to-leverage-machine-learning-related-advanced-technologies-to-enhance-cyber-security/97565750",
+      "publishedDateTime": "2023-02-02T18:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "telecom.economictimes.indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-02-03-google-ceo-promises-new-ai-features-are-coming-to-search-very-soon-amid-competition-from-chatgpt.md",
+      "title": "Google CEO promises new AI features are coming to search 'very soon' amid competition from ChatGPT",
+      "excerpt": "“AI is the most profound technology we are working on today ... and thus was moving “more conservatively than a small startup.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/02/02/google-ceo-talks-up-ai-on-earnings-call-as-chatgpt-competition-mounts.html",
+      "originalUrl": "https://www.cnbc.com/2023/02/02/google-ceo-talks-up-ai-on-earnings-call-as-chatgpt-competition-mounts.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106629916-1595528838886-gettyimages-1195292757-AFP_1O5272.jpeg?v=1675387277",
+          "width": 4000,
+          "height": 2667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/02/02/google-ceo-talks-up-ai-on-earnings-call-as-chatgpt-competition-mounts.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/02/02/google-ceo-talks-up-ai-on-earnings-call-as-chatgpt-competition-mounts.html",
+      "publishedDateTime": "2023-02-02T18:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-03-chinese-lidar-maker-hesai-to-raise-up-to-171-million-in-us-ipo.md",
       "title": "Chinese lidar maker Hesai to raise up to $171 million in U.S. IPO",
       "excerpt": "Laser-based lidar sensors help self-driving cars detect objects ahead and around the vehicle ... Its investors include Xiaomi, Meituan, Bosch and Baidu. Hesai's IPO is the first major offering by a Chinese firm since the country scrapped most of its ...",
@@ -995,239 +1223,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-02-japanese-chip-venture-rapidus-needs-54-bln-to-begin-production-says-chairman.md",
-      "title": "Japanese chip venture Rapidus needs $54 bln to begin production, says chairman",
-      "excerpt": "Japan's state-backed chip venture Rapidus will need about 7 trillion yen ($54 billion) of mostly taxpayer money to begin mass producing advanced logic chips in around 2027, its chairman, Tetsuro Higashi,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/japanese-chip-venture-rapidus-needs-54-bln-begin-production-says-chairman-2023-02-02/",
-      "originalUrl": "https://www.reuters.com/technology/japanese-chip-venture-rapidus-needs-54-bln-begin-production-says-chairman-2023-02-02/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/izfAoP3EHtFt5nG9YNgNRigqQ0w=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WMHR4TMD45IQRJCLNGCWRX66EU.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-02T01:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-02-gpt-3-use-cases-in-banking-finance-and-fintech.md",
-      "title": "GPT-3 Use Cases in Banking, Finance and Fintech",
-      "excerpt": "Since its release in November 2022, artificial intelligence (AI)-powered chatbot ChatGPT has garnered much excitement in the technology industry",
-      "sourceUrl": null,
-      "webUrl": "https://fintechnews.ch/aifintech/gpt-3-use-cases-in-banking-finance-and-fintech/58050/",
-      "originalUrl": "https://fintechnews.ch/aifintech/gpt-3-use-cases-in-banking-finance-and-fintech/58050/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2023/01/GPT-3-Use-Cases-in-Banking-Finance-and-Fintech-1440x564_c.jpg?x30842",
-          "width": 1440,
-          "height": 564,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-01T22:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "fintechnews",
-        "domain": "fintechnews.ch",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-02-the-merging-of-artificial-intelligence-and-robotics-what-risks-does-it-entail.md",
-      "title": "The Merging of Artificial Intelligence and Robotics: What Risks Does It Entail?",
-      "excerpt": "Artificial intelligence and robotics are two technologies that are rapidly changing the world as we know it. Together, these technologies have the potential to revolutionize the way we do business and live our lives.",
-      "sourceUrl": null,
-      "webUrl": "https://www.merca20.com/the-merging-of-artificial-intelligence-and-robotics-what-risks-does-it-entail/",
-      "originalUrl": "https://www.merca20.com/the-merging-of-artificial-intelligence-and-robotics-what-risks-does-it-entail/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://files.merca20.com/uploads/2023/01/open-ai-chatGPT-Microsoft.jpg",
-          "width": 1280,
-          "height": 765,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-01T19:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "promocionar",
-        "domain": "merca20.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-02-deep-learning-filter-improves-precision-of-cell-mutation-detection-accuracy-of-cancer-diagnoses.md",
-      "title": "Deep-learning filter improves precision of cell mutation detection, accuracy of cancer diagnoses",
-      "excerpt": "Next-generation cancer strategies rely on next-generation gene sequencing (NGS), which paves the way for new techniques and tools to detect mutations and determine patient therapy. A team of Chinese researchers proposed a more effective strategy to filter false positives results,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/978340",
-      "originalUrl": "https://www.eurekalert.org/news-releases/978340",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/54ce8c73-813e-47ac-9880-22d17e16fdc5/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 387,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-01T18:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-02-artificial-intelligence-ai-chips-market-size-2023-with-strategic-choice-making-process-identification-of-main-corporations.md",
-      "title": "Artificial Intelligence (AI) Chips Market Size 2023 With Strategic Choice-Making Process, Identification of Main Corporations",
-      "excerpt": "Chips Market 2023 with 118 Pages Report and enhance with extents shares into sub-counties are covered in this market. Artificial Intelligence (AI) Chips Market conditions can be influenced by a wide range of factors,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-size-2023-with-strategic-choice-making-process-identification-of-main-corporations-2023-02-01",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-size-2023-with-strategic-choice-making-process-identification-of-main-corporations-2023-02-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-01T16:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

@@ -99,6 +99,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global AI for Speech Recognition Market 2023 [New Report] | Industry Size and Revenue Expand till 2030 | 122 Pages Report"
+    excerpt: "The AI for Speech Recognition Market (2023-2030) Updated Latest Research Report is divided into various types [Software, Hardware] and applications [Smart Home, Vehicle System, Medical and Healthcare,"
+    publishedDateTime: 2023-04-26T09:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-for-speech-recognition-market-2023-new-report-industry-size-and-revenue-expand-till-2030-122-pages-report-2023-04-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Speech Recognition Market Size, Share, Key Players, Revenue, Research Report and Forecast 2023 to 2031"
     excerpt: "The global speech recognition market was valued at $6.39billion in 2018, and is projected to reach $29.28 billion by 2026, registering a CAGR of 19.9% from 2019 to 2026. Speech recognition technology enables system to identify the sound of spoken words and convert them into machine readable form."
     publishedDateTime: 2023-04-25T05:14:00Z

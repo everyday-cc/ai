@@ -2,6 +2,49 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2023-01-11-son-helps-dad-see-self-reliance-does-not-end-when-driving-stops-roadshow.md",
+      "title": "Son helps dad see self-reliance does not end when driving stops: Roadshow",
+      "excerpt": "Q: When in his early 80s, my dad drove us to shoot pool at his local senior center during one of my visits. He had always been an excellent driver, but I was horrified and scared that day. After we made it back to his house,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eastbaytimes.com/2023/01/10/son-helps-older-dad-see-self-reliance-does-not-end-when-driving-stops-roadshow/",
+      "originalUrl": "https://www.eastbaytimes.com/2023/01/10/son-helps-older-dad-see-self-reliance-does-not-end-when-driving-stops-roadshow/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eastbaytimes.com/wp-content/uploads/2023/01/eoak0627dmv03.jpg?w=1024&h=639",
+          "width": 1024,
+          "height": 638,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.eastbaytimes.com/2023/01/10/son-helps-older-dad-see-self-reliance-does-not-end-when-driving-stops-roadshow/amp/",
+      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2023/01/10/son-helps-older-dad-see-self-reliance-does-not-end-when-driving-stops-roadshow/amp/",
+      "publishedDateTime": "2023-01-10T13:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "East Bay Times",
+        "domain": "eastbaytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-11-jobs-in-artificial-intelligence-how-to-make-a-career-in-ai.md",
       "title": "Jobs In Artificial Intelligence - How To Make A Career In AI",
       "excerpt": "E, Tesla’s Fully Self Driving mode and *ahem* Q.ai, has shown us anything, it’s that artificial intelligence is here to stay.",
@@ -1314,49 +1357,6 @@
         "Facebook AI",
         "IBM AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-05-ev-company-news-for-the-month-of-december-2022.md",
-      "title": "EV Company News For The Month Of December 2022",
-      "excerpt": "Global electric car sales Nov. 2022 were an estimated 1million+. China sales up 50% YoY to 35% share. Europe up 26% YoY to ~28% share. US ~6% share. Read more here.",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4567822-ev-company-news-december-2022",
-      "originalUrl": "https://seekingalpha.com/article/4567822-ev-company-news-december-2022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/uploads/2023/1/3/37628986-16728043329969795.png",
-          "width": 640,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-04T08:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

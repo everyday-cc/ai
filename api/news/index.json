@@ -2,6 +2,142 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-04-27-elon-musk-meets-with-sen-schumer-to-discuss-artificial-intelligence.md",
+      "title": "Elon Musk meets with Sen. Schumer to discuss artificial intelligence",
+      "excerpt": "The Senate majority leader and the CEO of SpaceX, Tesla and Twitter met amid growing concerns on Capitol Hill about the effects of AI tools.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/congress/elon-musk-meets-schumer-discuss-artificial-intelligence-rcna81696",
+      "originalUrl": "https://www.nbcnews.com/politics/congress/elon-musk-meets-schumer-discuss-artificial-intelligence-rcna81696",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-04/230426-chuck-schumer-ac-844p-1f27b1.jpg",
+          "width": 2500,
+          "height": 1663,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna81696",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna81696",
+      "publishedDateTime": "2023-04-26T20:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-27-broadcom-takes-on-infiniband-with-jericho3-ai-switch-chips.md",
+      "title": "Broadcom Takes On InfiniBand With Jericho3-AI Switch Chips",
+      "excerpt": "Variety is not only the spice of life, it is also the way to drive innovation and to mitigate risk. Which is why we are seeing switch architectures",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2023/04/26/broadcom-takes-on-infiniband-with-jericho3-ai-switch-chips/",
+      "originalUrl": "https://www.nextplatform.com/2023/04/26/broadcom-takes-on-infiniband-with-jericho3-ai-switch-chips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.nextplatform.com/wp-content/uploads/2023/04/broadcom-jericho3-ai-logo.jpg",
+          "width": 879,
+          "height": 565,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2023/04/26/broadcom-takes-on-infiniband-with-jericho3-ai-switch-chips/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/04/26/broadcom-takes-on-infiniband-with-jericho3-ai-switch-chips/amp/",
+      "publishedDateTime": "2023-04-26T20:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-27-zuckerberg-says-meta-will-add-generative-ai-to-all-its-products.md",
+      "title": "Zuckerberg Says Meta Will Add Generative AI To All Its Products",
+      "excerpt": "During Meta’s Q1 earnings call, CEO Mark Zuckerberg outlined to investors when and how the company expects to integrate generative AI into its products. But don’t call this a pivot away from the metav",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johanmoreno/2023/04/26/zuckerberg-says-meta-will-add-generative-ai-to-all-its-products/",
+      "originalUrl": "https://www.forbes.com/sites/johanmoreno/2023/04/26/zuckerberg-says-meta-will-add-generative-ai-to-all-its-products/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6449e51aced99251e6bfa396/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johanmoreno/2023/04/26/zuckerberg-says-meta-will-add-generative-ai-to-all-its-products/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/04/26/zuckerberg-says-meta-will-add-generative-ai-to-all-its-products/amp/",
+      "publishedDateTime": "2023-04-26T20:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-27-the-ascendancy-of-ai-in-asias-financial-services-industry.md",
       "title": "The Ascendancy Of AI In Asia’s Financial Services Industry",
       "excerpt": "As AI matures and becomes more widely integrated into business operations, this trend is set to accelerate At the same time, both the financial industry and regulators know that there are challenges and risks associated with AI that must be addressed Indeed,",
@@ -10,7 +146,7 @@
       "originalUrl": "https://www.forbes.com/sites/zennonkapron/2023/04/26/the-ascendancy-of-ai-in-asias-financial-services-industry/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -215,7 +351,7 @@
       "originalUrl": "https://venturebeat.com/ai/moveworks-debuts-creator-studio-to-build-ai-driven-employee-copilots/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -317,7 +453,7 @@
       "originalUrl": "https://venturebeat.com/ai/the-power-of-infrastructure-purpose-built-for-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -357,7 +493,8 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -1124,152 +1261,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-26-top-10-trusted-artificial-intelligenceai-companies-in-2023.md",
-      "title": "Top 10 Trusted Artificial Intelligence(AI) Companies In 2023",
-      "excerpt": "The team of TopSoftwareCompanies.co has made a list of Top functional Artificial Intelligence companies of 2023 following certain selection criteria. The team has finalized the list of top AI developers based on their core service offerings,",
-      "sourceUrl": null,
-      "webUrl": "https://www.outlookindia.com/outlook-spotlight/top-10-trusted-artificial-intelligence-ai-companies-in-2023-news-281342",
-      "originalUrl": "https://www.outlookindia.com/outlook-spotlight/top-10-trusted-artificial-intelligence-ai-companies-in-2023-news-281342",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imgnew.outlookindia.com/uploadimage/library/free_files/jpg/ole_co_2023_04_20_080032.jpg?v=25022022",
-          "width": 768,
-          "height": 1021,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.outlookindia.com/outlook-spotlight/top-10-trusted-artificial-intelligence-ai-companies-in-2023-news-281342/amp",
-      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/outlook-spotlight/top-10-trusted-artificial-intelligence-ai-companies-in-2023-news-281342/amp",
-      "publishedDateTime": "2023-04-25T22:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Outlookindia",
-        "domain": "outlookindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-26-automated-machine-learning-automl-market-report-explained-current-growth-for-upcoming-period-2030.md",
-      "title": "Automated Machine Learning (AutoML) Market Report Explained Current Growth for upcoming period 2030",
-      "excerpt": "The recent market research titled \" Automated Machine Learning (AutoML) Market \" has analyzed the Automated Machine Learning (AutoML) Market report is a comprehensive analysis that covers various aspects of the industry,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-report-explained-current-growth-for-upcoming-period-2030-2023-04-26",
-      "originalUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-report-explained-current-growth-for-upcoming-period-2030-2023-04-26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-25T22:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-26-sk-hynix-expects-memory-chip-market-to-begin-recovering-in-second-half.md",
-      "title": "SK Hynix expects memory chip market to begin recovering in second half",
-      "excerpt": "Despite posting a record loss, SK Hynix expects lowered production output by memory chipmakers to start a rebound later in the year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/sk-hynix-expects-memory-chip-market-to-begin-recovering-in-second-half/",
-      "originalUrl": "https://www.zdnet.com/article/sk-hynix-expects-memory-chip-market-to-begin-recovering-in-second-half/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/19557bab1648d994be6879241f56ae3f0870d2a9/2021/09/24/5a6eb553-67e0-453a-97c8-efdd56624fff/chipshot.png?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/sk-hynix-expects-memory-chip-market-to-begin-recovering-in-second-half/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sk-hynix-expects-memory-chip-market-to-begin-recovering-in-second-half/",
-      "publishedDateTime": "2023-04-25T20:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

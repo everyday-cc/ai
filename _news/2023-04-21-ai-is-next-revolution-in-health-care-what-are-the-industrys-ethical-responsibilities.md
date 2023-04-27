@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Healthcare
 
 related:
   - title: "AI revolution: Manufacturers hope for artificial intelligence boost in factories"

@@ -2,6 +2,249 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2023-03-22-how-pr-professionals-can-use-artificial-intelligence-tools-to-enhance-their-work.md",
+      "title": "How PR Professionals Can Use Artificial Intelligence Tools To Enhance Their Work",
+      "excerpt": "Are robots taking over our jobs? That’s the million-dollar question people across many different industries have been asking as the world of artificial intelligence continues to advance at a rapid speed. But the fact of the matter is technology has been ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/22/how-pr-professionals-can-use-artificial-intelligence-tools-to-enhance-their-work/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/22/how-pr-professionals-can-use-artificial-intelligence-tools-to-enhance-their-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f5b7915a5d68b0459dfcbb7/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/22/how-pr-professionals-can-use-artificial-intelligence-tools-to-enhance-their-work/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/03/22/how-pr-professionals-can-use-artificial-intelligence-tools-to-enhance-their-work/amp/",
+      "publishedDateTime": "2023-03-22T04:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-22-what-does-fintech-mean-and-how-can-it-help-business-owners.md",
+      "title": "What Does Fintech Mean, And How Can It Help Business Owners?",
+      "excerpt": "At the same time, AI-powered fraud detection algorithms can analyze large amounts of data, enabling them to detect fraudulent transactions in real time. Plus, fintech companies must comply with industry security standards, like the Payment Card Industry ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/03/22/what-does-fintech-mean-and-how-can-it-help-business-owners/",
+      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/03/22/what-does-fintech-mean-and-how-can-it-help-business-owners/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6419e430c1773afe3e88e9f8/0x0.jpg?format=jpg&width=1200",
+          "width": 1009,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/03/22/what-does-fintech-mean-and-how-can-it-help-business-owners/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2023/03/22/what-does-fintech-mean-and-how-can-it-help-business-owners/amp/",
+      "publishedDateTime": "2023-03-22T04:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-22-a-us-agency-rejected-face-recognitionand-landed-in-big-trouble.md",
+      "title": "A US Agency Rejected Face Recognition—and Landed in Big Trouble",
+      "excerpt": "He’d decided that Login.gov, which provides a secure way to access dozens of government apps and websites, wouldn’t use selfies and face recognition to verify the identity of people creating new accounts. “The benefits of liveness/selfie do not ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/a-us-agency-rejected-face-recognition-and-landed-in-big-trouble/",
+      "originalUrl": "https://www.wired.com/story/a-us-agency-rejected-face-recognition-and-landed-in-big-trouble/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/641a4ef3b19ad4e3186e06c8/master/pass/US-Govt-Breaks-Its-Own-Facial-Recognition-Rules-Business-1247661398.jpg",
+          "width": 1800,
+          "height": 2400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/a-us-agency-rejected-face-recognition-and-landed-in-big-trouble/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/a-us-agency-rejected-face-recognition-and-landed-in-big-trouble/amp",
+      "publishedDateTime": "2023-03-22T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-22-how-ford-and-vws-multibillion-dollar-self-driving-car-project-failed.md",
+      "title": "How Ford and VW's multibillion-dollar self-driving car project failed",
+      "excerpt": "Ford and Volkswagen invested billions into self-driving startup Argo AI to match rivals such as Uber, Tesla and Google. In October 2022 the project shut down.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/03/22/how-ford-and-vws-multibillion-dollar-self-driving-car-project-failed.html",
+      "originalUrl": "https://www.cnbc.com/2023/03/22/how-ford-and-vws-multibillion-dollar-self-driving-car-project-failed.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107062410-1652798050614-Argo_Driverless_3.jpg?v=1679486401",
+          "width": 5000,
+          "height": 3333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/03/22/how-ford-and-vws-multibillion-dollar-self-driving-car-project-failed.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/03/22/how-ford-and-vws-multibillion-dollar-self-driving-car-project-failed.html",
+      "publishedDateTime": "2023-03-22T03:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-22-trade-surveillance-systems-global-market-report-2022-ai-and-machine-learning-integration-to-bolster-sector-moving-forward.md",
+      "title": "Trade Surveillance Systems Global Market Report 2022: AI And Machine Learning Integration To Bolster Sector Moving Forward",
+      "excerpt": "The \"trade surveillance systems global market report 2022: ukraine-russia war impact\" report has been added to ResearchAndMarkets.com's offering. The global trade surveillance systems market is expected to grow from $1.",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1105835668/Trade-Surveillance-Systems-Global-Market-Report-2022-AI-And-Machine-Learning-Integration-To-Bolster-Sector-Moving-Forward",
+      "originalUrl": "https://menafn.com/1105835668/Trade-Surveillance-Systems-Global-Market-Report-2022-AI-And-Machine-Learning-Integration-To-Bolster-Sector-Moving-Forward",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-22T01:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-03-22-green-intelligence-why-data-and-ai-must-become-more-sustainable.md",
       "title": "Green Intelligence: Why Data And AI Must Become More Sustainable",
       "excerpt": "As big data, machine learning, and artificial intelligence continue to gain prominence in information technology, experts are raising concerns about the environmental costs of computation — primarily data and AI’s carbon footprint and greenhouse gas ...",
@@ -926,229 +1169,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-nvidia-and-partners-unveil-new-hopper-based-products-and-services-featuring-powerful-gpu-for-ai.md",
-      "title": "NVIDIA and Partners Unveil New Hopper Based Products and Services Featuring Powerful GPU for AI",
-      "excerpt": "In response to the soaring demand for generative AI training and inference, NVIDIA and its key partners have launched new products and services powered by the NVIDIA H100 Tensor Core GPU ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.guru3d.com/news-story/nvidia-and-partners-unveil-new-hopper-based-products-and-services-featuring-powerful-gpu-for-ai.html",
-      "originalUrl": "https://www.guru3d.com/news-story/nvidia-and-partners-unveil-new-hopper-based-products-and-services-featuring-powerful-gpu-for-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-21T12:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Guru3D.com",
-        "domain": "guru3d.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-google-makes-bid-to-throw-out-high-court-claim-over-nhs-medical-record-transfer.md",
-      "title": "Google makes bid to throw out High Court claim over NHS medical record transfer",
-      "excerpt": "The software giant and its artificial intelligence arm DeepMind are facing legal action over the transfer of patient data by the Royal Free NHS Foundation Trust in October 2015. The records were ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.shropshirestar.com/news/uk-news/2023/03/21/google-makes-bid-to-throw-out-high-court-claim-over-nhs-medical-record-transfer/",
-      "originalUrl": "https://www.shropshirestar.com/news/uk-news/2023/03/21/google-makes-bid-to-throw-out-high-court-claim-over-nhs-medical-record-transfer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-21T11:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Shropshire Star",
-        "domain": "shropshirestar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-google-ceo-tells-employees-that-80000-of-them-helped-test-bard-ai-warns-things-will-go-wrong.md",
-      "title": "Google CEO tells employees that 80,000 of them helped test Bard AI, warns 'things will go wrong'",
-      "excerpt": "“As more people start to use Bard and test its capabilities ... as the company tries to keep apace with the quickly evolving advancements in generative AI technology over the last several months — especially Microsoft-backed OpenAI and its ChatGPT ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/03/21/google-ceo-pichai-memo-to-employees-on-bard-ai-things-will-go-wrong.html",
-      "originalUrl": "https://www.cnbc.com/2023/03/21/google-ceo-pichai-memo-to-employees-on-bard-ai-things-will-go-wrong.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106629916-1595528838886-gettyimages-1195292757-AFP_1O5272.jpeg?v=1679420166",
-          "width": 4000,
-          "height": 2667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/03/21/google-ceo-pichai-memo-to-employees-on-bard-ai-things-will-go-wrong.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/03/21/google-ceo-pichai-memo-to-employees-on-bard-ai-things-will-go-wrong.html",
-      "publishedDateTime": "2023-03-21T10:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-tesla-is-rolling-out-its-first-full-self-driving-update-after-a-recall-see-the-new-features.md",
-      "title": "Tesla is rolling out its first Full Self-Driving update after a recall — see the new features",
-      "excerpt": "An curved arrow pointing right. A handful of Tesla drivers have taken to social media this week to show off the latest update to Tesla's driver assist software, known as \"Full Self Driving\" (FSD). The update comes with a variety of new features ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/tesla-updates-fsd-with-new-features-after-nhtsa-recall-2023-3",
-      "originalUrl": "https://www.businessinsider.com/tesla-updates-fsd-with-new-features-after-nhtsa-recall-2023-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/63c1610e33ffb700180f962b?width=1200&format=jpeg",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/tesla-updates-fsd-with-new-features-after-nhtsa-recall-2023-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-updates-fsd-with-new-features-after-nhtsa-recall-2023-3?amp",
-      "publishedDateTime": "2023-03-21T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-bill-gates-thinks-ai-will-revolutionize-healthcare-for-worlds-poorest.md",
-      "title": "Bill Gates Thinks AI Will Revolutionize Healthcare For World’s Poorest",
-      "excerpt": "Former Microsoft CEO and billionaire philanthropist Bill Gates called artificial intelligence the “most important advance ... Soon-To-Be Grandfather Bill Gates Is Betting On AI, Gene Therapy And Other New Technologies To Solve Global Problems (Forbes)",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anafaguy/2023/03/21/bill-gates-thinks-ai-will-revolutionize-healthcare-for-worlds-poorest/",
-      "originalUrl": "https://www.forbes.com/sites/anafaguy/2023/03/21/bill-gates-thinks-ai-will-revolutionize-healthcare-for-worlds-poorest/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6419d8ef8fb8a16b66bdef19/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anafaguy/2023/03/21/bill-gates-thinks-ai-will-revolutionize-healthcare-for-worlds-poorest/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anafaguy/2023/03/21/bill-gates-thinks-ai-will-revolutionize-healthcare-for-worlds-poorest/amp/",
-      "publishedDateTime": "2023-03-21T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

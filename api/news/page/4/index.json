@@ -2,6 +2,160 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-04-25-66-of-americans-would-not-want-ai-to-help-make-hiring-decisions.md",
+      "title": "66% of Americans would not want AI to help make hiring decisions",
+      "excerpt": "A recent Pew Research study about using artificial intelligence when hiring and evaluating workers reveals mixed opinions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/hiring-with-ai-pew/",
+      "originalUrl": "https://www.techrepublic.com/article/hiring-with-ai-pew/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2022/09/future-procurement-data-first.jpeg",
+          "width": 1200,
+          "height": 606,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/article/hiring-with-ai-pew/amp/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/hiring-with-ai-pew/amp/",
+      "publishedDateTime": "2023-04-24T16:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-25-singer-grimes-oks-using-her-voice-for-ai-generated-tunes-no-nazi-songs-please.md",
+      "title": "Singer Grimes OKs Using Her Voice for AI-Generated Tunes (No Nazi Songs, Please)",
+      "excerpt": "After an AI song mimicking Drake and The Weeknd went viral, the Canadian musician invites people to create AI-generated music with her voice, if they split royalties and avoid toxic lyrics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/singer-grimes-oks-using-her-voice-for-ai-generated-songs-no-nazi-songs",
+      "originalUrl": "https://www.pcmag.com/news/singer-grimes-oks-using-her-voice-for-ai-generated-songs-no-nazi-songs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/01CeemlISlr3TbaZVbb0ygQ-1.fit_lim.size_1200x630.v1682366595.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-24T14:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-25-grimes-says-anyone-can-ai-generate-her-voice-without-penalty.md",
+      "title": "Grimes says anyone can AI-generate her voice “without penalty”",
+      "excerpt": "Feel free to use my voice without penalty. I have no label and no legal bindings. pic.twitter.com/KIY60B5uqt Grimes is no stranger to the AI and tech cultural scene, having written music about AI and tweeted about the subject frequently.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/04/grimes-says-anyone-can-ai-generate-her-voice-without-penalty/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/04/grimes-says-anyone-can-ai-generate-her-voice-without-penalty/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/grimes_hero_2-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/04/grimes-says-anyone-can-ai-generate-her-voice-without-penalty/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/04/grimes-says-anyone-can-ai-generate-her-voice-without-penalty/amp/",
+      "publishedDateTime": "2023-04-24T13:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-25-transparent-labeling-of-training-data-may-boost-trust-in-artificial-intelligence.md",
       "title": "Transparent labeling of training data may boost trust in artificial intelligence",
       "excerpt": "Showing users that visual data fed into artificial intelligence (AI) systems was labeled correctly might make people trust AI more, according to researchers. These findings may also pave the way to help scientists better measure the connection between labeling credibility,",
@@ -1040,162 +1194,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-24-how-ai-can-transform-the-software-engineering-process.md",
-      "title": "How AI Can Transform The Software Engineering Process",
-      "excerpt": "Generative AI will expedite the pace of modern software development, promote experimentation and even transform the current software engineering funnel in the future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/how-ai-can-transform-the-software-engineering-process/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/how-ai-can-transform-the-software-engineering-process/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6058b5411e82e550078f5886/0x0.jpg?format=jpg&width=1200",
-          "width": 790,
-          "height": 526,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/how-ai-can-transform-the-software-engineering-process/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/24/how-ai-can-transform-the-software-engineering-process/amp/",
-      "publishedDateTime": "2023-04-24T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-24-how-gpt-4-could-affect-marketing-leaders.md",
-      "title": "How GPT-4 Could Affect Marketing Leaders",
-      "excerpt": "Marketers have always had to adapt to their changing technological environment. GPT technologies are no different.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/04/24/how-gpt-4-could-affect-marketing-leaders/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/04/24/how-gpt-4-could-affect-marketing-leaders/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6442c991c58a2f3beb23907c/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 797,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/04/24/how-gpt-4-could-affect-marketing-leaders/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/04/24/how-gpt-4-could-affect-marketing-leaders/amp/",
-      "publishedDateTime": "2023-04-24T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-04-24-kpmg-us-executives-unprepared-for-immediate-adoption-of-generative-ai.md",
-      "title": "KPMG: US executives unprepared for immediate adoption of generative AI",
-      "excerpt": "In a KPMG survey of executives on generative AI, the technology is seen as potentially the most disruptive to date.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/kpmg-us-executives-unprepared-for-immediate-adoption-of-generative-ai/",
-      "originalUrl": "https://venturebeat.com/ai/kpmg-us-executives-unprepared-for-immediate-adoption-of-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-648066032-e1682331357491.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 613,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/kpmg-us-executives-unprepared-for-immediate-adoption-of-generative-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/kpmg-us-executives-unprepared-for-immediate-adoption-of-generative-ai/amp/",
-      "publishedDateTime": "2023-04-24T04:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

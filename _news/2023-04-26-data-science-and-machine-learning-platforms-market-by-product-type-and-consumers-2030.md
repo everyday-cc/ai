@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "2023-2030 Cloud Natural Language Processing Market Size with Manufactures and Upcoming Opportunities"
-    excerpt: "Apr 22, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The 2023 research report on the"
-    publishedDateTime: 2023-04-22T10:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-2030-cloud-natural-language-processing-market-size-with-manufactures-and-upcoming-opportunities-2023-04-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Data Science and Machine-Learning Platforms Market Size and Share Expanding worldwide by 2023"
     excerpt: "Data Science and Machine-Learning Platforms Market Size 2023 | New Report (130 Pages) | Analytics | In This Reports"
     publishedDateTime: 2023-04-24T03:41:00Z

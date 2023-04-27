@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/ai/the-power-of-infrastructure-purpose-built-fo
 ampWebUrl: "https://venturebeat.com/ai/the-power-of-infrastructure-purpose-built-for-ai/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-power-of-infrastructure-purpose-built-for-ai/amp/"
 type: article
-quality: 89
-heat: 129
+quality: 91
+heat: 131
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI Hardware
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2023/04/AdobeStock_564311673.jpeg?w=1200&strip=all"
@@ -85,6 +86,6 @@ related:
       domain: thehealthsite.com
     quality: 34
 
-secured: "5lH0iUGE0qva2oarWPBLHJfu9APwONyHZr42ZqEoetNPCq75cQQ+GA60mycN4Dlswb+btX8SnXElL0S0EygGGbreYsf2V5wRMN2WGCP6YHUu7s3bmoBbzVtnb550HoQ8hal04e4UgNEY1ty09/jRhq0RwR6dZq7sYPLHIZdUW2KxxdC0BRCt9zl0ArZSwixwqPw8649dO6hngdrM2O88aMVrucqWrLQLNfqbCNAbOYvkroC83cjhc8p0yO5gm+hhc1BYw99nxoMJk4rxxXbQU/BtUc1o0hy9bHJ/yfg5+HNPhocA61CImf0Rn/GX+xsiBdbZAI/kRdXudSoXdYsM63wYkaG/k7947s33jv5x5AU=;6fWUE1YdG7WxiOecSA3hjg=="
+secured: "cOwtPfK/Xd0HInXEO0TLMC266q6Snav30nKc5IwMiGgxUM/Uhfc2BfzMKBHM4Lg9+aNRj80XviCofQGIvPd2xVVjS7zG8mhDv8UhI0j9JjrzyCH15oAymHyGXMJ6ThQ+kqS7/tWDM09FV54MocdX+26LUSmIVwc7Itzdc3bZ15s+PtNlf/EEGIKMegJih8ce2G/DKLAaK7f/Srhk3PV4ntD5glgDmNwRg6nxGdghxwRHNLU7D55gApphOaDOzTC1eUwdkE0zSBs36ZQyXKW5v0G93QolFmWb9iXFFM+mNbDVpYFMbqleHTpAC8/lDT79BF0zMQp9vRG9aVYfeo1Kq73a96yTvsVNr/yjejG0/LWtZnjraPxJJVVOzHGhs7gLz+V8RYSbEadzhOy4pLd+9op+/tXGBka1vHdHCPOexcNKdPtmp79KjqJfTkYgAHq50ypeddiPML8Ay4A5VwqHqEC+JHnZw3uUMoDlihuUqv/LVoI8/J4TeSiGPpj8HGZ8cVh1mm1oUqA/WDpxa67Lbg==;FSwl+Y8HnviGesUzxJ+K6g=="
 ---
 

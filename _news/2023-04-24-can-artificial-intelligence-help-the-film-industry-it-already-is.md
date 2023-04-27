@@ -38,6 +38,20 @@ related:
         width: 800
         height: 500
         isCached: true
+  - title: "Using AI as a virtual financial adviser"
+    excerpt: "A tool like ChatGPT cannot fully comprehend the intricacies of human language and conversation, which can lead to responses that lack depth and insight. There is also a need for"
+    publishedDateTime: 2023-04-27T02:08:00Z
+    webUrl: "https://www.thehansindia.com/hans/opinion/news-analysis/using-ai-as-a-virtual-financial-adviser-794830"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 39
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2023/04/27/1348768-ai.jpg"
+        width: 1200
+        height: 720
+        isCached: true
   - title: "Artificial Intelligence In The African Asset Management Industry: Four Factors To Consider Before Developing A Strategy"
     excerpt: "Discussions about AI’s potential to disrupt enterprises, business models and entire industries have become mainstream. With the advanced data processing speed that AI affords, smaller asset management firms can now onboard clients faster using AI enabled know-your-customer (KYC) software."
     publishedDateTime: 2023-04-25T12:15:00Z

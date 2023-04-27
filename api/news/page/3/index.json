@@ -2,6 +2,162 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-04-25-4-steps-to-improving-your-esg-risk-management-to-increase-financial-performance.md",
+      "title": "4 steps to improving your ESG risk management to increase financial performance",
+      "excerpt": "Environmental, Social, and Governance (ESG) risk management has emerged as a critical aspect of business strategy for companies worldwide. A 2023 IBM IBV study showed that organizations that are seen as ESG leaders are 43% more likely to outperform their peers on profitability. However, 57% of CEOs admit",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/4-steps-to-improving-your-esg-risk-management-to-increase-financial-performance/",
+      "originalUrl": "https://www.ibm.com/blog/4-steps-to-improving-your-esg-risk-management-to-increase-financial-performance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/04/4-steps-to-improving-your-ESG-risk-management-to-increase-financial-performance-630x330.jpg",
+          "width": 630,
+          "height": 330,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-25T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-25-gpu-for-deep-learning-market-sales-volume-and-forecast-2030.md",
+      "title": "GPU for Deep Learning Market Sales Volume, And Forecast 2030",
+      "excerpt": "The \" GPU for Deep Learning Market\" Size, Trends and Forecasts (2023-2030)â, provides a comprehensive analysis of the",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-sales-volume-and-forecast-2030-2023-04-25",
+      "originalUrl": "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-sales-volume-and-forecast-2030-2023-04-25",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-25T04:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-04-25-the-generative-ai-frontier-mastering-llm-adoption-for-ceos-and-ctos-to-drive-business-success.md",
+      "title": "The Generative AI Frontier: Mastering LLM Adoption For CEOs And CTOs To Drive Business Success",
+      "excerpt": "As the adoption of LLMs expands, it's vital for leaders to understand these risks and develop strategies to mitigate them effectively, ensuring that generative AI propels their organizations forward instead of hindering their progress.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/25/the-generative-ai-frontier-mastering-llm-adoption-for-ceos-and-ctos-to-drive-business-success/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/25/the-generative-ai-frontier-mastering-llm-adoption-for-ceos-and-ctos-to-drive-business-success/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6446876e15b9e495eda821c1/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/25/the-generative-ai-frontier-mastering-llm-adoption-for-ceos-and-ctos-to-drive-business-success/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/25/the-generative-ai-frontier-mastering-llm-adoption-for-ceos-and-ctos-to-drive-business-success/amp/",
+      "publishedDateTime": "2023-04-25T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-25-what-marketing-and-advertising-specialists-can-expect-from-chatgpt.md",
       "title": "What Marketing And Advertising Specialists Can Expect From ChatGPT",
       "excerpt": "Attracting nearly 40 million users per day, ChatGPT is one of the many chatbots being utilized to provide customer service, draft copy and even assist in market research. As it continues to become more ubiquitous and the technology powering it matures, we will continue noticing several major changes in the marketing and advertising industries.",
@@ -10,7 +166,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/04/25/what-marketing-and-advertising-specialists-can-expect-from-chatgpt/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 301,
+      "heat": 311,
       "tags": null,
       "images": [
         {
@@ -522,7 +678,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-research-report-with-analysis-2023-to-2030-2023-04-25",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -1103,160 +1259,6 @@
         "name": "NBC News",
         "domain": "nbcnews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-66-of-americans-would-not-want-ai-to-help-make-hiring-decisions.md",
-      "title": "66% of Americans would not want AI to help make hiring decisions",
-      "excerpt": "A recent Pew Research study about using artificial intelligence when hiring and evaluating workers reveals mixed opinions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/hiring-with-ai-pew/",
-      "originalUrl": "https://www.techrepublic.com/article/hiring-with-ai-pew/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2022/09/future-procurement-data-first.jpeg",
-          "width": 1200,
-          "height": 606,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/article/hiring-with-ai-pew/amp/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/hiring-with-ai-pew/amp/",
-      "publishedDateTime": "2023-04-24T16:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-singer-grimes-oks-using-her-voice-for-ai-generated-tunes-no-nazi-songs-please.md",
-      "title": "Singer Grimes OKs Using Her Voice for AI-Generated Tunes (No Nazi Songs, Please)",
-      "excerpt": "After an AI song mimicking Drake and The Weeknd went viral, the Canadian musician invites people to create AI-generated music with her voice, if they split royalties and avoid toxic lyrics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/singer-grimes-oks-using-her-voice-for-ai-generated-songs-no-nazi-songs",
-      "originalUrl": "https://www.pcmag.com/news/singer-grimes-oks-using-her-voice-for-ai-generated-songs-no-nazi-songs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/01CeemlISlr3TbaZVbb0ygQ-1.fit_lim.size_1200x630.v1682366595.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-24T14:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-grimes-says-anyone-can-ai-generate-her-voice-without-penalty.md",
-      "title": "Grimes says anyone can AI-generate her voice “without penalty”",
-      "excerpt": "Feel free to use my voice without penalty. I have no label and no legal bindings. pic.twitter.com/KIY60B5uqt Grimes is no stranger to the AI and tech cultural scene, having written music about AI and tweeted about the subject frequently.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/04/grimes-says-anyone-can-ai-generate-her-voice-without-penalty/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/04/grimes-says-anyone-can-ai-generate-her-voice-without-penalty/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/grimes_hero_2-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/04/grimes-says-anyone-can-ai-generate-her-voice-without-penalty/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/04/grimes-says-anyone-can-ai-generate-her-voice-without-penalty/amp/",
-      "publishedDateTime": "2023-04-24T13:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

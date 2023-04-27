@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/mark-zuckerberg-obsessed-with-ai-met
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mark-zuckerberg-obsessed-with-ai-meta-facebook-change-name-metai-2023-4?amp"
 type: article
 quality: 56
-heat: 66
+heat: -1
 published: false
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Zuckerberg Says Meta Will Add Generative AI To All Its Products"
+    excerpt: "During Meta’s Q1 earnings call, CEO Mark Zuckerberg outlined to investors when and how the company expects to integrate generative AI into its products. But don’t call this a pivot away from the metav"
+    publishedDateTime: 2023-04-27T03:03:00Z
+    webUrl: "https://www.forbes.com/sites/johanmoreno/2023/04/26/zuckerberg-says-meta-will-add-generative-ai-to-all-its-products/"
+    ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2023/04/26/zuckerberg-says-meta-will-add-generative-ai-to-all-its-products/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/04/26/zuckerberg-says-meta-will-add-generative-ai-to-all-its-products/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6449e51aced99251e6bfa396/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 672
+        isCached: true
   - title: "Meta Profits Set to Drop as Zuckerberg Pivots to AI, Analysts Say"
     excerpt: "The social media giant is expected to disclose a drop in revenue as it looks to artificial intelligence after a lackluster metaverse pivot."
     publishedDateTime: 2023-04-25T20:54:00Z

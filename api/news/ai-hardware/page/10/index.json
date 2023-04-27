@@ -2,6 +2,101 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-01-12-lilbits-pc-shipments-fall-in-q4-2022-imagination-launches-a-new-ray-tracing-gpu-for-mobile.md",
+      "title": "Lilbits: PC shipments fall in Q4, 2022, Imagination launches a new ray-tracing GPU for mobile",
+      "excerpt": "PC shipments in the fourth quarter of 2022 were down by 28.1% to 28.5% from the same period a year earlier. One part of the reason could be that many of the folks who were in the market for new computers already bought one in the past few years and don’t have any reason to upgrade yet.",
+      "sourceUrl": null,
+      "webUrl": "https://liliputing.com/lilbitslilbits-pc-shipments-fall-in-q4-2022-imagination-launches-a-new-ray-tracing-gpu-for-mobile/",
+      "originalUrl": "https://liliputing.com/lilbitslilbits-pc-shipments-fall-in-q4-2022-imagination-launches-a-new-ray-tracing-gpu-for-mobile/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://liliputing.com/wp-content/uploads/2023/01/idc.jpg",
+          "width": 915,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-11T14:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Liliputing",
+        "domain": "liliputing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-11-imagination-unveils-img-dxt-gpu-for-mobile-games-with-ray-tracing.md",
+      "title": "Imagination unveils IMG DXT GPU for mobile games with ray tracing",
+      "excerpt": "Imagination Technologies has unveiled its new IMG DXT graphics processing unit (GPU) for mobile games with ray-tracing features.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/games/imagination-unveils-img-dxt-gpu-for-mobile-games-with-ray-tracing/",
+      "originalUrl": "https://venturebeat.com/games/imagination-unveils-img-dxt-gpu-for-mobile-games-with-ray-tracing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/01/imag.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 606,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/games/imagination-unveils-img-dxt-gpu-for-mobile-games-with-ray-tracing/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/imagination-unveils-img-dxt-gpu-for-mobile-games-with-ray-tracing/amp/",
+      "publishedDateTime": "2023-01-11T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-11-ai-chip-for-data-centers-market-growth-revenue-and-trends-2023-development-strategies-regional-segments-global-size-and-share-forecast-to.md",
       "title": "AI Chip for Data Centers Market Growth Revenue and Trends 2023 | Development Strategies, Regional Segments, Global Size and Share Forecast to 2029",
       "excerpt": "AI Chip for Data Centers Market report gives granular insights into industry dynamics (Key drivers, trends, restraints and opportunities), market segmentation details, regional revenue analysis ...",
@@ -1304,110 +1399,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-05-6-takeaways-from-amds-ces-consumer-chip-announcements.md",
-      "title": "6 Takeaways from AMD's CES Consumer Chip Announcements",
-      "excerpt": "AMD claims that it's up to 50% more efficient than the Apple M2 neural engine. Intel uses a separate chip for AI acceleration, dubbed Movidius, which means its presence in a laptop will depend on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/computing/6-takeaways-from-amds-ces-consumer-chip-announcements/",
-      "originalUrl": "https://www.cnet.com/tech/computing/6-takeaways-from-amds-ces-consumer-chip-announcements/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/0233e86bc3716dd8599c8b0c10592c413979f92b/hub/2023/01/05/418aebe2-d618-4a88-9f70-6a5f5ec461f9/amdryzen7040ces.png?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/6-takeaways-from-amds-ces-consumer-chip-announcements/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/6-takeaways-from-amds-ces-consumer-chip-announcements/",
-      "publishedDateTime": "2023-01-04T21:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-05-amds-newest-mobile-processors-have-an-ai-engine.md",
-      "title": "AMD's Newest Mobile Processors Have an AI Engine",
-      "excerpt": "On Wednesday night, AMD fired back during its CES keynote with competing products in both categories: new mobile gpus, new mobile Ryzen 7040 series chips with a built in AI engine, and new 3D V ...",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/amd-ryzen-ai-mobile-processor-x86-fpga-engine-block-xdn-1849951478",
-      "originalUrl": "https://gizmodo.com/amd-ryzen-ai-mobile-processor-x86-fpga-engine-block-xdn-1849951478",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/bf92f220b490c9783cc135ef688984c2.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-04T21:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

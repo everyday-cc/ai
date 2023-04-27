@@ -1,0 +1,65 @@
+---
+category: news
+title: "Using AI as a virtual financial adviser"
+excerpt: "A tool like ChatGPT cannot fully comprehend the intricacies of human language and conversation, which can lead to responses that lack depth and insight. There is also a need for"
+publishedDateTime: 2023-04-27T02:08:00Z
+originalUrl: "https://www.thehansindia.com/hans/opinion/news-analysis/using-ai-as-a-virtual-financial-adviser-794830"
+webUrl: "https://www.thehansindia.com/hans/opinion/news-analysis/using-ai-as-a-virtual-financial-adviser-794830"
+type: article
+quality: 39
+heat: -1
+published: false
+
+provider:
+  name: The Hans India
+  domain: thehansindia.com
+
+topics:
+  - AI in Finance
+  - AI
+
+images:
+  - url: "https://assets.thehansindia.com/h-upload/2023/04/27/1348768-ai.jpg"
+    width: 1200
+    height: 720
+    isCached: true
+
+related:
+  - title: "The Ascendancy Of AI In Asia’s Financial Services Industry"
+    excerpt: "As AI matures and becomes more widely integrated into business operations, this trend is set to accelerate At the same time, both the financial industry and regulators know that there are challenges and risks associated with AI that must be addressed Indeed,"
+    publishedDateTime: 2023-04-27T01:34:00Z
+    webUrl: "https://www.forbes.com/sites/zennonkapron/2023/04/26/the-ascendancy-of-ai-in-asias-financial-services-industry/"
+    ampWebUrl: "https://www.forbes.com/sites/zennonkapron/2023/04/26/the-ascendancy-of-ai-in-asias-financial-services-industry/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zennonkapron/2023/04/26/the-ascendancy-of-ai-in-asias-financial-services-industry/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6445de39b964f059b2fa527d/0x0.jpg?format=jpg&width=1200"
+        width: 800
+        height: 500
+        isCached: true
+  - title: "Can Artificial Intelligence Help The Film Industry? It Already Is."
+    excerpt: "Monica Landers, founder and CEO of StoryFit, is using artificial intelligence to help the film industry with scripts and characters. And it's not ChatGPT."
+    publishedDateTime: 2023-04-24T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/danpontefract/2023/04/24/can-artificial-intelligence-help-the-film-industry-it-already-is/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Artificial Intelligence In The African Asset Management Industry: Four Factors To Consider Before Developing A Strategy"
+    excerpt: "Discussions about AI’s potential to disrupt enterprises, business models and entire industries have become mainstream. With the advanced data processing speed that AI affords, smaller asset management firms can now onboard clients faster using AI enabled know-your-customer (KYC) software."
+    publishedDateTime: 2023-04-25T12:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/04/25/artificial-intelligence-in-the-african-asset-management-industry-four-factors-to-consider-before-developing-a-strategy/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 23
+
+secured: "uWHZ+0rCMXgHgkAX2VZ81j+/I0zJ3S9NL3aJqqnZssqTsbkBEMjgrO+vhylUsia1day6dM21oqtuhJjRKXyYR4DEz9CEd/TAYnJrFHiloqn/XRaAecgkRyLX0Vo+IGISN7GXp7GzbRLcD5nLjiBklB4zzFfmppkmypnlJelQzeVKAKF1E03xyedFAKKr/+76FinA8MVk7w7cs7M/HVlxT+erEIJSGstnvG6uvLU2cKc6GudZeh6Was8KASUHvaaqAR4ixSB1WodzJpN5KEyol3dc65+hwiUKAsZT8qcsWHPLbbJK0JQ37gW/Aa1lOK3q+d9HZoZcCgoMfW3yiWgJ2j3kOiM3lPehH9Atbsd4kJg=;vhV/cHSYW1ylz7B5xHrdrg=="
+---
+

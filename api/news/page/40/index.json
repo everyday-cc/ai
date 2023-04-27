@@ -2,6 +2,231 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2023-03-20-how-morgan-stanley-is-training-gpt-to-help-financial-advisors.md",
+      "title": "How Morgan Stanley Is Training GPT To Help Financial Advisors",
+      "excerpt": "Morgan Stanley has been working with OpenAI to determine how generative AI systems can help with wealth management questions from its financial advisors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tomdavenport/2023/03/20/how-morgan-stanley-is-training-gpt-to-help-financial-advisors/",
+      "originalUrl": "https://www.forbes.com/sites/tomdavenport/2023/03/20/how-morgan-stanley-is-training-gpt-to-help-financial-advisors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64186ab062f49149c34b2898/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomdavenport/2023/03/20/how-morgan-stanley-is-training-gpt-to-help-financial-advisors/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2023/03/20/how-morgan-stanley-is-training-gpt-to-help-financial-advisors/amp/",
+      "publishedDateTime": "2023-03-20T07:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-20-d-wave-launches-new-hybrid-solver-plug-in-for-feature-selection-a-key-component-of-machine-learning.md",
+      "title": "D-Wave Launches New Hybrid Solver Plug-In for Feature Selection, A Key Component of Machine Learning",
+      "excerpt": "BURNABY, British Columbia — D-Wave Quantum Inc. (NYSE: QBTS), a leader in quantum computing systems, software, and services and the world’s ... quantum technology to streamline development of machine learning (ML) applications. D-Wave’s new hybrid ...",
+      "sourceUrl": null,
+      "webUrl": "https://financialpost.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/d-wave-launches-new-hybrid-solver-plug-in-for-feature-selection-a-key-component-of-machine-learning",
+      "originalUrl": "https://financialpost.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/d-wave-launches-new-hybrid-solver-plug-in-for-feature-selection-a-key-component-of-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-20T07:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Post",
+        "domain": "financialpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-03-20-the-future-of-ai-in-banking.md",
+      "title": "The Future Of AI In Banking",
+      "excerpt": "What are the obvious use cases for LLMs in banking, and what do banks need to consider before leveraging them?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/20/the-future-of-ai-in-banking/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/20/the-future-of-ai-in-banking/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 236,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/630f5e5918c93764f06047ca/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/20/the-future-of-ai-in-banking/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/03/20/the-future-of-ai-in-banking/amp/",
+      "publishedDateTime": "2023-03-20T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-03-20-grocer-uses-facial-recognition-technology-to-deter-shoplifters-drawing-concerns.md",
+      "title": "Grocer uses facial recognition technology to deter shoplifters, drawing concerns",
+      "excerpt": "A supermarket's use of face-scanning and voice-recording technology to prevent thieves has sparked privacy concerns.",
+      "sourceUrl": null,
+      "webUrl": "https://abc11.com/fairway-market-upper-west-side-facial-recognition-technology/12973077/",
+      "originalUrl": "https://abc11.com/fairway-market-upper-west-side-facial-recognition-technology/12973077/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.abcotvs.com/dip/images/12969014_031723-wabc-fairway-facial-recognition-img.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abc11.com/amp/fairway-market-upper-west-side-facial-recognition-technology/12973077/",
+      "cdnAmpWebUrl": "https://abc11-com.cdn.ampproject.org/c/s/abc11.com/amp/fairway-market-upper-west-side-facial-recognition-technology/12973077/",
+      "publishedDateTime": "2023-03-20T06:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTVD",
+        "domain": "abc11.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-20-can-a-teacher-detect-if-students-are-using-artificial-intelligence.md",
+      "title": "Can a teacher detect if students are using artificial intelligence?",
+      "excerpt": "Artificial intelligence is becoming increasingly common across the internet, but teachers are concerned that it could help students cheat. NBC News digital reporter Andrew Stern puts one of his old high school teachers to the test.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/now/video/can-a-teacher-detect-if-students-are-using-artificial-intelligence-165736005699",
+      "originalUrl": "https://www.nbcnews.com/now/video/can-a-teacher-detect-if-students-are-using-artificial-intelligence-165736005699",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_03/1679317811866_now_mnn_chatgpt_teacher_230320_1920x1080-a5f6v9.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo165736005699",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo165736005699",
+      "publishedDateTime": "2023-03-20T06:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-20-how-ai-powered-video-enhancement-is-transforming-real-time-communication.md",
       "title": "How AI-Powered Video Enhancement Is Transforming Real-Time Communication",
       "excerpt": "Social media, entertainment, mobile gaming and the metaverse are all finding new ways to incorporate AI-powered video enhancement technology to enhance the user experience.",
@@ -944,229 +1169,6 @@
         "AI Hardware",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-03-19-torontos-ontario-line-will-run-new-electric-driverless-trains-heres-what-theyll-look-like.md",
-      "title": "Toronto’s Ontario Line will run new electric, driverless trains. Here’s what they’ll look like",
-      "excerpt": "GFG Rail, which is designing the subway’s rolling stock, has revealed renderings for the new electric fleet, which, once operational, will run through downtown Toronto, connecting Exhibition ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com/news/gta/2023/03/15/torontos-new-ontario-line-will-run-new-electric-driverless-trains-heres-what-theyll-look-like.html",
-      "originalUrl": "https://www.thestar.com/news/gta/2023/03/15/torontos-new-ontario-line-will-run-new-electric-driverless-trains-heres-what-theyll-look-like.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestar.com/content/dam/thestar/news/gta/2023/03/25/hydro-one-responding-to-around-southern-ontario-power-outage/hydro_one.jpg.size.custom.crop.640x360.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestar.com/amp/news/gta/2023/03/15/torontos-new-ontario-line-will-run-new-electric-driverless-trains-heres-what-theyll-look-like.html",
-      "cdnAmpWebUrl": "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/news/gta/2023/03/15/torontos-new-ontario-line-will-run-new-electric-driverless-trains-heres-what-theyll-look-like.html",
-      "publishedDateTime": "2023-03-19T08:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Toronto Star",
-        "domain": "thestar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-19-nvidia-gtc-highlights-the-physical-side-of-ai-robotics.md",
-      "title": "Nvidia GTC Highlights The Physical Side Of AI - Robotics",
-      "excerpt": "For many consumers, AI is finally living up to long overdue expectations. The accomplishments of ChatGPT in a short period of time are phenomenal. But what is yet to come when AI is combined with robotics will change everything.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2023/03/19/nvidia-gtc-highlights-the-physical-side-of-airobotics/",
-      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2023/03/19/nvidia-gtc-highlights-the-physical-side-of-airobotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 429,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/641725b9faeb9e5fa976a1f0/0x0.jpg?format=jpg&width=1200",
-          "width": 951,
-          "height": 577,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2023/03/19/nvidia-gtc-highlights-the-physical-side-of-airobotics/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2023/03/19/nvidia-gtc-highlights-the-physical-side-of-airobotics/amp/",
-      "publishedDateTime": "2023-03-19T08:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-03-19-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-robt.md",
-      "title": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (ROBT)",
-      "excerpt": "Investors may trade in the Pre-Market (4:00-9:30 a.m. ET) and the After Hours Market (4:00-8:00 p.m. ET). Participation from Market Makers and ECNs is strictly voluntary and as a result, these ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/market-activity/etf/robt/after-hours",
-      "originalUrl": "https://www.nasdaq.com/market-activity/etf/robt/after-hours",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-19T07:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-19-innovation-lab-sheikh-hasina-neural-network-inaugurated-at-ministry-of-foreign-affairs.md",
-      "title": "Innovation Lab, Sheikh Hasina Neural Network inaugurated at Ministry of Foreign Affairs",
-      "excerpt": "Foreign Minister Dr AK Abdul Momen inaugurated the Innovation Lab and Innovation Challenge Fund and the proposed Sheikh Hasina Neural Network at the Ministry of Foreign Affairs on Sunday (19 March).",
-      "sourceUrl": null,
-      "webUrl": "https://www.tbsnews.net/bangladesh/innovation-lab-sheikh-hasina-neural-network-inaugurated-ministry-foreign-affairs-602086",
-      "originalUrl": "https://www.tbsnews.net/bangladesh/innovation-lab-sheikh-hasina-neural-network-inaugurated-ministry-foreign-affairs-602086",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/03/19/i_lab_0.jpg",
-          "width": 600,
-          "height": 314,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tbsnews.net/bangladesh/innovation-lab-sheikh-hasina-neural-network-inaugurated-ministry-foreign-affairs-602086?amp",
-      "cdnAmpWebUrl": "https://www-tbsnews-net.cdn.ampproject.org/c/s/www.tbsnews.net/bangladesh/innovation-lab-sheikh-hasina-neural-network-inaugurated-ministry-foreign-affairs-602086?amp",
-      "publishedDateTime": "2023-03-19T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "tbsnews",
-        "domain": "tbsnews.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-19-samsungs-moon-shots-force-us-to-ask-how-much-ai-is-too-much.md",
-      "title": "Samsung’s Moon Shots Force Us to Ask How Much AI Is Too Much",
-      "excerpt": "We like HDR-pimped pics, but this latest camera controversy outlines how computational photography could set us down a dicey path.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/samsungs-moon-shots-force-us-to-ask-how-much-ai-is-too-much/",
-      "originalUrl": "https://www.wired.com/story/samsungs-moon-shots-force-us-to-ask-how-much-ai-is-too-much/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6414e0523d47b01ba33146dd/master/pass/Samsung%E2%80%99s-Moon-Shots-Force-Us-to-Ask-How-Much-AI-Is-Too-Much-Gear-GettyImages-490137064.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/samsungs-moon-shots-force-us-to-ask-how-much-ai-is-too-much/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/samsungs-moon-shots-force-us-to-ask-how-much-ai-is-too-much/amp",
-      "publishedDateTime": "2023-03-19T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

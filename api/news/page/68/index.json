@@ -2,6 +2,248 @@
   "page": 68,
   "value": [
     {
+      "path": "_news/2023-02-24-human-art-already-has-so-much-in-common-with-ai.md",
+      "title": "Human Art Already Has So Much In Common With AI",
+      "excerpt": "Despite being human-made, human-taught, and human-promoted, it’s easy to criticize AI for being fundamentally inhuman. To claim that AI models like ChatGPT and DALL-E will replace art created by people is to ignore both the ineffable qualities of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/generative-art-algorithms-creativity/",
+      "originalUrl": "https://www.wired.com/story/generative-art-algorithms-creativity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/63f7ff97d35154c5a1727fde/master/pass/ideas_ai_art_algorithmic_creativity.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/generative-art-algorithms-creativity/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/generative-art-algorithms-creativity/amp",
+      "publishedDateTime": "2023-02-24T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2023-02-24-how-machine-learning-is-revolutionizing-cx-outsourcing.md",
+      "title": "How machine learning is revolutionizing CX outsourcing",
+      "excerpt": "CONTACT centers in the Philippines have long been the driving force behind the exponential growth of the business process outsourcing (BPO) industry, providing superlative customer service to companies around the world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.manilatimes.net/2023/02/24/public-square/how-machine-learning-is-revolutionizing-cx-outsourcing/1880127",
+      "originalUrl": "https://www.manilatimes.net/2023/02/24/public-square/how-machine-learning-is-revolutionizing-cx-outsourcing/1880127",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.manilatimes.net/manilatimes/uploads/images/2023/02/24/161618.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.manilatimes.net/2023/02/24/public-square/how-machine-learning-is-revolutionizing-cx-outsourcing/1880127/amp",
+      "cdnAmpWebUrl": "https://www-manilatimes-net.cdn.ampproject.org/c/s/www.manilatimes.net/2023/02/24/public-square/how-machine-learning-is-revolutionizing-cx-outsourcing/1880127/amp",
+      "publishedDateTime": "2023-02-24T03:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manilatimes",
+        "domain": "manilatimes.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-24-ai-art-generator-qualcomm-gets-stable-diffusion-running-on-a-smartphone.md",
+      "title": "AI art generator: Qualcomm gets Stable Diffusion running on a smartphone",
+      "excerpt": "As smartphones become increasingly capable, more workloads are moving on-device and off the cloud. Qualcomm's MWC demo showcases the work of its AI research team.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-art-generator-qualcomm-gets-stable-diffusion-running-on-a-smartphone/",
+      "originalUrl": "https://www.zdnet.com/article/ai-art-generator-qualcomm-gets-stable-diffusion-running-on-a-smartphone/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/14ca4fc738c432992007eab316ae42e201d3d6dd/2023/02/23/aab00648-18de-48b2-92ab-615b219308a6/stable-diffusion-picasso-guitar.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-art-generator-qualcomm-gets-stable-diffusion-running-on-a-smartphone/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-art-generator-qualcomm-gets-stable-diffusion-running-on-a-smartphone/",
+      "publishedDateTime": "2023-02-24T02:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-24-nvidia-beats-earning-expectations-and-looks-towards-ai-stock-jumps-14-in-response.md",
+      "title": "Nvidia Beats Earning Expectations And Looks Towards AI, Stock Jumps 14% In Response",
+      "excerpt": "The AI market is set to take off—with one popular commentator comparing it to the rise of the Internet—and Nvidia’s chips are the tools of choice for many AI companies. According to CNBC, a New Street Research report found that Nvidia already has a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2023/02/24/nvidia-beats-earning-expectations-and-looks-towards-ai-stock-jumps-14-in-response/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2023/02/24/nvidia-beats-earning-expectations-and-looks-towards-ai-stock-jumps-14-in-response/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63f899324fa3a14e43093b40/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/02/24/nvidia-beats-earning-expectations-and-looks-towards-ai-stock-jumps-14-in-response/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/02/24/nvidia-beats-earning-expectations-and-looks-towards-ai-stock-jumps-14-in-response/amp/",
+      "publishedDateTime": "2023-02-24T02:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-24-tirupati-temple-to-introduce-facial-recognition-system-for-darshan-from-march-1.md",
+      "title": "Tirupati Temple To Introduce Facial Recognition System For Darshan From March 1",
+      "excerpt": "The famous Tirupati temple in Andhra Pradesh is set to introduce facial recognition system for the devotees from March 1. Tirumala Tiurpathi Devastanams (TTD), the trust that manages the temple ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/feature/tirupati-temple-to-introduce-facial-recognition-system-for-darshan-from-march-1-3801768",
+      "originalUrl": "https://www.ndtv.com/feature/tirupati-temple-to-introduce-facial-recognition-system-for-darshan-from-march-1-3801768",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ndtvimg.com/i/2017-03/tirupati-temple_650x400_81488519131.jpg",
+          "width": 650,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/feature/tirupati-temple-to-introduce-facial-recognition-system-for-darshan-from-march-1-3801768/amp/1",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/feature/tirupati-temple-to-introduce-facial-recognition-system-for-darshan-from-march-1-3801768/amp/1",
+      "publishedDateTime": "2023-02-24T01:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-24-artificial-intelligence-in-drug-discovery-market-size-2023-business-strategies-growth-analysis-regional-demand-2031-forecast-research-report.md",
       "title": "Artificial Intelligence in Drug Discovery Market Size 2023 Business Strategies, Growth Analysis, Regional Demand, 2031 Forecast Research Report",
       "excerpt": "The artificial intelligence (AI) in drug discovery market size is expected to reach USD 4.13 billion by 2028 according to a new study by Report Ocean. Report Ocean presents a new report on artificial intelligence (AI) in drug discovery market size,",
@@ -980,231 +1222,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-02-23-in-ukraine-identifying-the-dead-comes-at-a-human-rights-cost.md",
-      "title": "In Ukraine, Identifying the Dead Comes at a Human Rights Cost",
-      "excerpt": "Five days after Russia launched its full-scale invasion of Ukraine, a year ago this week, US-based facial recognition company Clearview AI offered the Ukrainian government free access to its ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/russia-ukraine-facial-recognition-technology-death-military/",
-      "originalUrl": "https://www.wired.com/story/russia-ukraine-facial-recognition-technology-death-military/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/63f6321a7d87edd2f4f351b3/master/pass/ideas_GettyImages-1246812281.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/russia-ukraine-facial-recognition-technology-death-military/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/russia-ukraine-facial-recognition-technology-death-military/amp",
-      "publishedDateTime": "2023-02-22T18:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-23-machine-learning-could-fix-the-prioritization-problem-in-b2b-tech-sales.md",
-      "title": "Machine learning could fix the prioritization problem in B2B tech sales",
-      "excerpt": "Machine learning (ML) is at a point where it can enable data-driven precision for approaching the right customer contact with the right pitch at the right moment. Teams wary of trusting ML to date may not have as much of a choice in the matter — but will ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/enterprise-analytics/machine-learning-could-fix-the-prioritization-problem-in-b2b-tech-sales/",
-      "originalUrl": "https://venturebeat.com/enterprise-analytics/machine-learning-could-fix-the-prioritization-problem-in-b2b-tech-sales/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/enterprise-analytics/machine-learning-could-fix-the-prioritization-problem-in-b2b-tech-sales/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/enterprise-analytics/machine-learning-could-fix-the-prioritization-problem-in-b2b-tech-sales/amp/",
-      "publishedDateTime": "2023-02-22T18:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-02-23-biomarker-identified-that-helps-diagnose-cause-of-cognitive-decline.md",
-      "title": "Biomarker identified that helps diagnose cause of cognitive decline",
-      "excerpt": "It can be difficult to determine whether cognitive decline in older adults is caused by vascular problems or dementia. New research has now identified a biomarker associated with the vascular ...",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/medical/biomarker-diagnose-cause-cognitive-decline/",
-      "originalUrl": "https://newatlas.com/medical/biomarker-diagnose-cause-cognitive-decline/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/0da5c46/2147483647/strip/true/crop/2000x1333+0+1/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F0d%2Fd4%2F6519632142a783a09701f8ac2aed%2Fdepositphotos-232740318-l.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/medical/biomarker-diagnose-cause-cognitive-decline/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/medical/biomarker-diagnose-cause-cognitive-decline/?amp=true",
-      "publishedDateTime": "2023-02-22T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-23-ai-accelerator-chip-market-2023-is-set-to-fly-excessive-growth-in-years-to-come.md",
-      "title": "AI Accelerator Chip Market 2023 Is Set to Fly Excessive Growth in Years to Come",
-      "excerpt": "AI Accelerator Chip Market Analysis 2023 (Pre and Post Covid is covered and Report Customization is available):",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-accelerator-chip-market-2023-is-set-to-fly-excessive-growth-in-years-to-come-2023-02-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-accelerator-chip-market-2023-is-set-to-fly-excessive-growth-in-years-to-come-2023-02-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-22T15:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-23-ai-could-help-build-more-efficient-crypto-markets.md",
-      "title": "AI Could Help Build More-Efficient Crypto Markets",
-      "excerpt": "According to OpenAI’s founder, Sam Altman, ChatGPT crossed over 100 million users in just two months, a milestone it took Facebook ... for AI use cases in crypto. A further area of research ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.coindesk.com/consensus-magazine/2023/02/22/ai-could-help-build-more-efficient-crypto-markets/",
-      "originalUrl": "https://www.coindesk.com/consensus-magazine/2023/02/22/ai-could-help-build-more-efficient-crypto-markets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-22T14:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinDesk",
-        "domain": "coindesk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

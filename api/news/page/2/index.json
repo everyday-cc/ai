@@ -2,6 +2,152 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-04-26-top-10-trusted-artificial-intelligenceai-companies-in-2023.md",
+      "title": "Top 10 Trusted Artificial Intelligence(AI) Companies In 2023",
+      "excerpt": "The team of TopSoftwareCompanies.co has made a list of Top functional Artificial Intelligence companies of 2023 following certain selection criteria. The team has finalized the list of top AI developers based on their core service offerings,",
+      "sourceUrl": null,
+      "webUrl": "https://www.outlookindia.com/outlook-spotlight/top-10-trusted-artificial-intelligence-ai-companies-in-2023-news-281342",
+      "originalUrl": "https://www.outlookindia.com/outlook-spotlight/top-10-trusted-artificial-intelligence-ai-companies-in-2023-news-281342",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imgnew.outlookindia.com/uploadimage/library/free_files/jpg/ole_co_2023_04_20_080032.jpg?v=25022022",
+          "width": 768,
+          "height": 1021,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.outlookindia.com/outlook-spotlight/top-10-trusted-artificial-intelligence-ai-companies-in-2023-news-281342/amp",
+      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/outlook-spotlight/top-10-trusted-artificial-intelligence-ai-companies-in-2023-news-281342/amp",
+      "publishedDateTime": "2023-04-25T22:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Outlookindia",
+        "domain": "outlookindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-26-automated-machine-learning-automl-market-report-explained-current-growth-for-upcoming-period-2030.md",
+      "title": "Automated Machine Learning (AutoML) Market Report Explained Current Growth for upcoming period 2030",
+      "excerpt": "The recent market research titled \" Automated Machine Learning (AutoML) Market \" has analyzed the Automated Machine Learning (AutoML) Market report is a comprehensive analysis that covers various aspects of the industry,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-report-explained-current-growth-for-upcoming-period-2030-2023-04-26",
+      "originalUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-report-explained-current-growth-for-upcoming-period-2030-2023-04-26",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-25T22:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-26-sk-hynix-expects-memory-chip-market-to-begin-recovering-in-second-half.md",
+      "title": "SK Hynix expects memory chip market to begin recovering in second half",
+      "excerpt": "Despite posting a record loss, SK Hynix expects lowered production output by memory chipmakers to start a rebound later in the year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/sk-hynix-expects-memory-chip-market-to-begin-recovering-in-second-half/",
+      "originalUrl": "https://www.zdnet.com/article/sk-hynix-expects-memory-chip-market-to-begin-recovering-in-second-half/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/19557bab1648d994be6879241f56ae3f0870d2a9/2021/09/24/5a6eb553-67e0-453a-97c8-efdd56624fff/chipshot.png?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/sk-hynix-expects-memory-chip-market-to-begin-recovering-in-second-half/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sk-hynix-expects-memory-chip-market-to-begin-recovering-in-second-half/",
+      "publishedDateTime": "2023-04-25T20:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-26-avengers-director-predicts-artificial-intelligence-will-be-able-to-make-movies-in-two-years.md",
       "title": "Avengers director predicts artificial intelligence will be able to make movies in two years",
       "excerpt": "Endgame\" and \"Avengers: Infinity War\" predicts that in two years artificial intelligence could be making moves, according to comments he made at the Sands International Film Festival in St. Andrews, Scotland.",
@@ -61,7 +207,7 @@
       "originalUrl": "https://techcrunch.com/2023/04/25/ai-startup-runway-launches-app-to-bring-users-video-to-video-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -1060,7 +1206,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-camera-market-facts-and-figures-by-2030-2023-04-25",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1100,162 +1246,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-4-steps-to-improving-your-esg-risk-management-to-increase-financial-performance.md",
-      "title": "4 steps to improving your ESG risk management to increase financial performance",
-      "excerpt": "Environmental, Social, and Governance (ESG) risk management has emerged as a critical aspect of business strategy for companies worldwide. A 2023 IBM IBV study showed that organizations that are seen as ESG leaders are 43% more likely to outperform their peers on profitability. However, 57% of CEOs admit",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/4-steps-to-improving-your-esg-risk-management-to-increase-financial-performance/",
-      "originalUrl": "https://www.ibm.com/blog/4-steps-to-improving-your-esg-risk-management-to-increase-financial-performance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/04/4-steps-to-improving-your-ESG-risk-management-to-increase-financial-performance-630x330.jpg",
-          "width": 630,
-          "height": 330,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-25T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-gpu-for-deep-learning-market-sales-volume-and-forecast-2030.md",
-      "title": "GPU for Deep Learning Market Sales Volume, And Forecast 2030",
-      "excerpt": "The \" GPU for Deep Learning Market\" Size, Trends and Forecasts (2023-2030)â, provides a comprehensive analysis of the",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-sales-volume-and-forecast-2030-2023-04-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-sales-volume-and-forecast-2030-2023-04-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-25T04:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-the-generative-ai-frontier-mastering-llm-adoption-for-ceos-and-ctos-to-drive-business-success.md",
-      "title": "The Generative AI Frontier: Mastering LLM Adoption For CEOs And CTOs To Drive Business Success",
-      "excerpt": "As the adoption of LLMs expands, it's vital for leaders to understand these risks and develop strategies to mitigate them effectively, ensuring that generative AI propels their organizations forward instead of hindering their progress.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/25/the-generative-ai-frontier-mastering-llm-adoption-for-ceos-and-ctos-to-drive-business-success/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/25/the-generative-ai-frontier-mastering-llm-adoption-for-ceos-and-ctos-to-drive-business-success/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6446876e15b9e495eda821c1/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/25/the-generative-ai-frontier-mastering-llm-adoption-for-ceos-and-ctos-to-drive-business-success/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/25/the-generative-ai-frontier-mastering-llm-adoption-for-ceos-and-ctos-to-drive-business-success/amp/",
-      "publishedDateTime": "2023-04-25T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
