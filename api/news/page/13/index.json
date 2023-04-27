@@ -2,6 +2,91 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2023-04-16-mit-physicist-max-tegmark-calls-for-a-halt-on-ai-development.md",
+      "title": "MIT physicist Max Tegmark calls for a halt on AI development",
+      "excerpt": "Physicist and MIT professor Max Tegmark tells 'Unfiltered' host Dan Bongino that we should be building technology we can 'trust and understand.'",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/video/6325184853112",
+      "originalUrl": "https://www.foxnews.com/video/6325184853112",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c4b5d133-0cef-4983-92c5-91ed27dd6887/8092b1a6-c899-4a2b-a195-1aa7249216e9/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-15T19:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-16-baidu-apollo-releases-major-product-updates-to-help-manufacturers-build-smarter-cars-for-tomorrow.md",
+      "title": "Baidu Apollo Releases Major Product Updates to Help Manufacturers Build Smarter Cars for Tomorrow",
+      "excerpt": "Baidu Apollo City Driving Max is upgraded with \"lightweight HD map\", which is 80% \"lighter\" compared to traditional HD maps. Baidu's Apollo Highway Driving Pro will be deployed on Black Sesame Semiconductor's Huashan II A1000 chip computing platform and will be officially released in Q3 this year.",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2023/04/16/9795077.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2023/04/16/9795077.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-15T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-15-reviving-the-dead-with-ai-is-it-really-worth-it.md",
       "title": "Reviving The Dead With AI: Is It Really Worth It?",
       "excerpt": "If AI could let you speak with your deceased loved ones again, would you take the chance? It’s not a rhetorical question. A few companies and experts believe this will soon be possible, and some are even starting to market their own solutions.",
@@ -1078,92 +1163,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-14-nvidias-top-ai-chips-are-selling-for-more-than-40000-on-ebay.md",
-      "title": "Nvidia's top A.I. chips are selling for more than $40,000 on eBay",
-      "excerpt": "The H100, Nvidia's latest flagship AI chip, was announced last year and is currently being shipped to data centers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/04/14/nvidias-h100-ai-chips-selling-for-more-than-40000-on-ebay.html",
-      "originalUrl": "https://www.cnbc.com/2023/04/14/nvidias-h100-ai-chips-selling-for-more-than-40000-on-ebay.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107198977-1677173650792-huang.jpg?v=1681490885",
-          "width": 2949,
-          "height": 1966,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/04/14/nvidias-h100-ai-chips-selling-for-more-than-40000-on-ebay.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/04/14/nvidias-h100-ai-chips-selling-for-more-than-40000-on-ebay.html",
-      "publishedDateTime": "2023-04-14T09:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-14-microsoft-stock-is-easily-your-best-ai-bet-for-2023.md",
-      "title": "Microsoft Stock Is Easily Your Best AI Bet for 2023",
-      "excerpt": "That’s okay, though, as it’s not too late to take a position in Microsoft (NASDAQ:MSFT) stock. No doubt about it — Microsoft will continue to push the boundaries in the generative AI field this year,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/microsoft-stock-is-easily-your-best-ai-bet-for-2023",
-      "originalUrl": "https://www.nasdaq.com/articles/microsoft-stock-is-easily-your-best-ai-bet-for-2023",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-14T09:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

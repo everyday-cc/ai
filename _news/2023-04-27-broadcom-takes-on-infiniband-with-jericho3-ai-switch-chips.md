@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nextplatform.com/2023/04/26/broadcom-takes-on-infiniband
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/04/26/broadcom-takes-on-infiniband-with-jericho3-ai-switch-chips/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 86
 published: true
 
 provider:
@@ -37,6 +37,6 @@ related:
       domain: networkworld.com
     quality: 49
 
-secured: "wtRbwYM0HhLgyjUhOi9kQr57iRof2zjckifpQvcvS4xemtdLuTEbBnFRMcTRV7bDKK2p/Gd+Gj59cWLuOabNW5/D8/qB2ocnOOFfpl7KQkkAW+/RyQgy5PJ1vh2PPZID5dGwiWqJWMo10tjbzV+Y0G/YBB/AJ874/m0hRYJSNiPOcNeP275Agjnri97vWOtf/BQeD21LQwK2ERr9A8/sorc7ognyttx2Gobq421FwrIwDn9oK0R+yAFTFyb9Ox894mlm1lzAaxyV2iBomLOlM7LV8f4JoF7nNKQQYFirQS8+ruO5AmHXSCFvboWAGTV+PidWwFN9/a8Mk1DcIFvwP0qF8VFh6r3baeRc9aIyfmE=;wTp9wcd//MrbaMrBCQSxWA=="
+secured: "yJ7b2lM0PBoXcRyU39cpPOZT7WRf0MzRMlaeU6LoJ56PNw00MX1/epnHUO4XFJU4dh7DI6r2kvEjdILHXnBemq0liJECKDMJyxgHfSKPhTjSDsGIdHnO57i6FHc5UC/w5D5+CyfqrpBJy5jNVTYUsnpSYmq3AeXOJAVydtNtclda7ZXo1L3Hywb4ckPKiHNL2CvNLTCVqoL5zu8x1QMDs90xKJB9ArUxIaQU/uBA7dAwmz/50xpT0+DQkWT7yGC1OstdgZPmhJQOo9mn08DRYl9Wi+rPJfD5D04cKpeTLvt5TMy36rtws006EGa766GMeKSA5Qa9FKfSmtREdfLlc7DtLCe20Uwi09PPnhll/J40AEMi0yhhftBF0PZY+QWFG7TdtUoOh2npWCc71ZTYmv5b6OI6eZwBe6WBrjXETTa/hdWPVc+u9gRVnkd0gN0yIvseoHdBKaP24QA3GB0SkgHxWmnqYXExUyDjieMLIjQvZMktCwcFUf0Fen7plVAdWwbhbfd+rU7DTkpErEV8QA==;cu/UHh/2TVHVJUhtdDAx5A=="
 ---
 

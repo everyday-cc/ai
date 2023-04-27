@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/u-s-officials-raise-concerns-about-
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/u-s-officials-raise-concerns-about-ais-cybersecurity-implications-f32496ed"
 type: article
 quality: 87
-heat: 137
+heat: 139
 published: true
 
 provider:

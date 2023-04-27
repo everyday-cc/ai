@@ -2,21 +2,31 @@
 category: news
 title: "Interprefy unveils next-generation AI event translator Aivia"
 excerpt: "Experience the full interactive Multichannel News Release here: Multilingual meeting technology and services provider Interprefy has today unveiled Interprefy Aivia, the world's first advanced automated speech translation service for online and live events,"
-publishedDateTime: 2023-04-26T12:23:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-interprefy-unveils-next-generation-ai-event-translator-aivia-/2023/04/26/9802122.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-interprefy-unveils-next-generation-ai-event-translator-aivia-/2023/04/26/9802122.htm"
+publishedDateTime: 2023-04-26T11:01:00Z
+originalUrl: "https://www.marketwatch.com/press-release/interprefy-unveils-next-generation-ai-event-translator-aivia-2023-04-26"
+webUrl: "https://www.marketwatch.com/press-release/interprefy-unveils-next-generation-ai-event-translator-aivia-2023-04-26"
 type: article
-quality: 19
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Exclusive: Swiss startup unveils ‘world-first’ AI translation service"
@@ -34,6 +44,6 @@ related:
         height: 640
         isCached: true
 
-secured: "1fU9bsU/E6jVUS9oJln84F0O0iV3c63guCRG2e93SrSs4phvIKav43RgeqyPy1gNSRtgeDmQ4rwKSonjunlmWDFFZ02V3ua+ZYIJKYFVyx+ZsKw2Bo7Lks4EjHmhqxQ+J82Af6Xq21Kk+12Vfs0ofLRNzjVQJlkHKwlRWJkwhHnieOxegBwPkz7MydKDnMkGIqHr376eAe04hChY7t12vmgcE9TMkbHuzFc3R+bkfug6A1iJiZqrtJMEE6vItDbK8Rm4jWQeBDmko0wA5swqeitFf7rPx/NGVahzAyDgQsWbWBRnlBbZU/92L/EWjczceiIfqKAH2SHmTV67FKoTqW3B7/+yFHL1wCFZ20gWfQk=;/L8A86oCoH7/xe9Hy4lJsQ=="
+secured: "k2ex89d8Y4wWujnp1xjqAA460/I1kBiR/GRNALhZpdO0uvE15Iqep1dP3QKoiwYs0fhshG3QBE6t/aYy4EuqKuiT6qML6k3QCVOLXebS7vnb/aAc29lc4+F/2ukn6oQk9bDj+r64ACh8yeEBzzyLHcAjb91NmU5RqE0Tp7CdweLWQQo2gMMx2U09kc2jIKTcYOWKVrtaZVxLYe6J2+9o6cRYbaiSO0SIhZxK5Bn4id8Ve3fgt6YH6HvMMBhwUvs6opOdvxNEGasmpcQuX3vkFrMdbK6RPrAP4enU//B2Pyd+8x+3MyTIjqhIehMWsjpKQuYXSG886U5TyMdIyLcSjTyijG5jYJM0D9042L5xZWY=;Uf3iiMSSgQPr9jVZx6wl4w=="
 ---
 

@@ -157,6 +157,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Engineer Combines ChatGPT with Robot Dog, Spot for Enhanced Communication"
+    excerpt: "In a world where artificial intelligence and robots are becoming increasingly prevalent, it’s always exciting to see how engineers are pushing the boundaries and finding new ways to make these machines even more useful."
+    publishedDateTime: 2023-04-27T05:26:00Z
+    webUrl: "https://www.gizmochina.com/2023/04/27/chatgpt-spot-dog-communication/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 48
   - title: "ChatGPT: Opportunities and threats"
     excerpt: "November 30, 2022 to be precise, ChatGPT, an artificial intelligence chatbot, has been gaining rave reviews as"
     publishedDateTime: 2023-04-25T16:46:00Z

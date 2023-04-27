@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/games/artificial-generative-intelligence-ris
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/artificial-generative-intelligence-risks-a-return-to-cultural-colonialism/amp/"
 type: article
 quality: 73
-heat: 96
+heat: 93
 published: true
 
 provider:

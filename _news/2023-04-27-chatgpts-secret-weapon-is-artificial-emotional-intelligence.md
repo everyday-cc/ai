@@ -162,6 +162,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Engineer Combines ChatGPT with Robot Dog, Spot for Enhanced Communication"
+    excerpt: "In a world where artificial intelligence and robots are becoming increasingly prevalent, it’s always exciting to see how engineers are pushing the boundaries and finding new ways to make these machines even more useful."
+    publishedDateTime: 2023-04-27T05:26:00Z
+    webUrl: "https://www.gizmochina.com/2023/04/27/chatgpt-spot-dog-communication/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 48
   - title: "YouTube case at Supreme Court could shape protections for ChatGPT and AI"
     excerpt: "A forthcoming decision whether to weaken a powerful shield protecting internet companies could have implications for artificial intelligence chatbot ChatGPT."
     publishedDateTime: 2023-04-24T09:12:00Z
@@ -329,6 +338,6 @@ related:
       domain: benzinga.com
     quality: 0
 
-secured: "zAe8WcLbUl2gPTkigdVwq/X/eIKvpYO2PxtJa5Lsjs4lRyxTXSh6QssDsJHPqohdDorXAS3M70EZxpEuOeZAEldUBboCtHMLAOcwSRf58qGq/GKnwu2Gdh8f1ooyMrIIg2U8J8KM01YZtCVTfk380uDy4oOAQwTFoJZpdYtXsk+ZOPAwKkpgTyhCAxVcZxEkuwIj3/kZavFFBZqqL7boX7XlCJ3ZuMfyP6+QgscJxsrziUNT3oxNrcDJELt2tEPInv2QeQvdV/2CiVsrfsJ5WpzJeGEdBMoTKvkCggv5ReBQvy6YAwALEDoQ1h/PKgKLLIkB7RnvAcraTCwpPQFbjK8F2d+zk+e/V1X3ZHS11kU=;2ixTdm1IO54WWv8SfkIQVA=="
+secured: "65yBmsBRV6BDezbmb8EzbQr19C8LX1w6hLgLvjoK/e7Mfq8nhoUcvNLKKE1vmuHcmKXC7p7kUfhc3YgsHfLJeNlZD67UKmZrTdQ+i0o9kEIstiO14SrPPVe2x/1/BeuAnWY3AocL2sOqotY9Z9R8drEJU/Q6Nlu7fv//XqZ0gWuFpwver/CU/7xksyNJZgmRjwlUEziY5EI8QPcNxFKGKsHHPFg5KUMiL6BMVhjUnTfngsE9IEW/6U5gMuvmcfohf9n1REXpTkIW9UQ/lUEPaRLBa1iZ6P8F42/GwJ7WsQK0LT1A5ZaNwMaHoPBRXBZcQOeQdT+OdRGH7z5SiRXh45seUwaQPG9sSgFcNLbegH2bLkkkzGfY+fHkxIIgTBUGCDbFLBRlSyLVZIJi5FNCrmf8ytsUubHtGvZalViNzsHQP/Hdvp/f8ZdQwxD4kZaug4J9ooTPIF5PLvdy2KJWKCpRV1rRgkabLVdqRBEMaK/TjEoTE4TOuC3GigezU9QzqwXNgoLw3aSW+1ZV7oThAg==;wviARd5XXz64lmsBf7wzgw=="
 ---
 

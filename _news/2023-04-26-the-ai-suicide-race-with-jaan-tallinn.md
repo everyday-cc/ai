@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/calumchace/2023/04/26/the-ai-suicide-ra
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2023/04/26/the-ai-suicide-race-with-jaan-tallinn/amp/"
 type: article
 quality: 87
-heat: 89
+heat: 87
 published: true
 
 provider:

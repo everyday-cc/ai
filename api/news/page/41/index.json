@@ -2,6 +2,94 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2023-03-20-artificial-intelligence-institute-set-up-in-south-africa.md",
+      "title": "Artificial intelligence institute set up in South Africa",
+      "excerpt": "Communications and Digital Technologies Minister Mondli Gungubele, in partnership with the Tshwane University of Technology (TUT) and the University of Johannesburg, launched the Artificial Intelligence Institute of South Africa (AIISA).",
+      "sourceUrl": null,
+      "webUrl": "https://mg.co.za/africa/2023-03-19-artificial-intelligence-institute-set-up-in-south-africa/",
+      "originalUrl": "https://mg.co.za/africa/2023-03-19-artificial-intelligence-institute-set-up-in-south-africa/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mg.co.za/wp-content/uploads/2023/03/artificial-intelligence.jpg",
+          "width": 1600,
+          "height": 914,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mg.co.za/africa/2023-03-19-artificial-intelligence-institute-set-up-in-south-africa/?amp",
+      "cdnAmpWebUrl": "https://mg-co-za.cdn.ampproject.org/c/s/mg.co.za/africa/2023-03-19-artificial-intelligence-institute-set-up-in-south-africa/?amp",
+      "publishedDateTime": "2023-03-19T14:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mail & Guardian",
+        "domain": "mg.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-03-20-media-alert-brainchip-illustrates-aiot-readiness-at-the-edge-impulse-ml-series.md",
+      "title": "Media Alert: BrainChip Illustrates AIoT Readiness at the Edge Impulse ML Series",
+      "excerpt": "Please join BrainChip at Edge Impulse ML by registering for one or more of the upcoming showcases via the following links: BrainChip is the worldwide leader in edge AI on-chip processing and learning. The company's first-to-market, fully digital ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/03/b31413103/media-alert-brainchip-illustrates-aiot-readiness-at-the-edge-impulse-ml-series",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/03/b31413103/media-alert-brainchip-illustrates-aiot-readiness-at-the-edge-impulse-ml-series",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/31413103",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31413103",
+      "publishedDateTime": "2023-03-19T14:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-03-19-torontos-ontario-line-will-run-new-electric-driverless-trains-heres-what-theyll-look-like.md",
       "title": "Toronto’s Ontario Line will run new electric, driverless trains. Here’s what they’ll look like",
       "excerpt": "GFG Rail, which is designing the subway’s rolling stock, has revealed renderings for the new electric fleet, which, once operational, will run through downtown Toronto, connecting Exhibition ...",
@@ -1052,101 +1140,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-18-new-combination-therapy-proves-effective-against-prostate-cancer.md",
-      "title": "New Combination Therapy Proves Effective Against Prostate Cancer",
-      "excerpt": "Prostate cancer is fast gaining as a common cancer form among men; more threatening since its symptoms often go unnoticed until it's too late. This quiz tests your knowledge on prostate cancer, its diagnosis and treatment options and is as mandatory for men as the screening tests mentioned here are!",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/new-combination-therapy-proves-effective-against-prostate-cancer-210948-1.htm",
-      "originalUrl": "https://www.medindia.net/news/new-combination-therapy-proves-effective-against-prostate-cancer-210948-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.medindia.net/health-images/vasectomy-may-up-risk-of-prostate-cancer.jpg",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/new-combination-therapy-proves-effective-against-prostate-cancer-210948-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/new-combination-therapy-proves-effective-against-prostate-cancer-210948-1.htm",
-      "publishedDateTime": "2023-03-17T17:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-18-a-mind-controlled-beer-pouring-robot-has-landed.md",
-      "title": "A mind-controlled beer-pouring robot has landed",
-      "excerpt": "The robot reads your mind and pours a beer for you - in this case, a ginger beer. You can see it in action at the Open Studio Day at The Watershed in Bristol on Saturday. Its inventor says they hope it inspires more young people to become engineers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/av/uk-england-somerset-64989895",
-      "originalUrl": "https://www.bbc.com/news/av/uk-england-somerset-64989895",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/156D1/production/_129016778_p0f9c0v9.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-17T15:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

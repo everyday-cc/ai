@@ -60,6 +60,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Elon Musk has had a wild week. Now he wants to start an AI company."
+    excerpt: "He also served on its board before leaving it in 2018. In his interview with Fox, he explained how the AI project he helped start escaped his grasp. “I really put a lot of effort into creating ..."
+    publishedDateTime: 2023-04-23T02:29:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2023/04/21/elon-musk-ai-startup/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 37
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YVKU5ZELA3MX4RBMAWFQOI7XL4.JPG&w=1440"
+        width: 1440
+        height: 961
+        isCached: true
 
 secured: "gNrXp2QNHwG5+uRXBce5Gf8kaLk4F4yW5IWF4T2B/uwZha4XLAqw17xMDyLo5V3utbg1/fNlrh1T0Kn6SZ+/e19YuJYe7prmHDaDthrZ6L6qFIhLEYMx+hz/u/+l88+nUGcOhJbZTI2Luksz/ec/+6XoPWbq9knd3tffLbbistKlGmRrZsIjZlTqBdUtpfJmin4ShepbsubX3hPEzThFiObqw7tmrfGngdOiqQy8BXs+G6XvX3hSFbcuVigr8FzhAtQ+5E6UU375bSheU1zmhM2/TcAKUJOseRs25Ygv9jd+zma+J9EAI6pyCb2/aWG5Vguk8vHOcMtiY/hQybtqJ29C2Vb9LKrPzJlJMqyIYkQ=;jgnrrc4GPM6htXahwW1KRw=="
 ---

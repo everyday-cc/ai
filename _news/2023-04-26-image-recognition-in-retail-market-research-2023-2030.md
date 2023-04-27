@@ -85,6 +85,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Neural Networks Market 2023 Size and Share Analysis Report 2030"
+    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
+    publishedDateTime: 2023-04-26T14:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-neural-networks-market-2023-size-and-share-analysis-report-2030-2023-04-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global AI for Speech Recognition Market 2023 [New Report] | Industry Size and Revenue Expand till 2030 | 122 Pages Report"
     excerpt: "The AI for Speech Recognition Market (2023-2030) Updated Latest Research Report is divided into various types [Software, Hardware] and applications [Smart Home, Vehicle System, Medical and Healthcare,"
     publishedDateTime: 2023-04-26T09:22:00Z

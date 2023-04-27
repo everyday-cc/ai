@@ -2,6 +2,83 @@
   "page": 137,
   "value": [
     {
+      "path": "_news/2023-01-04-new-nvidia-ai-tech-unblurs-grainy-youtube-videos.md",
+      "title": "New Nvidia AI tech unblurs grainy YouTube videos",
+      "excerpt": "You’ll need a 30 or 40 series Nvidia GPU to make it work, however. As part of Nvidia’s CES 2023 presentation, the company unveiled RTX Video Super Resolution. This new AI tech will upscale videos to 4K in both Chrome and Edge browsers.",
+      "sourceUrl": null,
+      "webUrl": "https://knowtechie.com/nvidia-rtx-video-super-resolution-demo-ces-2023/",
+      "originalUrl": "https://knowtechie.com/nvidia-rtx-video-super-resolution-demo-ces-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://knowtechie.com/wp-content/uploads/2023/01/nvidia-upscaling-example-1000x600.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-04T06:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KnowTechie",
+        "domain": "knowtechie.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-04-tdk-to-acquire-qeexo-to-enable-complete-smart-edge-platforms.md",
+      "title": "TDK to acquire Qeexo to enable complete smart edge platforms",
+      "excerpt": "TDK Corporation (TSE: 6762) (CEO & President: Noboru Saito, hereinafter \"TDK\") announced that today TDK has agreed to acquire Qeexo, Co.",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/tdk-to-acquire-qeexo-to-enable-complete-smart-edge-platforms-301710811.html",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/tdk-to-acquire-qeexo-to-enable-complete-smart-edge-platforms-301710811.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-04T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-04-citiustech-collaborates-with-microsoft-to-streamline-value-based-contracting-and-provider-performance-management-for-health-plans-and-systems.md",
       "title": "CitiusTech Collaborates with Microsoft to Streamline Value-Based Contracting and Provider Performance Management for Health Plans and Systems",
       "excerpt": "CitiusTech, a global provider of digital technology and consulting services to healthcare and life sciences organizations, announced today that it is working with Microsoft to jointly offer PERFORM+ Contracts;",
@@ -1035,92 +1112,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-04-nvidia-unveils-advances-in-autonomous-robotics-simulation-using-ai.md",
-      "title": "Nvidia unveils advances in autonomous robotics simulation using AI",
-      "excerpt": "Nvidia Corp. today at CES 2023 announced major updates to Isaac Sim, its robotics simulation tool that allows designers and engineers to build and test virtual robots in realistic environments, such as warehouses,",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/01/03/nvidia-unveils-advances-autonomous-robotics-simulation-using-ai/",
-      "originalUrl": "https://siliconangle.com/2023/01/03/nvidia-unveils-advances-autonomous-robotics-simulation-using-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/01/Isaac-Sim-Improves-RTX-Lidar-and-Sensor-Support.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-03T09:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-04-deep-learning-model-can-detect-disease-causing-mosaic-mutations.md",
-      "title": "Deep-Learning Model Can Detect Disease-Causing Mosaic Mutations",
-      "excerpt": "California-based researchers described how they trained a deep-learning model to detect DNA mutations called mosaic mutations that could support the development of treatments for several diseases.",
-      "sourceUrl": null,
-      "webUrl": "https://healthitanalytics.com/news/deep-learning-model-can-detect-disease-causing-mosaic-mutations",
-      "originalUrl": "https://healthitanalytics.com/news/deep-learning-model-can-detect-disease-causing-mosaic-mutations",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthitanalytics.com/images/sized/2019-11-18-GettyImages-1047719428-e4b00c1efb9503a805928b101c78b499.png",
-          "width": 480,
-          "height": 278,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://healthitanalytics.com/news/amp/deep-learning-model-can-detect-disease-causing-mosaic-mutations",
-      "cdnAmpWebUrl": "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/deep-learning-model-can-detect-disease-causing-mosaic-mutations",
-      "publishedDateTime": "2023-01-03T09:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics",
-        "domain": "healthitanalytics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

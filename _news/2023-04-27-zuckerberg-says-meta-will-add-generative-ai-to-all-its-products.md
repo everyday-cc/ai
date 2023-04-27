@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2023/04/26/zuckerberg-says-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/04/26/zuckerberg-says-meta-will-add-generative-ai-to-all-its-products/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 109
 published: true
 
 provider:
@@ -61,6 +61,6 @@ related:
         height: 512
         isCached: true
 
-secured: "TRkf2naUhRtSrXk5O6tqvNN6rQ5o9CKWquT+/ygvab/LsopLTmwhRGgbdWCqgw9y4aBVRqp8Jcy3pzPC0MzGSKjG9vhhJUrct2GTedaxM7N0VoVQKC0+V0NCm4Aq9mX7qvWrL2mpWpEhNFF/XUvZE4tu4piRi4A/K5VUFbB174WUFu2qdoJsYN51+syUedAWeTwZusQzjtdkamzZfHNbqEjU1zm26LHAXruO6/Q6kB7/3kV3vHWKpw/1iVO6FXqo6qS+lk1sQMX8w4zF2s3L5ro5DSFO535aGpcaCvllQLrlJ+lLZZ7UyvY05cA7sIZO4LRHzDjc8zoEvHFGZ1e1BPkPQFBGkFfzwnmqXn+6XME=;ILlxLQsui1SXO/+gZl2fEw=="
+secured: "d4gGXB9BK/x2bhnKIcbm0CDuYcguW/rfk6FNKAwcw/cGDp+B9KWdRWMrq6lwFToq8a9JjitF58vZzFK4RzGNDWLZ2l5LTORPiHV3HZL4vwN+oqjo0cqYKOsO0EJn1D1DTTwe7GIcIydkOFBnjFSy/n0r1aw7Lu8ztvzxQ+eSnRUPx6NfSJT4OlG+w4khjK1GW5IcnHiE+FRpN2CN2qCqP5LacDUQjLiGVDg3p5ehxoYRK3ncwz5uZQM1E2W4i1OIzU5XaT1KshUARpB5l5QusoOrXXnlpA44agUzl9YJH2a8kggcbUBHOueolP2AQP02ZC6o6h0ko9sTVi3SOM/lyo0ZaGSG1fjTrWrJmYlmgN6AGDgnhhn/ii9TpM39i0lapyh997Mhf3CWSiuk6cZIYAGOoAHeVCvldIB1xmaOrZUwB6T+a6RQTkbGfJDJ7W7GvmvCzocBWtxR1iBjNw2uEcvejctulbLI0jMz1678XWb8jBz48i26cu7SzIZsxrt7deNx7/jQ4skc3W0jy7UK/w==;kW9rxsqZWqOduF2UbLXjug=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna81696"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna81696"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -42,7 +42,21 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Elon Musk discusses artificial intelligence with Sen. Schumer"
+    excerpt: "Twitter owner and Tesla CEO Elon Musk on Wednesday said he discussed artificial intelligence in a meeting with Senate Majority Leader Chuck Schumer."
+    publishedDateTime: 2023-04-26T21:51:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2023/04/26/elon-musk-capitol-hill-ai/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 37
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OWFZVZXCL4I6TPT7JTEFAF6DN4_size-normalized.jpg&w=1440"
+        width: 1440
+        height: 965
+        isCached: true
 
-secured: "TWWJSW0vAtRT+WAM96T8G9UfGM2VLOqtCjk0Uql1TCkKrZaixtZBoDiqHSeKm4FlFlNjnpMUS1wShrTrLRwTtpsaH0v4MDC5oZejo78MTBnszJKn0APvjea8LNtUBNfyPOb/R8MhyVeyLnNYnMMxTCXrW6boryK1Wo7x7sluZO1Y+Uh/Tw1o6JPotfq6lB3c1SqT2rK/cGrB/n4w9bGxEbLTQNkVwGkhUdIMX8KlClVgFDhfUf3iUn8elMMHv2c6fY/wel47iecioIR9xx4gnoCipMAMobQ1OqG65nj66cdmOW3/FOsydHS1SrMU3vIwpzoCdd2ah4c0k6K6wy5T9BPYuZH7pIyjtybds48LV8U=;0NjvSMyacRe5UAsPifqSwQ=="
+secured: "0qvZSQhtQpbZcKt0ajSsEA7q3/QHyPt39P0xyrGKp/I/aNTisl/o2t9RE29NbMTrJ9lKEqf+aA54DhPmA7v5w4spCHjmb6+UQfyv8/QUwO8dt2r4mhjBPFmNuFWpLAjMCiGcsIu4Xj9Tv7MyEYYTX9yhAjFAc7my9t/ZAP1NTZkExuyrO1UMjP4iQ1EpVV8DGsfo3NaZmpMbV/K8B2LB49WG78lMzxSI9mEHx8U7m0I0hl8rwStsMKr0WTZIh6rPz3r21Mi3yNs+NycmIABAkTkljkgTvlonaG25aywWhkM+thAc2Y7LQaNKyJDkIfhGYHS0KPVjFE8p+G4qHVGyD3uMWEA8JpevyO33Ut7vTHTSS5JRiAWWkPpWdv8KyM8eHysqj4/R5AixtVqW22anTk65mvDx+nfDn8rQDRD1Hlxig1wC0kuVFMaFEIbucwUJekVoy0XmaZypngy29qGaS4UEcqAW2KytHY9j0WrSvBk6CgrhiFDRTqttJEPwZx9wRtee7bTve/JotnTk2PoWow==;G+H/U2lX/jGgTmeQ90FymQ=="
 ---
 

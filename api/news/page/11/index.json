@@ -2,6 +2,101 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-04-18-covenant-varsity-firm-partner-on-ai-language-translation-device.md",
+      "title": "Covenant varsity, firm partner on AI, language translation device",
+      "excerpt": "According to him, the goal of automatic translation of free-text and documents from foreign languages into African languages (or between any two languages) is one of the oldest pursuits of AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://punchng.com/covenant-varsity-firm-partner-on-ai-language-translation-device/",
+      "originalUrl": "https://punchng.com/covenant-varsity-firm-partner-on-ai-language-translation-device/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.punchng.com/wp-content/uploads/2019/08/27160635/Covenant-University.jpg",
+          "width": 640,
+          "height": 388,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://punchng.com/covenant-varsity-firm-partner-on-ai-language-translation-device/?amp",
+      "cdnAmpWebUrl": "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/covenant-varsity-firm-partner-on-ai-language-translation-device/?amp",
+      "publishedDateTime": "2023-04-17T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Punch Newspapers",
+        "domain": "punchng.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-18-europe-spins-up-ai-research-hub-to-apply-accountability-rules-on-big-tech.md",
+      "title": "Europe spins up AI research hub to apply accountability rules on Big Tech",
+      "excerpt": "For the European way to [do] artificial intelligence. For something that is autonomous — which is leading the world in terms of non-standard research technology in this field, which is such a ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/04/18/ecat/",
+      "originalUrl": "https://techcrunch.com/2023/04/18/ecat/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/04/algo-trans.jpg?resize=1200,697",
+          "width": 1200,
+          "height": 697,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/04/18/ecat/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/04/18/ecat/amp/",
+      "publishedDateTime": "2023-04-17T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-18-generative-ai-companies-top-12-leaders.md",
       "title": "Generative AI Companies: Top 12 Leaders",
       "excerpt": "Generative AI companies — both existing enterprises that are adding generative AI to their solution stacks and new generative AI startups — are popping up everywhere and quickly. But what makes generative AI companies so different from other AI and ML companies?",
@@ -1113,109 +1208,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-17-harnessing-the-power-of-ai-in-the-insurance-sector.md",
-      "title": "Harnessing The Power Of AI In The Insurance Sector",
-      "excerpt": "AI can help insurers evaluate risk more accurately by analyzing large amounts of data such as historical claims data, credit scores and social media activity—thereby enabling in",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/17/harnessing-the-power-of-ai-in-the-insurance-sector/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/17/harnessing-the-power-of-ai-in-the-insurance-sector/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63c15e4efdaea7ad1989b8c5/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/17/harnessing-the-power-of-ai-in-the-insurance-sector/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/17/harnessing-the-power-of-ai-in-the-insurance-sector/amp/",
-      "publishedDateTime": "2023-04-17T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-17-elon-musk-and-ai-leaders-call-for-gpt-4-to-pause-is-it-about-managing-risks-or-catching-up-in-the-ai-race.md",
-      "title": "Elon Musk And AI Leaders Call For GPT-4 To Pause: Is It About Managing Risks Or Catching Up In The AI Race?",
-      "excerpt": "Many of the people who signed the Pause letter have invested in AI. The pause will not manage the risks, but give AI investors time to catch up on the AI arms race. Instead of pausing, we need better regulation of AI based on the leadership principles of transparency and inclusion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/timabansal/2023/04/17/elon-musk-and-ai-leaders-call-for-gpt-4-to-pause-is-it-about-managing-risks-or-catching-up-in-the-ai-race/",
-      "originalUrl": "https://www.forbes.com/sites/timabansal/2023/04/17/elon-musk-and-ai-leaders-call-for-gpt-4-to-pause-is-it-about-managing-risks-or-catching-up-in-the-ai-race/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/643c2f6670dc16b795fe5714/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/timabansal/2023/04/17/elon-musk-and-ai-leaders-call-for-gpt-4-to-pause-is-it-about-managing-risks-or-catching-up-in-the-ai-race/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timabansal/2023/04/17/elon-musk-and-ai-leaders-call-for-gpt-4-to-pause-is-it-about-managing-risks-or-catching-up-in-the-ai-race/amp/",
-      "publishedDateTime": "2023-04-17T03:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

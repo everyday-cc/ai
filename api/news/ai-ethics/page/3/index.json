@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-03-08-ai-in-2023-ethics-in-the-spotlight.md",
+      "title": "AI In 2023: Ethics In The Spotlight",
+      "excerpt": "US firm Getty",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/news/ai-in-2023-ethics-in-the-spotlight-2ac88d6c",
+      "originalUrl": "https://www.barrons.com/news/ai-in-2023-ethics-in-the-spotlight-2ac88d6c",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.barrons.com/asset/external-media/afp/AFP1952584778056026783150258099093848347974-technology-computing-ai-society-politics-1.jpg",
+          "width": 1536,
+          "height": 734,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/news/ai-in-2023-ethics-in-the-spotlight-2ac88d6c",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/ai-in-2023-ethics-in-the-spotlight-2ac88d6c",
+      "publishedDateTime": "2023-03-08T04:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-07-sas-data-ethics-chief-talks-about-keeping-an-ethical-eye-on-ai.md",
       "title": "SAS' data ethics chief talks about keeping an ethical eye on AI",
       "excerpt": "SAS Institute's Data Ethics Practice's director Reggie Townsend. Photo illustration: Lindsey Bailey/Axios. Photo courtesy of SAS Institute The U.S. is at a crossroads when it comes to the future of artificial intelligence,",
@@ -1359,58 +1402,6 @@
         "AI in Healthcare",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-data-and-ai-ethics-market-future-trends-demand-2023-and-forecast-to-2029.md",
-      "title": "Data and AI Ethics Market Future Trends Demand 2023 and Forecast to 2029",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Feb 08, 2023 (The Expresswire) -- Latest \"Data and AI Ethics Market\" Size, Share and Trends Analysis Research Report 2023 - By Applications (BFSI, Government and Defense ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-future-trends-demand-2023-and-forecast-to-2029-2023-02-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-future-trends-demand-2023-and-forecast-to-2029-2023-02-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-08T14:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

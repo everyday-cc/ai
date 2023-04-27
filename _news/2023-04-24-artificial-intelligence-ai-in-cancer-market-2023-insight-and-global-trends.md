@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI Accelerator Chip Market Demand by 2030"
+    excerpt: "The latest market research report on the Global \"AI Accelerator Chip Market\" is segmented by Regions, Country, Company"
+    publishedDateTime: 2023-04-26T12:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-accelerator-chip-market-demand-by-2030-2023-04-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Face Recognition Software Market New Development Strategy [2023-2030]| Fully Explained"
     excerpt: "The \"Face Recognition Software Market\" Report covers the global and regional market with an in-depth analysis of"
     publishedDateTime: 2023-04-25T10:59:00Z

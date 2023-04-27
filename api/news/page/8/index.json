@@ -2,6 +2,92 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-04-20-artificial-intelligence-being-used-at-omahas-chi-health-clinics.md",
+      "title": "Artificial intelligence being used at Omaha’s CHI Health clinics",
+      "excerpt": "OMAHA, Neb. (WOWT) - The types of AI that healthcare providers at CHI Health use are the kind patients rarely see. “This is all done to help the providers and the nurses, and it informs them ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wowt.com/2023/04/21/artificial-intelligence-being-used-omahas-chi-health-clinics/",
+      "originalUrl": "https://www.wowt.com/2023/04/21/artificial-intelligence-being-used-omahas-chi-health-clinics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-wowt-prod.cdn.arcpublishing.com/resizer/Hsw_OILhmQlPWzD1D8GAaqnUcuE=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/PT2T74TZ7JCYNPQLYYPTGDBOXY.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wowt.com/2023/04/21/artificial-intelligence-being-used-omahas-chi-health-clinics/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-wowt-com.cdn.ampproject.org/c/s/www.wowt.com/2023/04/21/artificial-intelligence-being-used-omahas-chi-health-clinics/?outputType=amp",
+      "publishedDateTime": "2023-04-19T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WOWT.com",
+        "domain": "wowt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-20-cellular-data-controlled-robot.md",
+      "title": "Cellular Data Controlled Robot",
+      "excerpt": "[Jatinderjit] sent along the latest in LEGO robotics. The cell phone controlled robot. It’s based on a LEGO Excavator kit with a few spare parts via ebay. The controller is a Nokia phone running ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2008/02/02/cellular-data-controlled-robot/",
+      "originalUrl": "https://hackaday.com/2008/02/02/cellular-data-controlled-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://hackaday.com/wp-content/uploads/2008/02/cell-bot-nokia.jpg",
+          "width": 262,
+          "height": 325,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-19T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-20-new-neural-network-uses-common-sense-to-make-fake-bird-images-from-text.md",
       "title": "New neural network uses common sense to make fake bird images from text",
       "excerpt": "The network was trained using a database of bird images and text descriptions. The generated bird images achieved competitive scores when compared with those produced using other neural network ...",
@@ -1045,93 +1131,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-global-healthcare-artificial-intelligence-market-by-2023-2029-with-revenue-outsourcing.md",
-      "title": "Global Healthcare Artificial Intelligence Market by [2023-2029] with Revenue Outsourcing",
-      "excerpt": "The Global Healthcare Artificial Intelligence market is anticipated to rise at a considerable rate during the forecast period. The market is growing at a steady rate and with the rising adoption of strategies by key players,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-healthcare-artificial-intelligence-market-by-2023-2029-with-revenue-outsourcing-2023-04-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-healthcare-artificial-intelligence-market-by-2023-2029-with-revenue-outsourcing-2023-04-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-18T21:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-anchorage-assembly-heavily-limits-city-use-of-facial-recognition-technology.md",
-      "title": "Anchorage Assembly heavily limits city use of facial recognition technology",
-      "excerpt": "If the city opts to purchase and use the technology, the Assembly must approve it, and there must be a public hearing.",
-      "sourceUrl": null,
-      "webUrl": "https://alaskapublic.org/2023/04/18/anchorage-assembly-heavily-limits-city-use-of-facial-recognition-technology/",
-      "originalUrl": "https://alaskapublic.org/2023/04/18/anchorage-assembly-heavily-limits-city-use-of-facial-recognition-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-18T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Alaska Public Media",
-        "domain": "alaskapublic.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

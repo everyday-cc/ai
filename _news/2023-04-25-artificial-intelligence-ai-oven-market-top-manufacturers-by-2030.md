@@ -36,6 +36,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI Accelerator Chip Market Demand by 2030"
+    excerpt: "The latest market research report on the Global \"AI Accelerator Chip Market\" is segmented by Regions, Country, Company"
+    publishedDateTime: 2023-04-26T12:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-accelerator-chip-market-demand-by-2030-2023-04-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) in Cancer Market 2023 Insight and Global Trends"
     excerpt: "The Artificial Intelligence (AI) in Cancer Market (2023-2030) Updated Latest Research Report analyzes the market's"
     publishedDateTime: 2023-04-24T06:59:00Z

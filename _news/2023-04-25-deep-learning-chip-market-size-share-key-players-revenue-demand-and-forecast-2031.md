@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning (ML) Platforms Market 2023 Size and Share Analysis Report 2030"
+    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
+    publishedDateTime: 2023-04-26T14:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-ml-platforms-market-2023-size-and-share-analysis-report-2030-2023-04-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 80
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Deep Learning Software Market Future Trends Outlook 2023, and Forecast to 2030 | Microsoft, Google, IBM"
     excerpt: "The most important motive of Deep Learning Software Market studies is to collect the maximum beneficial insights for"
     publishedDateTime: 2023-04-26T06:38:00Z

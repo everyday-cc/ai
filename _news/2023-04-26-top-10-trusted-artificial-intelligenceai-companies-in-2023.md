@@ -9,7 +9,7 @@ ampWebUrl: "https://www.outlookindia.com/outlook-spotlight/top-10-trusted-artifi
 cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/outlook-spotlight/top-10-trusted-artificial-intelligence-ai-companies-in-2023-news-281342/amp"
 type: article
 quality: 72
-heat: 74
+heat: 72
 published: true
 
 provider:

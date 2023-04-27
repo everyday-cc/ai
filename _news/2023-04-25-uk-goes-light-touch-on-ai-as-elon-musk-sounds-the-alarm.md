@@ -43,6 +43,20 @@ related:
         width: 2500
         height: 1663
         isCached: true
+  - title: "Elon Musk discusses artificial intelligence with Sen. Schumer"
+    excerpt: "Twitter owner and Tesla CEO Elon Musk on Wednesday said he discussed artificial intelligence in a meeting with Senate Majority Leader Chuck Schumer."
+    publishedDateTime: 2023-04-26T21:51:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2023/04/26/elon-musk-capitol-hill-ai/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 37
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OWFZVZXCL4I6TPT7JTEFAF6DN4_size-normalized.jpg&w=1440"
+        width: 1440
+        height: 965
+        isCached: true
 
 secured: "d+0kHCwrri9lIjT6gPFVexdVjPdySLFkkw2BHJr/C8/C7qNNDrgWRkxD2mnIa381XVk37WbkHhLjf3sHD6oBKlYC/k/xab14/SuaLcOl+8UAP4TTXCSTZMIM8L6OXywwZBW66V2rPixx8s/gHn8WiIps+mX15mEOi7XnFI/3rwMIqdmkBDpQ/vlEz9xZEOWrMNq8oHy6CWcKspGx+wSmf4BCacqHZIsVQvf3UljPKckU4cEk9NYWMu+pLxo9Gsdof7SjDZDFs8pJkwEI/Q5cFqla9LMg4cVb546nn1owV7s70/AZJn0K9//fwGwFDOYgvuaHZ9FCZkAFKV7dR4OK35s+KGSs87S5NzkRVpRjI88=;hQP6euMlYzJcNeKbs6m/Mg=="
 ---

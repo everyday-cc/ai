@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/advisor/business/ai-statistics/"
 webUrl: "https://www.forbes.com/advisor/business/ai-statistics/"
 type: article
 quality: 67
-heat: 89
+heat: 87
 published: true
 
 provider:

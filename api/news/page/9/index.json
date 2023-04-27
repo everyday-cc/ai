@@ -2,6 +2,93 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-04-19-global-healthcare-artificial-intelligence-market-by-2023-2029-with-revenue-outsourcing.md",
+      "title": "Global Healthcare Artificial Intelligence Market by [2023-2029] with Revenue Outsourcing",
+      "excerpt": "The Global Healthcare Artificial Intelligence market is anticipated to rise at a considerable rate during the forecast period. The market is growing at a steady rate and with the rising adoption of strategies by key players,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-healthcare-artificial-intelligence-market-by-2023-2029-with-revenue-outsourcing-2023-04-19",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-healthcare-artificial-intelligence-market-by-2023-2029-with-revenue-outsourcing-2023-04-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-18T21:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-19-anchorage-assembly-heavily-limits-city-use-of-facial-recognition-technology.md",
+      "title": "Anchorage Assembly heavily limits city use of facial recognition technology",
+      "excerpt": "If the city opts to purchase and use the technology, the Assembly must approve it, and there must be a public hearing.",
+      "sourceUrl": null,
+      "webUrl": "https://alaskapublic.org/2023/04/18/anchorage-assembly-heavily-limits-city-use-of-facial-recognition-technology/",
+      "originalUrl": "https://alaskapublic.org/2023/04/18/anchorage-assembly-heavily-limits-city-use-of-facial-recognition-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-18T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Alaska Public Media",
+        "domain": "alaskapublic.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-19-divisions-grow-over-use-of-facial-recognition-in-california.md",
       "title": "Divisions Grow Over Use of Facial Recognition in California",
       "excerpt": "(TNS) — California legislators are grappling over how to deal with facial recognition technology in policing, leading to tensions between one-time allies on the issue. Assemblyman Phil Ting ...",
@@ -1049,92 +1136,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-18-carbyne-launches-live-audio-translation-for-apex-emergency-call-platform.md",
-      "title": "Carbyne Launches Live Audio Translation for APEX Emergency Call Platform",
-      "excerpt": "Revolutionary AI technology helps customers reduce errors, support diversity, save time, and reduce costsDENVER, April 18, 2023 /PRNewswire/ --",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/carbyne-launches-live-audio-translation-for-apex-emergency-call-platform-1032239829",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/carbyne-launches-live-audio-translation-for-apex-emergency-call-platform-1032239829",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-18T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-18-photographer-admits-prize-winning-image-was-ai-generated.md",
-      "title": "Photographer admits prize-winning image was AI-generated",
-      "excerpt": "Recent advancements in the use of AI in chatbots, driverless cars, song-writing software and ... Photography Organisation that the photograph was \"co-created\" with artificial intelligence. \"In our correspondence, he explained how following 'two decades ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tbsnews.net/world/photographer-admits-prize-winning-image-was-ai-generated-618918",
-      "originalUrl": "https://www.tbsnews.net/world/photographer-admits-prize-winning-image-was-ai-generated-618918",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/04/18/ai_image_award.png",
-          "width": 600,
-          "height": 314,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-18T07:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "tbsnews",
-        "domain": "tbsnews.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }
