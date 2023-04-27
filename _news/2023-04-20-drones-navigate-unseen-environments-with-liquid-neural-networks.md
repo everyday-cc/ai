@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Drones Navigate Unseen Environments With Liquid Neural Networks"
-excerpt: "MIT researchers exhibit a new advancement in autonomous drone navigation, using brain-inspired liquid neural networks that excel in out-of-distribution scenarios."
-publishedDateTime: 2023-04-20T09:37:00Z
+excerpt: "guided by liquid neural networks to navigate ever-changing and unseen environments with precision and ease. Inspired by the adaptable nature of organic brains, researchers from MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL ..."
+publishedDateTime: 2023-04-20T10:14:00Z
 originalUrl: "https://www.technologynetworks.com/informatics/news/drones-navigate-unseen-environments-with-liquid-neural-networks-372383"
 webUrl: "https://www.technologynetworks.com/informatics/news/drones-navigate-unseen-environments-with-liquid-neural-networks-372383"
 type: article
@@ -15,6 +15,12 @@ topics:
   - Machine Learning
   - AI
 
-secured: "XI9N+f1lmKZGtiRCBieqIA2aJ52peTQiWblYevy0KR4aIr8LjwnlBtDGiIYUo4EVcJAoo8bJNG2YNyw3/E8VGcdhvnHQ+CheEAb1XX4q6ftKzl9qQ6zuThaFZSPEXRGSDVdXW9q19WUeezN+cW1CW2l8zHeEBRbBTUSZNvdXaELdX1qDLzpnIQQwcOtQyq4sUgYB/TxWN8V8ldAF0JKKoWqLblwKZNVs7nGs7eXJuRo8l+XVTHVvPq6uZ1+ibGDWI4P9ECNky78VHK5XiMpM4KxY8EkMEMx2tGQvXRT8fg8eg5QUXExK2bQa+5Da7VRyQzwIMIV51bxv1qEwjdRTwnxLzdZtPGcY0kw9jnsVz4kYf3kwM2OegHsiehfzla2OPW9G2rUDWHqv5Bbp4qmr24QpGbqR9vKuFovTAus0FBNkELqav0ft4LgM0GIGbFvP394XN6H6zPbyB4KCd090eC0eE6eIDt3RoL9BCDM5bV++4iSMch+gzOilNNHe2YahsYHW2KD+5oGezSBR0cnKew==;1Frm27q747pdnPTPQRtMYg=="
+images:
+  - url: "https://assets.technologynetworks.com/production/dynamic/images/content/372383/drones-navigate-unseen-environments-with-liquid-neural-networks-372383-640x360.jpg?cb=20230420"
+    width: 640
+    height: 360
+    isCached: true
+
+secured: "+19miMgA227csGknPcCocfE+EGcWIsWXVsRDQh8052Dr3jrZ9+pr2eFeCv5eDc6ngjg20Q6ZhIKq1L97rkQjki8C9ZrlD+PoMvtg8szxKY0Hn0s74Om0zWhzHFOrYfLGGeTEBbpqK2q3xIOY0KZH1Sx+RMWtD5+a2715DcIE7J1A12MldHXTvzB5NY5eXxuym6Yl9YuAMgMVGuPBkAcQz8P0bT//T6RSJdPJnRf4YkhT8hoL+1RkgzErfC3EUuKS1fRybRJ3VJB5juAvQHFRWHoQnfLyhyBdIfNOSjlJ90gHgsNPp9n36M/oUbx8XrXzB7GRqLaihwE7hN6+UBMVAHl/kH4wzUa3JuXMR6PjdnU=;zIO6RW5dBvhGVEJuZO2kdg=="
 ---
 

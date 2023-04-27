@@ -18,43 +18,20 @@ topics:
   - AI
 
 related:
-  - title: "How AI, automation, and machine learning are upgrading clinical trials"
-    excerpt: "AI and machine learning offer opportunities to increase efficiency, quality, and speed at every stage of clinical trials."
-    publishedDateTime: 2023-04-24T14:55:00Z
-    webUrl: "https://www.pharmaceutical-technology.com/sponsored/how-ai-automation-and-machine-learning-are-upgrading-clinical-trials/"
+  - title: "India's Hands-Off AI Approach Could Spur More Litigation, and Innovation"
+    excerpt: "India is not a necessarily litigious society—but with an open legal market and the decision to keep AI unregulated, that could soon change."
+    publishedDateTime: 2023-04-25T00:26:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/04/24/indias-hands-off-ai-approach-could-spur-more-litigation-and-innovation/"
     type: article
     provider:
-      name: Pharmaceutical Technology
-      domain: pharmaceutical-technology.com
-    quality: 54
+      name: Law
+      domain: law.com
+    quality: 38
     images:
-      - url: "https://www.pharmaceutical-technology.com/wp-content/uploads/sites/24/2023/04/shutterstock_1218220324.jpg"
-        width: 1000
-        height: 417
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/04/India-electronic-circuit-767x633.jpg"
+        width: 767
+        height: 633
         isCached: true
-  - title: "How artificial intelligence and automation can streamline procurement"
-    excerpt: "We speak to chief procurement officers about the role of AI in helping their organisations reduce costs and tackle the economic slowdown"
-    publishedDateTime: 2023-04-24T03:00:00Z
-    webUrl: "https://www.computerweekly.com/feature/How-AI-and-automation-can-streamline-procurement"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 37
-    images:
-      - url: "https://cdn.ttgtmedia.com/rms/onlineimages/ai_a352095729.jpg"
-        width: 1200
-        height: 400
-        isCached: true
-  - title: "Artificial intelligence innovation: Leading companies in autopilot-manual switching for the automotive industry"
-    excerpt: "The automotive industry continues to be a hotbed of innovation, with activity driven by the growth of connected and autonomous vehicles, and growing importance of technologies such as artificial intelligence,"
-    publishedDateTime: 2023-04-24T12:59:00Z
-    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-autopilot-manual-switching-automotive/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 0
 
 secured: "0CaH5Ke0rAl/+dnCDQrb/t5LvhzNHMaltOSWjuxMoGlhc1SCrR+SkRawtLfF4hcYF2ldtfu1EjGEcM/NMN4on22dvNmBLDp7LSgPEvD8mZD7Xw7toVkn1c24iH2UKWDEEGYr+kQ89cVkyU3efxcnjJ9enIzvDKo4JAswm1kTxilNekzXdo9yImXXRoVi5FK8ZtsuvxLMVzzoUvHoW3PhlpqNCs+lvTjzzfrF8k6lBt5fYjBxH8f+Sv9XYSCtH+EdLctiO/9yfMzEmSuVDi2IP+akHzNojvilGv5CX6kSSSus1Abq9hRCEY0CFX0WiC9hdvj1X2nVif03fq4Ltd6TtcnEFllYXMJDZb6ebOXMVhOM8RgCUCAxAUca+tG2x5XikYOYadf4khHlSxHJezoAl5cbh5C+Dx0f8Gd7be5LjgrpXlPWmmBiqbTIu6iK0pbhB88ag4ky1pVMfvZB+dqknJVpVxAFtMVMb8enSVRdslGJ4K1tiAr1yP5rxSO4qS8VCBgQOOJpkQS5rJe+MadB6A==;OXNYjh1bptqobIIrtcUDYQ=="
 ---

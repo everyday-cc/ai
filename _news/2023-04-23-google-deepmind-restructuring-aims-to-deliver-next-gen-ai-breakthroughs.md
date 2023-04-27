@@ -9,7 +9,7 @@ ampWebUrl: "https://cointelegraph.com/news/google-deepmind-restructuring-aims-to
 cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/google-deepmind-restructuring-aims-to-deliver-next-gen-ai-breakthroughs/amp"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -41,15 +41,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Google Merges DeepMind and Brain AI Units"
-    excerpt: "Google has merged its artificial intelligence research units, DeepMind and Brain, to form a new unit called Google DeepMind. Google acquired DeepMind in 2014. The firm combines machine learning techniques with neuroscience systems to build learning algorithms for eCommerce and games development."
-    publishedDateTime: 2023-04-24T23:32:00Z
-    webUrl: "https://www.mrweb.com/drno/news34936.htm"
-    type: article
-    provider:
-      name: MrWeb
-      domain: mrweb.com
-    quality: 34
   - title: "Weekly AI Wrap: Google DeepMind & Open Source Innovations Transforming Industries"
     excerpt: "Uncovering groundbreaking developments from Google DeepMind, open-source AI, and their impact on diverse industries."
     publishedDateTime: 2023-04-24T18:05:00Z

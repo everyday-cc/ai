@@ -1,22 +1,32 @@
 ---
 category: news
 title: "Cadence Collaborates with GUC on AI, HPC and Networking in Advanced Packaging Technologies"
-excerpt: "GUC's big-die CoWoS platform represents real-world CPU, GPU, AI, and networking chips by integrating multiple instances of the Cadence 112G-LR SerDes with a 7.2Gbps HBM3 controller and PHY, as well as a GLink-2."
-publishedDateTime: 2023-04-26T16:04:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2023/04/26/9802615.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2023/04/26/9802615.htm"
+excerpt: "Cadence Design Systems, Inc. (Nasdaq: CDNS) today announced that the Cadence® 112G-LR SerDes is silicon proven on"
+publishedDateTime: 2023-04-26T14:45:00Z
+originalUrl: "https://www.marketwatch.com/press-release/cadence-collaborates-with-guc-on-ai-hpc-and-networking-in-advanced-packaging-technologies-2023-04-26"
+webUrl: "https://www.marketwatch.com/press-release/cadence-collaborates-with-guc-on-ai-hpc-and-networking-in-advanced-packaging-technologies-2023-04-26"
 type: article
-quality: 9
-heat: 9
+quality: 59
+heat: 69
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Cadence Collaborates with GUC on AI, HPC and Networking in Advanced Packaging Technologies"
@@ -29,6 +39,6 @@ related:
       domain: tmcnet.com
     quality: 9
 
-secured: "mksVU2hUpMjMIihb3G/3OBGWK8Uw6/QJ0uw4SqICGcMwipWvxjONfDFgAjACeQqjIHoJ/Kcf1ZT50cKH/OAbtD954KvNkBO4n7ThkpQy01fhwTcKY+Qg91H/WjVfhVY7jrX/cxQfONN9SDr1UtglZnKhylkGkhDikFFZ6LUqzY7ZL8sD6TFomiOeTjowFU/dORvJ0pUoyeRrRaXI17lkMmOiE9/P6B3JDXebdXaphR6szCdxWvwVIShuwIWT7jJAkdyTsytljc3h9uZilFvuSBVkeB408P8siKmUSnFF6wYgZKnIxzB/t5TvZREYaho5JeLXNYOAilInOZtn4YFPJV0e6vnbs3D4i/7TcDew+Q0=;V9e7VMCoOBo8K/T9FpPLTw=="
+secured: "kHN2UmXhMke7u1T59WpZFB37DYf+TlUY4jNOyae3w5tSsbogzsjIsV7TLz8ZuS5AUpSU/lqWYX8LWvGL8R4GxwKppWL3MJhwbIy4FWVXpKbNObQ9tUeOqpyHF9izZkBllMRZZrOa3UVQuwawSl0qI0a4H1k7di6Lcq/A5CRI6t2O7zA7p74w6EZutMkgoBiaHpydPFTqQMGpHYJ70F59+l3FUS7lBIhJbcoEt9wnZVb8SdSEZnKK1hwNOjL+hFUV9VnsA04OpUZeAeT4anhKdTCJ73I6uqtyFymJ3l3WFjgHqZlM9yo6rPFCiiQ8vqilHpPqZb++yy68/PzwrMNL83Q1YqqMBzfti5jkBdTpsgg=;htPZ5YEWeQt9mP6Z4DTSAQ=="
 ---
 

@@ -81,6 +81,15 @@ related:
       name: TheHealthSite
       domain: thehealthsite.com
     quality: 34
+  - title: "How to strengthen your soft skills for AI and the future of work"
+    excerpt: "Marketable skills that can future-proof your career and livelihood will be 'soft skills,' such as management, communication, and empathy."
+    publishedDateTime: 2023-04-27T03:59:00Z
+    webUrl: "https://www.fastcompany.com/90887540/how-to-strengthen-your-soft-skills-for-ai-and-the-future-of-work"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 17
 
 secured: "rFhWHo/hDGTCRAeKSNtb9zjp22dHqKFyqcOZvevtKEXluNoIvcuHwHp/4u1HpJ5a9SciZ8lBxtf+LBg+xNTvpn06xqaG+M2FsSC8NmfnQw7+iaZT/cgXLp+PQYXu/04CH+BVr/+z3em63ulK7OnrsSm28IJ8esw8qJwEEgU86ioBVQdDbKMrKfEFmyxljQuUeT3c5/tcRo7//5ei0lBOp8liUYOreeYrZHoIRA2spj88aXKhscRj5vh97RNZir5SJU6IWQiOV4mov7OIYaHpDnqnAj0QsZewSDAoo5W7p4ba0lo8TQIwssXrEIHPF8l/+o4TGqh9mmTBRgijcinaiX0aW7dzBLj1ZX26wUhY/4iMcG7l7qKLpUcEZAmAasbvZJAl9JUrTyxIsWs/zl45TC3o8ROMhTOFx5I31WoVmcycJ2T6/0YyDB0pbBMAmATWvmsLNLcqLFqf/stxedwNwMOWyzqKknfyFcnI0k1Z69f1xAj+efbq7Fx4Cb8YOemrZeU0X2gg61aXFMLPetTFjA==;d5BpRX2aOZbsVkeUTULFYQ=="
 ---

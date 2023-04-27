@@ -296,6 +296,20 @@ related:
         width: 720
         height: 480
         isCached: true
+  - title: "Hugging Face Releases Free ChatGPT Clone: HuggingChat"
+    excerpt: "Hugging Face, the machine learning community and AI tools platform, announced the release of HuggingChat, an open source ChatGPT clone that anyone can use or download for themselves. Hugging Face is a company and an AI community. It provides access to free open source tools for developing machine learning and AI apps."
+    publishedDateTime: 2023-04-27T09:17:00Z
+    webUrl: "https://www.searchenginejournal.com/huggingchat/485590/"
+    type: article
+    provider:
+      name: Searchenginejournal.com
+      domain: searchenginejournal.com
+    quality: 24
+    images:
+      - url: "https://www.searchenginejournal.com/wp-content/uploads/2023/04/hugging-face-huggingchat-644a286dee829-sej.png"
+        width: 1600
+        height: 840
+        isCached: true
   - title: "Le Bonheur Children's Hospital fellow publishes journal article on chatbots written by ChatGPT"
     excerpt: "The use of chatbots and natural language processing technology, such as ChatGPT, has the potential to change the future of medical writing —with some caveats— says Som Biswas, MD, a Radiology fellow at Le Bonheur Children's Hospital and the University of Tennessee Health Science Center,"
     publishedDateTime: 2023-04-24T13:06:00Z

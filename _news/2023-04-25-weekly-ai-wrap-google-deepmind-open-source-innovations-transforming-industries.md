@@ -49,15 +49,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Google Merges DeepMind and Brain AI Units"
-    excerpt: "Google has merged its artificial intelligence research units, DeepMind and Brain, to form a new unit called Google DeepMind. Google acquired DeepMind in 2014. The firm combines machine learning techniques with neuroscience systems to build learning algorithms for eCommerce and games development."
-    publishedDateTime: 2023-04-24T23:32:00Z
-    webUrl: "https://www.mrweb.com/drno/news34936.htm"
-    type: article
-    provider:
-      name: MrWeb
-      domain: mrweb.com
-    quality: 34
 
 secured: "PbICnfT/J+ZPpuTrBFZUh/0z1CJpyQ1vZLYJtzi1HF9uRqwHwdRMXAK3wZXv4qOZgv+XC8xeY7w2bFLV4R7kMt2Lue+bUzstpjBJPQ4OMPpT7nlrRFXCBHS9hwCFg+Zlxp00xwy15Yso7wm02ia7Uhvcyk5/k7+AzkEU2FtbI6R/Nl93pugpk/Fz70BrzSxJI7vdaJH6ppZoUapnFjB56V++jB6375nYzclPJKAR1/0n7K6a+fRkXBo7kM3Lf4AhWd+IVRaUI1A3i/vA2tj7/z0CUnaWmEeeil+tuvHfjCI8wgAUcXv/fHHuNj0XFxhwnuql2ag87XdIA2OzkZ/mTPgtLPRwUqS+BHvdE0eO2MYG/ELbAofKafgpLJ2lwDDEg5Gekko98EZwvjPSv3/u3eDwGDAN+vl//Z9lintxIrLzq4ZrJ78p3SCCT7P3CKt+Q6VHlhUs7WrOMPoGXpr+opbaGZe+Wi6kONidsykGGeS2mjWo3+9eL8lSCJ03niWkXE/YGclwYlNTuwW5bORl0A==;kezuOS6/kpjW/45IifXufg=="
 ---

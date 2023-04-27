@@ -57,6 +57,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in BFSI Market LATEST REPORT 2023 to 2030"
+    excerpt: "Artificial Intelligence (AI) in BFSI Market” Are a Collection of Information and Analysis Obtained From Diverse Sources"
+    publishedDateTime: 2023-04-27T05:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-bfsi-market-latest-report-2023-to-2030-2023-04-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 82
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) Accelerator Market Complete Overview till 2031"
+    excerpt: "The latest market research report on the Global \"Artificial Intelligence (AI) Accelerator Market\" is segmented by"
+    publishedDateTime: 2023-04-27T07:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-accelerator-market-complete-overview-till-2031-2023-04-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 80
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "2023-2030 Global Artificial Intelligence (AI) in Agriculture Market is Growing Rapidly with Emerging Pattern"
     excerpt: "Artificial Intelligence (AI) in Agriculture Market Research Report give analysis of industry development growth opportunities, Trend till 2029. Artificial Intelligence (AI) in Agriculture Market detailed analysis of business is mainly cover by Application [ Precision Farming,"
     publishedDateTime: 2023-04-25T15:10:00Z

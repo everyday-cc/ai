@@ -71,6 +71,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "PwC is making a $1 billion bet on business AI"
+    excerpt: "PricewaterhouseCoopers (PwC) has announced plans to invest $1 billion over the course of the next three years into artificial intelligence in an effort to help clients keep up to date with generative AI trends."
+    publishedDateTime: 2023-04-27T09:31:00Z
+    webUrl: "https://www.techradar.com/news/pwc-is-making-a-dollar1-billion-bet-on-business-ai"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 69
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/cvUbbQwxuHbLsEVEuaWGcL-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft 'holding a lot of the cards' in AI-powered search war with Google"
     excerpt: "Microsoft didn’t mention Bing once on its earnings call. The search engine hasn’t been a big growth driver for Microsoft in the past. That's changing."
     publishedDateTime: 2023-04-26T17:22:00Z

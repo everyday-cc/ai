@@ -308,6 +308,20 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Hugging Face Releases Free ChatGPT Clone: HuggingChat"
+    excerpt: "Hugging Face, the machine learning community and AI tools platform, announced the release of HuggingChat, an open source ChatGPT clone that anyone can use or download for themselves. Hugging Face is a company and an AI community. It provides access to free open source tools for developing machine learning and AI apps."
+    publishedDateTime: 2023-04-27T09:17:00Z
+    webUrl: "https://www.searchenginejournal.com/huggingchat/485590/"
+    type: article
+    provider:
+      name: Searchenginejournal.com
+      domain: searchenginejournal.com
+    quality: 24
+    images:
+      - url: "https://www.searchenginejournal.com/wp-content/uploads/2023/04/hugging-face-huggingchat-644a286dee829-sej.png"
+        width: 1600
+        height: 840
+        isCached: true
   - title: "ChatGPT and artificial intelligence: What this means for small business"
     excerpt: "GENEVA: As 2022 came to a close, ChatGPT, an artificial intelligence (AI) chatbot, became the fastest-growing app in history, reaching an estimated 123 million users less than three months after its launch."
     publishedDateTime: 2023-04-24T12:38:00Z

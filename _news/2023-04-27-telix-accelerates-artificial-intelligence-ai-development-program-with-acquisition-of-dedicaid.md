@@ -6,8 +6,8 @@ publishedDateTime: 2023-04-27T00:45:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/telix-accelerates-artificial-intelligence-ai-development-program-with-acquisition-of-dedicaid-1032265571"
 webUrl: "https://markets.businessinsider.com/news/stocks/telix-accelerates-artificial-intelligence-ai-development-program-with-acquisition-of-dedicaid-1032265571"
 type: article
-quality: 52
-heat: 62
+quality: 50
+heat: 60
 published: false
 
 provider:
@@ -19,7 +19,6 @@ provider:
       height: 50
 
 topics:
-  - Machine Learning
   - AI
 
 related:
@@ -33,6 +32,6 @@ related:
       domain: finanznachrichten.de
     quality: 6
 
-secured: "/Dis6QZQ0oHmgdS4cjFxDc5CSo+loPghHV9j9YMugSndXpjfA78Kgdborv2ZiLwf0LGzBfD2IX+kuzmSEvr9jgw65H5xaKep34N+9qAHcOzKONTIee5/nNBk+nYlxRPDkz73M8EDRkp5wYqmCkLqvio3mX0m67QHeszDYorBhIUbd+is5RKO8zoqjOwLAuka/5rhsETumpLaPHpvUK5iMky8mP3WjqkMeBLNPCOjtXnLhqDY9li72Pcp+eGhCg4VqGlJB8aXcrr+tguCGjibwYUQIS5a06Ae5+cXT9iXxDMCjfUHem81BkaOm+CMReyEdxxKcT9tfjwvYYbRgzhTRlFCBT0/wYEgOFBIoHbyr0leptGv5OTqEA4pOjQqG7MUlOUcrppZWSI22jBQ3yG2TcOLHBJ9dBCYtbcD8kGtyqWJFQPF6Ui2DfVFl+vqZc+8V9PLmK3RFmbqnJOIK+iJ1KDKLw6rTRjvktEFOrmGj2A9RiMD16LcFzmW/svk4qaXuwr3+ePj2esuLrvmVXqvNQ==;cn+thDj4PakaIwomHVc8/w=="
+secured: "UfOVOSebvlfTO00q0kP9OvgJiO/VWFMoKIwpiS4LC9qjfFX/SrKNVydw80uNiP/SjkVHrLKgr9dV+ti+ihhple4+2yO5a5wKmMR7KVeVpJfAds27nLYJw1RogCzThtUBi5P6jpf05GuFK3LqomcRA98xbIN+OW3et4IkRAUNkiFZcHlAfa86/rNiQmiTPN67Hnch4wrIYw4+1+1nxYrMZPTT+t/s2Y7jl18rgDhLZaUnQ2WHdzWJvRBd74+3Nhi2GkdRniHFTIw0Cu3JwGiSx5MTOSXIPHhEOaP/ABhjnzHHfjkW7P9b6cMMoqrAd9gF3U55jGqZRefSXr+Lm0jfz/JRSLMFgACF7G9vMLhoil5asVGX1fDh2BsNMbtdrI4nMsCyY6jDx/QinF8yVv2hndR+gVv5HFZLtBztkTAxPJxKDOm9LRLb2vISDBrgcxP4v5blWsC6usesrJJncGBDaCMHJHMnXQzftRQav1t3T4SDv2yCkpsTBzOS+KDStUMMvY/NgkftIOmSa/vysF7orw==;GPXmnLXqdjvSrQhBTyT0aw=="
 ---
 

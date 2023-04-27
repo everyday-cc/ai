@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/the-power-of-infrastructure-purpose-built
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-power-of-infrastructure-purpose-built-for-ai/amp/"
 type: article
 quality: 91
-heat: 131
+heat: 141
 published: true
 
 provider:
@@ -85,6 +85,15 @@ related:
       name: TheHealthSite
       domain: thehealthsite.com
     quality: 34
+  - title: "How to strengthen your soft skills for AI and the future of work"
+    excerpt: "Marketable skills that can future-proof your career and livelihood will be 'soft skills,' such as management, communication, and empathy."
+    publishedDateTime: 2023-04-27T03:59:00Z
+    webUrl: "https://www.fastcompany.com/90887540/how-to-strengthen-your-soft-skills-for-ai-and-the-future-of-work"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 17
 
 secured: "cOwtPfK/Xd0HInXEO0TLMC266q6Snav30nKc5IwMiGgxUM/Uhfc2BfzMKBHM4Lg9+aNRj80XviCofQGIvPd2xVVjS7zG8mhDv8UhI0j9JjrzyCH15oAymHyGXMJ6ThQ+kqS7/tWDM09FV54MocdX+26LUSmIVwc7Itzdc3bZ15s+PtNlf/EEGIKMegJih8ce2G/DKLAaK7f/Srhk3PV4ntD5glgDmNwRg6nxGdghxwRHNLU7D55gApphOaDOzTC1eUwdkE0zSBs36ZQyXKW5v0G93QolFmWb9iXFFM+mNbDVpYFMbqleHTpAC8/lDT79BF0zMQp9vRG9aVYfeo1Kq73a96yTvsVNr/yjejG0/LWtZnjraPxJJVVOzHGhs7gLz+V8RYSbEadzhOy4pLd+9op+/tXGBka1vHdHCPOexcNKdPtmp79KjqJfTkYgAHq50ypeddiPML8Ay4A5VwqHqEC+JHnZw3uUMoDlihuUqv/LVoI8/J4TeSiGPpj8HGZ8cVh1mm1oUqA/WDpxa67Lbg==;FSwl+Y8HnviGesUzxJ+K6g=="
 ---

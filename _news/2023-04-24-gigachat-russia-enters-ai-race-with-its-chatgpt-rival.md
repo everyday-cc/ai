@@ -517,6 +517,15 @@ related:
       name: Fast Company
       domain: fastcompany.com
     quality: 33
+  - title: "What the Alphabet and Microsoft earnings calls tell us about the AI arms race"
+    excerpt: "Alphabet and Microsoft are acting aggressively to get in front of the large profits that could be had when AI begins to radically change the face of computing."
+    publishedDateTime: 2023-04-26T17:16:00Z
+    webUrl: "https://www.fastcompany.com/90887297/what-the-alphabet-and-microsoft-earnings-calls-tell-us-about-the-ai-arms"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 31
 
 secured: "LLapxkDnXHooShHDrAi57w3MP8FL/1X6LPTpNHRX281C6JMpt3Gip5+8kt5cjjKcYmsvx3W7/YuFS4UZi4LNNh8j8cqNI798e4LRfQYYO/vFjb2NKYAfKknZP1qb4gTwCpTuWELpBSnEo/sVoK2oGj8kwcHP+eCRwxwDc/cNWgqeLEAXicHKorOHuZF5WGOGNhuF8/MYgeQjZmCz5LJWjYLETnoM3/EEGuI4RM74AofhDVjetNl8H4k50MSgmftzUiBf3GfMUeNPrS1NkaCn5F4dvBsXTpjBdEtYW+YWYKIHdHHAmdVe1KOTb+FGEJaHF4nshe2Nlf3oa28SAi2GJCHTD5QzYYwiGhxm6e+EJBVI2o6V5P7wt4NxZEqIDasbH5FtNC6Y+sS4kqHBPV1FT8jdWKDcBbLpUQmWQSkKjwqSPKkyIs88iMcixICMhUv0N83zXMcEbhT3NXnQxXIFi/pyd9uhHB5pQWbRmR9evhIrlOb2iDumV8TSIUu+oXO8tAexqGVxSS7bseUgsSiWxQ==;WQ/96OtPk/UTm+2091BFNA=="
 ---
