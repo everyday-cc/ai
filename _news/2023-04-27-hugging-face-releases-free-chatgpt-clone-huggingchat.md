@@ -144,6 +144,22 @@ related:
       name: TechRadar
       domain: techradar.com
     quality: 62
+  - title: "ChatGPT is giving therapy. A mental health revolution may be next"
+    excerpt: "While not the most original advice, it resembles what might be heard in a therapist’s office or read online in a WebMD article about anxiety – not least because ChatGPT scrapes its answers from the wide expanse of the internet."
+    publishedDateTime: 2023-04-27T08:15:00Z
+    webUrl: "https://www.aljazeera.com/economy/2023/4/27/could-your-next-therapist-be-ai-tech-raises-hopes-concerns"
+    ampWebUrl: "https://www.aljazeera.com/amp/economy/2023/4/27/could-your-next-therapist-be-ai-tech-raises-hopes-concerns"
+    cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/economy/2023/4/27/could-your-next-therapist-be-ai-tech-raises-hopes-concerns"
+    type: article
+    provider:
+      name: Al Jazeera English
+      domain: aljazeera.com
+    quality: 59
+    images:
+      - url: "https://www.aljazeera.com/wp-content/uploads/2023/04/GettyImages-1003090056-1682491149.jpg?resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Someone Put ChatGPT Inside Of A Robot Dog, Which Can't Possibly End Badly"
     excerpt: "Massive upgrade!\" Of course, this isn't a case of simply installing ChatGPT into a robot and getting immediate results. As seen in the video, Santiago and the team had to create specific terms and routines for ChatGPT to function properly within Spot."
     publishedDateTime: 2023-04-26T15:10:00Z
@@ -338,6 +354,6 @@ related:
       domain: benzinga.com
     quality: 0
 
-secured: "oqAOLzjeWU5o0Xi1dSd5uNg0/lokIvndQWk9wquRYwKzenu5MQL0B9huxSCeZyhTMpqfnv1pf+oy4gd24Z7NAW/yLNZNtOoP3sQanuBLW8LZul9vSOLpu5J2/rtc34YNNUZXQnnglgnXnrOAS8NU4w47bVjW8ASski5QtcQlETpnVDBS33G/nug9N4m1NereR1iDs7S1UueGk7Clha+cO/goS3TV4IFG7oXwj5tv1ztLhEurMDPxoncGyS4XJo5XgJ/KsCfFOECQeS5SX0Pitpg8/nlH9a82WN1l7H2HAfCrHSyopo9pXeXlIkuN5a9K+cDe1Bef5iu0bhzvMpf4AU9ssiT4ZrGoi7b27j3F42k=;MQzTsNszzP1O+WBaqtcLLA=="
+secured: "FElwRgjX5ipZBLbYbCLZZCu6FYEccrBaQ4+QjZ8tnw/4yHqJhZpW4IArCxOxoqpqQ9LD/ZZr/TtzDmTM8/esCV/iwfSVSscSqutPrlwxG2wF+OW6xzw3P3hyXx17GhiXjx6hql/Rviw38TqLarXgWrH6N2DfQNbjCQ4XFnNCByuI6/ETkZxS0Wit9aUufxtUWUCYUy7l8Yftq1K8nvnfhMK37lNpO/2Bfr7Cy5JPTuFm1u976dbUo+1q7UZvoxj0FmEDGRL11mOmHQTiQVRpwUP1Acdgt88wWcDkBcZfLw7iA56JKdPvLTFS4R06oTwIb+mHP+ecXGKongQGr+lS5DTOagrAiPrRHalGOlGHUS1sGaAEqBB3hcM1aVbRKAGIyIy1lzHVNFMvdNBE2N1MDeUhi4e7iiHx9/AI9eu90LKhMOZ+96BCU5oRsYuv3NW8Fej3aAIrjTEIIDVWmYEMROXyX2fX1TdimxkmV5eB1bhrcTHPET4+25Uu6M9ZwqartOjEbYl9qN4Wqpbs0U0uUw==;s8GCfZPgy8Uy3xpNc9IoxA=="
 ---
 

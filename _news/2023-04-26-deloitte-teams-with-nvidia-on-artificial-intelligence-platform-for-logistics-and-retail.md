@@ -34,6 +34,20 @@ related:
         width: 1200
         height: 606
         isCached: true
+  - title: "Nvidia wants to make AI safer"
+    excerpt: "Bringing in Guardrails  The GPU maker named after a Roman vengence daemon, Nvidia has released NeMo Guardrails, an open source toolkit aimed at making AI-powered apps more \"accurate, appropriate, on topic and secure."
+    publishedDateTime: 2023-04-27T10:06:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/56792-nvidia-wants-to-make-ai-safer"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/107c969980fb2789328401d05cf9e48d_L.jpg"
+        width: 620
+        height: 467
+        isCached: true
 
 secured: "nUdwqghYjwnqupaff8F/tgxnK/zZnlnQ+NlCxwZ25XtBwdgQfJa+U7gC8QN9awGDFBJuPY+QpWB3UtnQaZdbBteaRowPjVxve9j8K+q1xqIszwNNYhN3Q0szDT/La07LQWq56XDTywNJXupssDqX9TEgsISb9qq1fEpqScKKtzYG2XEVCbBLSPwaXTPpQ1Yka+ipdoECaLvENqh2tHHYDPCwqmSWdAvclevhX54C7XonwOb0bBUQ3mq34g6jTZ/D+ZtsQ0BxpoxjP5mRxMI2Pfc8gyJCc38B25iOcQxCjfpxUBa1Xz4m04Vkt/E0tftit/sQefgTxF0XNC74YDTLLW54B1f8k1PqcqZNKr1W/g7EH74iVLUK3ZmMunvKTIRvtDekOQI+kRB2IHyG47dV9hqzajApzF9j255MGDsy1DXxwGj6EhdgXYXtZ1tDjDTx0CXmZWR8AmNaII2qL0ZAllmZD2NpO91IwMl/oVMfFWaG45ngMVTmXYOpe5Di6LRCDoU/N9FGxSg9DIDUShzyMw==;9A7wmbRZgsZcJWwSVyZ3KQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/deloitte-looks-to-bring-ai-to-the-frontli
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/deloitte-looks-to-bring-ai-to-the-frontline-with-a-little-help-from-nvidia/amp/"
 type: article
 quality: 85
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Nvidia wants to make AI safer"
+    excerpt: "Bringing in Guardrails  The GPU maker named after a Roman vengence daemon, Nvidia has released NeMo Guardrails, an open source toolkit aimed at making AI-powered apps more \"accurate, appropriate, on topic and secure."
+    publishedDateTime: 2023-04-27T10:06:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/56792-nvidia-wants-to-make-ai-safer"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/107c969980fb2789328401d05cf9e48d_L.jpg"
+        width: 620
+        height: 467
+        isCached: true
   - title: "Deloitte teams with NVIDIA on artificial intelligence platform for logistics and retail"
     excerpt: "Consulting firm Deloitte today launched a suite of artificial intelligence (AI) tools for logistics and retail businesses, saying they can help users to enhance customer experiences, optimize operations,"
     publishedDateTime: 2023-04-25T17:40:00Z

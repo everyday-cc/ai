@@ -35,6 +35,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "The AI Revolution: How Companies like Nvidia and Tesla Are Leading the Way"
+    excerpt: "Two that come to mind as industry leaders are Nvidia (NASDAQ: NVDA) and Tesla (NASDAQ: TSLA). If you want a litmus test to see how a company utilizes this technology, compare it to these two leaders and see how it stacks up."
+    publishedDateTime: 2023-04-27T11:25:00Z
+    webUrl: "https://moneymorning.com/investing/the-ai-revolution-how-companies-like-nvidia-and-tesla-are-leading-the-way/"
+    type: article
+    provider:
+      name: Money Morning
+      domain: moneymorning.com
+    quality: 54
+    images:
+      - url: "https://moneymorning.com/wp-content/blogs.dir/1/files/2023/04/motley-fool-mark.png"
+        width: 940
+        height: 940
+        isCached: true
 
 secured: "bWje3qigi5jV7aLFCmCli9UVfNRLq6ZFsMpb2gUqxeIq1yNOmmFiRMKn5Q6f8fV3QmqzGM3p+ld/FtQLCHzAY4DSFIcsLEAShE0dbbmrLbQRbXx2UFxyYLFcuU7MUVd+9WPrqVGDNnzx3KdnjTroHhzOOs63qBt3jTMaLm03CDi7prCWGNBmZkCVCToQKQQ+qu31EcBGWqTHTKPBIO8J8/Xb0N6MRkX5qE/voyjxE6PdvdTSXtBOJ5jfK1lWPxNENXmp7p0FZd5aaH1ENOUp56ApUQfJaMJpa2HxV2+N3n1wjJYK7H7liMCp3qEnlGo0FRjLfYMsxRGPXIfzsfwHpbAhU0KunXbNGQlla0fJhqiZzwHvIEdKJuj1IUn8tL+smXi021chD4yQsqFV7jiGxf/b/JSOH1KT7+RgfeGX+I5ivHeF57s+snT9CGAG87thLjFrhVFCszYVggjbDEj2wUBmTonYhkWDNKeQU7db53IP2jhWBwTP1fr4U4iFpVWD7haSOXlB+aXoUKFi8cJdow==;za4sov2q0oH+us7shNihjg=="
 ---

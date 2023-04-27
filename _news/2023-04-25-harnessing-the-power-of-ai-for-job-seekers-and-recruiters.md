@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 686
         isCached: true
+  - title: "The Future Of Artificial Intelligence And Work"
+    excerpt: "The exponential growth of useful artificial intelligence (AI) applications has taken the world by storm. With AI applications and improvements being released daily, it's tempting to keep pivoting startup ideas and career strategies—especially as entire industries seem to be on the verge of getting disrupted."
+    publishedDateTime: 2023-04-27T10:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/27/the-future-of-artificial-intelligence-and-work/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/27/the-future-of-artificial-intelligence-and-work/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/27/the-future-of-artificial-intelligence-and-work/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/644924d67f513f26cbf33129/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 677
+        isCached: true
   - title: "Unleashing the Power of Deep Learning in 2023: A Vision for AI’s Future"
     excerpt: "Deep learning has emerged as a revolutionary technology within data science, enabling businesses to extract valuable insights from their data like never before. In the era of data-driven technology, deep learning offers businesses a competitive advantage by utilizing advanced neural networks to build intelligent applications."
     publishedDateTime: 2023-04-24T08:13:00Z

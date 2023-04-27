@@ -18,36 +18,54 @@ topics:
   - AI
 
 related:
-  - title: "ChatGPT: How to use AI as a virtual financial adviser"
-    excerpt: "From chatbots and virtual assistants to fraud detection and risk management, artificial intelligence (AI) is now being used in many areas of finance. But what could an AI system like ChatGPT do for your bank balance?"
-    publishedDateTime: 2023-04-25T16:50:00Z
-    webUrl: "https://techxplore.com/news/2023-04-chatgpt-ai-virtual-financial.html"
-    ampWebUrl: "https://techxplore.com/news/2023-04-chatgpt-ai-virtual-financial.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-04-chatgpt-ai-virtual-financial.amp"
+  - title: "How AI Can Empower, Not Replace, Your Team"
+    excerpt: "With the release of ChatGPT, AI now promises to serve the common person rather than to perform as a technology that can only be accessed through deep technical expertise. In fact, ChatGPT is the fastest-growing consumer application in history, reaching 100 million users in the first two months since its launch."
+    publishedDateTime: 2023-04-27T11:01:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/27/how-ai-can-empower-not-replace-your-team/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/27/how-ai-can-empower-not-replace-your-team/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/27/how-ai-can-empower-not-replace-your-team/amp/"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 61
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/chatgpt-how-to-use-ai.jpg"
-        width: 1356
-        height: 668
+      - url: "https://imageio.forbes.com/specials-images/imageserve/601850d37aa9c1404df144b1/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Unleashing ChatGPT: Your Ultimate Guide to AI-Powered Conversations"
-    excerpt: "ChatGPT boosted the widespread use of artificial intelligence worldwide, but many people hesitate to try it. Some are skeptical about new technologies, while others aren’t willing to adapt. Contrary"
-    publishedDateTime: 2023-04-25T01:42:00Z
-    webUrl: "https://technology.inquirer.net/123500/unleashing-chatgpt-your-ultimate-guide-to-ai-powered-conversations"
+  - title: "Seven Ways AI Can Help You Manage Your ADHD"
+    excerpt: "AI can help you by instantly providing as many sample lists ... I asked it what financial documents to start with and how to get them, and eventually arrived at: Contact your employer’s HR department: The HR department of your employer should be able ..."
+    publishedDateTime: 2023-04-26T15:02:00Z
+    webUrl: "https://lifehacker.com/seven-ways-ai-can-help-you-manage-your-adhd-1850373670"
     type: article
     provider:
-      name: Philippine Daily Inquirer
-      domain: inquirer.net
-    quality: 41
+      name: Lifehacker
+      domain: lifehacker.com
+    quality: 37
     images:
-      - url: "https://technology.inquirer.net/files/2023/04/ChatGPT-guide-featured-image-lablab.ai_-620x349.png"
-        width: 620
-        height: 349
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/b492242d8d5540b56a7fac95a5fb96db.jpg"
+        width: 1200
+        height: 675
         isCached: true
+  - title: "We Can Embrace Artificial Intelligence Without Losing Our Soul"
+    excerpt: "Launched in November, ChatGPT, driven by artificial intelligence, or AI, has been interacting with the public for six months now, gathering data and improving its performance. In those months, the chatbot has already passed exams in four law courses at the University of Minnesota and another exam at University of Pennsylvania’s Wharton School of Business."
+    publishedDateTime: 2023-04-26T18:44:00Z
+    webUrl: "https://www.jewishexponent.com/2023/04/26/we-can-embrace-artificial-intelligence-without-losing-our-soul/"
+    type: article
+    provider:
+      name: The Jewish Exponent
+      domain: jewishexponent.com
+    quality: 19
+  - title: "These wild AI-powered glasses can read your own lips"
+    excerpt: "A team of scientists at Cornell's SciFi lab has developed a pair of glasses that can read your very own lips, without you having to utter a single sound."
+    publishedDateTime: 2023-04-26T04:08:00Z
+    webUrl: "https://www.fastcompany.com/90886580/these-wild-ai-powered-glasses-can-read-your-own-lips"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 17
 
 secured: "ADCzzbZHkRAEMGtIEnQzg+2SzjbDtuu18pqvdL2U1F/BsZlsqIZw5XHyp9BxX1CIZKBNYkkmGFY7/u83sTDWc05TgXM6IhO5LXFFNY0eOBgSNoQXh/2o/KfF5cxJzylfR1qzrLt1un+KC1usQu0Zx08j0Fd+566aP8Q8FlK1XPuYt4shgCk1efuRSnr/KK76m3j6aXv6yke7wgJpKb2acJ/cyIkf2C4bcVqUyLqEz/9/bU7IAj0Lu2LFoBwPgyHr0RTgdsISJnWVUmufI2aoglyKBnI3Rw/fCitFEoj3lO+Zf2ZkmC5PXzxNSYOecN+wQx1GUq83ljH5HmSdrXqNhgCybsrakCWQUi4McTgCG7XoBSYv75PdvyBu3+32ZeQfRT/OHA+Kha79BuvZtEXFiUq4bquVVxqtQNl7FnpL28xdLk/vylie6bh1Pkrz315RD2DBebA1k+vqL/OW3YE5dqfquiIBUIEZW+BGtgJSJN1EGUmgUNz7DvTiOWP5u+eDKWlwf6PqHA4Ehr+vQtmoKA==;ZAUtm5eYoso90w9DYwSnmg=="
 ---

@@ -168,6 +168,20 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Meta, Alphabet and Microsoft Are Ready to Spend Big on AI, Despite Cost Cuts"
+    excerpt: "It’s a time of austerity for Big Tech — quite the conundrum for companies expected to remain at the forefront of innovation. And from this tension between investing in the future and counting pennies, a new battle of man versus machine has emerged. The AI arms race is on, and it’s being funded by the dollars saved through firing employees."
+    publishedDateTime: 2023-04-27T10:45:00Z
+    webUrl: "https://www.bloomberg.com/news/newsletters/2023-04-27/meta-alphabet-and-microsoft-are-ready-to-spend-big-on-ai-despite-cost-cuts"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 81
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEAFu8PqTyCc/v1/1200x799.jpg"
+        width: 1200
+        height: 799
+        isCached: true
   - title: "Microsoft leans on its AI prowess to deliver a surprising quarterly earnings beat"
     excerpt: "Microsoft's (MSFT) better-than-feared fiscal third-quarter results, coupled with solid revenue guidance, sent shares soaring in afterhours trading."
     publishedDateTime: 2023-04-25T22:00:00Z

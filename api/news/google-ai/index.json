@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-04-23-google-deepmind-restructuring-aims-to-deliver-next-gen-ai-breakthroughs.md",
-      "title": "Google DeepMind restructuring aims to deliver next-gen AI breakthroughs",
-      "excerpt": "The newly-formed business unit aims to accelerate the company’s progress in developing AI in a safe and responsible manner.",
+      "path": "_news/2023-04-27-deepminds-latest-research-at-iclr-2023.md",
+      "title": "DeepMind’s latest research at ICLR 2023",
+      "excerpt": "Next week marks the start of the 11th International Conference on Learning Representations (ICLR), taking place 1-5 May in Kigali, Rwanda. This will be the first major artificial intelligence (AI) conference to be hosted in Africa and the first in-person event since the start of the pandemic. Researchers",
       "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/news/google-deepmind-restructuring-aims-to-deliver-next-gen-ai-breakthroughs",
-      "originalUrl": "https://cointelegraph.com/news/google-deepmind-restructuring-aims-to-deliver-next-gen-ai-breakthroughs",
+      "webUrl": "https://www.deepmind.com/blog/deepminds-latest-research-at-iclr-2023",
+      "originalUrl": "https://www.deepmind.com/blog/deepminds-latest-research-at-iclr-2023",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 109,
       "tags": null,
       "images": [
         {
-          "url": "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDQvZTYwNjVmYTYtOGFkNy00ZmVlLTkxM2ItOTE3NDhlOWIwMDk0LmpwZw==.jpg",
-          "width": 740,
-          "height": 493,
+          "url": "https://assets-global.website-files.com/621e749a546b7592125f38ed/644a5309537e5d50d2de4a5e_deepmind-lISkvdgfLEk%20(1).jpg",
+          "width": 1920,
+          "height": 1080,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://cointelegraph.com/news/google-deepmind-restructuring-aims-to-deliver-next-gen-ai-breakthroughs/amp",
-      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/google-deepmind-restructuring-aims-to-deliver-next-gen-ai-breakthroughs/amp",
-      "publishedDateTime": "2023-04-22T23:30:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-26T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -40,8 +49,8 @@
         "news"
       ],
       "topics": [
-        "Google AI",
-        "AI"
+        "AI",
+        "Google AI"
       ]
     },
     {

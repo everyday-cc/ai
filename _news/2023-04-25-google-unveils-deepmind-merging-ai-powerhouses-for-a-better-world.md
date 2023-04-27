@@ -7,7 +7,7 @@ originalUrl: "https://yourstory.com/2023/04/google-deepmind-merging-ai-leaders"
 webUrl: "https://yourstory.com/2023/04/google-deepmind-merging-ai-leaders"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google DeepMind restructuring aims to deliver next-gen AI breakthroughs"
-    excerpt: "The newly-formed business unit aims to accelerate the company’s progress in developing AI in a safe and responsible manner."
-    publishedDateTime: 2023-04-23T06:30:00Z
-    webUrl: "https://cointelegraph.com/news/google-deepmind-restructuring-aims-to-deliver-next-gen-ai-breakthroughs"
-    ampWebUrl: "https://cointelegraph.com/news/google-deepmind-restructuring-aims-to-deliver-next-gen-ai-breakthroughs/amp"
-    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/google-deepmind-restructuring-aims-to-deliver-next-gen-ai-breakthroughs/amp"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 74
-    images:
-      - url: "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDQvZTYwNjVmYTYtOGFkNy00ZmVlLTkxM2ItOTE3NDhlOWIwMDk0LmpwZw==.jpg"
-        width: 740
-        height: 493
-        isCached: true
   - title: "Weekly AI Wrap: Google DeepMind & Open Source Innovations Transforming Industries"
     excerpt: "Uncovering groundbreaking developments from Google DeepMind, open-source AI, and their impact on diverse industries."
     publishedDateTime: 2023-04-24T18:05:00Z

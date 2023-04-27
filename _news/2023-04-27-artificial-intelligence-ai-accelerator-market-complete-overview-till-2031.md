@@ -6,7 +6,7 @@ publishedDateTime: 2023-04-27T07:53:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-accelerator-market-complete-overview-till-2031-2023-04-27"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-accelerator-market-complete-overview-till-2031-2023-04-27"
 type: article
-quality: 80
+quality: 82
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

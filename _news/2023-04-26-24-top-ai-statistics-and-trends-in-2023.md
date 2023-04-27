@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/advisor/business/ai-statistics/"
 webUrl: "https://www.forbes.com/advisor/business/ai-statistics/"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: Forbes
@@ -28,79 +28,29 @@ images:
     isCached: true
 
 related:
-  - title: "5 emerging trends in deep learning and artificial intelligence"
-    excerpt: "Deep learning and artificial intelligence (AI) are rapidly evolving fields with new technologies emerging constantly. Five of the most promising emerging trends in this area include federated ..."
-    publishedDateTime: 2023-04-22T17:18:00Z
-    webUrl: "https://cointelegraph.com/news/5-emerging-trends-in-deep-learning-and-artificial-intelligence"
-    ampWebUrl: "https://cointelegraph.com/news/5-emerging-trends-in-deep-learning-and-artificial-intelligence/amp"
-    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/5-emerging-trends-in-deep-learning-and-artificial-intelligence/amp"
+  - title: "How Businesses Are Using Artificial Intelligence In 2023"
+    excerpt: "Businesses are employing artificial intelligence (AI) in a variety of ways to improve efficiencies, save time and decrease costs. With continued advancements, AI is quickly becoming a precious resource for companies across industries."
+    publishedDateTime: 2023-04-25T19:46:00Z
+    webUrl: "https://www.forbes.com/advisor/business/software/ai-in-business/"
     type: article
     provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 74
+      name: Forbes
+      domain: forbes.com
+    quality: 67
     images:
-      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-04/2685aac9-95d3-4cc0-911c-64fc6de81bba.jpg"
-        width: 740
-        height: 492
+      - url: "https://www.forbes.com/advisor/wp-content/uploads/2023/04/ai_business_survey_-_article_image.jpg"
+        width: 958
+        height: 538
         isCached: true
-  - title: "How AI, automation, and machine learning are upgrading clinical trials"
-    excerpt: "AI and machine learning offer opportunities to increase efficiency, quality, and speed at every stage of clinical trials."
-    publishedDateTime: 2023-04-24T14:55:00Z
-    webUrl: "https://www.pharmaceutical-technology.com/sponsored/how-ai-automation-and-machine-learning-are-upgrading-clinical-trials/"
+  - title: "Five AI stocks under $10 to watch in 2023"
+    excerpt: "Its value of nearly 100 billion U.S. dollars is expected to grow twentyfold by 2030, up to nearly two trillion U.S. dollarsMany companies are investing in AI technology to gain a competitive edge in their respective markets."
+    publishedDateTime: 2023-04-24T12:58:00Z
+    webUrl: "https://www.fxstreet.com/news/five-ai-stocks-under-10-to-watch-in-2023-202304241258"
     type: article
     provider:
-      name: Pharmaceutical Technology
-      domain: pharmaceutical-technology.com
-    quality: 54
-    images:
-      - url: "https://www.pharmaceutical-technology.com/wp-content/uploads/sites/24/2023/04/shutterstock_1218220324.jpg"
-        width: 1000
-        height: 417
-        isCached: true
-  - title: "Thriving in the digital age with the cloud and AI"
-    excerpt: "Using AI and the cloud for better security, enhanced operational efficiency and the delivery of exceptional customer experiences."
-    publishedDateTime: 2023-04-24T02:31:00Z
-    webUrl: "https://www.theedgesingapore.com/digitaledge/digital-economy/thriving-digital-age-cloud-and-ai"
-    ampWebUrl: "https://www.theedgesingapore.com/amp/digitaledge/digital-economy/thriving-digital-age-cloud-and-ai"
-    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/digitaledge/digital-economy/thriving-digital-age-cloud-and-ai"
-    type: article
-    provider:
-      name: The Edge Singapore
-      domain: theedgesingapore.com
-    quality: 39
-  - title: "Recommendations for handling AI in schools"
-    excerpt: "The Berlin Senate Department for Education has issued recommendations for teachers on the use of artificial intelligence (AI) in schools."
-    publishedDateTime: 2023-04-25T15:32:00Z
-    webUrl: "https://www.berlin.de/en/news/8171213-5559700-recommendations-ai-schools.en.html"
-    type: article
-    provider:
-      name: Berlin
-      domain: berlin.de
-    quality: 39
-    images:
-      - url: "https://www.berlin.de/binaries/asset/image_assets/8171261/ratio_4_3/1682428664/800x600/"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Google Merges DeepMind and Brain AI Units"
-    excerpt: "Google has merged its artificial intelligence research units, DeepMind and Brain, to form a new unit called Google DeepMind. Google acquired DeepMind in 2014. The firm combines machine learning techniques with neuroscience systems to build learning algorithms for eCommerce and games development."
-    publishedDateTime: 2023-04-24T23:32:00Z
-    webUrl: "https://www.mrweb.com/drno/news34936.htm"
-    type: article
-    provider:
-      name: MrWeb
-      domain: mrweb.com
-    quality: 34
-  - title: "Software Development Future: AI And Machine Learning"
-    excerpt: "How Artificial Intelligence and Machine Learning Will Impact Software Development April 26, 2023 by mark allinson leave a comment <strong"
-    publishedDateTime: 2023-04-26T19:13:00Z
-    webUrl: "https://menafn.com/1106104719/Software-Development-Future-AI-And-Machine-Learning"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 34
+      name: FXStreet
+      domain: fxstreet.com
+    quality: 19
 
 secured: "zEdP5EITcWrviSGtZCE1D9GRufdDxIUZkwfUGfzpB3qs3Acv7s45fi3yZRJalV9j3+cmnZm4Dn0upkGkp6QKZmHZgnzMZyIUXH12vYWopfkvHMkyx2DqXnLtst7tAQv5PvgBN5a4d+W7LHibTfETCnJA2DM7b1brzAXvBqxdLrHKdfwekW+1Pqk5b9GEWdgnWgTNygEWY+Pj/gMuIdeKew3WKytDW2xwkx4CjNiNe6R5G7sGSml8/7hj5YJCeYO2EiGYtGMlBxxuFpoXb7yOU7xdVwJtUTXWCKUzHP4TzxQx+1RAw7icpxgDeGTcPFCeqw1i2b6hCLcQeaRtT81/zmEgWQ/5Of/OQS9JrzpslwA=;19zbv8N3KCvHb3xNptHNaA=="
 ---

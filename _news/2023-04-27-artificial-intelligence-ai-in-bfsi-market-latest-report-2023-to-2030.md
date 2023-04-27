@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) Accelerator Market Complete Overview till 2031"
+    excerpt: "The latest market research report on the Global \"Artificial Intelligence (AI) Accelerator Market\" is segmented by"
+    publishedDateTime: 2023-04-27T07:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-accelerator-market-complete-overview-till-2031-2023-04-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 82
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) in Cancer Market 2023 Insight and Global Trends"
     excerpt: "The Artificial Intelligence (AI) in Cancer Market (2023-2030) Updated Latest Research Report analyzes the market's"
     publishedDateTime: 2023-04-24T06:59:00Z
@@ -65,20 +79,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 81
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) Accelerator Market Complete Overview till 2031"
-    excerpt: "The latest market research report on the Global \"Artificial Intelligence (AI) Accelerator Market\" is segmented by"
-    publishedDateTime: 2023-04-27T07:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-accelerator-market-complete-overview-till-2031-2023-04-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 80
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

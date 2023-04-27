@@ -28,6 +28,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 50
+  - title: "Australian biopharma Telix banks on AI with Dedicaid acquisition"
+    excerpt: "Telix is expanding its AI capability with the acquisition of Austria-based Dedicaid, a spin-off of the Medical University Vienna."
+    publishedDateTime: 2023-04-27T11:08:00Z
+    webUrl: "https://www.labiotech.eu/trends-news/telix-acquires-ai-company-dedicaid/"
+    type: article
+    provider:
+      name: labiotech
+      domain: labiotech.eu
+    quality: 39
+    images:
+      - url: "https://www.labiotech.eu/wp-content/uploads/2023/04/shutterstock-1044933463.jpg"
+        width: 1024
+        height: 384
+        isCached: true
 
 secured: "cjaeaXngj2hzzHIAuYt35XzjCX/tBoKO2zu4Hb7Y7VlIieBuA00S5TjEwgfOcu4s+uQTb8SD81+Qg6vjawnGkzTuTHDO+cWaifRnG5Sa1RfAFOHHMpjHB2tEQkRqWSKiFozT6B0ArHPpKIOkN2iY1p9FRwitLbQdRDN/jRw8NNGqJYi+uZ8DTgDIt91bzbSqjK6fWkygT4xaAzNU1D0C/P6KwjzsCVrexA9zrpmQnDfQ7uz+tvAw9iGFd94Am+Pzrzo7CEYZDuzizlOb/h4b6H2OV7ns/JplDmhv2OMT/FMrlTW6OVRW/mUlJAO8QTOo4x3j2Z7WrUSdsS5eehiKdHrXMFxbBPw6+MG2GhrSVEY=;FzAXgxApbcjtP+rVfv2+tw=="
 ---

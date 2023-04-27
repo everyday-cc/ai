@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/telix-accelerates-
 webUrl: "https://markets.businessinsider.com/news/stocks/telix-accelerates-artificial-intelligence-ai-development-program-with-acquisition-of-dedicaid-1032265571"
 type: article
 quality: 50
-heat: 60
-published: false
+heat: 70
+published: true
 
 provider:
   name: Business Insider
@@ -22,6 +22,20 @@ topics:
   - AI
 
 related:
+  - title: "Australian biopharma Telix banks on AI with Dedicaid acquisition"
+    excerpt: "Telix is expanding its AI capability with the acquisition of Austria-based Dedicaid, a spin-off of the Medical University Vienna."
+    publishedDateTime: 2023-04-27T11:08:00Z
+    webUrl: "https://www.labiotech.eu/trends-news/telix-acquires-ai-company-dedicaid/"
+    type: article
+    provider:
+      name: labiotech
+      domain: labiotech.eu
+    quality: 39
+    images:
+      - url: "https://www.labiotech.eu/wp-content/uploads/2023/04/shutterstock-1044933463.jpg"
+        width: 1024
+        height: 384
+        isCached: true
   - title: "Telix Pharmaceuticals Limited: Telix Accelerates Artificial Intelligence (AI) Development Program with Acquisition of Dedicaid"
     excerpt: "Telix Pharmaceuticals Limited (ASX: TLX, Telix, the Company) today announces the expansion of its artificial intelligence (AI) capability"
     publishedDateTime: 2023-04-26T23:35:00Z
@@ -32,6 +46,6 @@ related:
       domain: finanznachrichten.de
     quality: 6
 
-secured: "UfOVOSebvlfTO00q0kP9OvgJiO/VWFMoKIwpiS4LC9qjfFX/SrKNVydw80uNiP/SjkVHrLKgr9dV+ti+ihhple4+2yO5a5wKmMR7KVeVpJfAds27nLYJw1RogCzThtUBi5P6jpf05GuFK3LqomcRA98xbIN+OW3et4IkRAUNkiFZcHlAfa86/rNiQmiTPN67Hnch4wrIYw4+1+1nxYrMZPTT+t/s2Y7jl18rgDhLZaUnQ2WHdzWJvRBd74+3Nhi2GkdRniHFTIw0Cu3JwGiSx5MTOSXIPHhEOaP/ABhjnzHHfjkW7P9b6cMMoqrAd9gF3U55jGqZRefSXr+Lm0jfz/JRSLMFgACF7G9vMLhoil5asVGX1fDh2BsNMbtdrI4nMsCyY6jDx/QinF8yVv2hndR+gVv5HFZLtBztkTAxPJxKDOm9LRLb2vISDBrgcxP4v5blWsC6usesrJJncGBDaCMHJHMnXQzftRQav1t3T4SDv2yCkpsTBzOS+KDStUMMvY/NgkftIOmSa/vysF7orw==;GPXmnLXqdjvSrQhBTyT0aw=="
+secured: "wWXOQcLfQ6IhWFYHBLSmf9kSbKQzhHwrszmZT9cBrrmCp09VgEn5sLr07YvQvP+kwXSvBl4LugVrD3B7kuemxiG6BHhvT70u+hlIi6G5Zievp5MaHGyqBZeKPYF3JDCLymAJV8k0wVOHcgVC5rGM/JMU8hdTDs8FH55VkOvOUNfK2oUSexWuSoQ3AfCXsXIPSO0KSw+TG55PsQ2ZGWzhixaEycjHhJWvjGGiW0DKFbMdmgHPEjcnykHNJ07sqayl9+1WdKBEJMQONgxe3KQrDkjgsgio0wZBX0E5E128pfKPYd66xFamaWxnSyZ3vxBzhIQ2XcSBRQZ0L19tDlf0BWnDvra0l6nbvv53WTK8FriUBSg64IU8Nogt33FvG3WvH0Zp8jx8XaIvAtpTNcwjvR/aSomW/JnrXUsIeS5SGOTykGe7gsUx3C/b2UldTvX/v4cc4CcX+EUezQtGM9Jdx+X+WRlN9rhznDvHbaHenlr0XDtPeQEsm3PuGtqh4O/4FCh7ZtgJf79ICmmGN1mC6w==;X3GKABAhzQLQpqDa4jlwLQ=="
 ---
 

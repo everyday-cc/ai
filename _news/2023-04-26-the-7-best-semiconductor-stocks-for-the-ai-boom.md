@@ -32,15 +32,6 @@ related:
       name: The Motley Fool
       domain: fool.com
     quality: 49
-  - title: "Five AI stocks under $10 to watch in 2023"
-    excerpt: "Its value of nearly 100 billion U.S. dollars is expected to grow twentyfold by 2030, up to nearly two trillion U.S. dollarsMany companies are investing in AI technology to gain a competitive edge in their respective markets."
-    publishedDateTime: 2023-04-24T12:58:00Z
-    webUrl: "https://www.fxstreet.com/news/five-ai-stocks-under-10-to-watch-in-2023-202304241258"
-    type: article
-    provider:
-      name: FXStreet
-      domain: fxstreet.com
-    quality: 19
   - title: "3 Takeaways to Guide Your AI Strategy"
     excerpt: "Encapsulating the recent Healthcare Information and Management Systems Society’s annual meeting can be like trying to devour an elephant. Where does one begin? But for health care executives, key takeaways could be found amid the many discussions about artificial intelligence (AI) in all its forms and how the technology will continue to impact the field."
     publishedDateTime: 2023-04-25T12:23:00Z

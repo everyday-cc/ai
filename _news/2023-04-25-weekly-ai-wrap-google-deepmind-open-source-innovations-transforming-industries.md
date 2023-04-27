@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Google DeepMind restructuring aims to deliver next-gen AI breakthroughs"
-    excerpt: "The newly-formed business unit aims to accelerate the company’s progress in developing AI in a safe and responsible manner."
-    publishedDateTime: 2023-04-23T06:30:00Z
-    webUrl: "https://cointelegraph.com/news/google-deepmind-restructuring-aims-to-deliver-next-gen-ai-breakthroughs"
-    ampWebUrl: "https://cointelegraph.com/news/google-deepmind-restructuring-aims-to-deliver-next-gen-ai-breakthroughs/amp"
-    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/google-deepmind-restructuring-aims-to-deliver-next-gen-ai-breakthroughs/amp"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 74
-    images:
-      - url: "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDQvZTYwNjVmYTYtOGFkNy00ZmVlLTkxM2ItOTE3NDhlOWIwMDk0LmpwZw==.jpg"
-        width: 740
-        height: 493
-        isCached: true
   - title: "Google Unveils DeepMind: Merging AI Powerhouses for a Better World"
     excerpt: "Google recently announced the formation of Google DeepMind, a joint venture that combines Alphabet Inc's DeepMind and Google Research's Brain team. The collaboration is set to further expand ..."
     publishedDateTime: 2023-04-25T02:36:00Z

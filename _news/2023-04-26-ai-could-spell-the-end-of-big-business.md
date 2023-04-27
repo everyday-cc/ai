@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/opinion/articles/2023-04-26/ai-could-spe
 webUrl: "https://www.bloomberg.com/opinion/articles/2023-04-26/ai-could-spell-the-end-of-big-business"
 type: article
 quality: 67
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Businesses Are Using Artificial Intelligence In 2023"
-    excerpt: "Businesses are employing artificial intelligence (AI) in a variety of ways to improve efficiencies, save time and decrease costs. With continued advancements, AI is quickly becoming a precious resource for companies across industries."
-    publishedDateTime: 2023-04-25T19:46:00Z
-    webUrl: "https://www.forbes.com/advisor/business/software/ai-in-business/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
-    images:
-      - url: "https://www.forbes.com/advisor/wp-content/uploads/2023/04/ai_business_survey_-_article_image.jpg"
-        width: 958
-        height: 538
-        isCached: true
   - title: "In the age of AI, empathy could help save your job"
     excerpt: "Unpacking “hidden needs” requires empathy, a process whereby a human person recognises and acknowledges the feeling and emotions (e.g. the tragedy one went through, the happiness they experience) of other human persons."
     publishedDateTime: 2023-04-25T08:55:00Z

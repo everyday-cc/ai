@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://g.foolcdn.com/misc-assets/hp-sa-cumulative-growth-chart.png"

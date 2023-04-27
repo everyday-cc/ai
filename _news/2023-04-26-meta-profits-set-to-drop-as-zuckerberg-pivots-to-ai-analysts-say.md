@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 672
         isCached: true
+  - title: "Meta stock jumps 11% on earnings beat as Mark Zuckerberg touts AI and vows to keep costs down"
+    excerpt: "Shares of Facebook, Instagram and WhatsApp's owner surged after its first-quarter revenue and earnings beat Wall Street's expectations."
+    publishedDateTime: 2023-04-27T09:42:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/meta-stock-price-mark-zuckerberg-ai-year-of-efficiency-investing-2023-4"
+    ampWebUrl: "https://markets.businessinsider.com/news/stocks/meta-stock-price-mark-zuckerberg-ai-year-of-efficiency-investing-2023-4?amp"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/meta-stock-price-mark-zuckerberg-ai-year-of-efficiency-investing-2023-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 76
+    images:
+      - url: "https://i.insider.com/644a329e9052390019701bd8?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Mark Zuckerberg has become so obsessed with AI that one Wall Street research firm is jesting that Facebook will change its name to MetAI"
     excerpt: "After a Metaverse spending splurge last year, the company has been buying a lot of Nvidia chips, which are needed to train large AI models."
     publishedDateTime: 2023-04-24T22:31:00Z

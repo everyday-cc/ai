@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Deep Learning Courses for NLP Market Overview and Scope By 2031"
+    excerpt: "The latest market research report on the Global \"Deep Learning Courses for NLP Market\" is segmented by Regions,"
+    publishedDateTime: 2023-04-26T13:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-courses-for-nlp-market-overview-and-scope-by-2031-2023-04-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 86
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "2023 to 2030 Natural Language Processing (NLP) Market Upcoming Trends"
     excerpt: "Natural Language Processing (NLP) Market” Are a Collection of Information and Analysis Obtained From Diverse Sources"
     publishedDateTime: 2023-04-24T04:14:00Z

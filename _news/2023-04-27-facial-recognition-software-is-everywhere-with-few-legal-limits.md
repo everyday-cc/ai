@@ -6,8 +6,8 @@ publishedDateTime: 2023-04-27T08:55:00Z
 originalUrl: "https://news.bloomberglaw.com/privacy-and-data-security/facial-recognition-software-is-everywhere-with-few-legal-limits"
 webUrl: "https://news.bloomberglaw.com/privacy-and-data-security/facial-recognition-software-is-everywhere-with-few-legal-limits"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://db0ip7zd23b50.cloudfront.net/dims4/default/bd38c0a/2147483647/legacy_thumbnail/1920x740%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F0f%2F7a%2Fccfae8fd47fe9699d94834b152e2%2Fbli-how-facial-recognition-tech-works.png"

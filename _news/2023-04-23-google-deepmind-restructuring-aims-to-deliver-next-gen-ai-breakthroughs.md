@@ -9,8 +9,8 @@ ampWebUrl: "https://cointelegraph.com/news/google-deepmind-restructuring-aims-to
 cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/google-deepmind-restructuring-aims-to-deliver-next-gen-ai-breakthroughs/amp"
 type: article
 quality: 74
-heat: 94
-published: true
+heat: -1
+published: false
 
 provider:
   name: CoinTelegraph
@@ -27,29 +27,29 @@ images:
     isCached: true
 
 related:
-  - title: "Google Unveils DeepMind: Merging AI Powerhouses for a Better World"
-    excerpt: "Google recently announced the formation of Google DeepMind, a joint venture that combines Alphabet Inc's DeepMind and Google Research's Brain team. The collaboration is set to further expand ..."
-    publishedDateTime: 2023-04-25T02:36:00Z
-    webUrl: "https://yourstory.com/2023/04/google-deepmind-merging-ai-leaders"
+  - title: "DeepMind’s latest research at ICLR 2023"
+    excerpt: "Next week marks the start of the 11th International Conference on Learning Representations (ICLR), taking place 1-5 May in Kigali, Rwanda. This will be the first major artificial intelligence (AI) conference to be hosted in Africa and the first in-person event since the start of the pandemic. Researchers"
+    publishedDateTime: 2023-04-27T00:00:00Z
+    webUrl: "https://www.deepmind.com/blog/deepminds-latest-research-at-iclr-2023"
     type: article
     provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 54
+      name: DeepMind
+      domain: deepmind.com
+    quality: 89
     images:
-      - url: "https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/64410a99d52cf88103c4b88cGDM169-1682088724409.jpg?fm=png&auto=format"
+      - url: "https://assets-global.website-files.com/621e749a546b7592125f38ed/644a5309537e5d50d2de4a5e_deepmind-lISkvdgfLEk%20(1).jpg"
         width: 1920
         height: 1080
         isCached: true
-  - title: "Weekly AI Wrap: Google DeepMind & Open Source Innovations Transforming Industries"
-    excerpt: "Uncovering groundbreaking developments from Google DeepMind, open-source AI, and their impact on diverse industries."
-    publishedDateTime: 2023-04-24T18:05:00Z
-    webUrl: "https://yourstory.com/2023/04/weekly-ai-wrap-google-deepmind-open-source-innovations"
+  - title: "Google Merges DeepMind and Brain AI Units"
+    excerpt: "Google has merged its artificial intelligence research units, DeepMind and Brain, to form a new unit called Google DeepMind. Google acquired DeepMind in 2014. The firm combines machine learning techniques with neuroscience systems to build learning algorithms for eCommerce and games development."
+    publishedDateTime: 2023-04-24T23:32:00Z
+    webUrl: "https://www.mrweb.com/drno/news34936.htm"
     type: article
     provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 29
+      name: MrWeb
+      domain: mrweb.com
+    quality: 34
 
 secured: "Ep5EGoRjLE2eJNAWExunojTS3W3/Zlu/KZwRcOj+jtxyEV1il8AEqaoIaTMVX15juB9mIsk4kXpIxhb+ypKi3SFGWkSpnLshW37bR46falpyNKrVF8eXnOHbsRq877vOSLVH38QyrnJd44CUsCQbOgs/+uTvNkxQVVw0s7TP3cRv/ngnFc4avVvV+nEFSlnqcCHSOKJrLyQyL09Q7TcYx4vi69xoMheC64akHATMI1xFVn2N4xhYELcF9FUMpzXTcIlaeYZgCT+A7GobZdEqRT58gkDzzdHumaZEKex+S1U92NDTyB66B/TqqCjK7AQwgPOBHhYkzHzJ0oWAZIeg8Vw9duxvS8uBTcxVc4KYuYo=;HXrF3MWAtFo8YjHAcOUdWQ=="
 ---

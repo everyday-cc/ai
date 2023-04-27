@@ -127,6 +127,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "2023 to 2030 Artificial Intelligence in Energy Market Regional Outlook"
+    excerpt: "Artificial Intelligence in Energy Market” Are a Collection of Information and Analysis Obtained From Diverse Sources"
+    publishedDateTime: 2023-04-27T05:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-to-2030-artificial-intelligence-in-energy-market-regional-outlook-2023-04-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Software Market 2023-2030| Discover Industry Scope and Opportunities"
     excerpt: "The \"Artificial Intelligence Software Market\" Report covers the global and regional market with an in-depth analysis of"
     publishedDateTime: 2023-04-24T02:28:00Z
@@ -141,10 +155,38 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "VOICE RECOGNITION SYSTEM Market Global Analysis 2023-2030"
+    excerpt: "In 2023,VOICE RECOGNITION SYSTEM Market with technical and procedural infrastructure that gathers and evaluates the"
+    publishedDateTime: 2023-04-27T05:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-system-market-global-analysis-2023-2030-2023-04-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Speech and Voice Recognition Market Size 2023 Will Grow Rapidly Another Level in The Forthcoming Year"
     excerpt: "Speech and Voice Recognition Market Size 2023 | New Report (106 Pages) | Analytics | In This Reports Speech and"
     publishedDateTime: 2023-04-24T03:41:00Z
     webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-2023-will-grow-rapidly-another-level-in-the-forthcoming-year-2023-04-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Speech and Voice Recognition Market Size 2023 Will Grow Rapidly Another Level in The Forthcoming Year"
+    excerpt: "Speech and Voice Recognition Market Size 2023 | New Report (127 Pages) | Analytics | In This Reports Speech and"
+    publishedDateTime: 2023-04-27T07:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-2023-will-grow-rapidly-another-level-in-the-forthcoming-year-2023-04-27"
     type: article
     provider:
       name: MarketWatch

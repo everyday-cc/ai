@@ -185,6 +185,20 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Meta, Alphabet and Microsoft Are Ready to Spend Big on AI, Despite Cost Cuts"
+    excerpt: "It’s a time of austerity for Big Tech — quite the conundrum for companies expected to remain at the forefront of innovation. And from this tension between investing in the future and counting pennies, a new battle of man versus machine has emerged. The AI arms race is on, and it’s being funded by the dollars saved through firing employees."
+    publishedDateTime: 2023-04-27T10:45:00Z
+    webUrl: "https://www.bloomberg.com/news/newsletters/2023-04-27/meta-alphabet-and-microsoft-are-ready-to-spend-big-on-ai-despite-cost-cuts"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 81
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEAFu8PqTyCc/v1/1200x799.jpg"
+        width: 1200
+        height: 799
+        isCached: true
   - title: "4 Ways ChatGPT Can Bolster The Insurance Industry"
     excerpt: "ChatGPT has the power to bolster data collection and analysis by scouring digital resources for similar cases, helping underwriters identify risk patterns while saving valuable time. With this predictive modeling, risks can be mitigated well before they become problematic, expediting this step of the insurance process."
     publishedDateTime: 2023-04-25T11:16:00Z

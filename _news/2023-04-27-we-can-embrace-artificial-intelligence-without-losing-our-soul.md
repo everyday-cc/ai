@@ -19,36 +19,54 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "How To Boost Your College Applications Using AI — Without Cheating The Essay"
-    excerpt: "While ChatGPT has many questioning the role and usefulness of the college essay, there are ways to make the college admissions process more efficient and effective in the exploration and application phases."
-    publishedDateTime: 2023-04-24T23:08:00Z
-    webUrl: "https://www.forbes.com/sites/avivalegatt/2023/04/24/how-to-boost-your-college-applications-using-ai---without-cheating-the-essay/"
-    ampWebUrl: "https://www.forbes.com/sites/avivalegatt/2023/04/24/how-to-boost-your-college-applications-using-ai---without-cheating-the-essay/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/avivalegatt/2023/04/24/how-to-boost-your-college-applications-using-ai---without-cheating-the-essay/amp/"
+  - title: "How AI Can Empower, Not Replace, Your Team"
+    excerpt: "With the release of ChatGPT, AI now promises to serve the common person rather than to perform as a technology that can only be accessed through deep technical expertise. In fact, ChatGPT is the fastest-growing consumer application in history, reaching 100 million users in the first two months since its launch."
+    publishedDateTime: 2023-04-27T11:01:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/27/how-ai-can-empower-not-replace-your-team/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/27/how-ai-can-empower-not-replace-your-team/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/27/how-ai-can-empower-not-replace-your-team/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 84
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/642b13ef95acfe3e77bbf2c3/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/601850d37aa9c1404df144b1/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 798
+        height: 800
         isCached: true
-  - title: "How The AI Revolution Is Liberating Workers from the Office"
-    excerpt: "With the advent of generative AI like ChatGPT, we are on the cusp of realizing the full potential of remote and hybrid work by reducing — while not eliminating — the benefits of office visits."
-    publishedDateTime: 2023-04-24T21:00:00Z
-    webUrl: "https://www.entrepreneur.com/growing-a-business/how-the-ai-revolution-is-liberating-workers-from-the-office/450169"
+  - title: "Seven Ways AI Can Help You Manage Your ADHD"
+    excerpt: "AI can help you by instantly providing as many sample lists ... I asked it what financial documents to start with and how to get them, and eventually arrived at: Contact your employer’s HR department: The HR department of your employer should be able ..."
+    publishedDateTime: 2023-04-26T15:02:00Z
+    webUrl: "https://lifehacker.com/seven-ways-ai-can-help-you-manage-your-adhd-1850373670"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 69
+      name: Lifehacker
+      domain: lifehacker.com
+    quality: 37
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1682348563-GettyImages-1369567912.jpg"
-        width: 2000
-        height: 1333
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/b492242d8d5540b56a7fac95a5fb96db.jpg"
+        width: 1200
+        height: 675
         isCached: true
+  - title: "How to Use AI to Find Your Next Hire"
+    excerpt: "ChatGpt and AI are amazing tools for your business, but they aren't without flaws. Spend a few minutes conversing with the interface and you will quickly learn that while it is a wealth of knowledge,"
+    publishedDateTime: 2023-04-25T08:43:00Z
+    webUrl: "https://www.inc.com/david-finkel/how-to-use-ai-to-find-your-next-hire.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 17
+  - title: "These wild AI-powered glasses can read your own lips"
+    excerpt: "A team of scientists at Cornell's SciFi lab has developed a pair of glasses that can read your very own lips, without you having to utter a single sound."
+    publishedDateTime: 2023-04-26T04:08:00Z
+    webUrl: "https://www.fastcompany.com/90886580/these-wild-ai-powered-glasses-can-read-your-own-lips"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 17
 
 secured: "juKswO80oiWyQhJOTzdutZVAMcrqOj2ZXFTD6bP98QTu6HpfgioYY6jlUOSYl/TA7TbHBVJg2B2le2cVfLkmTx1me8Sdb/36+29fhBPgmx2kYmrGO+Whwp/iPgRSTDeGKugm6wjryNsiUQploVoIzi1M3wzjE3wCMUeqsoPYdlX8Rf/tGh02opqD0oNWDbOXuRxfhWB7a37NGfZbndziXndgdyleQ8UzUg+4C2rBDhvbrN6jPzhNE6H6vUGeSzHXWlz6Yqflh0/f+jv+y+FW+1aI7P2EhZhmruf6YVUmOCLsM5vvgf0ZbNw4VWKdvWAJEWvfa4ZvPlmo4EgP4Y+YuEJ3iutMRHfUTjM7Cwj9hffuZl+QYV8fkiq0daK2St3ptYscVCNq1LNcZ+NaaC4dJL5uqwucXMrBjG15zNa75nypLbgHE4CEO+dZawj0ARH2xr6A3J5RVnUZFQKtJLFrT475iN++Vq0EocEDgrnkHDoabpJ4dA2HhjGobMpeehXDQcrpSQNtD1J0Y9QPcvj6YA==;jcGfEXKXBye/I1vuQteI6w=="
 ---

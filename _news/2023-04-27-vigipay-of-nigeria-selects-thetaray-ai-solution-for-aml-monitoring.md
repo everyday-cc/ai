@@ -1,23 +1,29 @@
 ---
 category: news
 title: "VigiPay of Nigeria Selects ThetaRay AI Solution for AML Monitoring"
-excerpt: "Lagos-based payment fintech upgrades to AI-powered system for advanced detection of money-laundering and sanctions list violationsLAGOS, Nigeria & NEW"
-publishedDateTime: 2023-04-27T09:10:00Z
-originalUrl: "https://www.01net.it/vigipay-of-nigeria-selects-thetaray-ai-solution-for-aml-monitoring/"
-webUrl: "https://www.01net.it/vigipay-of-nigeria-selects-thetaray-ai-solution-for-aml-monitoring/"
+excerpt: "VigiPay, a Nigerian fintech providing digital payment services, and ThetaRay, a leading provider of AI-powered transaction monitoring technology, today announced they will collaborate to protect VigiPay’s growing business against money laundering,"
+publishedDateTime: 2023-04-27T07:48:00Z
+originalUrl: "https://financialit.net/news/aml-and-kyc/vigipay-nigeria-selects-thetaray-ai-solution-aml-monitoring"
+webUrl: "https://financialit.net/news/aml-and-kyc/vigipay-nigeria-selects-thetaray-ai-solution-aml-monitoring"
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: 01Net
-  domain: 01net.it
+  name: Financial IT
+  domain: financialit.net
 
 topics:
   - AI in Finance
   - AI
 
-secured: "Go6C5Ksf4MgwIKVTv1xq0YsU6CWY/EzCFxyyXxttV3sBv+/Pyy5z95Mq6OZxJmzTqPFFrw7HIMw9ue1Pspwua/Yid+k3iPdkyMWB/TPLN1O2boXVpDI5wjqagOkLP3oK3IKKG6y7PX45O1l6yQrEXeGOQud/QX8gAF7Lfxiaucm/afBzZL4d+4ykj4XbvJD8DbpVeebJbaEEKHVtxT1qeA5H287eYuaFUMd1t7a4iDyasHt04lHwmk/rPhTViMWvZ+dMkUXMNdx3oQ4g3VwPmeQ0GQfR6J0lqKss2R6tdk71T/oL4yb0GSElW0J/QkHWN7Li6z2opggJvz3M+PDJBQZL9/9oP6sQl5dVc8llr+6YQCRztYgUTLmWE+R1aeTn8HenD3DGiYGWu3iUaS4Ah8et/49IqkXMWrv9LkLlGFFuqxHsR1fxDt6WIdwB2izxvvLp/2be6lm6aeiEBXodN7IamP5W6HzX6miN7gepMd/4qRst/9diSBqIltZ4nolRry6ocL7dlWmupihM3csLrA==;ZhD9TZZtHXt4VlktPxaahw=="
+images:
+  - url: "https://financialit.net/sites/default/files/thetaray_2.png"
+    width: 1366
+    height: 768
+    isCached: true
+
+secured: "kReHMJxXK7bNtHMy9gZETd/ml8xy10eGOwnYR9UkVE29wEqCJv590lRs0Z2vQvJ8/9NxwY/aPqh2OTdn8d+APTm8IaZT7rb6PWhSGpL9ZTdL+7DYZw8eZYl2XmGHWiXtRIZ95eRGA4pD3TJVQ1QiZozuOB/uWN663phSKd8BJygsXgs4fBoKSu+fb31SI6tgvejJ5QIh5R16R/y9Z25RCNN7nc2Vayh0KiTWu1Rfog/tIaQEkpiKq9O1ZCnTERoLUvuP+JoWsUUTKl1XRaxMu49oFHbqCPAmDNY2Jr0BwVWo5OovmOlquwuVCgFPdZcIBpUWNw21VYOtiiqABjVZ1kWPH3PKDbp3aKpRCcrztd4=;3445oKM7G3WDFkYzE/jfEg=="
 ---
 
