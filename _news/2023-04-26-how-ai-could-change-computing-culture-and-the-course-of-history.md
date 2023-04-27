@@ -60,6 +60,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Why the struggle for ethics in generative AI is more complex than we imagine"
+    excerpt: "Some generative AI companies have been criticized for scraping the Web for training data, including copyrighted material, without the consent of creators and rights owners. In this way, the work of any number of creative,"
+    publishedDateTime: 2023-04-24T09:23:00Z
+    webUrl: "https://diginomica.com/why-struggle-ethics-generative-ai-more-complex-we-imagine"
+    ampWebUrl: "https://diginomica.com/why-struggle-ethics-generative-ai-more-complex-we-imagine?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/why-struggle-ethics-generative-ai-more-complex-we-imagine?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 71
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2023-03/ethics-gb40633784_640.jpg"
+        width: 640
+        height: 453
+        isCached: true
   - title: "Elon Musk has had a wild week. Now he wants to start an AI company."
     excerpt: "He also served on its board before leaving it in 2018. In his interview with Fox, he explained how the AI project he helped start escaped his grasp. “I really put a lot of effort into creating ..."
     publishedDateTime: 2023-04-23T02:29:00Z

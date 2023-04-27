@@ -2,6 +2,368 @@
   "page": 84,
   "value": [
     {
+      "path": "_news/2023-02-10-is-chatgpt-woke-ai-chatbot-accused-of-anti-conservative-bias-and-a-grudge-against-trump.md",
+      "title": "Is ChatGPT ‘woke’? AI chatbot accused of anti-conservative bias and a grudge against Trump",
+      "excerpt": "Meta to restore Trump accounts:Trump Facebook and Instagram ... incorrect,” said Jake Denton, research associate with the Heritage Foundation’s Tech Policy Center. But, he says, what happens if ChatGPT or another AI chat feature replaces Google ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/tech/2023/02/09/woke-chatgpt-conservatives-bias/11215353002/",
+      "originalUrl": "https://www.usatoday.com/story/tech/2023/02/09/woke-chatgpt-conservatives-bias/11215353002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2023/02/09/USAT/6bc4064a-d665-4467-9cc7-5aa0429fe734-AP_Microsoft_Artificial_Intelligence_2.jpg?auto=webp&crop=5759,3240,x0,y292&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-09T08:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-10-a-soft-robotic-tentacle-controlled-via-active-cooling.md",
+      "title": "A soft robotic tentacle controlled via active cooling",
+      "excerpt": "Robotic systems have become increasingly sophisticated over the past decades, improving both in terms of precision and capabilities. This is gradually facilitating the partial automation of some surgical and medical procedures.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-02-soft-robotic-tentacle-cooling.html",
+      "originalUrl": "https://techxplore.com/news/2023-02-soft-robotic-tentacle-cooling.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/a-soft-robotic-tentacl.jpg",
+          "width": 524,
+          "height": 460,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-02-soft-robotic-tentacle-cooling.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-02-soft-robotic-tentacle-cooling.amp",
+      "publishedDateTime": "2023-02-09T08:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-10-nvidia-rtx-4070-ti-review-midrange-gpu-by-name-not-nature.md",
+      "title": "Nvidia RTX 4070 Ti review – midrange GPU by name, not nature",
+      "excerpt": "Sadly, my hopes of an elegant Lovelace GPU have been dashed yet again ... all while avoiding typical AI upscaling caveats. The 4070 Ti can churn out around 60fps in A Plague Tale: Requiem without ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcgamesn.com/nvidia/rtx-4070-ti-review",
+      "originalUrl": "https://www.pcgamesn.com/nvidia/rtx-4070-ti-review",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/12/nvidia-rtx-4070-ti-review-1.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-09T08:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-10-ticked-off-self-driving-cars.md",
+      "title": "Ticked off! @self-driving cars",
+      "excerpt": "I am ticked off that even the school buses speed on North Econ Trail between Watermill and University Boulevard. Not to single him out because there are many others; but there is a motorcyclist who comes through there at least 50 miles an hour in the 25 mile an hour zone.",
+      "sourceUrl": null,
+      "webUrl": "https://www.orlandosentinel.com/opinion/os-op-ticked-off-021023-20230209-xzklr67b2rgovo7asjvfufv5ai-story.html",
+      "originalUrl": "https://www.orlandosentinel.com/opinion/os-op-ticked-off-021023-20230209-xzklr67b2rgovo7asjvfufv5ai-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.orlandosentinel.com/resizer/BrBidJCJU-VBedIKYn2IQSt-D3w=/1200x630/filters:format(jpg):quality(70):focal(734x361:744x371)/cloudfront-us-east-1.images.arcpublishing.com/tronc/UHRITRDPRMCIVH67CT3PRX3O34.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-09T08:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Orlando Sentinel",
+        "domain": "orlandosentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-10-automated-machine-learning-automl-market-size-2023-comprehensive-insights-and-capacity-growth-analysis-2029.md",
+      "title": "Automated Machine Learning (AutoML) Market Size 2023 Comprehensive Insights and Capacity Growth Analysis 2029",
+      "excerpt": "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-size-2023-comprehensive-insights-and-capacity-growth-analysis-2029-2023-02-09",
+      "originalUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-size-2023-comprehensive-insights-and-capacity-growth-analysis-2029-2023-02-09",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-09T08:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-10-microsoft-stock-ai-opportunity-much-bigger-than-just-bing.md",
+      "title": "Microsoft Stock: AI Opportunity Much Bigger Than Just Bing",
+      "excerpt": "“That said, we see an even bigger enterprise opportunity that could expand to $22B by CY26E leveraging AI transformers further into four product categories: GitHub, Microsoft 365, Teams, and Azure AI services.” What’s more, Microsoft’s AI endeavors ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/microsoft-stock-ai-opportunity-much-bigger-than-just-bing-1032083568",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/microsoft-stock-ai-opportunity-much-bigger-than-just-bing-1032083568",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-09T08:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-09-disruption-and-opportunity-how-hyperscalers-are-transforming-telecoms-reader-forum.md",
+      "title": "Disruption and opportunity: How hyperscalers are transforming telecoms (Reader Forum)",
+      "excerpt": "The telecom landscape is changing fast, and hyperscalers like Google Cloud and Amazon Web Services are now driving the agenda.",
+      "sourceUrl": null,
+      "webUrl": "https://www.rcrwireless.com/20230209/telco-cloud/disruption-and-opportunity-how-hyperscalers-are-transforming-telecoms-reader-forum",
+      "originalUrl": "https://www.rcrwireless.com/20230209/telco-cloud/disruption-and-opportunity-how-hyperscalers-are-transforming-telecoms-reader-forum",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.rcrwireless.com/wp-content/uploads/2023/02/194928210_l-scaled.jpg",
+          "width": 2560,
+          "height": 1446,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-09T07:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RCR Wireless News",
+        "domain": "rcrwireless.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-09-hd-map-market-2023-new-report-increasing-demand-growth-and-future-insights-forecast-to-2028.md",
+      "title": "HD Map Market 2023: [New Report] Increasing Demand, Growth and Future Insights Forecast to 2028",
+      "excerpt": "Feb 09, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “HD Map Market” 2023-2028",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/hd-map-market-2023-new-report-increasing-demand-growth-and-future-insights-forecast-to-2028-2023-02-09",
+      "originalUrl": "https://www.marketwatch.com/press-release/hd-map-market-2023-new-report-increasing-demand-growth-and-future-insights-forecast-to-2028-2023-02-09",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-09T07:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-09-former-salesforce-co-ceo-bret-taylor-to-launch-new-ai-startup-with-google-veteran-clay-bavor.md",
       "title": "Former Salesforce co-CEO Bret Taylor to launch new AI startup with Google veteran Clay Bavor",
       "excerpt": "Former Salesforce Inc. co-Chief Executive Officer Bret Taylor (pictured) is teaming up with outgoing Google LLC Vice President Clay Bavor to create a new artificial intelligence startup. The unnamed company will seek to apply AI to “some of the most important problems in business,",
@@ -765,341 +1127,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-how-ai-and-facial-recognition-can-chill-access-to-justice.md",
-      "title": "How AI and Facial Recognition Can Chill Access to Justice",
-      "excerpt": "Madison Square Garden Entertainment Corp. recently drew considerable criticism over its use of facial recognition technology to identify opposing counsel and prevent their access to its properties and entertainment venues. The entertainment conglomerate ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.bloomberglaw.com/us-law-week/how-ai-and-facial-recognition-can-chill-access-to-justice",
-      "originalUrl": "https://news.bloomberglaw.com/us-law-week/how-ai-and-facial-recognition-can-chill-access-to-justice",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://db0ip7zd23b50.cloudfront.net/dims4/default/a243ca6/2147483647/crop/3998x1537%2B0%2B43/resize/960x369%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F8e%2Fcc%2F8e7878e54eb2b39aed060426b5ec%2Fmadison-square-garden.jpg",
-          "width": 960,
-          "height": 369,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-09T01:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "news.bloomberglaw",
-        "domain": "bloomberglaw.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-taking-sleeping-pills-could-have-disastrous-cognitive-side-effects.md",
-      "title": "Taking sleeping pills could have disastrous cognitive side effects",
-      "excerpt": "New research, however, has shown that commonly-prescribed sleep aids could have negative cognitive effects later in life, which could cause some users to stop taking them. Scientists have recently ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.jpost.com/health-and-wellness/sleep/article-731037",
-      "originalUrl": "https://www.jpost.com/health-and-wellness/sleep/article-731037",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/526454",
-          "width": 640,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.jpost.com/health-and-wellness/sleep/article-731037/amp",
-      "cdnAmpWebUrl": "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/health-and-wellness/sleep/article-731037/amp",
-      "publishedDateTime": "2023-02-09T00:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Jerusalem Post Blogs",
-        "domain": "jpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-cognitive-screening-unevenly-documented-across-post-acute-care-settings-study.md",
-      "title": "Cognitive screening unevenly documented across post-acute care settings: study",
-      "excerpt": "There is wide variation across post-acute care settings in the documentation of cognitive screening and assessments, a new study has found. The industry could improve care coordination with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mcknights.com/news/clinical-news/cognitive-screening-unevenly-documented-across-post-acute-care-settings-study/",
-      "originalUrl": "https://www.mcknights.com/news/clinical-news/cognitive-screening-unevenly-documented-across-post-acute-care-settings-study/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-08T21:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "McKnight's Long-Term Care News",
-        "domain": "mcknights.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-amex-microsoft-collaborate-on-expense-automation.md",
-      "title": "Amex, Microsoft Collaborate on Expense Automation",
-      "excerpt": "American Express is working with Microsoft to develop a more automated expense-reporting process built from Microsoft Cloud and AI technologies, the companies announced.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesstravelnews.com/Payment-Expense/Amex-Microsoft-Collaborate-on-Expense-Automation",
-      "originalUrl": "https://www.businesstravelnews.com/Payment-Expense/Amex-Microsoft-Collaborate-on-Expense-Automation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ik.imgkit.net/3vlqs5axxjf/BTN/uploadedImages/2015_Site_Maintenance/BTN_OGImage.jpg?tr=w-1200%2Cfo-auto",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-08T21:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Travel News",
-        "domain": "businesstravelnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-chung-ang-university-researchers-review-deep-learning-based-methods-to-detect-time-series-data-anomaly.md",
-      "title": "Chung-Ang University researchers review deep learning-based methods to detect time series data anomaly",
-      "excerpt": "Unusual observations or anomalies in recorded data are common. Detection of such anomalies has applications in identifying credit card frauds, industrial intrusion, weather changes, medical seizures,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/979048",
-      "originalUrl": "https://www.eurekalert.org/news-releases/979048",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/d26122ba-7e91-4462-9876-9d940db47133/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 386,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-08T20:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-mcgill-university-experts-trace-predict-recurring-lung-cancer-with-artificial-intelligence.md",
-      "title": "McGill University experts trace predict recurring lung cancer with artificial intelligence",
-      "excerpt": "Lung cancer is the leading cause of cancer-related deaths in Quebec and Canada, killing more individuals than prostate, colon and breast cancers combined. Thanks to tissue samples from almost 500 lung cancer patients,",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/mcgill-university-experts-trace-predict-recurring-lung-cancer-with-artificial-intelligence/",
-      "originalUrl": "https://indiaeducationdiary.in/mcgill-university-experts-trace-predict-recurring-lung-cancer-with-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/mcgill-university-experts-trace-predict-recurring-lung-cancer-with-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/mcgill-university-experts-trace-predict-recurring-lung-cancer-with-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-02-08T20:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-asian-ipos-in-us-poised-to-increase-as-regions-economies-recover-nasdaq-vice-chairman-says.md",
-      "title": "Asian IPOs In U.S. Poised To Increase As Region’s Economies Recover, Nasdaq Vice Chairman Says",
-      "excerpt": "This week, Hesai Group, a supplier of sensors for self-driving vehicles whose investors include Baidu and smartphone maker Xiaomi, is expected to list. So far, there have been four other international listings on the Nasdaq this year, three of which were ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/russellflannery/2023/02/09/asia-ipos-in-us-poised-to-increase-as-regions-economies-recover-nasdaq-vice-chairman-says/",
-      "originalUrl": "https://www.forbes.com/sites/russellflannery/2023/02/09/asia-ipos-in-us-poised-to-increase-as-regions-economies-recover-nasdaq-vice-chairman-says/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63e473e2f63d34b21b78da06/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-08T20:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-driverless-cars-available-for-rides-around-the-site-of-super-bowl-57-in-glendale.md",
-      "title": "Driverless cars available for rides around the site of Super Bowl 57 in Glendale",
-      "excerpt": "One unique option: driverless cars! The alternative is growing in popularity, and also highlights the big tech industry in the Phoenix region. Action News' Christie Ileto takes us along for a ride.",
-      "sourceUrl": null,
-      "webUrl": "https://6abc.com/phoenix-driverless-cars-super-bowl-57-state-farm-stadium-glendale/12787888/",
-      "originalUrl": "https://6abc.com/phoenix-driverless-cars-super-bowl-57-state-farm-stadium-glendale/12787888/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.abcotvs.com/dip/images/12787908_020823-wpvi-self-driving-cars-super-bowl-430pm-video-vid.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://6abc.com/amp/phoenix-driverless-cars-super-bowl-57-state-farm-stadium-glendale/12787888/",
-      "cdnAmpWebUrl": "https://6abc-com.cdn.ampproject.org/c/s/6abc.com/amp/phoenix-driverless-cars-super-bowl-57-state-farm-stadium-glendale/12787888/",
-      "publishedDateTime": "2023-02-08T19:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "6abc News",
-        "domain": "6abc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

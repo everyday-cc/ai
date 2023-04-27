@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2023-04-ai-planet-solar.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-04-ai-planet-solar.amp"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -41,6 +41,22 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2023/researchers-use-ai-to-2.jpg"
         width: 761
         height: 335
+        isCached: true
+  - title: "Researchers use AI to innovate insect discovery"
+    excerpt: "A team of researchers at the IUPUI School of Science have developed an innovative use of Artificial Intelligence to discover new species of insects."
+    publishedDateTime: 2023-04-27T16:42:00Z
+    webUrl: "https://phys.org/news/2023-04-ai-insect-discovery.html"
+    ampWebUrl: "https://phys.org/news/2023-04-ai-insect-discovery.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-04-ai-insect-discovery.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/school-of-science-rese.jpg"
+        width: 2137
+        height: 800
         isCached: true
   - title: "US university researchers get funding to boost use of AI, robotics in chicken processing"
     excerpt: "US university researchers at Georgia Tech, the University of Arkansas System, the University of Nebraska-Lincoln and Fort Valley State University in Georgia were awarded a US$5 million grant to increase use of artificial intelligence and robotics in chicken processing to reduce waste in deboning and detect pathogens."

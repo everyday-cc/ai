@@ -2,6 +2,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-02-09-chinas-baidu-plans-to-launch-chatgpt-style-bot-ernie-in-march-company.md",
+      "title": "China's Baidu plans to launch ChatGPT – style bot ERNIE in March: company",
+      "excerpt": "Chinese tech company Baidu is expected to launch a ChatGPT ... It has been investing heavily in AI for years in the fields of self-driving cars and chips designed to power AI applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.globaltimes.cn/page/202302/1285002.shtml",
+      "originalUrl": "https://www.globaltimes.cn/page/202302/1285002.shtml",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-02-14/316f6ff6-300c-4027-aa88-47f45fb38bc0.jpeg",
+          "width": 1200,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-08T13:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Global Times",
+        "domain": "globaltimes.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-09-this-chinese-stock-is-unveiling-its-own-version-of-chatgpt.md",
       "title": "This Chinese Stock is Unveiling Its Own Version of ChatGPT",
       "excerpt": "Baidu’s growth has fallen behind that of its Chinese tech rivals in recent times, but its well-timed shift towards AI several years ago could soon begin to bear fruit. The company has spent the last few years investing in self-driving cars, deep-learning ...",
@@ -1180,40 +1223,6 @@
         "AI",
         "AI in Healthcare",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-02-05-artificial-intelligence-in-south-africa-comes-with-special-dilemmas-plus-the-usual-risks.md",
-      "title": "Artificial intelligence in South Africa comes with special dilemmas – plus the usual risks",
-      "excerpt": "OPINION: Knowing what ethical risks may play out at a country level is important because it can help policymakers and organisations to adjust their risk management policies and practices accordingly,",
-      "sourceUrl": null,
-      "webUrl": "https://www.iol.co.za/technology/software-and-internet/artificial-intelligence-in-south-africa-comes-with-special-dilemmas-plus-the-usual-risks-3df580af-597e-452b-a9a4-072d1b3269d2",
-      "originalUrl": "https://www.iol.co.za/technology/software-and-internet/artificial-intelligence-in-south-africa-comes-with-special-dilemmas-plus-the-usual-risks-3df580af-597e-452b-a9a4-072d1b3269d2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-05T05:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Independent Online",
-        "domain": "iol.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

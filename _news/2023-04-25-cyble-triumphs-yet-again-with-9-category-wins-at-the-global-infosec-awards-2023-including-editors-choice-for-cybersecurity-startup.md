@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "NSA Cybersecurity Director Says ‘Buckle Up’ for Generative AI"
+    excerpt: "The security issues raised by ChatGPT and similar tech are just beginning to emerge, but Rob Joyce says it’s time to prepare for what comes next."
+    publishedDateTime: 2023-04-27T16:52:00Z
+    webUrl: "https://www.wired.com/story/nsa-rob-joyce-chatgpt-security/"
+    ampWebUrl: "https://www.wired.com/story/nsa-rob-joyce-chatgpt-security/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/nsa-rob-joyce-chatgpt-security/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 87
+    images:
+      - url: "https://media.wired.com/photos/644a7dfee416fd283a85c162/master/pass/nsa_sec_GettyImages-1059275390.jpg"
+        width: 2400
+        height: 1800
+        isCached: true
   - title: "U.S. Officials Raise Concerns About AI’s Cybersecurity Implications"
     excerpt: "Rush to deploy ChatGPT and other models may leave organizations open to unknown threats, hacks, cybersecurity officials say."
     publishedDateTime: 2023-04-26T23:06:00Z
@@ -83,20 +99,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/04/Sarbjeet-Johal-RSAC-2023-V2.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Transforming digital landscapes: Cloud solutions, cybersecurity and AWS’ approach"
-    excerpt: "In fact, AWS has a dedicated team working around the clock to ensure a fully secure, efficient cloud experience for its clients. “I do a lot of work around securing ourselves, and then I also talk to customers and empathize with them about what it takes to do security at scale in the cloud,"
-    publishedDateTime: 2023-04-25T18:33:00Z
-    webUrl: "https://siliconangle.com/2023/04/25/transforming-digital-landscapes-cloud-solutions-cybersecurity-aws-approach-rsac/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 34
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/04/IMG_7334.jpg"
-        width: 1918
-        height: 1279
         isCached: true
 
 secured: "1dIBZvjK4G96BlT9QPOBpArNZmOjtSZM699YIQY1dGkAyeW6iG5YxVpMaD5q3Kh9N4NbmoA/NMHOmX6vH/lLv4XtRR1MyX6BciR4G+uQybWOokZTjUsnl04Cmhp2ZB7IsVX+19VW0BtS1cp+yxifWYggHsfQq/r1jsgiVGgVCsICwqcPJHX4hLR988gOXiav+I3BhXUeJWQXweAt/hhQLgF+TOWMvWd4iZHsRBxb0mUNrGwFpZD2HhdB3FI/72r2iSNsbKAlS2OJ3bsRNrJri6IxiY/XDQJHKXR+rLqwUhJcbw2Ge2xpco52JsftwRAgn3ui5tfdMgTjhese4ioXs4Gamp+//R3f/fIW1l+2u+Y=;WBDsO/Se8KRBObW1HOMorA=="

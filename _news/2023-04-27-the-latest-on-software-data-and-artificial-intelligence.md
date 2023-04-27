@@ -56,6 +56,15 @@ related:
         width: 1200
         height: 814
         isCached: true
+  - title: "How Artificial Intelligence Can Aid Democracy"
+    excerpt: "BKC Affiliates Nathan Sanders and Bruce Schneier write about AI's potential to advance the public good by helping democracy."
+    publishedDateTime: 2023-04-27T12:32:00Z
+    webUrl: "https://cyber.harvard.edu/story/2023-04/how-artificial-intelligence-can-aid-democracy"
+    type: article
+    provider:
+      name: Harvard Medical School
+      domain: harvard.edu
+    quality: 34
   - title: "As AI Advances, Is Prompt Engineering the Next Crucial Legal Skill?"
     excerpt: "Generative AI has taken the legal world by storm, and that means legal professionals are going to have to learn to communicate with machines. One key skill for doing so has emerged: prompt engineering."
     publishedDateTime: 2023-04-25T19:47:00Z

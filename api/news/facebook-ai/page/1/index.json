@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-04-28-google-microsoft-and-meta-each-said-ai-nearly-50-times-on-earnings-calls-heres-why-we-should-all-care.md",
+      "title": "Google, Microsoft and Meta each said ‘AI’ nearly 50 times on earnings calls. Here’s why we should all care",
+      "excerpt": "In earnings results this week, Alphabet, Microsoft and Meta all announced revenue boosts and put their AI priorities front-and-center.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/google-microsoft-and-meta-each-said-ai-nearly-50-times-on-earnings-calls-heres-why-we-should-all-care/",
+      "originalUrl": "https://venturebeat.com/ai/google-microsoft-and-meta-each-said-ai-nearly-50-times-on-earnings-calls-heres-why-we-should-all-care/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/04/Untitled-design-61.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/google-microsoft-and-meta-each-said-ai-nearly-50-times-on-earnings-calls-heres-why-we-should-all-care/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/google-microsoft-and-meta-each-said-ai-nearly-50-times-on-earnings-calls-heres-why-we-should-all-care/amp/",
+      "publishedDateTime": "2023-04-27T10:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-26-kinetix-launches-text-to-animation-ai-for-new-era-in-user-generated-content.md",
       "title": "Kinetix launches text-to-animation AI for new era in user-generated content",
       "excerpt": "Kinetix has announced Text2Emotes, a generative AI technology that heralds a new era of user-generated gaming content (UGC).",
@@ -158,7 +211,7 @@
       "originalUrl": "https://venturebeat.com/ai/kpmg-us-executives-unprepared-for-immediate-adoption-of-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -254,58 +307,6 @@
         "Microsoft AI",
         "Facebook AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-04-24-these-are-the-9-best-books-to-get-up-to-speed-on-the-hot-new-world-of-generative-ai-according-to-experts.md",
-      "title": "These are the 9 best books to get up to speed on the hot new world of generative AI, according to experts",
-      "excerpt": "The AI Revolution in Medicine: GPT-4 and Beyond Author: Peter Lee, Carey Goldberg, and Isaac Kohane. Lee, Corporate VP for Research and Incubations at Microsoft; Goldberg, medical and science ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/list-generative-ai-artificial-intelligence-best-books-for-learning-experts-2023-3",
-      "originalUrl": "https://www.businessinsider.com/list-generative-ai-artificial-intelligence-best-books-for-learning-experts-2023-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6442e90e3d49030019df18aa?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/list-generative-ai-artificial-intelligence-best-books-for-learning-experts-2023-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/list-generative-ai-artificial-intelligence-best-books-for-learning-experts-2023-3?amp",
-      "publishedDateTime": "2023-04-23T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     },
     {

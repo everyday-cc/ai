@@ -37,6 +37,34 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "How to worry wisely about artificial intelligence"
+    excerpt: "In particular, new “large language models” (LLMs)—the sort that powers ChatGPT, a chatbot made by OpenAI, a startup—have surprised even their creators with their unexpected talents as they ..."
+    publishedDateTime: 2023-04-24T14:16:00Z
+    webUrl: "https://www.economist.com/leaders/2023/04/20/how-to-worry-wisely-about-artificial-intelligence"
+    type: article
+    provider:
+      name: The Economist
+      domain: economist.com
+    quality: 39
+    images:
+      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230422_LDD001.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "The Future of Tech: AI Stocks to Keep on Your Radar"
+    excerpt: "AI reminds one of the internet's early days, more flash than substance. Years later, the internet is the foundation of today's modern economy. AI could similarly be the future of the technology industry."
+    publishedDateTime: 2023-04-27T11:35:00Z
+    webUrl: "https://moneymorning.com/investing/the-future-of-tech-ai-stocks-to-keep-on-your-radar/"
+    type: article
+    provider:
+      name: Money Morning
+      domain: moneymorning.com
+    quality: 39
+    images:
+      - url: "https://moneymorning.com/wp-content/blogs.dir/1/files/2023/04/motley-fool-mark.png"
+        width: 940
+        height: 940
+        isCached: true
 
 secured: "OZVBLZD64SB0JaIpO1Pmcs5NZa8hhuiUF0YwdB6Ot3UXncl1MPuNi1cDynvU1v3QOF/vUqOEf1GWxl//LTzwjOjnAI5icigdgVy1YWB9TiIgrHgrPFG7p4qaskj7wv8l7ZY+4FDuk6NEpW0DWYbV+2gyupHoawFMylQPvxO2qW/2GSAWMdPrUL8mCEPgTrbrbwxcEca7ZI+Yg/rea2gZzZJk4F0gTKiv5pnS1hDvLly0probYNHnswkzFXgQbNyOeBTtzd5t5kljcynaVq20VcfaPBhYPMlWzBMdmhHt0x4JGZOqsHGC3Szukf3O8pI8KO73/yeYzLpJOv0LwT4BJM+yTA6QSTZKPXtOtkUZpRlB1OH6FDDR/0anua3gKXR9LVD4AfiNvDyezntZ03UIjWLthoRi3zk8j/3zMNqDbZf0a/yQOjW3A0eeGc/eERXf8P+KZtOEXiH8REIOfGh1jnPM1UlTT+tg8zDDBkP8e8l5zsLuHOp/NZjadzHzc2Y/YC+LPRVFuvTgDPPWT5a/OQ==;TotTg4tpQVbfMWVQ8D7OvA=="
 ---

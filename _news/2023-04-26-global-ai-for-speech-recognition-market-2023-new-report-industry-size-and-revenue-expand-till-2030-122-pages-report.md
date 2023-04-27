@@ -141,6 +141,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Face Recognition Technology Market Updates 2023-2031 by Marketreportsworld.com"
+    excerpt: "Global \"Face Recognition Technology Market\" New Forecast Report 2023| [Pages 121] | provides a brief analysis of"
+    publishedDateTime: 2023-04-27T08:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-updates-2023-2031-by-marketreportsworldcom-2023-04-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Software Market 2023-2030| Discover Industry Scope and Opportunities"
     excerpt: "The \"Artificial Intelligence Software Market\" Report covers the global and regional market with an in-depth analysis of"
     publishedDateTime: 2023-04-24T02:28:00Z

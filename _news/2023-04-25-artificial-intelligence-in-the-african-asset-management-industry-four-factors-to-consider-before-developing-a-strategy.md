@@ -38,6 +38,17 @@ related:
         width: 800
         height: 500
         isCached: true
+  - title: "Industrial AI: How Is Artificial Intelligence Transforming the Manufacturing Industry?"
+    excerpt: "AI is being used worldwide to improve production times and boost safety in manufacturing plants in what is referred to as the “Industry 4.0” era. In this piece, we will discuss why the need for industrial AI is accelerating and highlight some of the companies that are leading the change."
+    publishedDateTime: 2023-04-26T15:38:00Z
+    webUrl: "https://www.nasdaq.com/articles/industrial-ai-how-is-artificial-intelligence-transforming-the-manufacturing-industry"
+    ampWebUrl: "https://www.nasdaq.com/articles/industrial-ai-how-is-artificial-intelligence-transforming-the-manufacturing-industry?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/industrial-ai-how-is-artificial-intelligence-transforming-the-manufacturing-industry?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 76
   - title: "Can Artificial Intelligence Help The Film Industry? It Already Is."
     excerpt: "Monica Landers, founder and CEO of StoryFit, is using artificial intelligence to help the film industry with scripts and characters. And it's not ChatGPT."
     publishedDateTime: 2023-04-24T12:00:00Z

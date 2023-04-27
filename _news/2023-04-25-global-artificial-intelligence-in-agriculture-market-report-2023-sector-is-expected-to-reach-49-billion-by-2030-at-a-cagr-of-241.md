@@ -131,6 +131,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Face Recognition Technology Market Updates 2023-2031 by Marketreportsworld.com"
+    excerpt: "Global \"Face Recognition Technology Market\" New Forecast Report 2023| [Pages 121] | provides a brief analysis of"
+    publishedDateTime: 2023-04-27T08:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-updates-2023-2031-by-marketreportsworldcom-2023-04-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global AI for Speech Recognition Market 2023 [New Report] | Industry Size and Revenue Expand till 2030 | 122 Pages Report"
     excerpt: "The AI for Speech Recognition Market (2023-2030) Updated Latest Research Report is divided into various types [Software, Hardware] and applications [Smart Home, Vehicle System, Medical and Healthcare,"
     publishedDateTime: 2023-04-26T09:22:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/ai-startup-pinecone-raises-100-million-as
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-startup-pinecone-raises-100-million-as-vector-database-market-for-llms-heats-up/amp/"
 type: article
 quality: 81
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
+  - title: "Pinecone Hits $750M Valuation As AI Heats Up Vector Database Market"
+    excerpt: "While generative AI is grabbing most of the fundraising headlines, the infrastructure underneath those applications also gets investors' attention."
+    publishedDateTime: 2023-04-27T17:14:00Z
+    webUrl: "https://news.crunchbase.com/ai-robotics/startup-venture-funding-database-pinecone/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 41
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/AI_Sector_Artificial_Intelligence.jpg"
+        width: 900
+        height: 506
+        isCached: true
   - title: "AI developer platform raises nearly $100M, ups valuation to more than $1 billion"
     excerpt: "A generative AI coding platform for developers has doubled its funding in a Series B extension that pushed the San Francisco startup's valuation past $1 billion. Replit announced on Tuesday that it raised $94."
     publishedDateTime: 2023-04-25T18:01:00Z
@@ -49,6 +63,6 @@ related:
       domain: bizjournals.com
     quality: 14
 
-secured: "2ST/VQUzolsgF+e7+XYnjBT/gqMhfNKVYpEHqUqXUdqYfp6CZFXobwjZLB0LQriV79QVu8Ql2ItvbG1zYkWQlef769ZpefJdSlWiKkojPduLFqSWlx66/4TGWbHO8hMJakP8gND/0fJktXP9cs9XTdNIjG5SNuDWWMts8qkxc7nvDqOrQn9169X20z0J289vgJssb8ukLpRhT10jzrf02UDf9Hr51/vDH2yTi665o8lUyt5I3225YtrEFZ6S7/nWPCbaqabSGzXWBEc+iMIC93AaUqKWk/ZF4/vKkafkekXX5i+amTimfombnwzGXphUXf6DmTPrmqNMUEC5V8aiSw/4WvXYyuZNwbqrH0djIok=;GqcxxQobB20bTRCKcA+c0w=="
+secured: "Gpod80x25xn+qLeY1TiV40yI6AQQbcXJIyV4Azum8Qux8QBwc4uSZNZQDvjN74krP+toijrlgbOMX4EXc4/SJNnWD4MicGUwXBMqstDakAWo6ZUUaj9tSCzGrD1MZnj0L445LH7Io0dif7N3pb8veBA/EwEq6gfeBhdyKYrucDl58LZ+sLxMkOsGOQTHB7gnrUKJ0nXRZempir9eaK93oIyJj7vamwXxBvlXGngT6tCdSPmKySnTda3qO01PlWfR40tKZ4znuVS0ERCo9KFoHQo/lebQv/95gVOkHuDShBZffPu4+W71AwiRFYAeq6btIbul6Q4tCSR181HUb67SPUq2cTuZT5aDl88iKZ6HVZSeBj/yEK2b2ygEPG6J1qxwy18XLh8BpChH2/Y8D7Y+4Gl389EBVTtOi0581m0u0IcKKa6Teo28/I1DlunhtR0lZJMvcl/8X+k8EsTMEFYpZOTjXw49JAQwlWbpUbUvXMg7gowLCZJvqnUPRCtduiR3t104uLkXkdTpGuDxOLIv7g==;8obB8s6nspfpzBhYh61RnQ=="
 ---
 

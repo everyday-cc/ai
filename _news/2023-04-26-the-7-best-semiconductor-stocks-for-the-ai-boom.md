@@ -32,6 +32,34 @@ related:
       name: The Motley Fool
       domain: fool.com
     quality: 49
+  - title: "How to worry wisely about artificial intelligence"
+    excerpt: "In particular, new “large language models” (LLMs)—the sort that powers ChatGPT, a chatbot made by OpenAI, a startup—have surprised even their creators with their unexpected talents as they ..."
+    publishedDateTime: 2023-04-24T14:16:00Z
+    webUrl: "https://www.economist.com/leaders/2023/04/20/how-to-worry-wisely-about-artificial-intelligence"
+    type: article
+    provider:
+      name: The Economist
+      domain: economist.com
+    quality: 39
+    images:
+      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230422_LDD001.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "The Future of Tech: AI Stocks to Keep on Your Radar"
+    excerpt: "AI reminds one of the internet's early days, more flash than substance. Years later, the internet is the foundation of today's modern economy. AI could similarly be the future of the technology industry."
+    publishedDateTime: 2023-04-27T11:35:00Z
+    webUrl: "https://moneymorning.com/investing/the-future-of-tech-ai-stocks-to-keep-on-your-radar/"
+    type: article
+    provider:
+      name: Money Morning
+      domain: moneymorning.com
+    quality: 39
+    images:
+      - url: "https://moneymorning.com/wp-content/blogs.dir/1/files/2023/04/motley-fool-mark.png"
+        width: 940
+        height: 940
+        isCached: true
   - title: "AI wants to know what dove is"
     excerpt: "Schnabel is probably too near the centre of the ECB because her most hawkish speeches have all been recent, so they haven’t yet moved the average. Broadbent probably over-indexes as a dove because he speaks rarely and cagily. The opposite may be true of Pill and his unique presentation style. Etc."
     publishedDateTime: 2023-04-27T14:33:00Z

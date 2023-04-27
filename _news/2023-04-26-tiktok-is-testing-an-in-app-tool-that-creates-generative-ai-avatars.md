@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2023/04/26/tiktok-is-testing-an-in-app-tool-t
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/04/26/tiktok-is-testing-an-in-app-tool-that-creates-generative-ai-avatars/amp/"
 type: article
 quality: 87
-heat: 147
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechCrunch
@@ -30,76 +30,112 @@ images:
     isCached: true
 
 related:
-  - title: "AI-Generated Songs That Sound Like Kanye And Drake Are Going Viral On TikTok"
-    excerpt: "Generative AI is rippling through the creative industries, sparking concern in working artists, potential copyright breaches, and a new way to make memes."
-    publishedDateTime: 2023-04-24T14:07:00Z
-    webUrl: "https://www.forbes.com/sites/danidiplacido/2023/04/24/ai-generated-songs-that-sound-like-kanye-and-drake-are-going-viral-on-tiktok/"
-    ampWebUrl: "https://www.forbes.com/sites/danidiplacido/2023/04/24/ai-generated-songs-that-sound-like-kanye-and-drake-are-going-viral-on-tiktok/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danidiplacido/2023/04/24/ai-generated-songs-that-sound-like-kanye-and-drake-are-going-viral-on-tiktok/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64468be3dc046c3305a3babe/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 854
-        isCached: true
-  - title: "Apple, TikTok jump aboard the generative AI train; Boston Dynamics’ Spot gets ChatGPT"
-    excerpt: "Apple and TikTok have jumped on the AI bandwagon. Also, even more interestingly, engineers are beginning to integrate ChatGPT into Boston Dynamics' Spot robotic dog."
-    publishedDateTime: 2023-04-27T11:47:00Z
-    webUrl: "https://indianexpress.com/article/technology/tech-news-technology/apple-tiktok-jump-aboard-the-generative-ai-train-boston-dynamics-spot-gets-chatgpt/"
-    ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/apple-tiktok-jump-aboard-the-generative-ai-train-boston-dynamics-spot-gets-chatgpt/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/apple-tiktok-jump-aboard-the-generative-ai-train-boston-dynamics-spot-gets-chatgpt/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 52
-    images:
-      - url: "https://images.indianexpress.com/2023/04/tiktok-featured-reuters.jpg?resize=600,334"
-        width: 600
-        height: 334
-        isCached: true
-  - title: "TikTok Adds AI Avatar Generation Feature"
-    excerpt: "Upload anywhere from 3 to 10 selfies and let TikTok generate up to 30 avatars in 5 different styles for you to choose from."
-    publishedDateTime: 2023-04-26T13:46:00Z
-    webUrl: "https://gizmodo.com/tiktok-avatar-ai-art-lensa-1850377003"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 47
-  - title: "Rumored: AI-generated avatars are in the works at TikTok"
-    excerpt: "According to The Verge, TikTok says its AI avatar generator is only available in select regions and is still a work in progress. It's still being determined when this feature will be available to the public if it will require a subscription, and what technology is behind the generator."
-    publishedDateTime: 2023-04-27T13:25:00Z
-    webUrl: "https://www.zdnet.com/article/rumored-ai-generated-avatars-are-in-the-works-at-tiktok/"
+  - title: "The 5 biggest risks of generative AI, according to an expert"
+    excerpt: "According to Gartner analyst Avivah Litan, some of the biggest risks of generative AI concern trust and security and include hallucinations, deepfakes, data privacy, copyright issues, and cybersecurity problems."
+    publishedDateTime: 2023-04-25T09:54:00Z
+    webUrl: "https://www.zdnet.com/article/the-5-biggest-risks-of-generative-ai-according-to-an-expert/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-5-biggest-risks-of-generative-ai-according-to-an-expert/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-5-biggest-risks-of-generative-ai-according-to-an-expert/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/0cc190b128c483df4d94a80b464a741210a694f4/2023/04/24/ba357ab7-5959-44f7-a452-d12811dba59b/gettyimages-1404749040-170667a.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "These are the 9 best books to get up to speed on the hot new world of generative AI, according to experts"
+    excerpt: "The AI Revolution in Medicine: GPT-4 and Beyond Author: Peter Lee, Carey Goldberg, and Isaac Kohane. Lee, Corporate VP for Research and Incubations at Microsoft; Goldberg, medical and science ..."
+    publishedDateTime: 2023-04-24T00:00:00Z
+    webUrl: "https://www.businessinsider.com/list-generative-ai-artificial-intelligence-best-books-for-learning-experts-2023-3"
+    ampWebUrl: "https://www.businessinsider.com/list-generative-ai-artificial-intelligence-best-books-for-learning-experts-2023-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/list-generative-ai-artificial-intelligence-best-books-for-learning-experts-2023-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 72
+    images:
+      - url: "https://i.insider.com/6442e90e3d49030019df18aa?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Gen AI For Generating Value: Experiential Learning"
+    excerpt: "The short- to medium-term outlook for generative AI will continue to see various firms using the public (generic) language models at their disposal."
+    publishedDateTime: 2023-04-27T13:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/27/gen-ai-for-generating-value-experiential-learning/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
     quality: 47
-  - title: "Artificial Intelligence Can Create, But Lacks Creativity, Say Critics"
-    excerpt: "Artificial intelligence, or AI, could potentially transform arts and entertainment, from music to movies, but it is also raising concerns. Is AI a creative tool or a threat to creators and artists? VOA’s Mike O’Sullivan examines the question."
-    publishedDateTime: 2023-04-27T01:26:00Z
-    webUrl: "https://www.voanews.com/a/artificial-intelligence-can-create-but-lacks-creativity-say-critics/7068177.html"
-    ampWebUrl: "https://www.voanews.com/amp/artificial-intelligence-can-create-but-lacks-creativity-say-critics/7068177.html"
-    cdnAmpWebUrl: "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/amp/artificial-intelligence-can-create-but-lacks-creativity-say-critics/7068177.html"
+  - title: "Generative AI Is Only as Good as the Prompt You Give It"
+    excerpt: "It is ironic that much of the early conversation about ChatGPT had to do with the demise of writing skills when, in fact, the very success of generative-AI searches is determined by the quality of precisely written prompts."
+    publishedDateTime: 2023-04-26T05:42:00Z
+    webUrl: "https://www.insidehighered.com/opinion/blogs/online-trending-now/2023/04/26/generative-ai-only-good-prompt-you-give-it"
     type: article
     provider:
-      name: Voice of America
-      domain: voanews.com
+      name: Inside Higher Ed
+      domain: insidehighered.com
+    quality: 39
+    images:
+      - url: "https://www.insidehighered.com/sites/default/files/2023-04/ihe-logo-web.png"
+        width: 600
+        height: 324
+        isCached: true
+  - title: "The risks and rewards of AI-powered translation"
+    excerpt: "Advances in AI deep learning for machine translation are an opportunity for organisations to remove language barriers to global trade"
+    publishedDateTime: 2023-04-27T15:30:00Z
+    webUrl: "https://www.business-reporter.co.uk/management/the-risks-and-rewards-of-ai-powered-translation"
+    type: article
+    provider:
+      name: business-reporter.co.uk
+      domain: business-reporter.co.uk
+    quality: 39
+    images:
+      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/028/AI_translation.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "44 of the most promising generative-artificial-intelligence startups of 2023, according to investors"
+    excerpt: "Estimated total funding for each startup is based on data from PitchBook unless otherwise specified. Adept What it does: Adept is a machine-learning research-and-product lab aiming to build AI ..."
+    publishedDateTime: 2023-04-24T00:00:00Z
+    webUrl: "https://www.businessinsider.com/most-promising-generative-artificial-intelligence-startups-according-vcs-venture-capital-2023-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
     quality: 37
-  - title: "Opinion: Generative AI is a powerful tool that requires a human touch"
-    excerpt: "Although AI models are constantly taking in new information, that information takes the form of new symbolic data without any context."
-    publishedDateTime: 2023-04-24T13:00:00Z
-    webUrl: "https://www.bizjournals.com/seattle/news/2023/04/24/intrigue-and-apprehension-around-generative-ai.html"
+    images:
+      - url: "https://i.insider.com/641b26b3e49c3900187d78fa?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Generative AI blitz hits cyber industry's biggest conference"
+    excerpt: "Generative AI has the potential to enable security products to better detect advanced phishing attacks, proactively scan networks for suspicious activity, and automatically \"fight back\" against ongoing attacks, Avivah Litan, distinguished vice president analyst at Gartner, told Axios."
+    publishedDateTime: 2023-04-25T16:40:00Z
+    webUrl: "https://www.axios.com/2023/04/25/generative-ai-cyber-industry-rsa-conference"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
+      name: Axios
+      domain: axios.com
+    quality: 37
+    images:
+      - url: "https://images.axios.com/XjCML_d0Xez8eBBySaNj09hw_vA=/0x0:1920x1080/1366x768/2023/04/25/1682437170486.jpg"
+        width: 1366
+        height: 768
+        isCached: true
+  - title: "The rapid rise of generative AI threatens to upend US patent system"
+    excerpt: "The flurry of concern has been prompted by the rapid rise of generative AI. Though known mainly from OpenAI’s ChatGPT, the same technology is already being used to design semiconductors and suggest ideas for new molecules that might form the basis of useful drugs."
+    publishedDateTime: 2023-04-26T12:00:00Z
+    webUrl: "https://www.ft.com/content/dc556ab8-9661-4d93-8211-65a44204f358"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "O7fi2O3TjzqMJAwFfpgSkpr66a+LDb3NoCC7cmsXY1O5Kdzs2pxjZ+FG7Tvr/31Mlx8X1NXyIlyndXKNNUFyuLQmlfXVY7pgP+9363oXRLeglGre/LEiGpy24qRvJuf3OR+mFPB9de53DMMMIdTe2Ovx6xQ4ElQMYphrwvjKhTVbk0A62vqTTr8qO7aFuTJvsHNjQDeGT1gCbv+YZXEJEbkIVH45mUjdJ8aeIyAvwOmOKiuxhg0y5MnSgo9taCP6vmZTmRBKFYqDs3Yf1FsNH43gltJA0h33Df7NtnPlVW653l6mxNqBPMomJwfDW5lrgMGu/nvfAfAYe1t3kPRit10Gbz17eUUgcXC5b0ZxI+8=;j06exqLQ7ZBGFgwQbQrYhA=="
 ---

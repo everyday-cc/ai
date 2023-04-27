@@ -2,6 +2,401 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2023-03-16-characterizing-abnormal-neural-networks-in-dogs-with-anxiety.md",
+      "title": "Characterizing abnormal neural networks in dogs with anxiety",
+      "excerpt": "Researchers at Ghent University in Belgium report abnormalities in functional neural networks of dogs diagnosed with anxiety. Led by Yangfeng Xu (Ghent Experimental Psychiatry Lab, GHEP ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-03-characterizing-abnormal-neural-networks-dogs.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-03-characterizing-abnormal-neural-networks-dogs.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/characterizing-abnorma.jpg",
+          "width": 1221,
+          "height": 486,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-03-characterizing-abnormal-neural-networks-dogs.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-03-characterizing-abnormal-neural-networks-dogs.amp",
+      "publishedDateTime": "2023-03-16T05:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-16-ways-generative-ai-could-revolutionize-your-customer-experience.md",
+      "title": "Ways Generative AI Could Revolutionize Your Customer Experience",
+      "excerpt": "Be aware of potential pitfalls and take steps to ensure you don’t fall into them while taking a proactive, responsible approach to leveraging this technology and minimizing the risks of unintended consequences.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescoachescouncil/2023/03/16/ways-generative-ai-could-revolutionize-your-customer-experience/",
+      "originalUrl": "https://www.forbes.com/sites/forbescoachescouncil/2023/03/16/ways-generative-ai-could-revolutionize-your-customer-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64122de1eba4a8992dc2ecb2/0x0.jpg?format=jpg&width=1200",
+          "width": 800,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescoachescouncil/2023/03/16/ways-generative-ai-could-revolutionize-your-customer-experience/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2023/03/16/ways-generative-ai-could-revolutionize-your-customer-experience/amp/",
+      "publishedDateTime": "2023-03-16T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-16-artificial-intelligence-isnt-close-to-becoming-sentient.md",
+      "title": "Artificial intelligence isn't close to becoming sentient",
+      "excerpt": "Chatbots like ChatGPT raise important new questions about how artificial intelligence will shape our lives and about ... rather than the machines' actual personhood. In Japan, where robots are regularly used for elder care, seniors become attached to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Voices/2023/03/16/AI-sentient-danger-artificial-intelligence/5211678968643/",
+      "originalUrl": "https://www.upi.com/Voices/2023/03/16/AI-sentient-danger-artificial-intelligence/5211678968643/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/upi_com/5211678968643/2023/1/db4c392242fd2b808f2c372be5b16d03/v1.5/Artificial-intelligence-isnt-close-to-becoming-sentient.jpg",
+          "width": 1018,
+          "height": 681,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Voices/2023/03/16/AI-sentient-danger-artificial-intelligence/5211678968643/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Voices/2023/03/16/AI-sentient-danger-artificial-intelligence/5211678968643/",
+      "publishedDateTime": "2023-03-16T05:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-03-16-how-ai-transforms-social-media.md",
+      "title": "How AI Transforms Social Media",
+      "excerpt": "From automatic content moderation and personalized recommendations to the ads we watch and beyond, AI is reshaping the way we interact and connect online.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/16/how-ai-transforms-social-media/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/16/how-ai-transforms-social-media/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/601c20336927340c1d155f1f/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/16/how-ai-transforms-social-media/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/03/16/how-ai-transforms-social-media/amp/",
+      "publishedDateTime": "2023-03-16T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-16-chinese-chatgpt-rival-from-search-engine-firm-baidu-fails-to-impress.md",
+      "title": "Chinese ChatGPT rival from search engine firm Baidu fails to impress",
+      "excerpt": "Shares plummet after Ernie Bot AI chatbot software falls short of expectations at unveiling in Beijing",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/world/2023/mar/16/chinese-chatgpt-rival-search-engine-baidu-fails-impress-ernie-bot",
+      "originalUrl": "https://www.theguardian.com/world/2023/mar/16/chinese-chatgpt-rival-search-engine-baidu-fails-impress-ernie-bot",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/0209d24d907d590683525baf67c2ae0227f84a19/0_133_8640_5184/master/8640.jpg?width=620&quality=85&auto=format&fit=max&s=0c7d2efda77632034855bc93dfde54df",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/world/2023/mar/16/chinese-chatgpt-rival-search-engine-baidu-fails-impress-ernie-bot",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2023/mar/16/chinese-chatgpt-rival-search-engine-baidu-fails-impress-ernie-bot",
+      "publishedDateTime": "2023-03-16T04:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-16-artificial-intelligence-will-replace-work-jerks-people-skills-will-become-more-important.md",
+      "title": "Artificial intelligence will replace work jerks. People skills will become more important.",
+      "excerpt": "An envelope. It indicates the ability to send an email. An curved arrow pointing right. It's almost the weekend, pals. I'm Diamond Naga Siu, and I watch about one movie per year. Last year was \"Bullet Train.\" This year, it was \"Everything Everywhere, All ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/office-spa-kia-uber-nintendo-taxi-chatgpt-oracle-brilliant-jerks-2023-3",
+      "originalUrl": "https://www.businessinsider.com/office-spa-kia-uber-nintendo-taxi-chatgpt-oracle-brilliant-jerks-2023-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/641253d95f4f54001919d435?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/office-spa-kia-uber-nintendo-taxi-chatgpt-oracle-brilliant-jerks-2023-3?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/office-spa-kia-uber-nintendo-taxi-chatgpt-oracle-brilliant-jerks-2023-3?amp",
+      "publishedDateTime": "2023-03-16T04:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-16-2-unstoppable-ai-stocks-to-buy-for-the-next-decade.md",
+      "title": "2 Unstoppable AI Stocks to Buy for the Next Decade",
+      "excerpt": "It offers pretrained models for cybersecurity, speech recognition, and other AI use cases. It says 25,000 companies and start-ups are using Nvidia AI. Another sign that Nvidia is positioned to lead this disruptive tech revolution is its multiyear ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/03/16/2-unstoppable-ai-stocks-to-buy-for-the-next-decade/",
+      "originalUrl": "https://www.fool.com/investing/2023/03/16/2-unstoppable-ai-stocks-to-buy-for-the-next-decade/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/724598/artificial-intelligence-investing-algorithm.png",
+          "width": 3416,
+          "height": 2266,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-16T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-16-three-ways-digitalization-is-powering-the-future-of-healthcare.md",
+      "title": "Three Ways Digitalization Is Powering The Future Of Healthcare",
+      "excerpt": "1. AI helps make medical systems smarter. Today, 59% of U.S. healthcare executives believe that artificial intelligence (AI) is either “very effective” or “often effective” at improving clinical outcomes. AI can be used in a variety of ways in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/16/three-ways-digitalization-is-powering-the-future-of-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/16/three-ways-digitalization-is-powering-the-future-of-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61ae0e237f3ed51680b90539/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/16/three-ways-digitalization-is-powering-the-future-of-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/03/16/three-ways-digitalization-is-powering-the-future-of-healthcare/amp/",
+      "publishedDateTime": "2023-03-16T03:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-16-the-rise-of-ai-automation-in-the-workplace-is-bad-news-for-the-brilliant-jerks-of-tech.md",
       "title": "The rise of AI automation in the workplace is bad news for the 'brilliant jerks' of tech",
       "excerpt": "Brilliant jerks who nobody actually likes working with will have a tougher time after AI automates much of their work. The future belongs to those with people skills.",
@@ -829,396 +1224,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-ai-image-tool-midjourney-launches-magazine.md",
-      "title": "AI-Image Tool Midjourney Launches Magazine",
-      "excerpt": "Midjourney, one of the many artificial intelligence-driven image creation companies to crop up in the past six months, announced plans on Wednesday to launch a magazine.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/mattnovak/2023/03/15/ai-image-tool-midjourney-launches-magazine/",
-      "originalUrl": "https://www.forbes.com/sites/mattnovak/2023/03/15/ai-image-tool-midjourney-launches-magazine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64122c70b27b32a60e216cc1/0x0.jpg?format=jpg&crop=1600,900,x0,y82,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/mattnovak/2023/03/15/ai-image-tool-midjourney-launches-magazine/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattnovak/2023/03/15/ai-image-tool-midjourney-launches-magazine/amp/",
-      "publishedDateTime": "2023-03-15T13:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-machine-learning-as-a-service-mlaas-market-share-segmentation-and-forecast-2023-2029.md",
-      "title": "Machine Learning as a Service (MLaaS) Market Share, Segmentation and Forecast 2023-2029",
-      "excerpt": "There are many different sources of market data, including government statistics, industry reports, financial news, and market research firms. Some of the key types of data that are available from the global Machine Learning as a Service (MLaaS ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-share-segmentation-and-forecast-2023-2029-2023-03-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-share-segmentation-and-forecast-2023-2029-2023-03-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 208,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-15T13:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-how-wired-will-use-generative-ai-tools.md",
-      "title": "How WIRED Will Use Generative AI Tools",
-      "excerpt": "We may experiment with using AI as a research or analytical tool. The current generation of AI chatbots that Google and Microsoft are adding to their search engines answer questions by ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/about/generative-ai-policy/",
-      "originalUrl": "https://www.wired.com/about/generative-ai-policy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/63fff93482f5460a73e0eb93/191:100/w_1280,c_limit/Computer_Hands_FINAL.png",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-15T12:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-could-ai-powered-object-recognition-technology-help-solve-wheat-disease.md",
-      "title": "Could AI-powered object recognition technology help solve wheat disease?",
-      "excerpt": "URBANA, Ill. – A new University of Illinois project is using advanced object recognition technology to keep toxin-contaminated wheat kernels out of the food supply and to help researchers make ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/982901",
-      "originalUrl": "https://www.eurekalert.org/news-releases/982901",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/676f5a93-24e3-4737-8dd4-9ab5b4ffcaca/Rendition/thumbnail/Content/Public",
-          "width": 300,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-15T11:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-bring-legacy-machine-learning-code-into-amazon-sagemaker-using-aws-step-functions.md",
-      "title": "Bring legacy machine learning code into Amazon SageMaker using AWS Step Functions",
-      "excerpt": "Tens of thousands of AWS customers use AWS machine learning (ML) services to accelerate their ML development with fully managed infrastructure and tools. For customers who have been developing ML models on premises, such as their local desktop, they want to migrate their legacy ML models to the AWS Cloud",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/bring-legacy-machine-learning-code-into-amazon-sagemaker-using-aws-step-functions/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/bring-legacy-machine-learning-code-into-amazon-sagemaker-using-aws-step-functions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-15T11:32:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-ai-gets-smarter-safer-more-visual-with-gpt-4-update-openai-says.md",
-      "title": "AI Gets Smarter, Safer, More Visual With GPT-4 Update, OpenAI Says",
-      "excerpt": "Azure now can use Nvidia's new H100 processors, which include specific circuitry to accelerate AI transformer calculations. Another large language model developer, Anthropic, also unveiled an AI chatbot called Claude on Tuesday. The company, which counts ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/computing/ai-gets-smarter-safer-more-visual-with-gpt-4-update-openai-says/",
-      "originalUrl": "https://www.cnet.com/tech/computing/ai-gets-smarter-safer-more-visual-with-gpt-4-update-openai-says/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/aec4ae4989aa06e9d658ce589449b5535d70159b/hub/2023/02/08/ab062053-b8ba-4938-9711-5f0cc97f4f0e/20230207-openai-ceo-sam-altman-01.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/ai-gets-smarter-safer-more-visual-with-gpt-4-update-openai-says/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-gets-smarter-safer-more-visual-with-gpt-4-update-openai-says/",
-      "publishedDateTime": "2023-03-15T11:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-what-the-ai-boom-means-for-carbon-emissions.md",
-      "title": "What the AI Boom Means for Carbon Emissions",
-      "excerpt": "Artificial Intelligence is booming, and so is its carbon footprint. AI is the tech industry's new toy, with expectations it’ll revolutionize trillion-dollar industries from retail to medicine. But the creation of every new chatbot and image generator requires a lot of electricity,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/videos/2023-03-15/what-the-ai-boom-means-for-carbon-emissions",
-      "originalUrl": "https://www.bloomberg.com/news/videos/2023-03-15/what-the-ai-boom-means-for-carbon-emissions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imGlILH27L.A/v40/-1x-1.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-15T11:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-what-are-the-ethical-hazards-in-the-effort-to-commercialize-ai.md",
-      "title": "What are the ethical hazards in the effort to commercialize AI?",
-      "excerpt": "Could training in ethics help? Microsoft reportedly laid off its artificial intelligence ethics and society team as part of the 10,000 job cuts announced in January. The company said it still ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketplace.org/shows/marketplace-tech/what-are-the-ethical-hazards-in-the-effort-to-commercialize-ai/",
-      "originalUrl": "https://www.marketplace.org/shows/marketplace-tech/what-are-the-ethical-hazards-in-the-effort-to-commercialize-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketplace.org/wp-content/uploads/2023/03/GettyImages-1246872444.jpg",
-          "width": 3600,
-          "height": 2401,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketplace.org/shows/marketplace-tech/what-are-the-ethical-hazards-in-the-effort-to-commercialize-ai/amp/",
-      "cdnAmpWebUrl": "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/what-are-the-ethical-hazards-in-the-effort-to-commercialize-ai/amp/",
-      "publishedDateTime": "2023-03-15T10:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Marketplace",
-        "domain": "marketplace.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

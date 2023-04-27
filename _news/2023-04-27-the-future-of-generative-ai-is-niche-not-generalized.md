@@ -26,51 +26,140 @@ images:
     isCached: true
 
 related:
-  - title: "KPMG: US executives unprepared for immediate adoption of generative AI"
-    excerpt: "In a KPMG survey of executives on generative AI, the technology is seen as potentially the most disruptive to date."
-    publishedDateTime: 2023-04-24T11:01:00Z
-    webUrl: "https://venturebeat.com/ai/kpmg-us-executives-unprepared-for-immediate-adoption-of-generative-ai/"
-    ampWebUrl: "https://venturebeat.com/ai/kpmg-us-executives-unprepared-for-immediate-adoption-of-generative-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/kpmg-us-executives-unprepared-for-immediate-adoption-of-generative-ai/amp/"
+  - title: "Tenable report shows how generative AI is changing security research"
+    excerpt: "A Tenable report reveals four ways researchers can use generative AI to enhance vulnerability analysis and debugging."
+    publishedDateTime: 2023-04-27T17:10:00Z
+    webUrl: "https://venturebeat.com/security/tenable-report-shows-how-generative-ai-is-changing-security-research/"
+    ampWebUrl: "https://venturebeat.com/security/tenable-report-shows-how-generative-ai-is-changing-security-research/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/tenable-report-shows-how-generative-ai-is-changing-security-research/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
+    quality: 106
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1076658494.jpg?w=1200&strip=all"
+        width: 1200
+        height: 603
+        isCached: true
+  - title: "How Generative AI Can Be Used In Electronics Manufacturing"
+    excerpt: "By tapping into the creative potential of generative AI, we can help assuage our national security and infrastructure concerns while paving the way for innovative solutions across a range of industries."
+    publishedDateTime: 2023-04-26T10:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/26/how-generative-ai-can-be-used-in-electronics-manufacturing/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/26/how-generative-ai-can-be-used-in-electronics-manufacturing/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/26/how-generative-ai-can-be-used-in-electronics-manufacturing/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
     quality: 89
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-648066032-e1682331357491.jpg?w=1200&strip=all"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/61f030570018a072dc46d1ec/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 613
+        height: 800
         isCached: true
-  - title: "How travel businesses can leverage generative AI solutions"
-    excerpt: "Find out how generative AI tools can help travel businesses personalise the customer experience, transform venues, and more."
-    publishedDateTime: 2023-04-25T06:45:00Z
-    webUrl: "https://thenextweb.com/news/how-travel-businesses-generative-ai-solutions"
+  - title: "Using Generative AI In Workforce Management"
+    excerpt: "Generative AI is the most transformative thing in the business landscape right now, perhaps even since the proliferation of the internet."
+    publishedDateTime: 2023-04-24T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/using-generative-ai-in-workforce-management/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/using-generative-ai-in-workforce-management/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/24/using-generative-ai-in-workforce-management/amp/"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62825152c50f091b0e2568f8/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 799
+        isCached: true
+  - title: "How reinforcement learning with human feedback is unlocking the power of generative AI"
+    excerpt: "How reinforcement learning with human feedback helps ensure that businesses are building ethical generative AI models."
+    publishedDateTime: 2023-04-23T16:20:00Z
+    webUrl: "https://venturebeat.com/ai/how-reinforcement-learning-with-human-feedback-is-unlocking-the-power-of-generative-ai/"
+    ampWebUrl: "https://venturebeat.com/ai/how-reinforcement-learning-with-human-feedback-is-unlocking-the-power-of-generative-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-reinforcement-learning-with-human-feedback-is-unlocking-the-power-of-generative-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 83
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/04/annevb_human_and_artificial_intelligence_working_together_to_un_5b2cbb9e-e380-4bb1-812b-366943b59568.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "ChatGPT: How generative AI could change hiring as we know it"
+    excerpt: "Candidates are already using tools such as ChatGPT to write cover letters and CVs. But it’s just a small piece of how AI is transforming hiring processes."
+    publishedDateTime: 2023-04-23T19:38:00Z
+    webUrl: "https://www.bbc.com/worklife/article/20230419-chatgpt-how-generative-ai-could-change-hiring-as-we-know-it"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
     quality: 67
     images:
-      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F04%2FAdd-a-heading-2.jpg&signature=83972cf323f74b475ec05ab3f2b6e782"
-        width: 1280
-        height: 640
+      - url: "https://ychef.files.bbci.co.uk/live/624x351/p0fhn46s.jpg"
+        width: 624
+        height: 351
         isCached: true
-  - title: "The Needed Executive Actions to Address the Challenges of Artificial Intelligence"
-    excerpt: "Artificial intelligence (AI) 1 is becoming more widely available to the public and increasingly sophisticated, leading to the advent of what Bill Gates recently called “The Age"
-    publishedDateTime: 2023-04-25T16:00:00Z
-    webUrl: "https://www.americanprogress.org/article/the-needed-executive-actions-to-address-the-challenges-of-artificial-intelligence/"
+  - title: "Growth of generative AI is leading to change moment for DevOps"
+    excerpt: "The role of data in DevOps is changing, facilitated by the introduction of powerful new generative artificial intelligence engines such as ChatGPT. The success of DevOps in modern, cloud-native environments has given rise to platform engineering,"
+    publishedDateTime: 2023-04-25T15:59:00Z
+    webUrl: "https://siliconangle.com/2023/04/25/growth-generative-ai-leading-change-moment-devops-kubecon/"
     type: article
     provider:
-      name: Center for American Progress
-      domain: americanprogress.org
-    quality: 32
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
     images:
-      - url: "https://www.americanprogress.org/wp-content/uploads/sites/2/2023/04/GettyImages-147980962070.jpg"
-        width: 1680
-        height: 1120
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/04/Mohan-et-al.jpg"
+        width: 986
+        height: 657
         isCached: true
+  - title: "HackerRank Research Finds Generative AI Changing How Developers Code--and How Companies Hire Developers"
+    excerpt: "Gap Identified Between the AI Skills Needed and the Skills TestedMOUNTAIN VIEW, Calif., April 24, 2023 /PRNewswire/ -- HackerRank, the developer"
+    publishedDateTime: 2023-04-24T14:40:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/hackerrank-research-finds-generative-ai-changing-how-developers-code-and-how-companies-hire-developers-1032254541"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 35
+  - title: "How enterprises can navigate ethics and responsibility of generative AI"
+    excerpt: "As enterprises adopt generative AI, they must simultaneously mitigate inherent risks in areas such as ethics, bias, transparency, privacy and regulatory requirements. Here’s how."
+    publishedDateTime: 2023-04-27T11:56:00Z
+    webUrl: "https://www.cio.com/article/474973/how-enterprises-can-navigate-ethics-and-responsibility-of-generative-ai.html"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 34
+  - title: "Google takes an opinionated view of how generative AI can be used in cybersecurity"
+    excerpt: "Google LLC announced a large language model fine-tuned for cybersecurity operations. The new generative AI model, Sec-PaLM, is designed to address enterprise challenges around threat overload, tool sprawl and a shortage of talent in the cybersecurity business."
+    publishedDateTime: 2023-04-25T22:17:00Z
+    webUrl: "https://siliconangle.com/2023/04/25/google-intros-large-language-model-security-leverage-threat-data-generative-ai-rsac/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 31
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/04/Sunil-Potti.jpg"
+        width: 986
+        height: 657
+        isCached: true
+  - title: "Researchers Leverage Generative AI to Improve Cancer Treatment Targets"
+    excerpt: "Researchers from the University of Texas are studying the use of generative AI for adaptive radiotherapy to better personalize cancer treatments."
+    publishedDateTime: 2023-04-24T13:29:00Z
+    webUrl: "https://healthitanalytics.com/news/researchers-leverage-generative-ai-to-improve-cancer-treatment-targets"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 19
 
-secured: "E1P+WAgMI/ZoAj6mTH+CR4Wa92CaMhY8sgtX70jZ3DFhGPTim9gBH1nKYSGqBeQ8EHAHqSUMrPSlA7syycT3tBbynoDX+3VPcGN6CNk/qbSWdMol4Q6gRRxs89BmC6Vfz62OoHOwt9TE98MFbcymaprZBSPs+Cx6aLgCrbKNjIdFCra2zF7ULhqR7gLKUKZAaxeUpprXmlb4ZjIhZuaqYfnr2Jm9wFJa4L1Y6UtOerFyt3O6fqRWKzeOEGNmJQIr2hCu4sE9MjI/WOafIVx/bpVr+Gn8JBvkMn5xKXXgDqf/8xm65JjTY9WqWUH3iOIx3nrWHWFmdi/c5ZbGWxquaz7WJ6aBaOvW1JXKM46DW9Q=;YMrdPfvXAffwpsrmVxRFBA=="
+secured: "tX5ir5LuRnaq2EMzF6rh5iEzt0g7lPIZ5kW6bZQPUSyrW0YQuycScnLMSJUu0CPgJZfnjL6ZEf6N8ZiIVthd7iWOzwx42Dapq6liGt7FN8hIpTK9ikziNt0ZPhWxeAzdQ28dSgjYo872Z16xkKzl/YfG2h1DPC2bxOieRx24cjhG8nSECceplEWkselL+EzuIk2kNXTuEn8wljyDSNjWdjpr9D7Szcg3MH2o5e5HpH0AAYrn8VsnWctXohSIjCFXKOnkW0kWhwMxsIaFgQ+BXn2xO6WriYzC7rm+2yrRzNbUxGR6GTirBRZ+5p2hULRIpUjdo2UZXjZw5pkhxoeFbJEwYfLbuN7hjrsKCpxoehH/mB7h986W/8hwnUbtX9Otm63S+d7l7Bzn/q6KwzkdLfxnGDz3DQAp9DAR5maKWxFwXygevLdAMoGG8Kzg6r/ulUEW++aUDgjTxWAxmDZQQ677CZs++2SDPxVgmbpUkfoYMpbhrq8JMZXXn6eCmWXsWgjWToIynngW34EQKbjXDQ==;0f/sJdEiGDyo60g6kvEDQA=="
 ---
 

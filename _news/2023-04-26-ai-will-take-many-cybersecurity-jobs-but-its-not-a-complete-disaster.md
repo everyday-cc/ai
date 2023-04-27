@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "NSA Cybersecurity Director Says ‘Buckle Up’ for Generative AI"
+    excerpt: "The security issues raised by ChatGPT and similar tech are just beginning to emerge, but Rob Joyce says it’s time to prepare for what comes next."
+    publishedDateTime: 2023-04-27T16:52:00Z
+    webUrl: "https://www.wired.com/story/nsa-rob-joyce-chatgpt-security/"
+    ampWebUrl: "https://www.wired.com/story/nsa-rob-joyce-chatgpt-security/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/nsa-rob-joyce-chatgpt-security/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 87
+    images:
+      - url: "https://media.wired.com/photos/644a7dfee416fd283a85c162/master/pass/nsa_sec_GettyImages-1059275390.jpg"
+        width: 2400
+        height: 1800
+        isCached: true
   - title: "U.S. Officials Raise Concerns About AI’s Cybersecurity Implications"
     excerpt: "Rush to deploy ChatGPT and other models may leave organizations open to unknown threats, hacks, cybersecurity officials say."
     publishedDateTime: 2023-04-26T23:06:00Z
@@ -71,20 +87,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/04/Sarbjeet-Johal-RSAC-2023-V2.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Transforming digital landscapes: Cloud solutions, cybersecurity and AWS’ approach"
-    excerpt: "In fact, AWS has a dedicated team working around the clock to ensure a fully secure, efficient cloud experience for its clients. “I do a lot of work around securing ourselves, and then I also talk to customers and empathize with them about what it takes to do security at scale in the cloud,"
-    publishedDateTime: 2023-04-25T18:33:00Z
-    webUrl: "https://siliconangle.com/2023/04/25/transforming-digital-landscapes-cloud-solutions-cybersecurity-aws-approach-rsac/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 34
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/04/IMG_7334.jpg"
-        width: 1918
-        height: 1279
         isCached: true
   - title: "Cyble Triumphs Yet Again With 9 Category Wins at the Global InfoSec Awards 2023, Including Editor's Choice for Cybersecurity Startup"
     excerpt: "Cyble, the Y Combinator-backed leader in AI-powered global cyber threat intelligence, today announced that it has been named a winner in 9 categories of the 11th Annual Global InfoSec Awards hosted by the Cyber Dfense Magazine CDM,"

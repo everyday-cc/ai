@@ -33,20 +33,6 @@ related:
         width: 958
         height: 539
         isCached: true
-  - title: "How Businesses Are Using Artificial Intelligence In 2023"
-    excerpt: "Businesses are employing artificial intelligence (AI) in a variety of ways to improve efficiencies, save time and decrease costs. With continued advancements, AI is quickly becoming a precious resource for companies across industries."
-    publishedDateTime: 2023-04-25T19:46:00Z
-    webUrl: "https://www.forbes.com/advisor/business/software/ai-in-business/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
-    images:
-      - url: "https://www.forbes.com/advisor/wp-content/uploads/2023/04/ai_business_survey_-_article_image.jpg"
-        width: 958
-        height: 538
-        isCached: true
 
 secured: "3ndTpaovYoVskMRBnK9ZKTnq/lcA8QX/Y/UyyfuWnR4+54sJ8+JLV0WtRYeh2Ujh2MQeXPtPdx/C0Wr67eCSQee/w3/HKdNhHpwe7CPLKV2b/2ELK4SoMLVXiqJbI1xin0QVb5aLBHaH8hlP8/bcrsIdmOvmaCsEfI2j4h8Z07TyWbVOex1w4wmq9fEIwWxFRmADmNv+TebxcyTdkYeZWZw0dWZ50ZaOQEQBVETBinm8dyCwFUS5OdbaS1XJWq1hql3tfcVjM2tP1jFxbDsQAl4HFRz/K+2NuYk7E0EnLChfGdBhJx//vrTqJt0Jp4i//X/P34+WIM9r17prQOstls3jB73bOvqJdzXZqJImw5M=;jqhcH3MOIVYlXM8nxSCP6Q=="
 ---

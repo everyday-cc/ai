@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-03-23-canva-can-now-generate-custom-templates-thanks-to-ai.md",
+      "title": "Canva Can Now Generate Custom Templates, Thanks To AI",
+      "excerpt": "Recognizing the need for global communication, Canva's Translate tool allows users to convert their text into over 100 different languages with just a click, broadening their audience reach. Finally, Magic Write, Canva’s AI-powered copywriting assistant ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johanmoreno/2023/03/23/canva-can-now-generate-custom-templates-thanks-to-ai/",
+      "originalUrl": "https://www.forbes.com/sites/johanmoreno/2023/03/23/canva-can-now-generate-custom-templates-thanks-to-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/641bf062a1a89bcbfdca4c2c/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johanmoreno/2023/03/23/canva-can-now-generate-custom-templates-thanks-to-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/03/23/canva-can-now-generate-custom-templates-thanks-to-ai/amp/",
+      "publishedDateTime": "2023-03-22T23:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-23-canva-launches-magic-ai-tools-for-its-design-softwares-125-million-users.md",
       "title": "Canva Launches ‘Magic’ AI Tools For Its Design Software’s 125 Million Users",
       "excerpt": "Canva CEO Melanie Perkins says of the AI product rush: “We’ll do what we’ve always done, which is focus on our own race.” The ten-year-old Australian startup led by Melanie Perkins said annualized revenue had reached $1.6 billion and also unveiled ...",
@@ -1364,40 +1416,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-09-could-a-chatbot-write-this-article.md",
-      "title": "Could a chatbot write this article?",
-      "excerpt": "This makes it a powerful tool for various applications such as conversational AI, language translation, text summarisation, and more. Its advanced AI capabilities also make it a valuable research ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theaustralian.com.au/business/technology/could-a-chatbot-write-this-article/news-story/3be6cfdc46cb0fc9ee1cef8ecba8caa6",
-      "originalUrl": "https://www.theaustralian.com.au/business/technology/could-a-chatbot-write-this-article/news-story/3be6cfdc46cb0fc9ee1cef8ecba8caa6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theaustralian.com.au/business/technology/could-a-chatbot-write-this-article/news-story/3be6cfdc46cb0fc9ee1cef8ecba8caa6?amp",
-      "cdnAmpWebUrl": "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/business/technology/could-a-chatbot-write-this-article/news-story/3be6cfdc46cb0fc9ee1cef8ecba8caa6?amp",
-      "publishedDateTime": "2023-03-08T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Australian",
-        "domain": "theaustralian.com.au",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -18,21 +18,118 @@ topics:
   - AI
 
 related:
-  - title: "Open-source Ray 2.4 upgrade speeds up generative AI model deployment"
-    excerpt: "Ray, an ML technology for deploying and scaling AI workloads, released Ray 2.4 today, which specifically accelerates generative AI workloads."
-    publishedDateTime: 2023-04-27T14:02:00Z
-    webUrl: "https://venturebeat.com/ai/open-source-ray-2-4-upgrade-speeds-up-generative-ai-model-deployment/"
-    ampWebUrl: "https://venturebeat.com/ai/open-source-ray-2-4-upgrade-speeds-up-generative-ai-model-deployment/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/open-source-ray-2-4-upgrade-speeds-up-generative-ai-model-deployment/amp/"
+  - title: "The 5 biggest risks of generative AI, according to an expert"
+    excerpt: "According to Gartner analyst Avivah Litan, some of the biggest risks of generative AI concern trust and security and include hallucinations, deepfakes, data privacy, copyright issues, and cybersecurity problems."
+    publishedDateTime: 2023-04-25T09:54:00Z
+    webUrl: "https://www.zdnet.com/article/the-5-biggest-risks-of-generative-ai-according-to-an-expert/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-5-biggest-risks-of-generative-ai-according-to-an-expert/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-5-biggest-risks-of-generative-ai-according-to-an-expert/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
+      name: ZDNet
+      domain: zdnet.com
     quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/04/VB_Ray24_logo_1200x800_042723.jpg?w=1200&strip=all"
+      - url: "https://www.zdnet.com/a/img/resize/0cc190b128c483df4d94a80b464a741210a694f4/2023/04/24/ba357ab7-5959-44f7-a452-d12811dba59b/gettyimages-1404749040-170667a.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
-        height: 801
+        height: 675
+        isCached: true
+  - title: "TikTok is testing an in-app tool that creates generative AI avatars"
+    excerpt: "TikTok is experimenting with a new tool that allows users to create generative AI avatars, the company confirmed to TechCrunch"
+    publishedDateTime: 2023-04-26T16:07:00Z
+    webUrl: "https://techcrunch.com/2023/04/26/tiktok-is-testing-an-in-app-tool-that-creates-generative-ai-avatars/"
+    ampWebUrl: "https://techcrunch.com/2023/04/26/tiktok-is-testing-an-in-app-tool-that-creates-generative-ai-avatars/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/04/26/tiktok-is-testing-an-in-app-tool-that-creates-generative-ai-avatars/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1248373545.jpg?resize=1200,788"
+        width: 1200
+        height: 788
+        isCached: true
+  - title: "These are the 9 best books to get up to speed on the hot new world of generative AI, according to experts"
+    excerpt: "The AI Revolution in Medicine: GPT-4 and Beyond Author: Peter Lee, Carey Goldberg, and Isaac Kohane. Lee, Corporate VP for Research and Incubations at Microsoft; Goldberg, medical and science ..."
+    publishedDateTime: 2023-04-24T00:00:00Z
+    webUrl: "https://www.businessinsider.com/list-generative-ai-artificial-intelligence-best-books-for-learning-experts-2023-3"
+    ampWebUrl: "https://www.businessinsider.com/list-generative-ai-artificial-intelligence-best-books-for-learning-experts-2023-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/list-generative-ai-artificial-intelligence-best-books-for-learning-experts-2023-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 72
+    images:
+      - url: "https://i.insider.com/6442e90e3d49030019df18aa?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Gen AI For Generating Value: Experiential Learning"
+    excerpt: "The short- to medium-term outlook for generative AI will continue to see various firms using the public (generic) language models at their disposal."
+    publishedDateTime: 2023-04-27T13:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/27/gen-ai-for-generating-value-experiential-learning/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Generative AI Is Only as Good as the Prompt You Give It"
+    excerpt: "It is ironic that much of the early conversation about ChatGPT had to do with the demise of writing skills when, in fact, the very success of generative-AI searches is determined by the quality of precisely written prompts."
+    publishedDateTime: 2023-04-26T05:42:00Z
+    webUrl: "https://www.insidehighered.com/opinion/blogs/online-trending-now/2023/04/26/generative-ai-only-good-prompt-you-give-it"
+    type: article
+    provider:
+      name: Inside Higher Ed
+      domain: insidehighered.com
+    quality: 39
+    images:
+      - url: "https://www.insidehighered.com/sites/default/files/2023-04/ihe-logo-web.png"
+        width: 600
+        height: 324
+        isCached: true
+  - title: "The risks and rewards of AI-powered translation"
+    excerpt: "Advances in AI deep learning for machine translation are an opportunity for organisations to remove language barriers to global trade"
+    publishedDateTime: 2023-04-27T15:30:00Z
+    webUrl: "https://www.business-reporter.co.uk/management/the-risks-and-rewards-of-ai-powered-translation"
+    type: article
+    provider:
+      name: business-reporter.co.uk
+      domain: business-reporter.co.uk
+    quality: 39
+    images:
+      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/028/AI_translation.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "44 of the most promising generative-artificial-intelligence startups of 2023, according to investors"
+    excerpt: "Estimated total funding for each startup is based on data from PitchBook unless otherwise specified. Adept What it does: Adept is a machine-learning research-and-product lab aiming to build AI ..."
+    publishedDateTime: 2023-04-24T00:00:00Z
+    webUrl: "https://www.businessinsider.com/most-promising-generative-artificial-intelligence-startups-according-vcs-venture-capital-2023-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 37
+    images:
+      - url: "https://i.insider.com/641b26b3e49c3900187d78fa?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Generative AI blitz hits cyber industry's biggest conference"
+    excerpt: "Generative AI has the potential to enable security products to better detect advanced phishing attacks, proactively scan networks for suspicious activity, and automatically \"fight back\" against ongoing attacks, Avivah Litan, distinguished vice president analyst at Gartner, told Axios."
+    publishedDateTime: 2023-04-25T16:40:00Z
+    webUrl: "https://www.axios.com/2023/04/25/generative-ai-cyber-industry-rsa-conference"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 37
+    images:
+      - url: "https://images.axios.com/XjCML_d0Xez8eBBySaNj09hw_vA=/0x0:1920x1080/1366x768/2023/04/25/1682437170486.jpg"
+        width: 1366
+        height: 768
         isCached: true
 
 secured: "ROaW0qFv2D+VMPpoJmlKpTJjd9CXafVM7cy8dELVxJ4kvb8mi1+fdehBXKV1Ka0cDnq1FI3bigOxwNbNNdARfmnPQaA4dv/YfDERTNKoZEPlMjx/4lKH+U19O9cyVBfdHR13KLuz73kuU2UZn97RC8vZYrpGZgvgXff0XPRqEOYT92yNWiSt+/c1XK3MP4WEECnPdD53g59HjX86/LEDpQKfQkoQjy7UwTVhiKgzpf0bFHCbW+GZTVSQe7vcb8PqbzOYQX677iN9NO38r613INoKDA9qj0KhZDjGp6BGgBUmCfIhW8D4X50WlPHNlg4CbvGIltIqa37otf+KYnu6+zhYQMTZTeiXnstqkPjFiP34wOmyl1ua2tZMi+dcc1h8ZgfWWHa2FCt2LJw/5lzoSu/c6xy+xgHzueWF5X9LkK48peXxtjyCOil6u+mCWzfnroIwhDx3xaqatBKB7hz804nXiVIwm3ThL3PHJNB0OkwffVPP2i0LKGqoK4hIVyIlDARsw64nDZ8EXW+IqIwspg==;JtZ0f8J+NB3VaPDYUHVAYw=="

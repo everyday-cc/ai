@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-04-chatgpt-ai-virtual-financial.amp
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-04-chatgpt-ai-virtual-financial.amp"
 type: article
 quality: 61
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
         width: 620
         height: 349
         isCached: true
+  - title: "Beyond ChatGPT: Miami company raises millions to bring AI tools to workplaces"
+    excerpt: "\"Most people are still struggling to figure out how to use AI to help solve their hardest problems at work,” says the startup's CEO."
+    publishedDateTime: 2023-04-27T16:05:00Z
+    webUrl: "https://www.bizjournals.com/southflorida/news/2023/04/27/airops-funding-artificial-intelligence-workplaces.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 14
 
 secured: "qGuBvTPrlTuaGEem7FCkxwRtulotaDHAZwDDk+lDcO/bK9RW/OtihvD6DMAOSHEGnUEXBUNdeKh46r7911yrEql+rBVbxQsUG58N/7of705tHSLwTEB+2nxCjwbJ68T+pI/qNcpuxxYuZGWI5NzWwQrx5zjO/G9VlUnaQUBcqszewczIPZH7rYy/lvYXB76DzAyHywgum8XVugH8ol6vD7W7nnQLqbSbjo4TwAL4t0UVfp9tJsuARVHZKF3zj/S3f/u+vGgjzgC6sVe93S42W8R93tJYyfRoSlIC5bHs1tbDKafpvxW5B0YxKH9cKKgBO7vKmitJyB8HUxfQbu5adgKFvp6jAy7Nz91G1j+d21taO7QPOfElxtx3k95kc4VH/ZtsXaLYs0k+Fe2vbHNIXDcVT4L6lTT2BfuDzN3b/laJOoFNLUP1/jC/srciZ6AeXoFq/8JNYfVp0bJoHu7Zbn0Q3GwH+cwNKGQKMdrB2e3LiwRYrJE9/Bc2vhfuY07jXaGr6Ikf0xQp7LC+9L8dEQ==;Gdke6HeECqISk+z0RfbCsA=="
 ---

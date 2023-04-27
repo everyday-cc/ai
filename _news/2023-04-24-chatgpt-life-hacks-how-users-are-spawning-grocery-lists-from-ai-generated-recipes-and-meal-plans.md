@@ -110,20 +110,6 @@ related:
         width: 1024
         height: 613
         isCached: true
-  - title: "ChatGPT: How generative AI could change hiring as we know it"
-    excerpt: "Candidates are already using tools such as ChatGPT to write cover letters and CVs. But it’s just a small piece of how AI is transforming hiring processes."
-    publishedDateTime: 2023-04-23T19:38:00Z
-    webUrl: "https://www.bbc.com/worklife/article/20230419-chatgpt-how-generative-ai-could-change-hiring-as-we-know-it"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 67
-    images:
-      - url: "https://ychef.files.bbci.co.uk/live/624x351/p0fhn46s.jpg"
-        width: 624
-        height: 351
-        isCached: true
   - title: "Google creates DeepMind division to combat threat from ChatGPT and Bing AI"
     excerpt: "The rate of AI development is seemingly speeding up each day, and Google is one of the biggest players in the game. The teams have an impressive history of achievements in AI coll"
     publishedDateTime: 2023-04-24T13:37:00Z

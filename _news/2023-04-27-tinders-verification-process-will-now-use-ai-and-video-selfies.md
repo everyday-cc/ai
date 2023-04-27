@@ -72,15 +72,6 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 34
-  - title: "Researchers Leverage Generative AI to Improve Cancer Treatment Targets"
-    excerpt: "Researchers from the University of Texas are studying the use of generative AI for adaptive radiotherapy to better personalize cancer treatments."
-    publishedDateTime: 2023-04-24T13:29:00Z
-    webUrl: "https://healthitanalytics.com/news/researchers-leverage-generative-ai-to-improve-cancer-treatment-targets"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 19
 
 secured: "PKLOg1W1/g989zpgqx8trQF7AZMXdKm4yKF7X/RGTDSidQcY5Y/SKUjiKPYz2g4Jndyk6PVslyNtyhoqoTKoXbyiRXdkjCf/pZ8tAmNNrcUC6ootb6JKiE5DxXokQKVsXSK16h7TRUcQBnXQR5T9uLU+t8n1PHk/g9dqT7ziyozeSEL5WRKmGOQfjytcR0AE2vf5BOpwPPVVOIxhY21QJY4N8eJMunWcJusQQB6SJL+AKEMjXAanGTlRNA4NOjLHLhsEyY90kpx2OoEjHtFffWPpJ5yUehIys1xIvZX3nQ8ZClVLAPks7G2260oDyTLlurXsmvTSZriVf34l18mF7pk6uo1LNHkgzV8PxplBJPzRXn+VI9U47cpr6juEHowHlxTBUI7vi2CRzYEUTANvXsjJ7DZ6cUqWpIjrbFe7Oavq58Y/OMMutmSOUQ4+FH3SBUQd8Dk19pLIO6e5u2bCPjpAClyS1lZXVpb1Wx4ujLJ6TqjSsgZWvJu23dZG7sWkmDmh4nei1esJIWxnYaoaVw==;LR/9reIQPJXgDlPSm1lc1g=="
 ---

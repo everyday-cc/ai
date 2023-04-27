@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tenable report shows how generative AI is changing security research"
+    excerpt: "A Tenable report reveals four ways researchers can use generative AI to enhance vulnerability analysis and debugging."
+    publishedDateTime: 2023-04-27T17:10:00Z
+    webUrl: "https://venturebeat.com/security/tenable-report-shows-how-generative-ai-is-changing-security-research/"
+    ampWebUrl: "https://venturebeat.com/security/tenable-report-shows-how-generative-ai-is-changing-security-research/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/tenable-report-shows-how-generative-ai-is-changing-security-research/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 106
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1076658494.jpg?w=1200&strip=all"
+        width: 1200
+        height: 603
+        isCached: true
   - title: "How Generative AI Can Be Used In Electronics Manufacturing"
     excerpt: "By tapping into the creative potential of generative AI, we can help assuage our national security and infrastructure concerns while paving the way for innovative solutions across a range of industries."
     publishedDateTime: 2023-04-26T10:00:00Z
@@ -56,38 +72,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "The 5 biggest risks of generative AI, according to an expert"
-    excerpt: "According to Gartner analyst Avivah Litan, some of the biggest risks of generative AI concern trust and security and include hallucinations, deepfakes, data privacy, copyright issues, and cybersecurity problems."
-    publishedDateTime: 2023-04-25T09:54:00Z
-    webUrl: "https://www.zdnet.com/article/the-5-biggest-risks-of-generative-ai-according-to-an-expert/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-5-biggest-risks-of-generative-ai-according-to-an-expert/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-5-biggest-risks-of-generative-ai-according-to-an-expert/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/0cc190b128c483df4d94a80b464a741210a694f4/2023/04/24/ba357ab7-5959-44f7-a452-d12811dba59b/gettyimages-1404749040-170667a.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Here Is How AI Is Being Used In Fetal Ultrasounds"
-    excerpt: "This artificial Intelligence software from Sonio, a French tech company is being used to assist in the diagnosis of fetal anomalies and associated syndromes."
-    publishedDateTime: 2023-04-26T17:30:00Z
-    webUrl: "https://www.forbes.com/sites/jenniferhicks/2023/04/26/here-is-how-ai-is-being-used-in-fetal-ultrasounds/"
-    ampWebUrl: "https://www.forbes.com/sites/jenniferhicks/2023/04/26/here-is-how-ai-is-being-used-in-fetal-ultrasounds/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2023/04/26/here-is-how-ai-is-being-used-in-fetal-ultrasounds/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64495d4d01bc3672eff33129/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 848
-        isCached: true
   - title: "How reinforcement learning with human feedback is unlocking the power of generative AI"
     excerpt: "How reinforcement learning with human feedback helps ensure that businesses are building ethical generative AI models."
     publishedDateTime: 2023-04-23T16:20:00Z
@@ -104,86 +88,77 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Industrial AI: How Is Artificial Intelligence Transforming the Manufacturing Industry?"
-    excerpt: "AI is being used worldwide to improve production times and boost safety in manufacturing plants in what is referred to as the “Industry 4.0” era. In this piece, we will discuss why the need for industrial AI is accelerating and highlight some of the companies that are leading the change."
-    publishedDateTime: 2023-04-26T15:38:00Z
-    webUrl: "https://www.nasdaq.com/articles/industrial-ai-how-is-artificial-intelligence-transforming-the-manufacturing-industry"
-    ampWebUrl: "https://www.nasdaq.com/articles/industrial-ai-how-is-artificial-intelligence-transforming-the-manufacturing-industry?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/industrial-ai-how-is-artificial-intelligence-transforming-the-manufacturing-industry?amp"
+  - title: "ChatGPT: How generative AI could change hiring as we know it"
+    excerpt: "Candidates are already using tools such as ChatGPT to write cover letters and CVs. But it’s just a small piece of how AI is transforming hiring processes."
+    publishedDateTime: 2023-04-23T19:38:00Z
+    webUrl: "https://www.bbc.com/worklife/article/20230419-chatgpt-how-generative-ai-could-change-hiring-as-we-know-it"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 76
-  - title: "Why the struggle for ethics in generative AI is more complex than we imagine"
-    excerpt: "Some generative AI companies have been criticized for scraping the Web for training data, including copyrighted material, without the consent of creators and rights owners. In this way, the work of any number of creative,"
-    publishedDateTime: 2023-04-24T09:23:00Z
-    webUrl: "https://diginomica.com/why-struggle-ethics-generative-ai-more-complex-we-imagine"
-    ampWebUrl: "https://diginomica.com/why-struggle-ethics-generative-ai-more-complex-we-imagine?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/why-struggle-ethics-generative-ai-more-complex-we-imagine?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 71
+      name: BBC
+      domain: bbc.com
+    quality: 67
     images:
-      - url: "https://diginomica.com/sites/default/files/images/2023-03/ethics-gb40633784_640.jpg"
-        width: 640
-        height: 453
+      - url: "https://ychef.files.bbci.co.uk/live/624x351/p0fhn46s.jpg"
+        width: 624
+        height: 351
         isCached: true
-  - title: "Manufacturers hope for AI boost in factories"
-    excerpt: "Manufacturers are hoping for the artificial intelligence revolution to reach their factories, envisaging robots being used to repair complex machinery."
-    publishedDateTime: 2023-04-23T18:01:00Z
-    webUrl: "https://techxplore.com/news/2023-04-ai-boost-factories.html"
-    ampWebUrl: "https://techxplore.com/news/2023-04-ai-boost-factories.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-04-ai-boost-factories.amp"
+  - title: "The future of generative AI is niche, not generalized"
+    excerpt: "ChatGPT has sparked speculation about artificial general intelligence. But the next real phase of AI will be in specific domains and contexts."
+    publishedDateTime: 2023-04-27T15:32:00Z
+    webUrl: "https://www.technologyreview.com/2023/04/27/1072102/the-future-of-generative-ai-is-niche-not-generalized/"
+    ampWebUrl: "https://www.technologyreview.com/2023/04/27/1072102/the-future-of-generative-ai-is-niche-not-generalized/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/04/27/1072102/the-future-of-generative-ai-is-niche-not-generalized/amp/"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 59
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/manufacturers-see-pote.jpg"
-        width: 1024
-        height: 680
-        isCached: true
-  - title: "Siemens and Microsoft drive industrial productivity with generative artificial intelligence"
-    excerpt: "Siemens' new Teamcenter app for Microsoft Teams to use AI, boosting productivity and innovation throughout a product lifecycleAzure OpenAI Service powered assistant can augment the creation, optimization and debugging of code in software for factory automationIndustrial AI to enable visual quality inspection on the shop floorSiemens and Microsoft are harnessing the collaborative power of (AI) to help industrial companies drive innovation and efficiency across the design,"
-    publishedDateTime: 2023-04-24T09:42:00Z
-    webUrl: "https://www.newswit.com/en/M5T3"
-    type: article
-    provider:
-      name: academy
-      domain: newswit.com
-    quality: 44
-    images:
-      - url: "https://www.newswit.com/img/f/20230424/c1ff69547c5cca490d95efe7466311a0-0.jpg"
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/04/TW_generativeAI_1200.jpg"
         width: 1200
-        height: 673
+        height: 600
         isCached: true
-  - title: "Manufacturers hope for artificial intelligence boost in factories"
-    excerpt: "Manufacturing firms are keen on using AI to automate the repair of complex machinery, thereby increasing efficacy and solving technical issues. This development was showcased in Germany's industrial Home Fair,"
-    publishedDateTime: 2023-04-24T02:22:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/manufacturers-hope-for-artificial-intelligence-boost-in-factories/99718084"
+  - title: "Growth of generative AI is leading to change moment for DevOps"
+    excerpt: "The role of data in DevOps is changing, facilitated by the introduction of powerful new generative artificial intelligence engines such as ChatGPT. The success of DevOps in modern, cloud-native environments has given rise to platform engineering,"
+    publishedDateTime: 2023-04-25T15:59:00Z
+    webUrl: "https://siliconangle.com/2023/04/25/growth-generative-ai-leading-change-moment-devops-kubecon/"
     type: article
     provider:
-      name: cio.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 39
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-99718084,imgsize-152838,width-1200,height=765,overlay-etcio/next-gen-technologies/manufacturers-hope-for-artificial-intelligence-boost-in-factories.jpg"
-        width: 1200
-        height: 765
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/04/Mohan-et-al.jpg"
+        width: 986
+        height: 657
         isCached: true
-  - title: "How Artificial Intelligence Can Aid Democracy"
-    excerpt: "BKC Affiliates Nathan Sanders and Bruce Schneier write about AI's potential to advance the public good by helping democracy."
-    publishedDateTime: 2023-04-27T12:32:00Z
-    webUrl: "https://cyber.harvard.edu/story/2023-04/how-artificial-intelligence-can-aid-democracy"
+  - title: "HackerRank Research Finds Generative AI Changing How Developers Code--and How Companies Hire Developers"
+    excerpt: "Gap Identified Between the AI Skills Needed and the Skills TestedMOUNTAIN VIEW, Calif., April 24, 2023 /PRNewswire/ -- HackerRank, the developer"
+    publishedDateTime: 2023-04-24T14:40:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/hackerrank-research-finds-generative-ai-changing-how-developers-code-and-how-companies-hire-developers-1032254541"
     type: article
     provider:
-      name: Harvard Medical School
-      domain: harvard.edu
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 35
+  - title: "How enterprises can navigate ethics and responsibility of generative AI"
+    excerpt: "As enterprises adopt generative AI, they must simultaneously mitigate inherent risks in areas such as ethics, bias, transparency, privacy and regulatory requirements. Here’s how."
+    publishedDateTime: 2023-04-27T11:56:00Z
+    webUrl: "https://www.cio.com/article/474973/how-enterprises-can-navigate-ethics-and-responsibility-of-generative-ai.html"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
     quality: 34
+  - title: "Researchers Leverage Generative AI to Improve Cancer Treatment Targets"
+    excerpt: "Researchers from the University of Texas are studying the use of generative AI for adaptive radiotherapy to better personalize cancer treatments."
+    publishedDateTime: 2023-04-24T13:29:00Z
+    webUrl: "https://healthitanalytics.com/news/researchers-leverage-generative-ai-to-improve-cancer-treatment-targets"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 19
 
 secured: "Vm9geRj+a3bzFCdQg1QHK/MEg6iPhWG4hz4wBL/2QaKO+KEbY4Vv5oCnZG8WirQKckqwlP/8XgRKjW78NPxLZ0oOTkRShp6vo/8eWOh74uX9kWMTjA8cir6mqSRuFj5rBHRurTxwX+5xwQoRgKvOnEBU4iaFBYcRH5WsfH3zkZA99ZycRcPYlOe6I61ApCp2d/7kCuDdU58VGGhO6n+QobsHk+NqgtADBmlSdsNfWIYOjaHgIZpA+jNKIjeHrUC4qazQH6BhjKK3EWRC6PGnuEn1QBnIum9Ta5LGh2i+o71QNTsKKsBiHEkIK9GuejeqD2EDom+0i93SNyUtH3F8tjcBGdDvVF77cCrS/x49PWY=;uo38ls+zwHkxqumIFydTYQ=="
 ---

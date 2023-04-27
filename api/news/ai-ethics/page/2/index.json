@@ -2,6 +2,102 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-03-28-what-do-ai-art-generators-think-a-ceo-looks-like-most-of-the-time-a-white-guy.md",
+      "title": "What do AI art generators think a CEO looks like? Most of the time a white guy",
+      "excerpt": "A team of researchers from AI firm Hugging Face — one of whom is a former AI ethics researcher at Google — and a professor from Germany's Leipzig University published a study to identify how ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ai-art-generators-dalle-stable-diffusion-racial-gender-bias-ceo-2023-3",
+      "originalUrl": "https://www.businessinsider.com/ai-art-generators-dalle-stable-diffusion-racial-gender-bias-ceo-2023-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6421d4d0b50c290018641ec3?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/ai-art-generators-dalle-stable-diffusion-racial-gender-bias-ceo-2023-3?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-art-generators-dalle-stable-diffusion-racial-gender-bias-ceo-2023-3?amp",
+      "publishedDateTime": "2023-03-28T03:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-28-public-health-ai-and-ethics.md",
+      "title": "Public health, AI and ethics",
+      "excerpt": "First, we must note that medical ethics in the country are far from where they ought ... In this environment, a potent new tool needs to be handled with great care. Increased reliance on AI for diagnosis may sound cool to many, but the system is far ...",
+      "sourceUrl": null,
+      "webUrl": "https://tribune.com.pk/story/2408472/public-health-ai-and-ethics",
+      "originalUrl": "https://tribune.com.pk/story/2408472/public-health-ai-and-ethics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.tribune.com.pk/media/images/1078711-MuhammadHamidZamanNew-1459790290/1078711-MuhammadHamidZamanNew-1459790290.JPG",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tribune.com.pk/story/2408472/public-health-ai-and-ethics?amp=1",
+      "cdnAmpWebUrl": "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2408472/public-health-ai-and-ethics?amp=1",
+      "publishedDateTime": "2023-03-27T20:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Express Tribune",
+        "domain": "tribune.com.pk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-28-openais-ambitious-master-plan-to-conquer-rivals-like-google-in-the-ai-race-hinges-on-pure-speed.md",
       "title": "OpenAI's ambitious master plan to conquer rivals like Google in the AI race hinges on pure speed",
       "excerpt": "The chatbot kickstarted an avalanche of discussion around the future of work, AI ethics, and changing the dynamic of the tech workforce. This wasn't always the case. OpenAI was founded in 2015 by current CEO Sam Altman, Elon Musk, and others. Musk left the ...",
@@ -1346,101 +1442,6 @@
         "AI Ethics",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-10-gymnast-dunnes-ai-spot-raises-questions-about-nil-ethics.md",
-      "title": "Gymnast Dunne's AI spot raises questions about NIL ethics",
-      "excerpt": "LSU gymnast Olivia Dunne's endorsement of an artificial intelligence essay-writing product is raising questions about whether college athletic programs should provide clearer ethical guidelines for athletes earning money from name,",
-      "sourceUrl": null,
-      "webUrl": "https://www.chron.com/sports/article/gymnast-dunne-s-ai-spot-raises-questions-about-17830432.php",
-      "originalUrl": "https://www.chron.com/sports/article/gymnast-dunne-s-ai-spot-raises-questions-about-17830432.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/31/66/05/23552365/3/rawImage.jpg",
-          "width": 2048,
-          "height": 1462,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-09T19:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "chron.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-10-data-and-ai-ethics-market-environment-development-trend-in-2023.md",
-      "title": "Data and AI Ethics Market Environment Development Trend In 2023",
-      "excerpt": "Data and AI Ethics Market 2023 with 110 Pages Report and enhance with extents shares into sub-counties are covered in",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-environment-development-trend-in-2023-2023-03-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-environment-development-trend-in-2023-2023-03-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-09T18:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

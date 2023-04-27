@@ -2,6 +2,411 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2023-03-24-artificial-intelligence-can-predict-genetics-of-cancerous-brain-tumors-study.md",
+      "title": "Artificial Intelligence can predict genetics of cancerous brain tumors: Study",
+      "excerpt": "Researchers have developed an AI-based diagnostic screening system called DeepGlioma that uses rapid imaging to analyze tumor specimens taken during an operation and detect genetic mutations more rapidly.",
+      "sourceUrl": null,
+      "webUrl": "https://theprint.in/science/artificial-intelligence-can-predict-genetics-of-cancerous-brain-tumors-study/1468042/",
+      "originalUrl": "https://theprint.in/science/artificial-intelligence-can-predict-genetics-of-cancerous-brain-tumors-study/1468042/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.theprint.in/wp-content/uploads/2023/03/ANI-20230323182750.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theprint.in/science/artificial-intelligence-can-predict-genetics-of-cancerous-brain-tumors-study/1468042/?amp",
+      "cdnAmpWebUrl": "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/science/artificial-intelligence-can-predict-genetics-of-cancerous-brain-tumors-study/1468042/?amp",
+      "publishedDateTime": "2023-03-23T11:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ThePrint",
+        "domain": "theprint.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-24-donald-trump-shares-fake-ai-created-image-of-himself-on-truth-social.md",
+      "title": "Donald Trump Shares Fake AI-Created Image Of Himself On Truth Social",
+      "excerpt": "Donald Trump shared an image of himself on Thursday morning over at Truth Social. And it’s almost certainly fake.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/mattnovak/2023/03/23/donald-trump-shares-fake-ai-created-image-of-himself-on-truth-social/",
+      "originalUrl": "https://www.forbes.com/sites/mattnovak/2023/03/23/donald-trump-shares-fake-ai-created-image-of-himself-on-truth-social/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/641c91172d00a7f17e8a9f01/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/mattnovak/2023/03/23/donald-trump-shares-fake-ai-created-image-of-himself-on-truth-social/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattnovak/2023/03/23/donald-trump-shares-fake-ai-created-image-of-himself-on-truth-social/amp/",
+      "publishedDateTime": "2023-03-23T11:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-23-for-smarter-robots-just-add-humans.md",
+      "title": "For Smarter Robots, Just Add Humans",
+      "excerpt": "OpenAI’s COO and manager of the OpenAI Startup Fund says. For humans to help robots with teleoperation, AI might also need to be developed to ease the collaboration between person and machine. Chelsea Finn, an assistant professor at UC Berkeley ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/fast-forward-for-smarter-robots-just-add-humans/",
+      "originalUrl": "https://www.wired.com/story/fast-forward-for-smarter-robots-just-add-humans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/641b9a323491f4dd17124cb5/master/pass/Sanctuary-AI-Robot-Still-Fast-Foward-Business.jpg",
+          "width": 2143,
+          "height": 1210,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/fast-forward-for-smarter-robots-just-add-humans/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/fast-forward-for-smarter-robots-just-add-humans/amp",
+      "publishedDateTime": "2023-03-23T09:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-23-google-opens-early-access-to-bard-ai-prompts-small-bump-in-stock-price.md",
+      "title": "Google Opens Early Access To Bard AI, Prompts Small Bump In Stock Price",
+      "excerpt": "Adobe broke the news this week at its Adobe Summit that its new generative AI image suite, Adobe Firefly, will be coming to its apps like Photoshop and Illustrator soon - and the waitlist to try it out is already open. Adobe is partnering with chip ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2023/03/23/google-opens-early-access-to-bard-ai-prompts-small-bump-in-stock-price/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2023/03/23/google-opens-early-access-to-bard-ai-prompts-small-bump-in-stock-price/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/641c7d0dd57fc229c2eb4782/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/03/23/google-opens-early-access-to-bard-ai-prompts-small-bump-in-stock-price/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/03/23/google-opens-early-access-to-bard-ai-prompts-small-bump-in-stock-price/amp/",
+      "publishedDateTime": "2023-03-23T09:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-23-join-3000-students-learning-to-code-with-python-in-this-19-bootcamp.md",
+      "title": "Join 3,000 students learning to code with Python in this $19 bootcamp",
+      "excerpt": "Go from beginner to intermediate with 130 hours of training in the most popular coding language. Get your Python bundle today.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/complete-python-certification-bundle/",
+      "originalUrl": "https://www.techrepublic.com/article/complete-python-certification-bundle/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2023/03/tra232323-python-coding-bundle.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/article/complete-python-certification-bundle/amp/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/complete-python-certification-bundle/amp/",
+      "publishedDateTime": "2023-03-23T09:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-23-aqara-smart-video-doorbell-g4-with-on-device-ai-facial-recognition-launched.md",
+      "title": "Aqara Smart Video Doorbell G4 with on-device AI facial recognition Launched",
+      "excerpt": "Smart home accessory maker and Xiaomi ecological chain company Aqara has launched its first video doorbell, the Aqara Smart Video Doorbell G4, which is compatible with HomeKit Secure Video and features facial recognition. The device has a 1080p camera and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2023/03/23/aqara-smart-video-doorbell-g4-on-device-ai-facial-recognition-launched/",
+      "originalUrl": "https://www.gizmochina.com/2023/03/23/aqara-smart-video-doorbell-g4-on-device-ai-facial-recognition-launched/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2023/03/aqara-G4-launch.jpg",
+          "width": 1600,
+          "height": 890,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-23T09:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-23-as-openai-rival-character-ai-announces-1b-valuation-reports-of-industrial-capture-emerge.md",
+      "title": "As OpenAI rival Character AI announces $1B valuation, reports of “industrial capture” emerge",
+      "excerpt": "Join top executives in San Francisco on July 11-12, to hear how leaders are integrating and optimizing AI investments for success. Learn More The steady march of eye-popping investments into companies developing large language models (LLMs) continues.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/as-openai-rival-character-ai-announces-1b-valuation-reports-of-industrial-capture-emerge/",
+      "originalUrl": "https://venturebeat.com/ai/as-openai-rival-character-ai-announces-1b-valuation-reports-of-industrial-capture-emerge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/03/image-5-1.png?fit=800%2C411&strip=all",
+          "width": 800,
+          "height": 411,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/as-openai-rival-character-ai-announces-1b-valuation-reports-of-industrial-capture-emerge/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/as-openai-rival-character-ai-announces-1b-valuation-reports-of-industrial-capture-emerge/amp/",
+      "publishedDateTime": "2023-03-23T07:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-23-from-cavemen-to-cowboys-ai-reimagines-selfies-throughout-history.md",
+      "title": "From Cavemen to Cowboys: AI Reimagines Selfies Throughout History",
+      "excerpt": "An AI program has generated a series of lifelike time-period selfies featuring Vikings, samurai and other groups from history. Reddit user _M0us316_ shared the series of 18 photos in the r/midjourney group dedicated to content about the AI program of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/cavemen-cowboys-ai-reimagines-selfies-throughout-history-1789858",
+      "originalUrl": "https://www.newsweek.com/cavemen-cowboys-ai-reimagines-selfies-throughout-history-1789858",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/2213097/ai-generated-images-cavemen-cowboys.jpg",
+          "width": 2160,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/cavemen-cowboys-ai-reimagines-selfies-throughout-history-1789858?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/cavemen-cowboys-ai-reimagines-selfies-throughout-history-1789858?amp=1",
+      "publishedDateTime": "2023-03-23T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-23-stable-diffusion-vs-midjourney-which-is-the-best-ai-art-tool.md",
       "title": "Stable Diffusion vs. Midjourney — which is the best AI art tool?",
       "excerpt": "Stable Diffusion and Midjourney are two of the best AI art tools, but which is better? What is the best AI art tool?",
@@ -840,366 +1245,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-23-mozilla-launches-a-new-startup-focused-on-trustworthy-ai.md",
-      "title": "Mozilla launches a new startup focused on ‘trustworthy’ AI",
-      "excerpt": "Mozilla, the nonprofit behind software like Firefox, has launched a new startup, Mozilla.ai, focused on developing trustworthy AI systems.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/03/22/mozilla-launches-a-new-startup-focused-on-trustworthy-ai/",
-      "originalUrl": "https://techcrunch.com/2023/03/22/mozilla-launches-a-new-startup-focused-on-trustworthy-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-956152050.jpg?resize=1200,900",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/03/22/mozilla-launches-a-new-startup-focused-on-trustworthy-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/22/mozilla-launches-a-new-startup-focused-on-trustworthy-ai/amp/",
-      "publishedDateTime": "2023-03-22T17:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-23-aetina-partners-with-hailo-to-launch-multi-inference-ai-solutions-at-the-edge-during-isc-west-2023.md",
-      "title": "Aetina Partners with Hailo to Launch Multi-Inference AI Solutions at the Edge during ISC West 2023",
-      "excerpt": "Aetina and Hailo join forces to launch multi-inference AI solutions that involve object recognition AI models, Aetina's AI inference platform—AIP-SQ67, and AI-MXM-H84A MXM that is built with 4x Hailo-8™ AI accelerators.",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/03/23/9782811.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/03/23/9782811.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-23-spectrum-labs-ai-now-available-in-aws-marketplace.md",
-      "title": "Spectrum Labs AI now available in AWS Marketplace",
-      "excerpt": "Spectrum Labs, a leader in Behavioral AI whose tools scale content moderation of online platforms, today announced its enterprise product launch in AWS Marketplace, a digital catalog with thousands of software listings from independent software vendors (ISVs) that make it easy to find,",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/03/23/9782692.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/03/23/9782692.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-23-southeast-asian-credit-fintech-kredivo-scores-270m-series-d.md",
-      "title": "Southeast Asian credit fintech Kredivo scores $270M Series D",
-      "excerpt": "Kredivo’s direct and indirect competitors include Akulaku’s BNPL and Bank Neo Commerce (the fintech also recently raised significant funding from a large Japanese bank), Advance.ai’s Atome BNPL service and Kredit Pintar cash loans and Sea Group’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/03/22/kredivo-series-d/",
-      "originalUrl": "https://techcrunch.com/2023/03/22/kredivo-series-d/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1401979872.jpg?resize=1200,801",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/03/22/kredivo-series-d/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/22/kredivo-series-d/amp/",
-      "publishedDateTime": "2023-03-22T16:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-23-artificial-intelligence-is-rapidly-developing-but-how-does-it-work-experts-explain-part-1.md",
-      "title": "Artificial intelligence is rapidly developing, but how does it work? Experts explain. (Part 1)",
-      "excerpt": "For many of us, the term artificial intelligence conjures up images of science fiction movies. But what is it really? As AI technology becomes a bigger part of our world, Lester Holt sits down with Tristan Harris and Aza Raskin,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/video/artificial-intelligence-is-rapidly-developing-but-how-does-it-work-experts-explain-part-1-166337605617",
-      "originalUrl": "https://www.nbcnews.com/video/artificial-intelligence-is-rapidly-developing-but-how-does-it-work-experts-explain-part-1-166337605617",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_03/x_nn_films_lho_ai_230323_Video_Mixdown_1_frame_353-7v5di9.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo166337605617",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo166337605617",
-      "publishedDateTime": "2023-03-22T16:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-23-ai-race-to-recklessness-could-have-dire-consequences-tech-experts-warn-in-new-interview.md",
-      "title": "AI ‘race to recklessness’ could have dire consequences, tech experts warn in new interview",
-      "excerpt": "Artificial intelligence has developed rapidly in recent years, stoking concerns that the technology is being released too quickly and without enough testing. Lester Holt speaks with Tristan Harris and Aza Raskin,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/nightly-news/video/ai-race-to-recklessness-could-have-dire-consequences-tech-experts-warn-in-new-interview-166341189759",
-      "originalUrl": "https://www.nbcnews.com/nightly-news/video/ai-race-to-recklessness-could-have-dire-consequences-tech-experts-warn-in-new-interview-166341189759",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_03/1679526691700_nn_lho_ai_revolution_warnings_230322_1920x1080-0edt0f.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo166341189759",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo166341189759",
-      "publishedDateTime": "2023-03-22T16:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-23-nvidia-stock-hits-best-winning-streak-since-2007-as-ai-advantage-called-insurmountable.md",
-      "title": "Nvidia stock hits best winning streak since 2007 as AI advantage called ‘insurmountable’",
-      "excerpt": "On Tuesday, Nvidia founder and Chief Executive Jensen Huang announced a slew of products and services targeted at expanding AI development, including new chips and platforms specifically targeted at generative AI applications as well as AI video and image ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/nvidia-stock-hits-best-winning-streak-since-2007-as-ai-advantage-called-insurmountable-6b79a4e8",
-      "originalUrl": "https://www.marketwatch.com/story/nvidia-stock-hits-best-winning-streak-since-2007-as-ai-advantage-called-insurmountable-6b79a4e8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-609932/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/nvidia-stock-hits-best-winning-streak-since-2007-as-ai-advantage-called-insurmountable-6b79a4e8",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidia-stock-hits-best-winning-streak-since-2007-as-ai-advantage-called-insurmountable-6b79a4e8",
-      "publishedDateTime": "2023-03-22T16:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-23-socialcoach-taps-fintech-exec-andria-lightfoot-and-launches-ai-driven-social-media-marketing-solution.md",
-      "title": "SocialCoach Taps Fintech Exec Andria Lightfoot and Launches AI Driven Social Media Marketing Solution",
-      "excerpt": "The mortgage centric social media marketing software company today announced the launch of its new innovative product enhancement integrating Artificial Intelligence (AI) to help mortgage lenders and loan officers drive social selling and lead generation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/socialcoach-taps-fintech-exec-andria-lightfoot-and-launches-ai-driven-social-media-marketing-solution-2023-03-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/socialcoach-taps-fintech-exec-andria-lightfoot-and-launches-ai-driven-social-media-marketing-solution-2023-03-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.send2press.com/wire/images/23-0322-s2p-Andria-Lightfoot-800x600.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-22T15:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

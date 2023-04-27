@@ -1,26 +1,30 @@
 ---
 category: news
 title: "Timekettle AI Language Translator Device Redefines Intercultural Communication"
-excerpt: "Language communication has always been an indispensable link in the journey of cross-cultural communication. As a leading translation tech company, Timekettle has a mission to \"break down language ..."
-publishedDateTime: 2023-04-14T08:43:00Z
-originalUrl: "https://www.news-journal.com/timekettle-ai-language-translator-device-redefines-intercultural-communication/article_b3819467-20de-5b86-8876-223cc8bd1b7b.html"
-webUrl: "https://www.news-journal.com/timekettle-ai-language-translator-device-redefines-intercultural-communication/article_b3819467-20de-5b86-8876-223cc8bd1b7b.html"
+excerpt: "SHENZHEN, China, April 14, 2023 /PRNewswire/ -- The 67th Session of the Commission on the Status of Women (CSW67), was recently held at the United Nations headquarters in New York, USA. The global ..."
+publishedDateTime: 2023-04-14T08:48:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/timekettle-ai-language-translator-device-redefines-intercultural-communication-1032232113"
+webUrl: "https://markets.businessinsider.com/news/stocks/timekettle-ai-language-translator-device-redefines-intercultural-communication-1032232113"
 type: article
 
 provider:
-  name: Longview News-Journal
-  domain: news-journal.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/d/bd/dbdd0081-782c-5ff1-86fa-a8544ad1c59d/64390b906b893.image.jpg?crop=1268%2C666%2C0%2C24&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
+  - url: "https://mma.prnewswire.com/media/2054084/Timekettle_Fluentalk_T1_Provides_Real_Time_Translation_Services_Cross_cultural_Exchange_Event.jpg"
+    width: 400
+    height: 225
     isCached: true
 
-secured: "24wGOoHZ803CNs3Ul8Th5XI75TQrmSVj8jBPXWbUWY9XVX9It8r+0VzbERMjS42cJB9FC+/4zO+IEGcqO+FGEzlAcY4DGDF7gpdz4Nc7r+KDHID5ZRdUfpJW+/uTKzz4KCZjzjuYn0UKbEdDKm+ZzQi3ScNOQTn8skg7fJQb87wdGym9ILXWAfxcB7n+k+uvKixclzN/5RUWo4r4snRJv6ggNWgSRe/FctIq2lNbBaTvWn9E6maXOiWJRab6u4a8gTTwJN0inuc5pxMyUQ8EaWpSHG2EctDPPd5TlNvoV8P/PKyAg2eBy35rHHQEfM4DxiEbVoY71tO1BRRElUCKP/sk15qkyYKq7W8wUnESnUM=;VLLlvbjI03undgaF93CWPA=="
+secured: "N5p97QFz358NUYyD4zuUAvqNci/gHmf8iBcT18IDxti3Vfm546J3+U99VpIeiPwNOFN15nrPhI/trm+lwRWSqBQMx/Xr726R0eRnMNoiRR+r+p/+lH50Fps2pDAsgwtG+mqO+NWG/nXig4wdM9KuVOZl8cVCd/4pR6GqU5MAysGhrS2RGaPTVuNCdV72RDoEIkQARn+U2uuGJlQyKl4VdldBxcpc3AF4KLjVrXHMww3GYzbo49ZNr9lOXF65pKaifpu8Zka+LrcahBh7EOYv89Y2kR0dBcyV3+354DXtKJxwjIRSIvuwzaPRQjzMZ2JlbNQG0eVdYPSmchITP65uFS/ukFn2zSdHB7qaKCHqQ4c=;xqXJ/00V4htDeCJds90kQQ=="
 ---
 

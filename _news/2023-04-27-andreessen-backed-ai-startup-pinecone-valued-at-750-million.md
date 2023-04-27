@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "Pinecone Hits $750M Valuation As AI Heats Up Vector Database Market"
+    excerpt: "While generative AI is grabbing most of the fundraising headlines, the infrastructure underneath those applications also gets investors' attention."
+    publishedDateTime: 2023-04-27T17:14:00Z
+    webUrl: "https://news.crunchbase.com/ai-robotics/startup-venture-funding-database-pinecone/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 41
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/AI_Sector_Artificial_Intelligence.jpg"
+        width: 900
+        height: 506
+        isCached: true
   - title: "AI developer platform raises nearly $100M, ups valuation to more than $1 billion"
     excerpt: "A generative AI coding platform for developers has doubled its funding in a Series B extension that pushed the San Francisco startup's valuation past $1 billion. Replit announced on Tuesday that it raised $94."
     publishedDateTime: 2023-04-25T18:01:00Z

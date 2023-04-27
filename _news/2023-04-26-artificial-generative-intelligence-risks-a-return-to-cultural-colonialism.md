@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/games/artificial-generative-intelligence-ris
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/artificial-generative-intelligence-risks-a-return-to-cultural-colonialism/amp/"
 type: article
 quality: 73
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "44 of the most promising generative-artificial-intelligence startups of 2023, according to investors"
-    excerpt: "Estimated total funding for each startup is based on data from PitchBook unless otherwise specified. Adept What it does: Adept is a machine-learning research-and-product lab aiming to build AI ..."
-    publishedDateTime: 2023-04-24T00:00:00Z
-    webUrl: "https://www.businessinsider.com/most-promising-generative-artificial-intelligence-startups-according-vcs-venture-capital-2023-3"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 37
-    images:
-      - url: "https://i.insider.com/641b26b3e49c3900187d78fa?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "At The Dawn Of Artificial General Intelligence: Balancing Abundance With Existential Safeguards"
     excerpt: "The journey toward AGI will undoubtedly challenge us, but with collaboration, foresight and wisdom, humanity can harness its immense potential for the greater good."
     publishedDateTime: 2023-04-24T13:15:00Z

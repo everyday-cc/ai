@@ -44,6 +44,22 @@ related:
         width: 1014
         height: 676
         isCached: true
+  - title: "Why the struggle for ethics in generative AI is more complex than we imagine"
+    excerpt: "Some generative AI companies have been criticized for scraping the Web for training data, including copyrighted material, without the consent of creators and rights owners. In this way, the work of any number of creative,"
+    publishedDateTime: 2023-04-24T09:23:00Z
+    webUrl: "https://diginomica.com/why-struggle-ethics-generative-ai-more-complex-we-imagine"
+    ampWebUrl: "https://diginomica.com/why-struggle-ethics-generative-ai-more-complex-we-imagine?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/why-struggle-ethics-generative-ai-more-complex-we-imagine?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 71
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2023-03/ethics-gb40633784_640.jpg"
+        width: 640
+        height: 453
+        isCached: true
   - title: "How AI could change computing, culture and the course of history"
     excerpt: "For a sense of what may be on the way, consider three possible analogues, or precursors: the browser, the printing press and practice of psychoanalysis. One changed computers and the economy, one changed how people gained access and related to knowledge, and one changed how people understood themselves."
     publishedDateTime: 2023-04-26T03:03:00Z

@@ -2,6 +2,384 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2023-03-15-buy-brand-name-car-parts-online-at-amazons-oem-parts-store.md",
+      "title": "Buy brand-name car parts online at Amazon's OEM parts store",
+      "excerpt": "Pricing and availability are subject to change. Amazon is now connecting customers directly to automakers and local dealership parts departments. The Amazon OEM Automotive & Powersports Parts shop ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.autoblog.com/article/amazon-oem-parts-shop/",
+      "originalUrl": "https://www.autoblog.com/article/amazon-oem-parts-shop/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.yimg.com/os/creatr-uploaded-images/2022-09/c5082670-419d-11ed-bbfc-078f772461f7",
+          "width": 1062,
+          "height": 597,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.autoblog.com/amp/article/amazon-oem-parts-shop/",
+      "cdnAmpWebUrl": "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/article/amazon-oem-parts-shop/",
+      "publishedDateTime": "2023-03-14T12:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Autoblog",
+        "domain": "autoblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-15-gpt-4-unleashed-heres-what-it-will-mean-for-ai-chatbots.md",
+      "title": "GPT-4 unleashed: Here’s what it will mean for AI chatbots",
+      "excerpt": "The company also brought in 50 human experts to provide feedback in terms of AI safety. That, of course ... As PCWorld's senior editor, Mark focuses on Microsoft news and chip technology, among other beats. He has formerly written for PCMag, BYTE, Slashdot ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcworld.com/article/1658174/gpt-4-unleashed.html",
+      "originalUrl": "https://www.pcworld.com/article/1658174/gpt-4-unleashed.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcworld.com/wp-content/uploads/2023/03/GPT-4-visual-id-large.jpg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 913,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-14T12:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC World",
+        "domain": "pcworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-15-cloud-incident-response-nets-another-45m-with-mitigas-latest-funding.md",
+      "title": "Cloud incident response nets another $45M with Mitiga’s latest funding",
+      "excerpt": "Cloud incident response provider Mitiga announces it has raised $45 million in funding for a solution designed to mitigate cloud breaches.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/security/cloud-incident-response-nets-another-45m-with-mitigas-latest-funding/",
+      "originalUrl": "https://venturebeat.com/security/cloud-incident-response-nets-another-45m-with-mitigas-latest-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/03/Mitiga_team-photo.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/security/cloud-incident-response-nets-another-45m-with-mitigas-latest-funding/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/cloud-incident-response-nets-another-45m-with-mitigas-latest-funding/amp/",
+      "publishedDateTime": "2023-03-14T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-15-wave-of-the-future-what-you-can-expect-riding-on-carys-new-driverless-shuttle.md",
+      "title": "Wave of the future? What you can expect riding on Cary’s new driverless shuttle",
+      "excerpt": "I have always been a little weary of driverless cars. There is something unsettling about the idea of our cars driving for us that feels too much like a science-fiction horror movie to me.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/news/wave-future-expect-riding-cary-181423383.html",
+      "originalUrl": "https://www.aol.com/news/wave-future-expect-riding-cary-181423383.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.zenfs.com/en/aol_raleigh_news_and_observer_mcclatchy_356/74b33485cdf621a709b5ed52bf6db988",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-14T11:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-15-adept-latest-ai-startup-to-raise-big-nabs-350m.md",
+      "title": "Adept Latest AI Startup To Raise Big — Nabs $350M",
+      "excerpt": "Another week, another huge raise for a generative AI startup. This week it’s Adept AI, which raised $350 million in what the company called “part of our Series B.” It was reported the new money gives the San Francisco-based startup a post-money valuation of at least $1 billion.",
+      "sourceUrl": null,
+      "webUrl": "https://news.crunchbase.com/news/adept-ai-anthropic-chatgpt-openai/",
+      "originalUrl": "https://news.crunchbase.com/news/adept-ai-anthropic-chatgpt-openai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.crunchbase.com/wp-content/uploads/AI_robotics_Facing.jpg",
+          "width": 900,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-14T11:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "news.crunchbase",
+        "domain": "crunchbase.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-15-google-is-shoving-generative-ai-into-gmail-docs-sheets-meet-chat-and-slides.md",
+      "title": "Google is shoving generative AI into Gmail, Docs, Sheets, Meet, Chat and Slides",
+      "excerpt": "You'd better already be comfortable with using AI in your daily life because Google's about to put the tech front and center in all of its Workspace products..",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/google-is-shoving-generative-ai-into-gmail-docs-sheets-meet-chat-and-slides-161711903.html",
+      "originalUrl": "https://www.engadget.com/google-is-shoving-generative-ai-into-gmail-docs-sheets-meet-chat-and-slides-161711903.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/iCNq2RcP3wmjEoexBWNb_g--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/fd4a1800-c27f-11ed-b7ff-02db82aeb64a.cf.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/google-is-shoving-generative-ai-into-gmail-docs-sheets-meet-chat-and-slides-161711903.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-is-shoving-generative-ai-into-gmail-docs-sheets-meet-chat-and-slides-161711903.html",
+      "publishedDateTime": "2023-03-14T11:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!News",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-15-adobes-subtitling-ai-is-good-but-this-free-resolve-add-on-has-far-more-potential.md",
+      "title": "Adobe’s subtitling AI is good, but this free Resolve add-on has far more potential",
+      "excerpt": "I constantly see people overselling and overhyping AI, which is not only ... nuance and robustness of a real translation? Absolutely not, especially not for a language like Japanese, where context ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2023/3/14/23622147/storytoolkitai-subtitle-and-translation-automatic-transcription-resolve-premiere",
+      "originalUrl": "https://www.theverge.com/2023/3/14/23622147/storytoolkitai-subtitle-and-translation-automatic-transcription-resolve-premiere",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-14T11:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-15-swarm-engineering-announces-agrifood-virtual-advisor-ava-powered-by-openai-and-microsoft-azure.md",
+      "title": "SWARM Engineering Announces AgriFood Virtual Advisor (AVA), Powered by OpenAI and Microsoft Azure",
+      "excerpt": "SWARM Engineering is proud to announce AVA, the first AgriFood Virtual Advisor, an AI-powered digital assistant based on OpenAI, Microsoft Azure and SWARM technology, designed to help businesses in agri-food solve operational challenges and save millions of dollars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/swarm-engineering-announces-agrifood-virtual-advisor-ava-powered-by-openai-and-microsoft-azure-2023-03-14",
+      "originalUrl": "https://www.marketwatch.com/press-release/swarm-engineering-announces-agrifood-virtual-advisor-ava-powered-by-openai-and-microsoft-azure-2023-03-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-14T11:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-15-let-1000-flowers-bloom-ai-funding-frenzy-escalates.md",
       "title": "‘Let 1,000 Flowers Bloom’: A.I. Funding Frenzy Escalates",
       "excerpt": "When four leading artificial intelligence researchers left Google this year to create a start-up called Mobius AI, they weren’t sure what their product might be — just that it would involve A.I. technology that could generate its own photos and videos.",
@@ -794,386 +1172,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-14-how-ai-could-write-our-laws.md",
-      "title": "How AI could write our laws",
-      "excerpt": "Lobbying has long been part of the give-and-take among human policymakers and advocates working to balance their competing interests. The danger of microlegislation—a danger greatly exacerbated by AI—is that it can be used in a way that makes it difficult to figure out who the legislation truly benefits.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2023/03/14/1069717/how-ai-could-write-our-laws/",
-      "originalUrl": "https://www.technologyreview.com/2023/03/14/1069717/how-ai-could-write-our-laws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/03/ai-lobbyists.jpeg?w=3000",
-          "width": 3000,
-          "height": 1688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2023/03/14/1069717/how-ai-could-write-our-laws/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/03/14/1069717/how-ai-could-write-our-laws/amp/",
-      "publishedDateTime": "2023-03-14T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-03-14-face-recognition-device-market-with-data-research-source-2028.md",
-      "title": "Face Recognition Device Market with Data Research Source 2028",
-      "excerpt": "Face Recognition Device Market research report aims to provide valuable insights and a regional outlook for future",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/face-recognition-device-market-with-data-research-source-2028-2023-03-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/face-recognition-device-market-with-data-research-source-2028-2023-03-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-14T01:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-14-artificial-intelligence-in-retail-market-with-size-expected-to-reach-by-2030-by-extensive-growth-projected.md",
-      "title": "Artificial Intelligence in Retail Market with Size Expected to Reach by 2030 by Extensive Growth Projected",
-      "excerpt": "Final Report will add an analysis of the impact of the Russia-Ukraine War and COVID-19 on theArtificial Intelligence",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-with-size-expected-to-reach-by-2030-by-extensive-growth-projected-2023-03-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-with-size-expected-to-reach-by-2030-by-extensive-growth-projected-2023-03-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-13T23:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-14-3-artificial-intelligence-stocks-you-can-buy-and-hold-for-the-next-decade.md",
-      "title": "3 Artificial Intelligence Stocks You Can Buy and Hold for the Next Decade",
-      "excerpt": "Artificial intelligence has become integral to the operations ... Retail sales aren't highly profitable, but services (like AWS, with its 29% 2022 operating margin) are moneymakers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/03/14/artificial-intelligence-stocks-can-buy-hold-decade/",
-      "originalUrl": "https://www.fool.com/investing/2023/03/14/artificial-intelligence-stocks-can-buy-hold-decade/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/724339/relaxed-person-looking-at-stock-charts.jpg",
-          "width": 2120,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-13T22:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-14-when-ai-chips-battle-your-portfolio-makes-money.md",
-      "title": "When AI chips battle, your portfolio makes money",
-      "excerpt": "The artificial intelligence (AI) revolution is here. And international companies are lining up their strategies. Nearly all the Big Tech names have started designing their own chips. Additionally, some smaller and profitable ones are also listed and could make for interesting stock picks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/business/personal-finance/when-ai-chips-battle-your-portfolio-makes-money-10243511.html",
-      "originalUrl": "https://www.moneycontrol.com/news/business/personal-finance/when-ai-chips-battle-your-portfolio-makes-money-10243511.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2021/03/hacking_shutterstock_578912143.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/business/personal-finance/when-ai-chips-battle-your-portfolio-makes-money-10243511.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/personal-finance/when-ai-chips-battle-your-portfolio-makes-money-10243511.html/amp",
-      "publishedDateTime": "2023-03-13T19:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-14-artificial-intelligence-and-machine-learning-market-size-share-and-forecast-2029.md",
-      "title": "Artificial Intelligence and Machine Learning Market Size, Share and Forecast 2029",
-      "excerpt": "The \"Artificial Intelligence and Machine Learning Market\" study describes how the technology industry is evolving and",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-size-share-and-forecast-2029-2023-03-13",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-size-share-and-forecast-2029-2023-03-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 291,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-13T18:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-03-14-25-best-christmas-movies-on-amazon-prime-to-start-watching-now.md",
-      "title": "25 Best Christmas Movies on Amazon Prime to Start Watching Now",
-      "excerpt": "Amazon really does have everything! Chances are, you’re doing a whole lot of your holiday shopping on Amazon this year. But in between buying the perfect presents for everyone on your list, why ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.rd.com/list/christmas-movies-amazon-prime/",
-      "originalUrl": "https://www.rd.com/list/christmas-movies-amazon-prime/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.rd.com/wp-content/uploads/2021/09/amazon-holiday-movies-scaled.jpg",
-          "width": 2560,
-          "height": 1707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-13T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reader's Digest",
-        "domain": "rd.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-14-neural-networks-youve-got-it-so-easy.md",
-      "title": "Neural Networks: You’ve Got It So Easy",
-      "excerpt": "And so it was Scientific American magazine’s September 1992 special issue on Mind and Brain that introduced me to neural networks, both the biological and artificial kinds. Back then you had the ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2017/04/24/neural-networks-youve-got-it-so-easy/",
-      "originalUrl": "https://hackaday.com/2017/04/24/neural-networks-youve-got-it-so-easy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2017/04/neural_network_books-featured.jpg",
-          "width": 1110,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-13T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

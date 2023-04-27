@@ -8,7 +8,7 @@ webUrl: "https://www.forbes.com/sites/qai/2023/04/27/microsofts-q1-earnings-show
 ampWebUrl: "https://www.forbes.com/sites/qai/2023/04/27/microsofts-q1-earnings-show-impact-of-companies-going-all-in-on-ai/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/04/27/microsofts-q1-earnings-show-impact-of-companies-going-all-in-on-ai/amp/"
 type: article
-quality: 104
+quality: 106
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI Hardware
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/644a90ed0c69a91ea555c171/0x0.jpg?format=jpg&width=1200"
@@ -126,22 +127,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/d1c853790f13f2c449fd86914a709aa0d50098b7/0_319_5454_3273/master/5454.jpg?width=620&quality=85&auto=format&fit=max&s=60879d716284ba1a084e6624e792ffda"
         width: 620
         height: 372
-        isCached: true
-  - title: "Microsoft Previews ChatGPT in Azure OpenAI Service – Redmondmag.com"
-    excerpt: "Advanced SearchNewsMicrosoft announced on Thursday that its Azure OpenAI service now offers a preview of ChatGPT, the OpenAI-based chat engine.Microsoft's"
-    publishedDateTime: 2023-04-22T23:46:00Z
-    webUrl: "https://www.inferse.com/490179/microsoft-previews-chatgpt-in-azure-openai-service-redmondmag-com/"
-    ampWebUrl: "https://www.inferse.com/490179/microsoft-previews-chatgpt-in-azure-openai-service-redmondmag-com/?amp=1"
-    cdnAmpWebUrl: "https://www-inferse-com.cdn.ampproject.org/c/s/www.inferse.com/490179/microsoft-previews-chatgpt-in-azure-openai-service-redmondmag-com/?amp=1"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 89
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/04/wp-header-logo-8927.png"
-        width: 647
-        height: 450
         isCached: true
   - title: "Microsoft mentioned artificial intelligence 50 times on its earnings call and Wall Street is thrilled"
     excerpt: "\"Nadella and Co. delivered another masterpiece cloud quarter which will be the focus of the Street and sets a positive tone,\" Wedbush said."
@@ -428,6 +413,20 @@ related:
         width: 1200
         height: 847
         isCached: true
+  - title: "Copilot Tech Shines at Build 2023 As Microsoft Morphs into an AI Company"
+    excerpt: "Developers are in for an AI treat of all the information and guidance they can consume at Microsoft's big developer conference kicking off in Seattle on May 23."
+    publishedDateTime: 2023-04-27T17:30:00Z
+    webUrl: "https://visualstudiomagazine.com/articles/2023/04/27/build-23.aspx"
+    type: article
+    provider:
+      name: Visual Studio Magazine
+      domain: visualstudiomagazine.com
+    quality: 53
+    images:
+      - url: "https://visualstudiomagazine.com/-/media/ECG/visualstudiomagazine/Images/introimages/BuildWindowsLogo.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "Snapchat Debuts ChatGPT-Powered Snap AI – But Is It Safe For Kids?"
     excerpt: "ChatGPT-powered Snap AI raises concerns about the safety and privacy of young users. This article discusses the potential benefits of early AI exposure, while highlighting the importance of parental vigilance in mitigating risks associated with misinformation,"
     publishedDateTime: 2023-04-26T13:03:00Z
@@ -525,6 +524,20 @@ related:
       name: TheStreet.com
       domain: thestreet.com
     quality: 39
+  - title: "Meta Hopes to Rival ChatGPT with New AI Investments"
+    excerpt: "Meta claims it's \"no longer behind in building AI infrastructure\", with new AI tools coming to WhatsApp, Messager, Facebook, and Instagram."
+    publishedDateTime: 2023-04-27T16:51:00Z
+    webUrl: "https://tech.co/news/meta-ai-investment-chatgpt-rival"
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
+    quality: 39
+    images:
+      - url: "https://images.tech.co/wp-content/uploads/2023/04/27113513/AdobeStock_577116307_Editorial_Use_Only-min_50-scaled.jpeg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "Microsoft Q3 Earnings Preview: All Eyes Are On AI-Driven Growth"
     excerpt: "Microsoft Corp. (NASDAQ: MSFT) will announce fiscal year 2023 third-quarter financial results on Tuesday, April 25, after market close. Here are five things to know ahead of the report:"
     publishedDateTime: 2023-04-24T13:04:00Z
@@ -571,6 +584,6 @@ related:
       domain: interestingengineering.com
     quality: 19
 
-secured: "sfsKlNNnegqvj4ZdBdkdtZaEAih6LFsiOCUTfQUaDRMb94geZ1Hk8EvCDQuyQFmHcLRe8o8X7tA8mFS6g3u/x133p/jcsfV5VcFch0w188UpeD7yWTccQvpFXf+/vWM/IKWVKsmpSlnDvN1jD8r6Y02juUMwL8xWeq6ZD2yACD3HCBdjbTwPUW0gqAXAZ48JLS2d4xN28dy4Wm5sbrFyv+iNqrF9Omwi8XPBlh5pjuBEOI1SiYH87DAqKE8hYaX627mzokFZphUn0l7fEXHLD0OzgnOpCd2/zFFllCToaXYL9leioBVXUFGaXFH4jB94wAjcHCy1oRphPBqKRqpchjmYYPl3Xq2gxOEErHae3ns=;PJQUXZqz8MYEAhHwY7Fwrg=="
+secured: "eIAX+XjbWzGrUSP8g9leE/BT+ykRjUz94nCa5gtMIgq/lZZZzSMZ56BmXlCYeteJ9GBMT5KEDS2Mebl0xe0xDuLH/jMWzK6hfCcrCHdXVAsL5BGdOx3M22rdCWnWynIMFycyYns++VJoKe8+lgkCPigL4eAvaM0GQb2BConX4O9MP9lmQoojUKwaI3Zzrrw5tMRhfyLTKEHHsmr6Oo4Wpg0sjd7jQau6igK/DxOXLP7Yqernjkiditx3aJX6M2HTzj1sUUiMi2wePvrFiFnvNBOeJhvGBZT9bm0wYZcOoBkuQj6SMHRb1MbIpDdrYnS5UIulDtWCsy3N9PhBxcrI/ewqRF4aUyucLVp6WceqP/BKi97Y6vgLLe8ZjvpSP6MocKLvVtn1Fk+rbP8MstPeOq/8ZzRrT9eeENq4MsgkOe7T9wAv0K5SAtOxgkW+iiwMs/V43+4sOq6kdJCZacKLIULTbY5OHosrYFrP5lruAf/OS2miE5+LsLByH6n1Aq+h8Kaz91cwxE50RK5AWs1uVw==;Pki6NLhOAVb+3Us0PfP4Eg=="
 ---
 

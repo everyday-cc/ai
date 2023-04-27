@@ -29,15 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Healthcare Market [2023], Global Demand, Industry Size, Revenue Analysis, Regional Share and Competitive Landscape"
-    excerpt: "Fortune Business Insights™ published a \"Artificial Intelligence in Healthcare Market\"Business Analysis and Growth"
-    publishedDateTime: 2023-04-24T04:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2023-global-demand-industry-size-revenue-analysis-regional-share-and-competitive-landscape-2023-04-24"
+  - title: "Cloud Natural Language Processing Market New Technologies and Current Trends Analysis Growth Forecast to 2033"
+    excerpt: "Cloud Natural Language Processing Market Was Valued At USD 17.7 Billion In 2023 And Is Reach To USD 195.23 Billion By 2033 At A CAGR Of 27.13% Firstly, the report adds a market definition that gives a brief idea about the Cloud Natural Language Processing market."
+    publishedDateTime: 2023-04-27T05:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-new-technologies-and-current-trends-analysis-growth-forecast-to-2033-2023-04-27"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 49
+    quality: 50
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

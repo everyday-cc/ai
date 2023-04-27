@@ -41,22 +41,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "This AI chatbot can sum up any PDF and answer any question you have about it"
-    excerpt: "ChatPDF runs on OpenAI's GPT 3.5 large language model and can answer any question you have about the PDF you upload. The chatbot can even give you a full summary of the PDF without you having to read it."
-    publishedDateTime: 2023-04-26T13:55:00Z
-    webUrl: "https://www.zdnet.com/article/this-ai-chatbot-can-sum-up-any-pdf-and-any-question-you-have-about-it/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/this-ai-chatbot-can-sum-up-any-pdf-and-any-question-you-have-about-it/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-ai-chatbot-can-sum-up-any-pdf-and-any-question-you-have-about-it/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 84
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/66cd397bf62d97a55b9d4229b481942dce2176ab/2023/04/25/78be6954-5e79-487a-b681-311730d7bccf/screenshot-2023-04-25-at-4-26-20-pm.png?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Snapchat sees spike in 1-star reviews as users pan the ‘My AI’ feature, calling for its removal"
     excerpt: "The user reviews for Snapchat’s “My AI” feature are in — and they’re not good. Launched last week to global users after initially being a subscriber-only addition, Snapchat’s new AI chatbot powered by OpenAI’s GPT technology is now pinned to the top of the app’s Chat tab where users can ask it questions and get"
     publishedDateTime: 2023-04-24T15:44:00Z

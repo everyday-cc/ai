@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/04/25/what-mar
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/04/25/what-marketing-and-advertising-specialists-can-expect-from-chatgpt/amp/"
 type: article
 quality: 91
-heat: 331
+heat: 321
 published: true
 
 provider:
@@ -111,20 +111,6 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1846bba2-3f76-46e5-b731-28ab0c01de9a/de78cd28-4f77-4606-9528-afcbe1ee7bcd/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
         width: 1200
         height: 675
-        isCached: true
-  - title: "ChatGPT: How generative AI could change hiring as we know it"
-    excerpt: "Candidates are already using tools such as ChatGPT to write cover letters and CVs. But it’s just a small piece of how AI is transforming hiring processes."
-    publishedDateTime: 2023-04-23T19:38:00Z
-    webUrl: "https://www.bbc.com/worklife/article/20230419-chatgpt-how-generative-ai-could-change-hiring-as-we-know-it"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 67
-    images:
-      - url: "https://ychef.files.bbci.co.uk/live/624x351/p0fhn46s.jpg"
-        width: 624
-        height: 351
         isCached: true
   - title: "Google creates DeepMind division to combat threat from ChatGPT and Bing AI"
     excerpt: "The rate of AI development is seemingly speeding up each day, and Google is one of the biggest players in the game. The teams have an impressive history of achievements in AI coll"

@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Mark Zuckerberg said the word 'AI' no less than 27 times during a Meta earnings call this week"
+    excerpt: "Mark Zuckerberg wants everyone to know Meta is also interested in AI. Overall, the word \"AI\" was used 57 times on the earnings call."
+    publishedDateTime: 2023-04-27T16:41:00Z
+    webUrl: "https://www.businessinsider.com/mark-zuckerberg-ai-metaverse-comments-meta-earnings-2023-4"
+    ampWebUrl: "https://www.businessinsider.com/mark-zuckerberg-ai-metaverse-comments-meta-earnings-2023-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mark-zuckerberg-ai-metaverse-comments-meta-earnings-2023-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 75
+    images:
+      - url: "https://i.insider.com/644a7252da6d7b0019bd6f67?width=1200&format=jpeg"
+        width: 1024
+        height: 512
+        isCached: true
   - title: "Meta Profits Set to Drop as Zuckerberg Pivots to AI, Analysts Say"
     excerpt: "The social media giant is expected to disclose a drop in revenue as it looks to artificial intelligence after a lackluster metaverse pivot."
     publishedDateTime: 2023-04-25T20:54:00Z

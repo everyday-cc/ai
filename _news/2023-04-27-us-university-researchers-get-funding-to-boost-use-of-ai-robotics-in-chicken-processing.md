@@ -51,6 +51,22 @@ related:
         width: 761
         height: 335
         isCached: true
+  - title: "Researchers use AI to innovate insect discovery"
+    excerpt: "A team of researchers at the IUPUI School of Science have developed an innovative use of Artificial Intelligence to discover new species of insects."
+    publishedDateTime: 2023-04-27T16:42:00Z
+    webUrl: "https://phys.org/news/2023-04-ai-insect-discovery.html"
+    ampWebUrl: "https://phys.org/news/2023-04-ai-insect-discovery.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-04-ai-insect-discovery.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/school-of-science-rese.jpg"
+        width: 2137
+        height: 800
+        isCached: true
 
 secured: "NjHa4Tmj33byiZWoQlbiZpZe4bpKgprYpTkKMoZ6DngubqavffakMDKCVQ/sRJCGc1tfOCfp8vQc30PgGWLYu0Ja9E17WmG57xTNeYcOI6AkiUMaz1i5zmbEsMmLE/7zZ8T+rMRndQbc3TeBZY/4+THxYrD0oicJgHMg7Q4Yxjpa++9i9FAIljDF5K+d5wQmwXxiAyVKNCxnliBt9zFMBdyCCi0kHKF+O7luWFyyDLapjKZyi6sl0jX9tP066L7NGtc6C4gMtpj0s1iJrqiKgLXB3Q2FszpIzeYHVIRrTD2Z/YNHfoKf4BL6FkNr5IntzrZDy4wNLFXSoX7Zp2HMjM/SO4VnSTzMp/bzfQ1yQU0ZacV24lL8kqzpMfkdHqFCMMWKD8+2wqe1xuLO2TcqbmBphMeL0YVn++cNqKknKk9rK+NaBS9Y2/u9ylFUvQoIgjY/Uup/kW89tXev/1kTeA5w5OFuc4GlyDEX3IADoXOJkm7LXbxRBs/FD2spocWq2LvRmjA03mmEdb0rmjYkhQ==;v11xlc3IRjs0nB/TP8SToQ=="
 ---

@@ -69,15 +69,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 36
-  - title: "Researchers Leverage Generative AI to Improve Cancer Treatment Targets"
-    excerpt: "Researchers from the University of Texas are studying the use of generative AI for adaptive radiotherapy to better personalize cancer treatments."
-    publishedDateTime: 2023-04-24T13:29:00Z
-    webUrl: "https://healthitanalytics.com/news/researchers-leverage-generative-ai-to-improve-cancer-treatment-targets"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 19
 
 secured: "QfEzKAmS0A6UhkW6IKiOrHAUNn0UIy5lULc+FceC0UUdFfKTXnBXsSWXR7fRjMZ61aq+2a76IFenhy8zVge/fov0QfAkSwNM57eg/CnkEaEwt+5W8w5gJINUNhRGZWfqoD3VjPiz/0G5ejK5BbYoKaULzhne6P27R4Koj6fOPBR5AyIRhobkepyu53yiinTZDK6QsBKte7x4Rb7rH8RSdR+h56EQdZAZ0EeaFLbnACJtYHfEQmpcPqbyKIHPkw4bMtIPxVRf0X1eCqs66fwUG3HHmZl6a+W+7n8hOY01pr9PMT4jW6jrMhKQOS14wNcvCVB7ZB4RODQhmDWthHzdhTglXCSBlbc0noQhUu4xtVwHnPARuVZiX+mO9eUVyFHpfgbXyLgFia53wZTPCdfFQi+spCs+swWrdY34takgvtlhnVIFcibVsMC3mKtCH1YESeOpF/qCvK8iInilJgjcOHsnr3jF902c2PqAZT4wvdX+mLFgUnHg/MrHPMkwLpE/Tj6zSNqQXESVNnCCJYTatQ==;E1D6+OKSeKd29yWZvS74MA=="
 ---

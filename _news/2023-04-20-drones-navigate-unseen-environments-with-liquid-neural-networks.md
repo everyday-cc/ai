@@ -15,6 +15,12 @@ topics:
   - Machine Learning
   - AI
 
-secured: "fA30LH2Bfgq7zOfs6/37izH5ho2otxuqshqx/cnwmFyAiFnTPcTrovfw6RdjjitHxewh9EH1qJJo+XBS1o/biJD61vWD2jeYbOAr4XJywsP/DW9tejeetQ+IWjUgfzF7VAJmGBDGaeqbh8ZOavAGNfS0FQaR+syV+tmJKYXA4UA7dnMal044ycgU6DG/HhFhFv3mEDCTd3XsuvgtV8zQT0indaSHA9PDMpxxjEJvpjb/02ypqjpAWIxNyTrqQW0yMWxMqk8VPCOc3pQ4eH+jUwNaS+McEDPCCJSrTFBpZ7uTSpWUBM6Qs0xDSrvMCO48EfYUBfDb49G/IAVHrKnn8Q0/v/giQV2eib4WlK0aPvY=;zPcqiv7whQBDiTJrnIDQVA=="
+images:
+  - url: "https://assets.technologynetworks.com/production/dynamic/images/content/372383/drones-navigate-unseen-environments-with-liquid-neural-networks-372383-640x360.jpg?cb=20230420"
+    width: 640
+    height: 360
+    isCached: true
+
+secured: "CaU8miAbvfDf8htRhszqrY3QAsIPehBxE1iyjEm4otYVssQHUIqRgtGklaLlu/MScu7rth8Wk13Xkj8/KyP4ibqPZQPWZCmEOUHcVX+Lo3+FviQM5VvxJtbyrfOlorV0mlkJ6OgcfYxqOz+Dj02jNksimXTmD3AYl25Mn8q9B1vRAvMLKhZAXCNLj1/RFrddn8CwftGKrUUHtRQWIG9Pg6Ih16HP+2SM+g8iz0jjiHQd5TeqRCge890YSX4JF+2XHUEoAf0R0UdGfO3px7V5oKYbu/Gf0aCoHdUZnfeb6tg59wCIooSVI2VsvXgsULdQkXKM5szgt9dJ9HQzST28YUiH/2pdysN3G/8HbLKSn18=;wRzGewlMkMYhtT1uyh4PFQ=="
 ---
 

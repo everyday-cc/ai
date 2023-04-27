@@ -27,163 +27,67 @@ images:
     isCached: true
 
 related:
-  - title: "How Generative AI Can Be Used In Electronics Manufacturing"
-    excerpt: "By tapping into the creative potential of generative AI, we can help assuage our national security and infrastructure concerns while paving the way for innovative solutions across a range of industries."
-    publishedDateTime: 2023-04-26T10:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/26/how-generative-ai-can-be-used-in-electronics-manufacturing/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/26/how-generative-ai-can-be-used-in-electronics-manufacturing/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/26/how-generative-ai-can-be-used-in-electronics-manufacturing/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/61f030570018a072dc46d1ec/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Using Generative AI In Workforce Management"
-    excerpt: "Generative AI is the most transformative thing in the business landscape right now, perhaps even since the proliferation of the internet."
+  - title: "5 Crucial Components Of An AI Company"
+    excerpt: "In this article, I'll explore five crucial factors that should drive the decision making of VCs and investors when identifying investment opportunities and evaluating long-term potential in the competitive and oversaturated AI space."
     publishedDateTime: 2023-04-24T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/using-generative-ai-in-workforce-management/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/using-generative-ai-in-workforce-management/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/24/using-generative-ai-in-workforce-management/amp/"
+    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/04/24/5-crucial-components-of-an-ai-company/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/04/24/5-crucial-components-of-an-ai-company/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/04/24/5-crucial-components-of-an-ai-company/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62825152c50f091b0e2568f8/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 799
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6442b28cc7d2114a4afa0045/0x0.jpg?format=jpg&width=1200"
+        width: 1014
+        height: 676
         isCached: true
-  - title: "The 5 biggest risks of generative AI, according to an expert"
-    excerpt: "According to Gartner analyst Avivah Litan, some of the biggest risks of generative AI concern trust and security and include hallucinations, deepfakes, data privacy, copyright issues, and cybersecurity problems."
-    publishedDateTime: 2023-04-25T09:54:00Z
-    webUrl: "https://www.zdnet.com/article/the-5-biggest-risks-of-generative-ai-according-to-an-expert/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-5-biggest-risks-of-generative-ai-according-to-an-expert/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-5-biggest-risks-of-generative-ai-according-to-an-expert/"
+  - title: "Pros and cons of AI in education"
+    excerpt: "CTU Training Solutions held a webinar recently to explore how AI is going to change the way we teach and learn."
+    publishedDateTime: 2023-04-25T06:40:00Z
+    webUrl: "https://www.itweb.co.za/content/Olx4zMkal3Qv56km"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/Olx4zMkal3Qv56km"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/Olx4zMkal3Qv56km"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 76
     images:
-      - url: "https://www.zdnet.com/a/img/resize/0cc190b128c483df4d94a80b464a741210a694f4/2023/04/24/ba357ab7-5959-44f7-a452-d12811dba59b/gettyimages-1404749040-170667a.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://www.itweb.co.za/static/pictures/2023/04/86-Humanoid-reading-2023.jpg"
         width: 1200
         height: 675
         isCached: true
-  - title: "Here Is How AI Is Being Used In Fetal Ultrasounds"
-    excerpt: "This artificial Intelligence software from Sonio, a French tech company is being used to assist in the diagnosis of fetal anomalies and associated syndromes."
-    publishedDateTime: 2023-04-26T17:30:00Z
-    webUrl: "https://www.forbes.com/sites/jenniferhicks/2023/04/26/here-is-how-ai-is-being-used-in-fetal-ultrasounds/"
-    ampWebUrl: "https://www.forbes.com/sites/jenniferhicks/2023/04/26/here-is-how-ai-is-being-used-in-fetal-ultrasounds/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2023/04/26/here-is-how-ai-is-being-used-in-fetal-ultrasounds/amp/"
+  - title: "How AI could change computing, culture and the course of history"
+    excerpt: "For a sense of what may be on the way, consider three possible analogues, or precursors: the browser, the printing press and practice of psychoanalysis. One changed computers and the economy, one changed how people gained access and related to knowledge, and one changed how people understood themselves."
+    publishedDateTime: 2023-04-26T03:03:00Z
+    webUrl: "https://www.livemint.com/technology/how-ai-could-change-computing-culture-and-the-course-of-history-11682436092490.html"
+    ampWebUrl: "https://www.livemint.com/technology/how-ai-could-change-computing-culture-and-the-course-of-history/amp-11682436092490.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/how-ai-could-change-computing-culture-and-the-course-of-history/amp-11682436092490.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Mint
+      domain: livemint.com
+    quality: 61
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64495d4d01bc3672eff33129/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 848
+      - url: "https://www.livemint.com/lm-img/img/2023/04/25/600x338/AI-keo--621x414LiveMint_1682436432973_1682436433122.jpg"
+        width: 600
+        height: 337
         isCached: true
-  - title: "How reinforcement learning with human feedback is unlocking the power of generative AI"
-    excerpt: "How reinforcement learning with human feedback helps ensure that businesses are building ethical generative AI models."
-    publishedDateTime: 2023-04-23T16:20:00Z
-    webUrl: "https://venturebeat.com/ai/how-reinforcement-learning-with-human-feedback-is-unlocking-the-power-of-generative-ai/"
-    ampWebUrl: "https://venturebeat.com/ai/how-reinforcement-learning-with-human-feedback-is-unlocking-the-power-of-generative-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-reinforcement-learning-with-human-feedback-is-unlocking-the-power-of-generative-ai/amp/"
+  - title: "Elon Musk has had a wild week. Now he wants to start an AI company."
+    excerpt: "He also served on its board before leaving it in 2018. In his interview with Fox, he explained how the AI project he helped start escaped his grasp. “I really put a lot of effort into creating ..."
+    publishedDateTime: 2023-04-23T02:29:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2023/04/21/elon-musk-ai-startup/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 83
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 37
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/04/annevb_human_and_artificial_intelligence_working_together_to_un_5b2cbb9e-e380-4bb1-812b-366943b59568.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Industrial AI: How Is Artificial Intelligence Transforming the Manufacturing Industry?"
-    excerpt: "AI is being used worldwide to improve production times and boost safety in manufacturing plants in what is referred to as the “Industry 4.0” era. In this piece, we will discuss why the need for industrial AI is accelerating and highlight some of the companies that are leading the change."
-    publishedDateTime: 2023-04-26T15:38:00Z
-    webUrl: "https://www.nasdaq.com/articles/industrial-ai-how-is-artificial-intelligence-transforming-the-manufacturing-industry"
-    ampWebUrl: "https://www.nasdaq.com/articles/industrial-ai-how-is-artificial-intelligence-transforming-the-manufacturing-industry?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/industrial-ai-how-is-artificial-intelligence-transforming-the-manufacturing-industry?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 76
-  - title: "Manufacturers hope for AI boost in factories"
-    excerpt: "Manufacturers are hoping for the artificial intelligence revolution to reach their factories, envisaging robots being used to repair complex machinery."
-    publishedDateTime: 2023-04-23T18:01:00Z
-    webUrl: "https://techxplore.com/news/2023-04-ai-boost-factories.html"
-    ampWebUrl: "https://techxplore.com/news/2023-04-ai-boost-factories.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-04-ai-boost-factories.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/manufacturers-see-pote.jpg"
-        width: 1024
-        height: 680
-        isCached: true
-  - title: "Siemens and Microsoft drive industrial productivity with generative artificial intelligence"
-    excerpt: "Siemens' new Teamcenter app for Microsoft Teams to use AI, boosting productivity and innovation throughout a product lifecycleAzure OpenAI Service powered assistant can augment the creation, optimization and debugging of code in software for factory automationIndustrial AI to enable visual quality inspection on the shop floorSiemens and Microsoft are harnessing the collaborative power of (AI) to help industrial companies drive innovation and efficiency across the design,"
-    publishedDateTime: 2023-04-24T09:42:00Z
-    webUrl: "https://www.newswit.com/en/M5T3"
-    type: article
-    provider:
-      name: academy
-      domain: newswit.com
-    quality: 44
-    images:
-      - url: "https://www.newswit.com/img/f/20230424/c1ff69547c5cca490d95efe7466311a0-0.jpg"
-        width: 1200
-        height: 673
-        isCached: true
-  - title: "Manufacturers hope for artificial intelligence boost in factories"
-    excerpt: "Manufacturing firms are keen on using AI to automate the repair of complex machinery, thereby increasing efficacy and solving technical issues. This development was showcased in Germany's industrial Home Fair,"
-    publishedDateTime: 2023-04-24T02:22:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/manufacturers-hope-for-artificial-intelligence-boost-in-factories/99718084"
-    type: article
-    provider:
-      name: cio.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 39
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-99718084,imgsize-152838,width-1200,height=765,overlay-etcio/next-gen-technologies/manufacturers-hope-for-artificial-intelligence-boost-in-factories.jpg"
-        width: 1200
-        height: 765
-        isCached: true
-  - title: "How Artificial Intelligence Can Aid Democracy"
-    excerpt: "BKC Affiliates Nathan Sanders and Bruce Schneier write about AI's potential to advance the public good by helping democracy."
-    publishedDateTime: 2023-04-27T12:32:00Z
-    webUrl: "https://cyber.harvard.edu/story/2023-04/how-artificial-intelligence-can-aid-democracy"
-    type: article
-    provider:
-      name: Harvard Medical School
-      domain: harvard.edu
-    quality: 34
-  - title: "Google takes an opinionated view of how generative AI can be used in cybersecurity"
-    excerpt: "Google LLC announced a large language model fine-tuned for cybersecurity operations. The new generative AI model, Sec-PaLM, is designed to address enterprise challenges around threat overload, tool sprawl and a shortage of talent in the cybersecurity business."
-    publishedDateTime: 2023-04-25T22:17:00Z
-    webUrl: "https://siliconangle.com/2023/04/25/google-intros-large-language-model-security-leverage-threat-data-generative-ai-rsac/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 31
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/04/Sunil-Potti.jpg"
-        width: 986
-        height: 657
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YVKU5ZELA3MX4RBMAWFQOI7XL4.JPG&w=1440"
+        width: 1440
+        height: 961
         isCached: true
 
 secured: "t9Ks/x+yDke2oAUcRsM11Tcxthkwf1Kig06NDLCHsSPU7gnXXMO9DKl5GCKsd8NmX5l39sHN2eAG17l5HmHfFgnR6raqvr3mgsvFFGspSprVnjj8hl6ezDq9FpuL93p5lCwPMTJYmz2D8uG6quUU1Y4aQp6wkqsxrjb0G5BioP0I6CimBOzjkcHR+pBizq42AccwjqgeHSKo9gPeEchJi9K3ubQfIwNK/MAhWtmQCfSlSZhn08YdRz5biDxY7/3EirE4s64WUYMOUzJZuc8Uk4BnY3YeH9/x+/gi710X+Izah/pJpAAoDa4QqL5bCKIfe0tWMjW195PyefZ6fkjljxVLluC6NBhPFEbsVJ41AeAjOHeAXXyHfmwvYyy08Tm+dAcK7OR8OlDJHePHUVCSk3Uy5kf+wW1KHXImbKv/WknGBBWLthIGohGanUzEnm8S4c4dXIbUbvTrKQbt3Nm+Q+f2mJE1uJdXp1LirFACkvhxsyo/yhpQ5HpUUu2vk0iePF5s6F0J2QgQfDXJCcRlCA==;1786nVgBSxuEWt5fn7/MSQ=="

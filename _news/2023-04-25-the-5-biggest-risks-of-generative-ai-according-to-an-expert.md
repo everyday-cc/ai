@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/the-5-biggest-risks-of-gene
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-5-biggest-risks-of-generative-ai-according-to-an-expert/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 167
+published: true
 
 provider:
   name: ZDNet
@@ -30,164 +30,112 @@ images:
     isCached: true
 
 related:
-  - title: "How Generative AI Can Be Used In Electronics Manufacturing"
-    excerpt: "By tapping into the creative potential of generative AI, we can help assuage our national security and infrastructure concerns while paving the way for innovative solutions across a range of industries."
-    publishedDateTime: 2023-04-26T10:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/26/how-generative-ai-can-be-used-in-electronics-manufacturing/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/26/how-generative-ai-can-be-used-in-electronics-manufacturing/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/26/how-generative-ai-can-be-used-in-electronics-manufacturing/amp/"
+  - title: "TikTok is testing an in-app tool that creates generative AI avatars"
+    excerpt: "TikTok is experimenting with a new tool that allows users to create generative AI avatars, the company confirmed to TechCrunch"
+    publishedDateTime: 2023-04-26T16:07:00Z
+    webUrl: "https://techcrunch.com/2023/04/26/tiktok-is-testing-an-in-app-tool-that-creates-generative-ai-avatars/"
+    ampWebUrl: "https://techcrunch.com/2023/04/26/tiktok-is-testing-an-in-app-tool-that-creates-generative-ai-avatars/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/04/26/tiktok-is-testing-an-in-app-tool-that-creates-generative-ai-avatars/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/61f030570018a072dc46d1ec/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Using Generative AI In Workforce Management"
-    excerpt: "Generative AI is the most transformative thing in the business landscape right now, perhaps even since the proliferation of the internet."
-    publishedDateTime: 2023-04-24T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/using-generative-ai-in-workforce-management/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/using-generative-ai-in-workforce-management/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/24/using-generative-ai-in-workforce-management/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
+      name: TechCrunch
+      domain: techcrunch.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62825152c50f091b0e2568f8/0x0.jpg?format=jpg&width=1200"
+      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1248373545.jpg?resize=1200,788"
         width: 1200
-        height: 799
+        height: 788
         isCached: true
-  - title: "Here Is How AI Is Being Used In Fetal Ultrasounds"
-    excerpt: "This artificial Intelligence software from Sonio, a French tech company is being used to assist in the diagnosis of fetal anomalies and associated syndromes."
-    publishedDateTime: 2023-04-26T17:30:00Z
-    webUrl: "https://www.forbes.com/sites/jenniferhicks/2023/04/26/here-is-how-ai-is-being-used-in-fetal-ultrasounds/"
-    ampWebUrl: "https://www.forbes.com/sites/jenniferhicks/2023/04/26/here-is-how-ai-is-being-used-in-fetal-ultrasounds/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2023/04/26/here-is-how-ai-is-being-used-in-fetal-ultrasounds/amp/"
+  - title: "These are the 9 best books to get up to speed on the hot new world of generative AI, according to experts"
+    excerpt: "The AI Revolution in Medicine: GPT-4 and Beyond Author: Peter Lee, Carey Goldberg, and Isaac Kohane. Lee, Corporate VP for Research and Incubations at Microsoft; Goldberg, medical and science ..."
+    publishedDateTime: 2023-04-24T00:00:00Z
+    webUrl: "https://www.businessinsider.com/list-generative-ai-artificial-intelligence-best-books-for-learning-experts-2023-3"
+    ampWebUrl: "https://www.businessinsider.com/list-generative-ai-artificial-intelligence-best-books-for-learning-experts-2023-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/list-generative-ai-artificial-intelligence-best-books-for-learning-experts-2023-3?amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 72
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64495d4d01bc3672eff33129/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 848
-        isCached: true
-  - title: "How reinforcement learning with human feedback is unlocking the power of generative AI"
-    excerpt: "How reinforcement learning with human feedback helps ensure that businesses are building ethical generative AI models."
-    publishedDateTime: 2023-04-23T16:20:00Z
-    webUrl: "https://venturebeat.com/ai/how-reinforcement-learning-with-human-feedback-is-unlocking-the-power-of-generative-ai/"
-    ampWebUrl: "https://venturebeat.com/ai/how-reinforcement-learning-with-human-feedback-is-unlocking-the-power-of-generative-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-reinforcement-learning-with-human-feedback-is-unlocking-the-power-of-generative-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 83
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/04/annevb_human_and_artificial_intelligence_working_together_to_un_5b2cbb9e-e380-4bb1-812b-366943b59568.png?w=1200&strip=all"
+      - url: "https://i.insider.com/6442e90e3d49030019df18aa?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Industrial AI: How Is Artificial Intelligence Transforming the Manufacturing Industry?"
-    excerpt: "AI is being used worldwide to improve production times and boost safety in manufacturing plants in what is referred to as the “Industry 4.0” era. In this piece, we will discuss why the need for industrial AI is accelerating and highlight some of the companies that are leading the change."
-    publishedDateTime: 2023-04-26T15:38:00Z
-    webUrl: "https://www.nasdaq.com/articles/industrial-ai-how-is-artificial-intelligence-transforming-the-manufacturing-industry"
-    ampWebUrl: "https://www.nasdaq.com/articles/industrial-ai-how-is-artificial-intelligence-transforming-the-manufacturing-industry?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/industrial-ai-how-is-artificial-intelligence-transforming-the-manufacturing-industry?amp"
+  - title: "Gen AI For Generating Value: Experiential Learning"
+    excerpt: "The short- to medium-term outlook for generative AI will continue to see various firms using the public (generic) language models at their disposal."
+    publishedDateTime: 2023-04-27T13:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/27/gen-ai-for-generating-value-experiential-learning/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 76
-  - title: "Why the struggle for ethics in generative AI is more complex than we imagine"
-    excerpt: "Some generative AI companies have been criticized for scraping the Web for training data, including copyrighted material, without the consent of creators and rights owners. In this way, the work of any number of creative,"
-    publishedDateTime: 2023-04-24T09:23:00Z
-    webUrl: "https://diginomica.com/why-struggle-ethics-generative-ai-more-complex-we-imagine"
-    ampWebUrl: "https://diginomica.com/why-struggle-ethics-generative-ai-more-complex-we-imagine?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/why-struggle-ethics-generative-ai-more-complex-we-imagine?amp"
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Generative AI Is Only as Good as the Prompt You Give It"
+    excerpt: "It is ironic that much of the early conversation about ChatGPT had to do with the demise of writing skills when, in fact, the very success of generative-AI searches is determined by the quality of precisely written prompts."
+    publishedDateTime: 2023-04-26T05:42:00Z
+    webUrl: "https://www.insidehighered.com/opinion/blogs/online-trending-now/2023/04/26/generative-ai-only-good-prompt-you-give-it"
     type: article
     provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 71
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2023-03/ethics-gb40633784_640.jpg"
-        width: 640
-        height: 453
-        isCached: true
-  - title: "Manufacturers hope for AI boost in factories"
-    excerpt: "Manufacturers are hoping for the artificial intelligence revolution to reach their factories, envisaging robots being used to repair complex machinery."
-    publishedDateTime: 2023-04-23T18:01:00Z
-    webUrl: "https://techxplore.com/news/2023-04-ai-boost-factories.html"
-    ampWebUrl: "https://techxplore.com/news/2023-04-ai-boost-factories.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-04-ai-boost-factories.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/manufacturers-see-pote.jpg"
-        width: 1024
-        height: 680
-        isCached: true
-  - title: "Siemens and Microsoft drive industrial productivity with generative artificial intelligence"
-    excerpt: "Siemens' new Teamcenter app for Microsoft Teams to use AI, boosting productivity and innovation throughout a product lifecycleAzure OpenAI Service powered assistant can augment the creation, optimization and debugging of code in software for factory automationIndustrial AI to enable visual quality inspection on the shop floorSiemens and Microsoft are harnessing the collaborative power of (AI) to help industrial companies drive innovation and efficiency across the design,"
-    publishedDateTime: 2023-04-24T09:42:00Z
-    webUrl: "https://www.newswit.com/en/M5T3"
-    type: article
-    provider:
-      name: academy
-      domain: newswit.com
-    quality: 44
-    images:
-      - url: "https://www.newswit.com/img/f/20230424/c1ff69547c5cca490d95efe7466311a0-0.jpg"
-        width: 1200
-        height: 673
-        isCached: true
-  - title: "Manufacturers hope for artificial intelligence boost in factories"
-    excerpt: "Manufacturing firms are keen on using AI to automate the repair of complex machinery, thereby increasing efficacy and solving technical issues. This development was showcased in Germany's industrial Home Fair,"
-    publishedDateTime: 2023-04-24T02:22:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/manufacturers-hope-for-artificial-intelligence-boost-in-factories/99718084"
-    type: article
-    provider:
-      name: cio.economictimes.indiatimes
-      domain: indiatimes.com
+      name: Inside Higher Ed
+      domain: insidehighered.com
     quality: 39
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-99718084,imgsize-152838,width-1200,height=765,overlay-etcio/next-gen-technologies/manufacturers-hope-for-artificial-intelligence-boost-in-factories.jpg"
-        width: 1200
-        height: 765
+      - url: "https://www.insidehighered.com/sites/default/files/2023-04/ihe-logo-web.png"
+        width: 600
+        height: 324
         isCached: true
-  - title: "How Artificial Intelligence Can Aid Democracy"
-    excerpt: "BKC Affiliates Nathan Sanders and Bruce Schneier write about AI's potential to advance the public good by helping democracy."
-    publishedDateTime: 2023-04-27T12:32:00Z
-    webUrl: "https://cyber.harvard.edu/story/2023-04/how-artificial-intelligence-can-aid-democracy"
+  - title: "The risks and rewards of AI-powered translation"
+    excerpt: "Advances in AI deep learning for machine translation are an opportunity for organisations to remove language barriers to global trade"
+    publishedDateTime: 2023-04-27T15:30:00Z
+    webUrl: "https://www.business-reporter.co.uk/management/the-risks-and-rewards-of-ai-powered-translation"
     type: article
     provider:
-      name: Harvard Medical School
-      domain: harvard.edu
-    quality: 34
-  - title: "Google takes an opinionated view of how generative AI can be used in cybersecurity"
-    excerpt: "Google LLC announced a large language model fine-tuned for cybersecurity operations. The new generative AI model, Sec-PaLM, is designed to address enterprise challenges around threat overload, tool sprawl and a shortage of talent in the cybersecurity business."
-    publishedDateTime: 2023-04-25T22:17:00Z
-    webUrl: "https://siliconangle.com/2023/04/25/google-intros-large-language-model-security-leverage-threat-data-generative-ai-rsac/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 31
+      name: business-reporter.co.uk
+      domain: business-reporter.co.uk
+    quality: 39
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/04/Sunil-Potti.jpg"
-        width: 986
-        height: 657
+      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/028/AI_translation.jpg"
+        width: 1200
+        height: 800
         isCached: true
+  - title: "44 of the most promising generative-artificial-intelligence startups of 2023, according to investors"
+    excerpt: "Estimated total funding for each startup is based on data from PitchBook unless otherwise specified. Adept What it does: Adept is a machine-learning research-and-product lab aiming to build AI ..."
+    publishedDateTime: 2023-04-24T00:00:00Z
+    webUrl: "https://www.businessinsider.com/most-promising-generative-artificial-intelligence-startups-according-vcs-venture-capital-2023-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 37
+    images:
+      - url: "https://i.insider.com/641b26b3e49c3900187d78fa?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Generative AI blitz hits cyber industry's biggest conference"
+    excerpt: "Generative AI has the potential to enable security products to better detect advanced phishing attacks, proactively scan networks for suspicious activity, and automatically \"fight back\" against ongoing attacks, Avivah Litan, distinguished vice president analyst at Gartner, told Axios."
+    publishedDateTime: 2023-04-25T16:40:00Z
+    webUrl: "https://www.axios.com/2023/04/25/generative-ai-cyber-industry-rsa-conference"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 37
+    images:
+      - url: "https://images.axios.com/XjCML_d0Xez8eBBySaNj09hw_vA=/0x0:1920x1080/1366x768/2023/04/25/1682437170486.jpg"
+        width: 1366
+        height: 768
+        isCached: true
+  - title: "The rapid rise of generative AI threatens to upend US patent system"
+    excerpt: "The flurry of concern has been prompted by the rapid rise of generative AI. Though known mainly from OpenAI’s ChatGPT, the same technology is already being used to design semiconductors and suggest ideas for new molecules that might form the basis of useful drugs."
+    publishedDateTime: 2023-04-26T12:00:00Z
+    webUrl: "https://www.ft.com/content/dc556ab8-9661-4d93-8211-65a44204f358"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "TVDGK89gIra98KVjgdWMDWmK+AZXnUSiOMpZYwgovAqpj4E3gz7hOOibWXRG1ZIVtXIjERy/CSoLNfhq+CvXAFtmPD244rjs0FCSQ8fDXGPFGNbbm8fENzXKoV18SSwLAv+N7bvRnx291KGiWpGSXnPjWN0RpssmnoFlxlRIa5tQIvCBuE4k8n9vuMcKCBa139p3bxzzJbfJsFIEAkW6YC2kL4n7zg1ot0DE1DEeUnOM9r2+O6exxDOYgrScSybc0UlaZiBS91ccGS7Vv8OgSXZaHsTSkCcWPZU+YtkIFi8hp227rxWvfQm4Ra83HRInWWlTcHGMtJfYfJmcj+KfsqeKGwROMMyySKVBPz8WT84kzv85kSO3gFfU+O6ywHfOoNjBinpD3I/6K85Wls8jWFFM6XXx8LoQcytMrzbLuqryivetO/IaDNC8YruEIU56bdclTVP8kFFeW6Ck973HF7t/5qqQzojcX2OCImAkcDtggyjxACBcT0NZHP+5vX4Ldwfb7h3jXMWfYG/nsqvyTQ==;aCBpEtw66e7fR9qVw9277w=="
 ---

@@ -113,6 +113,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Siemens and Microsoft drive industrial productivity with generative artificial intelligence"
+    excerpt: "Siemens' new Teamcenter app for Microsoft Teams to use AI, boosting productivity and innovation throughout a product lifecycleAzure OpenAI Service powered assistant can augment the creation, optimization and debugging of code in software for factory automationIndustrial AI to enable visual quality inspection on the shop floorSiemens and Microsoft are harnessing the collaborative power of (AI) to help industrial companies drive innovation and efficiency across the design,"
+    publishedDateTime: 2023-04-24T09:42:00Z
+    webUrl: "https://www.newswit.com/en/M5T3"
+    type: article
+    provider:
+      name: academy
+      domain: newswit.com
+    quality: 44
+    images:
+      - url: "https://www.newswit.com/img/f/20230424/c1ff69547c5cca490d95efe7466311a0-0.jpg"
+        width: 1200
+        height: 673
+        isCached: true
   - title: "PricewaterhouseCoopers announces multiyear $1B investment into generative AI"
     excerpt: "PricewaterhouseCoopers LLP announced plans today to invest $1 billion in generative artificial intelligence that will expand its offerings for clients in the U.S. to use the technology to power their businesses."
     publishedDateTime: 2023-04-26T20:46:00Z
@@ -155,6 +169,6 @@ related:
       domain: tmcnet.com
     quality: 19
 
-secured: "rEqgwg8tAJ4c6BQoHHW81lH2e3YvhgvE8trejfq0geh2OtUAKHVweGYI0r77scIvQfql/tTSnIWQ8t7AlDaVHOCtSdu61SSdqBbqoFLfXdxZHpIJ4og4OOXjxeXRpRHfAafQ7zaDx54LGyNhOWTlnhSf+0cXShASmS6SiU5/+xx8FlKtufnigQ8R4BuLohzmdmAIvngjNOA5cCXfBdK9e60wCnzoo6uVBt9E6oRL85ZxqePdKHuAK5VSqP1qIYa4W50YxHZc4Fnc9ItUZSScS+sXc3HZgOXmASId+syla0jUaEfWuB/n942i14E00/YZBKoE/0oCySQbenzlhFjcMtiNmUfWxtlhnmRJmIjd570=;2z25xNBM23zh+19fJwEGag=="
+secured: "CZ6YU8Q/xNL7IByMtsmVDrBNQ73mXBjEbCVjms4mT1oR//n2xEaM85s7wpjpMoivfpqVVCL9JdaGGytJja2kpZXnFgOXp/7rK5z1G2nVD9aM0Gx2Z8Umb9xdLDw9+sAXUrkd4RzCOC2CHPNFQY91gfTxpWJjDgA6fU02w0gkWcxb8KuAry7yYMdqujUkGlJ0/jeaznWPd5fPLz+Yol+f8/fv/i/t7vr14scOCV+x0DD3sbldxHfspRdYxU0eBc9SLLZ5OYkOWNB9O42lSyWqwQVhVqq6zZ/59ebehlnZpac67lMsF7nsjkO3XUuq1PjfRBSMKZsjqRzFjsvxicKHwngr8ZHOt3VE39moOso9SVm3sT9IUh3Iz9vGGOWfAWQrZBHY6j+fka8MlTnKofBWCdp9a+6Kuegr6bxp1WF7b8SYqDVTrOKYPfqFFJDa8E6aBsHBc9Eo0au/4coOdUpui9eZnZDpxVkKN8SyQy8kCmuoyEZfRZVF9l9dYctpDKm1HPJ6cgoP+m7MI1/+pr3JJQ==;/Ig7noXNA6Z5YifztkuexA=="
 ---
 

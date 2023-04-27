@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-03-24-brain-computer-interface-enables-mind-control-of-robot-dog.md",
+      "title": "Brain-Computer Interface Enables Mind Control of Robot Dog",
+      "excerpt": "According to the scientists, their brain-machine interface solution is able to control and command the movement of a robotic dog with 94 percent accuracy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202303/brain-computer-interface-enables-mind-control-of-robot-dog",
+      "originalUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202303/brain-computer-interface-enables-mind-control-of-robot-dog",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-03/pic77155.jpg?itok=kEySPcAo",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202303/brain-computer-interface-enables-mind-control-of-robot-dog?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202303/brain-computer-interface-enables-mind-control-of-robot-dog?amp",
+      "publishedDateTime": "2023-03-23T20:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-24-best-spring-cleaning-robot-vacuum-deals.md",
       "title": "Best spring cleaning robot vacuum deals",
       "excerpt": "The Samsung Jet Bot AI+ robot vacuum has a bunch of cool features, including 30 watts of adjustable suction, 3D object recognition with AI and powerful LiDAR navigation. This robot vacuum can recognize what objects to avoid, so you won't have to deal with ...",
@@ -1376,50 +1419,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-spring-cleaning-deal-score-a-new-robot-vacuum-for-68-off-on-amazon.md",
-      "title": "Spring cleaning deal: Score a new robot vacuum for 68% off on Amazon",
-      "excerpt": "This robot vacuum can recognize what objects to avoid, so you won't have to deal with it constantly crashing into the couch or a pile of laundry on the floor. Have a very specific clean in mind? Mapping can be controlled via your phone. You can even watch ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/essentials/spring-cleaning-deal-score-a-new-robot-vacuum-for-68-off-on-amazon/",
-      "originalUrl": "https://www.cbsnews.com/essentials/spring-cleaning-deal-score-a-new-robot-vacuum-for-68-off-on-amazon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/02/10/fcd3aa53-35d4-44cc-bd52-e1f2bd60712c/thumbnail/640x360/6720cc2b09b7072dbaca6887fd9ac8bb/screen-shot-2023-02-10-at-3-00-08-pm.png#",
-          "width": 415,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/spring-cleaning-deal-score-a-new-robot-vacuum-for-68-off-on-amazon/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/spring-cleaning-deal-score-a-new-robot-vacuum-for-68-off-on-amazon/",
-      "publishedDateTime": "2023-03-15T09:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],
