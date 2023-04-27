@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/data-science-and-machine
 webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-platforms-market-by-product-type-and-consumers-2030-2023-04-25"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -29,24 +29,10 @@ images:
     isCached: true
 
 related:
-  - title: "Deep Learning Camera Market Facts and Figures By 2030"
-    excerpt: "The latest market research report on the Global \"Deep Learning Camera Market\" is segmented by Regions, Country, Company"
-    publishedDateTime: 2023-04-25T12:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-camera-market-facts-and-figures-by-2030-2023-04-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Data Science and Machine-Learning Platforms Market Size and Share Expanding worldwide by 2023"
-    excerpt: "Data Science and Machine-Learning Platforms Market Size 2023 | New Report (130 Pages) | Analytics | In This Reports"
-    publishedDateTime: 2023-04-24T03:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-platforms-market-size-and-share-expanding-worldwide-by-2023-2023-04-23"
+  - title: "Global Data Science and Machine-Learning Platforms Market by [2023-2029] with Revenue Outsourcing"
+    excerpt: "Data Science and Machine-Learning Platforms market wiith the analysis and effects of the Russia-Ukraine War with COVID-19 that ingests business data and presents it in user-friend"
+    publishedDateTime: 2023-04-25T18:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-data-science-and-machine-learning-platforms-market-by-2023-2029-with-revenue-outsourcing-2023-04-25"
     type: article
     provider:
       name: MarketWatch

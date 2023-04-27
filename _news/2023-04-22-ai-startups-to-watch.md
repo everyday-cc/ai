@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 related:
   - title: "AI startup Runway launches app to bring users video-to-video generative AI"

@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Telix Accelerates Artificial Intelligence (AI) Development Program With Acquisition Of Dedicaid"
-excerpt: "(AI) capability with the signing of an agreement to acquire Vienna-based Dedicaid GmbH (Dedicaid), a spin-off of the Medical University Vienna. Dedicaid's core asset is a clinical decision support software (CDSS) AI platform capable of rapidly generating indication-specific CDSS applications from available datasets,"
-publishedDateTime: 2023-04-27T01:48:00Z
-originalUrl: "https://menafn.com/1106107443/Telix-Accelerates-Artificial-Intelligence-AI-Development-Program-With-Acquisition-Of-Dedicaid"
-webUrl: "https://menafn.com/1106107443/Telix-Accelerates-Artificial-Intelligence-AI-Development-Program-With-Acquisition-Of-Dedicaid"
+title: "Telix Accelerates Artificial Intelligence (AI) Development Program with Acquisition of Dedicaid"
+excerpt: "Telix Pharmaceuticals Limited (ASX: TLX, Telix, the Company) today announces the expansion of its artificial intelligence (AI) capability with the signing of an agreement to acquire Vienna-based Dedicaid GmbH (Dedicaid),"
+publishedDateTime: 2023-04-27T00:45:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/telix-accelerates-artificial-intelligence-ai-development-program-with-acquisition-of-dedicaid-1032265571"
+webUrl: "https://markets.businessinsider.com/news/stocks/telix-accelerates-artificial-intelligence-ai-development-program-with-acquisition-of-dedicaid-1032265571"
 type: article
-quality: 42
-heat: 42
+quality: 52
+heat: 62
 published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Healthcare
+  - Machine Learning
   - AI
-
-images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?614072"
-    width: 333
-    height: 250
-    isCached: true
 
 related:
   - title: "Telix Pharmaceuticals Limited: Telix Accelerates Artificial Intelligence (AI) Development Program with Acquisition of Dedicaid"
@@ -35,6 +33,6 @@ related:
       domain: finanznachrichten.de
     quality: 6
 
-secured: "4m9XBiUsItfX5EXp+Xfg2jG4KZTQs32SWwNKABSj4ySFOknqRBiTXpXJEh5uEps2Um8SVCb8MW2y3/mRvCssHgaxJj7oolxGG74uVTytkJPL/mEFV5591oU6mClgDg8y3Q1Q1J+W91IS22+/6AhVxuQL2IL4qSsWUBSDp8Cd8Ofg1YMxGvRemLXOOwQ1EwqTT4kTJFdT6MfhmuG8WxdvgNTWcm+Kw8G5yaTVe/V7I5sSGnjJ+vgru2DO+ktAEwwxNc+erx3M0msiN81y4kpSSIG4gt1ZGqVCoGLO4H02zuiGzAa7qWB8kHYXV0vsRkqWqDAmV6azSDynaxO8ZAxoJXwTZWpm6P44wINNCaQ5Teo=;Mv6cUdMkb8kYWdSAitRptA=="
+secured: "/Dis6QZQ0oHmgdS4cjFxDc5CSo+loPghHV9j9YMugSndXpjfA78Kgdborv2ZiLwf0LGzBfD2IX+kuzmSEvr9jgw65H5xaKep34N+9qAHcOzKONTIee5/nNBk+nYlxRPDkz73M8EDRkp5wYqmCkLqvio3mX0m67QHeszDYorBhIUbd+is5RKO8zoqjOwLAuka/5rhsETumpLaPHpvUK5iMky8mP3WjqkMeBLNPCOjtXnLhqDY9li72Pcp+eGhCg4VqGlJB8aXcrr+tguCGjibwYUQIS5a06Ae5+cXT9iXxDMCjfUHem81BkaOm+CMReyEdxxKcT9tfjwvYYbRgzhTRlFCBT0/wYEgOFBIoHbyr0leptGv5OTqEA4pOjQqG7MUlOUcrppZWSI22jBQ3yG2TcOLHBJ9dBCYtbcD8kGtyqWJFQPF6Ui2DfVFl+vqZc+8V9PLmK3RFmbqnJOIK+iJ1KDKLw6rTRjvktEFOrmGj2A9RiMD16LcFzmW/svk4qaXuwr3+ePj2esuLrvmVXqvNQ==;cn+thDj4PakaIwomHVc8/w=="
 ---
 

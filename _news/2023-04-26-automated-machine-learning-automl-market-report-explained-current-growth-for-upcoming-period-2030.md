@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/automated-machine-learni
 webUrl: "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-report-explained-current-growth-for-upcoming-period-2030-2023-04-26"
 type: article
 quality: 85
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Self-Driving Truck Technology Market 2023 Expected to Reach Significant Rate by 2030"
+    excerpt: "A recent study report titled \"Self-Driving Truck Technology Market\" offers a thorough analysis of the market's"
+    publishedDateTime: 2023-04-25T14:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-truck-technology-market-2023-expected-to-reach-significant-rate-by-2030-2023-04-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "6gCzXMhZz7tUvhPkdPXDtAZCx2id0yxhTFebOh/CgTFekarrz6TtKDcyE1wEcrHlnV1VvQCgMAxynpsBPB9PixypG48zcPYvGjbawEXQZ30cWjspQwlprujDpcoH3pb5+RPrQdjcdqzPUoYgwdME/ZwTcIQzJbjiRz/X8K6XUSu7nutUYjsUq1SJ4euremkmCcwhQ0RuRicnJ90jpqp93Wa0G0maB5HxN2fFcKl3fCJgThLsXSRKsxMv3omr04OeC2gHKSdpv/JVFoklkvf8f0kYfvncLfOlcMIHmklm6z5BPCk9KGgpISuJb5ZeP9Hwk0Hgaaj5ANkpKS61/D3RPdAmKa1kJKGDw25hYebkUIU=;3d19wOAb4fK2taqkEqxPnw=="
 ---

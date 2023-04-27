@@ -22,6 +22,20 @@ topics:
   - AI
 
 related:
+  - title: "Global \"Artificial Intelligence (AI) Chips Market\" Set to Boom in the Near Future 2023-2030"
+    excerpt: "Chips Market\" information for each competitor includes (Qualcomm, Mythic, Adapteva, Advanced Micro Devices (AMD), Google Inc., NVIDIA, Intel Corporation, UC-Davis, Graphcore, Baidu) Company Profile, Main Business Information,"
+    publishedDateTime: 2023-04-26T15:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chips-market-set-to-boom-in-the-near-future-2023-2030-2023-04-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 89
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) Chip Market New Development Strategy [2023-2030]| Fully Explained"
     excerpt: "The \"Artificial Intelligence (AI) Chip Market\" Report covers the global and regional market with an in-depth analysis"
     publishedDateTime: 2023-04-25T11:01:00Z
@@ -31,20 +45,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 87
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI Accelerator Chip Market Demand by 2030"
-    excerpt: "The latest market research report on the Global \"AI Accelerator Chip Market\" is segmented by Regions, Country, Company"
-    publishedDateTime: 2023-04-26T12:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-accelerator-chip-market-demand-by-2030-2023-04-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 84
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -64,34 +64,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Face Recognition Software Market New Development Strategy [2023-2030]| Fully Explained"
-    excerpt: "The \"Face Recognition Software Market\" Report covers the global and regional market with an in-depth analysis of"
-    publishedDateTime: 2023-04-25T10:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-software-market-new-development-strategy-2023-2030-fully-explained-2023-04-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 76
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Automotive Artificial Intelligence Market Business Report [2023-2030]"
-    excerpt: "In 2023,Automotive Artificial Intelligence Market with technical and procedural infrastructure that gathers and"
-    publishedDateTime: 2023-04-25T18:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-business-report-2023-2030-2023-04-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "2023-2030 Global Artificial Intelligence (AI) in Agriculture Market is Growing Rapidly with Emerging Pattern"
     excerpt: "Artificial Intelligence (AI) in Agriculture Market Research Report give analysis of industry development growth opportunities, Trend till 2029. Artificial Intelligence (AI) in Agriculture Market detailed analysis of business is mainly cover by Application [ Precision Farming,"
     publishedDateTime: 2023-04-25T15:10:00Z
@@ -106,29 +78,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Software Market 2023-2030| Discover Industry Scope and Opportunities"
-    excerpt: "The \"Artificial Intelligence Software Market\" Report covers the global and regional market with an in-depth analysis of"
-    publishedDateTime: 2023-04-24T02:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-software-market-2023-2030-discover-industry-scope-and-opportunities-2023-04-23"
+  - title: "2023, Insights and Predictions for the Global Artificial intelligence (AI) in Supply Chain and Logistics Market Future"
+    excerpt: "Artificial intelligence (AI) in Supply Chain and Logistics Market Size 2023 | New Report (105 Pages) | Analytics | In"
+    publishedDateTime: 2023-04-24T03:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-insights-and-predictions-for-the-global-artificial-intelligence-ai-in-supply-chain-and-logistics-market-future-2023-04-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Self-Driving Truck Technology Market 2023 Expected to Reach Significant Rate by 2030"
-    excerpt: "A recent study report titled \"Self-Driving Truck Technology Market\" offers a thorough analysis of the market's"
-    publishedDateTime: 2023-04-25T14:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-truck-technology-market-2023-expected-to-reach-significant-rate-by-2030-2023-04-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
+    quality: 60
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

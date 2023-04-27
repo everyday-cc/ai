@@ -113,6 +113,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Automotive Artificial Intelligence Market Business Report [2023-2030]"
+    excerpt: "In 2023,Automotive Artificial Intelligence Market with technical and procedural infrastructure that gathers and"
+    publishedDateTime: 2023-04-25T18:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-business-report-2023-2030-2023-04-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Software Market 2023-2030| Discover Industry Scope and Opportunities"
+    excerpt: "The \"Artificial Intelligence Software Market\" Report covers the global and regional market with an in-depth analysis of"
+    publishedDateTime: 2023-04-24T02:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-software-market-2023-2030-discover-industry-scope-and-opportunities-2023-04-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Speech and Voice Recognition Market Size 2023 Will Grow Rapidly Another Level in The Forthcoming Year"
     excerpt: "Speech and Voice Recognition Market Size 2023 | New Report (106 Pages) | Analytics | In This Reports Speech and"
     publishedDateTime: 2023-04-24T03:41:00Z

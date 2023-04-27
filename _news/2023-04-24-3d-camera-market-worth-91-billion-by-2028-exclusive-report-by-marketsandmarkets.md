@@ -25,10 +25,24 @@ images:
     isCached: true
 
 related:
-  - title: "Autonomous Delivery Robots Market 2023-2031"
-    excerpt: "What is the Autonomous Delivery Robots market growth? Autonomous Delivery Robots Market Size is projected to Reach Multimillion USD by 2030, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2030."
-    publishedDateTime: 2023-04-25T10:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/autonomous-delivery-robots-market-2023-2031-2023-04-25"
+  - title: "AI Accelerator Chip Market Demand by 2030"
+    excerpt: "The latest market research report on the Global \"AI Accelerator Chip Market\" is segmented by Regions, Country, Company"
+    publishedDateTime: 2023-04-26T12:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-accelerator-chip-market-demand-by-2030-2023-04-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Deep Learning Camera Market Facts and Figures By 2030"
+    excerpt: "The latest market research report on the Global \"Deep Learning Camera Market\" is segmented by Regions, Country, Company"
+    publishedDateTime: 2023-04-25T12:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-camera-market-facts-and-figures-by-2030-2023-04-25"
     type: article
     provider:
       name: MarketWatch
@@ -39,15 +53,29 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-Driving Robots Market Expected to Reach USD 1423.6 Mn over the forecast period, at a CAGR of 15.23 percent (2023-2029)"
-    excerpt: "The latest report on the global self-driving robots' market has projected its market size to reach USB 1423.6 Mn by 2029 from USD 457.9 Mn in 2021, at a CAGR of 15.23 percent during the forecast period."
-    publishedDateTime: 2023-04-26T11:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-robots-market-expected-to-reach-usd-14236-mn-over-the-forecast-period-at-a-cagr-of-1523-percent-2023-2029-2023-04-26"
+  - title: "Artificial Intelligence Chip Market Outlook, Size, Prominent Players, Share, Revenue, and Forecast 2023 to 2031"
+    excerpt: "Artificial Intelligence Chip Market [NEW REPORT 2023] offers a whole overview of the present-day market kingdom of affairs and affords a forecast until 2031. This report provides a balanced mix of qualitative and quantitative data that highlights imperative market developments,"
+    publishedDateTime: 2023-04-25T06:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-outlook-size-prominent-players-share-revenue-and-forecast-2023-to-2031-2023-04-25"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 28
+    quality: 66
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Enterprise Artificial Intelligence Market 2023 Holding Highest CAGR by 2030"
+    excerpt: "The Enterprise Artificial Intelligence Market Scope and Overview Report for 2023 presents a detailed analysis of the"
+    publishedDateTime: 2023-04-24T06:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-enterprise-artificial-intelligence-market-2023-holding-highest-cagr-by-2030-2023-04-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

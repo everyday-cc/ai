@@ -240,6 +240,20 @@ related:
         width: 2560
         height: 1631
         isCached: true
+  - title: "What Can ChatGPT Tell Us About the Evolution of Artificial Intelligence?"
+    excerpt: "In the last decade, artificial intelligence (AI) has elicited both dreams of a massive transformation in the tech industry  and a deep anxiety surrounding its potential ramifications. Elon Musk, a leading voice in the tech industry,"
+    publishedDateTime: 2023-04-26T16:07:00Z
+    webUrl: "https://www.unite.ai/what-can-chatgpt-tell-us-about-the-evolution-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 40
+    images:
+      - url: "https://www.unite.ai/wp-content/uploads/2023/04/evolution-ai-896x600.png"
+        width: 896
+        height: 600
+        isCached: true
   - title: "Let’s chat about AI: How design and construction firms are using ChatGPT"
     excerpt: "Tech-savvy AEC firms that already use artificial intelligence to enhance their work view the startling evolution of ChatGPT mostly in a positive light as a potential tool for sharing information and training employees and trade partners."
     publishedDateTime: 2023-04-26T16:21:00Z
@@ -253,20 +267,6 @@ related:
       - url: "https://www.bdcnetwork.com/sites/bdc/files/Suffolk%20WINT.jpeg"
         width: 1800
         height: 1200
-        isCached: true
-  - title: "What Can ChatGPT Tell Us About the Evolution of Artificial Intelligence?"
-    excerpt: "In the last decade, artificial intelligence (AI) has elicited both dreams of a massive transformation in the tech industry  and a deep anxiety surrounding its potential ramifications. Elon Musk, a leading voice in the tech industry,"
-    publishedDateTime: 2023-04-26T16:07:00Z
-    webUrl: "https://www.unite.ai/what-can-chatgpt-tell-us-about-the-evolution-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 38
-    images:
-      - url: "https://www.unite.ai/wp-content/uploads/2023/04/evolution-ai-896x600.png"
-        width: 896
-        height: 600
         isCached: true
   - title: "ChatGPT craze drives domestic innovation"
     excerpt: "\"Technologies behind ChatGPT are not new to market players, but ChatGPT represents how AI has evolved and progressed over the past few years. Also, it demonstrates the popularity of the NLP market and brings forward the market one to two years,"
@@ -295,20 +295,6 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
-        isCached: true
-  - title: "4 of The Best Speech to Text Extensions to Talk to ChatGPT Using Your Voice"
-    excerpt: "I personally do not agree with the decision to ban ChatGPT or any other technology for that matter. Bans do not work and students will always find ways to circumvent them (e.g., u"
-    publishedDateTime: 2023-04-22T15:01:00Z
-    webUrl: "https://www.educatorstechnology.com/2023/04/4-of-best-speech-to-text-extensions-to.html"
-    type: article
-    provider:
-      name: Educational Technology and Mobile Learning
-      domain: educatorstechnology.com
-    quality: 22
-    images:
-      - url: "https://lh3.googleusercontent.com/blogger_img_proxy/AByxGDTcpP6EWkQVaiWwmYsWK9vqOAUkmmiVLU0e4wIWwBmDNhNfTtFQyhY7pqX9R0Grd4yMcxqLuCl-i2dWrvT5P4Y4Yh9E58e5MivLixEBcmARzvkFKXBXXwFjvbxPdZtOuV4pIi451Q=w1200-h630-p-k-no-nu"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Le Bonheur Children's Hospital fellow publishes journal article on chatbots written by ChatGPT"
     excerpt: "The use of chatbots and natural language processing technology, such as ChatGPT, has the potential to change the future of medical writing —with some caveats— says Som Biswas, MD, a Radiology fellow at Le Bonheur Children's Hospital and the University of Tennessee Health Science Center,"

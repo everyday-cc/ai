@@ -39,6 +39,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Wallaroo.AI, VMware to Provide Unified Edge ML/AI Deployment for Telco"
+    excerpt: "Wallaroo.AI and VMware announced a strategic agreement to provide the first unified edge ML/artificial intelligence (AI)"
+    publishedDateTime: 2023-04-27T07:33:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/31764-wallaroo-ai-vmware-to-provide-unified-edge-ml-ai-deployment-for-telco"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 56
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/cc9514407c397ee625247559afa7af73.jpg?t=20230427_065544"
+        width: 752
+        height: 408
+        isCached: true
   - title: "Wallaroo.AI and VMware Partner to Speed the Deployment of 5G Edge Machine Learning for Telco"
     excerpt: "Wallaroo.AI, the leader in operationalizing machine learning to ROI in the cloud, in decentralized networks, and at the edge, and VMware, which enables organizations to build, run, manage, connect, and protect edge-native applications with VMware Edge Compute Stack,"
     publishedDateTime: 2023-04-24T12:39:00Z

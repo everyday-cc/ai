@@ -6,7 +6,7 @@ publishedDateTime: 2023-04-27T02:08:00Z
 originalUrl: "https://www.thehansindia.com/hans/opinion/news-analysis/using-ai-as-a-virtual-financial-adviser-794830"
 webUrl: "https://www.thehansindia.com/hans/opinion/news-analysis/using-ai-as-a-virtual-financial-adviser-794830"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://assets.thehansindia.com/h-upload/2023/04/27/1348768-ai.jpg"

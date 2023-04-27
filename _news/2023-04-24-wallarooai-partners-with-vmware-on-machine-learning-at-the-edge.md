@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2023/04/24/wallaroo-ai-partners-vmware-ma
 webUrl: "https://siliconangle.com/2023/04/24/wallaroo-ai-partners-vmware-machine-learning-edge/"
 type: article
 quality: 56
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Wallaroo.AI, VMware to Provide Unified Edge ML/AI Deployment for Telco"
+    excerpt: "Wallaroo.AI and VMware announced a strategic agreement to provide the first unified edge ML/artificial intelligence (AI)"
+    publishedDateTime: 2023-04-27T07:33:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/31764-wallaroo-ai-vmware-to-provide-unified-edge-ml-ai-deployment-for-telco"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 56
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/cc9514407c397ee625247559afa7af73.jpg?t=20230427_065544"
+        width: 752
+        height: 408
+        isCached: true
   - title: "AI Is Coming for Wealth Management. Here’s What That Means"
     excerpt: "AI will allow the client to access an incredible amount of information and ask questions in a language that the client is comfortable with and receive answers. For practitioners, the limitation it will have will be in researching what is happening today with that company,"
     publishedDateTime: 2023-04-24T13:33:00Z
