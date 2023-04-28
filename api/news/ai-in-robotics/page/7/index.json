@@ -2,6 +2,50 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-02-24-teslas-new-engineering-hq-in-california-will-focus-on-ai-and-robotics.md",
+      "title": "Tesla’s new engineering HQ in California will focus on AI and robotics",
+      "excerpt": "Tesla recently announced its plans to expand its engineering center in California. Elon Musk, its founder, has now hinted that the upcoming facility will focus mainly on developing its AI capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://interestingengineering.com/innovation/teslas-new-hq-ai-robotics",
+      "originalUrl": "https://interestingengineering.com/innovation/teslas-new-hq-ai-robotics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dnd2oi6izkvoi.cloudfront.net/2023/02/24/image/jpeg/h1XTCmeKK7kKgWtz5my1qFvBDqgC04Vy2fzcnm2Y.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-24T07:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Interesting Engineering",
+        "domain": "interestingengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-02-24-reaching-like-an-octopus-a-biology-inspired-model-opens-the-door-to-soft-robot-control.md",
       "title": "Reaching like an octopus: A biology-inspired model opens the door to soft robot control",
       "excerpt": "\"Our model, the first of its kind, not only provides insight into the biological problem, but a framework for design and control of soft robots going forward,\" Mehta said. The impressive ...",
@@ -1302,58 +1346,6 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-02-16-ai-innovations-in-retail-demand-effective-data-strategies.md",
-      "title": "AI innovations in retail demand effective data strategies",
-      "excerpt": "AI’s transformative powers are being realized across industries ... This gives the machine learning algorithm a “head start” by using a larger dataset to identify common traits, like what a human looks like, or what shapes they are made up of.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ai-innovations-in-retail-demand-effective-data-strategies/",
-      "originalUrl": "https://venturebeat.com/ai/ai-innovations-in-retail-demand-effective-data-strategies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/11/GettyImages-1362495625.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/ai-innovations-in-retail-demand-effective-data-strategies/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-innovations-in-retail-demand-effective-data-strategies/amp/",
-      "publishedDateTime": "2023-02-15T20:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

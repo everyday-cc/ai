@@ -2,6 +2,315 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-04-27-write-long-form-content-in-seconds-with-half-off-this-leading-ai-tool.md",
+      "title": "Write long-form content in seconds with half off this leading AI tool",
+      "excerpt": "Wordplay AI Content Generator overhauls your content marketing and a lifetime subscription price is now half off.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ai-tool-write-longform-content/",
+      "originalUrl": "https://www.techrepublic.com/article/ai-tool-write-longform-content/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2023/04/Wordplay.jpg",
+          "width": 781,
+          "height": 515,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/article/ai-tool-write-longform-content/amp/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/ai-tool-write-longform-content/amp/",
+      "publishedDateTime": "2023-04-27T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-27-teslas-price-cuts-slow-a-rival-in-the-race-to-deliver-self-driving-tech.md",
+      "title": "Tesla’s Price Cuts Slow a Rival in the Race to Deliver Self-Driving Tech",
+      "excerpt": "Tesla started cutting prices in China. That same week, shares of rival self-driving technology provider Mobileye surged on their first day of trading following a hotly anticipated IPO. Now Tesla’s pri",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-04-27-2023/card/tesla-s-price-cuts-slow-a-rival-in-the-race-to-deliver-self-driving-tech-pO1vq8GciuAVLeQdmojo",
+      "originalUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-04-27-2023/card/tesla-s-price-cuts-slow-a-rival-in-the-race-to-deliver-self-driving-tech-pO1vq8GciuAVLeQdmojo",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-771268?width=600",
+          "width": 600,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-27T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-27-developers-embrace-ai-tools-but-face-big-code-challenges-survey-finds.md",
+      "title": "Developers embrace AI Tools but face ‘Big Code’ challenges, survey finds",
+      "excerpt": "A new report from Sourcegraph warns Big Code will hit crisis mode if companies don't get a handle on how their developers use AI at work.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/developers-embrace-ai-tools-but-face-big-code-challenges-survey-finds/",
+      "originalUrl": "https://venturebeat.com/ai/developers-embrace-ai-tools-but-face-big-code-challenges-survey-finds/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/04/Screenshot-2023-04-27-at-1.35.41-AM-e1682604857405.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/developers-embrace-ai-tools-but-face-big-code-challenges-survey-finds/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/developers-embrace-ai-tools-but-face-big-code-challenges-survey-finds/amp/",
+      "publishedDateTime": "2023-04-27T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-27-improve-multi-hop-reasoning-in-llms-by-learning-from-rich-human-feedback.md",
+      "title": "Improve multi-hop reasoning in LLMs by learning from rich human feedback",
+      "excerpt": "Recent large language models (LLMs) have enabled tremendous progress in natural language understanding. However, they are prone to generating confident but nonsensical explanations, which poses a significant obstacle to establishing trust with users. In this post, we show how to incorporate human feedback",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/improve-multi-hop-reasoning-in-llms-by-learning-from-rich-human-feedback/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/improve-multi-hop-reasoning-in-llms-by-learning-from-rich-human-feedback/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/04/19/arch.png",
+          "width": 879,
+          "height": 377,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-27T08:52:53-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-27-snapchats-new-ai-chatbot-is-already-raising-alarms-among-teens-and-parents.md",
+      "title": "Snapchat's new AI chatbot is already raising alarms among teens and parents",
+      "excerpt": "Less than a few hours after Snapchat rolled out its My AI chatbot to all users last week, Lyndsi Lee, a mother from East Prairie, Missouri, told her 13-year-old daughter to stay away from the feature.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/04/27/tech/snapchat-my-ai-concerns-wellness/index.html",
+      "originalUrl": "https://www.cnn.com/2023/04/27/tech/snapchat-my-ai-concerns-wellness/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/230426123404-snapchat-app-restricted-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/04/27/tech/snapchat-my-ai-concerns-wellness/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/04/27/tech/snapchat-my-ai-concerns-wellness/index.html",
+      "publishedDateTime": "2023-04-27T08:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-27-how-to-extend-the-functionality-of-aws-trainium-with-custom-operators.md",
+      "title": "How to extend the functionality of AWS Trainium with custom operators",
+      "excerpt": "Deep learning (DL) is a fast-evolving field, and practitioners are constantly innovating DL models and inventing ways to speed them up. Custom operators are one of the mechanisms developers use to push the boundaries of DL innovation by extending the functionality of existing machine learning (ML) frameworks",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-to-extend-the-functionality-of-aws-trainium-with-custom-operators/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-to-extend-the-functionality-of-aws-trainium-with-custom-operators/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/04/27/extend-functionality-aws-trainium-custom-operators.jpg",
+          "width": 959,
+          "height": 477,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-27T08:30:05-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-27-ai-startup-pinecone-raises-100-million-as-vector-database-market-for-llms-heats-up.md",
       "title": "AI startup Pinecone raises $100 million as vector database market for LLMs heats up",
       "excerpt": "Vector database leader Pinecone announced today that it has raised $100 million at a $750 million valuation, led by Andreessen Horowitz.",
@@ -515,7 +824,7 @@
       "originalUrl": "https://www.huffpost.com/entry/spotify-ceo-daniel-ek-artificial-intelligence_n_644a26d2e4b039ec4e8319b6",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -939,307 +1248,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-zuckerberg-says-meta-will-add-generative-ai-to-all-its-products.md",
-      "title": "Zuckerberg Says Meta Will Add Generative AI To All Its Products",
-      "excerpt": "During Meta’s Q1 earnings call, CEO Mark Zuckerberg outlined to investors when and how the company expects to integrate generative AI into its products. But don’t call this a pivot away from the metav",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johanmoreno/2023/04/26/zuckerberg-says-meta-will-add-generative-ai-to-all-its-products/",
-      "originalUrl": "https://www.forbes.com/sites/johanmoreno/2023/04/26/zuckerberg-says-meta-will-add-generative-ai-to-all-its-products/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6449e51aced99251e6bfa396/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johanmoreno/2023/04/26/zuckerberg-says-meta-will-add-generative-ai-to-all-its-products/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/04/26/zuckerberg-says-meta-will-add-generative-ai-to-all-its-products/amp/",
-      "publishedDateTime": "2023-04-26T20:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-the-ascendancy-of-ai-in-asias-financial-services-industry.md",
-      "title": "The Ascendancy Of AI In Asia’s Financial Services Industry",
-      "excerpt": "As AI matures and becomes more widely integrated into business operations, this trend is set to accelerate At the same time, both the financial industry and regulators know that there are challenges and risks associated with AI that must be addressed Indeed,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/zennonkapron/2023/04/26/the-ascendancy-of-ai-in-asias-financial-services-industry/",
-      "originalUrl": "https://www.forbes.com/sites/zennonkapron/2023/04/26/the-ascendancy-of-ai-in-asias-financial-services-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6445de39b964f059b2fa527d/0x0.jpg?format=jpg&width=1200",
-          "width": 800,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/zennonkapron/2023/04/26/the-ascendancy-of-ai-in-asias-financial-services-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zennonkapron/2023/04/26/the-ascendancy-of-ai-in-asias-financial-services-industry/amp/",
-      "publishedDateTime": "2023-04-26T18:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-samsungs-profit-plunges-to-14-year-low-from-heavy-loss-by-chip-division.md",
-      "title": "Samsung's profit plunges to 14-year low from heavy loss by chip division",
-      "excerpt": "Samsung's Device Solutions Division, its chip division, reported a steep operating loss of 4.58 trillion won. The company said the performance of its memory chip business fell sig",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/samsungs-profit-plunges-to-14-year-low-from-heavy-loss-by-chip-division/",
-      "originalUrl": "https://www.zdnet.com/article/samsungs-profit-plunges-to-14-year-low-from-heavy-loss-by-chip-division/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/fly/bundles/zdnetcore/images/logos/zdnet-logo-yellow.png",
-          "width": 480,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/samsungs-profit-plunges-to-14-year-low-from-heavy-loss-by-chip-division/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/samsungs-profit-plunges-to-14-year-low-from-heavy-loss-by-chip-division/",
-      "publishedDateTime": "2023-04-26T18:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-telix-accelerates-artificial-intelligence-ai-development-program-with-acquisition-of-dedicaid.md",
-      "title": "Telix Accelerates Artificial Intelligence (AI) Development Program with Acquisition of Dedicaid",
-      "excerpt": "Telix Pharmaceuticals Limited (ASX: TLX, Telix, the Company) today announces the expansion of its artificial intelligence (AI) capability with the signing of an agreement to acquire Vienna-based Dedicaid GmbH (Dedicaid),",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/telix-accelerates-artificial-intelligence-ai-development-program-with-acquisition-of-dedicaid-1032265571",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/telix-accelerates-artificial-intelligence-ai-development-program-with-acquisition-of-dedicaid-1032265571",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-26T17:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-deepminds-latest-research-at-iclr-2023.md",
-      "title": "DeepMind’s latest research at ICLR 2023",
-      "excerpt": "Next week marks the start of the 11th International Conference on Learning Representations (ICLR), taking place 1-5 May in Kigali, Rwanda. This will be the first major artificial intelligence (AI) conference to be hosted in Africa and the first in-person event since the start of the pandemic. Researchers",
-      "sourceUrl": null,
-      "webUrl": "https://www.deepmind.com/blog/deepminds-latest-research-at-iclr-2023",
-      "originalUrl": "https://www.deepmind.com/blog/deepminds-latest-research-at-iclr-2023",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets-global.website-files.com/621e749a546b7592125f38ed/644a5309537e5d50d2de4a5e_deepmind-lISkvdgfLEk%20(1).jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-26T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-muslims-come-into-the-frame-in-southeast-asias-fintech-boom.md",
-      "title": "Muslims come into the frame in Southeast Asia’s fintech boom",
-      "excerpt": "who was a corporate lawyer before she became a shariah fintech specialist. Right now, when an instrument comes from a conventional financial institution, PayHalal feeds it into its AI-based non-shariah compliance screening tool. The tool then suggests ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/04/27/muslims-come-into-the-frame-in-southeast-asias-fintech-boom/",
-      "originalUrl": "https://techcrunch.com/2023/04/27/muslims-come-into-the-frame-in-southeast-asias-fintech-boom/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/04/sea-money-map.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/04/27/muslims-come-into-the-frame-in-southeast-asias-fintech-boom/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/04/27/muslims-come-into-the-frame-in-southeast-asias-fintech-boom/amp/",
-      "publishedDateTime": "2023-04-26T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

@@ -2,6 +2,426 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2023-04-13-artificial-intelligence-in-health-care-new-product-acts-as-copilot-for-doctors.md",
+      "title": "Artificial intelligence in health care: New product acts as 'copilot for doctors'",
+      "excerpt": "Washington, D.C. – America’s medical community appears to be embracing artificial intelligence products in an effort to speed up patient care and prevent burnout among health care professionals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/health/artificial-intelligence-health-care-new-product-acts-copilot-doctors",
+      "originalUrl": "https://www.foxnews.com/health/artificial-intelligence-health-care-new-product-acts-copilot-doctors",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/10/340/340/Meredith_Mark_OFFICIAL.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/health/artificial-intelligence-health-care-new-product-acts-copilot-doctors.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/artificial-intelligence-health-care-new-product-acts-copilot-doctors.amp",
+      "publishedDateTime": "2023-04-13T07:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-13-sophisticated-ai-robot-speaks-several-languages-in-disturbing-footage.md",
+      "title": "Sophisticated AI robot speaks several languages in disturbing footage",
+      "excerpt": "Disturbing footage shows a highly-advanced AI robot speaking several languages. Ameca is a robot developed by UK startup Engineered Arts, who describe the robot as the “world’s most advanced ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/sophisticated-ai-robot-speaks-several-054650924.html",
+      "originalUrl": "https://www.aol.com/sophisticated-ai-robot-speaks-several-054650924.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.zenfs.com/en/aol_the_independent_uk_548/b54fd902279682f3aebe46b948550b8f",
+          "width": 1200,
+          "height": 677,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-13T07:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-13-natural-language-processing-nlp-market-2023-2029global-report-forecast.md",
+      "title": "Natural Language Processing (NLP) Market 2023-2029|Global Report Forecast",
+      "excerpt": "Natural Language Processing (NLP) Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2023-2029global-report-forecast-2023-04-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2023-2029global-report-forecast-2023-04-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-13T07:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-13-putin-and-xi-seek-to-weaponize-artificial-intelligence-against-america.md",
+      "title": "Putin and Xi seek to weaponize Artificial Intelligence against America",
+      "excerpt": "Russia's Putin and China's Xi seek to weaponize artificial intelligence against America and dominate the world as the Biden administration ponders hitting the brakes on AI",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/opinion/putin-xi-seek-weaponize-artificial-intelligence-against-america",
+      "originalUrl": "https://www.foxnews.com/opinion/putin-xi-seek-weaponize-artificial-intelligence-against-america",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/39b9bfbe-9556-462f-bf6a-a645426e701e/4af56975-0b7e-4a1d-9d54-31a23a484ae7/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/opinion/putin-xi-seek-weaponize-artificial-intelligence-against-america.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/putin-xi-seek-weaponize-artificial-intelligence-against-america.amp",
+      "publishedDateTime": "2023-04-13T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-04-13-artificial-intelligence-market-in-2023unlocking-promising-opportunities-by-2030.md",
+      "title": "Artificial Intelligence Market in 2023|Unlocking Promising Opportunities by 2030",
+      "excerpt": "Apr 13, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry. This report conducts a",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-in-2023unlocking-promising-opportunities-by-2030-2023-04-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-in-2023unlocking-promising-opportunities-by-2030-2023-04-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-13T06:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-13-5-takeaways-from-the-early-days-of-ibm-partner-plus.md",
+      "title": "5 takeaways from the early days of IBM Partner Plus",
+      "excerpt": "The past three months have been transformative for the IBM Ecosystem. Our investment in the ecosystem is deeper than ever before, and momentum is accelerating across all partner types as they continue to scale and innovate. This demonstrates their commitment to clients, deep expertise and hunger to collaborate",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/partner-plus-takeaways/",
+      "originalUrl": "https://www.ibm.com/blog/partner-plus-takeaways/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-13T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-13-how-to-build-a-decision-tree-model-in-ibm-db2.md",
+      "title": "How to build a decision tree model in IBM Db2",
+      "excerpt": "After developing a machine learning model, you need a place to run your model and serve predictions. Here is how I build such a model in IBM Db2.\nThe post How to build a decision tree model in IBM Db2 appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-to-build-a-decision-tree-model-in-ibm-db2/",
+      "originalUrl": "https://www.ibm.com/blog/how-to-build-a-decision-tree-model-in-ibm-db2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-13T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-13-can-ai-answer-your-money-questions-we-put-chatbots-to-the-test.md",
+      "title": "Can AI answer your money questions? We put chatbots to the test",
+      "excerpt": "Face it, we could all use a little help with our money. So who better to ask for personal finance advice than a couple of the most powerful chatbots on the planet?",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/markets/wealth/can-ai-answer-your-money-questions-we-put-chatbots-test-2023-04-13/",
+      "originalUrl": "https://www.reuters.com/markets/wealth/can-ai-answer-your-money-questions-we-put-chatbots-test-2023-04-13/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/jNVRinp2T_SXac_4KvfiD0LjfVA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5MBSSC3XD5ORJMYHLNP4RJMSVI.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-13T05:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-13-wimi-develops-a-3d-object-recognition-system-based-on-multi-view-feature-fusion.md",
+      "title": "WiMi Develops a 3D Object Recognition System Based on Multi-View Feature Fusion",
+      "excerpt": "BEIJING, April 13, 2023 /PRNewswire/ -- WiMi Hologram Cloud Inc. (NASDAQ: WIMI) (\"WiMi\" or the \"Company\"), a leading global Hologram Augmented Reality (\"AR\") Technology provider, today announced the development of a 3D object recognition system based on ...",
+      "sourceUrl": null,
+      "webUrl": "https://stockhouse.com/news/press-releases/2023/04/13/wimi-develops-a-3d-object-recognition-system-based-on-multi-view-feature-fusion",
+      "originalUrl": "https://stockhouse.com/news/press-releases/2023/04/13/wimi-develops-a-3d-object-recognition-system-based-on-multi-view-feature-fusion",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-13T05:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stockhouse",
+        "domain": "stockhouse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-13-top-3-considerations-for-adopting-rise-with-sap-to-modernize-your-operations.md",
       "title": "Top 3 considerations for adopting RISE with SAP to modernize your operations",
       "excerpt": "Organizations are increasingly seeking more choice and flexibility as they modernize their mission-critical workloads. But each organization is at a different point and has different goals when transforming their businesses and modernizing their SAP environments. Some organizations are looking to improve",
@@ -712,375 +1132,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-12-siemens-and-microsoft-drive-industrial-productivity-with-generative-artificial-intelligence.md",
-      "title": "Siemens and Microsoft Drive Industrial Productivity with Generative Artificial Intelligence",
-      "excerpt": "Siemens’ new Teamcenter app for Microsoft Teams will use AI, boosting productivity and innovation throughout a product lifecycle.",
-      "sourceUrl": null,
-      "webUrl": "https://www.automation.com/en-us/articles/april-2023/siemens-microsoft-drive-industrial-productivity-ai",
-      "originalUrl": "https://www.automation.com/en-us/articles/april-2023/siemens-microsoft-drive-industrial-productivity-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.automation.com/getmedia/fee1f616-d082-4142-8ab5-acad3d9c662c/Siemens_news_April_12_2023_500x313-web.jpg?width=500&height=313&ext=.jpg",
-          "width": 500,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-12T09:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automation",
-        "domain": "automation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-12-how-games24x7-transformed-their-retraining-mlops-pipelines-with-amazon-sagemaker.md",
-      "title": "How Games24x7 transformed their retraining MLOps pipelines with Amazon SageMaker",
-      "excerpt": "This is a guest blog post co-written with Hussain Jagirdar from Games24x7. Games24x7 is one of India’s most valuable multi-game platforms and entertains over 100 million gamers across various skill games. With “Science of Gaming” as their core philosophy, they have enabled a vision of end-to-end informatics",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-games24x7-transformed-their-retraining-mlops-pipelines-with-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-games24x7-transformed-their-retraining-mlops-pipelines-with-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-12T09:03:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-12-esports-market-to-hit-447-billion-by-2030-cognitive-market-research.md",
-      "title": "eSports Market to Hit $4.47 Billion by 2030: Cognitive Market Research",
-      "excerpt": "The Global eSports Market size is valued at USD 1.42 Billion in 2022 and is projected to be USD 4.47 Billion by 2030, growing at a CAGR of 17.8% from",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2023-04/58797559-esports-market-to-hit-dollar-4-47-billion-by-2030-cognitive-market-research-008.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2023-04/58797559-esports-market-to-hit-dollar-4-47-billion-by-2030-cognitive-market-research-008.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1989016/Cognitive_Market_Research_Logo.jpg",
-          "width": 357,
-          "height": 227,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-12T07:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-12-up-fintech-unveils-tigergpt-the-industrys-first-ai-investment-assistant.md",
-      "title": "Up Fintech Unveils TigerGPT, the Industry's First AI Investment Assistant",
-      "excerpt": "TigerGPT, a text-generating AI chatbot developed among UP Fintech's vast internet services, is introduced as the first deployment of an AI investment assistant in the industry. The feature, now in user testing and soon to be rolled out on the flagship",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmswire.com/the-wire/up-fintech-unveils-tigergpt-the-industrys-first-ai-investment-assistant/",
-      "originalUrl": "https://www.cmswire.com/the-wire/up-fintech-unveils-tigergpt-the-industrys-first-ai-investment-assistant/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-12T07:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-12-hankook-company-partners-with-aws-snowflake-for-ai-platform.md",
-      "title": "Hankook & Company Partners with AWS, Snowflake for AI Platform",
-      "excerpt": "Company seeks to establish a data-driven culture and create more business value by enhancing data accessibility.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aftermarketnews.com/hankook-company-partners-with-aws-snowflake-for-ai-data-platform/",
-      "originalUrl": "https://www.aftermarketnews.com/hankook-company-partners-with-aws-snowflake-for-ai-data-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s19538.pcdn.co/wp-content/uploads/2022/07/partnership.jpg",
-          "width": 1400,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-12T06:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "After Market News",
-        "domain": "aftermarketnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-12-speech-and-voice-recognition-market-size-share-revenue-trends-and-drivers-for-2023-2032.md",
-      "title": "Speech And Voice Recognition Market Size, Share, Revenue, Trends And Drivers For 2023-2032",
-      "excerpt": "The Business Research Company's Speech And Voice Recognition Global Market Report 2023 – Market Size, Trends, And Market Forecast 2023-2032 The Business Research Company's global market reports ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105992847/Speech-And-Voice-Recognition-Market-Size-Share-Revenue-Trends-And-Drivers-For-2023-2032",
-      "originalUrl": "https://menafn.com/1105992847/Speech-And-Voice-Recognition-Market-Size-Share-Revenue-Trends-And-Drivers-For-2023-2032",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2023-04/12/EP_c6c5dimage_story.jpeg",
-          "width": 1024,
-          "height": 536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-12T06:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-12-this-robot-is-controlled-by-the-power-of-the-mind.md",
-      "title": "This robot is controlled by the power of the mind",
-      "excerpt": "This four-legged robot responds to commands ... a disabled person could be able to “control” a wheelchair or a prosthetic device simply with their mind. Note that this work is the subject ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.freemalaysiatoday.com/category/leisure/2023/04/12/this-robot-is-controlled-by-the-power-of-the-mind/",
-      "originalUrl": "https://www.freemalaysiatoday.com/category/leisure/2023/04/12/this-robot-is-controlled-by-the-power-of-the-mind/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-12T06:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Free Malaysia Today",
-        "domain": "freemalaysiatoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-12-is-elon-musk-secretly-making-chatgpt-alternative.md",
-      "title": "Is Elon Musk secretly making ChatGPT alternative?",
-      "excerpt": "As per Business Insider, Musk has procured roughly 10,000 GPUs and has recruited AI experts from DeepMind for the project. Though the AI project is still in its early stages, the sizable number of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thenews.com.pk/latest/1059912-is-elon-musk-secretly-making-chatgpt-alternative",
-      "originalUrl": "https://www.thenews.com.pk/latest/1059912-is-elon-musk-secretly-making-chatgpt-alternative",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thenews.com.pk/assets/uploads/updates/2023-04-12/1059912_055750_updates.jpg",
-          "width": 700,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thenews.com.pk/amp/1059912-is-elon-musk-secretly-making-chatgpt-alternative",
-      "cdnAmpWebUrl": "https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/1059912-is-elon-musk-secretly-making-chatgpt-alternative",
-      "publishedDateTime": "2023-04-12T06:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The News International",
-        "domain": "thenews.com.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-12-addressing-the-network-data-monetization-complexities.md",
-      "title": "Addressing the network data monetization complexities",
-      "excerpt": "In our previous blog, we identified the three layers to network data monetization. These were the data layer, the analytics layer and the automation layer. To address the network data value tree successfully, we must address the complexities of these three layers, which are essential for automated operations",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/addressing-the-network-data-monetization-complexities/",
-      "originalUrl": "https://www.ibm.com/blog/addressing-the-network-data-monetization-complexities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-12T05:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

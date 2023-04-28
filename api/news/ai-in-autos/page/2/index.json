@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-04-17-baidu-releases-new-products-to-enhance-intelligent-driving.md",
+      "title": "Baidu Releases New Products To Enhance Intelligent Driving",
+      "excerpt": "Chinese artificial intelligence company Baidu Inc BIDU revealed a series of new products to enhance intelligent driving on Sunday, in a bid to be part of the transition to smarter cars in the future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/23/04/31826546/baidu-releases-new-products-to-enhance-intelligent-driving",
+      "originalUrl": "https://www.benzinga.com/news/23/04/31826546/baidu-releases-new-products-to-enhance-intelligent-driving",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2023/Photo_by_Tim_Foster_on_Unsplash.jpeg?width=1200&height=800&fit=crop",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-17T00:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-17-baidu-shares-drop-to-8-week-lows-after-company-reveals-chatgpt-rival.md",
       "title": "Baidu shares drop to 8-week lows after company reveals ChatGPT rival",
       "excerpt": "Beijing has pushed for national self-sufficiency in tech, while maintaining censorship and increasing regulation of data. Many Chinese companies, other than Baidu, are developing similar tech.",
@@ -1284,58 +1327,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-07-is-elon-musk-at-odds-with-cathie-wood-over-this-artificial-intelligence-issue.md",
-      "title": "Is Elon Musk At Odds With Cathie Wood Over This Artificial Intelligence Issue?",
-      "excerpt": "Artificial intelligence is incredibly exciting ... any human input because they'll be powered by fully autonomous self-driving software -- which, of course, relies on AI. If Tesla stock does ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/04/07/is-elon-musk-cathie-wood-artificial-intelligence/",
-      "originalUrl": "https://www.fool.com/investing/2023/04/07/is-elon-musk-cathie-wood-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/727201/an-artificial-intelligence-deep-learning-concept-overlaid-on-a-persons-side-profile.jpg",
-          "width": 3840,
-          "height": 2160,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-07T04:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-04-15-robot-sophia-stars-at-artificial-intelligence-forum-in-dominican-republic.md",
+      "title": "Robot Sophia stars at artificial intelligence forum in Dominican Republic",
+      "excerpt": "The robot Sophia was the main protagonist at the Global Forum in Casa de Campo (La Romana, eastern Dominican Republic) where the advances and risks posed by artificial intelligence (AI) were discussed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.laprensalatina.com/robot-sophia-stars-at-artificial-intelligence-forum-in-dominican-republic/",
+      "originalUrl": "https://www.laprensalatina.com/robot-sophia-stars-at-artificial-intelligence-forum-in-dominican-republic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.laprensalatina.com/wp-content/uploads/2023/04/f5f380243fc2f1893919f61814c51c7bba7e37f6w-1024x683.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.laprensalatina.com/robot-sophia-stars-at-artificial-intelligence-forum-in-dominican-republic/amp/",
+      "cdnAmpWebUrl": "https://www-laprensalatina-com.cdn.ampproject.org/c/s/www.laprensalatina.com/robot-sophia-stars-at-artificial-intelligence-forum-in-dominican-republic/amp/",
+      "publishedDateTime": "2023-04-15T04:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "La Prensa Latina",
+        "domain": "laprensalatina.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-15-3-thrilling-robotics-stocks-for-aggressive-investors-to-buy.md",
       "title": "3 Thrilling Robotics Stocks for Aggressive Investors to Buy",
       "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The buzz surrounding generative artificial intelligence (AI) this year is",
@@ -1243,49 +1286,6 @@
         "name": "Dallas Innovates",
         "domain": "dallasinnovates.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-creepy-robot-dogs-being-deployed-to-patrol-neighborhoods.md",
-      "title": "Creepy robot dogs being deployed to patrol neighborhoods",
-      "excerpt": "Orwellian nightmare or useful Australian hardware? The Australian military is rolling out robodogs on patrol. Kurt \"CyberGuy\" Knutsson explains the details.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/creepy-robot-dogs-deployed-patrol-neighborhoods",
-      "originalUrl": "https://www.foxnews.com/tech/creepy-robot-dogs-deployed-patrol-neighborhoods",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-05T05:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

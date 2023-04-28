@@ -2,49 +2,6 @@
   "page": 16,
   "value": [
     {
-      "path": "_news/2022-12-06-use-it-or-lose-it-hearing-aids-linked-to-cognitive-benefit.md",
-      "title": "Use It, or Lose It: Hearing Aids Linked to Cognitive Benefit",
-      "excerpt": "Opens in a new tab or window Restoring hearing loss with hearing aids or cochlear implants was linked with less long-term cognitive decline and even some gain, a systematic review and meta ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medpagetoday.com/geriatrics/dementia/102061",
-      "originalUrl": "https://www.medpagetoday.com/geriatrics/dementia/102061",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.medpagetoday.net/media/images/102xxx/102061.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-05T13:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MedPage Today",
-        "domain": "medpagetoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-12-05-cuttlefish-passed-a-cognitive-test-designed-for-humans.md",
       "title": "Cuttlefish passed a cognitive test designed for humans",
       "excerpt": "This discovery, the researchers say, is an example of advanced self-control and shows that the creatures perform better in cognitive tasks. It has also been hypothesized that these positive ...",

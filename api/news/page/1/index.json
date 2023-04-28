@@ -2,6 +2,247 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-04-29-idvv-moves-forward-in-artificial-intelligence-ai-sector.md",
+      "title": "IDVV Moves Forward In Artificial Intelligence AI Sector",
+      "excerpt": "LOS ANGELES, CA / ACCESSWIRE / April 28, 2023 / International Endeavors Corporation 'IEC' (OTC PINK:IDVV) announced the following corporate",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/idvv-moves-forward-in-artificial-intelligence-ai-sector-1032274576",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/idvv-moves-forward-in-artificial-intelligence-ai-sector-1032274576",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-28T10:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-04-29-ai-in-healthcare-whats-to-be-done-about-data.md",
+      "title": "AI In Healthcare: What’s To Be Done About Data?",
+      "excerpt": "The widespread deployment of AI in U.S. healthcare will succeed only with the establishment of a national infrastructure for open health data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gilpress/2023/04/28/ai-in-healthcare-whats-to-be-done-about-data/",
+      "originalUrl": "https://www.forbes.com/sites/gilpress/2023/04/28/ai-in-healthcare-whats-to-be-done-about-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/644bf84647334126cd4c7b40/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2023/04/28/ai-in-healthcare-whats-to-be-done-about-data/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2023/04/28/ai-in-healthcare-whats-to-be-done-about-data/amp/",
+      "publishedDateTime": "2023-04-28T10:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-28-unicef-and-partners-using-artificial-intelligence-to-fight-dengue.md",
+      "title": "Unicef And Partners Using Artificial Intelligence To Fight Dengue",
+      "excerpt": "As the climate changes, mosquito-borne diseases are on the rise. Members of UNICEF's Innovation and Climate teams are working with partners to create AI models that can predict and prevent future outbreaks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/unicefusa/2023/04/28/unicef-and-partners-using-artificial-intelligence-to-fight-dengue/",
+      "originalUrl": "https://www.forbes.com/sites/unicefusa/2023/04/28/unicef-and-partners-using-artificial-intelligence-to-fight-dengue/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/644bf73c134f548d73f1e352/0x0.jpg?format=jpg&width=1200",
+          "width": 700,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/unicefusa/2023/04/28/unicef-and-partners-using-artificial-intelligence-to-fight-dengue/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/unicefusa/2023/04/28/unicef-and-partners-using-artificial-intelligence-to-fight-dengue/amp/",
+      "publishedDateTime": "2023-04-28T09:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-28-rsa-conference-2023-ushers-in-the-age-of-artificial-intelligence.md",
+      "title": "RSA Conference 2023 Ushers In The Age Of Artificial Intelligence",
+      "excerpt": "Vice President, Security, Carriers and Enterprise Networking, Will Townsend, shares his insights into what he found most compelling at RSA Conference 2023.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/04/28/rsa-conference-2023-ushers-in-the-age-of-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/04/28/rsa-conference-2023-ushers-in-the-age-of-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/644bf598b7ad555c305df357/0x0.jpg?format=jpg&crop=802,450,x0,y0,safe&width=1200",
+          "width": 802,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/04/28/rsa-conference-2023-ushers-in-the-age-of-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/04/28/rsa-conference-2023-ushers-in-the-age-of-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-04-28T09:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-28-democratic-senator-introduces-bill-targeting-ais-shortfalls.md",
+      "title": "Democratic senator introduces bill targeting AI’s shortfalls",
+      "excerpt": "The popular use of ChatGPT and other artificial intelligence has sparked a rush around the globe to figure out if and how it should be regulated.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/congress/democratic-senator-introduces-bill-targeting-ais-shortfalls-rcna81959",
+      "originalUrl": "https://www.nbcnews.com/politics/congress/democratic-senator-introduces-bill-targeting-ais-shortfalls-rcna81959",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-04/230428-senator-michael-bennett-mn-0950-ae45c0.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna81959",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna81959",
+      "publishedDateTime": "2023-04-28T07:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-28-making-the-most-out-of-generative-ai-in-your-enterprise.md",
       "title": "Making The Most Out Of Generative AI In Your Enterprise",
       "excerpt": "Generative artificial intelligence (AI) has come to the forefront of business leaders' minds with the ongoing stories and innovative capabilities of ChatGPT and the waitlist for its rival, Google Bard.",
@@ -10,7 +251,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/28/making-the-most-out-of-generative-ai-in-your-enterprise/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 249,
+      "heat": 231,
       "tags": null,
       "images": [
         {
@@ -537,6 +778,49 @@
       ]
     },
     {
+      "path": "_news/2023-04-28-ohio-ag-resumes-facial-recognition-use-after-pause.md",
+      "title": "Ohio AG Resumes Facial Recognition Use After Pause",
+      "excerpt": "After stopping the use of facial recognition software for more than a year amid civil liberties concerns, the Ohio attorney general’s office is once again using the technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/public-safety/ohio-ag-resumes-facial-recognition-use-after-pause",
+      "originalUrl": "https://www.govtech.com/public-safety/ohio-ag-resumes-facial-recognition-use-after-pause",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/c9341c5/2147483647/strip/true/crop/5000x2607+0+726/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F1d%2Fc3%2F5a9f33404b21a79b5e790af9266d%2Fshutterstock-1658380954.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/public-safety/ohio-ag-resumes-facial-recognition-use-after-pause?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/ohio-ag-resumes-facial-recognition-use-after-pause?_amp=true",
+      "publishedDateTime": "2023-04-27T16:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-28-this-week-in-xr-katami-scores-22-million-for-3d-remote-work-platform-ai-spikes-cloud-demand.md",
       "title": "This Week In XR: Katami Scores $22 Million For 3D Remote Work Platform, AI Spikes Cloud Demand",
       "excerpt": "This Week in XR is also a podcast hosted by the author of this column, Ted Schilowitz, Futurist, Paramount Global, and Rony Abovitz, founder of Magic Leap. This week our guest is Anand Agarawala, CEO and co-founder of Spatial. We can be found on Spotify, iTunes, and YouTube.",
@@ -901,7 +1185,7 @@
       "originalUrl": "https://www.wired.com/story/nsa-rob-joyce-chatgpt-security/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -941,315 +1225,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-write-long-form-content-in-seconds-with-half-off-this-leading-ai-tool.md",
-      "title": "Write long-form content in seconds with half off this leading AI tool",
-      "excerpt": "Wordplay AI Content Generator overhauls your content marketing and a lifetime subscription price is now half off.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-tool-write-longform-content/",
-      "originalUrl": "https://www.techrepublic.com/article/ai-tool-write-longform-content/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/04/Wordplay.jpg",
-          "width": 781,
-          "height": 515,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/article/ai-tool-write-longform-content/amp/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/ai-tool-write-longform-content/amp/",
-      "publishedDateTime": "2023-04-27T09:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-teslas-price-cuts-slow-a-rival-in-the-race-to-deliver-self-driving-tech.md",
-      "title": "Tesla’s Price Cuts Slow a Rival in the Race to Deliver Self-Driving Tech",
-      "excerpt": "Tesla started cutting prices in China. That same week, shares of rival self-driving technology provider Mobileye surged on their first day of trading following a hotly anticipated IPO. Now Tesla’s pri",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-04-27-2023/card/tesla-s-price-cuts-slow-a-rival-in-the-race-to-deliver-self-driving-tech-pO1vq8GciuAVLeQdmojo",
-      "originalUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-04-27-2023/card/tesla-s-price-cuts-slow-a-rival-in-the-race-to-deliver-self-driving-tech-pO1vq8GciuAVLeQdmojo",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-771268?width=600",
-          "width": 600,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-developers-embrace-ai-tools-but-face-big-code-challenges-survey-finds.md",
-      "title": "Developers embrace AI Tools but face ‘Big Code’ challenges, survey finds",
-      "excerpt": "A new report from Sourcegraph warns Big Code will hit crisis mode if companies don't get a handle on how their developers use AI at work.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/developers-embrace-ai-tools-but-face-big-code-challenges-survey-finds/",
-      "originalUrl": "https://venturebeat.com/ai/developers-embrace-ai-tools-but-face-big-code-challenges-survey-finds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/04/Screenshot-2023-04-27-at-1.35.41-AM-e1682604857405.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/developers-embrace-ai-tools-but-face-big-code-challenges-survey-finds/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/developers-embrace-ai-tools-but-face-big-code-challenges-survey-finds/amp/",
-      "publishedDateTime": "2023-04-27T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-improve-multi-hop-reasoning-in-llms-by-learning-from-rich-human-feedback.md",
-      "title": "Improve multi-hop reasoning in LLMs by learning from rich human feedback",
-      "excerpt": "Recent large language models (LLMs) have enabled tremendous progress in natural language understanding. However, they are prone to generating confident but nonsensical explanations, which poses a significant obstacle to establishing trust with users. In this post, we show how to incorporate human feedback",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/improve-multi-hop-reasoning-in-llms-by-learning-from-rich-human-feedback/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/improve-multi-hop-reasoning-in-llms-by-learning-from-rich-human-feedback/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/04/19/arch.png",
-          "width": 879,
-          "height": 377,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T08:52:53-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-snapchats-new-ai-chatbot-is-already-raising-alarms-among-teens-and-parents.md",
-      "title": "Snapchat's new AI chatbot is already raising alarms among teens and parents",
-      "excerpt": "Less than a few hours after Snapchat rolled out its My AI chatbot to all users last week, Lyndsi Lee, a mother from East Prairie, Missouri, told her 13-year-old daughter to stay away from the feature.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/04/27/tech/snapchat-my-ai-concerns-wellness/index.html",
-      "originalUrl": "https://www.cnn.com/2023/04/27/tech/snapchat-my-ai-concerns-wellness/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/230426123404-snapchat-app-restricted-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/04/27/tech/snapchat-my-ai-concerns-wellness/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/04/27/tech/snapchat-my-ai-concerns-wellness/index.html",
-      "publishedDateTime": "2023-04-27T08:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-how-to-extend-the-functionality-of-aws-trainium-with-custom-operators.md",
-      "title": "How to extend the functionality of AWS Trainium with custom operators",
-      "excerpt": "Deep learning (DL) is a fast-evolving field, and practitioners are constantly innovating DL models and inventing ways to speed them up. Custom operators are one of the mechanisms developers use to push the boundaries of DL innovation by extending the functionality of existing machine learning (ML) frameworks",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-to-extend-the-functionality-of-aws-trainium-with-custom-operators/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-to-extend-the-functionality-of-aws-trainium-with-custom-operators/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/04/27/extend-functionality-aws-trainium-custom-operators.jpg",
-          "width": 959,
-          "height": 477,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T08:30:05-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

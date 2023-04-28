@@ -2,6 +2,49 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-02-07-baidu-adrs-jump-on-plan-for-ai-chatbot.md",
+      "title": "Baidu ADRs Jump on Plan for AI Chatbot",
+      "excerpt": "By Dean Seal Baidu Inc.'s American depositary receipts were up 14.3% at $163.26 in premarket trading after the company said it plans to launch a",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/baidu-adrs-jump-on-plan-for-ai-chatbot-271675771322",
+      "originalUrl": "https://www.marketwatch.com/story/baidu-adrs-jump-on-plan-for-ai-chatbot-271675771322",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T03:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-07-how-companies-can-apply-robotics-to-their-work.md",
       "title": "How Companies Can Apply Robotics To Their Work",
       "excerpt": "It is exciting to think about the growth and innovation ahead in the robotics segment as it continues to mature and evolve.",
@@ -1097,49 +1140,6 @@
       "provider": {
         "name": "Mena FN",
         "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-03-robots-and-ai-team-up-to-discover-highly-selective-catalysts.md",
-      "title": "Robots and AI team up to discover highly selective catalysts",
-      "excerpt": "Researchers used a chemical synthesis robot and computationally cost-effective AI model to successfully predict and validate highly selective catalysts. Their results are published in the journal Angewandte Chemie International Edition.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-02-robots-ai-team-highly-catalysts.html",
-      "originalUrl": "https://phys.org/news/2023-02-robots-ai-team-highly-catalysts.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/robots-and-ai-team-up.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-02-robots-ai-team-highly-catalysts.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-02-robots-ai-team-highly-catalysts.amp",
-      "publishedDateTime": "2023-02-03T07:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
         "images": null,
         "publishers": null,
         "authors": null

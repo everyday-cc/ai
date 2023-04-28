@@ -28,15 +28,6 @@ related:
       name: The Motley Fool
       domain: fool.com
     quality: 49
-  - title: "The 7 Best Semiconductor Stocks for the AI Boom"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips With the world pivoting towards artificial intelligence, savvy investors are"
-    publishedDateTime: 2023-04-25T18:27:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-7-best-semiconductor-stocks-for-the-ai-boom-1032259713"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "How to worry wisely about artificial intelligence"
     excerpt: "In particular, new “large language models” (LLMs)—the sort that powers ChatGPT, a chatbot made by OpenAI, a startup—have surprised even their creators with their unexpected talents as they ..."
     publishedDateTime: 2023-04-24T14:16:00Z

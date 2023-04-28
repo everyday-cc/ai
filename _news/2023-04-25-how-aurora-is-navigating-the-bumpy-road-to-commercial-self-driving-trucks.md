@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/04/24/how-aurora-is-navigating-the-bumpy
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/04/24/how-aurora-is-navigating-the-bumpy-road-to-commercial-self-driving-trucks/amp/"
 type: article
 quality: 73
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://images.hgmsites.net/hug/aurora-self-driving-truck-prototype_100883024_h.jpg"
         width: 1920
         height: 1281
+        isCached: true
+  - title: "Bringing the Fleet Perspective to Self-Driving Trucks [Video]"
+    excerpt: "Former USA Truck CEO James Reed recently joined Kodiak Robotics as chief operating officer. He joins Deborah Lockridge on HDT Talks Trucking to talk about the move and the state of the autonomous-truck industry."
+    publishedDateTime: 2023-04-28T17:54:00Z
+    webUrl: "https://www.truckinginfo.com/10197688/bringing-the-fleet-perspective-to-self-driving-trucks-video"
+    type: article
+    provider:
+      name: Truckinginfo
+      domain: truckinginfo.com
+    quality: 24
+    images:
+      - url: "https://fleetimages.bobitstudios.com/upload/trucking-info/content/video/2023-04/hdt-talks-trucking_james-reed-kodiak-robotics-__-1200x630-s.jpg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "clZLngVer8aQiSXkH8SvXkg3iVnz7PvUE64wM3+QAqxxBZQx5mIyZgess+kRiOOwB7scnk6OFcZObfwPzlVknmcifoSc/jOIfMXqsNQGdkCGFRQs0S0sJmR9aRrkgqm/PjRd+BlJEIKiYACLbYWNn4y0GLOD2uBfEueByYwVetxqbk0jRpkC2s4ZP8EPxbn4j6RHoHJ9XqByRGLdBpNjXC0zb2PkL/ykhJCQguOtBGl9ciDSYyJV6tmnjECSrPMK/zx1pJJFAsETjiB+qnGEVnkX+aaKjiFntKhB3OHJ7qTjXVtI/ATkoi+IhymldJBNMbQrHpitdhpDh20fCmas8vXdHPmgEZcHtZ7ogE/uiYaQq+8d6SQevFv3G2eMg/qvsYw4NKqP2v4G0SAMDMBIQ7pbCpDt6v/1WsA465X3ZN4AAvPmMEmppDpIpCNkPvwlE44wc+Lw6KK2/enysismZTCqcCS8K8zIzaitoOjudG9d77BYNIJOljDhWR7EaWGS4EObueqqegVL24/sWs7o7g==;Cq0PoI8lBLVViJ8LYDkhQg=="

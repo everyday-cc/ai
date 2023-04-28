@@ -24,81 +24,65 @@ images:
     isCached: true
 
 related:
-  - title: "NSA Cybersecurity Director Says ‘Buckle Up’ for Generative AI"
-    excerpt: "The security issues raised by ChatGPT and similar tech are just beginning to emerge, but Rob Joyce says it’s time to prepare for what comes next."
-    publishedDateTime: 2023-04-27T16:52:00Z
-    webUrl: "https://www.wired.com/story/nsa-rob-joyce-chatgpt-security/"
-    ampWebUrl: "https://www.wired.com/story/nsa-rob-joyce-chatgpt-security/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/nsa-rob-joyce-chatgpt-security/amp"
+  - title: "RSA Conference 2023 Ushers In The Age Of Artificial Intelligence"
+    excerpt: "Vice President, Security, Carriers and Enterprise Networking, Will Townsend, shares his insights into what he found most compelling at RSA Conference 2023."
+    publishedDateTime: 2023-04-28T16:37:00Z
+    webUrl: "https://www.forbes.com/sites/moorinsights/2023/04/28/rsa-conference-2023-ushers-in-the-age-of-artificial-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/04/28/rsa-conference-2023-ushers-in-the-age-of-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/04/28/rsa-conference-2023-ushers-in-the-age-of-artificial-intelligence/amp/"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 87
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://media.wired.com/photos/644a7dfee416fd283a85c162/master/pass/nsa_sec_GettyImages-1059275390.jpg"
-        width: 2400
-        height: 1800
+      - url: "https://imageio.forbes.com/specials-images/imageserve/644bf598b7ad555c305df357/0x0.jpg?format=jpg&crop=802,450,x0,y0,safe&width=1200"
+        width: 802
+        height: 450
         isCached: true
-  - title: "U.S. Officials Raise Concerns About AI’s Cybersecurity Implications"
-    excerpt: "Rush to deploy ChatGPT and other models may leave organizations open to unknown threats, hacks, cybersecurity officials say."
-    publishedDateTime: 2023-04-26T23:06:00Z
-    webUrl: "https://www.wsj.com/articles/u-s-officials-raise-concerns-about-ais-cybersecurity-implications-f32496ed?mod=latest_headlines"
-    ampWebUrl: "https://www.wsj.com/amp/articles/u-s-officials-raise-concerns-about-ais-cybersecurity-implications-f32496ed"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/u-s-officials-raise-concerns-about-ais-cybersecurity-implications-f32496ed"
+  - title: "Good AI vs. Bad AI: Artificial intelligence takes RSA Conference by storm"
+    excerpt: "Cybersecurity professionals will need to leverage AI to neutralize sophisticated AI threats leveraged by bad actors, experts said at the RSA Conference."
+    publishedDateTime: 2023-04-25T03:41:00Z
+    webUrl: "https://www.scmagazine.com/news/emerging-technology/good-ai-vs-bad-ai-artificial-intelligence-takes-rsa-conference-by-storm"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 87
+      name: SC Media
+      domain: scmagazine.com
+    quality: 53
     images:
-      - url: "https://images.wsj.net/im-770952/social"
-        width: 1280
-        height: 640
+      - url: "https://files.scmagazine.com/wp-content/uploads/2023/04/Rohit-Ghai-2.jpg"
+        width: 1080
+        height: 720
         isCached: true
-  - title: "Palo Alto Networks automates cybersecurity with machine learning"
-    excerpt: "Palo Alto Networks uses 3rd Gen Intel® Xeon® Scalable processors and Intel software in the cloud for its Cloud-Delivered Security Services to boost machine learning and inferencing performance."
-    publishedDateTime: 2023-04-24T15:58:00Z
-    webUrl: "https://www.infoworld.com/article/3693108/palo-alto-networks-automates-cybersecurity-with-machine-learning.html"
+  - title: "RSA Conference 2023: Infosec and identity pros need AI — but it will change their jobs"
+    excerpt: "Information security pros and vendors will need to master artificial intelligence (AI) to fight threat actors who are already leveraging it, the annual RSA Conference in San Francisco has been told. \"Without good AI,"
+    publishedDateTime: 2023-04-25T16:48:00Z
+    webUrl: "https://www.itworldcanada.com/article/rsa-conference-2023-infosec-and-identity-pros-need-ai-but-it-will-change-their-jobs/537535"
+    ampWebUrl: "https://www.itworldcanada.com/article/rsa-conference-2023-infosec-and-identity-pros-need-ai-but-it-will-change-their-jobs/537535?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/rsa-conference-2023-infosec-and-identity-pros-need-ai-but-it-will-change-their-jobs/537535?amp=1"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 71
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 51
     images:
-      - url: "https://images.idgesg.net/images/article/2023/04/istock-1294339697-100939579-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 675
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2023/04/RSA-Conference-2023-photo.jpg"
+        width: 620
+        height: 289
         isCached: true
-  - title: "AI Will Take Many Cybersecurity Jobs, But It's Not a Complete Disaster"
-    excerpt: "AI will force some big changes in the cybersecurity job market, but Rohit Ghai, CEO of RSA Security, tells RSAC 2023 attendees that he's hopeful AI tools and human workers can coexist."
-    publishedDateTime: 2023-04-26T16:04:00Z
-    webUrl: "https://www.pcmag.com/news/ai-will-take-many-cybersecurity-jobs-but-its-not-a-complete-disaster"
+  - title: "K-Pop Conference Finds AI Usage in Music Outpacing Copyright Law"
+    excerpt: "Artificial Intelligence dominated the conversation at the inaugural Moving the World with Music conference in Seoul. But K-Pop executives said that copyright law is lagging far behind technologies such as ChatGPT and Midjourney."
+    publishedDateTime: 2023-04-27T17:03:00Z
+    webUrl: "https://www.aol.com/entertainment/k-pop-conference-finds-ai-133534878.html"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
+      name: AOL
+      domain: aol.com
+    quality: 37
     images:
-      - url: "https://i.pcmag.com/imagery/articles/05iUDYbdzZRKkboE6Y2NAzm-1.fit_lim.size_1200x630.v1682519762.jpg"
-        width: 1120
-        height: 630
-        isCached: true
-  - title: "Cyble Triumphs Yet Again With 9 Category Wins at the Global InfoSec Awards 2023, Including Editor's Choice for Cybersecurity Startup"
-    excerpt: "Cyble, the Y Combinator-backed leader in AI-powered global cyber threat intelligence, today announced that it has been named a winner in 9 categories of the 11th Annual Global InfoSec Awards hosted by the Cyber Dfense Magazine CDM,"
-    publishedDateTime: 2023-04-25T04:41:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2428608-cyble-triumphs-yet-again-with-9-category-wins-at-the-global-infosec-awards-2023-including-editors-choice-for-cybersecurity"
-    ampWebUrl: "https://www.devdiscourse.com/article/technology/2428608-cyble-triumphs-yet-again-with-9-category-wins-at-the-global-infosec-awards-2023-including-editors-choice-for-cybersecurity?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2428608-cyble-triumphs-yet-again-with-9-category-wins-at-the-global-infosec-awards-2023-including-editors-choice-for-cybersecurity?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 26
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_33_51_6762345.png?width=1280"
-        width: 1280
-        height: 723
+      - url: "https://media.zenfs.com/en/aol_variety_168/e5f10191c00b5fc68e04892ff37d6475"
+        width: 1000
+        height: 563
         isCached: true
 
 secured: "3IkGCNJ7k4RE5k7BRyw4NckQXXn9eBgTN57EC9W7GcvtyPJ3aLaR7h6XJ7n7emj4OOaXrbLwZ8CFcEWpk8bTqfuYaf1qdr4h1YldeRNxfkI+UuA1IxoN5YDzvCBCi1RIEd5MKp1z689n3Rv/WVFnjB0Pyg32l0yEiIxT87wo1MP0f+UYGoH8FJUj75i5idyEHjHbSuuvNkah8sOXjPBMbROn3OBnAXYTn+zGJSNnQiZ5g5lONWnrozZrJG4bmDnTfpJ5dvWo0YV5aEH5qr08GuEwn0jywOecRZ1F94DTjYpRkDeEaIMROiXJhR4t0ymFYxIFsyIyyEMN85/o2YON5MJ5tQFSLgsoKEi1NwPgX0tVfMgJNMUltCb9DTK3ppTt66L46H8Z9UHkkxYcW8/Hr2FeWXFPBZ4+2q4yyhhJGQBdDQ45nGP+sV6FrFajGWrgP4rxDAbaEH/pRXwiaydivx0h3STW0fQb5w8yI3NS/fQYFJ11aFMkZoQf3kUIK7rlxCd5HjajCM8FShyFnOBanw==;+4nNlVZvMmV3uWZt/Z9now=="

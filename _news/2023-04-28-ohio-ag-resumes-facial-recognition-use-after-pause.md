@@ -9,8 +9,8 @@ ampWebUrl: "https://www.govtech.com/public-safety/ohio-ag-resumes-facial-recogni
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/ohio-ag-resumes-facial-recognition-use-after-pause?_amp=true"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Government Technology
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Clearview AI’s facial recognition back in Ohio law enforcement after one year"
+    excerpt: "Clearview AI has won a contract to supply facial recognition to the Ohio Bureau of Criminal Investigation to generate leads in criminal cases."
+    publishedDateTime: 2023-04-28T17:06:00Z
+    webUrl: "https://www.biometricupdate.com/202304/clearview-ais-facial-recognition-back-in-ohio-law-enforcement-after-one-year"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 51
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/05162022/social-media-databases-facial-recognition-police.jpg"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Ohio resumes facial-recognition searches using controversial photo-collection firm Clearview AI"
     excerpt: "State officials currently use facial-recognition software that pulls photos from open sources like news stories and public social-media accounts."
     publishedDateTime: 2023-04-26T13:00:00Z

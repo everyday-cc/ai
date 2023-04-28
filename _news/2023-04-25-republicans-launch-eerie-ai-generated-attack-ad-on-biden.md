@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/saradorn/2023/04/25/republicans-launch-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saradorn/2023/04/25/republicans-launch-eerie-ai-generated-attack-ad-on-biden/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -78,6 +78,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Republicans responded to Biden’s announcement with an AI-generated ad"
+    excerpt: "The images show a few telltale signs that they’re faked, like a campaign sign with the wrong logo and a close-up shot of Biden that looks unnatural"
+    publishedDateTime: 2023-04-28T16:10:00Z
+    webUrl: "https://www.deseret.com/2023/4/28/23700844/republicans-responded-to-bidens-announcement-with-an-ai-generated-ad"
+    type: article
+    provider:
+      name: deseret
+      domain: deseret.com
+    quality: 39
+    images:
+      - url: "https://deseret.brightspotcdn.com/dims4/default/06ef5a7/2147483647/strip/true/crop/1435x819+266+0/resize/1461x834!/quality/90/?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2Ft-pi3UStn59dh7dZAGiDsD9ugXo%3D%2F0x0%3A1919x819%2F1919x819%2Ffilters%3Afocal%28983x439%3A984x440%29%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F24616024%2FScreen_Shot_2023_04_27_at_4.12.54_PM.png"
+        width: 1461
+        height: 834
+        isCached: true
 
 secured: "xlj/A77WfsXcrKEPT9aaAAKrkZ7gM5HlgAasLrv8wdMH7i5jRsWDaoYmz+c2a7itOGqBJ2mShQIOfai4YNSEqB25KlxSCL85hglLRqLIh/pfL9Mvi+b39KdLlRvTmskI4u1OEW4KGM+EI2IbAOjT6jcKxHvm33XBOqHbyc6R9qbhKCOi8Je0Q3eEMU3vJOFfec+oREsuFPKTmbmKSSe9xt9lv0/DC1okGPpR1UwCUdyfjj7Y+pV3Ik0EIdUSVC+GOHt0n0HID2APgc3fvJ6cd1/F5KwEczJqk5r68hY5XDYway+w4WfoZp105XdU44hUPnHQNdyFc5C8tBcnJ88HjTcRapNVpJrrkDbiEcHV8I5vTffghbLbjD1R4wiTjPJjFyQRy4eHj3EAa4RNiqmzgk48dVK3QR+LsnD9wWSUagJDdsmsd6R3p0bPlDFgwfG57wDbSJ9c6Vhv9fDm3NRV+iFr6VWUSSPNVk/fmGgJtPXXIbtqxVtyIoY4jWB5z+/A5S8+oXLM/vWP0Ax+aj+IXg==;o2vyiXfbSwecUvWBShkiXw=="
 ---

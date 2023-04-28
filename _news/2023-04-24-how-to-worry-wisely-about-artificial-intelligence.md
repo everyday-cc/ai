@@ -34,15 +34,6 @@ related:
       name: The Motley Fool
       domain: fool.com
     quality: 49
-  - title: "The 7 Best Semiconductor Stocks for the AI Boom"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips With the world pivoting towards artificial intelligence, savvy investors are"
-    publishedDateTime: 2023-04-25T18:27:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-7-best-semiconductor-stocks-for-the-ai-boom-1032259713"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "The Future of Tech: AI Stocks to Keep on Your Radar"
     excerpt: "AI reminds one of the internet's early days, more flash than substance. Years later, the internet is the foundation of today's modern economy. AI could similarly be the future of the technology industry."
     publishedDateTime: 2023-04-27T11:35:00Z

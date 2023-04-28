@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-03-13-uncovering-hidden-opportunities-in-the-computer-vision-development-market-2023-2029.md",
+      "title": "Uncovering Hidden Opportunities in the Computer Vision Development Market (2023-2029)",
+      "excerpt": "Computer Vision Development Market Size 2023-2029 | New Report (115 Pages) | Analytics | In This Reports Computer",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/uncovering-hidden-opportunities-in-the-computer-vision-development-market-2023-2029-2023-03-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/uncovering-hidden-opportunities-in-the-computer-vision-development-market-2023-2029-2023-03-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-12T21:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-12-ai-inference-processes-data-and-augments-human-abilities.md",
       "title": "AI Inference Processes Data And Augments Human Abilities",
       "excerpt": "Artificial Intelligence (AI ... The second-generation device also supports Vision Transformers (ViT acceleration, a neural network that is capable of many computer vision tasks, such as image classification, object detection, and semantic segmentation ...",
@@ -1346,40 +1398,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-26-why-facial-recognition-could-spell-the-end-of-anonymity-in-public.md",
-      "title": "Why facial recognition could spell the end of anonymity in public",
-      "excerpt": "CCTV doesn’t just recognise your face — it can even sense your emotions and predict crime. Even the country’s biometrics boss is worried",
-      "sourceUrl": null,
-      "webUrl": "https://www.thetimes.co.uk/article/ca253b9a-b545-11ed-93c1-9f4b65bf4405?shareToken=8ae1042392b64b3e46c939ef38de3d3c",
-      "originalUrl": "https://www.thetimes.co.uk/article/ca253b9a-b545-11ed-93c1-9f4b65bf4405?shareToken=8ae1042392b64b3e46c939ef38de3d3c",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-25T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times",
-        "domain": "thetimes.co.uk",
-        "images": null,
         "publishers": null,
         "authors": null
       },

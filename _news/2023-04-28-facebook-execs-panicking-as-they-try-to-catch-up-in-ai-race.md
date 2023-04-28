@@ -6,8 +6,8 @@ publishedDateTime: 2023-04-28T15:52:00Z
 originalUrl: "https://futurism.com/the-byte/facebook-execs-panicking-ai-race"
 webUrl: "https://futurism.com/the-byte/facebook-execs-panicking-ai-race"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI Hardware
 
 images:
   - url: "https://wp-assets.futurism.com/2023/04/facebook-execs-panicking-ai-race.jpg"
@@ -24,6 +25,6 @@ images:
     height: 630
     isCached: true
 
-secured: "s9IUtKLx0xfwtU/5i8sq5IQCLhkFk7D5DBxuI9OCZ83X1rb23tlAJlUhEVIa1CHnB71uuNN5QsDT+SCLhmmHQLb4oqqehSA3XWCHNntwTHcB/ltprsrAl28J3IYgT2T8YTzQY5IGKZOMLZOBr/NaQ3DtSZUtnxQmvssHIrejwBPZXHXIOODLnzg5bLOIMBxQipnEwU3Om9vt92idVl55jJOvc2ICosqV+LzjW5jKJDqWFZvPDOb4xcuef1ZdgqLqzkvVbyWnUrqYjo0jdbze0fzDR/uJmC+yxHS7xp11QIlMQ7YJ0XbS1TDg51kkkbbgilnKgE7tLWK+4h8NXa14uh1vX6nMEgJh6sNt9YceByI=;lIQgM+hAuhCsiu12ojce7g=="
+secured: "kb3cvdycREGW67szGbahRw1i+bxvZnvqCVCa7bogk8ngQHIrvF7Oa4NAFCKKxYh6x8QFU+BypISjiRZ/R0l8xxHY9xsz/yeKWPmYdlmrykOcOnLmHIU9ukHeg6cmDOksqc53gVOiQpvDkoWNgB2U5jJ+VNaSREB6+Rl1pOiUDcl2KqvxbIgItKi+qKUS3oY/OQYaY51f8vHO5fsjEO+hyqryo+hVj+sFyoqurTqsS23i0ya/Hbt4+O1FqACP8e1IIB14zYsPtt1VrXIbjwAYmYPu21UgPjC7/iyEpANhUZuWkC85gOv9HXAXDf4ghXPBcLojSMWD1fyx6+B9iDkMWY5p9Hhl8LwCUWT9nhZsrHthZ03Hmzt82VOGluk+hez+V9ApiNH332kQfsgNAPuuaEoptUUvZS/HkmQWAae8oOF459MGiEIV2XYfqVWN8auvifKeYVdhdQ6uU0fPiw/w90KUqH0TAIgi1rCWA0LrX6Y1XErClpLI+X97aHLy2CEuxAYOFsJzxTZRHAcbb+Xs9w==;9D+JsPb8z2y24TI0PUGv3A=="
 ---
 

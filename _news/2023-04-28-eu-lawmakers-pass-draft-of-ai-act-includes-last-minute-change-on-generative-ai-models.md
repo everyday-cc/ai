@@ -118,22 +118,6 @@ related:
         width: 1200
         height: 652
         isCached: true
-  - title: "These are the 9 best books to get up to speed on the hot new world of generative AI, according to experts"
-    excerpt: "The AI Revolution in Medicine: GPT-4 and Beyond Author: Peter Lee, Carey Goldberg, and Isaac Kohane. Lee, Corporate VP for Research and Incubations at Microsoft; Goldberg, medical and science ..."
-    publishedDateTime: 2023-04-24T00:00:00Z
-    webUrl: "https://www.businessinsider.com/list-generative-ai-artificial-intelligence-best-books-for-learning-experts-2023-3"
-    ampWebUrl: "https://www.businessinsider.com/list-generative-ai-artificial-intelligence-best-books-for-learning-experts-2023-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/list-generative-ai-artificial-intelligence-best-books-for-learning-experts-2023-3?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 72
-    images:
-      - url: "https://i.insider.com/6442e90e3d49030019df18aa?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Why the struggle for ethics in generative AI is more complex than we imagine"
     excerpt: "Some generative AI companies have been criticized for scraping the Web for training data, including copyrighted material, without the consent of creators and rights owners. In this way, the work of any number of creative,"
     publishedDateTime: 2023-04-24T09:23:00Z
@@ -193,20 +177,6 @@ related:
       - url: "https://www.insidehighered.com/sites/default/files/2023-04/ihe-logo-web.png"
         width: 600
         height: 324
-        isCached: true
-  - title: "44 of the most promising generative-artificial-intelligence startups of 2023, according to investors"
-    excerpt: "Estimated total funding for each startup is based on data from PitchBook unless otherwise specified. Adept What it does: Adept is a machine-learning research-and-product lab aiming to build AI ..."
-    publishedDateTime: 2023-04-24T00:00:00Z
-    webUrl: "https://www.businessinsider.com/most-promising-generative-artificial-intelligence-startups-according-vcs-venture-capital-2023-3"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 37
-    images:
-      - url: "https://i.insider.com/641b26b3e49c3900187d78fa?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Generative AI: A paradigm shift in enterprise and startup opportunities"
     excerpt: "As news cycles eclipse one another about these advancements, it may seem like generative AI sprang out of nowhere for many business and executive leaders. Still, the reality is that these new architectures are built on approaches that have evolved over the past few decades."

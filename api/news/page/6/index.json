@@ -2,6 +2,337 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-04-25-new-ai-tool-describes-surroundings-to-visually-impaired-people.md",
+      "title": "New AI tool describes surroundings to visually impaired people",
+      "excerpt": "The app Be My Eyes has a new artificial intelligence tool that provides low vision or blind users with an audio description of whatever they are facing. NBC News’ Ellison Barber spoke with one user who is testing the virtual assistant and says it is helping him do more on his own.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/nightly-news/video/new-ai-tool-describes-surroundings-to-visually-impaired-people-171207237511",
+      "originalUrl": "https://www.nbcnews.com/nightly-news/video/new-ai-tool-describes-surroundings-to-visually-impaired-people-171207237511",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_04/1682377642150_nn_eba_ai_revolution_be_my_eyes_230424_1920x1080-bto1k7.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo171207237511",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo171207237511",
+      "publishedDateTime": "2023-04-24T16:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-25-66-of-americans-would-not-want-ai-to-help-make-hiring-decisions.md",
+      "title": "66% of Americans would not want AI to help make hiring decisions",
+      "excerpt": "A recent Pew Research study about using artificial intelligence when hiring and evaluating workers reveals mixed opinions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/hiring-with-ai-pew/",
+      "originalUrl": "https://www.techrepublic.com/article/hiring-with-ai-pew/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2022/09/future-procurement-data-first.jpeg",
+          "width": 1200,
+          "height": 606,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/article/hiring-with-ai-pew/amp/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/hiring-with-ai-pew/amp/",
+      "publishedDateTime": "2023-04-24T16:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-25-singer-grimes-oks-using-her-voice-for-ai-generated-tunes-no-nazi-songs-please.md",
+      "title": "Singer Grimes OKs Using Her Voice for AI-Generated Tunes (No Nazi Songs, Please)",
+      "excerpt": "After an AI song mimicking Drake and The Weeknd went viral, the Canadian musician invites people to create AI-generated music with her voice, if they split royalties and avoid toxic lyrics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/singer-grimes-oks-using-her-voice-for-ai-generated-songs-no-nazi-songs",
+      "originalUrl": "https://www.pcmag.com/news/singer-grimes-oks-using-her-voice-for-ai-generated-songs-no-nazi-songs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/01CeemlISlr3TbaZVbb0ygQ-1.fit_lim.size_1200x630.v1682366595.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-24T14:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-25-grimes-says-anyone-can-ai-generate-her-voice-without-penalty.md",
+      "title": "Grimes says anyone can AI-generate her voice “without penalty”",
+      "excerpt": "Feel free to use my voice without penalty. I have no label and no legal bindings. pic.twitter.com/KIY60B5uqt Grimes is no stranger to the AI and tech cultural scene, having written music about AI and tweeted about the subject frequently.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/04/grimes-says-anyone-can-ai-generate-her-voice-without-penalty/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/04/grimes-says-anyone-can-ai-generate-her-voice-without-penalty/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/grimes_hero_2-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/04/grimes-says-anyone-can-ai-generate-her-voice-without-penalty/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/04/grimes-says-anyone-can-ai-generate-her-voice-without-penalty/amp/",
+      "publishedDateTime": "2023-04-24T13:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-25-transparent-labeling-of-training-data-may-boost-trust-in-artificial-intelligence.md",
+      "title": "Transparent labeling of training data may boost trust in artificial intelligence",
+      "excerpt": "Showing users that visual data fed into artificial intelligence (AI) systems was labeled correctly might make people trust AI more, according to researchers. These findings may also pave the way to help scientists better measure the connection between labeling credibility,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-04-transparent-boost-artificial-intelligence.html",
+      "originalUrl": "https://techxplore.com/news/2023-04-transparent-boost-artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/transparent-labeling-o.jpg",
+          "width": 1000,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-04-transparent-boost-artificial-intelligence.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-04-transparent-boost-artificial-intelligence.amp",
+      "publishedDateTime": "2023-04-24T13:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-24-sharing-a-reliable-sustainability-podcast.md",
+      "title": "Sharing a reliable sustainability podcast",
+      "excerpt": "Follow Kevin Yu's podcast 'Making of the SRE Omelette' as he dives into how we can achieve our sustainability goals via Site Reliability Engineering.\nThe post Sharing a reliable sustainability podcast appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/sharing-a-reliable-sustainability-podcast/",
+      "originalUrl": "https://www.ibm.com/blog/sharing-a-reliable-sustainability-podcast/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-24T12:28:42-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-25-stability-ai-launches-stablelm-an-open-source-chatgpt-alternative.md",
+      "title": "Stability AI launches StableLM, an open source ChatGPT alternative",
+      "excerpt": "Stability AI Ltd. is a London-based firm that has positioned itself as an open source rival to OpenAI, which, despite its \"open\" name, rarely releases open source models and keeps its neural network weights—the mass of numbers that defines the core functionality of an AI model—proprietary.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/04/stable-diffusion-for-language-stability-launches-open-source-ai-chatbot/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/04/stable-diffusion-for-language-stability-launches-open-source-ai-chatbot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/stochasitc_parrot_hero_4-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/04/stable-diffusion-for-language-stability-launches-open-source-ai-chatbot/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/04/stable-diffusion-for-language-stability-launches-open-source-ai-chatbot/amp/",
+      "publishedDateTime": "2023-04-24T12:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-25-venturebeat-qa-hailo-ceo-orr-danon-says-edge-ai-means-stream-the-insights-not-the-video.md",
       "title": "VentureBeat Q&A: Hailo CEO Orr Danon says edge AI means ‘stream the insights,’ not the video",
       "excerpt": "Hailo's dedicated deep learning edge AI processor is power-efficient, specifically designed for neural networks; vision is a major use case.",
@@ -847,366 +1178,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-04-24-5-crucial-components-of-an-ai-company.md",
-      "title": "5 Crucial Components Of An AI Company",
-      "excerpt": "In this article, I'll explore five crucial factors that should drive the decision making of VCs and investors when identifying investment opportunities and evaluating long-term potential in the competitive and oversaturated AI space.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/04/24/5-crucial-components-of-an-ai-company/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/04/24/5-crucial-components-of-an-ai-company/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6442b28cc7d2114a4afa0045/0x0.jpg?format=jpg&width=1200",
-          "width": 1014,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/04/24/5-crucial-components-of-an-ai-company/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/04/24/5-crucial-components-of-an-ai-company/amp/",
-      "publishedDateTime": "2023-04-24T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-24-how-ai-can-transform-the-software-engineering-process.md",
-      "title": "How AI Can Transform The Software Engineering Process",
-      "excerpt": "Generative AI will expedite the pace of modern software development, promote experimentation and even transform the current software engineering funnel in the future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/how-ai-can-transform-the-software-engineering-process/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/how-ai-can-transform-the-software-engineering-process/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6058b5411e82e550078f5886/0x0.jpg?format=jpg&width=1200",
-          "width": 790,
-          "height": 526,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/how-ai-can-transform-the-software-engineering-process/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/24/how-ai-can-transform-the-software-engineering-process/amp/",
-      "publishedDateTime": "2023-04-24T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-24-how-gpt-4-could-affect-marketing-leaders.md",
-      "title": "How GPT-4 Could Affect Marketing Leaders",
-      "excerpt": "Marketers have always had to adapt to their changing technological environment. GPT technologies are no different.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/04/24/how-gpt-4-could-affect-marketing-leaders/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/04/24/how-gpt-4-could-affect-marketing-leaders/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6442c991c58a2f3beb23907c/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 797,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/04/24/how-gpt-4-could-affect-marketing-leaders/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/04/24/how-gpt-4-could-affect-marketing-leaders/amp/",
-      "publishedDateTime": "2023-04-24T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-04-24-kpmg-us-executives-unprepared-for-immediate-adoption-of-generative-ai.md",
-      "title": "KPMG: US executives unprepared for immediate adoption of generative AI",
-      "excerpt": "In a KPMG survey of executives on generative AI, the technology is seen as potentially the most disruptive to date.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/kpmg-us-executives-unprepared-for-immediate-adoption-of-generative-ai/",
-      "originalUrl": "https://venturebeat.com/ai/kpmg-us-executives-unprepared-for-immediate-adoption-of-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-648066032-e1682331357491.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 613,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/kpmg-us-executives-unprepared-for-immediate-adoption-of-generative-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/kpmg-us-executives-unprepared-for-immediate-adoption-of-generative-ai/amp/",
-      "publishedDateTime": "2023-04-24T04:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-24-ai-to-help-fight-next-public-health-crisis-top-chinese-scientist-says.md",
-      "title": "AI to Help Fight Next Public Health Crisis, Top Chinese Scientist Says",
-      "excerpt": "Hi, it’s Jinshan in Hong Kong. With AI buzz sweeping sectors across the world, I take a look at how the technology might reshape the health-care industry. Before we get to",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/newsletters/2023-04-24/ai-to-help-fight-next-public-health-crisis-top-chinese-scientist-says",
-      "originalUrl": "https://www.bloomberg.com/news/newsletters/2023-04-24/ai-to-help-fight-next-public-health-crisis-top-chinese-scientist-says",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iYdk5e1nL4Po/v1/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-24T02:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-24-googles-bard-ai-to-take-on-github-copilot-and-amazon-codewhisperer.md",
-      "title": "Google’s Bard AI to take on GitHub Copilot and Amazon CodeWhisperer",
-      "excerpt": "Google’s generative AI offering is now capable of helping developers write and debug code in 20 programming languages including Python and Typescript, the company said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3694158/google-s-bard-ai-to-take-on-github-copilot-and-amazon-codewhisperer.html",
-      "originalUrl": "https://www.infoworld.com/article/3694158/google-s-bard-ai-to-take-on-github-copilot-and-amazon-codewhisperer.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2023/01/20/16/google-bikes-empty-100936555-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3694158/google-s-bard-ai-to-take-on-github-copilot-and-amazon-codewhisperer.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3694158/google-s-bard-ai-to-take-on-github-copilot-and-amazon-codewhisperer.amp.html",
-      "publishedDateTime": "2023-04-24T02:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-24-grimes-tells-fans-to-deepfake-drake-her-invites-collaboration-with-ai.md",
-      "title": "Grimes Tells Fans To Deepfake Drake Her, Invites Collaboration With AI",
-      "excerpt": "In the wake of the AI-generated hit Heart on My Sleeve going viral with deepfakes of Drake and The Weeknd, pop star Grimes has invited her fans to experiment with her voice. On Sunday night she tweeted, “I'll split 50% royalties on any successful AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/martineparis/2023/04/24/grimes-tells-fans-to-deepfake-drake-her-welcomes-collaboration-with-ai/",
-      "originalUrl": "https://www.forbes.com/sites/martineparis/2023/04/24/grimes-tells-fans-to-deepfake-drake-her-welcomes-collaboration-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6446290cbc54719eadfa527d/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/martineparis/2023/04/24/grimes-tells-fans-to-deepfake-drake-her-welcomes-collaboration-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/04/24/grimes-tells-fans-to-deepfake-drake-her-welcomes-collaboration-with-ai/amp/",
-      "publishedDateTime": "2023-04-24T02:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

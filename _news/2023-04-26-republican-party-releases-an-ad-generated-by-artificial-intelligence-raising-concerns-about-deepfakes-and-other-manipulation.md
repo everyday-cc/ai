@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 798
         isCached: true
+  - title: "AI startup Synthesia made waves this week on both sides of deepfake debate"
+    excerpt: "Two articles this week highlighted the complex debate around the companies creating deepfakes, or synthetic media."
+    publishedDateTime: 2023-04-28T17:02:00Z
+    webUrl: "https://venturebeat.com/ai/ai-startup-synthesia-made-waves-this-week-on-both-sides-of-deepfake-debate/"
+    ampWebUrl: "https://venturebeat.com/ai/ai-startup-synthesia-made-waves-this-week-on-both-sides-of-deepfake-debate/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-startup-synthesia-made-waves-this-week-on-both-sides-of-deepfake-debate/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 85
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/04/img-Hero-WithActor.png?w=1200&strip=all"
+        width: 1199
+        height: 772
+        isCached: true
   - title: "Republicans Share An Apocalyptic AI-Powered Attack Ad Against Biden: Here’s How To Spot A Deepfake"
     excerpt: "Deepfakes first came about in 2017 after a Reddit user posted pornography with the adult actors’ faces swapped for the faces of celebrities."
     publishedDateTime: 2023-04-25T16:26:00Z

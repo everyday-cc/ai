@@ -2,6 +2,52 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2022-12-14-could-artificial-intelligence-help-us-build-a-technological-world-that-is-more-ethical.md",
+      "title": "Could artificial intelligence help us build a technological world that is more ethical?",
+      "excerpt": "A robot may not injure a human being or, through inaction, allow a human being to come to harm. A robot must obey the orders given it by human beings except where such orders would conflict with the First Law.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-12-artificial-intelligence-technological-world-ethical.html",
+      "originalUrl": "https://techxplore.com/news/2022-12-artificial-intelligence-technological-world-ethical.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/could-artificial-intel.jpg",
+          "width": 883,
+          "height": 497,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-12-artificial-intelligence-technological-world-ethical.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-12-artificial-intelligence-technological-world-ethical.amp",
+      "publishedDateTime": "2022-12-13T08:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics",
+        "AI in Robotics",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-12-13-opinion-ill-bet-you-didnt-write-that-an-artificial-intelligence-robot-did.md",
       "title": "Opinion: I’ll bet you didn’t write that. An artificial intelligence robot did",
       "excerpt": "Write an 800-word opinion piece about what ChatGPT is, as well as its benefits and drawbacks.” In seconds it delivered a sensible, fair-minded description. No doubt ChatGPT and tools like it will become much more valuable and human-sounding — especially when these products ingest and learn from millions of emails and texts to create more personalized responses.",
@@ -1234,58 +1280,6 @@
         "name": "India Education Diary",
         "domain": "indiaeducationdiary.in",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-07-s10ai-inc-introduces-the-worlds-first-robot-virtual-medical-scribe.md",
-      "title": "S10.AI Inc Introduces the World’s First Robot Virtual Medical Scribe",
-      "excerpt": "S10.AI Inc. is a startup that has been in operation since 2022. They are excited to announce their newest development, S10.AI, the World's First Robot Virtual Medical Scribe. The S10.AI robot ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/s10ai-inc-introduces-the-worlds-first-robot-virtual-medical-scribe-2022-12-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/s10ai-inc-introduces-the-worlds-first-robot-virtual-medical-scribe-2022-12-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-06T13:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

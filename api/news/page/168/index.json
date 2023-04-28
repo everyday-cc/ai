@@ -2,74 +2,21 @@
   "page": 168,
   "value": [
     {
-      "path": "_news/2022-05-28-grai-matter-labs-brain-inspired-ai-for-the-edge.md",
-      "title": "GrAI Matter Labs: Brain-Inspired AI For The Edge",
-      "excerpt": "We recently tweeted about the startup GrAI Matter Labs (GML) and received a lot of questions about the company’s products and strategy. As one of the first startups to launch a neuromorphic AI platform for edge AI,",
+      "path": "_news/2022-12-05-cuttlefish-passed-a-cognitive-test-designed-for-humans.md",
+      "title": "Cuttlefish passed a cognitive test designed for humans",
+      "excerpt": "This discovery, the researchers say, is an example of advanced self-control and shows that the creatures perform better in cognitive tasks. It has also been hypothesized that these positive ...",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2022/05/27/grai-matter-labs-brain-inspired-ai-for-the-edge/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2022/05/27/grai-matter-labs-brain-inspired-ai-for-the-edge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//6290f25b3eeb6d491574921f/0x0.jpg?format=jpg&width=1200",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2022/05/27/grai-matter-labs-brain-inspired-ai-for-the-edge/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/05/27/grai-matter-labs-brain-inspired-ai-for-the-edge/amp/",
-      "publishedDateTime": "2022-05-27T10:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-artificial-intelligence-solipsism-and-political-reality.md",
-      "title": "Artificial Intelligence, Solipsism and Political Reality",
-      "excerpt": "Someone of considerable accomplishment with a good playful sense of humor took the time to write to me recently to ask if I was Artificial Intelligence (AI), and claimed this communication was ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.counterpunch.org/2022/05/27/artificial-intelligence-solipsism-and-political-reality/",
-      "originalUrl": "https://www.counterpunch.org/2022/05/27/artificial-intelligence-solipsism-and-political-reality/",
+      "webUrl": "https://bgr.com/science/cuttlefish-passed-a-cognitive-test-designed-for-humans/",
+      "originalUrl": "https://bgr.com/science/cuttlefish-passed-a-cognitive-test-designed-for-humans/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.counterpunch.org/wp-content/uploads/2022/05/Screen-Shot-2022-05-27-at-9.02.07-AM-680x490.png",
-          "width": 680,
-          "height": 490,
+          "url": "https://bgr.com/wp-content/uploads/2022/12/AdobeStock_159088227.jpeg?quality=82&strip=all",
+          "width": 2400,
+          "height": 1596,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -79,11 +26,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-27T09:02:00-07:00",
+      "publishedDateTime": "2022-12-04T16:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CounterPunch",
-        "domain": "counterpunch.org",
+        "name": "BGR",
+        "domain": "bgr.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -93,104 +40,26 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "Microsoft AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-05-27-microsoft-msft-azure-selected-by-meta-to-boost-ai-innovation.md",
-      "title": "Microsoft (MSFT) Azure Selected by Meta to Boost AI Innovation",
-      "excerpt": "Thus, using Azure will enable Meta with faster distributed AI training. The Meta- Microsoft collaboration ... learning workloads compared with the company’s last-generation chips — AWS Graviton2 processors. While C7g instances offer enhanced ...",
+      "path": "_news/2022-12-05-artificial-intelligence-and-heart-care-pt-1.md",
+      "title": "Artificial intelligence and heart care — Pt 1",
+      "excerpt": "ARTIFICIAL intelligence (AI ... systems, and convolutional neural networks. In medical imaging, and more particularly cardiovascular imaging, AI has become very instrumental in efficiently ...",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/microsoft-msft-azure-selected-by-meta-to-boost-ai-innovation",
-      "originalUrl": "https://www.nasdaq.com/articles/microsoft-msft-azure-selected-by-meta-to-boost-ai-innovation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 171,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/microsoft-msft-azure-selected-by-meta-to-boost-ai-innovation?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-msft-azure-selected-by-meta-to-boost-ai-innovation?amp",
-      "publishedDateTime": "2022-05-27T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-artificial-intelligences-role-in-trusted-national-security-supply-chains.md",
-      "title": "Artificial Intelligence’s Role in Trusted National Security Supply Chains",
-      "excerpt": "U.S. economic prosperity and national security is at risk due to a dependency on the resiliency, diversity, and security of global supply chains.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnas.org/publications/commentary/artificial-intelligences-role-in-trusted-national-security-supply-chains",
-      "originalUrl": "https://www.cnas.org/publications/commentary/artificial-intelligences-role-in-trusted-national-security-supply-chains",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.us-east-1.amazonaws.com/files.cnas.org/hero/artificial-intelligence.jpeg?mtime=20180423114444&focal=none",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-27T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNAS",
-        "domain": "cnas.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-deep-work-in-the-office-will-look-different-now.md",
-      "title": "Deep Work in the Office Will Look Different Now",
-      "excerpt": "Deep learning is one of the five elements that drive these areas. It lets people debate concepts in healthy ways, get feedback and understand subtle contextual differences that might change what ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/426453",
-      "originalUrl": "https://www.entrepreneur.com/article/426453",
+      "webUrl": "https://www.jamaicaobserver.com/health/artificial-intelligence-and-heart-care-pt-1/",
+      "originalUrl": "https://www.jamaicaobserver.com/health/artificial-intelligence-and-heart-care-pt-1/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1652799299-GettyImages-545163603.jpg",
-          "width": 2000,
-          "height": 1333,
+          "url": "https://imengine.public.prod.jam.navigacloud.com/?uuid=bed7186e-bbf9-52e7-a219-69c1352aa6fb&function=fit&type=preview",
+          "width": 500,
+          "height": 333,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -198,23 +67,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-27T08:04:00-07:00",
+      "ampWebUrl": "https://www.jamaicaobserver.com/health/artificial-intelligence-and-heart-care-pt-1/amp/",
+      "cdnAmpWebUrl": "https://www-jamaicaobserver-com.cdn.ampproject.org/c/s/www.jamaicaobserver.com/health/artificial-intelligence-and-heart-care-pt-1/amp/",
+      "publishedDateTime": "2022-12-04T10:17:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "The Jamaica Observer",
+        "domain": "jamaicaobserver.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -228,21 +88,21 @@
       ]
     },
     {
-      "path": "_news/2022-05-27-ai-based-tech-company-hitlab-is-shaking-up-the-music-industry.md",
-      "title": "AI-Based Tech Company HITLAB Is Shaking Up The Music Industry",
-      "excerpt": "AI-based music technology company, HITLAB, is revolutionizing how entertainment content is discovered, produced, and consumed.",
+      "path": "_news/2022-12-05-sudbury-plays-host-to-first-robotics-competition.md",
+      "title": "Sudbury plays host to FIRST robotics competition",
+      "excerpt": "Tech Qualifier with students competing from across Sudbury, North Bay, Manitoulin Island, Bruce County and Toronto. Teams had to use their robots to complete different challenges, using pylons while amassing points.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlmoore/2022/05/27/ai-based-tech-company-hitlab-is-shaking-up-the-music-industry/",
-      "originalUrl": "https://www.forbes.com/sites/karlmoore/2022/05/27/ai-based-tech-company-hitlab-is-shaking-up-the-music-industry/",
+      "webUrl": "https://northernontario.ctvnews.ca/sudbury-plays-host-to-first-robotics-competition-1.6180419",
+      "originalUrl": "https://northernontario.ctvnews.ca/sudbury-plays-host-to-first-robotics-competition-1.6180419",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62900a18798f8afff74d8a31/0x0.jpg?format=jpg&crop=1767,1178,x204,y7,safe&width=1200",
-          "width": 1200,
-          "height": 800,
+          "url": "https://beta.ctvnews.ca/content/dam/ctvnews/videos/axis/2022/12/4/2577491/_jcr_content/renditions/videothumbnail.1670204290046.jpg",
+          "width": 1020,
+          "height": 596,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -250,55 +110,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlmoore/2022/05/27/ai-based-tech-company-hitlab-is-shaking-up-the-music-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlmoore/2022/05/27/ai-based-tech-company-hitlab-is-shaking-up-the-music-industry/amp/",
-      "publishedDateTime": "2022-05-27T08:00:00-07:00",
+      "ampWebUrl": "https://beta.ctvnews.ca/local/northern-ontario/2022/12/4/1_6180419.amp.html",
+      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/northern-ontario/2022/12/4/1_6180419.amp.html",
+      "publishedDateTime": "2022-12-04T09:34:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-smarter-health-how-ai-is-transforming-health-care.md",
-      "title": "Smarter health: How AI is transforming health care",
-      "excerpt": "American health care is complex. Expensive. Hard to access. Could artificial intelligence change that? In the first episode in our series Smarter health, we explore the potential",
-      "sourceUrl": null,
-      "webUrl": "https://www.wwno.org/2022-05-27/smarter-health-how-ai-is-transforming-health-care",
-      "originalUrl": "https://www.wwno.org/2022-05-27/smarter-health-how-ai-is-transforming-health-care",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-27T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WWNO",
-        "domain": "wwno.org",
+        "name": "CTV News",
+        "domain": "ctvnews.ca",
         "images": null,
         "publishers": null,
         "authors": null
@@ -308,147 +126,26 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
+        "AI in Robotics",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-05-27-ai-in-fintech-market-size-industry-trends-share-analysis-growth-and-forecast-2030.md",
-      "title": "AI in Fintech Market Size Industry Trends Share Analysis Growth and Forecast 2030",
-      "excerpt": "This section includes regional segmentation that accentuates the recent and future demand for AI in Fintech market across North America, Europe, Asia-Pacific, Middle East & Africa, and South America.",
+      "path": "_news/2022-12-05-why-you-need-an-organizational-ai-ethics-committee-to-do-ai-right.md",
+      "title": "Why you need an organizational AI ethics committee to do AI right",
+      "excerpt": "How forming an AI ethics committee will educate and engage your teams and customers about ethical dilemmas artificial intelligence can raise.",
       "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/ai-in-fintech-market-size-industry-trends-share-analysis-growth-and-forecast-2030",
-      "originalUrl": "https://www.digitaljournal.com/pr/ai-in-fintech-market-size-industry-trends-share-analysis-growth-and-forecast-2030",
+      "webUrl": "https://venturebeat.com/ai/why-you-need-an-organizational-ai-ethics-committee-to-do-ai-right/",
+      "originalUrl": "https://venturebeat.com/ai/why-you-need-an-organizational-ai-ethics-committee-to-do-ai-right/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 104,
       "tags": null,
       "images": [
         {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/06/Trump-Capitol-Riots-Washington-AFP-1K-01-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-27T06:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-ids-imaging-development-systems-gmbh-unveils-block-based-editor-to-enable-users-to-create-vision-apps-without-programming-knowledge.md",
-      "title": "IDS Imaging Development Systems GmbH unveils Block-based Editor to enable users to create Vision Apps without programming knowledge",
-      "excerpt": "With the Block-based Editor, which is also new, users can configure their own programme sequences with AI image processing functions, such as object recognition or classification, without any programming knowledge. Users create simple sequences in a few ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sourcesecurity.com/news/ids-imaging-development-systems-gmbh-block-based-editor-users-vision-apps-programming-knowledge-co-12175-ga-npr.1653641379.html",
-      "originalUrl": "https://www.sourcesecurity.com/news/ids-imaging-development-systems-gmbh-block-based-editor-users-vision-apps-programming-knowledge-co-12175-ga-npr.1653641379.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-27T06:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-natural-language-processing-nlp-in-healthcare-and-life-sciences-analysis-with-growth-forecast-2030.md",
-      "title": "Natural Language Processing (NLP) in Healthcare and Life Sciences Analysis with Growth Forecast 2030",
-      "excerpt": "This section includes regional segmentation that accentuates the recent and future demand for Natural Language Processing (NLP) in Healthcare and Life Sciences market across North America ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/natural-language-processing-nlp-in-healthcare-and-life-sciences-analysis-with-growth-forecast-2030",
-      "originalUrl": "https://www.digitaljournal.com/pr/natural-language-processing-nlp-in-healthcare-and-life-sciences-analysis-with-growth-forecast-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/01/051a518886e702eb4a9eea9982a177f13dd2078e-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-27T06:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-how-to-make-it-easier-to-implement-ai-in-your-business.md",
-      "title": "How To Make It Easier To Implement AI In Your Business",
-      "excerpt": "AI continuously proves to be an asset for businesses and has been revolutionizing the way they operate. It goes a long way in helping to cut operational costs, automate and simplify business processes,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/27/how-to-make-it-easier-to-implement-ai-in-your-business/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/27/how-to-make-it-easier-to-implement-ai-in-your-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//628e43a297056cd9dc21d426/0x0.jpg?format=jpg&width=1200",
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-875599880-1.jpg?w=1200&strip=all",
           "width": 1200,
-          "height": 800,
+          "height": 629,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -456,114 +153,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/27/how-to-make-it-easier-to-implement-ai-in-your-business/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/27/how-to-make-it-easier-to-implement-ai-in-your-business/amp/",
-      "publishedDateTime": "2022-05-27T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-artificial-general-intelligence-whats-behind-you.md",
-      "title": "Artificial General Intelligence: What's Behind You?",
-      "excerpt": "AGI is the hypothetical ability of an intelligent agent to understand or learn any intellectual task that a human being can.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/27/artificial-general-intelligence-whats-behind-you/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/27/artificial-general-intelligence-whats-behind-you/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//628fa8b49fde0d3d854d8a2f/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/27/artificial-general-intelligence-whats-behind-you/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/27/artificial-general-intelligence-whats-behind-you/amp/",
-      "publishedDateTime": "2022-05-27T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-from-weeks-to-hours-how-ai-slashes-the-time-to-optimize-in-the-cloud.md",
-      "title": "From weeks to hours: How AI slashes the time to optimize in the cloud",
-      "excerpt": "Cloud is not a one-and-done thing - it's a journey. That's where AI and ML come in, to truly deliver on the promise of the cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/27/from-weeks-to-hours-how-ai-slashes-the-time-to-optimize-in-the-cloud/",
-      "originalUrl": "https://venturebeat.com/2022/05/27/from-weeks-to-hours-how-ai-slashes-the-time-to-optimize-in-the-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-646867384.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/27/from-weeks-to-hours-how-ai-slashes-the-time-to-optimize-in-the-cloud/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/27/from-weeks-to-hours-how-ai-slashes-the-time-to-optimize-in-the-cloud/amp/",
-      "publishedDateTime": "2022-05-27T05:20:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/ai/why-you-need-an-organizational-ai-ethics-committee-to-do-ai-right/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-you-need-an-organizational-ai-ethics-committee-to-do-ai-right/amp/",
+      "publishedDateTime": "2022-12-04T09:10:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -586,499 +178,10 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-lessons-learned-about-ai-from-a-healthcare-technology-startup-leader.md",
-      "title": "Lessons Learned About AI From A Healthcare Technology Startup Leader",
-      "excerpt": "So far, my personal crash course has made healthcare’s massive size and complexity even more apparent, and it occurred to me that others can benefit if I write about my learnings and observations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/27/lessons-learned-about-ai-from-a-healthcare-technology-startup-leader/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/27/lessons-learned-about-ai-from-a-healthcare-technology-startup-leader/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//628ce443a25ac26736ea9402/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/27/lessons-learned-about-ai-from-a-healthcare-technology-startup-leader/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/27/lessons-learned-about-ai-from-a-healthcare-technology-startup-leader/amp/",
-      "publishedDateTime": "2022-05-27T03:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-the-worlds-new-youngest-self-made-billionaire-is-a-25-year-old-college-dropout.md",
-      "title": "The world’s new youngest self-made billionaire is a 25-year-old college dropout",
-      "excerpt": "The new youngest self-made billionaire of the world Alexandr Wang is a 25 year old college dropout from New Mexico.",
-      "sourceUrl": null,
-      "webUrl": "https://techstory.in/the-worlds-new-youngest-self-made-billionaire-is-a-25-year-old-college-dropout/",
-      "originalUrl": "https://techstory.in/the-worlds-new-youngest-self-made-billionaire-is-a-25-year-old-college-dropout/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techstory.in/wp-content/uploads/2022/05/darikNews.img361.jpeg",
-          "width": 800,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-27T03:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "tech",
-        "domain": "techstory.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-biography-meet-zimbabwes-serial-entrepreneur-william-sachiti-who-owns-uks-first-black-owned-driverless-car-company.md",
-      "title": "Biography: Meet Zimbabwe’s Serial Entrepreneur William Sachiti Who Owns UK’s First Black-Owned Driverless Car Company",
-      "excerpt": "From creating digital advertising bins to driverless cars, the serial inventor is not ... In 2015 Sachiti enrolled at Aberystwyth University in Wales, where he studied artificial intelligence and robotics. He kept fledging and flourishing at the university ...",
-      "sourceUrl": null,
-      "webUrl": "https://iharare.com/biography-meet-zimbabwes-serial-entrepreneur-william-sachiti-who-owns-uks-first-black-owned-driverless-car-company/",
-      "originalUrl": "https://iharare.com/biography-meet-zimbabwes-serial-entrepreneur-william-sachiti-who-owns-uks-first-black-owned-driverless-car-company/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cy4ad5.c2.acecdn.net/wp-content/uploads/2022/05/william-sachiti-1.jpg",
-          "width": 1200,
-          "height": 846,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://iharare.com/biography-meet-zimbabwes-serial-entrepreneur-william-sachiti-who-owns-uks-first-black-owned-driverless-car-company/amp/",
-      "cdnAmpWebUrl": "https://iharare-com.cdn.ampproject.org/c/s/iharare.com/biography-meet-zimbabwes-serial-entrepreneur-william-sachiti-who-owns-uks-first-black-owned-driverless-car-company/amp/",
-      "publishedDateTime": "2022-05-27T02:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "iHarare News",
-        "domain": "iharare.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-tech-shares-lead-hk-market-higher-amid-hopes-for-better-china-us-ties.md",
-      "title": "Tech shares lead HK market higher amid hopes for better China-U.S. ties",
-      "excerpt": "Hong Kong stocks jumped nearly 3% on Friday, led by tech shares following forecast-beating results from Alibaba Group and Baidu, while comments by a U.S. official on relations with China were interpreted by some as positive. We apologize, but this video ...",
-      "sourceUrl": null,
-      "webUrl": "https://financialpost.com/pmn/business-pmn/tech-shares-lead-hk-market-higher-amid-hopes-for-better-china-u-s-ties",
-      "originalUrl": "https://financialpost.com/pmn/business-pmn/tech-shares-lead-hk-market-higher-amid-hopes-for-better-china-u-s-ties",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-27T02:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Post",
-        "domain": "financialpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-artificial-intelligence-in-marketing-market-to-grow-at.md",
-      "title": "Artificial Intelligence in Marketing Market to grow at",
-      "excerpt": "Artificial intelligence in marketing market report offers a comprehensive analysis by Deployment (On-premise and Cloud) and Geography (North America, APAC, Europe, Middle East, and Africa, and South America) NEW YORK,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-marketing-market-grow-a-cagr-2684-/2022/05/27/9610662.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-marketing-market-grow-a-cagr-2684-/2022/05/27/9610662.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-27T01:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-nearly-50-percent-of-uae-residents-say-government-must-invest-in-self-driving-cars-ai-3d-printing-survey.md",
-      "title": "Nearly 50 percent of UAE residents say government must invest in self-driving cars, AI, 3D printing: survey",
-      "excerpt": "UAE residents believe that artificial intelligence, virtual reality, and self-driving cars will have a positive impact, with half of respondents in a YouGov survey saying the government should invest in AI. With its favourable business legislation and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.arabianbusiness.com/industries/technology/nearly-50-percent-of-uae-residents-say-government-must-invest-in-self-driving-cars-ai-3d-printing-survey",
-      "originalUrl": "https://www.arabianbusiness.com/industries/technology/nearly-50-percent-of-uae-residents-say-government-must-invest-in-self-driving-cars-ai-3d-printing-survey",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-27T01:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Arabian Business",
-        "domain": "arabianbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-artificial-intelligence-in-marketing-market-to.md",
-      "title": "Artificial Intelligence in Marketing Market to...",
-      "excerpt": "The artificial intelligence in marketing market share growth by the on-premise segment will be significant for revenue generation. Primarily, marketers can reach customers in real-time via on-premise marketing. It is about how companies utilize in-store ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/05/n27435408/artificial-intelligence-in-marketing-market-to-grow-at-a-cagr-of-26-84-by-2026-increasing-digitali",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/05/n27435408/artificial-intelligence-in-marketing-market-to-grow-at-a-cagr-of-26-84-by-2026-increasing-digitali",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1825868/Artificial_Intelligence.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/27435408",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27435408",
-      "publishedDateTime": "2022-05-27T00:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-accused-of-cheating-by-an-algorithm-and-a-professor-she-had-never-met.md",
-      "title": "Accused of Cheating by an Algorithm, and a Professor She Had Never Met",
-      "excerpt": "She was, she said in an email to The New York Times, a Black woman who had been “wrongfully accused of academic dishonesty by an algorithm.” What happened, however, was more complicated than a simple algorithmic mistake.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2022/05/27/technology/college-students-cheating-software-honorlock.html",
-      "originalUrl": "https://www.nytimes.com/2022/05/27/technology/college-students-cheating-software-honorlock.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2022/05/27/business/00cheating/00cheating-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2022/05/27/technology/college-students-cheating-software-honorlock.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/05/27/technology/college-students-cheating-software-honorlock.amp.html",
-      "publishedDateTime": "2022-05-27T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-portrait-of-the-queen-painted-by-ai-robot-artist-is-unveiled.md",
-      "title": "Portrait of the Queen painted by AI robot artist is unveiled",
-      "excerpt": "was painted by Ai-Da Robot – an artificial intelligence robot built in 2019 that creates drawings, painting, and sculptures. To start, Ai-Da Robot uses cameras in its eyes and its computer ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itv.com/news/2022-05-26/portrait-of-the-queen-painted-by-robot-artist-ai-da-is-unveiled",
-      "originalUrl": "https://www.itv.com/news/2022-05-26/portrait-of-the-queen-painted-by-robot-artist-ai-da-is-unveiled",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T23:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITV",
-        "domain": "itv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-silicon-overdrive-achieves-aws-education-competency.md",
-      "title": "Silicon Overdrive achieves AWS Education Competency",
-      "excerpt": "South African IT Services company, Silicon Overdrive, successfully achieved its Amazon Web Services (AWS) Education Competency status. Click here to learn how Silicon Overdrive helped educational ...",
-      "sourceUrl": null,
-      "webUrl": "https://mybroadband.co.za/news/industrynews/446128-silicon-overdrive-achieves-aws-education-competency.html",
-      "originalUrl": "https://mybroadband.co.za/news/industrynews/446128-silicon-overdrive-achieves-aws-education-competency.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T23:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MyBroadband",
-        "domain": "mybroadband.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-singapore-touts-need-for-ai-transparency-in-launch-of-test-toolkit.md",
-      "title": "Singapore touts need for AI transparency in launch of test toolkit",
-      "excerpt": "New pilot framework and toolkit will enable businesses to demonstrate their \"objective and verifiable\" use of artificial intelligence, says the Singapore government, which hopes to drive transparency in AI deployments through technical and process checks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/singapore-touts-need-for-ai-transparency-in-launch-of-test-toolkit/",
-      "originalUrl": "https://www.zdnet.com/article/singapore-touts-need-for-ai-transparency-in-launch-of-test-toolkit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/singapore-touts-need-for-ai-transparency-in-launch-of-test-toolkit/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-touts-need-for-ai-transparency-in-launch-of-test-toolkit/",
-      "publishedDateTime": "2022-05-26T22:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-fortinet-introduces-self-learning-ai-capabilities-in-new-network-detection-and-response-offering.md",
-      "title": "Fortinet Introduces Self-Learning AI Capabilities In New Network Detection And Response Offering",
-      "excerpt": "FortiNDR leverages machine learning and deep neural networks – the next-generation ... and response offering that leverages powerful artificial intelligence and pragmatic analytics to enable ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1104279520/Fortinet-Introduces-Self-Learning-AI-Capabilities-In-New-Network-Detection-And-Response-Offering",
-      "originalUrl": "https://menafn.com/1104279520/Fortinet-Introduces-Self-Learning-AI-Capabilities-In-New-Network-Detection-And-Response-Offering",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2022-05/26/M_ae5e7image_story.jpg",
-          "width": 500,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T22:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }
   ],
-  "nextPage": 169
+  "nextPage": null
 }

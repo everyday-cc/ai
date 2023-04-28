@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Bringing the Fleet Perspective to Self-Driving Trucks [Video]"
+    excerpt: "Former USA Truck CEO James Reed recently joined Kodiak Robotics as chief operating officer. He joins Deborah Lockridge on HDT Talks Trucking to talk about the move and the state of the autonomous-truck industry."
+    publishedDateTime: 2023-04-28T17:54:00Z
+    webUrl: "https://www.truckinginfo.com/10197688/bringing-the-fleet-perspective-to-self-driving-trucks-video"
+    type: article
+    provider:
+      name: Truckinginfo
+      domain: truckinginfo.com
+    quality: 24
+    images:
+      - url: "https://fleetimages.bobitstudios.com/upload/trucking-info/content/video/2023-04/hdt-talks-trucking_james-reed-kodiak-robotics-__-1200x630-s.jpg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "cSHF81nK4LW+GTmun3MAkOZMO/1SCk4r+r/iMGThtgIamwC3gX/yRfWfAf3KfmhL1kRx+5Jboyx1x3P3AQvuR5zcoRHRlnfFYV8OqDHyLbgUdO09U+1xg6XLFE0aKCqThsaCVZjQ73WUho7r+EtcgY4b+YK/kkeJVFOcaoyIjl67EM4jmW6bRylb3pA3hRkHQRqFEeFejBR/YekQ+56qwWG/4RM+XE18hL0dwbvQaYula76jIN5O0X3SD8KBn2gi5eO5T5sFVoqHawTgRAI2P+VVG7q8q47OSElmWlLcrYaiOA02HX/uQiYcll7Ah/srz+/DHP+Ae9Oj2XTJ3EQ2L9o8YoAv5pxfGHkP71nHOGYYnLa7BMpSvbmQKtWLNru7FDmrri06PJeyzoe/pD9wX6gq6X2tFlu+kku4EHPWVHSsXMhZRMVHGjCCmxDA/2FPhSPPQBHqBdxz9vx4Gbn9ob2ZgxjqTg0Evqmz3tvGiUv35+HBdh2Fi1p7a5oX+y+TbynJYo7WLQ7rUkxTfed5uA==;ZnxduTmr5jY3IRsPGf3kSw=="
 ---

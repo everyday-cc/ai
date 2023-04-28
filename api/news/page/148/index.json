@@ -2,6 +2,402 @@
   "page": 148,
   "value": [
     {
+      "path": "_news/2022-12-18-ai-art-death-of-creative-industry-or-its-savior.md",
+      "title": "AI art: Death of creative industry, or its savior?",
+      "excerpt": "The next stage of evolution for AI art will leverage the entirety of inspiration on tap — rather than just creative auto filling.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-art-death-of-creative-industry-or-its-savior/",
+      "originalUrl": "https://venturebeat.com/ai/ai-art-death-of-creative-industry-or-its-savior/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/halfway.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/ai-art-death-of-creative-industry-or-its-savior/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-art-death-of-creative-industry-or-its-savior/amp/",
+      "publishedDateTime": "2022-12-17T17:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-18-chatgpt-is-proof-the-ai-chatbots-are-here-to-stay.md",
+      "title": "ChatGPT is proof the AI chatbots are here to stay",
+      "excerpt": "Chat GPT crashed. “I immediately feel like I lost 50 points of IQ,” tweeted one user. “Now I have to use search engines like cavemen did,” exclaimed",
+      "sourceUrl": null,
+      "webUrl": "https://www.thetimes.co.uk/article/chatgpt-is-proof-the-ai-chatbots-are-here-to-stay-6jhd2fbgf?shareToken=ef7b4fa70be33e29af1e523c0621c38f",
+      "originalUrl": "https://www.thetimes.co.uk/article/chatgpt-is-proof-the-ai-chatbots-are-here-to-stay-6jhd2fbgf?shareToken=ef7b4fa70be33e29af1e523c0621c38f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2F028dde28-7d61-11ed-a3d2-203363978915.jpg?crop=3000%2C1687%2C0%2C156&resize=1200",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-17T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Times",
+        "domain": "thetimes.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-18-get-ready-for-wireless-docking-monitors-architecture-wars-and-better-chip-supplies-synaptics-ceo.md",
+      "title": "Get ready for wireless docking monitors, architecture wars and better chip supplies | Synaptics CEO",
+      "excerpt": "Michael Hurlston, CEO of Synaptics, talked about the easing of the chip shortage and other tech topics ahead of CES.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/get-ready-for-wireless-docking-monitors-architecture-wars-and-better-chip-supplies-synaptics-ceo/",
+      "originalUrl": "https://venturebeat.com/ai/get-ready-for-wireless-docking-monitors-architecture-wars-and-better-chip-supplies-synaptics-ceo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/12/synaptics-6.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 831,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/get-ready-for-wireless-docking-monitors-architecture-wars-and-better-chip-supplies-synaptics-ceo/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/get-ready-for-wireless-docking-monitors-architecture-wars-and-better-chip-supplies-synaptics-ceo/amp/",
+      "publishedDateTime": "2022-12-17T08:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-17-microsoft-launches-real-time-voice-translation-in-skype.md",
+      "title": "Microsoft launches real-time voice translation in Skype",
+      "excerpt": "The new translation feature uses AI to automatically detect the languages being spoken during a video call and translate them in real time",
+      "sourceUrl": null,
+      "webUrl": "https://www.mid-day.com/technology/article/microsoft-launches-real-time-voice-translation-in-skype-23261056",
+      "originalUrl": "https://www.mid-day.com/technology/article/microsoft-launches-real-time-voice-translation-in-skype-23261056",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mid-day.com/images/images/2022/dec/apple-seventeen-dec_d.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mid-day.com/amp/technology/article/microsoft-launches-real-time-voice-translation-in-skype-23261056",
+      "cdnAmpWebUrl": "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/technology/article/microsoft-launches-real-time-voice-translation-in-skype-23261056",
+      "publishedDateTime": "2022-12-17T04:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mid Day",
+        "domain": "mid-day.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-17-boston-startups-search-engine-uses-ai-to-make-dense-research-more-accessible.md",
+      "title": "Boston startup’s search engine uses AI to make dense research more accessible",
+      "excerpt": "Seattle’s Allen Institute for AI has operated Semantic Scholar, a website that summarizes the contents of academic research papers. And in mid-November, tech titan Meta, the parent of Facebook ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bostonglobe.com/2022/12/11/business/boston-startups-search-engine-uses-ai-make-dense-research-more-accessible/",
+      "originalUrl": "https://www.bostonglobe.com/2022/12/11/business/boston-startups-search-engine-uses-ai-make-dense-research-more-accessible/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/iN4c1Z23Z14GbbfM9Ponw6YDAQw=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/PEYHDJJQLZSQ6GCIZKNW5B4EQA.jpg",
+          "width": 506,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-17T00:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Boston Globe",
+        "domain": "bostonglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-17-8-ayurvedic-herbs-that-support-cognitive-function-and-mental-clarity.md",
+      "title": "8 Ayurvedic Herbs That Support Cognitive Function And Mental Clarity",
+      "excerpt": "These two groups share traits and have additional advantageous effects that support the body's ability to withstand shocks and enhance cognitive performance. Talking to OnlyMyHealth Editorial team ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.onlymyhealth.com/ayurvedic-herbs-that-support-cognitive-function-and-mental-clarity-1671192967",
+      "originalUrl": "https://www.onlymyhealth.com/ayurvedic-herbs-that-support-cognitive-function-and-mental-clarity-1671192967",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.onlymyhealth.com/imported/images/2022/December/16_Dec_2022/main_8AyurvedicHerbsThatSupportCognitiveFunctionAndMentalClarity.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.onlymyhealth.com/amp/ayurvedic-herbs-that-support-cognitive-function-and-mental-clarity-1671192967",
+      "cdnAmpWebUrl": "https://www-onlymyhealth-com.cdn.ampproject.org/c/s/www.onlymyhealth.com/amp/ayurvedic-herbs-that-support-cognitive-function-and-mental-clarity-1671192967",
+      "publishedDateTime": "2022-12-16T23:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Onlymyhealth",
+        "domain": "onlymyhealth.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-17-machine-learning-is-the-key-component-to-predict-frailty-in-australians.md",
+      "title": "Machine Learning Is The Key Component To Predict Frailty In Australians",
+      "excerpt": "Machine learning could be the key component in developing effective early screening systems identifying frailty in middle aged and older Australians.With increasing evidence showing physiological decl",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/machine-learning-is-the-key-component-to-predict-frailty-in-australians/",
+      "originalUrl": "https://indiaeducationdiary.in/machine-learning-is-the-key-component-to-predict-frailty-in-australians/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2022/12/Machine-learning-GettyImages-1365534802.jpg?fit=748%2C467&ssl=1",
+          "width": 748,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/machine-learning-is-the-key-component-to-predict-frailty-in-australians/amp/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/machine-learning-is-the-key-component-to-predict-frailty-in-australians/amp/",
+      "publishedDateTime": "2022-12-16T22:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-17-need-a-ride-to-or-from-sky-harbor-waymo-driverless-cars-now-open-to-everyone-for-trip.md",
+      "title": "Need a ride to or from Sky Harbor? Waymo driverless cars now open to everyone for trip",
+      "excerpt": "Friday's announcement not only opens that service to anyone who wants a driverless car ride but also includes nearly doubling the size of the Phoenix service territory. All service to the airport ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.azcentral.com/story/money/business/tech/2022/12/16/waymo-offers-driverless-rides-to-phoenix-sky-harbor-airport-for-all/69730936007/",
+      "originalUrl": "https://www.azcentral.com/story/money/business/tech/2022/12/16/waymo-offers-driverless-rides-to-phoenix-sky-harbor-airport-for-all/69730936007/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2022/12/15/PPHX/349f0cbd-58b4-4a61-9d9a-0a03d52f8a7d-Waymo_airport.jpg?auto=webp&crop=6719,3780,x0,y341&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-16T16:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AZ Central",
+        "domain": "azcentral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-17-phoenix-airport-1st-to-offer-self-driving-ride-service-waymo.md",
+      "title": "Phoenix airport 1st to offer self-driving ride service Waymo",
+      "excerpt": "Phoenix Mayor Kate Gallego arrives in a self-driving vehicle, Friday, Dec. 16, 2022, at the Sky Harbor International Airport Sky Train facility in Phoenix. Mayor Gallego a",
+      "sourceUrl": null,
+      "webUrl": "https://www.stamfordadvocate.com/living/article/Phoenix-airport-1st-to-offer-self-driving-ride-17659023.php?src=sthplifestyle",
+      "originalUrl": "https://www.stamfordadvocate.com/living/article/Phoenix-airport-1st-to-offer-self-driving-ride-17659023.php?src=sthplifestyle",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-16T15:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "StamfordAdvocate",
+        "domain": "stamfordadvocate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-17-riffusions-ai-generates-music-from-text-using-visual-sonograms.md",
       "title": "Riffusion’s AI generates music from text using visual sonograms",
       "excerpt": "On Thursday, a pair of tech hobbyists released Riffusion, an AI model that generates music from text prompts by creating a visual representation of sound and converting it to audio for playback. It uses a fine-tuned version of the Stable Diffusion 1.",
@@ -767,432 +1163,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-16-zoho-desk-redefining-the-customer-experience-with-ai.md",
-      "title": "Zoho Desk – Redefining The Customer Experience With AI",
-      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives in as he covers new capabilities announced by Zoho, including a new feature called Blended Conversations, which seamlessly combines the capabilities of bot-powered self-service and human-driven conversational service capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/12/16/zoho-desk--redefining-the-customer-experience-with-ai/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/12/16/zoho-desk--redefining-the-customer-experience-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/639c8275d2a4ad563b8cea7f/0x0.jpg?format=jpg&crop=1080,607,x0,y32,safe&width=1200",
-          "width": 1080,
-          "height": 607,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/12/16/zoho-desk--redefining-the-customer-experience-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2022/12/16/zoho-desk--redefining-the-customer-experience-with-ai/amp/",
-      "publishedDateTime": "2022-12-16T05:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-16-tesla-reportedly-claims-its-failure-to-deliver-self-driving-cars-isnt-fraud.md",
-      "title": "Tesla reportedly claims its failure to deliver self-driving cars isn’t fraud",
-      "excerpt": "Tesla has come under fire once again for its controversially named Full Self-Driving driver-assist feature. Despite what the name alludes to, FSD doesn’t enable a car to drive on its own.",
-      "sourceUrl": null,
-      "webUrl": "https://fox8.com/automotive/internet-brands/tesla-reportedly-claims-its-failure-to-deliver-self-driving-cars-isnt-fraud/",
-      "originalUrl": "https://fox8.com/automotive/internet-brands/tesla-reportedly-claims-its-failure-to-deliver-self-driving-cars-isnt-fraud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fox8.com/wp-content/uploads/sites/12/2022/12/2022-tesla-model-3_100827310_m.jpg?w=1280",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fox8.com/automotive/internet-brands/tesla-reportedly-claims-its-failure-to-deliver-self-driving-cars-isnt-fraud/amp/",
-      "cdnAmpWebUrl": "https://fox8-com.cdn.ampproject.org/c/s/fox8.com/automotive/internet-brands/tesla-reportedly-claims-its-failure-to-deliver-self-driving-cars-isnt-fraud/amp/",
-      "publishedDateTime": "2022-12-16T05:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FOX8 Cleveland",
-        "domain": "fox8.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-16-key-strategies-for-ethical-and-responsible-use-of-artificial-intelligence.md",
-      "title": "Key Strategies for Ethical and Responsible Use of Artificial Intelligence",
-      "excerpt": "While the issue of how to use AI ethically has been widely discussed for some time, little has been done to put guidelines",
-      "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/featured/key-strategies-for-ethical-and-responsible-use-of-artificial-intelligence/",
-      "originalUrl": "https://enterprisetalk.com/featured/key-strategies-for-ethical-and-responsible-use-of-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2022/12/Key-Strategies-for-Ethical-and-Responsible-Use-of-Artificial-Intelligence.jpg",
-          "width": 700,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/featured/key-strategies-for-ethical-and-responsible-use-of-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/featured/key-strategies-for-ethical-and-responsible-use-of-artificial-intelligence/amp/",
-      "publishedDateTime": "2022-12-16T03:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "AI in Autos",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-12-16-automls-rise-to-prominence.md",
-      "title": "AutoML's Rise To Prominence",
-      "excerpt": "Where in the past people mostly developed large complex models in-house, I believe in the future new practitioners will opt for more simplistic models that offer higher performance in the form of autoML.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/theyec/2022/12/16/automls-rise-to-prominence/",
-      "originalUrl": "https://www.forbes.com/sites/theyec/2022/12/16/automls-rise-to-prominence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5ef9dd3406868f00064f5619/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/theyec/2022/12/16/automls-rise-to-prominence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2022/12/16/automls-rise-to-prominence/amp/",
-      "publishedDateTime": "2022-12-16T03:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-16-robotics-competition-kicked-off-for-delhi-government-school-students.md",
-      "title": "Robotics competition kicked off for Delhi government school students",
-      "excerpt": "A special robotics competition was kicked off today for Delhi government school students. By India Today Web Desk: According to a circular from the Directorate of Education (DoE), a special robotics competition is being started on Friday to foster excellence in the field among Delhi school children.",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiatoday.in/education-today/news/story/robotics-competition-kicked-off-for-delhi-government-school-students-2310029-2022-12-16",
-      "originalUrl": "https://www.indiatoday.in/education-today/news/story/robotics-competition-kicked-off-for-delhi-government-school-students-2310029-2022-12-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202212/jelleke-vanooteghem-6nulohm40w8-unsplash-sixteen_nine.jpg?VersionId=q1ETy.V2ObyHT1nAmNcfRDHfT1U9NJdu",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.indiatoday.in/amp/education-today/news/story/robotics-competition-kicked-off-for-delhi-government-school-students-2310029-2022-12-16",
-      "cdnAmpWebUrl": "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/education-today/news/story/robotics-competition-kicked-off-for-delhi-government-school-students-2310029-2022-12-16",
-      "publishedDateTime": "2022-12-16T02:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Today",
-        "domain": "indiatoday.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-16-shamir-selects-imdts-3d-stereo-vision-technology-to-power-its-next-generation-digital-measurement-device.md",
-      "title": "SHAMIR SELECTS IMDT's 3D STEREO VISION TECHNOLOGY TO POWER ITS NEXT-GENERATION DIGITAL MEASUREMENT DEVICE",
-      "excerpt": "Spark™ 4, Shamir's newest ultra-precise digital measurement device, deploys IMDT's accurate 3D technology to offer opticians a simple and effective ophthalmic measurement experience KFAR SABA, Israel,",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2022/12/16/9731983.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2022/12/16/9731983.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1968947/imdt_spark4.jpg",
-          "width": 400,
-          "height": 210,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-16T02:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-16-microsoft-brings-real-time-voice-translation-to-skype-check-details.md",
-      "title": "Microsoft brings real-time voice translation to Skype: Check details",
-      "excerpt": "Microsoft has launched real-time voice translation in Skype, which can now translate a person's voice in real-time using AI to make the translated voice sound similar to the original speaker.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bgr.in/apps/microsoft-brings-real-time-voice-translation-to-skype-check-details-1349718/",
-      "originalUrl": "https://www.bgr.in/apps/microsoft-brings-real-time-voice-translation-to-skype-check-details-1349718/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://st1.bgr.in/wp-content/uploads/2022/12/skype-logo.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bgr.in/apps/microsoft-brings-real-time-voice-translation-to-skype-check-details-1349718/amp/",
-      "cdnAmpWebUrl": "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/apps/microsoft-brings-real-time-voice-translation-to-skype-check-details-1349718/amp/",
-      "publishedDateTime": "2022-12-15T23:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BGR",
-        "domain": "www.bgr.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-16-taiwanese-startup-writepaths-ai-tech-speeds-up-financial-disclosure-translation.md",
-      "title": "Taiwanese startup WritePath’s AI tech speeds up financial disclosure translation",
-      "excerpt": "In countries where English is not a main language, listed companies not only have to deal with financial disclosure regulations, but make sure their investor materials are available in English for global backers.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/12/15/writepath-2/",
-      "originalUrl": "https://techcrunch.com/2022/12/15/writepath-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-1358049863.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/12/15/writepath-2/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/15/writepath-2/amp/",
-      "publishedDateTime": "2022-12-15T22:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-16-toxic-waste-is-becoming-a-massive-problem-that-ai-can-solve.md",
-      "title": "Toxic waste is becoming a massive problem that AI can solve",
-      "excerpt": "The issue of hazardous waste should not be taken lightly; if left unchecked, there are serious repercussions. Here's how AI can help.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/business/toxic-waste-is-becoming-a-massive-problem-that-ai-can-solve/",
-      "originalUrl": "https://venturebeat.com/business/toxic-waste-is-becoming-a-massive-problem-that-ai-can-solve/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1340683804.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 704,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/business/toxic-waste-is-becoming-a-massive-problem-that-ai-can-solve/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/toxic-waste-is-becoming-a-massive-problem-that-ai-can-solve/amp/",
-      "publishedDateTime": "2022-12-15T20:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

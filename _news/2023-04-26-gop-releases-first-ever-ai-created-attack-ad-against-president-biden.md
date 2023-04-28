@@ -77,6 +77,20 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 47
+  - title: "Republicans responded to Biden’s announcement with an AI-generated ad"
+    excerpt: "The images show a few telltale signs that they’re faked, like a campaign sign with the wrong logo and a close-up shot of Biden that looks unnatural"
+    publishedDateTime: 2023-04-28T16:10:00Z
+    webUrl: "https://www.deseret.com/2023/4/28/23700844/republicans-responded-to-bidens-announcement-with-an-ai-generated-ad"
+    type: article
+    provider:
+      name: deseret
+      domain: deseret.com
+    quality: 39
+    images:
+      - url: "https://deseret.brightspotcdn.com/dims4/default/06ef5a7/2147483647/strip/true/crop/1435x819+266+0/resize/1461x834!/quality/90/?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2Ft-pi3UStn59dh7dZAGiDsD9ugXo%3D%2F0x0%3A1919x819%2F1919x819%2Ffilters%3Afocal%28983x439%3A984x440%29%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F24616024%2FScreen_Shot_2023_04_27_at_4.12.54_PM.png"
+        width: 1461
+        height: 834
+        isCached: true
 
 secured: "GksMw3IGHsT0HqTVAhYsHGlG4RS5RASOiaRRuLHKnpb3QP426+50Zmx3hsn0eIUQ6+2Mte7TkmRKn++/C63y4QlEUZiC3qeASNalg9kJ+BwTNAtRDC9FhN1DC8XDGlXZB2HN69bK7pdrdxLPpSZ9TRZx7kR5AODzG+mijyRLvnHugKyN5gGkBmvEkwYbfdvYOVZffVp5YxqDpQX6hkqYzJZ13z+PbT46r95F8emTTQaO/ZudCj5VrYS67cL7A6GC69aN1plHvQ+jqk5f9ozx9dbMbJPh0q+fkT5ts4CrigPIeGyhGFi7VJDLzGFEv3nz71QfJDyJrwIEVsdtO6XU6dXBlK63Ik3yGiQDGadIQjcpog88rDY1JmSgE8Ttl9QLeyPLmkhIpOUgWBvdx9N3S3QH9kKQ3xpLCNvEDq+rJrBebEIz/KcHbUKMJeqoutGX6jdJ9GjdrDCavPutVVl+gAa5YblPnQ0jrCLMoJCTOYxPfOeZvxCkuwdzQuos9twptl+xNG32Q7/oGiS0goJqzQ==;lgGiYdR6ZiwNNiTbWABZtA=="
 ---

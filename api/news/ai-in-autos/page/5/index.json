@@ -2,6 +2,50 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-03-19-chinese-firm-to-launch-robot-taxis.md",
+      "title": "Chinese firm to launch robot taxis",
+      "excerpt": "Chinese tech company Baidu has announced that it can now operate robotaxis in a part of the capital city of Beijing with no human staff or driver inside. According to CNBC, the move eliminates the labor cost for operating self-driving taxis — up to the ...",
+      "sourceUrl": null,
+      "webUrl": "https://punchng.com/chinese-firm-to-launch-robot-taxis/",
+      "originalUrl": "https://punchng.com/chinese-firm-to-launch-robot-taxis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.punchng.com/wp-content/uploads/2017/09/21153552/Baidus-Self-Driving-Car.jpg",
+          "width": 561,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://punchng.com/chinese-firm-to-launch-robot-taxis/?amp",
+      "cdnAmpWebUrl": "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/chinese-firm-to-launch-robot-taxis/?amp",
+      "publishedDateTime": "2023-03-18T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Punch Newspapers",
+        "domain": "punchng.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-03-19-microsoft-and-baidu-team-up-to-boost-development-of-self-driving-car-technologies.md",
       "title": "Microsoft and Baidu team up to boost development of self-driving car technologies",
       "excerpt": "Microsoft and Chinese search giant Baidu have announced a new partnership ... to help bring safe self-driving vehicles to market more quickly. According to research from McKinsey, up to 15% ...",
@@ -1330,49 +1374,6 @@
       "provider": {
         "name": "Seeking Alpha",
         "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-09-aaa-americans-fear-self-driving-cars.md",
-      "title": "AAA: Americans Fear Self-Driving Cars",
-      "excerpt": "Worried about self-driving cars?  If so, you're not alone. Fear of self-driving cars is on the rise, according to a new survey from the American Automobile Association (AAA).   AAA's annual automated vehicle survey checks in with drivers every year to gauge the temperature of how the public feels about autonomous driving tech,",
-      "sourceUrl": null,
-      "webUrl": "https://www.mysanantonio.com/news/article/aaa-americans-fear-self-driving-cars-17827392.php",
-      "originalUrl": "https://www.mysanantonio.com/news/article/aaa-americans-fear-self-driving-cars-17827392.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/31/64/46/23546289/3/rawImage.jpg",
-          "width": 1404,
-          "height": 1112,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-08T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "San Antonio Express-News",
-        "domain": "mysanantonio.com",
         "images": null,
         "publishers": null,
         "authors": null

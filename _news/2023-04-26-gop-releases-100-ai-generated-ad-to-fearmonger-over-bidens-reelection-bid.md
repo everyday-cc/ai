@@ -78,6 +78,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Republicans responded to Biden’s announcement with an AI-generated ad"
+    excerpt: "The images show a few telltale signs that they’re faked, like a campaign sign with the wrong logo and a close-up shot of Biden that looks unnatural"
+    publishedDateTime: 2023-04-28T16:10:00Z
+    webUrl: "https://www.deseret.com/2023/4/28/23700844/republicans-responded-to-bidens-announcement-with-an-ai-generated-ad"
+    type: article
+    provider:
+      name: deseret
+      domain: deseret.com
+    quality: 39
+    images:
+      - url: "https://deseret.brightspotcdn.com/dims4/default/06ef5a7/2147483647/strip/true/crop/1435x819+266+0/resize/1461x834!/quality/90/?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2Ft-pi3UStn59dh7dZAGiDsD9ugXo%3D%2F0x0%3A1919x819%2F1919x819%2Ffilters%3Afocal%28983x439%3A984x440%29%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F24616024%2FScreen_Shot_2023_04_27_at_4.12.54_PM.png"
+        width: 1461
+        height: 834
+        isCached: true
 
 secured: "LFyDRjLOke9PGXoQ8jvdqk+AvyZ49v4/z8/nm9Fh/ft+WR3HxcmiGwt5TMnne3L1V3KCYwOQpAY6DT5HWruVpPmTdvdQ0a8BoiFv3VFz1gy01qd+egpD4y5GXDpmlF+WO5wkDG4AQ9mmudmLd9snRAMOTeuJ7XJkRPNIvYq3+N2HT/Y9a1uKEK6UKE9f/No+LE+Bn68PzWSna1pOb/Tv08hJr2vKhyYjot8qYNBvh0RBx049BBVf5oFjnuWb3pnxD7DQ71BXxHW2JE59xj7+3EAreOBx78DsHaBXeySN/bXfRxmSW6oHk0xFdp/llX0cg9FoqeLhRiUqlWZ4YFeRMCmp+hTc9WBvTGMyeA9dS/U=;8BJjHxdrviuQfn+T8COPyA=="
 ---

@@ -45,6 +45,49 @@
       ]
     },
     {
+      "path": "_news/2023-04-28-ohio-ag-resumes-facial-recognition-use-after-pause.md",
+      "title": "Ohio AG Resumes Facial Recognition Use After Pause",
+      "excerpt": "After stopping the use of facial recognition software for more than a year amid civil liberties concerns, the Ohio attorney general’s office is once again using the technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/public-safety/ohio-ag-resumes-facial-recognition-use-after-pause",
+      "originalUrl": "https://www.govtech.com/public-safety/ohio-ag-resumes-facial-recognition-use-after-pause",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/c9341c5/2147483647/strip/true/crop/5000x2607+0+726/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F1d%2Fc3%2F5a9f33404b21a79b5e790af9266d%2Fshutterstock-1658380954.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/public-safety/ohio-ag-resumes-facial-recognition-use-after-pause?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/ohio-ag-resumes-facial-recognition-use-after-pause?_amp=true",
+      "publishedDateTime": "2023-04-27T16:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-27-which-segments-computer-vision-system-market-are-anticipated-to-highest-cagr-by-2030.md",
       "title": "Which Segments Computer Vision System Market Are Anticipated To Highest CAGR By 2030",
       "excerpt": "New Analysis of Computer Vision System Market overview, spend analysis, imports, segmentation, key players, and",
@@ -1325,40 +1368,6 @@
       "provider": {
         "name": "Artnet",
         "domain": "artnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-13-wimi-develops-a-3d-object-recognition-system-based-on-multi-view-feature-fusion.md",
-      "title": "WiMi Develops a 3D Object Recognition System Based on Multi-View Feature Fusion",
-      "excerpt": "BEIJING, April 13, 2023 /PRNewswire/ -- WiMi Hologram Cloud Inc. (NASDAQ: WIMI) (\"WiMi\" or the \"Company\"), a leading global Hologram Augmented Reality (\"AR\") Technology provider, today announced the development of a 3D object recognition system based on ...",
-      "sourceUrl": null,
-      "webUrl": "https://stockhouse.com/news/press-releases/2023/04/13/wimi-develops-a-3d-object-recognition-system-based-on-multi-view-feature-fusion",
-      "originalUrl": "https://stockhouse.com/news/press-releases/2023/04/13/wimi-develops-a-3d-object-recognition-system-based-on-multi-view-feature-fusion",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-13T05:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Stockhouse",
-        "domain": "stockhouse.com",
         "images": null,
         "publishers": null,
         "authors": null

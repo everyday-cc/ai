@@ -9,7 +9,7 @@ ampWebUrl: "https://www.huffpost.com/entry/spotify-ceo-daniel-ek-artificial-inte
 cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/spotify-ceo-daniel-ek-artificial-intelligence_n_644a26d2e4b039ec4e8319b6/amp"
 type: article
 quality: 85
-heat: 96
+heat: 95
 published: true
 
 provider:

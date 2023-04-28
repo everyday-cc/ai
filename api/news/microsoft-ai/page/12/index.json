@@ -2,6 +2,49 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2023-01-11-the-ai-tailwinds-how-arista-networks-is-a-prime-beneficiary.md",
+      "title": "The AI Tailwinds: How Arista Networks Is A Prime Beneficiary",
+      "excerpt": "Arista is a pure play on AI data center buildout as it has no direct retail exposure. See why ANET stock is a prime candidate to be accumulated on any weakness.",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4569067-the-ai-tailwinds-how-arista-networks-is-a-prime-beneficiary",
+      "originalUrl": "https://seekingalpha.com/article/4569067-the-ai-tailwinds-how-arista-networks-is-a-prime-beneficiary",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/157647179/image_157647179.jpg?io=getty-c-w750",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-10T11:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-11-report-microsoft-could-invest-10b-in-openai-at-29b-valuation.md",
       "title": "Report: Microsoft could invest $10B in OpenAI at $29B valuation",
       "excerpt": "The sources believe that Microsoft could be joined by multiple venture capital firms in the investment. Internal OpenAI documents reportedly suggest that the group had sought to close the investment by the end of 2022,",
@@ -1241,50 +1284,6 @@
         "Facebook AI",
         "IBM AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-05-idc-marketscape-deems-sas-a-leader-for-machine-learning-operations-mlops-platforms.md",
-      "title": "IDC MarketScape deems SAS a leader for machine learning operations (MLOps) platforms",
-      "excerpt": "SAS has been named a leader in the inaugural IDC MarketScape: Worldwide Machine Learning Operations Platforms 2022 Vendor Assessment (doc #US48325822, December 2022). The report noted that as organizations are moving more models from experimentation to production,",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/01/04/9737715.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/01/04/9737715.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1976644/SAS_newswire_IDC.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-04T08:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],
