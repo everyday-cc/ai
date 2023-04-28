@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cognitive Data Management Market Recent Developments and Updates By 2031"
+    excerpt: "What is the Cognitive Data Management market growth? Cognitive Data Management Market Size is projected to Reach Multimillion USD by 2031, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2031."
+    publishedDateTime: 2023-04-27T12:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-data-management-market-recent-developments-and-updates-by-2031-2023-04-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "5lPkcLdXdaR1iMSgPobFvqFzhKR+6Ev86NFJL8ZBu7iRPTBMl8PydMbFE21WgoDIe7r3ObCumsXm8lfkzqCiUchkKVvyI6HhBSaQuryNvoyayfzFONkC/XKW7tcLY0RhHI4uQCzKap5uZF9h6KfJf2bHE5QRC/xE4MNmmoohBMSVTFuy/qxqCg15G35m6TWzHT2JkwIVPyZzcRgrXN80riWco/Z23KHQ62hkqfpYRyfvA9y34T2rh4ZY0xF2GLJsdAbfeCn/KxsIuaK25uK7s21EX4Jlbrctmde0F3fPx9FMRLZp7ZSyv4PCXtR8d2Quc9v1Ga4mj3zBYVRbnijQ+zpmbs+ONjL0mc8w9WoV1bo=;hKY5JynW5ZL+rgR/0EAsDQ=="
 ---

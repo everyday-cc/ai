@@ -43,6 +43,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Indigenous Voice to Parliament: Federal Perth MP Patrick Gorman slams Jacinta Price’s No campaign event"
+    excerpt: "Federal Perth MP Patrick Gorman has slammed a Voice to Parliament No campaign event for ‘politicising the Anzac legacy’, accusing it of being ‘full of lies and misinformation’."
+    publishedDateTime: 2023-04-28T07:31:00Z
+    webUrl: "https://thewest.com.au/news/indigenous-voice-to-parliament/indigenous-voice-to-parliament-federal-perth-mp-patrick-gorman-slams-jacinta-prices-no-campaign-event-c-10482689"
+    ampWebUrl: "https://thewest.com.au/news/indigenous-voice-to-parliament/indigenous-voice-to-parliament-federal-perth-mp-patrick-gorman-slams-jacinta-prices-no-campaign-event-c-10482689.amp"
+    cdnAmpWebUrl: "https://thewest-com-au.cdn.ampproject.org/c/s/thewest.com.au/news/indigenous-voice-to-parliament/indigenous-voice-to-parliament-federal-perth-mp-patrick-gorman-slams-jacinta-prices-no-campaign-event-c-10482689.amp"
+    type: article
+    provider:
+      name: The West Australian
+      domain: thewest.com.au
+    quality: 43
+    images:
+      - url: "https://images.thewest.com.au/publication/C-10482689/a051021bcc909f9e354b3ddc7b329265897c32d4-16x9-x1y0w2446h1376.jpg?imwidth=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "hGGYnvpqij5gABYSTz7T7D+8mxAVLtpoycxGxvqd0mLX/FkRBvS6iCTbkC2aeVnAWAqTyeieFLZMZMU0ZOYH25XD37CfTkNo4YgRlw9J4COHr04CB3Znoyalh7CqrnWBO0zxaEgOH4zltVNQsebk6n4LrgTOWhEzlnezzwJMlkZ9G/kSLtswmKTC6zhT0rw3tlfZW1rb0w6hFiJ71HI5AbocIyOrLkI/VroWyBrMrimj+I7FXa9pKJLHSYXxdQeZSTm04+BdV/cMHnHpa0pP9Z1qy4oMcP3TnhRc1fCooHRfwsuUzL0jvojjXgRgdWggN2L6LRTU6zxxur0WRCcjEGYDcpVo3wO/HT78cqMzSotBQyLh9IWSOE5PZZlpcL/zGdrergOLNwd6ZNr2V4Mp7XRwctLGhRd7jNLvTRU4wVg4/kO4w3Bq8ifeny0Tk2+1tvp5kaQDh9G6PeoPU/Twb8fw0bi299Ox/T5nZPYQIL0UZL021dgdfrefZIyPqSypDRmG67D0Jva1OkcM2sPTUA==;hLu+LvbVWFlynfOnmt6org=="
 ---

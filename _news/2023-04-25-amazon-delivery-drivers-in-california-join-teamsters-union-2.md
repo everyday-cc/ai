@@ -48,6 +48,20 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Embedded Vision Summit® Announces Full Conference Program for Edge AI and Computer Vision Innovators, May 22-24 in Santa Clara, California"
+    excerpt: "The Edge AI and Vision Alliance, a 100+ company worldwide industry partnership, today announced the full program for the 2023 Embedded Vision Summit, May 22-24 at the Santa Clara Convention Center, Santa Clara,"
+    publishedDateTime: 2023-04-27T20:14:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-embedded-vision-summitreg-announces-full-conference-program-edge-/2023/04/27/9803802.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 20
+    images:
+      - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
+        width: 550
+        height: 353
+        isCached: true
   - title: "First man wrongfully arrested because of facial recognition testifies as California weighs new bills"
     excerpt: "One bill would ban its use for 10 years, while the second could allow police to match images to the state driver’s license database"
     publishedDateTime: 2023-04-27T18:07:00Z
@@ -57,15 +71,6 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 4
-  - title: "Embedded Vision Summit® Announces Full Conference Program for Edge AI and Computer Vision Innovators, May 22-24 in Santa Clara, California"
-    excerpt: "The premier event for product creators incorporating computer vision and edge AI in products and applications SANTA CLARA, Calif., /PRNewswire/ -- The Edge AI and Vision Alliance, a 100+ company world"
-    publishedDateTime: 2023-04-27T18:53:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/04/n32056890/embedded-vision-summit-announces-full-conference-program-for-edge-ai-and-computer-vision-innovator"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
 secured: "tUUPTq1tPaIiErASty7dlBDxOEqDjqz/m3S9nX2wXNNl3YnIwWTfzfKGvxOlP0t1RdNzLYExEdNI6b3bNjdYi2wrbe1xOM7kQpTjstzL6Rf4Dv6lXwBRMzzi9g6Aq02xKnXFHpkZ6EtktJRLBHE7t2w+LXqbahHRapOJg3RUPPIfG5nozuJCq29rbJ3f7Q+R+dc3XRppxe3oQWK+dXnzzGNLFv9A7H56VpDPEWR4SpnACJP3t3c5w4/z4Ds3GnKA6DhhPJls93LYhLjyGV6EgzNvHhqEPZxbNJ/kkJ5Gxg8faQ1Hj6nZKJM0AadtJO6hqAUCN0loLeCj5KUmrmQK3o4jWzpe19XoAvv2nq9XBmVX1Srn1/gtNkH85AX3O9mlYPAR1ofYyiOk1HAsl65V6CRp27X9WiQfbu7awfUCdyOV8QX6/kKT6f5qY9soulCpKf/dFVrfG+ofcQA+FF7ZSGn8EExtXhDh2jAJQtI8QEigf6CJyaPKqoqof8c/MtHhM5Hf26jVt5V/Ka26em+OkQ==;q8jptEVitng2TcEXw6HlOg=="
 ---
