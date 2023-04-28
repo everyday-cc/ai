@@ -78,22 +78,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "How artificial intelligence is being used to create ‘deepfakes’ online"
-    excerpt: "As technology grows more sophisticated, so does the potential for deception. Last month, images went viral that purported to show police arresting Donald Trump and the former president in an orange prisoner’s jumpsuit — but they were fakes."
-    publishedDateTime: 2023-04-23T21:40:00Z
-    webUrl: "https://www.pbs.org/newshour/show/how-artificial-intelligence-is-being-used-to-create-deepfakes-online"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/show/how-artificial-intelligence-is-being-used-to-create-deepfakes-online"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/show/how-artificial-intelligence-is-being-used-to-create-deepfakes-online"
-    type: article
-    provider:
-      name: PBS
-      domain: pbs.org
-    quality: 57
-    images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2023/04/MONH-DEEPFAKES-leading-edge-1024x576.png"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Grimes invites artists to use her voice for AI-generated songs, says she'll split royalties"
     excerpt: "\"I think it's cool to be fused w[ith] a machine and I like the idea of open sourcing all art and killing copyright,\" the singer tweeted.​"
     publishedDateTime: 2023-04-25T00:51:00Z

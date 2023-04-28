@@ -7,7 +7,7 @@ originalUrl: "https://www.androidauthority.com/is-ai-dangerous-threat-3316199/"
 webUrl: "https://www.androidauthority.com/is-ai-dangerous-threat-3316199/"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "What are the dangers of AI? Find out why people are afraid of artificial intelligence"
+    excerpt: "Many experts worry that the rapid development of artificial intelligence may have unforeseen disastrous consequences for humanity. Machine learning technology is designed to assist humans in their everyday life and provide the world with open access to information."
+    publishedDateTime: 2023-04-28T15:00:00Z
+    webUrl: "https://wfin.com/fox-technology-news/what-are-the-dangers-of-ai-find-out-why-people-are-afraid-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: WFIN
+      domain: wfin.com
+    quality: 47
+    images:
+      - url: "https://cdn.tegna-media.com/wtol/weather/PlanAhead.jpg"
+        width: 864
+        height: 486
+        isCached: true
   - title: "Sundar Pichai bets big on infusing AI in Google Search engine"
     excerpt: "Facing a tough competition from AI-powered Microsoft Bing, Alphabet and Google CEO Sundar Pichai has announced to unlock the full potential of AI into its Search engine."
     publishedDateTime: 2023-04-26T10:30:00Z

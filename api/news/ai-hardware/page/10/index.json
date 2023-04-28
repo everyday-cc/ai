@@ -2,6 +2,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-01-12-stylish-savage-and-smarter-lenovo-unveils-the-worlds-most-powerful-16-inch-ai-tuned-gaming-laptops-and-an-ecosystem-of-gaming-products.md",
+      "title": "Stylish, Savage, and Smarter: Lenovo unveils the world’s most powerful 16-inch AI-tuned gaming laptops and an ecosystem of gaming products",
+      "excerpt": "Lenovo Legion lineup of battle-ready PCs, monitors, and accessories are unveiled, setting a new standard in PC gaming for 2023 that give",
+      "sourceUrl": null,
+      "webUrl": "https://www.albawaba.com/business/pr/stylish-savage-and-smarter-lenovo-unveils-world’s-most-powerful-16-inch-ai-tuned-gaming",
+      "originalUrl": "https://www.albawaba.com/business/pr/stylish-savage-and-smarter-lenovo-unveils-world’s-most-powerful-16-inch-ai-tuned-gaming",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/2023-01/Legion-towers-scaled.jpg?itok=3sQWnrqm",
+          "width": 2048,
+          "height": 1230,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.albawaba.com/amp/business/pr/stylish-savage-and-smarter-lenovo-unveils-world%E2%80%99s-most-powerful-16-inch-ai-tuned-gaming",
+      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/stylish-savage-and-smarter-lenovo-unveils-world%E2%80%99s-most-powerful-16-inch-ai-tuned-gaming",
+      "publishedDateTime": "2023-01-12T00:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Al Bawaba News",
+        "domain": "albawaba.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-12-4-ai-and-ml-job-hunting-tips-from-chip-huyen.md",
       "title": "4 AI and ML job hunting tips from Chip Huyen",
       "excerpt": "It may be a tough market, but author and computer scientist Chip Huyen says there are several ways AI and ML job hunters can stand out.",
@@ -1337,58 +1380,6 @@
         "name": "Barron's",
         "domain": "barrons.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-05-amd-blitzes-ces-with-cache-fueled-zen-4-cpus-a-ryzen-and-radeon-7000-mobile-arsenal-and-ai.md",
-      "title": "AMD Blitzes CES With Cache-Fueled Zen 4 CPUs, A Ryzen And Radeon 7000 Mobile Arsenal And AI",
-      "excerpt": "There’s one thing for sure and its that this company isn’t taking its foot off the gas in any of its core technologies and market segments anytime soon.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davealtavilla/2023/01/05/amd-blitzes-ces-with-cache-fueled-zen-4-cpus-a-ryzen-and-radeon-7000-mobile-arsenal-and-ai/",
-      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2023/01/05/amd-blitzes-ces-with-cache-fueled-zen-4-cpus-a-ryzen-and-radeon-7000-mobile-arsenal-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63b6f6814ba88ddd701fbbc9/0x0.jpg?format=jpg&width=1200",
-          "width": 1158,
-          "height": 629,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2023/01/05/amd-blitzes-ces-with-cache-fueled-zen-4-cpus-a-ryzen-and-radeon-7000-mobile-arsenal-and-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2023/01/05/amd-blitzes-ces-with-cache-fueled-zen-4-cpus-a-ryzen-and-radeon-7000-mobile-arsenal-and-ai/amp/",
-      "publishedDateTime": "2023-01-05T07:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

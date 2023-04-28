@@ -2,6 +2,59 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-03-17-aws-chatbot-now-integrated-into-microsoft-teams.md",
+      "title": "AWS Chatbot now integrated into Microsoft Teams",
+      "excerpt": "Amazon Web Services has integrated its AWS Chatbot into Microsoft Teams to allow enterprise users to interact with AWS cloud resources from within the chat application. AWS Chatbot, which was ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3691291/aws-chatbot-now-integrated-into-microsoft-teams.html",
+      "originalUrl": "https://www.infoworld.com/article/3691291/aws-chatbot-now-integrated-into-microsoft-teams.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/05/communication_language_text_speech_chatbot_artificial_intelligence_by_wutwhanfoto_gettyimages-649188276_1200x800-100757295-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3691291/aws-chatbot-now-integrated-into-microsoft-teams.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3691291/aws-chatbot-now-integrated-into-microsoft-teams.amp.html",
+      "publishedDateTime": "2023-03-17T04:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-17-elon-musk-questions-microsoft-cutting-its-ai-ethics-team-after-doing-the-same-at-twitter.md",
       "title": "Elon Musk questions Microsoft cutting its AI ethics team after doing the same at Twitter",
       "excerpt": "After Microsoft laid off its AI ethics team, Elon Musk tweeted about it. However, he didn't mention that he did the same to Twitter's AI ethics team too. Credit: STR/NurPhoto via Getty Images Artificial intelligence is having a big moment right now in the ...",
@@ -1417,49 +1470,6 @@
       "provider": {
         "name": "africabusinesscommunities.com",
         "domain": "africabusinesscommunities.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-13-dvt-hosts-webinar-on-ai-accessibility.md",
-      "title": "DVT hosts webinar on AI, accessibility",
-      "excerpt": "Preddy discussed the use of AI and demonstrated how to use Microsoft’s Azure OpenAI and GPT-3 to scan websites for accessibility issues. Preddy explains that AI can be viewed as either a threat or an opportunity for humanity. He believes in the latter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itweb.co.za/content/lwrKxv3YAgbMmg1o",
-      "originalUrl": "https://www.itweb.co.za/content/lwrKxv3YAgbMmg1o",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.itweb.co.za/static/pictures/2023/03/Rory-Preddy-13March2023.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itweb.co.za/amp/content/lwrKxv3YAgbMmg1o",
-      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/lwrKxv3YAgbMmg1o",
-      "publishedDateTime": "2023-03-12T23:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
         "images": null,
         "publishers": null,
         "authors": null

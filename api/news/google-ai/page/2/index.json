@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-03-19-edmonton-ai-guru-rich-sutton-has-lost-his-deepmind-but-not-his-ambition.md",
+      "title": "Edmonton AI guru Rich Sutton has lost his DeepMind but not his ambition",
+      "excerpt": "Dishing with DKG: The University of Alberta professor is a pioneer in AI and until recently ran the DeepMind lab in Edmonton until Google pulled the plug This is a new conversation series by Donna ...",
+      "sourceUrl": null,
+      "webUrl": "https://nationalpost.com/news/canada/ai-guru-rich-sutton-deepmind",
+      "originalUrl": "https://nationalpost.com/news/canada/ai-guru-rich-sutton-deepmind",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2023/03/Richard-Sutton-1.jpg",
+          "width": 1000,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nationalpost.com/news/canada/ai-guru-rich-sutton-deepmind/wcm/603bee65-3005-4929-b37f-77d0d2f3bba5/amp/",
+      "cdnAmpWebUrl": "https://nationalpost-com.cdn.ampproject.org/c/s/nationalpost.com/news/canada/ai-guru-rich-sutton-deepmind/wcm/603bee65-3005-4929-b37f-77d0d2f3bba5/amp/",
+      "publishedDateTime": "2023-03-19T06:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "National Post",
+        "domain": "nationalpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-17-watch-google-deepminds-alphago-documentary-for-free.md",
       "title": "Watch Google Deepmind's AlphaGo Documentary for Free",
       "excerpt": "In 2016, DeepMind, Google's subsidiary focused on artificial intelligence research, made history when AlphaGo, an AI system became one of the world's best Go players. Over the course seven days, in a best-of-five-game competition, AlphaGo bested high ...",
@@ -1382,58 +1425,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-30-how-ai-is-improving-agriculture-sustainability-in-india.md",
-      "title": "How AI is improving agriculture sustainability in India",
-      "excerpt": "A look at how AI can help agriculture and sustainable farming in India.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/how-ai-is-improving-agriculture-sustainability-in-india/",
-      "originalUrl": "https://blog.google/technology/ai/how-ai-is-improving-agriculture-sustainability-in-india/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ak_2_qhJiQ80.max-1300x1300.png",
-          "width": 1300,
-          "height": 902,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-30T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

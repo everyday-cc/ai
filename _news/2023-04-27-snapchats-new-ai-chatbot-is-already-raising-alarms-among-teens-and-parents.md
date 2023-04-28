@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2023/04/27/tech/snapchat-my-ai-concerns-well
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/04/27/tech/snapchat-my-ai-concerns-wellness/index.html"
 type: article
 quality: 85
-heat: 225
+heat: 235
 published: true
 
 provider:
@@ -227,6 +227,15 @@ related:
       name: Inc
       domain: inc.com
     quality: 11
+  - title: "expert reaction to study comparing physician and AI chatbot responses to patient questions"
+    excerpt: "April 28, 2023 expert reaction to study comparing physician and AI chatbot responses to patient questions . A study published in JAMA Internal Medicine compares physician and arti"
+    publishedDateTime: 2023-04-28T15:53:00Z
+    webUrl: "https://www.sciencemediacentre.org/expert-reaction-to-study-comparing-physician-and-ai-chatbot-responses-to-patient-questions/"
+    type: article
+    provider:
+      name: Science Media Centre
+      domain: sciencemediacentre.org
+    quality: 9
 
 secured: "G5EQUV0h3rkOpVuNQt1Ysyu/jy10BOAzLBbjBGNFEuFSb1Lp7hVVZrs9T6RCi6DQkePgdkgVwlk3BhmbHGYG3uy0teAUKqKmbabV6a+a4mxiTdkJ/5nRcEygIxyvSawo3FEkM0DQwmrMGViMr5Y/EaqFsIUM0ypRszbDZtFm71OWXLwsD9mf3WhmDy0YxJspKiXrRmTVymGMArkEdWoMQLpfL16LDt13m2jWbituu4xIKY1pNgmT6lH2WTSTC9cqBE+5mAuwVelNXivIjAMgcOxwqR6tyoJhIsE618ImhPefpBShkfRFBE4UZqw2eJQbWPhYpNdgU0GfmAoYttCw/5hnfOoNGVaf6AIbgM8tomA=;XOhhFIYRe2DbdqLnO/QrYA=="
 ---

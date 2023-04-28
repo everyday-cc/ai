@@ -90,20 +90,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "ChatGPT: How generative AI could change hiring as we know it"
-    excerpt: "Candidates are already using tools such as ChatGPT to write cover letters and CVs. But it’s just a small piece of how AI is transforming hiring processes."
-    publishedDateTime: 2023-04-23T19:38:00Z
-    webUrl: "https://www.bbc.com/worklife/article/20230419-chatgpt-how-generative-ai-could-change-hiring-as-we-know-it"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 67
-    images:
-      - url: "https://ychef.files.bbci.co.uk/live/624x351/p0fhn46s.jpg"
-        width: 624
-        height: 351
-        isCached: true
   - title: "Music Executives Grapple With Generative AI on Earnings Calls"
     excerpt: "The leaders of Spotify and Universal Music Group are trying to sort through the threats and opportunities surrounding AI"
     publishedDateTime: 2023-04-27T18:31:00Z

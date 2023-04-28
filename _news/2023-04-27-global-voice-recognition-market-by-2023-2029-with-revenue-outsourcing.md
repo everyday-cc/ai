@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facial Recognition Market: Segments Analysis and Future Growth Trends By 2030"
+    excerpt: "Apr 27, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The Facial Recognition Market"
+    publishedDateTime: 2023-04-27T20:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-segments-analysis-and-future-growth-trends-by-2030-2023-04-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "2VdUv+I+R5bpuWJ2+9IFe7kNST+2aKUcu5JpjGaPiJPfjWI1Ca850YhYpgZJpuTxusTy7iChVMPxIvqQmD5x+gm5giKaCLDKX0k1qXnd8XW3dC1rRTAOIfQHpUguPsbyNUnontRDN51ZpmBozQujmb47+glEUOI05w/NutPe0lIg+3KYTbboYg1dpkUp2Sg66ZGK+CeTWlwK+CQfQLqRGZJUtiY1TGysi1/lZDzlIGT1AqTytwiNhaNartvlpthzLbnI6a+4B5K4eKh2y/AhvzbVblVDtR3aDc8PNVQ+lUDGJHg8r/iD2leS2FiEGwsRk8o8JcvRqWbHTrUj203bY1nb0+ZQ888FY9GGmEvQyPI=;eC/P9MTv3lvJo3PqCMhUhw=="
 ---

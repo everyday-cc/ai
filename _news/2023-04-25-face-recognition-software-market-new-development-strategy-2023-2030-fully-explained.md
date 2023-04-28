@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/face-recognition-softwar
 webUrl: "https://www.marketwatch.com/press-release/face-recognition-software-market-new-development-strategy-2023-2030-fully-explained-2023-04-25"
 type: article
 quality: 76
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Facial Recognition Market: Segments Analysis and Future Growth Trends By 2030"
+    excerpt: "Apr 27, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The Facial Recognition Market"
+    publishedDateTime: 2023-04-27T20:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-segments-analysis-and-future-growth-trends-by-2030-2023-04-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Voice Recognition Market by [2023-2029] with Revenue Outsourcing"
     excerpt: "In 2023,Voice Recognition Market with technical and procedural infrastructure that gathers and evaluates the data"
     publishedDateTime: 2023-04-27T06:34:00Z

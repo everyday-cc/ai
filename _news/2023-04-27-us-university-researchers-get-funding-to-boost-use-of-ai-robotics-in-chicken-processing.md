@@ -19,53 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Researchers use AI to discover new planet outside solar system"
-    excerpt: "A University of Georgia research team has confirmed evidence of a previously unknown planet outside of our solar system, and they used machine learning tools to detect it."
-    publishedDateTime: 2023-04-24T16:53:00Z
-    webUrl: "https://phys.org/news/2023-04-ai-planet-solar.html"
-    ampWebUrl: "https://phys.org/news/2023-04-ai-planet-solar.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-04-ai-planet-solar.amp"
+  - title: "Largest-ever federal university grant awarded for AI and robotics research, as part of $1.4B fund"
+    excerpt: "The Canadian government has unveiled which universities will be receiving a portion of $1.4 billion in research funding, with the single largest sum going to the University of Toronto for its work on artificial intelligence."
+    publishedDateTime: 2023-04-28T10:24:00Z
+    webUrl: "https://www.ctvnews.ca/politics/largest-ever-federal-university-grant-awarded-for-ai-and-robotics-research-as-part-of-1-4b-fund-1.6375101"
+    ampWebUrl: "https://beta.ctvnews.ca/national/politics/2023/4/28/1_6375101.amp.html"
+    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/politics/2023/4/28/1_6375101.amp.html"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 76
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/researchers-use-ai-to-1.jpg"
-        width: 1958
-        height: 1670
-        isCached: true
-  - title: "Researchers use AI to explore potential zoonotic diseases"
-    excerpt: "The COVID-19 pandemic highlighted the importance of closely monitoring viruses that could infect humans. In the early stages of the pandemic, Timothée Poisot and his colleagues were already developing an algorithm for predicting mammal-virus interactions."
-    publishedDateTime: 2023-04-26T20:47:00Z
-    webUrl: "https://phys.org/news/2023-04-ai-explore-potential-zoonotic-diseases.html"
-    ampWebUrl: "https://phys.org/news/2023-04-ai-explore-potential-zoonotic-diseases.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-04-ai-explore-potential-zoonotic-diseases.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/researchers-use-ai-to-2.jpg"
-        width: 761
-        height: 335
-        isCached: true
-  - title: "Researchers use AI to innovate insect discovery"
-    excerpt: "A team of researchers at the IUPUI School of Science have developed an innovative use of Artificial Intelligence to discover new species of insects."
-    publishedDateTime: 2023-04-27T16:42:00Z
-    webUrl: "https://phys.org/news/2023-04-ai-insect-discovery.html"
-    ampWebUrl: "https://phys.org/news/2023-04-ai-insect-discovery.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-04-ai-insect-discovery.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/school-of-science-rese.jpg"
-        width: 2137
-        height: 800
+      - url: "https://beta.ctvnews.ca/content/dam/ctvnews/images/2023/4/28/1_6375107.jpg"
+        width: 1020
+        height: 729
         isCached: true
 
 secured: "NjHa4Tmj33byiZWoQlbiZpZe4bpKgprYpTkKMoZ6DngubqavffakMDKCVQ/sRJCGc1tfOCfp8vQc30PgGWLYu0Ja9E17WmG57xTNeYcOI6AkiUMaz1i5zmbEsMmLE/7zZ8T+rMRndQbc3TeBZY/4+THxYrD0oicJgHMg7Q4Yxjpa++9i9FAIljDF5K+d5wQmwXxiAyVKNCxnliBt9zFMBdyCCi0kHKF+O7luWFyyDLapjKZyi6sl0jX9tP066L7NGtc6C4gMtpj0s1iJrqiKgLXB3Q2FszpIzeYHVIRrTD2Z/YNHfoKf4BL6FkNr5IntzrZDy4wNLFXSoX7Zp2HMjM/SO4VnSTzMp/bzfQ1yQU0ZacV24lL8kqzpMfkdHqFCMMWKD8+2wqe1xuLO2TcqbmBphMeL0YVn++cNqKknKk9rK+NaBS9Y2/u9ylFUvQoIgjY/Uup/kW89tXev/1kTeA5w5OFuc4GlyDEX3IADoXOJkm7LXbxRBs/FD2spocWq2LvRmjA03mmEdb0rmjYkhQ==;v11xlc3IRjs0nB/TP8SToQ=="

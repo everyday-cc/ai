@@ -39,6 +39,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "What are the dangers of AI? Find out why people are afraid of artificial intelligence"
+    excerpt: "Many experts worry that the rapid development of artificial intelligence may have unforeseen disastrous consequences for humanity. Machine learning technology is designed to assist humans in their everyday life and provide the world with open access to information."
+    publishedDateTime: 2023-04-28T15:00:00Z
+    webUrl: "https://wfin.com/fox-technology-news/what-are-the-dangers-of-ai-find-out-why-people-are-afraid-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: WFIN
+      domain: wfin.com
+    quality: 47
+    images:
+      - url: "https://cdn.tegna-media.com/wtol/weather/PlanAhead.jpg"
+        width: 864
+        height: 486
+        isCached: true
 
 secured: "tKd6WALaJF+3iNXJBu5cv7K3abTWQet1JfNWmX+WQzHPeA2cmlJJwd5gZs43LJUKYSiTXOLGAc0ixAHkKWtUlFQ1djQmZgQkRjSBAF1+V8CLDWFnqk4BX4tIg2tggWy2gyo/oUmzaV/bDzstwSKKYvF7r8n3TJKUX61uQE8Gv+DnZ4pJQxWnG3YqJRwbWQWGzGZjoOpNVD5qSo6RSExbdrsdIzox0XHn1HmkVVrJ9khlqSK2NXgDgsrvCIOP12oq4EMi13QQXWjC+w8vRA/m9BghkeheSdJU6y8WT4jcUuR7ivis58yU5nSt6kYiM73c2MDKTG77BWCoLFSwm6Ye8plYfk2vmDB6RqjYG8UfcYM=;phA2Xo8DUDQEV8gcuvqdeA=="
 ---

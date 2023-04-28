@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/cadence-collaborates-wit
 webUrl: "https://www.marketwatch.com/press-release/cadence-collaborates-with-guc-on-ai-hpc-and-networking-in-advanced-packaging-technologies-2023-04-26"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: MarketWatch
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Smartling Announces Patent-pending Technology That Enables Improvements in AI Translation"
+    excerpt: "Smartling, Inc., the enterprise translation company, has announced the introduction of patent-pending technology"
+    publishedDateTime: 2023-04-28T15:15:00Z
+    webUrl: "https://www.datanami.com/this-just-in/smartling-announces-patent-pending-technology-that-enables-improvements-in-ai-translation/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 30
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-North-America23.png"
+        width: 1664
+        height: 674
+        isCached: true
   - title: "Cadence Collaborates with GUC on AI, HPC and Networking in Advanced Packaging Technologies"
     excerpt: "GUC's big-die CoWoS platform represents real-world CPU, GPU, AI, and networking chips by integrating multiple instances of the Cadence 112G-LR SerDes with a 7.2Gbps HBM3 controller and PHY, as well as a GLink-2."
     publishedDateTime: 2023-04-26T17:08:00Z

@@ -2,6 +2,108 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-04-27-deloitte-looks-to-bring-ai-to-the-frontline-with-a-little-help-from-nvidia.md",
+      "title": "Deloitte looks to bring AI to the frontline with a little help from Nvidia",
+      "excerpt": "With help from Nvidia, Deloitte is rolling out new AI capabilities to enhance logistics, supply chain and customer care deployments.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/deloitte-looks-to-bring-ai-to-the-frontline-with-a-little-help-from-nvidia/",
+      "originalUrl": "https://venturebeat.com/ai/deloitte-looks-to-bring-ai-to-the-frontline-with-a-little-help-from-nvidia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-840412560-Thatree-Thitivongvaroon.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 606,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/deloitte-looks-to-bring-ai-to-the-frontline-with-a-little-help-from-nvidia/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/deloitte-looks-to-bring-ai-to-the-frontline-with-a-little-help-from-nvidia/amp/",
+      "publishedDateTime": "2023-04-26T14:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-27-moveworks-debuts-creator-studio-to-build-ai-driven-employee-copilots.md",
+      "title": "Moveworks debuts Creator Studio to build AI-driven employee copilots",
+      "excerpt": "Enterprise chatbot developer Moveworks today launched Creator Studio, a no-code platform to build custom conversational AI interfaces.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/moveworks-debuts-creator-studio-to-build-ai-driven-employee-copilots/",
+      "originalUrl": "https://venturebeat.com/ai/moveworks-debuts-creator-studio-to-build-ai-driven-employee-copilots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1364050120-e1651871311915.jpg?fit=800%2C533&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/moveworks-debuts-creator-studio-to-build-ai-driven-employee-copilots/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/moveworks-debuts-creator-studio-to-build-ai-driven-employee-copilots/amp/",
+      "publishedDateTime": "2023-04-26T14:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-27-review-the-magic-conveyor-belt-supply-chain-and-ai-a-tale-of-two-halves.md",
       "title": "Review: “The Magic Conveyor Belt, Supply Chain And AI,” A Tale Of Two Halves",
       "excerpt": "I had hopes that this would be a great book about modern supply chains and how artificial intelligence (AI) can address the challenges of the sector. Sadly, I was only half right.",
@@ -460,6 +562,58 @@
       ]
     },
     {
+      "path": "_news/2023-04-26-cadence-collaborates-with-guc-on-ai-hpc-and-networking-in-advanced-packaging-technologies.md",
+      "title": "Cadence Collaborates with GUC on AI, HPC and Networking in Advanced Packaging Technologies",
+      "excerpt": "Cadence Design Systems, Inc. (Nasdaq: CDNS) today announced that the Cadence® 112G-LR SerDes is silicon proven on",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cadence-collaborates-with-guc-on-ai-hpc-and-networking-in-advanced-packaging-technologies-2023-04-26",
+      "originalUrl": "https://www.marketwatch.com/press-release/cadence-collaborates-with-guc-on-ai-hpc-and-networking-in-advanced-packaging-technologies-2023-04-26",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-26T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-26-waymo-driverless-car-goes-viral-after-police-officer-directed-it-to-pull-over.md",
       "title": "Waymo driverless car goes viral after police officer directed it to pull over",
       "excerpt": "A screenshot of the viral video on TikTok showing driverless car passengers reacting to the police officer's guidance. TikTok/@johnnyromano3 A video of a driverless car reacting to a police ...",
@@ -562,7 +716,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/microsoft-stock-price-chatgpt-investor-ai-cloud-azure-satya-nadella-2023-4",
       "featuredContent": null,
       "highlight": null,
-      "heat": 543,
+      "heat": 573,
       "tags": null,
       "images": [
         {
@@ -1118,162 +1272,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-26-24-top-ai-statistics-and-trends-in-2023.md",
-      "title": "24 Top AI Statistics And Trends In 2023",
-      "excerpt": "AI continues to revolutionize various industries, with an expected annual growth rate of 37.3% between 2023 and 2030, as reported by Grand View Research. This rapid growth emphasizes the increasing impact of AI technologies in the coming years. [5]",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/advisor/business/ai-statistics/",
-      "originalUrl": "https://www.forbes.com/advisor/business/ai-statistics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.forbes.com/advisor/wp-content/uploads/2023/04/24_Top_AI_Statistics_And_Trends_In_2023_-_article_image.jpg",
-          "width": 958,
-          "height": 539,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-25T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-run-your-local-machine-learning-code-as-amazon-sagemaker-training-jobs-with-minimal-code-changes.md",
-      "title": "Run your local machine learning code as Amazon SageMaker Training jobs with minimal code changes",
-      "excerpt": "We recently introduced a new capability in the Amazon SageMaker Python SDK that lets data scientists run their machine learning (ML) code authored in their preferred integrated developer environment (IDE) and notebooks along with the associated runtime dependencies as Amazon SageMaker training jobs with",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/run-your-local-machine-learning-code-as-amazon-sagemaker-training-jobs-with-minimal-code-changes/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/run-your-local-machine-learning-code-as-amazon-sagemaker-training-jobs-with-minimal-code-changes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/04/25/machine-learning-local-code-sagemaker.jpg",
-          "width": 959,
-          "height": 478,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-25T13:55:57-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-04-26-tc-roundup-pitch-coaching-from-5-vcs-black-founder-funding-options-3-fintech-flubs.md",
-      "title": "TC+ roundup: Pitch coaching from 5 VCs, Black founder funding options, 3 fintech flubs",
-      "excerpt": "If you’ve added \"AI\" to your pitch deck to make it more appealing, I have some bad news: FOMO is passé, and due diligence is the new black.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/04/25/tc-roundup-pitch-coaching-from-5-vcs-black-founder-funding-options-3-fintech-flubs/",
-      "originalUrl": "https://techcrunch.com/2023/04/25/tc-roundup-pitch-coaching-from-5-vcs-black-founder-funding-options-3-fintech-flubs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/04/GettyImages-1372487294.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/04/25/tc-roundup-pitch-coaching-from-5-vcs-black-founder-funding-options-3-fintech-flubs/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/04/25/tc-roundup-pitch-coaching-from-5-vcs-black-founder-funding-options-3-fintech-flubs/amp/",
-      "publishedDateTime": "2023-04-25T13:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

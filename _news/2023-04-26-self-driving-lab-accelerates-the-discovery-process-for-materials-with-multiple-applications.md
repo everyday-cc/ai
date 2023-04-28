@@ -26,6 +26,22 @@ images:
     height: 900
     isCached: true
 
+related:
+  - title: "Self-Driving Lab Accelerates the Discovery Process for Materials"
+    excerpt: "Autonomous discovery lab leading the way in transforming research on sustainable, bio-inspired microelectronics"
+    publishedDateTime: 2023-04-26T19:13:00Z
+    webUrl: "https://www.labmanager.com/news/self-driving-lab-accelerates-the-discovery-process-for-materials-30187"
+    type: article
+    provider:
+      name: Lab Manager
+      domain: labmanager.com
+    quality: 24
+    images:
+      - url: "https://lmg-labmanager.s3.amazonaws.com/assets/articleNo/30187/aImg/54234/self-driving-lab-accelerates-the-discovery-process-for-materials-m.jpg"
+        width: 800
+        height: 400
+        isCached: true
+
 secured: "n61H9XgeeFGboVMVd/3Y30Vy7zaCuzD7Dh6KfGw77EcO9b7PL5AJbgJHlpE4ZdWiN5Rkx7W+z1JL6NvemSx25WCwYEnqj0J3QPlu3uMO5+F8UdYtxdvIMUdTCWlUtRCZMBucxTUvuvynLPj4BNFs3CQiHzIrABh4HFtPfss7oO7CZqczA8hVqfji6CmkM30r9sHhJVwkO+fZ68V69tnAnGUjiq1hv/CWw4ci01NvIoWAhrxr+uiST9xrAXCv0ZtD4g/c5NOTX3Rav1Ds/teWeXE5VmPmULONcSavZC8clSwfvwXVIPChg7ZxNCsMuH5e/QOcQIi/Crro1wvsgyeVaCSF5hhDhC/shwSE1FeVstrirrT7fsunGfBo+KeWtBxyVLF04yuZNYokFHuMM5TaHnUIaEu+K8bHTIXZVp+UPJAassa7RjdQ4ENXsrcgOE9SdlI/fXfE14qviDH3JjQUPwRx0kLuyWVuPG+uuV06NFWtsTO1FSOJPqOLE8SaK3BzTGmVFgAO7g8qN5GEo1VD8w==;cgmJSbQq+qXF9b1WfE+hoQ=="
 ---
 

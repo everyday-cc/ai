@@ -225,6 +225,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cloud AI Developer Services Market Research, 2023-2030"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Cloud AI Developer Services Marketsize, segment (mainly coveringMajorType (, Image Recognition, Language Recognition, Automated Machine Learning (AutoML), ,),End Users ..."
+    publishedDateTime: 2023-04-28T11:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-ai-developer-services-market-research-2023-2030-2023-04-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
   - title: "Global Speech and Voice Recognition Technology Market 2023-2030 is Booming in Upcoming Period"
     excerpt: "Speech and Voice Recognition Technology Market Report Insights (2023-2030) :(110 Pages Report) Speech and Voice"
     publishedDateTime: 2023-04-27T08:55:00Z
@@ -290,6 +299,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Medicine Market 2025"
+    excerpt: "The Artificial Intelligence (AI) in Medicine market is a rapidly growing segment of the healthcare industry that is expected to significantly transform the way healthcare is delivered in the future. AI technology has the potential to revolutionize healthcare by improving the accuracy,"
+    publishedDateTime: 2023-04-28T12:15:00Z
+    webUrl: "https://www.pharmiweb.com/press-release/2023-04-28/artificial-intelligence-in-medicine-market-2025-covers-valuable-guidance-for-future-ai-expansion-i"
+    type: article
+    provider:
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 19
   - title: "Global Artificial Intelligence In Agriculture Market Report 2023: Sector Is Expected To Reach $4.9 Billion By 2030 At A CAGR Of 24.1%"
     excerpt: "The \"global artificial intelligence in agriculture market size, share & industry trends analysis report by technology, application, offering, regional outlook and forecast, 2022-2028\" report has been added to ResearchAndMarkets."
     publishedDateTime: 2023-04-24T17:08:00Z

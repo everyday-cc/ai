@@ -58,15 +58,6 @@ related:
         width: 2137
         height: 800
         isCached: true
-  - title: "US university researchers get funding to boost use of AI, robotics in chicken processing"
-    excerpt: "US university researchers at Georgia Tech, the University of Arkansas System, the University of Nebraska-Lincoln and Fort Valley State University in Georgia were awarded a US$5 million grant to increase use of artificial intelligence and robotics in chicken processing to reduce waste in deboning and detect pathogens."
-    publishedDateTime: 2023-04-26T19:28:00Z
-    webUrl: "https://www.efeedlink.com/contents/04-27-2023/e833a986-67e4-4161-8ac5-d62c25b73cd0-0001.html"
-    type: article
-    provider:
-      name: efeedlink
-      domain: efeedlink.com
-    quality: 40
 
 secured: "PhAJInkeGNgH50YZfTkb1kYodjfCG/fqged0vga3RmFz7CddMSS3t0wKXB2PfyvKbySLdHTSYsyg7rS1N1m43a4ycyufQlNYwzu9nKjDJEvP0wnMXgkg0Mk4svFOy1uRBcArJv80PF4M3hb6doqJBBNVQ2XyAXw2k6NPew5rDr62sSn1nI+RJ2Veb+NohBrHjdt4C5f1t7/QHrgj2ZbdqwMHIlRswEMUd0SKkQIJJasAR0cE5VIVf3WFUVD5+WUEtpvyzDlrTYGvE+lP5Ar4HnIX2KYNtwkle6exCMaZ1KMSIuhJHIUTy9wrDWcbhThye+fwfOZBtdQxBM9gAYSILwKMuUIl3Ia8DyAyaL4DfT3yDyW9ksy839V93t4k7m9FrDTbqNN1r29UESlZ2nK9e+0h02twlGBcX3dNwQbNzNZ48Qonv9t/8Jz59OUmyLnPbfVvM8zqUe2DVoR4jjhgru8fuhK8DiHXv/pYibAejNRPDpX3QXjD6DoWDyOxhLAUykVxsGbJVi62f/Fv1JskHA==;WwUA9pVYgpd09KCW6ZzjTQ=="
 ---

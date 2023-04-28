@@ -9,8 +9,8 @@ ampWebUrl: "https://www.moneycontrol.com/news/opinion/traders-have-little-to-fea
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/traders-have-little-to-fear-from-artificial-intelligence-10469941.html/amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: moneycontrol.com
@@ -35,6 +35,15 @@ related:
       name: The Atlantic
       domain: theatlantic.com
     quality: 47
+  - title: "Fluent answers from AI search engines are more likely to be wrong"
+    excerpt: "AI search engines like Microsoft's Bing Chat often fail to provide citations to back up statements, or cite information incorrectly - and this is more likely when answers sound more convincing"
+    publishedDateTime: 2023-04-28T08:22:00Z
+    webUrl: "https://www.newscientist.com/article/2371097-fluent-answers-from-ai-search-engines-are-more-likely-to-be-wrong/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 17
 
 secured: "c+1xVHx0m3pYrbfkDqMN7eItRkvLnghzhXOY/+pgXEmLcd29OIx2dEbUDA1S6sEFLIMVFP+GuLwWffoOJEnPBOrLejFaHwprdK6AS5mZ2wJh0R3vdNB/5/7CHXJ5dWqpN/3hNrs2n/VLiT9q7Bey8pOEdBczBg+cKs6Gb7RACa8zw2fmN1+Sn51sJaO9Ukl5BidiuVef/wHX3dx77+iBRHTToOfNKHfcvV+qSYxVhjY9WjDNsFEJ0sknYzVh9lXEB2+XYu5iZy15uZ0OuBALAQn947S2yMjKsQhIO4ObJSpnlU+CuYNhbexDlrL5LRamW7Xfg1k4E0Y9OkmKXKYx1534NA15V0u4I2NW2nyX5xY=;U7Tx84equWQSiQHV4wbjig=="
 ---

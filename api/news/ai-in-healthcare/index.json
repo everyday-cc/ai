@@ -107,7 +107,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/04/25/what-marketing-and-advertising-specialists-can-expect-from-chatgpt/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 311,
+      "heat": 331,
       "tags": null,
       "images": [
         {
@@ -300,7 +300,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-market-growth-by-2031-2023-04-24",
       "featuredContent": null,
       "highlight": null,
-      "heat": 291,
+      "heat": 301,
       "tags": null,
       "images": [
         {
@@ -693,6 +693,58 @@
         "AI in Autos",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-04-19-artificial-intelligence-ai-chips-market-2023-key-findings-throughout-globally-by-2030.md",
+      "title": "Artificial intelligence (AI) Chips Market [2023] | Key Findings Throughout Globally by 2030",
+      "excerpt": "GlobalArtificial intelligence (AI) Chips Market[2023-2030] research report is a compilation of information and",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-2023-key-findings-throughout-globally-by-2030-2023-04-19",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-2023-key-findings-throughout-globally-by-2030-2023-04-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-19T04:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     },
     {
@@ -1407,49 +1459,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-04-10-shanghai-opens-first-industrial-park-dedicated-to-cell-and-gene-therapy.md",
-      "title": "Shanghai opens first industrial park dedicated to cell and gene therapy",
-      "excerpt": "The city's first dedicated industrial park for cell and gene therapy will be unveiled later this year in the latest bid to implement Shanghai's three-year action plan for the booming sector. The Shanghai International Medical Zone,",
-      "sourceUrl": null,
-      "webUrl": "https://www.shine.cn/biz/economy/2304105729/",
-      "originalUrl": "https://www.shine.cn/biz/economy/2304105729/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://obj.shine.cn/files/2023/04/10/e6269de4-c55c-4061-a51d-647f37d8600a_0.jpg",
-          "width": 576,
-          "height": 324,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-10T05:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SHINE",
-        "domain": "shine.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

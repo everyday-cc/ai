@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/sensory-enables-voice-chat-with-generativ
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/sensory-enables-voice-chat-with-generative-ai-on-consumer-devices/amp/"
 type: article
 quality: 91
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -57,6 +57,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 59
+  - title: "Voices study finds creatives optimistic about generative AI, but share concerns over its ethics"
+    excerpt: "PRNewswire/ - Today, Voices, the world's leading voice over marketplace, released their AI in the Creative Industry"
+    publishedDateTime: 2023-04-28T15:47:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/voices-study-finds-creatives-optimistic-about-generative-ai-but-share-concerns-over-its-ethics-1032274231"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 52
 
 secured: "poRPeoj/huLS8ah07nX7NVCcIoVhq49fOOhv8Y1UJwUJSeI6P0DQwsGX594H/J6TzHJK2KBYQfmHzlqvZ4V4DJ7+J2LVlLu6m/3YXTgYVxy7wlyvmS5VssaNNeSACMHR22TIt2xRKmajoGC3QNbmQ6CPJsBUYTxLdKBQ1bqQ6Is/qzn/2zVjdKxG3+shhxoXI9C8jR2rg7qRgxu6XFafmUxd5qqwvjW5dyuScfFdI2K2pQATCKwTlAyTy26S7ZgLYbEquhvhwCLFdjJ72GqSx1HHk2CLxzqwNboQuMVcKeNGGCxjh9LC/PDM5auW95T9V0bEhLxVxCTupNVjs4mQUixQm+i6vd6fxyPPr/Uo+XMa+bvahWjbY+3NoDbl7/flK7WG4cjbkvb5ttrX5W1o7pUU8d4vYu580kcsrp0WpyA909iCA4K47MoOgTjR1vLWv4QB5Kshg3y4E8H/WQ3sUJD9y0R+XkhlAe/95PycnCFT6JVK7XQMUmAnW5psCQs6U5nwp7ENOjMXn6RqL/ozoA==;aS2XfGSth1UXXHAssMTs0w=="
 ---

@@ -55,6 +55,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 59
+  - title: "Voices study finds creatives optimistic about generative AI, but share concerns over its ethics"
+    excerpt: "PRNewswire/ - Today, Voices, the world's leading voice over marketplace, released their AI in the Creative Industry"
+    publishedDateTime: 2023-04-28T15:47:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/voices-study-finds-creatives-optimistic-about-generative-ai-but-share-concerns-over-its-ethics-1032274231"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 52
 
 secured: "kbNMCuBLYRw4V/1q5ZVHx3CKfL7k9OLYr0+IDoQ3EQA/ycP9NMioLHEy5w6dtFEGsTfS9LAig5RLpMGAoRuZnbfsIdJcUWcXbu8obUiOUu/MPs64eivu6PwvK5f0d0zxUmZnUpoemoH+/CsyUWOP+LuTaljCfL7SN4eRSFeoBrbdJyoIo3oUL3dTxex/HY2Nca7A5lMGs+ue8mpgZlEr7bZR/BYbFefQCtdAvdrp8o3KbrOBQgvcm8I3bNAUZNmAJPc9yz24JHag4oHlOHHgzip71+3FdddL8eoEoCPRv0ZbiCs2oZu4mbXRDq3sfxk4WU1eJJSFvgH4fObxR0rGlo5PU4HHRHxypk0KzxRXmV8=;z0gMdu63mVmSt0PgwaxJzQ=="
 ---

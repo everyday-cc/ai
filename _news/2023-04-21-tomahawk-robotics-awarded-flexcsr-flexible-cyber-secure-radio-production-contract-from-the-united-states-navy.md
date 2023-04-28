@@ -1,26 +1,24 @@
 ---
 category: news
 title: "Tomahawk Robotics Awarded FlexCSR (Flexible Cyber Secure Radio) Production Contract from the United States Navy"
-excerpt: "Tomahawk Robotics, the leading innovator of robotic common control solutions, was awarded a $55.0M full-rate production contract for the Flexible Cyber Secure Radio"
-publishedDateTime: 2023-04-21T14:07:00Z
-originalUrl: "https://www.news-journal.com/tomahawk-robotics-awarded-flexcsr-flexible-cyber-secure-radio-production-contract-from-the-united-states-navy/article_21c744bd-4025-5490-a677-917f44b0d3bd.html"
-webUrl: "https://www.news-journal.com/tomahawk-robotics-awarded-flexcsr-flexible-cyber-secure-radio-production-contract-from-the-united-states-navy/article_21c744bd-4025-5490-a677-917f44b0d3bd.html"
+excerpt: "Tomahawk Robotics, the leading innovator of robotic common control solutions, was awarded a $55.0M full-rate production contract for the Flexible Cyber Secure Radio (FlexCSR) program by the United States Navy."
+publishedDateTime: 2023-04-21T15:31:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/tomahawk-robotics-awarded-flexcsr-flexible-cyber-secure-radio-production-contract-from-the-united-states-navy-1032250123"
+webUrl: "https://markets.businessinsider.com/news/stocks/tomahawk-robotics-awarded-flexcsr-flexible-cyber-secure-radio-production-contract-from-the-united-states-navy-1032250123"
 type: article
 
 provider:
-  name: Longview News-Journal
-  domain: news-journal.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/2/c3/2c35cd3b-7a32-5bc7-adf6-564bbf419b6a/64429a7958164.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "+A2iEa9h+AXoulT9tmFoMoihOgpEB4oHwQCnkDAgL00ZPVIv5lwXV6EPXFOeJ4OtUC4tji4lsBToJBM/rxCi8pe4iITsh6oXT+qoEvSU4MFfsEEYa1MvgQp+EftSoIaQUdpbPMrI1Ov1QcuksVS3JMeNtZs9hxW/X86K3EimsZobEfAWrJyi8ZY5NoQ1XqJOwJUrxv5Wzrc56E+vPscfv2u9i8mjpJNR0Kk4v6yZZWtpxJbwQcavNE0MXrTPo5T1qnZlob3rKaayo9719pO2KfDa1CUJfI3m2z/9QcwsgPx4Th014FMr3p6EVywwrP6/07y7GveBfxhbeQJFJR4/MVZo7UzA8oP/tvy3wlSwKvI=;veS38B9KGq0uqYwEtkdhxA=="
+secured: "g3JC0uDQZIrS04MGoHAE8PzL5Pufb5jpLPa2sCoPz3ItyONpQdQnShDtrwQ6UbafRqtvWX7LJSfrMTXo8u2UAcvu2MP8y4KMhkOvfQy31O/6VY10BS/VO5wlaw2JJlOVwX9u2L4fPfvpVNnOCfHFx32Wvh6ZbYk0oB7OO8zrvpxCL2u57Lv6E5nosrUIcCqiPDiSqO5SX/3yOzbCOeCU2yNauiACGj+XRVDw5F+A35sbNVFF50/wzfvhYMUYykxsd3Z+bO85NnINPGRy9+oVFP+SXECnZXZBfPhEUHxfLv1vfxz8EEwDizrPN/s8jdif4Lmhyo2Aokk/mGjMOc5M7q/IH89tH/8hyJI0mg+J8bw=;p8y6q3hdSw52n8Wv9RJ9uQ=="
 ---
 

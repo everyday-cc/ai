@@ -2,6 +2,246 @@
   "page": 92,
   "value": [
     {
+      "path": "_news/2023-02-07-cisco-turns-to-risk-based-authentication-to-make-mfa-and-zero-trust-practical.md",
+      "title": "Cisco turns to risk-based authentication to make MFA and zero trust practical",
+      "excerpt": "Cisco releases risk-based authentication to offer an adaptive MFA authentication process and make zero trust practical.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/security/cisco-turns-to-risk-based-authentication-to-make-mfa-and-zero-trust-practical/",
+      "originalUrl": "https://venturebeat.com/security/cisco-turns-to-risk-based-authentication-to-make-mfa-and-zero-trust-practical/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-opinion-artificial-intelligences-redress-problem-inside-sources.md",
+      "title": "Opinion: Artificial Intelligence’s Redress Problem – Inside Sources",
+      "excerpt": "With AI systems increasingly being deployed across sectors, it is vital that pathways for redress are established and maintained to ensure that consumers, data subjects or other users of AI systems have recourse in the event they suffer harm.",
+      "sourceUrl": null,
+      "webUrl": "https://prescottenews.com/index.php/2023/02/07/opinion-artificial-intelligences-redress-problem-inside-sources/",
+      "originalUrl": "https://prescottenews.com/index.php/2023/02/07/opinion-artificial-intelligences-redress-problem-inside-sources/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T23:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Prescott eNews",
+        "domain": "prescottenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-deep-learning-in-machine-vision-market-2023-research-report-which-shows-huge-growth-rate-revenue-progress-insight-and-forecast-to-2028.md",
+      "title": "Deep Learning in Machine Vision Market 2023 Research Report which Shows Huge Growth Rate, Revenue, Progress Insight and Forecast to 2028",
+      "excerpt": "Feb 07, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry. Global “Deep Learning in Machine",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-in-machine-vision-market-2023-research-report-which-shows-huge-growth-rate-revenue-progress-insight-and-forecast-to-2028-2023-02-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-in-machine-vision-market-2023-research-report-which-shows-huge-growth-rate-revenue-progress-insight-and-forecast-to-2028-2023-02-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T22:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-deep-learning-market-2023-new-report-global-industry-swot-analysis-with-strong-data-by-prominent-player-and-forecast-upto-2027.md",
+      "title": "Deep Learning Market 2023 (New Report) - Global Industry SWOT Analysis with Strong Data by Prominent Player and Forecast upto 2027",
+      "excerpt": "Global Deep Learning Market 2023-2027 research report offers detailed coverage of Deep Learning industry and market",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-2023-new-report---global-industry-swot-analysis-with-strong-data-by-prominent-player-and-forecast-upto-2027-2023-02-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-2023-new-report---global-industry-swot-analysis-with-strong-data-by-prominent-player-and-forecast-upto-2027-2023-02-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T22:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-artificial-intelligence-market-size-2023-key-growth-drivers-latest-opportunities-increasing-demand-top-players-and-regional-forecast-to.md",
+      "title": "Artificial Intelligence Market Size 2023 | Key Growth Drivers, Latest Opportunities, Increasing Demand, Top Players and Regional Forecast to 2028",
+      "excerpt": "Feb 07, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Artificial Intelligence",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-2023-key-growth-drivers-latest-opportunities-increasing-demand-top-players-and-regional-forecast-to-2028-2023-02-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-2023-key-growth-drivers-latest-opportunities-increasing-demand-top-players-and-regional-forecast-to-2028-2023-02-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T22:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-ai-based-self-driving-robot-introduced-to-save-lives-on-goa-beaches.md",
+      "title": "AI-based self-driving robot introduced to save lives on Goa beaches",
+      "excerpt": "The incorporation of AI-based support follows an increase in beach-related incidents due the rising number of domestic and foreign tourists",
+      "sourceUrl": null,
+      "webUrl": "https://www.telegraphindia.com/india/artificial-intelligence-based-self-driving-robot-introduced-to-save-lives-on-goa-beaches/cid/1914854",
+      "originalUrl": "https://www.telegraphindia.com/india/artificial-intelligence-based-self-driving-robot-introduced-to-save-lives-on-goa-beaches/cid/1914854",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T21:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Telegraph",
+        "domain": "telegraphindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-02-07-will-chatgpt-put-data-analysts-out-of-work.md",
       "title": "Will ChatGPT Put Data Analysts Out Of Work?",
       "excerpt": "AI, particularly ChatGPT, has raised job security concerns among data analysts. Here we look at the potential impact and discuss that despite limitations like frequent mistakes and limited data upload capabilities,",
@@ -789,238 +1029,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-protecting-critical-utilities-customers-and-assets-with-computer-vision-ai-solutions.md",
-      "title": "Protecting Critical Utilities Customers and Assets with Computer Vision AI Solutions",
-      "excerpt": "Industry leaders in AI and computer vision, have collaborated with key industry stakeholders and an extensive partner network to deliver a proven, repeatable process in delivering an end-to-end solution. The increasing frequency and severity of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tdworld.com/resources/white-papers/whitepaper/21259422/protecting-critical-utilities-customers-and-assets-with-computer-vision-ai-solutions",
-      "originalUrl": "https://www.tdworld.com/resources/white-papers/whitepaper/21259422/protecting-critical-utilities-customers-and-assets-with-computer-vision-ai-solutions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.tdworld.com/files/base/ebm/tdworld/image/2023/02/feature_photo.63dd344145367.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "T&D",
-        "domain": "tdworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-researchers-discover-a-more-flexible-approach-to-machine-learning.md",
-      "title": "Researchers Discover a More Flexible Approach to Machine Learning",
-      "excerpt": "Artificial intelligence researchers have celebrated a string of successes with neural networks, computer programs that roughly mimic how our brains are organized. But despite rapid progress, neural networks remain relatively inflexible, with little ability ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.quantamagazine.org/researchers-discover-a-more-flexible-approach-to-machine-learning-20230207/",
-      "originalUrl": "https://www.quantamagazine.org/researchers-discover-a-more-flexible-approach-to-machine-learning-20230207/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2021/09/2021PodcastAd_Article_160.jpg",
-          "width": 320,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quanta Magazine",
-        "domain": "quantamagazine.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-study-shows-how-sleep-deprivation-affects-cognitive-performance.md",
-      "title": "Study shows how sleep deprivation affects cognitive performance",
-      "excerpt": "Since brain plasticity and excitability depend on sleep, it could play a role in preventing diseases with cognitive deficits. Examples of such diseases are Alzheimer's disease, which is often ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-02-deprivation-affects-cognitive.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-02-deprivation-affects-cognitive.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/sleep-deprivation-affe.jpg",
-          "width": 1500,
-          "height": 896,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-02-deprivation-affects-cognitive.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-02-deprivation-affects-cognitive.amp",
-      "publishedDateTime": "2023-02-06T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-tracking-generative-ai-how-evolving-ai-models-are-impacting-legal.md",
-      "title": "Tracking Generative AI: How Evolving AI Models Are Impacting Legal",
-      "excerpt": "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond.",
-      "sourceUrl": null,
-      "webUrl": "https://www.law.com/legaltechnews/2023/02/06/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/",
-      "originalUrl": "https://www.law.com/legaltechnews/2023/02/06/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T15:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Law",
-        "domain": "law.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-what-to-know-about-googles-ai-strategy.md",
-      "title": "What to know about Google’s AI strategy",
-      "excerpt": "OpenAI's launch of ChatGPT spurred an AI race, prompting incumbents like Google to share plans for public tool releases.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ciodive.com/news/Google-Bard-LaMDA-PaLM-release/642113/",
-      "originalUrl": "https://www.ciodive.com/news/Google-Bard-LaMDA-PaLM-release/642113/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T14:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO Dive",
-        "domain": "ciodive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-google-hopes-bard-will-outsmart-chatgpt-microsoft-in-ai.md",
-      "title": "Google hopes 'Bard' will outsmart ChatGPT, Microsoft in AI",
-      "excerpt": "ARTIFICIAL INTELLIGENCE IS SHAKING UP THE WAY WE CREATE ART ... TEACHERS ARE CONCERNED ABOUT PLAGIARISM AND THE ETHICS OF LETTING A COMPUTER DO THE TYPING AND THE THINKING. A COMPUTER SCIENCE STUDENT AT PRINCETON UNIVERSITY BELIEVES HE HAS A SOLUTION.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wmur.com/article/google-bard-chatgpt-microsoft-ai/42781857",
-      "originalUrl": "https://www.wmur.com/article/google-bard-chatgpt-microsoft-ai/42781857",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T14:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WMUR",
-        "domain": "wmur.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Microsoft AI",
-        "Natural Language Processing"
       ]
     }
   ],

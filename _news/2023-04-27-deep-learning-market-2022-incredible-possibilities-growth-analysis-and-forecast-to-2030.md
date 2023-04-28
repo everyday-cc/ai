@@ -99,6 +99,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning in Manufacturing Market Sales By 2031"
+    excerpt: "What is the Machine Learning in Manufacturing market growth? Machine Learning in Manufacturing Market Size is projected to Reach Multimillion USD by 2031, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2031."
+    publishedDateTime: 2023-04-27T17:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-manufacturing-market-sales-by-2031-2023-04-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
   - title: "Tiny Machine Learning Market 2023 Projected Revenue Figures, Growth Rate Throughout the Forecast Period 2030"
     excerpt: "The Global \"Tiny Machine Learning Market Size\"2023 research report covers explicit information regarding the development rate, market estimates, drivers, limitations, future-based demand, and revenue during the forecast period."
     publishedDateTime: 2023-04-27T06:30:00Z

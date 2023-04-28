@@ -26,6 +26,17 @@ images:
     height: 1043
     isCached: true
 
+related:
+  - title: "I used ChatGPT to write the same routine in these ten obscure programming languages"
+    excerpt: "Can ChatGPT program in a language from the 1950s or in one of the languages that wrote its own code? We took a walk down memory lane to find out."
+    publishedDateTime: 2023-04-28T13:15:00Z
+    webUrl: "https://www.zdnet.com/article/i-used-chatgpt-to-write-the-same-routine-in-these-ten-obscure-and-vintage-programming-languages/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 28
+
 secured: "tvoOO687v9b4WiE7OEuK9FAvI5DFQn9l6+7+RNuhh9V+F2o1jxk8+MbI1NOV1BQAKNMAf/j5LQH/43cmf6mYH+f0ZwY/dJV7R8Mq/3z9dsAT7KyApRi4Uh9QNpd0aGcvzwGeXP8adOdH9PUKluUo6asadWNFN8c3pC9v7aEEi7l1b0IjEXdN2gktoXBuf2uQoCBwR/TXWklNumxNVGc4bdxB5QcMamU4znTfy6pOpbKB6ze7yAykeYycfoiF8z4xHbPus5og58NuGpgHoZfvI+7//dlWw0TATWGgqLA3aOfHDDAcFfWf/zUr3XDby4xqQ1O5wkXCQqdwquBpWwLCaH9S5LQts8XSrQV98H5+9nM=;0uxaWUr+19xN2yp5tG3iIA=="
 ---
 

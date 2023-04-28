@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-04-27-ai-startup-pinecone-raises-100-million-as-vector-database-market-for-llms-heats-up.md",
+      "title": "AI startup Pinecone raises $100 million as vector database market for LLMs heats up",
+      "excerpt": "Vector database leader Pinecone announced today that it has raised $100 million at a $750 million valuation, led by Andreessen Horowitz.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-startup-pinecone-raises-100-million-as-vector-database-market-for-llms-heats-up/",
+      "originalUrl": "https://venturebeat.com/ai/ai-startup-pinecone-raises-100-million-as-vector-database-market-for-llms-heats-up/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/04/Untitled-design-60.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/ai-startup-pinecone-raises-100-million-as-vector-database-market-for-llms-heats-up/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-startup-pinecone-raises-100-million-as-vector-database-market-for-llms-heats-up/amp/",
+      "publishedDateTime": "2023-04-27T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-27-which-segments-computer-vision-system-market-are-anticipated-to-highest-cagr-by-2030.md",
       "title": "Which Segments Computer Vision System Market Are Anticipated To Highest CAGR By 2030",
       "excerpt": "New Analysis of Computer Vision System Market overview, spend analysis, imports, segmentation, key players, and",
@@ -260,6 +311,58 @@
       ]
     },
     {
+      "path": "_news/2023-04-27-ttec-digital-introduces-wfm-adapter-for-microsoft-dynamics-365-customer-service.md",
+      "title": "TTEC Digital introduces WFM Adapter for Microsoft Dynamics 365 Customer Service",
+      "excerpt": "TTEC Digital introduces WFM Adapter for Microsoft Dynamics 365 Customer Service Apr 27, 2023 (PRNewswire via COMTEX) -- PR Newswire DENVER, April 27,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ttec-digital-introduces-wfm-adapter-for-microsoft-dynamics-365-customer-service-2023-04-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/ttec-digital-introduces-wfm-adapter-for-microsoft-dynamics-365-customer-service-2023-04-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-27T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-27-how-erp-is-breaking-down-silos-and-driving-sustainable-change.md",
       "title": "How ERP is breaking down silos and driving sustainable change",
       "excerpt": "While many organizations have established environmental, social and governance (ESG) goals and made ESG commitments, driven by purpose and emerging regulatory requirements, they face several challenges when making the transition from ambition to action. A recent IBM study found that global executives",
@@ -361,7 +464,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/27/how-ai-can-empower-not-replace-your-team/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -1137,108 +1240,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-deloitte-looks-to-bring-ai-to-the-frontline-with-a-little-help-from-nvidia.md",
-      "title": "Deloitte looks to bring AI to the frontline with a little help from Nvidia",
-      "excerpt": "With help from Nvidia, Deloitte is rolling out new AI capabilities to enhance logistics, supply chain and customer care deployments.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/deloitte-looks-to-bring-ai-to-the-frontline-with-a-little-help-from-nvidia/",
-      "originalUrl": "https://venturebeat.com/ai/deloitte-looks-to-bring-ai-to-the-frontline-with-a-little-help-from-nvidia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-840412560-Thatree-Thitivongvaroon.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 606,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/deloitte-looks-to-bring-ai-to-the-frontline-with-a-little-help-from-nvidia/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/deloitte-looks-to-bring-ai-to-the-frontline-with-a-little-help-from-nvidia/amp/",
-      "publishedDateTime": "2023-04-26T14:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-moveworks-debuts-creator-studio-to-build-ai-driven-employee-copilots.md",
-      "title": "Moveworks debuts Creator Studio to build AI-driven employee copilots",
-      "excerpt": "Enterprise chatbot developer Moveworks today launched Creator Studio, a no-code platform to build custom conversational AI interfaces.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/moveworks-debuts-creator-studio-to-build-ai-driven-employee-copilots/",
-      "originalUrl": "https://venturebeat.com/ai/moveworks-debuts-creator-studio-to-build-ai-driven-employee-copilots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1364050120-e1651871311915.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/moveworks-debuts-creator-studio-to-build-ai-driven-employee-copilots/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/moveworks-debuts-creator-studio-to-build-ai-driven-employee-copilots/amp/",
-      "publishedDateTime": "2023-04-26T14:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

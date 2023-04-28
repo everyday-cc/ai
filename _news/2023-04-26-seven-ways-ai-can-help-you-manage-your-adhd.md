@@ -40,6 +40,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How artificial intelligence could impact the workplace"
+    excerpt: "AI could revolutionize the workplace, but it doesn't mean that robots are going to replace us. Finance professor Dan Roccato joins us with more on how to embrace the bots."
+    publishedDateTime: 2023-04-28T15:11:00Z
+    webUrl: "https://www.fox7austin.com/video/1213506"
+    ampWebUrl: "https://www.fox7austin.com/video/1213506.amp"
+    cdnAmpWebUrl: "https://www-fox7austin-com.cdn.ampproject.org/c/s/www.fox7austin.com/video/1213506.amp"
+    type: article
+    provider:
+      name: FOX 7 Austin KTBC
+      domain: fox7austin.com
+    quality: 39
   - title: "We Can Embrace Artificial Intelligence Without Losing Our Soul"
     excerpt: "Launched in November, ChatGPT, driven by artificial intelligence, or AI, has been interacting with the public for six months now, gathering data and improving its performance. In those months, the chatbot has already passed exams in four law courses at the University of Minnesota and another exam at University of Pennsylvania’s Wharton School of Business."
     publishedDateTime: 2023-04-26T18:44:00Z

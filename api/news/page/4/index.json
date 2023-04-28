@@ -2,6 +2,162 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-04-26-24-top-ai-statistics-and-trends-in-2023.md",
+      "title": "24 Top AI Statistics And Trends In 2023",
+      "excerpt": "AI continues to revolutionize various industries, with an expected annual growth rate of 37.3% between 2023 and 2030, as reported by Grand View Research. This rapid growth emphasizes the increasing impact of AI technologies in the coming years. [5]",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/advisor/business/ai-statistics/",
+      "originalUrl": "https://www.forbes.com/advisor/business/ai-statistics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.forbes.com/advisor/wp-content/uploads/2023/04/24_Top_AI_Statistics_And_Trends_In_2023_-_article_image.jpg",
+          "width": 958,
+          "height": 539,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-25T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-25-run-your-local-machine-learning-code-as-amazon-sagemaker-training-jobs-with-minimal-code-changes.md",
+      "title": "Run your local machine learning code as Amazon SageMaker Training jobs with minimal code changes",
+      "excerpt": "We recently introduced a new capability in the Amazon SageMaker Python SDK that lets data scientists run their machine learning (ML) code authored in their preferred integrated developer environment (IDE) and notebooks along with the associated runtime dependencies as Amazon SageMaker training jobs with",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/run-your-local-machine-learning-code-as-amazon-sagemaker-training-jobs-with-minimal-code-changes/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/run-your-local-machine-learning-code-as-amazon-sagemaker-training-jobs-with-minimal-code-changes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/04/25/machine-learning-local-code-sagemaker.jpg",
+          "width": 959,
+          "height": 478,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-25T13:55:57-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-04-26-tc-roundup-pitch-coaching-from-5-vcs-black-founder-funding-options-3-fintech-flubs.md",
+      "title": "TC+ roundup: Pitch coaching from 5 VCs, Black founder funding options, 3 fintech flubs",
+      "excerpt": "If you’ve added \"AI\" to your pitch deck to make it more appealing, I have some bad news: FOMO is passé, and due diligence is the new black.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/04/25/tc-roundup-pitch-coaching-from-5-vcs-black-founder-funding-options-3-fintech-flubs/",
+      "originalUrl": "https://techcrunch.com/2023/04/25/tc-roundup-pitch-coaching-from-5-vcs-black-founder-funding-options-3-fintech-flubs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/04/GettyImages-1372487294.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/04/25/tc-roundup-pitch-coaching-from-5-vcs-black-founder-funding-options-3-fintech-flubs/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/04/25/tc-roundup-pitch-coaching-from-5-vcs-black-founder-funding-options-3-fintech-flubs/amp/",
+      "publishedDateTime": "2023-04-25T13:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-26-artificial-generative-intelligence-risks-a-return-to-cultural-colonialism.md",
       "title": "Artificial generative intelligence risks a return to cultural colonialism",
       "excerpt": "The explosive rise of AI chatbots has brought us to a pivotal moment that will have lasting effects on our collective worldview.",
@@ -855,7 +1011,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-sales-volume-and-forecast-2030-2023-04-25",
       "featuredContent": null,
       "highlight": null,
-      "heat": 173,
+      "heat": 183,
       "tags": null,
       "images": [
         {
@@ -960,7 +1116,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/04/25/what-marketing-and-advertising-specialists-can-expect-from-chatgpt/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 311,
+      "heat": 331,
       "tags": null,
       "images": [
         {
@@ -1064,7 +1220,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/face-recognition-software-market-new-development-strategy-2023-2030-fully-explained-2023-04-25",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -1105,152 +1261,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-avidbots-releases-floor-scrubbing-robot-for-industrial-spaces.md",
-      "title": "Avidbots releases floor-scrubbing robot for industrial spaces",
-      "excerpt": "Avidbots' Neo 2W was designed to overcome the challenges that warehouses and manufacturing environments pose for robots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/avidbots-releases-floor-scrubbing-robot-for-industrial-spaces/",
-      "originalUrl": "https://www.therobotreport.com/avidbots-releases-floor-scrubbing-robot-for-industrial-spaces/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2023/04/Neo_2W_Situation-featured.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-25T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-human-values-as-well-as-ai-must-be-at-the-core-of-the-future-of-work.md",
-      "title": "Human values, as well as AI, must be at the core of the future of work",
-      "excerpt": "Automation too often erodes conditions and job quality creating anxiety and overwork. To build ‘good work’, we must invest in people as well as tech",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/global-development/2023/apr/25/human-values-as-well-as-ai-must-be-at-the-core-of-the-future-of-work-chatgtp",
-      "originalUrl": "https://www.theguardian.com/global-development/2023/apr/25/human-values-as-well-as-ai-must-be-at-the-core-of-the-future-of-work-chatgtp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/d657064e917ca19ac473bf16b87b0cf90d851986/0_197_4736_2843/master/4736.jpg?width=620&quality=85&auto=format&fit=max&s=f33b3a001e254e0a4f65dfab06acb209",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/global-development/2023/apr/25/human-values-as-well-as-ai-must-be-at-the-core-of-the-future-of-work-chatgtp",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/global-development/2023/apr/25/human-values-as-well-as-ai-must-be-at-the-core-of-the-future-of-work-chatgtp",
-      "publishedDateTime": "2023-04-25T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-artificial-intelligenceai-security-market-to-witness-huge-growth-with-ibm-dataminr-sensetime-sentinelone.md",
-      "title": "Artificial Intelligence(AI) Security Market to Witness Huge Growth with IBM, Dataminr, SenseTime, SentinelOne",
-      "excerpt": "The market research carried out in this large scale Artificial Intelligence(AI) Security market report succors clients to forecast investment in an emerging market, expansion of market share or success of a new product.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligenceai-security-market-to-witness-huge-growth-with-ibm-dataminr-sensetime-sentinelone-2023-04-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligenceai-security-market-to-witness-huge-growth-with-ibm-dataminr-sensetime-sentinelone-2023-04-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-25T02:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
       ]
     }
   ],

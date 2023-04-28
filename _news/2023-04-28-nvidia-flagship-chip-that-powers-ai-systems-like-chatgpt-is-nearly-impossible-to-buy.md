@@ -6,8 +6,8 @@ publishedDateTime: 2023-04-27T22:23:00Z
 originalUrl: "https://www.bizjournals.com/sanjose/news/2023/04/27/nvidia-hardware-ai-h100-dgx.html"
 webUrl: "https://www.bizjournals.com/sanjose/news/2023/04/27/nvidia-hardware-ai-h100-dgx.html"
 type: article
-quality: 26
-heat: 26
+quality: 28
+heat: 28
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Microsoft AI
 
 related:
   - title: "Nvidia flagship hardware that powers AI systems like ChatGPT 'nearly impossible' to buy"

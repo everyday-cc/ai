@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/04/25/what-mar
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/04/25/what-marketing-and-advertising-specialists-can-expect-from-chatgpt/amp/"
 type: article
 quality: 91
-heat: 311
+heat: 331
 published: true
 
 provider:
@@ -95,6 +95,36 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1846bba2-3f76-46e5-b731-28ab0c01de9a/de78cd28-4f77-4606-9528-afcbe1ee7bcd/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
         width: 1200
         height: 675
+        isCached: true
+  - title: "ChatGPT may have better bedside manner than some doctors, but it lacks some expertise"
+    excerpt: "ChatGPT can be a useful tool for patients who are seeking medical information and guidance, but the artificial intelligence tool can't fully replace the value of a human physician -- it says so itself."
+    publishedDateTime: 2023-04-28T15:03:00Z
+    webUrl: "https://www.cnn.com/2023/04/28/health/chatgpt-patient-advice-study-wellness/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2023/04/28/health/chatgpt-patient-advice-study-wellness/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/04/28/health/chatgpt-patient-advice-study-wellness/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 67
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/230411114945-06-chatgpt-phone-stock-super-tease.jpeg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Dr. ChatGPT? Physicians Are Sending Patients Advice Using AI"
+    excerpt: "ChatGPT is better than doctors at responding to patient questions, study says"
+    publishedDateTime: 2023-04-28T14:00:00Z
+    webUrl: "https://www.wsj.com/articles/dr-chatgpt-physicians-are-sending-patients-advice-using-ai-945cf60b"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-771596/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Google creates DeepMind division to combat threat from ChatGPT and Bing AI"
     excerpt: "The rate of AI development is seemingly speeding up each day, and Google is one of the biggest players in the game. The teams have an impressive history of achievements in AI coll"

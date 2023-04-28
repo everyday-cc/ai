@@ -2,6 +2,59 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-02-10-ai-has-helped-design-over-100-chips-should-we-be-worried.md",
+      "title": "AI has helped design over 100 chips, should we be worried?",
+      "excerpt": "One client, STMicroelectronics, achieved the first-ever commercial design tape-out using AI on the cloud (in this case, Microsoft Azure). According to Philippe d'Audigier, the SoC hardware design director at STMicroelectronics, the system increased their ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/97560-ai-has-helped-design-over-100-chips-worried.html",
+      "originalUrl": "https://www.techspot.com/news/97560-ai-has-helped-design-over-100-chips-worried.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2023/02/2023-02-09-image-24.jpg",
+          "width": 2500,
+          "height": 1449,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-09T11:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-02-10-microsoft-stock-ai-opportunity-much-bigger-than-just-bing.md",
       "title": "Microsoft Stock: AI Opportunity Much Bigger Than Just Bing",
       "excerpt": "“That said, we see an even bigger enterprise opportunity that could expand to $22B by CY26E leveraging AI transformers further into four product categories: GitHub, Microsoft 365, Teams, and Azure AI services.” What’s more, Microsoft’s AI endeavors ...",
@@ -1280,40 +1333,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-microsoft-ai-event-live-blog-all-the-announcements-as-they-happen.md",
-      "title": "Microsoft AI Event LIVE Blog: All the announcements as they happen",
-      "excerpt": "MS built new balances, and are able to scale unlike anyone else. \"We're committed to learning with you.\" Sarah Bird, Responsible AI Lead, Azure, is now on stage. \"We have been preparing for this moment for many years.\" \"Since 2017, we have been investing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.windowscentral.com/news/live/microsoft-special-event-live-blog-windows-bing-ai-2023",
-      "originalUrl": "https://www.windowscentral.com/news/live/microsoft-special-event-live-blog-windows-bing-ai-2023",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T03:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows Central",
-        "domain": "windowscentral.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

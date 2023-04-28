@@ -131,6 +131,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "ChatGPT: How to use the AI chatbot that’s changing everything"
+    excerpt: "AI enthusiasts have compared it to the surge ... It runs on Microsoft’s Azure system infrastructure and is powered by Nvidia’s GPUs. ChatGPT recently launched a new version of its own ..."
+    publishedDateTime: 2023-04-26T12:50:00Z
+    webUrl: "https://www.digitaltrends.com/computing/how-to-use-openai-chatgpt-text-generation-chatbot/"
+    ampWebUrl: "https://www.digitaltrends.com/computing/how-to-use-openai-chatgpt-text-generation-chatbot/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/how-to-use-openai-chatgpt-text-generation-chatbot/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 89
+    images:
+      - url: "https://www.digitaltrends.com/wp-content/uploads/2023/01/ChatGPT-OpenAI-logo.jpg?resize=1200%2C630&p=1"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft mentioned artificial intelligence 50 times on its earnings call and Wall Street is thrilled"
     excerpt: "\"Nadella and Co. delivered another masterpiece cloud quarter which will be the focus of the Street and sets a positive tone,\" Wedbush said."
     publishedDateTime: 2023-04-26T17:56:00Z
@@ -146,6 +162,22 @@ related:
       - url: "https://i.insider.com/644951b29052390019700246?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "How To Write ChatGPT, AI Chatbot Prompts Like A Philosopher"
+    excerpt: "The next time you use a chatbot, try writing like a philosopher. It will give you the most successful results."
+    publishedDateTime: 2023-04-28T14:02:00Z
+    webUrl: "https://www.forbes.com/sites/teddymcdarrah/2023/04/28/how-to-write-ai-chatbot-prompts-like-a-philosopher/"
+    ampWebUrl: "https://www.forbes.com/sites/teddymcdarrah/2023/04/28/how-to-write-ai-chatbot-prompts-like-a-philosopher/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/teddymcdarrah/2023/04/28/how-to-write-ai-chatbot-prompts-like-a-philosopher/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/644ade30d0e35557f60d1575/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Microsoft Sees AI Shaking Up Search While Google Calms Investors"
     excerpt: "Alphabet Inc.’s Google and Microsoft Corp., whose quarterly earnings each got a boost from their established search and cloud-computing businesses, used their time with investors to emphasize what’s next: artificial intelligence."
@@ -605,6 +637,15 @@ related:
       name: Interesting Engineering
       domain: interestingengineering.com
     quality: 19
+  - title: "EU closes in on AI Act with last-minute ChatGPT-related adjustments"
+    excerpt: "Members of the European Parliament have reached an agreement on the AI Act with a few last-minute adjustments and go to committee voting in two weeks."
+    publishedDateTime: 2023-04-28T09:49:00Z
+    webUrl: "https://www.computerworld.com/article/3695009/eu-closes-in-on-ai-act-with-last-minute-chatgpt-related-adjustments.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 17
 
 secured: "Lxgsxy3lKWvVg81uGj95MjEdNFb2MBS9e+uc+41NsVQOSIt8PwKwROt9WCxMk3UPiVVhj7EWDR003IdpxXBrsm+tsYV7UpLT87YTx/kf61BLJ2OK2HK5NlcqHxtMPCt9Daz/HJH29oPqzA3s79/8M8t9ArR1deHjlmipCqt9JzewQB9IKfC6JhDVnxf4K/dzmRiHBWNYpVkJSLhcGSzOuAxxWj47Y54Gi2PdcSnWUylKuYXtoqmZxBxZi6yulycxUoXWPDeXF6yHjp4EFtNT2DSCkd/ers4+AbzN5gIbEqecyIcX49IUeslwbDCHLO4cKy5lrgai5v6c+O1azkO98UwfCXQkmQp5wQ+KtVTrG56wfGhOt3RTcIkDun16/ePr5VNWd1YupRG4y/fl7JqLf3aRMl7g2WdZ8Z/KuMNpr3YRP7gEiYsk2XUaZCPnjy7s+92qZq+i4EYwisfIrTavA61QYp/ADqa7CtQ1BfMab75AknuADvjhhjKanwknUDZw5gXCcrkuajNOihlAG914Rg==;XD3UVCJnfykLFQiS1TI5FQ=="
 ---

@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://d3i6fh83elv35t.cloudfront.net/static/2023/04/MONH-DEEPFAKES-leading-edge-1024x576.png"

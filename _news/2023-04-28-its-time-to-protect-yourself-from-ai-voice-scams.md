@@ -38,6 +38,15 @@ related:
         width: 770
         height: 433
         isCached: true
+  - title: "Fluent answers from AI search engines are more likely to be wrong"
+    excerpt: "AI search engines like Microsoft's Bing Chat often fail to provide citations to back up statements, or cite information incorrectly - and this is more likely when answers sound more convincing"
+    publishedDateTime: 2023-04-28T08:22:00Z
+    webUrl: "https://www.newscientist.com/article/2371097-fluent-answers-from-ai-search-engines-are-more-likely-to-be-wrong/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 17
 
 secured: "0wkLT1g1CkmbKQI8OTWGOyUjpXMDbVvQ2moAqm97lIheDIMt1y81W+b4W2giQ6EtU24QPDjuRBnZFZs/85kSBhofIlO1yBoUXdPof7rSvAJRgwzwhmg2v8UB5jEIU+Xy+hrfoWcqCZeMdtryYYaRW0OJbTd+/M4sGAZvwDEMJ5kWPZSCUEjb/0Nw87Tky7470Ubw1i+YpdcDdNA1SP1mrYVT5lZGWDIVH6mEiT+Wmxa+HlZH2cuK2v0FhnqzkcscEFJj1wVdV+1bO4GT5rwkmfqbEKbWpva6TVbnIOJHc9uT0fuLzxLBwM3lHzEVGgdKcLFUosk2gjyQSQGY+IGlhlWTRo8zTTaAJYECCw8iZRSm/sBNKic+d86THb7NIV5qEhOYi8rxLQRw6L+igmwU5rRK0ndjfUg17r/gH/wf7G5pRGVJxMFyDAULOT6Rxz0I5Oh3mzjyxr6A5S8PM3nrvSwecD0MfLRzu0HCNe7FsAuiN15zO7MicuB2BYMdApRclNGCWTEr2cN8xGC4W+WgOA==;TrXeEtdboC97n0YgVhxAnQ=="
 ---

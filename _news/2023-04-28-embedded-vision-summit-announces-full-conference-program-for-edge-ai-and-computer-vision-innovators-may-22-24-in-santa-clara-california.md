@@ -1,30 +1,26 @@
 ---
 category: news
 title: "Embedded Vision Summit® Announces Full Conference Program for Edge AI and Computer Vision Innovators, May 22-24 in Santa Clara, California"
-excerpt: "The premier event for product creators incorporating computer vision and edge AI in products and applications SANTA CLARA, Calif., /PRNewswire/ -- The Edge AI and Vision Alliance, a 100+ company world"
-publishedDateTime: 2023-04-27T18:53:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/04/n32056890/embedded-vision-summit-announces-full-conference-program-for-edge-ai-and-computer-vision-innovator"
-webUrl: "https://www.benzinga.com/pressreleases/23/04/n32056890/embedded-vision-summit-announces-full-conference-program-for-edge-ai-and-computer-vision-innovator"
-ampWebUrl: "https://www.benzinga.com/amp/content/32056890"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32056890"
+excerpt: "Embedded Vision Summit® Announces Full Conference Program for Edge AI and Computer Vision Innovators, May 22-24 in Santa Clara, California Apr 27,"
+publishedDateTime: 2023-04-27T18:54:00Z
+originalUrl: "https://www.marketwatch.com/press-release/embedded-vision-summit-announces-full-conference-program-for-edge-ai-and-computer-vision-innovators-may-22-24-in-santa-clara-california-2023-04-27"
+webUrl: "https://www.marketwatch.com/press-release/embedded-vision-summit-announces-full-conference-program-for-edge-ai-and-computer-vision-innovators-may-22-24-in-santa-clara-california-2023-04-27"
 type: article
-quality: 40
+quality: 30
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
 
 related:
   - title: "EFF calls for action against California's new facial recognition bill"
@@ -74,6 +70,6 @@ related:
       domain: theguardian.com
     quality: 4
 
-secured: "dcPvrkbiVZ5M/qiNmm0ndMKHbWF+Hgr8SENQF7azDaIV+W06L8v7WjPot1Xr0QkIf8+zE0lm0T8FlZh6favUsUq73CkGaqtPOpK3V1ygrGDkLpxH3aV3evb15QAadlBlvuUILl5Cgrdlfl8T77vrC//ZSRgLybfRVHP1RfaY41b8+dHUXOwIugx2tlvRVEt7yj+bcHzrmPWCviE0LBYg8cRhdy4ghwOIL0w7d3oY5BVYjYm66NHiF8HFKvPkscRMSp/yi5HULTGanM1I4Sve6em3plHQURfoi6XzN/4zOwNn8M3bEeoKplAi2QfGsbeq4Zmjw7NZBwlnphtQ8Vk3ufuPjMedS1n0wQsXZs8htYo=;uQkZDsbHhonXRgZSRintTw=="
+secured: "qNLsdyw9ojtiEN2pyZtJnVNiKXoJ/U9KFlmzeBuA/Jidj2brx1LJJsiGz3z09pr2d7Q7bPnFVj/kVjSkhAnMYtkB71mOoSrGGBdBjZwN5vD1NWbk/ji/3+JgAHY4lC1NZ+tPoJP9oSHJV5tiILXDBQxF9ayWmQ6WIZ5bjcnXKjccM0jlD5OVVssl/v8YgtCzCSkOptKnAJLJ1JghXDKhdCzk7lQ/6JbdYVOnhgy1FQCD1R6AR8dR3NAph4sb+/NF/zGmdfOdD9a+hHkzsyOhBuQX9o/8Ol0WAvJWrZFNarf1CFUvpfc3mhl1udza93zYWYVfxKlD3t5SUqVOp2easDspQkmBRGBo2sDBZ3mainM=;4/Q6+hOT8U4/9CfAgIGC7g=="
 ---
 

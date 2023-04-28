@@ -84,6 +84,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Edge AI Chips Market Outlook by 2031"
+    excerpt: "The latest market research report on the Global \"Edge AI Chips Market\" is segmented by Regions, Country, Company and"
+    publishedDateTime: 2023-04-28T09:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/edge-ai-chips-market-outlook-by-2031-2023-04-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Natural Language Processing (NLP) in Healthcare and Life Sciences Market to Experience a Significant Increase in Revenues"
     excerpt: "Natural Language Processing (NLP) in Healthcare and Life Sciences Market Size 2023 | New Report (122 Pages) | Analytics"
     publishedDateTime: 2023-04-24T03:44:00Z

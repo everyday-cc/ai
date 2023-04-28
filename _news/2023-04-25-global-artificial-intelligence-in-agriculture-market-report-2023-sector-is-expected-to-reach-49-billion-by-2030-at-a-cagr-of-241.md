@@ -229,6 +229,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cloud AI Developer Services Market Research, 2023-2030"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Cloud AI Developer Services Marketsize, segment (mainly coveringMajorType (, Image Recognition, Language Recognition, Automated Machine Learning (AutoML), ,),End Users ..."
+    publishedDateTime: 2023-04-28T11:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-ai-developer-services-market-research-2023-2030-2023-04-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
   - title: "Global Speech and Voice Recognition Technology Market 2023-2030 is Booming in Upcoming Period"
     excerpt: "Speech and Voice Recognition Technology Market Report Insights (2023-2030) :(110 Pages Report) Speech and Voice"
     publishedDateTime: 2023-04-27T08:55:00Z
@@ -294,6 +303,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Medicine Market 2025"
+    excerpt: "The Artificial Intelligence (AI) in Medicine market is a rapidly growing segment of the healthcare industry that is expected to significantly transform the way healthcare is delivered in the future. AI technology has the potential to revolutionize healthcare by improving the accuracy,"
+    publishedDateTime: 2023-04-28T12:15:00Z
+    webUrl: "https://www.pharmiweb.com/press-release/2023-04-28/artificial-intelligence-in-medicine-market-2025-covers-valuable-guidance-for-future-ai-expansion-i"
+    type: article
+    provider:
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 19
 
 secured: "RKd+sV7hgLCzq+VU0ws6OTKkIx43UBmb5iKz0Acj1AZoaMtkWGfb0AMINsloiCPDBBZ4uaZGwYkh/8l8yH6MgusXLsP/mys1E0VAW/0Y/xPaviu5WruS2fFxgwSUlmG+cJNl4xfjpjCXg2SqfycXAfBPKQ//jbUDeJz9HPs81KQgeuc1LAHaZGPLsIFruKm7sqz7y5wih+aEYLDGUzpfEf61CyIbjJuDLP+kqVpEf7lyt1I71FSyxUcblkKgiGQHxB/ZaiP8pEHkR74Qx9mu+dPkh2ODk7zT/M2Cy9IiRBOmatEBNO+daeZcbU0yKNasMmTiZcp8YzAMVPVI8fvIaHO7BsIdo8wK246csFC9P7M=;6t6ClmpuVWjiH/keJ545+w=="
 ---

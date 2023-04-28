@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/natural-language-process
 webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-market-growth-by-2031-2023-04-24"
 type: article
 quality: 101
-heat: 291
+heat: 301
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
     excerpt: "Natural Language Processing (NLP) Market” Are a Collection of Information and Analysis Obtained From Diverse Sources"
     publishedDateTime: 2023-04-24T04:14:00Z
     webUrl: "https://www.marketwatch.com/press-release/2023-to-2030-natural-language-processing-nlp-market-upcoming-trends-2023-04-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Edge AI Chips Market Outlook by 2031"
+    excerpt: "The latest market research report on the Global \"Edge AI Chips Market\" is segmented by Regions, Country, Company and"
+    publishedDateTime: 2023-04-28T09:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/edge-ai-chips-market-outlook-by-2031-2023-04-28"
     type: article
     provider:
       name: MarketWatch

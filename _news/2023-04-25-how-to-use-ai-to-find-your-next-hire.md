@@ -34,6 +34,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How artificial intelligence could impact the workplace"
+    excerpt: "AI could revolutionize the workplace, but it doesn't mean that robots are going to replace us. Finance professor Dan Roccato joins us with more on how to embrace the bots."
+    publishedDateTime: 2023-04-28T15:11:00Z
+    webUrl: "https://www.fox7austin.com/video/1213506"
+    ampWebUrl: "https://www.fox7austin.com/video/1213506.amp"
+    cdnAmpWebUrl: "https://www-fox7austin-com.cdn.ampproject.org/c/s/www.fox7austin.com/video/1213506.amp"
+    type: article
+    provider:
+      name: FOX 7 Austin KTBC
+      domain: fox7austin.com
+    quality: 39
   - title: "Seven Ways AI Can Help You Manage Your ADHD"
     excerpt: "AI can help you by instantly providing as many sample lists ... I asked it what financial documents to start with and how to get them, and eventually arrived at: Contact your employer’s HR department: The HR department of your employer should be able ..."
     publishedDateTime: 2023-04-26T15:02:00Z

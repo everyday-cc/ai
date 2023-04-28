@@ -2,6 +2,49 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2023-01-11-report-microsoft-could-invest-10b-in-openai-at-29b-valuation.md",
+      "title": "Report: Microsoft could invest $10B in OpenAI at $29B valuation",
+      "excerpt": "The sources believe that Microsoft could be joined by multiple venture capital firms in the investment. Internal OpenAI documents reportedly suggest that the group had sought to close the investment by the end of 2022,",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2023/01/10/report-microsoft-invest-10b-openai-29b-valuation/",
+      "originalUrl": "https://siliconangle.com/2023/01/10/report-microsoft-invest-10b-openai-29b-valuation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/01/microsoft.png",
+          "width": 718,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-10T10:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-11-breakingviews-microsofts-ai-bet-heads-i-win-tails-i-also-win.md",
       "title": "Breakingviews: Microsoft’s AI bet: heads I win, tails I also win",
       "excerpt": "I-win, tails-I-also win, AI deal. A mooted $10 billion investment, reported by Semafor, in the maker of the popular ChatGPT, could reshape Microsoft’s software business. Even if it flops, CEO Satya Nadella will slow a rival,",
@@ -1242,49 +1285,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-01-04-citiustech-collaborates-with-microsoft-to-streamline-value-based-contracting-and-provider-performance-management-for-health-plans-and-systems.md",
-      "title": "CitiusTech Collaborates with Microsoft to Streamline Value-Based Contracting and Provider Performance Management for Health Plans and Systems",
-      "excerpt": "CitiusTech, a global provider of digital technology and consulting services to healthcare and life sciences organizations, announced today that it is working with Microsoft to jointly offer PERFORM+ Contracts;",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/article/business-medical-technology-wire-93df69119528412db26a417690a0e2b5",
-      "originalUrl": "https://apnews.com/article/business-medical-technology-wire-93df69119528412db26a417690a0e2b5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-04T05:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,40 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-12-15-portal-rtx-player-finds-rtx-4090-gpu-in-game.md",
+      "title": "Portal RTX Player Finds RTX 4090 GPU In-Game",
+      "excerpt": "Someone discovers the RTX version of Portal contains Nvidia's most powerful new-gen GPU, no doubt an Easter egg planted by team green itself. It looks as though Nvidia has placed an Easter egg in ...",
+      "sourceUrl": null,
+      "webUrl": "https://gamerant.com/portal-rtx-4090-gpu-in-game/",
+      "originalUrl": "https://gamerant.com/portal-rtx-4090-gpu-in-game/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-15T00:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Game Rant",
+        "domain": "gamerant.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-15-chatgpt-why-everyone-is-obsessed-this-mind-blowing-ai-chatbot.md",
       "title": "ChatGPT: Why Everyone Is Obsessed This Mind-Blowing AI Chatbot",
       "excerpt": "This artificial intelligence bot can chat and write essays, poems and computer programs. Careful how much you trust it, though.",
@@ -1350,58 +1384,6 @@
         "name": "Windows Central",
         "domain": "windowscentral.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-07-ai-chip-for-data-centers-market-a-detailed-analysis-of-latest-market-trend-with-growth-projections-through-2029.md",
-      "title": "AI Chip for Data Centers Market: A Detailed Analysis of Latest Market Trend with Growth Projections Through 2029",
-      "excerpt": "Dec 07, 2022 (The Expresswire) -- \"Final Report will add the analysis of the COVID-19 and Russia Ukraine war impact on this industry.\" The \"AI Chip for",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-chip-for-data-centers-market-a-detailed-analysis-of-latest-market-trend-with-growth-projections-through-2029-2022-12-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-chip-for-data-centers-market-a-detailed-analysis-of-latest-market-trend-with-growth-projections-through-2029-2022-12-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-07T02:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

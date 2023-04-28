@@ -55,6 +55,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Voices study finds creatives optimistic about generative AI, but share concerns over its ethics"
+    excerpt: "PRNewswire/ - Today, Voices, the world's leading voice over marketplace, released their AI in the Creative Industry"
+    publishedDateTime: 2023-04-28T15:47:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/voices-study-finds-creatives-optimistic-about-generative-ai-but-share-concerns-over-its-ethics-1032274231"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 52
 
 secured: "3RYCzovZOgytTAphneuKP4hH/9M5u0FCYTqMgYF1aYolKvHEA8A6fyNAvCvJ+I6fjU1/ZHiXHeiGy+n4+f8OO2sW61IyYg4rW2XoSztiMWaaoZaczg0OWkRsXdAOm6T+Lgx//Hhs7ZdbjSyJxtkiLVT1+nX6Ctq0FQrXMWy4M/jH5XqmFX+wUeCaCFOFxORgRkQkBhZiKB/mkdKG4ZCUtiMOZhSGZ9xDve5Otk1u8uLg66a7H/DxVPf4rxSQ4fWIFfVs3IOvpb87mHEmKB1o5Cysw2D0BKbQT8kvU7D2pJlATrexU/7fuVWq1QdnpJfqMVxmkUik4RCcra8bfVsQCxXhtNWv/o6y+RrCQZdh+fyuLAH0gu4E5/keIuQOtY8JZ2gytwe4m0VL32qR6RicePi/lR/RcxykgQ4zLWUpZyZlFJWL/c99VvKY77DBnsRV73gDKzkqJBVPlkngQFjtMoJquLLDsITfEpIUkHbsxczlDnMieXqwt/vhUpdm4QOyOzk03E4DeA8GY79kXWjpMQ==;p/Ek1QvLgQD5FqEurPieGA=="
 ---

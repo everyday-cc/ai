@@ -35,21 +35,14 @@ related:
       domain: techspot.com
     quality: 64
   - title: "Embedded Vision Summit® Announces Full Conference Program for Edge AI and Computer Vision Innovators, May 22-24 in Santa Clara, California"
-    excerpt: "The premier event for product creators incorporating computer vision and edge AI in products and applications SANTA CLARA, Calif., /PRNewswire/ -- The Edge AI and Vision Alliance, a 100+ company world"
-    publishedDateTime: 2023-04-27T18:53:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/04/n32056890/embedded-vision-summit-announces-full-conference-program-for-edge-ai-and-computer-vision-innovator"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32056890"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32056890"
+    excerpt: "Embedded Vision Summit® Announces Full Conference Program for Edge AI and Computer Vision Innovators, May 22-24 in Santa Clara, California Apr 27,"
+    publishedDateTime: 2023-04-27T18:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/embedded-vision-summit-announces-full-conference-program-for-edge-ai-and-computer-vision-innovators-may-22-24-in-santa-clara-california-2023-04-27"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 40
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
   - title: "Amazon Delivery Drivers in California Join Teamsters Union (2)"
     excerpt: "Amazon.com Inc. drivers in Palmdale, Calif., became the first in the nation to join the International Brotherhood of Teamsters, the union said Monday."
     publishedDateTime: 2023-04-24T22:08:00Z

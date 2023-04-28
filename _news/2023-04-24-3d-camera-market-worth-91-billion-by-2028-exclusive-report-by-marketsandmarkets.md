@@ -81,6 +81,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Fintech Market Research, 2023-2030"
+    excerpt: "The Global Artificial Intelligence (AI) in Fintech market is anticipated to rise at a considerable rate during the forecast period, between 2023 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
+    publishedDateTime: 2023-04-28T01:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-research-2023-2030-2023-04-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) Accelerator Market Complete Overview till 2031"
     excerpt: "The latest market research report on the Global \"Artificial Intelligence (AI) Accelerator Market\" is segmented by"
     publishedDateTime: 2023-04-27T07:53:00Z
@@ -232,6 +246,33 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Mobile Speech Recognition Software Market Outlook by 2031"
+    excerpt: "What is the Mobile Speech Recognition Software market growth? Mobile Speech Recognition Software Market Size is projected to Reach Multimillion USD by 2031, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2031."
+    publishedDateTime: 2023-04-28T02:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/mobile-speech-recognition-software-market-outlook-by-2031-2023-04-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+  - title: "Speech Recognition Software Market Competitive Situation By 2031"
+    excerpt: "What is the Speech Recognition Software market growth? Speech Recognition Software Market Size is projected to Reach Multimillion USD by 2031, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2031."
+    publishedDateTime: 2023-04-27T17:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-software-market-competitive-situation-by-2031-2023-04-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+  - title: "Artificial Intelligence In Insurtech Market Growth by 2030"
+    excerpt: "What is the Artificial Intelligence In Insurtech market growth? Artificial Intelligence In Insurtech Market Size is projected to Reach Multimillion USD by 2030, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2030."
+    publishedDateTime: 2023-04-28T06:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-insurtech-market-growth-by-2030-2023-04-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
   - title: "Edge Artificial Intelligence (AI) Software Market Size Worth USD 2,519.3 Million in 2028 - Emergen Research"
     excerpt: "Discover the latest trends in the rapidly growing edge AI software market. Learn about key drivers, restraints, growth factors, and government"
     publishedDateTime: 2023-04-27T15:04:00Z

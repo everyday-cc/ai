@@ -224,6 +224,15 @@ related:
       name: Inc
       domain: inc.com
     quality: 11
+  - title: "expert reaction to study comparing physician and AI chatbot responses to patient questions"
+    excerpt: "April 28, 2023 expert reaction to study comparing physician and AI chatbot responses to patient questions . A study published in JAMA Internal Medicine compares physician and arti"
+    publishedDateTime: 2023-04-28T15:53:00Z
+    webUrl: "https://www.sciencemediacentre.org/expert-reaction-to-study-comparing-physician-and-ai-chatbot-responses-to-patient-questions/"
+    type: article
+    provider:
+      name: Science Media Centre
+      domain: sciencemediacentre.org
+    quality: 9
 
 secured: "aeWqRnWOvQ+STQ6nUWj4xrVNXvhYZd9ftdBSOfPxAMTcLMcW9eOu7lSW1+1Im37/mSfrQhzfpvT6Aas7brn4LtrGkyzj5jcHZXp0Y1TRU6Q78MJ1bPyJj3481DvaOwT9/qvoH2nxS/6VWpbLOJJoODKvNT2SCpZKD3qXmjo94aIRtkkAdRtGM89H3VkVYRxdkI+lLVwC+z+dkNkUQs8ALW3KMHuenER/L3utC3gf5CLcZG7E/pAchVYyvfWKeQvhXQlUgvOOPkQZHPYHtRqT//hIFE5OUxv0OjLLVygId+YxWR4EPUy8lOO5E0OZNzDccG1DHM1xqiHkCH9vGE2ybTsD1Ya/kXfUQiQFQuIOhhg=;LwNKuG8bzAG0cyhl2z70eg=="
 ---

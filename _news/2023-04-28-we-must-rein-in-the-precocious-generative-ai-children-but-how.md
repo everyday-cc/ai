@@ -89,20 +89,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "ChatGPT: How generative AI could change hiring as we know it"
-    excerpt: "Candidates are already using tools such as ChatGPT to write cover letters and CVs. But it’s just a small piece of how AI is transforming hiring processes."
-    publishedDateTime: 2023-04-23T19:38:00Z
-    webUrl: "https://www.bbc.com/worklife/article/20230419-chatgpt-how-generative-ai-could-change-hiring-as-we-know-it"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 67
-    images:
-      - url: "https://ychef.files.bbci.co.uk/live/624x351/p0fhn46s.jpg"
-        width: 624
-        height: 351
-        isCached: true
   - title: "The future of generative AI is niche, not generalized"
     excerpt: "ChatGPT has sparked speculation about artificial general intelligence. But the next real phase of AI will be in specific domains and contexts."
     publishedDateTime: 2023-04-27T15:32:00Z

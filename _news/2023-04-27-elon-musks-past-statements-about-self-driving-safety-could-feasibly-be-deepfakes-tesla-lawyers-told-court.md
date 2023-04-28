@@ -63,22 +63,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "How artificial intelligence is being used to create ‘deepfakes’ online"
-    excerpt: "As technology grows more sophisticated, so does the potential for deception. Last month, images went viral that purported to show police arresting Donald Trump and the former president in an orange prisoner’s jumpsuit — but they were fakes."
-    publishedDateTime: 2023-04-23T21:40:00Z
-    webUrl: "https://www.pbs.org/newshour/show/how-artificial-intelligence-is-being-used-to-create-deepfakes-online"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/show/how-artificial-intelligence-is-being-used-to-create-deepfakes-online"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/show/how-artificial-intelligence-is-being-used-to-create-deepfakes-online"
-    type: article
-    provider:
-      name: PBS
-      domain: pbs.org
-    quality: 57
-    images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2023/04/MONH-DEEPFAKES-leading-edge-1024x576.png"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Grimes invites people to use her voice in AI songs"
     excerpt: "Canadian singer says she likes the ideas of ‘killing copyright’, as music industry scrambles to catch up with implications of AI-generated tracks"
     publishedDateTime: 2023-04-26T00:56:00Z
@@ -126,6 +110,6 @@ related:
         height: 683
         isCached: true
 
-secured: "bcCgu2YJMIto8cHG4FZ/BXhGK/VRtma54gzEs2cAmZ1LNpzck5laHV5ai7SjAqiNtUHP2IAJbpY9x8TZfhObvi594ounkGa0UH48sQaFVcF2r+7s6srlJvKJfuwptxOhzISIEfBl+FaZm0rtxiGm+ogTE17rCJ4nl4EBjS6CYEodoo9aysFFauwJH2FTq5fY9pSUli4EaknqiXaNhWRduTPzoCA9BXOYzFGnnqqTtCxWFGO1xCfUr3MqUP6q04SmIsCvFggxM7d9IctZnamC0q83lKRxMTLSj7M83GOTmSKha+yuMsDbOSUwNP1slAthFtuE1OAqpmcIA2PwmzknGrX3Ee6iSEW3iyBWSSf7RQc=;aL30YZXevbFuK9cbOzuoaw=="
+secured: "4rOe9nOvvOECdz3zaeQWROsIOgHQCB26t9jI2xoT0sQckYfGe+MHdsmpJK/f0Ms3+rLKd/gG0fC0eM/YFIPQuJyidnhY7ASnP3HNEa8nhKEsEdgOLyBGC4k1QlGXcM899DgC9BQMC+4MmG3xzbtkGJA9Wa41zP5RRH7DZ0zSaSUlXSkNVa9+BD/+bcnUrbhHKAMlVEwDvgl1Us9NR6UFgCWj/IE/lTwPY9CfrAT8boNT8nCFjrHXJ8KL15WTzkyur6U0N3iCq7vQAsB+iTpAC+QiBoq71pcyOuRgKQ9T/3JJYjE1usbMykjN8nyDxGjMvirSPmqTMfuKWZHtp8jOHFLIZAIkktGpQ04LknJ6vT8CcjWhTngJ8SrHcDwiFLZT6qX6ddYlRbFzp4bf9pGfSu2KinO7RywmRdvpwaKrBGfcMuzk+i/200gfETJxAUTyPsn7vLPEiN92wlF3O+6yrS0JeRwN9yzs9L3qn3pPut/Knq0Zc/LyXbJ/CoUy/iqo8uQTWCXvDGJkuxIS/goOsA==;5ELxm2aEggcEmOa1Fa282w=="
 ---
 

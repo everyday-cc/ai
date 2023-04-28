@@ -50,6 +50,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 28
+  - title: "Natural Language Processing Market Size Will Have Significant Potential in Future Reaching Over USD 144.9 Billion by 2032"
+    excerpt: "Global Natural Language Processing Market Size in 2022 was USD 15.7 Billion, Market Value set to reach USD 144.9 Billion"
+    publishedDateTime: 2023-04-27T10:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-size-will-have-significant-potential-in-future-reaching-over-usd-1449-billion-by-2032-2023-04-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 24
 
 secured: "Qv+Ki2XUIhtjKc7eV9GZktDTF5vpuYOa/0pFyBxhbeMfxw4ampx7Nv1KunPs0h25bNLaKjxBn8dQ7ejOchsG6+b3vnvger3ut1MRXKPFNNdPMMeIcT8ATNAB3ZpbAD3ZXCYbfmgYvVjxUS1QyF3UBYGnCZqzF6YWu8UKoRwec8Ob0pHpUZoYbDdVpPicTLxou8ncc5bvYcHXJhS7HyZVRIHad1j7610k2RQmyhGFq87u6JbLvJjARsnOiD3nkKlmAY5hFod6pZExW2nW/0VzggnF+fdeuOglsmNqjVudWSvcjeYp1IIlYUnTpJN4OjYO/b6hZNVmzTEX3tdVRDBIh9lBQOkcQ0ZqRTzy0VGgSbw=;6YR0Sx3SHDSYTje+SJndHg=="
 ---
