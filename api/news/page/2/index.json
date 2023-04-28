@@ -2,6 +2,48 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-04-27-how-erp-is-breaking-down-silos-and-driving-sustainable-change.md",
+      "title": "How ERP is breaking down silos and driving sustainable change",
+      "excerpt": "While many organizations have established environmental, social and governance (ESG) goals and made ESG commitments, driven by purpose and emerging regulatory requirements, they face several challenges when making the transition from ambition to action. A recent IBM study found that global executives",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-erp-is-breaking-down-silos-and-driving-sustainable-change/",
+      "originalUrl": "https://www.ibm.com/blog/how-erp-is-breaking-down-silos-and-driving-sustainable-change/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-27T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-27-how-to-avoid-fueling-shadow-ai-with-the-right-policy-for-generative-ai-chatbots.md",
       "title": "How To Avoid Fueling 'Shadow AI' With The Right Policy For Generative AI Chatbots",
       "excerpt": "Despite only emerging onto the scene a few months ago, there are several ways to access the capabilities of LLMs, and the different access models can help mitigate risk.",
@@ -998,7 +1040,7 @@
       "originalUrl": "https://venturebeat.com/ai/moveworks-debuts-creator-studio-to-build-ai-driven-employee-copilots/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -1195,50 +1237,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-04-26-deliver-your-first-ml-use-case-in-812-weeks.md",
-      "title": "Deliver your first ML use case in 8–12 weeks",
-      "excerpt": "Do you need help to move your organization’s Machine Learning (ML) journey from pilot to production? You’re not alone. Most executives think ML can apply to any business decision, but on average only half of the ML projects make it to production. This post describes how to implement your first ML use",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/deliver-your-first-ml-use-case-in-8-12-weeks/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/deliver-your-first-ml-use-case-in-8-12-weeks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-26T11:36:19-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

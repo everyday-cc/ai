@@ -2,6 +2,92 @@
   "page": 117,
   "value": [
     {
+      "path": "_news/2023-01-21-robotics-drug-control-on-senators-mind-this-week-letters.md",
+      "title": "Robotics, drug control on senator’s mind this week (Letters)",
+      "excerpt": "As usual, the beginning of formal session has been exceptionally busy ahead of our bill filing deadline. All bills filed prior are guaranteed a public hearing, an important step.",
+      "sourceUrl": null,
+      "webUrl": "https://www.masslive.com/westfieldnews/2023/01/robotics-drug-control-on-senators-mind-this-week-letters.html",
+      "originalUrl": "https://www.masslive.com/westfieldnews/2023/01/robotics-drug-control-on-senators-mind-this-week-letters.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/V3HL2JSC25CP7NTDBBGK6Q52JA.jpg",
+          "width": 2385,
+          "height": 2385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.masslive.com/westfieldnews/2023/01/robotics-drug-control-on-senators-mind-this-week-letters.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/westfieldnews/2023/01/robotics-drug-control-on-senators-mind-this-week-letters.html?outputType=amp",
+      "publishedDateTime": "2023-01-20T22:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MassLive",
+        "domain": "masslive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-21-driverless-train-catches-fire-then-escapes-from-police.md",
+      "title": "Driverless train catches fire then ‘escapes’ from police",
+      "excerpt": "The driverless diesel engine was well alight by the time they arrived. But the situation soon evolved into a wild chase when the train darted away of its own accord. It started to chug towards ...",
+      "sourceUrl": null,
+      "webUrl": "https://metro.co.uk/2023/01/20/germany-driverless-train-catches-fire-then-escapes-from-police-18141658/",
+      "originalUrl": "https://metro.co.uk/2023/01/20/germany-driverless-train-catches-fire-then-escapes-from-police-18141658/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://metro.co.uk/wp-content/uploads/2023/01/SEI_141090013-d810.jpg?quality=90&strip=all&zoom=1&resize=600%2C343",
+          "width": 600,
+          "height": 343,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://metro.co.uk/2023/01/20/germany-driverless-train-catches-fire-then-escapes-from-police-18141658/amp/",
+      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/01/20/germany-driverless-train-catches-fire-then-escapes-from-police-18141658/amp/",
+      "publishedDateTime": "2023-01-20T22:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Metro",
+        "domain": "metro.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-21-how-ai-and-data-enrichment-can-protect-the-vulnerable-during-a-recession.md",
       "title": "How AI and data enrichment can protect the vulnerable during a recession",
       "excerpt": "Fraudsters work hard to make their methods convincing. Technology and intelligent use of data can help catch cyber criminals and their scams.",
@@ -1069,102 +1155,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-20-chatgpt-stole-your-work-so-what-are-you-going-to-do.md",
-      "title": "ChatGPT Stole Your Work. So What Are You Going to Do?",
-      "excerpt": "This is true for search engines like Google, social media sites like Instagram, AI research startups like OpenAI, and many other providers of intelligent technologies. This exploitative dynamic ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/chatgpt-generative-artificial-intelligence-regulation/",
-      "originalUrl": "https://www.wired.com/story/chatgpt-generative-artificial-intelligence-regulation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/63c9d72b995aa119ba7ba924/master/pass/ideas-chatgpt-ai-regulation-law.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/chatgpt-generative-artificial-intelligence-regulation/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/chatgpt-generative-artificial-intelligence-regulation/amp",
-      "publishedDateTime": "2023-01-20T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-20-artificial-intelligence-is-coming-for-human-creativity.md",
-      "title": "Artificial Intelligence Is Coming for Human Creativity",
-      "excerpt": "Second, the development of artificial intelligence poses a challenge to our claims to creative uniqueness. With the defeat of Garry Kasparov by Big Blue in 1997, many people lost interest in chess ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/us/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity",
-      "originalUrl": "https://www.psychologytoday.com/us/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-01/Is%20AI%20coming%20for%20Creativity%2C%203%2C%20Joseph%20Ayerle.jpg?itok=clf3nLZg",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/us/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity?amp",
-      "publishedDateTime": "2023-01-20T05:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

@@ -28,6 +28,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Facial Recognition Devices Market Demand and Competitive Analysis by Key Players to 2030| Cloudwalk, Aurora, Insigma Group"
+    excerpt: "A latest extensive market study titled Global Facial Recognition Devices Market Outlook from 2023 to 2030 enfolds"
+    publishedDateTime: 2023-04-27T08:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-devices-market-demand-and-competitive-analysis-by-key-players-to-2030-cloudwalk-aurora-insigma-group-2023-04-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+
 secured: "KOf2r1D7TvzsM6VWgzVYlj6zbARhG4K7Hj+9CwwT3G92iAk0ezPktwXK6R8wEPZo+KZJRQMZUhCncMn1J25uxRdqyRSfAhmPRrp9rPRq2vlhSQ67mo9G35Tsu2ZBuOSceO2gtxjvrG6OrtKwbatCscE0tjkNV3vS7+aFvkDjA4Ex05Nmsc6jOrcXyZOYjbI+gfbW5w/9VItuJkIDogUhuZHZAAndLnstTn9cTQJHiNVJqW9RgfHccxlQcPnw1VKUpJWLADH9uHztiUgYcBE9jtOtV1NBhW3FjqrMgvkmqGmpVToxc49aiTMfbU5brubgWMlHU/PRvIlp6gvAcIG+VCIWsyODtSZEH+9sU+tkvAA=;XVpIkIoBM11AW5R8s+dLdw=="
 ---
 

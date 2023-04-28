@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Embedded Vision Summit® Announces Full Conference Program for Edge AI and Computer Vision Innovators, May 22-24 in Santa Clara, California"
-excerpt: "The Edge AI and Vision Alliance, a 100+ company worldwide industry partnership, today announced the full program for the 2023 Embedded Vision Summit, May 22-24 at the Santa Clara Convention Center, Santa Clara,"
-publishedDateTime: 2023-04-27T20:14:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-embedded-vision-summitreg-announces-full-conference-program-edge-/2023/04/27/9803802.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-embedded-vision-summitreg-announces-full-conference-program-edge-/2023/04/27/9803802.htm"
+excerpt: "The premier event for product creators incorporating computer vision and edge AI in products and applications SANTA CLARA, Calif., /PRNewswire/ -- The Edge AI and Vision Alliance, a 100+ company world"
+publishedDateTime: 2023-04-27T18:53:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/04/n32056890/embedded-vision-summit-announces-full-conference-program-for-edge-ai-and-computer-vision-innovator"
+webUrl: "https://www.benzinga.com/pressreleases/23/04/n32056890/embedded-vision-summit-announces-full-conference-program-for-edge-ai-and-computer-vision-innovator"
+ampWebUrl: "https://www.benzinga.com/amp/content/32056890"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32056890"
 type: article
-quality: 20
+quality: 40
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
-    width: 550
-    height: 353
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
 related:
@@ -72,6 +74,6 @@ related:
       domain: theguardian.com
     quality: 4
 
-secured: "FBFnRk+t6EjqHcv3NlPumaXJ6Mw79tttOD4UTvvD5aDGFX80xbYFCjxe98L5YAbOt8AMPHyfnIT5e5kjFZ6wsdr2wQbfxFXUW2nX9Xqa1DAj8+AFlRH6VRL75MPKKQAWVZQ7bdFtYMl33D0KC+HUSfA7VJ/Ek8YqleS5vIAUYCC4F9Q9m/UlGUU8SWMXjzot96JXqDLbMwwSVNVBit5D3WrEPkVeRqrbh21djqxp8LxiHBB/Gc/1PmX6BY+zaA0km526oIMU9V2g+0ldMvpFA7w3Uo+oxFxRCA1iPPMRKoDkq0Yrql7rbK8MXIGh/9ma6+wra8hEo47keh4my2WhrpABiAe1pwtZERXjVtlW50U=;H8C0KbPfyyYEuMWW2LNzBw=="
+secured: "dcPvrkbiVZ5M/qiNmm0ndMKHbWF+Hgr8SENQF7azDaIV+W06L8v7WjPot1Xr0QkIf8+zE0lm0T8FlZh6favUsUq73CkGaqtPOpK3V1ygrGDkLpxH3aV3evb15QAadlBlvuUILl5Cgrdlfl8T77vrC//ZSRgLybfRVHP1RfaY41b8+dHUXOwIugx2tlvRVEt7yj+bcHzrmPWCviE0LBYg8cRhdy4ghwOIL0w7d3oY5BVYjYm66NHiF8HFKvPkscRMSp/yi5HULTGanM1I4Sve6em3plHQURfoi6XzN/4zOwNn8M3bEeoKplAi2QfGsbeq4Zmjw7NZBwlnphtQ8Vk3ufuPjMedS1n0wQsXZs8htYo=;uQkZDsbHhonXRgZSRintTw=="
 ---
 

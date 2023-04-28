@@ -2,6 +2,108 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2023-03-16-artificial-intelligence-will-replace-work-jerks-people-skills-will-become-more-important.md",
+      "title": "Artificial intelligence will replace work jerks. People skills will become more important.",
+      "excerpt": "An envelope. It indicates the ability to send an email. An curved arrow pointing right. It's almost the weekend, pals. I'm Diamond Naga Siu, and I watch about one movie per year. Last year was \"Bullet Train.\" This year, it was \"Everything Everywhere, All ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/office-spa-kia-uber-nintendo-taxi-chatgpt-oracle-brilliant-jerks-2023-3",
+      "originalUrl": "https://www.businessinsider.com/office-spa-kia-uber-nintendo-taxi-chatgpt-oracle-brilliant-jerks-2023-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/641253d95f4f54001919d435?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/office-spa-kia-uber-nintendo-taxi-chatgpt-oracle-brilliant-jerks-2023-3?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/office-spa-kia-uber-nintendo-taxi-chatgpt-oracle-brilliant-jerks-2023-3?amp",
+      "publishedDateTime": "2023-03-16T04:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-16-2-unstoppable-ai-stocks-to-buy-for-the-next-decade.md",
+      "title": "2 Unstoppable AI Stocks to Buy for the Next Decade",
+      "excerpt": "It offers pretrained models for cybersecurity, speech recognition, and other AI use cases. It says 25,000 companies and start-ups are using Nvidia AI. Another sign that Nvidia is positioned to lead this disruptive tech revolution is its multiyear ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/03/16/2-unstoppable-ai-stocks-to-buy-for-the-next-decade/",
+      "originalUrl": "https://www.fool.com/investing/2023/03/16/2-unstoppable-ai-stocks-to-buy-for-the-next-decade/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/724598/artificial-intelligence-investing-algorithm.png",
+          "width": 3416,
+          "height": 2266,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-16T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-16-three-ways-digitalization-is-powering-the-future-of-healthcare.md",
       "title": "Three Ways Digitalization Is Powering The Future Of Healthcare",
       "excerpt": "1. AI helps make medical systems smarter. Today, 59% of U.S. healthcare executives believe that artificial intelligence (AI) is either “very effective” or “often effective” at improving clinical outcomes. AI can be used in a variety of ways in ...",
@@ -1124,110 +1226,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-ai-gets-smarter-safer-more-visual-with-gpt-4-update-openai-says.md",
-      "title": "AI Gets Smarter, Safer, More Visual With GPT-4 Update, OpenAI Says",
-      "excerpt": "Azure now can use Nvidia's new H100 processors, which include specific circuitry to accelerate AI transformer calculations. Another large language model developer, Anthropic, also unveiled an AI chatbot called Claude on Tuesday. The company, which counts ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/computing/ai-gets-smarter-safer-more-visual-with-gpt-4-update-openai-says/",
-      "originalUrl": "https://www.cnet.com/tech/computing/ai-gets-smarter-safer-more-visual-with-gpt-4-update-openai-says/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/aec4ae4989aa06e9d658ce589449b5535d70159b/hub/2023/02/08/ab062053-b8ba-4938-9711-5f0cc97f4f0e/20230207-openai-ceo-sam-altman-01.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/ai-gets-smarter-safer-more-visual-with-gpt-4-update-openai-says/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-gets-smarter-safer-more-visual-with-gpt-4-update-openai-says/",
-      "publishedDateTime": "2023-03-15T11:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-what-the-ai-boom-means-for-carbon-emissions.md",
-      "title": "What the AI Boom Means for Carbon Emissions",
-      "excerpt": "Artificial Intelligence is booming, and so is its carbon footprint. AI is the tech industry's new toy, with expectations it’ll revolutionize trillion-dollar industries from retail to medicine. But the creation of every new chatbot and image generator requires a lot of electricity,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/videos/2023-03-15/what-the-ai-boom-means-for-carbon-emissions",
-      "originalUrl": "https://www.bloomberg.com/news/videos/2023-03-15/what-the-ai-boom-means-for-carbon-emissions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imGlILH27L.A/v40/-1x-1.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-15T11:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

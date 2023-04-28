@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jonmarkman/2023/04/24/buy-ark-genomic-r
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonmarkman/2023/04/24/buy-ark-genomic-revolution-for-a-piece-of-the-ai-paradigm-shift/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://www.cio.com/wp-content/uploads/2023/04/iStock-1469172094-image-fsi-custom-4-chiewr.jpg?quality=50&strip=all&w=1024"
         width: 1024
         height: 509
+        isCached: true
+  - title: "The AI revolution is leaving behind Arabic speakers"
+    excerpt: "The vast majority of references and big data AI tools such as ChatGPT scan to generate results are in English. This must be addressed if we are to avoid a digital language divide"
+    publishedDateTime: 2023-04-28T08:55:00Z
+    webUrl: "https://www.middleeasteye.net/opinion/al-revolution-arabic-speakers-left-behind"
+    type: article
+    provider:
+      name: Middle East Eye
+      domain: middleeasteye.net
+    quality: 39
+    images:
+      - url: "http://www.middleeasteye.net/sites/default/files/images-story/chatGPT-IA-%202023-afp.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "6VAbCqxe43yMwhB/eePd5lEsWSNFP703iAZk+EP19NScBS3rrHD6StfioQ2NPtv7WqiaK8yBKiIKWBeHEDMPTQzS1jfDSXM0NhCaqmjGr8LeeFdCtTl6dwjKPVkz1Q6feLngdbh1STPoHh5pZQM8WpG4YKjQZos6BHidMJVBK78WAM4yhsKyF9//CtIjSmEP0diiGN9+UNtQU1+7fzI/ErTQGfAW6RtCzWrJEtIw0mAvHoa7fC4FlySgEBcyHufQEaHotfAo0M4TV2ymYLXMMAUJxzhCOBgfrXOd7V4cGZn0AUoKxPPnN8YcOZFBFILqEERygR6fkpTz4/WiKhx6nEeRWNceq9G9VM+bgQ6S7Wi5NTIv/2/Wk9FcrrGjAml4leO3mcnM+8qI61Ubp9pGfk3lcxaSnLO7CqfwoXkYBkzLe9imFWocgIEcDAhQpqg/RNkHWfv8g4DvuNp38Pg/zrXD8i3fH5wVQlqgjTNpu/MUV37kgMTrB0kFVQz+VMdV0bl5BqYpxKip+96CJ9IM7g==;5QNT3JWlarMcZU0UE611RQ=="

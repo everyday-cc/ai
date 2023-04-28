@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "2023-2030 Automated Driving System Market Future Scope and Growth Prospects"
+    excerpt: "Apr 27, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The “Automated Driving System"
+    publishedDateTime: 2023-04-27T14:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-2030-automated-driving-system-market-future-scope-and-growth-prospects-2023-04-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "csrrmoja30fksVyd4vn2T0FydBbik6EJQwfjzmdamuL95Vg/VrxTMxyXdg7h9HKgQ4vLlJt7xLbRPd74D9jTawEt4FJv4DaeJJ7hNeE2ewSv2TKeKICANj3Q+oQtjXSmNhHTt5GMZBcGTyx5K3JsbX0YwLnI5m/dBssNItSeCYhTvyplf7392HxBQ0R2mFsywyoRv6SMWj+yY4m6Hza4hlnDO+7w+i/Zuf+GA8j3eEAH3+gcGclST9h4Uv3fLupKSi2GtzHUU7QzHbzUDqBnSvy9RpedCKlzhd7iIp1BjsPXU3w4N9kHZmcLFm5SY9WnfGzxqZOA1aCyWMgiCknMKddarDlbjJMTGNsfQ3mn8gc=;YAHD/VD9eXCGb+gtTsNEUQ=="
 ---

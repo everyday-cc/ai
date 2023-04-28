@@ -2,6 +2,91 @@
   "page": 75,
   "value": [
     {
+      "path": "_news/2023-02-18-top-trends-in-robotics-in-2023.md",
+      "title": "Top trends in robotics in 2023",
+      "excerpt": "The easy-to-use software paired with an intuitive user experience replaces extensive robotics programming and opens up new robotics automation opportunities: Software start-ups are ... 4 – Artificial Intelligence and digital automation Propelled by ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.logisticsmgmt.com/article/top_trends_in_robotics_in_2023",
+      "originalUrl": "https://www.logisticsmgmt.com/article/top_trends_in_robotics_in_2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.scmr.com/images/2021_article/Top_5_robotic_trends_in_2023.jpg",
+          "width": 700,
+          "height": 394,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-17T13:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Logistics Management",
+        "domain": "logisticsmgmt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-18-chuck-todd-are-we-ready-for-a-potential-brave-new-world-of-ai.md",
+      "title": "Chuck Todd: 'Are we ready for a potential brave new world of AI?'",
+      "excerpt": "Lawmakers raise concerns over the spread of unregulated artificial intelligence, which can lead to false narratives and misinformation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/meet-the-press/video/chuck-todd-are-we-ready-for-a-potential-brave-new-world-of-ai-163587653890",
+      "originalUrl": "https://www.nbcnews.com/meet-the-press/video/chuck-todd-are-we-ready-for-a-potential-brave-new-world-of-ai-163587653890",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_02/1676669539349_now_mtp_clip_a1_20230217_1920x1080-sl7r74.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo163587653890",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo163587653890",
+      "publishedDateTime": "2023-02-17T13:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-18-as-interest-in-ai-surges-check-out-this-etf.md",
       "title": "As Interest in AI Surges, Check Out This ETF",
       "excerpt": "Investor interest in artificial intelligence (AI) is surging this year. Just as previously hot segments of tech like social media and",
@@ -1111,110 +1196,6 @@
         "Machine Learning",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-02-17-self-driving-car-could-end-traffic-light-need-says-firm-involved-in-trial.md",
-      "title": "Self-driving car could end traffic light need, says firm involved in trial",
-      "excerpt": "It follows a trial where two self-driving electric cars were tested in Woolwich, south-east London. Transport minister Jesse Norman said it had helped answer \"practical questions\" about integrating self-driving vehicles into cities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/uk-england-london-64664549.amp",
-      "originalUrl": "https://www.bbc.com/news/uk-england-london-64664549.amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/21C5/production/_128654680_5291364373b5744b4612a080ab6c07e5252e7884.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/uk-england-london-64664549.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-london-64664549.amp",
-      "publishedDateTime": "2023-02-16T22:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-17-artificial-intelligence-in-drug-discovery-market-worth-895-billion-by-2030.md",
-      "title": "Artificial Intelligence in Drug Discovery Market Worth $8.95 Billion by 2030",
-      "excerpt": "Meticulous Research(R)--a leading global market research company, published a research report titled, Artificial",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-worth-895-billion-by-2030-2023-02-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-worth-895-billion-by-2030-2023-02-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-16T21:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

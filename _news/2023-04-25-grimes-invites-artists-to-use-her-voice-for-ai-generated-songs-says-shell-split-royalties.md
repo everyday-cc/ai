@@ -58,6 +58,22 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Elon Musk's past statements about self-driving safety could feasibly be deepfakes, Tesla lawyers told court"
+    excerpt: "Tesla is facing a lawsuit over the death of an Apple engineer. The judge ordered Elon Musk to be interviewed under oath about his past statements."
+    publishedDateTime: 2023-04-27T12:35:00Z
+    webUrl: "https://www.businessinsider.com/tesla-lawyers-elon-musk-autopilot-safety-statements-could-be-deepfakes-2023-4"
+    ampWebUrl: "https://www.businessinsider.com/tesla-lawyers-elon-musk-autopilot-safety-statements-could-be-deepfakes-2023-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-lawyers-elon-musk-autopilot-safety-statements-could-be-deepfakes-2023-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 71
+    images:
+      - url: "https://i.insider.com/6432a2b13007470019fe3dee?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "How artificial intelligence is being used to create ‘deepfakes’ online"
     excerpt: "As technology grows more sophisticated, so does the potential for deception. Last month, images went viral that purported to show police arresting Donald Trump and the former president in an orange prisoner’s jumpsuit — but they were fakes."
     publishedDateTime: 2023-04-23T21:40:00Z

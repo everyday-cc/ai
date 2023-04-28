@@ -92,22 +92,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "How reinforcement learning with human feedback is unlocking the power of generative AI"
-    excerpt: "How reinforcement learning with human feedback helps ensure that businesses are building ethical generative AI models."
-    publishedDateTime: 2023-04-23T16:20:00Z
-    webUrl: "https://venturebeat.com/ai/how-reinforcement-learning-with-human-feedback-is-unlocking-the-power-of-generative-ai/"
-    ampWebUrl: "https://venturebeat.com/ai/how-reinforcement-learning-with-human-feedback-is-unlocking-the-power-of-generative-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-reinforcement-learning-with-human-feedback-is-unlocking-the-power-of-generative-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 83
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/04/annevb_human_and_artificial_intelligence_working_together_to_un_5b2cbb9e-e380-4bb1-812b-366943b59568.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "The future of generative AI is niche, not generalized"
     excerpt: "ChatGPT has sparked speculation about artificial general intelligence. But the next real phase of AI will be in specific domains and contexts."
     publishedDateTime: 2023-04-27T15:32:00Z

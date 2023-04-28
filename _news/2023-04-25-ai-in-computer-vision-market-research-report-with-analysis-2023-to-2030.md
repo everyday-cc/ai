@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-ma
 webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-research-report-with-analysis-2023-to-2030-2023-04-25"
 type: article
 quality: 84
-heat: 284
+heat: 294
 published: true
 
 provider:
@@ -75,6 +75,20 @@ related:
     excerpt: "Newest 126 Pages Report,the goal of Image Recognition in Retail Market Image Recognition in Retail Market is to broaden"
     publishedDateTime: 2023-04-26T07:49:00Z
     webUrl: "https://www.marketwatch.com/press-release/image-recognition-in-retail-market-research-2023-2030-2023-04-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI Governance Market Business Report [2023-2030]"
+    excerpt: "The AI Governance market has witnessed growth from USD million to USD million from 2017 to 2022. With the CAGR, this market is estimated to reach USD million in 2029. The report focuses on the AI Governance market size,"
+    publishedDateTime: 2023-04-27T22:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-governance-market-business-report-2023-2030-2023-04-27"
     type: article
     provider:
       name: MarketWatch

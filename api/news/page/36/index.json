@@ -2,6 +2,111 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2023-03-24-hazenai-a-ksa-startup-using-deep-learning-to-drive-road-safety.md",
+      "title": "Hazen.ai: A KSA Startup Using Deep Learning To Drive Road Safety",
+      "excerpt": "What changed in the last decade was several breakthroughs in the research, with seminal research papers published on \"unsupervised (machine) learning\" and \"deep neural networks.\" At the same time, computing power was increasing exponentially each year ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/en-ae/starting-a-business/hazenai-a-ksa-startup-using-deep-learning-to-drive-road/448318",
+      "originalUrl": "https://www.entrepreneur.com/en-ae/starting-a-business/hazenai-a-ksa-startup-using-deep-learning-to-drive-road/448318",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1679662681-Hazenaico-foundersDrSalehBasalamahMuhammadKhurramAminandDrAnasBasalamahlefttoright.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-24T07:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-24-while-openai-has-been-working-on-text-and-images-igenius-has-been-working-on-gpt-for-numbers.md",
+      "title": "While OpenAI has been working on text and images, iGenius has been working on GPT for numbers",
+      "excerpt": "And with algorithms, natural language processing and user-created metadata, or what iGenius calls advanced conversational AI, the complexity of data quality can be improved and elevated. Gartner has dubbed this ‘conversational analytics.’ Virtualizing ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/while-openai-has-been-working-on-text-and-images-igenius-has-been-working-on-gpt-for-numbers/",
+      "originalUrl": "https://venturebeat.com/ai/while-openai-has-been-working-on-text-and-images-igenius-has-been-working-on-gpt-for-numbers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/03/iGeniusxVB-2.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/while-openai-has-been-working-on-text-and-images-igenius-has-been-working-on-gpt-for-numbers/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/while-openai-has-been-working-on-text-and-images-igenius-has-been-working-on-gpt-for-numbers/amp/",
+      "publishedDateTime": "2023-03-24T06:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-03-24-how-ai-can-help-you-develop-emotional-intelligence.md",
       "title": "How AI Can Help You Develop Emotional Intelligence",
       "excerpt": "Emotional intelligence—or the ability to recognize, understand and manage one's own emotions and those of others—is a critical skill for effective leadership. Fortunately, advances in artificial intelligence (AI) are making it easier than ever to improve emotional intelligence.",
@@ -1076,110 +1181,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-23-aqara-smart-video-doorbell-g4-with-on-device-ai-facial-recognition-launched.md",
-      "title": "Aqara Smart Video Doorbell G4 with on-device AI facial recognition Launched",
-      "excerpt": "Smart home accessory maker and Xiaomi ecological chain company Aqara has launched its first video doorbell, the Aqara Smart Video Doorbell G4, which is compatible with HomeKit Secure Video and features facial recognition. The device has a 1080p camera and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2023/03/23/aqara-smart-video-doorbell-g4-on-device-ai-facial-recognition-launched/",
-      "originalUrl": "https://www.gizmochina.com/2023/03/23/aqara-smart-video-doorbell-g4-on-device-ai-facial-recognition-launched/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2023/03/aqara-G4-launch.jpg",
-          "width": 1600,
-          "height": 890,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-23T09:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-23-as-openai-rival-character-ai-announces-1b-valuation-reports-of-industrial-capture-emerge.md",
-      "title": "As OpenAI rival Character AI announces $1B valuation, reports of “industrial capture” emerge",
-      "excerpt": "Join top executives in San Francisco on July 11-12, to hear how leaders are integrating and optimizing AI investments for success. Learn More The steady march of eye-popping investments into companies developing large language models (LLMs) continues.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/as-openai-rival-character-ai-announces-1b-valuation-reports-of-industrial-capture-emerge/",
-      "originalUrl": "https://venturebeat.com/ai/as-openai-rival-character-ai-announces-1b-valuation-reports-of-industrial-capture-emerge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/03/image-5-1.png?fit=800%2C411&strip=all",
-          "width": 800,
-          "height": 411,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/as-openai-rival-character-ai-announces-1b-valuation-reports-of-industrial-capture-emerge/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/as-openai-rival-character-ai-announces-1b-valuation-reports-of-industrial-capture-emerge/amp/",
-      "publishedDateTime": "2023-03-23T07:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

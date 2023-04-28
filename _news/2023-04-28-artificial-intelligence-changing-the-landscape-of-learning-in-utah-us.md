@@ -8,8 +8,8 @@ webUrl: "https://www.fox13now.com/news/local-news/artificial-intelligence-changi
 ampWebUrl: "https://www.fox13now.com/news/local-news/artificial-intelligence-changing-the-landscape-of-learning-in-utah-us?_amp=true"
 cdnAmpWebUrl: "https://www-fox13now-com.cdn.ampproject.org/c/s/www.fox13now.com/news/local-news/artificial-intelligence-changing-the-landscape-of-learning-in-utah-us?_amp=true"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://x-default-stgec.uplynk.com/ausw/slices/939/ef205c0e5ea14d77944cbd6904335118/939132e3ac5e46f9be8c93def2dd75be/poster_17048180993c4cd9b30aa05681124bc6.png"

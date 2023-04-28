@@ -2,6 +2,49 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2023-04-18-ai-terminologies-101understanding-neural-networks.md",
+      "title": "AI Terminologies 101:Understanding Neural Networks",
+      "excerpt": "Neural Networks are a type of artificial intelligence (AI) that's modeled after the way the human brain works. They're made up of interconnected nodes or \"neurons\" that process information and ...",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2023/04/ai-terminologies-101-understanding-neural-networks",
+      "originalUrl": "https://yourstory.com/2023/04/ai-terminologies-101-understanding-neural-networks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/NucleusAIwall-elikecuterobotsmilingandreadingabooklo64cf6bf2-2dc6-4006-80fc-53762f2dce632-1681470773317.jpg?fm=png&auto=format",
+          "width": 1536,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-17T20:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-18-fears-of-artificial-intelligence-overblown.md",
       "title": "Fears of artificial intelligence overblown",
       "excerpt": "While AI is still a developing technology and not without its limitations, a robotic world domination is far from something we need to fear.",
@@ -189,6 +232,58 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-18-deepminds-ceo-said-theres-a-chance-that-ai-could-become-self-aware-in-the-future.md",
+      "title": "DeepMind's CEO said there's a chance that AI could become self-aware in the future",
+      "excerpt": "An curved arrow pointing right. The CEO of Alphabet-owned AI research lab, DeepMind Technologies, spoke about the potential of artificial intelligence in an interview with CBS' \"60 Minutes,\" which ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/deepmind-ceo-discusses-advancements-of-ai-2023-4",
+      "originalUrl": "https://www.businessinsider.com/deepmind-ceo-discusses-advancements-of-ai-2023-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/643d1e3e7cdf0f00185ccfea?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/deepmind-ceo-discusses-advancements-of-ai-2023-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/deepmind-ceo-discusses-advancements-of-ai-2023-4?amp",
+      "publishedDateTime": "2023-04-17T15:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
         "AI"
       ]
     },
@@ -1124,101 +1219,6 @@
         "AI",
         "AI in Healthcare",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-04-17-asda-introduces-self-driving-delivery-vans-in-ai-first.md",
-      "title": "Asda introduces self driving delivery vans in AI first",
-      "excerpt": "Asda is launching the scheme in partnership with Wayve, a developer of artificial intelligence for self driving cars ... This trend appears here to stay, and bringing driverless vehicles into the fold could be the next step forward,” Myron Jobson ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cityam.com/asda-introduces-self-driving-vans-in-ai-first-for-the-supermarket-1/",
-      "originalUrl": "https://www.cityam.com/asda-introduces-self-driving-vans-in-ai-first-for-the-supermarket-1/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cityam.com/wp-content/uploads/2023/04/Asda-Wayve_003.jpeg",
-          "width": 1536,
-          "height": 1183,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cityam.com/asda-introduces-self-driving-vans-in-ai-first-for-the-supermarket-1/?amp=1",
-      "cdnAmpWebUrl": "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/asda-introduces-self-driving-vans-in-ai-first-for-the-supermarket-1/?amp=1",
-      "publishedDateTime": "2023-04-17T04:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "City A.M.",
-        "domain": "cityam.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-17-restaffing-the-self-driving-space-moving-past-traditional-recruitment.md",
-      "title": "Restaffing The Self-Driving Space: Moving Past Traditional Recruitment",
-      "excerpt": "Self-driving cars were science fiction a few years ago, but most technologically advanced nations now have autonomous automobiles—making this once-impossible fantasy a reality. Self-driving cars have conquered the automotive sector with significant ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/17/restaffing-the-self-driving-space-moving-past-traditional-recruitment/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/17/restaffing-the-self-driving-space-moving-past-traditional-recruitment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6109756bd03b841ec749f142/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 698,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/17/restaffing-the-self-driving-space-moving-past-traditional-recruitment/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/17/restaffing-the-self-driving-space-moving-past-traditional-recruitment/amp/",
-      "publishedDateTime": "2023-04-17T04:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

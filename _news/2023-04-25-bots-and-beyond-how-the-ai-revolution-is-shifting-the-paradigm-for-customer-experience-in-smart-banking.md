@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 755
         isCached: true
+  - title: "The AI revolution is leaving behind Arabic speakers"
+    excerpt: "The vast majority of references and big data AI tools such as ChatGPT scan to generate results are in English. This must be addressed if we are to avoid a digital language divide"
+    publishedDateTime: 2023-04-28T08:55:00Z
+    webUrl: "https://www.middleeasteye.net/opinion/al-revolution-arabic-speakers-left-behind"
+    type: article
+    provider:
+      name: Middle East Eye
+      domain: middleeasteye.net
+    quality: 39
+    images:
+      - url: "http://www.middleeasteye.net/sites/default/files/images-story/chatGPT-IA-%202023-afp.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "bqCdp02fOLumgYIBsW3YMxxgn9dcvKtifED24cYenY+43G7Wyn8zZH3OXPXQ/qNcGcOoUx9Swp+POcUjFaAkOiEmjLjJV4A8PHl/pxeFAlqOj36lbtvqUrFPxMCLQUJKNd2bbv1OsAZrkORrhoj5KBRpFvWX345AVuK/O1VW0DYo/7cuO5c6kdXvGZfqhiqAinatgs+F21WFvqUabcec5wejXpSU87OyVxmFZCsW0+1vSoA2rRrVsd5Jtnh3gTjEcKozGDBGd/3GPk2g8xEeXTx8hP7X9azTEuz/MhWX4lvn5rLV+ZHExqiWLv5W9UsWk76oh35d63QaVh7227G4EZUGjH33LdblAjqKxc1OWxvK0VsYjD+LKfm25e3goq7DEFhrbJJ46pCiXEQJewvTWwAmfmhiqWJXOzqlinn9aXLnqmBR8MNVfFC6+eOpOEqrXz1MWl/fHXWOp60kEFTz+4O+KEk8amnXjtmDJlH0GlVyRPawJYlxPm9asHDSk/fBwCPItGqpz4XlJszXxXLZdg==;8DcP9H0C8jbEtN+vdqfFOw=="
 ---

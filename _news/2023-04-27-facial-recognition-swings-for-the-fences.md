@@ -34,6 +34,22 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 64
+  - title: "Embedded Vision Summit® Announces Full Conference Program for Edge AI and Computer Vision Innovators, May 22-24 in Santa Clara, California"
+    excerpt: "The premier event for product creators incorporating computer vision and edge AI in products and applications SANTA CLARA, Calif., /PRNewswire/ -- The Edge AI and Vision Alliance, a 100+ company world"
+    publishedDateTime: 2023-04-27T18:53:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/04/n32056890/embedded-vision-summit-announces-full-conference-program-for-edge-ai-and-computer-vision-innovator"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32056890"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32056890"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 40
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "Amazon Delivery Drivers in California Join Teamsters Union (2)"
     excerpt: "Amazon.com Inc. drivers in Palmdale, Calif., became the first in the nation to join the International Brotherhood of Teamsters, the union said Monday."
     publishedDateTime: 2023-04-24T22:08:00Z
@@ -47,20 +63,6 @@ related:
       - url: "https://db0ip7zd23b50.cloudfront.net/dims4/default/d2df23c/2147483647/legacy_thumbnail/960x369%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2Fd2%2F88%2F4405ea704727b4f56f9b81482496%2F395211435.jpg"
         width: 960
         height: 369
-        isCached: true
-  - title: "Embedded Vision Summit® Announces Full Conference Program for Edge AI and Computer Vision Innovators, May 22-24 in Santa Clara, California"
-    excerpt: "The Edge AI and Vision Alliance, a 100+ company worldwide industry partnership, today announced the full program for the 2023 Embedded Vision Summit, May 22-24 at the Santa Clara Convention Center, Santa Clara,"
-    publishedDateTime: 2023-04-27T20:14:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-embedded-vision-summitreg-announces-full-conference-program-edge-/2023/04/27/9803802.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 20
-    images:
-      - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
-        width: 550
-        height: 353
         isCached: true
   - title: "First man wrongfully arrested because of facial recognition testifies as California weighs new bills"
     excerpt: "One bill would ban its use for 10 years, while the second could allow police to match images to the state driver’s license database"

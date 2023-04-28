@@ -2,6 +2,102 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2023-03-18-ai-can-be-racist-sexist-and-creepy-what-should-we-do-about-it.md",
+      "title": "AI can be racist, sexist and creepy. What should we do about it?",
+      "excerpt": "I talked to Reid Blackman, who has advised companies and governments on digital ethics and wrote the book “Ethical Machines.” Our conversation focuses on the flaws in AI but also recognizes how it will change people’s lives in remarkable ways.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/03/18/politics/ai-chatgpt-racist-what-matters/index.html",
+      "originalUrl": "https://www.cnn.com/2023/03/18/politics/ai-chatgpt-racist-what-matters/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/230301111817-03-chatgpt-openai-stock-super-tease.jpeg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/03/18/politics/ai-chatgpt-racist-what-matters/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/03/18/politics/ai-chatgpt-racist-what-matters/index.html",
+      "publishedDateTime": "2023-03-18T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-18-heres-why-artificial-intelligence-fails-to-match-accuracy-of-human-vision.md",
+      "title": "Here's why Artificial Intelligence fails to match accuracy of human vision",
+      "excerpt": "While computers may be able to spot a familiar face or an oncoming vehicle faster than the human brain, their accuracy is questionable.",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/technology/here-s-why-artificial-intelligence-fails-to-match-accuracy-of-human-vision-123031800627_1.html",
+      "originalUrl": "https://www.business-standard.com/article/technology/here-s-why-artificial-intelligence-fails-to-match-accuracy-of-human-vision-123031800627_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-06/16/full/1655400066-6121.jpg",
+          "width": 620,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/technology/here-s-why-artificial-intelligence-fails-to-match-accuracy-of-human-vision-123031800627_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/here-s-why-artificial-intelligence-fails-to-match-accuracy-of-human-vision-123031800627_1.html",
+      "publishedDateTime": "2023-03-18T06:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-03-18-a-life-changing-phone-call-and-more-the-week-in-reporter-reads.md",
       "title": "A Life-Changing Phone Call and More: The Week in Reporter Reads",
       "excerpt": "She found recognition with “Dear Edward ... consider imposing a “major sanction” on the professor. His about-face prompted protests from free speech groups, which cited one of tenure ...",
@@ -1116,109 +1212,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-17-insights-into-the-2023-individual-artificial-intelligence-chips-market.md",
-      "title": "Insights into the 2023 Individual Artificial Intelligence Chips Market",
-      "excerpt": "Topmost manufacturers/ Key player/ Economy by Business Leaders Leading Players of Artificial Intelligence Chips Market Are: Artificial Intelligence Chips Market 2023 research is a key process that helps businesses gather and analyze information about their target Artificial Intelligence Chips market,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/insights-into-the-2023-individual-artificial-intelligence-chips-market-2023-03-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/insights-into-the-2023-individual-artificial-intelligence-chips-market-2023-03-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-17T05:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-17-we-need-to-make-machine-learning-sustainable-heres-how.md",
-      "title": "We Need To Make Machine Learning Sustainable. Here’s How",
-      "excerpt": "Moreover, large, intricate models based on complex architectures, such as those of deep learning, can be opaque and difficult to understand. This lack of transparency can have a two-fold effect. On the one hand, it can lead to mistrust and lack of adoption.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/esade/2023/03/17/we-need-to-make-machine-learning-sustainable-heres-how/",
-      "originalUrl": "https://www.forbes.com/sites/esade/2023/03/17/we-need-to-make-machine-learning-sustainable-heres-how/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64132abc2efe9ea45c018393/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 502,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/esade/2023/03/17/we-need-to-make-machine-learning-sustainable-heres-how/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/esade/2023/03/17/we-need-to-make-machine-learning-sustainable-heres-how/amp/",
-      "publishedDateTime": "2023-03-17T05:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

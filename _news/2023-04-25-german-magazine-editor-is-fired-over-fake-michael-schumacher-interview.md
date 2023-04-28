@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "German Magazine Editor Fired After Fake AI Interview With Formula One Racer"
-    excerpt: "Die Aktuelle ran a headline promising the first interview with Michael Schumacher since a 2013 accident, but the quotes attributed to Schumacher were produced by AI."
-    publishedDateTime: 2023-04-23T16:13:00Z
-    webUrl: "https://www.pcmag.com/news/german-magazine-editor-fired-after-fake-michael-schumacher-ai-interview"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 65
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/00AWAj8B566DggKwdiNsKlx-1.fit_lim.size_1200x630.v1682264705.png"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "German Magazine Editor Fired Over AI-Generated Interview"
     excerpt: "Editor-in-chief Anne Hoffmann was “relieved of her duties” after more than a decade at the helm of Die Aktuelle."
     publishedDateTime: 2023-04-24T00:50:00Z

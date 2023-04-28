@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-04-28-new-electric-car-offers-worlds-first-facial-recognition-and-fingerprint-technology.md",
+      "title": "New electric car offers world's first facial recognition and fingerprint technology",
+      "excerpt": "The world's first application of facial recognition technology has been unveiled, with one electric car removing the need for a key altogether.",
+      "sourceUrl": null,
+      "webUrl": "https://www.express.co.uk/life-style/cars/1763884/electric-car-facial-recognition-genesis",
+      "originalUrl": "https://www.express.co.uk/life-style/cars/1763884/electric-car-facial-recognition-genesis",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.images.express.co.uk/img/dynamic/24/590x/secondary/electric-car-facial-recognition-genesis-4718602.jpg?r=1682671687005",
+          "width": 590,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.express.co.uk/life-style/cars/1763884/electric-car-facial-recognition-genesis/amp",
+      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/cars/1763884/electric-car-facial-recognition-genesis/amp",
+      "publishedDateTime": "2023-04-28T01:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Express",
+        "domain": "express.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-28-the-amazing-ways-duolingo-is-using-ai-and-gpt-4.md",
       "title": "The Amazing Ways Duolingo Is Using AI And GPT-4",
       "excerpt": "Duolingo introduces GPT-4 on its language learning platform with AI used for personalized learning, automated feedback, and English testing. GPT-4 powered features provide a personalized and immersive experience.",
@@ -467,7 +510,7 @@
       "originalUrl": "https://venturebeat.com/security/tenable-report-shows-how-generative-ai-is-changing-security-research/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 246,
+      "heat": 236,
       "tags": null,
       "images": [
         {
@@ -829,7 +872,7 @@
       "originalUrl": "https://www.cnn.com/2023/04/27/tech/snapchat-my-ai-concerns-wellness/index.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 215,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -1086,7 +1129,7 @@
       "originalUrl": "https://www.techspot.com/news/98471-could-artificial-intelligence-about-take-over-job.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1230,48 +1273,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-how-erp-is-breaking-down-silos-and-driving-sustainable-change.md",
-      "title": "How ERP is breaking down silos and driving sustainable change",
-      "excerpt": "While many organizations have established environmental, social and governance (ESG) goals and made ESG commitments, driven by purpose and emerging regulatory requirements, they face several challenges when making the transition from ambition to action. A recent IBM study found that global executives",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/how-erp-is-breaking-down-silos-and-driving-sustainable-change/",
-      "originalUrl": "https://www.ibm.com/blog/how-erp-is-breaking-down-silos-and-driving-sustainable-change/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

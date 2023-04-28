@@ -26,22 +26,6 @@ images:
 
 related:
   - title: "MPs condemn Frasers Group’s use of facial recognition cameras in stores"
-    excerpt: "Exclusive: Cross-party collection of parliamentarians write letter to Sports Direct owner"
-    publishedDateTime: 2023-04-23T16:47:00Z
-    webUrl: "https://www.theguardian.com/business/2023/apr/23/mps-condemn-frasers-groups-use-of-facial-recognition-cameras-in-stores?ref=biztoc.com"
-    ampWebUrl: "https://amp.theguardian.com/business/2023/apr/23/mps-condemn-frasers-groups-use-of-facial-recognition-cameras-in-stores"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2023/apr/23/mps-condemn-frasers-groups-use-of-facial-recognition-cameras-in-stores"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 59
-    images:
-      - url: "https://i.guim.co.uk/img/media/4c14124c6135d5ccc6e785003a21fefdb05ecc79/0_83_3000_1800/master/3000.jpg?width=620&quality=85&auto=format&fit=max&s=ee459190323236390d1ef2e99f46c882"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "MPs condemn Frasers Group’s use of facial recognition cameras in stores"
     excerpt: "Exclusive: Cross-party collection of parliamentarians write letter to Sports Direct owner’s company"
     publishedDateTime: 2023-04-23T17:25:00Z
     webUrl: "https://www.theguardian.com/business/2023/apr/23/mps-condemn-frasers-groups-use-of-facial-recognition-cameras-in-stores"

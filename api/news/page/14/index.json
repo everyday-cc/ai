@@ -2,6 +2,101 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2023-04-17-asda-introduces-self-driving-delivery-vans-in-ai-first.md",
+      "title": "Asda introduces self driving delivery vans in AI first",
+      "excerpt": "Asda is launching the scheme in partnership with Wayve, a developer of artificial intelligence for self driving cars ... This trend appears here to stay, and bringing driverless vehicles into the fold could be the next step forward,” Myron Jobson ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cityam.com/asda-introduces-self-driving-vans-in-ai-first-for-the-supermarket-1/",
+      "originalUrl": "https://www.cityam.com/asda-introduces-self-driving-vans-in-ai-first-for-the-supermarket-1/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cityam.com/wp-content/uploads/2023/04/Asda-Wayve_003.jpeg",
+          "width": 1536,
+          "height": 1183,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cityam.com/asda-introduces-self-driving-vans-in-ai-first-for-the-supermarket-1/?amp=1",
+      "cdnAmpWebUrl": "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/asda-introduces-self-driving-vans-in-ai-first-for-the-supermarket-1/?amp=1",
+      "publishedDateTime": "2023-04-17T04:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "City A.M.",
+        "domain": "cityam.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-17-restaffing-the-self-driving-space-moving-past-traditional-recruitment.md",
+      "title": "Restaffing The Self-Driving Space: Moving Past Traditional Recruitment",
+      "excerpt": "Self-driving cars were science fiction a few years ago, but most technologically advanced nations now have autonomous automobiles—making this once-impossible fantasy a reality. Self-driving cars have conquered the automotive sector with significant ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/17/restaffing-the-self-driving-space-moving-past-traditional-recruitment/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/17/restaffing-the-self-driving-space-moving-past-traditional-recruitment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6109756bd03b841ec749f142/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 698,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/17/restaffing-the-self-driving-space-moving-past-traditional-recruitment/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/17/restaffing-the-self-driving-space-moving-past-traditional-recruitment/amp/",
+      "publishedDateTime": "2023-04-17T04:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-17-bull-of-the-day-baidu-bidu.md",
       "title": "Bull of the Day: Baidu (BIDU)",
       "excerpt": "Under the leadership of Robin Li, Baidu has orchestrated key government partnerships to utilize technology parks in Beijing and Shanghai for the development of autonomous driving. Now that ChatGPT ...",
@@ -1103,101 +1198,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-16-how-ai-and-chatgpt-can-crush-customer-service.md",
-      "title": "How AI And ChatGPT Can Crush Customer Service",
-      "excerpt": "Rather than agents spending time looking up answers, the AI ChatGPT platform is programmed to give them the information they need in the fastest possible time. In other words, it makes an agent’s life easier.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/shephyken/2023/04/16/how-ai-and-chatgpt-can-crush-customer-service/",
-      "originalUrl": "https://www.forbes.com/sites/shephyken/2023/04/16/how-ai-and-chatgpt-can-crush-customer-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 339,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64385b4765e1abf46213615f/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/shephyken/2023/04/16/how-ai-and-chatgpt-can-crush-customer-service/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shephyken/2023/04/16/how-ai-and-chatgpt-can-crush-customer-service/amp/",
-      "publishedDateTime": "2023-04-16T05:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-04-16-constitutional-recognition-through-an-indigenous-voice-to-parliament.md",
-      "title": "Constitutional Recognition through an Indigenous Voice to Parliament",
-      "excerpt": "An Indigenous Voice to Parliament is a proposal which has been met with a wide range of responses from Aboriginal and Torres Strait Islander people.",
-      "sourceUrl": null,
-      "webUrl": "https://www.abc.net.au/radio/programs/speakingout/referendum-voices/102220564",
-      "originalUrl": "https://www.abc.net.au/radio/programs/speakingout/referendum-voices/102220564",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://live-production.wcms.abc-cdn.net.au/e13a4d92ff42ecdd669dedef3ba2da5d?impolicy=wcms_crop_resize&cropH=720&cropW=1280&xPos=0&yPos=0&width=862&height=485",
-          "width": 862,
-          "height": 485,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-16T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Australian Broadcasting Corporation",
-        "domain": "abc.net.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

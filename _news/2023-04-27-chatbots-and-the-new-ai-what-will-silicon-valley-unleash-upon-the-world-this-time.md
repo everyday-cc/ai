@@ -43,6 +43,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "How to use ChatPDF: The AI chatbot that can tell you everything about your PDF"
+    excerpt: "Using ChatPDF to sum up a file and answer any questions about your PDF is free. However, if you'd like to exceed the free plan's limit of three uploads with a maximum of 120 pages a day, you can upgrade to a plus plan for $5 per month."
+    publishedDateTime: 2023-04-28T09:07:00Z
+    webUrl: "https://www.zdnet.com/article/how-to-use-chatpdf-the-ai-chatbot-that-can-tell-you-everything-about-your-pdf/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/how-to-use-chatpdf-the-ai-chatbot-that-can-tell-you-everything-about-your-pdf/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-use-chatpdf-the-ai-chatbot-that-can-tell-you-everything-about-your-pdf/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 83
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/eda38944d4f763de71c65c782194765d1e8d4d35/2023/04/27/86d20dd3-1606-46b4-ac54-42d40c36ee8d/gettyimages-1308477625.jpg?auto=webp&width=740"
+        width: 740
+        height: 554
+        isCached: true
   - title: "Snapchat sees spike in 1-star reviews as users pan the ‘My AI’ feature, calling for its removal"
     excerpt: "The user reviews for Snapchat’s “My AI” feature are in — and they’re not good. Launched last week to global users after initially being a subscriber-only addition, Snapchat’s new AI chatbot powered by OpenAI’s GPT technology is now pinned to the top of the app’s Chat tab where users can ask it questions and get"
     publishedDateTime: 2023-04-24T15:44:00Z

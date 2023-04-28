@@ -1,33 +1,29 @@
 ---
 category: news
 title: "Japanese manufacturing leader Musashi Seimitsu and Israeli AI innovation powerhouse SIXAI partner for global launch of Industry 4.0 solutions"
-excerpt: "Japanese manufacturing leader Musashi Seimitsu and Israeli AI innovation powerhouse SIXAI partner for global launch of Industry 4.0 solutions Apr 25,"
-publishedDateTime: 2023-04-25T08:45:00Z
-originalUrl: "https://www.marketwatch.com/press-release/japanese-manufacturing-leader-musashi-seimitsu-and-israeli-ai-innovation-powerhouse-sixai-partner-for-global-launch-of-industry-40-solutions-2023-04-25"
-webUrl: "https://www.marketwatch.com/press-release/japanese-manufacturing-leader-musashi-seimitsu-and-israeli-ai-innovation-powerhouse-sixai-partner-for-global-launch-of-industry-40-solutions-2023-04-25"
+excerpt: "Musashi Seimitsu and SIXAI partner to combine Japanese industrial experience and Israeli innovation. 634AI deploys its MAESTRO platform globally with one of the largest autonomous robot orders and Musashi AI launches global rollout of visual inspection robot for automakers."
+publishedDateTime: 2023-04-25T08:55:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/04/25/9800813.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/04/25/9800813.htm"
 type: article
-quality: 34
-heat: 34
+quality: 4
+heat: 4
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
+    width: 550
+    height: 353
     isCached: true
 
-secured: "hD5PIiDSOCQ8qldzp23lLqSHnKdjvCrrYyGHPKbK6WQmchJXvJb3C/MrT9ay9Bz+E3oOV6I6qA59N1vPiYp2DEBq69l1JoSLw7MSUmD5bZFu8L+VBCV4Jk7zQvJp9ICXwB08qbByzCrzxke8txbRfx7RE7J4lGTKzSNTyFVfvWa4vDrWmvOPn+bL2iTooYyydou9UMZ0ExnPapJaVptf7WfrRSOU1nbEnltWyC/VMxdPr09BlvGpJXud+VpVycWgxH8Pj+E6FqD0/TOvbXh3V7FEddcUjBZknU1YbRTBzEdT/DttpPo/k1KIHYdjxR17Vi1TJwDLoBrMPPX3617kOxrYIS5SVpMIkp/MGY7Onqo=;8J3ys5SK95qAG6oRuEZ0yg=="
+secured: "iPRrTVivj9ZrD0iRXk0oc6NIPuH4DR3qvf4LINV0XnBKMZqiwwxYOYoiQQ50ZAMJX4wyQ+8A0ISKx4u/3xz1I4A8Dc2zZt2lnaoK9m6V6xoxv1RIudfcIOIkf71Y84Am2ApBkPeMcV2HXO+HpLNeczjfJDuMixLLe4+9kQOBKlZXoqN7kOXrtOV3Uca1Ucym4Asa9O3OKYpu3HwXqb0KaJhWtX8WKD6lFevl5tH2kKHlATtO7wyItlfkJ/UExyVL9jrqprrkkkr5W+IMjYWoinyp5sFFZTz845uH4LTAPmlE672mXXEc0Kk1jXbRI09tsUCDdR5dkfArQdFrJU1RtSGbXjn94RUgDUoZ/pzxhI4=;xFZc5vrSL9FRwV0FOiPoXw=="
 ---
 

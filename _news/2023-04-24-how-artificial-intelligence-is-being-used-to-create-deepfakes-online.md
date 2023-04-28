@@ -58,6 +58,22 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Elon Musk's past statements about self-driving safety could feasibly be deepfakes, Tesla lawyers told court"
+    excerpt: "Tesla is facing a lawsuit over the death of an Apple engineer. The judge ordered Elon Musk to be interviewed under oath about his past statements."
+    publishedDateTime: 2023-04-27T12:35:00Z
+    webUrl: "https://www.businessinsider.com/tesla-lawyers-elon-musk-autopilot-safety-statements-could-be-deepfakes-2023-4"
+    ampWebUrl: "https://www.businessinsider.com/tesla-lawyers-elon-musk-autopilot-safety-statements-could-be-deepfakes-2023-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-lawyers-elon-musk-autopilot-safety-statements-could-be-deepfakes-2023-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 71
+    images:
+      - url: "https://i.insider.com/6432a2b13007470019fe3dee?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Grimes invites people to use her voice in AI songs"
     excerpt: "Canadian singer says she likes the ideas of ‘killing copyright’, as music industry scrambles to catch up with implications of AI-generated tracks"
     publishedDateTime: 2023-04-26T00:56:00Z

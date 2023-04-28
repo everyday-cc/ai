@@ -7,7 +7,7 @@ originalUrl: "https://www.thedailybeast.com/german-magazine-editor-anne-hoffmann
 webUrl: "https://www.thedailybeast.com/german-magazine-editor-anne-hoffmann-fired-over-ai-generated-michael-schumacher-interview"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "German Magazine Editor Fired After Fake AI Interview With Formula One Racer"
-    excerpt: "Die Aktuelle ran a headline promising the first interview with Michael Schumacher since a 2013 accident, but the quotes attributed to Schumacher were produced by AI."
-    publishedDateTime: 2023-04-23T16:13:00Z
-    webUrl: "https://www.pcmag.com/news/german-magazine-editor-fired-after-fake-michael-schumacher-ai-interview"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 65
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/00AWAj8B566DggKwdiNsKlx-1.fit_lim.size_1200x630.v1682264705.png"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "German Magazine Editor Is Fired Over Fake Michael Schumacher Interview"
     excerpt: "Die Aktuelle promoted an interview as the first with the retired Formula 1 driver since a 2013 accident. But artificial intelligence had generated the responses."
     publishedDateTime: 2023-04-24T17:45:00Z
