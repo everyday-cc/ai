@@ -58,6 +58,15 @@ related:
         width: 900
         height: 506
         isCached: true
+  - title: "PInecone, an NYC-based AI-related startup, has scored $100M in funding"
+    excerpt: "The excitement around artificial intelligence sparked by ChatGPT has led to booming business for a New York City startup and helped it raise a new $100 million funding round. Pinecone Systems Inc.'s database software,"
+    publishedDateTime: 2023-04-28T00:19:00Z
+    webUrl: "https://www.bizjournals.com/newyork/news/2023/04/27/ai-startup-with-bay-area-roots-scores-big-funding.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
   - title: "PInecone, an AI-related startup with Bay Area roots, has scored $100M in funding"
     excerpt: "But while it also has a hub in Tel Aviv, Israel, the startup retains strong ties to the Bay Area. A large portion of its team is in the San Francisco-San Jose region, as is Bob Wiederhold, its president,"
     publishedDateTime: 2023-04-27T16:28:00Z

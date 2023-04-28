@@ -143,6 +143,20 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
+  - title: "Special Series: How Generative AI Changes Everything"
+    excerpt: "ADI IGNATIUS: Join us for a new special series: How Generative AI Changes Everything. We’ll be talking to business leaders at the leading edge of this innovation as well as experts, who in some cases are questioning the ethics and speed of this rollout."
+    publishedDateTime: 2023-04-27T23:34:00Z
+    webUrl: "https://hbr.org/podcast/2023/04/special-series-how-generative-ai-changes-everything"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 39
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2020/09/wide-ideacast.png"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "HackerRank Research Finds Generative AI Changing How Developers Code--and How Companies Hire Developers"
     excerpt: "Gap Identified Between the AI Skills Needed and the Skills TestedMOUNTAIN VIEW, Calif., April 24, 2023 /PRNewswire/ -- HackerRank, the developer"
     publishedDateTime: 2023-04-24T14:40:00Z

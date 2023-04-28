@@ -296,6 +296,20 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "ChatGPT is the Most In-Demand Workplace Skill in Q1 2023"
+    excerpt: "Udemy (Nasdaq: UDMY), a company dedicated to improving lives through online learning, today released its Q1 2023 Workplace Learning Index, a quarterly report highlighting skills that are growing in demand among today’s professionals as they seek to keep pace with innovation and help support their company’s continued growth."
+    publishedDateTime: 2023-04-27T15:11:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/04/27/9803670.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 24
+    images:
+      - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
+        width: 550
+        height: 353
+        isCached: true
   - title: "Le Bonheur Children's Hospital fellow publishes journal article on chatbots written by ChatGPT"
     excerpt: "The use of chatbots and natural language processing technology, such as ChatGPT, has the potential to change the future of medical writing —with some caveats— says Som Biswas, MD, a Radiology fellow at Le Bonheur Children's Hospital and the University of Tennessee Health Science Center,"
     publishedDateTime: 2023-04-24T13:06:00Z

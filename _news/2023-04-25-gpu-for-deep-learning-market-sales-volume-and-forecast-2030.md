@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/gpu-for-deep-learning-ma
 webUrl: "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-sales-volume-and-forecast-2030-2023-04-25"
 type: article
 quality: 103
-heat: 163
+heat: 173
 published: true
 
 provider:
@@ -82,6 +82,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Deep Learning Market 2022 : Incredible Possibilities, Growth Analysis and Forecast To 2030"
+    excerpt: "The Deep Learning market document additionally mentions market share gathered by means of every product in the market, alongside with the manufacturing growth. The market Trend for Development and advertising channels are analyzed."
+    publishedDateTime: 2023-04-27T07:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2022-incredible-possibilities-growth-analysis-and-forecast-to-2030-2023-04-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

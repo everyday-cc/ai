@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/news/stocks/microsoft-stock-pric
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/microsoft-stock-price-chatgpt-investor-ai-cloud-azure-satya-nadella-2023-4?amp"
 type: article
 quality: 113
-heat: 533
+heat: 543
 published: true
 
 provider:
@@ -412,6 +412,20 @@ related:
       - url: "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/07a7b3af-aa2a-11e9-bc6a-93daea8853a2.png"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Here’s how Microsoft plans to reap billions from AI"
+    excerpt: "The company hopes steal search revenue from Google, help businesses build their own chatbots and AI tools, and incorporate AI-enhanced productivity tools across its product lineup."
+    publishedDateTime: 2023-04-28T01:36:00Z
+    webUrl: "https://www.reseller.co.nz/article/706864/here-how-microsoft-plans-reap-billions-from-ai/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 54
+    images:
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/promoted_content/promo/microsoft_dreamstime_7_2_1_2.jpg"
+        width: 505
+        height: 315
         isCached: true
   - title: "Microsoft earnings: AI hype could take backseat to cloud growth troubles"
     excerpt: "A busy day for corporate earnings on Tuesday will be highlighted by Microsoft's latest report, expected to offer new updates on the company's AI initiatives."
