@@ -2,6 +2,49 @@
   "page": 146,
   "value": [
     {
+      "path": "_news/2022-12-20-autonomy-is-not-a-good-reason-to-buy-nio-or-xpeng.md",
+      "title": "Autonomy Is Not A Good Reason To Buy NIO Or XPeng",
+      "excerpt": "Some seem to think NIO and XPeng are autonomy leaders. Read why I believe that isn't the case and rate the NIO and XPEV stocks a Sell.",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4565390-nio-or-xpeng-stock-autonomy-technology-not-good-reason-buy",
+      "originalUrl": "https://seekingalpha.com/article/4565390-nio-or-xpeng-stock-autonomy-technology-not-good-reason-buy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1392926948/image_1392926948.jpg?io=getty-c-w750",
+          "width": 750,
+          "height": 490,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-19T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-20-make-your-noisy-recording-sound-like-pro-audio-with-adobes-free-ai-tool.md",
       "title": "Make your noisy recording sound like pro audio with Adobe’s free AI tool",
       "excerpt": "Adobe released a free AI-powered audio processing tool that can enhance some poor-quality voice recordings by removing background noise and making the voice sound stronger. When it works, the result sounds like a recording made in a professional sound booth with a high-quality microphone.",
@@ -1142,40 +1185,6 @@
         "AI",
         "AI in Healthcare",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-12-19-the-risks-of-empowering-citizen-data-scientists.md",
-      "title": "The Risks of Empowering “Citizen Data Scientists”",
-      "excerpt": "It’s important to stress here that potentially two kinds of mentors are needed: one to solve for technical and business risks, the other to ensure compliance with the AI ethics or a Responsible ...",
-      "sourceUrl": null,
-      "webUrl": "https://hbr.org/2022/12/the-risks-of-empowering-citizen-data-scientists",
-      "originalUrl": "https://hbr.org/2022/12/the-risks-of-empowering-citizen-data-scientists",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-18T09:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Harvard Business Review",
-        "domain": "hbr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

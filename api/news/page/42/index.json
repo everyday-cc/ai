@@ -2,6 +2,41 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2023-03-20-d-wave-launches-new-hybrid-solver-plug-in-for-feature-selection-a-key-component-of-machine-learning.md",
+      "title": "D-Wave Launches New Hybrid Solver Plug-In for Feature Selection, A Key Component of Machine Learning",
+      "excerpt": "BURNABY, British Columbia — D-Wave Quantum Inc. (NYSE: QBTS), a leader in quantum computing systems, software, and services and the world’s ... quantum technology to streamline development of machine learning (ML) applications. D-Wave’s new hybrid ...",
+      "sourceUrl": null,
+      "webUrl": "https://financialpost.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/d-wave-launches-new-hybrid-solver-plug-in-for-feature-selection-a-key-component-of-machine-learning",
+      "originalUrl": "https://financialpost.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/d-wave-launches-new-hybrid-solver-plug-in-for-feature-selection-a-key-component-of-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-20T07:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Post",
+        "domain": "financialpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-03-20-the-future-of-ai-in-banking.md",
       "title": "The Future Of AI In Banking",
       "excerpt": "What are the obvious use cases for LLMs in banking, and what do banks need to consider before leveraging them?",
@@ -1125,58 +1160,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-19-nvidia-gtc-highlights-the-physical-side-of-ai-robotics.md",
-      "title": "Nvidia GTC Highlights The Physical Side Of AI - Robotics",
-      "excerpt": "For many consumers, AI is finally living up to long overdue expectations. The accomplishments of ChatGPT in a short period of time are phenomenal. But what is yet to come when AI is combined with robotics will change everything.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2023/03/19/nvidia-gtc-highlights-the-physical-side-of-airobotics/",
-      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2023/03/19/nvidia-gtc-highlights-the-physical-side-of-airobotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 429,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/641725b9faeb9e5fa976a1f0/0x0.jpg?format=jpg&width=1200",
-          "width": 951,
-          "height": 577,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2023/03/19/nvidia-gtc-highlights-the-physical-side-of-airobotics/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2023/03/19/nvidia-gtc-highlights-the-physical-side-of-airobotics/amp/",
-      "publishedDateTime": "2023-03-19T08:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

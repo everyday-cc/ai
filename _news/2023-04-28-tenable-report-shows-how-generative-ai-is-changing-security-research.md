@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/security/tenable-report-shows-how-generative
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/tenable-report-shows-how-generative-ai-is-changing-security-research/amp/"
 type: article
 quality: 106
-heat: 236
+heat: 246
 published: true
 
 provider:
@@ -148,6 +148,20 @@ related:
       - url: "https://hbr.org/resources/images/article_assets/2020/09/wide-ideacast.png"
         width: 1200
         height: 675
+        isCached: true
+  - title: "We must rein in the precocious Generative AI children. But how?"
+    excerpt: "More than a thousand people, including Elon Musk, Yoshua Bengio, Stuart Russel, Gary Marcus and Andrew Yang, called for a six-month moratorium on training systems that are “more powerful than GPT-4”, arguing that such systems should be developed only when the world believes it can contain the risks ."
+    publishedDateTime: 2023-04-28T03:02:00Z
+    webUrl: "https://www.livemint.com/mint-top-newsletter/techtalk28042023.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 39
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/04/26/original/Picture3_1682515135532.jpg"
+        width: 504
+        height: 500
         isCached: true
   - title: "Growth of generative AI is leading to change moment for DevOps"
     excerpt: "The role of data in DevOps is changing, facilitated by the introduction of powerful new generative artificial intelligence engines such as ChatGPT. The success of DevOps in modern, cloud-native environments has given rise to platform engineering,"

@@ -157,6 +157,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "We must rein in the precocious Generative AI children. But how?"
+    excerpt: "More than a thousand people, including Elon Musk, Yoshua Bengio, Stuart Russel, Gary Marcus and Andrew Yang, called for a six-month moratorium on training systems that are “more powerful than GPT-4”, arguing that such systems should be developed only when the world believes it can contain the risks ."
+    publishedDateTime: 2023-04-28T03:02:00Z
+    webUrl: "https://www.livemint.com/mint-top-newsletter/techtalk28042023.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 39
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/04/26/original/Picture3_1682515135532.jpg"
+        width: 504
+        height: 500
+        isCached: true
   - title: "HackerRank Research Finds Generative AI Changing How Developers Code--and How Companies Hire Developers"
     excerpt: "Gap Identified Between the AI Skills Needed and the Skills TestedMOUNTAIN VIEW, Calif., April 24, 2023 /PRNewswire/ -- HackerRank, the developer"
     publishedDateTime: 2023-04-24T14:40:00Z

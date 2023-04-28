@@ -2,6 +2,49 @@
   "page": 66,
   "value": [
     {
+      "path": "_news/2023-02-28-elon-musk-and-former-google-employee-may-join-forces-to-take-on-openais-chatgpt.md",
+      "title": "Elon Musk and former Google employee may join forces to take on OpenAI's ChatGPT",
+      "excerpt": "The Information reported that Musk has been in talks with Babuschkin, who recently left Alphabet's DeepMind AI unit, to form a new research lab. Elon Musk is looking for AI researchers to build a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesstoday.in/technology/news/story/elon-musk-and-former-google-employee-may-join-forces-to-take-on-openais-chatgpt-371677-2023-02-28",
+      "originalUrl": "https://www.businesstoday.in/technology/news/story/elon-musk-and-former-google-employee-may-join-forces-to-take-on-openais-chatgpt-371677-2023-02-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202302/elon-11-sixteen_nine.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businesstoday.in/amp/technology/news/story/elon-musk-and-former-google-employee-may-join-forces-to-take-on-openais-chatgpt-371677-2023-02-28",
+      "cdnAmpWebUrl": "https://www-businesstoday-in.cdn.ampproject.org/c/s/www.businesstoday.in/amp/technology/news/story/elon-musk-and-former-google-employee-may-join-forces-to-take-on-openais-chatgpt-371677-2023-02-28",
+      "publishedDateTime": "2023-02-28T01:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Today",
+        "domain": "businesstoday.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-28-kt-showcases-self-driving-delivery-robot-at-mwc.md",
       "title": "KT showcases self-driving delivery robot at MWC",
       "excerpt": "Chey Tae-won, chairman of SK Group, said in Barcelona, Monday (local time) that he will work on nurturing Korea's artificial intelligence (AI) industry ecosystem, saying the",
@@ -1103,40 +1146,6 @@
         "AI",
         "AI in Healthcare",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-02-28-ai-in-computer-vision-market-worth-457-billion-by-2028-exclusive-report-by-marketsandmarkets.md",
-      "title": "AI In Computer Vision Market worth $45.7 billion by 2028 - Exclusive Report by MarketsandMarkets™",
-      "excerpt": "The global AI in computer vision market is expected to be valued at USD 17.2 billion in 2023 and is projected to reach USD 45.7 billion by 2028; it is expected to grow at a CAGR of 21.5% from 2023 to 2028 according to a new report by MarketsandMarkets™.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-ai-computer-vision-market-worth-457-billion-2028-/2023/02/27/9767024.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-ai-computer-vision-market-worth-457-billion-2028-/2023/02/27/9767024.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-27T10:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

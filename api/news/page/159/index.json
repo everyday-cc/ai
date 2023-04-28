@@ -2,6 +2,49 @@
   "page": 159,
   "value": [
     {
+      "path": "_news/2022-12-09-brain-vitamin-d-tied-to-cognitive-function.md",
+      "title": "Brain Vitamin D Tied to Cognitive Function",
+      "excerpt": "Opens in a new tab or window Vitamin D levels in post-mortem brain tissue were linked with cognitive function, an autopsy study showed. Higher concentrations of 25(OH)D 3-- the main form of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medpagetoday.com/neurology/dementia/102152",
+      "originalUrl": "https://www.medpagetoday.com/neurology/dementia/102152",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.medpagetoday.net/media/images/102xxx/102152.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-08T14:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MedPage Today",
+        "domain": "medpagetoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-09-mysterious-object-found-on-florida-beach-is-likely-a-shipwreck-from-the-1800s-archeologists-say.md",
       "title": "Mysterious Object Found on Florida Beach Is Likely a Shipwreck from the 1800s, Archeologists Say",
       "excerpt": "Beachgoers came across the enormous object — which is believed to be 80 and 100 feet in length — on Daytona Beach Shores over Thanksgiving weekend, according to the Associated Press.",
@@ -1080,40 +1123,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-09-ai21-jurassic-1-foundation-model-now-available-on-amazon-sagemaker.md",
-      "title": "AI21 Jurassic-1 Foundation Model Now Available on Amazon SageMaker",
-      "excerpt": "AI21 Labs, an Israeli startup aiming to fundamentally change the way people read and write using Generative AI, announced today that its Jurassic-1 Foundation Model used to power chatbots, answer questions,",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2022/12/08/9727397.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2022/12/08/9727397.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-08T08:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

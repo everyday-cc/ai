@@ -2,6 +2,48 @@
   "page": 97,
   "value": [
     {
+      "path": "_news/2023-02-06-artificial-intelligence-software-market-size-2023-expected-to-deliver-dynamic-progression-until-2028.md",
+      "title": "Artificial Intelligence Software Market Size 2023 : Expected To Deliver Dynamic Progression Until 2028",
+      "excerpt": "Feb 06, 2023 (The Expresswire) -- Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and COVID-19...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-software-market-size-2023-expected-to-deliver-dynamic-progression-until-2028-2023-02-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-software-market-size-2023-expected-to-deliver-dynamic-progression-until-2028-2023-02-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T03:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-06-goa-using-self-driving-robot-ai-powered-monitoring-system-as-lifeguards-on-its-beaches.md",
       "title": "Goa Using Self-Driving Robot, AI-Powered Monitoring System as Lifeguards on Its Beaches",
       "excerpt": "Both the AI-monitored camera-based systems can monitor the surroundings, assess and detect risks, share real-time information with on-duty lifeguards so they may respond faster to avoid tragic incidents.",
@@ -894,39 +936,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-moonstake-partners-with-humansai-to-help-advance-artificial-intelligence-on-the-blockchain-and-support-the-ai-startups-expansion-in-asia.md",
-      "title": "Moonstake Partners with Humans.ai to Help Advance Artificial Intelligence on the Blockchain and Support the AI Startup's Expansion in Asia",
-      "excerpt": "SINGAPORE, Feb 6, 2023 - (ACN Newswire) - Moonstake, a leading provider of staking services for blockchain networks, partners with Humans.ai, AI and blockchain startup focused on harnessing the power of artificial intelligence in an ethical...",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/moonstake-partners-humansai-help-advance-artificial-intelligence-blockchain-and-support-ai",
-      "originalUrl": "https://www.asiaone.com/business/moonstake-partners-humansai-help-advance-artificial-intelligence-blockchain-and-support-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T02:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

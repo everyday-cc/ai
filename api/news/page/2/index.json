@@ -105,7 +105,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-in-retail-market-size-business-segments-innovative-strategies-and-outlook-by-2030-ibm-microsoft-amazon-web-services-2023-04-27",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 85,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -630,6 +630,58 @@
       ]
     },
     {
+      "path": "_news/2023-04-27-muslims-come-into-the-frame-in-southeast-asias-fintech-boom.md",
+      "title": "Muslims come into the frame in Southeast Asia’s fintech boom",
+      "excerpt": "who was a corporate lawyer before she became a shariah fintech specialist. Right now, when an instrument comes from a conventional financial institution, PayHalal feeds it into its AI-based non-shariah compliance screening tool. The tool then suggests ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/04/27/muslims-come-into-the-frame-in-southeast-asias-fintech-boom/",
+      "originalUrl": "https://techcrunch.com/2023/04/27/muslims-come-into-the-frame-in-southeast-asias-fintech-boom/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/04/sea-money-map.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/04/27/muslims-come-into-the-frame-in-southeast-asias-fintech-boom/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/04/27/muslims-come-into-the-frame-in-southeast-asias-fintech-boom/amp/",
+      "publishedDateTime": "2023-04-26T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-27-deloitte-looks-to-bring-ai-to-the-frontline-with-a-little-help-from-nvidia.md",
       "title": "Deloitte looks to bring AI to the frontline with a little help from Nvidia",
       "excerpt": "With help from Nvidia, Deloitte is rolling out new AI capabilities to enhance logistics, supply chain and customer care deployments.",
@@ -1147,7 +1199,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chips-market-set-to-boom-in-the-near-future-2023-2030-2023-04-26",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -1164,58 +1216,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-04-26T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-26-ai-accelerator-chip-market-demand-by-2030.md",
-      "title": "AI Accelerator Chip Market Demand by 2030",
-      "excerpt": "The latest market research report on the Global \"AI Accelerator Chip Market\" is segmented by Regions, Country, Company",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-accelerator-chip-market-demand-by-2030-2023-04-26",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-accelerator-chip-market-demand-by-2030-2023-04-26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-26T05:13:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",

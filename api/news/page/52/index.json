@@ -2,6 +2,49 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2023-03-13-dvt-hosts-webinar-on-ai-accessibility.md",
+      "title": "DVT hosts webinar on AI, accessibility",
+      "excerpt": "Preddy discussed the use of AI and demonstrated how to use Microsoft’s Azure OpenAI and GPT-3 to scan websites for accessibility issues. Preddy explains that AI can be viewed as either a threat or an opportunity for humanity. He believes in the latter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/lwrKxv3YAgbMmg1o",
+      "originalUrl": "https://www.itweb.co.za/content/lwrKxv3YAgbMmg1o",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.itweb.co.za/static/pictures/2023/03/Rory-Preddy-13March2023.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itweb.co.za/amp/content/lwrKxv3YAgbMmg1o",
+      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/lwrKxv3YAgbMmg1o",
+      "publishedDateTime": "2023-03-12T23:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-13-cloud-wars-azure-vs-aws-vs-gcp.md",
       "title": "Cloud Wars: Azure vs AWS vs GCP",
       "excerpt": "Azure vs AWS vs GCP\" blog post, we compared three of the most popular cloud providers: Azure, AWS, and GCP. We discussed their performance, pricing, and security features. All three cloud providers offer fast processing speeds and low latency,",
@@ -1112,49 +1155,6 @@
         "Natural Language Processing",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-11-ai-is-already-an-ingredient-in-many-kitchens.md",
-      "title": "AI is already an ingredient in many kitchens",
-      "excerpt": "Whether we like it or not, artificial intelligence is the buzzword of the moment and could even be leading to a new digital revolution.",
-      "sourceUrl": null,
-      "webUrl": "https://www.astroawani.com/berita-dunia/ai-already-ingredient-many-kitchens-409716",
-      "originalUrl": "https://www.astroawani.com/berita-dunia/ai-already-ingredient-many-kitchens-409716",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.astroawani.com/2023-03/81678193523_Robot.jpg",
-          "width": 590,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.astroawani.com/berita-dunia/ai-already-ingredient-many-kitchens-409716?amp=1",
-      "cdnAmpWebUrl": "https://www-astroawani-com.cdn.ampproject.org/c/s/www.astroawani.com/berita-dunia/ai-already-ingredient-many-kitchens-409716?amp=1",
-      "publishedDateTime": "2023-03-10T16:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Astro Awani",
-        "domain": "astroawani.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

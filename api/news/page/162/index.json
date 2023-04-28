@@ -2,6 +2,58 @@
   "page": 162,
   "value": [
     {
+      "path": "_news/2022-12-08-this-robotics-technology-market-research-report-factors-limiting-the-market-growth.md",
+      "title": "THIS Robotics Technology MARKET RESEARCH REPORT: Factors limiting the market growth.",
+      "excerpt": "Robotics technology is a branch of engineering that deals with the design, construction, operation, and control",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/this-robotics-technology-market-research-report-factors-limiting-the-market-growth-2022-12-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/this-robotics-technology-market-research-report-factors-limiting-the-market-growth-2022-12-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-07T08:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-08-howie-mandel-gets-a-digital-twin-from-deepbrain-ai.md",
       "title": "Howie Mandel gets a digital twin from DeepBrain AI",
       "excerpt": "Howie Mandel is stepping into the metaverse. DeepBrain AI has created a pretty realistic AI version of comedian and actor Mandel.",
@@ -1093,49 +1145,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-07-tata-tele-business-services-to-offer-microsoft-azure-to-smbs.md",
-      "title": "Tata Tele Business Services to offer Microsoft Azure to SMBs",
-      "excerpt": "Microsoft Azure offers essential compute, storage and networking resources on demand, on a pay-as-you-go-basis including services like On-Prem to Azure Migration, Microsoft Azure Managed Services, Public Cloud to Azure Migration,",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/industry/telecom/telecom-news/tata-tele-business-services-to-offer-microsoft-azure-to-smbs/articleshow/96054290.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/industry/telecom/telecom-news/tata-tele-business-services-to-offer-microsoft-azure-to-smbs/articleshow/96054290.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-17964,msid-96054347/tata-tele-business-services.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/industry/telecom/telecom-news/tata-tele-business-services-to-offer-microsoft-azure-to-smbs/amp_articleshow/96054290.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/telecom/telecom-news/tata-tele-business-services-to-offer-microsoft-azure-to-smbs/amp_articleshow/96054290.cms",
-      "publishedDateTime": "2022-12-07T01:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }
