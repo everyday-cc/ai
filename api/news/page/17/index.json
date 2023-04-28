@@ -2,6 +2,101 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2023-04-13-artificial-intelligence-in-health-care-new-product-acts-as-copilot-for-doctors.md",
+      "title": "Artificial intelligence in health care: New product acts as 'copilot for doctors'",
+      "excerpt": "Washington, D.C. – America’s medical community appears to be embracing artificial intelligence products in an effort to speed up patient care and prevent burnout among health care professionals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/health/artificial-intelligence-health-care-new-product-acts-copilot-doctors",
+      "originalUrl": "https://www.foxnews.com/health/artificial-intelligence-health-care-new-product-acts-copilot-doctors",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/10/340/340/Meredith_Mark_OFFICIAL.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/health/artificial-intelligence-health-care-new-product-acts-copilot-doctors.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/artificial-intelligence-health-care-new-product-acts-copilot-doctors.amp",
+      "publishedDateTime": "2023-04-13T07:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-13-sophisticated-ai-robot-speaks-several-languages-in-disturbing-footage.md",
+      "title": "Sophisticated AI robot speaks several languages in disturbing footage",
+      "excerpt": "Disturbing footage shows a highly-advanced AI robot speaking several languages. Ameca is a robot developed by UK startup Engineered Arts, who describe the robot as the “world’s most advanced ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/sophisticated-ai-robot-speaks-several-054650924.html",
+      "originalUrl": "https://www.aol.com/sophisticated-ai-robot-speaks-several-054650924.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.zenfs.com/en/aol_the_independent_uk_548/b54fd902279682f3aebe46b948550b8f",
+          "width": 1200,
+          "height": 677,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-13T07:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-13-natural-language-processing-nlp-market-2023-2029global-report-forecast.md",
       "title": "Natural Language Processing (NLP) Market 2023-2029|Global Report Forecast",
       "excerpt": "Natural Language Processing (NLP) Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information",
@@ -1037,92 +1132,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-12-siemens-and-microsoft-drive-industrial-productivity-with-generative-artificial-intelligence.md",
-      "title": "Siemens and Microsoft Drive Industrial Productivity with Generative Artificial Intelligence",
-      "excerpt": "Siemens’ new Teamcenter app for Microsoft Teams will use AI, boosting productivity and innovation throughout a product lifecycle.",
-      "sourceUrl": null,
-      "webUrl": "https://www.automation.com/en-us/articles/april-2023/siemens-microsoft-drive-industrial-productivity-ai",
-      "originalUrl": "https://www.automation.com/en-us/articles/april-2023/siemens-microsoft-drive-industrial-productivity-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.automation.com/getmedia/fee1f616-d082-4142-8ab5-acad3d9c662c/Siemens_news_April_12_2023_500x313-web.jpg?width=500&height=313&ext=.jpg",
-          "width": 500,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-12T09:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automation",
-        "domain": "automation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-12-how-games24x7-transformed-their-retraining-mlops-pipelines-with-amazon-sagemaker.md",
-      "title": "How Games24x7 transformed their retraining MLOps pipelines with Amazon SageMaker",
-      "excerpt": "This is a guest blog post co-written with Hussain Jagirdar from Games24x7. Games24x7 is one of India’s most valuable multi-game platforms and entertains over 100 million gamers across various skill games. With “Science of Gaming” as their core philosophy, they have enabled a vision of end-to-end informatics",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-games24x7-transformed-their-retraining-mlops-pipelines-with-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-games24x7-transformed-their-retraining-mlops-pipelines-with-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-12T09:03:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

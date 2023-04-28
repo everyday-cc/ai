@@ -2,6 +2,110 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2023-04-14-amazons-aws-business-faces-short-term-headwinds-with-companies-cautious-on-spending.md",
+      "title": "Amazon’s AWS business faces short-term headwinds with companies cautious on spending",
+      "excerpt": "Amazon CEO Andy Jassy outlines progress in transforming fulfillment centers to a regional network, continued ambitions in grocery and hopes for",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/amazon-says-aws-business-facing-short-term-headwinds-as-companies-are-cautious-on-spending-7ecf061c",
+      "originalUrl": "https://www.marketwatch.com/story/amazon-says-aws-business-facing-short-term-headwinds-as-companies-are-cautious-on-spending-7ecf061c",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-762849/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/amazon-says-aws-business-facing-short-term-headwinds-as-companies-are-cautious-on-spending-7ecf061c",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/amazon-says-aws-business-facing-short-term-headwinds-as-companies-are-cautious-on-spending-7ecf061c",
+      "publishedDateTime": "2023-04-14T05:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-14-the-best-movies-on-amazon-prime-video-april-2023.md",
+      "title": "The best movies on Amazon Prime Video (April 2023)",
+      "excerpt": "If Amazon Prime Video ever had to rely solely on its original films, it might not be among the streaming giants. Amazon’s MGM library is robust, but Prime Video’s selections can range from ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/movies/best-movies-on-amazon-prime/",
+      "originalUrl": "https://www.digitaltrends.com/movies/best-movies-on-amazon-prime/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/06/Ticket-To-Paradise-Movie.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/movies/best-movies-on-amazon-prime/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/best-movies-on-amazon-prime/?amp",
+      "publishedDateTime": "2023-04-14T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-14-revolutionizing-the-consumer-goods-industry-with-integrated-business-planning.md",
       "title": "Revolutionizing the consumer goods industry with integrated business planning",
       "excerpt": "Learn how Al Rabie Saudi Foods Co. Ltd adopted an integrated business planning analytics approach to streamline their planning and budgeting processes.\nThe post Revolutionizing the consumer goods industry with integrated business planning appeared first on IBM Blog.\n",
@@ -252,19 +356,19 @@
     {
       "path": "_news/2023-04-14-timekettle-ai-language-translator-device-redefines-intercultural-communication.md",
       "title": "Timekettle AI Language Translator Device Redefines Intercultural Communication",
-      "excerpt": "SHENZHEN, China, April 14, 2023 /PRNewswire/ -- The 67th Session of the Commission on the Status of Women (CSW67), was recently held at the United Nations headquarters in New York, USA. The global ...",
+      "excerpt": "Language communication has always been an indispensable link in the journey of cross-cultural communication. As a leading translation tech company, Timekettle has a mission to \"break down language ...",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/timekettle-ai-language-translator-device-redefines-intercultural-communication-1032232113",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/timekettle-ai-language-translator-device-redefines-intercultural-communication-1032232113",
+      "webUrl": "https://www.news-journal.com/timekettle-ai-language-translator-device-redefines-intercultural-communication/article_b3819467-20de-5b86-8876-223cc8bd1b7b.html",
+      "originalUrl": "https://www.news-journal.com/timekettle-ai-language-translator-device-redefines-intercultural-communication/article_b3819467-20de-5b86-8876-223cc8bd1b7b.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/2054084/Timekettle_Fluentalk_T1_Provides_Real_Time_Translation_Services_Cross_cultural_Exchange_Event.jpg",
-          "width": 400,
-          "height": 225,
+          "url": "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/d/bd/dbdd0081-782c-5ff1-86fa-a8544ad1c59d/64390b906b893.image.jpg?crop=1268%2C666%2C0%2C24&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -274,21 +378,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-14T01:48:00-07:00",
+      "publishedDateTime": "2023-04-14T01:43:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Longview News-Journal",
+        "domain": "news-journal.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1074,101 +1169,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-13-artificial-intelligence-in-health-care-new-product-acts-as-copilot-for-doctors.md",
-      "title": "Artificial intelligence in health care: New product acts as 'copilot for doctors'",
-      "excerpt": "Washington, D.C. – America’s medical community appears to be embracing artificial intelligence products in an effort to speed up patient care and prevent burnout among health care professionals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/health/artificial-intelligence-health-care-new-product-acts-copilot-doctors",
-      "originalUrl": "https://www.foxnews.com/health/artificial-intelligence-health-care-new-product-acts-copilot-doctors",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/10/340/340/Meredith_Mark_OFFICIAL.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/health/artificial-intelligence-health-care-new-product-acts-copilot-doctors.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/artificial-intelligence-health-care-new-product-acts-copilot-doctors.amp",
-      "publishedDateTime": "2023-04-13T07:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-13-sophisticated-ai-robot-speaks-several-languages-in-disturbing-footage.md",
-      "title": "Sophisticated AI robot speaks several languages in disturbing footage",
-      "excerpt": "Disturbing footage shows a highly-advanced AI robot speaking several languages. Ameca is a robot developed by UK startup Engineered Arts, who describe the robot as the “world’s most advanced ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/sophisticated-ai-robot-speaks-several-054650924.html",
-      "originalUrl": "https://www.aol.com/sophisticated-ai-robot-speaks-several-054650924.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.zenfs.com/en/aol_the_independent_uk_548/b54fd902279682f3aebe46b948550b8f",
-          "width": 1200,
-          "height": 677,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-13T07:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-03-27-turing-launches-ai-powered-services-to-form-engineering-dream-teams.md",
+      "title": "Turing launches AI-powered services to form engineering dream teams",
+      "excerpt": "Turing’s Talent Cloud uses AI to eliminate the arduous task of matching highly qualified ... GCP, BigQuery, Node, React, Azure and Python. Turing designs its services using a distributed application framework and the microservices architecture to scale ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/turing-launches-ai-powered-services-to-form-engineering-dream-teams/",
+      "originalUrl": "https://venturebeat.com/ai/turing-launches-ai-powered-services-to-form-engineering-dream-teams/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-1168836247-e1664214930793.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/turing-launches-ai-powered-services-to-form-engineering-dream-teams/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/turing-launches-ai-powered-services-to-form-engineering-dream-teams/amp/",
+      "publishedDateTime": "2023-03-27T09:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-27-education-might-not-save-you-from-cognitive-decline-new-study.md",
       "title": "Education might not save you from cognitive decline – new study",
       "excerpt": "Giovanni Sala receives funding from the University of Liverpool. Take a look at any list of risk factors for cognitive decline and you’re bound to find “education” among them. The received ...",
@@ -1405,58 +1457,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-18-microsoft-has-significant-monetization-opportunity-from-ai-driven-productivity-analysts.md",
-      "title": "Microsoft Has Significant Monetization Opportunity From AI-driven Productivity: Analysts",
-      "excerpt": "Mizuho analyst Gregg Moskowitz maintains Microsoft Corp (NASDAQ:MSFT) with a Buy and raises the price target from $300 to $315. On March 16, MSFT announced Microsoft 365 Copilot, a generative AI tool combining large language models (LLMs) with data resident in Microsoft Graph and Microsoft 365 apps.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/microsoft-has-significant-monetization-opportunity-from-ai-driven-productivity-analysts-1032176553",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/microsoft-has-significant-monetization-opportunity-from-ai-driven-productivity-analysts-1032176553",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/03/17/microsoft_buildings_eu.jpg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-17T11:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/news/stocks/microsoft-stock-pric
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/microsoft-stock-price-chatgpt-investor-ai-cloud-azure-satya-nadella-2023-4?amp"
 type: article
 quality: 113
-heat: 523
+heat: 533
 published: true
 
 provider:
@@ -171,6 +171,20 @@ related:
       - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/Microsoft._Photo_by_Volodymyr_Kyrylyuk_on_Shutterstock_5.jpeg"
         width: 1024
         height: 768
+        isCached: true
+  - title: "Microsoft Designer brings AI-powered graphic design to the masses"
+    excerpt: "The tech giant also announced some new features for the Designer app, which will be built into the Edge browser."
+    publishedDateTime: 2023-04-27T16:00:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-designer-brings-ai-powered-graphic-design-to-the-masses/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 84
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/50fd6a1cfe31ec9d10ff4615b524de8913ec7a29/2023/04/26/24e69b8f-a2d3-4f03-aa7c-d99abbf56d43/zdnetdesigner.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Meta, Alphabet and Microsoft Are Ready to Spend Big on AI, Despite Cost Cuts"
     excerpt: "It’s a time of austerity for Big Tech — quite the conundrum for companies expected to remain at the forefront of innovation. And from this tension between investing in the future and counting pennies, a new battle of man versus machine has emerged. The AI arms race is on, and it’s being funded by the dollars saved through firing employees."

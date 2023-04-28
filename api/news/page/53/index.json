@@ -2,6 +2,100 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2023-03-11-how-ai-can-ease-those-data-management-woes.md",
+      "title": "How AI can ease those data management woes",
+      "excerpt": "Initially, managing the data lifecycle was a task small enough to be handled manually by a team of experts. The volume of information was not that much, the sources were just a handful and the possible applications were also limited.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/data-infrastructure/how-ai-can-ease-data-management-woes/",
+      "originalUrl": "https://venturebeat.com/data-infrastructure/how-ai-can-ease-data-management-woes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1206801125-ipopba.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 608,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/data-infrastructure/how-ai-can-ease-data-management-woes/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/how-ai-can-ease-data-management-woes/amp/",
+      "publishedDateTime": "2023-03-10T10:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-11-global-mobile-speech-recognition-software-market-to-reach-9408-million-by-2030.md",
+      "title": "Global Mobile Speech Recognition Software Market To Reach $940.8 Million By 2030",
+      "excerpt": "ReportLinker is an award-winning market research solution. Reportlinker finds and organizes the latest industry data so you get all the market research you need - instantly, in one place.",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1105751298/Global-Mobile-Speech-Recognition-Software-Market-To-Reach-9408-Million-By-2030",
+      "originalUrl": "https://menafn.com/1105751298/Global-Mobile-Speech-Recognition-Software-Market-To-Reach-9408-Million-By-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?961031",
+          "width": 374,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-10T10:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-10-real-time-fraud-detection-using-aws-serverless-and-machine-learning-services.md",
       "title": "Real-time fraud detection using AWS serverless and machine learning services",
       "excerpt": "Online fraud has a widespread impact on businesses and requires an effective end-to-end strategy to detect and prevent new account fraud and account takeovers, and stop suspicious payment transactions. In this post, we show a serverless approach to detect online transaction fraud in near-real time. We",
@@ -1084,111 +1178,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-10-machine-learning-operations-mlops-market-is-booming-in-upcoming-industry-trends-2023-2027.md",
-      "title": "Machine Learning Operations (MLOps) Market is booming in Upcoming Industry Trends, 2023-2027",
-      "excerpt": "Machine Learning Operations (MLOps) Market” Size 2023 Top Key players Profiled in the Report are (Microsoft , Amazon",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-operations-mlops-market-is-booming-in-upcoming-industry-trends-2023-2027-2023-03-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-operations-mlops-market-is-booming-in-upcoming-industry-trends-2023-2027-2023-03-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-09T19:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-10-artificial-intelligence-ai-in-education-market-size-drivers-update-and-featuring-outlook-2029.md",
-      "title": "Artificial Intelligence (AI) in Education Market Size, Drivers Update and Featuring Outlook 2029",
-      "excerpt": "Artificial Intelligence (AI) in Education Marketinformation for each competitor includes (, ALEKS, Microsoft, AWS,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-size-drivers-update-and-featuring-outlook-2029-2023-03-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-size-drivers-update-and-featuring-outlook-2029-2023-03-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-09T19:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Education"
       ]
     }
   ],

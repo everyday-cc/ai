@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxbusiness.com/technology/ai-disrupt-construction-indus
 cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/ai-disrupt-construction-industry.amp"
 type: article
 quality: 57
-heat: 67
+heat: 69
 published: false
 
 provider:

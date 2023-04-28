@@ -2,6 +2,91 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2023-03-14-while-svb-takeover-saves-ai-startups-big-tech-continues-ai-power-consolidation-the-ai-beat.md",
+      "title": "While SVB takeover saves AI startups, Big Tech continues AI power consolidation | The AI Beat",
+      "excerpt": "He also pointed out that he was seeing “the best of the AI and startup world,” with “people helping each other, sharing tips and even wiring funds on trust and without docs so someone else ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/fed-svb-takeover-saves-ai-startups-while-big-tech-prepares-new-ai-power-plays-the-ai-beat/",
+      "originalUrl": "https://venturebeat.com/ai/fed-svb-takeover-saves-ai-startups-while-big-tech-prepares-new-ai-power-plays-the-ai-beat/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/03/Untitled-design-24.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/fed-svb-takeover-saves-ai-startups-while-big-tech-prepares-new-ai-power-plays-the-ai-beat/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/fed-svb-takeover-saves-ai-startups-while-big-tech-prepares-new-ai-power-plays-the-ai-beat/amp/",
+      "publishedDateTime": "2023-03-13T13:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-14-from-podcasts-to-ai-how-technology-can-help-stop-problem-gambling.md",
+      "title": "From podcasts to AI: How technology can help stop problem gambling",
+      "excerpt": "To combat gambling addiction, AI can act as a friend who might tap someone on the shoulder at a casino and ask if they need a break.",
+      "sourceUrl": null,
+      "webUrl": "https://www.10news.com/news/national/from-podcasts-to-ai-how-technology-can-help-stop-problem-gambling",
+      "originalUrl": "https://www.10news.com/news/national/from-podcasts-to-ai-how-technology-can-help-stop-problem-gambling",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-13T10:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC 10 News",
+        "domain": "10news.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-14-joe-pescis-oscars-acceptance-speech-is-still-the-best-of-all-time.md",
       "title": "Joe Pesci’s Oscars acceptance speech is still the best of all time",
       "excerpt": "He fought his way to the top of a crowded Best Supporting Actor field in 1991, beating out the likes of Al Pacino and Andy Garcia to win industry recognition for his new ... you” became the greatest acceptance speech in Oscars history.",
@@ -1102,101 +1187,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-13-ai-is-about-to-remake-the-pharmaceutical-industry.md",
-      "title": "AI is about to remake the pharmaceutical industry",
-      "excerpt": "For years, billions of dollars have been poured into bringing AI into the drug development process. Finally, it seems the cash might be paying off. Medicines designed by AI for conditions including lymph cancers,",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.eu/article/ai-is-about-to-remake-the-pharmaceutical-drug-medicines-industry/",
-      "originalUrl": "https://www.politico.eu/article/ai-is-about-to-remake-the-pharmaceutical-drug-medicines-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2019/08/GettyImages-656884776.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.eu/article/ai-is-about-to-remake-the-pharmaceutical-drug-medicines-industry/amp/",
-      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/ai-is-about-to-remake-the-pharmaceutical-drug-medicines-industry/amp/",
-      "publishedDateTime": "2023-03-12T20:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico Europe",
-        "domain": "politico.eu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-13-artificial-intelligence-ai-in-fintech-market-by-product-type-end-users-2029.md",
-      "title": "Artificial Intelligence (AI) in Fintech Market by Product Type & End Users-2029",
-      "excerpt": "Artificial Intelligence (AI) in Fintech Marketinformation for each competitor includes (Next IT Corporation, TIBCO",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-by-product-type-end-users-2029-2023-03-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-by-product-type-end-users-2029-2023-03-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-12T20:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

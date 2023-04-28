@@ -2,6 +2,101 @@
   "page": 71,
   "value": [
     {
+      "path": "_news/2023-02-23-baidu-beats-fourth-quarter-revenue-estimates-flags-chatbot-launch.md",
+      "title": "Baidu beats fourth-quarter revenue estimates, flags chatbot launch",
+      "excerpt": "Revenue from Baidu Core, which includes search-based ad sales, cloud offerings and its autonomous driving initiatives, fell 1% to 25.7 billion yuan. While non-online marketing revenue rose 11% to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/chinas-baidu-beats-quarterly-revenue-estimates-announces-share-buyback-2023-02-22/",
+      "originalUrl": "https://www.reuters.com/technology/chinas-baidu-beats-quarterly-revenue-estimates-announces-share-buyback-2023-02-22/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/9LTJYqY1aeAPZk8JCItvML1wkSk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JZSDFNXKHRKZNPBRY2X7CQXEJM.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-22T12:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-23-openais-foundry-will-let-customers-buy-dedicated-compute-to-run-its-ai-models.md",
+      "title": "OpenAI’s Foundry will let customers buy dedicated compute to run its AI models",
+      "excerpt": "OpenAI is quietly launching a new developer platform that lets customers run the company’s newer machine learning models ... a “static allocation” of compute capacity (perhaps on Azure, OpenAI’s preferred public cloud platform) dedicated to ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/02/21/openai-foundry-will-let-customers-buy-dedicated-capacity-to-run-its-ai-models/",
+      "originalUrl": "https://techcrunch.com/2023/02/21/openai-foundry-will-let-customers-buy-dedicated-capacity-to-run-its-ai-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/02/21/openai-foundry-will-let-customers-buy-dedicated-capacity-to-run-its-ai-models/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/02/21/openai-foundry-will-let-customers-buy-dedicated-capacity-to-run-its-ai-models/amp/",
+      "publishedDateTime": "2023-02-22T11:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-23-majority-in-new-poll-would-be-uncomfortable-with-health-care-provider-relying-on-ai.md",
       "title": "Majority in new poll would be uncomfortable with health care provider relying on AI",
       "excerpt": "A majority of Americans in a new poll say they’d be uncomfortable with their health care provider relying on artificial intelligence (AI) as part of their medical care, and less than half think using AI would lead to better health outcomes.",
@@ -1034,103 +1129,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-22-deep-learning-robotics-dlr-awarded-new-patent-for-revolutionary-technology-in-robotics-and-ai.md",
-      "title": "Deep Learning Robotics (DLR) Awarded New Patent for Revolutionary Technology in Robotics and AI",
-      "excerpt": "Deep Learning Robotics (DLR), a leading innovator in the field of robotics and artificial intelligence, announced at the AI Week in Tel-Aviv the grant of a new patent for",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/02/n30993121/deep-learning-robotics-dlr-awarded-new-patent-for-revolutionary-technology-in-robotics-and-ai",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/02/n30993121/deep-learning-robotics-dlr-awarded-new-patent-for-revolutionary-technology-in-robotics-and-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/30993121",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30993121",
-      "publishedDateTime": "2023-02-21T09:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-02-22-amazon-web-services-pairs-with-hugging-face-to-target-ai-developers.md",
-      "title": "Amazon Web Services pairs with Hugging Face to target AI developers",
-      "excerpt": "The logo for Amazon Web Services (AWS) is seen at the SIBOS banking and financial ... Swami Sivasubramanian, vice president of database, analytics and machine learning at AWS, said he believes technologies like Trainium can help developers save money ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/amazon-web-services-pairs-with-hugging-face-target-ai-developers-2023-02-21/",
-      "originalUrl": "https://www.reuters.com/technology/amazon-web-services-pairs-with-hugging-face-target-ai-developers-2023-02-21/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/N8oH5-YytfIMlpB4TZfnbaWyL0M=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KMPAA4VKZJKEBEQQG3QVAB4P4E.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-21T08:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

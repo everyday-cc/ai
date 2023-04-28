@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/moveworks-debuts-creator-studio-to-build-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/moveworks-debuts-creator-studio-to-build-ai-driven-employee-copilots/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 119
 published: true
 
 provider:

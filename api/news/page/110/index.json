@@ -2,6 +2,103 @@
   "page": 110,
   "value": [
     {
+      "path": "_news/2023-01-27-talking-ai-ceo-arvind-khrisna-on-ibms-monetization-strategy.md",
+      "title": "Talking AI - CEO Arvind Khrisna on IBM's monetization strategy",
+      "excerpt": "In his view, there have been three moments that matter in the past decade in terms of AI emerging to have business potential and impact: One, when IBM won Jeopardy! with Watson, I think it was a big moment, and AI came onto everyone's roadmap.",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/talking-ai-ceo-arvind-khrisna-ibms-monetization-strategy",
+      "originalUrl": "https://diginomica.com/talking-ai-ceo-arvind-khrisna-ibms-monetization-strategy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2022-01/Screenshot%202022-01-25%20at%2011.06.30.png",
+          "width": 1192,
+          "height": 876,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/talking-ai-ceo-arvind-khrisna-ibms-monetization-strategy?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/talking-ai-ceo-arvind-khrisna-ibms-monetization-strategy?amp",
+      "publishedDateTime": "2023-01-27T03:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-27-5-ways-ml-and-sme-collaboration-can-accelerate-innovation.md",
+      "title": "5 Ways ML And SME Collaboration Can Accelerate Innovation",
+      "excerpt": "In this article, I will lay out five ways in which partnerships between data scientists and subject matter experts (SMEs) can accelerate innovation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/01/27/5-ways-ml-and-sme-collaboration-can-accelerate-innovation/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/01/27/5-ways-ml-and-sme-collaboration-can-accelerate-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5ffe0a25c386c343ec2b0a9b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 871,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/01/27/5-ways-ml-and-sme-collaboration-can-accelerate-innovation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/01/27/5-ways-ml-and-sme-collaboration-can-accelerate-innovation/amp/",
+      "publishedDateTime": "2023-01-27T03:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-01-27-4-ways-fintech-changed-business-financing.md",
       "title": "4 Ways Fintech Changed Business Financing",
       "excerpt": "Fintech’s influence will continue to ripple in the finance world as technology advances, but here are four key impacts our industry has had so far.",
@@ -1048,109 +1145,6 @@
         "AI",
         "Microsoft AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-01-27-james-dolan-defends-facial-recognition-policy-against-lawyers-who-are-suing-msg-please-dont-come.md",
-      "title": "James Dolan defends facial recognition policy against lawyers who are suing MSG: ‘Please don’t come’",
-      "excerpt": "Several attorneys say they have been denied entry into MSG-owned venues because their firm is in active litigation against the company.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/james-dolan-defends-facial-recognition-policy-against-lawyers-who-are-suing-msg-please-dont-come-11674755769",
-      "originalUrl": "https://www.marketwatch.com/story/james-dolan-defends-facial-recognition-policy-against-lawyers-who-are-suing-msg-please-dont-come-11674755769",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 209,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-710774/horizontal",
-          "width": 1320,
-          "height": 742,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/james-dolan-defends-facial-recognition-policy-against-lawyers-who-are-suing-msg-please-dont-come-11674755769",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/james-dolan-defends-facial-recognition-policy-against-lawyers-who-are-suing-msg-please-dont-come-11674755769",
-      "publishedDateTime": "2023-01-26T08:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-27-mass-congressman-reads-ai-generated-speech-on-house-floor.md",
-      "title": "Mass. Congressman Reads AI-Generated Speech On House Floor",
-      "excerpt": "When U.S. Rep. Jake Auchincloss decided to deliver a speech on a bill that would create a U.S.-Israel artificial intelligence center, he opted to let the AI do the talking.",
-      "sourceUrl": null,
-      "webUrl": "https://www.huffpost.com/entry/rep-jake-auchincloss-ai-speech-congress_n_63d2aacae4b01e9288694809",
-      "originalUrl": "https://www.huffpost.com/entry/rep-jake-auchincloss-ai-speech-congress_n_63d2aacae4b01e9288694809",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.huffingtonpost.com/asset/63d2ac101e00006d003fc771.jpeg?cache=CaZG5GUiSl&ops=1200_630",
-          "width": 1200,
-          "height": 629,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.huffpost.com/entry/rep-jake-auchincloss-ai-speech-congress_n_63d2aacae4b01e9288694809/amp",
-      "cdnAmpWebUrl": "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/rep-jake-auchincloss-ai-speech-congress_n_63d2aacae4b01e9288694809/amp",
-      "publishedDateTime": "2023-01-26T08:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HuffPost",
-        "domain": "huffpost.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/huffpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

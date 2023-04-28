@@ -2,6 +2,111 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2023-03-21-natural-language-processing-for-healthcare-and-life-sciences-market-size-trends-and-forecast-2026.md",
+      "title": "Natural Language Processing For Healthcare And Life Sciences Market Size, Trends and Forecast 2026",
+      "excerpt": "Market Updates(360marketupdates.com) published a new research report on Natural Language Processing For Healthcare",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-for-healthcare-and-life-sciences-market-size-trends-and-forecast-2026-2023-03-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-for-healthcare-and-life-sciences-market-size-trends-and-forecast-2026-2023-03-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-20T21:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-03-21-whos-using-facial-recognition-technology.md",
+      "title": "Who’s Using Facial Recognition Technology?",
+      "excerpt": "Anyone can read what you share. By James Barron Good morning. It’s Tuesday. Facial recognition technology is increasingly being used to scan customers entering stores or, in the case of Madison Square Garden Entertainment, to scan ticket holders for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/03/21/nyregion/facial-recognition-technology-garden.html",
+      "originalUrl": "https://www.nytimes.com/2023/03/21/nyregion/facial-recognition-technology-garden.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/03/21/multimedia/21nytoday-kashmir-msg-qtgp/21nytoday-kashmir-msg-qtgp-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2023/03/21/nyregion/facial-recognition-technology-garden.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/03/21/nyregion/facial-recognition-technology-garden.amp.html",
+      "publishedDateTime": "2023-03-20T21:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-21-gpu-database-market-top-players-and-forecast-till-2028.md",
       "title": "GPU Database Market Top Players and Forecast till 2028",
       "excerpt": "The \"GPU Database Market\" Study Describes how the technology industry is evolving and how major and emerging players in",
@@ -1106,109 +1211,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-20-how-ai-powered-video-enhancement-is-transforming-real-time-communication.md",
-      "title": "How AI-Powered Video Enhancement Is Transforming Real-Time Communication",
-      "excerpt": "Social media, entertainment, mobile gaming and the metaverse are all finding new ways to incorporate AI-powered video enhancement technology to enhance the user experience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/20/how-ai-powered-video-enhancement-is-transforming-real-time-communication/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/20/how-ai-powered-video-enhancement-is-transforming-real-time-communication/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63875816f331e568f2c8a8ba/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/20/how-ai-powered-video-enhancement-is-transforming-real-time-communication/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/03/20/how-ai-powered-video-enhancement-is-transforming-real-time-communication/amp/",
-      "publishedDateTime": "2023-03-20T04:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-20-the-state-of-self-driving-cars-autonomous-advances.md",
-      "title": "The State of Self-Driving Cars: Autonomous Advances",
-      "excerpt": "Significant advances have been made in the technology that powers self-driving cars in the last decade, but there's still further to go. We dive into the",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/article/2644-the-state-of-self-driving-cars/",
-      "originalUrl": "https://www.techspot.com/article/2644-the-state-of-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/articles-info/2644/images/2023-03-18-image.jpg",
-          "width": 4000,
-          "height": 2666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-20T04:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -106,14 +106,14 @@ related:
         isCached: true
   - title: "Snapchat's new AI chatbot is already raising alarms among teens and parents"
     excerpt: "The feature is powered by the viral AI chatbot tool ChatGPT – and like ChatGPT, it can offer recommendations, answer questions and converse with users."
-    publishedDateTime: 2023-04-27T19:49:00Z
-    webUrl: "https://www.wmur.com/article/snapchats-ai-chatbot-raising-alarms/43729456"
-    ampWebUrl: "https://www.wmur.com/amp/article/snapchats-ai-chatbot-raising-alarms/43729456"
-    cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/snapchats-ai-chatbot-raising-alarms/43729456"
+    publishedDateTime: 2023-04-27T20:49:00Z
+    webUrl: "https://www.wjcl.com/article/snapchats-ai-chatbot-raising-alarms/43729456"
+    ampWebUrl: "https://www.wjcl.com/amp/article/snapchats-ai-chatbot-raising-alarms/43729456"
+    cdnAmpWebUrl: "https://www-wjcl-com.cdn.ampproject.org/c/s/www.wjcl.com/amp/article/snapchats-ai-chatbot-raising-alarms/43729456"
     type: article
     provider:
-      name: WMUR
-      domain: wmur.com
+      name: WJCL
+      domain: wjcl.com
     quality: 55
     images:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-824abf0991d3efa93a1eaf912b2c3be1-h-298c97ee32e1099ebd7b0fc43dcce1c7-jpg-644ada9152f7a.jpg?crop=0.905xw:0.763xh;0.0240xw,0.146xh&resize=1200:*"
@@ -135,6 +135,22 @@ related:
       - url: "https://www.eastbaytimes.com/wp-content/uploads/2023/04/2023dmt6.png?w=1024&h=569"
         width: 1022
         height: 568
+        isCached: true
+  - title: "Chatbots and the new AI: What will Silicon Valley unleash upon the world this time?"
+    excerpt: "Jobs. News. Art. Democracy. Equality. Education. Privacy. Truth. Your bank account. All will be impacted by Silicon Valley's latest creation: \"generative\" artificial intelligence."
+    publishedDateTime: 2023-04-27T14:13:00Z
+    webUrl: "https://techxplore.com/news/2023-04-chatbots-ai-silicon-valley-unleash.html"
+    ampWebUrl: "https://techxplore.com/news/2023-04-chatbots-ai-silicon-valley-unleash.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-04-chatbots-ai-silicon-valley-unleash.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 53
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/chatbot-1.jpg"
+        width: 2880
+        height: 1920
         isCached: true
   - title: "New artificial intelligence feature comes to Snapchat"
     excerpt: "I’m here to chat with you and keep you company! Is there anything you’d like to talk about?” my Artificial Intelligence asked me. The second I questioned its arrival, I didn’t enjoy the idea of this robot “keeping me company."

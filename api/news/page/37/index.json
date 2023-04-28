@@ -2,6 +2,110 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2023-03-23-modernize-your-apps-and-accelerate-business-growth-with-ai.md",
+      "title": "Modernize your apps and accelerate business growth with AI",
+      "excerpt": "At Microsoft, we’re committed to democratizing AI and giving you access to advanced generative AI models. As part of that commitment, in 2019, we started a long-term partnership with OpenAI. In January 2023, we announced the third phase of this partnership, including the general availability of Azure",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/modernize-your-apps-and-accelerate-business-growth-with-ai/",
+      "originalUrl": "https://azure.microsoft.com/blog/modernize-your-apps-and-accelerate-business-growth-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/53d6248f-d174-44f3-b838-b6cae4798126.png",
+          "width": 660,
+          "height": 284,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-23T00:07:47-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-23-canva-can-now-generate-custom-templates-thanks-to-ai.md",
+      "title": "Canva Can Now Generate Custom Templates, Thanks To AI",
+      "excerpt": "Recognizing the need for global communication, Canva's Translate tool allows users to convert their text into over 100 different languages with just a click, broadening their audience reach. Finally, Magic Write, Canva’s AI-powered copywriting assistant ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johanmoreno/2023/03/23/canva-can-now-generate-custom-templates-thanks-to-ai/",
+      "originalUrl": "https://www.forbes.com/sites/johanmoreno/2023/03/23/canva-can-now-generate-custom-templates-thanks-to-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/641bf062a1a89bcbfdca4c2c/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johanmoreno/2023/03/23/canva-can-now-generate-custom-templates-thanks-to-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/03/23/canva-can-now-generate-custom-templates-thanks-to-ai/amp/",
+      "publishedDateTime": "2023-03-22T23:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-23-canva-launches-magic-ai-tools-for-its-design-softwares-125-million-users.md",
       "title": "Canva Launches ‘Magic’ AI Tools For Its Design Software’s 125 Million Users",
       "excerpt": "Canva CEO Melanie Perkins says of the AI product rush: “We’ll do what we’ve always done, which is focus on our own race.” The ten-year-old Australian startup led by Melanie Perkins said annualized revenue had reached $1.6 billion and also unveiled ...",
@@ -1067,92 +1171,6 @@
         "AI Hardware",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-03-23-supermicro-expands-gpu-solutions-portfolio-with-deskside-liquid-cooled-ai-development-platform-powered-by-nvidia.md",
-      "title": "Supermicro Expands GPU Solutions Portfolio with Deskside Liquid-Cooled AI Development Platform, Powered by NVIDIA",
-      "excerpt": "(NASDAQ: SMCI), a Total IT Solution Provider for Cloud, AI/ML, Storage, and 5G/Edge, is announcing the first in a line of powerful yet quiet and power-efficient NVIDIA-accelerated AI Development platforms which gives information professionals and developers the most powerful technology available today at their deskside.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-supermicro-expands-gpu-solutions-portfolio-with-deskside-liquid-/2023/03/22/9781497.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-supermicro-expands-gpu-solutions-portfolio-with-deskside-liquid-/2023/03/22/9781497.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1443241/Supermicro_Logo.jpg",
-          "width": 400,
-          "height": 206,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-22T10:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-23-nvidia-ceo-says-ai-can-overcome-the-death-of-moores-law.md",
-      "title": "Nvidia CEO Says AI Can Overcome the Death of Moore’s Law",
-      "excerpt": "Moore said “the number of transistors incorporated in a chip will approximately double every 24 months,” offering performance and cost benefits over time. Huang also explained that the AI industry has already gone through several stages of development.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/nvidia-ceo-ai-chips-moores-law-2fc9a763",
-      "originalUrl": "https://www.barrons.com/articles/nvidia-ceo-ai-chips-moores-law-2fc9a763",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-748583/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/nvidia-ceo-ai-chips-moores-law-2fc9a763",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-ceo-ai-chips-moores-law-2fc9a763",
-      "publishedDateTime": "2023-03-22T10:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

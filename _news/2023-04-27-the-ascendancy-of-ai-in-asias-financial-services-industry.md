@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/zennonkapron/2023/04/26/the-ascendancy-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zennonkapron/2023/04/26/the-ascendancy-of-ai-in-asias-financial-services-industry/amp/"
 type: article
 quality: 87
-heat: 130
+heat: 133
 published: true
 
 provider:

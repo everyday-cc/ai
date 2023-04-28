@@ -2,6 +2,110 @@
   "page": 80,
   "value": [
     {
+      "path": "_news/2023-02-14-ai-experts-professors-reveal-how-chatgpt-will-radically-alter-the-classroom-age-of-the-creator.md",
+      "title": "AI experts, professors reveal how ChatGPT will radically alter the classroom: ‘Age of the creator’",
+      "excerpt": "\"AI is going to push us into this new movement ... Despite the benefits, there are also concerns students and professionals should keep in mind. New York-based legal ethics lawyer David A. Lewis said that he had seen an increase in cases in which people ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/ai-experts-professors-chatgpt-radically-alter-classroom-age-creator",
+      "originalUrl": "https://www.foxnews.com/media/ai-experts-professors-chatgpt-radically-alter-classroom-age-creator",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c45c254e-02b2-4af2-846a-e4db67eadaeb/30431e0e-2941-403b-aaad-0e9a67cabaf2/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/ai-experts-professors-chatgpt-radically-alter-classroom-age-creator.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ai-experts-professors-chatgpt-radically-alter-classroom-age-creator.amp",
+      "publishedDateTime": "2023-02-14T03:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-14-amazons-zoox-robotaxi-now-giving-rides-to-employees-on-public-roads-in-california.md",
+      "title": "Amazon's Zoox robotaxi now giving rides to employees on public roads in California",
+      "excerpt": "Amazon-owned Zoox said employees are test-riding its driverless robotaxis on public roads in California. For now, the tests are limited to employees at Zoox's Foster City, California, headquarters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/02/13/zoox-robotaxi-now-giving-rides-to-employees-on-california-public-roads.html",
+      "originalUrl": "https://www.cnbc.com/2023/02/13/zoox-robotaxi-now-giving-rides-to-employees-on-california-public-roads.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106810720-1607953690861-Zoox_Autonomous_Vehicle_-_Single_Side_-_Coit_Tower_SF.jpg?v=1676314425",
+          "width": 2800,
+          "height": 1867,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/02/13/zoox-robotaxi-now-giving-rides-to-employees-on-california-public-roads.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/02/13/zoox-robotaxi-now-giving-rides-to-employees-on-california-public-roads.html",
+      "publishedDateTime": "2023-02-13T22:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-14-amazons-self-driving-car-shuttles-people-on-public-roads-for-the-first-time.md",
       "title": "Amazon’s Self-Driving Car Shuttles People on Public Roads for the First Time",
       "excerpt": "The company said the robotaxi trip marks the first time that a vehicle designed without human controls has carried passengers on a public road.",
@@ -1078,101 +1182,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-13-tech-is-exciting-again-why-thank-the-sudden-surge-in-artificial-intelligence.md",
-      "title": "Tech is exciting again! Why? Thank the sudden surge in artificial intelligence",
-      "excerpt": "If the introduction of smartphones defined the 2000s, much of the 2010s in Silicon Valley was defined by the ambitious technologies that didn't fully arrive, such as self-driving cars. Artificial intelligence may be different.",
-      "sourceUrl": null,
-      "webUrl": "https://wraltechwire.com/2023/02/13/tech-is-exciting-again-why-thank-the-sudden-surge-in-artificial-intelligence/",
-      "originalUrl": "https://wraltechwire.com/2023/02/13/tech-is-exciting-again-why-thank-the-sudden-surge-in-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wraltechwire.com/wp-content/uploads/2019/05/cyber-artificial-intelligence-information-technology-high-tech-digital-e1583233761533.jpg",
-          "width": 772,
-          "height": 434,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wraltechwire.com/2023/02/13/tech-is-exciting-again-why-thank-the-sudden-surge-in-artificial-intelligence/?amp=1",
-      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/02/13/tech-is-exciting-again-why-thank-the-sudden-surge-in-artificial-intelligence/?amp=1",
-      "publishedDateTime": "2023-02-13T02:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WRAL TechWire",
-        "domain": "wraltechwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-13-accelerating-your-machine-learning-pipeline-with-an-ml-platform-team.md",
-      "title": "Accelerating Your Machine Learning Pipeline With An ML Platform Team",
-      "excerpt": "If your data scientists are responding to issues with models at odd hours or burning cycles supporting tooling, you're likely ready to set up a centralized ML platform team.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/13/accelerating-your-machine-learning-pipeline-with-an-ml-platform-team/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/13/accelerating-your-machine-learning-pipeline-with-an-ml-platform-team/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63441bf6d07b3ba342aa314f/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/13/accelerating-your-machine-learning-pipeline-with-an-ml-platform-team/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/02/13/accelerating-your-machine-learning-pipeline-with-an-ml-platform-team/amp/",
-      "publishedDateTime": "2023-02-13T02:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

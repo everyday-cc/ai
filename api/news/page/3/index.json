@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-04-26-ai-could-spell-the-end-of-big-business.md",
+      "title": "AI Could Spell the End of Big Business",
+      "excerpt": "The leading companies in artificial intelligence tend to be small, and many big ones will use it to get smaller.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/opinion/articles/2023-04-26/ai-could-spell-the-end-of-big-business",
+      "originalUrl": "https://www.bloomberg.com/opinion/articles/2023-04-26/ai-could-spell-the-end-of-big-business",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9rRKQiMCs54/v1/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-26T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-26-microsoft-shares-surge-7-after-the-chatgpt-investor-reveals-ai-boosted-its-cloud-sales.md",
       "title": "Microsoft shares surge 7% after the ChatGPT investor reveals AI boosted its cloud sales",
       "excerpt": "Microsoft CEO Satya Nadella said AI fueled growth in the tech giant's Azure cloud business and Bing search engine last quarter.",
@@ -10,7 +61,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/microsoft-stock-price-chatgpt-investor-ai-cloud-azure-satya-nadella-2023-4",
       "featuredContent": null,
       "highlight": null,
-      "heat": 523,
+      "heat": 533,
       "tags": null,
       "images": [
         {
@@ -1131,7 +1182,7 @@
       "originalUrl": "https://techxplore.com/news/2023-04-chatgpt-ai-virtual-financial.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -1215,58 +1266,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-machine-learning-as-a-service-mlaas-market-4346-cagr-till-2030.md",
-      "title": "Machine Learning as a Service (MlaaS) Market [ 43.46% CAGR ] till 2030",
-      "excerpt": "Machine Learning as a Service (MlaaS) Market is expected to record a [ 43.46% CAGR ] over the forecast period 2023 to",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-4346-cagr-till-2030-2023-04-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-4346-cagr-till-2030-2023-04-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-25T09:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

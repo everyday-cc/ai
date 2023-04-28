@@ -42,15 +42,6 @@ related:
         width: 1356
         height: 668
         isCached: true
-  - title: "Beyond ChatGPT: Miami company raises millions to bring AI tools to workplaces"
-    excerpt: "\"Most people are still struggling to figure out how to use AI to help solve their hardest problems at work,” says the startup's CEO."
-    publishedDateTime: 2023-04-27T16:05:00Z
-    webUrl: "https://www.bizjournals.com/southflorida/news/2023/04/27/airops-funding-artificial-intelligence-workplaces.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 14
 
 secured: "s8eSjyS65TbDq0k4tPvq8wBxkes6gQCksLDHwGlUmZSIP6MZ2neQHgltfFjracY27b3d8KiWddbJ1nqB18lMMOaI65qpLbpXneapkuKcv4yVlnGkeLhAh9Kx7w0Qdfew28eFUwZ94v6UowX6ncN16VZ1EeTSTJN8pZNEbwDQHtqwiqrlauN9a8W2JtcPGuCxk+oR2WvsZmaxpadVsNlNg5P2oqyEOPd3wpzUm4p0+7lelFoT125LD/iUsrcS42oQSQkTBOV0XYE1DJmjJhgFu2WEQYiiFg6N0kIX2fQdAm0b5JQxE9AJQ99LIaWfRV1I21GqmKGGH0lSrm049dtjkTyIa6wxq6ReIeZrRti8/l8=;5TtAaAUt06F/0DlZHdqG2g=="
 ---

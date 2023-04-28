@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/samsungs-profit-plunges-to-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/samsungs-profit-plunges-to-14-year-low-from-heavy-loss-by-chip-division/"
 type: article
 quality: 88
-heat: 90
+heat: 92
 published: true
 
 provider:

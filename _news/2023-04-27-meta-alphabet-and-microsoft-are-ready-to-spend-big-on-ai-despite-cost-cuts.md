@@ -185,6 +185,20 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Microsoft Designer brings AI-powered graphic design to the masses"
+    excerpt: "The tech giant also announced some new features for the Designer app, which will be built into the Edge browser."
+    publishedDateTime: 2023-04-27T16:00:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-designer-brings-ai-powered-graphic-design-to-the-masses/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 84
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/50fd6a1cfe31ec9d10ff4615b524de8913ec7a29/2023/04/26/24e69b8f-a2d3-4f03-aa7c-d99abbf56d43/zdnetdesigner.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft leans on its AI prowess to deliver a surprising quarterly earnings beat"
     excerpt: "Microsoft's (MSFT) better-than-feared fiscal third-quarter results, coupled with solid revenue guidance, sent shares soaring in afterhours trading."
     publishedDateTime: 2023-04-25T22:00:00Z

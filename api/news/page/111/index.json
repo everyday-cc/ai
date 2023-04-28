@@ -2,6 +2,109 @@
   "page": 111,
   "value": [
     {
+      "path": "_news/2023-01-27-james-dolan-defends-facial-recognition-policy-against-lawyers-who-are-suing-msg-please-dont-come.md",
+      "title": "James Dolan defends facial recognition policy against lawyers who are suing MSG: ‘Please don’t come’",
+      "excerpt": "Several attorneys say they have been denied entry into MSG-owned venues because their firm is in active litigation against the company.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/james-dolan-defends-facial-recognition-policy-against-lawyers-who-are-suing-msg-please-dont-come-11674755769",
+      "originalUrl": "https://www.marketwatch.com/story/james-dolan-defends-facial-recognition-policy-against-lawyers-who-are-suing-msg-please-dont-come-11674755769",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 209,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-710774/horizontal",
+          "width": 1320,
+          "height": 742,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/james-dolan-defends-facial-recognition-policy-against-lawyers-who-are-suing-msg-please-dont-come-11674755769",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/james-dolan-defends-facial-recognition-policy-against-lawyers-who-are-suing-msg-please-dont-come-11674755769",
+      "publishedDateTime": "2023-01-26T08:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-27-mass-congressman-reads-ai-generated-speech-on-house-floor.md",
+      "title": "Mass. Congressman Reads AI-Generated Speech On House Floor",
+      "excerpt": "When U.S. Rep. Jake Auchincloss decided to deliver a speech on a bill that would create a U.S.-Israel artificial intelligence center, he opted to let the AI do the talking.",
+      "sourceUrl": null,
+      "webUrl": "https://www.huffpost.com/entry/rep-jake-auchincloss-ai-speech-congress_n_63d2aacae4b01e9288694809",
+      "originalUrl": "https://www.huffpost.com/entry/rep-jake-auchincloss-ai-speech-congress_n_63d2aacae4b01e9288694809",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.huffingtonpost.com/asset/63d2ac101e00006d003fc771.jpeg?cache=CaZG5GUiSl&ops=1200_630",
+          "width": 1200,
+          "height": 629,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.huffpost.com/entry/rep-jake-auchincloss-ai-speech-congress_n_63d2aacae4b01e9288694809/amp",
+      "cdnAmpWebUrl": "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/rep-jake-auchincloss-ai-speech-congress_n_63d2aacae4b01e9288694809/amp",
+      "publishedDateTime": "2023-01-26T08:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HuffPost",
+        "domain": "huffpost.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/huffpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-27-co-lawmakers-look-into-artificial-intelligence-to-identify-wildfires-early.md",
       "title": "CO lawmakers look into artificial intelligence to identify wildfires early",
       "excerpt": "A bill was introduced in the Colorado legislature and is proposing a $2 million pilot program that may use artificial intelligence to detect wildfire early.",
@@ -1076,84 +1179,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-26-recent-study-shows-cognitive-benefits-of-hearing-aids.md",
-      "title": "Recent study shows cognitive benefits of hearing aids",
-      "excerpt": "PHOENIX (3TV/CBS 5) — A recent study shows hearing aids are a preventative tool against dementia and cognitive decline. Done by National University of Singapore researchers, the study found the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.azfamily.com/2023/01/27/recent-study-shows-cognitive-benefits-hearing-aids/",
-      "originalUrl": "https://www.azfamily.com/2023/01/27/recent-study-shows-cognitive-benefits-hearing-aids/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-25T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AZFamily",
-        "domain": "azfamily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-26-news-literacy-week-algorithms-artificial-intelligence.md",
-      "title": "News Literacy Week: Algorithms & Artificial Intelligence",
-      "excerpt": "As News Literacy Week continues, it is our effort at 7 News along with our parent company Scripps, to highlight the important role the media play in our community.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wkbw.com/news/eye-on-education/news-literacy-week-algorithms-artificial-intelligence",
-      "originalUrl": "https://www.wkbw.com/news/eye-on-education/news-literacy-week-algorithms-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://x-default-stgec.uplynk.com/ausw/slices/450/1020d6d1597347248f5d62c059a4c7e3/4504425ed4874366be1a7029d04b4565/poster_05b48026cd744c8f9658f4990ece8563.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wkbw.com/news/eye-on-education/news-literacy-week-algorithms-artificial-intelligence?_amp=true",
-      "cdnAmpWebUrl": "https://www-wkbw-com.cdn.ampproject.org/c/s/www.wkbw.com/news/eye-on-education/news-literacy-week-algorithms-artificial-intelligence?_amp=true",
-      "publishedDateTime": "2023-01-25T11:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WKBW",
-        "domain": "wkbw.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos"
       ]
     }
   ],

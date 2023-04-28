@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nextplatform.com/2023/04/26/broadcom-takes-on-infiniband
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/04/26/broadcom-takes-on-infiniband-with-jericho3-ai-switch-chips/amp/"
 type: article
 quality: 74
-heat: 86
+heat: 88
 published: true
 
 provider:

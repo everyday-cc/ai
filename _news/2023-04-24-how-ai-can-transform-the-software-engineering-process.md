@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/how-ai-can
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/24/how-ai-can-transform-the-software-engineering-process/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "How artificial intelligence is transforming Hollywood"
+    excerpt: "Artificial intelligence is revolutionizing Hollywood productions and raising new questions. CNBC’s Julia Boorstin shows us how companies are using AI to put actors’ faces on body doubles and even “revive” deceased movie stars on screen."
+    publishedDateTime: 2023-04-27T22:47:00Z
+    webUrl: "https://www.nbcnews.com/nightly-news/video/how-artificial-intelligence-is-transforming-hollywood-171546693664"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo171546693664"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo171546693664"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 87
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_04/WA-NNWEB-20230427-01_AI_HOLLYWOOD_BOORSTIN_3_21_MIXDOWN_frame_3793-376hvp.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Google moves AI chip engineering team to Google Cloud"
     excerpt: "The team at Google which was engineering artificial intelligence chips has been shifted to the Google Cloud sector, according to a report by The Information."
     publishedDateTime: 2023-04-24T06:09:00Z

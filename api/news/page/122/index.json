@@ -2,6 +2,101 @@
   "page": 122,
   "value": [
     {
+      "path": "_news/2023-01-17-generative-ai-the-new-frontier-for-vc-investment.md",
+      "title": "Generative AI: The New Frontier For VC Investment",
+      "excerpt": "Generative AI is spawning a new frontier for venture capital investment. Big tech and venture investors are deploying record cash in this budding arena that some experts are predicting could change every industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/columbiabusinessschool/2023/01/17/generative-ai-the-new-frontier-for-vc-investment/",
+      "originalUrl": "https://www.forbes.com/sites/columbiabusinessschool/2023/01/17/generative-ai-the-new-frontier-for-vc-investment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63bcf25e18cf547891f26064/0x0.jpg?format=jpg&width=1200",
+          "width": 837,
+          "height": 738,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/columbiabusinessschool/2023/01/17/generative-ai-the-new-frontier-for-vc-investment/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/columbiabusinessschool/2023/01/17/generative-ai-the-new-frontier-for-vc-investment/amp/",
+      "publishedDateTime": "2023-01-17T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-17-opinion-how-facial-recognition-will-transform-airport-security.md",
+      "title": "Opinion: How facial recognition will transform airport security",
+      "excerpt": "Imagine using technology that never forgets a face, while improving airport security and shortening lines. Such technology exists and may be coming to an airport near you. Every flyer over the past two decades knows that airport security procedures involve a lot of unpacking,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eastbaytimes.com/2023/01/17/opinion-how-facial-recognition-will-transform-airport-security-checkposts/",
+      "originalUrl": "https://www.eastbaytimes.com/2023/01/17/opinion-how-facial-recognition-will-transform-airport-security-checkposts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eastbaytimes.com/wp-content/uploads/2023/01/OPED-TSA-FACIAL-RECOGNITION-COMMENTARY-TB.jpg?w=1024&h=736",
+          "width": 1024,
+          "height": 735,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.eastbaytimes.com/2023/01/17/opinion-how-facial-recognition-will-transform-airport-security-checkposts/amp/",
+      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2023/01/17/opinion-how-facial-recognition-will-transform-airport-security-checkposts/amp/",
+      "publishedDateTime": "2023-01-17T04:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "East Bay Times",
+        "domain": "eastbaytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-01-17-ieee-introduces-new-program-for-free-access-to-ai-ethics-and-governance-standards.md",
       "title": "IEEE Introduces New Program for Free Access to AI Ethics and Governance Standards",
       "excerpt": "IEEE, the world's largest technical professional organization dedicated to advancing technology for humanity, and the IEEE Standards Association (IEEE SA) announce the availability of a program that provides free access to global socio-technical standards in AI Ethics and Governance that provide guidance and considerations towards trustworthy AI.",
@@ -1077,101 +1172,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-17-lawyers-barred-by-madison-square-garden-found-a-way-back-in.md",
-      "title": "Lawyers Barred by Madison Square Garden Found a Way Back In",
-      "excerpt": "MSG Entertainment resorted to facial recognition technology to kick out legal foes, but some have undermined the ban using a law passed to protect theater critics in 1941. Send any friend a story ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/01/16/technology/madison-square-garden-ban-lawyers.html",
-      "originalUrl": "https://www.nytimes.com/2023/01/16/technology/madison-square-garden-ban-lawyers.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/01/17/multimedia/15jpMSG-BAN1-print-tlhc/15MSG-BAN-01-tlhc-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2023/01/16/technology/madison-square-garden-ban-lawyers.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/01/16/technology/madison-square-garden-ban-lawyers.amp.html",
-      "publishedDateTime": "2023-01-16T10:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-17-study-reveals-machine-learning-can-predict-brain-tumor-progression.md",
-      "title": "Study reveals machine learning can predict brain tumor progression",
-      "excerpt": "Researchers at the University of Waterloo have developed a computational model to better accurately anticipate the emergence of lethal brain tumours.",
-      "sourceUrl": null,
-      "webUrl": "https://www.devdiscourse.com/article/science-environment/2321541-study-reveals-machine-learning-can-predict-brain-tumor-progression",
-      "originalUrl": "https://www.devdiscourse.com/article/science-environment/2321541-study-reveals-machine-learning-can-predict-brain-tumor-progression",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/16_01_2023_17_49_51_9560931.jpg?width=1280",
-          "width": 1280,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.devdiscourse.com/article/science-environment/2321541-study-reveals-machine-learning-can-predict-brain-tumor-progression?amp",
-      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/science-environment/2321541-study-reveals-machine-learning-can-predict-brain-tumor-progression?amp",
-      "publishedDateTime": "2023-01-16T09:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "devdiscourse",
-        "domain": "devdiscourse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }
