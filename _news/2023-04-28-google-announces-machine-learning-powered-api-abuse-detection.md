@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Google Announces Machine Learning Powered API Abuse Detection"
-excerpt: "Google recently announced an API abuse detection dashboard powered by machine learning algorithms. Machine learning-powered abuse-detection dashboards are available in Advanced API Security, a feature of Apigee API management that enables customers to quickly detect API security misconfigurations,"
+excerpt: "Google strengthened its API Management (ApiGee) service in response to the increase in cyberattacks and associated losses. According to IBM’s 2022 Cost of a Data Breach Report mentioned in the blog post by Hershkovitz, the average cost of a data breach is $4.35 million."
 publishedDateTime: 2023-04-28T09:20:00Z
-originalUrl: "https://www.infoq.com/news/2023/04/google-cloud-api-abuse-detection/"
-webUrl: "https://www.infoq.com/news/2023/04/google-cloud-api-abuse-detection/"
+originalUrl: "https://www.infoq.com/news/2023/04/google-cloud-api-abuse-detection/?topicPageSponsorship=3787757c-9413-40d7-98ab-def617205a32"
+webUrl: "https://www.infoq.com/news/2023/04/google-cloud-api-abuse-detection/?topicPageSponsorship=3787757c-9413-40d7-98ab-def617205a32"
 type: article
 quality: 39
 heat: -1
@@ -40,6 +40,6 @@ related:
         height: 450
         isCached: true
 
-secured: "vKTtFzkUnfwNEyEkGBr60DvmXXzvA1YguElU0FFthDSFbSdGsbfBk7lizF7PdQcsMx0IYGrABbfwS+OAv1uLAR7kqDRGS1S5Fdt4krJ32CVOzORvP8eBr102TNwxJmcNNeJ1851/q5vFMMWYZrSiO0u5jhd5prm6qdvledKRO3of014VBG0BAe1a04CRpUABgQ0v592LHzZAp+QnlIRxuqXyYu1W4duSqfuiNM+jVhzH9tCyQ13tzhQFeMRsVUSA09bNNHGRRy2VnLEbtlM1Lp6bCdV88u66meh4MIQmqLsYfC/vGJxgu2La08QUyCoHlYw8VXeq1nwbDzCF8/RFOiPs8bQpjIwU/5Z9JGjaXYA=;nA0Pyp5APTVPdRs6roW6Kw=="
+secured: "VOq1982T38Ar1frcVF9dAs3MdASdOAqD9gCL/aKZpo2ULzLG5i7IfySIaX38rp6+JbTnZ8y/WNEFWxuKzkFCaA4fCTYiDWX+IpB/XL3e0/Yxr9+defoaxWC3bu8Njnijx6Gs7shckN1LYaPhNMIdzvSzZecyRfHdnViuO+PKioKGcx5e5bPTh2QSVFsMbKqCS4sfzusW8D7jHA6WGT8cflExisvbRcZwAj8IJQFbGTcWjqOoaolhFQAWk2470RBBrhmFi/sxH2dtljm/MZ7ZFWWFOzqJJooWjxe/qTEig6t9FGtY3VZJAtjjAE2lOKXiw+1l6RGwC97c2C8MtSzM8giDdBkWKq8ML5au3hhvf4Q=;LAroayEbVx1iGICtpBE4Qg=="
 ---
 

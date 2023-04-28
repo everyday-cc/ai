@@ -2,6 +2,197 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-04-28-making-the-most-out-of-generative-ai-in-your-enterprise.md",
+      "title": "Making The Most Out Of Generative AI In Your Enterprise",
+      "excerpt": "Generative artificial intelligence (AI) has come to the forefront of business leaders' minds with the ongoing stories and innovative capabilities of ChatGPT and the waitlist for its rival, Google Bard.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/28/making-the-most-out-of-generative-ai-in-your-enterprise/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/28/making-the-most-out-of-generative-ai-in-your-enterprise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 249,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/644a7a52c586aa5faa0d1575/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 781,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/28/making-the-most-out-of-generative-ai-in-your-enterprise/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/28/making-the-most-out-of-generative-ai-in-your-enterprise/amp/",
+      "publishedDateTime": "2023-04-28T04:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-04-28-aruba-banks-on-integrated-security-ai-naas-for-enterprise-growth.md",
+      "title": "Aruba banks on integrated security, AI, NaaS for enterprise growth",
+      "excerpt": "Aruba Networks execs talked about a number of core technologies they expect will dominate enterprise customer environments, and, clearly, integrated network/security, AI and network-as-a-service technologies will be at the heart of those developments.",
+      "sourceUrl": null,
+      "webUrl": "https://www.networkworld.com/article/3694870/aruba-banks-on-integrated-security-ai-naas-for-enterprise-growth.html",
+      "originalUrl": "https://www.networkworld.com/article/3694870/aruba-banks-on-integrated-security-ai-naas-for-enterprise-growth.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/06/23/10/group-of-executives_collaborate_board-room_board_mentor_advisory-board_colleagues_networking_by-alphaspirit-getty-images-2400x1600-100818573-large-100929428-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.networkworld.com/article/3694870/aruba-banks-on-integrated-security-ai-naas-for-enterprise-growth.amp.html",
+      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3694870/aruba-banks-on-integrated-security-ai-naas-for-enterprise-growth.amp.html",
+      "publishedDateTime": "2023-04-28T04:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Network World",
+        "domain": "networkworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-04-28-ai-adoption-versatility-and-how-companies-can-confront-skill-gaps.md",
+      "title": "AI Adoption, Versatility And How Companies Can Confront Skill Gaps",
+      "excerpt": "Data is the lifeblood of businesses today. Both data science and data analysis are essential tools for understanding the world around us. Data helps organizations make better decisions, understand customer’s needs,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/28/ai-adoption-versatility-and-how-can-companies-confront-skill-gaps/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/28/ai-adoption-versatility-and-how-can-companies-confront-skill-gaps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/644a7801230d12e6fdbfa396/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/28/ai-adoption-versatility-and-how-can-companies-confront-skill-gaps/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/28/ai-adoption-versatility-and-how-can-companies-confront-skill-gaps/amp/",
+      "publishedDateTime": "2023-04-28T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-28-built-world-ai-start-ups-lead-investments-overtake-fintech-and-marketing.md",
+      "title": "Built-world AI start-ups lead investments overtake FinTech and marketing",
+      "excerpt": "Generative AI models may attract the most attention in realms like marketing automation and financial technology. But a recent analysis by A/O PropTech reports that investments in built-world AI start-ups are growing faster both in terms of the volume and value of investments.",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/built-world-ai-start-ups-lead-investments-overtake-fintech-and-marketing",
+      "originalUrl": "https://diginomica.com/built-world-ai-start-ups-lead-investments-overtake-fintech-and-marketing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2022-11/Shutterstock_1068480284.png",
+          "width": 740,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/built-world-ai-start-ups-lead-investments-overtake-fintech-and-marketing?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/built-world-ai-start-ups-lead-investments-overtake-fintech-and-marketing?amp",
+      "publishedDateTime": "2023-04-28T03:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2023-04-28-new-electric-car-offers-worlds-first-facial-recognition-and-fingerprint-technology.md",
       "title": "New electric car offers world's first facial recognition and fingerprint technology",
       "excerpt": "The world's first application of facial recognition technology has been unveiled, with one electric car removing the need for a key altogether.",
@@ -196,6 +387,58 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-28-artificial-intelligence-ai-chip-market-share-by-2031.md",
+      "title": "Artificial Intelligence (AI) Chip Market Share by 2031",
+      "excerpt": "Chip market growth? Artificial Intelligence (AI) Chip Market Size is projected to Reach Multimillion USD by 2031, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2031. Browse Detailed TOC,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chip-market-share-by-2031-2023-04-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chip-market-share-by-2031-2023-04-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 259,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-27T19:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
@@ -458,7 +701,7 @@
       "originalUrl": "https://www.zdnet.com/article/boston-dynamics-robot-dog-can-answer-your-questions-now-thanks-to-chatgpt/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -563,7 +806,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/the-future-of-workplace-safety-data-privacy-and-ethical-ai-at-the-highest-level-1032269760",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1015,264 +1258,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-which-segments-computer-vision-system-market-are-anticipated-to-highest-cagr-by-2030.md",
-      "title": "Which Segments Computer Vision System Market Are Anticipated To Highest CAGR By 2030",
-      "excerpt": "New Analysis of Computer Vision System Market overview, spend analysis, imports, segmentation, key players, and",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/which-segments-computer-vision-system-market-are-anticipated-to-highest-cagr-by-2030-2023-04-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/which-segments-computer-vision-system-market-are-anticipated-to-highest-cagr-by-2030-2023-04-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T07:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-open-source-ray-24-upgrade-speeds-up-generative-ai-model-deployment.md",
-      "title": "Open-source Ray 2.4 upgrade speeds up generative AI model deployment",
-      "excerpt": "Ray, an ML technology for deploying and scaling AI workloads, released Ray 2.4 today, which specifically accelerates generative AI workloads.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/open-source-ray-2-4-upgrade-speeds-up-generative-ai-model-deployment/",
-      "originalUrl": "https://venturebeat.com/ai/open-source-ray-2-4-upgrade-speeds-up-generative-ai-model-deployment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/04/VB_Ray24_logo_1200x800_042723.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/open-source-ray-2-4-upgrade-speeds-up-generative-ai-model-deployment/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/open-source-ray-2-4-upgrade-speeds-up-generative-ai-model-deployment/amp/",
-      "publishedDateTime": "2023-04-27T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-could-artificial-intelligence-be-about-to-take-over-your-job.md",
-      "title": "Could artificial intelligence be about to take over your job?",
-      "excerpt": "Preliminary research published at the end of March claimed that up to 80% of the US workforce could see at least 10% of their tasks impacted",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/98471-could-artificial-intelligence-about-take-over-job.html",
-      "originalUrl": "https://www.techspot.com/news/98471-could-artificial-intelligence-about-take-over-job.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2023/04/2023-04-26-image-35.jpg",
-          "width": 4203,
-          "height": 2364,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-96-of-people-consider-ethical-and-responsible-ai-to-be-important.md",
-      "title": "96% Of People Consider Ethical And Responsible AI To Be Important",
-      "excerpt": "Undeniably, technology's ethical and responsible usage equates with a positive and sustainable future for the masses. With AI-powered technology playing a substantial role in our daily lives, it has become indispensable to consider its impact on society,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/garydrenik/2023/04/27/96-of-people-consider-ethical-and-responsible-ai-to-be-important/",
-      "originalUrl": "https://www.forbes.com/sites/garydrenik/2023/04/27/96-of-people-consider-ethical-and-responsible-ai-to-be-important/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/644996ddc91a2eb9d951f763/0x0.jpg?format=jpg&width=1200",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2023/04/27/96-of-people-consider-ethical-and-responsible-ai-to-be-important/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/04/27/96-of-people-consider-ethical-and-responsible-ai-to-be-important/amp/",
-      "publishedDateTime": "2023-04-27T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-can-artificial-intelligence-ever-achieve-societal-level-digital-trust.md",
-      "title": "Can Artificial Intelligence Ever Achieve Societal-Level Digital Trust?",
-      "excerpt": "Artificial intelligence (AI) has always been treated with suspicion, and the pace and volume of the concerns raised are reaching new highs. In itself, the concerns raised regarding the use of AI and the level to which it can replace previous humanly operated processes are a demonstration of the pace of technological advancement.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/27/can-artificial-intelligence-ever-achieve-societal-level-digital-trust/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/27/can-artificial-intelligence-ever-achieve-societal-level-digital-trust/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f3bdea7cf036822a957572d/0x0.jpg?format=jpg&crop=5700,3206,x0,y294,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/27/can-artificial-intelligence-ever-achieve-societal-level-digital-trust/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/27/can-artificial-intelligence-ever-achieve-societal-level-digital-trust/amp/",
-      "publishedDateTime": "2023-04-27T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

@@ -2,152 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2023-04-22-chatgpt-and-generative-ai-our-guide-to-2023s-most-talked-about-technology.md",
-      "title": "ChatGPT and Generative AI: Our Guide to 2023's Most Talked-About Technology",
-      "excerpt": "ChatGPT brought generative AI into the limelight when it hit 1 million users in five days. But how valid is the buzz around ChatGPT?",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/chatgpt-and-generative-ai-guide-to-most-talked-about-technology-2023-april",
-      "originalUrl": "https://www.businessinsider.com/chatgpt-and-generative-ai-guide-to-most-talked-about-technology-2023-april",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64403fa23f6f690018de9578?width=1200&format=jpeg",
-          "width": 470,
-          "height": 352,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/chatgpt-and-generative-ai-guide-to-most-talked-about-technology-2023-april?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-and-generative-ai-guide-to-most-talked-about-technology-2023-april?amp",
-      "publishedDateTime": "2023-04-21T11:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-ibm-and-texas-am-agrilife-provide-data-technology-and-expertise-to-farmers-in-need.md",
-      "title": "IBM and Texas A&M AgriLife provide data, technology and expertise to farmers in need",
-      "excerpt": "In Texas, 2022 was one of the driest years on record. With failed crops, low yields for farmers and diminished grazing for cattle, the Texas Department of Agriculture identified climate change as a potential threat to the state&#8217;s food supply. Smallholder farmers, particularly those in arid and",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/ibm-and-texas-am-agrilife-provide-data-technology-and-expertise-to-farmers-in-need/",
-      "originalUrl": "https://www.ibm.com/blog/ibm-and-texas-am-agrilife-provide-data-technology-and-expertise-to-farmers-in-need/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/04/IBM-and-Texas-AM-AgriLife-provide-data-technology-and-expertise-to-farmers-in-need-630x330.jpg",
-          "width": 630,
-          "height": 330,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-21T11:25:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-22-hurtling-into-the-future-the-potential-and-thorny-ethics-of-generative-ai-in-healthcare.md",
-      "title": "‘Hurtling into the future’: The potential and thorny ethics of generative AI in healthcare",
-      "excerpt": "Generative AI has roared onto the tech scene through the large language model backing ChatGPT. Companies are already deploying the algorithms in hospitals. Should healthcare be taking a pause?",
-      "sourceUrl": null,
-      "webUrl": "https://www.healthcaredive.com/news/generative-AI-healthcare-gpt-potential/648104/",
-      "originalUrl": "https://www.healthcaredive.com/news/generative-AI-healthcare-gpt-potential/648104/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.healthcaredive.com/imgproxy/8M_A439q-vnByLYslrpRv46QwDEdqq2VaHH_J_yrQMY/crop:1810:1022/g:nowe:874:1456/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0lNR184NjYwLmpwZw.jpg",
-          "width": 770,
-          "height": 435,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-21T10:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Healthcare Dive",
-        "domain": "healthcaredive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2023-04-22-deepmind-melds-with-googles-brain-team-to-accelerate-ai-growth.md",
       "title": "DeepMind melds with Google's Brain Team to accelerate AI growth",
       "excerpt": "Google appears determined to ramp up its AI efforts, despite recent concerns from employees on the company's execution. Here's its latest move.",
@@ -253,58 +107,6 @@
       ]
     },
     {
-      "path": "_news/2023-04-21-tomahawk-robotics-awarded-flexcsr-flexible-cyber-secure-radio-production-contract-from-the-united-states-navy.md",
-      "title": "Tomahawk Robotics Awarded FlexCSR (Flexible Cyber Secure Radio) Production Contract from the United States Navy",
-      "excerpt": "Tomahawk Robotics, the leading innovator of robotic common control solutions, was awarded a $55.0M full-rate production contract for the Flexible Cyber Secure Radio (FlexCSR) program by the United States Navy.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/tomahawk-robotics-awarded-flexcsr-flexible-cyber-secure-radio-production-contract-from-the-united-states-navy-1032250123",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/tomahawk-robotics-awarded-flexcsr-flexible-cyber-secure-radio-production-contract-from-the-united-states-navy-1032250123",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2060244/Tomahawk_Robotics_FlexCSR.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-21T08:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-21-how-ibm-is-innovating-for-a-more-sustainable-future.md",
       "title": "How IBM is innovating for a more sustainable future",
       "excerpt": "IBM has been building out an ecosystem of technologies and partnerships to help clients optimize their core operations across assets, infrastructure and supply chains.\nThe post How IBM is innovating for a more sustainable future appeared first on IBM Blog.\n",
@@ -406,6 +208,49 @@
         "AI in Autos",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-04-21-tomahawk-robotics-awarded-flexcsr-flexible-cyber-secure-radio-production-contract-from-the-united-states-navy.md",
+      "title": "Tomahawk Robotics Awarded FlexCSR (Flexible Cyber Secure Radio) Production Contract from the United States Navy",
+      "excerpt": "Tomahawk Robotics, the leading innovator of robotic common control solutions, was awarded a $55.0M full-rate production contract for the Flexible Cyber Secure Radio",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-journal.com/tomahawk-robotics-awarded-flexcsr-flexible-cyber-secure-radio-production-contract-from-the-united-states-navy/article_21c744bd-4025-5490-a677-917f44b0d3bd.html",
+      "originalUrl": "https://www.news-journal.com/tomahawk-robotics-awarded-flexcsr-flexible-cyber-secure-radio-production-contract-from-the-united-states-navy/article_21c744bd-4025-5490-a677-917f44b0d3bd.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/2/c3/2c35cd3b-7a32-5bc7-adf6-564bbf419b6a/64429a7958164.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-21T07:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Longview News-Journal",
+        "domain": "news-journal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -1246,6 +1091,162 @@
         "Computer Vision",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-04-21-cxl-for-accelerated-ai-workloads.md",
+      "title": "CXL For Accelerated AI Workloads",
+      "excerpt": "This article will focus on two recent product announcements using CXL for accelerated artificial intelligence (AI) workloads. These include the TrainingCXL PCIe device from Korean-bawsed Panmesia and a high-performance CXL switch chip from Enfabrica that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tomcoughlin/2023/04/20/cxl-for-accelerated-ai-workloads/",
+      "originalUrl": "https://www.forbes.com/sites/tomcoughlin/2023/04/20/cxl-for-accelerated-ai-workloads/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6441c2efe474ff3fce23907c/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomcoughlin/2023/04/20/cxl-for-accelerated-ai-workloads/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomcoughlin/2023/04/20/cxl-for-accelerated-ai-workloads/amp/",
+      "publishedDateTime": "2023-04-20T16:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-21-how-prompt-injection-can-hijack-autonomous-ai-agents-like-auto-gpt.md",
+      "title": "How prompt injection can hijack autonomous AI agents like Auto-GPT",
+      "excerpt": "Attackers can link GPT-4 and other large language models to AI agents like Auto-GPT to conduct automated prompt injection attacks.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/security/how-prompt-injection-can-hijack-autonomous-ai-agents-like-auto-gpt/",
+      "originalUrl": "https://venturebeat.com/security/how-prompt-injection-can-hijack-autonomous-ai-agents-like-auto-gpt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/04/VB_security_ai_breach_broken_bing_dalle_1200x800_042023.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/security/how-prompt-injection-can-hijack-autonomous-ai-agents-like-auto-gpt/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/how-prompt-injection-can-hijack-autonomous-ai-agents-like-auto-gpt/amp/",
+      "publishedDateTime": "2023-04-20T16:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-21-googlers-say-bard-ai-is-worse-than-useless-ethics-concerns-were-ignored.md",
+      "title": "Googlers say Bard AI is “worse than useless,” ethics concerns were ignored",
+      "excerpt": "From the outside, Google Bard looks like a rushed product to try to compete with ChatGPT, and some Google employees share those sentiments. A new report from Bloomberg interviews 18 current and former workers and came away with a pile of damning commentary and concerns about AI ethics teams that were \"disempowered and demoralized\" so Google could get Bard out the door.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/gadgets/2023/04/googlers-say-bard-ai-is-worse-than-useless-ethics-concerns-were-ignored/",
+      "originalUrl": "https://arstechnica.com/gadgets/2023/04/googlers-say-bard-ai-is-worse-than-useless-ethics-concerns-were-ignored/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2017/05/google-800x523.jpg",
+          "width": 760,
+          "height": 388,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/gadgets/2023/04/googlers-say-bard-ai-is-worse-than-useless-ethics-concerns-were-ignored/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/04/googlers-say-bard-ai-is-worse-than-useless-ethics-concerns-were-ignored/amp/",
+      "publishedDateTime": "2023-04-20T14:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
       ]
     }
   ],

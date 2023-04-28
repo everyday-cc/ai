@@ -24,17 +24,6 @@ images:
     height: 675
     isCached: true
 
-related:
-  - title: "Generative AI: A paradigm shift in enterprise and startup opportunities"
-    excerpt: "As news cycles eclipse one another about these advancements, it may seem like generative AI sprang out of nowhere for many business and executive leaders. Still, the reality is that these new architectures are built on approaches that have evolved over the past few decades."
-    publishedDateTime: 2023-04-24T19:52:00Z
-    webUrl: "https://www.cio.com/article/474720/generative-ai-a-paradigm-shift-in-enterprise-and-startup-opportunities.html"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 19
-
 secured: "UMuj98kJtPbxCWfJEKWssB1jZYjNhHdPW6x/inbtchlHC0JwAZSN87V9gixa+mw/rGWtrfw4BrFqgATFkKLIKvEugn1KTD3mic63WXlhqwx9zQiNRPCuEQ9sPw0veC+bMkYtHfcBOnTaX5ADBl2xHY3wVUwtyh97x+JLHbC3Z2kRnUv5E2XZ2U1gWCTpiBRU5TNH71V+MnVV3wOq3RbEOR5pJYdQmcqUJhaqOBbotuDEqs3LLmnZyyfsYKvo0WIMx0AGAyXp3ov9VTSVU5tVXxTk9UaRA8X54B+Q3EOFlRyMZfCvjswk1YdEs+CgaAcmADVLoG2QwCTdqKMJ+/csA5LPl3cytGzwfuriCQswPtw=;CFxGPVbZiv8fVPAc4hsd7Q=="
 ---
 

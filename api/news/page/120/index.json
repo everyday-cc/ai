@@ -2,152 +2,6 @@
   "page": 120,
   "value": [
     {
-      "path": "_news/2023-01-19-nick-cave-calls-ai-song-written-in-his-style-grotesque-mockery.md",
-      "title": "Nick Cave Calls AI Song Written in His Style 'Grotesque Mockery'",
-      "excerpt": "Tools like ChatGPT can never experience the complex human struggles that lead to emotionally resonant songs, the singer-songwriter says.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/culture/entertainment/nick-cave-calls-ai-song-written-in-his-style-grotesque-mockery/",
-      "originalUrl": "https://www.cnet.com/culture/entertainment/nick-cave-calls-ai-song-written-in-his-style-grotesque-mockery/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/defe08f4f2ceaf8687284194a29636cd016dd62d/hub/2023/01/17/8dbff024-4f5a-4e19-9655-84dd5a112a50/1246226412.jpg?auto=webp",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/nick-cave-calls-ai-song-written-in-his-style-grotesque-mockery/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nick-cave-calls-ai-song-written-in-his-style-grotesque-mockery/",
-      "publishedDateTime": "2023-01-18T10:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-19-this-ai-writing-app-now-fixes-your-lousy-spelling-mistakes.md",
-      "title": "This AI writing app now fixes your lousy spelling mistakes",
-      "excerpt": "Artificial intelligence is being used to cast its all-seeing eye over the written word with DeepL’s latest free writing app Write. Pitched as a rival to Grammarly, the AI writing tool is able to correct spelling and grammar mistakes,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/this-ai-writing-app-now-fixes-your-lousy-spelling-mistakes",
-      "originalUrl": "https://www.techradar.com/news/this-ai-writing-app-now-fixes-your-lousy-spelling-mistakes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/fsh9XUg46KKeaptBBcvaqb-1200-80.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-18T09:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-19-tesla-engineer-testifies-2016-self-driving-video-was-staged.md",
-      "title": "Tesla engineer testifies 2016 self-driving video was staged",
-      "excerpt": "A 2016 video that purported to show the self-driving capabilities of a Tesla car was staged, a senior engineer testified.",
-      "sourceUrl": null,
-      "webUrl": "https://www.stltoday.com/news/national/tesla-engineer-testifies-2016-self-driving-video-was-staged/article_37c9fd77-0ec1-553b-bc13-e3827518db0f.html",
-      "originalUrl": "https://www.stltoday.com/news/national/tesla-engineer-testifies-2016-self-driving-video-was-staged/article_37c9fd77-0ec1-553b-bc13-e3827518db0f.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/3/7c/37c9fd77-0ec1-553b-bc13-e3827518db0f/63c8200c3b33e.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-18T08:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "St. Louis Post-Dispatch",
-        "domain": "stltoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-01-19-galaxy-s23-ultras-secret-weapon-could-be-this-samsung-camera-chip.md",
       "title": "Galaxy S23 Ultra's Secret Weapon Could Be This Samsung Camera Chip",
       "excerpt": "Exclusive: Samsung's Isocell HP2 image sensor can shoot photos at 12.5, 50 or even 200 megapixels thanks to more efficient light-gathering technology.",
@@ -1175,6 +1029,146 @@
       ],
       "topics": [
         "AI in Finance",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-18-kfintech-drives-digital-transformation-and-innovation-in-the-financial-services-industry-with-aws.md",
+      "title": "KFintech Drives Digital Transformation and Innovation in the Financial Services Industry with AWS",
+      "excerpt": "Leveraging the depth and breadth of AWS capabilities, KFintech helps their clients digitally transform, providing the best business, program, and portfolio strategies to build the next generation of solutions in the capital market.",
+      "sourceUrl": null,
+      "webUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1302007&cat=PR News Wire",
+      "originalUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1302007&cat=PR News Wire",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-17T21:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Webindia 123",
+        "domain": "webindia123.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-18-tesla-video-promoting-self-driving-was-staged-engineer-testifies.md",
+      "title": "Tesla video promoting self-driving was staged, engineer testifies",
+      "excerpt": "REUTERS/Evgenia Novozhenina/File Photo Jan 17 (Reuters) - A 2016 video that Tesla (TSLA.O) used to promote its self-driving technology ... Technologycategory China's Baidu to launch ChatGPT ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/tesla-video-promoting-self-driving-was-staged-engineer-testifies-2023-01-17/",
+      "originalUrl": "https://www.reuters.com/technology/tesla-video-promoting-self-driving-was-staged-engineer-testifies-2023-01-17/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/3IQpcCuKtmLZDMbi4XPgVhduRYk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/INZHKPTCXZPSLLZHEH43ULAMQ4.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-17T21:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-18-artificial-intelligence-ai-in-medical-market-reliable-business-data-analysis-and-forecast-by-2029-with-top-countries-data.md",
+      "title": "Artificial Intelligence (AI) in Medical Market : Reliable Business Data Analysis and Forecast by 2029 with Top Countries Data",
+      "excerpt": "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. A recent",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-market-reliable-business-data-analysis-and-forecast-by-2029-with-top-countries-data-2023-01-18",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-market-reliable-business-data-analysis-and-forecast-by-2029-with-top-countries-data-2023-01-18",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-17T20:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI",
         "AWS AI"
       ]

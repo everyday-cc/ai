@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Apple, TikTok jump aboard the generative AI train; Boston Dynamics’ Spot gets ChatGPT"
-    excerpt: "Apple and TikTok have jumped on the AI bandwagon. Also, even more interestingly, engineers are beginning to integrate ChatGPT into Boston Dynamics' Spot robotic dog."
-    publishedDateTime: 2023-04-27T11:47:00Z
-    webUrl: "https://indianexpress.com/article/technology/tech-news-technology/apple-tiktok-jump-aboard-the-generative-ai-train-boston-dynamics-spot-gets-chatgpt/"
-    ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/apple-tiktok-jump-aboard-the-generative-ai-train-boston-dynamics-spot-gets-chatgpt/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/apple-tiktok-jump-aboard-the-generative-ai-train-boston-dynamics-spot-gets-chatgpt/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 52
-    images:
-      - url: "https://images.indianexpress.com/2023/04/tiktok-featured-reuters.jpg?resize=600,334"
-        width: 600
-        height: 334
-        isCached: true
 
 secured: "KHBkiikB8BHZSA13uB2PjoVDPJ9R+gOggaaCJEEiWMRECoVCFpA7Da30bhMRLtiAM/ohuRTtMOaVY9/fgq/ZZCkIxPO96soRg+c9e1bidxvZR4BrLIJ+rD2nXHdrrIuPjInWHzSnPhOxfmKOSRgZTQ2pE1+A4xz7t6MD8/s0hdRz8+sG7r1p8FNGonSdbN72DaeKYazT5x83GfmHXWlTphFo4vPLW5k42XpNsXmxuea6SksWiOdrPkaAjR/MWra3HfzUlLN4cjZTn9vc0SaaFjMxfVgYuiP5wA7B81jTAHMF696VkHP2ToTLQBuRKocdbM9fR3aqh/Flwybx4+1WZOZJvEGhgFnM4HeywbxTrB8Pz96FQKyLmmnxRGxO2a3Jr7vpVG4Eb4XMOTCYxii8EdHUx95BQAHW3NocSTwosTjqzLLGSlnJEO4i8KCKdstiongo3rbnuXLabNwYt0X1SMTAu/A73PijNWyNTpTmwf+xhxPqf4gbMpTxl7W0Ezm4jCAwxtuBSlNtUsbL8875ZA==;r+SiEBBAhQ/YjHVIhcZsyQ=="
 ---

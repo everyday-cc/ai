@@ -27,9 +27,9 @@ images:
 
 related:
   - title: "Google Announces Machine Learning Powered API Abuse Detection"
-    excerpt: "Google recently announced an API abuse detection dashboard powered by machine learning algorithms. Machine learning-powered abuse-detection dashboards are available in Advanced API Security, a feature of Apigee API management that enables customers to quickly detect API security misconfigurations,"
+    excerpt: "Google strengthened its API Management (ApiGee) service in response to the increase in cyberattacks and associated losses. According to IBM’s 2022 Cost of a Data Breach Report mentioned in the blog post by Hershkovitz, the average cost of a data breach is $4.35 million."
     publishedDateTime: 2023-04-28T09:20:00Z
-    webUrl: "https://www.infoq.com/news/2023/04/google-cloud-api-abuse-detection/"
+    webUrl: "https://www.infoq.com/news/2023/04/google-cloud-api-abuse-detection/?topicPageSponsorship=3787757c-9413-40d7-98ab-def617205a32"
     type: article
     provider:
       name: InfoQ

@@ -41,6 +41,22 @@ related:
         width: 640
         height: 259
         isCached: true
+  - title: "Researchers use AI to generate novel proteins that meet structural design targets"
+    excerpt: "MIT researchers are using artificial intelligence to design new proteins that go beyond those found in nature.They developed machine-learning algorithms that can generate proteins with specific structural features,"
+    publishedDateTime: 2023-04-28T10:04:00Z
+    webUrl: "https://indiaeducationdiary.in/researchers-use-ai-to-generate-novel-proteins-that-meet-structural-design-targets/"
+    ampWebUrl: "https://indiaeducationdiary.in/researchers-use-ai-to-generate-novel-proteins-that-meet-structural-design-targets/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/researchers-use-ai-to-generate-novel-proteins-that-meet-structural-design-targets/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 54
+    images:
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2023/04/MIT-genprotein-01-press_1.jpg"
+        width: 900
+        height: 600
+        isCached: true
 
 secured: "PeT3FZFz79YnDvAztoa1vJ5AVdGNApniWSARVLc/lUQuuD1ASYY0P2sw5FanULgot6qr7ymLL0G9xdEtomuZVnM/+GGcPFSZt4J2skKury6QUCQI+/bVorNwi3EE7sIGcRQwvEatgU57AHC0LIdcLICP+RukA7YSGIF2zdzPdXvpbw+HN71FfRvDQNsEU0XHiG+eVO91XYq5ulQIU1M/G/QFjRNdaaXM+DZwfKBQA7dms6I8NtFn1qyDpLB5DttY7e2eV2fw5Hic4KM7l16UidbrOFqlDBTkoWtPxl/Tuy3r4K0CFPKMg+uHWSby+JkOtFpv9MzZZuePYWgS4FBPyCMvmvNFVQj03YjBk9q1Xuc=;toWNNpxV2moAOF+mrYyMuA=="
 ---

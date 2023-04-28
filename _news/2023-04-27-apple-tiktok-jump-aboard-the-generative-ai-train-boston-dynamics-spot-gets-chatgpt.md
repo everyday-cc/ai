@@ -27,52 +27,76 @@ images:
     isCached: true
 
 related:
-  - title: "Boston Dynamics robot dog can answer your questions now, thanks to ChatGPT"
-    excerpt: "A new video shared by AI expert Santiago Valdarrama, showcases Boston Dynamics' robot dog, Spot, performing a few new tricks that involve artificial intelligence. In the almost two minute video, Spot is able to answer natural language questions such as \"Are you standing?\" and \"What is your battery level?\"."
-    publishedDateTime: 2023-04-27T17:37:00Z
-    webUrl: "https://www.zdnet.com/article/boston-dynamics-robot-dog-can-answer-your-questions-now-thanks-to-chatgpt/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/boston-dynamics-robot-dog-can-answer-your-questions-now-thanks-to-chatgpt/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/boston-dynamics-robot-dog-can-answer-your-questions-now-thanks-to-chatgpt/"
+  - title: "TikTok is testing an in-app tool that creates generative AI avatars"
+    excerpt: "TikTok is experimenting with a new tool that allows users to create generative AI avatars, the company confirmed to TechCrunch"
+    publishedDateTime: 2023-04-26T16:07:00Z
+    webUrl: "https://techcrunch.com/2023/04/26/tiktok-is-testing-an-in-app-tool-that-creates-generative-ai-avatars/"
+    ampWebUrl: "https://techcrunch.com/2023/04/26/tiktok-is-testing-an-in-app-tool-that-creates-generative-ai-avatars/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/04/26/tiktok-is-testing-an-in-app-tool-that-creates-generative-ai-avatars/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
+      name: TechCrunch
+      domain: techcrunch.com
     quality: 87
     images:
-      - url: "https://www.zdnet.com/a/img/resize/67420e49493ab2b30aaafc15a8e1800befe0ca8f/2023/04/27/9f9be49a-d685-4a34-8801-0023f95fbbcc/screenshot-2023-04-27-at-10-10-49-am.png?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1248373545.jpg?resize=1200,788"
         width: 1200
-        height: 675
+        height: 788
         isCached: true
-  - title: "This AI chatbot can sum up any PDF and answer any question you have about it"
-    excerpt: "ChatPDF runs on OpenAI's GPT 3.5 large language model and can answer any question you have about the PDF you upload. The chatbot can even give you a full summary of the PDF without you having to read it."
-    publishedDateTime: 2023-04-26T13:55:00Z
-    webUrl: "https://www.zdnet.com/article/this-ai-chatbot-can-sum-up-any-pdf-and-any-question-you-have-about-it/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/this-ai-chatbot-can-sum-up-any-pdf-and-any-question-you-have-about-it/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-ai-chatbot-can-sum-up-any-pdf-and-any-question-you-have-about-it/"
+  - title: "AI-Generated Songs That Sound Like Kanye And Drake Are Going Viral On TikTok"
+    excerpt: "Generative AI is rippling through the creative industries, sparking concern in working artists, potential copyright breaches, and a new way to make memes."
+    publishedDateTime: 2023-04-24T14:07:00Z
+    webUrl: "https://www.forbes.com/sites/danidiplacido/2023/04/24/ai-generated-songs-that-sound-like-kanye-and-drake-are-going-viral-on-tiktok/"
+    ampWebUrl: "https://www.forbes.com/sites/danidiplacido/2023/04/24/ai-generated-songs-that-sound-like-kanye-and-drake-are-going-viral-on-tiktok/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danidiplacido/2023/04/24/ai-generated-songs-that-sound-like-kanye-and-drake-are-going-viral-on-tiktok/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 84
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64468be3dc046c3305a3babe/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 854
+        isCached: true
+  - title: "TikTok Adds AI Avatar Generation Feature"
+    excerpt: "Upload anywhere from 3 to 10 selfies and let TikTok generate up to 30 avatars in 5 different styles for you to choose from."
+    publishedDateTime: 2023-04-26T13:46:00Z
+    webUrl: "https://gizmodo.com/tiktok-avatar-ai-art-lensa-1850377003"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 47
+  - title: "Rumored: AI-generated avatars are in the works at TikTok"
+    excerpt: "According to The Verge, TikTok says its AI avatar generator is only available in select regions and is still a work in progress. It's still being determined when this feature will be available to the public if it will require a subscription, and what technology is behind the generator."
+    publishedDateTime: 2023-04-27T13:25:00Z
+    webUrl: "https://www.zdnet.com/article/rumored-ai-generated-avatars-are-in-the-works-at-tiktok/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 84
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/66cd397bf62d97a55b9d4229b481942dce2176ab/2023/04/25/78be6954-5e79-487a-b681-311730d7bccf/screenshot-2023-04-25-at-4-26-20-pm.png?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Oh Great, They Put ChatGPT Into a Boston Dynamics Robot Dog"
-    excerpt: "As if robot dogs weren't creepy enough, at least one is now equipped with OpenAI's ChatGPT and can speak aloud."
-    publishedDateTime: 2023-04-27T20:36:00Z
-    webUrl: "https://futurism.com/the-byte/chatgpt-boston-dynamics-robot-dog"
+    quality: 47
+  - title: "Artificial Intelligence Can Create, But Lacks Creativity, Say Critics"
+    excerpt: "Artificial intelligence, or AI, could potentially transform arts and entertainment, from music to movies, but it is also raising concerns. Is AI a creative tool or a threat to creators and artists? VOA’s Mike O’Sullivan examines the question."
+    publishedDateTime: 2023-04-27T01:26:00Z
+    webUrl: "https://www.voanews.com/a/artificial-intelligence-can-create-but-lacks-creativity-say-critics/7068177.html"
+    ampWebUrl: "https://www.voanews.com/amp/artificial-intelligence-can-create-but-lacks-creativity-say-critics/7068177.html"
+    cdnAmpWebUrl: "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/amp/artificial-intelligence-can-create-but-lacks-creativity-say-critics/7068177.html"
     type: article
     provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 39
-    images:
-      - url: "https://wp-assets.futurism.com/2023/04/chatgpt-boston-dynamics-robot-dog.jpg"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Voice of America
+      domain: voanews.com
+    quality: 37
+  - title: "Opinion: Generative AI is a powerful tool that requires a human touch"
+    excerpt: "Although AI models are constantly taking in new information, that information takes the form of new symbolic data without any context."
+    publishedDateTime: 2023-04-24T13:00:00Z
+    webUrl: "https://www.bizjournals.com/seattle/news/2023/04/24/intrigue-and-apprehension-around-generative-ai.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "q8tykWmX+IPIlY3HEIyo7LF0ZDpT4+CAmtQWa79MuH6rRsKWwYzVJBU7JXG6cwNzPdP4Ly3SJORmuS/lRaT2uzThTBEG4I0lHAjm9Myjuhd3tunctO4bhd0e1plFBoNHowaw5j5veDu0PGngbz0L4XtnW2hz1w2OASukrEgwLcxEIfuaaJd2e7guoboxP4fLKRsx6Ck4K3To/av6KGodWi8xMWsPwZ8xM309Pb/padvFZTp2b8aVaxRgQNRQG9iGxGH04AYCAnbkyqfQm+aP0GhFzjyAHL2OEEuAJuCqNf+96G12IbwY/Tm4kXojp1cB3xyL6HQcH1B41Pu5JgBGeGFTVREgd5HYCfEhcB4kn9E=;w0dakV0r5nuuv7H8GYBFhQ=="
 ---

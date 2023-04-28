@@ -2,21 +2,21 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2023-04-25-buy-ark-genomic-revolution-for-a-piece-of-the-ai-paradigm-shift.md",
-      "title": "Buy Ark Genomic Revolution For A Piece Of The AI Paradigm Shift",
-      "excerpt": "AI is a generational opportunity for investors. Elon Musk and Steve Wozniak, the co-founder of Apple (AAPL), sounded the alarm last week about the perils of AI experiments. Their Future of Life petition is nearing 20,",
+      "path": "_news/2023-04-25-how-students-use-ai-to-design-solutions-for-their-community.md",
+      "title": "How Students Use AI to Design Solutions for Their Community",
+      "excerpt": "Youth voice is vital in the development and implementation of artificial intelligence (AI) tools. Youth today are significant users of technology and",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jonmarkman/2023/04/24/buy-ark-genomic-revolution-for-a-piece-of-the-ai-paradigm-shift/",
-      "originalUrl": "https://www.forbes.com/sites/jonmarkman/2023/04/24/buy-ark-genomic-revolution-for-a-piece-of-the-ai-paradigm-shift/",
+      "webUrl": "https://www.edsurge.com/news/2023-04-24-how-students-use-ai-to-design-solutions-for-their-community",
+      "originalUrl": "https://www.edsurge.com/news/2023-04-24-how-students-use-ai-to-design-solutions-for-their-community",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6446b9767bd874859ca3babc/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 755,
+          "url": "https://edsurge.imgix.net/uploads/post/image/15302/16smallcropped-1682083494.jpg?auto=compress%2Cformat&w=640&h=259&fit=crop",
+          "width": 640,
+          "height": 259,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,64 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jonmarkman/2023/04/24/buy-ark-genomic-revolution-for-a-piece-of-the-ai-paradigm-shift/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonmarkman/2023/04/24/buy-ark-genomic-revolution-for-a-piece-of-the-ai-paradigm-shift/amp/",
-      "publishedDateTime": "2023-04-24T10:34:00-07:00",
+      "ampWebUrl": "https://www.edsurge.com/amp/news/2023-04-24-how-students-use-ai-to-design-solutions-for-their-community",
+      "cdnAmpWebUrl": "https://www-edsurge-com.cdn.ampproject.org/c/s/www.edsurge.com/amp/news/2023-04-24-how-students-use-ai-to-design-solutions-for-their-community",
+      "publishedDateTime": "2023-04-24T10:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-young-social-media-users-help-train-machine-learning-program-to-flag-sexual-conversations.md",
-      "title": "Young social media users help train machine learning program to flag sexual conversations",
-      "excerpt": "In a first-of-its-kind effort, social media researchers from Drexel University, Vanderbilt University, Georgia Institute of Technology and Boston University are turning to young social media users to help build a machine learning program that can spot unwanted sexual advances on Instagram.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-04-young-social-media-users-machine.html",
-      "originalUrl": "https://techxplore.com/news/2023-04-young-social-media-users-machine.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/sliding-out-of-my-dms.jpg",
-          "width": 1655,
-          "height": 1379,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-04-young-social-media-users-machine.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-04-young-social-media-users-machine.amp",
-      "publishedDateTime": "2023-04-24T10:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
+        "name": "EdSurge",
+        "domain": "edsurge.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -91,7 +40,7 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -396,7 +345,7 @@
       "originalUrl": "https://www.pharmaceutical-technology.com/sponsored/how-ai-automation-and-machine-learning-are-upgrading-clinical-trials/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -481,57 +430,6 @@
         "Natural Language Processing",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-04-24-ai-generated-songs-that-sound-like-kanye-and-drake-are-going-viral-on-tiktok.md",
-      "title": "AI-Generated Songs That Sound Like Kanye And Drake Are Going Viral On TikTok",
-      "excerpt": "Generative AI is rippling through the creative industries, sparking concern in working artists, potential copyright breaches, and a new way to make memes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/danidiplacido/2023/04/24/ai-generated-songs-that-sound-like-kanye-and-drake-are-going-viral-on-tiktok/",
-      "originalUrl": "https://www.forbes.com/sites/danidiplacido/2023/04/24/ai-generated-songs-that-sound-like-kanye-and-drake-are-going-viral-on-tiktok/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64468be3dc046c3305a3babe/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 854,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/danidiplacido/2023/04/24/ai-generated-songs-that-sound-like-kanye-and-drake-are-going-viral-on-tiktok/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danidiplacido/2023/04/24/ai-generated-songs-that-sound-like-kanye-and-drake-are-going-viral-on-tiktok/amp/",
-      "publishedDateTime": "2023-04-24T07:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {
@@ -769,7 +667,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/04/24/5-crucial-components-of-an-ai-company/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1217,6 +1115,111 @@
         "Microsoft AI",
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-04-24-zoop-teams-with-humansai-to-translate-celebrity-talk-into-new-languages-for-fans-worldwide.md",
+      "title": "Zoop teams with Humans.ai to translate celebrity talk into new languages for fans worldwide",
+      "excerpt": "Zoop, which connects fans with their favorite celebrities and creators, has partnered with AI startup Humans.ai to break down language barriers.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/zoop-teams-with-humans-ai-to-translate-celebrity-talk-into-new-languages-for-fans-worldwide/",
+      "originalUrl": "https://venturebeat.com/ai/zoop-teams-with-humans-ai-to-translate-celebrity-talk-into-new-languages-for-fans-worldwide/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/04/zoop.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 681,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/zoop-teams-with-humans-ai-to-translate-celebrity-talk-into-new-languages-for-fans-worldwide/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/zoop-teams-with-humans-ai-to-translate-celebrity-talk-into-new-languages-for-fans-worldwide/amp/",
+      "publishedDateTime": "2023-04-24T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-24-natural-language-processing-nlp-in-healthcare-market-growth-by-2031.md",
+      "title": "Natural Language Processing (NLP) in Healthcare Market Growth by 2031",
+      "excerpt": "The latest market research report on the Global \"Natural Language Processing (NLP) in Healthcare Market\" is segmented",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-market-growth-by-2031-2023-04-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-market-growth-by-2031-2023-04-24",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 291,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-24T00:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

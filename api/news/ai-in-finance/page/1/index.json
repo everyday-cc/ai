@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-04-28-built-world-ai-start-ups-lead-investments-overtake-fintech-and-marketing.md",
+      "title": "Built-world AI start-ups lead investments overtake FinTech and marketing",
+      "excerpt": "Generative AI models may attract the most attention in realms like marketing automation and financial technology. But a recent analysis by A/O PropTech reports that investments in built-world AI start-ups are growing faster both in terms of the volume and value of investments.",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/built-world-ai-start-ups-lead-investments-overtake-fintech-and-marketing",
+      "originalUrl": "https://diginomica.com/built-world-ai-start-ups-lead-investments-overtake-fintech-and-marketing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2022-11/Shutterstock_1068480284.png",
+          "width": 740,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/built-world-ai-start-ups-lead-investments-overtake-fintech-and-marketing?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/built-world-ai-start-ups-lead-investments-overtake-fintech-and-marketing?amp",
+      "publishedDateTime": "2023-04-28T03:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2023-04-27-muslims-come-into-the-frame-in-southeast-asias-fintech-boom.md",
       "title": "Muslims come into the frame in Southeast Asia’s fintech boom",
       "excerpt": "who was a corporate lawyer before she became a shariah fintech specialist. Right now, when an instrument comes from a conventional financial institution, PayHalal feeds it into its AI-based non-shariah compliance screening tool. The tool then suggests ...",
@@ -10,7 +54,7 @@
       "originalUrl": "https://techcrunch.com/2023/04/27/muslims-come-into-the-frame-in-southeast-asias-fintech-boom/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -1251,49 +1295,6 @@
         "name": "Financial IT",
         "domain": "financialit.net",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-the-7-most-promising-fintech-stocks-to-buy-for-april-2023.md",
-      "title": "The 7 Most Promising Fintech Stocks to Buy for April 2023",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips As a hotbed for innovation, top fintech stocks to buy have disrupted",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/the-7-most-promising-fintech-stocks-to-buy-for-april-2023-1032214911",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/the-7-most-promising-fintech-stocks-to-buy-for-april-2023-1032214911",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-04T12:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

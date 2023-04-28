@@ -42,21 +42,19 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Manufacturers hope for AI boost in factories"
-    excerpt: "Manufacturers are hoping for the artificial intelligence revolution to reach their factories, envisaging robots being used to repair complex machinery."
-    publishedDateTime: 2023-04-23T18:01:00Z
-    webUrl: "https://techxplore.com/news/2023-04-ai-boost-factories.html"
-    ampWebUrl: "https://techxplore.com/news/2023-04-ai-boost-factories.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-04-ai-boost-factories.amp"
+  - title: "How The AI Revolution Is Liberating Workers from the Office"
+    excerpt: "With the advent of generative AI like ChatGPT, we are on the cusp of realizing the full potential of remote and hybrid work by reducing — while not eliminating — the benefits of office visits."
+    publishedDateTime: 2023-04-24T21:00:00Z
+    webUrl: "https://www.entrepreneur.com/growing-a-business/how-the-ai-revolution-is-liberating-workers-from-the-office/450169"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 59
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/manufacturers-see-pote.jpg"
-        width: 1024
-        height: 680
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1682348563-GettyImages-1369567912.jpg"
+        width: 2000
+        height: 1333
         isCached: true
   - title: "Manufacturers hope for artificial intelligence boost in factories"
     excerpt: "Manufacturing firms are keen on using AI to automate the repair of complex machinery, thereby increasing efficacy and solving technical issues. This development was showcased in Germany's industrial Home Fair,"

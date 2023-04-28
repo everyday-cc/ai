@@ -35,38 +35,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "This app uses generative AI to turn your iPhone videos into new content"
-    excerpt: "Runway's video-to-video technology, called Gen-1, launched in February and has been available for use on desktop. The app version streamlines the process and makes it easier to generate new videos than on the desktop. Gen-2, Runway's text-to-video technology, is also teased on the app, with a tag that says \"coming soon\"."
-    publishedDateTime: 2023-04-27T11:38:00Z
-    webUrl: "https://www.zdnet.com/article/this-app-uses-generative-ai-to-turn-your-iphone-videos-into-new-content/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/this-app-uses-generative-ai-to-turn-your-iphone-videos-into-new-content/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-app-uses-generative-ai-to-turn-your-iphone-videos-into-new-content/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/f2e7689e65b793bb53a7c9a129d730745b5144a5/2023/04/26/0f3ecdaa-d6c7-4b1c-a537-fe7bc54f6b02/screenshot-2023-04-26-at-4-13-34-pm.png?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Yellow AI launches dynamic automation platform powered by generative AI for enterprises"
-    excerpt: "Yellow AI today launched its Dynamic Automation Platform (DAP) to automate customer and employee experiences across channels."
-    publishedDateTime: 2023-04-25T14:57:00Z
-    webUrl: "https://venturebeat.com/ai/yellow-ai-launches-dynamic-automation-platform-powered-by-generative-ai-for-enterprises/"
-    ampWebUrl: "https://venturebeat.com/ai/yellow-ai-launches-dynamic-automation-platform-powered-by-generative-ai-for-enterprises/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/yellow-ai-launches-dynamic-automation-platform-powered-by-generative-ai-for-enterprises/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 79
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1169246375-e1682431460287.jpg?w=1200&strip=all"
-        width: 1200
-        height: 652
-        isCached: true
   - title: "Yellow.ai launches Dynamic Automation Platform (DAP) with Generative AI, unveils new logo"
     excerpt: "Yellow.ai, a global leader in Conversational AI, today announced the launch of its Dynamic Automation Platform (DAP), powered by generative AI, that enables enterprises to automate customer and employee experiences at scale with 60% reduction in their operational costs."
     publishedDateTime: 2023-04-25T16:55:00Z

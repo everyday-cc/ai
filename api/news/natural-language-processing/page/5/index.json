@@ -2,6 +2,103 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-02-26-meta-brings-ai-chatbot-with-own-large-language-model-for-researchers.md",
+      "title": "Meta brings AI chatbot with own large language model for researchers",
+      "excerpt": "Smaller, more performant models such as LLaMA enable others in the research community who don't have access to large amounts of infrastructure to study these models, further democratising access in this important,",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiatvnews.com/technology/news/meta-brings-ai-chatbot-with-own-large-language-model-for-researchers-2023-02-25-850216",
+      "originalUrl": "https://www.indiatvnews.com/technology/news/meta-brings-ai-chatbot-with-own-large-language-model-for-researchers-2023-02-25-850216",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2023/02/meta-1677317836.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.indiatvnews.com/amp/technology/news/meta-brings-ai-chatbot-with-own-large-language-model-for-researchers-2023-02-25-850216",
+      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/meta-brings-ai-chatbot-with-own-large-language-model-for-researchers-2023-02-25-850216",
+      "publishedDateTime": "2023-02-25T18:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India TV",
+        "domain": "indiatvnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-25-artificial-intelligence-applications-in-investing.md",
+      "title": "Artificial Intelligence Applications In Investing",
+      "excerpt": "Artificial intelligence can make investing more straightforward, bringing investment insights to the masses. Here’s how you can use AI to build your portfolio.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2023/02/24/artificial-intelligence-applications-in-investing/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2023/02/24/artificial-intelligence-applications-in-investing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63f978e9df3e33323a36e753/0x0.jpg?format=jpg&width=1200",
+          "width": 1188,
+          "height": 792,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/02/24/artificial-intelligence-applications-in-investing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/02/24/artificial-intelligence-applications-in-investing/amp/",
+      "publishedDateTime": "2023-02-24T17:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Autos",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-02-25-should-more-companies-deploy-large-language-models-as-a-customer-service-tool.md",
       "title": "Should More Companies Deploy Large Language Models as a Customer Service Tool?",
       "excerpt": "Companies are automating and anticipating customer needs using generative AI, opening the door for businesses to deploy large language models as a customer service tool.",
@@ -1360,101 +1457,6 @@
         "name": "Benzinga.com",
         "domain": "benzinga.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-google-translate-for-ios-gets-a-redesign-ai-features-contextual-translation-and-more-details.md",
-      "title": "Google Translate for iOS Gets a Redesign, AI Features, Contextual Translation and More: Details",
-      "excerpt": "Google Translate will let users select a language with fewer taps A dynamic font will automatically adjust in size as text is added Google Translate has been updated ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gadgets360.com/apps/news/google-translate-ios-redesign-ai-features-contextual-translation-3767610",
-      "originalUrl": "https://www.gadgets360.com/apps/news/google-translate-ios-redesign-ai-features-contextual-translation-3767610",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.gadgets360cdn.com/large/Google_Translate_main_1675939884486.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-09T03:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "gadgets360",
-        "domain": "gadgets360.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-the-best-dictation-software.md",
-      "title": "The Best Dictation Software",
-      "excerpt": "But the technology behind dictation software (also called speech-to-text or voice-recognition software) has some faults. These apps have difficult learning curves, and the inherent bias that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/wirecutter/reviews/best-dictation-software/",
-      "originalUrl": "https://www.nytimes.com/wirecutter/reviews/best-dictation-software/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.thewirecutter.com/wp-content/media/2023/02/dictationsoftware-2048px-09273-3x2-1.jpg?auto=webp&quality=60&crop=1.91:1&width=1200",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/wirecutter/reviews/best-dictation-software/amp/",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/wirecutter/reviews/best-dictation-software/amp/",
-      "publishedDateTime": "2023-02-09T02:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

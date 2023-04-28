@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Robotics Market Demand by 2031"
+    excerpt: "The latest market research report on the Global \"Artificial Intelligence Robotics Market\" is segmented by Regions,"
+    publishedDateTime: 2023-04-28T02:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-demand-by-2031-2023-04-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 101
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Deep Learning Courses for NLP Market Overview and Scope By 2031"
     excerpt: "The latest market research report on the Global \"Deep Learning Courses for NLP Market\" is segmented by Regions,"
     publishedDateTime: 2023-04-26T13:56:00Z

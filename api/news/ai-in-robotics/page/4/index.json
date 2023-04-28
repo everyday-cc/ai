@@ -2,49 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2023-03-25-lots-of-great-robot-vacuums-are-on-sale-for-under-500-just-in-time-for-spring-cleaning.md",
-      "title": "Lots of great robot vacuums are on sale for under $500 just in time for spring cleaning",
-      "excerpt": "What sets the JetBot AI apart is an onboard ... WiFi-enabled robot vacuums can be synced with a smartphone app to control scheduling, manual start, and cleaning settings, as well as telling ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/deals/best-robot-vacuum-deals",
-      "originalUrl": "https://mashable.com/deals/best-robot-vacuum-deals",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/00Mn3035vqXT3udlVYKH7UG/hero-image.fill.size_1200x675.v1638483738.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-24T14:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-03-25-watch-ai-robot-tries-to-make-cats-happy-in-unique-feline-utopia-trial.md",
       "title": "Watch: AI Robot Tries to Make Cats Happy in Unique Feline 'Utopia' Trial",
       "excerpt": "The art project is designed to explore issues with real scientific and societal value that are related to artificial intelligence and may have implications ... the cats' happiness as they interact with the robot. It then tries to learn how to increase ...",
@@ -1437,6 +1394,50 @@
         "Microsoft AI",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-03-16-artificial-intelligence-isnt-close-to-becoming-sentient.md",
+      "title": "Artificial intelligence isn't close to becoming sentient",
+      "excerpt": "Chatbots like ChatGPT raise important new questions about how artificial intelligence will shape our lives and about ... rather than the machines' actual personhood. In Japan, where robots are regularly used for elder care, seniors become attached to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Voices/2023/03/16/AI-sentient-danger-artificial-intelligence/5211678968643/",
+      "originalUrl": "https://www.upi.com/Voices/2023/03/16/AI-sentient-danger-artificial-intelligence/5211678968643/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/upi_com/5211678968643/2023/1/db4c392242fd2b808f2c372be5b16d03/v1.5/Artificial-intelligence-isnt-close-to-becoming-sentient.jpg",
+          "width": 1018,
+          "height": 681,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Voices/2023/03/16/AI-sentient-danger-artificial-intelligence/5211678968643/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Voices/2023/03/16/AI-sentient-danger-artificial-intelligence/5211678968643/",
+      "publishedDateTime": "2023-03-16T05:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
       ]
     }
   ],

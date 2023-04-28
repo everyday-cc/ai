@@ -55,59 +55,6 @@
       ]
     },
     {
-      "path": "_news/2023-04-27-ml-models-exclusive-aiml-knowledge-for-business-and-engineers-powered-by-intetics.md",
-      "title": "ML Models: Exclusive AI/ML Knowledge for Business and Engineers. Powered by Intetics",
-      "excerpt": "Everything businesses need to know about AI/ML is packed in the exclusive comprehensive guide: a step-by-step approach for assessing an organization's readiness for ML implementation. Over the next decade,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ml-models-exclusive-aiml-knowledge-for-business-and-engineers-powered-by-intetics-2023-04-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/ml-models-exclusive-aiml-knowledge-for-business-and-engineers-powered-by-intetics-2023-04-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T03:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2023-04-27-whats-new-in-azure-data-ai-helping-organizations-manage-the-data-deluge.md",
       "title": "What’s new in Azure Data & AI: Helping organizations manage the data deluge",
       "excerpt": "Whether you have large, complex AI workloads or you simply want to make the most of intelligent capabilities in your existing applications, Microsoft and our partners are ready to help you accelerate your productivity with data and AI.",
@@ -147,51 +94,6 @@
       ],
       "topics": [
         "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-machine-learning-in-retail-market-size-business-segments-innovative-strategies-and-outlook-by-2030-ibm-microsoft-amazon-web-services.md",
-      "title": "Machine Learning in Retail Market Size, Business Segments, Innovative Strategies And Outlook by 2030| IBM, Microsoft, Amazon Web Services",
-      "excerpt": "The Machine Learning in Retail Market research report encompasses a thorough study of the current situation of the",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-in-retail-market-size-business-segments-innovative-strategies-and-outlook-by-2030-ibm-microsoft-amazon-web-services-2023-04-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-in-retail-market-size-business-segments-innovative-strategies-and-outlook-by-2030-ibm-microsoft-amazon-web-services-2023-04-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T00:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI",
         "Microsoft AI"
       ]
     },
@@ -351,58 +253,6 @@
         "Microsoft AI",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-04-26-tech-giants-bury-mediocre-results-under-ai-hype.md",
-      "title": "Tech giants bury mediocre results under AI hype",
-      "excerpt": "Microsoft and Google parent Alphabet are employing a bit of artificial intelligence-powered magic to enthrall Wall Street. The technology giants’ quarterly results released on Tuesday jumped the low bar of being better than investors feared.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/breakingviews/tech-giants-bury-mediocre-results-under-ai-hype-2023-04-25/",
-      "originalUrl": "https://www.reuters.com/breakingviews/tech-giants-bury-mediocre-results-under-ai-hype-2023-04-25/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/fQbRjYTrftcRMQdGNDN7m4oi4Bw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DLGKBYX2NVKINMP2C6SERVUHBU.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-25T14:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     },
     {
@@ -1437,6 +1287,144 @@
       "provider": {
         "name": "technologynetworks",
         "domain": "technologynetworks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-17-microsoft-and-epic-expand-strategic-collaboration-with-integration-of-azure-openai-service.md",
+      "title": "Microsoft and Epic expand strategic collaboration with integration of Azure OpenAI Service",
+      "excerpt": "April 17, 2023 /PRNewswire/ -- Microsoft Corp. and Epic on Monday announced they are expanding their long-standing strategic collaboration to develop and integrate generative AI into healthcare by combining the scale and power of Azure OpenAI Service 1 ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/microsoft-and-epic-expand-strategic-collaboration-with-integration-of-azure-openai-service-1032236844",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/microsoft-and-epic-expand-strategic-collaboration-with-integration-of-azure-openai-service-1032236844",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1795836/Epic_NEW_Logo.jpg",
+          "width": 400,
+          "height": 222,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-17T08:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-17-large-language-models-are-the-new-cloud-battleground.md",
+      "title": "Large language models are the new cloud battleground",
+      "excerpt": "Perhaps the biggest thing since open source or Google, LLMs may have companies fighting for supremacy, but it’s the developers who come out ahead.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3693330/large-language-models-are-the-new-cloud-battleground.html",
+      "originalUrl": "https://www.infoworld.com/article/3693330/large-language-models-are-the-new-cloud-battleground.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/02/fighter_boxer_competition_boxing-glove_best_fight_-totokita-getty-100787964-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3693330/large-language-models-are-the-new-cloud-battleground.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3693330/large-language-models-are-the-new-cloud-battleground.amp.html",
+      "publishedDateTime": "2023-04-17T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-14-microsoft-stock-is-easily-your-best-ai-bet-for-2023.md",
+      "title": "Microsoft Stock Is Easily Your Best AI Bet for 2023",
+      "excerpt": "That’s okay, though, as it’s not too late to take a position in Microsoft (NASDAQ:MSFT) stock. No doubt about it — Microsoft will continue to push the boundaries in the generative AI field this year,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/microsoft-stock-is-easily-your-best-ai-bet-for-2023",
+      "originalUrl": "https://www.nasdaq.com/articles/microsoft-stock-is-easily-your-best-ai-bet-for-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-14T09:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null

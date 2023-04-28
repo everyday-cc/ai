@@ -2,143 +2,6 @@
   "page": 66,
   "value": [
     {
-      "path": "_news/2023-02-28-diagnos-and-ets-unveil-a-method-to-adapt-deep-learning-algorithms-according-to-the-diversity-of-contexts.md",
-      "title": "DIAGNOS and ÉTS Unveil a Method to Adapt Deep Learning Algorithms According to the Diversity of Contexts",
-      "excerpt": "DIAGNOS and École de Technologie Supérieure (ÉTS), a world-renowned technical university, are proud to announce the unveiling of a method for adapting deep learning algorithms according to the diversity of contexts, in diabetic retinopathy screening.",
-      "sourceUrl": null,
-      "webUrl": "https://financialpost.com/globe-newswire/diagnos-and-ets-unveil-a-method-to-adapt-deep-learning-algorithms-according-to-the-diversity-of-contexts",
-      "originalUrl": "https://financialpost.com/globe-newswire/diagnos-and-ets-unveil-a-method-to-adapt-deep-learning-algorithms-according-to-the-diversity-of-contexts",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2023/02/diagnos-domain-adaptation-method.png",
-          "width": 1000,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://financialpost.com/globe-newswire/diagnos-and-ets-unveil-a-method-to-adapt-deep-learning-algorithms-according-to-the-diversity-of-contexts/wcm/e3cd95b2-c261-4422-9ad2-14ded651696f/amp/",
-      "cdnAmpWebUrl": "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/globe-newswire/diagnos-and-ets-unveil-a-method-to-adapt-deep-learning-algorithms-according-to-the-diversity-of-contexts/wcm/e3cd95b2-c261-4422-9ad2-14ded651696f/amp/",
-      "publishedDateTime": "2023-02-28T06:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Post",
-        "domain": "financialpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-28-the-intersection-between-ai-and-blockchain-technology-industries-of-tomorrow.md",
-      "title": "The Intersection Between AI And Blockchain Technology – Industries Of Tomorrow",
-      "excerpt": "The intersection between AI and blockchain technology has the potential to transform various industries by enhancing their security, transparency, and overall efficiency.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/02/28/the-intersection-between-ai-and-blockchain-technology--industries-of-tomorrow/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/02/28/the-intersection-between-ai-and-blockchain-technology--industries-of-tomorrow/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63fe18e3c3faa2f1d106f7ee/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/02/28/the-intersection-between-ai-and-blockchain-technology--industries-of-tomorrow/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/02/28/the-intersection-between-ai-and-blockchain-technology--industries-of-tomorrow/amp/",
-      "publishedDateTime": "2023-02-28T06:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-28-jmir-ai-mobile-artificial-intelligence-powered-acceptance-commitment-therapy-tool.md",
-      "title": "JMIR AI | MOBILE ARTIFICIAL INTELLIGENCE-POWERED ACCEPTANCE COMMITMENT THERAPY TOOL",
-      "excerpt": "2023 /PRNewswire/ -- JMIR Publications published \"Adolescents' Well-being While Using a Mobile Artificial Intelligence-Powered Acceptance Commitment Therapy Tool: Evidence From a Longitudinal ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/jmir-ai-mobile-artificial-intelligence-powered-acceptance-commitment-therapy-tool-2023-02-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/jmir-ai-mobile-artificial-intelligence-powered-acceptance-commitment-therapy-tool-2023-02-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-28T04:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-02-28-mwc-2023-petal-search-unveils-the-latest-multimodal-ar-search-for-fast-object-recognition-and-text-translation.md",
       "title": "MWC 2023: Petal Search Unveils the Latest Multimodal AR Search for Fast Object Recognition and Text Translation",
       "excerpt": "Huawei showcased the latest AR search function and On-screen Lens function of its mobile search engine, Petal Search, at MWC Barcelona",
@@ -1127,6 +990,144 @@
       ],
       "topics": [
         "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-28-facebook-parent-snap-embrace-ai-technology-that-powers-chatgpt-chatbot.md",
+      "title": "Facebook Parent, Snap Embrace AI Technology That Powers ChatGPT Chatbot",
+      "excerpt": "Meta Platforms Inc. and Snap Inc. are embracing the much talked-about artificial-intelligence technology popularized by OpenAI’s viral ChatGPT chatbot.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/snap-launches-my-ai-chatbot-using-openai-technology-fa21774e?mod=pls_whats_news_us_business_f",
+      "originalUrl": "https://www.wsj.com/articles/snap-launches-my-ai-chatbot-using-openai-technology-fa21774e?mod=pls_whats_news_us_business_f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-27T14:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-28-usaf-begins-implementing-facial-recognition-on-some-of-its-drone-fleet.md",
+      "title": "USAF begins implementing facial recognition on some of its drone fleet",
+      "excerpt": "The added capability comes from long-time Seattle tech firm RealNetworks. The name probably sounds familiar because it's the same company that delved into streaming media before",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/97753-usaf-begins-implementing-facial-recognition-drone-fleet.html",
+      "originalUrl": "https://www.techspot.com/news/97753-usaf-begins-implementing-facial-recognition-drone-fleet.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2023/02/2023-02-27-image-20.jpg",
+          "width": 2560,
+          "height": 1707,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-27T14:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-28-automatic-speech-recognition-market-2023-growth-trends-with-the-rise-in-ict-industry-2029.md",
+      "title": "Automatic Speech Recognition Market 2023 Growth, Trends With The Rise In ICT Industry 2029",
+      "excerpt": "(MENAFN- The Express Wire) [128+ Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top“ automatic speech ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1105662985/Automatic-Speech-Recognition-Market-2023-Growth-Trends-With-The-Rise-In-ICT-Industry-2029",
+      "originalUrl": "https://menafn.com/1105662985/Automatic-Speech-Recognition-Market-2023-Growth-Trends-With-The-Rise-In-ICT-Industry-2029",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?7253",
+          "width": 374,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-27T14:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     }

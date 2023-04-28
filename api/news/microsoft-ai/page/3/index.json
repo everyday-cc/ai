@@ -2,146 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2023-03-28-amazon-microsoft-and-googles-ai-armies-are-huge-yet-struggling-to-innovate.md",
-      "title": "Amazon, Microsoft and Google's AI armies are huge, yet struggling to innovate",
-      "excerpt": "New data show Amazon, Microsoft and Google have thousands of AI specialists, but they’re still playing catch-up to a tiny team at OpenAI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/technology/tech-news/amazon-microsoft-and-google-s-ai-armies-are-huge-yet-struggling-to-innovate-11679897432675.html",
-      "originalUrl": "https://www.livemint.com/technology/tech-news/amazon-microsoft-and-google-s-ai-armies-are-huge-yet-struggling-to-innovate-11679897432675.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.livemint.com/lm-img/img/2023/03/27/600x338/ai_1655840015732_1679897559934_1679897559934.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/technology/tech-news/amazon-microsoft-and-google-s-ai-armies-are-huge-yet-struggling-to-innovate/amp-11679897432675.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/amazon-microsoft-and-google-s-ai-armies-are-huge-yet-struggling-to-innovate/amp-11679897432675.html",
-      "publishedDateTime": "2023-03-27T10:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-27-turing-launches-ai-powered-services-to-form-engineering-dream-teams.md",
-      "title": "Turing launches AI-powered services to form engineering dream teams",
-      "excerpt": "Turing’s Talent Cloud uses AI to eliminate the arduous task of matching highly qualified ... GCP, BigQuery, Node, React, Azure and Python. Turing designs its services using a distributed application framework and the microservices architecture to scale ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/turing-launches-ai-powered-services-to-form-engineering-dream-teams/",
-      "originalUrl": "https://venturebeat.com/ai/turing-launches-ai-powered-services-to-form-engineering-dream-teams/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-1168836247-e1664214930793.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/turing-launches-ai-powered-services-to-form-engineering-dream-teams/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/turing-launches-ai-powered-services-to-form-engineering-dream-teams/amp/",
-      "publishedDateTime": "2023-03-27T09:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-27-education-might-not-save-you-from-cognitive-decline-new-study.md",
-      "title": "Education might not save you from cognitive decline – new study",
-      "excerpt": "Giovanni Sala receives funding from the University of Liverpool. Take a look at any list of risk factors for cognitive decline and you’re bound to find “education” among them. The received ...",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/education-might-not-save-you-from-cognitive-decline-new-study-200684",
-      "originalUrl": "https://theconversation.com/education-might-not-save-you-from-cognitive-decline-new-study-200684",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theconversation.com/files/514261/original/file-20230308-1134-cj3g93.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop",
-          "width": 320,
-          "height": 213,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theconversation.com/amp/education-might-not-save-you-from-cognitive-decline-new-study-200684",
-      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/education-might-not-save-you-from-cognitive-decline-new-study-200684",
-      "publishedDateTime": "2023-03-27T07:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
       "path": "_news/2023-03-26-better-late-than-never-3-artificial-intelligence-ai-stocks-that-still-have-massive-upside.md",
       "title": "Better Late Than Never: 3 Artificial Intelligence (AI) Stocks That Still Have Massive Upside",
       "excerpt": "SentinelOne's use of artificial intelligence gives it a performance edge over its ... SentinelOne scores very high on benchmarks such as MITRE's ATT&CK Evaluations, and research firm Gartner gave it the top rank in endpoint protection.",
@@ -1466,6 +1326,163 @@
       "topics": [
         "Microsoft AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-18-geekwire-podcast-svb-aftermath-the-affliction-of-remote-work-and-microsoft-puts-ai-to-work.md",
+      "title": "GeekWire Podcast: SVB aftermath; the ‘affliction’ of remote work; and Microsoft puts AI to work",
+      "excerpt": "We catch up on the latest on the Silicon Valley Bank collapse, and consider the long-term implications of the bank’s meltdown on the startup ecosystem and the ... We consider the potential of AI to change the way we work, the competition between ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2023/geekwire-podcast-svb-aftermath-the-affliction-of-remote-work-and-microsoft-puts-ai-to-work/",
+      "originalUrl": "https://www.geekwire.com/2023/geekwire-podcast-svb-aftermath-the-affliction-of-remote-work-and-microsoft-puts-ai-to-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/03/GeekWirePodcast.png",
+          "width": 960,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-18T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-18-microsoft-has-significant-monetization-opportunity-from-ai-driven-productivity-analysts.md",
+      "title": "Microsoft Has Significant Monetization Opportunity From AI-driven Productivity: Analysts",
+      "excerpt": "Mizuho analyst Gregg Moskowitz maintains Microsoft Corp (NASDAQ:MSFT) with a Buy and raises the price target from $300 to $315. On March 16, MSFT announced Microsoft 365 Copilot, a generative AI tool combining large language models (LLMs) with data resident in Microsoft Graph and Microsoft 365 apps.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/microsoft-has-significant-monetization-opportunity-from-ai-driven-productivity-analysts-1032176553",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/microsoft-has-significant-monetization-opportunity-from-ai-driven-productivity-analysts-1032176553",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/03/17/microsoft_buildings_eu.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-17T11:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-17-aws-chatbot-now-integrated-into-microsoft-teams.md",
+      "title": "AWS Chatbot now integrated into Microsoft Teams",
+      "excerpt": "Amazon Web Services has integrated its AWS Chatbot into Microsoft Teams to allow enterprise users to interact with AWS cloud resources from within the chat application. AWS Chatbot, which was ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3691291/aws-chatbot-now-integrated-into-microsoft-teams.html",
+      "originalUrl": "https://www.infoworld.com/article/3691291/aws-chatbot-now-integrated-into-microsoft-teams.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/05/communication_language_text_speech_chatbot_artificial_intelligence_by_wutwhanfoto_gettyimages-649188276_1200x800-100757295-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3691291/aws-chatbot-now-integrated-into-microsoft-teams.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3691291/aws-chatbot-now-integrated-into-microsoft-teams.amp.html",
+      "publishedDateTime": "2023-03-17T04:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
       ]
     }
   ],

@@ -2,163 +2,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_news/2023-02-03-microsoft-gives-businesses-a-gpt-boost-in-teams-and-viva-sales.md",
-      "title": "Microsoft gives businesses a GPT boost in Teams and Viva Sales",
-      "excerpt": "Today, Microsoft also offered a preview of a new generative AI ... The app uses the OpenAI API inside of Azure Cognitive Services, which Lamanna pointed out has “very strong privacy guarantees — your data is your data. We don’t train or retrain ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/microsoft-gives-businesses-a-gpt-boost-in-teams-and-viva-sales/",
-      "originalUrl": "https://venturebeat.com/ai/microsoft-gives-businesses-a-gpt-boost-in-teams-and-viva-sales/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 226,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/02/RE4YuNJ.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/microsoft-gives-businesses-a-gpt-boost-in-teams-and-viva-sales/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/microsoft-gives-businesses-a-gpt-boost-in-teams-and-viva-sales/amp/",
-      "publishedDateTime": "2023-02-02T08:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-02-02-red-hat-gives-an-arm-up-to-openshift-kubernetes-operations.md",
-      "title": "Red Hat gives an ARM up to OpenShift Kubernetes operations",
-      "excerpt": "Red Hat announced the general availability of OpenShift 4.12, bringing new capabilities to its hybrid cloud application delivery platform.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/data-infrastructure/red-hat-gives-an-arm-up-to-openshift-kubernetes-operations/",
-      "originalUrl": "https://venturebeat.com/data-infrastructure/red-hat-gives-an-arm-up-to-openshift-kubernetes-operations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/Red-Hat.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/data-infrastructure/red-hat-gives-an-arm-up-to-openshift-kubernetes-operations/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/red-hat-gives-an-arm-up-to-openshift-kubernetes-operations/amp/",
-      "publishedDateTime": "2023-02-01T13:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-02-hp-poly-unveils-mini-conferencing-pc-and-other-microsoft-teams-certified-solutions-for-hybrid-work-collaboration.md",
-      "title": "HP Poly Unveils Mini Conferencing PC And Other Microsoft Teams-Certified Solutions For Hybrid Work Collaboration",
-      "excerpt": "Vice President and Principal Analyst, Melody Brue, gives her analysis of Poly's new Mini Conferencing Microsoft Teams-certified solutions that address hybrid work collaboration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/02/01/hp-poly-unveils-mini-conferencing-pc-and-other-microsoft-teams-certified-solutions-for-hybrid-work-collaboration/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/02/01/hp-poly-unveils-mini-conferencing-pc-and-other-microsoft-teams-certified-solutions-for-hybrid-work-collaboration/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63dab362eaa2b55cc39afec2/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/02/01/hp-poly-unveils-mini-conferencing-pc-and-other-microsoft-teams-certified-solutions-for-hybrid-work-collaboration/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/02/01/hp-poly-unveils-mini-conferencing-pc-and-other-microsoft-teams-certified-solutions-for-hybrid-work-collaboration/amp/",
-      "publishedDateTime": "2023-02-01T09:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-02-02-samsungs-new-galaxy-s23-and-galaxy-book-bring-incremental-changes-to-samsungs-lineup.md",
       "title": "Samsung’s New Galaxy S23 And Galaxy Book Bring Incremental Changes To Samsung’s Lineup",
       "excerpt": "Senior Analyst, Mobility & VR, Anshel Sag, covers Samsung's newest S23 flagship smartphones and its Galaxy Book 3 notebooks.",
@@ -1466,6 +1309,135 @@
         "Facebook AI",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-20-general-availability-of-azure-openai-service-expands-access-to-large-advanced-ai-models-with-added-enterprise-benefits.md",
+      "title": "General availability of Azure OpenAI Service expands access to large, advanced AI models with added enterprise benefits",
+      "excerpt": "Today, we are excited to announce the general availability of Azure OpenAI Service as part of Microsoft's continued commitment to democratizing AI, and ongoing partnership with OpenAI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreaherald.com/view.php?ud=20230120000437&np=1&mp=1",
+      "originalUrl": "https://www.koreaherald.com/view.php?ud=20230120000437&np=1&mp=1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnasia.com/media2/1986653/image_5018614_35420824.jpg?p=medium600&koreaherald_list",
+          "width": 600,
+          "height": 570,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-20T07:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Korea Herald",
+        "domain": "koreaherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-20-editorial-cognitive-warfare-about-landmines.md",
+      "title": "EDITORIAL: Cognitive warfare about landmines",
+      "excerpt": "That the KMT has the habit of opposing every arms deal with the US is nothing new, but this latest opposition is an example of cognitive warfare, in line with Chinese ideology. By spreading fearmongering notions of waking up to find landmines in Taiwan ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.taipeitimes.com/News/editorials/archives/2023/01/20/2003792880",
+      "originalUrl": "https://www.taipeitimes.com/News/editorials/archives/2023/01/20/2003792880",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.taipeitimes.com/assets/images/TaipeiTimesLogo-1200X1200px_new.jpg",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-19T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Taipei Times",
+        "domain": "taipeitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-20-orienteering-could-be-useful-as-an-intervention-or-preventive-measure-to-fight-cognitive-decline.md",
+      "title": "Orienteering could be useful as an intervention or preventive measure to fight cognitive decline",
+      "excerpt": "The sport of orienteering, which draws on athleticism, navigational skills and memory, could be useful as an intervention or preventive measure to fight cognitive decline related to dementia ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20230120/Orienteering-could-be-useful-as-an-intervention-or-preventive-measure-to-fight-cognitive-decline.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20230120/Orienteering-could-be-useful-as-an-intervention-or-preventive-measure-to-fight-cognitive-decline.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/3/Artificially_Colored_MRI_Scan_Of_Human_Brain-Daisy_Daisy_a8c5d8bbbf824bc8932308e30187510f-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-19T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     }
   ],

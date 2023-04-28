@@ -2,152 +2,6 @@
   "page": 79,
   "value": [
     {
-      "path": "_news/2023-02-16-this-is-how-how-ai-is-helping-monitor-and-count-puffins.md",
-      "title": "This Is How How AI Is Helping Monitor And Count Puffins",
-      "excerpt": "Puffins on the Isle of May, a nature preserve off the coast of Scotland. SSE Renewables is trialing ... [+] a new way to count puffins using artificial intelligence. The project is supported by Microsoft, Avanade and NatureScot. The Isle of May is a 140 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2023/02/15/this-is-how-how-ai-is-helping-monitor-and-count-puffins/",
-      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2023/02/15/this-is-how-how-ai-is-helping-monitor-and-count-puffins/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63ed146a88afcdec4e171308/0x0.jpg?format=jpg&width=1200",
-          "width": 790,
-          "height": 527,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2023/02/15/this-is-how-how-ai-is-helping-monitor-and-count-puffins/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2023/02/15/this-is-how-how-ai-is-helping-monitor-and-count-puffins/amp/",
-      "publishedDateTime": "2023-02-15T11:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-16-poll-americans-more-aware-but-skeptical-of-artificial-intelligence.md",
-      "title": "Poll: Americans more aware but skeptical of artificial intelligence",
-      "excerpt": "Americans are continuing to learn more about artificial intelligence, but they remain skeptical of the impact the technology will have on society, according to a new survey from Monmouth University. The survey finds 91% of Americans say they have heard ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/meet-the-press/meetthepressblog/poll-americans-aware-skeptical-ai-rcna70798",
-      "originalUrl": "https://www.nbcnews.com/meet-the-press/meetthepressblog/poll-americans-aware-skeptical-ai-rcna70798",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-02/230215-openai-msnbc-mn-1220-003891.jpg",
-          "width": 2500,
-          "height": 1663,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/shows/meetthepress/blog/rcna70798",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/shows/meetthepress/blog/rcna70798",
-      "publishedDateTime": "2023-02-15T11:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-15-implementing-mlops-practices-with-amazon-sagemaker-jumpstart-pre-trained-models.md",
-      "title": "Implementing MLOps practices with Amazon SageMaker JumpStart pre-trained models",
-      "excerpt": "Amazon SageMaker JumpStart is the machine learning (ML) hub of SageMaker that offers over 350 built-in algorithms, pre-trained models, and pre-built solution templates to help you get started with ML fast. JumpStart provides one-click access to a wide variety of pre-trained models for common ML tasks",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/implementing-mlops-practices-with-amazon-sagemaker-jumpstart-pre-trained-models/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/implementing-mlops-practices-with-amazon-sagemaker-jumpstart-pre-trained-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/02/15/implementing-mlops-practices-sagemaker.jpg",
-          "width": 1563,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-15T11:12:07-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2023-02-16-criticalriver-partners-with-accureai-to-accelerate-artificial-intelligence-and-machine-learning-adoption-for-businesses.md",
       "title": "CriticalRiver Partners with Accure.ai to Accelerate Artificial Intelligence and Machine Learning Adoption for Businesses",
       "excerpt": "The multi-year innovation partnership will provide an accelerated AI/ML platform to automate processes. Accelerates the use of AI to improve processes across key industries. PLEASANTON, Calif. (PRWEB)",
@@ -1216,6 +1070,153 @@
       "topics": [
         "Natural Language Processing",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-15-heres-to-the-robots-ai-tech-investments-star-at-tampas-synapse.md",
+      "title": "‘Here’s to the robots’: AI, tech investments star at Tampa’s Synapse",
+      "excerpt": "The conference’s CEO pulled up ChatGPT, the artificial intelligence chatbot ... firm that relocated from New York to St. Petersburg in 2020. Case visited Tampa startup accelerator Embarc Collective as part of a tour of emerging markets in 2019, and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tampabay.com/news/business/2023/02/14/heres-robots-ai-tech-investments-star-tampas-synapse/",
+      "originalUrl": "https://www.tampabay.com/news/business/2023/02/14/heres-robots-ai-tech-investments-star-tampas-synapse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tampabay.com/resizer/p_vnstg5FGjV-OqBYLmP8gilmAo=/1200x675/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/Z3JGJPC5KNBZHCCDND5R5RYKCM.JPG",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tampabay.com/news/business/2023/02/14/heres-robots-ai-tech-investments-star-tampas-synapse/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/business/2023/02/14/heres-robots-ai-tech-investments-star-tampas-synapse/?outputType=amp",
+      "publishedDateTime": "2023-02-14T13:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tampa Bay Times",
+        "domain": "tampabay.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-15-agricultural-technology-including-driverless-tractors-on-full-display-at-world-ag-expo.md",
+      "title": "Agricultural technology, including driverless tractors, on full display at World Ag Expo",
+      "excerpt": "CNBC's Jane Wells joins 'Power Lunch' to report on a driverless tractor and other agricultural technology from the World Ag Expo. Got a confidential news tip? We want to hear from you. Sign up for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/video/2023/02/14/agricultural-technology-including-driverless-tractors-on-full-display-at-world-ag-expo.html",
+      "originalUrl": "https://www.cnbc.com/video/2023/02/14/agricultural-technology-including-driverless-tractors-on-full-display-at-world-ag-expo.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107194515-16764043121676404310-28196778325-1080pnbcnews.jpg?v=1676407179&w=1920&h=1080",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-14T12:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-14-building-ai-chatbots-using-amazon-lex-and-amazon-kendra-for-filtering-query-results-based-on-user-context.md",
+      "title": "Building AI chatbots using Amazon Lex and Amazon Kendra for filtering query results based on user context",
+      "excerpt": "Amazon Kendra is an intelligent search service powered by machine learning (ML). It indexes the documents stored in a wide range of repositories and finds the most relevant document based on the keywords or natural language questions the user has searched for. In some scenarios, you need the search results",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/building-ai-chatbots-using-amazon-lex-and-amazon-kendra-for-filtering-query-results-based-on-user-context/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/building-ai-chatbots-using-amazon-lex-and-amazon-kendra-for-filtering-query-results-based-on-user-context/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/02/14/building-ai-chatbots-lex-kendra.jpg",
+          "width": 1557,
+          "height": 780,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-14T12:40:22-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
       ]
     }
   ],

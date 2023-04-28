@@ -2,146 +2,6 @@
   "page": 121,
   "value": [
     {
-      "path": "_news/2023-01-18-kfintech-drives-digital-transformation-and-innovation-in-the-financial-services-industry-with-aws.md",
-      "title": "KFintech Drives Digital Transformation and Innovation in the Financial Services Industry with AWS",
-      "excerpt": "Leveraging the depth and breadth of AWS capabilities, KFintech helps their clients digitally transform, providing the best business, program, and portfolio strategies to build the next generation of solutions in the capital market.",
-      "sourceUrl": null,
-      "webUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1302007&cat=PR News Wire",
-      "originalUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1302007&cat=PR News Wire",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-17T21:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Webindia 123",
-        "domain": "webindia123.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-18-tesla-video-promoting-self-driving-was-staged-engineer-testifies.md",
-      "title": "Tesla video promoting self-driving was staged, engineer testifies",
-      "excerpt": "REUTERS/Evgenia Novozhenina/File Photo Jan 17 (Reuters) - A 2016 video that Tesla (TSLA.O) used to promote its self-driving technology ... Technologycategory China's Baidu to launch ChatGPT ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/tesla-video-promoting-self-driving-was-staged-engineer-testifies-2023-01-17/",
-      "originalUrl": "https://www.reuters.com/technology/tesla-video-promoting-self-driving-was-staged-engineer-testifies-2023-01-17/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/3IQpcCuKtmLZDMbi4XPgVhduRYk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/INZHKPTCXZPSLLZHEH43ULAMQ4.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-17T21:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-18-artificial-intelligence-ai-in-medical-market-reliable-business-data-analysis-and-forecast-by-2029-with-top-countries-data.md",
-      "title": "Artificial Intelligence (AI) in Medical Market : Reliable Business Data Analysis and Forecast by 2029 with Top Countries Data",
-      "excerpt": "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. A recent",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-market-reliable-business-data-analysis-and-forecast-by-2029-with-top-countries-data-2023-01-18",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-market-reliable-business-data-analysis-and-forecast-by-2029-with-top-countries-data-2023-01-18",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-17T20:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2023-01-18-8-asx-and-global-stock-ideas-to-add-to-your-portfolio-this-year.md",
       "title": "8 ASX and global stock ideas to add to your portfolio this year",
       "excerpt": "This spike in inflation was driven by a culmination of factors including the continued impact of covid 19 on global supply chains, a war in Ukraine, and economic sanctions on Russia, which provides many parts of the world with much-needed energy and agricultural commodities.",
@@ -1176,6 +1036,152 @@
       ],
       "topics": [
         "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-18-whats-going-on-with-baidu-shares.md",
+      "title": "What's Going On With Baidu Shares",
+      "excerpt": "Baidu Inc BIDU shares are trading lower by 6.23% to $130.30 during Tuesday's trading session. Shares of Chinese companies at large are trading lower after China's GDP growth slowed in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/23/01/30447092/whats-going-on-with-baidu-shares",
+      "originalUrl": "https://www.benzinga.com/news/23/01/30447092/whats-going-on-with-baidu-shares",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2023/01/17/analysis-4937349_0.jpg?width=1200&height=800&fit=crop",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-17T10:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-18-ai21-labs-intros-an-ai-writing-assistant-that-cites-its-sources.md",
+      "title": "AI21 Labs intros an AI writing assistant that cites its sources",
+      "excerpt": "AI21 Labs new AI-powered writing assistant, called Wordtune Spices, cites its sources -- perhaps better than ChatGPT.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/01/17/ai21-labs-intros-an-ai-writing-assistant-that-cites-its-sources/",
+      "originalUrl": "https://techcrunch.com/2023/01/17/ai21-labs-intros-an-ai-writing-assistant-that-cites-its-sources/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-1094956900-e1559746431929.jpg?resize=1200,819",
+          "width": 1200,
+          "height": 819,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/01/17/ai21-labs-intros-an-ai-writing-assistant-that-cites-its-sources/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/01/17/ai21-labs-intros-an-ai-writing-assistant-that-cites-its-sources/amp/",
+      "publishedDateTime": "2023-01-17T10:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!News",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-18-elon-musks-appetite-for-destruction.md",
+      "title": "Elon Musk’s Appetite for Destruction",
+      "excerpt": "A wave of lawsuits argue that Tesla’s self-driving software is dangerously overhyped. What can its blind spots teach us about the company’s erratic C.E.O.? Credit...Photo illustration by ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/01/17/magazine/tesla-autopilot-self-driving-elon-musk.html",
+      "originalUrl": "https://www.nytimes.com/2023/01/17/magazine/tesla-autopilot-self-driving-elon-musk.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/01/22/magazine/22mag-tesla2/22mag-tesla2-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2023/01/17/magazine/tesla-autopilot-self-driving-elon-musk.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/01/17/magazine/tesla-autopilot-self-driving-elon-musk.amp.html",
+      "publishedDateTime": "2023-01-17T10:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     }

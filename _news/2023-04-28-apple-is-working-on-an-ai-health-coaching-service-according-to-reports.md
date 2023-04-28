@@ -30,142 +30,63 @@ images:
     isCached: true
 
 related:
-  - title: "The 5 biggest risks of generative AI, according to an expert"
-    excerpt: "According to Gartner analyst Avivah Litan, some of the biggest risks of generative AI concern trust and security and include hallucinations, deepfakes, data privacy, copyright issues, and cybersecurity problems."
-    publishedDateTime: 2023-04-25T09:54:00Z
-    webUrl: "https://www.zdnet.com/article/the-5-biggest-risks-of-generative-ai-according-to-an-expert/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-5-biggest-risks-of-generative-ai-according-to-an-expert/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-5-biggest-risks-of-generative-ai-according-to-an-expert/"
+  - title: "Apple building an AI health coach for Apple Watch, report claims"
+    excerpt: "Apple is developing an AI-powered health coach designed to offer personalized advice for improving exercise, diet, and sleep, a new report claims."
+    publishedDateTime: 2023-04-26T05:50:00Z
+    webUrl: "https://www.digitaltrends.com/mobile/apple-may-be-building-ai-health-coach-for-apple-watch/"
+    ampWebUrl: "https://www.digitaltrends.com/mobile/apple-may-be-building-ai-health-coach-for-apple-watch/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/apple-may-be-building-ai-health-coach-for-apple-watch/?amp"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
+      name: Digital Trends
+      domain: digitaltrends.com
     quality: 87
     images:
-      - url: "https://www.zdnet.com/a/img/resize/0cc190b128c483df4d94a80b464a741210a694f4/2023/04/24/ba357ab7-5959-44f7-a452-d12811dba59b/gettyimages-1404749040-170667a.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://www.digitaltrends.com/wp-content/uploads/2023/04/apple-health-app-report.jpg?resize=1200%2C630&p=1"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
-  - title: "TikTok is testing an in-app tool that creates generative AI avatars"
-    excerpt: "TikTok is experimenting with a new tool that allows users to create generative AI avatars, the company confirmed to TechCrunch"
-    publishedDateTime: 2023-04-26T16:07:00Z
-    webUrl: "https://techcrunch.com/2023/04/26/tiktok-is-testing-an-in-app-tool-that-creates-generative-ai-avatars/"
-    ampWebUrl: "https://techcrunch.com/2023/04/26/tiktok-is-testing-an-in-app-tool-that-creates-generative-ai-avatars/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/04/26/tiktok-is-testing-an-in-app-tool-that-creates-generative-ai-avatars/amp/"
+  - title: "Apple is reportedly developing an AI-powered health coaching service"
+    excerpt: "Apple is developing an AI-powered health coaching service codenamed Quartz, according to a new report from Bloomberg's Mark Gurman."
+    publishedDateTime: 2023-04-25T21:19:00Z
+    webUrl: "https://techcrunch.com/2023/04/25/apple-is-reportedly-developing-an-ai-powered-health-coaching-service/"
+    ampWebUrl: "https://techcrunch.com/2023/04/25/apple-is-reportedly-developing-an-ai-powered-health-coaching-service/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/04/25/apple-is-reportedly-developing-an-ai-powered-health-coaching-service/amp/"
     type: article
     provider:
       name: TechCrunch
       domain: techcrunch.com
     quality: 87
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1248373545.jpg?resize=1200,788"
-        width: 1200
-        height: 788
-        isCached: true
-  - title: "These are the 9 best books to get up to speed on the hot new world of generative AI, according to experts"
-    excerpt: "The AI Revolution in Medicine: GPT-4 and Beyond Author: Peter Lee, Carey Goldberg, and Isaac Kohane. Lee, Corporate VP for Research and Incubations at Microsoft; Goldberg, medical and science ..."
-    publishedDateTime: 2023-04-24T00:00:00Z
-    webUrl: "https://www.businessinsider.com/list-generative-ai-artificial-intelligence-best-books-for-learning-experts-2023-3"
-    ampWebUrl: "https://www.businessinsider.com/list-generative-ai-artificial-intelligence-best-books-for-learning-experts-2023-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/list-generative-ai-artificial-intelligence-best-books-for-learning-experts-2023-3?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 72
-    images:
-      - url: "https://i.insider.com/6442e90e3d49030019df18aa?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Gen AI For Generating Value: Experiential Learning"
-    excerpt: "The short- to medium-term outlook for generative AI will continue to see various firms using the public (generic) language models at their disposal."
-    publishedDateTime: 2023-04-27T13:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/27/gen-ai-for-generating-value-experiential-learning/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "Ocean’s roar of generative AI and expanding dark web capture security world’s attention at RSA"
-    excerpt: "That single metric speaks volumes about the pace of change in the tech world today, and the security community has taken notice. Security researchers are scrambling to assess what mass deployment of generative AI will mean in the broader context of protecting critical systems."
-    publishedDateTime: 2023-04-27T19:45:00Z
-    webUrl: "https://siliconangle.com/2023/04/27/oceans-roar-generative-ai-expanding-dark-web-capture-security-worlds-attention-rsa/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 44
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/04/rohitghai-rsa-badai.jpg"
-        width: 2500
-        height: 1434
-        isCached: true
-  - title: "Generative AI Is Only as Good as the Prompt You Give It"
-    excerpt: "It is ironic that much of the early conversation about ChatGPT had to do with the demise of writing skills when, in fact, the very success of generative-AI searches is determined by the quality of precisely written prompts."
-    publishedDateTime: 2023-04-26T05:42:00Z
-    webUrl: "https://www.insidehighered.com/opinion/blogs/online-trending-now/2023/04/26/generative-ai-only-good-prompt-you-give-it"
-    type: article
-    provider:
-      name: Inside Higher Ed
-      domain: insidehighered.com
-    quality: 39
-    images:
-      - url: "https://www.insidehighered.com/sites/default/files/2023-04/ihe-logo-web.png"
-        width: 600
-        height: 324
-        isCached: true
-  - title: "The risks and rewards of AI-powered translation"
-    excerpt: "Advances in AI deep learning for machine translation are an opportunity for organisations to remove language barriers to global trade"
-    publishedDateTime: 2023-04-27T15:30:00Z
-    webUrl: "https://www.business-reporter.co.uk/management/the-risks-and-rewards-of-ai-powered-translation"
-    type: article
-    provider:
-      name: business-reporter.co.uk
-      domain: business-reporter.co.uk
-    quality: 39
-    images:
-      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/028/AI_translation.jpg"
+      - url: "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-1235254642.jpg?resize=1200,800"
         width: 1200
         height: 800
         isCached: true
-  - title: "44 of the most promising generative-artificial-intelligence startups of 2023, according to investors"
-    excerpt: "Estimated total funding for each startup is based on data from PitchBook unless otherwise specified. Adept What it does: Adept is a machine-learning research-and-product lab aiming to build AI ..."
-    publishedDateTime: 2023-04-24T00:00:00Z
-    webUrl: "https://www.businessinsider.com/most-promising-generative-artificial-intelligence-startups-according-vcs-venture-capital-2023-3"
+  - title: "Apple to Expand Health Initiatives With AI Health Coach, Report Says"
+    excerpt: "Users would be motivated to exercise, eat well and improve their sleep based on individualized plans from the service, according to a report."
+    publishedDateTime: 2023-04-26T21:54:00Z
+    webUrl: "https://www.cnet.com/health/mental/apple-to-expand-health-initiatives-with-ai-health-coach-report-says/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/apple-to-expand-health-initiatives-with-ai-health-coach-report-says/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/apple-to-expand-health-initiatives-with-ai-health-coach-report-says/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 37
+      name: CNET
+      domain: cnet.com
+    quality: 87
     images:
-      - url: "https://i.insider.com/641b26b3e49c3900187d78fa?width=1200&format=jpeg"
+      - url: "https://www.cnet.com/a/img/resize/b51c7491a37488da50088db52ecc742f50031f18/hub/2023/04/25/24906f59-9de8-4dd1-8ee7-82ce372523dd/gettyimages-1360358389.jpg?auto=webp&fit=crop&height=630&width=1200"
         width: 1200
-        height: 600
+        height: 630
         isCached: true
-  - title: "Generative AI blitz hits cyber industry's biggest conference"
-    excerpt: "Generative AI has the potential to enable security products to better detect advanced phishing attacks, proactively scan networks for suspicious activity, and automatically \"fight back\" against ongoing attacks, Avivah Litan, distinguished vice president analyst at Gartner, told Axios."
-    publishedDateTime: 2023-04-25T16:40:00Z
-    webUrl: "https://www.axios.com/2023/04/25/generative-ai-cyber-industry-rsa-conference"
+  - title: "Apple plans to expand Health services to include mood & eye tracking, AI coach planned for later"
+    excerpt: "Apple reportedly plans to release an AI-powered health coach and tools to track a person's mood, and the Health app might finally be available on the iPad."
+    publishedDateTime: 2023-04-25T19:32:00Z
+    webUrl: "https://appleinsider.com/articles/23/04/25/apple-plans-to-expand-health-services-to-include-mood-eye-tracking-ai-coach-planned-for-later"
     type: article
     provider:
-      name: Axios
-      domain: axios.com
-    quality: 37
-    images:
-      - url: "https://images.axios.com/XjCML_d0Xez8eBBySaNj09hw_vA=/0x0:1920x1080/1366x768/2023/04/25/1682437170486.jpg"
-        width: 1366
-        height: 768
-        isCached: true
-  - title: "The rapid rise of generative AI threatens to upend US patent system"
-    excerpt: "The flurry of concern has been prompted by the rapid rise of generative AI. Though known mainly from OpenAI’s ChatGPT, the same technology is already being used to design semiconductors and suggest ideas for new molecules that might form the basis of useful drugs."
-    publishedDateTime: 2023-04-26T12:00:00Z
-    webUrl: "https://www.ft.com/content/dc556ab8-9661-4d93-8211-65a44204f358"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 4
 
 secured: "0me+ENTxVMpEC8QznnPwGS4TZSiMJYycY6jTl2P5uJNAJtDL8CvOI7Rj+v+JXYuyK2CHGUAwmvYKg8y+WC2H26BUz4NE8t8ekJLhxq0MpF0pR9M/Q6e5EvG+/YcXHt55rGk64ZCIFz8/xxb5j68MjCMG4PCugzXTP4T3fJDWkBSqX9BtuEG2RZCXlO7USrA+sSePk2RDK7aIDv/dMwHjx90gIiAaJvGFAdGH269CrIQR0hrnFYcgHMI8CmWCtbsyMVTlzhPfyiFBkQDYRNCMXY17nvr2bBJBZQ6fHPjWpx0+1lcsy0gLru42ZoIysydogunRfrqbxud2Nb4PmGZ4lQqZbbNutX/o1mxh9UnggHftdwP7bw2qNQOqXpHnHK5je2/dwlS56rBnC70M/XCb5UTzIimkNr5hScSqwzz3hOUFGyCgIO71J9KkFlfPMO+EjOJfMMUCWYUUug8C4RvsECuTVDzdoH6GZbyAVN2GjTkpEVxdiPbFcfZ5fGkbTxA/4mmYzbtmCDx5F2wAciyulg==;fkI72LP55lPjUcM4WYFDwA=="
 ---

@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The complications of regulating AI"
+    excerpt: "The idea that advancing technology outpaces regulation serves the industry's interests, says Elizabeth Renieris of Oxford. Current oversight methods apply to specific issues, but \"general purpose\" AI is harder to keep in check."
+    publishedDateTime: 2023-04-27T10:00:00Z
+    webUrl: "https://www.marketplace.org/shows/marketplace-tech/the-complications-of-regulating-ai/"
+    ampWebUrl: "https://www.marketplace.org/shows/marketplace-tech/the-complications-of-regulating-ai/amp/"
+    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/the-complications-of-regulating-ai/amp/"
+    type: article
+    provider:
+      name: Marketplace
+      domain: marketplace.org
+    quality: 59
+    images:
+      - url: "https://www.marketplace.org/wp-content/uploads/2023/04/GettyImages-1390024980.jpg?fit=740%2C494"
+        width: 740
+        height: 493
+        isCached: true
 
 secured: "z5d6ynHS1bir/TvXxzHGwpKG7dOinCpWcGOIGYQwjTQ6bgKJ2Jgn+ewJgxksBE0O4LUFp5/HzA0PGDA6tJ2/zXrEVN6tN6G/9RguP5P2aoacn0zRFeVy9ternS1M7yKCBelIkhPWtufqpkR+ZkDE1eHiyFC38EYwSk3xsRxg5c/1y2loGrC4MjhNKnU7482S/4iTZ/pcStVLg6vS3eJEILfo77MR6tfVtFjvOGY1XW+gK+NphiY5NG6gMdCBq1hMbSyzOVzp+suk635JGCvvAwbImdLlplDGaw9jSNekzG/TVhSkBGwzlAmQlK6wJHislBcjPJfsa/3nIbjLVArIldgZe+tmUKlFeKLxgqWeYCWX1VgtgGEG31/nkTkp6UJAaeNj+FkVdhksyGnHOeIMo2b4z1RwSNEeHYnil6EsX9w6fKLr793Pd08BvTvXkMaaMTgItFemQOjqEBNX7J36xqXJ0PsGmXs/n1wpUQw9D0wh0U29frIkG5iAWYTpUu4SDwoOaZt9Buy6pYzW9t03qQ==;jLy1eZ6eVLI/DHiaL+vkzg=="
 ---

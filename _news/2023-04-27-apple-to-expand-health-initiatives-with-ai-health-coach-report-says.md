@@ -62,6 +62,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Apple is working on an AI health coaching service, according to reports"
+    excerpt: "Need help staying on top of your health and wellness goals? Apple is working on some projects that might help."
+    publishedDateTime: 2023-04-27T18:44:00Z
+    webUrl: "https://www.zdnet.com/article/apple-is-working-on-an-ai-health-coaching-service-according-to-reports/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/apple-is-working-on-an-ai-health-coaching-service-according-to-reports/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/apple-is-working-on-an-ai-health-coaching-service-according-to-reports/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/aafc79d1ed5b4855d68660b317f0131688ea004f/2022/09/08/675c038f-0a14-43e6-ab88-3cc88698813c/apple-watch-series-8.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Apple plans to expand Health services to include mood & eye tracking, AI coach planned for later"
     excerpt: "Apple reportedly plans to release an AI-powered health coach and tools to track a person's mood, and the Health app might finally be available on the iPad."
     publishedDateTime: 2023-04-25T19:32:00Z

@@ -2,6 +2,264 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-04-27-which-segments-computer-vision-system-market-are-anticipated-to-highest-cagr-by-2030.md",
+      "title": "Which Segments Computer Vision System Market Are Anticipated To Highest CAGR By 2030",
+      "excerpt": "New Analysis of Computer Vision System Market overview, spend analysis, imports, segmentation, key players, and",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/which-segments-computer-vision-system-market-are-anticipated-to-highest-cagr-by-2030-2023-04-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/which-segments-computer-vision-system-market-are-anticipated-to-highest-cagr-by-2030-2023-04-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-27T07:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-27-open-source-ray-24-upgrade-speeds-up-generative-ai-model-deployment.md",
+      "title": "Open-source Ray 2.4 upgrade speeds up generative AI model deployment",
+      "excerpt": "Ray, an ML technology for deploying and scaling AI workloads, released Ray 2.4 today, which specifically accelerates generative AI workloads.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/open-source-ray-2-4-upgrade-speeds-up-generative-ai-model-deployment/",
+      "originalUrl": "https://venturebeat.com/ai/open-source-ray-2-4-upgrade-speeds-up-generative-ai-model-deployment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/04/VB_Ray24_logo_1200x800_042723.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/open-source-ray-2-4-upgrade-speeds-up-generative-ai-model-deployment/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/open-source-ray-2-4-upgrade-speeds-up-generative-ai-model-deployment/amp/",
+      "publishedDateTime": "2023-04-27T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-27-could-artificial-intelligence-be-about-to-take-over-your-job.md",
+      "title": "Could artificial intelligence be about to take over your job?",
+      "excerpt": "Preliminary research published at the end of March claimed that up to 80% of the US workforce could see at least 10% of their tasks impacted",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/98471-could-artificial-intelligence-about-take-over-job.html",
+      "originalUrl": "https://www.techspot.com/news/98471-could-artificial-intelligence-about-take-over-job.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2023/04/2023-04-26-image-35.jpg",
+          "width": 4203,
+          "height": 2364,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-27T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-27-96-of-people-consider-ethical-and-responsible-ai-to-be-important.md",
+      "title": "96% Of People Consider Ethical And Responsible AI To Be Important",
+      "excerpt": "Undeniably, technology's ethical and responsible usage equates with a positive and sustainable future for the masses. With AI-powered technology playing a substantial role in our daily lives, it has become indispensable to consider its impact on society,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/garydrenik/2023/04/27/96-of-people-consider-ethical-and-responsible-ai-to-be-important/",
+      "originalUrl": "https://www.forbes.com/sites/garydrenik/2023/04/27/96-of-people-consider-ethical-and-responsible-ai-to-be-important/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/644996ddc91a2eb9d951f763/0x0.jpg?format=jpg&width=1200",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2023/04/27/96-of-people-consider-ethical-and-responsible-ai-to-be-important/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/04/27/96-of-people-consider-ethical-and-responsible-ai-to-be-important/amp/",
+      "publishedDateTime": "2023-04-27T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-04-27-can-artificial-intelligence-ever-achieve-societal-level-digital-trust.md",
+      "title": "Can Artificial Intelligence Ever Achieve Societal-Level Digital Trust?",
+      "excerpt": "Artificial intelligence (AI) has always been treated with suspicion, and the pace and volume of the concerns raised are reaching new highs. In itself, the concerns raised regarding the use of AI and the level to which it can replace previous humanly operated processes are a demonstration of the pace of technological advancement.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/27/can-artificial-intelligence-ever-achieve-societal-level-digital-trust/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/27/can-artificial-intelligence-ever-achieve-societal-level-digital-trust/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f3bdea7cf036822a957572d/0x0.jpg?format=jpg&crop=5700,3206,x0,y294,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/27/can-artificial-intelligence-ever-achieve-societal-level-digital-trust/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/27/can-artificial-intelligence-ever-achieve-societal-level-digital-trust/amp/",
+      "publishedDateTime": "2023-04-27T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-04-27-how-erp-is-breaking-down-silos-and-driving-sustainable-change.md",
       "title": "How ERP is breaking down silos and driving sustainable change",
       "excerpt": "While many organizations have established environmental, social and governance (ESG) goals and made ESG commitments, driven by purpose and emerging regulatory requirements, they face several challenges when making the transition from ambition to action. A recent IBM study found that global executives",
@@ -154,7 +412,7 @@
       "originalUrl": "https://www.huffpost.com/entry/spotify-ceo-daniel-ek-artificial-intelligence_n_644a26d2e4b039ec4e8319b6",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -194,59 +452,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-ml-models-exclusive-aiml-knowledge-for-business-and-engineers-powered-by-intetics.md",
-      "title": "ML Models: Exclusive AI/ML Knowledge for Business and Engineers. Powered by Intetics",
-      "excerpt": "Everything businesses need to know about AI/ML is packed in the exclusive comprehensive guide: a step-by-step approach for assessing an organization's readiness for ML implementation. Over the next decade,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ml-models-exclusive-aiml-knowledge-for-business-and-engineers-powered-by-intetics-2023-04-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/ml-models-exclusive-aiml-knowledge-for-business-and-engineers-powered-by-intetics-2023-04-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T03:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     },
     {
@@ -396,51 +601,6 @@
       ]
     },
     {
-      "path": "_news/2023-04-27-machine-learning-in-retail-market-size-business-segments-innovative-strategies-and-outlook-by-2030-ibm-microsoft-amazon-web-services.md",
-      "title": "Machine Learning in Retail Market Size, Business Segments, Innovative Strategies And Outlook by 2030| IBM, Microsoft, Amazon Web Services",
-      "excerpt": "The Machine Learning in Retail Market research report encompasses a thorough study of the current situation of the",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-in-retail-market-size-business-segments-innovative-strategies-and-outlook-by-2030-ibm-microsoft-amazon-web-services-2023-04-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-in-retail-market-size-business-segments-innovative-strategies-and-outlook-by-2030-ibm-microsoft-amazon-web-services-2023-04-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T00:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-27-us-senator-open-letter-calls-for-ai-security-at-forefront-of-development.md",
       "title": "US senator open letter calls for AI security at ‘forefront’ of development",
       "excerpt": "U.S. Sen. Mark Warner issues an open letter calling for companies to put AI security at the forefront of development.",
@@ -501,7 +661,7 @@
       "originalUrl": "https://www.foxnews.com/politics/first-wave-ai-rules-congress-look-like",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -937,7 +1097,7 @@
       "originalUrl": "https://techcrunch.com/2023/04/27/muslims-come-into-the-frame-in-southeast-asias-fintech-boom/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -1040,7 +1200,7 @@
       "originalUrl": "https://venturebeat.com/ai/moveworks-debuts-creator-studio-to-build-ai-driven-employee-copilots/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -1080,163 +1240,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-review-the-magic-conveyor-belt-supply-chain-and-ai-a-tale-of-two-halves.md",
-      "title": "Review: “The Magic Conveyor Belt, Supply Chain And AI,” A Tale Of Two Halves",
-      "excerpt": "I had hopes that this would be a great book about modern supply chains and how artificial intelligence (AI) can address the challenges of the sector. Sadly, I was only half right.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidteich/2023/04/26/review-the-magic-conveyor-belt-supply-chain-and-ai-a-tale-of-two-halves/",
-      "originalUrl": "https://www.forbes.com/sites/davidteich/2023/04/26/review-the-magic-conveyor-belt-supply-chain-and-ai-a-tale-of-two-halves/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f282315f48daeb3a6621465/0x0.jpg?format=jpg&crop=875,492,x0,y20,safe&width=1200",
-          "width": 875,
-          "height": 492,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2023/04/26/review-the-magic-conveyor-belt-supply-chain-and-ai-a-tale-of-two-halves/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2023/04/26/review-the-magic-conveyor-belt-supply-chain-and-ai-a-tale-of-two-halves/amp/",
-      "publishedDateTime": "2023-04-26T13:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-the-power-of-infrastructure-purpose-built-for-ai.md",
-      "title": "The power of infrastructure purpose-built for AI",
-      "excerpt": "Advances in powerful computing and the cloud are at the heart of the AI revolution. With faster, more efficient processing of vast amounts of data, companies can break through the",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/the-power-of-infrastructure-purpose-built-for-ai/",
-      "originalUrl": "https://venturebeat.com/ai/the-power-of-infrastructure-purpose-built-for-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/04/AdobeStock_564311673.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 686,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/the-power-of-infrastructure-purpose-built-for-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-power-of-infrastructure-purpose-built-for-ai/amp/",
-      "publishedDateTime": "2023-04-26T13:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-artificial-intelligence-quiz-how-well-do-you-know-ai.md",
-      "title": "Artificial intelligence quiz! How well do you know AI?",
-      "excerpt": "How well do you know the basis of artificial intelligence? Take this quiz and find out what you have knowledge on regarding AI and what you might need more education on.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/artificial-intelligence-quiz-know-ai",
-      "originalUrl": "https://www.foxnews.com/tech/artificial-intelligence-quiz-know-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2023/04/aipic.png",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-26T12:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/mobile/apple-may-be-building-ai-health
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/apple-may-be-building-ai-health-coach-for-apple-watch/?amp"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -61,6 +61,22 @@ related:
       - url: "https://www.cnet.com/a/img/resize/b51c7491a37488da50088db52ecc742f50031f18/hub/2023/04/25/24906f59-9de8-4dd1-8ee7-82ce372523dd/gettyimages-1360358389.jpg?auto=webp&fit=crop&height=630&width=1200"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Apple is working on an AI health coaching service, according to reports"
+    excerpt: "Need help staying on top of your health and wellness goals? Apple is working on some projects that might help."
+    publishedDateTime: 2023-04-27T18:44:00Z
+    webUrl: "https://www.zdnet.com/article/apple-is-working-on-an-ai-health-coaching-service-according-to-reports/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/apple-is-working-on-an-ai-health-coaching-service-according-to-reports/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/apple-is-working-on-an-ai-health-coaching-service-according-to-reports/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/aafc79d1ed5b4855d68660b317f0131688ea004f/2022/09/08/675c038f-0a14-43e6-ab88-3cc88698813c/apple-watch-series-8.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Apple plans to expand Health services to include mood & eye tracking, AI coach planned for later"
     excerpt: "Apple reportedly plans to release an AI-powered health coach and tools to track a person's mood, and the Health app might finally be available on the iPad."

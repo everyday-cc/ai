@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/global-development/2023/apr/25/human-val
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/global-development/2023/apr/25/human-values-as-well-as-ai-must-be-at-the-core-of-the-future-of-work-chatgtp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: The Guardian
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Why movies made by artificial intelligence won’t be the future of film"
+    excerpt: "Surely we go to the cinema to be jolted and discomfited by someone else’s ideas – not to see ourselves in easy meetcute rom-coms with Marilyn Monroe"
+    publishedDateTime: 2023-04-28T10:10:00Z
+    webUrl: "https://www.theguardian.com/culture/2023/apr/28/the-guide-ai-film-joe-russo"
+    ampWebUrl: "https://amp.theguardian.com/culture/2023/apr/28/the-guide-ai-film-joe-russo"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/culture/2023/apr/28/the-guide-ai-film-joe-russo"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/8351c7d7fb90bad8d42237d4d2a7d5ee935ca0cd/0_47_3000_1800/master/3000.jpg?width=620&quality=85&auto=format&fit=max&s=effa0e4659ae18b8de42eca8f9ea395f"
+        width: 620
+        height: 372
+        isCached: true
   - title: "AI, Robots, and the Inventive Future of White Castle"
     excerpt: "White Castle has been around 102 years, give a month or two. A journey that began when Billy Ingram and Walter Anderson began dishing square hamburgers for 5 cents apiece. Still family owned, the brand’s guidepost remains nostalgic—“Create Memorable Moments."
     publishedDateTime: 2023-04-25T16:02:00Z

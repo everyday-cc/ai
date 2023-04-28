@@ -2,6 +2,163 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-04-27-review-the-magic-conveyor-belt-supply-chain-and-ai-a-tale-of-two-halves.md",
+      "title": "Review: “The Magic Conveyor Belt, Supply Chain And AI,” A Tale Of Two Halves",
+      "excerpt": "I had hopes that this would be a great book about modern supply chains and how artificial intelligence (AI) can address the challenges of the sector. Sadly, I was only half right.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidteich/2023/04/26/review-the-magic-conveyor-belt-supply-chain-and-ai-a-tale-of-two-halves/",
+      "originalUrl": "https://www.forbes.com/sites/davidteich/2023/04/26/review-the-magic-conveyor-belt-supply-chain-and-ai-a-tale-of-two-halves/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f282315f48daeb3a6621465/0x0.jpg?format=jpg&crop=875,492,x0,y20,safe&width=1200",
+          "width": 875,
+          "height": 492,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2023/04/26/review-the-magic-conveyor-belt-supply-chain-and-ai-a-tale-of-two-halves/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2023/04/26/review-the-magic-conveyor-belt-supply-chain-and-ai-a-tale-of-two-halves/amp/",
+      "publishedDateTime": "2023-04-26T13:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-27-the-power-of-infrastructure-purpose-built-for-ai.md",
+      "title": "The power of infrastructure purpose-built for AI",
+      "excerpt": "Advances in powerful computing and the cloud are at the heart of the AI revolution. With faster, more efficient processing of vast amounts of data, companies can break through the",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/the-power-of-infrastructure-purpose-built-for-ai/",
+      "originalUrl": "https://venturebeat.com/ai/the-power-of-infrastructure-purpose-built-for-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/04/AdobeStock_564311673.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 686,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/the-power-of-infrastructure-purpose-built-for-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-power-of-infrastructure-purpose-built-for-ai/amp/",
+      "publishedDateTime": "2023-04-26T13:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-04-27-artificial-intelligence-quiz-how-well-do-you-know-ai.md",
+      "title": "Artificial intelligence quiz! How well do you know AI?",
+      "excerpt": "How well do you know the basis of artificial intelligence? Take this quiz and find out what you have knowledge on regarding AI and what you might need more education on.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/artificial-intelligence-quiz-know-ai",
+      "originalUrl": "https://www.foxnews.com/tech/artificial-intelligence-quiz-know-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2023/04/aipic.png",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-26T12:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-04-26-deliver-your-first-ml-use-case-in-812-weeks.md",
       "title": "Deliver your first ML use case in 8–12 weeks",
       "excerpt": "Do you need help to move your organization’s Machine Learning (ML) journey from pilot to production? You’re not alone. Most executives think ML can apply to any business decision, but on average only half of the ML projects make it to production. This post describes how to implement your first ML use",
@@ -157,7 +314,7 @@
       "originalUrl": "https://techcrunch.com/2023/04/26/airops-is-helping-companies-build-ai-enabled-applications-on-top-of-llms/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -252,21 +409,21 @@
       ]
     },
     {
-      "path": "_news/2023-04-26-global-artificial-intelligence-ai-chips-market-set-to-boom-in-the-near-future-2023-2030.md",
-      "title": "Global \"Artificial Intelligence (AI) Chips Market\" Set to Boom in the Near Future 2023-2030",
-      "excerpt": "Chips Market\" information for each competitor includes (Qualcomm, Mythic, Adapteva, Advanced Micro Devices (AMD), Google Inc., NVIDIA, Intel Corporation, UC-Davis, Graphcore, Baidu) Company Profile, Main Business Information,",
+      "path": "_news/2023-04-26-tiktok-is-testing-an-in-app-tool-that-creates-generative-ai-avatars.md",
+      "title": "TikTok is testing an in-app tool that creates generative AI avatars",
+      "excerpt": "TikTok is experimenting with a new tool that allows users to create generative AI avatars, the company confirmed to TechCrunch",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chips-market-set-to-boom-in-the-near-future-2023-2030-2023-04-26",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chips-market-set-to-boom-in-the-near-future-2023-2030-2023-04-26",
+      "webUrl": "https://techcrunch.com/2023/04/26/tiktok-is-testing-an-in-app-tool-that-creates-generative-ai-avatars/",
+      "originalUrl": "https://techcrunch.com/2023/04/26/tiktok-is-testing-an-in-app-tool-that-creates-generative-ai-avatars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 147,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1248373545.jpg?resize=1200,788",
           "width": 1200,
-          "height": 630,
+          "height": 788,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -274,16 +431,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-26T08:40:00-07:00",
+      "ampWebUrl": "https://techcrunch.com/2023/04/26/tiktok-is-testing-an-in-app-tool-that-creates-generative-ai-avatars/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/04/26/tiktok-is-testing-an-in-app-tool-that-creates-generative-ai-avatars/amp/",
+      "publishedDateTime": "2023-04-26T09:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -299,7 +456,6 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
         "AI"
       ]
     },
@@ -343,58 +499,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-26-ai-accelerator-chip-market-demand-by-2030.md",
-      "title": "AI Accelerator Chip Market Demand by 2030",
-      "excerpt": "The latest market research report on the Global \"AI Accelerator Chip Market\" is segmented by Regions, Country, Company",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-accelerator-chip-market-demand-by-2030-2023-04-26",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-accelerator-chip-market-demand-by-2030-2023-04-26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-26T05:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     },
@@ -447,57 +551,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-26-ai-could-spell-the-end-of-big-business.md",
-      "title": "AI Could Spell the End of Big Business",
-      "excerpt": "The leading companies in artificial intelligence tend to be small, and many big ones will use it to get smaller.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/opinion/articles/2023-04-26/ai-could-spell-the-end-of-big-business",
-      "originalUrl": "https://www.bloomberg.com/opinion/articles/2023-04-26/ai-could-spell-the-end-of-big-business",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9rRKQiMCs54/v1/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-26T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {
@@ -562,7 +615,7 @@
       "originalUrl": "https://venturebeat.com/games/kinetix-launches-text-to-animation-ai-for-new-era-in-user-generated-content/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -717,7 +770,7 @@
       "originalUrl": "https://www.digitaltrends.com/mobile/apple-may-be-building-ai-health-coach-for-apple-watch/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -748,48 +801,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-26-top-10-trusted-artificial-intelligenceai-companies-in-2023.md",
-      "title": "Top 10 Trusted Artificial Intelligence(AI) Companies In 2023",
-      "excerpt": "The team of TopSoftwareCompanies.co has made a list of Top functional Artificial Intelligence companies of 2023 following certain selection criteria. The team has finalized the list of top AI developers based on their core service offerings,",
-      "sourceUrl": null,
-      "webUrl": "https://www.outlookindia.com/outlook-spotlight/top-10-trusted-artificial-intelligence-ai-companies-in-2023-news-281342",
-      "originalUrl": "https://www.outlookindia.com/outlook-spotlight/top-10-trusted-artificial-intelligence-ai-companies-in-2023-news-281342",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imgnew.outlookindia.com/uploadimage/library/free_files/jpg/ole_co_2023_04_20_080032.jpg?v=25022022",
-          "width": 768,
-          "height": 1021,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.outlookindia.com/outlook-spotlight/top-10-trusted-artificial-intelligence-ai-companies-in-2023-news-281342/amp",
-      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/outlook-spotlight/top-10-trusted-artificial-intelligence-ai-companies-in-2023-news-281342/amp",
-      "publishedDateTime": "2023-04-25T22:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Outlookindia",
-        "domain": "outlookindia.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1111,58 +1122,6 @@
       ]
     },
     {
-      "path": "_news/2023-04-26-tech-giants-bury-mediocre-results-under-ai-hype.md",
-      "title": "Tech giants bury mediocre results under AI hype",
-      "excerpt": "Microsoft and Google parent Alphabet are employing a bit of artificial intelligence-powered magic to enthrall Wall Street. The technology giants’ quarterly results released on Tuesday jumped the low bar of being better than investors feared.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/breakingviews/tech-giants-bury-mediocre-results-under-ai-hype-2023-04-25/",
-      "originalUrl": "https://www.reuters.com/breakingviews/tech-giants-bury-mediocre-results-under-ai-hype-2023-04-25/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/fQbRjYTrftcRMQdGNDN7m4oi4Bw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DLGKBYX2NVKINMP2C6SERVUHBU.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-25T14:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-26-24-top-ai-statistics-and-trends-in-2023.md",
       "title": "24 Top AI Statistics And Trends In 2023",
       "excerpt": "AI continues to revolutionize various industries, with an expected annual growth rate of 37.3% between 2023 and 2030, as reported by Grand View Research. This rapid growth emphasizes the increasing impact of AI technologies in the coming years. [5]",
@@ -1264,6 +1223,58 @@
         "AI",
         "AWS AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-04-26-tc-roundup-pitch-coaching-from-5-vcs-black-founder-funding-options-3-fintech-flubs.md",
+      "title": "TC+ roundup: Pitch coaching from 5 VCs, Black founder funding options, 3 fintech flubs",
+      "excerpt": "If you’ve added \"AI\" to your pitch deck to make it more appealing, I have some bad news: FOMO is passé, and due diligence is the new black.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/04/25/tc-roundup-pitch-coaching-from-5-vcs-black-founder-funding-options-3-fintech-flubs/",
+      "originalUrl": "https://techcrunch.com/2023/04/25/tc-roundup-pitch-coaching-from-5-vcs-black-founder-funding-options-3-fintech-flubs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/04/GettyImages-1372487294.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/04/25/tc-roundup-pitch-coaching-from-5-vcs-black-founder-funding-options-3-fintech-flubs/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/04/25/tc-roundup-pitch-coaching-from-5-vcs-black-founder-funding-options-3-fintech-flubs/amp/",
+      "publishedDateTime": "2023-04-25T13:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
       ]
     }
   ],

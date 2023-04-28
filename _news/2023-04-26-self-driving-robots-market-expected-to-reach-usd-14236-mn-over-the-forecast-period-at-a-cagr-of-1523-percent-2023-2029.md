@@ -29,29 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Autonomous Delivery Robots Market 2023-2031"
-    excerpt: "What is the Autonomous Delivery Robots market growth? Autonomous Delivery Robots Market Size is projected to Reach Multimillion USD by 2030, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2030."
-    publishedDateTime: 2023-04-25T10:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/autonomous-delivery-robots-market-2023-2031-2023-04-25"
+  - title: "Deep Learning Market to reach USD 137.58 Bn by 2029, at a CAGR of 41.5 percent (2022-2029)"
+    excerpt: "The global Deep Learning Market size was valued at USD 8.56 Bn in 2021 and is expected to reach nearly USD 137.58 Bn"
+    publishedDateTime: 2023-04-24T04:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-to-reach-usd-13758-bn-by-2029-at-a-cagr-of-415-percent-2022-2029-2023-04-24"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Cognitive Data Management Market Recent Developments and Updates By 2031"
-    excerpt: "What is the Cognitive Data Management market growth? Cognitive Data Management Market Size is projected to Reach Multimillion USD by 2031, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2031."
-    publishedDateTime: 2023-04-27T12:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-data-management-market-recent-developments-and-updates-by-2031-2023-04-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
+    quality: 59
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

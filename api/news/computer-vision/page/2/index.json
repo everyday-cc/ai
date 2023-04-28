@@ -2,40 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2023-04-13-wimi-develops-a-3d-object-recognition-system-based-on-multi-view-feature-fusion.md",
-      "title": "WiMi Develops a 3D Object Recognition System Based on Multi-View Feature Fusion",
-      "excerpt": "BEIJING, April 13, 2023 /PRNewswire/ -- WiMi Hologram Cloud Inc. (NASDAQ: WIMI) (\"WiMi\" or the \"Company\"), a leading global Hologram Augmented Reality (\"AR\") Technology provider, today announced the development of a 3D object recognition system based on ...",
-      "sourceUrl": null,
-      "webUrl": "https://stockhouse.com/news/press-releases/2023/04/13/wimi-develops-a-3d-object-recognition-system-based-on-multi-view-feature-fusion",
-      "originalUrl": "https://stockhouse.com/news/press-releases/2023/04/13/wimi-develops-a-3d-object-recognition-system-based-on-multi-view-feature-fusion",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-13T05:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Stockhouse",
-        "domain": "stockhouse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-11-detect-real-and-live-users-and-deter-bad-actors-using-amazon-rekognition-face-liveness.md",
       "title": "Detect real and live users and deter bad actors using Amazon Rekognition Face Liveness",
       "excerpt": "Financial services, the gig economy, telco, healthcare, social networking, and other customers use face verification during online onboarding, step-up authentication, age-based access restriction, and bot detection. These customers verify user identity by matching the user’s face in a selfie captured",
@@ -1261,6 +1227,58 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-03-24T18:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-24-ai-in-computer-vision-market-global-various-tendencies-industry-report-2029.md",
+      "title": "AI in Computer Vision Market | Global Various Tendencies Industry Report 2029",
+      "excerpt": "Mar 24, 2023 (The Expresswire) -- [112+ Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “AI in Computer Vision Market” Size 2023 Key players Profiled in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-global-various-tendencies-industry-report-2029-2023-03-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-global-various-tendencies-industry-report-2029-2023-03-24",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 201,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-24T08:19:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",

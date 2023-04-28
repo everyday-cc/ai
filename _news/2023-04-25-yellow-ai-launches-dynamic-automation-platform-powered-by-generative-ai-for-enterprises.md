@@ -30,19 +30,35 @@ images:
     isCached: true
 
 related:
-  - title: "Kinetix launches text-to-animation AI for new era in user-generated content"
-    excerpt: "Kinetix has announced Text2Emotes, a generative AI technology that heralds a new era of user-generated gaming content (UGC)."
-    publishedDateTime: 2023-04-26T07:59:00Z
-    webUrl: "https://venturebeat.com/games/kinetix-launches-text-to-animation-ai-for-new-era-in-user-generated-content/"
-    ampWebUrl: "https://venturebeat.com/games/kinetix-launches-text-to-animation-ai-for-new-era-in-user-generated-content/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/kinetix-launches-text-to-animation-ai-for-new-era-in-user-generated-content/amp/"
+  - title: "Making The Most Out Of Generative AI In Your Enterprise"
+    excerpt: "Generative artificial intelligence (AI) has come to the forefront of business leaders' minds with the ongoing stories and innovative capabilities of ChatGPT and the waitlist for its rival, Google Bard."
+    publishedDateTime: 2023-04-28T11:14:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/28/making-the-most-out-of-generative-ai-in-your-enterprise/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/28/making-the-most-out-of-generative-ai-in-your-enterprise/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/28/making-the-most-out-of-generative-ai-in-your-enterprise/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/644a7a52c586aa5faa0d1575/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 781
+        isCached: true
+  - title: "The 5 biggest risks of generative AI, according to an expert"
+    excerpt: "According to Gartner analyst Avivah Litan, some of the biggest risks of generative AI concern trust and security and include hallucinations, deepfakes, data privacy, copyright issues, and cybersecurity problems."
+    publishedDateTime: 2023-04-25T09:54:00Z
+    webUrl: "https://www.zdnet.com/article/the-5-biggest-risks-of-generative-ai-according-to-an-expert/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-5-biggest-risks-of-generative-ai-according-to-an-expert/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-5-biggest-risks-of-generative-ai-according-to-an-expert/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
     quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/04/kinetix-text2emote.jpg?w=1200&strip=all"
+      - url: "https://www.zdnet.com/a/img/resize/0cc190b128c483df4d94a80b464a741210a694f4/2023/04/24/ba357ab7-5959-44f7-a452-d12811dba59b/gettyimages-1404749040-170667a.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -62,29 +78,173 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Yellow.ai launches Dynamic Automation Platform (DAP) with Generative AI, unveils new logo"
-    excerpt: "Yellow.ai, a global leader in Conversational AI, today announced the launch of its Dynamic Automation Platform (DAP), powered by generative AI, that enables enterprises to automate customer and employee experiences at scale with 60% reduction in their operational costs."
-    publishedDateTime: 2023-04-25T16:55:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/04/25/9801543.htm"
+  - title: "How To Boost Your College Applications Using AI — Without Cheating The Essay"
+    excerpt: "While ChatGPT has many questioning the role and usefulness of the college essay, there are ways to make the college admissions process more efficient and effective in the exploration and application phases."
+    publishedDateTime: 2023-04-24T23:08:00Z
+    webUrl: "https://www.forbes.com/sites/avivalegatt/2023/04/24/how-to-boost-your-college-applications-using-ai---without-cheating-the-essay/"
+    ampWebUrl: "https://www.forbes.com/sites/avivalegatt/2023/04/24/how-to-boost-your-college-applications-using-ai---without-cheating-the-essay/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/avivalegatt/2023/04/24/how-to-boost-your-college-applications-using-ai---without-cheating-the-essay/amp/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 30
+      name: Forbes
+      domain: forbes.com
+    quality: 84
     images:
-      - url: "https://mma.prnewswire.com/media/2061615/Yellow_ai_launches_Dynamic_Automation.jpg"
-        width: 400
-        height: 400
+      - url: "https://imageio.forbes.com/specials-images/imageserve/642b13ef95acfe3e77bbf2c3/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 798
         isCached: true
-  - title: "The Battle for Authenticity: The Importance of Detecting Human vs. AI-Generated Content by Intetics"
-    excerpt: "Intetics, a leading global technology company, published an article on the burning challenges of generative AI, existing AI-generated content detection tools, their current limitations and prospects,"
-    publishedDateTime: 2023-04-27T11:53:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-battle-authenticity-importance-detecting-human-vs-ai-generated-/2023/04/27/9803149.htm"
+  - title: "EU lawmakers pass draft of AI Act, includes copyright rules for generative AI"
+    excerpt: "After months of negotiations and two years after a draft rules were proposed, EU lawmakers have a draft of the Artificial Intelligence Act."
+    publishedDateTime: 2023-04-27T20:38:00Z
+    webUrl: "https://venturebeat.com/ai/eu-lawmakers-pass-draft-of-ai-act-includes-last-minute-change-on-generative-ai-models/"
+    ampWebUrl: "https://venturebeat.com/ai/eu-lawmakers-pass-draft-of-ai-act-includes-last-minute-change-on-generative-ai-models/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/eu-lawmakers-pass-draft-of-ai-act-includes-last-minute-change-on-generative-ai-models/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 84
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/04/Untitled-design-62.png?w=1200&strip=all"
+        width: 1200
+        height: 750
+        isCached: true
+  - title: "These are the 9 best books to get up to speed on the hot new world of generative AI, according to experts"
+    excerpt: "The AI Revolution in Medicine: GPT-4 and Beyond Author: Peter Lee, Carey Goldberg, and Isaac Kohane. Lee, Corporate VP for Research and Incubations at Microsoft; Goldberg, medical and science ..."
+    publishedDateTime: 2023-04-24T00:00:00Z
+    webUrl: "https://www.businessinsider.com/list-generative-ai-artificial-intelligence-best-books-for-learning-experts-2023-3"
+    ampWebUrl: "https://www.businessinsider.com/list-generative-ai-artificial-intelligence-best-books-for-learning-experts-2023-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/list-generative-ai-artificial-intelligence-best-books-for-learning-experts-2023-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 72
+    images:
+      - url: "https://i.insider.com/6442e90e3d49030019df18aa?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Why the struggle for ethics in generative AI is more complex than we imagine"
+    excerpt: "Some generative AI companies have been criticized for scraping the Web for training data, including copyrighted material, without the consent of creators and rights owners. In this way, the work of any number of creative,"
+    publishedDateTime: 2023-04-24T09:23:00Z
+    webUrl: "https://diginomica.com/why-struggle-ethics-generative-ai-more-complex-we-imagine"
+    ampWebUrl: "https://diginomica.com/why-struggle-ethics-generative-ai-more-complex-we-imagine?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/why-struggle-ethics-generative-ai-more-complex-we-imagine?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 71
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2023-03/ethics-gb40633784_640.jpg"
+        width: 640
+        height: 453
+        isCached: true
+  - title: "In the age of AI, empathy could help save your job"
+    excerpt: "Unpacking “hidden needs” requires empathy, a process whereby a human person recognises and acknowledges the feeling and emotions (e.g. the tragedy one went through, the happiness they experience) of other human persons."
+    publishedDateTime: 2023-04-25T08:55:00Z
+    webUrl: "https://www.thedailystar.net/opinion/views/news/the-age-ai-empathy-could-help-save-your-job-3304076"
+    ampWebUrl: "https://www.thedailystar.net/opinion/views/news/the-age-ai-empathy-could-help-save-your-job-3304076?amp"
+    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/opinion/views/news/the-age-ai-empathy-could-help-save-your-job-3304076?amp"
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 59
+    images:
+      - url: "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/04/25/reuters.jpg"
+        width: 750
+        height: 393
+        isCached: true
+  - title: "How Enterprises Can Save Their Data from Gen AI Black Hole"
+    excerpt: "Generative AI has a lot of potential to disrupt the enterprise space, so it’s no wonder that this technology is now beginning to seep into companies’ tech stacks. However, as with any emerging technology,"
+    publishedDateTime: 2023-04-24T10:53:00Z
+    webUrl: "https://analyticsindiamag.com/how-enterprises-can-save-their-data-from-the-gen-ai-black-hole/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/04/ai-black-hole-1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Generative AI Is Only as Good as the Prompt You Give It"
+    excerpt: "It is ironic that much of the early conversation about ChatGPT had to do with the demise of writing skills when, in fact, the very success of generative-AI searches is determined by the quality of precisely written prompts."
+    publishedDateTime: 2023-04-26T05:42:00Z
+    webUrl: "https://www.insidehighered.com/opinion/blogs/online-trending-now/2023/04/26/generative-ai-only-good-prompt-you-give-it"
+    type: article
+    provider:
+      name: Inside Higher Ed
+      domain: insidehighered.com
+    quality: 39
+    images:
+      - url: "https://www.insidehighered.com/sites/default/files/2023-04/ihe-logo-web.png"
+        width: 600
+        height: 324
+        isCached: true
+  - title: "EU lawmakers pass draft of AI Act, includes last-minute change on generative AI models"
+    excerpt: "After months of negotiations and two years after a draft rules were proposed, EU lawmakers have a draft of the Artificial Intelligence Act."
+    publishedDateTime: 2023-04-27T19:02:00Z
+    webUrl: "https://venturebeat.com/ai/eu-lawmakers-pass-draft-of-ai-act-includes-last-minute-change-on-generative-ai-models/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 39
+  - title: "44 of the most promising generative-artificial-intelligence startups of 2023, according to investors"
+    excerpt: "Estimated total funding for each startup is based on data from PitchBook unless otherwise specified. Adept What it does: Adept is a machine-learning research-and-product lab aiming to build AI ..."
+    publishedDateTime: 2023-04-24T00:00:00Z
+    webUrl: "https://www.businessinsider.com/most-promising-generative-artificial-intelligence-startups-according-vcs-venture-capital-2023-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 37
+    images:
+      - url: "https://i.insider.com/641b26b3e49c3900187d78fa?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Generative AI: A paradigm shift in enterprise and startup opportunities"
+    excerpt: "As news cycles eclipse one another about these advancements, it may seem like generative AI sprang out of nowhere for many business and executive leaders. Still, the reality is that these new architectures are built on approaches that have evolved over the past few decades."
+    publishedDateTime: 2023-04-24T19:52:00Z
+    webUrl: "https://www.cio.com/article/474720/generative-ai-a-paradigm-shift-in-enterprise-and-startup-opportunities.html"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 19
+  - title: "The rapid rise of generative AI threatens to upend US patent system"
+    excerpt: "The flurry of concern has been prompted by the rapid rise of generative AI. Though known mainly from OpenAI’s ChatGPT, the same technology is already being used to design semiconductors and suggest ideas for new molecules that might form the basis of useful drugs."
+    publishedDateTime: 2023-04-26T12:00:00Z
+    webUrl: "https://www.ft.com/content/dc556ab8-9661-4d93-8211-65a44204f358"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
+  - title: "Moveworks Launches Creator Studio: A No-Code, Generative AI Platform for Building Any Conversational AI Use Case Across the Enterprise"
+    excerpt: "Moveworks, the leading conversational AI platform for the enterprise, today announced Creator Studio - a no-code, generative AI platform for building any conversational AI use case in minutes. The platform leverages advanced large language models (LLMs) and generative AI to provide a natural language interface that serves as an enterprise-wide copilot for employees."
+    publishedDateTime: 2023-04-26T15:34:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/04/26/9802438.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 5
+    quality: 0
+  - title: "Moveworks Launches Creator Studio: A No-Code, Generative AI Platform for Building Any Conversational AI Use Case Across the Enterprise"
+    excerpt: "Moveworks, a leading conversational AI platform for the enterprise, announced Creator Studio — a no-code, generative AI platform for building any conversational AI use case in minutes. The platform leverages advanced large language models (LLMs) and generative AI to provide a natural language interface that serves as an enterprise-wide co-pilot for employees."
+    publishedDateTime: 2023-04-27T18:27:00Z
+    webUrl: "https://www.datanami.com/this-just-in/moveworks-launches-creator-studio-a-no-code-generative-ai-platform-for-building-any-conversational-ai-use-case-across-the-enterprise/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 0
 
 secured: "1bG3UFUhN7lGzuBQYQSpkSDYcNahL8oXuO+P/2iN2OZF/JYDG/WNEoTHNAcvL7B+fW2RR8q3Z+1tXVbFDX23YRBeKQPnTLOeuhzkf0D1vJfhSOxmo9or/Yko5JRVUWYReAnFA+tBuJAGBZkQ1hCOL8cjbxGspk4WOr5f09lZLuAU4y575VEh+DGqlcFMRpslIDWlIxGJQstMjRBazqMsB/CMh2CqtUdOZ9KsIcrZsuf+ps1Xr7bCeKk5yOuKKWc4TQrXq1XLmIC2VCFAJqfMqZujEd17tdBasrovwnl6LT5YjIXTlI8OeBSfyziTzCAG9CTI2/zVIarM81wLWDzAZFciqcLVvJ9INwUFydq6IX2AF81qhwF4ZiPcnuCCCK0VIEIIlN/fPUhOTTE93dlHG9mz7dvlwtq8W3McHy6nb832WhJNE7377HwPuHEg4gKMa0xRETGXb9UkoZPImoKr93sTi2EP5iN/B+WSyoe3nM5WcLsZ91yp8CyBIUQn1Uvq1cnF7ySTn3iL9rgjBHJn3A==;z0wwdKVEOuB+WS6VQfUtyA=="
 ---

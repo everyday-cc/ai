@@ -66,6 +66,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Apple is working on an AI health coaching service, according to reports"
+    excerpt: "Need help staying on top of your health and wellness goals? Apple is working on some projects that might help."
+    publishedDateTime: 2023-04-27T18:44:00Z
+    webUrl: "https://www.zdnet.com/article/apple-is-working-on-an-ai-health-coaching-service-according-to-reports/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/apple-is-working-on-an-ai-health-coaching-service-according-to-reports/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/apple-is-working-on-an-ai-health-coaching-service-according-to-reports/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/aafc79d1ed5b4855d68660b317f0131688ea004f/2022/09/08/675c038f-0a14-43e6-ab88-3cc88698813c/apple-watch-series-8.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "H0fCyDUzATlIfeZbDXjpCeRtcHCImFzKnTXglRgxxGTGatednZ+2LuR7HWjPr3jMGcEr/WrSUULbuEhYTd48WyhCvA9uVir4hUDdCXSsJGsteAX6/5jSzTMYlW+Gul8iZr9FsNQVmVcMkh7bQCNXyVv827t8kes8S3vnphcDPVKUoG9S70U5hohWTdWLHdKdIBnPf8j7Q58lwjicTnBBvrWhypX0WcMtV2mBiSDHCg9YULkwfIDSH1kppUO4twcn+5olcqlvZIJlYfGNoiHcE6EjXJca5eNY4deVJljS3Yqcl//pIqCs7JR5a0aA/hTN0DmC4VAXrPaUlXFQ7dSuUXaGs6pQwcF17REXJUI8Ko4qhlbmzbjkHXx5lJSkXQromPjDIVPpP/iMruXrd7zOmVeGOCfwPbH1k1ZahwSJvmdxFf04cAe6hR8QqvOmXrssW7Rd4eI9g/NeAVoHHq0iwnk9gnEhD3p5lqNcigcjTj33UnLD28j44ZVKkNGqFSG2G2l+f981uU2MPY4e7ZSYHA==;LZoWIFI/hH7BNLZihbprbQ=="
 ---

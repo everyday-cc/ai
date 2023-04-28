@@ -9,8 +9,8 @@ ampWebUrl: "https://www.edsurge.com/amp/news/2023-04-24-how-students-use-ai-to-d
 cdnAmpWebUrl: "https://www-edsurge-com.cdn.ampproject.org/c/s/www.edsurge.com/amp/news/2023-04-24-how-students-use-ai-to-design-solutions-for-their-community"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: EdSurge
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Researchers use AI to generate novel proteins that meet structural design targets"
+    excerpt: "MIT researchers are using artificial intelligence to design new proteins that go beyond those found in nature.They developed machine-learning algorithms that can generate proteins with specific structural features,"
+    publishedDateTime: 2023-04-28T10:04:00Z
+    webUrl: "https://indiaeducationdiary.in/researchers-use-ai-to-generate-novel-proteins-that-meet-structural-design-targets/"
+    ampWebUrl: "https://indiaeducationdiary.in/researchers-use-ai-to-generate-novel-proteins-that-meet-structural-design-targets/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/researchers-use-ai-to-generate-novel-proteins-that-meet-structural-design-targets/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 54
+    images:
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2023/04/MIT-genprotein-01-press_1.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Recommendations for handling AI in schools"
     excerpt: "The Berlin Senate Department for Education has issued recommendations for teachers on the use of artificial intelligence (AI) in schools."
     publishedDateTime: 2023-04-25T15:32:00Z

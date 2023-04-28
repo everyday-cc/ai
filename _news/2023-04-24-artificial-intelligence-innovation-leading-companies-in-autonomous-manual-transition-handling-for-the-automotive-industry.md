@@ -32,20 +32,6 @@ related:
         width: 1000
         height: 417
         isCached: true
-  - title: "How artificial intelligence and automation can streamline procurement"
-    excerpt: "We speak to chief procurement officers about the role of AI in helping their organisations reduce costs and tackle the economic slowdown"
-    publishedDateTime: 2023-04-24T03:00:00Z
-    webUrl: "https://www.computerweekly.com/feature/How-AI-and-automation-can-streamline-procurement"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 37
-    images:
-      - url: "https://cdn.ttgtmedia.com/rms/onlineimages/ai_a352095729.jpg"
-        width: 1200
-        height: 400
-        isCached: true
   - title: "Artificial intelligence innovation: Leading companies in autopilot-manual switching for the automotive industry"
     excerpt: "The automotive industry continues to be a hotbed of innovation, with activity driven by the growth of connected and autonomous vehicles, and growing importance of technologies such as artificial intelligence,"
     publishedDateTime: 2023-04-24T12:59:00Z

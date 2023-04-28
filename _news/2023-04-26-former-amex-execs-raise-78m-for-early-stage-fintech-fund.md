@@ -24,22 +24,6 @@ images:
     height: 435
     isCached: true
 
-related:
-  - title: "Vesey Ventures Launches $78M Debut Fund for Fintech Startups"
-    excerpt: "Vesey Ventures, an early-stage venture firm that invests in companies transforming financial services, today announced the close of its debut fund totalling $78 million. Vesey Ventures was founded by three former Managing Directors at AMEX Ventures,"
-    publishedDateTime: 2023-04-24T07:46:00Z
-    webUrl: "https://financialit.net/news/investment/vesey-ventures-launches-78m-debut-fund-fintech-startups"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 24
-    images:
-      - url: "https://financialit.net/sites/default/files/veseyventures.png"
-        width: 1366
-        height: 768
-        isCached: true
-
 secured: "jcNTMxTHpvAZqaknLDS5C+3r7yZ/S1iPg3na4AH3xkFpVyiD8aQORlOLmWPSH7bSB3XQmYchwTcVZJjZNwC+++4BxH0YFCyb9BL1T6vKBNiGzqqqc44n7Oh4aiNu0bmsZMryT5dPYjDZ4Eb++UczJHe6V98JDj3oxztB9ONzxSGcJhKTLy3LLjfY3+HDD5DgS2eIp7z7GrIYQXQVsZEe6sVRED7Rvd8kSiqc5snqGD6F9KpvK0iFgP6e2ngdYkX28eSYG+Ak/SlddKnfU999ZMpJMkKVlu5p5u1l7cR145mnCUimnMYH9+MhSy5J3c3tBzfAJ0YQmF+QMrRLCjfp/KKDVXTMViV2VZQObilBg/0=;JoJxaRhgGrozudD0pC0N7A=="
 ---
 

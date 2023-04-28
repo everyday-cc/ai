@@ -89,20 +89,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI Governance Market Business Report [2023-2030]"
-    excerpt: "The AI Governance market has witnessed growth from USD million to USD million from 2017 to 2022. With the CAGR, this market is estimated to reach USD million in 2029. The report focuses on the AI Governance market size,"
-    publishedDateTime: 2023-04-27T22:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-governance-market-business-report-2023-2030-2023-04-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Cloud Natural Language Processing Market Research, 2023-2030"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 27, 2023 (The Expresswire) -- Cloud Natural Language Processing Market Insights 2023 by Types (Rulebased Natural Language Processing , Statistical Natural Language ..."
     publishedDateTime: 2023-04-27T18:55:00Z

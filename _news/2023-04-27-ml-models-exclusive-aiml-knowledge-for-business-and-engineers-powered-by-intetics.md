@@ -1,22 +1,18 @@
 ---
 category: news
 title: "ML Models: Exclusive AI/ML Knowledge for Business and Engineers. Powered by Intetics"
-excerpt: "Everything businesses need to know about AI/ML is packed in the exclusive comprehensive guide: a step-by-step approach for assessing an organization's readiness for ML implementation. Over the next decade,"
-publishedDateTime: 2023-04-27T10:43:00Z
-originalUrl: "https://www.marketwatch.com/press-release/ml-models-exclusive-aiml-knowledge-for-business-and-engineers-powered-by-intetics-2023-04-27"
-webUrl: "https://www.marketwatch.com/press-release/ml-models-exclusive-aiml-knowledge-for-business-and-engineers-powered-by-intetics-2023-04-27"
+excerpt: "Intetics, a leading global technology company, announces the release of the latest White Paper, \"ML Models: Exclusive AI/ML Knowledge for Business and Engineers. Powered by Intetics.\" Everything businesses need to know about AI/ML is packed in the exclusive comprehensive guide: a step-by-step approach for assessing an organization's readiness for ML implementation."
+publishedDateTime: 2023-04-27T11:02:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/04/27/9803176.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/04/27/9803176.htm"
 type: article
-quality: 79
-heat: 79
-published: true
+quality: 49
+heat: 49
+published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
@@ -24,11 +20,11 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
+    width: 550
+    height: 353
     isCached: true
 
-secured: "D/Pb4CZCxi+jtSlVUbE+mO00XA2qwpSb2mRo9L8c1RP90DnGjuZoNWOFEKN2zPmPb07gru0H4anTN9X412Ris6G1agmhp5gtpa/+q65+cIJi80Xgy/e4DKE4u5QuLz+6wud6sqZE98MDnrIiBmi6mYhYSa44+okJ8isZaj0u7m0op+TV+yRY5XqZdHDCmjtuO17HZHy66zi4qpbvxw/1VCCLZRlUvaor+xONGK6dhJtOZrpqSYhuoi2KtS/+Myg5OcUDatodoaEquRFoAJQXcEbfhKkfHLzr1ALLYd+PQtrm2/PDL7vqGvPXiPo9cseWFDX2XF2qA9z2c6iEobKVUUDxQKf7E7jkePDOWay1XiE=;bdPVVXPf8lMW9HZ5RELhuw=="
+secured: "dQzPdGwZEvLAwBqAyQic1q4OBvpsjGjR1IXHZqSwGWdF3/Hiipq7WyJbOEGO9ObA933rdkA2fOSqMzfVDjQPsS9mREEziGTzI5P+Utd2KaDZL8EIOoZx/pFi/GR47ISteZPbtIVqvzeWzV3PC1IAZEutTCcSQDKQV2ilbOB9M5SAVAiAzyoAyYszUwgt+MVRrVLfcpabDG1ka+mmMF6EiSfmGeEJKw6+ErAFCbLEz/25SzQO+LW6+efMTuDueIq4UxoVMlP36a/fFyMu/RKfWxdBVXvc54tdCMB2/Wc/8Ig+bcA5kS5G9s2pUy5PZx61Rux6CKionbprU3hLedU4zAaQcGyMQvBycTX2C0jfWeo=;N4z4R0XAWTk+EidJR8t27g=="
 ---
 

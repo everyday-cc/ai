@@ -53,7 +53,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/which-segments-computer-vision-system-market-are-anticipated-to-highest-cagr-by-2030-2023-04-27",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -209,7 +209,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-research-report-with-analysis-2023-to-2030-2023-04-25",
       "featuredContent": null,
       "highlight": null,
-      "heat": 294,
+      "heat": 284,
       "tags": null,
       "images": [
         {
@@ -401,58 +401,6 @@
         "Microsoft AI",
         "Facebook AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-04-24-object-recognition-imaging-systems-market-size-from-2023-and-unlimited-opportunities-for-new-companies.md",
-      "title": "Object Recognition Imaging Systems Market Size From 2023 And Unlimited Opportunities for New Companies",
-      "excerpt": "Object Recognition Imaging Systems Market Size 2023 | New Report (127 Pages) | Analytics | In This Reports Object Recognition Imaging Systems Market Top Object Recognition Imaging Systems Companies (Servo-Robot Inc,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/object-recognition-imaging-systems-market-size-from-2023-and-unlimited-opportunities-for-new-companies-2023-04-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/object-recognition-imaging-systems-market-size-from-2023-and-unlimited-opportunities-for-new-companies-2023-04-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-23T20:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     },
     {
@@ -1377,6 +1325,40 @@
       "provider": {
         "name": "Artnet",
         "domain": "artnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-13-wimi-develops-a-3d-object-recognition-system-based-on-multi-view-feature-fusion.md",
+      "title": "WiMi Develops a 3D Object Recognition System Based on Multi-View Feature Fusion",
+      "excerpt": "BEIJING, April 13, 2023 /PRNewswire/ -- WiMi Hologram Cloud Inc. (NASDAQ: WIMI) (\"WiMi\" or the \"Company\"), a leading global Hologram Augmented Reality (\"AR\") Technology provider, today announced the development of a 3D object recognition system based on ...",
+      "sourceUrl": null,
+      "webUrl": "https://stockhouse.com/news/press-releases/2023/04/13/wimi-develops-a-3d-object-recognition-system-based-on-multi-view-feature-fusion",
+      "originalUrl": "https://stockhouse.com/news/press-releases/2023/04/13/wimi-develops-a-3d-object-recognition-system-based-on-multi-view-feature-fusion",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-13T05:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stockhouse",
+        "domain": "stockhouse.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/boston-dynamics-robot-dog-c
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/boston-dynamics-robot-dog-can-answer-your-questions-now-thanks-to-chatgpt/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/66cd397bf62d97a55b9d4229b481942dce2176ab/2023/04/25/78be6954-5e79-487a-b681-311730d7bccf/screenshot-2023-04-25-at-4-26-20-pm.png?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Apple, TikTok jump aboard the generative AI train; Boston Dynamics’ Spot gets ChatGPT"
-    excerpt: "Apple and TikTok have jumped on the AI bandwagon. Also, even more interestingly, engineers are beginning to integrate ChatGPT into Boston Dynamics' Spot robotic dog."
-    publishedDateTime: 2023-04-27T11:47:00Z
-    webUrl: "https://indianexpress.com/article/technology/tech-news-technology/apple-tiktok-jump-aboard-the-generative-ai-train-boston-dynamics-spot-gets-chatgpt/"
-    ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/apple-tiktok-jump-aboard-the-generative-ai-train-boston-dynamics-spot-gets-chatgpt/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/apple-tiktok-jump-aboard-the-generative-ai-train-boston-dynamics-spot-gets-chatgpt/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 52
-    images:
-      - url: "https://images.indianexpress.com/2023/04/tiktok-featured-reuters.jpg?resize=600,334"
-        width: 600
-        height: 334
         isCached: true
   - title: "Oh Great, They Put ChatGPT Into a Boston Dynamics Robot Dog"
     excerpt: "As if robot dogs weren't creepy enough, at least one is now equipped with OpenAI's ChatGPT and can speak aloud."

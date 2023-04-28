@@ -2,6 +2,111 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-03-24-while-openai-has-been-working-on-text-and-images-igenius-has-been-working-on-gpt-for-numbers.md",
+      "title": "While OpenAI has been working on text and images, iGenius has been working on GPT for numbers",
+      "excerpt": "And with algorithms, natural language processing and user-created metadata, or what iGenius calls advanced conversational AI, the complexity of data quality can be improved and elevated. Gartner has dubbed this ‘conversational analytics.’ Virtualizing ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/while-openai-has-been-working-on-text-and-images-igenius-has-been-working-on-gpt-for-numbers/",
+      "originalUrl": "https://venturebeat.com/ai/while-openai-has-been-working-on-text-and-images-igenius-has-been-working-on-gpt-for-numbers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/03/iGeniusxVB-2.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/while-openai-has-been-working-on-text-and-images-igenius-has-been-working-on-gpt-for-numbers/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/while-openai-has-been-working-on-text-and-images-igenius-has-been-working-on-gpt-for-numbers/amp/",
+      "publishedDateTime": "2023-03-24T06:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-03-23-canva-unveils-a-series-of-new-features-including-several-ai-powered-tools.md",
+      "title": "Canva unveils a series of new features, including several AI-powered tools",
+      "excerpt": "Canva is introducing a series of new features, including a suite of new AI-powered tools, along with additional highly-requested features.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/03/22/canva-new-features-including-suite-of-ai-powered-tools/",
+      "originalUrl": "https://techcrunch.com/2023/03/22/canva-new-features-including-suite-of-ai-powered-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/03/canva-logo.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/03/22/canva-new-features-including-suite-of-ai-powered-tools/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/22/canva-new-features-including-suite-of-ai-powered-tools/amp/",
+      "publishedDateTime": "2023-03-23T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!News",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-23-canva-can-now-generate-custom-templates-thanks-to-ai.md",
       "title": "Canva Can Now Generate Custom Templates, Thanks To AI",
       "excerpt": "Recognizing the need for global communication, Canva's Translate tool allows users to convert their text into over 100 different languages with just a click, broadening their audience reach. Finally, Magic Write, Canva’s AI-powered copywriting assistant ...",
@@ -1323,92 +1428,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-10-google-provides-update-on-ai-speech-models.md",
-      "title": "Google Provides Update On AI Speech Models",
-      "excerpt": "The group had to face two significant challenges in automatic speech recognition (ASR). First, a lack of scalability with conventional supervised learning approaches. A fundamental challenge of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mediapost.com/publications/article/383312/google-provides-update-on-ai-speech-models.html",
-      "originalUrl": "https://www.mediapost.com/publications/article/383312/google-provides-update-on-ai-speech-models.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-09T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MediaPost",
-        "domain": "mediapost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-09-natural-language-processing-nlp-market-global-opportunity-analysis-and-industry-forecast-2023-2028.md",
-      "title": "Natural Language Processing (NLP) Market - Global Opportunity Analysis and Industry Forecast 2023-2028",
-      "excerpt": "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market---global-opportunity-analysis-and-industry-forecast-2023-2028-2023-03-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market---global-opportunity-analysis-and-industry-forecast-2023-2028-2023-03-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-08T17:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

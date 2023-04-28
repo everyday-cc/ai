@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/04/27/muslims-come-into-the-frame-in-sou
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/04/27/muslims-come-into-the-frame-in-southeast-asias-fintech-boom/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Inside the booming fintech industry in Nigeria: trends and opportunities"
-    excerpt: "The world of finance is changing rapidly thanks to modern technology, and nowhere is this more evident than in Nigeria's FinTech industry. With innovative startups cropping up left and right, the country has become a hub for financial technology innovation."
-    publishedDateTime: 2023-04-26T10:00:00Z
-    webUrl: "https://www.vanguardngr.com/2023/04/inside-the-booming-fintech-industry-in-nigeria-trends-and-opportunities/"
-    type: article
-    provider:
-      name: Vanguard
-      domain: vanguardngr.com
-    quality: 3
 
 secured: "1QG+Jgi6I/vsFl/BnMyIKZJK0e7zpL2q1v8gvtpjshxgkjKO6U5xYxJYY/xA4O71YxG2hMeZ86wZHnbdMo9cKCsLjGxj2zi9KezzmEOFK5AhEqRHcrRrWxbKCknu4BopzRY/QC9JBnjeSLXSGz6br7kXEpNe67jwdbMj2z7faCtoQGkw2VBgmwEg/VE2e7Y7DLXN9dW0SGAc5RYAe0hjJtirTQgWZaZYr4XyNbUXNfiflIUAdgkooP/WFBvy6UcdTzInYZ3N77TqVgUS2gQMtxWQb9nqBOQoPyOEi9iOFRiww/xnX1A0vdthydiCa89EqJGIO8mvL4DiZgXocsq0e54NNHqOrUI61u2UOzpqmcA=;pWhy2CUJNxnnLe2x41osuQ=="
 ---

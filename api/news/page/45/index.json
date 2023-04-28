@@ -2,162 +2,6 @@
   "page": 45,
   "value": [
     {
-      "path": "_news/2023-03-17-insights-into-the-2023-individual-artificial-intelligence-chips-market.md",
-      "title": "Insights into the 2023 Individual Artificial Intelligence Chips Market",
-      "excerpt": "Topmost manufacturers/ Key player/ Economy by Business Leaders Leading Players of Artificial Intelligence Chips Market Are: Artificial Intelligence Chips Market 2023 research is a key process that helps businesses gather and analyze information about their target Artificial Intelligence Chips market,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/insights-into-the-2023-individual-artificial-intelligence-chips-market-2023-03-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/insights-into-the-2023-individual-artificial-intelligence-chips-market-2023-03-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-17T05:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-17-we-need-to-make-machine-learning-sustainable-heres-how.md",
-      "title": "We Need To Make Machine Learning Sustainable. Here’s How",
-      "excerpt": "Moreover, large, intricate models based on complex architectures, such as those of deep learning, can be opaque and difficult to understand. This lack of transparency can have a two-fold effect. On the one hand, it can lead to mistrust and lack of adoption.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/esade/2023/03/17/we-need-to-make-machine-learning-sustainable-heres-how/",
-      "originalUrl": "https://www.forbes.com/sites/esade/2023/03/17/we-need-to-make-machine-learning-sustainable-heres-how/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64132abc2efe9ea45c018393/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 502,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/esade/2023/03/17/we-need-to-make-machine-learning-sustainable-heres-how/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/esade/2023/03/17/we-need-to-make-machine-learning-sustainable-heres-how/amp/",
-      "publishedDateTime": "2023-03-17T05:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-17-aws-chatbot-now-integrated-into-microsoft-teams.md",
-      "title": "AWS Chatbot now integrated into Microsoft Teams",
-      "excerpt": "Amazon Web Services has integrated its AWS Chatbot into Microsoft Teams to allow enterprise users to interact with AWS cloud resources from within the chat application. AWS Chatbot, which was ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3691291/aws-chatbot-now-integrated-into-microsoft-teams.html",
-      "originalUrl": "https://www.infoworld.com/article/3691291/aws-chatbot-now-integrated-into-microsoft-teams.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/05/communication_language_text_speech_chatbot_artificial_intelligence_by_wutwhanfoto_gettyimages-649188276_1200x800-100757295-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3691291/aws-chatbot-now-integrated-into-microsoft-teams.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3691291/aws-chatbot-now-integrated-into-microsoft-teams.amp.html",
-      "publishedDateTime": "2023-03-17T04:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2023-03-17-best-practices-for-leveraging-artificial-intelligence-and-machine-learning-in-2023.md",
       "title": "Best practices for leveraging artificial intelligence and machine learning in 2023",
       "excerpt": "In many ways, this year will come to be remembered as the one when artificial intelligence (AI) and machine learning (ML) finally broke through the hype, delivering consumer-focused products that amazed millions of people. Generative AI, including DALL·E ...",
@@ -1202,6 +1046,153 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-17-global-deep-learning-in-drug-discovery-and-diagnostics-market-to-2035-ongoing-pace-of-innovation-drives-growth.md",
+      "title": "Global Deep Learning in Drug Discovery and Diagnostics Market to 2035: Ongoing Pace of Innovation Drives Growth",
+      "excerpt": "Distribution by Therapeutic Areas and Key Geographical Regions: Industry Trends and Global Forecasts (2nd Edition),",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/03/n31386216/global-deep-learning-in-drug-discovery-and-diagnostics-market-to-2035-ongoing-pace-of-innovation-d",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/03/n31386216/global-deep-learning-in-drug-discovery-and-diagnostics-market-to-2035-ongoing-pace-of-innovation-d",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/31386216",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31386216",
+      "publishedDateTime": "2023-03-16T11:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-17-microsoft-365s-ai-powered-copilot-is-like-an-omniscient-version-of-clippy.md",
+      "title": "Microsoft 365’s AI-powered Copilot is like an omniscient version of Clippy",
+      "excerpt": "Microsoft also stressed its commitment to \"building responsibly.\" Despite allegedly laying off an entire team dedicated to AI ethics, Microsoft says it has \"a multidisciplinary team of researchers, engineers and policy experts\" looking for and mitigating ...",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/03/microsoft-365s-ai-powered-copilot-is-like-an-omniscient-version-of-clippy/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/03/microsoft-365s-ai-powered-copilot-is-like-an-omniscient-version-of-clippy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 234,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/ms-copilot-hero-800x489.jpeg",
+          "width": 800,
+          "height": 489,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/03/microsoft-365s-ai-powered-copilot-is-like-an-omniscient-version-of-clippy/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/03/microsoft-365s-ai-powered-copilot-is-like-an-omniscient-version-of-clippy/amp/",
+      "publishedDateTime": "2023-03-16T10:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-17-ais-regulatory-framework-begins-to-take-shape-and-none-too-soon.md",
+      "title": "AI’s Regulatory Framework Begins To Take Shape-And None Too Soon",
+      "excerpt": "As technology companies race forward, the U.S. Chamber of Commerce seeks to fill the gaping void in regulatory guidance on the development and implementation of AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/michaelperegrine/2023/03/16/ais-regulatory-framework-begins-to-take-shape-and-none-too-soon/",
+      "originalUrl": "https://www.forbes.com/sites/michaelperegrine/2023/03/16/ais-regulatory-framework-begins-to-take-shape-and-none-too-soon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6411e533c1e63495f5e12265/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 621,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/michaelperegrine/2023/03/16/ais-regulatory-framework-begins-to-take-shape-and-none-too-soon/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelperegrine/2023/03/16/ais-regulatory-framework-begins-to-take-shape-and-none-too-soon/amp/",
+      "publishedDateTime": "2023-03-16T10:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

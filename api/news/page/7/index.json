@@ -2,111 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2023-04-24-zoop-teams-with-humansai-to-translate-celebrity-talk-into-new-languages-for-fans-worldwide.md",
-      "title": "Zoop teams with Humans.ai to translate celebrity talk into new languages for fans worldwide",
-      "excerpt": "Zoop, which connects fans with their favorite celebrities and creators, has partnered with AI startup Humans.ai to break down language barriers.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/zoop-teams-with-humans-ai-to-translate-celebrity-talk-into-new-languages-for-fans-worldwide/",
-      "originalUrl": "https://venturebeat.com/ai/zoop-teams-with-humans-ai-to-translate-celebrity-talk-into-new-languages-for-fans-worldwide/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/04/zoop.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 681,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/zoop-teams-with-humans-ai-to-translate-celebrity-talk-into-new-languages-for-fans-worldwide/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/zoop-teams-with-humans-ai-to-translate-celebrity-talk-into-new-languages-for-fans-worldwide/amp/",
-      "publishedDateTime": "2023-04-24T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-24-natural-language-processing-nlp-in-healthcare-market-growth-by-2031.md",
-      "title": "Natural Language Processing (NLP) in Healthcare Market Growth by 2031",
-      "excerpt": "The latest market research report on the Global \"Natural Language Processing (NLP) in Healthcare Market\" is segmented",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-market-growth-by-2031-2023-04-24",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-market-growth-by-2031-2023-04-24",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 281,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-24T00:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2023-04-24-the-rise-of-ai-entrepreneurs-how-this-technology-is-creating-new-opportunities.md",
       "title": "The Rise Of AI Entrepreneurs: How This Technology Is Creating New Opportunities",
       "excerpt": "New opportunities for entrepreneurs are everywhere you look. Surf this wave or wait another decade for the next, the choice is yours.",
@@ -197,58 +92,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-24-object-recognition-imaging-systems-market-size-from-2023-and-unlimited-opportunities-for-new-companies.md",
-      "title": "Object Recognition Imaging Systems Market Size From 2023 And Unlimited Opportunities for New Companies",
-      "excerpt": "Object Recognition Imaging Systems Market Size 2023 | New Report (127 Pages) | Analytics | In This Reports Object Recognition Imaging Systems Market Top Object Recognition Imaging Systems Companies (Servo-Robot Inc,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/object-recognition-imaging-systems-market-size-from-2023-and-unlimited-opportunities-for-new-companies-2023-04-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/object-recognition-imaging-systems-market-size-from-2023-and-unlimited-opportunities-for-new-companies-2023-04-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-23T20:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     },
@@ -1233,6 +1076,152 @@
         "AI in Healthcare",
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-04-22-chatgpt-and-generative-ai-our-guide-to-2023s-most-talked-about-technology.md",
+      "title": "ChatGPT and Generative AI: Our Guide to 2023's Most Talked-About Technology",
+      "excerpt": "ChatGPT brought generative AI into the limelight when it hit 1 million users in five days. But how valid is the buzz around ChatGPT?",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/chatgpt-and-generative-ai-guide-to-most-talked-about-technology-2023-april",
+      "originalUrl": "https://www.businessinsider.com/chatgpt-and-generative-ai-guide-to-most-talked-about-technology-2023-april",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64403fa23f6f690018de9578?width=1200&format=jpeg",
+          "width": 470,
+          "height": 352,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/chatgpt-and-generative-ai-guide-to-most-talked-about-technology-2023-april?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-and-generative-ai-guide-to-most-talked-about-technology-2023-april?amp",
+      "publishedDateTime": "2023-04-21T11:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-21-ibm-and-texas-am-agrilife-provide-data-technology-and-expertise-to-farmers-in-need.md",
+      "title": "IBM and Texas A&M AgriLife provide data, technology and expertise to farmers in need",
+      "excerpt": "In Texas, 2022 was one of the driest years on record. With failed crops, low yields for farmers and diminished grazing for cattle, the Texas Department of Agriculture identified climate change as a potential threat to the state&#8217;s food supply. Smallholder farmers, particularly those in arid and",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/ibm-and-texas-am-agrilife-provide-data-technology-and-expertise-to-farmers-in-need/",
+      "originalUrl": "https://www.ibm.com/blog/ibm-and-texas-am-agrilife-provide-data-technology-and-expertise-to-farmers-in-need/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/04/IBM-and-Texas-AM-AgriLife-provide-data-technology-and-expertise-to-farmers-in-need-630x330.jpg",
+          "width": 630,
+          "height": 330,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-21T11:25:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-22-hurtling-into-the-future-the-potential-and-thorny-ethics-of-generative-ai-in-healthcare.md",
+      "title": "‘Hurtling into the future’: The potential and thorny ethics of generative AI in healthcare",
+      "excerpt": "Generative AI has roared onto the tech scene through the large language model backing ChatGPT. Companies are already deploying the algorithms in hospitals. Should healthcare be taking a pause?",
+      "sourceUrl": null,
+      "webUrl": "https://www.healthcaredive.com/news/generative-AI-healthcare-gpt-potential/648104/",
+      "originalUrl": "https://www.healthcaredive.com/news/generative-AI-healthcare-gpt-potential/648104/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.healthcaredive.com/imgproxy/8M_A439q-vnByLYslrpRv46QwDEdqq2VaHH_J_yrQMY/crop:1810:1022/g:nowe:874:1456/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0lNR184NjYwLmpwZw.jpg",
+          "width": 770,
+          "height": 435,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-21T10:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Healthcare Dive",
+        "domain": "healthcaredive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

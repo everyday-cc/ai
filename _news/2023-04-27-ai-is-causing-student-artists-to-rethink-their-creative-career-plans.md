@@ -24,19 +24,6 @@ images:
     height: 701
     isCached: true
 
-related:
-  - title: "Artificial Intelligence Can Create, But Lacks Creativity, Say Critics"
-    excerpt: "Artificial intelligence, or AI, could potentially transform arts and entertainment, from music to movies, but it is also raising concerns. Is AI a creative tool or a threat to creators and artists? VOA’s Mike O’Sullivan examines the question."
-    publishedDateTime: 2023-04-27T01:26:00Z
-    webUrl: "https://www.voanews.com/a/artificial-intelligence-can-create-but-lacks-creativity-say-critics/7068177.html"
-    ampWebUrl: "https://www.voanews.com/amp/artificial-intelligence-can-create-but-lacks-creativity-say-critics/7068177.html"
-    cdnAmpWebUrl: "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/amp/artificial-intelligence-can-create-but-lacks-creativity-say-critics/7068177.html"
-    type: article
-    provider:
-      name: Voice of America
-      domain: voanews.com
-    quality: 37
-
 secured: "PonyERVbEAVp/3pwfJKPscxO7LKD60ajHwiZ4d7kk4Kvq8b1bFVQa+PO9AvIflo3nwE2HF+rC7mIWjDUTomTqEfj+EyBBm0HcGmop68zbCOH6ki1bzUsMetij+cLjmd5J7Hgut0m+d8d7pikgiGXZuWrxS1B8LAaWbO2r1e3QStj31oe1OQTmgg6tXRHhDR6hFNE+SIzKoohDxf9Iww89kjtOXpxS44Q3KIiLvivhx/7AzN/Ymnd/S0XDyjC0otrD2wyTz9zkX+SRU5ySS9j66cxLroJMTHZEDDCbmfgEAqVYksNxoGb9anT7eNoTizjPKTb19aRgQof8kHM1EXZr4NbBl4azAxLJAUcSk9re/4=;jmiwQgljGSzmcPpy14G3Qw=="
 ---
 

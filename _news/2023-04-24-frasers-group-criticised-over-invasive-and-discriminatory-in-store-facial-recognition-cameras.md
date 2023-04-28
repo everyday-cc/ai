@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "MPs condemn Frasers Group’s use of facial recognition cameras in stores"
-    excerpt: "Exclusive: Cross-party collection of parliamentarians write letter to Sports Direct owner’s company"
-    publishedDateTime: 2023-04-23T17:25:00Z
-    webUrl: "https://www.theguardian.com/business/2023/apr/23/mps-condemn-frasers-groups-use-of-facial-recognition-cameras-in-stores"
-    ampWebUrl: "https://amp.theguardian.com/business/2023/apr/23/mps-condemn-frasers-groups-use-of-facial-recognition-cameras-in-stores"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2023/apr/23/mps-condemn-frasers-groups-use-of-facial-recognition-cameras-in-stores"
+  - title: "Sports Direct urged to stop using facial recognition cameras and 'secret watchlists'"
+    excerpt: "In a scathing letter to boss Mike Ashley, 42 politicians from all major parties warn the technology \"treats everyone who passes the camera like a potential criminal\""
+    publishedDateTime: 2023-04-24T14:01:00Z
+    webUrl: "https://www.mirror.co.uk/news/politics/sports-direct-urged-stop-using-29795189"
+    ampWebUrl: "https://www.mirror.co.uk/news/politics/sports-direct-urged-stop-using-29795189.amp"
+    cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/news/politics/sports-direct-urged-stop-using-29795189.amp"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 59
+      name: The Mirror
+      domain: mirror.co.uk
+    quality: 52
     images:
-      - url: "https://i.guim.co.uk/img/media/4c14124c6135d5ccc6e785003a21fefdb05ecc79/0_83_3000_1800/master/3000.jpg?width=620&quality=85&auto=format&fit=max&s=ee459190323236390d1ef2e99f46c882"
-        width: 620
-        height: 372
+      - url: "https://i2-prod.dailystar.co.uk/incoming/article19276425.ece/ALTERNATES/s1200/0_Sports-Direct-store-1438615.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "roVXhHAFh2jjIcqP+2cZqg4Pxpw5IEBvErfFY7dUjGVq01H7/qYVtngCyNtkP0KfyVb5QAAvFO3BzDT81QOmMp5H2b1hjLiLw7QLtnvjNDk0QICfUHI8mM5HZ8keFREIRD/BTGymCtKXEMySfG9N3RFAq63JFFBxHqoXdeRu1GhOCqnjtwZAoK741cwioJ2noYoWfhUensGqHOqRSYIXKoDB8/yUan7Ae4pJUq9Z9AMIVh/0Gn7ORZDr4ySl4yWsDrKZGXyT3v8Vk0MDu6IXwR+sl9txrtSNBhj+V62NGFc9nvYKfbxpwcgdSQVPIrQe/FnSb+BGd7yt4KoNVTmrrynPuCo9P7H6iFoXcf3dUpmP2lcWGXTlvlNhR0iM/DYTV8C3yz51l8yYHiI6jFCH7Jx2GtRlntM3QCs+4SkEfuuEXwkto3OZwsMNibWhpMQxm98PHziY2uiaXH5FxiwHeY0G71EIsSAvhTN9y1XLGVP6EfMiqDRPuSmvad5TS6KndpkuOgyfYl2e/ctw4BLanw==;F1yYUSrQ7QMch0LgummoDw=="
