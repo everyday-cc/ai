@@ -6,7 +6,7 @@ publishedDateTime: 2023-04-27T17:34:00Z
 originalUrl: "https://www.marketwatch.com/press-release/2023-artificial-intelligence-ai-market-demand-global-share-analysis-till-2030-2023-04-27"
 webUrl: "https://www.marketwatch.com/press-release/2023-artificial-intelligence-ai-market-demand-global-share-analysis-till-2030-2023-04-27"
 type: article
-quality: 77
+quality: 79
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

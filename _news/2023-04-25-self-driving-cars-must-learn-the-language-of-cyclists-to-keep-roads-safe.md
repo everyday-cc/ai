@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Self-driving cars must learn the language of cyclists to keep roads safe"
+    excerpt: "Future generations of self-driving cars — such as the rumored “Apple Car” — should learn the language of cyclists to help them safely share the roads with bikes, new research suggests. Human-computer"
+    publishedDateTime: 2023-04-26T11:20:00Z
+    webUrl: "https://www.mactech.com/2023/04/26/self-driving-cars-must-learn-the-language-of-cyclists-to-keep-roads-safe/"
+    ampWebUrl: "https://www.mactech.com/2023/04/26/self-driving-cars-must-learn-the-language-of-cyclists-to-keep-roads-safe/amp/"
+    cdnAmpWebUrl: "https://www-mactech-com.cdn.ampproject.org/c/s/www.mactech.com/2023/04/26/self-driving-cars-must-learn-the-language-of-cyclists-to-keep-roads-safe/amp/"
+    type: article
+    provider:
+      name: MacTech
+      domain: mactech.com
+    quality: 43
+    images:
+      - url: "https://www.mactech.com/wp-content/uploads/2023/04/Cyclists-Gaze-1024x378.jpg"
+        width: 1024
+        height: 378
+        isCached: true
   - title: "Self-driving cars must learn the language of cyclists to keep roads safe, research suggests"
     excerpt: "Future generations of self-driving cars should learn the language of cyclists to help them safely share the roads with bikes, new research suggests."
     publishedDateTime: 2023-04-25T00:01:00Z

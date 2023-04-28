@@ -2,6 +2,50 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-02-28-researchers-use-artificial-intelligence-to-predict-cardiovascular-disease.md",
+      "title": "Researchers use artificial intelligence to predict cardiovascular disease",
+      "excerpt": "Researchers may be able to predict cardiovascular disease—such as arterial fibrillation and heart failure—in patients by using artificial intelligence (AI) to examine the genes in their DNA, according to a new Rutgers study.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-02-artificial-intelligence-cardiovascular-disease.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-02-artificial-intelligence-cardiovascular-disease.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/researchers-use-artifi.jpg",
+          "width": 2880,
+          "height": 4023,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-02-artificial-intelligence-cardiovascular-disease.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-02-artificial-intelligence-cardiovascular-disease.amp",
+      "publishedDateTime": "2023-02-27T11:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-02-27-letters-to-the-editor-robots-dont-get-distracted-by-phones-bring-on-driverless-cars.md",
       "title": "Letters to the Editor: Robots don’t get distracted by phones. Bring on driverless cars",
       "excerpt": "Ultimately, artificial intelligence can provide efficient carpooling ... and who will forfeit their urban mobility? I hope that driverless cars will be taxed sufficiently to offset the increased ...",
@@ -1377,49 +1421,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-20-amazons-self-driving-unit-zoox-puts-driverless-taxi-on-the-road.md",
-      "title": "Amazon's self-driving unit Zoox puts driverless taxi on the road",
-      "excerpt": "Zoox, an Amazon-owned company, has begun testing its driverless taxis on public ... MARS conference on robotics and artificial intelligence at the Aria Hotel in Las Vegas, Nevada.",
-      "sourceUrl": null,
-      "webUrl": "https://www.stltoday.com/news/national/amazons-self-driving-unit-zoox-puts-driverless-taxi-on-the-road/article_43ff8c82-e6aa-548e-a507-ebb884546010.html",
-      "originalUrl": "https://www.stltoday.com/news/national/amazons-self-driving-unit-zoox-puts-driverless-taxi-on-the-road/article_43ff8c82-e6aa-548e-a507-ebb884546010.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/4/3f/43ff8c82-e6aa-548e-a507-ebb884546010/63f1b9da8623d.preview.jpg?crop=1744%2C916%2C0%2C136&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-20T04:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "St. Louis Post-Dispatch",
-        "domain": "stltoday.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

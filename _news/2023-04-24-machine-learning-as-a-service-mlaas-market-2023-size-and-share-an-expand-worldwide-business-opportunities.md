@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning as a Service (MLaaS) Market Size [2023-2030] | Development, Top Companies, Trends and Growth"
+    excerpt: "The Global Machine Learning as a Service (MLaaS) Market is Forecasted to Reach a Multimillion-Dollar Valuation by"
+    publishedDateTime: 2023-04-27T15:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-size-2023-2030-development-top-companies-trends-and-growth-2023-04-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "uPzWMU/ISN7e2Zf0vv2H9gCREvFtOrB90fUWGa3CbjYyjnX5EsE5LvzCLXcliI61g1tFPaQQrJ5/gEQK2b0AEd/MIm2GdKUX9hbQOCRVKse6rN+l9mjv7P5RMngvssLMMeE+dvbd678DjWU/zATo5hKdijC7lmdJRKUdNdYhrsaKlP+u1+vMDgHNL0Qqx9yRnTz2WjD+03rdKc+HKAVUSgpY8dkg0pswglXBiKFF971zBnlhb07FBftx3FcFZo53UtokROs5DqM82VB5yJ4AdmXJau4rLkMIc0cgWap29zn208CxWxyKHvqRyj/BjjstbP9XWPDHFncFjjFB82QAFzHgFs2hywx/Fat1Ul/5Wjw=;lYPLjybQKe7WTQVAHV7UIg=="
 ---

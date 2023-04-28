@@ -2,6 +2,205 @@
   "page": 111,
   "value": [
     {
+      "path": "_news/2023-01-27-buzzfeed-to-use-chatgpts-ai-for-content-creation-stock-up-200.md",
+      "title": "BuzzFeed To Use ChatGPT’s AI For Content Creation, Stock Up 200%+",
+      "excerpt": "BuzzFeed, the publicly-traded content generation platform, is going big on AI-generated content. And Wall Street is noticing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/chriswestfall/2023/01/26/buzzfeed-to-use-chatgpts-ai-for-content-creation-stock-up-200/",
+      "originalUrl": "https://www.forbes.com/sites/chriswestfall/2023/01/26/buzzfeed-to-use-chatgpts-ai-for-content-creation-stock-up-200/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63d2ef1d548d5f099c9d57eb/0x0.jpg?format=jpg&crop=2176,1224,x0,y204,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/chriswestfall/2023/01/26/buzzfeed-to-use-chatgpts-ai-for-content-creation-stock-up-200/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chriswestfall/2023/01/26/buzzfeed-to-use-chatgpts-ai-for-content-creation-stock-up-200/amp/",
+      "publishedDateTime": "2023-01-26T12:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-27-madison-square-garden-ceo-doubles-down-on-use-of-facial-recognition-tech.md",
+      "title": "Madison Square Garden CEO doubles down on use of facial recognition tech",
+      "excerpt": "The chief executive of the Madison Square Garden Entertainment Corporation has doubled down on using facial recognition at its venues to bar lawyers suing the group from attending events. Speaking ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/01/26/tech/msg-ceo-facial-recognition/index.html",
+      "originalUrl": "https://www.cnn.com/2023/01/26/tech/msg-ceo-facial-recognition/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 278,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/230126113242-madison-square-garden-1205-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/01/26/tech/msg-ceo-facial-recognition/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/01/26/tech/msg-ceo-facial-recognition/index.html",
+      "publishedDateTime": "2023-01-26T11:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-27-both-pros-and-cons-emerge-as-artificial-intelligence-technology-ai-advances-quickly.md",
+      "title": "Both pros and cons emerge as artificial intelligence technology, AI, advances quickly",
+      "excerpt": "Its name is FRIDA and it's a robot using artificial intelligence technology to generate portrait paintings from photographs. Usually, they are of colleagues of its developers, Jean Oh and Peter ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/pittsburgh/news/artificial-intelligence-technology-ai-pros-cons-carnegie-mellon-university/",
+      "originalUrl": "https://www.cbsnews.com/pittsburgh/news/artificial-intelligence-technology-ai-pros-cons-carnegie-mellon-university/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/01/26/a4c2df77-e3cf-4c8a-948f-91ac6db82f2f/thumbnail/1200x630/67e8bede1b2b8381d16dbda08f9c9cd7/gettyimages-1246453874-1.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/pittsburgh/news/artificial-intelligence-technology-ai-pros-cons-carnegie-mellon-university/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/pittsburgh/news/artificial-intelligence-technology-ai-pros-cons-carnegie-mellon-university/",
+      "publishedDateTime": "2023-01-26T11:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-26-best-egg-achieved-three-times-faster-ml-model-training-with-amazon-sagemaker-automatic-model-tuning.md",
+      "title": "Best Egg achieved three times faster ML model training with Amazon SageMaker Automatic Model Tuning",
+      "excerpt": "This post is co-authored by Tristan Miller from Best Egg. Best Egg is a leading financial confidence platform that provides lending products and resources focused on helping people feel more confident as they manage their everyday finances. Since March 2014, Best Egg has delivered $22 billion in consumer",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/best-egg-achieved-three-times-faster-ml-model-training-with-amazon-sagemaker-automatic-model-tuning/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/best-egg-achieved-three-times-faster-ml-model-training-with-amazon-sagemaker-automatic-model-tuning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/01/26/best-egg-sagemaker.jpg",
+          "width": 1567,
+          "height": 789,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-26T09:45:36-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-01-27-european-banks-struggle-with-ai-while-us-banks-lead-the-field-according-to-a-new-index.md",
       "title": "European banks struggle with AI, while US banks lead the field, according to a new index",
       "excerpt": "“As the real-world application of AI accelerates at astonishing speed ... Over a call she added: “Setting our methodology onto the banks felt like the right place to start because this is a sector that has been really focused on this for a number ...",
@@ -998,186 +1197,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-26-ai-robot-lawyer-courtroom-debut-on-hold-as-company-founder-gets-jail-threats.md",
-      "title": "AI robot lawyer courtroom debut on hold as company founder gets jail threats",
-      "excerpt": "The CEO of the New York startup DoNotPay Joshua Browder announced ... from state bar prosecutors including jail time, if the AI robot lawyer were to be deployed in court. The seriousness of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesstoday.in/technology/news/story/ai-robot-lawyer-courtroom-debut-on-hold-as-company-founder-gets-jail-threats-367680-2023-01-26",
-      "originalUrl": "https://www.businesstoday.in/technology/news/story/ai-robot-lawyer-courtroom-debut-on-hold-as-company-founder-gets-jail-threats-367680-2023-01-26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202301/ai_lawyer-sixteen_nine.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businesstoday.in/amp/technology/news/story/ai-robot-lawyer-courtroom-debut-on-hold-as-company-founder-gets-jail-threats-367680-2023-01-26",
-      "cdnAmpWebUrl": "https://www-businesstoday-in.cdn.ampproject.org/c/s/www.businesstoday.in/amp/technology/news/story/ai-robot-lawyer-courtroom-debut-on-hold-as-company-founder-gets-jail-threats-367680-2023-01-26",
-      "publishedDateTime": "2023-01-26T01:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Today",
-        "domain": "businesstoday.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-26-explainer-what-is-an-australian-black-voice-to-parliament.md",
-      "title": "EXPLAINER: What is an Australian Black Voice to Parliament?",
-      "excerpt": "Proponents say embedding the Voice in the constitution would recognize the special place that Indigenous people have in Australian history while giving them input in government policies. Skeptics and opponents say Australians need more details before they vote on a proposal that risks dividing the nation along racial lines without reducing Indigenous disadvantage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesunion.com/news/article/explainer-what-is-an-australian-black-voice-to-17742818.php",
-      "originalUrl": "https://www.timesunion.com/news/article/explainer-what-is-an-australian-black-voice-to-17742818.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-26T01:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Times Union",
-        "domain": "timesunion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-26-startup-founders-dont-cross-the-line-between-optimism-and-fraud.md",
-      "title": "Startup founders: Don’t cross the line between optimism and fraud",
-      "excerpt": "Don’t be afraid to sprint forward with an optimistic vision for your startup. But be sure to toe the fine line between optimism and fraud.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/enterprise-analytics/startup-founders-dont-cross-the-line-between-optimism-and-fraud/",
-      "originalUrl": "https://venturebeat.com/enterprise-analytics/startup-founders-dont-cross-the-line-between-optimism-and-fraud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/10/6830726846_04b471de4c_h.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/enterprise-analytics/startup-founders-dont-cross-the-line-between-optimism-and-fraud/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/enterprise-analytics/startup-founders-dont-cross-the-line-between-optimism-and-fraud/amp/",
-      "publishedDateTime": "2023-01-25T20:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-26-seattle-startup-aims-to-change-surgery-using-ai-computer-vision-and-augmented-reality.md",
-      "title": "Seattle startup aims to change surgery using AI, computer vision and augmented reality",
-      "excerpt": "The system relies on advances in light field imaging, computer vision, machine learning, robotics and augmented reality. The surgeon can see the relevant anatomy in three dimensions on a screen ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2023/seattle-startup-aims-to-change-surgery-using-ai-computer-vision-and-augmented-reality/",
-      "originalUrl": "https://www.geekwire.com/2023/seattle-startup-aims-to-change-surgery-using-ai-computer-vision-and-augmented-reality/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2022/11/Proprio-Chief-Medical-Officer-and-Co-found-Dr.-Sam-Browd.jpg",
-          "width": 4096,
-          "height": 2160,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-25T17:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

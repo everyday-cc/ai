@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft's AI will now help you design your Instagram posts in seconds"
+    excerpt: "Microsoft Designer is now available to try out in preview for free. It uses AI-based text-to-image generation to create social media posts."
+    publishedDateTime: 2023-04-28T05:03:00Z
+    webUrl: "https://www.androidauthority.com/microsoft-designer-social-media-posts-ai-3318234/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 84
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/04/Microsoft-Designer-AI.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "AI-driven Microsoft Bing, startup You threaten Google's Search dominance"
     excerpt: "New AI features in Microsoft Bing search engine and startup You.com have started to threaten Google's Search dominance, as users seek more efficient search options."
     publishedDateTime: 2023-04-24T07:57:00Z

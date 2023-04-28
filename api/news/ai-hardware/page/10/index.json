@@ -2,6 +2,59 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-01-12-4-ai-and-ml-job-hunting-tips-from-chip-huyen.md",
+      "title": "4 AI and ML job hunting tips from Chip Huyen",
+      "excerpt": "It may be a tough market, but author and computer scientist Chip Huyen says there are several ways AI and ML job hunters can stand out.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/4-ai-and-ml-job-hunting-tips-from-chip-huyen/",
+      "originalUrl": "https://venturebeat.com/ai/4-ai-and-ml-job-hunting-tips-from-chip-huyen/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/01/chip-huyen-1-1-e1673449558562.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/4-ai-and-ml-job-hunting-tips-from-chip-huyen/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/4-ai-and-ml-job-hunting-tips-from-chip-huyen/amp/",
+      "publishedDateTime": "2023-01-11T15:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-01-12-quectels-embedded-iot-modules-enable-ai-capability.md",
       "title": "Quectel's Embedded IoT Modules Enable AI Capability",
       "excerpt": "Naveen Kumar demonstrated one of Quectel Wireless’s higher-end smart-module portfolios, which incorporates some of Qualcomm's high-performance chipsets, giving users extra runtime for AI-based capabilities.",
@@ -1329,58 +1382,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-05-continental-partners-with-ai-chip-firm-ambarella-on-autonomous-driving.md",
-      "title": "Continental partners with AI chip firm Ambarella on autonomous driving",
-      "excerpt": "BERLIN, Jan 5 (Reuters) - Germany's Continental (CONG.DE) and California-based artificial intelligence chip firm Ambarella (AMBA.O) announced a partnership on Thursday to make software and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/business/autos-transportation/continental-partners-with-ai-chip-firm-ambarella-autonomous-driving-2023-01-04/",
-      "originalUrl": "https://www.reuters.com/business/autos-transportation/continental-partners-with-ai-chip-firm-ambarella-autonomous-driving-2023-01-04/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/7XVrCeBw_HDdtI3sVdtwJQYYNIM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BUICUSJGKBLOTAXLFROW7SVOHE.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-05T03:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

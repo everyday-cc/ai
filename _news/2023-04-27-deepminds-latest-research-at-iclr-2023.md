@@ -7,7 +7,7 @@ originalUrl: "https://www.deepmind.com/blog/deepminds-latest-research-at-iclr-20
 webUrl: "https://www.deepmind.com/blog/deepminds-latest-research-at-iclr-2023"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -37,6 +37,15 @@ related:
     provider:
       name: MrWeb
       domain: mrweb.com
+    quality: 34
+  - title: "Google’s DeepMind-Brain merger: tech giant regroups for AI battle"
+    excerpt: "Start-up founder Demis Hassabis trades independence for greater influence over the future of artificial intelligence"
+    publishedDateTime: 2023-04-28T04:00:00Z
+    webUrl: "https://www.ft.com/content/f4f73815-6fc2-4016-bd97-4bace459e95e"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
     quality: 34
 
 secured: "5cTWPJEvjo9DcLmVIlrpZAs5/PrtEfZ4qpVR/Wazbupn50l+BAEP/3qWkT/iEHuOWPNh276Mwd6c3qDcbCCQ9HfgRjRiHmpbZPkfujK7U7uF1VpZsGhbQE9HxScKLGwKloEb1XyOGtGb1FBGf9rXTACOWQyftkeF1/paJP7LnB6/dBzSJYYpS+DEV0JXz0SFA6ikVBxbdUufAFNhla+rWQMzffslx1GQG/ilCGP2bQWnXa8xuKmhLhIfMCIBO6LgaYdGz8T3VUy5SpCxwIYoMvcw/BBeapEaQNXVoNM99puFjrSAnV9rnigIt+DGn3SOtefMtwc35Zgobg0GBaUBm8lZTagbfVNoXF9my0HubSc=;+65KQPUWCCnKuRG7uT2IxQ=="

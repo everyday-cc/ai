@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-04-28-seven-in-ten-business-leaders-want-robots-to-make-their-decisions-for-them.md",
+      "title": "Seven In Ten Business Leaders Want Robots To Make Their Decisions For Them",
+      "excerpt": "It’s easier to make decisions when the economy is growing, as bad choices can get subsidized by the more well-targeted choices. But in a tighter economy, bad decisions are more exposed, and costly. But in this era of data analytics,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/04/28/seven-in-ten-business-leaders-want-robots-to-make-their-decisions-for-them/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/04/28/seven-in-ten-business-leaders-want-robots-to-make-their-decisions-for-them/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/644b3e90feff0dec7e76f751/0x0.jpg?format=jpg&width=1200",
+          "width": 807,
+          "height": 537,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/04/28/seven-in-ten-business-leaders-want-robots-to-make-their-decisions-for-them/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/04/28/seven-in-ten-business-leaders-want-robots-to-make-their-decisions-for-them/amp/",
+      "publishedDateTime": "2023-04-27T21:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-28-how-robot-art-reveals-the-power-of-humanity.md",
+      "title": "How Robot Art Reveals The Power Of Humanity",
+      "excerpt": "Pilat asserts that AI is gleaning its information from the internet, not real human programming, and as a result, it is detached from the lived human experience. This sense of independence contributes to the development of the robot’s unique sense of style.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/alexandrabregman/2023/04/28/how-robot-art-reveals-the-power-of-humanity/",
+      "originalUrl": "https://www.forbes.com/sites/alexandrabregman/2023/04/28/how-robot-art-reveals-the-power-of-humanity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/644874be017ebc582f51f763/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/alexandrabregman/2023/04/28/how-robot-art-reveals-the-power-of-humanity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexandrabregman/2023/04/28/how-robot-art-reveals-the-power-of-humanity/amp/",
+      "publishedDateTime": "2023-04-27T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-28-boston-dynamics-robot-dog-can-answer-your-questions-now-thanks-to-chatgpt.md",
       "title": "Boston Dynamics robot dog can answer your questions now, thanks to ChatGPT",
       "excerpt": "A new video shared by AI expert Santiago Valdarrama, showcases Boston Dynamics' robot dog, Spot, performing a few new tricks that involve artificial intelligence. In the almost two minute video, Spot is able to answer natural language questions such as \"Are you standing?\" and \"What is your battery level?\".",
@@ -402,19 +506,19 @@
     {
       "path": "_news/2023-04-21-tomahawk-robotics-awarded-flexcsr-flexible-cyber-secure-radio-production-contract-from-the-united-states-navy.md",
       "title": "Tomahawk Robotics Awarded FlexCSR (Flexible Cyber Secure Radio) Production Contract from the United States Navy",
-      "excerpt": "Tomahawk Robotics, the leading innovator of robotic common control solutions, was awarded a $55.0M full-rate production contract for the Flexible Cyber Secure Radio",
+      "excerpt": "Tomahawk Robotics, the leading innovator of robotic common control solutions, was awarded a $55.0M full-rate production contract for the Flexible Cyber Secure Radio (FlexCSR) program by the United States Navy.",
       "sourceUrl": null,
-      "webUrl": "https://www.news-journal.com/tomahawk-robotics-awarded-flexcsr-flexible-cyber-secure-radio-production-contract-from-the-united-states-navy/article_21c744bd-4025-5490-a677-917f44b0d3bd.html",
-      "originalUrl": "https://www.news-journal.com/tomahawk-robotics-awarded-flexcsr-flexible-cyber-secure-radio-production-contract-from-the-united-states-navy/article_21c744bd-4025-5490-a677-917f44b0d3bd.html",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/tomahawk-robotics-awarded-flexcsr-flexible-cyber-secure-radio-production-contract-from-the-united-states-navy-1032250123",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/tomahawk-robotics-awarded-flexcsr-flexible-cyber-secure-radio-production-contract-from-the-united-states-navy-1032250123",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/2/c3/2c35cd3b-7a32-5bc7-adf6-564bbf419b6a/64429a7958164.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
+          "url": "https://mma.prnewswire.com/media/2060244/Tomahawk_Robotics_FlexCSR.jpg",
+          "width": 400,
+          "height": 267,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -424,12 +528,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-21T07:07:00-07:00",
+      "publishedDateTime": "2023-04-21T08:31:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Longview News-Journal",
-        "domain": "news-journal.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1328,102 +1441,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-15-3-thrilling-robotics-stocks-for-aggressive-investors-to-buy.md",
-      "title": "3 Thrilling Robotics Stocks for Aggressive Investors to Buy",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The buzz surrounding generative artificial intelligence (AI) this year is",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/3-thrilling-robotics-stocks-to-buy-1032233798",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-thrilling-robotics-stocks-to-buy-1032233798",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-14T15:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-14-op-ed-heres-where-investors-should-be-looking-when-betting-on-the-artificial-intelligence-boom.md",
-      "title": "Op-ed: Here’s where investors should be looking when betting on the artificial intelligence boom",
-      "excerpt": "The rise of ChatGPT has sparked another national conversation about artificial intelligence. Depending on your viewpoint, the bot is either the key to making a host of companies and their workers more efficient, or it's a slippery slope toward robots ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/04/14/heres-where-investors-should-look-amid-artificial-intelligence-boom.html",
-      "originalUrl": "https://www.cnbc.com/2023/04/14/heres-where-investors-should-look-amid-artificial-intelligence-boom.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107222769-1681156718279-gettyimages-1174456147-dsc_9443.jpeg?v=1681479001",
-          "width": 4310,
-          "height": 3189,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/04/14/heres-where-investors-should-look-amid-artificial-intelligence-boom.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/04/14/heres-where-investors-should-look-amid-artificial-intelligence-boom.html",
-      "publishedDateTime": "2023-04-14T06:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

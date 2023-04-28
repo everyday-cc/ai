@@ -1,26 +1,30 @@
 ---
 category: news
 title: "Tomahawk Robotics Awarded FlexCSR (Flexible Cyber Secure Radio) Production Contract from the United States Navy"
-excerpt: "Tomahawk Robotics, the leading innovator of robotic common control solutions, was awarded a $55.0M full-rate production contract for the Flexible Cyber Secure Radio"
-publishedDateTime: 2023-04-21T14:07:00Z
-originalUrl: "https://www.news-journal.com/tomahawk-robotics-awarded-flexcsr-flexible-cyber-secure-radio-production-contract-from-the-united-states-navy/article_21c744bd-4025-5490-a677-917f44b0d3bd.html"
-webUrl: "https://www.news-journal.com/tomahawk-robotics-awarded-flexcsr-flexible-cyber-secure-radio-production-contract-from-the-united-states-navy/article_21c744bd-4025-5490-a677-917f44b0d3bd.html"
+excerpt: "Tomahawk Robotics, the leading innovator of robotic common control solutions, was awarded a $55.0M full-rate production contract for the Flexible Cyber Secure Radio (FlexCSR) program by the United States Navy."
+publishedDateTime: 2023-04-21T15:31:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/tomahawk-robotics-awarded-flexcsr-flexible-cyber-secure-radio-production-contract-from-the-united-states-navy-1032250123"
+webUrl: "https://markets.businessinsider.com/news/stocks/tomahawk-robotics-awarded-flexcsr-flexible-cyber-secure-radio-production-contract-from-the-united-states-navy-1032250123"
 type: article
 
 provider:
-  name: Longview News-Journal
-  domain: news-journal.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/2/c3/2c35cd3b-7a32-5bc7-adf6-564bbf419b6a/64429a7958164.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
+  - url: "https://mma.prnewswire.com/media/2060244/Tomahawk_Robotics_FlexCSR.jpg"
+    width: 400
+    height: 267
     isCached: true
 
-secured: "aNGdio8uuIJRLGJFSNVRUs3Q9KkN5bOrKrNLC1tqUbbUkhGvqsN8cIDYn72yenhmgOOnyQRFD6J1cMRncxBe6ABgcv+Oxwz2muSViK/bp0oF0unBlmx39z5+ahEkT+jnKsbxwGOIsgyO3q8v2CRZavGEmAr5oU1ajs9PDbNSPdQDPEO5cf3srZLsrYWYRjbAJuND3gnTHWLl+9tSMkcmZ+B0NhS1txCN+op/0mRtACqL1IYK79Kkd9JXJSvmXQVIFKJYA2CoQAu9D+0NklbiRGuTdg8QRO4VxF3Z+AWS2qYKYR7A4WMdXkKF698GDZlsZRPioQoegu3akRtzSldnQnZM3TRsCmmxdKYUQClo0C4=;1ayHIkHGATJPDkFi/6p8cw=="
+secured: "ArUDGaX7Ka4Z+D+4hLY7nd9i7S7MCmiUMyT/9MGwnG6YkkSpO3l9PoQe4RcQrEIFZmieLLhxtP1Xmi/Xa5tI0FHZi1fez08jJNEN7MeRVar2/J3AxhEJGibo6s3DoYo2YK+X9aWQtzjk1Vhliw/jjCm/ICs/pSAfhVB1jclQbRg0DJOIgaKVArrajd+kdDkNrgyK40hH0cE94HzvrrCMX483S7a5DAzxL6HTiCHPbRWM+4Wiwz8sjfoJDkH1zxFDY1PICTSZFTdx8LJyP+4iJvgAv3WpoqcL4sLPKKCRAEn6qIXlUEM8hNsj07a2lToUNhESVjy7031mCSNSkKKdzmVr5cH3Hi+Gtv4Y8PPYEM4=;4InQL/XhIpGRE4zXlmTXdQ=="
 ---
 

@@ -2,21 +2,21 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2023-04-21-tomahawk-robotics-awarded-flexcsr-flexible-cyber-secure-radio-production-contract-from-the-united-states-navy.md",
-      "title": "Tomahawk Robotics Awarded FlexCSR (Flexible Cyber Secure Radio) Production Contract from the United States Navy",
-      "excerpt": "Tomahawk Robotics, the leading innovator of robotic common control solutions, was awarded a $55.0M full-rate production contract for the Flexible Cyber Secure Radio",
+      "path": "_news/2023-04-21-businesses-turn-to-facial-recognition-technology-to-avert-shoplifting-and-robbery.md",
+      "title": "Businesses turn to facial recognition technology to avert shoplifting and robbery",
+      "excerpt": "Fox News’ Douglas Kennedy reports that shoplifting and robbery crimes are up 22% from last year, prompting business owners to use facial recognition technology to stop repeat offenders.",
       "sourceUrl": null,
-      "webUrl": "https://www.news-journal.com/tomahawk-robotics-awarded-flexcsr-flexible-cyber-secure-radio-production-contract-from-the-united-states-navy/article_21c744bd-4025-5490-a677-917f44b0d3bd.html",
-      "originalUrl": "https://www.news-journal.com/tomahawk-robotics-awarded-flexcsr-flexible-cyber-secure-radio-production-contract-from-the-united-states-navy/article_21c744bd-4025-5490-a677-917f44b0d3bd.html",
+      "webUrl": "https://www.foxnews.com/video/6325508060112",
+      "originalUrl": "https://www.foxnews.com/video/6325508060112",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 84,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/2/c3/2c35cd3b-7a32-5bc7-adf6-564bbf419b6a/64429a7958164.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8f9568c0-e2b3-4369-b71e-f2066447ffc9/c9ff9a97-7061-475b-bcd1-902a42a763be/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "width": 1024,
+          "height": 512,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,12 +26,73 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-21T07:07:00-07:00",
+      "publishedDateTime": "2023-04-21T09:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Longview News-Journal",
-        "domain": "news-journal.com",
-        "images": null,
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-21-tomahawk-robotics-awarded-flexcsr-flexible-cyber-secure-radio-production-contract-from-the-united-states-navy.md",
+      "title": "Tomahawk Robotics Awarded FlexCSR (Flexible Cyber Secure Radio) Production Contract from the United States Navy",
+      "excerpt": "Tomahawk Robotics, the leading innovator of robotic common control solutions, was awarded a $55.0M full-rate production contract for the Flexible Cyber Secure Radio (FlexCSR) program by the United States Navy.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/tomahawk-robotics-awarded-flexcsr-flexible-cyber-secure-radio-production-contract-from-the-united-states-navy-1032250123",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/tomahawk-robotics-awarded-flexcsr-flexible-cyber-secure-radio-production-contract-from-the-united-states-navy-1032250123",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2060244/Tomahawk_Robotics_FlexCSR.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-21T08:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -42,6 +103,110 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-21-how-ibm-is-innovating-for-a-more-sustainable-future.md",
+      "title": "How IBM is innovating for a more sustainable future",
+      "excerpt": "IBM has been building out an ecosystem of technologies and partnerships to help clients optimize their core operations across assets, infrastructure and supply chains.\nThe post How IBM is innovating for a more sustainable future appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-ibm-is-innovating-for-a-more-sustainable-future/",
+      "originalUrl": "https://www.ibm.com/blog/how-ibm-is-innovating-for-a-more-sustainable-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/04/textile-factory-630x330.jpg",
+          "width": 630,
+          "height": 330,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-21T07:13:22-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-21-what-are-the-four-main-types-of-artificial-intelligence-find-out-how-future-ai-programs-can-change-the-world.md",
+      "title": "What are the four main types of artificial intelligence? Find out how future AI programs can change the world",
+      "excerpt": "A perfect example of limited memory artificial intelligence is self-driving cars. The model examines the speed and direction of other cars in the present moment to make the best decisions on the road.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/what-four-main-types-ai-find-future-ai-programs-change-world",
+      "originalUrl": "https://www.foxnews.com/tech/what-four-main-types-ai-find-future-ai-programs-change-world",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/eac1965b-5982-426d-9b4c-4ee8e74a3170/e2145637-9569-47fe-a67b-6ecd88f6304e/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/what-four-main-types-ai-find-future-ai-programs-change-world.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/what-four-main-types-ai-find-future-ai-programs-change-world.amp",
+      "publishedDateTime": "2023-04-21T07:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -1089,135 +1254,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-20-is-artificial-intelligence-becoming-smarter-than-humans.md",
-      "title": "Is artificial intelligence becoming smarter than humans?",
-      "excerpt": "More than 1,000 scientists, engineers, many of them leaders in the Big Tech industry, recently signed an open letter calling for a pause in the development of the newest artificial",
-      "sourceUrl": null,
-      "webUrl": "https://www.daytonatimes.com/commentaries/is-artificial-intelligence-becoming-smarter-than-humans/article_ec170ae8-df99-11ed-8e0d-bb1c7f2396d9.html",
-      "originalUrl": "https://www.daytonatimes.com/commentaries/is-artificial-intelligence-becoming-smarter-than-humans/article_ec170ae8-df99-11ed-8e0d-bb1c7f2396d9.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/daytonatimes.com/content/tncms/assets/v3/editorial/7/bd/7bdf133c-df9a-11ed-9675-b32d9f78d52b/64416be8a3611.image.png?resize=400%2C231",
-          "width": 400,
-          "height": 231,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-20T09:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daytona Times",
-        "domain": "daytonatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-20-ai-terminologies-101-understanding-computer-vision-and-its-applications.md",
-      "title": "AI Terminologies 101: Understanding Computer Vision and Its Applications",
-      "excerpt": "Computer Vision is a type of artificial intelligence (AI) that enables machines to interpret and understand the visual world. Computer Vision algorithms can analyse and extract information from ...",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2023/04/ai-terminologies-101-understanding-computer-vision",
-      "originalUrl": "https://yourstory.com/2023/04/ai-terminologies-101-understanding-computer-vision",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/NucleusAIwall-elikecuterobotsmilingandreadingabooklo64cf6bf2-2dc6-4006-80fc-53762f2dce63-1682004860300.jpg?fm=png&auto=format",
-          "width": 1536,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-20T09:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-20-ai-system-can-generate-novel-proteins-that-meet-structural-design-targets.md",
-      "title": "AI system can generate novel proteins that meet structural design targets",
-      "excerpt": "The researchers from MIT, the MIT-IBM Watson AI Lab, and Tufts University employed a generative model, which is the same type of machine-learning model architecture used in AI systems like DALL-E 2.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-04-ai-generate-proteins.html",
-      "originalUrl": "https://phys.org/news/2023-04-ai-generate-proteins.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/protein-folding.jpg",
-          "width": 2880,
-          "height": 2366,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-04-ai-generate-proteins.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-04-ai-generate-proteins.amp",
-      "publishedDateTime": "2023-04-20T08:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }
