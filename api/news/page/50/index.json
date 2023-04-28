@@ -2,6 +2,136 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2023-03-15-news-tagged-with-deep-learning.md",
+      "title": "News tagged with deep learning",
+      "excerpt": "A deep learning model can accurately evaluate the area subscore of the Palmoplantar Pustulosis Area and Severity Index (PPPASI), according to a study published online Feb. 23 in the Journal of ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/tags/deep+learning/",
+      "originalUrl": "https://medicalxpress.com/tags/deep+learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-14T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-15-catering-to-vote-bank-lgbtq-activist-on-centre-opposing-same-sex-marriage.md",
+      "title": "\"Catering To Vote Bank\": LGBTQ Activist On Centre Opposing Same-Sex Marriage",
+      "excerpt": "This classification has a rational relation with the object sought to be achieved (ensuring social stability via recognition of marriages),\" the government said in its affidavit. It said statutory recognition of marriage as a union between a \"man\" and a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/india-news/catering-to-vote-bank-lgbtq-activist-on-centre-opposing-same-sex-marriage-3861749",
+      "originalUrl": "https://www.ndtv.com/india-news/catering-to-vote-bank-lgbtq-activist-on-centre-opposing-same-sex-marriage-3861749",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://c.ndtvimg.com/lgbt-generic_625x300_1530517472943.jpg",
+          "width": 650,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/india-news/catering-to-vote-bank-lgbtq-activist-on-centre-opposing-same-sex-marriage-3861749/amp/1",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/catering-to-vote-bank-lgbtq-activist-on-centre-opposing-same-sex-marriage-3861749/amp/1",
+      "publishedDateTime": "2023-03-14T15:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-03-15-could-covid-cause-face-blindness-study-suggests-its-possible.md",
+      "title": "Could COVID cause ‘face blindness'? Study suggests it’s possible",
+      "excerpt": "\"It was like my dad’s voice came out of a stranger’s face.\" \"This one describes face recognition as one of the main deficits in the case study patient, but goes through to describe several tests used in determining different neurocognitive deficits ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/health/could-covid-cause-face-blindness-study-suggests-possible",
+      "originalUrl": "https://www.foxnews.com/health/could-covid-cause-face-blindness-study-suggests-possible",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/94323c47-a69d-4157-ae67-20daa50a2109/3880628a-7d07-4d7e-a9b6-c8b85b25080c/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/health/could-covid-cause-face-blindness-study-suggests-possible.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/could-covid-cause-face-blindness-study-suggests-possible.amp",
+      "publishedDateTime": "2023-03-14T14:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-15-the-artificial-intelligence-glossary.md",
       "title": "The Artificial Intelligence Glossary",
       "excerpt": "A guide to the key terms you need to know and understand when discussing AI. Artificial intelligence is dominating conversations across all industries, including legal. To help legal professionals ...",
@@ -1044,143 +1174,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-14-tcs-launches-5g-enabled-solution-to-help-companies-transform-plant-operations.md",
-      "title": "TCS Launches 5G Enabled Solution To Help Companies Transform Plant Operations",
-      "excerpt": "Tata Consultancy Services on Tuesday (14 March) announced the launch of its 5G-enabled solution to help companies in transforming plant operations. TCS' Cognitive Plant Operations Adviser for the Microsoft Azure Private Mobile Edge Computing (PMEC) platform will help companies in industries like manufacturing,",
-      "sourceUrl": null,
-      "webUrl": "https://swarajyamag.com/business/tcs-launches-5g-enabled-solution-to-help-companies-transform-plant-operations",
-      "originalUrl": "https://swarajyamag.com/business/tcs-launches-5g-enabled-solution-to-help-companies-transform-plant-operations",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gumlet.assettype.com/swarajya%2F2023-02%2Fa38bf3ae-864b-49b1-ad8b-01fddfd3c396%2FScreenshot_2023_02_08_at_12_53_49_PM.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-14T07:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Swarajya",
-        "domain": "swarajyamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-14-googles-new-ai-tools-for-gmail-docs-can-write-drafts-for-you.md",
-      "title": "Google's New AI Tools for Gmail, Docs Can Write Drafts For You",
-      "excerpt": "Google plans to bring new AI-powered tools to its suite of Workspace apps. In a blog post on Tuesday, the search giant said it's starting by testing generative AI writing features in Gmail and Docs that can help people get started on the writing process.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/services-and-software/googles-new-ai-tools-for-gmail-docs-can-write-drafts-for-you/",
-      "originalUrl": "https://www.cnet.com/tech/services-and-software/googles-new-ai-tools-for-gmail-docs-can-write-drafts-for-you/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/9a7f95e60a03aa1cf0048c0dd34b9452e5b8a99c/hub/2022/03/07/2d35deaf-f545-498b-8a7c-9dd6a725e2a7/google-gmail-logo-7133.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/googles-new-ai-tools-for-gmail-docs-can-write-drafts-for-you/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-new-ai-tools-for-gmail-docs-can-write-drafts-for-you/",
-      "publishedDateTime": "2023-03-14T07:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-14-navigating-the-future-of-fintech-trends-and-innovations-to-watch.md",
-      "title": "Navigating the Future of FinTech: Trends and Innovations to Watch",
-      "excerpt": "If you’re interested in the world of finance and technology, then you’re in the right place. In recent years, FinTech has become an increasingly important sector, and it’s showing no signs of slowing down.",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/navigating-the-future-of-fintech-trends-and-innovations-to-watch/",
-      "originalUrl": "https://techbullion.com/navigating-the-future-of-fintech-trends-and-innovations-to-watch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2023/03/Screenshot-2023-03-14-071536.png",
-          "width": 627,
-          "height": 339,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-14T07:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

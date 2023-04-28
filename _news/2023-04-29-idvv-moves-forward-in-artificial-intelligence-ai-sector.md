@@ -1,27 +1,22 @@
 ---
 category: news
 title: "IDVV Moves Forward In Artificial Intelligence AI Sector"
-excerpt: "LOS ANGELES, CA / ACCESSWIRE / April 28, 2023 / International Endeavors Corporation 'IEC' (OTC PINK:IDVV) announced the following corporate"
-publishedDateTime: 2023-04-28T17:16:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/idvv-moves-forward-in-artificial-intelligence-ai-sector-1032274576"
-webUrl: "https://markets.businessinsider.com/news/stocks/idvv-moves-forward-in-artificial-intelligence-ai-sector-1032274576"
+excerpt: "IDVV is pleased to announce its progress in the acquisition of WITech and SF Corp, which have been completed ahead of schedule. As the company enters the AI sector, it is combining the strengths and capabilities of both acquisitions."
+publishedDateTime: 2023-04-28T19:50:00Z
+originalUrl: "https://www.newsobserver.com/press-releases/article274848016.html"
+webUrl: "https://www.newsobserver.com/press-releases/article274848016.html"
 type: article
-quality: 66
-heat: 76
-published: true
+quality: 34
+heat: 34
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Raleigh News & Observer
+  domain: newsobserver.com
 
 topics:
-  - AI in Robotics
-  - AI
   - AI in Healthcare
+  - AI
 
 related:
   - title: "International Endeavors Corporation: IDVV Moves Forward In Artificial Intelligence AI Sector"
@@ -34,6 +29,6 @@ related:
       domain: finanznachrichten.de
     quality: 23
 
-secured: "vootwvZQxZ9THE8/MRw+s5NWBo4vmHg1zx9TtwtUXng1V5fzt1Pnra25cwz0ZIevRotiRAQB6y+XCMGnleaTVsfNUmYNp6u7KBblmJZX5qLn844Mz2M32y58viZFH+Da+TrV/dAqu4faqFx2lI5emW776tl19ixNxnjlk+shdAACtJ9HVa3GNG7pkoE4pNtEHmLEZgZKGTIXM6EKpoPgA3ga/QcmoZkaoNos8GFWRuvbdQFF33klI3XCjuPuJYNk7BYm4hF48+w/hnsfZeTPEwOpi/CcHL3WLO64WDybV44LHeyeOe/rjwzA/3Mly97AvI/rob0uI36yvGyjQ/p3n7sQqmsMJT3uwcmQSo3hih0=;5BKud1WjdMLVSzi27pl8zQ=="
+secured: "5piHmdmUwFrKCtJuytnRqVfosD+ENFL0MXjXfPqM2duVfykh5+nQAEbzbPHMymPf3/QyVlyfuUCeZGzXVZbriyoVZF2d2gWA+zIX++zAUM8i2phcvPGMEsMvM1KbAUNKT2//JdOmdz7tMVvNs7Ll2sBfg+l7/TOHy1uhiE9XqnWXvvUZG8K3JL1+jzue0Yg1yjubST7XwQOXokJuJxvS9nXdXv7DLzJ+BfmEYuqddEaGs7//L68h8GRKt0vBKcj1TlqNETZ6q6d80WZvXxcMAZSr+rfSwJZLFUgusbvqbo3MPqzGqDMmossCiCR/t2neqvsbL6IvNO4HPXgKqSjevB4or4Hn21LjHP4EBpbPNrE=;DPw5EdPSyYsGP6xE8SbUNA=="
 ---
 

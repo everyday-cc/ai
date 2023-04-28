@@ -352,6 +352,20 @@ related:
       name: manilatimes
       domain: manilatimes.net
     quality: 19
+  - title: "ChatGPT may have better bedside manner than some doctors, but it lacks some expertise"
+    excerpt: "By Deidre McPhillips, CNN ChatGPT can be a useful tool for patients who are seeking medical information and guidance, but the artificial intelligence tool can’t fully replace the value of a human physician — it says so itself."
+    publishedDateTime: 2023-04-28T20:03:00Z
+    webUrl: "https://localnews8.com/health/cnn-health/2023/04/28/chatgpt-may-have-better-bedside-manner-than-some-doctors-but-it-lacks-some-expertise/"
+    type: article
+    provider:
+      name: Local News 8
+      domain: localnews8.com
+    quality: 17
+    images:
+      - url: "https://localnews8.b-cdn.net/2023/04/PFikUZoz-4-28-23-375x225.jpg"
+        width: 375
+        height: 225
+        isCached: true
 
 secured: "Kc0Z5rByTYUEJBC2OUBXnHaqC2hdmI0twzKZYWiO0BDT1/KDKKYk6khNIxHaDuDwWKpOkFoKmR/FSAa08FpJas7P0rWTFtCSrb6RRLhw8CSbGDgj+xNm4129YieH117I8v3cEv4/XHuT8x+aFqqbaOaIw2l7claX9VqGCdlZMKxCOIZj5rgGbdK9X/4imMYxoWuCDcl2QlTyzmdxw3pdKIkQ7CcPZ8Kr713zscX/1rvykte1gIQh+PKCrADx6pO/TC24MwFSnyal7Zv7/kIyL9u6epOJ1mPGkAM33yrQPyXKK1t4WHXC5d1JTYt/19tvGeSn2hTHTv05FXXoJMwYuoRzLEC7qk++EKC969OUGec=;GTf+AnGA4kLK8yTAny40xQ=="
 ---

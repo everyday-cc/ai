@@ -207,20 +207,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 62
-  - title: "2023, Insights and Predictions for the Global Artificial intelligence (AI) in Supply Chain and Logistics Market Future"
-    excerpt: "Artificial intelligence (AI) in Supply Chain and Logistics Market Size 2023 | New Report (105 Pages) | Analytics | In"
-    publishedDateTime: 2023-04-24T03:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-insights-and-predictions-for-the-global-artificial-intelligence-ai-in-supply-chain-and-logistics-market-future-2023-04-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Cognitive Data Management Market Recent Developments and Updates By 2031"
     excerpt: "What is the Cognitive Data Management market growth? Cognitive Data Management Market Size is projected to Reach Multimillion USD by 2031, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2031."
     publishedDateTime: 2023-04-27T12:35:00Z
@@ -271,6 +257,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 46
+  - title: "Global Artificial Intelligence (Ai) in the Public Cloud"
+    excerpt: "This research examines the growing need for artificial intelligence (AI) services to help businesses meet key goals and objectives, as well as the strategic position of public cloud service providers to develop and launch successful AI capabilities for customers."
+    publishedDateTime: 2023-04-28T19:22:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-global-artificial-intelligence-ai-the-public-cloud-research-/2023/04/28/9804337.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 32
   - title: "3D Camera Market worth $9.1 Billion by 2028 - Exclusive Report by MarketsandMarkets™"
     excerpt: "The global 3D camera market is expected to be valued at USD 3.6 Billion in 2023 and is projected to reach USD 9.1 Billion by 2028; it"
     publishedDateTime: 2023-04-24T16:00:00Z

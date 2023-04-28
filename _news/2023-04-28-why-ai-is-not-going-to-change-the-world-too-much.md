@@ -45,6 +45,15 @@ related:
       name: Variety
       domain: variety.com
     quality: 17
+  - title: "Exploring the Perils, and the Misconceptions, around Artificial Intelligence"
+    excerpt: "Artificial intelligence (AI) has enormous potential to improve our lives in many ways, we are told. However, this exciting new field is also laced with pitfalls for academic researchers. How should they navigate the ethical challenges that come with using AI?"
+    publishedDateTime: 2023-04-27T19:00:00Z
+    webUrl: "https://www.bowdoin.edu/news/2023/04/exploring-the-perils-and-the-misconceptions-around-artificial-intelligence.html"
+    type: article
+    provider:
+      name: Bow Doin Polar Bears
+      domain: bowdoin.edu
+    quality: 16
 
 secured: "JKftIzVo48LhvM7gOoFmE4O554/bLollXFngSSrUgfEeH9CiNWSfD/BVqVAsNF3mHBzbaW2dhwJF2PQ9N54lKF3WW1f2yFZ07ag77trpC07vMu+b8jr0wZR4vbrlYd06FebJr0x4dQs+bvaebB2qqfeBQNewSlyn6iGt3ljgrwK/jC0TfOoRFFWzsu57fZDpqfkjv2CVeWF8dunrhFyi+XbuODRysfRbp3ShLLGA0ZrqTmUDhIE0TqdmMHNl5kWKzlENYABDFqtEJxCByaPDasSanllc8LiXPSlv5NPVStOlbWg9Yaz9dsURyA1YQ6HNO/n7atRF4GrtX6aPiPzQIOZ+6sX1L3JZ9jKuiUvBJ34/olwT/ZmekosKaJzEoa1eig/ThOePp7iZq+cQLgxBWek+K2XaX/zW6SzbzT6x1EKWJgYg8tsS2eXdhUDdjtBB3oYce3kvixN9d3fEf175N+2j0jG8Q0unI1Rsyj+/QI6uWhxtSOTNIxS8BjMZyM1vJbglcaNTZDExNNVi4qbyeg==;Xh7BBcG1aaEWXuYcGbjhgg=="
 ---

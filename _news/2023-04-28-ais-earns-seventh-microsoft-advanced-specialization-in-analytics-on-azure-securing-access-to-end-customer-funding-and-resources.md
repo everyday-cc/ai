@@ -2,11 +2,11 @@
 category: news
 title: "AIS Earns Seventh Microsoft Advanced Specialization in Analytics on Azure, Securing Access to End-Customer Funding and Resources"
 excerpt: "AIS (Applied Information Sciences), experts in helping organizations modernize and innovate with Microsoft Cloud, announces it has earned the Analytics on Microsoft Azure advanced specialization, its seventh in total."
-publishedDateTime: 2023-04-28T15:08:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/04/28/9804242.htm"
-webUrl: "https://it.tmcnet.com/news/2023/04/28/9804242.htm"
+publishedDateTime: 2023-04-28T14:53:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-ais-earns-seventh-microsoft-advanced-specialization-analytics-azure-/2023/04/28/9804242.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-ais-earns-seventh-microsoft-advanced-specialization-analytics-azure-/2023/04/28/9804242.htm"
 type: article
-quality: 40
+quality: 20
 heat: -1
 published: false
 
@@ -17,12 +17,6 @@ provider:
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
-    width: 550
-    height: 353
-    isCached: true
 
 related:
   - title: "TTEC Digital introduces WFM Adapter for Microsoft Dynamics 365 Customer Service"
@@ -40,6 +34,6 @@ related:
         height: 630
         isCached: true
 
-secured: "T9VD/3yBhQJJV/455IO/wfPdsfMhIzR2Oo3QYwSzvb7BhHbYBfNOexhzqTVCT3XJPIc80Ug0GPanhi6RRKJCeC3Tume4eoW9bWdLeeDaIZZulS9l8PIYsAQoZ3speLVzO5kmlGRAOzL1NUD2LzpJ0ZxfdkLwD1TYWCTMQxYUKyC36iSVsMvxzokSBUtor6i9n/4Hwc+tvztW5hcFoCEgv35qVezr7+MKGgxXUGhgaFpqXzq0qbCCD3KEc/rs4joADhU3YScP0ny+U3NWSB4equIHbGlqh1ZOh5MFnBwPU10PG3MHe/9H3MtzgPZ//HCdRyb/XdnoJUrpXygu7fkjcqfFPTcdR2zSp5TjzHzwXQ0=;iJu6euO2n5ElApLVvYuj7w=="
+secured: "aE6g2YvSW38yMtfZlyUyKvN/Kd6wvan9E4fwaf0euBNqJoKfE3UMi2hxLCw8MhTQTfwAkILg3Cdv4VahFvk+i5EtNjLFL9vCbMyTH0txtBfiwNboeNQTGPqEQHTopIq1Kvja+jYbKnp2CUFEXtIgMrmDeVV8qp+3XvFwMgupqfhwixKOGai4wIyWUHcXUE9e/XkQ2z8/XXeMp/53jAmFFckrv8Zr2/Ad1XTJQ+tZnaamV1b2i7K8reBMyXr/1VdExKnFfhkoodEgIHIOwWSuUehSAMuwws82LsewYqKSVKSdO1DnY9Shwu75JuGixuvo1ly5ZB7KB1/Lb4bjlWrdJe067rbg/492PXGaZJOdoMU=;z3/oGaEeGVTtetSrHr9TLg=="
 ---
 

@@ -66,20 +66,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "2023 to 2030 Natural Language Processing (NLP) Market Upcoming Trends"
-    excerpt: "Natural Language Processing (NLP) Market” Are a Collection of Information and Analysis Obtained From Diverse Sources"
-    publishedDateTime: 2023-04-24T04:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-to-2030-natural-language-processing-nlp-market-upcoming-trends-2023-04-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 84
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Edge AI Chips Market Outlook by 2031"
     excerpt: "The latest market research report on the Global \"Edge AI Chips Market\" is segmented by Regions, Country, Company and"
     publishedDateTime: 2023-04-28T09:51:00Z
@@ -103,20 +89,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 82
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Natural Language Processing (NLP) in Healthcare and Life Sciences Market to Experience a Significant Increase in Revenues"
-    excerpt: "Natural Language Processing (NLP) in Healthcare and Life Sciences Market Size 2023 | New Report (122 Pages) | Analytics"
-    publishedDateTime: 2023-04-24T03:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-to-experience-a-significant-increase-in-revenues-2023-04-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 76
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

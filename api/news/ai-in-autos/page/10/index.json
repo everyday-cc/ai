@@ -2,6 +2,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-02-09-waymo-provides-driverless-rides-for-super-bowl-visitors.md",
+      "title": "Waymo provides driverless rides for Super Bowl visitors",
+      "excerpt": "But there’s another option if they need a ride around Phoenix. Waymo has been offering driverless rides around the city for a few years. But thousands of people will be in town this week seeing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.azfamily.com/2023/02/09/waymo-provides-driverless-rides-super-bowl-visitors/",
+      "originalUrl": "https://www.azfamily.com/2023/02/09/waymo-provides-driverless-rides-super-bowl-visitors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-kpho-prod.cdn.arcpublishing.com/resizer/9I89BgMQniIZb6zM7Vz5ltjHhiY=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/HAIM3WSFBZGXRD2TH34GE47PR4.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.azfamily.com/2023/02/09/waymo-provides-driverless-rides-super-bowl-visitors/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/2023/02/09/waymo-provides-driverless-rides-super-bowl-visitors/?outputType=amp",
+      "publishedDateTime": "2023-02-08T19:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AZFamily",
+        "domain": "azfamily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-09-ub-affiliated-artificial-intelligence-startup-raises-900000-in-seed-round-to-advance-driverless-boat-technology.md",
       "title": "UB-affiliated artificial intelligence startup raises $900,000 in seed round to advance driverless boat technology",
       "excerpt": "BUFFALO, N.Y. — Buffalo Automation, an artificial intelligence (AI) startup that is developing ... Many people are familiar with the concept of driverless cars, which travel autonomously from Point A to Point B while detecting and avoiding obstacles ...",
@@ -1214,41 +1257,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-goa-using-artificial-intelligence-powered-robots-technology-to-save-lives-on-its-beaches.md",
-      "title": "Goa using artificial intelligence-powered robots, technology to save lives on its beaches",
-      "excerpt": "Hyderabad: In a first-of-its-kind innovation, Drishti Marine, Goa's state-appointed lifeguard organisation, has introduced artificial intelligence (AI) in the form of Aurus, a self-driving robot and Triton,",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/goa-using-artificial-intelligence-powered-robots-technology-to-save-lives-on-its-beaches/",
-      "originalUrl": "https://indiaeducationdiary.in/goa-using-artificial-intelligence-powered-robots-technology-to-save-lives-on-its-beaches/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/goa-using-artificial-intelligence-powered-robots-technology-to-save-lives-on-its-beaches/amp/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/goa-using-artificial-intelligence-powered-robots-technology-to-save-lives-on-its-beaches/amp/",
-      "publishedDateTime": "2023-02-05T22:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

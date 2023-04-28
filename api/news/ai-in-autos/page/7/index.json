@@ -2,6 +2,50 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-02-28-kt-showcases-self-driving-delivery-robot-at-mwc.md",
+      "title": "KT showcases self-driving delivery robot at MWC",
+      "excerpt": "Chey Tae-won, chairman of SK Group, said in Barcelona, Monday (local time) that he will work on nurturing Korea's artificial intelligence (AI) industry ecosystem, saying the",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreatimes.co.kr/www/tech/2023/02/133_346275.html",
+      "originalUrl": "https://www.koreatimes.co.kr/www/tech/2023/02/133_346275.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202302/753af40588424714809aeaaaa074b7d4.jpg",
+          "width": 980,
+          "height": 653,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=346275",
+      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=346275",
+      "publishedDateTime": "2023-02-28T00:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Korea Times",
+        "domain": "koreatimes.co.kr",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-02-28-meet-the-top-8-lawyers-helping-startups-patent-artificial-intelligence-and-comply-with-rules-on-privacy-and-safety.md",
       "title": "Meet the top 8 lawyers helping startups patent artificial intelligence and comply with rules on privacy and safety",
       "excerpt": "Artificial-intelligence startups are continuing to ... and its self-driving car program, Waymo — which he previously represented in a high-profile trade-secrets dispute against Uber Technologies ...",
@@ -1372,58 +1416,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-21-roger-c-schank-theorist-of-artificial-intelligence-dies-at-76.md",
-      "title": "Roger C. Schank, Theorist of Artificial Intelligence, Dies at 76",
-      "excerpt": "By Steve Lohr Roger C. Schank, a scientist who made influential contributions to the field of artificial intelligence and then, as an academic, author and entrepreneur, focused on how people learn ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/02/20/technology/roger-c-schank-dead.html",
-      "originalUrl": "https://www.nytimes.com/2023/02/20/technology/roger-c-schank-dead.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/02/21/multimedia/17Schank-czhl-print1/17Schank-czhl-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2023/02/20/technology/roger-c-schank-dead.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/02/20/technology/roger-c-schank-dead.amp.html",
-      "publishedDateTime": "2023-02-20T14:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

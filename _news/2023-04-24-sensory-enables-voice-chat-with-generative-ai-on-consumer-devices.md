@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/sensory-enables-voice-chat-with-generativ
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/sensory-enables-voice-chat-with-generative-ai-on-consumer-devices/amp/"
 type: article
 quality: 91
-heat: 121
+heat: 151
 published: true
 
 provider:
@@ -48,6 +48,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "What Generative AI Means For The Future Of PR"
+    excerpt: "As someone who works in public relations, where content and communication are the fundamentals of our craft, should I fear what LLMs such as ChatGPT or Google’s BERT (Bidirectional Encoder Representations from Transformers) and other conversational AI tools mean for the future of my profession,"
+    publishedDateTime: 2023-04-25T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/04/25/what-generative-ai-means-for-the-future-of-pr/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/04/25/what-generative-ai-means-for-the-future-of-pr/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/04/25/what-generative-ai-means-for-the-future-of-pr/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5f33fae78e26add3d640245e/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 836
+        isCached: true
   - title: "Sales Engagement Software Outplay Launches Next-Gen Features With Regenerative AI"
     excerpt: "Introduces all-in-one multi use-case features that will enable sales teams to achieve their goals across the sales life cycle without the need"
     publishedDateTime: 2023-04-24T15:42:00Z
@@ -66,6 +82,29 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 52
+  - title: "EU proposes new copyright rules for generative AI"
+    excerpt: "Shortly after signing the letter, the Financial Times reported Musk was planning to launch his own startup to rival OpenAI. ALSO READ: Elon Musk plans AI startup to rival OpenAI, Financial Times reports"
+    publishedDateTime: 2023-04-28T01:55:00Z
+    webUrl: "https://www.asiaone.com/digital/eu-proposes-new-copyright-rules-generative-ai"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 37
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Apr2023/20230428_EUAI_Reuters.jpg?itok=7hZy3u6s"
+        width: 848
+        height: 601
+        isCached: true
+  - title: "The PR Council Issues Guidelines On Ethical Use Of Generative AI"
+    excerpt: "PRC issues detailed, actionable guidelines on the use of generative AI tools based on their longstanding Code of Ethics and Principles.<"
+    publishedDateTime: 2023-04-26T19:24:00Z
+    webUrl: "https://menafn.com/1106102977/The-PR-Council-Issues-Guidelines-On-Ethical-Use-Of-Generative-AI"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 34
 
 secured: "poRPeoj/huLS8ah07nX7NVCcIoVhq49fOOhv8Y1UJwUJSeI6P0DQwsGX594H/J6TzHJK2KBYQfmHzlqvZ4V4DJ7+J2LVlLu6m/3YXTgYVxy7wlyvmS5VssaNNeSACMHR22TIt2xRKmajoGC3QNbmQ6CPJsBUYTxLdKBQ1bqQ6Is/qzn/2zVjdKxG3+shhxoXI9C8jR2rg7qRgxu6XFafmUxd5qqwvjW5dyuScfFdI2K2pQATCKwTlAyTy26S7ZgLYbEquhvhwCLFdjJ72GqSx1HHk2CLxzqwNboQuMVcKeNGGCxjh9LC/PDM5auW95T9V0bEhLxVxCTupNVjs4mQUixQm+i6vd6fxyPPr/Uo+XMa+bvahWjbY+3NoDbl7/flK7WG4cjbkvb5ttrX5W1o7pUU8d4vYu580kcsrp0WpyA909iCA4K47MoOgTjR1vLWv4QB5Kshg3y4E8H/WQ3sUJD9y0R+XkhlAe/95PycnCFT6JVK7XQMUmAnW5psCQs6U5nwp7ENOjMXn6RqL/ozoA==;aS2XfGSth1UXXHAssMTs0w=="
 ---

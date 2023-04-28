@@ -9,8 +9,8 @@ ampWebUrl: "https://metro.co.uk/2023/04/26/tinder-introduces-facial-recognition-
 cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/04/26/tinder-introduces-facial-recognition-and-video-selfies-to-verify-users-18676377/amp/"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Metro
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Tinder’s verification process will now use AI and video selfies"
+    excerpt: "Tinder today is rolling out an AI-powered update to its Photo Verification feature, which to date has allowed the app’s users to prove to others they’re neither a bot nor a catfisher. In the past, users would take pictures of themselves,"
+    publishedDateTime: 2023-04-26T18:24:00Z
+    webUrl: "https://techcrunch.com/2023/04/25/tinders-verification-process-will-now-use-ai-and-video-selfies/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 47
   - title: "Black man falsely arrested for theft based on facial recognition"
     excerpt: "Black man named Robert Williams was falsely arrested by Detroit police officers for theft based on faulty facial recognition technology"
     publishedDateTime: 2023-04-26T13:25:00Z

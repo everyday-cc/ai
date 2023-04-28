@@ -2,6 +2,212 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-04-26-kinetix-launches-text-to-animation-ai-for-new-era-in-user-generated-content.md",
+      "title": "Kinetix launches text-to-animation AI for new era in user-generated content",
+      "excerpt": "Kinetix has announced Text2Emotes, a generative AI technology that heralds a new era of user-generated gaming content (UGC).",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/games/kinetix-launches-text-to-animation-ai-for-new-era-in-user-generated-content/",
+      "originalUrl": "https://venturebeat.com/games/kinetix-launches-text-to-animation-ai-for-new-era-in-user-generated-content/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/04/kinetix-text2emote.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/games/kinetix-launches-text-to-animation-ai-for-new-era-in-user-generated-content/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/kinetix-launches-text-to-animation-ai-for-new-era-in-user-generated-content/amp/",
+      "publishedDateTime": "2023-04-26T00:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-26-the-ai-suicide-race-with-jaan-tallinn.md",
+      "title": "The AI Suicide Race. With Jaan Tallinn",
+      "excerpt": "Jaan Tallinn. London Futurists Podcast From Skype to AI safety. In the 1990s and early noughties, Jaan Tallinn led much of the software engineering for the file-sharing applicatio",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/calumchace/2023/04/26/the-ai-suicide-race-with-jaan-tallinn/",
+      "originalUrl": "https://www.forbes.com/sites/calumchace/2023/04/26/the-ai-suicide-race-with-jaan-tallinn/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6448cfae777baa264251f763/0x0.jpg?format=jpg&width=1200",
+          "width": 987,
+          "height": 987,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/calumchace/2023/04/26/the-ai-suicide-race-with-jaan-tallinn/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2023/04/26/the-ai-suicide-race-with-jaan-tallinn/amp/",
+      "publishedDateTime": "2023-04-26T00:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-26-exclusive-swiss-startup-unveils-world-first-ai-translation-service.md",
+      "title": "Exclusive: Swiss startup unveils ‘world-first’ AI translation service",
+      "excerpt": "Interprefy claims to have created the world’s first advanced automated speech translation service for online and live events.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/interprefy-startup-unveils-worlds-first-advanced-automated-speech-translation-service-for-online-and-live-eventsinterprefy",
+      "originalUrl": "https://thenextweb.com/news/interprefy-startup-unveils-worlds-first-advanced-automated-speech-translation-service-for-online-and-live-eventsinterprefy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F04%2FUntitled-design-10.jpg&signature=d0273374d0073cb706cb6f2cdea4ca35",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-26T00:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-26-apple-building-an-ai-health-coach-for-apple-watch-report-claims.md",
+      "title": "Apple building an AI health coach for Apple Watch, report claims",
+      "excerpt": "Apple is developing an AI-powered health coach designed to offer personalized advice for improving exercise, diet, and sleep, a new report claims.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/mobile/apple-may-be-building-ai-health-coach-for-apple-watch/",
+      "originalUrl": "https://www.digitaltrends.com/mobile/apple-may-be-building-ai-health-coach-for-apple-watch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/04/apple-health-app-report.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/mobile/apple-may-be-building-ai-health-coach-for-apple-watch/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/apple-may-be-building-ai-health-coach-for-apple-watch/?amp",
+      "publishedDateTime": "2023-04-25T22:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-26-automated-machine-learning-automl-market-report-explained-current-growth-for-upcoming-period-2030.md",
       "title": "Automated Machine Learning (AutoML) Market Report Explained Current Growth for upcoming period 2030",
       "excerpt": "The recent market research titled \" Automated Machine Learning (AutoML) Market \" has analyzed the Automated Machine Learning (AutoML) Market report is a comprehensive analysis that covers various aspects of the industry,",
@@ -10,7 +216,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-report-explained-current-growth-for-upcoming-period-2030-2023-04-26",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -622,7 +828,7 @@
       "originalUrl": "https://venturebeat.com/security/rsac-2023-securityscorecard-launches-first-gpt-4-security-ratings-platform/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 118,
       "tags": null,
       "images": [
         {
@@ -874,7 +1080,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-4346-cagr-till-2030-2023-04-25",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -1061,202 +1267,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-republicans-launch-eerie-ai-generated-attack-ad-on-biden.md",
-      "title": "Republicans Launch Eerie AI-Generated Attack Ad On Biden",
-      "excerpt": "The video shows realistic images of a collapse of world order under a second Biden-Harris term—and suggests the possibility of a lot of artificial intelligence in upcoming campaigns.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/saradorn/2023/04/25/republicans-launch-eerie-ai-generated-attack-ad-on-biden/",
-      "originalUrl": "https://www.forbes.com/sites/saradorn/2023/04/25/republicans-launch-eerie-ai-generated-attack-ad-on-biden/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6447ef043664b77e0aa3babc/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/saradorn/2023/04/25/republicans-launch-eerie-ai-generated-attack-ad-on-biden/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saradorn/2023/04/25/republicans-launch-eerie-ai-generated-attack-ad-on-biden/amp/",
-      "publishedDateTime": "2023-04-25T08:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-watched-while-working-use-of-monitoring-and-ai-in-the-workplace-increases.md",
-      "title": "Watched while working: Use of monitoring and AI in the workplace increases",
-      "excerpt": "Wendi S. Lazar and Cody Yorke of Outten & Golden LLP discuss privacy and other workplace concerns as employers increasingly monitor employees working remotely or use AI in decision-making.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/legal/legalindustry/watched-while-working-use-monitoring-ai-workplace-increases-2023-04-25/",
-      "originalUrl": "https://www.reuters.com/legal/legalindustry/watched-while-working-use-monitoring-ai-workplace-increases-2023-04-25/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/8SXVB-HGlMtm1YJkZeYwCQPfPGc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LPRMGTTS5VIVPETVD4OBZ3XRJI.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-25T07:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-why-optimize-your-warehouse-with-a-data-lakehouse-strategy.md",
-      "title": "Why optimize your warehouse with a data lakehouse strategy",
-      "excerpt": "You know a data warehouse is essential. Let’s look at why warehouse optimization is key in a data lakehouse strategy, and why it matters for your business.\nThe post Why optimize your warehouse with a data lakehouse strategy appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/why-optimize-your-warehouse-with-a-data-lakehouse-strategy/",
-      "originalUrl": "https://www.ibm.com/blog/why-optimize-your-warehouse-with-a-data-lakehouse-strategy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-25T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-deep-learning-camera-market-facts-and-figures-by-2030.md",
-      "title": "Deep Learning Camera Market Facts and Figures By 2030",
-      "excerpt": "The latest market research report on the Global \"Deep Learning Camera Market\" is segmented by Regions, Country, Company",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-camera-market-facts-and-figures-by-2030-2023-04-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-camera-market-facts-and-figures-by-2030-2023-04-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-25T05:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

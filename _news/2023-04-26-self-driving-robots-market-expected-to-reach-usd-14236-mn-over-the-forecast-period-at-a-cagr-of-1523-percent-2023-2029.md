@@ -29,15 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Deep Learning Market to reach USD 137.58 Bn by 2029, at a CAGR of 41.5 percent (2022-2029)"
-    excerpt: "The global Deep Learning Market size was valued at USD 8.56 Bn in 2021 and is expected to reach nearly USD 137.58 Bn"
-    publishedDateTime: 2023-04-24T04:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-to-reach-usd-13758-bn-by-2029-at-a-cagr-of-415-percent-2022-2029-2023-04-24"
+  - title: "Speech and Voice Recognition Market to reach USD 35.34 Bn by 2029 emerging at a CAGR of 19.32 percent (2022-2029)"
+    excerpt: "Speech and Voice Recognition Market size was valued at USD 8.60 Bn in 2021 and is expected to reach USD 35.34 Bn by 2029"
+    publishedDateTime: 2023-04-28T05:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-to-reach-usd-3534-bn-by-2029-emerging-at-a-cagr-of-1932-percent-2022-2029-2023-04-28"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 59
+    quality: 33
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

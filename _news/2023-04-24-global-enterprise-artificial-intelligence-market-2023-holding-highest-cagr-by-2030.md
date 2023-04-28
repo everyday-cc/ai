@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Which Segments Computer Vision System Market Are Anticipated To Highest CAGR By 2030"
+    excerpt: "New Analysis of Computer Vision System Market overview, spend analysis, imports, segmentation, key players, and"
+    publishedDateTime: 2023-04-28T04:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/which-segments-computer-vision-system-market-are-anticipated-to-highest-cagr-by-2030-2023-04-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Hospitality Robots Market Size is Anticipated to Acquire USD 3100 Million by 2030, Growing at 25.51% of CAGR | Robotics Technology Updates"
     excerpt: "Zion Market Research has published a new research report titled \"Hospitality Robots Market By Type (Delivery Robots, Front Desk Robots, Cleaning Robots, And Others),"
     publishedDateTime: 2023-04-24T11:12:00Z

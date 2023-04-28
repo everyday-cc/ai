@@ -30,31 +30,56 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon & 3M Will Use Generative AI To Ease Documentation For Healthcare Providers"
-    excerpt: "Late last week, two of the world’s most famous companies, Amazon and 3M, announced a bold partnership aimed at solving one of the most critical pain points for healthcare providers: clinical documentation."
-    publishedDateTime: 2023-04-24T01:59:00Z
-    webUrl: "https://www.forbes.com/sites/saibala/2023/04/23/amazon--3m-will-use-generative-ai-to-ease-documentation-for-healthcare-providers/"
-    ampWebUrl: "https://www.forbes.com/sites/saibala/2023/04/23/amazon--3m-will-use-generative-ai-to-ease-documentation-for-healthcare-providers/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2023/04/23/amazon--3m-will-use-generative-ai-to-ease-documentation-for-healthcare-providers/amp/"
+  - title: "Sensory enables voice chat with generative AI on consumer devices"
+    excerpt: "Sensory, a maker of consumer voice AI, has announced it has integrated ChatGPT and other AI to drive voice responses on consumer devices."
+    publishedDateTime: 2023-04-24T14:30:00Z
+    webUrl: "https://venturebeat.com/ai/sensory-enables-voice-chat-with-generative-ai-on-consumer-devices/"
+    ampWebUrl: "https://venturebeat.com/ai/sensory-enables-voice-chat-with-generative-ai-on-consumer-devices/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/sensory-enables-voice-chat-with-generative-ai-on-consumer-devices/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 99
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 91
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6445c14eba75efb41b2390e1/0x0.jpg?format=jpg&width=1200"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/04/SENSORY-2.jpg?w=1200&strip=all"
         width: 1200
-        height: 800
+        height: 727
         isCached: true
-  - title: "Tinder’s verification process will now use AI and video selfies"
-    excerpt: "Tinder today is rolling out an AI-powered update to its Photo Verification feature, which to date has allowed the app’s users to prove to others they’re neither a bot nor a catfisher. In the past, users would take pictures of themselves,"
-    publishedDateTime: 2023-04-26T18:24:00Z
-    webUrl: "https://techcrunch.com/2023/04/25/tinders-verification-process-will-now-use-ai-and-video-selfies/"
+  - title: "Grimes says anyone can use her voice for AI-generated songs"
+    excerpt: "Grimes has invited musicians to clone her voice using Artificial Intelligence in order to create new songs. The pop singer, whose real name is Claire Boucher, said she would \"split 50% royalties on any successful AI-generated song that uses my voice\"."
+    publishedDateTime: 2023-04-25T10:15:00Z
+    webUrl: "https://www.bbc.com/news/entertainment-arts-65385382?at_campaign_type=owned&at_ptr_name=twitter&at_format=link&at_link_origin=BBCWorld&at_link_id=6A68CC54-E352-11ED-B5C7-E39179448730&at_link_type=web_link&at_bbc_team=editorial"
+    ampWebUrl: "https://www.bbc.com/news/entertainment-arts-65385382.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/entertainment-arts-65385382.amp"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 47
+      name: BBC
+      domain: bbc.com
+    quality: 87
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/CE67/production/_129493825_gettyimages-523637192.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Sales Engagement Software Outplay Launches Next-Gen Features With Regenerative AI"
+    excerpt: "Introduces all-in-one multi use-case features that will enable sales teams to achieve their goals across the sales life cycle without the need"
+    publishedDateTime: 2023-04-24T15:42:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/sales-engagement-software-outplay-launches-next-gen-features-with-regenerative-ai-1032254721"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 59
+  - title: "Voices study finds creatives optimistic about generative AI, but share concerns over its ethics"
+    excerpt: "PRNewswire/ - Today, Voices, the world's leading voice over marketplace, released their AI in the Creative Industry"
+    publishedDateTime: 2023-04-28T15:47:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/voices-study-finds-creatives-optimistic-about-generative-ai-but-share-concerns-over-its-ethics-1032274231"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 52
   - title: "EU proposes new copyright rules for generative AI"
     excerpt: "Shortly after signing the letter, the Financial Times reported Musk was planning to launch his own startup to rival OpenAI. ALSO READ: Elon Musk plans AI startup to rival OpenAI, Financial Times reports"
     publishedDateTime: 2023-04-28T01:55:00Z
@@ -69,15 +94,6 @@ related:
         width: 848
         height: 601
         isCached: true
-  - title: "Executives want generative AI, but are taking it slow. An army of providers has lined up to help"
-    excerpt: "Vendors are lining up to help enterprise companies adopt generative AI and tackle issues around data security and risk."
-    publishedDateTime: 2023-04-26T19:01:00Z
-    webUrl: "https://venturebeat.com/ai/executives-want-generative-ai-but-are-taking-it-slow-an-army-of-providers-has-lined-up-to-help/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 36
   - title: "The PR Council Issues Guidelines On Ethical Use Of Generative AI"
     excerpt: "PRC issues detailed, actionable guidelines on the use of generative AI tools based on their longstanding Code of Ethics and Principles.<"
     publishedDateTime: 2023-04-26T19:24:00Z

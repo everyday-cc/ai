@@ -54,6 +54,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Executives want generative AI, but are taking it slow. An army of providers has lined up to help"
+    excerpt: "Vendors are lining up to help enterprise companies adopt generative AI and tackle issues around data security and risk."
+    publishedDateTime: 2023-04-26T19:01:00Z
+    webUrl: "https://venturebeat.com/ai/executives-want-generative-ai-but-are-taking-it-slow-an-army-of-providers-has-lined-up-to-help/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 36
 
 secured: "/ZU7560X4ax2A2spv0FomSqKeApnN5kE4JOZ0vl6mdg/HPe48t7tbTiqwdJYI/fSVWOahRSwMnAaDa++kzbNfItOpHMAAkrHH8/absK6wgxiQ/ZoN224yaFiLUAuLxu+zaC02ECOuUa7ZIu2BIQddRBZ/CVAMh70oKXRS6ErULK7FSFYCZygSO7sBWvErWNZjcI6LyPhrccUtZwTludlLMXMuX13NvXQSnmXTl9xpg1UsJgMDMB14OcbVYtTkD5UHz7Ea5Tg6VyHbDe4Xk2APTGog3S7wyx2w4Cb3s5XcFzO7CtbYt+0yZCjICZ8lvYvTDe4Nis544QZPnxGTVF7c278aOTOvJnwimxrYr17LsWEMELJWbNj+YA/2bt7FP/y7xXTJZR8CpNnSjPbD2go5DF2h/YvBrGIvLqwzZPPdeVHtQyldf6pzrSDh5OFaWLjSWrzEAm8zAIpXJyk8qmcp/7mQrFeWW0sDSMxmtxy9hz47IhdhJnHdc87UxMTaVD+QnJ2OGlEJD7khYZXFAkbLg==;t/qw+Z2fT+5oRL2fYujZ3w=="
 ---

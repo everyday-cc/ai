@@ -347,6 +347,20 @@ related:
       name: manilatimes
       domain: manilatimes.net
     quality: 19
+  - title: "ChatGPT may have better bedside manner than some doctors, but it lacks some expertise"
+    excerpt: "By Deidre McPhillips, CNN ChatGPT can be a useful tool for patients who are seeking medical information and guidance, but the artificial intelligence tool can’t fully replace the value of a human physician — it says so itself."
+    publishedDateTime: 2023-04-28T20:03:00Z
+    webUrl: "https://localnews8.com/health/cnn-health/2023/04/28/chatgpt-may-have-better-bedside-manner-than-some-doctors-but-it-lacks-some-expertise/"
+    type: article
+    provider:
+      name: Local News 8
+      domain: localnews8.com
+    quality: 17
+    images:
+      - url: "https://localnews8.b-cdn.net/2023/04/PFikUZoz-4-28-23-375x225.jpg"
+        width: 375
+        height: 225
+        isCached: true
   - title: "AI Set To Significantly Impact The Job Market – Amesite Helps Users Get Ready To Succeed In Tomorrow's Economy By Integrating ChatGPT Into Learning"
     excerpt: "Artificial intelligence (AI) has taken the markets by storm ever since the release of Open AI’s Chat GPT, powered by the generative AI model GPT-3. AI’s creative potential, as well as fears surrounding its use,"
     publishedDateTime: 2023-04-26T12:45:00Z
@@ -357,6 +371,6 @@ related:
       domain: benzinga.com
     quality: 0
 
-secured: "/0tRl+VBwuZZj8yaEy4tycLjaeXxf6DiZkbair/4C+8QGCGrovpw0lJ0DItSA3WIWMmME0CFRiggw5R9lq6bsn0jVLZTFturrCWcfAfjjm7ZLDOQ7aVluVfkDin44jYucHffBT54ez3IPjRneiJIzf1wtIe9LaBbCz3QpVfeJr63m/g94utmd0fvnLmhNf8wVDfA4JATum8zfVN9w1uPj096bb2o/L9+/O1GiWNxkaID+6rrgyoR6xBIu50rmQkmOl0Mb29vkT84oBaPKpUwWYwpD4/BveWH0TIE7a3ldGXeYp1JzUlizp3RXUBykhUkS9BjZu8sUW7T0N+U0WFSERlQBUIxPEk4tksnAb5tMiY=;ng0csDbMaFSizhalTSwWCA=="
+secured: "2aEbOZnZoszStPHKJbXEziN84XGBxjwu0MfUmAC12P+87uEXEVcQRnsuXjePmDURf2DKkJL+SFu2NiCUXoKGnCMyMKvapG6VpsSkJxkqNFyDis80a/QDvhia95pHH7bdHPrYNZcMuiQKz2cMbunGr1t5keUuYoOp9pQUg//BlOFdRTWojgGt5LzfeC+I8UKH2MuiUhjAnlrJLIqdV2xZAoTSqjhy7uFgcYl+YF6qezgRoM+3TrKYU7qAcrnIhAgqB2cY5nC6jkod59oL3zLSFzpGsIpXw5FZ3MVJHyQkAMvt82XeMtZqCIaFRogFyx3zF7Ow+RqUGAGgeyCVHe98czvBZgP/+hbzU1d8mnplv561cli2NfahIou9MwlWoLWT66bThvXs4uFyhSs4koQAMlk870MvWJw+LcSSqCIcKtl8jJ74flNN0rT9Gp5qistaciItgiPlquZl6X8ReQ5Hm7uqgG3h4eatqdJkMyWJfj7yehJoHsVwsrFeth3CbdXFQiR2hBQJCbF0LlEi4P6u+w==;Qv5fRLY5VVFqnn3ZK+e/zg=="
 ---
 

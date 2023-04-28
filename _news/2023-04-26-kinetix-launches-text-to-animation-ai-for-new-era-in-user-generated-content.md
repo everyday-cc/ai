@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/games/kinetix-launches-text-to-animation-ai-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/kinetix-launches-text-to-animation-ai-for-new-era-in-user-generated-content/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
         width: 1043
         height: 1043
+        isCached: true
+  - title: "Interprefy Launches Next-Generation AI Speech Translator for Events"
+    excerpt: "M ultilingual meeting technology and services provider Interprefy unveiled Interprefy Aivia, the world’s first advanced automated speech translation service for online and live"
+    publishedDateTime: 2023-04-28T21:15:00Z
+    webUrl: "https://www.tsnn.com/news/interprefy-launches-nextgeneration-ai-speech-translator-events"
+    type: article
+    provider:
+      name: TSNN
+      domain: tsnn.com
+    quality: 39
+    images:
+      - url: "https://www.tsnn.com/sites/default/files/AI%20translation%20concept.jpg"
+        width: 8500
+        height: 4250
         isCached: true
   - title: "Yellow.ai launches Dynamic Automation Platform (DAP) with Generative AI, unveils new logo"
     excerpt: "Yellow.ai, a global leader in Conversational AI, today announced the launch of its Dynamic Automation Platform (DAP), powered by generative AI, that enables enterprises to automate customer and employee experiences at scale with 60% reduction in their operational costs."

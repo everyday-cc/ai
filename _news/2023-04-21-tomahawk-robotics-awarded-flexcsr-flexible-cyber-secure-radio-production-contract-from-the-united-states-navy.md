@@ -19,6 +19,12 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "g3JC0uDQZIrS04MGoHAE8PzL5Pufb5jpLPa2sCoPz3ItyONpQdQnShDtrwQ6UbafRqtvWX7LJSfrMTXo8u2UAcvu2MP8y4KMhkOvfQy31O/6VY10BS/VO5wlaw2JJlOVwX9u2L4fPfvpVNnOCfHFx32Wvh6ZbYk0oB7OO8zrvpxCL2u57Lv6E5nosrUIcCqiPDiSqO5SX/3yOzbCOeCU2yNauiACGj+XRVDw5F+A35sbNVFF50/wzfvhYMUYykxsd3Z+bO85NnINPGRy9+oVFP+SXECnZXZBfPhEUHxfLv1vfxz8EEwDizrPN/s8jdif4Lmhyo2Aokk/mGjMOc5M7q/IH89tH/8hyJI0mg+J8bw=;p8y6q3hdSw52n8Wv9RJ9uQ=="
+images:
+  - url: "https://mma.prnewswire.com/media/2060244/Tomahawk_Robotics_FlexCSR.jpg"
+    width: 400
+    height: 267
+    isCached: true
+
+secured: "IbquLhOzSlhu2/Ri6ow9PrOwOsIoxlwR7BNC1DCjGQFv6Psu+zvjz08SwHJJzubSmiOg2VHq8bbPAJku5gXLiwmxnasPxplZ5xNB1ZwaR05bo5MdmRr8WFMc8nA+M4a6AyLO9YvyGHi9rZ8O+tMDwsMzWS62t2dm3+85f5xZyN3gEpPYT44vM0NMng25vOt23MkYPFvX6ONXf3aconZe1uUPa9Sw4BWGpnsxoluGytA4avqvW+Prdm+39+R2QG+yMkJUNLVnGjoUnEBN0/Wb03VvS/Dq7qOlJUXqCs2mZhxUp4Xo8eq9MdnbxSWzYqLJ82C+BxQBSX/uX3FaPcWxSj4W1Px+e4mwwloEdQhlYY4=;vIih1nHiXODP1ZigESrtFQ=="
 ---
 

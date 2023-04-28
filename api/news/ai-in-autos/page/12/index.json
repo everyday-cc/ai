@@ -2,6 +2,51 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2023-01-31-cyber-insights-2023-artificial-intelligence.md",
+      "title": "Cyber Insights 2023: Artificial Intelligence",
+      "excerpt": "What is still unknown is the degree of danger that may be introduced when adversaries start to use artificial intelligence (AI) as an effective weapon of attack.",
+      "sourceUrl": null,
+      "webUrl": "https://www.securityweek.com/cyber-insights-2023-artificial-intelligence/",
+      "originalUrl": "https://www.securityweek.com/cyber-insights-2023-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.securityweek.com/wp-content/uploads/2023/01/Cyber_Insights-2023.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.securityweek.com/cyber-insights-2023-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/cyber-insights-2023-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-01-31T07:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SecurityWeek",
+        "domain": "securityweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-01-31-chinese-search-giant-baidu-set-to-take-on-chatgpt-with-its-own-ai-chatbot.md",
       "title": "Chinese search giant Baidu set to take on ChatGPT with its own AI Chatbot",
       "excerpt": "Just two months after OpenAI’s ChatGPT took the world by storm, the Chinese search giant, Baidu, is set to announce its own conversational AI in March, which will be based on Baidu’s Ernie system.",
@@ -1391,59 +1436,6 @@
       "topics": [
         "AI in Healthcare",
         "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-01-27-co-lawmakers-look-into-artificial-intelligence-to-identify-wildfires-early.md",
-      "title": "CO lawmakers look into artificial intelligence to identify wildfires early",
-      "excerpt": "A bill was introduced in the Colorado legislature and is proposing a $2 million pilot program that may use artificial intelligence to detect wildfire early.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/co-lawmakers-look-artificial-intelligence-identify-wildfires-early",
-      "originalUrl": "https://www.foxnews.com/politics/co-lawmakers-look-artificial-intelligence-identify-wildfires-early",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/daa64398-7c35-4780-9515-f943a69ee32a/e774c2ef-5e3a-448c-9489-b441bf0cf811/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/co-lawmakers-look-artificial-intelligence-identify-wildfires-early.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/co-lawmakers-look-artificial-intelligence-identify-wildfires-early.amp",
-      "publishedDateTime": "2023-01-26T08:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
         "AI in Autos"
       ]
     }

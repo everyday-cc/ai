@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Artificial Intelligence will revolutionise Europe’s SMEs"
-    excerpt: "Artificial Intelligence (AI) is, suddenly, everywhere. Thanks to a new breed of solutions and platforms such as OpenAI’s ChatGPT, Google’s LaMDA and Meta’s LLaMA, the power and potential of AI and its future role across all industries as well as society has been sharply brought to the fore."
-    publishedDateTime: 2023-04-24T04:35:00Z
-    webUrl: "https://www.altfi.com/article/10639_artificial-intelligence-will-revolutionise-europes-smes"
-    type: article
-    provider:
-      name: altfi
-      domain: altfi.com
-    quality: 37
-    images:
-      - url: "https://www.altfi.com/images/featured/artificial-intelligence-will-revolutionise-europes-smes.jpg"
-        width: 1200
-        height: 720
-        isCached: true
 
 secured: "8FRDuJQ4bYfBUTBKJb3tJCQxbIs9Ob5lrlYoOkGC3bT8DEu/QvYTiIrWbdA20XeOphzImtPTzIbDQ/jIk4f4BlVXdwVJyl8NvZ21nJ046V+vptsRhUT49WtjSZNs2S852OPESnSH0Zj+yfYmYS2oeI6OCrQgQzSIPjxuhkAljflET29dsUaneh9YDYrC2SSrKkMhmRmx+cyHiHknLCm+PMtUijJ5njZOR2LgwM/0olvSLMge4M3LCgpjtFj3obLlRuRR2rDCDZQGL4xJAA6/nJq3tgUJIasl+F4+IPlLIaNBG9Y3mTQfGbbWtMujZsrdX9eWcBHy/qZzmWZYC1FYesOoYcO/eNI3PBy0/vYNAvU=;kQPTOU/MHSPjytb6KC2RSw=="
 ---

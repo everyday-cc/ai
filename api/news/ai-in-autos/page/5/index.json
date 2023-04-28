@@ -2,6 +2,50 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-03-19-self-driving-trucks-to-deliver-robot-fulfilled-grocery-orders-to-kroger-stores.md",
+      "title": "Self-driving trucks to deliver robot-fulfilled grocery orders to Kroger stores",
+      "excerpt": "California-based Gatik is pitching its autonomous vehicle deliveries as a way for retailers to cut costs and save time in their constant effort to be in stock by using frequent deliveries from small self-driving trucks instead of big semitrailers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailyitem.com/business/self-driving-trucks-to-deliver-robot-fulfilled-grocery-orders-to-kroger-stores/article_aefcdc57-973e-5d6f-bc67-898ee175a606.html",
+      "originalUrl": "https://www.dailyitem.com/business/self-driving-trucks-to-deliver-robot-fulfilled-grocery-orders-to-kroger-stores/article_aefcdc57-973e-5d6f-bc67-898ee175a606.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/dailyitem.com/content/tncms/assets/v3/editorial/f/75/f75e53ee-c4cc-11ed-ba06-bfbde1bf6eb1/641474090a371.image.jpg?resize=1024%2C678",
+          "width": 1024,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailyitem.com/business/self-driving-trucks-to-deliver-robot-fulfilled-grocery-orders-to-kroger-stores/article_aefcdc57-973e-5d6f-bc67-898ee175a606.amp.html",
+      "cdnAmpWebUrl": "https://www-dailyitem-com.cdn.ampproject.org/c/s/www.dailyitem.com/business/self-driving-trucks-to-deliver-robot-fulfilled-grocery-orders-to-kroger-stores/article_aefcdc57-973e-5d6f-bc67-898ee175a606.amp.html",
+      "publishedDateTime": "2023-03-18T21:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Item",
+        "domain": "dailyitem.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-03-19-chinese-firm-to-launch-robot-taxis.md",
       "title": "Chinese firm to launch robot taxis",
       "excerpt": "Chinese tech company Baidu has announced that it can now operate robotaxis in a part of the capital city of Beijing with no human staff or driver inside. According to CNBC, the move eliminates the labor cost for operating self-driving taxis — up to the ...",
@@ -1331,49 +1375,6 @@
       "provider": {
         "name": "Futurism",
         "domain": "futurism.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-09-baidu-earnings-beat-with-a-chinese-chatgpt-catalyst.md",
-      "title": "Baidu: Earnings Beat With A Chinese ChatGPT Catalyst",
-      "excerpt": "Baidu has a thriving autonomous driving service which provided 561,000 rides in 2022, which is up a blistering 162% year over year.",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4585782-baidu-earnings-beat-chinese-chatgpt-catalyst",
-      "originalUrl": "https://seekingalpha.com/article/4585782-baidu-earnings-beat-chinese-chatgpt-catalyst",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/488987708/image_488987708.jpg?io=getty-c-w1536",
-          "width": 1536,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-08T17:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
         "images": null,
         "publishers": null,
         "authors": null

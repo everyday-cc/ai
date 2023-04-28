@@ -2,6 +2,142 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2023-03-09-an-ai-sexbot-fed-my-hidden-desiresand-then-refused-to-play.md",
+      "title": "An AI ‘Sexbot’ Fed My Hidden Desires—and Then Refused to Play",
+      "excerpt": "My introduction into the world of AI chatbot technology began as the most magical things in life do: with a generous mix of horniness and curiosity. Early this year, as ChatGPT entered the general lexicon,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/replika-chatbot-sexuality-ai/",
+      "originalUrl": "https://www.wired.com/story/replika-chatbot-sexuality-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6408f60857d6078ef81a964e/master/pass/ideas_ai_chatbot_sex.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/replika-chatbot-sexuality-ai/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/replika-chatbot-sexuality-ai/amp",
+      "publishedDateTime": "2023-03-09T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-09-artificial-intelligence-is-boomingso-is-its-carbon-footprint.md",
+      "title": "Artificial Intelligence Is Booming—So Is Its Carbon Footprint",
+      "excerpt": "Artificial intelligence has become the tech industry’s shiny new toy, with expectations it’ll revolutionize trillion-dollar industries from retail to medicine. But the creation of every new chatbot and image generator requires a lot of electricity,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2023-03-09/how-much-energy-do-ai-and-chatgpt-use-no-one-knows-for-sure",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2023-03-09/how-much-energy-do-ai-and-chatgpt-use-no-one-knows-for-sure",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwxrnxJ0ZpVY/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-09T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-09-linklive-expands-partnership-with-kasisto-conversational-ai.md",
+      "title": "LinkLive Expands Partnership with Kasisto, Conversational AI",
+      "excerpt": "LinkLive, a leading cloud-based Contact Center as a Service (CCaaS) provider, has partnered with Kasisto, creators of KAI, the leading digital experience platform for the financial services industry,",
+      "sourceUrl": null,
+      "webUrl": "https://www.channelbiz.co.uk/press-release/linklive-expands-partnership-with-kasisto-conversational-ai/",
+      "originalUrl": "https://www.channelbiz.co.uk/press-release/linklive-expands-partnership-with-kasisto-conversational-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-09T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Channel Biz",
+        "domain": "channelbiz.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-09-wimi-develops-edge-computing-based-holographic-face-recognition-ai-chip-system-for-property-management.md",
       "title": "WiMi Develops Edge Computing-Based Holographic Face Recognition AI Chip System for Property Management",
       "excerpt": "WiMi's edge computing-based holographic face recognition AI chip system can be used in various essential situations as it can perform high-density dynamic holographic face capture in complex ...",
@@ -1018,126 +1154,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-09-will-ai-chatbots-raise-digital-equity-concerns-for-students.md",
-      "title": "Will AI Chatbots Raise Digital Equity Concerns for Students?",
-      "excerpt": "Some ed-tech experts say the need to close the digital divide will only grow more urgent as Internet-based artificial intelligence tools become commonplace in schools and universities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/education/higher-ed/will-ai-chatbots-raise-digital-equity-concerns-for-students",
-      "originalUrl": "https://www.govtech.com/education/higher-ed/will-ai-chatbots-raise-digital-equity-concerns-for-students",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/1e863f9/2147483647/strip/true/crop/1000x521+0+73/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fa8%2F9a%2F2b3110904bb6ae8dcfecb0733cc2%2Fdigital-equity.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/education/higher-ed/will-ai-chatbots-raise-digital-equity-concerns-for-students?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/will-ai-chatbots-raise-digital-equity-concerns-for-students?_amp=true",
-      "publishedDateTime": "2023-03-08T16:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-09-aaa-americans-fear-self-driving-cars.md",
-      "title": "AAA: Americans Fear Self-Driving Cars",
-      "excerpt": "Worried about self-driving cars?  If so, you're not alone. Fear of self-driving cars is on the rise, according to a new survey from the American Automobile Association (AAA).   AAA's annual automated vehicle survey checks in with drivers every year to gauge the temperature of how the public feels about autonomous driving tech,",
-      "sourceUrl": null,
-      "webUrl": "https://www.mysanantonio.com/news/article/aaa-americans-fear-self-driving-cars-17827392.php",
-      "originalUrl": "https://www.mysanantonio.com/news/article/aaa-americans-fear-self-driving-cars-17827392.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/31/64/46/23546289/3/rawImage.jpg",
-          "width": 1404,
-          "height": 1112,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-08T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "San Antonio Express-News",
-        "domain": "mysanantonio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-09-could-a-chatbot-write-this-article.md",
-      "title": "Could a chatbot write this article?",
-      "excerpt": "This makes it a powerful tool for various applications such as conversational AI, language translation, text summarisation, and more. Its advanced AI capabilities also make it a valuable research ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theaustralian.com.au/business/technology/could-a-chatbot-write-this-article/news-story/3be6cfdc46cb0fc9ee1cef8ecba8caa6",
-      "originalUrl": "https://www.theaustralian.com.au/business/technology/could-a-chatbot-write-this-article/news-story/3be6cfdc46cb0fc9ee1cef8ecba8caa6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theaustralian.com.au/business/technology/could-a-chatbot-write-this-article/news-story/3be6cfdc46cb0fc9ee1cef8ecba8caa6?amp",
-      "cdnAmpWebUrl": "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/business/technology/could-a-chatbot-write-this-article/news-story/3be6cfdc46cb0fc9ee1cef8ecba8caa6?amp",
-      "publishedDateTime": "2023-03-08T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Australian",
-        "domain": "theaustralian.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

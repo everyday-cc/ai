@@ -130,6 +130,15 @@ related:
         width: 550
         height: 353
         isCached: true
+  - title: "Fintech BUNKER Selects InvestCloud to Launch Digital App, Providing Access to US Investment Markets for HNWIs in LatAm"
+    excerpt: "InvestCloud selected by BUNKER, a fintech seeking to democratize access to the US markets for Latin Americans, to launch investment platform."
+    publishedDateTime: 2023-04-28T19:30:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/04/206288-fintech-bunker-selects-investcloud-to-launch-digital-app-providing-access-to-us-investment-markets-for-hnwis-in-latam/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 0
 
 secured: "PRzb8jBVJpCCw5rI0wTMMf2wiQxW/foYm8WCZY6HCxePGv9x3/YAzEv2veDaAyUN+oUn5V9Sj02JPwY+ucQFhqXfW35UpKq0JcGClMDt7Q4XWPjNyJ+YQkCmKtVCb374C5naOXj6XSjvvUeHot56StSF+CFPq2MdTWI0ycsf0L5LjxHjTZl2qiv715C3e4smrF0v6M00Mgz0Cv0pwtA7xr74dWKtWDuSC/XQxWBos0USkIRNWt2MAd3+T9wmCJB3cvZsylzkEvdzvcE29bde9yun9OKMnAOqhAkgQy//+9Zoh1GO4weA2a9YFJ7KURiW6m/WWRwW46QCNCOllvxPPPRX9OsK6db3fvEc7VHhRuM0QBaDpuzXoW1Fp5xzNEmsWgF6x4IW/EXyNvXGMVQsbxLC33eTaJ0LdxN+VYlF4cJt4kwqSZwsK8cNQpwClxav2Q5moUoX9Z29uSjBwXM2IPwwffO6YTKYIaF21pynsgYgCn4JACCgDMtLcB2XrW3UBPXnh9lg5xBjTq6qbgij9A==;+HgbaMmCq6pfgyCmIcgRGw=="
 ---

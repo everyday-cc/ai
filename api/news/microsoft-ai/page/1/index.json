@@ -159,6 +159,58 @@
       ]
     },
     {
+      "path": "_news/2023-04-27-new-komprise-intelligent-tiering-for-azure-slashes-high-file-storage-costs-with-exclusive-microsoft-azure-marketplace-offer.md",
+      "title": "New Komprise Intelligent Tiering for Azure Slashes High File Storage Costs with Exclusive Microsoft Azure Marketplace Offer",
+      "excerpt": "Organizations can accelerate their cloud journey and gain better ROI from cloud migrations by first transparently tiering data from any NAS that is cold and has not been accessed in months to Azure Blob Storage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/new-komprise-intelligent-tiering-for-azure-slashes-high-file-storage-costs-with-exclusive-microsoft-azure-marketplace-offer-2023-04-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/new-komprise-intelligent-tiering-for-azure-slashes-high-file-storage-costs-with-exclusive-microsoft-azure-marketplace-offer-2023-04-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-27T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-27-whats-new-in-azure-data-ai-helping-organizations-manage-the-data-deluge.md",
       "title": "What’s new in Azure Data & AI: Helping organizations manage the data deluge",
       "excerpt": "Whether you have large, complex AI workloads or you simply want to make the most of intelligent capabilities in your existing applications, Microsoft and our partners are ready to help you accelerate your productivity with data and AI.",
@@ -315,7 +367,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/microsoft-stock-price-chatgpt-investor-ai-cloud-azure-satya-nadella-2023-4",
       "featuredContent": null,
       "highlight": null,
-      "heat": 573,
+      "heat": 583,
       "tags": null,
       "images": [
         {
@@ -1392,58 +1444,6 @@
         "name": "technologynetworks",
         "domain": "technologynetworks.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-17-microsoft-and-epic-expand-strategic-collaboration-with-integration-of-azure-openai-service.md",
-      "title": "Microsoft and Epic expand strategic collaboration with integration of Azure OpenAI Service",
-      "excerpt": "April 17, 2023 /PRNewswire/ -- Microsoft Corp. and Epic on Monday announced they are expanding their long-standing strategic collaboration to develop and integrate generative AI into healthcare by combining the scale and power of Azure OpenAI Service 1 ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/microsoft-and-epic-expand-strategic-collaboration-with-integration-of-azure-openai-service-1032236844",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/microsoft-and-epic-expand-strategic-collaboration-with-integration-of-azure-openai-service-1032236844",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1795836/Epic_NEW_Logo.jpg",
-          "width": 400,
-          "height": 222,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-17T08:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

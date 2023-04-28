@@ -43,6 +43,15 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 32
+  - title: "Exploring the Perils, and the Misconceptions, around Artificial Intelligence"
+    excerpt: "Artificial intelligence (AI) has enormous potential to improve our lives in many ways, we are told. However, this exciting new field is also laced with pitfalls for academic researchers. How should they navigate the ethical challenges that come with using AI?"
+    publishedDateTime: 2023-04-27T19:00:00Z
+    webUrl: "https://www.bowdoin.edu/news/2023/04/exploring-the-perils-and-the-misconceptions-around-artificial-intelligence.html"
+    type: article
+    provider:
+      name: Bow Doin Polar Bears
+      domain: bowdoin.edu
+    quality: 16
 
 secured: "STpsIIRafgCiqYXurErxzxmk6endQvOHLubyY5qP1dyH1WllOpPyiy+ymKVF96I1bMi1b5eulhzTSSRpAId0xu/LyIXVS76/kdqTIr3/SjoIQ4KmcFEVi4jgSWkNlcIwpzpSfGtv9PHbyOhhVkWL88/SOR0Bq+LBmJ6l5u4nt21Mfio6+E8VWl+QDdZlt58LWS/Zag7FmPxT9/jEvYCmdAV5gmOUchOgT3jGphpEDBwIVWPgthGk8IaTA2u6jHsE/QtnuoiHwMsfXoUrsTD41sbjbaOwuJcSt+NyBQ46AzX1dJkliHX2+U+jFVBor3/y0ChQe59W95gMmSu2EcaBK0CTM8HDRB8IWsV+fm8JcsGcuCn5ZYPHR4Z2PIxt+Rm1/7wIKOjWqcqaVaXmolM5yMdxUw5eInRDCrX+RFEQZBmqsrBcVdfGD5Nlz/lfwJb5rk8mgSxIgCe+3IYEkyJLP+qGFeZNrlp8ULQym+McAotpTXOV+vtqNCCk063Pxj5FZEouC//1lMLGaC4MU1LSWA==;ZOxhYoOh4GsGCX582nR96w=="
 ---

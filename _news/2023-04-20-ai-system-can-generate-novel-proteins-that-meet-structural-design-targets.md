@@ -5,8 +5,8 @@ excerpt: "The researchers from MIT, the MIT-IBM Watson AI Lab, and Tufts Univers
 publishedDateTime: 2023-04-20T15:35:00Z
 originalUrl: "https://phys.org/news/2023-04-ai-generate-proteins.html"
 webUrl: "https://phys.org/news/2023-04-ai-generate-proteins.html"
-ampWebUrl: "https://phys.org/news/2023-04-ai-generate-proteins.html"
-cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-04-ai-generate-proteins.html"
+ampWebUrl: "https://phys.org/news/2023-04-ai-generate-proteins.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-04-ai-generate-proteins.amp"
 type: article
 
 provider:
@@ -23,6 +23,6 @@ images:
     height: 2366
     isCached: true
 
-secured: "zQW8C1gge+w9M72DvuZXxlQykPVkKy7NbuWAShijVjgP5FRUWjpN6VxYfR36V1pQF5888TRhxX2HIfbp+b5e6/JCyhJwRiA1tGXY7CLDkyuyf3xPddbBuWnZ4zGJmUZNyJT42z+ne4WSjca9eP7ff+N8WgWwLGCnyn6gcO86q/AtW3SEvYNAiSFyi5qywXNOXOKWZ7ViQt5UO9WPT1ZMJyGOfglwEBxzanbssy+dijpGDPYPDw10py/d1y7uzsc/sSs9QPexK+AoxYUYpdpmLNJ9j4OFiVsmofoOQIppxiW+J/nFf0rgfSivKkGj35ufMtfBy5RyGsrbCmdlDznLy/p6zO3QaQgaB6LxygoRNGk=;/5t7mUjItQdDBNBH4Bl5fQ=="
+secured: "Y8ziMFu2TTvd0z0fu/8IdpU8XazoEsDzC302prDb2DM+FrP6pikkNWkwqqyMvLc4q0vFwHJnStzXk+a2vQsHazAo+ui9T7mRk3twwkkiJ/to8Eje1Y59mY3JMzurpj0+5/hiihpFSftiYZyfvHl/it7X6JWS5SC45ABEna4qMXal4h23C53Fs2NY08g5lL2wl84OgTmP62z772sKbnO0uTIT+LAprihpny2qM483ywz0h2uJ8AxXgcBFtOCESZfqZ87vpXrRUCLNng3ZC2PuyfeADev0iFu8m7cgenX8gSOTRQ5FfFYht0SBUIHN2hRbL5YLMvXissDuWaQkRDCk7ixiAYNWmejA7UrZy1S+mXU=;8XUYXW24HUbNu0BACl1hvQ=="
 ---
 

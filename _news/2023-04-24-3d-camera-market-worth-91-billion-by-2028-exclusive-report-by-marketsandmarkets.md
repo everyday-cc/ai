@@ -218,20 +218,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 62
-  - title: "2023, Insights and Predictions for the Global Artificial intelligence (AI) in Supply Chain and Logistics Market Future"
-    excerpt: "Artificial intelligence (AI) in Supply Chain and Logistics Market Size 2023 | New Report (105 Pages) | Analytics | In"
-    publishedDateTime: 2023-04-24T03:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-insights-and-predictions-for-the-global-artificial-intelligence-ai-in-supply-chain-and-logistics-market-future-2023-04-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Cognitive Data Management Market Recent Developments and Updates By 2031"
     excerpt: "What is the Cognitive Data Management market growth? Cognitive Data Management Market Size is projected to Reach Multimillion USD by 2031, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2031."
     publishedDateTime: 2023-04-27T12:35:00Z
@@ -282,6 +268,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 46
+  - title: "Global Artificial Intelligence (Ai) in the Public Cloud"
+    excerpt: "This research examines the growing need for artificial intelligence (AI) services to help businesses meet key goals and objectives, as well as the strategic position of public cloud service providers to develop and launch successful AI capabilities for customers."
+    publishedDateTime: 2023-04-28T19:22:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-global-artificial-intelligence-ai-the-public-cloud-research-/2023/04/28/9804337.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 32
 
 secured: "zh5iXjautFhOjc0e4rVic8O+mtZfLgOqOwrvPLXlLKoSqbNlPwTqDeCeM5NuAKyA3IBu/Q5LfLNv5oePX6XJyIv/LBHK6NmBA6sK+0JIa54kKRdvRb2pjWD1rwa/xstgtg8ZUfI9D7TkaX2OV0v7GNU7LF3NCRTzGpztUw5cK4BHAHe7jjuqEYd/KzeVbIAcr0EjZh705Fz2J6SL87DURguvi6F/TbgNRbHsO8PqySGlDhDYifY2QYFEJyoqyFNIDykjZZQrO+ShzqrT/pG+WnGu7G9sJ/oem3baCBLJFW6UgrFL7jwjVW5pHtUrAIbrinsaj98hAcJR3vLTYtefSMouHXb9meQ/9qc6Qpou3nM=;4yXn3le2Ni37Jm+Z8w5B5w=="
 ---

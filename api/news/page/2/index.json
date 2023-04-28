@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-04-27-nsa-cybersecurity-director-says-buckle-up-for-generative-ai.md",
+      "title": "NSA Cybersecurity Director Says ‘Buckle Up’ for Generative AI",
+      "excerpt": "The security issues raised by ChatGPT and similar tech are just beginning to emerge, but Rob Joyce says it’s time to prepare for what comes next.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/nsa-rob-joyce-chatgpt-security/",
+      "originalUrl": "https://www.wired.com/story/nsa-rob-joyce-chatgpt-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/644a7dfee416fd283a85c162/master/pass/nsa_sec_GettyImages-1059275390.jpg",
+          "width": 2400,
+          "height": 1800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/nsa-rob-joyce-chatgpt-security/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/nsa-rob-joyce-chatgpt-security/amp",
+      "publishedDateTime": "2023-04-27T09:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-27-write-long-form-content-in-seconds-with-half-off-this-leading-ai-tool.md",
       "title": "Write long-form content in seconds with half off this leading AI tool",
       "excerpt": "Wordplay AI Content Generator overhauls your content marketing and a lifetime subscription price is now half off.",
@@ -216,7 +267,7 @@
       "originalUrl": "https://www.cnn.com/2023/04/27/tech/snapchat-my-ai-concerns-wellness/index.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 235,
+      "heat": 245,
       "tags": null,
       "images": [
         {
@@ -362,6 +413,49 @@
       ]
     },
     {
+      "path": "_news/2023-04-27-robots-run-the-show-as-swiss-radio-tests-ai-voices-for-a-day.md",
+      "title": "Robots run the show as Swiss radio tests AI voices for a day",
+      "excerpt": "Listeners of an offbeat Swiss public radio station have been repeatedly given the message: Today’s programming is brought to you by Artificial Intelligence",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/business/2023/04/27/switzerland-radio-gpt-artificial-intelligence/eda963fe-e536-11ed-9696-8e874fd710b8_story.html",
+      "originalUrl": "https://www.washingtonpost.com/business/2023/04/27/switzerland-radio-gpt-artificial-intelligence/eda963fe-e536-11ed-9696-8e874fd710b8_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-27T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-27-which-segments-computer-vision-system-market-are-anticipated-to-highest-cagr-by-2030.md",
       "title": "Which Segments Computer Vision System Market Are Anticipated To Highest CAGR By 2030",
       "excerpt": "New Analysis of Computer Vision System Market overview, spend analysis, imports, segmentation, key players, and",
@@ -370,7 +464,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/which-segments-computer-vision-system-market-are-anticipated-to-highest-cagr-by-2030-2023-04-27",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -711,6 +805,58 @@
       ],
       "topics": [
         "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-27-new-komprise-intelligent-tiering-for-azure-slashes-high-file-storage-costs-with-exclusive-microsoft-azure-marketplace-offer.md",
+      "title": "New Komprise Intelligent Tiering for Azure Slashes High File Storage Costs with Exclusive Microsoft Azure Marketplace Offer",
+      "excerpt": "Organizations can accelerate their cloud journey and gain better ROI from cloud migrations by first transparently tiering data from any NAS that is cold and has not been accessed in months to Azure Blob Storage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/new-komprise-intelligent-tiering-for-azure-slashes-high-file-storage-costs-with-exclusive-microsoft-azure-marketplace-offer-2023-04-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/new-komprise-intelligent-tiering-for-azure-slashes-high-file-storage-costs-with-exclusive-microsoft-azure-marketplace-offer-2023-04-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-27T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -1112,142 +1258,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-databricks-and-hugging-face-integrate-apache-spark-for-faster-ai-model-building.md",
-      "title": "Databricks and Hugging Face integrate Apache Spark for faster AI model building",
-      "excerpt": "Databricks and Hugging Face integrate Apache Spark to more seamlessly load and transform data for AI model training and fine-tuning.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/databricks-and-hugging-face-integrate-apache-spark-for-faster-ai-model-building/",
-      "originalUrl": "https://venturebeat.com/ai/databricks-and-hugging-face-integrate-apache-spark-for-faster-ai-model-building/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/04/pexels-photo-577585.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/databricks-and-hugging-face-integrate-apache-spark-for-faster-ai-model-building/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/databricks-and-hugging-face-integrate-apache-spark-for-faster-ai-model-building/amp/",
-      "publishedDateTime": "2023-04-26T22:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-elon-musk-meets-with-sen-schumer-to-discuss-artificial-intelligence.md",
-      "title": "Elon Musk meets with Sen. Schumer to discuss artificial intelligence",
-      "excerpt": "The Senate majority leader and the CEO of SpaceX, Tesla and Twitter met amid growing concerns on Capitol Hill about the effects of AI tools.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/congress/elon-musk-meets-schumer-discuss-artificial-intelligence-rcna81696",
-      "originalUrl": "https://www.nbcnews.com/politics/congress/elon-musk-meets-schumer-discuss-artificial-intelligence-rcna81696",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-04/230426-chuck-schumer-ac-844p-1f27b1.jpg",
-          "width": 2500,
-          "height": 1663,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna81696",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna81696",
-      "publishedDateTime": "2023-04-26T20:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-broadcom-takes-on-infiniband-with-jericho3-ai-switch-chips.md",
-      "title": "Broadcom Takes On InfiniBand With Jericho3-AI Switch Chips",
-      "excerpt": "Variety is not only the spice of life, it is also the way to drive innovation and to mitigate risk. Which is why we are seeing switch architectures",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2023/04/26/broadcom-takes-on-infiniband-with-jericho3-ai-switch-chips/",
-      "originalUrl": "https://www.nextplatform.com/2023/04/26/broadcom-takes-on-infiniband-with-jericho3-ai-switch-chips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://www.nextplatform.com/wp-content/uploads/2023/04/broadcom-jericho3-ai-logo.jpg",
-          "width": 879,
-          "height": 565,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2023/04/26/broadcom-takes-on-infiniband-with-jericho3-ai-switch-chips/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/04/26/broadcom-takes-on-infiniband-with-jericho3-ai-switch-chips/amp/",
-      "publishedDateTime": "2023-04-26T20:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

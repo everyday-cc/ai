@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/new-komprise-intelligent
 webUrl: "https://www.marketwatch.com/press-release/new-komprise-intelligent-tiering-for-azure-slashes-high-file-storage-costs-with-exclusive-microsoft-azure-marketplace-offer-2023-04-27"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: MarketWatch
@@ -29,6 +29,15 @@ images:
     isCached: true
 
 related:
+  - title: "New Komprise Intelligent Tiering for Azure Slashes High File Storage Costs"
+    excerpt: "Company offering solution in Microsoft Azure Marketplace. Note: TDWI’s editors carefully choose vendor-issued press releases about new or upgraded products and services. We have edited and/or condensed this release to highlight key features but make no claims as to the accuracy of the vendor's statements."
+    publishedDateTime: 2023-04-27T00:00:00Z
+    webUrl: "https://tdwi.org/articles/2023/04/27/komprise-intelligent-tiering.aspx"
+    type: article
+    provider:
+      name: TDWI
+      domain: tdwi.org
+    quality: 17
   - title: "New Komprise Intelligent Tiering for Azure Reduces High File Storage Costs with Exclusive Microsoft Azure Marketplace Offer"
     excerpt: "Komprise, a leader in analytics-driven unstructured data management and mobility, today announced an extension to its"
     publishedDateTime: 2023-04-27T18:43:00Z

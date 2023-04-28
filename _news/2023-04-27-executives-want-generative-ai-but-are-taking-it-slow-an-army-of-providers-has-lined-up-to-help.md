@@ -23,70 +23,50 @@ topics:
   - AI
 
 related:
-  - title: "Amazon & 3M Will Use Generative AI To Ease Documentation For Healthcare Providers"
-    excerpt: "Late last week, two of the world’s most famous companies, Amazon and 3M, announced a bold partnership aimed at solving one of the most critical pain points for healthcare providers: clinical documentation."
-    publishedDateTime: 2023-04-24T01:59:00Z
-    webUrl: "https://www.forbes.com/sites/saibala/2023/04/23/amazon--3m-will-use-generative-ai-to-ease-documentation-for-healthcare-providers/"
-    ampWebUrl: "https://www.forbes.com/sites/saibala/2023/04/23/amazon--3m-will-use-generative-ai-to-ease-documentation-for-healthcare-providers/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2023/04/23/amazon--3m-will-use-generative-ai-to-ease-documentation-for-healthcare-providers/amp/"
+  - title: "KPMG: US executives unprepared for immediate adoption of generative AI"
+    excerpt: "In a KPMG survey of executives on generative AI, the technology is seen as potentially the most disruptive to date."
+    publishedDateTime: 2023-04-24T11:01:00Z
+    webUrl: "https://venturebeat.com/ai/kpmg-us-executives-unprepared-for-immediate-adoption-of-generative-ai/"
+    ampWebUrl: "https://venturebeat.com/ai/kpmg-us-executives-unprepared-for-immediate-adoption-of-generative-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/kpmg-us-executives-unprepared-for-immediate-adoption-of-generative-ai/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 99
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6445c14eba75efb41b2390e1/0x0.jpg?format=jpg&width=1200"
+      - url: "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-648066032-e1682331357491.jpg?w=1200&strip=all"
         width: 1200
-        height: 800
+        height: 613
         isCached: true
-  - title: "What Generative AI Means For The Future Of PR"
-    excerpt: "As someone who works in public relations, where content and communication are the fundamentals of our craft, should I fear what LLMs such as ChatGPT or Google’s BERT (Bidirectional Encoder Representations from Transformers) and other conversational AI tools mean for the future of my profession,"
-    publishedDateTime: 2023-04-25T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/04/25/what-generative-ai-means-for-the-future-of-pr/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/04/25/what-generative-ai-means-for-the-future-of-pr/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/04/25/what-generative-ai-means-for-the-future-of-pr/amp/"
+  - title: "How travel businesses can leverage generative AI solutions"
+    excerpt: "Find out how generative AI tools can help travel businesses personalise the customer experience, transform venues, and more."
+    publishedDateTime: 2023-04-25T06:45:00Z
+    webUrl: "https://thenextweb.com/news/how-travel-businesses-generative-ai-solutions"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 67
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5f33fae78e26add3d640245e/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 836
+      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F04%2FAdd-a-heading-2.jpg&signature=83972cf323f74b475ec05ab3f2b6e782"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "Tinder’s verification process will now use AI and video selfies"
-    excerpt: "Tinder today is rolling out an AI-powered update to its Photo Verification feature, which to date has allowed the app’s users to prove to others they’re neither a bot nor a catfisher. In the past, users would take pictures of themselves,"
-    publishedDateTime: 2023-04-26T18:24:00Z
-    webUrl: "https://techcrunch.com/2023/04/25/tinders-verification-process-will-now-use-ai-and-video-selfies/"
+  - title: "The Needed Executive Actions to Address the Challenges of Artificial Intelligence"
+    excerpt: "Artificial intelligence (AI) 1 is becoming more widely available to the public and increasingly sophisticated, leading to the advent of what Bill Gates recently called “The Age"
+    publishedDateTime: 2023-04-25T16:00:00Z
+    webUrl: "https://www.americanprogress.org/article/the-needed-executive-actions-to-address-the-challenges-of-artificial-intelligence/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 47
-  - title: "EU proposes new copyright rules for generative AI"
-    excerpt: "Shortly after signing the letter, the Financial Times reported Musk was planning to launch his own startup to rival OpenAI. ALSO READ: Elon Musk plans AI startup to rival OpenAI, Financial Times reports"
-    publishedDateTime: 2023-04-28T01:55:00Z
-    webUrl: "https://www.asiaone.com/digital/eu-proposes-new-copyright-rules-generative-ai"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 37
+      name: Center for American Progress
+      domain: americanprogress.org
+    quality: 32
     images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Apr2023/20230428_EUAI_Reuters.jpg?itok=7hZy3u6s"
-        width: 848
-        height: 601
+      - url: "https://www.americanprogress.org/wp-content/uploads/sites/2/2023/04/GettyImages-147980962070.jpg"
+        width: 1680
+        height: 1120
         isCached: true
-  - title: "The PR Council Issues Guidelines On Ethical Use Of Generative AI"
-    excerpt: "PRC issues detailed, actionable guidelines on the use of generative AI tools based on their longstanding Code of Ethics and Principles.<"
-    publishedDateTime: 2023-04-26T19:24:00Z
-    webUrl: "https://menafn.com/1106102977/The-PR-Council-Issues-Guidelines-On-Ethical-Use-Of-Generative-AI"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 34
 
 secured: "T1ZfnAzuVzUfeezyk7rZunzsQGrkX4TpV7mJBtAYnII9hAculwMOjVe/iLkEj8wEBarj8b44lIh2jI9q0p6NlHoeSoP2wU/mrZqdosao405ShndphN9/+2KgZx92ekfoZ7H8ZepxO8E9udlb1jnF/sMV799hjwDxgOj8bEjgbwDwznnW/vS36BATqSHaRzihpQiQ2aoJ0fe7feqKMpWDU/FWqVQCDujIOHrEvPchy7U64PjvqvOaSHIKCyltniYywAl7gf7ErrXHj7p2fDej038vp5UyUXlwQPAlO6nu9/vE8QzgWUxThFb3i7ZukSXZVcr8eapGMJmE2vvq6u+x4+qEtdfjzwzFu/lB4ZDGJv1mpbcpEDABaNkeV1OkYZf2bdpRwQVQrOd+Ku01ZXr5AlCPZXbGjFTGL0naLDwu8qgOjCZ4oXfUPb+61r0QYH/KPxKd6H5bpBLzIDm5xH2l0J+IZsh/BhHavnJG3jpIl5On9SmtI4AQyoTS9S4H1n+V8QCZOz14nFaW8BtvVMLOPw==;ibVsvHAskWQgKMBr7Hj4RQ=="
 ---

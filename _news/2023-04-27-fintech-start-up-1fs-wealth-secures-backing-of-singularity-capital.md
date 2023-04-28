@@ -131,6 +131,15 @@ related:
       name: Vanguard
       domain: vanguardngr.com
     quality: 3
+  - title: "Fintech BUNKER Selects InvestCloud to Launch Digital App, Providing Access to US Investment Markets for HNWIs in LatAm"
+    excerpt: "InvestCloud selected by BUNKER, a fintech seeking to democratize access to the US markets for Latin Americans, to launch investment platform."
+    publishedDateTime: 2023-04-28T19:30:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/04/206288-fintech-bunker-selects-investcloud-to-launch-digital-app-providing-access-to-us-investment-markets-for-hnwis-in-latam/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 0
 
 secured: "r4cRucwFQ0J7J+Dv5zmLKaV42HJyyZW4q3gOcwKx73nSNaBk+oaWqNxRYGXyhhPuAUwtBRQL/l/tlDkzUIw/15J1coFaaMBx+CX2ZBMpadJJ4dibfM6BH9k+d6TXxXyXvg8s+6J69UB1KT10CYT7dxiGXhN6tt4sABLmx4NTWIrriZnJ9kQjoexJ27afPP/HIEfgwFDFhH2Q23k3XedoA3NfPAqWRx4vNKpQAxydvIY2Q7KBlRv6zRqr59q1S5vYQCDiIqoQQ8HtCyWncMqx/lsvmT02SnMo9XadOLYYJs2G4Ex6AvZEgwCKmP4OWGcQ5/2EbPfiwsuskvwFKKaAtIG3Vitncb5qeLFKxP1/nKo=;rODvg01z0fr7nJERjCxbiw=="
 ---

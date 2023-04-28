@@ -42,6 +42,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Is this the snarkiest AI chatbot so far? I tried HuggingChat and it was weird"
+    excerpt: "Aside from the confusion on who's human and who you're actually talking to, HuggingChat sometimes believes it's ChatGPT -- really. The first question I asked the new AI chatbot was \"Are you better than ChatGPT?\", for which you can see its answers on the screenshot below."
+    publishedDateTime: 2023-04-28T20:52:00Z
+    webUrl: "https://www.zdnet.com/article/is-this-the-snarkiest-ai-chatbot-so-far-i-tried-huggingchat-and-it-was-weird/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/is-this-the-snarkiest-ai-chatbot-so-far-i-tried-huggingchat-and-it-was-weird/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/is-this-the-snarkiest-ai-chatbot-so-far-i-tried-huggingchat-and-it-was-weird/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 84
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/2f8193fb48f9153ebf8b4f62607c774e878ba8b5/2023/04/28/742b7956-352e-4293-8b03-c0609212a4df/confused.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "How to use ChatPDF: The AI chatbot that can tell you everything about your PDF"
     excerpt: "Using ChatPDF to sum up a file and answer any questions about your PDF is free. However, if you'd like to exceed the free plan's limit of three uploads with a maximum of 120 pages a day, you can upgrade to a plus plan for $5 per month."
     publishedDateTime: 2023-04-28T09:07:00Z

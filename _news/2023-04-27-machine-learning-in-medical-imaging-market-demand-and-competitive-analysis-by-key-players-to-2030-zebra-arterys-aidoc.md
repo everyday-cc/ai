@@ -66,20 +66,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Data Science and Machine-Learning Platforms Market Size and Share Expanding worldwide by 2023"
-    excerpt: "Data Science and Machine-Learning Platforms Market Size 2023 | New Report (130 Pages) | Analytics | In This Reports"
-    publishedDateTime: 2023-04-24T03:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-platforms-market-size-and-share-expanding-worldwide-by-2023-2023-04-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "6dFClQoBvamYAyCWan49Iuo9ixdoB4uMmllFjsWPKsuEz1vOuuLK2oMd2vtBjv4f91/V8AIFHywFF9woYkUNA76WhjBU62Mm16ftYCaSg7POjzdRZtQl7WThJSViN6f5Un0DT9PD9+h1vZwZScxBdGeHd77sO3ebZgh6+Spi3d+7gUEACY4t/mLu5U1Qf8gMvOz4Vf3K7qxJ/FB5ilIMK+j+YEVd82gzA8ZB+2aKckegXDEfURlkYHmWtEcIH7UuK8qjpCCc6FK393TH82NOlOLCrzlaKqmp333QpvtrT2ybKTGlPAf8j6MOabE426Dv3CT8FDYkZY5cks0d0k2wcPn7bktL6nGhjb342kEr+CQ=;O02zd8q1O/2xJW8Ntsuq/w=="
 ---

@@ -149,7 +149,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-report-explained-current-growth-for-upcoming-period-2030-2023-04-26",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -254,7 +254,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-4346-cagr-till-2030-2023-04-25",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -306,7 +306,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-camera-market-facts-and-figures-by-2030-2023-04-25",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -401,58 +401,6 @@
         "AI",
         "AI Hardware",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-nanowire-ai-networks-mimic-human-brains-learning-and-memory-abilities.md",
-      "title": "Nanowire AI Networks Mimic Human Brain’s Learning and Memory Abilities",
-      "excerpt": "The exact mechanisms of memory formation and recall are still not clear, but advances in neuroscience and AI are shedding new light on this",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2023/04/25/nanowire-ai-networks-human-memory-brain/",
-      "originalUrl": "https://www.gizmochina.com/2023/04/25/nanowire-ai-networks-human-memory-brain/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2023/04/alina-grubnyak-ZiQkhI7417A-unsplash-scaled-e1682398764259.jpg",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-24T22:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     },
     {
@@ -1412,6 +1360,60 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-19-3-exciting-jobs-in-artificial-intelligence-and-machine-learning-this-week.md",
+      "title": "3 exciting jobs in artificial intelligence and machine learning this week",
+      "excerpt": "Rising adoption in AI/ML is leading to job opportunities both within the sector, and as a result of AI-driven automation",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/3-exciting-jobs-in-artificial-intelligence-and-machine-learning-this-week/",
+      "originalUrl": "https://venturebeat.com/ai/3-exciting-jobs-in-artificial-intelligence-and-machine-learning-this-week/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/04/hitesh-choudhary-t1PaIbMTJIM-unsplash.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 673,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/3-exciting-jobs-in-artificial-intelligence-and-machine-learning-this-week/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/3-exciting-jobs-in-artificial-intelligence-and-machine-learning-this-week/amp/",
+      "publishedDateTime": "2023-04-18T13:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics",
+        "Google AI"
       ]
     }
   ],

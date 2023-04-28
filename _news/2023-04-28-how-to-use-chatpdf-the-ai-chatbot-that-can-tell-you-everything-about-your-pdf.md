@@ -46,6 +46,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Is this the snarkiest AI chatbot so far? I tried HuggingChat and it was weird"
+    excerpt: "Aside from the confusion on who's human and who you're actually talking to, HuggingChat sometimes believes it's ChatGPT -- really. The first question I asked the new AI chatbot was \"Are you better than ChatGPT?\", for which you can see its answers on the screenshot below."
+    publishedDateTime: 2023-04-28T20:52:00Z
+    webUrl: "https://www.zdnet.com/article/is-this-the-snarkiest-ai-chatbot-so-far-i-tried-huggingchat-and-it-was-weird/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/is-this-the-snarkiest-ai-chatbot-so-far-i-tried-huggingchat-and-it-was-weird/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/is-this-the-snarkiest-ai-chatbot-so-far-i-tried-huggingchat-and-it-was-weird/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 84
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/2f8193fb48f9153ebf8b4f62607c774e878ba8b5/2023/04/28/742b7956-352e-4293-8b03-c0609212a4df/confused.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Snapchat sees spike in 1-star reviews as users pan the ‘My AI’ feature, calling for its removal"
     excerpt: "The user reviews for Snapchat’s “My AI” feature are in — and they’re not good. Launched last week to global users after initially being a subscriber-only addition, Snapchat’s new AI chatbot powered by OpenAI’s GPT technology is now pinned to the top of the app’s Chat tab where users can ask it questions and get"
     publishedDateTime: 2023-04-24T15:44:00Z

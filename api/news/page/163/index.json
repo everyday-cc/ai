@@ -2,6 +2,152 @@
   "page": 163,
   "value": [
     {
+      "path": "_news/2022-12-08-howie-mandel-gets-a-digital-twin-from-deepbrain-ai.md",
+      "title": "Howie Mandel gets a digital twin from DeepBrain AI",
+      "excerpt": "Howie Mandel is stepping into the metaverse. DeepBrain AI has created a pretty realistic AI version of comedian and actor Mandel.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/games/howie-mandel-gets-a-digital-twin-from-deepbrain-ai/",
+      "originalUrl": "https://venturebeat.com/games/howie-mandel-gets-a-digital-twin-from-deepbrain-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/12/howie-AI-Studios-with-AI-Howie.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 592,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/games/howie-mandel-gets-a-digital-twin-from-deepbrain-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/howie-mandel-gets-a-digital-twin-from-deepbrain-ai/amp/",
+      "publishedDateTime": "2022-12-07T08:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-08-cyens-centre-of-excellence-a-new-collaboration-to-explore-augmented-reality-computer-vision-in-assisting-crew-in-the-safe-handling-of-provisions.md",
+      "title": "CYENS Centre of Excellence: A new collaboration to explore augmented reality & computer vision in assisting crew in the safe handling of provisions",
+      "excerpt": "to explore augmented reality and computer vision in assisting crew in the safe handling and storage of vessel provisions. Kyriakos Hadjikyriakou, Managing Director at Oceanic, commented ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-12/57784744-cyens-centre-of-excellence-a-new-collaboration-to-explore-augmented-reality-computer-vision-in-assisting-crew-in-the-safe-handling-of-provisions-008.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-12/57784744-cyens-centre-of-excellence-a-new-collaboration-to-explore-augmented-reality-computer-vision-in-assisting-crew-in-the-safe-handling-of-provisions-008.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1774630/CYENS_Centre_of_Excellence_Logo.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-07T08:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-08-bidscale-connect-linking-government-and-industry-through-an-ai-powered-platform.md",
+      "title": "Bidscale Connect: Linking Government and Industry Through an AI-Powered Platform",
+      "excerpt": "Bidscale Connect is now live in Beta with an AI-powered market intelligence platform to power Federal contracting. Bidscale Connect is tailor-made to accelerate the contracting process for Government buyers and Industry vendors.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/bidscale-connect-linking-government-and-industry-through-an-ai-powered-platform-1031958377",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/bidscale-connect-linking-government-and-industry-through-an-ai-powered-platform-1031958377",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1878605/Bidscale_Logo.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-07T08:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-08-meta-to-verify-user-age-on-facebook-dating-by-using-ai-face-scanning.md",
       "title": "Meta to verify user age on Facebook Dating by using AI face scanning",
       "excerpt": "Social media giant Facebook is experimenting with methods, such as using an AI face scanner, to allow users of the platform's dating service to verify their age. Facebook parent company Meta in ...",
@@ -990,144 +1136,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-07-its-official-adobe-stock-sells-images-generated-by-artificial-intelligence.md",
-      "title": "It's Official! Adobe Stock Sells Images Generated By Artificial Intelligence",
-      "excerpt": "SEE ALSO: Sony Is Technologically Ready To Make Humanoid Robots Once The Usage Becomes Clear According to reports, producers of fine art have been cautioned by the policy not to abuse artificial intelligence and flood the galleries with comparable images.",
-      "sourceUrl": null,
-      "webUrl": "https://in.mashable.com/tech/43199/its-official-adobe-stock-sells-images-generated-by-artificial-intelligence",
-      "originalUrl": "https://in.mashable.com/tech/43199/its-official-adobe-stock-sells-images-generated-by-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_in/photo/default/92272ed9-4bde-496d-a708-be418ff442c3_scv9.620.jpg",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://in.mashable.com/tech/43199/its-official-adobe-stock-sells-images-generated-by-artificial-intelligence?amp=1",
-      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/43199/its-official-adobe-stock-sells-images-generated-by-artificial-intelligence?amp=1",
-      "publishedDateTime": "2022-12-07T01:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "in.mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-12-07-this-article-was-written-by-an-artificial-intelligence.md",
-      "title": "This Article Was Written By An Artificial Intelligence!",
-      "excerpt": "ChatGPT, another AI developed by OpenAI, has been equally successful. In the near future, this AI could replace Google.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2022/12/07/openai-chatgpt-chatbox-could-one-day-replace-google/",
-      "originalUrl": "https://www.gizmochina.com/2022/12/07/openai-chatgpt-chatbox-could-one-day-replace-google/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2022/12/openai-chatgpt-chatbox-could-one-day-replace-google.jpeg",
-          "width": 900,
-          "height": 530,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmochina.com/2022/12/07/openai-chatgpt-chatbox-could-one-day-replace-google/?amp=1",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/12/07/openai-chatgpt-chatbox-could-one-day-replace-google/?amp=1",
-      "publishedDateTime": "2022-12-07T00:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-07-samsung-naver-team-on-next-gen-ai-chips.md",
-      "title": "Samsung, Naver team on next-gen AI chips",
-      "excerpt": "Samsung Electronics and online platform Naver unveiled plans to jointly develop chips designed to increase the handling of large AI workloads.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mobileworldlive.com/asia/asia-news/samsung-naver-team-on-next-gen-ai-chips/",
-      "originalUrl": "https://www.mobileworldlive.com/asia/asia-news/samsung-naver-team-on-next-gen-ai-chips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mobileworldlive.com/wp-content/uploads/2022/12/Samsung-NAVER-AI-partnership.jpg",
-          "width": 650,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mobileworldlive.com/asia/asia-news/samsung-naver-team-on-next-gen-ai-chips/amp/",
-      "cdnAmpWebUrl": "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/asia/asia-news/samsung-naver-team-on-next-gen-ai-chips/amp/",
-      "publishedDateTime": "2022-12-07T00:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mobile World Live",
-        "domain": "mobileworldlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

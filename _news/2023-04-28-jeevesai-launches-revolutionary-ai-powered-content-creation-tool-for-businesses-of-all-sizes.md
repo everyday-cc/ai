@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Interprefy Launches Next-Generation AI Speech Translator for Events"
+    excerpt: "M ultilingual meeting technology and services provider Interprefy unveiled Interprefy Aivia, the world’s first advanced automated speech translation service for online and live"
+    publishedDateTime: 2023-04-28T21:15:00Z
+    webUrl: "https://www.tsnn.com/news/interprefy-launches-nextgeneration-ai-speech-translator-events"
+    type: article
+    provider:
+      name: TSNN
+      domain: tsnn.com
+    quality: 39
+    images:
+      - url: "https://www.tsnn.com/sites/default/files/AI%20translation%20concept.jpg"
+        width: 8500
+        height: 4250
+        isCached: true
   - title: "Yellow.ai launches Dynamic Automation Platform (DAP) with Generative AI, unveils new logo"
     excerpt: "Yellow.ai, a global leader in Conversational AI, today announced the launch of its Dynamic Automation Platform (DAP), powered by generative AI, that enables enterprises to automate customer and employee experiences at scale with 60% reduction in their operational costs."
     publishedDateTime: 2023-04-25T16:55:00Z

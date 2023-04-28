@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/kpmg-us-executives-unprepared-for-immedia
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/kpmg-us-executives-unprepared-for-immediate-adoption-of-generative-ai/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Executives want generative AI, but are taking it slow. An army of providers has lined up to help"
+    excerpt: "Vendors are lining up to help enterprise companies adopt generative AI and tackle issues around data security and risk."
+    publishedDateTime: 2023-04-26T19:01:00Z
+    webUrl: "https://venturebeat.com/ai/executives-want-generative-ai-but-are-taking-it-slow-an-army-of-providers-has-lined-up-to-help/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 36
   - title: "The Needed Executive Actions to Address the Challenges of Artificial Intelligence"
     excerpt: "Artificial intelligence (AI) 1 is becoming more widely available to the public and increasingly sophisticated, leading to the advent of what Bill Gates recently called “The Age"
     publishedDateTime: 2023-04-25T16:00:00Z

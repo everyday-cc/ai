@@ -2,6 +2,161 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2023-03-21-nvidia-built-a-massive-dual-gpu-to-power-models-like-chatgpt.md",
+      "title": "Nvidia built a massive dual GPU to power models like ChatGPT",
+      "excerpt": "Nvidia’s semi-annual GPU Technology Conference (GTC) usually focuses on advancements in AI, but this year, Nvidia is responding to the massive rise of ChatGPT with a slate of new GPUs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/nvidia-built-massive-dual-gpu-power-chatgpt/",
+      "originalUrl": "https://www.digitaltrends.com/computing/nvidia-built-massive-dual-gpu-power-chatgpt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/03/nvidia-h100-nvl.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/nvidia-built-massive-dual-gpu-power-chatgpt/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/nvidia-built-massive-dual-gpu-power-chatgpt/?amp",
+      "publishedDateTime": "2023-03-21T01:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-21-a-new-era-in-internet-runway-unveils-ai-that-transforms-text-into-videos.md",
+      "title": "A New Era in Internet: Runway Unveils AI that Transforms Text into Videos",
+      "excerpt": "The startup behind Stable Diffusion unveiled a groundbreaking AI system that can generate videos from text descriptions",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2023/03/21/runway-gen-2-ai-transforms-text-videos/",
+      "originalUrl": "https://www.gizmochina.com/2023/03/21/runway-gen-2-ai-transforms-text-videos/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2023/03/runway-gen-2-ai-transforms-text-videos.jpeg",
+          "width": 1280,
+          "height": 717,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-21T01:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-21-artificial-intelligence-of-things-aiot-solutions-market-size-revenue-and-forecast-2028.md",
+      "title": "Artificial Intelligence Of Things (AIoT) Solutions Market Size, Revenue, and Forecast 2028",
+      "excerpt": "Browse Market Size, charts, tables and figures extent in-depth TOC with 112 Report Pages on Artificial Intelligence Of Things (AIoT) Solutions Market by Application (, Consumer, Enterprise, Industrial,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-of-things-aiot-solutions-market-size-revenue-and-forecast-2028-2023-03-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-of-things-aiot-solutions-market-size-revenue-and-forecast-2028-2023-03-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-20T21:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-21-natural-language-processing-for-healthcare-and-life-sciences-market-size-trends-and-forecast-2026.md",
       "title": "Natural Language Processing For Healthcare And Life Sciences Market Size, Trends and Forecast 2026",
       "excerpt": "Market Updates(360marketupdates.com) published a new research report on Natural Language Processing For Healthcare",
@@ -1074,144 +1229,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-03-20-the-future-of-ai-in-banking.md",
-      "title": "The Future Of AI In Banking",
-      "excerpt": "What are the obvious use cases for LLMs in banking, and what do banks need to consider before leveraging them?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/20/the-future-of-ai-in-banking/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/20/the-future-of-ai-in-banking/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 236,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/630f5e5918c93764f06047ca/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/20/the-future-of-ai-in-banking/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/03/20/the-future-of-ai-in-banking/amp/",
-      "publishedDateTime": "2023-03-20T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-03-20-grocer-uses-facial-recognition-technology-to-deter-shoplifters-drawing-concerns.md",
-      "title": "Grocer uses facial recognition technology to deter shoplifters, drawing concerns",
-      "excerpt": "A supermarket's use of face-scanning and voice-recording technology to prevent thieves has sparked privacy concerns.",
-      "sourceUrl": null,
-      "webUrl": "https://abc11.com/fairway-market-upper-west-side-facial-recognition-technology/12973077/",
-      "originalUrl": "https://abc11.com/fairway-market-upper-west-side-facial-recognition-technology/12973077/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.abcotvs.com/dip/images/12969014_031723-wabc-fairway-facial-recognition-img.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abc11.com/amp/fairway-market-upper-west-side-facial-recognition-technology/12973077/",
-      "cdnAmpWebUrl": "https://abc11-com.cdn.ampproject.org/c/s/abc11.com/amp/fairway-market-upper-west-side-facial-recognition-technology/12973077/",
-      "publishedDateTime": "2023-03-20T06:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTVD",
-        "domain": "abc11.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-20-can-a-teacher-detect-if-students-are-using-artificial-intelligence.md",
-      "title": "Can a teacher detect if students are using artificial intelligence?",
-      "excerpt": "Artificial intelligence is becoming increasingly common across the internet, but teachers are concerned that it could help students cheat. NBC News digital reporter Andrew Stern puts one of his old high school teachers to the test.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/now/video/can-a-teacher-detect-if-students-are-using-artificial-intelligence-165736005699",
-      "originalUrl": "https://www.nbcnews.com/now/video/can-a-teacher-detect-if-students-are-using-artificial-intelligence-165736005699",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_03/1679317811866_now_mnn_chatgpt_teacher_230320_1920x1080-a5f6v9.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo165736005699",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo165736005699",
-      "publishedDateTime": "2023-03-20T06:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

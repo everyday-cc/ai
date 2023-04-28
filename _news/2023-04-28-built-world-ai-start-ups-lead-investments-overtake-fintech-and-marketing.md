@@ -9,7 +9,7 @@ ampWebUrl: "https://diginomica.com/built-world-ai-start-ups-lead-investments-ove
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/built-world-ai-start-ups-lead-investments-overtake-fintech-and-marketing?amp"
 type: article
 quality: 75
-heat: 155
+heat: 165
 published: true
 
 provider:
@@ -132,6 +132,15 @@ related:
       name: Vanguard
       domain: vanguardngr.com
     quality: 3
+  - title: "Fintech BUNKER Selects InvestCloud to Launch Digital App, Providing Access to US Investment Markets for HNWIs in LatAm"
+    excerpt: "InvestCloud selected by BUNKER, a fintech seeking to democratize access to the US markets for Latin Americans, to launch investment platform."
+    publishedDateTime: 2023-04-28T19:30:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/04/206288-fintech-bunker-selects-investcloud-to-launch-digital-app-providing-access-to-us-investment-markets-for-hnwis-in-latam/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 0
 
 secured: "Qw84iYVizk2UlbDQQJfpILDzw0SAQQVbSCLPFYQKLG6IbuTnlQ3kV74sxngPTCc3RR3aXvNepChlsTMlRaGrAVaIAz4BipTjC//wwPxtWbLWfwrhlG7nhl38W00T3rQ6qoOdGZwKogkPmfoc52bMPjYoUGx3pOsZZnJXjj6d4P6GQELknF+6cWg6POf8+dvcwLYmiX+T8v8PJ/yhzctPd0FojCqfdr8FLuBe+Du8M6lm1oicLIjU7CDvLvgwn8BcXn6H5IJmFxtgTVrA17eCfU+6NVnl6Ej+4gyJ1/9pnzfvW5EhfT1y64IwcSneiUww97XeqY2sadmip540kN3G/fmeZBYR/0dfJVxLfH5uBjO5MHVdFrNxlg59LEXboIl9BjNQo24TzYpGuZKPYMeO39ZnaN9QXVRLYAiTtLWgnJy5rZqdidMnohz2F3LOLSd+km802B+RrEj/IFeVcj0Jn448zyOdDqIuNxnSI6CXYjhqTkrR7mrQ47b4Ptux6RXF6ASFa85JtT+YrLnA/eYBzQ==;5nottq//yLGWm3obXujc7g=="
 ---

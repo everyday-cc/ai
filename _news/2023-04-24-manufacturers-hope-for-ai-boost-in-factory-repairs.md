@@ -63,20 +63,6 @@ related:
         width: 940
         height: 940
         isCached: true
-  - title: "Manufacturers hope for artificial intelligence boost in factories"
-    excerpt: "Manufacturing firms are keen on using AI to automate the repair of complex machinery, thereby increasing efficacy and solving technical issues. This development was showcased in Germany's industrial Home Fair,"
-    publishedDateTime: 2023-04-24T02:22:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/manufacturers-hope-for-artificial-intelligence-boost-in-factories/99718084"
-    type: article
-    provider:
-      name: cio.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 39
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-99718084,imgsize-152838,width-1200,height=765,overlay-etcio/next-gen-technologies/manufacturers-hope-for-artificial-intelligence-boost-in-factories.jpg"
-        width: 1200
-        height: 765
-        isCached: true
 
 secured: "bWje3qigi5jV7aLFCmCli9UVfNRLq6ZFsMpb2gUqxeIq1yNOmmFiRMKn5Q6f8fV3QmqzGM3p+ld/FtQLCHzAY4DSFIcsLEAShE0dbbmrLbQRbXx2UFxyYLFcuU7MUVd+9WPrqVGDNnzx3KdnjTroHhzOOs63qBt3jTMaLm03CDi7prCWGNBmZkCVCToQKQQ+qu31EcBGWqTHTKPBIO8J8/Xb0N6MRkX5qE/voyjxE6PdvdTSXtBOJ5jfK1lWPxNENXmp7p0FZd5aaH1ENOUp56ApUQfJaMJpa2HxV2+N3n1wjJYK7H7liMCp3qEnlGo0FRjLfYMsxRGPXIfzsfwHpbAhU0KunXbNGQlla0fJhqiZzwHvIEdKJuj1IUn8tL+smXi021chD4yQsqFV7jiGxf/b/JSOH1KT7+RgfeGX+I5ivHeF57s+snT9CGAG87thLjFrhVFCszYVggjbDEj2wUBmTonYhkWDNKeQU7db53IP2jhWBwTP1fr4U4iFpVWD7haSOXlB+aXoUKFi8cJdow==;za4sov2q0oH+us7shNihjg=="
 ---

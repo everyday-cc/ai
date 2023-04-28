@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/news/stocks/microsoft-stock-pric
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/microsoft-stock-price-chatgpt-investor-ai-cloud-azure-satya-nadella-2023-4?amp"
 type: article
 quality: 113
-heat: 573
+heat: 583
 published: true
 
 provider:
@@ -597,6 +597,20 @@ related:
       - url: "https://images.tech.co/wp-content/uploads/2023/04/27113513/AdobeStock_577116307_Editorial_Use_Only-min_50-scaled.jpeg"
         width: 2560
         height: 1707
+        isCached: true
+  - title: "ChatGPT-powered Chatty Cat app for Mac brings AI to pets"
+    excerpt: "Unlike other ChatGPT-powered apps or extensions, Chatty Cat for Mac brings six different pets to interact with you throughout the day."
+    publishedDateTime: 2023-04-28T21:06:00Z
+    webUrl: "https://bgr.com/tech/chatgpt-powered-chatty-cat-app-for-mac-brings-ai-to-pets/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 37
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/04/chatty-cat-chatgpt-powered-bgr.jpg?quality=82&strip=all"
+        width: 1812
+        height: 900
         isCached: true
   - title: "Microsoft Q3 Earnings Preview: All Eyes Are On AI-Driven Growth"
     excerpt: "Microsoft Corp. (NASDAQ: MSFT) will announce fiscal year 2023 third-quarter financial results on Tuesday, April 25, after market close. Here are five things to know ahead of the report:"

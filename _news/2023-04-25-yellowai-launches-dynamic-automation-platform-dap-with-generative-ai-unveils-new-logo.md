@@ -57,6 +57,20 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Interprefy Launches Next-Generation AI Speech Translator for Events"
+    excerpt: "M ultilingual meeting technology and services provider Interprefy unveiled Interprefy Aivia, the world’s first advanced automated speech translation service for online and live"
+    publishedDateTime: 2023-04-28T21:15:00Z
+    webUrl: "https://www.tsnn.com/news/interprefy-launches-nextgeneration-ai-speech-translator-events"
+    type: article
+    provider:
+      name: TSNN
+      domain: tsnn.com
+    quality: 39
+    images:
+      - url: "https://www.tsnn.com/sites/default/files/AI%20translation%20concept.jpg"
+        width: 8500
+        height: 4250
+        isCached: true
   - title: "The Battle for Authenticity: The Importance of Detecting Human vs. AI-Generated Content by Intetics"
     excerpt: "Intetics, a leading global technology company, published an article on the burning challenges of generative AI, existing AI-generated content detection tools, their current limitations and prospects,"
     publishedDateTime: 2023-04-27T11:53:00Z
