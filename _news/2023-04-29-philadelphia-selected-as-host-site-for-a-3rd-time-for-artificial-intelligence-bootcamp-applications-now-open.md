@@ -43,22 +43,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Anchorage Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!"
-    excerpt: "The Odom Corporation will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students at No-Cost for a 2nd time in the Fall of 2023."
-    publishedDateTime: 2023-04-28T22:22:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/04/g32097415/anchorage-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32097415"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32097415"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 48
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "Madison Selected as Host Site for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
     excerpt: "Fetch is one of 28+ host companies selected to host camps across the US in Fall 2023. The Fetch Bootcamp will be held over four consecutive Saturdays starting on October 14 th and ending on November 4 th."
     publishedDateTime: 2023-04-28T21:35:00Z
@@ -68,6 +52,20 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 31
+    images:
+      - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
+        width: 550
+        height: 353
+        isCached: true
+  - title: "Anchorage Selected as Host Site for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
+    excerpt: "The Odom Corporation will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students at No-Cost for a 2 nd time in the Fall of 2023. The AI Bootcamp in Anchorage will be targeted at underserved high school students (9th-12 th grade) and will introduce these high school students to basic AI concepts and skills."
+    publishedDateTime: 2023-04-28T22:38:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/04/28/9804448.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 28
     images:
       - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
         width: 550
@@ -274,6 +272,6 @@ related:
       domain: benzinga.com
     quality: 0
 
-secured: "zhRMpRS6c5UA/v8UvZTNjfm/LJfzAPxFj5mstEjxM8RuTFviCeyxVvkN2ji5rVdhKvNePO6sq8ul5Mv23cozqmvgyUcgEXMDso8W6HB1C3Qc0GR5p67tI4169duzbmNWR6uzXMv3XqzxMx/tLqYae2y7WA4fdcEZSwe9eAgA7l+6i/CLlBjuhHFa+GsnVwwzFjtazkZBbbZvHUXsfbxydmX+JnC/18iG7ufqtLOHdZp4EUBRKValv2/+YTH9kBWTPLhkKMnFBAhBJ62HEJ/+VYvuvs1cMcSVazNVdDQ9KsFQsBTOshdYf/77O58shE54sc7UmaK6hUEp5HLyM0GztXYOyZwVXOhXCQXlQbRbbvY=;ZCIYbz4xx5ITjSB5gVOZSg=="
+secured: "EUAF+kcjaEPpA27u3GM4hVjmug8EkrmOvtTBvF1QlWTqOrec7PVjX9EoCjjVwa/nsuNYP5bHk2avIpBt/19LpbCwBQJ+Nbv9A0yLoG8Eo+E9AGenxN995BpJOWXWe0j0Q1H8VjzhCGvYktKtLkaZ+sV8tEuBX+/68EqUKxCIKdrCyBSlVYcPL+isLCvvv7/i1+1rbQ8N1ZlkVL52YlqKZ8Ff546NvJkN2kIJImU5lVEI2vY7nvzVPeHO+Bjad5eUXu6F2nw7TkQ5UW0SZTvuv/iKuwkByyOLzHeov82+dZrJxwFDfKb92TUWn3E0hsgjekNNtPi3LdhKLbx4dRIP1+Cx3QKcBQ5zA7LWwu/efwo=;MBS6NJtYr/vLSjF/liI/IQ=="
 ---
 

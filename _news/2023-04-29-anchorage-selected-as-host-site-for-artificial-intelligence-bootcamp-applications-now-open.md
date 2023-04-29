@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Anchorage Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!"
-excerpt: "The Odom Corporation will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students at No-Cost for a 2nd time in the Fall of 2023."
-publishedDateTime: 2023-04-28T22:22:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/04/g32097415/anchorage-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open"
-webUrl: "https://www.benzinga.com/pressreleases/23/04/g32097415/anchorage-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open"
-ampWebUrl: "https://www.benzinga.com/amp/content/32097415"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32097415"
+title: "Anchorage Selected as Host Site for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
+excerpt: "The Odom Corporation will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students at No-Cost for a 2 nd time in the Fall of 2023. The AI Bootcamp in Anchorage will be targeted at underserved high school students (9th-12 th grade) and will introduce these high school students to basic AI concepts and skills."
+publishedDateTime: 2023-04-28T22:38:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/04/28/9804448.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/04/28/9804448.htm"
 type: article
-quality: 48
+quality: 28
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - AI in Autos
+  - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
+  - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
+    width: 550
+    height: 353
     isCached: true
 
 related:
@@ -274,6 +272,6 @@ related:
       domain: benzinga.com
     quality: 0
 
-secured: "N1qjHmCkCPKzN8xmo8X3I4EtpBwClBkfmcYx52Qw67zzGU7JuImSDhWh5y8ow+F7WwKygEVHF+OP6sdzty9Ewvy5Zq84gH/1Pp4RqXY49nmhB5N/6FIvlHKLLltVZIfjfapExNVzQFo+RlnVVtyIQ7tFVAFY2+pPtRbHJA6lfjSb82Yn9NOMek6hXPydCRoPkz3YwOdxBx3YsztMk71UKxk+TeCdb77USSRhYVNTjKJFnvZ4ldUdxDr9kEzOcg2ZvFoVExVICLeGkb347Ac99kP4o0j4XgNb9aO86IAvS/zaOod+Nwh+w4y96VvyjmAv6tlUVYHB6cHl0r5NK0dJBwgx0l4EJyg5r9IsHppLplY=;cTD8OD3yiHXdxzvaVtPlPA=="
+secured: "F4SZ0T7VfCEccGHSuW0lLL8ZQiH36QPJhlszNo1sJ10gJIQFPQ1xnnCNvFoO9L6wSkK0runecy1zwEaFLg0g7HEXMStA/mhUeQysIG9huXIe5zH7L6gIh8fTlszGnwiBK+2y17w705ZngJv44FuADydB1hbkH4X1+/J94iuE4yEIYnihxtF9WRQkEfmNX0uz34do5A5AOey8fmopiHHnxRnSZshmOIMPunjvAVRcOAU8H3scZP7M+wsvGMrClx4kso+gDGJKrp+uR/TBiESPFPvJ/6mre4sO2QtM86dBegIbErF7uqCQ4us7hCdnSiUtaCK1Gs7BNiuthzFdwpJhAcTy4Cp1tg1A7FHF7C4ifeE=;XJEcywJFkvxoMCtEj5qC+g=="
 ---
 

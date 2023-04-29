@@ -217,15 +217,6 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 34
-  - title: "Generative AI: A paradigm shift in enterprise and startup opportunities"
-    excerpt: "As news cycles eclipse one another about these advancements, it may seem like generative AI sprang out of nowhere for many business and executive leaders. Still, the reality is that these new architectures are built on approaches that have evolved over the past few decades."
-    publishedDateTime: 2023-04-24T19:52:00Z
-    webUrl: "https://www.cio.com/article/474720/generative-ai-a-paradigm-shift-in-enterprise-and-startup-opportunities.html"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 19
   - title: "Moveworks Launches Creator Studio: A No-Code, Generative AI Platform for Building Any Conversational AI Use Case Across the Enterprise"
     excerpt: "Moveworks, the leading conversational AI platform for the enterprise, today announced Creator Studio - a no-code, generative AI platform for building any conversational AI use case in minutes. The platform leverages advanced large language models (LLMs) and generative AI to provide a natural language interface that serves as an enterprise-wide copilot for employees."
     publishedDateTime: 2023-04-26T15:34:00Z

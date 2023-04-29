@@ -96,7 +96,7 @@
       "originalUrl": "https://arstechnica.com/gadgets/2023/04/report-describes-apples-organizational-dysfunction-and-lack-of-ambition-in-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -147,7 +147,7 @@
       "originalUrl": "https://www.forbes.com/sites/williamhaseltine/2023/04/28/forget-ai-organoid-intelligence-may-soon-power-our-computers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -281,6 +281,49 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-29-idvv-moves-forward-in-artificial-intelligence-ai-sector.md",
+      "title": "IDVV Moves Forward In Artificial Intelligence AI Sector",
+      "excerpt": "LOS ANGELES, CA / ACCESSWIRE / April 28, 2023 / International Endeavors Corporation 'IEC' (OTC PINK:IDVV) announced the following corporate",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/idvv-moves-forward-in-artificial-intelligence-ai-sector-1032274576",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/idvv-moves-forward-in-artificial-intelligence-ai-sector-1032274576",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-28T10:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -732,7 +775,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-market-projection-and-growth-drivers-2023-2028-2023-04-28",
       "featuredContent": null,
       "highlight": null,
-      "heat": 256,
+      "heat": 266,
       "tags": null,
       "images": [
         {
@@ -838,7 +881,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/28/making-the-most-out-of-generative-ai-in-your-enterprise/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 263,
+      "heat": 253,
       "tags": null,
       "images": [
         {
@@ -1154,58 +1197,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-seven-in-ten-business-leaders-want-robots-to-make-their-decisions-for-them.md",
-      "title": "Seven In Ten Business Leaders Want Robots To Make Their Decisions For Them",
-      "excerpt": "It’s easier to make decisions when the economy is growing, as bad choices can get subsidized by the more well-targeted choices. But in a tighter economy, bad decisions are more exposed, and costly. But in this era of data analytics,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/04/28/seven-in-ten-business-leaders-want-robots-to-make-their-decisions-for-them/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/04/28/seven-in-ten-business-leaders-want-robots-to-make-their-decisions-for-them/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/644b3e90feff0dec7e76f751/0x0.jpg?format=jpg&width=1200",
-          "width": 807,
-          "height": 537,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/04/28/seven-in-ten-business-leaders-want-robots-to-make-their-decisions-for-them/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/04/28/seven-in-ten-business-leaders-want-robots-to-make-their-decisions-for-them/amp/",
-      "publishedDateTime": "2023-04-27T21:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

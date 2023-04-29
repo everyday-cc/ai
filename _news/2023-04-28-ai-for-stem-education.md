@@ -40,15 +40,15 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Britain Jumps On AI Bandwagon With $125M Taskforce For Education And Health Care"
-    excerpt: "Britain is investing around $125 million (or 100 pounds) into developing foundational models similar to the language models ChatGPT is known for."
-    publishedDateTime: 2023-04-24T19:21:00Z
-    webUrl: "https://news.crunchbase.com/ai-robotics/news-britain-investment-health-care-education/"
+  - title: "7 popular tools and frameworks for developing AI applications"
+    excerpt: "Artificial Intelligence (AI) is a rapidly growing field with numerous applications ... It can be used to build a machine translation system that can translate text from one language to another. Theano is a popular Python library for numerical computation ..."
+    publishedDateTime: 2023-04-27T16:24:00Z
+    webUrl: "https://cointelegraph.com/news/7-popular-tools-and-frameworks-for-developing-ai-applications"
     type: article
     provider:
-      name: news.crunchbase
-      domain: crunchbase.com
-    quality: 31
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 19
 
 secured: "KgKDjvZl1n7AJMKFatPCd6VpNaE+C6RMRtrOqtCxLHsrxQ+3bWgglXdRAMHbbhUWuT0qOO1LipvB9htEBJwvZlERaGmNHEKDWtvSUL9662jmJKOaZP3yZ56DsoW6N1aTrR/oe4SbWxImPR1P8FRDF4SUnvvrwUGS68BuT2k0OSZJWvNVAm0cz+oHny2gBTxJrpHYjf3eW40e4xLSI25JRuy5eGeyKQ0dUcWaRCs4OnlE9eDXmsR0V5bWNnMJWYB0yuP4lQY0MErXmw8BwYwuIjDM9Lr6BX9Msnsz5GpVH37NQUyvhovFeH4F5tzX+21knLFkgVgSs6KAYL2aEd3pQorc4oUyX5jMhh1JecntyhCKDkgXHLO71LJdkjdK8JqXmxoZzx6QKoJzEtjGRkJtxO4xQBZgLoFny1R7CwoahR15gm44z83jcCKNtcCDsf+dcjz3jqbWdAbic1feq0iW8q+wN5bhJ+3WmeUJhizFxLbaaXLb1X9INjEg22IU/6Cst40ufAeI73Pvkwdf9YBt8g==;TolwgmmPLs3VssgkiCAygg=="
 ---

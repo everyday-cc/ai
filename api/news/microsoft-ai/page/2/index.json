@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-04-18-thinkandor-unlocks-the-power-of-ai-for-virtual-care-collaboration-by-using-chatgpt-through-microsoft-azure-openai-service.md",
+      "title": "ThinkAndor® Unlocks the Power of AI for Virtual Care Collaboration by Using ChatGPT through Microsoft Azure OpenAI Service",
+      "excerpt": "By embedding AI into all virtual interactions, ThinkAndor® changes the nature of care delivery.\" \"We are pleased to see Andor integrate Microsoft Azure OpenAI Service with Azure Communication ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/thinkandor-unlocks-the-power-of-ai-for-virtual-care-collaboration-by-using-chatgpt-through-microsoft-azure-openai-service-1032239973",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/thinkandor-unlocks-the-power-of-ai-for-virtual-care-collaboration-by-using-chatgpt-through-microsoft-azure-openai-service-1032239973",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-18T06:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-18-can-music-practice-avert-cognitive-decline.md",
       "title": "Can Music Practice Avert Cognitive Decline?",
       "excerpt": "A team from UNIGE, HES-SO Geneva and EPFL shows the positive impacts of musical activities to counteract brain ageing.",
@@ -1308,60 +1351,6 @@
       "topics": [
         "AI Hardware",
         "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-28-microsoft-security-copilot-harnesses-ai-to-give-superpowers-to-cybersecurity-fighters.md",
-      "title": "Microsoft Security Copilot harnesses AI to give superpowers to cybersecurity fighters",
-      "excerpt": "These Experts Are Racing to Protect AI From Hackers. Time is Running Out Motorola's handy Bluetooth device adds satellite messaging Linux 6.2: The first mainstream Linux kernel for Apple M1 chips arrives Sony's new headphones adopt WH-1000XM5 technology at ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-security-copilot-harnesses-ai-to-give-superpowers-to-cybersecurity-fighters/",
-      "originalUrl": "https://www.zdnet.com/article/microsoft-security-copilot-harnesses-ai-to-give-superpowers-to-cybersecurity-fighters/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/25070a0ca82841cd88b3eb8f12b525d93af19696/2023/03/28/a5988217-ae81-4ae4-9aae-0416874b7761/gettyimages-1208358547.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-security-copilot-harnesses-ai-to-give-superpowers-to-cybersecurity-fighters/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-security-copilot-harnesses-ai-to-give-superpowers-to-cybersecurity-fighters/",
-      "publishedDateTime": "2023-03-28T08:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Security",
         "Microsoft AI"
       ]
     }

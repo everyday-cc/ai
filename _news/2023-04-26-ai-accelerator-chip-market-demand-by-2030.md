@@ -85,6 +85,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI In Computer Vision Market Outlook by 2031"
+    excerpt: "The latest market research report on the Global \"AI In Computer Vision Market\" is segmented by Regions, Country,"
+    publishedDateTime: 2023-04-27T03:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-outlook-by-2031-2023-04-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Edge AI Chips Market Outlook by 2031"
     excerpt: "The latest market research report on the Global \"Edge AI Chips Market\" is segmented by Regions, Country, Company and"
     publishedDateTime: 2023-04-28T09:51:00Z
@@ -136,6 +150,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 79
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Data and AI Ethics Market Size 2023 with SWOT and PESTAL Analysis | Forecast to 2031"
+    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
+    publishedDateTime: 2023-04-28T18:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-size-2023-with-swot-and-pestal-analysis-forecast-to-2031-2023-04-28?tesla=y"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 77
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

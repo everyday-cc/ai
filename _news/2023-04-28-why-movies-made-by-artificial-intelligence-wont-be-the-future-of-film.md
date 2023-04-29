@@ -71,6 +71,15 @@ related:
       name: Couriermail
       domain: news.com.au
     quality: 39
+  - title: "The Guide #84: Why movies made by artificial intelligence won’t be the future of film"
+    excerpt: "Surely we go to the cinema to be jolted and discomfited by someone else’s ideas – not to see ourselves in easy meetcute rom-coms with Marilyn Monroe"
+    publishedDateTime: 2023-04-28T10:26:00Z
+    webUrl: "https://www.theguardian.com/culture/2023/apr/28/the-guide-ai-film-joe-russo?ref=aioftheday.com"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 10
 
 secured: "Q9E6GXjm2XufmofvF0SKvxAf593QfbGNhMtLJTOc8OgMpjSLoqw6nwGw+RJ9I55VTV5TCpO4CevlsonEzg2gdpXu73/dxnP/iu4ZCtDxX1NaVj6Rz8na003l5hG3KCydchIlwgIC+xpxa8r9FMFAZb/pQw8Cx7SMk0Uq+iod0h2LBovHiwNms37NN/tZzsEDE7hbm8vqyK3enT+rHf0j3moeLQE1fp2NrSucnDW3fVOC5Z48UbHRas5cFboo+De0NRM2eo8MvS3U3qKN6xdjIuHelqVt0qI1LFJbcVQIdx4a9BpQwXNmFCJwJTWkKyDgGXVC7n0lbu3Os/6cK+VXf+2DcuGv5Fx9ImimV45PE5aXzQ36oJs1reOQkeXQURDM1jmUKERmOr/XjA+ILdV7VRcqXIymQdch1fIennymfxNSmjd8LTXQHOVNc1wurm+mRg5FQ0Olk61nyR7qrd/lNRr1y2Bbp6Kwhfs5Pdf25+kbB3+jF2FodQ8LHM90OZ7xddRGV/fGOsCV0TFMwOSM7A==;Cq2tr+b/f9GTY7ZRM9opDg=="
 ---

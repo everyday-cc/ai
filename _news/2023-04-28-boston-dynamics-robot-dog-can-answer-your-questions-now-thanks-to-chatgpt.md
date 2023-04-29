@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/boston-dynamics-robot-dog-c
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/boston-dynamics-robot-dog-can-answer-your-questions-now-thanks-to-chatgpt/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -61,6 +61,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Viral: ChatGPT-AI, Google tech, gives voice to Boston Dynamics’ robot dog"
+    excerpt: "A team of programmers has outfitted Boston Dynamics' robot dog, Spot, with OpenAI's ChatGPT and Google's Text-to-Speech speech modulation in a viral video."
+    publishedDateTime: 2023-04-29T12:21:00Z
+    webUrl: "https://interestingengineering.com/innovation/boston-dynamics-robot-dog-thinks-with-chatgpt-google-tech"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 33
 
 secured: "GTI4VFK7FiySnOgxF5hhn7XX37o5zvnG8zQFWFX5MLC4sV4s9LkSVXyyxPjuwLCnJBJG8/0/8fHMcyoR3R93o0+ZSkoYphTIcgrJyTBTxdOmpnKpqV+rFze9MH5Py/BH90+xZTuEs0+T+prob7+X3UQTBp58YxK3uw/jp2FIcBou3TtOh8RA5xwj0tuzvaDWn4m+LdxS+VuloyXl0SfW/g0ANvCjvl1lPG/DMfb6d3DyzPhqxSK6IEwVN4mXCUKGnZXyp4nRPUuPgzQDUhq1DhR3qyiHErA0PYP4jedGpLFEMyCPJYUrU9WbMRlpqvKYyZHD6U98Ght9AeSgUzJ+CZfZA+V/pAF/JMFHyABiNnBrkaGzPER/yLw4IA727M8bhPEUnOF3bckeZW1eNfEJUgoFY1L0SkEcHi2W6Zakp3HqEN6JS0BrD3g9WGJzGKFjYWqNy/00hOFfdOnEWrwcpBVtl8iULit/NPwZBcvUMZ/iXR4EHiDlNPbMiU0z3y3hoJvaWb81izVEFZ4ycQlFIg==;UAaGYD/PBk5Fysu4Q9XpxQ=="
 ---

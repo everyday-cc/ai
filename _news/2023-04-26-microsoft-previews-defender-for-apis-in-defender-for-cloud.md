@@ -412,6 +412,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Google, Microsoft, Amazon, & Meta put AI on steroids while cutting jobs"
+    excerpt: "The IT behemoths Alphabet, Microsoft, Amazon, and Meta are increasing their large language model (LLM) investments as a show of their dedication to utilizing the power of artificial intelligence (AI) while cutting costs and jobs."
+    publishedDateTime: 2023-04-29T15:51:00Z
+    webUrl: "https://interestingengineering.com/innovation/google-microsoft-amazon-meta-ai"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 56
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/04/29/image/jpeg/CansC0Fg86ivCNtL2I5csadyaajvjydZxqrQjzeV.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Microsoft reports boost in profits, revenue, as it pushes AI"
     excerpt: "Analysts polled by FactSet expected Microsoft to post revenue of $51.02 billion for the quarter. The quarter marked an ambitious push by Microsoft to capitalize on its investments in artificial intelligence and partnership with San Francisco-based startup OpenAI with the February release of a new AI chatbot feature on its search engine Bing."
     publishedDateTime: 2023-04-26T01:23:00Z
@@ -467,20 +481,6 @@ related:
       - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/promoted_content/promo/microsoft_dreamstime_7_2_1_2.jpg"
         width: 505
         height: 315
-        isCached: true
-  - title: "Microsoft earnings: AI hype could take backseat to cloud growth troubles"
-    excerpt: "A busy day for corporate earnings on Tuesday will be highlighted by Microsoft's latest report, expected to offer new updates on the company's AI initiatives."
-    publishedDateTime: 2023-04-24T20:13:00Z
-    webUrl: "https://www.aol.com/finance/microsoft-earnings-ai-hype-could-201023513.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 53
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/SJK7yNudI5GxPiZ5E0V7YA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NDc-/https://media.zenfs.com/en/aol_yahoo_finance_433/40f5734b4dd26494e910459aedb729b3"
-        width: 1200
-        height: 847
         isCached: true
   - title: "Copilot Tech Shines at Build 2023 As Microsoft Morphs into an AI Company"
     excerpt: "Developers are in for an AI treat of all the information and guidance they can consume at Microsoft's big developer conference kicking off in Seattle on May 23."

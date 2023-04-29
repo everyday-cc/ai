@@ -26,35 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Kinetix launches text-to-animation AI for new era in user-generated content"
-    excerpt: "Kinetix has announced Text2Emotes, a generative AI technology that heralds a new era of user-generated gaming content (UGC)."
-    publishedDateTime: 2023-04-26T07:59:00Z
-    webUrl: "https://venturebeat.com/games/kinetix-launches-text-to-animation-ai-for-new-era-in-user-generated-content/"
-    ampWebUrl: "https://venturebeat.com/games/kinetix-launches-text-to-animation-ai-for-new-era-in-user-generated-content/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/kinetix-launches-text-to-animation-ai-for-new-era-in-user-generated-content/amp/"
+  - title: "How travel businesses can leverage generative AI solutions"
+    excerpt: "Find out how generative AI tools can help travel businesses personalise the customer experience, transform venues, and more."
+    publishedDateTime: 2023-04-25T06:45:00Z
+    webUrl: "https://thenextweb.com/news/how-travel-businesses-generative-ai-solutions"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 67
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/04/kinetix-text2emote.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Interprefy Launches Next-Generation AI Speech Translator for Events"
-    excerpt: "M ultilingual meeting technology and services provider Interprefy unveiled Interprefy Aivia, the world’s first advanced automated speech translation service for online and live"
-    publishedDateTime: 2023-04-28T21:15:00Z
-    webUrl: "https://www.tsnn.com/news/interprefy-launches-nextgeneration-ai-speech-translator-events"
-    type: article
-    provider:
-      name: TSNN
-      domain: tsnn.com
-    quality: 39
-    images:
-      - url: "https://www.tsnn.com/sites/default/files/AI%20translation%20concept.jpg"
-        width: 8500
-        height: 4250
+      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F04%2FAdd-a-heading-2.jpg&signature=83972cf323f74b475ec05ab3f2b6e782"
+        width: 1280
+        height: 640
         isCached: true
   - title: "EU proposes new copyright rules for generative AI"
     excerpt: "Shortly after signing the letter, the Financial Times reported Musk was planning to launch his own startup to rival OpenAI. ALSO READ: Elon Musk plans AI startup to rival OpenAI, Financial Times reports"
@@ -70,29 +54,15 @@ related:
         width: 848
         height: 601
         isCached: true
-  - title: "Yellow.ai launches Dynamic Automation Platform (DAP) with Generative AI, unveils new logo"
-    excerpt: "Yellow.ai, a global leader in Conversational AI, today announced the launch of its Dynamic Automation Platform (DAP), powered by generative AI, that enables enterprises to automate customer and employee experiences at scale with 60% reduction in their operational costs."
-    publishedDateTime: 2023-04-25T16:55:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/04/25/9801543.htm"
+  - title: "5 Lessons in Leveraging AI in Your Business from this Tax Startup"
+    excerpt: "Tax season may have come and gone, but it's never too early to start planning for growth, if you're an accounting firm. Moreoever, since you haven't been under a rock, you must have heard of ChatGPT by now - but if you're a professional services firm, you may not have yet considered the implications for your business."
+    publishedDateTime: 2023-04-26T05:13:00Z
+    webUrl: "https://www.inc.com/dave-kerpen/5-lessons-in-leveraging-ai-in-your-business-from-this-tax-startup.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 30
-    images:
-      - url: "https://mma.prnewswire.com/media/2061615/Yellow_ai_launches_Dynamic_Automation.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "The Battle for Authenticity: The Importance of Detecting Human vs. AI-Generated Content by Intetics"
-    excerpt: "Intetics, a leading global technology company, published an article on the burning challenges of generative AI, existing AI-generated content detection tools, their current limitations and prospects,"
-    publishedDateTime: 2023-04-27T11:53:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-battle-authenticity-importance-detecting-human-vs-ai-generated-/2023/04/27/9803149.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 5
+      name: Inc
+      domain: inc.com
+    quality: 17
 
 secured: "Z1txc8MeVk73VZ4cPtw03OdjJBE40NTFcQtEdaJv2SGB6gXWJMlw04kgtPsxvtV+m7zZUsM8Ywzto4TO2U5kOF4Q783AgSnv3kh0MH1vE1nO3VCUNuidQlj6/ajC+6n+MgReILDP8KDozto6SdKVLJglYnUvAg/3r9dpF/WMeb57kR7Ggo8pq0+h6xNYL1C3fF6o6EEqhWLTGXbAqFpABsjhTlKa1kiUpiDeuqVwP+ct0Lz7wcdheH+2Sw4aiLq0ix4epqdNfAdIHUAb9yy+DvyJeKZozYfykzhWlPaJF/nnmK6JD3FKD/AF4SB5hIB9UBH1kBlDwa4VkuWsEepz6U7agEjrgXkLJzIACnZFFWI=;JrkLeMuVLFysDHOg+/eHKQ=="
 ---

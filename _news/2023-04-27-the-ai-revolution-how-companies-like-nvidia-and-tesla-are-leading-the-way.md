@@ -7,7 +7,7 @@ originalUrl: "https://moneymorning.com/investing/the-ai-revolution-how-companies
 webUrl: "https://moneymorning.com/investing/the-ai-revolution-how-companies-like-nvidia-and-tesla-are-leading-the-way/"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -26,61 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "How The AI Revolution Is Liberating Workers from the Office"
-    excerpt: "With the advent of generative AI like ChatGPT, we are on the cusp of realizing the full potential of remote and hybrid work by reducing — while not eliminating — the benefits of office visits."
-    publishedDateTime: 2023-04-24T21:00:00Z
-    webUrl: "https://www.entrepreneur.com/growing-a-business/how-the-ai-revolution-is-liberating-workers-from-the-office/450169"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 69
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1682348563-GettyImages-1369567912.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "The dangers of letting AI loose on finance"
-    excerpt: "We must recognise the stability risks — whether over-concentration or digital herding — as well as the benefits"
-    publishedDateTime: 2023-04-27T16:07:00Z
-    webUrl: "https://www.ft.com/content/9bc5e530-ac72-4b4c-9eb1-f5e5c48f34c9"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 54
-    images:
-      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
-        width: 619
-        height: 377
-        isCached: true
-  - title: "Bots and beyond: How the AI revolution is shifting the paradigm for customer experience in smart banking"
-    excerpt: "Financial institutions can improve customer experience and reduce churn with digital services developed on the Microsoft Cloud while staying compliant, maintaining security, and preventing fraud."
-    publishedDateTime: 2023-04-25T15:56:00Z
-    webUrl: "https://www.cio.com/article/474821/bots-and-beyond-how-the-ai-revolution-is-shifting-the-paradigm-for-customer-experience-in-smart-banking.html"
-    ampWebUrl: "https://www.cio.com/article/474821/bots-and-beyond-how-the-ai-revolution-is-shifting-the-paradigm-for-customer-experience-in-smart-banking.html/amp/"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/474821/bots-and-beyond-how-the-ai-revolution-is-shifting-the-paradigm-for-customer-experience-in-smart-banking.html/amp/"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 42
-    images:
-      - url: "https://www.cio.com/wp-content/uploads/2023/04/iStock-1469172094-image-fsi-custom-4-chiewr.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 509
-        isCached: true
-  - title: "Artificial intelligence could revolutionize the workplace"
-    excerpt: "Finance professor Dan Roccato joins FOX6 WakeUp with details."
-    publishedDateTime: 2023-04-28T14:47:00Z
-    webUrl: "https://www.fox6now.com/news/artificial-intelligence-could-revolutionize-the-workplace"
-    ampWebUrl: "https://www.fox6now.com/news/artificial-intelligence-could-revolutionize-the-workplace.amp"
-    cdnAmpWebUrl: "https://www-fox6now-com.cdn.ampproject.org/c/s/www.fox6now.com/news/artificial-intelligence-could-revolutionize-the-workplace.amp"
-    type: article
-    provider:
-      name: fox6now
-      domain: fox6now.com
-    quality: 39
   - title: "The AI revolution is leaving behind Arabic speakers"
     excerpt: "The vast majority of references and big data AI tools such as ChatGPT scan to generate results are in English. This must be addressed if we are to avoid a digital language divide"
     publishedDateTime: 2023-04-28T08:55:00Z
@@ -95,15 +40,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "OneMeta AI launches VerbumCall: The Ultimate AI-driven Mobile Phone Translation Service Revolutionizing Global Communication"
-    excerpt: "OneMeta AI, the pioneering mastermind behind AI-powered language solutions, has unveiled the groundbreaking VerbumCall"
-    publishedDateTime: 2023-04-25T12:04:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-04/58903873-onemeta-ai-launches-verbumcall-the-ultimate-ai-driven-mobile-phone-translation-service-revolutionizing-global-communication-200.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
 
 secured: "/JCriaLhuO6xXPfq/1yxqK1Pa8jor96XrLm62sBhjnwVVD6V0w4vTetOBqKPH5tqmG+nWY6K0Atu64d5POJniyb5xLHxziGO0t3QDakYR8MdstNooxp4bi6CMQ+e7F0pqU/QO1UDnqYxAMWyUYigPERgpEtQ9MKHw9+hUsml/09+o1WAVrA+1g67M3IR5wCxFhwrdIdArlU3NHLWh7YQm1oBAgLOMK4u5GGy/8Hx0I0jUMa/tKai+k49zfnHsyDAsQLUY3hVlCPjk0onB6puF1LtMs4zXlAG8AXd31TeNSCR4bQIZbHD8xho04jhbWKnbmOy9vQCmaYg9qHSZOfbTZ4U30XfJW25Ti3UlgaOm20=;pkEwINjV7Wz1AAPO0nAJxA=="
 ---

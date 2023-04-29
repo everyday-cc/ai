@@ -67,22 +67,6 @@ related:
         width: 1024
         height: 512
         isCached: true
-  - title: "Mark Zuckerberg has become so obsessed with AI that one Wall Street research firm is jesting that Facebook will change its name to MetAI"
-    excerpt: "After a Metaverse spending splurge last year, the company has been buying a lot of Nvidia chips, which are needed to train large AI models."
-    publishedDateTime: 2023-04-24T22:31:00Z
-    webUrl: "https://www.businessinsider.com/mark-zuckerberg-obsessed-with-ai-meta-facebook-change-name-metai-2023-4"
-    ampWebUrl: "https://www.businessinsider.com/mark-zuckerberg-obsessed-with-ai-meta-facebook-change-name-metai-2023-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mark-zuckerberg-obsessed-with-ai-meta-facebook-change-name-metai-2023-4?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 56
-    images:
-      - url: "https://i.insider.com/634dc8cc6bd52700191508cd?width=1200&format=jpeg"
-        width: 931
-        height: 465
-        isCached: true
   - title: "AI-Powered Reels Make People Spend 24% More Time On Instagram: Mark Zuckerberg"
     excerpt: "Mark Zuckerberg, co-founder, executive chairman, and CEO of Meta Platforms (formerly Facebook), has said that since Meta launched TikTok-rival short-video app Reels, AI recommendations have driven a more than 24 percent increase in time spent by users on Instagram."
     publishedDateTime: 2023-04-28T05:03:00Z

@@ -210,15 +210,6 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 34
-  - title: "Generative AI: A paradigm shift in enterprise and startup opportunities"
-    excerpt: "As news cycles eclipse one another about these advancements, it may seem like generative AI sprang out of nowhere for many business and executive leaders. Still, the reality is that these new architectures are built on approaches that have evolved over the past few decades."
-    publishedDateTime: 2023-04-24T19:52:00Z
-    webUrl: "https://www.cio.com/article/474720/generative-ai-a-paradigm-shift-in-enterprise-and-startup-opportunities.html"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 19
   - title: "The rapid rise of generative AI threatens to upend US patent system"
     excerpt: "The flurry of concern has been prompted by the rapid rise of generative AI. Though known mainly from OpenAI’s ChatGPT, the same technology is already being used to design semiconductors and suggest ideas for new molecules that might form the basis of useful drugs."
     publishedDateTime: 2023-04-26T12:00:00Z

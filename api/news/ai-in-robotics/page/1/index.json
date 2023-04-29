@@ -157,7 +157,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-demand-by-2031-2023-04-27",
       "featuredContent": null,
       "highlight": null,
-      "heat": 281,
+      "heat": 301,
       "tags": null,
       "images": [
         {
@@ -210,7 +210,7 @@
       "originalUrl": "https://www.zdnet.com/article/boston-dynamics-robot-dog-can-answer-your-questions-now-thanks-to-chatgpt/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -625,6 +625,83 @@
       ]
     },
     {
+      "path": "_news/2023-04-23-meet-robin-umass-memorials-new-pediatric-robot.md",
+      "title": "Meet Robin, UMass Memorial’s new pediatric robot",
+      "excerpt": "UMass Memorial invited me to \"meet\" Robin, a new robot the hospital brought into the pediatric unit last October. Here what it was like.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/boston/news/2023/04/23/meet-robin-umass-memorial-s-new-pediatric-robot.html",
+      "originalUrl": "https://www.bizjournals.com/boston/news/2023/04/23/meet-robin-umass-memorial-s-new-pediatric-robot.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-23T08:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-22-have-robots-take-care-of-your-cat-when-you-travel.md",
+      "title": "Have Robots Take Care Of Your Cat When You Travel",
+      "excerpt": "If you like to travel, a cat is the perfect pet. They don't need constant walking. They don't need an overabundance of interaction (if they want any), and they don't destroy your house if left alone for a few days.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/anthonykarcz/2023/04/22/have-robots-take-care-of-your-cat-when-you-travel/",
+      "originalUrl": "https://www.forbes.com/sites/anthonykarcz/2023/04/22/have-robots-take-care-of-your-cat-when-you-travel/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-22T08:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-22-how-ai-powered-robots-are-changing-retail.md",
       "title": "How A.I.-powered robots are changing retail",
       "excerpt": "An army of inventory robots is being deployed to help retailers appease angry customers, boost sales and respond to the ongoing worker shortage.",
@@ -768,6 +845,74 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-21-7-mind-bending-agi-movies-to-binge-watch-this-weekend.md",
+      "title": "7 Mind-bending AGI Movies to Binge-watch This Weekend",
+      "excerpt": "Movies on AI may depict an unimaginable future, but as viewers, we can enjoy them for the “science” element of it",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/7-mind-bending-agi-movies-to-binge-watch-this-weekend/",
+      "originalUrl": "https://analyticsindiamag.com/7-mind-bending-agi-movies-to-binge-watch-this-weekend/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-21T04:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-21-science-news-roundup-scientists-identify-mind-body-nexus-in-human-brain-virgin-orbit-blames-dislodged-filter-for-january-launch-failure-and.md",
+      "title": "Science News Roundup: Scientists identify mind-body nexus in human brain; Virgin Orbit blames 'dislodged filter' for January launch failure and more",
+      "excerpt": "The steep drop in fresh capital has left many companies in a vulnerable state, while the failure of Silicon Valley Bank, a leading provider of venture debt, has added to the challenge, a report by venture capital (VC) firm Space Capital said on Thursday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.devdiscourse.com/article/technology/2425050-science-news-roundup-scientists-identify-mind-body-nexus-in-human-brain-virgin-orbit-blames-dislodged-filter-for-january-l",
+      "originalUrl": "https://www.devdiscourse.com/article/technology/2425050-science-news-roundup-scientists-identify-mind-body-nexus-in-human-brain-virgin-orbit-blames-dislodged-filter-for-january-l",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-20T21:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "devdiscourse",
+        "domain": "devdiscourse.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1247,187 +1392,6 @@
         "AI",
         "AI in Robotics",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-the-10-most-evil-rogue-ai-in-movie-and-tv-history.md",
-      "title": "The 10 Most Evil Rogue AI in Movie and TV History",
-      "excerpt": "This feature is part of AI Week. For more stories, including How AI Could Doom Animation and comments from experts like Tim Sweeney, check out our hub. AI is an exciting concept that has been the foundation of many of our greatest sci-fi",
-      "sourceUrl": null,
-      "webUrl": "https://me.ign.com/en/movies/207320/feature/the-10-most-evil-rogue-ai-in-movie-and-tv-history",
-      "originalUrl": "https://me.ign.com/en/movies/207320/feature/the-10-most-evil-rogue-ai-in-movie-and-tv-history",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.ign.com/t/ign_me/feature/t/the-10-mos/the-10-most-evil-rogue-ai-in-movie-and-tv-history_jztd.1200.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-18T11:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IGN",
-        "domain": "ign.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-18-nexcobot-collaborates-with-ecosystem-partners-to-build-first-x86-functional-safety-robot-control-solution.md",
-      "title": "NexCOBOT collaborates with ecosystem partners to build first x86 functional safety robot control solution",
-      "excerpt": "NexCOBOT and its ecosystem partners, will announce the launch of a new functional safety robot control solution in Hannover Messe 2023. NexCOBOT's PC-based robot control platform-SCB100 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitimes.com/news/a20230418PR200/press-release.html&chid=9",
-      "originalUrl": "https://www.digitimes.com/news/a20230418PR200/press-release.html&chid=9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.digitimes.com/newsshow/20230418pr200_files/2_2b.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-18T03:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digi Times",
-        "domain": "digitimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-18-ai-powered-robot-software-market-seeking-excellent-growth-with-datarobot-neurala-intel-uipath.md",
-      "title": "AI-Powered Robot Software Market Seeking Excellent Growth with DataRobot, Neurala, Intel, UiPath",
-      "excerpt": "The AI-Powered Robot Software Market report 2023-2030 Industries are expected to develop at the greatest rate of CAGR",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-powered-robot-software-market-seeking-excellent-growth-with-datarobot-neurala-intel-uipath-2023-04-18",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-powered-robot-software-market-seeking-excellent-growth-with-datarobot-neurala-intel-uipath-2023-04-18",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-18T01:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-18-tric-robotics-offers-farmers-uv-pest-control.md",
-      "title": "Tric Robotics offers farmers UV pest control",
-      "excerpt": "One of Tric Robotics' tractors bathes crops in ultraviolet light. (courtesy photo) San Luis Obispo-based Tric Robotics started in Delaware in 2017 making small, lunchbox-sized robots for police SWAT teams.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pacbiztimes.com/2023/04/17/tric-robotics-offers-farmers-uv-pest-control/",
-      "originalUrl": "https://www.pacbiztimes.com/2023/04/17/tric-robotics-offers-farmers-uv-pest-control/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pacbiztimes.com/wp-content/uploads/2019/11/CHC.jpg",
-          "width": 350,
-          "height": 329,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-17T20:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pacbiztimes.com",
-        "domain": "pacbiztimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

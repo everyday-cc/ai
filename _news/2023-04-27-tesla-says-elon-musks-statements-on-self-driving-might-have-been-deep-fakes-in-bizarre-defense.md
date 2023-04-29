@@ -45,6 +45,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Tesla Lawyers Say Elon Musk's Claims Over Self-Driving Safety Might Just Be Deepfakes"
+    excerpt: "In a bid to avoid Elon Musk being interviewed under oath, Tesla's lawyers have cried 'deepfake' over Autopilot claims he's made in the past."
+    publishedDateTime: 2023-04-29T15:13:00Z
+    webUrl: "https://futurism.com/the-byte/tesla-lawyers-elon-musk-self-driving-deepfake"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 47
+    images:
+      - url: "https://wp-assets.futurism.com/2023/04/tesla-lawyers-elon-musk-self-driving-deepfake.jpg"
+        width: 1200
+        height: 715
+        isCached: true
 
 secured: "kHxQEmke66QSIgaZAjc30OhTb00cYnOqZUZyhwIMsBE1MVApi3foGylZy38n+le/tyQ0oeOBLrbzyweq8aENhBXA4AMWEeyWpBGn8DJl57QFD6wmQfQD7LiJdzmJhbZZlVv2SkhzOS+L9zwADOrkOJSKgkJ7uamlvG0BSH5guyxH1G+PsceJJoh3xgAGaUGjMWKAFJ0QvsFJZnS3ySrHNrfVuErzWVmAK8dLjTAEcXr4oBlRkO7GVifU6n/QA1MAwGeVFzd1JMU9jnlKr7Wyexe7NZLp8upyv0v1gJCkLzDGf6K4/JZm4ovztmRprAeGvPUJCJ44Y/efhPd4JEJ99Pgsawq+E7hFlAaqNia41wld/ToUGl+MD6arDW7Ubj7Iv8/QD+Y79mAgGYbZUSn1dcIjHmr0AWkAxonAbkXqe7p80UofZLKw4x0ws7BnhzDtwEfp+bzN2Y/9jwGR2Jg2G1f+KQz2xVVNxLgTBSTMjJKrqDrEvK5l+JXAwJ4nO8Lly6DPdByZZOLBh4XVcj+pHg==;rvux4m0T496sf0Go4fa6jg=="
 ---

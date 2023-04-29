@@ -169,6 +169,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Data and AI Ethics Market Size 2023 with SWOT and PESTAL Analysis | Forecast to 2030"
+    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
+    publishedDateTime: 2023-04-28T10:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-size-2023-with-swot-and-pestal-analysis-forecast-to-2030-2023-04-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
   - title: "2023-2030 Automated Driving System Market Future Scope and Growth Prospects"
     excerpt: "Apr 27, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The “Automated Driving System"
     publishedDateTime: 2023-04-27T14:22:00Z

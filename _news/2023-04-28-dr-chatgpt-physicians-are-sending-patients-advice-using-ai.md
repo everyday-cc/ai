@@ -279,6 +279,20 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "ChatGPT is the Most In-Demand Workplace Skill in Q1 2023"
+    excerpt: "Udemy (Nasdaq: UDMY), a company dedicated to improving lives through online learning, today released its Q1 2023 Workplace Learning Index, a quarterly report highlighting skills that are growing in demand among today’s professionals as they seek to keep pace with innovation and help support their company’s continued growth."
+    publishedDateTime: 2023-04-27T15:11:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/04/27/9803670.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 24
+    images:
+      - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
+        width: 550
+        height: 353
+        isCached: true
   - title: "Hugging Face Releases Free ChatGPT Clone: HuggingChat"
     excerpt: "Hugging Face, the machine learning community and AI tools platform, announced the release of HuggingChat, an open source ChatGPT clone that anyone can use or download for themselves. Hugging Face is a company and an AI community. It provides access to free open source tools for developing machine learning and AI apps."
     publishedDateTime: 2023-04-27T09:17:00Z

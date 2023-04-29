@@ -280,6 +280,20 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "ChatGPT is the Most In-Demand Workplace Skill in Q1 2023"
+    excerpt: "Udemy (Nasdaq: UDMY), a company dedicated to improving lives through online learning, today released its Q1 2023 Workplace Learning Index, a quarterly report highlighting skills that are growing in demand among today’s professionals as they seek to keep pace with innovation and help support their company’s continued growth."
+    publishedDateTime: 2023-04-27T15:11:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/04/27/9803670.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 24
+    images:
+      - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
+        width: 550
+        height: 353
+        isCached: true
   - title: "Hugging Face Releases Free ChatGPT Clone: HuggingChat"
     excerpt: "Hugging Face, the machine learning community and AI tools platform, announced the release of HuggingChat, an open source ChatGPT clone that anyone can use or download for themselves. Hugging Face is a company and an AI community. It provides access to free open source tools for developing machine learning and AI apps."
     publishedDateTime: 2023-04-27T09:17:00Z
@@ -318,6 +332,6 @@ related:
       domain: benzinga.com
     quality: 0
 
-secured: "VxWi32q2SnT8+OvPXu56O3mnwDpljU/DumuK8s35E1Ml3TFPVwlCn3I9HF8NYnKe0KDfCZ17I9EOVFfJBh2KCDUFww42W8uWSvGR27MzK/oYV5bW0bAme8Art8J4FSYZQy9P9IAvuLRPCTR+JvrzOuzArDI2BEIi7nAxttpLtaH6E0bhWoX09kISDLCpidgmxAJ5do+lcsIxN1PX5jb6E40IkgoGdvjt6A2KzIXQqwOuMN+sdUhC71kZKHttgPHyOdYgGkXF8LAt4SkBuiveJtz2sEIR0BXhqPbXbnscODP3U4GF+E5NGmuvwIN44is3MwMlyg7i4tJx0+GEJAcMGzFQWSyLTuqd33Sa1RgU900=;IOhaUsbQy7T1sOGwSPdRew=="
+secured: "OSXJPq21945GKNUCdQVJMJGqrlM93AfupgzRq6lzJouHDFUFZpioKad3gGgLdE6CEIv1IL6WY4XaQ2b9YFIOnilStFuTCf1dsA1f25qiAXT8nf3UQHy+3wJUuMnfRy96HM5ox2Qk1H3Q8e9eJzOEQQRyNVoES/lstwTZkadV/U6HLd+4NkEGJKEQ3P0KkHCH8NnHDo+ZhXSbZa3LBG/G+1o1k1RosOLJQOxFGRnstUnr5lr1iXdeUgNcu5+2fPSlusOswp0BAGCFBbIIc3jZfse8aiqWR8Q+I680z5HHhVdNmxkX9NTXp95iaO0HH9xHIKDLHD+Uwocvh76G+jPK7hgirQSCrrRoEe5WO+0fiSZjhWpq4WdhPCvmMFGiLCuGGUfHXZri/eXibyYQUjvyS96kGbGi9IiekQz1a+LBQAhFagVA696SNFnP2/GL0Tv0fhrujfTjki5f5DASaYWxqN8deNPZI3VRIhN0GF/JEWiEPILYTe5fpsxS7nq4fLE7oGNBgbk6SIXhpKr8BQilRA==;dutGtNNFUuutLZ7joc1Ngw=="
 ---
 

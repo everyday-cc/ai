@@ -67,6 +67,15 @@ related:
         width: 765
         height: 446
         isCached: true
+  - title: "The Guide #84: Why movies made by artificial intelligence won’t be the future of film"
+    excerpt: "Surely we go to the cinema to be jolted and discomfited by someone else’s ideas – not to see ourselves in easy meetcute rom-coms with Marilyn Monroe"
+    publishedDateTime: 2023-04-28T10:26:00Z
+    webUrl: "https://www.theguardian.com/culture/2023/apr/28/the-guide-ai-film-joe-russo?ref=aioftheday.com"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 10
 
 secured: "ZdKPHvTJGQhzk4kfJNXM9+oIQLpKUQjTXJSHArBmxkbUVZZBCjggSluSs+r32sNCzkVBKUVvySa2BN1r2I0MF9VZ9qfJzILFKI7jkVjGj8C1DbVCpB4yTAZ4XAEZVuH2XOdssI5rSlgiiH1CYefmp7G5wWKg9oAJ8+d6MC55IGt00LNLW9s9x/qZ5/laRlwhBkpeRx6CkZb7MFwNf+fG/hmsvUnMOYdGlGyBJpeYj0dVniahI1iWBJ22fXSwZxn8nQrdCZLiV6HnicINrzBZL7Aa68jH9KcTJaNvUMXKN/qD83KFFh4F3RLbTiNdrEE8EPJFFifvgsJPn9vJa5jNgYIf+qdDQf9LDkiZ2x0eTQQ7Y0K4M3ngwyBxkHE2YGW8wLHSkXbbCM9Z3OZfbB8MCRBT9DNeP0pfbo1wwdQEvutL1xa4Ef4anUzTxMca9CZ2ylrAzv5JQglRyMp9aoJ5oroMiwLwS1GuZi/T6IOwTZrBAOEJEwD7lEyIzwD8GHdhmcbjj760i8Xus9Wqbc44mw==;bJms9U1M2Lg07or5bI3ivw=="
 ---

@@ -57,6 +57,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Viral: ChatGPT-AI, Google tech, gives voice to Boston Dynamics’ robot dog"
+    excerpt: "A team of programmers has outfitted Boston Dynamics' robot dog, Spot, with OpenAI's ChatGPT and Google's Text-to-Speech speech modulation in a viral video."
+    publishedDateTime: 2023-04-29T12:21:00Z
+    webUrl: "https://interestingengineering.com/innovation/boston-dynamics-robot-dog-thinks-with-chatgpt-google-tech"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 33
 
 secured: "KHBkiikB8BHZSA13uB2PjoVDPJ9R+gOggaaCJEEiWMRECoVCFpA7Da30bhMRLtiAM/ohuRTtMOaVY9/fgq/ZZCkIxPO96soRg+c9e1bidxvZR4BrLIJ+rD2nXHdrrIuPjInWHzSnPhOxfmKOSRgZTQ2pE1+A4xz7t6MD8/s0hdRz8+sG7r1p8FNGonSdbN72DaeKYazT5x83GfmHXWlTphFo4vPLW5k42XpNsXmxuea6SksWiOdrPkaAjR/MWra3HfzUlLN4cjZTn9vc0SaaFjMxfVgYuiP5wA7B81jTAHMF696VkHP2ToTLQBuRKocdbM9fR3aqh/Flwybx4+1WZOZJvEGhgFnM4HeywbxTrB8Pz96FQKyLmmnxRGxO2a3Jr7vpVG4Eb4XMOTCYxii8EdHUx95BQAHW3NocSTwosTjqzLLGSlnJEO4i8KCKdstiongo3rbnuXLabNwYt0X1SMTAu/A73PijNWyNTpTmwf+xhxPqf4gbMpTxl7W0Ezm4jCAwxtuBSlNtUsbL8875ZA==;r+SiEBBAhQ/YjHVIhcZsyQ=="
 ---

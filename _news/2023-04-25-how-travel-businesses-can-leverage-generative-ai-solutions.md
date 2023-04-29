@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/how-travel-businesses-generative-ai-so
 webUrl: "https://thenextweb.com/news/how-travel-businesses-generative-ai-solutions"
 type: article
 quality: 67
-heat: 77
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,36 @@ images:
     isCached: true
 
 related:
+  - title: "Jeeves.Ai Launches Revolutionary AI-Powered Content Creation Tool for Businesses of All Sizes"
+    excerpt: "Today marks the launch of Jeeves.Ai, an AI startup dedicated to making artificial intelligence accessible to the masses. The company, seeded by a team of"
+    publishedDateTime: 2023-04-28T15:31:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/04/32086787/jeeves-ai-launches-revolutionary-ai-powered-content-creation-tool-for-businesses-of-all-sizes"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32086787"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32086787"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 46
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "EU proposes new copyright rules for generative AI"
+    excerpt: "Shortly after signing the letter, the Financial Times reported Musk was planning to launch his own startup to rival OpenAI. ALSO READ: Elon Musk plans AI startup to rival OpenAI, Financial Times reports"
+    publishedDateTime: 2023-04-28T01:55:00Z
+    webUrl: "https://www.asiaone.com/digital/eu-proposes-new-copyright-rules-generative-ai"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 37
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Apr2023/20230428_EUAI_Reuters.jpg?itok=7hZy3u6s"
+        width: 848
+        height: 601
+        isCached: true
   - title: "5 Lessons in Leveraging AI in Your Business from this Tax Startup"
     excerpt: "Tax season may have come and gone, but it's never too early to start planning for growth, if you're an accounting firm. Moreoever, since you haven't been under a rock, you must have heard of ChatGPT by now - but if you're a professional services firm, you may not have yet considered the implications for your business."
     publishedDateTime: 2023-04-26T05:13:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2023-04-versatile-deep-learning-accurate-growt
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-04-versatile-deep-learning-accurate-growth.amp"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 660
     height: 326
     isCached: true
-
-related:
-  - title: "New machine learning framework for more accurate plant disease diagnosis"
-    excerpt: "Plant diseases pose a significant threat to nations across the globe, owing to the financial burden they impose and the impact they have on food security. Healthy crops sustain millions of livelihoods,"
-    publishedDateTime: 2023-04-24T20:46:00Z
-    webUrl: "https://phys.org/news/2023-04-machine-framework-accurate-disease-diagnosis.html"
-    ampWebUrl: "https://phys.org/news/2023-04-machine-framework-accurate-disease-diagnosis.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-04-machine-framework-accurate-disease-diagnosis.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 58
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/new-machine-learning-f.jpg"
-        width: 660
-        height: 424
-        isCached: true
 
 secured: "qk9f6wDQtnxjmfhMpOkhmFlPKPPTvhEiVLjUcQ9wTB2AUBydWgCIShuwrGZokykV/w2S+C761X33Cz6JjOO2eybkqI+42Owj610gcR3vzCpOg5NgBa6zWNxC12he/mZT/uq8dr6G0+fU7kGmCay74GogBkQWTRJMJvtmCJFJCX1rc2b7fwqyrOLPskRk4wskurX/+3QjQR2YAtT5RZa/jIzdBF+4qKc5Ojog7VeDjCkKHH1+FXxQf1AliUEdJs89gwJ4aqjbGfaeod5PFRgJdcnY8OxzZMq1SvAZ+8B/TO5DvJrKrYSo0VUQPcNEjp6aBY1XV4f3WF1WdRbWzDcfkwA+mBKD8/wKcKTggl228TU=;618ERjYoGI6KCacgtfwj8A=="
 ---

@@ -42,6 +42,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Artificial intelligence could revolutionize the workplace"
+    excerpt: "Finance professor Dan Roccato joins FOX6 WakeUp with details."
+    publishedDateTime: 2023-04-28T14:47:00Z
+    webUrl: "https://www.fox6now.com/news/artificial-intelligence-could-revolutionize-the-workplace"
+    ampWebUrl: "https://www.fox6now.com/news/artificial-intelligence-could-revolutionize-the-workplace.amp"
+    cdnAmpWebUrl: "https://www-fox6now-com.cdn.ampproject.org/c/s/www.fox6now.com/news/artificial-intelligence-could-revolutionize-the-workplace.amp"
+    type: article
+    provider:
+      name: fox6now
+      domain: fox6now.com
+    quality: 39
 
 secured: "gNrXp2QNHwG5+uRXBce5Gf8kaLk4F4yW5IWF4T2B/uwZha4XLAqw17xMDyLo5V3utbg1/fNlrh1T0Kn6SZ+/e19YuJYe7prmHDaDthrZ6L6qFIhLEYMx+hz/u/+l88+nUGcOhJbZTI2Luksz/ec/+6XoPWbq9knd3tffLbbistKlGmRrZsIjZlTqBdUtpfJmin4ShepbsubX3hPEzThFiObqw7tmrfGngdOiqQy8BXs+G6XvX3hSFbcuVigr8FzhAtQ+5E6UU375bSheU1zmhM2/TcAKUJOseRs25Ygv9jd+zma+J9EAI6pyCb2/aWG5Vguk8vHOcMtiY/hQybtqJ29C2Vb9LKrPzJlJMqyIYkQ=;jgnrrc4GPM6htXahwW1KRw=="
 ---

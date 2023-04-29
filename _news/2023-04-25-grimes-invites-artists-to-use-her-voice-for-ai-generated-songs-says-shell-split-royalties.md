@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Grimes says anyone can AI-generate her voice “without penalty”"
-    excerpt: "Feel free to use my voice without penalty. I have no label and no legal bindings. pic.twitter.com/KIY60B5uqt Grimes is no stranger to the AI and tech cultural scene, having written music about AI and tweeted about the subject frequently."
-    publishedDateTime: 2023-04-24T20:49:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/04/grimes-says-anyone-can-ai-generate-her-voice-without-penalty/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/04/grimes-says-anyone-can-ai-generate-her-voice-without-penalty/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/04/grimes-says-anyone-can-ai-generate-her-voice-without-penalty/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 87
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/04/grimes_hero_2-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Grimes says anyone can use her voice for AI-generated songs"
     excerpt: "Grimes has invited musicians to clone her voice using Artificial Intelligence in order to create new songs. The pop singer, whose real name is Claire Boucher, said she would \"split 50% royalties on any successful AI-generated song that uses my voice\"."
     publishedDateTime: 2023-04-25T10:15:00Z
@@ -57,6 +41,52 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/CE67/production/_129493825_gettyimages-523637192.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Kinetix launches text-to-animation AI for new era in user-generated content"
+    excerpt: "Kinetix has announced Text2Emotes, a generative AI technology that heralds a new era of user-generated gaming content (UGC)."
+    publishedDateTime: 2023-04-26T07:59:00Z
+    webUrl: "https://venturebeat.com/games/kinetix-launches-text-to-animation-ai-for-new-era-in-user-generated-content/"
+    ampWebUrl: "https://venturebeat.com/games/kinetix-launches-text-to-animation-ai-for-new-era-in-user-generated-content/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/kinetix-launches-text-to-animation-ai-for-new-era-in-user-generated-content/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/04/kinetix-text2emote.jpg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Grimes invites people to use her voice in AI songs"
+    excerpt: "Canadian singer says she likes the ideas of ‘killing copyright’, as music industry scrambles to catch up with implications of AI-generated tracks"
+    publishedDateTime: 2023-04-26T00:56:00Z
+    webUrl: "https://www.theguardian.com/music/2023/apr/26/grimes-invites-people-to-use-her-voice-in-ai-songs"
+    ampWebUrl: "https://amp.theguardian.com/music/2023/apr/26/grimes-invites-people-to-use-her-voice-in-ai-songs"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/music/2023/apr/26/grimes-invites-people-to-use-her-voice-in-ai-songs"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/cb37b09d57ddbe47d7ade8db1fc03b70dcc16f12/17_185_4013_2408/master/4013.jpg?width=620&quality=85&auto=format&fit=max&s=d790ca43793bad79236e3c81a7774458"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "The Drop: Grimes chimes in on AI-generated music conversation"
+    excerpt: "Plus, the chaos in Atlanta when State Farm Arena was double booked for Game 6 of the NHL playoffs and a Janet Jackson concert, and the Foo Fighters launch their comeback with a new song."
+    publishedDateTime: 2023-04-28T16:04:00Z
+    webUrl: "https://abcnews.go.com/Entertainment/video/drop-grimes-chimes-ai-generated-music-conversation-98936898"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 37
+    images:
+      - url: "https://s.abcnews.com/images/Entertainment/230428_abcnl_update_9am_drop_hpMain_16x9_608.jpg"
+        width: 608
+        height: 342
         isCached: true
 
 secured: "0cBEQz0eZ2flUWeXLMgUAausSi1P+Wgzs6PmxJ1mRhAcpPPXozgDYFmzWugZl0MgFzkPTfxjUzM/oy8rc2/uu0CgpR+T39qsK7ElRLxJicKOJwakLAErTE5NOttcFrqp0Gv5482sMJbxOAuZZgCD5UOKRpH0adnqxuRkCaeNJ5LnIPSinqoo8jkUJ9w5WU9tQYD+LCA2ij5hzfbgDjRPQ/ixcujYQoNgJZn3etTjkgw737UUjVtlpT1K/+kfmMPRNOixxzopuI5JDy6UVSFYALd8dh/QvSDaQCVRW8ucqGDNwQdDcLx5X7RhcF7TSwCBAFnafR+yCzZ0gtruZhRRiVOwtClyPOw0uoiSpLlecr0XrEduvqeEM6TfT6rDsGC18LZMYtERuqBcAPppvSHuMBB5FWFYBOOGkqxQwTcCB8+vZEcefLs1U6LBHSawdeyY2IuvbYMgxW3tGYebWovwdny3Yid2rIDse7Cag/Eeo7tZaGjr89z0ENB22iQ3KrS7eNzXL1K5+nrf9dFE6MfGKg==;HPnYD+kj3MkbpRnyQGdH9w=="

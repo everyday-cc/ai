@@ -25,17 +25,6 @@ images:
     height: 900
     isCached: true
 
-related:
-  - title: "Genetic Risk Outweighs Age: Machine Learning Models Rank Predictive Risks for Alzheimer’s Disease"
-    excerpt: "Research indicates that genetic predisposition supersedes age as a risk factor in adults above 65. According to a recent study, once individuals reach the age of 65, which is the threshold for the onset of Alzheimer's disease,"
-    publishedDateTime: 2023-04-24T22:42:00Z
-    webUrl: "https://scitechdaily.com/genetic-risk-outweighs-age-machine-learning-models-rank-predictive-risks-for-alzheimers-disease/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 6
-
 secured: "8R9L79sgBY1XjQjPx6EY6DkpOGIkpNTGc/0CgzUsw7fcv3t6lpRP85cUp33kvzZA5+1V4lTe1dFmerwSNDuE1q10zN7v2XsWklZvprlb6HayV1BVAznGdWflk1qL+/IiEjhgXar4GmFB4o6HTBuxqFrR1JiPNDLqcqCUcYtqKLighdpBUsMwwS2O6UGN+a4q+32M12x73OqQGTFtgz3Uq1ZWYH07F66kQzovnxqxcH3GEdX7puTf1DnMqMAtmHntWdPNWYDfjMyXiO4RrmSOupZ4CKeBYdMuzh5phk91RetqC5oBASSJ+Vo3kFyOu9C5ZC5Zt38ykGVJLvYlQrznXZnzPtkjztI3+h+kAMknNl6s2HGN5ZSVEhTIPRtHWlNab2h9t10sC5NXq/aSeu9O7yU34I5dXKLdjuWnhvJ9r+UFbtfZL/JeAqT/G6VoXFQE1Nu3e3c3MZJ9k4TwRaNenBOVYYq6Nb62W51bgDxsDM7D1GhiKyUSexc2Bc2301KKkt6CMQkoNmUHy3nk9xHraw==;hOSVUz9AP06isy15m+0qQQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cio.com/article/474821/bots-and-beyond-how-the-ai-revolu
 cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/474821/bots-and-beyond-how-the-ai-revolution-is-shifting-the-paradigm-for-customer-experience-in-smart-banking.html/amp/"
 type: article
 quality: 42
-heat: -1
+heat: 42
 published: false
 
 provider:
@@ -27,82 +27,34 @@ images:
     isCached: true
 
 related:
-  - title: "How The AI Revolution Is Liberating Workers from the Office"
-    excerpt: "With the advent of generative AI like ChatGPT, we are on the cusp of realizing the full potential of remote and hybrid work by reducing — while not eliminating — the benefits of office visits."
-    publishedDateTime: 2023-04-24T21:00:00Z
-    webUrl: "https://www.entrepreneur.com/growing-a-business/how-the-ai-revolution-is-liberating-workers-from-the-office/450169"
+  - title: "Salesforce and FPT IS to elevate digital experience for customers"
+    excerpt: "FPT Information System (FPT IS) and Salesforce have been providing strategic solutions for the finance and banking industry in Vietnam, helping to shape the digital experience for customers."
+    publishedDateTime: 2023-04-26T02:31:00Z
+    webUrl: "https://vir.com.vn/salesforce-and-fpt-is-to-elevate-digital-experience-for-customers-101411.html"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 69
+      name: Vietnam Investment Reviev
+      domain: vir.com.vn
+    quality: 24
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1682348563-GettyImages-1369567912.jpg"
-        width: 2000
-        height: 1333
+      - url: "https://vir.com.vn/stores/news_dataimages/2023/042023/25/12/in_social/salesforce-and-fpt-is-to-elevate-digital-experience-for-financial-customers-20230425121738.jpg?randTime=1682481946"
+        width: 600
+        height: 400
         isCached: true
-  - title: "The AI Revolution: How Companies like Nvidia and Tesla Are Leading the Way"
-    excerpt: "Two that come to mind as industry leaders are Nvidia (NASDAQ: NVDA) and Tesla (NASDAQ: TSLA). If you want a litmus test to see how a company utilizes this technology, compare it to these two leaders and see how it stacks up."
-    publishedDateTime: 2023-04-27T11:25:00Z
-    webUrl: "https://moneymorning.com/investing/the-ai-revolution-how-companies-like-nvidia-and-tesla-are-leading-the-way/"
+  - title: "Smart Medicine: Artificial Intelligence is Shaping Drug Discovery and Development in Ways Never Once Imagined"
+    excerpt: "Traditionally, pharmaceutical companies have been slow to adopt these newer technologies, instead relying on well-established and proven - but usually complex - manufacturing processes. However, the time to begin investing in – and exploring - AI,"
+    publishedDateTime: 2023-04-25T20:55:00Z
+    webUrl: "https://medcitynews.com/2023/04/smart-medicine-artificial-intelligence-is-shaping-drug-discovery-and-development-in-ways-never-once-imagined/"
     type: article
     provider:
-      name: Money Morning
-      domain: moneymorning.com
-    quality: 54
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 20
     images:
-      - url: "https://moneymorning.com/wp-content/blogs.dir/1/files/2023/04/motley-fool-mark.png"
-        width: 940
-        height: 940
+      - url: "https://medcitynews.com/uploads/2022/06/GettyImages-1209662272.jpg"
+        width: 788
+        height: 443
         isCached: true
-  - title: "The dangers of letting AI loose on finance"
-    excerpt: "We must recognise the stability risks — whether over-concentration or digital herding — as well as the benefits"
-    publishedDateTime: 2023-04-27T16:07:00Z
-    webUrl: "https://www.ft.com/content/9bc5e530-ac72-4b4c-9eb1-f5e5c48f34c9"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 54
-    images:
-      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
-        width: 619
-        height: 377
-        isCached: true
-  - title: "Artificial intelligence could revolutionize the workplace"
-    excerpt: "Finance professor Dan Roccato joins FOX6 WakeUp with details."
-    publishedDateTime: 2023-04-28T14:47:00Z
-    webUrl: "https://www.fox6now.com/news/artificial-intelligence-could-revolutionize-the-workplace"
-    ampWebUrl: "https://www.fox6now.com/news/artificial-intelligence-could-revolutionize-the-workplace.amp"
-    cdnAmpWebUrl: "https://www-fox6now-com.cdn.ampproject.org/c/s/www.fox6now.com/news/artificial-intelligence-could-revolutionize-the-workplace.amp"
-    type: article
-    provider:
-      name: fox6now
-      domain: fox6now.com
-    quality: 39
-  - title: "The AI revolution is leaving behind Arabic speakers"
-    excerpt: "The vast majority of references and big data AI tools such as ChatGPT scan to generate results are in English. This must be addressed if we are to avoid a digital language divide"
-    publishedDateTime: 2023-04-28T08:55:00Z
-    webUrl: "https://www.middleeasteye.net/opinion/al-revolution-arabic-speakers-left-behind"
-    type: article
-    provider:
-      name: Middle East Eye
-      domain: middleeasteye.net
-    quality: 39
-    images:
-      - url: "http://www.middleeasteye.net/sites/default/files/images-story/chatGPT-IA-%202023-afp.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "OneMeta AI launches VerbumCall: The Ultimate AI-driven Mobile Phone Translation Service Revolutionizing Global Communication"
-    excerpt: "OneMeta AI, the pioneering mastermind behind AI-powered language solutions, has unveiled the groundbreaking VerbumCall"
-    publishedDateTime: 2023-04-25T12:04:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-04/58903873-onemeta-ai-launches-verbumcall-the-ultimate-ai-driven-mobile-phone-translation-service-revolutionizing-global-communication-200.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
 
 secured: "bqCdp02fOLumgYIBsW3YMxxgn9dcvKtifED24cYenY+43G7Wyn8zZH3OXPXQ/qNcGcOoUx9Swp+POcUjFaAkOiEmjLjJV4A8PHl/pxeFAlqOj36lbtvqUrFPxMCLQUJKNd2bbv1OsAZrkORrhoj5KBRpFvWX345AVuK/O1VW0DYo/7cuO5c6kdXvGZfqhiqAinatgs+F21WFvqUabcec5wejXpSU87OyVxmFZCsW0+1vSoA2rRrVsd5Jtnh3gTjEcKozGDBGd/3GPk2g8xEeXTx8hP7X9azTEuz/MhWX4lvn5rLV+ZHExqiWLv5W9UsWk76oh35d63QaVh7227G4EZUGjH33LdblAjqKxc1OWxvK0VsYjD+LKfm25e3goq7DEFhrbJJ46pCiXEQJewvTWwAmfmhiqWJXOzqlinn9aXLnqmBR8MNVfFC6+eOpOEqrXz1MWl/fHXWOp60kEFTz+4O+KEk8amnXjtmDJlH0GlVyRPawJYlxPm9asHDSk/fBwCPItGqpz4XlJszXxXLZdg==;8DcP9H0C8jbEtN+vdqfFOw=="
 ---

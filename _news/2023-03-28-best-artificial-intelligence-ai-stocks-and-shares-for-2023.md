@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/in/wp-content/uploads/2023/03/pexels-alex-knight-2599244-1-scaled.jpg"

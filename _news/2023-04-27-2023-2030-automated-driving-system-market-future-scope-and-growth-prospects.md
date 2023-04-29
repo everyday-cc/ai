@@ -169,6 +169,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Data and AI Ethics Market Size 2023 with SWOT and PESTAL Analysis | Forecast to 2030"
+    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
+    publishedDateTime: 2023-04-28T10:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-size-2023-with-swot-and-pestal-analysis-forecast-to-2030-2023-04-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
   - title: "Self-Driving Cars Market: Key Players and Growth Prospects for 2030"
     excerpt: "Get a sample PDF of the report at -  The Self-Driving Cars market has witnessed growth from USD million to USD million from 2017 to 2022. With the CAGR, this market is estimated to reach USD million in 2029."
     publishedDateTime: 2023-04-28T16:55:00Z

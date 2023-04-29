@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/global-development/2023/apr/25/human-val
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/global-development/2023/apr/25/human-values-as-well-as-ai-must-be-at-the-core-of-the-future-of-work-chatgtp"
 type: article
 quality: 57
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -71,6 +71,15 @@ related:
       name: Couriermail
       domain: news.com.au
     quality: 39
+  - title: "The Guide #84: Why movies made by artificial intelligence won’t be the future of film"
+    excerpt: "Surely we go to the cinema to be jolted and discomfited by someone else’s ideas – not to see ourselves in easy meetcute rom-coms with Marilyn Monroe"
+    publishedDateTime: 2023-04-28T10:26:00Z
+    webUrl: "https://www.theguardian.com/culture/2023/apr/28/the-guide-ai-film-joe-russo?ref=aioftheday.com"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 10
 
 secured: "Yzw2ADBacRcVkCs6/wYGTJ2wmo0mLT/ANjVWA/Z7bN6a+6K40froHV172ibzLay2gw2CLMEtztTyOXksntUJFnwPrVbrc+PLE5MKBUeQLfCjXBDXbUySfFUzmmzHxT/QPXOkXtMSAGFwhGz6QCWU4lhdNBLCefKBHfAAA+qGVJpqEgayNLCgEkafZjSDM0S7ezIkU1X/EUDWizTwI1X+TnAja/W8b1B24YqCs2SVO8sx6UW4+XVOQtqyTIJShZXkbJBwWDDpLfErvlZZ5TRGl3+4p+GB5EYBY9CJ1AwfTHNFj7KycMzSkE0H9uBsrJvbNR/x5fezATWWFsjDkXCOa0uOloYBUl/hrtdRMrSme1EapJfFTQBt++o8Xj95oubqxHr4DypMG9s/iOq10Q+rSToBH7qzrSSXPVeLpwrYhiqDhiU9sTVnMgihxaa8WAC8GPMFGmq1wptUWpjM8dppug3sNfqFW8FezYTKWzr/CGDxRksnQm52xC4bpM7EkDU088BBzyf0Bt87lrfYQUhV8Q==;nMIQ9vqcDOP4++xiFJVIsg=="
 ---

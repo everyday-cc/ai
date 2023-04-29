@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/nsa-rob-joyce-chatgpt-security/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/nsa-rob-joyce-chatgpt-security/amp"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://images.wsj.net/im-770952/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Cybersecurity meets AI: Augmenting and accelerating humans"
+    excerpt: "AI in cybersecurity must be collaborative, with humans and AI improving efficiency and efficacy over what either could do independently."
+    publishedDateTime: 2023-04-29T15:20:00Z
+    webUrl: "https://venturebeat.com/ai/cybersecurity-meets-ai-augmenting-and-accelerating-humans/"
+    ampWebUrl: "https://venturebeat.com/ai/cybersecurity-meets-ai-augmenting-and-accelerating-humans/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/cybersecurity-meets-ai-augmenting-and-accelerating-humans/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/04/annevb_Cybersecurity_meets_artificial_intelligence_AI_making_se_980107ce-9d5e-47af-9002-48f47fc5a493.png?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
   - title: "AI Will Take Many Cybersecurity Jobs, But It's Not a Complete Disaster"
     excerpt: "AI will force some big changes in the cybersecurity job market, but Rohit Ghai, CEO of RSA Security, tells RSAC 2023 attendees that he's hopeful AI tools and human workers can coexist."

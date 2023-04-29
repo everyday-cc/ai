@@ -23,22 +23,6 @@ images:
     height: 675
     isCached: true
 
-related:
-  - title: "Square Enix releases \"AI tech preview\" that instantly becomes its worst-rated game on Steam"
-    excerpt: "Square Enix has launched its AI-driven reboot of arguably its most influential game, but it's an unbelievable failure as both a classic revival and an AI experiment. Last week, the publisher announced the impending release of AI Tech Preview: The Portopia Serial Murder Case."
-    publishedDateTime: 2023-04-24T21:47:00Z
-    webUrl: "https://www.gamesradar.com/square-enix-releases-ai-tech-preview-that-instantly-becomes-its-worst-rated-game-on-steam/"
-    type: article
-    provider:
-      name: GamesRadar+
-      domain: gamesradar.com
-    quality: 29
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/u63xfymtM8rKfKYUsRoMEN-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-
 secured: "FcZoRUKKIgmZ9oARi+wKxwkWUgPppZgJ7IdcLuQycykxMlAZEmsp6WYmYwLO9H2uAs0+YqKwZTRdYmvEY+WQzWN3bx7WJxmVCnHEAMf/4VB9qDDWZIJpHXklwAXan39d9siPJZdKinotxOIn9Zz8Qy9eFHa+zYUbOcvWQZ7ClFeTCl/IOcbwac+XHXFsDitlv6B9puEGRNeS/Vddx9jLOKJxeepPbhFFAtWQwhARARcvzMAKZkH7Qx1GN+oHPPxrzm2BKNaNFNopJn53jiixuFMIBUyA+g9pwm2zbvaFyOl2sZrjanvVaczosMWNaJA4njt5NYcaauCk5j+ie8eF1a3m8kUggazqtGvDdxfRBQ45d8VRg88zt7Pex2XDyngEA41TlstBf3utXUlwMODxl7yXSnWWNHpBW/TVCHuWgTzvG/vwt5LYQrq2L6s3pr2Gl0MHJONt0Tqj3SGkvciu70Tf2W+vw/WOxxeLVslT7Byhk5oLcLHBsyB4Zw+KZvPQLGGUvEVQ/E+HNhApe54Xvg==;r1wZdrtYLGntm1JctNpSag=="
 ---
 

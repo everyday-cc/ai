@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/games/kinetix-launches-text-to-animation-ai-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/kinetix-launches-text-to-animation-ai-for-new-era-in-user-generated-content/amp/"
 type: article
 quality: 87
-heat: 137
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -31,73 +31,68 @@ images:
     isCached: true
 
 related:
-  - title: "Jeeves.Ai Launches Revolutionary AI-Powered Content Creation Tool for Businesses of All Sizes"
-    excerpt: "Today marks the launch of Jeeves.Ai, an AI startup dedicated to making artificial intelligence accessible to the masses. The company, seeded by a team of"
-    publishedDateTime: 2023-04-28T15:31:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/04/32086787/jeeves-ai-launches-revolutionary-ai-powered-content-creation-tool-for-businesses-of-all-sizes"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32086787"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32086787"
+  - title: "Grimes says anyone can use her voice for AI-generated songs"
+    excerpt: "Grimes has invited musicians to clone her voice using Artificial Intelligence in order to create new songs. The pop singer, whose real name is Claire Boucher, said she would \"split 50% royalties on any successful AI-generated song that uses my voice\"."
+    publishedDateTime: 2023-04-25T10:15:00Z
+    webUrl: "https://www.bbc.com/news/entertainment-arts-65385382?at_campaign_type=owned&at_ptr_name=twitter&at_format=link&at_link_origin=BBCWorld&at_link_id=6A68CC54-E352-11ED-B5C7-E39179448730&at_link_type=web_link&at_bbc_team=editorial"
+    ampWebUrl: "https://www.bbc.com/news/entertainment-arts-65385382.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/entertainment-arts-65385382.amp"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 46
+      name: BBC
+      domain: bbc.com
+    quality: 87
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/CE67/production/_129493825_gettyimages-523637192.jpg"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "Interprefy Launches Next-Generation AI Speech Translator for Events"
-    excerpt: "M ultilingual meeting technology and services provider Interprefy unveiled Interprefy Aivia, the world’s first advanced automated speech translation service for online and live"
-    publishedDateTime: 2023-04-28T21:15:00Z
-    webUrl: "https://www.tsnn.com/news/interprefy-launches-nextgeneration-ai-speech-translator-events"
+  - title: "Grimes invites people to use her voice in AI songs"
+    excerpt: "Canadian singer says she likes the ideas of ‘killing copyright’, as music industry scrambles to catch up with implications of AI-generated tracks"
+    publishedDateTime: 2023-04-26T00:56:00Z
+    webUrl: "https://www.theguardian.com/music/2023/apr/26/grimes-invites-people-to-use-her-voice-in-ai-songs"
+    ampWebUrl: "https://amp.theguardian.com/music/2023/apr/26/grimes-invites-people-to-use-her-voice-in-ai-songs"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/music/2023/apr/26/grimes-invites-people-to-use-her-voice-in-ai-songs"
     type: article
     provider:
-      name: TSNN
-      domain: tsnn.com
-    quality: 39
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
     images:
-      - url: "https://www.tsnn.com/sites/default/files/AI%20translation%20concept.jpg"
-        width: 8500
-        height: 4250
+      - url: "https://i.guim.co.uk/img/media/cb37b09d57ddbe47d7ade8db1fc03b70dcc16f12/17_185_4013_2408/master/4013.jpg?width=620&quality=85&auto=format&fit=max&s=d790ca43793bad79236e3c81a7774458"
+        width: 620
+        height: 372
         isCached: true
-  - title: "EU proposes new copyright rules for generative AI"
-    excerpt: "Shortly after signing the letter, the Financial Times reported Musk was planning to launch his own startup to rival OpenAI. ALSO READ: Elon Musk plans AI startup to rival OpenAI, Financial Times reports"
-    publishedDateTime: 2023-04-28T01:55:00Z
-    webUrl: "https://www.asiaone.com/digital/eu-proposes-new-copyright-rules-generative-ai"
+  - title: "Grimes invites artists to use her voice for AI-generated songs, says she'll split royalties"
+    excerpt: "\"I think it's cool to be fused w[ith] a machine and I like the idea of open sourcing all art and killing copyright,\" the singer tweeted.​"
+    publishedDateTime: 2023-04-25T00:51:00Z
+    webUrl: "https://www.cbsnews.com/news/grimes-ai-music-voice-royalties-artists-copyright/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/grimes-ai-music-voice-royalties-artists-copyright/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/grimes-ai-music-voice-royalties-artists-copyright/"
     type: article
     provider:
-      name: Asia One
-      domain: asiaone.com
+      name: CBS News
+      domain: cbsnews.com
+    quality: 47
+    images:
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/04/25/1e2e6b03-d84a-4f8b-81e0-f4a94e2eecd8/thumbnail/1200x630/188438474c95d47f41963a16e22199ca/gettyimages-1340131828.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "The Drop: Grimes chimes in on AI-generated music conversation"
+    excerpt: "Plus, the chaos in Atlanta when State Farm Arena was double booked for Game 6 of the NHL playoffs and a Janet Jackson concert, and the Foo Fighters launch their comeback with a new song."
+    publishedDateTime: 2023-04-28T16:04:00Z
+    webUrl: "https://abcnews.go.com/Entertainment/video/drop-grimes-chimes-ai-generated-music-conversation-98936898"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
     quality: 37
     images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Apr2023/20230428_EUAI_Reuters.jpg?itok=7hZy3u6s"
-        width: 848
-        height: 601
+      - url: "https://s.abcnews.com/images/Entertainment/230428_abcnl_update_9am_drop_hpMain_16x9_608.jpg"
+        width: 608
+        height: 342
         isCached: true
-  - title: "Yellow.ai launches Dynamic Automation Platform (DAP) with Generative AI, unveils new logo"
-    excerpt: "Yellow.ai, a global leader in Conversational AI, today announced the launch of its Dynamic Automation Platform (DAP), powered by generative AI, that enables enterprises to automate customer and employee experiences at scale with 60% reduction in their operational costs."
-    publishedDateTime: 2023-04-25T16:55:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/04/25/9801543.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 30
-    images:
-      - url: "https://mma.prnewswire.com/media/2061615/Yellow_ai_launches_Dynamic_Automation.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "The Battle for Authenticity: The Importance of Detecting Human vs. AI-Generated Content by Intetics"
-    excerpt: "Intetics, a leading global technology company, published an article on the burning challenges of generative AI, existing AI-generated content detection tools, their current limitations and prospects,"
-    publishedDateTime: 2023-04-27T11:53:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-battle-authenticity-importance-detecting-human-vs-ai-generated-/2023/04/27/9803149.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 5
 
 secured: "NIS/xo5fhYlkpu06PGtCdrDbAgpF3ybQhpXLLOauSehS2PV04yWznj6UsBfu9h6SOdH7XjP7gVP/naMkQJtZMXImynQbvARPxw9NQrNzowiXprcoRHGf2fQ3s2MYFy9Xy/r4nbNPsozhJhAJTfHywhs1JPGezciy5mbYTEvJh2dRwfr24lsSOB0yAfH1f8+n0CoFCTDaAysEAHF4U8DmVF2KZ+iFMvx9f4pgcFIzj0yDZb9mbu/5nKibI88/AaDI0MGkl8sA6xlc6Kgcnc0GJEZSLOcZGC8ecqUll/Xb8pksZxNTO+Rj+R4px1RFhAAP5RaoM5vxEil8voUWy/jg824OZP/+PZ8YZNLoV7HI5x9kEWwSXSEHa91/muoaT+KFpzHkOL43eSNtxYMqTQpq4aBOnNbDnlmttYKfnHdLhA8nhMyymo0wkJufgLYXs9hezamXyanRhu6crcGyFo48+nwRUBdBf/Y7XeQFKwy95UMyFCRZhilicTiVwkEMlC9b++A9bRQDKD+6CnwAiBe+4Q==;LxGkFyd0UIVlwrslTumwsw=="
 ---

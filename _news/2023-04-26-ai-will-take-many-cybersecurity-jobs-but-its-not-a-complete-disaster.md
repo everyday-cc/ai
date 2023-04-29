@@ -60,6 +60,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Cybersecurity meets AI: Augmenting and accelerating humans"
+    excerpt: "AI in cybersecurity must be collaborative, with humans and AI improving efficiency and efficacy over what either could do independently."
+    publishedDateTime: 2023-04-29T15:20:00Z
+    webUrl: "https://venturebeat.com/ai/cybersecurity-meets-ai-augmenting-and-accelerating-humans/"
+    ampWebUrl: "https://venturebeat.com/ai/cybersecurity-meets-ai-augmenting-and-accelerating-humans/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/cybersecurity-meets-ai-augmenting-and-accelerating-humans/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/04/annevb_Cybersecurity_meets_artificial_intelligence_AI_making_se_980107ce-9d5e-47af-9002-48f47fc5a493.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Cyble Triumphs Yet Again With 9 Category Wins at the Global InfoSec Awards 2023, Including Editor's Choice for Cybersecurity Startup"
     excerpt: "Cyble, the Y Combinator-backed leader in AI-powered global cyber threat intelligence, today announced that it has been named a winner in 9 categories of the 11th Annual Global InfoSec Awards hosted by the Cyber Dfense Magazine CDM,"
     publishedDateTime: 2023-04-25T04:41:00Z
