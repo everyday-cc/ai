@@ -2,6 +2,58 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2023-03-27-ten-questions-with-openai-on-reinforcement-learning-with-human-feedback.md",
+      "title": "Ten Questions With OpenAI On Reinforcement Learning With Human Feedback",
+      "excerpt": "So navigating that is going to be challenging and involves machine learning interventions but also a broader social technical perspective. Are there interesting questions that come up or new challenges or new directions for this kind of research as ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2023/03/27/ten-questions-with-openai-on-reinforcement-learning-with-human-feedback/",
+      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2023/03/27/ten-questions-with-openai-on-reinforcement-learning-with-human-feedback/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/641dcf2b94696554a1580d4a/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2023/03/27/ten-questions-with-openai-on-reinforcement-learning-with-human-feedback/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2023/03/27/ten-questions-with-openai-on-reinforcement-learning-with-human-feedback/amp/",
+      "publishedDateTime": "2023-03-27T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-27-education-might-not-save-you-from-cognitive-decline-new-study.md",
       "title": "Education might not save you from cognitive decline – new study",
       "excerpt": "Giovanni Sala receives funding from the University of Liverpool. Take a look at any list of risk factors for cognitive decline and you’re bound to find “education” among them. The received ...",
@@ -1128,58 +1180,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-27-vinai-democratizes-ai-in-vietnam-as-dr-hung-bui-sails-are-set-high.md",
-      "title": "VinAI Democratizes AI In Vietnam As Dr. Hung Bui Sails Are Set High",
-      "excerpt": "This article profiles Dr. Hung Bui, CEO of VIN.ai, an operating unit in the VinGroup in Vietnam, and summarizes his vision, research accomplishments of his scientists and the tremendous pride he has for his team achieving global stature as one of the top AI research labs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/03/26/vinai-democratizes-ai-in-vietnam-as-dr-hung-bui-sails-are-set-high/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/03/26/vinai-democratizes-ai-in-vietnam-as-dr-hung-bui-sails-are-set-high/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64176c4f26816377fd7ffb6c/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 803,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/03/26/vinai-democratizes-ai-in-vietnam-as-dr-hung-bui-sails-are-set-high/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/03/26/vinai-democratizes-ai-in-vietnam-as-dr-hung-bui-sails-are-set-high/amp/",
-      "publishedDateTime": "2023-03-26T11:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

@@ -2,6 +2,57 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2023-03-29-former-white-house-ai-policy-advisor-slams-sen-chris-murphys-fear-mongering-chatgpt-tweets.md",
+      "title": "Former White House AI policy advisor slams Sen. Chris Murphy’s ‘fear-mongering’ ChatGPT tweets",
+      "excerpt": "Because the hypotheticals around generative AI are not as critical as the real harms. If ChatGPT are going used in, as being claimed, in a suicide hotline, people are gonna get hurt. We can wait till then, or we can start saying that any system that gets ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/former-white-house-ai-policy-advisor-slams-sen-chris-murphys-fear-mongering-chatgpt-tweets/",
+      "originalUrl": "https://venturebeat.com/ai/former-white-house-ai-policy-advisor-slams-sen-chris-murphys-fear-mongering-chatgpt-tweets/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/03/Untitled-design-31.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/former-white-house-ai-policy-advisor-slams-sen-chris-murphys-fear-mongering-chatgpt-tweets/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/former-white-house-ai-policy-advisor-slams-sen-chris-murphys-fear-mongering-chatgpt-tweets/amp/",
+      "publishedDateTime": "2023-03-28T10:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-28-enable-predictive-maintenance-for-line-of-business-users-with-amazon-lookout-for-equipment.md",
       "title": "Enable predictive maintenance for line of business users with Amazon Lookout for Equipment",
       "excerpt": "Predictive maintenance is a data-driven maintenance strategy for monitoring industrial assets in order to detect anomalies in equipment operations and health that could lead to equipment failures. Through proactive monitoring of an asset’s condition, maintenance personnel can be alerted before issues",
@@ -1225,57 +1276,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-28-as-adobe-shows-its-generative-ai-hand-hollywood-grapples-with-changing-world.md",
-      "title": "As Adobe Shows Its Generative AI Hand, Hollywood Grapples With Changing World",
-      "excerpt": "Adobe joined the generative AI gold rush, announcing Firefly and other additions to its creative and marketing software tools. But for Oscar-winning screenwriter Aaron Sorkin and the Writers Guild of America,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/dbloom/2023/03/28/as-adobe-shows-its-generative-ai-hand-hollywood-grapples-with-changing-world/",
-      "originalUrl": "https://www.forbes.com/sites/dbloom/2023/03/28/as-adobe-shows-its-generative-ai-hand-hollywood-grapples-with-changing-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/642280892f0c387d9de2d105/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/dbloom/2023/03/28/as-adobe-shows-its-generative-ai-hand-hollywood-grapples-with-changing-world/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dbloom/2023/03/28/as-adobe-shows-its-generative-ai-hand-hollywood-grapples-with-changing-world/amp/",
-      "publishedDateTime": "2023-03-27T23:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

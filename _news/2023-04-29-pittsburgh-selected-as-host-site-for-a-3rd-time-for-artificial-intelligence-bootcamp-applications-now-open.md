@@ -6,7 +6,7 @@ publishedDateTime: 2023-04-28T21:15:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/2023/04/28/9804370.htm"
 webUrl: "https://www.tmcnet.com/usubmit/2023/04/28/9804370.htm"
 type: article
-quality: 20
+quality: 22
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"

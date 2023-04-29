@@ -72,21 +72,19 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Grimes invites artists to use her voice for AI-generated songs, says she'll split royalties"
-    excerpt: "\"I think it's cool to be fused w[ith] a machine and I like the idea of open sourcing all art and killing copyright,\" the singer tweeted.​"
-    publishedDateTime: 2023-04-25T00:51:00Z
-    webUrl: "https://www.cbsnews.com/news/grimes-ai-music-voice-royalties-artists-copyright/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/grimes-ai-music-voice-royalties-artists-copyright/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/grimes-ai-music-voice-royalties-artists-copyright/"
+  - title: "Scammers Fooled Mom With Daughter’s AI-Generated Voice"
+    excerpt: "When she picked up her phone, she heard her daughter’s panicked voice and an unknown man warning her not to call 911 and demanding a $1 million ransom."
+    publishedDateTime: 2023-04-29T16:55:00Z
+    webUrl: "https://www.thedailybeast.com/mom-received-an-ai-generated-scam-phone-call-of-her-daughters-voice-saying-she-was-kidnapped"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 47
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 37
     images:
-      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/04/25/1e2e6b03-d84a-4f8b-81e0-f4a94e2eecd8/thumbnail/1200x630/188438474c95d47f41963a16e22199ca/gettyimages-1340131828.jpg"
-        width: 1200
-        height: 630
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_2953,w_5250,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1682785877/2021-04-27T163623Z_1297993916_RC2G4N9ZX2RX_RTRMADP_3_FRESHWORKS-IPO_ely56c"
+        width: 1480
+        height: 832
         isCached: true
 
 secured: "N65XY7RwSjtoJRT9mckSM/z29LXG17YS1rBkqdL/CixInX1Zy/H9MegEPXLo/evdnQBjs9G3OrvwysrUCbr/+XU1IEPT3JVYAhg8ZKa6iQTWm3mxYovSXQAdo5BELklbb0tW+MmxApHxDv9RcMil8ae2V0+DBA3OhAiJmPZwBQ/7eo7mc2FwqKOg4LWmhYCxFFUC6F5F8dcDDg6r5NS2OWV9TIdoDLDJWTizNKrRsbKjBeEGxSbgO5o4CbTbc8wntwQKtBKqs5gjgVEQNjtbo1m43reqfjhkxlox5NuSyKUagm1hdMU/ocpLvYc7P7+k8bw/i+du8MzTSPdl3aVQ2t3u8kUmcAVNDN/eezxe0Do=;vvL6q5ZIv2L2xQ7jHq09qw=="

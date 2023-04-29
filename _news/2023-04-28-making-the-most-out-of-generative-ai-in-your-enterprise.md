@@ -79,21 +79,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How To Boost Your College Applications Using AI — Without Cheating The Essay"
-    excerpt: "While ChatGPT has many questioning the role and usefulness of the college essay, there are ways to make the college admissions process more efficient and effective in the exploration and application phases."
-    publishedDateTime: 2023-04-24T23:08:00Z
-    webUrl: "https://www.forbes.com/sites/avivalegatt/2023/04/24/how-to-boost-your-college-applications-using-ai---without-cheating-the-essay/"
-    ampWebUrl: "https://www.forbes.com/sites/avivalegatt/2023/04/24/how-to-boost-your-college-applications-using-ai---without-cheating-the-essay/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/avivalegatt/2023/04/24/how-to-boost-your-college-applications-using-ai---without-cheating-the-essay/amp/"
+  - title: "Understanding the risks of generative AI for better business outcomes"
+    excerpt: "Understand the risks to security, privacy and more of generative AI and the precautions you can take to mitigate them."
+    publishedDateTime: 2023-04-29T16:10:00Z
+    webUrl: "https://venturebeat.com/ai/understand-risks-generative-ai-better-business-outcomes/"
+    ampWebUrl: "https://venturebeat.com/ai/understand-risks-generative-ai-better-business-outcomes/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/understand-risks-generative-ai-better-business-outcomes/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/642b13ef95acfe3e77bbf2c3/0x0.jpg?format=jpg&width=1200"
+      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1209661950-e1666828949345.jpg?w=1200&strip=all"
         width: 1200
-        height: 798
+        height: 595
         isCached: true
   - title: "EU lawmakers pass draft of AI Act, includes copyright rules for generative AI"
     excerpt: "After months of negotiations and two years after a draft rules were proposed, EU lawmakers have a draft of the Artificial Intelligence Act."

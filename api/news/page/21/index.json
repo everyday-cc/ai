@@ -2,6 +2,49 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2023-04-12-regulating-ai-three-experts-explain-why-its-difficult-to-do-and-important-to-get-right.md",
+      "title": "Regulating AI: Three experts explain why it's difficult to do and important to get right",
+      "excerpt": "From fake photos of Donald Trump being arrested by New York City police officers to a chatbot describing a very-much-alive computer scientist as having died tragically, the ability of the new generation of generative artificial intelligence systems to create convincing but fictional text and images is setting off alarms about fraud and misinformation on steroids.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-04-ai-experts-difficult-important.html",
+      "originalUrl": "https://techxplore.com/news/2023-04-ai-experts-difficult-important.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-64.jpg",
+          "width": 1920,
+          "height": 1343,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-04-ai-experts-difficult-important.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-04-ai-experts-difficult-important.amp",
+      "publishedDateTime": "2023-04-12T09:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-12-siemens-and-microsoft-drive-industrial-productivity-with-generative-artificial-intelligence.md",
       "title": "Siemens and Microsoft Drive Industrial Productivity with Generative Artificial Intelligence",
       "excerpt": "Siemens’ new Teamcenter app for Microsoft Teams will use AI, boosting productivity and innovation throughout a product lifecycle.",
@@ -1043,58 +1086,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-11-back-from-the-dead-ibms-watson-ai-is-alive-and-re-emerging.md",
-      "title": "Back from the Dead, IBM’s Watson AI is Alive and Re-Emerging",
-      "excerpt": "While Warson Health is in the rearview mirror, Watson AI continues to improve. In it’s Q4 2022 earnings report, IBM CEO Arvind Krishna commented. “Clients in all geographies increasingly ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/finance/back-from-the-dead-ibms-watson-ai-is-alive-and/449447",
-      "originalUrl": "https://www.entrepreneur.com/finance/back-from-the-dead-ibms-watson-ai-is-alive-and/449447",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/providers/marketbeat/hero-image-marketbeat-449447.jpeg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-11T06:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

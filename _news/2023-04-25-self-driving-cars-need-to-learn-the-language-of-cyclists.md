@@ -41,22 +41,6 @@ related:
         width: 1024
         height: 378
         isCached: true
-  - title: "Self-driving cars must learn the language of cyclists to keep roads safe, research suggests"
-    excerpt: "Future generations of self-driving cars should learn the language of cyclists to help them safely share the roads with bikes, new research suggests."
-    publishedDateTime: 2023-04-25T00:01:00Z
-    webUrl: "https://techxplore.com/news/2023-04-self-driving-cars-language-cyclists-roads.html"
-    ampWebUrl: "https://techxplore.com/news/2023-04-self-driving-cars-language-cyclists-roads.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-04-self-driving-cars-language-cyclists-roads.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 34
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/self-driving-cars-must.jpg"
-        width: 2412
-        height: 952
-        isCached: true
   - title: "Self-Driving Cars Are Not (Yet) Safe"
     excerpt: "Three things have happened in the last month that have made me think about the safety of self-driving cars a lot more. The US Department of Transportation (DOT) has issued its guidance on the ..."
     publishedDateTime: 2023-04-27T00:00:00Z

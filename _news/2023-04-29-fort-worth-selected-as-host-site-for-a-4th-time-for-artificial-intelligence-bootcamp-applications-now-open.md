@@ -155,6 +155,20 @@ related:
         width: 431
         height: 250
         isCached: true
+  - title: "Pittsburgh Selected as Host Site for a 3rd Time for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
+    excerpt: "Carnegie Learning will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students at No-Cost in the Fall of 2023. The AI Bootcamp in Pittsburgh will be targeted at underserved high school students (9th-12 th grade) and will introduce these high school students to basic AI concepts and skills."
+    publishedDateTime: 2023-04-28T21:15:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/04/28/9804370.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 22
+    images:
+      - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
+        width: 550
+        height: 353
+        isCached: true
   - title: "Plano Selected as Host Site for a 3rd Time for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
     excerpt: "Perficient will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students at No-Cost for a 3 rd time in the Fall of 2023. The AI Bootcamp in Plano will be targeted at underserved high school students (9th-12 th grade) and will introduce these high school students to basic AI concepts and skills."
     publishedDateTime: 2023-04-28T22:20:00Z
@@ -215,20 +229,6 @@ related:
     excerpt: "Headstorm will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students at no cost for a 4th time in the Fall of 2023. The AI Bootcamp in Addison will target underserved high school students (9th-12th grade) and will introduce these high school students to basic AI concepts and skills."
     publishedDateTime: 2023-04-28T20:03:00Z
     webUrl: "https://technews.tmcnet.com/news/2023/04/28/9804378.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 20
-    images:
-      - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
-        width: 550
-        height: 353
-        isCached: true
-  - title: "Pittsburgh Selected as Host Site for a 3rd Time for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
-    excerpt: "Carnegie Learning will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students at No-Cost in the Fall of 2023. The AI Bootcamp in Pittsburgh will be targeted at underserved high school students (9th-12 th grade) and will introduce these high school students to basic AI concepts and skills."
-    publishedDateTime: 2023-04-28T21:15:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/04/28/9804370.htm"
     type: article
     provider:
       name: TMCnet

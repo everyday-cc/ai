@@ -2,49 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-04-29-idvv-moves-forward-in-artificial-intelligence-ai-sector.md",
-      "title": "IDVV Moves Forward In Artificial Intelligence AI Sector",
-      "excerpt": "LOS ANGELES, CA / ACCESSWIRE / April 28, 2023 / International Endeavors Corporation 'IEC' (OTC PINK:IDVV) announced the following corporate",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/idvv-moves-forward-in-artificial-intelligence-ai-sector-1032274576",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/idvv-moves-forward-in-artificial-intelligence-ai-sector-1032274576",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-28T10:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-29-ai-in-healthcare-whats-to-be-done-about-data.md",
       "title": "AI In Healthcare: What’s To Be Done About Data?",
       "excerpt": "The widespread deployment of AI in U.S. healthcare will succeed only with the establishment of a national infrastructure for open health data.",
@@ -308,7 +265,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/04/25/what-marketing-and-advertising-specialists-can-expect-from-chatgpt/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 301,
+      "heat": 281,
       "tags": null,
       "images": [
         {
@@ -1479,6 +1436,49 @@
       "topics": [
         "AI in Healthcare",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-15-new-artificial-intelligence-tool-helps-predict-colon-cancer-survival.md",
+      "title": "New Artificial Intelligence Tool Helps Predict Colon Cancer Survival",
+      "excerpt": "Artificial intelligence (AI) or machine intelligence refers to the intelligence displayed by computers or robots in contrast to the natural intelligence exhibited by humans. It is considered one of the major advancements of the 4th industrial revolution and finds application in several fields including medicine.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/new-artificial-intelligence-tool-helps-predict-colon-cancer-survival-211365-1.htm",
+      "originalUrl": "https://www.medindia.net/news/new-artificial-intelligence-tool-helps-predict-colon-cancer-survival-211365-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.medindia.net/health-images/artificial-intelligence-can-now-predict.jpg",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/new-artificial-intelligence-tool-helps-predict-colon-cancer-survival-211365-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/new-artificial-intelligence-tool-helps-predict-colon-cancer-survival-211365-1.htm",
+      "publishedDateTime": "2023-04-15T04:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

@@ -256,20 +256,6 @@ related:
         width: 600
         height: 314
         isCached: true
-  - title: "ChatGPT craze drives domestic innovation"
-    excerpt: "\"Technologies behind ChatGPT are not new to market players, but ChatGPT represents how AI has evolved and progressed over the past few years. Also, it demonstrates the popularity of the NLP market and brings forward the market one to two years,"
-    publishedDateTime: 2023-04-24T23:40:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202304/25/WS64470bd4a310b6054facf864.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 24
-    images:
-      - url: "https://img2.chinadaily.com.cn/images/202304/25/64470bd4a310b60580cbcd50.jpeg"
-        width: 720
-        height: 480
-        isCached: true
   - title: "ChatGPT’s Secret Weapon Is Artificial Emotional Intelligence"
     excerpt: "The race to plug chatbots into search engines makes little sense when they are better at mimicking empathy than recalling facts."
     publishedDateTime: 2023-04-25T23:24:00Z
@@ -283,20 +269,6 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
-        isCached: true
-  - title: "ChatGPT is the Most In-Demand Workplace Skill in Q1 2023"
-    excerpt: "Udemy (Nasdaq: UDMY), a company dedicated to improving lives through online learning, today released its Q1 2023 Workplace Learning Index, a quarterly report highlighting skills that are growing in demand among today’s professionals as they seek to keep pace with innovation and help support their company’s continued growth."
-    publishedDateTime: 2023-04-27T15:11:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/04/27/9803670.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 24
-    images:
-      - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
-        width: 550
-        height: 353
         isCached: true
   - title: "Hugging Face Releases Free ChatGPT Clone: HuggingChat"
     excerpt: "Hugging Face, the machine learning community and AI tools platform, announced the release of HuggingChat, an open source ChatGPT clone that anyone can use or download for themselves. Hugging Face is a company and an AI community. It provides access to free open source tools for developing machine learning and AI apps."

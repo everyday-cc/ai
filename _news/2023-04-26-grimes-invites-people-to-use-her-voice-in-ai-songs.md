@@ -62,22 +62,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Grimes invites artists to use her voice for AI-generated songs, says she'll split royalties"
-    excerpt: "\"I think it's cool to be fused w[ith] a machine and I like the idea of open sourcing all art and killing copyright,\" the singer tweeted.​"
-    publishedDateTime: 2023-04-25T00:51:00Z
-    webUrl: "https://www.cbsnews.com/news/grimes-ai-music-voice-royalties-artists-copyright/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/grimes-ai-music-voice-royalties-artists-copyright/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/grimes-ai-music-voice-royalties-artists-copyright/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 47
-    images:
-      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/04/25/1e2e6b03-d84a-4f8b-81e0-f4a94e2eecd8/thumbnail/1200x630/188438474c95d47f41963a16e22199ca/gettyimages-1340131828.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "The Drop: Grimes chimes in on AI-generated music conversation"
     excerpt: "Plus, the chaos in Atlanta when State Farm Arena was double booked for Game 6 of the NHL playoffs and a Janet Jackson concert, and the Foo Fighters launch their comeback with a new song."
     publishedDateTime: 2023-04-28T16:04:00Z
@@ -91,6 +75,20 @@ related:
       - url: "https://s.abcnews.com/images/Entertainment/230428_abcnl_update_9am_drop_hpMain_16x9_608.jpg"
         width: 608
         height: 342
+        isCached: true
+  - title: "Scammers Fooled Mom With Daughter’s AI-Generated Voice"
+    excerpt: "When she picked up her phone, she heard her daughter’s panicked voice and an unknown man warning her not to call 911 and demanding a $1 million ransom."
+    publishedDateTime: 2023-04-29T16:55:00Z
+    webUrl: "https://www.thedailybeast.com/mom-received-an-ai-generated-scam-phone-call-of-her-daughters-voice-saying-she-was-kidnapped"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 37
+    images:
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_2953,w_5250,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1682785877/2021-04-27T163623Z_1297993916_RC2G4N9ZX2RX_RTRMADP_3_FRESHWORKS-IPO_ely56c"
+        width: 1480
+        height: 832
         isCached: true
 
 secured: "+T4WHOJm+JMI16THQFp86DbxTHw7iUy0vjeyaiETT3op/7PrlcrBaxzaGA6y2Yson9Zp2P+zW/+jNFMbtvWVxL7T18zmAIDYgw5q5sq+tUHzamJ2MCRgGxA3baTdGs9VzALgrSGxCu2qpC4TfGwfmVUooHBaWakD1XiwO1r5pJXHt4Pz8sqGLm7JYkN9kp7bM2B26Z65Gye6hrJs+U8Jq67z0bJI6Ks1vL59enjZA1kC+nKGnnKmsKZ3OxAtMPm1Tvd8kvEuJxhzTWt4htwSfLBh6uxwBN3KY/HLkaWGDjddgG1yBVHirqjd2BIN7+TEso0tDzl0j4exSSd7oY1ZuYAlSwKZGGvaQgsw1+9dIHPwLZ54x+irTa8vq6ZN3j587S85l6UYU6FP/zeWNYpU9orP7drsWBhDgPVf0nhf6k9tRkmOm0TB7R77HONuWBk54MhDgM4XlWFusvOeVdGuBCKfdO8YuZRpeHkEaa+xB77C0ar8Tnw1z17UL1NTB79EW7IJctcfTC2p8fn3nKtJZg==;hesdMiVFCkucq1X75ZPiTA=="
