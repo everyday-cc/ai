@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/entertainment/fake-drake-opens-copyright-que
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/fake-drake-opens-copyright-questions-lawyer-answers-artists-protect-style-against-ai.amp"
 type: article
 quality: 69
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "From fake Drake to AI-generated Eminem tracks: Can musicians copyright style?"
-    excerpt: "An AI art lecturer says an AI-generated song seemingly created in the style of musician Drake raises copyright questions surrounding an artist's style."
-    publishedDateTime: 2023-04-25T01:35:00Z
-    webUrl: "https://www.foxnews.com/entertainment/fake-drake-ai-generated-eminem-tracks-musicians-copyright-style"
-    ampWebUrl: "https://www.foxnews.com/entertainment/fake-drake-ai-generated-eminem-tracks-musicians-copyright-style.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/fake-drake-ai-generated-eminem-tracks-musicians-copyright-style.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 84
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fe044709-5321-49e6-889e-24f2e7e60968/56371045-25a7-49d1-b3c9-f3c01b831a6e/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "iaPFZV9dNSQtOFTC9Gr80JS3RRvsZcWy1mqITafCnjNe8RjhhBJi9kJDGnIj6WsXdqnFRGPvAw11TN4lre1cmZjLwSljvGO8stAQOjoeqxUZRpDD8NAaV1/hLBS4q8jCkxLZnvRxIKQrKzgPv53VR+w5frOMb2isMy+AbddyxzeLUQuMQfjSt72ei3taaRMXH5Tuk1vuWQ6Z6EUPvsdcEubasCTSYpIFoW5qOf3eZyhkIvB0i5iWmvMDkUbUaeAu6w1a5XNnrrsWaPpJfX6IyYlxbi6c6kwQD5nafh7qKmn6siYtiwxL+kCeSRarzd3dozs+TZ4jjgl27/OnCaM4yE46I9g8nDsEQ6LleD7ICFQ=;a2p/7qmga0AxwnRWrJcRvg=="
 ---

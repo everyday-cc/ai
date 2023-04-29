@@ -34,22 +34,6 @@ related:
         width: 2500
         height: 1663
         isCached: true
-  - title: "UK goes light-touch on AI as Elon Musk sounds the alarm"
-    excerpt: "LONDON — As Elon Musk urged humanity to get a grip on artificial intelligence, in London ministers were hailing its benefits. Rishi Sunak’s new technology chief Michelle Donelan on Wednesday unveiled the government’s long-awaited blueprint for ..."
-    publishedDateTime: 2023-04-25T04:03:00Z
-    webUrl: "https://www.politico.eu/article/uk-go-light-touch-ai-artificial-intelligence-elon-musk-alarm/"
-    ampWebUrl: "https://www.politico.eu/article/uk-go-light-touch-ai-artificial-intelligence-elon-musk-alarm/amp/"
-    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/uk-go-light-touch-ai-artificial-intelligence-elon-musk-alarm/amp/"
-    type: article
-    provider:
-      name: Politico Europe
-      domain: politico.eu
-    quality: 59
-    images:
-      - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/03/29/GettyImages-1215628293-scaled.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Elon Musk discusses artificial intelligence with Sen. Schumer"
     excerpt: "Twitter owner and Tesla CEO Elon Musk on Wednesday said he discussed artificial intelligence in a meeting with Senate Majority Leader Chuck Schumer."
     publishedDateTime: 2023-04-26T21:51:00Z

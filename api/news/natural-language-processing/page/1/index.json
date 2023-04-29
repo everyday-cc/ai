@@ -360,50 +360,6 @@
       ]
     },
     {
-      "path": "_news/2023-04-25-chatgpt-how-to-use-ai-as-a-virtual-financial-adviser.md",
-      "title": "ChatGPT: How to use AI as a virtual financial adviser",
-      "excerpt": "From chatbots and virtual assistants to fraud detection and risk management, artificial intelligence (AI) is now being used in many areas of finance. But what could an AI system like ChatGPT do for your bank balance?",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-04-chatgpt-ai-virtual-financial.html",
-      "originalUrl": "https://techxplore.com/news/2023-04-chatgpt-ai-virtual-financial.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/chatgpt-how-to-use-ai.jpg",
-          "width": 1356,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-04-chatgpt-ai-virtual-financial.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-04-chatgpt-ai-virtual-financial.amp",
-      "publishedDateTime": "2023-04-25T09:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_news/2023-04-25-5-real-world-applications-of-natural-language-processing-nlp.md",
       "title": "5 real-world applications of natural language processing (NLP)",
       "excerpt": "Natural language processing (NLP) is a field of study that focuses on enabling computers to understand and interpret human language. NLP involves applying machine learning algorithms to analyze and process natural language data, such as text or speech.",
@@ -1426,6 +1382,49 @@
         "name": "The Punch Newspapers",
         "domain": "punchng.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-17-why-some-college-professors-are-adopting-chatgpt-ai-as-quickly-as-students.md",
+      "title": "Why some college professors are adopting ChatGPT AI as quickly as students",
+      "excerpt": "There's another side to that evolving AI story ... \"ChatGPT can even help educators translate some of those lessons or takeaways in simpler language,\" he said. Education technology company ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/04/02/why-college-professors-are-adopting-chatgpt-ai-as-quickly-as-students.html",
+      "originalUrl": "https://www.cnbc.com/2023/04/02/why-college-professors-are-adopting-chatgpt-ai-as-quickly-as-students.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-16T22:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

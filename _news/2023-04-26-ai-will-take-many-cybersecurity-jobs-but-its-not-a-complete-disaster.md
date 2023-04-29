@@ -76,22 +76,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Cyble Triumphs Yet Again With 9 Category Wins at the Global InfoSec Awards 2023, Including Editor's Choice for Cybersecurity Startup"
-    excerpt: "Cyble, the Y Combinator-backed leader in AI-powered global cyber threat intelligence, today announced that it has been named a winner in 9 categories of the 11th Annual Global InfoSec Awards hosted by the Cyber Dfense Magazine CDM,"
-    publishedDateTime: 2023-04-25T04:41:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2428608-cyble-triumphs-yet-again-with-9-category-wins-at-the-global-infosec-awards-2023-including-editors-choice-for-cybersecurity"
-    ampWebUrl: "https://www.devdiscourse.com/article/technology/2428608-cyble-triumphs-yet-again-with-9-category-wins-at-the-global-infosec-awards-2023-including-editors-choice-for-cybersecurity?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2428608-cyble-triumphs-yet-again-with-9-category-wins-at-the-global-infosec-awards-2023-including-editors-choice-for-cybersecurity?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 26
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_33_51_6762345.png?width=1280"
-        width: 1280
-        height: 723
-        isCached: true
 
 secured: "kMe3O7/7K6oy66t+IZfRQuBBG19cA62SsdNCqtKhTIKWT/kAT5QHtBrH6LdOZaaU6jgwZ03ZeucZ3D0edcwib3dgFfFEvN7mxsbNHA3Khh6aIjBBzG7yRLuU7rpROx5HfKJJiB4Dk6EzqlgZB87PQzn1UI6CySrXsyEHWHwRIklb8sqCKQiF+EdyLmlLF2447vARHbzVoQWxjpQ0xytK+Jsd8xKhUAzAfdnCfIpONbHjULjQVUfSNW24HIUfQFP9aJoyC+WGwie532rBFrIR6PM+qvSH7Cr60ZxE+HXBeE1L+AKq5ajUKA18QMaX8uxVxz8Y4FOg6a9oqPsG8tcThVI2UpUPSA3PcayWv5jtLdpyLLk/olUnlhMvOUGzryzUQqzfx4UHCgMY1VJ3q98t2nog5Gn7otAGnj5FEYuavcPT0RdwhUTX3JZj/u3XzpF1bolSt2yyWJ7L+W24/NKpmiE1wauBmala42aWtSOyTsBLXZA2M4Vv3xydnJBa8uM8TVDr1AqTJWHBUW9RBQzYzg==;4BtvQb0dzqcGFy6DYEu6TA=="
 ---

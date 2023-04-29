@@ -66,20 +66,6 @@ related:
         width: 740
         height: 554
         isCached: true
-  - title: "ChatGPT Makes Waves in Yokosuka: First AI Chatbot Used in Japanese Municipality Offices"
-    excerpt: "The AI-powered chatbot, ChatGPT will be used in a one-month trial to improve operations and free up human resources for tasks"
-    publishedDateTime: 2023-04-25T04:49:00Z
-    webUrl: "https://www.gizmochina.com/2023/04/25/chatgpt-yokosuka-administration-breakthrough/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 61
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2023/04/np_file_222875-e1682397707915.jpeg"
-        width: 1500
-        height: 1008
-        isCached: true
   - title: "Snapchat introduces AI chatbot to mixed reviews"
     excerpt: "Snapchat has introduced its own AI chatbot to mixed reviews, with some criticising its prominence on the social media app. It is powered by OpenAI's GPT - the same tech that is being integrated into Microsoft's Bing search engine. The feature, dubbed My AI, is pinned to the top of users' chat feeds and only paid subscribers can remove it."
     publishedDateTime: 2023-04-26T13:36:00Z
@@ -204,6 +190,15 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "This Week in Apps: Users pan Snapchat’s AI, Bluesky has a moment, Apple wins antitrust appeal"
+    excerpt: "The game is due out on iOS and Android for Netflix subscribers on May 2. The AI startup Runway, which helped develop the AI image generator Stable Diffusion, launched its first mobile app this week, giving users access to Gen-1, its video-to-video ..."
+    publishedDateTime: 2023-04-29T19:27:00Z
+    webUrl: "https://techcrunch.com/2023/04/29/this-week-in-apps-users-pan-snapchats-ai-bluesky-has-a-moment-apple-wins-antitrust-appeal/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 36
   - title: "Where traditional search and AI chatbots excel: A closer look"
     excerpt: "Learn key areas where traditional search engines like Google and AI chatbots like ChatGPT have the upper hand."
     publishedDateTime: 2023-04-27T13:00:00Z

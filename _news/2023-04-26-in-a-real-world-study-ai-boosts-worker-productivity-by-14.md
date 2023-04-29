@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2023/04/25/in-a-real-world-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/04/25/in-a-real-world-study-ai-boosts-worker-productivity-by-14/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: Forbes
@@ -30,22 +30,17 @@ images:
     isCached: true
 
 related:
-  - title: "Yes, AI Increases Productivity, Study Suggests"
-    excerpt: "Everyone is excited about generative artificial intelligence, but hype doesn't necessarily translate into solid productivity or revenue gains. Now, a study suggests that even in these early, hyped-up days of generative AI, there are gains being scene,"
-    publishedDateTime: 2023-04-25T04:39:00Z
-    webUrl: "https://www.forbes.com/sites/joemckendrick/2023/04/25/yes-ai-increases-productivity-study-suggests/"
-    ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2023/04/25/yes-ai-increases-productivity-study-suggests/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/04/25/yes-ai-increases-productivity-study-suggests/amp/"
+  - title: "A smart world powered by artificial intelligence"
+    excerpt: "Another area where artificial intelligence use has significant impact is in fraud detection and risk management"
+    publishedDateTime: 2023-04-25T07:41:00Z
+    webUrl: "https://www.dqindia.com/a-smart-world-powered-by-artificial-intelligence/"
+    ampWebUrl: "https://www.dqindia.com/a-smart-world-powered-by-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/a-smart-world-powered-by-artificial-intelligence/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5fe0e38e220093c48951892b/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
+      name: Dataquest
+      domain: dqindia.com
+    quality: 39
 
 secured: "YezRgAnahKiArQhjZDVSzt0ea01Qs4a5cbLD0qaYT6K/lCbz4fLHfpuCJQy5JKZaCKmhvzWJ5ph8jpw0JIhTc8/6qgf3Yto24XmeYW1GilmkviqcP4n8DIq4usR1r5yEqJQ2nqDw0/vxjPC+WbE09ObzT/uk1GLLq1QY9iWg82O5ZUFZy9ykAhuIzNdvBsX8b+CEzWRVYXpZwl4kIopOWc0sCdPpDRvKnp7BcGzE/TYNU3juOn+VxBo+7ATQ0aKal7KTfTuXLhh/G8g+/14LQe4ibVcjJ+9xVpMsCSOFbehjFGR3bJTgz/kVykMd2hHgaYY7CrXV35z6lVg3ZGxPNg2hV4mLezock+LtT9GQh/WCrml087Z8TUSWZ8icIotxjX2lNkuE8FdIYfKk/R20mC9sTNcpDRGo7DmIicxPbbLJpaCEWGfVQFcLm7E15HK0psi2PHjLTMj+vZFrNpoHhl2ZyZcZRhSPXJiQYObs7/d+sS6NKn1Nd8iGAOFBfK/t1BzMcFYvdhH0LdkjMnwA/g==;Ebsv3rNL1d7bx4TG2abc6A=="
 ---

@@ -26,6 +26,20 @@ images:
 
 related:
   - title: "No one is driving this taxi. What possibly could go wrong?"
+    excerpt: "While I grabbed my bag as the robotaxi appeared to be pulling over to the curb, Peaches suddenly sped up and — inexplicably — started driving away in the opposite direction. After seeing the dashboard display screen indicating I was now somehow an estimated 20 minutes away from my destination,"
+    publishedDateTime: 2023-04-29T21:33:00Z
+    webUrl: "https://www.houstonchronicle.com/business/article/no-one-driving-taxi-possibly-go-wrong-17996644.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 24
+    images:
+      - url: "https://s.hdnux.com/photos/01/32/42/65/23735622/3/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
+  - title: "No one is driving this taxi. What possibly could go wrong?"
     excerpt: "I won't forget the first time I took a ride in a car without anyone sitting in the driver's seat. It happened one night last September when a Chevy Bolt named Peaches picked me up outside a San Francisco bar."
     publishedDateTime: 2023-04-26T19:41:00Z
     webUrl: "https://lasvegassun.com/news/2023/apr/26/no-one-is-driving-this-taxi-what-possibly-could-go/"

@@ -294,6 +294,15 @@ related:
         width: 375
         height: 225
         isCached: true
+  - title: "ChatGPT is the Most In-Demand Workplace Skill in Q1 2023"
+    excerpt: "Udemy (Nasdaq: UDMY), a company dedicated to improving lives through online learning, today released its Q1 2023 Workplace Learning Index, a quarterly report highlighting skills that are growing in demand among today’s professionals as they seek to keep pace with innovation and help support their company’s continued growth."
+    publishedDateTime: 2023-04-27T15:11:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/04/27/9803670.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 4
   - title: "AI Set To Significantly Impact The Job Market – Amesite Helps Users Get Ready To Succeed In Tomorrow's Economy By Integrating ChatGPT Into Learning"
     excerpt: "Artificial intelligence (AI) has taken the markets by storm ever since the release of Open AI’s Chat GPT, powered by the generative AI model GPT-3. AI’s creative potential, as well as fears surrounding its use,"
     publishedDateTime: 2023-04-26T12:45:00Z

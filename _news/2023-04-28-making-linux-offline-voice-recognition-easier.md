@@ -6,8 +6,8 @@ publishedDateTime: 2023-04-27T23:59:00Z
 originalUrl: "https://hackaday.com/2021/09/25/making-linux-offline-voice-recognition-easier/"
 webUrl: "https://hackaday.com/2021/09/25/making-linux-offline-voice-recognition-easier/"
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Computer Vision
 
 images:
   - url: "https://hackaday.com/wp-content/uploads/2019/05/IRC_thumbnail.png?w=600&#038;h=600"

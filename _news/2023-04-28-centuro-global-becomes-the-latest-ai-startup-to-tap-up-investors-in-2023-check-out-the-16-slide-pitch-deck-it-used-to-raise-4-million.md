@@ -6,8 +6,8 @@ publishedDateTime: 2023-04-28T08:00:00Z
 originalUrl: "https://www.businessinsider.com/centuro-global-pitch-deck-ai-startup-raises-41-million-2023-4"
 webUrl: "https://www.businessinsider.com/centuro-global-pitch-deck-ai-startup-raises-41-million-2023-4"
 type: article
-quality: 34
-heat: 34
+quality: 36
+heat: 36
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://i.insider.com/644904e412a82b00192f965d?width=1200&format=jpeg"

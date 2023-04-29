@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/a-smart-world-powered-by-artificial-intellig
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/a-smart-world-powered-by-artificial-intelligence/amp/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -21,33 +21,21 @@ topics:
   - AI
 
 related:
-  - title: "AI-powered workspace Ctrl raises $9m"
-    excerpt: "London and Tel-Aviv based fintech Ctrl has raised $9m to expand its AI-powered integrative workspace. The new platform helps revenue teams automate their customer-relate tasks and improve their customer workflows."
-    publishedDateTime: 2023-04-27T11:59:00Z
-    webUrl: "https://www.altfi.com/article/10653_ai-powered-workspace-ctrl-raises-9m"
+  - title: "In A Real-World Study, AI Boosts Worker Productivity By 14%"
+    excerpt: "Researchers from Stanford University and MIT discovered that generative AI tools increased customer service worker productivity by 14% on average at a Fortune 500 software firm."
+    publishedDateTime: 2023-04-26T03:22:00Z
+    webUrl: "https://www.forbes.com/sites/johanmoreno/2023/04/25/in-a-real-world-study-ai-boosts-worker-productivity-by-14/"
+    ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2023/04/25/in-a-real-world-study-ai-boosts-worker-productivity-by-14/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/04/25/in-a-real-world-study-ai-boosts-worker-productivity-by-14/amp/"
     type: article
     provider:
-      name: altfi
-      domain: altfi.com
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://www.altfi.com/images/featured/ai-powered-workspace-ctrl-raises-9m.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/644899074c7bf57cf451f763/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 720
-        isCached: true
-  - title: "The risks and rewards of AI-powered translation"
-    excerpt: "Advances in AI deep learning for machine translation are an opportunity for organisations to remove language barriers to global trade"
-    publishedDateTime: 2023-04-27T15:30:00Z
-    webUrl: "https://www.business-reporter.co.uk/management/the-risks-and-rewards-of-ai-powered-translation"
-    type: article
-    provider:
-      name: business-reporter.co.uk
-      domain: business-reporter.co.uk
-    quality: 39
-    images:
-      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/028/AI_translation.jpg"
-        width: 1200
-        height: 800
+        height: 798
         isCached: true
 
 secured: "KpRK7RE6+p8K/hWgQV+MDd9kD4kOWYKc4aWKwqEsJQ6UG6D5mTgh+ziv3c+J1nd3hrVJxRJHAZy+kEvMkMnPXCD0SQgN8932lyT67r3hi6AzIR38ruT2On8G8hgD5KzVimGUJG4KbEpznPjkblllFsvKMAn3lD9rPEcjiiCxSUI71NESm96Zf+y4OaVwt4EfbOMq+89E1c1i+iZG1UqV7a3BpMPAJO0HpnbHJEdwwI8Gy/TS6I+Ipvv0h9OATJOM1OrJl3q4CplMS/JT7bUdiK84whiNpjtRgzUSbASqqG3iVlQvILglzUHiioNKbmDn49fCv+3L/oT5Y5D4s3+b8qHLxZFzlem48kVqYdKGLRu1qfJBQ9d+YvDPgnTrPwJrGu7SrEnciavvs2dYBBrsTzFzh5NQw3wsv/tM7KdUXwqL349b/TPHQ3w+MC7qkcnSvqsx6auQXINPn25QPQoxnyHMLdcd4OKNQPNI7L3hCrenlhcdcRyqgztxcBtfGqQEUr9l6Q1rO+fazXomQyVNDg==;YsbMCjVK5Twlz4GHXTlYKg=="

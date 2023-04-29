@@ -206,6 +206,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 68
+  - title: "Artificial Intelligence Market Size, Share, Analysis, Growth, Trends and Forecast – 2027"
+    excerpt: "The artificial intelligence market size to grow from USD 86.9 billion in 2022 to USD 407.0 billion by 2027, at"
+    publishedDateTime: 2023-04-26T01:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-share-analysis-growth-trends-and-forecast-2027-2023-04-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Tiny Machine Learning Market 2023 Projected Revenue Figures, Growth Rate Throughout the Forecast Period 2030"
     excerpt: "The Global \"Tiny Machine Learning Market Size\"2023 research report covers explicit information regarding the development rate, market estimates, drivers, limitations, future-based demand, and revenue during the forecast period."
     publishedDateTime: 2023-04-27T06:30:00Z

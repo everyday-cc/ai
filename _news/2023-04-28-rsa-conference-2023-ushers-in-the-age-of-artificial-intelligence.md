@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/04/28/rsa-conference-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/04/28/rsa-conference-2023-ushers-in-the-age-of-artificial-intelligence/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Good AI vs. Bad AI: Artificial intelligence takes RSA Conference by storm"
-    excerpt: "Cybersecurity professionals will need to leverage AI to neutralize sophisticated AI threats leveraged by bad actors, experts said at the RSA Conference."
-    publishedDateTime: 2023-04-25T03:41:00Z
-    webUrl: "https://www.scmagazine.com/news/emerging-technology/good-ai-vs-bad-ai-artificial-intelligence-takes-rsa-conference-by-storm"
-    type: article
-    provider:
-      name: SC Media
-      domain: scmagazine.com
-    quality: 53
-    images:
-      - url: "https://files.scmagazine.com/wp-content/uploads/2023/04/Rohit-Ghai-2.jpg"
-        width: 1080
-        height: 720
-        isCached: true
   - title: "RSA Conference 2023: Infosec and identity pros need AI — but it will change their jobs"
     excerpt: "Information security pros and vendors will need to master artificial intelligence (AI) to fight threat actors who are already leveraging it, the annual RSA Conference in San Francisco has been told. \"Without good AI,"
     publishedDateTime: 2023-04-25T16:48:00Z

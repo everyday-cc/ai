@@ -24,6 +24,17 @@ images:
     height: 353
     isCached: true
 
+related:
+  - title: "Logiq strengthens fintech offering with new acquisition"
+    excerpt: "Logiq said it has acquired award-winning, women-owned fintech company Park Place Payments in an all-stock transaction valued at more than $6 million."
+    publishedDateTime: 2023-04-26T12:15:00Z
+    webUrl: "https://www.proactiveinvestors.com/companies/news/1013354/logiq-strengthens-fintech-offering-with-new-acquisition-1013354.html"
+    type: article
+    provider:
+      name: Proactiveinvestors
+      domain: proactiveinvestors.com
+    quality: 4
+
 secured: "YcdoE4yG5pcWR7dq4Qsv/xj8s7UhJNmce5D/thCvWVp0QYBsM9JdRuu5dyEGiI/5t5xAI3eRbTMv15OdJbcf/zXe8xxaZHdRW48AMkHZ8Q4tgfsScRKU9G6xqim2c/k+x61gsp0fVY4DXg5WfINJN6OMuLhSmDQe6LtL92wAk4HoVrn3oKidTsY1eDJ5geHp9lamrOm0KyTQAe2AztIrbSQMR3KF0ZvIAUsJhRF/1jSCv7DdRGUeLsHWw6qOR2fv4FMUgJNdxmTR4946PLVFIDJ2DZZ25CP6qg3e6tKxLEBOQb+sxIZiEp6sfUYeyI1KTlgvkEAb5Jo4sxrGX7EnaLfMGUQA0UMURS4RQe67HdI=;jInVUSEvKQDnFUpkrVSAqg=="
 ---
 

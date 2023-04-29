@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/nsa-rob-joyce-chatgpt-security/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/nsa-rob-joyce-chatgpt-security/amp"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -75,22 +75,6 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/05iUDYbdzZRKkboE6Y2NAzm-1.fit_lim.size_1200x630.v1682519762.jpg"
         width: 1120
         height: 630
-        isCached: true
-  - title: "Cyble Triumphs Yet Again With 9 Category Wins at the Global InfoSec Awards 2023, Including Editor's Choice for Cybersecurity Startup"
-    excerpt: "Cyble, the Y Combinator-backed leader in AI-powered global cyber threat intelligence, today announced that it has been named a winner in 9 categories of the 11th Annual Global InfoSec Awards hosted by the Cyber Dfense Magazine CDM,"
-    publishedDateTime: 2023-04-25T04:41:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2428608-cyble-triumphs-yet-again-with-9-category-wins-at-the-global-infosec-awards-2023-including-editors-choice-for-cybersecurity"
-    ampWebUrl: "https://www.devdiscourse.com/article/technology/2428608-cyble-triumphs-yet-again-with-9-category-wins-at-the-global-infosec-awards-2023-including-editors-choice-for-cybersecurity?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2428608-cyble-triumphs-yet-again-with-9-category-wins-at-the-global-infosec-awards-2023-including-editors-choice-for-cybersecurity?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 26
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_33_51_6762345.png?width=1280"
-        width: 1280
-        height: 723
         isCached: true
 
 secured: "AcPOHoiVfAgTB/EBsWBXxZawDpVZLeIeK/jyqI4gZHWk7o0sRQCy2ix2f1pFh5U+eBAZqWc+j10FQVsINeUvJxtnClL01R66ELLm+A4Lw4gsCL63XCFlcgk0ieXBRLK1kUPTT60bnZ7fmL9C1SxPUnZbovos7WTXbFjCZ/Mdiu9JBqkhnrV9qfGWRRYb/C9dvejqa11alB5b7FBcAVOcLfWc2Ko0hcv1rsZnlD4QaD4YMPLTRdG8vQcvksHlBtc9DpjbRecNSXR3etSGMlUu25mmprZ23WEcV/2ZcGJEmawAT1JNCbO++C34Fl5fvlfUp+V+V99FNNwCH7DMpcC5gOcqsYKMtI/VG5dSoLUDqCX26oH33QxjJs/p8wV5OiHohqBmxVKrTPquXxZV4MsbHYaLYhhkALr5z30i2wIQmhoAmCbCE3oLUTrz4QyfuGoorVihbrfTxhI1fI9eL/V6ZbojEo4/xbk+tbkqzcj1LiTmccKLPZ5B8uergouThm4czmT35YeOrOrNpY5AB8i4PA==;YK6AQDxhZab/fVa6VjleiA=="

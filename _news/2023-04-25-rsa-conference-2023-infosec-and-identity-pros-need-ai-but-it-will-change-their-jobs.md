@@ -43,20 +43,6 @@ related:
         width: 802
         height: 450
         isCached: true
-  - title: "Good AI vs. Bad AI: Artificial intelligence takes RSA Conference by storm"
-    excerpt: "Cybersecurity professionals will need to leverage AI to neutralize sophisticated AI threats leveraged by bad actors, experts said at the RSA Conference."
-    publishedDateTime: 2023-04-25T03:41:00Z
-    webUrl: "https://www.scmagazine.com/news/emerging-technology/good-ai-vs-bad-ai-artificial-intelligence-takes-rsa-conference-by-storm"
-    type: article
-    provider:
-      name: SC Media
-      domain: scmagazine.com
-    quality: 53
-    images:
-      - url: "https://files.scmagazine.com/wp-content/uploads/2023/04/Rohit-Ghai-2.jpg"
-        width: 1080
-        height: 720
-        isCached: true
   - title: "Cybersecurity and AI trends analysis live from RSA Conference"
     excerpt: "At this week’s RSA Conference in San Francisco, the focus remained on generative artificial intelligence, with some uncertainty about its involvement in recent hacks. The technology will likely become increasingly relevant as it develops further,"
     publishedDateTime: 2023-04-26T15:14:00Z
