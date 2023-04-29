@@ -61,6 +61,47 @@ related:
         width: 619
         height: 377
         isCached: true
+  - title: "Bots and beyond: How the AI revolution is shifting the paradigm for customer experience in smart banking"
+    excerpt: "Financial institutions can improve customer experience and reduce churn with digital services developed on the Microsoft Cloud while staying compliant, maintaining security, and preventing fraud."
+    publishedDateTime: 2023-04-25T15:56:00Z
+    webUrl: "https://www.cio.com/article/474821/bots-and-beyond-how-the-ai-revolution-is-shifting-the-paradigm-for-customer-experience-in-smart-banking.html"
+    ampWebUrl: "https://www.cio.com/article/474821/bots-and-beyond-how-the-ai-revolution-is-shifting-the-paradigm-for-customer-experience-in-smart-banking.html/amp/"
+    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/474821/bots-and-beyond-how-the-ai-revolution-is-shifting-the-paradigm-for-customer-experience-in-smart-banking.html/amp/"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 42
+    images:
+      - url: "https://www.cio.com/wp-content/uploads/2023/04/iStock-1469172094-image-fsi-custom-4-chiewr.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 509
+        isCached: true
+  - title: "Artificial intelligence could revolutionize the workplace"
+    excerpt: "Finance professor Dan Roccato joins FOX6 WakeUp with details."
+    publishedDateTime: 2023-04-28T14:47:00Z
+    webUrl: "https://www.fox6now.com/news/artificial-intelligence-could-revolutionize-the-workplace"
+    ampWebUrl: "https://www.fox6now.com/news/artificial-intelligence-could-revolutionize-the-workplace.amp"
+    cdnAmpWebUrl: "https://www-fox6now-com.cdn.ampproject.org/c/s/www.fox6now.com/news/artificial-intelligence-could-revolutionize-the-workplace.amp"
+    type: article
+    provider:
+      name: fox6now
+      domain: fox6now.com
+    quality: 39
+  - title: "The AI revolution is leaving behind Arabic speakers"
+    excerpt: "The vast majority of references and big data AI tools such as ChatGPT scan to generate results are in English. This must be addressed if we are to avoid a digital language divide"
+    publishedDateTime: 2023-04-28T08:55:00Z
+    webUrl: "https://www.middleeasteye.net/opinion/al-revolution-arabic-speakers-left-behind"
+    type: article
+    provider:
+      name: Middle East Eye
+      domain: middleeasteye.net
+    quality: 39
+    images:
+      - url: "http://www.middleeasteye.net/sites/default/files/images-story/chatGPT-IA-%202023-afp.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "mViGNCGfZAH4azq1PEjDxNal4+kqKhBuA+LrDoz3Lj5jN1uxAR/9hQ8Nnbz1h/6zjTqRvSdGt/ywFLgwSxqXH9lnuDwRb/uGPo/68C4TlrJGsJqCuBhYewFHdORma25APMsPV+8/i0+nrn8KW5RXrKqELE8o/xKMi8s1UlQaX+Iam4uqm4jJ9q7n+rulHtKjJXQr4gkqMOqR1eTX3p+zAjK7z5ofvOoQj+jlNZk7ucen8gGJDLWLl0VpguS08j7OZ9P+AA4gPoxOAY/8aoUB72yWlEaNu6kYi2ZjffgoufmHxsRPfzWPDWRkvlQP0cEYpLL0aMX4Go2ehCkmcjrtq1HS9bowSUYqOTlYgl4ShM4=;n4m/ziwCklObEIX/n4Q0Uw=="
 ---

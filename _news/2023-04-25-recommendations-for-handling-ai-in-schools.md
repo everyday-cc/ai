@@ -39,15 +39,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "The 7 Best Semiconductor Stocks for the AI Boom"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips With the world pivoting towards artificial intelligence, savvy investors are"
-    publishedDateTime: 2023-04-25T18:27:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-7-best-semiconductor-stocks-for-the-ai-boom-1032259713"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "Britain Jumps On AI Bandwagon With $125M Taskforce For Education And Health Care"
     excerpt: "Britain is investing around $125 million (or 100 pounds) into developing foundational models similar to the language models ChatGPT is known for."
     publishedDateTime: 2023-04-24T19:21:00Z

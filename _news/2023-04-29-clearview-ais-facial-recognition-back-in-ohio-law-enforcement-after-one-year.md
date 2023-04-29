@@ -41,20 +41,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "Facial recognition swings for the fences"
-    excerpt: "Facial recognition is being used to improve security, ease fan access and concession transactions in ever more baseball stadiums across America."
-    publishedDateTime: 2023-04-27T15:36:00Z
-    webUrl: "https://www.biometricupdate.com/202304/facial-recognition-swings-for-the-fences"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/09/26125209/stadium-security-public-safety-scaled.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
   - title: "Ohio resumes facial-recognition searches using controversial photo-collection firm Clearview AI"
     excerpt: "State officials currently use facial-recognition software that pulls photos from open sources like news stories and public social-media accounts."
     publishedDateTime: 2023-04-26T13:00:00Z

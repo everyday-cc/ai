@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-04-27-review-the-magic-conveyor-belt-supply-chain-and-ai-a-tale-of-two-halves.md",
+      "title": "Review: “The Magic Conveyor Belt, Supply Chain And AI,” A Tale Of Two Halves",
+      "excerpt": "I had hopes that this would be a great book about modern supply chains and how artificial intelligence (AI) can address the challenges of the sector. Sadly, I was only half right.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidteich/2023/04/26/review-the-magic-conveyor-belt-supply-chain-and-ai-a-tale-of-two-halves/",
+      "originalUrl": "https://www.forbes.com/sites/davidteich/2023/04/26/review-the-magic-conveyor-belt-supply-chain-and-ai-a-tale-of-two-halves/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f282315f48daeb3a6621465/0x0.jpg?format=jpg&crop=875,492,x0,y20,safe&width=1200",
+          "width": 875,
+          "height": 492,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2023/04/26/review-the-magic-conveyor-belt-supply-chain-and-ai-a-tale-of-two-halves/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2023/04/26/review-the-magic-conveyor-belt-supply-chain-and-ai-a-tale-of-two-halves/amp/",
+      "publishedDateTime": "2023-04-26T13:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-27-the-power-of-infrastructure-purpose-built-for-ai.md",
       "title": "The power of infrastructure purpose-built for AI",
       "excerpt": "Advances in powerful computing and the cloud are at the heart of the AI revolution. With faster, more efficient processing of vast amounts of data, companies can break through the",
@@ -751,7 +802,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/microsoft-stock-price-chatgpt-investor-ai-cloud-azure-satya-nadella-2023-4",
       "featuredContent": null,
       "highlight": null,
-      "heat": 573,
+      "heat": 563,
       "tags": null,
       "images": [
         {
@@ -1196,57 +1247,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-26-avengers-director-predicts-artificial-intelligence-will-be-able-to-make-movies-in-two-years.md",
-      "title": "Avengers director predicts artificial intelligence will be able to make movies in two years",
-      "excerpt": "Endgame\" and \"Avengers: Infinity War\" predicts that in two years artificial intelligence could be making moves, according to comments he made at the Sands International Film Festival in St. Andrews, Scotland.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/avengers-director-predicts-artificial-intelligence-make-movies-in-two-years",
-      "originalUrl": "https://www.foxnews.com/media/avengers-director-predicts-artificial-intelligence-make-movies-in-two-years",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fe044709-5321-49e6-889e-24f2e7e60968/56371045-25a7-49d1-b3c9-f3c01b831a6e/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/avengers-director-predicts-artificial-intelligence-make-movies-in-two-years.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/avengers-director-predicts-artificial-intelligence-make-movies-in-two-years.amp",
-      "publishedDateTime": "2023-04-25T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

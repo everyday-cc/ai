@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Sneakily Using Generative AI ChatGPT To Spout Legalese And Imply That You’ve Hired An Attorney, Unsettling For AI Ethics And AI Law"
+    excerpt: "People are using ChatGPT and other generative AI to compose letters that have legalese, aiming to intimidate others. Is this allowed? Should it be stopped? Here is the insider scoop."
+    publishedDateTime: 2023-04-29T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/04/29/sneakily-using-generative-ai-chatgpt-to-spout-legalese-and-imply-that-youve-hired-an-attorney-unsettling-for-ai-ethics-and-ai-law/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/04/29/sneakily-using-generative-ai-chatgpt-to-spout-legalese-and-imply-that-youve-hired-an-attorney-unsettling-for-ai-ethics-and-ai-law/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/04/29/sneakily-using-generative-ai-chatgpt-to-spout-legalese-and-imply-that-youve-hired-an-attorney-unsettling-for-ai-ethics-and-ai-law/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64498827383d36579551f765/0x0.jpg?format=jpg&crop=2429,1619,x557,y0,safe&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "ChatGPT may have better bedside manner than some doctors, but it lacks some expertise"
     excerpt: "ChatGPT can be a useful tool for patients who are seeking medical information and guidance, but the artificial intelligence tool can't fully replace the value of a human physician -- it says so itself."
     publishedDateTime: 2023-04-28T15:03:00Z

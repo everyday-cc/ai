@@ -1,30 +1,27 @@
 ---
 category: news
-title: "Houston Selected as Host Site for a 2nd Time for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!"
-excerpt: "Perficient will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students at No-Cost for a 3rd time overall in the Fall of 2023. The 2nd AI"
-publishedDateTime: 2023-04-28T22:05:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/04/g32097194/houston-selected-as-host-site-for-a-2nd-time-for-artificial-intelligence-bootcamp-applications-now"
-webUrl: "https://www.benzinga.com/pressreleases/23/04/g32097194/houston-selected-as-host-site-for-a-2nd-time-for-artificial-intelligence-bootcamp-applications-now"
-ampWebUrl: "https://www.benzinga.com/amp/content/32097194"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32097194"
+title: "Houston Selected as Host Site for a 2nd Time for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
+excerpt: "Perficient will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students at No-Cost for a 3 rd time overall in the Fall of 2023. The 2 nd AI Bootcamp in Houston will be targeted at underserved high school students (9th-12 th grade) and will introduce these high school students to basic AI concepts and skills."
+publishedDateTime: 2023-04-28T22:19:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/04/28/9804443.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/04/28/9804443.htm"
 type: article
-quality: 43
+quality: 21
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Robotics
   - AI
-  - AI in Autos
 
 images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
+  - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
+    width: 550
+    height: 353
     isCached: true
 
 related:
@@ -85,6 +82,20 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 31
+    images:
+      - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
+        width: 550
+        height: 353
+        isCached: true
+  - title: "St. Louis Selected as Host Site for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
+    excerpt: "Perficient will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students at No-Cost for a 3 rd time in the Fall of 2023. The AI Bootcamp in St. Louis will be targeted at underserved high school students (9th-12 th grade) and will introduce these high school students to basic AI concepts and skills."
+    publishedDateTime: 2023-04-28T19:00:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/04/28/9804357.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 28
     images:
       - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
         width: 550
@@ -263,6 +274,6 @@ related:
       domain: benzinga.com
     quality: 0
 
-secured: "tOHatA/IYisLzIXzKTxfv6bskYKm9nILfz5+d4ACiTyECq5MVx9WooxD2YHPylUbbh4W66OOSg/0GNsREmF96pKcTHd1Dw3YkBNkTS2H5h8S2S0JKcaErV7MnnRC7wzhGDiTvD30ulmzmjO/TCuR8BhLO87O7gSDqrRRjO8SwmxtrJ44RuhfjMOwb+TiohMcUXSFKPfnKIFY4RST/WBERnF6UEFlU9BZShJyY2ZFbbJSsYkBWcey/5utkAc7KB84NWpm70zK19NpA4v8ou6+1fW7yzUXnMXk1EFAifGKM5TOyJSVzoVajRj6h3LI4XAETo0ZrKpiZFzars/XL27aIDo4MeVrv1+eBWCNBeGYEqI=;Y/vlP9/psN4gw6qheunzAg=="
+secured: "zmQuIQxfwR2MgXcklwYmRBkVcy9Eh6var3Elk4Va6sATfIAQY3k/dlHxfUoTNyYKAGHA6R+AWrKkcB+Td1FXwJSTcVuYfdixbhbvFGIxwss/tMJl34MxbB6jZ6xQhAGoTVjp/Z4+p0SpBS4ydCiNSqSOs5LkEuZrgjTObRWKaTjlN9r1ePxucswXDjrYyJa4fjuFQhCJQU/u60ViEnZGtMpgbVaU68EB/mZmfhjQoy6gwEe+i+jxDXjJtxcz0as8Q0fcKIPRhoaUWs8RdBToTXiiEuaTfIXzDz245DQ2RtEP9LYZ0t4Y1vF8PNOxgLQU86mVO5d8l2Ghs514bBFkGXm31tCd158eF3zevw42Pt4=;k5k6SzYqd4ecVmHvTvA6ww=="
 ---
 

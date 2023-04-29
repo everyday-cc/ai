@@ -23,15 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Cleaning Robot Market Size Worth USD 36.05 Billion in 2028 - Emergen Research"
-    excerpt: "Transform cleaning with cutting-edge robots. Enhance hygiene in your home or business with automated solutions that save time and"
-    publishedDateTime: 2023-04-24T18:38:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/cleaning-robot-market-size-worth-usd-36-05-billion-in-2028---emergen-research-1032254421"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 46
   - title: "Artificial Intelligence in the Education Sector Market Size Worth USD 17.83 Billion by 2027 – Emergen Research"
     excerpt: "AI transforming education: personalized learning, improved outcomes, and reduced costsVANCOUVER, Canada - April 26, 2023 — The global"
     publishedDateTime: 2023-04-26T16:33:00Z
@@ -41,15 +32,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 46
-  - title: "Digital Workplace Market Size Worth USD 90.52 Billion in 2028 – By Emergen Research"
-    excerpt: "Embrace the digital revolution with the latest workplace solutions. Discover the benefits of digital transformation with customizable services"
-    publishedDateTime: 2023-04-24T18:40:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/digital-workplace-market-size-worth-usd-90-52-billion-in-2028-–-by-emergen-research-1032254427"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 28
   - title: "Natural Language Processing Market Size Will Have Significant Potential in Future Reaching Over USD 144.9 Billion by 2032"
     excerpt: "Global Natural Language Processing Market Size in 2022 was USD 15.7 Billion, Market Value set to reach USD 144.9 Billion"
     publishedDateTime: 2023-04-27T10:14:00Z

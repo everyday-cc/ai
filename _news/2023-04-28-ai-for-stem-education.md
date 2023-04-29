@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencefriday.com/articles/ai-for-stem-education/"
 webUrl: "https://www.sciencefriday.com/articles/ai-for-stem-education/"
 type: article
 quality: 56
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "The 7 Best Semiconductor Stocks for the AI Boom"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips With the world pivoting towards artificial intelligence, savvy investors are"
-    publishedDateTime: 2023-04-25T18:27:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-7-best-semiconductor-stocks-for-the-ai-boom-1032259713"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "Recommendations for handling AI in schools"
     excerpt: "The Berlin Senate Department for Education has issued recommendations for teachers on the use of artificial intelligence (AI) in schools."
     publishedDateTime: 2023-04-25T15:32:00Z

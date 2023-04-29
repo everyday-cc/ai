@@ -225,6 +225,20 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Speech and Voice Recognition Technology Market Size 2023 with SWOT and PESTAL Analysis | Forecast to 2031"
+    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
+    publishedDateTime: 2023-04-28T18:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-technology-market-size-2023-with-swot-and-pestal-analysis-forecast-to-2031-2023-04-28?tesla=y"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Medicine Market 2025"
     excerpt: "The Artificial Intelligence (AI) in Medicine market is a rapidly growing segment of the healthcare industry that is expected to significantly transform the way healthcare is delivered in the future. AI technology has the potential to revolutionize healthcare by improving the accuracy,"
     publishedDateTime: 2023-04-28T12:15:00Z
@@ -234,15 +248,6 @@ related:
       name: PharmiWeb
       domain: pharmiweb.com
     quality: 19
-  - title: "Global Artificial Intelligence In Agriculture Market Report 2023: Sector Is Expected To Reach $4.9 Billion By 2030 At A CAGR Of 24.1%"
-    excerpt: "The \"global artificial intelligence in agriculture market size, share & industry trends analysis report by technology, application, offering, regional outlook and forecast, 2022-2028\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2023-04-24T17:08:00Z
-    webUrl: "https://menafn.com/1106081579/Global-Artificial-Intelligence-In-Agriculture-Market-Report-2023-Sector-Is-Expected-To-Reach-49-Billion-By-2030-At-A-CAGR-Of-241"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 0
 
 secured: "Ku4oftmIOrByDYz+uj0ipOSVILxvy78xgwbFn/4+KiwacEagAsKLR/fYRHdsK7KQuZKzfee7Y5dYi3X3jeVI6h5Cod0ORVp/s4PqL33Y9kwElwNH/O9EjEE74bp1LVyz3C1QNCSkp4UnAj/y+/A9KylQLE+smfkD8BJwidBbowKEitazg2QZYIbFrp6LQRlhWtxGW7r5uO/QvNtrHO+QAs4vTON9VLGNIzCifzEqRgUgXE0TYh3GRz5NXt+Jh5BKoaA8yD1LWszTXMPIA1tE2Uu7OsPQ82WF+Ffp/JyrA9kE5fNPUN7wxBDNm3zkX8Oc7nMOBOdjOyuddICnn21xNAzdd5N910ggpiOBlUe4MTg=;ypyO3hSUBWWabbXzxk8kyg=="
 ---

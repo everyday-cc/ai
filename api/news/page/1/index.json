@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-04-29-this-ai-startup-is-building-better-tools-than-aws-sagemaker-and-google-automl.md",
+      "title": "This AI Startup is Building Better Tools Than AWS Sagemaker and Google AutoML",
+      "excerpt": "Nirman Dave, CEO at Obviously AI claimed that their models are better than those of AWS Sagemaker or Google AutoML.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/this-ai-startup-is-building-better-tools-than-aws-sagemaker-and-google-automl/",
+      "originalUrl": "https://analyticsindiamag.com/this-ai-startup-is-building-better-tools-than-aws-sagemaker-and-google-automl/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/04/Obviously-AI-1.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-29T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-04-29-artificial-intelligence-changing-politics-with-fake-images-and-videos.md",
       "title": "Artificial intelligence changing politics with fake images and videos",
       "excerpt": "Artificial intelligence is adding a new dimension to the political universe. NBC News’ Hallie Jackson reports on the danger of disinformation that could come along with the tech, showing us how easily AI can be used to make fake videos or images.",
@@ -206,7 +250,7 @@
       "originalUrl": "https://www.benzinga.com/pressreleases/23/04/g32091127/miami-dade-college-will-once-again-host-artificial-intelligence-bootcamp-applications-now-open",
       "featuredContent": null,
       "highlight": null,
-      "heat": 231,
+      "heat": 241,
       "tags": null,
       "images": [
         {
@@ -237,49 +281,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-29-idvv-moves-forward-in-artificial-intelligence-ai-sector.md",
-      "title": "IDVV Moves Forward In Artificial Intelligence AI Sector",
-      "excerpt": "LOS ANGELES, CA / ACCESSWIRE / April 28, 2023 / International Endeavors Corporation 'IEC' (OTC PINK:IDVV) announced the following corporate",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/idvv-moves-forward-in-artificial-intelligence-ai-sector-1032274576",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/idvv-moves-forward-in-artificial-intelligence-ai-sector-1032274576",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-28T10:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     },
@@ -498,7 +499,7 @@
       "originalUrl": "https://www.sciencefriday.com/articles/ai-for-stem-education/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -676,6 +677,49 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-28-french-privacy-chief-warns-against-using-facial-recognition-for-2024-olympics.md",
+      "title": "French privacy chief warns against using facial recognition for 2024 Olympics",
+      "excerpt": "PARIS — The French data protection authority's president Marie-Laure Denis warned Tuesday against using facial recognition as part of the 2024 Paris Summer Olympics security toolkit. \"The members of the CNIL's college call on parliamentarians not to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.eu/article/french-privacy-chief-warns-against-using-facial-recognition-for-2024-olympics/",
+      "originalUrl": "https://www.politico.eu/article/french-privacy-chief-warns-against-using-facial-recognition-for-2024-olympics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/01/24/GettyImages-1161938837-scaled.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.eu/article/french-privacy-chief-warns-against-using-facial-recognition-for-2024-olympics/amp/",
+      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/french-privacy-chief-warns-against-using-facial-recognition-for-2024-olympics/amp/",
+      "publishedDateTime": "2023-04-28T05:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico Europe",
+        "domain": "politico.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -1139,58 +1183,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/04/28/seven-in-ten-business-leaders-want-robots-to-make-their-decisions-for-them/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/04/28/seven-in-ten-business-leaders-want-robots-to-make-their-decisions-for-them/amp/",
       "publishedDateTime": "2023-04-27T21:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-how-robot-art-reveals-the-power-of-humanity.md",
-      "title": "How Robot Art Reveals The Power Of Humanity",
-      "excerpt": "Pilat asserts that AI is gleaning its information from the internet, not real human programming, and as a result, it is detached from the lived human experience. This sense of independence contributes to the development of the robot’s unique sense of style.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alexandrabregman/2023/04/28/how-robot-art-reveals-the-power-of-humanity/",
-      "originalUrl": "https://www.forbes.com/sites/alexandrabregman/2023/04/28/how-robot-art-reveals-the-power-of-humanity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/644874be017ebc582f51f763/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/alexandrabregman/2023/04/28/how-robot-art-reveals-the-power-of-humanity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexandrabregman/2023/04/28/how-robot-art-reveals-the-power-of-humanity/amp/",
-      "publishedDateTime": "2023-04-27T21:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

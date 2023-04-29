@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-04-29-this-ai-startup-is-building-better-tools-than-aws-sagemaker-and-google-automl.md",
+      "title": "This AI Startup is Building Better Tools Than AWS Sagemaker and Google AutoML",
+      "excerpt": "Nirman Dave, CEO at Obviously AI claimed that their models are better than those of AWS Sagemaker or Google AutoML.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/this-ai-startup-is-building-better-tools-than-aws-sagemaker-and-google-automl/",
+      "originalUrl": "https://analyticsindiamag.com/this-ai-startup-is-building-better-tools-than-aws-sagemaker-and-google-automl/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/04/Obviously-AI-1.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-29T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-04-28-machine-learning-operations-mlops-market-research-analysis-2023-2031.md",
       "title": "Machine Learning Operations (MLOps) Market Research Analysis 2023-2031",
       "excerpt": "What is the Machine Learning Operations (MLOps) market growth? Machine Learning Operations (MLOps) Market Size is projected to Reach Multimillion USD by 2031, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2031.",
@@ -999,6 +1043,49 @@
       ]
     },
     {
+      "path": "_news/2023-04-20-drones-navigate-unseen-environments-with-liquid-neural-networks.md",
+      "title": "Drones Navigate Unseen Environments With Liquid Neural Networks",
+      "excerpt": "guided by liquid neural networks to navigate ever-changing and unseen environments with precision and ease. Inspired by the adaptable nature of organic brains, researchers from MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologynetworks.com/informatics/news/drones-navigate-unseen-environments-with-liquid-neural-networks-372383",
+      "originalUrl": "https://www.technologynetworks.com/informatics/news/drones-navigate-unseen-environments-with-liquid-neural-networks-372383",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/372383/drones-navigate-unseen-environments-with-liquid-neural-networks-372383-640x360.jpg?cb=20230420",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-20T03:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technologynetworks",
+        "domain": "technologynetworks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-20-how-amazon-has-reorganized-around-artificial-intelligence-and-machine-learning.md",
       "title": "How Amazon Has Reorganized Around Artificial Intelligence And Machine Learning",
       "excerpt": "I am a Customer Experience Futurist, Author and Keynote Speaker. In honor of Amazon Prime Day, let’s take a look at the inner workings of this company that is pushing the bounds of innovation ...",
@@ -1288,49 +1375,6 @@
       ]
     },
     {
-      "path": "_news/2023-04-20-drones-navigate-unseen-environments-with-liquid-neural-networks.md",
-      "title": "Drones navigate unseen environments with liquid neural networks",
-      "excerpt": "In the vast, expansive skies where birds once ruled supreme, a new crop of aviators is taking flight. These pioneers of the air are not living creatures, but rather a product of deliberate innovation: drones.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-04-drones-unseen-environments-liquid-neural.html",
-      "originalUrl": "https://techxplore.com/news/2023-04-drones-unseen-environments-liquid-neural.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/drones-navigate-unseen.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-04-drones-unseen-environments-liquid-neural.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-04-drones-unseen-environments-liquid-neural.amp",
-      "publishedDateTime": "2023-04-19T13:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-19-applying-ai-to-crack-the-problem-of-safer-better-petroleum-processing.md",
       "title": "Applying AI to crack the problem of safer, better petroleum processing",
       "excerpt": "To better examine and optimize the process of catalytic cracking, the team investigated neural networks. This type of artificial intelligence models how it processes data on the human brain ...",
@@ -1362,60 +1406,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-3-exciting-jobs-in-artificial-intelligence-and-machine-learning-this-week.md",
-      "title": "3 exciting jobs in artificial intelligence and machine learning this week",
-      "excerpt": "Rising adoption in AI/ML is leading to job opportunities both within the sector, and as a result of AI-driven automation",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/3-exciting-jobs-in-artificial-intelligence-and-machine-learning-this-week/",
-      "originalUrl": "https://venturebeat.com/ai/3-exciting-jobs-in-artificial-intelligence-and-machine-learning-this-week/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/04/hitesh-choudhary-t1PaIbMTJIM-unsplash.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 673,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/3-exciting-jobs-in-artificial-intelligence-and-machine-learning-this-week/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/3-exciting-jobs-in-artificial-intelligence-and-machine-learning-this-week/amp/",
-      "publishedDateTime": "2023-04-18T13:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics",
-        "Google AI"
       ]
     }
   ],

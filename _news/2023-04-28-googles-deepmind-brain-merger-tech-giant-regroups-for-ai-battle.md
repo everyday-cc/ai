@@ -33,6 +33,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Why Google DeepMind may be 'bad news' for the company"
+    excerpt: "According to a report by The Financial Times, Google is risking internal turmoil by bringing DeepMind onboard. Citing people familiar with the matter,"
+    publishedDateTime: 2023-04-29T10:20:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/why-google-deepmind-may-be-bad-news-for-the-company/articleshow/99868387.cms"
+    ampWebUrl: "https://m.timesofindia.com/gadgets-news/why-google-deepmind-may-be-bad-news-for-the-company/amp_articleshow/99868387.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/why-google-deepmind-may-be-bad-news-for-the-company/amp_articleshow/99868387.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-99868418,width-1070,height-580,imgsize-1272816,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1069
+        height: 580
+        isCached: true
   - title: "Google Merges DeepMind and Brain AI Units"
     excerpt: "Google has merged its artificial intelligence research units, DeepMind and Brain, to form a new unit called Google DeepMind. Google acquired DeepMind in 2014. The firm combines machine learning techniques with neuroscience systems to build learning algorithms for eCommerce and games development."
     publishedDateTime: 2023-04-24T23:32:00Z

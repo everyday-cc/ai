@@ -58,6 +58,22 @@ related:
         width: 1200
         height: 798
         isCached: true
+  - title: "Sneakily Using Generative AI ChatGPT To Spout Legalese And Imply That You’ve Hired An Attorney, Unsettling For AI Ethics And AI Law"
+    excerpt: "People are using ChatGPT and other generative AI to compose letters that have legalese, aiming to intimidate others. Is this allowed? Should it be stopped? Here is the insider scoop."
+    publishedDateTime: 2023-04-29T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/04/29/sneakily-using-generative-ai-chatgpt-to-spout-legalese-and-imply-that-youve-hired-an-attorney-unsettling-for-ai-ethics-and-ai-law/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/04/29/sneakily-using-generative-ai-chatgpt-to-spout-legalese-and-imply-that-youve-hired-an-attorney-unsettling-for-ai-ethics-and-ai-law/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/04/29/sneakily-using-generative-ai-chatgpt-to-spout-legalese-and-imply-that-youve-hired-an-attorney-unsettling-for-ai-ethics-and-ai-law/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64498827383d36579551f765/0x0.jpg?format=jpg&crop=2429,1619,x557,y0,safe&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "ChatGPT may have better bedside manner than some doctors, but it lacks some expertise"
     excerpt: "ChatGPT can be a useful tool for patients who are seeking medical information and guidance, but the artificial intelligence tool can't fully replace the value of a human physician -- it says so itself."
     publishedDateTime: 2023-04-28T15:03:00Z
@@ -299,6 +315,6 @@ related:
       domain: benzinga.com
     quality: 0
 
-secured: "rScWBbaFurGUTgx8Ytm4MON3wCufMO/x7GzVbfs8bpgAJ6dMei1IoIEnVrB16V8Qub+tbmnvJL7R68YLD5vtRuh53DWcstxh7Ooi22mJVSI+ko+vD2TxCPq14lJaaEeEchYeiJ3V4urKHvEgmE46hQNpMtuotSs86jyqvrEBdDXu9Vj5zEVZrjdaCXE6cDxMiBaonzbS+3U6NL6ELeemD12rFXOCgjAqPE/vfonZQJ6Ui0kKxFZMofFJ06TuOiYuP1Mk3U12uwhFD7EYC9ZNjX+TxQYkoaCRrV4gfF1NOcvaTrkXjtyuFgiWPcLeAOM2tp04f854qcgDUz8b5dcsHMkgFoa5xGQgUoweHujIUn8=;v8aXMv0DT5dV0ALWSC+B3g=="
+secured: "KHEFhxymtsuchzaOwo/FfOswu4jGJ2i0eXuEmhlCQTDxrt2ZjRcYUlSRNv9Oyz7sObjJMu8oRMeZDnufUBGL901ffFDwhm7VhM789sH8Cz0uUR3arinZ1uolrLhZvxuFz2pkWGkwD5xeQgaFPDniOQmLJCJoPjlJt/KGsl530u+pciY5B1Cnw/VW4SMFjFVYJ15ObW4grchIokXrHXHdtE01176CxhN5Qs4iE3EGMEco4fPfad7bVUjjX+BxBLn0wdANcBFAoC2TIoZfqcNRFKNFwkNd0hocb2fRPkIV2+vmvji2NHEq54UiX/mduOaKZd+ZND8uyIAhqS/FjtNC8iylnrT8XfkpK3Lbe0o3erRfm5VvFNQPhbQmFyhqCnAhXCacpKXV+qDbcDydgzlgwKYtJ3msrqUwgYsm25KEZuKQi61IodpmcnS/0yQ0wvX0G2O5ya14vhbcEkyvv8w4jJQFA+PDzekYsj6rN8d3TrI+Zmuu/PwOE+1J4hIHdLSe+8g9x737dp2cRdHAGOqOyg==;cgD6xhYXcCFjuAyzCEdmRA=="
 ---
 

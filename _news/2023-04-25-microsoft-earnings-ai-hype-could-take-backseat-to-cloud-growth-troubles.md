@@ -89,22 +89,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft-backed tech group pushes for AI regulation: Here's what it's suggesting"
-    excerpt: "\"We're an industry group that wants Congress to pass this legislation,\" said Craig Albright, vice president of U.S. government relations at BSA."
-    publishedDateTime: 2023-04-24T19:00:00Z
-    webUrl: "https://www.cnbc.com/2023/04/24/microsoft-backed-tech-group-bsa-pushes-for-ai-regulation.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2023/04/24/microsoft-backed-tech-group-bsa-pushes-for-ai-regulation.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/04/24/microsoft-backed-tech-group-bsa-pushes-for-ai-regulation.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 99
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107217766-1680185818324-gettyimages-1248335425-raa-openaich230315_npwTZ.jpeg?v=1682370030"
-        width: 5784
-        height: 3848
-        isCached: true
   - title: "Microsoft Results Top Forecasts, Shares Jump 8% As AI Juices Sales"
     excerpt: "Microsoft Corp beat Wall Street's estimates for quarterly revenue and profit on Tuesday, driven by growth in its cloud computing and Office productivity software businesses, and the company said artificial intelligence products were stimulating sales."
     publishedDateTime: 2023-04-26T01:55:00Z

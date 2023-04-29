@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/security/us-senator-open-letter-calls-for-ai
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/us-senator-open-letter-calls-for-ai-security-at-forefront-of-development/amp/"
 type: article
 quality: 102
-heat: 112
+heat: 102
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Tech leaders call for pause in AI development"
-    excerpt: "CBS News Bay Area anchor Elizabeth Cook asks Olaf Groth, PhD, from UC Berkeley's Haas School of Business, why some tech leaders are concerned that the development of artificial intelligence technology"
-    publishedDateTime: 2023-04-24T18:04:00Z
-    webUrl: "https://www.cbsnews.com/sanfrancisco/video/tech-leaders-call-for-pause-in-ai-development/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 17
 
 secured: "vFBreBlAsAQsJuh8aycSd0v22MwyEik/xKb6ArWCsyB1NG+qkSsca/tT4oHw5A0MRGY4GPmNf50NSUWmCLPRt5Zs/u/TzTKRx0sM/XG6mQ03ozTkVb5cIGLYee290nTNTrr3ptoZY+Dl4VgHLeWnWRbPwGo3DutInpCaDdzkngueAi/LxxwcL4NF3WQcIw0hiiOeT/woqtn3d2uJoE9598vvyAVBfWb1Qzd84mI0zPwMc5YBnZ8mfVAqV26vu6PmFimR0ckUeK4Ps7LPsN1DP83Bt0KDVABcqUUTHl37/Fj1KtpMRaWpJaj5d+iaVPfjQc8QZGSMzHphQvi7oHKSVbS5VdZ+FFvQqXekX+SKrPo=;Hupsi4G7cSuBf0SC4guTQw=="
 ---
