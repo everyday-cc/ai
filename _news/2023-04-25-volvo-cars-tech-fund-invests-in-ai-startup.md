@@ -56,6 +56,20 @@ related:
         width: 2880
         height: 1620
         isCached: true
+  - title: "Here's How the Cloud is Revolutionizing Health Tech and FinTech"
+    excerpt: "Overcoming the model of office and lab work with cloud computing Cloud computing systems have allowed enterprises, schools, and government organizations to overcome pandemic-induced challenges and meaningfully accelerate innovation and agility toward the market."
+    publishedDateTime: 2023-04-28T22:39:00Z
+    webUrl: "https://www.entrepreneur.com/science-technology/cloud-revolutionizes-healthtech-fintech/450667"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 54
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1682721803-GettyImages-1365582863.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Stanford: Fintech Maintains Position as Third Biggest AI Investment Focus Area"
     excerpt: "In 2022, global private investment in artificial intelligence (AI) companies reached US$91.9 billion, a 18-fold increase compared with 2013. Of that sum, fintech companies secured the third largest amount,"
     publishedDateTime: 2023-04-25T06:46:00Z

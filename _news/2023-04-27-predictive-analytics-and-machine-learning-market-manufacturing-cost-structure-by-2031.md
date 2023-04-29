@@ -37,6 +37,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Saudi Arabia Big Data Analytics Markets, Competitions Forecast"
+    excerpt: "The \"Saudi Arabia Big Data Analytics Market By Deployment Mode (On-Premise, Cloud and Hybrid), By Application, By Component, By Organization Size, By Analytics Type, By End Use Industry, By Region, Competition Forecast & Opportunities,"
+    publishedDateTime: 2023-04-28T23:52:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-saudi-arabia-big-data-analytics-markets-competitions-forecast-/2023/04/28/9804449.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 24
+    images:
+      - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
+        width: 550
+        height: 353
+        isCached: true
   - title: "3 Ways Payers Can Employ Machine Learning, Advanced Analytics"
     excerpt: "MVP Health Care (MVP) has been piloting machine learning and advanced analytics solutions and, in the process, explored three key uses for these types of tools. Machine learning falls under the umbrella of artificial intelligence tools."
     publishedDateTime: 2023-04-25T13:30:00Z

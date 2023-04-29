@@ -42,22 +42,6 @@ related:
         width: 790
         height: 526
         isCached: true
-  - title: "Google moves AI chip engineering team to Google Cloud"
-    excerpt: "The team at Google which was engineering artificial intelligence chips has been shifted to the Google Cloud sector, according to a report by The Information."
-    publishedDateTime: 2023-04-24T06:09:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/google-moves-ai-chip-engineering-team-google-cloud/article66772554.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/google-moves-ai-chip-engineering-team-google-cloud/article66772554.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/google-moves-ai-chip-engineering-team-google-cloud/article66772554.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 74
-    images:
-      - url: "https://th-i.thgim.com/public/incoming/ykjak6/article66772553.ece/alternates/FREE_1200/2023-02-27T170818Z_1823284669_RC2RJZ9GD7U8_RTRMADP_3_TECH-CONFERENCE-MWC.JPG"
-        width: 1200
-        height: 814
-        isCached: true
   - title: "The latest on software, data and artificial intelligence"
     excerpt: "C4ISRNET Editor in Chief Mike Gruss speaks with Pentagon and Space Command officials on the transformation to a high-tech, digital-forward force."
     publishedDateTime: 2023-04-26T20:16:00Z

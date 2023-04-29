@@ -42,6 +42,20 @@ related:
         width: 740
         height: 450
         isCached: true
+  - title: "Here's How the Cloud is Revolutionizing Health Tech and FinTech"
+    excerpt: "Overcoming the model of office and lab work with cloud computing Cloud computing systems have allowed enterprises, schools, and government organizations to overcome pandemic-induced challenges and meaningfully accelerate innovation and agility toward the market."
+    publishedDateTime: 2023-04-28T22:39:00Z
+    webUrl: "https://www.entrepreneur.com/science-technology/cloud-revolutionizes-healthtech-fintech/450667"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 54
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1682721803-GettyImages-1365582863.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Volvo Cars Tech Fund invests in AI startup"
     excerpt: "Geely’s Volvo Cars said it had made a “strategic investment” in CorrActions, an Israeli deep tech brain monitoring AI startup which has developed a technology the automaker believes will “disrupt brain activity monitoring and may help us understand drivers even better”."
     publishedDateTime: 2023-04-25T10:28:00Z

@@ -42,6 +42,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 42
+  - title: "Saudi Arabia Big Data Analytics Markets, Competitions Forecast"
+    excerpt: "The \"Saudi Arabia Big Data Analytics Market By Deployment Mode (On-Premise, Cloud and Hybrid), By Application, By Component, By Organization Size, By Analytics Type, By End Use Industry, By Region, Competition Forecast & Opportunities,"
+    publishedDateTime: 2023-04-28T23:52:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-saudi-arabia-big-data-analytics-markets-competitions-forecast-/2023/04/28/9804449.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 24
+    images:
+      - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
+        width: 550
+        height: 353
+        isCached: true
   - title: "Grid Dynamics AWS Analytics Platform Starter Kit Leveraged by Client, Mistplay, to Improve Business Operations"
     excerpt: "Grid Dynamics Holdings, Inc. (NASDAQ:GDYN) (Grid Dynamics), a leader in enterprise-level digital transformation services and solutions, announced today that its client, Mistplay, the leading loyalty"
     publishedDateTime: 2023-04-25T12:45:00Z

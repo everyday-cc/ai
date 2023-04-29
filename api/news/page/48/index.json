@@ -2,6 +2,144 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2023-03-16-artificial-intelligence-for-healthcare-applications-market-growth-and-forecast-till-2029.md",
+      "title": "Artificial Intelligence for Healthcare Applications Market Growth and Forecast till 2029",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 15, 2023 (The Expresswire) -- The \"Artificial Intelligence for Healthcare Applications Market\" study describes how the technology industry is evolving and how major and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-for-healthcare-applications-market-growth-and-forecast-till-2029-2023-03-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-for-healthcare-applications-market-growth-and-forecast-till-2029-2023-03-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 305,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-15T18:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-16-chinas-baidu-races-waymo-gm-to-develop-self-driving-cars.md",
+      "title": "China’s Baidu races Waymo, GM to develop self-driving cars",
+      "excerpt": "A technician monitors a self-driving taxi developed by tech giant Baidu Inc. on June 14, 2022, in Beijing. (AP Photo/Ng Han Guan) BEIJING (AP) — With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc. is rolling down a Beijing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.courthousenews.com/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/",
+      "originalUrl": "https://www.courthousenews.com/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.courthousenews.com/wp-content/uploads/2022/06/baidu-self-driving-taxi.jpg",
+          "width": 2600,
+          "height": 1733,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-15T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Courthouse News Service",
+        "domain": "courthousenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-16-developing-artificial-intelligence-for-medical-devices.md",
+      "title": "Developing Artificial Intelligence for Medical Devices",
+      "excerpt": "However, a Canadian company specializing in artificial intelligence (AI)-based monitoring of the spread of infectious diseases had already warned its customers of the risk of an epidemic in China as early as December 2019. 1 The warning had been derived ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/artificial-intelligence/developing-artificial-intelligence-medical-devices",
+      "originalUrl": "https://www.mddionline.com/artificial-intelligence/developing-artificial-intelligence-medical-devices",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/mddionline.com/files/artificial-intelligence-5291510_640_web.jpg",
+          "width": 770,
+          "height": 440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-15T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-16-direxion-daily-robotics-artificial-intelligence-automation-index-bull-2x-shar.md",
       "title": "Direxion Daily Robotics, Artificial Intelligence & Automation Index Bull 2X Shar",
       "excerpt": "There is no recent news for this security. Got a confidential news tip? We want to hear from you. Sign up for free newsletters and get more CNBC delivered to your inbox Get this delivered to your ...",
@@ -1063,166 +1201,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-6-ways-google-ai-is-helping-you-sleep-better.md",
-      "title": "6 ways Google AI is helping you sleep better",
-      "excerpt": "Learn how features like Sleep Profiles, Smart Wake and cough and snore detection are powered by AI to help you get better sleep.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/pixel/health-ai-better-sleep/",
-      "originalUrl": "https://blog.google/products/pixel/health-ai-better-sleep/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/New__revised_0312_Keyword_blog-header-animated-final_YCPcPYO.gif",
-          "width": 2096,
-          "height": 1182,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-15T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-can-healthcare-show-the-way-forward-for-scaling-ai.md",
-      "title": "Can healthcare show the way forward for scaling AI?",
-      "excerpt": "Azure ML, a bunch of governance models — and all the development environments around .NET, Visual Studio, and all these things that make it easier, not trivial, to build and deploy AI products. Once you’re running, you need to look closely at ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/can-healthcare-show-the-way-forward-for-scaling-ai/",
-      "originalUrl": "https://venturebeat.com/ai/can-healthcare-show-the-way-forward-for-scaling-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/03/7-Applying-AI-at-Scale-in-Healthcare.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/can-healthcare-show-the-way-forward-for-scaling-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/can-healthcare-show-the-way-forward-for-scaling-ai/amp/",
-      "publishedDateTime": "2023-03-15T08:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare",
-        "Natural Language Processing",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-how-synthetic-data-is-boosting-ai-at-scale.md",
-      "title": "How synthetic data is boosting AI at scale",
-      "excerpt": "Artificial intelligence (AI) relies heavily on large ... “During my time at Google’s self-driving car project Waymo, we used a combination of both. Synthetic data will play a big role in situations we never want to experience in the real world.”",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/synthetic-data-to-boost-ai-at-scale/",
-      "originalUrl": "https://venturebeat.com/ai/synthetic-data-to-boost-ai-at-scale/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/03/2-Synthetic-data-to-boost-AI-at-scale.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/synthetic-data-to-boost-ai-at-scale/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/synthetic-data-to-boost-ai-at-scale/amp/",
-      "publishedDateTime": "2023-03-15T08:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "IBM AI"
       ]
     }
   ],

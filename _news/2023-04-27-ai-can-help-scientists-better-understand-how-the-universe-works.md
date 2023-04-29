@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-04-27/ai-can-help-sci
 webUrl: "https://www.bloomberg.com/news/articles/2023-04-27/ai-can-help-scientists-better-understand-how-the-universe-works"
 type: article
 quality: 67
-heat: 81
+heat: 77
 published: true
 
 provider:

@@ -127,15 +127,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Cancer Market 2023 Insight and Global Trends"
-    excerpt: "The Artificial Intelligence (AI) in Cancer Market (2023-2030) Updated Latest Research Report analyzes the market's"
-    publishedDateTime: 2023-04-24T06:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-cancer-market-2023-insight-and-global-trends-2023-04-24"
+  - title: "Artificial Intelligence (AI) Consulting Market Research, 2023-2030"
+    excerpt: "Consulting Report 2023 The report further studies the market development status and future Artificial Intelligence (AI) Consulting Market trends across the world. Also, it splits Artificial Intelligence (AI) Consulting Market Segmentation by Type and by Applications to fully and deeply research and reveal market profiles and prospects."
+    publishedDateTime: 2023-04-28T14:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-consulting-market-research-2023-2030-2023-04-28"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 81
+    quality: 82
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

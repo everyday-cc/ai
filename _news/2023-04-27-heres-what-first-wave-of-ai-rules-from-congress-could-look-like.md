@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/first-wave-ai-rules-congress-look-l
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/first-wave-ai-rules-congress-look-like.amp"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:

@@ -7,7 +7,7 @@ originalUrl: "https://www.ft.com/content/9bc5e530-ac72-4b4c-9eb1-f5e5c48f34c9"
 webUrl: "https://www.ft.com/content/9bc5e530-ac72-4b4c-9eb1-f5e5c48f34c9"
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,45 @@ images:
     width: 619
     height: 377
     isCached: true
+
+related:
+  - title: "How The AI Revolution Is Liberating Workers from the Office"
+    excerpt: "With the advent of generative AI like ChatGPT, we are on the cusp of realizing the full potential of remote and hybrid work by reducing — while not eliminating — the benefits of office visits."
+    publishedDateTime: 2023-04-24T21:00:00Z
+    webUrl: "https://www.entrepreneur.com/growing-a-business/how-the-ai-revolution-is-liberating-workers-from-the-office/450169"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1682348563-GettyImages-1369567912.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "The AI Revolution: How Companies like Nvidia and Tesla Are Leading the Way"
+    excerpt: "Two that come to mind as industry leaders are Nvidia (NASDAQ: NVDA) and Tesla (NASDAQ: TSLA). If you want a litmus test to see how a company utilizes this technology, compare it to these two leaders and see how it stacks up."
+    publishedDateTime: 2023-04-27T11:25:00Z
+    webUrl: "https://moneymorning.com/investing/the-ai-revolution-how-companies-like-nvidia-and-tesla-are-leading-the-way/"
+    type: article
+    provider:
+      name: Money Morning
+      domain: moneymorning.com
+    quality: 54
+    images:
+      - url: "https://moneymorning.com/wp-content/blogs.dir/1/files/2023/04/motley-fool-mark.png"
+        width: 940
+        height: 940
+        isCached: true
+  - title: "OneMeta AI launches VerbumCall: The Ultimate AI-driven Mobile Phone Translation Service Revolutionizing Global Communication"
+    excerpt: "OneMeta AI, the pioneering mastermind behind AI-powered language solutions, has unveiled the groundbreaking VerbumCall"
+    publishedDateTime: 2023-04-25T12:04:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-04/58903873-onemeta-ai-launches-verbumcall-the-ultimate-ai-driven-mobile-phone-translation-service-revolutionizing-global-communication-200.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 0
 
 secured: "sLMrvUytaOGglCQADDz7hiLdC7BQGr+91WHPuc1npeUN5wGNN/GY/hvQ80wW8wQgTokfrX5BzzIKG3uZPeo/rIxumaoCogJtaQO/hBB3uJLdJHQtVRE9eM50DTVZjDqVms22BYFPlCpR45XePr5ovAVZeoF9yuiFSMLxPaIXDxvQ/q7EPmyWR2k+RcfQN5snA2VKtpbavy1QVgVPmbjqTux2nBO0tiir9cZtkhfiopjkpgSCl/wp55skkuzJHkRhI5TJWfwLlkv8+AK8SR51wHraxjNSSersALkqjdCals/G1p24uqDaF5VY75UHAx2NdoSWjMrYjT0EDxhmtBKLlTRTrhLLVOe/l9z/z2rINO/rUx4OiHd4kwnndAkDz4nWlgicO6ti/KfU1ZfZK1f2VI333AgzokXTF2Tg7TBdArr3Ah3e+aQlZpOcbODcxvkzNRZtG4WkMnUBnm9fBOppQNFq5svKqwaiiY5EGtgrSUXHwudSkycLYly0jTSbfYSVgJDONJBAYLhhI6Z/+uMSWQ==;DAj2eY46ykfKk4d+ndLsHw=="
 ---

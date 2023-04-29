@@ -523,6 +523,22 @@ related:
         width: 770
         height: 435
         isCached: true
+  - title: "Artificial intelligence bot ChatGPT has a better bedside manner than REAL doctors, study shows"
+    excerpt: "ARTIFICIAL Intelligence bot ChatGPT has a better bedside manner than real doctors, a study shows. It was judged to give higher quality and more empathetic answers to real-world health questions 79"
+    publishedDateTime: 2023-04-28T20:38:00Z
+    webUrl: "https://www.thesun.co.uk/health/22199736/chargpt-better-bedside-manner-real-doctors/"
+    ampWebUrl: "https://www.thesun.co.uk/health/22199736/chargpt-better-bedside-manner-real-doctors/amp/"
+    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/health/22199736/chargpt-better-bedside-manner-real-doctors/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: thesun.co.uk
+    quality: 47
+    images:
+      - url: "https://www.thesun.co.uk/wp-content/uploads/2023/04/NINTCHDBPICT000813339870.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Microsoft beats expectations and forecasts strong revenue growth driven by investments in AI"
     excerpt: "Microsoft Corp. delivered a strong earnings and revenue beat, grew its operating income and forecast another solid beat for the coming quarter, sending its shares up more than 8% in late trading today."
     publishedDateTime: 2023-04-26T01:28:00Z

@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI revolution: Manufacturers hope for artificial intelligence boost in factories"
-    excerpt: "Manufacturers are hoping for the artificial intelligence revolution to reach their factories, envisaging robots being used to repair complex machinery. There has been an explosion of interest in uses of AI across many sectors since the launch last year of chatbot ChatGPT from US startup OpenAI."
-    publishedDateTime: 2023-04-24T05:18:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/ai-revolution-manufacturers-hope-for-artificial-intelligence-boost-in-factories-71682272340109.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/ai-revolution-manufacturers-hope-for-artificial-intelligence-boost-in-factories-71682272340109.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/ai-revolution-manufacturers-hope-for-artificial-intelligence-boost-in-factories-71682272340109.html"
-    type: article
-    provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 69
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2023/04/24/1600x900/AI-COMPANIES--2_1681557402437_1681557402437_1682312254516.JPG"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "How The AI Revolution Is Liberating Workers from the Office"
     excerpt: "With the advent of generative AI like ChatGPT, we are on the cusp of realizing the full potential of remote and hybrid work by reducing — while not eliminating — the benefits of office visits."
     publishedDateTime: 2023-04-24T21:00:00Z
@@ -56,15 +40,29 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Manufacturers hope for AI boost in factory repairs"
-    excerpt: "HANOVER–Manufacturers are hoping for the artificial intelligence revolution to reach their factories, envisaging robots being used to repair complex machinery."
-    publishedDateTime: 2023-04-24T10:30:00Z
-    webUrl: "https://www.manilastandard.net/business/power-technology/314324509/manufacturers-hope-for-ai-boost-in-factory-repairs.html"
+  - title: "The dangers of letting AI loose on finance"
+    excerpt: "We must recognise the stability risks — whether over-concentration or digital herding — as well as the benefits"
+    publishedDateTime: 2023-04-27T16:07:00Z
+    webUrl: "https://www.ft.com/content/9bc5e530-ac72-4b4c-9eb1-f5e5c48f34c9"
     type: article
     provider:
-      name: manilastandard
-      domain: manilastandard.net
-    quality: 19
+      name: The Financial Times
+      domain: ft.com
+    quality: 54
+    images:
+      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
+        width: 619
+        height: 377
+        isCached: true
+  - title: "OneMeta AI launches VerbumCall: The Ultimate AI-driven Mobile Phone Translation Service Revolutionizing Global Communication"
+    excerpt: "OneMeta AI, the pioneering mastermind behind AI-powered language solutions, has unveiled the groundbreaking VerbumCall"
+    publishedDateTime: 2023-04-25T12:04:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-04/58903873-onemeta-ai-launches-verbumcall-the-ultimate-ai-driven-mobile-phone-translation-service-revolutionizing-global-communication-200.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 0
 
 secured: "/JCriaLhuO6xXPfq/1yxqK1Pa8jor96XrLm62sBhjnwVVD6V0w4vTetOBqKPH5tqmG+nWY6K0Atu64d5POJniyb5xLHxziGO0t3QDakYR8MdstNooxp4bi6CMQ+e7F0pqU/QO1UDnqYxAMWyUYigPERgpEtQ9MKHw9+hUsml/09+o1WAVrA+1g67M3IR5wCxFhwrdIdArlU3NHLWh7YQm1oBAgLOMK4u5GGy/8Hx0I0jUMa/tKai+k49zfnHsyDAsQLUY3hVlCPjk0onB6puF1LtMs4zXlAG8AXd31TeNSCR4bQIZbHD8xho04jhbWKnbmOy9vQCmaYg9qHSZOfbTZ4U30XfJW25Ti3UlgaOm20=;pkEwINjV7Wz1AAPO0nAJxA=="
 ---

@@ -519,6 +519,22 @@ related:
         width: 770
         height: 435
         isCached: true
+  - title: "Artificial intelligence bot ChatGPT has a better bedside manner than REAL doctors, study shows"
+    excerpt: "ARTIFICIAL Intelligence bot ChatGPT has a better bedside manner than real doctors, a study shows. It was judged to give higher quality and more empathetic answers to real-world health questions 79"
+    publishedDateTime: 2023-04-28T20:38:00Z
+    webUrl: "https://www.thesun.co.uk/health/22199736/chargpt-better-bedside-manner-real-doctors/"
+    ampWebUrl: "https://www.thesun.co.uk/health/22199736/chargpt-better-bedside-manner-real-doctors/amp/"
+    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/health/22199736/chargpt-better-bedside-manner-real-doctors/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: thesun.co.uk
+    quality: 47
+    images:
+      - url: "https://www.thesun.co.uk/wp-content/uploads/2023/04/NINTCHDBPICT000813339870.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "The era of AI: How the Microsoft Cloud is accelerating AI transformation across industries"
     excerpt: "This past quarter has put a spotlight on advancements in generative AI, and the possibilities of its application to deliver pragmatic business outcomes. For organizations around the world, there is incredible opportunity to enhance products and services while unlocking innovation and business value to help shape the future of industry."
     publishedDateTime: 2023-04-24T15:11:00Z

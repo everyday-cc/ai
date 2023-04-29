@@ -9,7 +9,7 @@ ampWebUrl: "https://www.shacknews.com/article/135282/amazon-q1-2023-aws-grew-16-
 cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/135282/amazon-q1-2023-aws-grew-16-percent?amphtml=1"
 type: article
 quality: 76
-heat: 76
+heat: 78
 published: true
 
 provider:

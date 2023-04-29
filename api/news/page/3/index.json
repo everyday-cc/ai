@@ -2,6 +2,109 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-04-27-us-senator-open-letter-calls-for-ai-security-at-forefront-of-development.md",
+      "title": "US senator open letter calls for AI security at ‘forefront’ of development",
+      "excerpt": "U.S. Sen. Mark Warner issues an open letter calling for companies to put AI security at the forefront of development.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/security/us-senator-open-letter-calls-for-ai-security-at-forefront-of-development/",
+      "originalUrl": "https://venturebeat.com/security/us-senator-open-letter-calls-for-ai-security-at-forefront-of-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/04/VB_senate-office_1200x800_washington-dc-usa-april-29-2019-interior-of-russel_17427039_285.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/security/us-senator-open-letter-calls-for-ai-security-at-forefront-of-development/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/us-senator-open-letter-calls-for-ai-security-at-forefront-of-development/amp/",
+      "publishedDateTime": "2023-04-26T23:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-04-27-heres-what-first-wave-of-ai-rules-from-congress-could-look-like.md",
+      "title": "Here's what first wave of AI rules from Congress could look like",
+      "excerpt": "A likely candidate for early congressional action to regulate AI is a bill passed in committee last year, which would put up guardrails against discriminatory outcomes in AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/first-wave-ai-rules-congress-look-like",
+      "originalUrl": "https://www.foxnews.com/politics/first-wave-ai-rules-congress-look-like",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c928e5fe-c755-4e83-9dbf-542ea2239cfe/0c22fc9e-78fd-40df-b554-732cc6a0a77a/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/first-wave-ai-rules-congress-look-like.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/first-wave-ai-rules-congress-look-like.amp",
+      "publishedDateTime": "2023-04-26T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-27-databricks-and-hugging-face-integrate-apache-spark-for-faster-ai-model-building.md",
       "title": "Databricks and Hugging Face integrate Apache Spark for faster AI model building",
       "excerpt": "Databricks and Hugging Face integrate Apache Spark to more seamlessly load and transform data for AI model training and fine-tuning.",
@@ -103,7 +206,7 @@
       "originalUrl": "https://www.nextplatform.com/2023/04/26/broadcom-takes-on-infiniband-with-jericho3-ai-switch-chips/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -146,7 +249,7 @@
       "originalUrl": "https://www.forbes.com/sites/johanmoreno/2023/04/26/zuckerberg-says-meta-will-add-generative-ai-to-all-its-products/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 153,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -197,7 +300,7 @@
       "originalUrl": "https://www.forbes.com/sites/zennonkapron/2023/04/26/the-ascendancy-of-ai-in-asias-financial-services-industry/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 143,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -248,7 +351,7 @@
       "originalUrl": "https://www.zdnet.com/article/samsungs-profit-plunges-to-14-year-low-from-heavy-loss-by-chip-division/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -1102,7 +1205,7 @@
       "originalUrl": "https://www.ibm.com/blog/jabil-is-building-reports-with-ibm-business-analytics-portfolio/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 132,
+      "heat": 142,
       "tags": null,
       "images": [
         {
@@ -1142,102 +1245,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-26-tinder-to-weed-out-fake-profiles-with-facial-recognition-and-video-selfies.md",
-      "title": "Tinder to weed out fake profiles with facial recognition and video selfies",
-      "excerpt": "Open the Tinder app. Tap the profile icon and then tap the Message Settings icon. Scroll to ‘Control Who Messages You’ and toggle on ‘Photo Verified Chat’. Done! Only Photo Verified users can message you now.",
-      "sourceUrl": null,
-      "webUrl": "https://metro.co.uk/2023/04/26/tinder-introduces-facial-recognition-and-video-selfies-to-verify-users-18676377/",
-      "originalUrl": "https://metro.co.uk/2023/04/26/tinder-introduces-facial-recognition-and-video-selfies-to-verify-users-18676377/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://metro.co.uk/wp-content/uploads/2023/04/tinder-9427.jpg?quality=90&strip=all&zoom=1&resize=600%2C395",
-          "width": 600,
-          "height": 395,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://metro.co.uk/2023/04/26/tinder-introduces-facial-recognition-and-video-selfies-to-verify-users-18676377/amp/",
-      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/04/26/tinder-introduces-facial-recognition-and-video-selfies-to-verify-users-18676377/amp/",
-      "publishedDateTime": "2023-04-26T02:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Metro",
-        "domain": "metro.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-26-microsoft-shares-surge-7-after-the-chatgpt-investor-reveals-ai-boosted-its-cloud-sales.md",
-      "title": "Microsoft shares surge 7% after the ChatGPT investor reveals AI boosted its cloud sales",
-      "excerpt": "Microsoft CEO Satya Nadella said AI fueled growth in the tech giant's Azure cloud business and Bing search engine last quarter.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/microsoft-stock-price-chatgpt-investor-ai-cloud-azure-satya-nadella-2023-4",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/microsoft-stock-price-chatgpt-investor-ai-cloud-azure-satya-nadella-2023-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 583,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6448deb490523900196fee22?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/news/stocks/microsoft-stock-price-chatgpt-investor-ai-cloud-azure-satya-nadella-2023-4?amp",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/microsoft-stock-price-chatgpt-investor-ai-cloud-azure-satya-nadella-2023-4?amp",
-      "publishedDateTime": "2023-04-26T02:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

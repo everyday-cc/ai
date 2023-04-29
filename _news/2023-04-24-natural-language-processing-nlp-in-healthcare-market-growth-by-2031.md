@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/natural-language-process
 webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-market-growth-by-2031-2023-04-24"
 type: article
 quality: 101
-heat: 281
+heat: 291
 published: true
 
 provider:
@@ -48,6 +48,20 @@ related:
     excerpt: "The latest market research report on the Global \"Deep Learning Courses for NLP Market\" is segmented by Regions,"
     publishedDateTime: 2023-04-26T13:56:00Z
     webUrl: "https://www.marketwatch.com/press-release/deep-learning-courses-for-nlp-market-overview-and-scope-by-2031-2023-04-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 86
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Delivery Robot Market Growth by 2031"
+    excerpt: "The latest market research report on the Global \"Artificial Intelligence Delivery Robot Market\" is segmented by"
+    publishedDateTime: 2023-04-28T16:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-delivery-robot-market-growth-by-2031-2023-04-28"
     type: article
     provider:
       name: MarketWatch

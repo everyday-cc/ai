@@ -352,6 +352,58 @@
       ]
     },
     {
+      "path": "_news/2023-04-25-how-the-ai-revolution-is-liberating-workers-from-the-office.md",
+      "title": "How The AI Revolution Is Liberating Workers from the Office",
+      "excerpt": "With the advent of generative AI like ChatGPT, we are on the cusp of realizing the full potential of remote and hybrid work by reducing — while not eliminating — the benefits of office visits.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/growing-a-business/how-the-ai-revolution-is-liberating-workers-from-the-office/450169",
+      "originalUrl": "https://www.entrepreneur.com/growing-a-business/how-the-ai-revolution-is-liberating-workers-from-the-office/450169",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1682348563-GettyImages-1369567912.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-24T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-24-identify-objections-in-customer-conversations-using-amazon-comprehend-to-enhance-customer-experience-without-ml-expertise.md",
       "title": "Identify objections in customer conversations using Amazon Comprehend to enhance customer experience without ML expertise",
       "excerpt": "According to a PWC report, 32% of retail customers churn after one negative experience, and 73% of customers say that customer experience influences their purchase decisions. In the global retail industry, pre- and post-sales support are both important aspects of customer care. Numerous methods, including",
@@ -650,7 +702,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-market-growth-by-2031-2023-04-24",
       "featuredContent": null,
       "highlight": null,
-      "heat": 281,
+      "heat": 291,
       "tags": null,
       "images": [
         {
@@ -1366,49 +1418,6 @@
       "provider": {
         "name": "Australian Broadcasting Corporation",
         "domain": "abc.net.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-15-bloomberg-plans-to-integrate-gpt-style-ai-into-its-terminal.md",
-      "title": "Bloomberg plans to integrate GPT-style AI into its terminal",
-      "excerpt": "“So when that came out, we were like, ‘OK, this is going to change the way that we do NLP here.’” NLP stands for natural language processing, the part of machine learning that focuses on deriving meaning from words. The move also shows how the AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/business/business-news/bloomberg-plans-integrate-gpt-style-terminal-rcna79507?icid=recommended",
-      "originalUrl": "https://www.nbcnews.com/business/business-news/bloomberg-plans-integrate-gpt-style-terminal-rcna79507?icid=recommended",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-04/230413-bloomberg-terminal-mn-0920-7e7f57.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna79507",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna79507",
-      "publishedDateTime": "2023-04-14T10:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
         "images": null,
         "publishers": null,
         "authors": null

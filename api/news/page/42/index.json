@@ -2,6 +2,135 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2023-03-21-jaipur-based-edu-tech-startup-fliqi-launches-ai-ml-based-learning-modules.md",
+      "title": "Jaipur based Edu-Tech startup FliQi launches AI-ML Based Learning Modules",
+      "excerpt": "FliQi, a top-tier institution for AI-ML learning, has announced the launch of its latest offering - AI-ML Based Learning Modules. Designed to provide students with personalized learning practices",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/content/press-releases-ani/jaipur-based-edu-tech-startup-fliqi-launches-ai-ml-based-learning-modules-123032100753_1.html",
+      "originalUrl": "https://www.business-standard.com/content/press-releases-ani/jaipur-based-edu-tech-startup-fliqi-launches-ai-ml-based-learning-modules-123032100753_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2023-03/21/full/20230321142420.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/content-amp/press-releases-ani/jaipur-based-edu-tech-startup-fliqi-launches-ai-ml-based-learning-modules-123032100753_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/jaipur-based-edu-tech-startup-fliqi-launches-ai-ml-based-learning-modules-123032100753_1.html",
+      "publishedDateTime": "2023-03-21T03:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-03-21-why-its-simpler-for-ais-to-write-about-art-than-for-robots-to-do-your-laundry.md",
+      "title": "Why it’s simpler for AIs to write about art than for robots to do your laundry",
+      "excerpt": "That’s because Sanctuary AI robots appear to be what science fiction writers have warned us about: intelligent machines that look like us and take away our jobs. Indeed, this narrative trope has been with us for as long as the word ‘robot’ has (coined in the 1920 play,",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/why-its-simpler-ais-write-about-art-robots-do-your-laundry",
+      "originalUrl": "https://diginomica.com/why-its-simpler-ais-write-about-art-robots-do-your-laundry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2023-03/46AB53B9-9ACD-4EAF-8AF4-C97E46A33986.jpeg",
+          "width": 1170,
+          "height": 847,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/why-its-simpler-ais-write-about-art-robots-do-your-laundry?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/why-its-simpler-ais-write-about-art-robots-do-your-laundry?amp",
+      "publishedDateTime": "2023-03-21T03:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-21-local-robotics-team-advances-in-international-competitiion.md",
+      "title": "Local robotics team advances in international competitiion",
+      "excerpt": "Local students once again are advancing to an international robotics competition. For Inspiration and Recognition of Science and Technology, or FIRST, is an international youth organization that operates several major student competitions,",
+      "sourceUrl": null,
+      "webUrl": "https://qctimes.com/news/local/education/local-robotics-team-advances-in-international-competitiion/article_f90bfc3b-7124-5179-a7e8-37955ccfbefe.html",
+      "originalUrl": "https://qctimes.com/news/local/education/local-robotics-team-advances-in-international-competitiion/article_f90bfc3b-7124-5179-a7e8-37955ccfbefe.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/f/90/f90bfc3b-7124-5179-a7e8-37955ccfbefe/6418bacde55a4.preview.png?crop=1000%2C525%2C0%2C97&resize=1000%2C525&order=crop%2Cresize",
+          "width": 1000,
+          "height": 525,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-21T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quad-City Times",
+        "domain": "qctimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-21-nvidia-built-a-massive-dual-gpu-to-power-models-like-chatgpt.md",
       "title": "Nvidia built a massive dual GPU to power models like ChatGPT",
       "excerpt": "Nvidia’s semi-annual GPU Technology Conference (GTC) usually focuses on advancements in AI, but this year, Nvidia is responding to the massive rise of ChatGPT with a slate of new GPUs.",
@@ -1108,127 +1237,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-03-20-artificial-intelligence-will-revolutionize-risk-stratification-and-guide-therapy-for-cardiogenic-shock.md",
-      "title": "Artificial Intelligence Will Revolutionize Risk Stratification and Guide Therapy for Cardiogenic Shock",
-      "excerpt": "Conventional HF Management – Is There a Problem, and Whose Problem Is It? Receive the the latest news, research, and presentations from major meetings right to your inbox. TCTMD is produced by the Cardiovascular Research Foundation (CRF). CRF is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tctmd.com/slide/artificial-intelligence-will-revolutionize-risk-stratification-and-guide-therapy-cardiogenic",
-      "originalUrl": "https://www.tctmd.com/slide/artificial-intelligence-will-revolutionize-risk-stratification-and-guide-therapy-cardiogenic",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-20T08:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TCTMD",
-        "domain": "tctmd.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-20-how-morgan-stanley-is-training-gpt-to-help-financial-advisors.md",
-      "title": "How Morgan Stanley Is Training GPT To Help Financial Advisors",
-      "excerpt": "Morgan Stanley has been working with OpenAI to determine how generative AI systems can help with wealth management questions from its financial advisors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomdavenport/2023/03/20/how-morgan-stanley-is-training-gpt-to-help-financial-advisors/",
-      "originalUrl": "https://www.forbes.com/sites/tomdavenport/2023/03/20/how-morgan-stanley-is-training-gpt-to-help-financial-advisors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64186ab062f49149c34b2898/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomdavenport/2023/03/20/how-morgan-stanley-is-training-gpt-to-help-financial-advisors/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2023/03/20/how-morgan-stanley-is-training-gpt-to-help-financial-advisors/amp/",
-      "publishedDateTime": "2023-03-20T07:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-20-d-wave-launches-new-hybrid-solver-plug-in-for-feature-selection-a-key-component-of-machine-learning.md",
-      "title": "D-Wave Launches New Hybrid Solver Plug-In for Feature Selection, A Key Component of Machine Learning",
-      "excerpt": "BURNABY, British Columbia — D-Wave Quantum Inc. (NYSE: QBTS), a leader in quantum computing systems, software, and services and the world’s ... quantum technology to streamline development of machine learning (ML) applications. D-Wave’s new hybrid ...",
-      "sourceUrl": null,
-      "webUrl": "https://financialpost.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/d-wave-launches-new-hybrid-solver-plug-in-for-feature-selection-a-key-component-of-machine-learning",
-      "originalUrl": "https://financialpost.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/d-wave-launches-new-hybrid-solver-plug-in-for-feature-selection-a-key-component-of-machine-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-20T07:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Post",
-        "domain": "financialpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],
