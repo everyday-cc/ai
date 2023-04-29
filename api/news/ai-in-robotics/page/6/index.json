@@ -2,6 +2,93 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-03-09-tomahawk-robotics-adds-kxm-to-the-microsoft-azure-marketplace.md",
+      "title": "Tomahawk Robotics Adds KxM to the Microsoft Azure Marketplace",
+      "excerpt": "The KxM provides users with a ruggedized platform to ingest large amounts of data for high-speed body-worn computation at the tactical edge, reduce cognitive load, and fuse raw intelligence data to enable real-time decision-making.",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2023/03/09/9774538.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2023/03/09/9774538.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2029687/Tomahawk_Robotics_KxM.jpg",
+          "width": 400,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-08T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-09-humans-and-our-alarming-fear-of-robots.md",
+      "title": "Humans and Our Alarming Fear of Robots",
+      "excerpt": "I couldn’t help myself. “Everyone? That’s disingenuous.” The Tokyo robot was one of many robots and other forms of artificial intelligence (AI) that have grated on my nerves. I’m not alone in my disdain. Scientists have been studying robot hate ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.discovermagazine.com/mind/humans-and-our-alarming-fear-of-robots",
+      "originalUrl": "https://www.discovermagazine.com/mind/humans-and-our-alarming-fear-of-robots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.ctfassets.net/cnu0m8re1exe/3GG7tX1uWzasiXe98ywtHM/361ef445bef3b1d9511b3904ac9f3a4d/shutterstock_719376568.jpg",
+          "width": 1000,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-08T14:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Discover Magazine",
+        "domain": "discovermagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-09-3-high-growth-stocks-in-the-artificial-intelligence-industry.md",
       "title": "3 High-Growth Stocks in the Artificial Intelligence Industry",
       "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence is a multitrillion-dollar opportunity in the making.",
@@ -1277,92 +1364,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-02-28-ai-learns-to-outsmart-humans-in-video-games-and-real-life.md",
-      "title": "AI learns to outsmart humans in video games - and real life",
-      "excerpt": "Video game players have competed against computer-controlled opponents for decades, but they haven't been as smart and fast as GT Sophy, the new AI driver on PlayStation's Gran Turismo",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Technology/wireStory/outsmarting-humans-step-ai-video-game-players-97487481",
-      "originalUrl": "https://abcnews.go.com/Technology/wireStory/outsmarting-humans-step-ai-video-game-players-97487481",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Entertainment/wirestory_89a1b6359a3f4343807ab849958d10b8_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Technology/wireStory/outsmarting-humans-step-ai-video-game-players-97487481",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/outsmarting-humans-step-ai-video-game-players-97487481",
-      "publishedDateTime": "2023-02-27T08:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-26-the-robot-revolution-arrives-on-mountain-views-castro-street.md",
-      "title": "The robot revolution arrives on Mountain View’s Castro Street",
-      "excerpt": "You can see a working robot in action at the new concept store and robot space opened by software company InOrbit.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eastbaytimes.com/2023/02/25/the-robot-revolution-arrives-on-mountain-views-castro-street/",
-      "originalUrl": "https://www.eastbaytimes.com/2023/02/25/the-robot-revolution-arrives-on-mountain-views-castro-street/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eastbaytimes.com/wp-content/uploads/2023/02/SJM-L-PIZARRO-COL-0226-01-2.jpg?w=1024&h=758",
-          "width": 1024,
-          "height": 757,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.eastbaytimes.com/2023/02/25/the-robot-revolution-arrives-on-mountain-views-castro-street/amp/",
-      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2023/02/25/the-robot-revolution-arrives-on-mountain-views-castro-street/amp/",
-      "publishedDateTime": "2023-02-25T14:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "East Bay Times",
-        "domain": "eastbaytimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

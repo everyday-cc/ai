@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/gpu-for-deep-learning-ma
 webUrl: "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-sales-volume-and-forecast-2030-2023-04-25"
 type: article
 quality: 103
-heat: 193
+heat: 203
 published: true
 
 provider:
@@ -53,7 +53,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 81
+    quality: 83
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -82,6 +82,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 78
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Natural Language Processing (NLP) Software Market Market 2023 Size, share and Forecast to 2028"
+    excerpt: "Apr 28, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" This comprehensive market research"
+    publishedDateTime: 2023-04-28T12:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-software-market-market-2023-size-share-and-forecast-to-2028-2023-04-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 72
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

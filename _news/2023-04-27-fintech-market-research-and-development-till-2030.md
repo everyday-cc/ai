@@ -29,267 +29,134 @@ images:
     isCached: true
 
 related:
-  - title: "AI In Computer Vision Market research Report with Analysis 2023 To 2030"
-    excerpt: "AI In Computer Vision Market Report Insights (2023-2030): (100 Pages Report) AI In Computer Vision Market Research"
-    publishedDateTime: 2023-04-25T07:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-research-report-with-analysis-2023-to-2030-2023-04-25"
+  - title: "Built-world AI start-ups lead investments overtake FinTech and marketing"
+    excerpt: "Generative AI models may attract the most attention in realms like marketing automation and financial technology. But a recent analysis by A/O PropTech reports that investments in built-world AI start-ups are growing faster both in terms of the volume and value of investments."
+    publishedDateTime: 2023-04-28T10:09:00Z
+    webUrl: "https://diginomica.com/built-world-ai-start-ups-lead-investments-overtake-fintech-and-marketing"
+    ampWebUrl: "https://diginomica.com/built-world-ai-start-ups-lead-investments-overtake-fintech-and-marketing?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/built-world-ai-start-ups-lead-investments-overtake-fintech-and-marketing?amp"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 84
+      name: Diginomica
+      domain: diginomica.com
+    quality: 75
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://diginomica.com/sites/default/files/images/2022-11/Shutterstock_1068480284.png"
+        width: 740
+        height: 450
         isCached: true
-  - title: "AI In Computer Vision Market Report Focus On Landscape | Current And Future Development 2023-2030"
-    excerpt: "This study involves the strong analysis of manufacturing practices and standards applicable in AI In Computer Vision Market industry. A bottom-up and top-down strategy is used for both qualitative and quantitative estimate."
-    publishedDateTime: 2023-04-24T11:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-report-focus-on-landscape-current-and-future-development-2023-2030-2023-04-24"
+  - title: "When will the tech giants’ AI investments start paying off?"
+    excerpt: "Microsoft and Alphabet both reporting earnings this week. Expect AI to play a big role in their earnings reports."
+    publishedDateTime: 2023-04-25T14:24:00Z
+    webUrl: "https://www.marketplace.org/2023/04/25/when-will-the-tech-giants-ai-investments-start-paying-off/"
+    ampWebUrl: "https://www.marketplace.org/2023/04/25/when-will-the-tech-giants-ai-investments-start-paying-off/amp/"
+    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/2023/04/25/when-will-the-tech-giants-ai-investments-start-paying-off/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 71
+      name: Marketplace
+      domain: marketplace.org
+    quality: 57
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.marketplace.org/wp-content/uploads/2020/07/GettyImages-1207074418.jpg"
+        width: 2880
+        height: 1620
         isCached: true
-  - title: "Computer Vision System Market Research, 2023-2030"
-    excerpt: "The major players covered in the Computer Vision System market report are: Computer Vision System Marketsize, segment (mainly coveringMajorType (, Hardware, Software and Service, ,),End Users (, Automotive,"
-    publishedDateTime: 2023-04-25T18:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-system-market-research-2023-2030-2023-04-25"
+  - title: "Here's How the Cloud is Revolutionizing Health Tech and FinTech"
+    excerpt: "Overcoming the model of office and lab work with cloud computing Cloud computing systems have allowed enterprises, schools, and government organizations to overcome pandemic-induced challenges and meaningfully accelerate innovation and agility toward the market."
+    publishedDateTime: 2023-04-28T22:39:00Z
+    webUrl: "https://www.entrepreneur.com/science-technology/cloud-revolutionizes-healthtech-fintech/450667"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Image Recognition in Retail Market Research, 2023-2030"
-    excerpt: "Newest 126 Pages Report,the goal of Image Recognition in Retail Market Image Recognition in Retail Market is to broaden"
-    publishedDateTime: 2023-04-26T07:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-in-retail-market-research-2023-2030-2023-04-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Cloud Natural Language Processing Market Research, 2023-2030"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 27, 2023 (The Expresswire) -- Cloud Natural Language Processing Market Insights 2023 by Types (Rulebased Natural Language Processing , Statistical Natural Language ..."
-    publishedDateTime: 2023-04-27T18:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-research-2023-2030-2023-04-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Neural Networks Market 2023 Size and Share Analysis Report 2030"
-    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
-    publishedDateTime: 2023-04-26T14:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-neural-networks-market-2023-size-and-share-analysis-report-2030-2023-04-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Automotive Artificial Intelligence Market Business Report [2023-2030]"
-    excerpt: "In 2023,Automotive Artificial Intelligence Market with technical and procedural infrastructure that gathers and"
-    publishedDateTime: 2023-04-25T18:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-business-report-2023-2030-2023-04-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "2023 to 2030 Artificial Intelligence in Energy Market Regional Outlook"
-    excerpt: "Artificial Intelligence in Energy Market” Are a Collection of Information and Analysis Obtained From Diverse Sources"
-    publishedDateTime: 2023-04-27T05:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-to-2030-artificial-intelligence-in-energy-market-regional-outlook-2023-04-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Face Recognition Technology Market Updates 2023-2031 by Marketreportsworld.com"
-    excerpt: "Global \"Face Recognition Technology Market\" New Forecast Report 2023| [Pages 121] | provides a brief analysis of"
-    publishedDateTime: 2023-04-27T08:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-updates-2023-2031-by-marketreportsworldcom-2023-04-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global AI for Speech Recognition Market 2023 [New Report] | Industry Size and Revenue Expand till 2030 | 122 Pages Report"
-    excerpt: "The AI for Speech Recognition Market (2023-2030) Updated Latest Research Report is divided into various types [Software, Hardware] and applications [Smart Home, Vehicle System, Medical and Healthcare,"
-    publishedDateTime: 2023-04-26T09:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-for-speech-recognition-market-2023-new-report-industry-size-and-revenue-expand-till-2030-122-pages-report-2023-04-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "VOICE RECOGNITION SYSTEM Market Global Analysis 2023-2030"
-    excerpt: "In 2023,VOICE RECOGNITION SYSTEM Market with technical and procedural infrastructure that gathers and evaluates the"
-    publishedDateTime: 2023-04-27T05:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-system-market-global-analysis-2023-2030-2023-04-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
+      name: Entrepreneur
+      domain: entrepreneur.com
     quality: 54
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1682721803-GettyImages-1365582863.jpg"
+        width: 2000
+        height: 1333
         isCached: true
-  - title: "2023-2030 Global Artificial Intelligence In Manufacturing Market is Growing Rapidly with Modern Trend"
-    excerpt: "Artificial Intelligence In Manufacturing Market Report Insights (2023-2030) :(113 Pages Report) Artificial Intelligence"
-    publishedDateTime: 2023-04-27T09:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-2030-global-artificial-intelligence-in-manufacturing-market-is-growing-rapidly-with-modern-trend-2023-04-27"
+  - title: "Volvo Cars Tech Fund invests in AI startup"
+    excerpt: "Geely’s Volvo Cars said it had made a “strategic investment” in CorrActions, an Israeli deep tech brain monitoring AI startup which has developed a technology the automaker believes will “disrupt brain activity monitoring and may help us understand drivers even better”."
+    publishedDateTime: 2023-04-25T10:28:00Z
+    webUrl: "https://www.just-auto.com/news/volvo-cars-tech-fund-invests-in-ai-startup/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Deep Learning In Drug Discovery And Diagnostics Market Global Competitive Research Report 2023 to 2031 By MRI"
-    excerpt: "Our report on the Deep Learning In Drug Discovery And Diagnostics market provides comprehensive insights into the"
-    publishedDateTime: 2023-04-28T06:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-drug-discovery-and-diagnostics-market-global-competitive-research-report-2023-to-2031-by-mri-2023-04-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Cloud AI Developer Services Market Research, 2023-2030"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Cloud AI Developer Services Marketsize, segment (mainly coveringMajorType (, Image Recognition, Language Recognition, Automated Machine Learning (AutoML), ,),End Users ..."
-    publishedDateTime: 2023-04-28T11:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-ai-developer-services-market-research-2023-2030-2023-04-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-  - title: "Global Speech and Voice Recognition Technology Market 2023-2030 is Booming in Upcoming Period"
-    excerpt: "Speech and Voice Recognition Technology Market Report Insights (2023-2030) :(110 Pages Report) Speech and Voice"
-    publishedDateTime: 2023-04-27T08:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-speech-and-voice-recognition-technology-market-2023-2030-is-booming-in-upcoming-period-2023-04-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Speech and Voice Recognition Market Size 2023 Will Grow Rapidly Another Level in The Forthcoming Year"
-    excerpt: "Speech and Voice Recognition Market Size 2023 | New Report (127 Pages) | Analytics | In This Reports Speech and"
-    publishedDateTime: 2023-04-27T07:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-2023-will-grow-rapidly-another-level-in-the-forthcoming-year-2023-04-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI in Fashion Global Market Report 2023: Growing Influence of Social Media on the Fashion Industry Fuels the Sector"
-    excerpt: "The \"AI in Fashion Global Market Report 2023\" report has been added to ResearchAndMarkets.com's offering. This report provides strategists, marketers and senior"
-    publishedDateTime: 2023-04-28T23:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/04/n32097643/ai-in-fashion-global-market-report-2023-growing-influence-of-social-media-on-the-fashion-industry-"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32097643"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32097643"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: Just Auto
+      domain: just-auto.com
     quality: 37
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2021/04/2020-03-23-10-54-146714_the_allnew_volvo_xc90_cropped_70.jpg"
+        width: 424
+        height: 283
         isCached: true
-  - title: "Speech Recognition Market Size, Share, Key Players, Revenue, Research Report and Forecast 2023 to 2031"
-    excerpt: "The global speech recognition market was valued at $6.39billion in 2018, and is projected to reach $29.28 billion by 2026, registering a CAGR of 19.9% from 2019 to 2026. Speech recognition technology enables system to identify the sound of spoken words and convert them into machine readable form."
-    publishedDateTime: 2023-04-25T05:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-market-size-share-key-players-revenue-research-report-and-forecast-2023-to-2031-2023-04-25"
+  - title: "Stanford: Fintech Maintains Position as Third Biggest AI Investment Focus Area"
+    excerpt: "In 2022, global private investment in artificial intelligence (AI) companies reached US$91.9 billion, a 18-fold increase compared with 2013. Of that sum, fintech companies secured the third largest amount,"
+    publishedDateTime: 2023-04-25T06:46:00Z
+    webUrl: "https://fintechnews.ch/aifintech/stanford-fintech-maintains-position-as-third-biggest-ai-investment-focus-area/59671/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
-  - title: "Artificial Intelligence in Medicine Market 2025"
-    excerpt: "The Artificial Intelligence (AI) in Medicine market is a rapidly growing segment of the healthcare industry that is expected to significantly transform the way healthcare is delivered in the future. AI technology has the potential to revolutionize healthcare by improving the accuracy,"
-    publishedDateTime: 2023-04-28T12:15:00Z
-    webUrl: "https://www.pharmiweb.com/press-release/2023-04-28/artificial-intelligence-in-medicine-market-2025-covers-valuable-guidance-for-future-ai-expansion-i"
+      name: fintechnews
+      domain: fintechnews.ch
+    quality: 35
+    images:
+      - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2023/04/Fintech-Maintains-Position-as-Third-Biggest-AI-Investment-Focus-Area.png?x30842"
+        width: 1024
+        height: 567
+        isCached: true
+  - title: "3 Fintech Stocks With Huge Return Potential for Long-Term Investors"
+    excerpt: "The fintech market continues to grow at a blistering pace, as consumers and businesses migrate online and use their smartphones and apps to make increasingly sophisticated digital payments and online financial transactions."
+    publishedDateTime: 2023-04-26T15:19:00Z
+    webUrl: "https://www.nasdaq.com/articles/3-fintech-stocks-with-huge-return-potential-for-long-term-investors"
     type: article
     provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
-    quality: 19
-  - title: "Global Artificial Intelligence In Agriculture Market Report 2023: Sector Is Expected To Reach $4.9 Billion By 2030 At A CAGR Of 24.1%"
-    excerpt: "The \"global artificial intelligence in agriculture market size, share & industry trends analysis report by technology, application, offering, regional outlook and forecast, 2022-2028\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2023-04-24T17:08:00Z
-    webUrl: "https://menafn.com/1106081579/Global-Artificial-Intelligence-In-Agriculture-Market-Report-2023-Sector-Is-Expected-To-Reach-49-Billion-By-2030-At-A-CAGR-Of-241"
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 34
+  - title: "Fintech start-up 1fs Wealth secures backing of Singularity Capital"
+    excerpt: "London based early stage fintech, 1fs Wealth, has secured the backing of US venture capital firm Singularity Capital, as interest… | Finance | Finance | Fintech | National | Investment |"
+    publishedDateTime: 2023-04-27T10:54:00Z
+    webUrl: "https://bdaily.co.uk/articles/2023/04/27/fintech-start-up-1fs-wealth-secures-backing-of-singularity-capital"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
+      name: Bdaily Business Network
+      domain: bdaily.co.uk
+    quality: 24
+    images:
+      - url: "https://bdaily.co.uk/images/uploads/14uur7Ek4zTIK7Kdv8NuVTjPTvN89xUdeoan9AvV.jpeg?w=1200&h=627&fm=jpg&fit=crop-50-50&s=50c8836e09236abc30214b16988a7b69"
+        width: 1200
+        height: 627
+        isCached: true
+  - title: "Logiq Acquires Park Place Payments, Award-Winning, Women-Owned Fintech Company"
+    excerpt: "(OTCQX:LGIQ), a leading provider of digital consumer acquisition solutions, has acquired Park Place Payments, an award-winning fintech company delivering innovative merchant payment solutions and adjacent financial services to SMBs through a nationally distributed local sales force."
+    publishedDateTime: 2023-04-26T14:03:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/04/26/9802315.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 20
+    images:
+      - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
+        width: 550
+        height: 353
+        isCached: true
+  - title: "Inside the booming fintech industry in Nigeria: trends and opportunities"
+    excerpt: "The world of finance is changing rapidly thanks to modern technology, and nowhere is this more evident than in Nigeria's FinTech industry. With innovative startups cropping up left and right, the country has become a hub for financial technology innovation."
+    publishedDateTime: 2023-04-26T10:00:00Z
+    webUrl: "https://www.vanguardngr.com/2023/04/inside-the-booming-fintech-industry-in-nigeria-trends-and-opportunities/"
+    type: article
+    provider:
+      name: Vanguard
+      domain: vanguardngr.com
+    quality: 3
+  - title: "Fintech BUNKER Selects InvestCloud to Launch Digital App, Providing Access to US Investment Markets for HNWIs in LatAm"
+    excerpt: "InvestCloud selected by BUNKER, a fintech seeking to democratize access to the US markets for Latin Americans, to launch investment platform."
+    publishedDateTime: 2023-04-28T19:30:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/04/206288-fintech-bunker-selects-investcloud-to-launch-digital-app-providing-access-to-us-investment-markets-for-hnwis-in-latam/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
     quality: 0
 
 secured: "OyUAGtMlQ9PJsV0mJShDP3WwQ24a+gaA9H4JlwIloPbeY85WRKpI9v9gGiicOGPDd/F9TjsTP6CiuyhclWjS4rfUDJ/S/CE/12v2rfcq6dmgNcYzIJ3Qq/T7Jtwgoc2GVfOSLG+Mru3ZNVWKDDKEPZZofhCCAfoLCG6rau7fzY9SfelUSVpDcVngdWphTYYVPrrEUKdwggm0ALkBRINDpkr5ightxlMgn0HUyqMcLUG1Ex2Mi1ozAtFHX9lG+JCHD/i7UoHLmj/bjtJZ9Gj88yFqaC7+EuAfh50JYZNbvViUOWksNpnSO4tluTkcoRKmcdqOsPEy5nISZCVDDNGr4m8qY6i85H8azq46qkRLjB0=;zdUKx8vLTEEI8R1zGG3ATA=="

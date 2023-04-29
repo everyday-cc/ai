@@ -35,7 +35,7 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 41
+    quality: 43
     images:
       - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
         width: 1043
@@ -164,6 +164,20 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 22
+    images:
+      - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
+        width: 550
+        height: 353
+        isCached: true
+  - title: "Fort Worth Selected as Host Site for a 4th Time for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
+    excerpt: "Elevate will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students at No-Cost for a 4 th time in the Fall of 2023. The AI Bootcamp in Fort Worth will be targeted at underserved high school students (9th-12 th grade) and will introduce these high school students to basic AI concepts and skills."
+    publishedDateTime: 2023-04-28T22:19:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/04/28/9804444.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 20
     images:
       - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
         width: 550

@@ -66,20 +66,6 @@ related:
         width: 1200
         height: 1055
         isCached: true
-  - title: "Unleashing the Power of Deep Learning in 2023: A Vision for AI’s Future"
-    excerpt: "Deep learning has emerged as a revolutionary technology within data science, enabling businesses to extract valuable insights from their data like never before. In the era of data-driven technology, deep learning offers businesses a competitive advantage by utilizing advanced neural networks to build intelligent applications."
-    publishedDateTime: 2023-04-24T08:13:00Z
-    webUrl: "https://techbullion.com/unleashing-the-power-of-deep-learning-in-2023-a-vision-for-ais-future/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 56
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/04/Screenshot-2023-04-24-011239.png"
-        width: 628
-        height: 350
-        isCached: true
   - title: "What caught your eye this week? (Arm chip, AI warfare, Space critical infrastructure)"
     excerpt: "For example, our technology editor says it is good to hear that the House of Lords is looking into the use of artificial intelligence in warfare - he hopes a deep and thorough public report is likely"
     publishedDateTime: 2023-04-27T15:24:00Z

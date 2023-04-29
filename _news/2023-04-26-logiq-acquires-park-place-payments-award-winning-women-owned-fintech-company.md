@@ -57,6 +57,20 @@ related:
         width: 2880
         height: 1620
         isCached: true
+  - title: "FinTech Market Research and Development till 2030"
+    excerpt: "The Global FinTech Market research report for 2023-2030 provides a detailed analysis of the current market scenario, including qualitative and quantitative information, growth potentials, and competitive landscape."
+    publishedDateTime: 2023-04-27T08:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/fintech-market-research-and-development-till-2030-2023-04-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Here's How the Cloud is Revolutionizing Health Tech and FinTech"
     excerpt: "Overcoming the model of office and lab work with cloud computing Cloud computing systems have allowed enterprises, schools, and government organizations to overcome pandemic-induced challenges and meaningfully accelerate innovation and agility toward the market."
     publishedDateTime: 2023-04-28T22:39:00Z
@@ -108,20 +122,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 34
-  - title: "Vesey Ventures Launches $78M Debut Fund for Fintech Startups"
-    excerpt: "Vesey Ventures, an early-stage venture firm that invests in companies transforming financial services, today announced the close of its debut fund totalling $78 million. Vesey Ventures was founded by three former Managing Directors at AMEX Ventures,"
-    publishedDateTime: 2023-04-24T07:46:00Z
-    webUrl: "https://financialit.net/news/investment/vesey-ventures-launches-78m-debut-fund-fintech-startups"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 24
-    images:
-      - url: "https://financialit.net/sites/default/files/veseyventures.png"
-        width: 1366
-        height: 768
-        isCached: true
   - title: "Fintech start-up 1fs Wealth secures backing of Singularity Capital"
     excerpt: "London based early stage fintech, 1fs Wealth, has secured the backing of US venture capital firm Singularity Capital, as interest… | Finance | Finance | Fintech | National | Investment |"
     publishedDateTime: 2023-04-27T10:54:00Z

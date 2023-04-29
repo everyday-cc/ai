@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-04-04-masters-app-and-website-to-include-generative-ai-commentary-for-every-shot.md",
+      "title": "Masters app and website to include generative AI commentary for every shot",
+      "excerpt": "In a joint activation with IBM, the Masters’ futuristic digital outlets will not only livestream every shot from every player for every round but will include Generative AI commentary based on Masters-specific machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sportsbusinessdaily.com/Journal/Issues/2023/04/03/Technology/masters-tournament-ibm-ai-app.aspx",
+      "originalUrl": "https://www.sportsbusinessdaily.com/Journal/Issues/2023/04/03/Technology/masters-tournament-ibm-ai-app.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-03T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sports Business Journal",
+        "domain": "sportsbusinessdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-04-ai-will-help-generate-commentary-for-masters-golf-tourney.md",
       "title": "AI Will Help Generate Commentary for Masters Golf Tourney",
       "excerpt": "IBM's modern tech will augment the historic event, using generative AI tech to add audio commentary to video highlights.",
@@ -1355,49 +1389,6 @@
         "IBM AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-02-13-ibm-and-nasa-partner-to-use-geospatial-data-and-ai-to-measure-the-impact-of-climate-change.md",
-      "title": "IBM and NASA Partner to Use Geospatial Data and AI to Measure the Impact of Climate Change",
-      "excerpt": "IBM and NASA's Marshall Space Flight Center announced a collaboration to use IBM's artificial intelligence (AI) technology to discover new insights in NASA's massive trove of Earth and geospatial science data. The joint work will apply AI foundation model ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dbta.com/Editorial/News-Flashes/IBM-and-NASA-Partner-to-Use-Geospatial-Data-and-AI-to-Measure-the-Impact-of-Climate-Change-157105.aspx",
-      "originalUrl": "https://www.dbta.com/Editorial/News-Flashes/IBM-and-NASA-Partner-to-Use-Geospatial-Data-and-AI-to-Measure-the-Impact-of-Climate-Change-157105.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dbta.com/images/social-logo-2019.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-13T06:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "dbta",
-        "domain": "dbta.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

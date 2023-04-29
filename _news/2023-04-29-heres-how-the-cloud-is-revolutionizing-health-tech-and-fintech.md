@@ -61,6 +61,20 @@ related:
         width: 2880
         height: 1620
         isCached: true
+  - title: "FinTech Market Research and Development till 2030"
+    excerpt: "The Global FinTech Market research report for 2023-2030 provides a detailed analysis of the current market scenario, including qualitative and quantitative information, growth potentials, and competitive landscape."
+    publishedDateTime: 2023-04-27T08:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/fintech-market-research-and-development-till-2030-2023-04-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Volvo Cars Tech Fund invests in AI startup"
     excerpt: "Geely’s Volvo Cars said it had made a “strategic investment” in CorrActions, an Israeli deep tech brain monitoring AI startup which has developed a technology the automaker believes will “disrupt brain activity monitoring and may help us understand drivers even better”."
     publishedDateTime: 2023-04-25T10:28:00Z
@@ -98,20 +112,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 34
-  - title: "Vesey Ventures Launches $78M Debut Fund for Fintech Startups"
-    excerpt: "Vesey Ventures, an early-stage venture firm that invests in companies transforming financial services, today announced the close of its debut fund totalling $78 million. Vesey Ventures was founded by three former Managing Directors at AMEX Ventures,"
-    publishedDateTime: 2023-04-24T07:46:00Z
-    webUrl: "https://financialit.net/news/investment/vesey-ventures-launches-78m-debut-fund-fintech-startups"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 24
-    images:
-      - url: "https://financialit.net/sites/default/files/veseyventures.png"
-        width: 1366
-        height: 768
-        isCached: true
   - title: "Fintech start-up 1fs Wealth secures backing of Singularity Capital"
     excerpt: "London based early stage fintech, 1fs Wealth, has secured the backing of US venture capital firm Singularity Capital, as interest… | Finance | Finance | Fintech | National | Investment |"
     publishedDateTime: 2023-04-27T10:54:00Z
@@ -159,6 +159,6 @@ related:
       domain: crowdfundinsider.com
     quality: 0
 
-secured: "U38cjnpQW3UeQaWJeGc5ejdKXADEndH8LQFAxHxKrseuW4Jc74YOjx2YIxWd+7q26gDlTRsHBZrjc6ft55b4d5RkQR5BMxOiyYxquqYJt3MwwD6DzuOMrl5uAmpfY1Bu42+r5mgvP5M3sSIjy9bkk7QnLD3+LfsCB0gpmbSLIzDxpK9kgk2vx4qIoBVDuTF8d4JqOsGPq4gwxHJY6wYv0ZchYCTjeLbaKBVKT1FG7di0rYzaHhTvcJJillZZpR9T/XwBpi+2zSoPL632xrnVUi/P9ZyMVTQuaLb/krdrKkicrhE4yNfPZFRaLyMaqf67ALM8KUWpI1TMq78BCYLBDoR5EHAWPwqruL1bqy/IZBs=;6lPIhAX2iE9E3SpzivY1iw=="
+secured: "y4TEvYU/AN+bUS/xoSJ7caVSUvlVsNhi3gBqAnwyEFEm+dnuJlHYz8DrPXvg7rZtMmK88IXnfl73WhW7LOEfz3LFb8Mp5KKBZN+e4OcNu332V3LCpSAf81x7In5iuNBIAspwvI/WKVw3NN0K717QbSHKkjDfw2Zpxn5LyKadVv8XPoJwpf7VcRSpjABGh7DSHHsQT6/ZoJ1VNWnhdHOIcsyXOfmnRFC1+nPmbboIX5avdaLx+FwoVGpaCCZfpxhxTXnU8EbSsPqZURGdFc16vvBCRedQOSinLr7DZaHBLubAMKBF2pTMjVmN4HxoJsYs0WomACbiNlmSWtNBrNGZuyILkAUHgtc9TSVvcEOYLpRmJyrkWjIZrR2Yj2dfHa1Qo+1eWDIKo/6AT7zHEpKgyTkeuprs8fJb9u9PJrXoEhYCqU4IWyHCffZ5jG9vJJ/Wya0V34i8daU14TgqiaCAyJCFdUEMP1WHO2jUikhLaDIjRNwbK9h/CkqWzXLce7gbHP3r+EQpUAvXjxIFz5PQKA==;f9EPShVPWzkcgEO66C1yBg=="
 ---
 

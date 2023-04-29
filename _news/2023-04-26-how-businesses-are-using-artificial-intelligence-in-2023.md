@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 848
         isCached: true
+  - title: "Art World AI-Nxiety: What Is Artificial Intelligence And How Are Artists Using It?"
+    excerpt: "This week on The Week in Art podcast: artificial intelligence (ai) and art. We explore some of the key aspects relating to AI and its use in the art"
+    publishedDateTime: 2023-04-29T01:53:00Z
+    webUrl: "https://menafn.com/1106128692/Art-World-AI-Nxiety-What-Is-Artificial-Intelligence-And-How-Are-Artists-Using-It"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 46
+    images:
+      - url: "https://menafn.com/updates/pr/2023-04/28/UAN_8b81cimage_story.jpg"
+        width: 688
+        height: 458
+        isCached: true
 
 secured: "bSo2nnvEpJLDpuv/CQ5FxK3hayXBbPN/ASTbErVKDKfpkmdNOAyn/QiUz2rwM25mtfHbvxU4psKkwul6w27oTDq+yLZZnjZjKDc37RYc0EpMljHI+v1NHIEkCiRAoEXqjMzvM1ylqYPHgiq6VGtWp2Qk9qPAvrffgJmzZGM+eGHxnmzgLbMg/pIdfFnUGImpsR8qMjN1NPG8rQkIqDuwGNuqf5nxLxkSswTODsakUc4GKLNq5J654Lpp9f5u5xWqtX4SdJTBVErczlVGvkx4ZLtcmOOxrS1ZjpV4ZDD5dVnEMFG6HyM72kgXdkpVYLoXfDnTon8ZSpXXMi9kHmFr3qOMY4toqNScF8n607AVJkQmR9JDpJnwd4qb2QLt9wkU8JZIGhmllYTOuz3K+eq492wVv+K8B9uhnZ9OQR1yYrfhZywxjMTtJ6BU4zfjGCCRB4ZHTTvJUkqAMkC1gkMlRwjYj+CEhTvxR+pVCWTpUbWrJNX2QWnxx8plg9B3zFAxdTO6LnPsQwY+I8gEcOLejA==;0RlAEIeJc+LJEGI9ybnD9Q=="
 ---

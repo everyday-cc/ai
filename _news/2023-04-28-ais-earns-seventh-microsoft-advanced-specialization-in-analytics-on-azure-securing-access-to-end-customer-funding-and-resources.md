@@ -2,11 +2,11 @@
 category: news
 title: "AIS Earns Seventh Microsoft Advanced Specialization in Analytics on Azure, Securing Access to End-Customer Funding and Resources"
 excerpt: "AIS (Applied Information Sciences), experts in helping organizations modernize and innovate with Microsoft Cloud, announces it has earned the Analytics on Microsoft Azure advanced specialization, its seventh in total."
-publishedDateTime: 2023-04-28T14:53:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-ais-earns-seventh-microsoft-advanced-specialization-analytics-azure-/2023/04/28/9804242.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-ais-earns-seventh-microsoft-advanced-specialization-analytics-azure-/2023/04/28/9804242.htm"
+publishedDateTime: 2023-04-28T15:08:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/04/28/9804242.htm"
+webUrl: "https://it.tmcnet.com/news/2023/04/28/9804242.htm"
 type: article
-quality: 20
+quality: 40
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
+    width: 550
+    height: 353
+    isCached: true
 
 related:
   - title: "TTEC Digital introduces WFM Adapter for Microsoft Dynamics 365 Customer Service"
@@ -34,6 +40,6 @@ related:
         height: 630
         isCached: true
 
-secured: "aE6g2YvSW38yMtfZlyUyKvN/Kd6wvan9E4fwaf0euBNqJoKfE3UMi2hxLCw8MhTQTfwAkILg3Cdv4VahFvk+i5EtNjLFL9vCbMyTH0txtBfiwNboeNQTGPqEQHTopIq1Kvja+jYbKnp2CUFEXtIgMrmDeVV8qp+3XvFwMgupqfhwixKOGai4wIyWUHcXUE9e/XkQ2z8/XXeMp/53jAmFFckrv8Zr2/Ad1XTJQ+tZnaamV1b2i7K8reBMyXr/1VdExKnFfhkoodEgIHIOwWSuUehSAMuwws82LsewYqKSVKSdO1DnY9Shwu75JuGixuvo1ly5ZB7KB1/Lb4bjlWrdJe067rbg/492PXGaZJOdoMU=;z3/oGaEeGVTtetSrHr9TLg=="
+secured: "TEMiD8MZeCsjd4XGqkKtpfCa4MOGGXM+hATso1EGvafrEgiSTJnAYO6W8EeVw7hxr2YuVU5Go4pkfMEnxb7Frb+zkCjOHLBf4rQCMczVW5YL5UvBXyPOJkksJwvSaZ93B9Zwyybmt3hRUzqaX8RX50m0FvKqAyIm9UhuJpnXPBdxuYET99RHtX+5ypetT/dsrp76SASr/RLkf/RlhG0xuudD8Xt3Z9fGHDQKzgIjPFlYqTSr83ASp21EDpx7CIAemco3NuVXYEOWmVHbEdKh0iz3IIuCqUqyK4xUXzHYPl8uBgu4kjhVJnKDztLh2ypgj2kd3ihPc71+mW1bpUCi4+8U5em6okbNlCRYSiYJdJ0=;IDr55EIiMAJInExMaDlGzw=="
 ---
 

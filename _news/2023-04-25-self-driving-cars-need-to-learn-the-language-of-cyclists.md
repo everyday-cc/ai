@@ -57,6 +57,20 @@ related:
         width: 2412
         height: 952
         isCached: true
+  - title: "Self-driving cars must learn ‘language of cyclists’, says study"
+    excerpt: "The next generation of self-driving cars will have to learn the ‘language of cyclists’ to ensure that the roads are kept safe, a new study suggests."
+    publishedDateTime: 2023-04-29T01:00:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/04/29/self-driving-cars-must-learn-language-of-cyclists-says-study"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 24
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/04/28/2046787.jpeg"
+        width: 1240
+        height: 982
+        isCached: true
   - title: "Self-driving cars must learn the language of cyclists to keep roads safe"
     excerpt: "Future generations of self-driving cars should learn the language of cyclists to help them safely share the roads with bikes, new research suggests."
     publishedDateTime: 2023-04-25T05:40:00Z

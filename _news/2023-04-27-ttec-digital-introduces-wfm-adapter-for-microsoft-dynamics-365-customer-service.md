@@ -31,13 +31,18 @@ images:
 related:
   - title: "AIS Earns Seventh Microsoft Advanced Specialization in Analytics on Azure, Securing Access to End-Customer Funding and Resources"
     excerpt: "AIS (Applied Information Sciences), experts in helping organizations modernize and innovate with Microsoft Cloud, announces it has earned the Analytics on Microsoft Azure advanced specialization, its seventh in total."
-    publishedDateTime: 2023-04-28T14:53:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-ais-earns-seventh-microsoft-advanced-specialization-analytics-azure-/2023/04/28/9804242.htm"
+    publishedDateTime: 2023-04-28T15:08:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/04/28/9804242.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 20
+    quality: 40
+    images:
+      - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
+        width: 550
+        height: 353
+        isCached: true
 
 secured: "PXufLjChv99iws5x3WIorRNlLstpD6Uw9dvxQ3SEmVNl8iOAc0kX8kFyh8GHJZP0445yVMF68rMTnzGV1fOLxMT7D+NaJmQZCGuPJIG26RA8iYJvW2wYJh9nmMmVDxU1VcH/EOxFPdx+FVSj8ySZI7bBGmQ38AGo2VTWAvmy0FgAn+69g0ALwVmx+iQNSYYW673T6lci6W9FjTcT+geX38H639q2gEtM6bJq1gWE4rKbgsftT4yElp5Rcv4t50HI9ArCiDtwfsCHRhoxZ7SxBJmlX1dNm9WckxNmKbuYCFWDhWKpVc/cV5EsPpd2nRdNNUYtpXM8goULhrAamwHCrlAqWwIVEZo44LXU6dlykfc=;7uZr1RZ3paslDJjlT1AO1g=="
 ---

@@ -59,36 +59,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Microsoft is working on its own AI chip ‘Athena’ to cut down cost of machine learning operations"
-    excerpt: "Microsoft is developing its own AI chip called Athena for powering Large Language Models used to develop generative AI products."
-    publishedDateTime: 2023-04-24T07:54:00Z
-    webUrl: "https://www.medianama.com/2023/04/223-microsoft-ai-chip-athena-machine-learning/"
-    type: article
-    provider:
-      name: MediaNama
-      domain: medianama.com
-    quality: 75
-    images:
-      - url: "https://www.medianama.com/wp-content/uploads/2021/08/chip-6517875_1280.jpg"
-        width: 1280
-        height: 838
-        isCached: true
-  - title: "AI-driven Microsoft Bing, startup You threaten Google's Search dominance"
-    excerpt: "New AI features in Microsoft Bing search engine and startup You.com have started to threaten Google's Search dominance, as users seek more efficient search options."
-    publishedDateTime: 2023-04-24T07:57:00Z
-    webUrl: "https://www.gadgetsnow.com/tech-news/ai-driven-microsoft-bing-startup-you-threaten-googles-search-dominance/articleshow/99726281.cms"
-    ampWebUrl: "https://www.gadgetsnow.com/tech-news/ai-driven-microsoft-bing-startup-you-threaten-googles-search-dominance/amp_articleshow/99726281.cms"
-    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/ai-driven-microsoft-bing-startup-you-threaten-googles-search-dominance/amp_articleshow/99726281.cms"
-    type: article
-    provider:
-      name: Gadgets Now
-      domain: gadgetsnow.com
-    quality: 73
-    images:
-      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-99726281,imgsize-32894,width-800/99726281.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Microsoft Q3 Earnings Report: Generative AI Brings In New Customers"
     excerpt: "Despite generative artificial intelligence’s recent surge in popularity, Microsoft is already seeing new customers and new money-making opportunities – good news for early-ado"
     publishedDateTime: 2023-04-26T01:33:00Z

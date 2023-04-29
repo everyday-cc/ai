@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recogni
 webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-to-reach-usd-3534-bn-by-2029-emerging-at-a-cagr-of-1932-percent-2022-2029-2023-04-28"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -29,15 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Self-Driving Robots Market Expected to Reach USD 1423.6 Mn over the forecast period, at a CAGR of 15.23 percent (2023-2029)"
-    excerpt: "The latest report on the global self-driving robots' market has projected its market size to reach USB 1423.6 Mn by 2029 from USD 457.9 Mn in 2021, at a CAGR of 15.23 percent during the forecast period."
-    publishedDateTime: 2023-04-26T11:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-robots-market-expected-to-reach-usd-14236-mn-over-the-forecast-period-at-a-cagr-of-1523-percent-2023-2029-2023-04-26"
+  - title: "Cognitive Data Management Market Recent Developments and Updates By 2031"
+    excerpt: "What is the Cognitive Data Management market growth? Cognitive Data Management Market Size is projected to Reach Multimillion USD by 2031, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2031."
+    publishedDateTime: 2023-04-27T12:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-data-management-market-recent-developments-and-updates-by-2031-2023-04-27"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 28
+    quality: 53
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

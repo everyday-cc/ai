@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "2023-2030 Automated Driving System Market Future Scope and Growth Prospects"
-    excerpt: "Apr 27, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The “Automated Driving System"
-    publishedDateTime: 2023-04-27T14:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-2030-automated-driving-system-market-future-scope-and-growth-prospects-2023-04-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Self-Driving Truck Technology Market 2023 Expected to Reach Significant Rate by 2030"
     excerpt: "A recent study report titled \"Self-Driving Truck Technology Market\" offers a thorough analysis of the market's"
     publishedDateTime: 2023-04-25T14:59:00Z
