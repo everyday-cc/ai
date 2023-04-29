@@ -392,6 +392,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
+  - title: "ChatGPT broke the EU plan to regulate AI"
+    excerpt: "Artificial intelligence's newest sensation — the gabby chatbot-on-steroids ChatGPT — is sending European rulemakers back to the drawing board on how to regulate AI. But after months of internet lolz — and doomsaying from critics — the technology is ..."
+    publishedDateTime: 2023-04-27T04:01:00Z
+    webUrl: "https://www.politico.eu/article/eu-plan-regulate-chatgpt-openai-artificial-intelligence-act/"
+    ampWebUrl: "https://www.politico.eu/article/eu-plan-regulate-chatgpt-openai-artificial-intelligence-act/amp/"
+    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/eu-plan-regulate-chatgpt-openai-artificial-intelligence-act/amp/"
+    type: article
+    provider:
+      name: Politico Europe
+      domain: politico.eu
+    quality: 59
+    images:
+      - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/03/02/GettyImages-1462188008-scaled.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "ChatGPT vs. Microsoft Bing vs. Google Bard: Which AI is most helpful?"
     excerpt: "Three AI models that may change the world. ChatGPT vs. Microsoft Bing vs. Google Bard? Which of them operates on acceptable technology in the present and future?"
     publishedDateTime: 2023-04-26T15:52:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/games/artificial-generative-intelligence-ris
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/artificial-generative-intelligence-risks-a-return-to-cultural-colonialism/amp/"
 type: article
 quality: 73
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "At The Dawn Of Artificial General Intelligence: Balancing Abundance With Existential Safeguards"
-    excerpt: "The journey toward AGI will undoubtedly challenge us, but with collaboration, foresight and wisdom, humanity can harness its immense potential for the greater good."
-    publishedDateTime: 2023-04-24T13:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/at-the-dawn-of-artificial-general-intelligence-balancing-abundance-with-existential-safeguards/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 20
 
 secured: "i4oFBnpExgciH+6+BARsJrIEpDegaixGt83sHzi3GUFNny6XUzlxZhb04Xl+zzeMtlXU2Dv+AyNVsZXqXTlYmOS80myod6PDjjMxS8NMCze0hCOFlTkEttIMWas6cKw+eF/h8ygw+Ff5Z77kcck3B5iRDrxFljDFPidRMKZcq4bMhs879fmDG/EzGaE1YpnFBIeknMTP6Bm/QYk7QVGon7Jcb0GogKRlFZ4coN5aeix4Kuuz+GGIM82c1cVLNaNzU/PIaPTouDR3kv1NsaxDH+FhhB2jWIPab9u0TbSJhuBIeAGN7Gn+jOO+mu9JPXnxWAyFp5mYVwkNLG8g72p8eAXybOgurh+uNSfoHO4c0iJzjaxRE8sc4X0pC5EdsF9kKiUmrc757Bs5puv/JB8LhD0NGBTjiQa5V0tg7C1jc9g0rW5N+gPjovOW9CT5cRsajj8hOyvY1EaJi0Tw1BRPs8qpNQ3bEg+irVi4+A6VUuz45wuvLCfVCoADniNrk3o/dWFs1xS3iYP6w7twndw1Hw==;Qe5BiUHk8Ku46yZIkaB7Ww=="
 ---

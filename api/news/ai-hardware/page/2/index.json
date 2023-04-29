@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-04-18-microsoft-reportedly-working-on-its-own-ai-chips-that-may-rival-nvidias.md",
+      "title": "Microsoft reportedly working on its own AI chips that may rival Nvidia’s",
+      "excerpt": "Microsoft is reportedly working on its own AI chips that can be used to train large language models and avoid a costly reliance on Nvidia. The Information reports that Microsoft has been ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2023/4/18/23687912/microsoft-athena-ai-chips-nvidia",
+      "originalUrl": "https://www.theverge.com/2023/4/18/23687912/microsoft-athena-ai-chips-nvidia",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-18T07:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-18-hsbc-says-this-chip-makers-incredible-ai-pricing-power-is-not-fully-priced-into-the-stock.md",
       "title": "HSBC says this chip maker's 'incredible AI pricing power' is not fully priced into the stock",
       "excerpt": "Nvidia shares can extend their 2023 rally once the chip maker's growing artificial intelligence business is fully appreciated by Wall Street, according to HSBC. Frank Lee, the firm's head of technology research in Asia,",
@@ -138,6 +182,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-17-chatgpt-and-generative-ai-are-booming-but-the-costs-can-be-extraordinary.md",
+      "title": "ChatGPT and generative AI are booming, but the costs can be extraordinary",
+      "excerpt": "AI Dungeon's text-generation software was powered ... It took about 1 million GPU hours to train. With dedicated prices from AWS, that would cost over $2.4 million. And at 65 billion parameters ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/03/13/chatgpt-and-generative-ai-are-booming-but-at-a-very-expensive-price.html",
+      "originalUrl": "https://www.cnbc.com/2023/03/13/chatgpt-and-generative-ai-are-booming-but-at-a-very-expensive-price.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107191457-1675888570906-gettyimages-1246870629-AFP_338Q79Q.jpeg?v=1682449783",
+          "width": 3600,
+          "height": 2400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/03/13/chatgpt-and-generative-ai-are-booming-but-at-a-very-expensive-price.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/03/13/chatgpt-and-generative-ai-are-booming-but-at-a-very-expensive-price.html",
+      "publishedDateTime": "2023-04-16T23:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1249,74 +1345,6 @@
       "provider": {
         "name": "Geeky Gadgets",
         "domain": "geeky-gadgets.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-04-adlink-launches-portable-gpu-accelerator-with-nvidia-rtx-a500.md",
-      "title": "Adlink launches portable GPU accelerator with NVIDIA RTX A500",
-      "excerpt": "ADLINK Technology Inc., a global leader in edge computing, today launched Pocket AI - the first ever ultra-portable GPU accelerator to offer exceptional power at a cost-effective price point.",
-      "sourceUrl": null,
-      "webUrl": "https://www.guru3d.com/news-story/adlink-launches-portable-gpu-accelerator-with-nvidia-rtx-a500.html",
-      "originalUrl": "https://www.guru3d.com/news-story/adlink-launches-portable-gpu-accelerator-with-nvidia-rtx-a500.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-04T01:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Guru3D.com",
-        "domain": "guru3d.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-01-april-1st-nzxt-gpu-ai-fans-and-other-incredible-tech-innovations.md",
-      "title": "April 1st, NZXT GPU, AI Fans and Other Incredible Tech Innovations",
-      "excerpt": "This GPU sports a white minimalist squared design ... XPG this year announced that they would be taking a step into AI and introduced the XPG 1337GPT. XPG understands that gamers can have ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eteknix.com/april-1st-nzxt-gpu-ai-fans-and-other-incredible-tech-innovations/",
-      "originalUrl": "https://www.eteknix.com/april-1st-nzxt-gpu-ai-fans-and-other-incredible-tech-innovations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-01T05:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eTeknix",
-        "domain": "eteknix.com",
         "images": null,
         "publishers": null,
         "authors": null

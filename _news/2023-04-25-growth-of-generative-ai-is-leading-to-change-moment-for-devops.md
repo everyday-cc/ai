@@ -125,15 +125,6 @@ related:
         width: 504
         height: 500
         isCached: true
-  - title: "HackerRank Research Finds Generative AI Changing How Developers Code--and How Companies Hire Developers"
-    excerpt: "Gap Identified Between the AI Skills Needed and the Skills TestedMOUNTAIN VIEW, Calif., April 24, 2023 /PRNewswire/ -- HackerRank, the developer"
-    publishedDateTime: 2023-04-24T14:40:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/hackerrank-research-finds-generative-ai-changing-how-developers-code-and-how-companies-hire-developers-1032254541"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 35
   - title: "How enterprises can navigate ethics and responsibility of generative AI"
     excerpt: "As enterprises adopt generative AI, they must simultaneously mitigate inherent risks in areas such as ethics, bias, transparency, privacy and regulatory requirements. Here’s how."
     publishedDateTime: 2023-04-27T11:56:00Z
@@ -157,15 +148,6 @@ related:
         width: 986
         height: 657
         isCached: true
-  - title: "Researchers Leverage Generative AI to Improve Cancer Treatment Targets"
-    excerpt: "Researchers from the University of Texas are studying the use of generative AI for adaptive radiotherapy to better personalize cancer treatments."
-    publishedDateTime: 2023-04-24T13:29:00Z
-    webUrl: "https://healthitanalytics.com/news/researchers-leverage-generative-ai-to-improve-cancer-treatment-targets"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 19
 
 secured: "v9IM6F3m6mb7wQiUGrcB6R2iM7RfpoQfGHKqkroIi/NYu43Wp/5rNzuI8qnum/TO6cCx9HuboF9wsRGH4KoTJMwqE3xL96n2sl/2hIZLImh7QYzHwWqI76/H77lS1KG6KIUYyBr5/ZaMgld/OQR18FDiCSXzI0mBnZTcgZiKWlNjB0+SVoKcdDkzwN5hhtpcV+xs4fj3Dzw7CCdE6u+INsGR1wHkbSNAkAh/nGmP/4ybEtrDlOIRNyw48+7nkHn3/ZT+ctnkhgU9lw4AHsgTj04LQR1OfCuC1AaU7IOM6OnPXCYU76XS81s26p4W05yj0VN6SFbh1mGoFH4TQCl/axoVslSMmQDzkS46+nMGP0M2FGPABtAD0nJEEwR/b24fS6sIssaswadHx9UsMb/OYdq8WKlCwRniB7WaxTOunAQtZAD7eNVCL1Xw5zdRp/iwAqVjjQNWW4nUh2YMFyiWCYQnKa435EwUepXX5yBIZ3mOmZZ//Fz8vjcWSDA6quJwR1Vx9KIjldor/5BljkxotQ==;34+udq21SDprxt17Oe7A9A=="
 ---

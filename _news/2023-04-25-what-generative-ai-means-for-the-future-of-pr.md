@@ -30,79 +30,86 @@ images:
     isCached: true
 
 related:
-  - title: "Sensory enables voice chat with generative AI on consumer devices"
-    excerpt: "Sensory, a maker of consumer voice AI, has announced it has integrated ChatGPT and other AI to drive voice responses on consumer devices."
-    publishedDateTime: 2023-04-24T14:30:00Z
-    webUrl: "https://venturebeat.com/ai/sensory-enables-voice-chat-with-generative-ai-on-consumer-devices/"
-    ampWebUrl: "https://venturebeat.com/ai/sensory-enables-voice-chat-with-generative-ai-on-consumer-devices/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/sensory-enables-voice-chat-with-generative-ai-on-consumer-devices/amp/"
+  - title: "The power of infrastructure purpose-built for AI"
+    excerpt: "Advances in powerful computing and the cloud are at the heart of the AI revolution. With faster, more efficient processing of vast amounts of data, companies can break through the"
+    publishedDateTime: 2023-04-26T20:20:00Z
+    webUrl: "https://venturebeat.com/ai/the-power-of-infrastructure-purpose-built-for-ai/"
+    ampWebUrl: "https://venturebeat.com/ai/the-power-of-infrastructure-purpose-built-for-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-power-of-infrastructure-purpose-built-for-ai/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
     quality: 91
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/04/SENSORY-2.jpg?w=1200&strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/04/AdobeStock_564311673.jpeg?w=1200&strip=all"
         width: 1200
-        height: 727
+        height: 686
         isCached: true
-  - title: "Grimes says anyone can use her voice for AI-generated songs"
-    excerpt: "Grimes has invited musicians to clone her voice using Artificial Intelligence in order to create new songs. The pop singer, whose real name is Claire Boucher, said she would \"split 50% royalties on any successful AI-generated song that uses my voice\"."
-    publishedDateTime: 2023-04-25T10:15:00Z
-    webUrl: "https://www.bbc.com/news/entertainment-arts-65385382?at_campaign_type=owned&at_ptr_name=twitter&at_format=link&at_link_origin=BBCWorld&at_link_id=6A68CC54-E352-11ED-B5C7-E39179448730&at_link_type=web_link&at_bbc_team=editorial"
-    ampWebUrl: "https://www.bbc.com/news/entertainment-arts-65385382.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/entertainment-arts-65385382.amp"
+  - title: "The Future Of Artificial Intelligence And Work"
+    excerpt: "The exponential growth of useful artificial intelligence (AI) applications has taken the world by storm. With AI applications and improvements being released daily, it's tempting to keep pivoting startup ideas and career strategies—especially as entire industries seem to be on the verge of getting disrupted."
+    publishedDateTime: 2023-04-27T10:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/27/the-future-of-artificial-intelligence-and-work/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/27/the-future-of-artificial-intelligence-and-work/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/27/the-future-of-artificial-intelligence-and-work/amp/"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/644924d67f513f26cbf33129/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 677
+        isCached: true
+  - title: "Harnessing The Power Of AI For Job Seekers And Recruiters"
+    excerpt: "\"AI already is proving to be a powerful tool for recruiters, job counselors and most of all job seekers, if they know how to harness it,\" explains RecruiterShare CEO, John Younger. \"The challenge for each of the these three groups is learning how to best harness it."
+    publishedDateTime: 2023-04-25T14:03:00Z
+    webUrl: "https://www.forbes.com/sites/michaelbernick/2023/04/25/harnessing-the-power-of-ai-for-job-seekers-and-recruiters/"
+    ampWebUrl: "https://www.forbes.com/sites/michaelbernick/2023/04/25/harnessing-the-power-of-ai-for-job-seekers-and-recruiters/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelbernick/2023/04/25/harnessing-the-power-of-ai-for-job-seekers-and-recruiters/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
     quality: 87
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/CE67/production/_129493825_gettyimages-523637192.jpg"
-        width: 1024
-        height: 576
+      - url: "https://imageio.forbes.com/specials-images/imageserve/644699ce5d21f906bf1742ca/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 1055
         isCached: true
-  - title: "Sales Engagement Software Outplay Launches Next-Gen Features With Regenerative AI"
-    excerpt: "Introduces all-in-one multi use-case features that will enable sales teams to achieve their goals across the sales life cycle without the need"
-    publishedDateTime: 2023-04-24T15:42:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/sales-engagement-software-outplay-launches-next-gen-features-with-regenerative-ai-1032254721"
+  - title: "What caught your eye this week? (Arm chip, AI warfare, Space critical infrastructure)"
+    excerpt: "For example, our technology editor says it is good to hear that the House of Lords is looking into the use of artificial intelligence in warfare - he hopes a deep and thorough public report is likely"
+    publishedDateTime: 2023-04-27T15:24:00Z
+    webUrl: "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/what-caught-your-eye-this-week-arm-chip-ai-warfare-space-critical-infrastructure-2023-04/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 59
-  - title: "Voices study finds creatives optimistic about generative AI, but share concerns over its ethics"
-    excerpt: "PRNewswire/ - Today, Voices, the world's leading voice over marketplace, released their AI in the Creative Industry"
-    publishedDateTime: 2023-04-28T15:47:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/voices-study-finds-creatives-optimistic-about-generative-ai-but-share-concerns-over-its-ethics-1032274231"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 52
-  - title: "EU proposes new copyright rules for generative AI"
-    excerpt: "Shortly after signing the letter, the Financial Times reported Musk was planning to launch his own startup to rival OpenAI. ALSO READ: Elon Musk plans AI startup to rival OpenAI, Financial Times reports"
-    publishedDateTime: 2023-04-28T01:55:00Z
-    webUrl: "https://www.asiaone.com/digital/eu-proposes-new-copyright-rules-generative-ai"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 37
+      name: Electronics Weekly
+      domain: electronicsweekly.com
+    quality: 47
     images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Apr2023/20230428_EUAI_Reuters.jpg?itok=7hZy3u6s"
-        width: 848
-        height: 601
+      - url: "https://static.electronicsweekly.com/wp-content/uploads/2019/03/11060252/House-of-Lords.jpg"
+        width: 460
+        height: 230
         isCached: true
-  - title: "The PR Council Issues Guidelines On Ethical Use Of Generative AI"
-    excerpt: "PRC issues detailed, actionable guidelines on the use of generative AI tools based on their longstanding Code of Ethics and Principles.<"
-    publishedDateTime: 2023-04-26T19:24:00Z
-    webUrl: "https://menafn.com/1106102977/The-PR-Council-Issues-Guidelines-On-Ethical-Use-Of-Generative-AI"
+  - title: "Empower - Not Overpower - With AI In The Healthcare Industry"
+    excerpt: "With human knowledge and experience still being the number one driver in the healthcare industry, it is a perfect example of how AI can empower, not overpower to achieve better results, and improve the quality of the patient's experience and their life."
+    publishedDateTime: 2023-04-26T13:51:00Z
+    webUrl: "https://www.thehealthsite.com/diseases-conditions/empower-not-overpower-with-ai-in-the-healthcare-industry-972979/"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
+      name: TheHealthSite
+      domain: thehealthsite.com
     quality: 34
+  - title: "How to strengthen your soft skills for AI and the future of work"
+    excerpt: "Marketable skills that can future-proof your career and livelihood will be 'soft skills,' such as management, communication, and empathy."
+    publishedDateTime: 2023-04-27T03:59:00Z
+    webUrl: "https://www.fastcompany.com/90887540/how-to-strengthen-your-soft-skills-for-ai-and-the-future-of-work"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 17
 
 secured: "VGKuotk34GuXEDMZdGMM0MXwSoPFe6/M1pY1SBofGO4M0VofCJpoGhOzFljIug/BFuuFKD2V1b9jyemYJe3d9aqZ//bLX+SFx49Djxgn9JJ1gCZfbL8+nqbG8TIxutE/vIwh7fuih9zMTtf+2/m7+GPD/6mpGjNT0JFLvWsfyHd1OkAAfi+kptzePo06lVbfbNGxwEP7c0lXgLfKiPLpDwTWXMMGz73sUk5IPPXGuFVLXOf8eV0TylvgSdRV/Pt+KRYeP4sDoyFTATMWmaIZ84CUeneBvIW+1+O/Fsr0KcFXf0zS3QpyWpYjMJt69pUOSOEPkL+57CcmjF0IARCtTBKJYfU/AdjNXwwAhf6RCi0=;7RxX4oQAFm0V6FBe3oW9GA=="
 ---

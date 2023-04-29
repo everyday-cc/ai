@@ -71,6 +71,20 @@ related:
         width: 8500
         height: 4250
         isCached: true
+  - title: "EU proposes new copyright rules for generative AI"
+    excerpt: "Shortly after signing the letter, the Financial Times reported Musk was planning to launch his own startup to rival OpenAI. ALSO READ: Elon Musk plans AI startup to rival OpenAI, Financial Times reports"
+    publishedDateTime: 2023-04-28T01:55:00Z
+    webUrl: "https://www.asiaone.com/digital/eu-proposes-new-copyright-rules-generative-ai"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 37
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Apr2023/20230428_EUAI_Reuters.jpg?itok=7hZy3u6s"
+        width: 848
+        height: 601
+        isCached: true
   - title: "The Battle for Authenticity: The Importance of Detecting Human vs. AI-Generated Content by Intetics"
     excerpt: "Intetics, a leading global technology company, published an article on the burning challenges of generative AI, existing AI-generated content detection tools, their current limitations and prospects,"
     publishedDateTime: 2023-04-27T11:53:00Z

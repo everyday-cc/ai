@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Drones Navigate Unseen Environments With Liquid Neural Networks"
-excerpt: "guided by liquid neural networks to navigate ever-changing and unseen environments with precision and ease. Inspired by the adaptable nature of organic brains, researchers from MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL ..."
-publishedDateTime: 2023-04-20T10:14:00Z
-originalUrl: "https://www.technologynetworks.com/informatics/news/drones-navigate-unseen-environments-with-liquid-neural-networks-372383"
-webUrl: "https://www.technologynetworks.com/informatics/news/drones-navigate-unseen-environments-with-liquid-neural-networks-372383"
+title: "Drones navigate unseen environments with liquid neural networks"
+excerpt: "In the vast, expansive skies where birds once ruled supreme, a new crop of aviators is taking flight. These pioneers of the air are not living creatures, but rather a product of deliberate innovation: drones."
+publishedDateTime: 2023-04-19T20:46:00Z
+originalUrl: "https://techxplore.com/news/2023-04-drones-unseen-environments-liquid-neural.html"
+webUrl: "https://techxplore.com/news/2023-04-drones-unseen-environments-liquid-neural.html"
+ampWebUrl: "https://techxplore.com/news/2023-04-drones-unseen-environments-liquid-neural.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-04-drones-unseen-environments-liquid-neural.amp"
 type: article
 
 provider:
-  name: technologynetworks
-  domain: technologynetworks.com
+  name: techxplore
+  domain: techxplore.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://assets.technologynetworks.com/production/dynamic/images/content/372383/drones-navigate-unseen-environments-with-liquid-neural-networks-372383-640x360.jpg?cb=20230420"
-    width: 640
-    height: 360
+  - url: "https://scx2.b-cdn.net/gfx/news/2023/drones-navigate-unseen.jpg"
+    width: 900
+    height: 600
     isCached: true
 
-secured: "NKsGaaIXq+8V/lOaL8ZbQymhcAFTLC6s/TPz4Tnbu1EAmOqVl+Wa45GRoIRkF1VM1jz3ZbBZ+XeuX3zd+op5zChTBMt9Zd+cKEcLfWF3GttgSeAc1kEWPRj+nklZdV68lR+i/2xMS0BubKQwdnOB3BmEQrBpjhhOSO7jh1j3F5DPwfbXdogJHM7YnwX5LQXKGkZdlh0cKH9crWN2QCeoXYg0iJfcD5KYLVJ/Qdd84LDsG4+7nU+N9BYI+LsGdz5Y+g2wsbTfqtyjebnzNcO6aMige0Nl3wbqVfm7JF2lnXrVtA5WqdcqY4gF+u8uhslcEMtcKsYFkKIg5YmEUDjlkuDEUCcPzyyooLnWYFUv4cc=;M/A6kkQG9nDCn10hpGuq6g=="
+secured: "qmrCMzuHUpVnkqcHW12DDca6s/a69Ig3XkDKXqdTY60gMudqr+iVtsKZloi/2PiTqtI80iXiv1b7WiEdeN7rmB6dNwAi8IL1fohE+8NmZiDZ2uTOeDNbNamScwdx2zpllQvNyIHtrCrtOrUlEQBj7eWBCgYVK/BXOccTVTi33Nm/CCQcwddIoZkZHdNUXzw1LjC8jrNvWDrm+CGpZx9ruUDB4NATHk6oGY5TzbNO0iury2UO8ZC3ZfArHrHfCChicU31i8/WwnPwxF94qLH0JG9zX5dTkOvcoNMGeAHM25rzf/NX/WTi0jM2poph3zTy1+MEPCqakRtZnXC9x1AEuO9NX38XoDmS6Um8+r5pL5c=;SoBerJnZS1MHzKi8Xumz5A=="
 ---
 

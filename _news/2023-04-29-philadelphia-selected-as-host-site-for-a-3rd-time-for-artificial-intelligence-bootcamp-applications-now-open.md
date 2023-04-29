@@ -1,33 +1,46 @@
 ---
 category: news
-title: "Philadelphia Selected as Host Site for a 3rd Time for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!"
-excerpt: "CSL Behring will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students at No-Cost for a 3rd time in the Fall of 2023. The AI"
-publishedDateTime: 2023-04-28T22:06:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/04/g32097200/philadelphia-selected-as-host-site-for-a-3rd-time-for-artificial-intelligence-bootcamp-application"
-webUrl: "https://www.benzinga.com/pressreleases/23/04/g32097200/philadelphia-selected-as-host-site-for-a-3rd-time-for-artificial-intelligence-bootcamp-application"
-ampWebUrl: "https://www.benzinga.com/amp/content/32097200"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32097200"
+title: "Philadelphia Selected as Host Site for a 3rd Time for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
+excerpt: "CSL Behring will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students at No-Cost for a 3 rd time in the Fall of 2023. The AI Bootcamp in Philadelphia will be targeted at underserved high school students (9th-12 th grade) and will introduce these high school students to basic AI concepts and skills."
+publishedDateTime: 2023-04-28T22:19:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/04/28/9804445.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/04/28/9804445.htm"
 type: article
-quality: 41
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - AI in Autos
-  - AI
   - AI in Robotics
+  - AI
 
 images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
+  - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
+    width: 550
+    height: 353
     isCached: true
 
 related:
+  - title: "Miami Dade College Will Once Again Host Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!"
+    excerpt: "Miami Dade College (MDC) will once again host the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp in Miami for high school students at no-cost during the fall 2023"
+    publishedDateTime: 2023-04-28T18:36:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/04/g32091127/miami-dade-college-will-once-again-host-artificial-intelligence-bootcamp-applications-now-open"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32091127"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32091127"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 61
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "Anchorage Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!"
     excerpt: "The Odom Corporation will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students at No-Cost for a 2nd time in the Fall of 2023."
     publishedDateTime: 2023-04-28T22:22:00Z
@@ -59,20 +72,6 @@ related:
       - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
         width: 1043
         height: 1043
-        isCached: true
-  - title: "Miami Dade College Will Once Again Host Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
-    excerpt: "Miami Dade College (MDC) will once again host the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp in Miami for high school students at no-cost during the fall 2023 term. The Bootcamp aims to introduce underserved high school students to basic AI concepts and skills."
-    publishedDateTime: 2023-04-28T19:08:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/04/28/9804355.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 41
-    images:
-      - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
-        width: 550
-        height: 353
         isCached: true
   - title: "Madison Selected as Host Site for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
     excerpt: "Fetch is one of 28+ host companies selected to host camps across the US in Fall 2023. The Fetch Bootcamp will be held over four consecutive Saturdays starting on October 14 th and ending on November 4 th."
@@ -247,6 +246,6 @@ related:
       domain: benzinga.com
     quality: 0
 
-secured: "8wWNxZ9bm4ttlCWuX8YHGJLwzeZaHZVwpH2uSt7Sc54hsmhf/UCQYmS7GzOU+jEdw1Bv44f2tktQQK0G5XvHgF810fkDY29k+d70INUeEhi+YheHOt4hD9rsU9W3Djm2Ha13NqpA4PCtmMDK52aml5QiKEjBh5tO3kB9TWRmp7YPH2olLrjP5FhoZmMyZEEwaBvahLpStBboS49rhaThHhjWOHpoI2w5Zh/5THKXKv+JRlGLL2/IqsjuXvLwQnkcluMwCAEdTrVG51YSxP5fcMbeQOKbKb6VnSk2uOhRu6QHHlrVZQkXYmnC0lcmyrY9YWGpQAawtH7jWOqoVcsFCyjrz4N9ZdnNC2pnGgaVUiU=;BlpoBKNVC4SDieJddpTZBg=="
+secured: "Osd950qYLy2FEKugVLyKZeceKA1nRLURhIKIqgq8PjvCqewuTQ9VaLKf8wQtUFkqBdPnYm0XpVicC9o0CE32mnj1IGAyNOuGNOFG74nGYMAEhZjGvrrE2BGikczc1gij9NV4j/CN0p5b4WyD12wQiRrs+bPs9pFjhl2mECgUvOM4RnMae7y7ikk/iPENdSbf99kZOvDuK2Ut2k9J14UBdNw3MP4fUhF7i5gis08aFQ1eArN/cC0cQ6pPv05eh8iIof/6EivASyO3KCe0WNDiOTsJor0795IQjS4WEK3e+2K9nkaJ0mLt2vSUo4ZE77lZUV04t9CYNRDUe294t5oJIKtTRQjqkk/ckAFAaKO1zUo=;3sxpxHajhtT9Fcownjip2w=="
 ---
 

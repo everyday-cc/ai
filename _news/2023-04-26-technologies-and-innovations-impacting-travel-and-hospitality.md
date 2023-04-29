@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cloud innovation: Leading companies in speech recognition techniques for the automotive industry"
-    excerpt: "The automotive industry continues to be a hotbed of innovation, with activity driven by speech recognition digital assistants, improved wireless voice technology, user-friendliness and better connectivity],"
-    publishedDateTime: 2023-04-24T13:14:00Z
-    webUrl: "https://www.just-auto.com/data-insights/innovators-cloud-speech-recognition-techniques-automotive/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 6
   - title: "Gigantor Technologies Announces USPTO Allowed Next Patent for Artificial Intelligence Target Recognition using Novel Synthetic Scaling Technique"
     excerpt: "Gigantor Technologies, Inc. is already disrupting the market with artificial intelligence (AI) acceleration solutions. Today, it announced another patent allowed by the United States Patent and Trademark Office (USPTO) for its innovative technique,"
     publishedDateTime: 2023-04-25T14:13:00Z

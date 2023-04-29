@@ -130,15 +130,6 @@ related:
         width: 986
         height: 657
         isCached: true
-  - title: "HackerRank Research Finds Generative AI Changing How Developers Code--and How Companies Hire Developers"
-    excerpt: "Gap Identified Between the AI Skills Needed and the Skills TestedMOUNTAIN VIEW, Calif., April 24, 2023 /PRNewswire/ -- HackerRank, the developer"
-    publishedDateTime: 2023-04-24T14:40:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/hackerrank-research-finds-generative-ai-changing-how-developers-code-and-how-companies-hire-developers-1032254541"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 35
   - title: "How enterprises can navigate ethics and responsibility of generative AI"
     excerpt: "As enterprises adopt generative AI, they must simultaneously mitigate inherent risks in areas such as ethics, bias, transparency, privacy and regulatory requirements. Here’s how."
     publishedDateTime: 2023-04-27T11:56:00Z
@@ -162,15 +153,6 @@ related:
         width: 986
         height: 657
         isCached: true
-  - title: "Researchers Leverage Generative AI to Improve Cancer Treatment Targets"
-    excerpt: "Researchers from the University of Texas are studying the use of generative AI for adaptive radiotherapy to better personalize cancer treatments."
-    publishedDateTime: 2023-04-24T13:29:00Z
-    webUrl: "https://healthitanalytics.com/news/researchers-leverage-generative-ai-to-improve-cancer-treatment-targets"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 19
 
 secured: "IgR1UFZUJRX3ICdj/e3lAUbQcyP4/awgi3mZF6HlLTo1Yfc7lD8Jr1evQhcAXbR7j+mjAIbHY84vUtErxQGegXfhsE7vNBplPVxhwecSgoroOycEV3yP8ARSh9b93T6NWSTHxLXuoBulsU5cOU1RyjYTPqwp453m/Hmuvxb/LP3DhtWXZ6vo57I9E7FjHCV/ZvDJJcY6IOsWFaxwMN8BO8ClabtlQWOlMwkMK0apNM3fAc7kgWn3zfMBxd+61d70HqCAHDmPsXLKmy7187WwBUHeHE9artQV/JIe7SSoU1oLBUkU3X83soZgQJz2geWMtRafVOO69O5Ir29RZqiMPoOyvB/cFFMUOQgRUU9+Iec=;LXej43We8/GuHqdcpGrB7w=="
 ---

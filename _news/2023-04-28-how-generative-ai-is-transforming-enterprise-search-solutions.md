@@ -130,15 +130,6 @@ related:
         width: 986
         height: 657
         isCached: true
-  - title: "HackerRank Research Finds Generative AI Changing How Developers Code--and How Companies Hire Developers"
-    excerpt: "Gap Identified Between the AI Skills Needed and the Skills TestedMOUNTAIN VIEW, Calif., April 24, 2023 /PRNewswire/ -- HackerRank, the developer"
-    publishedDateTime: 2023-04-24T14:40:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/hackerrank-research-finds-generative-ai-changing-how-developers-code-and-how-companies-hire-developers-1032254541"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 35
   - title: "How enterprises can navigate ethics and responsibility of generative AI"
     excerpt: "As enterprises adopt generative AI, they must simultaneously mitigate inherent risks in areas such as ethics, bias, transparency, privacy and regulatory requirements. Here’s how."
     publishedDateTime: 2023-04-27T11:56:00Z
@@ -162,15 +153,6 @@ related:
         width: 986
         height: 657
         isCached: true
-  - title: "Researchers Leverage Generative AI to Improve Cancer Treatment Targets"
-    excerpt: "Researchers from the University of Texas are studying the use of generative AI for adaptive radiotherapy to better personalize cancer treatments."
-    publishedDateTime: 2023-04-24T13:29:00Z
-    webUrl: "https://healthitanalytics.com/news/researchers-leverage-generative-ai-to-improve-cancer-treatment-targets"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 19
 
 secured: "y8MZ86np2be778ouVi8avIsY9aGUpDYSEddHxnPfnbK1dGv6XotWUYGys5uhKM3GDGiul9HLaHIxAEvvi3LN9ExFM432KfSWB8X88YuL9uuEEuhOAoM7nUQDo+wSLl75PDrb5Ii42Y267kChdR3viMnPmDGiPKM7eOyN3cjATWjg6w5Orj0AHVOXF50INiv3Cqqwg614zlynRPtQVRiLLNUBzSN7uA7ClsHXStTu2EmjqhZZyvVPCh1unp8xfmNgj1YhTuBa3hpDGf8iuhquHMjKSsXNzTi/bpLzXHMHKPOQWj5U/Jr/4ZGN/tEs5pY/KtYw6HzV5Tla4+3rk8TahOXUkXFqvwxxGOityBTwCaJ7hxjq05zIRkai4aIv7fTaQiLk+Hld6Noj/vc/nAWN6vhj9UKyUELXAVMwxfpvPAH5pI0c+Ydux9zjWRL5f1IW8IE4tGqkIEa0IilOe+77PkjvRts+BRmj9EgxGC1yAw6RiLbvmdDrRja58XX72ltB9Z+N9g5D8qAi9ovIvy8KFA==;n59W8RXhiDreDjx5zCsP/A=="
 ---

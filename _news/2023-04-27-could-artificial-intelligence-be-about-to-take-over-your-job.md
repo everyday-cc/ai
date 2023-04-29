@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/98471-could-artificial-intelligence-
 webUrl: "https://www.techspot.com/news/98471-could-artificial-intelligence-about-take-over-job.html"
 type: article
 quality: 67
-heat: 87
+heat: 89
 published: true
 
 provider:

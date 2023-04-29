@@ -73,6 +73,22 @@ related:
         width: 1200
         height: 1055
         isCached: true
+  - title: "What Generative AI Means For The Future Of PR"
+    excerpt: "As someone who works in public relations, where content and communication are the fundamentals of our craft, should I fear what LLMs such as ChatGPT or Google’s BERT (Bidirectional Encoder Representations from Transformers) and other conversational AI tools mean for the future of my profession,"
+    publishedDateTime: 2023-04-25T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/04/25/what-generative-ai-means-for-the-future-of-pr/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/04/25/what-generative-ai-means-for-the-future-of-pr/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/04/25/what-generative-ai-means-for-the-future-of-pr/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5f33fae78e26add3d640245e/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 836
+        isCached: true
   - title: "Empower - Not Overpower - With AI In The Healthcare Industry"
     excerpt: "With human knowledge and experience still being the number one driver in the healthcare industry, it is a perfect example of how AI can empower, not overpower to achieve better results, and improve the quality of the patient's experience and their life."
     publishedDateTime: 2023-04-26T13:51:00Z

@@ -1,22 +1,18 @@
 ---
 category: news
 title: "Infor Achieves AWS Manufacturing and Industrial Competency"
-excerpt: "Designation recognizes Infor for its expertise in providing services and software solutions for an end-to-end industrial manufacturing software"
-publishedDateTime: 2023-04-24T14:21:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/infor-achieves-aws-manufacturing-and-industrial-competency-1032254536"
-webUrl: "https://markets.businessinsider.com/news/stocks/infor-achieves-aws-manufacturing-and-industrial-competency-1032254536"
+excerpt: "Designation recognizes Infor for its expertise in providing services and software solutions for an end-to-end industrial manufacturing software toolchain. NEW YORK, April 24, 2023"
+publishedDateTime: 2023-04-24T15:32:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-infor-achieves-aws-manufacturing-industrial-competency-/2023/04/24/9800290.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-infor-achieves-aws-manufacturing-industrial-competency-/2023/04/24/9800290.htm"
 type: article
-quality: 69
-heat: 69
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AWS AI
@@ -28,6 +24,6 @@ images:
     height: 400
     isCached: true
 
-secured: "yN+pr/4m0JU0LJgEJMe84DRLNuUIM26S1EwFnAGmGMklkGrRS3WYggddywTh2Q1k8yozoHd88cJ7LaXiEjn0COI6fY9KYlQL4X9RPVRWasnydfs/+/KVyIIUuwTxNfK4eETYc2FWj2wbOQkmDJN8e5ZdggYl8XcT+lQ7WkZTy0BTAQCxktbuWj2VVaJX8ZXnYGzkKCFjduoayg/48IspJXlwMpszbyj9xtXeLUZ5cXYIw3UzeU23vOHr0gCs0lhKe9/hsbckx4IjV5pCwrnS1KHN8+PN7F2rH0BXGKpemwKfsT9pgegDcNWfKbTdOf5oza0shJ4dAc76gIL1tjBHA1+BhDwNJOGO6DA5WMq3zYypNII44YfPZOjeY716pXIvmCAekf8YY8uwISo+HXvc8nB0hFM/r0tgK96IKa6EbKwybXhnhE8NxwgWpW/XZZI4a1ZbrkYoisqOa2YlG3HsEWxtCVl1M6YzQKgMaOad0QcSchA4QOl1NnkgPqk1F9M27j4GNqL/UXOH50rbWvRoyQ==;7zleDxAYNhpLZiHCmVQZvQ=="
+secured: "brqIVU0fLvv2OxWDZoJzAvy4w3cpfBMhk0zsJ0wALyNpXCUSaUy225J4S4BDHfBf1pXkeeqGniCCbDJKppOkVBEndIoekXc1v2lACRaqDY3w6rgJZyH49GJF+H53XWskb4bBw9K9QNqJeFZn6ArRS4Yg52yxSLmxrRjeovIatRc/X5yXQZmTV+nbC79VEvWwqAib+V4wYHnp6HUNqvDQYnotKkfhmTLX5fbHFfUGEIS/DvSmA1n349BTYJfSH1VzTabnXbH++km2i+rb6z+z0M9Yg1kgjMhTHQ5N51kmGkElceFtNoRecOEZ0KEDv6XYfp5hkhxGMA1HdxkQCb+sJVd9/hRSP7YX+Rf4ep1HqEU=;X6Lx0l/PFrRIaHkjX2TbqQ=="
 ---
 

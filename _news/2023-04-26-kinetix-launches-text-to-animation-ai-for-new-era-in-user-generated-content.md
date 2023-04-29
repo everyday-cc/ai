@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/games/kinetix-launches-text-to-animation-ai-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/kinetix-launches-text-to-animation-ai-for-new-era-in-user-generated-content/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://www.tsnn.com/sites/default/files/AI%20translation%20concept.jpg"
         width: 8500
         height: 4250
+        isCached: true
+  - title: "EU proposes new copyright rules for generative AI"
+    excerpt: "Shortly after signing the letter, the Financial Times reported Musk was planning to launch his own startup to rival OpenAI. ALSO READ: Elon Musk plans AI startup to rival OpenAI, Financial Times reports"
+    publishedDateTime: 2023-04-28T01:55:00Z
+    webUrl: "https://www.asiaone.com/digital/eu-proposes-new-copyright-rules-generative-ai"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 37
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Apr2023/20230428_EUAI_Reuters.jpg?itok=7hZy3u6s"
+        width: 848
+        height: 601
         isCached: true
   - title: "Yellow.ai launches Dynamic Automation Platform (DAP) with Generative AI, unveils new logo"
     excerpt: "Yellow.ai, a global leader in Conversational AI, today announced the launch of its Dynamic Automation Platform (DAP), powered by generative AI, that enables enterprises to automate customer and employee experiences at scale with 60% reduction in their operational costs."

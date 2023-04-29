@@ -23,17 +23,6 @@ images:
     height: 900
     isCached: true
 
-related:
-  - title: "Something for the weekend: the inside track on AI horse betting"
-    excerpt: "With horseracing season upon us, writer Oliver Roeder tells FT Edit about his mindbending trip into the secretive world of the punters who use AI to bet billions on the big races."
-    publishedDateTime: 2023-04-29T04:00:00Z
-    webUrl: "https://www.ft.com/content/bdd64223-dc2f-4be7-af69-829d57aeecea"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
-
 secured: "MZe6U8VDvR4CTv1/VGHwDm1dAtEli9R7fD/nPfg4QThSgPbBMVp71rVaK8vqXZr6VVtar+ZGoPHkqjXDJ2tZ3C6PNMUm03FFsfIPIH5SMZdNNkjINK4Bjr3FaTILg9MSu0TeEQnweaUyXfKx0nvBSuyRoJ2QdRtx+0OG67mu6muqwGNkkHWJhzPm7TuahPqAUTysQV5FoU6wtjdwyeFhzltJf+5p4AGA2rOK8AQeIu5ZR9/hCnnihagM99bOK/DcMLgX2WCbMf+MXG6HU/A6C0mxBvtQSkGKzCzKAi9mH5Xw8myNXDes3Dk/uVFfYkE+sm3BlJUvooildm5ILRVtpa9TzxuRiCCEdGu01p7LuEpx9FzmNMAJ3bFMEOLsuWGsGRXAlmgRza8jNqN4tAzADPjYWm0RvdP008NlC+sGKXGFUmwbFnG9GUZ4L+mBay1GvO+b6bcaDABYHG6mfBgGocJYDG6M+f0CVj2yWAQVx1MbKavxeNSIF6k4ZUVACKQENDz1Vlf5WGmMZ6kWB/TB4A==;HKQVT2gSzG1fgJ19LABH9w=="
 ---
 

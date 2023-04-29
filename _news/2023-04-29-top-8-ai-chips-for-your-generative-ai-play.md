@@ -6,7 +6,7 @@ publishedDateTime: 2023-04-29T04:30:00Z
 originalUrl: "https://analyticsindiamag.com/top-8-ai-chips-for-your-generative-ai-play/"
 webUrl: "https://analyticsindiamag.com/top-8-ai-chips-for-your-generative-ai-play/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AWS AI
 
 images:
   - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/04/unnamed-2.jpg"
@@ -185,6 +186,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 36
+  - title: "The PR Council Issues Guidelines On Ethical Use Of Generative AI"
+    excerpt: "PRC issues detailed, actionable guidelines on the use of generative AI tools based on their longstanding Code of Ethics and Principles.<"
+    publishedDateTime: 2023-04-26T19:24:00Z
+    webUrl: "https://menafn.com/1106102977/The-PR-Council-Issues-Guidelines-On-Ethical-Use-Of-Generative-AI"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 34
   - title: "Generative AI: A paradigm shift in enterprise and startup opportunities"
     excerpt: "As news cycles eclipse one another about these advancements, it may seem like generative AI sprang out of nowhere for many business and executive leaders. Still, the reality is that these new architectures are built on approaches that have evolved over the past few decades."
     publishedDateTime: 2023-04-24T19:52:00Z
@@ -222,6 +232,6 @@ related:
       domain: datanami.com
     quality: 0
 
-secured: "z4jPr+r641wtvWg+2XkVJJOq5IKNdGqb8FcU1GHH0Uoksbvqnk4vG5PgrZdGmbPv/2KFdYKMPZUhWQ7onrNR/cIpxEk9MI3jCkZAwnIVjAkxbiKUnyNMiARBDrKPHKIDUeUeTTlxVqXAbKZuZygF7ULi8snGMhIZuQJF3Y2MDPBpGF/OpEgNCl4i8G/g9dWp7YZTzj5OI3IqqjcTOWCf2Py4qYL3EdBOCIxRFdxvTAwl3lKtzx60Gew1Ck8C2pOWbD5z9HOcaZTdQtkc6LEa3IXyW7D8j4dtPcOFPWb5NkxI9aotauVuPmnpgJdIrBTyytnDJ2qzEyGqpDlxNsEtDwQI0u7Q84poxzFiIxxJCWM=;V2o+sLRlIrA4wfWOZPiRgg=="
+secured: "h07O2S6/w5DXzGExmV1/4j5mw/fs3dkK5Z2RSwKS9SCxfBUFKWqoGCTXoKf0ob8BMFppBhjzgSorRJoCw3jP5zfxUOYvYdADrAVO8RH69YONmlQ3lyCQqZIXh7d+fAAQQyoiNZgOlxhk/0lfy2yubKgzwp344mz3YyKdbIFYP9gU/o2YAYOsHP06G+727FZm101gq0ZQFNXbrVk/PIaSKUSJHbcAZzileNHlYwMbbmAUw7iQzjcYa7zZsfGmLutLbXsteZDFbcdJmmdhD98vTKZRweA6571IJ2hItDV4T1bkCjnwbMcLL/ubcql5uxLxKBx8mhdVtPiWaV6Xl0K7FFaiwQcxCg9jUAwyKPg9TPUKxI1wzgPdpr9kb1IAuGsn/+kwT3d/vmEa2KiVdNT8rKE1eJp1tPRJAyNBDBv0VlOnHyDs+lKKSMNQBnks3/14NujPU4S9Djq0BoYRCOm7WjxICcfdxVsg/p/X2p3xpXbcAim9sw0fjJ3GCEKr+G91sWWMMsOuTi0DygU16ZMtZg==;32Wx8vvvJL1HySrqtmD2oQ=="
 ---
 

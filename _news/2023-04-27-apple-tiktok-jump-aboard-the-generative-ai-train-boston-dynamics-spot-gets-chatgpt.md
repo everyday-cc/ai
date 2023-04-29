@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 788
         isCached: true
-  - title: "AI-Generated Songs That Sound Like Kanye And Drake Are Going Viral On TikTok"
-    excerpt: "Generative AI is rippling through the creative industries, sparking concern in working artists, potential copyright breaches, and a new way to make memes."
-    publishedDateTime: 2023-04-24T14:07:00Z
-    webUrl: "https://www.forbes.com/sites/danidiplacido/2023/04/24/ai-generated-songs-that-sound-like-kanye-and-drake-are-going-viral-on-tiktok/"
-    ampWebUrl: "https://www.forbes.com/sites/danidiplacido/2023/04/24/ai-generated-songs-that-sound-like-kanye-and-drake-are-going-viral-on-tiktok/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danidiplacido/2023/04/24/ai-generated-songs-that-sound-like-kanye-and-drake-are-going-viral-on-tiktok/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64468be3dc046c3305a3babe/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 854
-        isCached: true
   - title: "TikTok Adds AI Avatar Generation Feature"
     excerpt: "Upload anywhere from 3 to 10 selfies and let TikTok generate up to 30 avatars in 5 different styles for you to choose from."
     publishedDateTime: 2023-04-26T13:46:00Z

@@ -42,6 +42,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Grimes says anyone can use her voice for AI-generated songs"
+    excerpt: "Grimes has invited musicians to clone her voice using Artificial Intelligence in order to create new songs. The pop singer, whose real name is Claire Boucher, said she would \"split 50% royalties on any successful AI-generated song that uses my voice\"."
+    publishedDateTime: 2023-04-25T10:15:00Z
+    webUrl: "https://www.bbc.com/news/entertainment-arts-65385382?at_campaign_type=owned&at_ptr_name=twitter&at_format=link&at_link_origin=BBCWorld&at_link_id=6A68CC54-E352-11ED-B5C7-E39179448730&at_link_type=web_link&at_bbc_team=editorial"
+    ampWebUrl: "https://www.bbc.com/news/entertainment-arts-65385382.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/entertainment-arts-65385382.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 87
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/CE67/production/_129493825_gettyimages-523637192.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "0cBEQz0eZ2flUWeXLMgUAausSi1P+Wgzs6PmxJ1mRhAcpPPXozgDYFmzWugZl0MgFzkPTfxjUzM/oy8rc2/uu0CgpR+T39qsK7ElRLxJicKOJwakLAErTE5NOttcFrqp0Gv5482sMJbxOAuZZgCD5UOKRpH0adnqxuRkCaeNJ5LnIPSinqoo8jkUJ9w5WU9tQYD+LCA2ij5hzfbgDjRPQ/ixcujYQoNgJZn3etTjkgw737UUjVtlpT1K/+kfmMPRNOixxzopuI5JDy6UVSFYALd8dh/QvSDaQCVRW8ucqGDNwQdDcLx5X7RhcF7TSwCBAFnafR+yCzZ0gtruZhRRiVOwtClyPOw0uoiSpLlecr0XrEduvqeEM6TfT6rDsGC18LZMYtERuqBcAPppvSHuMBB5FWFYBOOGkqxQwTcCB8+vZEcefLs1U6LBHSawdeyY2IuvbYMgxW3tGYebWovwdny3Yid2rIDse7Cag/Eeo7tZaGjr89z0ENB22iQ3KrS7eNzXL1K5+nrf9dFE6MfGKg==;HPnYD+kj3MkbpRnyQGdH9w=="
 ---

@@ -24,81 +24,75 @@ images:
     isCached: true
 
 related:
-  - title: "Sensory enables voice chat with generative AI on consumer devices"
-    excerpt: "Sensory, a maker of consumer voice AI, has announced it has integrated ChatGPT and other AI to drive voice responses on consumer devices."
-    publishedDateTime: 2023-04-24T14:30:00Z
-    webUrl: "https://venturebeat.com/ai/sensory-enables-voice-chat-with-generative-ai-on-consumer-devices/"
-    ampWebUrl: "https://venturebeat.com/ai/sensory-enables-voice-chat-with-generative-ai-on-consumer-devices/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/sensory-enables-voice-chat-with-generative-ai-on-consumer-devices/amp/"
+  - title: "Kinetix launches text-to-animation AI for new era in user-generated content"
+    excerpt: "Kinetix has announced Text2Emotes, a generative AI technology that heralds a new era of user-generated gaming content (UGC)."
+    publishedDateTime: 2023-04-26T07:59:00Z
+    webUrl: "https://venturebeat.com/games/kinetix-launches-text-to-animation-ai-for-new-era-in-user-generated-content/"
+    ampWebUrl: "https://venturebeat.com/games/kinetix-launches-text-to-animation-ai-for-new-era-in-user-generated-content/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/kinetix-launches-text-to-animation-ai-for-new-era-in-user-generated-content/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 91
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/04/SENSORY-2.jpg?w=1200&strip=all"
-        width: 1200
-        height: 727
-        isCached: true
-  - title: "Grimes says anyone can use her voice for AI-generated songs"
-    excerpt: "Grimes has invited musicians to clone her voice using Artificial Intelligence in order to create new songs. The pop singer, whose real name is Claire Boucher, said she would \"split 50% royalties on any successful AI-generated song that uses my voice\"."
-    publishedDateTime: 2023-04-25T10:15:00Z
-    webUrl: "https://www.bbc.com/news/entertainment-arts-65385382?at_campaign_type=owned&at_ptr_name=twitter&at_format=link&at_link_origin=BBCWorld&at_link_id=6A68CC54-E352-11ED-B5C7-E39179448730&at_link_type=web_link&at_bbc_team=editorial"
-    ampWebUrl: "https://www.bbc.com/news/entertainment-arts-65385382.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/entertainment-arts-65385382.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
     quality: 87
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/CE67/production/_129493825_gettyimages-523637192.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "What Generative AI Means For The Future Of PR"
-    excerpt: "As someone who works in public relations, where content and communication are the fundamentals of our craft, should I fear what LLMs such as ChatGPT or Google’s BERT (Bidirectional Encoder Representations from Transformers) and other conversational AI tools mean for the future of my profession,"
-    publishedDateTime: 2023-04-25T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/04/25/what-generative-ai-means-for-the-future-of-pr/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/04/25/what-generative-ai-means-for-the-future-of-pr/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/04/25/what-generative-ai-means-for-the-future-of-pr/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5f33fae78e26add3d640245e/0x0.jpg?format=jpg&width=1200"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/04/kinetix-text2emote.jpg?w=1200&strip=all"
         width: 1200
-        height: 836
+        height: 675
         isCached: true
-  - title: "Sales Engagement Software Outplay Launches Next-Gen Features With Regenerative AI"
-    excerpt: "Introduces all-in-one multi use-case features that will enable sales teams to achieve their goals across the sales life cycle without the need"
-    publishedDateTime: 2023-04-24T15:42:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/sales-engagement-software-outplay-launches-next-gen-features-with-regenerative-ai-1032254721"
+  - title: "Jeeves.Ai Launches Revolutionary AI-Powered Content Creation Tool for Businesses of All Sizes"
+    excerpt: "Today marks the launch of Jeeves.Ai, an AI startup dedicated to making artificial intelligence accessible to the masses. The company, seeded by a team of"
+    publishedDateTime: 2023-04-28T15:31:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/04/32086787/jeeves-ai-launches-revolutionary-ai-powered-content-creation-tool-for-businesses-of-all-sizes"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32086787"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32086787"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 59
-  - title: "Voices study finds creatives optimistic about generative AI, but share concerns over its ethics"
-    excerpt: "PRNewswire/ - Today, Voices, the world's leading voice over marketplace, released their AI in the Creative Industry"
-    publishedDateTime: 2023-04-28T15:47:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/voices-study-finds-creatives-optimistic-about-generative-ai-but-share-concerns-over-its-ethics-1032274231"
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 46
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "Interprefy Launches Next-Generation AI Speech Translator for Events"
+    excerpt: "M ultilingual meeting technology and services provider Interprefy unveiled Interprefy Aivia, the world’s first advanced automated speech translation service for online and live"
+    publishedDateTime: 2023-04-28T21:15:00Z
+    webUrl: "https://www.tsnn.com/news/interprefy-launches-nextgeneration-ai-speech-translator-events"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 52
-  - title: "The PR Council Issues Guidelines On Ethical Use Of Generative AI"
-    excerpt: "PRC issues detailed, actionable guidelines on the use of generative AI tools based on their longstanding Code of Ethics and Principles.<"
-    publishedDateTime: 2023-04-26T19:24:00Z
-    webUrl: "https://menafn.com/1106102977/The-PR-Council-Issues-Guidelines-On-Ethical-Use-Of-Generative-AI"
+      name: TSNN
+      domain: tsnn.com
+    quality: 39
+    images:
+      - url: "https://www.tsnn.com/sites/default/files/AI%20translation%20concept.jpg"
+        width: 8500
+        height: 4250
+        isCached: true
+  - title: "Yellow.ai launches Dynamic Automation Platform (DAP) with Generative AI, unveils new logo"
+    excerpt: "Yellow.ai, a global leader in Conversational AI, today announced the launch of its Dynamic Automation Platform (DAP), powered by generative AI, that enables enterprises to automate customer and employee experiences at scale with 60% reduction in their operational costs."
+    publishedDateTime: 2023-04-25T16:55:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/04/25/9801543.htm"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 34
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 30
+    images:
+      - url: "https://mma.prnewswire.com/media/2061615/Yellow_ai_launches_Dynamic_Automation.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "The Battle for Authenticity: The Importance of Detecting Human vs. AI-Generated Content by Intetics"
+    excerpt: "Intetics, a leading global technology company, published an article on the burning challenges of generative AI, existing AI-generated content detection tools, their current limitations and prospects,"
+    publishedDateTime: 2023-04-27T11:53:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-battle-authenticity-importance-detecting-human-vs-ai-generated-/2023/04/27/9803149.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 5
 
 secured: "EqpP83nFJO2iGpcR+uSlY19DhW84MAcOG26NFB4a19CNiCovLKlJUXkKvdmPafecJl7TRwT1HBSbCauLXC+0L1d3w0UDZ7UudXQhTcbtUdl+mECV0d/PHqn/If1DIrGacUot9Td+bMwRjJt5nq9PWfCpmAsb7EFEzHVUkOVUqwupZTy/qr4GwTzQuEw0Tpxgl4U/ZTZR67gsZqFmXe9dHtB27L9woTRhg1T0/yFNNSppjeiFiruRvOxlIO+GpHEuGRqANzjYW2wEz2d6TyPvggsY4r7D5UUyqz/jX7f88CYm5dcfbZnSYSmaW+S3q9XNWufuYP60dgAqIm2yHg0rkGAi48B/kRl9KtfwSzlRJX4=;lSYrTb0G9g5qxMmzwCQC5Q=="
 ---

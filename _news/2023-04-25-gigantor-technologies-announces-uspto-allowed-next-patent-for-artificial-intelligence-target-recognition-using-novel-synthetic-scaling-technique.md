@@ -33,15 +33,6 @@ related:
         width: 1000
         height: 450
         isCached: true
-  - title: "Cloud innovation: Leading companies in speech recognition techniques for the automotive industry"
-    excerpt: "The automotive industry continues to be a hotbed of innovation, with activity driven by speech recognition digital assistants, improved wireless voice technology, user-friendliness and better connectivity],"
-    publishedDateTime: 2023-04-24T13:14:00Z
-    webUrl: "https://www.just-auto.com/data-insights/innovators-cloud-speech-recognition-techniques-automotive/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 6
 
 secured: "emamE5T7rdNFhe2XyZZWdtK3604XY3pAc/Gwj5fbnlOA8q2fYTVoEB21ZfU9uwIw6iva87ab5+4+FIP7BkIhytuK0oZu+q5Tmf1oAr84uFIz6VAVBJ4FYhYlah6WhpzqFnD+idjMyJDAXqf/zCGvwyngBanZkzQAgtO/IwGTc7M/bTwl2FwqeYeHEGN+zvDUQCZ285JQYPEtSSxkixSeXmiliLiPuxGQYYn3yxsDEiSh3mwFTT8OtC2SQHyzqSTi7D+cyek7gwzxFA3PLA8biXIRGZS2sswI3hnaKJoBo0FQSsZuOgR1k+J4ZlouZBtZ9WBbz1P26/Rs40ZlzY5Ggvk7ueF5Kl7y2JVQputvGrA=;heAuoLFBO4DwFJ7XrO9Ahg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://cointelegraph.com/news/heres-how-ai-evolves-with-next-gen-gp
 cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/heres-how-ai-evolves-with-next-gen-gpu-and-ai-capabilities/amp"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 740
     height: 492
     isCached: true
+
+related:
+  - title: "Sales Engagement Software Outplay Launches Next-Gen Features With Regenerative AI"
+    excerpt: "Introduces all-in-one multi use-case features that will enable sales teams to achieve their goals across the sales life cycle without the need"
+    publishedDateTime: 2023-04-24T15:42:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/sales-engagement-software-outplay-launches-next-gen-features-with-regenerative-ai-1032254721"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 59
 
 secured: "jKboYYBojh/nFns/0l9BOpX4M1jFc1VGGRD8cDljoxGw6CbQ+CCVOeDRS+qy+tQGmLl8e1pimZYgB2TqgwigEvLEIh6p/7Yi6/H4uuq5h91cqb3iAAs4VlZUHtuyxKxFcIQCr196JFt46Q6TpwSQl8qpjuRS5QLIvw3TwTj0IJ1see7SiAA2WPh2xQg1QAJA1Z/twCaxG0pDu6tefaLEB/sFwvfQsc8sehoI2dszQwdqrrbm6CdKbBlMqc1uC0xZEEOnyaVdUhAtjolzHPwO1gGQsBw7vg/JotaOq8AQMbtSzICd0ocDrFbUFeUZyBunE70SLFnLtikgoi+jKuN4j/3cFTFL0Lqaz9G1H0dKCs4hAR0PiMXD7kA3Jn/4rq/rPneSchg+cu1TwUasJgcD5QnvTWyCUSr1KYncBtfXU8CaCeecg2hzXqyKE/K7QzdYEdW6SVt7PBwZ/jN3mE4PV1gvZIZdXWmdN3pqq2VjDfmyTk1YnajP8l1f0DC4p2POxFJCsMgLh3ZnVmc3rJWf/w==;JQ2hFE4BU0jAPpc90jMztQ=="
 ---

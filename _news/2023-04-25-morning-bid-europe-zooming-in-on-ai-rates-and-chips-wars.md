@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Stop the killer robots! Musk-backed lobbyists fight to save Europe from bad AI"
+    excerpt: "A lobby group backed by Elon Musk and associated with a controversial ideology popular among tech billionaires is fighting to prevent killer robots from terminating humanity, and it's taken hold of Europe's Artificial Intelligence Act to do so. The Future ..."
+    publishedDateTime: 2023-04-26T13:44:00Z
+    webUrl: "https://www.politico.eu/article/meet-the-musk-backed-ngos-trying-to-save-europe-from-bad-ai/"
+    ampWebUrl: "https://www.politico.eu/article/meet-the-musk-backed-ngos-trying-to-save-europe-from-bad-ai/amp/"
+    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/meet-the-musk-backed-ngos-trying-to-save-europe-from-bad-ai/amp/"
+    type: article
+    provider:
+      name: Politico Europe
+      domain: politico.eu
+    quality: 70
+    images:
+      - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2022/11/28/iStock-610855316-scaled.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "8FRDuJQ4bYfBUTBKJb3tJCQxbIs9Ob5lrlYoOkGC3bT8DEu/QvYTiIrWbdA20XeOphzImtPTzIbDQ/jIk4f4BlVXdwVJyl8NvZ21nJ046V+vptsRhUT49WtjSZNs2S852OPESnSH0Zj+yfYmYS2oeI6OCrQgQzSIPjxuhkAljflET29dsUaneh9YDYrC2SSrKkMhmRmx+cyHiHknLCm+PMtUijJ5njZOR2LgwM/0olvSLMge4M3LCgpjtFj3obLlRuRR2rDCDZQGL4xJAA6/nJq3tgUJIasl+F4+IPlLIaNBG9Y3mTQfGbbWtMujZsrdX9eWcBHy/qZzmWZYC1FYesOoYcO/eNI3PBy0/vYNAvU=;kQPTOU/MHSPjytb6KC2RSw=="
 ---

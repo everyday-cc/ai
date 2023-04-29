@@ -45,22 +45,6 @@ related:
         isCached: true
   - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
     excerpt: "Here's a guide to help understand Open AI's viral text-generating system. We outline the most recent updates and answer the most common FAQs."
-    publishedDateTime: 2023-04-24T14:48:00Z
-    webUrl: "https://techcrunch.com/2023/04/24/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/"
-    ampWebUrl: "https://techcrunch.com/2023/04/24/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/04/24/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
-        width: 1200
-        height: 798
-        isCached: true
-  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
-    excerpt: "Here's a guide to help understand Open AI's viral text-generating system. We outline the most recent updates and answer the most common FAQs."
     publishedDateTime: 2023-04-25T18:31:00Z
     webUrl: "https://techcrunch.com/2023/04/25/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/"
     ampWebUrl: "https://techcrunch.com/2023/04/25/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/"
@@ -105,15 +89,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Google creates DeepMind division to combat threat from ChatGPT and Bing AI"
-    excerpt: "The rate of AI development is seemingly speeding up each day, and Google is one of the biggest players in the game. The teams have an impressive history of achievements in AI coll"
-    publishedDateTime: 2023-04-24T13:37:00Z
-    webUrl: "https://www.techradar.com/news/google-creates-deepmind-division-to-combat-threat-from-chatgpt-and-bing-ai"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 62
   - title: "Someone Put ChatGPT Inside Of A Robot Dog, Which Can't Possibly End Badly"
     excerpt: "Massive upgrade!\" Of course, this isn't a case of simply installing ChatGPT into a robot and getting immediate results. As seen in the video, Santiago and the team had to create specific terms and routines for ChatGPT to function properly within Spot."
     publishedDateTime: 2023-04-26T15:10:00Z
@@ -285,15 +260,6 @@ related:
         width: 1600
         height: 840
         isCached: true
-  - title: "Le Bonheur Children's Hospital fellow publishes journal article on chatbots written by ChatGPT"
-    excerpt: "The use of chatbots and natural language processing technology, such as ChatGPT, has the potential to change the future of medical writing —with some caveats— says Som Biswas, MD, a Radiology fellow at Le Bonheur Children's Hospital and the University of Tennessee Health Science Center,"
-    publishedDateTime: 2023-04-24T13:06:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/le-bonheur-children-s-hospital-fellow-publishes-journal-article-on-chatbots-written-by-chatgpt-1032254265"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 22
   - title: "ChatGPT may have better bedside manner than some doctors, but it lacks some expertise"
     excerpt: "By Deidre McPhillips, CNN ChatGPT can be a useful tool for patients who are seeking medical information and guidance, but the artificial intelligence tool can’t fully replace the value of a human physician — it says so itself."
     publishedDateTime: 2023-04-28T20:03:00Z

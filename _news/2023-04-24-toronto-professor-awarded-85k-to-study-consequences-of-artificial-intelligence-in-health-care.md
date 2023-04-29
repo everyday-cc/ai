@@ -9,7 +9,7 @@ ampWebUrl: "https://beta.ctvnews.ca/local/toronto/2023/4/24/1_6368729.amp.html"
 cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/toronto/2023/4/24/1_6368729.amp.html"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 1020
     height: 573
     isCached: true
+
+related:
+  - title: "Toronto scientist gets big award to study artificial intelligence in health care"
+    excerpt: "Amazon just awarded a Toronto-based researcher $85,000 to study the consequences of implementing artificial intelligence in health care."
+    publishedDateTime: 2023-04-24T16:39:00Z
+    webUrl: "https://toronto.ctvnews.ca/toronto-scientist-gets-big-award-to-study-artificial-intelligence-in-health-care-1.6368729"
+    ampWebUrl: "https://beta.ctvnews.ca/local/toronto/2023/4/24/1_6368729.amp.html"
+    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/toronto/2023/4/24/1_6368729.amp.html"
+    type: article
+    provider:
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 54
+    images:
+      - url: "https://beta.ctvnews.ca/local/toronto/2023/4/24/1_6368729/_jcr_content/root/responsivegrid/image.coreimg.jpg"
+        width: 1020
+        height: 573
+        isCached: true
 
 secured: "+atzGFteW2mPrSWBqdRYn2z7Bsi44uCfiYuWul0SoEeZebV2UAq29AgFQGYFqWSwVQeKU8eVOnIIOd+ux+bwKU41+RzEwXFJvvz1xG1q/vci+RIBouSz4ut/fGuefvFTyJs6wvmRPaasTJrPtDSc7ZuvX8yIuThmc2Io74+I405H+jOvv1vUTvC0qLjKldlUddjBW/TBNSJE8ZVW990m221Kdn4nYv3p2gIM9MbPxTuoCkwunvYOAPFINqDcbONSnwIcgwBoeywDxGm56+ZBCs1aKCsW2TDH1Fy8cxbxT8sbzO+NFUhh649/FGoHKsAGGY4Fa5SKycIZxdx9VwFUNycKdJoyfzrq6eV8TAis6s7Gotdrg1ocR8Ftvs2ln84/tWTmU5MBq25mylAJzXyNGWoUJR0RolY8fVydNxDYcQQCpiDmK297osyDpt+TMjDxm+AlkY3xBPg/TV1ZkhcM0Mj31pjwTnVP4K2Oe9QX/D4BHbPiavwQuKwZ3EpD74MRhexJn734+/svINN/2l1iRA==;+CAs1OyE+7RXT7V+VVKZgA=="
 ---

@@ -153,6 +153,20 @@ related:
         width: 750
         height: 393
         isCached: true
+  - title: "Top 8 AI Chips for Your Generative AI Play"
+    excerpt: "The AI chip market is expected to grow at a CAGR of 51% and reach $73.49 billion by 2025. Semiconductor companies could capture 40-50% of the total market share. Companies such as Alphabet, Broadcom,"
+    publishedDateTime: 2023-04-29T04:30:00Z
+    webUrl: "https://analyticsindiamag.com/top-8-ai-chips-for-your-generative-ai-play/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 41
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/04/unnamed-2.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "EU lawmakers pass draft of AI Act, includes last-minute change on generative AI models"
     excerpt: "After months of negotiations and two years after a draft rules were proposed, EU lawmakers have a draft of the Artificial Intelligence Act."
     publishedDateTime: 2023-04-27T19:02:00Z
@@ -162,20 +176,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 39
-  - title: "Top 8 AI Chips for Your Generative AI Play"
-    excerpt: "The AI chip market is expected to grow at a CAGR of 51% and reach $73.49 billion by 2025. Semiconductor companies could capture 40-50% of the total market share. Companies such as Alphabet, Broadcom,"
-    publishedDateTime: 2023-04-29T04:30:00Z
-    webUrl: "https://analyticsindiamag.com/top-8-ai-chips-for-your-generative-ai-play/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/04/unnamed-2.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Executives want generative AI, but are taking it slow. An army of providers has lined up to help"
     excerpt: "Vendors are lining up to help enterprise companies adopt generative AI and tackle issues around data security and risk."
     publishedDateTime: 2023-04-26T19:01:00Z
@@ -185,6 +185,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 36
+  - title: "The PR Council Issues Guidelines On Ethical Use Of Generative AI"
+    excerpt: "PRC issues detailed, actionable guidelines on the use of generative AI tools based on their longstanding Code of Ethics and Principles.<"
+    publishedDateTime: 2023-04-26T19:24:00Z
+    webUrl: "https://menafn.com/1106102977/The-PR-Council-Issues-Guidelines-On-Ethical-Use-Of-Generative-AI"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 34
   - title: "Generative AI: A paradigm shift in enterprise and startup opportunities"
     excerpt: "As news cycles eclipse one another about these advancements, it may seem like generative AI sprang out of nowhere for many business and executive leaders. Still, the reality is that these new architectures are built on approaches that have evolved over the past few decades."
     publishedDateTime: 2023-04-24T19:52:00Z

@@ -139,15 +139,6 @@ related:
         width: 986
         height: 657
         isCached: true
-  - title: "HackerRank Research Finds Generative AI Changing How Developers Code--and How Companies Hire Developers"
-    excerpt: "Gap Identified Between the AI Skills Needed and the Skills TestedMOUNTAIN VIEW, Calif., April 24, 2023 /PRNewswire/ -- HackerRank, the developer"
-    publishedDateTime: 2023-04-24T14:40:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/hackerrank-research-finds-generative-ai-changing-how-developers-code-and-how-companies-hire-developers-1032254541"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 35
   - title: "How enterprises can navigate ethics and responsibility of generative AI"
     excerpt: "As enterprises adopt generative AI, they must simultaneously mitigate inherent risks in areas such as ethics, bias, transparency, privacy and regulatory requirements. Here’s how."
     publishedDateTime: 2023-04-27T11:56:00Z
@@ -157,15 +148,6 @@ related:
       name: CIO
       domain: cio.com
     quality: 34
-  - title: "Researchers Leverage Generative AI to Improve Cancer Treatment Targets"
-    excerpt: "Researchers from the University of Texas are studying the use of generative AI for adaptive radiotherapy to better personalize cancer treatments."
-    publishedDateTime: 2023-04-24T13:29:00Z
-    webUrl: "https://healthitanalytics.com/news/researchers-leverage-generative-ai-to-improve-cancer-treatment-targets"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 19
 
 secured: "Vm9geRj+a3bzFCdQg1QHK/MEg6iPhWG4hz4wBL/2QaKO+KEbY4Vv5oCnZG8WirQKckqwlP/8XgRKjW78NPxLZ0oOTkRShp6vo/8eWOh74uX9kWMTjA8cir6mqSRuFj5rBHRurTxwX+5xwQoRgKvOnEBU4iaFBYcRH5WsfH3zkZA99ZycRcPYlOe6I61ApCp2d/7kCuDdU58VGGhO6n+QobsHk+NqgtADBmlSdsNfWIYOjaHgIZpA+jNKIjeHrUC4qazQH6BhjKK3EWRC6PGnuEn1QBnIum9Ta5LGh2i+o71QNTsKKsBiHEkIK9GuejeqD2EDom+0i93SNyUtH3F8tjcBGdDvVF77cCrS/x49PWY=;uo38ls+zwHkxqumIFydTYQ=="
 ---

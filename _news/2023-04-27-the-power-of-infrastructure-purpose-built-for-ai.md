@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/the-power-of-infrastructure-purpose-built
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-power-of-infrastructure-purpose-built-for-ai/amp/"
 type: article
 quality: 91
-heat: 141
+heat: 151
 published: true
 
 provider:
@@ -63,6 +63,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/644699ce5d21f906bf1742ca/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 1055
+        isCached: true
+  - title: "What Generative AI Means For The Future Of PR"
+    excerpt: "As someone who works in public relations, where content and communication are the fundamentals of our craft, should I fear what LLMs such as ChatGPT or Google’s BERT (Bidirectional Encoder Representations from Transformers) and other conversational AI tools mean for the future of my profession,"
+    publishedDateTime: 2023-04-25T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/04/25/what-generative-ai-means-for-the-future-of-pr/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/04/25/what-generative-ai-means-for-the-future-of-pr/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/04/25/what-generative-ai-means-for-the-future-of-pr/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5f33fae78e26add3d640245e/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 836
         isCached: true
   - title: "What caught your eye this week? (Arm chip, AI warfare, Space critical infrastructure)"
     excerpt: "For example, our technology editor says it is good to hear that the House of Lords is looking into the use of artificial intelligence in warfare - he hopes a deep and thorough public report is likely"

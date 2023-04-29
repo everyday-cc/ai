@@ -134,15 +134,6 @@ related:
         width: 986
         height: 657
         isCached: true
-  - title: "HackerRank Research Finds Generative AI Changing How Developers Code--and How Companies Hire Developers"
-    excerpt: "Gap Identified Between the AI Skills Needed and the Skills TestedMOUNTAIN VIEW, Calif., April 24, 2023 /PRNewswire/ -- HackerRank, the developer"
-    publishedDateTime: 2023-04-24T14:40:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/hackerrank-research-finds-generative-ai-changing-how-developers-code-and-how-companies-hire-developers-1032254541"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 35
   - title: "Google takes an opinionated view of how generative AI can be used in cybersecurity"
     excerpt: "Google LLC announced a large language model fine-tuned for cybersecurity operations. The new generative AI model, Sec-PaLM, is designed to address enterprise challenges around threat overload, tool sprawl and a shortage of talent in the cybersecurity business."
     publishedDateTime: 2023-04-25T22:17:00Z
@@ -157,15 +148,6 @@ related:
         width: 986
         height: 657
         isCached: true
-  - title: "Researchers Leverage Generative AI to Improve Cancer Treatment Targets"
-    excerpt: "Researchers from the University of Texas are studying the use of generative AI for adaptive radiotherapy to better personalize cancer treatments."
-    publishedDateTime: 2023-04-24T13:29:00Z
-    webUrl: "https://healthitanalytics.com/news/researchers-leverage-generative-ai-to-improve-cancer-treatment-targets"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 19
 
 secured: "pKGHiWopRyFWA754C+GYzpCZRF325EpZkOtPpTot5e8C+AFWrT+zC9GIgSa1zutx7DlBGQPKk0qUneXXVDaMSFjeA92GS4XBVBvXKGrj8IxX8FqtQKpnuVj3eTi9Ai87gmixVFTtQw2TBQYn7JlNfKwTsR4Z52ArlYPI5PqwZ2lfHqq97I0trzl7Cs7duVNr97xtLPTny83uNUeh3Lk6wRaS2Juh+89N2xaUqGJcu80fTFDX6UiGLySnaLqCInXRCrSxcap181FahPABUhq91Q8j2RSjAzwnEoXeLxPw4X0aZHsJnQvj7nSATIKN++r3f/l029KFFgxE43OlimsnjPodBf/l7qmE6v1iwg96ntrxxHwkDgQfPaNO0Na4+GmeMi/uIfOU83NgDvl1J2XMMAJZ2jA57gBzNFYuayP48LnO85nI+YMFJtvkIAkhqb9NSAa13nx/Di3I9TkCXFlLDB0y+gnPESmZ5P3pP1lXn8o97vIJtRurR6stnCsnBxhXQoBhgSYlIf4JDxgkxbJynw==;Sn2W69EH0z7TgVDq2w8DlA=="
 ---

@@ -71,6 +71,20 @@ related:
         width: 945
         height: 630
         isCached: true
+  - title: "Self-Driving Cars Are Not (Yet) Safe"
+    excerpt: "Three things have happened in the last month that have made me think about the safety of self-driving cars a lot more. The US Department of Transportation (DOT) has issued its guidance on the ..."
+    publishedDateTime: 2023-04-27T00:00:00Z
+    webUrl: "https://hackaday.com/2016/12/05/self-driving-cars-are-not-yet-safe/"
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 24
+    images:
+      - url: "https://hackaday.com/wp-content/uploads/2016/12/autopilot.jpg"
+        width: 3000
+        height: 1815
+        isCached: true
   - title: "Self-driving cars must learn the language of cyclists to keep roads safe"
     excerpt: "Future generations of self-driving cars should learn the language of cyclists to help them safely share the roads with bikes, new research suggests."
     publishedDateTime: 2023-04-25T05:40:00Z

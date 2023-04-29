@@ -9,7 +9,7 @@ ampWebUrl: "https://beta.ctvnews.ca/local/toronto/2023/4/24/1_6368729.amp.html"
 cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/toronto/2023/4/24/1_6368729.amp.html"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "A word of caution before AI becomes standard in health care"
-    excerpt: "This human form of learning, with the brain as the computer, is the standard that AI aspires to reach. But now, artificial intelligence has advanced to the point where it has become a highly useful medical tool."
-    publishedDateTime: 2023-04-24T14:00:00Z
-    webUrl: "https://thehill.com/opinion/healthcare/3965108-a-word-of-caution-before-ai-becomes-standard-in-healthcare/"
-    ampWebUrl: "https://thehill.com/opinion/healthcare/3965108-a-word-of-caution-before-ai-becomes-standard-in-healthcare/amp/"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/healthcare/3965108-a-word-of-caution-before-ai-becomes-standard-in-healthcare/amp/"
+  - title: "Toronto professor awarded $85K to study consequences of artificial intelligence in health care"
+    excerpt: "Amazon just awarded a Toronto-based researcher $85,000 to study the consequences of implementing artificial intelligence in health care."
+    publishedDateTime: 2023-04-24T16:39:00Z
+    webUrl: "https://toronto.ctvnews.ca/toronto-professor-awarded-85k-to-study-consequences-of-artificial-intelligence-in-health-care-1.6368729"
+    ampWebUrl: "https://beta.ctvnews.ca/local/toronto/2023/4/24/1_6368729.amp.html"
+    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/toronto/2023/4/24/1_6368729.amp.html"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 61
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 47
     images:
-      - url: "https://thehill.com/wp-content/uploads/sites/2/2023/04/artificial_intelligence_AI_healthcare-01072023_AP_.jpg?w=1280"
-        width: 1280
-        height: 719
+      - url: "https://beta.ctvnews.ca/local/toronto/2023/4/24/1_6368729/_jcr_content/root/responsivegrid/image.coreimg.jpg"
+        width: 1020
+        height: 573
         isCached: true
 
 secured: "pJBFujLFWGz7/2azGt1B+9XMDSkCsA3RPgIp8LEzS7MBq1KFkJ5oUGmdttqILGMi6fIAr1p6HlDdftX7U0+JsCYsfbtiXqHvzaGwu6lEoikjISJDadGTeJgM5aq0g/eQviOWnXvpaLeFRztnd2OUSlqb2quPoqrKUTiKDx7B/yRsdMWC3x8n392e7NBQjyc56F9GdMUmzJwRapD4xqhYGaFsGy4pYlRoXgikH3EB2z6IPZXYLR9DSUjvyy90UjqxamtqtFaXTFEkHOvPBAB5ytUs8bOJtSpLe3DsMna4Gj2nSM1C/CmojE7L2qHggolXGsYimTrgAUwtNRaMJLFFZ1t/OnG436t3lFN3AIJeL41y7sFuUT6MQsKtS3jAvqo5xItIQb5wsFrOrC1HvHGWZwLKguyw7NhoSsfMyFG5gIzOIY3POHnnb06RWnPV4wtLmzJcsxU5pTSL2SUN6vYx3xbYiGQLuy+moOy7F5w1PBOTQzx5AcOJbcCERhRHbDus0lUJUvJ8VWVotZHy2W+VYA==;TekLq5Lq2JsESItzsBcHIQ=="
