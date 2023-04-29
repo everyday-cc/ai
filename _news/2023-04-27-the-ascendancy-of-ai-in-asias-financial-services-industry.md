@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/zennonkapron/2023/04/26/the-ascendancy-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zennonkapron/2023/04/26/the-ascendancy-of-ai-in-asias-financial-services-industry/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -57,15 +57,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Can Artificial Intelligence Help The Film Industry? It Already Is."
-    excerpt: "Monica Landers, founder and CEO of StoryFit, is using artificial intelligence to help the film industry with scripts and characters. And it's not ChatGPT."
-    publishedDateTime: 2023-04-24T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/danpontefract/2023/04/24/can-artificial-intelligence-help-the-film-industry-it-already-is/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Using AI as a virtual financial adviser"
     excerpt: "A tool like ChatGPT cannot fully comprehend the intricacies of human language and conversation, which can lead to responses that lack depth and insight. There is also a need for"
     publishedDateTime: 2023-04-27T02:08:00Z

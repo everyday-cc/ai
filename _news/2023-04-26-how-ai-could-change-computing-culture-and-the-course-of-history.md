@@ -28,37 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "5 Crucial Components Of An AI Company"
-    excerpt: "In this article, I'll explore five crucial factors that should drive the decision making of VCs and investors when identifying investment opportunities and evaluating long-term potential in the competitive and oversaturated AI space."
-    publishedDateTime: 2023-04-24T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/04/24/5-crucial-components-of-an-ai-company/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/04/24/5-crucial-components-of-an-ai-company/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/04/24/5-crucial-components-of-an-ai-company/amp/"
+  - title: "AI Could Spell the End of Big Business"
+    excerpt: "The leading companies in artificial intelligence tend to be small, and many big ones will use it to get smaller."
+    publishedDateTime: 2023-04-26T11:00:00Z
+    webUrl: "https://www.bloomberg.com/opinion/articles/2023-04-26/ai-could-spell-the-end-of-big-business"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6442b28cc7d2114a4afa0045/0x0.jpg?format=jpg&width=1200"
-        width: 1014
-        height: 676
-        isCached: true
-  - title: "Pros and cons of AI in education"
-    excerpt: "CTU Training Solutions held a webinar recently to explore how AI is going to change the way we teach and learn."
-    publishedDateTime: 2023-04-25T06:40:00Z
-    webUrl: "https://www.itweb.co.za/content/Olx4zMkal3Qv56km"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/Olx4zMkal3Qv56km"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/Olx4zMkal3Qv56km"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 76
-    images:
-      - url: "https://www.itweb.co.za/static/pictures/2023/04/86-Humanoid-reading-2023.jpg"
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9rRKQiMCs54/v1/1200x800.jpg"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
 
 secured: "gNrXp2QNHwG5+uRXBce5Gf8kaLk4F4yW5IWF4T2B/uwZha4XLAqw17xMDyLo5V3utbg1/fNlrh1T0Kn6SZ+/e19YuJYe7prmHDaDthrZ6L6qFIhLEYMx+hz/u/+l88+nUGcOhJbZTI2Luksz/ec/+6XoPWbq9knd3tffLbbistKlGmRrZsIjZlTqBdUtpfJmin4ShepbsubX3hPEzThFiObqw7tmrfGngdOiqQy8BXs+G6XvX3hSFbcuVigr8FzhAtQ+5E6UU375bSheU1zmhM2/TcAKUJOseRs25Ygv9jd+zma+J9EAI6pyCb2/aWG5Vguk8vHOcMtiY/hQybtqJ29C2Vb9LKrPzJlJMqyIYkQ=;jgnrrc4GPM6htXahwW1KRw=="

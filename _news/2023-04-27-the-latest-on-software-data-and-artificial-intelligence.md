@@ -24,56 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Can Transform The Software Engineering Process"
-    excerpt: "Generative AI will expedite the pace of modern software development, promote experimentation and even transform the current software engineering funnel in the future."
-    publishedDateTime: 2023-04-24T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/how-ai-can-transform-the-software-engineering-process/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/how-ai-can-transform-the-software-engineering-process/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/24/how-ai-can-transform-the-software-engineering-process/amp/"
+  - title: "Opera shows off AI and tab grouping in the latest browser update"
+    excerpt: "Opera has announced Opera One, a redesign of its Web browser with AI features like Tab Islands and under-the-hood improvements to its performance."
+    publishedDateTime: 2023-04-25T17:39:00Z
+    webUrl: "https://www.pcworld.com/article/1798217/opera-one-is-operas-ai-powered-modular-new-browser.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: PC World
+      domain: pcworld.com
+    quality: 69
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6058b5411e82e550078f5886/0x0.jpg?format=jpg&width=1200"
-        width: 790
-        height: 526
+      - url: "https://www.pcworld.com/wp-content/uploads/2023/04/A_Opera-One-Dark-mode-16x9-1-1.png?w=1024"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "How artificial intelligence is transforming Hollywood"
-    excerpt: "Artificial intelligence is revolutionizing Hollywood productions and raising new questions. CNBC’s Julia Boorstin shows us how companies are using AI to put actors’ faces on body doubles and even “revive” deceased movie stars on screen."
-    publishedDateTime: 2023-04-27T22:47:00Z
-    webUrl: "https://www.nbcnews.com/nightly-news/video/how-artificial-intelligence-is-transforming-hollywood-171546693664"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo171546693664"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo171546693664"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 87
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_04/WA-NNWEB-20230427-01_AI_HOLLYWOOD_BOORSTIN_3_21_MIXDOWN_frame_3793-376hvp.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "How Artificial Intelligence Can Aid Democracy"
-    excerpt: "BKC Affiliates Nathan Sanders and Bruce Schneier write about AI's potential to advance the public good by helping democracy."
-    publishedDateTime: 2023-04-27T12:32:00Z
-    webUrl: "https://cyber.harvard.edu/story/2023-04/how-artificial-intelligence-can-aid-democracy"
-    type: article
-    provider:
-      name: Harvard Medical School
-      domain: harvard.edu
-    quality: 34
-  - title: "As AI Advances, Is Prompt Engineering the Next Crucial Legal Skill?"
-    excerpt: "Generative AI has taken the legal world by storm, and that means legal professionals are going to have to learn to communicate with machines. One key skill for doing so has emerged: prompt engineering."
-    publishedDateTime: 2023-04-25T19:47:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/04/25/as-ai-advances-is-prompt-engineering-the-next-crucial-legal-skill/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 17
 
 secured: "7OHLjXWnZd21Z9JZfNMSJ4qvGQ9WhE7jbnH2uscjQRMvs5qbKMuhIhnH03hvlOiA8fGPPwYs8C4/EBPa3Qz6kgj0SVLItqJILl/6KuchcZr026+WGIUGoWeDRq7liPKMBaaFF0d3BDuqQtA9WBVvOvI8s6hoX7aJ9fIFLSvcQZUomm+ijRsvMRrBFMeL1gMFy+MKVERznVaWxt2DQjOv7rAj9lSzgxkyoSLb0aI4PJhUUyR27yYrzIroSneG4A74aVI1xSa/iRvMRjgLhnKWaRxdMlVCHf9/U5d+0U9O9acH4WjmFmVv+KjOHnicFKZkQLdarD9GUkPc+y7eU+F+4BSsDs5x5pWvvgI+l6Y/o3k=;El3QvvgLk81cDlBQWWcOmw=="
 ---

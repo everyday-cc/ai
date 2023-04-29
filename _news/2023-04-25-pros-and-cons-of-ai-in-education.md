@@ -28,37 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "5 Crucial Components Of An AI Company"
-    excerpt: "In this article, I'll explore five crucial factors that should drive the decision making of VCs and investors when identifying investment opportunities and evaluating long-term potential in the competitive and oversaturated AI space."
-    publishedDateTime: 2023-04-24T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/04/24/5-crucial-components-of-an-ai-company/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/04/24/5-crucial-components-of-an-ai-company/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/04/24/5-crucial-components-of-an-ai-company/amp/"
+  - title: "Here's what first wave of AI rules from Congress could look like"
+    excerpt: "A likely candidate for early congressional action to regulate AI is a bill passed in committee last year, which would put up guardrails against discriminatory outcomes in AI."
+    publishedDateTime: 2023-04-27T06:00:00Z
+    webUrl: "https://www.foxnews.com/politics/first-wave-ai-rules-congress-look-like"
+    ampWebUrl: "https://www.foxnews.com/politics/first-wave-ai-rules-congress-look-like.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/first-wave-ai-rules-congress-look-like.amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: Fox News
+      domain: foxnews.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6442b28cc7d2114a4afa0045/0x0.jpg?format=jpg&width=1200"
-        width: 1014
-        height: 676
-        isCached: true
-  - title: "How AI could change computing, culture and the course of history"
-    excerpt: "For a sense of what may be on the way, consider three possible analogues, or precursors: the browser, the printing press and practice of psychoanalysis. One changed computers and the economy, one changed how people gained access and related to knowledge, and one changed how people understood themselves."
-    publishedDateTime: 2023-04-26T03:03:00Z
-    webUrl: "https://www.livemint.com/technology/how-ai-could-change-computing-culture-and-the-course-of-history-11682436092490.html"
-    ampWebUrl: "https://www.livemint.com/technology/how-ai-could-change-computing-culture-and-the-course-of-history/amp-11682436092490.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/how-ai-could-change-computing-culture-and-the-course-of-history/amp-11682436092490.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 61
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/04/25/600x338/AI-keo--621x414LiveMint_1682436432973_1682436433122.jpg"
-        width: 600
-        height: 337
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c928e5fe-c755-4e83-9dbf-542ea2239cfe/0c22fc9e-78fd-40df-b554-732cc6a0a77a/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "YxTMimOErOtDepwuVXw7E6HmK4+04milPwbM4zide2ZzPPFBYy+Q99jNLLz9rGtYbsESP2FAWc/YFjuYl0ADdK7RVgKt9DXlAxrkCnBJvZKWClVDPbcnFFNZYihDkOhQSSTYt44uub+VgQAqUfYA0EDM+vkVUAqyot4hNmTSkL7Yjo9vrMm6JOA0XBxAADkS9u2y2Zwjj6Re2Uz6wxSeTyI8lvJQOsOL+qCq4V5OA0tDZ+3n3KC2yvHj5mrHh3a1TUfnbCX7OEdbZZSVt8rHov25FQa5YHPgFCPDT7VEL3HxU+OEbQ7biN+F1q4AWSGe4eg4xuSuIg+SEftmk1E8fwyZbHzWEPYYFvIuZ9rXJhA=;f9RWGZSuI0LeATJEBwaxTQ=="

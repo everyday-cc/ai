@@ -37,6 +37,15 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Britain Jumps On AI Bandwagon With $125M Taskforce For Education And Health Care"
+    excerpt: "Britain is investing around $125 million (or 100 pounds) into developing foundational models similar to the language models ChatGPT is known for."
+    publishedDateTime: 2023-04-24T19:21:00Z
+    webUrl: "https://news.crunchbase.com/ai-robotics/news-britain-investment-health-care-education/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 31
 
 secured: "+tsozuNhQArv7F8wpCezPeBtwp94m0WOXyk72P3QvcK6DUIWxv56GbkeZdhyhFr21M33l4c1L+vSe5QYRi+FW7VMvitiSZ1O/cQGwsIzo8MdFACbAqEQ/7kvOWhAxEkX8pRfOrdRCVmW+OHEMsP04uCwlGYCY1MPCIObfMiTAWniQse9v6ybtoFSOFXcV7OWZOW9gXL66dPMJnyjbcoWP1cQ/kWtq19o7ccvr/DMShIEngmL+aKg1yzjUgq5lPiGTzhXTvuNP3bHYPlhIUl3BJCMGy8vLLs3lGhj5FSavqfO9KA7QDJKPI89fTNk3eVMWU2rogNGICWC9x1wUBiivrNN/kzZziSUVqQtT2s1X1vVa81quRtPfAzZlGY403gnhesxNKds8pRXFQjlCAR0mU6lOtvC9xn/UW3iNE+Z5WpJVgVSmOzrgEaJr1H4pk8xAMkRax8TEstwtd1v/VwZ3p0Q5EvclD+A/ueasxBs32eZJHk6inZ8aGOf+qHKKv+gwRzoFauDQMQimvJboBsGUg==;6rGJIlJrH+6ok7imTkyTPQ=="
 ---

@@ -60,6 +60,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How Artificial Intelligence Can Aid Democracy"
+    excerpt: "BKC Affiliates Nathan Sanders and Bruce Schneier write about AI's potential to advance the public good by helping democracy."
+    publishedDateTime: 2023-04-27T12:32:00Z
+    webUrl: "https://cyber.harvard.edu/story/2023-04/how-artificial-intelligence-can-aid-democracy"
+    type: article
+    provider:
+      name: Harvard Medical School
+      domain: harvard.edu
+    quality: 34
   - title: "How to Use AI to Find Your Next Hire"
     excerpt: "ChatGpt and AI are amazing tools for your business, but they aren't without flaws. Spend a few minutes conversing with the interface and you will quickly learn that while it is a wealth of knowledge,"
     publishedDateTime: 2023-04-25T08:43:00Z

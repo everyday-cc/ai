@@ -57,6 +57,17 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Why Australia must prepare for the future of artificial intelligence"
+    excerpt: "For your Average Joe, the rapid rise of artificial intelligence in 2023 has been absolutely stunning — but also downright scary."
+    publishedDateTime: 2023-04-29T04:23:00Z
+    webUrl: "https://www.news.com.au/technology/innovation/military/why-australia-must-prepare-for-the-future-of-artificial-intelligence/news-story/b1da1eeff4107d7a240b3e6eb2b4f808"
+    ampWebUrl: "https://www.news.com.au/technology/innovation/military/why-australia-must-prepare-for-the-future-of-artificial-intelligence/news-story/b1da1eeff4107d7a240b3e6eb2b4f808?amp"
+    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/technology/innovation/military/why-australia-must-prepare-for-the-future-of-artificial-intelligence/news-story/b1da1eeff4107d7a240b3e6eb2b4f808?amp"
+    type: article
+    provider:
+      name: Couriermail
+      domain: news.com.au
+    quality: 39
 
 secured: "huBpsucges/mkFtoj+3OB2pfYqNEJ2/SuGBXuHhDxPnXJ+f6j+notyVZJVaz8sk/wcjpUAN0o1sy3HYum8Ji8146qSFNVQpodOi6MlZWDPInxVCuePxSwNFr6lkw/KWn9zhqekj/RLulUN8Bm68P01w+LhYCx7/s2gCCahpX2k68x8sxIasVqbnsSLIE5mUSxPqso81iRcNGkObGRvOn3vb0mTQ3VL/m9G2ovoM1NMmA6rY+23nvXYveswt0zcHKFYXTZ4vRZ8jafA2s71ghTOB/0P4uxlaPzBZyZ/DJALaxQqfdJF6DEtEqAVeGOr56TrgGpIGYuPbRubISdWxuHFDMx/+LfqCskMcUWVhQ9Q0KRBAs6aE4XTWAhjkben9X0GMoBYJduY+aE6qvx1EQi7DovQ92HEx1d3LQIK6krkoJDKPB3BNBBae/9DyJ1mXSsuyJ9An5Kw8CYJ4KX3oeue7U4iCshJulik4EYUfpk3pqbit24svOrnmGRYs3kxA4P8rBzdslTqSFo9Y07cervg==;6FDWwdKxU3n68Ht25T6dmQ=="
 ---

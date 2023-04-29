@@ -630,15 +630,6 @@ related:
         width: 1812
         height: 900
         isCached: true
-  - title: "Microsoft Q3 Earnings Preview: All Eyes Are On AI-Driven Growth"
-    excerpt: "Microsoft Corp. (NASDAQ: MSFT) will announce fiscal year 2023 third-quarter financial results on Tuesday, April 25, after market close. Here are five things to know ahead of the report:"
-    publishedDateTime: 2023-04-24T13:04:00Z
-    webUrl: "https://www.benzinga.com/news/earnings/23/04/31954969/microsoft-q3-earnings-preview-all-eyes-are-on-ai-driven-growth"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 34
   - title: "Siemens and Microsoft Partner on Generative AI for Industry"
     excerpt: "As part of the new Siemens Teamcenter app for Microsoft Teams, this integration of generative artificial intelligence reportedly enables users to input feedback verbally to aid production quality and controller programming tasks."
     publishedDateTime: 2023-04-25T19:31:00Z
@@ -666,15 +657,6 @@ related:
       name: Fast Company
       domain: fastcompany.com
     quality: 31
-  - title: "GigaChat: Russia enters AI race with its ChatGPT rival"
-    excerpt: "After Chinese companies unveiled their AI models, it is now Russia's turn to showcase its AI chatbot. How good is it, we won't know for long."
-    publishedDateTime: 2023-04-24T12:47:00Z
-    webUrl: "https://interestingengineering.com/innovation/russian-chatgpt-rival-gigachat"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 19
 
 secured: "+aW4DDbmshaWTMNlsnV+BxYKleNc49Qz++n0qb+FVqrbs/UZjzkPsB5noCMNgQ1KwHFz7jSJMkKDgaHnkzhyWk3j91+Cv1RB9HB6mJ0VsEDHb1aTTTF1Bg61Faoaf1pwmJYMULcJdwmMs1FuRAFF7wyfAX+xduLG4chp6VAWpMBnX/RQPVaFtAQ/sjwf6BPbmqeNp1T15jHQG4/hEDvbhgjAvM8gD2V2Rs7UZmUVPX6NbwjUV+KspbiHwiojHYD4kEqxzadIKWiEOdlwJRBPJPDlldCBRMkfYJ6sTwjmY2DdzPQpOZVkATwNT+JzHQExz8PvBxXcOHGw+j/4dDWa9jdfkDgELRXoUTaT2nsJ9OGZJQ59tPCid+hfUHoA9FX5i6C6961YmBk1astQ27DuhD54N7bCTdr/ABIWhypxi8tM726f3beXAOzZ5EEgGZtQYVrkslTWNsWqC02NMdzTJbgkpeJsBpE0DFMn+Q70++7Babl15cV/gEs+wbkN/tlQtrsNse46APfVB4me2wBfWA==;BD/Gy3uScq/ZfBtg83nvmw=="
 ---

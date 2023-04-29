@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/security/tenable-report-shows-how-generative
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/tenable-report-shows-how-generative-ai-is-changing-security-research/amp/"
 type: article
 quality: 106
-heat: 226
+heat: 216
 published: true
 
 provider:
@@ -63,22 +63,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/04/AdobeStock_569404196-copy.png?w=1200&strip=all"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Using Generative AI In Workforce Management"
-    excerpt: "Generative AI is the most transformative thing in the business landscape right now, perhaps even since the proliferation of the internet."
-    publishedDateTime: 2023-04-24T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/using-generative-ai-in-workforce-management/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/using-generative-ai-in-workforce-management/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/24/using-generative-ai-in-workforce-management/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62825152c50f091b0e2568f8/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 799
         isCached: true
   - title: "The future of generative AI is niche, not generalized"
     excerpt: "ChatGPT has sparked speculation about artificial general intelligence. But the next real phase of AI will be in specific domains and contexts."

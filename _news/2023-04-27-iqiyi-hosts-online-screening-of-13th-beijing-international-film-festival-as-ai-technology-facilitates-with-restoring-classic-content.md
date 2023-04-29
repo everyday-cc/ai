@@ -27,6 +27,22 @@ images:
     height: 207
     isCached: true
 
+related:
+  - title: "Smartling Announces Patent-pending Technology That Enables Improvements in AI Translation"
+    excerpt: "Smartling, Inc., the enterprise translation company, has announced the introduction of patent-pending technology"
+    publishedDateTime: 2023-04-28T15:15:00Z
+    webUrl: "https://www.datanami.com/this-just-in/smartling-announces-patent-pending-technology-that-enables-improvements-in-ai-translation/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 30
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-North-America23.png"
+        width: 1664
+        height: 674
+        isCached: true
+
 secured: "9gFjxv70DhQ7hSf16KHIM08YTZ/houPJtE4mSsXziDu+PVpp1DIsGSF2loQSPc/V/ABmHs/y+H5jVpgMu/kobacKjzXPYKPXAVS4sHpdzlO7zbPXQR3F5aO1Bh56I/AiaUvQXRyaheX1FpS7H+HgJzWvJkm2PD94KhrzGn6ZG4PB97yBn4noyMFz+Qlc3k6iFNMZf+p1TNsVMwQAugcM21dQYRmqdP09z2kIqCcCIHgfOoQx2JjWyAQhA1nYMiaMSYVvvoWSDsKtwKLRH07JzaBGfg49dPsZV/Px/KitfRzP6oHNT+fuk2J+Z+iiJzZ/rkqfchGekg7htvrujjwBO9RNUIox5bZKHlzzoNN5w0TnW2afXnMcULgtPA0BaIRvPL1vc+y7rnfepei3f+OY9eVKkwzPOMDKlmHqGLyYoAuKacbwtInk5JQlvnJBTE/mgpi8AlRJ1y2BJWHxkRZP/yf+izJe4Yljedu1GaQm6uQbOZVrFQxOYuMD4XAGb60dwxvgo1mZaAC7+vhO2E/Fvw==;6Gc1lYrl8K9TADw0EBGOXQ=="
 ---
 

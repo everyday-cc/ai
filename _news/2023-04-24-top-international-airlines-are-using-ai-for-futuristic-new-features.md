@@ -7,7 +7,7 @@ originalUrl: "https://www.thestreet.com/travel/top-international-airlines-are-us
 webUrl: "https://www.thestreet.com/travel/top-international-airlines-are-using-ai-for-futuristic-new-feature"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,17 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Software Development Future: AI And Machine Learning"
+    excerpt: "How Artificial Intelligence and Machine Learning Will Impact Software Development April 26, 2023 by mark allinson leave a comment <strong"
+    publishedDateTime: 2023-04-26T19:13:00Z
+    webUrl: "https://menafn.com/1106104719/Software-Development-Future-AI-And-Machine-Learning"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 34
 
 secured: "kbjxfvojWwTwjt5R9RX4VB2wosYQQkAV0EmNYILSbCGzETLikolX2kUJadyeBq4iXR3Rfd8VlEyN0IDCGfYtA50QfWM2DzXsMW4dKfx5RWBt8CB6h2OukyoST3uyb4bQ/Yuit3xnvzNGHrQqwWf9Mmr8fazXPUxl+trOAw/m7KSOhMuRM9GVEdNu8J1ArkIuPx2Q7h82zKHCEvNDEn0gQhtzEclEzFno5sQsiTnGtO9zXAi4eCfpSUPqpyFF9IlBa35b98XB4TOcQx4ptdhczB9rjfcMaJaoPYBBLOhzYvpSvdKG9A+3UrEaMNKRt2pNQ3cw0Pp7LoPrSQ7FSTB/hrDc6gI7RoDGc9ut+8M5DWFLKs6cl73QouEIz76Pmm/ng/Km1KTkVIkMOb2so2NsGDxZ4w+rK1AVF8IEhrHQWUjd2Bo+Ga+2fNtMA0bLaru9gMeWnLGNArYAa4vN15WWMLwmXbGv6VspRilBgBrhB7vHtatjxYMhY2CtNiMJsSIl8o56C5+agMlpnBsbWik1tg==;envXoqi7/cHrEiuPU38PRg=="
 ---

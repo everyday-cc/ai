@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/global-development/2023/apr/25/human-val
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/global-development/2023/apr/25/human-values-as-well-as-ai-must-be-at-the-core-of-the-future-of-work-chatgtp"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -60,6 +60,17 @@ related:
         width: 765
         height: 446
         isCached: true
+  - title: "Why Australia must prepare for the future of artificial intelligence"
+    excerpt: "For your Average Joe, the rapid rise of artificial intelligence in 2023 has been absolutely stunning — but also downright scary."
+    publishedDateTime: 2023-04-29T04:23:00Z
+    webUrl: "https://www.news.com.au/technology/innovation/military/why-australia-must-prepare-for-the-future-of-artificial-intelligence/news-story/b1da1eeff4107d7a240b3e6eb2b4f808"
+    ampWebUrl: "https://www.news.com.au/technology/innovation/military/why-australia-must-prepare-for-the-future-of-artificial-intelligence/news-story/b1da1eeff4107d7a240b3e6eb2b4f808?amp"
+    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/technology/innovation/military/why-australia-must-prepare-for-the-future-of-artificial-intelligence/news-story/b1da1eeff4107d7a240b3e6eb2b4f808?amp"
+    type: article
+    provider:
+      name: Couriermail
+      domain: news.com.au
+    quality: 39
 
 secured: "Yzw2ADBacRcVkCs6/wYGTJ2wmo0mLT/ANjVWA/Z7bN6a+6K40froHV172ibzLay2gw2CLMEtztTyOXksntUJFnwPrVbrc+PLE5MKBUeQLfCjXBDXbUySfFUzmmzHxT/QPXOkXtMSAGFwhGz6QCWU4lhdNBLCefKBHfAAA+qGVJpqEgayNLCgEkafZjSDM0S7ezIkU1X/EUDWizTwI1X+TnAja/W8b1B24YqCs2SVO8sx6UW4+XVOQtqyTIJShZXkbJBwWDDpLfErvlZZ5TRGl3+4p+GB5EYBY9CJ1AwfTHNFj7KycMzSkE0H9uBsrJvbNR/x5fezATWWFsjDkXCOa0uOloYBUl/hrtdRMrSme1EapJfFTQBt++o8Xj95oubqxHr4DypMG9s/iOq10Q+rSToBH7qzrSSXPVeLpwrYhiqDhiU9sTVnMgihxaa8WAC8GPMFGmq1wptUWpjM8dppug3sNfqFW8FezYTKWzr/CGDxRksnQm52xC4bpM7EkDU088BBzyf0Bt87lrfYQUhV8Q==;nMIQ9vqcDOP4++xiFJVIsg=="
 ---

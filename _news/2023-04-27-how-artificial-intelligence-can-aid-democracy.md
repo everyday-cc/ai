@@ -19,60 +19,73 @@ topics:
   - AI
 
 related:
-  - title: "How AI Can Transform The Software Engineering Process"
-    excerpt: "Generative AI will expedite the pace of modern software development, promote experimentation and even transform the current software engineering funnel in the future."
-    publishedDateTime: 2023-04-24T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/how-ai-can-transform-the-software-engineering-process/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/how-ai-can-transform-the-software-engineering-process/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/24/how-ai-can-transform-the-software-engineering-process/amp/"
+  - title: "How AI Can Empower, Not Replace, Your Team"
+    excerpt: "With the release of ChatGPT, AI now promises to serve the common person rather than to perform as a technology that can only be accessed through deep technical expertise. In fact, ChatGPT is the fastest-growing consumer application in history, reaching 100 million users in the first two months since its launch."
+    publishedDateTime: 2023-04-27T11:01:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/27/how-ai-can-empower-not-replace-your-team/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/27/how-ai-can-empower-not-replace-your-team/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/27/how-ai-can-empower-not-replace-your-team/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6058b5411e82e550078f5886/0x0.jpg?format=jpg&width=1200"
-        width: 790
-        height: 526
+      - url: "https://imageio.forbes.com/specials-images/imageserve/601850d37aa9c1404df144b1/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "How artificial intelligence is transforming Hollywood"
-    excerpt: "Artificial intelligence is revolutionizing Hollywood productions and raising new questions. CNBC’s Julia Boorstin shows us how companies are using AI to put actors’ faces on body doubles and even “revive” deceased movie stars on screen."
-    publishedDateTime: 2023-04-27T22:47:00Z
-    webUrl: "https://www.nbcnews.com/nightly-news/video/how-artificial-intelligence-is-transforming-hollywood-171546693664"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo171546693664"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo171546693664"
+  - title: "How artificial intelligence could impact the workplace"
+    excerpt: "AI could revolutionize the workplace, but it doesn't mean that robots are going to replace us. Finance professor Dan Roccato joins us with more on how to embrace the bots."
+    publishedDateTime: 2023-04-28T15:11:00Z
+    webUrl: "https://www.fox7austin.com/video/1213506"
+    ampWebUrl: "https://www.fox7austin.com/video/1213506.amp"
+    cdnAmpWebUrl: "https://www-fox7austin-com.cdn.ampproject.org/c/s/www.fox7austin.com/video/1213506.amp"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 87
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_04/WA-NNWEB-20230427-01_AI_HOLLYWOOD_BOORSTIN_3_21_MIXDOWN_frame_3793-376hvp.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "The latest on software, data and artificial intelligence"
-    excerpt: "C4ISRNET Editor in Chief Mike Gruss speaks with Pentagon and Space Command officials on the transformation to a high-tech, digital-forward force."
-    publishedDateTime: 2023-04-26T20:16:00Z
-    webUrl: "https://www.defensenews.com/video/2023/04/26/the-latest-on-software-data-and-artificial-intelligence/"
+      name: FOX 7 Austin KTBC
+      domain: fox7austin.com
+    quality: 39
+  - title: "Seven Ways AI Can Help You Manage Your ADHD"
+    excerpt: "AI can help you by instantly providing as many sample lists ... I asked it what financial documents to start with and how to get them, and eventually arrived at: Contact your employer’s HR department: The HR department of your employer should be able ..."
+    publishedDateTime: 2023-04-26T15:02:00Z
+    webUrl: "https://lifehacker.com/seven-ways-ai-can-help-you-manage-your-adhd-1850373670"
     type: article
     provider:
-      name: Defense News
-      domain: defensenews.com
+      name: Lifehacker
+      domain: lifehacker.com
     quality: 37
     images:
-      - url: "https://www.defensenews.com/resizer/5rZpB9BvFO8yyayroROa1AG8fgw=/1024x0/filters:format(jpg):quality(70)/d3k85ws6durfp9.cloudfront.net/04-26-2023/t_ea35f907ae034b3b80e5c8c10da07f9f_name_4_C4_CONF_Software_IT_Panel_JB_00_41_51_25_Still001.jpg"
-        width: 1024
-        height: 576
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/b492242d8d5540b56a7fac95a5fb96db.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "As AI Advances, Is Prompt Engineering the Next Crucial Legal Skill?"
-    excerpt: "Generative AI has taken the legal world by storm, and that means legal professionals are going to have to learn to communicate with machines. One key skill for doing so has emerged: prompt engineering."
-    publishedDateTime: 2023-04-25T19:47:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/04/25/as-ai-advances-is-prompt-engineering-the-next-crucial-legal-skill/"
+  - title: "We Can Embrace Artificial Intelligence Without Losing Our Soul"
+    excerpt: "Launched in November, ChatGPT, driven by artificial intelligence, or AI, has been interacting with the public for six months now, gathering data and improving its performance. In those months, the chatbot has already passed exams in four law courses at the University of Minnesota and another exam at University of Pennsylvania’s Wharton School of Business."
+    publishedDateTime: 2023-04-26T18:44:00Z
+    webUrl: "https://www.jewishexponent.com/2023/04/26/we-can-embrace-artificial-intelligence-without-losing-our-soul/"
     type: article
     provider:
-      name: Law
-      domain: law.com
+      name: The Jewish Exponent
+      domain: jewishexponent.com
+    quality: 19
+  - title: "How to Use AI to Find Your Next Hire"
+    excerpt: "ChatGpt and AI are amazing tools for your business, but they aren't without flaws. Spend a few minutes conversing with the interface and you will quickly learn that while it is a wealth of knowledge,"
+    publishedDateTime: 2023-04-25T08:43:00Z
+    webUrl: "https://www.inc.com/david-finkel/how-to-use-ai-to-find-your-next-hire.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 17
+  - title: "These wild AI-powered glasses can read your own lips"
+    excerpt: "A team of scientists at Cornell's SciFi lab has developed a pair of glasses that can read your very own lips, without you having to utter a single sound."
+    publishedDateTime: 2023-04-26T04:08:00Z
+    webUrl: "https://www.fastcompany.com/90886580/these-wild-ai-powered-glasses-can-read-your-own-lips"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
     quality: 17
 
 secured: "dfsqyMkfq0i8F9uNRARSkQ2K2g3AEEp/2/3yOvw7rPOHqi6FOLoNetLjdN5P8DipNKsTO+n8uM+TOeKQEDhgxfmYb9pcRF0qgSf5ovaK5zRdx8SPkxb1+rm827BqayYdYsgZuhfdfKrk7klMydV7g+rYSVb9QLseBPiBIKJBY70wRyQCtFMKR6BbtGlaL/fd0j8TqgGDV7clxtQkOVQH5qPgGtBhoNuzsCjDltmbn0NB7kWOMx4CljKoGLQc/nCdnsZ7ecu/XOh0ex8UCv5I/pkyS8+qm5qGWpuQQ5Pg0wX7sFXrOWo/yYje3qtk5bmK1+YN7Xy7/6AkErP6CNpvy+ggPLWeu9Er0MCNUayivhI=;epIMaryGGeDz7VMvabv1MA=="

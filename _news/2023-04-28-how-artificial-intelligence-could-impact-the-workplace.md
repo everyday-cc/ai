@@ -51,6 +51,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How Artificial Intelligence Can Aid Democracy"
+    excerpt: "BKC Affiliates Nathan Sanders and Bruce Schneier write about AI's potential to advance the public good by helping democracy."
+    publishedDateTime: 2023-04-27T12:32:00Z
+    webUrl: "https://cyber.harvard.edu/story/2023-04/how-artificial-intelligence-can-aid-democracy"
+    type: article
+    provider:
+      name: Harvard Medical School
+      domain: harvard.edu
+    quality: 34
   - title: "We Can Embrace Artificial Intelligence Without Losing Our Soul"
     excerpt: "Launched in November, ChatGPT, driven by artificial intelligence, or AI, has been interacting with the public for six months now, gathering data and improving its performance. In those months, the chatbot has already passed exams in four law courses at the University of Minnesota and another exam at University of Pennsylvania’s Wharton School of Business."
     publishedDateTime: 2023-04-26T18:44:00Z

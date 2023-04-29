@@ -308,15 +308,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 22
-  - title: "ChatGPT and artificial intelligence: What this means for small business"
-    excerpt: "GENEVA: As 2022 came to a close, ChatGPT, an artificial intelligence (AI) chatbot, became the fastest-growing app in history, reaching an estimated 123 million users less than three months after its launch."
-    publishedDateTime: 2023-04-24T12:38:00Z
-    webUrl: "https://www.manilatimes.net/2023/04/25/opinion/chatgpt-and-artificial-intelligence-what-this-means-for-small-business/1888481"
-    type: article
-    provider:
-      name: manilatimes
-      domain: manilatimes.net
-    quality: 19
   - title: "AI Set To Significantly Impact The Job Market – Amesite Helps Users Get Ready To Succeed In Tomorrow's Economy By Integrating ChatGPT Into Learning"
     excerpt: "Artificial intelligence (AI) has taken the markets by storm ever since the release of Open AI’s Chat GPT, powered by the generative AI model GPT-3. AI’s creative potential, as well as fears surrounding its use,"
     publishedDateTime: 2023-04-26T12:45:00Z

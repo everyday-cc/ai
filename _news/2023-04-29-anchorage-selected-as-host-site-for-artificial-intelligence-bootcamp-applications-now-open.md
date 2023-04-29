@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Anchorage Selected as Host Site for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
-excerpt: "The Odom Corporation will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students at No-Cost for a 2 nd time in the Fall of 2023. The AI Bootcamp in Anchorage will be targeted at underserved high school students (9th-12 th grade) and will introduce these high school students to basic AI concepts and skills."
-publishedDateTime: 2023-04-28T22:38:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/04/28/9804448.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/04/28/9804448.htm"
+title: "Anchorage Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!"
+excerpt: "The Odom Corporation will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students at No-Cost for a 2nd time in the Fall of 2023."
+publishedDateTime: 2023-04-28T22:22:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/04/g32097415/anchorage-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open"
+webUrl: "https://www.benzinga.com/pressreleases/23/04/g32097415/anchorage-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open"
+ampWebUrl: "https://www.benzinga.com/amp/content/32097415"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32097415"
 type: article
-quality: 28
-heat: -1
+quality: 48
+heat: 48
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - AI in Robotics
+  - AI in Autos
   - AI
 
 images:
-  - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
-    width: 550
-    height: 353
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
 related:
@@ -80,6 +82,20 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 31
+    images:
+      - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
+        width: 550
+        height: 353
+        isCached: true
+  - title: "El Segundo Selected as Host Site for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
+    excerpt: "Notified will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students at no-cost in the Fall of 2023. The AI Bootcamp in El Segundo will be targeted at underserved high school students (9th-12 th grade) and will introduce these high school students to basic AI concepts and skills."
+    publishedDateTime: 2023-04-28T20:35:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/04/28/9804377.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 27
     images:
       - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
         width: 550
@@ -230,6 +246,6 @@ related:
       domain: benzinga.com
     quality: 0
 
-secured: "/M/BVQuc6qMeHul9H+03+y5tS2c8ZE4kDFVez+g756teqr3ARl4X2QnA1a3kz4ud5os+QDCDIzRkokKHcngTCb3PXzJ1jiKDjxwaAaRAvGSYEVSS7cpXm7JAGuB5f+6zuGTbcvoFQYNnJ/2S3SMvtPnAWGVJMzGwWzGhPtVJzixqLiuucJ7ELUE3/Fe5zEiELqy6oJWVycFBSA2pCMJ5oVj0mTHVWwrh8hUsqQvVMfnygg52s5BguVZ4vc4HnKN9nfNLRmDNCg4cAQRMSv1LzgWM33GGgMkHcJt3UCVcM5w3BkcoulBCg8o2CqDQtg0RxUnM5rSVNtOMs/naLIkiEYAeFI3v4UrCrIF9/7QwIK8=;hbshKNi8swP27k2x5vLtvQ=="
+secured: "N1qjHmCkCPKzN8xmo8X3I4EtpBwClBkfmcYx52Qw67zzGU7JuImSDhWh5y8ow+F7WwKygEVHF+OP6sdzty9Ewvy5Zq84gH/1Pp4RqXY49nmhB5N/6FIvlHKLLltVZIfjfapExNVzQFo+RlnVVtyIQ7tFVAFY2+pPtRbHJA6lfjSb82Yn9NOMek6hXPydCRoPkz3YwOdxBx3YsztMk71UKxk+TeCdb77USSRhYVNTjKJFnvZ4ldUdxDr9kEzOcg2ZvFoVExVICLeGkb347Ac99kP4o0j4XgNb9aO86IAvS/zaOod+Nwh+w4y96VvyjmAv6tlUVYHB6cHl0r5NK0dJBwgx0l4EJyg5r9IsHppLplY=;cTD8OD3yiHXdxzvaVtPlPA=="
 ---
 

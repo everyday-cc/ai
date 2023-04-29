@@ -162,6 +162,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 39
+  - title: "Top 8 AI Chips for Your Generative AI Play"
+    excerpt: "The AI chip market is expected to grow at a CAGR of 51% and reach $73.49 billion by 2025. Semiconductor companies could capture 40-50% of the total market share. Companies such as Alphabet, Broadcom,"
+    publishedDateTime: 2023-04-29T04:30:00Z
+    webUrl: "https://analyticsindiamag.com/top-8-ai-chips-for-your-generative-ai-play/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/04/unnamed-2.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Executives want generative AI, but are taking it slow. An army of providers has lined up to help"
     excerpt: "Vendors are lining up to help enterprise companies adopt generative AI and tackle issues around data security and risk."
     publishedDateTime: 2023-04-26T19:01:00Z

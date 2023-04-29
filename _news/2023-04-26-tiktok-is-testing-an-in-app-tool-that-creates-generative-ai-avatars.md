@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/04/26/tiktok-is-testing-an-in-app-tool-t
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/04/26/tiktok-is-testing-an-in-app-tool-that-creates-generative-ai-avatars/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -91,15 +91,6 @@ related:
       name: Voice of America
       domain: voanews.com
     quality: 37
-  - title: "Opinion: Generative AI is a powerful tool that requires a human touch"
-    excerpt: "Although AI models are constantly taking in new information, that information takes the form of new symbolic data without any context."
-    publishedDateTime: 2023-04-24T13:00:00Z
-    webUrl: "https://www.bizjournals.com/seattle/news/2023/04/24/intrigue-and-apprehension-around-generative-ai.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
 
 secured: "O7fi2O3TjzqMJAwFfpgSkpr66a+LDb3NoCC7cmsXY1O5Kdzs2pxjZ+FG7Tvr/31Mlx8X1NXyIlyndXKNNUFyuLQmlfXVY7pgP+9363oXRLeglGre/LEiGpy24qRvJuf3OR+mFPB9de53DMMMIdTe2Ovx6xQ4ElQMYphrwvjKhTVbk0A62vqTTr8qO7aFuTJvsHNjQDeGT1gCbv+YZXEJEbkIVH45mUjdJ8aeIyAvwOmOKiuxhg0y5MnSgo9taCP6vmZTmRBKFYqDs3Yf1FsNH43gltJA0h33Df7NtnPlVW653l6mxNqBPMomJwfDW5lrgMGu/nvfAfAYe1t3kPRit10Gbz17eUUgcXC5b0ZxI+8=;j06exqLQ7ZBGFgwQbQrYhA=="
 ---

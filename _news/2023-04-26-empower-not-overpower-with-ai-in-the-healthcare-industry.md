@@ -81,20 +81,6 @@ related:
         width: 460
         height: 230
         isCached: true
-  - title: "Behind the Buzz of Artificial Intelligence"
-    excerpt: "Much of the buzz at the festival this year has been about the rise of artificial intelligence (AI) and what it means for the future of journalism – and the world. On the one hand, there is a promise of tedious,"
-    publishedDateTime: 2023-04-24T11:19:00Z
-    webUrl: "https://www.hrw.org/the-day-in-human-rights/2023/04/24"
-    type: article
-    provider:
-      name: Human Rights Watch
-      domain: hrw.org
-    quality: 37
-    images:
-      - url: "https://www.hrw.org/sites/default/files/media_2023/04/240423ECA_IJF_Italy_SamDubberley.jpeg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "How to strengthen your soft skills for AI and the future of work"
     excerpt: "Marketable skills that can future-proof your career and livelihood will be 'soft skills,' such as management, communication, and empathy."
     publishedDateTime: 2023-04-27T03:59:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/the-power-of-infrastructure-purpose-built
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-power-of-infrastructure-purpose-built-for-ai/amp/"
 type: article
 quality: 91
-heat: 151
+heat: 141
 published: true
 
 provider:
@@ -77,20 +77,6 @@ related:
       - url: "https://static.electronicsweekly.com/wp-content/uploads/2019/03/11060252/House-of-Lords.jpg"
         width: 460
         height: 230
-        isCached: true
-  - title: "Behind the Buzz of Artificial Intelligence"
-    excerpt: "Much of the buzz at the festival this year has been about the rise of artificial intelligence (AI) and what it means for the future of journalism – and the world. On the one hand, there is a promise of tedious,"
-    publishedDateTime: 2023-04-24T11:19:00Z
-    webUrl: "https://www.hrw.org/the-day-in-human-rights/2023/04/24"
-    type: article
-    provider:
-      name: Human Rights Watch
-      domain: hrw.org
-    quality: 37
-    images:
-      - url: "https://www.hrw.org/sites/default/files/media_2023/04/240423ECA_IJF_Italy_SamDubberley.jpeg"
-        width: 1200
-        height: 900
         isCached: true
   - title: "Empower - Not Overpower - With AI In The Healthcare Industry"
     excerpt: "With human knowledge and experience still being the number one driver in the healthcare industry, it is a perfect example of how AI can empower, not overpower to achieve better results, and improve the quality of the patient's experience and their life."

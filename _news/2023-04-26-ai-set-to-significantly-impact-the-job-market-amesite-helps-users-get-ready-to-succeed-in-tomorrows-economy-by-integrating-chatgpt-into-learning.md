@@ -302,15 +302,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 22
-  - title: "ChatGPT and artificial intelligence: What this means for small business"
-    excerpt: "GENEVA: As 2022 came to a close, ChatGPT, an artificial intelligence (AI) chatbot, became the fastest-growing app in history, reaching an estimated 123 million users less than three months after its launch."
-    publishedDateTime: 2023-04-24T12:38:00Z
-    webUrl: "https://www.manilatimes.net/2023/04/25/opinion/chatgpt-and-artificial-intelligence-what-this-means-for-small-business/1888481"
-    type: article
-    provider:
-      name: manilatimes
-      domain: manilatimes.net
-    quality: 19
   - title: "ChatGPT may have better bedside manner than some doctors, but it lacks some expertise"
     excerpt: "By Deidre McPhillips, CNN ChatGPT can be a useful tool for patients who are seeking medical information and guidance, but the artificial intelligence tool can’t fully replace the value of a human physician — it says so itself."
     publishedDateTime: 2023-04-28T20:03:00Z

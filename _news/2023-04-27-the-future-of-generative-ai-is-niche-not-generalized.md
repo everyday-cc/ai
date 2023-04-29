@@ -74,22 +74,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Using Generative AI In Workforce Management"
-    excerpt: "Generative AI is the most transformative thing in the business landscape right now, perhaps even since the proliferation of the internet."
-    publishedDateTime: 2023-04-24T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/using-generative-ai-in-workforce-management/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/using-generative-ai-in-workforce-management/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/24/using-generative-ai-in-workforce-management/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62825152c50f091b0e2568f8/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 799
-        isCached: true
   - title: "Music Executives Grapple With Generative AI on Earnings Calls"
     excerpt: "The leaders of Spotify and Universal Music Group are trying to sort through the threats and opportunities surrounding AI"
     publishedDateTime: 2023-04-27T18:31:00Z

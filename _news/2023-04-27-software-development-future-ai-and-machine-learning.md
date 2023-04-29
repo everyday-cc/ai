@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1106104719/Software-Development-Future-AI-And-M
 webUrl: "https://menafn.com/1106104719/Software-Development-Future-AI-And-Machine-Learning"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -19,20 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Driving into the Future: The Latest Advances in Automotive Security"
-    excerpt: "With the increasing cyber threats in the automotive industry, car manufacturers are focusing on developing car security systems to make it more difficult for criminals to steal or take control of a vehicle."
-    publishedDateTime: 2023-04-24T12:58:00Z
-    webUrl: "https://www.techopedia.com/driving-into-the-future-the-latest-advances-in-automotive-security"
+  - title: "Top International Airlines Are Using AI for Futuristic New Features"
+    excerpt: "In 2022, global airline revenues shot up 44% to $727 billion compared to 2021, according to the International Air Transport Association. The IATA expects revenues to climb significantly higher in 2023."
+    publishedDateTime: 2023-04-24T16:48:00Z
+    webUrl: "https://www.thestreet.com/travel/top-international-airlines-are-using-ai-for-futuristic-new-feature"
     type: article
     provider:
-      name: Techopedia
-      domain: techopedia.com
-    quality: 41
-    images:
-      - url: "https://www.techopedia.com/wp-content/uploads/2023/02/istock-829197356.jpg"
-        width: 1000
-        height: 600
-        isCached: true
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 17
 
 secured: "SU+234nsBJFYzLcyV0lquUuRboku7rJVXYI0/1vifthsHT0tWfuOCHNgGQ+dQATuC4a/tYReWWupWHwMMpIEEi7eiop7/Lw4Wf5f94rn5yhUOHn0kSoBCmrlBC4oayJ7rBu9GnSLJJIvNsnW+9jDi5XCIYnyhbTG7Z3Oxw4aUiBLkh1CxIHvzdcUBcXRLYVqLCqGSbxs9yHFO9HAqS+6pQagnFCk8mdNkCjTfvUIPyfTNUgH/frchnZgvaYO8WMZUETxHrIqFTlV/RHb4XeE/t9oCAGX8APfaHEG7/1kpiDjZ+wqIK/YLWQ2U6nkYXyeXOY5Gt02R4sU2EyAUREfHuxiZRlU2b8Q4fdoq9Gmw0CCVryGQT6VT2KQz4n3AybDmxSq+naVBHKsKLNHk3cSuUroAxg6orq8BcbPk6KiRGV5KrVQxGIAUoTLbpCLFZWLzWYEcOBdnMkl8QsOnTbWVo612IfG4gZZmqrWyFsoa97ihgJBmgU5uJyTHcy21DLFFpQNsxKlAYqCyyFG9KaE7w==;UocLOGrj2iM8TdUo0xilAg=="
 ---

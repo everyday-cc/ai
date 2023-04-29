@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/04/25/ai-startup-runway-launches-app-to-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/04/25/ai-startup-runway-launches-app-to-bring-users-video-to-video-generative-ai/amp/"
 type: article
 quality: 85
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Create generative AI video-to-video right from your phone with Runway’s iOS app"
+    excerpt: "AI startup Runway has launched its first mobile app on iOS, letting people use the company’s video-to-video generative AI model — Gen-1 — directly from their ..."
+    publishedDateTime: 2023-04-25T06:24:00Z
+    webUrl: "https://www.theverge.com/2023/4/24/23695788/generative-ai-video-runway-mobile-app-ios"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 63
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/Uzra--A_X29EkeDYBGd6rC2QGFs=/0x0:2745x2048/1200x628/filters:focal(1373x1024:1374x1025)/cdn.vox-cdn.com/uploads/chorus_asset/file/24607034/runway_gen_1_mobile_app.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Yelp rolls out AI, video to enhance business searches"
     excerpt: "The review platform Yelp is getting its \"most significant update in recent years\" featuring some of today's trendiest technologies."
     publishedDateTime: 2023-04-25T07:00:00Z

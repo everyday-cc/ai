@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Hospitality Robots Market Size is Anticipated to Acquire USD 3100 Million by 2030, Growing at 25.51% of CAGR | Robotics Technology Updates"
-    excerpt: "Zion Market Research has published a new research report titled \"Hospitality Robots Market By Type (Delivery Robots, Front Desk Robots, Cleaning Robots, And Others),"
-    publishedDateTime: 2023-04-24T11:12:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/04/g31953264/global-hospitality-robots-market-size-is-anticipated-to-acquire-usd-3100-million-by-2030-growing-a"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
 secured: "dB4SmCQtlY+ubSLXjvDWuz9yfuAiu0NypieShYcwsScvBrafhGHFfVB7Kq2tIyJIFi04IDVel0AwzGA5HLXrKkTkCQQTeL6pfqp3cwhQd+DejVAz8A71XOS4tTkXbaVBvBktgUcpYYpPgaow5DnhgJ/i1EWHa3k4qRTLEZuB6xfj1AmG/58XWbkpjhlMYOu40kfcGvCRQyJyK88KE5gsAvN9+vcFXAOsByKOEEaJzzoE4a4DwzmscHjcVGBNfCeeE1faCfQKJS1dTMyGlYfM2oRUyA1PtITjnAvDdDCfmx/SSAE4schCA731qUzXsBeushdPUPA6EB9z9sm+rGJv9zj/LbDsTtxX+XEDXhmqot0=;mAh2UoAW9Fq7M0Fhuu/Iyw=="
 ---

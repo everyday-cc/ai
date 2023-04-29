@@ -90,15 +90,6 @@ related:
       name: Voice of America
       domain: voanews.com
     quality: 37
-  - title: "Opinion: Generative AI is a powerful tool that requires a human touch"
-    excerpt: "Although AI models are constantly taking in new information, that information takes the form of new symbolic data without any context."
-    publishedDateTime: 2023-04-24T13:00:00Z
-    webUrl: "https://www.bizjournals.com/seattle/news/2023/04/24/intrigue-and-apprehension-around-generative-ai.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
 
 secured: "6fAGx/evx0H2tEfshdGLskrW/Zw8s+fOyu0Qx8CWv+YkWL8i01tzlLYf0gn0yg1IzCFUahpu0b0Kch4Lm9ni/J9cd3icpCx0hpjUjRGF3dDc/zF09n6pD9xhrf0gXHqVFLtJ1RtxudR1gM1Rmk0K2dmL0VUM2yJbyaL7UHot39KND3hM7447BzekaZOpaEW9p1dhv3hpX/E8zYaFjnl4kAGQDKXbNZ7HrLlTItSzkRhhI/BYmBqodgf1SfV6gD0CmRfAkRDsRWzAHi5sKFlLnHk6KooYgbSsmx9WfWr4e1ms1j7Ub4L6FEmxNBAU35GgzUsagWzuqBVJOkAsEongjorvG2/gGaE0+vy2N2yAKNiKZLu8wHCfDE0H95AGu1XfR0wixoHOchbeXXo2Kjpb8AzsynMgfWPRYAPzsFjZfEgTGFS+b7CXUo6ZY/jEvPu3w6+CM1na1TpKDKApzk5gFUNRk8mJDZdCph+hdNm+R74n3FBJJ+GQToK0dS+cBed2/eIUe04GuKrgDh363OAIDg==;tKGGbD/LQI+YgHsgSkLnxw=="
 ---

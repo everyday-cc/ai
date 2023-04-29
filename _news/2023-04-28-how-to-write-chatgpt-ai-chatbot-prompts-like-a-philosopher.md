@@ -626,15 +626,6 @@ related:
         width: 1812
         height: 900
         isCached: true
-  - title: "Microsoft Q3 Earnings Preview: All Eyes Are On AI-Driven Growth"
-    excerpt: "Microsoft Corp. (NASDAQ: MSFT) will announce fiscal year 2023 third-quarter financial results on Tuesday, April 25, after market close. Here are five things to know ahead of the report:"
-    publishedDateTime: 2023-04-24T13:04:00Z
-    webUrl: "https://www.benzinga.com/news/earnings/23/04/31954969/microsoft-q3-earnings-preview-all-eyes-are-on-ai-driven-growth"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 34
   - title: "Siemens and Microsoft Partner on Generative AI for Industry"
     excerpt: "As part of the new Siemens Teamcenter app for Microsoft Teams, this integration of generative artificial intelligence reportedly enables users to input feedback verbally to aid production quality and controller programming tasks."
     publishedDateTime: 2023-04-25T19:31:00Z
@@ -662,15 +653,6 @@ related:
       name: Fast Company
       domain: fastcompany.com
     quality: 31
-  - title: "GigaChat: Russia enters AI race with its ChatGPT rival"
-    excerpt: "After Chinese companies unveiled their AI models, it is now Russia's turn to showcase its AI chatbot. How good is it, we won't know for long."
-    publishedDateTime: 2023-04-24T12:47:00Z
-    webUrl: "https://interestingengineering.com/innovation/russian-chatgpt-rival-gigachat"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 19
   - title: "EU closes in on AI Act with last-minute ChatGPT-related adjustments"
     excerpt: "Members of the European Parliament have reached an agreement on the AI Act with a few last-minute adjustments and go to committee voting in two weeks."
     publishedDateTime: 2023-04-28T09:49:00Z

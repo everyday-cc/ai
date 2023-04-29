@@ -24,22 +24,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Flex Logix Announces InferX™ High Performance IP for DSP and AI Inference"
-    excerpt: "InferX joins EFLX® eFPGA as Flex Logix’s second IP offering. It can be used by device manufacturers and systems companies that want the performance of a DSP-FPGA or a AI-GPU in their SoC, but at a fra"
-    publishedDateTime: 2023-04-24T11:36:00Z
-    webUrl: "https://www.design-reuse.com/news/53888/flex-logix-inferx-high-performance-ip-for-dsp-and-ai-inference.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 38
-    images:
-      - url: "https://static.designandreuse.com/news_img2/homepage53888/fb.jpg"
-        width: 1236
-        height: 716
-        isCached: true
-
 secured: "NvRGvElOYTkt2o+uOpGP7mFvyQfzXNxQJmJRlXPf576M55otPlTPrqtQ/hge/vWabD2UMr6Kr4I7bPDg17yEIX1tXUq1Jfr0De3lq7KkXl87KlzOxon+k1aLsupA5PSf/ror3TvmNFiCtGl5K4K8fZalzWUkDQNXRoO1trSLHrz8/cO5nbafo5Npjye71sVwjak4Za1/TD1nbGLaUAqZvb28NwmFdLvcdmW5ZnD90XxexFQ+FYRWXX87u8dSizaWxJAg+ImgxQwXUxRRan4EhEkjAkHyJrDRBK/EZNDbplGGDeYuLIu1BbINGUuMfrq8N1i24Yqp1qDH7pxXKEQibWyTquQMdmsDv7A0wkqaPQI=;AqXd1R8WstxmPFMsHGAMKQ=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.wealthmanagement.com/technology/ai-coming-wealth-manag
 webUrl: "https://www.wealthmanagement.com/technology/ai-coming-wealth-management-here-s-what-means"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,43 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Wallaroo.ai partners with VMware on machine learning at the edge"
-    excerpt: "Machine learning startup Wallaroo Labs Inc., better known as Wallaroo.ai, said today it’s partnering with the virtualization software giant VMware Inc. to create a unified edge machine learning and artificial intelligence deployment and operations platform that’s aimed at communications service providers."
-    publishedDateTime: 2023-04-24T13:00:00Z
-    webUrl: "https://siliconangle.com/2023/04/24/wallaroo-ai-partners-vmware-machine-learning-edge/"
+  - title: "AI weed-killing drones are coming for the mega farms"
+    excerpt: "Terry Aberhart has watched the spindly, fixed-wing drones zip across the big skies over his farm in Canada’s Saskatchewan province, testing a technology that could be the future of weeding."
+    publishedDateTime: 2023-04-26T02:01:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/04/26/ai-weed-killing-drones-are-coming-for-the-mega-farms"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 56
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/04/Wallaroo.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/04/26/2042492.jpg"
+        width: 1240
+        height: 826
         isCached: true
-  - title: "Wallaroo.AI, VMware to Provide Unified Edge ML/AI Deployment for Telco"
-    excerpt: "Wallaroo.AI and VMware announced a strategic agreement to provide the first unified edge ML/artificial intelligence (AI)"
-    publishedDateTime: 2023-04-27T07:33:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/31764-wallaroo-ai-vmware-to-provide-unified-edge-ml-ai-deployment-for-telco"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 56
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/cc9514407c397ee625247559afa7af73.jpg?t=20230427_065544"
-        width: 752
-        height: 408
-        isCached: true
-  - title: "Wallaroo.AI and VMware Partner to Speed the Deployment of 5G Edge Machine Learning for Telco"
-    excerpt: "Wallaroo.AI, the leader in operationalizing machine learning to ROI in the cloud, in decentralized networks, and at the edge, and VMware, which enables organizations to build, run, manage, connect, and protect edge-native applications with VMware Edge Compute Stack,"
-    publishedDateTime: 2023-04-24T12:39:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/04/24/9800076.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 25
 
 secured: "bneKY3LTGs4u3J4tmkoBAxQZaL15GTdx0eTLJcOi/Y12a1EcHHz5YaiSprmYSaMCGzOzV/zykidSv0/or8AescJdxgwbQibs2ijEymLfWQeEUDIvD/oZnWueQgNgJgHEymHppRU0Ymv8uLkhjbjb8tCZJ3nq3irQGNfTwnteJyEdMIgzbU/xqmrrHd5yD/Ly1JaoWryDVI2TRRFS+ih8GLQc45UoZBXVwOYHR98IMlThbHdixT/XdSIC0wCSCoEEiszh/0fHr9F5LN6atJRdUtbyPSOhckUiVzPVv1YzmCXGu+OsTCT4RtCqnEC+G9DqAAVILK55eLpDgCEYIZs793bZhKoOkdgF7+TARBISaAA=;/R9d1BY2fd9ClRCUP/YknQ=="
 ---

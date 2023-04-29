@@ -6,8 +6,8 @@ publishedDateTime: 2023-04-28T19:32:00Z
 originalUrl: "https://insidehpc.com/2023/04/purdue-announces-gpu-expansion-of-gilbreth-hpc-cluster/"
 webUrl: "https://insidehpc.com/2023/04/purdue-announces-gpu-expansion-of-gilbreth-hpc-cluster/"
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -18,6 +18,12 @@ topics:
   - AI Hardware
   - AI
 
-secured: "3Hkhoy7TtjFqBvn6Xt4KNjc81c1fTphOJUG3+ljSZuAH0rG+hyf/6uiN7mnR5Sju3hXHr5N1P4BUMxcshUCwhknRzcpS+n/9TZRwS0xQ1u0lvUgl2quWxcQe6vDI6JrnQcqKpSSPOGdqp2p6dCrjlDppV4sq4+WB30c3DqKEb2rrvp6dG4PUnfxtVQjmc5WjTyldYCh2WZc3Ly4AGCMYjSwAJRJL/HSavzoMl1wygqWp6eGVjsLzluwNPwyztAWJDAS4dgiyT0sr2M6aesbGFHSoVwjGFBL8gG0skPPCD28+ZTcR3fKuTfmeeL+O+7MNtG5J82XbzpXyK1PTH1vTBRR/UrqgPiNmMlG0cjRZzzw=;+ZZNUcZUW4WMEsm5gYLwzw=="
+images:
+  - url: "https://insidehpc.com/wp-content/uploads/2021/11/insideHPC_Guide_CDI_cover.png"
+    width: 300
+    height: 391
+    isCached: true
+
+secured: "AdnNZcYNBX9VHwlLxHiwl1X5baY83xobtBbNoHexcmtpFGRYHYwqPeN+x1Q0lAKKWXTMapa0TVESL4ZWG8Ty2yVXvKhQE4Je89Y7Kwy0Y9xLYI1tPMyLY4gowmsgs/ykGC8EiM6IYhA5j1e8Z+wdn6pEgX2DGcrorDNi2zIB6J3CmkJOokKeU+4MJXYJ2fjhLYAYOkiwot7l2doL+jIzSL4KIzGms2iUQtxOYIJiYSmLKZ6SbuoWki9plT9rRetb9GqyTaRtdCPWXDYewWwSuOeOYOlQwZlreRnNBkBwASGCTW+uS23TcSpxxlA98lAU4cF4TQN9uMYxEe+EUH89dJ1KNP/H9rLN+urAismojjI=;b2eF6vGjQr70Rzy43DdoXQ=="
 ---
 
