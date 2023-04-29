@@ -29,15 +29,29 @@ images:
     isCached: true
 
 related:
-  - title: "Face Recognition Device Market Growing Demand and Trends 2023 to 2030 | Cloudwalk, Dahua Technology, Aurora, Insigma Group"
-    excerpt: "A facial recognition device stems from a purpose-built combination of high-end hardware components and efficient software to automatically identify or verify a person from a digital image, as required in several Security and Surveillance installations."
-    publishedDateTime: 2023-04-25T06:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-growing-demand-and-trends-2023-to-2030-cloudwalk-dahua-technology-aurora-insigma-group-2023-04-25"
+  - title: "Machine Learning in Medical Imaging Market Demand and Competitive Analysis by Key Players to 2030| Zebra, Arterys, Aidoc"
+    excerpt: "The Machine Learning in Medical Imaging Market research report encompasses a thorough study of the current situation of"
+    publishedDateTime: 2023-04-27T07:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-medical-imaging-market-demand-and-competitive-analysis-by-key-players-to-2030-zebra-arterys-aidoc-2023-04-27"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 43
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Deep Learning In Drug Discovery And Diagnostics Market Global Competitive Research Report 2023 to 2031 By MRI"
+    excerpt: "Our report on the Deep Learning In Drug Discovery And Diagnostics market provides comprehensive insights into the"
+    publishedDateTime: 2023-04-28T06:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-drug-discovery-and-diagnostics-market-global-competitive-research-report-2023-to-2031-by-mri-2023-04-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

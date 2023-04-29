@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/entertainment/fake-drake-ai-generated-eminem
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/fake-drake-ai-generated-eminem-tracks-musicians-copyright-style.amp"
 type: article
 quality: 84
-heat: 86
+heat: 84
 published: true
 
 provider:

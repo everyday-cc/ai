@@ -1,27 +1,31 @@
 ---
 category: news
 title: "AIS Earns Seventh Microsoft Advanced Specialization in Analytics on Azure, Securing Access to End-Customer Funding and Resources"
-excerpt: "AIS (Applied Information Sciences), experts in helping organizations modernize and innovate with Microsoft Cloud, announces it has earned the Analytics on Microsoft Azure advanced specialization, its seventh in total."
-publishedDateTime: 2023-04-28T15:08:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/04/28/9804242.htm"
-webUrl: "https://it.tmcnet.com/news/2023/04/28/9804242.htm"
+excerpt: "AIS (Applied Information Sciences), experts in helping organizations modernize and innovate with Microsoft Cloud,"
+publishedDateTime: 2023-04-28T13:30:00Z
+originalUrl: "https://www.marketwatch.com/press-release/ais-earns-seventh-microsoft-advanced-specialization-in-analytics-on-azure-securing-access-to-end-customer-funding-and-resources-2023-04-28"
+webUrl: "https://www.marketwatch.com/press-release/ais-earns-seventh-microsoft-advanced-specialization-in-analytics-on-azure-securing-access-to-end-customer-funding-and-resources-2023-04-28"
 type: article
-quality: 40
-heat: -1
-published: false
+quality: 70
+heat: 90
+published: true
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
-    width: 550
-    height: 353
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -39,7 +43,16 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "MCA Connect Acquires Data Consultancy Pervicta to Enable Modern Manufacturing with Advanced Analytics and AI"
+    excerpt: "Pervicta employs a seasoned team of data experts with deep expertise in building IP and providing consulting services to help companies turn their data into a strategic asset. \"Now more than ever, data is at the heart of every customer conversation."
+    publishedDateTime: 2023-04-25T17:40:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/04/25/9801703.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
-secured: "TEMiD8MZeCsjd4XGqkKtpfCa4MOGGXM+hATso1EGvafrEgiSTJnAYO6W8EeVw7hxr2YuVU5Go4pkfMEnxb7Frb+zkCjOHLBf4rQCMczVW5YL5UvBXyPOJkksJwvSaZ93B9Zwyybmt3hRUzqaX8RX50m0FvKqAyIm9UhuJpnXPBdxuYET99RHtX+5ypetT/dsrp76SASr/RLkf/RlhG0xuudD8Xt3Z9fGHDQKzgIjPFlYqTSr83ASp21EDpx7CIAemco3NuVXYEOWmVHbEdKh0iz3IIuCqUqyK4xUXzHYPl8uBgu4kjhVJnKDztLh2ypgj2kd3ihPc71+mW1bpUCi4+8U5em6okbNlCRYSiYJdJ0=;IDr55EIiMAJInExMaDlGzw=="
+secured: "2omquB31c5/01iHOEk+eah8fz2uB38psCDZOWn6+SSfRAoGeYv8W1kYm2iQuz2MiZqHdV2G0FjPhUVDtt9hudnhaQRfk/b9/bwqr2tO2AivcjkDz+JHFIu1fVuCiNyRG92Z/AXZyzMd8EzRE/5BY2ZmC0o6qdTLIeMY0MtydGL5gUWWW3BCQwROGr3Y3uM9rwitsmJlsgKCoqdAdYWY4g9CidEJSwsJiPpEYXByZGDUiFT63kMMV/prO0YCgxs0ZpQzbfAd+KfrfVq2jMlEh67ZtoJxmmXNgA2i/+DIKGo/goegwDLwHxWcDp7GEL9o4DiaJr4GDC7amnRCceEsuIPLLB9JvOcRS+SBVdoFDF30=;wv8xcpqj9VvAVz5NAV2RlA=="
 ---
 

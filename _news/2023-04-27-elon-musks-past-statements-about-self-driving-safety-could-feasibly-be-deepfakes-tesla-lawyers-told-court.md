@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/tesla-lawyers-elon-musk-autopilot-sa
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-lawyers-elon-musk-autopilot-safety-statements-could-be-deepfakes-2023-4?amp"
 type: article
 quality: 71
-heat: -1
-published: false
+heat: 81
+published: true
 
 provider:
   name: Business Insider
@@ -31,99 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Grimes Tells Fans To Deepfake Drake Her, Invites Collaboration With AI"
-    excerpt: "In the wake of the AI-generated hit Heart on My Sleeve going viral with deepfakes of Drake and The Weeknd, pop star Grimes has invited her fans to experiment with her voice. On Sunday night she tweeted, “I'll split 50% royalties on any successful AI ..."
-    publishedDateTime: 2023-04-24T09:16:00Z
-    webUrl: "https://www.forbes.com/sites/martineparis/2023/04/24/grimes-tells-fans-to-deepfake-drake-her-welcomes-collaboration-with-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/martineparis/2023/04/24/grimes-tells-fans-to-deepfake-drake-her-welcomes-collaboration-with-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/04/24/grimes-tells-fans-to-deepfake-drake-her-welcomes-collaboration-with-ai/amp/"
+  - title: "Tesla says Elon Musk’s statements on self-driving ‘might have been deep fakes’ in bizarre defense"
+    excerpt: "The automaker claimed that CEO Elon Musk shouldn’t be made available to explain some of his statements on self-driving because some of the public comments might have been “deep fakes.” The lawsuit revolves around the death of Walter Huang, an Apple engineer who died in his Tesla Model X while driving to work in 2018."
+    publishedDateTime: 2023-04-27T10:02:00Z
+    webUrl: "https://electrek.co/2023/04/27/tesla-elon-musk-self-driving-deep-fakes/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Electrek
+      domain: electrek.co
+    quality: 56
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6446290cbc54719eadfa527d/0x0.jpg?format=jpg&width=1200"
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/04/Tesla-Model-X-crash-Autopilot-walter-Huang-death.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
-        height: 798
-        isCached: true
-  - title: "AI startup Synthesia made waves this week on both sides of deepfake debate"
-    excerpt: "Two articles this week highlighted the complex debate around the companies creating deepfakes, or synthetic media."
-    publishedDateTime: 2023-04-28T17:02:00Z
-    webUrl: "https://venturebeat.com/ai/ai-startup-synthesia-made-waves-this-week-on-both-sides-of-deepfake-debate/"
-    ampWebUrl: "https://venturebeat.com/ai/ai-startup-synthesia-made-waves-this-week-on-both-sides-of-deepfake-debate/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-startup-synthesia-made-waves-this-week-on-both-sides-of-deepfake-debate/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 85
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/04/img-Hero-WithActor.png?w=1200&strip=all"
-        width: 1199
-        height: 772
-        isCached: true
-  - title: "Republicans Share An Apocalyptic AI-Powered Attack Ad Against Biden: Here’s How To Spot A Deepfake"
-    excerpt: "Deepfakes first came about in 2017 after a Reddit user posted pornography with the adult actors’ faces swapped for the faces of celebrities."
-    publishedDateTime: 2023-04-25T16:26:00Z
-    webUrl: "https://www.forbes.com/sites/ariannajohnson/2023/04/25/republicans-share-an-apocalyptic-ai-powered-attack-ad-against-biden-heres-how-to-spot-a-deepfake/"
-    ampWebUrl: "https://www.forbes.com/sites/ariannajohnson/2023/04/25/republicans-share-an-apocalyptic-ai-powered-attack-ad-against-biden-heres-how-to-spot-a-deepfake/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ariannajohnson/2023/04/25/republicans-share-an-apocalyptic-ai-powered-attack-ad-against-biden-heres-how-to-spot-a-deepfake/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 73
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/641dfb1c54068a83394ff5b7/0x0.jpg?format=jpg&crop=1291,727,x153,y119,safe&width=1200"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "Grimes invites people to use her voice in AI songs"
-    excerpt: "Canadian singer says she likes the ideas of ‘killing copyright’, as music industry scrambles to catch up with implications of AI-generated tracks"
-    publishedDateTime: 2023-04-26T00:56:00Z
-    webUrl: "https://www.theguardian.com/music/2023/apr/26/grimes-invites-people-to-use-her-voice-in-ai-songs"
-    ampWebUrl: "https://amp.theguardian.com/music/2023/apr/26/grimes-invites-people-to-use-her-voice-in-ai-songs"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/music/2023/apr/26/grimes-invites-people-to-use-her-voice-in-ai-songs"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/cb37b09d57ddbe47d7ade8db1fc03b70dcc16f12/17_185_4013_2408/master/4013.jpg?width=620&quality=85&auto=format&fit=max&s=d790ca43793bad79236e3c81a7774458"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "Grimes invites artists to use her voice for AI-generated songs, says she'll split royalties"
-    excerpt: "\"I think it's cool to be fused w[ith] a machine and I like the idea of open sourcing all art and killing copyright,\" the singer tweeted.​"
-    publishedDateTime: 2023-04-25T00:51:00Z
-    webUrl: "https://www.cbsnews.com/news/grimes-ai-music-voice-royalties-artists-copyright/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/grimes-ai-music-voice-royalties-artists-copyright/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/grimes-ai-music-voice-royalties-artists-copyright/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 47
-    images:
-      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/04/25/1e2e6b03-d84a-4f8b-81e0-f4a94e2eecd8/thumbnail/1200x630/188438474c95d47f41963a16e22199ca/gettyimages-1340131828.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Republican Party Releases an Ad Generated by Artificial Intelligence, Raising Concerns About ‘Deepfakes’ and Other Manipulation"
-    excerpt: "In response to President Biden’s reelection announcement on Tuesday, the Republican National Committee released a digital ad showing what they think"
-    publishedDateTime: 2023-04-26T10:33:00Z
-    webUrl: "https://www.nysun.com/article/republican-party-releases-an-ad-generated-by-artificial-intelligence-raising-concerns-about-deepfakes-and-other-manipulation"
-    type: article
-    provider:
-      name: New York Sun
-      domain: nysun.com
-    quality: 24
-    images:
-      - url: "https://wp.nysun.com/wp-content/uploads/2023/04/biden-reelection.jpg?w=1200&h=630&fit=fill&fm=jpg&fl=progressive"
-        width: 1024
-        height: 683
+        height: 628
         isCached: true
 
 secured: "4rOe9nOvvOECdz3zaeQWROsIOgHQCB26t9jI2xoT0sQckYfGe+MHdsmpJK/f0Ms3+rLKd/gG0fC0eM/YFIPQuJyidnhY7ASnP3HNEa8nhKEsEdgOLyBGC4k1QlGXcM899DgC9BQMC+4MmG3xzbtkGJA9Wa41zP5RRH7DZ0zSaSUlXSkNVa9+BD/+bcnUrbhHKAMlVEwDvgl1Us9NR6UFgCWj/IE/lTwPY9CfrAT8boNT8nCFjrHXJ8KL15WTzkyur6U0N3iCq7vQAsB+iTpAC+QiBoq71pcyOuRgKQ9T/3JJYjE1usbMykjN8nyDxGjMvirSPmqTMfuKWZHtp8jOHFLIZAIkktGpQ04LknJ6vT8CcjWhTngJ8SrHcDwiFLZT6qX6ddYlRbFzp4bf9pGfSu2KinO7RywmRdvpwaKrBGfcMuzk+i/200gfETJxAUTyPsn7vLPEiN92wlF3O+6yrS0JeRwN9yzs9L3qn3pPut/Knq0Zc/LyXbJ/CoUy/iqo8uQTWCXvDGJkuxIS/goOsA==;5ELxm2aEggcEmOa1Fa282w=="

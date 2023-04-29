@@ -243,7 +243,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/face-recognition-software-market-new-development-strategy-2023-2030-fully-explained-2023-04-25",
       "featuredContent": null,
       "highlight": null,
-      "heat": 166,
+      "heat": 156,
       "tags": null,
       "images": [
         {
@@ -710,6 +710,50 @@
       "provider": {
         "name": "IT-Online",
         "domain": "it-online.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-04-21-ai-ml-digital-twins-and-computer-vision-whats-really-driving-digital-strategy-experts.md",
+      "title": "AI, ML, Digital Twins and Computer Vision — What's Really Driving Digital Strategy? | Experts",
+      "excerpt": "Business leaders for the last few years have rushed to deploy the latest technology to better meet fluid customer demand. Many are now taking a closer look and realizing the need for unification of systems or platforms to drive real growth.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wwt.com/event/644186f14f6ec627759f23c7",
+      "originalUrl": "https://www.wwt.com/event/644186f14f6ec627759f23c7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wwt.com/api/attachments/6441a4aa21aeac56c2ec369c/thumbnail?width=1200",
+          "width": 1030,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-20T13:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WWT",
+        "domain": "wwt.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1316,49 +1360,6 @@
       "provider": {
         "name": "VietnamPlus",
         "domain": "vietnamplus.vn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-14-the-most-valuable-object-to-sink-with-the-titanic-was-a-colossal-neoclassical-painting-heres-the-paintings-unusual-backstory.md",
-      "title": "The Most Valuable Object to Sink With the Titanic Was a Colossal Neoclassical Painting. Here’s the Painting’s Unusual Backstory",
-      "excerpt": "Merry-Joseph Blondel's little-known 19th century Neoclassical work had the highest insurance claim of any single item. Learn about it here.",
-      "sourceUrl": null,
-      "webUrl": "https://news.artnet.com/art-world/titanic-111-anniversary-merry-joseph-blondel-2282910",
-      "originalUrl": "https://news.artnet.com/art-world/titanic-111-anniversary-merry-joseph-blondel-2282910",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.artnet.com/app/news-upload/2023/04/Willy-Stoewer_Titanic_1912-scaled.jpg",
-          "width": 2560,
-          "height": 1742,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://news.artnet.com/art-world/titanic-111-anniversary-merry-joseph-blondel-2282910/amp-page",
-      "cdnAmpWebUrl": "https://news-artnet-com.cdn.ampproject.org/c/s/news.artnet.com/art-world/titanic-111-anniversary-merry-joseph-blondel-2282910/amp-page",
-      "publishedDateTime": "2023-04-13T23:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Artnet",
-        "domain": "artnet.com",
         "images": null,
         "publishers": null,
         "authors": null

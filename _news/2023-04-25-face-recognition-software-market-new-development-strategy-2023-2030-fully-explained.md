@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/face-recognition-softwar
 webUrl: "https://www.marketwatch.com/press-release/face-recognition-software-market-new-development-strategy-2023-2030-fully-explained-2023-04-25"
 type: article
 quality: 76
-heat: 166
+heat: 156
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI In Computer Vision Market Report Focus On Landscape | Current And Future Development 2023-2030"
-    excerpt: "This study involves the strong analysis of manufacturing practices and standards applicable in AI In Computer Vision Market industry. A bottom-up and top-down strategy is used for both qualitative and quantitative estimate."
-    publishedDateTime: 2023-04-24T11:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-report-focus-on-landscape-current-and-future-development-2023-2030-2023-04-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 71
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Computer Vision System Market Research, 2023-2030"
     excerpt: "The major players covered in the Computer Vision System market report are: Computer Vision System Marketsize, segment (mainly coveringMajorType (, Hardware, Software and Service, ,),End Users (, Automotive,"
     publishedDateTime: 2023-04-25T18:27:00Z

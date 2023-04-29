@@ -30,99 +30,83 @@ images:
     isCached: true
 
 related:
-  - title: "Grimes Tells Fans To Deepfake Drake Her, Invites Collaboration With AI"
-    excerpt: "In the wake of the AI-generated hit Heart on My Sleeve going viral with deepfakes of Drake and The Weeknd, pop star Grimes has invited her fans to experiment with her voice. On Sunday night she tweeted, “I'll split 50% royalties on any successful AI ..."
-    publishedDateTime: 2023-04-24T09:16:00Z
-    webUrl: "https://www.forbes.com/sites/martineparis/2023/04/24/grimes-tells-fans-to-deepfake-drake-her-welcomes-collaboration-with-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/martineparis/2023/04/24/grimes-tells-fans-to-deepfake-drake-her-welcomes-collaboration-with-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/04/24/grimes-tells-fans-to-deepfake-drake-her-welcomes-collaboration-with-ai/amp/"
+  - title: "Republicans Launch Eerie AI-Generated Attack Ad On Biden"
+    excerpt: "The video shows realistic images of a collapse of world order under a second Biden-Harris term—and suggests the possibility of a lot of artificial intelligence in upcoming campaigns."
+    publishedDateTime: 2023-04-25T15:21:00Z
+    webUrl: "https://www.forbes.com/sites/saradorn/2023/04/25/republicans-launch-eerie-ai-generated-attack-ad-on-biden/"
+    ampWebUrl: "https://www.forbes.com/sites/saradorn/2023/04/25/republicans-launch-eerie-ai-generated-attack-ad-on-biden/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saradorn/2023/04/25/republicans-launch-eerie-ai-generated-attack-ad-on-biden/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6446290cbc54719eadfa527d/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6447ef043664b77e0aa3babc/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 798
+        height: 800
         isCached: true
-  - title: "AI startup Synthesia made waves this week on both sides of deepfake debate"
-    excerpt: "Two articles this week highlighted the complex debate around the companies creating deepfakes, or synthetic media."
-    publishedDateTime: 2023-04-28T17:02:00Z
-    webUrl: "https://venturebeat.com/ai/ai-startup-synthesia-made-waves-this-week-on-both-sides-of-deepfake-debate/"
-    ampWebUrl: "https://venturebeat.com/ai/ai-startup-synthesia-made-waves-this-week-on-both-sides-of-deepfake-debate/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-startup-synthesia-made-waves-this-week-on-both-sides-of-deepfake-debate/amp/"
+  - title: "GOP releases 100% AI-generated ad to fearmonger over Biden’s reelection bid"
+    excerpt: "On the screen flashes a dark, AI-generated image of Biden and Vice President Kamala Harris, smiling and waving in front of a sea of American flags. From there, a series of AI-generated scenes show the faked future that the RNC imagines that this election result would bring,"
+    publishedDateTime: 2023-04-25T19:50:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2023/04/gop-releases-100-ai-generated-ad-to-fearmonger-over-bidens-reelection-bid/"
+    ampWebUrl: "https://arstechnica.com/tech-policy/2023/04/gop-releases-100-ai-generated-ad-to-fearmonger-over-bidens-reelection-bid/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/04/gop-releases-100-ai-generated-ad-to-fearmonger-over-bidens-reelection-bid/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
+      name: Ars Technica
+      domain: arstechnica.com
     quality: 85
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/04/img-Hero-WithActor.png?w=1200&strip=all"
-        width: 1199
-        height: 772
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/04/Beat-Biden-RNC-2023-response-ad-screenshot-800x362.png"
+        width: 800
+        height: 362
         isCached: true
-  - title: "Elon Musk's past statements about self-driving safety could feasibly be deepfakes, Tesla lawyers told court"
-    excerpt: "Tesla is facing a lawsuit over the death of an Apple engineer. The judge ordered Elon Musk to be interviewed under oath about his past statements."
-    publishedDateTime: 2023-04-27T12:35:00Z
-    webUrl: "https://www.businessinsider.com/tesla-lawyers-elon-musk-autopilot-safety-statements-could-be-deepfakes-2023-4"
-    ampWebUrl: "https://www.businessinsider.com/tesla-lawyers-elon-musk-autopilot-safety-statements-could-be-deepfakes-2023-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-lawyers-elon-musk-autopilot-safety-statements-could-be-deepfakes-2023-4?amp"
+  - title: "Republicans release AI-generated attack ad on President Biden"
+    excerpt: "The video from the Republican National Committee is titled \"Beat Biden\" and imagines a scenario in which Biden and Vice President Kamala Harris win reelection in 2024. The ad shows completely AI-generated images of Biden and Harris celebrating their election day victory."
+    publishedDateTime: 2023-04-25T22:33:00Z
+    webUrl: "https://mashable.com/video/republican-attack-ad-biden-reelection-ai"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 71
+      name: Mashable
+      domain: mashable.com
+    quality: 67
     images:
-      - url: "https://i.insider.com/6432a2b13007470019fe3dee?width=1200&format=jpeg"
+      - url: "https://helios-i.mashable.com/imagery/videos/01VtmkmQ8ncxw6jQxY3UFne/hero-image.fill.size_1200x675.v1682456307.png"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
-  - title: "Grimes invites people to use her voice in AI songs"
-    excerpt: "Canadian singer says she likes the ideas of ‘killing copyright’, as music industry scrambles to catch up with implications of AI-generated tracks"
-    publishedDateTime: 2023-04-26T00:56:00Z
-    webUrl: "https://www.theguardian.com/music/2023/apr/26/grimes-invites-people-to-use-her-voice-in-ai-songs"
-    ampWebUrl: "https://amp.theguardian.com/music/2023/apr/26/grimes-invites-people-to-use-her-voice-in-ai-songs"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/music/2023/apr/26/grimes-invites-people-to-use-her-voice-in-ai-songs"
+  - title: "GOP Launches the Age of AI-Generated Attack Ads"
+    excerpt: "The Republican Party used AI imagery to paint a picture of Biden's dystopian America in a new political attack ad on YouTube."
+    publishedDateTime: 2023-04-25T17:14:00Z
+    webUrl: "https://gizmodo.com/youtube-biden-ai-political-ad-gop-stable-diffusion-1850373150"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/cb37b09d57ddbe47d7ade8db1fc03b70dcc16f12/17_185_4013_2408/master/4013.jpg?width=620&quality=85&auto=format&fit=max&s=d790ca43793bad79236e3c81a7774458"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "Grimes invites artists to use her voice for AI-generated songs, says she'll split royalties"
-    excerpt: "\"I think it's cool to be fused w[ith] a machine and I like the idea of open sourcing all art and killing copyright,\" the singer tweeted.​"
-    publishedDateTime: 2023-04-25T00:51:00Z
-    webUrl: "https://www.cbsnews.com/news/grimes-ai-music-voice-royalties-artists-copyright/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/grimes-ai-music-voice-royalties-artists-copyright/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/grimes-ai-music-voice-royalties-artists-copyright/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
+      name: Gizmodo
+      domain: gizmodo.com
     quality: 47
-    images:
-      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/04/25/1e2e6b03-d84a-4f8b-81e0-f4a94e2eecd8/thumbnail/1200x630/188438474c95d47f41963a16e22199ca/gettyimages-1340131828.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Republican Party Releases an Ad Generated by Artificial Intelligence, Raising Concerns About ‘Deepfakes’ and Other Manipulation"
-    excerpt: "In response to President Biden’s reelection announcement on Tuesday, the Republican National Committee released a digital ad showing what they think"
-    publishedDateTime: 2023-04-26T10:33:00Z
-    webUrl: "https://www.nysun.com/article/republican-party-releases-an-ad-generated-by-artificial-intelligence-raising-concerns-about-deepfakes-and-other-manipulation"
+  - title: "GOP Releases First Ever AI-Created Attack Ad Against President Biden"
+    excerpt: "The Republican Party has released a new ad attacking President Joe Biden. And the ad might be a new milestone for political campaigns. It’s the first to use images created exclusively with artificial intelligence technology."
+    publishedDateTime: 2023-04-25T19:01:00Z
+    webUrl: "https://www.forbes.com/sites/mattnovak/2023/04/25/gop-releases-first-ever-ai-created-attack-ad-against-president-biden/"
     type: article
     provider:
-      name: New York Sun
-      domain: nysun.com
-    quality: 24
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Republicans responded to Biden’s announcement with an AI-generated ad"
+    excerpt: "The images show a few telltale signs that they’re faked, like a campaign sign with the wrong logo and a close-up shot of Biden that looks unnatural"
+    publishedDateTime: 2023-04-28T16:10:00Z
+    webUrl: "https://www.deseret.com/2023/4/28/23700844/republicans-responded-to-bidens-announcement-with-an-ai-generated-ad"
+    type: article
+    provider:
+      name: deseret
+      domain: deseret.com
+    quality: 39
     images:
-      - url: "https://wp.nysun.com/wp-content/uploads/2023/04/biden-reelection.jpg?w=1200&h=630&fit=fill&fm=jpg&fl=progressive"
-        width: 1024
-        height: 683
+      - url: "https://deseret.brightspotcdn.com/dims4/default/06ef5a7/2147483647/strip/true/crop/1435x819+266+0/resize/1461x834!/quality/90/?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2Ft-pi3UStn59dh7dZAGiDsD9ugXo%3D%2F0x0%3A1919x819%2F1919x819%2Ffilters%3Afocal%28983x439%3A984x440%29%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F24616024%2FScreen_Shot_2023_04_27_at_4.12.54_PM.png"
+        width: 1461
+        height: 834
         isCached: true
 
 secured: "lkmTb6XZEJJIp069HMGSbOFG5ACI9jb2AGfEXIp4Iki+DY4eE4wuNvuMUjbdkNUKwQxQcCOsGDqyWfiZACKpNM6FITqOmjMUczu9R6aaRNslfftZ5dEcJTKChtBJ/NNNhWShXkw6ZpGIC4kgQQHnZhYi8TEgar/u02IZXwkiWGy4Nze6fv6ovPRcPR43v/lfAFweNDGkpb3KUvxX43GOt9rvQaNcQOAky/NL6J/uwS+uu6LtiSUu0s2ASM+ZZAQzget7QJPUha39YPyoawRW766+cfsBmwDvf5+a5Ghvx0aTMasNYcS+TFxiOXet+WSIjBdoTKnRSx51CkZ4juQ2gxQzEKkKvN5kAFisZLNVPIs=;c78bPZzA8UquvAk33ah/AQ=="

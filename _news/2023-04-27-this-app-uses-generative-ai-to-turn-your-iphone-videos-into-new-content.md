@@ -126,22 +126,6 @@ related:
         width: 1200
         height: 652
         isCached: true
-  - title: "Why the struggle for ethics in generative AI is more complex than we imagine"
-    excerpt: "Some generative AI companies have been criticized for scraping the Web for training data, including copyrighted material, without the consent of creators and rights owners. In this way, the work of any number of creative,"
-    publishedDateTime: 2023-04-24T09:23:00Z
-    webUrl: "https://diginomica.com/why-struggle-ethics-generative-ai-more-complex-we-imagine"
-    ampWebUrl: "https://diginomica.com/why-struggle-ethics-generative-ai-more-complex-we-imagine?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/why-struggle-ethics-generative-ai-more-complex-we-imagine?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 71
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2023-03/ethics-gb40633784_640.jpg"
-        width: 640
-        height: 453
-        isCached: true
   - title: "In the age of AI, empathy could help save your job"
     excerpt: "Unpacking “hidden needs” requires empathy, a process whereby a human person recognises and acknowledges the feeling and emotions (e.g. the tragedy one went through, the happiness they experience) of other human persons."
     publishedDateTime: 2023-04-25T08:55:00Z
@@ -157,20 +141,6 @@ related:
       - url: "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/04/25/reuters.jpg"
         width: 750
         height: 393
-        isCached: true
-  - title: "How Enterprises Can Save Their Data from Gen AI Black Hole"
-    excerpt: "Generative AI has a lot of potential to disrupt the enterprise space, so it’s no wonder that this technology is now beginning to seep into companies’ tech stacks. However, as with any emerging technology,"
-    publishedDateTime: 2023-04-24T10:53:00Z
-    webUrl: "https://analyticsindiamag.com/how-enterprises-can-save-their-data-from-the-gen-ai-black-hole/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/04/ai-black-hole-1.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Generative AI Is Only as Good as the Prompt You Give It"
     excerpt: "It is ironic that much of the early conversation about ChatGPT had to do with the demise of writing skills when, in fact, the very success of generative-AI searches is determined by the quality of precisely written prompts."
@@ -195,6 +165,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 39
+  - title: "Executives want generative AI, but are taking it slow. An army of providers has lined up to help"
+    excerpt: "Vendors are lining up to help enterprise companies adopt generative AI and tackle issues around data security and risk."
+    publishedDateTime: 2023-04-26T19:01:00Z
+    webUrl: "https://venturebeat.com/ai/executives-want-generative-ai-but-are-taking-it-slow-an-army-of-providers-has-lined-up-to-help/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 36
   - title: "Generative AI: A paradigm shift in enterprise and startup opportunities"
     excerpt: "As news cycles eclipse one another about these advancements, it may seem like generative AI sprang out of nowhere for many business and executive leaders. Still, the reality is that these new architectures are built on approaches that have evolved over the past few decades."
     publishedDateTime: 2023-04-24T19:52:00Z

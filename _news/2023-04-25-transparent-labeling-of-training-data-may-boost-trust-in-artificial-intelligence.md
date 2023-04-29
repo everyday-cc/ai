@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2023-04-transparent-boost-artificial-int
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-04-transparent-boost-artificial-intelligence.amp"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: techxplore
@@ -24,22 +24,6 @@ images:
     width: 1000
     height: 750
     isCached: true
-
-related:
-  - title: "Stack Overflow Set to Charge AI Giants for Accessing Training Data"
-    excerpt: "Stack Overflow will now charge for accessing its extensive training data to encourage responsible data usage by major AI players."
-    publishedDateTime: 2023-04-24T09:55:00Z
-    webUrl: "https://techreport.com/news/3495760/stack-overflow-set-to-charge-ai-giants-for-accessing-training-data/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 39
-    images:
-      - url: "https://techreport.com/wp-content/uploads/2023/04/Stack-overflow.png"
-        width: 985
-        height: 408
-        isCached: true
 
 secured: "X+y/bhSF554Fb+EkznMNEEkiuCQJGmcOEMMEtL8l+PZkPu8ae83jZrexI2imbZo/iyIQa51oORMIURxjqR5bHlDeZeOoC7iy6wr2VqM3/KSuOp5vNhZSc3ldZRxvP27jX01KiW2H+wgF+2KyA2gyebE/e6/Vip+vNyIRjkSpB3Oe5rW3M34+hS1CFrDOWjWEWR+qg0xc+TSsT/rkxkosxCS3K09otdIG6jCSSPZ4cQWJLq/2uhsSns5n67m6beYVeBb4zHFOC5zw4nmUGfBLGjenX7Le4VQc1sH9AlQmDczPXaq5uT6uCT2VkfnlMRhZrDj4J1hY3Lq1wPn/RDHXJtm2tcSmOCeVwjyqx6m0oKHCU/N8TansYauS/KbhLRampijmAs/VXldMnzmcIUXTK6idL8kAH9Bz8CL4VG+YLQHjbzMD5piZgB74r50RKasDXE3gYtaym0rki5DP3HefIUuRhOwMh9UsRHc9T5zgV3sLD85cM7p0CJtExq7KcWboVnLUqZ6Qb7RtA9n7dhMykg==;+YiO3W0KYtErsagddqRyfQ=="
 ---

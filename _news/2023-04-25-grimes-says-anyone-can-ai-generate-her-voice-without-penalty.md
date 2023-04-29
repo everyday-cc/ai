@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/04/grimes-says-a
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/04/grimes-says-anyone-can-ai-generate-her-voice-without-penalty/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 800
     height: 450
     isCached: true
+
+related:
+  - title: "Grimes invites artists to use her voice for AI-generated songs, says she'll split royalties"
+    excerpt: "\"I think it's cool to be fused w[ith] a machine and I like the idea of open sourcing all art and killing copyright,\" the singer tweeted.​"
+    publishedDateTime: 2023-04-25T00:51:00Z
+    webUrl: "https://www.cbsnews.com/news/grimes-ai-music-voice-royalties-artists-copyright/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/grimes-ai-music-voice-royalties-artists-copyright/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/grimes-ai-music-voice-royalties-artists-copyright/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 47
+    images:
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/04/25/1e2e6b03-d84a-4f8b-81e0-f4a94e2eecd8/thumbnail/1200x630/188438474c95d47f41963a16e22199ca/gettyimages-1340131828.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "YPwf34s0rtW4pOEZeOZXrcQuQ4FDcym7tLUFM4wifgQmPi2GF8+lWk3zCU2u12aBiLL8EedooOqgrGS7Hlmv/OPxcBhkvp4f5ctB2AKezf8MbSAryhDrg4i4ob2yl6csRHMiYOtyPSlwPFf5vlrb80KCpXMSCRHMfLDSOGUZaZPOFG7x2EX2myX4koWZ6o+NbHusmWd4nz+rTg2BWvoo4hBIr8RLhRv0s5cDzHuaxgCqm3FrP4+v41/j3avwPBNeRBm5RlOtJROanyaIN8Vz0Jj4j+zzfAz4MXI5eZW7sOep9VCOp2fMIibSx0WUfR0VcIcFDBVIKdv5Mt1kKk06Ki93xwvHrvkEbZARZp16QJfnJP3AEf4gTxmL3bupwTC0wZCx/G5Ve1oHJyIwkw+P3JsXU4VNoLw/fvMkv6tSeJjRlnqpiTwK4KvWYBYN0LugjKB1WhWToXFaZI+BCop0u7ZkdoDlSnpgDYmNizahVIw7aYKHubiRCErj2akfYM+qIS8ntY+TC5PbMSRt17Q+SA==;kznXIxonglrPchSbB7OtCw=="
 ---

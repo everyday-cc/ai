@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/synthesia-generative-ai-startup-in
 webUrl: "https://www.businessinsider.com/synthesia-generative-ai-startup-in-talks-raise-funds-from-accel-2023-4"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -29,19 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Iris Audio, a startup that uses AI to isolate voices and remove background noise from calls, just raised $7 million with this 13-slide pitch deck"
-    excerpt: "The London-based startup, which uses AI to isolate voices and improve audio quality in real time, landed the funds from Puma Private Equity."
-    publishedDateTime: 2023-04-26T08:28:00Z
-    webUrl: "https://www.businessinsider.com/iris-audio-pitch-deck-ai-raises-7-million-series-a-2023-4"
+  - title: "AI startup Synthesia made waves this week on both sides of deepfake debate"
+    excerpt: "Two articles this week highlighted the complex debate around the companies creating deepfakes, or synthetic media."
+    publishedDateTime: 2023-04-28T17:02:00Z
+    webUrl: "https://venturebeat.com/ai/ai-startup-synthesia-made-waves-this-week-on-both-sides-of-deepfake-debate/"
+    ampWebUrl: "https://venturebeat.com/ai/ai-startup-synthesia-made-waves-this-week-on-both-sides-of-deepfake-debate/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-startup-synthesia-made-waves-this-week-on-both-sides-of-deepfake-debate/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 30
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 85
     images:
-      - url: "https://i.insider.com/6448cef890523900196fedd2?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://venturebeat.com/wp-content/uploads/2023/04/img-Hero-WithActor.png?w=1200&strip=all"
+        width: 1199
+        height: 772
         isCached: true
 
 secured: "R+VVAGcka8UE2EKAvczRW2P2eriEerx2faELGkpmukf6CzuwlFQVP4V/ms8nkQu1fn9Q9uxidbU/exiL0mej7pKv1qTiAfyfU/4Uez3ZKMFI+Yf9Zss91Gzfg7oZJdC+aKrrta1ATJwDYn9n20gSHG3yWzVo+ai5QbhRrSEmawRF/MUeEQL1xPR2CL7+GN/SwPUL5hESLSkSO4Cf4lx33n9CaVtiueO+79/bt4WJIHnwZ4kxMUXeL+UZ1XUbhVnSoKsQb1gyWpr2pvrkkF/VHh2VMotgey9GjJX173A/aU8pPnLjV+xoputCQjrZweGbiZgYxNRpLTHxwH366zOxY68BVChxDs9yKMIeYkrwKgdMsZLKoOGC+QUZ+p4Wv0jgn+tPpblFJc20COt1Yjr50S5KUHoq15gDJsn9mwkKbTp8Cy2RNNYjHG85bvXycrmGO9VDWfw0hHTwlcQbbUUGEVDR1lxjeh+UWKH0xGee3iSq51mWyEWbntZxnoJYAZk5raDJr4jDsFqISC/it2qm7Q==;wTQcdZfmxfZ+kba6VM+LBw=="

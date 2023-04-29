@@ -74,22 +74,6 @@ related:
         width: 1200
         height: 798
         isCached: true
-  - title: "Internet Training Data Of ChatGPT Can Be Used For Non-Allied Purposes Including Privacy Intrusions, Frets AI Ethics And AI Law"
-    excerpt: "Generative AI relies upon vast data training associated with the Internet, including the impressive capabilities of ChatGPT. The data training can be used for other profitable purposes, but the question arises as to whether this is a prudent pursuit or possibly fool's gold."
-    publishedDateTime: 2023-04-24T11:01:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/04/24/internet-training-data-of-chatgpt-can-be-used-for-non-allied-purposes-including-privacy-intrusions-frets-ai-ethics-and-ai-law/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/04/24/internet-training-data-of-chatgpt-can-be-used-for-non-allied-purposes-including-privacy-intrusions-frets-ai-ethics-and-ai-law/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/04/24/internet-training-data-of-chatgpt-can-be-used-for-non-allied-purposes-including-privacy-intrusions-frets-ai-ethics-and-ai-law/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 78
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64332b36bcc16f213d16b46f/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "ChatGPT may have better bedside manner than some doctors, but it lacks some expertise"
     excerpt: "ChatGPT can be a useful tool for patients who are seeking medical information and guidance, but the artificial intelligence tool can't fully replace the value of a human physician -- it says so itself."
     publishedDateTime: 2023-04-28T15:03:00Z
@@ -170,15 +154,6 @@ related:
       name: Gizmochina
       domain: gizmochina.com
     quality: 48
-  - title: "YouTube case at Supreme Court could shape protections for ChatGPT and AI"
-    excerpt: "A forthcoming decision whether to weaken a powerful shield protecting internet companies could have implications for artificial intelligence chatbot ChatGPT."
-    publishedDateTime: 2023-04-24T09:12:00Z
-    webUrl: "https://www.reuters.com/legal/youtube-case-us-supreme-court-could-shape-protections-chatgpt-ai-2023-04-24/?ref=upstract.com"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 46
   - title: "ChatGPT: Opportunities and threats"
     excerpt: "November 30, 2022 to be precise, ChatGPT, an artificial intelligence chatbot, has been gaining rave reviews as"
     publishedDateTime: 2023-04-25T16:46:00Z
@@ -296,20 +271,6 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
-        isCached: true
-  - title: "ChatGPT is the Most In-Demand Workplace Skill in Q1 2023"
-    excerpt: "Udemy (Nasdaq: UDMY), a company dedicated to improving lives through online learning, today released its Q1 2023 Workplace Learning Index, a quarterly report highlighting skills that are growing in demand among today’s professionals as they seek to keep pace with innovation and help support their company’s continued growth."
-    publishedDateTime: 2023-04-27T15:11:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/04/27/9803670.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 24
-    images:
-      - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
-        width: 550
-        height: 353
         isCached: true
   - title: "Hugging Face Releases Free ChatGPT Clone: HuggingChat"
     excerpt: "Hugging Face, the machine learning community and AI tools platform, announced the release of HuggingChat, an open source ChatGPT clone that anyone can use or download for themselves. Hugging Face is a company and an AI community. It provides access to free open source tools for developing machine learning and AI apps."

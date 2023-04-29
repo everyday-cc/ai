@@ -7,7 +7,7 @@ originalUrl: "https://electrek.co/2023/04/27/tesla-elon-musk-self-driving-deep-f
 webUrl: "https://electrek.co/2023/04/27/tesla-elon-musk-self-driving-deep-fakes/"
 type: article
 quality: 56
-heat: 56
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,24 @@ images:
     width: 1200
     height: 628
     isCached: true
+
+related:
+  - title: "Elon Musk's past statements about self-driving safety could feasibly be deepfakes, Tesla lawyers told court"
+    excerpt: "Tesla is facing a lawsuit over the death of an Apple engineer. The judge ordered Elon Musk to be interviewed under oath about his past statements."
+    publishedDateTime: 2023-04-27T12:35:00Z
+    webUrl: "https://www.businessinsider.com/tesla-lawyers-elon-musk-autopilot-safety-statements-could-be-deepfakes-2023-4"
+    ampWebUrl: "https://www.businessinsider.com/tesla-lawyers-elon-musk-autopilot-safety-statements-could-be-deepfakes-2023-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-lawyers-elon-musk-autopilot-safety-statements-could-be-deepfakes-2023-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 71
+    images:
+      - url: "https://i.insider.com/6432a2b13007470019fe3dee?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "kHxQEmke66QSIgaZAjc30OhTb00cYnOqZUZyhwIMsBE1MVApi3foGylZy38n+le/tyQ0oeOBLrbzyweq8aENhBXA4AMWEeyWpBGn8DJl57QFD6wmQfQD7LiJdzmJhbZZlVv2SkhzOS+L9zwADOrkOJSKgkJ7uamlvG0BSH5guyxH1G+PsceJJoh3xgAGaUGjMWKAFJ0QvsFJZnS3ySrHNrfVuErzWVmAK8dLjTAEcXr4oBlRkO7GVifU6n/QA1MAwGeVFzd1JMU9jnlKr7Wyexe7NZLp8upyv0v1gJCkLzDGf6K4/JZm4ovztmRprAeGvPUJCJ44Y/efhPd4JEJ99Pgsawq+E7hFlAaqNia41wld/ToUGl+MD6arDW7Ubj7Iv8/QD+Y79mAgGYbZUSn1dcIjHmr0AWkAxonAbkXqe7p80UofZLKw4x0ws7BnhzDtwEfp+bzN2Y/9jwGR2Jg2G1f+KQz2xVVNxLgTBSTMjJKrqDrEvK5l+JXAwJ4nO8Lly6DPdByZZOLBh4XVcj+pHg==;rvux4m0T496sf0Go4fa6jg=="
 ---

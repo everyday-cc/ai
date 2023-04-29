@@ -50,15 +50,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 46
-  - title: "Educational Robot Market Size Worth USD 4.02 Billion in 2028 – By Emergen Research"
-    excerpt: "Discover the future of education with Educational Robots. Explore the market overview, growth drivers, restraints, and statistics from top"
-    publishedDateTime: 2023-04-24T11:01:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/educational-robot-market-size-worth-usd-4-02-billion-in-2028-–-by-emergen-research-1032253062"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 45
   - title: "Digital Workplace Market Size Worth USD 90.52 Billion in 2028 – By Emergen Research"
     excerpt: "Embrace the digital revolution with the latest workplace solutions. Discover the benefits of digital transformation with customizable services"
     publishedDateTime: 2023-04-24T18:40:00Z

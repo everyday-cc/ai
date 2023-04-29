@@ -83,20 +83,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Siemens and Microsoft drive industrial productivity with generative artificial intelligence"
-    excerpt: "Siemens' new Teamcenter app for Microsoft Teams to use AI, boosting productivity and innovation throughout a product lifecycleAzure OpenAI Service powered assistant can augment the creation, optimization and debugging of code in software for factory automationIndustrial AI to enable visual quality inspection on the shop floorSiemens and Microsoft are harnessing the collaborative power of (AI) to help industrial companies drive innovation and efficiency across the design,"
-    publishedDateTime: 2023-04-24T09:42:00Z
-    webUrl: "https://www.newswit.com/en/M5T3"
-    type: article
-    provider:
-      name: academy
-      domain: newswit.com
-    quality: 44
-    images:
-      - url: "https://www.newswit.com/img/f/20230424/c1ff69547c5cca490d95efe7466311a0-0.jpg"
-        width: 1200
-        height: 673
-        isCached: true
   - title: "PricewaterhouseCoopers announces multiyear $1B investment into generative AI"
     excerpt: "PricewaterhouseCoopers LLP announced plans today to invest $1 billion in generative artificial intelligence that will expand its offerings for clients in the U.S. to use the technology to power their businesses."
     publishedDateTime: 2023-04-26T20:46:00Z

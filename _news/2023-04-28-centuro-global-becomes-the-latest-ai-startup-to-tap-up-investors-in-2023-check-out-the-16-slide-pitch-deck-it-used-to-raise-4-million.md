@@ -27,6 +27,22 @@ images:
     height: 600
     isCached: true
 
+related:
+  - title: "Iris Audio, a startup that uses AI to isolate voices and remove background noise from calls, just raised $7 million with this 13-slide pitch deck"
+    excerpt: "The London-based startup, which uses AI to isolate voices and improve audio quality in real time, landed the funds from Puma Private Equity."
+    publishedDateTime: 2023-04-26T08:28:00Z
+    webUrl: "https://www.businessinsider.com/iris-audio-pitch-deck-ai-raises-7-million-series-a-2023-4"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 30
+    images:
+      - url: "https://i.insider.com/6448cef890523900196fedd2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+
 secured: "PFADkAmVfUWKm+ad02c0GMB/Bq+C07o/xRdPhH40oeYzbRvd4Lb1rKL56tJkvzgGbciKCB0VFPNqZAk9nLHZOzebWqrmO4k/EyuczZPzG8HjG8bo7puCq5/pF0KNTJjppoHOHmOZdIVeP798LE+uE+sf/nQHvcjyAu8traLe4mcqeEn9uSooQHMSqPwZMd1mwGEc0rRsBt4DdfvmO6/MVE6ypQb1rjhU1gNo607ifzi0lehlHJV8FpJ7q7j6gSKltMz1AaN7fZZd/Wll4oC9fIGjl7ihA7L00C3bVg+D5KPtSnlE4PQA51EF43q/aF0RaKA2hTG2jCyO4NSwoKkRjY/pS2J6w7otg6PHwqv9YcbRKRuoofw5vVdufgvceMHQgh7J5XDyxnlSGUbgr27pmNGBxVma7tb/4q4w9JNEc+nDp/P8tds7oN7u0EJVZ2I04OxjhxJk/TOs/2Dp0eKImuVF9RXZellBxGeJ7dCfJXA56CDLQ8XnjY7fcg+StLu+QeKvi+sF39tHqZU0J6LvlQ==;FVkk46N7MoCXG9Ifh7oO/g=="
 ---
 

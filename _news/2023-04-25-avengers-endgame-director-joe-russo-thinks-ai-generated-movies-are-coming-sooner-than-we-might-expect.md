@@ -39,6 +39,22 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Grimes invites people to use her voice in AI songs"
+    excerpt: "Canadian singer says she likes the ideas of ‘killing copyright’, as music industry scrambles to catch up with implications of AI-generated tracks"
+    publishedDateTime: 2023-04-26T00:56:00Z
+    webUrl: "https://www.theguardian.com/music/2023/apr/26/grimes-invites-people-to-use-her-voice-in-ai-songs"
+    ampWebUrl: "https://amp.theguardian.com/music/2023/apr/26/grimes-invites-people-to-use-her-voice-in-ai-songs"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/music/2023/apr/26/grimes-invites-people-to-use-her-voice-in-ai-songs"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/cb37b09d57ddbe47d7ade8db1fc03b70dcc16f12/17_185_4013_2408/master/4013.jpg?width=620&quality=85&auto=format&fit=max&s=d790ca43793bad79236e3c81a7774458"
+        width: 620
+        height: 372
+        isCached: true
 
 secured: "uPOmaOtCHI0+4hNvww+lxg/sPUF9P2ZUMjVrY0QK9Zbx+85/s00nYT2YAIxoPTKz1WUftVeo5rvw8qJx33n5F2lrWA0QSxb88lMngTB9pL8hHTB2mXfOE2e5t8yF4CMVmDivteBd4psLv+dOVNCP5skLNDNh3IfQ4EcUXmaiPtnO1hK3+NKAPTQrEn6CNjhyUkorSwWRVcbUZpqHBoHa5GRwnewnoSWusPTJ/JbxnixmSEiPeVi4LFy393Pk5MJAI2t8om7qULLu7OJ8ALP8fSuTIyEj786pldOhKCS4nra1m3fBA2qSSIPmZqfkzQoeCktg2ooYaCqyF8gR/E849qRMutlIaZIDSfJAcNeK2TWB88v/gpyq4sl72ay0+6ZLzABQXu0NbwAuH5Bo5dc1oJ6kwzQS87mXbChXRMl18gaIdEOnsk1croPMboeBpF+Jx3y/VQgw2EY3FWR5Z6DRBWyCAML9pnO0LzN8SpU1Y7FaEcRLUmcNB+qkBclAO+UvmcmUCHAaHLAf/rOOgVedWg==;aOtkOxMgrcR+OexavRAw9A=="
 ---
