@@ -7,7 +7,7 @@ originalUrl: "https://news.bloomberglaw.com/daily-labor-report/amazon-delivery-d
 webUrl: "https://news.bloomberglaw.com/daily-labor-report/amazon-delivery-drivers-in-california-join-teamsters-union"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,38 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "EFF calls for action against California's new facial recognition bill"
-    excerpt: "The latest target of EFF's action is A.B. 642, a new California bill that would \"normalize and incentivize\" police use of facial recognition technology across the"
-    publishedDateTime: 2023-04-24T16:53:00Z
-    webUrl: "https://www.techspot.com/news/98420-eff-calls-action-against-california-new-facial-recognition.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 64
-  - title: "Facial recognition swings for the fences"
-    excerpt: "Facial recognition is being used to improve security, ease fan access and concession transactions in ever more baseball stadiums across America."
-    publishedDateTime: 2023-04-27T15:36:00Z
-    webUrl: "https://www.biometricupdate.com/202304/facial-recognition-swings-for-the-fences"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/09/26125209/stadium-security-public-safety-scaled.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
-  - title: "Embedded Vision Summit® Announces Full Conference Program for Edge AI and Computer Vision Innovators, May 22-24 in Santa Clara, California"
-    excerpt: "Embedded Vision Summit® Announces Full Conference Program for Edge AI and Computer Vision Innovators, May 22-24 in Santa Clara, California Apr 27,"
-    publishedDateTime: 2023-04-27T18:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/embedded-vision-summit-announces-full-conference-program-for-edge-ai-and-computer-vision-innovators-may-22-24-in-santa-clara-california-2023-04-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
   - title: "First man wrongfully arrested because of facial recognition testifies as California weighs new bills"
     excerpt: "One bill would ban its use for 10 years, while the second could allow police to match images to the state driver’s license database"
     publishedDateTime: 2023-04-27T18:07:00Z

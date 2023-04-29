@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2023/04/27/tech/snapchat-my-ai-concerns-well
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/04/27/tech/snapchat-my-ai-concerns-wellness/index.html"
 type: article
 quality: 85
-heat: 245
+heat: 235
 published: true
 
 provider:
@@ -61,22 +61,6 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/eda38944d4f763de71c65c782194765d1e8d4d35/2023/04/27/86d20dd3-1606-46b4-ac54-42d40c36ee8d/gettyimages-1308477625.jpg?auto=webp&width=740"
         width: 740
         height: 554
-        isCached: true
-  - title: "Snapchat sees spike in 1-star reviews as users pan the ‘My AI’ feature, calling for its removal"
-    excerpt: "The user reviews for Snapchat’s “My AI” feature are in — and they’re not good. Launched last week to global users after initially being a subscriber-only addition, Snapchat’s new AI chatbot powered by OpenAI’s GPT technology is now pinned to the top of the app’s Chat tab where users can ask it questions and get"
-    publishedDateTime: 2023-04-24T15:44:00Z
-    webUrl: "https://techcrunch.com/2023/04/24/snapchat-sees-spike-in-1-star-reviews-as-users-pan-the-my-ai-feature-calling-for-its-removal/"
-    ampWebUrl: "https://techcrunch.com/2023/04/24/snapchat-sees-spike-in-1-star-reviews-as-users-pan-the-my-ai-feature-calling-for-its-removal/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/04/24/snapchat-sees-spike-in-1-star-reviews-as-users-pan-the-my-ai-feature-calling-for-its-removal/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 75
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/04/snapchat-my-ai-1.jpg?resize=1200,675"
-        width: 1200
-        height: 675
         isCached: true
   - title: "ChatGPT Makes Waves in Yokosuka: First AI Chatbot Used in Japanese Municipality Offices"
     excerpt: "The AI-powered chatbot, ChatGPT will be used in a one-month trial to improve operations and free up human resources for tasks"

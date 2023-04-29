@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/news/stocks/microsoft-stock-pric
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/microsoft-stock-price-chatgpt-investor-ai-cloud-azure-satya-nadella-2023-4?amp"
 type: article
 quality: 113
-heat: 583
+heat: 573
 published: true
 
 provider:
@@ -541,20 +541,6 @@ related:
       - url: "https://www.thesun.co.uk/wp-content/uploads/2023/04/NINTCHDBPICT000813339870.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "The era of AI: How the Microsoft Cloud is accelerating AI transformation across industries"
-    excerpt: "This past quarter has put a spotlight on advancements in generative AI, and the possibilities of its application to deliver pragmatic business outcomes. For organizations around the world, there is incredible opportunity to enhance products and services while unlocking innovation and business value to help shape the future of industry."
-    publishedDateTime: 2023-04-24T15:11:00Z
-    webUrl: "https://blogs.microsoft.com/blog/2023/04/24/the-era-of-ai-how-the-microsoft-cloud-is-accelerating-ai-transformation-across-industries/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 44
-    images:
-      - url: "https://blogs.microsoft.com/wp-content/uploads/prod/2023/04/Hero-image-April-24-1024x540.jpg"
-        width: 1024
-        height: 540
         isCached: true
   - title: "Microsoft beats expectations and forecasts strong revenue growth driven by investments in AI"
     excerpt: "Microsoft Corp. delivered a strong earnings and revenue beat, grew its operating income and forecast another solid beat for the coming quarter, sending its shares up more than 8% in late trading today."

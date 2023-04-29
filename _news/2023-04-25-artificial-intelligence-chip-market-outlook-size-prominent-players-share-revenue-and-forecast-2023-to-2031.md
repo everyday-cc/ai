@@ -58,20 +58,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing (NLP) in Healthcare Market [2023-2030] | Industry Trends, Share, Size, Growth and Opportunities"
-    excerpt: "With tables and figures helping analyze worldwide Global Natural Language Processing (NLP) in Healthcare market trends, this research provides key statistics on the state of the industry and is a valuable source of guidance and direction for companies and ..."
-    publishedDateTime: 2023-04-24T16:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-market-2023-2030-industry-trends-share-size-growth-and-opportunities-2023-04-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 75
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Natural Language Processing (NLP) in Healthcare and Life Sciences Market Size 2023 with SWOT and PESTAL Analysis | Forecast to 2030"
     excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
     publishedDateTime: 2023-04-26T14:29:00Z

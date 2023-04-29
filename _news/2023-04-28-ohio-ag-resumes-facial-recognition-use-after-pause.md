@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/public-safety/ohio-ag-resumes-facial-recogni
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/ohio-ag-resumes-facial-recognition-use-after-pause?_amp=true"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/05162022/social-media-databases-facial-recognition-police.jpg"
         width: 960
         height: 540
+        isCached: true
+  - title: "Facial recognition swings for the fences"
+    excerpt: "Facial recognition is being used to improve security, ease fan access and concession transactions in ever more baseball stadiums across America."
+    publishedDateTime: 2023-04-27T15:36:00Z
+    webUrl: "https://www.biometricupdate.com/202304/facial-recognition-swings-for-the-fences"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/09/26125209/stadium-security-public-safety-scaled.jpg"
+        width: 2048
+        height: 1365
         isCached: true
   - title: "Ohio resumes facial-recognition searches using controversial photo-collection firm Clearview AI"
     excerpt: "State officials currently use facial-recognition software that pulls photos from open sources like news stories and public social-media accounts."

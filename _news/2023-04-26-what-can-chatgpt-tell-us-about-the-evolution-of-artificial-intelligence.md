@@ -191,6 +191,20 @@ related:
         width: 2560
         height: 1631
         isCached: true
+  - title: "Italy Brings Back ChatGPT with New Data Security Measures"
+    excerpt: "ChatGPT has resumed its services in Italy after implementing user data collection and usage changes as suggested by the Garante."
+    publishedDateTime: 2023-04-29T08:58:00Z
+    webUrl: "https://techreport.com/news/3496135/italy-brings-back-chatgpt-with-new-data-security-measures/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 41
+    images:
+      - url: "https://techreport.com/wp-content/uploads/2023/04/jonathan-kemper-MMUzS5Qzuus-unsplash-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "Let’s chat about AI: How design and construction firms are using ChatGPT"
     excerpt: "Tech-savvy AEC firms that already use artificial intelligence to enhance their work view the startling evolution of ChatGPT mostly in a positive light as a potential tool for sharing information and training employees and trade partners."
     publishedDateTime: 2023-04-26T16:21:00Z

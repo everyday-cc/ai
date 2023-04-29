@@ -271,20 +271,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
-  - title: "3D Camera Market worth $9.1 Billion by 2028 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "The global 3D camera market is expected to be valued at USD 3.6 Billion in 2023 and is projected to reach USD 9.1 Billion by 2028; it"
-    publishedDateTime: 2023-04-24T16:00:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/3d-camera-market-worth-9-1-billion-by-2028---exclusive-report-by-marketsandmarkets-301805209.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 17
-    images:
-      - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
-        width: 666
-        height: 350
-        isCached: true
 
 secured: "SBPXYiKxG90u4aTMwqNqIHxt0HbYIOkjeeiM5t0+wTb+xjhTAqqB3F3GSCxx3w5nelTk/gn40E7DtvMuX6i2P4/2OCtPv+IEHHcf28a8sCWhdnhDt297xinHOBtIrTiL2UZF23B2npI2m77senWKXz9qz9KgjOJYR8VKRPBk6VQqWV9/h3sfutT1Hc13tw2t1Xe7ZBNBmgRJiH1JCwX6PQO2EFg/4iMeLR+qPZPRgguB7hkWCLdxLNEJ+pAm7gXvkJxEFYFQ+7DmnpYonZpRnXUxAWUTzyye6f910uoW78onkyC8739TIGd8JmyDapI64N8jsfdPmYUcirVA1hTgFrcclp1xAgJlby5hEIv7kzg=;2fy3z/VXjN2dvjE7oNGXTw=="
 ---

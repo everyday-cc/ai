@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencefriday.com/articles/ai-for-stem-education/"
 webUrl: "https://www.sciencefriday.com/articles/ai-for-stem-education/"
 type: article
 quality: 56
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -35,6 +35,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "Recommendations for handling AI in schools"
+    excerpt: "The Berlin Senate Department for Education has issued recommendations for teachers on the use of artificial intelligence (AI) in schools."
+    publishedDateTime: 2023-04-25T15:32:00Z
+    webUrl: "https://www.berlin.de/en/news/8171213-5559700-recommendations-ai-schools.en.html"
+    type: article
+    provider:
+      name: Berlin
+      domain: berlin.de
+    quality: 39
+    images:
+      - url: "https://www.berlin.de/binaries/asset/image_assets/8171261/ratio_4_3/1682428664/800x600/"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Britain Jumps On AI Bandwagon With $125M Taskforce For Education And Health Care"
     excerpt: "Britain is investing around $125 million (or 100 pounds) into developing foundational models similar to the language models ChatGPT is known for."
     publishedDateTime: 2023-04-24T19:21:00Z

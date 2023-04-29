@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2023-04-ai-explore-potential-zoonotic-diseases
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-04-ai-explore-potential-zoonotic-diseases.amp"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers use AI to discover new planet outside solar system"
-    excerpt: "A University of Georgia research team has confirmed evidence of a previously unknown planet outside of our solar system, and they used machine learning tools to detect it."
-    publishedDateTime: 2023-04-24T16:53:00Z
-    webUrl: "https://phys.org/news/2023-04-ai-planet-solar.html"
-    ampWebUrl: "https://phys.org/news/2023-04-ai-planet-solar.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-04-ai-planet-solar.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/researchers-use-ai-to-1.jpg"
-        width: 1958
-        height: 1670
-        isCached: true
   - title: "Researchers use AI to innovate insect discovery"
     excerpt: "A team of researchers at the IUPUI School of Science have developed an innovative use of Artificial Intelligence to discover new species of insects."
     publishedDateTime: 2023-04-27T16:42:00Z

@@ -25,47 +25,45 @@ images:
     isCached: true
 
 related:
-  - title: "EFF calls for action against California's new facial recognition bill"
-    excerpt: "The latest target of EFF's action is A.B. 642, a new California bill that would \"normalize and incentivize\" police use of facial recognition technology across the"
-    publishedDateTime: 2023-04-24T16:53:00Z
-    webUrl: "https://www.techspot.com/news/98420-eff-calls-action-against-california-new-facial-recognition.html"
+  - title: "Ohio AG Resumes Facial Recognition Use After Pause"
+    excerpt: "After stopping the use of facial recognition software for more than a year amid civil liberties concerns, the Ohio attorney general’s office is once again using the technology."
+    publishedDateTime: 2023-04-27T23:29:00Z
+    webUrl: "https://www.govtech.com/public-safety/ohio-ag-resumes-facial-recognition-use-after-pause"
+    ampWebUrl: "https://www.govtech.com/public-safety/ohio-ag-resumes-facial-recognition-use-after-pause?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/ohio-ag-resumes-facial-recognition-use-after-pause?_amp=true"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 64
-  - title: "Embedded Vision Summit® Announces Full Conference Program for Edge AI and Computer Vision Innovators, May 22-24 in Santa Clara, California"
-    excerpt: "Embedded Vision Summit® Announces Full Conference Program for Edge AI and Computer Vision Innovators, May 22-24 in Santa Clara, California Apr 27,"
-    publishedDateTime: 2023-04-27T18:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/embedded-vision-summit-announces-full-conference-program-for-edge-ai-and-computer-vision-innovators-may-22-24-in-santa-clara-california-2023-04-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
-  - title: "Amazon Delivery Drivers in California Join Teamsters Union (2)"
-    excerpt: "Amazon.com Inc. drivers in Palmdale, Calif., became the first in the nation to join the International Brotherhood of Teamsters, the union said Monday."
-    publishedDateTime: 2023-04-24T22:08:00Z
-    webUrl: "https://news.bloomberglaw.com/daily-labor-report/amazon-delivery-drivers-in-california-join-teamsters-union"
-    type: article
-    provider:
-      name: news.bloomberglaw
-      domain: bloomberglaw.com
-    quality: 24
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
     images:
-      - url: "https://db0ip7zd23b50.cloudfront.net/dims4/default/d2df23c/2147483647/legacy_thumbnail/960x369%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2Fd2%2F88%2F4405ea704727b4f56f9b81482496%2F395211435.jpg"
-        width: 960
-        height: 369
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/c9341c5/2147483647/strip/true/crop/5000x2607+0+726/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F1d%2Fc3%2F5a9f33404b21a79b5e790af9266d%2Fshutterstock-1658380954.jpg"
+        width: 840
+        height: 438
         isCached: true
-  - title: "First man wrongfully arrested because of facial recognition testifies as California weighs new bills"
-    excerpt: "One bill would ban its use for 10 years, while the second could allow police to match images to the state driver’s license database"
-    publishedDateTime: 2023-04-27T18:07:00Z
-    webUrl: "https://www.theguardian.com/us-news/2023/apr/27/california-police-facial-recognition-software"
+  - title: "Clearview AI’s facial recognition back in Ohio law enforcement after one year"
+    excerpt: "Clearview AI has won a contract to supply facial recognition to the Ohio Bureau of Criminal Investigation to generate leads in criminal cases."
+    publishedDateTime: 2023-04-28T17:06:00Z
+    webUrl: "https://www.biometricupdate.com/202304/clearview-ais-facial-recognition-back-in-ohio-law-enforcement-after-one-year"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 4
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 51
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/05162022/social-media-databases-facial-recognition-police.jpg"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "Ohio resumes facial-recognition searches using controversial photo-collection firm Clearview AI"
+    excerpt: "State officials currently use facial-recognition software that pulls photos from open sources like news stories and public social-media accounts."
+    publishedDateTime: 2023-04-26T13:00:00Z
+    webUrl: "https://www.cleveland.com/news/2023/04/ohio-resumes-facial-recognition-searches-using-controversial-photo-collection-firm-clearview-ai.html"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 7
 
 secured: "hemEuSU7450QvcsPAuo8O45YFe48UVp+fB4rNtOez+pdwjLF1M1dNwoekyALyrujbKebfaCcMLq5nq1xFmq1yvdt9YQIIQErlO6eyLBepJAXCsFjTuvTGaC+z5lv//0kkMm4VMMdT1f+Uo1hKQpxsOWNK3Da3NFjO27Lkm7ymiw74OjQ3+m1det4Q1JlNRneLFYkH6CokwUxqTLT8ZQy1KIesJY3dJLnMEVHZeeED5PL3jLb8fj+/G7D+ldbFAO91PIEAjiUd6h4ZO8R+mvkkFN3XlgyuqqT2QGQzjzLNm2VmXPA2wsvMlNqwgrKvtANEbtg2/069mO3i0gPn+XHviqviJcslCQ+KCv7/Z2JVMGSSd0Mh2LJdB4ZGATOTFMPAq38R3XNbfczuS8SiGvDEMHnO/utgZbg8ZOVtOULCpwr3HIpm7bSfp+Dxi5pdos+6OXLiSLEs+SYkifhZh2TI4by2Id38N9M+y1lvuub2KhNlW8U1nea7998YpU9bVU6z0YDCYNN+LVoXeW+SHgbNA==;qxI/hdEIEQZsJDgNB0WKcQ=="
 ---

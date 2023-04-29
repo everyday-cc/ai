@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/04/stable-diffus
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/04/stable-diffusion-for-language-stability-launches-open-source-ai-chatbot/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "ChatGPT and Generative AI Around the World: Maturity, Opportunities, and Hurdles in Key Regions"
-    excerpt: "ChatGPT has received a lot of press since its November 2022 launch. But while interest in the tool is high, its use is not yet universal."
-    publishedDateTime: 2023-04-24T16:59:00Z
-    webUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-around-the-world-hurdles-in-regions-2023-april"
-    ampWebUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-around-the-world-hurdles-in-regions-2023-april?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-and-generative-ai-around-the-world-hurdles-in-regions-2023-april?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 75
-    images:
-      - url: "https://i.insider.com/6441b16a3f6f690018debe44?width=1200&format=jpeg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Stable Diffusion for language? Stability launches open source AI chatbot"
     excerpt: "Stability AI released a new family of open source AI language models called StableLM. Stability hopes to repeat the catalyzing effects of its Stable Diffusion open source image synthesis model, launched in 2022."
     publishedDateTime: 2023-04-24T19:20:00Z

@@ -43,6 +43,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "Recommendations for handling AI in schools"
+    excerpt: "The Berlin Senate Department for Education has issued recommendations for teachers on the use of artificial intelligence (AI) in schools."
+    publishedDateTime: 2023-04-25T15:32:00Z
+    webUrl: "https://www.berlin.de/en/news/8171213-5559700-recommendations-ai-schools.en.html"
+    type: article
+    provider:
+      name: Berlin
+      domain: berlin.de
+    quality: 39
+    images:
+      - url: "https://www.berlin.de/binaries/asset/image_assets/8171261/ratio_4_3/1682428664/800x600/"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "NTP2Y/i1yizcLxj0Fkrpb5ZLdME+7sl/F+p/p3NA/5i85KHcxlaA7waJmDNiv+He18wwZcVIgA2qY7Bmrp5eBFB9+kb7BNta5HWAlB6aWbICLm3ran8diMXGooT0ZFWRUB7ky8GrRwN3l7taxcy6+F6TVfqVjZTjDR9/XrSRXnXRtiHc9Sv2syhAjQuzgH0mCYB4/Q35ETX2uVbzVEj6NXop9JzeR6LyoeVwRVzqzIx2RO4jBdeLjbRT3smkvisRv9B5/SEnmgXP6xiY/RiW0IIj3rpVw0c81B0T+YmdSeUykUcHbyXM+eMgaR5agNnY+EXowZX7MobTsJNiyIcKWaRDD8V+60/B8kJtXZxPV5GTaQgVJUB61PiwKo6slkaFr9cOqtsnnxDomlTmNiv7gxOu7i+JlbjFYUeTCYYh3rfAcN64V1c/mJUg+tYB7LYswM4bg2y0D5e5Ox3OuRbPPb9lGWZQwaZw0tLNyUGSXb03zojhjHKhLL1Y5SprnTAGBmv93bFpMFfc5Zn/PYl/uw==;6CEIyOl5cQYaNlFAsPP97g=="
 ---

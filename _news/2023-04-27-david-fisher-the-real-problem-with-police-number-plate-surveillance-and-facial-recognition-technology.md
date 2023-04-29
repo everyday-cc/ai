@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The first smart gun with facial and fingerprint recognition is now for sale"
+    excerpt: "Smart guns have mainly been the stuff of movies. In the real world, technological and political challenges have meant the high-tech devices haven't become a reality. That may be about to change."
+    publishedDateTime: 2023-04-29T09:01:00Z
+    webUrl: "https://wusfnews.wusf.usf.edu/2023-04-29/the-first-smart-gun-with-facial-and-fingerprint-recognition-is-now-for-sale"
+    type: article
+    provider:
+      name: wusfnews.wusf.usf.edu
+      domain: usf.edu
+    quality: 22
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/80abbd8/2147483647/strip/true/crop/3000x1575+0+213/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F04%2F28%2Faz-gun-authenticated-edit_custom-ae0a785fdb635d95fc7fe938f59a5debe9c8e8b4.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Is Facial Recognition Technology a Blessing or a Curse?"
     excerpt: "Facial recognition technology could be a curse or a blessing. Chances are, if you ever walked in a crowded area in a major city, you have been recorded by some sort of closed circuit television. N, Those images,"
     publishedDateTime: 2023-04-27T13:15:00Z

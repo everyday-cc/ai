@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-demand-by-2031-2023-04-27"
 type: article
 quality: 101
-heat: 291
+heat: 281
 published: true
 
 provider:
@@ -272,20 +272,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
-  - title: "3D Camera Market worth $9.1 Billion by 2028 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "The global 3D camera market is expected to be valued at USD 3.6 Billion in 2023 and is projected to reach USD 9.1 Billion by 2028; it"
-    publishedDateTime: 2023-04-24T16:00:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/3d-camera-market-worth-9-1-billion-by-2028---exclusive-report-by-marketsandmarkets-301805209.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 17
-    images:
-      - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
-        width: 666
-        height: 350
-        isCached: true
 
 secured: "QDLpHXkFu+RnxFWLfqITxOAXzvFjTMYBrc53LUDhLIwjHadJNKGP699lUIGaAkAS1Tyl/K4Id0ov2S6MIDmSw1chgByvNvGe6/lKML665y6WcHiY/ubiDVTH4tW5ae7xWPITYtyfrSxdrhzOOHXumUhCPAe6XeBbLQls0kl/avwZngee92OrbSDttfurxksAiKY6ejAPI7UomTVctPw+KyOHy9itAuKIk1TZwFrX0dOVideG5YME/gxjzGVVBsIBrS1sxL5mtEAXy8Ag3DxVVBuz7FxHxOU8vDBEtExBm1U4XomVidZBOumy+lzkTVr74/ju0tQOPjkZiWkge69yvm6msVf06EOH/nQYQzKsLfo=;uvOtw3rVmvUEF3zf0g+qSw=="
 ---

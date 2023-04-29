@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/04/25/what-mar
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/04/25/what-marketing-and-advertising-specialists-can-expect-from-chatgpt/amp/"
 type: article
 quality: 91
-heat: 271
+heat: 281
 published: true
 
 provider:
@@ -180,6 +180,20 @@ related:
       - url: "https://techwireasia.com/wp-content/uploads/2023/04/shutterstock_1950040216-scaled.jpg"
         width: 2560
         height: 1631
+        isCached: true
+  - title: "Italy Brings Back ChatGPT with New Data Security Measures"
+    excerpt: "ChatGPT has resumed its services in Italy after implementing user data collection and usage changes as suggested by the Garante."
+    publishedDateTime: 2023-04-29T08:58:00Z
+    webUrl: "https://techreport.com/news/3496135/italy-brings-back-chatgpt-with-new-data-security-measures/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 41
+    images:
+      - url: "https://techreport.com/wp-content/uploads/2023/04/jonathan-kemper-MMUzS5Qzuus-unsplash-scaled.jpg"
+        width: 2560
+        height: 1707
         isCached: true
   - title: "What Can ChatGPT Tell Us About the Evolution of Artificial Intelligence?"
     excerpt: "In the last decade, artificial intelligence (AI) has elicited both dreams of a massive transformation in the tech industry  and a deep anxiety surrounding its potential ramifications. Elon Musk, a leading voice in the tech industry,"

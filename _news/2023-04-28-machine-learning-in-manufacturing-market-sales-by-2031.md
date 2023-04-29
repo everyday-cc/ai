@@ -221,6 +221,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The Latest Market Research Report for the Artificial Intelligence Products Market size with forecasted CAGR of 11.7% during 2023-2030"
+    excerpt: "The Global Market Overview of \" Artificial Intelligence Products Market\" offers a unique insight into key trends shaping the industry world-wide and in the largest markets. Written by some of our most experienced analysts,"
+    publishedDateTime: 2023-04-29T05:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-latest-market-research-report-for-the-artificial-intelligence-products-market-size-with-forecasted-cagr-of-117-during-2023-2030-2023-04-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "d8jmvRGeLqbPsysBkz5rJjgiEBAX7kxoKwPknkZKyQNvxMosEm/TO8VGrhOG4ihcRBiOgs1atcyaq5H351myv+GHlkPduIFPDdrX9u7WCg0fEF0J6JIAMVzApuw+pZrc0UFO4VlIXJXlpDbwZCnVnDnF5DbmlGTbrihZQvDFCb5fyAL093jSwtDlAkBaDLNLZ7e8aeC04lxU379agNMPrO3roCKqbLN14zpQU/Pwep4vNEkQ0lRC6GjS1i9vWqMkVKn58Ll+pT5JiiJOK5K9edRCI4NfvGH5MEvrkde/bP2yO82++YL/i4ui3/DkZG9RauibS+4VJt229YLCpJsm+3CE21jHsT4A5gX86XidDFw=;1JIxZA6xXds7OTXY9PmNAg=="
 ---

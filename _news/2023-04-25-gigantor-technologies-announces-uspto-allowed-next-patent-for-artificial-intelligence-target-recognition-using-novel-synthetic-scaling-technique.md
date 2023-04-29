@@ -2,11 +2,11 @@
 category: news
 title: "Gigantor Technologies Announces USPTO Allowed Next Patent for Artificial Intelligence Target Recognition using Novel Synthetic Scaling Technique"
 excerpt: "Gigantor Technologies, Inc. is already disrupting the market with artificial intelligence (AI) acceleration solutions. Today, it announced another patent allowed by the United States Patent and Trademark Office (USPTO) for its innovative technique,"
-publishedDateTime: 2023-04-25T14:13:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-gigantor-technologies-announces-uspto-allowed-next-patent-artificial-/2023/04/25/9801215.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-gigantor-technologies-announces-uspto-allowed-next-patent-artificial-/2023/04/25/9801215.htm"
+publishedDateTime: 2023-04-25T13:31:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/04/25/9801215.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/04/25/9801215.htm"
 type: article
-quality: 0
+quality: 2
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
+    width: 550
+    height: 353
+    isCached: true
 
 related:
   - title: "Technologies and innovations impacting travel and hospitality"
@@ -34,6 +40,6 @@ related:
         height: 450
         isCached: true
 
-secured: "emamE5T7rdNFhe2XyZZWdtK3604XY3pAc/Gwj5fbnlOA8q2fYTVoEB21ZfU9uwIw6iva87ab5+4+FIP7BkIhytuK0oZu+q5Tmf1oAr84uFIz6VAVBJ4FYhYlah6WhpzqFnD+idjMyJDAXqf/zCGvwyngBanZkzQAgtO/IwGTc7M/bTwl2FwqeYeHEGN+zvDUQCZ285JQYPEtSSxkixSeXmiliLiPuxGQYYn3yxsDEiSh3mwFTT8OtC2SQHyzqSTi7D+cyek7gwzxFA3PLA8biXIRGZS2sswI3hnaKJoBo0FQSsZuOgR1k+J4ZlouZBtZ9WBbz1P26/Rs40ZlzY5Ggvk7ueF5Kl7y2JVQputvGrA=;heAuoLFBO4DwFJ7XrO9Ahg=="
+secured: "RQ16La56BvS9pr03ztCm3UEy1fHavuUNJEK9cttgzFHqYCkThrzgrh5Y3+rsR0NL3YV31seQTSv7dOKE8kk6RfUdKZ9RUvmaWXYO/xr9QbDvzE2Rs0N+M3pXfCNrXhoTY2koEOoktAUx7ZowTUa7S3eGsy5+66oLeQM1bfjIJB4LVdxCvAl7VZGbXeb3UD827k/grEWT6Fh1/yOTRaBW7VNWv5r2/VNepKBHdXDP/AbssLyuAf29UZeQvO0ZY1OrzcSEcupm6lAqGiyeFn7m+ySAE+zB/mhMzHWHed7UFaurhY997E89YKkmIcX2vUzgjRqfndvpIhFh28OWWQkrG6WKa68WVipiUbN3WrvKbKU=;0sHujx4Ao/uqSdEQdAzacg=="
 ---
 

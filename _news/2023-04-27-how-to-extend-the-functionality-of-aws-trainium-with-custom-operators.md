@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/how-to-extend-the-fu
 webUrl: "https://aws.amazon.com/blogs/machine-learning/how-to-extend-the-functionality-of-aws-trainium-with-custom-operators/"
 type: article
 quality: 104
-heat: 104
+heat: 105
 published: true
 
 provider:

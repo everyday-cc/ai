@@ -6,7 +6,7 @@ publishedDateTime: 2023-04-29T04:30:00Z
 originalUrl: "https://analyticsindiamag.com/top-8-ai-chips-for-your-generative-ai-play/"
 webUrl: "https://analyticsindiamag.com/top-8-ai-chips-for-your-generative-ai-play/"
 type: article
-quality: 41
+quality: 58
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - Computer Vision
   - AI
   - AWS AI
+  - AI Hardware
 
 images:
   - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/04/unnamed-2.jpg"
@@ -153,6 +154,22 @@ related:
       - url: "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/04/25/reuters.jpg"
         width: 750
         height: 393
+        isCached: true
+  - title: "The rise of AI surveillance"
+    excerpt: "Internet companies track our clicks to divine our preferences for products, news articles or ads. The facial recognition company Clearview AI scrapes images off sites like Facebook and YouTube to train its model. Facebook recently announced it will begin ..."
+    publishedDateTime: 2023-04-28T12:59:00Z
+    webUrl: "https://www.politico.eu/article/the-rise-of-ai-surveillance-coronavirus-data-collection-tracking-facial-recognition-monitoring/"
+    ampWebUrl: "https://www.politico.eu/article/the-rise-of-ai-surveillance-coronavirus-data-collection-tracking-facial-recognition-monitoring/amp/"
+    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/the-rise-of-ai-surveillance-coronavirus-data-collection-tracking-facial-recognition-monitoring/amp/"
+    type: article
+    provider:
+      name: Politico Europe
+      domain: politico.eu
+    quality: 59
+    images:
+      - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2021/05/26/GettyImages-1168367645.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Generative AI Is Only as Good as the Prompt You Give It"
     excerpt: "It is ironic that much of the early conversation about ChatGPT had to do with the demise of writing skills when, in fact, the very success of generative-AI searches is determined by the quality of precisely written prompts."

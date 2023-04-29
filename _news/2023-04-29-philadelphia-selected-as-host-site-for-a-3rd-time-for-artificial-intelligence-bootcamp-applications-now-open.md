@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Philadelphia Selected as Host Site for a 3rd Time for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
-excerpt: "CSL Behring will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students at No-Cost for a 3 rd time in the Fall of 2023. The AI Bootcamp in Philadelphia will be targeted at underserved high school students (9th-12 th grade) and will introduce these high school students to basic AI concepts and skills."
-publishedDateTime: 2023-04-28T22:19:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/04/28/9804445.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/04/28/9804445.htm"
+title: "Philadelphia Selected as Host Site for a 3rd Time for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!"
+excerpt: "CSL Behring will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students at No-Cost for a 3rd time in the Fall of 2023. The AI"
+publishedDateTime: 2023-04-28T22:06:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/04/g32097200/philadelphia-selected-as-host-site-for-a-3rd-time-for-artificial-intelligence-bootcamp-application"
+webUrl: "https://www.benzinga.com/pressreleases/23/04/g32097200/philadelphia-selected-as-host-site-for-a-3rd-time-for-artificial-intelligence-bootcamp-application"
+ampWebUrl: "https://www.benzinga.com/amp/content/32097200"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32097200"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - AI in Robotics
+  - AI in Autos
   - AI
 
 images:
-  - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
-    width: 550
-    height: 353
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
 related:
@@ -171,6 +173,20 @@ related:
         width: 550
         height: 353
         isCached: true
+  - title: "Pontiac Selected as Host Site for a 2nd Time for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
+    excerpt: "United Wholesale Mortgage will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students at No-Cost for a 2 nd time in the Fall of 2023. The AI Bootcamp in Pontiac will be targeted at underserved high school students (9th-12 th grade) and will introduce these high school students to basic AI concepts and skills."
+    publishedDateTime: 2023-04-28T18:29:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/04/28/9804346.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 21
+    images:
+      - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
+        width: 550
+        height: 353
+        isCached: true
   - title: "Addison Selected as Host Site for a Fourth Time for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
     excerpt: "Headstorm will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students at no cost for a 4th time in the Fall of 2023. The AI Bootcamp in Addison will target underserved high school students (9th-12th grade) and will introduce these high school students to basic AI concepts and skills."
     publishedDateTime: 2023-04-28T20:03:00Z
@@ -246,6 +262,6 @@ related:
       domain: benzinga.com
     quality: 0
 
-secured: "Osd950qYLy2FEKugVLyKZeceKA1nRLURhIKIqgq8PjvCqewuTQ9VaLKf8wQtUFkqBdPnYm0XpVicC9o0CE32mnj1IGAyNOuGNOFG74nGYMAEhZjGvrrE2BGikczc1gij9NV4j/CN0p5b4WyD12wQiRrs+bPs9pFjhl2mECgUvOM4RnMae7y7ikk/iPENdSbf99kZOvDuK2Ut2k9J14UBdNw3MP4fUhF7i5gis08aFQ1eArN/cC0cQ6pPv05eh8iIof/6EivASyO3KCe0WNDiOTsJor0795IQjS4WEK3e+2K9nkaJ0mLt2vSUo4ZE77lZUV04t9CYNRDUe294t5oJIKtTRQjqkk/ckAFAaKO1zUo=;3sxpxHajhtT9Fcownjip2w=="
+secured: "zhRMpRS6c5UA/v8UvZTNjfm/LJfzAPxFj5mstEjxM8RuTFviCeyxVvkN2ji5rVdhKvNePO6sq8ul5Mv23cozqmvgyUcgEXMDso8W6HB1C3Qc0GR5p67tI4169duzbmNWR6uzXMv3XqzxMx/tLqYae2y7WA4fdcEZSwe9eAgA7l+6i/CLlBjuhHFa+GsnVwwzFjtazkZBbbZvHUXsfbxydmX+JnC/18iG7ufqtLOHdZp4EUBRKValv2/+YTH9kBWTPLhkKMnFBAhBJ62HEJ/+VYvuvs1cMcSVazNVdDQ9KsFQsBTOshdYf/77O58shE54sc7UmaK6hUEp5HLyM0GztXYOyZwVXOhXCQXlQbRbbvY=;ZCIYbz4xx5ITjSB5gVOZSg=="
 ---
 

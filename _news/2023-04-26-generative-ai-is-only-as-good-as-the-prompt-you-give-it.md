@@ -153,6 +153,22 @@ related:
         width: 750
         height: 393
         isCached: true
+  - title: "The rise of AI surveillance"
+    excerpt: "Internet companies track our clicks to divine our preferences for products, news articles or ads. The facial recognition company Clearview AI scrapes images off sites like Facebook and YouTube to train its model. Facebook recently announced it will begin ..."
+    publishedDateTime: 2023-04-28T12:59:00Z
+    webUrl: "https://www.politico.eu/article/the-rise-of-ai-surveillance-coronavirus-data-collection-tracking-facial-recognition-monitoring/"
+    ampWebUrl: "https://www.politico.eu/article/the-rise-of-ai-surveillance-coronavirus-data-collection-tracking-facial-recognition-monitoring/amp/"
+    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/the-rise-of-ai-surveillance-coronavirus-data-collection-tracking-facial-recognition-monitoring/amp/"
+    type: article
+    provider:
+      name: Politico Europe
+      domain: politico.eu
+    quality: 59
+    images:
+      - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2021/05/26/GettyImages-1168367645.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Top 8 AI Chips for Your Generative AI Play"
     excerpt: "The AI chip market is expected to grow at a CAGR of 51% and reach $73.49 billion by 2025. Semiconductor companies could capture 40-50% of the total market share. Companies such as Alphabet, Broadcom,"
     publishedDateTime: 2023-04-29T04:30:00Z
@@ -161,7 +177,7 @@ related:
     provider:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
-    quality: 41
+    quality: 58
     images:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/04/unnamed-2.jpg"
         width: 1920

@@ -25,38 +25,38 @@ images:
     isCached: true
 
 related:
-  - title: "How Students Use AI to Design Solutions for Their Community"
-    excerpt: "Youth voice is vital in the development and implementation of artificial intelligence (AI) tools. Youth today are significant users of technology and"
-    publishedDateTime: 2023-04-24T17:02:00Z
-    webUrl: "https://www.edsurge.com/news/2023-04-24-how-students-use-ai-to-design-solutions-for-their-community"
-    ampWebUrl: "https://www.edsurge.com/amp/news/2023-04-24-how-students-use-ai-to-design-solutions-for-their-community"
-    cdnAmpWebUrl: "https://www-edsurge-com.cdn.ampproject.org/c/s/www.edsurge.com/amp/news/2023-04-24-how-students-use-ai-to-design-solutions-for-their-community"
+  - title: "AI for STEM Education"
+    excerpt: "Enhance STEM education with resources and discussions that investigate the world of artificial intelligence, chatbots, and machine learning."
+    publishedDateTime: 2023-04-28T16:12:00Z
+    webUrl: "https://www.sciencefriday.com/articles/ai-for-stem-education/"
     type: article
     provider:
-      name: EdSurge
-      domain: edsurge.com
-    quality: 59
+      name: Science Friday
+      domain: sciencefriday.com
+    quality: 56
     images:
-      - url: "https://edsurge.imgix.net/uploads/post/image/15302/16smallcropped-1682083494.jpg?auto=compress%2Cformat&w=640&h=259&fit=crop"
-        width: 640
-        height: 259
+      - url: "https://www.sciencefriday.com/wp-content/uploads/2023/04/Copy-of-Getting-Started-with-AI-Instagram-Post-Square.png?w=400"
+        width: 400
+        height: 400
         isCached: true
-  - title: "Researchers use AI to generate novel proteins that meet structural design targets"
-    excerpt: "MIT researchers are using artificial intelligence to design new proteins that go beyond those found in nature.They developed machine-learning algorithms that can generate proteins with specific structural features,"
-    publishedDateTime: 2023-04-28T10:04:00Z
-    webUrl: "https://indiaeducationdiary.in/researchers-use-ai-to-generate-novel-proteins-that-meet-structural-design-targets/"
-    ampWebUrl: "https://indiaeducationdiary.in/researchers-use-ai-to-generate-novel-proteins-that-meet-structural-design-targets/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/researchers-use-ai-to-generate-novel-proteins-that-meet-structural-design-targets/"
+  - title: "The 7 Best Semiconductor Stocks for the AI Boom"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips With the world pivoting towards artificial intelligence, savvy investors are"
+    publishedDateTime: 2023-04-25T18:27:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-7-best-semiconductor-stocks-for-the-ai-boom-1032259713"
     type: article
     provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 54
-    images:
-      - url: "https://indiaeducationdiary.in/wp-content/uploads/2023/04/MIT-genprotein-01-press_1.jpg"
-        width: 900
-        height: 600
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "Britain Jumps On AI Bandwagon With $125M Taskforce For Education And Health Care"
+    excerpt: "Britain is investing around $125 million (or 100 pounds) into developing foundational models similar to the language models ChatGPT is known for."
+    publishedDateTime: 2023-04-24T19:21:00Z
+    webUrl: "https://news.crunchbase.com/ai-robotics/news-britain-investment-health-care-education/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 31
 
 secured: "PeT3FZFz79YnDvAztoa1vJ5AVdGNApniWSARVLc/lUQuuD1ASYY0P2sw5FanULgot6qr7ymLL0G9xdEtomuZVnM/+GGcPFSZt4J2skKury6QUCQI+/bVorNwi3EE7sIGcRQwvEatgU57AHC0LIdcLICP+RukA7YSGIF2zdzPdXvpbw+HN71FfRvDQNsEU0XHiG+eVO91XYq5ulQIU1M/G/QFjRNdaaXM+DZwfKBQA7dms6I8NtFn1qyDpLB5DttY7e2eV2fw5Hic4KM7l16UidbrOFqlDBTkoWtPxl/Tuy3r4K0CFPKMg+uHWSby+JkOtFpv9MzZZuePYWgS4FBPyCMvmvNFVQj03YjBk9q1Xuc=;toWNNpxV2moAOF+mrYyMuA=="
 ---

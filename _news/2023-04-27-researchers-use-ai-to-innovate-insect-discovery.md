@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers use AI to discover new planet outside solar system"
-    excerpt: "A University of Georgia research team has confirmed evidence of a previously unknown planet outside of our solar system, and they used machine learning tools to detect it."
-    publishedDateTime: 2023-04-24T16:53:00Z
-    webUrl: "https://phys.org/news/2023-04-ai-planet-solar.html"
-    ampWebUrl: "https://phys.org/news/2023-04-ai-planet-solar.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-04-ai-planet-solar.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/researchers-use-ai-to-1.jpg"
-        width: 1958
-        height: 1670
-        isCached: true
   - title: "Researchers use AI to explore potential zoonotic diseases"
     excerpt: "The COVID-19 pandemic highlighted the importance of closely monitoring viruses that could infect humans. In the early stages of the pandemic, Timothée Poisot and his colleagues were already developing an algorithm for predicting mammal-virus interactions."
     publishedDateTime: 2023-04-26T20:47:00Z

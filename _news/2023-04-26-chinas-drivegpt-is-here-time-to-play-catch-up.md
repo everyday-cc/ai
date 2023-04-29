@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "China’s DriveGPT Is Here. Time to Play Catch-Up"
-    excerpt: "Beijing’s regulation has put its autonomous-vehicle industry way ahead of competitors. Entry-level offerings won’t cut it any more."
-    publishedDateTime: 2023-04-24T16:04:00Z
-    webUrl: "https://www.washingtonpost.com/business/2023/04/24/autonomous-vehicles-tesla-needs-to-catch-up-with-china-s-drivegpt/30271504-e2e5-11ed-9696-8e874fd710b8_story.html"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 24
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/F6WSFUHC4UI63FUWR2DU7VYQXA.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Autonomous Vehicles: China’s DriveGPT is here, time for Tesla and co to play catch-up"
     excerpt: "Bolstered by Beijing’s blueprint for connected and intelligent cars, companies are operating robotaxis and working on advanced autonomous driving technologies, including high-definition maps, smart cockpits and so-called V2X,"
     publishedDateTime: 2023-04-25T05:15:00Z

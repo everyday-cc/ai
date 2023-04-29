@@ -46,20 +46,6 @@ related:
         width: 2400
         height: 1800
         isCached: true
-  - title: "Palo Alto Networks automates cybersecurity with machine learning"
-    excerpt: "Palo Alto Networks uses 3rd Gen Intel® Xeon® Scalable processors and Intel software in the cloud for its Cloud-Delivered Security Services to boost machine learning and inferencing performance."
-    publishedDateTime: 2023-04-24T15:58:00Z
-    webUrl: "https://www.infoworld.com/article/3693108/palo-alto-networks-automates-cybersecurity-with-machine-learning.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 71
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/04/istock-1294339697-100939579-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "AI Will Take Many Cybersecurity Jobs, But It's Not a Complete Disaster"
     excerpt: "AI will force some big changes in the cybersecurity job market, but Rohit Ghai, CEO of RSA Security, tells RSAC 2023 attendees that he's hopeful AI tools and human workers can coexist."
     publishedDateTime: 2023-04-26T16:04:00Z

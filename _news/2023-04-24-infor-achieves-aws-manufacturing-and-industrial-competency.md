@@ -1,18 +1,19 @@
 ---
 category: news
 title: "Infor Achieves AWS Manufacturing and Industrial Competency"
-excerpt: "Designation recognizes Infor for its expertise in providing services and software solutions for an end-to-end industrial manufacturing software toolchain. NEW YORK, April 24, 2023"
-publishedDateTime: 2023-04-24T15:32:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-infor-achieves-aws-manufacturing-industrial-competency-/2023/04/24/9800290.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-infor-achieves-aws-manufacturing-industrial-competency-/2023/04/24/9800290.htm"
+excerpt: "Designation recognizes Infor for its expertise in providing services and software solutions for an end-to-end industrial manufacturing software"
+publishedDateTime: 2023-04-24T14:21:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/infor-achieves-aws-manufacturing-and-industrial-competency-1032254536"
+webUrl: "https://markets.businessinsider.com/news/stocks/infor-achieves-aws-manufacturing-and-industrial-competency-1032254536"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
@@ -24,6 +25,6 @@ images:
     height: 400
     isCached: true
 
-secured: "brqIVU0fLvv2OxWDZoJzAvy4w3cpfBMhk0zsJ0wALyNpXCUSaUy225J4S4BDHfBf1pXkeeqGniCCbDJKppOkVBEndIoekXc1v2lACRaqDY3w6rgJZyH49GJF+H53XWskb4bBw9K9QNqJeFZn6ArRS4Yg52yxSLmxrRjeovIatRc/X5yXQZmTV+nbC79VEvWwqAib+V4wYHnp6HUNqvDQYnotKkfhmTLX5fbHFfUGEIS/DvSmA1n349BTYJfSH1VzTabnXbH++km2i+rb6z+z0M9Yg1kgjMhTHQ5N51kmGkElceFtNoRecOEZ0KEDv6XYfp5hkhxGMA1HdxkQCb+sJVd9/hRSP7YX+Rf4ep1HqEU=;X6Lx0l/PFrRIaHkjX2TbqQ=="
+secured: "ZyLPkigky0xCX7Aje0qkPcMHHUP+ZNKw3hzJu8NmCIrKCT5YCVgBRRnfyF2mIccM5AifE2eoBblJRCdNyzQ6M3vHoILDB+iJ92WFl1FLOZGJUv7TyLIc+Y19iU4EFkyTCfSgEYWziCOVMgbOnRnHM7KHfsybSoHIVyUa+ujZ9b1xDT0bth/BSyOwlRwB6b90MzoKvrRgd25mOw9gJkeZz/QfEFPbA2HxRSF6v9n1sZA/Aqr2auDcPLeps1XfrFGgqQyY813vbCurIAipxRczKYoymkpb37KBiwcUqvK/0gm2Vpj+ybABEXra+g9vMdRmMnBGBg2BZAToTbK9MkXLaFM7ZkTZgZC0KacqLuwGro4=;XvfYvHzNpKXknc404Fz1Sw=="
 ---
 
