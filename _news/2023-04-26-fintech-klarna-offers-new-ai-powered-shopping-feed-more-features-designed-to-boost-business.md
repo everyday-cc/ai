@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech firm Klarna overhauls its app with a TikTok-like discovery feed as A.I. hype swirls"
-    excerpt: "\"Buy now, pay later\" firm Klarna on Tuesday made some sweeping changes to its app, including a TikTok-inspired discovery feed that recommends products to users."
-    publishedDateTime: 2023-04-25T08:16:00Z
-    webUrl: "https://www.cnbc.com/2023/04/25/klarna-overhauls-app-with-tiktok-like-discovery-feed-amid-ai-buzz.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2023/04/25/klarna-overhauls-app-with-tiktok-like-discovery-feed-amid-ai-buzz.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/04/25/klarna-overhauls-app-with-tiktok-like-discovery-feed-amid-ai-buzz.html"
+  - title: "Klarna positions itself as more than BNPL with suite of AI-powered tools"
+    excerpt: "AI-powered tools and creator-focused features took centre stage at Klarna’s product update. Image source: Klarna. For a while now, Swedish fintech Klarna has been positioning itself as a “retail bank,"
+    publishedDateTime: 2023-04-25T10:04:00Z
+    webUrl: "https://www.altfi.com/article/10646_klarna-positions-itself-as-more-than-bnpl-with-suite-of-ai-powered-tools"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 64
+      name: altfi
+      domain: altfi.com
+    quality: 38
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106899369-1624005205026-gettyimages-1233462474-RAFAPRESS_10062021-9285.jpeg?v=1682417162"
-        width: 5000
-        height: 3333
+      - url: "https://www.altfi.com/images/featured/klarna-positions-itself-as-more-than-bnpl-with-suite-of-ai-powered-tools.jpg"
+        width: 1200
+        height: 720
         isCached: true
 
 secured: "KF5Hj7H+oLlomkqEplNyc19P+scI4Qu8W70M7ESnFD9e3bbb3/ujWscJPeqy69fU03PGHzhY4LqSGgmin7Bh/ePSglY69obQlbF5kHJYvT3/ZNmbp6SR/78Vg+aKmShGqEXJ9Re+IgCnhjI0kopWvp25rkVkz1ein01Vj+hIKkz3BSRWdJxeAXtfqYjhEmIdBfwslV5aca7Ab/5TYyccoLBMrB1hLCIzzXtKUAbXfFTuPF367hYiM+yiUY+K1s2+afr5znmiZSie0iQnxtOVX2MRqCwPv4DPwjqRJe3Ix7oMPgVDpQngoBAl8weMkgxIDyaGOrS11MjvHnMuqnNZJ/H9GFSbCyvJUmvOfNhJvAHV8TZx37RupxfVkui6EPFMv4FROEd5B8vTqZzZvhiRSrBONWBwYNlJ87WTFFt2bzQcTaRqvusHEvQg20RUCimGBNjEIoUgTlWqGaAA7C3BSCa9CDbzs/zP/beNXw8K5tORxJuthitISpYPYndXv8/2aOkpKabol7wqd1GyDu3UBA==;zbTiDKYN7S0R4rKG6bZKng=="

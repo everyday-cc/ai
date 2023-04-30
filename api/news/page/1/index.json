@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-04-30-promises-perils-and-predictions-for-artificial-intelligence-in-medicine-a-radiologists-perspective.md",
+      "title": "Promises, Perils, And Predictions For Artificial Intelligence In Medicine: A Radiologist’s Perspective",
+      "excerpt": "In my own field of radiology, AI will be used to enhance (but not yet replace) human radiologists making diagnoses from medical images. There are already FDA-approved AI algorithms to detect subtle internal bleeding within the brain or potentially fatal blood clots (“pulmonary embolism”) within the arteries of the lung.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/paulhsieh/2023/04/29/promises-perils-and-predictions-for-artificial-intelligence-in-medicine-a-radiologists-perspective/",
+      "originalUrl": "https://www.forbes.com/sites/paulhsieh/2023/04/29/promises-perils-and-predictions-for-artificial-intelligence-in-medicine-a-radiologists-perspective/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/644dab252763341cef0d1575/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/paulhsieh/2023/04/29/promises-perils-and-predictions-for-artificial-intelligence-in-medicine-a-radiologists-perspective/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulhsieh/2023/04/29/promises-perils-and-predictions-for-artificial-intelligence-in-medicine-a-radiologists-perspective/amp/",
+      "publishedDateTime": "2023-04-29T16:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-30-artificial-intelligence-not-only-amplifies-bias-but-fights-it-as-well.md",
       "title": "Artificial Intelligence Not Only Amplifies Bias, But Fights It As Well",
       "excerpt": "AI bias actually lies in the real world, human society, or the system that can be exposed through the use of AI.'",
@@ -834,7 +885,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-market-projection-and-growth-drivers-2023-2028-2023-04-28",
       "featuredContent": null,
       "highlight": null,
-      "heat": 256,
+      "heat": 246,
       "tags": null,
       "images": [
         {
@@ -940,7 +991,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/28/making-the-most-out-of-generative-ai-in-your-enterprise/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 249,
+      "heat": 239,
       "tags": null,
       "images": [
         {
@@ -1163,49 +1214,6 @@
         "AI in Finance",
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-new-electric-car-offers-worlds-first-facial-recognition-and-fingerprint-technology.md",
-      "title": "New electric car offers world's first facial recognition and fingerprint technology",
-      "excerpt": "The world's first application of facial recognition technology has been unveiled, with one electric car removing the need for a key altogether.",
-      "sourceUrl": null,
-      "webUrl": "https://www.express.co.uk/life-style/cars/1763884/electric-car-facial-recognition-genesis",
-      "originalUrl": "https://www.express.co.uk/life-style/cars/1763884/electric-car-facial-recognition-genesis",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.images.express.co.uk/img/dynamic/24/590x/secondary/electric-car-facial-recognition-genesis-4718602.jpg?r=1682671687005",
-          "width": 590,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.express.co.uk/life-style/cars/1763884/electric-car-facial-recognition-genesis/amp",
-      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/cars/1763884/electric-car-facial-recognition-genesis/amp",
-      "publishedDateTime": "2023-04-28T01:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Express",
-        "domain": "express.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

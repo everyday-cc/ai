@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/28/making-the
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/28/making-the-most-out-of-generative-ai-in-your-enterprise/amp/"
 type: article
 quality: 89
-heat: 249
+heat: 239
 published: true
 
 provider:
@@ -126,22 +126,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1169246375-e1682431460287.jpg?w=1200&strip=all"
         width: 1200
         height: 652
-        isCached: true
-  - title: "In the age of AI, empathy could help save your job"
-    excerpt: "Unpacking “hidden needs” requires empathy, a process whereby a human person recognises and acknowledges the feeling and emotions (e.g. the tragedy one went through, the happiness they experience) of other human persons."
-    publishedDateTime: 2023-04-25T08:55:00Z
-    webUrl: "https://www.thedailystar.net/opinion/views/news/the-age-ai-empathy-could-help-save-your-job-3304076"
-    ampWebUrl: "https://www.thedailystar.net/opinion/views/news/the-age-ai-empathy-could-help-save-your-job-3304076?amp"
-    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/opinion/views/news/the-age-ai-empathy-could-help-save-your-job-3304076?amp"
-    type: article
-    provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 59
-    images:
-      - url: "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/04/25/reuters.jpg"
-        width: 750
-        height: 393
         isCached: true
   - title: "The rise of AI surveillance"
     excerpt: "Internet companies track our clicks to divine our preferences for products, news articles or ads. The facial recognition company Clearview AI scrapes images off sites like Facebook and YouTube to train its model. Facebook recently announced it will begin ..."

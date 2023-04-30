@@ -2,6 +2,161 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2023-04-19-microsoft-reportedly-developing-its-own-ai-chip-named-athena.md",
+      "title": "Microsoft reportedly developing its own AI chip named ‘Athena’",
+      "excerpt": "Microsoft Corp. is reportedly forging ahead with efforts to develop its own chips optimized for artificial intelligence in a bid to reduce costs for training generative AI models such as those powering OpenAI LP’s ChatGPT chatbot.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2023/04/18/microsoft-reportedly-developing-ai-chip-named-athena/",
+      "originalUrl": "https://siliconangle.com/2023/04/18/microsoft-reportedly-developing-ai-chip-named-athena/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/10/microsoft.png",
+          "width": 1152,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-19T06:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-19-im-a-victim-of-flawed-facial-recognition-technology-this-ca-bill-must-be-stopped-opinion.md",
+      "title": "I’m a victim of flawed facial recognition technology. This CA bill must be stopped | Opinion",
+      "excerpt": "A demonstration of facial recognition technology from the artificial intelligence company SenseTime in Shanghai, on April 17, 2018. In a major ethical leap for the tech world, Chinese start-ups ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sacbee.com/opinion/op-ed/article273692965.html",
+      "originalUrl": "https://www.sacbee.com/opinion/op-ed/article273692965.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-19T06:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sacramento Bee",
+        "domain": "sacbee.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-19-dangpt-a-blockchain-based-ai-language-model-that-pushes-the-boundaries-of-artificial-intelligence.md",
+      "title": "DanGPT: A Blockchain-based AI-Language Model That Pushes the Boundaries of Artificial Intelligence",
+      "excerpt": "DanGPT, the daring twin of ChatGPT, has arrived to shatter the boundaries of artificial intelligence. With its cutting-edge technology, DanGPT offers an uncensored and unfiltered chatbot experience that pushes the limits of what AI can do.",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2023/04/19/9797605.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/04/19/9797605.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://api.blockchainwire.io/uploads/Etkaan/editor_image/ecc5c1da-28c9-4580-8166-fb70d8dc582c.jpeg",
+          "width": 1500,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-19T06:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-19-salience-labs-appoints-former-imagination-technologies-cpo-to-lead-productization-of-multi-chip-photonics-processor-for-ai.md",
+      "title": "Salience Labs appoints former Imagination Technologies CPO to lead productization of multi-chip photonics processor for AI",
+      "excerpt": "At Imagination Technologies, Chris delivered the annual 5-year strategy and business plan and the roadmap of GPU, AI and CPU products licensed to mobile, consumer, data centre and automotive ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/business-wire/20230419005519/salience-labs-appoints-former-imagination-technologies-cpo-to-lead-productization-of-multi-chip-photonics-processor-for-ai",
+      "originalUrl": "https://www.morningstar.com/news/business-wire/20230419005519/salience-labs-appoints-former-imagination-technologies-cpo-to-lead-productization-of-multi-chip-photonics-processor-for-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-19T05:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-19-artificial-intelligence-ai-chips-market-2023-key-findings-throughout-globally-by-2030.md",
       "title": "Artificial intelligence (AI) Chips Market [2023] | Key Findings Throughout Globally by 2030",
       "excerpt": "GlobalArtificial intelligence (AI) Chips Market[2023-2030] research report is a compilation of information and",
@@ -962,188 +1117,6 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-aws-vice-president-bratin-saha-on-the-bedrock-generative-ai-tools.md",
-      "title": "AWS Vice President Bratin Saha on the Bedrock Generative AI Tools",
-      "excerpt": "Bratin Saha, Vice President, AI & Machine Learning at AWS, details Amazon’s new initiative in generative AI, and also discusses current and future trends in artificial intelligence. I spoke with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/artificial-intelligence/aws-bedrock-generative-ai-tools/",
-      "originalUrl": "https://www.eweek.com/artificial-intelligence/aws-bedrock-generative-ai-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2023/04/New-eSPEAKS-thumbnail.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-18T16:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-is-artificial-intelligence-your-friend.md",
-      "title": "Is artificial intelligence your friend?",
-      "excerpt": "President Joe Biden’s administration wants stronger measures to test the safety of artificial intelligence tools such as ChatGPT before they are publicly released, though it hasn’t decided if the government will have a role in doing the vetting.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thegazette.com/guest-columnists/is-artificial-intelligence-your-friend/",
-      "originalUrl": "https://www.thegazette.com/guest-columnists/is-artificial-intelligence-your-friend/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imengine.public.prod.cdr.navigacloud.com/?uuid=42c3d89e-0794-53ca-90e1-a8dad1ca8e09&type=preview&q=75&width=1200&height=800",
-          "width": 1199,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thegazette.com/guest-columnists/is-artificial-intelligence-your-friend/?amp=1",
-      "cdnAmpWebUrl": "https://www-thegazette-com.cdn.ampproject.org/c/s/www.thegazette.com/guest-columnists/is-artificial-intelligence-your-friend/?amp=1",
-      "publishedDateTime": "2023-04-18T16:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Gazette",
-        "domain": "thegazette.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-microsoft-is-developing-its-own-ai-chip-report.md",
-      "title": "Microsoft is developing its own AI chip: Report",
-      "excerpt": "Athena will power the technology between AI chatbots like the OpenAI phenomenon ChatGPT. Microsoft has been working on the chip since 2019, the report said. TWO-THIRDS OF US JOB COULD BE EXPOSED ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxbusiness.com/technology/microsoft-developing-own-ai-chip",
-      "originalUrl": "https://www.foxbusiness.com/technology/microsoft-developing-own-ai-chip",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/559e38cf-f42e-4b44-91a4-b10841e1e2c7/9b06f272-00c6-4617-b719-12761a6e7990/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxbusiness.com/technology/microsoft-developing-own-ai-chip.amp",
-      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/microsoft-developing-own-ai-chip.amp",
-      "publishedDateTime": "2023-04-18T15:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox Business",
-        "domain": "foxbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-ibm-takes-a-pragmatic-approach-to-enterprise-ai.md",
-      "title": "IBM takes a pragmatic approach to enterprise AI",
-      "excerpt": "IBM’s 12-year old Watson includes an Embeddable AI portfolio and is a core part of the IBM AI strategy. According to a recent NASDAQ report, “IBM’s Watson has evolved and is deployed for many business use cases. It’s being applied for customer ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reseller.co.nz/article/706733/ibm-takes-pragmatic-approach-enterprise-ai/",
-      "originalUrl": "https://www.reseller.co.nz/article/706733/ibm-takes-pragmatic-approach-enterprise-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/artificial-intelligence-machine-learning-and-modern-computer-and-picture-id1209989402-100903158-large-100912674-orig-100935023-orig_3.jpgautowebp8570",
-          "width": 472,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-18T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reseller News",
-        "domain": "reseller.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

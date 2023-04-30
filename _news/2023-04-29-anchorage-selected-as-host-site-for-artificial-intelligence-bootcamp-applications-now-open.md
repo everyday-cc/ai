@@ -79,7 +79,7 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 28
+    quality: 30
     images:
       - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
         width: 550

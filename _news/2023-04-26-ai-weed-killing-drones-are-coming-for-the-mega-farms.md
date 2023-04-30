@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence (AI) scams using voice cloning are the new frontier for fraudsters targeting consumers"
+    excerpt: "Imagine receiving a call, email or SMS from the authorities urgently requesting payment. The details of the request are clear, professional and include personal information unique to you, so there is no reason to doubt it."
+    publishedDateTime: 2023-04-29T22:19:00Z
+    webUrl: "https://pctechmag.com/2023/04/artificial-intelligence-ai-scams-using-voice-cloning-are-the-new-frontier-for-fraudsters-targeting-consumers/"
+    type: article
+    provider:
+      name: PC Tech Magazine
+      domain: pctechmag.com
+    quality: 34
+    images:
+      - url: "https://pctechmag.com/wp-content/uploads/2023/04/new.jpg"
+        width: 2000
+        height: 1302
+        isCached: true
   - title: "Something for the weekend: the inside track on AI horse betting"
     excerpt: "With horseracing season upon us, writer Oliver Roeder tells FT Edit about his mindbending trip into the secretive world of the punters who use AI to bet billions on the big races."
     publishedDateTime: 2023-04-29T04:00:00Z

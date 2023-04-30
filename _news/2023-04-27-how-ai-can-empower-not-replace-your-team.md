@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/27/how-ai-can
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/27/how-ai-can-empower-not-replace-your-team/amp/"
 type: article
 quality: 87
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -73,15 +73,6 @@ related:
       name: The Jewish Exponent
       domain: jewishexponent.com
     quality: 19
-  - title: "How to Use AI to Find Your Next Hire"
-    excerpt: "ChatGpt and AI are amazing tools for your business, but they aren't without flaws. Spend a few minutes conversing with the interface and you will quickly learn that while it is a wealth of knowledge,"
-    publishedDateTime: 2023-04-25T08:43:00Z
-    webUrl: "https://www.inc.com/david-finkel/how-to-use-ai-to-find-your-next-hire.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 17
   - title: "These wild AI-powered glasses can read your own lips"
     excerpt: "A team of scientists at Cornell's SciFi lab has developed a pair of glasses that can read your very own lips, without you having to utter a single sound."
     publishedDateTime: 2023-04-26T04:08:00Z

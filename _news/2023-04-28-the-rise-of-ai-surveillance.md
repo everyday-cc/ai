@@ -139,22 +139,6 @@ related:
         width: 1200
         height: 652
         isCached: true
-  - title: "In the age of AI, empathy could help save your job"
-    excerpt: "Unpacking “hidden needs” requires empathy, a process whereby a human person recognises and acknowledges the feeling and emotions (e.g. the tragedy one went through, the happiness they experience) of other human persons."
-    publishedDateTime: 2023-04-25T08:55:00Z
-    webUrl: "https://www.thedailystar.net/opinion/views/news/the-age-ai-empathy-could-help-save-your-job-3304076"
-    ampWebUrl: "https://www.thedailystar.net/opinion/views/news/the-age-ai-empathy-could-help-save-your-job-3304076?amp"
-    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/opinion/views/news/the-age-ai-empathy-could-help-save-your-job-3304076?amp"
-    type: article
-    provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 59
-    images:
-      - url: "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/04/25/reuters.jpg"
-        width: 750
-        height: 393
-        isCached: true
   - title: "Top 8 AI Chips for Your Generative AI Play"
     excerpt: "The AI chip market is expected to grow at a CAGR of 51% and reach $73.49 billion by 2025. Semiconductor companies could capture 40-50% of the total market share. Companies such as Alphabet, Broadcom,"
     publishedDateTime: 2023-04-29T04:30:00Z

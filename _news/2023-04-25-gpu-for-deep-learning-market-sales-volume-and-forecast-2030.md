@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/gpu-for-deep-learning-ma
 webUrl: "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-sales-volume-and-forecast-2030-2023-04-25"
 type: article
 quality: 103
-heat: 263
+heat: 253
 published: true
 
 provider:
@@ -82,20 +82,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 80
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Deep Learning Chip Market Size, Share, Key Players, Revenue, Demand, and Forecast 2031"
-    excerpt: "Deep Learning Chip Market [ NEW REPORT 2023] offers a whole overview of the present-day market kingdom of affairs and affords a forecast until 2031. This report provides a balanced mix of qualitative and quantitative data that highlights imperative market developments,"
-    publishedDateTime: 2023-04-25T08:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chip-market-size-share-key-players-revenue-demand-and-forecast-2031-2023-04-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 78
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

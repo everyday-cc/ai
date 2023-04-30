@@ -306,6 +306,58 @@
       ]
     },
     {
+      "path": "_news/2023-04-25-big-tech-cuts-ai-ethics-teams-even-as-development-ramps-up.md",
+      "title": "Big Tech cuts AI ethics teams even as development ramps up",
+      "excerpt": "At the same time that tech behemoths are accelerating the development of AI products, perhaps the most important guardrail — ethics teams intended to oversee artificial-intelligence development ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/big-tech-cuts-ai-ethics-teams-even-as-development-ramps-up-3129fb60",
+      "originalUrl": "https://www.marketwatch.com/story/big-tech-cuts-ai-ethics-teams-even-as-development-ramps-up-3129fb60",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-768176/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/big-tech-cuts-ai-ethics-teams-even-as-development-ramps-up-3129fb60",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/big-tech-cuts-ai-ethics-teams-even-as-development-ramps-up-3129fb60",
+      "publishedDateTime": "2023-04-25T01:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-25-ai-for-security-is-here-now-we-need-security-for-ai.md",
       "title": "AI for security is here. Now we need security for AI",
       "excerpt": "As the mass adoption and application of AI are fairly new, the security of AI is not yet well understood. Why we must change that — now.",
@@ -1387,59 +1439,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-31-an-ai-researcher-who-has-been-warning-about-the-technology-for-over-20-years-says-we-should-shut-it-all-down.md",
-      "title": "An AI researcher who has been warning about the technology for over 20 years says we should 'shut it all down'",
-      "excerpt": "previously told Insider that tech firms are locked in a \"competitive arms race environment\" in an effort to be seen as \"first movers,\" which may result in concerns around ethics and safety in AI being overlooked. Even Altman has acknowledged fears around ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-researcher-issued-warning-about-technology-shut-it-all-down-2023-3",
-      "originalUrl": "https://www.businessinsider.com/ai-researcher-issued-warning-about-technology-shut-it-all-down-2023-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64269c90ed593e00183f605f?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ai-researcher-issued-warning-about-technology-shut-it-all-down-2023-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-researcher-issued-warning-about-technology-shut-it-all-down-2023-3?amp",
-      "publishedDateTime": "2023-03-31T04:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

@@ -58,24 +58,24 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Anchorage Selected as Host Site for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
-    excerpt: "The Odom Corporation will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students at No-Cost for a 2 nd time in the Fall of 2023. The AI Bootcamp in Anchorage will be targeted at underserved high school students (9th-12 th grade) and will introduce these high school students to basic AI concepts and skills."
-    publishedDateTime: 2023-04-28T22:38:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/04/28/9804448.htm"
+  - title: "St. Louis Selected as Host Site for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
+    excerpt: "Perficient will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students at No-Cost for a 3 rd time in the Fall of 2023. The AI Bootcamp in St. Louis will be targeted at underserved high school students (9th-12 th grade) and will introduce these high school students to basic AI concepts and skills."
+    publishedDateTime: 2023-04-28T19:00:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/04/28/9804357.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 28
+    quality: 30
     images:
       - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
         width: 550
         height: 353
         isCached: true
-  - title: "St. Louis Selected as Host Site for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
-    excerpt: "Perficient will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students at No-Cost for a 3 rd time in the Fall of 2023. The AI Bootcamp in St. Louis will be targeted at underserved high school students (9th-12 th grade) and will introduce these high school students to basic AI concepts and skills."
-    publishedDateTime: 2023-04-28T19:00:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/04/28/9804357.htm"
+  - title: "Anchorage Selected as Host Site for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
+    excerpt: "The Odom Corporation will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students at No-Cost for a 2 nd time in the Fall of 2023. The AI Bootcamp in Anchorage will be targeted at underserved high school students (9th-12 th grade) and will introduce these high school students to basic AI concepts and skills."
+    publishedDateTime: 2023-04-28T22:38:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/04/28/9804448.htm"
     type: article
     provider:
       name: TMCnet
