@@ -3,8 +3,8 @@ category: news
 title: "Back from the Dead, IBM’s Watson AI is Alive and Re-Emerging"
 excerpt: "While Warson Health is in the rearview mirror, Watson AI continues to improve. In it’s Q4 2022 earnings report, IBM CEO Arvind Krishna commented. “Clients in all geographies increasingly ..."
 publishedDateTime: 2023-04-10T00:00:00Z
-originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/GM-N/pressreleases/15879633/back-from-the-dead-ibms-watson-ai-is-alive-and-re-emerging/"
-webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/GM-N/pressreleases/15879633/back-from-the-dead-ibms-watson-ai-is-alive-and-re-emerging/"
+originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/IBM-N/pressreleases/15879633/back-from-the-dead-ibms-watson-ai-is-alive-and-re-emerging/"
+webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/IBM-N/pressreleases/15879633/back-from-the-dead-ibms-watson-ai-is-alive-and-re-emerging/"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 667
     isCached: true
 
-secured: "WcNCn2cHkDmEbAoCgmrP6+wrwYBJEevLzZ3yWMp0cetnRe1fpITTtCjKnEmrtvJ7qQFReE6OYBmA8hhzhb3OZJGRiFnBYgyWUG+gSDBe3XqoHWfIFUGUyKNvILOkox/z17mMhpwHDHHgMSLlFSV0eTxKzdekELxs9OYiJGZAC8FX3J6P4rO4pTUSUBzdTY4LMtYCSWEjC1gliEpSpmKjSszEDSNkIbvn4+aA5kxrGbvIL4oDq3sEpof0ok5HJFSd4DZ+c6oMucG+yxWNVobZAzel7sAs495yoC4A/0ex5/zgzulRAnQ1cLhe7EIjTlmbtxW7mBlFwaGI2bTXy513Dl9+25elAxpN0xXSRInhbnM=;3xox7it6pG5QEiTdU4yA0w=="
+secured: "U1srUvnxamEaBlEuzP1zEQc2e72A+ptrU6+9W2yJebJb7VAAn891MVPEats4RTLBiMbL5DMF+87Hk0l17xHPX9WqKcNUIDI/B4Gxlg0cR4JseP9/AQHZgH+7PLwOA7BF7gkvkgHKlYk0OFsAMAIAE5okP8gbV0KDUtnSz0c0H/iOkLfvnOI8NwOPCO4WUe3YTvJ8TIKuag9hAoQtEw+V3fY3ta9pfYIq4gdy3LeqLOL46cBUYYRRkXrEvV+v4ixKFvMV0QcYi0XSL2OWc7GwEUE5t8iu9cf+0xeLcXGFiShxXn79+4iipeip6AHOSksV5WhzaRogNE/fxScTBMdPvyuZ1PiynWl1xpMAzSUPqms=;FmPHcvWGprDwg3byaBX42A=="
 ---
 

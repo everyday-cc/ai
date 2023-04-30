@@ -128,6 +128,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "UAE Government launches 'Generative AI' guide to facilitate adoption of AI technology"
+    excerpt: "The “Generative AI” guide serves as a valuable resource for government entities, enabling them to leverage the benefits of AI"
+    publishedDateTime: 2023-04-30T11:26:00Z
+    webUrl: "https://www.zawya.com/en/world/middle-east/uae-government-launches-generative-ai-guide-to-facilitate-adoption-of-ai-technology-s26snsak"
+    ampWebUrl: "https://www.zawya.com/en/world/middle-east/uae-government-launches-generative-ai-guide-to-facilitate-adoption-of-ai-technology-s26snsak?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/world/middle-east/uae-government-launches-generative-ai-guide-to-facilitate-adoption-of-ai-technology-s26snsak?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 52
+    images:
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/M2M5YWFiM2QtMjIxNS00/17/180516221659emso-jpg.jpeg?f=3%3A2"
+        width: 724
+        height: 482
+        isCached: true
   - title: "Generative AI Is Only as Good as the Prompt You Give It"
     excerpt: "It is ironic that much of the early conversation about ChatGPT had to do with the demise of writing skills when, in fact, the very success of generative-AI searches is determined by the quality of precisely written prompts."
     publishedDateTime: 2023-04-26T05:42:00Z
@@ -160,6 +176,22 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 36
+  - title: "UAE Government launches the “Generative AI” Guide to facilitate the adoption of AI technology across vital industries"
+    excerpt: "The “Generative AI” guide serves as a valuable resource for government entities, enabling them to leverage the benefits of AI technologies and enhance its implementation across various fields. Commenting on the launch,"
+    publishedDateTime: 2023-04-30T11:45:00Z
+    webUrl: "https://www.zawya.com/en/press-release/government-news/uae-government-launches-the-generative-ai-guide-to-facilitate-the-adoption-of-ai-technology-across-vital-industries-r5v4skkw"
+    ampWebUrl: "https://www.zawya.com/en/press-release/government-news/uae-government-launches-the-generative-ai-guide-to-facilitate-the-adoption-of-ai-technology-across-vital-industries-r5v4skkw?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/government-news/uae-government-launches-the-generative-ai-guide-to-facilitate-the-adoption-of-ai-technology-across-vital-industries-r5v4skkw?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 36
+    images:
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/YWM4MDI3MDEtMDIzMC00/1/1-jpg.jpeg?f=3%3A2"
+        width: 900
+        height: 600
+        isCached: true
   - title: "The PR Council Issues Guidelines On Ethical Use Of Generative AI"
     excerpt: "PRC issues detailed, actionable guidelines on the use of generative AI tools based on their longstanding Code of Ethics and Principles.<"
     publishedDateTime: 2023-04-26T19:24:00Z

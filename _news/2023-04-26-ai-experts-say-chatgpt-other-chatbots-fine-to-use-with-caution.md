@@ -533,15 +533,6 @@ related:
         width: 2048
         height: 1360
         isCached: true
-  - title: "How ChatGPT and other advanced AI tools are helping secure the software supply chain"
-    excerpt: "AI tools like ChatGPT are improving intelligence gathering and detection and patching of vulnerabilities in the software supply chain."
-    publishedDateTime: 2023-04-25T18:05:00Z
-    webUrl: "https://venturebeat.com/security/how-chatgpt-other-advanced-ai-tools-helping-secure-software-supply-chain/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 42
   - title: "Microsoft Previews Defender for APIs in Defender for Cloud"
     excerpt: "Microsoft this week introduced a preview of a new 'Microsoft Defender for APIs' security solution, which is part of the Microsoft Defender for Cloud service."
     publishedDateTime: 2023-04-25T23:33:00Z

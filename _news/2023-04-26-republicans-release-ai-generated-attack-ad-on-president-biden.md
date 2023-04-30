@@ -40,15 +40,6 @@ related:
         width: 800
         height: 362
         isCached: true
-  - title: "GOP Releases First Ever AI-Created Attack Ad Against President Biden"
-    excerpt: "The Republican Party has released a new ad attacking President Joe Biden. And the ad might be a new milestone for political campaigns. It’s the first to use images created exclusively with artificial intelligence technology."
-    publishedDateTime: 2023-04-25T19:01:00Z
-    webUrl: "https://www.forbes.com/sites/mattnovak/2023/04/25/gop-releases-first-ever-ai-created-attack-ad-against-president-biden/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Republicans responded to Biden’s announcement with an AI-generated ad"
     excerpt: "The images show a few telltale signs that they’re faked, like a campaign sign with the wrong logo and a close-up shot of Biden that looks unnatural"
     publishedDateTime: 2023-04-28T16:10:00Z

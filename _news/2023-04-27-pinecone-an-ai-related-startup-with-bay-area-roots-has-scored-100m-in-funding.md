@@ -66,15 +66,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 17
-  - title: "AI developer platform raises nearly $100M, ups valuation to more than $1 billion"
-    excerpt: "A generative AI coding platform for developers has doubled its funding in a Series B extension that pushed the San Francisco startup's valuation past $1 billion. Replit announced on Tuesday that it raised $94."
-    publishedDateTime: 2023-04-25T18:01:00Z
-    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/fundings/2023/04/25/replit-generative-ai-developer-tools-new-funding.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 14
 
 secured: "6Ny2rkV/tBKs1gWavzOj4jj0wM6yX+5iGN3Hv6Rod/ANBTEoQ1u6gWTfSAOG6vfuXvGsRW52KzJZcH1m0qPPr3KUnckFRKztu+Xd3QOgcZtAxW4+kN7CoWHItd6Cq2jcQYjYPo/ME/YBheXe/Ec1viiplfPPY5Ou2mnna6X4RJ42JGAGffIi1Jk5l8uWhw/tSXbixMUEhLTgEqEaxMX8/YCrdgzpMBuTzw0t8Nq35y2eUw0qCxWViapQ/eVetKIG7xxyP6e4H0OOzuByHWuJwMqWrAoxLHX+o+uGiZPPA0OTlSMULfz7br+TdKavQUWPaXr1MZ73r6g4NqEoQh5qLW/nhRLAsw3w5yTu43DJ/1Kw5yKGeZPnywq5fkp1NMy130+XAxgDtWYk2JM8/RlLHjFrfue8wCRraLLlvC531S9Kzlc/qHUHlqXJttPOepZqXPPwCouH88vsRuTi8m7s5jNpg+KRiYDb4G6HsihVwo51I+0OABywKckRtgnRB+3/aNBiOC0NjJC9oZn9MnZbjw==;jEXEbLmvMZTKr5217w1AqA=="
 ---

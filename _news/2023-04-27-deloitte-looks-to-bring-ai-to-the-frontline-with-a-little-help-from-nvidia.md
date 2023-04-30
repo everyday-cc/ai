@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/deloitte-looks-to-bring-ai-to-the-frontli
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/deloitte-looks-to-bring-ai-to-the-frontline-with-a-little-help-from-nvidia/amp/"
 type: article
 quality: 85
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 620
         height: 467
         isCached: true
-  - title: "Deloitte teams with NVIDIA on artificial intelligence platform for logistics and retail"
-    excerpt: "Consulting firm Deloitte today launched a suite of artificial intelligence (AI) tools for logistics and retail businesses, saying they can help users to enhance customer experiences, optimize operations,"
-    publishedDateTime: 2023-04-25T17:40:00Z
-    webUrl: "https://www.dcvelocity.com/articles/57292-deloitte-teams-with-nvidia-on-artificial-intelligence-platform-for-logistics-and-retail"
-    type: article
-    provider:
-      name: DC Velocity
-      domain: dcvelocity.com
-    quality: 24
 
 secured: "aknH6CnxPUe/bg1ZozBGCybYGQfu3gG4wYdNuylAfeiYe3nIcZbPsrX7C7WAP6cpVDh4c+oS6peK5RXHbxSmufdrY9rxGA20oZA5zy4NVYJFM9esp5vAHJqfhLt4a4LxPku4WZnbN6UIB08LACGLHL4n8Z3DriEbK5X+87nTI46zd3cEtSW5ltaA3MnbWEl1hYuLOMUdaZ+KweTERkD10sG2tXTniejFWKVa3cLMX5O6VD5aLRc9N8cE/ANgbcce7OHbGxrn4o733L0yQyS+KZAzyB0DqecL6cwLv1phkg5soeyHasQSZGZRxF1J70Bfq89xuFORfeS94DOfZbWc1M9J48UrDUh2JD1AzlCrPP9CrXOzRDP7PoI/JM70aEkvmL3yYeAFJhlgugAt9hIjMaPUctgT11ScZQr4maKaSjuCuc3rjv5bCeX6IUeJ4FtskRRm6MTPMvwP2gfQhOpxfWMk8fPUr8ecrrrL93dAvQuSjueIGDs6exZgpV6waVfIfGo7zyu13E/vCQSSBiTdug==;PUCbNHOn2DeEvqV204EMFw=="
 ---

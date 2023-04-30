@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/ai-startup-pinecone-raises-100-million-as
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-startup-pinecone-raises-100-million-as-vector-database-market-for-llms-heats-up/amp/"
 type: article
 quality: 81
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -62,15 +62,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 17
-  - title: "AI developer platform raises nearly $100M, ups valuation to more than $1 billion"
-    excerpt: "A generative AI coding platform for developers has doubled its funding in a Series B extension that pushed the San Francisco startup's valuation past $1 billion. Replit announced on Tuesday that it raised $94."
-    publishedDateTime: 2023-04-25T18:01:00Z
-    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/fundings/2023/04/25/replit-generative-ai-developer-tools-new-funding.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 14
   - title: "PInecone, an AI-related startup with Bay Area roots, has scored $100M in funding"
     excerpt: "But while it also has a hub in Tel Aviv, Israel, the startup retains strong ties to the Bay Area. A large portion of its team is in the San Francisco-San Jose region, as is Bob Wiederhold, its president,"
     publishedDateTime: 2023-04-27T16:28:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/games/kinetix-launches-text-to-animation-ai-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/kinetix-launches-text-to-animation-ai-for-new-era-in-user-generated-content/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -47,15 +47,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "GOP Launches the Age of AI-Generated Attack Ads"
-    excerpt: "The Republican Party used AI imagery to paint a picture of Biden's dystopian America in a new political attack ad on YouTube."
-    publishedDateTime: 2023-04-25T17:14:00Z
-    webUrl: "https://gizmodo.com/youtube-biden-ai-political-ad-gop-stable-diffusion-1850373150"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 47
   - title: "Jeeves.Ai Launches Revolutionary AI-Powered Content Creation Tool for Businesses of All Sizes"
     excerpt: "Today marks the launch of Jeeves.Ai, an AI startup dedicated to making artificial intelligence accessible to the masses. The company, seeded by a team of"
     publishedDateTime: 2023-04-28T15:31:00Z

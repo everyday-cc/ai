@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Opera shows off AI and tab grouping in the latest browser update"
-    excerpt: "Opera has announced Opera One, a redesign of its Web browser with AI features like Tab Islands and under-the-hood improvements to its performance."
-    publishedDateTime: 2023-04-25T17:39:00Z
-    webUrl: "https://www.pcworld.com/article/1798217/opera-one-is-operas-ai-powered-modular-new-browser.html"
+  - title: "Hankook, Amazon, Snowflake collaborate on AI software platform"
+    excerpt: "Hankook is entering a collaboration with Amazon and Snowflake to use AI to improve such things as tire performance and autonomous driving."
+    publishedDateTime: 2023-04-25T19:41:00Z
+    webUrl: "https://www.rubbernews.com/tire/hankook-amazon-snowflake-collaborate-ai-data-platform"
     type: article
     provider:
-      name: PC World
-      domain: pcworld.com
-    quality: 69
+      name: Rubber and Plastics News
+      domain: rubbernews.com
+    quality: 41
     images:
-      - url: "https://www.pcworld.com/wp-content/uploads/2023/04/A_Opera-One-Dark-mode-16x9-1-1.png?w=1024"
-        width: 1024
-        height: 576
+      - url: "https://s3-prod.rubbernews.com/s3fs-public/styles/1200x630/public/Hankook%20Stock%20Tire_i.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "7OHLjXWnZd21Z9JZfNMSJ4qvGQ9WhE7jbnH2uscjQRMvs5qbKMuhIhnH03hvlOiA8fGPPwYs8C4/EBPa3Qz6kgj0SVLItqJILl/6KuchcZr026+WGIUGoWeDRq7liPKMBaaFF0d3BDuqQtA9WBVvOvI8s6hoX7aJ9fIFLSvcQZUomm+ijRsvMRrBFMeL1gMFy+MKVERznVaWxt2DQjOv7rAj9lSzgxkyoSLb0aI4PJhUUyR27yYrzIroSneG4A74aVI1xSa/iRvMRjgLhnKWaRxdMlVCHf9/U5d+0U9O9acH4WjmFmVv+KjOHnicFKZkQLdarD9GUkPc+y7eU+F+4BSsDs5x5pWvvgI+l6Y/o3k=;El3QvvgLk81cDlBQWWcOmw=="

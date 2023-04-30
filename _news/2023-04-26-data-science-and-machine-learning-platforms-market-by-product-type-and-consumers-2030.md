@@ -28,22 +28,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Global Data Science and Machine-Learning Platforms Market by [2023-2029] with Revenue Outsourcing"
-    excerpt: "Data Science and Machine-Learning Platforms market wiith the analysis and effects of the Russia-Ukraine War with COVID-19 that ingests business data and presents it in user-friend"
-    publishedDateTime: 2023-04-25T18:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-data-science-and-machine-learning-platforms-market-by-2023-2029-with-revenue-outsourcing-2023-04-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-
 secured: "jULowudVgGybcs4TKHh1s5yrpkWqhZcFx7Egjg2E5IxsL7rD1Xo7nv0q5DH6bsuAbSLoIwWCAwBIzXDCyjduU2JdWS5RdgDhk+h5EDeptChTe9+ij1kWgJ/DNxoS5lzKOk/nrt+ALpxHFP+NwhkTo+GIQvjuqmQ5tgrejEwo0WcFHyoE+t7c8PbfmLCkOG7DffBO42LFO/JP+K8itJxStztIxJPqqAZGPPBiouUSk14ywOG/Fk1AxEveusiNb+v0ZZ0IMATxiYFjKdHB4oQVFk7h4Z9cBQeMMGu8UQ5+9CECTHan9HrTcHTYqvLzjjD1p4JWh+5HvJpx/2n9DBky7jgM/0Eyx2+jikuyTHjUkQg=;W7oQuD1W2B8+anKVOO049g=="
 ---
 

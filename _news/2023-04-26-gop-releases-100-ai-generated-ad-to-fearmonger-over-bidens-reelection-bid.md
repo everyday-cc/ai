@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/tech-policy/2023/04/gop-releases-100-ai-gene
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/04/gop-releases-100-ai-generated-ad-to-fearmonger-over-bidens-reelection-bid/amp/"
 type: article
 quality: 85
-heat: 125
+heat: 115
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "GOP Releases First Ever AI-Created Attack Ad Against President Biden"
-    excerpt: "The Republican Party has released a new ad attacking President Joe Biden. And the ad might be a new milestone for political campaigns. It’s the first to use images created exclusively with artificial intelligence technology."
-    publishedDateTime: 2023-04-25T19:01:00Z
-    webUrl: "https://www.forbes.com/sites/mattnovak/2023/04/25/gop-releases-first-ever-ai-created-attack-ad-against-president-biden/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Republicans responded to Biden’s announcement with an AI-generated ad"
     excerpt: "The images show a few telltale signs that they’re faked, like a campaign sign with the wrong logo and a close-up shot of Biden that looks unnatural"
     publishedDateTime: 2023-04-28T16:10:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ais-earns-seventh-micros
 webUrl: "https://www.marketwatch.com/press-release/ais-earns-seventh-microsoft-advanced-specialization-in-analytics-on-azure-securing-access-to-end-customer-funding-and-resources-2023-04-28"
 type: article
 quality: 70
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "MCA Connect Acquires Data Consultancy Pervicta to Enable Modern Manufacturing with Advanced Analytics and AI"
-    excerpt: "Pervicta employs a seasoned team of data experts with deep expertise in building IP and providing consulting services to help companies turn their data into a strategic asset. \"Now more than ever, data is at the heart of every customer conversation."
-    publishedDateTime: 2023-04-25T17:40:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/04/25/9801703.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "2omquB31c5/01iHOEk+eah8fz2uB38psCDZOWn6+SSfRAoGeYv8W1kYm2iQuz2MiZqHdV2G0FjPhUVDtt9hudnhaQRfk/b9/bwqr2tO2AivcjkDz+JHFIu1fVuCiNyRG92Z/AXZyzMd8EzRE/5BY2ZmC0o6qdTLIeMY0MtydGL5gUWWW3BCQwROGr3Y3uM9rwitsmJlsgKCoqdAdYWY4g9CidEJSwsJiPpEYXByZGDUiFT63kMMV/prO0YCgxs0ZpQzbfAd+KfrfVq2jMlEh67ZtoJxmmXNgA2i/+DIKGo/goegwDLwHxWcDp7GEL9o4DiaJr4GDC7amnRCceEsuIPLLB9JvOcRS+SBVdoFDF30=;wv8xcpqj9VvAVz5NAV2RlA=="
 ---

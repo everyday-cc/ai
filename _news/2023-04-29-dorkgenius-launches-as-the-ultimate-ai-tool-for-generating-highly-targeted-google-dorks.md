@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "GOP Launches the Age of AI-Generated Attack Ads"
-    excerpt: "The Republican Party used AI imagery to paint a picture of Biden's dystopian America in a new political attack ad on YouTube."
-    publishedDateTime: 2023-04-25T17:14:00Z
-    webUrl: "https://gizmodo.com/youtube-biden-ai-political-ad-gop-stable-diffusion-1850373150"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 47
   - title: "Jeeves.Ai Launches Revolutionary AI-Powered Content Creation Tool for Businesses of All Sizes"
     excerpt: "Today marks the launch of Jeeves.Ai, an AI startup dedicated to making artificial intelligence accessible to the masses. The company, seeded by a team of"
     publishedDateTime: 2023-04-28T15:31:00Z

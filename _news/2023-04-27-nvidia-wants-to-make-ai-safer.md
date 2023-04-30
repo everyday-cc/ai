@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 606
         isCached: true
-  - title: "Deloitte teams with NVIDIA on artificial intelligence platform for logistics and retail"
-    excerpt: "Consulting firm Deloitte today launched a suite of artificial intelligence (AI) tools for logistics and retail businesses, saying they can help users to enhance customer experiences, optimize operations,"
-    publishedDateTime: 2023-04-25T17:40:00Z
-    webUrl: "https://www.dcvelocity.com/articles/57292-deloitte-teams-with-nvidia-on-artificial-intelligence-platform-for-logistics-and-retail"
-    type: article
-    provider:
-      name: DC Velocity
-      domain: dcvelocity.com
-    quality: 24
 
 secured: "/sYuzIMpxhBFrovyHyF2+mvZCfjtcf+qnmcppXSQwlLzSHqcPrpHMztcWC2np5VcSlXHnki1Vy1o7Y2zp8YDH/Hh/VbLJD46U66MycE08BgVKAi8vCgd4nHcN2HBz3lGcP0uLwxzmNx+NmCHjaYUXPHkpN8xOpVriCOezjdDoH4linFQdvl8tnZ/m3GV0YQ0Mer3l3d15G4fG7bPxkCR7F9dGm+4mcC15opoMd/6fHBVK3WyfJNQkowiNvTyIpwkKC2Rs4aNFromMNrcdcbtCU0lqwlZ6lDsB/oRDZCbNE51jRv0rvgJE9La6l2PhRDMPQU2tP+7VTsgYm3SY6CQMrxzQiJLJLV80fv/TbCr8FcR5/44bC8eKfgBWtBYuOtfkqg/pbYM3hbRMn4lWAbarzbOVRSeVfpV2mbfZlWqSAhUZBlpdl1jNvchOOsI5WNOD4FvoaeW5nbRJnX20IUmFaih6zVeEEgblnzleZ1QCC8AiQHOrjGxlQON721cHlKdXjzIXYFgvt7/MY8PBi7nrw==;8y2cPg3g8weDYWr0gX/bqw=="
 ---

@@ -30,38 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
-    excerpt: "Here's a guide to help understand Open AI's viral text-generating system. We outline the most recent updates and answer the most common FAQs."
-    publishedDateTime: 2023-04-25T18:31:00Z
-    webUrl: "https://techcrunch.com/2023/04/25/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/"
-    ampWebUrl: "https://techcrunch.com/2023/04/25/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/04/25/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
-        width: 1200
-        height: 798
-        isCached: true
-  - title: "Boston Dynamics robot dog can answer your questions now, thanks to ChatGPT"
-    excerpt: "A new video shared by AI expert Santiago Valdarrama, showcases Boston Dynamics' robot dog, Spot, performing a few new tricks that involve artificial intelligence. In the almost two minute video, Spot is able to answer natural language questions such as \"Are you standing?\" and \"What is your battery level?\"."
-    publishedDateTime: 2023-04-27T17:37:00Z
-    webUrl: "https://www.zdnet.com/article/boston-dynamics-robot-dog-can-answer-your-questions-now-thanks-to-chatgpt/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/boston-dynamics-robot-dog-can-answer-your-questions-now-thanks-to-chatgpt/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/boston-dynamics-robot-dog-can-answer-your-questions-now-thanks-to-chatgpt/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/67420e49493ab2b30aaafc15a8e1800befe0ca8f/2023/04/27/9f9be49a-d685-4a34-8801-0023f95fbbcc/screenshot-2023-04-27-at-10-10-49-am.png?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Snapchat's new AI chatbot is already raising alarms among teens and parents"
     excerpt: "Less than a few hours after Snapchat rolled out its My AI chatbot to all users last week, Lyndsi Lee, a mother from East Prairie, Missouri, told her 13-year-old daughter to stay away from the feature."
     publishedDateTime: 2023-04-27T15:43:00Z
@@ -77,22 +45,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/230426123404-snapchat-app-restricted-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "This AI chatbot can sum up any PDF and answer any question you have about it"
-    excerpt: "ChatPDF runs on OpenAI's GPT 3.5 large language model and can answer any question you have about the PDF you upload. The chatbot can even give you a full summary of the PDF without you having to read it."
-    publishedDateTime: 2023-04-26T13:55:00Z
-    webUrl: "https://www.zdnet.com/article/this-ai-chatbot-can-sum-up-any-pdf-and-any-question-you-have-about-it/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/this-ai-chatbot-can-sum-up-any-pdf-and-any-question-you-have-about-it/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-ai-chatbot-can-sum-up-any-pdf-and-any-question-you-have-about-it/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 84
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/66cd397bf62d97a55b9d4229b481942dce2176ab/2023/04/25/78be6954-5e79-487a-b681-311730d7bccf/screenshot-2023-04-25-at-4-26-20-pm.png?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Is this the snarkiest AI chatbot so far? I tried HuggingChat and it was weird"
     excerpt: "Aside from the confusion on who's human and who you're actually talking to, HuggingChat sometimes believes it's ChatGPT -- really. The first question I asked the new AI chatbot was \"Are you better than ChatGPT?\", for which you can see its answers on the screenshot below."
@@ -110,54 +62,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How To Avoid Fueling 'Shadow AI' With The Right Policy For Generative AI Chatbots"
-    excerpt: "Despite only emerging onto the scene a few months ago, there are several ways to access the capabilities of LLMs, and the different access models can help mitigate risk."
-    publishedDateTime: 2023-04-27T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/27/how-to-avoid-fueling-shadow-ai-with-the-right-policy-for-generative-ai-chatbots/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/27/how-to-avoid-fueling-shadow-ai-with-the-right-policy-for-generative-ai-chatbots/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/27/how-to-avoid-fueling-shadow-ai-with-the-right-policy-for-generative-ai-chatbots/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 82
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6449267039fd3a3dac51f763/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "ChatGPT and Generative AI in Financial Services: Reality, Hype, What's Next, and How to Prepare"
-    excerpt: "Payments, banking, and insurance players are eager to understand generative AI's potential and put it to work."
-    publishedDateTime: 2023-04-28T17:30:00Z
-    webUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-in-financial-services-hype-next-prepare-2023-april"
-    ampWebUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-in-financial-services-hype-next-prepare-2023-april?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-and-generative-ai-in-financial-services-hype-next-prepare-2023-april?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 75
-    images:
-      - url: "https://i.insider.com/64403454632fda001803b2e0?width=1200&format=jpeg"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "Sneakily Using Generative AI ChatGPT To Spout Legalese And Imply That You’ve Hired An Attorney, Unsettling For AI Ethics And AI Law"
-    excerpt: "People are using ChatGPT and other generative AI to compose letters that have legalese, aiming to intimidate others. Is this allowed? Should it be stopped? Here is the insider scoop."
-    publishedDateTime: 2023-04-29T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/04/29/sneakily-using-generative-ai-chatgpt-to-spout-legalese-and-imply-that-youve-hired-an-attorney-unsettling-for-ai-ethics-and-ai-law/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/04/29/sneakily-using-generative-ai-chatgpt-to-spout-legalese-and-imply-that-youve-hired-an-attorney-unsettling-for-ai-ethics-and-ai-law/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/04/29/sneakily-using-generative-ai-chatgpt-to-spout-legalese-and-imply-that-youve-hired-an-attorney-unsettling-for-ai-ethics-and-ai-law/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64498827383d36579551f765/0x0.jpg?format=jpg&crop=2429,1619,x557,y0,safe&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Dr. ChatGPT? Physicians Are Sending Patients Advice Using AI"
     excerpt: "ChatGPT is better than doctors at responding to patient questions, study says"
     publishedDateTime: 2023-04-28T14:00:00Z
@@ -171,22 +75,6 @@ related:
       - url: "https://images.wsj.net/im-771596/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Someone Put ChatGPT Inside Of A Robot Dog, Which Can't Possibly End Badly"
-    excerpt: "Massive upgrade!\" Of course, this isn't a case of simply installing ChatGPT into a robot and getting immediate results. As seen in the video, Santiago and the team had to create specific terms and routines for ChatGPT to function properly within Spot."
-    publishedDateTime: 2023-04-26T15:10:00Z
-    webUrl: "https://www.gamespot.com/articles/someone-put-chatgpt-inside-of-a-robot-dog-which-cant-possibly-end-badly/1100-6513590/"
-    ampWebUrl: "https://www.gamespot.com/amp-articles/someone-put-chatgpt-inside-of-a-robot-dog-which-cant-possibly-end-badly/1100-6513590/"
-    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/someone-put-chatgpt-inside-of-a-robot-dog-which-cant-possibly-end-badly/1100-6513590/"
-    type: article
-    provider:
-      name: GameSpot
-      domain: gamespot.com
-    quality: 58
-    images:
-      - url: "https://www.gamespot.com/a/uploads/original/1601/16018044/4130173-blade-wolf.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Snapchat introduces AI chatbot to mixed reviews"
     excerpt: "Snapchat has introduced its own AI chatbot to mixed reviews, with some criticising its prominence on the social media app. It is powered by OpenAI's GPT - the same tech that is being integrated into Microsoft's Bing search engine. The feature, dubbed My AI, is pinned to the top of users' chat feeds and only paid subscribers can remove it."
@@ -252,56 +140,35 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Engineer Combines ChatGPT with Robot Dog, Spot for Enhanced Communication"
-    excerpt: "In a world where artificial intelligence and robots are becoming increasingly prevalent, it’s always exciting to see how engineers are pushing the boundaries and finding new ways to make these machines even more useful."
-    publishedDateTime: 2023-04-27T05:26:00Z
-    webUrl: "https://www.gizmochina.com/2023/04/27/chatgpt-spot-dog-communication/"
+  - title: "Chatbots and the new AI: What will Silicon Valley unleash upon the world this time?"
+    excerpt: "Jobs. News. Art. Democracy. Equality. Education. Privacy. Truth. Your bank account. All will be impacted by Silicon Valley's latest creation: \"generative\" artificial intelligence."
+    publishedDateTime: 2023-04-27T14:13:00Z
+    webUrl: "https://techxplore.com/news/2023-04-chatbots-ai-silicon-valley-unleash.html"
+    ampWebUrl: "https://techxplore.com/news/2023-04-chatbots-ai-silicon-valley-unleash.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-04-chatbots-ai-silicon-valley-unleash.amp"
     type: article
     provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 48
-  - title: "Russia’s biggest bank unveils GigaChat, another rival to ChatGPT"
-    excerpt: "Russian lender Sberbank released GigaChat, initially in an invite-only testing mode, joining the AI chatbot race."
-    publishedDateTime: 2023-04-26T00:30:00Z
-    webUrl: "https://techwireasia.com/2023/04/russias-biggest-bank-unveils-gigachat-another-rival-to-chatgpt/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 41
+      name: techxplore
+      domain: techxplore.com
+    quality: 53
     images:
-      - url: "https://techwireasia.com/wp-content/uploads/2023/04/shutterstock_1950040216-scaled.jpg"
-        width: 2560
-        height: 1631
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/chatbot-1.jpg"
+        width: 2880
+        height: 1920
         isCached: true
-  - title: "What Can ChatGPT Tell Us About the Evolution of Artificial Intelligence?"
-    excerpt: "In the last decade, artificial intelligence (AI) has elicited both dreams of a massive transformation in the tech industry  and a deep anxiety surrounding its potential ramifications. Elon Musk, a leading voice in the tech industry,"
-    publishedDateTime: 2023-04-26T16:07:00Z
-    webUrl: "https://www.unite.ai/what-can-chatgpt-tell-us-about-the-evolution-of-artificial-intelligence/"
+  - title: "New artificial intelligence feature comes to Snapchat"
+    excerpt: "I’m here to chat with you and keep you company! Is there anything you’d like to talk about?” my Artificial Intelligence asked me. The second I questioned its arrival, I didn’t enjoy the idea of this robot “keeping me company."
+    publishedDateTime: 2023-04-27T14:45:00Z
+    webUrl: "https://www.inklingsnews.com/b/2023/04/27/new-artificial-intelligence-feature-comes-to-snapchat/"
     type: article
     provider:
-      name: unite
-      domain: unite.ai
-    quality: 40
-    images:
-      - url: "https://www.unite.ai/wp-content/uploads/2023/04/evolution-ai-896x600.png"
-        width: 896
-        height: 600
-        isCached: true
-  - title: "Oh Great, They Put ChatGPT Into a Boston Dynamics Robot Dog"
-    excerpt: "As if robot dogs weren't creepy enough, at least one is now equipped with OpenAI's ChatGPT and can speak aloud."
-    publishedDateTime: 2023-04-27T20:36:00Z
-    webUrl: "https://futurism.com/the-byte/chatgpt-boston-dynamics-robot-dog"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
+      name: Inklings
+      domain: inklingsnews.com
     quality: 39
     images:
-      - url: "https://wp-assets.futurism.com/2023/04/chatgpt-boston-dynamics-robot-dog.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.inklingsnews.com/wp-content/uploads/2023/04/Screenshot-2023-04-27-at-10.17.35-AM-900x501.png"
+        width: 900
+        height: 501
         isCached: true
   - title: "Japanese AI researchers advise chatbot users to be aware of pros and cons"
     excerpt: "Japanese researchers specializing in artificial intelligence are advising caution when using generative AIs, saying the technology is still a work in progress."
@@ -317,19 +184,28 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Let’s chat about AI: How design and construction firms are using ChatGPT"
-    excerpt: "Tech-savvy AEC firms that already use artificial intelligence to enhance their work view the startling evolution of ChatGPT mostly in a positive light as a potential tool for sharing information and training employees and trade partners."
-    publishedDateTime: 2023-04-26T16:21:00Z
-    webUrl: "https://www.bdcnetwork.com/lets-chat-about-ai-how-design-and-construction-firms-are-using-chatgpt"
+  - title: "This Week in Apps: Users pan Snapchat’s AI, Bluesky has a moment, Apple wins antitrust appeal"
+    excerpt: "The game is due out on iOS and Android for Netflix subscribers on May 2. The AI startup Runway, which helped develop the AI image generator Stable Diffusion, launched its first mobile app this week, giving users access to Gen-1, its video-to-video ..."
+    publishedDateTime: 2023-04-29T19:27:00Z
+    webUrl: "https://techcrunch.com/2023/04/29/this-week-in-apps-users-pan-snapchats-ai-bluesky-has-a-moment-apple-wins-antitrust-appeal/"
     type: article
     provider:
-      name: Bdcnetwork.com
-      domain: bdcnetwork.com
-    quality: 38
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 36
+  - title: "Chatbots and the new AI: What will Silicon Valley unleash upon the world this time?"
+    excerpt: "Jobs. News. Art. Democracy. Equality. Education. Privacy. Truth. Your bank account. All will be impacted by Silicon Valley’s latest creation: “generative” artificial intelligence."
+    publishedDateTime: 2023-04-30T02:00:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/04/30/chatbots-and-the-new-ai-what-will-silicon-valley-unleash-upon-the-world-this-time"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 33
     images:
-      - url: "https://www.bdcnetwork.com/sites/bdc/files/Suffolk%20WINT.jpeg"
-        width: 1800
-        height: 1200
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/04/27/2045291.jpg"
+        width: 1240
+        height: 826
         isCached: true
   - title: "Chat AI Chatbot Assistant: Revolutionizing Productivity And Assistance Powered By Chatgpt"
     excerpt: "Chat AI Chatbot powered by ChatGPT Discover the power of intelligent and engaging conversations with the Chat AI Chatbot Assistant app, n"
@@ -345,29 +221,6 @@ related:
         width: 600
         height: 314
         isCached: true
-  - title: "I used ChatGPT to write the same routine in these ten obscure programming languages"
-    excerpt: "Can ChatGPT program in a language from the 1950s or in one of the languages that wrote its own code? We took a walk down memory lane to find out."
-    publishedDateTime: 2023-04-28T13:15:00Z
-    webUrl: "https://www.zdnet.com/article/i-used-chatgpt-to-write-the-same-routine-in-these-ten-obscure-and-vintage-programming-languages/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 28
-  - title: "Hugging Face Releases Free ChatGPT Clone: HuggingChat"
-    excerpt: "Hugging Face, the machine learning community and AI tools platform, announced the release of HuggingChat, an open source ChatGPT clone that anyone can use or download for themselves. Hugging Face is a company and an AI community. It provides access to free open source tools for developing machine learning and AI apps."
-    publishedDateTime: 2023-04-27T09:17:00Z
-    webUrl: "https://www.searchenginejournal.com/huggingchat/485590/"
-    type: article
-    provider:
-      name: Searchenginejournal.com
-      domain: searchenginejournal.com
-    quality: 24
-    images:
-      - url: "https://www.searchenginejournal.com/wp-content/uploads/2023/04/hugging-face-huggingchat-644a286dee829-sej.png"
-        width: 1600
-        height: 840
-        isCached: true
   - title: "Where traditional search and AI chatbots excel: A closer look"
     excerpt: "Learn key areas where traditional search engines like Google and AI chatbots like ChatGPT have the upper hand."
     publishedDateTime: 2023-04-27T13:00:00Z
@@ -377,15 +230,15 @@ related:
       name: Search Engine Land
       domain: searchengineland.com
     quality: 19
-  - title: "Beyond ChatGPT: Miami company raises millions to bring AI tools to workplaces"
-    excerpt: "\"Most people are still struggling to figure out how to use AI to help solve their hardest problems at work,” says the startup's CEO."
-    publishedDateTime: 2023-04-27T16:05:00Z
-    webUrl: "https://www.bizjournals.com/southflorida/news/2023/04/27/airops-funding-artificial-intelligence-workplaces.html"
+  - title: "Snapchat's New My AI Feature Is an Example of the 1 Thing No Company Should Ever Do"
+    excerpt: "Here's the thing--Snapchat's new AI feature doesn't have any real value, at least, not to users. It's just entertainment, sort of. It's not something anyone is asking for, and you have to pay to get rid of it. It's as though Snap isn't thinking about its customers, but rather what features it can add to increasingly monetize the app."
+    publishedDateTime: 2023-04-26T07:52:00Z
+    webUrl: "https://www.inc.com/jason-aten/snapchats-new-my-ai-feature-is-an-example-of-1-thing-no-company-should-ever-do.html"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 14
+      name: Inc
+      domain: inc.com
+    quality: 11
   - title: "expert reaction to study comparing physician and AI chatbot responses to patient questions"
     excerpt: "April 28, 2023 expert reaction to study comparing physician and AI chatbot responses to patient questions . A study published in JAMA Internal Medicine compares physician and arti"
     publishedDateTime: 2023-04-28T15:53:00Z

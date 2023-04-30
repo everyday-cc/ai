@@ -7,7 +7,7 @@ originalUrl: "https://technews.tmcnet.com/news/2023/04/27/9803670.htm"
 webUrl: "https://technews.tmcnet.com/news/2023/04/27/9803670.htm"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,20 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "ChatGPT Dominates as Top In-Demand Workplace Skill: Udemy Report"
-    excerpt: "Online learning platform Udemy released its Q1 Workplace Learning Index that found ChatGPT is currently the most in-demand workplace skill in the U.S. and"
-    publishedDateTime: 2023-04-28T17:18:00Z
-    webUrl: "https://www.datanami.com/2023/04/28/chatgpt-dominates-as-top-in-demand-workplace-skill-udemy-report/"
+  - title: "I used ChatGPT to write the same routine in these ten obscure programming languages"
+    excerpt: "Can ChatGPT program in a language from the 1950s or in one of the languages that wrote its own code? We took a walk down memory lane to find out."
+    publishedDateTime: 2023-04-28T13:15:00Z
+    webUrl: "https://www.zdnet.com/article/i-used-chatgpt-to-write-the-same-routine-in-these-ten-obscure-and-vintage-programming-languages/"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 24
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/04/Robot-Teacher-shutterstock_689623207.jpg"
-        width: 800
-        height: 419
-        isCached: true
+      name: ZDNet
+      domain: zdnet.com
+    quality: 28
 
 secured: "Cw3XUZ4J/mWHVNgk12LOvVuiImJ4/NAehtlVxHOBmTFq8kyWCJcPLGAAasrrUCX0onxovU/LygYxqXZec8bWVI6gLJCtYZQt9rnvsvJIm4gfxJfj22a3iYjDH2oUiOXVnMmyTPGhjoMjdFWUp3ozgzJkKdtxNNiOM/yap4KaRPOBRC1kht+FAkcEYt4ojLy1sSO+XxOUZYbT9EVU9b9eK9FLxvtAtz2/fkUpzSkijf+hFl5KWZeSWDWEAlIyp6GtNnJPVRl0fktjzleYWkhzpnwHR4u7rpK61yyOucJPh0EvoHrpEtDi8LqE3+m5X11CxrtJ35MWhRHhELpwqkhwoilXLc0w7+/shFbQSvz655s=;UeLi8tmSTL2CGKshNkDT8g=="
 ---

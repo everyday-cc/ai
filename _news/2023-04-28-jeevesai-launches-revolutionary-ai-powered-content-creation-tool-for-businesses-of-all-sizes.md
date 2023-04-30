@@ -58,15 +58,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "GOP Launches the Age of AI-Generated Attack Ads"
-    excerpt: "The Republican Party used AI imagery to paint a picture of Biden's dystopian America in a new political attack ad on YouTube."
-    publishedDateTime: 2023-04-25T17:14:00Z
-    webUrl: "https://gizmodo.com/youtube-biden-ai-political-ad-gop-stable-diffusion-1850373150"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 47
   - title: "Interprefy Launches Next-Generation AI Speech Translator for Events"
     excerpt: "M ultilingual meeting technology and services provider Interprefy unveiled Interprefy Aivia, the world’s first advanced automated speech translation service for online and live"
     publishedDateTime: 2023-04-28T21:15:00Z
