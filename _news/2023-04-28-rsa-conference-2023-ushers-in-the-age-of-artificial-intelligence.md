@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/04/28/rsa-conference-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/04/28/rsa-conference-2023-ushers-in-the-age-of-artificial-intelligence/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "RSA Conference 2023: Infosec and identity pros need AI — but it will change their jobs"
-    excerpt: "Information security pros and vendors will need to master artificial intelligence (AI) to fight threat actors who are already leveraging it, the annual RSA Conference in San Francisco has been told. \"Without good AI,"
-    publishedDateTime: 2023-04-25T16:48:00Z
-    webUrl: "https://www.itworldcanada.com/article/rsa-conference-2023-infosec-and-identity-pros-need-ai-but-it-will-change-their-jobs/537535"
-    ampWebUrl: "https://www.itworldcanada.com/article/rsa-conference-2023-infosec-and-identity-pros-need-ai-but-it-will-change-their-jobs/537535?amp=1"
-    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/rsa-conference-2023-infosec-and-identity-pros-need-ai-but-it-will-change-their-jobs/537535?amp=1"
-    type: article
-    provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 51
-    images:
-      - url: "https://i.itworldcanada.com/wp-content/uploads/2023/04/RSA-Conference-2023-photo.jpg"
-        width: 620
-        height: 289
-        isCached: true
   - title: "Cybersecurity and AI trends analysis live from RSA Conference"
     excerpt: "At this week’s RSA Conference in San Francisco, the focus remained on generative artificial intelligence, with some uncertainty about its involvement in recent hacks. The technology will likely become increasingly relevant as it develops further,"
     publishedDateTime: 2023-04-26T15:14:00Z

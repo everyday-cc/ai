@@ -22,91 +22,91 @@ topics:
   - AI
 
 related:
-  - title: "Republicans Launch Eerie AI-Generated Attack Ad On Biden"
-    excerpt: "The video shows realistic images of a collapse of world order under a second Biden-Harris term—and suggests the possibility of a lot of artificial intelligence in upcoming campaigns."
-    publishedDateTime: 2023-04-25T15:21:00Z
-    webUrl: "https://www.forbes.com/sites/saradorn/2023/04/25/republicans-launch-eerie-ai-generated-attack-ad-on-biden/"
-    ampWebUrl: "https://www.forbes.com/sites/saradorn/2023/04/25/republicans-launch-eerie-ai-generated-attack-ad-on-biden/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saradorn/2023/04/25/republicans-launch-eerie-ai-generated-attack-ad-on-biden/amp/"
+  - title: "Kinetix launches text-to-animation AI for new era in user-generated content"
+    excerpt: "Kinetix has announced Text2Emotes, a generative AI technology that heralds a new era of user-generated gaming content (UGC)."
+    publishedDateTime: 2023-04-26T07:59:00Z
+    webUrl: "https://venturebeat.com/games/kinetix-launches-text-to-animation-ai-for-new-era-in-user-generated-content/"
+    ampWebUrl: "https://venturebeat.com/games/kinetix-launches-text-to-animation-ai-for-new-era-in-user-generated-content/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/kinetix-launches-text-to-animation-ai-for-new-era-in-user-generated-content/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: VentureBeat
+      domain: venturebeat.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6447ef043664b77e0aa3babc/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "GOP releases 100% AI-generated ad to fearmonger over Biden’s reelection bid"
-    excerpt: "On the screen flashes a dark, AI-generated image of Biden and Vice President Kamala Harris, smiling and waving in front of a sea of American flags. From there, a series of AI-generated scenes show the faked future that the RNC imagines that this election result would bring,"
-    publishedDateTime: 2023-04-25T19:50:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2023/04/gop-releases-100-ai-generated-ad-to-fearmonger-over-bidens-reelection-bid/"
-    ampWebUrl: "https://arstechnica.com/tech-policy/2023/04/gop-releases-100-ai-generated-ad-to-fearmonger-over-bidens-reelection-bid/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/04/gop-releases-100-ai-generated-ad-to-fearmonger-over-bidens-reelection-bid/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 85
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/04/Beat-Biden-RNC-2023-response-ad-screenshot-800x362.png"
-        width: 800
-        height: 362
-        isCached: true
-  - title: "Republicans Share An Apocalyptic AI-Powered Attack Ad Against Biden: Here’s How To Spot A Deepfake"
-    excerpt: "Deepfakes first came about in 2017 after a Reddit user posted pornography with the adult actors’ faces swapped for the faces of celebrities."
-    publishedDateTime: 2023-04-25T16:26:00Z
-    webUrl: "https://www.forbes.com/sites/ariannajohnson/2023/04/25/republicans-share-an-apocalyptic-ai-powered-attack-ad-against-biden-heres-how-to-spot-a-deepfake/"
-    ampWebUrl: "https://www.forbes.com/sites/ariannajohnson/2023/04/25/republicans-share-an-apocalyptic-ai-powered-attack-ad-against-biden-heres-how-to-spot-a-deepfake/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ariannajohnson/2023/04/25/republicans-share-an-apocalyptic-ai-powered-attack-ad-against-biden-heres-how-to-spot-a-deepfake/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 73
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/641dfb1c54068a83394ff5b7/0x0.jpg?format=jpg&crop=1291,727,x153,y119,safe&width=1200"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "Republicans release AI-generated attack ad on President Biden"
-    excerpt: "The video from the Republican National Committee is titled \"Beat Biden\" and imagines a scenario in which Biden and Vice President Kamala Harris win reelection in 2024. The ad shows completely AI-generated images of Biden and Harris celebrating their election day victory."
-    publishedDateTime: 2023-04-25T22:33:00Z
-    webUrl: "https://mashable.com/video/republican-attack-ad-biden-reelection-ai"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 67
-    images:
-      - url: "https://helios-i.mashable.com/imagery/videos/01VtmkmQ8ncxw6jQxY3UFne/hero-image.fill.size_1200x675.v1682456307.png"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/04/kinetix-text2emote.jpg?w=1200&strip=all"
         width: 1200
         height: 675
         isCached: true
-  - title: "GOP Releases First Ever AI-Created Attack Ad Against President Biden"
-    excerpt: "The Republican Party has released a new ad attacking President Joe Biden. And the ad might be a new milestone for political campaigns. It’s the first to use images created exclusively with artificial intelligence technology."
-    publishedDateTime: 2023-04-25T19:01:00Z
-    webUrl: "https://www.forbes.com/sites/mattnovak/2023/04/25/gop-releases-first-ever-ai-created-attack-ad-against-president-biden/"
+  - title: "DorkGenius Launches as the Ultimate AI Tool for Generating Highly Targeted Google Dorks"
+    excerpt: "Dork Genius, a revolutionary AI tool designed to generate Google dorks, is now available for public use. The tool is expected to revolutionize the way"
+    publishedDateTime: 2023-04-29T15:19:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/04/32100121/dorkgenius-launches-as-the-ultimate-ai-tool-for-generating-highly-targeted-google-dorks"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32100121"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32100121"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "Republicans responded to Biden’s announcement with an AI-generated ad"
-    excerpt: "The images show a few telltale signs that they’re faked, like a campaign sign with the wrong logo and a close-up shot of Biden that looks unnatural"
-    publishedDateTime: 2023-04-28T16:10:00Z
-    webUrl: "https://www.deseret.com/2023/4/28/23700844/republicans-responded-to-bidens-announcement-with-an-ai-generated-ad"
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 51
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "Jeeves.Ai Launches Revolutionary AI-Powered Content Creation Tool for Businesses of All Sizes"
+    excerpt: "Today marks the launch of Jeeves.Ai, an AI startup dedicated to making artificial intelligence accessible to the masses. The company, seeded by a team of"
+    publishedDateTime: 2023-04-28T15:31:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/04/32086787/jeeves-ai-launches-revolutionary-ai-powered-content-creation-tool-for-businesses-of-all-sizes"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32086787"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32086787"
     type: article
     provider:
-      name: deseret
-      domain: deseret.com
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 46
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "Interprefy Launches Next-Generation AI Speech Translator for Events"
+    excerpt: "M ultilingual meeting technology and services provider Interprefy unveiled Interprefy Aivia, the world’s first advanced automated speech translation service for online and live"
+    publishedDateTime: 2023-04-28T21:15:00Z
+    webUrl: "https://www.tsnn.com/news/interprefy-launches-nextgeneration-ai-speech-translator-events"
+    type: article
+    provider:
+      name: TSNN
+      domain: tsnn.com
     quality: 39
     images:
-      - url: "https://deseret.brightspotcdn.com/dims4/default/06ef5a7/2147483647/strip/true/crop/1435x819+266+0/resize/1461x834!/quality/90/?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2Ft-pi3UStn59dh7dZAGiDsD9ugXo%3D%2F0x0%3A1919x819%2F1919x819%2Ffilters%3Afocal%28983x439%3A984x440%29%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F24616024%2FScreen_Shot_2023_04_27_at_4.12.54_PM.png"
-        width: 1461
-        height: 834
+      - url: "https://www.tsnn.com/sites/default/files/AI%20translation%20concept.jpg"
+        width: 8500
+        height: 4250
         isCached: true
+  - title: "EU proposes new copyright rules for generative AI"
+    excerpt: "Shortly after signing the letter, the Financial Times reported Musk was planning to launch his own startup to rival OpenAI. ALSO READ: Elon Musk plans AI startup to rival OpenAI, Financial Times reports"
+    publishedDateTime: 2023-04-28T01:55:00Z
+    webUrl: "https://www.asiaone.com/digital/eu-proposes-new-copyright-rules-generative-ai"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 37
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Apr2023/20230428_EUAI_Reuters.jpg?itok=7hZy3u6s"
+        width: 848
+        height: 601
+        isCached: true
+  - title: "The Battle for Authenticity: The Importance of Detecting Human vs. AI-Generated Content by Intetics"
+    excerpt: "Intetics, a leading global technology company, published an article on the burning challenges of generative AI, existing AI-generated content detection tools, their current limitations and prospects,"
+    publishedDateTime: 2023-04-27T11:53:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-battle-authenticity-importance-detecting-human-vs-ai-generated-/2023/04/27/9803149.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 5
 
 secured: "NFuGekGuMvlCUdMOEvOMwxfxHQCcUucmqaf6syXConuzmfTmO3CpblRvocQGaOlAW2in0z8s99EuteUUJXl8NSvD75Vu6khK9RdSjbPMiOmVZp3nNdhvlJCyf9s1isz1BTT5ASxq6UAXCZ+OaildwIrxShXXgpqYawmBFPBwR/g97ho9N9IzzIId/NagGimFEgvE8rLYmydvP9gozZjzJ5a+nZS2CXF1JrvQODGfIDKJ6l7eIt0lPZ9uy0TobuDDOVy1cr++9L/oPwuvVdV5rVoCoz9/cDsocvpqH9n9KlmXEAnLMVEnfqyhO+N9xKe18qclE2dI0qTVvUlVDbHNAGloNO/VlfauD6jckucaAWk6tUUwROlcl+pjDR7hsylgQaX/gkWmX3wYaoe9BqqpKALgOnEslBzxMiw4CTaaVK6iMbPY5Fkj55hBQECVcdVizibPq+tvaU891hmGWSTI6ZJb7beHA0iAz5djSzVMu3G24WI7d1mdMpPANMrTHp53R4uVq3epNWnkfD2t5BTiwg==;ygYF0YQPL70Nexv7mrAyJw=="
 ---

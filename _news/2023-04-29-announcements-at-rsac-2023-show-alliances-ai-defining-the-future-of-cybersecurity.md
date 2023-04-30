@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "RSAC 2023: Generative AI Takes the Cybersecurity Industry by Storm"
+    excerpt: "Yes, generative AI stole the show at RSA Conference 2023 in San Francisco last week. Here’s a roundup of the top news from the biggest cybersecurity conference in the world."
+    publishedDateTime: 2023-04-30T09:58:00Z
+    webUrl: "https://www.govtech.com/blogs/lohrmann-on-cybersecurity/rsac-2023-generative-ai-takes-the-cybersecurity-industry-by-storm"
+    ampWebUrl: "https://www.govtech.com/blogs/lohrmann-on-cybersecurity/rsac-2023-generative-ai-takes-the-cybersecurity-industry-by-storm?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/blogs/lohrmann-on-cybersecurity/rsac-2023-generative-ai-takes-the-cybersecurity-industry-by-storm?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 57
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/7a063b4/2147483647/strip/true/crop/4032x2102+0+922/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fd7%2F60%2Ff8f8c9a1471f8fd9eee17d9eb434%2Fimg-1128.jpg"
+        width: 840
+        height: 438
+        isCached: true
   - title: "RSAC 2023: 10 Coolest Cybersecurity Startup Companies"
     excerpt: "HiddenLayer, Concentric AI and Mondoo were among the coolest cybersecurity startup companies at RSAC 2023."
     publishedDateTime: 2023-04-28T20:40:00Z

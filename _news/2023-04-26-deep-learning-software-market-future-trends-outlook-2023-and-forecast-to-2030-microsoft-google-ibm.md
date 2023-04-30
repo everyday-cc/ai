@@ -46,6 +46,20 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "Google and Microsoft Are Gaining on AWS: Here's Why Amazon Isn't Worried"
+    excerpt: "Google Cloud and Microsoft's (NASDAQ: MSFT) Azure are gaining ground on Amazon (NASDAQ: AMZN) Web Services (AWS). Alphabet reported that Google Cloud revenue soared 28% year-over-year in the quarter ending March 31,"
+    publishedDateTime: 2023-04-30T09:55:00Z
+    webUrl: "https://moneymorning.com/investing/google-and-microsoft-are-gaining-on-aws-heres-why-amazon-isnt-worried/"
+    type: article
+    provider:
+      name: Money Morning
+      domain: moneymorning.com
+    quality: 70
+    images:
+      - url: "https://moneymorning.com/wp-content/blogs.dir/1/files/2023/04/motley-fool-mark.png"
+        width: 940
+        height: 940
+        isCached: true
   - title: "'AI All-Star' Microsoft's rosy earnings spark rally in tech stocks"
     excerpt: "Microsoft Corp shares surged 8 per cent premarket on Wednesday and lifted tech stocks after the company's robust earnings eased fears of a slowdown in cloud computing and boosted confidence that artificial intelligence will become a major growth driver."
     publishedDateTime: 2023-04-26T23:44:00Z

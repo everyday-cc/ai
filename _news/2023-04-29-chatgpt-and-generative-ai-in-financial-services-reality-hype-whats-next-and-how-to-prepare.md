@@ -172,22 +172,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "ChatGPT: How to use AI as a virtual financial adviser"
-    excerpt: "From chatbots and virtual assistants to fraud detection and risk management, artificial intelligence (AI) is now being used in many areas of finance. But what could an AI system like ChatGPT do for your bank balance?"
-    publishedDateTime: 2023-04-25T16:50:00Z
-    webUrl: "https://techxplore.com/news/2023-04-chatgpt-ai-virtual-financial.html"
-    ampWebUrl: "https://techxplore.com/news/2023-04-chatgpt-ai-virtual-financial.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-04-chatgpt-ai-virtual-financial.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 61
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/chatgpt-how-to-use-ai.jpg"
-        width: 1356
-        height: 668
-        isCached: true
   - title: "Someone Put ChatGPT Inside Of A Robot Dog, Which Can't Possibly End Badly"
     excerpt: "Massive upgrade!\" Of course, this isn't a case of simply installing ChatGPT into a robot and getting immediate results. As seen in the video, Santiago and the team had to create specific terms and routines for ChatGPT to function properly within Spot."
     publishedDateTime: 2023-04-26T15:10:00Z
@@ -277,22 +261,6 @@ related:
       name: Gizmochina
       domain: gizmochina.com
     quality: 48
-  - title: "ChatGPT: Opportunities and threats"
-    excerpt: "November 30, 2022 to be precise, ChatGPT, an artificial intelligence chatbot, has been gaining rave reviews as"
-    publishedDateTime: 2023-04-25T16:46:00Z
-    webUrl: "https://www.omanobserver.om/article/1136195/oman/chatgpt-opportunities-and-threats"
-    ampWebUrl: "https://www.omanobserver.om/ampArticle/1136195"
-    cdnAmpWebUrl: "https://www-omanobserver-om.cdn.ampproject.org/c/s/www.omanobserver.om/ampArticle/1136195"
-    type: article
-    provider:
-      name: omanobserver
-      domain: omanobserver.om
-    quality: 44
-    images:
-      - url: "https://www.omanobserver.om/omanobserver/uploads/images/2023/04/25/2314447.jpg"
-        width: 1000
-        height: 1099
-        isCached: true
   - title: "Russia’s biggest bank unveils GigaChat, another rival to ChatGPT"
     excerpt: "Russian lender Sberbank released GigaChat, initially in an invite-only testing mode, joining the AI chatbot race."
     publishedDateTime: 2023-04-26T00:30:00Z

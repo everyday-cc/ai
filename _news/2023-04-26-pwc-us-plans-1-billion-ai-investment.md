@@ -129,13 +129,13 @@ related:
       domain: bloomberglaw.com
     quality: 19
   - title: "The ODP Corporation Expands Collaboration with Microsoft to Leverage the Power of AI Technology from Microsoft Azure OpenAI Service"
-    excerpt: "Recognizing Azure's immense potential, ODP has been working with Microsoft to migrate legacy systems and to build out its customer-facing platforms, including its Varis digital procurement ecosystem and Business Central integration,"
-    publishedDateTime: 2023-04-26T13:55:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-odp-corporation-expands-collaboration-with-microsoft-leverage-power-/2023/04/26/9802325.htm"
+    excerpt: "“We are delighted that ODP has chosen Microsoft Azure OpenAI service as its solution for integrating transformational AI capabilities into critical business processes and systems,” said Eric ..."
+    publishedDateTime: 2023-04-26T12:33:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20230426005391/the-odp-corporation-expands-collaboration-with-microsoft-to-leverage-the-power-of-ai-technology-from-microsoft-azure-openai-service"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Morningstar
+      domain: morningstar.com
     quality: 19
 
 secured: "iuDw4IyTqc2Iz4k7WMwRXYxrKFg7isNDtHbxAjQdpCOQIKwT5mTyFHZ9t/8n8+KCMKLNwqG+fPGQfmPlPDCpwmZgItAUdXnb5gZprsBm3VbY7S2M2IWLYaZik/3PH1WaQonbWlXnDuEBKneWrxy/KJ7hQnRYWHPo4dx65zGpa1gTL7AuzhHlF0+WmO2qOU+pIPPOEQt0ZliKbTZsd7Fg7Cp7dJO7g5OWuIfAUFc9ID6caRRPTH9PUGHKq8/5/PCafopWOcA57GWYYxjm6sWAnbJH1ie4PmxNrFkBVd6QybTVhflTTB+hvOBTMh+TuQAIicN8B3MJFZ/zF6VIBwQMz2+ZTMQRqql2LSH8ilZpbGl634ur2d3qrPH0RB1LwK4GNJd1C0a4xzMUUlW/x4qb7KiHLgQ5QioGqCHIiRwAVQP99ZTYEM3i2HTcPzXY2p+2ReasR/4WCLpe65IJa8RcV21udAH+3QjlV/u0I4dqgoy+FSwEMiTFNH3BBdg2CNfaPt+zraE+ve3KhkCNvzGzmw==;BIuHklN7O+CTF02q5eoqzg=="

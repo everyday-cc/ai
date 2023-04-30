@@ -63,6 +63,20 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Pagaya gets Buy initiation from Benchmark as AI-focused fintech adds partners"
+    excerpt: "Pagaya Technologies (NASDAQ:PGY) stock drove up 7.9% in Wednesday afternoon trading as Benchmark started coverage of the AI-focused fintech company with a Buy rating on prospects of \"significant ..."
+    publishedDateTime: 2023-04-26T12:21:00Z
+    webUrl: "https://seekingalpha.com/news/3960570-pagaya-gets-buy-initiation-from-benchmark-as-ai-focused-fintech-adds-partners"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 36
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1324440713/image_1324440713.jpg?io=getty-c-w750"
+        width: 750
+        height: 399
+        isCached: true
   - title: "Fintech start-up 1fs Wealth secures backing of Singularity Capital"
     excerpt: "London based early stage fintech, 1fs Wealth, has secured the backing of US venture capital firm Singularity Capital, as interest… | Finance | Finance | Fintech | National | Investment |"
     publishedDateTime: 2023-04-27T10:54:00Z

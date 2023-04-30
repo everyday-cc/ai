@@ -74,20 +74,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "2023-2030 Global Artificial Intelligence (AI) in Agriculture Market is Growing Rapidly with Emerging Pattern"
-    excerpt: "Artificial Intelligence (AI) in Agriculture Market Research Report give analysis of industry development growth opportunities, Trend till 2029. Artificial Intelligence (AI) in Agriculture Market detailed analysis of business is mainly cover by Application [ Precision Farming,"
-    publishedDateTime: 2023-04-25T15:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-2030-global-artificial-intelligence-ai-in-agriculture-market-is-growing-rapidly-with-emerging-pattern-2023-04-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "xWigl1mUstFD8+6I8T+gMQ+ed5NYEDK/GN8iVIlTnZiM/iIn+0By2h20V1BMJRZOnRYPFUqn8VTQmIivgfk6HHnPMRwJew3A7agc9vgzsk+4bFTxjp3iKSL09D+rKYFKxuuRrYnpzWsLIEaOfGuFXraXak+crFHgJK/kxdfqarnE5ZdJrGMFdVDw4R31zDHjUpW+zcVGx+TrN0BEwc+PovcRsEuOD6A2vGTkcA5zupeAjbUnXoHcLPvtu3ePwU2o6p/NushiIiZr/zmC3qkvNhjjoEYVz+Cbjrie84yOSSgcWsoycyC9MzFwXnMoLfChrY3y36ElWRpW+kzkA2TsRTRHn/nNzy2Ca+m5dUppk50=;6HCeMGtEzT+zsxqtfGgZ1Q=="
 ---

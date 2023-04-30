@@ -51,6 +51,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "GOP Launches the Age of AI-Generated Attack Ads"
+    excerpt: "The Republican Party used AI imagery to paint a picture of Biden's dystopian America in a new political attack ad on YouTube."
+    publishedDateTime: 2023-04-25T17:14:00Z
+    webUrl: "https://gizmodo.com/youtube-biden-ai-political-ad-gop-stable-diffusion-1850373150"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 47
   - title: "Jeeves.Ai Launches Revolutionary AI-Powered Content Creation Tool for Businesses of All Sizes"
     excerpt: "Today marks the launch of Jeeves.Ai, an AI startup dedicated to making artificial intelligence accessible to the masses. The company, seeded by a team of"
     publishedDateTime: 2023-04-28T15:31:00Z
@@ -94,20 +103,6 @@ related:
       - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Apr2023/20230428_EUAI_Reuters.jpg?itok=7hZy3u6s"
         width: 848
         height: 601
-        isCached: true
-  - title: "Yellow.ai launches Dynamic Automation Platform (DAP) with Generative AI, unveils new logo"
-    excerpt: "Yellow.ai, a global leader in Conversational AI, today announced the launch of its Dynamic Automation Platform (DAP), powered by generative AI, that enables enterprises to automate customer and employee experiences at scale with 60% reduction in their operational costs."
-    publishedDateTime: 2023-04-25T16:55:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/04/25/9801543.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 30
-    images:
-      - url: "https://mma.prnewswire.com/media/2061615/Yellow_ai_launches_Dynamic_Automation.jpg"
-        width: 400
-        height: 400
         isCached: true
 
 secured: "519aeukAZMJuxTQLgEJJPgpgtD+7dX0wJ/dCFm/MqSqFtDSTm6VBVGoVFf7NWNISQ3zBd7Pwv3Be0rapKb25BhMaol/MbRkM9wLw/vt701gXx6cn13mPBeekCtwZHDHoYz2OHiMlCYEkihMZgwZEc2pDL4YkHbh4J4Vt0HOkSVTDP47owwi3DJLFJXUmw8RyVVhbsUFsTI+xalmH/N03VG+0UKulIIxYY0GonEgmNoldq8QbXYu7JnCiRQV0qrm6jLxRPVPDIwH+jYcpr3J1xszGbV2DvU3qlH9kRJ4otf3H6hMNvQpqt8UMdJYjq/dHSEhw6IRZVm50NsRitEKm9cj1ldBPv4myAdy7LXeWuxo=;mNrTQDX2dVVTbrnJWcZ0dw=="

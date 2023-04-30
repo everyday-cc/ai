@@ -38,20 +38,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "AI, Robots, and the Inventive Future of White Castle"
-    excerpt: "White Castle has been around 102 years, give a month or two. A journey that began when Billy Ingram and Walter Anderson began dishing square hamburgers for 5 cents apiece. Still family owned, the brand’s guidepost remains nostalgic—“Create Memorable Moments."
-    publishedDateTime: 2023-04-25T16:02:00Z
-    webUrl: "https://www.qsrmagazine.com/exclusives/ai-robots-and-inventive-future-white-castle"
-    type: article
-    provider:
-      name: QSR magazine
-      domain: qsrmagazine.com
-    quality: 54
-    images:
-      - url: "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/2022-02/WCFlippy.jpg?itok=Op-wfPU2"
-        width: 765
-        height: 446
-        isCached: true
 
 secured: "wR9nbelCSo+a6knjJY61bgLqi7FJEYvguhA9zeEgBH1/V8LzIoC2Ktfbvykwo6qyRxenvb/c9LKzidyusOQXZHmF8kHON4h5Pv53CEkDNcuJ0SW0E39FpwXwluX3Js7CuCGeUd2vfaf6vqSuBDcTD1l2rqAFT3VCiwtYWFzArM4Qk7XHaiuGVcO3NWE7HHnjgMX3+V5lOr6DlA95OQWhUV6hRhxrSm0fuldWVdVR1NJg5v0FBjUMb49cwLplsWvueBH711Jfdzqdcs+M1haLC9y9GpMp3wTEGh/INTbYAa2gESs5KsU2hgto7cvS/wx2dorRaPblM0yZYrPPk2nrwnf5caLtzHIc/vVLcg4MFguVhq5H9+6loBkzbMlTlm3143DIa9I5M4kB51zUsB14Z5c7WovakQc1Dr6B3/GqRajLs2FOU4KqUiv0xOAvfECkjvgXjq6284/w9ft+gVb+oaZvkM7Nu4FWWm6UnO9lQfzILS/ZmYp57cVbbTtlzzWflXjrn2GA7qHmpzzggG+73Q==;A4tc7n+mBIuxQRHT7m+tKQ=="
 ---

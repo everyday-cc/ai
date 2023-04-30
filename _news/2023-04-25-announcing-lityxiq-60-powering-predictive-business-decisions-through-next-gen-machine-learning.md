@@ -1,29 +1,25 @@
 ---
 category: news
 title: "Announcing LityxIQ 6.0 - Powering Predictive Business Decisions Through Next-Gen Machine Learning"
-excerpt: "Lityx makes its leading alternative AI and MLOps platform easier to deliver value for organizations focused on digital transformation WILMINGTON, Del.,  /PRNewswire/ -- Lityx, LLC today announced the release of LityxIQ 6."
-publishedDateTime: 2023-04-25T15:51:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/04/25/9801468.htm"
-webUrl: "https://it.tmcnet.com/news/2023/04/25/9801468.htm"
+excerpt: "Lityx makes its leading alternative AI and MLOps platform easier to deliver value for organizations focused on digital transformationWILMINGTON,"
+publishedDateTime: 2023-04-25T13:54:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/announcing-lityxiq-6-0-powering-predictive-business-decisions-through-next-gen-machine-learning-1032258784"
+webUrl: "https://markets.businessinsider.com/news/stocks/announcing-lityxiq-6-0-powering-predictive-business-decisions-through-next-gen-machine-learning-1032258784"
 type: article
-quality: 26
-heat: 26
-published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Machine Learning
+  - AI in Finance
   - AI
+  - Machine Learning
 
-images:
-  - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
-    width: 550
-    height: 353
-    isCached: true
-
-secured: "E7WyEyURKPVRtVmYBBFXNyRIWkIpgyHiAB2VFJkJIJBvGNWAn3szL1KJu7tLSbyfjtD4vlXJoRVEaGm6kE556z9zyFiIYXWprCD2JTHX4SK3tpeUezJny5Mv1z3tbETPg0HupPVaN3xXDSCVrSiTa0WMRxMrAPVoZIRZuYxnTjZrudpPt62zp20TgXWfSgFzLHeM8ftSzp/DEGQZOTXK0xYhIOBiPMEYjGNfhGlnN7QrrFf04Bo8NiN1wFxCyEZbgtLokXft8aqXz6qpcOa7AxZDLhwySvpwVmfAJGDYa3CqnUStkHqC1mufqr1DdSS2T/3dE/yn6rgVWPmfZHSLR/4DOZytm6YH/x4f/tWdRCc=;hoznTFd+Wp253X+F39aEOQ=="
+secured: "ai/RDgDqV/rI7p7wN3yjo5En9/SjyuHuH5c4VUn+AlrBZfCV/kmp0IKajKJMCnhr7D+S84EcrJInt5M+su64qN7pQjTwoH4NfUipFCxZAPlUgbyAzkeda2IPMh0hcwBg1AGu/6QTTfHoO1OmzSLHulxbVC4nUl/r3ke59CuGiN/vwwwnH4drOMaE6AuxbJCAB0oTiRqq0wPimLHg4RixPEsNW9Ew+Z5gxKOrarb5t461tacqyP3NqKSnMhk6zv8rrazaBU6UQXTT4/wMJ2U2B0n89UNQAK4bTqPa4IzphGFCAmoC1ypyohAV2dNPiYuBY3JhpiTv31RbgkyxzDh2TlW+frJHEky738qenETIHTs=;AI+MgpFtGeUndJmH0qiA8A=="
 ---
 

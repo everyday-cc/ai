@@ -1,37 +1,32 @@
 ---
 category: news
-title: "Legal AI Race Draws More Investors as Law Firms Line Up"
-excerpt: "legal AI startup Harvey said Wednesday that it raised $21 million in fresh investor cash. Sequoia Capital, which is leading the Series A fundraising round, said more than 15,000 law firms are on a ..."
-publishedDateTime: 2023-04-26T20:42:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2023-04-26/legal-ai-race-draws-more-investors-as-law-firms-line-up"
-webUrl: "https://www.usnews.com/news/technology/articles/2023-04-26/legal-ai-race-draws-more-investors-as-law-firms-line-up"
+title: "Legal AI race draws more investors as law firms line up"
+excerpt: "REUTERS/Kacper Pempel/Illustration/File Photo April 26 (Reuters) - With more and more lawyers at major law firms using fast-advancing generative artificial intelligence tools, legal AI startup ..."
+publishedDateTime: 2023-04-26T22:49:00Z
+originalUrl: "https://www.reuters.com/legal/legal-ai-race-draws-more-investors-law-firms-line-up-2023-04-26/"
+webUrl: "https://www.reuters.com/legal/legal-ai-race-draws-more-investors-law-firms-line-up-2023-04-26/"
 type: article
-quality: 47
-heat: 47
+quality: 67
+heat: 67
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI
 
-related:
-  - title: "Legal AI-focused firm Harvey raises $21M led by Sequoia"
-    excerpt: "Harvey, a generative AI startup focused on the legal profession, announced Wednesday that it has raised $21 million in funding. Sequoia Capital led the Series A funding round, which follows up a $5 million funding round in November from OpenAI LP’s startup fund,"
-    publishedDateTime: 2023-04-27T17:13:00Z
-    webUrl: "https://siliconangle.com/2023/04/27/legal-ai-focused-firm-harvey-raises-21m-led-sequoia/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 17
+images:
+  - url: "https://www.reuters.com/resizer/4kORWasYmNLDYGKc96WP-Id9DFU=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JW2YFTG4WBMYJJ3OEF4B725QMY.jpg"
+    width: 728
+    height: 381
+    isCached: true
 
-secured: "AwDEf+69BDVt3I9vcE3AqJEqKncMumkcErGPfGtV01Ijvcpe0J+sH/PfwbYYwbK6HsR8TW2DXNvLjJD/7bxy8nkmec5D48NMGOJKgr8Wr8XO24ro0Ni/2DC6+V5F9MZUl1kCmlYq7kHrns4UswAkejiSjabTTxzDgDrbKNVzVv7X4RBqZMKRP24sTvus4D2BDX5qTv032/MgmkYLAHOMalNTa+QCdN7WRRayDowiYdAWyevVeusspfHSHkujiG9PB4nC6hKxLicPklk/z98uRfT4c2gCj8LS6SEBneQtsUgIwiZCbq1ELHY7XE7N0aMesTE15m4V3NgVoxlWeu3PpEh6IJvZEcEheP+UvZvP+dg=;nvyeX8ojit5e8YD4XsotRQ=="
+secured: "+TFxjE9fNuPACDwA8kO/eKbZmKuHc3bqWODehSW0Dc6kekLw0yHfMOrsADsGc0up/7tLabFk9MPwhWBprTBSpwnm6U9Eoh6+SCivHDiTJduZts340Qrk+/s0oAUAU8LwVjFxpu3PpENXoYjZq6r13ef6FfW1Mn3mWRrT5wmetZiO13s2WiM8qGyPArUmLNrZdllCKEp9ojxYOoxBAMHYA9+RIBpA/I1AEl5alMTnjmtCbd3AV2Zt5xuSHOlgld04NtKbvSzFHexXi/g+tvRhESbN9S4DPCwcfDWN+JaxNdv0FBYscEQ/I8AEJNsm7k+N5NeQRDNeV9rAsWqSwobY69utJWkSvpOPIIYss/SJSHc=;LK4kD9p6K76afzbdTg0MDg=="
 ---
 

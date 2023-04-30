@@ -9,7 +9,7 @@ ampWebUrl: "https://diginomica.com/built-world-ai-start-ups-lead-investments-ove
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/built-world-ai-start-ups-lead-investments-overtake-fintech-and-marketing?amp"
 type: article
 quality: 75
-heat: 145
+heat: 155
 published: true
 
 provider:
@@ -55,6 +55,20 @@ related:
       - url: "https://assets.entrepreneur.com/content/3x2/2000/1682721803-GettyImages-1365582863.jpg"
         width: 2000
         height: 1333
+        isCached: true
+  - title: "Pagaya gets Buy initiation from Benchmark as AI-focused fintech adds partners"
+    excerpt: "Pagaya Technologies (NASDAQ:PGY) stock drove up 7.9% in Wednesday afternoon trading as Benchmark started coverage of the AI-focused fintech company with a Buy rating on prospects of \"significant ..."
+    publishedDateTime: 2023-04-26T12:21:00Z
+    webUrl: "https://seekingalpha.com/news/3960570-pagaya-gets-buy-initiation-from-benchmark-as-ai-focused-fintech-adds-partners"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 36
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1324440713/image_1324440713.jpg?io=getty-c-w750"
+        width: 750
+        height: 399
         isCached: true
   - title: "3 Fintech Stocks With Huge Return Potential for Long-Term Investors"
     excerpt: "The fintech market continues to grow at a blistering pace, as consumers and businesses migrate online and use their smartphones and apps to make increasingly sophisticated digital payments and online financial transactions."

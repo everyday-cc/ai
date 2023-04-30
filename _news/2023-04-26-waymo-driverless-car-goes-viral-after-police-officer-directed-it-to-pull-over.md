@@ -9,7 +9,7 @@ ampWebUrl: "https://www.autoblog.com/amp/2023/04/22/waymo-driverless-police-pull
 cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2023/04/22/waymo-driverless-police-pull-over-viral-tiktok/"
 type: article
 quality: 71
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 800
     height: 450
     isCached: true
+
+related:
+  - title: "The do’s and don’ts for sharing the roads with driverless cars"
+    excerpt: "The rest of us can learn from San Francisco residents about what it’s like to share the roads with driverless test cars. Tech is not your friend. We are. Sign up for The Tech Friend newsletter."
+    publishedDateTime: 2023-04-29T04:32:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2023/04/25/waymo-cruise-driverless-cars-advice/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 39
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RYMA3RJFUVE2RNF2SNVQA3LJNI.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "g9SMOMIVY1efEMdgoxS4g+NbvVJcdh4buhZrlBvduC6AmzHfykvUruzMbCLuiS5E/NCAlX1JrTew4tao3DCAAoqyqk4AsrExkcn6jlLybk/qD+GCi7VeEd+qxGjxq5rzSYGjNEycBQwPsBqCAC211Cit+edNurzWurS4u1H+nDSlR61LoegwqiMzWTW5te5Iqge2Vpe9YZuPsuAueR7wI+Ub/fv5UnhrJLwCS/GFhgj0EBm51QX9yYtINakccDToxuomV/t4ttEnFZOeZ+Cj8+LnlNFfUv1ZEJ3a/hMffZDJ6dTxn1BCikWAuDjb9nUYDVDVo8V6xkvrL2NHBXINmwuSt1PU+T4mc6APCL6U2Oc=;Rkd7L9jDtQwN5Ank3ErBcQ=="
 ---

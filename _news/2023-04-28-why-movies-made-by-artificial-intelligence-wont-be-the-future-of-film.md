@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/culture/2023/apr/28/the-guide-ai-film-jo
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/culture/2023/apr/28/the-guide-ai-film-joe-russo"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: The Guardian
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI, Robots, and the Inventive Future of White Castle"
-    excerpt: "White Castle has been around 102 years, give a month or two. A journey that began when Billy Ingram and Walter Anderson began dishing square hamburgers for 5 cents apiece. Still family owned, the brand’s guidepost remains nostalgic—“Create Memorable Moments."
-    publishedDateTime: 2023-04-25T16:02:00Z
-    webUrl: "https://www.qsrmagazine.com/exclusives/ai-robots-and-inventive-future-white-castle"
-    type: article
-    provider:
-      name: QSR magazine
-      domain: qsrmagazine.com
-    quality: 54
-    images:
-      - url: "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/2022-02/WCFlippy.jpg?itok=Op-wfPU2"
-        width: 765
-        height: 446
-        isCached: true
   - title: "The Guide #84: Why movies made by artificial intelligence won’t be the future of film"
     excerpt: "Surely we go to the cinema to be jolted and discomfited by someone else’s ideas – not to see ourselves in easy meetcute rom-coms with Marilyn Monroe"
     publishedDateTime: 2023-04-28T10:26:00Z

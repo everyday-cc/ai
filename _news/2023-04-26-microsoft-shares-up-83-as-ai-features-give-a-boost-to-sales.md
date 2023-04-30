@@ -80,22 +80,6 @@ related:
         width: 1200
         height: 777
         isCached: true
-  - title: "How to use Microsoft Edge's integrated Bing AI Image Creator"
-    excerpt: "How to use Bing AI Image Creator within Microsoft Edge. First, make sure you're running the latest version of Microsoft's browser. In Edge, click the thr"
-    publishedDateTime: 2023-04-25T15:15:00Z
-    webUrl: "https://www.zdnet.com/article/how-to-use-microsoft-edges-integrated-bing-ai-image-creator/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/how-to-use-microsoft-edges-integrated-bing-ai-image-creator/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-use-microsoft-edges-integrated-bing-ai-image-creator/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 104
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/035e7d6330c84dde7fd7b987442706c64e6bb2c0/2023/04/25/2d6e5d97-002d-4ed5-bef5-713bc3b87f48/figure-top-how-to-use-microsoft-edges-integrated-bing-ai-image-creator.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Microsoft Results Top Forecasts, Shares Jump 8% As AI Juices Sales"
     excerpt: "Microsoft Corp beat Wall Street's estimates for quarterly revenue and profit on Tuesday, driven by growth in its cloud computing and Office productivity software businesses, and the company said artificial intelligence products were stimulating sales."
     publishedDateTime: 2023-04-26T01:55:00Z

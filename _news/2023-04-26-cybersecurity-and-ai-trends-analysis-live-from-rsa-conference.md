@@ -40,22 +40,6 @@ related:
         width: 802
         height: 450
         isCached: true
-  - title: "RSA Conference 2023: Infosec and identity pros need AI — but it will change their jobs"
-    excerpt: "Information security pros and vendors will need to master artificial intelligence (AI) to fight threat actors who are already leveraging it, the annual RSA Conference in San Francisco has been told. \"Without good AI,"
-    publishedDateTime: 2023-04-25T16:48:00Z
-    webUrl: "https://www.itworldcanada.com/article/rsa-conference-2023-infosec-and-identity-pros-need-ai-but-it-will-change-their-jobs/537535"
-    ampWebUrl: "https://www.itworldcanada.com/article/rsa-conference-2023-infosec-and-identity-pros-need-ai-but-it-will-change-their-jobs/537535?amp=1"
-    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/rsa-conference-2023-infosec-and-identity-pros-need-ai-but-it-will-change-their-jobs/537535?amp=1"
-    type: article
-    provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 51
-    images:
-      - url: "https://i.itworldcanada.com/wp-content/uploads/2023/04/RSA-Conference-2023-photo.jpg"
-        width: 620
-        height: 289
-        isCached: true
   - title: "K-Pop Conference Finds AI Usage in Music Outpacing Copyright Law"
     excerpt: "Artificial Intelligence dominated the conversation at the inaugural Moving the World with Music conference in Seoul. But K-Pop executives said that copyright law is lagging far behind technologies such as ChatGPT and Midjourney."
     publishedDateTime: 2023-04-27T17:03:00Z

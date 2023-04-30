@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intell
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chips-market-set-to-boom-in-the-near-future-2023-2030-2023-04-26"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -66,20 +66,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 82
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "2023-2030 Global Artificial Intelligence (AI) in Agriculture Market is Growing Rapidly with Emerging Pattern"
-    excerpt: "Artificial Intelligence (AI) in Agriculture Market Research Report give analysis of industry development growth opportunities, Trend till 2029. Artificial Intelligence (AI) in Agriculture Market detailed analysis of business is mainly cover by Application [ Precision Farming,"
-    publishedDateTime: 2023-04-25T15:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-2030-global-artificial-intelligence-ai-in-agriculture-market-is-growing-rapidly-with-emerging-pattern-2023-04-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -120,20 +120,6 @@ related:
         width: 504
         height: 500
         isCached: true
-  - title: "Growth of generative AI is leading to change moment for DevOps"
-    excerpt: "The role of data in DevOps is changing, facilitated by the introduction of powerful new generative artificial intelligence engines such as ChatGPT. The success of DevOps in modern, cloud-native environments has given rise to platform engineering,"
-    publishedDateTime: 2023-04-25T15:59:00Z
-    webUrl: "https://siliconangle.com/2023/04/25/growth-generative-ai-leading-change-moment-devops-kubecon/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/04/Mohan-et-al.jpg"
-        width: 986
-        height: 657
-        isCached: true
   - title: "Google takes an opinionated view of how generative AI can be used in cybersecurity"
     excerpt: "Google LLC announced a large language model fine-tuned for cybersecurity operations. The new generative AI model, Sec-PaLM, is designed to address enterprise challenges around threat overload, tool sprawl and a shortage of talent in the cybersecurity business."
     publishedDateTime: 2023-04-25T22:17:00Z

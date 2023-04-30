@@ -7,8 +7,8 @@ originalUrl: "https://www.sciencefriday.com/articles/ai-for-stem-education/"
 webUrl: "https://www.sciencefriday.com/articles/ai-for-stem-education/"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: Science Friday
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Recommendations for handling AI in schools"
-    excerpt: "The Berlin Senate Department for Education has issued recommendations for teachers on the use of artificial intelligence (AI) in schools."
-    publishedDateTime: 2023-04-25T15:32:00Z
-    webUrl: "https://www.berlin.de/en/news/8171213-5559700-recommendations-ai-schools.en.html"
-    type: article
-    provider:
-      name: Berlin
-      domain: berlin.de
-    quality: 39
-    images:
-      - url: "https://www.berlin.de/binaries/asset/image_assets/8171261/ratio_4_3/1682428664/800x600/"
-        width: 800
-        height: 600
-        isCached: true
   - title: "7 popular tools and frameworks for developing AI applications"
     excerpt: "Artificial Intelligence (AI) is a rapidly growing field with numerous applications ... It can be used to build a machine translation system that can translate text from one language to another. Theano is a popular Python library for numerical computation ..."
     publishedDateTime: 2023-04-27T16:24:00Z
