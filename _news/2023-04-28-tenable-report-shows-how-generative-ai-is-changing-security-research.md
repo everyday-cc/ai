@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/security/tenable-report-shows-how-generative
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/tenable-report-shows-how-generative-ai-is-changing-security-research/amp/"
 type: article
 quality: 106
-heat: 186
+heat: 176
 published: true
 
 provider:
@@ -126,20 +126,6 @@ related:
       name: CIO
       domain: cio.com
     quality: 34
-  - title: "Google takes an opinionated view of how generative AI can be used in cybersecurity"
-    excerpt: "Google LLC announced a large language model fine-tuned for cybersecurity operations. The new generative AI model, Sec-PaLM, is designed to address enterprise challenges around threat overload, tool sprawl and a shortage of talent in the cybersecurity business."
-    publishedDateTime: 2023-04-25T22:17:00Z
-    webUrl: "https://siliconangle.com/2023/04/25/google-intros-large-language-model-security-leverage-threat-data-generative-ai-rsac/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 31
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/04/Sunil-Potti.jpg"
-        width: 986
-        height: 657
-        isCached: true
 
 secured: "mUyVpg3BKf6pWw4EfGFDh60sIQVIk49FIrYGketytVRhH5Uf9BHbu8KEdRNEPb+zWTu7bcdPPsk34tETEa53adBEQvxYDNb2KNfwlm79bpbJpASrNy1ajnzUmUm4Zo818Yp5iXLFogt4+QPUltNhVpTuVC/XuOiA6CikUg9J3yCsvbW8ZVhlxj14DluzAy5dJI5a2GgcDh0Tle1Ho8RhpiC8hvlltTmhzWQoFzSv75OlppYcb1fZjCKq0uNcTHBybdGh9/ufHOdyGDeq484FXNUSYaVAbYYgG7CfOYSB3qOsLls7f7A8fga1rYsqYLgYaE9EtnjPA3N9QvGm/OOqNNFeI5+Ik2aJ8ZPR9600jeP4tZFQ/8UbrPjrpTb7r7R3K6KUWOHQziat9MVgxLR2SuAWHNITPVxhUJeZX3z7mRDY4K8BpYW3Z+N7mfzMS+K/PTyYweQ9Zhh8xe+Nm/BwydE3TaSuF2dup6oWw7OKnDb6jVf2DvDJmJZzAe56I0fJbRQjXO4ticO2cFKp1SFc2g==;Tv9zvtB/uJVa5NPmlGeH7w=="
 ---

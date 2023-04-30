@@ -83,22 +83,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Microsoft shares up 8.3% as AI features give a boost to sales"
-    excerpt: "Redmond-based company exceeded analysts’ estimates, driven by its cloud computing and Office software businesses"
-    publishedDateTime: 2023-04-25T22:55:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/apr/25/microsoft-shares-up-chatgpt-bing-search-engine"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/apr/25/microsoft-shares-up-chatgpt-bing-search-engine"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/apr/25/microsoft-shares-up-chatgpt-bing-search-engine"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 91
-    images:
-      - url: "https://i.guim.co.uk/img/media/d1c853790f13f2c449fd86914a709aa0d50098b7/0_319_5454_3273/master/5454.jpg?width=620&quality=85&auto=format&fit=max&s=60879d716284ba1a084e6624e792ffda"
-        width: 620
-        height: 372
-        isCached: true
   - title: "ChatGPT: How to use the AI chatbot that’s changing everything"
     excerpt: "AI enthusiasts have compared it to the surge ... It runs on Microsoft’s Azure system infrastructure and is powered by Nvidia’s GPUs. ChatGPT recently launched a new version of its own ..."
     publishedDateTime: 2023-04-26T12:50:00Z
@@ -218,20 +202,6 @@ related:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEAFu8PqTyCc/v1/1200x799.jpg"
         width: 1200
         height: 799
-        isCached: true
-  - title: "Microsoft leans on its AI prowess to deliver a surprising quarterly earnings beat"
-    excerpt: "Microsoft's (MSFT) better-than-feared fiscal third-quarter results, coupled with solid revenue guidance, sent shares soaring in afterhours trading."
-    publishedDateTime: 2023-04-25T22:00:00Z
-    webUrl: "https://www.cnbc.com/2023/04/25/microsoft-leans-on-its-ai-prowess-to-deliver-an-earnings-beat.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 79
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107190377-1675796187369-bing-edge-launch.PNG?v=1682467220&w=1920&h=1080"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Here’s how Microsoft plans to reap billions from AI"
     excerpt: "The company hopes steal search revenue from Google, help businesses build their own chatbots and AI tools, and incorporate AI-enhanced productivity tools across its product lineup."
@@ -583,15 +553,6 @@ related:
         width: 1812
         height: 900
         isCached: true
-  - title: "Siemens and Microsoft Partner on Generative AI for Industry"
-    excerpt: "As part of the new Siemens Teamcenter app for Microsoft Teams, this integration of generative artificial intelligence reportedly enables users to input feedback verbally to aid production quality and controller programming tasks."
-    publishedDateTime: 2023-04-25T19:31:00Z
-    webUrl: "https://www.automationworld.com/factory/digital-transformation/article/33003971/siemens-and-microsoft-partner-on-generative-ai-for-industry"
-    type: article
-    provider:
-      name: Automation World
-      domain: automationworld.com
-    quality: 34
   - title: "What the Alphabet and Microsoft earnings calls tell us about the AI arms"
     excerpt: "Alphabet and Microsoft are acting aggressively to get in front of the large profits that could be had when AI begins to radically change the face of computing."
     publishedDateTime: 2023-04-26T17:16:00Z

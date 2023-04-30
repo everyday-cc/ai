@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/04/28/rsa-conference-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/04/28/rsa-conference-2023-ushers-in-the-age-of-artificial-intelligence/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -59,6 +59,15 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "Emerging trends in 2023: The evolution of AI in online shopping"
+    excerpt: "In recent years, the AI technology has been widely adopted by the e-commerce sector and AI will witness a fast growth in the coming years so as to enable e-commerce businesses in making data-driven strategic decisions."
+    publishedDateTime: 2023-04-30T13:53:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/emerging-trends-in-2023-the-evolution-of-ai-in-online-shopping-10503931.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 17
 
 secured: "42k2MCrqYOx1iJNAiGVXlMuzThjySYhrtfLC+h1EtlaUvEMGXI0Rfx9E+OipIAhk0y7xyhVDO7qyUn7/L4izT37dWc9g2TNvPk/r9QnVZUvIQbec4eR8e58YeEdZw071/mMGXYHnwuuSIzdCU5I0cgu4a+CETrGyIXTbnhr4JLzdNXQKdGBdClmcm7hMVU326UAe8HS854dzbs5Rb2fbjVkOD5KTMUgo0OFlAiLWT9O2U3z+EsGS4li4QYAF6aQUb9jq3NOrGdigpZMn0gPdzzOSxzwbyCzECPMHCDhGlM3KKwmpmD9lgyvcyYkB8f8ZUkony/Xo8ED3IYJje+E2UNryqmKd6pQWN4cjGcXMQia+j+JNDulPlksuBE+8ojHc6RzSA8T/pJ7ivKp719ka6piOE+FD1kNcCgSNzWCFea9Xv9/ziWmZ2hgYoZjgwQv2hvKHhEJlF8aI+7M1WjIpLBYkJuUNM5wCQssnAwVrHesPyZgcW4W/JBxAPEgLcwgsYyA2uPZcXW6sKB7DlvAyRg==;rGp0UbEPKgnVdNHCFJjN9Q=="
 ---

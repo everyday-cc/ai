@@ -204,20 +204,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 36
-  - title: "Chat AI Chatbot Assistant: Revolutionizing Productivity And Assistance Powered By Chatgpt"
-    excerpt: "Chat AI Chatbot powered by ChatGPT Discover the power of intelligent and engaging conversations with the Chat AI Chatbot Assistant app, n"
-    publishedDateTime: 2023-04-25T21:52:00Z
-    webUrl: "https://menafn.com/1106094711/Chat-AI-Chatbot-Assistant-Revolutionizing-Productivity-And-Assistance-Powered-By-Chatgpt"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 30
-    images:
-      - url: "https://menafn.com/updates/pr/2023-04/25/EP_00e23image_story.png"
-        width: 600
-        height: 314
-        isCached: true
   - title: "Where traditional search and AI chatbots excel: A closer look"
     excerpt: "Learn key areas where traditional search engines like Google and AI chatbots like ChatGPT have the upper hand."
     publishedDateTime: 2023-04-27T13:00:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.herald.co.zw/why-ai-is-not-going-to-change-the-world-t
 webUrl: "https://www.herald.co.zw/why-ai-is-not-going-to-change-the-world-too-much/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,35 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "How artificial intelligence arms race is set to change way we assess other humans"
-    excerpt: "The rise of artificial intelligence will have a profound impact on the way businesses compete for top talent. It’s an arms race investors should be watching closely, according to Compono CEO Rudy Crous. It’s a realm Compono knows well, as a provider of intelligent hiring and development software."
-    publishedDateTime: 2023-04-26T01:55:00Z
-    webUrl: "https://www.theaustralian.com.au/business/stockhead/how-artificial-intelligence-arms-race-is-set-to-change-way-we-assess-other-humans/news-story/ea5ecd7c392cbd508c1ce0e44cea866f"
-    ampWebUrl: "https://www.theaustralian.com.au/business/stockhead/how-artificial-intelligence-arms-race-is-set-to-change-way-we-assess-other-humans/news-story/ea5ecd7c392cbd508c1ce0e44cea866f?amp"
-    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/business/stockhead/how-artificial-intelligence-arms-race-is-set-to-change-way-we-assess-other-humans/news-story/ea5ecd7c392cbd508c1ce0e44cea866f?amp"
+  - title: "How Artificial Intelligence is Changing the World L.G Epsom College"
+    excerpt: "Artificial intelligence (AI) is rapidly changing the way we live and work, and its impact is being felt in almost every industry. From"
+    publishedDateTime: 2023-04-30T13:02:00Z
+    webUrl: "https://www.thisislocallondon.co.uk/news/23491282.artificial-intelligence-changing-world-l-g-epsom-college/"
     type: article
     provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 32
-  - title: "Streaming Audio May Never Be the Same After AI. And That’s a Good Thing"
-    excerpt: "Artificial intelligence tech is threatening to permanently alter another facet of entertainment, with serious implications."
-    publishedDateTime: 2023-04-27T13:00:00Z
-    webUrl: "https://variety.com/vip/streaming-audio-may-never-be-the-same-after-ai-but-thats-also-a-good-thing-1235595834/"
-    type: article
-    provider:
-      name: Variety
-      domain: variety.com
-    quality: 17
-  - title: "Exploring the Perils, and the Misconceptions, around Artificial Intelligence"
-    excerpt: "Artificial intelligence (AI) has enormous potential to improve our lives in many ways, we are told. However, this exciting new field is also laced with pitfalls for academic researchers. How should they navigate the ethical challenges that come with using AI?"
-    publishedDateTime: 2023-04-27T19:00:00Z
-    webUrl: "https://www.bowdoin.edu/news/2023/04/exploring-the-perils-and-the-misconceptions-around-artificial-intelligence.html"
-    type: article
-    provider:
-      name: Bow Doin Polar Bears
-      domain: bowdoin.edu
-    quality: 16
+      name: This is Local London
+      domain: thisislocallondon.co.uk
+    quality: 41
+    images:
+      - url: "https://www.thisislocallondon.co.uk/resources/images/16726159/?type=og-image"
+        width: 941
+        height: 630
+        isCached: true
 
 secured: "JKftIzVo48LhvM7gOoFmE4O554/bLollXFngSSrUgfEeH9CiNWSfD/BVqVAsNF3mHBzbaW2dhwJF2PQ9N54lKF3WW1f2yFZ07ag77trpC07vMu+b8jr0wZR4vbrlYd06FebJr0x4dQs+bvaebB2qqfeBQNewSlyn6iGt3ljgrwK/jC0TfOoRFFWzsu57fZDpqfkjv2CVeWF8dunrhFyi+XbuODRysfRbp3ShLLGA0ZrqTmUDhIE0TqdmMHNl5kWKzlENYABDFqtEJxCByaPDasSanllc8LiXPSlv5NPVStOlbWg9Yaz9dsURyA1YQ6HNO/n7atRF4GrtX6aPiPzQIOZ+6sX1L3JZ9jKuiUvBJ34/olwT/ZmekosKaJzEoa1eig/ThOePp7iZq+cQLgxBWek+K2XaX/zW6SzbzT6x1EKWJgYg8tsS2eXdhUDdjtBB3oYce3kvixN9d3fEf175N+2j0jG8Q0unI1Rsyj+/QI6uWhxtSOTNIxS8BjMZyM1vJbglcaNTZDExNNVi4qbyeg==;Xh7BBcG1aaEWXuYcGbjhgg=="
 ---

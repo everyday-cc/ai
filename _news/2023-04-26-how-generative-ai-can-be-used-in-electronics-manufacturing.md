@@ -125,20 +125,6 @@ related:
       name: CIO
       domain: cio.com
     quality: 34
-  - title: "Google takes an opinionated view of how generative AI can be used in cybersecurity"
-    excerpt: "Google LLC announced a large language model fine-tuned for cybersecurity operations. The new generative AI model, Sec-PaLM, is designed to address enterprise challenges around threat overload, tool sprawl and a shortage of talent in the cybersecurity business."
-    publishedDateTime: 2023-04-25T22:17:00Z
-    webUrl: "https://siliconangle.com/2023/04/25/google-intros-large-language-model-security-leverage-threat-data-generative-ai-rsac/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 31
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/04/Sunil-Potti.jpg"
-        width: 986
-        height: 657
-        isCached: true
 
 secured: "IgR1UFZUJRX3ICdj/e3lAUbQcyP4/awgi3mZF6HlLTo1Yfc7lD8Jr1evQhcAXbR7j+mjAIbHY84vUtErxQGegXfhsE7vNBplPVxhwecSgoroOycEV3yP8ARSh9b93T6NWSTHxLXuoBulsU5cOU1RyjYTPqwp453m/Hmuvxb/LP3DhtWXZ6vo57I9E7FjHCV/ZvDJJcY6IOsWFaxwMN8BO8ClabtlQWOlMwkMK0apNM3fAc7kgWn3zfMBxd+61d70HqCAHDmPsXLKmy7187WwBUHeHE9artQV/JIe7SSoU1oLBUkU3X83soZgQJz2geWMtRafVOO69O5Ir29RZqiMPoOyvB/cFFMUOQgRUU9+Iec=;LXej43We8/GuHqdcpGrB7w=="
 ---

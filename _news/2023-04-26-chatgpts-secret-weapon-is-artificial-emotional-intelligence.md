@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial generative intelligence risks a return to cultural colonialism"
-    excerpt: "The explosive rise of AI chatbots has brought us to a pivotal moment that will have lasting effects on our collective worldview."
-    publishedDateTime: 2023-04-25T20:10:00Z
-    webUrl: "https://venturebeat.com/games/artificial-generative-intelligence-risks-a-return-to-cultural-colonialism/"
-    ampWebUrl: "https://venturebeat.com/games/artificial-generative-intelligence-risks-a-return-to-cultural-colonialism/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/artificial-generative-intelligence-risks-a-return-to-cultural-colonialism/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 73
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-robot_machine_learning_AI_1323774184-e1659571276418.jpg?w=1200&strip=all"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "ChatGPT’s Secret Weapon Is Artificial Emotional Intelligence"
     excerpt: "Alphabet Inc.'s Google are rushing to enhance their search engines with the large language model technology that underpins ChatGPT — but there is good reason to think the technology works better as an emotional companion than as a provider of facts."
     publishedDateTime: 2023-04-27T02:36:00Z
@@ -57,6 +41,61 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Is ChatGPT using Artificial Emotional Intelligence as its secret weapon?"
+    excerpt: "Their designers may also prioritize fluency over accuracy. That is one reason why these tools are exceptionally good at mimicking empathy"
+    publishedDateTime: 2023-04-26T06:06:00Z
+    webUrl: "https://www.business-standard.com/technology/tech-news/is-chatgpt-using-artificial-emotional-intelligence-as-its-secret-weapon-123042600306_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/technology/tech-news/is-chatgpt-using-artificial-emotional-intelligence-as-its-secret-weapon-123042600306_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/technology/tech-news/is-chatgpt-using-artificial-emotional-intelligence-as-its-secret-weapon-123042600306_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 43
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2023-04/13/full/1681409565-5088.jpg"
+        width: 3840
+        height: 2562
+        isCached: true
+  - title: "Italy Brings Back ChatGPT with New Data Security Measures"
+    excerpt: "ChatGPT has resumed its services in Italy after implementing user data collection and usage changes as suggested by the Garante."
+    publishedDateTime: 2023-04-29T08:58:00Z
+    webUrl: "https://techreport.com/news/3496135/italy-brings-back-chatgpt-with-new-data-security-measures/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 41
+    images:
+      - url: "https://techreport.com/wp-content/uploads/2023/04/jonathan-kemper-MMUzS5Qzuus-unsplash-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
+  - title: "Looking for emotional support? ChatGPT’s secret weapon is artificial emotional intelligence"
+    excerpt: "There is good reason to think chatbots work better as an emotional companion than as a provider of facts. These tools are exceptionally good at mimicking empathy through learning from text scraped from the web,"
+    publishedDateTime: 2023-04-26T05:17:00Z
+    webUrl: "https://www.moneycontrol.com/news/opinion/looking-for-emotional-support-chatgpts-secret-weapon-is-artificial-emotional-intelligence-10478111.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/opinion/looking-for-emotional-support-chatgpts-secret-weapon-is-artificial-emotional-intelligence-10478111.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/looking-for-emotional-support-chatgpts-secret-weapon-is-artificial-emotional-intelligence-10478111.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 34
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/02/chatgpt-open-AI-rtr-1.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "ChatGPT is the Most In-Demand Workplace Skill in Q1 2023"
+    excerpt: "Udemy (NASDAQ:UDMY), a company dedicated to improving lives through online learning, today released its Q1 2023 Workplace Learning Index, a quarterly report"
+    publishedDateTime: 2023-04-27T15:04:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/04/g32049645/chatgpt-is-the-most-in-demand-workplace-skill-in-q1-2023"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 4
 
 secured: "KSYaTtJ8YXyvLlweNNEbbouWMD9wK1k6XDGvVFqwcrO5Mu+wOYC4IkxHiM/ieU27SVrnwjleHle7Q2K3KwrQoTLgPdCDYmRzz5PMWuYcBj9yVRv4UEyatZ7Eb/2cFhXc3gUuqxTw+blLeIQFnppeiBymijW11o21ksFcQapbj2AnQ+inwKYil1UJznJrAOyINpsHX5POtFjMcGLHkEbklopIdg0ysafldAttQbbxGCiouAIrToay1kUdS1/7ayS+40Nk9m29+a7A/UMGR0YQMqB7D1LmUkLEeF++7BTcqVwRkueNm66sNlT/KTV3xNzELpcMPrYRV9oMB+QyHrqzV3gcACYgGRPrAJn8atYza1k=;5TGFONbCjbQUdjqfJnAVSA=="
 ---

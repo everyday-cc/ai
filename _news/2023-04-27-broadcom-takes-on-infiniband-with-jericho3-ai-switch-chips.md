@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nextplatform.com/2023/04/26/broadcom-takes-on-infiniband
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/04/26/broadcom-takes-on-infiniband-with-jericho3-ai-switch-chips/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 879
     height: 565
     isCached: true
-
-related:
-  - title: "Broadcom's new switching chip links GPUs, aims to boost AI networks"
-    excerpt: "The new Jericho chip can connect up to 32,000 GPUs concurrently and promises shorter job completion times for AI workloads."
-    publishedDateTime: 2023-04-25T19:30:00Z
-    webUrl: "https://www.networkworld.com/article/3694588/broadcoms-new-switching-chip-links-gpus-aims-to-boost-ai-networks.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 49
 
 secured: "yJ7b2lM0PBoXcRyU39cpPOZT7WRf0MzRMlaeU6LoJ56PNw00MX1/epnHUO4XFJU4dh7DI6r2kvEjdILHXnBemq0liJECKDMJyxgHfSKPhTjSDsGIdHnO57i6FHc5UC/w5D5+CyfqrpBJy5jNVTYUsnpSYmq3AeXOJAVydtNtclda7ZXo1L3Hywb4ckPKiHNL2CvNLTCVqoL5zu8x1QMDs90xKJB9ArUxIaQU/uBA7dAwmz/50xpT0+DQkWT7yGC1OstdgZPmhJQOo9mn08DRYl9Wi+rPJfD5D04cKpeTLvt5TMy36rtws006EGa766GMeKSA5Qa9FKfSmtREdfLlc7DtLCe20Uwi09PPnhll/J40AEMi0yhhftBF0PZY+QWFG7TdtUoOh2npWCc71ZTYmv5b6OI6eZwBe6WBrjXETTa/hdWPVc+u9gRVnkd0gN0yIvseoHdBKaP24QA3GB0SkgHxWmnqYXExUyDjieMLIjQvZMktCwcFUf0Fen7plVAdWwbhbfd+rU7DTkpErEV8QA==;cu/UHh/2TVHVJUhtdDAx5A=="
 ---

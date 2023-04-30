@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/zennonkapron/2023/04/26/the-ascendancy-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zennonkapron/2023/04/26/the-ascendancy-of-ai-in-asias-financial-services-industry/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 137
 published: true
 
 provider:
@@ -71,6 +71,24 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "AI and Customer Experience in Fintech: Personalizing Financial Services"
+    excerpt: "With the help of AI, Fintech companies are personalizing financial services to provide a more customer-centric experience. In this blog post, we will dig into how AI reshapes customer experience in the financial industry. Chatbots and Virtual Assistants ..."
+    publishedDateTime: 2023-04-29T17:17:00Z
+    webUrl: "https://www.finextra.com/blogposting/24129/ai-and-customer-experience-in-fintech-personalizing-financial-services"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 19
+  - title: "The future of financial services in India"
+    excerpt: "Driven by extensive use of digital technologies, India’s financial services sector is undergoing a significant transformation with evolving consumer preferences, and increased competition. This is leading the sector towards a different growth trajectory."
+    publishedDateTime: 2023-04-30T13:03:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/the-future-of-financial-services-in-india/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 4
 
 secured: "is3KTLqjbbyEWYEp6iKKrRx8P3ShMBkvl86j3sl2+s0GoUybtBKENJhURlloO+MK3Y+jK8Lyp9QWFKO9Mg8YqkJFlgRmHO3F9wJyaReayI4ga8YHQoaTC8yzXID4mxXNOJbhE/7UNwCgHNd71pn11azaZtmvDA5hc3+1HBntWAljl1SQ6Hfkk5trPCMdIduf09+rdr1Jqj79wuI40n98vjmhDSnFwScyMUDYIIOGtvIegWfxifV+j8CFvJJc3HL4ObOGBNaCxomej39Mi1N2fScgV/ogpwIWSWDvAUAqdktNFwyjk4tbgwyBey/rs3Q65iCMxQZ6ogiuCrZ6YiXKTK7mGN2yOR2wOpgQST/rm+k66IMWgS0YbvoAIVo4Q/8DOR1BhPUwljVl7QGFIzE5QkZXZWlVNBNN2nMB5fz2v71cJ6+c3+ujTrKURUZZnb+8qwhkkBB80S7nRN3BIWMKoCKpbXMp7w0WvIS47jRyhEfZYGMQiCBG7sK1UmD+ydpqC0PZlt7ZyFpqobgTWNCkzQ==;qN4uUE9ea1MSfzif+bMSPQ=="
 ---

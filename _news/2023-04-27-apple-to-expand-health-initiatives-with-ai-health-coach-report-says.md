@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Apple is reportedly developing an AI-powered health coaching service"
-    excerpt: "Apple is developing an AI-powered health coaching service codenamed Quartz, according to a new report from Bloomberg's Mark Gurman."
-    publishedDateTime: 2023-04-25T21:19:00Z
-    webUrl: "https://techcrunch.com/2023/04/25/apple-is-reportedly-developing-an-ai-powered-health-coaching-service/"
-    ampWebUrl: "https://techcrunch.com/2023/04/25/apple-is-reportedly-developing-an-ai-powered-health-coaching-service/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/04/25/apple-is-reportedly-developing-an-ai-powered-health-coaching-service/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-1235254642.jpg?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Apple is working on an AI health coaching service, according to reports"
     excerpt: "Need help staying on top of your health and wellness goals? Apple is working on some projects that might help."
     publishedDateTime: 2023-04-27T18:44:00Z
@@ -78,15 +62,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Apple plans to expand Health services to include mood & eye tracking, AI coach planned for later"
-    excerpt: "Apple reportedly plans to release an AI-powered health coach and tools to track a person's mood, and the Health app might finally be available on the iPad."
-    publishedDateTime: 2023-04-25T19:32:00Z
-    webUrl: "https://appleinsider.com/articles/23/04/25/apple-plans-to-expand-health-services-to-include-mood-eye-tracking-ai-coach-planned-for-later"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 4
 
 secured: "Uw2dGX9J5HDMRE0aDR/FI99BRQhdy21tj5duld56QBoS5z/8Lfy5Zpeq37E65liK4s9k1C9/FzUBwflO7c+tlAqAl0UuIQNqEtmqtEKvCrBduUpshwzJbgDJO5iOBJcVP47aHr829Y3scexO0rqbFEhaiOMh0NsNKOnsnw4A4n+OELq6MZN2ZqQTbEVgcn6j4tFOolpGW6gCglYNuOSGfNW5mpqoQdLmBPu4nLDa+Rc8qw0O3RX/YIs2UvuVlafX9f4n1g92vQS1AeOOYo3TGaYRAlu33uNcWpqSoigKHsy+Ke9Cb0mg6Qcy9JcieVnA8n4jonAOdd9b4xjUQKePN/wxpVty9xkqTe4ksyUIARE=;eLmefXS6lGA/HhgWLLIYpw=="
 ---

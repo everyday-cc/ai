@@ -71,6 +71,24 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "AI and Customer Experience in Fintech: Personalizing Financial Services"
+    excerpt: "With the help of AI, Fintech companies are personalizing financial services to provide a more customer-centric experience. In this blog post, we will dig into how AI reshapes customer experience in the financial industry. Chatbots and Virtual Assistants ..."
+    publishedDateTime: 2023-04-29T17:17:00Z
+    webUrl: "https://www.finextra.com/blogposting/24129/ai-and-customer-experience-in-fintech-personalizing-financial-services"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 19
+  - title: "The future of financial services in India"
+    excerpt: "Driven by extensive use of digital technologies, India’s financial services sector is undergoing a significant transformation with evolving consumer preferences, and increased competition. This is leading the sector towards a different growth trajectory."
+    publishedDateTime: 2023-04-30T13:03:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/the-future-of-financial-services-in-india/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 4
 
 secured: "VghRiOKvquf8ettSMoJ38PpflcFrNiFi0FzOndEvPoOjFFJpXHf9LYZsM3BDMS2fBaru0pw17v0RbiqxFBwYBpCNlWKDPqMmNdEwf/EN4oWrlzXjrE+UPDvBfOdoilE1+ypcBYpF4HXPSS3abr2u3sKmj7xx0kOD67c8gKLnuDSV27lpv86TKrh9/7tIG6HDeplP6Kt7LlsHHV6+qoTj5aeYZu3SIGmNt+pfLb6ZvLkTzCzJt/tQ7BmZjzNGXelis1fAtDdfs0L37if0zoaMwCU96LMTA+8rtSrIPrPDFS4joAt4VCjhk8J9YQz47uAz6K7MbWaA3mNcv+ywFMZKzfFJvBKkqiNGMlhmuMmIXwU=;2yiMOcdvhdArsFTzHORl6Q=="
 ---

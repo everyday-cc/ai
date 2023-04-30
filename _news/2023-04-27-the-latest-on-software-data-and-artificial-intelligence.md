@@ -24,19 +24,33 @@ images:
     isCached: true
 
 related:
-  - title: "Hankook, Amazon, Snowflake collaborate on AI software platform"
-    excerpt: "Hankook is entering a collaboration with Amazon and Snowflake to use AI to improve such things as tire performance and autonomous driving."
-    publishedDateTime: 2023-04-25T19:41:00Z
-    webUrl: "https://www.rubbernews.com/tire/hankook-amazon-snowflake-collaborate-ai-data-platform"
+  - title: "The risks and rewards of AI-powered translation"
+    excerpt: "Advances in AI deep learning for machine translation are an opportunity for organisations to remove language barriers to global trade"
+    publishedDateTime: 2023-04-27T15:30:00Z
+    webUrl: "https://www.business-reporter.co.uk/management/the-risks-and-rewards-of-ai-powered-translation"
     type: article
     provider:
-      name: Rubber and Plastics News
-      domain: rubbernews.com
-    quality: 41
+      name: business-reporter.co.uk
+      domain: business-reporter.co.uk
+    quality: 39
     images:
-      - url: "https://s3-prod.rubbernews.com/s3fs-public/styles/1200x630/public/Hankook%20Stock%20Tire_i.jpg"
+      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/028/AI_translation.jpg"
         width: 1200
-        height: 630
+        height: 800
+        isCached: true
+  - title: "Despite the rise of AI, this Delhi startup is betting on human translators"
+    excerpt: "Founded in 2021 by Sehaj Kohli, Kalakrit offers services such as translation, transcription, voice-over, dubbing, subtitles, and interpretation. So far it has worked on more than 350 projects across 150 languages."
+    publishedDateTime: 2023-04-28T01:50:00Z
+    webUrl: "https://yourstory.com/2023/04/despite-the-rise-of-ai-this-delhi-startup-betting-on-human-translators"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 37
+    images:
+      - url: "https://images.yourstory.com/cs/2/6c7d986093a511ec98ee9fbd8fa414a8/CopyofImageTaggingnoframesEditorialTeamMaster20-1682574989210.png?fm=png&auto=format"
+        width: 1600
+        height: 800
         isCached: true
 
 secured: "7OHLjXWnZd21Z9JZfNMSJ4qvGQ9WhE7jbnH2uscjQRMvs5qbKMuhIhnH03hvlOiA8fGPPwYs8C4/EBPa3Qz6kgj0SVLItqJILl/6KuchcZr026+WGIUGoWeDRq7liPKMBaaFF0d3BDuqQtA9WBVvOvI8s6hoX7aJ9fIFLSvcQZUomm+ijRsvMRrBFMeL1gMFy+MKVERznVaWxt2DQjOv7rAj9lSzgxkyoSLb0aI4PJhUUyR27yYrzIroSneG4A74aVI1xSa/iRvMRjgLhnKWaRxdMlVCHf9/U5d+0U9O9acH4WjmFmVv+KjOHnicFKZkQLdarD9GUkPc+y7eU+F+4BSsDs5x5pWvvgI+l6Y/o3k=;El3QvvgLk81cDlBQWWcOmw=="

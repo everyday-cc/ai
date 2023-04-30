@@ -40,20 +40,6 @@ related:
         height: 630
         isCached: true
   - title: "No one is driving this taxi. What possibly could go wrong?"
-    excerpt: "While I grabbed my bag as the robotaxi appeared to be pulling over to the curb, Peaches suddenly sped up and — inexplicably — started driving away in the opposite direction. After seeing the dashboard display screen indicating I was now somehow an estimated 20 minutes away from my destination,"
-    publishedDateTime: 2023-04-29T21:33:00Z
-    webUrl: "https://www.houstonchronicle.com/business/article/no-one-driving-taxi-possibly-go-wrong-17996644.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 24
-    images:
-      - url: "https://s.hdnux.com/photos/01/32/42/65/23735622/3/rawImage.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
-  - title: "No one is driving this taxi. What possibly could go wrong?"
     excerpt: "I won't forget the first time I took a ride in a car without anyone sitting in the driver's seat. It happened one night last September when a Chevy Bolt named Peaches picked me up outside a San Francisco bar."
     publishedDateTime: 2023-04-26T19:41:00Z
     webUrl: "https://lasvegassun.com/news/2023/apr/26/no-one-is-driving-this-taxi-what-possibly-could-go/"
@@ -61,6 +47,15 @@ related:
     provider:
       name: Las Vegas Sun
       domain: lasvegassun.com
+    quality: 4
+  - title: "No one is driving this taxi. What possibly could go wrong?"
+    excerpt: "While I grabbed my bag as the robotaxi appeared to be pulling over to the curb, Peaches suddenly sped up and — inexplicably — started driving away in the opposite direction. After seeing the dashboard display screen indicating I was now somehow an estimated 20 minutes away from my destination,"
+    publishedDateTime: 2023-04-30T13:00:00Z
+    webUrl: "https://www.columbian.com/news/2023/apr/30/no-one-is-driving-this-taxi-what-possibly-could-go-wrong/"
+    type: article
+    provider:
+      name: The Columbian
+      domain: columbian.com
     quality: 4
 
 secured: "Gb5l1KxmPBq6tdGbdl4kC69pfqwRaagTils7DxrsDKml7evUKuM6s3+be7VVYrfgHHZ8xtrIQiKnlaOiax9/MHzDqL+5oifAmLh1IU0s4ApQoC2926CXtJpg7wFBAAU3pgAuxREBH/vBOZ7N0vJdam6neYlbYZ3OHAyFxdufhMzAPFwwEPomrTrVs0GI3x/AvEL5vaJd18jk2frCo5wePX1VBypgVl9bDqWbVkStoD8zmIohXyc/a8K5sfci175rKgQcVQKiM8BrnXERqIINSd6iwh6nO+BkgmzLio08vBZIIsRSF4VIo4WXpnKvQC4AGoaCpOsxs5lGvPPVZCILTpHfrDd5G/6eCUoFVv0Gzbzx386M81ErUOeFkGEBASCtr4WlE7EQBWd3+DGra1EpfVNWrPI9CVk++RM47CjGc0RzWdkTg3Tj2O3rLestYk+ubMCnqW9svQLv1pCbMxAN9x5dvZ5pwKSmlfhgF6f5i6ZDrSLpVnNDgoHAfQVkXZRd2CUDCZyVSu6DHwbNxcItng==;Va+9X+vvVWJ0gw/dYvK/bg=="

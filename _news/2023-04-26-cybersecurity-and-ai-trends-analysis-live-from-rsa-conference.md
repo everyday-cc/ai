@@ -54,6 +54,15 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "Emerging trends in 2023: The evolution of AI in online shopping"
+    excerpt: "In recent years, the AI technology has been widely adopted by the e-commerce sector and AI will witness a fast growth in the coming years so as to enable e-commerce businesses in making data-driven strategic decisions."
+    publishedDateTime: 2023-04-30T13:53:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/emerging-trends-in-2023-the-evolution-of-ai-in-online-shopping-10503931.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 17
 
 secured: "3IkGCNJ7k4RE5k7BRyw4NckQXXn9eBgTN57EC9W7GcvtyPJ3aLaR7h6XJ7n7emj4OOaXrbLwZ8CFcEWpk8bTqfuYaf1qdr4h1YldeRNxfkI+UuA1IxoN5YDzvCBCi1RIEd5MKp1z689n3Rv/WVFnjB0Pyg32l0yEiIxT87wo1MP0f+UYGoH8FJUj75i5idyEHjHbSuuvNkah8sOXjPBMbROn3OBnAXYTn+zGJSNnQiZ5g5lONWnrozZrJG4bmDnTfpJ5dvWo0YV5aEH5qr08GuEwn0jywOecRZ1F94DTjYpRkDeEaIMROiXJhR4t0ymFYxIFsyIyyEMN85/o2YON5MJ5tQFSLgsoKEi1NwPgX0tVfMgJNMUltCb9DTK3ppTt66L46H8Z9UHkkxYcW8/Hr2FeWXFPBZ4+2q4yyhhJGQBdDQ45nGP+sV6FrFajGWrgP4rxDAbaEH/pRXwiaydivx0h3STW0fQb5w8yI3NS/fQYFJ11aFMkZoQf3kUIK7rlxCd5HjajCM8FShyFnOBanw==;+4nNlVZvMmV3uWZt/Z9now=="
 ---

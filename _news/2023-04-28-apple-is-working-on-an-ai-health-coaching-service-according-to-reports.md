@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Apple is reportedly developing an AI-powered health coaching service"
-    excerpt: "Apple is developing an AI-powered health coaching service codenamed Quartz, according to a new report from Bloomberg's Mark Gurman."
-    publishedDateTime: 2023-04-25T21:19:00Z
-    webUrl: "https://techcrunch.com/2023/04/25/apple-is-reportedly-developing-an-ai-powered-health-coaching-service/"
-    ampWebUrl: "https://techcrunch.com/2023/04/25/apple-is-reportedly-developing-an-ai-powered-health-coaching-service/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/04/25/apple-is-reportedly-developing-an-ai-powered-health-coaching-service/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-1235254642.jpg?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Apple to Expand Health Initiatives With AI Health Coach, Report Says"
     excerpt: "Users would be motivated to exercise, eat well and improve their sleep based on individualized plans from the service, according to a report."
     publishedDateTime: 2023-04-26T21:54:00Z
@@ -78,15 +62,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Apple plans to expand Health services to include mood & eye tracking, AI coach planned for later"
-    excerpt: "Apple reportedly plans to release an AI-powered health coach and tools to track a person's mood, and the Health app might finally be available on the iPad."
-    publishedDateTime: 2023-04-25T19:32:00Z
-    webUrl: "https://appleinsider.com/articles/23/04/25/apple-plans-to-expand-health-services-to-include-mood-eye-tracking-ai-coach-planned-for-later"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 4
 
 secured: "0me+ENTxVMpEC8QznnPwGS4TZSiMJYycY6jTl2P5uJNAJtDL8CvOI7Rj+v+JXYuyK2CHGUAwmvYKg8y+WC2H26BUz4NE8t8ekJLhxq0MpF0pR9M/Q6e5EvG+/YcXHt55rGk64ZCIFz8/xxb5j68MjCMG4PCugzXTP4T3fJDWkBSqX9BtuEG2RZCXlO7USrA+sSePk2RDK7aIDv/dMwHjx90gIiAaJvGFAdGH269CrIQR0hrnFYcgHMI8CmWCtbsyMVTlzhPfyiFBkQDYRNCMXY17nvr2bBJBZQ6fHPjWpx0+1lcsy0gLru42ZoIysydogunRfrqbxud2Nb4PmGZ4lQqZbbNutX/o1mxh9UnggHftdwP7bw2qNQOqXpHnHK5je2/dwlS56rBnC70M/XCb5UTzIimkNr5hScSqwzz3hOUFGyCgIO71J9KkFlfPMO+EjOJfMMUCWYUUug8C4RvsECuTVDzdoH6GZbyAVN2GjTkpEVxdiPbFcfZ5fGkbTxA/4mmYzbtmCDx5F2wAciyulg==;fkI72LP55lPjUcM4WYFDwA=="
 ---

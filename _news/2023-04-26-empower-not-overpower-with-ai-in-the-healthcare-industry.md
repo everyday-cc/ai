@@ -65,6 +65,17 @@ related:
         width: 460
         height: 230
         isCached: true
+  - title: "The circle of life works for AI, too"
+    excerpt: "The Hindu scriptures provide some guidance. The Circle of life has worked for humans, and it will continue for AI, which will see innovation, preservation of a few innovations, and a few failures. However, the cycle will continue perpetually."
+    publishedDateTime: 2023-04-30T14:43:00Z
+    webUrl: "https://www.thehindubusinessline.com/opinion/the-circle-of-life-works-for-ai-too/article66797312.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/opinion/the-circle-of-life-works-for-ai-too/article66797312.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/opinion/the-circle-of-life-works-for-ai-too/article66797312.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 39
   - title: "How to strengthen your soft skills for AI and the future of work"
     excerpt: "Marketable skills that can future-proof your career and livelihood will be 'soft skills,' such as management, communication, and empathy."
     publishedDateTime: 2023-04-27T03:59:00Z

@@ -2,27 +2,21 @@
 category: news
 title: "No one is driving this taxi. What possibly could go wrong?"
 excerpt: "While I grabbed my bag as the robotaxi appeared to be pulling over to the curb, Peaches suddenly sped up and — inexplicably — started driving away in the opposite direction. After seeing the dashboard display screen indicating I was now somehow an estimated 20 minutes away from my destination,"
-publishedDateTime: 2023-04-29T21:33:00Z
-originalUrl: "https://www.houstonchronicle.com/business/article/no-one-driving-taxi-possibly-go-wrong-17996644.php"
-webUrl: "https://www.houstonchronicle.com/business/article/no-one-driving-taxi-possibly-go-wrong-17996644.php"
+publishedDateTime: 2023-04-30T13:00:00Z
+originalUrl: "https://www.columbian.com/news/2023/apr/30/no-one-is-driving-this-taxi-what-possibly-could-go-wrong/"
+webUrl: "https://www.columbian.com/news/2023/apr/30/no-one-is-driving-this-taxi-what-possibly-could-go-wrong/"
 type: article
-quality: 24
+quality: 4
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: houstonchronicle.com
+  name: The Columbian
+  domain: columbian.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://s.hdnux.com/photos/01/32/42/65/23735622/3/rawImage.jpg"
-    width: 2048
-    height: 1365
-    isCached: true
 
 related:
   - title: "No one is driving this taxi. What possibly could go wrong?"
@@ -63,6 +57,6 @@ related:
       domain: lasvegassun.com
     quality: 4
 
-secured: "56OSVDfN6RLmcRIKRdLE74BV5cHWhBpSpVxuJu/2qiEeA2S8b9BtM3+ArfHZUkF1ur7WXL2RXDMavcRE2KzCyCiOwq7S3lnOiJG5ByWjPbt8m9bZY+3WL9OCSM1z0+MXKUF93Yka+p6G5uM7dp6Yz7Z8mGObHRegIQlpaC/O12VWCjwb8Dy5dmRXxudwA45fD5T9fhkGxZ35+6EoOm2+s56cp9hWkNlMQEBv0OtFQpuF3uVwsK+ZPc+Gm1EwsA4/tGR13woqiVvNCBUkyp0ELHoBN2XNw9Om3auujBGmpDHWBVcr1nQ+c9+d4v5ZHwoPg9/fuauaz7kFMQ8AmOpEiML1qJHyvf6BteWM4T1Ltf1QqZ06sAQVuW5M7NfnoAmSoZTRHRBTLH8Hk+Z1b307Z4BXUavJMflHxHv8me+vUGuNWC2TGSPwH+p7BjEXT3lJ+4GwUuolb/omabCSc+Jr+QH0ehdRSUqo6yTwCSfafFBlI9ccmzGAvc33tMOV7jpdLb5yG8uKOwN/J7mWVjGQsw==;N0p9h0ywQ7c3RQ+U5SKg2w=="
+secured: "FfLGvCp0WwWPB+e82+yJlJJrJ6vVZSnpG/4qt1VgufPCXInplZY/5naYaAzNf1kcqR9X2AP98GC2Yw4Wrv6rB752gYAFUyiDjq1pGsF3RHW56R2OQbnIGrJlMGbctHQcwTdog6r2R2is5jdFCwkkK+dtDKob9mMfWNcURF/rD0Yox2rQmukbn535tSno95idY8iYAgXHSk0jWeHzMPxH5GdNHHDeCX3Pwt4NnbOPHa52o+REVts+dbKTEW2I/Pfq7vLEQs0IUQ5BiWrWNZkxKHGdS2Twp4KgcliClrnpcaeMfoeoSTnxc6HV0a3XwuLB0SCgcq1Tx8XChfIPGKSdxMKqUWrzc9UwCaMzddtRttLSv/NzzWM9lUWtg7BsedehViHbQJyROF5UB/HpL8FMfgl7ZaIlNJ/G2PqzKwD/dgRpUfYFmBaQRbAWhUw+aNgSpuPcg3+8DhWdwS4PBLuaqxpY33YscfmLS8maaL9GEH09tS9I5I5SSsq0bxMHdlGLX3cI7D1sfPn0jOx1ytFcCA==;A3DzOA/ciLyzKKz/A7L1iA=="
 ---
 

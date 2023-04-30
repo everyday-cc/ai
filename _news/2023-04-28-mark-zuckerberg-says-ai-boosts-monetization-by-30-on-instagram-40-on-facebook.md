@@ -83,20 +83,6 @@ related:
         width: 650
         height: 400
         isCached: true
-  - title: "Meta Profits Set to Drop as Zuckerberg Pivots to AI, Analysts Say"
-    excerpt: "The social media giant is expected to disclose a drop in revenue as it looks to artificial intelligence after a lackluster metaverse pivot."
-    publishedDateTime: 2023-04-25T20:54:00Z
-    webUrl: "https://decrypt.co/137920/meta-profits-set-to-drop-as-zuckerberg-pivots-to-ai-analysts-say"
-    type: article
-    provider:
-      name: decrypt
-      domain: decrypt.co
-    quality: 39
-    images:
-      - url: "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/01/shutterstock_10988146041-gID_7.jpg@png"
-        width: 1024
-        height: 512
-        isCached: true
 
 secured: "Q/jyx0qim5znP0EqFpKRi/tvdhaUilAVcyYKxCskVW4FCNHaGbhI4HwVzCF8SaVxcKkf1/u16+wJI8eUx69HOjYjiUYubdf5E9Ssx162VBwVoOHshkeY7S9/mydQ04uPHmjvLQThtPoQdmeXZgKWUBtOB6GJCMu4fY7ASYvGeuJoibnF2Cao0+jCOIGhosZQ3vYynBW9bLhMeepT6B7v6gvfMNijknBqtW1slIJBVzDo5MOsZpn6tJ5JJndqGAMU1uo598co/ywS4Vj3Re9aJjxoi+VeUZx2pR0LGvdH9MfZGOJL53KRj4P4gJr/996WniKojwTs2kCiZxbTTmxj69e+nDhQ/C6PPNVhFVzvCSm1vTyKSF1GlxgZnIYGRb+tniMZhCE0Zb3yVBmQNBtxcq7tc+8sn8WHFbkbD08MdXwf/yEZmXZALFrZkvUM2zbmn7e/xKj01qiB+aGqpp/MyIxQhQNJ8ujbBwLk6/UPgRvLRD7vhgB6CW4rl/H2tLpP9cl3K4T/VQN0EMVLtuVyig==;CEYE7BEf7xerQ+t8pYmaXQ=="
 ---

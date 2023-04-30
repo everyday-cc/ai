@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "The latest on software, data and artificial intelligence"
+    excerpt: "C4ISRNET Editor in Chief Mike Gruss speaks with Pentagon and Space Command officials on the transformation to a high-tech, digital-forward force."
+    publishedDateTime: 2023-04-26T20:16:00Z
+    webUrl: "https://www.defensenews.com/video/2023/04/26/the-latest-on-software-data-and-artificial-intelligence/"
+    type: article
+    provider:
+      name: Defense News
+      domain: defensenews.com
+    quality: 37
+    images:
+      - url: "https://www.defensenews.com/resizer/5rZpB9BvFO8yyayroROa1AG8fgw=/1024x0/filters:format(jpg):quality(70)/d3k85ws6durfp9.cloudfront.net/04-26-2023/t_ea35f907ae034b3b80e5c8c10da07f9f_name_4_C4_CONF_Software_IT_Panel_JB_00_41_51_25_Still001.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Despite the rise of AI, this Delhi startup is betting on human translators"
     excerpt: "Founded in 2021 by Sehaj Kohli, Kalakrit offers services such as translation, transcription, voice-over, dubbing, subtitles, and interpretation. So far it has worked on more than 350 projects across 150 languages."
     publishedDateTime: 2023-04-28T01:50:00Z

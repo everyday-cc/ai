@@ -49,18 +49,13 @@ related:
         isCached: true
   - title: "No one is driving this taxi. What possibly could go wrong?"
     excerpt: "While I grabbed my bag as the robotaxi appeared to be pulling over to the curb, Peaches suddenly sped up and — inexplicably — started driving away in the opposite direction. After seeing the dashboard display screen indicating I was now somehow an estimated 20 minutes away from my destination,"
-    publishedDateTime: 2023-04-29T21:33:00Z
-    webUrl: "https://www.houstonchronicle.com/business/article/no-one-driving-taxi-possibly-go-wrong-17996644.php"
+    publishedDateTime: 2023-04-30T13:00:00Z
+    webUrl: "https://www.columbian.com/news/2023/apr/30/no-one-is-driving-this-taxi-what-possibly-could-go-wrong/"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 24
-    images:
-      - url: "https://s.hdnux.com/photos/01/32/42/65/23735622/3/rawImage.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
+      name: The Columbian
+      domain: columbian.com
+    quality: 4
 
 secured: "7g3E+yTnDQdQzZHz26hWIgrtnY62LYiwTUF1yHU0zKdx8vsdu9oKYfsUJhGwi/bhnZn+sKF1bSRo1dcKKnWx4rmJWMBq4wM2MZ2lbweR6eRQsfiNwn2AmP88CkpQj40kIASpewDxdhSC6ZMIjeR2fcdwebJT5ZxGiKfFVG9O/LBsdfpWIrAQceXrbpy5kMGU26+tTRt+5B7OY4rs21J/p2ZrmG6AhbwQSHAcnc7nH99jP+IDjc9B9ts0w7lcBchTjovBKYwJex+psj1S+UUycaiZf9T5O+9PzOhJc9E+POGWMmIxjw6Ng663tm+Fw1DS2NrD4QNWN+Iu8IIsNDFuAbiFTxl1vAgSDWWSKJLuVqbZ9s9ugRTwT21ghVoQs5LObstrEmGlfIRsq3Fv4RD1+ohQAkpAvfEjy5LWHw3AX7aJ7mSzLrX1j/hVuXIK///GnllU4jCyewDrwdK7/rrKdEw368g7EMl27tAo+oDxi3d3XejBiv+0ZWdo5HMIn11eqcudegS2B4YosHiez/7c9Q==;ZLja1ZwbotSuJIYrfS7lYQ=="
 ---

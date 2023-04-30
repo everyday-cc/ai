@@ -110,6 +110,15 @@ related:
         width: 550
         height: 353
         isCached: true
+  - title: "Fintech capacity-building needed for MSMEs"
+    excerpt: "THERE is a need to build the capacity of small and medium enterprises (MSMEs) on financial technology (fintech) to ramp up the digital economy in the Philippines, the top official of the Philippine Economic Zone Authority (PEZA) said."
+    publishedDateTime: 2023-04-30T13:22:00Z
+    webUrl: "https://www.manilatimes.net/2023/05/01/business/top-business/fintech-capacity-building-needed-for-msmes/1889378"
+    type: article
+    provider:
+      name: manilatimes
+      domain: manilatimes.net
+    quality: 4
   - title: "Inside the booming fintech industry in Nigeria: trends and opportunities"
     excerpt: "The world of finance is changing rapidly thanks to modern technology, and nowhere is this more evident than in Nigeria's FinTech industry. With innovative startups cropping up left and right, the country has become a hub for financial technology innovation."
     publishedDateTime: 2023-04-26T10:00:00Z
