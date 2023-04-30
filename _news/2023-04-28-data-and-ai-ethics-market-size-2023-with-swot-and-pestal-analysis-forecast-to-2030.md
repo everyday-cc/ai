@@ -121,20 +121,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Chip Market Outlook, Size, Prominent Players, Share, Revenue, and Forecast 2023 to 2031"
-    excerpt: "Artificial Intelligence Chip Market [NEW REPORT 2023] offers a whole overview of the present-day market kingdom of affairs and affords a forecast until 2031. This report provides a balanced mix of qualitative and quantitative data that highlights imperative market developments,"
-    publishedDateTime: 2023-04-25T06:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-outlook-size-prominent-players-share-revenue-and-forecast-2023-to-2031-2023-04-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Facial Recognition Market: Segments Analysis and Future Growth Trends By 2030"
     excerpt: "Apr 27, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The Facial Recognition Market"
     publishedDateTime: 2023-04-27T20:14:00Z

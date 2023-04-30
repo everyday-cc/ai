@@ -35,6 +35,22 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Philadelphia Selected as Host Site for a 3rd Time for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!"
+    excerpt: "CSL Behring will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students at No-Cost for a 3rd time in the Fall of 2023. The AI"
+    publishedDateTime: 2023-04-28T22:06:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/04/g32097200/philadelphia-selected-as-host-site-for-a-3rd-time-for-artificial-intelligence-bootcamp-application"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32097200"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32097200"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 39
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "Madison Selected as Host Site for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
     excerpt: "Fetch is one of 28+ host companies selected to host camps across the US in Fall 2023. The Fetch Bootcamp will be held over four consecutive Saturdays starting on October 14 th and ending on November 4 th."
     publishedDateTime: 2023-04-28T21:35:00Z
@@ -230,20 +246,6 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?941271"
         width: 431
         height: 250
-        isCached: true
-  - title: "Philadelphia Selected as Host Site for a 3rd Time for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
-    excerpt: "CSL Behring will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students at No-Cost for a 3 rd time in the Fall of 2023. The AI Bootcamp in Philadelphia will be targeted at underserved high school students (9th-12 th grade) and will introduce these high school students to basic AI concepts and skills."
-    publishedDateTime: 2023-04-28T22:19:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/04/28/9804445.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
-    images:
-      - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
-        width: 550
-        height: 353
         isCached: true
   - title: "Portland Selected as Host Site for a 2nd Time for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!"
     excerpt: "Notified will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students at no-cost for a 2nd time in the Fall of 2023. The AI"

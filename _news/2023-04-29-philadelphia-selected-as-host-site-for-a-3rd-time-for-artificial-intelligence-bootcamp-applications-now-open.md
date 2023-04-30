@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Philadelphia Selected as Host Site for a 3rd Time for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
-excerpt: "CSL Behring will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students at No-Cost for a 3 rd time in the Fall of 2023. The AI Bootcamp in Philadelphia will be targeted at underserved high school students (9th-12 th grade) and will introduce these high school students to basic AI concepts and skills."
-publishedDateTime: 2023-04-28T22:19:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/04/28/9804445.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/04/28/9804445.htm"
+title: "Philadelphia Selected as Host Site for a 3rd Time for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!"
+excerpt: "CSL Behring will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students at No-Cost for a 3rd time in the Fall of 2023. The AI"
+publishedDateTime: 2023-04-28T22:06:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/04/g32097200/philadelphia-selected-as-host-site-for-a-3rd-time-for-artificial-intelligence-bootcamp-application"
+webUrl: "https://www.benzinga.com/pressreleases/23/04/g32097200/philadelphia-selected-as-host-site-for-a-3rd-time-for-artificial-intelligence-bootcamp-application"
+ampWebUrl: "https://www.benzinga.com/amp/content/32097200"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32097200"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - AI in Robotics
+  - AI in Autos
   - AI
 
 images:
-  - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
-    width: 550
-    height: 353
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
 related:
@@ -265,6 +267,6 @@ related:
       domain: benzinga.com
     quality: 0
 
-secured: "E74BD5BItjexotp5XP1smT9H7NK2cKf43FFx6ehqnbJyQePt0aOCH0yZ5V/7L0yrgCw9nfw9M2BtSxJjqDi3ZcVHCywb1sgoiRTDIaWvT2WggG+CFXlDj9Llf/h2cjptcLn1U/2wrNSQJyT8tdDDGF0Wh5mWfYRhSMSDyF0jsdYSEQcMmE47aP5NjSM/3du87Yhm8TDUsYGXX5jQuQFInMCq5SXrHOVvKuX1huGc0UKK6NZ3Ymz4cpXMr+KFsYJ2aV5djwqn6VPIuwI64rI6h+RraDcKuIDMnOf8wgbBSs08Ja7kVj6lVYub+X9AJV2mEFeAoaOt8jfMUiLDOAOSPeAbggWib3WY7OI8YmcVMtI=;yUIRzy8ZjDliAejLQBIlEg=="
+secured: "wyIdTOhyYYWsOV7gVE+KvKCLUajRjKNSlbWoaBlRaOS87s6UFplgrcCiTAr/EnUpct4/AakWdmuic07thaaS0Pfdp3/DOlXV82kAB8eezviLRgkVcr/0v/DF3a0LbkZ3IkzZxFRo25OX7c3b0BrzjPgoVeK325asPcmyvMtKV4/Zm90oy7fqFOy5dJwolbZu/mRYQtuogF5DyDU0L3KXbgMEVi+9EVAF9pqJ3sHOQdG9QYM/yhpEtvfydxJJZdpwL6MuFkkE9tMzSif+ziaLop1j06Pz4bIcIkRkPs3NfFZVc1yT/IG+KPqw9exVYlMiaMLrWgovUA6ogY/t2xDiszz7UjilFgwFMsYqk1VEHqs=;mxkctYxKJksBtk0zK5GpHA=="
 ---
 

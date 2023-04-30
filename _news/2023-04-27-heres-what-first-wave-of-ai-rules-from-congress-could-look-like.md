@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/first-wave-ai-rules-congress-look-l
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/first-wave-ai-rules-congress-look-like.amp"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Pros and cons of AI in education"
-    excerpt: "CTU Training Solutions held a webinar recently to explore how AI is going to change the way we teach and learn."
-    publishedDateTime: 2023-04-25T06:40:00Z
-    webUrl: "https://www.itweb.co.za/content/Olx4zMkal3Qv56km"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/Olx4zMkal3Qv56km"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/Olx4zMkal3Qv56km"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 76
-    images:
-      - url: "https://www.itweb.co.za/static/pictures/2023/04/86-Humanoid-reading-2023.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "fI2qhnK7a6hdzIe4dNDyHGkEyByqNKoYZIFF/Vi/cGHkWmCcMzQFki175u6WJKH8XhbsI/qGF3nuysDVha5v0LfAwXotm2UHyIjDabtNU0RFOIozlKAh5PXBFiSDVJKCdXJiqTE5eyCY/s7LDIKuGxpYHdYOQ70m2iXOSLlief9YFgnv1ByE+SMTHtLwn7hk0/jNqHQUSwivx2dSgP+N+v6aLhzADUNIyOgX27nFE9NJWfUD10dXW+WXLHOuuLLjTxDSx/rccvgwk6FfmdRSo7p6fMPLKvzQjm8rU7v5kIWNccCauLUs3T+tWp15qxZ33Qme4nSdSIdswjZQGMGkprSt5NGjmC1MVS1+N2QNyNQ=;cwkjwO8zNVGxXPPp7n348w=="
 ---

@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving cars 'need to learn the language of cyclists'"
-    excerpt: "Human-computer interaction specialists from the University of Glasgow have highlighted the need for new systems"
-    publishedDateTime: 2023-04-25T05:59:00Z
-    webUrl: "https://www.heraldscotland.com/news/homenews/23476838.self-driving-cars-need-learn-language-cyclists/"
-    type: article
-    provider:
-      name: heraldscotland
-      domain: heraldscotland.com
-    quality: 24
-    images:
-      - url: "https://www.heraldscotland.com/resources/images/16356573/?type=og-image"
-        width: 945
-        height: 630
-        isCached: true
   - title: "Self-Driving Cars Are Not (Yet) Safe"
     excerpt: "Three things have happened in the last month that have made me think about the safety of self-driving cars a lot more. The US Department of Transportation (DOT) has issued its guidance on the ..."
     publishedDateTime: 2023-04-27T00:00:00Z
@@ -68,20 +54,6 @@ related:
       - url: "https://apicms.thestar.com.my/uploads/images/2023/04/28/2046787.jpeg"
         width: 1240
         height: 982
-        isCached: true
-  - title: "Self-driving cars must learn the language of cyclists to keep roads safe"
-    excerpt: "Future generations of self-driving cars should learn the language of cyclists to help them safely share the roads with bikes, new research suggests."
-    publishedDateTime: 2023-04-25T05:40:00Z
-    webUrl: "https://www.gla.ac.uk/news/headline_948008_en.html"
-    type: article
-    provider:
-      name: gla.ac.uk
-      domain: gla.ac.uk
-    quality: 23
-    images:
-      - url: "https://www.gla.ac.uk/media/Media_949727_smxx.png"
-        width: 650
-        height: 366
         isCached: true
 
 secured: "TN4GGAg/KmUmOv9YqULEZgkD5PkUmXlaxB9QTp2iU/UV6ognlUllAjld517zHsApzRyyXsUh3b7jh5PjVUzB6MHdNspTObJjreNYYd9irPMh9xbMXHH/TQ5GHMoFseF5HlXKWCeK5OYrBTe9HJsE8gVit2oBqsIfEKTGb7xQ6oYcktXM1x6DHCQRD0GTnM7TujYRUVlCllGAzhSi4nmYIMLSASCysRlIKxsHNScDPIGUFNSzbLSLKy04iqM/Qqua7Kxa3rzbLnTkPvtr61lEPnZ0bJ7NB6i8bz3aV8nDBmYcZ2JaMQqRbf+YDjKQFsHklWsNa/1mAjyb+0T3fcrEP89Hrl8Vxt3CYzVH33CHk3e9Y/SO7VbrS7qCh6PoBpfVh+KPuivoSykmVpUZ7alUEUve2j1PvzyCha2xph/1pr9GtvdF+dTHruSexayKDWhlscRg41ZRh050gkcVLE0zUl2g9jZwKJy/B6ZkoLh3qieSEjLOVlBaDIU51mn2GMOGGlSOl8Nrfjuu8MjquBzI/Q==;eR9EdVtzuUonu/jGDjQ5bg=="

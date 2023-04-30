@@ -298,15 +298,6 @@ related:
         width: 375
         height: 225
         isCached: true
-  - title: "ChatGPT is the Most In-Demand Workplace Skill in Q1 2023"
-    excerpt: "Udemy (Nasdaq: UDMY), a company dedicated to improving lives through online learning, today released its Q1 2023 Workplace Learning Index, a quarterly report highlighting skills that are growing in demand among today’s professionals as they seek to keep pace with innovation and help support their company’s continued growth."
-    publishedDateTime: 2023-04-27T15:11:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/04/27/9803670.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 4
 
 secured: "Kc0Z5rByTYUEJBC2OUBXnHaqC2hdmI0twzKZYWiO0BDT1/KDKKYk6khNIxHaDuDwWKpOkFoKmR/FSAa08FpJas7P0rWTFtCSrb6RRLhw8CSbGDgj+xNm4129YieH117I8v3cEv4/XHuT8x+aFqqbaOaIw2l7claX9VqGCdlZMKxCOIZj5rgGbdK9X/4imMYxoWuCDcl2QlTyzmdxw3pdKIkQ7CcPZ8Kr713zscX/1rvykte1gIQh+PKCrADx6pO/TC24MwFSnyal7Zv7/kIyL9u6epOJ1mPGkAM33yrQPyXKK1t4WHXC5d1JTYt/19tvGeSn2hTHTv05FXXoJMwYuoRzLEC7qk++EKC969OUGec=;GTf+AnGA4kLK8yTAny40xQ=="
 ---

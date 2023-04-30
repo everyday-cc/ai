@@ -9,7 +9,7 @@ ampWebUrl: "https://diginomica.com/built-world-ai-start-ups-lead-investments-ove
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/built-world-ai-start-ups-lead-investments-overtake-fintech-and-marketing?amp"
 type: article
 quality: 75
-heat: 175
+heat: 165
 published: true
 
 provider:
@@ -85,20 +85,6 @@ related:
       - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2021/04/2020-03-23-10-54-146714_the_allnew_volvo_xc90_cropped_70.jpg"
         width: 424
         height: 283
-        isCached: true
-  - title: "Stanford: Fintech Maintains Position as Third Biggest AI Investment Focus Area"
-    excerpt: "In 2022, global private investment in artificial intelligence (AI) companies reached US$91.9 billion, a 18-fold increase compared with 2013. Of that sum, fintech companies secured the third largest amount,"
-    publishedDateTime: 2023-04-25T06:46:00Z
-    webUrl: "https://fintechnews.ch/aifintech/stanford-fintech-maintains-position-as-third-biggest-ai-investment-focus-area/59671/"
-    type: article
-    provider:
-      name: fintechnews
-      domain: fintechnews.ch
-    quality: 35
-    images:
-      - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2023/04/Fintech-Maintains-Position-as-Third-Biggest-AI-Investment-Focus-Area.png?x30842"
-        width: 1024
-        height: 567
         isCached: true
   - title: "3 Fintech Stocks With Huge Return Potential for Long-Term Investors"
     excerpt: "The fintech market continues to grow at a blistering pace, as consumers and businesses migrate online and use their smartphones and apps to make increasingly sophisticated digital payments and online financial transactions."

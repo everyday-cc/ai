@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/ai-startup-synthesia-made-waves-this-week
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-startup-synthesia-made-waves-this-week-on-both-sides-of-deepfake-debate/amp/"
 type: article
 quality: 85
-heat: 96
+heat: 97
 published: true
 
 provider:

@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencefriday.com/articles/ai-for-stem-education/"
 webUrl: "https://www.sciencefriday.com/articles/ai-for-stem-education/"
 type: article
 quality: 56
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       - url: "https://www.berlin.de/binaries/asset/image_assets/8171261/ratio_4_3/1682428664/800x600/"
         width: 800
         height: 600
+        isCached: true
+  - title: "EU proposes new copyright rules for generative AI"
+    excerpt: "Shortly after signing the letter, the Financial Times reported Musk was planning to launch his own startup to rival OpenAI. ALSO READ: Elon Musk plans AI startup to rival OpenAI, Financial Times reports"
+    publishedDateTime: 2023-04-28T01:55:00Z
+    webUrl: "https://www.asiaone.com/digital/eu-proposes-new-copyright-rules-generative-ai"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 37
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Apr2023/20230428_EUAI_Reuters.jpg?itok=7hZy3u6s"
+        width: 848
+        height: 601
         isCached: true
   - title: "7 popular tools and frameworks for developing AI applications"
     excerpt: "Artificial Intelligence (AI) is a rapidly growing field with numerous applications ... It can be used to build a machine translation system that can translate text from one language to another. Theano is a popular Python library for numerical computation ..."

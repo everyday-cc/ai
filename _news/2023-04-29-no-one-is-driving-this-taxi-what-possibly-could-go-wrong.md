@@ -25,22 +25,43 @@ images:
     isCached: true
 
 related:
-  - title: "Waymos gone wild: Why do self-driving cars stop driving?"
-    excerpt: "In April, a self-driving car from GM's self-driving company Cruise was pulled over by police in San Francisco for driving without headlights. The window rolled down, but no one wa"
-    publishedDateTime: 2023-04-25T05:23:00Z
-    webUrl: "https://www.12news.com/article/tech/waymo-wild-self-driving-cars-stop-driving-arizona-phoenix/75-50bbc373-63c4-4450-8525-2977983a7a62"
-    ampWebUrl: "https://www.12news.com/amp/article/tech/waymo-wild-self-driving-cars-stop-driving-arizona-phoenix/75-50bbc373-63c4-4450-8525-2977983a7a62"
-    cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/tech/waymo-wild-self-driving-cars-stop-driving-arizona-phoenix/75-50bbc373-63c4-4450-8525-2977983a7a62"
+  - title: "No one is driving this taxi. What possibly could go wrong?"
+    excerpt: "An Associated Press reporter recalls the first time he took a ride in a car without sitting in the driver's seat. It happened one night last September when a Chevy"
+    publishedDateTime: 2023-04-26T07:05:00Z
+    webUrl: "https://omaha.com/lifestyles/no-one-is-driving-this-taxi-what-possibly-could-go-wrong/article_eebc9d8c-7790-5083-8495-f151ac4f48cf.html"
     type: article
     provider:
-      name: KPNX
-      domain: 12news.com
-    quality: 59
+      name: Omaha.com
+      domain: omaha.com
+    quality: 24
     images:
-      - url: "https://media.12news.com/assets/KPNX/images/a2166696-37f9-4029-9180-c7ca1cf65d15/a2166696-37f9-4029-9180-c7ca1cf65d15_1140x641.jpg"
-        width: 1140
-        height: 641
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/b/e7/be7e2c85-bbe7-5ed1-ade9-03c57263d314/6448cf8b4ff76.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "No one is driving this taxi. What possibly could go wrong?"
+    excerpt: "While I grabbed my bag as the robotaxi appeared to be pulling over to the curb, Peaches suddenly sped up and — inexplicably — started driving away in the opposite direction. After seeing the dashboard display screen indicating I was now somehow an estimated 20 minutes away from my destination,"
+    publishedDateTime: 2023-04-29T21:33:00Z
+    webUrl: "https://www.houstonchronicle.com/business/article/no-one-driving-taxi-possibly-go-wrong-17996644.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 24
+    images:
+      - url: "https://s.hdnux.com/photos/01/32/42/65/23735622/3/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
+  - title: "No one is driving this taxi. What possibly could go wrong?"
+    excerpt: "I won't forget the first time I took a ride in a car without anyone sitting in the driver's seat. It happened one night last September when a Chevy Bolt named Peaches picked me up outside a San Francisco bar."
+    publishedDateTime: 2023-04-26T19:41:00Z
+    webUrl: "https://lasvegassun.com/news/2023/apr/26/no-one-is-driving-this-taxi-what-possibly-could-go/"
+    type: article
+    provider:
+      name: Las Vegas Sun
+      domain: lasvegassun.com
+    quality: 4
 
 secured: "Gb5l1KxmPBq6tdGbdl4kC69pfqwRaagTils7DxrsDKml7evUKuM6s3+be7VVYrfgHHZ8xtrIQiKnlaOiax9/MHzDqL+5oifAmLh1IU0s4ApQoC2926CXtJpg7wFBAAU3pgAuxREBH/vBOZ7N0vJdam6neYlbYZ3OHAyFxdufhMzAPFwwEPomrTrVs0GI3x/AvEL5vaJd18jk2frCo5wePX1VBypgVl9bDqWbVkStoD8zmIohXyc/a8K5sfci175rKgQcVQKiM8BrnXERqIINSd6iwh6nO+BkgmzLio08vBZIIsRSF4VIo4WXpnKvQC4AGoaCpOsxs5lGvPPVZCILTpHfrDd5G/6eCUoFVv0Gzbzx386M81ErUOeFkGEBASCtr4WlE7EQBWd3+DGra1EpfVNWrPI9CVk++RM47CjGc0RzWdkTg3Tj2O3rLestYk+ubMCnqW9svQLv1pCbMxAN9x5dvZ5pwKSmlfhgF6f5i6ZDrSLpVnNDgoHAfQVkXZRd2CUDCZyVSu6DHwbNxcItng==;Va+9X+vvVWJ0gw/dYvK/bg=="
 ---

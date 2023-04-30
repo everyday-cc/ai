@@ -153,15 +153,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
-  - title: "Speech Recognition Market Size, Share, Key Players, Revenue, Research Report and Forecast 2023 to 2031"
-    excerpt: "The global speech recognition market was valued at $6.39billion in 2018, and is projected to reach $29.28 billion by 2026, registering a CAGR of 19.9% from 2019 to 2026. Speech recognition technology enables system to identify the sound of spoken words and convert them into machine readable form."
-    publishedDateTime: 2023-04-25T05:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-market-size-share-key-players-revenue-research-report-and-forecast-2023-to-2031-2023-04-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
   - title: "Content Moderation Solutions Market to reach USD 17.59 Bn by 2029, emerging at a CAGR of 10.25 percent and forecast (2022-2029)"
     excerpt: "The global Content Moderation Solutions Market is expected to reach from USD 8.06 Bn to USD 17.59 Bn by 2029, at"
     publishedDateTime: 2023-04-28T11:00:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/gadgets/2023/04/report-describes-apples-orga
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/04/report-describes-apples-organizational-dysfunction-and-lack-of-ambition-in-ai/amp/"
 type: article
 quality: 81
-heat: 83
+heat: 85
 published: true
 
 provider:

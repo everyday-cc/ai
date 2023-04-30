@@ -40,6 +40,20 @@ related:
         height: 630
         isCached: true
   - title: "No one is driving this taxi. What possibly could go wrong?"
+    excerpt: "A driverless ride taken by Liedtke last September provided a snapshot of the artificial intelligence technology that is advancing ... that I was starting to buy into the vision of Cruise and Waymo, a self-driving car pioneer spun off from a Google project ..."
+    publishedDateTime: 2023-04-28T17:01:00Z
+    webUrl: "https://www.timesfreepress.com/news/2023/apr/28/no-one-is-driving-this-taxi-tfp/"
+    type: article
+    provider:
+      name: Chattanooga Times Free Press
+      domain: timesfreepress.com
+    quality: 24
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/img/photos/2023/04/28/AP23115659233014_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "No one is driving this taxi. What possibly could go wrong?"
     excerpt: "I won't forget the first time I took a ride in a car without anyone sitting in the driver's seat. It happened one night last September when a Chevy Bolt named Peaches picked me up outside a San Francisco bar."
     publishedDateTime: 2023-04-26T19:41:00Z
     webUrl: "https://lasvegassun.com/news/2023/apr/26/no-one-is-driving-this-taxi-what-possibly-could-go/"
