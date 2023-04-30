@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/aimachine-learning-marke
 webUrl: "https://www.marketwatch.com/press-release/aimachine-learning-market-size-trends-and-forecast-2030-2023-04-28"
 type: article
 quality: 84
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 81
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Machine Learning Market Size Overview, Global Value, Opportunities and Sales Forecast"
+    excerpt: "The global “Machine Learning Market Size” is expected to rise with an impressive CAGR and generate the highest revenue"
+    publishedDateTime: 2023-04-30T07:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-size-overview-global-value-opportunities-and-sales-forecast-2023-04-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 79
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

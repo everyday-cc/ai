@@ -9,7 +9,7 @@ ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/chatgpts-secret-weapon
 cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/chatgpts-secret-weapon-is-artificial-emotional-intelligence-71682528287549.html"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,75 +27,52 @@ images:
     isCached: true
 
 related:
-  - title: "Is ChatGPT using Artificial Emotional Intelligence as its secret weapon?"
-    excerpt: "Their designers may also prioritize fluency over accuracy. That is one reason why these tools are exceptionally good at mimicking empathy"
-    publishedDateTime: 2023-04-26T06:06:00Z
-    webUrl: "https://www.business-standard.com/technology/tech-news/is-chatgpt-using-artificial-emotional-intelligence-as-its-secret-weapon-123042600306_1.html"
-    ampWebUrl: "https://www.business-standard.com/amp/technology/tech-news/is-chatgpt-using-artificial-emotional-intelligence-as-its-secret-weapon-123042600306_1.html"
-    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/technology/tech-news/is-chatgpt-using-artificial-emotional-intelligence-as-its-secret-weapon-123042600306_1.html"
+  - title: "AI Ethicist Views On ChatGPT"
+    excerpt: "Physicist Stephen Hawking, who died in 2018, described the rise of AI as one of the greatest threats to the future of humanity. Even the controversial Elon Musk and over 1000 technology leaders have called for a pause on generative AI and for advancing legislation."
+    publishedDateTime: 2023-04-30T16:23:00Z
+    webUrl: "https://www.forbes.com/sites/cindygordon/2023/04/30/ai-ethicist-views-on-chatgpt/"
+    ampWebUrl: "https://www.forbes.com/sites/cindygordon/2023/04/30/ai-ethicist-views-on-chatgpt/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/04/30/ai-ethicist-views-on-chatgpt/amp/"
     type: article
     provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 43
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2023-04/13/full/1681409565-5088.jpg"
-        width: 3840
-        height: 2562
+      - url: "https://imageio.forbes.com/specials-images/imageserve/644e92c9ee3ccccd5dad4712/0x0.jpg?format=jpg&width=1200"
+        width: 800
+        height: 500
         isCached: true
-  - title: "Italy Brings Back ChatGPT with New Data Security Measures"
-    excerpt: "ChatGPT has resumed its services in Italy after implementing user data collection and usage changes as suggested by the Garante."
-    publishedDateTime: 2023-04-29T08:58:00Z
-    webUrl: "https://techreport.com/news/3496135/italy-brings-back-chatgpt-with-new-data-security-measures/"
+  - title: "Sneakily Using Generative AI ChatGPT To Spout Legalese And Imply That You’ve Hired An Attorney, Unsettling For AI Ethics And AI Law"
+    excerpt: "People are using ChatGPT and other generative AI to compose letters that have legalese, aiming to intimidate others. Is this allowed? Should it be stopped? Here is the insider scoop."
+    publishedDateTime: 2023-04-29T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/04/29/sneakily-using-generative-ai-chatgpt-to-spout-legalese-and-imply-that-youve-hired-an-attorney-unsettling-for-ai-ethics-and-ai-law/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/04/29/sneakily-using-generative-ai-chatgpt-to-spout-legalese-and-imply-that-youve-hired-an-attorney-unsettling-for-ai-ethics-and-ai-law/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/04/29/sneakily-using-generative-ai-chatgpt-to-spout-legalese-and-imply-that-youve-hired-an-attorney-unsettling-for-ai-ethics-and-ai-law/amp/"
     type: article
     provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 41
+      name: Forbes
+      domain: forbes.com
+    quality: 74
     images:
-      - url: "https://techreport.com/wp-content/uploads/2023/04/jonathan-kemper-MMUzS5Qzuus-unsplash-scaled.jpg"
-        width: 2560
-        height: 1707
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64498827383d36579551f765/0x0.jpg?format=jpg&crop=2429,1619,x557,y0,safe&width=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Looking for emotional support? ChatGPT’s secret weapon is artificial emotional intelligence"
-    excerpt: "There is good reason to think chatbots work better as an emotional companion than as a provider of facts. These tools are exceptionally good at mimicking empathy through learning from text scraped from the web,"
-    publishedDateTime: 2023-04-26T05:17:00Z
-    webUrl: "https://www.moneycontrol.com/news/opinion/looking-for-emotional-support-chatgpts-secret-weapon-is-artificial-emotional-intelligence-10478111.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/opinion/looking-for-emotional-support-chatgpts-secret-weapon-is-artificial-emotional-intelligence-10478111.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/looking-for-emotional-support-chatgpts-secret-weapon-is-artificial-emotional-intelligence-10478111.html/amp"
+  - title: "Dr. ChatGPT? Physicians Are Sending Patients Advice Using AI"
+    excerpt: "ChatGPT is better than doctors at responding to patient questions, study says"
+    publishedDateTime: 2023-04-28T14:00:00Z
+    webUrl: "https://www.wsj.com/articles/dr-chatgpt-physicians-are-sending-patients-advice-using-ai-945cf60b"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 34
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
     images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/02/chatgpt-open-AI-rtr-1.jpg"
+      - url: "https://images.wsj.net/im-771596/social"
         width: 1280
-        height: 720
+        height: 640
         isCached: true
-  - title: "ChatGPT’s Secret Weapon Is Artificial Emotional Intelligence"
-    excerpt: "The race to plug chatbots into search engines makes little sense when they are better at mimicking empathy than recalling facts."
-    publishedDateTime: 2023-04-25T23:24:00Z
-    webUrl: "https://www.washingtonpost.com/business/2023/04/26/openai-s-chatgpt-google-bard-are-better-for-emotional-support-than-search/6ba14432-e3ea-11ed-9696-8e874fd710b8_story.html"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 24
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "ChatGPT is the Most In-Demand Workplace Skill in Q1 2023"
-    excerpt: "Udemy (NASDAQ:UDMY), a company dedicated to improving lives through online learning, today released its Q1 2023 Workplace Learning Index, a quarterly report"
-    publishedDateTime: 2023-04-27T15:04:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/04/g32049645/chatgpt-is-the-most-in-demand-workplace-skill-in-q1-2023"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 4
 
 secured: "65yBmsBRV6BDezbmb8EzbQr19C8LX1w6hLgLvjoK/e7Mfq8nhoUcvNLKKE1vmuHcmKXC7p7kUfhc3YgsHfLJeNlZD67UKmZrTdQ+i0o9kEIstiO14SrPPVe2x/1/BeuAnWY3AocL2sOqotY9Z9R8drEJU/Q6Nlu7fv//XqZ0gWuFpwver/CU/7xksyNJZgmRjwlUEziY5EI8QPcNxFKGKsHHPFg5KUMiL6BMVhjUnTfngsE9IEW/6U5gMuvmcfohf9n1REXpTkIW9UQ/lUEPaRLBa1iZ6P8F42/GwJ7WsQK0LT1A5ZaNwMaHoPBRXBZcQOeQdT+OdRGH7z5SiRXh45seUwaQPG9sSgFcNLbegH2bLkkkzGfY+fHkxIIgTBUGCDbFLBRlSyLVZIJi5FNCrmf8ytsUubHtGvZalViNzsHQP/Hdvp/f8ZdQwxD4kZaug4J9ooTPIF5PLvdy2KJWKCpRV1rRgkabLVdqRBEMaK/TjEoTE4TOuC3GigezU9QzqwXNgoLw3aSW+1ZV7oThAg==;wviARd5XXz64lmsBf7wzgw=="
 ---

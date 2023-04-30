@@ -74,20 +74,6 @@ related:
         width: 740
         height: 554
         isCached: true
-  - title: "Dr. ChatGPT? Physicians Are Sending Patients Advice Using AI"
-    excerpt: "ChatGPT is better than doctors at responding to patient questions, study says"
-    publishedDateTime: 2023-04-28T14:00:00Z
-    webUrl: "https://www.wsj.com/articles/dr-chatgpt-physicians-are-sending-patients-advice-using-ai-945cf60b"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-771596/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "The internet is already racist. AI chatbots are making it worse."
     excerpt: "Google's C4 data set, which is used to instruct AIs like Facebook’s LlaMa and Google’s own T5, draws content from far-right sites."
     publishedDateTime: 2023-04-26T19:30:00Z
@@ -165,20 +151,6 @@ related:
       - url: "https://www.inklingsnews.com/wp-content/uploads/2023/04/Screenshot-2023-04-27-at-10.17.35-AM-900x501.png"
         width: 900
         height: 501
-        isCached: true
-  - title: "Japanese AI researchers advise chatbot users to be aware of pros and cons"
-    excerpt: "Japanese researchers specializing in artificial intelligence are advising caution when using generative AIs, saying the technology is still a work in progress."
-    publishedDateTime: 2023-04-26T00:57:00Z
-    webUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20230426_07/"
-    type: article
-    provider:
-      name: NHK
-      domain: nhk.or.jp
-    quality: 38
-    images:
-      - url: "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/en/news/20230426_07_1247836_L.png"
-        width: 640
-        height: 360
         isCached: true
   - title: "This Week in Apps: Users pan Snapchat’s AI, Bluesky has a moment, Apple wins antitrust appeal"
     excerpt: "The game is due out on iOS and Android for Netflix subscribers on May 2. The AI startup Runway, which helped develop the AI image generator Stable Diffusion, launched its first mobile app this week, giving users access to Gen-1, its video-to-video ..."

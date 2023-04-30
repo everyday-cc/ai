@@ -228,6 +228,49 @@
       ]
     },
     {
+      "path": "_news/2023-04-17-profit-from-the-artificial-intelligence-boom-with-these-7-ai-etfs.md",
+      "title": "Profit from the Artificial Intelligence Boom with These 7 AI ETFs",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The artificial intelligence revolution is already here, creating a massive",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/profit-from-the-artificial-intelligence-boom-with-these-7-ai-etfs-1032237146",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/profit-from-the-artificial-intelligence-boom-with-these-7-ai-etfs-1032237146",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-17T09:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-17-asda-will-start-delivering-food-to-customers-across-london-using-driverless-cars.md",
       "title": "Asda will start delivering food to customers across London using driverless cars",
       "excerpt": "In partnership with Wayve, a developer of artificial intelligence for driverless vehicles, the year-long trial will enable Asda to autonomously deliver orders to a catchment area of more than ...",
@@ -1291,59 +1334,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-11-should-robots-with-artificial-intelligence-have-moral-or-legal-rights.md",
-      "title": "Should Robots With Artificial Intelligence Have Moral or Legal Rights?",
-      "excerpt": "Artificial intelligence is writing essays ... bolstering longstanding worries that robots might someday overtake us.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/robots-ai-legal-rights-3c47ef40",
-      "originalUrl": "https://www.wsj.com/articles/robots-ai-legal-rights-3c47ef40",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-756352/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-10T11:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

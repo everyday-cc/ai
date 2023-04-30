@@ -9,7 +9,7 @@ ampWebUrl: "https://www.express.co.uk/life-style/cars/1763884/electric-car-facia
 cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/cars/1763884/electric-car-facial-recognition-genesis/amp"
 type: article
 quality: 53
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Sarah Harte: Fast-tracking facial recognition technology laws would be irresponsible"
-    excerpt: "Introducing one of the most privacy-intrusive tools in policing needs careful scrutiny and a comprehensive public consultation"
-    publishedDateTime: 2023-04-26T01:00:00Z
-    webUrl: "https://www.irishexaminer.com/opinion/columnists/arid-41124709.html"
-    type: article
-    provider:
-      name: Irish Examiner
-      domain: irishexaminer.com
-    quality: 32
-    images:
-      - url: "https://www.irishexaminer.com/cms_media/module_img/7077/3538543_11_seoimageog_POLICE_20Facial_20_2006284724.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "David Fisher: The real problem with police, number plate surveillance and facial recognition technology"
     excerpt: "With the number plate surveillance - and facial recognition - police have yet to inhabit a framework intended to manage or even avoid the occurrence of those adverse scenarios. In the case of automatic number plate recognition, it’s astonishing that is the case six years after police were warned."
     publishedDateTime: 2023-04-27T02:19:00Z

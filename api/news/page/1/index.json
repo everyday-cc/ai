@@ -2,6 +2,100 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-01-how-does-hiv-drug-help-protect-against-build-up-of-dementia.md",
+      "title": "How Does HIV Drug Help Protect Against Build-Up of Dementia?",
+      "excerpt": "Scientists have also discovered HIV medication that restores this vital function. The findings are published in Neuron. A common characteristic of neurodegenerative diseases such as Huntington's disease and various forms of dementia is the build-up in the brain of clusters - known as aggregates - of misfolded proteins,",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/how-does-hiv-drug-help-protect-against-build-up-of-dementia-211583-1.htm",
+      "originalUrl": "https://www.medindia.net/news/how-does-hiv-drug-help-protect-against-build-up-of-dementia-211583-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.medindia.net/health-images/cholesterol-lowering-drugs.jpg",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/how-does-hiv-drug-help-protect-against-build-up-of-dementia-211583-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/how-does-hiv-drug-help-protect-against-build-up-of-dementia-211583-1.htm",
+      "publishedDateTime": "2023-04-30T10:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-30-ai-ethicist-views-on-chatgpt.md",
+      "title": "AI Ethicist Views On ChatGPT",
+      "excerpt": "Physicist Stephen Hawking, who died in 2018, described the rise of AI as one of the greatest threats to the future of humanity. Even the controversial Elon Musk and over 1000 technology leaders have called for a pause on generative AI and for advancing legislation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/04/30/ai-ethicist-views-on-chatgpt/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/04/30/ai-ethicist-views-on-chatgpt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/644e92c9ee3ccccd5dad4712/0x0.jpg?format=jpg&width=1200",
+          "width": 800,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/04/30/ai-ethicist-views-on-chatgpt/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/04/30/ai-ethicist-views-on-chatgpt/amp/",
+      "publishedDateTime": "2023-04-30T09:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-30-ai-email-spam-is-headed-this-wayand-other-smb-tech-news-this-week.md",
       "title": "AI Email Spam Is Headed This Way…And Other SMB Tech News This Week",
       "excerpt": "Plus: Google makes new changes to its workplace platform and Yelp adds new capabilities to help consumers do better reviews.",
@@ -205,58 +299,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-29-sneakily-using-generative-ai-chatgpt-to-spout-legalese-and-imply-that-youve-hired-an-attorney-unsettling-for-ai-ethics-and-ai-law.md",
-      "title": "Sneakily Using Generative AI ChatGPT To Spout Legalese And Imply That You’ve Hired An Attorney, Unsettling For AI Ethics And AI Law",
-      "excerpt": "People are using ChatGPT and other generative AI to compose letters that have legalese, aiming to intimidate others. Is this allowed? Should it be stopped? Here is the insider scoop.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2023/04/29/sneakily-using-generative-ai-chatgpt-to-spout-legalese-and-imply-that-youve-hired-an-attorney-unsettling-for-ai-ethics-and-ai-law/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/04/29/sneakily-using-generative-ai-chatgpt-to-spout-legalese-and-imply-that-youve-hired-an-attorney-unsettling-for-ai-ethics-and-ai-law/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64498827383d36579551f765/0x0.jpg?format=jpg&crop=2429,1619,x557,y0,safe&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2023/04/29/sneakily-using-generative-ai-chatgpt-to-spout-legalese-and-imply-that-youve-hired-an-attorney-unsettling-for-ai-ethics-and-ai-law/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/04/29/sneakily-using-generative-ai-chatgpt-to-spout-legalese-and-imply-that-youve-hired-an-attorney-unsettling-for-ai-ethics-and-ai-law/amp/",
-      "publishedDateTime": "2023-04-29T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     },
     {
@@ -809,7 +851,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/aimachine-learning-market-size-trends-and-forecast-2030-2023-04-28",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -1102,7 +1144,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-market-projection-and-growth-drivers-2023-2028-2023-04-28",
       "featuredContent": null,
       "highlight": null,
-      "heat": 266,
+      "heat": 276,
       "tags": null,
       "images": [
         {
@@ -1197,58 +1239,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-making-the-most-out-of-generative-ai-in-your-enterprise.md",
-      "title": "Making The Most Out Of Generative AI In Your Enterprise",
-      "excerpt": "Generative artificial intelligence (AI) has come to the forefront of business leaders' minds with the ongoing stories and innovative capabilities of ChatGPT and the waitlist for its rival, Google Bard.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/28/making-the-most-out-of-generative-ai-in-your-enterprise/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/28/making-the-most-out-of-generative-ai-in-your-enterprise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 239,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/644a7a52c586aa5faa0d1575/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 781,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/28/making-the-most-out-of-generative-ai-in-your-enterprise/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/28/making-the-most-out-of-generative-ai-in-your-enterprise/amp/",
-      "publishedDateTime": "2023-04-28T04:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

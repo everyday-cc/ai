@@ -82,20 +82,6 @@ related:
       name: Gizmochina
       domain: gizmochina.com
     quality: 48
-  - title: "Russia’s biggest bank unveils GigaChat, another rival to ChatGPT"
-    excerpt: "Russian lender Sberbank released GigaChat, initially in an invite-only testing mode, joining the AI chatbot race."
-    publishedDateTime: 2023-04-26T00:30:00Z
-    webUrl: "https://techwireasia.com/2023/04/russias-biggest-bank-unveils-gigachat-another-rival-to-chatgpt/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 41
-    images:
-      - url: "https://techwireasia.com/wp-content/uploads/2023/04/shutterstock_1950040216-scaled.jpg"
-        width: 2560
-        height: 1631
-        isCached: true
   - title: "What Can ChatGPT Tell Us About the Evolution of Artificial Intelligence?"
     excerpt: "In the last decade, artificial intelligence (AI) has elicited both dreams of a massive transformation in the tech industry  and a deep anxiety surrounding its potential ramifications. Elon Musk, a leading voice in the tech industry,"
     publishedDateTime: 2023-04-26T16:07:00Z

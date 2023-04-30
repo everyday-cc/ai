@@ -41,20 +41,6 @@ related:
         width: 590
         height: 350
         isCached: true
-  - title: "Sarah Harte: Fast-tracking facial recognition technology laws would be irresponsible"
-    excerpt: "Introducing one of the most privacy-intrusive tools in policing needs careful scrutiny and a comprehensive public consultation"
-    publishedDateTime: 2023-04-26T01:00:00Z
-    webUrl: "https://www.irishexaminer.com/opinion/columnists/arid-41124709.html"
-    type: article
-    provider:
-      name: Irish Examiner
-      domain: irishexaminer.com
-    quality: 32
-    images:
-      - url: "https://www.irishexaminer.com/cms_media/module_img/7077/3538543_11_seoimageog_POLICE_20Facial_20_2006284724.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "The first smart gun with facial and fingerprint recognition is now for sale"
     excerpt: "Smart guns have mainly been the stuff of movies. In the real world, technological and political challenges have meant the high-tech devices haven't become a reality. That may be about to change."
     publishedDateTime: 2023-04-29T09:01:00Z

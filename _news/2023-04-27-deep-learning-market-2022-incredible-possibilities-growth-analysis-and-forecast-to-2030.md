@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning Market Size Overview, Global Value, Opportunities and Sales Forecast"
+    excerpt: "The global “Machine Learning Market Size” is expected to rise with an impressive CAGR and generate the highest revenue"
+    publishedDateTime: 2023-04-30T07:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-size-overview-global-value-opportunities-and-sales-forecast-2023-04-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 79
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Deep Learning Market Global And Regional Outlook, Trends, And Forecast"
     excerpt: "A Deep Learning market report is a comprehensive analysis of a Software and Services industry, providing valuable insights into its current and future trends, opportunities, and challenges. This market report is used by businesses,"
     publishedDateTime: 2023-04-28T14:32:00Z

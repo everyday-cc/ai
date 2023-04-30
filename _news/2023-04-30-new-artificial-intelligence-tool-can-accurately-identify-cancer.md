@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/society/2023/apr/30/artificial-intellige
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/society/2023/apr/30/artificial-intelligence-tool-identify-cancer-ai"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -30,22 +30,6 @@ images:
     height: 372
     isCached: true
 
-related:
-  - title: "Artifact debuts AI tool that can summarize news stories for you"
-    excerpt: "Artifact, the news aggregation app, has announced Summaries, a new tool that uses artificial intelligence to summarize news stories."
-    publishedDateTime: 2023-04-25T23:50:00Z
-    webUrl: "https://bgr.com/tech/artifact-debuts-ai-tool-that-can-summarize-news-stories-for-you/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 37
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/04/artifact-summaries.webp"
-        width: 1400
-        height: 933
-        isCached: true
-
-secured: "iKdUr3sit3PSjuKAOs4YB0kw6rqoT7Fmu2bGshpZuPWKmk+rhRdlVtCqxvReYC2ZrFIXWYVojTDtTHnhQaNnGVDTXKs4mGj4iae32IN0PYS5YgQNvyJqGG1sF55GZkeLij7jTK9jVUTCCgaF4YgFlFm9pN8i0CkvYh8pX7pZJieIq7Or4FMtkxMxhSEKGkhHzVxw8lobB3ZnezGkVhSAw+ABirOAd47QLRP2gi4CYl+if+X0UUOYyTLietKsuxP/TSrYL5jW+3c5hwq11MGT0RlY3+09gaqgsXcqzTpC5qagRJhhWLguA6G88msaw9QTx4Xj4jOc9ckQMqopzZ2RQt/VqYJcZI3yAspQ6rhu0lY=;+VNN1ps5omNIo6vZMirC3Q=="
+secured: "pRei821C7RaKCbTF9bMecBN8iFYL8hio7idH/xtV86Yyp7kpkwZCcwtfBWvIEspf3P7lE80tCQ0sY5Rnw8MOcOM/YaREusCM6OWCr/eDhTmtzenSs8SkZeR18hH5nbizPdcCmoWb1pwmL077nw+L7LK/FD5G/ho8oY5r71Vw+SJFd2Haq7W5iqAgPPafSxZh4AIvctWtI4lCUA8CMsfAkCpxgUqsTsRhwKlUD1bjkBHyYWQmvLkg0sE4R+XzZ//4Shzm3A1nLxrLwPqB2ej5Re778X6VL1wUCHfShClrf9ntuXDjw0GEs3PSIR2dachsbIj+ZD6lD1UTFfCvCcJyeo4IkuYjUyXZ7G63VqHfMQu5E/yHk6m0XP1bnSBY51gaU18gvZmSsb0PT3ADdDl53NoMbsbVx0HtO1QT4n1EorFmCe7pDpHESO58SwKV+X/X1R03hx/JYfkjlu207lmvqFTESsHoTWuEiuJALlS9opFyfXgTuuP2wOYEEy6rzPX0rI6rKAQc4GYvAyphlmigDg==;bf5eFl1ab0ioIF6H5zbgaQ=="
 ---
 

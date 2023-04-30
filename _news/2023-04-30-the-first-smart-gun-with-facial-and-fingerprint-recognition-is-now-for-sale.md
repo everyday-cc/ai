@@ -41,20 +41,6 @@ related:
         width: 590
         height: 350
         isCached: true
-  - title: "Sarah Harte: Fast-tracking facial recognition technology laws would be irresponsible"
-    excerpt: "Introducing one of the most privacy-intrusive tools in policing needs careful scrutiny and a comprehensive public consultation"
-    publishedDateTime: 2023-04-26T01:00:00Z
-    webUrl: "https://www.irishexaminer.com/opinion/columnists/arid-41124709.html"
-    type: article
-    provider:
-      name: Irish Examiner
-      domain: irishexaminer.com
-    quality: 32
-    images:
-      - url: "https://www.irishexaminer.com/cms_media/module_img/7077/3538543_11_seoimageog_POLICE_20Facial_20_2006284724.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "David Fisher: The real problem with police, number plate surveillance and facial recognition technology"
     excerpt: "With the number plate surveillance - and facial recognition - police have yet to inhabit a framework intended to manage or even avoid the occurrence of those adverse scenarios. In the case of automatic number plate recognition, it’s astonishing that is the case six years after police were warned."
     publishedDateTime: 2023-04-27T02:19:00Z
@@ -93,6 +79,6 @@ related:
       domain: trtworld.com
     quality: 19
 
-secured: "wBJU5CAm999W0evTY0lWgreDckSoQ4bDvYsTVz17LDKEMNUN08MfwZaxIVXJ3nJT6SWBSiRdWU91PIqeo1Tkn30vO0iB7md796uldgcgRPt+/+16wnPmZOZiYO7tUA6oYQ2n/5GxWjVeQQitPwHQZuur7+YhshQH/kL8v6AKSZjbc6XWUXZVWnh7dxa+sOzP0Niw9TViQDlko6bz8KaFYmio2eLM3pFaUeS6+qyxOvJCy4XYaRgxAwZ0Kfd0q4RkzyUUvTuwGfqbwsQYxKTtyLzFregWxWlSuJEkZFXv5eQa5GITvQg1nvrHKncH3fhkzU5bkN5f1n6lPlnrY+X+/XG4ojTKWPbdNd1myrPPuDY=;bNdUR6J8HePFt78drXOUzQ=="
+secured: "S44nr0ZBIWDaDRBzQeJazNhu9/Gt2adFWidwwVZBIP+OZ6Jxk2tfcp3GJSNKboq46yryiqc7iR3iWetvUtLl8KC/NVi9QEOSAV/lVb+H05YYasCNKCvrnTVepMiSPzPZYacQXJlO0i0w74vjgsGB0htFsbExnWAA2AX2KXXTpoHn7yQf66Xh9AZYIBTZ8fE6yG8dBFv+TiDXs9Q2wV4L1DdjDEF3r3Rj0k6PSaj5ptx1BWlvwdweZDC5V79Q1rrLeLQcS2u5GJih8tVbLP/G3vQ1QjR6HQjOPsqwgSFId9hJ+9G8Uzlm/4KpftdvtsfZVCX9SWKPbb+8SRUrqslJejFwK1//YR/6RLDcy3xjUY1I1p8ckbyJTqcEjgdhcp0JEnO/8HU9pCJrJOPv1mFov0cd0T9MouLkf5UgsAQbMYz1wHJmq9AORe99vWoQClJQ0S9qebRi4DyyQnrnkJrcMKIJf9w6EUzdfN3zzL/oRY3EFZQSMSaF5f6JHN8psrp84uVsu0IeY3ds9a3m3qXIjw==;4Lc8KJo3Rtrvp1jJ2SHlVQ=="
 ---
 

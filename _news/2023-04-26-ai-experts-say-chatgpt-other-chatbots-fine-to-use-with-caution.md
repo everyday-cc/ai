@@ -153,20 +153,6 @@ related:
         width: 1200
         height: 508
         isCached: true
-  - title: "Microsoft Sees AI Shaking Up Search While Google Calms Investors"
-    excerpt: "Alphabet Inc.’s Google and Microsoft Corp., whose quarterly earnings each got a boost from their established search and cloud-computing businesses, used their time with investors to emphasize what’s next: artificial intelligence."
-    publishedDateTime: 2023-04-26T00:16:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-04-26/microsoft-sees-ai-shaking-up-search-while-google-calms-investors"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 84
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iTTD4u4LZG8Q/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Microsoft's AI Ambitions Spell Trouble for Intel, Warns Analyst"
     excerpt: "This could prove to be a positive for the software giant but hurt one of the biggest chipmakers, an analyst said. Microsoft cut server orders by 25-30% in 2023, with the bulk of these planned for the second half of the year,"
     publishedDateTime: 2023-04-26T05:40:00Z
@@ -503,29 +489,6 @@ related:
         width: 2048
         height: 1360
         isCached: true
-  - title: "Microsoft Previews Defender for APIs in Defender for Cloud"
-    excerpt: "Microsoft this week introduced a preview of a new 'Microsoft Defender for APIs' security solution, which is part of the Microsoft Defender for Cloud service."
-    publishedDateTime: 2023-04-25T23:33:00Z
-    webUrl: "https://redmondmag.com/articles/2023/04/25/microsoft-previews-defender-for-apis-in-defender-for-cloud.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 39
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages2014/VRM_shutterstock_127598501.jpg"
-        width: 647
-        height: 450
-        isCached: true
-  - title: "Microsoft Stock Leaps As Cloud Strength Drives Q3 Earnings Beat, Offsets Muted Azure Gains"
-    excerpt: "Microsoft Cloud revenues were up 22% from last year over the third quarter, topping Street forecasts and driving a solid earnings beat for the tech giant."
-    publishedDateTime: 2023-04-26T00:13:00Z
-    webUrl: "https://www.thestreet.com/investing/stocks/microsoft-stock-leaps-as-cloud-strength-drives-q3-earnings-beat-offsets-muted-azure-gains"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 39
   - title: "Meta Hopes to Rival ChatGPT with New AI Investments"
     excerpt: "Meta claims it's \"no longer behind in building AI infrastructure\", with new AI tools coming to WhatsApp, Messager, Facebook, and Instagram."
     publishedDateTime: 2023-04-27T16:51:00Z

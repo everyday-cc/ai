@@ -215,6 +215,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 50
+  - title: "Deep Learning Software Market Analysis: Current Market Size, Growth Projection, and CAGR of 6% from 2023 - 2030"
+    excerpt: "This report on \" Deep Learning Software market \" contains the data required to conduct a SWOT, PEST, and STEER analysis. It gives a better knowledge of market dynamics and industry competition. The Deep Learning Software market is expected to grow annually by 6% (CAGR 2023 - 2030)."
+    publishedDateTime: 2023-04-30T11:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-software-market-analysis-current-market-size-growth-projection-and-cagr-of-6-from-2023---2030-2023-04-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI in Fashion Global Market Report 2023: Growing Influence of Social Media on the Fashion Industry Fuels the Sector"
     excerpt: "The \"AI in Fashion Global Market Report 2023\" report has been added to ResearchAndMarkets.com's offering. This report provides strategists, marketers and senior"
     publishedDateTime: 2023-04-28T23:00:00Z

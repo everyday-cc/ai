@@ -2,6 +2,100 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2023-04-17-why-some-college-professors-are-adopting-chatgpt-ai-as-quickly-as-students.md",
+      "title": "Why some college professors are adopting ChatGPT AI as quickly as students",
+      "excerpt": "There's another side to that evolving AI story ... \"ChatGPT can even help educators translate some of those lessons or takeaways in simpler language,\" he said. Education technology company ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/04/02/why-college-professors-are-adopting-chatgpt-ai-as-quickly-as-students.html",
+      "originalUrl": "https://www.cnbc.com/2023/04/02/why-college-professors-are-adopting-chatgpt-ai-as-quickly-as-students.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-16T22:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-17-artificial-intelligence-of-things-aiot-solutions-market-size-and-share-2023-2030.md",
+      "title": "Artificial Intelligence Of Things (AIoT) Solutions Market [Size and Share] 2023-2030",
+      "excerpt": "To know How COVID-19 and Russia-Ukraine War Influence Will Impact This Market/Industry - Request a sample copy of the report-:  In This Reports Artificial Intelligence Of Things (AIoT) Solutions Market Segment by Type ( Hardware,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-of-things-aiot-solutions-market-size-and-share-2023-2030-2023-04-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-of-things-aiot-solutions-market-size-and-share-2023-2030-2023-04-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-16T22:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-17-gpu-for-deep-learning-market-analysis-2023-2030-understanding-the-latest-market-trends.md",
       "title": "GPU for Deep Learning Market Analysis [2023-2030] Understanding the Latest Market Trends",
       "excerpt": "This GPU for Deep Learning Market report researches the key producers of GPU for Deep Learning, also provides the sales of main regions and countries. Highlights of the upcoming m",
@@ -94,40 +188,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-17-profit-from-the-artificial-intelligence-boom-with-these-7-ai-etfs.md",
-      "title": "Profit from the Artificial Intelligence Boom with These 7 AI ETFs",
-      "excerpt": "In fact, here are seven top AI ETFs that could help. One of the top AI ETFs to consider is the Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ). With an expense ratio of 0.68% ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/profit-from-the-artificial-intelligence-boom-with-these-7-ai-etfs",
-      "originalUrl": "https://www.nasdaq.com/articles/profit-from-the-artificial-intelligence-boom-with-these-7-ai-etfs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-16T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     },
@@ -1093,57 +1153,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-15-spacex-launches-startups-first-cell-tower-in-space.md",
-      "title": "SpaceX Launches Startup's First 'Cell Tower in Space'",
-      "excerpt": "With a SpaceX rocket launch late Friday, a Spanish company called Sateliot took its first step toward helping you get text messaging abilities in mountains, rural areas and other parts of the world where conventional mobile networks fail.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/home/internet/spacex-launches-startups-first-cell-tower-in-space/",
-      "originalUrl": "https://www.cnet.com/home/internet/spacex-launches-startups-first-cell-tower-in-space/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/f8cd5c4525386ce7a982925e6f428a54c6080942/hub/2023/04/06/21031a62-fd2f-4f4d-a647-214d77009e95/sateliot-satellite.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/spacex-launches-startups-first-cell-tower-in-space/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/spacex-launches-startups-first-cell-tower-in-space/",
-      "publishedDateTime": "2023-04-15T04:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/04/29/sneakily-using-ge
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/04/29/sneakily-using-generative-ai-chatgpt-to-spout-legalese-and-imply-that-youve-hired-an-attorney-unsettling-for-ai-ethics-and-ai-law/amp/"
 type: article
 quality: 74
-heat: 94
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -31,24 +31,52 @@ images:
     isCached: true
 
 related:
-  - title: "Exclusive: Behind EU lawmakers' challenge to rein in ChatGPT and generative AI"
-    excerpt: "By mid-April, however, members of European Parliament (MEPs) were racing to update those rules to catch up with an explosion of interest in generative AI, which has provoked awe and anxiety since OpenAI unveiled ChatGPT six months ago."
-    publishedDateTime: 2023-04-28T20:02:00Z
-    webUrl: "https://www.reuters.com/technology/behind-eu-lawmakers-challenge-rein-chatgpt-generative-ai-2023-04-28/"
+  - title: "AI Ethicist Views On ChatGPT"
+    excerpt: "Physicist Stephen Hawking, who died in 2018, described the rise of AI as one of the greatest threats to the future of humanity. Even the controversial Elon Musk and over 1000 technology leaders have called for a pause on generative AI and for advancing legislation."
+    publishedDateTime: 2023-04-30T16:23:00Z
+    webUrl: "https://www.forbes.com/sites/cindygordon/2023/04/30/ai-ethicist-views-on-chatgpt/"
+    ampWebUrl: "https://www.forbes.com/sites/cindygordon/2023/04/30/ai-ethicist-views-on-chatgpt/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/04/30/ai-ethicist-views-on-chatgpt/amp/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 43
-  - title: "AI Set To Significantly Impact The Job Market – Amesite Helps Users Get Ready To Succeed In Tomorrow's Economy By Integrating ChatGPT Into Learning"
-    excerpt: "Artificial intelligence (AI) has taken the markets by storm ever since the release of Open AI’s Chat GPT, powered by the generative AI model GPT-3. AI’s creative potential, as well as fears surrounding its use,"
-    publishedDateTime: 2023-04-26T12:45:00Z
-    webUrl: "https://www.benzinga.com/markets/penny-stocks/23/04/32009425/ai-set-to-significantly-impact-the-job-market-amesite-helps-users-get-ready-to-succeed-in-to"
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/644e92c9ee3ccccd5dad4712/0x0.jpg?format=jpg&width=1200"
+        width: 800
+        height: 500
+        isCached: true
+  - title: "Dr. ChatGPT? Physicians Are Sending Patients Advice Using AI"
+    excerpt: "ChatGPT is better than doctors at responding to patient questions, study says"
+    publishedDateTime: 2023-04-28T14:00:00Z
+    webUrl: "https://www.wsj.com/articles/dr-chatgpt-physicians-are-sending-patients-advice-using-ai-945cf60b"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-771596/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "ChatGPT’s Secret Weapon Is Artificial Emotional Intelligence"
+    excerpt: "Alphabet Inc.'s Google are rushing to enhance their search engines with the large language model technology that underpins ChatGPT — but there is good reason to think the technology works better as an emotional companion than as a provider of facts."
+    publishedDateTime: 2023-04-27T02:36:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/chatgpts-secret-weapon-is-artificial-emotional-intelligence-71682528287549.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/chatgpts-secret-weapon-is-artificial-emotional-intelligence-71682528287549.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/chatgpts-secret-weapon-is-artificial-emotional-intelligence-71682528287549.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 44
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2023/04/27/1600x900/USA-AI--0_1682562770511_1682562806556.JPG"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "OSXJPq21945GKNUCdQVJMJGqrlM93AfupgzRq6lzJouHDFUFZpioKad3gGgLdE6CEIv1IL6WY4XaQ2b9YFIOnilStFuTCf1dsA1f25qiAXT8nf3UQHy+3wJUuMnfRy96HM5ox2Qk1H3Q8e9eJzOEQQRyNVoES/lstwTZkadV/U6HLd+4NkEGJKEQ3P0KkHCH8NnHDo+ZhXSbZa3LBG/G+1o1k1RosOLJQOxFGRnstUnr5lr1iXdeUgNcu5+2fPSlusOswp0BAGCFBbIIc3jZfse8aiqWR8Q+I680z5HHhVdNmxkX9NTXp95iaO0HH9xHIKDLHD+Uwocvh76G+jPK7hgirQSCrrRoEe5WO+0fiSZjhWpq4WdhPCvmMFGiLCuGGUfHXZri/eXibyYQUjvyS96kGbGi9IiekQz1a+LBQAhFagVA696SNFnP2/GL0Tv0fhrujfTjki5f5DASaYWxqN8deNPZI3VRIhN0GF/JEWiEPILYTe5fpsxS7nq4fLE7oGNBgbk6SIXhpKr8BQilRA==;dutGtNNFUuutLZ7joc1Ngw=="
 ---
