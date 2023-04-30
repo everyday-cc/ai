@@ -60,15 +60,6 @@ related:
         width: 610
         height: 456
         isCached: true
-  - title: "SecurityScorecard becomes first security ratings platform to integrate GPT-4"
-    excerpt: "Security ratings firm SecurityScorecard Inc. today announced that it has integrated OpenAI LP’s GPT-4 with its security platform, becoming the first security ratings platform to do so. Announced at the RSA Conference 2023 in San Francisco,"
-    publishedDateTime: 2023-04-25T12:00:00Z
-    webUrl: "https://siliconangle.com/2023/04/25/securityscorecard-becomes-first-security-ratings-platform-integrate-gpt-4/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 18
 
 secured: "gNW20bl/UDaKCsqic79zWHSdiP9YVrD52mtob6rRMAkBwMj2JjTG01uiia++Fq0eZjvgog5AXev2CLA4pc4eDrwB1f8OF4xdvH4Ib8bXUwMdG6dRw65a/mxmLQA0nLvTd3Qg7WZ2yUBBSgOYtVxNzwSncA+D3VeXmqfuYoRA5yKuO+iFRJJstLAgUlPzSXjloHIKl2igRX5W+rPeGmVFV9TYBPhNHNAOrnxpBd2X2QGCtm7kLmiCD0ctfqDfSRHh2tVWl8EiQXBi74T6P/0E9qVUMnU5ZnyQ+g3nbuLygP2vjLxDgF0t3mHKVAtGoFlnigXh/QH2Ggky+vQ1aTjy/KBzpGlPky/8KJp3K7URG4NkllhQzLnW007qwz5GnZCPADLNxAp63ZYoXikEZXmTIRButMfmyykpMxJkAeI4mgP/n5SBDvdKv5DxuE1po2/gfbsjihaOwTVDYiA/uyNqA/VuAexY7+0YA9ZktUEJ6epvp+lDaakb4SQ3EkZp2/QDdP5sUnLWEpxdUNnP8S7CXA==;hP8S9Z/74mHLFUNLakzWKQ=="
 ---

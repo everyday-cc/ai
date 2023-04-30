@@ -56,15 +56,6 @@ related:
         width: 550
         height: 353
         isCached: true
-  - title: "Grid Dynamics AWS Analytics Platform Starter Kit Leveraged by Client, Mistplay, to Improve Business Operations"
-    excerpt: "Grid Dynamics Holdings, Inc. (NASDAQ:GDYN) (Grid Dynamics), a leader in enterprise-level digital transformation services and solutions, announced today that its client, Mistplay, the leading loyalty"
-    publishedDateTime: 2023-04-25T12:45:00Z
-    webUrl: "https://www.asiaone.com/business/grid-dynamics-aws-analytics-platform-starter-kit-leveraged-client-mistplay-improve"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 0
 
 secured: "G58a5n9rxCCvgM9PVWy9SHQ/qO7r2mPEOoxsUBUIbxtXxd00PWaN12Eq9C8I3Su5waXiYLW+xxHI4cIxzbA/cngvTqum82lWeowB00SWMxQFYjFCUnzB43CjTferOhxqizH1A2BgK9/gNzLv6Fded5ZicR2juRtDAAs/xo3h/yA9FHKxOhTmlF4TkCZbb5XvDsbc4R/Awx0LVX2MBpv3RN4mdZH0HDQkgq3ONj9NKmsawL7O9gxQ1DhYdZuI/kKEejn0afk1npljjdzZg5UGcguuXf7YGkMxJWS7bNsRrQDpa1dWUYEAuc/fBBHMlbEMppscZDoEVlh5uWr4qYmGtYWXeWM5aeLAUHlKx5DShiVYAJirQLFd43qdxUWCfdyBM9nMEy5uvo2uxsJXwRw1UKNiSwf7qPJxZZJE8p1A9RGFXwaZBKaJWVinQvZAq/JABKVDTtBisc/qT0S+uTgzrDTaZV6U4wbtR9inyfontQ/fsKBHTXfmZucI3YCq/BxM7OJKZxKV5Da+FdSORNNXWQ==;VjhHnwHklQy1Zdlv8CgqEg=="
 ---

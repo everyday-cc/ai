@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/98471-could-artificial-intelligence-
 webUrl: "https://www.techspot.com/news/98471-could-artificial-intelligence-about-take-over-job.html"
 type: article
 quality: 67
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -37,15 +37,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
-  - title: "3 Takeaways to Guide Your AI Strategy"
-    excerpt: "Encapsulating the recent Healthcare Information and Management Systems Society’s annual meeting can be like trying to devour an elephant. Where does one begin? But for health care executives, key takeaways could be found amid the many discussions about artificial intelligence (AI) in all its forms and how the technology will continue to impact the field."
-    publishedDateTime: 2023-04-25T12:23:00Z
-    webUrl: "https://www.aha.org/aha-center-health-innovation-market-scan/2023-04-25-3-takeaways-guide-your-ai-strategy"
-    type: article
-    provider:
-      name: aha.org
-      domain: aha.org
-    quality: 19
 
 secured: "Zej+l8ECbfL/oZ2E8lS5RvzfbhnL0knHyX+GrtNO+tvkuXE+hcdukjaszJ2QOmG36PwImqLvK5dWNp73gH12bQy1z/QcdziBIsM5wDUAqH0aDFOAupHcRFrCTplibSBThbgoCevxVQExuN7pOzSjvj+Rq7BFZCy3x5JUDbJldRrMcJnYCutT4QIGvzCwR8m0OGwQR50BxSCj6NuZJLj6CG5LtVZCm5EVzQuwnsi2/CjPx/YUUQCzdca8buzLKpyrbGJURCynElo49zDV2K7U7Xm6V0DOfqfnQu1rHTA13nrGE9uUwfFAY0Vcf9BqaUzhTMd9stfr2GWSjOd0fosHEy1ZQ8fWoK03cjRFXc3BphM=;PmRNVkOvwfUB2l6NKeF+WQ=="
 ---

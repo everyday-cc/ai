@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Hennen: Be very afraid of artificial intelligence, a lying criminal tool"
-excerpt: "That's the best word I can use to describe artificial intelligence. What is it? Let's ask Google: \"Artificial intelligence is the simulation of human intelligence processes by machines, especially computer systems."
-publishedDateTime: 2023-04-29T15:01:00Z
-originalUrl: "https://www.grandforksherald.com/opinion/columns/hennen-be-very-afraid-of-artificial-intelligence-a-lying-criminal-tool"
-webUrl: "https://www.grandforksherald.com/opinion/columns/hennen-be-very-afraid-of-artificial-intelligence-a-lying-criminal-tool"
+excerpt: "It's a web tool that uses AI technology to spit out a boatload of information in seconds. Google says: \"It is a natural language processing tool driven by AI technology that allows you to have human-like conversations and much more with the chatbot."
+publishedDateTime: 2023-04-29T14:42:00Z
+originalUrl: "https://www.inforum.com/opinion/columns/hennen-be-very-afraid-of-artificial-intelligence-a-lying-criminal-tool"
+webUrl: "https://www.inforum.com/opinion/columns/hennen-be-very-afraid-of-artificial-intelligence-a-lying-criminal-tool"
 type: article
 quality: 51
 heat: 51
 published: false
 
 provider:
-  name: Grand Forks Herald
-  domain: grandforksherald.com
+  name: inforum
+  domain: inforum.com
 
 topics:
   - AI
@@ -23,6 +23,6 @@ images:
     height: 1066
     isCached: true
 
-secured: "PkWKpNRNI7g89w/qruCe9Bcl/4DNoxiMhxgdiltWhz4vQB1VG1Tf3kRghTJBHgCfy3wReU6lK1aoBekYrHcIz53wl0pRfm2VlrEMyromC74NVdcvI/tcb6AUKwNI4uqkF4yza/++JglqLnypJ4MHzOW5G4/5pSOnLS6rj96D7cCCRxxuxH1CkRGsumeN+5NhTRNl2724Xx4raDwzW0Bj5bwASh3q8PEhc9tocz6iJVjdcq3kag8QVuJjX2ItKvBPxJruLMuLukVrq11ftv98BehBYFNaLhV4EXRpbCO+cB9KMfxdwGnCkMU317WkRzbCK2Jq9/Tx+EoaJ9I+DAH5Y96ZESRbm7F0Ronj03sNQE4=;nbBXrGbZSjuDeFQ6RSLlVA=="
+secured: "q9RUUcGSNlOj588DPWkj0Jfh8buh9iszs+IIUQ2k8HXvAzKRAJZJJwTrGZKPJ2m8oXBodV2HBs1rOEx5lMQ3gHsyn1dbYwYj/lCWZd5dzs+IYkLILkcokl1tUAWN/XrIZLdPvqjoXMfmaDfttr9enmm5d7CDfB8od6LLF52tv1qVFxtJIF/Yl5YVznfQ0qypW3cVg/xDloI4NOpiA4O8A85IGlB1K4pIvj14HXjH3v8F6/YdCDpgos1Or6wxeZEpYglzq8oBKD57pTVwWs0u8CH4YQ/pi/Oxok/Ddq17cbjZ8UV/7vmyue46D4f24oonabUqVTsjIVm4JRbmF2F4sVO7EhatGP4+RWS0eF8e29w=;VaRlDIOBQ6bdlQlDZHJpkg=="
 ---
 

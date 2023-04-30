@@ -57,15 +57,6 @@ related:
       name: healthpayerintelligence.com
       domain: healthpayerintelligence.com
     quality: 19
-  - title: "Grid Dynamics AWS Analytics Platform Starter Kit Leveraged by Client, Mistplay, to Improve Business Operations"
-    excerpt: "Grid Dynamics Holdings, Inc. (NASDAQ:GDYN) (Grid Dynamics), a leader in enterprise-level digital transformation services and solutions, announced today that its client, Mistplay, the leading loyalty"
-    publishedDateTime: 2023-04-25T12:45:00Z
-    webUrl: "https://www.asiaone.com/business/grid-dynamics-aws-analytics-platform-starter-kit-leveraged-client-mistplay-improve"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 0
 
 secured: "M7uEyzOXh5JzQgFUFTI8E0OzjY1+AK3waDS7GSIpwluKWS38v3fLqw3AgT5DIENhQFgVIO7TjJ6dORlrKOrUAYrB9gL4cf9QA16XMGGhsY9fk6MDVWTf31IhRrEMj53PbrrTfhJR/75AtFvKOIhEAiIIpV8sMd+/7qrtFWWiWp51tJbUlxXySvV1XV5Toe51Zi9kKE32aup8oGSve5eaK2FOsClvSVuKiqVZcFhrh1qOEk6itkPMlnsFbPSlu917t3UAZWVfb9Nvcop0q6lUztUS0AakEd1/5Yho4qbERaDfGl+nnM/FlRZXKG/VZUdKnmvqbqssTNApne+9Oq1fLQxtFI6CR+PJrVLD/WFeuVM=;jGJ18nB66C/wLHQjR4FMeg=="
 ---

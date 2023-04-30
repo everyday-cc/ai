@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-natural-language-
 webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-market-size-to-grow-at-a-cagr-of-2130-in-the-forecast-period-of-2023-2028-2023-04-28"
 type: article
 quality: 61
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Natural Language Processing (NLP) Market Size, Share, Price, Trends, Growth, Analysis, Report, Forecast 2023-2028"
+    excerpt: "Global Natural Language Processing (NLP) Market Size To Grow At A CAGR Of 21.30% In The Forecast Period Of 2023-2028 30 NORTH GOULD STREET, SHERIDAN, WYOMING, UNITED STATES, April 25, 2023 /einpresswire.com / -- The 'Global natural language processing (nlp ..."
+    publishedDateTime: 2023-04-26T07:05:00Z
+    webUrl: "https://menafn.com/1106098898/Natural-Language-Processing-NLP-Market-Size-Share-Price-Trends-Growth-Analysis-Report-Forecast-2023-2028"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 33
+    images:
+      - url: "https://menafn.com/updates/pr/2023-04/26/EP_bceaeimage_story.jpeg"
+        width: 600
+        height: 314
+        isCached: true
   - title: "Self-Driving Robots Market Expected to Reach USD 1423.6 Mn over the forecast period, at a CAGR of 15.23 percent (2023-2029)"
     excerpt: "The latest report on the global self-driving robots' market has projected its market size to reach USB 1423.6 Mn by 2029 from USD 457.9 Mn in 2021, at a CAGR of 15.23 percent during the forecast period."
     publishedDateTime: 2023-04-26T11:07:00Z

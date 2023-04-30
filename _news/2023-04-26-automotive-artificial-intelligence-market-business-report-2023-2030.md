@@ -42,6 +42,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning (ML) Platforms Market 2023 Size and Share Analysis Report 2030"
+    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
+    publishedDateTime: 2023-04-26T14:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-ml-platforms-market-2023-size-and-share-analysis-report-2030-2023-04-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 80
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Natural Language Processing (NLP) Software Market Market 2023 Size, share and Forecast to 2028"
+    excerpt: "Apr 28, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" This comprehensive market research"
+    publishedDateTime: 2023-04-28T12:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-software-market-market-2023-size-share-and-forecast-to-2028-2023-04-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 72
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Natural Language Processing (NLP) in Healthcare and Life Sciences Market Size 2023 with SWOT and PESTAL Analysis | Forecast to 2030"
     excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
     publishedDateTime: 2023-04-26T14:29:00Z
@@ -121,6 +149,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Market Size, Share, Analysis, Growth, Trends and Forecast – 2027"
+    excerpt: "The artificial intelligence market size to grow from USD 86.9 billion in 2022 to USD 407.0 billion by 2027, at"
+    publishedDateTime: 2023-04-26T01:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-share-analysis-growth-trends-and-forecast-2027-2023-04-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

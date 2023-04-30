@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Robots Manufactured to Remove Risks to Humans During Emergencies at Nuclear Plants"
-    excerpt: "REMOTELY operated rescue robots capable of withstanding hazardous environments will make emergency jobs across UK nuclear plants significantly safer and more cost effective."
-    publishedDateTime: 2023-04-25T11:23:00Z
-    webUrl: "https://www.azorobotics.com/News.aspx?newsID=13873"
-    type: article
-    provider:
-      name: Azorobotics
-      domain: azorobotics.com
-    quality: 33
-    images:
-      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_13873_16824216674394709.jpg"
-        width: 2000
-        height: 1219
-        isCached: true
   - title: "Rescue Robot designed by Forth Engineering will remove risk to people"
     excerpt: "REMOTELY operated rescue robots capable of withstanding hazardous environments will make emergency jobs across UK nuclear plants significantly"
     publishedDateTime: 2023-04-25T17:00:00Z

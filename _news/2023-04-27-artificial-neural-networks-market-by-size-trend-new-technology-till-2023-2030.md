@@ -29,15 +29,29 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Of Things (AIoT) Solutions Market 2023 Expected to Reach Significant Rate by 2030"
-    excerpt: "To know How COVID-19 and Russia-Ukraine War Influence Will Impact This Market/Industry-Request a sample copy of the report:  The Artificial Intelligence Of Things (AIoT) Solutions market has witnessed a growth from USD million to USD million from 2017 to 2022."
-    publishedDateTime: 2023-04-25T11:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-of-things-aiot-solutions-market-2023-expected-to-reach-significant-rate-by-2030-2023-04-25"
+  - title: "Artificial Neural Networks Market Share and Forecast till 2030"
+    excerpt: "Newest Report will contain the Competitional Analysis of Top 5 Key Plyers (Intel, Starmind, Clarifai, Microsoft,"
+    publishedDateTime: 2023-04-26T00:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-neural-networks-market-share-and-forecast-till-2030-2023-04-25"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 65
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Household Robot Vacuum Market: Recent Growing Trend 2030"
+    excerpt: "Newest Report will contain the Competitional Analysis of Top 5 Key Plyers (Ecovacs, Dyson, Neato Robotics, Haier, Media)"
+    publishedDateTime: 2023-04-26T00:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/household-robot-vacuum-market-recent-growing-trend-2030-2023-04-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

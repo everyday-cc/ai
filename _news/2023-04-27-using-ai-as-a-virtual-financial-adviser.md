@@ -53,31 +53,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 76
-  - title: "ChatGPT and Generative AI in Financial Services: Reality, Hype, What's Next, and How to Prepare"
-    excerpt: "Payments, banking, and insurance players are eager to understand generative AI's potential and put it to work."
-    publishedDateTime: 2023-04-28T17:30:00Z
-    webUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-in-financial-services-hype-next-prepare-2023-april"
-    ampWebUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-in-financial-services-hype-next-prepare-2023-april?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-and-generative-ai-in-financial-services-hype-next-prepare-2023-april?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 75
-    images:
-      - url: "https://i.insider.com/64403454632fda001803b2e0?width=1200&format=jpeg"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "Artificial Intelligence In The African Asset Management Industry: Four Factors To Consider Before Developing A Strategy"
-    excerpt: "Discussions about AI’s potential to disrupt enterprises, business models and entire industries have become mainstream. With the advanced data processing speed that AI affords, smaller asset management firms can now onboard clients faster using AI enabled know-your-customer (KYC) software."
-    publishedDateTime: 2023-04-25T12:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/04/25/artificial-intelligence-in-the-african-asset-management-industry-four-factors-to-consider-before-developing-a-strategy/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 23
 
 secured: "FQUUuSf+NZJuhptV4eGhp2UWtl4N2uDObU41SKPqFYo3yequq1N5o0ps6OnW9gcYBePdBDaUCb4/cbj30jB8+zspiI6Z5ykgK2o+Gg8HOAI4uYU2t1B/ID3akKrfEYzXcpHZIiYwHGowFyJOdUY2BlUe+/wSSC4BJ8gxn0ifaKs8ejSDhCH60iFscRZX0Kw/lst6+xZsNcHk/tJ2Hsoi/AmkLTEnkpJbKpzTXljMC3BHytcbOKB8sPO875q7qKdmkQWGNx7T7sS7mhIugu6Y1nimaDE2YhFMnTEW8+DLBn4UXJzVpLrrCX94nzhaPhoRkPZu5HJeKN7Fcr0k3dCDuVRveO8Hl43WuOC+Z+lPbNtYmOrgOY0gBBHwmdohQLV0DbZs5LltHimlaS8Wa8euhGKoEdvaBmxBmsxy1b9J7cWAfAWmp8yV0UUDy9gqw3nRIFX2CmTow407xxPfQwUwhb66gGY/C3Figz1MwceRzBV9+FiCjLYi9zccexysrOxbz5kFbP4L9OdfjWVROYQNCQ==;U8e+FWaDpHVDQbqswGUFAg=="
 ---

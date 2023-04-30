@@ -240,22 +240,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "4 Ways ChatGPT Can Bolster The Insurance Industry"
-    excerpt: "ChatGPT has the power to bolster data collection and analysis by scouring digital resources for similar cases, helping underwriters identify risk patterns while saving valuable time. With this predictive modeling, risks can be mitigated well before they become problematic, expediting this step of the insurance process."
-    publishedDateTime: 2023-04-25T11:16:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/04/25/4-ways-chatgpt-can-bolster-the-insurance-industry/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/04/25/4-ways-chatgpt-can-bolster-the-insurance-industry/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/04/25/4-ways-chatgpt-can-bolster-the-insurance-industry/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6442c991c58a2f3beb23907c/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 797
-        isCached: true
   - title: "Here’s how Microsoft plans to reap billions from AI"
     excerpt: "The company hopes steal search revenue from Google, help businesses build their own chatbots and AI tools, and incorporate AI-enhanced productivity tools across its product lineup."
     publishedDateTime: 2023-04-26T07:00:00Z

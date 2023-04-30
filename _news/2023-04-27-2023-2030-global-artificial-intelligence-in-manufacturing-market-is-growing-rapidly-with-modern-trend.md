@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/2023-2030-global-artific
 webUrl: "https://www.marketwatch.com/press-release/2023-2030-global-artificial-intelligence-in-manufacturing-market-is-growing-rapidly-with-modern-trend-2023-04-27"
 type: article
 quality: 52
-heat: -1
+heat: 62
 published: false
 
 provider:
@@ -28,15 +28,15 @@ images:
     isCached: true
 
 related:
-  - title: "Household Robot Vacuum Market: Recent Growing Trend 2030"
-    excerpt: "Newest Report will contain the Competitional Analysis of Top 5 Key Plyers (Ecovacs, Dyson, Neato Robotics, Haier, Media)"
-    publishedDateTime: 2023-04-26T00:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/household-robot-vacuum-market-recent-growing-trend-2030-2023-04-25"
+  - title: "Speech and Voice Recognition Market Size 2023 Will Grow Rapidly Another Level in The Forthcoming Year"
+    excerpt: "Speech and Voice Recognition Market Size 2023 | New Report (127 Pages) | Analytics | In This Reports Speech and"
+    publishedDateTime: 2023-04-27T07:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-2023-will-grow-rapidly-another-level-in-the-forthcoming-year-2023-04-27"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 69
+    quality: 39
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

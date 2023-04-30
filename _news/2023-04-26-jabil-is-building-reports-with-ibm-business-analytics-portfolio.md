@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/jabil-is-building-reports-with-ibm-busine
 webUrl: "https://www.ibm.com/blog/jabil-is-building-reports-with-ibm-business-analytics-portfolio/"
 type: article
 quality: 102
-heat: 142
+heat: 132
 published: true
 
 provider:
@@ -60,15 +60,6 @@ related:
       name: healthpayerintelligence.com
       domain: healthpayerintelligence.com
     quality: 19
-  - title: "Grid Dynamics AWS Analytics Platform Starter Kit Leveraged by Client, Mistplay, to Improve Business Operations"
-    excerpt: "Grid Dynamics Holdings, Inc. (NASDAQ:GDYN) (Grid Dynamics), a leader in enterprise-level digital transformation services and solutions, announced today that its client, Mistplay, the leading loyalty"
-    publishedDateTime: 2023-04-25T12:45:00Z
-    webUrl: "https://www.asiaone.com/business/grid-dynamics-aws-analytics-platform-starter-kit-leveraged-client-mistplay-improve"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 0
 
 secured: "GCWhqLUVGUDLI4RrCjgcR1g85oKSo23FinFTdGuW1KTskiWwLCNk85smqdgyswFRICacTmkeWCL+JbzWjvI0AuHizo3uJpPsQ+Q/Ril0XjZc9bLT6VtSRT/opOb989BwB8aFnSqToaoGBSOpTfdW3s/NDwWor9GZ/SbqV1qQjYahSPL8KQs9d8CUyF4cxgjAuFvJLlHCtKxKOfPLuFR5EnF0Qs86OkADfEib9rsylcOUtUFG13GKGtHwyHQATilpg6wuhBA5vKxhlCoxTRlMwXm/hWU5rr0bu9l0Gn5JZFBg2A4yxGrVPqX+d3mxil6el4epoPlRrBOL85lzdbj55pvAEwGNbbxU7m3B2RKanyU=;PZHO1C7hbbFuvEeeRS1jDQ=="
 ---

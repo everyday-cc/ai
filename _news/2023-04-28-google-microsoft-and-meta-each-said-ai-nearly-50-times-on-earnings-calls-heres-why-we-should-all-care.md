@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/google-microsoft-and-meta-each-said-ai-ne
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/google-microsoft-and-meta-each-said-ai-nearly-50-times-on-earnings-calls-heres-why-we-should-all-care/amp/"
 type: article
 quality: 88
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -32,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "Deep Learning Software Market Future Trends Outlook 2023, and Forecast to 2030 | Microsoft, Google, IBM"
+    excerpt: "The most important motive of Deep Learning Software Market studies is to collect the maximum beneficial insights for"
+    publishedDateTime: 2023-04-26T06:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-software-market-future-trends-outlook-2023-and-forecast-to-2030-microsoft-google-ibm-2023-04-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 70
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "'AI All-Star' Microsoft's rosy earnings spark rally in tech stocks"
     excerpt: "Microsoft Corp shares surged 8 per cent premarket on Wednesday and lifted tech stocks after the company's robust earnings eased fears of a slowdown in cloud computing and boosted confidence that artificial intelligence will become a major growth driver."
     publishedDateTime: 2023-04-26T23:44:00Z

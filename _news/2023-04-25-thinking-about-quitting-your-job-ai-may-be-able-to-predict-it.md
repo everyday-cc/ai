@@ -36,15 +36,6 @@ related:
         width: 4203
         height: 2364
         isCached: true
-  - title: "3 Takeaways to Guide Your AI Strategy"
-    excerpt: "Encapsulating the recent Healthcare Information and Management Systems Society’s annual meeting can be like trying to devour an elephant. Where does one begin? But for health care executives, key takeaways could be found amid the many discussions about artificial intelligence (AI) in all its forms and how the technology will continue to impact the field."
-    publishedDateTime: 2023-04-25T12:23:00Z
-    webUrl: "https://www.aha.org/aha-center-health-innovation-market-scan/2023-04-25-3-takeaways-guide-your-ai-strategy"
-    type: article
-    provider:
-      name: aha.org
-      domain: aha.org
-    quality: 19
 
 secured: "hSqmhqMsI8F5A4rZbANZIDk425fJKMusqr1oo7TiCjJ5U80b2DZproTj08VMUmjXHGWWlGjm//7LrNBpXHB0dcMcDnI11qqrvH1JfddF7L15Ka+zLC0T2HBAuaUuKXA3+zweS4a1FpumfdBwfJg4+GXTmHm6XbqQnANI4HcdE7e1llwaS6ZLHxQN4/VCNvkh1eJXLBm5bcF1Ut+XqViDIMzcOTRGFl8P9DLeQZ1tvRq7Fpz9zAi+MrpLbmqiDSVGLD3YD7JeNp6ZL821+66fg/lIx1JSfBTL81GmaznOWoB+kqXiL8RLr+bMudGVW3P+j3EyRA4oZ+bbbnsaRLl+3Vlyaju8IIv4h+3OxzrgBM/eHhxjPPGR+YahSH1JFp/Vzu9EM3rTx0lcO92pE05NtQfEVXAPqok32srkGXdbcqac9f8Xpd+E7QjRhJMWRGy3BMQtjmeWwZz5PShan7VP/R/j5QaCMeOwe/WGygggqLkVL0GjRD747lSpcW5NxNlLXGF3+8KVvSFY4aXm+AcLYg==;USfUa6OgQp/LeaetX8o6Jw=="
 ---

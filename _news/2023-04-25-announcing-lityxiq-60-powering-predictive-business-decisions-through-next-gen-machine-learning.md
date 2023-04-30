@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/announcing-lityxiq
 webUrl: "https://markets.businessinsider.com/news/stocks/announcing-lityxiq-6-0-powering-predictive-business-decisions-through-next-gen-machine-learning-1032258784"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -22,38 +22,6 @@ topics:
   - AI in Finance
   - AI
   - Machine Learning
-
-related:
-  - title: "The Generative AI Frontier: Mastering LLM Adoption For CEOs And CTOs To Drive Business Success"
-    excerpt: "As the adoption of LLMs expands, it's vital for leaders to understand these risks and develop strategies to mitigate them effectively, ensuring that generative AI propels their organizations forward instead of hindering their progress."
-    publishedDateTime: 2023-04-25T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/25/the-generative-ai-frontier-mastering-llm-adoption-for-ceos-and-ctos-to-drive-business-success/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/25/the-generative-ai-frontier-mastering-llm-adoption-for-ceos-and-ctos-to-drive-business-success/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/25/the-generative-ai-frontier-mastering-llm-adoption-for-ceos-and-ctos-to-drive-business-success/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 75
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6446876e15b9e495eda821c1/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "The AI Frontier: Exploring The Integration Of Artificial Intelligence In SEO Strategies"
-    excerpt: "The digital marketing landscape is evolving rapidly, and the integration of artificial intelligence (AI) in SEO strategies is one of the driving forces behind this change. To get an insider’s perspective on how AI is transforming the SEO industry and how businesses can leverage this technology,"
-    publishedDateTime: 2023-04-28T07:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/the-ai-frontier-exploring-the-integration-of-artificial-intelligence-in-seo-strategies-2023-04-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 74
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "9y3bVIxldQtsjzG3orqtPp9H7qHH65frGc5ayOaOwUYDr+rs2qWGZkPZlGW5i7smKwLU3dsnsifflvxnj8oyH8Wmo3kFNUrJ+K8eErWOSkHc2N4EY8f/yWpJzeeg49BIqAQAXHk27gwLOj5IjlxpHgkqYffuFSGkATNbRN94VknNgh81vMHCg+neI5CIHII2geoIikpgULkMl5VJVsZSjVg2RSnUJ+iz2HhF1L9vm2jOjQEpgtJDXCWuRBJNbrf7hMrOgnSE3mp4PmYWW22+eyEQ/evxJ6wU8ooGTwrnoHKCdbPK5EotXIkkiMpMwgWu7UdfQa/8K2tFU9KPfT0ze7Xdl/94U5x512aHmx6U550=;n+aEUhVRy17Y9EKhoNaQoQ=="
 ---

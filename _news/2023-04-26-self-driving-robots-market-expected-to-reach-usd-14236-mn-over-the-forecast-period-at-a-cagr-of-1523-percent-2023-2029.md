@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Natural Language Processing (NLP) Market Size, Share, Price, Trends, Growth, Analysis, Report, Forecast 2023-2028"
+    excerpt: "Global Natural Language Processing (NLP) Market Size To Grow At A CAGR Of 21.30% In The Forecast Period Of 2023-2028 30 NORTH GOULD STREET, SHERIDAN, WYOMING, UNITED STATES, April 25, 2023 /einpresswire.com / -- The 'Global natural language processing (nlp ..."
+    publishedDateTime: 2023-04-26T07:05:00Z
+    webUrl: "https://menafn.com/1106098898/Natural-Language-Processing-NLP-Market-Size-Share-Price-Trends-Growth-Analysis-Report-Forecast-2023-2028"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 33
+    images:
+      - url: "https://menafn.com/updates/pr/2023-04/26/EP_bceaeimage_story.jpeg"
+        width: 600
+        height: 314
+        isCached: true
 
 secured: "5lPkcLdXdaR1iMSgPobFvqFzhKR+6Ev86NFJL8ZBu7iRPTBMl8PydMbFE21WgoDIe7r3ObCumsXm8lfkzqCiUchkKVvyI6HhBSaQuryNvoyayfzFONkC/XKW7tcLY0RhHI4uQCzKap5uZF9h6KfJf2bHE5QRC/xE4MNmmoohBMSVTFuy/qxqCg15G35m6TWzHT2JkwIVPyZzcRgrXN80riWco/Z23KHQ62hkqfpYRyfvA9y34T2rh4ZY0xF2GLJsdAbfeCn/KxsIuaK25uK7s21EX4Jlbrctmde0F3fPx9FMRLZp7ZSyv4PCXtR8d2Quc9v1Ga4mj3zBYVRbnijQ+zpmbs+ONjL0mc8w9WoV1bo=;hKY5JynW5ZL+rgR/0EAsDQ=="
 ---

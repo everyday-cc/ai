@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/security/rsac-2023-securityscorecard-launche
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/rsac-2023-securityscorecard-launches-first-gpt-4-security-ratings-platform/amp/"
 type: article
 quality: 88
-heat: 118
+heat: 108
 published: true
 
 provider:
@@ -62,15 +62,6 @@ related:
         width: 610
         height: 456
         isCached: true
-  - title: "SecurityScorecard becomes first security ratings platform to integrate GPT-4"
-    excerpt: "Security ratings firm SecurityScorecard Inc. today announced that it has integrated OpenAI LP’s GPT-4 with its security platform, becoming the first security ratings platform to do so. Announced at the RSA Conference 2023 in San Francisco,"
-    publishedDateTime: 2023-04-25T12:00:00Z
-    webUrl: "https://siliconangle.com/2023/04/25/securityscorecard-becomes-first-security-ratings-platform-integrate-gpt-4/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 18
 
 secured: "itLyvFtOCZ9JDwVmAiNN3g86hN6ccXRJDSRQG8tgUZnFiN9LMHDP1ay/jWRQpv0u+Ba7hXNjEU8FD/j0y+zH6wDUQKyb3POJD6Yxsi6S9If5Z9bQbhGnDdbD2jJeefI31HFeGUemdgkPCFLlg1BtrSHVYRier2swpSnFa+BXfI3ayWIwz+OiZm5lYtMBbGiRgJ+MaKWd7buk/58z1cN9xRJ4B14RtThT4nbdZCcEjdqJTDcM8HlMXvShr3PB2dyImHW6cKBfEoBcRsvu8s3vKOXjAcrd4c4oKodu9bELN36QMQ6/5yKl1IxHNTqY1SYgSLOiBrnAZxKD2Q90eViAGWPtcM2sr5mcQjAX57iQaeCkH3pF+qvXTavPl89uCrXCYsfkjsFE6Iyc8CsYc3En0DnzFrDrz5sLzaN1r0453i/7BIQe+rjUjIpN7/BaeuedP2ZeKQHGwM3RgpnnEoaCIf4yVtRjR/qNcDakqYuptTyKuKI2KIgRz4x9UUUhpxFu9rM98mQ7ttra2DH84wTzEg==;Zniht+MRcuqQ8yfj3ZKHgg=="
 ---

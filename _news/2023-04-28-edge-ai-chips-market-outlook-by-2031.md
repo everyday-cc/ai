@@ -113,20 +113,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Mining Market Market Trends By 2031"
-    excerpt: "The latest market research report on the Global \"Artificial Intelligence (AI) in Mining Market\" is segmented by"
-    publishedDateTime: 2023-04-25T12:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-mining-market-market-trends-by-2031-2023-04-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 82
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence (AI) Accelerator Market Complete Overview till 2031"
     excerpt: "The latest market research report on the Global \"Artificial Intelligence (AI) Accelerator Market\" is segmented by"
     publishedDateTime: 2023-04-27T07:53:00Z
@@ -183,34 +169,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Industrial Market Demand by 2031"
-    excerpt: "The latest market research report on the Global \"Artificial Intelligence in Industrial Market\" is segmented by"
-    publishedDateTime: 2023-04-25T11:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-industrial-market-demand-by-2031-2023-04-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Deep Learning Camera Market Facts and Figures By 2030"
-    excerpt: "The latest market research report on the Global \"Deep Learning Camera Market\" is segmented by Regions, Country, Company"
-    publishedDateTime: 2023-04-25T12:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-camera-market-facts-and-figures-by-2030-2023-04-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Voice Market Growth by 2031"
     excerpt: "The latest market research report on the Global \"Artificial Intelligence Voice Market\" is segmented by Regions,"
     publishedDateTime: 2023-04-27T04:32:00Z
@@ -229,6 +187,20 @@ related:
     excerpt: "The latest market research report on the Global \"Deep Learning in CT Scanners Market\" is segmented by Regions,"
     publishedDateTime: 2023-04-27T04:32:00Z
     webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-ct-scanners-market-growth-by-2031-2023-04-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI in Fintech Market Size, Trends and Forecast 2030"
+    excerpt: "The latest independent research report on AI in Fintech Market 2023 explore investment in Market. It classify how"
+    publishedDateTime: 2023-04-28T15:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-size-trends-and-forecast-2030-2023-04-28"
     type: article
     provider:
       name: MarketWatch

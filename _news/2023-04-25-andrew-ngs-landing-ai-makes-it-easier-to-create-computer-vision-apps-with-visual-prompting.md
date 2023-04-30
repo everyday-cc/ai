@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/andrew-ngs-landing-ai-makes-it-easier-to-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/andrew-ngs-landing-ai-makes-it-easier-to-create-computer-vision-apps-with-visual-prompting/amp/"
 type: article
 quality: 94
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 1200
     height: 801
     isCached: true
-
-related:
-  - title: "Landing AI Launches the World's First Commercial Visual Prompting Capability in LandingLens"
-    excerpt: "The ChatGPT of computer vision learns in seconds, deploys in minutes: re-trained transformer model enables visual conversations leading to"
-    publishedDateTime: 2023-04-25T12:37:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/landing-ai-launches-the-world-s-first-commercial-visual-prompting-capability-in-landinglens-1032258218"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 37
 
 secured: "wjQ/98mGJbodAAumZDyMtxpcen0S9cc5xH0wyio3TvOukrZHY8MwQEUUgx1sRVTcDpjMdOsM3xxDRRyqfM22v8tMramqz784GIDusLt0GbVWRt94PgaQ2kZpYjkU7xJuUnD+NGT4bdrYuWvn601vBy0Ac0GwWb7aZ/RofhOd+dtO01sEDHLF4SwmPnhunVVumKm+1cfYUIvz3h7lEomLMmxHGJ2a7iCUAfy7pRBI/rOjAsTrIt92w6Z9iVMUpqSoA3Ihg5KlPtaPSadHKyFB5NgQFkbPL6m2v6H03cLGR3nStIxzAJPfQGRtfNxJ6+LWBrG3z2pVOSwhUo7PTBjYZWmhk3VEznifY5NIab9pdTcmxi+mafmYpTCCNHeQ3c3bDMyR7INqllAQ538nsxbaurbW9qWuYjGwVbsWMUPr83Yy2bSFhXVGVjsWDT18lRh75SgdwsEKBxECg4wS2pPOvbqTuiC+zIXvAdJKwDH6TZp3B4qx/GDGAVm0nPVvSNGl09/DMtPksZ1UrvmosU9FhA==;ycXjwPYGmzQKHWgCBGBiWg=="
 ---

@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "Deep Learning Software Market Future Trends Outlook 2023, and Forecast to 2030 | Microsoft, Google, IBM"
+    excerpt: "The most important motive of Deep Learning Software Market studies is to collect the maximum beneficial insights for"
+    publishedDateTime: 2023-04-26T06:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-software-market-future-trends-outlook-2023-and-forecast-to-2030-microsoft-google-ibm-2023-04-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 70
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "P3GKSYqXWOKI73dBL3u+RptxEWd6g7to20TJO2selmurkmubqTRre1gOYPU0eh5HkaY1eoJLaaV7Wo3PhDu5GxDt8MbElEzfYIaK74jghryNi0jXNIswwnrjgA2+oHahXtEhrgFZuldesdEn4MOkeAPwkmzE+m3id7+1ZkDiPguhQYe5Hli3aRy9u5rGZXZf5BdfoBvj2nyLL/+bpYgv2JS+6Q0RVlxhR/VvVtcbOAttiCdMJ0cnPeHiQAuyqIVAvWnE3hwd5Uexk3EZXme4HRxuHBjIWyqPyzCTd6g0Amc/NjqE8N8KPuROqBNCUbVsnmCEh6De3f6vu70fXLP9AHtmVxlr7XE1pRzxs0ELXtE=;/KAQTFMe7GXFdfPFpJjtFQ=="
 ---
