@@ -57,6 +57,20 @@ related:
         width: 600
         height: 314
         isCached: true
+  - title: "The report on the Underwater Computer Vision market size and its projected CAGR value of 8.9% from 2023 to 2030 examines the primary market drivers."
+    excerpt: "The market growth of Underwater Computer Vision has been phenomenal in recent years, with a significant increase in demand and adoption among various industries and end-users. The growth of the Underwater Computer Vision market can be attributed to various factors such as advancements in technology,"
+    publishedDateTime: 2023-04-30T04:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-report-on-the-underwater-computer-vision-market-size-and-its-projected-cagr-value-of-89-from-2023-to-2030-examines-the-primary-market-drivers-2023-04-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "5lPkcLdXdaR1iMSgPobFvqFzhKR+6Ev86NFJL8ZBu7iRPTBMl8PydMbFE21WgoDIe7r3ObCumsXm8lfkzqCiUchkKVvyI6HhBSaQuryNvoyayfzFONkC/XKW7tcLY0RhHI4uQCzKap5uZF9h6KfJf2bHE5QRC/xE4MNmmoohBMSVTFuy/qxqCg15G35m6TWzHT2JkwIVPyZzcRgrXN80riWco/Z23KHQ62hkqfpYRyfvA9y34T2rh4ZY0xF2GLJsdAbfeCn/KxsIuaK25uK7s21EX4Jlbrctmde0F3fPx9FMRLZp7ZSyv4PCXtR8d2Quc9v1Ga4mj3zBYVRbnijQ+zpmbs+ONjL0mc8w9WoV1bo=;hKY5JynW5ZL+rgR/0EAsDQ=="
 ---

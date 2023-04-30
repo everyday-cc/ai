@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 686
         isCached: true
-  - title: "Harnessing The Power Of AI For Job Seekers And Recruiters"
-    excerpt: "\"AI already is proving to be a powerful tool for recruiters, job counselors and most of all job seekers, if they know how to harness it,\" explains RecruiterShare CEO, John Younger. \"The challenge for each of the these three groups is learning how to best harness it."
-    publishedDateTime: 2023-04-25T14:03:00Z
-    webUrl: "https://www.forbes.com/sites/michaelbernick/2023/04/25/harnessing-the-power-of-ai-for-job-seekers-and-recruiters/"
-    ampWebUrl: "https://www.forbes.com/sites/michaelbernick/2023/04/25/harnessing-the-power-of-ai-for-job-seekers-and-recruiters/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelbernick/2023/04/25/harnessing-the-power-of-ai-for-job-seekers-and-recruiters/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/644699ce5d21f906bf1742ca/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 1055
-        isCached: true
   - title: "What caught your eye this week? (Arm chip, AI warfare, Space critical infrastructure)"
     excerpt: "For example, our technology editor says it is good to hear that the House of Lords is looking into the use of artificial intelligence in warfare - he hopes a deep and thorough public report is likely"
     publishedDateTime: 2023-04-27T15:24:00Z

@@ -51,15 +51,6 @@ related:
         width: 550
         height: 353
         isCached: true
-  - title: "3 Ways Payers Can Employ Machine Learning, Advanced Analytics"
-    excerpt: "MVP Health Care (MVP) has been piloting machine learning and advanced analytics solutions and, in the process, explored three key uses for these types of tools. Machine learning falls under the umbrella of artificial intelligence tools."
-    publishedDateTime: 2023-04-25T13:30:00Z
-    webUrl: "https://healthpayerintelligence.com/features/3-ways-payers-can-employ-machine-learning-advanced-analytics"
-    type: article
-    provider:
-      name: healthpayerintelligence.com
-      domain: healthpayerintelligence.com
-    quality: 19
 
 secured: "yrH9kz4KzyFIpVX6/qZE+CeH1epFcfMZRhYeKvwgxSVfT8QMcrNwPRjozGLkmUvsrtOQs9ZgR3lbNXIBKMnnONip/ch8lOVKDfdLXgwHrrsEvqALsBCRLzupNPfdqyzylZk2afIkBTvw0ULr02/FyVsj3y++zLU+mjv5jLBJhQtbKGq50lno0IMhnsmmgle91OhNPmaJ60XGkw9OVfU+opD56ysE3DwPfQlsqO0Clg1gLQmDFMqLZnJ/zrKaxud1Nufd6vTNd27DEehk9YLTual0e/D6s3BYAmnyt3QfiWIe+mxju8/7KSr+GMZ683xchYHHpoXchhKK0Cm5YTA2YKYwILU27Wrx6QtsVABH8dw=;p7IVGafLpL9v19QhJdohcA=="
 ---

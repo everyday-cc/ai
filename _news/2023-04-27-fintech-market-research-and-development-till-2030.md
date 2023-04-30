@@ -45,22 +45,6 @@ related:
         width: 740
         height: 450
         isCached: true
-  - title: "When will the tech giants’ AI investments start paying off?"
-    excerpt: "Microsoft and Alphabet both reporting earnings this week. Expect AI to play a big role in their earnings reports."
-    publishedDateTime: 2023-04-25T14:24:00Z
-    webUrl: "https://www.marketplace.org/2023/04/25/when-will-the-tech-giants-ai-investments-start-paying-off/"
-    ampWebUrl: "https://www.marketplace.org/2023/04/25/when-will-the-tech-giants-ai-investments-start-paying-off/amp/"
-    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/2023/04/25/when-will-the-tech-giants-ai-investments-start-paying-off/amp/"
-    type: article
-    provider:
-      name: Marketplace
-      domain: marketplace.org
-    quality: 57
-    images:
-      - url: "https://www.marketplace.org/wp-content/uploads/2020/07/GettyImages-1207074418.jpg"
-        width: 2880
-        height: 1620
-        isCached: true
   - title: "Here's How the Cloud is Revolutionizing Health Tech and FinTech"
     excerpt: "Overcoming the model of office and lab work with cloud computing Cloud computing systems have allowed enterprises, schools, and government organizations to overcome pandemic-induced challenges and meaningfully accelerate innovation and agility toward the market."
     publishedDateTime: 2023-04-28T22:39:00Z

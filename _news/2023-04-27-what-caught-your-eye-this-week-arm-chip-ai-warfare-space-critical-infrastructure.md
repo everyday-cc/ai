@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 677
         isCached: true
-  - title: "Harnessing The Power Of AI For Job Seekers And Recruiters"
-    excerpt: "\"AI already is proving to be a powerful tool for recruiters, job counselors and most of all job seekers, if they know how to harness it,\" explains RecruiterShare CEO, John Younger. \"The challenge for each of the these three groups is learning how to best harness it."
-    publishedDateTime: 2023-04-25T14:03:00Z
-    webUrl: "https://www.forbes.com/sites/michaelbernick/2023/04/25/harnessing-the-power-of-ai-for-job-seekers-and-recruiters/"
-    ampWebUrl: "https://www.forbes.com/sites/michaelbernick/2023/04/25/harnessing-the-power-of-ai-for-job-seekers-and-recruiters/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelbernick/2023/04/25/harnessing-the-power-of-ai-for-job-seekers-and-recruiters/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/644699ce5d21f906bf1742ca/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 1055
-        isCached: true
   - title: "Empower - Not Overpower - With AI In The Healthcare Industry"
     excerpt: "With human knowledge and experience still being the number one driver in the healthcare industry, it is a perfect example of how AI can empower, not overpower to achieve better results, and improve the quality of the patient's experience and their life."
     publishedDateTime: 2023-04-26T13:51:00Z

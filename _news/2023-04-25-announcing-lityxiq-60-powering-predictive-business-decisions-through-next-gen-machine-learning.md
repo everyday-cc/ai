@@ -1,28 +1,29 @@
 ---
 category: news
 title: "Announcing LityxIQ 6.0 - Powering Predictive Business Decisions Through Next-Gen Machine Learning"
-excerpt: "Lityx makes its leading alternative AI and MLOps platform easier to deliver value for organizations focused on digital transformationWILMINGTON,"
-publishedDateTime: 2023-04-25T13:54:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/announcing-lityxiq-6-0-powering-predictive-business-decisions-through-next-gen-machine-learning-1032258784"
-webUrl: "https://markets.businessinsider.com/news/stocks/announcing-lityxiq-6-0-powering-predictive-business-decisions-through-next-gen-machine-learning-1032258784"
+excerpt: "Lityx makes its leading alternative AI and MLOps platform easier to deliver value for organizations focused on digital transformation WILMINGTON, Del.,  /PRNewswire/ -- Lityx, LLC today announced the release of LityxIQ 6."
+publishedDateTime: 2023-04-25T15:51:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/04/25/9801468.htm"
+webUrl: "https://it.tmcnet.com/news/2023/04/25/9801468.htm"
 type: article
-quality: 38
-heat: 38
+quality: 26
+heat: 26
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - AI in Finance
-  - AI
   - Machine Learning
+  - AI
 
-secured: "9y3bVIxldQtsjzG3orqtPp9H7qHH65frGc5ayOaOwUYDr+rs2qWGZkPZlGW5i7smKwLU3dsnsifflvxnj8oyH8Wmo3kFNUrJ+K8eErWOSkHc2N4EY8f/yWpJzeeg49BIqAQAXHk27gwLOj5IjlxpHgkqYffuFSGkATNbRN94VknNgh81vMHCg+neI5CIHII2geoIikpgULkMl5VJVsZSjVg2RSnUJ+iz2HhF1L9vm2jOjQEpgtJDXCWuRBJNbrf7hMrOgnSE3mp4PmYWW22+eyEQ/evxJ6wU8ooGTwrnoHKCdbPK5EotXIkkiMpMwgWu7UdfQa/8K2tFU9KPfT0ze7Xdl/94U5x512aHmx6U550=;n+aEUhVRy17Y9EKhoNaQoQ=="
+images:
+  - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
+    width: 550
+    height: 353
+    isCached: true
+
+secured: "E7WyEyURKPVRtVmYBBFXNyRIWkIpgyHiAB2VFJkJIJBvGNWAn3szL1KJu7tLSbyfjtD4vlXJoRVEaGm6kE556z9zyFiIYXWprCD2JTHX4SK3tpeUezJny5Mv1z3tbETPg0HupPVaN3xXDSCVrSiTa0WMRxMrAPVoZIRZuYxnTjZrudpPt62zp20TgXWfSgFzLHeM8ftSzp/DEGQZOTXK0xYhIOBiPMEYjGNfhGlnN7QrrFf04Bo8NiN1wFxCyEZbgtLokXft8aqXz6qpcOa7AxZDLhwySvpwVmfAJGDYa3CqnUStkHqC1mufqr1DdSS2T/3dE/yn6rgVWPmfZHSLR/4DOZytm6YH/x4f/tWdRCc=;hoznTFd+Wp253X+F39aEOQ=="
 ---
 

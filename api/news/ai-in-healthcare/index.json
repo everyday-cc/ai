@@ -115,7 +115,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-demand-by-2031-2023-04-27",
       "featuredContent": null,
       "highlight": null,
-      "heat": 261,
+      "heat": 271,
       "tags": null,
       "images": [
         {
@@ -737,6 +737,59 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-04-21-investing-in-ai-stocks.md",
+      "title": "Investing in AI Stocks",
+      "excerpt": "These are true artificial intelligence stocks and include those ... including its autonomous vehicle start-up Waymo. It also owns DeepMind, a deep learning platform that can diagnose eye diseases ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/",
+      "originalUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.foolcdn.com/media/dubs/images/Robot-AI-image-Getty-Images.width-600.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-21T02:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1436,49 +1489,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-15-new-artificial-intelligence-tool-helps-predict-colon-cancer-survival.md",
-      "title": "New Artificial Intelligence Tool Helps Predict Colon Cancer Survival",
-      "excerpt": "Artificial intelligence (AI) or machine intelligence refers to the intelligence displayed by computers or robots in contrast to the natural intelligence exhibited by humans. It is considered one of the major advancements of the 4th industrial revolution and finds application in several fields including medicine.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/new-artificial-intelligence-tool-helps-predict-colon-cancer-survival-211365-1.htm",
-      "originalUrl": "https://www.medindia.net/news/new-artificial-intelligence-tool-helps-predict-colon-cancer-survival-211365-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.medindia.net/health-images/artificial-intelligence-can-now-predict.jpg",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/new-artificial-intelligence-tool-helps-predict-colon-cancer-survival-211365-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/new-artificial-intelligence-tool-helps-predict-colon-cancer-survival-211365-1.htm",
-      "publishedDateTime": "2023-04-15T04:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

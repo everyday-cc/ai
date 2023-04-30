@@ -2,49 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2023-04-27-telix-accelerates-artificial-intelligence-ai-development-program-with-acquisition-of-dedicaid.md",
-      "title": "Telix Accelerates Artificial Intelligence (AI) Development Program with Acquisition of Dedicaid",
-      "excerpt": "Telix Pharmaceuticals Limited (ASX: TLX, Telix, the Company) today announces the expansion of its artificial intelligence (AI) capability with the signing of an agreement to acquire Vienna-based Dedicaid GmbH (Dedicaid),",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/telix-accelerates-artificial-intelligence-ai-development-program-with-acquisition-of-dedicaid-1032265571",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/telix-accelerates-artificial-intelligence-ai-development-program-with-acquisition-of-dedicaid-1032265571",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-26T17:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2023-04-27-deepminds-latest-research-at-iclr-2023.md",
       "title": "DeepMind’s latest research at ICLR 2023",
       "excerpt": "Next week marks the start of the 11th International Conference on Learning Representations (ICLR), taking place 1-5 May in Kigali, Rwanda. This will be the first major artificial intelligence (AI) conference to be hosted in Africa and the first in-person event since the start of the pandemic. Researchers",
@@ -310,7 +267,7 @@
       "originalUrl": "https://venturebeat.com/ai/the-power-of-infrastructure-purpose-built-for-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -897,7 +854,7 @@
       "originalUrl": "https://www.ibm.com/blog/jabil-is-building-reports-with-ibm-business-analytics-portfolio/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 132,
+      "heat": 122,
       "tags": null,
       "images": [
         {
@@ -1042,7 +999,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/microsoft-stock-price-chatgpt-investor-ai-cloud-azure-satya-nadella-2023-4",
       "featuredContent": null,
       "highlight": null,
-      "heat": 553,
+      "heat": 563,
       "tags": null,
       "images": [
         {
@@ -1238,6 +1195,57 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-26-apple-building-an-ai-health-coach-for-apple-watch-report-claims.md",
+      "title": "Apple building an AI health coach for Apple Watch, report claims",
+      "excerpt": "Apple is developing an AI-powered health coach designed to offer personalized advice for improving exercise, diet, and sleep, a new report claims.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/mobile/apple-may-be-building-ai-health-coach-for-apple-watch/",
+      "originalUrl": "https://www.digitaltrends.com/mobile/apple-may-be-building-ai-health-coach-for-apple-watch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/04/apple-health-app-report.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/mobile/apple-may-be-building-ai-health-coach-for-apple-watch/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/apple-may-be-building-ai-health-coach-for-apple-watch/?amp",
+      "publishedDateTime": "2023-04-25T22:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

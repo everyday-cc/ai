@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-demand-by-2031-2023-04-27"
 type: article
 quality: 101
-heat: 261
+heat: 271
 published: true
 
 provider:
@@ -137,6 +137,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 79
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Data and AI Ethics Market by Size, Scope 2023: with Development Status 2030"
+    excerpt: "The report presents statistical data in a simplified manner. Data and AI Ethics Market Report Detail Overview 2023-2030: The Data and AI Ethics Market Report presents a comprehensive analysis of ..."
+    publishedDateTime: 2023-04-26T23:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-data-and-ai-ethics-market-by-size-scope-2023-with-development-status-2030-2023-04-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 78
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

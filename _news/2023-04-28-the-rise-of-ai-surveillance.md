@@ -107,22 +107,6 @@ related:
         width: 1200
         height: 750
         isCached: true
-  - title: "Yellow AI launches dynamic automation platform powered by generative AI for enterprises"
-    excerpt: "Yellow AI today launched its Dynamic Automation Platform (DAP) to automate customer and employee experiences across channels."
-    publishedDateTime: 2023-04-25T14:57:00Z
-    webUrl: "https://venturebeat.com/ai/yellow-ai-launches-dynamic-automation-platform-powered-by-generative-ai-for-enterprises/"
-    ampWebUrl: "https://venturebeat.com/ai/yellow-ai-launches-dynamic-automation-platform-powered-by-generative-ai-for-enterprises/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/yellow-ai-launches-dynamic-automation-platform-powered-by-generative-ai-for-enterprises/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 79
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1169246375-e1682431460287.jpg?w=1200&strip=all"
-        width: 1200
-        height: 652
-        isCached: true
   - title: "Top 8 AI Chips for Your Generative AI Play"
     excerpt: "The AI chip market is expected to grow at a CAGR of 51% and reach $73.49 billion by 2025. Semiconductor companies could capture 40-50% of the total market share. Companies such as Alphabet, Broadcom,"
     publishedDateTime: 2023-04-29T04:30:00Z

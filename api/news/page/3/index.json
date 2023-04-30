@@ -303,57 +303,6 @@
       ]
     },
     {
-      "path": "_news/2023-04-27-could-artificial-intelligence-be-about-to-take-over-your-job.md",
-      "title": "Could artificial intelligence be about to take over your job?",
-      "excerpt": "Preliminary research published at the end of March claimed that up to 80% of the US workforce could see at least 10% of their tasks impacted",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/98471-could-artificial-intelligence-about-take-over-job.html",
-      "originalUrl": "https://www.techspot.com/news/98471-could-artificial-intelligence-about-take-over-job.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2023/04/2023-04-26-image-35.jpg",
-          "width": 4203,
-          "height": 2364,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-27-96-of-people-consider-ethical-and-responsible-ai-to-be-important.md",
       "title": "96% Of People Consider Ethical And Responsible AI To Be Important",
       "excerpt": "Undeniably, technology's ethical and responsible usage equates with a positive and sustainable future for the masses. With AI-powered technology playing a substantial role in our daily lives, it has become indispensable to consider its impact on society,",
@@ -1236,6 +1185,49 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-27-telix-accelerates-artificial-intelligence-ai-development-program-with-acquisition-of-dedicaid.md",
+      "title": "Telix Accelerates Artificial Intelligence (AI) Development Program with Acquisition of Dedicaid",
+      "excerpt": "Telix Pharmaceuticals Limited (ASX: TLX, Telix, the Company) today announces the expansion of its artificial intelligence (AI) capability with the signing of an agreement to acquire Vienna-based Dedicaid GmbH (Dedicaid),",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/telix-accelerates-artificial-intelligence-ai-development-program-with-acquisition-of-dedicaid-1032265571",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/telix-accelerates-artificial-intelligence-ai-development-program-with-acquisition-of-dedicaid-1032265571",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-26T17:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

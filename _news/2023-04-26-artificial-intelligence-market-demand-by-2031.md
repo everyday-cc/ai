@@ -156,6 +156,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Data and AI Ethics Market by Size, Scope 2023: with Development Status 2030"
+    excerpt: "The report presents statistical data in a simplified manner. Data and AI Ethics Market Report Detail Overview 2023-2030: The Data and AI Ethics Market Report presents a comprehensive analysis of ..."
+    publishedDateTime: 2023-04-26T23:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-data-and-ai-ethics-market-by-size-scope-2023-with-development-status-2030-2023-04-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 78
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Data and AI Ethics Market Size 2023 with SWOT and PESTAL Analysis | Forecast to 2031"
     excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
     publishedDateTime: 2023-04-28T18:25:00Z

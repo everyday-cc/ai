@@ -24,22 +24,6 @@ images:
     height: 450
     isCached: true
 
-related:
-  - title: "Gigantor Technologies Announces USPTO Allowed Next Patent for Artificial Intelligence Target Recognition using Novel Synthetic Scaling Technique"
-    excerpt: "Gigantor Technologies, Inc. is already disrupting the market with artificial intelligence (AI) acceleration solutions. Today, it announced another patent allowed by the United States Patent and Trademark Office (USPTO) for its innovative technique,"
-    publishedDateTime: 2023-04-25T13:31:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/04/25/9801215.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 2
-    images:
-      - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
-        width: 550
-        height: 353
-        isCached: true
-
 secured: "IIUuIV5nQcOc0NEi4e51J830QHTaZUxW74lc3MFkqDgf7ivl+yGPrm8G7g4JAX9anunQm7r3GvnalfweJr0ASH5ucYEFBkrM8TWfsKBV7oYGe4WoqfWG+B+sq4TL1ad8iVQ9nb+42Z1i/ruW3FGnx2ABL7tXte5m8w7Cg9QOOtJ8dcukNEMOAbAtXGLhSruLwUx/9zsvKx8kjFQJY8/oAYLLdDEoRKn3PYghVL+GEn/AdFATBpL+FBeEuC6PSp2+c/EowJxat4TwWbO6rW72fDRcJsI2YZGrbhjkB0Lj6RxkslAPJx5nVXOk5QNEosIfiw2kuDnL3THL16sRGeua+DPNIqkmMtY62ZM+lhJaOr5BelQBYnYuArqEnJ2IyxeIHPVoMcIO/PfCvWJROGFm2lqZDIXp6Xd6Mr30s8y/YWR8fhK3s4/2O81RunFuEp7ePXKB8tQMhpZhyFVG6kGe6JONKP2+TQyJlgYzHApRUtnP+9lVoo/NINYI3KVR8Oufa4wVx4FLIN/IwifreMNmpg==;qR226+4yBLT9VHZDkS7kHg=="
 ---
 

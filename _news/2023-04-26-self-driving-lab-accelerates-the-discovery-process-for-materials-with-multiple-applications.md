@@ -41,6 +41,20 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Argonne’s self-driving lab accelerates the discovery process for materials with multiple applications"
+    excerpt: "Researchers have a new scientific tool called Polybot, combining the power of artificial intelligence ... researchers at Argonne have a new tool, a self-driving laboratory called Polybot that ..."
+    publishedDateTime: 2023-04-25T17:02:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/987310"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 9
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/d48234d0-b106-4de0-a66c-7abd067064d1/Rendition/low-res/Content/Public"
+        width: 700
+        height: 394
+        isCached: true
 
 secured: "n61H9XgeeFGboVMVd/3Y30Vy7zaCuzD7Dh6KfGw77EcO9b7PL5AJbgJHlpE4ZdWiN5Rkx7W+z1JL6NvemSx25WCwYEnqj0J3QPlu3uMO5+F8UdYtxdvIMUdTCWlUtRCZMBucxTUvuvynLPj4BNFs3CQiHzIrABh4HFtPfss7oO7CZqczA8hVqfji6CmkM30r9sHhJVwkO+fZ68V69tnAnGUjiq1hv/CWw4ci01NvIoWAhrxr+uiST9xrAXCv0ZtD4g/c5NOTX3Rav1Ds/teWeXE5VmPmULONcSavZC8clSwfvwXVIPChg7ZxNCsMuH5e/QOcQIi/Crro1wvsgyeVaCSF5hhDhC/shwSE1FeVstrirrT7fsunGfBo+KeWtBxyVLF04yuZNYokFHuMM5TaHnUIaEu+K8bHTIXZVp+UPJAassa7RjdQ4ENXsrcgOE9SdlI/fXfE14qviDH3JjQUPwRx0kLuyWVuPG+uuV06NFWtsTO1FSOJPqOLE8SaK3BzTGmVFgAO7g8qN5GEo1VD8w==;cgmJSbQq+qXF9b1WfE+hoQ=="
 ---

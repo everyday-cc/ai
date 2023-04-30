@@ -6,8 +6,8 @@ publishedDateTime: 2023-04-28T17:21:00Z
 originalUrl: "https://www.41nbc.com/police-department-uses-artificial-intelligence-to-improve-officer-behavior/"
 webUrl: "https://www.41nbc.com/police-department-uses-artificial-intelligence-to-improve-officer-behavior/"
 type: article
-quality: 35
-heat: 35
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.41nbc.com/content/uploads/2023/04/v/g/screenshot-2023-04-28-132028.jpg"

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-natural-language-
 webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-market-size-to-grow-at-a-cagr-of-2130-in-the-forecast-period-of-2023-2028-2023-04-28"
 type: article
 quality: 61
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://menafn.com/updates/pr/2023-04/26/EP_bceaeimage_story.jpeg"
         width: 600
         height: 314
+        isCached: true
+  - title: "The report on the Underwater Computer Vision market size and its projected CAGR value of 8.9% from 2023 to 2030 examines the primary market drivers."
+    excerpt: "The market growth of Underwater Computer Vision has been phenomenal in recent years, with a significant increase in demand and adoption among various industries and end-users. The growth of the Underwater Computer Vision market can be attributed to various factors such as advancements in technology,"
+    publishedDateTime: 2023-04-30T04:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-report-on-the-underwater-computer-vision-market-size-and-its-projected-cagr-value-of-89-from-2023-to-2030-examines-the-primary-market-drivers-2023-04-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Self-Driving Robots Market Expected to Reach USD 1423.6 Mn over the forecast period, at a CAGR of 15.23 percent (2023-2029)"
     excerpt: "The latest report on the global self-driving robots' market has projected its market size to reach USB 1423.6 Mn by 2029 from USD 457.9 Mn in 2021, at a CAGR of 15.23 percent during the forecast period."

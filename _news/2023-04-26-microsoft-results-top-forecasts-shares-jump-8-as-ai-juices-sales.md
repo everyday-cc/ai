@@ -156,6 +156,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Envision Adds ChatGPT AI Sight Assistance To Its Smart Glasses For The Blind"
+    excerpt: "Envision, a developer of smart glasses for the severely sight impaired has launched Ask Envision – a brand new feature leveraging the power of advanced Ai in the form of ChatGPT. The development is a true game changer in helping blind people access and interpret information."
+    publishedDateTime: 2023-04-30T07:00:00Z
+    webUrl: "https://www.forbes.com/sites/gusalexiou/2023/04/30/envision-adds-chatgpt-ai-sight-assistance-to-its-smart-glasses-for-the-blind/"
+    ampWebUrl: "https://www.forbes.com/sites/gusalexiou/2023/04/30/envision-adds-chatgpt-ai-sight-assistance-to-its-smart-glasses-for-the-blind/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gusalexiou/2023/04/30/envision-adds-chatgpt-ai-sight-assistance-to-its-smart-glasses-for-the-blind/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 86
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/644dcaea56de9f4c3dad4710/0x0.jpg?format=jpg&crop=1723,730,x105,y0,safe&width=1200"
+        width: 1200
+        height: 508
+        isCached: true
   - title: "Microsoft Sees AI Shaking Up Search While Google Calms Investors"
     excerpt: "Alphabet Inc.’s Google and Microsoft Corp., whose quarterly earnings each got a boost from their established search and cloud-computing businesses, used their time with investors to emphasize what’s next: artificial intelligence."
     publishedDateTime: 2023-04-26T00:16:00Z

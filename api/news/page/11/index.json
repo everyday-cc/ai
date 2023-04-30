@@ -2,92 +2,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_news/2023-04-21-science-news-roundup-scientists-identify-mind-body-nexus-in-human-brain-virgin-orbit-blames-dislodged-filter-for-january-launch-failure-and.md",
-      "title": "Science News Roundup: Scientists identify mind-body nexus in human brain; Virgin Orbit blames 'dislodged filter' for January launch failure and more",
-      "excerpt": "The steep drop in fresh capital has left many companies in a vulnerable state, while the failure of Silicon Valley Bank, a leading provider of venture debt, has added to the challenge, a report by venture capital (VC) firm Space Capital said on Thursday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.devdiscourse.com/article/technology/2425050-science-news-roundup-scientists-identify-mind-body-nexus-in-human-brain-virgin-orbit-blames-dislodged-filter-for-january-l",
-      "originalUrl": "https://www.devdiscourse.com/article/technology/2425050-science-news-roundup-scientists-identify-mind-body-nexus-in-human-brain-virgin-orbit-blames-dislodged-filter-for-january-l",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-20T21:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "devdiscourse",
-        "domain": "devdiscourse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-2023-to-2030-natural-language-processing-market-upcoming-trends.md",
-      "title": "2023 to 2030 Natural Language Processing Market Upcoming Trends",
-      "excerpt": "Natural Language Processing Market” Are a Collection of Information and Analysis Obtained From Diverse Sources to",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/2023-to-2030-natural-language-processing-market-upcoming-trends-2023-04-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/2023-to-2030-natural-language-processing-market-upcoming-trends-2023-04-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-20T21:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-21-automated-machine-learning-automl-market-research-2023-2030.md",
       "title": "Automated Machine Learning (AutoML) Market Research, 2023-2030",
       "excerpt": "Automated Machine Learning (AutoML) Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report",
@@ -571,6 +485,49 @@
       ],
       "topics": [
         "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-21-amazon-announces-general-availability-of-codecatalyst-aws-developer-tools.md",
+      "title": "Amazon announces general availability of CodeCatalyst AWS developer tools",
+      "excerpt": "Invent 2022, where it was described by Amazon as a tool for professional developers to jumpstart applications on AWS using DevOps best practices. It gives them all the tools they need to provision cloud instances and infrastructure,",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2023/04/20/amazon-announces-general-availability-codecatalyst-aws-developer-tools/",
+      "originalUrl": "https://siliconangle.com/2023/04/20/amazon-announces-general-availability-codecatalyst-aws-developer-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/08/keyboard-gafbae8400_1280.jpg",
+          "width": 1280,
+          "height": 721,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-20T10:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     },
@@ -1166,6 +1123,49 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-20-driverless-tractors-market-is-touching-new-levels-a-comprehensive-study-segmented-agco-kubota-trimble.md",
+      "title": "Driverless Tractors Market Is Touching New Levels A Comprehensive Study Segmented: AGCO, Kubota, Trimble",
+      "excerpt": "The Latest Released Driverless Tractors Market Research ... These tractors use advanced technologies such as sensors, GPS, and artificial intelligence to navigate fields, plow, sow, fertilize ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1106053706/Driverless-Tractors-Market-Is-Touching-New-Levels-A-Comprehensive-Study-Segmented-AGCO-Kubota-Trimble",
+      "originalUrl": "https://menafn.com/1106053706/Driverless-Tractors-Market-Is-Touching-New-Levels-A-Comprehensive-Study-Segmented-AGCO-Kubota-Trimble",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2023-04/20/EP_e146bimage_story.png",
+          "width": 600,
+          "height": 314,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-20T03:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     }

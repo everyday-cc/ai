@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-04-chatbots-ai-silicon-valley-unlea
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-04-chatbots-ai-silicon-valley-unleash.amp"
 type: article
 quality: 53
-heat: -1
+heat: 63
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Chatbots and the new AI: What will Silicon Valley unleash upon the world this time?"
-    excerpt: "All will be impacted by Silicon Valley’s latest creation: “generative” artificial intelligence. With new chatbots and AI software that generates text, images and sound, technology companies have smashed open Pandora’s Box,"
-    publishedDateTime: 2023-04-25T13:10:00Z
-    webUrl: "https://www.eastbaytimes.com/2023/04/25/chatbots-and-the-new-ai-what-will-silicon-valley-unleash-upon-the-world-this-time/"
-    ampWebUrl: "https://www.eastbaytimes.com/2023/04/25/chatbots-and-the-new-ai-what-will-silicon-valley-unleash-upon-the-world-this-time/amp/"
-    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2023/04/25/chatbots-and-the-new-ai-what-will-silicon-valley-unleash-upon-the-world-this-time/amp/"
-    type: article
-    provider:
-      name: East Bay Times
-      domain: eastbaytimes.com
-    quality: 53
-    images:
-      - url: "https://www.eastbaytimes.com/wp-content/uploads/2023/04/2023dmt6.png?w=1024&h=569"
-        width: 1022
-        height: 568
-        isCached: true
   - title: "Chatbots and the new AI: What will Silicon Valley unleash upon the world this time?"
     excerpt: "Jobs. News. Art. Democracy. Equality. Education. Privacy. Truth. Your bank account. All will be impacted by Silicon Valley’s latest creation: “generative” artificial intelligence."
     publishedDateTime: 2023-04-30T02:00:00Z

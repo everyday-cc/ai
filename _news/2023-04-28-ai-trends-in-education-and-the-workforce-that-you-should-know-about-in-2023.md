@@ -31,7 +31,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 67
+    quality: 69
     images:
       - url: "https://www.forbes.com/advisor/wp-content/uploads/2023/04/24_Top_AI_Statistics_And_Trends_In_2023_-_article_image.jpg"
         width: 958

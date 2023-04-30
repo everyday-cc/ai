@@ -48,15 +48,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 42
-  - title: "3 Ways Payers Can Employ Machine Learning, Advanced Analytics"
-    excerpt: "MVP Health Care (MVP) has been piloting machine learning and advanced analytics solutions and, in the process, explored three key uses for these types of tools. Machine learning falls under the umbrella of artificial intelligence tools."
-    publishedDateTime: 2023-04-25T13:30:00Z
-    webUrl: "https://healthpayerintelligence.com/features/3-ways-payers-can-employ-machine-learning-advanced-analytics"
-    type: article
-    provider:
-      name: healthpayerintelligence.com
-      domain: healthpayerintelligence.com
-    quality: 19
 
 secured: "M7uEyzOXh5JzQgFUFTI8E0OzjY1+AK3waDS7GSIpwluKWS38v3fLqw3AgT5DIENhQFgVIO7TjJ6dORlrKOrUAYrB9gL4cf9QA16XMGGhsY9fk6MDVWTf31IhRrEMj53PbrrTfhJR/75AtFvKOIhEAiIIpV8sMd+/7qrtFWWiWp51tJbUlxXySvV1XV5Toe51Zi9kKE32aup8oGSve5eaK2FOsClvSVuKiqVZcFhrh1qOEk6itkPMlnsFbPSlu917t3UAZWVfb9Nvcop0q6lUztUS0AakEd1/5Yho4qbERaDfGl+nnM/FlRZXKG/VZUdKnmvqbqssTNApne+9Oq1fLQxtFI6CR+PJrVLD/WFeuVM=;jGJ18nB66C/wLHQjR4FMeg=="
 ---

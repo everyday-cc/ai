@@ -7,8 +7,8 @@ originalUrl: "https://www.techspot.com/news/98471-could-artificial-intelligence-
 webUrl: "https://www.techspot.com/news/98471-could-artificial-intelligence-about-take-over-job.html"
 type: article
 quality: 67
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: TechSpot
@@ -26,17 +26,6 @@ images:
     width: 4203
     height: 2364
     isCached: true
-
-related:
-  - title: "Thinking about quitting your job? AI may be able to predict it"
-    excerpt: "With layoffs so top of mind, being flagged as a high risk of quitting before you’ve decided to make a move isn’t something many would welcome."
-    publishedDateTime: 2023-04-25T13:10:00Z
-    webUrl: "https://venturebeat.com/programming-development/thinking-about-quitting-your-job-ai-may-be-able-to-predict-it/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
 
 secured: "Zej+l8ECbfL/oZ2E8lS5RvzfbhnL0knHyX+GrtNO+tvkuXE+hcdukjaszJ2QOmG36PwImqLvK5dWNp73gH12bQy1z/QcdziBIsM5wDUAqH0aDFOAupHcRFrCTplibSBThbgoCevxVQExuN7pOzSjvj+Rq7BFZCy3x5JUDbJldRrMcJnYCutT4QIGvzCwR8m0OGwQR50BxSCj6NuZJLj6CG5LtVZCm5EVzQuwnsi2/CjPx/YUUQCzdca8buzLKpyrbGJURCynElo49zDV2K7U7Xm6V0DOfqfnQu1rHTA13nrGE9uUwfFAY0Vcf9BqaUzhTMd9stfr2GWSjOd0fosHEy1ZQ8fWoK03cjRFXc3BphM=;PmRNVkOvwfUB2l6NKeF+WQ=="
 ---

@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-04-18-baidu-rises-as-it-unveils-new-advanced-driving-updates.md",
+      "title": "Baidu rises as it unveils new advanced driving updates",
+      "excerpt": "Never miss a trade again with the fastest news alerts in the world! This headline only article is a sample of real-time intelligence Benzinga Pro traders use to win in the markets everyday. Want ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/content/seekingalpha-com/23/04/31835666/baidu-rises-as-it-unveils-new-advanced-driving-updates",
+      "originalUrl": "https://www.benzinga.com/content/seekingalpha-com/23/04/31835666/baidu-rises-as-it-unveils-new-advanced-driving-updates",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-18T01:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-18-fears-of-artificial-intelligence-overblown.md",
       "title": "Fears of artificial intelligence overblown",
       "excerpt": "While AI is still a developing technology and not without its limitations, a robotic world domination is far from something we need to fear.",
@@ -1300,49 +1343,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-09-thnq-brace-for-the-next-big-wave-of-artificial-intelligence.md",
-      "title": "THNQ: Brace For The Next Big Wave Of Artificial Intelligence",
-      "excerpt": "THNQ invests in companies centered on artificial intelligence development and implementation. Artificial intelligence has taken the world by storm, but many are still treading lightly as AI’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4593038-thnq-brace-for-the-next-big-wave-of-artificial-intelligence",
-      "originalUrl": "https://seekingalpha.com/article/4593038-thnq-brace-for-the-next-big-wave-of-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1397542920/image_1397542920.jpg?io=getty-c-w1536",
-          "width": 1536,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-09T04:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -20,22 +20,6 @@ topics:
   - AI in Autos
   - AI
 
-related:
-  - title: "Australian indigenous Voice seeks to entrench existing elite"
-    excerpt: "What is most striking about the Voice design report is its thoroughly anti-democratic character, explicitly rejecting the very idea of elections to the four-year posts on the Voice."
-    publishedDateTime: 2023-04-25T13:05:00Z
-    webUrl: "https://www.wsws.org/en/articles/2023/04/25/ozgn-a25.html"
-    type: article
-    provider:
-      name: World Socialist Web Site
-      domain: wsws.org
-    quality: 24
-    images:
-      - url: "https://www.wsws.org/asset/49827fbf-aee0-4267-8ac8-3a4d11bd5fcb?rendition=1600x900"
-        width: 1600
-        height: 900
-        isCached: true
-
 secured: "ZdKPHvTJGQhzk4kfJNXM9+oIQLpKUQjTXJSHArBmxkbUVZZBCjggSluSs+r32sNCzkVBKUVvySa2BN1r2I0MF9VZ9qfJzILFKI7jkVjGj8C1DbVCpB4yTAZ4XAEZVuH2XOdssI5rSlgiiH1CYefmp7G5wWKg9oAJ8+d6MC55IGt00LNLW9s9x/qZ5/laRlwhBkpeRx6CkZb7MFwNf+fG/hmsvUnMOYdGlGyBJpeYj0dVniahI1iWBJ22fXSwZxn8nQrdCZLiV6HnicINrzBZL7Aa68jH9KcTJaNvUMXKN/qD83KFFh4F3RLbTiNdrEE8EPJFFifvgsJPn9vJa5jNgYIf+qdDQf9LDkiZ2x0eTQQ7Y0K4M3ngwyBxkHE2YGW8wLHSkXbbCM9Z3OZfbB8MCRBT9DNeP0pfbo1wwdQEvutL1xa4Ef4anUzTxMca9CZ2ylrAzv5JQglRyMp9aoJ5oroMiwLwS1GuZi/T6IOwTZrBAOEJEwD7lEyIzwD8GHdhmcbjj760i8Xus9Wqbc44mw==;bJms9U1M2Lg07or5bI3ivw=="
 ---
 

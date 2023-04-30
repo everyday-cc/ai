@@ -173,6 +173,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Envision Adds ChatGPT AI Sight Assistance To Its Smart Glasses For The Blind"
+    excerpt: "Envision, a developer of smart glasses for the severely sight impaired has launched Ask Envision – a brand new feature leveraging the power of advanced Ai in the form of ChatGPT. The development is a true game changer in helping blind people access and interpret information."
+    publishedDateTime: 2023-04-30T07:00:00Z
+    webUrl: "https://www.forbes.com/sites/gusalexiou/2023/04/30/envision-adds-chatgpt-ai-sight-assistance-to-its-smart-glasses-for-the-blind/"
+    ampWebUrl: "https://www.forbes.com/sites/gusalexiou/2023/04/30/envision-adds-chatgpt-ai-sight-assistance-to-its-smart-glasses-for-the-blind/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gusalexiou/2023/04/30/envision-adds-chatgpt-ai-sight-assistance-to-its-smart-glasses-for-the-blind/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 86
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/644dcaea56de9f4c3dad4710/0x0.jpg?format=jpg&crop=1723,730,x105,y0,safe&width=1200"
+        width: 1200
+        height: 508
+        isCached: true
   - title: "Microsoft's AI Ambitions Spell Trouble for Intel, Warns Analyst"
     excerpt: "This could prove to be a positive for the software giant but hurt one of the biggest chipmakers, an analyst said. Microsoft cut server orders by 25-30% in 2023, with the bulk of these planned for the second half of the year,"
     publishedDateTime: 2023-04-26T05:40:00Z

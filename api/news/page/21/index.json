@@ -2,40 +2,6 @@
   "page": 21,
   "value": [
     {
-      "path": "_news/2023-04-13-startups-plans-for-robot-lawyer-nixed-after-ceo-threatened-with-jail.md",
-      "title": "Startup's Plans for Robot Lawyer Nixed After CEO Threatened With Jail",
-      "excerpt": "It looks like AI startup DoNotPay's \"robot lawyer\" — specifically, an AI-powered earpiece designed to coach defendants through court hearings about things like parking tickets and bill ...",
-      "sourceUrl": null,
-      "webUrl": "https://futurism.com/the-byte/startup-robot-lawyer-jixed-jail-ceo",
-      "originalUrl": "https://futurism.com/the-byte/startup-robot-lawyer-jixed-jail-ceo",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-13T04:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Futurism",
-        "domain": "futurism.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-13-analysis-the-era-of-deep-learning-is-coming-to-an-end.md",
       "title": "Analysis: \"The Era of Deep Learning Is Coming to an End\"",
       "excerpt": "Deep learning has dominated the field for several years — but may be on its way out. The field of AI has shifted focus roughly every decade since it began in the 1950s. Now, a new analysis ...",
@@ -1074,6 +1040,48 @@
       "topics": [
         "Google AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-12-addressing-the-network-data-monetization-complexities.md",
+      "title": "Addressing the network data monetization complexities",
+      "excerpt": "In our previous blog, we identified the three layers to network data monetization. These were the data layer, the analytics layer and the automation layer. To address the network data value tree successfully, we must address the complexities of these three layers, which are essential for automated operations",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/addressing-the-network-data-monetization-complexities/",
+      "originalUrl": "https://www.ibm.com/blog/addressing-the-network-data-monetization-complexities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-12T05:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
       ]
     }
   ],

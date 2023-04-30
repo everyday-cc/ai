@@ -6,8 +6,8 @@ publishedDateTime: 2023-04-28T18:44:00Z
 originalUrl: "https://www.edweek.org/technology/will-artificial-intelligence-help-teachers-or-replace-them/2023/04"
 webUrl: "https://www.edweek.org/technology/will-artificial-intelligence-help-teachers-or-replace-them/2023/04"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://epe.brightspotcdn.com/dims4/default/377c00b/2147483647/strip/true/crop/3000x2006+0+0/resize/942x630!/quality/90/?url=https%3A%2F%2Fepe-brightspot.s3.amazonaws.com%2F95%2F7c%2F8ecbf5e24d32a9e01f4c37d2e16d%2Fai-teacher-042023-1286808956-01.jpg"

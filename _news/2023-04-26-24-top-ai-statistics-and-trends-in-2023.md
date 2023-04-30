@@ -6,8 +6,8 @@ publishedDateTime: 2023-04-25T21:00:00Z
 originalUrl: "https://www.forbes.com/advisor/business/ai-statistics/"
 webUrl: "https://www.forbes.com/advisor/business/ai-statistics/"
 type: article
-quality: 67
-heat: 81
+quality: 69
+heat: 83
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.forbes.com/advisor/wp-content/uploads/2023/04/24_Top_AI_Statistics_And_Trends_In_2023_-_article_image.jpg"
@@ -38,6 +39,6 @@ related:
       domain: forbes.com
     quality: 62
 
-secured: "zEdP5EITcWrviSGtZCE1D9GRufdDxIUZkwfUGfzpB3qs3Acv7s45fi3yZRJalV9j3+cmnZm4Dn0upkGkp6QKZmHZgnzMZyIUXH12vYWopfkvHMkyx2DqXnLtst7tAQv5PvgBN5a4d+W7LHibTfETCnJA2DM7b1brzAXvBqxdLrHKdfwekW+1Pqk5b9GEWdgnWgTNygEWY+Pj/gMuIdeKew3WKytDW2xwkx4CjNiNe6R5G7sGSml8/7hj5YJCeYO2EiGYtGMlBxxuFpoXb7yOU7xdVwJtUTXWCKUzHP4TzxQx+1RAw7icpxgDeGTcPFCeqw1i2b6hCLcQeaRtT81/zmEgWQ/5Of/OQS9JrzpslwA=;19zbv8N3KCvHb3xNptHNaA=="
+secured: "yk8nlMldlyrORHIzkFFZ16FwEXgrlMAn3yAswKCqMHUzhQ9cWRQ7JRasHAabp2jMcURzYmODldeO/wQTOhPKvkE4kAkPICwlIylo7Jb4LeIiUSwBvv926hyNNaFMdbChMboVPClGbUG5IIGiyo7vmaVpkym9icKgBpm3PGnyD0A6kLW+MCuqifvfDAHH0z0kul3VQpBt4n5Hr4G1PIcREqkeOAJYJ6COFN1LIePSkKEPwhesiOPXTV7CJpfs/aKLkzDTupHJG9kmLdW3Ow+uQRZENx37Ij9hOJyHju5GdeE5ANSg43b032lXXVTHeHuZg0wOICYIkWuPVPIHN5aLHHBRLNhR6R2qvnfIOmfJy5zmateF7DqMUKmo1YyyAFSnpOmetTxB0fSVjpVgVXcQ/cnJ3bwyoaIG3R+Re/Smo2FACHi1mwowulz15uhd8LSzX5xbwHjW1tZzBAwxNB19Qb+BJMSJxXtHwaMvDfl8nka1DgX5kB9F8wQFiOVzfEGJGDqRVqjWIR+aT8rEClV4oA==;kyrbK/+HyBd0jGuwSiBESQ=="
 ---
 

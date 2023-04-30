@@ -2,57 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2023-04-26-apple-building-an-ai-health-coach-for-apple-watch-report-claims.md",
-      "title": "Apple building an AI health coach for Apple Watch, report claims",
-      "excerpt": "Apple is developing an AI-powered health coach designed to offer personalized advice for improving exercise, diet, and sleep, a new report claims.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/mobile/apple-may-be-building-ai-health-coach-for-apple-watch/",
-      "originalUrl": "https://www.digitaltrends.com/mobile/apple-may-be-building-ai-health-coach-for-apple-watch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/04/apple-health-app-report.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/mobile/apple-may-be-building-ai-health-coach-for-apple-watch/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/apple-may-be-building-ai-health-coach-for-apple-watch/?amp",
-      "publishedDateTime": "2023-04-25T22:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-26-top-10-trusted-artificial-intelligenceai-companies-in-2023.md",
       "title": "Top 10 Trusted Artificial Intelligence(AI) Companies In 2023",
       "excerpt": "The team of TopSoftwareCompanies.co has made a list of Top functional Artificial Intelligence companies of 2023 following certain selection criteria. The team has finalized the list of top AI developers based on their core service offerings,",
@@ -103,7 +52,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-report-explained-current-growth-for-upcoming-period-2030-2023-04-26",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -515,7 +464,7 @@
       "originalUrl": "https://www.forbes.com/advisor/business/ai-statistics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -554,7 +503,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -975,7 +925,7 @@
       "originalUrl": "https://venturebeat.com/ai/coca-cola-makes-bubbly-bets-on-ai-for-creative-customer-service/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -1175,48 +1125,6 @@
       ]
     },
     {
-      "path": "_news/2023-04-25-using-artificial-intelligence-to-create-a-tsunami-early-warning-system.md",
-      "title": "Using artificial intelligence to create a tsunami early warning system",
-      "excerpt": "An early warning system that quickly classifies submarine earthquakes and determines the risk of tsunami events has been developed by scientists at Cardiff University.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-04-artificial-intelligence-tsunami-early.html",
-      "originalUrl": "https://phys.org/news/2023-04-artificial-intelligence-tsunami-early.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/tsunami.jpg",
-          "width": 1920,
-          "height": 1676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-04-artificial-intelligence-tsunami-early.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-04-artificial-intelligence-tsunami-early.amp",
-      "publishedDateTime": "2023-04-25T09:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-25-a-meta-executive-reportedly-warned-staff-last-year-that-we-have-a-significant-gap-when-it-comes-to-ai.md",
       "title": "A Meta executive reportedly warned staff last year that 'we have a significant gap' when it comes to AI",
       "excerpt": "Mark Zuckerberg and other execs had a five-hour discussion on how Meta could implement systems for cutting edge AI last year, Reuters reports.",
@@ -1256,6 +1164,100 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-25-republicans-launch-eerie-ai-generated-attack-ad-on-biden.md",
+      "title": "Republicans Launch Eerie AI-Generated Attack Ad On Biden",
+      "excerpt": "The video shows realistic images of a collapse of world order under a second Biden-Harris term—and suggests the possibility of a lot of artificial intelligence in upcoming campaigns.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/saradorn/2023/04/25/republicans-launch-eerie-ai-generated-attack-ad-on-biden/",
+      "originalUrl": "https://www.forbes.com/sites/saradorn/2023/04/25/republicans-launch-eerie-ai-generated-attack-ad-on-biden/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6447ef043664b77e0aa3babc/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/saradorn/2023/04/25/republicans-launch-eerie-ai-generated-attack-ad-on-biden/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saradorn/2023/04/25/republicans-launch-eerie-ai-generated-attack-ad-on-biden/amp/",
+      "publishedDateTime": "2023-04-25T08:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-25-heres-how-ai-evolves-with-next-gen-gpu-and-ai-capabilities.md",
+      "title": "Here’s how AI evolves with next-gen GPU and AI capabilities",
+      "excerpt": "As edge computing continues growing at a fast rate along with the availability of better internet connectivity, projects have started looking for ways to benefit from blockchain, artificial intelligence (AI) and other technologies to provide users and businesses with new ways to monetize their internet availability.",
+      "sourceUrl": null,
+      "webUrl": "https://cointelegraph.com/news/heres-how-ai-evolves-with-next-gen-gpu-and-ai-capabilities",
+      "originalUrl": "https://cointelegraph.com/news/heres-how-ai-evolves-with-next-gen-gpu-and-ai-capabilities",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/storage/uploads/view/3202b88f1e9bcaca436a9275d16224b9.jpg",
+          "width": 740,
+          "height": 492,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cointelegraph.com/news/heres-how-ai-evolves-with-next-gen-gpu-and-ai-capabilities/amp",
+      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/heres-how-ai-evolves-with-next-gen-gpu-and-ai-capabilities/amp",
+      "publishedDateTime": "2023-04-25T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinTelegraph",
+        "domain": "cointelegraph.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

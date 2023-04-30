@@ -41,22 +41,6 @@ related:
         width: 740
         height: 450
         isCached: true
-  - title: "When will the tech giants’ AI investments start paying off?"
-    excerpt: "Microsoft and Alphabet both reporting earnings this week. Expect AI to play a big role in their earnings reports."
-    publishedDateTime: 2023-04-25T14:24:00Z
-    webUrl: "https://www.marketplace.org/2023/04/25/when-will-the-tech-giants-ai-investments-start-paying-off/"
-    ampWebUrl: "https://www.marketplace.org/2023/04/25/when-will-the-tech-giants-ai-investments-start-paying-off/amp/"
-    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/2023/04/25/when-will-the-tech-giants-ai-investments-start-paying-off/amp/"
-    type: article
-    provider:
-      name: Marketplace
-      domain: marketplace.org
-    quality: 57
-    images:
-      - url: "https://www.marketplace.org/wp-content/uploads/2020/07/GettyImages-1207074418.jpg"
-        width: 2880
-        height: 1620
-        isCached: true
   - title: "FinTech Market Research and Development till 2030"
     excerpt: "The Global FinTech Market research report for 2023-2030 provides a detailed analysis of the current market scenario, including qualitative and quantitative information, growth potentials, and competitive landscape."
     publishedDateTime: 2023-04-27T08:37:00Z
