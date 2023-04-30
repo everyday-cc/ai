@@ -14,6 +14,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.unesco.org/sites/default/files/styles/banner_mobile/public/2022-03/shutterstock_1803136597.jpeg?h=a4246cac&itok=-x8_-N4C"

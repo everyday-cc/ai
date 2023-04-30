@@ -71,10 +71,10 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Delivery Robot Market Growth by 2031"
-    excerpt: "The latest market research report on the Global \"Artificial Intelligence Delivery Robot Market\" is segmented by"
-    publishedDateTime: 2023-04-28T16:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-delivery-robot-market-growth-by-2031-2023-04-28"
+  - title: "AI In Computer Vision Market Outlook by 2031"
+    excerpt: "The latest market research report on the Global \"AI In Computer Vision Market\" is segmented by Regions, Country,"
+    publishedDateTime: 2023-04-27T03:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-outlook-by-2031-2023-04-26"
     type: article
     provider:
       name: MarketWatch
@@ -85,15 +85,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI In Computer Vision Market Outlook by 2031"
-    excerpt: "The latest market research report on the Global \"AI In Computer Vision Market\" is segmented by Regions, Country,"
-    publishedDateTime: 2023-04-27T03:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-outlook-by-2031-2023-04-26"
+  - title: "Artificial Intelligence Delivery Robot Market Growth by 2031"
+    excerpt: "The latest market research report on the Global \"Artificial Intelligence Delivery Robot Market\" is segmented by"
+    publishedDateTime: 2023-04-28T16:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-delivery-robot-market-growth-by-2031-2023-04-28"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 84
+    quality: 86
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

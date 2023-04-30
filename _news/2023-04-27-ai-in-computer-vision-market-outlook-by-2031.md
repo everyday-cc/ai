@@ -6,7 +6,7 @@ publishedDateTime: 2023-04-27T03:25:00Z
 originalUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-outlook-by-2031-2023-04-26"
 webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-outlook-by-2031-2023-04-26"
 type: article
-quality: 84
+quality: 86
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Facebook AI
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

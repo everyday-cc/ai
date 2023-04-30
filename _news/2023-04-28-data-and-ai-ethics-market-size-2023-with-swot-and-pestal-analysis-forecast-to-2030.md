@@ -149,20 +149,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Market Size, Share, Analysis, Growth, Trends and Forecast – 2027"
-    excerpt: "The artificial intelligence market size to grow from USD 86.9 billion in 2022 to USD 407.0 billion by 2027, at"
-    publishedDateTime: 2023-04-26T01:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-share-analysis-growth-trends-and-forecast-2027-2023-04-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Self-Driving Cars Market: Key Players and Growth Prospects for 2030"
     excerpt: "Get a sample PDF of the report at -  The Self-Driving Cars market has witnessed growth from USD million to USD million from 2017 to 2022. With the CAGR, this market is estimated to reach USD million in 2029."
     publishedDateTime: 2023-04-28T16:55:00Z

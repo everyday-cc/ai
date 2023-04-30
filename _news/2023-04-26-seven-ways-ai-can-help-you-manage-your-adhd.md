@@ -69,15 +69,6 @@ related:
       name: The Jewish Exponent
       domain: jewishexponent.com
     quality: 19
-  - title: "These wild AI-powered glasses can read your own lips"
-    excerpt: "A team of scientists at Cornell's SciFi lab has developed a pair of glasses that can read your very own lips, without you having to utter a single sound."
-    publishedDateTime: 2023-04-26T04:08:00Z
-    webUrl: "https://www.fastcompany.com/90886580/these-wild-ai-powered-glasses-can-read-your-own-lips"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 17
 
 secured: "0uNi5dabaauz5pG5B1SEYrK/pIkLU0N9KJldVodTtLeduL8SKf1pLSHz7T7yoh2wphfL3aocW5wiJp8GWMBy4Nf9elcHhFxPF4m/Ri92gDVjxlQ0TzmfBNRTvsof1161tn1jXt54DWHALYfTZQhuFa3UaPxJJ40S9VTX8h6kC59udXsrC4lKwlymtJAZr2C4UlYV+Jg6S2a4BFevotPLPS7niGvnXHWX22e4aLXQevamSQtFT/brqWAUS9Xq/BeJyVi9PmQyoKL3mKGSmQF1dH87z+YyAnNPNnCjnXwFlMdccdJZpfpgWyfYXxf+HjZcKrAB5Io/WI9FSMYT3uebRTsqWIqRUHqmAlxDF0e7uE4=;O4+x6xoj6swLyVDdFyvw/g=="
 ---

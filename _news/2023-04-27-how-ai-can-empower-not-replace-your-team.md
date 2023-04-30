@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/27/how-ai-can
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/27/how-ai-can-empower-not-replace-your-team/amp/"
 type: article
 quality: 87
-heat: 139
+heat: 127
 published: true
 
 provider:
@@ -73,15 +73,6 @@ related:
       name: The Jewish Exponent
       domain: jewishexponent.com
     quality: 19
-  - title: "These wild AI-powered glasses can read your own lips"
-    excerpt: "A team of scientists at Cornell's SciFi lab has developed a pair of glasses that can read your very own lips, without you having to utter a single sound."
-    publishedDateTime: 2023-04-26T04:08:00Z
-    webUrl: "https://www.fastcompany.com/90886580/these-wild-ai-powered-glasses-can-read-your-own-lips"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 17
 
 secured: "BtLf7yrLGnLjxhnSciGPKcoVCJ0qkFXelSzaMijQHjCV+EXrM5crDhPqjlGejO340zCN15rk0gPkai9J+Dg91TeidIrPjmA24LMveU17/p6c69rMnwDEiUkZ8hXRC0HQb1NdqwHbFyirGVQjHkI2W/No4yrueQZ2C4ciYrOgAFBKsGaGU+whckzqkGEYwgdv2dbx5uv6rQ2JC114p/VGBIScb8MxTLs9MAqsCHMC8xVdHGXgcM6YHdrINzduOtHTLYDIFqZS/w3kdSUpMf6b6zGsp8YaWxTkRwbSllmqr0BcXUfizt3OXPrUNt9EexodeKnkhA6dGdNAwxZ5lfgNCQ78yzBVWXdMmOLeG5hnhRyQrwhI6WJZ37k+j3AIpq1QmNxcEo7ghuLuwfam6RhnFU0f/sgmcbJzxd05p3oMOz+EbuoW1MS+d4FEkS77h3ITtaUuryysNpgI/eHn/Lk+3HKkmKMCf6Nnki9/UUMCbf4hLKiXyyk3zay8K0qQPEu5nK/aJ9UO8EA1ZWf4P0diig==;Fm+axWW269Gl9sHagpRylw=="
 ---

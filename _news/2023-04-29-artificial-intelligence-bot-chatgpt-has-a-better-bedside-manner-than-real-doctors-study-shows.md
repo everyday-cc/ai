@@ -75,22 +75,6 @@ related:
         width: 1200
         height: 777
         isCached: true
-  - title: "Microsoft Results Top Forecasts, Shares Jump 8% As AI Juices Sales"
-    excerpt: "Microsoft Corp beat Wall Street's estimates for quarterly revenue and profit on Tuesday, driven by growth in its cloud computing and Office productivity software businesses, and the company said artificial intelligence products were stimulating sales."
-    publishedDateTime: 2023-04-26T01:55:00Z
-    webUrl: "https://www.ibtimes.com/microsoft-results-top-forecasts-shares-jump-8-ai-juices-sales-3689088"
-    ampWebUrl: "https://www.ibtimes.com/microsoft-results-top-forecasts-shares-jump-8-ai-juices-sales-3689088?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/microsoft-results-top-forecasts-shares-jump-8-ai-juices-sales-3689088?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 91
-    images:
-      - url: "https://d.ibtimes.com/en/full/4450263/microsoft-logo-seen-issy-les-moulineaux-near-paris.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "ChatGPT: How to use the AI chatbot that’s changing everything"
     excerpt: "AI enthusiasts have compared it to the surge ... It runs on Microsoft’s Azure system infrastructure and is powered by Nvidia’s GPUs. ChatGPT recently launched a new version of its own ..."
     publishedDateTime: 2023-04-26T12:50:00Z
@@ -368,34 +352,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Microsoft reports boost in profits, revenue, as it pushes AI"
-    excerpt: "Analysts polled by FactSet expected Microsoft to post revenue of $51.02 billion for the quarter. The quarter marked an ambitious push by Microsoft to capitalize on its investments in artificial intelligence and partnership with San Francisco-based startup OpenAI with the February release of a new AI chatbot feature on its search engine Bing."
-    publishedDateTime: 2023-04-26T01:23:00Z
-    webUrl: "https://www.houstonchronicle.com/business/article/microsoft-reports-boost-in-profits-revenue-as-17918131.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 54
-    images:
-      - url: "https://s.hdnux.com/photos/01/32/36/44/23718180/3/rawImage.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
-  - title: "Microsoft’s AI-driven surge could keep rally running"
-    excerpt: "Having helped underpin this year’s rally, Microsoft delivered a combination of strong March quarter numbers and AI blue sky to send its stock soaring."
-    publishedDateTime: 2023-04-26T01:15:00Z
-    webUrl: "https://www.afr.com/chanticleer/microsoft-s-ai-driven-surge-could-keep-rally-running-20230426-p5d3ch"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 54
-    images:
-      - url: "https://static.ffx.io/images/$zoom_0.7933%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_91/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_opinion_no_age_social_wm/4fb82f3e241731b3a369156a5495d58018ec20dd"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Will Microsoft and Artificial Intelligence Save the Market?"
     excerpt: "Both companies are benefiting from a boom in artificial intelligence (AI). The growth there is even faster than what occurred during the internet bubble in the late 1990s, and Microsoft is the leader."
     publishedDateTime: 2023-04-26T11:14:00Z
@@ -460,20 +416,6 @@ related:
       - url: "https://www.ciodive.com/imgproxy/MI5IQ_BJKiJLO9R8fZV_cLYqhxBY2MrXuEF6Lh4Lfdo/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTEzMzc0MDM3MDQuanBn.jpg"
         width: 770
         height: 435
-        isCached: true
-  - title: "Microsoft beats expectations and forecasts strong revenue growth driven by investments in AI"
-    excerpt: "Microsoft Corp. delivered a strong earnings and revenue beat, grew its operating income and forecast another solid beat for the coming quarter, sending its shares up more than 8% in late trading today."
-    publishedDateTime: 2023-04-26T01:28:00Z
-    webUrl: "https://siliconangle.com/2023/04/25/microsoft-beats-expectations-forecasts-strong-revenue-growth-driven-investments-ai/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 43
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/04/14471446417_6edb11e8ad_k.jpg"
-        width: 2048
-        height: 1360
         isCached: true
   - title: "AI experts say ChatGPT, other chatbots fine to use with caution"
     excerpt: "Amid widespread debate over ChatGPT and similar chatbots, Japan’s artificial intelligence experts expressed cautious optimism regarding the generative AI."

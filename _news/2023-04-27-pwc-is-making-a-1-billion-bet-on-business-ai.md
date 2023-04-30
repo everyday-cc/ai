@@ -59,20 +59,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Microsoft Q3 Earnings Report: Generative AI Brings In New Customers"
-    excerpt: "Despite generative artificial intelligence’s recent surge in popularity, Microsoft is already seeing new customers and new money-making opportunities – good news for early-ado"
-    publishedDateTime: 2023-04-26T01:33:00Z
-    webUrl: "https://www.crn.com/news/cloud/microsoft-q3-earnings-report-generative-ai-brings-in-new-customers"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 54
-    images:
-      - url: "https://www.crn.com/resources/0280-17d4ceec3a43-8e4af63e8e24-1000/satya-nadella-2021.jpeg"
-        width: 611
-        height: 458
-        isCached: true
   - title: "Microsoft 'holding a lot of the cards' in AI-powered search war with Google"
     excerpt: "Microsoft didn’t mention Bing once on its earnings call. The search engine hasn’t been a big growth driver for Microsoft in the past. That's changing."
     publishedDateTime: 2023-04-26T17:22:00Z

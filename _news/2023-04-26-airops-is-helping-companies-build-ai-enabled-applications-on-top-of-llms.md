@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/04/26/airops-is-helping-companies-build-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/04/26/airops-is-helping-companies-build-ai-enabled-applications-on-top-of-llms/amp/"
 type: article
 quality: 88
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Yelp harnesses AI and LLMs to enhance search, review and hiring experiences"
-    excerpt: "Yelp has introduced new AI-powered features aimed to enhance its platform's search and discovery and better connect users with businesses."
-    publishedDateTime: 2023-04-26T03:21:00Z
-    webUrl: "https://venturebeat.com/ai/yelp-harnesses-ai-and-llms-to-enhance-search-review-and-hiring-experiences/"
-    ampWebUrl: "https://venturebeat.com/ai/yelp-harnesses-ai-and-llms-to-enhance-search-review-and-hiring-experiences/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/yelp-harnesses-ai-and-llms-to-enhance-search-review-and-hiring-experiences/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 85
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2016/04/ecommerce.jpg?w=1200&strip=all"
-        width: 1200
-        height: 726
-        isCached: true
   - title: "The complications of regulating AI"
     excerpt: "The idea that advancing technology outpaces regulation serves the industry's interests, says Elizabeth Renieris of Oxford. Current oversight methods apply to specific issues, but \"general purpose\" AI is harder to keep in check."
     publishedDateTime: 2023-04-27T10:00:00Z

@@ -69,15 +69,6 @@ related:
       name: Harvard Medical School
       domain: harvard.edu
     quality: 34
-  - title: "These wild AI-powered glasses can read your own lips"
-    excerpt: "A team of scientists at Cornell's SciFi lab has developed a pair of glasses that can read your very own lips, without you having to utter a single sound."
-    publishedDateTime: 2023-04-26T04:08:00Z
-    webUrl: "https://www.fastcompany.com/90886580/these-wild-ai-powered-glasses-can-read-your-own-lips"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 17
 
 secured: "juKswO80oiWyQhJOTzdutZVAMcrqOj2ZXFTD6bP98QTu6HpfgioYY6jlUOSYl/TA7TbHBVJg2B2le2cVfLkmTx1me8Sdb/36+29fhBPgmx2kYmrGO+Whwp/iPgRSTDeGKugm6wjryNsiUQploVoIzi1M3wzjE3wCMUeqsoPYdlX8Rf/tGh02opqD0oNWDbOXuRxfhWB7a37NGfZbndziXndgdyleQ8UzUg+4C2rBDhvbrN6jPzhNE6H6vUGeSzHXWlz6Yqflh0/f+jv+y+FW+1aI7P2EhZhmruf6YVUmOCLsM5vvgf0ZbNw4VWKdvWAJEWvfa4ZvPlmo4EgP4Y+YuEJ3iutMRHfUTjM7Cwj9hffuZl+QYV8fkiq0daK2St3ptYscVCNq1LNcZ+NaaC4dJL5uqwucXMrBjG15zNa75nypLbgHE4CEO+dZawj0ARH2xr6A3J5RVnUZFQKtJLFrT475iN++Vq0EocEDgrnkHDoabpJ4dA2HhjGobMpeehXDQcrpSQNtD1J0Y9QPcvj6YA==;jcGfEXKXBye/I1vuQteI6w=="
 ---

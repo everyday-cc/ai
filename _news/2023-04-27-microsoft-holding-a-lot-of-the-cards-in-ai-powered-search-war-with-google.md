@@ -69,20 +69,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft Q3 Earnings Report: Generative AI Brings In New Customers"
-    excerpt: "Despite generative artificial intelligence’s recent surge in popularity, Microsoft is already seeing new customers and new money-making opportunities – good news for early-ado"
-    publishedDateTime: 2023-04-26T01:33:00Z
-    webUrl: "https://www.crn.com/news/cloud/microsoft-q3-earnings-report-generative-ai-brings-in-new-customers"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 54
-    images:
-      - url: "https://www.crn.com/resources/0280-17d4ceec3a43-8e4af63e8e24-1000/satya-nadella-2021.jpeg"
-        width: 611
-        height: 458
-        isCached: true
   - title: "PricewaterhouseCoopers announces multiyear $1B investment into generative AI"
     excerpt: "PricewaterhouseCoopers LLP announced plans today to invest $1 billion in generative artificial intelligence that will expand its offerings for clients in the U.S. to use the technology to power their businesses."
     publishedDateTime: 2023-04-26T20:46:00Z

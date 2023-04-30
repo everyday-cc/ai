@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/healthcare-ai-market-mar
 webUrl: "https://www.marketwatch.com/press-release/healthcare-ai-market-market-projection-and-growth-drivers-2023-2028-2023-04-28"
 type: article
 quality: 86
-heat: 276
+heat: 266
 published: true
 
 provider:
@@ -137,20 +137,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Market Size, Share, Analysis, Growth, Trends and Forecast – 2027"
-    excerpt: "The artificial intelligence market size to grow from USD 86.9 billion in 2022 to USD 407.0 billion by 2027, at"
-    publishedDateTime: 2023-04-26T01:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-share-analysis-growth-trends-and-forecast-2027-2023-04-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

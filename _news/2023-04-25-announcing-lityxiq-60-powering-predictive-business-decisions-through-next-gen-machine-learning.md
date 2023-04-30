@@ -16,10 +16,9 @@ provider:
       height: 50
 
 topics:
-  - AI in Finance
-  - AI
   - Machine Learning
+  - AI
 
-secured: "4SYsRrdzOo43tNlBk4UnUcrNj/x5fPzcHaCXIewNdAVC6iOge3y/BdIkzXeIYXD+giNZfjnA0aB+LqU0yEa/QunhaMaVmstZhwpXsIKBsA4c6xA1ir9zKcBKCHh5biyYfFB0f8Vu/q3VRN3VCdch7yXGT8m3C5TNyulxRlorUsxKA3Xy+jH5x3TmTeO5s9ktRdh39LsKEjL+3G7MKC3RzFjKy+/pWAusq+r4xb/Ol2qaLOmbY2onooEnRBqpGuIPc7A9zkFscl2FXUijHjWIeIEdkxMe3qEHKcS/TRkB1q4IfiNSohvdEP2TsZx4N/dnoxcAMdqzCrMs9ULr1xqwX6CKV/tEe+ZriTTd0CYP5Wo=;UgTkIbIksNVRxcEKGfKWBg=="
+secured: "1dk1rKLCr27hsMhswLUjYw0I4U2GP7jdc2P5vdYmMZFyKxpNNKuWIhemIVQjlY3HIDIbPra7PIns+R5XGN4gNkd7dyduxizkr1gLn+XpSHCv2Lot6DoOgmCyyr0SBXfVIg3TFAtQtYqac//cAdqopULxXUy4Gtn61uwt5+p2S1QZiImNECvrBY9d7jh7BlAS0CMfLqMcETCQAZXjxMBPTsF5mHvUctai2D3xj2QERp67eRgw6IVz1X1jEafogkjJWfXC9LTbdzSnMuY8vlx+W3T1iLLYPbvYczBesdfBVvj7BH6mrXrDrKixHWZ2hqO6WEuD/nPOn8dN4IWzoBlDZFiiF6n+H0WsHdKSorYB5MY=;nt6lDTzyGPO2d2JtyAS8cA=="
 ---
 

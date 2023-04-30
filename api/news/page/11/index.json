@@ -2,6 +2,83 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-04-21-google-merges-ai-teams-under-deepmind-banner.md",
+      "title": "Google Merges AI Teams Under DeepMind Banner",
+      "excerpt": "Google parent company Alphabet is bringing its Brain and DeepMind AI teams under one roof with the launch of Google DeepMind.",
+      "sourceUrl": null,
+      "webUrl": "https://decrypt.co/137448/google-merges-ai-teams-under-deepmind-banner",
+      "originalUrl": "https://decrypt.co/137448/google-merges-ai-teams-under-deepmind-banner",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/04/64410a99d52cf88103c4b88c_GDM_16_9-e1682073376881-gID_7.jpg@png",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-21T04:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "decrypt",
+        "domain": "decrypt.co",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-21-7-mind-bending-agi-movies-to-binge-watch-this-weekend.md",
+      "title": "7 Mind-bending AGI Movies to Binge-watch This Weekend",
+      "excerpt": "Movies on AI may depict an unimaginable future, but as viewers, we can enjoy them for the “science” element of it",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/7-mind-bending-agi-movies-to-binge-watch-this-weekend/",
+      "originalUrl": "https://analyticsindiamag.com/7-mind-bending-agi-movies-to-binge-watch-this-weekend/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-21T04:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-21-heres-how-chatgpt-can-either-enhance-customer-service-or-brutally-undermine-the-customer-experience-warns-ai-ethics-and-ai-law.md",
       "title": "Here’s How ChatGPT Can Either Enhance Customer Service Or Brutally Undermine The Customer Experience, Warns AI Ethics And AI Law",
       "excerpt": "Generative AI such as ChatGPT is being rushed into use for customer service activities. Though advanced AI has some key benefits, you also need to ensure that the downsides are dealt with. Here's the scoop.",
@@ -787,7 +864,8 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -1126,92 +1204,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-amazon-announces-general-availability-of-codecatalyst-aws-developer-tools.md",
-      "title": "Amazon announces general availability of CodeCatalyst AWS developer tools",
-      "excerpt": "Invent 2022, where it was described by Amazon as a tool for professional developers to jumpstart applications on AWS using DevOps best practices. It gives them all the tools they need to provision cloud instances and infrastructure,",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/04/20/amazon-announces-general-availability-codecatalyst-aws-developer-tools/",
-      "originalUrl": "https://siliconangle.com/2023/04/20/amazon-announces-general-availability-codecatalyst-aws-developer-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/08/keyboard-gafbae8400_1280.jpg",
-          "width": 1280,
-          "height": 721,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-20T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-20-is-artificial-intelligence-becoming-smarter-than-humans.md",
-      "title": "Is artificial intelligence becoming smarter than humans?",
-      "excerpt": "More than 1,000 scientists, engineers, many of them leaders in the Big Tech industry, recently signed an open letter calling for a pause in the development of the newest artificial",
-      "sourceUrl": null,
-      "webUrl": "https://www.daytonatimes.com/commentaries/is-artificial-intelligence-becoming-smarter-than-humans/article_ec170ae8-df99-11ed-8e0d-bb1c7f2396d9.html",
-      "originalUrl": "https://www.daytonatimes.com/commentaries/is-artificial-intelligence-becoming-smarter-than-humans/article_ec170ae8-df99-11ed-8e0d-bb1c7f2396d9.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/daytonatimes.com/content/tncms/assets/v3/editorial/7/bd/7bdf133c-df9a-11ed-9675-b32d9f78d52b/64416be8a3611.image.png?resize=400%2C231",
-          "width": 400,
-          "height": 231,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-20T09:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daytona Times",
-        "domain": "daytonatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

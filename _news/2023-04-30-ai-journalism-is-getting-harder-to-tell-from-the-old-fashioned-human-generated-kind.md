@@ -3,13 +3,11 @@ category: news
 title: "AI journalism is getting harder to tell from the old-fashioned, human-generated kind"
 excerpt: "I rumbled a chatbot ruse – but as the tech improves, and news outlets begin to adopt it, how easy will it be to spot it next time?"
 publishedDateTime: 2023-04-30T11:51:00Z
-originalUrl: "https://www.theguardian.com/commentisfree/2023/apr/30/ai-journalism-is-getting-harder-to-tell-from-the-old-fashioned-human-generated-kind?ref=biztoc.com"
-webUrl: "https://www.theguardian.com/commentisfree/2023/apr/30/ai-journalism-is-getting-harder-to-tell-from-the-old-fashioned-human-generated-kind?ref=biztoc.com"
-ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/apr/30/ai-journalism-is-getting-harder-to-tell-from-the-old-fashioned-human-generated-kind"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/apr/30/ai-journalism-is-getting-harder-to-tell-from-the-old-fashioned-human-generated-kind"
+originalUrl: "https://www.theguardian.com/commentisfree/2023/apr/30/ai-journalism-is-getting-harder-to-tell-from-the-old-fashioned-human-generated-kind"
+webUrl: "https://www.theguardian.com/commentisfree/2023/apr/30/ai-journalism-is-getting-harder-to-tell-from-the-old-fashioned-human-generated-kind"
 type: article
-quality: 50
-heat: 50
+quality: 10
+heat: 10
 published: false
 
 provider:
@@ -23,12 +21,6 @@ provider:
 topics:
   - AI
 
-images:
-  - url: "https://i.guim.co.uk/img/media/a1a620a2b5ce357173f64fe4fb7907fff0d2fb22/120_0_3600_2160/master/3600.jpg?width=620&quality=85&auto=format&fit=max&s=881fe4317512c76773836e1a8da8a3c0"
-    width: 620
-    height: 372
-    isCached: true
-
-secured: "CSUWk6fNjGuCBlsIQKNiZa3LJml1u5EKcdD/BP/gxcNfEHyfk193qzyfxv5Bny+rhqBF9Z8etgphxV7WA3MEPNqQjC4Y5NpWCNHbs6bXyvkvATIwQLPzCJ6a0AI4AsK4OAWB3d22xysOawZpnhCljJ4J/lE3oXXBFj12PJlbGcS+DqG6uZRNW9I64FsEkWGnsyCINgK8rGy97K8lN943YGkedC+XgdN77KgHPC3bB0vX5MeOODWq23Lg7dG+BbTrMPOlqdcniS/tmvWgOltyRGUmklgbI/K/G9sxr05sTPXsrcVs8Ng2arQ2HFa1XC8yLcs80yv6JqnjAJz8chBt8kqJ3U9rpMr6ppTbSZV2giU=;9Xls1LPnl24bPCVBY8osHQ=="
+secured: "lf1G+kK63Qhvce2yp5M9k/nzeyKpLHuGwT202aSEQTVRo2jMYh3FJQsNdRzMpSIpIxXeBjVeYV+3yoFbeuzw38e74pRlp6lUAoXA7w/4T94ICPN8puCEozB/TIciD3fC1LzwXxAZY2qZvTgEaNO/nplR0qfSzejoIuMtuI/A60cW3LWyYSZSIawx3x/UZMc/9IHTOVnGeG9fFvVLGyVLI+PAIU0dm4A6Y61maKtthZ4ihLpx1mNkF7dGHKe20JZg7JIFRsGcPWz9USBUi6h369kCruPz29uuGVCZWOWdfgTiY+60WW+gA79dJ9yWi9witBLAYbk92mqaISjbWSWfsOfEqe/OSCxoMyqdLBAyrN/gKltBohwevxA2ACFSh4vUsiiZid0XhxejVYp/f/cwTv5RHmpbTaANpfwVHIGS1BDeo8f8SUN4GFLD4VUnukLotzDfutiKNpC3Yk4bZ02b6aINr5z/IOTi57VznNMyTvpMq1vjqQwY+GJRspuGDvS38xrotVGFwoneIXd9khdLyA==;9a7HhdLqjwne7BZZ0mIc7g=="
 ---
 

@@ -925,6 +925,50 @@
       ]
     },
     {
+      "path": "_news/2023-04-21-artificial-intelligence-examples-of-ethical-dilemmas.md",
+      "title": "Artificial Intelligence: examples of ethical dilemmas",
+      "excerpt": "To not replicate stereotypical representations of women in the digital realm, UNESCO addresses gender bias in AI in the UNESCO Recommendation on the Ethics of Artificial Intelligence, the very first global standard-setting instrument on the subject.",
+      "sourceUrl": null,
+      "webUrl": "https://www.unesco.org/en/artificial-intelligence/recommendation-ethics/cases",
+      "originalUrl": "https://www.unesco.org/en/artificial-intelligence/recommendation-ethics/cases",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.unesco.org/sites/default/files/styles/banner_mobile/public/2022-03/shutterstock_1803136597.jpeg?h=a4246cac&itok=-x8_-N4C",
+          "width": 400,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-20T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UNESCO",
+        "domain": "unesco.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-04-21-musk-counts-on-full-self-driving-as-next-tesla-profit-driver.md",
       "title": "Musk counts on full self-driving as next Tesla profit driver",
       "excerpt": "Elon Musk is counting on full-self driving and other new technologies and vehicles at Tesla Inc to provide the \"wow factor\" that will continue to drive the electric carmaker's value far beyond its automotive rivals.",
@@ -1380,49 +1424,6 @@
       "provider": {
         "name": "YAHOO!Finance",
         "domain": "decrypt.co",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-is-artificial-intelligence-your-friend.md",
-      "title": "Is artificial intelligence your friend?",
-      "excerpt": "President Joe Biden’s administration wants stronger measures to test the safety of artificial intelligence tools such as ChatGPT before they are publicly released, though it hasn’t decided if the government will have a role in doing the vetting.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thegazette.com/guest-columnists/is-artificial-intelligence-your-friend/",
-      "originalUrl": "https://www.thegazette.com/guest-columnists/is-artificial-intelligence-your-friend/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imengine.public.prod.cdr.navigacloud.com/?uuid=42c3d89e-0794-53ca-90e1-a8dad1ca8e09&type=preview&q=75&width=1200&height=800",
-          "width": 1199,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thegazette.com/guest-columnists/is-artificial-intelligence-your-friend/?amp=1",
-      "cdnAmpWebUrl": "https://www-thegazette-com.cdn.ampproject.org/c/s/www.thegazette.com/guest-columnists/is-artificial-intelligence-your-friend/?amp=1",
-      "publishedDateTime": "2023-04-18T16:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Gazette",
-        "domain": "thegazette.com",
         "images": null,
         "publishers": null,
         "authors": null
