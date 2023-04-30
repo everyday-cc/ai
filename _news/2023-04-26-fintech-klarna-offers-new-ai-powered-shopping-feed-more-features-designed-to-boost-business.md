@@ -7,7 +7,7 @@ originalUrl: "https://www.crowdfundinsider.com/2023/04/206171-fintech-klarna-off
 webUrl: "https://www.crowdfundinsider.com/2023/04/206171-fintech-klarna-offers-new-ai-powered-shopping-feed-more-features-designed-to-boost-business/"
 type: article
 quality: 28
-heat: -1
+heat: 28
 published: false
 
 provider:
@@ -25,20 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Klarna positions itself as more than BNPL with suite of AI-powered tools"
-    excerpt: "AI-powered tools and creator-focused features took centre stage at Klarna’s product update. Image source: Klarna. For a while now, Swedish fintech Klarna has been positioning itself as a “retail bank,"
-    publishedDateTime: 2023-04-25T10:04:00Z
-    webUrl: "https://www.altfi.com/article/10646_klarna-positions-itself-as-more-than-bnpl-with-suite-of-ai-powered-tools"
+  - title: "Klarna Spotlight, Spring '23: New AI-powered, personalized shopping feed and innovations for consumers and retailers"
+    excerpt: "The Klarna app's new discovery shopping feed, powered by Klarna's in-house developed AI product recommendation engine, gives consumers a feed of highly personalized product recommendations to help them find and shop items most relevant to them."
+    publishedDateTime: 2023-04-25T11:31:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-klarna-spotlight-spring-23-new-ai-powered-personalized-/2023/04/25/9800879.htm"
     type: article
     provider:
-      name: altfi
-      domain: altfi.com
-    quality: 38
-    images:
-      - url: "https://www.altfi.com/images/featured/klarna-positions-itself-as-more-than-bnpl-with-suite-of-ai-powered-tools.jpg"
-        width: 1200
-        height: 720
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "KF5Hj7H+oLlomkqEplNyc19P+scI4Qu8W70M7ESnFD9e3bbb3/ujWscJPeqy69fU03PGHzhY4LqSGgmin7Bh/ePSglY69obQlbF5kHJYvT3/ZNmbp6SR/78Vg+aKmShGqEXJ9Re+IgCnhjI0kopWvp25rkVkz1ein01Vj+hIKkz3BSRWdJxeAXtfqYjhEmIdBfwslV5aca7Ab/5TYyccoLBMrB1hLCIzzXtKUAbXfFTuPF367hYiM+yiUY+K1s2+afr5znmiZSie0iQnxtOVX2MRqCwPv4DPwjqRJe3Ix7oMPgVDpQngoBAl8weMkgxIDyaGOrS11MjvHnMuqnNZJ/H9GFSbCyvJUmvOfNhJvAHV8TZx37RupxfVkui6EPFMv4FROEd5B8vTqZzZvhiRSrBONWBwYNlJ87WTFFt2bzQcTaRqvusHEvQg20RUCimGBNjEIoUgTlWqGaAA7C3BSCa9CDbzs/zP/beNXw8K5tORxJuthitISpYPYndXv8/2aOkpKabol7wqd1GyDu3UBA==;zbTiDKYN7S0R4rKG6bZKng=="
 ---

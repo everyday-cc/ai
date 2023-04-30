@@ -211,20 +211,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Autonomous Delivery Robots Market 2023-2031"
-    excerpt: "What is the Autonomous Delivery Robots market growth? Autonomous Delivery Robots Market Size is projected to Reach Multimillion USD by 2030, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2030."
-    publishedDateTime: 2023-04-25T10:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/autonomous-delivery-robots-market-2023-2031-2023-04-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Deep Learning Camera Market Facts and Figures By 2030"
     excerpt: "The latest market research report on the Global \"Deep Learning Camera Market\" is segmented by Regions, Country, Company"
     publishedDateTime: 2023-04-25T12:19:00Z
@@ -281,15 +267,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Computer Vision Software Market 2023-2031"
-    excerpt: "The latest market research report on the Global \"Computer Vision Software Market\" is segmented by Regions, Country,"
-    publishedDateTime: 2023-04-25T10:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-software-market-2023-2031-2023-04-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
   - title: "Cloud AI Developer Services Market Research, 2023-2030"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Cloud AI Developer Services Marketsize, segment (mainly coveringMajorType (, Image Recognition, Language Recognition, Automated Machine Learning (AutoML), ,),End Users ..."
     publishedDateTime: 2023-04-28T11:52:00Z

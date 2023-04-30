@@ -254,6 +254,51 @@
       ]
     },
     {
+      "path": "_news/2023-04-27-machine-learning-in-retail-market-size-business-segments-innovative-strategies-and-outlook-by-2030-ibm-microsoft-amazon-web-services.md",
+      "title": "Machine Learning in Retail Market Size, Business Segments, Innovative Strategies And Outlook by 2030| IBM, Microsoft, Amazon Web Services",
+      "excerpt": "The Machine Learning in Retail Market research report encompasses a thorough study of the current situation of the",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-in-retail-market-size-business-segments-innovative-strategies-and-outlook-by-2030-ibm-microsoft-amazon-web-services-2023-04-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-in-retail-market-size-business-segments-innovative-strategies-and-outlook-by-2030-ibm-microsoft-amazon-web-services-2023-04-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-27T00:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-27-the-power-of-infrastructure-purpose-built-for-ai.md",
       "title": "The power of infrastructure purpose-built for AI",
       "excerpt": "Advances in powerful computing and the cloud are at the heart of the AI revolution. With faster, more efficient processing of vast amounts of data, companies can break through the",
@@ -1414,49 +1459,6 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-health-it-vendor-eclinicalworks-announces-azure-openai-ehr-integration.md",
-      "title": "Health IT Vendor eClinicalWorks Announces Azure OpenAI EHR Integration",
-      "excerpt": "cognitive services, and machine learning models from Azure OpenAI Service. eClinicalWorks recently invested $100 million in Microsoft Azure cloud services. “We are thrilled to combine advances in generative AI models with eClinicalWorks’ solutions to ...",
-      "sourceUrl": null,
-      "webUrl": "https://ehrintelligence.com/news/health-it-vendor-eclinicalworks-announces-openai-ehr-integration",
-      "originalUrl": "https://ehrintelligence.com/news/health-it-vendor-eclinicalworks-announces-openai-ehr-integration",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ehrintelligence.com/images/site/article_headers/_normal/image_%283%29.png",
-          "width": 690,
-          "height": 425,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-18T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EHR Intelligence",
-        "domain": "ehrintelligence.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

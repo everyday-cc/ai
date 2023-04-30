@@ -1,22 +1,28 @@
 ---
 category: news
-title: "Where traditional search and AI chatbots excel: A closer look"
-excerpt: "Learn key areas where traditional search engines like Google and AI chatbots like ChatGPT have the upper hand."
-publishedDateTime: 2023-04-27T13:00:00Z
-originalUrl: "https://searchengineland.com/traditional-search-ai-chatbots-397671"
-webUrl: "https://searchengineland.com/traditional-search-ai-chatbots-397671"
+title: "Chatbots and the new AI: What will Silicon Valley unleash upon the world this time?"
+excerpt: "Jobs. News. Art. Democracy. Equality. Education. Privacy. Truth. Your bank account. All will be impacted by Silicon Valley’s latest creation: “generative” artificial intelligence."
+publishedDateTime: 2023-04-30T02:00:00Z
+originalUrl: "https://www.thestar.com.my/tech/tech-news/2023/04/30/chatbots-and-the-new-ai-what-will-silicon-valley-unleash-upon-the-world-this-time"
+webUrl: "https://www.thestar.com.my/tech/tech-news/2023/04/30/chatbots-and-the-new-ai-what-will-silicon-valley-unleash-upon-the-world-this-time"
 type: article
-quality: 19
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Search Engine Land
-  domain: searchengineland.com
+  name: The Star
+  domain: thestar.com.my
 
 topics:
-  - AI Hardware
+  - AI Ethics
   - AI
+
+images:
+  - url: "https://apicms.thestar.com.my/uploads/images/2023/04/27/2045291.jpg"
+    width: 1240
+    height: 826
+    isCached: true
 
 related:
   - title: "Snapchat's new AI chatbot is already raising alarms among teens and parents"
@@ -200,20 +206,15 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 36
-  - title: "Chatbots and the new AI: What will Silicon Valley unleash upon the world this time?"
-    excerpt: "Jobs. News. Art. Democracy. Equality. Education. Privacy. Truth. Your bank account. All will be impacted by Silicon Valley’s latest creation: “generative” artificial intelligence."
-    publishedDateTime: 2023-04-30T02:00:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/04/30/chatbots-and-the-new-ai-what-will-silicon-valley-unleash-upon-the-world-this-time"
+  - title: "Where traditional search and AI chatbots excel: A closer look"
+    excerpt: "Learn key areas where traditional search engines like Google and AI chatbots like ChatGPT have the upper hand."
+    publishedDateTime: 2023-04-27T13:00:00Z
+    webUrl: "https://searchengineland.com/traditional-search-ai-chatbots-397671"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 33
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/04/27/2045291.jpg"
-        width: 1240
-        height: 826
-        isCached: true
+      name: Search Engine Land
+      domain: searchengineland.com
+    quality: 19
   - title: "Snapchat users flood app stores with 1-star reviews after launch of My AI"
     excerpt: "Users swamped app stores with 1-star reviews. Snapchat’s overall U.S. App Store review score dropped from 3.05 out of 5 to 1.67 over the past week. The number of daily reviews also spiked to at least five times the normal amount."
     publishedDateTime: 2023-04-25T18:42:00Z
@@ -242,6 +243,6 @@ related:
       domain: sciencemediacentre.org
     quality: 9
 
-secured: "YxSY9Fm8xnubixGgVxEOcn0SkDVv8gNGJljwOwdPrt7U6TgK2UYFanl3ew0TWiQt8T3RXDj3gsakq8tAelUo5dcHv+Ac/lK06bcULeaRTl7Azs9WCRpzu9G302x5GHuxFnvxEEYV8vGgGtSr74ULyl5ru0OhzhgrnOmOm1FEP1hXlt4/sXa3qcGehQhwnM45rdjMbg9VOCzv8T8CVS6EViHxB9lzNotkXxZj97F4zYs5eZ6lVGYU3FWTUoJRqmljeLR0L5pqz/Jv/zwoLSLtszJNJq9JnKiz8lCw6ugL/9zLVtJLjCWHp1UevIxzAVvTHn4yUIB6IELAdeQz7RZNsMvTHHAwf3scekcgKVRD32g2Ro23kYMLRkx6w00dweky6ZDkh2BJLDJjKa0/pQY36Prp5S+B5M1ReS2zm3gXTIZTvdOa3MTkzjm/pmGbcMiwFUsxIQ3Z0JwMRuO81Ogqpg8RmdYl55wURnxUbtgGbfGGZ660F7NhxoQkmmy2q9CGaTlGiIa1DE6m9y1oK4fbBw==;Vh+6l+qUxsIndNSzGns2ZQ=="
+secured: "1rzcko43CsC13HpEHdnYC4r9LByPueW33pwDp8mRhlHYq7eZFmbM0wk7vJ9LDnNY07szjtMnO9oc89dEfhcoCFhJKLSvSRUr62gNZ6Modrl4DCvMe4AZUVZte90Fqc0HdTLu1rSP3fJEUv5Rpu5jz+cPcDbs2u2z0avYrhCtJVmC83Fp6NsCLjerlT1nRE/TVnF4+oRLqj3XW7ADOOdpFgIDoFbQUx42DZJSjvl9OaVW1l7V50U4yMITzLXrYjc8V2d4c0knWeLlmo6CA3eODv+JVYqQS6yC1kAC48js76j/L66etdhVNdS5KPwCoQcOLVFVXv8UDZBTQ1l0A3P9RVxhn+682PGIcmO0cbLHKdM=;Lqp6LV8vgiDsN1miXJcsOg=="
 ---
 

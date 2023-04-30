@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) Chip Market New Development Strategy [2023-2030]| Fully Explained"
-    excerpt: "The \"Artificial Intelligence (AI) Chip Market\" Report covers the global and regional market with an in-depth analysis"
-    publishedDateTime: 2023-04-25T11:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chip-market-new-development-strategy-2023-2030-fully-explained-2023-04-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 87
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence (AI) in BFSI Market LATEST REPORT 2023 to 2030"
     excerpt: "Artificial Intelligence (AI) in BFSI Market” Are a Collection of Information and Analysis Obtained From Diverse Sources"
     publishedDateTime: 2023-04-27T05:33:00Z

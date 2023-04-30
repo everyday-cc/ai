@@ -41,20 +41,6 @@ related:
         width: 590
         height: 350
         isCached: true
-  - title: "Review launched into rules governing facial recognition data"
-    excerpt: "A government panel is considering whether stricter rules are needed for companies that handle facial recognition data. The Personal Information Protection Commission (PIPC) is mulling new ..."
-    publishedDateTime: 2023-04-27T23:59:00Z
-    webUrl: "https://www.asahi.com/ajw/articles/14508024"
-    type: article
-    provider:
-      name: 朝日新聞社
-      domain: asahi.com
-    quality: 39
-    images:
-      - url: "https://p.potaufeu.asahi.com/33ad-p/picture/26551601/841e78f590d1ac87d0500ebc876f4573.jpg"
-        width: 660
-        height: 437
-        isCached: true
   - title: "David Fisher: The real problem with police, number plate surveillance and facial recognition technology"
     excerpt: "With the number plate surveillance - and facial recognition - police have yet to inhabit a framework intended to manage or even avoid the occurrence of those adverse scenarios. In the case of automatic number plate recognition, it’s astonishing that is the case six years after police were warned."
     publishedDateTime: 2023-04-27T02:19:00Z

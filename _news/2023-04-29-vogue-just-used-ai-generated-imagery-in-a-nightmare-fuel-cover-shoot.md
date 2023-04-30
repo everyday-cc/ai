@@ -24,6 +24,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Scammers Fooled Mom With Daughter’s AI-Generated Voice"
+    excerpt: "When she picked up her phone, she heard her daughter’s panicked voice and an unknown man warning her not to call 911 and demanding a $1 million ransom."
+    publishedDateTime: 2023-04-29T16:55:00Z
+    webUrl: "https://www.thedailybeast.com/mom-received-an-ai-generated-scam-phone-call-of-her-daughters-voice-saying-she-was-kidnapped"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 37
+    images:
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_2953,w_5250,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1682785877/2021-04-27T163623Z_1297993916_RC2G4N9ZX2RX_RTRMADP_3_FRESHWORKS-IPO_ely56c"
+        width: 1480
+        height: 832
+        isCached: true
+
 secured: "ZN/Ulait3vhT4jjPkPYNyRtTnfxYFiQZHfTJqOahlJn/MwiwxmnXTm3xE5d+N/Euj5jnZl3Lpg40GR7ZVJy97NPAkYdlydlSWRj836lWViEMomjSJM8fWXQpBPXBayKwz6vTCARvvv/rY9A/FGhCNstgpZiQe+RLcd5kEy1y403X+YbnEMMb+123JEUK3212aBpn10EvPOgf+hqW8kEYm2UtvbIdX6z95I+8W14H90yFSatb5gAWfbxM7E+ZI7LtX3iuV6JMQ7BmNK+2RKLRvWalPn7tWWQoRg2fXYnrUQn/zaRgL9eC9vn3x0P5tJhdUFHPp9mNQPEOe8mdo+1jI+Z3sUIDJYalV9W53PzhxLl8SRgTdt0iZ4rbQxy+xlq3AewBFlF3p468L1DGZoxVU6uFygIDow8kLWlKVY5uTNuQ4gn3zzRF6FdGUd3V54t0SZ8l5AsCoJPiKaJrI4MBKeu2NHn0I7W/XPbXuqZgTh/b+Yb0k8JUNklPC7Tlzbm20G3w1qJ22L9OnyGccU4ZEA==;66w+lgduVLgSXPp+M4oePw=="
 ---
 

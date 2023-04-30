@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-04-28-facial-recognition-market-report-by-2023-2030.md",
+      "title": "Facial Recognition Market | Report By 2023-2030",
+      "excerpt": "Top “ Facial Recognition Market ” Size 2023 Key players Profiled in the Report are [, Neurotechnology, Nviso, Cognitec Systems, Daon, NEC, Techno Brain, Idemia, Animetrics, 3M, Facefirst Inc., Ayonix,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-report-by-2023-2030-2023-04-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-report-by-2023-2030-2023-04-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-28T09:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-28-french-privacy-chief-warns-against-using-facial-recognition-for-2024-olympics.md",
       "title": "French privacy chief warns against using facial recognition for 2024 Olympics",
       "excerpt": "PARIS — The French data protection authority's president Marie-Laure Denis warned Tuesday against using facial recognition as part of the 2024 Paris Summer Olympics security toolkit. \"The members of the CNIL's college call on parliamentarians not to ...",
@@ -53,7 +105,7 @@
       "originalUrl": "https://www.express.co.uk/life-style/cars/1763884/electric-car-facial-recognition-genesis",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -1327,49 +1379,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-17-ironyun-wins-loss-prevention-and-article-surveillance-solutions-award-at-isc-west-for-its-vaidio-ai-vision-platform.md",
-      "title": "IronYun wins Loss Prevention and Article Surveillance Solutions award at ISC West for its Vaidio AI Vision Platform",
-      "excerpt": "IronYun was named the 2023 winner in the Loss Prevention and Article Surveillance Solutions category at the Security Industry Association (SIA) New Products and Solutions (NPS) Awards ceremony. The award,",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/04/17/9795527.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/04/17/9795527.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1932792/IronYun_v1_Logo.jpg",
-          "width": 400,
-          "height": 204,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-17T06:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

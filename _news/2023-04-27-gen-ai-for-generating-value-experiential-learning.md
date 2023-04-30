@@ -21,17 +21,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "The Battle for Authenticity: The Importance of Detecting Human vs. AI-Generated Content by Intetics"
-    excerpt: "Intetics, a leading global technology company, published an article on the burning challenges of generative AI, existing AI-generated content detection tools, their current limitations and prospects,"
-    publishedDateTime: 2023-04-27T11:53:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-battle-authenticity-importance-detecting-human-vs-ai-generated-/2023/04/27/9803149.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 5
-
 secured: "f4/ikdN0WAVQA2FYyKpZLy3RSWTLp0Z18qh9jLssAVKCNoIgla47ys1YlBYeA86w4cXW1nNuRwLeMg0xETvlS+Izd6TLFKOLlExEfbcNl7Zeh0+2mFliC+5mDGvls0Ipr8a+6Gn1ikH7r0lWvtQQaRzaDFsrvF/aw4aBT3SKPN5ZRWNspL9PKQpKp+PbcKoj+EQmHNgOd8GHvkqyCUYSKOz8qOSSey8gqoaI4HXn+1fyoZHNLlMTXmdGuCiNWiRqjbAh8jPracOiCHNFrCrjYZyOH/3P5C9Ati5dtK3xZPKeNE8wGdzBADvkjP1jmiYfpEqiA88dngS2bYlau+dZ6ksOU0a+fA279kkTTTABUeOrmMRXqpVnhnVj9J1K/MLDMrwuHkRgYfkJ1Og9695rkYDE7vkNSr64OA1/zTJR4Ff/rTXpUgT2iP3HH1EJi11TbGs8anH0c67lORApjoNN493jm7Sj8qZigGLwr7gNCQQhNpYpHCeSDvfJfN5oR2Gaw3DwN3xI5G5yALWvrHYENQ==;9zlyaRNsScHJcld5pKoXvQ=="
 ---
 

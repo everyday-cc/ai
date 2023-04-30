@@ -7,7 +7,7 @@ originalUrl: "https://www.wsws.org/en/articles/2023/04/25/ozgn-a25.html"
 webUrl: "https://www.wsws.org/en/articles/2023/04/25/ozgn-a25.html"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,19 @@ images:
     width: 1600
     height: 900
     isCached: true
+
+related:
+  - title: "Why Australia must prepare for the future of artificial intelligence"
+    excerpt: "For your Average Joe, the rapid rise of artificial intelligence in 2023 has been absolutely stunning — but also downright scary."
+    publishedDateTime: 2023-04-29T04:23:00Z
+    webUrl: "https://www.news.com.au/technology/innovation/military/why-australia-must-prepare-for-the-future-of-artificial-intelligence/news-story/b1da1eeff4107d7a240b3e6eb2b4f808"
+    ampWebUrl: "https://www.news.com.au/technology/innovation/military/why-australia-must-prepare-for-the-future-of-artificial-intelligence/news-story/b1da1eeff4107d7a240b3e6eb2b4f808?amp"
+    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/technology/innovation/military/why-australia-must-prepare-for-the-future-of-artificial-intelligence/news-story/b1da1eeff4107d7a240b3e6eb2b4f808?amp"
+    type: article
+    provider:
+      name: Couriermail
+      domain: news.com.au
+    quality: 39
 
 secured: "dGxAT1khS/kqZwOeFZHCwCwnLn+sAR5D4PGLjfnT+KgjFRo2yx+OGQm3whwWBOTcehD9mmeD2RBfj/nQK26rGyyDTq9h1dkv6GDz4/ZyEXxfIlCUHnot9McgkpZQ7bo+G3fFhG8wY6YTOdR9LGoJjarmmDSAVUmo+o/iPpRzRe4Dlv9pnVbNmFjhZQ6hby9LJvY6ILM9eMiYrC29ncZ1Bcrp1C0Of/c7zVpOP8j9JvuxrC4SUVIlCKuVTLOh51PXaMzVZQD5WA5AwDGgHpwXDUf0ICgK5dE+YAJY4EJtdkyYyaM1Xdp5kPN3Ty3WqHTzWEijlhiuOBnZ8/6CVq4QifxSwdDh633zUIaIgPz/IW3bomk/YwcxXikTBkU2a9UhOCi9ycBjGyE7LN/2jdi09QRrqrI491gzdIKpUFtf8TL37b2Fnb/i7Zh85uJ6i4cmSGvOTTQP0I/fAtDvVp+03npV0fOuhMgKmcmE3rt7V0PX6+KKc4AqJb1wdW9+7yk7plrwkMEmt+/XM/lUOnTGUA==;1nUF1Wld3Dgwuo5ziH4Ntg=="
 ---

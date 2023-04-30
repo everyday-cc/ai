@@ -24,43 +24,91 @@ images:
     isCached: true
 
 related:
-  - title: "AI for STEM Education"
-    excerpt: "Enhance STEM education with resources and discussions that investigate the world of artificial intelligence, chatbots, and machine learning."
-    publishedDateTime: 2023-04-28T16:12:00Z
-    webUrl: "https://www.sciencefriday.com/articles/ai-for-stem-education/"
+  - title: "Kinetix launches text-to-animation AI for new era in user-generated content"
+    excerpt: "Kinetix has announced Text2Emotes, a generative AI technology that heralds a new era of user-generated gaming content (UGC)."
+    publishedDateTime: 2023-04-26T07:59:00Z
+    webUrl: "https://venturebeat.com/games/kinetix-launches-text-to-animation-ai-for-new-era-in-user-generated-content/"
+    ampWebUrl: "https://venturebeat.com/games/kinetix-launches-text-to-animation-ai-for-new-era-in-user-generated-content/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/kinetix-launches-text-to-animation-ai-for-new-era-in-user-generated-content/amp/"
     type: article
     provider:
-      name: Science Friday
-      domain: sciencefriday.com
-    quality: 56
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://www.sciencefriday.com/wp-content/uploads/2023/04/Copy-of-Getting-Started-with-AI-Instagram-Post-Square.png?w=400"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/04/kinetix-text2emote.jpg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "DorkGenius Launches as the Ultimate AI Tool for Generating Highly Targeted Google Dorks"
+    excerpt: "Dork Genius, a revolutionary AI tool designed to generate Google dorks, is now available for public use. The tool is expected to revolutionize the way"
+    publishedDateTime: 2023-04-29T15:19:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/04/32100121/dorkgenius-launches-as-the-ultimate-ai-tool-for-generating-highly-targeted-google-dorks"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32100121"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32100121"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 51
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "Jeeves.Ai Launches Revolutionary AI-Powered Content Creation Tool for Businesses of All Sizes"
+    excerpt: "Today marks the launch of Jeeves.Ai, an AI startup dedicated to making artificial intelligence accessible to the masses. The company, seeded by a team of"
+    publishedDateTime: 2023-04-28T15:31:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/04/32086787/jeeves-ai-launches-revolutionary-ai-powered-content-creation-tool-for-businesses-of-all-sizes"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32086787"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32086787"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 46
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "Interprefy Launches Next-Generation AI Speech Translator for Events"
+    excerpt: "M ultilingual meeting technology and services provider Interprefy unveiled Interprefy Aivia, the world’s first advanced automated speech translation service for online and live"
+    publishedDateTime: 2023-04-28T21:15:00Z
+    webUrl: "https://www.tsnn.com/news/interprefy-launches-nextgeneration-ai-speech-translator-events"
+    type: article
+    provider:
+      name: TSNN
+      domain: tsnn.com
+    quality: 39
+    images:
+      - url: "https://www.tsnn.com/sites/default/files/AI%20translation%20concept.jpg"
+        width: 8500
+        height: 4250
+        isCached: true
+  - title: "Yellow.ai launches Dynamic Automation Platform (DAP) with Generative AI, unveils new logo"
+    excerpt: "Yellow.ai, a global leader in Conversational AI, today announced the launch of its Dynamic Automation Platform (DAP), powered by generative AI, that enables enterprises to automate customer and employee experiences at scale with 60% reduction in their operational costs."
+    publishedDateTime: 2023-04-25T16:55:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/04/25/9801543.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 30
+    images:
+      - url: "https://mma.prnewswire.com/media/2061615/Yellow_ai_launches_Dynamic_Automation.jpg"
         width: 400
         height: 400
         isCached: true
-  - title: "Recommendations for handling AI in schools"
-    excerpt: "The Berlin Senate Department for Education has issued recommendations for teachers on the use of artificial intelligence (AI) in schools."
-    publishedDateTime: 2023-04-25T15:32:00Z
-    webUrl: "https://www.berlin.de/en/news/8171213-5559700-recommendations-ai-schools.en.html"
+  - title: "The Battle for Authenticity: The Importance of Detecting Human vs. AI-Generated Content by Intetics"
+    excerpt: "Intetics, a leading global technology company, published an article on the burning challenges of generative AI, existing AI-generated content detection tools, their current limitations and prospects,"
+    publishedDateTime: 2023-04-27T11:53:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-battle-authenticity-importance-detecting-human-vs-ai-generated-/2023/04/27/9803149.htm"
     type: article
     provider:
-      name: Berlin
-      domain: berlin.de
-    quality: 39
-    images:
-      - url: "https://www.berlin.de/binaries/asset/image_assets/8171261/ratio_4_3/1682428664/800x600/"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "7 popular tools and frameworks for developing AI applications"
-    excerpt: "Artificial Intelligence (AI) is a rapidly growing field with numerous applications ... It can be used to build a machine translation system that can translate text from one language to another. Theano is a popular Python library for numerical computation ..."
-    publishedDateTime: 2023-04-27T16:24:00Z
-    webUrl: "https://cointelegraph.com/news/7-popular-tools-and-frameworks-for-developing-ai-applications"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 19
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 5
 
 secured: "EqpP83nFJO2iGpcR+uSlY19DhW84MAcOG26NFB4a19CNiCovLKlJUXkKvdmPafecJl7TRwT1HBSbCauLXC+0L1d3w0UDZ7UudXQhTcbtUdl+mECV0d/PHqn/If1DIrGacUot9Td+bMwRjJt5nq9PWfCpmAsb7EFEzHVUkOVUqwupZTy/qr4GwTzQuEw0Tpxgl4U/ZTZR67gsZqFmXe9dHtB27L9woTRhg1T0/yFNNSppjeiFiruRvOxlIO+GpHEuGRqANzjYW2wEz2d6TyPvggsY4r7D5UUyqz/jX7f88CYm5dcfbZnSYSmaW+S3q9XNWufuYP60dgAqIm2yHg0rkGAi48B/kRl9KtfwSzlRJX4=;lSYrTb0G9g5qxMmzwCQC5Q=="
 ---

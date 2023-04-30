@@ -32,20 +32,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) Chip Market New Development Strategy [2023-2030]| Fully Explained"
-    excerpt: "The \"Artificial Intelligence (AI) Chip Market\" Report covers the global and regional market with an in-depth analysis"
-    publishedDateTime: 2023-04-25T11:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chip-market-new-development-strategy-2023-2030-fully-explained-2023-04-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 87
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence (AI) in Fintech Market Research, 2023-2030"
     excerpt: "The Global Artificial Intelligence (AI) in Fintech market is anticipated to rise at a considerable rate during the forecast period, between 2023 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
     publishedDateTime: 2023-04-28T01:35:00Z

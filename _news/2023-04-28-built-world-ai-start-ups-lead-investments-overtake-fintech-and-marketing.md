@@ -9,7 +9,7 @@ ampWebUrl: "https://diginomica.com/built-world-ai-start-ups-lead-investments-ove
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/built-world-ai-start-ups-lead-investments-overtake-fintech-and-marketing?amp"
 type: article
 quality: 75
-heat: 165
+heat: 155
 published: true
 
 provider:
@@ -71,20 +71,6 @@ related:
       - url: "https://assets.entrepreneur.com/content/3x2/2000/1682721803-GettyImages-1365582863.jpg"
         width: 2000
         height: 1333
-        isCached: true
-  - title: "Volvo Cars Tech Fund invests in AI startup"
-    excerpt: "Geely’s Volvo Cars said it had made a “strategic investment” in CorrActions, an Israeli deep tech brain monitoring AI startup which has developed a technology the automaker believes will “disrupt brain activity monitoring and may help us understand drivers even better”."
-    publishedDateTime: 2023-04-25T10:28:00Z
-    webUrl: "https://www.just-auto.com/news/volvo-cars-tech-fund-invests-in-ai-startup/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 37
-    images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2021/04/2020-03-23-10-54-146714_the_allnew_volvo_xc90_cropped_70.jpg"
-        width: 424
-        height: 283
         isCached: true
   - title: "3 Fintech Stocks With Huge Return Potential for Long-Term Investors"
     excerpt: "The fintech market continues to grow at a blistering pace, as consumers and businesses migrate online and use their smartphones and apps to make increasingly sophisticated digital payments and online financial transactions."

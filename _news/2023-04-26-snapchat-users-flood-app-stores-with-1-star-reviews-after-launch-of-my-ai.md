@@ -200,6 +200,20 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 36
+  - title: "Chatbots and the new AI: What will Silicon Valley unleash upon the world this time?"
+    excerpt: "Jobs. News. Art. Democracy. Equality. Education. Privacy. Truth. Your bank account. All will be impacted by Silicon Valley’s latest creation: “generative” artificial intelligence."
+    publishedDateTime: 2023-04-30T02:00:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/04/30/chatbots-and-the-new-ai-what-will-silicon-valley-unleash-upon-the-world-this-time"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 33
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/04/27/2045291.jpg"
+        width: 1240
+        height: 826
+        isCached: true
   - title: "Where traditional search and AI chatbots excel: A closer look"
     excerpt: "Learn key areas where traditional search engines like Google and AI chatbots like ChatGPT have the upper hand."
     publishedDateTime: 2023-04-27T13:00:00Z

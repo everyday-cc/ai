@@ -9,7 +9,7 @@ ampWebUrl: "https://www.express.co.uk/life-style/cars/1763884/electric-car-facia
 cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/cars/1763884/electric-car-facial-recognition-genesis/amp"
 type: article
 quality: 53
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Review launched into rules governing facial recognition data"
-    excerpt: "A government panel is considering whether stricter rules are needed for companies that handle facial recognition data. The Personal Information Protection Commission (PIPC) is mulling new ..."
-    publishedDateTime: 2023-04-27T23:59:00Z
-    webUrl: "https://www.asahi.com/ajw/articles/14508024"
-    type: article
-    provider:
-      name: 朝日新聞社
-      domain: asahi.com
-    quality: 39
-    images:
-      - url: "https://p.potaufeu.asahi.com/33ad-p/picture/26551601/841e78f590d1ac87d0500ebc876f4573.jpg"
-        width: 660
-        height: 437
-        isCached: true
   - title: "Sarah Harte: Fast-tracking facial recognition technology laws would be irresponsible"
     excerpt: "Introducing one of the most privacy-intrusive tools in policing needs careful scrutiny and a comprehensive public consultation"
     publishedDateTime: 2023-04-26T01:00:00Z

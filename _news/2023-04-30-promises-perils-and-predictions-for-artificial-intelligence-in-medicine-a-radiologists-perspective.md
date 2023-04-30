@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/paulhsieh/2023/04/29/promises-perils-and-p
 ampWebUrl: "https://www.forbes.com/sites/paulhsieh/2023/04/29/promises-perils-and-predictions-for-artificial-intelligence-in-medicine-a-radiologists-perspective/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulhsieh/2023/04/29/promises-perils-and-predictions-for-artificial-intelligence-in-medicine-a-radiologists-perspective/amp/"
 type: article
-quality: 71
-heat: 81
+quality: 73
+heat: 83
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/644dab252763341cef0d1575/0x0.jpg?format=jpg&width=1200"
@@ -45,6 +46,6 @@ related:
         height: 443
         isCached: true
 
-secured: "p48124UMC88yTM5qEayy0Q7MPaloMhRx0CqejYnVPSc34+vZCUxpFL54s6WD1awXWTpMPE3ZB3LIGMM6WgMzbbOHk/ywpxdJTBcAqvXkg89GUM6313al8ls6EQYTKP4FZ96NWokR2WAW5KS1x22KWe1EenkBgqlSVJCVUH2fFniXxtxnuyFE8BKA6+W0GSMSYnm1ebwYM8GtF2oQbp6yYU9pDnDbgRs2vJKsfc9tYUwPyWF+UqG7QxB2eyPbl78Jyr0xIiBwo1yS1L5Fs9yrqz6kkq2gkuwafOPhQIedNX8vU6ZrbJOTdouHGO7NOFfjhFiGG64giOEKt9ynMrTolL7wkxyI84ftSZgFdHRNozQ=;CpW4X6pITaQAiSGb9DYGlg=="
+secured: "gZKYOxEeDvyVtuKvdAk/OJGhlscbkPikXMwgUaGf0Vo01/XHpStJAhHd4Ecl4pb2YlTPChhP1i6b36HI6hLFRtm+STBgV4fqTtaCGtGIANDq/8a9GGRVsh24VyLA9N6/ekg4VbRWo2dn6EdGOfkknQ6xnev9IhX+PqTx1NF1hVk8wwe3+z7OFvID+ZieJJL0260IxKuYllAGSnPh3cMSPPMH0MAEmt02GGE8bMUHP8e0Mv+rQzXl6N291oq9lYkosqy4o1NsfY4t7jXr6DgOkWAK9KTi5vH2ZLMG4WVBma5s7lgfW6Np67b0DzeMmIsDJO22NnbnbTvYaA4GU8NWPpW1W/YRPiQY4CAenDtBqKGnYmZJazWK9aLKkT9l/J21boo21WmsMt7WKnr0ri90yP9DMziMKndikLPXjSelk07CDJmfoVkGwm2wLYm/U9XJFCUoYr1OxRRoYxVElsVVr9HUgWwy7c7RI8zAsS4oU2gNhqoxneKWBwP/Tj3Av6ZrJA/V1G3vAUJHrtl32nQ1AQ==;LZ3VuvU6czuD7v97Lp45xg=="
 ---
 
