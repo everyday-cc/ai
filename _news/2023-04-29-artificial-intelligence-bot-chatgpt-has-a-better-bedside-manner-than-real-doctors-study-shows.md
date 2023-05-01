@@ -135,6 +135,15 @@ related:
       name: Interesting Engineering
       domain: interestingengineering.com
     quality: 33
+  - title: "9 Ways to Use ChatGPT for Small Business"
+    excerpt: "ChatGPT is a free and easy chat tool that can develop fairly well-written copy and help users brainstorm. Could it benefit your small business?"
+    publishedDateTime: 2023-05-01T12:38:00Z
+    webUrl: "https://www.businessnewsdaily.com/chat-gpt-business-uses"
+    type: article
+    provider:
+      name: Business News Daily
+      domain: businessnewsdaily.com
+    quality: 4
 
 secured: "jO969C+6Mj7UPFkuZIfsa3RjqJkBNYb+YzOpxgMLM2DGjuLJjWDnHnnmZOsucjDws3LIUrhz3IiKfXXKx2LR6NBoH5yqcW8P44G5yuKkT1Q9wJ/w0T57b5x4+zVQfanFto7ktExTp0rGopTnRj4sywJufFFmtLd7Csujo24wCd/m50fyBpnB0RYnQ0nFl4mpwNgcbiVLi+eZGEIpkbjNQDOP4gJ1GQwyKSyEeN7IshAKBYpAQPI4aXILXElLlXh8wrTylHNGTwR+jamSbTJyAi7mm4sP+t4AJ9t7gSPK/tv3tbQRl2ZErd6NpfXAdGs29lofdBkXKs/Bk0hAOIayHnGE/X3BgN965lqESBEkrOI=;cLRlP0UG+MZKHvk2MOo+oQ=="
 ---

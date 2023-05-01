@@ -54,7 +54,7 @@ related:
     provider:
       name: Inc
       domain: inc.com
-    quality: 19
+    quality: 21
 
 secured: "dfsqyMkfq0i8F9uNRARSkQ2K2g3AEEp/2/3yOvw7rPOHqi6FOLoNetLjdN5P8DipNKsTO+n8uM+TOeKQEDhgxfmYb9pcRF0qgSf5ovaK5zRdx8SPkxb1+rm827BqayYdYsgZuhfdfKrk7klMydV7g+rYSVb9QLseBPiBIKJBY70wRyQCtFMKR6BbtGlaL/fd0j8TqgGDV7clxtQkOVQH5qPgGtBhoNuzsCjDltmbn0NB7kWOMx4CljKoGLQc/nCdnsZ7ecu/XOh0ex8UCv5I/pkyS8+qm5qGWpuQQ5Pg0wX7sFXrOWo/yYje3qtk5bmK1+YN7Xy7/6AkErP6CNpvy+ggPLWeu9Er0MCNUayivhI=;epIMaryGGeDz7VMvabv1MA=="
 ---

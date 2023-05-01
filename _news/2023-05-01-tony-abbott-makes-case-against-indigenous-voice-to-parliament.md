@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Tony Abbott makes case against Indigenous Voice to parliament"
-excerpt: "Tony Abbott has called for the Indigenous Voice to parliament proposal to be scrapped or at least significantly changed as he appeared before an inquiry into the suggested constitutional amendment."
-publishedDateTime: 2023-05-01T04:04:00Z
-originalUrl: "https://www.thechronicle.com.au/business/work/leaders/inquiry-into-indigenous-voice-to-parliament-backflips-on-tony-abbott/news-story/f3a1ee73ed72e4117fdf6b5455b2bd0e"
-webUrl: "https://www.thechronicle.com.au/business/work/leaders/inquiry-into-indigenous-voice-to-parliament-backflips-on-tony-abbott/news-story/f3a1ee73ed72e4117fdf6b5455b2bd0e"
+excerpt: "Former prime minister Tony Abbott says a key probe into the Indigenous Voice to parliament has backflipped on its decision not to let him air his views before the committee."
+publishedDateTime: 2023-05-01T14:35:00Z
+originalUrl: "https://www.theaustralian.com.au/breaking-news/inquiry-into-indigenous-voice-to-parliament-backflips-on-tony-abbott/news-story/f3a1ee73ed72e4117fdf6b5455b2bd0e"
+webUrl: "https://www.theaustralian.com.au/breaking-news/inquiry-into-indigenous-voice-to-parliament-backflips-on-tony-abbott/news-story/f3a1ee73ed72e4117fdf6b5455b2bd0e"
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: The Toowoomba Chronicle
-  domain: thechronicle.com.au
+  name: The Australian
+  domain: theaustralian.com.au
 
 topics:
   - Natural Language Processing
@@ -36,6 +36,6 @@ related:
         height: 366
         isCached: true
 
-secured: "12OdG3XaMxw2OcTa424qpQgGXVeD+3A2Imij1FT8CV/Y6Z9BkzEWvZzOtDUqnftP4+GLaRv7B+NSaZQ7v5QUFgdm4ElMqW0+uTOG9v4fGFEBBeZ7Hec+GmNPdauwhs5lHVi8niuknMZOZ+SzVX5Xcg/4tfBqPjMJWXkRxOLCMOhkg1IKndFAailWkHBGVhxxSQmajszFGwKeQJ7hI0IrHlMiTHi2TzGUSUnurm6Chn4QI/uPV5QNtQVfiA7JBnrVyhUmhWrPvuMHHwoCXHk0Ifcb145znZSww4U1vwKwiu6wOr2oJ5Fa1nOOVUuslK17HpPbd53K1cxTRw084a9I8TAfY72OBpY1KkqiPnrFUpx4WIeo3DJ7IiPbNxzS0onVZ6o75ZSHmgcs68q3lTd56GQehDf8NtIWVfLOM7yGADnYC/m43OO8+kqrMRghUDRCidoSN3ofnGPqUzhVqnXwlGG1+rddojiVdr1ip0Lu1B29HD/3Ix6p+fTg0NlyvvSuJDqNnj65rS1sJydurT5qPQ==;r6kMvAyS4NG6dIzNgQNBlw=="
+secured: "tqlZkrxse/YKzsl8dHZPrZY/CJb1Q/nQMbAFPAjr3aUh/Ta7VpjGuf1h1fQt73OGybAFHRGQ6myBMMfH83i1FSvfcKFBU9n30C+xo2BVOk1DhixXxjhtfC4FQD+wtOT0L5YlAkbfiHKDYQ2HBjUWHAS1eLrcpzoeoZaQAvGbbOj8oB/uEN1LM0zqvKuEaK9lPSMNG6Yk02vCqA1mhR0QMk1grgcWmh5hpjabbndLfpfHS4OgQSFE6Nt0YOr/ZKFnm5zhfZS5pPaj3unUKMPWgf0BSkeJ6CN2F3UV0UzYlcIPIlo2/eSpY/XHmTGAjvcLNpSg8V9o7e4q6jkcDHwg6vL4ClHfhFGnN2OdNTb91UX3x3iKwu7sMA4kfXArvk0GFv3h5uMmUoqEMKgSpg2b7PfwG3nnvteYpo8IXTqZN1mLKQlYhGPTXXfVs2hrLvqBzHqbI9VIgh0++Y7e6TZUXI3wb5ikE4eEBHF/BDXmKu2n/SF1+WDTbGNBOEVECnc7lNjxfc2POQivgJ4coSl70g==;ry5R0wfYQY63XoO9NOTMIQ=="
 ---
 

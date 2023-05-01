@@ -46,6 +46,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI lessons from healthcare: Overcoming complexity and embracing the cloud"
+    excerpt: "The healthcare industry has pioneered some of the most effective, innovative approaches for moving AI into production."
+    publishedDateTime: 2023-05-01T13:07:00Z
+    webUrl: "https://venturebeat.com/ai/ai-lessons-from-healthcare-overcoming-complexity-and-embracing-the-cloud/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 63
 
 secured: "IGYfkN77xHRqimmR9Grz1LTPig88E9a/TuxbzG5vWCfZkRZkp/iC+nTIO9IqW+NdzgxdeaZ5c173WpaA4wBwgVnQnfek1fCXdVQjItbasWxe50jsNXi3+9CGUaW9WeBocRSf2wTNMPE/bxTSjW2/AORBiOlmlK0NbezsxoFDjVyfxMWH4c9EiQ5Tux+2ejEX5kSZLUDF1GdRP9ynQPwKpuOPI6S1A0vgQA70tkbdLu4m3A/VvgxiS6pUeDNlLrheL+Yqhsu/BcrYXSithJpDbqRcavIasTMdyJ3BBcOFeUtABdoRO/ZKKVVrGRjhp3zYBPwMC+1CCQsM/2N7NzdulNbYZj6+mDOXfyXQD68L5XE=;PJneOYndBxESK8sHHHkz3w=="
 ---

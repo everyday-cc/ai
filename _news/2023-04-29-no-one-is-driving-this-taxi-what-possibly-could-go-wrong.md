@@ -26,15 +26,6 @@ images:
 
 related:
   - title: "No one is driving this taxi. What possibly could go wrong?"
-    excerpt: "I won't forget the first time I took a ride in a car without anyone sitting in the driver's seat. It happened one night last September when a Chevy Bolt named Peaches picked me up outside a San Francisco bar."
-    publishedDateTime: 2023-04-26T19:41:00Z
-    webUrl: "https://lasvegassun.com/news/2023/apr/26/no-one-is-driving-this-taxi-what-possibly-could-go/"
-    type: article
-    provider:
-      name: Las Vegas Sun
-      domain: lasvegassun.com
-    quality: 4
-  - title: "No one is driving this taxi. What possibly could go wrong?"
     excerpt: "While I grabbed my bag as the robotaxi appeared to be pulling over to the curb, Peaches suddenly sped up and — inexplicably — started driving away in the opposite direction. After seeing the dashboard display screen indicating I was now somehow an estimated 20 minutes away from my destination,"
     publishedDateTime: 2023-04-30T13:00:00Z
     webUrl: "https://www.columbian.com/news/2023/apr/30/no-one-is-driving-this-taxi-what-possibly-could-go-wrong/"

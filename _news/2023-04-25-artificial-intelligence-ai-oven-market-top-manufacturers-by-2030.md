@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 related:
   - title: "Global \"Artificial Intelligence (AI) Chips Market\" Set to Boom in the Near Future 2023-2030"

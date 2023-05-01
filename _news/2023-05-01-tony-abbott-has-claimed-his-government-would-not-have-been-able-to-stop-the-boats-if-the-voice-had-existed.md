@@ -28,15 +28,15 @@ images:
 
 related:
   - title: "Tony Abbott makes case against Indigenous Voice to parliament"
-    excerpt: "Tony Abbott has called for the Indigenous Voice to parliament proposal to be scrapped or at least significantly changed as he appeared before an inquiry into the suggested constitutional amendment."
-    publishedDateTime: 2023-05-01T04:04:00Z
-    webUrl: "https://www.thechronicle.com.au/business/work/leaders/inquiry-into-indigenous-voice-to-parliament-backflips-on-tony-abbott/news-story/f3a1ee73ed72e4117fdf6b5455b2bd0e"
+    excerpt: "Former prime minister Tony Abbott says a key probe into the Indigenous Voice to parliament has backflipped on its decision not to let him air his views before the committee."
+    publishedDateTime: 2023-05-01T14:35:00Z
+    webUrl: "https://www.theaustralian.com.au/breaking-news/inquiry-into-indigenous-voice-to-parliament-backflips-on-tony-abbott/news-story/f3a1ee73ed72e4117fdf6b5455b2bd0e"
     type: article
     provider:
-      name: The Toowoomba Chronicle
-      domain: thechronicle.com.au
+      name: The Australian
+      domain: theaustralian.com.au
     quality: 19
 
-secured: "Hlo554bLEDZ0kXJ9T2JcXCDxpNgJiXli9tiZCRyf4P+ZecuxNqco4gmGqFGxyO3AkVF4RJv+MdeRs9+CihwQ7yCEHHN1bthwT/WqwRfjo4/Xip0QLZ/ha6TEJ/PLrp3PRLxWR5spIP+PWPj4Hbxx/oaXrINNYJLzkFZA2m1bfq1lm5/arrjPLc4Mp6rXndH2B2PESGHN4NElCOWcxThlHP6F1yGD3f46gvC00exgHEyaNcF5Ec64iu+x977UeDmBKEbNDRbTWDKhLf6JdsSEZTeojUOL/amwpCCnVvX/ef8JP808vkbN8BvXwROqgg7jgB8IO/Vinr1DGjlyOeT0Unw7e7ORKJFntwIYNeNkr7E=;KV8/+uZMbPs4aH4vXon50w=="
+secured: "IFoW3yuX3o5vvFpnqh7Z0/bmdFK+2jRY+NCEAdE/IwC6w6TV0aB3u/rZSCSSuOF1YYdcgxjDmly8ZeixpRDoHB0ry7Au+YItqbec+PrUYQy3ogVzH5cpzjJ76aGvXKFt9LIg/uawcFSGpCdaXYs8+2AtjHjXT2gmEO1FpBbP77Hm1ImboIGE2OY8dVCG3gL9xU2ElXz1SKrqW0fzr1Cy5ZaTV2o3tSoQwX3nMJVVE7vB699NxqyOFr+ngPkuDnv5UsjEgtSXxj6CtJ3OZyFxcsTg7lyOM0pGhS1AJ3gApS9iSUNu9aQzR+e92EF6z3+L7VS5/chewMgNP6tls9KsyQsFz5uaWXUm0OEIZsnmQ5FY3RbGYWk3lcDaBTUe3+6Wki3FMRBhsyAgZq+iIQAbkME1zqqsZeokwiyPrj/Upugtkt1b37PgCeYT118sIiWSQqWKqxkW94CWWiTtLi9Mxujejd1LUpa5Mom/9GLGiZYRa18PJUPlSLJzJ2G/msrocXmydfcq/vL4xjZfuuACMw==;VT4FmozeXxmnFbudmZRY6g=="
 ---
 

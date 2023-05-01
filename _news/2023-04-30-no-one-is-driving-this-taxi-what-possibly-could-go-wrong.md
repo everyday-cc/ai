@@ -33,15 +33,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "No one is driving this taxi. What possibly could go wrong?"
-    excerpt: "I won't forget the first time I took a ride in a car without anyone sitting in the driver's seat. It happened one night last September when a Chevy Bolt named Peaches picked me up outside a San Francisco bar."
-    publishedDateTime: 2023-04-26T19:41:00Z
-    webUrl: "https://lasvegassun.com/news/2023/apr/26/no-one-is-driving-this-taxi-what-possibly-could-go/"
-    type: article
-    provider:
-      name: Las Vegas Sun
-      domain: lasvegassun.com
-    quality: 4
 
 secured: "FfLGvCp0WwWPB+e82+yJlJJrJ6vVZSnpG/4qt1VgufPCXInplZY/5naYaAzNf1kcqR9X2AP98GC2Yw4Wrv6rB752gYAFUyiDjq1pGsF3RHW56R2OQbnIGrJlMGbctHQcwTdog6r2R2is5jdFCwkkK+dtDKob9mMfWNcURF/rD0Yox2rQmukbn535tSno95idY8iYAgXHSk0jWeHzMPxH5GdNHHDeCX3Pwt4NnbOPHa52o+REVts+dbKTEW2I/Pfq7vLEQs0IUQ5BiWrWNZkxKHGdS2Twp4KgcliClrnpcaeMfoeoSTnxc6HV0a3XwuLB0SCgcq1Tx8XChfIPGKSdxMKqUWrzc9UwCaMzddtRttLSv/NzzWM9lUWtg7BsedehViHbQJyROF5UB/HpL8FMfgl7ZaIlNJ/G2PqzKwD/dgRpUfYFmBaQRbAWhUw+aNgSpuPcg3+8DhWdwS4PBLuaqxpY33YscfmLS8maaL9GEH09tS9I5I5SSsq0bxMHdlGLX3cI7D1sfPn0jOx1ytFcCA==;A3DzOA/ciLyzKKz/A7L1iA=="
 ---

@@ -1,28 +1,22 @@
 ---
 category: news
-title: "Houston Selected as Host Site for a 2nd Time for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
-excerpt: "Perficient will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students at No-Cost for a 3 rd time overall in the Fall of 2023. The 2 nd AI Bootcamp in Houston will be targeted at underserved high school students (9th-12 th grade) and will introduce these high school students to basic AI concepts and skills."
-publishedDateTime: 2023-04-28T22:19:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/04/28/9804443.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/04/28/9804443.htm"
+title: "Houston Selected as Host Site for a 2nd Time for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!"
+excerpt: "Perficient will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students at No-Cost for a 3rd time overall in the Fall of 2023. The 2nd AI"
+publishedDateTime: 2023-04-28T22:05:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/04/g32097194/houston-selected-as-host-site-for-a-2nd-time-for-artificial-intelligence-bootcamp-applications-now"
+webUrl: "https://www.benzinga.com/pressreleases/23/04/g32097194/houston-selected-as-host-site-for-a-2nd-time-for-artificial-intelligence-bootcamp-applications-now"
 type: article
-quality: 21
+quality: 1
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
-    width: 550
-    height: 353
-    isCached: true
 
 related:
   - title: "Miami Dade College Will Once Again Host Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
@@ -270,6 +264,6 @@ related:
       domain: benzinga.com
     quality: 0
 
-secured: "DYfBU5uy6DnjxMm+74Hi+TBL9Gc/nkwGlFhtmSriZIyLmCbeOkrfSaPLs6b/+0ZqlAKq6pfZE0pzm1KxZGSpd9Zdy6OIIWCAGonx2qz6larsP6rIYtOXPCMAnLEMQ60g7mGL9tW15DXi7MPME5TMsgxc+8jkp3yJApVP+FGoET+HMksJ3yyJnnSxM2HeprWfZVfgcF7d6kAyax5LhijoJAfZakgZLVZoc7+I2522jQuM8oy+cVFfZ3NvbH/750ISnlDIW3MLaBTufFzhrZsMux6F/Bc7bBGUFpI2r92ORUqlEflDC16OGOJkZtoMSryzi7F3WG6kKzWEWUgZP6gqGEFre0m/2Pl/09sK6qhM1yA=;U5X0XKZjTx7ced8G66Izbg=="
+secured: "zTGatwLZmpYofW450+nwqSLxb6i8TrOG9+wEU9shMXwM860XXcNXOO1GJGd+3KByx/e39JRLhCQ5ec0RwYpXprqozj/zNTYqat9vdZU+M96r8BJsJzGIDNwwY4A9Hx1jY6ynVdDDYUfyRF3Ys93B1NQ0BisMGeVni2kXwheBK3bpKVWmPK5kG3EoQgaZDyqDjvkwx5CWPS/UDfO+n/SyuZ6u1raggQrXnxA2IS0wNs60mRZzHc60DNqT4Do52MjuGiKAsnrm5ShOiqtKctD0iwBU8gB+U3jXUwak1j4+EI3xc2cBCmIgvHaNSncJksrdReBmynbk8rW5rkk7R/wFJLzeoOZgGpUHbKIOKF6QGpo=;kMdKuwtx+5DCrIJEYJQI4g=="
 ---
 

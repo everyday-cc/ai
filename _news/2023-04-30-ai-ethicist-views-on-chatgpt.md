@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2023/04/30/ai-ethicist-view
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/04/30/ai-ethicist-views-on-chatgpt/amp/"
 type: article
 quality: 87
-heat: 197
+heat: 207
 published: true
 
 provider:
@@ -137,6 +137,20 @@ related:
       - url: "https://insurancenewsnet.com/wp-content/uploads/2023/05/feature-2023-05-profiles-matiash.jpg"
         width: 858
         height: 880
+        isCached: true
+  - title: "6 CFO Skills Still Needed Amid Generative AI, ChatGPT"
+    excerpt: "Although CFOs may find new types of technology useful, the human element is still needed in some of the most critical parts of the job."
+    publishedDateTime: 2023-05-01T15:39:00Z
+    webUrl: "https://www.cfo.com/technology/2023/05/generative-ai-chatgpt-automation-technology-regulation-risk/"
+    type: article
+    provider:
+      name: CFO
+      domain: cfo.com
+    quality: 39
+    images:
+      - url: "https://assets.cfo.com/images/Zz05YmE1ZTE1MmU4MjExMWVkOTE1ZWMyOTAwMGU4OTMyYg==?width=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "ChatGPT: how to use AI as a virtual financial advisor"
     excerpt: "AI tools might seem overly complex or expensive to non-experts, but advances in natural language processing and machine learning could turn ChatGPT and similar products into virtual personal finance assistants."

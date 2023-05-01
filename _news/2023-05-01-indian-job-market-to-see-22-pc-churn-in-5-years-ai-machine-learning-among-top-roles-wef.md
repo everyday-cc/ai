@@ -43,38 +43,31 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Indian Job Market To See 22% Churn In 5 Years; AI, Machine Learning Among Top Roles: WEF"
-    excerpt: "The Indian job market is estimated to witness 22 per cent churn over the next five years, with top emerging roles coming from AI, machine learning and data segments, a new study showed on Monday. Globally,"
-    publishedDateTime: 2023-05-01T07:21:00Z
-    webUrl: "https://www.outlookindia.com/business/indian-job-market-to-see-22-per-cent-churn-in-5-years-ai-machine-learning-among-top-roles-wef-news-282695"
-    ampWebUrl: "https://www.outlookindia.com/business/indian-job-market-to-see-22-per-cent-churn-in-5-years-ai-machine-learning-among-top-roles-wef-news-282695/amp"
-    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/indian-job-market-to-see-22-per-cent-churn-in-5-years-ai-machine-learning-among-top-roles-wef-news-282695/amp"
-    type: article
-    provider:
-      name: Outlookindia
-      domain: outlookindia.com
-    quality: 65
-    images:
-      - url: "https://imgnew.outlookindia.com/uploadimage/library/free_files/jpg/ole_co_2023_04_29_115048.jpg?v=25022022"
-        width: 768
-        height: 1024
-        isCached: true
   - title: "Indian job market to see 22 pc churn in 5 yrs; AI, machine learning among top roles: WEF"
-    excerpt: "\"Almost a quarter of jobs (23 per cent) are expected to change in the next five years through growth of 10.2 per cent and decline of 12.3 per cent (globally),\" the WEF said."
-    publishedDateTime: 2023-05-01T07:29:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/indian-job-market-to-see-22-pc-churn-in-5-yrs-ai-machine-learning-among-top-roles-wef/99904346"
-    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/internet/indian-job-market-to-see-22-pc-churn-in-5-yrs-ai-machine-learning-among-top-roles-wef/99904346"
-    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/internet/indian-job-market-to-see-22-pc-churn-in-5-yrs-ai-machine-learning-among-top-roles-wef/99904346"
+    excerpt: "Read more about Indian job market to see 22 pc churn in 5 yrs; AI, machine learning among top roles: WEF on Devdiscourse"
+    publishedDateTime: 2023-05-01T04:39:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2435535-indian-job-market-to-see-22-pc-churn-in-5-yrs-ai-machine-learning-among-top-roles-wef"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2435535-indian-job-market-to-see-22-pc-churn-in-5-yrs-ai-machine-learning-among-top-roles-wef?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2435535-indian-job-market-to-see-22-pc-churn-in-5-yrs-ai-machine-learning-among-top-roles-wef?amp"
     type: article
     provider:
-      name: telecom.economictimes.indiatimes
-      domain: indiatimes.com
+      name: devdiscourse
+      domain: devdiscourse.com
     quality: 65
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-99904346,imgsize-98782,width-1200,height=765,overlay-ettelecom/internet/indian-job-market-to-see-22-pc-churn-in-5-yrs-ai-machine-learning-among-top-roles-wef.jpg"
-        width: 1200
-        height: 765
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/26_08_2020_19_45_56_5544402.png?width=1280"
+        width: 1280
+        height: 1280
         isCached: true
+  - title: "Indian job market to see 22% churn in 5 years; AI, machine learning among top roles: WEF"
+    excerpt: "Regarding India, the WEF report said 61 percent of companies think broader applications of ESG (environment, social and governance) standards will drive job growth, followed by increased adoption of new technologies (59 percent) and broadening digital access (55 percent)."
+    publishedDateTime: 2023-05-01T12:59:00Z
+    webUrl: "https://www.moneycontrol.com/news/india/indian-job-market-to-see-22-churn-in-5-years-ai-machine-learning-among-top-roles-wef-10507541.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 25
 
 secured: "t4WdTYHd0ZSDk57p1k9SVqT9xVZWh41Tcoj/ZfY5NBHTCgmby6Mk99GooxAY0W/nuxR0ZWDlZJ62ccXct9/HMxK0lYj9ttsFnmZI47V8q9Uc7Lw2If5iwwa5rfstUlxhiUEgshRjH67qw6oajK6rndfnF/dD6xkX7AXYJnAQ075tVrjUC4qI5doS1GFapYaxU2TbQOS6AGvDPQYRaqwqVxPf9UGREmG7sV/7yWnrQzoaHS7a5bT29iM7Oo7UCloSmfXJ1+wYCahY4HcshqI74qn5s9LaKq6V6cdOV+xJQtB4qzOOTvrL1NtHaR6GA04ivk1p76w5Ao7ldvbMWZ08FL011M27o4vJKJzXgcfq7ovgWeM1AIXAubV6MV2XkGNTYx5Ws6Jz39FAfdQNmeYcvym0R4fuThlcA6zGWxiMSxUw+ZbC3Q2Kdkn4ybAsqTxTXBzKSqBmKldQvSNNNPo/BN9k8zm2jHtH+CjFT24NO4Yt5+fbmpzVFFramgdTvE5tzey70e6NJBinmT9fx+JeTw==;LbZqxWbIbjUirjUU6VD93w=="
 ---

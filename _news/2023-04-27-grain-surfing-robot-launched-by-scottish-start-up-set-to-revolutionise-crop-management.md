@@ -24,6 +24,22 @@ images:
     height: 800
     isCached: true
 
+related:
+  - title: "Powering Justice: OpenNyAI and AWS team up for Plug-in Innovation Challenge to revolutionise public sector ODR"
+    excerpt: "Are you passionate about Online Dispute Resolution (ODR) and want to make a difference in the public sector? OpenNyAI and AWS have teamed up to launch the Plug-in Innovation Challenge, aimed at promoting ODR and encouraging innovation."
+    publishedDateTime: 2023-05-01T11:07:00Z
+    webUrl: "https://yourstory.com/2023/05/powering-justice-opennyai-aws-team-revolutionise-public-sector-odr"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 34
+    images:
+      - url: "https://images.yourstory.com/cs/2/21ccd920843c11ec88170b5512a0f9d5/Image9tvr-1682929581598.jpg?fm=png&auto=format"
+        width: 800
+        height: 400
+        isCached: true
+
 secured: "fjTF7Srobe+rjv7lkGGqO5c9E1Sl3qr5o/9Kxz3TastshWeXSvidNLdpOeqAb8hK2yyycHSD1MHXrinu+CipTwMIORd6G9e7jWWfRDKqcQlrp+zYb9KD+ozAoUfzfAJAaC1Jyr2AuLsFtS696tYG2tsNCg36EFGrfWhlHoSsnwv2Uz52AovyVaO6KngwSeGeOvgFv6CfE6LiZx9FtIRB4+JzdIdTarD2PrfS5391cYEjUPwoXbr7YdL0Y6NTJFPHU2do6UuHAMHEYIQ1GgpYzQxDmGf0Su7DrK1cjPNVqX9bqpH7WEvhxCSpDS/BKjgcrK/gshqFrRv2Hz0xtWXhMO9KTD+v+W1wAGqjCA6NUgU=;w8hXIQEBoL9e8wfGjip+eg=="
 ---
 

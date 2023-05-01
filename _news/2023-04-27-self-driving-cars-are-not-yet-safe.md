@@ -24,6 +24,22 @@ images:
     height: 1815
     isCached: true
 
+related:
+  - title: "Self-driving cars will make Arizona roads safer"
+    excerpt: "As a personal injury attorney with more than 30 years of experience fighting for the rights of injured victims, I’m ready for the driverless car to put me – and others like me – out of business."
+    publishedDateTime: 2023-04-28T16:53:00Z
+    webUrl: "https://azcapitoltimes.com/news/2023/04/28/self-driving-cars-will-make-arizona-roads-safer/"
+    type: article
+    provider:
+      name: Arizona Capitol Times
+      domain: azcapitoltimes.com
+    quality: 24
+    images:
+      - url: "https://azcapitoltimes.com/files/2017/06/self-driving-car.jpg-web.jpg"
+        width: 620
+        height: 330
+        isCached: true
+
 secured: "9HyTmPpU8ulyCNZ5QuL7/egkrdaRREr0o8S0/b3mEcpBC04SOsSQa/SbnDKZYGmJV0yBq+fAhknZW5XuV4TJsoMKI79SGaMAIdFngCGO+SlmmF0rFiS9M49uKQrdEIG2kTb6AVw7ZLQ1+s4ENV/opIZdhbux9QZTFG8oBFNAX8dFb0D5ZawBo/tj/ntj3Kw5xCtxZnFPtcuIL+3s3vaPx0O91itXokOMXCocP8qUQ/0FjH+evovrl1xsiMx1nZKS7P4r2OE0jLuZLlxjwm8vtM5WHvpRDW7/PQ31mbTJJNtSRujBwYvPsI21nzv7gMoJol160mwopA88ylbZ8CJ0UCqQ+dfG7163+QxgMEv06Co=;eAgbZHl2LrHCLQJDMyo6bA=="
 ---
 

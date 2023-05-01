@@ -169,19 +169,19 @@ related:
         width: 505
         height: 315
         isCached: true
-  - title: "Google Cloud and Microsoft tease plans to integrate generative AI into core products"
-    excerpt: "Each hyperscaler used recent earnings calls to highlight the momentum and eagerness its customers have for AI."
-    publishedDateTime: 2023-04-26T21:08:00Z
-    webUrl: "https://www.ciodive.com/news/Google-Microsoft-earnings-AI-Copilot-Bard/648727/"
+  - title: "Microsoft Earnings Takeaways: Cloud, Generative AI, The Path To E7"
+    excerpt: "Analyst reports point to the potential for Azure deceleration slowing, an end to customers optimizing cloud spend and the sales potential of generative AI. Better-than-expected results from Microsoft’s latest earnings—not to mention those of cloud rivals Google and Amazon Web Services—led to a mix of analyst reports hopeful for Azure deceleration slowing,"
+    publishedDateTime: 2023-05-01T14:20:00Z
+    webUrl: "https://www.crn.com/news/cloud/microsoft-earnings-takeaways-cloud-generative-ai-the-path-to-e7"
     type: article
     provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 47
+      name: CRN
+      domain: crn.com
+    quality: 54
     images:
-      - url: "https://www.ciodive.com/imgproxy/MI5IQ_BJKiJLO9R8fZV_cLYqhxBY2MrXuEF6Lh4Lfdo/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTEzMzc0MDM3MDQuanBn.jpg"
-        width: 770
-        height: 435
+      - url: "https://www.crn.com/resources/027d-17198c0bb2a2-47b52df5a838-1000/nadella-intro2.jpeg"
+        width: 610
+        height: 457
         isCached: true
 
 secured: "QI5pFh5tqOjT+AWSZXoN5uwa0VVdmTLkgOuodMVA+hqHAUaNJjhapRRm3wjBIyY46kn9M+z4Gogt1k8q75eUXsJ1PNwVIgUDsLFqQ8HbFa976dPjRMvBnSekYKAQWmrFrHRkPYO3xOgtAtXku+J2uwxDXS+uu0o7+f0wZHs6ntNSHONw0ljI3MhOH3zZNBBIfRFrOaVDEA2QhRrvI6J35mw2Vn9AkndOMMWFW9hURZEDcLn9hziGzTop6639fvJM0/Y65uuNxaZjcJiShE3sutVuzM5TAT6AXaGf6ZSzx5X2BZxrKWxA79DhmKA5hSKPoLOWEZiqxyGRceTo4LinZ5VO+BKVdBPg8xz44QerWLL7fYQ5dbT7oK6qvhPDMXSptShDzVLVcVCtWrA+Uj5ve9gQQ8wHEOWKAqf4m46CDYnz7KVOdaj2kOlQmkq7A9BzuW95vyfo3Gt5W5jK6M5AbtONJFU2gO0vDMqB5Isv8vahu+rFk9L6sMLDN9Iv78RbTiusM0YDrZCEVQgFKo4FFg==;WdUwNix7HKrM1lfSTqE2AA=="

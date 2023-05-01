@@ -25,20 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "How Artificial Intelligence is Changing the World L.G Epsom College"
-    excerpt: "Artificial intelligence (AI) is rapidly changing the way we live and work, and its impact is being felt in almost every industry. From"
-    publishedDateTime: 2023-04-30T13:02:00Z
-    webUrl: "https://www.thisislocallondon.co.uk/news/23491282.artificial-intelligence-changing-world-l-g-epsom-college/"
+  - title: "For Artificial Intelligence To Change The World For The Better, We Must Fight AI Bias"
+    excerpt: "Garbage in, garbage out.” The same principle is true for AI, which is ultimately just another machine-automated application of data analytics."
+    publishedDateTime: 2023-05-01T12:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/01/for-artificial-intelligence-to-change-the-world-for-the-better-we-must-fight-ai-bias/"
     type: article
     provider:
-      name: This is Local London
-      domain: thisislocallondon.co.uk
-    quality: 41
-    images:
-      - url: "https://www.thisislocallondon.co.uk/resources/images/16726159/?type=og-image"
-        width: 941
-        height: 630
-        isCached: true
+      name: Forbes
+      domain: forbes.com
+    quality: 57
 
 secured: "JKftIzVo48LhvM7gOoFmE4O554/bLollXFngSSrUgfEeH9CiNWSfD/BVqVAsNF3mHBzbaW2dhwJF2PQ9N54lKF3WW1f2yFZ07ag77trpC07vMu+b8jr0wZR4vbrlYd06FebJr0x4dQs+bvaebB2qqfeBQNewSlyn6iGt3ljgrwK/jC0TfOoRFFWzsu57fZDpqfkjv2CVeWF8dunrhFyi+XbuODRysfRbp3ShLLGA0ZrqTmUDhIE0TqdmMHNl5kWKzlENYABDFqtEJxCByaPDasSanllc8LiXPSlv5NPVStOlbWg9Yaz9dsURyA1YQ6HNO/n7atRF4GrtX6aPiPzQIOZ+6sX1L3JZ9jKuiUvBJ34/olwT/ZmekosKaJzEoa1eig/ThOePp7iZq+cQLgxBWek+K2XaX/zW6SzbzT6x1EKWJgYg8tsS2eXdhUDdjtBB3oYce3kvixN9d3fEf175N+2j0jG8Q0unI1Rsyj+/QI6uWhxtSOTNIxS8BjMZyM1vJbglcaNTZDExNNVi4qbyeg==;Xh7BBcG1aaEWXuYcGbjhgg=="
 ---

@@ -26,22 +26,15 @@ images:
     isCached: true
 
 related:
-  - title: "IIT Mandi Startup Develops AI-based Affordable Solution To Detect Respiratory, Genetic Disorders"
-    excerpt: "IIT Mandi startup has built a cost-effective Artificial Intelligence based affordable solution that has the potential to detect respiratory abnormalities, hepatobiliary diseases and genetic disorders in children."
-    publishedDateTime: 2023-05-01T10:59:00Z
-    webUrl: "https://www.timesnownews.com/education/iit-mandi-startup-develops-ai-based-affordable-solution-to-detect-respiratory-genetic-disorders-article-99909650"
-    ampWebUrl: "https://www.timesnownews.com/education/iit-mandi-startup-develops-ai-based-affordable-solution-to-detect-respiratory-genetic-disorders-article-99909650/amp"
-    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/education/iit-mandi-startup-develops-ai-based-affordable-solution-to-detect-respiratory-genetic-disorders-article-99909650/amp"
+  - title: "IIT Mandi startup develops AI-based solution to diagnose respiratory, genetic disorders"
+    excerpt: "The cost-effective AI-based medical imaging solution can diagnose respiratory abnormalities in a few minutes. It can help in the early detection of many diseases."
+    publishedDateTime: 2023-05-01T11:44:00Z
+    webUrl: "https://yourstory.com/2023/05/iit-mandi-healthtech-startup-ai-based-detect-respiratory-disorders"
     type: article
     provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 44
-    images:
-      - url: "https://static.tnn.in/thumb/msid-99909650,updatedat-1682938785746,width-1280,height-720,resizemode-75/99909650.jpg"
-        width: 1279
-        height: 720
-        isCached: true
+      name: Your Story
+      domain: yourstory.com
+    quality: 9
 
 secured: "ZYZz4QIZS8l6L8Up8RZpey7gMStQOALjkWJ+Ag1/cOTtokKeaE0dzWVFcNcNGc6nViXDSwVJd+pmEeOULS2FxgfvSE6qcRv688lchr1NfZcICqYh55t1BpiYTV5A+xi2gE9U8kofTxrSxiEDvOJWex3ayBKNE36Q2MlnOTRZOvuMM1l2/gpjXF3tS7hitlhLqEqx84twwa6UwzFfaG6V3yCHAApTaCwyEAw7oq8VDtSCcPlk/va3/uiTUWHKTl0NfBakIS3/tX5otU4YUlcNdFc4kwK8uSzIkSBi45sySfBBVw+y4OHzrlvl+LIx5OLz2lrkfOpcJ0r5sk/FoVZV/YSBwdf7lW5iPLy3cZjf9rZW0C/cbbpbS0wieIHOJspmXtW08ID8muI7obQYm16bCMSONmhVBrBOg4GsezprLKaYhsSlyDQ8Lgrp46i52LR/VAVUPP1BPOnqZj7T/8W7HEQZl3CIOhInjJDL33PvGZpbcU5OUoSUHgzLs5d4KVofAvwsmefrF0lQutTzFPgavQ==;10A0Wzce/8G9YPtLQz2Xsw=="
 ---

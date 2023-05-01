@@ -160,6 +160,20 @@ related:
         width: 505
         height: 315
         isCached: true
+  - title: "Microsoft Earnings Takeaways: Cloud, Generative AI, The Path To E7"
+    excerpt: "Analyst reports point to the potential for Azure deceleration slowing, an end to customers optimizing cloud spend and the sales potential of generative AI. Better-than-expected results from Microsoft’s latest earnings—not to mention those of cloud rivals Google and Amazon Web Services—led to a mix of analyst reports hopeful for Azure deceleration slowing,"
+    publishedDateTime: 2023-05-01T14:20:00Z
+    webUrl: "https://www.crn.com/news/cloud/microsoft-earnings-takeaways-cloud-generative-ai-the-path-to-e7"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 54
+    images:
+      - url: "https://www.crn.com/resources/027d-17198c0bb2a2-47b52df5a838-1000/nadella-intro2.jpeg"
+        width: 610
+        height: 457
+        isCached: true
   - title: "Copilot Tech Shines at Build 2023 As Microsoft Morphs into an AI Company"
     excerpt: "Developers are in for an AI treat of all the information and guidance they can consume at Microsoft's big developer conference kicking off in Seattle on May 23."
     publishedDateTime: 2023-04-27T17:30:00Z
@@ -173,20 +187,6 @@ related:
       - url: "https://visualstudiomagazine.com/-/media/ECG/visualstudiomagazine/Images/introimages/BuildWindowsLogo.jpg"
         width: 647
         height: 450
-        isCached: true
-  - title: "Google Cloud and Microsoft tease plans to integrate generative AI into core products"
-    excerpt: "Each hyperscaler used recent earnings calls to highlight the momentum and eagerness its customers have for AI."
-    publishedDateTime: 2023-04-26T21:08:00Z
-    webUrl: "https://www.ciodive.com/news/Google-Microsoft-earnings-AI-Copilot-Bard/648727/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 47
-    images:
-      - url: "https://www.ciodive.com/imgproxy/MI5IQ_BJKiJLO9R8fZV_cLYqhxBY2MrXuEF6Lh4Lfdo/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTEzMzc0MDM3MDQuanBn.jpg"
-        width: 770
-        height: 435
         isCached: true
 
 secured: "eIAX+XjbWzGrUSP8g9leE/BT+ykRjUz94nCa5gtMIgq/lZZZzSMZ56BmXlCYeteJ9GBMT5KEDS2Mebl0xe0xDuLH/jMWzK6hfCcrCHdXVAsL5BGdOx3M22rdCWnWynIMFycyYns++VJoKe8+lgkCPigL4eAvaM0GQb2BConX4O9MP9lmQoojUKwaI3Zzrrw5tMRhfyLTKEHHsmr6Oo4Wpg0sjd7jQau6igK/DxOXLP7Yqernjkiditx3aJX6M2HTzj1sUUiMi2wePvrFiFnvNBOeJhvGBZT9bm0wYZcOoBkuQj6SMHRb1MbIpDdrYnS5UIulDtWCsy3N9PhBxcrI/ewqRF4aUyucLVp6WceqP/BKi97Y6vgLLe8ZjvpSP6MocKLvVtn1Fk+rbP8MstPeOq/8ZzRrT9eeENq4MsgkOe7T9wAv0K5SAtOxgkW+iiwMs/V43+4sOq6kdJCZacKLIULTbY5OHosrYFrP5lruAf/OS2miE5+LsLByH6n1Aq+h8Kaz91cwxE50RK5AWs1uVw==;Pki6NLhOAVb+3Us0PfP4Eg=="

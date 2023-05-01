@@ -9,8 +9,8 @@ ampWebUrl: "https://www.medindia.net/amp/news/how-does-hiv-drug-help-protect-aga
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/how-does-hiv-drug-help-protect-against-build-up-of-dementia-211583-1.htm"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Medindia
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "HIV drug shown to help protect against build-up of dementia-related proteins in mouse brains"
-    excerpt: "Cambridge scientists have shown how the brain's ability to clear out toxic proteins is impaired in Huntington's disease and other forms of dementia—and how, in a study in mice, a repurposed HIV drug was able to restore this function,"
-    publishedDateTime: 2023-04-26T21:03:00Z
-    webUrl: "https://medicalxpress.com/news/2023-04-hiv-drug-shown-build-up-dementia-related.html"
-    ampWebUrl: "https://medicalxpress.com/news/2023-04-hiv-drug-shown-build-up-dementia-related.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-04-hiv-drug-shown-build-up-dementia-related.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 48
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/hiv-drug-helps-protect.jpg"
-        width: 996
-        height: 996
-        isCached: true
   - title: "HIV drug may help fight dementia — and other good news you may have missed"
     excerpt: "Turn off the cable news and tune out the doom and gloom — and get ready for your weekly dose of “good news.” Here are this week’s best feel-good stories from Yahoo News partners."
     publishedDateTime: 2023-04-29T15:52:00Z

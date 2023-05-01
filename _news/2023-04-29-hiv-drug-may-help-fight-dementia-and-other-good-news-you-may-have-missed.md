@@ -41,22 +41,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "HIV drug shown to help protect against build-up of dementia-related proteins in mouse brains"
-    excerpt: "Cambridge scientists have shown how the brain's ability to clear out toxic proteins is impaired in Huntington's disease and other forms of dementia—and how, in a study in mice, a repurposed HIV drug was able to restore this function,"
-    publishedDateTime: 2023-04-26T21:03:00Z
-    webUrl: "https://medicalxpress.com/news/2023-04-hiv-drug-shown-build-up-dementia-related.html"
-    ampWebUrl: "https://medicalxpress.com/news/2023-04-hiv-drug-shown-build-up-dementia-related.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-04-hiv-drug-shown-build-up-dementia-related.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 48
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/hiv-drug-helps-protect.jpg"
-        width: 996
-        height: 996
-        isCached: true
 
 secured: "WbYIO6IDxZilAC3ox/9XAPTwHDaYB6xJy+eqy6+chcu3ylVcBM+ORtlLIKzhI6vrKT5aniW90/pNnEVQ7OBHjXdr8eGP/kdczJLtjSCP+xufDFuNh56mArT74Nz2YwQ1RxKunlsgprmr9X4YOiXdmT2UbU3StrpNbFXCqfsRZQOC/LGILQREjse6qTjJFIUA++BfIizRINxrw/DkEzQ4GdT+NLBSY4bxcwlkB/sYtZ5Fn3yTBadMw07uBdXke/cdc4JMXY0S8k0JKQShcfN834hOR1KMdZmUTsc9EnRNOb991DFPX57I8NlWJKv0f3Tp0Ny3fnpxSKwxmISKzY50tuO1PCTDkXeO+NhSFiVkubrP/d4zlZ8mFynRRpT3LHtjhZ1edTywT0+ewW+rK5QYq3iIKmFfhFX4v48fQ6UYbXjPsQXK0p/qUorQLbuL+u9VHBff5bEDw8xahxlifNjfqco+6iQbZVGnDjdxJpLaW9D0Lj8qhfb8jszyetTDRJTN6MSWXxqLw8oYKvqM/VF0kw==;1oj0SZnvX25Sp2gAkRj+lQ=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/apple-is-working-on-an-ai-h
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/apple-is-working-on-an-ai-health-coaching-service-according-to-reports/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: ZDNet
@@ -30,22 +30,24 @@ images:
     isCached: true
 
 related:
-  - title: "Apple to Expand Health Initiatives With AI Health Coach, Report Says"
-    excerpt: "Users would be motivated to exercise, eat well and improve their sleep based on individualized plans from the service, according to a report."
-    publishedDateTime: 2023-04-26T21:54:00Z
-    webUrl: "https://www.cnet.com/health/mental/apple-to-expand-health-initiatives-with-ai-health-coach-report-says/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/apple-to-expand-health-initiatives-with-ai-health-coach-report-says/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/apple-to-expand-health-initiatives-with-ai-health-coach-report-says/"
+  - title: "Rising AI and machine learning investments powering senior care advancements"
+    excerpt: "It’s perhaps no surprise that investment in AI and ML in healthcare rose over the last two years, according to new research from commercial real estate and investment company Jones Lang LaSalle."
+    publishedDateTime: 2023-05-01T04:17:00Z
+    webUrl: "https://www.mcknightsseniorliving.com/home/news/tech-daily-news/rising-ai-and-machine-learning-investments-powering-senior-care-advancements/"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 87
-    images:
-      - url: "https://www.cnet.com/a/img/resize/b51c7491a37488da50088db52ecc742f50031f18/hub/2023/04/25/24906f59-9de8-4dd1-8ee7-82ce372523dd/gettyimages-1360358389.jpg?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
-        isCached: true
+      name: McKnight's Senior Living
+      domain: mcknightsseniorliving.com
+    quality: 33
+  - title: "Tesla's not even in the top 10 of self-driving firms, according to experts who ranked all of the leading companies working on automation"
+    excerpt: "The list comes at a particularly volatile time for the self-driving industry, which has faced a number of headwinds over the past year, including waning investor interest, less available funding ..."
+    publishedDateTime: 2023-04-27T00:00:00Z
+    webUrl: "https://www.businessinsider.com/tesla-sef-driving-not-in-top-ranked-autonomy-guidehouse-research-2023-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 16
 
 secured: "0me+ENTxVMpEC8QznnPwGS4TZSiMJYycY6jTl2P5uJNAJtDL8CvOI7Rj+v+JXYuyK2CHGUAwmvYKg8y+WC2H26BUz4NE8t8ekJLhxq0MpF0pR9M/Q6e5EvG+/YcXHt55rGk64ZCIFz8/xxb5j68MjCMG4PCugzXTP4T3fJDWkBSqX9BtuEG2RZCXlO7USrA+sSePk2RDK7aIDv/dMwHjx90gIiAaJvGFAdGH269CrIQR0hrnFYcgHMI8CmWCtbsyMVTlzhPfyiFBkQDYRNCMXY17nvr2bBJBZQ6fHPjWpx0+1lcsy0gLru42ZoIysydogunRfrqbxud2Nb4PmGZ4lQqZbbNutX/o1mxh9UnggHftdwP7bw2qNQOqXpHnHK5je2/dwlS56rBnC70M/XCb5UTzIimkNr5hScSqwzz3hOUFGyCgIO71J9KkFlfPMO+EjOJfMMUCWYUUug8C4RvsECuTVDzdoH6GZbyAVN2GjTkpEVxdiPbFcfZ5fGkbTxA/4mmYzbtmCDx5F2wAciyulg==;fkI72LP55lPjUcM4WYFDwA=="
 ---

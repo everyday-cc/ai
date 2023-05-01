@@ -27,15 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "US university researchers get funding to boost use of AI, robotics in chicken processing"
-    excerpt: "US university researchers at Georgia Tech, the University of Arkansas System, the University of Nebraska-Lincoln and Fort Valley State University in Georgia were awarded a US$5 million grant to increase use of artificial intelligence and robotics in chicken processing to reduce waste in deboning and detect pathogens."
-    publishedDateTime: 2023-04-26T19:28:00Z
-    webUrl: "https://www.efeedlink.com/contents/04-27-2023/e833a986-67e4-4161-8ac5-d62c25b73cd0-0001.html"
+  - title: "Torch.AI Awarded New Patent for Real-Time AI"
+    excerpt: "Torch.AI, Pioneers of Data Infrastructure AI™, announced today the U.S. Patent and Trademark Office (USPTO) has formerly approved and issued Torch.AI a new patent, No. 11556695, for 'Combinatorial Inflight Analysis of Multipart Data' using pretrained machine learning models,"
+    publishedDateTime: 2023-05-01T13:59:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/torch-ai-awarded-new-patent-for-real-time-ai-1032278292"
     type: article
     provider:
-      name: efeedlink
-      domain: efeedlink.com
-    quality: 40
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
 
 secured: "+iryFU7Ng7N8Q94vOmB96UTyT5m9Cdj3yZt1RoNT0YMrNHmajJNslV3XYwP5Ih3Oai2yWyJOCLhojhmLJJ0I485gqGZ7suld0vxa3M7hDApVt133n3lwhiJ/18FGj30HehK7zgvQOewXMlG43TlkUFLn5Jzar/fFf7kKXmc/9s4a9OjTslG0NUZTz1GsEWsFsKNw+EKkdEC5OfAxoMpf72sgusHDyZOCexFgaftMARFPhcxn2LQSQMFBmBuERnDa6CxC0Le2ADkJGLHRSYAUlabs5YpLQuFQqoHWpvWXnuHTkXuTt4++BmE7+twSWBR+SkT4HgKC2Ynm6JIXeP5+P45N0AMlapgZGXHigLDPYpHXhXXyA17dmTl/lYGIMBjcRyoKRmMejnNgai0kda9v6S4ldfp0nw+wahuORPixQp3EaQ71PaJ3rkY91UWx2QClPHr1qR4QKEwnWkD+0JQAsrsZK8WCaD2sQrlfYwgub94MIQj6F7AXRouJHZ4KHabLIZfBsQwH9BztNM9XmO4tmA==;JVd1o4FTtGxZjYEOAy2VAA=="
 ---

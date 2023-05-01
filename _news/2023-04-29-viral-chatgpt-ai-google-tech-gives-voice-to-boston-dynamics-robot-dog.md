@@ -134,6 +134,15 @@ related:
         width: 1812
         height: 900
         isCached: true
+  - title: "9 Ways to Use ChatGPT for Small Business"
+    excerpt: "ChatGPT is a free and easy chat tool that can develop fairly well-written copy and help users brainstorm. Could it benefit your small business?"
+    publishedDateTime: 2023-05-01T12:38:00Z
+    webUrl: "https://www.businessnewsdaily.com/chat-gpt-business-uses"
+    type: article
+    provider:
+      name: Business News Daily
+      domain: businessnewsdaily.com
+    quality: 4
 
 secured: "5xFm1rlzikRtFKik2cXE1NogAbcjhP27w2evjyqQYEMeT0uOCEm39ab43t5I1yPGyl3f037US4OojKWBWO9tTf5/atNZC9GojgMdsyUWa2A77PAdyyRkJYb8sFaqQecuYceVaw0tH09F1WdVgQmOW9FY/XZvJwZOQeGwqsRmqLCG1+XMDhNcUAiV+QmN2n5eHyQt/5dAT8nMaKLv9lK/8OCwS0VJ4GdgnZKQ+Ne4zqL+LdJOJlHogYRUHQl6eFaUpvri3Dpb0k3s5RkQi1n+5pqTlUvVMmjEEOY1tCwGzACG0gX7dHV+qf1e6hgFkcQPM+9kY25ujcYUNZFzcv0pG1t92m/m1IeCrJYbjEb6wd83Q1fX4Q76dke2um82VM5JVWUd5w2hzce7S2QiOMmT0s/yRjVfzpMkOGHNcwV4sutsG350XG9G5sJ4px1elNyZoQGLSsMEqdXXuRYcJX6zjMI0syL4WhFrIEDgGWyEoFXBJ4RERToZkaHcyrNZeWPJyyCzREjCEVBAr/MVcASHCw==;snvcXTESb1ftQPxsRBjOKA=="
 ---

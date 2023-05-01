@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna81696"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna81696"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk discusses artificial intelligence with Sen. Schumer"
-    excerpt: "Twitter owner and Tesla CEO Elon Musk on Wednesday said he discussed artificial intelligence in a meeting with Senate Majority Leader Chuck Schumer."
-    publishedDateTime: 2023-04-26T21:51:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2023/04/26/elon-musk-capitol-hill-ai/"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 37
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OWFZVZXCL4I6TPT7JTEFAF6DN4_size-normalized.jpg&w=1440"
-        width: 1440
-        height: 965
-        isCached: true
   - title: "Musk meets with Schumer as Senate looks into artificial intelligence"
     excerpt: "Artificial intelligence has been a focus of research for years, from Silicon Valley to the Pentagon and globally. Now, Senate Majority Leader Chuck Schumer, a New York Democrat, is considering legislation to regulate AI."
     publishedDateTime: 2023-04-27T18:53:00Z

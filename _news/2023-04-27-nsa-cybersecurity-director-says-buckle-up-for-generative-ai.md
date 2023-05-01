@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/nsa-rob-joyce-chatgpt-security/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/nsa-rob-joyce-chatgpt-security/amp"
 type: article
 quality: 87
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "U.S. Officials Raise Concerns About AI’s Cybersecurity Implications"
-    excerpt: "Rush to deploy ChatGPT and other models may leave organizations open to unknown threats, hacks, cybersecurity officials say."
-    publishedDateTime: 2023-04-26T23:06:00Z
-    webUrl: "https://www.wsj.com/articles/u-s-officials-raise-concerns-about-ais-cybersecurity-implications-f32496ed?mod=latest_headlines"
-    ampWebUrl: "https://www.wsj.com/amp/articles/u-s-officials-raise-concerns-about-ais-cybersecurity-implications-f32496ed"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/u-s-officials-raise-concerns-about-ais-cybersecurity-implications-f32496ed"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 87
-    images:
-      - url: "https://images.wsj.net/im-770952/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Cybersecurity meets AI: Augmenting and accelerating humans"
     excerpt: "AI in cybersecurity must be collaborative, with humans and AI improving efficiency and efficacy over what either could do independently."
     publishedDateTime: 2023-04-29T15:20:00Z

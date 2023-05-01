@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2023/04/27/tech/snapchat-my-ai-concerns-well
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/04/27/tech/snapchat-my-ai-concerns-wellness/index.html"
 type: article
 quality: 85
-heat: 215
+heat: 205
 published: true
 
 provider:
@@ -75,22 +75,6 @@ related:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i.GYapse3WN4/v1/1200x800.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "The internet is already racist. AI chatbots are making it worse."
-    excerpt: "Google's C4 data set, which is used to instruct AIs like Facebook’s LlaMa and Google’s own T5, draws content from far-right sites."
-    publishedDateTime: 2023-04-26T19:30:00Z
-    webUrl: "https://www.msnbc.com/opinion/msnbc-opinion/internet-already-racist-s-chatbots-make-worse-rcna81569"
-    ampWebUrl: "https://www.msnbc.com/msnbc/amp/rcna81569"
-    cdnAmpWebUrl: "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp/rcna81569"
-    type: article
-    provider:
-      name: MSNBC
-      domain: msnbc.com
-    quality: 57
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-04/230426-AI-Racism-jg-a89654.jpg"
-        width: 2500
-        height: 1250
         isCached: true
   - title: "Snapchat's new AI chatbot is already raising alarms among teens, parents"
     excerpt: "Snapchat's AI chatbot is facing backlash not only from parents but also from some Snapchat users who are bombarding the app with bad reviews in the app store."

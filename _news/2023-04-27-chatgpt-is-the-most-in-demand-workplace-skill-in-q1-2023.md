@@ -1,28 +1,22 @@
 ---
 category: news
 title: "ChatGPT is the Most In-Demand Workplace Skill in Q1 2023"
-excerpt: "Udemy (Nasdaq: UDMY), a company dedicated to improving lives through online learning, today released its Q1 2023 Workplace Learning Index, a quarterly report highlighting skills that are growing in demand among today’s professionals as they seek to keep pace with innovation and help support their company’s continued growth."
-publishedDateTime: 2023-04-27T15:11:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/04/27/9803670.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/04/27/9803670.htm"
+excerpt: "Udemy (NASDAQ:UDMY), a company dedicated to improving lives through online learning, today released its Q1 2023 Workplace Learning Index, a quarterly report"
+publishedDateTime: 2023-04-27T15:04:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/04/g32049645/chatgpt-is-the-most-in-demand-workplace-skill-in-q1-2023"
+webUrl: "https://www.benzinga.com/pressreleases/23/04/g32049645/chatgpt-is-the-most-in-demand-workplace-skill-in-q1-2023"
 type: article
-quality: 24
+quality: 4
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
-    width: 550
-    height: 353
-    isCached: true
 
 related:
   - title: "I used ChatGPT to write the same routine in these ten obscure programming languages"
@@ -35,6 +29,6 @@ related:
       domain: zdnet.com
     quality: 28
 
-secured: "OBAU7H5YkmTzP2Sl/rQ56b1PaDhmhzTmAhNjmgsnzVyRMokt1xVCoOPzZU12I0J9dJ90N69+aM+OYALjU+ehgVw+1kWDvB04Nwhgcup42R0i8VrH8Oe7DkI4GzQ03JGaigf2FwNaSIp4Y7y6v8xIhD1eOMGZxuOaV8b/bZ1Jyg/fRUMSjP+FJJQsjxMq+F9AEEdJZ4neOmxSB3qaGGwVHPn6QI/uqUOZ2dhbv+3tEneOB+2QucFz5NgmAq6Sj/mah2bHO/sX5LO2tKbeq+W/u+ahDgI3sTOPrLRgY4P+FirdBopfIW4pAIJsRgeW2NULS6z+iROU6fyYeiaFUYM8ogtG4Og4i5y12SJHVBgjpOQ=;QhxE9fokSio24RHbItMzww=="
+secured: "abXrjV2nY+ZAlWiCJrhvybPqqy25H9OvEC3Pq1YpudUlOAilz/j+8khiTKK1r+FROdf0yfIqUnixwEYsOzn80mNG0XqcRVC8O5kgsV5WyA1tzmDQ1bskMeCQBljxMfHYeDNGRZgcrJ0hkdhM4HpuZCF29LMoUxMSXgq6WXqvo8wlt4r6/M6ykEEi0bEBShMK+vaIuD1dOZiU/fx7YyUV9pO6kvoQSDzEJyAy3NdrBmr22SwZlnnzOpeObT/WzXGmTpZoet3sUvc0b1FicR+ueUKIVAiouI+7JO1bFwrRC1IyJOM9PCKtpaQ8GjCzho5ZnOBsxsRx8yfXlLKKGR1myhEwmXASoyiNcGvHi0KL3xQ=;fTrfeGPetpVHahMA/hFNwQ=="
 ---
 

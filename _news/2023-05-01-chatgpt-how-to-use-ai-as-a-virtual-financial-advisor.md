@@ -149,6 +149,20 @@ related:
         width: 858
         height: 880
         isCached: true
+  - title: "6 CFO Skills Still Needed Amid Generative AI, ChatGPT"
+    excerpt: "Although CFOs may find new types of technology useful, the human element is still needed in some of the most critical parts of the job."
+    publishedDateTime: 2023-05-01T15:39:00Z
+    webUrl: "https://www.cfo.com/technology/2023/05/generative-ai-chatgpt-automation-technology-regulation-risk/"
+    type: article
+    provider:
+      name: CFO
+      domain: cfo.com
+    quality: 39
+    images:
+      - url: "https://assets.cfo.com/images/Zz05YmE1ZTE1MmU4MjExMWVkOTE1ZWMyOTAwMGU4OTMyYg==?width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "UAE releases guide to ChatGPT and other AI platforms"
     excerpt: "The guide is a valuable resource for government entities, facilitating the utilisation of AI technologies and enhancing its implementation across various fields. UAE releases guide to ChatGPT and other AI platforms."
     publishedDateTime: 2023-05-01T08:46:00Z
