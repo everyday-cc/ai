@@ -162,20 +162,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "Microsoft shares jump 8% as AI juices sales"
-    excerpt: "Microsoft has beaten Wall Street's estimates for quarterly revenue and profit, driven by growth in its cloud computing and Office productivity software businesses, and the company said artificial intelligence products were stimulating sales."
-    publishedDateTime: 2023-04-26T07:33:00Z
-    webUrl: "https://www.breakingnews.ie/business/microsoft-shares-jump-8-as-ai-juices-sales-1467543.html"
-    type: article
-    provider:
-      name: BreakingNews.ie
-      domain: breakingnews.ie
-    quality: 71
-    images:
-      - url: "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjNcXFwvMDJcXFwvMjEyMDQ4MTNcXFwvMi4zNTA4OTk4MC5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pbWFnZXNcXFwvbm8taW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjhjYThjNTEyYjg4NGI1Mjk1MDJhNzY2MjhjYjRiNzA1ZThhODI0N2IifQ==/microsoft-shares-jump-8-as-ai-juices-sales.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "Missed Out On Microsoft's AI-Powered Rally This Year? Analyst Sees Another 25% Surge Likely Soon"
     excerpt: "The results wowed a couple of Microsoft bulls, and here's what the analysts think about the quarterly report: The Microsoft Analysts: Piper Sandler analyst Brent Bracelin maintained an Overweight rating and hiked the price target from $290 to $348."
     publishedDateTime: 2023-04-26T11:09:00Z
@@ -360,20 +346,6 @@ related:
       - url: "https://www.thesun.co.uk/wp-content/uploads/2023/04/NINTCHDBPICT000813339870.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "AI experts say ChatGPT, other chatbots fine to use with caution"
-    excerpt: "Amid widespread debate over ChatGPT and similar chatbots, Japan’s artificial intelligence experts expressed cautious optimism regarding the generative AI."
-    publishedDateTime: 2023-04-26T07:28:00Z
-    webUrl: "https://www.asahi.com/ajw/articles/14894495"
-    type: article
-    provider:
-      name: 朝日新聞社
-      domain: asahi.com
-    quality: 39
-    images:
-      - url: "https://p.potaufeu.asahi.com/43b2-p/picture/27549615/9a5a02d4feff0539fac813e67c964089.jpg"
-        width: 660
-        height: 440
         isCached: true
   - title: "Meta Hopes to Rival ChatGPT with New AI Investments"
     excerpt: "Meta claims it's \"no longer behind in building AI infrastructure\", with new AI tools coming to WhatsApp, Messager, Facebook, and Instagram."

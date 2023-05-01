@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/32100121"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32100121"
 type: article
 quality: 51
-heat: -1
+heat: 51
 published: false
 
 provider:
@@ -25,77 +25,6 @@ images:
     width: 1043
     height: 1043
     isCached: true
-
-related:
-  - title: "Kinetix launches text-to-animation AI for new era in user-generated content"
-    excerpt: "Kinetix has announced Text2Emotes, a generative AI technology that heralds a new era of user-generated gaming content (UGC)."
-    publishedDateTime: 2023-04-26T07:59:00Z
-    webUrl: "https://venturebeat.com/games/kinetix-launches-text-to-animation-ai-for-new-era-in-user-generated-content/"
-    ampWebUrl: "https://venturebeat.com/games/kinetix-launches-text-to-animation-ai-for-new-era-in-user-generated-content/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/kinetix-launches-text-to-animation-ai-for-new-era-in-user-generated-content/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/04/kinetix-text2emote.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Jeeves.Ai Launches Revolutionary AI-Powered Content Creation Tool for Businesses of All Sizes"
-    excerpt: "Today marks the launch of Jeeves.Ai, an AI startup dedicated to making artificial intelligence accessible to the masses. The company, seeded by a team of"
-    publishedDateTime: 2023-04-28T15:31:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/04/32086787/jeeves-ai-launches-revolutionary-ai-powered-content-creation-tool-for-businesses-of-all-sizes"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32086787"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32086787"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 46
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "Interprefy Launches Next-Generation AI Speech Translator for Events"
-    excerpt: "M ultilingual meeting technology and services provider Interprefy unveiled Interprefy Aivia, the world’s first advanced automated speech translation service for online and live"
-    publishedDateTime: 2023-04-28T21:15:00Z
-    webUrl: "https://www.tsnn.com/news/interprefy-launches-nextgeneration-ai-speech-translator-events"
-    type: article
-    provider:
-      name: TSNN
-      domain: tsnn.com
-    quality: 39
-    images:
-      - url: "https://www.tsnn.com/sites/default/files/AI%20translation%20concept.jpg"
-        width: 8500
-        height: 4250
-        isCached: true
-  - title: "EU proposes new copyright rules for generative AI"
-    excerpt: "Shortly after signing the letter, the Financial Times reported Musk was planning to launch his own startup to rival OpenAI. ALSO READ: Elon Musk plans AI startup to rival OpenAI, Financial Times reports"
-    publishedDateTime: 2023-04-28T01:55:00Z
-    webUrl: "https://www.asiaone.com/digital/eu-proposes-new-copyright-rules-generative-ai"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 37
-    images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Apr2023/20230428_EUAI_Reuters.jpg?itok=7hZy3u6s"
-        width: 848
-        height: 601
-        isCached: true
-  - title: "The Battle for Authenticity: The Importance of Detecting Human vs. AI-Generated Content by Intetics"
-    excerpt: "Intetics, a leading global technology company, published an article on the burning challenges of generative AI, existing AI-generated content detection tools, their current limitations and prospects,"
-    publishedDateTime: 2023-04-27T11:53:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-battle-authenticity-importance-detecting-human-vs-ai-generated-/2023/04/27/9803149.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 5
 
 secured: "NG1mvPofXxn+/9QUy/af/toQ+O8HYGdT1+9tWDeoQOjpY/7oKfrUOT28ZLR1WYxinl+iQGexT9xngmeNF4VoKo7Gc4RVTQrcR5wOtP1GBDZxQkWXYrL1rXixVozchIrfpY2a4Iomxi6cCsLH52SBsJO5lCV386PwzjXbbwta9uMil4hHHeK7L+1GpOiecocbopKH7fcL4NYtHt1h/Oq04bV9GA7gLEEh6g/ByeW69oi4KtOBA90EeHgJX0AIvfZ+0lLfJTeNQ5FBJhJA7dxwXj2gXlv5Nvg5aegg0tcEj7T7jyQofNF1yAtXsD3ozkW4o78dxQvLsf3Pm8NLTc2Ck+9RbZiYarxB5pnsC/en2l5soxEdJx6hKg7eA5ImWfg226dZQniZYKg2IlbWtFVsospP+fiBMfV21HMg6VqhrotijJVrKYiE3UHxwt7xe11/+TrQsDO4QLDV+ysJ1vsqRgsz37VSJpNFg0tfhGS2WAxM9b4yPsXXLQCPknJHDKGB6n8yHbw2S5fwjDn/cLKuJw==;tg1afMyhHW2j/UiXhSn+4Q=="
 ---

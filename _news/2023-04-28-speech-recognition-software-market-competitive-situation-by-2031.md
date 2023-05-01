@@ -37,20 +37,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Image Recognition in Retail Market Research, 2023-2030"
-    excerpt: "Newest 126 Pages Report,the goal of Image Recognition in Retail Market Image Recognition in Retail Market is to broaden"
-    publishedDateTime: 2023-04-26T07:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-in-retail-market-research-2023-2030-2023-04-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Cloud Natural Language Processing Market Research, 2023-2030"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 27, 2023 (The Expresswire) -- Cloud Natural Language Processing Market Insights 2023 by Types (Rulebased Natural Language Processing , Statistical Natural Language ..."
     publishedDateTime: 2023-04-27T18:55:00Z

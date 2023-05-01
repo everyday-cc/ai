@@ -9,7 +9,7 @@ ampWebUrl: "https://www.medindia.net/amp/news/how-does-hiv-drug-help-protect-aga
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/how-does-hiv-drug-help-protect-against-build-up-of-dementia-211583-1.htm"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2023/hiv-drug-helps-protect.jpg"
         width: 996
         height: 996
-        isCached: true
-  - title: "New dementia treatment? How an HIV drug may help prevent protein build-up in the brain"
-    excerpt: "Researchers say an HIV drug showed promise in a clinical trial involving mice in reducing the build-up of proteins in the brain associated with dementia"
-    publishedDateTime: 2023-04-26T08:53:00Z
-    webUrl: "https://www.medicalnewstoday.com/articles/hiv-drug-helps-protect-against-build-up-of-dementia-related-proteins-in-mouse-brains-emb"
-    type: article
-    provider:
-      name: Medical News Today
-      domain: medicalnewstoday.com
-    quality: 31
-    images:
-      - url: "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2023/04/senior-coffee-hiv-drug-dementia-732x549-thumbnail.jpg"
-        width: 732
-        height: 549
         isCached: true
   - title: "HIV drug may help fight dementia — and other good news you may have missed"
     excerpt: "Turn off the cable news and tune out the doom and gloom — and get ready for your weekly dose of “good news.” Here are this week’s best feel-good stories from Yahoo News partners."

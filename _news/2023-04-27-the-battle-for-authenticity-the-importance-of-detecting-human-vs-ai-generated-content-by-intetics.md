@@ -19,81 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Kinetix launches text-to-animation AI for new era in user-generated content"
-    excerpt: "Kinetix has announced Text2Emotes, a generative AI technology that heralds a new era of user-generated gaming content (UGC)."
-    publishedDateTime: 2023-04-26T07:59:00Z
-    webUrl: "https://venturebeat.com/games/kinetix-launches-text-to-animation-ai-for-new-era-in-user-generated-content/"
-    ampWebUrl: "https://venturebeat.com/games/kinetix-launches-text-to-animation-ai-for-new-era-in-user-generated-content/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/kinetix-launches-text-to-animation-ai-for-new-era-in-user-generated-content/amp/"
+  - title: "Ocean’s roar of generative AI and expanding dark web capture security world’s attention at RSA"
+    excerpt: "That single metric speaks volumes about the pace of change in the tech world today, and the security community has taken notice. Security researchers are scrambling to assess what mass deployment of generative AI will mean in the broader context of protecting critical systems."
+    publishedDateTime: 2023-04-27T19:45:00Z
+    webUrl: "https://siliconangle.com/2023/04/27/oceans-roar-generative-ai-expanding-dark-web-capture-security-worlds-attention-rsa/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 44
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/04/kinetix-text2emote.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "DorkGenius Launches as the Ultimate AI Tool for Generating Highly Targeted Google Dorks"
-    excerpt: "Dork Genius, a revolutionary AI tool designed to generate Google dorks, is now available for public use. The tool is expected to revolutionize the way"
-    publishedDateTime: 2023-04-29T15:19:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/04/32100121/dorkgenius-launches-as-the-ultimate-ai-tool-for-generating-highly-targeted-google-dorks"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32100121"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32100121"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 51
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "Jeeves.Ai Launches Revolutionary AI-Powered Content Creation Tool for Businesses of All Sizes"
-    excerpt: "Today marks the launch of Jeeves.Ai, an AI startup dedicated to making artificial intelligence accessible to the masses. The company, seeded by a team of"
-    publishedDateTime: 2023-04-28T15:31:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/04/32086787/jeeves-ai-launches-revolutionary-ai-powered-content-creation-tool-for-businesses-of-all-sizes"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32086787"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32086787"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 46
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "Interprefy Launches Next-Generation AI Speech Translator for Events"
-    excerpt: "M ultilingual meeting technology and services provider Interprefy unveiled Interprefy Aivia, the world’s first advanced automated speech translation service for online and live"
-    publishedDateTime: 2023-04-28T21:15:00Z
-    webUrl: "https://www.tsnn.com/news/interprefy-launches-nextgeneration-ai-speech-translator-events"
-    type: article
-    provider:
-      name: TSNN
-      domain: tsnn.com
-    quality: 39
-    images:
-      - url: "https://www.tsnn.com/sites/default/files/AI%20translation%20concept.jpg"
-        width: 8500
-        height: 4250
-        isCached: true
-  - title: "EU proposes new copyright rules for generative AI"
-    excerpt: "Shortly after signing the letter, the Financial Times reported Musk was planning to launch his own startup to rival OpenAI. ALSO READ: Elon Musk plans AI startup to rival OpenAI, Financial Times reports"
-    publishedDateTime: 2023-04-28T01:55:00Z
-    webUrl: "https://www.asiaone.com/digital/eu-proposes-new-copyright-rules-generative-ai"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 37
-    images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Apr2023/20230428_EUAI_Reuters.jpg?itok=7hZy3u6s"
-        width: 848
-        height: 601
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/04/rohitghai-rsa-badai.jpg"
+        width: 2500
+        height: 1434
         isCached: true
 
 secured: "519aeukAZMJuxTQLgEJJPgpgtD+7dX0wJ/dCFm/MqSqFtDSTm6VBVGoVFf7NWNISQ3zBd7Pwv3Be0rapKb25BhMaol/MbRkM9wLw/vt701gXx6cn13mPBeekCtwZHDHoYz2OHiMlCYEkihMZgwZEc2pDL4YkHbh4J4Vt0HOkSVTDP47owwi3DJLFJXUmw8RyVVhbsUFsTI+xalmH/N03VG+0UKulIIxYY0GonEgmNoldq8QbXYu7JnCiRQV0qrm6jLxRPVPDIwH+jYcpr3J1xszGbV2DvU3qlH9kRJ4otf3H6hMNvQpqt8UMdJYjq/dHSEhw6IRZVm50NsRitEKm9cj1ldBPv4myAdy7LXeWuxo=;mNrTQDX2dVVTbrnJWcZ0dw=="

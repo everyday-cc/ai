@@ -20,20 +20,6 @@ topics:
 
 related:
   - title: "No one is driving this taxi. What possibly could go wrong?"
-    excerpt: "An Associated Press reporter recalls the first time he took a ride in a car without sitting in the driver's seat. It happened one night last September when a Chevy"
-    publishedDateTime: 2023-04-26T07:05:00Z
-    webUrl: "https://omaha.com/lifestyles/no-one-is-driving-this-taxi-what-possibly-could-go-wrong/article_eebc9d8c-7790-5083-8495-f151ac4f48cf.html"
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 24
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/b/e7/be7e2c85-bbe7-5ed1-ade9-03c57263d314/6448cf8b4ff76.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "No one is driving this taxi. What possibly could go wrong?"
     excerpt: "A driverless ride taken by Liedtke last September provided a snapshot of the artificial intelligence technology that is advancing ... that I was starting to buy into the vision of Cruise and Waymo, a self-driving car pioneer spun off from a Google project ..."
     publishedDateTime: 2023-04-28T17:01:00Z
     webUrl: "https://www.timesfreepress.com/news/2023/apr/28/no-one-is-driving-this-taxi-tfp/"

@@ -193,15 +193,6 @@ related:
       name: Search Engine Land
       domain: searchengineland.com
     quality: 19
-  - title: "Snapchat's New My AI Feature Is an Example of the 1 Thing No Company Should Ever Do"
-    excerpt: "Here's the thing--Snapchat's new AI feature doesn't have any real value, at least, not to users. It's just entertainment, sort of. It's not something anyone is asking for, and you have to pay to get rid of it. It's as though Snap isn't thinking about its customers, but rather what features it can add to increasingly monetize the app."
-    publishedDateTime: 2023-04-26T07:52:00Z
-    webUrl: "https://www.inc.com/jason-aten/snapchats-new-my-ai-feature-is-an-example-of-1-thing-no-company-should-ever-do.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 11
 
 secured: "YUEPj2x1r5EnQMvrNv6C1QBnZVrmcaS3/JXLE7oNa7/6ic2UNkDRSe4JJKXcjUTP/9xTcIn+rnwAE6W1x+ikKkGPEBLPGrVxViwMk5Wq3/spHmLbBFZAnUbrkjrh03yBemDLpAtx0fpOwiNVrM9Et0S00H06cJJhKXsnELeYGcp3dYFnwfoSA7lChKwtqayZiLKIs+vxOj8s/OqJuqHKXLlrFWrFlg+K9LjrU7UhOSohl2QeRMTcnVwtBQC+P/CAxod074k3dN695fITbvB6mlkUi9Rlkmioom2a6Nn4PvuNi/PHXju3VBwfFdl07lhBkLwNBNUkpU6/EQ0nx9uH/l0PPGSQV8984Nc1aV4szO8=;G+x5m4jPcgwqEeTUnv6Piw=="
 ---

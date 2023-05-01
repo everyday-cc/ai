@@ -1,29 +1,27 @@
 ---
 category: news
 title: "ChatGPT is the Most In-Demand Workplace Skill in Q1 2023"
-excerpt: "Udemy (NASDAQ:UDMY), a company dedicated to improving lives through online learning, today released its Q1 2023 Workplace Learning Index, a quarterly report"
-publishedDateTime: 2023-04-27T15:04:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/04/g32049645/chatgpt-is-the-most-in-demand-workplace-skill-in-q1-2023"
-webUrl: "https://www.benzinga.com/pressreleases/23/04/g32049645/chatgpt-is-the-most-in-demand-workplace-skill-in-q1-2023"
-ampWebUrl: "https://www.benzinga.com/amp/content/32049645"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32049645"
+excerpt: "Udemy (Nasdaq: UDMY), a company dedicated to improving lives through online learning, today released its Q1 2023 Workplace Learning Index, a quarterly report highlighting skills that are growing in demand among today’s professionals as they seek to keep pace with innovation and help support their company’s continued growth."
+publishedDateTime: 2023-04-27T15:11:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/04/27/9803670.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/04/27/9803670.htm"
 type: article
-quality: 44
-heat: 44
+quality: 24
+heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
+  - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
+    width: 550
+    height: 353
     isCached: true
 
 related:
@@ -36,21 +34,16 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 28
-  - title: "ChatGPT Dominates as Top In-Demand Workplace Skill: Udemy Report"
-    excerpt: "Online learning platform Udemy released its Q1 Workplace Learning Index that found ChatGPT is currently the most in-demand workplace skill in the U.S. and"
-    publishedDateTime: 2023-04-28T17:18:00Z
-    webUrl: "https://www.datanami.com/2023/04/28/chatgpt-dominates-as-top-in-demand-workplace-skill-udemy-report/"
+  - title: "AI Set To Significantly Impact The Job Market – Amesite Helps Users Get Ready To Succeed In Tomorrow's Economy By Integrating ChatGPT Into Learning"
+    excerpt: "Artificial intelligence (AI) has taken the markets by storm ever since the release of Open AI’s Chat GPT, powered by the generative AI model GPT-3. AI’s creative potential, as well as fears surrounding its use,"
+    publishedDateTime: 2023-04-26T12:45:00Z
+    webUrl: "https://www.benzinga.com/markets/penny-stocks/23/04/32009425/ai-set-to-significantly-impact-the-job-market-amesite-helps-users-get-ready-to-succeed-in-to"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 24
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/04/Robot-Teacher-shutterstock_689623207.jpg"
-        width: 800
-        height: 419
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
-secured: "SHSVbNYC8anmAKHEE7jYhCiPPX7vtxDRaa5KPfW+F9/F5s8rdloeM1AVW9Nc7Mmp0opwpcE7If6IQ2Jt7SxhgwakU9T9yn17cvCza39L5KWTuM5atk/B39bnk0EUS2yQg3lV0w+KvXcYiArc9Rp74iO/i0jv89b2iS3dCrGIcTBxkvHhyyMIT/q23e+EUOdlcvG2i6LIkp+Hbpf8VXWAwWhZHKzEjQDEfEIoFbKJghRVrL1uqMR+1+pR/tQS9H6wxOY1rLIiBxdR6klJlXMN0sq4j1FFEfIS0WR3NxqwnYkTyVJftRSYjtGIQUcdzDkUe4I2ayGC+Lnlwp7Dt5KwVeHk1mEZFX64JLmn82OQu50=;MUV9187bi8r0cbqtZWhVPw=="
+secured: "OBAU7H5YkmTzP2Sl/rQ56b1PaDhmhzTmAhNjmgsnzVyRMokt1xVCoOPzZU12I0J9dJ90N69+aM+OYALjU+ehgVw+1kWDvB04Nwhgcup42R0i8VrH8Oe7DkI4GzQ03JGaigf2FwNaSIp4Y7y6v8xIhD1eOMGZxuOaV8b/bZ1Jyg/fRUMSjP+FJJQsjxMq+F9AEEdJZ4neOmxSB3qaGGwVHPn6QI/uqUOZ2dhbv+3tEneOB+2QucFz5NgmAq6Sj/mah2bHO/sX5LO2tKbeq+W/u+ahDgI3sTOPrLRgY4P+FirdBopfIW4pAIJsRgeW2NULS6z+iROU6fyYeiaFUYM8ogtG4Og4i5y12SJHVBgjpOQ=;QhxE9fokSio24RHbItMzww=="
 ---
 

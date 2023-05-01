@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2023/04/30/ai-ethicist-view
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/04/30/ai-ethicist-views-on-chatgpt/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -89,6 +89,20 @@ related:
       - url: "https://www.moneyweb.co.za/wp-content/uploads/2023/04/file-20230421-20-89ix5g-1024x683.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Artificial intelligence or active imagination with ChatGPT?"
+    excerpt: "When a journalist and historian attempted to see if his own research would be sourced by AI, he was intrigued by some of the responses he got from a text-generating artificial chatbot"
+    publishedDateTime: 2023-05-01T01:00:00Z
+    webUrl: "https://www.irishexaminer.com/opinion/commentanalysis/arid-41128273.html"
+    type: article
+    provider:
+      name: Irish Examiner
+      domain: irishexaminer.com
+    quality: 37
+    images:
+      - url: "https://www.irishexaminer.com/cms_media/module_img/7092/3546217_7_seoimageog_11b276fe-6c3b-481d-a99a-14ae76e0b1cf.jpg.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "GFgzjx8jBpDSqSGhT3ArjkMpz/nCQMALw3pe9OtGVkmwHWBGrDPfkSYV5ZHHr52Pbz+XNqzShk4E+lljmuYOutRkWx2gwiuegsBV4UN8Y58JAu7a3i6y3L9syoi01gqTfzL/yfwuki2BINr75GN1yOxBjdd/FtCtYpne/pUGaRjtq/a28RQwjGOEp1NF8AMyiSaw/bNfDDgGCwumyCACSQ28ClQCJ/qtLaCWQv5wo70tmU0UrdnQVgYQE9LhNix2TYp6VCeyruyMbXJrD0cmpH3z7FJzc+eJpntMqs0Zp+ahNGUXrM+W9OO9tT8qvmOiDht0GdcBrTSyPD9BGNerBItwlRQl6l9MbVKiJ9PrZWxKJT6qnE8CAfW5fFY4p/hEvSGPtXWJhzRavSc+TUHTP1nKBP5C9dsm9VI4WNLS2gMY2DJr+U779WS2dco4SQJNg8nhCtFenvEBUvNPRwUTjBzgr1qbwCRUEev1oUTt/I18KPrbnk9QsO9Qx7Ck8D4lg33A+aO7Hb6bpeJSBnrlAQ==;aLOQbwHT6qYHBB7QX/9DKQ=="

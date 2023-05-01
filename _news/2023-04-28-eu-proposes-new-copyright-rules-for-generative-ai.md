@@ -24,77 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "Kinetix launches text-to-animation AI for new era in user-generated content"
-    excerpt: "Kinetix has announced Text2Emotes, a generative AI technology that heralds a new era of user-generated gaming content (UGC)."
-    publishedDateTime: 2023-04-26T07:59:00Z
-    webUrl: "https://venturebeat.com/games/kinetix-launches-text-to-animation-ai-for-new-era-in-user-generated-content/"
-    ampWebUrl: "https://venturebeat.com/games/kinetix-launches-text-to-animation-ai-for-new-era-in-user-generated-content/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/kinetix-launches-text-to-animation-ai-for-new-era-in-user-generated-content/amp/"
+  - title: "Top researchers on the AI Act: \"Overregulation poses security risk for the EU\""
+    excerpt: "Scientists and entrepreneurs call on the EU to regulate moderately. The definition of general-purpose AI should be revised, they say in an open letter by LAION."
+    publishedDateTime: 2023-04-30T17:39:00Z
+    webUrl: "https://www.heise.de/news/Top-researchers-on-the-AI-Act-Overregulation-poses-security-risk-for-the-EU-8983825.html"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: heise online
+      domain: heise.de
+    quality: 52
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/04/kinetix-text2emote.jpg?w=1200&strip=all"
+      - url: "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/1/5/2/1/4/0/shutterstock_397145995-025a03d69b725be0.jpg"
         width: 1200
-        height: 675
+        height: 792
         isCached: true
-  - title: "DorkGenius Launches as the Ultimate AI Tool for Generating Highly Targeted Google Dorks"
-    excerpt: "Dork Genius, a revolutionary AI tool designed to generate Google dorks, is now available for public use. The tool is expected to revolutionize the way"
-    publishedDateTime: 2023-04-29T15:19:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/04/32100121/dorkgenius-launches-as-the-ultimate-ai-tool-for-generating-highly-targeted-google-dorks"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32100121"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32100121"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 51
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "Jeeves.Ai Launches Revolutionary AI-Powered Content Creation Tool for Businesses of All Sizes"
-    excerpt: "Today marks the launch of Jeeves.Ai, an AI startup dedicated to making artificial intelligence accessible to the masses. The company, seeded by a team of"
-    publishedDateTime: 2023-04-28T15:31:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/04/32086787/jeeves-ai-launches-revolutionary-ai-powered-content-creation-tool-for-businesses-of-all-sizes"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32086787"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32086787"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 46
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "Interprefy Launches Next-Generation AI Speech Translator for Events"
-    excerpt: "M ultilingual meeting technology and services provider Interprefy unveiled Interprefy Aivia, the world’s first advanced automated speech translation service for online and live"
-    publishedDateTime: 2023-04-28T21:15:00Z
-    webUrl: "https://www.tsnn.com/news/interprefy-launches-nextgeneration-ai-speech-translator-events"
-    type: article
-    provider:
-      name: TSNN
-      domain: tsnn.com
-    quality: 39
-    images:
-      - url: "https://www.tsnn.com/sites/default/files/AI%20translation%20concept.jpg"
-        width: 8500
-        height: 4250
-        isCached: true
-  - title: "The Battle for Authenticity: The Importance of Detecting Human vs. AI-Generated Content by Intetics"
-    excerpt: "Intetics, a leading global technology company, published an article on the burning challenges of generative AI, existing AI-generated content detection tools, their current limitations and prospects,"
-    publishedDateTime: 2023-04-27T11:53:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-battle-authenticity-importance-detecting-human-vs-ai-generated-/2023/04/27/9803149.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 5
 
 secured: "EqpP83nFJO2iGpcR+uSlY19DhW84MAcOG26NFB4a19CNiCovLKlJUXkKvdmPafecJl7TRwT1HBSbCauLXC+0L1d3w0UDZ7UudXQhTcbtUdl+mECV0d/PHqn/If1DIrGacUot9Td+bMwRjJt5nq9PWfCpmAsb7EFEzHVUkOVUqwupZTy/qr4GwTzQuEw0Tpxgl4U/ZTZR67gsZqFmXe9dHtB27L9woTRhg1T0/yFNNSppjeiFiruRvOxlIO+GpHEuGRqANzjYW2wEz2d6TyPvggsY4r7D5UUyqz/jX7f88CYm5dcfbZnSYSmaW+S3q9XNWufuYP60dgAqIm2yHg0rkGAi48B/kRl9KtfwSzlRJX4=;lSYrTb0G9g5qxMmzwCQC5Q=="
 ---

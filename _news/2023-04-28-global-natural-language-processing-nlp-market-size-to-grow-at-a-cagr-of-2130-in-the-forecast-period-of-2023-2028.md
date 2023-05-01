@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-natural-language-
 webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-market-size-to-grow-at-a-cagr-of-2130-in-the-forecast-period-of-2023-2028-2023-04-28"
 type: article
 quality: 61
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Natural Language Processing (NLP) Market Size, Share, Price, Trends, Growth, Analysis, Report, Forecast 2023-2028"
-    excerpt: "Global Natural Language Processing (NLP) Market Size To Grow At A CAGR Of 21.30% In The Forecast Period Of 2023-2028 30 NORTH GOULD STREET, SHERIDAN, WYOMING, UNITED STATES, April 25, 2023 /einpresswire.com / -- The 'Global natural language processing (nlp ..."
-    publishedDateTime: 2023-04-26T07:05:00Z
-    webUrl: "https://menafn.com/1106098898/Natural-Language-Processing-NLP-Market-Size-Share-Price-Trends-Growth-Analysis-Report-Forecast-2023-2028"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 33
-    images:
-      - url: "https://menafn.com/updates/pr/2023-04/26/EP_bceaeimage_story.jpeg"
-        width: 600
-        height: 314
-        isCached: true
   - title: "The report on the Underwater Computer Vision market size and its projected CAGR value of 8.9% from 2023 to 2030 examines the primary market drivers."
     excerpt: "The market growth of Underwater Computer Vision has been phenomenal in recent years, with a significant increase in demand and adoption among various industries and end-users. The growth of the Underwater Computer Vision market can be attributed to various factors such as advancements in technology,"
     publishedDateTime: 2023-04-30T04:41:00Z

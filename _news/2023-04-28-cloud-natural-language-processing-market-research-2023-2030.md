@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Image Recognition in Retail Market Research, 2023-2030"
-    excerpt: "Newest 126 Pages Report,the goal of Image Recognition in Retail Market Image Recognition in Retail Market is to broaden"
-    publishedDateTime: 2023-04-26T07:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-in-retail-market-research-2023-2030-2023-04-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Machine Learning in Manufacturing Market Sales By 2031"
     excerpt: "What is the Machine Learning in Manufacturing market growth? Machine Learning in Manufacturing Market Size is projected to Reach Multimillion USD by 2031, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2031."
     publishedDateTime: 2023-04-27T17:52:00Z

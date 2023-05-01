@@ -2,44 +2,48 @@
 category: news
 title: "Interprefy unveils next-generation AI event translator Aivia"
 excerpt: "Experience the full interactive Multichannel News Release here: Multilingual meeting technology and services provider Interprefy has today unveiled Interprefy Aivia, the world's first advanced automated speech translation service for online and live events,"
-publishedDateTime: 2023-04-26T12:23:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-interprefy-unveils-next-generation-ai-event-translator-aivia-/2023/04/26/9802122.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-interprefy-unveils-next-generation-ai-event-translator-aivia-/2023/04/26/9802122.htm"
+publishedDateTime: 2023-04-26T11:01:00Z
+originalUrl: "https://www.marketwatch.com/press-release/interprefy-unveils-next-generation-ai-event-translator-aivia-2023-04-26"
+webUrl: "https://www.marketwatch.com/press-release/interprefy-unveils-next-generation-ai-event-translator-aivia-2023-04-26"
 type: article
-quality: 39
-heat: -1
-published: false
+quality: 69
+heat: 79
+published: true
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
-    width: 550
-    height: 353
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
-  - title: "Exclusive: Swiss startup unveils ‘world-first’ AI translation service"
-    excerpt: "Interprefy claims to have created the world’s first advanced automated speech translation service for online and live events."
-    publishedDateTime: 2023-04-26T07:07:00Z
-    webUrl: "https://thenextweb.com/news/interprefy-startup-unveils-worlds-first-advanced-automated-speech-translation-service-for-online-and-live-eventsinterprefy"
+  - title: "Interprefy Launches Next-Generation AI Speech Translator for Events"
+    excerpt: "M ultilingual meeting technology and services provider Interprefy unveiled Interprefy Aivia, the world’s first advanced automated speech translation service for online and live"
+    publishedDateTime: 2023-04-28T21:15:00Z
+    webUrl: "https://www.tsnn.com/news/interprefy-launches-nextgeneration-ai-speech-translator-events"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 69
+      name: TSNN
+      domain: tsnn.com
+    quality: 39
     images:
-      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F04%2FUntitled-design-10.jpg&signature=d0273374d0073cb706cb6f2cdea4ca35"
-        width: 1280
-        height: 640
+      - url: "https://www.tsnn.com/sites/default/files/AI%20translation%20concept.jpg"
+        width: 8500
+        height: 4250
         isCached: true
 
-secured: "om3Qu+i2pgy9+ryHliq1b0EsKyn8xNaXRxs74+1hdpweFjzhBmsJEV5NbTKF8d+LySqc0OM3KsygI2yZfCotpOYDTl/RXlF9lFiuqhFJqSyw8m/4TotOXAUd+y3PuloIKU9zqapzbN/vbVAxPFzgI4ZfMycVTW14Fbq0dOqTV6QJlysLAf0ZlRBUDMB2YmuDWGu+y56RXXV1f5kszNMWOj2b77U3C7gDODj0VOmMBWiz7w/fAp+BseiA51hnOFlbyiQPDX4GFO4rxy7UrkrMJfELpDvpoPRLO9abUXRwF4xlCfdjry52t1yiOXwBTzgPpc606RkSaTcwQs+ZSWS3of10ahmy5aPRShz2Lvot5+s=;9nJSpHyZ8EnsNoFyaxqGNQ=="
+secured: "IJt6Q7Uuv7jEjOXkafF/w5G1uB8wckNm0tEfR/b7cqkioixBNZXrAKv7SDl16bXIW4ktClMlnoLIBT4awQ+rqQrn0BhJT7r2soX3IUYhzNMIPGLnvime5pVcZwiIwlt7ndHo/TALO/DihZ7cBobVbPXcaaeeGvvbbyEG5ZP7MK7GQqQGosTLG6UjBofSlK9d6wYxIM3BgM9ftVRER+VaMeU2Krx4blOGJwK3NOJngs0XK9btveYgDImSrFqyT5y3qSZozZh/u1P3TnFDfgAnOsmRJ9qyygC9yCEKI8hGmM05a+dvGkX7TL051gJWxZIdscovQiVLryozWpMjkUyIu/2rEnuz+jc9mII80vipzws=;gPq9sIx/UKEr+x2toCacXg=="
 ---
 

@@ -239,6 +239,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence-Emotion Recognition Market Complete Overview till 2031"
+    excerpt: "The latest market research report on the Global \"Artificial Intelligence-Emotion Recognition Market\" is segmented"
+    publishedDateTime: 2023-04-28T11:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-emotion-recognition-market-complete-overview-till-2031-2023-04-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Cloud AI Developer Services Market Research, 2023-2030"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Cloud AI Developer Services Marketsize, segment (mainly coveringMajorType (, Image Recognition, Language Recognition, Automated Machine Learning (AutoML), ,),End Users ..."
     publishedDateTime: 2023-04-28T11:52:00Z

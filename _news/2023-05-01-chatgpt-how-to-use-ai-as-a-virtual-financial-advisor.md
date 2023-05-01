@@ -87,7 +87,21 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Artificial intelligence or active imagination with ChatGPT?"
+    excerpt: "When a journalist and historian attempted to see if his own research would be sourced by AI, he was intrigued by some of the responses he got from a text-generating artificial chatbot"
+    publishedDateTime: 2023-05-01T01:00:00Z
+    webUrl: "https://www.irishexaminer.com/opinion/commentanalysis/arid-41128273.html"
+    type: article
+    provider:
+      name: Irish Examiner
+      domain: irishexaminer.com
+    quality: 37
+    images:
+      - url: "https://www.irishexaminer.com/cms_media/module_img/7092/3546217_7_seoimageog_11b276fe-6c3b-481d-a99a-14ae76e0b1cf.jpg.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "mV6aUyccYobw4acw5uumfhVBJVGVVpAeejf+Ig7XQQruXp5v1DFn0aSVCs3jRbgCX4rmhzOjFbb/RE2IlhrnXXEJwssFexa0PUzrDsmxc7jerBuh1Fn04P+whdVnQdg4eEzvYKcroT/UNYEwrovhT5fXkdTn0HAnuFOAdJQ6GKjY5S0GLPV5Y7dFL43Cbz/n7clpAVKzzWHWsIYRpLDvsshFbXeo+PAlWjQ7jCwoU2aMnrdUi6hVOd3ZsKQDYpgfzwZGX59KaawPYzHBUIxJEM0MCR0EUzHj/9+RDQ9xH6kOiY/lScJpZJnsOnhFhNSYQpotRstflrvnYUNni2m8Dahje1dg9cmbu0T+nEVy20E=;3IsSW47+0F9SJZEuzSkRaQ=="
+secured: "+Zo+f70B4fPg8C+w5H+cpbGKADF5w+G/uYS296SRjoiV6kePccBl66zUaAdYjQ97L+BIPfktYUlLF7F7EqM/f1qcTxwrjHZ9XXTGkpWW34ZVHX9hqKrNzz+wl+GISSzCuBgLH77Ec/JoQpyXPLIUYiXTPYRCHEhM2XGqaMojsauW7YbwfFIUsxCiugIU9NjEvNQ+zsvtHJM7zn5SOMHbr7BOs6rnomvzNVQ9HXBoYjZBHCSggiwcgUEx65Ti32N6L/+TheATh04ccKz/RN7Vz1A1FTBiRCBQfCEPQ7O4xIGku9AaJUdAAdeWeevYg39nxWGQ/WqRisaOK/hwMKLCWrVhvWMfIHsJMBpnIhf6JCyTx8urRsysMfw9Y6USHQhNNu6UxbkwlAHg5x5V/wMyc+sBEpcB6XO/1W5xRDynumnNBMozwnTfbe0f4yTq+Q+i0cyAz1zJAcp/0O9lSp6X8SP72jThOUKR9iTnc0Si1LeWev/B8Kau8KvMPmZbd6Jhfbc6S2mTP3xhRkQCL9LhzQ==;qjQTC18C5qk+1nkhy8ybpg=="
 ---
 

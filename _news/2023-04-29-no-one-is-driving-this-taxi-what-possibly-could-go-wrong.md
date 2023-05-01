@@ -7,7 +7,7 @@ originalUrl: "https://www.timesfreepress.com/news/2023/apr/28/no-one-is-driving-
 webUrl: "https://www.timesfreepress.com/news/2023/apr/28/no-one-is-driving-this-taxi-tfp/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "No one is driving this taxi. What possibly could go wrong?"
-    excerpt: "An Associated Press reporter recalls the first time he took a ride in a car without sitting in the driver's seat. It happened one night last September when a Chevy"
-    publishedDateTime: 2023-04-26T07:05:00Z
-    webUrl: "https://omaha.com/lifestyles/no-one-is-driving-this-taxi-what-possibly-could-go-wrong/article_eebc9d8c-7790-5083-8495-f151ac4f48cf.html"
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 24
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/b/e7/be7e2c85-bbe7-5ed1-ade9-03c57263d314/6448cf8b4ff76.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "No one is driving this taxi. What possibly could go wrong?"
     excerpt: "I won't forget the first time I took a ride in a car without anyone sitting in the driver's seat. It happened one night last September when a Chevy Bolt named Peaches picked me up outside a San Francisco bar."
     publishedDateTime: 2023-04-26T19:41:00Z

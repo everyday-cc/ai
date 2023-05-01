@@ -412,7 +412,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/microsoft-stock-price-chatgpt-investor-ai-cloud-azure-satya-nadella-2023-4",
       "featuredContent": null,
       "highlight": null,
-      "heat": 403,
+      "heat": 383,
       "tags": null,
       "images": [
         {
@@ -942,6 +942,50 @@
       ]
     },
     {
+      "path": "_news/2023-04-20-microsoft-and-epic-partner-to-bring-gpt-4-and-generative-ai-to-healthcare-providers.md",
+      "title": "Microsoft and Epic partner to bring GPT-4 and generative AI to healthcare providers",
+      "excerpt": "Healthcare software giant Epic Systems Corp. said Monday it’s partnering with Microsoft Corp. to embrace generative artificial intelligence through its Azure AI platform. Under the partnership ...",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2023/04/18/microsoft-epic-partner-bring-gpt-4-generative-ai-healthcare-providers/",
+      "originalUrl": "https://siliconangle.com/2023/04/18/microsoft-epic-partner-bring-gpt-4-generative-ai-healthcare-providers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/04/neuroscience-doctor-holding-clipboard-showing-treatment-against-brain-disease-patient-with-eeg-headset-woman-sitting-neurological-scientific-laboratory-treating-nervous-system-dysfunctions-1.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-19T22:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-04-20-amazon-and-microsoft-vets-raise-10m-for-computer-vision-startup-used-in-warehouses.md",
       "title": "Amazon and Microsoft vets raise $10M for computer vision startup used in warehouses",
       "excerpt": "A new Seattle startup wants to make it easier for businesses to monitor their warehouses using artificial intelligence and computer vision technologies. Groundlight emerged from stealth Wednesday, unveiling its",
@@ -1414,59 +1458,6 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-aws-builds-generative-ai-for-b2b-from-the-bedrock-up.md",
-      "title": "AWS Builds Generative AI For B2B From The Bedrock Up",
-      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives into AWS' recent AI announcements and how it could be huge for foundational models and other areas of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/04/18/aws-builds-generative-ai-for-b2b-from-the-bedrock-up/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/04/18/aws-builds-generative-ai-for-b2b-from-the-bedrock-up/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/643f0205fa6b6d50540990c5/0x0.jpg?format=jpg&width=1200",
-          "width": 624,
-          "height": 308,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/04/18/aws-builds-generative-ai-for-b2b-from-the-bedrock-up/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/04/18/aws-builds-generative-ai-for-b2b-from-the-bedrock-up/amp/",
-      "publishedDateTime": "2023-04-18T13:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

@@ -1,28 +1,29 @@
 ---
 category: news
-title: "Addison Selected as Host Site for a Fourth Time for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
-excerpt: "Headstorm will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students at no cost for a 4th time in the Fall of 2023. The AI Bootcamp in Addison will target underserved high school students (9th-12th grade) and will introduce these high school students to basic AI concepts and skills."
-publishedDateTime: 2023-04-28T20:03:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/04/28/9804378.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/04/28/9804378.htm"
+title: "Addison Selected as Host Site for a Fourth Time for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!"
+excerpt: "Headstorm will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students at no cost for a 4th time in the Fall of 2023. The AI"
+publishedDateTime: 2023-04-28T19:54:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/04/g32092893/addison-selected-as-host-site-for-a-fourth-time-for-artificial-intelligence-bootcamp-applications-"
+webUrl: "https://www.benzinga.com/pressreleases/23/04/g32092893/addison-selected-as-host-site-for-a-fourth-time-for-artificial-intelligence-bootcamp-applications-"
+ampWebUrl: "https://www.benzinga.com/amp/content/32092893"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32092893"
 type: article
-quality: 22
+quality: 40
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - AI in Robotics
-  - AI
   - AI in Autos
+  - AI
 
 images:
-  - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
-    width: 550
-    height: 353
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
 related:
@@ -273,6 +274,6 @@ related:
       domain: benzinga.com
     quality: 0
 
-secured: "i2IkGY6BfdGVstF09U/DtNpilimfwpsTz+gUG+W71dHVu+AtaszOB4mIfRH8NCqIRV1vr1aGlEf14SFXuSVrwBkvqM2BDsAaz6GpyfjaoXUiO1Q4SAEdjRQvTA2sfRxVasSTbep4mc3wXcvn5btRonEsFTD0NPZhJQ6VpvSyDltfir/XCGWbuAhP8RQqjDiiiMcaJn+EbkZDE2AztJs5fT5lcaqrI7YX0ZC4BiWM8e+ZDx57dWVWya9cX2uPGbUrmx2FHIBL9zUMKlDg2BXNPrjx1qId7FFysDORe7aS/MmmrkOJDTqa1AlQ46qRZ5XhsRUMLVPIL5Od2tBwwnAfg0fEEcex4kblYCF7tTkooUo=;1PjEB6E2dWlDMFl/+8/JkA=="
+secured: "5ETXUcYDA1jnuR6JcHJ/J5Eco2frLl9fPkCXAp92uWr8ggtZeu/ff5ENNn2xb0o5JN9dt66Nl5F2aE+CCEnBySS9srbMHnXQsqR4usVhNEPVdQsGCspolmWmCIYyxxw4FM6EHzWU7sQa9M4uNVMaiVOMiPiUjgT4IysMvatTN/QUTAsCISe1dH6VsZifBCYigy+igsWVqTOe3PQyy4E9a8YnOxCSPQVWFwsZO6XMWAKs4rbiJWD8Kl7xIEfbzaNROHY5jLm7pn9OCJsY6kpTsDZYqSNHYVuYIKrHhj+P9ypYwnPLU1KnX/xDQ+szy0mxeVRPmU2bFMEMC5hExqbY0kiQd2eo8OSK7joYc67n4s8=;CF8H9f+DSSK2z9bCLEc/Fw=="
 ---
 

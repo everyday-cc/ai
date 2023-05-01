@@ -2,6 +2,151 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2023-04-15-generative-ai-music-platform-creates-forever-songs-with-artists-unique-sounds-melodies-and-beats.md",
+      "title": "Generative AI Music Platform Creates Forever Songs With Artists’ Unique Sounds, Melodies, And Beats",
+      "excerpt": "A generative AI startup named Aimi has launched a new music platform that fundamentally transforms music, artists, listeners, and monetization. It’s simultaneously a creation tool that works alongside artists to create tracks, a listening experience that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2023/04/14/generative-ai-music-platform-creates-forever-songs-with-artists-unique-sounds-melodies-and-beats/",
+      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2023/04/14/generative-ai-music-platform-creates-forever-songs-with-artists-unique-sounds-melodies-and-beats/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64398a48797e9c71efa00872/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 843,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2023/04/14/generative-ai-music-platform-creates-forever-songs-with-artists-unique-sounds-melodies-and-beats/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2023/04/14/generative-ai-music-platform-creates-forever-songs-with-artists-unique-sounds-melodies-and-beats/amp/",
+      "publishedDateTime": "2023-04-14T10:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-15-a-chinese-company-is-reportedly-planning-to-replace-some-human-copywriters-and-graphic-designers-with-ai.md",
+      "title": "A Chinese company is reportedly planning to replace some human copywriters and graphic designers with AI",
+      "excerpt": "Some news sites have already experimented with using AI models to write articles and other types of media content, including BuzzFeed and CNET. Insider's global editor-in-chief recently announced its newsroom will start experimenting with ChatGPT.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/chinese-company-to-replace-some-copywriters-graphic-designers-ai-report-2023-4",
+      "originalUrl": "https://www.businessinsider.com/chinese-company-to-replace-some-copywriters-graphic-designers-ai-report-2023-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/643965fb028f6800183d9a7a?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/chinese-company-to-replace-some-copywriters-graphic-designers-ai-report-2023-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chinese-company-to-replace-some-copywriters-graphic-designers-ai-report-2023-4?amp",
+      "publishedDateTime": "2023-04-14T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-15-bloomberg-plans-to-integrate-gpt-style-ai-into-its-terminal.md",
+      "title": "Bloomberg plans to integrate GPT-style AI into its terminal",
+      "excerpt": "“So when that came out, we were like, ‘OK, this is going to change the way that we do NLP here.’” NLP stands for natural language processing, the part of machine learning that focuses on deriving meaning from words. The move also shows how the AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/business/business-news/bloomberg-plans-integrate-gpt-style-terminal-rcna79507?icid=recommended",
+      "originalUrl": "https://www.nbcnews.com/business/business-news/bloomberg-plans-integrate-gpt-style-terminal-rcna79507?icid=recommended",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-04/230413-bloomberg-terminal-mn-0920-7e7f57.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna79507",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna79507",
+      "publishedDateTime": "2023-04-14T10:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-14-nvidias-top-ai-chips-are-selling-for-more-than-40000-on-ebay.md",
       "title": "Nvidia's top A.I. chips are selling for more than $40,000 on eBay",
       "excerpt": "The H100, Nvidia's latest flagship AI chip, was announced last year and is currently being shipped to data centers.",
@@ -1042,144 +1187,6 @@
         "AI",
         "Microsoft AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-04-14-arizona-mother-describes-ai-phone-scam-faking-daughters-kidnapping-it-was-completely-her-voice.md",
-      "title": "Arizona mother describes AI phone scam faking daughter's kidnapping: 'It was completely her voice'",
-      "excerpt": "Computer science professor Subbarao Kambhampati warned that these stories of voice-cloning technology and catfish schemes could become more common as AI technology improves. \"In the beginning, it would require a larger amount of samples. Now there are ways ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/arizona-mother-describes-ai-phone-scam-faking-daughters-kidnapping-completely-voice",
-      "originalUrl": "https://www.foxnews.com/media/arizona-mother-describes-ai-phone-scam-faking-daughters-kidnapping-completely-voice",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8eb80cf8-e162-478d-abd8-c8fbc0f1273a/01e11506-91c2-44be-a50c-2ebd0c02eebe/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/arizona-mother-describes-ai-phone-scam-faking-daughters-kidnapping-completely-voice.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/arizona-mother-describes-ai-phone-scam-faking-daughters-kidnapping-completely-voice.amp",
-      "publishedDateTime": "2023-04-13T18:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-14-handing-off-control-while-keeping-the-human-engaged-is-a-constant-challenge-with-surgical-robotics-says-industry-expert.md",
-      "title": "Handing Off Control While Keeping the Human Engaged Is a Constant Challenge with Surgical Robotics, Says Industry Expert",
-      "excerpt": "As surgical robotics get smaller, more flexible, and more mechanically complex, new challenges arise, such as whether we should rely on the doctor to sort out the control of the devices, or if control should be offloaded to a semi or fully autonomous ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/robotics/handing-control-while-keeping-human-engaged-constant-challenge-surgical-robotics-says",
-      "originalUrl": "https://www.mddionline.com/robotics/handing-control-while-keeping-human-engaged-constant-challenge-surgical-robotics-says",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/mddionline.com/files/hand-3685829_640_web.jpg",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-13T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-14-ai-and-ml-the-new-frontier-for-data-center-innovation-and-optimization.md",
-      "title": "AI and ML: The new frontier for data center innovation and optimization",
-      "excerpt": "By implementing AI and ML, companies can create autonomous data centers that optimize a multitude of data engineering tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/data-infrastructure/ai-and-ml-the-new-frontier-for-data-center-innovation-and-optimization/",
-      "originalUrl": "https://venturebeat.com/data-infrastructure/ai-and-ml-the-new-frontier-for-data-center-innovation-and-optimization/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-13T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

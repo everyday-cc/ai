@@ -43,20 +43,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "New dementia treatment? How an HIV drug may help prevent protein build-up in the brain"
-    excerpt: "Researchers say an HIV drug showed promise in a clinical trial involving mice in reducing the build-up of proteins in the brain associated with dementia"
-    publishedDateTime: 2023-04-26T08:53:00Z
-    webUrl: "https://www.medicalnewstoday.com/articles/hiv-drug-helps-protect-against-build-up-of-dementia-related-proteins-in-mouse-brains-emb"
-    type: article
-    provider:
-      name: Medical News Today
-      domain: medicalnewstoday.com
-    quality: 31
-    images:
-      - url: "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2023/04/senior-coffee-hiv-drug-dementia-732x549-thumbnail.jpg"
-        width: 732
-        height: 549
-        isCached: true
   - title: "HIV drug may help fight dementia — and other good news you may have missed"
     excerpt: "Turn off the cable news and tune out the doom and gloom — and get ready for your weekly dose of “good news.” Here are this week’s best feel-good stories from Yahoo News partners."
     publishedDateTime: 2023-04-29T15:52:00Z
