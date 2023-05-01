@@ -129,6 +129,20 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Chatbot Gone Awry Starts Conversations About AI Ethics in South Korea"
+    excerpt: "The “Luda” AI chatbot sparked a necessary debate about AI ethics as South Korea places new emphasis on the technology. In Spike Jonze’s 2013 film, “Her,” the protagonist falls in love ..."
+    publishedDateTime: 2023-04-27T23:59:00Z
+    webUrl: "https://thediplomat.com/2021/01/chatbot-gone-awry-starts-conversations-about-ai-ethics-in-south-korea/"
+    type: article
+    provider:
+      name: The Diplomat
+      domain: thediplomat.com
+    quality: 54
+    images:
+      - url: "https://thediplomat.com/wp-content/uploads/2021/01/sizes/td-story-s-2/thediplomat-2021-01-15-12.jpg"
+        width: 600
+        height: 310
+        isCached: true
   - title: "Chatbots and the new AI: What will Silicon Valley unleash upon the world this time?"
     excerpt: "Jobs. News. Art. Democracy. Equality. Education. Privacy. Truth. Your bank account. All will be impacted by Silicon Valley's latest creation: \"generative\" artificial intelligence."
     publishedDateTime: 2023-04-27T14:13:00Z

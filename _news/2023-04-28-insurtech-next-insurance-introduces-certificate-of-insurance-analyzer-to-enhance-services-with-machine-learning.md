@@ -28,15 +28,20 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence In Insurtech Market Growth by 2030"
-    excerpt: "What is the Artificial Intelligence In Insurtech market growth? Artificial Intelligence In Insurtech Market Size is projected to Reach Multimillion USD by 2030, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2030."
-    publishedDateTime: 2023-04-28T06:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-insurtech-market-growth-by-2030-2023-04-28"
+  - title: "Is Artificial Intelligence relevant to Insurance?"
+    excerpt: "Discover the benefits and challenges the insurance industry is facing with the growing use of artificial intelligence (AI).\nThe post Is Artificial Intelligence relevant to Insurance? appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-05-01T12:00:00Z
+    webUrl: "https://www.ibm.com/blog/is-artificial-intelligence-relevant-to-insurance/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
+      name: IBM
+      domain: ibm.com
+    quality: 119
+    images:
+      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/05/fil04436.l-e1682940146701.jpg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "1dgfouKz1CWPrSlLDtN1ZgcXxVDETtrwSLlMnNqC9AwFSCz+KNNyiN6AMdd8qmhz/3b3wdOTfojxxPMbA5C+LAKV84awghl1JOUxkb5OIITGlbbaCz/7P2OIlui5RYdqQ1AjCaGS4bcxi73xopziCGLo1GbgHwMAyt3ZGrZrkp/XU+70GOHcUNQ0V9i9GXd5ZXje+Rqzv22neiasdX7vnR8M9I6Kt6v792G7m39Kt5k+jXsvS6pBxEzBGbuiwqTeklrxJUIwah5uwYerBzr+NAJiZ9oPB74uCiubPYHD+2yQVzlSkr0x5ctEQ3HmKh7omc4wpF8+w7vbdmx9RrUf4JdEX5buBj0MKXpYnCfGcV90tDF00iyuFrnU4V2F9rklhg5Qxr7095RKvHN8pIkmaiX59ne5zd7YQ47/VfDDZfuPetZgVvIxQYzlY0mWOO7flMZv6jYECH2oQLFtyFOkvmy8/1Sym737kS1kVXdEuVcHmhekw2i7JTmFQoUGRxG1vmtYabacIrKUAWdZ/hqhTg==;SWV5j+ZRr6TU2KeCfZwXrQ=="
 ---

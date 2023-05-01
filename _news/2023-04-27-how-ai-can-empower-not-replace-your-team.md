@@ -50,14 +50,14 @@ related:
       name: Harvard Medical School
       domain: harvard.edu
     quality: 34
-  - title: "We Can Embrace Artificial Intelligence Without Losing Our Soul"
-    excerpt: "Launched in November, ChatGPT, driven by artificial intelligence, or AI, has been interacting with the public for six months now, gathering data and improving its performance. In those months, the chatbot has already passed exams in four law courses at the University of Minnesota and another exam at University of Pennsylvania’s Wharton School of Business."
-    publishedDateTime: 2023-04-26T18:44:00Z
-    webUrl: "https://www.jewishexponent.com/2023/04/26/we-can-embrace-artificial-intelligence-without-losing-our-soul/"
+  - title: "How to Introduce Your Employees to Artificial Intelligence"
+    excerpt: "A.I.' is a booming buzzword, but some team members might be apprehensive about the technology. Here's how to ease its adoption in your workplace."
+    publishedDateTime: 2023-05-01T10:12:00Z
+    webUrl: "https://www.inc.com/sarah-lynch/how-to-introduce-your-employees-to-artificial-intelligence.html"
     type: article
     provider:
-      name: The Jewish Exponent
-      domain: jewishexponent.com
+      name: Inc
+      domain: inc.com
     quality: 19
 
 secured: "BtLf7yrLGnLjxhnSciGPKcoVCJ0qkFXelSzaMijQHjCV+EXrM5crDhPqjlGejO340zCN15rk0gPkai9J+Dg91TeidIrPjmA24LMveU17/p6c69rMnwDEiUkZ8hXRC0HQb1NdqwHbFyirGVQjHkI2W/No4yrueQZ2C4ciYrOgAFBKsGaGU+whckzqkGEYwgdv2dbx5uv6rQ2JC114p/VGBIScb8MxTLs9MAqsCHMC8xVdHGXgcM6YHdrINzduOtHTLYDIFqZS/w3kdSUpMf6b6zGsp8YaWxTkRwbSllmqr0BcXUfizt3OXPrUNt9EexodeKnkhA6dGdNAwxZ5lfgNCQ78yzBVWXdMmOLeG5hnhRyQrwhI6WJZ37k+j3AIpq1QmNxcEo7ghuLuwfam6RhnFU0f/sgmcbJzxd05p3oMOz+EbuoW1MS+d4FEkS77h3ITtaUuryysNpgI/eHn/Lk+3HKkmKMCf6Nnki9/UUMCbf4hLKiXyyk3zay8K0qQPEu5nK/aJ9UO8EA1ZWf4P0diig==;Fm+axWW269Gl9sHagpRylw=="

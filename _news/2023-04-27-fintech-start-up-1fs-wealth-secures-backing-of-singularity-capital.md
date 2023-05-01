@@ -69,20 +69,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Pagaya gets Buy initiation from Benchmark as AI-focused fintech adds partners"
-    excerpt: "Never miss a trade again with the fastest news alerts in the world! This headline only article is a sample of real-time intelligence Benzinga Pro traders use to win in the markets everyday. Want ..."
-    publishedDateTime: 2023-04-26T18:26:00Z
-    webUrl: "https://www.benzinga.com/content/seekingalpha-com/23/04/32015715/pagaya-gets-buy-initiation-from-benchmark-as-ai-focused-fintech-adds-partners"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 36
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "Rising AI and machine learning investments powering senior care advancements"
     excerpt: "It’s perhaps no surprise that investment in AI and ML in healthcare rose over the last two years, according to new research from commercial real estate and investment company Jones Lang LaSalle."
     publishedDateTime: 2023-05-01T04:17:00Z

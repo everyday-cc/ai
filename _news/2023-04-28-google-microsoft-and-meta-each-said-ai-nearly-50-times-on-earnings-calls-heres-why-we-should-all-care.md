@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Is Staking Its Future On Generative AI"
-    excerpt: "Microsoft CEO, Satya Nadella,has been very clear that generative AI will reshape every Microsoft software category and major transformations are underway throughout the company. Microsoft has a major edge over its rivals, as it also is building in its own AI chips, so it won’t be totally reliant on market leaders like Intel, or Nvidia."
-    publishedDateTime: 2023-04-26T18:55:00Z
-    webUrl: "https://www.forbes.com/sites/cindygordon/2023/04/26/microsoft-is-staking-its-future-on-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/cindygordon/2023/04/26/microsoft-is-staking-its-future-on-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/04/26/microsoft-is-staking-its-future-on-generative-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 108
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6449730f6426343270f3312d/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Microsoft's Q1 Earnings Show Impact Of Companies Going All-In On AI"
     excerpt: "Revenue, net income and cloud computing were all up, delighting Wall Street and confirming Microsoft’s gamble has so far paid off."
     publishedDateTime: 2023-04-27T15:13:00Z
@@ -63,38 +47,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/644a90ed0c69a91ea555c171/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 777
-        isCached: true
-  - title: "Microsoft mentioned artificial intelligence 50 times on its earnings call and Wall Street is thrilled"
-    excerpt: "\"Nadella and Co. delivered another masterpiece cloud quarter which will be the focus of the Street and sets a positive tone,\" Wedbush said."
-    publishedDateTime: 2023-04-26T17:56:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-stock-price-earnings-call-artificial-intelligence-ai-wall-street-2023-4"
-    ampWebUrl: "https://markets.businessinsider.com/news/stocks/microsoft-stock-price-earnings-call-artificial-intelligence-ai-wall-street-2023-4?amp"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/microsoft-stock-price-earnings-call-artificial-intelligence-ai-wall-street-2023-4?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 89
-    images:
-      - url: "https://i.insider.com/644951b29052390019700246?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "PwC US to invest $1 billion for expanding generative AI capabilities in collaboration with Microsoft"
-    excerpt: "PricewaterhouseCoopers (PwC) unveiled plans to invest $1B in expanding its artificial intelligence (AI) portfolio through generative AI."
-    publishedDateTime: 2023-04-26T18:31:00Z
-    webUrl: "https://venturebeat.com/ai/pwc-us-to-invest-1-billion-for-expanding-generative-ai-capabilities-in-collaboration-with-microsoft/"
-    ampWebUrl: "https://venturebeat.com/ai/pwc-us-to-invest-1-billion-for-expanding-generative-ai-capabilities-in-collaboration-with-microsoft/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/pwc-us-to-invest-1-billion-for-expanding-generative-ai-capabilities-in-collaboration-with-microsoft/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/04/PwC.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Microsoft Designer brings AI-powered graphic design to the masses"
     excerpt: "The tech giant also announced some new features for the Designer app, which will be built into the Edge browser."
@@ -166,59 +118,6 @@ related:
         width: 940
         height: 940
         isCached: true
-  - title: "Machine Learning in Retail Market Size, Business Segments, Innovative Strategies And Outlook by 2030| IBM, Microsoft, Amazon Web Services"
-    excerpt: "The Machine Learning in Retail Market research report encompasses a thorough study of the current situation of the"
-    publishedDateTime: 2023-04-27T07:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-retail-market-size-business-segments-innovative-strategies-and-outlook-by-2030-ibm-microsoft-amazon-web-services-2023-04-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
-  - title: "TTEC Digital introduces WFM Adapter for Microsoft Dynamics 365 Customer Service"
-    excerpt: "TTEC Digital introduces WFM Adapter for Microsoft Dynamics 365 Customer Service Apr 27, 2023 (PRNewswire via COMTEX) -- PR Newswire DENVER, April 27,"
-    publishedDateTime: 2023-04-27T12:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ttec-digital-introduces-wfm-adapter-for-microsoft-dynamics-365-customer-service-2023-04-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "New Komprise Intelligent Tiering for Azure Slashes High File Storage Costs with Exclusive Microsoft Azure Marketplace Offer"
-    excerpt: "Organizations can accelerate their cloud journey and gain better ROI from cloud migrations by first transparently tiering data from any NAS that is cold and has not been accessed in months to Azure Blob Storage."
-    publishedDateTime: 2023-04-27T12:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/new-komprise-intelligent-tiering-for-azure-slashes-high-file-storage-costs-with-exclusive-microsoft-azure-marketplace-offer-2023-04-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "The future of generative AI is niche, not generalized"
-    excerpt: "ChatGPT has sparked speculation about artificial general intelligence. But the next real phase of AI will be in specific domains and contexts."
-    publishedDateTime: 2023-04-27T15:32:00Z
-    webUrl: "https://www.technologyreview.com/2023/04/27/1072102/the-future-of-generative-ai-is-niche-not-generalized/"
-    ampWebUrl: "https://www.technologyreview.com/2023/04/27/1072102/the-future-of-generative-ai-is-niche-not-generalized/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/04/27/1072102/the-future-of-generative-ai-is-niche-not-generalized/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/04/TW_generativeAI_1200.jpg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Google, Microsoft, Amazon, & Meta put AI on steroids while cutting jobs"
     excerpt: "The IT behemoths Alphabet, Microsoft, Amazon, and Meta are increasing their large language model (LLM) investments as a show of their dedication to utilizing the power of artificial intelligence (AI) while cutting costs and jobs."
     publishedDateTime: 2023-04-29T15:51:00Z
@@ -275,20 +174,6 @@ related:
         width: 647
         height: 450
         isCached: true
-  - title: "Microsoft 'holding a lot of the cards' in AI-powered search war with Google"
-    excerpt: "Microsoft didn’t mention Bing once on its earnings call. The search engine hasn’t been a big growth driver for Microsoft in the past. That's changing."
-    publishedDateTime: 2023-04-26T17:22:00Z
-    webUrl: "https://www.aol.com/finance/microsoft-holding-lot-cards-ai-171612672.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 52
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/rEQvskN4tIZdTSt1jmNJoA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/5ad4fc321a52c21d694cdbe3d7565c03"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Google Cloud and Microsoft tease plans to integrate generative AI into core products"
     excerpt: "Each hyperscaler used recent earnings calls to highlight the momentum and eagerness its customers have for AI."
     publishedDateTime: 2023-04-26T21:08:00Z
@@ -303,56 +188,6 @@ related:
         width: 770
         height: 435
         isCached: true
-  - title: "Visionify.Ai Secures Microsoft Co-Sell Ready Status For Visionai Workplace Safety Toolkit"
-    excerpt: "Visionify achieves Microsoft co-sell ready status for Vision AI Workplace Safety Toolkit Visionify.ai can now present their advanced Visi"
-    publishedDateTime: 2023-04-29T17:49:00Z
-    webUrl: "https://menafn.com/1106138384/VisionifyAi-Secures-Microsoft-Co-Sell-Ready-Status-For-Visionai-Workplace-Safety-Toolkit"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 45
-    images:
-      - url: "https://menafn.com/updates/pr/2023-04/29/EP_03358image_story.png"
-        width: 600
-        height: 314
-        isCached: true
-  - title: "AI Presents 'Enormous' Opportunity for Microsoft's Future"
-    excerpt: "TheStreet's J.D. Durkin sat down with Angelo Zino, Senior Equity Analyst, CFRA Research to discuss Microsoft's first quarter earnings."
-    publishedDateTime: 2023-04-26T18:38:00Z
-    webUrl: "https://www.thestreet.com/video/microsoft-beats-on-earnings-as-ai-presents-enormous-opportunity"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 34
-  - title: "What the Alphabet and Microsoft earnings calls tell us about the AI arms"
-    excerpt: "Alphabet and Microsoft are acting aggressively to get in front of the large profits that could be had when AI begins to radically change the face of computing."
-    publishedDateTime: 2023-04-26T17:16:00Z
-    webUrl: "https://www.fastcompany.com/90887297/what-the-alphabet-and-microsoft-earnings-calls-tell-us-about-the-ai-arms"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 33
-  - title: "What the Alphabet and Microsoft earnings calls tell us about the AI arms race"
-    excerpt: "Alphabet and Microsoft are acting aggressively to get in front of the large profits that could be had when AI begins to radically change the face of computing."
-    publishedDateTime: 2023-04-26T17:16:00Z
-    webUrl: "https://www.fastcompany.com/90887297/what-the-alphabet-and-microsoft-earnings-calls-tell-us-about-the-ai-arms"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 31
-  - title: "New Komprise Intelligent Tiering for Azure Reduces High File Storage Costs with Exclusive Microsoft Azure Marketplace Offer"
-    excerpt: "Komprise, a leader in analytics-driven unstructured data management and mobility, today announced an extension to its"
-    publishedDateTime: 2023-04-27T18:43:00Z
-    webUrl: "https://www.datanami.com/this-just-in/new-komprise-intelligent-tiering-for-azure-reduces-high-file-storage-costs-with-exclusive-microsoft-azure-marketplace-offer/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 8
 
 secured: "j8x60f2vB0cdabV3aOab+n3SZBEtOP8L6XQCKH9oyW06etM2fI/FIOOZfxBOetmxPcbDUI0J7gmfiX6FL1zABUdaAYAfhWIcaY1yFwCE/QeaK+xDPfA6u2aZ4nrzObHSP4oxw1i11KgU5s0v3Z3mP3G60ZZdgZRagy2Rg221Jz2s0+7OD6Gbz25HPpyGyKALp7nI4ttxua5tPZpZdD8PBUmcGJhhWf+v34gl1ElucQIM/8XjlLrQhpPNLSA91hDZSjhvCZ+oH2B0EICHypcXdEvXhPbXhnVME/iB6rbsnAr8SpcxjX6oFKNK0uCgWx8j0wxDpqzwaL9EFr4LCPkyYdVqB1mdQACRWVuzsQQwJ5wcAkh9tAE9RA8xFaRR/Ayh5VIFPkQ4Afmnld+qITOhl/lvPVl0lmkusIPp7w3Er0SIjGvmV8dovu42Z60oZQRTt78rwIAecXzTcCmQv2L+CMLeuY58OAqnR04I3nwktN5aFrAqw551Dk10ouioiNTYlP9nhxcX5+XGjgq5AJjv3A==;texn2xrjTv1VosVCG/Q4pg=="
 ---

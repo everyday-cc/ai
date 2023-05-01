@@ -572,6 +572,58 @@
       ]
     },
     {
+      "path": "_news/2023-04-17-baidu-apollo-releases-major-product-updates-to-help-manufacturers-build-smarter-cars-for-tomorrow.md",
+      "title": "Baidu Apollo Releases Major Product Updates to Help Manufacturers Build Smarter Cars for Tomorrow",
+      "excerpt": "Baidu Apollo Releases Major Product Updates to Help Manufacturers Build Smarter Cars for Tomorrow Apr 16, 2023 (PRNewswire via COMTEX) -- PR",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/baidu-apollo-releases-major-product-updates-to-help-manufacturers-build-smarter-cars-for-tomorrow-2023-04-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/baidu-apollo-releases-major-product-updates-to-help-manufacturers-build-smarter-cars-for-tomorrow-2023-04-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-16T19:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-17-is-artificial-intelligence-advancing-too-quickly-what-ai-leaders-at-google-say.md",
       "title": "Is artificial intelligence advancing too quickly? What AI leaders at Google say",
       "excerpt": "The soccer robots, for example, can't write up a grocery list or book your travel or drive your car. The ultimate goal is what's called artificial general intelligence-- a learning machine that can score on a wide range of talents. Scott Pelley ...",
@@ -1280,49 +1332,6 @@
       "provider": {
         "name": "The Beaumont Enterprise",
         "domain": "beaumontenterprise.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-11-china-speeds-up-digital-green-transformation-in-coal-industry.md",
-      "title": "China speeds up digital, green transformation in coal industry",
-      "excerpt": "Riding on a driverless, rubber-tired vehicle to the coalface at a depth of 150 meters has become part of the daily routine for miners in Shangwan",
-      "sourceUrl": null,
-      "webUrl": "https://www.macaubusiness.com/china-speeds-up-digital-green-transformation-in-coal-industry/",
-      "originalUrl": "https://www.macaubusiness.com/china-speeds-up-digital-green-transformation-in-coal-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2021/10/MB-Still-Pop-up-Banner-800x480px.jpg",
-          "width": 800,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-10T12:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Macau Business",
-        "domain": "macaubusiness.com",
         "images": null,
         "publishers": null,
         "authors": null

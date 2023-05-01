@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-01-three-trends-of-transformation-how-ai-value-based-care-vbc-will-drive-transformation-of-self-insured-healthcare.md",
+      "title": "Three Trends Of Transformation: How AI & Value-Based Care (VBC) Will Drive Transformation Of Self-Insured Healthcare",
+      "excerpt": "Healthcare is on the brink of a seismic shift, and AI is its catalyst. (1) Large Language Models extend our predictive capabilities. (2) Self-insured companies' risk profile and the patient needs are aligned.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lutzfinger/2023/05/01/three-trends-of-transformation-how-ai--value-based-care-vbc-will-drive-transformation-of-self-insured-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/lutzfinger/2023/05/01/three-trends-of-transformation-how-ai--value-based-care-vbc-will-drive-transformation-of-self-insured-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/644f0e322dfc4586460d1577/0x0.jpg?format=jpg&width=1200",
+          "width": 1024,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-01T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-04-30-promises-perils-and-predictions-for-artificial-intelligence-in-medicine-a-radiologists-perspective.md",
       "title": "Promises, Perils, And Predictions For Artificial Intelligence In Medicine: A Radiologist’s Perspective",
       "excerpt": "In my own field of radiology, AI will be used to enhance (but not yet replace) human radiologists making diagnoses from medical images. There are already FDA-approved AI algorithms to detect subtle internal bleeding within the brain or potentially fatal blood clots (“pulmonary embolism”) within the arteries of the lung.",
@@ -115,7 +167,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-market-projection-and-growth-drivers-2023-2028-2023-04-28",
       "featuredContent": null,
       "highlight": null,
-      "heat": 236,
+      "heat": 246,
       "tags": null,
       "images": [
         {
@@ -1437,59 +1489,6 @@
         "AWS AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-04-17-ai-demystified-making-sense-of-artificial-intelligence-for-your-business.md",
-      "title": "AI Demystified: Making Sense Of Artificial Intelligence For Your Business",
-      "excerpt": "If you want an AI implementation now, turn your attention to narrow AI. Think about tasks that are manual, repetitive and structured.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/17/ai-demystified-making-sense-of-artificial-intelligence-for-your-business/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/17/ai-demystified-making-sense-of-artificial-intelligence-for-your-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/617801ba6b3df3f9956729d2/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/17/ai-demystified-making-sense-of-artificial-intelligence-for-your-business/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/17/ai-demystified-making-sense-of-artificial-intelligence-for-your-business/amp/",
-      "publishedDateTime": "2023-04-17T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Robotics"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/security/tenable-report-shows-how-generative
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/tenable-report-shows-how-generative-ai-is-changing-security-research/amp/"
 type: article
 quality: 106
-heat: 166
+heat: 176
 published: true
 
 provider:
@@ -63,6 +63,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2018/11/artificial-intelligence.shutterstock_1164239863.jpg?w=1200&strip=all"
         width: 1200
         height: 850
+        isCached: true
+  - title: "The future of generative AI is niche, not generalized"
+    excerpt: "ChatGPT has sparked speculation about artificial general intelligence. But the next real phase of AI will be in specific domains and contexts."
+    publishedDateTime: 2023-04-27T15:32:00Z
+    webUrl: "https://www.technologyreview.com/2023/04/27/1072102/the-future-of-generative-ai-is-niche-not-generalized/"
+    ampWebUrl: "https://www.technologyreview.com/2023/04/27/1072102/the-future-of-generative-ai-is-niche-not-generalized/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/04/27/1072102/the-future-of-generative-ai-is-niche-not-generalized/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/04/TW_generativeAI_1200.jpg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Music Executives Grapple With Generative AI on Earnings Calls"
     excerpt: "The leaders of Spotify and Universal Music Group are trying to sort through the threats and opportunities surrounding AI"

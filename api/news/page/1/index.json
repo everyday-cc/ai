@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-01-is-artificial-intelligence-relevant-to-insurance.md",
+      "title": "Is Artificial Intelligence relevant to Insurance?",
+      "excerpt": "Discover the benefits and challenges the insurance industry is facing with the growing use of artificial intelligence (AI).\nThe post Is Artificial Intelligence relevant to Insurance? appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/is-artificial-intelligence-relevant-to-insurance/",
+      "originalUrl": "https://www.ibm.com/blog/is-artificial-intelligence-relevant-to-insurance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/fil04436.l-e1682940146701.jpg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-01T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-01-three-trends-of-transformation-how-ai-value-based-care-vbc-will-drive-transformation-of-self-insured-healthcare.md",
+      "title": "Three Trends Of Transformation: How AI & Value-Based Care (VBC) Will Drive Transformation Of Self-Insured Healthcare",
+      "excerpt": "Healthcare is on the brink of a seismic shift, and AI is its catalyst. (1) Large Language Models extend our predictive capabilities. (2) Self-insured companies' risk profile and the patient needs are aligned.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lutzfinger/2023/05/01/three-trends-of-transformation-how-ai--value-based-care-vbc-will-drive-transformation-of-self-insured-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/lutzfinger/2023/05/01/three-trends-of-transformation-how-ai--value-based-care-vbc-will-drive-transformation-of-self-insured-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/644f0e322dfc4586460d1577/0x0.jpg?format=jpg&width=1200",
+          "width": 1024,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-01T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-05-01-new-machine-learning-tool-by-iit-madras-to-detect-brain-spinal-cord-tumour.md",
       "title": "New Machine Learning tool by IIT Madras to detect brain, spinal cord tumour",
       "excerpt": "Madras have developed a Machine Learning (ML)-based computational tool for better detection of cancer-causing tumours in the brain and spinal cord",
@@ -1129,110 +1233,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-aimachine-learning-market-size-trends-and-forecast-2030.md",
-      "title": "AI/Machine Learning Market Size, Trends and Forecast 2030",
-      "excerpt": "The latest independent research report on AI/Machine Learning Market 2023 explore investment in Market. It classify",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/aimachine-learning-market-size-trends-and-forecast-2030-2023-04-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/aimachine-learning-market-size-trends-and-forecast-2030-2023-04-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-28T08:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-chatgpt-may-have-better-bedside-manner-than-some-doctors-but-it-lacks-some-expertise.md",
-      "title": "ChatGPT may have better bedside manner than some doctors, but it lacks some expertise",
-      "excerpt": "ChatGPT can be a useful tool for patients who are seeking medical information and guidance, but the artificial intelligence tool can't fully replace the value of a human physician -- it says so itself.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/04/28/health/chatgpt-patient-advice-study-wellness/index.html",
-      "originalUrl": "https://www.cnn.com/2023/04/28/health/chatgpt-patient-advice-study-wellness/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/230411114945-06-chatgpt-phone-stock-super-tease.jpeg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/04/28/health/chatgpt-patient-advice-study-wellness/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/04/28/health/chatgpt-patient-advice-study-wellness/index.html",
-      "publishedDateTime": "2023-04-28T08:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

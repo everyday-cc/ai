@@ -2,6 +2,211 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-04-27-here-is-how-ai-is-being-used-in-fetal-ultrasounds.md",
+      "title": "Here Is How AI Is Being Used In Fetal Ultrasounds",
+      "excerpt": "This artificial Intelligence software from Sonio, a French tech company is being used to assist in the diagnosis of fetal anomalies and associated syndromes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2023/04/26/here-is-how-ai-is-being-used-in-fetal-ultrasounds/",
+      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2023/04/26/here-is-how-ai-is-being-used-in-fetal-ultrasounds/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64495d4d01bc3672eff33129/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 848,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2023/04/26/here-is-how-ai-is-being-used-in-fetal-ultrasounds/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2023/04/26/here-is-how-ai-is-being-used-in-fetal-ultrasounds/amp/",
+      "publishedDateTime": "2023-04-26T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-26-airops-is-helping-companies-build-ai-enabled-applications-on-top-of-llms.md",
+      "title": "AirOps is helping companies build AI-enabled applications on top of LLMs",
+      "excerpt": "AirOps, an early-stage startup, is looking to help companies build business applications on top of large language models.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/04/26/airops-is-helping-companies-build-ai-enabled-applications-on-top-of-llms/",
+      "originalUrl": "https://techcrunch.com/2023/04/26/airops-is-helping-companies-build-ai-enabled-applications-on-top-of-llms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/04/GettyImages-1388687270-1.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/04/26/airops-is-helping-companies-build-ai-enabled-applications-on-top-of-llms/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/04/26/airops-is-helping-companies-build-ai-enabled-applications-on-top-of-llms/amp/",
+      "publishedDateTime": "2023-04-26T09:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-04-26-ai-is-changing-football-analysis-forever-could-coaches-become-obsolete.md",
+      "title": "AI is changing football analysis forever. Could coaches become obsolete?",
+      "excerpt": "Annotating and analyzing game tape is a bread-and-butter activity for football teams, yet it is painfully time-consuming process that's prone to human error. BYU's engineering department is working on changing that.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-is-changing-football-analysis-forever-could-coaches-become-obsolete/",
+      "originalUrl": "https://www.zdnet.com/article/ai-is-changing-football-analysis-forever-could-coaches-become-obsolete/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/ef257374bfb08b4e6b9cfe942e388fe1e54819f8/2023/04/19/b8ce3164-c07d-45f1-bf0a-b5749627b329/byuteam.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-is-changing-football-analysis-forever-could-coaches-become-obsolete/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-is-changing-football-analysis-forever-could-coaches-become-obsolete/",
+      "publishedDateTime": "2023-04-26T09:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-26-tiktok-is-testing-an-in-app-tool-that-creates-generative-ai-avatars.md",
+      "title": "TikTok is testing an in-app tool that creates generative AI avatars",
+      "excerpt": "TikTok is experimenting with a new tool that allows users to create generative AI avatars, the company confirmed to TechCrunch",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/04/26/tiktok-is-testing-an-in-app-tool-that-creates-generative-ai-avatars/",
+      "originalUrl": "https://techcrunch.com/2023/04/26/tiktok-is-testing-an-in-app-tool-that-creates-generative-ai-avatars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1248373545.jpg?resize=1200,788",
+          "width": 1200,
+          "height": 788,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/04/26/tiktok-is-testing-an-in-app-tool-that-creates-generative-ai-avatars/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/04/26/tiktok-is-testing-an-in-app-tool-that-creates-generative-ai-avatars/amp/",
+      "publishedDateTime": "2023-04-26T09:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-26-global-artificial-intelligence-ai-chips-market-set-to-boom-in-the-near-future-2023-2030.md",
       "title": "Global \"Artificial Intelligence (AI) Chips Market\" Set to Boom in the Near Future 2023-2030",
       "excerpt": "Chips Market\" information for each competitor includes (Qualcomm, Mythic, Adapteva, Advanced Micro Devices (AMD), Google Inc., NVIDIA, Intel Corporation, UC-Davis, Graphcore, Baidu) Company Profile, Main Business Information,",
@@ -1038,214 +1243,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-26-us-federal-agencies-pledge-to-uphold-fairness-and-equality-in-ai-systems-amid-growing-concerns.md",
-      "title": "US federal agencies pledge to uphold fairness and equality in AI systems amid growing concerns",
-      "excerpt": "Four federal agencies pledged on Tuesday to enforce their respective laws and regulations to ensure AI is fair and law-abiding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/us-federal-agencies-pledge-to-uphold-fairness-and-equality-in-ai-systems-amid-growing-concerns/",
-      "originalUrl": "https://venturebeat.com/ai/us-federal-agencies-pledge-to-uphold-fairness-and-equality-in-ai-systems-amid-growing-concerns/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/04/ian-hutchinson-ruQxygBJMOM-unsplash-e1682464842226.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 908,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/us-federal-agencies-pledge-to-uphold-fairness-and-equality-in-ai-systems-amid-growing-concerns/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/us-federal-agencies-pledge-to-uphold-fairness-and-equality-in-ai-systems-amid-growing-concerns/amp/",
-      "publishedDateTime": "2023-04-25T16:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-26-jellyfish-robots-could-one-day-clean-up-the-worlds-oceans.md",
-      "title": "Jellyfish Robots Could One Day Clean Up The World’s Oceans",
-      "excerpt": "Marine plastic pollution is a bigger problem than some may realize. According to the International Union for Conservation of Nature (IUCN), at least 14 million tons of plastic end up in the ocean every year, with plastic making up 80 percent of all the marine debris found across the water's surface and deep below.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/darylaustin/2023/04/25/jellyfish-robots-could-one-day-clean-up-the-worlds-oceans/",
-      "originalUrl": "https://www.forbes.com/sites/darylaustin/2023/04/25/jellyfish-robots-could-one-day-clean-up-the-worlds-oceans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/644853cb5e65f457e1a3bac0/0x0.jpg?format=jpg&crop=5165,2903,x0,y264,safe&width=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/darylaustin/2023/04/25/jellyfish-robots-could-one-day-clean-up-the-worlds-oceans/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/darylaustin/2023/04/25/jellyfish-robots-could-one-day-clean-up-the-worlds-oceans/amp/",
-      "publishedDateTime": "2023-04-25T15:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-26-24-top-ai-statistics-and-trends-in-2023.md",
-      "title": "24 Top AI Statistics And Trends In 2023",
-      "excerpt": "AI continues to revolutionize various industries, with an expected annual growth rate of 37.3% between 2023 and 2030, as reported by Grand View Research. This rapid growth emphasizes the increasing impact of AI technologies in the coming years. [5]",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/advisor/business/ai-statistics/",
-      "originalUrl": "https://www.forbes.com/advisor/business/ai-statistics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.forbes.com/advisor/wp-content/uploads/2023/04/24_Top_AI_Statistics_And_Trends_In_2023_-_article_image.jpg",
-          "width": 958,
-          "height": 539,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-25T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-run-your-local-machine-learning-code-as-amazon-sagemaker-training-jobs-with-minimal-code-changes.md",
-      "title": "Run your local machine learning code as Amazon SageMaker Training jobs with minimal code changes",
-      "excerpt": "We recently introduced a new capability in the Amazon SageMaker Python SDK that lets data scientists run their machine learning (ML) code authored in their preferred integrated developer environment (IDE) and notebooks along with the associated runtime dependencies as Amazon SageMaker training jobs with",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/run-your-local-machine-learning-code-as-amazon-sagemaker-training-jobs-with-minimal-code-changes/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/run-your-local-machine-learning-code-as-amazon-sagemaker-training-jobs-with-minimal-code-changes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/04/25/machine-learning-local-code-sagemaker.jpg",
-          "width": 959,
-          "height": 478,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-25T13:55:57-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

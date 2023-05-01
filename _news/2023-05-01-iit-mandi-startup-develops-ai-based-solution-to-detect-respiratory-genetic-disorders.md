@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/sci-tech/technology/iit-mandi-startup-devel
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/iit-mandi-startup-develops-ai-based-solution-to-detect-respiratory-genetic-disorders/article66799606.ece/amp/"
 type: article
 quality: 50
-heat: 50
+heat: 60
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     height: 814
     isCached: true
 
-secured: "UPeOuT2ltY5ixMJaO+ib4xStM06FTTeYIz6sKa1GInoZrJInzORkyxBDCVY7zc2B3/imZgV2F2H69t4Yii9TyXvDTZJ1ogb+lFDv0ZnJS1GPI4zvLHPDHhqt0ZbwVxxumdAclTozOkUHwjYlPOqLIih33HBnwRmo/4w+IIlD818LbL5Y1/Y2DXGs41gPiBmJo+WocO1NTRgcosSvAzrTZ2y/mkOUmYW5lJw1+CZ7Q1EqC6JLHIRF5FMmDCIH7hIThQB3jpqFn/gOAPBcg0rWx5dayb+MiyUkxJJl1ddsJ5JDI7s7IlhH1d1gM/0Ru07zXPRdbPpkA4pliKpebnWoU2Rfhyjm5K4nAqeEpkjteZo=;tkzfqabPv05kDMU08Y0NPg=="
+related:
+  - title: "IIT Mandi Startup Develops AI-based Affordable Solution To Detect Respiratory, Genetic Disorders"
+    excerpt: "IIT Mandi startup has built a cost-effective Artificial Intelligence based affordable solution that has the potential to detect respiratory abnormalities, hepatobiliary diseases and genetic disorders in children."
+    publishedDateTime: 2023-05-01T10:59:00Z
+    webUrl: "https://www.timesnownews.com/education/iit-mandi-startup-develops-ai-based-affordable-solution-to-detect-respiratory-genetic-disorders-article-99909650"
+    ampWebUrl: "https://www.timesnownews.com/education/iit-mandi-startup-develops-ai-based-affordable-solution-to-detect-respiratory-genetic-disorders-article-99909650/amp"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/education/iit-mandi-startup-develops-ai-based-affordable-solution-to-detect-respiratory-genetic-disorders-article-99909650/amp"
+    type: article
+    provider:
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 44
+    images:
+      - url: "https://static.tnn.in/thumb/msid-99909650,updatedat-1682938785746,width-1280,height-720,resizemode-75/99909650.jpg"
+        width: 1279
+        height: 720
+        isCached: true
+
+secured: "ZYZz4QIZS8l6L8Up8RZpey7gMStQOALjkWJ+Ag1/cOTtokKeaE0dzWVFcNcNGc6nViXDSwVJd+pmEeOULS2FxgfvSE6qcRv688lchr1NfZcICqYh55t1BpiYTV5A+xi2gE9U8kofTxrSxiEDvOJWex3ayBKNE36Q2MlnOTRZOvuMM1l2/gpjXF3tS7hitlhLqEqx84twwa6UwzFfaG6V3yCHAApTaCwyEAw7oq8VDtSCcPlk/va3/uiTUWHKTl0NfBakIS3/tX5otU4YUlcNdFc4kwK8uSzIkSBi45sySfBBVw+y4OHzrlvl+LIx5OLz2lrkfOpcJ0r5sk/FoVZV/YSBwdf7lW5iPLy3cZjf9rZW0C/cbbpbS0wieIHOJspmXtW08ID8muI7obQYm16bCMSONmhVBrBOg4GsezprLKaYhsSlyDQ8Lgrp46i52LR/VAVUPP1BPOnqZj7T/8W7HEQZl3CIOhInjJDL33PvGZpbcU5OUoSUHgzLs5d4KVofAvwsmefrF0lQutTzFPgavQ==;10A0Wzce/8G9YPtLQz2Xsw=="
 ---
 

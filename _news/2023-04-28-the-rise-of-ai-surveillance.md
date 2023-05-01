@@ -162,15 +162,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 39
-  - title: "Executives want generative AI, but are taking it slow. An army of providers has lined up to help"
-    excerpt: "Vendors are lining up to help enterprise companies adopt generative AI and tackle issues around data security and risk."
-    publishedDateTime: 2023-04-26T19:01:00Z
-    webUrl: "https://venturebeat.com/ai/executives-want-generative-ai-but-are-taking-it-slow-an-army-of-providers-has-lined-up-to-help/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 36
   - title: "UAE Government launches the “Generative AI” Guide to facilitate the adoption of AI technology across vital industries"
     excerpt: "The “Generative AI” guide serves as a valuable resource for government entities, enabling them to leverage the benefits of AI technologies and enhance its implementation across various fields. Commenting on the launch,"
     publishedDateTime: 2023-04-30T11:45:00Z

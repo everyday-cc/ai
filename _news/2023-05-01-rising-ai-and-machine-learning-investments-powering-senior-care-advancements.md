@@ -64,20 +64,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Pagaya gets Buy initiation from Benchmark as AI-focused fintech adds partners"
-    excerpt: "Never miss a trade again with the fastest news alerts in the world! This headline only article is a sample of real-time intelligence Benzinga Pro traders use to win in the markets everyday. Want ..."
-    publishedDateTime: 2023-04-26T18:26:00Z
-    webUrl: "https://www.benzinga.com/content/seekingalpha-com/23/04/32015715/pagaya-gets-buy-initiation-from-benchmark-as-ai-focused-fintech-adds-partners"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 36
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "Fintech start-up 1fs Wealth secures backing of Singularity Capital"
     excerpt: "London based early stage fintech, 1fs Wealth, has secured the backing of US venture capital firm Singularity Capital, as interest… | Finance | Finance | Fintech | National | Investment |"
     publishedDateTime: 2023-04-27T10:54:00Z
