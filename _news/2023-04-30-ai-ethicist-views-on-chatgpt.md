@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2023/04/30/ai-ethicist-view
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/04/30/ai-ethicist-views-on-chatgpt/amp/"
 type: article
 quality: 87
-heat: 167
+heat: 177
 published: true
 
 provider:
@@ -121,6 +121,20 @@ related:
       - url: "https://www.moneyweb.co.za/wp-content/uploads/2023/04/file-20230421-20-89ix5g-1024x683.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "The AI revolution: Spotlight on ChatGPT as AI seeks to reshape the world"
+    excerpt: "We look at some of the first steps companies are taking to harness this new, now not-so-secret weapon to supercharge their business."
+    publishedDateTime: 2023-05-01T02:41:00Z
+    webUrl: "https://insurancenewsnet.com/innarticle/the-ai-revolution-spotlight-on-chatgpt-as-ai-seeks-to-reshape-the-world"
+    type: article
+    provider:
+      name: Insurancenewsnet.com
+      domain: insurancenewsnet.com
+    quality: 38
+    images:
+      - url: "https://insurancenewsnet.com/wp-content/uploads/2023/05/feature-2023-05-profiles-matiash.jpg"
+        width: 858
+        height: 880
         isCached: true
   - title: "Artificial intelligence or active imagination with ChatGPT?"
     excerpt: "When a journalist and historian attempted to see if his own research would be sourced by AI, he was intrigued by some of the responses he got from a text-generating artificial chatbot"

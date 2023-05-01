@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Waymo driverless car goes viral after police officer directed it to pull over"
-    excerpt: "A screenshot of the viral video on TikTok showing driverless car passengers reacting to the police officer's guidance. TikTok/@johnnyromano3 A video of a driverless car reacting to a police ..."
-    publishedDateTime: 2023-04-26T14:40:00Z
-    webUrl: "https://www.autoblog.com/2023/04/22/waymo-driverless-police-pull-over-viral-tiktok/"
-    ampWebUrl: "https://www.autoblog.com/amp/2023/04/22/waymo-driverless-police-pull-over-viral-tiktok/"
-    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2023/04/22/waymo-driverless-police-pull-over-viral-tiktok/"
-    type: article
-    provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 71
-    images:
-      - url: "https://o.aolcdn.com/images/dims3/GLOB/crop/2101x1182+0+355/resize/800x450!/format/jpg/quality/85/https://media.zenfs.com/en/insider_articles_922/a4e85d9a08813ade8083e13453f0e986"
-        width: 800
-        height: 450
-        isCached: true
   - title: "The do’s and don’ts for sharing the roads with driverless cars"
     excerpt: "The rest of us can learn from San Francisco residents about what it’s like to share the roads with driverless test cars. Tech is not your friend. We are. Sign up for The Tech Friend newsletter."
     publishedDateTime: 2023-04-29T04:32:00Z

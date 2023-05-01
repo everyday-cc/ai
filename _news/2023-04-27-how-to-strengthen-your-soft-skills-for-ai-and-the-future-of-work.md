@@ -75,15 +75,6 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 39
-  - title: "Empower - Not Overpower - With AI In The Healthcare Industry"
-    excerpt: "With human knowledge and experience still being the number one driver in the healthcare industry, it is a perfect example of how AI can empower, not overpower to achieve better results, and improve the quality of the patient's experience and their life."
-    publishedDateTime: 2023-04-26T13:51:00Z
-    webUrl: "https://www.thehealthsite.com/diseases-conditions/empower-not-overpower-with-ai-in-the-healthcare-industry-972979/"
-    type: article
-    provider:
-      name: TheHealthSite
-      domain: thehealthsite.com
-    quality: 34
 
 secured: "KFGlbyRGnEzOvLPMDsmn8T+ewyMMFA7IVsc3Btdv3/qT4JgcRKz53x3C+WkQqY92Yn2+c1BpVvTGYuyFGtHeZ8LvaSDdm35xXLHYVX+Fc9z0N5Ak+kHsgvcrdtgk1gpP0OMwRcw2OvdMEAwhrfa98kjys5fnWlFtcgWQM0nBrG0qkge0gpFMaI/hUrJ42MgDqz7zLFx5Xbyj96QABL0C50sOf9D5ppQ1LCmYUjdurd1O8pCNA9gWL6qah3HBvdYEBy//hjMry+7Bpc67Pwmdsr4HjZHgZejz4BBbrP7mqYkPpV7rSfYudwDLm+7rr+ffvSFOmNLGIF0lJ/lxYJQY1BOnaayP571dFHvYTm6p+zbr43Du1BIAeFlU06DyDiPBTLzFiRuaJx2g9o2Jc9SRz9AsCyqIAG1ur+mkAYjgOGzc/8hOzw0ScMTiWQgYWBgH7O8F+IJ83aHpkIFSc0R6OME39xSjoJUP2aM0K7jspJF/bZ++FUaBzmmWgNKH6s4T3kGqLCd3LQC1T+LapCIVFg==;J6vOePivjrS4HxzNYWORbQ=="
 ---

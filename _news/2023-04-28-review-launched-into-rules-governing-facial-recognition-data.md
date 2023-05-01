@@ -67,20 +67,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech and Voice Recognition Market Growth Status and Foresight till 2030"
-    excerpt: "Get a sample PDF of the report at -  The global Speech and Voice Recognition market size was valued at USD 10964.1 million in 2022 and is expected to expand at a CAGR of 22.26 Percent during the forecast period,"
-    publishedDateTime: 2023-04-28T08:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-growth-status-and-foresight-till-2030-2023-04-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Speech and Voice Recognition Technology Market 2023-2030 is Booming in Upcoming Period"
     excerpt: "Speech and Voice Recognition Technology Market Report Insights (2023-2030) :(110 Pages Report) Speech and Voice"
     publishedDateTime: 2023-04-27T08:55:00Z

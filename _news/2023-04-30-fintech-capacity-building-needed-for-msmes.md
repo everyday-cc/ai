@@ -109,20 +109,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Logiq Acquires Park Place Payments, Award-Winning, Women-Owned Fintech Company"
-    excerpt: "(OTCQX:LGIQ), a leading provider of digital consumer acquisition solutions, has acquired Park Place Payments, an award-winning fintech company delivering innovative merchant payment solutions and adjacent financial services to SMBs through a nationally distributed local sales force."
-    publishedDateTime: 2023-04-26T14:03:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/04/26/9802315.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 20
-    images:
-      - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
-        width: 550
-        height: 353
-        isCached: true
   - title: "Fintech BUNKER Selects InvestCloud to Launch Digital App, Providing Access to US Investment Markets for HNWIs in LatAm"
     excerpt: "InvestCloud selected by BUNKER, a fintech seeking to democratize access to the US markets for Latin Americans, to launch investment platform."
     publishedDateTime: 2023-04-28T19:30:00Z

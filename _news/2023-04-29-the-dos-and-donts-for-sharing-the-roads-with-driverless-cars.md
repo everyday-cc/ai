@@ -7,7 +7,7 @@ originalUrl: "https://www.washingtonpost.com/technology/2023/04/25/waymo-cruise-
 webUrl: "https://www.washingtonpost.com/technology/2023/04/25/waymo-cruise-driverless-cars-advice/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Waymo driverless car goes viral after police officer directed it to pull over"
-    excerpt: "A screenshot of the viral video on TikTok showing driverless car passengers reacting to the police officer's guidance. TikTok/@johnnyromano3 A video of a driverless car reacting to a police ..."
-    publishedDateTime: 2023-04-26T14:40:00Z
-    webUrl: "https://www.autoblog.com/2023/04/22/waymo-driverless-police-pull-over-viral-tiktok/"
-    ampWebUrl: "https://www.autoblog.com/amp/2023/04/22/waymo-driverless-police-pull-over-viral-tiktok/"
-    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2023/04/22/waymo-driverless-police-pull-over-viral-tiktok/"
-    type: article
-    provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 71
-    images:
-      - url: "https://o.aolcdn.com/images/dims3/GLOB/crop/2101x1182+0+355/resize/800x450!/format/jpg/quality/85/https://media.zenfs.com/en/insider_articles_922/a4e85d9a08813ade8083e13453f0e986"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Kyrgyz PM concerned over driverless taxis"
     excerpt: "There are grounds for concern about artificial intelligence, which could leave many Kyrgyzstanis without work, Prime Minister Akylbek Zhaparov said, ORDA reports. At the same time, the politician believes that \"artificial intelligence gives everyone skills that we never expected to have.\""
     publishedDateTime: 2023-04-30T11:10:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://diginomica.com/built-world-ai-start-ups-lead-investments-ove
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/built-world-ai-start-ups-lead-investments-overtake-fintech-and-marketing?amp"
 type: article
 quality: 75
-heat: 169
+heat: 160
 published: true
 
 provider:
@@ -101,20 +101,6 @@ related:
       - url: "https://bdaily.co.uk/images/uploads/14uur7Ek4zTIK7Kdv8NuVTjPTvN89xUdeoan9AvV.jpeg?w=1200&h=627&fm=jpg&fit=crop-50-50&s=50c8836e09236abc30214b16988a7b69"
         width: 1200
         height: 627
-        isCached: true
-  - title: "Logiq Acquires Park Place Payments, Award-Winning, Women-Owned Fintech Company"
-    excerpt: "(OTCQX:LGIQ), a leading provider of digital consumer acquisition solutions, has acquired Park Place Payments, an award-winning fintech company delivering innovative merchant payment solutions and adjacent financial services to SMBs through a nationally distributed local sales force."
-    publishedDateTime: 2023-04-26T14:03:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/04/26/9802315.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 20
-    images:
-      - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
-        width: 550
-        height: 353
         isCached: true
   - title: "Fintech capacity-building needed for MSMEs"
     excerpt: "THERE is a need to build the capacity of small and medium enterprises (MSMEs) on financial technology (fintech) to ramp up the digital economy in the Philippines, the top official of the Philippine Economic Zone Authority (PEZA) said."

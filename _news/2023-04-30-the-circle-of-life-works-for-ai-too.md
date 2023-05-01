@@ -67,15 +67,6 @@ related:
         width: 460
         height: 230
         isCached: true
-  - title: "Empower - Not Overpower - With AI In The Healthcare Industry"
-    excerpt: "With human knowledge and experience still being the number one driver in the healthcare industry, it is a perfect example of how AI can empower, not overpower to achieve better results, and improve the quality of the patient's experience and their life."
-    publishedDateTime: 2023-04-26T13:51:00Z
-    webUrl: "https://www.thehealthsite.com/diseases-conditions/empower-not-overpower-with-ai-in-the-healthcare-industry-972979/"
-    type: article
-    provider:
-      name: TheHealthSite
-      domain: thehealthsite.com
-    quality: 34
   - title: "How to strengthen your soft skills for AI and the future of work"
     excerpt: "Marketable skills that can future-proof your career and livelihood will be 'soft skills,' such as management, communication, and empathy."
     publishedDateTime: 2023-04-27T03:59:00Z

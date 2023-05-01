@@ -7,7 +7,7 @@ originalUrl: "https://cointelegraph.com/news/7-popular-tools-and-frameworks-for-
 webUrl: "https://cointelegraph.com/news/7-popular-tools-and-frameworks-for-developing-ai-applications"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -19,15 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "Exploring the Perils, and the Misconceptions, around Artificial Intelligence"
-    excerpt: "Artificial intelligence (AI) has enormous potential to improve our lives in many ways, we are told. However, this exciting new field is also laced with pitfalls for academic researchers. How should they navigate the ethical challenges that come with using AI?"
-    publishedDateTime: 2023-04-27T19:00:00Z
-    webUrl: "https://www.bowdoin.edu/news/2023/04/exploring-the-perils-and-the-misconceptions-around-artificial-intelligence.html"
+  - title: "AI Adoption Slow For Design Tools"
+    excerpt: "While ML adoption is robust, full AI is slow to catch fire. But that could change in the future. A lot of excitement, and a fair amount of hype, surrounds what artificial intelligence (AI) can do for the EDA industry."
+    publishedDateTime: 2023-05-01T07:08:00Z
+    webUrl: "https://semiengineering.com/slow-ai-adoption-within-eda/"
     type: article
     provider:
-      name: Bow Doin Polar Bears
-      domain: bowdoin.edu
-    quality: 16
+      name: Semiconductor Engineering
+      domain: semiengineering.com
+    quality: 37
+    images:
+      - url: "https://semiengineering.com/wp-content/uploads/Fig01_ML_func_verify_survey_SiemensEDA.png?fit=936%2C466&ssl=1"
+        width: 936
+        height: 466
+        isCached: true
 
 secured: "JRxgCr5Dgos4UgV4m0v3clvn9p9vfdd5bdY+42N3qFyKBLFBGGbzQMhGS2Zud1CnB+kvgcunsDINllgfumNbl3szTpzM/ctA+eex8Ez68FgNs+J5qYOn6TXJU5FZOsXCH5BQc602wh+8FhQUuChhfSxrzUa8s+QeqrF9eY8Ye7Vf6effaK3KvYzGeeY2GpaHVc0sfbJMzgVAurQtyYDlOYhGuUA/mSseJXXWGhULn2o8VADKbRnbs4+bn4w492ouv7LxNdxGaspsaQ4YpYtLnYSTQ7rZxZfdY4PIMGJ0XZTrMRrBkTd/PIa3fdjp3r9OYAYteSrp3Xq6vKFGyQDyPyB/UKMXQ/jWU/2k2XF4i8M=;edS87PuwKLP4RSVDJ7B0uA=="
 ---

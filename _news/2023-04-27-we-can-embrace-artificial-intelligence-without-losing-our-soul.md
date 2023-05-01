@@ -46,20 +46,6 @@ related:
       name: FOX 7 Austin KTBC
       domain: fox7austin.com
     quality: 39
-  - title: "Seven Ways AI Can Help You Manage Your ADHD"
-    excerpt: "AI can help you by instantly providing as many sample lists ... I asked it what financial documents to start with and how to get them, and eventually arrived at: Contact your employer’s HR department: The HR department of your employer should be able ..."
-    publishedDateTime: 2023-04-26T15:02:00Z
-    webUrl: "https://lifehacker.com/seven-ways-ai-can-help-you-manage-your-adhd-1850373670"
-    type: article
-    provider:
-      name: Lifehacker
-      domain: lifehacker.com
-    quality: 37
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/b492242d8d5540b56a7fac95a5fb96db.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "How Artificial Intelligence Can Aid Democracy"
     excerpt: "BKC Affiliates Nathan Sanders and Bruce Schneier write about AI's potential to advance the public good by helping democracy."
     publishedDateTime: 2023-04-27T12:32:00Z

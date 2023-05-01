@@ -84,22 +84,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Snapchat introduces AI chatbot to mixed reviews"
-    excerpt: "Snapchat has introduced its own AI chatbot to mixed reviews, with some criticising its prominence on the social media app. It is powered by OpenAI's GPT - the same tech that is being integrated into Microsoft's Bing search engine. The feature, dubbed My AI, is pinned to the top of users' chat feeds and only paid subscribers can remove it."
-    publishedDateTime: 2023-04-26T13:36:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-65388258"
-    ampWebUrl: "https://www.bbc.co.uk/news/technology-65388258.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-65388258.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 57
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/F2E3/production/_129497126_gettyimages-1242421050.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "The internet is already racist. AI chatbots are making it worse."
     excerpt: "Google's C4 data set, which is used to instruct AIs like Facebook’s LlaMa and Google’s own T5, draws content from far-right sites."
     publishedDateTime: 2023-04-26T19:30:00Z

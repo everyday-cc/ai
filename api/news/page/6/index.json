@@ -2,6 +2,101 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-04-26-a-pioneering-artificial-intelligence-method-to-fight-urban-air-pollution.md",
+      "title": "A pioneering artificial intelligence method to fight urban air pollution",
+      "excerpt": "World Health Organization (WHO). This scenario is exacerbated in urban areas where more than 50% of the world's population is concentrated.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-04-artificial-intelligence-method-urban-air.html",
+      "originalUrl": "https://phys.org/news/2023-04-artificial-intelligence-method-urban-air.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/a-pioneering-artificia.jpg",
+          "width": 2067,
+          "height": 1831,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-04-artificial-intelligence-method-urban-air.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-04-artificial-intelligence-method-urban-air.amp",
+      "publishedDateTime": "2023-04-25T12:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-04-26-gop-releases-100-ai-generated-ad-to-fearmonger-over-bidens-reelection-bid.md",
+      "title": "GOP releases 100% AI-generated ad to fearmonger over Biden’s reelection bid",
+      "excerpt": "On the screen flashes a dark, AI-generated image of Biden and Vice President Kamala Harris, smiling and waving in front of a sea of American flags. From there, a series of AI-generated scenes show the faked future that the RNC imagines that this election result would bring,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/tech-policy/2023/04/gop-releases-100-ai-generated-ad-to-fearmonger-over-bidens-reelection-bid/",
+      "originalUrl": "https://arstechnica.com/tech-policy/2023/04/gop-releases-100-ai-generated-ad-to-fearmonger-over-bidens-reelection-bid/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/Beat-Biden-RNC-2023-response-ad-screenshot-800x362.png",
+          "width": 800,
+          "height": 362,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/tech-policy/2023/04/gop-releases-100-ai-generated-ad-to-fearmonger-over-bidens-reelection-bid/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/04/gop-releases-100-ai-generated-ad-to-fearmonger-over-bidens-reelection-bid/amp/",
+      "publishedDateTime": "2023-04-25T12:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-26-the-race-continues-google-search-set-to-be-backed-by-conversational-ai.md",
       "title": "The Race Continues: Google Search Set To Be Backed By Conversational AI",
       "excerpt": "The addition of Generative AI capabilities to Google Search will be critical if Google intends to remain the top search engine globally. And while there are more questions than answers at this time, Google is going to be adding conversational to its search platform and it should be well received.",
@@ -1113,109 +1208,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-artificial-intelligence-of-things-aiot-solutions-market-2023-expected-to-reach-significant-rate-by-2030.md",
-      "title": "Artificial Intelligence Of Things (AIoT) Solutions Market 2023 Expected to Reach Significant Rate by 2030",
-      "excerpt": "To know How COVID-19 and Russia-Ukraine War Influence Will Impact This Market/Industry-Request a sample copy of the report:  The Artificial Intelligence Of Things (AIoT) Solutions market has witnessed a growth from USD million to USD million from 2017 to 2022.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-of-things-aiot-solutions-market-2023-expected-to-reach-significant-rate-by-2030-2023-04-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-of-things-aiot-solutions-market-2023-expected-to-reach-significant-rate-by-2030-2023-04-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-25T04:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-face-recognition-software-market-new-development-strategy-2023-2030-fully-explained.md",
-      "title": "Face Recognition Software Market New Development Strategy [2023-2030]| Fully Explained",
-      "excerpt": "The \"Face Recognition Software Market\" Report covers the global and regional market with an in-depth analysis of",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/face-recognition-software-market-new-development-strategy-2023-2030-fully-explained-2023-04-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/face-recognition-software-market-new-development-strategy-2023-2030-fully-explained-2023-04-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-25T03:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

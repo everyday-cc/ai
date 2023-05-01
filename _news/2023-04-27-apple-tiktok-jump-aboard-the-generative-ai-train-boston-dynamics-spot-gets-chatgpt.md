@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 788
         isCached: true
-  - title: "TikTok Adds AI Avatar Generation Feature"
-    excerpt: "Upload anywhere from 3 to 10 selfies and let TikTok generate up to 30 avatars in 5 different styles for you to choose from."
-    publishedDateTime: 2023-04-26T13:46:00Z
-    webUrl: "https://gizmodo.com/tiktok-avatar-ai-art-lensa-1850377003"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 47
   - title: "Rumored: AI-generated avatars are in the works at TikTok"
     excerpt: "According to The Verge, TikTok says its AI avatar generator is only available in select regions and is still a work in progress. It's still being determined when this feature will be available to the public if it will require a subscription, and what technology is behind the generator."
     publishedDateTime: 2023-04-27T13:25:00Z

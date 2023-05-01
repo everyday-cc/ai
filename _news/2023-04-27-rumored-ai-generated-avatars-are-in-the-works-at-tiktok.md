@@ -54,15 +54,6 @@ related:
         width: 600
         height: 334
         isCached: true
-  - title: "TikTok Adds AI Avatar Generation Feature"
-    excerpt: "Upload anywhere from 3 to 10 selfies and let TikTok generate up to 30 avatars in 5 different styles for you to choose from."
-    publishedDateTime: 2023-04-26T13:46:00Z
-    webUrl: "https://gizmodo.com/tiktok-avatar-ai-art-lensa-1850377003"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 47
   - title: "Artificial Intelligence Can Create, But Lacks Creativity, Say Critics"
     excerpt: "Artificial intelligence, or AI, could potentially transform arts and entertainment, from music to movies, but it is also raising concerns. Is AI a creative tool or a threat to creators and artists? VOA’s Mike O’Sullivan examines the question."
     publishedDateTime: 2023-04-27T01:26:00Z

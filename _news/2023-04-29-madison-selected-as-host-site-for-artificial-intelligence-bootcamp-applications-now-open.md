@@ -26,21 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Miami Dade College Will Once Again Host Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!"
-    excerpt: "Miami Dade College (MDC) will once again host the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp in Miami for high school students at no-cost during the fall 2023"
-    publishedDateTime: 2023-04-28T18:36:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/04/g32091127/miami-dade-college-will-once-again-host-artificial-intelligence-bootcamp-applications-now-open"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32091127"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32091127"
+  - title: "Miami Dade College Will Once Again Host Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
+    excerpt: "Miami Dade College (MDC) will once again host the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp in Miami for high school students at no-cost during the fall 2023 term. The Bootcamp aims to introduce underserved high school students to basic AI concepts and skills."
+    publishedDateTime: 2023-04-28T19:08:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/04/28/9804355.htm"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 61
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 41
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
+        width: 550
+        height: 353
         isCached: true
   - title: "Philadelphia Selected as Host Site for a 3rd Time for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!"
     excerpt: "CSL Behring will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students at No-Cost for a 3rd time in the Fall of 2023. The AI"

@@ -54,6 +54,58 @@
       ]
     },
     {
+      "path": "_news/2023-04-28-ai-based-edge-computing-chip-market-growth-status-and-foresight-till-2030.md",
+      "title": "AI based Edge Computing Chip Market Growth Status and Foresight till 2030",
+      "excerpt": "The AI based Edge Computing Chip Market has been comprehensively examined in a new research report published by Absolutereports.com. This report provides a complete overview of the market scenario, including latest trends,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-based-edge-computing-chip-market-growth-status-and-foresight-till-2030-2023-04-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-based-edge-computing-chip-market-growth-status-and-foresight-till-2030-2023-04-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-28T01:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-27-broadcom-takes-on-infiniband-with-jericho3-ai-switch-chips.md",
       "title": "Broadcom Takes On InfiniBand With Jericho3-AI Switch Chips",
       "excerpt": "Variety is not only the spice of life, it is also the way to drive innovation and to mitigate risk. Which is why we are seeing switch architectures",
@@ -157,7 +209,7 @@
       "originalUrl": "https://venturebeat.com/ai/the-power-of-infrastructure-purpose-built-for-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -210,7 +262,7 @@
       "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/04/26/microsoft-is-staking-its-future-on-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 388,
+      "heat": 358,
       "tags": null,
       "images": [
         {
@@ -1402,50 +1454,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-microsoft-is-developing-its-own-ai-chip-report.md",
-      "title": "Microsoft is developing its own AI chip: Report",
-      "excerpt": "Athena will power the technology between AI chatbots like the OpenAI phenomenon ChatGPT. Microsoft has been working on the chip since 2019, the report said. TWO-THIRDS OF US JOB COULD BE EXPOSED ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxbusiness.com/technology/microsoft-developing-own-ai-chip",
-      "originalUrl": "https://www.foxbusiness.com/technology/microsoft-developing-own-ai-chip",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/559e38cf-f42e-4b44-91a4-b10841e1e2c7/9b06f272-00c6-4617-b719-12761a6e7990/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxbusiness.com/technology/microsoft-developing-own-ai-chip.amp",
-      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/microsoft-developing-own-ai-chip.amp",
-      "publishedDateTime": "2023-04-18T15:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox Business",
-        "domain": "foxbusiness.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
