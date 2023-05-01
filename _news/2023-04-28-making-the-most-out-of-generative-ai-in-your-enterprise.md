@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/28/making-the
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/28/making-the-most-out-of-generative-ai-in-your-enterprise/amp/"
 type: article
 quality: 89
-heat: 229
+heat: 219
 published: true
 
 provider:
@@ -200,15 +200,6 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 34
-  - title: "Moveworks Launches Creator Studio: A No-Code, Generative AI Platform for Building Any Conversational AI Use Case Across the Enterprise"
-    excerpt: "Moveworks, the leading conversational AI platform for the enterprise, today announced Creator Studio - a no-code, generative AI platform for building any conversational AI use case in minutes. The platform leverages advanced large language models (LLMs) and generative AI to provide a natural language interface that serves as an enterprise-wide copilot for employees."
-    publishedDateTime: 2023-04-26T15:34:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/04/26/9802438.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
   - title: "Moveworks Launches Creator Studio: A No-Code, Generative AI Platform for Building Any Conversational AI Use Case Across the Enterprise"
     excerpt: "Moveworks, a leading conversational AI platform for the enterprise, announced Creator Studio — a no-code, generative AI platform for building any conversational AI use case in minutes. The platform leverages advanced large language models (LLMs) and generative AI to provide a natural language interface that serves as an enterprise-wide co-pilot for employees."
     publishedDateTime: 2023-04-27T18:27:00Z

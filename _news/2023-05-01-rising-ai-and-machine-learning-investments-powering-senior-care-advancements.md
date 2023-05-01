@@ -78,15 +78,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "3 Fintech Stocks With Huge Return Potential for Long-Term Investors"
-    excerpt: "The fintech market continues to grow at a blistering pace, as consumers and businesses migrate online and use their smartphones and apps to make increasingly sophisticated digital payments and online financial transactions."
-    publishedDateTime: 2023-04-26T15:19:00Z
-    webUrl: "https://www.nasdaq.com/articles/3-fintech-stocks-with-huge-return-potential-for-long-term-investors"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 34
   - title: "Fintech start-up 1fs Wealth secures backing of Singularity Capital"
     excerpt: "London based early stage fintech, 1fs Wealth, has secured the backing of US venture capital firm Singularity Capital, as interest… | Finance | Finance | Fintech | National | Investment |"
     publishedDateTime: 2023-04-27T10:54:00Z

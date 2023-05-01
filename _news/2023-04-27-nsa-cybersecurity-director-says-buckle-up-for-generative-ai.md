@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/nsa-rob-joyce-chatgpt-security/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/nsa-rob-joyce-chatgpt-security/amp"
 type: article
 quality: 87
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -93,20 +93,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/04/annevb_algorithms_and_coding_solving_IT_security_problems._real_ba97e63d-f73a-4233-aa8f-87408e12299f.png?w=1200&strip=all"
         width: 1200
         height: 600
-        isCached: true
-  - title: "AI Will Take Many Cybersecurity Jobs, But It's Not a Complete Disaster"
-    excerpt: "AI will force some big changes in the cybersecurity job market, but Rohit Ghai, CEO of RSA Security, tells RSAC 2023 attendees that he's hopeful AI tools and human workers can coexist."
-    publishedDateTime: 2023-04-26T16:04:00Z
-    webUrl: "https://www.pcmag.com/news/ai-will-take-many-cybersecurity-jobs-but-its-not-a-complete-disaster"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/05iUDYbdzZRKkboE6Y2NAzm-1.fit_lim.size_1200x630.v1682519762.jpg"
-        width: 1120
-        height: 630
         isCached: true
   - title: "RSAC 2023: Generative AI Takes the Cybersecurity Industry by Storm"
     excerpt: "Yes, generative AI stole the show at RSA Conference 2023 in San Francisco last week. Here’s a roundup of the top news from the biggest cybersecurity conference in the world."

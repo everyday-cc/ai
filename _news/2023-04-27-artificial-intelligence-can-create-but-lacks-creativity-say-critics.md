@@ -20,47 +20,20 @@ topics:
   - AI
 
 related:
-  - title: "TikTok is testing an in-app tool that creates generative AI avatars"
-    excerpt: "TikTok is experimenting with a new tool that allows users to create generative AI avatars, the company confirmed to TechCrunch"
-    publishedDateTime: 2023-04-26T16:07:00Z
-    webUrl: "https://techcrunch.com/2023/04/26/tiktok-is-testing-an-in-app-tool-that-creates-generative-ai-avatars/"
-    ampWebUrl: "https://techcrunch.com/2023/04/26/tiktok-is-testing-an-in-app-tool-that-creates-generative-ai-avatars/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/04/26/tiktok-is-testing-an-in-app-tool-that-creates-generative-ai-avatars/amp/"
+  - title: "AI Is Causing Student Artists to Rethink Their Creative Career Plans"
+    excerpt: "What is the future of the art profession when artificial intelligence can create a masterpiece with just a click?"
+    publishedDateTime: 2023-04-26T17:30:00Z
+    webUrl: "https://www.kqed.org/arts/13928253/ai-art-artificial-intelligence-student-artists-midjourney"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
+      name: KQED
+      domain: kqed.org
+    quality: 39
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1248373545.jpg?resize=1200,788"
-        width: 1200
-        height: 788
+      - url: "https://ww2.kqed.org/app/uploads/sites/2/2023/04/Vincent-Favilla-_Pondering_-1020x701.jpg"
+        width: 1020
+        height: 701
         isCached: true
-  - title: "Apple, TikTok jump aboard the generative AI train; Boston Dynamics’ Spot gets ChatGPT"
-    excerpt: "Apple and TikTok have jumped on the AI bandwagon. Also, even more interestingly, engineers are beginning to integrate ChatGPT into Boston Dynamics' Spot robotic dog."
-    publishedDateTime: 2023-04-27T11:47:00Z
-    webUrl: "https://indianexpress.com/article/technology/tech-news-technology/apple-tiktok-jump-aboard-the-generative-ai-train-boston-dynamics-spot-gets-chatgpt/"
-    ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/apple-tiktok-jump-aboard-the-generative-ai-train-boston-dynamics-spot-gets-chatgpt/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/apple-tiktok-jump-aboard-the-generative-ai-train-boston-dynamics-spot-gets-chatgpt/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 52
-    images:
-      - url: "https://images.indianexpress.com/2023/04/tiktok-featured-reuters.jpg?resize=600,334"
-        width: 600
-        height: 334
-        isCached: true
-  - title: "Rumored: AI-generated avatars are in the works at TikTok"
-    excerpt: "According to The Verge, TikTok says its AI avatar generator is only available in select regions and is still a work in progress. It's still being determined when this feature will be available to the public if it will require a subscription, and what technology is behind the generator."
-    publishedDateTime: 2023-04-27T13:25:00Z
-    webUrl: "https://www.zdnet.com/article/rumored-ai-generated-avatars-are-in-the-works-at-tiktok/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 47
 
 secured: "/LeZbUk91wIQhS05T+cV9oJtL/fAw2EQgJmfchjSBXRNmN21BrFDuPvcF3tK3WKWB6fKRUGzffZk24dLzkyA8eRS9DCQEzXdzRWEUhDu7IV/SomUaOcQlxB24AHDZYw088n+E4V+gA+DBP9Q9PZTL39pIiMr6+G4Hh615rAP5MBcLLIcW6aXJ7wYM94TERoZMTWxgF0g7i4QLWTeUl0yZ1m88R2Q98S8InY5G6H3A28rLnINhb22j3L5gTtyaKTld67PJ2KfguPSWfTt9CTDqW7vLwUJxGJ8gvon1rfWZY7ZcSqPSeqZS6BhJIJzeyJTl+rq2Xvijyi7EOx8o8OX7OQBzWJPDmVBnqokyhESxnSQjNowmM6JgMes9ZO3VKFbbd9vpUEQEe4h5lFUuSin3H9TwaCUPAB6MoJsqQTVnSmct1i1rY1eeKC6dNxvpuZeNLAnx8R4LiEXDrJIvbVPbeD4Q8yi0PJ76z7MzPgLtMyXM35u8m2CZ0LpGn48OTpQdGoccnOsXtPoLf/Q5R1ItA==;Rds4EpmrpKwYTupBFVPBwQ=="
 ---

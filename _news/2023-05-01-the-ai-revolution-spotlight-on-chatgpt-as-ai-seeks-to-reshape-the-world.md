@@ -6,7 +6,7 @@ publishedDateTime: 2023-05-01T02:41:00Z
 originalUrl: "https://insurancenewsnet.com/innarticle/the-ai-revolution-spotlight-on-chatgpt-as-ai-seeks-to-reshape-the-world"
 webUrl: "https://insurancenewsnet.com/innarticle/the-ai-revolution-spotlight-on-chatgpt-as-ai-seeks-to-reshape-the-world"
 type: article
-quality: 38
+quality: 40
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - Facebook AI
 
 images:
   - url: "https://insurancenewsnet.com/wp-content/uploads/2023/05/feature-2023-05-profiles-matiash.jpg"
@@ -56,6 +57,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/644dcaea56de9f4c3dad4710/0x0.jpg?format=jpg&crop=1723,730,x105,y0,safe&width=1200"
         width: 1200
         height: 508
+        isCached: true
+  - title: "Should Generative AI ChatGPT Be Made Available Unfettered Unfiltered And Likely Vile, Asks AI Ethics And AI Law"
+    excerpt: "A rising question is whether generative AI such as ChatGPT in its rawest form has significant value and legally ought to be made available for the betterment of us all. Here's the scoop."
+    publishedDateTime: 2023-05-01T08:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/05/01/should-generative-ai-chatgpt-be-made-available-unfettered-unfiltered-and-likely-vile-asks-ai-ethics-and-ai-law/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/05/01/should-generative-ai-chatgpt-be-made-available-unfettered-unfiltered-and-likely-vile-asks-ai-ethics-and-ai-law/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/05/01/should-generative-ai-chatgpt-be-made-available-unfettered-unfiltered-and-likely-vile-asks-ai-ethics-and-ai-law/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 84
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/644b0568feff0dec7e76f6f5/0x0.jpg?format=jpg&crop=1972,1110,x0,y16,safe&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Sneakily Using Generative AI ChatGPT To Spout Legalese And Imply That You’ve Hired An Attorney, Unsettling For AI Ethics And AI Law"
     excerpt: "People are using ChatGPT and other generative AI to compose letters that have legalese, aiming to intimidate others. Is this allowed? Should it be stopped? Here is the insider scoop."
@@ -133,6 +150,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "UAE releases guide to ChatGPT and other AI platforms"
+    excerpt: "The guide is a valuable resource for government entities, facilitating the utilisation of AI technologies and enhancing its implementation across various fields. UAE releases guide to ChatGPT and other AI platforms."
+    publishedDateTime: 2023-05-01T08:46:00Z
+    webUrl: "https://www.itp.net/emergent-tech/uae-releases-guide-to-chatgpt-and-other-ai-platforms"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 39
+    images:
+      - url: "https://www.itp.net/cloud/2023/04/03/AI-think.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "Artificial intelligence or active imagination with ChatGPT?"
     excerpt: "When a journalist and historian attempted to see if his own research would be sourced by AI, he was intrigued by some of the responses he got from a text-generating artificial chatbot"
     publishedDateTime: 2023-05-01T01:00:00Z
@@ -157,6 +188,6 @@ related:
       domain: computerworld.com
     quality: 17
 
-secured: "rsMQfz1VIHhaSxfb3myAAW3zxega5sFYZg/jgh5o/1oFeTyD6xDIqQ/rVvJNTD7IVJ1hwnLSKFjmofnJUuza0aZtE6sDjhXkcJuxNFVIdR7nK+tfL2yj5dlmoVZA3PtxbnUJmiwGAubb5IM/8t7jof7IczZDeQy2VmUSZwduaCBJBmn9+KAkc5XUX/IfNTOyzfxLoKeBPNwVa1rCbPGH/9fKHmY6ziudMxksOpD9CaImNlhI7WfKEoklBvLYsEAbD69U4gGUH1Wnwq3pH4xtuE4l4POsEHxpZBp+MizOX95nQu3/UFcRdz6y1Dxh0w0dx/u3b44hNNEJnAPWBMit+D5KbfBAGypMEafnJilp8KQ=;sao2FFcSHAZd7dRoZ6uW6Q=="
+secured: "mF01om7B7xsyih6XkuSBYCaO8qXrZEvVF3G1vj74/P1nWGlBNzvC7P4o6MgPXs+RI3wHJojsp7ZGdZDwZ0IbidygpvlaqjFYvfHgTLa85oKsgn9XTauYOUkDaY97j2u7e7vNqWk11Pg/8hfxVU7WHlIrR+zsAQ6Q7l8N371ign9Lmn3s/pz+bOBe3qGh4XojpN5QiKyhaz5w9y8te29omjEfRymg8L6h5L+QqxvKliytVDZTk4u6yg9LhAoZX5PM+nFR03jT5V5NTNFytEmQUjUks0++aA0gwtdTbVLVUjD0zpoTRqCAzP6XWgVuoGG614hSmulLrLBOnF8Q52DGd069y6joEOLUa2K0nxPNTN4poE7iZ80pUs3QLrWQmvYvTexXJI9/zM2aM3gKy/x/PxoCP5Ic+9T3s51f1ZlW+BtBegqr5muPmmnAy074l+K6q79nMuv1iuSP3RRDmSOhqDaY/DjTel04xY+Ia8XshtCWLte8kdWlXOU84ovho3VU00+9+XBdIWL/jteFFcpJMQ==;VF5JX8nKXZa1eepzJqmN3w=="
 ---
 

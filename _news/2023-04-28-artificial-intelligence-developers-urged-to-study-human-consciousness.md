@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thenews.com.pk/amp/1064655-artificial-intelligence-devel
 cdnAmpWebUrl: "https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/1064655-artificial-intelligence-developers-urged-to-study-human-consciousness"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 700
     height: 400
     isCached: true
-
-related:
-  - title: "AI creators must study consciousness, experts warn"
-    excerpt: "\"The rapid development of AI is exposing the urgent need to accelerate research in the field of consciousness science,\" the letter says. Its signatories include Dr Susan Schneider, who chaired US space agency Nasa, as well as academics from universities in the UK, US and Europe."
-    publishedDateTime: 2023-04-26T16:02:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-65401783"
-    ampWebUrl: "https://www.bbc.co.uk/news/technology-65401783.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-65401783.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 57
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/16F08/production/_129506939_gettyimages-1079012838.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "vD0VDYyIdBfrYG7VdlIyQa/w+DTU+6pG296KBhQGskagilvXKWhukxqkvOgPTuimiokNsdTp8/MQilO17KSGdatT+yzDBCNbSmdtS97Etzsvzlhd8GrJYi4TCz8Qc4Ivr0rSn5ceOmv7PrBQRdz7x9b/2NjOsSqDinYTgKnmXWf3xfqLYaiP2+WpZha7rf6Aok7o+brAuQD4+Dd82JHwUljJ84oLBRU9kJ2xxnU+cS+qL9SwoDdCLlGyOzlRZ9oKrU/acorBbGI+1sHFx50Cv2GFy9JkpY2V1k/0i287Nq2DDmaW4Q85xRECgJMAQyjssc525Q1xZh1s5ovnqfdoGF6iH73XqOlIuxaw6sObCz+NCB8fEbG/7AIF4pXDZZOZj2mCcCWI9RxUqLfl2/Q0jycKYm6PjUbknYnmJ9omZIF5+Pl4hY0k6VAPkzZ9MGr34fHHHylxMvlJfEuhtMd1//bQ4XEh5m/PAuEIGOsua5FOTmMJ+1BpXSMbMh5PaXdrRuRU5s0saL21NFxereSjBA==;k/YI9Qdk0HM84HP2deiO7A=="
 ---

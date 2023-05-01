@@ -46,17 +46,6 @@ related:
         width: 800
         height: 500
         isCached: true
-  - title: "Industrial AI: How Is Artificial Intelligence Transforming the Manufacturing Industry?"
-    excerpt: "AI is being used worldwide to improve production times and boost safety in manufacturing plants in what is referred to as the “Industry 4.0” era. In this piece, we will discuss why the need for industrial AI is accelerating and highlight some of the companies that are leading the change."
-    publishedDateTime: 2023-04-26T15:38:00Z
-    webUrl: "https://www.nasdaq.com/articles/industrial-ai-how-is-artificial-intelligence-transforming-the-manufacturing-industry"
-    ampWebUrl: "https://www.nasdaq.com/articles/industrial-ai-how-is-artificial-intelligence-transforming-the-manufacturing-industry?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/industrial-ai-how-is-artificial-intelligence-transforming-the-manufacturing-industry?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 76
   - title: "Using AI as a virtual financial adviser"
     excerpt: "A tool like ChatGPT cannot fully comprehend the intricacies of human language and conversation, which can lead to responses that lack depth and insight. There is also a need for"
     publishedDateTime: 2023-04-27T02:08:00Z

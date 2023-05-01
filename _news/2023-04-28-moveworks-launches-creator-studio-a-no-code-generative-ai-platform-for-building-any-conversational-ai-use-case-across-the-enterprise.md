@@ -204,15 +204,6 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 34
-  - title: "Moveworks Launches Creator Studio: A No-Code, Generative AI Platform for Building Any Conversational AI Use Case Across the Enterprise"
-    excerpt: "Moveworks, the leading conversational AI platform for the enterprise, today announced Creator Studio - a no-code, generative AI platform for building any conversational AI use case in minutes. The platform leverages advanced large language models (LLMs) and generative AI to provide a natural language interface that serves as an enterprise-wide copilot for employees."
-    publishedDateTime: 2023-04-26T15:34:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/04/26/9802438.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "UncToRlgwI+iFxap6qAcVBEqDdmgAGC+yZLGfx6MywHyH+ikRav3iRMtGO158oSkudg8DzhRlX+yId5ukzSn/PhBZ104pCTUFl160DEj4brWDrE42Qlv4MVvQMC4M4WL7zE4ryiRDLgRSomS3St8ricJ7M6HCks/xflSi5DFd3DnDkn5Z5C+EzJNPupv/Q1CGslI2ynIqHlKBoYPGsmTm+4xDQ7ioLrkGhWFRSydHeR7NstIngGMiawzd54pyPhdZLvNlLiTlRsIlAR6lQPwa7646YcS8Szp37K8MUBaShJ0QQVOrhjrsKrKUssCgHHGQSL/f2Y0bIzwGcOtHmGEzvvjng2pQhmeC7fcIbZjpG5v4A7MqVvEODEfWqPX47FZoQkAT64BR4bMzeSqA+9X8PH1jfgFibCDn4BHXJhd/7cuPyMUZRpRk2bEGMHh0lVc6yXVN73f2ZacmZYVr85MlwEgsNp3oCklp8aMKqSr3zmvEvjy81lr27Xz/+rHkxZxOO+qrQDFj0uSSGzyXqdhQQ==;omE3yKvsFdAqDFg7ixo1Kg=="
 ---

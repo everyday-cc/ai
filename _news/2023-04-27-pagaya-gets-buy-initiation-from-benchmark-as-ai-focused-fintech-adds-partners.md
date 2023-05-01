@@ -69,15 +69,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "3 Fintech Stocks With Huge Return Potential for Long-Term Investors"
-    excerpt: "The fintech market continues to grow at a blistering pace, as consumers and businesses migrate online and use their smartphones and apps to make increasingly sophisticated digital payments and online financial transactions."
-    publishedDateTime: 2023-04-26T15:19:00Z
-    webUrl: "https://www.nasdaq.com/articles/3-fintech-stocks-with-huge-return-potential-for-long-term-investors"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 34
   - title: "Rising AI and machine learning investments powering senior care advancements"
     excerpt: "It’s perhaps no surprise that investment in AI and ML in healthcare rose over the last two years, according to new research from commercial real estate and investment company Jones Lang LaSalle."
     publishedDateTime: 2023-05-01T04:17:00Z

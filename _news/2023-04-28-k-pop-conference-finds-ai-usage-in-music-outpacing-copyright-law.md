@@ -40,20 +40,6 @@ related:
         width: 802
         height: 450
         isCached: true
-  - title: "Cybersecurity and AI trends analysis live from RSA Conference"
-    excerpt: "At this week’s RSA Conference in San Francisco, the focus remained on generative artificial intelligence, with some uncertainty about its involvement in recent hacks. The technology will likely become increasingly relevant as it develops further,"
-    publishedDateTime: 2023-04-26T15:14:00Z
-    webUrl: "https://siliconangle.com/2023/04/26/cybersecurity-and-ai-trends-analysis-live-from-rsa-conference-rsac/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/04/Sarbjeet-Johal-RSAC-2023-V2.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Emerging trends in 2023: The evolution of AI in online shopping"
     excerpt: "In recent years, the AI technology has been widely adopted by the e-commerce sector and AI will witness a fast growth in the coming years so as to enable e-commerce businesses in making data-driven strategic decisions."
     publishedDateTime: 2023-04-30T13:53:00Z

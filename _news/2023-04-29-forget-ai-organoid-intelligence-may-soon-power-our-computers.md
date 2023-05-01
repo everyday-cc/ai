@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/williamhaseltine/2023/04/28/forget-ai-o
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/williamhaseltine/2023/04/28/forget-ai-organoid-intelligence-may-soon-power-our-computers/amp/"
 type: article
 quality: 87
-heat: 102
+heat: 87
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Wrike Demonstrates Continued Leadership In AI With Expanded Work Intelligence™ Solution"
-    excerpt: "We're fortunate to not only have a head start in the great AI race but a clear vision for the future of Wrike AI. Intelligent work management is already here.\" Wrike's Work Intelligence solution is comprised of industry-first features,"
-    publishedDateTime: 2023-04-26T15:35:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/04/26/9802498.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 9
 
 secured: "OyLdtgxTXHPsAT/X/wVGoHABLtQdhKEdYuyAMmVLPvAJv2IMc/SYv3j+6k1Dr3QBxq84jR2F5f28cvQHgQ3YuHOCGvTJaAoMRk02jJgVTJ37c5BX4I1sNOE8Qlr6Wd1Car7VSpancGfwl3TJerY7jqnHC9JackFL9ofvGRnXVm6TDW4at00APaUu1NmKxZCzV3TmBr91BpQLzvzNGlf0Vs18TsNX4NxZO/slw0OIf4k8yN+PUUY7eUJ5AT2WPljoMwgZPQ7PkyNwBfM+LSzQVjfAYTIqpzZEOFoYGgaEi0PXX009Q2sK2V2lcI2OWD5mwDfXi96hy1Xxg3SRAs1xrdQ8npHw4HVOqn6URIPCTduw4HX2K0wnY7Ni0BuVHJ6XdaVx/yOcXnKHLGel4RnKVR9KjpYee1f1+7oOXqsITOZGdHcEgYJaMcu6V7UDtoMhlh/lCmWk4JnmLzR2Vx/26HkOZulxL2gCCNSYw0kY/LunKLQlnlPpROJATTMG4yyKZDDcsFZYbIx2RmFLtERTww==;S2mkoDLfqBZ2dm3d/o4VHA=="
 ---

@@ -3,8 +3,8 @@ category: news
 title: "The risks and rewards of AI-powered translation"
 excerpt: "Advances in AI deep learning for machine translation are an opportunity for organisations to remove language barriers to global trade"
 publishedDateTime: 2023-04-27T15:30:00Z
-originalUrl: "https://www.business-reporter.co.uk/technology/the-risks-and-rewards-of-ai-powered-translation"
-webUrl: "https://www.business-reporter.co.uk/technology/the-risks-and-rewards-of-ai-powered-translation"
+originalUrl: "https://www.business-reporter.co.uk/management/the-risks-and-rewards-of-ai-powered-translation"
+webUrl: "https://www.business-reporter.co.uk/management/the-risks-and-rewards-of-ai-powered-translation"
 type: article
 quality: 39
 heat: 39
@@ -54,6 +54,6 @@ related:
         height: 800
         isCached: true
 
-secured: "R+Z+5xBAUE2wM2GnY+AiAZqXhi+quZzVuPNnhCYwelwY5/44rqviLR0ylhfPx5PhAfGM6kwIpUqvt+BjJjtB+IwuVdKMaLTjSlklmc/v+9SxDZE5c0H4JD05FT3Mv8HeTWSmR38IAn5GGq5spdYIxaYln0kmuXgSi/pQ6tDM8T90npDHmvkgt+ojlckKV9YWWZM6djCG41BRqn7sM2ja7NoMjtF7WGPxaOYa2S3J4dhNMkn6l9dClbnRN0qRaKi1zsKZJ0pztp6UmwM+PaJBUjzblGLoUSlbGmBfjhtZcl6T0JOZD9LdQjKOvGcKV3TbBSaERf2SynCnq9HncWR4/9EyI01Hq7KnbV4gcpAVRcw=;OxbR7gVqKMuGIyvq0Bq+LA=="
+secured: "YUn2vU+/rHuMfRrq36LPI4/66kyuNrNq3y8DJAjBkWVvU6XDQ4U2HOrGubVjKagtwkIHjxCo2X/8D+Rf5OC5Pp3h1Q4LrFlCsV27tKoYg1wfX4tocpikoVuYxXCdBPfVYi/Ar+skEoqZI1LefvErcgCiCpHEsu7L9okBdxar6r762pDBI1nfIA+Tf+bczW0N1NuqAWtQCdDdHXpwGlPY7itYrhjwVJvzi7QAXGFWs6oIPGJUz4Hq5Ej1QPudyp3fUbd4dgU9GZGnt1nwexmnTRFTB7fdxhJS9+MTHSmI438tCW5vnVD3bc+tYfzbBoVCA2sP+oE8tOE+riWMrbgfT7PcThyUBDlPbxuCFd8Un84=;BL19z2cf1jsSk8hA81HqcQ=="
 ---
 

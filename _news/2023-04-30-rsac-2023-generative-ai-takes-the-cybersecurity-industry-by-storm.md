@@ -106,20 +106,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "AI Will Take Many Cybersecurity Jobs, But It's Not a Complete Disaster"
-    excerpt: "AI will force some big changes in the cybersecurity job market, but Rohit Ghai, CEO of RSA Security, tells RSAC 2023 attendees that he's hopeful AI tools and human workers can coexist."
-    publishedDateTime: 2023-04-26T16:04:00Z
-    webUrl: "https://www.pcmag.com/news/ai-will-take-many-cybersecurity-jobs-but-its-not-a-complete-disaster"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/05iUDYbdzZRKkboE6Y2NAzm-1.fit_lim.size_1200x630.v1682519762.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "RSAC 2023: 10 Coolest Cybersecurity Startup Companies"
     excerpt: "HiddenLayer, Concentric AI and Mondoo were among the coolest cybersecurity startup companies at RSAC 2023."
     publishedDateTime: 2023-04-28T20:40:00Z

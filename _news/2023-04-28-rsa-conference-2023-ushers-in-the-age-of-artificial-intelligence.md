@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/04/28/rsa-conference-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/04/28/rsa-conference-2023-ushers-in-the-age-of-artificial-intelligence/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cybersecurity and AI trends analysis live from RSA Conference"
-    excerpt: "At this week’s RSA Conference in San Francisco, the focus remained on generative artificial intelligence, with some uncertainty about its involvement in recent hacks. The technology will likely become increasingly relevant as it develops further,"
-    publishedDateTime: 2023-04-26T15:14:00Z
-    webUrl: "https://siliconangle.com/2023/04/26/cybersecurity-and-ai-trends-analysis-live-from-rsa-conference-rsac/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/04/Sarbjeet-Johal-RSAC-2023-V2.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "K-Pop Conference Finds AI Usage in Music Outpacing Copyright Law"
     excerpt: "Artificial Intelligence dominated the conversation at the inaugural Moving the World with Music conference in Seoul. But K-Pop executives said that copyright law is lagging far behind technologies such as ChatGPT and Midjourney."
     publishedDateTime: 2023-04-27T17:03:00Z

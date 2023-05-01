@@ -229,20 +229,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "ChatGPT vs. Microsoft Bing vs. Google Bard: Which AI is most helpful?"
-    excerpt: "Three AI models that may change the world. ChatGPT vs. Microsoft Bing vs. Google Bard? Which of them operates on acceptable technology in the present and future?"
-    publishedDateTime: 2023-04-26T15:52:00Z
-    webUrl: "https://interestingengineering.com/innovation/chatgpt-vs-microsoft-bing-vs-google-bard"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 56
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/04/26/image/jpeg/PtJ6EQn6QUfFoo55OFjqRtO0N70iJQu0i2fb6UPd.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "'AI All-Star' Microsoft's rosy earnings spark rally in tech stocks"
     excerpt: "Microsoft Corp shares surged 8 per cent premarket on Wednesday and lifted tech stocks after the company's robust earnings eased fears of a slowdown in cloud computing and boosted confidence that artificial intelligence will become a major growth driver."
     publishedDateTime: 2023-04-26T23:44:00Z

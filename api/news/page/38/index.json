@@ -2,6 +2,108 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2023-03-27-how-can-ai-fit-into-customer-service-call-centers-effectively.md",
+      "title": "How Can AI Fit Into Customer Service Call Centers Effectively?",
+      "excerpt": "Companies Often Misuse AI Programs And Models . Unfortunately, some contact center leaders are repeating errors made with early chatbots by viewing the current generation of AI ap",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/03/27/how-can-ai-fit-into-customer-service-call-centers-effectively/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/03/27/how-can-ai-fit-into-customer-service-call-centers-effectively/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/641dfa715f3e73fbfc580d4a/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/03/27/how-can-ai-fit-into-customer-service-call-centers-effectively/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/03/27/how-can-ai-fit-into-customer-service-call-centers-effectively/amp/",
+      "publishedDateTime": "2023-03-27T03:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-27-ai-and-the-future-of-software-development.md",
+      "title": "AI and the future of software development",
+      "excerpt": "Just ask Jaana Dogan, a distinguished software engineer at GitHub. According to Dogan, “People are too focused on code generation and completely ignore that LLMs are useful for code analysis.” In other words,",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3691892/ai-and-the-future-of-software-development.html",
+      "originalUrl": "https://www.infoworld.com/article/3691892/ai-and-the-future-of-software-development.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/05/ai-vendor-relationship-management_artificial-intelligence_hand-on-virtual-screen-100795246-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3691892/ai-and-the-future-of-software-development.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3691892/ai-and-the-future-of-software-development.amp.html",
+      "publishedDateTime": "2023-03-27T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-27-new-chapter-in-intelligent-transport-baidu-begins-driverless-taxis-in-beijing.md",
       "title": "New Chapter in Intelligent Transport: Baidu Begins Driverless Taxis in Beijing",
       "excerpt": "A self-driving robotaxi developed by Chinese search provider and artificial intelligence (AI) heavyweight Baidu and Chinese carmaker FAW Hongqi participates in a test ride for seed passengers in Changsha,",
@@ -1097,93 +1199,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-03-26-better-late-than-never-3-artificial-intelligence-ai-stocks-that-still-have-massive-upside.md",
-      "title": "Better Late Than Never: 3 Artificial Intelligence (AI) Stocks That Still Have Massive Upside",
-      "excerpt": "SentinelOne's use of artificial intelligence gives it a performance edge over its ... SentinelOne scores very high on benchmarks such as MITRE's ATT&CK Evaluations, and research firm Gartner gave it the top rank in endpoint protection.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/03/26/better-late-never-3-ai-stocks-massive-upside/",
-      "originalUrl": "https://www.fool.com/investing/2023/03/26/better-late-never-3-ai-stocks-massive-upside/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/725453/artificial-intelligence-ai-on-circuit-board.jpg",
-          "width": 2359,
-          "height": 1270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-26T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-26-robots-driverless-trucks-and-chatgpt-are-about-to-blow-up-australias-jobs-market-but-some-workers-have-a-lot-more-to-fear-than-others.md",
-      "title": "Robots, driverless trucks and ChatGPT are about to blow up Australia's jobs market ... but some workers have a lot more to fear than others",
-      "excerpt": "Dr Andrew Miller, who will address the Urban Development Institute's Congress in Perth on Tuesday, said artificial intelligence ... A trial run of driverless trucks in Melbourne last November ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/news/article-11893039/ChatGPT-driverless-trucks-robots-technology-change-Australia-blue-collar-workers-safe.html",
-      "originalUrl": "https://www.dailymail.co.uk/news/article-11893039/ChatGPT-driverless-trucks-robots-technology-change-Australia-blue-collar-workers-safe.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-26T03:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

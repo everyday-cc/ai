@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/first-wave-ai-rules-congress-look-l
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/first-wave-ai-rules-congress-look-like.amp"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "The complications of regulating AI"
+    excerpt: "The idea that advancing technology outpaces regulation serves the industry's interests, says Elizabeth Renieris of Oxford. Current oversight methods apply to specific issues, but \"general purpose\" AI is harder to keep in check."
+    publishedDateTime: 2023-04-27T10:00:00Z
+    webUrl: "https://www.marketplace.org/shows/marketplace-tech/the-complications-of-regulating-ai/"
+    ampWebUrl: "https://www.marketplace.org/shows/marketplace-tech/the-complications-of-regulating-ai/amp/"
+    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/the-complications-of-regulating-ai/amp/"
+    type: article
+    provider:
+      name: Marketplace
+      domain: marketplace.org
+    quality: 59
+    images:
+      - url: "https://www.marketplace.org/wp-content/uploads/2023/04/GettyImages-1390024980.jpg?fit=740%2C494"
+        width: 740
+        height: 493
+        isCached: true
 
 secured: "fI2qhnK7a6hdzIe4dNDyHGkEyByqNKoYZIFF/Vi/cGHkWmCcMzQFki175u6WJKH8XhbsI/qGF3nuysDVha5v0LfAwXotm2UHyIjDabtNU0RFOIozlKAh5PXBFiSDVJKCdXJiqTE5eyCY/s7LDIKuGxpYHdYOQ70m2iXOSLlief9YFgnv1ByE+SMTHtLwn7hk0/jNqHQUSwivx2dSgP+N+v6aLhzADUNIyOgX27nFE9NJWfUD10dXW+WXLHOuuLLjTxDSx/rccvgwk6FfmdRSo7p6fMPLKvzQjm8rU7v5kIWNccCauLUs3T+tWp15qxZ33Qme4nSdSIdswjZQGMGkprSt5NGjmC1MVS1+N2QNyNQ=;cwkjwO8zNVGxXPPp7n348w=="
 ---

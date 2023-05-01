@@ -27,7 +27,7 @@ related:
     provider:
       name: Semiconductor Engineering
       domain: semiengineering.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://semiengineering.com/wp-content/uploads/Fig01_ML_func_verify_survey_SiemensEDA.png?fit=936%2C466&ssl=1"
         width: 936

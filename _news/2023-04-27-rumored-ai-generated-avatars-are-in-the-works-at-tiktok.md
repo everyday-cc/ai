@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/article/rumored-ai-generated-avatars-are-in-
 webUrl: "https://www.zdnet.com/article/rumored-ai-generated-avatars-are-in-the-works-at-tiktok/"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -20,51 +20,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "TikTok is testing an in-app tool that creates generative AI avatars"
-    excerpt: "TikTok is experimenting with a new tool that allows users to create generative AI avatars, the company confirmed to TechCrunch"
-    publishedDateTime: 2023-04-26T16:07:00Z
-    webUrl: "https://techcrunch.com/2023/04/26/tiktok-is-testing-an-in-app-tool-that-creates-generative-ai-avatars/"
-    ampWebUrl: "https://techcrunch.com/2023/04/26/tiktok-is-testing-an-in-app-tool-that-creates-generative-ai-avatars/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/04/26/tiktok-is-testing-an-in-app-tool-that-creates-generative-ai-avatars/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1248373545.jpg?resize=1200,788"
-        width: 1200
-        height: 788
-        isCached: true
-  - title: "Apple, TikTok jump aboard the generative AI train; Boston Dynamics’ Spot gets ChatGPT"
-    excerpt: "Apple and TikTok have jumped on the AI bandwagon. Also, even more interestingly, engineers are beginning to integrate ChatGPT into Boston Dynamics' Spot robotic dog."
-    publishedDateTime: 2023-04-27T11:47:00Z
-    webUrl: "https://indianexpress.com/article/technology/tech-news-technology/apple-tiktok-jump-aboard-the-generative-ai-train-boston-dynamics-spot-gets-chatgpt/"
-    ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/apple-tiktok-jump-aboard-the-generative-ai-train-boston-dynamics-spot-gets-chatgpt/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/apple-tiktok-jump-aboard-the-generative-ai-train-boston-dynamics-spot-gets-chatgpt/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 52
-    images:
-      - url: "https://images.indianexpress.com/2023/04/tiktok-featured-reuters.jpg?resize=600,334"
-        width: 600
-        height: 334
-        isCached: true
-  - title: "Artificial Intelligence Can Create, But Lacks Creativity, Say Critics"
-    excerpt: "Artificial intelligence, or AI, could potentially transform arts and entertainment, from music to movies, but it is also raising concerns. Is AI a creative tool or a threat to creators and artists? VOA’s Mike O’Sullivan examines the question."
-    publishedDateTime: 2023-04-27T01:26:00Z
-    webUrl: "https://www.voanews.com/a/artificial-intelligence-can-create-but-lacks-creativity-say-critics/7068177.html"
-    ampWebUrl: "https://www.voanews.com/amp/artificial-intelligence-can-create-but-lacks-creativity-say-critics/7068177.html"
-    cdnAmpWebUrl: "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/amp/artificial-intelligence-can-create-but-lacks-creativity-say-critics/7068177.html"
-    type: article
-    provider:
-      name: Voice of America
-      domain: voanews.com
-    quality: 37
 
 secured: "6fAGx/evx0H2tEfshdGLskrW/Zw8s+fOyu0Qx8CWv+YkWL8i01tzlLYf0gn0yg1IzCFUahpu0b0Kch4Lm9ni/J9cd3icpCx0hpjUjRGF3dDc/zF09n6pD9xhrf0gXHqVFLtJ1RtxudR1gM1Rmk0K2dmL0VUM2yJbyaL7UHot39KND3hM7447BzekaZOpaEW9p1dhv3hpX/E8zYaFjnl4kAGQDKXbNZ7HrLlTItSzkRhhI/BYmBqodgf1SfV6gD0CmRfAkRDsRWzAHi5sKFlLnHk6KooYgbSsmx9WfWr4e1ms1j7Ub4L6FEmxNBAU35GgzUsagWzuqBVJOkAsEongjorvG2/gGaE0+vy2N2yAKNiKZLu8wHCfDE0H95AGu1XfR0wixoHOchbeXXo2Kjpb8AzsynMgfWPRYAPzsFjZfEgTGFS+b7CXUo6ZY/jEvPu3w6+CM1na1TpKDKApzk5gFUNRk8mJDZdCph+hdNm+R74n3FBJJ+GQToK0dS+cBed2/eIUe04GuKrgDh363OAIDg==;tKGGbD/LQI+YgHsgSkLnxw=="
 ---

@@ -6,8 +6,8 @@ publishedDateTime: 2023-05-01T07:08:00Z
 originalUrl: "https://semiengineering.com/slow-ai-adoption-within-eda/"
 webUrl: "https://semiengineering.com/slow-ai-adoption-within-eda/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://semiengineering.com/wp-content/uploads/Fig01_ML_func_verify_survey_SiemensEDA.png?fit=936%2C466&ssl=1"
@@ -34,6 +35,6 @@ related:
       domain: cointelegraph.com
     quality: 19
 
-secured: "0ucvOu9YY3aITPjtP/6Tr2jcc5Es/VIY3AA41Iqcn1MrTzlLXA5zPFcVb7LFRLXhHDE/4fE5TgbgPoAHjfBdvCJMrplwtW64mEMVAZpGh9lMAMH6e+Z79oSeoQjmSM+SY9Cr7uzsT+kSGD6iN3SYWR791GPYiJ0ORO4b58SC5F7YdzVPEbYZ1tYyd+XQkNfUPCYi2Fyk1L74qvSgtu1XtmXNXpaAZ8nWmt2zcVtQkixWA4lb44uhHSDQ9VaF76BITzrSJARRZHV5pBAMobvpavSGbZcvLigV1ZpjfhSmdifO/WEz7fd4kHqCAqwCtPHvUQ+/o1pljFv8ylT6GoJQxrG1ul4vm2qUI3cYFswsFDI=;2gxJ/eXu1CIULxdvPfeE8w=="
+secured: "fzwAM/EvKlfonIPdfCofMcn8TVLA6dsuqjkCtkocBj1ewRCbmN85Xiu1IucrS1Nrero7mWnotVP+PGhFBwh3HNiLrHp9e7WBQfv1B1Nb97g02MbDIUFyf8Z2I1zFLVHupsTO5aNH6RNF+KaeDOs9h9+te+5sovFY+v9ikFya+E/A7BEoAdthIiyRVuD38QuM3Y7BRIznK4azHLY147VWB91PaAPfeNlBSDJicWbVyF5FfMG6RnRnZ7gGtfl5uqw6rv0dgPBXz/hoAl1vyZ/VP5ggClf8QtPl7s38aJKQBHGDqlrbNWgagQG4P8Ol2q0lxqO13xXf/SOlOVgTsuo/zbc0ObVgYn3mnw3dmC43brV+sNXbTkzyV9a9d+ulA6ylIeOvjqbnwjtVGB7q7cI8U7BKOIuEsZ+gJ/BIUmLO34hR/qKAHjGQVzAGLXvce0vUc+FKVYBQEc3dZhru1axq5CFCaR+lmwr/xgo2ZvGKtgznCK+2TQzeY5vJiPDJo88q9+Zc3Qv6Nogr2l+eqCZdMA==;CY6CCR2H3TwqfH6uTaFVdg=="
 ---
 

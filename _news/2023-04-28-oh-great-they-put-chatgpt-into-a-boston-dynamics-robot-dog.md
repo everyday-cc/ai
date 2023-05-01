@@ -57,21 +57,21 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Someone Put ChatGPT Inside Of A Robot Dog, Which Can't Possibly End Badly"
-    excerpt: "Massive upgrade!\" Of course, this isn't a case of simply installing ChatGPT into a robot and getting immediate results. As seen in the video, Santiago and the team had to create specific terms and routines for ChatGPT to function properly within Spot."
-    publishedDateTime: 2023-04-26T15:10:00Z
-    webUrl: "https://www.gamespot.com/articles/someone-put-chatgpt-inside-of-a-robot-dog-which-cant-possibly-end-badly/1100-6513590/"
-    ampWebUrl: "https://www.gamespot.com/amp-articles/someone-put-chatgpt-inside-of-a-robot-dog-which-cant-possibly-end-badly/1100-6513590/"
-    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/someone-put-chatgpt-inside-of-a-robot-dog-which-cant-possibly-end-badly/1100-6513590/"
+  - title: "Apple, TikTok jump aboard the generative AI train; Boston Dynamics’ Spot gets ChatGPT"
+    excerpt: "Apple and TikTok have jumped on the AI bandwagon. Also, even more interestingly, engineers are beginning to integrate ChatGPT into Boston Dynamics' Spot robotic dog."
+    publishedDateTime: 2023-04-27T11:47:00Z
+    webUrl: "https://indianexpress.com/article/technology/tech-news-technology/apple-tiktok-jump-aboard-the-generative-ai-train-boston-dynamics-spot-gets-chatgpt/"
+    ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/apple-tiktok-jump-aboard-the-generative-ai-train-boston-dynamics-spot-gets-chatgpt/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/apple-tiktok-jump-aboard-the-generative-ai-train-boston-dynamics-spot-gets-chatgpt/lite/"
     type: article
     provider:
-      name: GameSpot
-      domain: gamespot.com
-    quality: 58
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 52
     images:
-      - url: "https://www.gamespot.com/a/uploads/original/1601/16018044/4130173-blade-wolf.jpg"
-        width: 1280
-        height: 720
+      - url: "https://images.indianexpress.com/2023/04/tiktok-featured-reuters.jpg?resize=600,334"
+        width: 600
+        height: 334
         isCached: true
   - title: "Engineer Combines ChatGPT with Robot Dog, Spot for Enhanced Communication"
     excerpt: "In a world where artificial intelligence and robots are becoming increasingly prevalent, it’s always exciting to see how engineers are pushing the boundaries and finding new ways to make these machines even more useful."
@@ -98,20 +98,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "What Can ChatGPT Tell Us About the Evolution of Artificial Intelligence?"
-    excerpt: "In the last decade, artificial intelligence (AI) has elicited both dreams of a massive transformation in the tech industry  and a deep anxiety surrounding its potential ramifications. Elon Musk, a leading voice in the tech industry,"
-    publishedDateTime: 2023-04-26T16:07:00Z
-    webUrl: "https://www.unite.ai/what-can-chatgpt-tell-us-about-the-evolution-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 40
-    images:
-      - url: "https://www.unite.ai/wp-content/uploads/2023/04/evolution-ai-896x600.png"
-        width: 896
-        height: 600
-        isCached: true
   - title: "Meta Hopes to Rival ChatGPT with New AI Investments"
     excerpt: "Meta claims it's \"no longer behind in building AI infrastructure\", with new AI tools coming to WhatsApp, Messager, Facebook, and Instagram."
     publishedDateTime: 2023-04-27T16:51:00Z
@@ -125,20 +111,6 @@ related:
       - url: "https://images.tech.co/wp-content/uploads/2023/04/27113513/AdobeStock_577116307_Editorial_Use_Only-min_50-scaled.jpeg"
         width: 2560
         height: 1707
-        isCached: true
-  - title: "Let’s chat about AI: How design and construction firms are using ChatGPT"
-    excerpt: "Tech-savvy AEC firms that already use artificial intelligence to enhance their work view the startling evolution of ChatGPT mostly in a positive light as a potential tool for sharing information and training employees and trade partners."
-    publishedDateTime: 2023-04-26T16:21:00Z
-    webUrl: "https://www.bdcnetwork.com/lets-chat-about-ai-how-design-and-construction-firms-are-using-chatgpt"
-    type: article
-    provider:
-      name: Bdcnetwork.com
-      domain: bdcnetwork.com
-    quality: 38
-    images:
-      - url: "https://www.bdcnetwork.com/sites/bdc/files/Suffolk%20WINT.jpeg"
-        width: 1800
-        height: 1200
         isCached: true
   - title: "ChatGPT-powered Chatty Cat app for Mac brings AI to pets"
     excerpt: "Unlike other ChatGPT-powered apps or extensions, Chatty Cat for Mac brings six different pets to interact with you throughout the day."

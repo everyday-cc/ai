@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 508
         isCached: true
+  - title: "Should Generative AI ChatGPT Be Made Available Unfettered Unfiltered And Likely Vile, Asks AI Ethics And AI Law"
+    excerpt: "A rising question is whether generative AI such as ChatGPT in its rawest form has significant value and legally ought to be made available for the betterment of us all. Here's the scoop."
+    publishedDateTime: 2023-05-01T08:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/05/01/should-generative-ai-chatgpt-be-made-available-unfettered-unfiltered-and-likely-vile-asks-ai-ethics-and-ai-law/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/05/01/should-generative-ai-chatgpt-be-made-available-unfettered-unfiltered-and-likely-vile-asks-ai-ethics-and-ai-law/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/05/01/should-generative-ai-chatgpt-be-made-available-unfettered-unfiltered-and-likely-vile-asks-ai-ethics-and-ai-law/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 84
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/644b0568feff0dec7e76f6f5/0x0.jpg?format=jpg&crop=1972,1110,x0,y16,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Dr. ChatGPT? Physicians Are Sending Patients Advice Using AI"
     excerpt: "ChatGPT is better than doctors at responding to patient questions, study says"
     publishedDateTime: 2023-04-28T14:00:00Z
@@ -109,6 +125,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "The AI revolution: Spotlight on ChatGPT as AI seeks to reshape the world"
+    excerpt: "We look at some of the first steps companies are taking to harness this new, now not-so-secret weapon to supercharge their business."
+    publishedDateTime: 2023-05-01T02:41:00Z
+    webUrl: "https://insurancenewsnet.com/innarticle/the-ai-revolution-spotlight-on-chatgpt-as-ai-seeks-to-reshape-the-world"
+    type: article
+    provider:
+      name: Insurancenewsnet.com
+      domain: insurancenewsnet.com
+    quality: 40
+    images:
+      - url: "https://insurancenewsnet.com/wp-content/uploads/2023/05/feature-2023-05-profiles-matiash.jpg"
+        width: 858
+        height: 880
+        isCached: true
   - title: "ChatGPT: how to use AI as a virtual financial advisor"
     excerpt: "AI tools might seem overly complex or expensive to non-experts, but advances in natural language processing and machine learning could turn ChatGPT and similar products into virtual personal finance assistants."
     publishedDateTime: 2023-04-30T22:00:00Z
@@ -123,19 +153,19 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "The AI revolution: Spotlight on ChatGPT as AI seeks to reshape the world"
-    excerpt: "We look at some of the first steps companies are taking to harness this new, now not-so-secret weapon to supercharge their business."
-    publishedDateTime: 2023-05-01T02:41:00Z
-    webUrl: "https://insurancenewsnet.com/innarticle/the-ai-revolution-spotlight-on-chatgpt-as-ai-seeks-to-reshape-the-world"
+  - title: "UAE releases guide to ChatGPT and other AI platforms"
+    excerpt: "The guide is a valuable resource for government entities, facilitating the utilisation of AI technologies and enhancing its implementation across various fields. UAE releases guide to ChatGPT and other AI platforms."
+    publishedDateTime: 2023-05-01T08:46:00Z
+    webUrl: "https://www.itp.net/emergent-tech/uae-releases-guide-to-chatgpt-and-other-ai-platforms"
     type: article
     provider:
-      name: Insurancenewsnet.com
-      domain: insurancenewsnet.com
-    quality: 38
+      name: GDPR fines
+      domain: itp.net
+    quality: 39
     images:
-      - url: "https://insurancenewsnet.com/wp-content/uploads/2023/05/feature-2023-05-profiles-matiash.jpg"
-        width: 858
-        height: 880
+      - url: "https://www.itp.net/cloud/2023/04/03/AI-think.jpg"
+        width: 1920
+        height: 1280
         isCached: true
   - title: "Artificial intelligence or active imagination with ChatGPT?"
     excerpt: "When a journalist and historian attempted to see if his own research would be sourced by AI, he was intrigued by some of the responses he got from a text-generating artificial chatbot"
