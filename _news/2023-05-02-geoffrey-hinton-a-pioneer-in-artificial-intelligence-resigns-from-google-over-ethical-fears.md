@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/ai/geoffrey-hinton-a-pioneer-in-artificial-inte
 ampWebUrl: "https://venturebeat.com/ai/geoffrey-hinton-a-pioneer-in-artificial-intelligence-resigns-from-google-over-ethical-fears/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/geoffrey-hinton-a-pioneer-in-artificial-intelligence-resigns-from-google-over-ethical-fears/amp/"
 type: article
-quality: 95
-heat: 105
+quality: 97
+heat: 107
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - AI Ethics
   - AI
   - AI in Healthcare
+  - Machine Learning
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2023/05/deepmind.jpg?w=1200&strip=all"
@@ -49,6 +50,6 @@ related:
         height: 2000
         isCached: true
 
-secured: "a6CPf7KLI1ZEwQ6acBkNql8ZWMgwM3TeodZHbkK0JriHdezUpZpxI+c2KAxPIxcCFCVeo2IbUeAz6q+0BVX1K6JN4WVTWoRnXOlBnqMadTCaVpTfLnKt3YRrzBdwSbgj/PTnbKyJj6uY31BpRKlQmkLH/XponRLIz0t2Mr/IBfJXXqFujxEfOIUc3OkoOQ+Tk2MQat1BToIuD1mHu4aymLrK10HhJmBkROH5BUGScK8ib3zUdAClSJkOvqbT3+lS+Ej/9YKSaDilg61o6KWjNsOy1hv70ICQif0/O8xY+5IQNLtPd7VpErbzOb6PouulUAHSIVrKZcHdHHjb+su2P5NOxFXFIVVE/KladS4oh88=;TM0KhxhmwBZqwQ/wynTCAA=="
+secured: "wwYoWyTtE6Ro9mn4oAebW4Nhbbqyh/Suz6SawEnPnH2Obt4IBVoOUujE539apwDWU6y5QWCsuwhYiKE80C4chr94fRItf7IBAPgGPEiMCWmTP0VOuBpByVeBL6yB4ci2Op35NMPec63ISdeuhDD0R6EZQHfO/V6mUyxm2b/WKKYA+NbHXLgohG1H+hvZdXwdQPSOAo10iWIIAzehxGmS4SXGAwZ4w/+wa6xhHbgUF4M7Fg/CkFsPsz3G9TV6Gpb/D+eWCan564qrFuNA81zBRD2Q0M37R132D2RyqUQhu1lJChbD2FD2qeWzITV20ouw/tzal/QbJ7u6RC/6uZomfmRVy3u8fcose+iToYH3sOnBGyPTCp8uFLcgUi5Z9zpMOMeluuUKcnjw0VHyOzokzpXwv5z69Jo80CFgTGZni5QKvR8N8alDnpw0EWmLLnRob/DfsmEPoJmeU1oreOA9p+sPyuL0QgPMjQ8ta1rBVY40njwtEyZKerAGIY55sP4FYz1pxekn2aPyOzSGVgTMkA==;dvQs2BIMK30E1CHcttvpsg=="
 ---
 

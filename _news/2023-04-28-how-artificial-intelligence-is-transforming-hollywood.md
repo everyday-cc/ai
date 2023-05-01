@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo171546693664"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo171546693664"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "Hollywood’s Artificial Intelligence Test"
+    excerpt: "Are bots ready to replace writers?"
+    publishedDateTime: 2023-05-01T17:33:00Z
+    webUrl: "https://www.wsj.com/articles/hollywoods-artificial-intelligence-test-4e286280"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 47
   - title: "AI Eye: Is Hollywood over? ETH founder on AI, Wes Anderson Star Wars, robot dogs with ChatGPT brains"
     excerpt: "Avengers: Endgame co-director Joe Russo says fully AI-generated movies are only two years away and that users will be able to generate or reshape content according to their mood. So instead of complaining on the internet about the terrible series finale of The Sopranos or Game of Thrones, you could just request the AI create something better."
     publishedDateTime: 2023-05-01T13:30:00Z

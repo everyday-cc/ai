@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/news/indian-job-market-to-grow-22-pc-in-5-y
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/indian-job-market-to-grow-22-pc-in-5-yrs-ai-machine-learning-among-top-roles-wef/amp-11682918466324.html"
 type: article
 quality: 68
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -67,6 +67,15 @@ related:
     provider:
       name: moneycontrol.com
       domain: moneycontrol.com
+    quality: 25
+  - title: "Indian Job Market To See 22% Churn In 5 Years; AI, Machine Learning Among Top Roles: WEF"
+    excerpt: "The Indian job market is estimated to witness 22 per cent churn over the next five years, with top emerging roles coming from AI, machine learning and data segments, a new study showed on Monday. Globally,"
+    publishedDateTime: 2023-05-01T19:22:00Z
+    webUrl: "https://www.outlookindia.com/business/indian-job-market-to-see-22-per-cent-churn-in-5-years-ai-machine-learning-among-top-roles-wef-news-282695"
+    type: article
+    provider:
+      name: Outlookindia
+      domain: outlookindia.com
     quality: 25
 
 secured: "PIq0ZPng1UBBIMzYL/GqWuluEbI5e3WwRXIlH2Ke2PIcPCJrRBLSxL1luVAB3DFVY5qi44yoNyHaPdUhDpZtc3uo2Ixzd1rfSnuuIPU+HmwV7AG8ncZR86FdS2qKSe4HnmbolGRxMMF6CK0aaarfD9uqfbLKazOr3yv4glyOdfgbrpgkDRrJAHKEkK09QjtA2jWdUDlTZVXkCL+vTmSyuBU/m65nWS+T9DJG5C/SFWrFHY6pp/g97rj7FB7443DBGZOUA+5k8naBDvo2k2UYMkQ5W8y1BEQ6/OAeJfyvL+YrRDkF4Xpjt9H+rtL+FXRhXBShUIw3zDiw2nAIqym0cf1tF1ZnKNDYBvESUwGzgn/OmqKVHJk0VcwL6cHgmru1eP7beLXZg9LFTqMTO2Kz57993sAMooqsEXeZ0uYuWUhClkC2DwFv1SwvJvSIoktN0+b6wQa0uIL7Q97WNVSl754NgYuP2LG6MhBjDQI0blIqOYHer+xes72506B3khDlJ+5j6NF1vf/0+mgmUf1kCA==;2NR4RAGOOCFLLCWX74gb4w=="

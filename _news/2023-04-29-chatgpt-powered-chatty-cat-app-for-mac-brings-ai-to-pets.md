@@ -56,6 +56,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
+    excerpt: "Here's a guide to help understand Open AI's viral text-generating system. We outline the most recent updates and answer the most common FAQs."
+    publishedDateTime: 2023-05-01T20:51:00Z
+    webUrl: "https://techcrunch.com/2023/05/01/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/"
+    ampWebUrl: "https://techcrunch.com/2023/05/01/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/01/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
+        width: 1200
+        height: 798
+        isCached: true
   - title: "Are AI Chatbots, ChatGPT the Solution to Healthcare’s Empathy Problem?"
     excerpt: "A new study found that AI chatbots like ChatGPT answer patient queries with more empathy, making the tool useful for providers managing secure direct messages in the patient portal."
     publishedDateTime: 2023-05-01T17:00:00Z
@@ -138,6 +154,20 @@ related:
       - url: "https://wp-assets.futurism.com/2023/04/chatgpt-boston-dynamics-robot-dog.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "With the Rise of ChatGPT, VC Latches on to AI"
+    excerpt: "More than a third of venture capitalists believe artificial intelligence will generate the most growth of all sectors in tech, according to PitchBook."
+    publishedDateTime: 2023-05-01T20:31:00Z
+    webUrl: "https://www.institutionalinvestor.com/article/b8yjqzxwx1nk84/With-the-Rise-of-ChatGPT-VC-Latches-on-to-AI"
+    type: article
+    provider:
+      name: Institutional Investor
+      domain: institutionalinvestor.com
+    quality: 39
+    images:
+      - url: "https://www.institutionalinvestor.com/media/AMG/II/articles/1/1/1/art_machine050123.jpg"
+        width: 1000
+        height: 650
         isCached: true
   - title: "Viral: ChatGPT-AI, Google tech, gives voice to Boston Dynamics’ robot dog"
     excerpt: "A team of programmers has outfitted Boston Dynamics' robot dog, Spot, with OpenAI's ChatGPT and Google's Text-to-Speech speech modulation in a viral video."

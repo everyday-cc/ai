@@ -9,8 +9,8 @@ ampWebUrl: "https://phys.org/news/2023-05-lithography-free-photonic-chip-accurac
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-05-lithography-free-photonic-chip-accuracy-artificial.amp"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Phys.org
@@ -25,6 +25,17 @@ images:
     width: 600
     height: 400
     isCached: true
+
+related:
+  - title: "Lithography-free photonic chip offers speed and accuracy for artificial intelligence"
+    excerpt: "Researchers have created a photonic device that provides programmable on-chip information processing without lithography, offering the speed of photonics augmented by superior accuracy and flexibility for AI applications."
+    publishedDateTime: 2023-05-01T17:59:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/05/230501114010.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 57
 
 secured: "7HDuZIAXJr94vGTAi6FIDfYz6XGEmG2H/RWSyy5k3hYdpak+YbHWX/5RRGe1gup/s+7d4rTeVGrv6GNJoTQfr531nrHr21hBLp1avy2kEbl1Lhb1o8oGYzCgySMUn/9JIux4oz2PMR8XVPPk08K0vGmPGjIBh4MQvPI0/H369jEUVCmBOKjpJUtA0V7DE2VP666USmWP102u2Sg8Q9HtWd628ecrfbMaQhl1gnc/C6lONMCtnJfs1q9XYCK9KiC3O0tav/W/lMwoVqdmBijK5xJegCfn4EzuXKQ8GRaWhDriXzjJbPZjfblJs28dg2JJDu2hYaIZXLrqM+n9NTyvaJ+0ubenxXbPCQCcYNcsq8GVgxKMIHZZemEaVQufWnwbNhskztizLXrSWFf7a+qmhH7AAox5zLnmEMo9+PtZPxvqsVw2xu6BdKpS6bhNcTw40nvML1fqcjY+cDjvw5D+uPlt3uuJOFyefWj9VebnNAxsJaLN2plh7ZVbq2Tr58HoIkE6l4kKknM9CaOzr8i0SQ==;+FzYs4xTcXMJ2ua8wc4z2A=="
 ---

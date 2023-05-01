@@ -37,7 +37,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 95
+    quality: 97
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2023/05/deepmind.jpg?w=1200&strip=all"
         width: 1200

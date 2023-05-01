@@ -8,7 +8,7 @@ webUrl: "https://wraltechwire.com/2023/05/01/godfather-of-ai-quits-google-warns-
 ampWebUrl: "https://wraltechwire.com/2023/05/01/godfather-of-ai-quits-google-warns-of-artificial-intelligence-dangers/?amp=1"
 cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/05/01/godfather-of-ai-quits-google-warns-of-artificial-intelligence-dangers/?amp=1"
 type: article
-quality: 73
+quality: 75
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - Machine Learning
 
 images:
   - url: "https://wraltechwire.com/wp-content/uploads/2023/04/maximalfocus-0n4jhVGS4zs-unsplash-scaled-e1682089227197.jpg"
@@ -56,6 +57,20 @@ related:
       - url: "https://www.androidauthority.com/wp-content/uploads/2022/10/Google-Logo-Lights.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "'Godfather of AI' Leaves Google to Voice Concern About Artificial Intelligence"
+    excerpt: "Geoffrey Hinton, AI pioneer and Turing Award winner, resigns from Google in order to 'freely speak out about the risks of AI.'"
+    publishedDateTime: 2023-05-01T21:50:00Z
+    webUrl: "https://www.pcmag.com/news/godfather-of-ai-leaves-google-to-voice-concern-about-artificial-intelligence"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 78
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/07G9MNe0GnpFitXRKvcFMOg-1.fit_lim.size_1200x630.v1682972176.jpg"
+        width: 1120
+        height: 630
         isCached: true
   - title: "Deep learning pioneer Geoffrey Hinton leaves Google, warns of AI risks"
     excerpt: "Hinton (pictured) also argued that researchers should slow AI development until the risks associated with the technology are more clearly understood. Hinton, a professor at the University of Toronto,"
@@ -101,6 +116,15 @@ related:
         width: 1050
         height: 738
         isCached: true
+  - title: "Artificial intelligence pioneer Geoffrey Hinton leaves Google over risks of emerging tech"
+    excerpt: "Hinton is referred to by some as the Godfather of AI, and for good reason. His work in the field started way back in the early"
+    publishedDateTime: 2023-05-01T18:01:00Z
+    webUrl: "https://www.techspot.com/news/98515-artificial-intelligence-pioneer-geoffrey-hinton-leaves-google-over.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 40
   - title: "Godfather of AI quits Google to warn us of the dangers of products like ChatGPT"
     excerpt: "The 'Godfather of AI' has quit Google to be able to talk about the dangers of products like ChatGPT - what Geoffrey Hinton is worried about."
     publishedDateTime: 2023-05-01T15:19:00Z
@@ -115,6 +139,15 @@ related:
         width: 2750
         height: 1834
         isCached: true
+  - title: "'Godfather of deep learning' quits Google to openly discuss dangers of AI"
+    excerpt: "A Toronto professor considered to be a pioneer in the field of artificial intelligence announced his departure from Google on Monday so that he could openly discuss the “dangers of AI.”"
+    publishedDateTime: 2023-05-01T18:19:00Z
+    webUrl: "https://www.cp24.com/news/godfather-of-deep-learning-quits-google-to-openly-discuss-dangers-of-ai-1.6378749"
+    type: article
+    provider:
+      name: CP24
+      domain: cp24.com
+    quality: 33
   - title: "'Godfather of AI' quits Google, has an artificial intelligence 'warning' for all"
     excerpt: "Geoffrey Hinton, who is also known as 'Godfather of AI', along with two other “Godfathers of AI”, has quit Google. As he leaves office, Hinton has shared two concerns related"
     publishedDateTime: 2023-05-01T13:17:00Z
@@ -124,7 +157,16 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 27
+  - title: "'The godfather of AI' leaves Google and warns of danger ahead"
+    excerpt: "Hinton said he has quit his job at Google, where he has worked for more than decade and became one of the most respected voices in the field, so he can freely speak out about the risks of AI. A part of him,"
+    publishedDateTime: 2023-05-01T18:39:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/the-godfather-of-ai-leaves-google-and-warns-of-danger-ahead/articleshow/99917376.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 19
 
-secured: "R4Aqc74sU0KrvE7+wdD3yrxX69vlFFibKsAUMytTcPTZIUZwbnINLavKJZZicKk60/8UJMUz2WY6zoMKDnDTBuIUuwfn88Dxdn3fIMwFu59zBFhyRb6pxAqvCeeuLV8WQ+YPAwA1MqXHXOFREmuZnp2BOP7uWVUux8C2c9C64w6d3TbXlSP3/Zbp6pGqUkKSjBDUY+su2tZyu8cOpAsqRnfjllU6Z5u/bkvir0R/jwY3YpOsjB8zHcmwILyDqO2F/yV3v6THvcMhouXE/G/1YMWhqGYkZ2W8qBxXGZXta2gk7d7x4/HoTc5SwDAmQxmFHJpLgMxGsH2zzd36Yj7xP9al0WW++aMFa7bpJlzYbug=;hT03Hh4jfdDGVJobgm/cCg=="
+secured: "Uuon0wVKED9hIjFiLax1qzIW4jM08sMvjvF6QTSWQu41BYFvrSjt9F32laQsdHdWKqRHT7X+VIVIqnChVhDmuJGnyozcEwUnJfNCpE+e3Kc9ULukXqWwwruaGA93MCJxs8P9ZCjdIFk2WkscDnfYI83iCIuLAs44RAajuPaFsc7EdIDa4IT8RfTNB2CZPc33xjVz7+9uR5K9QTCHSmJqyXeyeVzpLK4NdeNsVJEd6va+rxmoSHjC7r0YMH2Hf/7mK1qV/ETuno3ndud8/EIxjejVqOpVngxNk6ZPqGeRM6lPh0Sq/THozQ3DQpiZDQP9++4yZRmYxxR0mSlg7IZDapjJWDJUIzFu45G4ZfODdSltCJHYF+IIdRg47CF7yRofkkfufCYKoTKow+xBbqGHX5C4UDWfS79z2iRGrl+e1csuIV+TgfcJbTgO04ENwhFjwDZFmc5mZFUlLyzRskMSOCOf38oaLjdAhxJztvU1IXvcATkxssEb6BmTmuhIcWzL44V/1Fw5QgyfeDPMYHq9Mg==;+i6cbiele3KB/2fr5uoDFg=="
 ---
 

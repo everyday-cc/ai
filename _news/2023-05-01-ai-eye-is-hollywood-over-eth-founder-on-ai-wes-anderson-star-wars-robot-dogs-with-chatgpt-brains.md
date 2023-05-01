@@ -41,6 +41,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Hollywood’s Artificial Intelligence Test"
+    excerpt: "Are bots ready to replace writers?"
+    publishedDateTime: 2023-05-01T17:33:00Z
+    webUrl: "https://www.wsj.com/articles/hollywoods-artificial-intelligence-test-4e286280"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 47
 
 secured: "MPvMcZkYVqY/oi+12FD24/b32DffCpQLkYsdhW216y6Liznqar6djW0zdIix+DGBCyit9hp048psYrg0Ekgx2wBY9qUBuufAFbVkmBikdoA7pw1oeDCKhToDXVSv9RsGzjWl0Gi3J3HoX+5qTxdP4LaqF6zHjLaolM5gwSOX6P6NmWDu353LAYsebHy4s5S5kzrCxRqE33j7cicK1xV1t6fFumir/HB+sGqeBVYZ8Ouba6A/ApbgVGiSLUwFS0d3m7h7AxbNSeyw5K3/iVIyEGEAtWFvfTYyOE+zwpd24JoXCKS0wHTWfwI9DzQ3BWU7fG32i7mBka1C/ejRxENEG6bA6iF9XcCzzJYOVNfm1s15ClTqDVEiTdxz/sul0gZQbaDVsk9jxzgxRJalNBOKCwXQs2eUqyGh+xnaOi5qRWfRs1zeL5HtpFLpiGVGnjRVdIUyVg7D5k5PJARa4wbG3GH4dizoFqgT7RClCrq7rHfwjsdpmCLRxcoTziYDLHJpVnTmhRW1SN54vwRr4kTlJQ==;o+Ijrjxg4D/APNiQxdzpXg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2023/04/30/ai-ethicist-view
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/04/30/ai-ethicist-views-on-chatgpt/amp/"
 type: article
 quality: 87
-heat: 207
+heat: 187
 published: true
 
 provider:
@@ -91,38 +91,6 @@ related:
       - url: "https://images.wsj.net/im-771596/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "ChatGPT broke the EU plan to regulate AI"
-    excerpt: "Artificial intelligence's newest sensation — the gabby chatbot-on-steroids ChatGPT — is sending European rulemakers back to the drawing board on how to regulate AI. But after months of internet lolz — and doomsaying from critics — the technology is ..."
-    publishedDateTime: 2023-04-27T04:01:00Z
-    webUrl: "https://www.politico.eu/article/eu-plan-regulate-chatgpt-openai-artificial-intelligence-act/"
-    ampWebUrl: "https://www.politico.eu/article/eu-plan-regulate-chatgpt-openai-artificial-intelligence-act/amp/"
-    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/eu-plan-regulate-chatgpt-openai-artificial-intelligence-act/amp/"
-    type: article
-    provider:
-      name: Politico Europe
-      domain: politico.eu
-    quality: 59
-    images:
-      - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/03/02/GettyImages-1462188008-scaled.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "ChatGPT’s Secret Weapon Is Artificial Emotional Intelligence"
-    excerpt: "Alphabet Inc.'s Google are rushing to enhance their search engines with the large language model technology that underpins ChatGPT — but there is good reason to think the technology works better as an emotional companion than as a provider of facts."
-    publishedDateTime: 2023-04-27T02:36:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/chatgpts-secret-weapon-is-artificial-emotional-intelligence-71682528287549.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/chatgpts-secret-weapon-is-artificial-emotional-intelligence-71682528287549.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/chatgpts-secret-weapon-is-artificial-emotional-intelligence-71682528287549.html"
-    type: article
-    provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 44
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2023/04/27/1600x900/USA-AI--0_1682562770511_1682562806556.JPG"
-        width: 1600
-        height: 900
         isCached: true
   - title: "The AI revolution: Spotlight on ChatGPT as AI seeks to reshape the world"
     excerpt: "We look at some of the first steps companies are taking to harness this new, now not-so-secret weapon to supercharge their business."

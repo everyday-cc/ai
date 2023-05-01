@@ -9,7 +9,7 @@ ampWebUrl: "https://wraltechwire.com/2023/05/01/next-big-wave-in-tech-investing-
 cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/05/01/next-big-wave-in-tech-investing-watch-out-for-ai-technology-unicorns/?amp=1"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 1280
     height: 719
     isCached: true
+
+related:
+  - title: "What VCs think about generative AI, startup investments and the 2022 'tech wreck'"
+    excerpt: "Nearly 71% of VCs surveyed by PitchBook in March said they believed generative AI would be 'very disruptive' and would 'spawn a new wave of technology unicorns over the next five years.'"
+    publishedDateTime: 2023-05-01T16:56:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/inno-insights/2023/05/01/pitchbook-venture-capitalists-march-2023-survey.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 12
 
 secured: "ox4nKB/UpfONYtDcwbGhRJEOFwmebYRwd+89QPb37AIIGZJfoLN6yKweAoJDdb67ndjRB3slz/8FdTYmK1owKPZM7JLJ9Pj/FZ9Ukslmujzb0Q4MH0dK3Mt6JiV3Y0r2R1XUh7xdDFmD2ulgJcXzxUYj0khkCC/qzFpCZ+qn75ueZbTzNBRGArOV4vEyih7Ew+cuwnj6tvqKIIr3oCup+l5g9u1DelSlw6qY1IQT7j///7d7JBqDxPCm+7U0Mzh8qD3Hyt9Kbt+ENkjgx5+h/2ZNkFGLZvceKjXdujTGp8evP5i2WYv7hlpWJfDT7f/RMXxr6SK3OC+riHfgrEyrjGwQDC1j5xrfjjBA5THyQ9ZR9WGxFUpsv8PnioOV7mAZHXASN89a6/NVsC6EktdqKq1nwca/Cfi7OcxyMs0tPG+jAFrup8rWd2POvgTEF6pqJn6W8W64ySnmjrBaxkde7Gu0rJDDHePyYMs7sc0oehfC2MN8LvGMnUpCRTWZB9NU8iQcUWhW7c/5Fg6uKUFmOA==;BjvTIGNI19Mh478XmhMyoA=="
 ---

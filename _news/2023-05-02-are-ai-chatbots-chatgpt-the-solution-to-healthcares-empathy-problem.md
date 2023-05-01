@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
+    excerpt: "Here's a guide to help understand Open AI's viral text-generating system. We outline the most recent updates and answer the most common FAQs."
+    publishedDateTime: 2023-05-01T20:51:00Z
+    webUrl: "https://techcrunch.com/2023/05/01/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/"
+    ampWebUrl: "https://techcrunch.com/2023/05/01/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/01/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
+        width: 1200
+        height: 798
+        isCached: true
   - title: "Apple, TikTok jump aboard the generative AI train; Boston Dynamics’ Spot gets ChatGPT"
     excerpt: "Apple and TikTok have jumped on the AI bandwagon. Also, even more interestingly, engineers are beginning to integrate ChatGPT into Boston Dynamics' Spot robotic dog."
     publishedDateTime: 2023-04-27T11:47:00Z
@@ -126,6 +142,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "With the Rise of ChatGPT, VC Latches on to AI"
+    excerpt: "More than a third of venture capitalists believe artificial intelligence will generate the most growth of all sectors in tech, according to PitchBook."
+    publishedDateTime: 2023-05-01T20:31:00Z
+    webUrl: "https://www.institutionalinvestor.com/article/b8yjqzxwx1nk84/With-the-Rise-of-ChatGPT-VC-Latches-on-to-AI"
+    type: article
+    provider:
+      name: Institutional Investor
+      domain: institutionalinvestor.com
+    quality: 39
+    images:
+      - url: "https://www.institutionalinvestor.com/media/AMG/II/articles/1/1/1/art_machine050123.jpg"
+        width: 1000
+        height: 650
+        isCached: true
   - title: "ChatGPT-powered Chatty Cat app for Mac brings AI to pets"
     excerpt: "Unlike other ChatGPT-powered apps or extensions, Chatty Cat for Mac brings six different pets to interact with you throughout the day."
     publishedDateTime: 2023-04-28T21:06:00Z
@@ -159,6 +189,6 @@ related:
       domain: businessnewsdaily.com
     quality: 4
 
-secured: "jZaYVDRK/P1YNYIueS2zBWr+Av+zK7UMOhQbfaiaP8VIHvU9v+nv1Zmt05Un+5sUKhbfmvejCMXQAjHCEKqeM1nZBqCuq67dznELzsXLgEJPlXEcYAM0jPwROWd6UfnRrTCprWv/qUsoH8LEsv2DSFFA5saNzQLAdwqnK2Fo/iAGw/CPhNZq5PSJOzLOqAX80gQA0hhrMICg8LoSp075PUpX40tjTY535N5pNGNPy48KspYVrMcV40J5sr8qp63eEShh0ZKJet3p7NJePzISeBDbgZz433zWx1t6Pd88URi9TUjVEBmQxUl5mjlGuVYoPliOt9mXCpp5rHPVTG5X9tNlJIqMvpROuTVFbwa+NPY=;FWjT1xSLgO5gcVpN3WawHw=="
+secured: "lTLpKeiVTxWMQKUGeO6ipYRkjCyEtfhBcBJ//F1zR//BJKytO+MqY3kQnFz3MF/5mXU3LHYuA9CYTIUtncqxbXqpLzO12MIVSORsk2HMaB74ZUBxhbLkdUfgIA28+mNKA1Gmm7EJ1lQlW8MpBZJwz8GKurVmo9N4HwaC0YmPOzWBWX94JK2o4nz4ET/BUvP2KA1TAFPgqxyTo5AvyMt6piLzusvVGo99gx1MerJRmQHxcXeC83vKTzuV0e3GFkrotUr+tba3Bdjjv5mR1Tl+8ewsR5AuoC1DT64LHr69a/w86ykjBF9fXZkZrYkJQzztaiA+12dhBAxmal/H6MZet9aiarc2B88sIAQuxXzCM7Awz986qzWQDeALMymin4fRQblPUAAF5NERiROF/3JCbbnWlJe6Z031PvbUmOYpIdrFtOAIAgI95zU6lXN4iRrWHSIxSMOYeuLAB7o9Ya55QRUQZI8XrCEN1WhUwWCZJn/fyQ7ETpnJOiAkO7N/1OZ18dC/27yy8OHxdMd2X8CB1g==;DrJJP5V1UHaFuW8ilNwv6g=="
 ---
 

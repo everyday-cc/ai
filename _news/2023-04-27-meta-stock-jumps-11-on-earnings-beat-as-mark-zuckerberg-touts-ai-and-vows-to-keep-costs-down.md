@@ -9,8 +9,8 @@ ampWebUrl: "https://markets.businessinsider.com/news/stocks/meta-stock-price-mar
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/meta-stock-price-mark-zuckerberg-ai-year-of-efficiency-investing-2023-4?amp"
 type: article
 quality: 76
-heat: -1
-published: false
+heat: 106
+published: true
 
 provider:
   name: Business Insider
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Zuckerberg Says Meta Will Add Generative AI To All Its Products"
-    excerpt: "During Meta’s Q1 earnings call, CEO Mark Zuckerberg outlined to investors when and how the company expects to integrate generative AI into its products. But don’t call this a pivot away from the metav"
-    publishedDateTime: 2023-04-27T03:03:00Z
-    webUrl: "https://www.forbes.com/sites/johanmoreno/2023/04/26/zuckerberg-says-meta-will-add-generative-ai-to-all-its-products/"
-    ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2023/04/26/zuckerberg-says-meta-will-add-generative-ai-to-all-its-products/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/04/26/zuckerberg-says-meta-will-add-generative-ai-to-all-its-products/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6449e51aced99251e6bfa396/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 672
-        isCached: true
   - title: "Mark Zuckerberg said the word 'AI' no less than 27 times during a Meta earnings call this week"
     excerpt: "Mark Zuckerberg wants everyone to know Meta is also interested in AI. Overall, the word \"AI\" was used 57 times on the earnings call."
     publishedDateTime: 2023-04-27T16:41:00Z

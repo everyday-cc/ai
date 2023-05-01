@@ -41,20 +41,6 @@ related:
         width: 590
         height: 350
         isCached: true
-  - title: "David Fisher: The real problem with police, number plate surveillance and facial recognition technology"
-    excerpt: "With the number plate surveillance - and facial recognition - police have yet to inhabit a framework intended to manage or even avoid the occurrence of those adverse scenarios. In the case of automatic number plate recognition, it’s astonishing that is the case six years after police were warned."
-    publishedDateTime: 2023-04-27T02:19:00Z
-    webUrl: "https://www.nzherald.co.nz/nz/david-fisher-the-real-problem-with-police-number-plate-surveillance-and-facial-recognition-technology/MO3OSJ6K65E4XGYTC2D3XQ6ENA/"
-    type: article
-    provider:
-      name: The New Zealand Herald
-      domain: nzherald.co.nz
-    quality: 23
-    images:
-      - url: "https://www.nzherald.co.nz/resizer/tZw3by1dzlIQvb3TafVfxxmNY6Q=/1200x675/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/CNKXBYLPFJGKNMQ5GQSHQC2BGU.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "The first smart gun with facial and fingerprint recognition is now for sale"
     excerpt: "Smart guns have mainly been the stuff of movies. In the real world, technological and political challenges have meant the high-tech devices haven't become a reality. That may be about to change."
     publishedDateTime: 2023-04-30T13:33:00Z

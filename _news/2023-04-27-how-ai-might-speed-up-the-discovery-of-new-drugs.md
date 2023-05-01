@@ -34,7 +34,7 @@ related:
     provider:
       name: Neuroscience News
       domain: neurosciencenews.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://neurosciencenews.com/files/2023/04/ai-drug-discovery-neurosicences.jpg"
         width: 1200

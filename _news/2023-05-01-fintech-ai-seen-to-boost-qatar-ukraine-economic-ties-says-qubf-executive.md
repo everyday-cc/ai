@@ -1,28 +1,22 @@
 ---
 category: news
-title: "Fintech, AI Seen To Boost Qatar-Ukraine Economic Ties, Says QUBF Executive"
-excerpt: "The Qatar-Ukraine Business Forum (QUBF) is eyeing advanced technology as a key sector to further advance economic ties between the Gulf country and t"
-publishedDateTime: 2023-04-30T18:34:00Z
-originalUrl: "https://menafn.com/1106143687/Fintech-AI-Seen-To-Boost-Qatar-Ukraine-Economic-Ties-Says-QUBF-Executive"
-webUrl: "https://menafn.com/1106143687/Fintech-AI-Seen-To-Boost-Qatar-Ukraine-Economic-Ties-Says-QUBF-Executive"
+title: "Fintech, AI seen to boost Qatar-Ukraine economic ties, says QUBF executive"
+excerpt: "The Qatar-Ukraine Business Forum (QUBF) is eyeing advanced technology as a key sector to further advance economic ties between the Gulf country and the Eastern European nation,"
+publishedDateTime: 2023-04-30T17:40:00Z
+originalUrl: "https://www.gulf-times.com/article/660150/business/fintech-ai-seen-to-boost-qatar-ukraine-economic-ties-says-qubf-executive"
+webUrl: "https://www.gulf-times.com/article/660150/business/fintech-ai-seen-to-boost-qatar-ukraine-economic-ties-says-qubf-executive"
 type: article
-quality: 37
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: Gulf Times
+  domain: gulf-times.com
 
 topics:
   - AI in Finance
   - AI
-
-images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?852102"
-    width: 405
-    height: 250
-    isCached: true
 
 related:
   - title: "Sidra Medicine To Host Qatar's First AI And Medicine Symposium"
@@ -40,6 +34,6 @@ related:
         height: 450
         isCached: true
 
-secured: "+hMCq8K0xIGmziX2CvXSUKXkd5/VxZaxOeNtUY5NLhPj+BoizGCszAJKjPzD6oQ3uB43PNQLg2iwNH+LzZZ0d9zbRf43teaUXZueafGDkutzMegTaS6gjJwWO52gKEq5UKaNDlkh477PYr9AhVDcpBGGywfnn3Q+FKGfxE1l9HgUZLNkQs7b9IljhumnvTfw4XALM906emtWVCULXvfF1PiE72SVQLRZ6qCKqFe0WyKTNlDa+qqNFVNygq9MNAGEa5EfwrBLFQ7ZX9kSPj2w32TF8acJQ/LMqAhXBTda3Mjj64NvWvF1nDojRh0BMMvgPhqydcV0Qh4g0l1mSHPe3BeWv/6uPY3diPOOyP5Id7I=;2EZgZIIF3WYyFBMkDu3yhw=="
+secured: "aJQzUwGIwFqNRPPsVvcnmWZTqloKCM/EJKkHxWUv5Elcj+1pvMfYEAUzoe6b9CKv0T9B69jsGnE5Kn+15FQJ+2xoF5d1pbhmN9i5MTSTxPOtrXSrae1ArQCUN79D92d99QnJmL5D2f8xQYVMOt7FaTU/hmubILX5xVcLSQSbE61hoqIVgFk2me7akwIkCM9Gwb50ALjVHv56qcQhigiKZWCufrPRglH53Naz+b9DgmIN4uzLhlGuQx3wjF5m2SyTy7T2eJmtJiiqtstdiTMnbhmTnTkjlxd4bK6GDJqwMCe1HpizaAt0dQ9rOupE9d5iX2RrtcugmuvfUV8Roi5KaYy83taXh6wZz5VHsXy1w+MoZc5TZzHECCBd+ZPJQ3oBaF22IQC9CYmk/zWAnMtsKK02AOx/QGFUdvX1qsDTl0U3MGenQvS0OfKkeopTGTYfgIDD96g9HEwK7zBJQdGbpBUjzTSxHAQsEBSXcPPTiGLGYx1ckUdFsxXFJMG5TvU6v8xuA96YnR+5P+K8VgqJaQ==;Jthvcm2fVJzUsHVahKtOIg=="
 ---
 

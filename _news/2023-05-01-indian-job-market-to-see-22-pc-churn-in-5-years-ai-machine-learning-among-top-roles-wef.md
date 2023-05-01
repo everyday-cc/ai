@@ -68,6 +68,15 @@ related:
       name: moneycontrol.com
       domain: moneycontrol.com
     quality: 25
+  - title: "Indian Job Market To See 22% Churn In 5 Years; AI, Machine Learning Among Top Roles: WEF"
+    excerpt: "The Indian job market is estimated to witness 22 per cent churn over the next five years, with top emerging roles coming from AI, machine learning and data segments, a new study showed on Monday. Globally,"
+    publishedDateTime: 2023-05-01T19:22:00Z
+    webUrl: "https://www.outlookindia.com/business/indian-job-market-to-see-22-per-cent-churn-in-5-years-ai-machine-learning-among-top-roles-wef-news-282695"
+    type: article
+    provider:
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 25
 
 secured: "t4WdTYHd0ZSDk57p1k9SVqT9xVZWh41Tcoj/ZfY5NBHTCgmby6Mk99GooxAY0W/nuxR0ZWDlZJ62ccXct9/HMxK0lYj9ttsFnmZI47V8q9Uc7Lw2If5iwwa5rfstUlxhiUEgshRjH67qw6oajK6rndfnF/dD6xkX7AXYJnAQ075tVrjUC4qI5doS1GFapYaxU2TbQOS6AGvDPQYRaqwqVxPf9UGREmG7sV/7yWnrQzoaHS7a5bT29iM7Oo7UCloSmfXJ1+wYCahY4HcshqI74qn5s9LaKq6V6cdOV+xJQtB4qzOOTvrL1NtHaR6GA04ivk1p76w5Ao7ldvbMWZ08FL011M27o4vJKJzXgcfq7ovgWeM1AIXAubV6MV2XkGNTYx5Ws6Jz39FAfdQNmeYcvym0R4fuThlcA6zGWxiMSxUw+ZbC3Q2Kdkn4ybAsqTxTXBzKSqBmKldQvSNNNPo/BN9k8zm2jHtH+CjFT24NO4Yt5+fbmpzVFFramgdTvE5tzey70e6NJBinmT9fx+JeTw==;LbZqxWbIbjUirjUU6VD93w=="
 ---

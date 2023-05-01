@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/27/the-future
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/27/the-future-of-artificial-intelligence-and-work/amp/"
 type: article
 quality: 89
-heat: 259
+heat: 249
 published: true
 
 provider:
@@ -240,15 +240,6 @@ related:
       name: CoinTelegraph
       domain: cointelegraph.com
     quality: 19
-  - title: "How to strengthen your soft skills for AI and the future of work"
-    excerpt: "Marketable skills that can future-proof your career and livelihood will be 'soft skills,' such as management, communication, and empathy."
-    publishedDateTime: 2023-04-27T03:59:00Z
-    webUrl: "https://www.fastcompany.com/90887540/how-to-strengthen-your-soft-skills-for-ai-and-the-future-of-work"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 17
 
 secured: "Y+kAFG0eXf1l/lMfofeEQ412sMvYDlJ1BgMHYDoEvCQKYNvzfGospVg8uMoRi8M+hXChHvO261s8C4ixMJF9bpix/MOe9jojs8JdcUXPtIic4f5B6ceWFHx1GJBX2+E+9JjZZShQWW1Fi0HGmNrpN5joPCbMzeqqEFhB5ni2t9C4aSB2jm+p8lFeDnqofxipLL4e1+Yfa1eVadh5YDiEkeP2NzqCwSW/VHhcG6nU8/SQIapP6r2PewIKLPxZ3i7qzTvb3Lt0EyG3BstVS12HraN41We9lxXt9p34wmRoUbfSMvNJD4rmUwsOZFx6z0IfF95TZoX39zaZpQKuI+3ArOYG8ZQ5IWLRxynre8PU04+Lk9vm6n50Ge4ViGCREvBi1vOygHiw3WX7D+oOvvl4Nqo83Bcdpft1AO5fTVzc37eb4dDaNMtlYcx7mVU//n2eZ53tK5b6UEvAPgfyiloNGa/zR72Dph7iWxU1fcDLI1KyCDs7122ZHi79JTJLXt7izwWYG+DDCfaIrJA+KwcE6A==;mdmQ12BvE+h2HvTHIodM+Q=="
 ---

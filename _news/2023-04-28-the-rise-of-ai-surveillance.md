@@ -236,15 +236,6 @@ related:
       name: CoinTelegraph
       domain: cointelegraph.com
     quality: 19
-  - title: "How to strengthen your soft skills for AI and the future of work"
-    excerpt: "Marketable skills that can future-proof your career and livelihood will be 'soft skills,' such as management, communication, and empathy."
-    publishedDateTime: 2023-04-27T03:59:00Z
-    webUrl: "https://www.fastcompany.com/90887540/how-to-strengthen-your-soft-skills-for-ai-and-the-future-of-work"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 17
 
 secured: "GUsY+Dvp0FINMzolNlIBwTXiXdbnWSQzpqMGwyAHKf0I8yfzx+V3wN8raca+ExevbVWKFgf/uKBGxsw8ScdZXugG3gNO5oZGFbEyW0X2IXI7C4jtPkYy9KrMS6cMm7GJe3pa8IFcGJr57n1DUBLXCdkBl6bFmuzJXB3RjOTH3oXhkrbxSBg6loZLdGqdVNHZFE3KlQE5SCpUCmhHKoMp9lER0ZM77221D9qdZPdP3Xylno3MtoRS0FJeHfmQLszyOIr8oX5LUJWemuwdmpK3++ZUwj2kju69p8cVFArJOi9VyKJ7rnrgyfcbuKZw38/w14JhQJLL3FKviVziw21YO7JH5Ssd8Bw+DAIdR90pQ+Y=;52VmZM5+Wk0fPFpDzmlx6Q=="
 ---

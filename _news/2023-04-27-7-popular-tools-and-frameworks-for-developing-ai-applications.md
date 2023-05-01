@@ -235,15 +235,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 32
-  - title: "How to strengthen your soft skills for AI and the future of work"
-    excerpt: "Marketable skills that can future-proof your career and livelihood will be 'soft skills,' such as management, communication, and empathy."
-    publishedDateTime: 2023-04-27T03:59:00Z
-    webUrl: "https://www.fastcompany.com/90887540/how-to-strengthen-your-soft-skills-for-ai-and-the-future-of-work"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 17
 
 secured: "JRxgCr5Dgos4UgV4m0v3clvn9p9vfdd5bdY+42N3qFyKBLFBGGbzQMhGS2Zud1CnB+kvgcunsDINllgfumNbl3szTpzM/ctA+eex8Ez68FgNs+J5qYOn6TXJU5FZOsXCH5BQc602wh+8FhQUuChhfSxrzUa8s+QeqrF9eY8Ye7Vf6effaK3KvYzGeeY2GpaHVc0sfbJMzgVAurQtyYDlOYhGuUA/mSseJXXWGhULn2o8VADKbRnbs4+bn4w492ouv7LxNdxGaspsaQ4YpYtLnYSTQ7rZxZfdY4PIMGJ0XZTrMRrBkTd/PIa3fdjp3r9OYAYteSrp3Xq6vKFGyQDyPyB/UKMXQ/jWU/2k2XF4i8M=;edS87PuwKLP4RSVDJ7B0uA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://beta.ctvnews.ca/national/politics/2023/4/28/1_6375101.amp.ht
 cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/politics/2023/4/28/1_6375101.amp.html"
 type: article
 quality: 76
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "University of Hawaii Working with Indigenous Leaders on AI"
+    excerpt: "The university has tapped a six-year, $17 million grant from Canada's New Frontiers in Research Fund for an international research project to involve Indigenous scholars in the training of new AI models."
+    publishedDateTime: 2023-05-01T20:36:00Z
+    webUrl: "https://www.govtech.com/education/higher-ed/university-of-hawaii-working-with-indigenous-leaders-on-ai"
+    ampWebUrl: "https://www.govtech.com/education/higher-ed/university-of-hawaii-working-with-indigenous-leaders-on-ai?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/university-of-hawaii-working-with-indigenous-leaders-on-ai?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/a5b14ec/2147483647/strip/true/crop/1170x610+0+45/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fa0%2Fea%2F922559a6c43d707cef0ad4f84a01%2Fflickr-artificial-intelligence.jpg"
+        width: 840
+        height: 438
+        isCached: true
   - title: "Torch.AI Awarded New Patent for Real-Time AI"
     excerpt: "Torch.AI, Pioneers of Data Infrastructure AI™, announced today the U.S. Patent and Trademark Office (USPTO) has formerly approved and issued Torch.AI a new patent, No. 11556695, for 'Combinatorial Inflight Analysis of Multipart Data' using pretrained machine learning models,"
     publishedDateTime: 2023-05-01T13:59:00Z

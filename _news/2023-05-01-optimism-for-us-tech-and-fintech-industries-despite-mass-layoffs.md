@@ -83,6 +83,15 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "AI and Customer Experience in Fintech: Personalizing Financial Services"
+    excerpt: "With the help of AI, Fintech companies are personalizing financial services to provide a more customer-centric experience. In this blog post, we will dig into how AI reshapes customer experience in the financial industry. Chatbots and Virtual Assistants ..."
+    publishedDateTime: 2023-04-29T17:17:00Z
+    webUrl: "https://www.finextra.com/blogposting/24129/ai-and-customer-experience-in-fintech-personalizing-financial-services"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 19
   - title: "Fintech capacity-building needed for MSMEs"
     excerpt: "THERE is a need to build the capacity of small and medium enterprises (MSMEs) on financial technology (fintech) to ramp up the digital economy in the Philippines, the top official of the Philippine Economic Zone Authority (PEZA) said."
     publishedDateTime: 2023-04-30T13:22:00Z
@@ -102,6 +111,6 @@ related:
       domain: crowdfundinsider.com
     quality: 0
 
-secured: "P3Ba0eEyCdd8KiSMF9WWwN/syCptPafCRFCbKLj4pOBy1Ku22P6mChggSpHkEru4noeYRmesq04AmvbSaYmFc1LW1tFz9UunGBXcuJgigEiIzX22nkLbnLd1qSkB/onguuDcpUie/AKBn8owmt8nIAKIfq2cme6GyUY1kXSHS8dbr4+aqnImNsd82HT7xdIOcjZdC9Ci1uj91ewpPkTtEBeR5wbPqJXdxFp7w9xdVu1flDUejqRNIS8coHzLeKVjYhQBs3FCCMZdgELzur85kX6c2YTejKFxEPZtWo6HdaGM4TYty7NC+rs5NovW6Tm9jFvQoSZBYlv57/EX8IXGWHYS5tTfSTOK3pWWTv4GLiM=;3Dxy3Bk5IqVj6BZr5XVlVA=="
+secured: "nVdhy4pIzhwoN9KrBagGCdGFirBmFFKf0jrJkt8uoFKeDJ+yyk2IoQOjgTFyYFodsNIRaDQsyN/IWMtMCPYf2J/y+572ye/NuYBxOnE/cgwbRKUUqBA8PTKiD71JBFQgrtANvZJK/dYIDmULa5hIn17mGPv8lToZHL0Lv0q0YooydNdCKTDjI99ntX8hoB7ocCEdPji+QCJDIcTc3QjFOyV+ek0oSj7saF15J9mwH6ktgHx8aT0tlDEi6pgPnEVYvq0oq0HI0IrzHV0GB0exRMNVbN5sl1ytVfXqTJB4ewzACbqoQqAdn1tOmtH4l0dkOwYsveNAMicV0gXvOQHXar4NB9EOEg+NylMx8Jsimepp9r7D1aqI4GCshOqhQ3tg3CZjA7JVDPy0jx33wcnPNectL+RpKHjGyJvFTJEo74szDAPM1o6LYWMYZdiyopYKtCe3tpJNF/G4IKy1Hw8sr9OYT+38bHwXeZnGzeh7LMB8TKpeVfCNdWTmBSCiIlxu9T60y1qoVKMfK8f/CgAjVA==;1wD+SMW0cgSykyWQHnL63w=="
 ---
 
