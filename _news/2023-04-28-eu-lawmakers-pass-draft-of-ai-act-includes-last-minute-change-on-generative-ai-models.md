@@ -198,15 +198,6 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 34
-  - title: "The rapid rise of generative AI threatens to upend US patent system"
-    excerpt: "The flurry of concern has been prompted by the rapid rise of generative AI. Though known mainly from OpenAI’s ChatGPT, the same technology is already being used to design semiconductors and suggest ideas for new molecules that might form the basis of useful drugs."
-    publishedDateTime: 2023-04-26T12:00:00Z
-    webUrl: "https://www.ft.com/content/dc556ab8-9661-4d93-8211-65a44204f358"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
   - title: "Moveworks Launches Creator Studio: A No-Code, Generative AI Platform for Building Any Conversational AI Use Case Across the Enterprise"
     excerpt: "Moveworks, the leading conversational AI platform for the enterprise, today announced Creator Studio - a no-code, generative AI platform for building any conversational AI use case in minutes. The platform leverages advanced large language models (LLMs) and generative AI to provide a natural language interface that serves as an enterprise-wide copilot for employees."
     publishedDateTime: 2023-04-26T15:34:00Z

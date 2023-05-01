@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-Driving Robots Market Expected to Reach USD 1423.6 Mn over the forecast period, at a CAGR of 15.23 percent (2023-2029)"
-    excerpt: "The latest report on the global self-driving robots' market has projected its market size to reach USB 1423.6 Mn by 2029 from USD 457.9 Mn in 2021, at a CAGR of 15.23 percent during the forecast period."
-    publishedDateTime: 2023-04-26T11:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-robots-market-expected-to-reach-usd-14236-mn-over-the-forecast-period-at-a-cagr-of-1523-percent-2023-2029-2023-04-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 28
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "ltpQpSpBOjMAj0lJt6GDFQ8jLtxaBtEZYHfwu6hvA/cc7yDZ/C2o5/y4nUS6yYZ4uIZ7va6SlZny3kvz6qqbAp45nyCdTwvWA78oJ2VVLSDoxNZZPSa1n+6aS+nctO9WN3onrJ/o0sfsD6ILcwW4oJ4YMo+WyflQukEnwDaqJnXPifr/RlrZo5SByaY4mbkCchs30i3HCsY0Nwy9/DC47qHrD7+nXzl2f0u9TXm9VtaA1ggnIhd01rdx2QzOx7pmaVLZdzSVg4KiJlTK3hKajZJ51aEl4RCog+MnKz3Gg2Et0YUCRsFRSRFqql13RCacpf3RJtWL/+ULgslk536nkdME5DgA4U/Jh1oZ0gtxeqY=;waIKuCJmBc3o9CWvgSsvnA=="
 ---

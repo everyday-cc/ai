@@ -70,18 +70,18 @@ related:
         height: 1333
         isCached: true
   - title: "Pagaya gets Buy initiation from Benchmark as AI-focused fintech adds partners"
-    excerpt: "Pagaya Technologies (NASDAQ:PGY) stock drove up 7.9% in Wednesday afternoon trading as Benchmark started coverage of the AI-focused fintech company with a Buy rating on prospects of \"significant ..."
-    publishedDateTime: 2023-04-26T12:21:00Z
-    webUrl: "https://seekingalpha.com/news/3960570-pagaya-gets-buy-initiation-from-benchmark-as-ai-focused-fintech-adds-partners"
+    excerpt: "Never miss a trade again with the fastest news alerts in the world! This headline only article is a sample of real-time intelligence Benzinga Pro traders use to win in the markets everyday. Want ..."
+    publishedDateTime: 2023-04-26T18:26:00Z
+    webUrl: "https://www.benzinga.com/content/seekingalpha-com/23/04/32015715/pagaya-gets-buy-initiation-from-benchmark-as-ai-focused-fintech-adds-partners"
     type: article
     provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 36
     images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1324440713/image_1324440713.jpg?io=getty-c-w750"
-        width: 750
-        height: 399
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
   - title: "3 Fintech Stocks With Huge Return Potential for Long-Term Investors"
     excerpt: "The fintech market continues to grow at a blistering pace, as consumers and businesses migrate online and use their smartphones and apps to make increasingly sophisticated digital payments and online financial transactions."
@@ -92,6 +92,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 34
+  - title: "Rising AI and machine learning investments powering senior care advancements"
+    excerpt: "It’s perhaps no surprise that investment in AI and ML in healthcare rose over the last two years, according to new research from commercial real estate and investment company Jones Lang LaSalle."
+    publishedDateTime: 2023-05-01T04:17:00Z
+    webUrl: "https://www.mcknightsseniorliving.com/home/news/tech-daily-news/rising-ai-and-machine-learning-investments-powering-senior-care-advancements/"
+    type: article
+    provider:
+      name: McKnight's Senior Living
+      domain: mcknightsseniorliving.com
+    quality: 33
   - title: "Fintech start-up 1fs Wealth secures backing of Singularity Capital"
     excerpt: "London based early stage fintech, 1fs Wealth, has secured the backing of US venture capital firm Singularity Capital, as interest… | Finance | Finance | Fintech | National | Investment |"
     publishedDateTime: 2023-04-27T10:54:00Z

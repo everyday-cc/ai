@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-natural-language-
 webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-market-size-to-grow-at-a-cagr-of-2130-in-the-forecast-period-of-2023-2028-2023-04-28"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 30
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Self-Driving Robots Market Expected to Reach USD 1423.6 Mn over the forecast period, at a CAGR of 15.23 percent (2023-2029)"
-    excerpt: "The latest report on the global self-driving robots' market has projected its market size to reach USB 1423.6 Mn by 2029 from USD 457.9 Mn in 2021, at a CAGR of 15.23 percent during the forecast period."
-    publishedDateTime: 2023-04-26T11:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-robots-market-expected-to-reach-usd-14236-mn-over-the-forecast-period-at-a-cagr-of-1523-percent-2023-2029-2023-04-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 28
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

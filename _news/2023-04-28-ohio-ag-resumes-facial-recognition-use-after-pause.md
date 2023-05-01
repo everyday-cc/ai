@@ -9,8 +9,8 @@ ampWebUrl: "https://www.govtech.com/public-safety/ohio-ag-resumes-facial-recogni
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/ohio-ag-resumes-facial-recognition-use-after-pause?_amp=true"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Government Technology
@@ -41,15 +41,6 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "Ohio resumes facial-recognition searches using controversial photo-collection firm Clearview AI"
-    excerpt: "State officials currently use facial-recognition software that pulls photos from open sources like news stories and public social-media accounts."
-    publishedDateTime: 2023-04-26T13:00:00Z
-    webUrl: "https://www.cleveland.com/news/2023/04/ohio-resumes-facial-recognition-searches-using-controversial-photo-collection-firm-clearview-ai.html"
-    type: article
-    provider:
-      name: Cleveland.com
-      domain: cleveland.com
-    quality: 7
 
 secured: "hOnp9Iy83uyEdfNcpIodKQ9JPswdWhxhrdVY//M+ICXOUM7A8RU+4Xatz8Htnyoj9UuKdR6jkYElWiXzlI9vHNeOPNcfbibGFrQWyTXViHt2z28rdE5eUxj6WuYYMcez6F8IAaFSkkV/lZ0sqC2/gwsYuDrnIoIls1rx5wB690uq8fBJYF3K/uw3ApdxXsSYwaBvR/R26O3RekScsARJ6cIEL11O4MecHNpJxDeZ1RDG7Mr4fVFdl0VdcaVH3kCyr0WAweQ86uQMnqsNoIBzIurErQjFvsYz+EvMSMkTgfCWKU3Lws4TbyfxrPPRChdRVzqjVAogRLPm6b0ouTpf3a/BpBR9BwptNDXUZJowICR+6lutlhyYbU1uZY0UKRLUVZpCtWCBLmxPGXggVw+rovKJsDKgvGCi+UaCaZkBnB1HfAvGClOsjufqi4MU3wVMwd0yaJb7tctJTcU7e7kT/IXyiYPCa4RmSLFH0/PZkRV2FJMmSZZT998w1P8j523B/UV8CPanvsB3289azB4+xg==;sSU0yDCYFq3Yv9Xm8+wz9Q=="
 ---

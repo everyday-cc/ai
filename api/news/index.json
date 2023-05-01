@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-01-indian-job-market-to-grow-22-pc-in-5-yrs-ai-machine-learning-among-top-roles-wef.md",
+      "title": "Indian job market to grow 22 pc in 5 yrs; AI, machine learning among top roles: WEF",
+      "excerpt": "Top roles for industry transformation in India would be AI (artificial intelligence) and machine learning specialists, and data analysts and scientists, the report added.",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/news/indian-job-market-to-grow-22-pc-in-5-yrs-ai-machine-learning-among-top-roles-wef-11682918466324.html",
+      "originalUrl": "https://www.livemint.com/news/indian-job-market-to-grow-22-pc-in-5-yrs-ai-machine-learning-among-top-roles-wef-11682918466324.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.livemint.com/lm-img/img/2023/05/01/600x338/jobs_1682919526138_1682919526484.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/news/indian-job-market-to-grow-22-pc-in-5-yrs-ai-machine-learning-among-top-roles-wef/amp-11682918466324.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/indian-job-market-to-grow-22-pc-in-5-yrs-ai-machine-learning-among-top-roles-wef/amp-11682918466324.html",
+      "publishedDateTime": "2023-04-30T22:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-01-ai-generated-music-growing-exponentially-sparking-debate.md",
       "title": "AI-generated music growing exponentially, sparking debate",
       "excerpt": "An anonymous creator used artificial intelligence to create a song with Drake and The Weeknd’s voices, fueling AI’s first real viral hit, “Heart on my Sleeve.” NBC News’ Steve Patterson gets a closer look at how AI music is created.",
@@ -134,6 +177,57 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-30-ai-ethicist-views-on-chatgpt.md",
+      "title": "AI Ethicist Views On ChatGPT",
+      "excerpt": "Physicist Stephen Hawking, who died in 2018, described the rise of AI as one of the greatest threats to the future of humanity. Even the controversial Elon Musk and over 1000 technology leaders have called for a pause on generative AI and for advancing legislation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/04/30/ai-ethicist-views-on-chatgpt/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/04/30/ai-ethicist-views-on-chatgpt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/644e92c9ee3ccccd5dad4712/0x0.jpg?format=jpg&width=1200",
+          "width": 800,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/04/30/ai-ethicist-views-on-chatgpt/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/04/30/ai-ethicist-views-on-chatgpt/amp/",
+      "publishedDateTime": "2023-04-30T09:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -996,7 +1090,7 @@
       "originalUrl": "https://www.cnn.com/2023/04/28/health/chatgpt-patient-advice-study-wellness/index.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -1090,7 +1184,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-market-size-to-grow-at-a-cagr-of-2130-in-the-forecast-period-of-2023-2028-2023-04-28",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -1131,102 +1225,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-french-privacy-chief-warns-against-using-facial-recognition-for-2024-olympics.md",
-      "title": "French privacy chief warns against using facial recognition for 2024 Olympics",
-      "excerpt": "PARIS — The French data protection authority's president Marie-Laure Denis warned Tuesday against using facial recognition as part of the 2024 Paris Summer Olympics security toolkit. \"The members of the CNIL's college call on parliamentarians not to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.eu/article/french-privacy-chief-warns-against-using-facial-recognition-for-2024-olympics/",
-      "originalUrl": "https://www.politico.eu/article/french-privacy-chief-warns-against-using-facial-recognition-for-2024-olympics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/01/24/GettyImages-1161938837-scaled.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.eu/article/french-privacy-chief-warns-against-using-facial-recognition-for-2024-olympics/amp/",
-      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/french-privacy-chief-warns-against-using-facial-recognition-for-2024-olympics/amp/",
-      "publishedDateTime": "2023-04-28T05:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico Europe",
-        "domain": "politico.eu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-healthcare-ai-market-market-projection-and-growth-drivers-2023-2028.md",
-      "title": "Healthcare AI Market Market Projection and Growth Drivers 2023-2028",
-      "excerpt": "Apr 28, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" This comprehensive market research",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-market-projection-and-growth-drivers-2023-2028-2023-04-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-market-projection-and-growth-drivers-2023-2028-2023-04-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 266,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-28T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

@@ -41,15 +41,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "Ohio resumes facial-recognition searches using controversial photo-collection firm Clearview AI"
-    excerpt: "State officials currently use facial-recognition software that pulls photos from open sources like news stories and public social-media accounts."
-    publishedDateTime: 2023-04-26T13:00:00Z
-    webUrl: "https://www.cleveland.com/news/2023/04/ohio-resumes-facial-recognition-searches-using-controversial-photo-collection-firm-clearview-ai.html"
-    type: article
-    provider:
-      name: Cleveland.com
-      domain: cleveland.com
-    quality: 7
 
 secured: "nKdQSGzG+1DaPhuiA85XKFNFRtmuTYzTzYjdT4Kh3OiRNkLzjWwWrE5+ByPMe7M2rBrJFqQEh5goNK0he59LRtqsQY/9lE+vXK2RNhEiAA8KNrEUfFBRmFB4NhPWCceed0Qu5KT/tOWXQls4/PkcxvluwGFklBMxEpPPtk6tVH9IplOM60IneI9DOjTgIBstBp/XSXJGVnpQg7plQXzmQu4118yomdFo5wpCK7tKvk8UTcqN7yKJUg5u7Q/voTmi4VnCOFg5+IXOkuh2089pgkWZMlLd4FUY2UXimbMPS08b/lDLeEdJrIngaxeFXsGxFHglbvRPcr/Yl2FiZBRl0ooVpt+hIvDv9hEK8D9IPRniQIY2jGuKMDgPwWIVMTN5jYXVqHx0HheHbkYqG7rrLZiqgMVG5sMNixtLFNMe33kXEtkqfEUcaTLW5CU1waErLQ7SQ7rzhgx4p/t48/eimTFnSL9tWNZTmcw0mMrmNNFhglwhUKJoBu7U9I0tvMFuNek81rFOWm65rA3bbJ2gNQ==;Y82zttYklEOORT2aifuMxQ=="
 ---

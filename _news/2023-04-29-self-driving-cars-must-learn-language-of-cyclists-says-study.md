@@ -7,7 +7,7 @@ originalUrl: "https://www.thestar.com.my/tech/tech-news/2023/04/29/self-driving-
 webUrl: "https://www.thestar.com.my/tech/tech-news/2023/04/29/self-driving-cars-must-learn-language-of-cyclists-says-study"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,38 +23,6 @@ images:
     width: 1240
     height: 982
     isCached: true
-
-related:
-  - title: "Self-driving cars must learn the language of cyclists to keep roads safe"
-    excerpt: "Future generations of self-driving cars — such as the rumored “Apple Car” — should learn the language of cyclists to help them safely share the roads with bikes, new research suggests. Human-computer"
-    publishedDateTime: 2023-04-26T11:20:00Z
-    webUrl: "https://www.mactech.com/2023/04/26/self-driving-cars-must-learn-the-language-of-cyclists-to-keep-roads-safe/"
-    ampWebUrl: "https://www.mactech.com/2023/04/26/self-driving-cars-must-learn-the-language-of-cyclists-to-keep-roads-safe/amp/"
-    cdnAmpWebUrl: "https://www-mactech-com.cdn.ampproject.org/c/s/www.mactech.com/2023/04/26/self-driving-cars-must-learn-the-language-of-cyclists-to-keep-roads-safe/amp/"
-    type: article
-    provider:
-      name: MacTech
-      domain: mactech.com
-    quality: 43
-    images:
-      - url: "https://www.mactech.com/wp-content/uploads/2023/04/Cyclists-Gaze-1024x378.jpg"
-        width: 1024
-        height: 378
-        isCached: true
-  - title: "Self-Driving Cars Are Not (Yet) Safe"
-    excerpt: "Three things have happened in the last month that have made me think about the safety of self-driving cars a lot more. The US Department of Transportation (DOT) has issued its guidance on the ..."
-    publishedDateTime: 2023-04-27T00:00:00Z
-    webUrl: "https://hackaday.com/2016/12/05/self-driving-cars-are-not-yet-safe/"
-    type: article
-    provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 24
-    images:
-      - url: "https://hackaday.com/wp-content/uploads/2016/12/autopilot.jpg"
-        width: 3000
-        height: 1815
-        isCached: true
 
 secured: "2mjlVLzaShHUzd0gnuj7Ax+TcRwgJQ5nq20ZVUI7vWLCDJ1c0mOdPXGIAT7s6X19Jt5vgRj2PqAb2Of3UC/wTXE7hptZNoSgiDcFxfrxK3Lbc1IQ1pY7WF5nxu7Btz4LHeqq+iNMZqskMkBnJRBn43q/NjK/OxBWOypvLyh3JKp4L6kkERhDWoRmFQiybXV1t6SDZLaXLarmm59XQ5n9ON5NVoQ7ZiPf8WiNTaSQx01pSYIyMB4SZ5p6OLHKgGWCSKancZbo3wq786aE2b4im47IMdYyF9zgsbrYoZxJZEy5Mosb5Dg3YQzB2AydNCACjP0D8QHwq2KJAizK/1JwGNY5ajxH5eZcP3abbeYmjhVcGdJppGv+AHMajANDZ9PKoc4Qw5UcqCb/lXWITdJ+WCZSPL0Z4U08oYkS0Y6YInVvardXwc1iw95gcVukBEFdtbF/G02k+AdEuWUyLKGNsuf8zLVf+TdhYOxIFMkun4FNlJ8OtDwaci5E9ovGTcl/tz7galhh7MzkJc7O4faOCQ==;jd5O+C27czvtxiyGctacLQ=="
 ---

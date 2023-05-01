@@ -113,20 +113,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI Accelerator Chip Market Demand by 2030"
-    excerpt: "The latest market research report on the Global \"AI Accelerator Chip Market\" is segmented by Regions, Country, Company"
-    publishedDateTime: 2023-04-26T12:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-accelerator-chip-market-demand-by-2030-2023-04-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 84
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Edge AI Chips Market Outlook by 2031"
     excerpt: "The latest market research report on the Global \"Edge AI Chips Market\" is segmented by Regions, Country, Company and"
     publishedDateTime: 2023-04-28T09:51:00Z
@@ -262,6 +248,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
+  - title: "Predictive Analytics and Machine Learning Market Manufacturing Cost Structure By 2031"
+    excerpt: "Apr 26, 2023 (The Expresswire) -- The latest market research report on the Global \"Predictive Analytics and Machine Learning Market\" is segmented by Regions, Country, Company and other Segments. The global Predictive Analytics and Machine Learning market ..."
+    publishedDateTime: 2023-04-27T11:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/predictive-analytics-and-machine-learning-market-manufacturing-cost-structure-by-2031-2023-04-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
 
 secured: "2RzG7PXEs80sNZZBv+eS1OvVlF6SJxn30imYQoUXS5WGevH6gI04BIJLH6sz8YO0JrU44o9tqtK+jcLqTZUYpRoJ59h3ENAKePfb+O/100jMUsW/Fm7YwCy8Nz4z0ZMlEm92qwE+UgPPJiSAzOz4Tt+vNyNVW7mADNyxpzyENPe6NLRbE4DGvoZf+hx5kGKrpOSUewMi9Ng9BKMVsaktWAInhrP+tSLCc9bqXKJlSo6V6TpYV9NUSsoD60oO53fpM5wGh+/Mq+3yxJ/D/KpuY64U4ItyO8rqH+v83e7NKw2juNZI1CQaeDbW3ELchxwNI+CTMdB6AmZ/Rp2WPKKCkYri7ga/xNcUo90SRxWDljM=;/uyD0mIgTB5/TAVNLLjn/w=="
 ---

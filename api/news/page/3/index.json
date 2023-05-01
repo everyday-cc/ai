@@ -2,6 +2,152 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-04-27-teslas-price-cuts-slow-a-rival-in-the-race-to-deliver-self-driving-tech.md",
+      "title": "Tesla’s Price Cuts Slow a Rival in the Race to Deliver Self-Driving Tech",
+      "excerpt": "Tesla started cutting prices in China. That same week, shares of rival self-driving technology provider Mobileye surged on their first day of trading following a hotly anticipated IPO. Now Tesla’s pri",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-04-27-2023/card/tesla-s-price-cuts-slow-a-rival-in-the-race-to-deliver-self-driving-tech-pO1vq8GciuAVLeQdmojo",
+      "originalUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-04-27-2023/card/tesla-s-price-cuts-slow-a-rival-in-the-race-to-deliver-self-driving-tech-pO1vq8GciuAVLeQdmojo",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-771268?width=600",
+          "width": 600,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-27T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-27-the-dangers-of-letting-ai-loose-on-finance.md",
+      "title": "The dangers of letting AI loose on finance",
+      "excerpt": "We must recognise the stability risks — whether over-concentration or digital herding — as well as the benefits",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/9bc5e530-ac72-4b4c-9eb1-f5e5c48f34c9",
+      "originalUrl": "https://www.ft.com/content/9bc5e530-ac72-4b4c-9eb1-f5e5c48f34c9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg",
+          "width": 619,
+          "height": 377,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-27T09:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-04-27-developers-embrace-ai-tools-but-face-big-code-challenges-survey-finds.md",
+      "title": "Developers embrace AI Tools but face ‘Big Code’ challenges, survey finds",
+      "excerpt": "A new report from Sourcegraph warns Big Code will hit crisis mode if companies don't get a handle on how their developers use AI at work.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/developers-embrace-ai-tools-but-face-big-code-challenges-survey-finds/",
+      "originalUrl": "https://venturebeat.com/ai/developers-embrace-ai-tools-but-face-big-code-challenges-survey-finds/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/04/Screenshot-2023-04-27-at-1.35.41-AM-e1682604857405.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/developers-embrace-ai-tools-but-face-big-code-challenges-survey-finds/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/developers-embrace-ai-tools-but-face-big-code-challenges-survey-finds/amp/",
+      "publishedDateTime": "2023-04-27T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-27-global-x-funds-global-x-robotics-artificial-intelligence-etf-nasdaq-botz.md",
       "title": "Global X Funds - Global X Robotics & Artificial Intelligence ETF (NASDAQ: BOTZ)",
       "excerpt": "Calculated by average return of all stock recommendations since inception of the Stock Advisor service in February of 2002. Returns as of 04/27/2023. Discounted offers are only available to new ...",
@@ -103,6 +249,57 @@
       "topics": [
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-27-snapchats-new-ai-chatbot-is-already-raising-alarms-among-teens-and-parents.md",
+      "title": "Snapchat's new AI chatbot is already raising alarms among teens and parents",
+      "excerpt": "Less than a few hours after Snapchat rolled out its My AI chatbot to all users last week, Lyndsi Lee, a mother from East Prairie, Missouri, told her 13-year-old daughter to stay away from the feature.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/04/27/tech/snapchat-my-ai-concerns-wellness/index.html",
+      "originalUrl": "https://www.cnn.com/2023/04/27/tech/snapchat-my-ai-concerns-wellness/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/230426123404-snapchat-app-restricted-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/04/27/tech/snapchat-my-ai-concerns-wellness/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/04/27/tech/snapchat-my-ai-concerns-wellness/index.html",
+      "publishedDateTime": "2023-04-27T08:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -604,6 +801,57 @@
       ]
     },
     {
+      "path": "_news/2023-04-27-how-to-avoid-fueling-shadow-ai-with-the-right-policy-for-generative-ai-chatbots.md",
+      "title": "How To Avoid Fueling 'Shadow AI' With The Right Policy For Generative AI Chatbots",
+      "excerpt": "Despite only emerging onto the scene a few months ago, there are several ways to access the capabilities of LLMs, and the different access models can help mitigate risk.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/27/how-to-avoid-fueling-shadow-ai-with-the-right-policy-for-generative-ai-chatbots/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/27/how-to-avoid-fueling-shadow-ai-with-the-right-policy-for-generative-ai-chatbots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6449267039fd3a3dac51f763/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/27/how-to-avoid-fueling-shadow-ai-with-the-right-policy-for-generative-ai-chatbots/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/27/how-to-avoid-fueling-shadow-ai-with-the-right-policy-for-generative-ai-chatbots/amp/",
+      "publishedDateTime": "2023-04-27T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-27-how-ai-can-empower-not-replace-your-team.md",
       "title": "How AI Can Empower, Not Replace, Your Team",
       "excerpt": "With the release of ChatGPT, AI now promises to serve the common person rather than to perform as a technology that can only be accessed through deep technical expertise. In fact, ChatGPT is the fastest-growing consumer application in history, reaching 100 million users in the first two months since its launch.",
@@ -766,7 +1014,7 @@
       "originalUrl": "https://www.techradar.com/news/pwc-is-making-a-dollar1-billion-bet-on-business-ai",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -989,244 +1237,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-databricks-and-hugging-face-integrate-apache-spark-for-faster-ai-model-building.md",
-      "title": "Databricks and Hugging Face integrate Apache Spark for faster AI model building",
-      "excerpt": "Databricks and Hugging Face integrate Apache Spark to more seamlessly load and transform data for AI model training and fine-tuning.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/databricks-and-hugging-face-integrate-apache-spark-for-faster-ai-model-building/",
-      "originalUrl": "https://venturebeat.com/ai/databricks-and-hugging-face-integrate-apache-spark-for-faster-ai-model-building/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/04/pexels-photo-577585.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/databricks-and-hugging-face-integrate-apache-spark-for-faster-ai-model-building/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/databricks-and-hugging-face-integrate-apache-spark-for-faster-ai-model-building/amp/",
-      "publishedDateTime": "2023-04-26T22:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-elon-musk-meets-with-sen-schumer-to-discuss-artificial-intelligence.md",
-      "title": "Elon Musk meets with Sen. Schumer to discuss artificial intelligence",
-      "excerpt": "The Senate majority leader and the CEO of SpaceX, Tesla and Twitter met amid growing concerns on Capitol Hill about the effects of AI tools.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/congress/elon-musk-meets-schumer-discuss-artificial-intelligence-rcna81696",
-      "originalUrl": "https://www.nbcnews.com/politics/congress/elon-musk-meets-schumer-discuss-artificial-intelligence-rcna81696",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-04/230426-chuck-schumer-ac-844p-1f27b1.jpg",
-          "width": 2500,
-          "height": 1663,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna81696",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna81696",
-      "publishedDateTime": "2023-04-26T20:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-broadcom-takes-on-infiniband-with-jericho3-ai-switch-chips.md",
-      "title": "Broadcom Takes On InfiniBand With Jericho3-AI Switch Chips",
-      "excerpt": "Variety is not only the spice of life, it is also the way to drive innovation and to mitigate risk. Which is why we are seeing switch architectures",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2023/04/26/broadcom-takes-on-infiniband-with-jericho3-ai-switch-chips/",
-      "originalUrl": "https://www.nextplatform.com/2023/04/26/broadcom-takes-on-infiniband-with-jericho3-ai-switch-chips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://www.nextplatform.com/wp-content/uploads/2023/04/broadcom-jericho3-ai-logo.jpg",
-          "width": 879,
-          "height": 565,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2023/04/26/broadcom-takes-on-infiniband-with-jericho3-ai-switch-chips/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/04/26/broadcom-takes-on-infiniband-with-jericho3-ai-switch-chips/amp/",
-      "publishedDateTime": "2023-04-26T20:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-zuckerberg-says-meta-will-add-generative-ai-to-all-its-products.md",
-      "title": "Zuckerberg Says Meta Will Add Generative AI To All Its Products",
-      "excerpt": "During Meta’s Q1 earnings call, CEO Mark Zuckerberg outlined to investors when and how the company expects to integrate generative AI into its products. But don’t call this a pivot away from the metav",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johanmoreno/2023/04/26/zuckerberg-says-meta-will-add-generative-ai-to-all-its-products/",
-      "originalUrl": "https://www.forbes.com/sites/johanmoreno/2023/04/26/zuckerberg-says-meta-will-add-generative-ai-to-all-its-products/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6449e51aced99251e6bfa396/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johanmoreno/2023/04/26/zuckerberg-says-meta-will-add-generative-ai-to-all-its-products/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/04/26/zuckerberg-says-meta-will-add-generative-ai-to-all-its-products/amp/",
-      "publishedDateTime": "2023-04-26T20:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-the-ascendancy-of-ai-in-asias-financial-services-industry.md",
-      "title": "The Ascendancy Of AI In Asia’s Financial Services Industry",
-      "excerpt": "As AI matures and becomes more widely integrated into business operations, this trend is set to accelerate At the same time, both the financial industry and regulators know that there are challenges and risks associated with AI that must be addressed Indeed,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/zennonkapron/2023/04/26/the-ascendancy-of-ai-in-asias-financial-services-industry/",
-      "originalUrl": "https://www.forbes.com/sites/zennonkapron/2023/04/26/the-ascendancy-of-ai-in-asias-financial-services-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6445de39b964f059b2fa527d/0x0.jpg?format=jpg&width=1200",
-          "width": 800,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/zennonkapron/2023/04/26/the-ascendancy-of-ai-in-asias-financial-services-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zennonkapron/2023/04/26/the-ascendancy-of-ai-in-asias-financial-services-industry/amp/",
-      "publishedDateTime": "2023-04-26T18:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

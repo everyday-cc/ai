@@ -78,6 +78,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "The big cybersecurity risks when ChatGPT and AI are secretly used by employees"
+    excerpt: "Generative AI is seeping into the workplace, whether companies approve of its use or not, and cybersecurity caution is needed with these breakthrough chatbots."
+    publishedDateTime: 2023-04-30T12:11:00Z
+    webUrl: "https://www.cnbc.com/2023/04/30/the-big-cyber-risks-when-chatgpt-and-ai-are-secretly-used-by-employees.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/04/30/the-big-cyber-risks-when-chatgpt-and-ai-are-secretly-used-by-employees.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/04/30/the-big-cyber-risks-when-chatgpt-and-ai-are-secretly-used-by-employees.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 83
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107206075-1678389148948-gettyimages-1246494152-AFP_337P9F8.jpeg?v=1682863975"
+        width: 7885
+        height: 5257
+        isCached: true
   - title: "AI Will Take Many Cybersecurity Jobs, But It's Not a Complete Disaster"
     excerpt: "AI will force some big changes in the cybersecurity job market, but Rohit Ghai, CEO of RSA Security, tells RSAC 2023 attendees that he's hopeful AI tools and human workers can coexist."
     publishedDateTime: 2023-04-26T16:04:00Z

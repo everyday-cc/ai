@@ -3,19 +3,19 @@ category: news
 title: "IDVV Moves Forward In Artificial Intelligence AI Sector"
 excerpt: "IDVV is pleased to announce its progress in the acquisition of WITech and SF Corp, which have been completed ahead of schedule. As the company enters the AI sector, it is combining the strengths and capabilities of both acquisitions."
 publishedDateTime: 2023-04-28T19:50:00Z
-originalUrl: "https://www.sacbee.com/press-releases/article274848016.html"
-webUrl: "https://www.sacbee.com/press-releases/article274848016.html"
+originalUrl: "https://www.newsobserver.com/press-releases/article274848016.html"
+webUrl: "https://www.newsobserver.com/press-releases/article274848016.html"
 type: article
 quality: 34
 heat: 34
 published: false
 
 provider:
-  name: Sacramento Bee
-  domain: sacbee.com
+  name: Raleigh News & Observer
+  domain: newsobserver.com
 
 topics:
-  - AI in Robotics
+  - AI in Healthcare
   - AI
 
 related:
@@ -29,6 +29,6 @@ related:
       domain: finanznachrichten.de
     quality: 23
 
-secured: "LkIRxdJqTIMFK36tMrsDkp4xmNqZssJ35HtQjyI4KQeFSl+EqbpaizG3LcUoMX0TwApV8gWnwiA3jhIzreQgEThiWM1GbSph5Lx/u3xTvML/nsK9Y7WNT+sCrOq2R9IMBxCeC66fYCFaC/hgKeUzVLsooONzT6+E/BDKLKGwMPggUaIC44Qq5EpHNzouyZnq021bNMrfAEZHNmCkh0xB5KbTbw8RUc6NNripMf52lal5agz6ad1q3EnFpGM1jRYV9/y4YigEpHuMaKlRBAQTz53zldnDmVC9uwNS4bcXHWtHg6cSCtFIQSRxu+kf1GvjppbSbaDzaAdUT256T+LnMzH38vggn0hUYt/O1HGJCvM=;oMMQ2Qm/X/YtMELjiZ66HA=="
+secured: "0hOfDut7VaOC/X5gwnGnYoSQVEA15f5pLBKEgZDSvpHlub6P24rauTmcggHbX318K3YejNTQXwj0U6KkW6lt9B6MdU6p2rlhG2ICORKEMVF07MkTBivz0YJxvP/vkJlsmsfwBXeA9YlLdJc+H0qf6Yke2anuXXHodUZX0kvx1oa2qrL3RXRS0vhwRamJmBWD9HgHm1E5Jd/BHcSHm5IMHferwJYPAPyrc7VD7QVPIwE2LQ+OBdS0Yu2joJqCLge0UJPUQLtUPnbOy5Xq/yoUzUlLI26rvhhX8oJYKRNvQ+rW3nilhkX1fww85OASktcS9gNqR0LITidyYtYLPIJBEIaDIeWZfJgt1k/r9cdxWkQ=;d6fPVqbuNd65XhwLPtO2Hg=="
 ---
 

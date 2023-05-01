@@ -100,20 +100,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI Accelerator Chip Market Demand by 2030"
-    excerpt: "The latest market research report on the Global \"AI Accelerator Chip Market\" is segmented by Regions, Country, Company"
-    publishedDateTime: 2023-04-26T12:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-accelerator-chip-market-demand-by-2030-2023-04-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 84
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Edge AI Chips Market Outlook by 2031"
     excerpt: "The latest market research report on the Global \"Edge AI Chips Market\" is segmented by Regions, Country, Company and"
     publishedDateTime: 2023-04-28T09:51:00Z
@@ -263,6 +249,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
+  - title: "Predictive Analytics and Machine Learning Market Manufacturing Cost Structure By 2031"
+    excerpt: "Apr 26, 2023 (The Expresswire) -- The latest market research report on the Global \"Predictive Analytics and Machine Learning Market\" is segmented by Regions, Country, Company and other Segments. The global Predictive Analytics and Machine Learning market ..."
+    publishedDateTime: 2023-04-27T11:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/predictive-analytics-and-machine-learning-market-manufacturing-cost-structure-by-2031-2023-04-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
 
 secured: "eAivW751srgHsqOahVWqK+KNLItMEL9zYkohPRAXr+LsIFth6qGH2w4GWXf1Fqyn96O+9jw5w9gFgUulJGEKLx1Aa1PiX0rADWh1OJXcHKtWWDJ9Clf6bNOiYvcAFaRjh18jR38paoJsa2Wwi9F54aD7rlxsir7HAPSp16m6jxQ+Tjn3J2452rWkLYYJT8qDm46ZPFxRXs1Bo+nv/27VdWg+Kt+kZwc0u+bH0sfDkhigxXsq1iXZFcI5DFTUYLzitnik+f3tUlRaoTAkrJ5nhEKRzXqg2TU/9blKTnYjlUgQ1Ryeovm6zDYXEC+hSs6QB336tbmwP3NpNkI3JYroHDebKrbnx9wzsrthNjXuR0k=;z3ODeru8nhk+exd21xpx+Q=="
 ---

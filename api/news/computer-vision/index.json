@@ -183,49 +183,6 @@
       ]
     },
     {
-      "path": "_news/2023-04-28-ohio-ag-resumes-facial-recognition-use-after-pause.md",
-      "title": "Ohio AG Resumes Facial Recognition Use After Pause",
-      "excerpt": "After stopping the use of facial recognition software for more than a year amid civil liberties concerns, the Ohio attorney general’s office is once again using the technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/public-safety/ohio-ag-resumes-facial-recognition-use-after-pause",
-      "originalUrl": "https://www.govtech.com/public-safety/ohio-ag-resumes-facial-recognition-use-after-pause",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/c9341c5/2147483647/strip/true/crop/5000x2607+0+726/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F1d%2Fc3%2F5a9f33404b21a79b5e790af9266d%2Fshutterstock-1658380954.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/public-safety/ohio-ag-resumes-facial-recognition-use-after-pause?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/ohio-ag-resumes-facial-recognition-use-after-pause?_amp=true",
-      "publishedDateTime": "2023-04-27T16:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-27-which-segments-computer-vision-system-market-are-anticipated-to-highest-cagr-by-2030.md",
       "title": "Which Segments Computer Vision System Market Are Anticipated To Highest CAGR By 2030",
       "excerpt": "New Analysis of Computer Vision System Market overview, spend analysis, imports, segmentation, key players, and",
@@ -1379,6 +1336,49 @@
         "name": "oedigital.com",
         "domain": "oedigital.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-18-seeing-is-believing-emergen-research-predicts-bright-future-for-machine-vision-market.md",
+      "title": "Seeing is Believing: Emergen Research Predicts Bright Future for Machine Vision Market",
+      "excerpt": "Witness the revolution of the Machine Vision market, with a 7.1% CAGR projected by Emergen Research. Find out what's driving this growth",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/seeing-is-believing-emergen-research-predicts-bright-future-for-machine-vision-market-1032237842",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/seeing-is-believing-emergen-research-predicts-bright-future-for-machine-vision-market-1032237842",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-18T01:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

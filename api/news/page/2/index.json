@@ -2,6 +2,102 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-04-28-french-privacy-chief-warns-against-using-facial-recognition-for-2024-olympics.md",
+      "title": "French privacy chief warns against using facial recognition for 2024 Olympics",
+      "excerpt": "PARIS — The French data protection authority's president Marie-Laure Denis warned Tuesday against using facial recognition as part of the 2024 Paris Summer Olympics security toolkit. \"The members of the CNIL's college call on parliamentarians not to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.eu/article/french-privacy-chief-warns-against-using-facial-recognition-for-2024-olympics/",
+      "originalUrl": "https://www.politico.eu/article/french-privacy-chief-warns-against-using-facial-recognition-for-2024-olympics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/01/24/GettyImages-1161938837-scaled.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.eu/article/french-privacy-chief-warns-against-using-facial-recognition-for-2024-olympics/amp/",
+      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/french-privacy-chief-warns-against-using-facial-recognition-for-2024-olympics/amp/",
+      "publishedDateTime": "2023-04-28T05:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico Europe",
+        "domain": "politico.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-28-healthcare-ai-market-market-projection-and-growth-drivers-2023-2028.md",
+      "title": "Healthcare AI Market Market Projection and Growth Drivers 2023-2028",
+      "excerpt": "Apr 28, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" This comprehensive market research",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-market-projection-and-growth-drivers-2023-2028-2023-04-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-market-projection-and-growth-drivers-2023-2028-2023-04-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 266,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-28T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-04-28-machine-learning-operations-mlops-market-research-analysis-2023-2031.md",
       "title": "Machine Learning Operations (MLOps) Market Research Analysis 2023-2031",
       "excerpt": "What is the Machine Learning Operations (MLOps) market growth? Machine Learning Operations (MLOps) Market Size is projected to Reach Multimillion USD by 2031, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2031.",
@@ -63,7 +159,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/28/making-the-most-out-of-generative-ai-in-your-enterprise/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 239,
+      "heat": 229,
       "tags": null,
       "images": [
         {
@@ -253,7 +349,7 @@
       "originalUrl": "https://diginomica.com/built-world-ai-start-ups-lead-investments-overtake-fintech-and-marketing",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -591,21 +687,21 @@
       ]
     },
     {
-      "path": "_news/2023-04-28-ohio-ag-resumes-facial-recognition-use-after-pause.md",
-      "title": "Ohio AG Resumes Facial Recognition Use After Pause",
-      "excerpt": "After stopping the use of facial recognition software for more than a year amid civil liberties concerns, the Ohio attorney general’s office is once again using the technology.",
+      "path": "_news/2023-04-28-ai-weekly-replit-raises-97-million-for-ai-coding-hugging-face-takes-aim-at-chatgpt.md",
+      "title": "AI Weekly: Replit Raises $97 Million For AI Coding, Hugging Face Takes Aim At ChatGPT",
+      "excerpt": "The feature is said to be an experiment available in select regions. AI startup Runway launches an app to bring users video-to-video generative AI Runway, which contributed to the development Stable Diffusion, has launched a video-to-video generative AI ...",
       "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/public-safety/ohio-ag-resumes-facial-recognition-use-after-pause",
-      "originalUrl": "https://www.govtech.com/public-safety/ohio-ag-resumes-facial-recognition-use-after-pause",
+      "webUrl": "https://www.forbes.com/sites/charliefink/2023/04/27/ai-weekly-replit-raises-97-million-for-ai-coding-hugging-face-takes-aim-at-chatgpt/",
+      "originalUrl": "https://www.forbes.com/sites/charliefink/2023/04/27/ai-weekly-replit-raises-97-million-for-ai-coding-hugging-face-takes-aim-at-chatgpt/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 100,
       "tags": null,
       "images": [
         {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/c9341c5/2147483647/strip/true/crop/5000x2607+0+726/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F1d%2Fc3%2F5a9f33404b21a79b5e790af9266d%2Fshutterstock-1658380954.jpg",
-          "width": 840,
-          "height": 438,
+          "url": "https://imageio.forbes.com/specials-images/imageserve/644b07d0576948b60d02778e/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 821,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -613,14 +709,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.govtech.com/public-safety/ohio-ag-resumes-facial-recognition-use-after-pause?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/ohio-ag-resumes-facial-recognition-use-after-pause?_amp=true",
-      "publishedDateTime": "2023-04-27T16:29:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2023/04/27/ai-weekly-replit-raises-97-million-for-ai-coding-hugging-face-takes-aim-at-chatgpt/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/04/27/ai-weekly-replit-raises-97-million-for-ai-coding-hugging-face-takes-aim-at-chatgpt/amp/",
+      "publishedDateTime": "2023-04-27T16:58:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -629,7 +734,6 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
         "AI"
       ]
     },
@@ -865,6 +969,58 @@
       ]
     },
     {
+      "path": "_news/2023-04-28-boston-dynamics-robot-dog-can-answer-your-questions-now-thanks-to-chatgpt.md",
+      "title": "Boston Dynamics robot dog can answer your questions now, thanks to ChatGPT",
+      "excerpt": "A new video shared by AI expert Santiago Valdarrama, showcases Boston Dynamics' robot dog, Spot, performing a few new tricks that involve artificial intelligence. In the almost two minute video, Spot is able to answer natural language questions such as \"Are you standing?\" and \"What is your battery level?\".",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/boston-dynamics-robot-dog-can-answer-your-questions-now-thanks-to-chatgpt/",
+      "originalUrl": "https://www.zdnet.com/article/boston-dynamics-robot-dog-can-answer-your-questions-now-thanks-to-chatgpt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 197,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/67420e49493ab2b30aaafc15a8e1800befe0ca8f/2023/04/27/9f9be49a-d685-4a34-8801-0023f95fbbcc/screenshot-2023-04-27-at-10-10-49-am.png?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/boston-dynamics-robot-dog-can-answer-your-questions-now-thanks-to-chatgpt/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/boston-dynamics-robot-dog-can-answer-your-questions-now-thanks-to-chatgpt/",
+      "publishedDateTime": "2023-04-27T10:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-28-tenable-report-shows-how-generative-ai-is-changing-security-research.md",
       "title": "Tenable report shows how generative AI is changing security research",
       "excerpt": "A Tenable report reveals four ways researchers can use generative AI to enhance vulnerability analysis and debugging.",
@@ -978,7 +1134,7 @@
       "originalUrl": "https://www.wired.com/story/nsa-rob-joyce-chatgpt-security/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 157,
       "tags": null,
       "images": [
         {
@@ -1053,152 +1209,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-teslas-price-cuts-slow-a-rival-in-the-race-to-deliver-self-driving-tech.md",
-      "title": "Tesla’s Price Cuts Slow a Rival in the Race to Deliver Self-Driving Tech",
-      "excerpt": "Tesla started cutting prices in China. That same week, shares of rival self-driving technology provider Mobileye surged on their first day of trading following a hotly anticipated IPO. Now Tesla’s pri",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-04-27-2023/card/tesla-s-price-cuts-slow-a-rival-in-the-race-to-deliver-self-driving-tech-pO1vq8GciuAVLeQdmojo",
-      "originalUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-04-27-2023/card/tesla-s-price-cuts-slow-a-rival-in-the-race-to-deliver-self-driving-tech-pO1vq8GciuAVLeQdmojo",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-771268?width=600",
-          "width": 600,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-the-dangers-of-letting-ai-loose-on-finance.md",
-      "title": "The dangers of letting AI loose on finance",
-      "excerpt": "We must recognise the stability risks — whether over-concentration or digital herding — as well as the benefits",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/9bc5e530-ac72-4b4c-9eb1-f5e5c48f34c9",
-      "originalUrl": "https://www.ft.com/content/9bc5e530-ac72-4b4c-9eb1-f5e5c48f34c9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg",
-          "width": 619,
-          "height": 377,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T09:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-developers-embrace-ai-tools-but-face-big-code-challenges-survey-finds.md",
-      "title": "Developers embrace AI Tools but face ‘Big Code’ challenges, survey finds",
-      "excerpt": "A new report from Sourcegraph warns Big Code will hit crisis mode if companies don't get a handle on how their developers use AI at work.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/developers-embrace-ai-tools-but-face-big-code-challenges-survey-finds/",
-      "originalUrl": "https://venturebeat.com/ai/developers-embrace-ai-tools-but-face-big-code-challenges-survey-finds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/04/Screenshot-2023-04-27-at-1.35.41-AM-e1682604857405.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/developers-embrace-ai-tools-but-face-big-code-challenges-survey-finds/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/developers-embrace-ai-tools-but-face-big-code-challenges-survey-finds/amp/",
-      "publishedDateTime": "2023-04-27T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

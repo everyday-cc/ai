@@ -148,20 +148,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "Missed Out On Microsoft's AI-Powered Rally This Year? Analyst Sees Another 25% Surge Likely Soon"
-    excerpt: "The results wowed a couple of Microsoft bulls, and here's what the analysts think about the quarterly report: The Microsoft Analysts: Piper Sandler analyst Brent Bracelin maintained an Overweight rating and hiked the price target from $290 to $348."
-    publishedDateTime: 2023-04-26T11:09:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/missed-out-on-microsoft-s-ai-powered-rally-this-year-another-25-surge-likely-soon-says-analyst-1032262759"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 71
-    images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/Photo_by_JOCA_PH_on_Shutterstock.jpeg"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "AIS Earns Seventh Microsoft Advanced Specialization in Analytics on Azure, Securing Access to End-Customer Funding and Resources"
     excerpt: "AIS (Applied Information Sciences), experts in helping organizations modernize and innovate with Microsoft Cloud,"
     publishedDateTime: 2023-04-28T13:30:00Z
@@ -189,22 +175,6 @@ related:
       - url: "https://moneymorning.com/wp-content/blogs.dir/1/files/2023/04/motley-fool-mark.png"
         width: 940
         height: 940
-        isCached: true
-  - title: "Microsoft not dreaming about future: Its cloud business drives profits, plans for AI"
-    excerpt: "The world's most advanced AI models are coming together with the world's most universal user interface - natural language - to create a new era of computing,” says Satya Nadella, chairman and chief executive officer of Microsoft after the tech giant posted quarterly earnings growth."
-    publishedDateTime: 2023-04-26T11:07:00Z
-    webUrl: "https://wraltechwire.com/2023/04/26/microsoft-not-dreaming-about-future-its-cloud-business-drives-profits-plans-for-ai/"
-    ampWebUrl: "https://wraltechwire.com/2023/04/26/microsoft-not-dreaming-about-future-its-cloud-business-drives-profits-plans-for-ai/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/04/26/microsoft-not-dreaming-about-future-its-cloud-business-drives-profits-plans-for-ai/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 67
-    images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2020/11/cloud-computing-internet-of-things-e1605713015179.png"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Microsoft Stock Climbs After Earnings Reveal Early AI Impact. Wall Street Is Bullish."
     excerpt: "Microsoft cloud unit may have been the standout performer in its quarterly earnings but Wall Street is becoming increasingly enthusiastic about its AI growth opportunity. The tech giant (ticker: MSFT) beat earnings expectations,"
@@ -311,20 +281,6 @@ related:
       - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/04/26/image/jpeg/PtJ6EQn6QUfFoo55OFjqRtO0N70iJQu0i2fb6UPd.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Will Microsoft and Artificial Intelligence Save the Market?"
-    excerpt: "Both companies are benefiting from a boom in artificial intelligence (AI). The growth there is even faster than what occurred during the internet bubble in the late 1990s, and Microsoft is the leader."
-    publishedDateTime: 2023-04-26T11:14:00Z
-    webUrl: "https://realmoney.thestreet.com/investing/will-microsoft-and-artificial-intelligence-save-the-market--16122127"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 54
-    images:
-      - url: "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/07a7b3af-aa2a-11e9-bc6a-93daea8853a2.png"
-        width: 1200
-        height: 800
         isCached: true
   - title: "'AI All-Star' Microsoft's rosy earnings spark rally in tech stocks"
     excerpt: "Microsoft Corp shares surged 8 per cent premarket on Wednesday and lifted tech stocks after the company's robust earnings eased fears of a slowdown in cloud computing and boosted confidence that artificial intelligence will become a major growth driver."
@@ -437,15 +393,6 @@ related:
       name: Fast Company
       domain: fastcompany.com
     quality: 31
-  - title: "The ODP Corporation Expands Collaboration with Microsoft to Leverage the Power of AI Technology from Microsoft Azure OpenAI Service"
-    excerpt: "“We are delighted that ODP has chosen Microsoft Azure OpenAI service as its solution for integrating transformational AI capabilities into critical business processes and systems,” said Eric ..."
-    publishedDateTime: 2023-04-26T12:33:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20230426005391/the-odp-corporation-expands-collaboration-with-microsoft-to-leverage-the-power-of-ai-technology-from-microsoft-azure-openai-service"
-    type: article
-    provider:
-      name: Morningstar
-      domain: morningstar.com
-    quality: 19
   - title: "New Komprise Intelligent Tiering for Azure Reduces High File Storage Costs with Exclusive Microsoft Azure Marketplace Offer"
     excerpt: "Komprise, a leader in analytics-driven unstructured data management and mobility, today announced an extension to its"
     publishedDateTime: 2023-04-27T18:43:00Z
