@@ -59,6 +59,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Are AI Chatbots, ChatGPT the Solution to Healthcare’s Empathy Problem?"
+    excerpt: "A new study found that AI chatbots like ChatGPT answer patient queries with more empathy, making the tool useful for providers managing secure direct messages in the patient portal."
+    publishedDateTime: 2023-05-01T17:00:00Z
+    webUrl: "https://patientengagementhit.com/news/are-ai-chatbots-chatgpt-the-solution-to-healthcares-empathy-problem"
+    type: article
+    provider:
+      name: patientengagementhit
+      domain: patientengagementhit.com
+    quality: 54
+    images:
+      - url: "https://patientengagementhit.com/images/site/article_headers/_normal/2022-04-08-GettyImages-1302394569.jpg"
+        width: 690
+        height: 400
+        isCached: true
   - title: "Engineer Combines ChatGPT with Robot Dog, Spot for Enhanced Communication"
     excerpt: "In a world where artificial intelligence and robots are becoming increasingly prevalent, it’s always exciting to see how engineers are pushing the boundaries and finding new ways to make these machines even more useful."
     publishedDateTime: 2023-04-27T05:26:00Z

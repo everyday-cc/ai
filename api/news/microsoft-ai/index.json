@@ -211,58 +211,6 @@
       ]
     },
     {
-      "path": "_news/2023-04-27-new-komprise-intelligent-tiering-for-azure-slashes-high-file-storage-costs-with-exclusive-microsoft-azure-marketplace-offer.md",
-      "title": "New Komprise Intelligent Tiering for Azure Slashes High File Storage Costs with Exclusive Microsoft Azure Marketplace Offer",
-      "excerpt": "Organizations can accelerate their cloud journey and gain better ROI from cloud migrations by first transparently tiering data from any NAS that is cold and has not been accessed in months to Azure Blob Storage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/new-komprise-intelligent-tiering-for-azure-slashes-high-file-storage-costs-with-exclusive-microsoft-azure-marketplace-offer-2023-04-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/new-komprise-intelligent-tiering-for-azure-slashes-high-file-storage-costs-with-exclusive-microsoft-azure-marketplace-offer-2023-04-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-27-pwc-is-making-a-1-billion-bet-on-business-ai.md",
       "title": "PwC is making a $1 billion bet on business AI",
       "excerpt": "PricewaterhouseCoopers (PwC) has announced plans to invest $1 billion over the course of the next three years into artificial intelligence in an effort to help clients keep up to date with generative AI trends.",
@@ -1466,6 +1414,59 @@
       "topics": [
         "Microsoft AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-19-microsoft-reportedly-pinning-its-ai-hopes-on-in-house-athena-chip.md",
+      "title": "Microsoft Reportedly Pinning its AI Hopes on In-House ‘Athena’ Chip",
+      "excerpt": "Microsoft is reportedly developing an AI-centric GPU for itself and OpenAI, one that can give them an edge over AI chipmaker Nvidia.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/microsoft-ai-chip-athena-server-gpu-nvidia-a100-h100-1850349147",
+      "originalUrl": "https://gizmodo.com/microsoft-ai-chip-athena-server-gpu-nvidia-a100-h100-1850349147",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/70865535ecc0e0c782b0bf8c02f09bc8.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-18T16:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
       ]
     }
   ],

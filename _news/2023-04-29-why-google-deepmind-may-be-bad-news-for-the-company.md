@@ -9,7 +9,7 @@ ampWebUrl: "https://m.timesofindia.com/gadgets-news/why-google-deepmind-may-be-b
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/why-google-deepmind-may-be-bad-news-for-the-company/amp_articleshow/99868387.cms"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind’s latest research at ICLR 2023"
-    excerpt: "Next week marks the start of the 11th International Conference on Learning Representations (ICLR), taking place 1-5 May in Kigali, Rwanda. This will be the first major artificial intelligence (AI) conference to be hosted in Africa and the first in-person event since the start of the pandemic. Researchers"
-    publishedDateTime: 2023-04-27T00:00:00Z
-    webUrl: "https://www.deepmind.com/blog/deepminds-latest-research-at-iclr-2023"
-    type: article
-    provider:
-      name: DeepMind
-      domain: deepmind.com
-    quality: 89
-    images:
-      - url: "https://assets-global.website-files.com/621e749a546b7592125f38ed/644a5309537e5d50d2de4a5e_deepmind-lISkvdgfLEk%20(1).jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Google’s DeepMind-Brain merger: tech giant regroups for AI battle"
     excerpt: "Start-up founder Demis Hassabis trades independence for greater influence over the future of artificial intelligence"
     publishedDateTime: 2023-04-28T04:00:00Z

@@ -33,15 +33,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "New Komprise Intelligent Tiering for Azure Slashes High File Storage Costs"
-    excerpt: "Company offering solution in Microsoft Azure Marketplace. Note: TDWI’s editors carefully choose vendor-issued press releases about new or upgraded products and services. We have edited and/or condensed this release to highlight key features but make no claims as to the accuracy of the vendor's statements."
-    publishedDateTime: 2023-04-27T00:00:00Z
-    webUrl: "https://tdwi.org/articles/2023/04/27/komprise-intelligent-tiering.aspx"
-    type: article
-    provider:
-      name: TDWI
-      domain: tdwi.org
-    quality: 17
 
 secured: "TaI2HyHMKdgvQ9x8ooRvcDhoij3g1bCgUpaVPjifpGCt6Uhfdb1dk6q/FO5tng9kQaj3p7AhkGomzrEqH1EcLk9MYLa6Hv76DdYsGvcGno3qARKJIBfEkWef6qQGZOpoH2K/Lx5Bpo9KFYGOGgC+0nKYhVKd+aCAa16Xl/cjqKI4tYnvLcK4W6B5GIXqBvG9vnLUp35vE+nQrdZfnEsLIOLwIimuMpnyAQ0gJP4fHBXCBsad3Xxxs9Arut4Da42PkvEJdgZdKpwvIX0CLMa84NDWd3bTNKe8vIjNi6CIck6GzXr6lLvuP19PAleV6xl1X9kaTRnn6+cXMXwHsh4LnuFiIUm8YQXquZ6XwppL3Pr3x2b9zFLx17hSXvcEk4BaH5Azbhu5ymJ1aA2G2z2XmaKfmFmBHS9/cOktY0LrOrY6gOsufErJ0AgWCfatFFmkSGvDYIZOFU2kadau/1sYBCP5sJ2NVlqg76OgMywM0hic5p1YnB0ULzBQVXQULB0NgMGQLNtmqa6Oy3XeRTv5rA==;7/gCzwQRhXf0Qn0iNBSkAg=="
 ---

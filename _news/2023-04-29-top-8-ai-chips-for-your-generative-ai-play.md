@@ -107,6 +107,22 @@ related:
         width: 1200
         height: 631
         isCached: true
+  - title: "Generative AI Tools Like ChatGPT And Bard Heralding Generational Shift In Job Roles. Adapt Or Risk Obsolescence"
+    excerpt: "The benefits and impact of Generative AI tools like ChatGPT on industries and job roles have only begun to occur, harbingering generational job role shifts."
+    publishedDateTime: 2023-05-01T15:59:00Z
+    webUrl: "https://www.forbes.com/sites/roomykhan/2023/05/01/generative-ai-tools-like-chatgpt-and-bard-heralding-generational-shift-in-job-roles-adapt-or-risk-obsolescence/"
+    ampWebUrl: "https://www.forbes.com/sites/roomykhan/2023/05/01/generative-ai-tools-like-chatgpt-and-bard-heralding-generational-shift-in-job-roles-adapt-or-risk-obsolescence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roomykhan/2023/05/01/generative-ai-tools-like-chatgpt-and-bard-heralding-generational-shift-in-job-roles-adapt-or-risk-obsolescence/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/644fdd5de31e3cc4caad4710/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 798
+        isCached: true
   - title: "UAE Government launches 'Generative AI' guide to facilitate adoption of AI technology"
     excerpt: "The “Generative AI” guide serves as a valuable resource for government entities, enabling them to leverage the benefits of AI"
     publishedDateTime: 2023-04-30T11:26:00Z

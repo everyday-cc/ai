@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/27/the-future
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/27/the-future-of-artificial-intelligence-and-work/amp/"
 type: article
 quality: 89
-heat: 249
+heat: 259
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://mma.prnewswire.com/media/2064905/FINAL_3D_RENDER_THUMB__1.jpg"
         width: 320
         height: 400
+        isCached: true
+  - title: "Taylor Swift, AI and the copyright conundrum"
+    excerpt: "Ashley Moore, Annelise Raymond Alam and Enrico Trevisani of Michelman & Robinson LLP examine some of the novel issues surrounding AI and copyright such as when works are created by machines in response to an individual's creative input."
+    publishedDateTime: 2023-05-01T15:13:00Z
+    webUrl: "https://www.reuters.com/legal/legalindustry/taylor-swift-ai-copyright-conundrum-2023-05-01/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://www.reuters.com/resizer/f2mseeVk8wb7sZxOq-hglzcWT7c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/B3N7RTBJUNKBPNJOPMPEFW35G4.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "The complications of regulating AI"
     excerpt: "The idea that advancing technology outpaces regulation serves the industry's interests, says Elizabeth Renieris of Oxford. Current oversight methods apply to specific issues, but \"general purpose\" AI is harder to keep in check."

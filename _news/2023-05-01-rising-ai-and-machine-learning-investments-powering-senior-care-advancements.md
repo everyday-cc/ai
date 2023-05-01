@@ -36,15 +36,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Tesla's not even in the top 10 of self-driving firms, according to experts who ranked all of the leading companies working on automation"
-    excerpt: "The list comes at a particularly volatile time for the self-driving industry, which has faced a number of headwinds over the past year, including waning investor interest, less available funding ..."
-    publishedDateTime: 2023-04-27T00:00:00Z
-    webUrl: "https://www.businessinsider.com/tesla-sef-driving-not-in-top-ranked-autonomy-guidehouse-research-2023-3"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 16
 
 secured: "WgKKSPP1pC9BmYVXaEAX7GCFI/2jxBSVtnnHSEkFBDrT9iw8MjGS/Hbng7bMgEqv5Ng8Z9Hk4MYywcnlwa7TzlHsYOXZsXXU//oMbp12+ZJAqeR+to3mRRLv/dBDYvR1uh64rECPWa6f2pIcbsZPWKhDUPMIS3ADTR4H370Nx5roDWhGn1o/XvQ7rJY+86EM6iJ0ldHv+nLsePaqeinKIRnK21PZp1cSwostoBuQAjATG1bqCakpsPhEDBxJ/zLVZ8aX5BYrYCa5IMDPZAfyW/H++T5E69aIoOK+YtcXVCXhZmpjWMgQ67qX9QS5eNi8BIjHHAPR8dmMsgYWOiYaUoZF898WhAM7FQFdH4Bb8u8=;iGorwSnNnlBRzXEQYkQ4Cw=="
 ---

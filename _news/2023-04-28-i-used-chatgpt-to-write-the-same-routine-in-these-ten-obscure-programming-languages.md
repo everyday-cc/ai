@@ -22,17 +22,6 @@ topics:
   - Natural Language Processing
   - AI
 
-related:
-  - title: "ChatGPT is the Most In-Demand Workplace Skill in Q1 2023"
-    excerpt: "Udemy (NASDAQ:UDMY), a company dedicated to improving lives through online learning, today released its Q1 2023 Workplace Learning Index, a quarterly report"
-    publishedDateTime: 2023-04-27T15:04:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/04/g32049645/chatgpt-is-the-most-in-demand-workplace-skill-in-q1-2023"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 4
-
 secured: "SXDOjnvnpcrXnOxN3Z9OyptS25TGzNE+4JJ3UpJED5lcVpGUC2YfGwe4jbePHzXFkLPQ/noiz1fG9ZrCAOXlz4037oZuxwpxuhklriXcDzZbkBEiXf9SEhsJ9hpV1pnEiWfewPntvxSUZfP28w14c/NvZu7WM4lxR2Y1hrL8qsnMTTHnIcNBtHmoJNGIkBgXFMhFh+Yf/1B17fpzi1u8//q2wZgq5TOJOysUmCEJme7WYoEUjk22RLbOdnZRSA2mRnwXMcUxEUysDXe+H0newSSQnrVqqboeHwCx7Y+VYz+iVedJoh3uPHg8je3pU0jx6kM5ySzmbDl7TFrOsXTB5RDwVwSefN6D3REzhmAx2QOmz2WagQf1mn8vTQWQ4gkFjwIohWbXQhONofP6cnSOEnVbS29EYBe9dPfuGTkD+74bcMELvO4oz7CX+KCch/VasEDb1rxCUxtvhNIMNQe2yH50jW/+YYj3iOO2mUEFiM9XeeNzqRY5soTNLTVk9wA8Q9PE367a3wOTKzcWixwzHA==;tWcFULPXX0p2pbJEh6bFMg=="
 ---
 

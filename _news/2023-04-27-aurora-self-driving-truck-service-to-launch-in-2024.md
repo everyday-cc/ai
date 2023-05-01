@@ -53,6 +53,20 @@ related:
         width: 3000
         height: 1815
         isCached: true
+  - title: "Lotus’ Electric SUV Takes Tesla to Task on Performance and Self-Driving"
+    excerpt: "The Eletre is coming to the U.S. with a 0 to 62 mph of less than three seconds and plans to incorporate level 4 autonomous driving capabilities."
+    publishedDateTime: 2023-05-01T17:30:00Z
+    webUrl: "https://www.inverse.com/tech/lotus-electric-suv-eletre-tesla-performance-self-driving"
+    type: article
+    provider:
+      name: Inverse
+      domain: inverse.com
+    quality: 39
+    images:
+      - url: "https://imgix.bustle.com/uploads/image/2023/5/1/3af8734c-9f96-43ce-9207-9a0a090e83a4-lotus-eletre-hero-image_1.jpg?w=1200&h=630&fit=crop&crop=focalpoint&fm=jpg&fp-x=0.4253&fp-y=0.5735"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "cSHF81nK4LW+GTmun3MAkOZMO/1SCk4r+r/iMGThtgIamwC3gX/yRfWfAf3KfmhL1kRx+5Jboyx1x3P3AQvuR5zcoRHRlnfFYV8OqDHyLbgUdO09U+1xg6XLFE0aKCqThsaCVZjQ73WUho7r+EtcgY4b+YK/kkeJVFOcaoyIjl67EM4jmW6bRylb3pA3hRkHQRqFEeFejBR/YekQ+56qwWG/4RM+XE18hL0dwbvQaYula76jIN5O0X3SD8KBn2gi5eO5T5sFVoqHawTgRAI2P+VVG7q8q47OSElmWlLcrYaiOA02HX/uQiYcll7Ah/srz+/DHP+Ae9Oj2XTJ3EQ2L9o8YoAv5pxfGHkP71nHOGYYnLa7BMpSvbmQKtWLNru7FDmrri06PJeyzoe/pD9wX6gq6X2tFlu+kku4EHPWVHSsXMhZRMVHGjCCmxDA/2FPhSPPQBHqBdxz9vx4Gbn9ob2ZgxjqTg0Evqmz3tvGiUv35+HBdh2Fi1p7a5oX+y+TbynJYo7WLQ7rUkxTfed5uA==;ZnxduTmr5jY3IRsPGf3kSw=="
 ---

@@ -51,6 +51,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Are AI Chatbots, ChatGPT the Solution to Healthcare’s Empathy Problem?"
+    excerpt: "A new study found that AI chatbots like ChatGPT answer patient queries with more empathy, making the tool useful for providers managing secure direct messages in the patient portal."
+    publishedDateTime: 2023-05-01T17:00:00Z
+    webUrl: "https://patientengagementhit.com/news/are-ai-chatbots-chatgpt-the-solution-to-healthcares-empathy-problem"
+    type: article
+    provider:
+      name: patientengagementhit
+      domain: patientengagementhit.com
+    quality: 54
+    images:
+      - url: "https://patientengagementhit.com/images/site/article_headers/_normal/2022-04-08-GettyImages-1302394569.jpg"
+        width: 690
+        height: 400
+        isCached: true
   - title: "Apple, TikTok jump aboard the generative AI train; Boston Dynamics’ Spot gets ChatGPT"
     excerpt: "Apple and TikTok have jumped on the AI bandwagon. Also, even more interestingly, engineers are beginning to integrate ChatGPT into Boston Dynamics' Spot robotic dog."
     publishedDateTime: 2023-04-27T11:47:00Z

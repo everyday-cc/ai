@@ -34,6 +34,20 @@ related:
         width: 2500
         height: 1663
         isCached: true
+  - title: "Elon Musk Tries to Direct AI—Again"
+    excerpt: "His latest startup follows a decade of being outmaneuvered in his quest to steer the development of artificial intelligence."
+    publishedDateTime: 2023-05-01T15:09:00Z
+    webUrl: "https://www.wsj.com/articles/elon-musk-ai-chatgpt-artificial-intelligence-x-69464a1"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-771610/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "Ip8VyICyHXNxmg8J43U7wW9r3PHk77vjXoALtkQ+/vbDpekIu7u+oTYJVxVm732VxIKdY7Qrt694YcjDu9UXGcwFMzxYsm3/fOGarFuAuoQbXXWyvU8+WFhKTD0sLiQaTt1LYZirkpFwV5FHmQ1uNHQkDYKHnLmVAvnciDI20K9zTmgviEXHzGB2Vc6yGuB90aGj+Qv0Dz/8xWYHw+HzH36RsUWUGR67nddKHMhkhgrxX8dLjxCNu47rHuHMpjmtrkKxeQTRMdsqHy8aw/2pf3j6I1OznGjZq0xtGQQz62HvPmvUJY42GttaGEqIMrpEz/2QUqI/NcCgPVTvyeaE5k8RzV3F6dIA9SbdWFnR+t05Nyia7ctUsgbj7+m9Z3/tKvLsUyrc74oQBaCXTzuN0GVUzRHave1ylAEo44sSl5Vqo7W4OM4BAESIxRmdHLpnyn8OiAC5ZnfiSbO/uT8cL0+tmWyYRQR28lXyX0OQppG1sayZ1qjAWrH6MMINeNhDLMoZ0LVtcJsACqu2NjUvPw==;EdPOgdDdAIdP5ZfYer/IFQ=="
 ---

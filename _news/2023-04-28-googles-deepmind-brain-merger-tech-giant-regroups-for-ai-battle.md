@@ -19,20 +19,6 @@ topics:
   - Google AI
 
 related:
-  - title: "DeepMind’s latest research at ICLR 2023"
-    excerpt: "Next week marks the start of the 11th International Conference on Learning Representations (ICLR), taking place 1-5 May in Kigali, Rwanda. This will be the first major artificial intelligence (AI) conference to be hosted in Africa and the first in-person event since the start of the pandemic. Researchers"
-    publishedDateTime: 2023-04-27T00:00:00Z
-    webUrl: "https://www.deepmind.com/blog/deepminds-latest-research-at-iclr-2023"
-    type: article
-    provider:
-      name: DeepMind
-      domain: deepmind.com
-    quality: 89
-    images:
-      - url: "https://assets-global.website-files.com/621e749a546b7592125f38ed/644a5309537e5d50d2de4a5e_deepmind-lISkvdgfLEk%20(1).jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Why Google DeepMind may be 'bad news' for the company"
     excerpt: "According to a report by The Financial Times, Google is risking internal turmoil by bringing DeepMind onboard. Citing people familiar with the matter,"
     publishedDateTime: 2023-04-29T10:20:00Z

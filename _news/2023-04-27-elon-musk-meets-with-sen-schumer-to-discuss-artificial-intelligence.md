@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna81696"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna81696"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Elon Musk Tries to Direct AI—Again"
+    excerpt: "His latest startup follows a decade of being outmaneuvered in his quest to steer the development of artificial intelligence."
+    publishedDateTime: 2023-05-01T15:09:00Z
+    webUrl: "https://www.wsj.com/articles/elon-musk-ai-chatgpt-artificial-intelligence-x-69464a1"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-771610/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Musk meets with Schumer as Senate looks into artificial intelligence"
     excerpt: "Artificial intelligence has been a focus of research for years, from Silicon Valley to the Pentagon and globally. Now, Senate Majority Leader Chuck Schumer, a New York Democrat, is considering legislation to regulate AI."
     publishedDateTime: 2023-04-27T18:53:00Z

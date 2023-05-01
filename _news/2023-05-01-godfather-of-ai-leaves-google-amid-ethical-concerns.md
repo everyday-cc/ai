@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/godfather-of-ai-leaves-google-amid-ethi
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/godfather-of-ai-leaves-google-amid-ethical-concerns-152451800.html"
 type: article
 quality: 104
-heat: 144
+heat: 174
 published: true
 
 provider:
@@ -31,6 +31,50 @@ images:
     isCached: true
 
 related:
+  - title: "'Godfather of AI' exits Google, concerned about multiple ethical problems"
+    excerpt: "Hinton worries unregulated AI could lead to waves of misinformation, lost jobs, and problems with fully automated weapons. It’s no secret that Google has been ramping up AI development to put out products that can compete with the likes of ChatGPT,"
+    publishedDateTime: 2023-05-01T17:30:00Z
+    webUrl: "https://www.androidauthority.com/google-ai-concerns-3319098/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 83
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2022/10/Google-Logo-Lights.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "‘Godfather of AI’ quits Google, warns of artificial intelligence dangers"
+    excerpt: "Geoffrey Hinton, who has been called the 'Godfather of AI,' confirmed Monday that he left his role at Google last week to speak out about the \"dangers\" of the technology he helped to develop."
+    publishedDateTime: 2023-05-01T16:18:00Z
+    webUrl: "https://wraltechwire.com/2023/05/01/godfather-of-ai-quits-google-warns-of-artificial-intelligence-dangers/"
+    ampWebUrl: "https://wraltechwire.com/2023/05/01/godfather-of-ai-quits-google-warns-of-artificial-intelligence-dangers/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/05/01/godfather-of-ai-quits-google-warns-of-artificial-intelligence-dangers/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 73
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2023/04/maximalfocus-0n4jhVGS4zs-unsplash-scaled-e1682089227197.jpg"
+        width: 2540
+        height: 1427
+        isCached: true
+  - title: "Deep learning pioneer Geoffrey Hinton leaves Google, warns of AI risks"
+    excerpt: "Hinton (pictured) also argued that researchers should slow AI development until the risks associated with the technology are more clearly understood. Hinton, a professor at the University of Toronto,"
+    publishedDateTime: 2023-05-01T17:41:00Z
+    webUrl: "https://siliconangle.com/2023/05/01/deep-learning-pioneer-geoffrey-hinton-leaves-google-warns-ai-risks/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/Geoffrey-Hinton.png"
+        width: 923
+        height: 524
+        isCached: true
   - title: "‘Godfather of AI’ quits Google to talk openly about the dangers of the rapidly emerging tech"
     excerpt: "Speaking with 'The New York Times,' Geoffrey Hinton says a part of him regrets his life's work on artificial intelligence."
     publishedDateTime: 2023-05-01T15:00:00Z

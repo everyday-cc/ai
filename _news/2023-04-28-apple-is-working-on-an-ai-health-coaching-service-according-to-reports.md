@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/apple-is-working-on-an-ai-h
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/apple-is-working-on-an-ai-health-coaching-service-according-to-reports/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -39,15 +39,6 @@ related:
       name: McKnight's Senior Living
       domain: mcknightsseniorliving.com
     quality: 33
-  - title: "Tesla's not even in the top 10 of self-driving firms, according to experts who ranked all of the leading companies working on automation"
-    excerpt: "The list comes at a particularly volatile time for the self-driving industry, which has faced a number of headwinds over the past year, including waning investor interest, less available funding ..."
-    publishedDateTime: 2023-04-27T00:00:00Z
-    webUrl: "https://www.businessinsider.com/tesla-sef-driving-not-in-top-ranked-autonomy-guidehouse-research-2023-3"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 16
 
 secured: "0me+ENTxVMpEC8QznnPwGS4TZSiMJYycY6jTl2P5uJNAJtDL8CvOI7Rj+v+JXYuyK2CHGUAwmvYKg8y+WC2H26BUz4NE8t8ekJLhxq0MpF0pR9M/Q6e5EvG+/YcXHt55rGk64ZCIFz8/xxb5j68MjCMG4PCugzXTP4T3fJDWkBSqX9BtuEG2RZCXlO7USrA+sSePk2RDK7aIDv/dMwHjx90gIiAaJvGFAdGH269CrIQR0hrnFYcgHMI8CmWCtbsyMVTlzhPfyiFBkQDYRNCMXY17nvr2bBJBZQ6fHPjWpx0+1lcsy0gLru42ZoIysydogunRfrqbxud2Nb4PmGZ4lQqZbbNutX/o1mxh9UnggHftdwP7bw2qNQOqXpHnHK5je2/dwlS56rBnC70M/XCb5UTzIimkNr5hScSqwzz3hOUFGyCgIO71J9KkFlfPMO+EjOJfMMUCWYUUug8C4RvsECuTVDzdoH6GZbyAVN2GjTkpEVxdiPbFcfZ5fGkbTxA/4mmYzbtmCDx5F2wAciyulg==;fkI72LP55lPjUcM4WYFDwA=="
 ---

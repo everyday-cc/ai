@@ -2,12 +2,12 @@
 category: news
 title: "AMP Robotics unveils new AI-enabled automated sortation solution, introduces integrated facility offering for new recycling infrastructure"
 excerpt: "AMP Robotics Corp. (\"AMP\"), a pioneer in artificial intelligence (AI), robotics, and infrastructure for the waste and recycling industry, now offers a complete line of AI-powered automation solutions for materials recovery facilities (MRFs),"
-publishedDateTime: 2023-05-01T14:40:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-amp-robotics-unveils-new-ai-enabled-automated-sortation-/2023/05/01/9804834.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-amp-robotics-unveils-new-ai-enabled-automated-sortation-/2023/05/01/9804834.htm"
+publishedDateTime: 2023-05-01T13:23:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/05/01/9804834.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/05/01/9804834.htm"
 type: article
-quality: 35
-heat: 35
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -15,8 +15,9 @@ provider:
   domain: tmcnet.com
 
 topics:
-  - AI in Robotics
+  - Computer Vision
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
@@ -24,6 +25,6 @@ images:
     height: 353
     isCached: true
 
-secured: "Ea+TZBSgGm/9QAA+CJsj+tiwnB9r5G4gEQHyD2KJ4yuQDwgithVGUuCemxxuHVYJymC8p4BAvPAuGMef3TnXBWRed6aC7p2RHsGwEMJm8nYgPhgNSGtH0GDOWUFsqO6t9yzROWxo9X5ByVn0y1nQv2C4dAzvdKnWcPoUmwLEgpfd/jDUOEAeU/lU6Ipyr4Tp/OIQ91lKO5AHrLSkRYbpzWbRfvbxAXIuxSENj3eePLggfmgOZxksZNkx5vejDqixNWVvD3vJmhvUdlIQ39g2e/dJjmf9f/DzmvDRfSMoqdaNGlX5dtW1ZiJCK5vG/NR+2xm4WoPD4wJFPQzpH/wBeaGGBgRsJ2oV3fERVNa6sFE=;5mTgQNHFBONchSzTetWR3w=="
+secured: "DrEOPhFZmszdXviLeIkeY1blCKFwjBKior0T0iKpjX+vNjTv6LdqKk/WWeVLB4vw3U+sxRdDjTZwrBNQeDyWSvclcfAGYEqDorduDA67tr12az/1OvC1Lx7tlWLUc1HZgIHjSYcEaQfV5E3gDhjD4jIKFa7F8egGO3qhmluFOnLZfgAMW1M2KsvyRD8gdvyfVtREbJ15TprncDbPFmyTQomjCoE2h4ZMbY68itXmnFPqQ7EkibLzw86oJY4rnBZXVzE8ZSieXqdWNZDjFrMLazAYCghb8PV+7CnshCcRnxAuzpb+sBNQWAhAtkTO+Y6tcRlabfR5MTgZbftlS1DlGCtYaBUl1VP9ksrcnlI1T10=;wIKSPAlVWxsUnwxs/s8Y2g=="
 ---
 

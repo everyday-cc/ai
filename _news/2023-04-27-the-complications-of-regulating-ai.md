@@ -73,6 +73,20 @@ related:
         width: 320
         height: 400
         isCached: true
+  - title: "Taylor Swift, AI and the copyright conundrum"
+    excerpt: "Ashley Moore, Annelise Raymond Alam and Enrico Trevisani of Michelman & Robinson LLP examine some of the novel issues surrounding AI and copyright such as when works are created by machines in response to an individual's creative input."
+    publishedDateTime: 2023-05-01T15:13:00Z
+    webUrl: "https://www.reuters.com/legal/legalindustry/taylor-swift-ai-copyright-conundrum-2023-05-01/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://www.reuters.com/resizer/f2mseeVk8wb7sZxOq-hglzcWT7c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/B3N7RTBJUNKBPNJOPMPEFW35G4.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "The rise of AI surveillance"
     excerpt: "Internet companies track our clicks to divine our preferences for products, news articles or ads. The facial recognition company Clearview AI scrapes images off sites like Facebook and YouTube to train its model. Facebook recently announced it will begin ..."
     publishedDateTime: 2023-04-28T12:59:00Z

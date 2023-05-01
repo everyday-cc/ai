@@ -117,6 +117,20 @@ related:
         width: 940
         height: 940
         isCached: true
+  - title: "Amazon, Microsoft and Alphabet deliver slower cloud growth. Here's how AI could reverse that trend"
+    excerpt: "Microsoft (MSFT) and Alphabet (GOOGL) continued to slow. But over the longer term, we expect growth to reaccelerate."
+    publishedDateTime: 2023-05-01T14:25:00Z
+    webUrl: "https://www.cnbc.com/2023/05/01/amazon-microsoft-and-alphabet-deliver-slower-cloud-growth-whats-ahead.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 70
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107191059-16758639962023-02-08t134132z_1009027201_rc2vfs94lvi1_rtrmadp_0_usa-treasury-cloud-computing.jpeg?v=1682958326&w=1920&h=1080"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Google, Microsoft, Amazon, & Meta put AI on steroids while cutting jobs"
     excerpt: "The IT behemoths Alphabet, Microsoft, Amazon, and Meta are increasing their large language model (LLM) investments as a show of their dedication to utilizing the power of artificial intelligence (AI) while cutting costs and jobs."
     publishedDateTime: 2023-04-29T15:51:00Z
@@ -130,20 +144,6 @@ related:
       - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/04/29/image/jpeg/CansC0Fg86ivCNtL2I5csadyaajvjydZxqrQjzeV.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "'AI All-Star' Microsoft's rosy earnings spark rally in tech stocks"
-    excerpt: "Microsoft Corp shares surged 8 per cent premarket on Wednesday and lifted tech stocks after the company's robust earnings eased fears of a slowdown in cloud computing and boosted confidence that artificial intelligence will become a major growth driver."
-    publishedDateTime: 2023-04-26T23:44:00Z
-    webUrl: "https://www.channelnewsasia.com/business/ai-all-star-microsofts-rosy-earnings-spark-rally-tech-stocks-3445701"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 54
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--Vo67vNLS--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-04-26t114428z_1_lynxmpej3p0i7_rtroptp_3_microsoft-results.jpg?itok=wYflrrTN"
-        width: 1200
-        height: 676
         isCached: true
   - title: "Here’s how Microsoft plans to reap billions from AI"
     excerpt: "The company hopes steal search revenue from Google, help businesses build their own chatbots and AI tools, and incorporate AI-enhanced productivity tools across its product lineup."

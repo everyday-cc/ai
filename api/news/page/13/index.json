@@ -2,6 +2,292 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2023-04-21-googlers-say-bard-ai-is-worse-than-useless-ethics-concerns-were-ignored.md",
+      "title": "Googlers say Bard AI is “worse than useless,” ethics concerns were ignored",
+      "excerpt": "From the outside, Google Bard looks like a rushed product to try to compete with ChatGPT, and some Google employees share those sentiments. A new report from Bloomberg interviews 18 current and former workers and came away with a pile of damning commentary and concerns about AI ethics teams that were \"disempowered and demoralized\" so Google could get Bard out the door.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/gadgets/2023/04/googlers-say-bard-ai-is-worse-than-useless-ethics-concerns-were-ignored/",
+      "originalUrl": "https://arstechnica.com/gadgets/2023/04/googlers-say-bard-ai-is-worse-than-useless-ethics-concerns-were-ignored/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2017/05/google-800x523.jpg",
+          "width": 760,
+          "height": 388,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/gadgets/2023/04/googlers-say-bard-ai-is-worse-than-useless-ethics-concerns-were-ignored/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/04/googlers-say-bard-ai-is-worse-than-useless-ethics-concerns-were-ignored/amp/",
+      "publishedDateTime": "2023-04-20T14:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-21-musk-counts-on-full-self-driving-as-next-tesla-profit-driver.md",
+      "title": "Musk counts on full self-driving as next Tesla profit driver",
+      "excerpt": "Elon Musk is counting on full-self driving and other new technologies and vehicles at Tesla Inc to provide the \"wow factor\" that will continue to drive the electric carmaker's value far beyond its automotive rivals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/business/autos-transportation/elon-musk-pins-hopes-full-self-driving-teslas-next-profit-driver-2023-04-20/",
+      "originalUrl": "https://www.reuters.com/business/autos-transportation/elon-musk-pins-hopes-full-self-driving-teslas-next-profit-driver-2023-04-20/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/YcLD5fOES_sah71H1pVHfpyp58k=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WWQOUJAWSZJC7ISK6ZUWNWL2VI.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-20T13:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-21-ai-ml-digital-twins-and-computer-vision-whats-really-driving-digital-strategy-experts.md",
+      "title": "AI, ML, Digital Twins and Computer Vision — What's Really Driving Digital Strategy? | Experts",
+      "excerpt": "Business leaders for the last few years have rushed to deploy the latest technology to better meet fluid customer demand. Many are now taking a closer look and realizing the need for unification of systems or platforms to drive real growth.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wwt.com/event/644186f14f6ec627759f23c7",
+      "originalUrl": "https://www.wwt.com/event/644186f14f6ec627759f23c7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wwt.com/api/attachments/6441a4aa21aeac56c2ec369c/thumbnail?width=1200",
+          "width": 1030,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-20T13:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WWT",
+        "domain": "wwt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-04-21-googles-big-ai-push-will-combine-brain-and-deepmind-into-one-team.md",
+      "title": "Google’s big AI push will combine Brain and DeepMind into one team",
+      "excerpt": "DeepMind, the artificial intelligence company acquired by Alphabet in 2014, is merging with Google’s Brain team to form Google DeepMind. In a post shared by Alphabet and Google CEO Sundar Pichai ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2023/4/20/23691468/google-ai-deepmind-brain-merger",
+      "originalUrl": "https://www.theverge.com/2023/4/20/23691468/google-ai-deepmind-brain-merger",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/2OKsk6E6aqZhadK6mskCDEIXAU0=/0x0:1920x1080/1200x628/filters:focal(960x540:961x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/24598872/64410a99d52cf88103c4b88c_GDM_16_9.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-20T11:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-21-amazon-announces-general-availability-of-codecatalyst-aws-developer-tools.md",
+      "title": "Amazon announces general availability of CodeCatalyst AWS developer tools",
+      "excerpt": "Invent 2022, where it was described by Amazon as a tool for professional developers to jumpstart applications on AWS using DevOps best practices. It gives them all the tools they need to provision cloud instances and infrastructure,",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2023/04/20/amazon-announces-general-availability-codecatalyst-aws-developer-tools/",
+      "originalUrl": "https://siliconangle.com/2023/04/20/amazon-announces-general-availability-codecatalyst-aws-developer-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/08/keyboard-gafbae8400_1280.jpg",
+          "width": 1280,
+          "height": 721,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-20T10:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-20-is-artificial-intelligence-becoming-smarter-than-humans.md",
+      "title": "Is artificial intelligence becoming smarter than humans?",
+      "excerpt": "More than 1,000 scientists, engineers, many of them leaders in the Big Tech industry, recently signed an open letter calling for a pause in the development of the newest artificial",
+      "sourceUrl": null,
+      "webUrl": "https://www.daytonatimes.com/commentaries/is-artificial-intelligence-becoming-smarter-than-humans/article_ec170ae8-df99-11ed-8e0d-bb1c7f2396d9.html",
+      "originalUrl": "https://www.daytonatimes.com/commentaries/is-artificial-intelligence-becoming-smarter-than-humans/article_ec170ae8-df99-11ed-8e0d-bb1c7f2396d9.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/daytonatimes.com/content/tncms/assets/v3/editorial/7/bd/7bdf133c-df9a-11ed-9675-b32d9f78d52b/64416be8a3611.image.png?resize=400%2C231",
+          "width": 400,
+          "height": 231,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-20T09:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daytona Times",
+        "domain": "daytonatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-20-ai-terminologies-101-understanding-computer-vision-and-its-applications.md",
       "title": "AI Terminologies 101: Understanding Computer Vision and Its Applications",
       "excerpt": "Computer Vision is a type of artificial intelligence (AI) that enables machines to interpret and understand the visual world. Computer Vision algorithms can analyse and extract information from ...",
@@ -899,282 +1185,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-20-microsoft-and-epic-partner-to-bring-gpt-4-and-generative-ai-to-healthcare-providers.md",
-      "title": "Microsoft and Epic partner to bring GPT-4 and generative AI to healthcare providers",
-      "excerpt": "Healthcare software giant Epic Systems Corp. said Monday it’s partnering with Microsoft Corp. to embrace generative artificial intelligence through its Azure AI platform. Under the partnership ...",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/04/18/microsoft-epic-partner-bring-gpt-4-generative-ai-healthcare-providers/",
-      "originalUrl": "https://siliconangle.com/2023/04/18/microsoft-epic-partner-bring-gpt-4-generative-ai-healthcare-providers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/04/neuroscience-doctor-holding-clipboard-showing-treatment-against-brain-disease-patient-with-eeg-headset-woman-sitting-neurological-scientific-laboratory-treating-nervous-system-dysfunctions-1.jpg",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-19T22:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-04-20-ai-powered-retina-scanning-startup-mediwhale-raises-9m.md",
-      "title": "AI-powered retina scanning startup Mediwhale raises $9M",
-      "excerpt": "Mediwhale, a startup that detects chronic disease with its AI-powered retina scans, raises $9M Series A funding.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/04/18/ai-powered-retina-scanning-startup-mediwhale-raises-9m/",
-      "originalUrl": "https://techcrunch.com/2023/04/18/ai-powered-retina-scanning-startup-mediwhale-raises-9m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-1333896598.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/04/18/ai-powered-retina-scanning-startup-mediwhale-raises-9m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/04/18/ai-powered-retina-scanning-startup-mediwhale-raises-9m/amp/",
-      "publishedDateTime": "2023-04-19T17:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-20-artificial-intelligence-being-used-at-omahas-chi-health-clinics.md",
-      "title": "Artificial intelligence being used at Omaha’s CHI Health clinics",
-      "excerpt": "OMAHA, Neb. (WOWT) - The types of AI that healthcare providers at CHI Health use are the kind patients rarely see. “This is all done to help the providers and the nurses, and it informs them ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wowt.com/2023/04/21/artificial-intelligence-being-used-omahas-chi-health-clinics/",
-      "originalUrl": "https://www.wowt.com/2023/04/21/artificial-intelligence-being-used-omahas-chi-health-clinics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-wowt-prod.cdn.arcpublishing.com/resizer/Hsw_OILhmQlPWzD1D8GAaqnUcuE=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/PT2T74TZ7JCYNPQLYYPTGDBOXY.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wowt.com/2023/04/21/artificial-intelligence-being-used-omahas-chi-health-clinics/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-wowt-com.cdn.ampproject.org/c/s/www.wowt.com/2023/04/21/artificial-intelligence-being-used-omahas-chi-health-clinics/?outputType=amp",
-      "publishedDateTime": "2023-04-19T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WOWT.com",
-        "domain": "wowt.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-20-autotech-ventures-new-230m-mobility-fund-adds-fintech-circular-economy-to-its-investment-strategy.md",
-      "title": "Autotech Ventures’ new $230M mobility fund adds fintech, circular economy to its investment strategy",
-      "excerpt": "Fintech, logistics, supply chain and the circular ... Autotech Ventures is also cautiously wading into generative AI, although Andreev was quick to note that the company has not made any ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/04/20/autotech-ventures-new-230m-mobility-fund-adds-fintech-circular-economy-to-its-investment-strategy/",
-      "originalUrl": "https://techcrunch.com/2023/04/20/autotech-ventures-new-230m-mobility-fund-adds-fintech-circular-economy-to-its-investment-strategy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/10/GettyImages-157650258.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/04/20/autotech-ventures-new-230m-mobility-fund-adds-fintech-circular-economy-to-its-investment-strategy/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/04/20/autotech-ventures-new-230m-mobility-fund-adds-fintech-circular-economy-to-its-investment-strategy/amp/",
-      "publishedDateTime": "2023-04-19T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-20-cellular-data-controlled-robot.md",
-      "title": "Cellular Data Controlled Robot",
-      "excerpt": "[Jatinderjit] sent along the latest in LEGO robotics. The cell phone controlled robot. It’s based on a LEGO Excavator kit with a few spare parts via ebay. The controller is a Nokia phone running ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2008/02/02/cellular-data-controlled-robot/",
-      "originalUrl": "https://hackaday.com/2008/02/02/cellular-data-controlled-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://hackaday.com/wp-content/uploads/2008/02/cell-bot-nokia.jpg",
-          "width": 262,
-          "height": 325,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-19T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-20-from-cozmo-to-vector-how-anki-designs-robots-with-emotional-intelligence.md",
-      "title": "From Cozmo to Vector: How Anki Designs Robots With Emotional Intelligence",
-      "excerpt": "Anki, the company behind Cozmo, says its mission is to “create robots that move you,” combining robotics and artificial intelligence to create technologies with which people can build emotional bonds. Cozmo isn't an industrial robot by any stretch.",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/electronics-test/cozmo-vector-how-anki-designs-robots-emotional-intelligence",
-      "originalUrl": "https://www.designnews.com/electronics-test/cozmo-vector-how-anki-designs-robots-emotional-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Vector_Lifestyle_007_noLogo.jpg",
-          "width": 6504,
-          "height": 3659,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-19T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

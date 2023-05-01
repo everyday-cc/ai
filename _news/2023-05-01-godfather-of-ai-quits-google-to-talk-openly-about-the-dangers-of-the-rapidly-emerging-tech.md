@@ -43,6 +43,50 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "'Godfather of AI' exits Google, concerned about multiple ethical problems"
+    excerpt: "Hinton worries unregulated AI could lead to waves of misinformation, lost jobs, and problems with fully automated weapons. It’s no secret that Google has been ramping up AI development to put out products that can compete with the likes of ChatGPT,"
+    publishedDateTime: 2023-05-01T17:30:00Z
+    webUrl: "https://www.androidauthority.com/google-ai-concerns-3319098/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 83
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2022/10/Google-Logo-Lights.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "‘Godfather of AI’ quits Google, warns of artificial intelligence dangers"
+    excerpt: "Geoffrey Hinton, who has been called the 'Godfather of AI,' confirmed Monday that he left his role at Google last week to speak out about the \"dangers\" of the technology he helped to develop."
+    publishedDateTime: 2023-05-01T16:18:00Z
+    webUrl: "https://wraltechwire.com/2023/05/01/godfather-of-ai-quits-google-warns-of-artificial-intelligence-dangers/"
+    ampWebUrl: "https://wraltechwire.com/2023/05/01/godfather-of-ai-quits-google-warns-of-artificial-intelligence-dangers/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/05/01/godfather-of-ai-quits-google-warns-of-artificial-intelligence-dangers/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 73
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2023/04/maximalfocus-0n4jhVGS4zs-unsplash-scaled-e1682089227197.jpg"
+        width: 2540
+        height: 1427
+        isCached: true
+  - title: "Deep learning pioneer Geoffrey Hinton leaves Google, warns of AI risks"
+    excerpt: "Hinton (pictured) also argued that researchers should slow AI development until the risks associated with the technology are more clearly understood. Hinton, a professor at the University of Toronto,"
+    publishedDateTime: 2023-05-01T17:41:00Z
+    webUrl: "https://siliconangle.com/2023/05/01/deep-learning-pioneer-geoffrey-hinton-leaves-google-warns-ai-risks/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/Geoffrey-Hinton.png"
+        width: 923
+        height: 524
+        isCached: true
   - title: "“Godfather of deep learning” Geoffrey Hinton quits Google to warn against dangers of AI"
     excerpt: "Geoffrey Hinton, who has been internationally distinguished for his work on artificial intelligence, has resigned from Google to warn about the dangers of the technology."
     publishedDateTime: 2023-05-01T14:53:00Z
@@ -81,6 +125,6 @@ related:
       domain: indiatimes.com
     quality: 27
 
-secured: "XXkt79ZKLtG0meaNb18t9iib28+BnpvaqpA84lqbItwFSHlA8nYSj5ippcUaAIlQgIRZzjD6h98czlzqLpn/wo/yMPrJLbaGuVj17zQaPzE8brRZKqhqHIki7i4Ef/ZXT92uQcFCFQaaKcEbgowadk3M+w+DKVpkR+aQLaCkxsO8YWwgyxetjbsPp+58l0ZOWee10JBHR4nWoZXD/gDmUqBFp8pW54+U1YVjzjOeWmv1li1Es+YGkfvg6I++oo/Yn+BNwhq7xjbkOPMIbhIDgf7raIKXQA8uNkNZUldjmr0wdBgBDiIHB3mcf1zT7HihuyMOIwdLdcso8YLVIt7FdOssUgTfggTg3pcYIaKDqwY=;M5w+Bau0LaDnux1Wk9niuQ=="
+secured: "pG9Wjt0h820ues8VKsmos7NGSc76hOM4m/yio4z3wbKKAZ+vqJW3O6lIHDkm8EoJssrmzUyFEmN1X9FEUCAvI881UWZ46LL2Wyu3ezO5deGNcJ5AZu1wHWXQvDgd52Iw7Y448gH4roXHBVr6QTKWtsj7VdBqD4qE8iQCiJnMK/lf9Gq4aIIzDdzW+rPIbGBGce4x2wQaXz0XQcY3IRz93rbZYe/N2I0oMom4WHEgVbhC4p4Gqd02ZZjdw8Y8mneDwkkDrc0ewbOjVJJcZvwnLk0bUwhPg+N42I8q2fQWMFbBqEDZuvKXy1z1TYPjDUbhuDhQni7uvtZdp8rmUas/nUehLNWYSEdoY95DN6JZJmYu9M1HnCqzOs6aLYk+VTGi0X0aa4UXBsKfzIhA6dOBeu3xrZEQqGPC/A4GLH71BlGL8QSRmYtE83U0kXEEJJzFUaruXzjttQx1SGFZdF9Ln6nxJ14YF+qjJTohq1T2CVv4Z93l9PH92DL9OiauTrNvtczr8yfybKQexLpQT6jeFw==;HRymV2tcJA+X6AlXOFXCOw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/28/making-the
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/28/making-the-most-out-of-generative-ai-in-your-enterprise/amp/"
 type: article
 quality: 89
-heat: 179
+heat: 189
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1347040940.jpg?w=1200&strip=all"
         width: 1200
         height: 631
+        isCached: true
+  - title: "Generative AI Tools Like ChatGPT And Bard Heralding Generational Shift In Job Roles. Adapt Or Risk Obsolescence"
+    excerpt: "The benefits and impact of Generative AI tools like ChatGPT on industries and job roles have only begun to occur, harbingering generational job role shifts."
+    publishedDateTime: 2023-05-01T15:59:00Z
+    webUrl: "https://www.forbes.com/sites/roomykhan/2023/05/01/generative-ai-tools-like-chatgpt-and-bard-heralding-generational-shift-in-job-roles-adapt-or-risk-obsolescence/"
+    ampWebUrl: "https://www.forbes.com/sites/roomykhan/2023/05/01/generative-ai-tools-like-chatgpt-and-bard-heralding-generational-shift-in-job-roles-adapt-or-risk-obsolescence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roomykhan/2023/05/01/generative-ai-tools-like-chatgpt-and-bard-heralding-generational-shift-in-job-roles-adapt-or-risk-obsolescence/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/644fdd5de31e3cc4caad4710/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 798
         isCached: true
   - title: "Top 8 AI Chips for Your Generative AI Play"
     excerpt: "The AI chip market is expected to grow at a CAGR of 51% and reach $73.49 billion by 2025. Semiconductor companies could capture 40-50% of the total market share. Companies such as Alphabet, Broadcom,"

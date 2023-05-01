@@ -39,6 +39,20 @@ related:
         width: 600
         height: 800
         isCached: true
+  - title: "Lotus’ Electric SUV Takes Tesla to Task on Performance and Self-Driving"
+    excerpt: "The Eletre is coming to the U.S. with a 0 to 62 mph of less than three seconds and plans to incorporate level 4 autonomous driving capabilities."
+    publishedDateTime: 2023-05-01T17:30:00Z
+    webUrl: "https://www.inverse.com/tech/lotus-electric-suv-eletre-tesla-performance-self-driving"
+    type: article
+    provider:
+      name: Inverse
+      domain: inverse.com
+    quality: 39
+    images:
+      - url: "https://imgix.bustle.com/uploads/image/2023/5/1/3af8734c-9f96-43ce-9207-9a0a090e83a4-lotus-eletre-hero-image_1.jpg?w=1200&h=630&fit=crop&crop=focalpoint&fm=jpg&fp-x=0.4253&fp-y=0.5735"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Aurora self-driving truck service to launch in 2024"
     excerpt: "Comment Now! Aurora Innovation, the self-driving technology startup founded by Chris Urmson, one of the original engineers of the Google Self-"
     publishedDateTime: 2023-04-27T10:00:00Z
