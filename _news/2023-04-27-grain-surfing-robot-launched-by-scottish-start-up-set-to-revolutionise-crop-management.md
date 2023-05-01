@@ -7,7 +7,7 @@ originalUrl: "https://www.scotsman.com/country-and-farming/grain-surfing-robot-l
 webUrl: "https://www.scotsman.com/country-and-farming/grain-surfing-robot-launched-by-scottish-start-up-set-to-revolutionise-crop-management-4119021"
 type: article
 quality: 46
-heat: -1
+heat: 46
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Grain-surfing robot the latest innovation to set up home at the National Robotarium"
-    excerpt: "A unique burrowing robot which ‘swims’ through grain bulks is being developed at the National Robotarium centre for robotics and AI, based at at Heriot-Watt."
-    publishedDateTime: 2023-04-26T10:42:00Z
-    webUrl: "https://www.hw.ac.uk/news/articles/2023/grain-surfing-robot-the-latest-innovation-to.htm"
-    type: article
-    provider:
-      name: Heriot-Watt University
-      domain: hw.ac.uk
-    quality: 48
-    images:
-      - url: "https://www.hw.ac.uk/img/Crovernews.jpeg"
-        width: 680
-        height: 453
-        isCached: true
 
 secured: "fjTF7Srobe+rjv7lkGGqO5c9E1Sl3qr5o/9Kxz3TastshWeXSvidNLdpOeqAb8hK2yyycHSD1MHXrinu+CipTwMIORd6G9e7jWWfRDKqcQlrp+zYb9KD+ozAoUfzfAJAaC1Jyr2AuLsFtS696tYG2tsNCg36EFGrfWhlHoSsnwv2Uz52AovyVaO6KngwSeGeOvgFv6CfE6LiZx9FtIRB4+JzdIdTarD2PrfS5391cYEjUPwoXbr7YdL0Y6NTJFPHU2do6UuHAMHEYIQ1GgpYzQxDmGf0Su7DrK1cjPNVqX9bqpH7WEvhxCSpDS/BKjgcrK/gshqFrRv2Hz0xtWXhMO9KTD+v+W1wAGqjCA6NUgU=;w8hXIQEBoL9e8wfGjip+eg=="
 ---

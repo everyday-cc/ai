@@ -34,6 +34,15 @@ related:
       name: The Motley Fool
       domain: fool.com
     quality: 49
+  - title: "2 AI Stocks To Watch In May 2023"
+    excerpt: "As a result, AI has become an essential component in a variety of industries. Such as healthcare, finance, manufacturing, and transportation, among others. The growing need for smart automation and data-driven decision-making has encouraged organizations to make significant investments in AI technologies,"
+    publishedDateTime: 2023-04-30T22:51:00Z
+    webUrl: "https://www.nasdaq.com/articles/2-ai-stocks-to-watch-in-may-2023"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 47
   - title: "AI wants to know what dove is"
     excerpt: "Schnabel is probably too near the centre of the ECB because her most hawkish speeches have all been recent, so they haven’t yet moved the average. Broadbent probably over-indexes as a dove because he speaks rarely and cagily. The opposite may be true of Pill and his unique presentation style. Etc."
     publishedDateTime: 2023-04-27T14:33:00Z

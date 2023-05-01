@@ -119,15 +119,6 @@ related:
       name: manilatimes
       domain: manilatimes.net
     quality: 4
-  - title: "Inside the booming fintech industry in Nigeria: trends and opportunities"
-    excerpt: "The world of finance is changing rapidly thanks to modern technology, and nowhere is this more evident than in Nigeria's FinTech industry. With innovative startups cropping up left and right, the country has become a hub for financial technology innovation."
-    publishedDateTime: 2023-04-26T10:00:00Z
-    webUrl: "https://www.vanguardngr.com/2023/04/inside-the-booming-fintech-industry-in-nigeria-trends-and-opportunities/"
-    type: article
-    provider:
-      name: Vanguard
-      domain: vanguardngr.com
-    quality: 3
   - title: "Fintech BUNKER Selects InvestCloud to Launch Digital App, Providing Access to US Investment Markets for HNWIs in LatAm"
     excerpt: "InvestCloud selected by BUNKER, a fintech seeking to democratize access to the US markets for Latin Americans, to launch investment platform."
     publishedDateTime: 2023-04-28T19:30:00Z

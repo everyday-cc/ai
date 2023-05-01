@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Deep Instinct Announces Strategic Partnership with eSentire"
-excerpt: "The strategic partnership between Deep Instinct and eSentire will not only enable go-to-market collaboration but will augment eSentire's award-winning threat response capabilities with technological integrations designed specifically to predict and prevent unknown and zero-day threats."
-publishedDateTime: 2023-04-24T13:25:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/04/24/9800231.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/04/24/9800231.htm"
+excerpt: "Deep Instinct, the first cybersecurity company that stops unknown malware pre-execution with a purpose-built, AI-based deep learning (DL) framework, today announced a new partnership with eSentire, a leader in Managed Detection and Response (MDR) cybersecurity services."
+publishedDateTime: 2023-04-24T13:01:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/deep-instinct-announces-strategic-partnership-with-esentire/article_cde74693-495c-5406-8783-5513f943b639.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/deep-instinct-announces-strategic-partnership-with-esentire/article_cde74693-495c-5406-8783-5513f943b639.html"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
-    width: 550
-    height: 353
+  - url: "https://static.cnhionline.com/ksherman/images/575801-RTJ-Masters-Package-300x250.gif"
+    width: 300
+    height: 250
     isCached: true
 
-secured: "UDEo6YZyr1p04vfLnWw4oJ5OgqOx0B7obQRdL2ZjXVWGEkf02xkd53/eF+wj/sYRkqtEL0EAQIPYizmz7lXEobin1u/IXZf4iELOgTerXaUatGKlbyXd8Dlibx4XABVypN9QTNhAZXKNXopedLwQi8fxYWzPHXt+tNO0dApBxv9aydKiNB7nz9+6eRvq4dDqXAIh4XniT0Ka5e+bko0yVYJWRgvqbhhYa9p3+I4U9/8Yf7huGfGc2zaKXMchKJseM+dvpvGkqr/BvXYehQoujjziWdJI70tO3Oul4KFg8e1wqYSYJK75PEE44eP3z2WbN8Ww77XwMaW00qSWF+GIO3ej+tidw9GPmUt7loyTc1Y=;PONdumk+TMJXnKkUnXOzOg=="
+secured: "fGrwAjeZ9SCcqUK+7jLx+U7QJY2oJ3TmZupjhspRE/vdQHhr3Xk9PaPjCotzYPQlNJBZj6oUT9H17Jp0S50QJ66azmktSRodmU+X9o30bYG5wTgMKYA6zalPd0uyc50lW+MaXLwmQ4cY1Feol9cr8R7viLmF6fJTiJiu1e6VqZ1TNEz1yX2RuIBagFGmjrXIl3+EUcS2bZ4qXLuiL9m96vTAQpBstJzowHwjb84mBVTtjQYK5WNADLtrRiQ68RnH6ozar9236DvWbWlaXM111LvcnSqqSgIL2mOZA8Vy7yyXymLj4JTf+wK3qGEkqLWuPLkX/ecDC9dthaGTH/F/Tbsh6U570BxMi96sWm6B5C4=;2JvJ6BzkNMb1x2kA/2pkWA=="
 ---
 

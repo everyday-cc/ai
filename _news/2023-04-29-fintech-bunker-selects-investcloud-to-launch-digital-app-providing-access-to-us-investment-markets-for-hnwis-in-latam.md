@@ -123,15 +123,6 @@ related:
       name: manilatimes
       domain: manilatimes.net
     quality: 4
-  - title: "Inside the booming fintech industry in Nigeria: trends and opportunities"
-    excerpt: "The world of finance is changing rapidly thanks to modern technology, and nowhere is this more evident than in Nigeria's FinTech industry. With innovative startups cropping up left and right, the country has become a hub for financial technology innovation."
-    publishedDateTime: 2023-04-26T10:00:00Z
-    webUrl: "https://www.vanguardngr.com/2023/04/inside-the-booming-fintech-industry-in-nigeria-trends-and-opportunities/"
-    type: article
-    provider:
-      name: Vanguard
-      domain: vanguardngr.com
-    quality: 3
 
 secured: "cFsO/C4mxfJqFIIzsHw0GiLpzLdIKOcB7SUUYiLKXnos7gvExdW5XyVMo3jW6sTQF0N/oF/ohlEX7/iQAYU6xflzhNZ7T0qmCAkY64QC90EM04MR8L/nTNDAeQ5OaBUwI7VCIHjKuSPHilE7u5U+GgZiyoxwPnlGjPcFTlywZDkvY+GM4jNtvmWvaHh9AIklgNhQzDPUpDXC6CAVZ00CPLbppYNIVt0L+62z8VJY2hoBKuo7z9Aw4saneBQEgguMnK5Uw/9K4ZPmP56el8BG6ZjKlY8XY5HdwdmZoJtTsscGCMWDGqvE58cTrrRjTptP8p0MBnBbyrqD8t51USO/c3rmhPtEoAQmFNbcqsNK1v8xqBnC4+oGc+vQFJmWoDV8FaPs9VFOTMjgcR1g5Hley0w4YTqW/VGl+D13lzXobkgsPB8HGmyY2N59Y+hTHr5/HQHAUOBW0v3Buc0gbefzCp3qDDSrOqG3FJX9Gf+er6W5zxH4zEU5ndrtpv6XVyVqcuhzgoApwY1G35QC6UrStw==;6+m3/p0qpKv+39uhNTA9WQ=="
 ---

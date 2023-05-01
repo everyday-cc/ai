@@ -203,22 +203,31 @@
       ]
     },
     {
-      "path": "_news/2023-04-27-machine-learning-in-retail-market-size-business-segments-innovative-strategies-and-outlook-by-2030-ibm-microsoft-amazon-web-services.md",
-      "title": "Machine Learning in Retail Market Size, Business Segments, Innovative Strategies And Outlook by 2030| IBM, Microsoft, Amazon Web Services",
-      "excerpt": "The Machine Learning in Retail Market research report encompasses a thorough study of the current situation of the",
+      "path": "_news/2023-04-27-machine-learning-in-medical-imaging-market-demand-and-competitive-analysis-by-key-players-to-2030-zebra-arterys-aidoc.md",
+      "title": "Machine Learning in Medical Imaging Market Demand and Competitive Analysis by Key Players to 2030| Zebra, Arterys, Aidoc",
+      "excerpt": "The Machine Learning in Medical Imaging Market research report encompasses a thorough study of the current situation of",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-in-retail-market-size-business-segments-innovative-strategies-and-outlook-by-2030-ibm-microsoft-amazon-web-services-2023-04-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-in-retail-market-size-business-segments-innovative-strategies-and-outlook-by-2030-ibm-microsoft-amazon-web-services-2023-04-27",
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-in-medical-imaging-market-demand-and-competitive-analysis-by-key-players-to-2030-zebra-arterys-aidoc-2023-04-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-in-medical-imaging-market-demand-and-competitive-analysis-by-key-players-to-2030-zebra-arterys-aidoc-2023-04-27",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 79,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T00:36:00-07:00",
+      "publishedDateTime": "2023-04-27T00:29:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -242,9 +251,7 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI",
-        "AWS AI",
-        "Microsoft AI"
+        "AI"
       ]
     },
     {
@@ -494,34 +501,34 @@
     {
       "path": "_news/2023-04-25-announcing-lityxiq-60-powering-predictive-business-decisions-through-next-gen-machine-learning.md",
       "title": "Announcing LityxIQ 6.0 - Powering Predictive Business Decisions Through Next-Gen Machine Learning",
-      "excerpt": "Lityx makes its leading alternative AI and MLOps platform easier to deliver value for organizations focused on digital transformationWILMINGTON,",
+      "excerpt": "Lityx makes its leading alternative AI and MLOps platform easier to deliver value for organizations focused on digital transformation WILMINGTON, Del.,  /PRNewswire/ -- Lityx, LLC today announced the release of LityxIQ 6.",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/announcing-lityxiq-6-0-powering-predictive-business-decisions-through-next-gen-machine-learning-1032258784",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/announcing-lityxiq-6-0-powering-predictive-business-decisions-through-next-gen-machine-learning-1032258784",
+      "webUrl": "https://it.tmcnet.com/news/2023/04/25/9801468.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2023/04/25/9801468.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png",
+          "width": 550,
+          "height": 353,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-25T06:54:00-07:00",
+      "publishedDateTime": "2023-04-25T08:51:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -530,9 +537,8 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -690,19 +696,19 @@
     {
       "path": "_news/2023-04-24-deep-instinct-announces-strategic-partnership-with-esentire.md",
       "title": "Deep Instinct Announces Strategic Partnership with eSentire",
-      "excerpt": "The strategic partnership between Deep Instinct and eSentire will not only enable go-to-market collaboration but will augment eSentire's award-winning threat response capabilities with technological integrations designed specifically to predict and prevent unknown and zero-day threats.",
+      "excerpt": "Deep Instinct, the first cybersecurity company that stops unknown malware pre-execution with a purpose-built, AI-based deep learning (DL) framework, today announced a new partnership with eSentire, a leader in Managed Detection and Response (MDR) cybersecurity services.",
       "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/04/24/9800231.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/04/24/9800231.htm",
+      "webUrl": "https://www.joplinglobe.com/region/national_business/deep-instinct-announces-strategic-partnership-with-esentire/article_cde74693-495c-5406-8783-5513f943b639.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/deep-instinct-announces-strategic-partnership-with-esentire/article_cde74693-495c-5406-8783-5513f943b639.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png",
-          "width": 550,
-          "height": 353,
+          "url": "https://static.cnhionline.com/ksherman/images/575801-RTJ-Masters-Package-300x250.gif",
+          "width": 300,
+          "height": 250,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -712,11 +718,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-24T06:25:00-07:00",
+      "publishedDateTime": "2023-04-24T06:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
         "images": null,
         "publishers": null,
         "authors": null

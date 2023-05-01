@@ -28,6 +28,15 @@ related:
       name: The Motley Fool
       domain: fool.com
     quality: 49
+  - title: "2 AI Stocks To Watch In May 2023"
+    excerpt: "As a result, AI has become an essential component in a variety of industries. Such as healthcare, finance, manufacturing, and transportation, among others. The growing need for smart automation and data-driven decision-making has encouraged organizations to make significant investments in AI technologies,"
+    publishedDateTime: 2023-04-30T22:51:00Z
+    webUrl: "https://www.nasdaq.com/articles/2-ai-stocks-to-watch-in-may-2023"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 47
   - title: "The Future of Tech: AI Stocks to Keep on Your Radar"
     excerpt: "AI reminds one of the internet's early days, more flash than substance. Years later, the internet is the foundation of today's modern economy. AI could similarly be the future of the technology industry."
     publishedDateTime: 2023-04-27T11:35:00Z

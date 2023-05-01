@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/nsa-rob-joyce-chatgpt-security/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/nsa-rob-joyce-chatgpt-security/amp"
 type: article
 quality: 87
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -61,22 +61,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/04/annevb_Cybersecurity_meets_artificial_intelligence_AI_making_se_980107ce-9d5e-47af-9002-48f47fc5a493.png?w=1200&strip=all"
         width: 1200
         height: 600
-        isCached: true
-  - title: "The big cybersecurity risks when ChatGPT and AI are secretly used by employees"
-    excerpt: "Generative AI is seeping into the workplace, whether companies approve of its use or not, and cybersecurity caution is needed with these breakthrough chatbots."
-    publishedDateTime: 2023-04-30T12:11:00Z
-    webUrl: "https://www.cnbc.com/2023/04/30/the-big-cyber-risks-when-chatgpt-and-ai-are-secretly-used-by-employees.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2023/04/30/the-big-cyber-risks-when-chatgpt-and-ai-are-secretly-used-by-employees.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/04/30/the-big-cyber-risks-when-chatgpt-and-ai-are-secretly-used-by-employees.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 83
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107206075-1678389148948-gettyimages-1246494152-AFP_337P9F8.jpeg?v=1682863975"
-        width: 7885
-        height: 5257
         isCached: true
   - title: "Announcements at RSAC 2023 show alliances, AI defining the future of cybersecurity"
     excerpt: "RSAC 2023 showed AI and new partnerships are now key to cybersecurity, with efficacy and visibility among the essential goals."

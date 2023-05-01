@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2023/04/28/health/chatgpt-patient-advice-stu
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/04/28/health/chatgpt-patient-advice-study-wellness/index.html"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "ChatGPT is giving therapy. A mental health revolution may be next"
-    excerpt: "While not the most original advice, it resembles what might be heard in a therapist’s office or read online in a WebMD article about anxiety – not least because ChatGPT scrapes its answers from the wide expanse of the internet."
-    publishedDateTime: 2023-04-27T08:15:00Z
-    webUrl: "https://www.aljazeera.com/economy/2023/4/27/could-your-next-therapist-be-ai-tech-raises-hopes-concerns"
-    ampWebUrl: "https://www.aljazeera.com/amp/economy/2023/4/27/could-your-next-therapist-be-ai-tech-raises-hopes-concerns"
-    cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/economy/2023/4/27/could-your-next-therapist-be-ai-tech-raises-hopes-concerns"
-    type: article
-    provider:
-      name: Al Jazeera English
-      domain: aljazeera.com
-    quality: 59
-    images:
-      - url: "https://www.aljazeera.com/wp-content/uploads/2023/04/GettyImages-1003090056-1682491149.jpg?resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "AI has better ‘bedside manner’ than some doctors, study finds"
     excerpt: "ChatGPT rated higher in quality and empathy of written advice, raising possibility of medical assistance role"
     publishedDateTime: 2023-04-28T14:00:00Z

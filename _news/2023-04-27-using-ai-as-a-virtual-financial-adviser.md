@@ -53,22 +53,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 76
-  - title: "ChatGPT and Generative AI in Financial Services: Reality, Hype, What's Next, and How to Prepare"
-    excerpt: "Payments, banking, and insurance players are eager to understand generative AI's potential and put it to work."
-    publishedDateTime: 2023-04-28T17:30:00Z
-    webUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-in-financial-services-hype-next-prepare-2023-april"
-    ampWebUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-in-financial-services-hype-next-prepare-2023-april?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-and-generative-ai-in-financial-services-hype-next-prepare-2023-april?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 75
-    images:
-      - url: "https://i.insider.com/64403454632fda001803b2e0?width=1200&format=jpeg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "AI and Customer Experience in Fintech: Personalizing Financial Services"
     excerpt: "With the help of AI, Fintech companies are personalizing financial services to provide a more customer-centric experience. In this blog post, we will dig into how AI reshapes customer experience in the financial industry. Chatbots and Virtual Assistants ..."
     publishedDateTime: 2023-04-29T17:17:00Z

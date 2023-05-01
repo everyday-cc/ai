@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/facial-recognition-marke
 webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-report-by-2023-2030-2023-04-28"
 type: article
 quality: 69
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global AI for Speech Recognition Market 2023 [New Report] | Industry Size and Revenue Expand till 2030 | 122 Pages Report"
-    excerpt: "The AI for Speech Recognition Market (2023-2030) Updated Latest Research Report is divided into various types [Software, Hardware] and applications [Smart Home, Vehicle System, Medical and Healthcare,"
-    publishedDateTime: 2023-04-26T09:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-for-speech-recognition-market-2023-new-report-industry-size-and-revenue-expand-till-2030-122-pages-report-2023-04-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Face Recognition Door Lock Market Size 2023, Latest Trends, COVID-19 Impact and Global Competition"
     excerpt: "The global “Face Recognition Door Lock Market Size” is expected to rise with an impressive CAGR and generate the"
     publishedDateTime: 2023-04-30T09:05:00Z

@@ -21,19 +21,28 @@ topics:
   - AI
 
 related:
-  - title: "AI Could Spell the End of Big Business"
-    excerpt: "The leading companies in artificial intelligence tend to be small, and many big ones will use it to get smaller."
-    publishedDateTime: 2023-04-26T11:00:00Z
-    webUrl: "https://www.bloomberg.com/opinion/articles/2023-04-26/ai-could-spell-the-end-of-big-business"
+  - title: "AI Trends In Education And The Workforce That You Should Know About In 2023"
+    excerpt: "The field of Artificial Intelligence is evolving so quickly that nearly every industry is being impacted seemingly overnight."
+    publishedDateTime: 2023-04-27T18:18:00Z
+    webUrl: "https://www.forbes.com/sites/sergeirevzin/2023/04/27/ai-trends-in-education-and-the-workforce-that-you-should-know-about-in-2023/"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
+      name: Forbes
+      domain: forbes.com
+    quality: 62
+  - title: "AI for STEM Education"
+    excerpt: "Enhance STEM education with resources and discussions that investigate the world of artificial intelligence, chatbots, and machine learning."
+    publishedDateTime: 2023-04-28T16:12:00Z
+    webUrl: "https://www.sciencefriday.com/articles/ai-for-stem-education/"
+    type: article
+    provider:
+      name: Science Friday
+      domain: sciencefriday.com
+    quality: 56
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9rRKQiMCs54/v1/1200x800.jpg"
-        width: 1200
-        height: 800
+      - url: "https://www.sciencefriday.com/wp-content/uploads/2023/04/Copy-of-Getting-Started-with-AI-Instagram-Post-Square.png?w=400"
+        width: 400
+        height: 400
         isCached: true
 
 secured: "R7PvyiRi89hLr1q7QqJvITCBlOs/7vAjCuvIzqP4VPVQ8yGqP4tB9qSRsCBeGNXaYIDzMnyWDsHe+/r10ihcNYo4Kwae3RAUeRVLjTeATWD4PFLlsHG+er4Lseu5Of5eRkBXqQdSA0JLDCluKmpsgkakhI1Zn0Kxrk+MRITuQjAEfJ9djjFjUgFgP0KtVQM8cthP6k6Kl8I8uRuA5i62coxhMsUhvUtWhi8bhuffXYAYsVCQ0mbTUKWuaUj4UiUqPMlANEWR9ysbJet3ZM5XQV1sMTe/b9Gzaac9tZSDmRz/kL9HEGMK0mB6+hYNLcXQC89e8Li8CxiZTgKEX1MB4aw8FC2yk7RjJWuBE0MRNpA=;ym4KlB7BC6H+/lUlgiA5pg=="

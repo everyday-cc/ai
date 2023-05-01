@@ -7,8 +7,8 @@ originalUrl: "https://www.techradar.com/news/pwc-is-making-a-dollar1-billion-bet
 webUrl: "https://www.techradar.com/news/pwc-is-making-a-dollar1-billion-bet-on-business-ai"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: TechRadar
@@ -29,64 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "PwC US to invest $1 billion for expanding generative AI capabilities in collaboration with Microsoft"
-    excerpt: "PricewaterhouseCoopers (PwC) unveiled plans to invest $1B in expanding its artificial intelligence (AI) portfolio through generative AI."
-    publishedDateTime: 2023-04-26T18:31:00Z
-    webUrl: "https://venturebeat.com/ai/pwc-us-to-invest-1-billion-for-expanding-generative-ai-capabilities-in-collaboration-with-microsoft/"
-    ampWebUrl: "https://venturebeat.com/ai/pwc-us-to-invest-1-billion-for-expanding-generative-ai-capabilities-in-collaboration-with-microsoft/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/pwc-us-to-invest-1-billion-for-expanding-generative-ai-capabilities-in-collaboration-with-microsoft/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/04/PwC.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Microsoft's AI will now help you design your Instagram posts in seconds"
-    excerpt: "Microsoft Designer is now available to try out in preview for free. It uses AI-based text-to-image generation to create social media posts."
-    publishedDateTime: 2023-04-28T05:03:00Z
-    webUrl: "https://www.androidauthority.com/microsoft-designer-social-media-posts-ai-3318234/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 84
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2023/04/Microsoft-Designer-AI.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Microsoft 'holding a lot of the cards' in AI-powered search war with Google"
-    excerpt: "Microsoft didn’t mention Bing once on its earnings call. The search engine hasn’t been a big growth driver for Microsoft in the past. That's changing."
-    publishedDateTime: 2023-04-26T17:22:00Z
-    webUrl: "https://www.aol.com/finance/microsoft-holding-lot-cards-ai-171612672.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 52
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/rEQvskN4tIZdTSt1jmNJoA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/5ad4fc321a52c21d694cdbe3d7565c03"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "PricewaterhouseCoopers announces multiyear $1B investment into generative AI"
-    excerpt: "PricewaterhouseCoopers LLP announced plans today to invest $1 billion in generative artificial intelligence that will expand its offerings for clients in the U.S. to use the technology to power their businesses."
-    publishedDateTime: 2023-04-26T20:46:00Z
-    webUrl: "https://siliconangle.com/2023/04/26/pricewaterhousecoopers-announces-multiyear-1b-investment-generative-ai/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 36
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/artificial-intelligence-g47a8f3489_1280.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Accounting giant PricewaterhouseCoopers embraces ChatGPT AI, plans $1 billion investment"
     excerpt: "PricewaterhouseCoopers (PwC) plans to invest $1 billion in generative artificial intelligence (AI) technologies in its US operations over the next three years."
     publishedDateTime: 2023-04-27T13:04:00Z
@@ -118,15 +60,6 @@ related:
     provider:
       name: Axios
       domain: axios.com
-    quality: 19
-  - title: "The ODP Corporation Expands Collaboration with Microsoft to Leverage the Power of AI Technology from Microsoft Azure OpenAI Service"
-    excerpt: "“We are delighted that ODP has chosen Microsoft Azure OpenAI service as its solution for integrating transformational AI capabilities into critical business processes and systems,” said Eric ..."
-    publishedDateTime: 2023-04-26T12:33:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20230426005391/the-odp-corporation-expands-collaboration-with-microsoft-to-leverage-the-power-of-ai-technology-from-microsoft-azure-openai-service"
-    type: article
-    provider:
-      name: Morningstar
-      domain: morningstar.com
     quality: 19
 
 secured: "OzmNLD3960R57luYWGguLJWQj6MKbXpxcg8WjIge8JjLXB0zYnIZ0VcGf/e6FmVPiGblm0Oo6w6w0SBH3gFMwMrlrGyJT3ibjCfH6xwsRgp2ejJkgoghVXakKjYTD/Br4JD5/jvjRltBEUSD3r/Skp4DsQDoAR6qMc/UgSsTpVMpV1CZIfnsCZpqwoiop0kZN1HgvuWvwXuDq/lMT+O3SW97PU/qbtHA9iEYgghLp9vvPZG0oDDJH0ZheMdb31zLvntZypRuvxTzOsIDZsBbsqxQALYEyPZmuQi8pweO/je9hVaYggAyHgyTRcYr+fep7FZ1p/BNL6VMmUk7Q8yTgDmALdyIg3SH13mTcMh2ewM=;ApVFDhS8KpKuW63Ft4e2LQ=="
