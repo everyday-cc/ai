@@ -2,30 +2,26 @@
 category: news
 title: "Interprefy unveils next-generation AI event translator Aivia"
 excerpt: "Experience the full interactive Multichannel News Release here: Multilingual meeting technology and services provider Interprefy has today unveiled Interprefy Aivia, the world's first advanced automated speech translation service for online and live events,"
-publishedDateTime: 2023-04-26T11:01:00Z
-originalUrl: "https://www.marketwatch.com/press-release/interprefy-unveils-next-generation-ai-event-translator-aivia-2023-04-26"
-webUrl: "https://www.marketwatch.com/press-release/interprefy-unveils-next-generation-ai-event-translator-aivia-2023-04-26"
+publishedDateTime: 2023-04-26T12:23:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-interprefy-unveils-next-generation-ai-event-translator-aivia-/2023/04/26/9802122.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-interprefy-unveils-next-generation-ai-event-translator-aivia-/2023/04/26/9802122.htm"
 type: article
-quality: 69
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
+    width: 550
+    height: 353
     isCached: true
 
 related:
@@ -44,6 +40,6 @@ related:
         height: 640
         isCached: true
 
-secured: "k2ex89d8Y4wWujnp1xjqAA460/I1kBiR/GRNALhZpdO0uvE15Iqep1dP3QKoiwYs0fhshG3QBE6t/aYy4EuqKuiT6qML6k3QCVOLXebS7vnb/aAc29lc4+F/2ukn6oQk9bDj+r64ACh8yeEBzzyLHcAjb91NmU5RqE0Tp7CdweLWQQo2gMMx2U09kc2jIKTcYOWKVrtaZVxLYe6J2+9o6cRYbaiSO0SIhZxK5Bn4id8Ve3fgt6YH6HvMMBhwUvs6opOdvxNEGasmpcQuX3vkFrMdbK6RPrAP4enU//B2Pyd+8x+3MyTIjqhIehMWsjpKQuYXSG886U5TyMdIyLcSjTyijG5jYJM0D9042L5xZWY=;Uf3iiMSSgQPr9jVZx6wl4w=="
+secured: "om3Qu+i2pgy9+ryHliq1b0EsKyn8xNaXRxs74+1hdpweFjzhBmsJEV5NbTKF8d+LySqc0OM3KsygI2yZfCotpOYDTl/RXlF9lFiuqhFJqSyw8m/4TotOXAUd+y3PuloIKU9zqapzbN/vbVAxPFzgI4ZfMycVTW14Fbq0dOqTV6QJlysLAf0ZlRBUDMB2YmuDWGu+y56RXXV1f5kszNMWOj2b77U3C7gDODj0VOmMBWiz7w/fAp+BseiA51hnOFlbyiQPDX4GFO4rxy7UrkrMJfELpDvpoPRLO9abUXRwF4xlCfdjry52t1yiOXwBTzgPpc606RkSaTcwQs+ZSWS3of10ahmy5aPRShz2Lvot5+s=;9nJSpHyZ8EnsNoFyaxqGNQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/google-microsoft-and-meta-each-said-ai-ne
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/google-microsoft-and-meta-each-said-ai-nearly-50-times-on-earnings-calls-heres-why-we-should-all-care/amp/"
 type: article
 quality: 88
-heat: 118
+heat: 108
 published: true
 
 provider:
@@ -32,20 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Deep Learning Software Market Future Trends Outlook 2023, and Forecast to 2030 | Microsoft, Google, IBM"
-    excerpt: "The most important motive of Deep Learning Software Market studies is to collect the maximum beneficial insights for"
-    publishedDateTime: 2023-04-26T06:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-software-market-future-trends-outlook-2023-and-forecast-to-2030-microsoft-google-ibm-2023-04-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 70
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Google and Microsoft Are Gaining on AWS: Here's Why Amazon Isn't Worried"
     excerpt: "Google Cloud and Microsoft's (NASDAQ: MSFT) Azure are gaining ground on Amazon (NASDAQ: AMZN) Web Services (AWS). Alphabet reported that Google Cloud revenue soared 28% year-over-year in the quarter ending March 31,"
     publishedDateTime: 2023-04-30T09:55:00Z

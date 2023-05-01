@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/quickerbettertech/2023/04/30/ai-email-s
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quickerbettertech/2023/04/30/ai-email-spam-is-headed-this-wayand-other-smb-tech-news-this-week/amp/"
 type: article
 quality: 87
-heat: 88
+heat: 89
 published: true
 
 provider:

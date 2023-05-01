@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-demand-by-2031-2023-04-27"
 type: article
 quality: 101
-heat: 271
+heat: 261
 published: true
 
 provider:
@@ -165,20 +165,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 77
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Market Demand by 2031"
-    excerpt: "The latest market research report on the Global \"Artificial Intelligence Market\" is segmented by Regions, Country,"
-    publishedDateTime: 2023-04-26T06:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-demand-by-2031-2023-04-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 71
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/security/tenable-report-shows-how-generative
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/tenable-report-shows-how-generative-ai-is-changing-security-research/amp/"
 type: article
 quality: 106
-heat: 176
+heat: 186
 published: true
 
 provider:
@@ -63,6 +63,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/04/AdobeStock_569404196-copy.png?w=1200&strip=all"
         width: 1200
         height: 675
+        isCached: true
+  - title: "How vector databases can revolutionize our relationship with generative AI"
+    excerpt: "By reducing the need to structure data, vector databases can speed up generative AI training times to dramatically improve our productivity."
+    publishedDateTime: 2023-04-30T22:21:00Z
+    webUrl: "https://venturebeat.com/ai/how-vector-databases-can-revolutionize-our-relationship-with-generative-ai/"
+    ampWebUrl: "https://venturebeat.com/ai/how-vector-databases-can-revolutionize-our-relationship-with-generative-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-vector-databases-can-revolutionize-our-relationship-with-generative-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2018/11/artificial-intelligence.shutterstock_1164239863.jpg?w=1200&strip=all"
+        width: 1200
+        height: 850
         isCached: true
   - title: "The future of generative AI is niche, not generalized"
     excerpt: "ChatGPT has sparked speculation about artificial general intelligence. But the next real phase of AI will be in specific domains and contexts."

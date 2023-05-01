@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/aimachine-learning-marke
 webUrl: "https://www.marketwatch.com/press-release/aimachine-learning-market-size-trends-and-forecast-2030-2023-04-28"
 type: article
 quality: 84
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Global Automated Machine Learning (AutoML) Market Size and Forecast till 2030"
+    excerpt: "Global \"Automated Machine Learning (AutoML) Market\" research report provides Innovative Insights on the Strategies adopted by Major Global Players [SAS Institute Inc, dotData Inc, Determined AI, DataRobot Inc,"
+    publishedDateTime: 2023-04-28T06:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-automated-machine-learning-automl-market-size-and-forecast-till-2030-2023-04-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 83
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Machine Learning Chips Market Revenue and Market, Annual Sales, and Forecast 2030"
     excerpt: "The \"Machine Learning Chips Market\" Size, Trends and Forecasts (2023-2030)â, provides a comprehensive analysis of"
     publishedDateTime: 2023-04-28T13:10:00Z

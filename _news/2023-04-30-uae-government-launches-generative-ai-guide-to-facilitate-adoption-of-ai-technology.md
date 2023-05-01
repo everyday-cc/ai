@@ -107,6 +107,22 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "We must perfect predictive models for generative AI to deliver on the AI revolution"
+    excerpt: "To accelerate the AI revolution, we shouldn’t abandon “old school AI” for flashier generative AI. Why we should perfect predictive AI."
+    publishedDateTime: 2023-04-30T23:09:00Z
+    webUrl: "https://venturebeat.com/ai/we-must-perfect-predictive-models-for-generative-ai-to-deliver-on-the-ai-revolution/"
+    ampWebUrl: "https://venturebeat.com/ai/we-must-perfect-predictive-models-for-generative-ai-to-deliver-on-the-ai-revolution/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/we-must-perfect-predictive-models-for-generative-ai-to-deliver-on-the-ai-revolution/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 81
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1347040940.jpg?w=1200&strip=all"
+        width: 1200
+        height: 631
+        isCached: true
   - title: "The rise of AI surveillance"
     excerpt: "Internet companies track our clicks to divine our preferences for products, news articles or ads. The facial recognition company Clearview AI scrapes images off sites like Facebook and YouTube to train its model. Facebook recently announced it will begin ..."
     publishedDateTime: 2023-04-28T12:59:00Z
@@ -136,20 +152,6 @@ related:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/04/unnamed-2.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Generative AI Is Only as Good as the Prompt You Give It"
-    excerpt: "It is ironic that much of the early conversation about ChatGPT had to do with the demise of writing skills when, in fact, the very success of generative-AI searches is determined by the quality of precisely written prompts."
-    publishedDateTime: 2023-04-26T05:42:00Z
-    webUrl: "https://www.insidehighered.com/opinion/blogs/online-trending-now/2023/04/26/generative-ai-only-good-prompt-you-give-it"
-    type: article
-    provider:
-      name: Inside Higher Ed
-      domain: insidehighered.com
-    quality: 39
-    images:
-      - url: "https://www.insidehighered.com/sites/default/files/2023-04/ihe-logo-web.png"
-        width: 600
-        height: 324
         isCached: true
   - title: "EU lawmakers pass draft of AI Act, includes last-minute change on generative AI models"
     excerpt: "After months of negotiations and two years after a draft rules were proposed, EU lawmakers have a draft of the Artificial Intelligence Act."

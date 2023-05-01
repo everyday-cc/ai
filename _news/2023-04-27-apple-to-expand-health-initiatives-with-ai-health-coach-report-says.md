@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/apple-to-expand-health-initiati
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/apple-to-expand-health-initiatives-with-ai-health-coach-report-says/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: CNET
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Apple building an AI health coach for Apple Watch, report claims"
-    excerpt: "Apple is developing an AI-powered health coach designed to offer personalized advice for improving exercise, diet, and sleep, a new report claims."
-    publishedDateTime: 2023-04-26T05:50:00Z
-    webUrl: "https://www.digitaltrends.com/mobile/apple-may-be-building-ai-health-coach-for-apple-watch/"
-    ampWebUrl: "https://www.digitaltrends.com/mobile/apple-may-be-building-ai-health-coach-for-apple-watch/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/apple-may-be-building-ai-health-coach-for-apple-watch/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 87
-    images:
-      - url: "https://www.digitaltrends.com/wp-content/uploads/2023/04/apple-health-app-report.jpg?resize=1200%2C630&p=1"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Apple is working on an AI health coaching service, according to reports"
     excerpt: "Need help staying on top of your health and wellness goals? Apple is working on some projects that might help."
     publishedDateTime: 2023-04-27T18:44:00Z

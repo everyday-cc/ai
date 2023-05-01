@@ -2,6 +2,126 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2023-04-18-aws-wants-to-help-you-build-generative-ai-tools.md",
+      "title": "AWS wants to help you build generative AI tools",
+      "excerpt": "AWS announced several innovations last week that will make it easy and practical for its customers to use generative AI in their businesses.",
+      "sourceUrl": null,
+      "webUrl": "https://techwireasia.com/2023/04/now-aws-wants-to-help-you-build-generative-ai-tools-as-well/",
+      "originalUrl": "https://techwireasia.com/2023/04/now-aws-wants-to-help-you-build-generative-ai-tools-as-well/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techwireasia.com/wp-content/uploads/2023/04/000_33896B8-scaled.jpg",
+          "width": 2560,
+          "height": 1706,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-18T01:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techwireasia.com",
+        "domain": "techwireasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-18-singapore-headquartered-finbotsai-secures-first-client-in-australia.md",
+      "title": "Singapore-headquartered finbots.ai secures first client in Australia",
+      "excerpt": "Accel-backed finbots.ai, a Singapore headquartered B2B SaaS FinTech today announced signing Argenic - a growth stage Australian FinTech providing a suite of financial solutions for SMEs - as their latest client.",
+      "sourceUrl": null,
+      "webUrl": "https://www.finextra.com/pressarticle/96483/singapore-headquartered-finbotsai-secures-first-client-in-australia",
+      "originalUrl": "https://www.finextra.com/pressarticle/96483/singapore-headquartered-finbotsai-secures-first-client-in-australia",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finextra.com/about/finextra-logo.png",
+          "width": 512,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-18T01:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-18-using-machine-learning-to-find-reliable-and-low-cost-solar-cells.md",
+      "title": "Using machine learning to find reliable and low-cost solar cells",
+      "excerpt": "Researchers at the University of California, Davis College of Engineering are using machine learning to identify new materials for high-efficiency solar cells. Using high-throughput experiments and machine learning-based algorithms,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-04-machine-reliable-low-cost-solar-cells.html",
+      "originalUrl": "https://techxplore.com/news/2023-04-machine-reliable-low-cost-solar-cells.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-18T01:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-18-baidu-rises-as-it-unveils-new-advanced-driving-updates.md",
       "title": "Baidu rises as it unveils new advanced driving updates",
       "excerpt": "Never miss a trade again with the fastest news alerts in the world! This headline only article is a sample of real-time intelligence Benzinga Pro traders use to win in the markets everyday. Want ...",
@@ -1026,135 +1146,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-17-profit-from-the-artificial-intelligence-boom-with-these-7-ai-etfs.md",
-      "title": "Profit from the Artificial Intelligence Boom with These 7 AI ETFs",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The artificial intelligence revolution is already here, creating a massive",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/profit-from-the-artificial-intelligence-boom-with-these-7-ai-etfs-1032237146",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/profit-from-the-artificial-intelligence-boom-with-these-7-ai-etfs-1032237146",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-17T09:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-17-best-deals-at-amazon-this-week.md",
-      "title": "Best deals at Amazon this week",
-      "excerpt": "After a long period of being out of stock, the Sony PlayStation 5 is available at Amazon -- at a nice discount. Normally priced at $560, Amazon is offering the God of War PS5 bundle for just $510 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/essentials/best-deals-at-amazon-in-april-2023-04-17/",
-      "originalUrl": "https://www.cbsnews.com/essentials/best-deals-at-amazon-in-april-2023-04-17/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/04/06/14b22de6-0846-496b-b54b-3e4448f63c19/thumbnail/1200x630/c9f1e029eed34ff4c2762d162c5f6742/apple-airpods-pro-2-hero.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/best-deals-at-amazon-in-april-2023-04-17/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-deals-at-amazon-in-april-2023-04-17/",
-      "publishedDateTime": "2023-04-17T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-17-asda-will-start-delivering-food-to-customers-across-london-using-driverless-cars.md",
-      "title": "Asda will start delivering food to customers across London using driverless cars",
-      "excerpt": "In partnership with Wayve, a developer of artificial intelligence for driverless vehicles, the year-long trial will enable Asda to autonomously deliver orders to a catchment area of more than ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thisismoney.co.uk/money/cars/article-11981683/amp/Asda-start-delivering-food-customers-London-using-driverless-cars.html",
-      "originalUrl": "https://www.thisismoney.co.uk/money/cars/article-11981683/amp/Asda-start-delivering-food-customers-London-using-driverless-cars.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2023/04/17/15/69917209-0-image-a-2_1681740960641.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thisismoney.co.uk/money/cars/article-11981683/amp/Asda-start-delivering-food-customers-London-using-driverless-cars.html",
-      "cdnAmpWebUrl": "https://www-thisismoney-co-uk.cdn.ampproject.org/c/s/www.thisismoney.co.uk/money/cars/article-11981683/amp/Asda-start-delivering-food-customers-London-using-driverless-cars.html",
-      "publishedDateTime": "2023-04-17T09:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "This is Money",
-        "domain": "thisismoney.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

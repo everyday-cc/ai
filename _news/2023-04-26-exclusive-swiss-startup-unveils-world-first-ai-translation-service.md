@@ -31,17 +31,17 @@ images:
 related:
   - title: "Interprefy unveils next-generation AI event translator Aivia"
     excerpt: "Experience the full interactive Multichannel News Release here: Multilingual meeting technology and services provider Interprefy has today unveiled Interprefy Aivia, the world's first advanced automated speech translation service for online and live events,"
-    publishedDateTime: 2023-04-26T11:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/interprefy-unveils-next-generation-ai-event-translator-aivia-2023-04-26"
+    publishedDateTime: 2023-04-26T12:23:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-interprefy-unveils-next-generation-ai-event-translator-aivia-/2023/04/26/9802122.htm"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 39
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
+        width: 550
+        height: 353
         isCached: true
 
 secured: "Gv56cJpqFj+haI6rx3L5Vg5FiIArc3P23uYklLDkvRgp9YZGHMf1N3gw6ZXmLHlvNYtjls3dT5qfhQtwWhkeAI9KlWSVT6Jr3714t66CX0iS1D7PT1g2IFcoUhU2abNeaSlT3mfZmR85mnQYfUmSyBY4KJHcATHumsBH3v80XXV1IXa09QDMNvqsKVnaQTCgg3qKtHXROfr3RRHHI/EgSOTGHUhf9RnoP8jHJe4CFmbQwXSZXPuZd/BTXD+t4cSM/CS/Q01/shzw8OP8MWy5UyN5q0ma6RDSniEz4eVat1uAZcIenCwlXJFVZ5Aszeg/e+N0vwbe1nDcIYvn4mN79OQpQriHJkikMJ7rHiPRuWXAr9PfacfhFSn8E86MzFu6xVUfmFFANhzGTQu68rMQBt6gHkhP+AnXaUY3ycueGbrxbXHbwegGHhfjJ3JzyxgOl3I49nmXmFHX0vrS6s5ITpefblbo3XlZt+v81qfoSy39gIok/hpgfAT2w0Z/SeR3ZL+CLdqsP1nJbDJGk9bv4w==;N1eKmJIUBXhlVsEpnJXxHQ=="

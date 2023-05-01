@@ -5,6 +5,8 @@ excerpt: "Monica Landers, founder and CEO of StoryFit, is using artificial intel
 publishedDateTime: 2023-04-24T12:00:00Z
 originalUrl: "https://www.forbes.com/sites/danpontefract/2023/04/24/can-artificial-intelligence-help-the-film-industry-it-already-is/"
 webUrl: "https://www.forbes.com/sites/danpontefract/2023/04/24/can-artificial-intelligence-help-the-film-industry-it-already-is/"
+ampWebUrl: "https://www.forbes.com/sites/danpontefract/2023/04/24/can-artificial-intelligence-help-the-film-industry-it-already-is/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danpontefract/2023/04/24/can-artificial-intelligence-help-the-film-industry-it-already-is/amp/"
 type: article
 quality: 47
 heat: -1
@@ -20,6 +22,13 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
+
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve/64460446c8287aa0b6a821c1/0x0.jpg?format=jpg&crop=1517,854,x175,y197,safe&width=1200"
+    width: 1200
+    height: 676
+    isCached: true
 
 related:
   - title: "The Ascendancy Of AI In Asia’s Financial Services Industry"
@@ -89,6 +98,6 @@ related:
       domain: forbes.com
     quality: 23
 
-secured: "4oWRy7dWY6Qo15ZA2Vp4cHRA6Up080HeNemchZPylW3b6Y02q0z/Sbd1UL9bibC5kYcLRwGqj7kiRdqRQarh9p62Uaf5EsT9tQL7qKDpiFLPN/73pR/sgPX6KdsaFXdOR2OoO3OW/AHB15SznDY8JxwGn5NWV76gky9KOpm6Ni92evMdOeJIMjPqRTvDBF/0x2wBFNR6/M7I6FjrajtVQi2qn9ZJI4J2du3VkSPWcfmdO5MH+OVFhT6HzyxQUgpNY0IeKCOKHgWAoSHMH/JxM2kNXsrIQgsNjvyI2E+7+SLEJ8RAN1i6/Pz6lZgJtMTYRVpYELXZVecBdhhwVbRISWNJYe6wSJSjA8/qhK7NDb3f6DHGDf29QtzTKTMF0BxutwIOP5WYTaum/eE7zxVx4WopVF72/AF/yRIrwBPW/VLF9bS3AsGuBycN2dOcrj59m1jIabQrJGSlhbXuIt+6fdu/Psa1ah4hAZxd4x69KvT8dCc3deiksmDgVYm69xCAJ2Uh8fo/bNVgiCXnIgjSEg==;Da8OBRNPpXQEJbOwF9jTCg=="
+secured: "Y1eKa+YcQmsvOOJpXziBDCW1RFni0sl/OxDpLaTMDn4tBdJWcYGvwr5AMIMOZ85uZR0Y9bJ1K3gJmfqvWxp49qMp01n80dlp4GSvexyMJPQbGrLBt+NwfcnBe3hM0CbgQBb/XoxM8pRZAQs2rfeatcZRVYM6Npb3LCSR1tdl42sqxmD6adY6oljCvlvg/Ii1L7LsGro5/Hd5pfWvSKwC8pCc8/z1L0Scm+hJNIasVmR/BF3f9/VM2nVxc4SPB/3pvc2ej3IZNMl8D4fECZ4BsiymOwoiOPwtrjCQ+C4O1BJN2xDQDIHPkmpIYYKeAl9s3WbNk/rK/hf9CDsqv/uY8t4zPDn2/mH8NFtvCu/2IPI=;FOQiJUE5GLcPznfjCFUZBg=="
 ---
 

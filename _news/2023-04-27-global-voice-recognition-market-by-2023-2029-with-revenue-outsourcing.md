@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Face Recognition Door Lock Market Size 2023, Latest Trends, COVID-19 Impact and Global Competition"
+    excerpt: "The global “Face Recognition Door Lock Market Size” is expected to rise with an impressive CAGR and generate the"
+    publishedDateTime: 2023-04-30T09:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-door-lock-market-size-2023-latest-trends-covid-19-impact-and-global-competition-2023-04-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Speech and Voice Recognition Market Growth Status and Foresight till 2030"
     excerpt: "Get a sample PDF of the report at -  The global Speech and Voice Recognition market size was valued at USD 10964.1 million in 2022 and is expected to expand at a CAGR of 22.26 Percent during the forecast period,"
     publishedDateTime: 2023-04-28T08:30:00Z

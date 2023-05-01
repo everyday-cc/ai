@@ -1,24 +1,26 @@
 ---
 category: news
 title: "Announcing LityxIQ 6.0 - Powering Predictive Business Decisions Through Next-Gen Machine Learning"
-excerpt: "Lityx makes its leading alternative AI and MLOps platform easier to deliver value for organizations focused on digital transformationWILMINGTON,"
-publishedDateTime: 2023-04-25T13:54:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/announcing-lityxiq-6-0-powering-predictive-business-decisions-through-next-gen-machine-learning-1032258784"
-webUrl: "https://markets.businessinsider.com/news/stocks/announcing-lityxiq-6-0-powering-predictive-business-decisions-through-next-gen-machine-learning-1032258784"
+excerpt: "Lityx makes its leading alternative AI and MLOps platform easier to deliver value for organizations focused on digital transformation WILMINGTON, Del.,  /PRNewswire/ -- Lityx, LLC today announced the release of LityxIQ 6."
+publishedDateTime: 2023-04-25T15:51:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/04/25/9801468.htm"
+webUrl: "https://it.tmcnet.com/news/2023/04/25/9801468.htm"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "1dk1rKLCr27hsMhswLUjYw0I4U2GP7jdc2P5vdYmMZFyKxpNNKuWIhemIVQjlY3HIDIbPra7PIns+R5XGN4gNkd7dyduxizkr1gLn+XpSHCv2Lot6DoOgmCyyr0SBXfVIg3TFAtQtYqac//cAdqopULxXUy4Gtn61uwt5+p2S1QZiImNECvrBY9d7jh7BlAS0CMfLqMcETCQAZXjxMBPTsF5mHvUctai2D3xj2QERp67eRgw6IVz1X1jEafogkjJWfXC9LTbdzSnMuY8vlx+W3T1iLLYPbvYczBesdfBVvj7BH6mrXrDrKixHWZ2hqO6WEuD/nPOn8dN4IWzoBlDZFiiF6n+H0WsHdKSorYB5MY=;nt6lDTzyGPO2d2JtyAS8cA=="
+images:
+  - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
+    width: 550
+    height: 353
+    isCached: true
+
+secured: "M6Mv80bSMwvkKPkFyiGRCIngffY9o/HWFOPVoRegxIlGSR7QZpWuwAvU8ydtFt27bjQgCSpjPy5gSnZPMHQsWrPSbIJCwUFhRzb0mCKMrs0bSu6bnkYKjJSLeAbYDmfCQBWDNXl9TiJJ8zuRrdOOrD8gH/IxNUs70N5wR4RFXSk34c2ScFoQY7QToRIEL9MyW5myTbzjNVkp4h+6FLSWzZFcduACKpjCHKVEgBqjNPBOMYAbPdUSsM5NUmf5NNmQbwY44wEIXYQQmUQWkbX6PU7uM6mgobwJ0mW1aEi2KKLVtbdj9f7s29UrU9puS4beznHwOhz9/fFQbHp9btJ4ge2vbYziu793KxxK7yZDLhE=;teRp7O46BAfFeaZOyuZRVg=="
 ---
 

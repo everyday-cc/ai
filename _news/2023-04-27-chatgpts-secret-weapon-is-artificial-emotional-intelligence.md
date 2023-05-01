@@ -73,6 +73,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "ChatGPT: how to use AI as a virtual financial advisor"
+    excerpt: "AI tools might seem overly complex or expensive to non-experts, but advances in natural language processing and machine learning could turn ChatGPT and similar products into virtual personal finance assistants."
+    publishedDateTime: 2023-04-30T22:00:00Z
+    webUrl: "https://www.moneyweb.co.za/news/tech/chatgpt-how-to-use-ai-as-a-virtual-financial-adviser/"
+    type: article
+    provider:
+      name: Moneyweb
+      domain: moneyweb.co.za
+    quality: 39
+    images:
+      - url: "https://www.moneyweb.co.za/wp-content/uploads/2023/04/file-20230421-20-89ix5g-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "65yBmsBRV6BDezbmb8EzbQr19C8LX1w6hLgLvjoK/e7Mfq8nhoUcvNLKKE1vmuHcmKXC7p7kUfhc3YgsHfLJeNlZD67UKmZrTdQ+i0o9kEIstiO14SrPPVe2x/1/BeuAnWY3AocL2sOqotY9Z9R8drEJU/Q6Nlu7fv//XqZ0gWuFpwver/CU/7xksyNJZgmRjwlUEziY5EI8QPcNxFKGKsHHPFg5KUMiL6BMVhjUnTfngsE9IEW/6U5gMuvmcfohf9n1REXpTkIW9UQ/lUEPaRLBa1iZ6P8F42/GwJ7WsQK0LT1A5ZaNwMaHoPBRXBZcQOeQdT+OdRGH7z5SiRXh45seUwaQPG9sSgFcNLbegH2bLkkkzGfY+fHkxIIgTBUGCDbFLBRlSyLVZIJi5FNCrmf8ytsUubHtGvZalViNzsHQP/Hdvp/f8ZdQwxD4kZaug4J9ooTPIF5PLvdy2KJWKCpRV1rRgkabLVdqRBEMaK/TjEoTE4TOuC3GigezU9QzqwXNgoLw3aSW+1ZV7oThAg==;wviARd5XXz64lmsBf7wzgw=="
 ---
