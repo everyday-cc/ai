@@ -128,15 +128,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How enterprises can navigate ethics and responsibility of generative AI"
-    excerpt: "As enterprises adopt generative AI, they must simultaneously mitigate inherent risks in areas such as ethics, bias, transparency, privacy and regulatory requirements. Here’s how."
-    publishedDateTime: 2023-04-27T11:56:00Z
-    webUrl: "https://www.cio.com/article/474973/how-enterprises-can-navigate-ethics-and-responsibility-of-generative-ai.html"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 34
 
 secured: "b9+wSxb5K5hdwz90aXw6KP1X71k9lChAVpypcez+NsSLPfp/JUuOIhu3ZqfA+MQawlhKo4qpiuxOqhfe/J+8rNx6eyyv+Q1pWOMJgCh3ka8SJj5KFJNWiLqrufdtZp4Q8EmVbLQNAnUF/MJn8T8ZgotXMzWI6gtRpS0F5yFzrUWoQk8HYAXLeol4PtOM8/bwqK8Ah9W2vhtZxqjVlePiBH01r1ORyID7wRLzCKqnD7sqis5ywKUfrndtKuevNZ07EPagauv3qBDc4khrcFeVcRHAmhud+2ONOprw+a3M8T2GNLCUNFr7xd0GyIiZT0oLZp/vfTyIyC1pMcEbEM3tbrwi/6El5+routv/Cbqm7C4=;hqx+X2I3rWX9f9Z4uLhpRw=="
 ---

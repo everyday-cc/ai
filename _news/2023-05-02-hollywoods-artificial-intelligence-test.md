@@ -38,6 +38,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Hollywood Writers Strike Over Pay Disputes with Streaming Giants, AI Concerns"
+    excerpt: "The entertainment industry is in the throes of a labor dispute and more than a few of the sticking points involve recent technological changes."
+    publishedDateTime: 2023-05-02T05:34:00Z
+    webUrl: "https://gizmodo.com/wga-hollywood-writers-strike-ai-streaming-giants-netfli-1850392107"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 64
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/eb6285b1f869d07e1aaa543ccc67b608.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AI Eye: Is Hollywood over? ETH founder on AI, Wes Anderson Star Wars, robot dogs with ChatGPT brains"
     excerpt: "Avengers: Endgame co-director Joe Russo says fully AI-generated movies are only two years away and that users will be able to generate or reshape content according to their mood. So instead of complaining on the internet about the terrible series finale of The Sopranos or Game of Thrones, you could just request the AI create something better."
     publishedDateTime: 2023-05-01T13:30:00Z

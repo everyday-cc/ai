@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 781
         isCached: true
-  - title: "This app uses generative AI to turn your iPhone videos into new content"
-    excerpt: "Runway's video-to-video technology, called Gen-1, launched in February and has been available for use on desktop. The app version streamlines the process and makes it easier to generate new videos than on the desktop. Gen-2, Runway's text-to-video technology, is also teased on the app, with a tag that says \"coming soon\"."
-    publishedDateTime: 2023-04-27T11:38:00Z
-    webUrl: "https://www.zdnet.com/article/this-app-uses-generative-ai-to-turn-your-iphone-videos-into-new-content/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/this-app-uses-generative-ai-to-turn-your-iphone-videos-into-new-content/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-app-uses-generative-ai-to-turn-your-iphone-videos-into-new-content/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/f2e7689e65b793bb53a7c9a129d730745b5144a5/2023/04/26/0f3ecdaa-d6c7-4b1c-a537-fe7bc54f6b02/screenshot-2023-04-26-at-4-13-34-pm.png?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Understanding the risks of generative AI for better business outcomes"
     excerpt: "Understand the risks to security, privacy and more of generative AI and the precautions you can take to mitigate them."
     publishedDateTime: 2023-04-29T16:10:00Z

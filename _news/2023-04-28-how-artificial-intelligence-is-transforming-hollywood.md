@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo171546693664"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo171546693664"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Hollywood Writers Strike Over Pay Disputes with Streaming Giants, AI Concerns"
+    excerpt: "The entertainment industry is in the throes of a labor dispute and more than a few of the sticking points involve recent technological changes."
+    publishedDateTime: 2023-05-02T05:34:00Z
+    webUrl: "https://gizmodo.com/wga-hollywood-writers-strike-ai-streaming-giants-netfli-1850392107"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 64
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/eb6285b1f869d07e1aaa543ccc67b608.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Hollywood’s Artificial Intelligence Test"
     excerpt: "Are bots ready to replace writers?"
     publishedDateTime: 2023-05-01T17:33:00Z

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-02-mind-reading-ai-translates-brain-activity-into-a-continuous-stream-of-text.md",
+      "title": "Mind-reading AI translates brain activity into a continuous stream of text",
+      "excerpt": "Researchers from the University of Texas at Austin have created a mind-reading AI system that can take images of a person’s brain activity and translate them into a continuous stream of text. Called a semantic decoder,",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/technology/mind-reading-ai-translates-brain-activity-into-text/",
+      "originalUrl": "https://newatlas.com/technology/mind-reading-ai-translates-brain-activity-into-text/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/a065e2e/2147483647/strip/true/crop/1200x800+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Ff7%2F0b%2Fcfdeedf546adb2f71c0371162e5a%2Fbrain-thoughts5x3-1200x800-c-default-copy.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/technology/mind-reading-ai-translates-brain-activity-into-text/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/technology/mind-reading-ai-translates-brain-activity-into-text/?amp=true",
+      "publishedDateTime": "2023-05-01T22:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-28-chatgpt-may-have-better-bedside-manner-than-some-doctors-but-it-lacks-some-expertise.md",
       "title": "ChatGPT may have better bedside manner than some doctors, but it lacks some expertise",
       "excerpt": "ChatGPT can be a useful tool for patients who are seeking medical information and guidance, but the artificial intelligence tool can't fully replace the value of a human physician -- it says so itself.",
@@ -158,7 +210,7 @@
       "originalUrl": "https://venturebeat.com/security/tenable-report-shows-how-generative-ai-is-changing-security-research/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 186,
+      "heat": 176,
       "tags": null,
       "images": [
         {
@@ -1390,49 +1442,6 @@
       "provider": {
         "name": "MediaPost",
         "domain": "mediapost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-18-not-too-much-to-ask-harvard-undergrad-workers-rally-for-a-union-after-university-denies-recognition.md",
-      "title": "‘Not Too Much to Ask’: Harvard Undergrad Workers Rally for a Union After University Denies Recognition",
-      "excerpt": "Without voluntary recognition, HUWU will have to gain majority ... Sanders ’24 mentioned Curran’s reply during a speech at the rally, the crowd responded with boos. “Shame on Paul!",
-      "sourceUrl": null,
-      "webUrl": "https://www.thecrimson.com/article/2023/4/18/huwu-recognition-denied/",
-      "originalUrl": "https://www.thecrimson.com/article/2023/4/18/huwu-recognition-denied/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/thumbnails.thecrimson.com/photos/2023/04/17/230704_1363158.jpeg.2000x1333_q95_crop-smart_upscale.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-17T20:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Harvard Crimson",
-        "domain": "thecrimson.com",
         "images": null,
         "publishers": null,
         "authors": null

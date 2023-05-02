@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/may/01/ai-makes-non-inva
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/01/ai-makes-non-invasive-mind-reading-possible-by-turning-thoughts-into-text"
 type: article
 quality: 58
-heat: 58
+heat: -1
 published: false
 
 provider:
@@ -29,6 +29,40 @@ images:
     width: 620
     height: 372
     isCached: true
+
+related:
+  - title: "Mind-reading AI translates brain activity into a continuous stream of text"
+    excerpt: "Researchers from the University of Texas at Austin have created a mind-reading AI system that can take images of a person’s brain activity and translate them into a continuous stream of text. Called a semantic decoder,"
+    publishedDateTime: 2023-05-02T05:09:00Z
+    webUrl: "https://newatlas.com/technology/mind-reading-ai-translates-brain-activity-into-text/"
+    ampWebUrl: "https://newatlas.com/technology/mind-reading-ai-translates-brain-activity-into-text/?amp=true"
+    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/technology/mind-reading-ai-translates-brain-activity-into-text/?amp=true"
+    type: article
+    provider:
+      name: New Atlas
+      domain: newatlas.com
+    quality: 102
+    images:
+      - url: "https://assets.newatlas.com/dims4/default/a065e2e/2147483647/strip/true/crop/1200x800+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Ff7%2F0b%2Fcfdeedf546adb2f71c0371162e5a%2Fbrain-thoughts5x3-1200x800-c-default-copy.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "AI can read your mind, and give it in writing"
+    excerpt: "A study by a four-member research group, which included an Indian graduate student, at the University of Texas Austin has shown that the system can generate intelligible word sequences from brain activity measured through functional magnetic resonance imaging (f-MRI) scans."
+    publishedDateTime: 2023-05-02T00:58:00Z
+    webUrl: "https://www.telegraphindia.com/world/ai-can-read-your-mind-and-give-it-in-writing/cid/1933743"
+    ampWebUrl: "https://www.telegraphindia.com/amp/world/ai-can-read-your-mind-and-give-it-in-writing/cid/1933743"
+    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/world/ai-can-read-your-mind-and-give-it-in-writing/cid/1933743"
+    type: article
+    provider:
+      name: The Telegraph
+      domain: telegraphindia.com
+    quality: 59
+    images:
+      - url: "https://assets.telegraphindia.com/telegraph/2023/Mar/1678740483_artificial-intelligence.jpg"
+        width: 900
+        height: 506
+        isCached: true
 
 secured: "E/aFKQhW5/K+nnwQ9+r2aEU/sfomzea4+CHBDuAttJa0ekdxr/mdZiE0KQpe9OfRTvoGJT7ycEGXGy9RBYfHC6/UpNTLX0h858FKxGx7oTtmhzWGvh2uVaaV7cm/DJ28QYnQHBUpYqbPWYURJCXpwcAsHUCVmHphHhQEqbnrG0rrY7W7WZ4p19ZzNO5Jap5GwprKhsaKWFPYAGGmlYsKwU+hS03Owh/DP/WSau9J9Cz79Wmu7eYeRMM0tw0h7fHjeI4Js1PvP3WMjdAFSVagD2s7LEm3ro3pd31TYhCftJUy63AQ4URdDJtL1k1gvq/juj7YYhRZ4D3ftOSYIlmCN9Gc6dYuXzZKlaCXHHvgXY2i8f8s16ZinW/mrr9ihtuqZB6LUZbrzI1u0mQ6zy0vGxBEfVyLHdeK6cG7wGu3PzzevtkibrzpZhpsTcn6J1qDDH4p7QEhi1LZFdMfsE2bAWmme2KjXVBEvOGfd7z/qkbjFkQPV66dTqfpqQoTNGXvWLBjrcHAD+cCOqhCwbxAFA==;2eDPZrVyhXNxgwP4IPv00w=="
 ---

@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Latest \"Healthcare Natural Language Processing Market\" Share 2023-2029, With New Trend"
+    excerpt: "The Readers in the section will understand how the Healthcare Natural Language Processing market scenario changed"
+    publishedDateTime: 2023-04-29T01:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/latest-healthcare-natural-language-processing-market-share-2023-2029-with-new-trend-2023-04-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 78
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Natural Language Processing (NLP) Software Market Market 2023 Size, share and Forecast to 2028"
     excerpt: "Apr 28, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" This comprehensive market research"
     publishedDateTime: 2023-04-28T12:17:00Z

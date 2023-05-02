@@ -9,7 +9,7 @@ ampWebUrl: "https://diginomica.com/built-world-ai-start-ups-lead-investments-ove
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/built-world-ai-start-ups-lead-investments-overtake-fintech-and-marketing?amp"
 type: article
 quality: 75
-heat: 131
+heat: 141
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Latest \"Artificial Intelligence (AI) in Fintech Market\" Highlights 2023-2029, With New Report"
+    excerpt: "The Readers in the section will understand how the Artificial Intelligence (AI) in Fintech market scenario changed"
+    publishedDateTime: 2023-04-29T01:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/latest-artificial-intelligence-ai-in-fintech-market-highlights-2023-2029-with-new-report-2023-04-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 73
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Here's How the Cloud is Revolutionizing Health Tech and FinTech"
     excerpt: "Overcoming the model of office and lab work with cloud computing Cloud computing systems have allowed enterprises, schools, and government organizations to overcome pandemic-induced challenges and meaningfully accelerate innovation and agility toward the market."
     publishedDateTime: 2023-04-28T22:39:00Z

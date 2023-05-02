@@ -51,7 +51,7 @@ related:
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 84
+    quality: 86
     images:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/230501-Geoffrey-Hinton-al-1228-2c82cf.jpg"
         width: 2500
@@ -100,6 +100,22 @@ related:
       - url: "https://wraltechwire.com/wp-content/uploads/2023/04/maximalfocus-0n4jhVGS4zs-unsplash-scaled-e1682089227197.jpg"
         width: 2540
         height: 1427
+        isCached: true
+  - title: "‘Godfather of AI’ Geoffrey Hinton quits Google and warns over dangers of machine learning"
+    excerpt: "The neural network pioneer says dangers of chatbots were ‘quite scary’ and warns they could be exploited by ‘bad actors’"
+    publishedDateTime: 2023-05-02T03:42:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/may/02/geoffrey-hinton-godfather-of-ai-quits-google-warns-dangers-of-machine-learning"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/02/geoffrey-hinton-godfather-of-ai-quits-google-warns-dangers-of-machine-learning"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/02/geoffrey-hinton-godfather-of-ai-quits-google-warns-dangers-of-machine-learning"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 65
+    images:
+      - url: "https://i.guim.co.uk/img/media/9d2f544e797d7664901b646357c02b61e4121051/0_33_6222_3733/master/6222.jpg?width=620&quality=85&auto=format&fit=max&s=0fbd4a1fa9bba14ccfe9ed2804ba32fc"
+        width: 620
+        height: 372
         isCached: true
   - title: "AI 'godfather' Geoffrey Hinton warns of dangers as he quits Google"
     excerpt: "A man widely seen as the godfather of artificial intelligence (AI) has quit his job, warning about the growing dangers from developments in the field. Geoffrey Hinton, aged 75, announced his resignation from Google in a statement to the New York Times, saying he now regretted his work."
@@ -240,6 +256,6 @@ related:
       domain: indiatimes.com
     quality: 19
 
-secured: "JOOzc28gkAKl80oK33Eb4UPo4CEy04DVXLdKXqxgxyglubLa1zT67SUGgPKdL1pFekwWErjikLytjxmJge/JdiufRKUI18zXYlt8ko83zXI9aM4C2JcY4vedI0CZ9b4HbUkJr9DCQ7BKfIMBjxWOIi4gdGR5DRUnLoKZdWudo4DsZEOkcAjb84AtVzjLzc50QXA4KjW3Ylu3KlzHh2Y7rcmFQw/ILYzrWtIRM0neZbkkh4rabSEH9GhtBm0X6qe830WOLW7H43mw/+B49csdcQukuVnzhEdT+LA47Lmb+40xRGvl8q3Zd0mxVw23pdvVJmcZOqzOAPyg+DdMtTYwGC5Da72Nz3pa/W2Nfm3Xk5Y=;y2uSyr1a79umh0XHxMSyYg=="
+secured: "T+R5BLU5PpqUg5ZX63k76KaNaA4tf3b4JSOS/WNhoyuax72KnZCwSgo3Zlw0wCNmhlIdDnmN2qWEDg7FxetL5NSrfc5O5CcqgkScTZT4qQmF0908KIrgKTvneQgvUfYyD3z/pDZDzGzBGDmrgCs+u68Ofaqss4cjlmkU8g9pH+g0oqJvezUSqh6Z9PUymj0iJgFfVB8iFWklIONXiL3nbMbxHcGDwH/zHbypmFOvDzeg5uMp0D96ncTvRV6Zbvc5oER/I8kOWv0wfHcdUf4ZC9YqP+t3h0Ga5H4ueVaeuD4RgzPtsB/drzqiFPoEe7O2VQuZGigREqYb35L3evstkW+oed3T13otvbidffXfoWKISG7eUvVVQfd1y1dn0v9jiqQ/5qIVoCK3bBacSLuofx2/c/4jybtgialw7K4TNVvF/qIuiaWFHKalr7Q/dmZWjJJYlcpRop3E7/MjHgcBOFZ2pKPZIWc7st2cz5F65MUoQX5uL+o1o/0SJNbtsb9K93AKgRGR7NrZ/4Sdosr93g==;Urhv2BvLACnJSyt9cjJhbQ=="
 ---
 

@@ -45,6 +45,20 @@ related:
         width: 740
         height: 450
         isCached: true
+  - title: "Latest \"Artificial Intelligence (AI) in Fintech Market\" Highlights 2023-2029, With New Report"
+    excerpt: "The Readers in the section will understand how the Artificial Intelligence (AI) in Fintech market scenario changed"
+    publishedDateTime: 2023-04-29T01:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/latest-artificial-intelligence-ai-in-fintech-market-highlights-2023-2029-with-new-report-2023-04-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 73
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Optimism For US Tech and Fintech Industries Despite Mass Layoffs"
     excerpt: "The adoption of cutting-edge AI solutions, like ChatGPT, demonstrates the trend towards increased efficiency and cost savings in the Fintech and Tech industries. By implementing AI-powered customer service, companies can reduce labor costs and streamline  their operations, leading to greater profitability."
     publishedDateTime: 2023-05-01T16:04:00Z

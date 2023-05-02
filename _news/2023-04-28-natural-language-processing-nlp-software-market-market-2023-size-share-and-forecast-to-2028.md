@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Latest \"Healthcare Natural Language Processing Market\" Share 2023-2029, With New Trend"
+    excerpt: "The Readers in the section will understand how the Healthcare Natural Language Processing market scenario changed"
+    publishedDateTime: 2023-04-29T01:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/latest-healthcare-natural-language-processing-market-share-2023-2029-with-new-trend-2023-04-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 78
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI Governance Market Business Report [2023-2030]"
     excerpt: "The AI Governance market has witnessed growth from USD million to USD million from 2017 to 2022. With the CAGR, this market is estimated to reach USD million in 2029. The report focuses on the AI Governance market size,"
     publishedDateTime: 2023-04-27T22:44:00Z

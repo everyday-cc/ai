@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/security/tenable-report-shows-how-generative
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/tenable-report-shows-how-generative-ai-is-changing-security-research/amp/"
 type: article
 quality: 106
-heat: 186
+heat: 176
 published: true
 
 provider:
@@ -133,15 +133,6 @@ related:
         width: 504
         height: 500
         isCached: true
-  - title: "How enterprises can navigate ethics and responsibility of generative AI"
-    excerpt: "As enterprises adopt generative AI, they must simultaneously mitigate inherent risks in areas such as ethics, bias, transparency, privacy and regulatory requirements. Here’s how."
-    publishedDateTime: 2023-04-27T11:56:00Z
-    webUrl: "https://www.cio.com/article/474973/how-enterprises-can-navigate-ethics-and-responsibility-of-generative-ai.html"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 34
 
 secured: "mUyVpg3BKf6pWw4EfGFDh60sIQVIk49FIrYGketytVRhH5Uf9BHbu8KEdRNEPb+zWTu7bcdPPsk34tETEa53adBEQvxYDNb2KNfwlm79bpbJpASrNy1ajnzUmUm4Zo818Yp5iXLFogt4+QPUltNhVpTuVC/XuOiA6CikUg9J3yCsvbW8ZVhlxj14DluzAy5dJI5a2GgcDh0Tle1Ho8RhpiC8hvlltTmhzWQoFzSv75OlppYcb1fZjCKq0uNcTHBybdGh9/ufHOdyGDeq484FXNUSYaVAbYYgG7CfOYSB3qOsLls7f7A8fga1rYsqYLgYaE9EtnjPA3N9QvGm/OOqNNFeI5+Ik2aJ8ZPR9600jeP4tZFQ/8UbrPjrpTb7r7R3K6KUWOHQziat9MVgxLR2SuAWHNITPVxhUJeZX3z7mRDY4K8BpYW3Z+N7mfzMS+K/PTyYweQ9Zhh8xe+Nm/BwydE3TaSuF2dup6oWw7OKnDb6jVf2DvDJmJZzAe56I0fJbRQjXO4ticO2cFKp1SFc2g==;Tv9zvtB/uJVa5NPmlGeH7w=="
 ---

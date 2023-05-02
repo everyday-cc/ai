@@ -169,22 +169,6 @@ related:
         width: 740
         height: 554
         isCached: true
-  - title: "How To Avoid Fueling 'Shadow AI' With The Right Policy For Generative AI Chatbots"
-    excerpt: "Despite only emerging onto the scene a few months ago, there are several ways to access the capabilities of LLMs, and the different access models can help mitigate risk."
-    publishedDateTime: 2023-04-27T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/27/how-to-avoid-fueling-shadow-ai-with-the-right-policy-for-generative-ai-chatbots/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/27/how-to-avoid-fueling-shadow-ai-with-the-right-policy-for-generative-ai-chatbots/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/27/how-to-avoid-fueling-shadow-ai-with-the-right-policy-for-generative-ai-chatbots/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 82
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6449267039fd3a3dac51f763/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "ChatGPT and Generative AI in Financial Services: Reality, Hype, What's Next, and How to Prepare"
     excerpt: "Payments, banking, and insurance players are eager to understand generative AI's potential and put it to work."
     publishedDateTime: 2023-04-28T17:30:00Z
@@ -244,6 +228,20 @@ related:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i.GYapse3WN4/v1/1200x800.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Samsung imposes ban on generative AI tools like ChatGPT"
+    excerpt: "Samsung has reportedly barred its staff from using generative AI platforms on their phones, tablets, and computers."
+    publishedDateTime: 2023-05-02T05:22:00Z
+    webUrl: "https://www.androidauthority.com/samsung-generative-ai-chatgpt-ban-3319343/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 67
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/03/ChatGPT-stock-photo-7.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Snapchat's new AI chatbot is already raising alarms among teens, parents"
     excerpt: "Snapchat's AI chatbot is facing backlash not only from parents but also from some Snapchat users who are bombarding the app with bad reviews in the app store."
@@ -405,6 +403,20 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "Hello, my name is Dr ChatGPT: Are robot doctors really the future?"
+    excerpt: "“Hello, my name is Dr ChatGPT. How can I help you today?” Imagine a medical consultation with a robotic creature. Will you feel comfortable? Will you trust this product of artificial intelligence to look after you effectively and safely?"
+    publishedDateTime: 2023-05-02T04:02:00Z
+    webUrl: "https://www.irishtimes.com/health/your-wellness/2023/05/02/hello-my-name-is-dr-chatgpt-are-robot-doctors-really-the-future/"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 39
+    images:
+      - url: "https://www.irishtimes.com/resizer/1X6K7izXLKEeudFAltzVwhuOlmY=/1200x630/filters:format(jpg):quality(70):focal(3605x1565:3615x1575)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/CC2H53FF6FDPHC7GT6BQSJOA5E.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "With the Rise of ChatGPT, VC Latches on to AI"
     excerpt: "More than a third of venture capitalists believe artificial intelligence will generate the most growth of all sectors in tech, according to PitchBook."
     publishedDateTime: 2023-05-01T20:31:00Z
@@ -456,15 +468,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 28
-  - title: "Where traditional search and AI chatbots excel: A closer look"
-    excerpt: "Learn key areas where traditional search engines like Google and AI chatbots like ChatGPT have the upper hand."
-    publishedDateTime: 2023-04-27T13:00:00Z
-    webUrl: "https://searchengineland.com/traditional-search-ai-chatbots-397671"
-    type: article
-    provider:
-      name: Search Engine Land
-      domain: searchengineland.com
-    quality: 19
   - title: "EU closes in on AI Act with last-minute ChatGPT-related adjustments"
     excerpt: "Members of the European Parliament have reached an agreement on the AI Act with a few last-minute adjustments and go to committee voting in two weeks."
     publishedDateTime: 2023-04-28T09:49:00Z

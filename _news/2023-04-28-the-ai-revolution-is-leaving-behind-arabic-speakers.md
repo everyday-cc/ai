@@ -7,7 +7,7 @@ originalUrl: "https://www.middleeasteye.net/opinion/al-revolution-arabic-speaker
 webUrl: "https://www.middleeasteye.net/opinion/al-revolution-arabic-speakers-left-behind"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1920
     height: 1080
     isCached: true
-
-related:
-  - title: "The AI Revolution: How Companies like Nvidia and Tesla Are Leading the Way"
-    excerpt: "Two that come to mind as industry leaders are Nvidia (NASDAQ: NVDA) and Tesla (NASDAQ: TSLA). If you want a litmus test to see how a company utilizes this technology, compare it to these two leaders and see how it stacks up."
-    publishedDateTime: 2023-04-27T11:25:00Z
-    webUrl: "https://moneymorning.com/investing/the-ai-revolution-how-companies-like-nvidia-and-tesla-are-leading-the-way/"
-    type: article
-    provider:
-      name: Money Morning
-      domain: moneymorning.com
-    quality: 54
-    images:
-      - url: "https://moneymorning.com/wp-content/blogs.dir/1/files/2023/04/motley-fool-mark.png"
-        width: 940
-        height: 940
-        isCached: true
 
 secured: "2Kw6x8kLcDFu+fPY+iGtgpLj6mvrLb1Cb0Vn+J8aMYMjWS5wtx9+tYF8dy3QBMHlbcsBAhwzfw3F5NHLr8lIFD1OQgB+P+7DH+Z7jqWyfYEqGN9aI8hl+7c2G2efeQpvSVhdgOiBBTyJvZyf2bcG7miAyUL7jBpyvLYVkGy5xfbKbnQmQkrntgEhj5J7hT0rFgGIQwEKzJ76WSI0Jtq0k2+5TmAHGKD0AZu5Ih8P3AH8lGoVgXK2mRK4JPmCn+pt59oOEKGpxUEO5HDi1Tf0N+Z0i/dJ1CF8DVrkxoCX8kochLqx2IcC+coom4BkazANllViu3Uy/OTXKShSKlwlkm5ClVlFwZEGz+7F3ujBGoAY5muFyvrwF7F0Ke+6JQwueBkr4qH2WkmzqjGo8x0sA/TrTCBwte5gdta0HSNZ9j3DMwan2LzWdoYOqUffrhssuirhihsH+W0TRgmK9eUCzHgvFAKCB1Zy48HWhpvtdvFHAXGnbQ3n5lqtzT+dC9Y5UENP/QCmc23Ve48n/dyl0Q==;l9meL2KrfuifhdNOGNdSEg=="
 ---

@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The Godfather of AI, Geoffrey Hinton, Reveals the Future of Artificial Intelligence"
+    excerpt: "As AI technology continues to improve and become more sophisticated, it's inevitable that it will be used for both good and bad purposes"
+    publishedDateTime: 2023-05-02T05:03:00Z
+    webUrl: "https://www.gizmochina.com/2023/05/02/godfather-ai-reveals-views-future/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 78
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/05/hitesh-choudhary-t1PaIbMTJIM-unsplash-scaled-e1683003702649.jpg"
+        width: 1500
+        height: 842
+        isCached: true
   - title: "Deep learning pioneer Geoffrey Hinton warns against rapid AI development as he quits Google"
     excerpt: "Famous AI pioneer Geoffrey Hinton announces he is leaving Google amidst regrets and concerns. Find out what worries him here"
     publishedDateTime: 2023-05-01T22:41:00Z

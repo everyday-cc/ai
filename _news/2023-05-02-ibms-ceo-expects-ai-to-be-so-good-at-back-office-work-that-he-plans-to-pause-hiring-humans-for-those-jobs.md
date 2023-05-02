@@ -2,9 +2,9 @@
 category: news
 title: "IBM’s CEO expects A.I. to be so good at back office work that he plans to pause hiring humans for those jobs"
 excerpt: "“I could easily see 30% of that getting replaced by AI and automation over ... Kyndryl Inc. and part of the Watson Health business. The company is currently considering selling its weather unit. Armonk, New York-based IBM topped profit estimates ..."
-publishedDateTime: 2023-05-01T22:22:00Z
-originalUrl: "https://fortune.com/2023/05/01/ibm-ceo-ai-artificial-intelligence-back-office-jobs-pause-hiring/"
-webUrl: "https://fortune.com/2023/05/01/ibm-ceo-ai-artificial-intelligence-back-office-jobs-pause-hiring/"
+publishedDateTime: 2023-05-01T22:41:00Z
+originalUrl: "https://fortune.com/2023/05/01/ibm-ceo-ai-artificial-intelligence-back-office-jobs-pause-hiring/?ref=biztoc.com"
+webUrl: "https://fortune.com/2023/05/01/ibm-ceo-ai-artificial-intelligence-back-office-jobs-pause-hiring/?ref=biztoc.com"
 ampWebUrl: "https://fortune.com/2023/05/01/ibm-ceo-ai-artificial-intelligence-back-office-jobs-pause-hiring/amp/"
 cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/05/01/ibm-ceo-ai-artificial-intelligence-back-office-jobs-pause-hiring/amp/"
 type: article
@@ -89,6 +89,6 @@ related:
       domain: seattletimes.com
     quality: 39
 
-secured: "AGXIatvAL7SxIOPiFa4MhMrB2r1XeGRnNF38YkUaL0oyw7Evjw2C7HmpMxDpGMdsWgkY1jrE48o0S7xIbmkJy0llndKLO9vcYdj3GoDGioN94zgHW44JRghinKIfh6qZMt6Cjusv281Lgv1sRDPgphIx7LPd1XBXXgDqgmGX1oZUWMWAefKaUBU4TOJ6qaDiGzcb1V9XqM0SPOp3bUUD9C5NDTHYf3UMji8UNgC1PCk8I3yxGjf5SOQYmRai5jVit9ULNFPxn/lusts8TODJKX85yfzvuMpZq5vwAehcObDH1x9LIdO6EV1JYannscXzVGjYMGysDV4AdMbfm75jiWOw4piWJqwL1WfR9GFri2M=;24Y55zrvsa/Y0EKupQVApQ=="
+secured: "6h6NRdDkL71A5zB8XK2A+RawE17SYAwaysGoWyTrmMS86PJCuGKrUFsDxBRVHXsiXpL3wLWt/0z9cqgvgf8/PCKTeFV+5SGt1PLJWOOZTqVrxveg1IsfoOUYl2EMPdCEXHrcELYbezV4qAryoS14k153k43kE3S9/KAifkfZU/MsKHbG2GVurI6dG4H0vBAnwh976mXco0LUlCGz3rHsCAHFDcnUH2gKf8MtBHhflBN6Nr0hhZYiJgx1G+OWaDCip6wgKM81O/NaN36/o9OsPiyhz1Ih7iaMxclzAXUIHkfvoNdJt1CKdG+PFU6ELFK0vpT5gfBWkN/5YKnoFdKVJ2dsUqpdrUNJNHGLwHm5xUc=;mZ2MtR0+mTW+jRoBaFXzuA=="
 ---
 

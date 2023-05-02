@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/paulhsieh/2023/04/29/promises-perils-an
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulhsieh/2023/04/29/promises-perils-and-predictions-for-artificial-intelligence-in-medicine-a-radiologists-perspective/amp/"
 type: article
 quality: 75
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Will artificial intelligence help — or hurt — medicine?"
+    excerpt: "A doctor's job is to help patients. With that help, often comes lots and lots of paperwork. That's where some startups are betting artificial intelligence may come in. The hope is that chatbots could generate data like treatment plans that would let doctors spend less time on paperwork and more time with their patients."
+    publishedDateTime: 2023-05-02T04:10:00Z
+    webUrl: "https://www.npr.org/2023/04/28/1172854934/will-artificial-intelligence-help-or-hurt-medicine"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 39
+    images:
+      - url: "https://media.npr.org/assets/img/2023/05/01/gettyimages-1292540531_wide-837c160e50a055eb35819780aa88c0a1c802b5b8-s1400-c100.jpg"
+        width: 1400
+        height: 787
+        isCached: true
 
 secured: "3Y5nko/cJ/hWRduwNd5q6bB1Ak/7W0CJtwWDQUSTbKu/YmizXuYkpxSMslQejxVifpip1PIf6+xP6DPJQvpxoabGIF5Nj8LakvK8/G4jjO84dkpe9/AylOGZ6ylHKGLhfXYxzTAR0sN1LXRvfC1NJ5nzb9CThmzqA1jWeCmTkXTm5KeS9FYzylezLyTH7ZsZ6Y875Rzxuh/g0YJcLqs2B6pvKEgnp9KQMPGEeTQgIXvizRBYBN9tqGEYkOHVPz99RNN5qam6iLyjMgpBDjAT3LvWxsz0cb94/SlvbQ54pcRZC0USwCkgzLusmImgHTGVgW2KF7ylcvUayczH+IvJiFlydv333be1FuYW3uMhgFqdF2UsWUa26dmwFb5FrW62lPJm1Jqzy/1Yw1NQGdM/j+5tOL9Q9urRMfte5cIutZCJpjq3P1PeXljFPSNRgdSqd3CSZgNveDN6xvFvzgiROeuJyIsVGPUryIndRA2BAvPqRi3R6ol5R5dI/jjHXnSBkWLUfj7SI4b87trjuXwSfQ==;Z1haipPkoK+0dK7sZgqn7w=="
 ---

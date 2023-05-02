@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/01/how-ge
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/05/01/how-generative-ai-can-affect-your-business-data-privacy/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "How Artificial Intelligence Can Aid Democracy"
-    excerpt: "BKC Affiliates Nathan Sanders and Bruce Schneier write about AI's potential to advance the public good by helping democracy."
-    publishedDateTime: 2023-04-27T12:32:00Z
-    webUrl: "https://cyber.harvard.edu/story/2023-04/how-artificial-intelligence-can-aid-democracy"
-    type: article
-    provider:
-      name: Harvard Medical School
-      domain: harvard.edu
-    quality: 34
 
 secured: "CN4Et4wBgaWodBoiORQexBWTgAQf02hee/EjT7BOHmrAgEea/Pu/opRY5faxUVzaZMax7JBEFM3PRqpvis4HKRjnOKDW8krHJvBHba7QF2zqVF+HsSuP+9eHmcoIheUeQ1fjsY6+7R6wtXexhfwuouCHiAWK/x4yjs0RC4Or21tWrXmSVYWzxsDy9N0a2Y0A7kys59ZxsTJ1EBMDAZcf56dYCRBRxsDOIaEsio+Uaa36DITD1QG0WtfJYdQ/nRkz643C/zi7Ko1S/VqbDwRIMljtTJPXu/588Jird6lWRb6iVc/zYF6QOtaf7EOqAfRROqk+8Lk3NhpCU0jg1b56kAj1F7sotZyBMA9nE6vCVZ8=;epwsuCzSPIjQ1/0ru/3/Rg=="
 ---
