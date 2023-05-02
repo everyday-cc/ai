@@ -28,22 +28,31 @@ images:
     isCached: true
 
 related:
-  - title: "Saturday Conversation: Herbie Hancock On International Jazz Day, What Jazz Means To Him, AI And More"
-    excerpt: "Herbie Hancock is celebrating International Jazz Day (tomorrow, April 30), with an all-star live stream featuring some of the best jazz artists performing all over the world. Hancock agreed to speak about his love of jazz,"
-    publishedDateTime: 2023-04-29T21:33:00Z
-    webUrl: "https://www.forbes.com/sites/stevebaltin/2023/04/29/saturday-conversation-herbie-hancock-on-international-jazz-day-what-jazz-means-to-him-ai-and-more/"
-    ampWebUrl: "https://www.forbes.com/sites/stevebaltin/2023/04/29/saturday-conversation-herbie-hancock-on-international-jazz-day-what-jazz-means-to-him-ai-and-more/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevebaltin/2023/04/29/saturday-conversation-herbie-hancock-on-international-jazz-day-what-jazz-means-to-him-ai-and-more/amp/"
+  - title: "92% of businesses use AI-driven personalization but consumer confidence is divided"
+    excerpt: "State of Personalization report highlights the significance of building customer loyalty through tailored experiences."
+    publishedDateTime: 2023-05-02T15:14:00Z
+    webUrl: "https://venturebeat.com/ai/92-of-businesses-use-ai-driven-personalization-but-consumer-confidence-is-divided/"
+    ampWebUrl: "https://venturebeat.com/ai/92-of-businesses-use-ai-driven-personalization-but-consumer-confidence-is-divided/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/92-of-businesses-use-ai-driven-personalization-but-consumer-confidence-is-divided/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 72
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 81
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/644d8b50ba733e9b9dad4714/0x0.jpg?format=jpg&width=1200"
+      - url: "https://venturebeat.com/wp-content/uploads/2015/07/personalization-marketing-targeting-e1683039275909.jpg?w=1200&strip=all"
         width: 1200
         height: 800
         isCached: true
+  - title: "How fintechs are gaining a competitive advantage with AI-powered personalization-at-scale"
+    excerpt: "Personalization-at-scale is a key strategy for fintechs to deliver hyper-relevant products and services to meet customer demands."
+    publishedDateTime: 2023-05-01T18:16:00Z
+    webUrl: "https://venturebeat.com/ai/how-fintechs-are-gaining-a-competitive-advantage-with-ai-powered-personalization-at-scale/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 40
 
 secured: "U3OoM3XjE02FeD0kvEuJ167anQDgVcFt6Hgqk5FiCbX75esjaG87ACD2jkBP5eLzp16Xic5E3tKEJATEJbzrj0W+L6LfQwCqufHg9IV8vtb65MgAVx1EZ58O2TQym2m7UkXQJaXQxi5f8J3p//1mXjySH1Hxj3oJtgbtBVijWi8eByoSDITjXxwtzUZxVvjgI0Iozu/FRm5vPRCQq9BPnP73g6mZx/NLPk+52RXoF/YxWdgqvuimGhslkeyhenZYWKCJykSjrC6A9r3PS1KfAqBI4L5nIVzyZguU3s+zS793278f2AeXU7NLJM5QG4LMK2VC72a3NgU4dcZzwrm7pRaBz3MGxoS9bjZ9B00PbgGzuuqLuZLPEP/GfK/GGVrubU4CTEy+RT19Z4qvWP+Oe1BEmRQyhKbPfW4t1lrrmx3kj2/mnSmXRLr5AKQsIWz6ZCUr4vJwMzjS+FCTTprdDe5vTdql66qyQ4ww4SK0oixLC/Ph6SyU/yo8pYC2CsTAp+rsxoMTKUCjw0KsxgQkWA==;EaVi3QLdqmrULXb9ZakBOQ=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/04/28/the-amazing-ways
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/04/28/the-amazing-ways-duolingo-is-using-ai-and-gpt-4/amp/"
 type: article
 quality: 87
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -40,11 +40,25 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/6450ac8062c3ef25fedc456e/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Facebook Execs Panicking as They Try to Catch Up in AI Race"
+    excerpt: "In other words, Meta was already behind well before OpenAI released its extremely popular ChatGPT chatbot back in November. Now, with OpenAI, Microsoft, and Google leading the pack, Meta CEO Mark Zuckerberg's game of catch-up has seemingly turned into an all-out scramble."
+    publishedDateTime: 2023-04-28T15:52:00Z
+    webUrl: "https://futurism.com/the-byte/facebook-execs-panicking-ai-race"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 41
+    images:
+      - url: "https://wp-assets.futurism.com/2023/04/facebook-execs-panicking-ai-race.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "x5Rlmkrvv8x1riWMM3hISgWIrJdr8dGxVRvb0Ex9plvmiXTu1MmfHeUyyojD3WgPohPdae8kTnc4LpKdYloNUaI//hzv4zQdnK7RPz+9gx0dYsNkyv0vb2EZVZm1dvPPtZa/2Wz5NBkgp7RqjVj6Cv6JpbhD5lZCoCdyrI6sVFFhh+1qkYQgmT7Zio8HVpFPrRupNWZ7rkY8Q2lhnQup35PN6X6F1XZCDIhtb69Jc8IzK/srM6KKGcKW4arKL3KqJonhbnVrTMNCgVRWxyvpbGVxLf8euFP44N/G1iZL5CRt3smMywhUm0cVFaNkRV6iQ3lhaDsEDlRvfsDX3mUujYdGSL8KeHhEvj8zILI0dh0/0PgVf0wN1hE4ZekdtXmHFRloxs9x/RuAgztRgT0/GEEGFIf05yJDyGoykhlyj+4vlrCtthRJA79ZI0xXuX7WkX+pOipKxXorC9JPBzAwfl576x1VX4JHNQGcO1NvBkB1DU7ecZumjAn8oYX3/wAH956ycoKEPsVYydhXu0Cp5w==;SaUbV6B06qguG3BuLC2mJQ=="

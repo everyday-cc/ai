@@ -87,6 +87,15 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "AI pioneer Geoffrey Hinton warns about growing risks as he quits Google"
+    excerpt: "His departure from Google comes at a time of turmoil for the company, which recently merged its DeepMind and Google Brain AI research units as it tries to make up lost ground in generative AI against Microsoft and OpenAI. Jeff Dean, chief scientist at ..."
+    publishedDateTime: 2023-05-02T11:21:00Z
+    webUrl: "https://www.ft.com/content/6eccea8b-6d81-45df-a922-574b3249e0d1"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 19
   - title: "expert reaction to Geoffrey Hinton quits google over risks posed by AI"
     excerpt: "May 2, 2023 expert reaction to Geoffrey Hinton quits google over risks posed by AI . It has been reported that Geoffrey Hinton has left Google and spoken about the dangers of AI."
     publishedDateTime: 2023-05-02T10:51:00Z
@@ -95,6 +104,15 @@ related:
     provider:
       name: Science Media Centre
       domain: sciencemediacentre.org
+    quality: 19
+  - title: "The Download: Geoffrey Hinton’s AI fears, and decoding our thoughts"
+    excerpt: "Geoffrey Hinton is a pioneer of deep learning who helped develop some of the most important techniques at the heart of modern artificial intelligence. But after a decade at Google, he is stepping down to focus on new concerns he now has about AI."
+    publishedDateTime: 2023-05-02T12:10:00Z
+    webUrl: "https://www.technologyreview.com/2023/05/02/1072566/the-download-geoffrey-hintons-ai-fears-and-decoding-our-thoughts/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
     quality: 19
 
 secured: "8vFes7wUasJcGy2jK+J1AXdC828UV4yWiRvNK8x4/tt5Mqc2gss4adMBSZ4cFgg23EqGBjbkJ7/ARGEm8v6ByHixMgtqShpVfANJA9mPb/4AJPchJnnDPvbQWECijiDQ+lgINbjt7/HSl2+EjG4D0ajfu7zxLUYSVXRK9qTrfEykQdedSz9qyoApPe5PiciUBH3W3+wy7mCXvlOxiDA9BHw9PY4Z0Bvrk5I5Qh+VCjuiHVuHrAIKrgv/UqvVgUXhacgtEoc480oeyNnDkl+YuGOnlkYqkSn4KVMNNasQubASa9ncND6vcP1nHUNsuS5q3Ghcuv8JtBkiS4aUM7jbQ77odU3hzvqQ2UBRri1/jwwSAXD0Has9EGD4hYTcwzC0+jE99xRKCoMlnj+NhSLdahDXsS4V0QKIDQ1qocdsNvdlcz2SgluH72TM3ftGtp7Xz2XPE+XQR/3PEpQtk46vBs1GDZpHYi7+V4mhzIyFo+f6N6wfXf9gL1IKvSKjPYTnKLXXTM5qUDu1u0RdGM7PzQ==;yY+aLNh0UmwXLCh0IWgwGA=="

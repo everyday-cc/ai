@@ -30,17 +30,20 @@ images:
     isCached: true
 
 related:
-  - title: "How artificial intelligence could impact the workplace"
-    excerpt: "AI could revolutionize the workplace, but it doesn't mean that robots are going to replace us. Finance professor Dan Roccato joins us with more on how to embrace the bots."
-    publishedDateTime: 2023-04-28T15:11:00Z
-    webUrl: "https://www.fox7austin.com/video/1213506"
-    ampWebUrl: "https://www.fox7austin.com/video/1213506.amp"
-    cdnAmpWebUrl: "https://www-fox7austin-com.cdn.ampproject.org/c/s/www.fox7austin.com/video/1213506.amp"
+  - title: "How artificial intelligence is already powering work in B.C."
+    excerpt: "These are some of the novel ways in which B.C. companies are using machine learning and artificial intelligence – and to the clear potential benefit of humanity. But like nuclear fission, machine super-intelligence is a Promethean power with the potential to be corrupted,"
+    publishedDateTime: 2023-05-02T14:16:00Z
+    webUrl: "https://www.prpeak.com/technology/how-artificial-intelligence-is-already-powering-work-in-bc-6938262"
     type: article
     provider:
-      name: FOX 7 Austin KTBC
-      domain: fox7austin.com
+      name: Powell River Peak
+      domain: prpeak.com
     quality: 39
+    images:
+      - url: "https://www.vmcdn.ca/f/files/biv/sanctuaryai-robotopensbag-small-sub.jpg;w=938;h=527;mode=crop"
+        width: 938
+        height: 527
+        isCached: true
 
 secured: "mhaOoqmjQ99qmah1yRuUZyW63HC+NrWDzjEOv8bGjtAa6/Qsb/ZYM76HFx/CUmspXB5RkRFXxRXKWkp3gbL8KrKLFRs569YZL7hPP20HHvJ08I5IKjsMl5MTi6MabeMDnqVWTyRP2ptjh//5SORMDtvfGvZGyrbb2xFQdquVnpKAgMU1eU5Xew74ZmhlgxD/8DuhlRAiJGrnP0cVrX6MgWws8JlQ8+08bintHe+sp3q0zGFdrmOktlDUHE5+SFprN93/EPD9KoFsaxWVNe0AqjeZCsMRFGIc9bBtuNWsOI3wbSpquCV8BKpjF6lNq4NGwJp+l0NrAfnRLlms/j7UR7/eXC1L+v2G6AcnddBCPO8=;9xf7cuTi+f+xmLnqHhvEIQ=="
 ---

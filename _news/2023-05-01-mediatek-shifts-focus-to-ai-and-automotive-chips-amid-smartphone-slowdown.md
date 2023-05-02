@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2023/05/01/mediatek-shift-focus-ai-auto
 webUrl: "https://www.gizmochina.com/2023/05/01/mediatek-shift-focus-ai-autombiles/"
 type: article
 quality: 63
-heat: 63
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,17 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+related:
+  - title: "Top Taiwan chip designer MediaTek 'rapidly' shifts focus to autos, AI"
+    excerpt: "MediaTek chips are seen on a development board at the MediaTek booth during the 2015 Computex exhibition in Taipei, Taiwan, June 3, 2015. REUTERS/Pichi Chuang/File Photo TAIPEI, April 28 (Reuters ..."
+    publishedDateTime: 2023-04-28T16:28:00Z
+    webUrl: "https://www.reuters.com/technology/top-taiwan-chip-designer-mediatek-rapidly-shifts-focus-autos-ai-2023-04-28/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 64
 
 secured: "NEw/yEN5rs9EzWVfQAzjvJ7apTQxJN3zyTT5g1akAxTadCntkiHMMkOwvR1IazIULgc9nA0m0Tog1uLaxt0BhIDnQVkxy5/6RQXu6liPQfCwWJDwuXA8BUHaePzaNpzhgNnTNy703ggPvf0Q9AAX8rEfc6Z9vyzWkPIvsgvgPQzhpiKgOPzRhvwk/gD4MH3Ifu6ndQhYY2K5ZEHBjh/P901iBD5Cr/7M1XOBfup7N7qzJqqsGKsqYoM+Tfva2AeaH+wkRit6y6tINneS76oAD0D16m+OL7P8O+IjcfqFIWCfSmUU0EteWh8hQ2+wuhWAwSGG5kIoAoxmF6evsbGFIvG2LeBhH0YbE6eFr8W/WPg=;/mLoE9W/oCUYsejiwIOK4w=="
 ---

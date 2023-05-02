@@ -7,7 +7,7 @@ originalUrl: "https://semiengineering.com/slow-ai-adoption-within-eda/"
 webUrl: "https://semiengineering.com/slow-ai-adoption-within-eda/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,34 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI for STEM Education"
-    excerpt: "Enhance STEM education with resources and discussions that investigate the world of artificial intelligence, chatbots, and machine learning."
-    publishedDateTime: 2023-04-28T16:12:00Z
-    webUrl: "https://www.sciencefriday.com/articles/ai-for-stem-education/"
-    type: article
-    provider:
-      name: Science Friday
-      domain: sciencefriday.com
-    quality: 56
-    images:
-      - url: "https://www.sciencefriday.com/wp-content/uploads/2023/04/Copy-of-Getting-Started-with-AI-Instagram-Post-Square.png?w=400"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "EU proposes new copyright rules for generative AI"
-    excerpt: "Shortly after signing the letter, the Financial Times reported Musk was planning to launch his own startup to rival OpenAI. ALSO READ: Elon Musk plans AI startup to rival OpenAI, Financial Times reports"
-    publishedDateTime: 2023-04-28T01:55:00Z
-    webUrl: "https://www.asiaone.com/digital/eu-proposes-new-copyright-rules-generative-ai"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 37
-    images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Apr2023/20230428_EUAI_Reuters.jpg?itok=7hZy3u6s"
-        width: 848
-        height: 601
-        isCached: true
   - title: "Why Sign Language Translation Poses a Puzzle for AI"
     excerpt: "Even standard travel information is rarely available in the native sign language of many Deaf people who are expected to make do with written information in their second or third language. The UK’s Network Rail is one of several transport companies around the world working to address this gap in accessibility."
     publishedDateTime: 2023-05-02T09:35:00Z

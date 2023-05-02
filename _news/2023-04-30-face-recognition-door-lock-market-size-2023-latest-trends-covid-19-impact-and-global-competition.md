@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Face Recognition Device Market Forecast : Trends and Insights till 2031"
+    excerpt: "\"Face Recognition Device Market Size is projected to Reach Multimillion USD by 2031, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2031.\" Ask for a Sample Report \"Browse Detailed TOC of Face Recognition Device Market report with 153 Tables and Figures andCharts that provides exclusive data,"
+    publishedDateTime: 2023-05-02T09:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-forecast-trends-and-insights-till-2031-2023-05-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Review launched into rules governing facial recognition data"
     excerpt: "A government panel is considering whether stricter rules are needed for companies that handle facial recognition data. The Personal Information Protection Commission (PIPC) is mulling new ..."
     publishedDateTime: 2023-04-27T23:59:00Z
@@ -56,6 +70,20 @@ related:
       - url: "https://p.potaufeu.asahi.com/33ad-p/picture/26551601/841e78f590d1ac87d0500ebc876f4573.jpg"
         width: 660
         height: 437
+        isCached: true
+  - title: "Machine Learning in Communication Market 2023 [Latest Report] Size is Expected to Grow at a Phenomenal CAGR till 2030 | 128 Pages Report"
+    excerpt: "The Machine Learning in Communication Market Scope and Overview Report for 2023 presents a detailed analysis of the"
+    publishedDateTime: 2023-05-02T05:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-communication-market-2023-latest-report-size-is-expected-to-grow-at-a-phenomenal-cagr-till-2030-128-pages-report-2023-05-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "ZrglgiyuUTx9uG3HTSLzHIszHNwBvxXJV97IUZyKEgziH/+fcO8mAibgR6NjGxikPSFmrFuc4ZeBi/R/2Eb51+LgNjvBqg5or2bgwoHJ5D01NsEVPpl/ku6WWOQMGOW4nKldaIOnWapgNsgqrZik+0WkMnjGj5yDtrs+8rca87R1pP4OTa9502rPUchAdd/nASILJK+gUGIm2C3QfZ/NT0h9nc3N5x6MlMiGjv1cl5w5/y9l2D6bTMqVsNSwRaE3Eh32oCTATU1XeXxsOWrQ1VUMCCjLV48T2MeIjaRBxlZorJnSJ83hnmQc0zoTQ3JgcK3Hj4JehKjnNoJotpEgy4KtTYirr6s9A0BhxQACkaw=;2EqqhT+w981nSxtFRlXovQ=="

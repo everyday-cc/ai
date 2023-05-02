@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "IBM Plans to Replace 7,800 Jobs With AI"
+    excerpt: "The company will pause hiring soon, and expects up to 30% of non-customer-facing roles will be replaced by automation in the next five years."
+    publishedDateTime: 2023-05-02T14:57:00Z
+    webUrl: "https://www.pcmag.com/news/ibm-plans-to-replace-7800-jobs-with-ai"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/01WdVo9uJBJXuoHHOmvGQfY-1.fit_lim.size_1200x630.v1682982476.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "IBM to pause hiring in plan to replace 7,800 jobs with AI"
     excerpt: "International Business Machines Corp. Chief Executive Officer Arvind Krishna said the company expects to pause hiring for roles it thinks could be replaced with artificial intelligence in the coming y"
     publishedDateTime: 2023-05-02T00:41:00Z

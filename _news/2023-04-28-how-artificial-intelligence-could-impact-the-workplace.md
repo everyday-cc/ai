@@ -21,22 +21,31 @@ topics:
   - AI
 
 related:
-  - title: "White House Wants to Know How AI Monitoring is Impacting Your Work"
-    excerpt: "The Biden Administration is reportedly looking for feedback from workers to see how AI tools are being in the workplace."
-    publishedDateTime: 2023-05-01T16:17:00Z
-    webUrl: "https://www.cnet.com/tech/white-house-wants-to-know-how-ai-monitoring-is-impacting-your-work/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/white-house-wants-to-know-how-ai-monitoring-is-impacting-your-work/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/white-house-wants-to-know-how-ai-monitoring-is-impacting-your-work/"
+  - title: "How Will AI Impact The Jobs Of Digital Marketers?"
+    excerpt: "AI can automate certain tasks and processes, but it cannot replicate the creativity, intuition and unique perspective that individual marketers bring to their work."
+    publishedDateTime: 2023-05-02T14:16:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/02/how-will-ai-impact-the-jobs-of-digital-marketers/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/02/how-will-ai-impact-the-jobs-of-digital-marketers/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/05/02/how-will-ai-impact-the-jobs-of-digital-marketers/amp/"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 87
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://www.cnet.com/a/img/resize/ad99f665f21072d2552b946239f97ecaa1d9884f/hub/2023/05/01/6becf316-2f12-4396-8126-21a0ba76ca41/gettyimages-1324245317.jpg?auto=webp&fit=crop&height=630&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5f9ae2a9fdf0fd5f1e0ffee3/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 630
+        height: 800
         isCached: true
+  - title: "Artificial Intelligence in Medicine Market 2025"
+    excerpt: "The Artificial Intelligence (AI) in Medicine market is a rapidly growing segment of the healthcare industry that is expected to significantly transform the way healthcare is delivered in the future. AI technology has the potential to revolutionize healthcare by improving the accuracy,"
+    publishedDateTime: 2023-04-28T12:15:00Z
+    webUrl: "https://www.pharmiweb.com/press-release/2023-04-28/artificial-intelligence-in-medicine-market-2025-covers-valuable-guidance-for-future-ai-expansion-i"
+    type: article
+    provider:
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 19
 
 secured: "K0DVp9Fym5jsK0KZcxfOoxdx6Q8BY2MajMd8t+GpyiUBY8KIcipW0xG59aOG3hMVRYIghrf49r9GXnfwWJI5dgSG7ohkGxyal5eISlpu5kX1mGqEDRjZJbYfpPeQvJHYaR1qax8GISN+0G0CeCuRcvgRHuu7RJtnr6Q4rlHYJZNj7wxzqTSvJKs6p6c2O0EZ7HddsuukbU2bifk84WMa42k9zsDZhVjYksuBgq170AtfwiOHCI7j3+wWQhClt0hDcIBUZMpavh7msz95X4Diyv0iCro9fGKcLL1LEv88kMJXKz3sjUhFAek2WJp12Y5dFh1GZUhVhsjwJW/wTA3JBpTAvvxoSFlRdH9bB32FBaBFXGw4Gjtx/SuxBjwGdkIEkVfFVlwmTt8voF3EhMFjsvO59XWgEM/irHMX/K6V/3Z8JBkFlQtEzoDJ7DiOB8tt0LntZ1jOoLL2lwPD3ZNgtNLsxuKqAPLqnRw+j0Ueg/tSjYSkFC4DMdAowv+zmnksW+bDPiZoUY7xutZAix/LBQ==;vcIEzfGosli7FPWFIKoc6A=="
 ---

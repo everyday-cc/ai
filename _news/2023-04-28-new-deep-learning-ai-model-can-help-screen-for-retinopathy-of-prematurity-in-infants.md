@@ -24,22 +24,6 @@ images:
     height: 480
     isCached: true
 
-related:
-  - title: "Artificial Intelligence Identifies Infants at Risk of Blinding Disease"
-    excerpt: "Researchers have developed a deep learning AI tool that can automate the diagnostics of retinopathy of prematurity (ROP), a leading cause of childhood blindness. The tool was found to be as effective as senior pediatric ophthalmologists in discriminating normal retinal images from those with ROP that could lead to blindness,"
-    publishedDateTime: 2023-04-27T22:38:00Z
-    webUrl: "https://neurosciencenews.com/ai-vision-infants-23128/"
-    type: article
-    provider:
-      name: Neuroscience News
-      domain: neurosciencenews.com
-    quality: 39
-    images:
-      - url: "https://neurosciencenews.com/files/2023/04/ai-blindness-kids-neurosiicences.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-
 secured: "rgkeul2odRXGfTDQAjnBPgqrRujrQvsOgDIxhCJwtda+3rHJmZR5syrQSoFhlh2BLKvMv/QWPFmImXFxbTKn3mg4lhFoU/jCszQAd4nKa6MN1iAvNAtxsuHUXeu4ERG7sNu8SPCSxLi312BQM7F1DG7zFSSQeqF/Sb0xTmJTtZvAgvN+XF/Qb95/VzeiwdF9WeUq9fXO5m6Mj6McDnDCtZ1N5f492srPk2TBGzJy//xw1bO2dcLpGviwOaCHOTjbZ5+vGlhyPCU5HZ87UCjUPpGfGFXdv2gzsGDkrr49X3/BQgjSbcfDzcrGXGzokbgPcoS9qQKI7hbmmUom7CBq/vJsmHU6gEjl5EP/zO22fCs=;djkPTrd9T5PNqQarxqfc0A=="
 ---
 

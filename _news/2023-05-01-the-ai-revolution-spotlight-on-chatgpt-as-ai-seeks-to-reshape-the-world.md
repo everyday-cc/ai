@@ -170,6 +170,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "ChatGPT is the most sought out tech skill in the workforce, says learning ..."
+    excerpt: "The index showed that the top global tech skill for businesses in the first quarter of 2023 was ChatGPT, which experienced a 4,419% increase in global topic consumption from the fourth quarter of 2022."
+    publishedDateTime: 2023-05-02T15:45:00Z
+    webUrl: "https://www.zdnet.com/article/chatgpt-is-the-most-sought-out-tech-skill-in-the-workforce-according-to-a-study/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/chatgpt-is-the-most-sought-out-tech-skill-in-the-workforce-according-to-a-study/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chatgpt-is-the-most-sought-out-tech-skill-in-the-workforce-according-to-a-study/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 71
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/634c17e6b6addb19e136986911fb3bc54b83f0e5/2023/05/02/8fbcaa3f-89eb-47a7-b8d9-682428431a32/gettyimages-1246495664-1.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Dr. ChatGPT? Physicians Are Sending Patients Advice Using AI"
     excerpt: "ChatGPT is better than doctors at responding to patient questions, study says"
     publishedDateTime: 2023-04-28T14:00:00Z
@@ -211,38 +227,6 @@ related:
       - url: "https://www.androidauthority.com/wp-content/uploads/2023/03/ChatGPT-stock-photo-7.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Snapchat's new AI chatbot is already raising alarms among teens, parents"
-    excerpt: "Snapchat's AI chatbot is facing backlash not only from parents but also from some Snapchat users who are bombarding the app with bad reviews in the app store."
-    publishedDateTime: 2023-04-27T21:50:00Z
-    webUrl: "https://abc7chicago.com/snapchat-ai-chatbot-artificial-intelligence/13190393/"
-    ampWebUrl: "https://abc7chicago.com/amp/snapchat-ai-chatbot-artificial-intelligence/13190393/"
-    cdnAmpWebUrl: "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/snapchat-ai-chatbot-artificial-intelligence/13190393/"
-    type: article
-    provider:
-      name: ABC 7 Chicago
-      domain: abc7chicago.com
-    quality: 56
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/13164354_042023-wls-snapchat-ai-7pvo-vid.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Snapchat's new AI chatbot is already raising alarms among teens and parents"
-    excerpt: "The feature is powered by the viral AI chatbot tool ChatGPT – and like ChatGPT, it can offer recommendations, answer questions and converse with users."
-    publishedDateTime: 2023-04-27T20:49:00Z
-    webUrl: "https://www.wjcl.com/article/snapchats-ai-chatbot-raising-alarms/43729456"
-    ampWebUrl: "https://www.wjcl.com/amp/article/snapchats-ai-chatbot-raising-alarms/43729456"
-    cdnAmpWebUrl: "https://www-wjcl-com.cdn.ampproject.org/c/s/www.wjcl.com/amp/article/snapchats-ai-chatbot-raising-alarms/43729456"
-    type: article
-    provider:
-      name: WJCL
-      domain: wjcl.com
-    quality: 55
-    images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-824abf0991d3efa93a1eaf912b2c3be1-h-298c97ee32e1099ebd7b0fc43dcce1c7-jpg-644ada9152f7a.jpg?crop=0.905xw:0.763xh;0.0240xw,0.146xh&resize=1200:*"
-        width: 1200
-        height: 676
         isCached: true
   - title: "Chatbot Gone Awry Starts Conversations About AI Ethics in South Korea"
     excerpt: "The “Luda” AI chatbot sparked a necessary debate about AI ethics as South Korea places new emphasis on the technology. In Spike Jonze’s 2013 film, “Her,” the protagonist falls in love ..."
@@ -286,6 +270,20 @@ related:
         width: 620
         height: 349
         isCached: true
+  - title: "Microsoft Planning Privacy-Focused Version of ChatGPT as Apple AI Efforts Flounder"
+    excerpt: "Microsoft is planning to launch a privacy-focused version of ChatGPT amid Apple's apparent lack of grip on emerging AI technologies,"
+    publishedDateTime: 2023-05-02T14:11:00Z
+    webUrl: "https://www.macrumors.com/2023/05/02/microsoft-planning-private-version-of-chatgpt/"
+    type: article
+    provider:
+      name: MacRumors
+      domain: macrumors.com
+    quality: 48
+    images:
+      - url: "https://images.macrumors.com/t/01PJDK4giliGBSuyRJCCe_GrZqY=/2500x/article-new/2021/05/Apple-vs-Microsoft-feature.jpg"
+        width: 2500
+        height: 1406
+        isCached: true
   - title: "Artificial intelligence bot ChatGPT has a better bedside manner than REAL doctors, study shows"
     excerpt: "ARTIFICIAL Intelligence bot ChatGPT has a better bedside manner than real doctors, a study shows. It was judged to give higher quality and more empathetic answers to real-world health questions 79"
     publishedDateTime: 2023-04-28T20:38:00Z
@@ -302,20 +300,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Oh Great, They Put ChatGPT Into a Boston Dynamics Robot Dog"
-    excerpt: "As if robot dogs weren't creepy enough, at least one is now equipped with OpenAI's ChatGPT and can speak aloud."
-    publishedDateTime: 2023-04-27T20:36:00Z
-    webUrl: "https://futurism.com/the-byte/chatgpt-boston-dynamics-robot-dog"
+  - title: "Samsung tells employees not to use AI tools like ChatGPT and Google Bard"
+    excerpt: "While many workers worry AI bots will take their jobs, Samsung employees are no longer allowed to use them. The company banned generative AI tools, like ChatGPT and Google Bard, after discovering staff had added sensitive code to them,"
+    publishedDateTime: 2023-05-02T12:22:00Z
+    webUrl: "https://www.engadget.com/samsung-tells-employees-not-to-use-ai-tools-like-chatgpt-and-google-bard-114004180.html"
     type: article
     provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 39
-    images:
-      - url: "https://wp-assets.futurism.com/2023/04/chatgpt-boston-dynamics-robot-dog.jpg"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Engadget
+      domain: engadget.com
+    quality: 46
   - title: "6 CFO Skills Still Needed Amid Generative AI, ChatGPT"
     excerpt: "Although CFOs may find new types of technology useful, the human element is still needed in some of the most critical parts of the job."
     publishedDateTime: 2023-05-01T15:39:00Z
@@ -432,6 +425,15 @@ related:
       name: Computerworld
       domain: computerworld.com
     quality: 17
+  - title: "AI Impact Gets Real and Fast: IBM Pauses Hiring, Chegg Plunges on ChatGPT Challenge"
+    excerpt: "Artificial intelligence is here and growing fast, putting jobs at risk and posing a complicated challenge for executives and policymakers."
+    publishedDateTime: 2023-05-02T12:56:00Z
+    webUrl: "https://www.thestreet.com/investing/stocks/ai-impact-getting-real-fast-as-ibm-pauses-hiring-chegg-plunges"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 11
   - title: "expert reaction to study comparing physician and AI chatbot responses to patient questions"
     excerpt: "April 28, 2023 expert reaction to study comparing physician and AI chatbot responses to patient questions . A study published in JAMA Internal Medicine compares physician and arti"
     publishedDateTime: 2023-04-28T15:53:00Z

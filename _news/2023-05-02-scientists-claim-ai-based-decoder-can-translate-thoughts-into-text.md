@@ -73,6 +73,17 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "AI is getting better at mind reading"
+    excerpt: "We’re getting at meaning, something about the idea of what’s happening. And the fact that that’s possible is very exciting.” The study centered on three participants, who came to Huth’s lab for 16 hours over several days to listen to “The Moth” and other narrative podcasts."
+    publishedDateTime: 2023-05-02T15:00:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/ai-is-getting-better-at-mind-reading/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/ai-is-getting-better-at-mind-reading/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/ai-is-getting-better-at-mind-reading/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 39
 
 secured: "LDOPrsR52MrF04Hh+RytTyP7Eeo9ymZB+tUrsLcBRqwxyd6F8ENF8hRIk+p/uedcnZ+N5fawX4fxPWvqMzOZ3rzxcLRXukjqlZQR+IXFiIU0UqsCBC127TOfepcrre22pxvStx7GjsSrPgOutp0nCVC7YninrPnwVTYvz6dZlUOEnsuZVMh0Ecxk2KIQ4N+9q0z5f7DWbnel256RWsY6jPQ9wTLmuw+PXv16Q+WMKXVnX/yXZZckxZTwD+USqTOhTndYPIiFMz2CeFE5tEmLX2zVlzK2mjTR4/dS3gAGCh5vJenEPSHHmNblitW05TV0raZa+AcaLdWzHKQvCCKgBh2WU+t/24BQBbWV2WKL4R4=;TzyKoFvOYCdJDYmFqjXr4g=="
 ---

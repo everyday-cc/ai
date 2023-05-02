@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-02-new-relic-launches-grok-its-ai-observability-assistant.md",
+      "title": "New Relic launches Grok, its AI observability assistant",
+      "excerpt": "New Relic introduces Grok, its generative AI assistant for observability, simplifying data analysis and task management for engineers.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/05/02/new-relic-launches-grok-its-ai-observability-assistant/",
+      "originalUrl": "https://techcrunch.com/2023/05/02/new-relic-launches-grok-its-ai-observability-assistant/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2015/11/new_relic_disrupt_afterparty.jpg?resize=1200,645",
+          "width": 1200,
+          "height": 645,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/05/02/new-relic-launches-grok-its-ai-observability-assistant/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/02/new-relic-launches-grok-its-ai-observability-assistant/amp/",
+      "publishedDateTime": "2023-05-02T07:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-02-how-will-ai-impact-the-jobs-of-digital-marketers.md",
+      "title": "How Will AI Impact The Jobs Of Digital Marketers?",
+      "excerpt": "AI can automate certain tasks and processes, but it cannot replicate the creativity, intuition and unique perspective that individual marketers bring to their work.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/02/how-will-ai-impact-the-jobs-of-digital-marketers/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/02/how-will-ai-impact-the-jobs-of-digital-marketers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f9ae2a9fdf0fd5f1e0ffee3/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/02/how-will-ai-impact-the-jobs-of-digital-marketers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/05/02/how-will-ai-impact-the-jobs-of-digital-marketers/amp/",
+      "publishedDateTime": "2023-05-02T07:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-02-mind-reading-ai-translates-brain-activity-into-a-continuous-stream-of-text.md",
       "title": "Mind-reading AI translates brain activity into a continuous stream of text",
       "excerpt": "Researchers from the University of Texas at Austin have created a mind-reading AI system that can take images of a person’s brain activity and translate them into a continuous stream of text. Called a semantic decoder,",
@@ -10,7 +114,7 @@
       "originalUrl": "https://newatlas.com/technology/mind-reading-ai-translates-brain-activity-into-text/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 132,
+      "heat": 142,
       "tags": null,
       "images": [
         {
@@ -51,6 +155,50 @@
       "topics": [
         "Natural Language Processing",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-02-legislation-introduced-to-regulate-facial-recognition-technology-in-baltimore.md",
+      "title": "Legislation introduced to regulate facial recognition technology in Baltimore",
+      "excerpt": "The councilman's proposed legislation would require any new surveillance technology proposed by police departments be subject to approval by the City Council and community input.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wmar2news.com/local/legislation-introduced-to-regulate-facial-recognition-technology-in-baltimore",
+      "originalUrl": "https://www.wmar2news.com/local/legislation-introduced-to-regulate-facial-recognition-technology-in-baltimore",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ewscripps.brightspotcdn.com/dims4/default/96db251/2147483647/strip/true/crop/640x360+0+60/resize/1280x720!/quality/90/?url=https%3A%2F%2Fmediaassets.abc2news.com%2Fphoto%2F2018%2F09%2F12%2F648987200-170667a_1536785599867_97280406_ver1.0_640_480.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wmar2news.com/local/legislation-introduced-to-regulate-facial-recognition-technology-in-baltimore?_amp=true",
+      "cdnAmpWebUrl": "https://www-wmar2news-com.cdn.ampproject.org/c/s/www.wmar2news.com/local/legislation-introduced-to-regulate-facial-recognition-technology-in-baltimore?_amp=true",
+      "publishedDateTime": "2023-05-01T14:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "wmar2news",
+        "domain": "wmar2news.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
       ]
     },
     {
@@ -1321,127 +1469,6 @@
       "provider": {
         "name": "Your Story",
         "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-18-carbyne-launches-live-audio-translation-for-apex-emergency-call-platform.md",
-      "title": "Carbyne Launches Live Audio Translation for APEX Emergency Call Platform",
-      "excerpt": "Revolutionary AI technology helps customers reduce errors, support diversity, save time, and reduce costsDENVER, April 18, 2023 /PRNewswire/ --",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/carbyne-launches-live-audio-translation-for-apex-emergency-call-platform-1032239829",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/carbyne-launches-live-audio-translation-for-apex-emergency-call-platform-1032239829",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-18T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-18-how-modern-natural-language-processing-is-improving-healthcare.md",
-      "title": "How Modern Natural Language Processing Is Improving Healthcare",
-      "excerpt": "This is where natural language processing (NLP) can be of immense value. NLP software can read and understand unstructured clinical notes, extract data from them in a structured format ...",
-      "sourceUrl": null,
-      "webUrl": "https://medcitynews.com/2023/04/how-modern-natural-language-processing-is-improving-healthcare/",
-      "originalUrl": "https://medcitynews.com/2023/04/how-modern-natural-language-processing-is-improving-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://medcitynews.com/uploads/2019/03/GettyImages-905433516.jpg",
-          "width": 724,
-          "height": 483,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-18T03:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MedCity News",
-        "domain": "medcitynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-04-18-using-ai-to-translate-human-language-into-data-qa-with-inuvos-melodie-du.md",
-      "title": "Using AI To Translate Human Language Into Data: Q&A With Inuvo's Melodie Du",
-      "excerpt": "Inuvo has created a language-model-based, generative AI capable of identifying the words associated with the audience for any product, service, or brand.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mediapost.com/publications/article/384462/using-ai-to-translate-human-language-into-data-q.html",
-      "originalUrl": "https://www.mediapost.com/publications/article/384462/using-ai-to-translate-human-language-into-data-q.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-17T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MediaPost",
-        "domain": "mediapost.com",
         "images": null,
         "publishers": null,
         "authors": null

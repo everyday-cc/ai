@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-02-5-amazing-ways-how-meta-facebook-is-using-generative-ai.md",
+      "title": "5 Amazing Ways How Meta (Facebook) Is Using Generative AI",
+      "excerpt": "Explore how Meta utilizes generative AI to revolutionize advertising, chat, image generation, and natural language processing while shaping the future of the metaverse with immersive and accessible content creation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/05/02/5-amazing-ways-how-meta-facebook-is-using-generative-ai/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/05/02/5-amazing-ways-how-meta-facebook-is-using-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6450ac8062c3ef25fedc456e/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/05/02/5-amazing-ways-how-meta-facebook-is-using-generative-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/05/02/5-amazing-ways-how-meta-facebook-is-using-generative-ai/amp/",
+      "publishedDateTime": "2023-05-01T23:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-28-google-microsoft-and-meta-each-said-ai-nearly-50-times-on-earnings-calls-heres-why-we-should-all-care.md",
       "title": "Google, Microsoft and Meta each said ‘AI’ nearly 50 times on earnings calls. Here’s why we should all care",
       "excerpt": "In earnings results this week, Alphabet, Microsoft and Meta all announced revenue boosts and put their AI priorities front-and-center.",
@@ -161,6 +213,58 @@
       ]
     },
     {
+      "path": "_news/2023-04-25-ai-isnt-just-for-tech-stocks-heres-how-coca-cola-is-teaming-up-with-openai.md",
+      "title": "AI Isn't Just for Tech Stocks. Here's How Coca-Cola Is Teaming Up With OpenAI",
+      "excerpt": "In March, the company launched an AI-driven design platform, \"Create Your Own Magic.\" Beyond marketing, Coke aims to use AI in areas like customer service and ordering. The partnership shows that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/04/24/ai-isnt-just-for-tech-stocks-heres-how-coca-cola-i/",
+      "originalUrl": "https://www.fool.com/investing/2023/04/24/ai-isnt-just-for-tech-stocks-heres-how-coca-cola-i/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/729339/aluminum-cans.jpg",
+          "width": 3456,
+          "height": 2304,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-24T17:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-25-66-of-americans-would-not-want-ai-to-help-make-hiring-decisions.md",
       "title": "66% of Americans would not want AI to help make hiring decisions",
       "excerpt": "A recent Pew Research study about using artificial intelligence when hiring and evaluating workers reveals mixed opinions.",
@@ -193,6 +297,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-25-why-c3ai-stock-cratered-on-monday.md",
+      "title": "Why C3.ai Stock Cratered on Monday",
+      "excerpt": "The bearish sentiment came courtesy of Wolfe Research analyst Joshua Tilton, who downgraded C3.ai to underperform (sell) from peer perform (hold). At the same time, the analyst assigned a price ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/04/24/why-c3ai-stock-cratered-on-monday/",
+      "originalUrl": "https://www.fool.com/investing/2023/04/24/why-c3ai-stock-cratered-on-monday/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/729391/ai-artificial-intelligence-neural-network-technology.jpg",
+          "width": 2359,
+          "height": 1270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-24T15:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -446,6 +602,49 @@
         "name": "The Washington Post",
         "domain": "washingtonpost.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-19-ai-governance-market-research-2023-2030-top-key-players-in-the-industry-are-sas-institute-pymetrics-fico-facebook.md",
+      "title": "AI Governance Market Research [2023-2030] | Top Key-Players in the Industry are - SAS Institute, Pymetrics, FICO, Facebook",
+      "excerpt": "The AI Governance market research report is the outcome of comprehensive primary and secondary research. It offers a detailed analysis of the current and future objectives of the market ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-governance-market-research-2023-2030-top-key-players-in-the-industry-are---sas-institute-pymetrics-fico-facebook-2023-04-18",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-governance-market-research-2023-2030-top-key-players-in-the-industry-are---sas-institute-pymetrics-fico-facebook-2023-04-18",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-18T20:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1188,188 +1387,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-04-why-halt-ai-research-when-we-already-know-how-to-make-it-safer.md",
-      "title": "Why Halt AI Research When We Already Know How To Make It Safer",
-      "excerpt": "This path is eminently clear: Instead of halting research, we need to improve transparency and accountability while developing guidelines around the deployment of AI systems. Policy, research ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/the-call-to-halt-dangerous-ai-research-ignores-a-simple-truth/",
-      "originalUrl": "https://www.wired.com/story/the-call-to-halt-dangerous-ai-research-ignores-a-simple-truth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/642b528c9a4669561fee612f/191:100/w_1280,c_limit/ideas_ai_tech_research_regulation.jpg",
-          "width": 1232,
-          "height": 645,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/the-call-to-halt-dangerous-ai-research-ignores-a-simple-truth/",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/the-call-to-halt-dangerous-ai-research-ignores-a-simple-truth/",
-      "publishedDateTime": "2023-04-04T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-03-3-ai-stocks-you-cant-afford-to-miss.md",
-      "title": "3 AI Stocks You Can't Afford to Miss",
-      "excerpt": "Amazon's cloud unit is certainly not going to get left behind in the age of AI, and is investing heavily to gear up for the next round of growth. Lam Research is a key player in the chip ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/04/02/3-ai-stocks-you-cant-afford-to-miss/",
-      "originalUrl": "https://www.fool.com/investing/2023/04/02/3-ai-stocks-you-cant-afford-to-miss/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/726495/artificial-intelligence-getty-62817.jpg",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-02T21:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-03-how-researchers-are-using-ai-fruit-flies-to-make-major-biological-breakthroughs.md",
-      "title": "How researchers are using AI, fruit flies to make major biological breakthroughs",
-      "excerpt": "KANSAS CITY, Mo. (KCTV) - Artificial intelligence is taking the world to a new era at the Stowers Institute for Medical Research. AI is making major breakthroughs in biology that have stumped ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kctv5.com/2023/04/04/how-researchers-are-using-ai-fruit-flies-make-major-biological-breakthroughs/",
-      "originalUrl": "https://www.kctv5.com/2023/04/04/how-researchers-are-using-ai-fruit-flies-make-major-biological-breakthroughs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-kctv-prod.cdn.arcpublishing.com/resizer/T8YzKAN3cuVd7ooBW0YR1SxdDMg=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/QE3MRHDW6NAFJHDPKHACMG53UM.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kctv5.com/2023/04/04/how-researchers-are-using-ai-fruit-flies-make-major-biological-breakthroughs/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-kctv5-com.cdn.ampproject.org/c/s/www.kctv5.com/2023/04/04/how-researchers-are-using-ai-fruit-flies-make-major-biological-breakthroughs/?outputType=amp",
-      "publishedDateTime": "2023-04-02T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KCTV News",
-        "domain": "kctv5.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-02-facebook-parent-meta-touts-artificial-intelligence-robot-that-can-learn-from-humans.md",
-      "title": "Facebook parent Meta touts Artificial Intelligence robot that can learn from humans",
-      "excerpt": "One way that Meta's Facebook AI Research (FAIR) team is working to train the robots is by developing an artificial visual cortex, which in humans, is the region of the brain that enables ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxbusiness.com/technology/facebook-parent-meta-touts-artificial-intelligence-robot-learn-humans",
-      "originalUrl": "https://www.foxbusiness.com/technology/facebook-parent-meta-touts-artificial-intelligence-robot-learn-humans",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-02T05:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox Business",
-        "domain": "foxbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

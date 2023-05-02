@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/en-gb/starting-a-business/10-vcs-to-w
 webUrl: "https://www.entrepreneur.com/en-gb/starting-a-business/10-vcs-to-watch-that-are-investing-in-european-ai/449011"
 type: article
 quality: 67
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -69,15 +69,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 49
-  - title: "European Parliament calls for a ban on facial recognition"
-    excerpt: "The European Parliament today called for a ban on police use of facial recognition technology in public places, and on predictive policing, a controversial practice that involves using AI tools in hopes of profiling potential criminals before a crime is ..."
-    publishedDateTime: 2023-04-27T21:18:00Z
-    webUrl: "https://www.politico.eu/article/european-parliament-ban-facial-recognition-brussels/?ref=upstract.com"
-    type: article
-    provider:
-      name: Politico Europe
-      domain: politico.eu
-    quality: 19
   - title: "European Parliament calls for a ban on facial recognition"
     excerpt: "The European Parliament today called for a ban on police use of facial recognition technology in public places, and on predictive policing, a controversial practice that involves using AI tools in hopes of profiling potential criminals before a crime is ..."
     publishedDateTime: 2023-04-28T19:42:00Z

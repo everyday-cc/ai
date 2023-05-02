@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/technology/mind-reading-ai-translates-brain-act
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/technology/mind-reading-ai-translates-brain-activity-into-text/?amp=true"
 type: article
 quality: 102
-heat: 132
+heat: 142
 published: true
 
 provider:
@@ -77,6 +77,17 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "AI is getting better at mind reading"
+    excerpt: "We’re getting at meaning, something about the idea of what’s happening. And the fact that that’s possible is very exciting.” The study centered on three participants, who came to Huth’s lab for 16 hours over several days to listen to “The Moth” and other narrative podcasts."
+    publishedDateTime: 2023-05-02T15:00:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/ai-is-getting-better-at-mind-reading/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/ai-is-getting-better-at-mind-reading/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/ai-is-getting-better-at-mind-reading/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 39
 
 secured: "0SpbEI0kPHv15jZTd+P8APCaP6Pf32aAqWvDFA3KRy9vjT6m80u98+Z2khPxFF024BmEW4HOONjPzfE1FeFCzTxsv3XeOXUYU/uIi/zQ0WUEjUF7YxMwc2AymdkFKEdCkFnSt68lTXtP4YWjmAdqfmE/UfDtKEhwVCCnIJqL4/ObodLCfQw9iaIRbQER6FEZUk+sm7hrAEfKDtEYYRSvyPvLPWD9qwsWrDYReLckx7hP4ftIo2L4m/Kh1AdstboRJ/RM7m+VhFA6eLqa2lB19ua4JmQPhs6gbYNxl0z+JqEkUMntENgRXDYTc7B3CMOj2nsTa3ix+pOF62uV70gjfr4dDVgMHYF58DEofTzRml4hHpcy7ZFd+EweOzVbRZHLPhNXdfHtbbPiEd0+6StTSUZsLVfZPJoZwjUh47HFmTHIs4ixXOMs3dfpHk8pIQfhOPL2jq2ViZAgU8op6pZ0LW3owHUB6+tfLmyjNC0kVqpskQf0H5fGbdR+GnrHS0hiNqnukYIqFO225pEIqKguCw==;jg+TcJIkcgtHEjSwd0aeqQ=="
 ---

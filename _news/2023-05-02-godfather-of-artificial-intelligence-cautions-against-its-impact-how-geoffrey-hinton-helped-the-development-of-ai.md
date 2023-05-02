@@ -86,6 +86,15 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "AI pioneer Geoffrey Hinton warns about growing risks as he quits Google"
+    excerpt: "His departure from Google comes at a time of turmoil for the company, which recently merged its DeepMind and Google Brain AI research units as it tries to make up lost ground in generative AI against Microsoft and OpenAI. Jeff Dean, chief scientist at ..."
+    publishedDateTime: 2023-05-02T11:21:00Z
+    webUrl: "https://www.ft.com/content/6eccea8b-6d81-45df-a922-574b3249e0d1"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 19
   - title: "expert reaction to Geoffrey Hinton quits google over risks posed by AI"
     excerpt: "May 2, 2023 expert reaction to Geoffrey Hinton quits google over risks posed by AI . It has been reported that Geoffrey Hinton has left Google and spoken about the dangers of AI."
     publishedDateTime: 2023-05-02T10:51:00Z
@@ -94,6 +103,15 @@ related:
     provider:
       name: Science Media Centre
       domain: sciencemediacentre.org
+    quality: 19
+  - title: "The Download: Geoffrey Hinton’s AI fears, and decoding our thoughts"
+    excerpt: "Geoffrey Hinton is a pioneer of deep learning who helped develop some of the most important techniques at the heart of modern artificial intelligence. But after a decade at Google, he is stepping down to focus on new concerns he now has about AI."
+    publishedDateTime: 2023-05-02T12:10:00Z
+    webUrl: "https://www.technologyreview.com/2023/05/02/1072566/the-download-geoffrey-hintons-ai-fears-and-decoding-our-thoughts/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
     quality: 19
 
 secured: "drrL17q416Vd0lDwxZiu0J7kJMtHErdDKy9sh0jTlm+Jb/icObNXRF3aSo5D8uplEzowU1QVwEJChzjJZ55xAGP07FVyBcxFd3ZB9ScwvNHwNWvImLOTSTUIwc5FAxA/z3VZBGES9KvZK3QMJ2qj4S++754TF/uIJ4GPlaI8WhX94dQRAYeNyqIeiHOkVLUkyVvc2oTnQYExwgNZ/bKcYgjppImoGS1zWescHaKk7oUcQ6/JBChZu50vVmDPyd6gskgaEZqTIzg4n5ZytBAkUR30OVeDBWKPDGJCfIyrQKoz5fJ/CM29Si04RjU5aT84M527GBSZunhIkx5TLKIOVz6GOyibZByigjOs91pPjMc=;wsf4oZ8pf8TsHypqAuZQXQ=="

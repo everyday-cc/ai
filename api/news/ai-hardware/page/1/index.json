@@ -141,6 +141,49 @@
       ]
     },
     {
+      "path": "_news/2023-04-28-top-taiwan-chip-designer-mediatek-rapidly-shifts-focus-to-autos-ai.md",
+      "title": "Top Taiwan chip designer MediaTek 'rapidly' shifts focus to autos, AI",
+      "excerpt": "MediaTek chips are seen on a development board at the MediaTek booth during the 2015 Computex exhibition in Taipei, Taiwan, June 3, 2015. REUTERS/Pichi Chuang/File Photo TAIPEI, April 28 (Reuters ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/top-taiwan-chip-designer-mediatek-rapidly-shifts-focus-autos-ai-2023-04-28/",
+      "originalUrl": "https://www.reuters.com/technology/top-taiwan-chip-designer-mediatek-rapidly-shifts-focus-autos-ai-2023-04-28/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-28T09:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-28-making-the-most-out-of-generative-ai-in-your-enterprise.md",
       "title": "Making The Most Out Of Generative AI In Your Enterprise",
       "excerpt": "Generative artificial intelligence (AI) has come to the forefront of business leaders' minds with the ongoing stories and innovative capabilities of ChatGPT and the waitlist for its rival, Google Bard.",
@@ -149,7 +192,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/28/making-the-most-out-of-generative-ai-in-your-enterprise/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 219,
+      "heat": 249,
       "tags": null,
       "images": [
         {
@@ -232,6 +275,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-27-best-graphics-card-under-1000-in-2023-top-gpu-picks.md",
+      "title": "Best graphics card under $1000 in 2023 – top GPU picks",
+      "excerpt": "Then there are also 4th Generation tensor cores, responsible for powering the AI optimisation of DLSS 3 and all this for under $1K. This is also a GPU with impressive specs. It comes with a boost ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.videogamer.com/tech/gpu/best-under-1000/",
+      "originalUrl": "https://www.videogamer.com/tech/gpu/best-under-1000/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.videogamer.com/wp-content/uploads/Best-graphics-card-under-1000-1.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-27T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VideoGamer.com",
+        "domain": "videogamer.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -539,6 +625,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-26-cadence-collaborates-with-guc-on-ai-hpc-and-networking-in-advanced-packaging-technologies.md",
+      "title": "Cadence Collaborates with GUC on AI, HPC and Networking in Advanced Packaging Technologies",
+      "excerpt": "GUC’s big-die CoWoS platform represents real-world CPU, GPU, AI, and networking chips by integrating multiple instances of the Cadence 112G-LR SerDes with a 7.2Gbps HBM3 controller and PHY ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/business-wire/20230426005217/cadence-collaborates-with-guc-on-ai-hpc-and-networking-in-advanced-packaging-technologies",
+      "originalUrl": "https://www.morningstar.com/news/business-wire/20230426005217/cadence-collaborates-with-guc-on-ai-hpc-and-networking-in-advanced-packaging-technologies",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-26T07:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar",
+        "domain": "morningstar.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1342,128 +1462,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-microsoft-reportedly-developing-its-own-ai-chip-named-athena.md",
-      "title": "Microsoft reportedly developing its own AI chip named ‘Athena’",
-      "excerpt": "Microsoft Corp. is reportedly forging ahead with efforts to develop its own chips optimized for artificial intelligence in a bid to reduce costs for training generative AI models such as those powering OpenAI LP’s ChatGPT chatbot.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/04/18/microsoft-reportedly-developing-ai-chip-named-athena/",
-      "originalUrl": "https://siliconangle.com/2023/04/18/microsoft-reportedly-developing-ai-chip-named-athena/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/10/microsoft.png",
-          "width": 1152,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-19T06:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-salience-labs-appoints-former-imagination-technologies-cpo-to-lead-productization-of-multi-chip-photonics-processor-for-ai.md",
-      "title": "Salience Labs appoints former Imagination Technologies CPO to lead productization of multi-chip photonics processor for AI",
-      "excerpt": "At Imagination Technologies, Chris delivered the annual 5-year strategy and business plan and the roadmap of GPU, AI and CPU products licensed to mobile, consumer, data centre and automotive ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20230419005519/salience-labs-appoints-former-imagination-technologies-cpo-to-lead-productization-of-multi-chip-photonics-processor-for-ai",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20230419005519/salience-labs-appoints-former-imagination-technologies-cpo-to-lead-productization-of-multi-chip-photonics-processor-for-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-19T05:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-microsoft-is-bringing-the-power-of-ai-home-with-its-own-chip.md",
-      "title": "Microsoft is bringing the power of AI home with its own chip",
-      "excerpt": "According to Reuters, Microsoft is developing its own AI chip with the “Athena” codename. It will power the tech behind AI chatbots like ChatGPT, Reuters cites The Information’s report that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizchina.com/2023/04/18/microsoft-is-bringing-the-power-of-ai-home-with-its-own-chip/",
-      "originalUrl": "https://www.gizchina.com/2023/04/18/microsoft-is-bringing-the-power-of-ai-home-with-its-own-chip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizchina.com/wp-content/uploads/images/2023/04/imagem_2023-04-18_145838608.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizchina.com/2023/04/18/microsoft-is-bringing-the-power-of-ai-home-with-its-own-chip/amp/",
-      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2023/04/18/microsoft-is-bringing-the-power-of-ai-home-with-its-own-chip/amp/",
-      "publishedDateTime": "2023-04-18T22:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GizChina",
-        "domain": "gizchina.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

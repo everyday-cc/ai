@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 781
         isCached: true
+  - title: "Generative AI Won’t Take Off Without 6G"
+    excerpt: "Although the sixth generation of broadband internet and mobile technology won’t emerge widely for a number of years, organizations are exploring business innovations for a more intelligent, immersive world."
+    publishedDateTime: 2023-05-02T12:18:00Z
+    webUrl: "https://www.forbes.com/sites/sap/2023/05/02/generative-ai-wont-take-off-without-6g/"
+    ampWebUrl: "https://www.forbes.com/sites/sap/2023/05/02/generative-ai-wont-take-off-without-6g/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2023/05/02/generative-ai-wont-take-off-without-6g/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64248ed36d63fa962ef43b0c/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Here Are The Best AI Image Generators"
     excerpt: "Here are some of the best AI image generators and how to use them. There have been heated debates about whether AI-generated images can be protected by copyright because the software creates pictures by incorporating “elements from the vast libraries of digitally available images and artwork” that the AI was trained on,"
     publishedDateTime: 2023-04-28T21:37:00Z
@@ -91,22 +107,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "EU lawmakers pass draft of AI Act, includes copyright rules for generative AI"
-    excerpt: "After months of negotiations and two years after a draft rules were proposed, EU lawmakers have a draft of the Artificial Intelligence Act."
-    publishedDateTime: 2023-04-27T20:38:00Z
-    webUrl: "https://venturebeat.com/ai/eu-lawmakers-pass-draft-of-ai-act-includes-last-minute-change-on-generative-ai-models/"
-    ampWebUrl: "https://venturebeat.com/ai/eu-lawmakers-pass-draft-of-ai-act-includes-last-minute-change-on-generative-ai-models/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/eu-lawmakers-pass-draft-of-ai-act-includes-last-minute-change-on-generative-ai-models/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 84
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/04/Untitled-design-62.png?w=1200&strip=all"
-        width: 1200
-        height: 750
-        isCached: true
   - title: "We must perfect predictive models for generative AI to deliver on the AI revolution"
     excerpt: "To accelerate the AI revolution, we shouldn’t abandon “old school AI” for flashier generative AI. Why we should perfect predictive AI."
     publishedDateTime: 2023-04-30T23:09:00Z
@@ -123,6 +123,22 @@ related:
         width: 1200
         height: 631
         isCached: true
+  - title: "Generative AI In The Construction Sector: Taking Building Technology To New Heights"
+    excerpt: "It’s no exaggeration to say that generative AI will have a transformative effect on global industry. With the ability to generate new outputs based on algorithms and trained data, it represents the next step in artificial intelligence and a new level of sophistication for machine learning."
+    publishedDateTime: 2023-05-02T15:50:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/05/02/generative-ai-in-the-construction-sector-taking-building-technology-to-new-heights/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/05/02/generative-ai-in-the-construction-sector-taking-building-technology-to-new-heights/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/05/02/generative-ai-in-the-construction-sector-taking-building-technology-to-new-heights/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 81
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64512ef3a78479bc981e6545/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Letter from the editor: How generative AI is shaping the future of journalism and our newsroom"
     excerpt: "I sent this memo to the editorial staff at VentureBeat today, explaining the way I think that we should approach this moment in digital media."
     publishedDateTime: 2023-05-02T11:55:00Z
@@ -133,7 +149,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 75
+    quality: 77
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2023/05/journo.jpg?w=1200&strip=all"
         width: 1200
@@ -201,6 +217,15 @@ related:
         width: 724
         height: 482
         isCached: true
+  - title: "What’s inside Box? More generative AI"
+    excerpt: "Box expands its enterprise content cloud with Box AI, generative AI that more intuitively understands and creates new enterprise content."
+    publishedDateTime: 2023-05-02T12:00:00Z
+    webUrl: "https://venturebeat.com/ai/whats-inside-box-more-generative-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
   - title: "Special Series: How Generative AI Changes Everything"
     excerpt: "ADI IGNATIUS: Join us for a new special series: How Generative AI Changes Everything. We’ll be talking to business leaders at the leading edge of this innovation as well as experts, who in some cases are questioning the ethics and speed of this rollout."
     publishedDateTime: 2023-04-27T23:34:00Z
@@ -229,6 +254,15 @@ related:
         width: 504
         height: 500
         isCached: true
+  - title: "Box embeds generative AI into its Content Cloud"
+    excerpt: "Announced at Box’s Content Cloud Summit today, Box AI is billed as a suite of AI capabilities that will primarily focus on two things: helping users to ask questions about documents and creating new content in Box."
+    publishedDateTime: 2023-05-02T12:00:00Z
+    webUrl: "https://siliconangle.com/2023/05/02/box-embeds-generative-ai-content-cloud/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 19
 
 secured: "dnkmIPF6pu3vec2FNu5/tmffjFvEeKquh2kRLPLdMbFxcWuER/TIxZWV5t3BI41JxO8aylz8iEAKilUZDplkv/F+ZdK7ZGw43jBdatNRBj7nX9IN8613wYjfEFPEI4XI0BXbFdPI4JoLZSh4Qn8M0B57b2YkOFO07IjWhv/YyMUkxq4ZB1uc/OvL2wSOiDjk7ZX70oKxiUHuKeVLyaZRQo5NvQHOjxHn6h5b6KQhr0J3ZEmUqhk0wDc3OBzsoW/+ybecX2mqyh7H7lynpNT4BFoJFBtDZL5Z3e9JWrAdIeRqj+/vPz85yWFJCUwom5s++atAUVdQa4u5icULRNIzy5y77uG6yDEMafS/QE5f6V3eNQ+ep2S6iOEpfSpA2Sl5VeocT2JNTyvKc8gz66eIZ+r+YA96lggoPlxRIWkOdjRYQcvC3loRTOp6qjkaE6J7vXQTPDUzhYk79pNYZ8iuJP1K5dU1nP/HUpIzUMpYzhztFtrv3Iz9hxy61TLpDY0DFJGYhMxt5tz2axu8W3fxgw==;AB7r+yeUFBmPMtoNHHRjtA=="
 ---

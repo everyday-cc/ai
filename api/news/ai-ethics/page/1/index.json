@@ -53,7 +53,7 @@
       "originalUrl": "https://venturebeat.com/ai/geoffrey-hinton-a-pioneer-in-artificial-intelligence-resigns-from-google-over-ethical-fears/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 167,
       "tags": null,
       "images": [
         {
@@ -107,7 +107,7 @@
       "originalUrl": "https://www.engadget.com/godfather-of-ai-leaves-google-amid-ethical-concerns-152451800.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 356,
+      "heat": 396,
       "tags": null,
       "images": [
         {
@@ -152,21 +152,21 @@
       ]
     },
     {
-      "path": "_news/2023-04-28-ai-for-stem-education.md",
-      "title": "AI for STEM Education",
-      "excerpt": "Enhance STEM education with resources and discussions that investigate the world of artificial intelligence, chatbots, and machine learning.",
+      "path": "_news/2023-04-28-voices-study-finds-creatives-optimistic-about-generative-ai-but-share-concerns-over-its-ethics.md",
+      "title": "Voices study finds creatives optimistic about generative AI, but share concerns over its ethics",
+      "excerpt": "Voices study finds creatives optimistic about generative AI, but share concerns over its ethics Apr 28, 2023 (PRNewswire via COMTEX) -- PR Newswire NEW",
       "sourceUrl": null,
-      "webUrl": "https://www.sciencefriday.com/articles/ai-for-stem-education/",
-      "originalUrl": "https://www.sciencefriday.com/articles/ai-for-stem-education/",
+      "webUrl": "https://www.marketwatch.com/press-release/voices-study-finds-creatives-optimistic-about-generative-ai-but-share-concerns-over-its-ethics-2023-04-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/voices-study-finds-creatives-optimistic-about-generative-ai-but-share-concerns-over-its-ethics-2023-04-28",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 72,
       "tags": null,
       "images": [
         {
-          "url": "https://www.sciencefriday.com/wp-content/uploads/2023/04/Copy-of-Getting-Started-with-AI-Instagram-Post-Square.png?w=400",
-          "width": 400,
-          "height": 400,
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -176,12 +176,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-28T09:12:00-07:00",
+      "publishedDateTime": "2023-04-28T07:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Science Friday",
-        "domain": "sciencefriday.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -191,8 +200,7 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI",
-        "AI in Education"
+        "AI"
       ]
     },
     {

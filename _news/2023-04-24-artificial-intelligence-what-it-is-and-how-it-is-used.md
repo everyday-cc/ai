@@ -14,6 +14,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.investopedia.com/thmb/LM3fhER-7UsLy-teyQe8VA8f3Bw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/artificial-intelligence-1079012838-6ee85656ad2047f08371f47bd26f1b64.jpg"

@@ -115,21 +115,37 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "AI 'godfather' Geoffrey Hinton warns of dangers as he quits Google"
-    excerpt: "A man widely seen as the godfather of artificial intelligence (AI) has quit his job, warning about the growing dangers from developments in the field. Geoffrey Hinton, aged 75, announced his resignation from Google in a statement to the New York Times, saying he now regretted his work."
-    publishedDateTime: 2023-05-02T10:59:00Z
-    webUrl: "https://www.bbc.co.uk/news/world-us-canada-65452940?at_medium=RSS&at_campaign=KARANGA"
-    ampWebUrl: "https://www.bbc.co.uk/news/world-us-canada-65452940.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-us-canada-65452940.amp"
+  - title: "Godfather of AI: Geoffrey Hinton quits Google to expose risks of artificial intelligence"
+    excerpt: "Geoffrey Hinton also known as the 'Godfather of AI' has cut off the strings that tied him to Google so that he could openly give vent to his views about the downside of the technology that has"
+    publishedDateTime: 2023-05-02T15:34:00Z
+    webUrl: "https://www.thenews.com.pk/latest/1066346-ai-godfather-geoffrey-hinton-resigns-from-google-to-speak-about-its-risks"
+    ampWebUrl: "https://www.thenews.com.pk/amp/1066346-ai-godfather-geoffrey-hinton-resigns-from-google-to-speak-about-its-risks"
+    cdnAmpWebUrl: "https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/1066346-ai-godfather-geoffrey-hinton-resigns-from-google-to-speak-about-its-risks"
     type: article
     provider:
-      name: BBC
-      domain: bbc.co.uk
+      name: The News International
+      domain: thenews.com.pk
+    quality: 65
+    images:
+      - url: "https://www.thenews.com.pk/assets/uploads/updates/2023-05-02/1066346_083422_updates.jpg"
+        width: 700
+        height: 437
+        isCached: true
+  - title: "'Godfather of AI' leaves Google, warns of tech's dangers"
+    excerpt: "Geoffrey Hinton, the man widely considered as the “godfather” of artificial intelligence, has left Google — with a message sharing his concerns about potential dangers stemming from the same technolog"
+    publishedDateTime: 2023-05-02T14:49:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/godfather-ai-leaves-google-warns-techs-dangers-99012191"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/godfather-ai-leaves-google-warns-techs-dangers-99012191"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/godfather-ai-leaves-google-warns-techs-dangers-99012191"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
     quality: 57
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/53C6/production/_129564412_aigetty.jpg"
-        width: 1024
-        height: 576
+      - url: "https://s.abcnews.com/images/Business/wirestory_fa98c6a6fddab1d7c27560f6fcbad0ad_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "The Godfather of AI quits Google; warns of impending danger"
     excerpt: "In an interview with The New York Times, Hinton expressed his concerns about AI, including the spread of misinformation, the elimination of jobs, and the possibility of AI running its own code. Hinton,"
@@ -293,6 +309,15 @@ related:
         width: 608
         height: 342
         isCached: true
+  - title: "Elon Musk backs up the 'Godfather of AI' who quit Google to warn the tech could harm humanity"
+    excerpt: "Geoffrey Hinton recently explained to The New York Times why he believed that future versions of the technology posed a threat to humanity."
+    publishedDateTime: 2023-05-02T12:55:00Z
+    webUrl: "https://www.businessinsider.com/elon-musk-ai-godfather-geoffrey-hinton-warning-tech-automation-2023-5"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 36
   - title: "Godfather of AI quits Google to warn us of the dangers of products like ChatGPT"
     excerpt: "The 'Godfather of AI' has quit Google to be able to talk about the dangers of products like ChatGPT - what Geoffrey Hinton is worried about."
     publishedDateTime: 2023-05-01T15:19:00Z
@@ -376,6 +401,24 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 19
+  - title: "AI 'godfather' Geoffrey Hinton warns of dangers as he quits Google"
+    excerpt: "A man widely seen as the godfather of artificial intelligence (AI) has quit his job, warning about the growing dangers from developments in the field. Geoffrey Hinton, aged 75, announced his resignation from Google in a statement to the New York Times, saying he now regretted his work."
+    publishedDateTime: 2023-05-02T10:59:00Z
+    webUrl: "https://www.bbc.co.uk/news/world-us-canada-65452940"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 17
+  - title: "‘Godfather of AI’ Geoffrey Hinton quits Google to warn over the tech’s threat to humanity"
+    excerpt: "Geoffrey Hinton, 75, says he now regrets having devoted his career to AI: “I console myself with the normal excuse: If I hadn’t done it, somebody else would have”."
+    publishedDateTime: 2023-05-02T10:55:00Z
+    webUrl: "https://www.euronews.com/next/2023/05/02/godfather-of-ai-geoffrey-hinton-quits-google-to-warn-over-the-techs-threat-to-humanity"
+    type: article
+    provider:
+      name: Euronews
+      domain: euronews.com
+    quality: 10
 
 secured: "Co1Gy/6689JwcwPRnocS4x/eKK6e4XusKPe2nFPHT06XfnDtyq0z6K6bJp6w8IYD7MIHZEHnnvarDbSicDsDXe1FUIsPXaxk3lD4OMkIaKLQrAM6zt0Kp0UijhXst+e7uJi+8jlDyOLBJWn7a7pI1N7f/7vf2p+WAImRzDHd0SSnI+ogQlFMc9sSCpBRlAlt4EM1ABVPCus7yuAv93R6BnNLDLRGNZKlEtqHQB/mr3Ll5YqAv9v+U9RhkmsjHO2f/Av7KI4AKaFsuk5zick7cI0/zx/hAdq0VRD6CeEyahIK80aGGS8ORL0taPzq/usl6KOwy2xdV5f+JmVjnxvLNfR+E7+VhzuU7nt1ZNmkK3yrT9ladzKXP25ZeADZeeLRztAatryTVnARb7Vxi81AqRmsTsNishZsiAviAVDWme5wT0W4UY/CVkvsVPPN1xpyMCPzxRNyUowZGNwyV/EVb9itCIDCHuwXioqfAH1G/KMFQC/VDqIXelurj1bg6RPU4YU1vcLWFbVA0mQjW4LcgQ==;sZpNbFlDodeAzAM2Nn2YIQ=="
 ---

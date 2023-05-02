@@ -3,19 +3,19 @@ category: news
 title: "IDVV Moves Forward In Artificial Intelligence AI Sector"
 excerpt: "IDVV is pleased to announce its progress in the acquisition of WITech and SF Corp, which have been completed ahead of schedule. As the company enters the AI sector, it is combining the strengths and capabilities of both acquisitions."
 publishedDateTime: 2023-04-28T20:49:00Z
-originalUrl: "https://www.miamiherald.com/press-releases/article274848016.html"
-webUrl: "https://www.miamiherald.com/press-releases/article274848016.html"
+originalUrl: "https://www.charlotteobserver.com/press-releases/article274848016.html"
+webUrl: "https://www.charlotteobserver.com/press-releases/article274848016.html"
 type: article
 quality: 34
 heat: 34
 published: false
 
 provider:
-  name: Miami Herald
-  domain: miamiherald.com
+  name: Charlotte Observer
+  domain: charlotteobserver.com
 
 topics:
-  - AI in Healthcare
+  - AI in Robotics
   - AI
 
 related:
@@ -29,6 +29,6 @@ related:
       domain: finanznachrichten.de
     quality: 23
 
-secured: "tLjP7TAYVyT/71AiSnFsF2YwwW1cnyVF0w2sJl/OAXieszSMP/6ReY//0BILr6XkauCHYg1Dm+jjOxljTK3ojGu7uxqZI2PbZ/71MCFV0iv3qrOtpiHgYUzY56ZKgLrbTlf2Am87ngen6GlqzdBsQWcY3E+Qx5FW+p0SeJVu/+G2Nz9Q9fYHqf9vtIsWMNrANqKCKsrGAKj5UE0BOZNAmYeUxis463g1liJ4UHy7ZbNnDZH32qpI/4UprJbPP1dGqQwF97XxI6S6uMJeQAw3+7gKp9UTLyy/94V2cCV0P5Rz+S4kbe3RQgoanTWlqzJKjIaTBRul33g3ZYwLhFoG8wrsPlwUiqcnFzr+PHdgTzU=;5B9gLPlYJF63dhJt/9iY1A=="
+secured: "S9whfl+POVOeFUrgPCgrDc/rA0br2NwoPVFmoxGdLqHSyYjQEmrq2hz7/bIt6lY9gmbbGKbCAbRNBitSv9yGoFIO5753/gRju23vvGZqcmNP6SQxbMJ6AuJsTUB9aBOv6C1hcLZwkXw7Xi+nl7sGSFllhLN0N4I4uqx3c7PtEjrsjsRmqgXIVyAeScD9nVO9YqOS3i8psqZbO4ZYL1tdFuujLmZDQMmS76tLsdpCePz+ixtzWci7YdGFAzBVPrK/aczyvQ5/Kqgm01CV0zFPJiePavTAUQ75SH/tNiTzl0GGoZi/pxiQGCEJ/fNM9XtreKqXHK7SXo0sDN/DpTs5q40+ozE16W2GhPh9dLNratY=;eSZwFRCh8tKceFfObkAkvg=="
 ---
 

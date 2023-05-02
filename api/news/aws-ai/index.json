@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-04-29-this-ai-startup-is-building-better-tools-than-aws-sagemaker-and-google-automl.md",
-      "title": "This AI Startup is Building Better Tools Than AWS Sagemaker and Google AutoML",
-      "excerpt": "Nirman Dave, CEO at Obviously AI claimed that their models are better than those of AWS Sagemaker or Google AutoML.",
+      "path": "_news/2023-05-02-bring-your-own-ml-model-into-amazon-sagemaker-canvas-and-generate-accurate-predictions.md",
+      "title": "Bring your own ML model into Amazon SageMaker Canvas and generate accurate predictions",
+      "excerpt": "Machine learning (ML) helps organizations generate revenue, reduce costs, mitigate risk, drive efficiencies, and improve quality by optimizing core business functions across multiple business units such as marketing, manufacturing, operations, sales, finance, and customer service. With AWS ML, organizations",
       "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/this-ai-startup-is-building-better-tools-than-aws-sagemaker-and-google-automl/",
-      "originalUrl": "https://analyticsindiamag.com/this-ai-startup-is-building-better-tools-than-aws-sagemaker-and-google-automl/",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/bring-your-own-ml-model-into-amazon-sagemaker-canvas-and-generate-accurate-predictions/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/bring-your-own-ml-model-into-amazon-sagemaker-canvas-and-generate-accurate-predictions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 128,
       "tags": null,
       "images": [
         {
-          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/04/Obviously-AI-1.jpg",
-          "width": 1920,
-          "height": 1080,
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/02/byo-models-sagemaker-predictions.jpg",
+          "width": 960,
+          "height": 479,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,12 +26,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-29T01:30:00-07:00",
+      "publishedDateTime": "2023-05-02T08:50:20-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

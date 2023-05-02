@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/legal/legalindustry/taylor-swift-ai-copyri
 webUrl: "https://www.reuters.com/legal/legalindustry/taylor-swift-ai-copyright-conundrum-2023-05-01/"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: Reuters
@@ -28,19 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "Watch Taylor Swift Sing Kanye's 'Heartless' and 14 Other AI Covers"
-    excerpt: "AI language models, presumably like the one used to generate “Heart on My Sleeve,” learn from large sets of vocal data to match the cadence and tone of the singers they try to emulate. Unfortunately for music labels,"
-    publishedDateTime: 2023-04-27T20:29:00Z
-    webUrl: "https://gizmodo.com/taylor-swift-ye-tiktok-ai-ai-voice-generators-1850383505"
+  - title: "The Future Of AI And Copyright Law In U.S.: Navigating The Nuances And Complexities"
+    excerpt: "Artificial Intelligence (AI) is a rapidly evolving technology that has permeated a diverse range of domains, including natural language processing, image recognition, and product recommendation systems."
+    publishedDateTime: 2023-05-02T14:19:00Z
+    webUrl: "https://www.benzinga.com/23/05/32162183/the-future-of-ai-and-copyright-law-in-u-s-navigating-the-nuances-and-complexities"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32162183"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32162183"
     type: article
     provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 67
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 53
     images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/a733a743bd19e8da9db8f71b8d2c5974.jpg"
-        width: 1200
-        height: 675
+      - url: "https://cdn.benzinga.com/files/black_red_modern_minimalist_podcast_horror_dark_side_activity_instagram_post_youtube_thumbnail.png?width=1200&height=800&fit=crop"
+        width: 1080
+        height: 720
         isCached: true
 
 secured: "f2nrnbQf8LOIOp2+5ixeXPnFDU2wqGTeU4pwCNCRquV2ei3urfAIFdASOqgRstN8rhec6riLGXGTJZsdB2amEeBjJoIvJ17P61CQFR9pAWfTZCS/nduVVVnRiJsuwaEqetA56IQEVY/6BceHspmnB/VbscIoYfw5sLi1wiDjLDuvbf2yDBUP7y6uLWfMwFeFemnlD3ngfN1AUfxB+InnHrlbPubWIrR21ebALJke1+eGGpzvMNNg/PZszUTz7YbreWWtPj0IAc6r2BT2Xmv/cMbvykY9l4SzXmTqxS2eQ/M4soh5nJ7vRoqvDvQ0XnuF/lKfo8rxNfyzYNDma/XamYcoAJxgiEsPwYXADxxTQxk=;o1TdESbeznVbYFSDoTQojg=="

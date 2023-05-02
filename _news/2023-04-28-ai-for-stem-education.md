@@ -7,8 +7,8 @@ originalUrl: "https://www.sciencefriday.com/articles/ai-for-stem-education/"
 webUrl: "https://www.sciencefriday.com/articles/ai-for-stem-education/"
 type: article
 quality: 56
-heat: 86
-published: true
+heat: -1
+published: false
 
 provider:
   name: Science Friday
@@ -26,43 +26,24 @@ images:
     isCached: true
 
 related:
-  - title: "AI Adoption Slow For Design Tools"
-    excerpt: "While ML adoption is robust, full AI is slow to catch fire. But that could change in the future. A lot of excitement, and a fair amount of hype, surrounds what artificial intelligence (AI) can do for the EDA industry."
-    publishedDateTime: 2023-05-01T07:08:00Z
-    webUrl: "https://semiengineering.com/slow-ai-adoption-within-eda/"
+  - title: "Code.org helping launch TeachAI to guide integration of artificial intelligence in education"
+    excerpt: "Seattle-based computer science education nonprofit Code.org is helping to launch TeachAI, a new effort aimed at guiding governments and educators on teaching with and about artificial intelligence. The initiative,"
+    publishedDateTime: 2023-05-02T13:00:00Z
+    webUrl: "https://www.geekwire.com/2023/code-org-helping-launch-teachai-to-guide-integration-of-artificial-intelligence-in-education/"
     type: article
     provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
-    quality: 39
-    images:
-      - url: "https://semiengineering.com/wp-content/uploads/Fig01_ML_func_verify_survey_SiemensEDA.png?fit=936%2C466&ssl=1"
-        width: 936
-        height: 466
-        isCached: true
-  - title: "EU proposes new copyright rules for generative AI"
-    excerpt: "Shortly after signing the letter, the Financial Times reported Musk was planning to launch his own startup to rival OpenAI. ALSO READ: Elon Musk plans AI startup to rival OpenAI, Financial Times reports"
-    publishedDateTime: 2023-04-28T01:55:00Z
-    webUrl: "https://www.asiaone.com/digital/eu-proposes-new-copyright-rules-generative-ai"
+      name: GeekWire
+      domain: geekwire.com
+    quality: 68
+  - title: "Keeping humans in charge of AI assisted decision-making"
+    excerpt: "AI assistant powered by OpenAI services – but keeps the user in the driver's seat. WELLINGTON, New Zealand, May 2, 2023 /PRNewswire/ -- 1000minds has launched an AI assistant as part of its decision-making and conjoint analysis software using Microsoft Azure OpenAI services."
+    publishedDateTime: 2023-05-02T15:33:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/keeping-humans-in-charge-of-ai-assisted-decision-making-1032283019"
     type: article
     provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 37
-    images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Apr2023/20230428_EUAI_Reuters.jpg?itok=7hZy3u6s"
-        width: 848
-        height: 601
-        isCached: true
-  - title: "Why Sign Language Translation Poses a Puzzle for AI"
-    excerpt: "Even standard travel information is rarely available in the native sign language of many Deaf people who are expected to make do with written information in their second or third language. The UK’s Network Rail is one of several transport companies around the world working to address this gap in accessibility."
-    publishedDateTime: 2023-05-02T09:35:00Z
-    webUrl: "https://slator.com/why-sign-language-translation-poses-a-puzzle-for-ai/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 19
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "KgKDjvZl1n7AJMKFatPCd6VpNaE+C6RMRtrOqtCxLHsrxQ+3bWgglXdRAMHbbhUWuT0qOO1LipvB9htEBJwvZlERaGmNHEKDWtvSUL9662jmJKOaZP3yZ56DsoW6N1aTrR/oe4SbWxImPR1P8FRDF4SUnvvrwUGS68BuT2k0OSZJWvNVAm0cz+oHny2gBTxJrpHYjf3eW40e4xLSI25JRuy5eGeyKQ0dUcWaRCs4OnlE9eDXmsR0V5bWNnMJWYB0yuP4lQY0MErXmw8BwYwuIjDM9Lr6BX9Msnsz5GpVH37NQUyvhovFeH4F5tzX+21knLFkgVgSs6KAYL2aEd3pQorc4oUyX5jMhh1JecntyhCKDkgXHLO71LJdkjdK8JqXmxoZzx6QKoJzEtjGRkJtxO4xQBZgLoFny1R7CwoahR15gm44z83jcCKNtcCDsf+dcjz3jqbWdAbic1feq0iW8q+wN5bhJ+3WmeUJhizFxLbaaXLb1X9INjEg22IU/6Cst40ufAeI73Pvkwdf9YBt8g==;TolwgmmPLs3VssgkiCAygg=="
 ---

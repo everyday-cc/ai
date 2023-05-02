@@ -3,12 +3,10 @@ category: news
 title: "AI 'godfather' Geoffrey Hinton warns of dangers as he quits Google"
 excerpt: "A man widely seen as the godfather of artificial intelligence (AI) has quit his job, warning about the growing dangers from developments in the field. Geoffrey Hinton, aged 75, announced his resignation from Google in a statement to the New York Times, saying he now regretted his work."
 publishedDateTime: 2023-05-02T10:59:00Z
-originalUrl: "https://www.bbc.co.uk/news/world-us-canada-65452940?at_medium=RSS&at_campaign=KARANGA"
-webUrl: "https://www.bbc.co.uk/news/world-us-canada-65452940?at_medium=RSS&at_campaign=KARANGA"
-ampWebUrl: "https://www.bbc.co.uk/news/world-us-canada-65452940.amp"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-us-canada-65452940.amp"
+originalUrl: "https://www.bbc.co.uk/news/world-us-canada-65452940"
+webUrl: "https://www.bbc.co.uk/news/world-us-canada-65452940"
 type: article
-quality: 57
+quality: 17
 heat: -1
 published: false
 
@@ -18,12 +16,6 @@ provider:
 
 topics:
   - AI
-
-images:
-  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/53C6/production/_129564412_aigetty.jpg"
-    width: 1024
-    height: 576
-    isCached: true
 
 related:
   - title: "'Godfather of AI' leaves Google amid ethical concerns"
@@ -117,6 +109,38 @@ related:
       - url: "https://i.guim.co.uk/img/media/9d2f544e797d7664901b646357c02b61e4121051/0_33_6222_3733/master/6222.jpg?width=620&quality=85&auto=format&fit=max&s=0fbd4a1fa9bba14ccfe9ed2804ba32fc"
         width: 620
         height: 372
+        isCached: true
+  - title: "Godfather of AI: Geoffrey Hinton quits Google to expose risks of artificial intelligence"
+    excerpt: "Geoffrey Hinton also known as the 'Godfather of AI' has cut off the strings that tied him to Google so that he could openly give vent to his views about the downside of the technology that has"
+    publishedDateTime: 2023-05-02T15:34:00Z
+    webUrl: "https://www.thenews.com.pk/latest/1066346-ai-godfather-geoffrey-hinton-resigns-from-google-to-speak-about-its-risks"
+    ampWebUrl: "https://www.thenews.com.pk/amp/1066346-ai-godfather-geoffrey-hinton-resigns-from-google-to-speak-about-its-risks"
+    cdnAmpWebUrl: "https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/1066346-ai-godfather-geoffrey-hinton-resigns-from-google-to-speak-about-its-risks"
+    type: article
+    provider:
+      name: The News International
+      domain: thenews.com.pk
+    quality: 65
+    images:
+      - url: "https://www.thenews.com.pk/assets/uploads/updates/2023-05-02/1066346_083422_updates.jpg"
+        width: 700
+        height: 437
+        isCached: true
+  - title: "'Godfather of AI' leaves Google, warns of tech's dangers"
+    excerpt: "Geoffrey Hinton, the man widely considered as the “godfather” of artificial intelligence, has left Google — with a message sharing his concerns about potential dangers stemming from the same technolog"
+    publishedDateTime: 2023-05-02T14:49:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/godfather-ai-leaves-google-warns-techs-dangers-99012191"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/godfather-ai-leaves-google-warns-techs-dangers-99012191"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/godfather-ai-leaves-google-warns-techs-dangers-99012191"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 57
+    images:
+      - url: "https://s.abcnews.com/images/Business/wirestory_fa98c6a6fddab1d7c27560f6fcbad0ad_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "The Godfather of AI quits Google; warns of impending danger"
     excerpt: "In an interview with The New York Times, Hinton expressed his concerns about AI, including the spread of misinformation, the elimination of jobs, and the possibility of AI running its own code. Hinton,"
@@ -289,6 +313,15 @@ related:
         width: 608
         height: 342
         isCached: true
+  - title: "Elon Musk backs up the 'Godfather of AI' who quit Google to warn the tech could harm humanity"
+    excerpt: "Geoffrey Hinton recently explained to The New York Times why he believed that future versions of the technology posed a threat to humanity."
+    publishedDateTime: 2023-05-02T12:55:00Z
+    webUrl: "https://www.businessinsider.com/elon-musk-ai-godfather-geoffrey-hinton-warning-tech-automation-2023-5"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 36
   - title: "Godfather of AI quits Google to warn us of the dangers of products like ChatGPT"
     excerpt: "The 'Godfather of AI' has quit Google to be able to talk about the dangers of products like ChatGPT - what Geoffrey Hinton is worried about."
     publishedDateTime: 2023-05-01T15:19:00Z
@@ -372,7 +405,16 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 19
+  - title: "‘Godfather of AI’ Geoffrey Hinton quits Google to warn over the tech’s threat to humanity"
+    excerpt: "Geoffrey Hinton, 75, says he now regrets having devoted his career to AI: “I console myself with the normal excuse: If I hadn’t done it, somebody else would have”."
+    publishedDateTime: 2023-05-02T10:55:00Z
+    webUrl: "https://www.euronews.com/next/2023/05/02/godfather-of-ai-geoffrey-hinton-quits-google-to-warn-over-the-techs-threat-to-humanity"
+    type: article
+    provider:
+      name: Euronews
+      domain: euronews.com
+    quality: 10
 
-secured: "FmvgqZoLyzzl4nB1JM1ax4r9ANK8mJKbuJA7LUszLFWVVx3rpKLor5nKtOQO7U+w5ZlRlNUxITsUZoNfq8o9xcEkrYC40myKY5lLqF7EZ4oRPunH8yNIwH3L78d20zhkl91NgheF6XdD1G5ZQGFih5+2fGaHYq+389ytYeRXWJUOplxa33ORwH+m6qXMCkyGCgxGciCXmwX6gfi76LKKvZwYnxY7ASyJpvTMgDc1NSkYz4hUXMeSRGCuVVnY+OqZs2kE4uGqoxXpF1s0zgxhzQGtqnx1MqeDy+3QupffQSlN3HuMJZtDxCWFnZl+vuJYGVvqFXksF/FD0Oj21toOakm4S1xtS0lSBTXLFxQ75tA=;scpwIrWFr/eTg8tD4uMoEQ=="
+secured: "5Zex2ReqJY3/BZ/GehhjLxQmV1A0PkXNquLa1uyBpBS2T9mpUBq19aqHkjtWi2dXI1lCPsAmm5edBOY8rCMaYxzsay52eMFu3GvQ96Q5cP9EYHqtOlHs8K4/NPHxCeWBjRphmKRedZwenrgTI4r38bVrzT4ZQC8cF0pqJGmbqaYqiDnv39yWS1p4imBbzpnaIiEizcrNLPmXxGMOrqgu+8ZS7NClyAffIWZK0u8gz+TOLFYZhlGA1QvfJ0mLxR3qloRNUrJoFutGt0M+xGaxkzsDWjftybjp3kHrJj3I+lf3I8vL7MCw2+j6e8zDpoT4+FZhywU5HiN9a/N+0bbkZS9kT4ErJBqcshQdGJQc9wCVTrYG++xLBYYdVCWo43aolHZkf0vkFyJyghSA5jHn5Sy3QsHcnv8Yc/Vty4dM8YHHvJ4tRqqWAJRa0NlYwXktHrKIdDokIisTzOVGpviw7icpNow/4jIkZpsa0RJBjZtYDCidrt1iHGtObGJNTkHL6horCBjej43cRznwEaWgLQ==;CwElyMbOFVeLKp72UYLBIQ=="
 ---
 

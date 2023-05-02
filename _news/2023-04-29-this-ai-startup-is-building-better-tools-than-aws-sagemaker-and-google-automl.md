@@ -7,8 +7,8 @@ originalUrl: "https://analyticsindiamag.com/this-ai-startup-is-building-better-t
 webUrl: "https://analyticsindiamag.com/this-ai-startup-is-building-better-tools-than-aws-sagemaker-and-google-automl/"
 type: article
 quality: 83
-heat: 93
-published: true
+heat: -1
+published: false
 
 provider:
   name: Analytics India Magazine
@@ -26,6 +26,34 @@ images:
     isCached: true
 
 related:
+  - title: "Bring your own ML model into Amazon SageMaker Canvas and generate accurate predictions"
+    excerpt: "Machine learning (ML) helps organizations generate revenue, reduce costs, mitigate risk, drive efficiencies, and improve quality by optimizing core business functions across multiple business units such as marketing, manufacturing, operations, sales, finance, and customer service. With AWS ML, organizations"
+    publishedDateTime: 2023-05-02T15:50:20Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/bring-your-own-ml-model-into-amazon-sagemaker-canvas-and-generate-accurate-predictions/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 98
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/02/byo-models-sagemaker-predictions.jpg"
+        width: 960
+        height: 479
+        isCached: true
+  - title: "Question answering using Retrieval Augmented Generation with foundation models in Amazon SageMaker JumpStart"
+    excerpt: "Today, we announce the availability of sample notebooks that demonstrate question answering tasks using a Retrieval Augmented Generation (RAG)-based approach with large language models (LLMs) in Amazon SageMaker JumpStart. Text generation using RAG with LLMs enables you to generate domain-specific text"
+    publishedDateTime: 2023-05-02T15:44:03Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/question-answering-using-retrieval-augmented-generation-with-foundation-models-in-amazon-sagemaker-jumpstart/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 70
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/04/25/ML-13871-image001.jpg"
+        width: 898
+        height: 532
+        isCached: true
   - title: "Prepare image data with Amazon SageMaker Data Wrangler"
     excerpt: "The rapid adoption of smart phones and other mobile platforms has generated an enormous amount of image data. According to Gartner, unstructured data now represents 80–90% of all new enterprise data, but just 18% of organizations are taking advantage of this data. This is mainly due to a lack of expertise"
     publishedDateTime: 2023-05-01T18:28:55Z

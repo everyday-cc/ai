@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/geoffrey-hinton-a-pioneer-in-artificial-i
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/geoffrey-hinton-a-pioneer-in-artificial-intelligence-resigns-from-google-over-ethical-fears/amp/"
 type: article
 quality: 97
-heat: 147
+heat: 167
 published: true
 
 provider:
@@ -93,6 +93,15 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "AI pioneer Geoffrey Hinton warns about growing risks as he quits Google"
+    excerpt: "His departure from Google comes at a time of turmoil for the company, which recently merged its DeepMind and Google Brain AI research units as it tries to make up lost ground in generative AI against Microsoft and OpenAI. Jeff Dean, chief scientist at ..."
+    publishedDateTime: 2023-05-02T11:21:00Z
+    webUrl: "https://www.ft.com/content/6eccea8b-6d81-45df-a922-574b3249e0d1"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 19
   - title: "expert reaction to Geoffrey Hinton quits google over risks posed by AI"
     excerpt: "May 2, 2023 expert reaction to Geoffrey Hinton quits google over risks posed by AI . It has been reported that Geoffrey Hinton has left Google and spoken about the dangers of AI."
     publishedDateTime: 2023-05-02T10:51:00Z
@@ -101,6 +110,15 @@ related:
     provider:
       name: Science Media Centre
       domain: sciencemediacentre.org
+    quality: 19
+  - title: "The Download: Geoffrey Hinton’s AI fears, and decoding our thoughts"
+    excerpt: "Geoffrey Hinton is a pioneer of deep learning who helped develop some of the most important techniques at the heart of modern artificial intelligence. But after a decade at Google, he is stepping down to focus on new concerns he now has about AI."
+    publishedDateTime: 2023-05-02T12:10:00Z
+    webUrl: "https://www.technologyreview.com/2023/05/02/1072566/the-download-geoffrey-hintons-ai-fears-and-decoding-our-thoughts/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
     quality: 19
 
 secured: "wwYoWyTtE6Ro9mn4oAebW4Nhbbqyh/Suz6SawEnPnH2Obt4IBVoOUujE539apwDWU6y5QWCsuwhYiKE80C4chr94fRItf7IBAPgGPEiMCWmTP0VOuBpByVeBL6yB4ci2Op35NMPec63ISdeuhDD0R6EZQHfO/V6mUyxm2b/WKKYA+NbHXLgohG1H+hvZdXwdQPSOAo10iWIIAzehxGmS4SXGAwZ4w/+wa6xhHbgUF4M7Fg/CkFsPsz3G9TV6Gpb/D+eWCan564qrFuNA81zBRD2Q0M37R132D2RyqUQhu1lJChbD2FD2qeWzITV20ouw/tzal/QbJ7u6RC/6uZomfmRVy3u8fcose+iToYH3sOnBGyPTCp8uFLcgUi5Z9zpMOMeluuUKcnjw0VHyOzokzpXwv5z69Jo80CFgTGZni5QKvR8N8alDnpw0EWmLLnRob/DfsmEPoJmeU1oreOA9p+sPyuL0QgPMjQ8ta1rBVY40njwtEyZKerAGIY55sP4FYz1pxekn2aPyOzSGVgTMkA==;dvQs2BIMK30E1CHcttvpsg=="

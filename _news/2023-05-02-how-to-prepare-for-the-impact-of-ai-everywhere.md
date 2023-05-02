@@ -36,6 +36,20 @@ related:
       name: Couriermail
       domain: news.com.au
     quality: 39
+  - title: "These 8 Australian fintech Companies Will Hit the Stage at Demo Day This Month"
+    excerpt: "Over the last three years, we’ve introduced you to over 30 Australian fintech startups with the help of the Australian Trade and Investment Commission (Austrade) in New York. Au"
+    publishedDateTime: 2023-05-02T14:20:00Z
+    webUrl: "https://www.alleywatch.com/2023/05/australian-fintech-companies-austrade/"
+    type: article
+    provider:
+      name: alleywatch.com
+      domain: alleywatch.com
+    quality: 20
+    images:
+      - url: "https://alleywatch.com/wp-content/uploads/2023/05/amaka.jpg"
+        width: 1000
+        height: 367
+        isCached: true
 
 secured: "bSNEW0D5BUiy9AUXs7Vm9k27WVPJqoaKEGpzRxU6BJc7En2zPXLj5npLsBwBR+lg6kaswVCZwI0PeF8m54QAUVcWgS8IjAoNOa4JpxiCO8gUkDt46gFm8P+ulY64Nruqq8WWOHc2K7ICjI4vkA0kaNzNklrU3pEhZQVq9HbSlMenO8PdU9d6Pdb67hSheK1dINkRV/95OvuzlnLzGnH76ylRx1Q6UHOoUf2ygZy6lzz1nYQqJFRg2dE+mEWMq6WZ2tq8BIEoD1G1lyQUuMA52oSIW2VSCyUZ1xrDxGjLIY5E6Zi5HUZG1J5F7K9lF/2eAdeoY1fYegpNbnm6qF6yEWVptByIJkJV3KpASlKR7WE=;j3UEZ33zNajMdngrupBJkg=="
 ---

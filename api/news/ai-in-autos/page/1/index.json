@@ -263,6 +263,49 @@
       ]
     },
     {
+      "path": "_news/2023-04-27-i-rode-in-a-waymo-self-driving-taxi-with-no-driver-and-it-was-a-smooth-and-safe-ride-despite-my-initial-fears.md",
+      "title": "I rode in a Waymo self-driving taxi with no driver and it was a smooth and safe ride, despite my initial fears",
+      "excerpt": "An curved arrow pointing right. Autonomous driving company Waymo — formerly known as the Google self-driving car project — has launched a fleet of vehicles in Phoenix and San Francisco.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/rode-self-driving-waymo-car-phoenix-and-wasnt-scary-review-2023-4",
+      "originalUrl": "https://www.businessinsider.com/rode-self-driving-waymo-car-phoenix-and-wasnt-scary-review-2023-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-27T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-27-the-future-of-artificial-intelligence-and-work.md",
       "title": "The Future Of Artificial Intelligence And Work",
       "excerpt": "The exponential growth of useful artificial intelligence (AI) applications has taken the world by storm. With AI applications and improvements being released daily, it's tempting to keep pivoting startup ideas and career strategies—especially as entire industries seem to be on the verge of getting disrupted.",
@@ -805,7 +848,8 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -1371,49 +1415,6 @@
         "AI in Autos",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-04-20-how-much-more-can-autonomous-cars-improve-waymo.md",
-      "title": "How Much More Can Autonomous Cars Improve? Waymo!",
-      "excerpt": "Alphabet’s autonomous vehicle subsidiary, Waymo, remains optimistic and the company points out that while other companies are suffering high-profile collisions, Waymo is continuing to deliver autonomous taxi services safely and reliably in Phoenix ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automotive-engineering/how-much-more-can-autonomous-cars-improve-waymo",
-      "originalUrl": "https://www.designnews.com/automotive-engineering/how-much-more-can-autonomous-cars-improve-waymo",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Waymo%20Pacifica%20Passenger.jpg",
-          "width": 1527,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-19T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

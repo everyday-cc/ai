@@ -54,6 +54,50 @@
       ]
     },
     {
+      "path": "_news/2023-05-02-legislation-introduced-to-regulate-facial-recognition-technology-in-baltimore.md",
+      "title": "Legislation introduced to regulate facial recognition technology in Baltimore",
+      "excerpt": "The councilman's proposed legislation would require any new surveillance technology proposed by police departments be subject to approval by the City Council and community input.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wmar2news.com/local/legislation-introduced-to-regulate-facial-recognition-technology-in-baltimore",
+      "originalUrl": "https://www.wmar2news.com/local/legislation-introduced-to-regulate-facial-recognition-technology-in-baltimore",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ewscripps.brightspotcdn.com/dims4/default/96db251/2147483647/strip/true/crop/640x360+0+60/resize/1280x720!/quality/90/?url=https%3A%2F%2Fmediaassets.abc2news.com%2Fphoto%2F2018%2F09%2F12%2F648987200-170667a_1536785599867_97280406_ver1.0_640_480.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wmar2news.com/local/legislation-introduced-to-regulate-facial-recognition-technology-in-baltimore?_amp=true",
+      "cdnAmpWebUrl": "https://www-wmar2news-com.cdn.ampproject.org/c/s/www.wmar2news.com/local/legislation-introduced-to-regulate-facial-recognition-technology-in-baltimore?_amp=true",
+      "publishedDateTime": "2023-05-01T14:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "wmar2news",
+        "domain": "wmar2news.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2023-05-01-godfather-of-ai-leaves-google-amid-ethical-concerns.md",
       "title": "'Godfather of AI' leaves Google amid ethical concerns",
       "excerpt": "Geoffrey Hinton, the 'godfather of AI,' has left Google so he can warn people of the risks involved with the technology..",
@@ -62,7 +106,7 @@
       "originalUrl": "https://www.engadget.com/godfather-of-ai-leaves-google-amid-ethical-concerns-152451800.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 356,
+      "heat": 396,
       "tags": null,
       "images": [
         {
@@ -167,7 +211,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-report-by-2023-2030-2023-04-28",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1363,49 +1407,6 @@
       "provider": {
         "name": "Alaska Public Media",
         "domain": "alaskapublic.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-divisions-grow-over-use-of-facial-recognition-in-california.md",
-      "title": "Divisions Grow Over Use of Facial Recognition in California",
-      "excerpt": "(TNS) — California legislators are grappling over how to deal with facial recognition technology in policing, leading to tensions between one-time allies on the issue. Assemblyman Phil Ting ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/policy/divisions-grow-over-use-of-facial-recognition-in-california",
-      "originalUrl": "https://www.govtech.com/policy/divisions-grow-over-use-of-facial-recognition-in-california",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/8df9832/2147483647/strip/true/crop/1119x583+0+23/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F9c%2Fc3%2F0eddcc5f45b1049402bb3e8fadb2%2Fshutterstock-1385868245.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/policy/divisions-grow-over-use-of-facial-recognition-in-california?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/divisions-grow-over-use-of-facial-recognition-in-california?_amp=true",
-      "publishedDateTime": "2023-04-18T19:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
         "images": null,
         "publishers": null,
         "authors": null

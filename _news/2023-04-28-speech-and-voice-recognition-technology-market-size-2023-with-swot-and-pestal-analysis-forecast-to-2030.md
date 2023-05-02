@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI Governance Market Business Report [2023-2030]"
-    excerpt: "The AI Governance market has witnessed growth from USD million to USD million from 2017 to 2022. With the CAGR, this market is estimated to reach USD million in 2029. The report focuses on the AI Governance market size,"
-    publishedDateTime: 2023-04-27T22:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-governance-market-business-report-2023-2030-2023-04-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI in Computer Vision Market (2023-2031) Players Launches Revolutionary Product Line in Coming Years"
     excerpt: "Global AI in Computer Vision Market research report offers an In-depth analysis of valuable insight into the market"
     publishedDateTime: 2023-05-02T06:43:00Z
@@ -94,20 +80,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Facial Recognition Market: Segments Analysis and Future Growth Trends By 2030"
-    excerpt: "Apr 27, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The Facial Recognition Market"
-    publishedDateTime: 2023-04-27T20:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-segments-analysis-and-future-growth-trends-by-2030-2023-04-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -178,6 +150,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Speech and Voice Recognition Technology Market 2023 | Pronounce Growth During By 2031"
+    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
+    publishedDateTime: 2023-05-02T11:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-technology-market-2023-pronounce-growth-during-by-2031-2023-05-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI in Fashion Global Market Report 2023: Growing Influence of Social Media on the Fashion Industry Fuels the Sector"
     excerpt: "The \"AI in Fashion Global Market Report 2023\" report has been added to ResearchAndMarkets.com's offering. This report provides strategists, marketers and senior"
     publishedDateTime: 2023-04-28T23:00:00Z
@@ -208,15 +194,24 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Medicine Market 2025"
-    excerpt: "The Artificial Intelligence (AI) in Medicine market is a rapidly growing segment of the healthcare industry that is expected to significantly transform the way healthcare is delivered in the future. AI technology has the potential to revolutionize healthcare by improving the accuracy,"
-    publishedDateTime: 2023-04-28T12:15:00Z
-    webUrl: "https://www.pharmiweb.com/press-release/2023-04-28/artificial-intelligence-in-medicine-market-2025-covers-valuable-guidance-for-future-ai-expansion-i"
+  - title: "Artificial Intelligence in Life Sciences Market 2023: Growth Projection for Top Regions by 2030"
+    excerpt: "May 02, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The Artificial Intelligence in"
+    publishedDateTime: 2023-05-02T08:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-life-sciences-market-2023-growth-projection-for-top-regions-by-2030-2023-05-02"
     type: article
     provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
-    quality: 19
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+  - title: "Self-driving Forklift Market 2023 Growth Status and Outlook for 2030"
+    excerpt: "Additionally, the report provides up-to-date information on the market and identifies growth opportunities for the Self-driving Forklift market. With a detailed market outlook, definition of the industry,"
+    publishedDateTime: 2023-05-02T06:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-forklift-market-2023-growth-status-and-outlook-for-2030-2023-05-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
 
 secured: "AqGe0It002son/avN7Fl52h9383eaIUMoCkFCv5xLUVl6tbfZ2w9erlQr+TRyofZLb2kLzbsrSoGqGuYWrdJT5+7DgfMGhLER44oR85Yd+FYY6Rz5nq/I2EaXawQZZrQZT2+HA+IawiC/ERqqaZ8JJKdumBAHEzjep9vps5oPdBlgN2veZ0nKWm+LZsCcfFEpOMqrtr+mL3NYzbfeOzk1LxwVA2t6lr34jleoHvE+o0CGn7FR44yjYkThRZc/sh6O2d4jM/dGGQSshXgcQptTFg8UmVPVPLdYBBbQbqKRI0IHyg4t5eoiPgn2KX8eLfIaKx+1VBs+FWFxUfKO44w/J3Jr92/mPzyMJbD9i75PIU=;1jvqVnVHUKv63/VwLKeZNw=="
 ---

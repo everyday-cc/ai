@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-04-21-artificial-neural-networks-market-analysis-and-forecast-to-2030trends-with-cagr.md",
+      "title": "Artificial Neural Networks Market Analysis and Forecast to 2030|Trends with CAGR",
+      "excerpt": "The research report on the \"Artificial Neural Networks Market\" Report helps to Development Strategy to optimise",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-neural-networks-market-analysis-and-forecast-to-2030trends-with-cagr-2023-04-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-neural-networks-market-analysis-and-forecast-to-2030trends-with-cagr-2023-04-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-20T22:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-21-automated-machine-learning-automl-market-research-2023-2030.md",
       "title": "Automated Machine Learning (AutoML) Market Research, 2023-2030",
       "excerpt": "Automated Machine Learning (AutoML) Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report",
@@ -1288,50 +1340,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-12-hankook-company-partners-with-aws-snowflake-for-ai-platform.md",
-      "title": "Hankook & Company Partners with AWS, Snowflake for AI Platform",
-      "excerpt": "Company seeks to establish a data-driven culture and create more business value by enhancing data accessibility.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aftermarketnews.com/hankook-company-partners-with-aws-snowflake-for-ai-data-platform/",
-      "originalUrl": "https://www.aftermarketnews.com/hankook-company-partners-with-aws-snowflake-for-ai-data-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s19538.pcdn.co/wp-content/uploads/2022/07/partnership.jpg",
-          "width": 1400,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-12T06:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "After Market News",
-        "domain": "aftermarketnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

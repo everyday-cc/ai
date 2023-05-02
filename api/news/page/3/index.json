@@ -2,6 +2,692 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-05-01-next-big-wave-in-tech-investing-watch-out-for-ai-technology-unicorns.md",
+      "title": "Next big wave in tech investing? Watch out for AI ‘technology unicorns’",
+      "excerpt": "Venture capital pros expect generative AI to be “highly” or “moderately disruptive” over the next five years with more than 70% believe a wave of AI-inspired “technology unicorns” is on the horizon. Check out the results of a new survey from Pitchbook.",
+      "sourceUrl": null,
+      "webUrl": "https://wraltechwire.com/2023/05/01/next-big-wave-in-tech-investing-watch-out-for-ai-technology-unicorns/",
+      "originalUrl": "https://wraltechwire.com/2023/05/01/next-big-wave-in-tech-investing-watch-out-for-ai-technology-unicorns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wraltechwire.com/wp-content/uploads/2019/11/cash-dollars-investing.jpg",
+          "width": 1280,
+          "height": 719,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wraltechwire.com/2023/05/01/next-big-wave-in-tech-investing-watch-out-for-ai-technology-unicorns/?amp=1",
+      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/05/01/next-big-wave-in-tech-investing-watch-out-for-ai-technology-unicorns/?amp=1",
+      "publishedDateTime": "2023-05-01T03:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRAL TechWire",
+        "domain": "wraltechwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-01-new-machine-learning-tool-by-iit-madras-to-detect-brain-spinal-cord-tumour.md",
+      "title": "New Machine Learning tool by IIT Madras to detect brain, spinal cord tumour",
+      "excerpt": "Madras have developed a Machine Learning (ML)-based computational tool for better detection of cancer-causing tumours in the brain and spinal cord",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/technology/tech-news/new-machine-learning-tool-by-iit-madras-to-detect-brain-spinal-cord-tumour-123050100335_1.html",
+      "originalUrl": "https://www.business-standard.com/technology/tech-news/new-machine-learning-tool-by-iit-madras-to-detect-brain-spinal-cord-tumour-123050100335_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-03/20/full/1647798220-9844.jpg",
+          "width": 620,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.business-standard.com/amp/technology/tech-news/new-machine-learning-tool-by-iit-madras-to-detect-brain-spinal-cord-tumour-123050100335_1.html",
+      "cdnAmpWebUrl": "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/technology/tech-news/new-machine-learning-tool-by-iit-madras-to-detect-brain-spinal-cord-tumour-123050100335_1.html",
+      "publishedDateTime": "2023-05-01T01:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-01-isc-2023-experience-the-power-of-hpc-in-the-cloud-with-microsoft-azure.md",
+      "title": "ISC 2023: Experience the power of HPC in the cloud with Microsoft Azure",
+      "excerpt": "The ISC High-Performance Event (ISC), formerly known as International Supercomputing Conference, is one of the most important events in the high-performance computing (HPC) industry, bringing together some of the world's most prominent researchers, developers, vendors, and users to discuss the latest",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/isc-2023-experience-the-power-of-hpc-in-the-cloud-with-microsoft-azure/",
+      "originalUrl": "https://azure.microsoft.com/blog/isc-2023-experience-the-power-of-hpc-in-the-cloud-with-microsoft-azure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/160d39f8-fece-4aab-9912-c9586177de23.jpg",
+          "width": 251,
+          "height": 251,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-01T01:00:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-01-scientist-noted-dangers-of-ai-in-book-published-shortly-after-his-death.md",
+      "title": "Scientist noted dangers of AI in book published shortly after his death",
+      "excerpt": "British theoretical physicist Stephen Hawking warned of the dangers associated with artificial intelligence before his death in 2018, arguing it could end the human race.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/flashback-stephen-hawking-warned-ai-end-human-race-years-leading-death",
+      "originalUrl": "https://www.foxnews.com/tech/flashback-stephen-hawking-warned-ai-end-human-race-years-leading-death",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/85de4b00-0416-472d-91f9-ffcfce5d8d54/0105d7a6-9949-4445-8855-e8e997bbb454/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/flashback-stephen-hawking-warned-ai-end-human-race-years-leading-death.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/flashback-stephen-hawking-warned-ai-end-human-race-years-leading-death.amp",
+      "publishedDateTime": "2023-04-30T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-01-students-use-ai-technology-to-find-new-brain-tumor-therapy-targets-with-a-goal-of-fighting-disease-faster.md",
+      "title": "Students use AI technology to find new brain tumor therapy targets — with a goal of fighting disease faster",
+      "excerpt": "Two high-school students partnered with Insilico Medicine, a Hong Kong-based medical tech company, to identify new target genes linked to glioblastoma and aging. Fox News Digital spoke to them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/health/students-use-ai-technology-find-brain-tumor-therapy-targets-goal-fighting-disease-faster",
+      "originalUrl": "https://www.foxnews.com/health/students-use-ai-technology-find-brain-tumor-therapy-targets-goal-fighting-disease-faster",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/81ed2050-d425-4054-9746-8b8f6b6b3cd5/5bc734cb-7e3e-4509-b8f9-fc93215ffd49/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/health/students-use-ai-technology-find-brain-tumor-therapy-targets-goal-fighting-disease-faster.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/students-use-ai-technology-find-brain-tumor-therapy-targets-goal-fighting-disease-faster.amp",
+      "publishedDateTime": "2023-04-30T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-01-indian-job-market-to-grow-22-pc-in-5-yrs-ai-machine-learning-among-top-roles-wef.md",
+      "title": "Indian job market to grow 22 pc in 5 yrs; AI, machine learning among top roles: WEF",
+      "excerpt": "Top roles for industry transformation in India would be AI (artificial intelligence) and machine learning specialists, and data analysts and scientists, the report added.",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/news/indian-job-market-to-grow-22-pc-in-5-yrs-ai-machine-learning-among-top-roles-wef-11682918466324.html",
+      "originalUrl": "https://www.livemint.com/news/indian-job-market-to-grow-22-pc-in-5-yrs-ai-machine-learning-among-top-roles-wef-11682918466324.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.livemint.com/lm-img/img/2023/05/01/600x338/jobs_1682919526138_1682919526484.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/news/indian-job-market-to-grow-22-pc-in-5-yrs-ai-machine-learning-among-top-roles-wef/amp-11682918466324.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/indian-job-market-to-grow-22-pc-in-5-yrs-ai-machine-learning-among-top-roles-wef/amp-11682918466324.html",
+      "publishedDateTime": "2023-04-30T22:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-01-ai-generated-music-growing-exponentially-sparking-debate.md",
+      "title": "AI-generated music growing exponentially, sparking debate",
+      "excerpt": "An anonymous creator used artificial intelligence to create a song with Drake and The Weeknd’s voices, fueling AI’s first real viral hit, “Heart on my Sleeve.” NBC News’ Steve Patterson gets a closer look at how AI music is created.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/nightly-news/video/ai-generated-music-growing-exponentially-sparking-debate-171959877938",
+      "originalUrl": "https://www.nbcnews.com/nightly-news/video/ai-generated-music-growing-exponentially-sparking-debate-171959877938",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_04/1682898379260_nn_spa_musics_new_ai_frontier_230430_1920x1080-9iile5.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo171959877938",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo171959877938",
+      "publishedDateTime": "2023-04-30T16:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-01-board-directors-and-c-suite-executives-need-an-ai-digital-literacy-jolt.md",
+      "title": "Board Directors And C-Suite Executives Need An AI Digital Literacy Jolt",
+      "excerpt": "This article summarizes a series of articles on ChatGPT to help advance board directors and c-level leaders understanding of AI in particular, generative AI like OpenAI's ChatGPT.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/04/30/board-directors-and-c-suite-executives-need-an-ai-digital-literacy-jolt/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/04/30/board-directors-and-c-suite-executives-need-an-ai-digital-literacy-jolt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/644ed0207cdeacee53ba8cab/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 425,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/04/30/board-directors-and-c-suite-executives-need-an-ai-digital-literacy-jolt/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/04/30/board-directors-and-c-suite-executives-need-an-ai-digital-literacy-jolt/amp/",
+      "publishedDateTime": "2023-04-30T13:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-30-how-are-educators-reacting-to-chat-gpt.md",
+      "title": "How Are Educators Reacting To Chat GPT?",
+      "excerpt": "ChatGPT has the opportunity to innovate how education is accessed, as well as could have severe consequences on student’s critical thinking skill development This blog will explore some of the views,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/04/30/how-are-educators-reacting-to-chat-gpt/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/04/30/how-are-educators-reacting-to-chat-gpt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/644c002dcb6000c95bf1e352/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/04/30/how-are-educators-reacting-to-chat-gpt/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/04/30/how-are-educators-reacting-to-chat-gpt/amp/",
+      "publishedDateTime": "2023-04-30T08:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-30-ai-email-spam-is-headed-this-wayand-other-smb-tech-news-this-week.md",
+      "title": "AI Email Spam Is Headed This Way…And Other SMB Tech News This Week",
+      "excerpt": "Plus: Google makes new changes to its workplace platform and Yelp adds new capabilities to help consumers do better reviews.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/quickerbettertech/2023/04/30/ai-email-spam-is-headed-this-wayand-other-smb-tech-news-this-week/",
+      "originalUrl": "https://www.forbes.com/sites/quickerbettertech/2023/04/30/ai-email-spam-is-headed-this-wayand-other-smb-tech-news-this-week/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/644bbba7974791a4120d1575/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 1942,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/quickerbettertech/2023/04/30/ai-email-spam-is-headed-this-wayand-other-smb-tech-news-this-week/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quickerbettertech/2023/04/30/ai-email-spam-is-headed-this-wayand-other-smb-tech-news-this-week/amp/",
+      "publishedDateTime": "2023-04-30T03:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-30-4-tech-giants-mentioned-ai-a-total-of-168-times-on-earnings-calls-showing-just-how-much-attention-the-tech-is-attracting.md",
+      "title": "4 tech giants mentioned AI a total of 168 times on earnings calls, showing just how much attention the tech is attracting",
+      "excerpt": "Alphabet cited artificial intelligence the most often on its investor call last week, followed by Microsoft, Meta, and Amazon.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/tech-giants-mentioned-ai-168-times-on-earnings-calls-2023-4",
+      "originalUrl": "https://www.businessinsider.com/tech-giants-mentioned-ai-168-times-on-earnings-calls-2023-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/63f5f92d5ca81e001855ac7b?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/tech-giants-mentioned-ai-168-times-on-earnings-calls-2023-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tech-giants-mentioned-ai-168-times-on-earnings-calls-2023-4?amp",
+      "publishedDateTime": "2023-04-30T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-30-promises-perils-and-predictions-for-artificial-intelligence-in-medicine-a-radiologists-perspective.md",
+      "title": "Promises, Perils, And Predictions For Artificial Intelligence In Medicine: A Radiologist’s Perspective",
+      "excerpt": "In my own field of radiology, AI will be used to enhance (but not yet replace) human radiologists making diagnoses from medical images. There are already FDA-approved AI algorithms to detect subtle internal bleeding within the brain or potentially fatal blood clots (“pulmonary embolism”) within the arteries of the lung.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/paulhsieh/2023/04/29/promises-perils-and-predictions-for-artificial-intelligence-in-medicine-a-radiologists-perspective/",
+      "originalUrl": "https://www.forbes.com/sites/paulhsieh/2023/04/29/promises-perils-and-predictions-for-artificial-intelligence-in-medicine-a-radiologists-perspective/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/644dab252763341cef0d1575/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/paulhsieh/2023/04/29/promises-perils-and-predictions-for-artificial-intelligence-in-medicine-a-radiologists-perspective/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulhsieh/2023/04/29/promises-perils-and-predictions-for-artificial-intelligence-in-medicine-a-radiologists-perspective/amp/",
+      "publishedDateTime": "2023-04-29T16:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-04-30-artificial-intelligence-may-amplify-bias-but-fights-it-as-well.md",
+      "title": "Artificial Intelligence May Amplify Bias, But Fights It As Well",
+      "excerpt": "AI bias actually lies in the real world, human society, or the system that can be exposed through the use of AI.'",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/04/29/artificial-intelligence-not-only-amplifies-bias-but-fights-it-as-well/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/04/29/artificial-intelligence-not-only-amplifies-bias-but-fights-it-as-well/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/644dabc82763341cef0d1577/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 699,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/04/29/artificial-intelligence-not-only-amplifies-bias-but-fights-it-as-well/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/04/29/artificial-intelligence-not-only-amplifies-bias-but-fights-it-as-well/amp/",
+      "publishedDateTime": "2023-04-29T16:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-30-saturday-conversation-herbie-hancock-on-international-jazz-day-what-jazz-means-to-him-ai-and-more.md",
+      "title": "Saturday Conversation: Herbie Hancock On International Jazz Day, What Jazz Means To Him, AI And More",
+      "excerpt": "Herbie Hancock is celebrating International Jazz Day (tomorrow, April 30), with an all-star live stream featuring some of the best jazz artists performing all over the world. Hancock agreed to speak about his love of jazz,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevebaltin/2023/04/29/saturday-conversation-herbie-hancock-on-international-jazz-day-what-jazz-means-to-him-ai-and-more/",
+      "originalUrl": "https://www.forbes.com/sites/stevebaltin/2023/04/29/saturday-conversation-herbie-hancock-on-international-jazz-day-what-jazz-means-to-him-ai-and-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/644d8b50ba733e9b9dad4714/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevebaltin/2023/04/29/saturday-conversation-herbie-hancock-on-international-jazz-day-what-jazz-means-to-him-ai-and-more/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevebaltin/2023/04/29/saturday-conversation-herbie-hancock-on-international-jazz-day-what-jazz-means-to-him-ai-and-more/amp/",
+      "publishedDateTime": "2023-04-29T14:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-29-cybersecurity-meets-ai-augmenting-and-accelerating-humans.md",
       "title": "Cybersecurity meets AI: Augmenting and accelerating humans",
       "excerpt": "AI in cybersecurity must be collaborative, with humans and AI improving efficiency and efficacy over what either could do independently.",
@@ -50,50 +736,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-29-this-ai-startup-is-building-better-tools-than-aws-sagemaker-and-google-automl.md",
-      "title": "This AI Startup is Building Better Tools Than AWS Sagemaker and Google AutoML",
-      "excerpt": "Nirman Dave, CEO at Obviously AI claimed that their models are better than those of AWS Sagemaker or Google AutoML.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/this-ai-startup-is-building-better-tools-than-aws-sagemaker-and-google-automl/",
-      "originalUrl": "https://analyticsindiamag.com/this-ai-startup-is-building-better-tools-than-aws-sagemaker-and-google-automl/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/04/Obviously-AI-1.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-29T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     },
     {
@@ -499,36 +1141,36 @@
       ]
     },
     {
-      "path": "_news/2023-04-28-ai-for-stem-education.md",
-      "title": "AI for STEM Education",
-      "excerpt": "Enhance STEM education with resources and discussions that investigate the world of artificial intelligence, chatbots, and machine learning.",
+      "path": "_news/2023-04-28-top-taiwan-chip-designer-mediatek-rapidly-shifts-focus-to-autos-ai.md",
+      "title": "Top Taiwan chip designer MediaTek 'rapidly' shifts focus to autos, AI",
+      "excerpt": "MediaTek chips are seen on a development board at the MediaTek booth during the 2015 Computex exhibition in Taipei, Taiwan, June 3, 2015. REUTERS/Pichi Chuang/File Photo TAIPEI, April 28 (Reuters ...",
       "sourceUrl": null,
-      "webUrl": "https://www.sciencefriday.com/articles/ai-for-stem-education/",
-      "originalUrl": "https://www.sciencefriday.com/articles/ai-for-stem-education/",
+      "webUrl": "https://www.reuters.com/technology/top-taiwan-chip-designer-mediatek-rapidly-shifts-focus-autos-ai-2023-04-28/",
+      "originalUrl": "https://www.reuters.com/technology/top-taiwan-chip-designer-mediatek-rapidly-shifts-focus-autos-ai-2023-04-28/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 74,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.sciencefriday.com/wp-content/uploads/2023/04/Copy-of-Getting-Started-with-AI-Instagram-Post-Square.png?w=400",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-28T09:12:00-07:00",
+      "publishedDateTime": "2023-04-28T09:28:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Science Friday",
-        "domain": "sciencefriday.com",
-        "images": null,
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -537,9 +1179,8 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Education"
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -551,7 +1192,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-report-by-2023-2030-2023-04-28",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -591,648 +1232,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-aimachine-learning-market-size-trends-and-forecast-2030.md",
-      "title": "AI/Machine Learning Market Size, Trends and Forecast 2030",
-      "excerpt": "The latest independent research report on AI/Machine Learning Market 2023 explore investment in Market. It classify",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/aimachine-learning-market-size-trends-and-forecast-2030-2023-04-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/aimachine-learning-market-size-trends-and-forecast-2030-2023-04-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-28T08:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-chatgpt-may-have-better-bedside-manner-than-some-doctors-but-it-lacks-some-expertise.md",
-      "title": "ChatGPT may have better bedside manner than some doctors, but it lacks some expertise",
-      "excerpt": "ChatGPT can be a useful tool for patients who are seeking medical information and guidance, but the artificial intelligence tool can't fully replace the value of a human physician -- it says so itself.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/04/28/health/chatgpt-patient-advice-study-wellness/index.html",
-      "originalUrl": "https://www.cnn.com/2023/04/28/health/chatgpt-patient-advice-study-wellness/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/230411114945-06-chatgpt-phone-stock-super-tease.jpeg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/04/28/health/chatgpt-patient-advice-study-wellness/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/04/28/health/chatgpt-patient-advice-study-wellness/index.html",
-      "publishedDateTime": "2023-04-28T08:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-democratic-senator-introduces-bill-targeting-ais-shortfalls.md",
-      "title": "Democratic senator introduces bill targeting AI’s shortfalls",
-      "excerpt": "The popular use of ChatGPT and other artificial intelligence has sparked a rush around the globe to figure out if and how it should be regulated.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/congress/democratic-senator-introduces-bill-targeting-ais-shortfalls-rcna81959",
-      "originalUrl": "https://www.nbcnews.com/politics/congress/democratic-senator-introduces-bill-targeting-ais-shortfalls-rcna81959",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-04/230428-senator-michael-bennett-mn-0950-ae45c0.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna81959",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna81959",
-      "publishedDateTime": "2023-04-28T07:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-global-natural-language-processing-nlp-market-size-to-grow-at-a-cagr-of-2130-in-the-forecast-period-of-2023-2028.md",
-      "title": "Global Natural Language Processing (NLP) Market Size To Grow At A CAGR Of 21.30% In The Forecast Period Of 2023-2028",
-      "excerpt": "The global natural language processing (NLP) market is expected to register growth during the forecast period on account of the increasing demand for advanced text analytics. Rapid technological advancements and expansions coupled with increased connectivity as well as cloud-based systems are likely to increase the market growth of natural language processing (NLP) with increased interaction between humans and machines.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-market-size-to-grow-at-a-cagr-of-2130-in-the-forecast-period-of-2023-2028-2023-04-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-market-size-to-grow-at-a-cagr-of-2130-in-the-forecast-period-of-2023-2028-2023-04-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-28T06:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-amazon-stock-down-5-as-high-prices-slow-aws-growth.md",
-      "title": "Amazon Stock Down 5% As High Prices Slow AWS Growth",
-      "excerpt": "Amazon stock fell after CFO, Brian Olsavsky, told investors that the AWS growth rate in April is tracking five percentage points below its first quarter growth rate. Were that slowdown to continue, AWS could grow at 10.8% in the second quarter — well below the 13% Wall Street projects for the second quarter, the Journal wrote.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/petercohan/2023/04/28/amazon-stock-down-2-as-high-prices-slow-aws-growth/",
-      "originalUrl": "https://www.forbes.com/sites/petercohan/2023/04/28/amazon-stock-down-2-as-high-prices-slow-aws-growth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/644aade0f54d022866bfa396/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/petercohan/2023/04/28/amazon-stock-down-2-as-high-prices-slow-aws-growth/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2023/04/28/amazon-stock-down-2-as-high-prices-slow-aws-growth/amp/",
-      "publishedDateTime": "2023-04-28T06:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-ais-earns-seventh-microsoft-advanced-specialization-in-analytics-on-azure-securing-access-to-end-customer-funding-and-resources.md",
-      "title": "AIS Earns Seventh Microsoft Advanced Specialization in Analytics on Azure, Securing Access to End-Customer Funding and Resources",
-      "excerpt": "AIS (Applied Information Sciences), experts in helping organizations modernize and innovate with Microsoft Cloud,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ais-earns-seventh-microsoft-advanced-specialization-in-analytics-on-azure-securing-access-to-end-customer-funding-and-resources-2023-04-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/ais-earns-seventh-microsoft-advanced-specialization-in-analytics-on-azure-securing-access-to-end-customer-funding-and-resources-2023-04-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-28T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-french-privacy-chief-warns-against-using-facial-recognition-for-2024-olympics.md",
-      "title": "French privacy chief warns against using facial recognition for 2024 Olympics",
-      "excerpt": "PARIS — The French data protection authority's president Marie-Laure Denis warned Tuesday against using facial recognition as part of the 2024 Paris Summer Olympics security toolkit. \"The members of the CNIL's college call on parliamentarians not to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.eu/article/french-privacy-chief-warns-against-using-facial-recognition-for-2024-olympics/",
-      "originalUrl": "https://www.politico.eu/article/french-privacy-chief-warns-against-using-facial-recognition-for-2024-olympics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/01/24/GettyImages-1161938837-scaled.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.eu/article/french-privacy-chief-warns-against-using-facial-recognition-for-2024-olympics/amp/",
-      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/french-privacy-chief-warns-against-using-facial-recognition-for-2024-olympics/amp/",
-      "publishedDateTime": "2023-04-28T05:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico Europe",
-        "domain": "politico.eu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-healthcare-ai-market-market-projection-and-growth-drivers-2023-2028.md",
-      "title": "Healthcare AI Market Market Projection and Growth Drivers 2023-2028",
-      "excerpt": "Apr 28, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" This comprehensive market research",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-market-projection-and-growth-drivers-2023-2028-2023-04-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-market-projection-and-growth-drivers-2023-2028-2023-04-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 226,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-28T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-machine-learning-operations-mlops-market-research-analysis-2023-2031.md",
-      "title": "Machine Learning Operations (MLOps) Market Research Analysis 2023-2031",
-      "excerpt": "What is the Machine Learning Operations (MLOps) market growth? Machine Learning Operations (MLOps) Market Size is projected to Reach Multimillion USD by 2031, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2031.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-operations-mlops-market-research-analysis-2023-2031-2023-04-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-operations-mlops-market-research-analysis-2023-2031-2023-04-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-28T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-making-the-most-out-of-generative-ai-in-your-enterprise.md",
-      "title": "Making The Most Out Of Generative AI In Your Enterprise",
-      "excerpt": "Generative artificial intelligence (AI) has come to the forefront of business leaders' minds with the ongoing stories and innovative capabilities of ChatGPT and the waitlist for its rival, Google Bard.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/28/making-the-most-out-of-generative-ai-in-your-enterprise/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/28/making-the-most-out-of-generative-ai-in-your-enterprise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 219,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/644a7a52c586aa5faa0d1575/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 781,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/28/making-the-most-out-of-generative-ai-in-your-enterprise/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/28/making-the-most-out-of-generative-ai-in-your-enterprise/amp/",
-      "publishedDateTime": "2023-04-28T04:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-aruba-banks-on-integrated-security-ai-naas-for-enterprise-growth.md",
-      "title": "Aruba banks on integrated security, AI, NaaS for enterprise growth",
-      "excerpt": "Aruba Networks execs talked about a number of core technologies they expect will dominate enterprise customer environments, and, clearly, integrated network/security, AI and network-as-a-service technologies will be at the heart of those developments.",
-      "sourceUrl": null,
-      "webUrl": "https://www.networkworld.com/article/3694870/aruba-banks-on-integrated-security-ai-naas-for-enterprise-growth.html",
-      "originalUrl": "https://www.networkworld.com/article/3694870/aruba-banks-on-integrated-security-ai-naas-for-enterprise-growth.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/06/23/10/group-of-executives_collaborate_board-room_board_mentor_advisory-board_colleagues_networking_by-alphaspirit-getty-images-2400x1600-100818573-large-100929428-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.networkworld.com/article/3694870/aruba-banks-on-integrated-security-ai-naas-for-enterprise-growth.amp.html",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3694870/aruba-banks-on-integrated-security-ai-naas-for-enterprise-growth.amp.html",
-      "publishedDateTime": "2023-04-28T04:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-largest-ever-federal-university-grant-awarded-for-ai-and-robotics-research-as-part-of-14b-fund.md",
-      "title": "Largest-ever federal university grant awarded for AI and robotics research, as part of $1.4B fund",
-      "excerpt": "The Canadian government has unveiled which universities will be receiving a portion of $1.4 billion in research funding, with the single largest sum going to the University of Toronto for its work on artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ctvnews.ca/politics/largest-ever-federal-university-grant-awarded-for-ai-and-robotics-research-as-part-of-1-4b-fund-1.6375101",
-      "originalUrl": "https://www.ctvnews.ca/politics/largest-ever-federal-university-grant-awarded-for-ai-and-robotics-research-as-part-of-1-4b-fund-1.6375101",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://beta.ctvnews.ca/content/dam/ctvnews/images/2023/4/28/1_6375107.jpg",
-          "width": 1020,
-          "height": 729,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://beta.ctvnews.ca/national/politics/2023/4/28/1_6375101.amp.html",
-      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/politics/2023/4/28/1_6375101.amp.html",
-      "publishedDateTime": "2023-04-28T03:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CTV News",
-        "domain": "ctvnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-ai-adoption-versatility-and-how-companies-can-confront-skill-gaps.md",
-      "title": "AI Adoption, Versatility And How Companies Can Confront Skill Gaps",
-      "excerpt": "Data is the lifeblood of businesses today. Both data science and data analysis are essential tools for understanding the world around us. Data helps organizations make better decisions, understand customer’s needs,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/28/ai-adoption-versatility-and-how-can-companies-confront-skill-gaps/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/28/ai-adoption-versatility-and-how-can-companies-confront-skill-gaps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/644a7801230d12e6fdbfa396/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/28/ai-adoption-versatility-and-how-can-companies-confront-skill-gaps/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/28/ai-adoption-versatility-and-how-can-companies-confront-skill-gaps/amp/",
-      "publishedDateTime": "2023-04-28T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

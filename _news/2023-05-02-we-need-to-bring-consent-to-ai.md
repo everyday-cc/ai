@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "IBM Plans to Replace 7,800 Jobs With AI"
+    excerpt: "The company will pause hiring soon, and expects up to 30% of non-customer-facing roles will be replaced by automation in the next five years."
+    publishedDateTime: 2023-05-02T14:57:00Z
+    webUrl: "https://www.pcmag.com/news/ibm-plans-to-replace-7800-jobs-with-ai"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/01WdVo9uJBJXuoHHOmvGQfY-1.fit_lim.size_1200x630.v1682982476.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "IBM to pause hiring for jobs that AI could do, says CEO Arvind Krishna"
     excerpt: "Hiring in back-office functions - such as human resources - will be suspended or slowed, IBM CEO Arvind Krishna said in an interview"
     publishedDateTime: 2023-05-02T01:34:00Z
@@ -153,6 +167,6 @@ related:
       domain: itp.net
     quality: 19
 
-secured: "byToIjEkK+brlLOvW8j5ptAhfGFe7RtmTcLqmf5JiFUECHuMdMDw49D6Fk3760S3REgw5gVYVtQ30YY7LdjAjUgqeU5suM8TRRHdMSq1E/fZLvoevJ1oiBJRSffmIFAzuiVJwXPK6pgGbZVFAjK6bJpfz6xx0Q8KiDzoclyTOl4V5t6UMryfFXK94XPuJSH1nxO988iNCQTMExtqgyPfYV/kLsirTZhiFTtAvruaHMneOQJT/58RI5kfYqusWC9EMMHx0pCfHQL7fbLOPhHOBc5tZb6Hzou6VZU1H1K6RDrYeYr4uE8efz5HS3PbpXTUFCTLbMmhMs89GEwaKvEgOcBrHDKxI4gnrSw4mAFTHGI=;tixq/XJiSG/opq1IfeF/uA=="
+secured: "Io2OAkg95+1QqtJtc8T7Qd6gMgQvUXiZHD+4Z5FvRDvGqZPLHOPlKgLiwcFNINkTsUZou62NNo3L4Ur1BNziwm4Pdiw62EqBrKN+0w7uZOVj88WyMBaV4PylXi7LGEXUIw4VPfq1+FHBgc+AEh9S98ruoJevYQ88tIr07jJq5q8Dr8i9FD1ikZbVWMtLKLm3Bz183Q1SBoHxkB4orEYDl6A/5GGq2NOgRbCSYo8RBF199hOL0KkYaN3OKcTnxSwRmQtgCR0rZu7tdzr7m0QpNHoPsQUnmcn+wJhh50mLGhGqroGvfHQs1ZDfW/1CmwjU+3pNdOyE1J7AB6KKkqccoJ7lZl0vM//AD6lDiWtTXJj520Jjhb9kEG9Hx2+DhfFuFnJIS7/inXLf/bVHZwU9UzpF6VEoTVXH17yRnpu8/tJJCPd3qr18yqyO12LUwgRjLuPZ5F4HLLWy+E9VQIexNi1zdXxroSXWCa4WT4gWVRyf79TvHgY9Z3xyBCoFGNiQtOkIym4hmNAvnw6Iq/UzZQ==;O9f0K4/9eC4sLci3aklfxw=="
 ---
 
