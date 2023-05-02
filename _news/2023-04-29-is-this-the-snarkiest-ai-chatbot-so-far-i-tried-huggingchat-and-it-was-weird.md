@@ -110,22 +110,6 @@ related:
         width: 1200
         height: 508
         isCached: true
-  - title: "Snapchat's new AI chatbot is already raising alarms among teens and parents"
-    excerpt: "Less than a few hours after Snapchat rolled out its My AI chatbot to all users last week, Lyndsi Lee, a mother from East Prairie, Missouri, told her 13-year-old daughter to stay away from the feature."
-    publishedDateTime: 2023-04-27T15:43:00Z
-    webUrl: "https://www.cnn.com/2023/04/27/tech/snapchat-my-ai-concerns-wellness/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2023/04/27/tech/snapchat-my-ai-concerns-wellness/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/04/27/tech/snapchat-my-ai-concerns-wellness/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 85
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/230426123404-snapchat-app-restricted-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Should Generative AI ChatGPT Be Made Available Unfettered Unfiltered And Likely Vile, Asks AI Ethics And AI Law"
     excerpt: "A rising question is whether generative AI such as ChatGPT in its rawest form has significant value and legally ought to be made available for the betterment of us all. Here's the scoop."
     publishedDateTime: 2023-05-01T08:00:00Z
@@ -336,20 +320,6 @@ related:
         width: 858
         height: 880
         isCached: true
-  - title: "Meta Hopes to Rival ChatGPT with New AI Investments"
-    excerpt: "Meta claims it's \"no longer behind in building AI infrastructure\", with new AI tools coming to WhatsApp, Messager, Facebook, and Instagram."
-    publishedDateTime: 2023-04-27T16:51:00Z
-    webUrl: "https://tech.co/news/meta-ai-investment-chatgpt-rival"
-    type: article
-    provider:
-      name: Tech.co
-      domain: tech.co
-    quality: 39
-    images:
-      - url: "https://images.tech.co/wp-content/uploads/2023/04/27113513/AdobeStock_577116307_Editorial_Use_Only-min_50-scaled.jpeg"
-        width: 2560
-        height: 1707
-        isCached: true
   - title: "Oh Great, They Put ChatGPT Into a Boston Dynamics Robot Dog"
     excerpt: "As if robot dogs weren't creepy enough, at least one is now equipped with OpenAI's ChatGPT and can speak aloud."
     publishedDateTime: 2023-04-27T20:36:00Z
@@ -480,15 +450,6 @@ related:
       name: Computerworld
       domain: computerworld.com
     quality: 17
-  - title: "Beyond ChatGPT: Miami company raises millions to bring AI tools to workplaces"
-    excerpt: "\"Most people are still struggling to figure out how to use AI to help solve their hardest problems at work,” says the startup's CEO."
-    publishedDateTime: 2023-04-27T16:05:00Z
-    webUrl: "https://www.bizjournals.com/southflorida/news/2023/04/27/airops-funding-artificial-intelligence-workplaces.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 14
   - title: "expert reaction to study comparing physician and AI chatbot responses to patient questions"
     excerpt: "April 28, 2023 expert reaction to study comparing physician and AI chatbot responses to patient questions . A study published in JAMA Internal Medicine compares physician and arti"
     publishedDateTime: 2023-04-28T15:53:00Z

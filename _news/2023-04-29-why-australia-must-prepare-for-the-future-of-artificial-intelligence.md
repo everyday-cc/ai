@@ -20,6 +20,22 @@ topics:
   - AI in Autos
   - AI
 
+related:
+  - title: "How to prepare for the impact of AI everywhere"
+    excerpt: "Generative AI is ushering in a new wave of computing in business – here’s how we can manage its impact while driving innovation"
+    publishedDateTime: 2023-05-02T08:42:00Z
+    webUrl: "https://www.information-age.com/how-to-prepare-for-impact-of-ai-everywhere-123503612/"
+    type: article
+    provider:
+      name: Information Age
+      domain: information-age.com
+    quality: 39
+    images:
+      - url: "https://informationage-production.s3.amazonaws.com/uploads/2023/05/how-to-prepare-for-impact-of-ai-everywhere-scaled.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
+
 secured: "ZdKPHvTJGQhzk4kfJNXM9+oIQLpKUQjTXJSHArBmxkbUVZZBCjggSluSs+r32sNCzkVBKUVvySa2BN1r2I0MF9VZ9qfJzILFKI7jkVjGj8C1DbVCpB4yTAZ4XAEZVuH2XOdssI5rSlgiiH1CYefmp7G5wWKg9oAJ8+d6MC55IGt00LNLW9s9x/qZ5/laRlwhBkpeRx6CkZb7MFwNf+fG/hmsvUnMOYdGlGyBJpeYj0dVniahI1iWBJ22fXSwZxn8nQrdCZLiV6HnicINrzBZL7Aa68jH9KcTJaNvUMXKN/qD83KFFh4F3RLbTiNdrEE8EPJFFifvgsJPn9vJa5jNgYIf+qdDQf9LDkiZ2x0eTQQ7Y0K4M3ngwyBxkHE2YGW8wLHSkXbbCM9Z3OZfbB8MCRBT9DNeP0pfbo1wwdQEvutL1xa4Ef4anUzTxMca9CZ2ylrAzv5JQglRyMp9aoJ5oroMiwLwS1GuZi/T6IOwTZrBAOEJEwD7lEyIzwD8GHdhmcbjj760i8Xus9Wqbc44mw==;bJms9U1M2Lg07or5bI3ivw=="
 ---
 

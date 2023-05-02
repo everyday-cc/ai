@@ -24,17 +24,6 @@ images:
     height: 466
     isCached: true
 
-related:
-  - title: "7 popular tools and frameworks for developing AI applications"
-    excerpt: "Artificial Intelligence (AI) is a rapidly growing field with numerous applications ... It can be used to build a machine translation system that can translate text from one language to another. Theano is a popular Python library for numerical computation ..."
-    publishedDateTime: 2023-04-27T16:24:00Z
-    webUrl: "https://cointelegraph.com/news/7-popular-tools-and-frameworks-for-developing-ai-applications"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 19
-
 secured: "fzwAM/EvKlfonIPdfCofMcn8TVLA6dsuqjkCtkocBj1ewRCbmN85Xiu1IucrS1Nrero7mWnotVP+PGhFBwh3HNiLrHp9e7WBQfv1B1Nb97g02MbDIUFyf8Z2I1zFLVHupsTO5aNH6RNF+KaeDOs9h9+te+5sovFY+v9ikFya+E/A7BEoAdthIiyRVuD38QuM3Y7BRIznK4azHLY147VWB91PaAPfeNlBSDJicWbVyF5FfMG6RnRnZ7gGtfl5uqw6rv0dgPBXz/hoAl1vyZ/VP5ggClf8QtPl7s38aJKQBHGDqlrbNWgagQG4P8Ol2q0lxqO13xXf/SOlOVgTsuo/zbc0ObVgYn3mnw3dmC43brV+sNXbTkzyV9a9d+ulA6ylIeOvjqbnwjtVGB7q7cI8U7BKOIuEsZ+gJ/BIUmLO34hR/qKAHjGQVzAGLXvce0vUc+FKVYBQEc3dZhru1axq5CFCaR+lmwr/xgo2ZvGKtgznCK+2TQzeY5vJiPDJo88q9+Zc3Qv6Nogr2l+eqCZdMA==;CY6CCR2H3TwqfH6uTaFVdg=="
 ---
 

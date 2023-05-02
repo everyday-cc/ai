@@ -7,7 +7,7 @@ originalUrl: "https://www.tribuneindia.com/news/amritsar/scholars-dwell-on-limit
 webUrl: "https://www.tribuneindia.com/news/amritsar/scholars-dwell-on-limits-of-artificial-intelligence-503336"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,45 +23,6 @@ images:
     width: 1102
     height: 704
     isCached: true
-
-related:
-  - title: "The dangers of letting AI loose on finance"
-    excerpt: "We must recognise the stability risks — whether over-concentration or digital herding — as well as the benefits"
-    publishedDateTime: 2023-04-27T16:07:00Z
-    webUrl: "https://www.ft.com/content/9bc5e530-ac72-4b4c-9eb1-f5e5c48f34c9"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 54
-    images:
-      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
-        width: 619
-        height: 377
-        isCached: true
-  - title: "What are the dangers of AI? Find out why people are afraid of artificial intelligence"
-    excerpt: "Many experts worry that the rapid development of artificial intelligence may have unforeseen disastrous consequences for humanity. Machine learning technology is designed to assist humans in their everyday life and provide the world with open access to information."
-    publishedDateTime: 2023-04-28T15:00:00Z
-    webUrl: "https://wfin.com/fox-technology-news/what-are-the-dangers-of-ai-find-out-why-people-are-afraid-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: WFIN
-      domain: wfin.com
-    quality: 47
-    images:
-      - url: "https://cdn.tegna-media.com/wtol/weather/PlanAhead.jpg"
-        width: 864
-        height: 486
-        isCached: true
-  - title: "The coming AI chip shortage"
-    excerpt: "Artificial intelligence requires semiconductors with powerful graphics processing units — chips that very few companies are able to make."
-    publishedDateTime: 2023-05-01T09:59:00Z
-    webUrl: "https://www.marketplace.org/shows/marketplace-tech/the-coming-ai-chip-shortage/"
-    type: article
-    provider:
-      name: Marketplace
-      domain: marketplace.org
-    quality: 34
 
 secured: "WV14bOmTfp+2msiyhsNRXUkbteP3O66yDnDaG7r0AL13IdCNS7JviMeBYOIZK5JBeblU3RbrFVKqYNGFM+lfaUgqwU3i1XcSeFHsnB9OwI+mRxrerpdEsubr10vYNjhnpe5hrnz+XP1DYx7FKjaK8btHghaMEkGGHWzjNOHlzCUj7e6S9Qde8eh0fAUPbHQLkXk+Qmo0auVr9F1KxJ8Bt+9Ph8GGtzIdt//Lv/+stkR6ngIi/j6AXZtlIzFuhwQ8JtJN6me5t4ifKnQ3HPoPR5mPuxnWoUOnpXwSqKcI0a07k/4hiQnuywbXBDe4XsGNuBtahiGY4qr3TdO682K2UANKXVtK7sK3YpEI8PflIWQ=;cLiz/GDokHNbGh2PTHEftg=="
 ---

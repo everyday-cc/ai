@@ -30,85 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "Making The Most Out Of Generative AI In Your Enterprise"
-    excerpt: "Generative artificial intelligence (AI) has come to the forefront of business leaders' minds with the ongoing stories and innovative capabilities of ChatGPT and the waitlist for its rival, Google Bard."
-    publishedDateTime: 2023-04-28T11:14:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/28/making-the-most-out-of-generative-ai-in-your-enterprise/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/28/making-the-most-out-of-generative-ai-in-your-enterprise/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/28/making-the-most-out-of-generative-ai-in-your-enterprise/amp/"
+  - title: "RSA Conference 2023 Ushers In The Age Of Artificial Intelligence"
+    excerpt: "Vice President, Security, Carriers and Enterprise Networking, Will Townsend, shares his insights into what he found most compelling at RSA Conference 2023."
+    publishedDateTime: 2023-04-28T16:37:00Z
+    webUrl: "https://www.forbes.com/sites/moorinsights/2023/04/28/rsa-conference-2023-ushers-in-the-age-of-artificial-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/04/28/rsa-conference-2023-ushers-in-the-age-of-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/04/28/rsa-conference-2023-ushers-in-the-age-of-artificial-intelligence/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/644a7a52c586aa5faa0d1575/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 781
-        isCached: true
-  - title: "Understanding the risks of generative AI for better business outcomes"
-    excerpt: "Understand the risks to security, privacy and more of generative AI and the precautions you can take to mitigate them."
-    publishedDateTime: 2023-04-29T16:10:00Z
-    webUrl: "https://venturebeat.com/ai/understand-risks-generative-ai-better-business-outcomes/"
-    ampWebUrl: "https://venturebeat.com/ai/understand-risks-generative-ai-better-business-outcomes/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/understand-risks-generative-ai-better-business-outcomes/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1209661950-e1666828949345.jpg?w=1200&strip=all"
-        width: 1200
-        height: 595
-        isCached: true
-  - title: "EU lawmakers pass draft of AI Act, includes copyright rules for generative AI"
-    excerpt: "After months of negotiations and two years after a draft rules were proposed, EU lawmakers have a draft of the Artificial Intelligence Act."
-    publishedDateTime: 2023-04-27T20:38:00Z
-    webUrl: "https://venturebeat.com/ai/eu-lawmakers-pass-draft-of-ai-act-includes-last-minute-change-on-generative-ai-models/"
-    ampWebUrl: "https://venturebeat.com/ai/eu-lawmakers-pass-draft-of-ai-act-includes-last-minute-change-on-generative-ai-models/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/eu-lawmakers-pass-draft-of-ai-act-includes-last-minute-change-on-generative-ai-models/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 84
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/04/Untitled-design-62.png?w=1200&strip=all"
-        width: 1200
-        height: 750
-        isCached: true
-  - title: "We must perfect predictive models for generative AI to deliver on the AI revolution"
-    excerpt: "To accelerate the AI revolution, we shouldn’t abandon “old school AI” for flashier generative AI. Why we should perfect predictive AI."
-    publishedDateTime: 2023-04-30T23:09:00Z
-    webUrl: "https://venturebeat.com/ai/we-must-perfect-predictive-models-for-generative-ai-to-deliver-on-the-ai-revolution/"
-    ampWebUrl: "https://venturebeat.com/ai/we-must-perfect-predictive-models-for-generative-ai-to-deliver-on-the-ai-revolution/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/we-must-perfect-predictive-models-for-generative-ai-to-deliver-on-the-ai-revolution/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 81
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1347040940.jpg?w=1200&strip=all"
-        width: 1200
-        height: 631
-        isCached: true
-  - title: "Generative AI Tools Like ChatGPT And Bard Heralding Generational Shift In Job Roles. Adapt Or Risk Obsolescence"
-    excerpt: "The benefits and impact of Generative AI tools like ChatGPT on industries and job roles have only begun to occur, harbingering generational job role shifts."
-    publishedDateTime: 2023-05-01T15:59:00Z
-    webUrl: "https://www.forbes.com/sites/roomykhan/2023/05/01/generative-ai-tools-like-chatgpt-and-bard-heralding-generational-shift-in-job-roles-adapt-or-risk-obsolescence/"
-    ampWebUrl: "https://www.forbes.com/sites/roomykhan/2023/05/01/generative-ai-tools-like-chatgpt-and-bard-heralding-generational-shift-in-job-roles-adapt-or-risk-obsolescence/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roomykhan/2023/05/01/generative-ai-tools-like-chatgpt-and-bard-heralding-generational-shift-in-job-roles-adapt-or-risk-obsolescence/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/644fdd5de31e3cc4caad4710/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 798
+      - url: "https://imageio.forbes.com/specials-images/imageserve/644bf598b7ad555c305df357/0x0.jpg?format=jpg&crop=802,450,x0,y0,safe&width=1200"
+        width: 802
+        height: 450
         isCached: true
   - title: "The rise of AI surveillance"
     excerpt: "Internet companies track our clicks to divine our preferences for products, news articles or ads. The facial recognition company Clearview AI scrapes images off sites like Facebook and YouTube to train its model. Facebook recently announced it will begin ..."
@@ -126,70 +62,29 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Top 8 AI Chips for Your Generative AI Play"
-    excerpt: "The AI chip market is expected to grow at a CAGR of 51% and reach $73.49 billion by 2025. Semiconductor companies could capture 40-50% of the total market share. Companies such as Alphabet, Broadcom,"
-    publishedDateTime: 2023-04-29T04:30:00Z
-    webUrl: "https://analyticsindiamag.com/top-8-ai-chips-for-your-generative-ai-play/"
+  - title: "The profundity of AI"
+    excerpt: "As for the topic of AI posing a threat to human intelligence, it is a complex and controversial issue with many experts warning about the potential dangers it may pose to human intelligence. Some argue that AI could eventually surpass human intelligence,"
+    publishedDateTime: 2023-05-02T00:58:00Z
+    webUrl: "https://www.brecorder.com/news/40239781/the-profundity-of-ai"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 58
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/04/unnamed-2.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "UAE Government launches 'Generative AI' guide to facilitate adoption of AI technology"
-    excerpt: "The “Generative AI” guide serves as a valuable resource for government entities, enabling them to leverage the benefits of AI"
-    publishedDateTime: 2023-04-30T11:26:00Z
-    webUrl: "https://www.zawya.com/en/world/middle-east/uae-government-launches-generative-ai-guide-to-facilitate-adoption-of-ai-technology-s26snsak"
-    ampWebUrl: "https://www.zawya.com/en/world/middle-east/uae-government-launches-generative-ai-guide-to-facilitate-adoption-of-ai-technology-s26snsak?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/world/middle-east/uae-government-launches-generative-ai-guide-to-facilitate-adoption-of-ai-technology-s26snsak?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 52
-    images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/M2M5YWFiM2QtMjIxNS00/17/180516221659emso-jpg.jpeg?f=3%3A2"
-        width: 724
-        height: 482
-        isCached: true
-  - title: "EU lawmakers pass draft of AI Act, includes last-minute change on generative AI models"
-    excerpt: "After months of negotiations and two years after a draft rules were proposed, EU lawmakers have a draft of the Artificial Intelligence Act."
-    publishedDateTime: 2023-04-27T19:02:00Z
-    webUrl: "https://venturebeat.com/ai/eu-lawmakers-pass-draft-of-ai-act-includes-last-minute-change-on-generative-ai-models/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
+      name: Business Recorder
+      domain: brecorder.com
     quality: 39
-  - title: "UAE Government launches the “Generative AI” Guide to facilitate the adoption of AI technology across vital industries"
-    excerpt: "The “Generative AI” guide serves as a valuable resource for government entities, enabling them to leverage the benefits of AI technologies and enhance its implementation across various fields. Commenting on the launch,"
-    publishedDateTime: 2023-04-30T11:45:00Z
-    webUrl: "https://www.zawya.com/en/press-release/government-news/uae-government-launches-the-generative-ai-guide-to-facilitate-the-adoption-of-ai-technology-across-vital-industries-r5v4skkw"
-    ampWebUrl: "https://www.zawya.com/en/press-release/government-news/uae-government-launches-the-generative-ai-guide-to-facilitate-the-adoption-of-ai-technology-across-vital-industries-r5v4skkw?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/government-news/uae-government-launches-the-generative-ai-guide-to-facilitate-the-adoption-of-ai-technology-across-vital-industries-r5v4skkw?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 36
     images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/YWM4MDI3MDEtMDIzMC00/1/1-jpg.jpeg?f=3%3A2"
-        width: 900
-        height: 600
+      - url: "https://i.brecorder.com/large/2023/05/64501a2d079b6.jpg"
+        width: 800
+        height: 455
         isCached: true
-  - title: "Moveworks Launches Creator Studio: A No-Code, Generative AI Platform for Building Any Conversational AI Use Case Across the Enterprise"
-    excerpt: "Moveworks, a leading conversational AI platform for the enterprise, announced Creator Studio — a no-code, generative AI platform for building any conversational AI use case in minutes. The platform leverages advanced large language models (LLMs) and generative AI to provide a natural language interface that serves as an enterprise-wide co-pilot for employees."
-    publishedDateTime: 2023-04-27T18:27:00Z
-    webUrl: "https://www.datanami.com/this-just-in/moveworks-launches-creator-studio-a-no-code-generative-ai-platform-for-building-any-conversational-ai-use-case-across-the-enterprise/"
+  - title: "Emerging trends in 2023: The evolution of AI in online shopping"
+    excerpt: "In recent years, the AI technology has been widely adopted by the e-commerce sector and AI will witness a fast growth in the coming years so as to enable e-commerce businesses in making data-driven strategic decisions."
+    publishedDateTime: 2023-04-30T13:53:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/emerging-trends-in-2023-the-evolution-of-ai-in-online-shopping-10503931.html"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 0
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 17
 
 secured: "BRqHjqcoVKroJopRkgsRc4fIJ06WRZO+jUy9GTYOPxrWNzOQDCZhLV9uHyolvVZPHxJiTZXoB2Mwp/kRY/9zCmeid+SsWMnUR89ZxJdWmDhAtFGclKPXsmKQP8z2ZKxVJgPJ+j/4DGtNn7Y8Hc+5fFE6+b4nIHjxe62WKXjSIH6SOOlEqYgpe8P6SBOLpt9kJJQtHwksd59pBaxmZKUZExQdUsHonkvsxfjJFVD59EVeyy7WZufgid2upgnwoThX7RmLEXdwzCf/URVD8sn7rPsiALQKgLzT9Vzv69J9XxQ75zGRbvlwSRMMe9rKbkhdIJ5Xu1ynfjO9467saMUK41HLfYumNgTATOJFYSeFJyZN8CvEVkmsu1kn+eNGkci55fzfX89IZLo97mqxEGDuZ4JVKy94feJFo9MtqHq4d+zgxRVD3bYwAwkSvT+6yoRv+kpvn2K1Neh4ZoFvFcy8lte9WcloIBPeC0Pow5CNIf+rj9AWfMb/lXm7/eApea060TIERuG58Eb9Ol5by/n+2Q==;wlu+33hDyxoAFQUZnKSW2A=="
 ---

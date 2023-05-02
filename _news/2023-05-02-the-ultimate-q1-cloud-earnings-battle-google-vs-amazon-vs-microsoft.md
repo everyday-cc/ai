@@ -28,93 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft's Q1 Earnings Show Impact Of Companies Going All-In On AI"
-    excerpt: "Revenue, net income and cloud computing were all up, delighting Wall Street and confirming Microsoft’s gamble has so far paid off."
-    publishedDateTime: 2023-04-27T15:13:00Z
-    webUrl: "https://www.forbes.com/sites/qai/2023/04/27/microsofts-q1-earnings-show-impact-of-companies-going-all-in-on-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/qai/2023/04/27/microsofts-q1-earnings-show-impact-of-companies-going-all-in-on-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/04/27/microsofts-q1-earnings-show-impact-of-companies-going-all-in-on-ai/amp/"
+  - title: "ISC 2023: Experience the power of HPC in the cloud with Microsoft Azure"
+    excerpt: "The ISC High-Performance Event (ISC), formerly known as International Supercomputing Conference, is one of the most important events in the high-performance computing (HPC) industry, bringing together some of the world's most prominent researchers, developers, vendors, and users to discuss the latest"
+    publishedDateTime: 2023-05-01T08:00:02Z
+    webUrl: "https://azure.microsoft.com/blog/isc-2023-experience-the-power-of-hpc-in-the-cloud-with-microsoft-azure/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 106
+      name: Microsoft
+      domain: microsoft.com
+    quality: 104
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/644a90ed0c69a91ea555c171/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 777
-        isCached: true
-  - title: "Google, Microsoft and Meta each said ‘AI’ nearly 50 times on earnings calls. Here’s why we should all care"
-    excerpt: "In earnings results this week, Alphabet, Microsoft and Meta all announced revenue boosts and put their AI priorities front-and-center."
-    publishedDateTime: 2023-04-27T17:39:00Z
-    webUrl: "https://venturebeat.com/ai/google-microsoft-and-meta-each-said-ai-nearly-50-times-on-earnings-calls-heres-why-we-should-all-care/"
-    ampWebUrl: "https://venturebeat.com/ai/google-microsoft-and-meta-each-said-ai-nearly-50-times-on-earnings-calls-heres-why-we-should-all-care/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/google-microsoft-and-meta-each-said-ai-nearly-50-times-on-earnings-calls-heres-why-we-should-all-care/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 88
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/04/Untitled-design-61.png?w=1200&strip=all"
-        width: 1200
-        height: 750
-        isCached: true
-  - title: "Microsoft Designer brings AI-powered graphic design to the masses"
-    excerpt: "The tech giant also announced some new features for the Designer app, which will be built into the Edge browser."
-    publishedDateTime: 2023-04-27T16:00:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-designer-brings-ai-powered-graphic-design-to-the-masses/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 84
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/50fd6a1cfe31ec9d10ff4615b524de8913ec7a29/2023/04/26/24e69b8f-a2d3-4f03-aa7c-d99abbf56d43/zdnetdesigner.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Microsoft's AI will now help you design your Instagram posts in seconds"
-    excerpt: "Microsoft Designer is now available to try out in preview for free. It uses AI-based text-to-image generation to create social media posts."
-    publishedDateTime: 2023-04-28T05:03:00Z
-    webUrl: "https://www.androidauthority.com/microsoft-designer-social-media-posts-ai-3318234/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 84
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2023/04/Microsoft-Designer-AI.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "AIS Earns Seventh Microsoft Advanced Specialization in Analytics on Azure, Securing Access to End-Customer Funding and Resources"
-    excerpt: "AIS (Applied Information Sciences), experts in helping organizations modernize and innovate with Microsoft Cloud,"
-    publishedDateTime: 2023-04-28T13:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ais-earns-seventh-microsoft-advanced-specialization-in-analytics-on-azure-securing-access-to-end-customer-funding-and-resources-2023-04-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 70
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Google and Microsoft Are Gaining on AWS: Here's Why Amazon Isn't Worried"
-    excerpt: "Google Cloud and Microsoft's (NASDAQ: MSFT) Azure are gaining ground on Amazon (NASDAQ: AMZN) Web Services (AWS). Alphabet reported that Google Cloud revenue soared 28% year-over-year in the quarter ending March 31,"
-    publishedDateTime: 2023-04-30T09:55:00Z
-    webUrl: "https://moneymorning.com/investing/google-and-microsoft-are-gaining-on-aws-heres-why-amazon-isnt-worried/"
-    type: article
-    provider:
-      name: Money Morning
-      domain: moneymorning.com
-    quality: 70
-    images:
-      - url: "https://moneymorning.com/wp-content/blogs.dir/1/files/2023/04/motley-fool-mark.png"
-        width: 940
-        height: 940
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/160d39f8-fece-4aab-9912-c9586177de23.jpg"
+        width: 251
+        height: 251
         isCached: true
   - title: "Amazon, Microsoft and Alphabet deliver slower cloud growth. Here's how AI could reverse that trend"
     excerpt: "Microsoft (MSFT) and Alphabet (GOOGL) continued to slow. But over the longer term, we expect growth to reaccelerate."
@@ -127,20 +53,6 @@ related:
     quality: 70
     images:
       - url: "https://image.cnbcfm.com/api/v1/image/107191059-16758639962023-02-08t134132z_1009027201_rc2vfs94lvi1_rtrmadp_0_usa-treasury-cloud-computing.jpeg?v=1682958326&w=1920&h=1080"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Google, Microsoft, Amazon, & Meta put AI on steroids while cutting jobs"
-    excerpt: "The IT behemoths Alphabet, Microsoft, Amazon, and Meta are increasing their large language model (LLM) investments as a show of their dedication to utilizing the power of artificial intelligence (AI) while cutting costs and jobs."
-    publishedDateTime: 2023-04-29T15:51:00Z
-    webUrl: "https://interestingengineering.com/innovation/google-microsoft-amazon-meta-ai"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 56
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/04/29/image/jpeg/CansC0Fg86ivCNtL2I5csadyaajvjydZxqrQjzeV.jpg"
         width: 1920
         height: 1080
         isCached: true
@@ -158,20 +70,6 @@ related:
         width: 505
         height: 315
         isCached: true
-  - title: "Microsoft Earnings Takeaways: Cloud, Generative AI, The Path To E7"
-    excerpt: "Analyst reports point to the potential for Azure deceleration slowing, an end to customers optimizing cloud spend and the sales potential of generative AI. Better-than-expected results from Microsoft’s latest earnings—not to mention those of cloud rivals Google and Amazon Web Services—led to a mix of analyst reports hopeful for Azure deceleration slowing,"
-    publishedDateTime: 2023-05-01T14:20:00Z
-    webUrl: "https://www.crn.com/news/cloud/microsoft-earnings-takeaways-cloud-generative-ai-the-path-to-e7"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 54
-    images:
-      - url: "https://www.crn.com/resources/027d-17198c0bb2a2-47b52df5a838-1000/nadella-intro2.jpeg"
-        width: 610
-        height: 457
-        isCached: true
   - title: "Copilot Tech Shines at Build 2023 As Microsoft Morphs into an AI Company"
     excerpt: "Developers are in for an AI treat of all the information and guidance they can consume at Microsoft's big developer conference kicking off in Seattle on May 23."
     publishedDateTime: 2023-04-27T17:30:00Z
@@ -187,6 +85,6 @@ related:
         height: 450
         isCached: true
 
-secured: "Ou2BxIa1BBtP7Diqgpsi7VUzuQpNScUzCSvjFdToM5QMQPT3QfMY9wgG1h5g3cBiOUM8wJ4eWPUV1k2qBCUJb1V/Tlo6I/3yCBcAAiGS2mXQqK8gdWUq2QpVQ8K9Mkw2dWKmwMXCTsG+35DqWVdFYRhbSuec32M3sPzWcMAHIzhegwYxtAk9Oh9jTb3AvuDOYIDoE9mbSgnPw8+qoH3VdSNlnSgCve2YPenGzySAp9wwM9xrkvpbwhnnKzql2TDbu2C5F8ns0HEaGO7MhFen0PZg5hj56+srWREDygASFtNPoGBdsOsTcPyFiWBC4+lpzk5ui4h6AdKqk0FXLE/mZ+c8tMQ7I3gsnVCfhNwDe4M=;cXVaaZdyayNDh+j1Oxreng=="
+secured: "pCLIMm6wejU4ByIO9GDseml3BXSIcbW2SWZT6ZW2AfORQTKISUixYGkTUZMAGDXwZMcF0vlwEnt2r60sgxPI5ODlxQiYL3hSLHSnU5VXcmnakRKyC156/92ptiKr4/58XGmPvk9S3MP/hn1JqnMrSfYa1foJpDCLlDc3LQKBnfZp30oUOOCydjjG4FxnAMHjp0ITmL7hw4S7z6GRyeM4vwfeC2UNLJYUCPHd/4zjQpWnKw2pV5Jw6/sJ0j72jLL3ZfcpqnirtexW4Wbg727knbKktNzLX6gAPRmHHLXfy8nbHLuYJyFpeuw2ZVQEnZXI7m10qS/5n47y+3P+Hlt3H6B345GEer8fGYNf8b2iQcjGfRoU1JIDucwXs8MU5ap5iVw1jGh6zms1kHRJnhGqBYnWzDzfPQMY+q/oDNPxmRwmBRFrFVkrQMjUflk4nw/PLFLcMQadyIi/iIribwfEKohc1BoHl1ScZ5jCgIdNBbZ4hT/yTuaModcRwEgSAQ2uvEczj1hZXHja4dXy/5T9rA==;VkHe1NlqwF4iAZJyDk+yLQ=="
 ---
 

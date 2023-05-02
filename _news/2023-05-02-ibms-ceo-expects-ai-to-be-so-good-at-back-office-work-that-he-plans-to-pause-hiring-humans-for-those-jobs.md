@@ -2,9 +2,9 @@
 category: news
 title: "IBM’s CEO expects A.I. to be so good at back office work that he plans to pause hiring humans for those jobs"
 excerpt: "“I could easily see 30% of that getting replaced by AI and automation over ... Kyndryl Inc. and part of the Watson Health business. The company is currently considering selling its weather unit. Armonk, New York-based IBM topped profit estimates ..."
-publishedDateTime: 2023-05-01T22:41:00Z
-originalUrl: "https://fortune.com/2023/05/01/ibm-ceo-ai-artificial-intelligence-back-office-jobs-pause-hiring/?ref=biztoc.com"
-webUrl: "https://fortune.com/2023/05/01/ibm-ceo-ai-artificial-intelligence-back-office-jobs-pause-hiring/?ref=biztoc.com"
+publishedDateTime: 2023-05-01T22:22:00Z
+originalUrl: "https://fortune.com/2023/05/01/ibm-ceo-ai-artificial-intelligence-back-office-jobs-pause-hiring/"
+webUrl: "https://fortune.com/2023/05/01/ibm-ceo-ai-artificial-intelligence-back-office-jobs-pause-hiring/"
 ampWebUrl: "https://fortune.com/2023/05/01/ibm-ceo-ai-artificial-intelligence-back-office-jobs-pause-hiring/amp/"
 cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/05/01/ibm-ceo-ai-artificial-intelligence-back-office-jobs-pause-hiring/amp/"
 type: article
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "IBM to pause hiring for jobs that artificial intelligence could do"
+    excerpt: "IBM chief executive Arvind Krishna said the company expects to pause hiring for roles it thinks could be replaced with artificial intelligence in the coming years."
+    publishedDateTime: 2023-05-02T06:43:00Z
+    webUrl: "https://www.scmp.com/tech/big-tech/article/3219094/ibm-pause-hiring-jobs-artificial-intelligence-could-do"
+    type: article
+    provider:
+      name: scmp.com
+      domain: scmp.com
+    quality: 69
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/05/02/d1a181a3-42dc-45a7-91a4-0b0de0b0bd96_1d4abd40.jpg?itok=C_ugnNWK&v=1683001304"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "IBM to pause hiring for jobs that AI could do, says CEO Arvind Krishna"
     excerpt: "Hiring in back-office functions - such as human resources - will be suspended or slowed, IBM CEO Arvind Krishna said in an interview"
     publishedDateTime: 2023-05-02T01:34:00Z
@@ -88,6 +102,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 39
+  - title: "IBM to pause hiring for jobs easily replaceable with AI: CEO Arvind Krishna"
+    excerpt: "Krishna said hiring in back-office operations such as human resources would either be suspended or the hiring for such job roles will be frozen."
+    publishedDateTime: 2023-05-02T07:54:00Z
+    webUrl: "https://www.fortuneindia.com/enterprise/ibm-to-pause-hiring-for-jobs-easily-replaceable-with-ai-ceo-arvind-krishna/112508"
+    type: article
+    provider:
+      name: Fortune India
+      domain: fortuneindia.com
+    quality: 37
+    images:
+      - url: "https://gumlet.assettype.com/fortuneindia/2021-02/2f2ede7d-e89f-43da-8e88-b22350d8a2ed/Arvind_Krishna_Courtest_IBM.jpg?w=700"
+        width: 700
+        height: 441
+        isCached: true
   - title: "IBM pauses hiring, plans to replace 7800 jobs with AI"
     excerpt: "IBM chief Arvind Krishna mentioned back-office roles, including human resources, which currently consist of approximately 26,000 workers. IBM pauses hiring, plans to replace 7800 jobs with AI. AI, Artificial Intelligence,"
     publishedDateTime: 2023-05-02T06:42:00Z
@@ -98,6 +126,6 @@ related:
       domain: itp.net
     quality: 19
 
-secured: "6h6NRdDkL71A5zB8XK2A+RawE17SYAwaysGoWyTrmMS86PJCuGKrUFsDxBRVHXsiXpL3wLWt/0z9cqgvgf8/PCKTeFV+5SGt1PLJWOOZTqVrxveg1IsfoOUYl2EMPdCEXHrcELYbezV4qAryoS14k153k43kE3S9/KAifkfZU/MsKHbG2GVurI6dG4H0vBAnwh976mXco0LUlCGz3rHsCAHFDcnUH2gKf8MtBHhflBN6Nr0hhZYiJgx1G+OWaDCip6wgKM81O/NaN36/o9OsPiyhz1Ih7iaMxclzAXUIHkfvoNdJt1CKdG+PFU6ELFK0vpT5gfBWkN/5YKnoFdKVJ2dsUqpdrUNJNHGLwHm5xUc=;mZ2MtR0+mTW+jRoBaFXzuA=="
+secured: "rhaBMapVB18lA1DdDgglfMn4YTV360UlPv4qiDpyi1GBd21KdrN43Pw83d2YMcO7gGzTki8cV+9nQ0/KSXzgdhdFRCPF3quVx9fgOa5hCVDMI8Wz2ZYtLCZRStCFnHO9nQopDzSgLmySrFrHtEVmD17MK9UyKImPBogBdrT9fqB6/MuzKaUGFD52Nvni2LZ2zRkLQX6EMVdC5D6LMmRW/yO8V14bxaVhsr0wsIIe204ijjjP3ugtSHjY8nCKGL3QHrob0uOCUotS7cfYkQWBXxilFCzSfCFy8++vB+2FLui2KvgTihJqLRx5iJu77eJutS53U6aH3o3Tigd6s5pVoXg8UC6+RN07Tk1m+qK2RhI=;+otdFueOCdyEneHqZNlBeg=="
 ---
 

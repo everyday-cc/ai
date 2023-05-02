@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-around-the
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-and-generative-ai-around-the-world-maturity-2023-may?amp"
 type: article
 quality: 75
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -30,24 +30,22 @@ images:
     isCached: true
 
 related:
-  - title: "Exclusive: Behind EU lawmakers' challenge to rein in ChatGPT and generative AI"
-    excerpt: "By mid-April, however, members of European Parliament (MEPs) were racing to update those rules to catch up with an explosion of interest in generative AI, which has provoked awe and anxiety since OpenAI unveiled ChatGPT six months ago."
-    publishedDateTime: 2023-04-28T20:02:00Z
-    webUrl: "https://www.reuters.com/technology/behind-eu-lawmakers-challenge-rein-chatgpt-generative-ai-2023-04-28/"
+  - title: "Generative AI Tools Like ChatGPT And Bard Heralding Generational Shift In Job Roles. Adapt Or Risk Obsolescence"
+    excerpt: "The benefits and impact of Generative AI tools like ChatGPT on industries and job roles have only begun to occur, harbingering generational job role shifts."
+    publishedDateTime: 2023-05-01T15:59:00Z
+    webUrl: "https://www.forbes.com/sites/roomykhan/2023/05/01/generative-ai-tools-like-chatgpt-and-bard-heralding-generational-shift-in-job-roles-adapt-or-risk-obsolescence/"
+    ampWebUrl: "https://www.forbes.com/sites/roomykhan/2023/05/01/generative-ai-tools-like-chatgpt-and-bard-heralding-generational-shift-in-job-roles-adapt-or-risk-obsolescence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roomykhan/2023/05/01/generative-ai-tools-like-chatgpt-and-bard-heralding-generational-shift-in-job-roles-adapt-or-risk-obsolescence/amp/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 43
-  - title: "ChatGPT is the Most In-Demand Workplace Skill in Q1 2023"
-    excerpt: "Udemy (NASDAQ:UDMY), a company dedicated to improving lives through online learning, today released its Q1 2023 Workplace Learning Index, a quarterly report"
-    publishedDateTime: 2023-04-27T15:04:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/04/g32049645/chatgpt-is-the-most-in-demand-workplace-skill-in-q1-2023"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 4
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/644fdd5de31e3cc4caad4710/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 798
+        isCached: true
 
 secured: "zuTH1T1OTXgMXmG+a2NKc175FZDzpkxHFN15WW7X+tct0J1WXaJj0/8veMiiXbrfFI/ZaaRQ1Ph8X3Ioy8aTlivIN35PXwUEIFH02AKtBI59qn10o1jMknPYFKr9o7LtckcJ/aPlFP6z6+L7F5eZCMD1eq2QoSJEpEz0xIq3AF+2nqaMHo9RMs1HVyp3nNmiXkADdvXRjB5OG5rTW0qjVb8waa4VHf1DvZKjz9LMWEWr71IK2QyUQNzWxJYilTTyDd6NDH6y+zqfosuidEEdiUCyYTTesdex4vLjOKGjIk0OH7lsKZfzFCsegTbuYbPQN8fqgHmlQyatqUIgdCJwUPdZ+J3FAMuGBOtgZtafN28=;qYw+NI/GA/dAMxifGg+v/A=="
 ---

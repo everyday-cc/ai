@@ -3,8 +3,8 @@ category: news
 title: "‘Godfather of AI’ Geoffrey Hinton quits Google and warns over dangers of machine learning"
 excerpt: "The neural network pioneer says dangers of chatbots were ‘quite scary’ and warns they could be exploited by ‘bad actors’"
 publishedDateTime: 2023-05-02T03:42:00Z
-originalUrl: "https://www.theguardian.com/technology/2023/may/02/geoffrey-hinton-godfather-of-ai-quits-google-warns-dangers-of-machine-learning"
-webUrl: "https://www.theguardian.com/technology/2023/may/02/geoffrey-hinton-godfather-of-ai-quits-google-warns-dangers-of-machine-learning"
+originalUrl: "https://www.theguardian.com/technology/2023/may/02/geoffrey-hinton-godfather-of-ai-quits-google-warns-dangers-of-machine-learning?ref=upstract.com"
+webUrl: "https://www.theguardian.com/technology/2023/may/02/geoffrey-hinton-godfather-of-ai-quits-google-warns-dangers-of-machine-learning?ref=upstract.com"
 ampWebUrl: "https://amp.theguardian.com/technology/2023/may/02/geoffrey-hinton-godfather-of-ai-quits-google-warns-dangers-of-machine-learning"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/02/geoffrey-hinton-godfather-of-ai-quits-google-warns-dangers-of-machine-learning"
 type: article
@@ -123,6 +123,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "The Godfather of AI quits Google; warns of impending danger"
+    excerpt: "In an interview with The New York Times, Hinton expressed his concerns about AI, including the spread of misinformation, the elimination of jobs, and the possibility of AI running its own code. Hinton,"
+    publishedDateTime: 2023-05-02T07:25:00Z
+    webUrl: "https://www.thedailystar.net/tech-startup/news/the-godfather-ai-quits-google-warns-impending-danger-3309101"
+    ampWebUrl: "https://www.thedailystar.net/tech-startup/news/the-godfather-ai-quits-google-warns-impending-danger-3309101?amp"
+    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/the-godfather-ai-quits-google-warns-impending-danger-3309101?amp"
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 57
+    images:
+      - url: "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/05/02/geoffrey_hinton.jpg"
+        width: 750
+        height: 393
+        isCached: true
   - title: "Deep learning pioneer Geoffrey Hinton leaves Google, warns of AI risks"
     excerpt: "Hinton (pictured) also argued that researchers should slow AI development until the risks associated with the technology are more clearly understood. Hinton, a professor at the University of Toronto,"
     publishedDateTime: 2023-05-01T17:41:00Z
@@ -136,6 +152,38 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/Geoffrey-Hinton.png"
         width: 923
         height: 524
+        isCached: true
+  - title: "‘Godfather of AI’ Geoffrey Hinton quits Google over killer robot fears & ‘regrets inventing tech that could destroy us’"
+    excerpt: "A SCIENTIST dubbed the ‘godfather’ of Artificial Intelligence has quit his job at Google to warn killer robots could turn against humans. Geoffrey Hinton said he regrets his work on AI as he left"
+    publishedDateTime: 2023-05-02T08:23:00Z
+    webUrl: "https://www.thesun.co.uk/tech/22221880/ai-geoffrey-hinton-quits-google/"
+    ampWebUrl: "https://www.thesun.co.uk/tech/22221880/ai-geoffrey-hinton-quits-google/amp/"
+    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/22221880/ai-geoffrey-hinton-quits-google/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: thesun.co.uk
+    quality: 50
+    images:
+      - url: "https://www.thesun.co.uk/wp-content/uploads/2023/05/newspress-collage-22221880-1683019228243.jpg?1683022882&strip=all&quality=100&w=1920&h=1080&crop=1"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "‘Godfather of AI’ Geoffrey Hinton quits Google and warns over dangers of misinformation"
+    excerpt: "The neural network pioneer says dangers of chatbots were ‘quite scary’ and warns they could be exploited by ‘bad actors’"
+    publishedDateTime: 2023-05-02T06:52:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/may/02/geoffrey-hinton-godfather-of-ai-quits-google-warns-dangers-of-machine-learning"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/02/geoffrey-hinton-godfather-of-ai-quits-google-warns-dangers-of-machine-learning"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/02/geoffrey-hinton-godfather-of-ai-quits-google-warns-dangers-of-machine-learning"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 49
+    images:
+      - url: "https://i.guim.co.uk/img/media/9d2f544e797d7664901b646357c02b61e4121051/0_33_6222_3733/master/6222.jpg?width=620&quality=85&auto=format&fit=max&s=0fbd4a1fa9bba14ccfe9ed2804ba32fc"
+        width: 620
+        height: 372
         isCached: true
   - title: "‘Godfather of AI’ quits Google to talk openly about the dangers of the rapidly emerging tech"
     excerpt: "Speaking with 'The New York Times,' Geoffrey Hinton says a part of him regrets his life's work on artificial intelligence."
@@ -255,6 +303,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Artificial Intelligence 'godfather' Geoffrey Hinton Warns of Dangers As He Quits Google"
+    excerpt: "A man widely seen as the godfather of artificial intelligence (AI) has quit his job, warning about the growing dangers from developments in the field. Geoffrey Hinton, aged 75, announced his resignation from Google in a statement to the New York Times,"
+    publishedDateTime: 2023-05-02T08:37:00Z
+    webUrl: "https://peacefmonline.com/pages/local/tech/202305/486925.php"
+    type: article
+    provider:
+      name: Peace FM Online
+      domain: peacefmonline.com
+    quality: 31
+    images:
+      - url: "https://w5p2r8x5.stackpathcdn.com/photos/news/202305/535795076_908286.jpg"
+        width: 600
+        height: 374
+        isCached: true
   - title: "'Godfather of AI' quits Google, has an artificial intelligence 'warning' for all"
     excerpt: "Geoffrey Hinton, who is also known as 'Godfather of AI', along with two other “Godfathers of AI”, has quit Google. As he leaves office, Hinton has shared two concerns related"
     publishedDateTime: 2023-05-01T13:17:00Z
@@ -274,6 +336,6 @@ related:
       domain: indiatimes.com
     quality: 19
 
-secured: "88yV2i6jgvxh3rQI3RxS2bW0FDDi7ZTdoV3rMt/1oo00pCaZeDncxycs2vSDvY3zbTwGZ9y1GzKXXPPEtBiDEiNVS1ZoQZ6T1HNDN/yEvGvt6ci5z2trXJ9m6iJNR8jlMXcAFj+xJPfwYoJ15wg7rWDmardkk/geSlx1ZbffDL8Urx56elmf8agiCKfFnBPA7Z0RjOF5HhQdr2dHXYt3U/liHsBNYIlKGqbGNSvfwl/obaJMkUOycgHJe4xOd6UcNvBURTz2znRb4bbsOGBIQ7BDaWjo+H2T6G+9v2pvznf30ikKGEkSTECnNRpt6UXVB3xSema4AcNLjfqXzMWdzRjTCuEahl5VV8PNptK1yKHprWBoPZ6I+CpV9NoOjC7q7ELi7HsTGQg/VVKtyt95Kbz9TMDemJ7gWbmftQu6vVuV0gFUt3xP9uqepLwblNxxR0RYvIpxiSmfwKL9rd2Jhi5zZPKHhdAsmMSxc5c2vp8MrB2v0qCHvZG7pg1f50gmVYzobFiKvOSX3n9UG1T66Q==;Tdkyf+LQG8pyNWZh1+DOPA=="
+secured: "D65TUP2uKTQEqNKWGVaxlDhO8SSLXYrkgVvZm3jAluqIH0pt68TKfA3yUy3Fc45Fp8hQNWvnVglLJ3oWppmy5/ZSbJtxNGBu06/qjdsgMBQyZV/PoDcGntQ2UztPyMxp+ldMLI9qYBQohDLuCJdr3VWFdvBByhBPTedA28xTPzNd8JtP7fPp7AUbVgCLOC2n/kfDQgYrJcoLFfayVidu+N0VQ+p1B+n18CKPhRY9gEghyTGy6cv+HRbmbJVGHFfZTlpd0tENt6dP+66XEt/7zqpxxZQV8Km3TDSHRmrEZGtG/sbdOzurj51lrwyAae/pkSAsaX3gzcnE7LuR6bXaPf+ALUrVscSuS12IxIIYOnc=;k+J91CmKMCPTGHouUMEiSw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/04/28/the-amazing-ways
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/04/28/the-amazing-ways-duolingo-is-using-ai-and-gpt-4/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "5 Amazing Ways How Meta (Facebook) Is Using Generative AI"
+    excerpt: "Explore how Meta utilizes generative AI to revolutionize advertising, chat, image generation, and natural language processing while shaping the future of the metaverse with immersive and accessible content creation."
+    publishedDateTime: 2023-05-02T06:29:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/05/02/5-amazing-ways-how-meta-facebook-is-using-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/05/02/5-amazing-ways-how-meta-facebook-is-using-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/05/02/5-amazing-ways-how-meta-facebook-is-using-generative-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6450ac8062c3ef25fedc456e/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "x5Rlmkrvv8x1riWMM3hISgWIrJdr8dGxVRvb0Ex9plvmiXTu1MmfHeUyyojD3WgPohPdae8kTnc4LpKdYloNUaI//hzv4zQdnK7RPz+9gx0dYsNkyv0vb2EZVZm1dvPPtZa/2Wz5NBkgp7RqjVj6Cv6JpbhD5lZCoCdyrI6sVFFhh+1qkYQgmT7Zio8HVpFPrRupNWZ7rkY8Q2lhnQup35PN6X6F1XZCDIhtb69Jc8IzK/srM6KKGcKW4arKL3KqJonhbnVrTMNCgVRWxyvpbGVxLf8euFP44N/G1iZL5CRt3smMywhUm0cVFaNkRV6iQ3lhaDsEDlRvfsDX3mUujYdGSL8KeHhEvj8zILI0dh0/0PgVf0wN1hE4ZekdtXmHFRloxs9x/RuAgztRgT0/GEEGFIf05yJDyGoykhlyj+4vlrCtthRJA79ZI0xXuX7WkX+pOipKxXorC9JPBzAwfl576x1VX4JHNQGcO1NvBkB1DU7ecZumjAn8oYX3/wAH956ycoKEPsVYydhXu0Cp5w==;SaUbV6B06qguG3BuLC2mJQ=="
 ---

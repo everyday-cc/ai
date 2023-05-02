@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "NSA Cybersecurity Director Says ‘Buckle Up’ for Generative AI"
-    excerpt: "The security issues raised by ChatGPT and similar tech are just beginning to emerge, but Rob Joyce says it’s time to prepare for what comes next."
-    publishedDateTime: 2023-04-27T16:52:00Z
-    webUrl: "https://www.wired.com/story/nsa-rob-joyce-chatgpt-security/"
-    ampWebUrl: "https://www.wired.com/story/nsa-rob-joyce-chatgpt-security/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/nsa-rob-joyce-chatgpt-security/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 87
-    images:
-      - url: "https://media.wired.com/photos/644a7dfee416fd283a85c162/master/pass/nsa_sec_GettyImages-1059275390.jpg"
-        width: 2400
-        height: 1800
-        isCached: true
   - title: "Cybersecurity meets AI: Augmenting and accelerating humans"
     excerpt: "AI in cybersecurity must be collaborative, with humans and AI improving efficiency and efficacy over what either could do independently."
     publishedDateTime: 2023-04-29T15:20:00Z
@@ -103,6 +87,20 @@ related:
       - url: "https://erepublic.brightspotcdn.com/dims4/default/7a063b4/2147483647/strip/true/crop/4032x2102+0+922/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fd7%2F60%2Ff8f8c9a1471f8fd9eee17d9eb434%2Fimg-1128.jpg"
         width: 840
         height: 438
+        isCached: true
+  - title: "The future of AI: Its impact on creativity, humanity, and well being"
+    excerpt: "How rapid advances in AI tech like ChatGPT impact human creativity, intellect, and our self determination — and its potential practical benefits in the mental health field."
+    publishedDateTime: 2023-04-29T00:14:00Z
+    webUrl: "https://www.kcrw.com/culture/shows/life-examined/artificial-intelligence-impact-creativity-humanity-chatbots-mental-health"
+    type: article
+    provider:
+      name: KCRW
+      domain: kcrw.com
+    quality: 39
+    images:
+      - url: "https://www.kcrw.com/culture/shows/life-examined/artificial-intelligence-impact-creativity-humanity-chatbots-mental-health/@@images/rectangular_image/page-header?v=1682729199.3"
+        width: 1460
+        height: 821
         isCached: true
 
 secured: "QYl0Wn/9pi3cD26lbrTEa8htC6yeJ5HvBRJpBose41PwhdFJByMeQX3Ly2V5J/7McZkd5PJ/rD5LYdQzrLtuxRKfQUoBtfxLgmRC7yv0Q8ORqVrPdUJDnI3+Uyk/3VQCihDo4+qaHcF+gTWyn14HipS3GX8+XpfcTx+l2CiRkSbeIvR/6E8/vzGvM8QUJeNfWyhwoeU3JGkemMFFWYjZLCJjWseRWVSAYU+XbuGYcUBlb2iw1wHdOcw7DlB42UGX1RJjdTJkiGOPmSoGoaqtrzIbn7oUBaLpd4ZGZsGZi78oMZO0xkDctBv+CX3Ycy9IVWu487Qlj6s8hdCySlyYhrtb3loKvjgl7qkMwanVNvKmnm+vBCPicCWCBkaIrSpv0yH+40ZBHIX45IzpO0iMliQX87wnSo/orBKfmQyL0TKRctHaozKlrw3bngB69N+amFlABJQeMihHsbelzyw9DlQPDMytdacmidVLqPwJrZ0MN0QbtShH0oX3zElKVRT8MgxzJ8U1gV66g4zvPdf1aw==;kOHOWJZbmbt2OCl4XiKGuQ=="

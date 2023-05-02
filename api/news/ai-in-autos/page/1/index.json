@@ -1045,19 +1045,19 @@
     {
       "path": "_news/2023-04-21-what-are-the-four-main-types-of-artificial-intelligence-find-out-how-future-ai-programs-can-change-the-world.md",
       "title": "What are the four main types of artificial intelligence? Find out how future AI programs can change the world",
-      "excerpt": "A perfect example of limited memory artificial intelligence is self-driving cars. The model examines the speed and direction of other cars in the present moment to make the best decisions on the road.",
+      "excerpt": "Over the last few years, the rapid development of artificial intelligence has taken the world by storm as many experts believe machine learning technology will fundamentally alter the way of life for all humans.",
       "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/what-four-main-types-ai-find-future-ai-programs-change-world",
-      "originalUrl": "https://www.foxnews.com/tech/what-four-main-types-ai-find-future-ai-programs-change-world",
+      "webUrl": "https://1010wcsi.com/fox-technology/what-are-the-four-main-types-of-artificial-intelligence-find-out-how-future-ai-programs-can-change-the-world/",
+      "originalUrl": "https://1010wcsi.com/fox-technology/what-are-the-four-main-types-of-artificial-intelligence-find-out-how-future-ai-programs-can-change-the-world/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/eac1965b-5982-426d-9b4c-4ee8e74a3170/e2145637-9569-47fe-a67b-6ecd88f6304e/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
+          "url": "https://mediaassets.theindychannel.com/weatherimages/WEB_Planner_Scripps.jpg",
+          "width": 1920,
+          "height": 1080,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1065,23 +1065,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/what-four-main-types-ai-find-future-ai-programs-change-world.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/what-four-main-types-ai-find-future-ai-programs-change-world.amp",
-      "publishedDateTime": "2023-04-21T07:08:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-21T04:25:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "WCSI",
+        "domain": "1010wcsi.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1091,8 +1082,7 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI",
-        "AI in Healthcare"
+        "AI"
       ]
     },
     {

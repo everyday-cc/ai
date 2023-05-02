@@ -26,19 +26,51 @@ images:
     isCached: true
 
 related:
-  - title: "Genie AI Achieves 30x Growth in One Year - Attracting Major Businesses"
-    excerpt: "Over 100 new organizations sign up to Genie AI each day. Genie AI, an open-source legal artificial intelligence startup, has experienced a"
-    publishedDateTime: 2023-04-27T15:32:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/genie-ai-achieves-30x-growth-in-one-year---attracting-major-businesses-1032267944"
+  - title: "Understanding the risks of generative AI for better business outcomes"
+    excerpt: "Understand the risks to security, privacy and more of generative AI and the precautions you can take to mitigate them."
+    publishedDateTime: 2023-04-29T16:10:00Z
+    webUrl: "https://venturebeat.com/ai/understand-risks-generative-ai-better-business-outcomes/"
+    ampWebUrl: "https://venturebeat.com/ai/understand-risks-generative-ai-better-business-outcomes/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/understand-risks-generative-ai-better-business-outcomes/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1209661950-e1666828949345.jpg?w=1200&strip=all"
+        width: 1200
+        height: 595
+        isCached: true
+  - title: "How Generative AI Can Affect Your Business’ Data Privacy"
+    excerpt: "If a business enters any client, customer or partner information into a chatbot, that AI may use that information in ways that businesses can’t reliably predict."
+    publishedDateTime: 2023-05-01T14:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/01/how-generative-ai-can-affect-your-business-data-privacy/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/01/how-generative-ai-can-affect-your-business-data-privacy/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/05/01/how-generative-ai-can-affect-your-business-data-privacy/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/61f2bb5a705a07e1687440a6/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "The CEOs of the world's biggest advertising companies just outlined how AI is about to transform their businesses"
+    excerpt: "Agencies say they've been applying AI to target ads to specific audiences ... which gives it a dedicated Azure cloud environment with secure access to the latest OpenAI GPT models. Omnicom is running more than 20 projects where it combines Omnicom's ..."
+    publishedDateTime: 2023-04-28T17:56:00Z
+    webUrl: "https://www.businessinsider.com/how-ai-transform-advertising-agencies-2023-4"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 67
+    quality: 48
     images:
-      - url: "https://storage.googleapis.com/mmstudio-images/gallery/oM6rIz0qQug4KigzzLTTzaYeplf1/1682576593021-0.jpg"
-        width: 650
-        height: 433
+      - url: "https://i.insider.com/644c089274e9330018ef966e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "Z1txc8MeVk73VZ4cPtw03OdjJBE40NTFcQtEdaJv2SGB6gXWJMlw04kgtPsxvtV+m7zZUsM8Ywzto4TO2U5kOF4Q783AgSnv3kh0MH1vE1nO3VCUNuidQlj6/ajC+6n+MgReILDP8KDozto6SdKVLJglYnUvAg/3r9dpF/WMeb57kR7Ggo8pq0+h6xNYL1C3fF6o6EEqhWLTGXbAqFpABsjhTlKa1kiUpiDeuqVwP+ct0Lz7wcdheH+2Sw4aiLq0ix4epqdNfAdIHUAb9yy+DvyJeKZozYfykzhWlPaJF/nnmK6JD3FKD/AF4SB5hIB9UBH1kBlDwa4VkuWsEepz6U7agEjrgXkLJzIACnZFFWI=;JrkLeMuVLFysDHOg+/eHKQ=="

@@ -75,6 +75,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI in Computer Vision Market (2023-2031) Players Launches Revolutionary Product Line in Coming Years"
+    excerpt: "Global AI in Computer Vision Market research report offers an In-depth analysis of valuable insight into the market"
+    publishedDateTime: 2023-05-02T06:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2023-2031-players-launches-revolutionary-product-line-in-coming-years-2023-05-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facial Recognition Market: Segments Analysis and Future Growth Trends By 2030"
     excerpt: "Apr 27, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The Facial Recognition Market"
     publishedDateTime: 2023-04-27T20:14:00Z

@@ -85,6 +85,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI in Computer Vision Market (2023-2031) Players Launches Revolutionary Product Line in Coming Years"
+    excerpt: "Global AI in Computer Vision Market research report offers an In-depth analysis of valuable insight into the market"
+    publishedDateTime: 2023-05-02T06:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2023-2031-players-launches-revolutionary-product-line-in-coming-years-2023-05-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Computer Vision in Aerospace and Defense Market Industry Analysis, Size, Share, Growth"
     excerpt: "The latest independent research report on Computer Vision in Aerospace and Defense Market 2023 explore investment"
     publishedDateTime: 2023-04-28T15:37:00Z

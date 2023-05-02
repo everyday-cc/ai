@@ -8,8 +8,8 @@ webUrl: "https://www.skynews.com.au/business/media/artificial-intelligence-godfa
 ampWebUrl: "https://www.skynews.com.au/business/media/artificial-intelligence-godfather-regrets-invention-warning-of-its-imminent-and-profound-danger-to-humanity/news-story/f07bef15aaadc2c5c1bd5bd9ccb7cc2f?amp"
 cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/business/media/artificial-intelligence-godfather-regrets-invention-warning-of-its-imminent-and-profound-danger-to-humanity/news-story/f07bef15aaadc2c5c1bd5bd9ccb7cc2f?amp"
 type: article
-quality: 36
-heat: 36
+quality: 38
+heat: 38
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://content.api.news/v3/images/bin/a2e0c02994224e8a4a88547da3482722"
@@ -25,6 +26,6 @@ images:
     height: 720
     isCached: true
 
-secured: "FH4MpVhRPYv6Tc7o1p+AF2x5cPOBk4I/oUEp6GqXXHNIZ+Y8+x165wfzKyPu5yu2fnwJnTWRIj6xe8QcRbIAeXV4gvfbVSes4MnQLqApA5LY6PRS+1gT42fygVTyf7OWffIaw7+fdz4u7nPICw3WxaVAekDA06TbXSdnO8lj0P5m3dAvjX/VBCtfFoL8sDiiugbzWTwxgJAj7MJoLX58Y97QACqsk32qVUYZA2JzQ1eEoOv9M6nslFnmB75qwbfXuX5BML7lhjYcP5jT2w464oxDCopsX/oTnvBzEjp6+IKTrC0X26PJxmFH5Fw86GfftciYz/Azj7rMY7Mi32WxaajfiPyvuF2/Qs8qBcFyAGU=;rdQUM5YUUqnFvxNzIOjVTg=="
+secured: "TMJH4kAolL96MxHhJc0NUCiYDLTeOOLXFc41EJHw2oHF8bgFxz5NTTYiDLOmkjd2Lht9MDFZQPcVkG83NP6fvhIClPP67TsrCVGMqISalzd8uk7hYSc33ez7jKwE+R9FbQi6IhiubTQRms3PljA3o2LiRYz6sXhIx0kmugU+VbMEHGGm8k2ncr9qGKlf0dlznwkuea4mIejz+cY3QWtBkmTHSG2nEuf8zHNnxWkg3QYL/lKC6fgZhALl/OJ16m6AOUnTmvS9M4+ntv6zvOiQVcXKkxJj3WYS6odRZOqInZ+LDYLwM/75n40g7AD6SqgZMKwKQB24EJq25ojy3Xh/LrU4v3Sec3Bi9KaeB4nrtfB+6ECPnMvBB2qEvsTXM0BnXXx4qqJqZMepXRzCOMXZspupRMun1mR8B2lJ7U+xqK3LQs4UDyiAHSFN5Sf0RTo1rx7yv+oNJ0SDhe9q389uPXpgP0kqTYOtA18HGeELU7ae8dLW+2Uzl2C2GezvVWrrbXeRH/sBcbDRRGbFQ18Xeg==;t+anTbnS3tYZ8TlRMIRuhg=="
 ---
 

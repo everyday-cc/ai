@@ -22,31 +22,45 @@ topics:
   - AI
 
 related:
-  - title: "ChatGPT and Generative AI Around the World: Maturity, Opportunities, and Hurdles in Key Regions"
-    excerpt: "ChatGPT has received a lot of press since its November 2022 launch. But while interest in the tool is high, its use is not yet universal."
-    publishedDateTime: 2023-05-01T17:00:00Z
-    webUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-around-the-world-maturity-2023-may"
-    ampWebUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-around-the-world-maturity-2023-may?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-and-generative-ai-around-the-world-maturity-2023-may?amp"
+  - title: "EU lawmakers pass draft of AI Act, includes copyright rules for generative AI"
+    excerpt: "After months of negotiations and two years after a draft rules were proposed, EU lawmakers have a draft of the Artificial Intelligence Act."
+    publishedDateTime: 2023-04-27T20:38:00Z
+    webUrl: "https://venturebeat.com/ai/eu-lawmakers-pass-draft-of-ai-act-includes-last-minute-change-on-generative-ai-models/"
+    ampWebUrl: "https://venturebeat.com/ai/eu-lawmakers-pass-draft-of-ai-act-includes-last-minute-change-on-generative-ai-models/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/eu-lawmakers-pass-draft-of-ai-act-includes-last-minute-change-on-generative-ai-models/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 75
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 84
     images:
-      - url: "https://i.insider.com/6441b16a3f6f690018debe44?width=1200&format=jpeg"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/04/Untitled-design-62.png?w=1200&strip=all"
         width: 1200
-        height: 900
+        height: 750
         isCached: true
-  - title: "ChatGPT is the Most In-Demand Workplace Skill in Q1 2023"
-    excerpt: "Udemy (NASDAQ:UDMY), a company dedicated to improving lives through online learning, today released its Q1 2023 Workplace Learning Index, a quarterly report"
-    publishedDateTime: 2023-04-27T15:04:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/04/g32049645/chatgpt-is-the-most-in-demand-workplace-skill-in-q1-2023"
+  - title: "Top researchers on the AI Act: \"Overregulation poses security risk for the EU\""
+    excerpt: "Scientists and entrepreneurs call on the EU to regulate moderately. The definition of general-purpose AI should be revised, they say in an open letter by LAION."
+    publishedDateTime: 2023-04-30T17:39:00Z
+    webUrl: "https://www.heise.de/news/Top-researchers-on-the-AI-Act-Overregulation-poses-security-risk-for-the-EU-8983825.html"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 4
+      name: heise online
+      domain: heise.de
+    quality: 52
+    images:
+      - url: "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/1/5/2/1/4/0/shutterstock_397145995-025a03d69b725be0.jpg"
+        width: 1200
+        height: 792
+        isCached: true
+  - title: "EU lawmakers pass draft of AI Act, includes last-minute change on generative AI models"
+    excerpt: "After months of negotiations and two years after a draft rules were proposed, EU lawmakers have a draft of the Artificial Intelligence Act."
+    publishedDateTime: 2023-04-27T19:02:00Z
+    webUrl: "https://venturebeat.com/ai/eu-lawmakers-pass-draft-of-ai-act-includes-last-minute-change-on-generative-ai-models/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 39
 
 secured: "XiR/RBh9zrR0riXGJG/FxZ8ycQxSrBi3ahZFkL4gz+o8+fFPTPuaOiJpT2/6Qek1nlZ6pBtmH8lQ5KrSnA/73ZzO9mXNUnotIvDgmnWIouEgcBq+1RF5mXCJX/fdY9fKKrMzRsBrcUxEJ1nIWqcrgNmkoGtbzOZBp4b2iDCTb0rUPkd2Tlbxe7a88Ie/jI01wPl7HYqaf4H0NFTZCJL4mLZt8JEn/+OG7n1yyjK6MmGJiAqoJpvBRrNAbAgKDuZb0rlSnTu7h126QHg8/Zv20ZwMvjTZeA7zEzQz0MiA6QM2KKFOLqOYbU/87u4YE1kcd5anckU7lwo555ef6mJZ5GMX6/3edwspUpWdsADdZ8Cj+0KXs/pCy+ZHd+jX63HJA9AtsBcImpOQypAXmrDh9vtouaL8oQXXr1DQgs0JfOJjna8Ll4gPIXkbSR2AavJCJNl6H2RfIb27T/2wvZxaWoZOHOObO9G3V0IdJFwpT0bxGR2rtLnB39+vCgi507GRRTYrbYPsthl/aiHxLGL61A==;r3jfo3yd2O45bbuQ09PyDw=="
 ---
