@@ -69,20 +69,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Copilot Tech Shines at Build 2023 As Microsoft Morphs into an AI Company"
-    excerpt: "Developers are in for an AI treat of all the information and guidance they can consume at Microsoft's big developer conference kicking off in Seattle on May 23."
-    publishedDateTime: 2023-04-27T17:30:00Z
-    webUrl: "https://visualstudiomagazine.com/articles/2023/04/27/build-23.aspx"
-    type: article
-    provider:
-      name: Visual Studio Magazine
-      domain: visualstudiomagazine.com
-    quality: 53
-    images:
-      - url: "https://visualstudiomagazine.com/-/media/ECG/visualstudiomagazine/Images/introimages/BuildWindowsLogo.jpg"
-        width: 647
-        height: 450
-        isCached: true
 
 secured: "4uEFQyPbwe5GieaFxQkC7Yc+wAm3dwe6irpFCm9t5MS71iD+F7kW5gtd/I98nq6yWrJaHkiVemrFmvam86pQhPmfsmPV6YoLS89t2tSvdb3eP8oTVDuD5WvhfnKA7Y5djWuaA6O8G4uXwzzoSQySiecFKkVoseTyNEfHwGZs8yiRQY6/yFJyFHoBsXKmocWf0FnfHdDKV/RqtyAERku/ze7s3hvs//yo3zGo+/XK+DLszWahkRebf503q84MF/6vy2/Tu6b4q6jdQ/ZyKe76fYB7bzHf9T5jGqLkmiqqCjwETRuhizEjrqn0volVETzDyAK0PNMnnKiYTZc+Za96/yMJywfvKgbNqsuZE4bTcZQ=;cvvWHJndmZJm8K5Qz6M0og=="
 ---

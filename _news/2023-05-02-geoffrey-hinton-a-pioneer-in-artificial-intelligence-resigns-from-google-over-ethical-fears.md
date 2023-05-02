@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/geoffrey-hinton-a-pioneer-in-artificial-i
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/geoffrey-hinton-a-pioneer-in-artificial-intelligence-resigns-from-google-over-ethical-fears/amp/"
 type: article
 quality: 97
-heat: 127
+heat: 147
 published: true
 
 provider:
@@ -63,6 +63,22 @@ related:
         width: 2845
         height: 2000
         isCached: true
+  - title: "‘Godfather of Artificial Intelligence’ cautions against its impact: How Geoffrey Hinton helped the development of AI"
+    excerpt: "Hinton is not alone in voicing fears regarding AI. In early April, more than 1,000 technology leaders and researchers, including Apple co-founder Steve Wozniak and Tesla founder Elon Musk, signed an open letter calling for a six-month pause on the developing AI systems further,"
+    publishedDateTime: 2023-05-02T11:52:00Z
+    webUrl: "https://indianexpress.com/article/explained/explained-sci-tech/godfather-of-artificial-intelligence-cautions-against-its-impact-how-geoffrey-hinton-helped-the-development-of-ai-8587672/"
+    ampWebUrl: "https://indianexpress.com/article/explained/explained-sci-tech/godfather-of-artificial-intelligence-cautions-against-its-impact-how-geoffrey-hinton-helped-the-development-of-ai-8587672/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/explained-sci-tech/godfather-of-artificial-intelligence-cautions-against-its-impact-how-geoffrey-hinton-helped-the-development-of-ai-8587672/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 49
+    images:
+      - url: "https://images.indianexpress.com/2023/05/Geoffrey-Hinton.jpg"
+        width: 1200
+        height: 667
+        isCached: true
   - title: "Deep learning pioneer Geoffrey Hinton warns against rapid AI development as he quits Google"
     excerpt: "Famous AI pioneer Geoffrey Hinton announces he is leaving Google amidst regrets and concerns. Find out what worries him here"
     publishedDateTime: 2023-05-01T22:41:00Z
@@ -77,6 +93,15 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "expert reaction to Geoffrey Hinton quits google over risks posed by AI"
+    excerpt: "May 2, 2023 expert reaction to Geoffrey Hinton quits google over risks posed by AI . It has been reported that Geoffrey Hinton has left Google and spoken about the dangers of AI."
+    publishedDateTime: 2023-05-02T10:51:00Z
+    webUrl: "https://www.sciencemediacentre.org/expert-reaction-to-geoffrey-hinton-quits-google-over-risks-posed-by-ai/"
+    type: article
+    provider:
+      name: Science Media Centre
+      domain: sciencemediacentre.org
+    quality: 19
 
 secured: "wwYoWyTtE6Ro9mn4oAebW4Nhbbqyh/Suz6SawEnPnH2Obt4IBVoOUujE539apwDWU6y5QWCsuwhYiKE80C4chr94fRItf7IBAPgGPEiMCWmTP0VOuBpByVeBL6yB4ci2Op35NMPec63ISdeuhDD0R6EZQHfO/V6mUyxm2b/WKKYA+NbHXLgohG1H+hvZdXwdQPSOAo10iWIIAzehxGmS4SXGAwZ4w/+wa6xhHbgUF4M7Fg/CkFsPsz3G9TV6Gpb/D+eWCan564qrFuNA81zBRD2Q0M37R132D2RyqUQhu1lJChbD2FD2qeWzITV20ouw/tzal/QbJ7u6RC/6uZomfmRVy3u8fcose+iToYH3sOnBGyPTCp8uFLcgUi5Z9zpMOMeluuUKcnjw0VHyOzokzpXwv5z69Jo80CFgTGZni5QKvR8N8alDnpw0EWmLLnRob/DfsmEPoJmeU1oreOA9p+sPyuL0QgPMjQ8ta1rBVY40njwtEyZKerAGIY55sP4FYz1pxekn2aPyOzSGVgTMkA==;dvQs2BIMK30E1CHcttvpsg=="
 ---

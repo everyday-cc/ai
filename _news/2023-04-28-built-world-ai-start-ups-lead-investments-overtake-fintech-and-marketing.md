@@ -9,7 +9,7 @@ ampWebUrl: "https://diginomica.com/built-world-ai-start-ups-lead-investments-ove
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/built-world-ai-start-ups-lead-investments-overtake-fintech-and-marketing?amp"
 type: article
 quality: 75
-heat: 141
+heat: 151
 published: true
 
 provider:
@@ -56,6 +56,15 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Rising AI and machine learning investments powering senior care advancements"
+    excerpt: "It’s perhaps no surprise that investment in AI and ML in healthcare rose over the last two years, according to new research from commercial real estate and investment company Jones Lang LaSalle."
+    publishedDateTime: 2023-05-01T04:17:00Z
+    webUrl: "https://www.mcknightsseniorliving.com/home/news/tech-daily-news/rising-ai-and-machine-learning-investments-powering-senior-care-advancements/"
+    type: article
+    provider:
+      name: McKnight's Senior Living
+      domain: mcknightsseniorliving.com
+    quality: 33
   - title: "Optimism For US Tech and Fintech Industries Despite Mass Layoffs"
     excerpt: "The adoption of cutting-edge AI solutions, like ChatGPT, demonstrates the trend towards increased efficiency and cost savings in the Fintech and Tech industries. By implementing AI-powered customer service, companies can reduce labor costs and streamline  their operations, leading to greater profitability."
     publishedDateTime: 2023-05-01T16:04:00Z

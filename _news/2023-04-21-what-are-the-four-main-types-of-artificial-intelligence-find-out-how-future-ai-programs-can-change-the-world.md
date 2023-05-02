@@ -1,26 +1,32 @@
 ---
 category: news
 title: "What are the four main types of artificial intelligence? Find out how future AI programs can change the world"
-excerpt: "Over the last few years, the rapid development of artificial intelligence has taken the world by storm as many experts believe machine learning technology will fundamentally alter the way of life for all humans."
-publishedDateTime: 2023-04-21T11:25:00Z
-originalUrl: "https://1010wcsi.com/fox-technology/what-are-the-four-main-types-of-artificial-intelligence-find-out-how-future-ai-programs-can-change-the-world/"
-webUrl: "https://1010wcsi.com/fox-technology/what-are-the-four-main-types-of-artificial-intelligence-find-out-how-future-ai-programs-can-change-the-world/"
+excerpt: "Over the last few years, the rapid development of artificial intelligence has taken the world by storm as many experts believe machine learning technology will fundamentally alter the way of life ..."
+publishedDateTime: 2023-04-21T14:08:00Z
+originalUrl: "https://www.foxnews.com/tech/what-four-main-types-ai-find-future-ai-programs-change-world"
+webUrl: "https://www.foxnews.com/tech/what-four-main-types-ai-find-future-ai-programs-change-world"
+ampWebUrl: "https://www.foxnews.com/tech/what-four-main-types-ai-find-future-ai-programs-change-world.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/what-four-main-types-ai-find-future-ai-programs-change-world.amp"
 type: article
 
 provider:
-  name: WCSI
-  domain: 1010wcsi.com
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://mediaassets.theindychannel.com/weatherimages/WEB_Planner_Scripps.jpg"
-    width: 1920
-    height: 1080
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/eac1965b-5982-426d-9b4c-4ee8e74a3170/e2145637-9569-47fe-a67b-6ecd88f6304e/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
+    width: 1200
+    height: 675
     isCached: true
 
-secured: "lx9v9qDbwBjmDw3QyqEa2EjCLpm/UYHByO9jLvuPv31nMxTsxbrK/vGeoxTN3ybiPGDaLenm+hgPa/lvZ8Oh5L3+kqUrUBFqH7KLs9+30u0/xLwhNBIfEU6+kOh9T8muMGwbAJbrg3EbULKaIZE78L5pihz/c4/XCcye8kocIPovjLpCgJvvPVQ/Wy18lpojM0mYQK7S4Q/QR5A5AZQFTMxd4L6MewaHxIPhpIYSbRplb9mws1evQkOJYgjoIwzMDcbLEsaoXOQ41U/rjG5xzvuUi8a2js7IZJsyEQgEQWvxCuYRDgh8bW9jNuD/E6dcNlDbKeZPcYHyh4syh7zJ7XT5k0/oX8Y0hdx4BGN9d4M=;zhV1iCSReRDf75ggGhMbCQ=="
+secured: "0HNQpH/ohRyFTgRVBMO26JV2pcoY1E02GgyV/zB0ZH3YHNXP0Ai/5tXcrK2Rbb1Y208mzRjh47IRr8h4hKW8b1D+AhCi3/3xSsan/NJ9CYNyH6p47UNWS2MxYDwBylqeJ4hiT3OmvyNl8242r+de0f6vJHAcRDpjSU94gkfbhqvujIfVJnm5BgBuCM9jGmdpCtb7aPFlxWaborHkML45EHX8B+iOK9PhwXLL5UE+h3DFaal/jKyBYsnGhuHVPhB+/ZMZHn5zfxdeaCypcm70Y11EW6jkR+U7V9zSwAfrXnhZs/TmJE1FS7+2vh88/RTC4UymMwVSKB8TqhtA3PsobQiQ8MyJnWhVP3OGEG4JGAw=;UTadBcb/f7KqdBSDo8PiXQ=="
 ---
 

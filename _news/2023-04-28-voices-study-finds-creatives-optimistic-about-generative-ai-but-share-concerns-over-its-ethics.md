@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Voices study finds creatives optimistic about generative AI, but share concerns over its ethics"
-excerpt: "Voices study finds creatives optimistic about generative AI, but share concerns over its ethics Apr 28, 2023 (PRNewswire via COMTEX) -- PR Newswire NEW"
-publishedDateTime: 2023-04-28T14:38:00Z
-originalUrl: "https://www.marketwatch.com/press-release/voices-study-finds-creatives-optimistic-about-generative-ai-but-share-concerns-over-its-ethics-2023-04-28"
-webUrl: "https://www.marketwatch.com/press-release/voices-study-finds-creatives-optimistic-about-generative-ai-but-share-concerns-over-its-ethics-2023-04-28"
+excerpt: "PRNewswire/ - Today, Voices, the world's leading voice over marketplace, released their AI in the Creative Industry"
+publishedDateTime: 2023-04-28T15:47:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/voices-study-finds-creatives-optimistic-about-generative-ai-but-share-concerns-over-its-ethics-1032274231"
+webUrl: "https://markets.businessinsider.com/news/stocks/voices-study-finds-creatives-optimistic-about-generative-ai-but-share-concerns-over-its-ethics-1032274231"
 type: article
-quality: 72
-heat: 72
-published: true
+quality: 52
+heat: 52
+published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -22,12 +22,6 @@ topics:
   - AI Ethics
   - AI
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "hjzhaV6Nu/lIF5wJBa0js+K4ElbHTptdijPGi//f7LkgyD9eufz0itFnyD+HVJKuXXlOtMcOjXTG8DfoEalQfUoeHdtYEimGIF+pD0gIbsvVH7KN92PCD4JiQ935ifcFkxpo1s5qgGUeI0Y36eYzcv7UupLOi6rYZNpzTLfWVUXjzRiP2yPZI4AIb33rTce4Dl561h01usWq8qyxWMZquZGaz3g1OhssCAn6H3Zha38/b1u1GDaaVv9mroCVJsDoAo+x0OK3otqsDdbAM5kqeOYEToIBDEx3ZXedgLR18ZkCBdV6ZOysJx5t/wrxrHVxXMUby1Qv/gSB1WAHYnJOXJ4pxBSKfdGvhvrJvCKdJRw=;p9TJdAzG0DkTi1vM3KIj4g=="
+secured: "yjFM6BuMt57RE83p8qJ9CnqJrTuO7Y39gAKAs4Xx532Z/OnxjEiv6VO7QPmD7qvO1CPATfOUo0scwh1wRJfpuyEWzhUnAVYoD/dvxJPuSKJttRujullHdKrNzZth2fGRtplwzK0UZkkOuSnq8B9ixtHCUCahnlJxzqBENaxOjHN8wzzmxe53hH2lU6JklbG/VuwRCTlbvDllZcOLassQZyQT6iW97vcS8l6QmWH2u8Uq68Y0LdteCHRDJJ9D8I9yvn06WLSIctnLFViDYno8BrwTe6h5koPYBIIfKHPc478NBbqh9uDEkGDK3IJ4ZYZKOHOYExfUddFpgwwWs19Y2Gjls1VuTaKXyQZV2CgKgns=;+qra2EQw66wzp7c81WBThw=="
 ---
 

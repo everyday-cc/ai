@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/isc-2023-experience-the-power-of-
 webUrl: "https://azure.microsoft.com/blog/isc-2023-experience-the-power-of-hpc-in-the-cloud-with-microsoft-azure/"
 type: article
 quality: 104
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -72,20 +72,6 @@ related:
       - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/promoted_content/promo/microsoft_dreamstime_7_2_1_2.jpg"
         width: 505
         height: 315
-        isCached: true
-  - title: "Copilot Tech Shines at Build 2023 As Microsoft Morphs into an AI Company"
-    excerpt: "Developers are in for an AI treat of all the information and guidance they can consume at Microsoft's big developer conference kicking off in Seattle on May 23."
-    publishedDateTime: 2023-04-27T17:30:00Z
-    webUrl: "https://visualstudiomagazine.com/articles/2023/04/27/build-23.aspx"
-    type: article
-    provider:
-      name: Visual Studio Magazine
-      domain: visualstudiomagazine.com
-    quality: 53
-    images:
-      - url: "https://visualstudiomagazine.com/-/media/ECG/visualstudiomagazine/Images/introimages/BuildWindowsLogo.jpg"
-        width: 647
-        height: 450
         isCached: true
 
 secured: "vDmqYIUYdMdZMJTb/lF/wkE/63aAF3Qp2kmMBhyCCgtdkMvNGcIrB3Zf1iVPjsoW0U0m4zrz3HzSHbgANIN8SZcaIT+ZcDZo90w8NtdLcLGkFBs8K5T6cHsQKIFgERT3g74lxtmPMeP3acEwxGHRCkP8ubkf/cZdPwJJvmNi3yk8x5oG01QgXVun4BlRhC0r5g8mddF4bf4CEFQVbT39sa8KRCJURUsnzvgcYJRE1mv6q1RNGrfsROXVNjamnQf5joMkP0zdZJNMG2CtK5vrFIsp9RTLoBgRtPDe+Pm0A+X35ALKJtI5m1JSGNnRbBu+ME02bNNTL3NJAa9YTGWsKcEoEB2+T6QFqFlrNuqThck=;TZEQkfp4RMaX+iVu+uLjOA=="

@@ -41,38 +41,6 @@ related:
         width: 802
         height: 450
         isCached: true
-  - title: "Here Are The Best AI Image Generators"
-    excerpt: "Here are some of the best AI image generators and how to use them. There have been heated debates about whether AI-generated images can be protected by copyright because the software creates pictures by incorporating “elements from the vast libraries of digitally available images and artwork” that the AI was trained on,"
-    publishedDateTime: 2023-04-28T21:37:00Z
-    webUrl: "https://www.forbes.com/sites/ariannajohnson/2023/04/28/here-are-the-best-ai-image-generators/"
-    ampWebUrl: "https://www.forbes.com/sites/ariannajohnson/2023/04/28/here-are-the-best-ai-image-generators/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ariannajohnson/2023/04/28/here-are-the-best-ai-image-generators/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/644c27a753797ad5a7ad4710/0x0.jpg?format=jpg&crop=2654,1492,x0,y48,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "The rise of AI surveillance"
-    excerpt: "Internet companies track our clicks to divine our preferences for products, news articles or ads. The facial recognition company Clearview AI scrapes images off sites like Facebook and YouTube to train its model. Facebook recently announced it will begin ..."
-    publishedDateTime: 2023-04-28T12:59:00Z
-    webUrl: "https://www.politico.eu/article/the-rise-of-ai-surveillance-coronavirus-data-collection-tracking-facial-recognition-monitoring/"
-    ampWebUrl: "https://www.politico.eu/article/the-rise-of-ai-surveillance-coronavirus-data-collection-tracking-facial-recognition-monitoring/amp/"
-    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/the-rise-of-ai-surveillance-coronavirus-data-collection-tracking-facial-recognition-monitoring/amp/"
-    type: article
-    provider:
-      name: Politico Europe
-      domain: politico.eu
-    quality: 59
-    images:
-      - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2021/05/26/GettyImages-1168367645.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Emerging trends in 2023: The evolution of AI in online shopping"
     excerpt: "In recent years, the AI technology has been widely adopted by the e-commerce sector and AI will witness a fast growth in the coming years so as to enable e-commerce businesses in making data-driven strategic decisions."
     publishedDateTime: 2023-04-30T13:53:00Z

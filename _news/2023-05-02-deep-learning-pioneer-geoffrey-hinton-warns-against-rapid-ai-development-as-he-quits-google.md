@@ -71,6 +71,31 @@ related:
         width: 2845
         height: 2000
         isCached: true
+  - title: "‘Godfather of Artificial Intelligence’ cautions against its impact: How Geoffrey Hinton helped the development of AI"
+    excerpt: "Hinton is not alone in voicing fears regarding AI. In early April, more than 1,000 technology leaders and researchers, including Apple co-founder Steve Wozniak and Tesla founder Elon Musk, signed an open letter calling for a six-month pause on the developing AI systems further,"
+    publishedDateTime: 2023-05-02T11:52:00Z
+    webUrl: "https://indianexpress.com/article/explained/explained-sci-tech/godfather-of-artificial-intelligence-cautions-against-its-impact-how-geoffrey-hinton-helped-the-development-of-ai-8587672/"
+    ampWebUrl: "https://indianexpress.com/article/explained/explained-sci-tech/godfather-of-artificial-intelligence-cautions-against-its-impact-how-geoffrey-hinton-helped-the-development-of-ai-8587672/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/explained-sci-tech/godfather-of-artificial-intelligence-cautions-against-its-impact-how-geoffrey-hinton-helped-the-development-of-ai-8587672/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 49
+    images:
+      - url: "https://images.indianexpress.com/2023/05/Geoffrey-Hinton.jpg"
+        width: 1200
+        height: 667
+        isCached: true
+  - title: "expert reaction to Geoffrey Hinton quits google over risks posed by AI"
+    excerpt: "May 2, 2023 expert reaction to Geoffrey Hinton quits google over risks posed by AI . It has been reported that Geoffrey Hinton has left Google and spoken about the dangers of AI."
+    publishedDateTime: 2023-05-02T10:51:00Z
+    webUrl: "https://www.sciencemediacentre.org/expert-reaction-to-geoffrey-hinton-quits-google-over-risks-posed-by-ai/"
+    type: article
+    provider:
+      name: Science Media Centre
+      domain: sciencemediacentre.org
+    quality: 19
 
 secured: "Otczy2/NcYlMWWvMoOjumfC775PPeEtRqnNmp3rzpgGFPndgPURGb4UQmCmJLyh4tQoOnAtXB2nE8U3eBAglCPQ8fgwpm1Zn0H2u3accvLqxxc9CS0Z3SdNV120f8sD+845iQ3LGEbIKIzVsdTUAQZvrzgUknsnPLdNz3DUNLavQYuSFSkpfMKuymAsBaMEAQqXxDT+W/Wy81dlQ0cvQ7JP39AbTvgbL8+jhOUXxoUOMMK98BfiWUaC3arKQYeQWCRlJwBW33Shbt3DEnEJBkf8hTXextG2eBAciz53ydCpv1FzybgWWsmdjJzjZ3g3MjuZQ8bW2RpY26ljJ2XRvk5rzidx2sYFeajeMRWKFb9b30BNq1JBPREV81S4cReAkz17mrjqWY3oOJi3Y8Ha5fiU9v0J15ie7o522Dwh9PASMr4L8wfSBACmcSmCSCVI/oylfi/fBPqYSYxMR+V4vbEKzKuwVbSnKrAdeG4W+hCwtLR3cjusIS116OKvslfR1xEyveBMmKoMkd4tFL7Jojg==;rL0S7Pc3ZNk1u+lVEznqwQ=="
 ---

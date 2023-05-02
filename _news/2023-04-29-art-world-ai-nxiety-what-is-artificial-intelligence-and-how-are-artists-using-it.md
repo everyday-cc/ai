@@ -23,6 +23,22 @@ images:
     height: 458
     isCached: true
 
+related:
+  - title: "A brewing storm: Journalists being sidelined in the age of AI, and AI-enabled disinfo"
+    excerpt: "What will the future hold for our information ecosystem as journalists experience layoffs in 2023 just as AI takes a stronger hold?"
+    publishedDateTime: 2023-05-02T11:42:00Z
+    webUrl: "https://www.rappler.com/technology/features/journalists-artificial-intelligence-newsroom-effect-disinformation/"
+    type: article
+    provider:
+      name: Rappler
+      domain: rappler.com
+    quality: 32
+    images:
+      - url: "https://www.rappler.com/tachyon/2023/05/shutterstock-robot-hands-laptop.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+
 secured: "+oSrIU/S8gA7swCc2DJQtbUX/PS+OC3jWvnSF1i7mwoba3Py5ecxAWg69F8XuqqpF7sKHLZkXr75wAdM/I/LUZKlHqC4nGHqxh5xPDP5zW5h2QrEGJ0tPWU0tLtPLrO0LZhsFrpt1Ne07+nEox84mPXEbimErdrGD9kVmYijVDN4Qa5mYcLdf2YgIhGWGjUNktdVniy9Ydcv6MNH0+3Am7cze6rddQv0E6DQLWgJ1mio8vUW29jTib8eV5k0OOlMrBmJ5UIJbvqSDNC4amHmuUbwEATiXnqAnhneKkUxgswas0OBVUCHVOBzM8QyDypMY+HUtQc8b3c25L2d6f962pKvbL4xG1XalbezKjBd5oE=;+WnAJai/q49bWi5KQ2ZNCw=="
 ---
 

@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "How generative AI is transforming enterprise search solutions"
-    excerpt: "Generative AI can unlock the full potential of data in the enterprise for the employees who rely on it, lowering barrier to knowledge."
-    publishedDateTime: 2023-04-27T18:13:00Z
-    webUrl: "https://venturebeat.com/ai/how-generative-ai-is-transforming-enterprise-search-solutions/"
-    ampWebUrl: "https://venturebeat.com/ai/how-generative-ai-is-transforming-enterprise-search-solutions/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-generative-ai-is-transforming-enterprise-search-solutions/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/04/AdobeStock_569404196-copy.png?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Making The Most Out Of Generative AI In Your Enterprise"
     excerpt: "Generative artificial intelligence (AI) has come to the forefront of business leaders' minds with the ongoing stories and innovative capabilities of ChatGPT and the waitlist for its rival, Google Bard."
     publishedDateTime: 2023-04-28T11:14:00Z
@@ -59,37 +43,37 @@ related:
         width: 1200
         height: 781
         isCached: true
-  - title: "How artificial intelligence is transforming Hollywood"
-    excerpt: "Artificial intelligence is revolutionizing Hollywood productions and raising new questions. CNBC’s Julia Boorstin shows us how companies are using AI to put actors’ faces on body doubles and even “revive” deceased movie stars on screen."
-    publishedDateTime: 2023-04-27T22:47:00Z
-    webUrl: "https://www.nbcnews.com/nightly-news/video/how-artificial-intelligence-is-transforming-hollywood-171546693664"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo171546693664"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo171546693664"
+  - title: "Here Are The Best AI Image Generators"
+    excerpt: "Here are some of the best AI image generators and how to use them. There have been heated debates about whether AI-generated images can be protected by copyright because the software creates pictures by incorporating “elements from the vast libraries of digitally available images and artwork” that the AI was trained on,"
+    publishedDateTime: 2023-04-28T21:37:00Z
+    webUrl: "https://www.forbes.com/sites/ariannajohnson/2023/04/28/here-are-the-best-ai-image-generators/"
+    ampWebUrl: "https://www.forbes.com/sites/ariannajohnson/2023/04/28/here-are-the-best-ai-image-generators/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ariannajohnson/2023/04/28/here-are-the-best-ai-image-generators/amp/"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
+      name: Forbes
+      domain: forbes.com
     quality: 87
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_04/WA-NNWEB-20230427-01_AI_HOLLYWOOD_BOORSTIN_3_21_MIXDOWN_frame_3793-376hvp.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://imageio.forbes.com/specials-images/imageserve/644c27a753797ad5a7ad4710/0x0.jpg?format=jpg&crop=2654,1492,x0,y48,safe&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "How vector databases can revolutionize our relationship with generative AI"
-    excerpt: "By reducing the need to structure data, vector databases can speed up generative AI training times to dramatically improve our productivity."
-    publishedDateTime: 2023-04-30T22:21:00Z
-    webUrl: "https://venturebeat.com/ai/how-vector-databases-can-revolutionize-our-relationship-with-generative-ai/"
-    ampWebUrl: "https://venturebeat.com/ai/how-vector-databases-can-revolutionize-our-relationship-with-generative-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-vector-databases-can-revolutionize-our-relationship-with-generative-ai/amp/"
+  - title: "Understanding the risks of generative AI for better business outcomes"
+    excerpt: "Understand the risks to security, privacy and more of generative AI and the precautions you can take to mitigate them."
+    publishedDateTime: 2023-04-29T16:10:00Z
+    webUrl: "https://venturebeat.com/ai/understand-risks-generative-ai-better-business-outcomes/"
+    ampWebUrl: "https://venturebeat.com/ai/understand-risks-generative-ai-better-business-outcomes/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/understand-risks-generative-ai-better-business-outcomes/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
     quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2018/11/artificial-intelligence.shutterstock_1164239863.jpg?w=1200&strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1209661950-e1666828949345.jpg?w=1200&strip=all"
         width: 1200
-        height: 850
+        height: 595
         isCached: true
   - title: "Samsung Reportedly Bans Use of Generative AI Tools"
     excerpt: "Employees are prohibited from using the popular tools on company equipment after a data leak, Bloomberg reports"
@@ -107,6 +91,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "EU lawmakers pass draft of AI Act, includes copyright rules for generative AI"
+    excerpt: "After months of negotiations and two years after a draft rules were proposed, EU lawmakers have a draft of the Artificial Intelligence Act."
+    publishedDateTime: 2023-04-27T20:38:00Z
+    webUrl: "https://venturebeat.com/ai/eu-lawmakers-pass-draft-of-ai-act-includes-last-minute-change-on-generative-ai-models/"
+    ampWebUrl: "https://venturebeat.com/ai/eu-lawmakers-pass-draft-of-ai-act-includes-last-minute-change-on-generative-ai-models/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/eu-lawmakers-pass-draft-of-ai-act-includes-last-minute-change-on-generative-ai-models/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 84
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/04/Untitled-design-62.png?w=1200&strip=all"
+        width: 1200
+        height: 750
+        isCached: true
   - title: "We must perfect predictive models for generative AI to deliver on the AI revolution"
     excerpt: "To accelerate the AI revolution, we shouldn’t abandon “old school AI” for flashier generative AI. Why we should perfect predictive AI."
     publishedDateTime: 2023-04-30T23:09:00Z
@@ -123,19 +123,53 @@ related:
         width: 1200
         height: 631
         isCached: true
-  - title: "Three Trends Of Transformation: How AI & Value-Based Care (VBC) Will Drive Transformation Of Self-Insured Healthcare"
-    excerpt: "Healthcare is on the brink of a seismic shift, and AI is its catalyst. (1) Large Language Models extend our predictive capabilities. (2) Self-insured companies' risk profile and the patient needs are aligned."
-    publishedDateTime: 2023-05-01T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/lutzfinger/2023/05/01/three-trends-of-transformation-how-ai--value-based-care-vbc-will-drive-transformation-of-self-insured-healthcare/"
+  - title: "Letter from the editor: How generative AI is shaping the future of journalism and our newsroom"
+    excerpt: "I sent this memo to the editorial staff at VentureBeat today, explaining the way I think that we should approach this moment in digital media."
+    publishedDateTime: 2023-05-02T11:55:00Z
+    webUrl: "https://venturebeat.com/ai/letter-from-the-editor-how-generative-ai-is-shaping-the-future-of-journalism-and-our-newsroom/"
+    ampWebUrl: "https://venturebeat.com/ai/letter-from-the-editor-how-generative-ai-is-shaping-the-future-of-journalism-and-our-newsroom/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/letter-from-the-editor-how-generative-ai-is-shaping-the-future-of-journalism-and-our-newsroom/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 75
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/05/journo.jpg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Generative AI Tools Like ChatGPT And Bard Heralding Generational Shift In Job Roles. Adapt Or Risk Obsolescence"
+    excerpt: "The benefits and impact of Generative AI tools like ChatGPT on industries and job roles have only begun to occur, harbingering generational job role shifts."
+    publishedDateTime: 2023-05-01T15:59:00Z
+    webUrl: "https://www.forbes.com/sites/roomykhan/2023/05/01/generative-ai-tools-like-chatgpt-and-bard-heralding-generational-shift-in-job-roles-adapt-or-risk-obsolescence/"
+    ampWebUrl: "https://www.forbes.com/sites/roomykhan/2023/05/01/generative-ai-tools-like-chatgpt-and-bard-heralding-generational-shift-in-job-roles-adapt-or-risk-obsolescence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roomykhan/2023/05/01/generative-ai-tools-like-chatgpt-and-bard-heralding-generational-shift-in-job-roles-adapt-or-risk-obsolescence/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 61
+    quality: 67
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/644f0e322dfc4586460d1577/0x0.jpg?format=jpg&width=1200"
-        width: 1024
-        height: 1024
+      - url: "https://imageio.forbes.com/specials-images/imageserve/644fdd5de31e3cc4caad4710/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 798
+        isCached: true
+  - title: "The rise of AI surveillance"
+    excerpt: "Internet companies track our clicks to divine our preferences for products, news articles or ads. The facial recognition company Clearview AI scrapes images off sites like Facebook and YouTube to train its model. Facebook recently announced it will begin ..."
+    publishedDateTime: 2023-04-28T12:59:00Z
+    webUrl: "https://www.politico.eu/article/the-rise-of-ai-surveillance-coronavirus-data-collection-tracking-facial-recognition-monitoring/"
+    ampWebUrl: "https://www.politico.eu/article/the-rise-of-ai-surveillance-coronavirus-data-collection-tracking-facial-recognition-monitoring/amp/"
+    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/the-rise-of-ai-surveillance-coronavirus-data-collection-tracking-facial-recognition-monitoring/amp/"
+    type: article
+    provider:
+      name: Politico Europe
+      domain: politico.eu
+    quality: 59
+    images:
+      - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2021/05/26/GettyImages-1168367645.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Top 8 AI Chips for Your Generative AI Play"
     excerpt: "The AI chip market is expected to grow at a CAGR of 51% and reach $73.49 billion by 2025. Semiconductor companies could capture 40-50% of the total market share. Companies such as Alphabet, Broadcom,"
@@ -151,31 +185,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Early AI adopter Informatica is set up for the generative age, but not profiting yet"
-    excerpt: "Informatica says it is in the business of delivering “trusted data for trusted outcomes”, according to Chief Product Officer Jitesh Ghai. That message seems increasingly relevant as many organizations rush to adopt artificial intelligence solutions that have been trained on data scraped from the Web."
-    publishedDateTime: 2023-05-01T08:59:00Z
-    webUrl: "https://diginomica.com/early-ai-adopter-informatica-set-generative-age-not-profiting-yet"
-    ampWebUrl: "https://diginomica.com/early-ai-adopter-informatica-set-generative-age-not-profiting-yet?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/early-ai-adopter-informatica-set-generative-age-not-profiting-yet?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 52
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2023-03/Shutterstock_1576352020.jpg"
-        width: 740
-        height: 450
-        isCached: true
-  - title: "Music Executives Grapple With Generative AI on Earnings Calls"
-    excerpt: "The leaders of Spotify and Universal Music Group are trying to sort through the threats and opportunities surrounding AI"
-    publishedDateTime: 2023-04-27T18:31:00Z
-    webUrl: "https://www.bloomberg.com/news/newsletters/2023-04-27/music-executives-grapple-with-generative-ai-on-earnings-calls"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
   - title: "Special Series: How Generative AI Changes Everything"
     excerpt: "ADI IGNATIUS: Join us for a new special series: How Generative AI Changes Everything. We’ll be talking to business leaders at the leading edge of this innovation as well as experts, who in some cases are questioning the ethics and speed of this rollout."
     publishedDateTime: 2023-04-27T23:34:00Z
@@ -190,57 +199,36 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Interprefy Launches Next-Generation AI Speech Translator for Events"
-    excerpt: "M ultilingual meeting technology and services provider Interprefy unveiled Interprefy Aivia, the world’s first advanced automated speech translation service for online and live"
-    publishedDateTime: 2023-04-28T21:15:00Z
-    webUrl: "https://www.tsnn.com/news/interprefy-launches-nextgeneration-ai-speech-translator-events"
+  - title: "We must rein in the precocious Generative AI children. But how?"
+    excerpt: "More than a thousand people, including Elon Musk, Yoshua Bengio, Stuart Russel, Gary Marcus and Andrew Yang, called for a six-month moratorium on training systems that are “more powerful than GPT-4”, arguing that such systems should be developed only when the world believes it can contain the risks ."
+    publishedDateTime: 2023-04-28T03:02:00Z
+    webUrl: "https://www.livemint.com/mint-top-newsletter/techtalk28042023.html"
     type: article
     provider:
-      name: TSNN
-      domain: tsnn.com
+      name: Mint
+      domain: livemint.com
     quality: 39
     images:
-      - url: "https://www.tsnn.com/sites/default/files/AI%20translation%20concept.jpg"
-        width: 8500
-        height: 4250
+      - url: "https://www.livemint.com/lm-img/img/2023/04/26/original/Picture3_1682515135532.jpg"
+        width: 504
+        height: 500
         isCached: true
-  - title: "EU proposes new copyright rules for generative AI"
-    excerpt: "Shortly after signing the letter, the Financial Times reported Musk was planning to launch his own startup to rival OpenAI. ALSO READ: Elon Musk plans AI startup to rival OpenAI, Financial Times reports"
-    publishedDateTime: 2023-04-28T01:55:00Z
-    webUrl: "https://www.asiaone.com/digital/eu-proposes-new-copyright-rules-generative-ai"
+  - title: "UAE Government launches the “Generative AI” Guide to facilitate the adoption of AI technology across vital industries"
+    excerpt: "The “Generative AI” guide serves as a valuable resource for government entities, enabling them to leverage the benefits of AI technologies and enhance its implementation across various fields. Commenting on the launch,"
+    publishedDateTime: 2023-04-30T11:45:00Z
+    webUrl: "https://www.zawya.com/en/press-release/government-news/uae-government-launches-the-generative-ai-guide-to-facilitate-the-adoption-of-ai-technology-across-vital-industries-r5v4skkw"
+    ampWebUrl: "https://www.zawya.com/en/press-release/government-news/uae-government-launches-the-generative-ai-guide-to-facilitate-the-adoption-of-ai-technology-across-vital-industries-r5v4skkw?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/government-news/uae-government-launches-the-generative-ai-guide-to-facilitate-the-adoption-of-ai-technology-across-vital-industries-r5v4skkw?amp=1"
     type: article
     provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 37
+      name: Zawya
+      domain: zawya.com
+    quality: 36
     images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Apr2023/20230428_EUAI_Reuters.jpg?itok=7hZy3u6s"
-        width: 848
-        height: 601
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/YWM4MDI3MDEtMDIzMC00/1/1-jpg.jpeg?f=3%3A2"
+        width: 900
+        height: 600
         isCached: true
-  - title: "Business Transformations in 2023 with Artificial Intelligence"
-    excerpt: "Conversational dialogues between humans and ChatGPT are mimicked by OpenAI. Industries anticipate it will be used more widely as an office assistant"
-    publishedDateTime: 2023-05-02T09:48:00Z
-    webUrl: "https://www.cioapplications.com/news/business-transformations-in-2023-with-artificial-intelligence-nid-10608.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 37
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/w7t62cioapp450-308.jpg"
-        width: 450
-        height: 308
-        isCached: true
-  - title: "Moveworks Launches Creator Studio: A No-Code, Generative AI Platform for Building Any Conversational AI Use Case Across the Enterprise"
-    excerpt: "Moveworks, a leading conversational AI platform for the enterprise, announced Creator Studio — a no-code, generative AI platform for building any conversational AI use case in minutes. The platform leverages advanced large language models (LLMs) and generative AI to provide a natural language interface that serves as an enterprise-wide co-pilot for employees."
-    publishedDateTime: 2023-04-27T18:27:00Z
-    webUrl: "https://www.datanami.com/this-just-in/moveworks-launches-creator-studio-a-no-code-generative-ai-platform-for-building-any-conversational-ai-use-case-across-the-enterprise/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 0
 
 secured: "1w2SVa4pprJL9kfrmK8n2dlzHKZd5tsIFRbH1g/BcNV86ICO0a1pXVMbtj69uTLaoGnBzE/v5Iu8X25VoVUygvApXvyWL/jN6GD2/YzCyKoi/BPvhoPkjUM4bb8n21Frzei6zMBtYH/T1Ck5dUIKrYn/i6J47zskdXsSkBs7oaNkCENPj0z8HkVH1GEr+UnZ+Le82Gbvroxmvk6OaH8z3Xv9XHULQBLSkTiX+4mdoQaz+cWE2EJ65vwLMS0Iit26AnrpyhYvQuaEpO8QjvwypriuuBRG+0DIVJz7VUVLRGFR++bzh441y1Z8mCVyr+FaMgdZYyo6NZfhJ6ARYlNJSaSEb6Z596gBufP+bDcdv7Q=;FzfvMk2mazgRFr1EYKj9oQ=="
 ---

@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-02-the-ethics-of-military-ai.md",
+      "title": "The ethics of military AI",
+      "excerpt": "In this week’s Computer Weekly, as the defence sector looks into using artificial intelligence to create autonomous weapons, we examine the risks and ethics of military AI. Amazon Web Services is under fire for not providing vital emissions data to customers – we investigate the issues.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/ezine/Computer-Weekly/The-ethics-of-military-AI",
+      "originalUrl": "https://www.computerweekly.com/ezine/Computer-Weekly/The-ethics-of-military-AI",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ttgtmedia.com/rms/computerweekly/CWE_030215_ezine_pp19-MED.jpg",
+          "width": 252,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-02T04:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-02-geoffrey-hinton-a-pioneer-in-artificial-intelligence-resigns-from-google-over-ethical-fears.md",
       "title": "Geoffrey Hinton, a pioneer in artificial intelligence, resigns from Google over ethical fears",
       "excerpt": "Geoffrey Hinton, a pioneer in artificial intelligence and a longtime leader of Google’s AI research division, has resigned from his position at the tech giant, citing growing concerns about the ethical implications of the technology he helped create,",
@@ -10,7 +53,7 @@
       "originalUrl": "https://venturebeat.com/ai/geoffrey-hinton-a-pioneer-in-artificial-intelligence-resigns-from-google-over-ethical-fears/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -64,7 +107,7 @@
       "originalUrl": "https://www.engadget.com/godfather-of-ai-leaves-google-amid-ethical-concerns-152451800.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 326,
+      "heat": 356,
       "tags": null,
       "images": [
         {
@@ -109,21 +152,21 @@
       ]
     },
     {
-      "path": "_news/2023-04-28-voices-study-finds-creatives-optimistic-about-generative-ai-but-share-concerns-over-its-ethics.md",
-      "title": "Voices study finds creatives optimistic about generative AI, but share concerns over its ethics",
-      "excerpt": "Voices study finds creatives optimistic about generative AI, but share concerns over its ethics Apr 28, 2023 (PRNewswire via COMTEX) -- PR Newswire NEW",
+      "path": "_news/2023-04-28-ai-for-stem-education.md",
+      "title": "AI for STEM Education",
+      "excerpt": "Enhance STEM education with resources and discussions that investigate the world of artificial intelligence, chatbots, and machine learning.",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/voices-study-finds-creatives-optimistic-about-generative-ai-but-share-concerns-over-its-ethics-2023-04-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/voices-study-finds-creatives-optimistic-about-generative-ai-but-share-concerns-over-its-ethics-2023-04-28",
+      "webUrl": "https://www.sciencefriday.com/articles/ai-for-stem-education/",
+      "originalUrl": "https://www.sciencefriday.com/articles/ai-for-stem-education/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 86,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://www.sciencefriday.com/wp-content/uploads/2023/04/Copy-of-Getting-Started-with-AI-Instagram-Post-Square.png?w=400",
+          "width": 400,
+          "height": 400,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -133,21 +176,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-28T07:38:00-07:00",
+      "publishedDateTime": "2023-04-28T09:12:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Science Friday",
+        "domain": "sciencefriday.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -157,7 +191,8 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
+        "AI",
+        "AI in Education"
       ]
     },
     {
@@ -1406,40 +1441,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-04-artificial-intelligence-ethics-and-a-right-to-a-human-decision.md",
-      "title": "Artificial Intelligence, Ethics, and a Right to a Human Decision",
-      "excerpt": "John Tasioulas is the inaugural Director for the Institute for Ethics and AI, and Professor of Ethics and Legal Philosophy, Faculty of Philosophy, University of Oxford. Professor Tasioulas has degrees in Law and Philosophy from the University of Melbourne ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.princeton.edu/events/2023/artificial-intelligence-ethics-and-right-human-decision",
-      "originalUrl": "https://www.princeton.edu/events/2023/artificial-intelligence-ethics-and-right-human-decision",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-04T02:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Princeton University",
-        "domain": "princeton.edu",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -71,6 +71,22 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "We need to bring consent to AI"
+    excerpt: "This week's big news is that Geoffrey Hinton, a VP and Engineering Fellow at Google, and a pioneer of deep learning who developed some of the most important techniques at the heart of modern AI, is leaving the company after 10 years. But first, we need to talk about consent in AI."
+    publishedDateTime: 2023-05-02T09:47:00Z
+    webUrl: "https://www.technologyreview.com/2023/05/02/1072556/we-need-to-bring-consent-to-ai/"
+    ampWebUrl: "https://www.technologyreview.com/2023/05/02/1072556/we-need-to-bring-consent-to-ai/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/05/02/1072556/we-need-to-bring-consent-to-ai/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/04/opt-out-writing.jpeg?w=3000"
+        width: 3000
+        height: 1688
+        isCached: true
   - title: "IBM’s CEO expects A.I. to be so good at back office work that he plans to pause hiring humans for those jobs"
     excerpt: "“I could easily see 30% of that getting replaced by AI and automation over ... Kyndryl Inc. and part of the Watson Health business. The company is currently considering selling its weather unit. Armonk, New York-based IBM topped profit estimates ..."
     publishedDateTime: 2023-05-01T22:22:00Z
@@ -86,6 +102,22 @@ related:
       - url: "https://content.fortune.com/wp-content/uploads/2023/05/GettyImages-1252487179-e1682977731187.jpg?w=840"
         width: 840
         height: 560
+        isCached: true
+  - title: "Job cuts may intensify as IBM plans to use AI to replace 30% back office jobs"
+    excerpt: "IBM CEO Arvind Krishna said he expects AI to impact at least 7,800 jobs at the company over the next five years."
+    publishedDateTime: 2023-05-02T07:55:00Z
+    webUrl: "https://www.computerworld.com/article/3694874/job-cuts-may-intensify-as-ibm-plans-to-use-ai-to-replace-30-back-office-jobs.html"
+    ampWebUrl: "https://www.computerworld.com/article/3694874/job-cuts-may-intensify-as-ibm-plans-to-use-ai-to-replace-30-back-office-jobs.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3694874/job-cuts-may-intensify-as-ibm-plans-to-use-ai-to-replace-30-back-office-jobs.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 54
+    images:
+      - url: "https://images.idgesg.net/images/article/2017/09/thinkstockphotos-629792888-100735142-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 940
         isCached: true
   - title: "IBM to pause hiring for jobs that AI could do"
     excerpt: "IBM's CEO said the company expects to pause hiring for roles it thinks could be replaced with artificial intelligence in the coming years."

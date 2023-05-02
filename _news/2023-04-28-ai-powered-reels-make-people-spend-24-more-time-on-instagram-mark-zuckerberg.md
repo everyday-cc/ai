@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ndtv.com/feature/ai-powered-reels-make-people-spend-24-m
 cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/feature/ai-powered-reels-make-people-spend-24-more-time-on-instagram-mark-zuckerberg-3986854/amp/1"
 type: article
 quality: 55
-heat: 65
+heat: 55
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 650
     height: 400
     isCached: true
-
-related:
-  - title: "Mark Zuckerberg says AI boosts monetization by 30% on Instagram, 40% on Facebook"
-    excerpt: "The core business for Meta since the early days of Facebook has been advertising sales, which still account for 98% of the company’s quarterly revenue. So naturally, enhancing advertisements with A.I."
-    publishedDateTime: 2023-04-27T18:21:00Z
-    webUrl: "https://www.aol.com/finance/mark-zuckerberg-says-ai-boosts-181123857.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 14
 
 secured: "LSt5D/IY6rJv16ec9HKcp7aN67IbNnzhUNnvkLVoIVyIO7BvvRkdwuhBjfdWcAFfOM/m83Fn3zheqnfQOAZGYmlI9OAg4k0sCmRa4WYyQUn572BVSRGZ0qLit71jGpy57EqOXzEsSozKR4ajuDRe1JthiNV6HYMJsHjUvJFXb37PKwsKUfoHV1vn6oOVIcBCARdSCidqeiptem+ET8efTNMDICf8pEoMsq6O3baAJMmlj+/iHn+yGO6sWMXI3Xpue5rMTXnES56Y9dj4yMpmY/Dt2q0dh81mCz/IP61oYbSbmSLxA9z3iBWypH3aVPByWSRaAr4qL+CJDEkdlh8thbbVt2o+kaBHef6MreUV3t51iLWVv8/+8YSgoSNHg0z5PtEKwNFinmOflRh7Ri0aAPrubqyXOJwHmXVN1RoA+KgsuBSpFRUOqEZZ6vY1fif6bK81/yrTyEGwWRNawRiTTp6j4zolyx7KEQCHLfYt+oyNldVZH9CYCrhEpdS++3Z/y4M6b4t0lIiognK62BiZtA==;xKzNAIW9Gafn/m92mu8QYg=="
 ---

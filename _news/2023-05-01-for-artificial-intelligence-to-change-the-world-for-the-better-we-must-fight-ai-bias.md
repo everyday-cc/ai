@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/01/for-arti
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/01/for-artificial-intelligence-to-change-the-world-for-the-better-we-must-fight-ai-bias/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Forbes
@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Why AI is not going to change the world too much"
-    excerpt: "Although we have seen a lot of hype around the potential impact of this technology, I do not think that either one of these innovations will change the world too much. I am also acutely aware of the danger of making predictions like this about technology."
-    publishedDateTime: 2023-04-27T18:52:00Z
-    webUrl: "https://www.herald.co.zw/why-ai-is-not-going-to-change-the-world-too-much/"
-    type: article
-    provider:
-      name: The Herald-Zimbabwe
-      domain: herald.co.zw
-    quality: 39
-    images:
-      - url: "https://www.herald.co.zw/wp-content/uploads/sites/2/2023/04/Untitled-4-7.jpg"
-        width: 680
-        height: 380
-        isCached: true
   - title: "The circle of life works for AI, too"
     excerpt: "The Hindu scriptures provide some guidance. The Circle of life has worked for humans, and it will continue for AI, which will see innovation, preservation of a few innovations, and a few failures. However, the cycle will continue perpetually."
     publishedDateTime: 2023-04-30T14:43:00Z

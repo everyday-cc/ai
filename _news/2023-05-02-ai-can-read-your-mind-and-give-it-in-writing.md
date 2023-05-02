@@ -59,6 +59,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Scientists claim AI-based decoder can translate thoughts into text"
+    excerpt: "US researchers said their AI-powered decoder was able to accurately translate a person's thoughts into text roughly half the time."
+    publishedDateTime: 2023-05-02T10:32:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/ai-decoder-translate-thoughts-into-text"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 54
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/05/AdobeStock_220562965.jpeg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "OlocBTyKj9Ol0295Mv5kkkFNmMBMtLk3sOBzSVeobjt5Fxw76Xi/0JwRmzrQ7aLNvNdbunAQj5HvJkgrAPB+CmrgkQmnTPDAsa7vvIg/CopmFCa3hRLkWxj9HsUIMqoMw1YalGQlC5rRQqbN1hA0gTn5Fvh27d2QxV1m6DF/v0JmqzQtPizpmFbbmygIUiCPb+T7Wq70fQ27N/6VPz6pworbNjPMaTWppqPWXLidcqNOK5RXwa2FyQXkeqpJzdRHS/g801fprl0oceRGtiA3z85Pcmgq+hh2YMsISI6TrKOXBhfYYzRqTiLm6HcWW5zKLA7anIog5nesxdEVend0JGchqQdD72rgvtNfq3Iu5IU=;XReuFFID+bzVokkqv955AQ=="
 ---

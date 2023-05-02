@@ -7,7 +7,7 @@ originalUrl: "https://www.meetingsnet.com/event-tech-virtual-meetings/interprefy
 webUrl: "https://www.meetingsnet.com/event-tech-virtual-meetings/interprefy-unveils-ai-powered-instant-translator-multiple-languages"
 type: article
 quality: 23
-heat: 23
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1462
     height: 852
     isCached: true
+
+related:
+  - title: "Interprefy Launches Next-Generation AI Speech Translator for Events"
+    excerpt: "M ultilingual meeting technology and services provider Interprefy unveiled Interprefy Aivia, the world’s first advanced automated speech translation service for online and live"
+    publishedDateTime: 2023-04-28T21:15:00Z
+    webUrl: "https://www.tsnn.com/news/interprefy-launches-nextgeneration-ai-speech-translator-events"
+    type: article
+    provider:
+      name: TSNN
+      domain: tsnn.com
+    quality: 39
+    images:
+      - url: "https://www.tsnn.com/sites/default/files/AI%20translation%20concept.jpg"
+        width: 8500
+        height: 4250
+        isCached: true
 
 secured: "HwfsMZtw0c+6qHCd4gvNbwjVdwypczdztqMwu0tmVuinPVdIrrsLORxPbv+LBR6ZJA+szrDrJCdG0GevFm4iWUTpU04X9KvojzqmjqVS6Vou32SonlSQ8UJcgyGP55wrn7DdTyCo1XdgRioq2KxrN4xRbalHXPR4lID0huZeHHrbaKQgBUBrH7Fv3nKmJ3vD3ApzfF7KKXrk+rJToz62F/yis8No7T0kZNleF03W1ASXA367H43WAEKf6BNvRg6/y7pMnlq+RmLpwHJmSNiMHXTSjkB0o6nNQ8Dt8CxEDD3o4iWEDE/1+m73wUq/6p/6mdIoh8nWCL9VAjcibbSu3kkTz6tHFxGFy2WGvmSSDGnddffrsc14onjU8JFW6PPfuKB2QIvP85hcCTqE5x1MKFiGZtyi66urJJJhjoS5Qj9dpVbT50ZAQYTXR9HIv4r9jmK1s6Xu9NAor6eO6J1Geo2KMK2BUeqK2tF2Vm10HCW/Sqm6YAaFMCXOT34HQ6MeqBjUgyNKm3FrOI3iXkWjrA==;xH6bnddTVXT9aqStcjRKVQ=="
 ---

@@ -39,22 +39,6 @@ related:
         width: 1200
         height: 798
         isCached: true
-  - title: "Boston Dynamics robot dog can answer your questions now, thanks to ChatGPT"
-    excerpt: "A new video shared by AI expert Santiago Valdarrama, showcases Boston Dynamics' robot dog, Spot, performing a few new tricks that involve artificial intelligence. In the almost two minute video, Spot is able to answer natural language questions such as \"Are you standing?\" and \"What is your battery level?\"."
-    publishedDateTime: 2023-04-27T17:37:00Z
-    webUrl: "https://www.zdnet.com/article/boston-dynamics-robot-dog-can-answer-your-questions-now-thanks-to-chatgpt/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/boston-dynamics-robot-dog-can-answer-your-questions-now-thanks-to-chatgpt/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/boston-dynamics-robot-dog-can-answer-your-questions-now-thanks-to-chatgpt/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/67420e49493ab2b30aaafc15a8e1800befe0ca8f/2023/04/27/9f9be49a-d685-4a34-8801-0023f95fbbcc/screenshot-2023-04-27-at-10-10-49-am.png?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "How To Write ChatGPT, AI Chatbot Prompts Like A Philosopher"
     excerpt: "The next time you use a chatbot, try writing like a philosopher. It will give you the most successful results."
     publishedDateTime: 2023-04-28T14:02:00Z

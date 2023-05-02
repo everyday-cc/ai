@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/technology/mind-reading-ai-translates-brain-act
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/technology/mind-reading-ai-translates-brain-activity-into-text/?amp=true"
 type: article
 quality: 102
-heat: 122
+heat: 132
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/7302d44572ee13e4a9aa597c2d1f4dc5134f5c2e/10_10_906_544/master/906.jpg?width=620&quality=85&auto=format&fit=max&s=3c77285e70adc891ef25c4d4aa515296"
         width: 620
         height: 372
+        isCached: true
+  - title: "Scientists claim AI-based decoder can translate thoughts into text"
+    excerpt: "US researchers said their AI-powered decoder was able to accurately translate a person's thoughts into text roughly half the time."
+    publishedDateTime: 2023-05-02T10:32:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/ai-decoder-translate-thoughts-into-text"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 54
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/05/AdobeStock_220562965.jpeg"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "0SpbEI0kPHv15jZTd+P8APCaP6Pf32aAqWvDFA3KRy9vjT6m80u98+Z2khPxFF024BmEW4HOONjPzfE1FeFCzTxsv3XeOXUYU/uIi/zQ0WUEjUF7YxMwc2AymdkFKEdCkFnSt68lTXtP4YWjmAdqfmE/UfDtKEhwVCCnIJqL4/ObodLCfQw9iaIRbQER6FEZUk+sm7hrAEfKDtEYYRSvyPvLPWD9qwsWrDYReLckx7hP4ftIo2L4m/Kh1AdstboRJ/RM7m+VhFA6eLqa2lB19ua4JmQPhs6gbYNxl0z+JqEkUMntENgRXDYTc7B3CMOj2nsTa3ix+pOF62uV70gjfr4dDVgMHYF58DEofTzRml4hHpcy7ZFd+EweOzVbRZHLPhNXdfHtbbPiEd0+6StTSUZsLVfZPJoZwjUh47HFmTHIs4ixXOMs3dfpHk8pIQfhOPL2jq2ViZAgU8op6pZ0LW3owHUB6+tfLmyjNC0kVqpskQf0H5fGbdR+GnrHS0hiNqnukYIqFO225pEIqKguCw==;jg+TcJIkcgtHEjSwd0aeqQ=="
