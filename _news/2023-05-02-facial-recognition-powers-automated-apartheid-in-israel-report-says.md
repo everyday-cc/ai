@@ -7,8 +7,8 @@ originalUrl: "https://www.nytimes.com/2023/05/01/technology/israel-palestine-fac
 webUrl: "https://www.nytimes.com/2023/05/01/technology/israel-palestine-facial-recognition.html"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The New York Times
@@ -28,6 +28,22 @@ images:
     height: 550
     isCached: true
 
-secured: "Z5QvdLOEZ5t27mxmxLGd6RAXg7i1Ai7X6m7SLb8SlkSFQdkjzsi0rZmWrSjd5mXQYOCjQVl6JojVXDZQVPGgvqbzXwXIcHYQhTIwjFFYmOo3MwcuSLYDX7wIraSnZzZfif0ZW24jWXz9u1XUJzUMigLF5I816fEJyBt8lZLuWjNWVd3berWSmwRZIBnGxiUDaeITrFOCBQTF1APb4W6m1uI3FndJokvZb5dVfKBwfH2+REsQcdFY1NO7tfJgE/+o8pM3w/+nRs9yC3yyvcVqdSANOFATpaPJtDlk5OK9+N3HwyaMKK10pJa/6qna5yC0QpWttNQutHpICbg3RtmzCQ9gRy+xH+VOtOlZD2SurVk=;duFmOc0cPqdAbcph6P8Bvg=="
+related:
+  - title: "Facial recognition technology used by Israel to ‘supercharge segregation and automate apartheid,’ says Amnesty"
+    excerpt: "ISRAEL is using an experimental facial recognition system to “” Amnesty International general secretary Agnes Callamard warns today. The liberal charity is publishing a new report, Automated Apartheid,"
+    publishedDateTime: 2023-05-01T23:46:00Z
+    webUrl: "https://morningstaronline.co.uk/article/w/facial-recognition-technology-used-by-israel-to-supercharge-segregation-and-automate-apartheid-says-amnesty"
+    type: article
+    provider:
+      name: Morning Star
+      domain: morningstaronline.co.uk
+    quality: 21
+    images:
+      - url: "https://morningstaronline.co.uk/sites/default/files/AP23107646322597.jpg"
+        width: 1185
+        height: 790
+        isCached: true
+
+secured: "Eho3YF2p722C7EHij/H9SlmdBUE423v3GfdRIYR5rzqATszKGODZjeZb2n1apuzH7eZWcul4qQCDeO8USsOUN0y5ugonZMh+nZkm0Bf/xFizcre+/s/8LmopiHySe9YszBLDYl0XohDzYwvuBKCmzfIPyxZrwyzXmknlC6YKOUM3/3oZj2rttatXwdYzHzmy6MGgWqXNDqpIKUZ1xFLy0ZZkKOs35/95yGbA4nMVBmsLRQtodSRAh6YzAXIo2vKrUW+nr9JWP0AHczBO09Su1H5bzlVKBOQCN+nOHEHPJO1K7BUpSuNqHWLqcRJGR1ra8DjGXqCoTTXyXmZPcZPn2XC1bhQMnStS70RUVHxn8fZq5jBvGPsuWeIR0F8HVTHsSj/yqNgtHlgrIjv/RKLNF/FmNZ6UfbbRxlt8KA8qMVmuAxjedV2QZtR8HDHnQ+uGdJDMXrHaeL0YHoRT56tyodRgH8lukI3ZgB/rvn66W1SuVYtx6Wiw/gWy+IlETfbEBfjEZBnV0aDQ/tYo7sZsXw==;to0NVabNvW5qJ2xS43OGyw=="
 ---
 

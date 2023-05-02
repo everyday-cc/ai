@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/healthcare-ai-market-mar
 webUrl: "https://www.marketwatch.com/press-release/healthcare-ai-market-market-projection-and-growth-drivers-2023-2028-2023-04-28"
 type: article
 quality: 86
-heat: 236
+heat: 226
 published: true
 
 provider:
@@ -123,15 +123,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Healthcare Market Scope, Trends, Growth Status, Share and Forecast 2028"
-    excerpt: "The Global Artificial Intelligence in Healthcare Market is estimated to register a CAGR of over 38.1% during the"
-    publishedDateTime: 2023-04-27T07:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-scope-trends-growth-status-share-and-forecast-2028-2023-04-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
   - title: "Artificial Intelligence in Oil and Gas Market Size 2023 with SWOT and PESTAL Analysis | Forecast to 2031"
     excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
     publishedDateTime: 2023-04-28T18:18:00Z

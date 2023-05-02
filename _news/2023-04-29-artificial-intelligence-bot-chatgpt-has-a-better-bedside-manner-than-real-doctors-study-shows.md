@@ -307,6 +307,20 @@ related:
         width: 690
         height: 400
         isCached: true
+  - title: "Navigating the Ethical Minefield: AI and Chatbot Responsibilities"
+    excerpt: "Chatbots have become essential to daily life, from booking flights to ordering food. They make our interactions with businesses more convenient and efficient. However, we must consider their ethical"
+    publishedDateTime: 2023-05-02T01:34:00Z
+    webUrl: "https://technology.inquirer.net/123694/navigating-the-ethical-minefield-ai-and-chatbot-responsibilities"
+    type: article
+    provider:
+      name: Philippine Daily Inquirer
+      domain: inquirer.net
+    quality: 54
+    images:
+      - url: "https://technology.inquirer.net/files/2023/05/Chatbot-ethics-featured-image-syndeo.cx-1-620x349.png"
+        width: 620
+        height: 349
+        isCached: true
   - title: "The AI revolution: Spotlight on ChatGPT as AI seeks to reshape the world"
     excerpt: "We look at some of the first steps companies are taking to harness this new, now not-so-secret weapon to supercharge their business."
     publishedDateTime: 2023-05-01T02:41:00Z

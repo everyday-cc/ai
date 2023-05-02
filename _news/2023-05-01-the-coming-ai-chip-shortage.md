@@ -217,6 +217,20 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 39
+  - title: "The profundity of AI"
+    excerpt: "As for the topic of AI posing a threat to human intelligence, it is a complex and controversial issue with many experts warning about the potential dangers it may pose to human intelligence. Some argue that AI could eventually surpass human intelligence,"
+    publishedDateTime: 2023-05-02T00:58:00Z
+    webUrl: "https://www.brecorder.com/news/40239781/the-profundity-of-ai"
+    type: article
+    provider:
+      name: Business Recorder
+      domain: brecorder.com
+    quality: 39
+    images:
+      - url: "https://i.brecorder.com/large/2023/05/64501a2d079b6.jpg"
+        width: 800
+        height: 455
+        isCached: true
   - title: "Ethics professor raises key questions about the future use of AI (podcast)"
     excerpt: "Artificial intelligence seems like it’s everywhere in the business world today — and, according to the experts, this is only the beginning. Listen to this podcast with David Epstein, executive director of the Susilo Institute for Ethics in a Global Economy and a professor of the practice at Boston University Questrom School of Business,"
     publishedDateTime: 2023-04-27T20:58:00Z

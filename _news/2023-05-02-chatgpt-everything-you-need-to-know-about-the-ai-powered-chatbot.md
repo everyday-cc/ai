@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/05/01/chatgpt-everything-you-need-to-kno
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/01/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/"
 type: article
 quality: 89
-heat: 429
+heat: 439
 published: true
 
 provider:
@@ -294,6 +294,20 @@ related:
       - url: "https://patientengagementhit.com/images/site/article_headers/_normal/2022-04-08-GettyImages-1302394569.jpg"
         width: 690
         height: 400
+        isCached: true
+  - title: "Navigating the Ethical Minefield: AI and Chatbot Responsibilities"
+    excerpt: "Chatbots have become essential to daily life, from booking flights to ordering food. They make our interactions with businesses more convenient and efficient. However, we must consider their ethical"
+    publishedDateTime: 2023-05-02T01:34:00Z
+    webUrl: "https://technology.inquirer.net/123694/navigating-the-ethical-minefield-ai-and-chatbot-responsibilities"
+    type: article
+    provider:
+      name: Philippine Daily Inquirer
+      domain: inquirer.net
+    quality: 54
+    images:
+      - url: "https://technology.inquirer.net/files/2023/05/Chatbot-ethics-featured-image-syndeo.cx-1-620x349.png"
+        width: 620
+        height: 349
         isCached: true
   - title: "Artificial intelligence bot ChatGPT has a better bedside manner than REAL doctors, study shows"
     excerpt: "ARTIFICIAL Intelligence bot ChatGPT has a better bedside manner than real doctors, a study shows. It was judged to give higher quality and more empathetic answers to real-world health questions 79"

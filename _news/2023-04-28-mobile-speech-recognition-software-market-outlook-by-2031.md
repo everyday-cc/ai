@@ -134,15 +134,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 53
-  - title: "Motion Control Software in Robotics Market Research [2023-2030] Conducting a Thorough Market Analysis"
-    excerpt: "This report focuses on the Motion Control Software in Robotics Market sales, revenue, market share and industry ranking of main manufacturers, data. Identification of the major st"
-    publishedDateTime: 2023-04-27T07:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/motion-control-software-in-robotics-market-research-2023-2030-conducting-a-thorough-market-analysis-2023-04-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
   - title: "Speech Recognition Software Market Competitive Situation By 2031"
     excerpt: "What is the Speech Recognition Software market growth? Speech Recognition Software Market Size is projected to Reach Multimillion USD by 2031, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2031."
     publishedDateTime: 2023-04-27T17:53:00Z

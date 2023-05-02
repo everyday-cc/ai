@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial intelligence pioneer leaves Google and warns about technology's future"
+    excerpt: "Geoffrey Hinton, a trailblazer in AI, has joined the growing list of experts sharing their concerns about its rapid advancement."
+    publishedDateTime: 2023-05-02T00:19:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/artificial-intelligence-pioneer-leaves-google-warns-technologys-future-rcna82242"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna82242"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna82242"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 84
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/230501-Geoffrey-Hinton-al-1228-2c82cf.jpg"
+        width: 2500
+        height: 1664
+        isCached: true
   - title: "'Godfather of AI' exits Google, concerned about multiple ethical problems"
     excerpt: "Hinton worries unregulated AI could lead to waves of misinformation, lost jobs, and problems with fully automated weapons. It’s no secret that Google has been ramping up AI development to put out products that can compete with the likes of ChatGPT,"
     publishedDateTime: 2023-05-01T17:30:00Z
@@ -73,6 +89,22 @@ related:
       - url: "https://wraltechwire.com/wp-content/uploads/2023/04/maximalfocus-0n4jhVGS4zs-unsplash-scaled-e1682089227197.jpg"
         width: 2540
         height: 1427
+        isCached: true
+  - title: "AI 'godfather' Geoffrey Hinton warns of dangers as he quits Google"
+    excerpt: "A man widely seen as the godfather of artificial intelligence (AI) has quit his job, warning about the growing dangers from developments in the field. Geoffrey Hinton, aged 75, announced his resignation from Google in a statement to the New York Times, saying he now regretted his work."
+    publishedDateTime: 2023-05-02T00:27:00Z
+    webUrl: "https://www.bbc.co.uk/news/world-us-canada-65452940"
+    ampWebUrl: "https://www.bbc.co.uk/news/world-us-canada-65452940.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-us-canada-65452940.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 57
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/53C6/production/_129564412_aigetty.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Deep learning pioneer Geoffrey Hinton leaves Google, warns of AI risks"
     excerpt: "Hinton (pictured) also argued that researchers should slow AI development until the risks associated with the technology are more clearly understood. Hinton, a professor at the University of Toronto,"

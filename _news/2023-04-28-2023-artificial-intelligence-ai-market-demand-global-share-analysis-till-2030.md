@@ -99,20 +99,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) Accelerator Market Complete Overview till 2031"
-    excerpt: "The latest market research report on the Global \"Artificial Intelligence (AI) Accelerator Market\" is segmented by"
-    publishedDateTime: 2023-04-27T07:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-accelerator-market-complete-overview-till-2031-2023-04-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 82
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Data and AI Ethics Market Size 2023 with SWOT and PESTAL Analysis | Forecast to 2031"
     excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
     publishedDateTime: 2023-04-28T18:25:00Z
@@ -136,20 +122,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Face Recognition Technology Market Updates 2023-2031 by Marketreportsworld.com"
-    excerpt: "Global \"Face Recognition Technology Market\" New Forecast Report 2023| [Pages 121] | provides a brief analysis of"
-    publishedDateTime: 2023-04-27T08:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-updates-2023-2031-by-marketreportsworldcom-2023-04-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

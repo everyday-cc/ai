@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-02-ibm-to-pause-hiring-for-jobs-that-ai-could-do-says-ceo-arvind-krishna.md",
+      "title": "IBM to pause hiring for jobs that AI could do, says CEO Arvind Krishna",
+      "excerpt": "Hiring in back-office functions - such as human resources - will be suspended or slowed, IBM CEO Arvind Krishna said in an interview",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/companies/news/ibm-to-pause-hiring-for-jobs-that-ai-could-do-says-ceo-arvind-krishna-123050200111_1.html",
+      "originalUrl": "https://www.business-standard.com/companies/news/ibm-to-pause-hiring-for-jobs-that-ai-could-do-says-ceo-arvind-krishna-123050200111_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2023-05/02/full/1682990709-8201.jpg",
+          "width": 3840,
+          "height": 2561,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.business-standard.com/amp/companies/news/ibm-to-pause-hiring-for-jobs-that-ai-could-do-says-ceo-arvind-krishna-123050200111_1.html",
+      "cdnAmpWebUrl": "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/companies/news/ibm-to-pause-hiring-for-jobs-that-ai-could-do-says-ceo-arvind-krishna-123050200111_1.html",
+      "publishedDateTime": "2023-05-01T18:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-01-what-policymakers-need-to-know-about-foundation-models.md",
       "title": "What policymakers need to know about foundation models",
       "excerpt": "The newest wave of AI is attributable to what are called foundation models. The benefits are high, but so are the concerns. Here's what policymakers can do.\nThe post What policymakers need to know about foundation models appeared first on IBM Blog.\n",
@@ -155,7 +198,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-market-projection-and-growth-drivers-2023-2028-2023-04-28",
       "featuredContent": null,
       "highlight": null,
-      "heat": 236,
+      "heat": 226,
       "tags": null,
       "images": [
         {
@@ -1348,49 +1391,6 @@
       "topics": [
         "IBM AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-04-10-back-from-the-dead-ibms-watson-ai-is-alive-and-re-emerging.md",
-      "title": "Back from the Dead, IBM’s Watson AI is Alive and Re-Emerging",
-      "excerpt": "While Warson Health is in the rearview mirror, Watson AI continues to improve. In it’s Q4 2022 earnings report, IBM CEO Arvind Krishna commented. “Clients in all geographies increasingly ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/IBM-N/pressreleases/15879633/back-from-the-dead-ibms-watson-ai-is-alive-and-re-emerging/",
-      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/IBM-N/pressreleases/15879633/back-from-the-dead-ibms-watson-ai-is-alive-and-re-emerging/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://barchart-news-media-prod.aws.barchart.com/MKTBEAT/2c9ea2ecb9a1f662191408e9070aa946/med_20230410074443_back-from-the-dead-ibms-watson-ai-is-alive-and-re-.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-09T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Globe and Mail",
-        "domain": "theglobeandmail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Putin's party enlists artificial intelligence"
-    excerpt: "United Russia' has announced that it will use ChatGpt and also Russian-made systems for its propaganda in this year's regional election campaigns. The goal: the 'suppression of threat"
-    publishedDateTime: 2023-04-27T07:56:00Z
-    webUrl: "https://www.asianews.it/news-en/Putin's-party-enlists-artificial-intelligence-58270.html"
+  - title: "The Computer Scientist Peering Inside AI’s Black Boxes"
+    excerpt: "Cynthia Rudin wants machine learning models, responsible for increasingly important decisions, to show their work."
+    publishedDateTime: 2023-04-27T14:05:00Z
+    webUrl: "https://www.quantamagazine.org/cynthia-rudin-builds-ai-that-humans-can-understand-20230427/"
     type: article
     provider:
-      name: Asia News
-      domain: asianews.it
+      name: Quanta Magazine
+      domain: quantamagazine.org
     quality: 39
     images:
-      - url: "https://www.asianews.it/./files/img/size3/michael-dziedzic-qDG7XKJLKbs-unsplash.jpg"
-        width: 700
-        height: 460
+      - url: "https://d2r55xnwy6nx47.cloudfront.net/uploads/2021/09/2021PodcastAd_Article_160.jpg"
+        width: 320
+        height: 550
         isCached: true
 
 secured: "IazZ0PpgHJjvL90dk8zX2VD/7sbU/0Wx6R97Lx0/0zR/rJ7GgkgSX40kZG5vJLO/gVU26/480og4kJjSxW25UTQXScWIbD0qk4mdKBLU5qnD35OV4zu2zf+eJVvjVK6c9c42JAJIZCh+ReDtfvoTv6ZtFII8WVan2Z25kGfKPyYYK+v3Y3nLF1/9wNur6x6QWcu5w7la+YSyhxNsN+/w89cCPwexDfRECHNmTI8T8FAeuoVAjKiNaNx4PQvJgufpDNeySFGODKWEpxcR15wzBoj/At3S26ukHrcNsbG40bCjaeHTDp75DeCYiM+fxKk8tWbBJXChIelm+pjj4eqyqcAKhyjWxL1wqgbMI4V8iz4=;dh2p5eh0Vf2Xo3GRyht//g=="

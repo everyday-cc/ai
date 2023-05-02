@@ -264,6 +264,49 @@
       ]
     },
     {
+      "path": "_news/2023-04-21-google-integrates-deepmind-and-brain-teams-creating-google-deepmind.md",
+      "title": "Google integrates DeepMind and Brain teams, creating Google DeepMind",
+      "excerpt": "The move aims to consolidate Google's artificial intelligence (AI) research divisions and keep pace with other tech giants in the field. DeepMind",
+      "sourceUrl": null,
+      "webUrl": "https://www.techzine.eu/news/applications/104951/google-integrates-deepmind-and-brain-teams-creating-google-deepmind/",
+      "originalUrl": "https://www.techzine.eu/news/applications/104951/google-integrates-deepmind-and-brain-teams-creating-google-deepmind/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techzine.eu/wp-content/uploads/2023/02/Shutterstock_1587240631.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-21T04:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techzine",
+        "domain": "techzine.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-21-google-merges-ai-teams-under-deepmind-banner.md",
       "title": "Google Merges AI Teams Under DeepMind Banner",
       "excerpt": "Google parent company Alphabet is bringing its Brain and DeepMind AI teams under one roof with the launch of Google DeepMind.",
