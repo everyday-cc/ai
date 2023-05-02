@@ -34,6 +34,17 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 57
+  - title: "The circle of life works for AI, too"
+    excerpt: "The Hindu scriptures provide some guidance. The Circle of life has worked for humans, and it will continue for AI, which will see innovation, preservation of a few innovations, and a few failures. However, the cycle will continue perpetually."
+    publishedDateTime: 2023-04-30T14:43:00Z
+    webUrl: "https://www.thehindubusinessline.com/opinion/the-circle-of-life-works-for-ai-too/article66797312.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/opinion/the-circle-of-life-works-for-ai-too/article66797312.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/opinion/the-circle-of-life-works-for-ai-too/article66797312.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 39
 
 secured: "JKftIzVo48LhvM7gOoFmE4O554/bLollXFngSSrUgfEeH9CiNWSfD/BVqVAsNF3mHBzbaW2dhwJF2PQ9N54lKF3WW1f2yFZ07ag77trpC07vMu+b8jr0wZR4vbrlYd06FebJr0x4dQs+bvaebB2qqfeBQNewSlyn6iGt3ljgrwK/jC0TfOoRFFWzsu57fZDpqfkjv2CVeWF8dunrhFyi+XbuODRysfRbp3ShLLGA0ZrqTmUDhIE0TqdmMHNl5kWKzlENYABDFqtEJxCByaPDasSanllc8LiXPSlv5NPVStOlbWg9Yaz9dsURyA1YQ6HNO/n7atRF4GrtX6aPiPzQIOZ+6sX1L3JZ9jKuiUvBJ34/olwT/ZmekosKaJzEoa1eig/ThOePp7iZq+cQLgxBWek+K2XaX/zW6SzbzT6x1EKWJgYg8tsS2eXdhUDdjtBB3oYce3kvixN9d3fEf175N+2j0jG8Q0unI1Rsyj+/QI6uWhxtSOTNIxS8BjMZyM1vJbglcaNTZDExNNVi4qbyeg==;Xh7BBcG1aaEWXuYcGbjhgg=="
 ---

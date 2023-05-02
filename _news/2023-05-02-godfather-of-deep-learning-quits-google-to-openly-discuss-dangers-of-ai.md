@@ -164,6 +164,20 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 40
+  - title: "‘Godfather of AI’ quits Google amid AI fears"
+    excerpt: "Turing Award winner and AI pioneer Geoffrey Hinton has resigned from his position with Google in order to speak more openly about the dangers of artificial intelligence, raising questions about whether tech giants have silenced the people most qualified to inform the public about the emerging technology’s effects."
+    publishedDateTime: 2023-05-02T02:39:00Z
+    webUrl: "https://ia.acs.org.au/article/2023/-godfather-of-ai--quits-google-amid-ai-fears.html"
+    type: article
+    provider:
+      name: ia.acs
+      domain: acs.org.au
+    quality: 39
+    images:
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2023/google%20departure%20hinton.jpg"
+        width: 943
+        height: 531
+        isCached: true
   - title: "‘The Godfather of AI’ leaves Google and rings alarm bells — here’s why"
     excerpt: "Now, one of Google’s own is joining the anti-AI side. According to The New York Times, Geoffrey Hinton — who pioneered the use of neural networks in AI — has left Google after more than a decade with the company. His reason? So he can speak out freely against the rise of AI."
     publishedDateTime: 2023-05-01T23:16:00Z
@@ -191,6 +205,20 @@ related:
       - url: "https://bgr.com/wp-content/uploads/2023/01/rsz_adobestock_386078374.jpg?quality=82&strip=all"
         width: 2750
         height: 1834
+        isCached: true
+  - title: "AI 'godfather' Geoffrey Hinton tells the BBC of AI dangers after he quits Google"
+    excerpt: "A man widely seen as the godfather of artificial intelligence (AI) has quit his job, warning about the growing dangers from developments in the field. Geoffrey Hinton told the BBC in an interview on Monday that he \"can now just speak freely about what I think the dangers might be\"."
+    publishedDateTime: 2023-05-02T02:13:00Z
+    webUrl: "https://www.bbc.co.uk/news/av/world-us-canada-65453192"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 32
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/5B96/production/_129564432_p0fkvtpd.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "'Godfather of AI' quits Google, has an artificial intelligence 'warning' for all"
     excerpt: "Geoffrey Hinton, who is also known as 'Godfather of AI', along with two other “Godfathers of AI”, has quit Google. As he leaves office, Hinton has shared two concerns related"

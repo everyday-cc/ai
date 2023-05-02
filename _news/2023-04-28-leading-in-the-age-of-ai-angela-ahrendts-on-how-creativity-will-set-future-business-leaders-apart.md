@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/moiraforbes/2023/04/28/leading-in-the
 webUrl: "https://www.forbes.com/sites/moiraforbes/2023/04/28/leading-in-the-age-of-ai-angela-ahrendts-on-how-creativity-will-set-future-business-leaders-apart/"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "The future of AI: Its impact on creativity, humanity, and well being"
+    excerpt: "How rapid advances in AI tech like ChatGPT impact human creativity, intellect, and our self determination — and its potential practical benefits in the mental health field."
+    publishedDateTime: 2023-04-29T00:14:00Z
+    webUrl: "https://www.kcrw.com/culture/shows/life-examined/artificial-intelligence-impact-creativity-humanity-chatbots-mental-health"
+    type: article
+    provider:
+      name: KCRW
+      domain: kcrw.com
+    quality: 39
+    images:
+      - url: "https://www.kcrw.com/culture/shows/life-examined/artificial-intelligence-impact-creativity-humanity-chatbots-mental-health/@@images/rectangular_image/page-header?v=1682729199.3"
+        width: 1460
+        height: 821
+        isCached: true
 
 secured: "4qrDj6Xa5S/G3GJLGg05DKZCioJEs1ctipFogLigv/ssFn7idBg1uEjuhUPP4gR9yxE/9OYKCzOR5h71NuiH0ZnikztwwmysqgdTUn6JS1/bXq9yEjoKsk4BSryn5xVYXOJiOwNv2b4RBPicdI3NJ6bl6AUkC28JT5A53GfDxRezydGmwasDffwZPNLTw1KhEdAtXLRGlgJsr3w8NuSUXdFW803YAeiN8hvAmKekCGDikOoNXI/51aFJ8YIC7pFGhp8J1dJ65HuKAwBFgbU39yJXYcrMeCiAn2KmFyQlKu+kCZsSwqv9F628Y/hkftn/o8h5czqi7GpYSd0cbxk3CBWXL/suxel8vKbK3l6BYRJpe7Rhp7g7Nav+GBkefo5N5uGwiX8CMJam4mwwPzHgt4+KVW+S+8nMD5mhcl7o5NLtSaJeZwZD3SM7IfRH2BF7yNQp4Ilr03yZJS8fxFBwZu1Unenmax9FJXNuKZwtfEpczrhfND9R79Lckue5DRvbK2BnURiYCOvqWbTXcvPS6Q==;loiZNjW20uuYLJ2MFVHvJw=="
 ---

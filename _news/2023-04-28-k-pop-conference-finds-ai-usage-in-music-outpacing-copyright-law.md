@@ -40,6 +40,20 @@ related:
         width: 802
         height: 450
         isCached: true
+  - title: "The profundity of AI"
+    excerpt: "As for the topic of AI posing a threat to human intelligence, it is a complex and controversial issue with many experts warning about the potential dangers it may pose to human intelligence. Some argue that AI could eventually surpass human intelligence,"
+    publishedDateTime: 2023-05-02T00:58:00Z
+    webUrl: "https://www.brecorder.com/news/40239781/the-profundity-of-ai"
+    type: article
+    provider:
+      name: Business Recorder
+      domain: brecorder.com
+    quality: 39
+    images:
+      - url: "https://i.brecorder.com/large/2023/05/64501a2d079b6.jpg"
+        width: 800
+        height: 455
+        isCached: true
   - title: "Emerging trends in 2023: The evolution of AI in online shopping"
     excerpt: "In recent years, the AI technology has been widely adopted by the e-commerce sector and AI will witness a fast growth in the coming years so as to enable e-commerce businesses in making data-driven strategic decisions."
     publishedDateTime: 2023-04-30T13:53:00Z

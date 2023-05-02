@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/ai-trailers-are-extremely-funny
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-trailers-are-extremely-funny-abominations-for-now/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 630
     isCached: true
 
-secured: "7RbFgircgZo362aWzvVezSAtbcYZsXHB3HThLPMl3Iey8/IiZ2o7Tfk2lTcJ9ydmXSTUTC/3oHmubb41M2BUnU+b9Vlo/jBPoGP/kke8qy9A/oKJHfSR/ekGN0EpsBBNBMq3/oyZHqAp8ruddFTsD5FAUiGBxn+4eloXGUMG0iPLRDrSLMQx4egGXP7d31ZtL0bCYsll+JXC5qK0+N29z9XTnITizk+CczrFIH26AwA/i7DWRLQb+XAbcRlCnkHo/GvySFQAqkMUOSNFbLUV2gluxsvRZqeaG538beK36vmdA1juH30U/blkUGnDeYP8g7RwMWZ1q9U4gKhdq/v5/7Z0KvdsOmyJH2TBW8KXtuY=;qN6TbDFjW7mKhZqQC7TIjw=="
+secured: "SJ84Ypb9uqaAO8GaJF+guJoSBDsO+4kk4OPUl0g2IrNVHPb8a9kG2p1FeMH6R+qBQkO8VXp02qD9u4x6CZWd8qkLJ/jYf+Q1wFH3ewzUjAOXlDuIOI3SC+WXf/x2Ix0qRYWGloEZFnpKNH6mpvLFOOQfXaeyT9skcP9TDMvpUac+jr/LOr2bmYipeAdBjGineBIDMKi4QlIIuSzjWjNh0TZqc1UPywv7shiNrEfmvBm15GRUDSQo4L59VF45B6ZCHCrgut9a+qyJPLd7ByL9+Yr+gDfa3KgKSqf/FmfjT794CIISjrunFVGx2/wXJz7Pc5GJhybv+Mha/j50DXY/gvZytHVEXakyRdgOgaNxYfFMtixsGGaMw78VKqiZQUTx/IE8xWh3AULTN2MTmIgm4p55NxvhfIcFkF9jpWQLaCLJKnZsRAP8m/sNEKvOnTHhDjfyDIqlJmjH+gvydQeLXGYTPwxBzSdlMKSQPfSH7okSmH7JaG5sA0GsYmS+HtR5xqvfvAruYEAL0MnXtgFJNw==;X6Xl4sCL+Js5Ywrmvnw06A=="
 ---
 

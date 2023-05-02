@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/security/tenable-report-shows-how-generative
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/tenable-report-shows-how-generative-ai-is-changing-security-research/amp/"
 type: article
 quality: 106
-heat: 176
+heat: 186
 published: true
 
 provider:
@@ -63,6 +63,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2018/11/artificial-intelligence.shutterstock_1164239863.jpg?w=1200&strip=all"
         width: 1200
         height: 850
+        isCached: true
+  - title: "Samsung Reportedly Bans Use of Generative AI Tools"
+    excerpt: "Employees are prohibited from using the popular tools on company equipment after a data leak, Bloomberg reports"
+    publishedDateTime: 2023-05-02T02:34:00Z
+    webUrl: "https://www.cnet.com/tech/samsung-reportedly-bans-use-of-generative-ai-tools/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/samsung-reportedly-bans-use-of-generative-ai-tools/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/samsung-reportedly-bans-use-of-generative-ai-tools/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: "https://www.cnet.com/a/img/resize/734ac9449cb8169694bff4472bec103682803272/hub/2021/12/16/e9b75d85-82f3-4925-ae9e-79b6728957b7/20211209-samsung-san-jose-california-headquarters-06.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
         isCached: true
   - title: "The future of generative AI is niche, not generalized"
     excerpt: "ChatGPT has sparked speculation about artificial general intelligence. But the next real phase of AI will be in specific domains and contexts."

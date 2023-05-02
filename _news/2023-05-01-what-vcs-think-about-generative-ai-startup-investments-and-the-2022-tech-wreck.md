@@ -34,6 +34,20 @@ related:
         width: 1280
         height: 719
         isCached: true
+  - title: "iCatch Technology unveils CR3 automotive AI imaging SoC for in-cabin sensing"
+    excerpt: "Catch Technology, a leading Taiwan-based AI image processing IC design company, announced its innovative CR3 Automotive AI Imaging SoC for in-cabin sensing applications at the recent AutoSens InCabin Show held in Phoenix from March 15th to 17th,"
+    publishedDateTime: 2023-05-02T01:31:00Z
+    webUrl: "https://www.digitimes.com/news/a20230427PR200/icatch-technology-news-highlights.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 36
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230427pr200_files/2_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "gNGqCENfg2fzAyviP67tcg5B23AgJM/VMv7ULvKdrmGWap5r0iMUUYUtIBs0vlguXQFx5G4d1N6XA31M4c05maBrmXz2TFtWOsIjt6HdCd2jbSeGDX/aJmgeyI8Y9epOvGEtAeEzeMorKTEM2Nn/GFzhl8x0tL5gEHRocKW5SfU+MPQeELLGdtbwg3OdAWJ071GAg9cupw7hk4bY8h66oxaTQwgkwy2TqHPuC5P/e1LAPnat6rAVSnXnad81Mm0yfUc69juwRO3qAJO5zc8q0jmx/BmeadmdKKB0hCya5ZXLawF4L3/7PfPWh8nUQe4JroAmdKuidnTitF9Y+liTauTE6jSUVTTKoHp8ewY/LbuSaeioa/1yGabo+P+8MjdcsWbOEK1pNmTXtptQy9nXZMF2OZdjKHGOyqZ/zYj2hptGJRr8jxYqtayrmuOEMLmOZpLmd45oIxeXYqoNn9xdVdotvpXhJYyJacBC0DKq7LiNM084Rxc0oNtC3vuxuIWezPqRFkh7M0zo6gUXvA/Nbg==;Q9Lxbo5hadok4OXOZiCyiw=="
 ---

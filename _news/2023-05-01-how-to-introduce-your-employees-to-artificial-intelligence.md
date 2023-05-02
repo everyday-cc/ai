@@ -20,42 +20,22 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "How AI Can Empower, Not Replace, Your Team"
-    excerpt: "With the release of ChatGPT, AI now promises to serve the common person rather than to perform as a technology that can only be accessed through deep technical expertise. In fact, ChatGPT is the fastest-growing consumer application in history, reaching 100 million users in the first two months since its launch."
-    publishedDateTime: 2023-04-27T11:01:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/27/how-ai-can-empower-not-replace-your-team/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/27/how-ai-can-empower-not-replace-your-team/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/27/how-ai-can-empower-not-replace-your-team/amp/"
+  - title: "Democratic senator introduces bill targeting AI’s shortfalls"
+    excerpt: "The popular use of ChatGPT and other artificial intelligence has sparked a rush around the globe to figure out if and how it should be regulated."
+    publishedDateTime: 2023-04-28T14:54:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/democratic-senator-introduces-bill-targeting-ais-shortfalls-rcna81959"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna81959"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna81959"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: NBC News
+      domain: nbcnews.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/601850d37aa9c1404df144b1/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-04/230428-senator-michael-bennett-mn-0950-ae45c0.jpg"
+        width: 2500
+        height: 1667
         isCached: true
-  - title: "How artificial intelligence could impact the workplace"
-    excerpt: "AI could revolutionize the workplace, but it doesn't mean that robots are going to replace us. Finance professor Dan Roccato joins us with more on how to embrace the bots."
-    publishedDateTime: 2023-04-28T15:11:00Z
-    webUrl: "https://www.fox7austin.com/video/1213506"
-    ampWebUrl: "https://www.fox7austin.com/video/1213506.amp"
-    cdnAmpWebUrl: "https://www-fox7austin-com.cdn.ampproject.org/c/s/www.fox7austin.com/video/1213506.amp"
-    type: article
-    provider:
-      name: FOX 7 Austin KTBC
-      domain: fox7austin.com
-    quality: 39
-  - title: "How Artificial Intelligence Can Aid Democracy"
-    excerpt: "BKC Affiliates Nathan Sanders and Bruce Schneier write about AI's potential to advance the public good by helping democracy."
-    publishedDateTime: 2023-04-27T12:32:00Z
-    webUrl: "https://cyber.harvard.edu/story/2023-04/how-artificial-intelligence-can-aid-democracy"
-    type: article
-    provider:
-      name: Harvard Medical School
-      domain: harvard.edu
-    quality: 34
 
 secured: "XbzXRw1xX+QIOCC9T0ovnmiDHK6KW22diVADUgV61VxeqOKN5TifmTJMB5g3yGKh5KeXAB2WaTxtJcZh725QoSpTTmEFhopuwu6rnF5C9wmrgM/pH8zgL74pF6N+nJZBfgLq3L6sjPF0y68RsDKOy6XnsPP01ElHWVkHmhwSAQW7GtNd/qeqSM9AaysVVtpgj/ZZM5I3OhqTGKVddzDMO9NulmzX5FXTp5PT8YGPS8/iTLrsHuElby+0Vt6X3MCMZs86Aq5BXrUQSfdQ92jOlSs0ml9QppjEI4nCNSmeJBZ85DJu9PmXwhgxZ1RpHITmbT8ItSQJKPnEkVAiPs0iAFk4kC4++M+ETKxRwhm6W5wGGqO36zH816Rq7k95lXwWasBIvjg+KMEUWMIOxoLWr8WwWbxLavzI90CqLOccjHhs/LCB0HcQiiKf+fWpfmqS13P1Rzo8DEYUYQ2At3QI0O8qa/AFJyp/9MXkH9NcKn5/oY8zbBvmpBC3LAtX24+KvpFPmxCINLao2K3vfEUgLA==;ywp1sFpLnEvdZcZ03XLa3A=="
 ---

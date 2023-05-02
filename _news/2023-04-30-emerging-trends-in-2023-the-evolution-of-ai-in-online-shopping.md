@@ -34,6 +34,20 @@ related:
         width: 802
         height: 450
         isCached: true
+  - title: "The profundity of AI"
+    excerpt: "As for the topic of AI posing a threat to human intelligence, it is a complex and controversial issue with many experts warning about the potential dangers it may pose to human intelligence. Some argue that AI could eventually surpass human intelligence,"
+    publishedDateTime: 2023-05-02T00:58:00Z
+    webUrl: "https://www.brecorder.com/news/40239781/the-profundity-of-ai"
+    type: article
+    provider:
+      name: Business Recorder
+      domain: brecorder.com
+    quality: 39
+    images:
+      - url: "https://i.brecorder.com/large/2023/05/64501a2d079b6.jpg"
+        width: 800
+        height: 455
+        isCached: true
   - title: "K-Pop Conference Finds AI Usage in Music Outpacing Copyright Law"
     excerpt: "Artificial Intelligence dominated the conversation at the inaugural Moving the World with Music conference in Seoul. But K-Pop executives said that copyright law is lagging far behind technologies such as ChatGPT and Midjourney."
     publishedDateTime: 2023-04-27T17:03:00Z

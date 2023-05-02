@@ -59,6 +59,20 @@ related:
         width: 840
         height: 560
         isCached: true
+  - title: "IBM to pause hiring for jobs that AI could do: CEO"
+    excerpt: "The plan could mean roughly 7,800 jobs lost in non-customer-facing roles such as human resources. Read more at straitstimes.com."
+    publishedDateTime: 2023-05-02T00:38:00Z
+    webUrl: "https://www.straitstimes.com/business/ibm-to-pause-hiring-for-jobs-that-ai-could-do"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 39
+    images:
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/05/02/2023-04-19T201558Z1839026717RC2VH0AAC1QORTRMADP3IBM-RESULTS_2.JPG?VersionId=H_s.YFFQrYWrYDzavmkDa.28ezC1GzD0"
+        width: 860
+        height: 573
+        isCached: true
   - title: "IBM to pause hiring for jobs that AI could do"
     excerpt: "IBM's CEO said the company expects to pause hiring for roles it thinks could be replaced with artificial intelligence in the coming years."
     publishedDateTime: 2023-05-02T01:38:00Z
@@ -71,6 +85,6 @@ related:
       domain: seattletimes.com
     quality: 39
 
-secured: "nAf1bPL9kuIPze+RD5g0U1GSmSINqqVRgLSgpn4zjNwydv+W+GQrpVvC6H+SSQ0cYZ07J/yvl1z6CYJc6SvVeYdsXw7wgEVCk3qWYHszaEoyuW3zsMbghPFOrAKSmRA3LoHO9APxaVPSEbC0TfK0voFtWWRfYknyZPvPs1JNeaIV37+JM0QcqBAPsaAPt1LFu0V1KTiNwRF2mvWCyMoIk8bgIWKIN3lbHB6soQu/f4zRXf5fo9TxZB9J0lnM66G877ybA165qL6dOYXoqt9KxGtdcn1Z6HLs2aBAvaDSp0xRLu8wFQV0S3Tshkj5jSkpptJLkXi05qByFozjh3T9qLxFCNyvzs+pJ/mxgOfOIOc=;uJKTqUcJBoJMp6i4qGT2zQ=="
+secured: "JaHq/YSTUiSvQ8xiigSA9ZdQSXuCUBxNK1qJH83IvbVCjhtR0Ton5dHN1UsZETl8WBSEc5IfbIRHaJPsS3lQmR/RUMsDcscdJ66cea9GMrh/0YPcd4oKwu+ZTlOyKwNRNZQpUX+aGw3VFHaG7GJvPVH7ZLOmXBPH4Lm7vEerdq3mvS9WpyVru06KxrhM/QbONLobPh82iLFIs69O/0OErUSDX7ug2a0Auh1HbJg85oOX5+dvLfn6+Vjol3XJ1+RndiyYZivD6RJTtvsg7Qa+VPpOzGPpBc6OZcB3azd7nf5rsmsFDds24r1GJlKbQdjYnciJL2erxLBuM2cf9K3xGouiUYIel26e3L82Ebw+Y+kAVmVMsbpw3BRKw2n84b8K2CBKfT3iZ2iWUCTzZnK9Lz5nzytDSOuApQ7g9p36IxiTNhzE8NrvF4sWQGZUbPpIyo4cKm9XMJclyDtoFj5+CjhmOhXp18Og3+Xmb1FZdhoa1QC9yT81ds1v2Xq5rSGec/2ZbAG/nPWNXQZ+Bp4izw==;wxALD7JzscSQI3B9n10UPQ=="
 ---
 

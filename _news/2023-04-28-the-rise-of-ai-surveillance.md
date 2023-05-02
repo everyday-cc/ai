@@ -27,21 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "The Future Of Artificial Intelligence And Work"
-    excerpt: "The exponential growth of useful artificial intelligence (AI) applications has taken the world by storm. With AI applications and improvements being released daily, it's tempting to keep pivoting startup ideas and career strategies—especially as entire industries seem to be on the verge of getting disrupted."
-    publishedDateTime: 2023-04-27T10:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/27/the-future-of-artificial-intelligence-and-work/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/27/the-future-of-artificial-intelligence-and-work/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/27/the-future-of-artificial-intelligence-and-work/amp/"
+  - title: "Making The Most Out Of Generative AI In Your Enterprise"
+    excerpt: "Generative artificial intelligence (AI) has come to the forefront of business leaders' minds with the ongoing stories and innovative capabilities of ChatGPT and the waitlist for its rival, Google Bard."
+    publishedDateTime: 2023-04-28T11:14:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/28/making-the-most-out-of-generative-ai-in-your-enterprise/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/28/making-the-most-out-of-generative-ai-in-your-enterprise/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/28/making-the-most-out-of-generative-ai-in-your-enterprise/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/644924d67f513f26cbf33129/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/644a7a52c586aa5faa0d1575/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 677
+        height: 781
+        isCached: true
+  - title: "This app uses generative AI to turn your iPhone videos into new content"
+    excerpt: "Runway's video-to-video technology, called Gen-1, launched in February and has been available for use on desktop. The app version streamlines the process and makes it easier to generate new videos than on the desktop. Gen-2, Runway's text-to-video technology, is also teased on the app, with a tag that says \"coming soon\"."
+    publishedDateTime: 2023-04-27T11:38:00Z
+    webUrl: "https://www.zdnet.com/article/this-app-uses-generative-ai-to-turn-your-iphone-videos-into-new-content/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/this-app-uses-generative-ai-to-turn-your-iphone-videos-into-new-content/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-app-uses-generative-ai-to-turn-your-iphone-videos-into-new-content/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/f2e7689e65b793bb53a7c9a129d730745b5144a5/2023/04/26/0f3ecdaa-d6c7-4b1c-a537-fe7bc54f6b02/screenshot-2023-04-26-at-4-13-34-pm.png?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Here Are The Best AI Image Generators"
     excerpt: "Here are some of the best AI image generators and how to use them. There have been heated debates about whether AI-generated images can be protected by copyright because the software creates pictures by incorporating “elements from the vast libraries of digitally available images and artwork” that the AI was trained on,"
@@ -59,197 +75,134 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The future of workplace safety: Data privacy and ethical AI at the highest level"
-    excerpt: "Intenseye launched revolutionary 3D anonymization technique for workplace safety and data privacyNEW YORK, April 27, 2023 /PRNewswire/ --"
-    publishedDateTime: 2023-04-27T16:59:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-future-of-workplace-safety-data-privacy-and-ethical-ai-at-the-highest-level-1032269760"
+  - title: "Understanding the risks of generative AI for better business outcomes"
+    excerpt: "Understand the risks to security, privacy and more of generative AI and the precautions you can take to mitigate them."
+    publishedDateTime: 2023-04-29T16:10:00Z
+    webUrl: "https://venturebeat.com/ai/understand-risks-generative-ai-better-business-outcomes/"
+    ampWebUrl: "https://venturebeat.com/ai/understand-risks-generative-ai-better-business-outcomes/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/understand-risks-generative-ai-better-business-outcomes/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 79
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://mma.prnewswire.com/media/2064905/FINAL_3D_RENDER_THUMB__1.jpg"
-        width: 320
-        height: 400
-        isCached: true
-  - title: "Taylor Swift, AI and the copyright conundrum"
-    excerpt: "Ashley Moore, Annelise Raymond Alam and Enrico Trevisani of Michelman & Robinson LLP examine some of the novel issues surrounding AI and copyright such as when works are created by machines in response to an individual's creative input."
-    publishedDateTime: 2023-05-01T15:13:00Z
-    webUrl: "https://www.reuters.com/legal/legalindustry/taylor-swift-ai-copyright-conundrum-2023-05-01/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/resizer/f2mseeVk8wb7sZxOq-hglzcWT7c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/B3N7RTBJUNKBPNJOPMPEFW35G4.jpg"
+      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1209661950-e1666828949345.jpg?w=1200&strip=all"
         width: 1200
-        height: 628
+        height: 595
         isCached: true
-  - title: "The complications of regulating AI"
-    excerpt: "The idea that advancing technology outpaces regulation serves the industry's interests, says Elizabeth Renieris of Oxford. Current oversight methods apply to specific issues, but \"general purpose\" AI is harder to keep in check."
-    publishedDateTime: 2023-04-27T10:00:00Z
-    webUrl: "https://www.marketplace.org/shows/marketplace-tech/the-complications-of-regulating-ai/"
-    ampWebUrl: "https://www.marketplace.org/shows/marketplace-tech/the-complications-of-regulating-ai/amp/"
-    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/the-complications-of-regulating-ai/amp/"
+  - title: "EU lawmakers pass draft of AI Act, includes copyright rules for generative AI"
+    excerpt: "After months of negotiations and two years after a draft rules were proposed, EU lawmakers have a draft of the Artificial Intelligence Act."
+    publishedDateTime: 2023-04-27T20:38:00Z
+    webUrl: "https://venturebeat.com/ai/eu-lawmakers-pass-draft-of-ai-act-includes-last-minute-change-on-generative-ai-models/"
+    ampWebUrl: "https://venturebeat.com/ai/eu-lawmakers-pass-draft-of-ai-act-includes-last-minute-change-on-generative-ai-models/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/eu-lawmakers-pass-draft-of-ai-act-includes-last-minute-change-on-generative-ai-models/amp/"
     type: article
     provider:
-      name: Marketplace
-      domain: marketplace.org
-    quality: 59
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 84
     images:
-      - url: "https://www.marketplace.org/wp-content/uploads/2023/04/GettyImages-1390024980.jpg?fit=740%2C494"
-        width: 740
-        height: 493
+      - url: "https://venturebeat.com/wp-content/uploads/2023/04/Untitled-design-62.png?w=1200&strip=all"
+        width: 1200
+        height: 750
         isCached: true
-  - title: "Why movies made by artificial intelligence won’t be the future of film"
-    excerpt: "Surely we go to the cinema to be jolted and discomfited by someone else’s ideas – not to see ourselves in easy meetcute rom-coms with Marilyn Monroe"
-    publishedDateTime: 2023-04-28T10:10:00Z
-    webUrl: "https://www.theguardian.com/culture/2023/apr/28/the-guide-ai-film-joe-russo"
-    ampWebUrl: "https://amp.theguardian.com/culture/2023/apr/28/the-guide-ai-film-joe-russo"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/culture/2023/apr/28/the-guide-ai-film-joe-russo"
+  - title: "We must perfect predictive models for generative AI to deliver on the AI revolution"
+    excerpt: "To accelerate the AI revolution, we shouldn’t abandon “old school AI” for flashier generative AI. Why we should perfect predictive AI."
+    publishedDateTime: 2023-04-30T23:09:00Z
+    webUrl: "https://venturebeat.com/ai/we-must-perfect-predictive-models-for-generative-ai-to-deliver-on-the-ai-revolution/"
+    ampWebUrl: "https://venturebeat.com/ai/we-must-perfect-predictive-models-for-generative-ai-to-deliver-on-the-ai-revolution/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/we-must-perfect-predictive-models-for-generative-ai-to-deliver-on-the-ai-revolution/amp/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 81
     images:
-      - url: "https://i.guim.co.uk/img/media/8351c7d7fb90bad8d42237d4d2a7d5ee935ca0cd/0_47_3000_1800/master/3000.jpg?width=620&quality=85&auto=format&fit=max&s=effa0e4659ae18b8de42eca8f9ea395f"
-        width: 620
-        height: 372
+      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1347040940.jpg?w=1200&strip=all"
+        width: 1200
+        height: 631
         isCached: true
-  - title: "The dangers of letting AI loose on finance"
-    excerpt: "We must recognise the stability risks — whether over-concentration or digital herding — as well as the benefits"
-    publishedDateTime: 2023-04-27T16:07:00Z
-    webUrl: "https://www.ft.com/content/9bc5e530-ac72-4b4c-9eb1-f5e5c48f34c9"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 54
-    images:
-      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
-        width: 619
-        height: 377
-        isCached: true
-  - title: "AI Adoption: The ‘A-Ha’ Moment For Finance Leaders And How To Take Advantage Of AI’s Potential"
-    excerpt: "With the recent advent of generative AI tools and large language models, here are the steps finance departments can follow to take advantage of AI’s full potential."
-    publishedDateTime: 2023-04-28T12:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/28/ai-adoption-the-a-ha-moment-for-finance-leaders-and-how-to-take-advantage-of-ais-potential/"
+  - title: "Generative AI Tools Like ChatGPT And Bard Heralding Generational Shift In Job Roles. Adapt Or Risk Obsolescence"
+    excerpt: "The benefits and impact of Generative AI tools like ChatGPT on industries and job roles have only begun to occur, harbingering generational job role shifts."
+    publishedDateTime: 2023-05-01T15:59:00Z
+    webUrl: "https://www.forbes.com/sites/roomykhan/2023/05/01/generative-ai-tools-like-chatgpt-and-bard-heralding-generational-shift-in-job-roles-adapt-or-risk-obsolescence/"
+    ampWebUrl: "https://www.forbes.com/sites/roomykhan/2023/05/01/generative-ai-tools-like-chatgpt-and-bard-heralding-generational-shift-in-job-roles-adapt-or-risk-obsolescence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roomykhan/2023/05/01/generative-ai-tools-like-chatgpt-and-bard-heralding-generational-shift-in-job-roles-adapt-or-risk-obsolescence/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 52
-  - title: "Ocean’s roar of generative AI and expanding dark web capture security world’s attention at RSA"
-    excerpt: "That single metric speaks volumes about the pace of change in the tech world today, and the security community has taken notice. Security researchers are scrambling to assess what mass deployment of generative AI will mean in the broader context of protecting critical systems."
-    publishedDateTime: 2023-04-27T19:45:00Z
-    webUrl: "https://siliconangle.com/2023/04/27/oceans-roar-generative-ai-expanding-dark-web-capture-security-worlds-attention-rsa/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 44
+    quality: 67
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/04/rohitghai-rsa-badai.jpg"
-        width: 2500
-        height: 1434
-        isCached: true
-  - title: "The Future of Tech: AI Stocks to Keep on Your Radar"
-    excerpt: "AI reminds one of the internet's early days, more flash than substance. Years later, the internet is the foundation of today's modern economy. AI could similarly be the future of the technology industry."
-    publishedDateTime: 2023-04-27T11:35:00Z
-    webUrl: "https://moneymorning.com/investing/the-future-of-tech-ai-stocks-to-keep-on-your-radar/"
-    type: article
-    provider:
-      name: Money Morning
-      domain: moneymorning.com
-    quality: 39
-    images:
-      - url: "https://moneymorning.com/wp-content/blogs.dir/1/files/2023/04/motley-fool-mark.png"
-        width: 940
-        height: 940
-        isCached: true
-  - title: "The risks and rewards of AI-powered translation"
-    excerpt: "Advances in AI deep learning for machine translation are an opportunity for organisations to remove language barriers to global trade"
-    publishedDateTime: 2023-04-27T15:30:00Z
-    webUrl: "https://www.business-reporter.co.uk/management/the-risks-and-rewards-of-ai-powered-translation"
-    type: article
-    provider:
-      name: business-reporter.co.uk
-      domain: business-reporter.co.uk
-    quality: 39
-    images:
-      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/028/AI_translation.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/644fdd5de31e3cc4caad4710/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 800
+        height: 798
         isCached: true
-  - title: "The future of AI: Its impact on creativity, humanity, and well being"
-    excerpt: "How rapid advances in AI tech like ChatGPT impact human creativity, intellect, and our self determination — and its potential practical benefits in the mental health field."
-    publishedDateTime: 2023-04-29T00:14:00Z
-    webUrl: "https://www.kcrw.com/culture/shows/life-examined/artificial-intelligence-impact-creativity-humanity-chatbots-mental-health"
+  - title: "Top 8 AI Chips for Your Generative AI Play"
+    excerpt: "The AI chip market is expected to grow at a CAGR of 51% and reach $73.49 billion by 2025. Semiconductor companies could capture 40-50% of the total market share. Companies such as Alphabet, Broadcom,"
+    publishedDateTime: 2023-04-29T04:30:00Z
+    webUrl: "https://analyticsindiamag.com/top-8-ai-chips-for-your-generative-ai-play/"
     type: article
     provider:
-      name: KCRW
-      domain: kcrw.com
-    quality: 39
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 58
     images:
-      - url: "https://www.kcrw.com/culture/shows/life-examined/artificial-intelligence-impact-creativity-humanity-chatbots-mental-health/@@images/rectangular_image/page-header?v=1682729199.3"
-        width: 1460
-        height: 821
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/04/unnamed-2.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "The circle of life works for AI, too"
-    excerpt: "The Hindu scriptures provide some guidance. The Circle of life has worked for humans, and it will continue for AI, which will see innovation, preservation of a few innovations, and a few failures. However, the cycle will continue perpetually."
-    publishedDateTime: 2023-04-30T14:43:00Z
-    webUrl: "https://www.thehindubusinessline.com/opinion/the-circle-of-life-works-for-ai-too/article66797312.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/opinion/the-circle-of-life-works-for-ai-too/article66797312.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/opinion/the-circle-of-life-works-for-ai-too/article66797312.ece/amp/"
+  - title: "UAE Government launches 'Generative AI' guide to facilitate adoption of AI technology"
+    excerpt: "The “Generative AI” guide serves as a valuable resource for government entities, enabling them to leverage the benefits of AI"
+    publishedDateTime: 2023-04-30T11:26:00Z
+    webUrl: "https://www.zawya.com/en/world/middle-east/uae-government-launches-generative-ai-guide-to-facilitate-adoption-of-ai-technology-s26snsak"
+    ampWebUrl: "https://www.zawya.com/en/world/middle-east/uae-government-launches-generative-ai-guide-to-facilitate-adoption-of-ai-technology-s26snsak?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/world/middle-east/uae-government-launches-generative-ai-guide-to-facilitate-adoption-of-ai-technology-s26snsak?amp=1"
     type: article
     provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 39
-  - title: "The profundity of AI"
-    excerpt: "As for the topic of AI posing a threat to human intelligence, it is a complex and controversial issue with many experts warning about the potential dangers it may pose to human intelligence. Some argue that AI could eventually surpass human intelligence,"
-    publishedDateTime: 2023-05-02T00:58:00Z
-    webUrl: "https://www.brecorder.com/news/40239781/the-profundity-of-ai"
-    type: article
-    provider:
-      name: Business Recorder
-      domain: brecorder.com
-    quality: 39
+      name: Zawya
+      domain: zawya.com
+    quality: 52
     images:
-      - url: "https://i.brecorder.com/large/2023/05/64501a2d079b6.jpg"
-        width: 800
-        height: 455
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/M2M5YWFiM2QtMjIxNS00/17/180516221659emso-jpg.jpeg?f=3%3A2"
+        width: 724
+        height: 482
         isCached: true
-  - title: "The coming AI chip shortage"
-    excerpt: "Artificial intelligence requires semiconductors with powerful graphics processing units — chips that very few companies are able to make."
-    publishedDateTime: 2023-05-01T09:59:00Z
-    webUrl: "https://www.marketplace.org/shows/marketplace-tech/the-coming-ai-chip-shortage/"
+  - title: "EU lawmakers pass draft of AI Act, includes last-minute change on generative AI models"
+    excerpt: "After months of negotiations and two years after a draft rules were proposed, EU lawmakers have a draft of the Artificial Intelligence Act."
+    publishedDateTime: 2023-04-27T19:02:00Z
+    webUrl: "https://venturebeat.com/ai/eu-lawmakers-pass-draft-of-ai-act-includes-last-minute-change-on-generative-ai-models/"
     type: article
     provider:
-      name: Marketplace
-      domain: marketplace.org
-    quality: 34
-  - title: "Ethics professor raises key questions about the future use of AI (podcast)"
-    excerpt: "Artificial intelligence seems like it’s everywhere in the business world today — and, according to the experts, this is only the beginning. Listen to this podcast with David Epstein, executive director of the Susilo Institute for Ethics in a Global Economy and a professor of the practice at Boston University Questrom School of Business,"
-    publishedDateTime: 2023-04-27T20:58:00Z
-    webUrl: "https://www.bizjournals.com/boston/news/2023/04/27/ethics-professor-raises-key-questions.html"
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 39
+  - title: "UAE Government launches the “Generative AI” Guide to facilitate the adoption of AI technology across vital industries"
+    excerpt: "The “Generative AI” guide serves as a valuable resource for government entities, enabling them to leverage the benefits of AI technologies and enhance its implementation across various fields. Commenting on the launch,"
+    publishedDateTime: 2023-04-30T11:45:00Z
+    webUrl: "https://www.zawya.com/en/press-release/government-news/uae-government-launches-the-generative-ai-guide-to-facilitate-the-adoption-of-ai-technology-across-vital-industries-r5v4skkw"
+    ampWebUrl: "https://www.zawya.com/en/press-release/government-news/uae-government-launches-the-generative-ai-guide-to-facilitate-the-adoption-of-ai-technology-across-vital-industries-r5v4skkw?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/government-news/uae-government-launches-the-generative-ai-guide-to-facilitate-the-adoption-of-ai-technology-across-vital-industries-r5v4skkw?amp=1"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 32
-  - title: "7 popular tools and frameworks for developing AI applications"
-    excerpt: "Artificial Intelligence (AI) is a rapidly growing field with numerous applications ... It can be used to build a machine translation system that can translate text from one language to another. Theano is a popular Python library for numerical computation ..."
-    publishedDateTime: 2023-04-27T16:24:00Z
-    webUrl: "https://cointelegraph.com/news/7-popular-tools-and-frameworks-for-developing-ai-applications"
+      name: Zawya
+      domain: zawya.com
+    quality: 36
+    images:
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/YWM4MDI3MDEtMDIzMC00/1/1-jpg.jpeg?f=3%3A2"
+        width: 900
+        height: 600
+        isCached: true
+  - title: "Moveworks Launches Creator Studio: A No-Code, Generative AI Platform for Building Any Conversational AI Use Case Across the Enterprise"
+    excerpt: "Moveworks, a leading conversational AI platform for the enterprise, announced Creator Studio — a no-code, generative AI platform for building any conversational AI use case in minutes. The platform leverages advanced large language models (LLMs) and generative AI to provide a natural language interface that serves as an enterprise-wide co-pilot for employees."
+    publishedDateTime: 2023-04-27T18:27:00Z
+    webUrl: "https://www.datanami.com/this-just-in/moveworks-launches-creator-studio-a-no-code-generative-ai-platform-for-building-any-conversational-ai-use-case-across-the-enterprise/"
     type: article
     provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 19
+      name: datanami.com
+      domain: datanami.com
+    quality: 0
 
 secured: "GUsY+Dvp0FINMzolNlIBwTXiXdbnWSQzpqMGwyAHKf0I8yfzx+V3wN8raca+ExevbVWKFgf/uKBGxsw8ScdZXugG3gNO5oZGFbEyW0X2IXI7C4jtPkYy9KrMS6cMm7GJe3pa8IFcGJr57n1DUBLXCdkBl6bFmuzJXB3RjOTH3oXhkrbxSBg6loZLdGqdVNHZFE3KlQE5SCpUCmhHKoMp9lER0ZM77221D9qdZPdP3Xylno3MtoRS0FJeHfmQLszyOIr8oX5LUJWemuwdmpK3++ZUwj2kju69p8cVFArJOi9VyKJ7rnrgyfcbuKZw38/w14JhQJLL3FKviVziw21YO7JH5Ssd8Bw+DAIdR90pQ+Y=;52VmZM5+Wk0fPFpDzmlx6Q=="
 ---

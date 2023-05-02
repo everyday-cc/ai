@@ -9,7 +9,7 @@ ampWebUrl: "https://www.business-standard.com/amp/companies/news/ibm-to-pause-hi
 cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/companies/news/ibm-to-pause-hiring-for-jobs-that-ai-could-do-says-ceo-arvind-krishna-123050200111_1.html"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
         width: 840
         height: 560
         isCached: true
+  - title: "IBM to pause hiring for jobs that AI could do: CEO"
+    excerpt: "The plan could mean roughly 7,800 jobs lost in non-customer-facing roles such as human resources. Read more at straitstimes.com."
+    publishedDateTime: 2023-05-02T00:38:00Z
+    webUrl: "https://www.straitstimes.com/business/ibm-to-pause-hiring-for-jobs-that-ai-could-do"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 39
+    images:
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/05/02/2023-04-19T201558Z1839026717RC2VH0AAC1QORTRMADP3IBM-RESULTS_2.JPG?VersionId=H_s.YFFQrYWrYDzavmkDa.28ezC1GzD0"
+        width: 860
+        height: 573
+        isCached: true
   - title: "IBM to pause hiring for jobs that AI could do"
     excerpt: "IBM's CEO said the company expects to pause hiring for roles it thinks could be replaced with artificial intelligence in the coming years."
     publishedDateTime: 2023-05-02T01:38:00Z
@@ -71,6 +85,6 @@ related:
       domain: seattletimes.com
     quality: 39
 
-secured: "pSj/wW7nSQPm0N5E2Ag7GF2Tza4kUoBdfGMckT1enjEE5cVXJSxAx2VJ3CNwrrMFc8/DtSedEDw0h6ZI+YBtqUoXkbEga7s6RUm63P4B8tDkzOTgCnB8B+n/NxDjMP4mf2GRv+W7BxdFuFCfCjnBG3o7b64fsoEft67agk3wT+wkQ7/aEzs0/FxISlg+v9RwqBACGi9Q2ciln99qhQeC6+3+LTCtgyIgXR+WNRe4JQqq9vEt/y1UuQcgcg//XvLhpjDZt0plS9Bl7ENgrVQQ+DV9g7LIFE/JVrscmMuH/tvY5Wjql04OFPJtM5Fy+gmz+83Ds+frWn+ioXGOwFu2+aF/HusT7cL7/sujv/9kWTo=;yFi7ERO2F9AaKr/6H8U+RQ=="
+secured: "ADLRLBxUJHoElIDqSd14plXkUdPGuIu/FB12s4XKP5bdAwzNpXPWvPnFXkU075w8gQcNJZLsFPxcZ0QZOgFYQ+hSAaL92GHYdrMNbXgPYa2wWOgorviKKj3/572pC5Z5be4+DJgd8OCKe523AX3pcxV08PZ7bK7Y3gUiUescH5OTRSrBhVZuFSBRsRMUCrqREKXKfE+sl321zI727dYd8/AhX648zwDVmQeshB+i61O/IyEKRj8yi2WkKwxjLOAhgO0p3kD6GBGQxnTw/kTQs/oWH/3/5hKXl3rLjZrHiKcj4kNuCOZ95IEYjlBjhybDE7SJUp2Cto0KXQDrMwPx3JqBrzasm8cjYwcXBdydKVEJIhpcnK4bHu3yurowLlZuYw5OPLeIZjZQJJxFSrc4JYI4SGXY6V3Z8y9hKfpG6LFjXFC/puzJelLmMRG/YTpKUFmtM9uCCFy7bpRnSEOevtSmgVanY1Dhet5FZ1FTyaGgT5hGgSr2MWn39Ki5HoCsQXmpdo1s963Ua8yIuxpoSg==;rcUwuByw9dGQwlT+cU94XQ=="
 ---
 

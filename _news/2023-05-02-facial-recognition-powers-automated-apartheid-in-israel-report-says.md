@@ -7,7 +7,7 @@ originalUrl: "https://www.nytimes.com/2023/05/01/technology/israel-palestine-fac
 webUrl: "https://www.nytimes.com/2023/05/01/technology/israel-palestine-facial-recognition.html"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 1185
         height: 790
         isCached: true
+  - title: "Israel/OPT: Israeli authorities are using facial recognition technology to entrench apartheid"
+    excerpt: "The Israeli authorities are using facial recognition technology to track Palestinians and restrict their freedom of movement, Amnesty International said today."
+    publishedDateTime: 2023-05-02T01:31:00Z
+    webUrl: "https://www.amnesty.org.au/israel-opt-israeli-authorities-are-using-facial-recognition-technology-to-entrench-apartheid/"
+    type: article
+    provider:
+      name: Amnesty International Australia
+      domain: amnesty.org.au
+    quality: 8
 
 secured: "Eho3YF2p722C7EHij/H9SlmdBUE423v3GfdRIYR5rzqATszKGODZjeZb2n1apuzH7eZWcul4qQCDeO8USsOUN0y5ugonZMh+nZkm0Bf/xFizcre+/s/8LmopiHySe9YszBLDYl0XohDzYwvuBKCmzfIPyxZrwyzXmknlC6YKOUM3/3oZj2rttatXwdYzHzmy6MGgWqXNDqpIKUZ1xFLy0ZZkKOs35/95yGbA4nMVBmsLRQtodSRAh6YzAXIo2vKrUW+nr9JWP0AHczBO09Su1H5bzlVKBOQCN+nOHEHPJO1K7BUpSuNqHWLqcRJGR1ra8DjGXqCoTTXyXmZPcZPn2XC1bhQMnStS70RUVHxn8fZq5jBvGPsuWeIR0F8HVTHsSj/yqNgtHlgrIjv/RKLNF/FmNZ6UfbbRxlt8KA8qMVmuAxjedV2QZtR8HDHnQ+uGdJDMXrHaeL0YHoRT56tyodRgH8lukI3ZgB/rvn66W1SuVYtx6Wiw/gWy+IlETfbEBfjEZBnV0aDQ/tYo7sZsXw==;to0NVabNvW5qJ2xS43OGyw=="
 ---

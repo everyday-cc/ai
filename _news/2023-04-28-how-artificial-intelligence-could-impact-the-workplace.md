@@ -21,40 +21,31 @@ topics:
   - AI
 
 related:
-  - title: "How AI Can Empower, Not Replace, Your Team"
-    excerpt: "With the release of ChatGPT, AI now promises to serve the common person rather than to perform as a technology that can only be accessed through deep technical expertise. In fact, ChatGPT is the fastest-growing consumer application in history, reaching 100 million users in the first two months since its launch."
-    publishedDateTime: 2023-04-27T11:01:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/27/how-ai-can-empower-not-replace-your-team/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/27/how-ai-can-empower-not-replace-your-team/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/27/how-ai-can-empower-not-replace-your-team/amp/"
+  - title: "White House Wants to Know How AI Monitoring is Impacting Your Work"
+    excerpt: "The Biden Administration is reportedly looking for feedback from workers to see how AI tools are being in the workplace."
+    publishedDateTime: 2023-05-01T16:17:00Z
+    webUrl: "https://www.cnet.com/tech/white-house-wants-to-know-how-ai-monitoring-is-impacting-your-work/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/white-house-wants-to-know-how-ai-monitoring-is-impacting-your-work/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/white-house-wants-to-know-how-ai-monitoring-is-impacting-your-work/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: CNET
+      domain: cnet.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/601850d37aa9c1404df144b1/0x0.jpg?format=jpg&width=1200"
+      - url: "https://www.cnet.com/a/img/resize/ad99f665f21072d2552b946239f97ecaa1d9884f/hub/2023/05/01/6becf316-2f12-4396-8126-21a0ba76ca41/gettyimages-1324245317.jpg?auto=webp&fit=crop&height=630&width=1200"
         width: 1200
-        height: 800
+        height: 630
         isCached: true
-  - title: "How Artificial Intelligence Can Aid Democracy"
-    excerpt: "BKC Affiliates Nathan Sanders and Bruce Schneier write about AI's potential to advance the public good by helping democracy."
-    publishedDateTime: 2023-04-27T12:32:00Z
-    webUrl: "https://cyber.harvard.edu/story/2023-04/how-artificial-intelligence-can-aid-democracy"
+  - title: "AI wants to know what dove is"
+    excerpt: "Schnabel is probably too near the centre of the ECB because her most hawkish speeches have all been recent, so they haven’t yet moved the average. Broadbent probably over-indexes as a dove because he speaks rarely and cagily. The opposite may be true of Pill and his unique presentation style. Etc."
+    publishedDateTime: 2023-04-27T14:33:00Z
+    webUrl: "https://www.ft.com/content/4a6d60bd-62a2-4c98-a0c9-5d58814ce0bf"
     type: article
     provider:
-      name: Harvard Medical School
-      domain: harvard.edu
-    quality: 34
-  - title: "How to Introduce Your Employees to Artificial Intelligence"
-    excerpt: "A.I.' is a booming buzzword, but some team members might be apprehensive about the technology. Here's how to ease its adoption in your workplace."
-    publishedDateTime: 2023-05-01T10:12:00Z
-    webUrl: "https://www.inc.com/sarah-lynch/how-to-introduce-your-employees-to-artificial-intelligence.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 21
+      name: The Financial Times
+      domain: ft.com
+    quality: 19
 
 secured: "K0DVp9Fym5jsK0KZcxfOoxdx6Q8BY2MajMd8t+GpyiUBY8KIcipW0xG59aOG3hMVRYIghrf49r9GXnfwWJI5dgSG7ohkGxyal5eISlpu5kX1mGqEDRjZJbYfpPeQvJHYaR1qax8GISN+0G0CeCuRcvgRHuu7RJtnr6Q4rlHYJZNj7wxzqTSvJKs6p6c2O0EZ7HddsuukbU2bifk84WMa42k9zsDZhVjYksuBgq170AtfwiOHCI7j3+wWQhClt0hDcIBUZMpavh7msz95X4Diyv0iCro9fGKcLL1LEv88kMJXKz3sjUhFAek2WJp12Y5dFh1GZUhVhsjwJW/wTA3JBpTAvvxoSFlRdH9bB32FBaBFXGw4Gjtx/SuxBjwGdkIEkVfFVlwmTt8voF3EhMFjsvO59XWgEM/irHMX/K6V/3Z8JBkFlQtEzoDJ7DiOB8tt0LntZ1jOoLL2lwPD3ZNgtNLsxuKqAPLqnRw+j0Ueg/tSjYSkFC4DMdAowv+zmnksW+bDPiZoUY7xutZAix/LBQ==;vcIEzfGosli7FPWFIKoc6A=="
 ---

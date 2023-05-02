@@ -35,6 +35,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "How artificial intelligence could impact the workplace"
+    excerpt: "AI could revolutionize the workplace, but it doesn't mean that robots are going to replace us. Finance professor Dan Roccato joins us with more on how to embrace the bots."
+    publishedDateTime: 2023-04-28T15:11:00Z
+    webUrl: "https://www.fox7austin.com/video/1213506"
+    ampWebUrl: "https://www.fox7austin.com/video/1213506.amp"
+    cdnAmpWebUrl: "https://www-fox7austin-com.cdn.ampproject.org/c/s/www.fox7austin.com/video/1213506.amp"
+    type: article
+    provider:
+      name: FOX 7 Austin KTBC
+      domain: fox7austin.com
+    quality: 39
 
 secured: "OZVBLZD64SB0JaIpO1Pmcs5NZa8hhuiUF0YwdB6Ot3UXncl1MPuNi1cDynvU1v3QOF/vUqOEf1GWxl//LTzwjOjnAI5icigdgVy1YWB9TiIgrHgrPFG7p4qaskj7wv8l7ZY+4FDuk6NEpW0DWYbV+2gyupHoawFMylQPvxO2qW/2GSAWMdPrUL8mCEPgTrbrbwxcEca7ZI+Yg/rea2gZzZJk4F0gTKiv5pnS1hDvLly0probYNHnswkzFXgQbNyOeBTtzd5t5kljcynaVq20VcfaPBhYPMlWzBMdmhHt0x4JGZOqsHGC3Szukf3O8pI8KO73/yeYzLpJOv0LwT4BJM+yTA6QSTZKPXtOtkUZpRlB1OH6FDDR/0anua3gKXR9LVD4AfiNvDyezntZ03UIjWLthoRi3zk8j/3zMNqDbZf0a/yQOjW3A0eeGc/eERXf8P+KZtOEXiH8REIOfGh1jnPM1UlTT+tg8zDDBkP8e8l5zsLuHOp/NZjadzHzc2Y/YC+LPRVFuvTgDPPWT5a/OQ==;TotTg4tpQVbfMWVQ8D7OvA=="
 ---

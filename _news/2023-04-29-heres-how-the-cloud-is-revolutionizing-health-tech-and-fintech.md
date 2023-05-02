@@ -45,20 +45,6 @@ related:
         width: 740
         height: 450
         isCached: true
-  - title: "Fintech start-up 1fs Wealth secures backing of Singularity Capital"
-    excerpt: "London based early stage fintech, 1fs Wealth, has secured the backing of US venture capital firm Singularity Capital, as interest… | Finance | Finance | Fintech | National | Investment |"
-    publishedDateTime: 2023-04-27T10:54:00Z
-    webUrl: "https://bdaily.co.uk/articles/2023/04/27/fintech-start-up-1fs-wealth-secures-backing-of-singularity-capital"
-    type: article
-    provider:
-      name: Bdaily Business Network
-      domain: bdaily.co.uk
-    quality: 24
-    images:
-      - url: "https://bdaily.co.uk/images/uploads/14uur7Ek4zTIK7Kdv8NuVTjPTvN89xUdeoan9AvV.jpeg?w=1200&h=627&fm=jpg&fit=crop-50-50&s=50c8836e09236abc30214b16988a7b69"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "Optimism For US Tech and Fintech Industries Despite Mass Layoffs"
     excerpt: "The adoption of cutting-edge AI solutions, like ChatGPT, demonstrates the trend towards increased efficiency and cost savings in the Fintech and Tech industries. By implementing AI-powered customer service, companies can reduce labor costs and streamline  their operations, leading to greater profitability."
     publishedDateTime: 2023-05-01T16:04:00Z

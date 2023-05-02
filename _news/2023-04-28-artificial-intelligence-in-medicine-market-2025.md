@@ -198,15 +198,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence in Agriculture Market 2023: Increased Farmland Consolidation and Large Farm Size Fuels the Sector"
-    excerpt: "The global artificial intelligence in agriculture market was valued at $1,517.0 million in 2022 and is expected to reach $4,096.1 million in 2027, following a CAGR of 21.98% during 2022-2027. Owing to the growing demand for food and grains,"
-    publishedDateTime: 2023-04-27T10:59:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/04/27/9803180.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "cdhmw9Fhdhn42WQuccf562t5Ai0AhpWg0Uk21wCvl3BcSCAqF+GWfx1Ss/IIQ9lEa+93o56xy0HnAGDHvVrMjibXIKNxF9tANr0M0f1hs7wuVEy7ObQOW++dYP0wNx9lMResldYq72WKHJzrNsZC0+WTurT7mV0BmX9xXKCzCYyqSd+9DTtLMMT5/xV2RCFU2DvSU1O8ddolCgX6LgIeo+uPuyOZD9o5QyGA7DIbIyY5AoUwsupdscprFI5pFQRk6tw2EIM2v4/yJpgp3rD8gYNIYDGFayfn69kSFLR24fDTvv1Bg1APXExMgQkKcdM/iWZqa6pyvLaV7MIkzkl1J2GNHDZjXLb5zVSoqPvvK7fxYLUPq0Chbl2LbQb9Eh5qWTG4m4EY+isrVrF2nCVfYzYuPcoQ9nB5yjxrCPBlaPNjOcVYVnSxXJLj0qKpEX0hGic0+wWN/mDHaAhbODSirVASS2RS1oh8vG/V3yJI8hK0lxV/lqB3/2kldNiBlDXqxNrbifNG9AfyPQzsu2UG7g==;zbGH5NrlZjCqj3FhHjjb8w=="
 ---

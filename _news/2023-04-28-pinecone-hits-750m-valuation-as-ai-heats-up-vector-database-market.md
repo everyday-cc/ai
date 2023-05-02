@@ -42,15 +42,6 @@ related:
         width: 1200
         height: 750
         isCached: true
-  - title: "Andreessen-Backed AI Startup Pinecone Valued at $750 Million"
-    excerpt: "Pinecone Systems Inc., a startup whose platform supports artificial intelligence software, has raised $100 million in a funding round that values the company at $750 million."
-    publishedDateTime: 2023-04-27T11:01:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-04-27/andreessen-backed-ai-startup-pinecone-valued-at-750-million"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
   - title: "PInecone, an NYC-based AI-related startup, has scored $100M in funding"
     excerpt: "The excitement around artificial intelligence sparked by ChatGPT has led to booming business for a New York City startup and helped it raise a new $100 million funding round. Pinecone Systems Inc.'s database software,"
     publishedDateTime: 2023-04-28T00:19:00Z

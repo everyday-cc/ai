@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-04-2
 webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-04-27-2023/card/tesla-s-price-cuts-slow-a-rival-in-the-race-to-deliver-self-driving-tech-pO1vq8GciuAVLeQdmojo"
 type: article
 quality: 68
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://imgix.bustle.com/uploads/image/2023/5/1/3af8734c-9f96-43ce-9207-9a0a090e83a4-lotus-eletre-hero-image_1.jpg?w=1200&h=630&fit=crop&crop=focalpoint&fm=jpg&fp-x=0.4253&fp-y=0.5735"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Aurora self-driving truck service to launch in 2024"
-    excerpt: "Comment Now! Aurora Innovation, the self-driving technology startup founded by Chris Urmson, one of the original engineers of the Google Self-"
-    publishedDateTime: 2023-04-27T10:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1139487_aurora-self-driving-truck-service-to-launch-in-2024"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 24
-    images:
-      - url: "https://images.hgmsites.net/hug/aurora-self-driving-truck-prototype_100883024_h.jpg"
-        width: 1920
-        height: 1281
         isCached: true
 
 secured: "dlgOcl2nKoqJ9hCFpnsN9vvSlC8ePeXHYKfvhMLBsvB1Mzx95wM13xrzzsIDjpC3lj3cbIWPlQsJcW3uBuGZDbC26Gy0RuaQbh9K7ZiYNdJw6M+M9qcOUSD7zi6DLs/9RHyE1qVTVa6pKHwmbbu60PjnryG8r8g7k+HSActf4dDh8LdP3f09RjR9eimHMAMYKgKTUJp05Z+a4oeOiOdAnBDjeJS7h1//vyE4SSWHNbSZoV+T9W7kG3EdVCo0Byz6N6UtZbWl0DbPUxjWMxKIp9I9t1LY/+NJtdGOpZkPVnZLrvYB8tcgV9XXF/62NN86QJ6AodV4w9bD+xfJ1hgFXo09aEwl23fkLV50qW4ZCT5xLRQKI7uH8tJH306RR2GUQDVCcGO282/CPMbInPedfC/asmJkuNpRyHmMy8qrg9XJcvz79dY7/FcKzcsOGDFQi2CPuB8V757Vh764CP+OD/vNBLvkChA+l2GuvPXzt5cVJMrm3+QtsRIcyw+HIKyDkPhpgkQS9mxtCnuGKNVFgg==;vW7PcN9vNsuonYt+cqnv1w=="

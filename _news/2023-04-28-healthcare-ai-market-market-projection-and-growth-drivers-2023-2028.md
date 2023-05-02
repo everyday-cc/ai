@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/healthcare-ai-market-mar
 webUrl: "https://www.marketwatch.com/press-release/healthcare-ai-market-market-projection-and-growth-drivers-2023-2028-2023-04-28"
 type: article
 quality: 86
-heat: 226
+heat: 216
 published: true
 
 provider:
@@ -204,15 +204,6 @@ related:
       name: PharmiWeb
       domain: pharmiweb.com
     quality: 19
-  - title: "Global Artificial Intelligence in Agriculture Market 2023: Increased Farmland Consolidation and Large Farm Size Fuels the Sector"
-    excerpt: "The global artificial intelligence in agriculture market was valued at $1,517.0 million in 2022 and is expected to reach $4,096.1 million in 2027, following a CAGR of 21.98% during 2022-2027. Owing to the growing demand for food and grains,"
-    publishedDateTime: 2023-04-27T10:59:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/04/27/9803180.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "2mNfQCG7ieOW8HZD8ONogwLBQm2Y0Vc9XYdNNux3gG5i7TDoWYpgUkplqPcmM5hNjq/GU/AREdVKJGw9Pz0qK+fQVVDZRW0M8+z3/HjtelXlOyrqSWQm/Jxhmt80tz8uHM77CDDSGAL5DMi97WS1vEJvX2suu0Og8Bar5IPYLzXtI7yiHTmuu1UXukiH7oWnoUR9yTrSanhq+L9dpEjkQdsKzaK9MIe+bLTW6ibXtvFvtqV0ISE5lAKKCXz9ouqbo+2Mi346bRzgwF+V9qnnecufj8CorJMZDxtWfJP1gkhur355yTbYfXwBqy5fbJozaN9loCmOEi/8467iFBgfDjbLQ6iAnskJFs3XJVf1YC8=;C+kwPWBIL7EVgPPpIW+60Q=="
 ---

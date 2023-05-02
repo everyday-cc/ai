@@ -203,15 +203,6 @@ related:
       name: PharmiWeb
       domain: pharmiweb.com
     quality: 19
-  - title: "Global Artificial Intelligence in Agriculture Market 2023: Increased Farmland Consolidation and Large Farm Size Fuels the Sector"
-    excerpt: "The global artificial intelligence in agriculture market was valued at $1,517.0 million in 2022 and is expected to reach $4,096.1 million in 2027, following a CAGR of 21.98% during 2022-2027. Owing to the growing demand for food and grains,"
-    publishedDateTime: 2023-04-27T10:59:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/04/27/9803180.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "aK3AkCg9PDXk4xTMzCfmQDSaP2yjuf6dTkY3jjIKgjgMhDWNtMcQd3AXgt6xKfQJqzr1w2DE7oIfqTUsIP3tR0Q/wOHxC/ozgquKnTMtoRBFo4C+Wev+3pLa3uznF+5hmXAOa5siVnXh+IS2PcByc+eOmUjIXuHdDtS4DEQHcQq6/p1uZxrvYjMkL7ZJSAiag8zImL7+RPv7BoTO/cByrwmrfj16pMB+g5Jw0g8eFx9/QeFciBPDtrOC2Rx4caQ7ZOC482OD+64Z9TFYTC8hB/d02rLgugYCrJ5Amhz0M6/WO/wGysSWHJ8z+joFtu1nL6FNJSmGm/DLvAY8k3YN/nJaT2md4jwnmy6TGiNW28o=;FN9veZosKhmzvQKZmWoiNw=="
 ---

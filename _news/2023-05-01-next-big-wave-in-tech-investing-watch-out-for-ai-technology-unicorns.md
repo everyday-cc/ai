@@ -9,8 +9,8 @@ ampWebUrl: "https://wraltechwire.com/2023/05/01/next-big-wave-in-tech-investing-
 cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/05/01/next-big-wave-in-tech-investing-watch-out-for-ai-technology-unicorns/?amp=1"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: WRAL TechWire
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "iCatch Technology unveils CR3 automotive AI imaging SoC for in-cabin sensing"
+    excerpt: "Catch Technology, a leading Taiwan-based AI image processing IC design company, announced its innovative CR3 Automotive AI Imaging SoC for in-cabin sensing applications at the recent AutoSens InCabin Show held in Phoenix from March 15th to 17th,"
+    publishedDateTime: 2023-05-02T01:31:00Z
+    webUrl: "https://www.digitimes.com/news/a20230427PR200/icatch-technology-news-highlights.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 36
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230427pr200_files/2_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "What VCs think about generative AI, startup investments and the 2022 'tech wreck'"
     excerpt: "Nearly 71% of VCs surveyed by PitchBook in March said they believed generative AI would be 'very disruptive' and would 'spawn a new wave of technology unicorns over the next five years.'"
     publishedDateTime: 2023-05-01T16:56:00Z

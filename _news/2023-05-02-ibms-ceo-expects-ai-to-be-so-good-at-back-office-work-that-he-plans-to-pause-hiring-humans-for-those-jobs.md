@@ -63,6 +63,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "IBM to pause hiring for jobs that AI could do: CEO"
+    excerpt: "The plan could mean roughly 7,800 jobs lost in non-customer-facing roles such as human resources. Read more at straitstimes.com."
+    publishedDateTime: 2023-05-02T00:38:00Z
+    webUrl: "https://www.straitstimes.com/business/ibm-to-pause-hiring-for-jobs-that-ai-could-do"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 39
+    images:
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/05/02/2023-04-19T201558Z1839026717RC2VH0AAC1QORTRMADP3IBM-RESULTS_2.JPG?VersionId=H_s.YFFQrYWrYDzavmkDa.28ezC1GzD0"
+        width: 860
+        height: 573
+        isCached: true
   - title: "IBM to pause hiring for jobs that AI could do"
     excerpt: "IBM's CEO said the company expects to pause hiring for roles it thinks could be replaced with artificial intelligence in the coming years."
     publishedDateTime: 2023-05-02T01:38:00Z

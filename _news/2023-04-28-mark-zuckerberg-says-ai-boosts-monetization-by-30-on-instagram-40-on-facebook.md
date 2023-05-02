@@ -19,38 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Meta stock jumps 11% on earnings beat as Mark Zuckerberg touts AI and vows to keep costs down"
-    excerpt: "Shares of Facebook, Instagram and WhatsApp's owner surged after its first-quarter revenue and earnings beat Wall Street's expectations."
-    publishedDateTime: 2023-04-27T09:42:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/meta-stock-price-mark-zuckerberg-ai-year-of-efficiency-investing-2023-4"
-    ampWebUrl: "https://markets.businessinsider.com/news/stocks/meta-stock-price-mark-zuckerberg-ai-year-of-efficiency-investing-2023-4?amp"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/meta-stock-price-mark-zuckerberg-ai-year-of-efficiency-investing-2023-4?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 76
-    images:
-      - url: "https://i.insider.com/644a329e9052390019701bd8?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Mark Zuckerberg said the word 'AI' no less than 27 times during a Meta earnings call this week"
-    excerpt: "Mark Zuckerberg wants everyone to know Meta is also interested in AI. Overall, the word \"AI\" was used 57 times on the earnings call."
-    publishedDateTime: 2023-04-27T16:41:00Z
-    webUrl: "https://www.businessinsider.com/mark-zuckerberg-ai-metaverse-comments-meta-earnings-2023-4"
-    ampWebUrl: "https://www.businessinsider.com/mark-zuckerberg-ai-metaverse-comments-meta-earnings-2023-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mark-zuckerberg-ai-metaverse-comments-meta-earnings-2023-4?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 75
-    images:
-      - url: "https://i.insider.com/644a7252da6d7b0019bd6f67?width=1200&format=jpeg"
-        width: 1024
-        height: 512
-        isCached: true
   - title: "AI-Powered Reels Make People Spend 24% More Time On Instagram: Mark Zuckerberg"
     excerpt: "Mark Zuckerberg, co-founder, executive chairman, and CEO of Meta Platforms (formerly Facebook), has said that since Meta launched TikTok-rival short-video app Reels, AI recommendations have driven a more than 24 percent increase in time spent by users on Instagram."
     publishedDateTime: 2023-04-28T05:03:00Z

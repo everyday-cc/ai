@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/white-house-wants-to-know-how-a
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/white-house-wants-to-know-how-ai-monitoring-is-impacting-your-work/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,17 @@ images:
     isCached: true
 
 related:
+  - title: "How artificial intelligence could impact the workplace"
+    excerpt: "AI could revolutionize the workplace, but it doesn't mean that robots are going to replace us. Finance professor Dan Roccato joins us with more on how to embrace the bots."
+    publishedDateTime: 2023-04-28T15:11:00Z
+    webUrl: "https://www.fox7austin.com/video/1213506"
+    ampWebUrl: "https://www.fox7austin.com/video/1213506.amp"
+    cdnAmpWebUrl: "https://www-fox7austin-com.cdn.ampproject.org/c/s/www.fox7austin.com/video/1213506.amp"
+    type: article
+    provider:
+      name: FOX 7 Austin KTBC
+      domain: fox7austin.com
+    quality: 39
   - title: "AI wants to know what dove is"
     excerpt: "Schnabel is probably too near the centre of the ECB because her most hawkish speeches have all been recent, so they haven’t yet moved the average. Broadbent probably over-indexes as a dove because he speaks rarely and cagily. The opposite may be true of Pill and his unique presentation style. Etc."
     publishedDateTime: 2023-04-27T14:33:00Z

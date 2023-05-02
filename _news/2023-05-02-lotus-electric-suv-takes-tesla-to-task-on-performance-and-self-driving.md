@@ -53,20 +53,6 @@ related:
         width: 3000
         height: 1815
         isCached: true
-  - title: "Aurora self-driving truck service to launch in 2024"
-    excerpt: "Comment Now! Aurora Innovation, the self-driving technology startup founded by Chris Urmson, one of the original engineers of the Google Self-"
-    publishedDateTime: 2023-04-27T10:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1139487_aurora-self-driving-truck-service-to-launch-in-2024"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 24
-    images:
-      - url: "https://images.hgmsites.net/hug/aurora-self-driving-truck-prototype_100883024_h.jpg"
-        width: 1920
-        height: 1281
-        isCached: true
 
 secured: "3z55zYckoKDpg6h/eSE/z0hPtWpo+cq42NLQkxTp9d7xS84S0Q40OKmry30SCFGy3HTvdm7rgP6JiHUpl1DK5IyodlkPX/TQVUJxTnhNT+GevomWBnu/L97dhUORbwq9/JTozU3JnZYpCGo9YyfMqV/koNFHYX/jI/swhW3aKNQmZwulmZRt4i91QnRvzPxMUo0yQ7FLU7SgsJINZFENZ9RSj9pSTm5Rwce/BFoItxYihVFaRQnbSXJ4FVwYn9IaqBItzAeHIPQ1fR23Zt7JUrKNpV3q24n6hUC10NeSlQGA+cFakOHGpuPFUQPfCZZRUi9mZP8Z5R3Y7wSCHtd4LhB4ebaulD9OtBH49ZCJUj0=;DvU7oOBASzcJYaztQSd/XQ=="
 ---
