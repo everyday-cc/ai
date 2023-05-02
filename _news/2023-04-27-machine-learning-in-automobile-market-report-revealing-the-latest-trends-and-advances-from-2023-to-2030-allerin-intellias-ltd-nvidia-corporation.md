@@ -29,15 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in BFSI Market LATEST REPORT 2023 to 2030"
-    excerpt: "Artificial Intelligence (AI) in BFSI Market” Are a Collection of Information and Analysis Obtained From Diverse Sources"
-    publishedDateTime: 2023-04-27T05:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-bfsi-market-latest-report-2023-to-2030-2023-04-27"
+  - title: "Deep Learning In Drug Discovery And Diagnostics Market Global Competitive Research Report 2023 to 2031 By MRI"
+    excerpt: "Our report on the Deep Learning In Drug Discovery And Diagnostics market provides comprehensive insights into the"
+    publishedDateTime: 2023-04-28T06:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-drug-discovery-and-diagnostics-market-global-competitive-research-report-2023-to-2031-by-mri-2023-04-28"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 82
+    quality: 50
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

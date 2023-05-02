@@ -7,7 +7,7 @@ originalUrl: "https://www.datanami.com/2023/04/27/hugging-face-and-databricks-st
 webUrl: "https://www.datanami.com/2023/04/27/hugging-face-and-databricks-streamline-dataset-creation-with-spark/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,22 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Databricks and Hugging Face integrate Apache Spark for faster AI model building"
-    excerpt: "Databricks and Hugging Face integrate Apache Spark to more seamlessly load and transform data for AI model training and fine-tuning."
-    publishedDateTime: 2023-04-27T05:16:00Z
-    webUrl: "https://venturebeat.com/ai/databricks-and-hugging-face-integrate-apache-spark-for-faster-ai-model-building/"
-    ampWebUrl: "https://venturebeat.com/ai/databricks-and-hugging-face-integrate-apache-spark-for-faster-ai-model-building/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/databricks-and-hugging-face-integrate-apache-spark-for-faster-ai-model-building/amp/"
+  - title: "Databricks Joins edX with Launch of New Program in Large Language Models"
+    excerpt: "LANHAM, Md. and SAN FRANCISCO, May 1, 2023 -- edX, a leading global online learning platform from 2U, Inc., today announced a new partnership with global"
+    publishedDateTime: 2023-05-01T15:41:00Z
+    webUrl: "https://www.datanami.com/this-just-in/databricks-joins-edx-with-launch-of-new-program-in-large-language-models/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 83
+      name: datanami.com
+      domain: datanami.com
+    quality: 23
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/04/pexels-photo-577585.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 899
+      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-North-America23.png"
+        width: 1664
+        height: 674
         isCached: true
+  - title: "Databricks Joins edX Partner Network with Launch of New Expert-led Program in Large Language Models"
+    excerpt: "Program Designed to Meet Growing Demand for Skilled Professionals in Generative AILANHAM, Md. and SAN FRANCISCO, May 1, 2023 /PRNewswire/ -- edX,"
+    publishedDateTime: 2023-05-01T13:06:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/databricks-joins-edx-partner-network-with-launch-of-new-expert-led-program-in-large-language-models-1032278282"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 20
 
 secured: "OThHthi4NwN/QWgx16wnggULSIynQLpXquR3YC3dufGYlitxNwyYW26mtmvpBU23icpCx8esxPZRa4eFKXSYKq2sZt5+jaL1c3wsIflXxhi4W9RNiIJnZ8yquI4YzDtQUORpr58movIZooF0hM5YrsXEJvfjppXdm65tqnDpk0GbRPDLoE/ERc+V8VGOU0I3rqkgpuYflfBxrRPqtm36TVunLl5W0ZE8AdloyGK31dip5dmp7uTHjI3+BFSfI/rsEwc2Bk/wwRxm42KDEcuMNPRFxndOeSnZDiBENbqyydmkkZF00aPeBpq2AjMdwvDa5VsARP7/CEW8edXY8TgGEf+4CyH8lbBQHti8ADKCKA7ILykqHMDRoxNeft3fCrHOvvIVBNlYbtV5TiJgkHqv7TJnUjR4tuWI8C+qfI/ByIeB/f2yaPgQkopC9UHg6+8HTtkBpEEaproBlGrEQ+PH8n3trp8EWK/UwZEBgsoqYqZxNcz9N2FFtcBeYtE89rnEaHj+ELWJHT6HPxGtTOvSDQ==;tWNnzmU/JILhlWY9q2HsBg=="
 ---

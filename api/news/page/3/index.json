@@ -2,6 +2,102 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-04-28-making-the-most-out-of-generative-ai-in-your-enterprise.md",
+      "title": "Making The Most Out Of Generative AI In Your Enterprise",
+      "excerpt": "Generative artificial intelligence (AI) has come to the forefront of business leaders' minds with the ongoing stories and innovative capabilities of ChatGPT and the waitlist for its rival, Google Bard.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/28/making-the-most-out-of-generative-ai-in-your-enterprise/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/28/making-the-most-out-of-generative-ai-in-your-enterprise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/644a7a52c586aa5faa0d1575/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 781,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/28/making-the-most-out-of-generative-ai-in-your-enterprise/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/28/making-the-most-out-of-generative-ai-in-your-enterprise/amp/",
+      "publishedDateTime": "2023-04-28T04:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-04-28-aruba-banks-on-integrated-security-ai-naas-for-enterprise-growth.md",
+      "title": "Aruba banks on integrated security, AI, NaaS for enterprise growth",
+      "excerpt": "Aruba Networks execs talked about a number of core technologies they expect will dominate enterprise customer environments, and, clearly, integrated network/security, AI and network-as-a-service technologies will be at the heart of those developments.",
+      "sourceUrl": null,
+      "webUrl": "https://www.networkworld.com/article/3694870/aruba-banks-on-integrated-security-ai-naas-for-enterprise-growth.html",
+      "originalUrl": "https://www.networkworld.com/article/3694870/aruba-banks-on-integrated-security-ai-naas-for-enterprise-growth.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/06/23/10/group-of-executives_collaborate_board-room_board_mentor_advisory-board_colleagues_networking_by-alphaspirit-getty-images-2400x1600-100818573-large-100929428-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.networkworld.com/article/3694870/aruba-banks-on-integrated-security-ai-naas-for-enterprise-growth.amp.html",
+      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3694870/aruba-banks-on-integrated-security-ai-naas-for-enterprise-growth.amp.html",
+      "publishedDateTime": "2023-04-28T04:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Network World",
+        "domain": "networkworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-04-28-largest-ever-federal-university-grant-awarded-for-ai-and-robotics-research-as-part-of-14b-fund.md",
       "title": "Largest-ever federal university grant awarded for AI and robotics research, as part of $1.4B fund",
       "excerpt": "The Canadian government has unveiled which universities will be receiving a portion of $1.4 billion in research funding, with the single largest sum going to the University of Toronto for its work on artificial intelligence.",
@@ -148,7 +244,7 @@
       "originalUrl": "https://www.express.co.uk/life-style/cars/1763884/electric-car-facial-recognition-genesis",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -502,7 +598,7 @@
       "originalUrl": "https://www.forbes.com/sites/charliefink/2023/04/27/ai-weekly-replit-raises-97-million-for-ai-coding-hugging-face-takes-aim-at-chatgpt/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -827,58 +923,6 @@
       ]
     },
     {
-      "path": "_news/2023-04-28-boston-dynamics-robot-dog-can-answer-your-questions-now-thanks-to-chatgpt.md",
-      "title": "Boston Dynamics robot dog can answer your questions now, thanks to ChatGPT",
-      "excerpt": "A new video shared by AI expert Santiago Valdarrama, showcases Boston Dynamics' robot dog, Spot, performing a few new tricks that involve artificial intelligence. In the almost two minute video, Spot is able to answer natural language questions such as \"Are you standing?\" and \"What is your battery level?\".",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/boston-dynamics-robot-dog-can-answer-your-questions-now-thanks-to-chatgpt/",
-      "originalUrl": "https://www.zdnet.com/article/boston-dynamics-robot-dog-can-answer-your-questions-now-thanks-to-chatgpt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 207,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/67420e49493ab2b30aaafc15a8e1800befe0ca8f/2023/04/27/9f9be49a-d685-4a34-8801-0023f95fbbcc/screenshot-2023-04-27-at-10-10-49-am.png?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/boston-dynamics-robot-dog-can-answer-your-questions-now-thanks-to-chatgpt/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/boston-dynamics-robot-dog-can-answer-your-questions-now-thanks-to-chatgpt/",
-      "publishedDateTime": "2023-04-27T10:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-28-tenable-report-shows-how-generative-ai-is-changing-security-research.md",
       "title": "Tenable report shows how generative AI is changing security research",
       "excerpt": "A Tenable report reveals four ways researchers can use generative AI to enhance vulnerability analysis and debugging.",
@@ -1175,58 +1219,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-global-x-funds-global-x-robotics-artificial-intelligence-etf-nasdaq-botz.md",
-      "title": "Global X Funds - Global X Robotics & Artificial Intelligence ETF (NASDAQ: BOTZ)",
-      "excerpt": "Calculated by average return of all stock recommendations since inception of the Stock Advisor service in February of 2002. Returns as of 04/27/2023. Discounted offers are only available to new ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/quote/nasdaq/botz/",
-      "originalUrl": "https://www.fool.com/quote/nasdaq/botz/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/misc-assets/hp-sa-cumulative-growth-chart.png",
-          "width": 843,
-          "height": 342,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

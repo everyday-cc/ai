@@ -2,9 +2,9 @@
 category: news
 title: "Postman Named as a Customers' Choice in the Gartner Peer Insights™ Voice of the Customer for Full Life Cycle API Management Report"
 excerpt: "Postman, the world's leading API Platform, today announced it has been recognized as a Customers' Choice in the 2023 Gartner Peer Insights Voice of the Customer for Full Life Cycle API Management Report."
-publishedDateTime: 2023-05-01T13:10:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/05/01/9804813.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/05/01/9804813.htm"
+publishedDateTime: 2023-05-01T15:32:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/05/01/9804813.htm"
+webUrl: "https://it.tmcnet.com/news/2023/05/01/9804813.htm"
 type: article
 quality: 0
 heat: 0
@@ -24,6 +24,6 @@ images:
     height: 353
     isCached: true
 
-secured: "He3FrYKq/y0ZQMR8iHq2COvaxFrsT+nohR7KDDdPqUXDCLvRofx0886qjF4EaxaltBCAk3hctaicJaj1v2guZc03xjuZDWty2ciaCQV82roQX0wRu7a5mEqeFL6VSoWYu+/XhH8FWJgtJ3bdPUxbxazmMiTkLueKLjq+yGwMr0Lk35/6jWh6g3yG9bwt6/t3ZbXwRIwvXQQsYLQ/K7yq2OIYKK1EOekQnM3R1wdMAtRi+f1eXfEunMFKuzYAuA390dVZUsmqf+KsJluN34mGSznS34wyVhnhZgaey+vofZEA8fL9RzlmVOSiTeB06W2CJ+M8xbYzUNJkesHzv08oYMdexUeKcg58fSwuOP9NwIs=;2Ylmx8TTC/SoeQJM+hrJzA=="
+secured: "UWRMgPtT35+5wtOsqncMqU1KlUXVAY0HAKAkKP22VYAn74Vi7mPAk4C1cDI+xZIdsx6QVXdGub/sJM/mC9lfB+cwQPpYRsHn7AxtOH3atgVw7BlIxOhX1vk1ca8kKPlY4rbQ58V1fshBSzI4AHzcZ8okJ9dSLt2ua4dF31EQWEnU3JOQtDjqnW8TaWWlrNM+/vV7+4DI4LJ4tEmRrF93ns64+ytzUPELsmw64MZHVYp2DQV1JaKp/zvKfqg4GDCehTy/WjgsZSAbRPMwOU+QucWiBcTfteI7oOBtlehqISsON0PtYHG74znHTiRZoPcpSBYJlwAvhcST6J4KPKpwIXWZzfAOFjpwRxkPSQ04uZ0=;uZoJjubdZhmWfmYV16Zu+A=="
 ---
 

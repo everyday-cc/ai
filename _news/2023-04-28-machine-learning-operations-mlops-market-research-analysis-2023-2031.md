@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/machine-learning-operati
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-operations-mlops-market-research-analysis-2023-2031-2023-04-28"
 type: article
 quality: 86
-heat: 216
+heat: 206
 published: true
 
 provider:
@@ -90,20 +90,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 65
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "VOICE RECOGNITION SYSTEM Market Global Analysis 2023-2030"
-    excerpt: "In 2023,VOICE RECOGNITION SYSTEM Market with technical and procedural infrastructure that gathers and evaluates the"
-    publishedDateTime: 2023-04-27T05:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-system-market-global-analysis-2023-2030-2023-04-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

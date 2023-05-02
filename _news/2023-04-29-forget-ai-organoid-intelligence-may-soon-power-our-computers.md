@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/williamhaseltine/2023/04/28/forget-ai-o
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/williamhaseltine/2023/04/28/forget-ai-organoid-intelligence-may-soon-power-our-computers/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 89
 published: true
 
 provider:

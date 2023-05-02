@@ -2,57 +2,6 @@
   "page": 19,
   "value": [
     {
-      "path": "_news/2023-04-17-harnessing-the-power-of-ai-in-the-insurance-sector.md",
-      "title": "Harnessing The Power Of AI In The Insurance Sector",
-      "excerpt": "AI can help insurers evaluate risk more accurately by analyzing large amounts of data such as historical claims data, credit scores and social media activity—thereby enabling in",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/17/harnessing-the-power-of-ai-in-the-insurance-sector/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/17/harnessing-the-power-of-ai-in-the-insurance-sector/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63c15e4efdaea7ad1989b8c5/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/17/harnessing-the-power-of-ai-in-the-insurance-sector/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/17/harnessing-the-power-of-ai-in-the-insurance-sector/amp/",
-      "publishedDateTime": "2023-04-17T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-17-self-driving-or-driverless-cars-market-size-and-forecast-till-2031.md",
       "title": "Self-Driving or Driverless Cars Market Size and Forecast till 2031",
       "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Apr 17, 2023 (The Expresswire) -- The latest market research report on the Global \"Self-Driving or Driverless Cars ...",
@@ -1209,6 +1158,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-16-deepfake-porn-could-be-a-growing-problem-amid-ai-race.md",
+      "title": "Deepfake porn could be a growing problem amid AI race",
+      "excerpt": "Research into deepfake porn is not prevalent, but one report released in 2019 by the AI firm DeepTrace Labs ... which includes Facebook, Instagram and Messenger. Meta spokesperson Dani Lever ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.clickondetroit.com/business/2023/04/16/deepfake-porn-could-be-a-growing-problem-amid-ai-race/",
+      "originalUrl": "https://www.clickondetroit.com/business/2023/04/16/deepfake-porn-could-be-a-growing-problem-amid-ai-race/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/LEJTYZBG2VC6FFWEGO2D3DKEFA.jpg?_a=ATCqVhC0",
+          "width": 700,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-16T08:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "clickondetroit.com",
+        "domain": "clickondetroit.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
         "AI"
       ]
     }

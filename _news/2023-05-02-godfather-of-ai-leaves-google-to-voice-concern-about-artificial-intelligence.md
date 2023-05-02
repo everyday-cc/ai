@@ -38,7 +38,7 @@ related:
     provider:
       name: Engadget
       domain: engadget.com
-    quality: 104
+    quality: 106
     images:
       - url: "https://s.yimg.com/uu/api/res/1.2/va6aKpnLTH_HpTTrHhzsoQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-04/e30ed030-e82b-11ed-b4f7-aa573aa5f955.cf.jpg"
         width: 1200
@@ -127,6 +127,20 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 40
+  - title: "‘The Godfather of AI’ leaves Google and rings alarm bells — here’s why"
+    excerpt: "Now, one of Google’s own is joining the anti-AI side. According to The New York Times, Geoffrey Hinton — who pioneered the use of neural networks in AI — has left Google after more than a decade with the company. His reason? So he can speak out freely against the rise of AI."
+    publishedDateTime: 2023-05-01T23:16:00Z
+    webUrl: "https://www.tomsguide.com/news/the-godfather-of-ai-leaves-google-and-rings-alarm-bells-heres-why"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 39
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/YSjH7pWg4PvuzsEJUCqUHJ-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Godfather of AI quits Google to warn us of the dangers of products like ChatGPT"
     excerpt: "The 'Godfather of AI' has quit Google to be able to talk about the dangers of products like ChatGPT - what Geoffrey Hinton is worried about."
     publishedDateTime: 2023-05-01T15:19:00Z
@@ -169,6 +183,6 @@ related:
       domain: indiatimes.com
     quality: 19
 
-secured: "f63/MUVx/pkFBvzhW1+UNb5PBCKF4gsHotPPb9z9cQHwKchPB30FzfYx+/sIKcE3KKfghGXw7ZYFeBChzSjFgXrLvlDQDCBhvjYvEtlwxnV/umxvEdFNG3uwC9kd0UAcY7hA/AEIy7BO9cgqO9zO7B3knib7+LTru4ohsh8+tL5xAncJ+bdguGCl9qAgmUv01n/BawizU8BVBIs8dgw78rZDMeGfYcvNo7JjlDiGUMzgnCtOj8peDYTuZ4N+6T6KBdGUDm/rcjTr3YGfuBNJ1GaQfqUXo97bXyAaKiSXWMUjJUZqgVgYVvHy1dKFMk6MdxKBtifSagIe89Jk1RuCr+p9iOus9KdDS6tgUxhUkyw=;iQ3efN0ddiSxIcLWrcH1qQ=="
+secured: "i/oCfcVOOwm5Bb4atLJ3DfbIxEekXbM5CMDR/XfOBKwb9LyumCFdUWiV+SRz+IgXfou2TGRUyLvgBUbrdw4ROs38dz7Uc91LwMogHNLVNPwnWj49aCblClO3ww3Hj79ekDpJ7zmFYDdox8VJ3kl0qXfBJfBb+xXwLsud8pvjngh9YZ/Eyu7L7rbxIa+fkmKjC7pCijNvjNuUAoTXhZXGbXQo2QanYYn/ZxORu+OvFJ8sqU52QIeTvjzFvJnuFGU2Kthr2M8t8YAylzD+F/HietmbVe//ecFDVsacFH2DPFqafnPRlh7YPRF1NCgyS7q87WlSsvLyFf7xypKb+flRz84wdZGcZz6m7cLIVlzHWGaW88dtOx312eFG8rZGdf4afBmTSNpBnT9jL81HW6uJ0xFmCU9DD8FOkjrNNnh/PPAanJ3eqSJppLe8kt9SK8Rn9G4SWuFBzjdtUW3fbvGrutwHk3BbOG/FFGnXxsdosiq+HEHtN6b+AzQu32ou1PGu4YBPRYq58ux773Xr3Yldww==;unNUovv63VGOFBBz/WJfIw=="
 ---
 

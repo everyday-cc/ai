@@ -2,59 +2,6 @@
   "page": 35,
   "value": [
     {
-      "path": "_news/2023-03-31-could-this-self-driving-ev-charging-robot-be-a-game-changer.md",
-      "title": "Could this self-driving EV charging robot be a game changer?",
-      "excerpt": "The orange-and-white automatic self-drive EV charging robot is waterproof and shockproof, and it’s got deep learning, 5G, V2X, simultaneous localization and mapping, and other tech capabilities. China-based NaaS says the robot can complete the charging ...",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2023/03/31/self-driving-ev-charging-robot/",
-      "originalUrl": "https://electrek.co/2023/03/31/self-driving-ev-charging-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/03/NaaS-EV-mobile-charging-robot.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-31T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2023-03-31-why-we-need-to-pause-ai-research-and-consider-the-real-dangers.md",
       "title": "Why we need to pause AI research and consider the real dangers",
       "excerpt": "Google’s DeepMind says its mission is to “solve intelligence” and from there use the enhanced intelligence to solve all our other problems — global poverty, climate change, cancer, you name it. I find this vision compelling, and I still believe AI ...",
@@ -1221,6 +1168,58 @@
         "Microsoft AI",
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-03-30-in-the-ai-era-microsoft-is-the-new-google-and-vice-versa.md",
+      "title": "In the AI era, Microsoft is the new Google, and vice-versa",
+      "excerpt": "Microsoft's AI efforts suggest that the company has traded places with Google when it comes to the cool factor.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/microsoft-new-google-ai-opinion-3302336/",
+      "originalUrl": "https://www.androidauthority.com/microsoft-new-google-ai-opinion-3302336/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidauthority.com/wp-content/uploads/2023/03/Stock-photo-of-Bing-Chat-on-phone-4.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-30T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
       ]
     }
   ],

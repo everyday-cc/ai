@@ -55,15 +55,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Is Facial Recognition Technology a Blessing or a Curse?"
-    excerpt: "Facial recognition technology could be a curse or a blessing. Chances are, if you ever walked in a crowded area in a major city, you have been recorded by some sort of closed circuit television. N, Those images,"
-    publishedDateTime: 2023-04-27T13:15:00Z
-    webUrl: "https://www.trtworld.com/video/tv-shows/is-facial-recognition-technology-a-blessing-or-a-curse-12992514"
-    type: article
-    provider:
-      name: TRT World
-      domain: trtworld.com
-    quality: 19
 
 secured: "79MTaQivFoC2zAukfB08UmQpTNZUDubMEBj0/r9IsKgrINNG7HADiS0W+WgvrrhLJvVLZ2AzAeKS8If1f1DSxpTLKTJ9nX4Gc5xLYTzj+D4OTIZAhANDf63+2vJKLxLASXTlvB645w5kdb28UecN7Yj3xjnEP8CYdgrgRshvg0r18R8KDwhtvZCk8CcQ+gWYfc/+2VD/YiOvcCKRr7euZLJhJ3AFLfjuYvL0M223ihmiCbsxb+BYWxObC2XNm97pKSAp1dePLnn5oqlunHvOh4EyxA44ariXGO9GC1kOWO8HMnJRHoQy0hwahw+PHTBtN62HwzpY9gRyeyDBpF63cVFeBLbXijbZ8JZIsB4sA5oO7LCxp/4eQBEoZdqamiX8XfMYM24pBO4Cs+25r/KFmm9J4/Ox3NjQEb9lzhYskDID5xnSbCCEFIe4c/BNsUuVRWeG1/c569SZaU4fcrnP1VMO2BSVZ5fmzbAS0JBx94q1nioDcy8GnnYJaH7uLsZ1RPiY8H0yVn0ZH5sm88YeUg==;G/KydMbCC0v7a2jpkHBnWA=="
 ---

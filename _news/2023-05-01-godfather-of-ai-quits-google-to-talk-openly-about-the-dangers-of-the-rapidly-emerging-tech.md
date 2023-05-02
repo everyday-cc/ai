@@ -37,7 +37,7 @@ related:
     provider:
       name: Engadget
       domain: engadget.com
-    quality: 104
+    quality: 106
     images:
       - url: "https://s.yimg.com/uu/api/res/1.2/va6aKpnLTH_HpTTrHhzsoQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-04/e30ed030-e82b-11ed-b4f7-aa573aa5f955.cf.jpg"
         width: 1200
@@ -124,6 +124,20 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 40
+  - title: "‘The Godfather of AI’ leaves Google and rings alarm bells — here’s why"
+    excerpt: "Now, one of Google’s own is joining the anti-AI side. According to The New York Times, Geoffrey Hinton — who pioneered the use of neural networks in AI — has left Google after more than a decade with the company. His reason? So he can speak out freely against the rise of AI."
+    publishedDateTime: 2023-05-01T23:16:00Z
+    webUrl: "https://www.tomsguide.com/news/the-godfather-of-ai-leaves-google-and-rings-alarm-bells-heres-why"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 39
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/YSjH7pWg4PvuzsEJUCqUHJ-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Godfather of AI quits Google to warn us of the dangers of products like ChatGPT"
     excerpt: "The 'Godfather of AI' has quit Google to be able to talk about the dangers of products like ChatGPT - what Geoffrey Hinton is worried about."
     publishedDateTime: 2023-05-01T15:19:00Z

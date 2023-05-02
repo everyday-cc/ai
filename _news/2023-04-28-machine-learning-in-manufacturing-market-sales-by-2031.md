@@ -95,20 +95,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "VOICE RECOGNITION SYSTEM Market Global Analysis 2023-2030"
-    excerpt: "In 2023,VOICE RECOGNITION SYSTEM Market with technical and procedural infrastructure that gathers and evaluates the"
-    publishedDateTime: 2023-04-27T05:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-system-market-global-analysis-2023-2030-2023-04-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Cognitive Data Management Market Recent Developments and Updates By 2031"
     excerpt: "What is the Cognitive Data Management market growth? Cognitive Data Management Market Size is projected to Reach Multimillion USD by 2031, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2031."
     publishedDateTime: 2023-04-27T12:35:00Z

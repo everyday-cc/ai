@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/geoffrey-hinton-a-pioneer-in-artificial-i
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/geoffrey-hinton-a-pioneer-in-artificial-intelligence-resigns-from-google-over-ethical-fears/amp/"
 type: article
 quality: 97
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -48,6 +48,20 @@ related:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2023/04/eyevine01515042.jpeg?w=2845"
         width: 2845
         height: 2000
+        isCached: true
+  - title: "Deep learning pioneer Geoffrey Hinton warns against rapid AI development as he quits Google"
+    excerpt: "Famous AI pioneer Geoffrey Hinton announces he is leaving Google amidst regrets and concerns. Find out what worries him here"
+    publishedDateTime: 2023-05-01T22:41:00Z
+    webUrl: "https://interestingengineering.com/innovation/deep-learning-pioneer-geoffrey-hinton-warns-against-rapid-ai-development-as-he-quits-google"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 44
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/05/01/image/jpeg/gnJvZ1hm4wthQcdfW7jJS0JrpCb2sXSe0VhrPEkH.jpg"
+        width: 1920
+        height: 1280
         isCached: true
 
 secured: "wwYoWyTtE6Ro9mn4oAebW4Nhbbqyh/Suz6SawEnPnH2Obt4IBVoOUujE539apwDWU6y5QWCsuwhYiKE80C4chr94fRItf7IBAPgGPEiMCWmTP0VOuBpByVeBL6yB4ci2Op35NMPec63ISdeuhDD0R6EZQHfO/V6mUyxm2b/WKKYA+NbHXLgohG1H+hvZdXwdQPSOAo10iWIIAzehxGmS4SXGAwZ4w/+wa6xhHbgUF4M7Fg/CkFsPsz3G9TV6Gpb/D+eWCan564qrFuNA81zBRD2Q0M37R132D2RyqUQhu1lJChbD2FD2qeWzITV20ouw/tzal/QbJ7u6RC/6uZomfmRVy3u8fcose+iToYH3sOnBGyPTCp8uFLcgUi5Z9zpMOMeluuUKcnjw0VHyOzokzpXwv5z69Jo80CFgTGZni5QKvR8N8alDnpw0EWmLLnRob/DfsmEPoJmeU1oreOA9p+sPyuL0QgPMjQ8ta1rBVY40njwtEyZKerAGIY55sP4FYz1pxekn2aPyOzSGVgTMkA==;dvQs2BIMK30E1CHcttvpsg=="

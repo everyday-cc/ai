@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "2023 to 2030 Artificial Intelligence in Energy Market Regional Outlook"
-    excerpt: "Artificial Intelligence in Energy Market” Are a Collection of Information and Analysis Obtained From Diverse Sources"
-    publishedDateTime: 2023-04-27T05:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-to-2030-artificial-intelligence-in-energy-market-regional-outlook-2023-04-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Computer Vision in Aerospace and Defense Market Industry Analysis, Size, Share, Growth"
     excerpt: "The latest independent research report on Computer Vision in Aerospace and Defense Market 2023 explore investment"
     publishedDateTime: 2023-04-28T15:37:00Z

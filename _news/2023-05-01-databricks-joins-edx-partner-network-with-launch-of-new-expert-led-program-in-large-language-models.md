@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "Hugging Face and Databricks Streamline Dataset Creation with Spark"
+    excerpt: "Databricks and Hugging Face have unveiled a new integration that will allow users to create a Hugging Face dataset from an Apache Spark dataframe."
+    publishedDateTime: 2023-04-27T22:52:00Z
+    webUrl: "https://www.datanami.com/2023/04/27/hugging-face-and-databricks-streamline-dataset-creation-with-spark/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 24
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2017/01/shutterstock_spark_fireworks.jpg"
+        width: 405
+        height: 228
+        isCached: true
   - title: "Databricks Joins edX with Launch of New Program in Large Language Models"
     excerpt: "LANHAM, Md. and SAN FRANCISCO, May 1, 2023 -- edX, a leading global online learning platform from 2U, Inc., today announced a new partnership with global"
     publishedDateTime: 2023-05-01T15:41:00Z

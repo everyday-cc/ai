@@ -53,20 +53,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Voice Recognition Market by [2023-2029] with Revenue Outsourcing"
-    excerpt: "In 2023,Voice Recognition Market with technical and procedural infrastructure that gathers and evaluates the data"
-    publishedDateTime: 2023-04-27T06:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-voice-recognition-market-by-2023-2029-with-revenue-outsourcing-2023-04-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Speech and Voice Recognition Technology Market 2023-2030 is Booming in Upcoming Period"
     excerpt: "Speech and Voice Recognition Technology Market Report Insights (2023-2030) :(110 Pages Report) Speech and Voice"
     publishedDateTime: 2023-04-27T08:55:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.express.co.uk/life-style/cars/1763884/electric-car-facia
 cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/cars/1763884/electric-car-facial-recognition-genesis/amp"
 type: article
 quality: 53
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -55,15 +55,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Is Facial Recognition Technology a Blessing or a Curse?"
-    excerpt: "Facial recognition technology could be a curse or a blessing. Chances are, if you ever walked in a crowded area in a major city, you have been recorded by some sort of closed circuit television. N, Those images,"
-    publishedDateTime: 2023-04-27T13:15:00Z
-    webUrl: "https://www.trtworld.com/video/tv-shows/is-facial-recognition-technology-a-blessing-or-a-curse-12992514"
-    type: article
-    provider:
-      name: TRT World
-      domain: trtworld.com
-    quality: 19
 
 secured: "QX+uOZKhlT1nOr5//BgadpThlrTTGu3VXbxIfKDWIOV80BIoS0sGQQO+3RzF4z9Ns7LPingn7mnuAP+d9FyY7ZS20G0o/tTdkSmJ3EcBifxkXvjsINxuPzAR4rJ614Sj2tcBCMr2n/fWxHsDfDEUcO0f9WM+lNCSlccYB1iDuJLKL4v1Vr23OoJVSEg9++S0IYZQxu0Ra6EYrS+vDqW+FWjbYhiJ+9aYIfp9mbdtAk+jCb6GKu83up1W++7VzLJoeGgVAGuhz2wj5hQg0LVMBbBSPf0PKYeJvyGbVsMbkDV1TrQOgNry+t8gu9hOUeKX64aJXI1Co4UqYA+CjkcLWb70HaKhahXLDBRbKWLB0w8oBK3oQIkr3kI3641pkieklU5QD0dQTWEjIHlPx9qs/H7OuQFtGCrZGlEDrVGZZQqTIcDpG/GAG0EEHKr4f2QvAelGJWENeuZLbH28wOcS4X4WF2xGkhIqXMlmR+5k1G29InWiDOpOB6lDtPpb9a5jyz/22jSbtOfluvCAPwunZw==;bsJUnjQi7qcNKk4SMgZt8g=="
 ---

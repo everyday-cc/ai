@@ -8,8 +8,8 @@ webUrl: "https://www.engadget.com/godfather-of-ai-leaves-google-amid-ethical-con
 ampWebUrl: "https://www.engadget.com/amp/godfather-of-ai-leaves-google-amid-ethical-concerns-152451800.html"
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/godfather-of-ai-leaves-google-amid-ethical-concerns-152451800.html"
 type: article
-quality: 104
-heat: 214
+quality: 106
+heat: 226
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - AI Ethics
+  - Computer Vision
 
 images:
   - url: "https://s.yimg.com/uu/api/res/1.2/va6aKpnLTH_HpTTrHhzsoQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-04/e30ed030-e82b-11ed-b4f7-aa573aa5f955.cf.jpg"
@@ -128,6 +129,20 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 40
+  - title: "‘The Godfather of AI’ leaves Google and rings alarm bells — here’s why"
+    excerpt: "Now, one of Google’s own is joining the anti-AI side. According to The New York Times, Geoffrey Hinton — who pioneered the use of neural networks in AI — has left Google after more than a decade with the company. His reason? So he can speak out freely against the rise of AI."
+    publishedDateTime: 2023-05-01T23:16:00Z
+    webUrl: "https://www.tomsguide.com/news/the-godfather-of-ai-leaves-google-and-rings-alarm-bells-heres-why"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 39
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/YSjH7pWg4PvuzsEJUCqUHJ-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Godfather of AI quits Google to warn us of the dangers of products like ChatGPT"
     excerpt: "The 'Godfather of AI' has quit Google to be able to talk about the dangers of products like ChatGPT - what Geoffrey Hinton is worried about."
     publishedDateTime: 2023-05-01T15:19:00Z
@@ -170,6 +185,6 @@ related:
       domain: indiatimes.com
     quality: 19
 
-secured: "r6oB+y2jEqHQGDc3yIsDvyvNNpSYaOV3kp0hARFyRiweVm4lf3+Qa7TDaMVpGjhffvttux8G91sHT5eJ5fsovzmgz4hPWZap1JTUbgr+00zZNEP2YycIrY8sxZDnCavTzZ1Lhtvef0N6vGnG2xpE34IyKDTAPASw5eJeNt4bhvxg0oIgDx9OGsuRGkEBR24Ce2uL89+mpPO0XzGBhvJ/DFjHwxCwmFlbYE8VDTtaYqiU2iig8o9D3xUHfXRZVLrjO2dfGQyChBtM8zITas9D7xBQ8GMBqZJqog1+mayHfy8p3QzvtAqCExSrIKxViPcbMYPMKBr0M9bTvkXxgSxK6glbXqEROhnrYmvi6EMja2g=;DYydyff7/PSpha1mJAgjuQ=="
+secured: "OwfASG0lnH1plOhn9LZoIvw6asOCZqFn9ptz3+Swiiz3Od8UVMRvVgIzx4cYovv19efVRJP/NH2TcuyXLC1aUQGyu41G+PrvUAEbfOZ8EtaOSOTg65XUWcFqQ9Jit9ILorIJq4ujYG48q8yhyS5AzaYliuxGK8IJLoyvnBoYnkeFhElZzm3dpQtTAmSsXqBRTxmhbnr0e9jLMfpeWcCa4KNeEqMlXK8/Lx5/rfI22Amj1la9chIuaDh1ZrD69fOs/uCagXBrrQ0z6huJxI/xk+QzT0eC69UT8ZUWfAOJE3MIo9Fx68jwbTTNnsqjyDBhv88WtVqLoxGcsk5tX0voWacu+2e2go2Cd8CSOrxyfEMTUmIjxJ0RtQ23dkBB0YDEZ7L8kZHDh23LKazuRpNzv2xOAEsUKqBD8YAQPLfw5wy9/QoHN/caiz9y9tXsU6Ot4nzU8jkYgWSQlX8hJF9aI5Tyoot2F7WgRm1EusdqBxBRhvxwKcIZod+DaC85wSONWJNlbMkeJKO9+zidOEVulw==;Q4l2PLDK4tIQw87wToo5zw=="
 ---
 

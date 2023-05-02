@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/dalebuss/2023/04/28/carmakers-emphasize
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dalebuss/2023/04/28/carmakers-emphasize-practicality-in-new-goals-for-autonomous-driving/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 76
 published: true
 
 provider:

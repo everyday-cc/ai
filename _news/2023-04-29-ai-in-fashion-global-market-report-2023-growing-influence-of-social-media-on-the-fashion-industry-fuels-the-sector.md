@@ -69,20 +69,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "2023 to 2030 Artificial Intelligence in Energy Market Regional Outlook"
-    excerpt: "Artificial Intelligence in Energy Market” Are a Collection of Information and Analysis Obtained From Diverse Sources"
-    publishedDateTime: 2023-04-27T05:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-to-2030-artificial-intelligence-in-energy-market-regional-outlook-2023-04-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Facial Recognition Market: Segments Analysis and Future Growth Trends By 2030"
     excerpt: "Apr 27, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The Facial Recognition Market"
     publishedDateTime: 2023-04-27T20:14:00Z

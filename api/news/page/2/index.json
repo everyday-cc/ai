@@ -2,6 +2,151 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-05-01-ai-generated-music-growing-exponentially-sparking-debate.md",
+      "title": "AI-generated music growing exponentially, sparking debate",
+      "excerpt": "An anonymous creator used artificial intelligence to create a song with Drake and The Weeknd’s voices, fueling AI’s first real viral hit, “Heart on my Sleeve.” NBC News’ Steve Patterson gets a closer look at how AI music is created.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/nightly-news/video/ai-generated-music-growing-exponentially-sparking-debate-171959877938",
+      "originalUrl": "https://www.nbcnews.com/nightly-news/video/ai-generated-music-growing-exponentially-sparking-debate-171959877938",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_04/1682898379260_nn_spa_musics_new_ai_frontier_230430_1920x1080-9iile5.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo171959877938",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo171959877938",
+      "publishedDateTime": "2023-04-30T16:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-01-board-directors-and-c-suite-executives-need-an-ai-digital-literacy-jolt.md",
+      "title": "Board Directors And C-Suite Executives Need An AI Digital Literacy Jolt",
+      "excerpt": "This article summarizes a series of articles on ChatGPT to help advance board directors and c-level leaders understanding of AI in particular, generative AI like OpenAI's ChatGPT.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/04/30/board-directors-and-c-suite-executives-need-an-ai-digital-literacy-jolt/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/04/30/board-directors-and-c-suite-executives-need-an-ai-digital-literacy-jolt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/644ed0207cdeacee53ba8cab/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 425,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/04/30/board-directors-and-c-suite-executives-need-an-ai-digital-literacy-jolt/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/04/30/board-directors-and-c-suite-executives-need-an-ai-digital-literacy-jolt/amp/",
+      "publishedDateTime": "2023-04-30T13:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-30-how-are-educators-reacting-to-chat-gpt.md",
+      "title": "How Are Educators Reacting To Chat GPT?",
+      "excerpt": "ChatGPT has the opportunity to innovate how education is accessed, as well as could have severe consequences on student’s critical thinking skill development This blog will explore some of the views,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/04/30/how-are-educators-reacting-to-chat-gpt/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/04/30/how-are-educators-reacting-to-chat-gpt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/644c002dcb6000c95bf1e352/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/04/30/how-are-educators-reacting-to-chat-gpt/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/04/30/how-are-educators-reacting-to-chat-gpt/amp/",
+      "publishedDateTime": "2023-04-30T08:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-30-ai-email-spam-is-headed-this-wayand-other-smb-tech-news-this-week.md",
       "title": "AI Email Spam Is Headed This Way…And Other SMB Tech News This Week",
       "excerpt": "Plus: Google makes new changes to its workplace platform and Yelp adds new capabilities to help consumers do better reviews.",
@@ -353,7 +498,7 @@
       "originalUrl": "https://arstechnica.com/gadgets/2023/04/report-describes-apples-organizational-dysfunction-and-lack-of-ambition-in-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -404,7 +549,7 @@
       "originalUrl": "https://www.forbes.com/sites/williamhaseltine/2023/04/28/forget-ai-organoid-intelligence-may-soon-power-our-computers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -455,7 +600,7 @@
       "originalUrl": "https://www.forbes.com/sites/dalebuss/2023/04/28/carmakers-emphasize-practicality-in-new-goals-for-autonomous-driving/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -495,57 +640,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-29-chatgpt-and-generative-ai-in-financial-services-reality-hype-whats-next-and-how-to-prepare.md",
-      "title": "ChatGPT and Generative AI in Financial Services: Reality, Hype, What's Next, and How to Prepare",
-      "excerpt": "Payments, banking, and insurance players are eager to understand generative AI's potential and put it to work.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/chatgpt-and-generative-ai-in-financial-services-hype-next-prepare-2023-april",
-      "originalUrl": "https://www.businessinsider.com/chatgpt-and-generative-ai-in-financial-services-hype-next-prepare-2023-april",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64403454632fda001803b2e0?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/chatgpt-and-generative-ai-in-financial-services-hype-next-prepare-2023-april?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-and-generative-ai-in-financial-services-hype-next-prepare-2023-april?amp",
-      "publishedDateTime": "2023-04-28T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
@@ -610,7 +704,7 @@
       "originalUrl": "https://venturebeat.com/ai/ai-startup-synthesia-made-waves-this-week-on-both-sides-of-deepfake-debate/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -764,7 +858,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-report-by-2023-2030-2023-04-28",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -816,7 +910,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/aimachine-learning-market-size-trends-and-forecast-2030-2023-04-28",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -1057,7 +1151,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-market-projection-and-growth-drivers-2023-2028-2023-04-28",
       "featuredContent": null,
       "highlight": null,
-      "heat": 246,
+      "heat": 236,
       "tags": null,
       "images": [
         {
@@ -1110,7 +1204,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-operations-mlops-market-research-analysis-2023-2031-2023-04-28",
       "featuredContent": null,
       "highlight": null,
-      "heat": 216,
+      "heat": 206,
       "tags": null,
       "images": [
         {
@@ -1152,102 +1246,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-making-the-most-out-of-generative-ai-in-your-enterprise.md",
-      "title": "Making The Most Out Of Generative AI In Your Enterprise",
-      "excerpt": "Generative artificial intelligence (AI) has come to the forefront of business leaders' minds with the ongoing stories and innovative capabilities of ChatGPT and the waitlist for its rival, Google Bard.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/28/making-the-most-out-of-generative-ai-in-your-enterprise/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/28/making-the-most-out-of-generative-ai-in-your-enterprise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/644a7a52c586aa5faa0d1575/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 781,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/28/making-the-most-out-of-generative-ai-in-your-enterprise/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/28/making-the-most-out-of-generative-ai-in-your-enterprise/amp/",
-      "publishedDateTime": "2023-04-28T04:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-aruba-banks-on-integrated-security-ai-naas-for-enterprise-growth.md",
-      "title": "Aruba banks on integrated security, AI, NaaS for enterprise growth",
-      "excerpt": "Aruba Networks execs talked about a number of core technologies they expect will dominate enterprise customer environments, and, clearly, integrated network/security, AI and network-as-a-service technologies will be at the heart of those developments.",
-      "sourceUrl": null,
-      "webUrl": "https://www.networkworld.com/article/3694870/aruba-banks-on-integrated-security-ai-naas-for-enterprise-growth.html",
-      "originalUrl": "https://www.networkworld.com/article/3694870/aruba-banks-on-integrated-security-ai-naas-for-enterprise-growth.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/06/23/10/group-of-executives_collaborate_board-room_board_mentor_advisory-board_colleagues_networking_by-alphaspirit-getty-images-2400x1600-100818573-large-100929428-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.networkworld.com/article/3694870/aruba-banks-on-integrated-security-ai-naas-for-enterprise-growth.amp.html",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3694870/aruba-banks-on-integrated-security-ai-naas-for-enterprise-growth.amp.html",
-      "publishedDateTime": "2023-04-28T04:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

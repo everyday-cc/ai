@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/27/how-to-avo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/27/how-to-avoid-bias-in-machine-learning-algorithms/amp/"
 type: article
 quality: 89
-heat: 91
+heat: 89
 published: true
 
 provider:

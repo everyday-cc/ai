@@ -19,49 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "New electric car offers world's first facial recognition and fingerprint technology"
-    excerpt: "The world's first application of facial recognition technology has been unveiled, with one electric car removing the need for a key altogether."
-    publishedDateTime: 2023-04-28T08:39:00Z
-    webUrl: "https://www.express.co.uk/life-style/cars/1763884/electric-car-facial-recognition-genesis"
-    ampWebUrl: "https://www.express.co.uk/life-style/cars/1763884/electric-car-facial-recognition-genesis/amp"
-    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/cars/1763884/electric-car-facial-recognition-genesis/amp"
+  - title: "Legislation introduced to regulate facial recognition technology in Baltimore"
+    excerpt: "The councilman's proposed legislation would require any new surveillance technology proposed by police departments be subject to approval by the City Council and community input."
+    publishedDateTime: 2023-05-01T21:37:00Z
+    webUrl: "https://www.wmar2news.com/local/legislation-introduced-to-regulate-facial-recognition-technology-in-baltimore"
+    ampWebUrl: "https://www.wmar2news.com/local/legislation-introduced-to-regulate-facial-recognition-technology-in-baltimore?_amp=true"
+    cdnAmpWebUrl: "https://www-wmar2news-com.cdn.ampproject.org/c/s/www.wmar2news.com/local/legislation-introduced-to-regulate-facial-recognition-technology-in-baltimore?_amp=true"
     type: article
     provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 53
+      name: wmar2news
+      domain: wmar2news.com
+    quality: 58
     images:
-      - url: "https://cdn.images.express.co.uk/img/dynamic/24/590x/secondary/electric-car-facial-recognition-genesis-4718602.jpg?r=1682671687005"
-        width: 590
-        height: 350
-        isCached: true
-  - title: "The first smart gun with facial and fingerprint recognition is now for sale"
-    excerpt: "Smart guns have mainly been the stuff of movies. In the real world, technological and political challenges have meant the high-tech devices haven't become a reality. That may be about to change."
-    publishedDateTime: 2023-04-29T09:01:00Z
-    webUrl: "https://wusfnews.wusf.usf.edu/2023-04-29/the-first-smart-gun-with-facial-and-fingerprint-recognition-is-now-for-sale"
-    type: article
-    provider:
-      name: wusfnews.wusf.usf.edu
-      domain: usf.edu
-    quality: 22
-    images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/80abbd8/2147483647/strip/true/crop/3000x1575+0+213/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F04%2F28%2Faz-gun-authenticated-edit_custom-ae0a785fdb635d95fc7fe938f59a5debe9c8e8b4.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "The first smart gun with facial and fingerprint recognition is now for sale"
-    excerpt: "Smart guns have mainly been the stuff of movies. In the real world, technological and political challenges have meant the high-tech devices haven't become a reality. That may be about to change."
-    publishedDateTime: 2023-04-30T13:33:00Z
-    webUrl: "https://www.ijpr.org/npr-news/2023-04-29/the-first-smart-gun-with-facial-and-fingerprint-recognition-is-now-for-sale"
-    type: article
-    provider:
-      name: Jefferson Public Radio
-      domain: ijpr.org
-    quality: 22
-    images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/80abbd8/2147483647/strip/true/crop/3000x1575+0+213/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F04%2F28%2Faz-gun-authenticated-edit_custom-ae0a785fdb635d95fc7fe938f59a5debe9c8e8b4.jpg"
-        width: 1200
-        height: 630
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/96db251/2147483647/strip/true/crop/640x360+0+60/resize/1280x720!/quality/90/?url=https%3A%2F%2Fmediaassets.abc2news.com%2Fphoto%2F2018%2F09%2F12%2F648987200-170667a_1536785599867_97280406_ver1.0_640_480.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "sJMBjMvntQMbxf3vA2shGG+OqUMo/Zk+oROzqnKJ23mYLLl+gA7EhCyHuupBn9l2lYy1nOh0G30pXVsJdhjtRMBH2/V0DvDTSLAl8rQmJMY71jilZMXj4pt1DumZPeXXyQTNhbzSfxLQmvje6h+YXf28ZwML8nX2gtpHsmytZ1rHGZkPGvafwAgUMm4h6SQMsecleJ7x4sU4d6VkYN2SwDIJeFtP+NPiv7klxY4hZmMSjNTay3uucZJbeJjbACGgyFsAWPaEGctDR3SUp3KEZE3rk2nM111YKUnzy1HL9bJ596Qqa2bICxD9Nnm52cxCpbZdf+S/aAoY+Bfa5qhpVCsSfJ+ljkf9305YhzJiBq0=;/VwTSkN6SKomMmu+u6UXSQ=="

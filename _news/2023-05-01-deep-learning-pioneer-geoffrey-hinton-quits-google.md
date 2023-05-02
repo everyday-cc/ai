@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Deep learning pioneer Geoffrey Hinton warns against rapid AI development as he quits Google"
+    excerpt: "Famous AI pioneer Geoffrey Hinton announces he is leaving Google amidst regrets and concerns. Find out what worries him here"
+    publishedDateTime: 2023-05-01T22:41:00Z
+    webUrl: "https://interestingengineering.com/innovation/deep-learning-pioneer-geoffrey-hinton-warns-against-rapid-ai-development-as-he-quits-google"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 44
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/05/01/image/jpeg/gnJvZ1hm4wthQcdfW7jJS0JrpCb2sXSe0VhrPEkH.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
 
 secured: "8vFes7wUasJcGy2jK+J1AXdC828UV4yWiRvNK8x4/tt5Mqc2gss4adMBSZ4cFgg23EqGBjbkJ7/ARGEm8v6ByHixMgtqShpVfANJA9mPb/4AJPchJnnDPvbQWECijiDQ+lgINbjt7/HSl2+EjG4D0ajfu7zxLUYSVXRK9qTrfEykQdedSz9qyoApPe5PiciUBH3W3+wy7mCXvlOxiDA9BHw9PY4Z0Bvrk5I5Qh+VCjuiHVuHrAIKrgv/UqvVgUXhacgtEoc480oeyNnDkl+YuGOnlkYqkSn4KVMNNasQubASa9ncND6vcP1nHUNsuS5q3Ghcuv8JtBkiS4aUM7jbQ77odU3hzvqQ2UBRri1/jwwSAXD0Has9EGD4hYTcwzC0+jE99xRKCoMlnj+NhSLdahDXsS4V0QKIDQ1qocdsNvdlcz2SgluH72TM3ftGtp7Xz2XPE+XQR/3PEpQtk46vBs1GDZpHYi7+V4mhzIyFo+f6N6wfXf9gL1IKvSKjPYTnKLXXTM5qUDu1u0RdGM7PzQ==;yY+aLNh0UmwXLCh0IWgwGA=="
 ---

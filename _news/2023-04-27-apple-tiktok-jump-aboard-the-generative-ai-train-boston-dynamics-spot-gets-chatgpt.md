@@ -9,7 +9,7 @@ ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/ap
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/apple-tiktok-jump-aboard-the-generative-ai-train-boston-dynamics-spot-gets-chatgpt/lite/"
 type: article
 quality: 52
-heat: -1
+heat: 62
 published: false
 
 provider:
@@ -27,149 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Boston Dynamics robot dog can answer your questions now, thanks to ChatGPT"
-    excerpt: "A new video shared by AI expert Santiago Valdarrama, showcases Boston Dynamics' robot dog, Spot, performing a few new tricks that involve artificial intelligence. In the almost two minute video, Spot is able to answer natural language questions such as \"Are you standing?\" and \"What is your battery level?\"."
-    publishedDateTime: 2023-04-27T17:37:00Z
-    webUrl: "https://www.zdnet.com/article/boston-dynamics-robot-dog-can-answer-your-questions-now-thanks-to-chatgpt/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/boston-dynamics-robot-dog-can-answer-your-questions-now-thanks-to-chatgpt/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/boston-dynamics-robot-dog-can-answer-your-questions-now-thanks-to-chatgpt/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/67420e49493ab2b30aaafc15a8e1800befe0ca8f/2023/04/27/9f9be49a-d685-4a34-8801-0023f95fbbcc/screenshot-2023-04-27-at-10-10-49-am.png?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "How To Write ChatGPT, AI Chatbot Prompts Like A Philosopher"
-    excerpt: "The next time you use a chatbot, try writing like a philosopher. It will give you the most successful results."
-    publishedDateTime: 2023-04-28T14:02:00Z
-    webUrl: "https://www.forbes.com/sites/teddymcdarrah/2023/04/28/how-to-write-ai-chatbot-prompts-like-a-philosopher/"
-    ampWebUrl: "https://www.forbes.com/sites/teddymcdarrah/2023/04/28/how-to-write-ai-chatbot-prompts-like-a-philosopher/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/teddymcdarrah/2023/04/28/how-to-write-ai-chatbot-prompts-like-a-philosopher/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/644ade30d0e35557f60d1575/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
-    excerpt: "Here's a guide to help understand Open AI's viral text-generating system. We outline the most recent updates and answer the most common FAQs."
-    publishedDateTime: 2023-05-01T20:51:00Z
-    webUrl: "https://techcrunch.com/2023/05/01/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/"
-    ampWebUrl: "https://techcrunch.com/2023/05/01/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/01/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
-        width: 1200
-        height: 798
-        isCached: true
-  - title: "Are AI Chatbots, ChatGPT the Solution to Healthcare’s Empathy Problem?"
-    excerpt: "A new study found that AI chatbots like ChatGPT answer patient queries with more empathy, making the tool useful for providers managing secure direct messages in the patient portal."
-    publishedDateTime: 2023-05-01T17:00:00Z
-    webUrl: "https://patientengagementhit.com/news/are-ai-chatbots-chatgpt-the-solution-to-healthcares-empathy-problem"
-    type: article
-    provider:
-      name: patientengagementhit
-      domain: patientengagementhit.com
-    quality: 54
-    images:
-      - url: "https://patientengagementhit.com/images/site/article_headers/_normal/2022-04-08-GettyImages-1302394569.jpg"
-        width: 690
-        height: 400
-        isCached: true
-  - title: "Engineer Combines ChatGPT with Robot Dog, Spot for Enhanced Communication"
-    excerpt: "In a world where artificial intelligence and robots are becoming increasingly prevalent, it’s always exciting to see how engineers are pushing the boundaries and finding new ways to make these machines even more useful."
-    publishedDateTime: 2023-04-27T05:26:00Z
-    webUrl: "https://www.gizmochina.com/2023/04/27/chatgpt-spot-dog-communication/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 48
-  - title: "Artificial intelligence bot ChatGPT has a better bedside manner than REAL doctors, study shows"
-    excerpt: "ARTIFICIAL Intelligence bot ChatGPT has a better bedside manner than real doctors, a study shows. It was judged to give higher quality and more empathetic answers to real-world health questions 79"
-    publishedDateTime: 2023-04-28T20:38:00Z
-    webUrl: "https://www.thesun.co.uk/health/22199736/chargpt-better-bedside-manner-real-doctors/"
-    ampWebUrl: "https://www.thesun.co.uk/health/22199736/chargpt-better-bedside-manner-real-doctors/amp/"
-    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/health/22199736/chargpt-better-bedside-manner-real-doctors/amp/"
-    type: article
-    provider:
-      name: The Sun
-      domain: thesun.co.uk
-    quality: 47
-    images:
-      - url: "https://www.thesun.co.uk/wp-content/uploads/2023/04/NINTCHDBPICT000813339870.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Meta Hopes to Rival ChatGPT with New AI Investments"
-    excerpt: "Meta claims it's \"no longer behind in building AI infrastructure\", with new AI tools coming to WhatsApp, Messager, Facebook, and Instagram."
-    publishedDateTime: 2023-04-27T16:51:00Z
-    webUrl: "https://tech.co/news/meta-ai-investment-chatgpt-rival"
-    type: article
-    provider:
-      name: Tech.co
-      domain: tech.co
-    quality: 39
-    images:
-      - url: "https://images.tech.co/wp-content/uploads/2023/04/27113513/AdobeStock_577116307_Editorial_Use_Only-min_50-scaled.jpeg"
-        width: 2560
-        height: 1707
-        isCached: true
-  - title: "Oh Great, They Put ChatGPT Into a Boston Dynamics Robot Dog"
-    excerpt: "As if robot dogs weren't creepy enough, at least one is now equipped with OpenAI's ChatGPT and can speak aloud."
-    publishedDateTime: 2023-04-27T20:36:00Z
-    webUrl: "https://futurism.com/the-byte/chatgpt-boston-dynamics-robot-dog"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 39
-    images:
-      - url: "https://wp-assets.futurism.com/2023/04/chatgpt-boston-dynamics-robot-dog.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "With the Rise of ChatGPT, VC Latches on to AI"
-    excerpt: "More than a third of venture capitalists believe artificial intelligence will generate the most growth of all sectors in tech, according to PitchBook."
-    publishedDateTime: 2023-05-01T20:31:00Z
-    webUrl: "https://www.institutionalinvestor.com/article/b8yjqzxwx1nk84/With-the-Rise-of-ChatGPT-VC-Latches-on-to-AI"
-    type: article
-    provider:
-      name: Institutional Investor
-      domain: institutionalinvestor.com
-    quality: 39
-    images:
-      - url: "https://www.institutionalinvestor.com/media/AMG/II/articles/1/1/1/art_machine050123.jpg"
-        width: 1000
-        height: 650
-        isCached: true
-  - title: "ChatGPT-powered Chatty Cat app for Mac brings AI to pets"
-    excerpt: "Unlike other ChatGPT-powered apps or extensions, Chatty Cat for Mac brings six different pets to interact with you throughout the day."
-    publishedDateTime: 2023-04-28T21:06:00Z
-    webUrl: "https://bgr.com/tech/chatgpt-powered-chatty-cat-app-for-mac-brings-ai-to-pets/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 37
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/04/chatty-cat-chatgpt-powered-bgr.jpg?quality=82&strip=all"
-        width: 1812
-        height: 900
-        isCached: true
   - title: "Viral: ChatGPT-AI, Google tech, gives voice to Boston Dynamics’ robot dog"
     excerpt: "A team of programmers has outfitted Boston Dynamics' robot dog, Spot, with OpenAI's ChatGPT and Google's Text-to-Speech speech modulation in a viral video."
     publishedDateTime: 2023-04-29T12:21:00Z
@@ -179,15 +36,6 @@ related:
       name: Interesting Engineering
       domain: interestingengineering.com
     quality: 33
-  - title: "9 Ways to Use ChatGPT for Small Business"
-    excerpt: "ChatGPT is a free and easy chat tool that can develop fairly well-written copy and help users brainstorm. Could it benefit your small business?"
-    publishedDateTime: 2023-05-01T12:38:00Z
-    webUrl: "https://www.businessnewsdaily.com/chat-gpt-business-uses"
-    type: article
-    provider:
-      name: Business News Daily
-      domain: businessnewsdaily.com
-    quality: 4
 
 secured: "q8tykWmX+IPIlY3HEIyo7LF0ZDpT4+CAmtQWa79MuH6rRsKWwYzVJBU7JXG6cwNzPdP4Ly3SJORmuS/lRaT2uzThTBEG4I0lHAjm9Myjuhd3tunctO4bhd0e1plFBoNHowaw5j5veDu0PGngbz0L4XtnW2hz1w2OASukrEgwLcxEIfuaaJd2e7guoboxP4fLKRsx6Ck4K3To/av6KGodWi8xMWsPwZ8xM309Pb/padvFZTp2b8aVaxRgQNRQG9iGxGH04AYCAnbkyqfQm+aP0GhFzjyAHL2OEEuAJuCqNf+96G12IbwY/Tm4kXojp1cB3xyL6HQcH1B41Pu5JgBGeGFTVREgd5HYCfEhcB4kn9E=;w0dakV0r5nuuv7H8GYBFhQ=="
 ---

@@ -2,40 +2,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_news/2023-04-23-manufacturers-hope-for-ai-boost-in-factories.md",
-      "title": "Manufacturers Hope For AI Boost In Factories",
-      "excerpt": "Manufacturers are hoping for the artificial intelligence revolution to reach their factories, envisaging robots being used to repair complex machinery.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/news/manufacturers-hope-for-ai-boost-in-factories-a1ba155f",
-      "originalUrl": "https://www.barrons.com/news/manufacturers-hope-for-ai-boost-in-factories-a1ba155f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/news/manufacturers-hope-for-ai-boost-in-factories-a1ba155f",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/manufacturers-hope-for-ai-boost-in-factories-a1ba155f",
-      "publishedDateTime": "2023-04-23T01:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-23-michael-schumacher-magazine-editor-sacked-over-ai-generated-interview-with-seven-time-f1-champion.md",
       "title": "Michael Schumacher: Magazine editor sacked over AI-generated 'interview' with seven-time F1 champion",
       "excerpt": "The editor of a German magazine that published an artificial intelligence-generated 'interview' with Michael Schumacher has been sacked.",
@@ -1182,6 +1148,58 @@
         "Google AI",
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-04-21-businesses-turn-to-facial-recognition-technology-to-avert-shoplifting-and-robbery.md",
+      "title": "Businesses turn to facial recognition technology to avert shoplifting and robbery",
+      "excerpt": "Fox News’ Douglas Kennedy reports that shoplifting and robbery crimes are up 22% from last year, prompting business owners to use facial recognition technology to stop repeat offenders.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/video/6325508060112",
+      "originalUrl": "https://www.foxnews.com/video/6325508060112",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8f9568c0-e2b3-4369-b71e-f2066447ffc9/c9ff9a97-7061-475b-bcd1-902a42a763be/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-21T09:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     }
   ],
