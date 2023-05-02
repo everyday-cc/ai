@@ -69,6 +69,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Siemens links up with Microsoft and IBM to deliver its vision"
+    excerpt: "At the recent Hannover Messe, Siemens announced partnerships with several key players in the OT/IT world, including IBM and Microsoft, aimed at"
+    publishedDateTime: 2023-05-02T16:09:00Z
+    webUrl: "https://drivesncontrols.com/news/fullstory.php/aid/7345/Siemens_links_up_with_Microsoft_and_IBM_to_deliver_its_vision.html"
+    type: article
+    provider:
+      name: drivesncontrols.com
+      domain: drivesncontrols.com
+    quality: 39
+    images:
+      - url: "https://drivesncontrols.com/images/7345.photo.3.jpg"
+        width: 420
+        height: 262
+        isCached: true
 
 secured: "4uEFQyPbwe5GieaFxQkC7Yc+wAm3dwe6irpFCm9t5MS71iD+F7kW5gtd/I98nq6yWrJaHkiVemrFmvam86pQhPmfsmPV6YoLS89t2tSvdb3eP8oTVDuD5WvhfnKA7Y5djWuaA6O8G4uXwzzoSQySiecFKkVoseTyNEfHwGZs8yiRQY6/yFJyFHoBsXKmocWf0FnfHdDKV/RqtyAERku/ze7s3hvs//yo3zGo+/XK+DLszWahkRebf503q84MF/6vy2/Tu6b4q6jdQ/ZyKe76fYB7bzHf9T5jGqLkmiqqCjwETRuhizEjrqn0volVETzDyAK0PNMnnKiYTZc+Za96/yMJywfvKgbNqsuZE4bTcZQ=;cvvWHJndmZJm8K5Qz6M0og=="
 ---

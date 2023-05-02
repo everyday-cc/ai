@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2023/05/02/sap-adds-ai-smarts-erp-softwar
 webUrl: "https://siliconangle.com/2023/05/02/sap-adds-ai-smarts-erp-software-ibm-watson/"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "SAP to Embed IBM Watson AI into SAP Solutions"
+    excerpt: "SAP will use IBM Watson capabilities to power its digital assistant in SAP Start, which provides a unified entry point for cloud solutions from SAP. With SAP Start, users can search for, launch and interactively engage with apps provided in cloud solutions from SAP and SAP S/4HANA Cloud."
+    publishedDateTime: 2023-05-02T15:59:00Z
+    webUrl: "https://www.datanami.com/this-just-in/sap-to-embed-ibm-watson-ai-into-sap-solutions/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 54
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-North-America23.png"
+        width: 1664
+        height: 674
+        isCached: true
   - title: "IBM Watson to be integrated into SAP solutions"
     excerpt: "SAP users will soon be able to count on AI assistance based on IBM Watson technology. The SAP Start Assistant will help organizations reach insights about"
     publishedDateTime: 2023-05-02T14:20:00Z
@@ -49,6 +63,6 @@ related:
       domain: cio.com
     quality: 34
 
-secured: "Rz1Za+iQx9NhfPzRAS2ckYkcXgU7qXDwO6c3KIs8uAi07PT1mHyPvvTPGNIpRIDYDivD+PjN5vVZMPb6k5A76JRgsilYRuIJ23x5aBmvftlZsZFp7ElRLzrpvH7oRaeuQG1f3mBC52fWIjfW8qzSGOYQNzRyGNMqG6/LOCIzzyeGM09dPVBUXylYDqOr6kyrHJGUy/CzWNM7dXHjwYNxuH/s5GHaoDsizkK1SGa/cqeLWnzuF3O4Hua9d7QT2KIczdnPsHq9YfZaLQ8e1aWSDk1GzHREd3XV2w6uaz8nT3MQhuYgT4GPb6/wBY9nOtyHHO/vUpaPOdQvXh6PNnF6AWDH59xi9V15Czz/RgXuxPA=;5j+Pyuxt0/NdPr/hom0j2g=="
+secured: "d1Zry5lQDVgjTWs50nfBTWI1d5cDwO8w3olnOf56J+6S2xJzRXhRDjUZBg80PDGc/eZXhocraL/xF18A9OPXqS90u4jjoNAmDSAYLOrjH0JYN9XTAyqwdNPKhfdvXEUmmP/wrNB1lHta7ytABm5YR16zBwYwCDA8LZE65f1u1JQ8Uxlgq+dHwZh+oFsEbsUPOVCWDRu1fWiDzo0F03AFtDEzkiyqd703w0vhxLrGXDPfQZVzMj/gJztFGeYXfG60ntAjgH2fJB9qyl9bjkEmFN3tPHBG4QxlH4i9uJS1/PMD9YaM0uBNYjo6x02R6jPIecZWnxkRertvI+b1O1YK1UDslvE//FbxwUK3lxA1N4NKPDKpaPVd595IudvU7MzxjAfv3QxFt2x6Wl27hBtARqO6tHHHxgh6paqAWRaVhZfsVcO2GLUR9FPRKkqUJmFrQ0BbuB0gbtMKH3N4rnzf8qqpZtKE5lvFQF67C35rzjXJQ+Ya/pAFgnBG/DVYGmBAmALboYJePYx0udyPv9CeHg==;JXGy+/heF6sB7w4p2RtGGg=="
 ---
 

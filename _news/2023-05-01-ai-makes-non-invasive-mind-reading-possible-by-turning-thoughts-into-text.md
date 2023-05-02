@@ -63,6 +63,22 @@ related:
         width: 900
         height: 506
         isCached: true
+  - title: "Goodbye privacy: AI’s next terrifying advancement is reading your mind"
+    excerpt: "Researchers have successfully created an AI system that “can translate a person’s brain activity” into plain, readable language."
+    publishedDateTime: 2023-05-02T16:41:00Z
+    webUrl: "https://nypost.com/2023/05/02/ais-next-terrifying-advancement-is-reading-your-mind/"
+    ampWebUrl: "https://nypost.com/2023/05/02/ais-next-terrifying-advancement-is-reading-your-mind/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/05/02/ais-next-terrifying-advancement-is-reading-your-mind/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 59
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/05/comp-2.jpg?quality=75&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Scientists claim AI-based decoder can translate thoughts into text"
     excerpt: "US researchers said their AI-powered decoder was able to accurately translate a person's thoughts into text roughly half the time."
     publishedDateTime: 2023-05-02T10:32:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.courthousenews.com/aurora-ceo-chris-urmson-on-self-dri
 webUrl: "https://www.courthousenews.com/aurora-ceo-chris-urmson-on-self-driving-trucks/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -26,14 +26,16 @@ images:
 
 related:
   - title: "Insider Q&A: Aurora CEO Chris Urmson on self-driving trucks"
-    excerpt: "Sometime next year, semis with no human in the cab will start carrying freight down Interstate 45 between Dallas and Houston"
-    publishedDateTime: 2023-05-01T13:47:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/insider-qa-aurora-ceo-chris-urmson-driving-trucks-98982755"
+    excerpt: "Sometime next year, semis with no human in the cab will start carrying freight down Interstate 45 between Dallas and Houston."
+    publishedDateTime: 2023-05-01T12:59:00Z
+    webUrl: "https://www.seattletimes.com/business/insider-qa-aurora-ceo-chris-urmson-on-self-driving-trucks/"
+    ampWebUrl: "https://www.seattletimes.com/business/insider-qa-aurora-ceo-chris-urmson-on-self-driving-trucks/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/insider-qa-aurora-ceo-chris-urmson-on-self-driving-trucks/?amp=1"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 4
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 24
   - title: "Aurora CEO Chris Urmson on the Future of Self-Driving Trucks"
     excerpt: "The prospect of a driverless semi is scary to many, but not to Aurora Innovation CEO Chris Urmson, who helped to build Google’s autonomous vehicle unit."
     publishedDateTime: 2023-05-01T17:50:00Z

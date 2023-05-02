@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "SAP to Embed IBM Watson AI into SAP Solutions"
+    excerpt: "SAP will use IBM Watson capabilities to power its digital assistant in SAP Start, which provides a unified entry point for cloud solutions from SAP. With SAP Start, users can search for, launch and interactively engage with apps provided in cloud solutions from SAP and SAP S/4HANA Cloud."
+    publishedDateTime: 2023-05-02T15:59:00Z
+    webUrl: "https://www.datanami.com/this-just-in/sap-to-embed-ibm-watson-ai-into-sap-solutions/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 54
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-North-America23.png"
+        width: 1664
+        height: 674
+        isCached: true
   - title: "SAP adds more AI smarts to its enterprise resource planning software with IBM Watson"
     excerpt: "Software giant SAP SE said today it’s expanding its long-running partnership with IBM Corp. to embed IBM Watson artificial intelligence smarts into its wide range of enterprise resource planning systems."
     publishedDateTime: 2023-05-02T13:00:00Z
@@ -49,6 +63,6 @@ related:
       domain: cio.com
     quality: 34
 
-secured: "cMlTaN9Z820wvuHlbvaRz6bENnoyWTSRnorJuSEWupo8/fTLcUevOoY7gNlNbmkyPh6qjHEEv70/tssQ6ywIGqhVRIpyvxxlceGpZKvcRCIs0kTwnBCrcWN9H8P9kirRpH5K2DzjNoZARZwKFegCNIItUkeyiDU1R12l6Xmy1QXpUC0aQ0Z71g+bGYGYHl/6kfdkLOQm9I0sML9ooxOfKovW31rEsjz3ksZzWKie8AfFYhTW61cjQNxpLraiFlj2wo0PfyggxBnv5M3yndxi94sTFgfZxiIY8toZqgawbYLR93VpkM1vjHA7xmBhSoTR1f7BZrkbHoC6M+ekHsmsyBGiVPOu9bRJ4G6OadHF//I=;mxiOXxVB5s0BcDN4LG/MSA=="
+secured: "x4gyhyDh9Fz5mwi1rtMKeE29HGkXGp2xhKqeasE3VfRwZg2vho6AUo/5CWyQdf6KO9e/zJ+ebGgkOKwDHMG1kYdgDWsSCLM4T4x2L6JgP9qGCHD7vFpXUszYHCJ5GO4wXXQ/78ueKpgmadcqqdtmVAWCXrU13wc1h6UWqepi+ZRXXIJ57i+Sl5wePbNV4aXjfDmRmoD1qZKnM8ZP3140+IgWHXZtvT5baTNQ584Z2oc/surlR468Mj3JMO25b2zj2n1p9qKSs8swcNn2/g0JIcO7mUkTcz6mcsWaY5UrXZ5OZpdsDiP3ZMgYhHP1IW+L82jV1kuybsUHct5egQDJuEHtk6ohaBiq+ZZFLlowjbDAhG4S5A15enhbPzsJV+Byyi2DPSGKB3CjMjdEfjK2j8auk+5SPW0uh7OEo+w+aj1e775yn90siWzNjv0n+UI4ED3AEe+R16Rbwi6e4W71BCzia1OOnrfR9TuYLHV1WoBy1lfMQct7H0HjTEeDWwLrenkIBx0J4DaQ+5HaWlJUdA==;ipdPdXde2rUPwk8REljejQ=="
 ---
 

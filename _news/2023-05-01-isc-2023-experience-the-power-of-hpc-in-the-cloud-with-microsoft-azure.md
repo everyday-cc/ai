@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/isc-2023-experience-the-power-of-
 webUrl: "https://azure.microsoft.com/blog/isc-2023-experience-the-power-of-hpc-in-the-cloud-with-microsoft-azure/"
 type: article
 quality: 104
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
       - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/promoted_content/promo/microsoft_dreamstime_7_2_1_2.jpg"
         width: 505
         height: 315
+        isCached: true
+  - title: "Siemens links up with Microsoft and IBM to deliver its vision"
+    excerpt: "At the recent Hannover Messe, Siemens announced partnerships with several key players in the OT/IT world, including IBM and Microsoft, aimed at"
+    publishedDateTime: 2023-05-02T16:09:00Z
+    webUrl: "https://drivesncontrols.com/news/fullstory.php/aid/7345/Siemens_links_up_with_Microsoft_and_IBM_to_deliver_its_vision.html"
+    type: article
+    provider:
+      name: drivesncontrols.com
+      domain: drivesncontrols.com
+    quality: 39
+    images:
+      - url: "https://drivesncontrols.com/images/7345.photo.3.jpg"
+        width: 420
+        height: 262
         isCached: true
 
 secured: "vDmqYIUYdMdZMJTb/lF/wkE/63aAF3Qp2kmMBhyCCgtdkMvNGcIrB3Zf1iVPjsoW0U0m4zrz3HzSHbgANIN8SZcaIT+ZcDZo90w8NtdLcLGkFBs8K5T6cHsQKIFgERT3g74lxtmPMeP3acEwxGHRCkP8ubkf/cZdPwJJvmNi3yk8x5oG01QgXVun4BlRhC0r5g8mddF4bf4CEFQVbT39sa8KRCJURUsnzvgcYJRE1mv6q1RNGrfsROXVNjamnQf5joMkP0zdZJNMG2CtK5vrFIsp9RTLoBgRtPDe+Pm0A+X35ALKJtI5m1JSGNnRbBu+ME02bNNTL3NJAa9YTGWsKcEoEB2+T6QFqFlrNuqThck=;TZEQkfp4RMaX+iVu+uLjOA=="

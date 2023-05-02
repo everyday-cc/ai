@@ -7,7 +7,7 @@ originalUrl: "https://www.foodnavigator.com/Article/2023/05/02/machine-learning-
 webUrl: "https://www.foodnavigator.com/Article/2023/05/02/machine-learning-algorithm-predicts-ultra-processing-in-food"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     height: 500
     isCached: true
 
-related:
-  - title: "Hummingbirds, 3D Printing, And Deep Learning"
-    excerpt: "It seems that machine learning and wildlife cams are a match made in heaven. We’ve already written about a proof-of-concept project which identifies different animals in the footage when motion ..."
-    publishedDateTime: 2023-04-27T23:59:00Z
-    webUrl: "https://hackaday.com/2018/08/31/hummingbirds-3d-printing-and-deep-learning/"
-    type: article
-    provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 39
-    images:
-      - url: "https://hackaday.com/wp-content/uploads/2018/08/hummingbird_featured.png"
-        width: 1821
-        height: 1025
-        isCached: true
-
-secured: "een79hVkF8+TtfV0vzYpwuNuIAB2JvYLd4I//ZjENDFUH/B2EACEJPJ+4HW/X+P8Cx1LPjdM6UsQgVn51QNUjzxvq3WjU8JaZx4E8jXKboAbXyOArvpsGR9/eyrlE9M3lLsV4094kpjzTf8xnE03iqd+O0NArN7QB4ZrqKo/W/GbcK8n6Wem/b3usL/uZ398S1ZPlN5LTLAXIGrJfof9+dMNVEqQFyaooXKsmPnsuDblNZYiLe/ga9ml6DhOk30dHLA8YE0cw6ZkyKrvCJQhrmehY6Yg5HMVer/1hOElr60SMwAqnnEKBlydOENzWoXw0b2iY7MVUEU2RoYK6YgLlkC4ehmCukKp88RUKvegh2M=;IVz/znlpRFb5iZR5lpQF/Q=="
+secured: "R+/ELQ38TVVbS4KlJa9TVmPXnIthkNlBDSt7HLYbXCRMnKvXB7DVcN8ZSlbrQeepFGIcKAZ2bqciD33yJLOs8jhxM8VNPudmY7+Wdprjuw9OCtFKfwRHxBAcY6Z0d/+fLDbIE3OD1SoeOMZ2yHaNK0irAukwpcjb8Y8O/qYrwMlP/+eFiq02w/ZGnhRc2+iSW9fPdD64EMXaTWS+JRPOYYuW78Y4SVdGQ6DoWVYrZyNTYhM2rIvJvAbfb3cSbffKCyYmeZsnDZx7wpMP9PQ+pDKVbXYpRyNIY79xnYwrnDZTpbTAJB8uES1LrTf2aeGiG7OJ0bfU9Lhmu3RkZCsISLXIKUFuNz18wRzWxsdtnhJ1EkkSs01PO2vTtV6emzywNYZv35LGnpmEakDL5M2Qo7HenEZgCUEGAHY2h3NQu9ZkPlqPgylaK3kXC9E63gEErYeqx5g3o4DLsCkjPGXzxdrdXKtrjfUoaDgLWnIFQnGpLC4r3N+7kCQU2q/ooob2kD+27euhjzCPN6Kg6Q+MdQ==;3DsB0pSWLpOQYaeeXKHRvg=="
 ---
 

@@ -165,6 +165,22 @@ related:
         width: 750
         height: 393
         isCached: true
+  - title: "‘Godfather of AI’ leaves Google, warns of tech’s dangers"
+    excerpt: "Over his decades-long career, Hinton’s pioneering work on deep learning and neural networks helped lay the foundation for much of the AI technology we see today."
+    publishedDateTime: 2023-05-02T17:24:00Z
+    webUrl: "https://www.wsfa.com/2023/05/02/godfather-ai-leaves-google-warns-techs-dangers/"
+    ampWebUrl: "https://www.wsfa.com/2023/05/02/godfather-ai-leaves-google-warns-techs-dangers/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wsfa-com.cdn.ampproject.org/c/s/www.wsfa.com/2023/05/02/godfather-ai-leaves-google-warns-techs-dangers/?outputType=amp"
+    type: article
+    provider:
+      name: WSFA
+      domain: wsfa.com
+    quality: 57
+    images:
+      - url: "https://gray-wsfa-prod.cdn.arcpublishing.com/resizer/3NV-xN2RgJVLgsTlweysjcGjrig=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/XNDOLXCOXBH3ZK5EXBRKRPS3FA.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Deep learning pioneer Geoffrey Hinton leaves Google, warns of AI risks"
     excerpt: "Hinton (pictured) also argued that researchers should slow AI development until the risks associated with the technology are more clearly understood. Hinton, a professor at the University of Toronto,"
     publishedDateTime: 2023-05-01T17:41:00Z

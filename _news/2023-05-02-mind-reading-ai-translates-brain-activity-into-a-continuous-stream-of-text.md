@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/technology/mind-reading-ai-translates-brain-act
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/technology/mind-reading-ai-translates-brain-activity-into-text/?amp=true"
 type: article
 quality: 102
-heat: 142
+heat: 152
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://assets.telegraphindia.com/telegraph/2023/Mar/1678740483_artificial-intelligence.jpg"
         width: 900
         height: 506
+        isCached: true
+  - title: "Goodbye privacy: AI’s next terrifying advancement is reading your mind"
+    excerpt: "Researchers have successfully created an AI system that “can translate a person’s brain activity” into plain, readable language."
+    publishedDateTime: 2023-05-02T16:41:00Z
+    webUrl: "https://nypost.com/2023/05/02/ais-next-terrifying-advancement-is-reading-your-mind/"
+    ampWebUrl: "https://nypost.com/2023/05/02/ais-next-terrifying-advancement-is-reading-your-mind/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/05/02/ais-next-terrifying-advancement-is-reading-your-mind/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 59
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/05/comp-2.jpg?quality=75&strip=all&w=1024"
+        width: 1024
+        height: 682
         isCached: true
   - title: "AI makes non-invasive mind-reading possible by turning thoughts into text"
     excerpt: "Advance raises prospect of new ways to restore speech in those struggling to communicate due to stroke or motor neurone disease"

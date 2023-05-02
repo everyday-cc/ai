@@ -212,20 +212,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
-  - title: "Special Series: How Generative AI Changes Everything"
-    excerpt: "ADI IGNATIUS: Join us for a new special series: How Generative AI Changes Everything. We’ll be talking to business leaders at the leading edge of this innovation as well as experts, who in some cases are questioning the ethics and speed of this rollout."
-    publishedDateTime: 2023-04-27T23:34:00Z
-    webUrl: "https://hbr.org/podcast/2023/04/special-series-how-generative-ai-changes-everything"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 39
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2020/09/wide-ideacast.png"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "We must rein in the precocious Generative AI children. But how?"
     excerpt: "More than a thousand people, including Elon Musk, Yoshua Bengio, Stuart Russel, Gary Marcus and Andrew Yang, called for a six-month moratorium on training systems that are “more powerful than GPT-4”, arguing that such systems should be developed only when the world believes it can contain the risks ."
     publishedDateTime: 2023-04-28T03:02:00Z

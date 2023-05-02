@@ -216,19 +216,21 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Chatbot Gone Awry Starts Conversations About AI Ethics in South Korea"
-    excerpt: "The “Luda” AI chatbot sparked a necessary debate about AI ethics as South Korea places new emphasis on the technology. In Spike Jonze’s 2013 film, “Her,” the protagonist falls in love ..."
-    publishedDateTime: 2023-04-27T23:59:00Z
-    webUrl: "https://thediplomat.com/2021/01/chatbot-gone-awry-starts-conversations-about-ai-ethics-in-south-korea/"
+  - title: "Chatbot ‘journalists’ found running almost 50 AI-generated content farms"
+    excerpt: "Websites churn out content, often advancing false narratives, to saturate with adverts, says anti-misinformation firm"
+    publishedDateTime: 2023-05-02T16:45:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/may/02/chatbot-journalists-found-running-almost-50-ai-generated-content-farms"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/02/chatbot-journalists-found-running-almost-50-ai-generated-content-farms"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/02/chatbot-journalists-found-running-almost-50-ai-generated-content-farms"
     type: article
     provider:
-      name: The Diplomat
-      domain: thediplomat.com
-    quality: 54
+      name: The Guardian
+      domain: theguardian.com
+    quality: 56
     images:
-      - url: "https://thediplomat.com/wp-content/uploads/2021/01/sizes/td-story-s-2/thediplomat-2021-01-15-12.jpg"
-        width: 600
-        height: 310
+      - url: "https://i.guim.co.uk/img/media/e2301359f7e6899aa7dfb79e07a0f76519d2eed3/0_233_5700_3421/master/5700.jpg?width=620&quality=85&auto=format&fit=max&s=952570695e00a2b4dd8276d54ea418f2"
+        width: 620
+        height: 372
         isCached: true
   - title: "Are AI Chatbots, ChatGPT the Solution to Healthcare’s Empathy Problem?"
     excerpt: "A new study found that AI chatbots like ChatGPT answer patient queries with more empathy, making the tool useful for providers managing secure direct messages in the patient portal."
@@ -381,6 +383,20 @@ related:
         width: 1000
         height: 650
         isCached: true
+  - title: "AI Writing and the Future: A Guide for Marketers in a Post-ChatGPT World"
+    excerpt: "ChatGPT has revolutionized the marketing industry when it comes to producing content. Here is a blog on the effects of ChatGPT on marketers and more."
+    publishedDateTime: 2023-05-02T17:39:00Z
+    webUrl: "https://www.techwyse.com/blog/online-innovation/ai-writing-and-the-future-a-guide-for-marketers-in-a-post-chatgpt-world/"
+    type: article
+    provider:
+      name: TechWyse
+      domain: techwyse.com
+    quality: 38
+    images:
+      - url: "https://www.techwyse.com/wp-content/uploads/2023/05/AI-Writing-and-the-Future-A-Guide-for-Marketers-in-a-Post-ChatGPT-World-1.png"
+        width: 800
+        height: 418
+        isCached: true
   - title: "ChatGPT-powered Chatty Cat app for Mac brings AI to pets"
     excerpt: "Unlike other ChatGPT-powered apps or extensions, Chatty Cat for Mac brings six different pets to interact with you throughout the day."
     publishedDateTime: 2023-04-28T21:06:00Z
@@ -435,7 +451,7 @@ related:
     provider:
       name: TheStreet.com
       domain: thestreet.com
-    quality: 11
+    quality: 13
   - title: "expert reaction to study comparing physician and AI chatbot responses to patient questions"
     excerpt: "April 28, 2023 expert reaction to study comparing physician and AI chatbot responses to patient questions . A study published in JAMA Internal Medicine compares physician and arti"
     publishedDateTime: 2023-04-28T15:53:00Z

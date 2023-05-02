@@ -72,6 +72,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Automated Machine Learning (AutoML) Market 2023 Size, Shares, and Future Forecasts to 2031"
+    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
+    publishedDateTime: 2023-05-02T11:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-2023-size-shares-and-future-forecasts-to-2031-2023-05-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 74
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Deep Learning Market Global And Regional Outlook, Trends, And Forecast"
     excerpt: "A Deep Learning market report is a comprehensive analysis of a Software and Services industry, providing valuable insights into its current and future trends, opportunities, and challenges. This market report is used by businesses,"
     publishedDateTime: 2023-04-28T14:32:00Z

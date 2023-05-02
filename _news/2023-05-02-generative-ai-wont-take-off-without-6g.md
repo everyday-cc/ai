@@ -214,20 +214,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
-  - title: "Special Series: How Generative AI Changes Everything"
-    excerpt: "ADI IGNATIUS: Join us for a new special series: How Generative AI Changes Everything. We’ll be talking to business leaders at the leading edge of this innovation as well as experts, who in some cases are questioning the ethics and speed of this rollout."
-    publishedDateTime: 2023-04-27T23:34:00Z
-    webUrl: "https://hbr.org/podcast/2023/04/special-series-how-generative-ai-changes-everything"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 39
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2020/09/wide-ideacast.png"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "We must rein in the precocious Generative AI children. But how?"
     excerpt: "More than a thousand people, including Elon Musk, Yoshua Bengio, Stuart Russel, Gary Marcus and Andrew Yang, called for a six-month moratorium on training systems that are “more powerful than GPT-4”, arguing that such systems should be developed only when the world believes it can contain the risks ."
     publishedDateTime: 2023-04-28T03:02:00Z
@@ -268,6 +254,6 @@ related:
       domain: siliconangle.com
     quality: 19
 
-secured: "5gpaY3sIa3PQKt/TJ5EcmUQFOAwYUvxWbzwy6XgE5s8TOBM5RUMlJclr3kqlK+waVb+MkkMVfPlaigSRzO7WnjdoCk7k0g3E7CR43MS1iyH0/H5XwuhZUKz0QH7dMAw8DgxMLfgH1rw2EXDqm61jyN/IDeoljW2m6oJHakGxNzSsX79iVJbYQG6Ls/Za2H07mEbxIvPJGaw/WTW3MsPzyRCiwD9zUuWZR1+pFN3EcWkB5oEsobdvrApmLZTiWJSJDpJxPNwnkqjW2TvlpKCyitGXSxff9piK8ZP3B7rAGYBu7U14+fmVGoWjpJrO28//RIRIwfEZTRkwlRybQPStkw7SWAPj57Xf7uNWJ+KRJ3E=;AG4UPo24KS1CLzd7x7uNag=="
+secured: "SlZHN2/ccK2DObwzS2Ea/icQgW3rqJf78gsjC6Zwna9/HlliPvV9FkXL3ak9nvO15w8d5RFUM95h4EtTrmtvJ1E+SlajPBFZ6weD/D0NzMTLM59hO8armNYd1OFEJaewVkRnkottoRcXA25fLtqzJOgIdyTKlENbxxHNexzl88JReALN4C8LmXMbDfbWMnHelaa+Ky3e2Yrj4lQgFr+Nbh3O1BHwpt9hUS6lsmB3XMdI0B5LATmRCuomrSzIHh+Z2orxvmJBEzCRmJBsaJXYuj4V3hgCdZQ0sU8bzZZzYBONrFbuBmpOkff0pU+1IVfJnsbaHro9pqJ5buP0FwBsqFuzxIGTta0H0aYvhK0nQiXD6zuYlTbjE8eKSI0n7NV+dSnLFAAt95JwSkjWLa3zY+YSlD0ZD+8cuwk7T7O+dftgyAGOukPEuEYCPHfBTFmc/Kq+Jhno4tXOVq66d4ylnJ6M3flIyEONVBIwJBJgfWCWsxMU5TiAnnPUGaR+EqCRlGpSqPMUn2Gw2uWG0G+1JQ==;K8sv+ppnTu3Kv7IzICB3rw=="
 ---
 

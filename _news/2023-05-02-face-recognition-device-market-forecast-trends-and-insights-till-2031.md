@@ -57,19 +57,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Review launched into rules governing facial recognition data"
-    excerpt: "A government panel is considering whether stricter rules are needed for companies that handle facial recognition data. The Personal Information Protection Commission (PIPC) is mulling new ..."
-    publishedDateTime: 2023-04-27T23:59:00Z
-    webUrl: "https://www.asahi.com/ajw/articles/14508024"
+  - title: "US city ends facial recognition moratorium, considers new rules for police"
+    excerpt: "City Council in Baltimore, Md. is moving to regulate the use of biometrics by city agencies, including police, after a change in local law enforcement control."
+    publishedDateTime: 2023-05-02T16:20:00Z
+    webUrl: "https://www.biometricupdate.com/202305/us-city-ends-facial-recognition-moratorium-considers-new-rules-for-police"
     type: article
     provider:
-      name: 朝日新聞社
-      domain: asahi.com
-    quality: 39
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 37
     images:
-      - url: "https://p.potaufeu.asahi.com/33ad-p/picture/26551601/841e78f590d1ac87d0500ebc876f4573.jpg"
-        width: 660
-        height: 437
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/10/21112034/police-body-camera.jpg"
+        width: 937
+        height: 482
         isCached: true
   - title: "Machine Learning in Communication Market 2023 [Latest Report] Size is Expected to Grow at a Phenomenal CAGR till 2030 | 128 Pages Report"
     excerpt: "The Machine Learning in Communication Market Scope and Overview Report for 2023 presents a detailed analysis of the"

@@ -71,19 +71,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Review launched into rules governing facial recognition data"
-    excerpt: "A government panel is considering whether stricter rules are needed for companies that handle facial recognition data. The Personal Information Protection Commission (PIPC) is mulling new ..."
-    publishedDateTime: 2023-04-27T23:59:00Z
-    webUrl: "https://www.asahi.com/ajw/articles/14508024"
+  - title: "US city ends facial recognition moratorium, considers new rules for police"
+    excerpt: "City Council in Baltimore, Md. is moving to regulate the use of biometrics by city agencies, including police, after a change in local law enforcement control."
+    publishedDateTime: 2023-05-02T16:20:00Z
+    webUrl: "https://www.biometricupdate.com/202305/us-city-ends-facial-recognition-moratorium-considers-new-rules-for-police"
     type: article
     provider:
-      name: 朝日新聞社
-      domain: asahi.com
-    quality: 39
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 37
     images:
-      - url: "https://p.potaufeu.asahi.com/33ad-p/picture/26551601/841e78f590d1ac87d0500ebc876f4573.jpg"
-        width: 660
-        height: 437
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/10/21112034/police-body-camera.jpg"
+        width: 937
+        height: 482
         isCached: true
 
 secured: "nYbVkhbmD1OFwUYfq15OC35HAhN8mUy3MHzUmwWwFsvJYS3tGKRb7Vl5frnwybaSEgVEtdkgwZfJ4cAA7XvWE7vF8CZgAoSbE/aZZh1GYG25TUsBs0UR2e/MW1pO5hifXc1EvJjoQfG1Bt297Kd+ZvCr72Rv9QcjfiG1vlzQKSaCBnpQXBB/q13mXKkfmr6Eq/WZjqrJ7CAM6OmjoIywB9riAu9OSYG6hEwIDMjc+Ko4CR9MbLBAi/MF/zfQQhbPLOQ+QJ5XSKWTyd5FMDGtyKAoOLtEAbhZeNYZW4/aoL4yM+lf9Qowxd4qfxlZf/7weJQJ0c+P7dxDhA7WStxDzfKz/LvjtozHvo0vP5ATE9w=;SQk65KSXGd4o234OmbJhpg=="

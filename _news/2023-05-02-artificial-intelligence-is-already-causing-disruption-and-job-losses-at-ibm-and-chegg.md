@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/jackkelly/2023/05/02/artificial-intelligen
 ampWebUrl: "https://www.forbes.com/sites/jackkelly/2023/05/02/artificial-intelligence-is-already-causing-disruption-and-job-losses-at-ibm-and-chegg/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2023/05/02/artificial-intelligence-is-already-causing-disruption-and-job-losses-at-ibm-and-chegg/amp/"
 type: article
-quality: 80
-heat: 80
+quality: 82
+heat: 82
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/615077097475eceab8f6ae3e/0x0.jpg?format=jpg&width=1200"
@@ -29,6 +30,6 @@ images:
     height: 796
     isCached: true
 
-secured: "uM3+L8pVJwyIaNzND+51U4BMLq++TbIvN9ceyt/SXadSjHxkmlv79oq+0cpPfTX+8SpgDwmtLnbX47Ob3g6h30J/BWvkSO5Om4lqOwq+2FcSThwvIwMDdGBe69bObTQjYUvsAd1J0x3ahmFSyDnwCEl4zdA2z6BWlKZFZXvYXEORckdELdwC4K0ZY8JnuhuiPKRi0OUqWa97/OllBIJ8iKbJK44wQmEBWGbM5q1bxdmAO2dYb4aeJsk0Ghu97zibC63X9c/Rq/LMh9uz6vZjThR5ULG6ofvP+i9RHrvC6qZctN7rR+9nms4Fs4srjt0P9KUXKo4bO7Axevqir7UyuHt6M6p49TPL+vFvRpQxGZU=;vMS9xL8sP4mo6p8UA1XVRQ=="
+secured: "6NwNT08E5n3amyuQ4TTRR12efYKTtwJwAIL4UsDaFRa7hVidO5uQkNwL2rVKxs5GL+i8gmbgXk4m1aEP2pxGSH1QwUfkoWjy/R0PEh5KkMvvR0lIgvHVJcT4X/aHdqbzaQ3HO1jpxx6O4dMqIggTK6te4JOOfEErRS0lahL6nl4XAo9ez9BvYujwaPIVYb58NsJtXlJ+7nTNfhBbEu8BsI6zntpgityyTkEaAVG2no/rJi/ebKEaOATRq7TYuZTWO8VKvyJ811J9kHWkg+YHWrCsaVrslO7fRf2yjcuwm6rBSRKxA5dypX5algB1KePDzSs4O1k7Fxy2fy32Yt7S+dYNspv1eBsDy5CRV3rB7t2Dtjo9lEUleknTn6TYhXnBM8WOsmc7IZc5mPpfqdjhgFMId7pm3a9D1b52ZSyJtinsvN4DGNxNT9pPMuM2sUoZtZIxVpP8RqK66inXNXQLtm64ixFxTte/KR2Yl4ySOLoLLpHJUxUJbWxJQtKlpVvVm5sDWwHehoZxbAfdMNplnw==;gX/rLFnpwYY9ceEIFfAgcA=="
 ---
 

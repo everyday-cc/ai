@@ -1,20 +1,28 @@
 ---
 category: news
 title: "WiMi Develops a 3D Object Recognition System Based on Multi-View Feature Fusion"
-excerpt: "BEIJING, April 13, 2023 /PRNewswire/ -- WiMi Hologram Cloud Inc. (NASDAQ: WIMI) (\"WiMi\" or the \"Company\"), a leading global Hologram Augmented Reality (\"AR\") Technology provider, today announced the development of a 3D object recognition system based on ..."
-publishedDateTime: 2023-04-13T12:11:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2023/04/13/wimi-develops-a-3d-object-recognition-system-based-on-multi-view-feature-fusion"
-webUrl: "https://stockhouse.com/news/press-releases/2023/04/13/wimi-develops-a-3d-object-recognition-system-based-on-multi-view-feature-fusion"
+excerpt: "WiMi's 3D object recognition system based on multi-view feature fusion consists of three main parts: viewpoint information selection, feature extraction, and feature fusion. The viewpoint ..."
+publishedDateTime: 2023-04-13T12:03:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/04/n31785264/wimi-develops-a-3d-object-recognition-system-based-on-multi-view-feature-fusion"
+webUrl: "https://www.benzinga.com/pressreleases/23/04/n31785264/wimi-develops-a-3d-object-recognition-system-based-on-multi-view-feature-fusion"
+ampWebUrl: "https://www.benzinga.com/amp/content/31785264"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31785264"
 type: article
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "Rk0z4+EyBxDDGErIpfIh1tdl6997vn2wy7x4HjfwyJqq8lX33pWyMoJzKHbMpLswkZpl6M5iekrrTz+KGW8HhQtDfx0+e6Z837GrtVPGINsWYn2Xj+2AOtGrqIXh5SzTyF0wCqQ0IcRRriwSuwUeGmvE45CXnQPP2GohzL9cEuT86m7dW/5FYRbMizx9LJbgF7mAhjwintXHLcVGIoui96bkMr7g+/tWM8YwPBkFd7XWfPRf9abXMkOAwLX6p0z72JWltsmzQtVFfN3CN4lTt6YW8csoXvg5Wfd77ESauro9QgAbUmBb1xtTXC2CTqlnXe5lFtu+bfkMCK6/cnk+tnvIZTIltcFl0rJdrp8PCDU=;hWJGsi0eRqKGspFWhnJolA=="
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
+
+secured: "msEaCRpYRaq7lt4J9UKiapQy0tS5wo6sN6I59tanGVQGr8L+0aEJ1W8nkWK9KyT788BQJd0rAzBk1wXm9YqjXwWTzinluZX0vFnaV66/SzxlG528pKEJSPTtQ3dpKdvTGdsoNag7N1qS25NnE7MxtctzNVZDZ2DVYajykiXMYMIXmatXXSzT09bkGXNBsGFR0ycKrnDZG4tscEXJ9Ux2IP7xxhiJHKuve+E6qlubm2+aM+26qlidwq9NEcxTvMn3jbnfYXXz9zgpC+4WYqgRYmlLQ1/M3sadEaND4ZnarcGQ39qUFT2+4LzvbUJYKnJMoOt9eqIMNmU6ERqOLlNvk20RAaPCSF1oE0Dbo/JYimU=;IONsiJlpVpv1ifnX20FM3Q=="
 ---
 

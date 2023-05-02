@@ -38,6 +38,22 @@ related:
         width: 1024
         height: 1024
         isCached: true
+  - title: "Artificial Intelligence in Eye Care: A Trending Transformation"
+    excerpt: "Artificial intelligence is helping to expand the physical abilities of eye clinics and hospitals to perform repetitive tasks with less error and more efficiency."
+    publishedDateTime: 2023-05-02T17:21:00Z
+    webUrl: "https://www.medindia.net/news/artificial-intelligence-in-eye-care-a-trending-transformation-211614-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-in-eye-care-a-trending-transformation-211614-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-in-eye-care-a-trending-transformation-211614-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 59
+    images:
+      - url: "https://images.medindia.net/amp-images/health-images/An-eye-care-professi.jpg"
+        width: 1200
+        height: 1000
+        isCached: true
 
 secured: "tWsthcJorFWcb4sn+koD0L9cjyhoe3/4f5x82ZhU6GWBB5scQ6aJjetyI/vnaE8ydmAEoUbAIrCY3ZZomtFSeH1Z7PJx5qGbnqOfbdWuWS1pEObGP9H3YQCs9sOS4P8xmYH08IpzNykH1uzwWgymQR2/c+IWAHIBEoRFHrO0cI+HezHb3gaaT+bEB5YGqX/HSvKGrc5jUsccv3PXR8GTNISJ9O3Spz2+jJw1YRcjX9xBwppMK/4K9RqOauZPEjLnDrkSkbChCOvxgucAv5lRHZeXMtSz32gP6WER3vUz+Wq0ufRMDquL94gADpj0t0rc4V4s9biJOxBQmFAaBKN3MT6VqogLgx8JJi5pFZ/XXhs=;1nCy+5uotTAqs3Rt0V6cPg=="
 ---
