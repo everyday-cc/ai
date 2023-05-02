@@ -128,6 +128,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "The Ultimate Q1 Cloud Earnings Battle: Google vs. Amazon vs. Microsoft"
+    excerpt: "Analyzing the Performance, Strategies, and Innovations of Google, Amazon, and Microsoft in Q1 2023 to Determine the Future of Cloud Computing and the Race to Dominate the Market."
+    publishedDateTime: 2023-05-02T06:49:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2436787-the-ultimate-q1-cloud-earnings-battle-google-vs-amazon-vs-microsoft"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2436787-the-ultimate-q1-cloud-earnings-battle-google-vs-amazon-vs-microsoft?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2436787-the-ultimate-q1-cloud-earnings-battle-google-vs-amazon-vs-microsoft?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 61
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/02_05_2023_12_16_41_3519339.jpg?width=1280"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Here’s how Microsoft plans to reap billions from AI"
     excerpt: "The company hopes steal search revenue from Google, help businesses build their own chatbots and AI tools, and incorporate AI-enhanced productivity tools across its product lineup."
     publishedDateTime: 2023-04-28T01:36:00Z

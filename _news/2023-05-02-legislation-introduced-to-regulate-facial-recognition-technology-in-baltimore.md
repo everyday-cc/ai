@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wmar2news.com/local/legislation-introduced-to-regulate-f
 cdnAmpWebUrl: "https://www-wmar2news-com.cdn.ampproject.org/c/s/www.wmar2news.com/local/legislation-introduced-to-regulate-facial-recognition-technology-in-baltimore?_amp=true"
 type: article
 quality: 58
-heat: 68
+heat: 58
 published: false
 
 provider:
@@ -26,17 +26,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Is Facial Recognition Technology a Blessing or a Curse?"
-    excerpt: "Facial recognition technology could be a curse or a blessing. Chances are, if you ever walked in a crowded area in a major city, you have been recorded by some sort of closed circuit television. N, Those images,"
-    publishedDateTime: 2023-04-27T13:15:00Z
-    webUrl: "https://www.trtworld.com/video/tv-shows/is-facial-recognition-technology-a-blessing-or-a-curse-12992514"
-    type: article
-    provider:
-      name: TRT World
-      domain: trtworld.com
-    quality: 19
 
 secured: "Tmnzk6LAfC8xcgn6k9DcG3F79ZlExpfPxB4h+4XWjcQkfXLOJokUaoNhGuu7f2+pZ7+0/y1hun8akt0n1uliR8Fr9GMY2P2a4xNKS1f5fNIPVKTtyGqrlu+wLiGlZozVCXN0pftAoDIV3Lhp0w9Xia0sr5pKUkLS35e/+JZCW4k0INNZa9NbL6pzDV03hCGVZJiAxsg8DUUG8qJSq/AXX5JUJBPE7DrRBSeIkiXVtxe2qQ9Jnm4ojymfG0ZcDYt38FwnOfxTlEo5+eaBOzUEZ36CDqLFKnp6qF9L28PXgg2hDzm9ssVVrzGUN7B9JCDk299Yq7+u+BgkWozXTIFh7iiWS6kqShNGK0m+6RdBCfuCDJdDI8k4bKz8mv3BumBEWvSKT8SJAKiyvgBgHZ/gaoE9v0j4lbKUT0WXzid1kyYg3PMKKTRawzeQJNyW/hJyXHCqH5pIdlHg7pyRxI2Qsc3RXjum03kLCRDu6cMzMkzLXTafDB4q8CXUmjeLTIRx+Q9lbTfZEYS7V3PwIVjxyg==;Cum3JQpZaTjpWa4Z2IeyWg=="
 ---

@@ -74,6 +74,20 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Using Artificial Intelligence to Speed up Discovery of New Drugs"
+    excerpt: "Experts see a bright future in the complementary use of artificial intelligence (AI) and structure-based drug discovery for drug discovery. Researchers explain how computational methods will streamline drug discovery by predicting which drug molecules are most likely to bind with the target receptor."
+    publishedDateTime: 2023-04-30T22:01:00Z
+    webUrl: "https://neurosciencenews.com/ai-drug-discovery-23150/"
+    type: article
+    provider:
+      name: Neuroscience News
+      domain: neurosciencenews.com
+    quality: 41
+    images:
+      - url: "https://neurosciencenews.com/files/2023/04/ai-drug-discovery-neurosicences.jpg"
+        width: 1200
+        height: 915
+        isCached: true
 
 secured: "nrMVILdY2u0MeP2kT/sQEnHIHX39bsJGtGkxUR+sT+p3AbIn8rWLqHjO4tiwtRyQ/dq2iryN+mKsG1HzZiygXNMS902wdHLaMsWpo2zpB6jIHVvEVzg2/LFnn6dNNgGre7tORA7bdwseoftS6ueDXi5EEh7fgTAm+C7t+Cp2EbNC4+vd0HPvKGQrDJr62oZnivNrmx7Qd6CyshL6cMPu4cQB0S9hbkGmlUlD1MTJwluLgeE+svf+Qz1VtP52v18hHbStnkRh/W4f8V04++1vdjnsglpebdullk+uVP1Q0vHGdQp39J7wWy3inJe/XwWCA3R/UhaVwihj7jN0YOMDfZLyIuKbK5uh+crGX06rou4=;2jLH8AfzpHKduJau5Hxb/Q=="
 ---

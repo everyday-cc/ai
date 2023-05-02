@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo171959877938"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo171959877938"
 type: article
 quality: 87
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 1920
     height: 1080
     isCached: true
-
-related:
-  - title: "Gen AI For Generating Value: Experiential Learning"
-    excerpt: "The short- to medium-term outlook for generative AI will continue to see various firms using the public (generic) language models at their disposal."
-    publishedDateTime: 2023-04-27T13:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/27/gen-ai-for-generating-value-experiential-learning/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "PT8pczqGNaTZ5hWObeXXvuoN2zYzvMNHCkSNu9H8CCH3Ignkg1ZZq+bRGrX5cQE0GnbMYxNf9Rlu7HsZE70YJNyHIz6JChZ2dTdE5gAaI2jEKVEYKL1egxanknpEboSDo9O35oSPKztlkxpgjIQL5QISCxYtz5iKTPKS+quOV2EuPeX077z7gybbWtNp9LBic7tX/333YRjhqnfYAOWE7OA4nN72FoCyQ//95zZ7DLeh8N4KJVGqQ2cTrHqYiXdDlGlRkJGNwofv9v2A90ANc5n+qbgLfdFKdi+goZi/O+/Isus+DUfVZCJWtqQDBXnqWzieoCIJDPhBUYPoKp1BuIg8rcJyphNSMKQ7GisVDGPvov3IUlxuQvVFEgrzkFshep5a0GHFBKL5JgKxPOxbvRG6x3ijHx6vg/gI7MHdBuKAr56tnBMSSwj7e7j1aWpbDiI67V943fMuA1i/a9SodKlwC7kuk+HlxckihLhDAxbVk1Mf0+mAB7/flwRbMhx9ihkKCShQ+s2lpzFFPaCCZg==;VQLVVZYouVrQRMGH/9viKw=="
 ---

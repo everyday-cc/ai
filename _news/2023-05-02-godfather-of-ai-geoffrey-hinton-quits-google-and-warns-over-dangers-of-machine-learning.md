@@ -204,6 +204,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "'Godfather of AI' quits Google to warn of the technology's dangers"
+    excerpt: "Geoffrey Hinton, who created a foundation technology for AI systems, said that advancements in the field posed ‘profound risks to society and humanity’."
+    publishedDateTime: 2023-05-02T07:51:00Z
+    webUrl: "https://www.thejournal.ie/ai-scientist-warns-of-danger-6057791-May2023/"
+    type: article
+    provider:
+      name: TheJournal.ie
+      domain: thejournal.ie
+    quality: 37
+    images:
+      - url: "https://img2.thejournal.ie/article/6057791/river/?height=400&version=6057808"
+        width: 613
+        height: 400
+        isCached: true
   - title: "Godfather of AI quits Google to warn us of the dangers of products like ChatGPT"
     excerpt: "The 'Godfather of AI' has quit Google to be able to talk about the dangers of products like ChatGPT - what Geoffrey Hinton is worried about."
     publishedDateTime: 2023-05-01T15:19:00Z
@@ -260,6 +274,6 @@ related:
       domain: indiatimes.com
     quality: 19
 
-secured: "TM68kMBbI3nr1VwSVwXUZC/ZYSpvT4UuFDIIgN2I+uhJWGtpkKrJnkLIwC8OYe9ZeBsImw1CS/+AfQHOoL9J3rmkcIYz6NoXUm6Nm+eGGtG/XMEQjJrQbSOV2+hPexbDKlRz+NBdXSL257GKL8o7Zg3I2/WRWAvXlZtR5RNTnbFwXiLTHZcS95jB1T1Y52rKEE72x8rgzwlwlSOujWHiPraq7Vt1l1e3pd/WBlgjpDQcGX5ziQnhVeDcCpkL0xsXse+oSbw5WL/4OSDus+gBDeE149NfuN2sbw6/0wtG2+IGAPxoYAqscMt7wcMXHefnzpaqOm1rV8qEu+MYHfTAYb9kOScxGd79bwinncL+2f0=;1FwkDV8XMSHW43yO6DeqHw=="
+secured: "88yV2i6jgvxh3rQI3RxS2bW0FDDi7ZTdoV3rMt/1oo00pCaZeDncxycs2vSDvY3zbTwGZ9y1GzKXXPPEtBiDEiNVS1ZoQZ6T1HNDN/yEvGvt6ci5z2trXJ9m6iJNR8jlMXcAFj+xJPfwYoJ15wg7rWDmardkk/geSlx1ZbffDL8Urx56elmf8agiCKfFnBPA7Z0RjOF5HhQdr2dHXYt3U/liHsBNYIlKGqbGNSvfwl/obaJMkUOycgHJe4xOd6UcNvBURTz2znRb4bbsOGBIQ7BDaWjo+H2T6G+9v2pvznf30ikKGEkSTECnNRpt6UXVB3xSema4AcNLjfqXzMWdzRjTCuEahl5VV8PNptK1yKHprWBoPZ6I+CpV9NoOjC7q7ELi7HsTGQg/VVKtyt95Kbz9TMDemJ7gWbmftQu6vVuV0gFUt3xP9uqepLwblNxxR0RYvIpxiSmfwKL9rd2Jhi5zZPKHhdAsmMSxc5c2vp8MrB2v0qCHvZG7pg1f50gmVYzobFiKvOSX3n9UG1T66Q==;Tdkyf+LQG8pyNWZh1+DOPA=="
 ---
 

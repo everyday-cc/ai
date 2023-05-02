@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2023/04/27/microsofts-q1-earnings-s
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/04/27/microsofts-q1-earnings-show-impact-of-companies-going-all-in-on-ai/amp/"
 type: article
 quality: 106
-heat: 206
+heat: 216
 published: true
 
 provider:
@@ -117,6 +117,22 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/107191059-16758639962023-02-08t134132z_1009027201_rc2vfs94lvi1_rtrmadp_0_usa-treasury-cloud-computing.jpeg?v=1682958326&w=1920&h=1080"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "The Ultimate Q1 Cloud Earnings Battle: Google vs. Amazon vs. Microsoft"
+    excerpt: "Analyzing the Performance, Strategies, and Innovations of Google, Amazon, and Microsoft in Q1 2023 to Determine the Future of Cloud Computing and the Race to Dominate the Market."
+    publishedDateTime: 2023-05-02T06:49:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2436787-the-ultimate-q1-cloud-earnings-battle-google-vs-amazon-vs-microsoft"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2436787-the-ultimate-q1-cloud-earnings-battle-google-vs-amazon-vs-microsoft?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2436787-the-ultimate-q1-cloud-earnings-battle-google-vs-amazon-vs-microsoft?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 61
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/02_05_2023_12_16_41_3519339.jpg?width=1280"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Google, Microsoft, Amazon, & Meta put AI on steroids while cutting jobs"
     excerpt: "The IT behemoths Alphabet, Microsoft, Amazon, and Meta are increasing their large language model (LLM) investments as a show of their dedication to utilizing the power of artificial intelligence (AI) while cutting costs and jobs."

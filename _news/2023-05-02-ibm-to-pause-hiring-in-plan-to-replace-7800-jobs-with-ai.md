@@ -84,6 +84,15 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 39
+  - title: "IBM pauses hiring, plans to replace 7800 jobs with AI"
+    excerpt: "IBM chief Arvind Krishna mentioned back-office roles, including human resources, which currently consist of approximately 26,000 workers. IBM pauses hiring, plans to replace 7800 jobs with AI. AI, Artificial Intelligence,"
+    publishedDateTime: 2023-05-02T06:42:00Z
+    webUrl: "https://www.itp.net/business/ibm-pauses-hiring-plans-to-replace-7800-jobs-with-ai"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 19
 
 secured: "JaHq/YSTUiSvQ8xiigSA9ZdQSXuCUBxNK1qJH83IvbVCjhtR0Ton5dHN1UsZETl8WBSEc5IfbIRHaJPsS3lQmR/RUMsDcscdJ66cea9GMrh/0YPcd4oKwu+ZTlOyKwNRNZQpUX+aGw3VFHaG7GJvPVH7ZLOmXBPH4Lm7vEerdq3mvS9WpyVru06KxrhM/QbONLobPh82iLFIs69O/0OErUSDX7ug2a0Auh1HbJg85oOX5+dvLfn6+Vjol3XJ1+RndiyYZivD6RJTtvsg7Qa+VPpOzGPpBc6OZcB3azd7nf5rsmsFDds24r1GJlKbQdjYnciJL2erxLBuM2cf9K3xGouiUYIel26e3L82Ebw+Y+kAVmVMsbpw3BRKw2n84b8K2CBKfT3iZ2iWUCTzZnK9Lz5nzytDSOuApQ7g9p36IxiTNhzE8NrvF4sWQGZUbPpIyo4cKm9XMJclyDtoFj5+CjhmOhXp18Og3+Xmb1FZdhoa1QC9yT81ds1v2Xq5rSGec/2ZbAG/nPWNXQZ+Bp4izw==;wxALD7JzscSQI3B9n10UPQ=="
 ---

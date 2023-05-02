@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Birmingham Selected as Host Site for a Third Time for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
+    excerpt: "Protective is one of more than 28 host companies selected to host camps across the U.S. in Fall 2023. The Protective Bootcamp will be held over four consecutive Saturdays starting Oct. 14 and ending Nov."
+    publishedDateTime: 2023-05-01T16:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/birmingham-selected-as-host-site-for-a-third-time-for-artificial-intelligence-bootcamp---applications-now-open-2023-05-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Miami Dade College Will Once Again Host Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
     excerpt: "Miami Dade College (MDC) will once again host the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp in Miami for high school students at no-cost during the fall 2023 term. The Bootcamp aims to introduce underserved high school students to basic AI concepts and skills."
     publishedDateTime: 2023-04-28T19:08:00Z

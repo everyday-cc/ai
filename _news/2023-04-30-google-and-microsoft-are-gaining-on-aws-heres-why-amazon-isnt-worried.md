@@ -114,6 +114,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "The Ultimate Q1 Cloud Earnings Battle: Google vs. Amazon vs. Microsoft"
+    excerpt: "Analyzing the Performance, Strategies, and Innovations of Google, Amazon, and Microsoft in Q1 2023 to Determine the Future of Cloud Computing and the Race to Dominate the Market."
+    publishedDateTime: 2023-05-02T06:49:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2436787-the-ultimate-q1-cloud-earnings-battle-google-vs-amazon-vs-microsoft"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2436787-the-ultimate-q1-cloud-earnings-battle-google-vs-amazon-vs-microsoft?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2436787-the-ultimate-q1-cloud-earnings-battle-google-vs-amazon-vs-microsoft?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 61
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/02_05_2023_12_16_41_3519339.jpg?width=1280"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Google, Microsoft, Amazon, & Meta put AI on steroids while cutting jobs"
     excerpt: "The IT behemoths Alphabet, Microsoft, Amazon, and Meta are increasing their large language model (LLM) investments as a show of their dedication to utilizing the power of artificial intelligence (AI) while cutting costs and jobs."
     publishedDateTime: 2023-04-29T15:51:00Z

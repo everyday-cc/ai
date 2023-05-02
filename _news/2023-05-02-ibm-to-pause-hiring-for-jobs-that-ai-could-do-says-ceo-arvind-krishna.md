@@ -9,7 +9,7 @@ ampWebUrl: "https://www.business-standard.com/amp/companies/news/ibm-to-pause-hi
 cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/companies/news/ibm-to-pause-hiring-for-jobs-that-ai-could-do-says-ceo-arvind-krishna-123050200111_1.html"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -84,6 +84,15 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 39
+  - title: "IBM pauses hiring, plans to replace 7800 jobs with AI"
+    excerpt: "IBM chief Arvind Krishna mentioned back-office roles, including human resources, which currently consist of approximately 26,000 workers. IBM pauses hiring, plans to replace 7800 jobs with AI. AI, Artificial Intelligence,"
+    publishedDateTime: 2023-05-02T06:42:00Z
+    webUrl: "https://www.itp.net/business/ibm-pauses-hiring-plans-to-replace-7800-jobs-with-ai"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 19
 
 secured: "ADLRLBxUJHoElIDqSd14plXkUdPGuIu/FB12s4XKP5bdAwzNpXPWvPnFXkU075w8gQcNJZLsFPxcZ0QZOgFYQ+hSAaL92GHYdrMNbXgPYa2wWOgorviKKj3/572pC5Z5be4+DJgd8OCKe523AX3pcxV08PZ7bK7Y3gUiUescH5OTRSrBhVZuFSBRsRMUCrqREKXKfE+sl321zI727dYd8/AhX648zwDVmQeshB+i61O/IyEKRj8yi2WkKwxjLOAhgO0p3kD6GBGQxnTw/kTQs/oWH/3/5hKXl3rLjZrHiKcj4kNuCOZ95IEYjlBjhybDE7SJUp2Cto0KXQDrMwPx3JqBrzasm8cjYwcXBdydKVEJIhpcnK4bHu3yurowLlZuYw5OPLeIZjZQJJxFSrc4JYI4SGXY6V3Z8y9hKfpG6LFjXFC/puzJelLmMRG/YTpKUFmtM9uCCFy7bpRnSEOevtSmgVanY1Dhet5FZ1FTyaGgT5hGgSr2MWn39Ki5HoCsQXmpdo1s963Ua8yIuxpoSg==;rcUwuByw9dGQwlT+cU94XQ=="
 ---

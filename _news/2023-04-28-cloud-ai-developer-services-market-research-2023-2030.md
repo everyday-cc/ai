@@ -149,6 +149,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Clinical Natural Language Processing Market Updates 2023-2031 by Marketreportsworld.com"
+    excerpt: "The research report on the \"Clinical Natural Language Processing Market\" |in-Depth Analysis Share of 2023| perhaps an"
+    publishedDateTime: 2023-05-02T04:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/clinical-natural-language-processing-market-updates-2023-2031-by-marketreportsworldcom-2023-05-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "+D5Xnru5AR5gRClCiU/+faGSI858OS6j7s0Y8Rm49EryCpjXjkRieehRN7HrEY1KB77IJ+Pf34933lRC8KBuA5T10TLsG1fevnBOZ98Zt1cBtS9b51aNQGUtoROiLQCU5SF6lKf4eavNbnsQ3QINlIAfS5Vo4cl9cKYC5VMcf4oioJ3/AJgRiAU331KFHNuHjMbeb5eGVG2L/vDT0X1wbkr4AoP3PT/d+hNIZN8ENoEOKwmckhbxlAehtW2P06kcfwUzrvOWGjKFsJG/rDPx0Pe1tsaTZnsKlsDW3SI3tzoDtXUhMofU18p7ZEo+UxEbdcz6V47cVc7MARzVF7oE0C4AvlDJ5zFbwVZeowQJvYk=;l7/pSpbXZksYr89Q2SdGKA=="
 ---

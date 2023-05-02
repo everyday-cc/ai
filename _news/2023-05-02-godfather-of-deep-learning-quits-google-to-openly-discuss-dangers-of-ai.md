@@ -208,6 +208,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "'Godfather of AI' quits Google to warn of the technology's dangers"
+    excerpt: "Geoffrey Hinton, who created a foundation technology for AI systems, said that advancements in the field posed ‘profound risks to society and humanity’."
+    publishedDateTime: 2023-05-02T07:51:00Z
+    webUrl: "https://www.thejournal.ie/ai-scientist-warns-of-danger-6057791-May2023/"
+    type: article
+    provider:
+      name: TheJournal.ie
+      domain: thejournal.ie
+    quality: 37
+    images:
+      - url: "https://img2.thejournal.ie/article/6057791/river/?height=400&version=6057808"
+        width: 613
+        height: 400
+        isCached: true
   - title: "Godfather of AI quits Google to warn us of the dangers of products like ChatGPT"
     excerpt: "The 'Godfather of AI' has quit Google to be able to talk about the dangers of products like ChatGPT - what Geoffrey Hinton is worried about."
     publishedDateTime: 2023-05-01T15:19:00Z

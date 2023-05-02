@@ -83,6 +83,15 @@ related:
         width: 860
         height: 573
         isCached: true
+  - title: "IBM pauses hiring, plans to replace 7800 jobs with AI"
+    excerpt: "IBM chief Arvind Krishna mentioned back-office roles, including human resources, which currently consist of approximately 26,000 workers. IBM pauses hiring, plans to replace 7800 jobs with AI. AI, Artificial Intelligence,"
+    publishedDateTime: 2023-05-02T06:42:00Z
+    webUrl: "https://www.itp.net/business/ibm-pauses-hiring-plans-to-replace-7800-jobs-with-ai"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 19
 
 secured: "IE02XuUSoqotDDLFIf4MpPz/Wg8PlBkAvx5O58qvv+dRwYgmAQkMjNWg+dogECG2fS3DC7ZxbbYexwi4e7q52e3s2stOxmfNIj+UYQZdgo1liso8Rae4XNV+OtO3BjO01Cr2YoRPG2J1G5ciSenkexb3Oe7ouuZmt3Qc3MUV+f0tBPPdnHLFGPXdiI/NPSFewBVwFa3evn2zT41+PmJ3baQt+Pct3MQDePd7DSkdHuf8P4NETQrDrrg2D6Iew0JfXJeF2BVXyf3C9kt+lpSz3foCTkMBk4hDtwhi/jNYT+I6UMJMmwFsw26PZvYywHcXOr/eIiXJsUO4amF3FNXa+hNmq5Q5wiaflRA0mkZYHg+p2YguZ4Sf8w9Oar6Db8RKOc/Cm3qYiyuCzQBZjg5CrngJrJQM5eWTtqru6rf2eeKpRpOGDLKfE1t+UUQ6tyJs4S7ZY1juQ1m2My60WzedR6bLTjVyvGuYcLDuFQ+Ip7SdmXAoC5JrNsuViNRKhzOZFEeEgUrcnG11jhgs8EoajA==;kUrfIxa8egcs04dZgsf8uA=="
 ---
