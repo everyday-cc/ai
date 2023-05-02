@@ -9,8 +9,8 @@ ampWebUrl: "https://www.technologyreview.com/2023/05/02/1072556/we-need-to-bring
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/05/02/1072556/we-need-to-bring-consent-to-ai/amp/"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: MIT Technology Review
@@ -26,146 +26,66 @@ images:
     isCached: true
 
 related:
-  - title: "IBM to pause hiring for jobs that artificial intelligence could do"
-    excerpt: "IBM chief executive Arvind Krishna said the company expects to pause hiring for roles it thinks could be replaced with artificial intelligence in the coming years."
-    publishedDateTime: 2023-05-02T06:43:00Z
-    webUrl: "https://www.scmp.com/tech/big-tech/article/3219094/ibm-pause-hiring-jobs-artificial-intelligence-could-do"
+  - title: "Using Artificial Intelligence to Speed up Discovery of New Drugs"
+    excerpt: "Experts see a bright future in the complementary use of artificial intelligence (AI) and structure-based drug discovery for drug discovery. Researchers explain how computational methods will streamline drug discovery by predicting which drug molecules are most likely to bind with the target receptor."
+    publishedDateTime: 2023-04-30T22:01:00Z
+    webUrl: "https://neurosciencenews.com/ai-drug-discovery-23150/"
     type: article
     provider:
-      name: scmp.com
-      domain: scmp.com
-    quality: 69
+      name: Neuroscience News
+      domain: neurosciencenews.com
+    quality: 41
     images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/05/02/d1a181a3-42dc-45a7-91a4-0b0de0b0bd96_1d4abd40.jpg?itok=C_ugnNWK&v=1683001304"
+      - url: "https://neurosciencenews.com/files/2023/04/ai-drug-discovery-neurosicences.jpg"
         width: 1200
-        height: 630
+        height: 915
         isCached: true
-  - title: "IBM Plans to Replace 7,800 Jobs With AI"
-    excerpt: "The company will pause hiring soon, and expects up to 30% of non-customer-facing roles will be replaced by automation in the next five years."
-    publishedDateTime: 2023-05-02T14:57:00Z
-    webUrl: "https://www.pcmag.com/news/ibm-plans-to-replace-7800-jobs-with-ai"
+  - title: "Missing persons helped by artificial intelligence"
+    excerpt: "Indiana has been grappling with an unsolved murder and missing person case for years. With the help of revolutionary augmented reality (AR) and artificial intelligence (AI) crime-solving tools, attention is being brought to these cases like never before."
+    publishedDateTime: 2023-05-01T21:03:00Z
+    webUrl: "https://www.wishtv.com/news/allindiana/missing-persons-helped-by-artificial-intelligence/"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/01WdVo9uJBJXuoHHOmvGQfY-1.fit_lim.size_1200x630.v1682982476.jpg"
-        width: 1120
-        height: 630
-        isCached: true
-  - title: "IBM to pause hiring for jobs that AI could do, says CEO Arvind Krishna"
-    excerpt: "Hiring in back-office functions - such as human resources - will be suspended or slowed, IBM CEO Arvind Krishna said in an interview"
-    publishedDateTime: 2023-05-02T01:34:00Z
-    webUrl: "https://www.business-standard.com/companies/news/ibm-to-pause-hiring-for-jobs-that-ai-could-do-says-ceo-arvind-krishna-123050200111_1.html"
-    ampWebUrl: "https://www.business-standard.com/amp/companies/news/ibm-to-pause-hiring-for-jobs-that-ai-could-do-says-ceo-arvind-krishna-123050200111_1.html"
-    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/companies/news/ibm-to-pause-hiring-for-jobs-that-ai-could-do-says-ceo-arvind-krishna-123050200111_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 59
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2023-05/02/full/1682990709-8201.jpg"
-        width: 3840
-        height: 2561
-        isCached: true
-  - title: "IBM to pause hiring in plan to replace 7,800 jobs with AI"
-    excerpt: "International Business Machines Corp. Chief Executive Officer Arvind Krishna said the company expects to pause hiring for roles it thinks could be replaced with artificial intelligence in the coming y"
-    publishedDateTime: 2023-05-02T00:41:00Z
-    webUrl: "https://www.livemint.com/news/india/ibm-to-pause-hiring-in-plan-to-replace-7-800-jobs-with-ai-11682987760620.html"
-    ampWebUrl: "https://www.livemint.com/news/india/ibm-to-pause-hiring-in-plan-to-replace-7-800-jobs-with-ai/amp-11682987760620.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/ibm-to-pause-hiring-in-plan-to-replace-7-800-jobs-with-ai/amp-11682987760620.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/05/02/600x338/IBM_1682988099021_1682988099244.JPG"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "IBM’s CEO expects A.I. to be so good at back office work that he plans to pause hiring humans for those jobs"
-    excerpt: "“I could easily see 30% of that getting replaced by AI and automation over ... Kyndryl Inc. and part of the Watson Health business. The company is currently considering selling its weather unit. Armonk, New York-based IBM topped profit estimates ..."
-    publishedDateTime: 2023-05-01T22:22:00Z
-    webUrl: "https://fortune.com/2023/05/01/ibm-ceo-ai-artificial-intelligence-back-office-jobs-pause-hiring/"
-    ampWebUrl: "https://fortune.com/2023/05/01/ibm-ceo-ai-artificial-intelligence-back-office-jobs-pause-hiring/amp/"
-    cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/05/01/ibm-ceo-ai-artificial-intelligence-back-office-jobs-pause-hiring/amp/"
-    type: article
-    provider:
-      name: Fortune
-      domain: fortune.com
-    quality: 55
-    images:
-      - url: "https://content.fortune.com/wp-content/uploads/2023/05/GettyImages-1252487179-e1682977731187.jpg?w=840"
-        width: 840
-        height: 560
-        isCached: true
-  - title: "Job cuts may intensify as IBM plans to use AI to replace 30% back office jobs"
-    excerpt: "IBM CEO Arvind Krishna said he expects AI to impact at least 7,800 jobs at the company over the next five years."
-    publishedDateTime: 2023-05-02T07:55:00Z
-    webUrl: "https://www.computerworld.com/article/3694874/job-cuts-may-intensify-as-ibm-plans-to-use-ai-to-replace-30-back-office-jobs.html"
-    ampWebUrl: "https://www.computerworld.com/article/3694874/job-cuts-may-intensify-as-ibm-plans-to-use-ai-to-replace-30-back-office-jobs.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3694874/job-cuts-may-intensify-as-ibm-plans-to-use-ai-to-replace-30-back-office-jobs.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 54
-    images:
-      - url: "https://images.idgesg.net/images/article/2017/09/thinkstockphotos-629792888-100735142-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 940
-        isCached: true
-  - title: "IBM to pause hiring for jobs that AI could do: CEO"
-    excerpt: "The plan could mean roughly 7,800 jobs lost in non-customer-facing roles such as human resources. Read more at straitstimes.com."
-    publishedDateTime: 2023-05-02T00:38:00Z
-    webUrl: "https://www.straitstimes.com/business/ibm-to-pause-hiring-for-jobs-that-ai-could-do"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 39
-    images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/05/02/2023-04-19T201558Z1839026717RC2VH0AAC1QORTRMADP3IBM-RESULTS_2.JPG?VersionId=H_s.YFFQrYWrYDzavmkDa.28ezC1GzD0"
-        width: 860
-        height: 573
-        isCached: true
-  - title: "IBM to pause hiring for jobs that AI could do"
-    excerpt: "IBM's CEO said the company expects to pause hiring for roles it thinks could be replaced with artificial intelligence in the coming years."
-    publishedDateTime: 2023-05-02T01:38:00Z
-    webUrl: "https://www.seattletimes.com/business/ibm-to-pause-hiring-for-jobs-that-ai-could-do/"
-    ampWebUrl: "https://www.seattletimes.com/business/ibm-to-pause-hiring-for-jobs-that-ai-could-do/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/ibm-to-pause-hiring-for-jobs-that-ai-could-do/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 39
-  - title: "IBM to pause hiring for jobs easily replaceable with AI: CEO Arvind Krishna"
-    excerpt: "Krishna said hiring in back-office operations such as human resources would either be suspended or the hiring for such job roles will be frozen."
-    publishedDateTime: 2023-05-02T07:54:00Z
-    webUrl: "https://www.fortuneindia.com/enterprise/ibm-to-pause-hiring-for-jobs-easily-replaceable-with-ai-ceo-arvind-krishna/112508"
-    type: article
-    provider:
-      name: Fortune India
-      domain: fortuneindia.com
+      name: WISH-TV
+      domain: wishtv.com
     quality: 37
     images:
-      - url: "https://gumlet.assettype.com/fortuneindia/2021-02/2f2ede7d-e89f-43da-8e88-b22350d8a2ed/Arvind_Krishna_Courtest_IBM.jpg?w=700"
-        width: 700
-        height: 441
+      - url: "https://www.wishtv.com/wp-content/uploads/2023/05/kghmnbklgfblgfb.jpg"
+        width: 1512
+        height: 851
         isCached: true
-  - title: "IBM pauses hiring, plans to replace 7800 jobs with AI"
-    excerpt: "IBM chief Arvind Krishna mentioned back-office roles, including human resources, which currently consist of approximately 26,000 workers. IBM pauses hiring, plans to replace 7800 jobs with AI. AI, Artificial Intelligence,"
-    publishedDateTime: 2023-05-02T06:42:00Z
-    webUrl: "https://www.itp.net/business/ibm-pauses-hiring-plans-to-replace-7800-jobs-with-ai"
+  - title: "Regulating AI will put companies and governments at loggerheads"
+    excerpt: "The rapid release of generative AI tools has been a moment of reckoning. Just this week Geoffrey Hinton, a celebrated developer of AI, announced his resignation from Google, saying he regretted his work and wants to speak freely about the dangers and risks of the technology he created."
+    publishedDateTime: 2023-05-02T16:53:00Z
+    webUrl: "https://www.ft.com/content/7ef4811d-79bb-4b4f-b28f-b46430f0c9ff"
     type: article
     provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 19
+      name: The Financial Times
+      domain: ft.com
+    quality: 37
+    images:
+      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
+        width: 619
+        height: 377
+        isCached: true
+  - title: "The coming AI chip shortage"
+    excerpt: "Artificial intelligence requires semiconductors with powerful graphics processing units — chips that very few companies are able to make."
+    publishedDateTime: 2023-05-01T09:59:00Z
+    webUrl: "https://www.marketplace.org/shows/marketplace-tech/the-coming-ai-chip-shortage/"
+    type: article
+    provider:
+      name: Marketplace
+      domain: marketplace.org
+    quality: 34
+  - title: "Companies adopting AI need to move slowly and not break things"
+    excerpt: "McKinsey's State of Organizations 2023 report says two-thirds of firms are investing in AI. Companies such as Planet and Intercom are embracing it wisely."
+    publishedDateTime: 2023-05-01T06:00:00Z
+    webUrl: "https://www.fastcompany.com/90888603/applied-ai-move-slowly-not-break-things"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 17
 
 secured: "Io2OAkg95+1QqtJtc8T7Qd6gMgQvUXiZHD+4Z5FvRDvGqZPLHOPlKgLiwcFNINkTsUZou62NNo3L4Ur1BNziwm4Pdiw62EqBrKN+0w7uZOVj88WyMBaV4PylXi7LGEXUIw4VPfq1+FHBgc+AEh9S98ruoJevYQ88tIr07jJq5q8Dr8i9FD1ikZbVWMtLKLm3Bz183Q1SBoHxkB4orEYDl6A/5GGq2NOgRbCSYo8RBF199hOL0KkYaN3OKcTnxSwRmQtgCR0rZu7tdzr7m0QpNHoPsQUnmcn+wJhh50mLGhGqroGvfHQs1ZDfW/1CmwjU+3pNdOyE1J7AB6KKkqccoJ7lZl0vM//AD6lDiWtTXJj520Jjhb9kEG9Hx2+DhfFuFnJIS7/inXLf/bVHZwU9UzpF6VEoTVXH17yRnpu8/tJJCPd3qr18yqyO12LUwgRjLuPZ5F4HLLWy+E9VQIexNi1zdXxroSXWCa4WT4gWVRyf79TvHgY9Z3xyBCoFGNiQtOkIym4hmNAvnw6Iq/UzZQ==;O9f0K4/9eC4sLci3aklfxw=="
 ---

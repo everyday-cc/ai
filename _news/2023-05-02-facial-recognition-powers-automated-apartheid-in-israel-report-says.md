@@ -7,7 +7,7 @@ originalUrl: "https://www.nytimes.com/2023/05/01/technology/israel-palestine-fac
 webUrl: "https://www.nytimes.com/2023/05/01/technology/israel-palestine-facial-recognition.html"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 1185
         height: 790
         isCached: true
+  - title: "Wolf Pack: Israel's accelerated use of facial recognition is ‘automated apartheid'"
+    excerpt: "Israeli military increasingly conducts 'intelligence mapping' raids to document facial characteristics of Palestinians, Amnesty says"
+    publishedDateTime: 2023-05-02T19:09:00Z
+    webUrl: "https://www.middleeasteye.net/news/wolf-pack-israel-accelerated-use-facial-recognition-automated-apartheid"
+    type: article
+    provider:
+      name: Middle East Eye
+      domain: middleeasteye.net
+    quality: 13
   - title: "Israel/OPT: Israeli authorities are using facial recognition technology to entrench apartheid"
     excerpt: "The Israeli authorities are using facial recognition technology to track Palestinians and restrict their freedom of movement, Amnesty International said today."
     publishedDateTime: 2023-05-02T01:31:00Z

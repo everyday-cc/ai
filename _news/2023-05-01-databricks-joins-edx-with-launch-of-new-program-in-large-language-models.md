@@ -26,14 +26,14 @@ images:
 
 related:
   - title: "Databricks Joins edX Partner Network with Launch of New Expert-led Program in Large Language Models"
-    excerpt: "Program Designed to Meet Growing Demand for Skilled Professionals in Generative AILANHAM, Md. and SAN FRANCISCO, May 1, 2023 /PRNewswire/ -- edX,"
-    publishedDateTime: 2023-05-01T13:06:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/databricks-joins-edx-partner-network-with-launch-of-new-expert-led-program-in-large-language-models-1032278282"
+    excerpt: "(Nasdaq: TWOU), today announced a new partnership with global data and AI leader Databricks to launch a Large Language Models (LLMs) Professional Certificate program, the first of its kind on edX.org."
+    publishedDateTime: 2023-05-01T13:10:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/05/01/9804789.htm"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 20
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "km04CkFAeTlSqClDqj/uNIxcRpMtZJ9MRHd9jhXYBnTOWN4qnOuMA9UKH7skpxkiEzhzlfcdJWqPsW6iOOGwBOsM/ws1GTUxRIX6zC0YVD14vwecmqyKjUfByjqOQXq1Ge3JE8/59/u4Rv9gb8hZUiZ8YvqrbEgzekTFY/pet0DFgzcUoOIwZdVT26UyfJKIDt7ZHjUy0KQ08xpJ9Xr1OsusjXicEe8TTT0y5ltz25KZI94h+kor/LnUuw+BvCH7ajT9CsxH435tSS4EVJ3hzHRltVH1m0ZGRf/yobP0DwPAVpnLS6S+0edjjX7S1EzSQjCui41ltt7pF088v3rmUqwf4A6gC5m4U9/xK7HJqyc=;wIBiicshCfQssRM8KG9T7w=="
 ---

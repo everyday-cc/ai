@@ -39,6 +39,15 @@ related:
         width: 1480
         height: 832
         isCached: true
+  - title: "Amnesty International criticised for using AI-generated images"
+    excerpt: "Group has removed AI images used to promote their reports on social media, including fake photos of Colombia’s 2021 protests"
+    publishedDateTime: 2023-05-02T17:46:00Z
+    webUrl: "https://www.theguardian.com/world/2023/may/02/amnesty-international-ai-generated-images-criticism"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 17
 
 secured: "ZN/Ulait3vhT4jjPkPYNyRtTnfxYFiQZHfTJqOahlJn/MwiwxmnXTm3xE5d+N/Euj5jnZl3Lpg40GR7ZVJy97NPAkYdlydlSWRj836lWViEMomjSJM8fWXQpBPXBayKwz6vTCARvvv/rY9A/FGhCNstgpZiQe+RLcd5kEy1y403X+YbnEMMb+123JEUK3212aBpn10EvPOgf+hqW8kEYm2UtvbIdX6z95I+8W14H90yFSatb5gAWfbxM7E+ZI7LtX3iuV6JMQ7BmNK+2RKLRvWalPn7tWWQoRg2fXYnrUQn/zaRgL9eC9vn3x0P5tJhdUFHPp9mNQPEOe8mdo+1jI+Z3sUIDJYalV9W53PzhxLl8SRgTdt0iZ4rbQxy+xlq3AewBFlF3p468L1DGZoxVU6uFygIDow8kLWlKVY5uTNuQ4gn3zzRF6FdGUd3V54t0SZ8l5AsCoJPiKaJrI4MBKeu2NHn0I7W/XPbXuqZgTh/b+Yb0k8JUNklPC7Tlzbm20G3w1qJ22L9OnyGccU4ZEA==;66w+lgduVLgSXPp+M4oePw=="
 ---

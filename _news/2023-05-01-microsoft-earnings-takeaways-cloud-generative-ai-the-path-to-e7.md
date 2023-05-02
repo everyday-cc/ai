@@ -7,7 +7,7 @@ originalUrl: "https://www.crn.com/news/cloud/microsoft-earnings-takeaways-cloud-
 webUrl: "https://www.crn.com/news/cloud/microsoft-earnings-takeaways-cloud-generative-ai-the-path-to-e7"
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,31 @@ images:
     width: 610
     height: 457
     isCached: true
+
+related:
+  - title: "Google, Microsoft, Amazon, & Meta put AI on steroids while cutting jobs"
+    excerpt: "The IT behemoths Alphabet, Microsoft, Amazon, and Meta are increasing their large language model (LLM) investments as a show of their dedication to utilizing the power of artificial intelligence (AI) while cutting costs and jobs."
+    publishedDateTime: 2023-04-29T15:51:00Z
+    webUrl: "https://interestingengineering.com/innovation/google-microsoft-amazon-meta-ai"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 56
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/04/29/image/jpeg/CansC0Fg86ivCNtL2I5csadyaajvjydZxqrQjzeV.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Microsoft's chief scientific officer says there's no need for a pause on AI — despite what Elon Musk says"
+    excerpt: "Thousands of people, including Elon Musk and AI experts, signed an open letter seeking a 6-month pause on AI development amid ChatGPT's popularity."
+    publishedDateTime: 2023-05-02T18:23:00Z
+    webUrl: "https://www.businessinsider.com/microsoft-executive-elon-musk-ai-acceleration-not-pause-open-letter-2023-5"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
 
 secured: "fOEzN1upbjbp25YCWPzgIJVF4Dc2cZ+yO6iJ8X8WnfXsxU5rGvX/F8cF4kJvA5dgd2+17hz8NyP+T/OpdwPVg1ryzy6XcC8TpXhOKQgN9JUNEh/6PoO3+RAWA8O3F55MStKWdVq9SKBad7BOb90XgI38zmiHitrW1BfSSzV9c+IibOLNndFbw7Rd8OqikYVhfMxFCTg5wCfcWAAYbkbkXIgb5ON2HLPiwo+nA4f9esxeaLoICNQEpMZDdGZHBO5AenyBh8mErJBxcc9FhpHf34AaQocj5FYIjrbNLzFj/v/PZfXVibaueipVGPq1iw1NOC16cE4D/9MZQgWfP8DINPh8RyL07OjQXvckkDwal5/jDjBhHfgRC07EPV7sE1N8YFvWOGsyFT30jEiSKi/GmJWuPPZgDNwPE4Vuqgdva3p3XevbBmXKw+DfHmjNgq/5IntH2WHKuoIKWFkhmshpDxb3AG16vUeBg/iUPJKBh4qbpEh47ptFRx2FuXos8Pg7V8pAVQ8FOuTv0kQPm04tbw==;BwFIKVbcADZ+4rIQzb8nWQ=="
 ---

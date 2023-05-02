@@ -69,20 +69,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Here’s how Microsoft plans to reap billions from AI"
-    excerpt: "The company hopes steal search revenue from Google, help businesses build their own chatbots and AI tools, and incorporate AI-enhanced productivity tools across its product lineup."
-    publishedDateTime: 2023-04-28T01:36:00Z
-    webUrl: "https://www.reseller.co.nz/article/706864/here-how-microsoft-plans-reap-billions-from-ai/"
-    type: article
-    provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 54
-    images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/promoted_content/promo/microsoft_dreamstime_7_2_1_2.jpg"
-        width: 505
-        height: 315
-        isCached: true
 
 secured: "GFTWOJH4bbFjJnE2qsXlDQXmP61QcGEhkjG9vYOXJigPe/ASyFOBan2x63bVqPTZLgBneX6LlgCRd83FBpFFYmDbHjtr7wk0qNAwxlWRCfu2oYaTzSPoClu+qH0+eAXu588fgEoscFDqaziTGJRU87wkU0JrWeDXheCQY+EBg2gDCdA2a6ISeZ2ZYckBqeasW6Lcq3DpVVtOAayeI9hSlVBZkV8/aFVc31+GbyiILRQMsYzTvivmcdK4BN63p//bUhgBnXdCGMyZfBCIxCXE4pBqdxOAdW9mWJUsczkAvox8e7PbEvCAXNtZp515C1Q8vcU/Zg9LWUeYgnNovcJR6+kRWBOZsQRyQGNlNfZ29LU=;6DHQ6OLmxg4WkonVhIGjhw=="
 ---

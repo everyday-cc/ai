@@ -62,6 +62,15 @@ related:
       name: CIO
       domain: cio.com
     quality: 34
+  - title: "SAP Start will have IBM's Watson"
+    excerpt: "SAP announced it has penned a deal with IBM to integrate its Watson AI into SAP Start, which in turn provides a unified entry point for cloud solutions from SAP."
+    publishedDateTime: 2023-05-02T17:57:00Z
+    webUrl: "https://www.accountingtoday.com/news/sap-start-will-have-ibms-watson-ai"
+    type: article
+    provider:
+      name: Accounting Today
+      domain: accountingtoday.com
+    quality: 19
 
 secured: "x4gyhyDh9Fz5mwi1rtMKeE29HGkXGp2xhKqeasE3VfRwZg2vho6AUo/5CWyQdf6KO9e/zJ+ebGgkOKwDHMG1kYdgDWsSCLM4T4x2L6JgP9qGCHD7vFpXUszYHCJ5GO4wXXQ/78ueKpgmadcqqdtmVAWCXrU13wc1h6UWqepi+ZRXXIJ57i+Sl5wePbNV4aXjfDmRmoD1qZKnM8ZP3140+IgWHXZtvT5baTNQ584Z2oc/surlR468Mj3JMO25b2zj2n1p9qKSs8swcNn2/g0JIcO7mUkTcz6mcsWaY5UrXZ5OZpdsDiP3ZMgYhHP1IW+L82jV1kuybsUHct5egQDJuEHtk6ohaBiq+ZZFLlowjbDAhG4S5A15enhbPzsJV+Byyi2DPSGKB3CjMjdEfjK2j8auk+5SPW0uh7OEo+w+aj1e775yn90siWzNjv0n+UI4ED3AEe+R16Rbwi6e4W71BCzia1OOnrfR9TuYLHV1WoBy1lfMQct7H0HjTEeDWwLrenkIBx0J4DaQ+5HaWlJUdA==;ipdPdXde2rUPwk8REljejQ=="
 ---

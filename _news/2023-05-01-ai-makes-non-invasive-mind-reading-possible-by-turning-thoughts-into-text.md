@@ -104,6 +104,29 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 39
+  - title: "Texas scientists create artificial intelligence system to read minds"
+    excerpt: "The artificial intelligence system relies on a fMRI scanner to translate a person's thoughts. BSIP/Universal Images Group via Getty. Researchers at the University of Texas at Aust"
+    publishedDateTime: 2023-05-02T19:49:00Z
+    webUrl: "https://www.chron.com/news/article/ut-artificial-intelligence-ai-reads-minds-18074052.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 37
+    images:
+      - url: "https://s.hdnux.com/photos/01/32/53/24/23770368/3/rawImage.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "UT researchers create AI system to turn brain activity into text"
+    excerpt: "The new system uses AI to translate someone’s brain activity into a stream of text while they listen to a story or imagine telling a story."
+    publishedDateTime: 2023-05-02T19:46:00Z
+    webUrl: "https://www.kxan.com/technology/ut-researchers-create-ai-system-to-turn-brain-activity-into-text/"
+    type: article
+    provider:
+      name: KXAN
+      domain: kxan.com
+    quality: 19
 
 secured: "E/aFKQhW5/K+nnwQ9+r2aEU/sfomzea4+CHBDuAttJa0ekdxr/mdZiE0KQpe9OfRTvoGJT7ycEGXGy9RBYfHC6/UpNTLX0h858FKxGx7oTtmhzWGvh2uVaaV7cm/DJ28QYnQHBUpYqbPWYURJCXpwcAsHUCVmHphHhQEqbnrG0rrY7W7WZ4p19ZzNO5Jap5GwprKhsaKWFPYAGGmlYsKwU+hS03Owh/DP/WSau9J9Cz79Wmu7eYeRMM0tw0h7fHjeI4Js1PvP3WMjdAFSVagD2s7LEm3ro3pd31TYhCftJUy63AQ4URdDJtL1k1gvq/juj7YYhRZ4D3ftOSYIlmCN9Gc6dYuXzZKlaCXHHvgXY2i8f8s16ZinW/mrr9ihtuqZB6LUZbrzI1u0mQ6zy0vGxBEfVyLHdeK6cG7wGu3PzzevtkibrzpZhpsTcn6J1qDDH4p7QEhi1LZFdMfsE2bAWmme2KjXVBEvOGfd7z/qkbjFkQPV66dTqfpqQoTNGXvWLBjrcHAD+cCOqhCwbxAFA==;2eDPZrVyhXNxgwP4IPv00w=="
 ---

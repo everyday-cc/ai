@@ -1,22 +1,18 @@
 ---
 category: news
 title: "Databricks Joins edX Partner Network with Launch of New Expert-led Program in Large Language Models"
-excerpt: "Program Designed to Meet Growing Demand for Skilled Professionals in Generative AILANHAM, Md. and SAN FRANCISCO, May 1, 2023 /PRNewswire/ -- edX,"
-publishedDateTime: 2023-05-01T13:06:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/databricks-joins-edx-partner-network-with-launch-of-new-expert-led-program-in-large-language-models-1032278282"
-webUrl: "https://markets.businessinsider.com/news/stocks/databricks-joins-edx-partner-network-with-launch-of-new-expert-led-program-in-large-language-models-1032278282"
+excerpt: "(Nasdaq: TWOU), today announced a new partnership with global data and AI leader Databricks to launch a Large Language Models (LLMs) Professional Certificate program, the first of its kind on edX.org."
+publishedDateTime: 2023-05-01T13:10:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/05/01/9804789.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/05/01/9804789.htm"
 type: article
-quality: 20
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Natural Language Processing
@@ -38,6 +34,6 @@ related:
         height: 674
         isCached: true
 
-secured: "DNrD/gBPuqPHQF097nZiI+zp5UyZBbUNix+XqSrd8yEMGskHeIX5yFDc8KLW5IDvVGZPwdUcqDOewCyVrOmjpV2nzHwIqFrO4Nyp2uXp5M1vaeAkpcEEbtWeL7X4UWNUt110yUqSYyt06phcWPCwb5YfeWJv9abkxo97LsVUwDi7f/iUrHEmnMXUqv/5n96wPJo8j50AcxLwTQ7xbbrEcjtPhw0IlhJcAyfqJ/RoUCx6YBI6cEJvXinzs9ay+BRwiIrERGk3sC24HnTz+bzljhMr9ZgQ9AuODPd6CPB4OzsfFyvQvqzOOkt6Oc4dXr7EwbTULOLOVOQoXiE+BIhtUCwSWVE7d5eSzmb9NJm/TCx7AwVd2o1C9NyMagh/H604m3rGzhYVBj3Z7G1/j7WPQ639A6XF82DTfFJIn9Tq0dW+Rapc6wrQmQxAk6jiQNd76Nb8JrYG6TriIAvQnetslPkarP2o60OtJm3P0qa60cc+0Z0Yj2Av6twFmhJuLAa30KGqBYZyGh44xbISdi1bVA==;Y/v86+xshpYWF04XCq/fVw=="
+secured: "O05SHAVvnN4G5F1fexzExsrncv5cxs7AY8ElfkPcN4xuGr1XvHoOWI7nJLhMOVk8ZS5oohNLOkRBVJCHX+X326iXaTTuDNifeBJtI/FjZjoNs6eISRx8GzZmEZLq96EfxdJzApUBZC6AQVAAi2T2qFRrzhQ2wIhQjJTEv7+5zHGIYrhSugB5WX/+asO6NB8ox2ECUlhbvaSKpZFLTdk2fWEuceFfmd128RGOBTRhGw8PImLCQk7FHqW20WD8ye0SbbshUbf5GBK+izAtlGtPxWa8RwCUKgCdVZm5AL8wjonwbky6j9H6fEGJH8h6eIo4/lXiXHDPG3+QG9PYAKSAgz5WsHIybgVvl5/VyA4btTU=;KaolE6mOTscQFBv4H+5Ogg=="
 ---
 

@@ -1,20 +1,20 @@
 ---
 category: news
-title: "Top Taiwan chip designer MediaTek 'rapidly' shifts focus to autos, AI"
-excerpt: "MediaTek chips are seen on a development board at the MediaTek booth during the 2015 Computex exhibition in Taipei, Taiwan, June 3, 2015. REUTERS/Pichi Chuang/File Photo TAIPEI, April 28 (Reuters ..."
-publishedDateTime: 2023-04-28T16:28:00Z
-originalUrl: "https://www.reuters.com/technology/top-taiwan-chip-designer-mediatek-rapidly-shifts-focus-autos-ai-2023-04-28/"
-webUrl: "https://www.reuters.com/technology/top-taiwan-chip-designer-mediatek-rapidly-shifts-focus-autos-ai-2023-04-28/"
+title: "Top Taiwan Chip Designer MediaTek 'Rapidly' Shifts Focus to Autos, AI"
+excerpt: "Top Taiwan Chip Designer MediaTek 'Rapidly' Shifts Focus to Autos, AI By Sarah Wu TAIPEI (Reuters) - Taiwan's top chip design company MediaTek is focusing more resources on chips for cars and AI ..."
+publishedDateTime: 2023-04-28T10:10:00Z
+originalUrl: "https://www.usnews.com/news/technology/articles/2023-04-28/top-taiwan-chip-designer-mediatek-rapidly-shifts-focus-to-autos-ai"
+webUrl: "https://www.usnews.com/news/technology/articles/2023-04-28/top-taiwan-chip-designer-mediatek-rapidly-shifts-focus-to-autos-ai"
 type: article
 quality: 64
 heat: 74
 published: true
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -33,6 +33,6 @@ related:
       domain: gizmochina.com
     quality: 63
 
-secured: "zlDeOd+DFqgpysTL5BmFYIk0IL3Cqdt07A1W3pmCcdxqPeopZcgV4YnRn3MuMAM0Z02FDw5HK4GPUGtxyX7+2skDBvX/bGIflAWlHPjybCxWseICTdIEIieinUlxUgoCJQ1QLlm+DrdxcSPftj4sH0KD/vnjalwypkp52MnJVS8oyDh9M7nSg+j2sD6hZUFCpp81Tq14VZX/kLjEVqJiQaWrvuL04Eaz4dyVJ8m0mmVDSjRZ7caV4y0W3dU7HumnLIJRcOOWRbVenzFsGdCTJxWBbzrq6KduA+LHr32dUpX+35qE7Zsje57LUjXDzziYQK6TH9qDKsZ55nqMSRh2oz1KtZVzA5lQY0zJ8eRlkm8=;ynIzPxqiHI0SdqLVZsX62g=="
+secured: "lYQ5q2e0ICIAno4SZ5iXDgKH1tf4nINKEKmhZT4MaPug5paYwH4ifgp70938I/Iozg4K2533VYt3rVYiHXs+uI/4berQ4uRNW8vKjNU3KIzzc86CQ/Ipdf/xY0UxHNj3ugYE9CpheK4eHLnG94N9DUyzMOihThBZpJRqVzcKxbx+k776LvHe5HgEEf1inbO9wnWUOGpxEPIe6Y3cZOQHVJacG5UoQchtycWm2oet4j1pX2QjVp6v/V3Ujd+FMSL+rbFrajoIkKOmucde1IFmpKCCRD3aVQVX8F9eN60yT71aCGrD1T/mASKLC7pAhpZHDxA9Ek+EooJuHgT81X5DwLncs+2dcWRAgkyggBibG7c=;5+og4N6mjOcbgkeoSlZ9Sw=="
 ---
 

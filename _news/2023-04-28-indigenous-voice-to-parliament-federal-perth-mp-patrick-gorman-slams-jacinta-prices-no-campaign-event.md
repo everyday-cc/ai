@@ -26,6 +26,17 @@ images:
     height: 675
     isCached: true
 
+related:
+  - title: "Indigenous voice to parliament Yes ad campaign ‘misleading’"
+    excerpt: "The Yes campaign’s video advertisement urging viewers to vote in favour of constitutional recognition for Indigenous Australians is “misleading”, right-leaning ­activist group Advance Australia has claimed."
+    publishedDateTime: 2023-05-02T18:47:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/politics/indigenous-voice-to-parliament-yes-ad-campaign-misleading/news-story/8f99cc238712df42cf3d30e786637169"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 19
+
 secured: "uPsRILMPHi35r6NK2QnU737o5jOLfI8UJHPVfixeyU2XrLhvyrZvW+Gnv8zZGLROvIoaPd4xGALNEv0+tKP2KVKHCOXtFMTD/MX/goXpuTkAYX/e+Ce7tDDkZKsw/q04jMfApoFq4bG4j21CfDhpTJQKT6u97Icsp+wzgdPdDEQDos+/dutqdqLNBUVm9ovaE1evkKP1a5+e4uFfiejYvmN8WST9V8A5RtRRT1+MIQfXaaJxzX94zGJHvpuhwMmfLdjhwqRLix8v5IUVO6iXw3IJ6B4AWTwZN1IK62zOgJwuKiLZYZDVq94xyZT6U6+ZgatXEsohOQPYvDEuDStXlMrjnpPJuNbyiShYpwwqwnM=;v+W9g4CcP62vdvfVccBuMQ=="
 ---
 

@@ -226,20 +226,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
-  - title: "We must rein in the precocious Generative AI children. But how?"
-    excerpt: "More than a thousand people, including Elon Musk, Yoshua Bengio, Stuart Russel, Gary Marcus and Andrew Yang, called for a six-month moratorium on training systems that are “more powerful than GPT-4”, arguing that such systems should be developed only when the world believes it can contain the risks ."
-    publishedDateTime: 2023-04-28T03:02:00Z
-    webUrl: "https://www.livemint.com/mint-top-newsletter/techtalk28042023.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 39
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/04/26/original/Picture3_1682515135532.jpg"
-        width: 504
-        height: 500
-        isCached: true
   - title: "Box embeds generative AI into its Content Cloud"
     excerpt: "Announced at Box’s Content Cloud Summit today, Box AI is billed as a suite of AI capabilities that will primarily focus on two things: helping users to ask questions about documents and creating new content in Box."
     publishedDateTime: 2023-05-02T12:00:00Z

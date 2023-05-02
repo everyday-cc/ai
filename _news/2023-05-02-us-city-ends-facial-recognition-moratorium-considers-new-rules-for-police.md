@@ -67,6 +67,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Speech and Voice Recognition Market Growth Status and Foresight till 2030"
+    excerpt: "Get a sample PDF of the report at -  The global Speech and Voice Recognition market size was valued at USD 10964.1 million in 2022 and is expected to expand at a CAGR of 22.26 Percent during the forecast period,"
+    publishedDateTime: 2023-04-28T08:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-growth-status-and-foresight-till-2030-2023-04-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Machine Learning in Communication Market 2023 [Latest Report] Size is Expected to Grow at a Phenomenal CAGR till 2030 | 128 Pages Report"
     excerpt: "The Machine Learning in Communication Market Scope and Overview Report for 2023 presents a detailed analysis of the"
     publishedDateTime: 2023-05-02T05:28:00Z
@@ -82,6 +96,6 @@ related:
         height: 630
         isCached: true
 
-secured: "/QmTVpJVPbVILwqBXMRpIboniAJEAvVX++mfZoQnqW1bzzqCMguDXb/d1tByuJM72KErHUCb7Slc7lZpuQdLO1/6IlkaXtTtOLtKz0qnT9BDniUuecGJZoEFxSyoXkc0UKc6eaeBu236KM9r1CGazZWneq7hqKF0kSH8TvsOGOXAebJFQxLAaThsjHwMbMMwThnQq8oWxrVJja51YFdu5+dpImtU7L/jkbl6+TW6eImxlyCNvKgHpDYNBX2MJ5kpKPlGj8trfpeprPXc+irYbg630Q6OZom0VTYHPwOgtVazRPNqyO5rZ4aQmRvwPX7sAQOLhC64TGkT4uIMhcViRoSsPo7o271DSX5lQf5nJvE=;lRw2QVYyDEVPGZvDeQAauQ=="
+secured: "LxTXGsi7zMN+wsPyf43VAqZOHJTpUsKGCMl5Z05tq1AqzWHubqTEQo0qutBsi+h5nw7BtQ0VbjQO84zNcwn3xpT/Di85caHSEjqaz4roU/m5ahaN/R/c4Oh+cPBRVmC1uIlogZVNhJwq9QupKGuuEX+gmKBaVAPDfCVuPJPVjPPWf2II2mEJ0o3VIIIWyox6MUB7S89VJfmbqb9GCKHykrQCpzDevZXtAHk5xRq1J10zh4Av4C5RxizQ40T4b8AyZb9sO+IS4tcxee8eXNR3fcQ3SLL6yfMKowvBdg9jhfBWs1ukmmctimYzykxoMB6/Z4L8Jr9ceqgQz0Xs1IBLLYQWF1Mg+tTuggCzYCVCyTHzDSVBqPbh6F2/lTnuZcq0aUBOgXlCs2PZ9+/IJ1VMq8GjbHNvVUW5K2vDWwBgLdzLkk46bk1rPJD/LnLGBer8m7wigV+powPK0GktQe0hItIGA2bEHaa6kYmlH2Wncl3E7ATH99VWWG3GfGL9zbIJT34GaO/pXa3kg69yo9UCwQ==;QhDar4dc2tbCsn4n6w/Fsg=="
 ---
 

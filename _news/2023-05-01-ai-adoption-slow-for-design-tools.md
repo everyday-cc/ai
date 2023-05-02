@@ -24,17 +24,6 @@ images:
     height: 466
     isCached: true
 
-related:
-  - title: "Why Sign Language Translation Poses a Puzzle for AI"
-    excerpt: "Even standard travel information is rarely available in the native sign language of many Deaf people who are expected to make do with written information in their second or third language. The UK’s Network Rail is one of several transport companies around the world working to address this gap in accessibility."
-    publishedDateTime: 2023-05-02T09:35:00Z
-    webUrl: "https://slator.com/why-sign-language-translation-poses-a-puzzle-for-ai/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 19
-
 secured: "fzwAM/EvKlfonIPdfCofMcn8TVLA6dsuqjkCtkocBj1ewRCbmN85Xiu1IucrS1Nrero7mWnotVP+PGhFBwh3HNiLrHp9e7WBQfv1B1Nb97g02MbDIUFyf8Z2I1zFLVHupsTO5aNH6RNF+KaeDOs9h9+te+5sovFY+v9ikFya+E/A7BEoAdthIiyRVuD38QuM3Y7BRIznK4azHLY147VWB91PaAPfeNlBSDJicWbVyF5FfMG6RnRnZ7gGtfl5uqw6rv0dgPBXz/hoAl1vyZ/VP5ggClf8QtPl7s38aJKQBHGDqlrbNWgagQG4P8Ol2q0lxqO13xXf/SOlOVgTsuo/zbc0ObVgYn3mnw3dmC43brV+sNXbTkzyV9a9d+ulA6ylIeOvjqbnwjtVGB7q7cI8U7BKOIuEsZ+gJ/BIUmLO34hR/qKAHjGQVzAGLXvce0vUc+FKVYBQEc3dZhru1axq5CFCaR+lmwr/xgo2ZvGKtgznCK+2TQzeY5vJiPDJo88q9+Zc3Qv6Nogr2l+eqCZdMA==;CY6CCR2H3TwqfH6uTaFVdg=="
 ---
 

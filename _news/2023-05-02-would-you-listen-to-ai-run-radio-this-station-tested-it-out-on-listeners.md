@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/would-you-listen-to-ai-run-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/would-you-listen-to-ai-run-radio-this-station-tested-it-out-on-listeners/"
 type: article
 quality: 86
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Robots run the show as Swiss radio station tests AI voices for a day"
-    excerpt: "Three months in the making, the French-language station Couleur 3 in Switzerland is touting a one-day experiment using cloned voices of five real, human presenters."
-    publishedDateTime: 2023-04-28T01:55:00Z
-    webUrl: "https://www.ctvnews.ca/sci-tech/robots-run-the-show-as-swiss-radio-station-tests-ai-voices-for-a-day-1.6374928"
-    type: article
-    provider:
-      name: CTV News
-      domain: ctvnews.ca
-    quality: 34
 
 secured: "7uOmCPBHg99fWZcKeCG+ursL0iZO7vMKaVH1AOtqkV+fd/sW1kXkZD0bbwZjtYDBKVeHxFO0OzMiuRIlZ4t8F+BDgoZ944oFXNsRoDWyQrojuRMuZmrM7G/kS8wYNuoW1RBtA2Q+dBLxQWi+W8dIwmeiWrjYfC2L6IOx5ZuZWGr+Sz9j4inDdA8Y8v0pis7i8ENNdbWhyyAFogyTOeACLNWqdAiq0gZNY8RQxKe8EOUTSdEYyq9HtWOkx2P/kKnL4JETO+DPdiHBJCi48PMTV9TJ4DpS7ux2E10jW84k1xZfjz3xe3JEXJdme7Ei9zFJVLCPT42ZMfrHb5XcW4urN+9VbNpKt+CZCqKk1jreP5imkHmFdYlaz5aX++pTJc+/Vq4uwn2GmXmUv0Cc99u4odHb0pTl8WT6rnv2cjfE0KZVF6J7sbOl3JVSlbopsMcaGv1lgAVSwcjPHNygiWyDfudeB8PSm0n3AMN207hoI5H3Yux2/bNBIHLjPgKXW9RYHtlnd067W2ppKzN5HLJN/A==;u2dd3mhgaDKAm0OwPXmeSw=="
 ---

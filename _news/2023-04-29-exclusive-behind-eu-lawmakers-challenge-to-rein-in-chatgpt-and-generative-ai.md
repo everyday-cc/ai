@@ -38,6 +38,29 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Samsung bans use of generative AI tools like ChatGPT after April internal data leak"
+    excerpt: "Samsung bans the use of generative AI tools, including ChatGPT, on company-owned devices and internal networks, Bloomberg reports."
+    publishedDateTime: 2023-05-02T18:55:00Z
+    webUrl: "https://techcrunch.com/2023/05/02/samsung-bans-use-of-generative-ai-tools-like-chatgpt-after-april-internal-data-leak/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 43
+  - title: "Challenges and Opportunities of Artificial Intelligence"
+    excerpt: "Previously, she served as vice president and group counsel, artificial intelligence products group, at Intel Corp. She previously held attorney roles at Sun Microsystems and Fenwick & West."
+    publishedDateTime: 2023-05-02T19:13:00Z
+    webUrl: "https://www.govinfosecurity.com/challenges-opportunities-artificial-intelligence-a-21768"
+    type: article
+    provider:
+      name: HHS
+      domain: govinfosecurity.com
+    quality: 39
+    images:
+      - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/challenges-opportunities-artificial-intelligence-showcase_image-9-a-21768.jpg"
+        width: 860
+        height: 520
+        isCached: true
 
 secured: "XiR/RBh9zrR0riXGJG/FxZ8ycQxSrBi3ahZFkL4gz+o8+fFPTPuaOiJpT2/6Qek1nlZ6pBtmH8lQ5KrSnA/73ZzO9mXNUnotIvDgmnWIouEgcBq+1RF5mXCJX/fdY9fKKrMzRsBrcUxEJ1nIWqcrgNmkoGtbzOZBp4b2iDCTb0rUPkd2Tlbxe7a88Ie/jI01wPl7HYqaf4H0NFTZCJL4mLZt8JEn/+OG7n1yyjK6MmGJiAqoJpvBRrNAbAgKDuZb0rlSnTu7h126QHg8/Zv20ZwMvjTZeA7zEzQz0MiA6QM2KKFOLqOYbU/87u4YE1kcd5anckU7lwo555ef6mJZ5GMX6/3edwspUpWdsADdZ8Cj+0KXs/pCy+ZHd+jX63HJA9AtsBcImpOQypAXmrDh9vtouaL8oQXXr1DQgs0JfOJjna8Ll4gPIXkbSR2AavJCJNl6H2RfIb27T/2wvZxaWoZOHOObO9G3V0IdJFwpT0bxGR2rtLnB39+vCgi507GRRTYrbYPsthl/aiHxLGL61A==;r3jfo3yd2O45bbuQ09PyDw=="
 ---

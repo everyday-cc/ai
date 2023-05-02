@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "IBM plans to replace 7,800 jobs with AI over time, pauses hiring certain positions"
+    excerpt: "IBM Chief Executive Officer Arvind Krishna has revealed plans to pause hiring for about 7,800 positions that could be replaced by artificial intelligence systems over time, according to a Bloomberg news report published Monday."
+    publishedDateTime: 2023-05-02T15:48:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/05/ibm-pauses-hiring-around-7800-roles-that-could-be-replaced-by-ai/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/05/ibm-pauses-hiring-around-7800-roles-that-could-be-replaced-by-ai/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/05/ibm-pauses-hiring-around-7800-roles-that-could-be-replaced-by-ai/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 81
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/05/ibm_cloud_hero_2-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "IBM to pause hiring for jobs that artificial intelligence could do"
     excerpt: "IBM chief executive Arvind Krishna said the company expects to pause hiring for roles it thinks could be replaced with artificial intelligence in the coming years."
     publishedDateTime: 2023-05-02T06:43:00Z
@@ -70,22 +86,6 @@ related:
       - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2023-05/02/full/1682990709-8201.jpg"
         width: 3840
         height: 2561
-        isCached: true
-  - title: "We need to bring consent to AI"
-    excerpt: "This week's big news is that Geoffrey Hinton, a VP and Engineering Fellow at Google, and a pioneer of deep learning who developed some of the most important techniques at the heart of modern AI, is leaving the company after 10 years. But first, we need to talk about consent in AI."
-    publishedDateTime: 2023-05-02T09:47:00Z
-    webUrl: "https://www.technologyreview.com/2023/05/02/1072556/we-need-to-bring-consent-to-ai/"
-    ampWebUrl: "https://www.technologyreview.com/2023/05/02/1072556/we-need-to-bring-consent-to-ai/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/05/02/1072556/we-need-to-bring-consent-to-ai/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/04/opt-out-writing.jpeg?w=3000"
-        width: 3000
-        height: 1688
         isCached: true
   - title: "IBM’s CEO expects A.I. to be so good at back office work that he plans to pause hiring humans for those jobs"
     excerpt: "“I could easily see 30% of that getting replaced by AI and automation over ... Kyndryl Inc. and part of the Watson Health business. The company is currently considering selling its weather unit. Armonk, New York-based IBM topped profit estimates ..."
@@ -157,6 +157,20 @@ related:
       - url: "https://gumlet.assettype.com/fortuneindia/2021-02/2f2ede7d-e89f-43da-8e88-b22350d8a2ed/Arvind_Krishna_Courtest_IBM.jpg?w=700"
         width: 700
         height: 441
+        isCached: true
+  - title: "Artificial Intelligence To Replace 30 Per Cent Of IBM's Non-Customer-Facing Roles In Five Years"
+    excerpt: "Approximately 26,000 workers in non-customer-facing roles, including human resources, will experience a hiring freeze or reduced hiring, according to Krishna, reports Bloomberg. “I could easily see 30 per cent of that getting replaced by AI and automation over a five-year period,"
+    publishedDateTime: 2023-05-02T05:22:00Z
+    webUrl: "https://swarajyamag.com/business/artificial-intelligence-to-replace-30-per-cent-of-ibms-non-customer-facing-roles-in-five-years"
+    type: article
+    provider:
+      name: Swarajya
+      domain: swarajyamag.com
+    quality: 27
+    images:
+      - url: "https://gumlet.assettype.com/swarajya%2F2019-11%2Fc00b7e18-090d-4c68-93ed-27a5c118333e%2F640px_IBM_Bangalore_Manyata_2.jpg?w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 640
+        height: 427
         isCached: true
   - title: "IBM pauses hiring, plans to replace 7800 jobs with AI"
     excerpt: "IBM chief Arvind Krishna mentioned back-office roles, including human resources, which currently consist of approximately 26,000 workers. IBM pauses hiring, plans to replace 7800 jobs with AI. AI, Artificial Intelligence,"

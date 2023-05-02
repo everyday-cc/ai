@@ -7,7 +7,7 @@ originalUrl: "https://www.datanami.com/this-just-in/sap-to-embed-ibm-watson-ai-i
 webUrl: "https://www.datanami.com/this-just-in/sap-to-embed-ibm-watson-ai-into-sap-solutions/"
 type: article
 quality: 54
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -62,7 +62,16 @@ related:
       name: CIO
       domain: cio.com
     quality: 34
+  - title: "SAP Start will have IBM's Watson"
+    excerpt: "SAP announced it has penned a deal with IBM to integrate its Watson AI into SAP Start, which in turn provides a unified entry point for cloud solutions from SAP."
+    publishedDateTime: 2023-05-02T17:57:00Z
+    webUrl: "https://www.accountingtoday.com/news/sap-start-will-have-ibms-watson-ai"
+    type: article
+    provider:
+      name: Accounting Today
+      domain: accountingtoday.com
+    quality: 19
 
-secured: "nmYNbUoiObOP7LJ25np0vfPRw7iXUJFeH/tPhhFBExDHj949wvUoYaBIX/V+RaZIGj/35jFqKlze4tyUOqNA7gitiMA0fveng7K2FDQ3TvNOqwO6OreLN2yHapSa9q1ABIOMJoDEPhaOaVN+LBzTFX5LQCl1YlsZPNExPjApfmy8kH8SHWQ4sUVu+TI8LFoXrwREjfYfaEy2AmyuepytdZZ9uXZ0vikRWyzXhAKLY8nu7+jrIgwEuR6dSF9z8LSXQG8byWhzXB7b9BVjWEjxsg9Opop67YqrWXYdJJBCvJmbRI5jDu0Vf82g0tpzrfCVwEvINOL15jTuz0Xx30S9i/axYOyJVX+rC3ba4w/CExE=;elLs5dnJcqqtXUNjlB+0gA=="
+secured: "ucbHidyH+vuNtSNi+R90a9zLpewd4XOapuVTKBkG82lokiYbtFu73wXZRlePf+duY2rgEgPPazY2s3me/zKD0dZamc5gC/0tTNSN11nqcENywfWlHrp5DqDwxoB+CQ/u+JJ46W52QtJDxYjA1bXPqZn0zNC8fPtH16wKhts2KANoiH1ZiYIinFORDspGdkaY/IDDatBJGDXExVDxvsiImx/VDCwQvl6wNqeHkPsHW93r/HlAREaiI/436ldPbqVLWYUSsVFIkht7Ss0Zjm3YA57oMsWa5RltzznuONEJBln51xHbof+OXECv23v5lDPu5s6OaPeuuCdRLY/JjmCqJ0wNjahpgk99yTG8E7/WAFkw2sb4ij4tn6kCL1x0ZLVDFmZjAf/z8hTkVjciQey6bsp37e5N6lbR4TAXvyO0jFVtLVT9XLdwUMbLs3nB4j3ib7ob1a4rJq87/885alCCSHGMOCJ0DgWtwRoS/ygRWsM7iyC9kiWpI/tYAtmnpy3pzs28/dFXxGZinaCTxMtliw==;KF4faq64iBeakDq+be2rGg=="
 ---
 

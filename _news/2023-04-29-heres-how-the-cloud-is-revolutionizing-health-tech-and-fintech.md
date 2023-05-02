@@ -45,19 +45,21 @@ related:
         width: 740
         height: 450
         isCached: true
-  - title: "Latest \"Artificial Intelligence (AI) in Fintech Market\" Highlights 2023-2029, With New Report"
-    excerpt: "The Readers in the section will understand how the Artificial Intelligence (AI) in Fintech market scenario changed"
-    publishedDateTime: 2023-04-29T01:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/latest-artificial-intelligence-ai-in-fintech-market-highlights-2023-2029-with-new-report-2023-04-28"
+  - title: "How One Fintech Startup Wants to Combat Money Laundering"
+    excerpt: "Fintech startup Kyros introduces a complete cloud-based solution for combatting money laundering and financial crimes with AI analysis and third-party sources, simplifying the process of onboarding an"
+    publishedDateTime: 2023-05-02T19:49:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/05/ab32171324/how-one-fintech-startup-wants-to-combat-money-laundering"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32171324"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32171324"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 73
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
   - title: "Rising AI and machine learning investments powering senior care advancements"
     excerpt: "It’s perhaps no surprise that investment in AI and ML in healthcare rose over the last two years, according to new research from commercial real estate and investment company Jones Lang LaSalle."

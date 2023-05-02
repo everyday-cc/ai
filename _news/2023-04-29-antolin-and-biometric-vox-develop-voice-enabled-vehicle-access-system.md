@@ -26,6 +26,22 @@ images:
     height: 845
     isCached: true
 
+related:
+  - title: "Paravision paper, Biometric Vox deal position face and voice for automotive evolution"
+    excerpt: "A Paravision white paper and partnership between Biometric Vox and Groupo Antolin position face and voice authentication for the cars of the near future."
+    publishedDateTime: 2023-05-02T18:47:00Z
+    webUrl: "https://www.biometricupdate.com/202305/paravision-paper-biometric-vox-deal-position-face-and-voice-for-automotive-evolution"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 17
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/03/16175134/car-auto-driving-scaled.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
+
 secured: "Q642pRzuiXOgiYYWbKQA74jTV3EKqYrxcRa30TsZNnPM3qcNtPc2LAncskvBzx+zbhemSYWRmPbM+DEfZT/O3iKtnei+sbwhUKTefgegeQdRGlq8yPW2qMg7AcANgYMx/OfBREDdyr7v/BAj5i/yKQHuXtqBy/NFuxUTQq3hd098POUDEt22p6BRP7B9B9+qjBJFXRENZyMtk33H5Xmy93jpCbRlt+rn0g+egdd+4mY2B5rN94EjXi9k3Cjd3xNRCb1RtWdqGxqL4UxubUCwXHCCdpDJ3PFE6IULN1VgbdSqvRkd5U+YcS0CjvK5blgGvuJ/XXBenOG8KyIOol8Qys8vqVPLHwlEmDLGaJ7T0qA=;tgdHPdUz3Mx0ChCBhRbfAQ=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.heise.de/news/Top-researchers-on-the-AI-Act-Overregula
 webUrl: "https://www.heise.de/news/Top-researchers-on-the-AI-Act-Overregulation-poses-security-risk-for-the-EU-8983825.html"
 type: article
 quality: 52
-heat: 62
+heat: 52
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 1200
     height: 792
     isCached: true
-
-related:
-  - title: "EU proposes new copyright rules for generative AI"
-    excerpt: "Shortly after signing the letter, the Financial Times reported Musk was planning to launch his own startup to rival OpenAI. ALSO READ: Elon Musk plans AI startup to rival OpenAI, Financial Times reports"
-    publishedDateTime: 2023-04-28T01:55:00Z
-    webUrl: "https://www.asiaone.com/digital/eu-proposes-new-copyright-rules-generative-ai"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 37
-    images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Apr2023/20230428_EUAI_Reuters.jpg?itok=7hZy3u6s"
-        width: 848
-        height: 601
-        isCached: true
 
 secured: "AZdBXna/RLBeHDihl95rbzAuUDocADCmo0D88E9gF+KBmhXUDO+h6Qbctepj9UCm3I3EB6r1fW/P97r3OHAB9O/Max1htHgux83YjCrVyQOpSk8ul7i3gML+rVOePRR6SFvkpk624jyJydUZ2NI8zh713gxOIpvXUHRkfYJWHNee8AjMwDh0II6B0cUz1X/EilD/xpTdp6DDeUv1u3NNr30XggOPZnHA7aYSEutwLsvEMhRJFLTGmoCh+ER9VV0GNlC3ffXGdkxNu9ffYC9XRn3tmRRDCpgXZS8uzSDyfnqVSyGEqIZeg4YbwaArAv4qLFrwCxfZkr+j2wXA9wf6faT+PvXdc+O2exA0Ry0/mu0=;9c/R2K4NLUiRVUUt6fY2xA=="
 ---

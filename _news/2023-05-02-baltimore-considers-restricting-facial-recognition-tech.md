@@ -35,6 +35,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Baltimore Considers Facial Recognition Restrictions"
+    excerpt: "Proposed legislation would require the police department to get approval before acquiring any new surveillance technology and would establish an oversight board to monitor the city’s use."
+    publishedDateTime: 2023-05-02T21:08:00Z
+    webUrl: "https://www.governing.com/security/baltimore-considers-facial-recognition-restrictions"
+    ampWebUrl: "https://www.governing.com/security/baltimore-considers-facial-recognition-restrictions?_amp=true"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/baltimore-considers-facial-recognition-restrictions?_amp=true"
+    type: article
+    provider:
+      name: Governing
+      domain: governing.com
+    quality: 39
   - title: "City councilman introduces bills to limit facial recognition tech"
     excerpt: "WBAL NewsRadio 1090/FM 101.5 - New legislation could limit the use of facial recognition technology in Baltimore City."
     publishedDateTime: 2023-05-02T12:46:00Z

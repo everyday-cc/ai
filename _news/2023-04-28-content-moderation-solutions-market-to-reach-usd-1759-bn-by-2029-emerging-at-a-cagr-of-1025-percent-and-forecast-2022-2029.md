@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Fintech Market Research, 2023-2030"
-    excerpt: "The Global Artificial Intelligence (AI) in Fintech market is anticipated to rise at a considerable rate during the forecast period, between 2023 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
-    publishedDateTime: 2023-04-28T01:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-research-2023-2030-2023-04-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 84
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence (AI) Consulting Market Research, 2023-2030"
     excerpt: "Consulting Report 2023 The report further studies the market development status and future Artificial Intelligence (AI) Consulting Market trends across the world. Also, it splits Artificial Intelligence (AI) Consulting Market Segmentation by Type and by Applications to fully and deeply research and reveal market profiles and prospects."
     publishedDateTime: 2023-04-28T14:18:00Z
@@ -71,33 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Latest Trends and Strategies for Artificial Intelligence (AI) Chipset Market During 2023-2031"
-    excerpt: "Chipset market growth? Artificial Intelligence (AI) Chipset Market Size is projected to Reach Multimillion USD by 2030, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2030."
-    publishedDateTime: 2023-04-28T03:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/latest-trends-and-strategies-for-artificial-intelligence-ai-chipset-market-during-2023-2031-2023-04-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-  - title: "Latest Trends and Strategies for Automated Machine Learning (AutoML) Market During 2023-2031"
-    excerpt: "What is the Automated Machine Learning (AutoML) market growth? Automated Machine Learning (AutoML) Market Size is projected to Reach Multimillion USD by 2031, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2031."
-    publishedDateTime: 2023-04-28T03:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/latest-trends-and-strategies-for-automated-machine-learning-automl-market-during-2023-2031-2023-04-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-  - title: "Mobile Speech Recognition Software Market Outlook by 2031"
-    excerpt: "What is the Mobile Speech Recognition Software market growth? Mobile Speech Recognition Software Market Size is projected to Reach Multimillion USD by 2031, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2031."
-    publishedDateTime: 2023-04-28T02:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/mobile-speech-recognition-software-market-outlook-by-2031-2023-04-27"
+  - title: "Deep Learning Software Market Analysis: Current Market Size, Growth Projection, and CAGR of 6% from 2023 - 2030"
+    excerpt: "This report on \" Deep Learning Software market \" contains the data required to conduct a SWOT, PEST, and STEER analysis. It gives a better knowledge of market dynamics and industry competition. The Deep Learning Software market is expected to grow annually by 6% (CAGR 2023 - 2030)."
+    publishedDateTime: 2023-04-30T11:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-software-market-analysis-current-market-size-growth-projection-and-cagr-of-6-from-2023---2030-2023-04-30"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "1URgpqfpFi709+9dvVSFcV2kOnn6NWVvgGPn7RwJuB0R0VvYvWPsaJUMzbAISf5Ns81BdTfSfUYWmkfiT3JNVFG//9GAQ4qomjwAGtXYHrgu7Kw2wn5++Wsn8ynGWp5R8HzA4TnLXxlp3IIXAHy5Ot/bByu9oh70OtRMoUmqC4E2JMSclM5GtfSl4unV8eMryUqMtwnWg0hrU7pGCyNS2swpbOA8Xj7mqepaUcqljduygPjwYf4lvEAquCngw9bJ2Qwj7iHn2iMSgalWse6u0EeGjot4Bw+wAkG5DP6VYFood6FYlCdwipswJbPYckbLI4QddVDUgcL2Z5uRAnKQCg1DD6EX2Kci0foqFcURDK4=;71QL9zavQITANgXu5ns2Aw=="
 ---

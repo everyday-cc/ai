@@ -298,6 +298,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Reid Hoffman's new AI startup Inflection launches ChatGPT-like chatbot"
+    excerpt: "REUTERS/Brendan McDermid/File Photo May 2 (Reuters) - Inflection AI, the AI startup founded by LinkedIn co-founder Reid Hoffman and former Deepmind (GOOGL.O) researcher Mustafa Suleyman, has released its first AI chatbot product, the company said on Tuesday."
+    publishedDateTime: 2023-05-02T18:08:00Z
+    webUrl: "https://www.reuters.com/technology/reid-hoffmans-new-ai-startup-inflection-launches-chatgpt-like-chatbot-2023-05-02/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 47
   - title: "The AI revolution: Spotlight on ChatGPT as AI seeks to reshape the world"
     excerpt: "We look at some of the first steps companies are taking to harness this new, now not-so-secret weapon to supercharge their business."
     publishedDateTime: 2023-05-01T02:41:00Z

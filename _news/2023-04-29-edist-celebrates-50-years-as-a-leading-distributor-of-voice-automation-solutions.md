@@ -2,22 +2,22 @@
 category: news
 title: "eDist Celebrates 50 Years as a Leading Distributor of Voice Automation Solutions"
 excerpt: "Established in 1973 as Eastern Electronics, eDist began as a modest storefront in Queens, New York, specializing in business and telecommunications equipment distribution. The company expanded its presence across the United States,"
-publishedDateTime: 2023-04-28T18:16:00Z
-originalUrl: "https://www.miamiherald.com/press-releases/article274839621.html"
-webUrl: "https://www.miamiherald.com/press-releases/article274839621.html"
+publishedDateTime: 2023-04-28T17:16:00Z
+originalUrl: "https://www.sacbee.com/press-releases/article274839621.html"
+webUrl: "https://www.sacbee.com/press-releases/article274839621.html"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: Miami Herald
-  domain: miamiherald.com
+  name: Sacramento Bee
+  domain: sacbee.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "i3cjditvoeEMrJ1TkhC48ACPclijlCv3W1/K5W/wIrzIXE6DsuQGfsVtcjU473RxojyVxdKFjdNJSUtgKhnV5jR24cfK2PcvLsRY30EwmiYGuQ6YEVmcOVXqPjnvHkiBaFWunYCHRCfGGuQRe5jsHeb/b3IYWbeDUOTVQWrqm56A6zs2ybv94sui+jtnwbpg7zo496pSP5VvLnY23f+O4kjVa85yqDutX/FftNYqQz8UZbokrkVfdpLyZCCmGqZeuvYf8ySbow6OG/NaxHwusY3AU0Qm0e0lc+QDkR/nYtm/mVkqh5zPnnJHYAPZVYA2HfvnwawTsUM8iVk9XD7yidPDU94cCgyjCJw0R2e7YJZGXT7DEEDARh90Uh5cNW9xeL8Z07cv3JmvFfhKfrsmdV01nRTEXZjKMophQS/mXFRiQo1I+sGuvIxZLOp/Jha4ryuzgGLjcDMXaDcrpGV32FWLC5teayVCG1zHX5aR4o1w0Yl9z1DAiWqK6KWHV94hgTWt7Qy3FOLF6z61VPUp/g==;KJ7QBKpM8PxSm7EPKJSaDg=="
+secured: "XKmfF7+1kK2azcAWf/9hoT0D0BoD403oyMmZ+HmbPBT12nP+KiRANiq2G39tqrDQXQe933/WZEgh6GSNj3PuCj5oVDsP9IrnI0VqAmjYMWnNSaY0CCheS9A4DO22/ePFrikvR+RDkl6RdOrYGMvVlJGYShSOfGJ/SQxHcXo53pH3persZnJV0COgM63zVJeJgqBmx9bsESUhDWC63XDo23oKeRVkRWQJGi9bUfKL1CDw7cFl3E9XVlfyYCFeIhgQnZNsshrkTTLNkAhIJVF/N62qBSL/jvwPifR/Dgpt9G4Q+SbhD7lE+TjTSnZR6s7mVvY+9TTyHIXUSJtKEGfU5wSzmSYDVG91Y+V91R0vS5Cmipux7MG32skldhSinlB456grHlDmA+ryzRYilAdqRNhqq+toxMKmwZ8hkx84v6+OPbBbUXcMhcfZnMjgK9XxpuE+4KuUcNVV/SY1Nc9FeDd+ars7dBDtISupi/up4JqPXwqY/v16IwW0PnG28nnEk6fEWWMsXjn2LPeSVqPBwg==;IecKtkWOfAhF5/KNhyzm+A=="
 ---
 

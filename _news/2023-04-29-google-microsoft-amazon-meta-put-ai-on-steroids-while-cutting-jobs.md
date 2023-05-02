@@ -7,8 +7,8 @@ originalUrl: "https://interestingengineering.com/innovation/google-microsoft-ama
 webUrl: "https://interestingengineering.com/innovation/google-microsoft-amazon-meta-ai"
 type: article
 quality: 56
-heat: -1
-published: false
+heat: 76
+published: true
 
 provider:
   name: Interesting Engineering
@@ -26,20 +26,29 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft's AI will now help you design your Instagram posts in seconds"
-    excerpt: "Microsoft Designer is now available to try out in preview for free. It uses AI-based text-to-image generation to create social media posts."
-    publishedDateTime: 2023-04-28T05:03:00Z
-    webUrl: "https://www.androidauthority.com/microsoft-designer-social-media-posts-ai-3318234/"
+  - title: "Microsoft Earnings Takeaways: Cloud, Generative AI, The Path To E7"
+    excerpt: "Analyst reports point to the potential for Azure deceleration slowing, an end to customers optimizing cloud spend and the sales potential of generative AI. Better-than-expected results from Microsoft’s latest earnings—not to mention those of cloud rivals Google and Amazon Web Services—led to a mix of analyst reports hopeful for Azure deceleration slowing,"
+    publishedDateTime: 2023-05-01T14:20:00Z
+    webUrl: "https://www.crn.com/news/cloud/microsoft-earnings-takeaways-cloud-generative-ai-the-path-to-e7"
     type: article
     provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 84
+      name: CRN
+      domain: crn.com
+    quality: 54
     images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2023/04/Microsoft-Designer-AI.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://www.crn.com/resources/027d-17198c0bb2a2-47b52df5a838-1000/nadella-intro2.jpeg"
+        width: 610
+        height: 457
         isCached: true
+  - title: "Microsoft's chief scientific officer says there's no need for a pause on AI — despite what Elon Musk says"
+    excerpt: "Thousands of people, including Elon Musk and AI experts, signed an open letter seeking a 6-month pause on AI development amid ChatGPT's popularity."
+    publishedDateTime: 2023-05-02T18:23:00Z
+    webUrl: "https://www.businessinsider.com/microsoft-executive-elon-musk-ai-acceleration-not-pause-open-letter-2023-5"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
 
 secured: "1VA54ybzhOAQOgArqybiwHQYlf8Nx7EX1c9cgQqWZbZArA2ijWMjyg9B7n5G1oK37FwuDFHe6Y/NI2+AmPSrwyIjmNueOGWCjALfqQFvRndZ3ph2KJGcxQTs0q31zLMMHlpC4//b97x8PyX79vXlfUaM0jYgAU574q7wesmVLaCxsFRGCP4TVRFI/QQnVWrdk8urc48L3moIkIAjAtvcT4VyuBShI+J3RoIDHJIuR5LK04bJP6yQZVwZ1z9ysQ/nHjyRkUswbFXGMGY4oDOQ/fZ1eHMejSRmLX3x7ylk+cY6GX150Q4h26c1VjYM343PQ0qXkZv46GjP2peH+hcEqN4zharTuu7qouIQkSSd+dCr/E0oaVWXfQs/cE7L1CPl9HL7XQJJqAKbBVePJipBgIJTVcgURY5Tb1mxvxkZrj+m9Lwv84yIaydRsZFoE1hFssvVDDqtNRIg0wl+K5/ZH3EXztlVPZjj390Cjq5T7+fBaAH8guj3bX09qOjixqjj5zbXDdlZTvW1BL5tyLK9+Q==;Gt9DidGvu9DSHXZf/E7ztA=="
 ---

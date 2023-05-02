@@ -47,6 +47,15 @@ related:
         width: 1185
         height: 790
         isCached: true
+  - title: "Wolf Pack: Israel's accelerated use of facial recognition is ‘automated apartheid'"
+    excerpt: "Israeli military increasingly conducts 'intelligence mapping' raids to document facial characteristics of Palestinians, Amnesty says"
+    publishedDateTime: 2023-05-02T19:09:00Z
+    webUrl: "https://www.middleeasteye.net/news/wolf-pack-israel-accelerated-use-facial-recognition-automated-apartheid"
+    type: article
+    provider:
+      name: Middle East Eye
+      domain: middleeasteye.net
+    quality: 13
 
 secured: "/GzES4OIeb78I7tbxbvXh+iCNYEtNUfEC1cABmKCGaXEv/6BIfqlNql32Miygpqs3qbeyk6ZNrn4wwbeuYHNQKooI2uze2Ec12AwjObHs0GF+f4L35uCsGXtToQT3VrE5TbQJnxo5A3wGDXg4vyjL/H6fsigqvWUS0JmrxlO20x9ds4kP12VT+CRmMOr1Wwv6j4MeTjYdZTDK6Mwq1ILBlPh3qq44Qoe94xdQSHQRUeFt/DvzdmLaBPrnR5rFXKzeiF59UtzOF0sxHHWuZ+cGLKJP2QIKdmhd+8uFE4YZ5OCzKXZXmU7rCW2YUOHTQwZWt1vQPG9KFE/F5okHrAYRIq9FtZMXAg41mskl6pppP9PnEKkQbxet3NADaYZG/mG1xHDxhskCRyh1rz9wznw/QH+i8uyozNHNCayKZwZmOr2+B4YV5jbn4OgAIi/sdcFCSZkY1H4UfQrmTSL4RPBjBPsomEXw5aZ6DMA1QN47bseyohDH+wHO5vfgHGyo1KWnwCXWKP4l9CcxJnqI7ac6A==;vrJCo8Vl8rlI5Q4wz+JcTw=="
 ---
