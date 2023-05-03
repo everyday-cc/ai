@@ -39,6 +39,20 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Best Fintech App Development Companies in the USA"
+    excerpt: "Fintech apps are designed for various purposes such as payments, budgeting, investing, and lending. Fintech app development incorporates advanced technologies such as AI, ML, and Blockchain. Developing a fintech app requires expertise in both finance and technology,"
+    publishedDateTime: 2023-05-01T09:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/best-fintech-app-development-companies-in-the-usa-2023-05-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "How One Fintech Startup Wants to Combat Money Laundering"
     excerpt: "Fintech startup Kyros introduces a complete cloud-based solution for combatting money laundering and financial crimes with AI analysis and third-party sources, simplifying the process of onboarding an"
     publishedDateTime: 2023-05-02T19:49:00Z

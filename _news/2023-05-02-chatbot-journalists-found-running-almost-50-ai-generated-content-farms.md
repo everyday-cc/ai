@@ -150,7 +150,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 79
+    quality: 81
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/64514e67237fdc5016762baf/0x0.jpg?format=jpg&width=1200"
         width: 1200
@@ -499,6 +499,6 @@ related:
       domain: businessnewsdaily.com
     quality: 4
 
-secured: "ARl8JDYtMFIw31Qj+MAWeGIgJzvGUSFYG9gBEu3cHH5itpeQ40u66whVdEBNbrSHXVA6DYoFREWbERFo0l90g5GGnO/gaRVmXYLcMoBc+g5CEDGMUmsDyPVvSa7UrBjjUMfBIMD6JpeqxlGURHGSbiPLsfgKOeWbgfZAbV+ia9FFNV9a1jxlOr0L6kZiEO30Vyz35Byo7NHxHX8oAA9voyPD96JrHOONY9ctKhzkp83yUtpe8PFS7LEbX1IU8As6I6M0dmEvslrgCfw3Uq6zYPCZmYbDzIag2V6f7p5BWJMHl36NSGJiXznIupXqiZuY9YowlAwULxGGGw958qm5DAVU4LgxMkLxrYd+J6bBHP0=;H7Hp3f4mwVh61BlpogiK+Q=="
+secured: "cucX8StsSGc5iouz2+9wS24J4DIhASWz9313ruebzQngsS298QlgyZTAcxiAA0GE1fjpgLp8emGK6jX+XaQV74d2hMMkJQh7c/JQ5Ynz/XyKImWxZY2H+2nESME9ubB5M8Gtnzy3Bncr+3T7qi22vGyPhhP6oAVVc1sweejPoLrNMNDlDbmjKRjHll7tfYNYiDEO+AN1MUSgz1HEiDe3SIKGmZC7EpFCuA5Wm6BGJIlYloIkeRz9mESk1JVmxAkE+luv1he1DzK0kzcj5WmgRc2Twz5qfperq6XjwHMmEk1uGItaFxIRgyNQwuG305/0Dih+Wj3/ipv2VqymDSImT9IPJKcWisHOTAkzK+oKKeeNadaJqEXOa727HB/+JIrySapqDmBgYSGc3CZKgvw950ABME1Wul2/qFtzYdxmoEYJ4f2CcKkcEiyTjYzODDV2ws/pahIiRSRWcmlfGXL2DBS+MPMh4fzS/m/M3EaB/Rgwr7uHkYJkVQKmMf5364iMi8gfs0CBVeelbfW3hnjYtA==;+DMq63ONkrL+njOvM5paDw=="
 ---
 

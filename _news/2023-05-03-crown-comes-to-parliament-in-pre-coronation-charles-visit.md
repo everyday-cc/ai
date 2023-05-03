@@ -27,10 +27,10 @@ images:
 related:
   - title: "Crown comes to Parliament in pre-coronation Charles visit"
     excerpt: "Before the glory of his coronation weekend, King Charles III has visited Parliament to get a reminder that the monarch’s power has limits"
-    publishedDateTime: 2023-05-02T14:33:00Z
-    webUrl: "https://abcnews.go.com/Entertainment/wireStory/crown-parliament-pre-coronation-charles-visit-99011773"
-    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/crown-parliament-pre-coronation-charles-visit-99011773"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/crown-parliament-pre-coronation-charles-visit-99011773"
+    publishedDateTime: 2023-05-02T15:33:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/crown-parliament-pre-coronation-charles-visit-99011771"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/crown-parliament-pre-coronation-charles-visit-99011771"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/crown-parliament-pre-coronation-charles-visit-99011771"
     type: article
     provider:
       name: ABC

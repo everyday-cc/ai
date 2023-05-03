@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/02/how-wi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/05/02/how-will-ai-impact-the-jobs-of-digital-marketers/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -42,15 +42,6 @@ related:
       name: FOX 7 Austin KTBC
       domain: fox7austin.com
     quality: 39
-  - title: "Artificial Intelligence in Medicine Market 2025"
-    excerpt: "The Artificial Intelligence (AI) in Medicine market is a rapidly growing segment of the healthcare industry that is expected to significantly transform the way healthcare is delivered in the future. AI technology has the potential to revolutionize healthcare by improving the accuracy,"
-    publishedDateTime: 2023-04-28T12:15:00Z
-    webUrl: "https://www.pharmiweb.com/press-release/2023-04-28/artificial-intelligence-in-medicine-market-2025-covers-valuable-guidance-for-future-ai-expansion-i"
-    type: article
-    provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
-    quality: 19
 
 secured: "nEJn78liFsLCkEpVG//matYpNMWks/9T135qa8sxjoygw8bQgIBhxDV0ABcxjnmJeeOQbl0z1IgtjUQzDr2LHODUsOIWB34fvDGd71DqoDGbI1/c1TNygccGN1DHyLZb62jSKBG0A/cQ0OR2jLVpMQ+Qa0/VdiKVv9HyDzEGt9f2unC0nO3B573j0j5wAtlC9nD22AbfGmlbFWhkP+73AcUdiz1jLpDUgUOfNfglGB38rpffK3FnmISr+dkCt+8p4x1JgkHcPChz0shXqj1ja76a6sEsaKMu6DQNwu+5jv1H//K/IwZ2myFpu1wnpgOHjdRgZs/cktafd1iDGEdXQDxoNvVoZYM+NrAGdg+FYKWOe1d+icaeZvrgqTT4dxmj04SH++8ucxHL89MJ0y29pb5q7ohI/sNMj/9VyXpAI1VnBGOIoqJtlbxoU/qNo8yJptnk75mbDqJb4oEQ/qn1N2F4I5zr+7rpTrFnRjZpDsjgIrh0eWSbeWkzEd4IoegGAs25MugR0ymKpGXnQqhMAQ==;+A3Lj2rO9wv9mV1gINugkA=="
 ---

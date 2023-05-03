@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/latest-healthcare-natura
 webUrl: "https://www.marketwatch.com/press-release/latest-healthcare-natural-language-processing-market-share-2023-2029-with-new-trend-2023-04-28"
 type: article
 quality: 78
-heat: 108
+heat: 88
 published: true
 
 provider:
@@ -30,34 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Latest \"Artificial Intelligence (AI) in Fintech Market\" Highlights 2023-2029, With New Report"
-    excerpt: "The Readers in the section will understand how the Artificial Intelligence (AI) in Fintech market scenario changed"
-    publishedDateTime: 2023-04-29T01:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/latest-artificial-intelligence-ai-in-fintech-market-highlights-2023-2029-with-new-report-2023-04-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 73
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Natural Language Processing (NLP) Software Market Market 2023 Size, share and Forecast to 2028"
-    excerpt: "Apr 28, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" This comprehensive market research"
-    publishedDateTime: 2023-04-28T12:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-software-market-market-2023-size-share-and-forecast-to-2028-2023-04-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 72
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Healthcare IT Integration Market is Expected to Reach $7.1 billion | MarketsandMarkets."
     excerpt: "The healthcare IT integration industry is poised for significant growth in the near future. As healthcare providers continue to invest in digital systems and networks, the need"
     publishedDateTime: 2023-05-02T13:30:00Z

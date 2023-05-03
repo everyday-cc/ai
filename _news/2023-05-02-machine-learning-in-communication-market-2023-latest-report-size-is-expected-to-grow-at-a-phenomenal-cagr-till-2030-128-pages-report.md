@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "A world of Mobile Speech Recognition Software Market Insights 2023-2030 at your fingertips."
+    excerpt: "The \"Mobile Speech Recognition Software Market\" study delves into the evolution of the technology industry and"
+    publishedDateTime: 2023-05-03T04:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/a-world-of-mobile-speech-recognition-software-market-insights-2023-2030-at-your-fingertips-2023-05-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Face Recognition Door Lock Market Size 2023, Latest Trends, COVID-19 Impact and Global Competition"
     excerpt: "The global “Face Recognition Door Lock Market Size” is expected to rise with an impressive CAGR and generate the"
     publishedDateTime: 2023-04-30T09:05:00Z

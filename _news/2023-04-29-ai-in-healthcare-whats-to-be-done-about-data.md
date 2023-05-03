@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/gilpress/2023/04/28/ai-in-healthcare-wh
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2023/04/28/ai-in-healthcare-whats-to-be-done-about-data/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Healthcare AI Market Demand by 2031"
-    excerpt: "The latest market research report on the Global \"Healthcare AI Market\" is segmented by Regions, Country, Company and"
-    publishedDateTime: 2023-04-28T11:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-ai-market-demand-by-2031-2023-04-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 86
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI lessons from healthcare: Overcoming complexity and embracing the cloud"
     excerpt: "The healthcare industry has pioneered some of the most effective, innovative approaches for moving AI into production."
     publishedDateTime: 2023-05-01T13:07:00Z

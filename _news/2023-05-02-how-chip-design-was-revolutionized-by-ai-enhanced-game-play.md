@@ -19,6 +19,54 @@ topics:
   - AI
 
 related:
+  - title: "How vector databases can revolutionize our relationship with generative AI"
+    excerpt: "By reducing the need to structure data, vector databases can speed up generative AI training times to dramatically improve our productivity."
+    publishedDateTime: 2023-04-30T22:21:00Z
+    webUrl: "https://venturebeat.com/ai/how-vector-databases-can-revolutionize-our-relationship-with-generative-ai/"
+    ampWebUrl: "https://venturebeat.com/ai/how-vector-databases-can-revolutionize-our-relationship-with-generative-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-vector-databases-can-revolutionize-our-relationship-with-generative-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2018/11/artificial-intelligence.shutterstock_1164239863.jpg?w=1200&strip=all"
+        width: 1200
+        height: 850
+        isCached: true
+  - title: "How Businesses Can Manage User-Generated Content With AI"
+    excerpt: "AI is playing a greater role in UGC, transforming the way businesses and consumers produce and consume digital media."
+    publishedDateTime: 2023-05-02T10:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/02/how-businesses-can-manage-user-generated-content-with-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/02/how-businesses-can-manage-user-generated-content-with-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/02/how-businesses-can-manage-user-generated-content-with-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63d00455752e4cf11c766efe/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Generative AI In The Construction Sector: Taking Building Technology To New Heights"
+    excerpt: "It’s no exaggeration to say that generative AI will have a transformative effect on global industry. With the ability to generate new outputs based on algorithms and trained data, it represents the next step in artificial intelligence and a new level of sophistication for machine learning."
+    publishedDateTime: 2023-05-02T15:50:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/05/02/generative-ai-in-the-construction-sector-taking-building-technology-to-new-heights/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/05/02/generative-ai-in-the-construction-sector-taking-building-technology-to-new-heights/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/05/02/generative-ai-in-the-construction-sector-taking-building-technology-to-new-heights/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 81
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64512ef3a78479bc981e6545/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Product Monkey AI Revolutionizes Product Management by Automating Engineering Task Creation"
     excerpt: "Product Monkey AI, a new tech startup, has launched a platform designed to make product managers in tech companies more efficient by automating the creation of engineering tasks from product design files."
     publishedDateTime: 2023-05-02T15:00:00Z
@@ -35,19 +83,30 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "AMP Robotics unveils new AI-enabled automated sortation solution, introduces integrated facility offering for new recycling infrastructure"
-    excerpt: "AMP Robotics Corp. (\"AMP\"), a pioneer in artificial intelligence (AI), robotics, and infrastructure for the waste and recycling industry, now offers a complete line of AI-powered automation solutions for materials recovery facilities (MRFs),"
-    publishedDateTime: 2023-05-01T13:23:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/05/01/9804834.htm"
+  - title: "Artificial intelligence could revolutionize the workplace"
+    excerpt: "Finance professor Dan Roccato joins FOX6 WakeUp with details."
+    publishedDateTime: 2023-04-28T14:47:00Z
+    webUrl: "https://www.fox6now.com/news/artificial-intelligence-could-revolutionize-the-workplace"
+    ampWebUrl: "https://www.fox6now.com/news/artificial-intelligence-could-revolutionize-the-workplace.amp"
+    cdnAmpWebUrl: "https://www-fox6now-com.cdn.ampproject.org/c/s/www.fox6now.com/news/artificial-intelligence-could-revolutionize-the-workplace.amp"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 37
+      name: fox6now
+      domain: fox6now.com
+    quality: 39
+  - title: "Teradata operationalises AI with Google Vertex AI integration"
+    excerpt: "Teradata has announced services enabling organisations to accelerate Ai-driven digital transformation initiatives. The connected multi-cloud data platform"
+    publishedDateTime: 2023-05-02T14:20:00Z
+    webUrl: "https://www.enterprisetimes.co.uk/2023/05/02/teradata-operationalises-ai-with-google-vertex-ai-integration/"
+    type: article
+    provider:
+      name: enterprisetimes.co.uk
+      domain: enterprisetimes.co.uk
+    quality: 39
     images:
-      - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
-        width: 550
-        height: 353
+      - url: "https://www.enterprisetimes.co.uk/wp-content/uploads/2018/11/artificial-intelligence-3382507_1920.jpg"
+        width: 726
+        height: 410
         isCached: true
 
 secured: "KpZ6oTnuB+r9MPSRCK4Gpbm9giy1QE00enNTy4Z4MmJGVwnRBwq1km7CCaJpfzzYuECrJmlVfdxg/sE6oOLBfG/hXI+0dCzoQ/gjJtdc6e12e/wIEmX4CBf++thGtUFxdjskC/Qj2Wf48YEro4uxaeRtY1H1hnSYQf0hcT6y3uoDMLR4MxePtNZ4Tw37Lwk+DhKA4P/Jno5K5wFl9lYtiZKjqA5gukfgPaX8t5Jya1pNpV2WDE6U5QgBqarvpJN9RJFKBIBXcIvMYP5FFl1C6S0WGlYURfkCxyVbUewPpb7CqKL9NWmmK/CjvusIRJG9iFTCh2eurG7fuJ59H3AIWmPp0Xz5Th0B12eO88LSOEY=;T5n3I0soESjqt7F5JNkI4w=="

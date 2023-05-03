@@ -44,6 +44,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "UAE Government launches the “Generative AI” Guide to facilitate the adoption of AI technology across vital industries"
+    excerpt: "The “Generative AI” guide serves as a valuable resource for government entities, enabling them to leverage the benefits of AI technologies and enhance its implementation across various fields. Commenting on the launch,"
+    publishedDateTime: 2023-04-30T11:45:00Z
+    webUrl: "https://www.zawya.com/en/press-release/government-news/uae-government-launches-the-generative-ai-guide-to-facilitate-the-adoption-of-ai-technology-across-vital-industries-r5v4skkw"
+    ampWebUrl: "https://www.zawya.com/en/press-release/government-news/uae-government-launches-the-generative-ai-guide-to-facilitate-the-adoption-of-ai-technology-across-vital-industries-r5v4skkw?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/government-news/uae-government-launches-the-generative-ai-guide-to-facilitate-the-adoption-of-ai-technology-across-vital-industries-r5v4skkw?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 36
+    images:
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/YWM4MDI3MDEtMDIzMC00/1/1-jpg.jpeg?f=3%3A2"
+        width: 900
+        height: 600
+        isCached: true
 
 secured: "KgKDjvZl1n7AJMKFatPCd6VpNaE+C6RMRtrOqtCxLHsrxQ+3bWgglXdRAMHbbhUWuT0qOO1LipvB9htEBJwvZlERaGmNHEKDWtvSUL9662jmJKOaZP3yZ56DsoW6N1aTrR/oe4SbWxImPR1P8FRDF4SUnvvrwUGS68BuT2k0OSZJWvNVAm0cz+oHny2gBTxJrpHYjf3eW40e4xLSI25JRuy5eGeyKQ0dUcWaRCs4OnlE9eDXmsR0V5bWNnMJWYB0yuP4lQY0MErXmw8BwYwuIjDM9Lr6BX9Msnsz5GpVH37NQUyvhovFeH4F5tzX+21knLFkgVgSs6KAYL2aEd3pQorc4oUyX5jMhh1JecntyhCKDkgXHLO71LJdkjdK8JqXmxoZzx6QKoJzEtjGRkJtxO4xQBZgLoFny1R7CwoahR15gm44z83jcCKNtcCDsf+dcjz3jqbWdAbic1feq0iW8q+wN5bhJ+3WmeUJhizFxLbaaXLb1X9INjEg22IU/6Cst40ufAeI73Pvkwdf9YBt8g==;TolwgmmPLs3VssgkiCAygg=="
 ---

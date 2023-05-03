@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "A world of Mobile Speech Recognition Software Market Insights 2023-2030 at your fingertips."
+    excerpt: "The \"Mobile Speech Recognition Software Market\" study delves into the evolution of the technology industry and"
+    publishedDateTime: 2023-05-03T04:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/a-world-of-mobile-speech-recognition-software-market-insights-2023-2030-at-your-fingertips-2023-05-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "US city ends facial recognition moratorium, considers new rules for police"
     excerpt: "City Council in Baltimore, Md. is moving to regulate the use of biometrics by city agencies, including police, after a change in local law enforcement control."
     publishedDateTime: 2023-05-02T16:20:00Z

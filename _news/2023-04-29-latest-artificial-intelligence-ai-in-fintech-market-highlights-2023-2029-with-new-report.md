@@ -29,49 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "Latest \"Healthcare Natural Language Processing Market\" Share 2023-2029, With New Trend"
-    excerpt: "The Readers in the section will understand how the Healthcare Natural Language Processing market scenario changed"
-    publishedDateTime: 2023-04-29T01:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/latest-healthcare-natural-language-processing-market-share-2023-2029-with-new-trend-2023-04-28"
+  - title: "Artificial Intelligence (AI) Consulting Market Research, 2023-2030"
+    excerpt: "Consulting Report 2023 The report further studies the market development status and future Artificial Intelligence (AI) Consulting Market trends across the world. Also, it splits Artificial Intelligence (AI) Consulting Market Segmentation by Type and by Applications to fully and deeply research and reveal market profiles and prospects."
+    publishedDateTime: 2023-04-28T14:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-consulting-market-research-2023-2030-2023-04-28"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 78
+    quality: 82
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Natural Language Processing (NLP) Software Market Market 2023 Size, share and Forecast to 2028"
-    excerpt: "Apr 28, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" This comprehensive market research"
-    publishedDateTime: 2023-04-28T12:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-software-market-market-2023-size-share-and-forecast-to-2028-2023-04-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 72
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Healthcare IT Integration Market is Expected to Reach $7.1 billion | MarketsandMarkets."
-    excerpt: "The healthcare IT integration industry is poised for significant growth in the near future. As healthcare providers continue to invest in digital systems and networks, the need"
-    publishedDateTime: 2023-05-02T13:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/05/g32160469/healthcare-it-integration-market-is-expected-to-reach-7-1-billion-marketsandmarkets"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32160469"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32160469"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 51
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
         isCached: true
 
 secured: "vXNbFJx0w282Sa7ABLq+qzXcsDBPqTMRqAlPilF5JfAM5pbPgClClEOkt9+KinDdDDGg4Dzq8kE3T46LG49jbyKnni5awsN06Auze58P3vC4f3bAM3zUUoj8BJi4d4lHYCEkzRnJKk4EWzujZT9eqvJ83QDHUi0XXIFJ7axwi8l/yPVJpHoE3wQU3At2nAqCv2iqlEixx4DBLHji+twmy31P/Hb+rxw8hBshrW84PV7TKZhUDruG4nrpcI0kOWCk/aAkxUes3wAZJNkq1m4icEZGjPVf6ons4m49UkVbi6M/ImF3VfO63RB4CnFp6vl28LOwRca1Njfcluonoy79lUC4zCKpbJHLdZS/WPaSg0M=;socc7bharbw2syBTMN/p+g=="

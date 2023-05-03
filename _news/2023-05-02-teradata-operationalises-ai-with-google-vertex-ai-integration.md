@@ -25,20 +25,90 @@ images:
     isCached: true
 
 related:
-  - title: "Teradata and Google Cloud Announce New Machine Learning Integration"
-    excerpt: "A new integration for machine learning is available from Teradata and Google Cloud. Google Cloud’s Vertex AI platform is now generally available with"
-    publishedDateTime: 2023-05-02T15:02:00Z
-    webUrl: "https://www.datanami.com/2023/05/02/teradata-and-google-cloud-announce-new-machine-learning-integration/"
+  - title: "How vector databases can revolutionize our relationship with generative AI"
+    excerpt: "By reducing the need to structure data, vector databases can speed up generative AI training times to dramatically improve our productivity."
+    publishedDateTime: 2023-04-30T22:21:00Z
+    webUrl: "https://venturebeat.com/ai/how-vector-databases-can-revolutionize-our-relationship-with-generative-ai/"
+    ampWebUrl: "https://venturebeat.com/ai/how-vector-databases-can-revolutionize-our-relationship-with-generative-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-vector-databases-can-revolutionize-our-relationship-with-generative-ai/amp/"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 41
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://www.datanami.com/wp-content/uploads/2019/06/cloud_digital_shutterstock_Phonlamai-Photo.jpg"
-        width: 1000
-        height: 667
+      - url: "https://venturebeat.com/wp-content/uploads/2018/11/artificial-intelligence.shutterstock_1164239863.jpg?w=1200&strip=all"
+        width: 1200
+        height: 850
         isCached: true
+  - title: "How Businesses Can Manage User-Generated Content With AI"
+    excerpt: "AI is playing a greater role in UGC, transforming the way businesses and consumers produce and consume digital media."
+    publishedDateTime: 2023-05-02T10:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/02/how-businesses-can-manage-user-generated-content-with-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/02/how-businesses-can-manage-user-generated-content-with-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/02/how-businesses-can-manage-user-generated-content-with-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63d00455752e4cf11c766efe/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Generative AI In The Construction Sector: Taking Building Technology To New Heights"
+    excerpt: "It’s no exaggeration to say that generative AI will have a transformative effect on global industry. With the ability to generate new outputs based on algorithms and trained data, it represents the next step in artificial intelligence and a new level of sophistication for machine learning."
+    publishedDateTime: 2023-05-02T15:50:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/05/02/generative-ai-in-the-construction-sector-taking-building-technology-to-new-heights/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/05/02/generative-ai-in-the-construction-sector-taking-building-technology-to-new-heights/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/05/02/generative-ai-in-the-construction-sector-taking-building-technology-to-new-heights/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 81
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64512ef3a78479bc981e6545/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Product Monkey AI Revolutionizes Product Management by Automating Engineering Task Creation"
+    excerpt: "Product Monkey AI, a new tech startup, has launched a platform designed to make product managers in tech companies more efficient by automating the creation of engineering tasks from product design files."
+    publishedDateTime: 2023-05-02T15:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/05/n32163373/product-monkey-ai-revolutionizes-product-management-by-automating-engineering-task-creation"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32163373"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32163373"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 47
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "Artificial intelligence could revolutionize the workplace"
+    excerpt: "Finance professor Dan Roccato joins FOX6 WakeUp with details."
+    publishedDateTime: 2023-04-28T14:47:00Z
+    webUrl: "https://www.fox6now.com/news/artificial-intelligence-could-revolutionize-the-workplace"
+    ampWebUrl: "https://www.fox6now.com/news/artificial-intelligence-could-revolutionize-the-workplace.amp"
+    cdnAmpWebUrl: "https://www-fox6now-com.cdn.ampproject.org/c/s/www.fox6now.com/news/artificial-intelligence-could-revolutionize-the-workplace.amp"
+    type: article
+    provider:
+      name: fox6now
+      domain: fox6now.com
+    quality: 39
+  - title: "How Chip Design Was Revolutionized by AI-Enhanced Game Play"
+    excerpt: "The Untold Story of How Google’s AlphaGo Inspired Synopsys Engineers to Transform Electronic Design Automation with Deep Reinforcement Learning When"
+    publishedDateTime: 2023-05-02T06:21:00Z
+    webUrl: "https://www.design-reuse.com/industryexpertblogs/53964/how-chip-design-was-revolutionized-by-ai-enhanced-game-play.html"
+    type: article
+    provider:
+      name: Design-Reuse
+      domain: design-reuse.com
+    quality: 34
 
 secured: "KP4oyLitaKFBwZjAgcy0oCogu4F7IiWnDE+PgUCnT+h5EPg4bGM4/5HQBthsu2Tgw6hsOssuVFIlBEkRdeVD+Gs1NHRznyjkXFXixPxvo2S2acSSqmRULHELusFfxX0xYkF1Q5SMsLX3Z0ldFXv+ZgSnLVg0OyI5w/IIOeJ2pVxOJt3hmCzEugHvcBA36xSViNuDKpr9oA+ctD2kY2vUIGYbNWJfTnfeP4US6Z4KGbuPEJldVq46dwt7dSh6al313HZWnAse69PZdj3iWYhZqmQORKkW8xhqZoAIeRSVTYLydaT88yseC20UGWc8wkTtFnLGo7FRHZM9NMA0spL+ZVAq3eUNa6QooCEIv+dxqq8=;Dc/xn+GjYXPMqjeWw40MXw=="
 ---

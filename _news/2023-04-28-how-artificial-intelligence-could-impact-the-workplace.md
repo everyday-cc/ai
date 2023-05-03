@@ -37,15 +37,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Artificial Intelligence in Medicine Market 2025"
-    excerpt: "The Artificial Intelligence (AI) in Medicine market is a rapidly growing segment of the healthcare industry that is expected to significantly transform the way healthcare is delivered in the future. AI technology has the potential to revolutionize healthcare by improving the accuracy,"
-    publishedDateTime: 2023-04-28T12:15:00Z
-    webUrl: "https://www.pharmiweb.com/press-release/2023-04-28/artificial-intelligence-in-medicine-market-2025-covers-valuable-guidance-for-future-ai-expansion-i"
-    type: article
-    provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
-    quality: 19
 
 secured: "K0DVp9Fym5jsK0KZcxfOoxdx6Q8BY2MajMd8t+GpyiUBY8KIcipW0xG59aOG3hMVRYIghrf49r9GXnfwWJI5dgSG7ohkGxyal5eISlpu5kX1mGqEDRjZJbYfpPeQvJHYaR1qax8GISN+0G0CeCuRcvgRHuu7RJtnr6Q4rlHYJZNj7wxzqTSvJKs6p6c2O0EZ7HddsuukbU2bifk84WMa42k9zsDZhVjYksuBgq170AtfwiOHCI7j3+wWQhClt0hDcIBUZMpavh7msz95X4Diyv0iCro9fGKcLL1LEv88kMJXKz3sjUhFAek2WJp12Y5dFh1GZUhVhsjwJW/wTA3JBpTAvvxoSFlRdH9bB32FBaBFXGw4Gjtx/SuxBjwGdkIEkVfFVlwmTt8voF3EhMFjsvO59XWgEM/irHMX/K6V/3Z8JBkFlQtEzoDJ7DiOB8tt0LntZ1jOoLL2lwPD3ZNgtNLsxuKqAPLqnRw+j0Ueg/tSjYSkFC4DMdAowv+zmnksW+bDPiZoUY7xutZAix/LBQ==;vcIEzfGosli7FPWFIKoc6A=="
 ---

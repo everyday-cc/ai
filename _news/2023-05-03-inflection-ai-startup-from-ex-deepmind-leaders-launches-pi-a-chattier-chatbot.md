@@ -6,7 +6,7 @@ publishedDateTime: 2023-05-02T19:00:00Z
 originalUrl: "https://www.forbes.com/sites/alexkonrad/2023/05/02/inflection-ai-ex-deepmind-launches-pi-chatbot/"
 webUrl: "https://www.forbes.com/sites/alexkonrad/2023/05/02/inflection-ai-ex-deepmind-launches-pi-chatbot/"
 type: article
-quality: 79
+quality: 81
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/64514e67237fdc5016762baf/0x0.jpg?format=jpg&width=1200"
@@ -500,6 +501,6 @@ related:
       domain: businessnewsdaily.com
     quality: 4
 
-secured: "dMCn+b5grS5KzKcO5rFy8mwCH2gpHNzYeGz0a5w84RChfqnjhPrqsoE3kD4P0g2GvG66oMvXgE1+zAD0gpnTi0MrGs2EXm4PgWrEyjNGrprTOiK8sE1wwZw8shl6vrdzKhoFPaE1vNVFVp7P+d8LWtg9AyBsj0DalZSADnW/Ko6/ZHBoehTyydVQL0xLpDDvyxdf9Vv++H6cEdmSMm21sosOV86fN5x0ApBcMhC0McUrq/vwPvSAnC602US8QUfjV2FZvdFoEw491T/BjF4IKniLi8rhyMOSkRQ5E+VXmnmAUqz5f0k43QTsJuxCm0W5IBNC4QWw79CUJOcG5UdxbNWoebARprUYnrSX2JemLwA=;tgQLE0/jXcthiPbbXxWDpQ=="
+secured: "TKiOAPlUDkKmRU+6PfNnOc2McWC9BChSU43gaP4CbubRXGSnmMWbivF/c++J/KLoONHMs4T90LW7ZSfLLZyHl8VN69N8xZMihwk2n1vYgKVtBnL7BJ5MfY63dfqf93Ih8zpp29mQktPZTOAcZpGrECDxAeWWMiQ6ZGkYrrFNJUUU2pgX9DtnUVUnyoyVAkWqdgzSWR7OlagDfYcZzH+jWz5kKYGH2har+c/sPRkSJX0yNyIj33waPsdYuugGwMRDQ85IBC44+Jlrz9Yyg+Tu0eWO4eIchalhFmDGZAiocKNUufCNOUi2drJ+lyrw0OrCLp3YQLHZ9f5YYQeDz7kWIX/S1y++pvkYumu5RDFa+meTauBOYnEEdtXoEAXfWBxCKjEW/JGAvtmmH9468/6SeWSgavnkpQa11+KZR1D8gM80Ht1PhZ7uHVhD1wz2l/JGbPWyaf915b0zk0wsi3f8HwxAdgr4llbMKRLgnXJERYxIIhoh5CcPh9+1OUyWdBPcleBRyr/ypui5v478oDTBpA==;zjF3NciDAdF7WyXG4jNWYA=="
 ---
 

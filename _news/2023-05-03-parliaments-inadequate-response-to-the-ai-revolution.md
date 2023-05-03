@@ -9,7 +9,7 @@ ampWebUrl: "http://myrepublica.nagariknetwork.com/amp/parliament-s-inadequate-re
 cdnAmpWebUrl: "https://myrepublica-nagariknetwork-com.cdn.ampproject.org/c/myrepublica.nagariknetwork.com/amp/parliament-s-inadequate-response-to-the-ai-revolution/"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -26,19 +26,6 @@ images:
     height: 772
     isCached: true
 
-related:
-  - title: "Artificial intelligence could revolutionize the workplace"
-    excerpt: "Finance professor Dan Roccato joins FOX6 WakeUp with details."
-    publishedDateTime: 2023-04-28T14:47:00Z
-    webUrl: "https://www.fox6now.com/news/artificial-intelligence-could-revolutionize-the-workplace"
-    ampWebUrl: "https://www.fox6now.com/news/artificial-intelligence-could-revolutionize-the-workplace.amp"
-    cdnAmpWebUrl: "https://www-fox6now-com.cdn.ampproject.org/c/s/www.fox6now.com/news/artificial-intelligence-could-revolutionize-the-workplace.amp"
-    type: article
-    provider:
-      name: fox6now
-      domain: fox6now.com
-    quality: 39
-
-secured: "dc8V3vHPD/IDtmdXUbtiyauWICC7Gz3JcOw9QvQt1lCdnno0/y4XBoQHPbV20WK936r2sFGTp7NGaN4CJ08rxQ1smm31Uw34V2t956aWEpsOLY7Kv6Vd0eX1XB3PHPQRsf3DnCyBnIWL/jtmuVIAiuXDSs60JcGcNp7QKSSzzZjBLgYt8ivJ3//CYQUEfLGHpVLoCGodEeFH34H060rAmO3ksNEbszo6udzG0zHICmrthe7XJ/P811hjoeeUQFQeKQzRZHF8yAEkknh5wwBWeV+Kvq0/+4qaxE5Du3cXbuw1oN9u5JCYGrxfYqODrJd/G940TlXbrbl+KsQMNJxEDaHUYYOTTaXX2N2BNkVIkeE=;x70QvnrV86LxQrCjM+hIWg=="
+secured: "AsvraFZhVmpOWE4e0Ec/OaR6ypYv8I18nb+Z5n4YAWvFDTR5tnE3AT0ot9syjbjt1KXSbl+6oNVeYD8uYymCjDxuZxf8kKpnWkSYtil/Dpk/PAw5OY79PW5/dD/JqwHyBWq7A6qZalxQhg3+cGiuZMxX7zUYRGok4PJ6fii9orlUImGXqJUP6vecJ1j7kniH+UiiitmDN1hwrz+8dT7yd4IEMiRVkKhCEvdkeczBoBSKSc6UkOeyEYnI4aL4oCZaupsrLk4O9UEqrzlfDyZ0Ipaa39DAfLpIGWGejVY1tC18AIJzq3EI4XC26cihNVV3EuTrEGSHFvPouxa0qFA5SHRrvD+3NlTLVI4y500Ijil6L9kj7KmIFEN3eODBJKddhdNGdKHu4DO5/8Vq54SY8DvsrsFlwajcqzOqKidcWoKuhib2c6xVMyEghncP/03skRkp+uBqOpKZF0nlj7Bzmzeqshf4RJ7rspEAedN6Ibla+nBkCunr2aKuxgGpIHYOlnqDMYrkusTSMM0sUNIsMw==;9YP0JhYUTVaLBVLX9gI04A=="
 ---
 

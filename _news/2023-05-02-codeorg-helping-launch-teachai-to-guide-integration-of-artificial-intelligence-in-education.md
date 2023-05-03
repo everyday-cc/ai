@@ -7,7 +7,7 @@ originalUrl: "https://www.geekwire.com/2023/code-org-helping-launch-teachai-to-g
 webUrl: "https://www.geekwire.com/2023/code-org-helping-launch-teachai-to-guide-integration-of-artificial-intelligence-in-education/"
 type: article
 quality: 68
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "UAE Government launches the “Generative AI” Guide to facilitate the adoption of AI technology across vital industries"
+    excerpt: "The “Generative AI” guide serves as a valuable resource for government entities, enabling them to leverage the benefits of AI technologies and enhance its implementation across various fields. Commenting on the launch,"
+    publishedDateTime: 2023-04-30T11:45:00Z
+    webUrl: "https://www.zawya.com/en/press-release/government-news/uae-government-launches-the-generative-ai-guide-to-facilitate-the-adoption-of-ai-technology-across-vital-industries-r5v4skkw"
+    ampWebUrl: "https://www.zawya.com/en/press-release/government-news/uae-government-launches-the-generative-ai-guide-to-facilitate-the-adoption-of-ai-technology-across-vital-industries-r5v4skkw?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/government-news/uae-government-launches-the-generative-ai-guide-to-facilitate-the-adoption-of-ai-technology-across-vital-industries-r5v4skkw?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 36
+    images:
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/YWM4MDI3MDEtMDIzMC00/1/1-jpg.jpeg?f=3%3A2"
+        width: 900
+        height: 600
+        isCached: true
 
 secured: "GZhYH0oFiUthFICnIXsHtb9MWZttgtZ0mocYZMZrZzLVaXhdIpeccWODjB770pacUM8T1uAk+0zFMMmBmkqiy/eJ4bEIhEtO9wRpqe1yGK3Nx4EgOtpO6ZRVF6VdxWg7RrW5VV155G9jbgfvez7PH4UvezCepvSpqEWUpRxe6Wv8NCgTICut3YMe/a6Y3DkIvFyy0nkB8q/8hxJfZItqKyzp2tlmpu8KPXlk6R9YK2v3yjCgcPmdBPFkDokLf9WSuMYxoMV///spwqBDHv5/o9bSgNh5/fgLyomHYa+SXj09ObyubkcHyuuoLLGSHJ5NEn7vPxObIHpIR7Yg13v1dW6NOEIymyJ6RwcjtlMPNfpmv+9J6u3ettmFX+RqE6yMj77VzbJtlvGZPTFwddylTx0Gxl+6GWQ5Tt0I979V4KTJ31YY0vrwVjY2NdQyS4IhRJZv/HlixQVvf8c55eeCTlcBRMFIKQzEDs5dOMT+IL+OuaHbvHi2g8BJxjwxseLR/ismACCLFIMBgsv/9YI8+g==;afbpl9wRIFoDba1Ggb3UDw=="
 ---
