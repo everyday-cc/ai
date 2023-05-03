@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/would-you-listen-to-ai-run-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/would-you-listen-to-ai-run-radio-this-station-tested-it-out-on-listeners/"
 type: article
 quality: 86
-heat: 86
+heat: 88
 published: true
 
 provider:

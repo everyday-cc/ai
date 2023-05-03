@@ -1,28 +1,29 @@
 ---
 category: news
-title: "'Godfather of AI' leaves Google, warns of tech's dangers"
-excerpt: "Geoffrey Hinton, the man widely considered as the “godfather” of artificial intelligence, has left Google — with a message sharing his concerns about potential dangers stemming from the same technolog"
-publishedDateTime: 2023-05-02T19:17:00Z
-originalUrl: "https://abcnews.go.com/US/wireStory/godfather-ai-leaves-google-warns-techs-dangers-99019479"
-webUrl: "https://abcnews.go.com/US/wireStory/godfather-ai-leaves-google-warns-techs-dangers-99019479"
-ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/godfather-ai-leaves-google-warns-techs-dangers-99019479"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/godfather-ai-leaves-google-warns-techs-dangers-99019479"
+title: "‘Godfather of AI’ leaves Google, warns of tech’s dangers"
+excerpt: "Over his decades-long career, Hinton’s pioneering work on deep learning and neural networks helped lay the foundation for much of the AI technology we see today."
+publishedDateTime: 2023-05-02T21:23:00Z
+originalUrl: "https://www.wafb.com/2023/05/02/godfather-ai-leaves-google-warns-techs-dangers/"
+webUrl: "https://www.wafb.com/2023/05/02/godfather-ai-leaves-google-warns-techs-dangers/"
+ampWebUrl: "https://www.wafb.com/2023/05/02/godfather-ai-leaves-google-warns-techs-dangers/?outputType=amp"
+cdnAmpWebUrl: "https://www-wafb-com.cdn.ampproject.org/c/s/www.wafb.com/2023/05/02/godfather-ai-leaves-google-warns-techs-dangers/?outputType=amp"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: WAFB
+  domain: wafb.com
 
 topics:
+  - Facebook AI
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/Business/wirestory_fa98c6a6fddab1d7c27560f6fcbad0ad_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://gray-wafb-prod.cdn.arcpublishing.com/resizer/-hNBDnRP6K4xKHLLZmfBbjArUJA=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/FNCU2O6EQJHEXPGX2VBSLTKPK4.png"
+    width: 800
+    height: 450
     isCached: true
 
 related:
@@ -133,6 +134,22 @@ related:
       - url: "https://www.thenews.com.pk/assets/uploads/updates/2023-05-02/1066346_083422_updates.jpg"
         width: 700
         height: 437
+        isCached: true
+  - title: "The so-called \"Godfather of the A.I.\" joins The Lead to offer a dire warning about the dangers of artificial intelligence"
+    excerpt: "The so-called \"Godfather of the A.I.\" joins The Lead to offer a dire warning about the dangers of artificial intelligence"
+    publishedDateTime: 2023-05-02T23:01:00Z
+    webUrl: "https://www.cnn.com/videos/tv/2023/05/02/the-lead-geoffrey-hinton.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/tv/2023/05/02/the-lead-geoffrey-hinton.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/tv/2023/05/02/the-lead-geoffrey-hinton.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 62
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/230502185021-the-lead-geoffrey-hinton-00034401-super-tease.png"
+        width: 1100
+        height: 619
         isCached: true
   - title: "'Godfather of AI' leaves Google, warns of tech's dangers"
     excerpt: "Geoffrey Hinton, the man widely considered as the “godfather” of artificial intelligence, has left Google — with a message sharing his concerns about potential dangers stemming from the same technolog"
@@ -471,6 +488,6 @@ related:
       domain: euronews.com
     quality: 10
 
-secured: "V//kLKZSDSvD2u2oPvTJgkWrkQfyTAcwGIh96sQcjqZkT1e7WHuJYRaf8dXwyxeBS7GjCaEQ9d4BEffjyfRexf6DjCL88ppkd3ISepgM3RBozzC9gxH76TgXRFk/fBkpVcNrBJbxmoCmRHYy7NJKZG9lArgNl0GOCAhJGxwUkkWyfIzX60iOlp7/JYuuIwSSfUZawAhtR1t3NfIwUoO/UrOCNiaQ4PnZtnF//dMlWV5NcJpDx2LpZ/tGqzT5cH90jRYk1lOsq9ikZGaCsXlnFgnRdDFOrUN30Y++lpd6anZ41VommkI+IAt2mGrR6sEMtLJaVR5d/2z/BBQOZl8gG2o9ymXyV7aIZUZCToQbyxo=;jPAPMehwzP/ga4ogGdlU1w=="
+secured: "/nsSReks7NUXypfoQCWiWhX6Oz086o6Ac/pqF+1lZ1fEPNA0Xj/OLhmmsMz5kq9QjNISwOwE0CHtvs2O8WcSOlmsSZSB/B8ZNyg79CW8/ge3GujeWL3G7sOJIaMeAh6/3SZbSJ2zZDa4lAnm0aA0R/4jrGWZosQ8UlSilOXViQTacQANZFUuRk05z6Bl1FKf2fWkwP1w92G+PmhVySwdddLT942s1twlanzL9DXkU4pObX5IiUXCh8L7kZ7Iuuc4RVtGYXG4q6f3pK3JEiJh6AfAVhXo+h4EiO1EvIS8uCfu4fEP7U5YFUkI5WLbnZ37KXv2e7ThDapHZbuhI/u3jkTQK4bI7qmJ5SDtA45qaeI=;Cvj3kMzfAhc4uyM1leaBfg=="
 ---
 

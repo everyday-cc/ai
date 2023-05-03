@@ -35,6 +35,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "City council considers new regulations on surveillance cams, facial recognition"
+    excerpt: "Councilor Burnett says the bills will create more transparency and accountability. The other bill deals with facial recognition technology being used by the Baltimore Police Department."
+    publishedDateTime: 2023-05-02T21:18:00Z
+    webUrl: "https://www.wmar2news.com/local/city-council-considers-new-regulations-on-surveillance-cams-facial-recognition"
+    ampWebUrl: "https://www.wmar2news.com/local/city-council-considers-new-regulations-on-surveillance-cams-facial-recognition?_amp=true"
+    cdnAmpWebUrl: "https://www-wmar2news-com.cdn.ampproject.org/c/s/www.wmar2news.com/local/city-council-considers-new-regulations-on-surveillance-cams-facial-recognition?_amp=true"
+    type: article
+    provider:
+      name: wmar2news
+      domain: wmar2news.com
+    quality: 55
+    images:
+      - url: "https://x-default-stgec.uplynk.com/ausw/slices/1ce/22f3150cc15946e68b21f11967cfb8d1/1cedfcec12e14520a27f540bd3231a82/poster_f2fd92cca85a4c328dcdaf9accf7af3b.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Baltimore Considers Facial Recognition Restrictions"
     excerpt: "Proposed legislation would require the police department to get approval before acquiring any new surveillance technology and would establish an oversight board to monitor the city’s use."
     publishedDateTime: 2023-05-02T21:08:00Z
@@ -46,6 +62,20 @@ related:
       name: Governing
       domain: governing.com
     quality: 39
+  - title: "Baltimore Bill Would Curb Private, Police Use of Face Scan Tech"
+    excerpt: "Baltimore businesses and city government would face new limits on how they use facial-recognition technology under a City Council bill introduced Monday."
+    publishedDateTime: 2023-05-02T22:32:00Z
+    webUrl: "https://news.bloomberglaw.com/privacy-and-data-security/baltimore-bill-would-curb-private-police-use-of-face-scan-tech"
+    type: article
+    provider:
+      name: news.bloomberglaw
+      domain: bloomberglaw.com
+    quality: 24
+    images:
+      - url: "https://db0ip7zd23b50.cloudfront.net/dims4/default/2240526/2147483647/brightness/0x18/crop/7951x3055%2B0%2B144/resize/1919x740%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F0b%2Ff2%2F9c2c68574a8ea1cb52638af4e445%2Ffacial.jpg"
+        width: 1919
+        height: 737
+        isCached: true
   - title: "City councilman introduces bills to limit facial recognition tech"
     excerpt: "WBAL NewsRadio 1090/FM 101.5 - New legislation could limit the use of facial recognition technology in Baltimore City."
     publishedDateTime: 2023-05-02T12:46:00Z

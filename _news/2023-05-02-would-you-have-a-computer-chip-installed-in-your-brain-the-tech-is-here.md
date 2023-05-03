@@ -9,7 +9,7 @@ ampWebUrl: "https://www.komando.com/technology/brain-computer-chips/885367/?amp"
 cdnAmpWebUrl: "https://www-komando-com.cdn.ampproject.org/c/s/www.komando.com/technology/brain-computer-chips/885367/?amp"
 type: article
 quality: 73
-heat: 73
+heat: 75
 published: true
 
 provider:

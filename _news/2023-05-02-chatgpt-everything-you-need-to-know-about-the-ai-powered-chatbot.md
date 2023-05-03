@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/05/01/chatgpt-everything-you-need-to-kno
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/01/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/"
 type: article
 quality: 89
-heat: 419
+heat: 429
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/644dcaea56de9f4c3dad4710/0x0.jpg?format=jpg&crop=1723,730,x105,y0,safe&width=1200"
         width: 1200
         height: 508
+        isCached: true
+  - title: "ChatGPT and Generative AI: Our Guide to 2023's Most Talked-About Technology"
+    excerpt: "ChatGPT brought generative AI into the limelight when it hit 1 million users in five days. But how valid is the buzz around ChatGPT?"
+    publishedDateTime: 2023-05-02T18:30:00Z
+    webUrl: "https://www.businessinsider.com/chatgpt-and-ai-guide-to-most-talked-about-technology-2023-may"
+    ampWebUrl: "https://www.businessinsider.com/chatgpt-and-ai-guide-to-most-talked-about-technology-2023-may?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-and-ai-guide-to-most-talked-about-technology-2023-may?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 85
+    images:
+      - url: "https://i.insider.com/64403fa23f6f690018de9578?width=1200&format=jpeg"
+        width: 470
+        height: 352
         isCached: true
   - title: "Is this the snarkiest AI chatbot so far? I tried HuggingChat and it was weird"
     excerpt: "Aside from the confusion on who's human and who you're actually talking to, HuggingChat sometimes believes it's ChatGPT -- really. The first question I asked the new AI chatbot was \"Are you better than ChatGPT?\", for which you can see its answers on the screenshot below."

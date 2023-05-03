@@ -2,6 +2,237 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-05-02-codeorg-helping-launch-teachai-to-guide-integration-of-artificial-intelligence-in-education.md",
+      "title": "Code.org helping launch TeachAI to guide integration of artificial intelligence in education",
+      "excerpt": "Seattle-based computer science education nonprofit Code.org is helping to launch TeachAI, a new effort aimed at guiding governments and educators on teaching with and about artificial intelligence. The initiative,",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2023/code-org-helping-launch-teachai-to-guide-integration-of-artificial-intelligence-in-education/",
+      "originalUrl": "https://www.geekwire.com/2023/code-org-helping-launch-teachai-to-guide-integration-of-artificial-intelligence-in-education/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-02T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2023-05-02-why-cios-are-so-obsessed-with-the-cloud.md",
+      "title": "Why CIOs Are So Obsessed With The Cloud",
+      "excerpt": "Benefits such as increased efficiency, flexibility, scalability and security make the cloud an attractive proposition for CIOs. Evolutions in cloud technology (like edge computing and more sustainable \"green\" cloud) are only likely to further its appeal.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/02/why-cios-are-so-obsessed-with-the-cloud/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/02/why-cios-are-so-obsessed-with-the-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/623e01e2d7e01bab063bd76c/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/02/why-cios-are-so-obsessed-with-the-cloud/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/02/why-cios-are-so-obsessed-with-the-cloud/amp/",
+      "publishedDateTime": "2023-05-02T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-02-we-need-to-bring-consent-to-ai.md",
+      "title": "We need to bring consent to AI",
+      "excerpt": "This week's big news is that Geoffrey Hinton, a VP and Engineering Fellow at Google, and a pioneer of deep learning who developed some of the most important techniques at the heart of modern AI, is leaving the company after 10 years. But first, we need to talk about consent in AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2023/05/02/1072556/we-need-to-bring-consent-to-ai/",
+      "originalUrl": "https://www.technologyreview.com/2023/05/02/1072556/we-need-to-bring-consent-to-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/04/opt-out-writing.jpeg?w=3000",
+          "width": 3000,
+          "height": 1688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2023/05/02/1072556/we-need-to-bring-consent-to-ai/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/05/02/1072556/we-need-to-bring-consent-to-ai/amp/",
+      "publishedDateTime": "2023-05-02T02:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-02-would-you-listen-to-ai-run-radio-this-station-tested-it-out-on-listeners.md",
+      "title": "Would you listen to AI-run radio? This station tested it out on listeners",
+      "excerpt": "A radio station recently did an experiment where AI took over for 13 hours of programming, featuring 'voice clones' and scripts written by ChatGPT.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/would-you-listen-to-ai-run-radio-this-station-tested-it-out-on-listeners/",
+      "originalUrl": "https://www.zdnet.com/article/would-you-listen-to-ai-run-radio-this-station-tested-it-out-on-listeners/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/3490e98efc0b11aafa2caff9d66f54d8310ea2d4/2023/05/01/87dcdeeb-84b6-4aa5-b972-37e3636b8aa3/robot-radio.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/would-you-listen-to-ai-run-radio-this-station-tested-it-out-on-listeners/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/would-you-listen-to-ai-run-radio-this-station-tested-it-out-on-listeners/",
+      "publishedDateTime": "2023-05-02T02:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-02-machine-learning-model-sheds-light-on-how-brains-recognize-communication-sounds.md",
+      "title": "Machine learning model sheds light on how brains recognize communication sounds",
+      "excerpt": "In a paper published today in Communications Biology, auditory neuroscientists at the University of Pittsburgh describe a machine learning model that helps explain how the brain recognizes the meaning of communication sounds,",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-05-machine-brains-communication.html",
+      "originalUrl": "https://phys.org/news/2023-05-machine-brains-communication.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/machine-learning-model-6.jpg",
+          "width": 1189,
+          "height": 559,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-05-machine-brains-communication.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-05-machine-brains-communication.amp",
+      "publishedDateTime": "2023-05-02T01:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-02-floki-co-founder-joins-new-ai-crypto-token-based-on-elons-robot.md",
       "title": "Floki Co-Founder Joins New AI Crypto Token, based on Elon’s Robot",
       "excerpt": "Floki co-founder joins an innovative AI-based crypto token project, inspired by Elon Musk's advanced robotics. The collaboration aims to",
@@ -63,7 +294,7 @@
       "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/05/02/5-amazing-ways-how-meta-facebook-is-using-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -104,57 +335,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-hollywood-writers-strike-over-pay-disputes-with-streaming-giants-ai-concerns.md",
-      "title": "Hollywood Writers Strike Over Pay Disputes with Streaming Giants, AI Concerns",
-      "excerpt": "The entertainment industry is in the throes of a labor dispute and more than a few of the sticking points involve recent technological changes.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/wga-hollywood-writers-strike-ai-streaming-giants-netfli-1850392107",
-      "originalUrl": "https://gizmodo.com/wga-hollywood-writers-strike-ai-streaming-giants-netfli-1850392107",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/eb6285b1f869d07e1aaa543ccc67b608.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-01T22:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {
@@ -217,7 +397,7 @@
       "originalUrl": "https://newatlas.com/technology/mind-reading-ai-translates-brain-activity-into-text/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 172,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -269,7 +449,7 @@
       "originalUrl": "https://www.cnbc.com/2023/05/02/chatgpt-were-only-in-aol-phase-of-ai-ceo-says.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -320,7 +500,7 @@
       "originalUrl": "https://www.cnet.com/tech/ai-trailers-are-extremely-funny-abominations-for-now/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -415,7 +595,7 @@
       "originalUrl": "https://www.komando.com/technology/brain-computer-chips/885367/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -664,7 +844,7 @@
       "originalUrl": "https://www.wmar2news.com/local/legislation-introduced-to-regulate-facial-recognition-technology-in-baltimore",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -760,7 +940,7 @@
       "originalUrl": "https://techcrunch.com/2023/05/01/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 419,
+      "heat": 429,
       "tags": null,
       "images": [
         {
@@ -1061,205 +1241,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-01-ai-platform-to-analyze-creative-advertising-raises-51m-from-investors-including-a16z.md",
-      "title": "AI platform to analyze creative advertising raises $5.1M from investors, including a16z",
-      "excerpt": "In this increasingly AI-driven era, creative and media teams will probably need to employ the technology to up their game on analyzing their creative assets and A/B testing — or someone else will simply beat them to the punch.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/05/01/ai-platform-to-analyze-creative-advertising-raises-5-1m-from-investors-including-a16z/",
-      "originalUrl": "https://techcrunch.com/2023/05/01/ai-platform-to-analyze-creative-advertising-raises-5-1m-from-investors-including-a16z/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/04/Screenshot-2023-04-30-at-22.44.09.png?resize=1200,824",
-          "width": 1199,
-          "height": 824,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/05/01/ai-platform-to-analyze-creative-advertising-raises-5-1m-from-investors-including-a16z/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/01/ai-platform-to-analyze-creative-advertising-raises-5-1m-from-investors-including-a16z/amp/",
-      "publishedDateTime": "2023-05-01T09:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-01-white-house-wants-to-know-how-ai-monitoring-is-impacting-your-work.md",
-      "title": "White House Wants to Know How AI Monitoring is Impacting Your Work",
-      "excerpt": "The Biden Administration is reportedly looking for feedback from workers to see how AI tools are being in the workplace.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/white-house-wants-to-know-how-ai-monitoring-is-impacting-your-work/",
-      "originalUrl": "https://www.cnet.com/tech/white-house-wants-to-know-how-ai-monitoring-is-impacting-your-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/ad99f665f21072d2552b946239f97ecaa1d9884f/hub/2023/05/01/6becf316-2f12-4396-8126-21a0ba76ca41/gettyimages-1324245317.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/white-house-wants-to-know-how-ai-monitoring-is-impacting-your-work/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/white-house-wants-to-know-how-ai-monitoring-is-impacting-your-work/",
-      "publishedDateTime": "2023-05-01T09:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-01-godfather-of-ai-leaves-google-amid-ethical-concerns.md",
-      "title": "'Godfather of AI' leaves Google amid ethical concerns",
-      "excerpt": "Geoffrey Hinton, the 'godfather of AI,' has left Google so he can warn people of the risks involved with the technology..",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/godfather-of-ai-leaves-google-amid-ethical-concerns-152451800.html",
-      "originalUrl": "https://www.engadget.com/godfather-of-ai-leaves-google-amid-ethical-concerns-152451800.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 436,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/va6aKpnLTH_HpTTrHhzsoQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-04/e30ed030-e82b-11ed-b4f7-aa573aa5f955.cf.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/godfather-of-ai-leaves-google-amid-ethical-concerns-152451800.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/godfather-of-ai-leaves-google-amid-ethical-concerns-152451800.html",
-      "publishedDateTime": "2023-05-01T08:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-05-01-meet-7-healthcare-robotics-startups-at-robotics-summit-expo.md",
-      "title": "Meet 7 healthcare robotics startups at Robotics Summit & Expo",
-      "excerpt": "During a session at the Robotics Summit & Expo, which is held at the Boston Convention Center from May 10-11, attendees will hear pitches from the following seven healthcare robotics startups currently in the catalyst program: Able Human Motion,",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/meet-7-healthcare-robotics-startups-at-robotics-summit-expo/",
-      "originalUrl": "https://www.therobotreport.com/meet-7-healthcare-robotics-startups-at-robotics-summit-expo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2023/04/healthcare-robotics-featured.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-01T08:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

@@ -2,6 +2,206 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-04-28-ais-earns-seventh-microsoft-advanced-specialization-in-analytics-on-azure-securing-access-to-end-customer-funding-and-resources.md",
+      "title": "AIS Earns Seventh Microsoft Advanced Specialization in Analytics on Azure, Securing Access to End-Customer Funding and Resources",
+      "excerpt": "AIS (Applied Information Sciences), experts in helping organizations modernize and innovate with Microsoft Cloud,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ais-earns-seventh-microsoft-advanced-specialization-in-analytics-on-azure-securing-access-to-end-customer-funding-and-resources-2023-04-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/ais-earns-seventh-microsoft-advanced-specialization-in-analytics-on-azure-securing-access-to-end-customer-funding-and-resources-2023-04-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-28T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-28-french-privacy-chief-warns-against-using-facial-recognition-for-2024-olympics.md",
+      "title": "French privacy chief warns against using facial recognition for 2024 Olympics",
+      "excerpt": "PARIS — The French data protection authority's president Marie-Laure Denis warned Tuesday against using facial recognition as part of the 2024 Paris Summer Olympics security toolkit. \"The members of the CNIL's college call on parliamentarians not to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.eu/article/french-privacy-chief-warns-against-using-facial-recognition-for-2024-olympics/",
+      "originalUrl": "https://www.politico.eu/article/french-privacy-chief-warns-against-using-facial-recognition-for-2024-olympics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/01/24/GettyImages-1161938837-scaled.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.eu/article/french-privacy-chief-warns-against-using-facial-recognition-for-2024-olympics/amp/",
+      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/french-privacy-chief-warns-against-using-facial-recognition-for-2024-olympics/amp/",
+      "publishedDateTime": "2023-04-28T05:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico Europe",
+        "domain": "politico.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-28-machine-learning-operations-mlops-market-research-analysis-2023-2031.md",
+      "title": "Machine Learning Operations (MLOps) Market Research Analysis 2023-2031",
+      "excerpt": "What is the Machine Learning Operations (MLOps) market growth? Machine Learning Operations (MLOps) Market Size is projected to Reach Multimillion USD by 2031, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2031.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-operations-mlops-market-research-analysis-2023-2031-2023-04-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-operations-mlops-market-research-analysis-2023-2031-2023-04-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-28T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-04-28-making-the-most-out-of-generative-ai-in-your-enterprise.md",
+      "title": "Making The Most Out Of Generative AI In Your Enterprise",
+      "excerpt": "Generative artificial intelligence (AI) has come to the forefront of business leaders' minds with the ongoing stories and innovative capabilities of ChatGPT and the waitlist for its rival, Google Bard.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/28/making-the-most-out-of-generative-ai-in-your-enterprise/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/28/making-the-most-out-of-generative-ai-in-your-enterprise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 239,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/644a7a52c586aa5faa0d1575/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 781,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/28/making-the-most-out-of-generative-ai-in-your-enterprise/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/28/making-the-most-out-of-generative-ai-in-your-enterprise/amp/",
+      "publishedDateTime": "2023-04-28T04:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-04-28-aruba-banks-on-integrated-security-ai-naas-for-enterprise-growth.md",
       "title": "Aruba banks on integrated security, AI, NaaS for enterprise growth",
       "excerpt": "Aruba Networks execs talked about a number of core technologies they expect will dominate enterprise customer environments, and, clearly, integrated network/security, AI and network-as-a-service technologies will be at the heart of those developments.",
@@ -191,7 +391,7 @@
       "originalUrl": "https://diginomica.com/built-world-ai-start-ups-lead-investments-overtake-fintech-and-marketing",
       "featuredContent": null,
       "highlight": null,
-      "heat": 151,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -1006,215 +1206,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-alibaba-cloud-seeks-partners-to-help-build-custom-generative-ai-models.md",
-      "title": "Alibaba Cloud seeks partners to help build custom generative AI models",
-      "excerpt": "The Chinese cloud vendor announced a new program to find partners that can create large language models tailored for companies across various sectors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/alibaba-cloud-seeks-partners-to-help-build-custom-generative-ai-models/",
-      "originalUrl": "https://www.zdnet.com/article/alibaba-cloud-seeks-partners-to-help-build-custom-generative-ai-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/78805114ccf28a4a5f4114d5b5828cd52a8b054d/2023/04/27/5b5953af-e8ce-4564-b05c-44eec02c4038/gettyimages-1438616508.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/alibaba-cloud-seeks-partners-to-help-build-custom-generative-ai-models/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/alibaba-cloud-seeks-partners-to-help-build-custom-generative-ai-models/",
-      "publishedDateTime": "2023-04-27T11:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-google-microsoft-and-meta-each-said-ai-nearly-50-times-on-earnings-calls-heres-why-we-should-all-care.md",
-      "title": "Google, Microsoft and Meta each said ‘AI’ nearly 50 times on earnings calls. Here’s why we should all care",
-      "excerpt": "In earnings results this week, Alphabet, Microsoft and Meta all announced revenue boosts and put their AI priorities front-and-center.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/google-microsoft-and-meta-each-said-ai-nearly-50-times-on-earnings-calls-heres-why-we-should-all-care/",
-      "originalUrl": "https://venturebeat.com/ai/google-microsoft-and-meta-each-said-ai-nearly-50-times-on-earnings-calls-heres-why-we-should-all-care/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/04/Untitled-design-61.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/google-microsoft-and-meta-each-said-ai-nearly-50-times-on-earnings-calls-heres-why-we-should-all-care/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/google-microsoft-and-meta-each-said-ai-nearly-50-times-on-earnings-calls-heres-why-we-should-all-care/amp/",
-      "publishedDateTime": "2023-04-27T10:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-tenable-report-shows-how-generative-ai-is-changing-security-research.md",
-      "title": "Tenable report shows how generative AI is changing security research",
-      "excerpt": "A Tenable report reveals four ways researchers can use generative AI to enhance vulnerability analysis and debugging.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/security/tenable-report-shows-how-generative-ai-is-changing-security-research/",
-      "originalUrl": "https://venturebeat.com/security/tenable-report-shows-how-generative-ai-is-changing-security-research/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1076658494.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 603,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/security/tenable-report-shows-how-generative-ai-is-changing-security-research/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/tenable-report-shows-how-generative-ai-is-changing-security-research/amp/",
-      "publishedDateTime": "2023-04-27T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-the-future-of-workplace-safety-data-privacy-and-ethical-ai-at-the-highest-level.md",
-      "title": "The future of workplace safety: Data privacy and ethical AI at the highest level",
-      "excerpt": "Intenseye launched revolutionary 3D anonymization technique for workplace safety and data privacyNEW YORK, April 27, 2023 /PRNewswire/ --",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/the-future-of-workplace-safety-data-privacy-and-ethical-ai-at-the-highest-level-1032269760",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/the-future-of-workplace-safety-data-privacy-and-ethical-ai-at-the-highest-level-1032269760",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2064905/FINAL_3D_RENDER_THUMB__1.jpg",
-          "width": 320,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T09:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

@@ -5,6 +5,8 @@ excerpt: "Artificial Intelligence (AI) is a rapidly growing field with numerous 
 publishedDateTime: 2023-04-27T16:24:00Z
 originalUrl: "https://cointelegraph.com/news/7-popular-tools-and-frameworks-for-developing-ai-applications"
 webUrl: "https://cointelegraph.com/news/7-popular-tools-and-frameworks-for-developing-ai-applications"
+ampWebUrl: "https://cointelegraph.com/news/7-popular-tools-and-frameworks-for-developing-ai-applications/amp"
+cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/7-popular-tools-and-frameworks-for-developing-ai-applications/amp"
 type: article
 quality: 19
 heat: -1
@@ -17,6 +19,13 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Microsoft AI
+
+images:
+  - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-04/72bfc4e0-b17d-4e89-8bca-6cb8b3dbf4e0.jpg"
+    width: 740
+    height: 492
+    isCached: true
 
 related:
   - title: "AI Adoption Slow For Design Tools"

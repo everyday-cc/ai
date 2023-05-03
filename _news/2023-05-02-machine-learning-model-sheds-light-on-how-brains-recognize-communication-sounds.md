@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2023-05-machine-brains-communication.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-05-machine-brains-communication.amp"
 type: article
 quality: 70
-heat: 80
+heat: 82
 published: true
 
 provider:
@@ -35,7 +35,7 @@ related:
     provider:
       name: Neuroscience News
       domain: neurosciencenews.com
-    quality: 31
+    quality: 33
     images:
       - url: "https://neurosciencenews.com/files/2023/05/machine-learning-communication-sound-neurosinces.jpg"
         width: 1200

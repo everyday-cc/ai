@@ -6,7 +6,7 @@ publishedDateTime: 2023-05-02T20:05:00Z
 originalUrl: "https://neurosciencenews.com/sound-communication-ai-23156/"
 webUrl: "https://neurosciencenews.com/sound-communication-ai-23156/"
 type: article
-quality: 31
+quality: 33
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://neurosciencenews.com/files/2023/05/machine-learning-communication-sound-neurosinces.jpg"
@@ -42,6 +43,6 @@ related:
         height: 559
         isCached: true
 
-secured: "VobA+N9Ea5RqtSFlS8yE1Bq9d10dW3+yx3kX2V2LOkGWvwWvSH/2N9GSggOA0A+Rm+E/ymqfU6ZiWApNMSLIzO2J9wxzCvHHfGfRmFLGdnf+Fgl97jxy1Xnr2SOWKTX8+QXzSgoFSIXNnmDYsZ2QAq6rvDKc0uBT5DhyjJbGzVowaZ977DN+A/tzvxsgKiSXxhIRbYRHL9noS1sY6ayMmAOMn9y5tW6Piol2ggnOqBA+Lk94SXPfwiDsN7uMrDiAlkK/RItVBtsWzGdpXQ6PJyHggUgIqkkhXwj9LkNtIEDPcfn4mdCVVU/o5c2F9vhaP+gQnqPrVDiq+/PtKpLcAE1nOnadsQ7gKHz7I8wTsp4=;Pg0YISsqGqOymhm1lbX0Kg=="
+secured: "3twndncB/ze7K3n6+XFY6zQOLe+03qu6pVnZu8ktWn75waXz113J4/rM58clOmID265hrqdmV1smVNCHBg9fLlkdh6XDRG+OQNydHYrIIYB8EKzNkhXqiY3+h76qBAEvd6V0V2ugHRQF8zxNdHbY0ceuHCmn7d+JX665fc1BgauVVbw+0U1oB7pDcPpPXct+UbUbRy8Or2kSPAilLU8kgS7iSQngJ2mqA48v646XyWAaAZzBF1FXfLI62YNX8BtuEewNb2FwBFiFeAvwyqUdkxB75wDXlj66RTF/BICjejrzbh0V0MDho0PgRYaJfXR5bMBeQToALnoN8/Rgq6/2MlH4itqD3XsFHop5Rphh2cjLsmuhYujzhupdKWT/5fhPXqb8NPYDFQwE8y5TmXswo0E3ZLV7Tvk3ifbDi7/by5nWDpYu78IVVFV/+I/zff1RWEt/J36dTV8KyDnI5i0NB1k4cO/wNWxCEQD12ESYdzGmT1RAuYWxFFXyPsdk5nt3VXXo5UsHEv1nFZtUtiDPew==;VAmymeWeGTKxwqO5m95/aA=="
 ---
 

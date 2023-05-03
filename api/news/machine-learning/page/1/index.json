@@ -6,17 +6,17 @@
       "title": "AWS DeepRacer: When fun meets ML, autonomous cars and upskilling",
       "excerpt": "The AWS DeepRacer event, hosted last Friday by simulation technology provider Computer Modeling Group (CMG) in Calgary, showed how access to the right resources, a good old showdown and attractive prizes could be the answer to the global upskilling problem.",
       "sourceUrl": null,
-      "webUrl": "https://www.thewhig.com/technology/aws-deepracer-when-fun-meets-ml-autonomous-cars-and-upskilling",
-      "originalUrl": "https://www.thewhig.com/technology/aws-deepracer-when-fun-meets-ml-autonomous-cars-and-upskilling",
+      "webUrl": "https://www.itworldcanada.com/article/aws-deepracer-when-fun-meets-ml-autonomous-cars-and-upskilling/537953",
+      "originalUrl": "https://www.itworldcanada.com/article/aws-deepracer-when-fun-meets-ml-autonomous-cars-and-upskilling/537953",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 108,
       "tags": null,
       "images": [
         {
-          "url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2023/05/deepracer2-1024x768-1.jpg",
-          "width": 1000,
-          "height": 750,
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2023/05/Deepracer2.jpg",
+          "width": 2016,
+          "height": 1512,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-02T11:39:00-07:00",
+      "ampWebUrl": "https://www.itworldcanada.com/article/aws-deepracer-when-fun-meets-ml-autonomous-cars-and-upskilling/537953?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/aws-deepracer-when-fun-meets-ml-autonomous-cars-and-upskilling/537953?amp=1",
+      "publishedDateTime": "2023-05-02T15:36:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Kingston Whig-Standard",
-        "domain": "thewhig.com",
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -160,7 +160,7 @@
       "originalUrl": "https://phys.org/news/2023-05-machine-brains-communication.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -448,7 +448,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/aimachine-learning-market-size-trends-and-forecast-2030-2023-04-28",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -931,34 +931,34 @@
     {
       "path": "_news/2023-04-25-announcing-lityxiq-60-powering-predictive-business-decisions-through-next-gen-machine-learning.md",
       "title": "Announcing LityxIQ 6.0 - Powering Predictive Business Decisions Through Next-Gen Machine Learning",
-      "excerpt": "Lityx makes its leading alternative AI and MLOps platform easier to deliver value for organizations focused on digital transformationWILMINGTON,",
+      "excerpt": "Lityx makes its leading alternative AI and MLOps platform easier to deliver value for organizations focused on digital transformation WILMINGTON, Del.,  /PRNewswire/ -- Lityx, LLC today announced the release of LityxIQ 6.",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/announcing-lityxiq-6-0-powering-predictive-business-decisions-through-next-gen-machine-learning-1032258784",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/announcing-lityxiq-6-0-powering-predictive-business-decisions-through-next-gen-machine-learning-1032258784",
+      "webUrl": "https://it.tmcnet.com/news/2023/04/25/9801468.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2023/04/25/9801468.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png",
+          "width": 550,
+          "height": 353,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-25T06:54:00-07:00",
+      "publishedDateTime": "2023-04-25T08:51:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -967,9 +967,8 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI"
       ]
     },
     {

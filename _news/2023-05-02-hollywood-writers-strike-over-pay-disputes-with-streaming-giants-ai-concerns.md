@@ -7,8 +7,8 @@ originalUrl: "https://gizmodo.com/wga-hollywood-writers-strike-ai-streaming-gian
 webUrl: "https://gizmodo.com/wga-hollywood-writers-strike-ai-streaming-giants-netfli-1850392107"
 type: article
 quality: 64
-heat: 84
-published: true
+heat: -1
+published: false
 
 provider:
   name: Gizmodo
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Hollywood screenwriters don’t want robots taking their jobs, either"
+    excerpt: "The thousands of WGA scribes who went on strike this week are concerned in part about the rise of AI — and how the major studios might tap the technology going forward."
+    publishedDateTime: 2023-05-02T23:31:00Z
+    webUrl: "https://www.nbcnews.com/news/writers-strike-2023-hollywood-screenwriters-ai-concerns-rcna82543"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna82543"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna82543"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 89
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/230502-NYC-Hollywood-Writers-Strike-ac-536p-6e2e6a.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Hollywood’s Artificial Intelligence Test"
     excerpt: "Are bots ready to replace writers?"
     publishedDateTime: 2023-05-01T17:33:00Z
@@ -37,20 +53,6 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 47
-  - title: "AI Eye: Is Hollywood over? ETH founder on AI, Wes Anderson Star Wars, robot dogs with ChatGPT brains"
-    excerpt: "Avengers: Endgame co-director Joe Russo says fully AI-generated movies are only two years away and that users will be able to generate or reshape content according to their mood. So instead of complaining on the internet about the terrible series finale of The Sopranos or Game of Thrones, you could just request the AI create something better."
-    publishedDateTime: 2023-05-01T13:30:00Z
-    webUrl: "https://cointelegraph.com/magazine/ai-eye-is-hollywood-over-eth-founder-on-ai-wes-anderson-star-wars-robot-dogs-with-chatgpt-brains/"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 39
-    images:
-      - url: "https://cointelegraph.com/magazine/wp-content/uploads/2023/05/magazine-AI-OK-scaled.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
 
 secured: "D4U7v/Trw85DlU0BoIjp1f1mlV5jFt/hvqLQuq4H5M+bXfuFQMMvnlUYNoM1VTSmQM/vC1u572PnVEwc0FuawTYAi8TokziWSR8hiQUyLJlY8tRaSDtYcsQ5lTziG0L0D+6vnMo0GXHmTiFIYOo5j6rQmGlbHhnLKTfs7ZsCk1jN0IzYedYLkPu0m+JGehB2J82zE25AIOs2DJh7CJlh8eAMpXqJH7WWzOfw4G3GxcbPaZGRBGi3Sfhu6spRASU7nec2eX3i+6tcXxuVB+p7aMMWdUHbGKlC8XV7df67rga7PyCps+W3cXIwI4C5FcHb/6xVQyozs09uUY8BkSLgxIumWCfdV0NgjObMIiCJ8tZvyhTiZXGK5M6wopva8tB4T7AvKp4urrsSCmTVJUtPBA0tej7vRLpVOgEKpbvoq3hzZWzko1/hazIy+OWY2dK1e+jqjoDm0VGbDRVRhvN46oOPKE4P6xTPIk1fPBjf3f4H9ekRLfBXa34fdNURmC9riw3qiYzWO227DaypwdCSUg==;ccs57CMiKQuzj5PVVQTwzQ=="
 ---

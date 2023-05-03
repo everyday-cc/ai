@@ -7,7 +7,7 @@ originalUrl: "https://cointelegraph.com/magazine/ai-eye-is-hollywood-over-eth-fo
 webUrl: "https://cointelegraph.com/magazine/ai-eye-is-hollywood-over-eth-founder-on-ai-wes-anderson-star-wars-robot-dogs-with-chatgpt-brains/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,29 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Hollywood Writers Strike Over Pay Disputes with Streaming Giants, AI Concerns"
-    excerpt: "The entertainment industry is in the throes of a labor dispute and more than a few of the sticking points involve recent technological changes."
-    publishedDateTime: 2023-05-02T05:34:00Z
-    webUrl: "https://gizmodo.com/wga-hollywood-writers-strike-ai-streaming-giants-netfli-1850392107"
+  - title: "AI creates a new Star Wars movie in the style of Wes Anderson and I wish it was real"
+    excerpt: "A group used AI to create a Star Wars trailer in the style of Wes Anderson and I would immediately go to see this in theaters."
+    publishedDateTime: 2023-05-01T23:49:00Z
+    webUrl: "https://bgr.com/tech/ai-creates-a-new-star-wars-movie-in-the-style-of-wes-anderson-and-i-wish-it-was-real/"
     type: article
     provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 64
+      name: BGR
+      domain: bgr.com
+    quality: 30
     images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/eb6285b1f869d07e1aaa543ccc67b608.jpg"
-        width: 1200
-        height: 675
+      - url: "https://bgr.com/wp-content/uploads/2023/05/the-galactic-menagerie-ai-star-wars.jpg?quality=82&strip=all"
+        width: 2270
+        height: 1135
         isCached: true
-  - title: "Hollywood’s Artificial Intelligence Test"
-    excerpt: "Are bots ready to replace writers?"
-    publishedDateTime: 2023-05-01T17:33:00Z
-    webUrl: "https://www.wsj.com/articles/hollywoods-artificial-intelligence-test-4e286280"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 47
 
 secured: "MPvMcZkYVqY/oi+12FD24/b32DffCpQLkYsdhW216y6Liznqar6djW0zdIix+DGBCyit9hp048psYrg0Ekgx2wBY9qUBuufAFbVkmBikdoA7pw1oeDCKhToDXVSv9RsGzjWl0Gi3J3HoX+5qTxdP4LaqF6zHjLaolM5gwSOX6P6NmWDu353LAYsebHy4s5S5kzrCxRqE33j7cicK1xV1t6fFumir/HB+sGqeBVYZ8Ouba6A/ApbgVGiSLUwFS0d3m7h7AxbNSeyw5K3/iVIyEGEAtWFvfTYyOE+zwpd24JoXCKS0wHTWfwI9DzQ3BWU7fG32i7mBka1C/ejRxENEG6bA6iF9XcCzzJYOVNfm1s15ClTqDVEiTdxz/sul0gZQbaDVsk9jxzgxRJalNBOKCwXQs2eUqyGh+xnaOi5qRWfRs1zeL5HtpFLpiGVGnjRVdIUyVg7D5k5PJARa4wbG3GH4dizoFqgT7RClCrq7rHfwjsdpmCLRxcoTziYDLHJpVnTmhRW1SN54vwRr4kTlJQ==;o+Ijrjxg4D/APNiQxdzpXg=="
 ---

@@ -2,11 +2,11 @@
 category: news
 title: "Databricks Joins edX Partner Network with Launch of New Expert-led Program in Large Language Models"
 excerpt: "(Nasdaq: TWOU), today announced a new partnership with global data and AI leader Databricks to launch a Large Language Models (LLMs) Professional Certificate program, the first of its kind on edX.org."
-publishedDateTime: 2023-05-01T13:10:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/05/01/9804789.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/05/01/9804789.htm"
+publishedDateTime: 2023-05-01T14:22:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-databricks-joins-edx-partner-network-with-launch-new-/2023/05/01/9804789.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-databricks-joins-edx-partner-network-with-launch-new-/2023/05/01/9804789.htm"
 type: article
-quality: 0
+quality: 10
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/1809117/edX_logo_Logo.jpg"
+    width: 400
+    height: 209
+    isCached: true
 
 related:
   - title: "Databricks Joins edX with Launch of New Program in Large Language Models"
@@ -34,6 +40,6 @@ related:
         height: 674
         isCached: true
 
-secured: "O05SHAVvnN4G5F1fexzExsrncv5cxs7AY8ElfkPcN4xuGr1XvHoOWI7nJLhMOVk8ZS5oohNLOkRBVJCHX+X326iXaTTuDNifeBJtI/FjZjoNs6eISRx8GzZmEZLq96EfxdJzApUBZC6AQVAAi2T2qFRrzhQ2wIhQjJTEv7+5zHGIYrhSugB5WX/+asO6NB8ox2ECUlhbvaSKpZFLTdk2fWEuceFfmd128RGOBTRhGw8PImLCQk7FHqW20WD8ye0SbbshUbf5GBK+izAtlGtPxWa8RwCUKgCdVZm5AL8wjonwbky6j9H6fEGJH8h6eIo4/lXiXHDPG3+QG9PYAKSAgz5WsHIybgVvl5/VyA4btTU=;KaolE6mOTscQFBv4H+5Ogg=="
+secured: "hH/JP6ZuY+Xrltie+YqLwpiiC5L4ronsqNzNzOQxuBmGz+UEkK/jVti0anShvtwt88dAt4y92YTKvrgt6WXrWmNNjAhbG2MFDGDcdvuYFfUltODzSdtaUARGkmYa47QsYLuvwZgrqQOlQiKs4407idnjiygYBkggWhVZcePfodZltgLLtKmhCMS8wSdqwoBZH4C1hMG9ira2uNfOmx3l93SFalqqnOng5fIzLD1kKnvFBGUrbzBcozM6xPiXcRbrtTIsY5tJCmpqfg1x38zXNGsMYC4CA/ikkPo6v+PxeGzT9jSKaqAp2nVkHdSYSNJnU9u6UkICzMY44fsFYRRT8ipKLWYLcDX86giNkyQuF/U=;bNiEhzddIjYP9e6cgrd2/A=="
 ---
 

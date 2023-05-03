@@ -136,15 +136,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
-  - title: "Artificial Intelligence In Insurtech Market Growth by 2030"
-    excerpt: "What is the Artificial Intelligence In Insurtech market growth? Artificial Intelligence In Insurtech Market Size is projected to Reach Multimillion USD by 2030, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2030."
-    publishedDateTime: 2023-04-28T06:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-insurtech-market-growth-by-2030-2023-04-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
   - title: "AI in Fashion Global Market Report 2023: Growing Influence of Social Media on the Fashion Industry Fuels the Sector"
     excerpt: "The \"AI in Fashion Global Market Report 2023\" report has been added to ResearchAndMarkets.com's offering. This report provides strategists, marketers and senior"
     publishedDateTime: 2023-04-28T23:00:00Z

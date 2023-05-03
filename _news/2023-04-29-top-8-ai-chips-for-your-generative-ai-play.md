@@ -187,6 +187,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "3 ways Generative AI is transforming the retail industry"
+    excerpt: "Microsoft Azure OpenAI and other Generative AI technologies are helping retailers jumpstart innovation, improve customer experience, and accelerate growth."
+    publishedDateTime: 2023-05-02T21:58:00Z
+    webUrl: "https://www.cio.com/article/475453/3-ways-generative-ai-is-transforming-theretail-industry.html"
+    ampWebUrl: "https://www.cio.com/article/475453/3-ways-generative-ai-is-transforming-theretail-industry.html/amp/"
+    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/475453/3-ways-generative-ai-is-transforming-theretail-industry.html/amp/"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 59
+    images:
+      - url: "https://www.cio.com/wp-content/uploads/2023/05/image-EVP-2-Retail-iStock-Asawin_Klabma-1.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 645
+        isCached: true
   - title: "UAE Government launches 'Generative AI' guide to facilitate adoption of AI technology"
     excerpt: "The “Generative AI” guide serves as a valuable resource for government entities, enabling them to leverage the benefits of AI"
     publishedDateTime: 2023-04-30T11:26:00Z

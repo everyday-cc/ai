@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2023/04/30/how-are-educator
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/04/30/how-are-educators-reacting-to-chat-gpt/amp/"
 type: article
 quality: 74
-heat: 78
+heat: 74
 published: true
 
 provider:

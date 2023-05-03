@@ -2,6 +2,248 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-03-hollywood-screenwriters-dont-want-robots-taking-their-jobs-either.md",
+      "title": "Hollywood screenwriters don’t want robots taking their jobs, either",
+      "excerpt": "The thousands of WGA scribes who went on strike this week are concerned in part about the rise of AI — and how the major studios might tap the technology going forward.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/writers-strike-2023-hollywood-screenwriters-ai-concerns-rcna82543",
+      "originalUrl": "https://www.nbcnews.com/news/writers-strike-2023-hollywood-screenwriters-ai-concerns-rcna82543",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/230502-NYC-Hollywood-Writers-Strike-ac-536p-6e2e6a.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna82543",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna82543",
+      "publishedDateTime": "2023-05-02T16:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-03-with-writers-on-strike-can-an-ai-chatbot-be-as-funny-as-stephen-colbert.md",
+      "title": "With writers on strike, can an AI chatbot be as funny as Stephen Colbert?",
+      "excerpt": "Among the first casualties of the strike is late-night TV, which relies on a bevy of writers to quickly turn the day's events into comedy gold. So far, Jimmy Kimmel Live!, The Late Show with Stephen Colbert, and The Tonight Show with Jimmy Fallon have all announced a hiatus as writers take to the picket line.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/world-us-canada-65465386",
+      "originalUrl": "https://www.bbc.com/news/world-us-canada-65465386",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/5B5B/production/_129578332_myproject-1-3.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/world-us-canada-65465386.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-65465386.amp",
+      "publishedDateTime": "2023-05-02T16:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-03-aws-deepracer-when-fun-meets-ml-autonomous-cars-and-upskilling.md",
+      "title": "AWS DeepRacer: When fun meets ML, autonomous cars and upskilling",
+      "excerpt": "The AWS DeepRacer event, hosted last Friday by simulation technology provider Computer Modeling Group (CMG) in Calgary, showed how access to the right resources, a good old showdown and attractive prizes could be the answer to the global upskilling problem.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itworldcanada.com/article/aws-deepracer-when-fun-meets-ml-autonomous-cars-and-upskilling/537953",
+      "originalUrl": "https://www.itworldcanada.com/article/aws-deepracer-when-fun-meets-ml-autonomous-cars-and-upskilling/537953",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2023/05/Deepracer2.jpg",
+          "width": 2016,
+          "height": 1512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itworldcanada.com/article/aws-deepracer-when-fun-meets-ml-autonomous-cars-and-upskilling/537953?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/aws-deepracer-when-fun-meets-ml-autonomous-cars-and-upskilling/537953?amp=1",
+      "publishedDateTime": "2023-05-02T15:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-05-03-ais-chaotic-rollout-in-big-us-hospitals-detailed-in-anonymous-quotes.md",
+      "title": "AI’s chaotic rollout in big US hospitals detailed in anonymous quotes",
+      "excerpt": "But, behind the public fray of fanfare and failures, there's a chaotic reality of rollouts that has largely gone untold. For years, health care systems and hospitals have grappled with inefficient and,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/science/2023/05/ais-chaotic-rollout-in-big-us-hospitals-detailed-in-anonymous-quotes/",
+      "originalUrl": "https://arstechnica.com/science/2023/05/ais-chaotic-rollout-in-big-us-hospitals-detailed-in-anonymous-quotes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/doctor-making-an-ai-deal-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/science/2023/05/ais-chaotic-rollout-in-big-us-hospitals-detailed-in-anonymous-quotes/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/science/2023/05/ais-chaotic-rollout-in-big-us-hospitals-detailed-in-anonymous-quotes/amp/",
+      "publishedDateTime": "2023-05-02T15:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-03-accenture-finds-only-9-of-enterprises-harness-ais-full-potential.md",
+      "title": "Accenture finds only 9% of enterprises harness AI’s full potential",
+      "excerpt": "New Accenture report reveals key strategies \"operations reinventors\" use to achieve elevated levels of operational maturity.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/accenture-finds-only-9-of-enterprises-harness-ais-full-potential/",
+      "originalUrl": "https://venturebeat.com/ai/accenture-finds-only-9-of-enterprises-harness-ais-full-potential/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1366475366-e1665766594967.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/accenture-finds-only-9-of-enterprises-harness-ais-full-potential/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/accenture-finds-only-9-of-enterprises-harness-ais-full-potential/amp/",
+      "publishedDateTime": "2023-05-02T15:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-03-ai-generated-beer-commercial-contains-joyful-monstrosities-goes-viral.md",
       "title": "AI-generated beer commercial contains joyful monstrosities, goes viral",
       "excerpt": "While many fear a future where AI-generated media becomes indistinguishable from traditional media, destroying society and/or civilization in the process, we aren't quite there yet. Exhibit A comes in the form of a surreal AI-generated beer commercial that went viral over the weekend.",
@@ -97,21 +339,21 @@
       ]
     },
     {
-      "path": "_news/2023-05-03-aws-deepracer-when-fun-meets-ml-autonomous-cars-and-upskilling.md",
-      "title": "AWS DeepRacer: When fun meets ML, autonomous cars and upskilling",
-      "excerpt": "The AWS DeepRacer event, hosted last Friday by simulation technology provider Computer Modeling Group (CMG) in Calgary, showed how access to the right resources, a good old showdown and attractive prizes could be the answer to the global upskilling problem.",
+      "path": "_news/2023-05-03-this-robot-can-paint-but-is-it-art.md",
+      "title": "This Robot Can Paint. But Is It Art?",
+      "excerpt": "Researchers at Carnegie Mellon University developed an A.I.-powered arm that can paint an abstract acrylic. Is it art?",
       "sourceUrl": null,
-      "webUrl": "https://www.thewhig.com/technology/aws-deepracer-when-fun-meets-ml-autonomous-cars-and-upskilling",
-      "originalUrl": "https://www.thewhig.com/technology/aws-deepracer-when-fun-meets-ml-autonomous-cars-and-upskilling",
+      "webUrl": "https://www.nytimes.com/2023/05/02/science/ai-creativity-paintbot.html",
+      "originalUrl": "https://www.nytimes.com/2023/05/02/science/ai-creativity-paintbot.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 84,
       "tags": null,
       "images": [
         {
-          "url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2023/05/deepracer2-1024x768-1.jpg",
-          "width": 1000,
-          "height": 750,
+          "url": "https://static01.nyt.com/images/2023/05/02/multimedia/02SCI-MIND-PAINTBOT-vid1cover-gbqv/02SCI-MIND-PAINTBOT-vid1cover-gbqv-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -121,12 +363,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-02T11:39:00-07:00",
+      "publishedDateTime": "2023-05-02T11:12:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Kingston Whig-Standard",
-        "domain": "thewhig.com",
-        "images": null,
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -135,10 +386,8 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning",
-        "AI in Autos"
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -999,237 +1248,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-codeorg-helping-launch-teachai-to-guide-integration-of-artificial-intelligence-in-education.md",
-      "title": "Code.org helping launch TeachAI to guide integration of artificial intelligence in education",
-      "excerpt": "Seattle-based computer science education nonprofit Code.org is helping to launch TeachAI, a new effort aimed at guiding governments and educators on teaching with and about artificial intelligence. The initiative,",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2023/code-org-helping-launch-teachai-to-guide-integration-of-artificial-intelligence-in-education/",
-      "originalUrl": "https://www.geekwire.com/2023/code-org-helping-launch-teachai-to-guide-integration-of-artificial-intelligence-in-education/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-02T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-why-cios-are-so-obsessed-with-the-cloud.md",
-      "title": "Why CIOs Are So Obsessed With The Cloud",
-      "excerpt": "Benefits such as increased efficiency, flexibility, scalability and security make the cloud an attractive proposition for CIOs. Evolutions in cloud technology (like edge computing and more sustainable \"green\" cloud) are only likely to further its appeal.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/02/why-cios-are-so-obsessed-with-the-cloud/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/02/why-cios-are-so-obsessed-with-the-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/623e01e2d7e01bab063bd76c/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/02/why-cios-are-so-obsessed-with-the-cloud/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/02/why-cios-are-so-obsessed-with-the-cloud/amp/",
-      "publishedDateTime": "2023-05-02T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-we-need-to-bring-consent-to-ai.md",
-      "title": "We need to bring consent to AI",
-      "excerpt": "This week's big news is that Geoffrey Hinton, a VP and Engineering Fellow at Google, and a pioneer of deep learning who developed some of the most important techniques at the heart of modern AI, is leaving the company after 10 years. But first, we need to talk about consent in AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2023/05/02/1072556/we-need-to-bring-consent-to-ai/",
-      "originalUrl": "https://www.technologyreview.com/2023/05/02/1072556/we-need-to-bring-consent-to-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/04/opt-out-writing.jpeg?w=3000",
-          "width": 3000,
-          "height": 1688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2023/05/02/1072556/we-need-to-bring-consent-to-ai/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/05/02/1072556/we-need-to-bring-consent-to-ai/amp/",
-      "publishedDateTime": "2023-05-02T02:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-would-you-listen-to-ai-run-radio-this-station-tested-it-out-on-listeners.md",
-      "title": "Would you listen to AI-run radio? This station tested it out on listeners",
-      "excerpt": "A radio station recently did an experiment where AI took over for 13 hours of programming, featuring 'voice clones' and scripts written by ChatGPT.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/would-you-listen-to-ai-run-radio-this-station-tested-it-out-on-listeners/",
-      "originalUrl": "https://www.zdnet.com/article/would-you-listen-to-ai-run-radio-this-station-tested-it-out-on-listeners/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/3490e98efc0b11aafa2caff9d66f54d8310ea2d4/2023/05/01/87dcdeeb-84b6-4aa5-b972-37e3636b8aa3/robot-radio.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/would-you-listen-to-ai-run-radio-this-station-tested-it-out-on-listeners/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/would-you-listen-to-ai-run-radio-this-station-tested-it-out-on-listeners/",
-      "publishedDateTime": "2023-05-02T02:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-machine-learning-model-sheds-light-on-how-brains-recognize-communication-sounds.md",
-      "title": "Machine learning model sheds light on how brains recognize communication sounds",
-      "excerpt": "In a paper published today in Communications Biology, auditory neuroscientists at the University of Pittsburgh describe a machine learning model that helps explain how the brain recognizes the meaning of communication sounds,",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-05-machine-brains-communication.html",
-      "originalUrl": "https://phys.org/news/2023-05-machine-brains-communication.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/machine-learning-model-6.jpg",
-          "width": 1189,
-          "height": 559,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-05-machine-brains-communication.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-05-machine-brains-communication.amp",
-      "publishedDateTime": "2023-05-02T01:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

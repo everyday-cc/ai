@@ -6,7 +6,7 @@ publishedDateTime: 2023-05-02T19:49:00Z
 originalUrl: "https://www.chron.com/news/article/ut-artificial-intelligence-ai-reads-minds-18074052.php"
 webUrl: "https://www.chron.com/news/article/ut-artificial-intelligence-ai-reads-minds-18074052.php"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://s.hdnux.com/photos/01/32/53/24/23770368/3/rawImage.jpg"
@@ -123,6 +124,6 @@ related:
       domain: kxan.com
     quality: 19
 
-secured: "WpApAXJK3ZWFrCZw7Sz+80Nczj7qQmkPLfcfpC7v17YmsGafUnvA/3wRHXBO510dzfRHAnCWnPJ7RwtaLCRZxGCCyIOctLYzEYtqwfgzsyDrTh/rsbME3sYXb+NzbJJiCvLco5GPOdQWrvIT1xxZUW1ghBGaozUYeqoz3Cjbjs+vtt36HViqU3QhZtfERQdpNMFua6jm3bnfbA+h6tGNSYmZgFhiejxc1Nu5z82q8BoxC4HePkYRcKY4IFIdS/xZp9VGLk96SCq4x5Dz0MgwePOtg+tnBlP6bloxeHB99j6kbsdY3zNUS18znDhs3TIv/hOucycO1XkVNWuPnBukZgGBveQ8lPKBb3MAB/3K7Gc=;OWT0tBm41ym4ryF5/IIhIA=="
+secured: "y/YIgoh86/eWccc2SxNCP9IgmvzFUu6NoH8Ie+aXpcYaXlkFdpxWcQWM3V1AquKa8sJbsLdCJ+aHALdRSR6DXhUA4LfXC6WH+NE2+sXScUQPmXY83XmgwrTvSYoK57oM4Bg131DHeL/Gg+x5R3KwuNsJoXUjYvW2IP1HNZLK4bJR0H3Z1w7PzdgjGHrTDdfO+2LEECpRMrUIv0aRJ28Jv8F5lYwq8FUVwjXwUQVKWrysOAK1je7DTg5siux0Yn2lupb/kOlcO0vHqeeGNtq35nXaZDQxY/T7eo0f8xeqbfStlFIRvzeE8nlK/Wn4S/PDYVteMq/AV/1wYojt8rcCpy85w/qUqqLnMbDqXy5RmfvDCz+FwemW+DXOhJ8+5XJTii1d3f51/Pjdlr4sF8e+gLhYfwD3bssHXZ+1O6N2pMRXkXQFRRGI0cRgzpqNA7kt4hqz8KrBKg4/BdjTGZKryT5JYc3Bz2Jjeb6QU4m7SjAR/9mX9lhH90evQMLU/KvdGvG/V5QaW0lOMCyuwUkb+w==;9lqUced+n0naTAIlSK7/Lg=="
 ---
 

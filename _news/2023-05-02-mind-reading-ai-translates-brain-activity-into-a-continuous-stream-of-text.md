@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/technology/mind-reading-ai-translates-brain-act
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/technology/mind-reading-ai-translates-brain-activity-into-text/?amp=true"
 type: article
 quality: 102
-heat: 172
+heat: 174
 published: true
 
 provider:
@@ -112,7 +112,7 @@ related:
     provider:
       name: Houston Chronicle
       domain: chron.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://s.hdnux.com/photos/01/32/53/24/23770368/3/rawImage.jpg"
         width: 1024

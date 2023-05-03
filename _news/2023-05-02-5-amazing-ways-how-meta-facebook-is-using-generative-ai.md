@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/05/02/5-amazing-ways-h
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/05/02/5-amazing-ways-how-meta-facebook-is-using-generative-ai/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Amazing Ways Duolingo Is Using AI And GPT-4"
-    excerpt: "Duolingo introduces GPT-4 on its language learning platform with AI used for personalized learning, automated feedback, and English testing. GPT-4 powered features provide a personalized and immersive experience."
-    publishedDateTime: 2023-04-28T06:31:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/04/28/the-amazing-ways-duolingo-is-using-ai-and-gpt-4/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/04/28/the-amazing-ways-duolingo-is-using-ai-and-gpt-4/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/04/28/the-amazing-ways-duolingo-is-using-ai-and-gpt-4/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/644b68231377cae0c3eb4780/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Facebook Execs Panicking as They Try to Catch Up in AI Race"
     excerpt: "In other words, Meta was already behind well before OpenAI released its extremely popular ChatGPT chatbot back in November. Now, with OpenAI, Microsoft, and Google leading the pack, Meta CEO Mark Zuckerberg's game of catch-up has seemingly turned into an all-out scramble."
     publishedDateTime: 2023-04-28T15:52:00Z

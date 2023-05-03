@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/28/making-the
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/28/making-the-most-out-of-generative-ai-in-your-enterprise/amp/"
 type: article
 quality: 89
-heat: 229
+heat: 239
 published: true
 
 provider:
@@ -174,6 +174,22 @@ related:
       - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2021/05/26/GettyImages-1168367645.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "3 ways Generative AI is transforming the retail industry"
+    excerpt: "Microsoft Azure OpenAI and other Generative AI technologies are helping retailers jumpstart innovation, improve customer experience, and accelerate growth."
+    publishedDateTime: 2023-05-02T21:58:00Z
+    webUrl: "https://www.cio.com/article/475453/3-ways-generative-ai-is-transforming-theretail-industry.html"
+    ampWebUrl: "https://www.cio.com/article/475453/3-ways-generative-ai-is-transforming-theretail-industry.html/amp/"
+    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/475453/3-ways-generative-ai-is-transforming-theretail-industry.html/amp/"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 59
+    images:
+      - url: "https://www.cio.com/wp-content/uploads/2023/05/image-EVP-2-Retail-iStock-Asawin_Klabma-1.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 645
         isCached: true
   - title: "Top 8 AI Chips for Your Generative AI Play"
     excerpt: "The AI chip market is expected to grow at a CAGR of 51% and reach $73.49 billion by 2025. Semiconductor companies could capture 40-50% of the total market share. Companies such as Alphabet, Broadcom,"

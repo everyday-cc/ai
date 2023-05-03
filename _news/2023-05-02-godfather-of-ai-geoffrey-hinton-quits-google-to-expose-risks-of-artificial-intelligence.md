@@ -119,6 +119,38 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "The so-called \"Godfather of the A.I.\" joins The Lead to offer a dire warning about the dangers of artificial intelligence"
+    excerpt: "The so-called \"Godfather of the A.I.\" joins The Lead to offer a dire warning about the dangers of artificial intelligence"
+    publishedDateTime: 2023-05-02T23:01:00Z
+    webUrl: "https://www.cnn.com/videos/tv/2023/05/02/the-lead-geoffrey-hinton.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/tv/2023/05/02/the-lead-geoffrey-hinton.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/tv/2023/05/02/the-lead-geoffrey-hinton.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 62
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/230502185021-the-lead-geoffrey-hinton-00034401-super-tease.png"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "‘Godfather of AI’ leaves Google, warns of tech’s dangers"
+    excerpt: "Over his decades-long career, Hinton’s pioneering work on deep learning and neural networks helped lay the foundation for much of the AI technology we see today."
+    publishedDateTime: 2023-05-02T21:23:00Z
+    webUrl: "https://www.wafb.com/2023/05/02/godfather-ai-leaves-google-warns-techs-dangers/"
+    ampWebUrl: "https://www.wafb.com/2023/05/02/godfather-ai-leaves-google-warns-techs-dangers/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wafb-com.cdn.ampproject.org/c/s/www.wafb.com/2023/05/02/godfather-ai-leaves-google-warns-techs-dangers/?outputType=amp"
+    type: article
+    provider:
+      name: WAFB
+      domain: wafb.com
+    quality: 59
+    images:
+      - url: "https://gray-wafb-prod.cdn.arcpublishing.com/resizer/-hNBDnRP6K4xKHLLZmfBbjArUJA=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/FNCU2O6EQJHEXPGX2VBSLTKPK4.png"
+        width: 800
+        height: 450
+        isCached: true
   - title: "'Godfather of AI' leaves Google, warns of tech's dangers"
     excerpt: "Geoffrey Hinton, the man widely considered as the “godfather” of artificial intelligence, has left Google — with a message sharing his concerns about potential dangers stemming from the same technolog"
     publishedDateTime: 2023-05-02T14:49:00Z
@@ -150,22 +182,6 @@ related:
       - url: "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/05/02/geoffrey_hinton.jpg"
         width: 750
         height: 393
-        isCached: true
-  - title: "'Godfather of AI' leaves Google, warns of tech's dangers"
-    excerpt: "Geoffrey Hinton, the man widely considered as the “godfather” of artificial intelligence, has left Google — with a message sharing his concerns about potential dangers stemming from the same technolog"
-    publishedDateTime: 2023-05-02T19:17:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/godfather-ai-leaves-google-warns-techs-dangers-99019479"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/godfather-ai-leaves-google-warns-techs-dangers-99019479"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/godfather-ai-leaves-google-warns-techs-dangers-99019479"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 57
-    images:
-      - url: "https://s.abcnews.com/images/Business/wirestory_fa98c6a6fddab1d7c27560f6fcbad0ad_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Deep learning pioneer Geoffrey Hinton leaves Google, warns of AI risks"
     excerpt: "Hinton (pictured) also argued that researchers should slow AI development until the risks associated with the technology are more clearly understood. Hinton, a professor at the University of Toronto,"

@@ -9,7 +9,7 @@ ampWebUrl: "https://diginomica.com/built-world-ai-start-ups-lead-investments-ove
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/built-world-ai-start-ups-lead-investments-overtake-fintech-and-marketing?amp"
 type: article
 quality: 75
-heat: 151
+heat: 145
 published: true
 
 provider:
