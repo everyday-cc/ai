@@ -30,7 +30,7 @@ related:
   - title: "Co-founders of Google DeepMind and LinkedIn launch chatbot"
     excerpt: "The co-founders of Google DeepMind and LinkedIn have launched an artificial intelligence chatbot called Pi, adding to the flood of similar products rolled out publicly this year by the likes of OpenAI, Google and Snap."
     publishedDateTime: 2023-05-02T19:00:00Z
-    webUrl: "https://www.ft.com/content/08b40743-16d8-4113-8258-147bf9dbce94"
+    webUrl: "https://www.ft.com/content/08b40743-16d8-4113-8258-147bf9dbce94?shareType=nongift"
     type: article
     provider:
       name: The Financial Times

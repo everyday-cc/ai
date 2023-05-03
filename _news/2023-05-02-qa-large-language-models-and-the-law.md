@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-05-qa-large-language-law.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-05-qa-large-language-law.amp"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,22 +27,29 @@ images:
     isCached: true
 
 related:
-  - title: "Large Language Models (LLMs) and Responsible AI: A much-needed partnership"
-    excerpt: "The best way to predict the future is to invent it.” Alan Kay LLMs everywhere What does it take to convince a single customer to use your product? How good should your product be"
-    publishedDateTime: 2023-04-28T09:34:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/large-language-models-llms-and-responsible-ai-a-much-needed-partnership/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/large-language-models-llms-and-responsible-ai-a-much-needed-partnership/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/large-language-models-llms-and-responsible-ai-a-much-needed-partnership/"
+  - title: "Databricks Joins edX with Launch of New Program in Large Language Models"
+    excerpt: "LANHAM, Md. and SAN FRANCISCO, May 1, 2023 -- edX, a leading global online learning platform from 2U, Inc., today announced a new partnership with global"
+    publishedDateTime: 2023-05-01T15:41:00Z
+    webUrl: "https://www.datanami.com/this-just-in/databricks-joins-edx-with-launch-of-new-program-in-large-language-models/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 57
+      name: datanami.com
+      domain: datanami.com
+    quality: 23
     images:
-      - url: "https://static.toiimg.com/photo/75433510.cms"
-        width: 330
-        height: 300
+      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-North-America23.png"
+        width: 1664
+        height: 674
         isCached: true
+  - title: "Large Language Models – Who are the key players?"
+    excerpt: "Large Language Models (LLMs) have been among the hottest topics in the past few months and will likely become one of the highlights of 2023. The fact that 77 per cent of businesses using Natural Language Processing (NLP) plan to increase their investment shows that LLMs are not just hype."
+    publishedDateTime: 2023-05-01T18:10:00Z
+    webUrl: "https://www.itworldcanada.com/article/large-language-models-who-are-the-key-players/537890"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 4
 
 secured: "IJ54rg5q2pPS20Hg4wo4XJiRlS/r3LoiJMkrandoMh3GG2H+CoYtP4dh90jyI2RsP+uR/vBvTvF41+VSDsQbzJ+tyTLAN9ZenwgegFoTFLWd7bPAN7Gtbshe1t+HWICeJvQLs/F6CFMo6hzjsc2qz9KGljIwkLcJpNa3B2ENYOGBjjPHfQfKZFxHBd15c1Sly2RPr/vJaoIj6ZMWc6HG1QwMJ4lGV/VyKhy2Z9DOAdsSQLr/1OCUEQEQXPhWGpVspJyB3GISgBaYwoxEs87/v43++54l0nCAmgAGlBK8CWsJEwidETADwVs36ZiIkIxIiegg02mITKzYs1aDBCsyEJXO95eknhYWsDiYtyddrXHhvYA0Y51lvjH0RHMn3mCD5NIhmhB4u1gjvHLIc2BLXQUEkOecFOU1+95Jz7TaGOHNijFMJSlqck4+qLK7PZirOxX01vSw3MsEumjgxs8PJFOrmdQ+IbEooTBTQCuptVanmblMIgxmE7ktdGWwL8O0B9aY5uZ40yBm7BznHovjTQ==;a5xwnMNz2Fk88UWO7LDdiA=="
 ---

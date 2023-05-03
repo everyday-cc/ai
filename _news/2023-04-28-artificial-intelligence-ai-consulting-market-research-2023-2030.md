@@ -56,20 +56,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Content Moderation Solutions Market to reach USD 17.59 Bn by 2029, emerging at a CAGR of 10.25 percent and forecast (2022-2029)"
-    excerpt: "The global Content Moderation Solutions Market is expected to reach from USD 8.06 Bn to USD 17.59 Bn by 2029, at"
-    publishedDateTime: 2023-04-28T11:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/content-moderation-solutions-market-to-reach-usd-1759-bn-by-2029-emerging-at-a-cagr-of-1025-percent-and-forecast-2022-2029-2023-04-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 26
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "7WmbH6e9BTxYqYfnUFdHejRf5rGp4x4LhmXmyRaBict2yac+4YUjevl8Z8caTfExSlfRFP9x6fwJWNFQr2nzcETh6PSjn/sQo9/k3FzgByZuysOAzr4lQsWVGV7Z+U0zgH6H66E0fW1CoQmcMbBe08RzgyW+N1fVs7PIeOndUv79qVtJ8SMwB1F3dwjlSa704nDRV8zqoo6uam1BkNVnazHSttTcJ4Px3iGpP1vMymLzKFCM/JE7zozjSO5BELz7BM7i7SEg7Lf6LcGjdRrlmgukR4+rkR8nkItnQ7JTilYf0UbuTYnZjzrdcafIRfBJRi6y0NIxyh5wrMOpbzsI6KD1aSsW9EepJXUdcnrzQ3g=;6k7EMVeN5OoCUxBSL4dvug=="
 ---

@@ -295,6 +295,49 @@
       ]
     },
     {
+      "path": "_news/2023-05-03-playing-and-learning-with-moxie-the-ai-based-robot-for-kids.md",
+      "title": "Playing and Learning With Moxie, the AI-Based Robot for Kids",
+      "excerpt": "Embodied’s Moxie robot wants to be your kids’ new best friend, helping them build confidence and self-esteem through AI-enhanced play. My sons and I spent some time with the 'bot; here's what we found.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/playing-and-learning-with-moxie-the-ai-based-robot-for-kids",
+      "originalUrl": "https://www.pcmag.com/news/playing-and-learning-with-moxie-the-ai-based-robot-for-kids",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-02T12:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-05-02-dont-pause-ai-development-prioritize-ethics-instead.md",
       "title": "Don’t pause AI development, prioritize ethics instead",
       "excerpt": "Some tech companies and lawmakers are getting it wrong when it comes to AI. Instead of pausing progress, they should be prioritizing AI ethics. Here's how.\nThe post Don’t pause AI development, prioritize ethics instead appeared first on IBM Blog.\n",
@@ -1197,49 +1240,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-codeorg-helping-launch-teachai-to-guide-integration-of-artificial-intelligence-in-education.md",
-      "title": "Code.org helping launch TeachAI to guide integration of artificial intelligence in education",
-      "excerpt": "Seattle-based computer science education nonprofit Code.org is helping to launch TeachAI, a new effort aimed at guiding governments and educators on teaching with and about artificial intelligence. The initiative,",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2023/code-org-helping-launch-teachai-to-guide-integration-of-artificial-intelligence-in-education/",
-      "originalUrl": "https://www.geekwire.com/2023/code-org-helping-launch-teachai-to-guide-integration-of-artificial-intelligence-in-education/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-02T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
       ]
     }
   ],

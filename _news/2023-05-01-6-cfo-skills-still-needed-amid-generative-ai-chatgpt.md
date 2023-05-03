@@ -137,21 +137,19 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How to use ChatPDF: The AI chatbot that can tell you everything about your PDF"
-    excerpt: "Using ChatPDF to sum up a file and answer any questions about your PDF is free. However, if you'd like to exceed the free plan's limit of three uploads with a maximum of 120 pages a day, you can upgrade to a plus plan for $5 per month."
-    publishedDateTime: 2023-04-28T09:07:00Z
-    webUrl: "https://www.zdnet.com/article/how-to-use-chatpdf-the-ai-chatbot-that-can-tell-you-everything-about-your-pdf/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/how-to-use-chatpdf-the-ai-chatbot-that-can-tell-you-everything-about-your-pdf/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-use-chatpdf-the-ai-chatbot-that-can-tell-you-everything-about-your-pdf/"
+  - title: "Inflection AI, Startup From Ex-DeepMind Leaders, Launches Pi — A Chattier Chatbot"
+    excerpt: "Mustafa Suleyman, CEO of the year-old startup that’s already raised $225 million and claims to run one of the world’s largest language models, sees his dialog-based chatbot as a key step toward a true AI-based personal assistant."
+    publishedDateTime: 2023-05-02T19:00:00Z
+    webUrl: "https://www.forbes.com/sites/alexkonrad/2023/05/02/inflection-ai-ex-deepmind-launches-pi-chatbot/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 83
+      name: Forbes
+      domain: forbes.com
+    quality: 79
     images:
-      - url: "https://www.zdnet.com/a/img/resize/eda38944d4f763de71c65c782194765d1e8d4d35/2023/04/27/86d20dd3-1606-46b4-ac54-42d40c36ee8d/gettyimages-1308477625.jpg?auto=webp&width=740"
-        width: 740
-        height: 554
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64514e67237fdc5016762baf/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 798
         isCached: true
   - title: "ChatGPT and Generative AI in Financial Services: Reality, Hype, What's Next, and How to Prepare"
     excerpt: "Payments, banking, and insurance players are eager to understand generative AI's potential and put it to work."
@@ -447,6 +445,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI start-up Inflection launches ChatGPT-like chatbot named Pi"
+    excerpt: "Inflection’s chatbot, named Pi, uses generative AI technology to interact with users through dialogues. Read more at straitstimes.com."
+    publishedDateTime: 2023-05-03T03:08:00Z
+    webUrl: "https://www.straitstimes.com/world/united-states/hoffman-and-suleymans-ai-start-up-inflection-launches-chatgpt-like-chatbot"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 37
+    images:
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/05/03/2023-05-02T191849Z736819654RC2IQ0AB69LURTRMADP3INFLECTION-AI-CHATBOT_0.JPG?VersionId=.LSgTrLBRI2NkTQQKsH4qOVDeJrRlmwZ"
+        width: 860
+        height: 573
+        isCached: true
   - title: "I used ChatGPT to write the same routine in these ten obscure programming languages"
     excerpt: "Can ChatGPT program in a language from the 1950s or in one of the languages that wrote its own code? We took a walk down memory lane to find out."
     publishedDateTime: 2023-04-28T13:15:00Z
@@ -456,15 +468,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 28
-  - title: "EU closes in on AI Act with last-minute ChatGPT-related adjustments"
-    excerpt: "Members of the European Parliament have reached an agreement on the AI Act with a few last-minute adjustments and go to committee voting in two weeks."
-    publishedDateTime: 2023-04-28T09:49:00Z
-    webUrl: "https://www.computerworld.com/article/3695009/eu-closes-in-on-ai-act-with-last-minute-chatgpt-related-adjustments.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 17
   - title: "AI Impact Gets Real and Fast: IBM Pauses Hiring, Chegg Plunges on ChatGPT Challenge"
     excerpt: "Artificial intelligence is here and growing fast, putting jobs at risk and posing a complicated challenge for executives and policymakers."
     publishedDateTime: 2023-05-02T12:56:00Z

@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-04-21-tomahawk-robotics-awarded-flexcsr-flexible-cyber-secure-radio-production-contract-from-the-united-states-navy.md",
+      "title": "Tomahawk Robotics Awarded FlexCSR (Flexible Cyber Secure Radio) Production Contract from the United States Navy",
+      "excerpt": "Tomahawk Robotics, the leading innovator of robotic common control solutions, was awarded a $55.0M full-rate production contract for the Flexible Cyber Secure Radio (FlexCSR) program by the United States Navy.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/tomahawk-robotics-awarded-flexcsr-flexible-cyber-secure-radio-production-contract-from-the-united-states-navy-1032250123",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/tomahawk-robotics-awarded-flexcsr-flexible-cyber-secure-radio-production-contract-from-the-united-states-navy-1032250123",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2060244/Tomahawk_Robotics_FlexCSR.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-21T08:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-21-7-mind-bending-agi-movies-to-binge-watch-this-weekend.md",
       "title": "7 Mind-bending AGI Movies to Binge-watch This Weekend",
       "excerpt": "Movies on AI may depict an unimaginable future, but as viewers, we can enjoy them for the “science” element of it",
@@ -1308,49 +1360,6 @@
       "provider": {
         "name": "MD&M East",
         "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-13-sophisticated-ai-robot-speaks-several-languages-in-disturbing-footage.md",
-      "title": "Sophisticated AI robot speaks several languages in disturbing footage",
-      "excerpt": "Disturbing footage shows a highly-advanced AI robot speaking several languages. Ameca is a robot developed by UK startup Engineered Arts, who describe the robot as the “world’s most advanced ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/sophisticated-ai-robot-speaks-several-054650924.html",
-      "originalUrl": "https://www.aol.com/sophisticated-ai-robot-speaks-several-054650924.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.zenfs.com/en/aol_the_independent_uk_548/b54fd902279682f3aebe46b948550b8f",
-          "width": 1200,
-          "height": 677,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-13T07:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -47,6 +47,20 @@ related:
         width: 1185
         height: 790
         isCached: true
+  - title: "Report: Automated Apartheid: how facial recognition fragments, segregates and controls Palestinians in the OPT"
+    excerpt: "The Israeli authorities are using an experimental facial recognition system known as Red Wolf to track Palestinians and automate harsh restrictions on their freedom of movement."
+    publishedDateTime: 2023-05-03T03:55:00Z
+    webUrl: "https://www.amnesty.org.au/report-automated-apartheid/"
+    type: article
+    provider:
+      name: Amnesty International Australia
+      domain: amnesty.org.au
+    quality: 19
+    images:
+      - url: "https://www.amnesty.org.au/wp-content/uploads/2022/02/281545-scaled.jpg"
+        width: 2560
+        height: 1706
+        isCached: true
   - title: "Israel/OPT: Israeli authorities are using facial recognition technology to entrench apartheid"
     excerpt: "The Israeli authorities are using facial recognition technology to track Palestinians and restrict their freedom of movement, Amnesty International said today."
     publishedDateTime: 2023-05-02T01:31:00Z

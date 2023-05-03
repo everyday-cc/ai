@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-databricks-joins-edx-partner-netwo
 webUrl: "https://www.tmcnet.com/usubmit/-databricks-joins-edx-partner-network-with-launch-new-/2023/05/01/9804789.htm"
 type: article
 quality: 10
-heat: -1
+heat: 10
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 400
     height: 209
     isCached: true
-
-related:
-  - title: "Databricks Joins edX with Launch of New Program in Large Language Models"
-    excerpt: "LANHAM, Md. and SAN FRANCISCO, May 1, 2023 -- edX, a leading global online learning platform from 2U, Inc., today announced a new partnership with global"
-    publishedDateTime: 2023-05-01T15:41:00Z
-    webUrl: "https://www.datanami.com/this-just-in/databricks-joins-edx-with-launch-of-new-program-in-large-language-models/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 23
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-North-America23.png"
-        width: 1664
-        height: 674
-        isCached: true
 
 secured: "hH/JP6ZuY+Xrltie+YqLwpiiC5L4ronsqNzNzOQxuBmGz+UEkK/jVti0anShvtwt88dAt4y92YTKvrgt6WXrWmNNjAhbG2MFDGDcdvuYFfUltODzSdtaUARGkmYa47QsYLuvwZgrqQOlQiKs4407idnjiygYBkggWhVZcePfodZltgLLtKmhCMS8wSdqwoBZH4C1hMG9ira2uNfOmx3l93SFalqqnOng5fIzLD1kKnvFBGUrbzBcozM6xPiXcRbrtTIsY5tJCmpqfg1x38zXNGsMYC4CA/ikkPo6v+PxeGzT9jSKaqAp2nVkHdSYSNJnU9u6UkICzMY44fsFYRRT8ipKLWYLcDX86giNkyQuF/U=;bNiEhzddIjYP9e6cgrd2/A=="
 ---

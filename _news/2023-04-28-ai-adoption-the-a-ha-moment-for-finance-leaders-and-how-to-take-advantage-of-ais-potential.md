@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/28/ai-adopt
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/28/ai-adoption-the-a-ha-moment-for-finance-leaders-and-how-to-take-advantage-of-ais-potential/"
 type: article
 quality: 52
-heat: -1
+heat: 62
 published: false
 
 provider:
@@ -23,21 +23,19 @@ topics:
   - AI in Finance
 
 related:
-  - title: "AI Adoption, Versatility And How Companies Can Confront Skill Gaps"
-    excerpt: "Data is the lifeblood of businesses today. Both data science and data analysis are essential tools for understanding the world around us. Data helps organizations make better decisions, understand customer’s needs,"
-    publishedDateTime: 2023-04-28T10:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/28/ai-adoption-versatility-and-how-can-companies-confront-skill-gaps/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/28/ai-adoption-versatility-and-how-can-companies-confront-skill-gaps/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/28/ai-adoption-versatility-and-how-can-companies-confront-skill-gaps/amp/"
+  - title: "AI Adoption Slow For Design Tools"
+    excerpt: "While ML adoption is robust, full AI is slow to catch fire. But that could change in the future. A lot of excitement, and a fair amount of hype, surrounds what artificial intelligence (AI) can do for the EDA industry."
+    publishedDateTime: 2023-05-01T07:08:00Z
+    webUrl: "https://semiengineering.com/slow-ai-adoption-within-eda/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Semiconductor Engineering
+      domain: semiengineering.com
+    quality: 39
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/644a7801230d12e6fdbfa396/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://semiengineering.com/wp-content/uploads/Fig01_ML_func_verify_survey_SiemensEDA.png?fit=936%2C466&ssl=1"
+        width: 936
+        height: 466
         isCached: true
 
 secured: "JorxLJ8cp6gwNlwvp/FxE7jEnF73lP1SNi2COGoORDupR37gXMLezt/r+bBAQ9nxsYjlueFmVJ4fBC+Zs3esoZsNRcBC8gvOVtFN9x9pCwIH7swPJvC+m8H7K8zD6f3sdCPW4XIAP6SaSRfya6vkM0r/xsXR7hYiDqHXm1W0FoSgNXrwvxlv676LDn/SEhI6gwTe4DzrJfljN+OCumvuoIVWp4VyL14wCFlEHF5+v2TP5c5uCDUZm5zHVSdqu6jgwiiuiQzssHUT4to0o4ZIclGQpd9qKBk0nkvRY3Vhsb9NB8itI7kWoLH0QStjdUbLlVqSAA7WleYJMsiHpe2lsvYOgNsdZ7N8uSQvlDUtqpOnngVWqQAnDl3E9vHfyeq4Q6hNZdRSUevctrRBhEFrGh0ErcINAa3gkzIy6M2Fcq+lDyPQFMGQ7ufBlk6CBUo3iNEPJKgKdQBmmS+0BJtk0yNp9XHUdXfE9RJ3bioaYdrr4IMzmUv21Ph8H9YqT5YJGeT3dduGNndUIx1ornBmFg==;tyi33QpQbETX9Pmpjs9Rog=="

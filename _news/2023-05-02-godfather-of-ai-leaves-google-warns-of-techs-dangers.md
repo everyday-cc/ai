@@ -1,28 +1,29 @@
 ---
 category: news
-title: "'Godfather of AI' leaves Google, warns of tech's dangers"
-excerpt: "Geoffrey Hinton, the man widely considered as the “godfather” of artificial intelligence, has left Google — with a message sharing his concerns about potential dangers stemming from the same technolog"
-publishedDateTime: 2023-05-02T14:49:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/godfather-ai-leaves-google-warns-techs-dangers-99012191"
-webUrl: "https://abcnews.go.com/Business/wireStory/godfather-ai-leaves-google-warns-techs-dangers-99012191"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/godfather-ai-leaves-google-warns-techs-dangers-99012191"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/godfather-ai-leaves-google-warns-techs-dangers-99012191"
+title: "‘Godfather of AI’ leaves Google, warns of tech’s dangers"
+excerpt: "Sounding alarms about artificial intelligence has become a popular pastime in the ChatGPT era, taken up by high-profile figures as varied as industrialist Elon Musk, leftist"
+publishedDateTime: 2023-05-02T15:04:00Z
+originalUrl: "https://www.wjtv.com/news/national/godfather-of-ai-leaves-google-warns-of-techs-dangers/"
+webUrl: "https://www.wjtv.com/news/national/godfather-of-ai-leaves-google-warns-of-techs-dangers/"
+ampWebUrl: "https://www.wjtv.com/news/national/godfather-of-ai-leaves-google-warns-of-techs-dangers/amp/"
+cdnAmpWebUrl: "https://www-wjtv-com.cdn.ampproject.org/c/s/www.wjtv.com/news/national/godfather-of-ai-leaves-google-warns-of-techs-dangers/amp/"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: WJTV
+  domain: wjtv.com
 
 topics:
+  - Machine Learning
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/Business/wirestory_fa98c6a6fddab1d7c27560f6fcbad0ad_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.wjtv.com/wp-content/uploads/sites/72/2023/05/645150babbfa94.91067802.jpeg?w=1280"
+    width: 1280
+    height: 851
     isCached: true
 
 related:
@@ -533,6 +534,6 @@ related:
       domain: euronews.com
     quality: 10
 
-secured: "TtIrZ/oPzWusWfH3rwg4dSz2VUzrVNeboavfgKCwr5Lkav7fnpcppDOVdQ7iUKlnAaJzbAz6bbixWcuTDWvlfWjhOzdue2KDnr0tIuR4DsOFb5bsvp4HkQ5U5nQl+PPCvBVOTmEltB9MMXSJA7IZ5pYeekOev9YfMhjpDLH8dF4moyJhIVJKAJKYG/GyIyztZDdlOfISSyfW6tA56IZB3tzbpuMJRp24pW9mmsfm4NWZPA00MffrlgDeGFViSnoaIZ3Ub6yoKocnl2O/gYfGoMVBU4zcXPgwOgAdl4hgFeDyZAuRCDZPkL+bErRLCjlhKtOgMhmN1no+VTQdHAAO5m2Gk3lbeHEHhSG8d/nwVak=;gUlDwipsjtcGR/SELz+0NA=="
+secured: "Ied8OuCZ6y3TARQp3oEGDJfGpEqcQ0qGVw0aUdRu5OTp5ppuKrpcOfNJvq/194BgbSyyKKfBClyKPqRhmO8qYgXpK+isEmjCFKHbZkcrNytekQLajVUkab0Ft2kknCoXNo7UtXU/mSuabb/P+gcAc3WpeiNCJNBdb5Ufj6ttL9GihJrUMr/+2kMcWLUJciaeH0KkLqH2wR4DUzowmIAMYwQQ2Ok+NPrT1SL/EkWENqFifMkFV0/cRy3i6QVheUvRs80UdHqqB61KFbFSS8lu+kthfTZQylbE81hUpqYvnnrhrC2YjzNdO+z/1U+moy/VmLQ8LGT3cWe7tT4uDGi/vVnM4TFvbvVtisf3DjXgkDA=;4OGc9/D3o4Dmc/dKLTbQPw=="
 ---
 

@@ -25,31 +25,102 @@ images:
     isCached: true
 
 related:
-  - title: "Why Australia must prepare for the future of artificial intelligence"
-    excerpt: "For your Average Joe, the rapid rise of artificial intelligence in 2023 has been absolutely stunning — but also downright scary."
-    publishedDateTime: 2023-04-29T04:23:00Z
-    webUrl: "https://www.news.com.au/technology/innovation/military/why-australia-must-prepare-for-the-future-of-artificial-intelligence/news-story/b1da1eeff4107d7a240b3e6eb2b4f808"
-    ampWebUrl: "https://www.news.com.au/technology/innovation/military/why-australia-must-prepare-for-the-future-of-artificial-intelligence/news-story/b1da1eeff4107d7a240b3e6eb2b4f808?amp"
-    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/technology/innovation/military/why-australia-must-prepare-for-the-future-of-artificial-intelligence/news-story/b1da1eeff4107d7a240b3e6eb2b4f808?amp"
+  - title: "Here's How the Cloud is Revolutionizing Health Tech and FinTech"
+    excerpt: "Overcoming the model of office and lab work with cloud computing Cloud computing systems have allowed enterprises, schools, and government organizations to overcome pandemic-induced challenges and meaningfully accelerate innovation and agility toward the market."
+    publishedDateTime: 2023-04-28T22:39:00Z
+    webUrl: "https://www.entrepreneur.com/science-technology/cloud-revolutionizes-healthtech-fintech/450667"
     type: article
     provider:
-      name: Couriermail
-      domain: news.com.au
-    quality: 39
-  - title: "How to prepare for the impact of AI everywhere"
-    excerpt: "Generative AI is ushering in a new wave of computing in business – here’s how we can manage its impact while driving innovation"
-    publishedDateTime: 2023-05-02T08:42:00Z
-    webUrl: "https://www.information-age.com/how-to-prepare-for-impact-of-ai-everywhere-123503612/"
-    type: article
-    provider:
-      name: Information Age
-      domain: information-age.com
-    quality: 39
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 54
     images:
-      - url: "https://informationage-production.s3.amazonaws.com/uploads/2023/05/how-to-prepare-for-impact-of-ai-everywhere-scaled.jpg"
-        width: 2560
-        height: 1440
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1682721803-GettyImages-1365582863.jpg"
+        width: 2000
+        height: 1333
         isCached: true
+  - title: "How One Fintech Startup Wants to Combat Money Laundering"
+    excerpt: "Fintech startup Kyros introduces a complete cloud-based solution for combatting money laundering and financial crimes with AI analysis and third-party sources, simplifying the process of onboarding an"
+    publishedDateTime: 2023-05-02T19:49:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/05/ab32171324/how-one-fintech-startup-wants-to-combat-money-laundering"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32171324"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32171324"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "Jason Simon, Fintech Visionary, Unveils How Cutting-Edge Tech Will Transform Global Trade & Supply Chains Forever!"
+    excerpt: "The global trade and supply chain industry has undergone significant transformations in recent years, with technological advancements playing a critical role. In this ever-evolving landscape, Jason Simon,"
+    publishedDateTime: 2023-04-29T19:41:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/04/w32100887/jason-simon-fintech-visionary-unveils-how-cutting-edge-tech-will-transform-global-trade-supply-cha"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32100887"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32100887"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 37
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "FDIC order against Cross River Bank is a warning on fintech alliances"
+    excerpt: "The 34-page document demands that the bank get regulatory nonobjection for every new fintech partnership and requires the bank to step up its monitoring of partners' compliance with banking laws."
+    publishedDateTime: 2023-05-01T18:32:00Z
+    webUrl: "https://www.americanbanker.com/news/fdic-consent-order-against-cross-river-bank-a-fintech-partnership-warning"
+    type: article
+    provider:
+      name: American Banker
+      domain: americanbanker.com
+    quality: 34
+  - title: "Optimism For US Tech and Fintech Industries Despite Mass Layoffs"
+    excerpt: "The adoption of cutting-edge AI solutions, like ChatGPT, demonstrates the trend towards increased efficiency and cost savings in the Fintech and Tech industries. By implementing AI-powered customer service, companies can reduce labor costs and streamline  their operations, leading to greater profitability."
+    publishedDateTime: 2023-05-01T16:04:00Z
+    webUrl: "https://www.finextra.com/blogposting/24133/optimism-for-us-tech-and-fintech-industries-despite-mass-layoffs"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/finextra-images/visible_pictures/9c74d555-fe4c-4a62-beb9-6c087ccf3866.png"
+        width: 500
+        height: 300
+        isCached: true
+  - title: "AI and Customer Experience in Fintech: Personalizing Financial Services"
+    excerpt: "With the help of AI, Fintech companies are personalizing financial services to provide a more customer-centric experience. In this blog post, we will dig into how AI reshapes customer experience in the financial industry. Chatbots and Virtual Assistants ..."
+    publishedDateTime: 2023-04-29T17:17:00Z
+    webUrl: "https://www.finextra.com/blogposting/24129/ai-and-customer-experience-in-fintech-personalizing-financial-services"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 19
+  - title: "9 ways AI is already shaping the future of healthtech"
+    excerpt: "Amid an increasing shift from reactive care to proactive care, here are some of the latest AI developments in healthtech."
+    publishedDateTime: 2023-05-02T15:00:00Z
+    webUrl: "https://www.fastcompany.com/90890400/9-ways-ai-is-already-shaping-the-future-of-healthtech"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 17
+  - title: "Fintech capacity-building needed for MSMEs"
+    excerpt: "THERE is a need to build the capacity of small and medium enterprises (MSMEs) on financial technology (fintech) to ramp up the digital economy in the Philippines, the top official of the Philippine Economic Zone Authority (PEZA) said."
+    publishedDateTime: 2023-04-30T13:22:00Z
+    webUrl: "https://www.manilatimes.net/2023/05/01/business/top-business/fintech-capacity-building-needed-for-msmes/1889378"
+    type: article
+    provider:
+      name: manilatimes
+      domain: manilatimes.net
+    quality: 4
 
 secured: "avNhS+q8aG88aeMRVaTOThBbUTZT9jydtGuiPt8NR+IdqRliELL4N1Hey+2numG9xWvzbk9o0td5c5BEJXJEUckBqQkStTACXTe9WdMEQrLuA946dRx4Of6TfWsOeidIcCJFZg3JV52mRyYCd3deHjaNWBCCHbwBx7/lT5EPjjjqx4RY4D4f9xESEjAV33D+Z+gJguflop+rjqoouY7SKJ8xbiE9M/zvAZ5B+MegAAIswPIrBRuWfUHW5v4jckLE3U2xiaKPNmS1jWKA7F8RrG6KhHnKUV9NYJz1YodHtadH1yleUwVhLI+hkK2LzVvID1dPhnQgAncX0nafeYz6KWZcg/9CjZEWZ690yMDhel/8SpmA/vp7kccf9E7wEHm35IW0nAhy3CYJwlEZOKwHvcKM74XAEfgsiVIc8jq1BmUTM5ImEn9oPzEY2eI05IZUyPp4Ho0TCj5yTEvtxIOMXlhtLl9x8xrw5dxhtCyestzNMuY7mYsCqTvFP22bP5YwF1MIKdMDblhVrHYObDL3dQ==;jrGdClZopZpGlKu5rztXew=="
 ---

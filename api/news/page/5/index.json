@@ -2,6 +2,111 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-04-28-amazon-stock-down-5-as-high-prices-slow-aws-growth.md",
+      "title": "Amazon Stock Down 5% As High Prices Slow AWS Growth",
+      "excerpt": "Amazon stock fell after CFO, Brian Olsavsky, told investors that the AWS growth rate in April is tracking five percentage points below its first quarter growth rate. Were that slowdown to continue, AWS could grow at 10.8% in the second quarter — well below the 13% Wall Street projects for the second quarter, the Journal wrote.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/petercohan/2023/04/28/amazon-stock-down-2-as-high-prices-slow-aws-growth/",
+      "originalUrl": "https://www.forbes.com/sites/petercohan/2023/04/28/amazon-stock-down-2-as-high-prices-slow-aws-growth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/644aade0f54d022866bfa396/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/petercohan/2023/04/28/amazon-stock-down-2-as-high-prices-slow-aws-growth/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2023/04/28/amazon-stock-down-2-as-high-prices-slow-aws-growth/amp/",
+      "publishedDateTime": "2023-04-28T06:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-28-ais-earns-seventh-microsoft-advanced-specialization-in-analytics-on-azure-securing-access-to-end-customer-funding-and-resources.md",
+      "title": "AIS Earns Seventh Microsoft Advanced Specialization in Analytics on Azure, Securing Access to End-Customer Funding and Resources",
+      "excerpt": "AIS (Applied Information Sciences), experts in helping organizations modernize and innovate with Microsoft Cloud,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ais-earns-seventh-microsoft-advanced-specialization-in-analytics-on-azure-securing-access-to-end-customer-funding-and-resources-2023-04-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/ais-earns-seventh-microsoft-advanced-specialization-in-analytics-on-azure-securing-access-to-end-customer-funding-and-resources-2023-04-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-28T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-28-french-privacy-chief-warns-against-using-facial-recognition-for-2024-olympics.md",
       "title": "French privacy chief warns against using facial recognition for 2024 Olympics",
       "excerpt": "PARIS — The French data protection authority's president Marie-Laure Denis warned Tuesday against using facial recognition as part of the 2024 Paris Summer Olympics security toolkit. \"The members of the CNIL's college call on parliamentarians not to ...",
@@ -53,7 +158,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-operations-mlops-market-research-analysis-2023-2031-2023-04-28",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -1077,100 +1182,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-navy-dod-supercomputing-resource-center-adds-nautilus-penguin-hpc-system.md",
-      "title": "Navy DoD Supercomputing Resource Center Adds ‘Nautilus’ Penguin HPC System",
-      "excerpt": "The Nautilus HPC system configuration includes 1,352 compute nodes with up to 128 AMD EPYC Milan compute cores per node, 256 GB of memory per node, 16 NVIDIA A40 visualization nodes, 32 NVIDIA A100 Quad GPU AI/ML nodes, 26 petabytes of DDN storage ...",
-      "sourceUrl": null,
-      "webUrl": "https://insidehpc.com/2023/04/navy-dod-supercomputing-resource-center-adds-nautilus-penguin-hpc-system/",
-      "originalUrl": "https://insidehpc.com/2023/04/navy-dod-supercomputing-resource-center-adds-nautilus-penguin-hpc-system/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insidehpc.com/wp-content/uploads/2022/04/Cover-Image-The-consequences-of-congestion.jpg",
-          "width": 810,
-          "height": 1048,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T12:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insideHPC",
-        "domain": "insidehpc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-apple-is-working-on-an-ai-health-coaching-service-according-to-reports.md",
-      "title": "Apple is working on an AI health coaching service, according to reports",
-      "excerpt": "Need help staying on top of your health and wellness goals? Apple is working on some projects that might help.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/apple-is-working-on-an-ai-health-coaching-service-according-to-reports/",
-      "originalUrl": "https://www.zdnet.com/article/apple-is-working-on-an-ai-health-coaching-service-according-to-reports/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/aafc79d1ed5b4855d68660b317f0131688ea004f/2022/09/08/675c038f-0a14-43e6-ab88-3cc88698813c/apple-watch-series-8.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/apple-is-working-on-an-ai-health-coaching-service-according-to-reports/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/apple-is-working-on-an-ai-health-coaching-service-according-to-reports/",
-      "publishedDateTime": "2023-04-27T11:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

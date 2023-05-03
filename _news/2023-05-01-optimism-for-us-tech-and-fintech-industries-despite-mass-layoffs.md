@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Built-world AI start-ups lead investments overtake FinTech and marketing"
-    excerpt: "Generative AI models may attract the most attention in realms like marketing automation and financial technology. But a recent analysis by A/O PropTech reports that investments in built-world AI start-ups are growing faster both in terms of the volume and value of investments."
-    publishedDateTime: 2023-04-28T10:09:00Z
-    webUrl: "https://diginomica.com/built-world-ai-start-ups-lead-investments-overtake-fintech-and-marketing"
-    ampWebUrl: "https://diginomica.com/built-world-ai-start-ups-lead-investments-overtake-fintech-and-marketing?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/built-world-ai-start-ups-lead-investments-overtake-fintech-and-marketing?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 75
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2022-11/Shutterstock_1068480284.png"
-        width: 740
-        height: 450
-        isCached: true
   - title: "Here's How the Cloud is Revolutionizing Health Tech and FinTech"
     excerpt: "Overcoming the model of office and lab work with cloud computing Cloud computing systems have allowed enterprises, schools, and government organizations to overcome pandemic-induced challenges and meaningfully accelerate innovation and agility toward the market."
     publishedDateTime: 2023-04-28T22:39:00Z
@@ -71,15 +55,45 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Rising AI and machine learning investments powering senior care advancements"
-    excerpt: "It’s perhaps no surprise that investment in AI and ML in healthcare rose over the last two years, according to new research from commercial real estate and investment company Jones Lang LaSalle."
-    publishedDateTime: 2023-05-01T04:17:00Z
-    webUrl: "https://www.mcknightsseniorliving.com/home/news/tech-daily-news/rising-ai-and-machine-learning-investments-powering-senior-care-advancements/"
+  - title: "Jason Simon, Fintech Visionary, Unveils How Cutting-Edge Tech Will Transform Global Trade & Supply Chains Forever!"
+    excerpt: "The global trade and supply chain industry has undergone significant transformations in recent years, with technological advancements playing a critical role. In this ever-evolving landscape, Jason Simon,"
+    publishedDateTime: 2023-04-29T19:41:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/04/w32100887/jason-simon-fintech-visionary-unveils-how-cutting-edge-tech-will-transform-global-trade-supply-cha"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32100887"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32100887"
     type: article
     provider:
-      name: McKnight's Senior Living
-      domain: mcknightsseniorliving.com
-    quality: 33
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 37
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "FDIC order against Cross River Bank is a warning on fintech alliances"
+    excerpt: "The 34-page document demands that the bank get regulatory nonobjection for every new fintech partnership and requires the bank to step up its monitoring of partners' compliance with banking laws."
+    publishedDateTime: 2023-05-01T18:32:00Z
+    webUrl: "https://www.americanbanker.com/news/fdic-consent-order-against-cross-river-bank-a-fintech-partnership-warning"
+    type: article
+    provider:
+      name: American Banker
+      domain: americanbanker.com
+    quality: 34
+  - title: "These 8 Australian fintech Companies Will Hit the Stage at Demo Day This Month"
+    excerpt: "Over the last three years, we’ve introduced you to over 30 Australian fintech startups with the help of the Australian Trade and Investment Commission (Austrade) in New York. Au"
+    publishedDateTime: 2023-05-02T14:20:00Z
+    webUrl: "https://www.alleywatch.com/2023/05/australian-fintech-companies-austrade/"
+    type: article
+    provider:
+      name: alleywatch.com
+      domain: alleywatch.com
+    quality: 20
+    images:
+      - url: "https://alleywatch.com/wp-content/uploads/2023/05/amaka.jpg"
+        width: 1000
+        height: 367
+        isCached: true
   - title: "AI and Customer Experience in Fintech: Personalizing Financial Services"
     excerpt: "With the help of AI, Fintech companies are personalizing financial services to provide a more customer-centric experience. In this blog post, we will dig into how AI reshapes customer experience in the financial industry. Chatbots and Virtual Assistants ..."
     publishedDateTime: 2023-04-29T17:17:00Z
@@ -89,6 +103,15 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 19
+  - title: "9 ways AI is already shaping the future of healthtech"
+    excerpt: "Amid an increasing shift from reactive care to proactive care, here are some of the latest AI developments in healthtech."
+    publishedDateTime: 2023-05-02T15:00:00Z
+    webUrl: "https://www.fastcompany.com/90890400/9-ways-ai-is-already-shaping-the-future-of-healthtech"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 17
   - title: "Fintech capacity-building needed for MSMEs"
     excerpt: "THERE is a need to build the capacity of small and medium enterprises (MSMEs) on financial technology (fintech) to ramp up the digital economy in the Philippines, the top official of the Philippine Economic Zone Authority (PEZA) said."
     publishedDateTime: 2023-04-30T13:22:00Z
@@ -98,15 +121,6 @@ related:
       name: manilatimes
       domain: manilatimes.net
     quality: 4
-  - title: "Fintech BUNKER Selects InvestCloud to Launch Digital App, Providing Access to US Investment Markets for HNWIs in LatAm"
-    excerpt: "InvestCloud selected by BUNKER, a fintech seeking to democratize access to the US markets for Latin Americans, to launch investment platform."
-    publishedDateTime: 2023-04-28T19:30:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/04/206288-fintech-bunker-selects-investcloud-to-launch-digital-app-providing-access-to-us-investment-markets-for-hnwis-in-latam/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 0
 
 secured: "nVdhy4pIzhwoN9KrBagGCdGFirBmFFKf0jrJkt8uoFKeDJ+yyk2IoQOjgTFyYFodsNIRaDQsyN/IWMtMCPYf2J/y+572ye/NuYBxOnE/cgwbRKUUqBA8PTKiD71JBFQgrtANvZJK/dYIDmULa5hIn17mGPv8lToZHL0Lv0q0YooydNdCKTDjI99ntX8hoB7ocCEdPji+QCJDIcTc3QjFOyV+ek0oSj7saF15J9mwH6ktgHx8aT0tlDEi6pgPnEVYvq0oq0HI0IrzHV0GB0exRMNVbN5sl1ytVfXqTJB4ewzACbqoQqAdn1tOmtH4l0dkOwYsveNAMicV0gXvOQHXar4NB9EOEg+NylMx8Jsimepp9r7D1aqI4GCshOqhQ3tg3CZjA7JVDPy0jx33wcnPNectL+RpKHjGyJvFTJEo74szDAPM1o6LYWMYZdiyopYKtCe3tpJNF/G4IKy1Hw8sr9OYT+38bHwXeZnGzeh7LMB8TKpeVfCNdWTmBSCiIlxu9T60y1qoVKMfK8f/CgAjVA==;1wD+SMW0cgSykyWQHnL63w=="
 ---

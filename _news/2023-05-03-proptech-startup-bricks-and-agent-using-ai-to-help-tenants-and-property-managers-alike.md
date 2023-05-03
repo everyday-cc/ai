@@ -7,7 +7,7 @@ originalUrl: "https://itwire.com/business-it-news/data/proptech-startup-bricks-a
 webUrl: "https://itwire.com/business-it-news/data/proptech-startup-bricks-and-agent-using-ai-to-help-tenants-and-property-managers-alike.html"
 type: article
 quality: 29
-heat: -1
+heat: 29
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     height: 260
     isCached: true
 
-related:
-  - title: "Big apartment landlords lean in to AI and proptechs as profit squeezes loom"
-    excerpt: "Rising interest rates have turned multifamily buildings from surefire income into an accounting problem. Proptechs are stepping up."
-    publishedDateTime: 2023-04-28T10:00:00Z
-    webUrl: "https://www.businessinsider.com/apartment-landlords-tap-money-saving-proptech-profit-squeeze-2023-4"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 65
-    images:
-      - url: "https://i.insider.com/644acb53edc7ea00183318cf?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-
-secured: "h/0X6ftxeUF8rFFyOx5Qm3Jnh+QN/s9VNHHD0RLvQTQhhJ5qVmehgNI4uV7Z4Q8iBgkG3Hs1QwfSRlTzydpxCmEMKbc+i7esdIz7QdsL/9j3YMCA0/m8CAG4emb7pvDzyuvm7nDtdlbJs4nsGYYwHU0B/YOeFbgeGIe+QBXpl9TYNII+aoUQr7YytZZJ0i9B7uHbqRRAs/OoFBgybOxLaLDBqJJJCAChtp9hKYN6BY/nBUAxllsXeG37XhAQgmvY7YY600oRjXFAJQYlctdyE6XYNg2Ierv1wwf6iKI4HgZWN5unkkNf3zFh0/w2prczMWdWt9BWX+JVkW9QcDh19/poTaVCMZOVZUsh/A3xw0c=;9Gnd/eMY4njC1LB2sKYkBA=="
+secured: "rMg4znO2TCJUwC212HzmcDhESI+iODqO9z13Dwk5fmEgmPoxKNm4vjdC1783ygKGEpoUrgU/HQ0wn3aMnVsKny1S7gstlrH4ZvsNGATUO1c1aQ7cwTdIgSQaK6m0yb/w71di7HmJufj0M7/N+/uA2Z8sn/gOTLEt9+awfO26Fuda8asFw6wM9jrexoFMWdYp2I/M6hVZupmffr39dF2Yxqsrq51rBxdHrkAmUY5CR/6V9lpSXv7571vF5PeU2LiUEp9x/UM+y3Vv83M8wtk2HRvhZR5BUUoBecjQVQ9wdaBHNCWB6jPy3zyMnepmkQNNbdxMhIzTafqapgWEL9NN1q5UtGUdgff9WHcliCFJn70vlwwSEsN4SnVUriyx9skYYwWQaqKtz420+4xj3tlE07N/p9aUla/sqx/ZDeMy0RvrPN8hm/NDKvQ9F7RB0tAHlyND2DAJs7i/6wFB+HCnSwoC+SuvvBfVSxRZ6cyQw0lIswCcL3r+G+TFEtVTsWc1Ac7467Ff9NKup8X9EDs+nw==;P0t9xNeNHCK1ygMBOd53bg=="
 ---
 

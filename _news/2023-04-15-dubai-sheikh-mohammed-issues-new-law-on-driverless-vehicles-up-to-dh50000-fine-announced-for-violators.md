@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Dubai: Sheikh Mohammed issues new law on driverless vehicles; up to Dh50,000 fine announced for violators"
+title: "Dubai: Sheikh Mohammed Issues New Law On Driverless Vehicles Up To Dh50,000 Fine Announced For Violators"
 excerpt: "A new law in Dubai is set to regulate the operations of driverless vehicles in the ... environment that facilitates the use of artificial intelligence (AI) in transportation."
-publishedDateTime: 2023-04-14T18:52:00Z
-originalUrl: "https://www.khaleejtimes.com/uae/transport/dubai-sheikh-mohammed-issues-new-law-on-driverless-vehicles-up-to-dh50000-fine-announced-for-viol"
-webUrl: "https://www.khaleejtimes.com/uae/transport/dubai-sheikh-mohammed-issues-new-law-on-driverless-vehicles-up-to-dh50000-fine-announced-for-viol"
-ampWebUrl: "https://www.khaleejtimes.com/uae/transport/dubai-sheikh-mohammed-issues-new-law-on-driverless-vehicles-up-to-dh50000-fine-announced-for-viol?amp=1"
-cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/uae/transport/dubai-sheikh-mohammed-issues-new-law-on-driverless-vehicles-up-to-dh50000-fine-announced-for-viol?amp=1"
+publishedDateTime: 2023-04-14T18:51:00Z
+originalUrl: "https://menafn.com/1106015524/Dubai-Sheikh-Mohammed-Issues-New-Law-On-Driverless-Vehicles-Up-To-Dh50000-Fine-Announced-For-Violators"
+webUrl: "https://menafn.com/1106015524/Dubai-Sheikh-Mohammed-Issues-New-Law-On-Driverless-Vehicles-Up-To-Dh50000-Fine-Announced-For-Violators"
 type: article
 
 provider:
-  name: Khaleej Times
-  domain: khaleejtimes.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://image.khaleejtimes.com?uuid=9264af9f-5ce7-4ad8-b30e-b3d6029f3619&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.82873&width=1200&height=675&x=1.0E-5&y=0.16022"
-    width: 1200
-    height: 675
+  - url: "https://menafn.com/updates/pr/2023-04/14/KT_b2688image_story.jpg"
+    width: 600
+    height: 337
     isCached: true
 
-secured: "xDcvkk44FAnvMCMda3dcRgUQpxpETrStTIC4ht+QXxf0haD2G9oSgmNLh3Wh4an5q04Yc2XVIJ2LoiP2smIzFSYBJT4qpWbkwN1PiFV0ZR1GUrPomLa5JfI13yb7Clpz1KId4Zc6dS6ZUyxYRCOA8s6WV9nnyLzSnyqMtDZqe9QnQlQqBe49JlOIWOjvPPRmRFRdG/3rQecoBPjeMkjo/MKsyYVo122fvIycfk9ybWLsPA40u9IuvAgT4ZsZGJ7MVD2/lPHqhHawASXcbDMOY2JrD5PAe60snFXExvZXL6eCxXm2ywGoMN94dPjiBA2vMkIuNRO7eONaqCBmbVhVKAqtR86iZe3w6CxvWeteytM=;oi2iYfNIDNU7mMCZQEOjXg=="
+secured: "ahLbCEcKnJOV3FFSyNnQll8ucvK1ZdZLNhwcmNNsLCCSvivDWP+QnoBLDz6elRmChNlf0WOVr62Z+eJ7gp812goGz+zc3S2UswUH/yn6e+hkIg1eHkGJXtfpj0i9pZfYLS808/JqX2mWBkBuEBlLdwxUis6ARNGH4rOHlCuIez2y4Zgqzv0LS6HyiEyFMJ7xJvET2fxhm+yipkdKb8XQyiTJzQutRwS31AuEfjP00GEGRxvjUJxqO4INj9Sz1+F6ED72xH9jXNNL6NXcZipGmSoma0WLoomdiM3rj+1pBHfWmxOQjHxNhv3wMjnwed3TBYNTX9oex9WRZ+jxZcl7JZh2Oq9zYW3twCQS6izhv0M=;zrrNWdt7EFQ3capOsLhX+A=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/machine-learning-operati
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-operations-mlops-market-research-analysis-2023-2031-2023-04-28"
 type: article
 quality: 86
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -53,20 +53,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Content Moderation Solutions Market to reach USD 17.59 Bn by 2029, emerging at a CAGR of 10.25 percent and forecast (2022-2029)"
-    excerpt: "The global Content Moderation Solutions Market is expected to reach from USD 8.06 Bn to USD 17.59 Bn by 2029, at"
-    publishedDateTime: 2023-04-28T11:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/content-moderation-solutions-market-to-reach-usd-1759-bn-by-2029-emerging-at-a-cagr-of-1025-percent-and-forecast-2022-2029-2023-04-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 26
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

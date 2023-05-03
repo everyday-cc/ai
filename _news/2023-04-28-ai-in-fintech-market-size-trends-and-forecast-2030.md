@@ -57,15 +57,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Edge AI Chips Market Outlook by 2031"
-    excerpt: "The latest market research report on the Global \"Edge AI Chips Market\" is segmented by Regions, Country, Company and"
-    publishedDateTime: 2023-04-28T09:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/edge-ai-chips-market-outlook-by-2031-2023-04-28"
+  - title: "Artificial Intelligence (Chipsets) Market Growth by 2031"
+    excerpt: "Apr 27, 2023 (The Expresswire) -- The latest market research report on the Global \"Artificial Intelligence (Chipsets) Market\" is segmented by Regions, Country, Company and other Segments."
+    publishedDateTime: 2023-04-28T11:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-growth-by-2031-2023-04-27"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 84
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
