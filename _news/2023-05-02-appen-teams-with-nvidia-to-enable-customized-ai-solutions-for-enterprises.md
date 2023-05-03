@@ -24,6 +24,22 @@ images:
     height: 353
     isCached: true
 
+related:
+  - title: "‘AI transformation will be bigger than cloud transformation for enterprises’: Manuvir Das, NVIDIA"
+    excerpt: "It’s a busy time for NVIDIA’s VP of Enterprise Computing, Manuvir Das. After all, it isn’t just AI that’s at an inflection point, enterprise AI too is at crossroads. Das, who reports directly to company chief Jensen Huang,"
+    publishedDateTime: 2023-05-03T10:30:00Z
+    webUrl: "https://analyticsindiamag.com/ai-transformation-will-be-bigger-than-cloud-transformation-for-enterprises-manuvir-das-nvidia/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 26
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/05/profile-2.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+
 secured: "CAjshu9EyASbvOKRXSFg+SjcaUbJJLgFS51sUJXcRxzknijA6PWxn0u2LezaalTr5Vntbi2qbMuVaIYqISfKKkXWOs/nU5uS0GJP+N1RXz3O1BmSxQNkC+MDIp/JXECRFTHZGUaCy5/rqg7CLctta2AkDIxVw6BC1EQrXLTgyi077QcebX3DpOsmPj8BVNhVw9s9N8Ppn+PyalbaeIEhZ9DfZfYSTgDVkETk+n/zSAw8cRE1zUUqtqIQkM8VXBp9rTvDBbMbqZLhvKdoDGl4jCmiEWJLREPu5hRg00+zFclVE3SyaH5bQ/Ripx0r6hoslv55+6mmPoQ9Cap4756ADtzNGhSL+hVHVaL11T1KULFOu3qi37jgpUCZNXcE37e8OSKUi3jniAq7eQeFBpM5YgjKrHO53gibieGwXVUKpr2fKcwmI0MKn87ALnJIZdJzf8Zk30rCicC6pEYWboCjvuVhkLbK1gN5PgXoHick7QgQ3bEbB+WICrldVZzMc9pNH8Ofq+FjbmIq7yWUebJ6sg==;QZWKZBYN8vNixqwCXfHfnA=="
 ---
 

@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-03-these-robot-arms-were-designed-to-help-humans-interact-with-ai.md",
+      "title": "These robot arms were designed to help humans interact with AI",
+      "excerpt": "Jizai Arms is a system of supernumerary robotic limbs. Up to six of these arms can be worn and controlled by the user. The limbs allow the wearer to attach, detach, replace or edit the arms. This was designed to enable social interaction between wearers to support human beings acting with robots and AIs while maintaining a sense of self-awareness and widening the possibility of human actions.",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/video/robot-arms-jizai-bodies",
+      "originalUrl": "https://mashable.com/video/robot-arms-jizai-bodies",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/videos/04dRP8kLvImZOxp7RbvFFmD/hero-image.fill.size_1200x675.v1683028082.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-03T04:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-05-03-hollywood-screenwriters-dont-want-robots-taking-their-jobs-either.md",
       "title": "Hollywood screenwriters don’t want robots taking their jobs, either",
       "excerpt": "The thousands of WGA scribes who went on strike this week are concerned in part about the rise of AI — and how the major studios might tap the technology going forward.",
@@ -245,7 +288,7 @@
       "originalUrl": "https://arstechnica.com/science/2023/05/ai-plus-mri-yields-the-ability-to-recognize-what-the-mind-is-hearing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1307,58 +1350,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-22-artificial-intelligence-robotics-market-research-2023-2030.md",
-      "title": "Artificial Intelligence Robotics Market Research, 2023-2030",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Artificial Intelligence Robotics Marketsize, segment (mainly coveringMajorType (, Service Robots, Industrial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-research-2023-2030-2023-04-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-research-2023-2030-2023-04-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-21T22:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

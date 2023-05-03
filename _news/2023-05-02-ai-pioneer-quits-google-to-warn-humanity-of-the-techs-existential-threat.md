@@ -35,6 +35,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Artificial intelligence expert warns of impending danger, quits Google to raise awareness"
+    excerpt: "Hinton expressed concern that computers could become more intelligent than humans far sooner than he and his colleagues had anticipated..Geoffrey Hinton. Google. artificial intelligence. Geoffrey Hinton quits google."
+    publishedDateTime: 2023-05-03T10:40:00Z
+    webUrl: "https://www.onmanorama.com/news/business/2023/05/03/geoffrey-hinton-quits-google-artificial-intelligence.html"
+    type: article
+    provider:
+      name: onmanorama
+      domain: onmanorama.com
+    quality: 45
+    images:
+      - url: "https://img.onmanorama.com/content/dam/mm/en/news/business/images/2023/5/3/geoffrey-hinton.jpg"
+        width: 1248
+        height: 650
+        isCached: true
   - title: "Toronto's pioneer of artificial intelligence quits Google to openly discuss dangers of AI"
     excerpt: "A Toronto professor considered to be a pioneer in the field of artificial intelligence announced his departure from Google on Monday so that he could openly discuss the “dangers of AI.”"
     publishedDateTime: 2023-05-01T17:46:00Z

@@ -106,7 +106,7 @@
       "originalUrl": "https://phys.org/news/2023-05-lithography-free-photonic-chip-accuracy-artificial.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -372,6 +372,59 @@
         "Microsoft AI",
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-04-27-the-ai-revolution-how-companies-like-nvidia-and-tesla-are-leading-the-way.md",
+      "title": "The AI Revolution: How Companies like Nvidia and Tesla Are Leading the Way",
+      "excerpt": "But what about the competition? Alphabet recently claimed its AI chip was more powerful than Nvidia's A100 chips. However, that's not Nvidia's latest and greatest GPU. It would be fairer to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/04/27/the-ai-revolution-how-companies-like-nvidia-and-te/",
+      "originalUrl": "https://www.fool.com/investing/2023/04/27/the-ai-revolution-how-companies-like-nvidia-and-te/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/729397/tesla-model-3-driving-on-the-road.jpg",
+          "width": 4000,
+          "height": 2667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-27T05:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -1391,49 +1444,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-20-accelerating-chip-design-with-gpus-and-adding-ai-to-push-it-further.md",
-      "title": "Accelerating Chip Design With GPUs, And Adding AI To Push It Further",
-      "excerpt": "Two decades ago, all the chip makers, including Intel, had to buy Unix machines, usually massive ranks of Sparc/Solaris systems, to do electronic design",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2023/04/20/accelerating-chip-design-with-gpus-and-adding-ai-to-push-it-further/",
-      "originalUrl": "https://www.nextplatform.com/2023/04/20/accelerating-chip-design-with-gpus-and-adding-ai-to-push-it-further/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://www.nextplatform.com/wp-content/uploads/2023/04/asml-lithography-logo.jpg",
-          "width": 1105,
-          "height": 617,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2023/04/20/accelerating-chip-design-with-gpus-and-adding-ai-to-push-it-further/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/04/20/accelerating-chip-design-with-gpus-and-adding-ai-to-push-it-further/amp/",
-      "publishedDateTime": "2023-04-20T05:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

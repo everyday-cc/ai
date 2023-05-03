@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/cybersecurity-meets-ai-augmenting-and-acc
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/cybersecurity-meets-ai-augmenting-and-accelerating-humans/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -91,6 +91,20 @@ related:
       - url: "https://www.kcrw.com/culture/shows/life-examined/artificial-intelligence-impact-creativity-humanity-chatbots-mental-health/@@images/rectangular_image/page-header?v=1682729199.3"
         width: 1460
         height: 821
+        isCached: true
+  - title: "Cybersecurity Still Finding Its Place In New AI Era"
+    excerpt: "It is difficult nowadays to talk to inventors in any tech sector without AI coming up in the conversation — and that is certainly true in cybersecurity."
+    publishedDateTime: 2023-05-03T11:00:00Z
+    webUrl: "https://news.crunchbase.com/cybersecurity/artificial-intelligence-rsa-venture-startup/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 37
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/AI_Sector_Cybersecurity.jpg"
+        width: 900
+        height: 506
         isCached: true
   - title: "RSAC 2023: 10 Coolest Cybersecurity Startup Companies"
     excerpt: "HiddenLayer, Concentric AI and Mondoo were among the coolest cybersecurity startup companies at RSAC 2023."

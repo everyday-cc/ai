@@ -62,6 +62,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Where is India in the generative AI race?"
+    excerpt: "In the high-stakes race for supremacy in the field of generative AI, India's bustling startup ecosystem is facing an uphill battle."
+    publishedDateTime: 2023-05-03T09:26:00Z
+    webUrl: "https://techcrunch.com/2023/05/03/where-is-india-in-the-generative-ai-race/"
+    ampWebUrl: "https://techcrunch.com/2023/05/03/where-is-india-in-the-generative-ai-race/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/03/where-is-india-in-the-generative-ai-race/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1483825958.jpg?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "The best AI image generators available right now"
     excerpt: "AI image generators let you conjure up images straight from your imagination, but which one should you use? We list your options."
     publishedDateTime: 2023-04-30T21:31:00Z
@@ -91,20 +107,6 @@ related:
       - url: "https://www.dreadcentral.com/wp-content/uploads/2023/04/AI.png"
         width: 1280
         height: 720
-        isCached: true
-  - title: "The CEOs of the world's biggest advertising companies just outlined how AI is about to transform their businesses"
-    excerpt: "Agencies say they've been applying AI to target ads to specific audiences ... which gives it a dedicated Azure cloud environment with secure access to the latest OpenAI GPT models. Omnicom is running more than 20 projects where it combines Omnicom's ..."
-    publishedDateTime: 2023-04-28T17:56:00Z
-    webUrl: "https://www.businessinsider.com/how-ai-transform-advertising-agencies-2023-4"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 48
-    images:
-      - url: "https://i.insider.com/644c089274e9330018ef966e?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "The Music Industry Has an AI Problem"
     excerpt: "However, there is no gray area here: AI-generated music must be produced in a way that is equitable and fair for artists. That will require a substantial amount of vigilance. Get your good shoes on and tie them up tight, because there's a long road ahead."

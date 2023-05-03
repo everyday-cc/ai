@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/05/ibm-pauses-hi
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/05/ibm-pauses-hiring-around-7800-roles-that-could-be-replaced-by-ai/amp/"
 type: article
 quality: 81
-heat: 191
+heat: 201
 published: true
 
 provider:
@@ -89,6 +89,22 @@ related:
       - url: "https://www.livemint.com/lm-img/img/2023/05/02/600x338/IBM_1682988099021_1682988099244.JPG"
         width: 600
         height: 337
+        isCached: true
+  - title: "ChatGPT, AI Tools Could 'Replace Many' Jobs Within 5 Years: IBM CEO"
+    excerpt: "Unrestrained and unregulated advances in artificial intelligence development could pose significant risks to humanity, experts warned."
+    publishedDateTime: 2023-05-03T10:58:00Z
+    webUrl: "https://www.ibtimes.com/chatgpt-ai-tools-could-replace-many-jobs-within-5-years-ibm-ceo-3690701"
+    ampWebUrl: "https://www.ibtimes.com/chatgpt-ai-tools-could-replace-many-jobs-within-5-years-ibm-ceo-3690701?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/chatgpt-ai-tools-could-replace-many-jobs-within-5-years-ibm-ceo-3690701?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 59
+    images:
+      - url: "https://d.ibtimes.com/en/full/2913344/arvind-krishna-take-over-ibm-ceo-april-2020.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "IBM’s CEO expects A.I. to be so good at back office work that he plans to pause hiring humans for those jobs"
     excerpt: "“I could easily see 30% of that getting replaced by AI and automation over ... Kyndryl Inc. and part of the Watson Health business. The company is currently considering selling its weather unit. Armonk, New York-based IBM topped profit estimates ..."

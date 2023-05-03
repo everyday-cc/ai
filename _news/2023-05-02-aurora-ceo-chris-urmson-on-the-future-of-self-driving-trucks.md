@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Aurora CEO’s take on the future of self-driving trucks in Texas and beyond"
+    excerpt: "A Q&A with Chris Urmson, whose firm wants to send autonomous trucks on Interstate 45 between Dallas and Houston."
+    publishedDateTime: 2023-05-03T11:00:00Z
+    webUrl: "https://www.dallasnews.com/business/technology/2023/05/03/aurora-ceos-take-on-the-future-of-self-driving-trucks-in-texas-and-beyond/"
+    ampWebUrl: "https://www.dallasnews.com/business/technology/2023/05/03/aurora-ceos-take-on-the-future-of-self-driving-trucks-in-texas-and-beyond/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/business/technology/2023/05/03/aurora-ceos-take-on-the-future-of-self-driving-trucks-in-texas-and-beyond/?outputType=amp"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 42
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/OkC2qvqpeSQ59VatzQ32_swbhSg=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/DB42ZEYFERG6RNX66WICGQGVPQ.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Insider Q&A: Aurora CEO Chris Urmson on self-driving trucks"
     excerpt: "Sometime next year, semis with no human in the cab will start carrying freight down Interstate 45 between Dallas and Houston."
     publishedDateTime: 2023-05-01T12:59:00Z

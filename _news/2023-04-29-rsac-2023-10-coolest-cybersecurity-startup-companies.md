@@ -102,6 +102,20 @@ related:
         width: 1460
         height: 821
         isCached: true
+  - title: "Cybersecurity Still Finding Its Place In New AI Era"
+    excerpt: "It is difficult nowadays to talk to inventors in any tech sector without AI coming up in the conversation — and that is certainly true in cybersecurity."
+    publishedDateTime: 2023-05-03T11:00:00Z
+    webUrl: "https://news.crunchbase.com/cybersecurity/artificial-intelligence-rsa-venture-startup/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 37
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/AI_Sector_Cybersecurity.jpg"
+        width: 900
+        height: 506
+        isCached: true
   - title: "The Lawfare Podcast: Jim Dempsey and Jonathan Spring on Adversarial Machine Learning and Cybersecurity"
     excerpt: "Risks associated with the rapid development and deployment of artificial intelligence are getting the attention of lawmakers. But one issue that may not be getting adequate attention by policymakers or by the AI research and cybersecurity communities is the vulnerability of many AI-based systems to adversarial attack."
     publishedDateTime: 2023-05-03T09:01:00Z

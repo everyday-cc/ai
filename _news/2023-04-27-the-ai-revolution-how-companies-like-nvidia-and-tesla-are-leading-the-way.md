@@ -1,18 +1,19 @@
 ---
 category: news
 title: "The AI Revolution: How Companies like Nvidia and Tesla Are Leading the Way"
-excerpt: "Two that come to mind as industry leaders are Nvidia (NASDAQ: NVDA) and Tesla (NASDAQ: TSLA). If you want a litmus test to see how a company utilizes this technology, compare it to these two leaders and see how it stacks up."
-publishedDateTime: 2023-04-27T11:25:00Z
-originalUrl: "https://moneymorning.com/investing/the-ai-revolution-how-companies-like-nvidia-and-tesla-are-leading-the-way/"
-webUrl: "https://moneymorning.com/investing/the-ai-revolution-how-companies-like-nvidia-and-tesla-are-leading-the-way/"
+excerpt: "But what about the competition? Alphabet recently claimed its AI chip was more powerful than Nvidia's A100 chips. However, that's not Nvidia's latest and greatest GPU. It would be fairer to ..."
+publishedDateTime: 2023-04-27T12:09:00Z
+originalUrl: "https://www.fool.com/investing/2023/04/27/the-ai-revolution-how-companies-like-nvidia-and-te/"
+webUrl: "https://www.fool.com/investing/2023/04/27/the-ai-revolution-how-companies-like-nvidia-and-te/"
 type: article
-quality: 54
-heat: 64
-published: false
 
 provider:
-  name: Money Morning
-  domain: moneymorning.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
@@ -20,27 +21,11 @@ topics:
   - AI in Autos
 
 images:
-  - url: "https://moneymorning.com/wp-content/blogs.dir/1/files/2023/04/motley-fool-mark.png"
-    width: 940
-    height: 940
+  - url: "https://g.foolcdn.com/editorial/images/729397/tesla-model-3-driving-on-the-road.jpg"
+    width: 4000
+    height: 2667
     isCached: true
 
-related:
-  - title: "The AI revolution is leaving behind Arabic speakers"
-    excerpt: "The vast majority of references and big data AI tools such as ChatGPT scan to generate results are in English. This must be addressed if we are to avoid a digital language divide"
-    publishedDateTime: 2023-04-28T08:55:00Z
-    webUrl: "https://www.middleeasteye.net/opinion/al-revolution-arabic-speakers-left-behind"
-    type: article
-    provider:
-      name: Middle East Eye
-      domain: middleeasteye.net
-    quality: 39
-    images:
-      - url: "http://www.middleeasteye.net/sites/default/files/images-story/chatGPT-IA-%202023-afp.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-
-secured: "/JCriaLhuO6xXPfq/1yxqK1Pa8jor96XrLm62sBhjnwVVD6V0w4vTetOBqKPH5tqmG+nWY6K0Atu64d5POJniyb5xLHxziGO0t3QDakYR8MdstNooxp4bi6CMQ+e7F0pqU/QO1UDnqYxAMWyUYigPERgpEtQ9MKHw9+hUsml/09+o1WAVrA+1g67M3IR5wCxFhwrdIdArlU3NHLWh7YQm1oBAgLOMK4u5GGy/8Hx0I0jUMa/tKai+k49zfnHsyDAsQLUY3hVlCPjk0onB6puF1LtMs4zXlAG8AXd31TeNSCR4bQIZbHD8xho04jhbWKnbmOy9vQCmaYg9qHSZOfbTZ4U30XfJW25Ti3UlgaOm20=;pkEwINjV7Wz1AAPO0nAJxA=="
+secured: "f+vKNlzyzVsEMwixWuftaQG1NA8S8pdE0NOjoISrmKeug5TCJ+nDxxSgTCjNxPmlbd546h8QHHSzP/Wl0Ipj0XzPrdE+WF5pXCahKv//ZjYzUHGHjP/t5aufyLUXl/Zu835W0jKOAsDSB3/Mq7VUZKO+R09u8gz5uQxUU6Nm/A99GLv3Xn5I4/nH26BBpjWfFaq8xkWC74xY6zkfzT66ReHOaBYak4NyqYpg438ZzKy8gYua3UtweoRRS6orp+vehJHlhjyDEaGOLIQ6HBt0wONnNnGrQ2CKc9j8lPOJ9QehC9I8W44Wzi4sSpSZak+0SjrSiddCITdjjpTZuVguvyGLwBe4ac1ootvpytYUusw=;g+Pxt1XeftdJgGmllSrg6A=="
 ---
 

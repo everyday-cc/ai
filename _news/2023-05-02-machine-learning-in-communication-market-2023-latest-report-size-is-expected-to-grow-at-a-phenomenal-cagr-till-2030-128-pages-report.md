@@ -29,29 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Deep Learning Software Market Analysis: Current Market Size, Growth Projection, and CAGR of 6% from 2023 - 2030"
-    excerpt: "This report on \" Deep Learning Software market \" contains the data required to conduct a SWOT, PEST, and STEER analysis. It gives a better knowledge of market dynamics and industry competition. The Deep Learning Software market is expected to grow annually by 6% (CAGR 2023 - 2030)."
-    publishedDateTime: 2023-04-30T11:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-software-market-analysis-current-market-size-growth-projection-and-cagr-of-6-from-2023---2030-2023-04-30"
+  - title: "The Latest Market Research Report for the Artificial Intelligence Products Market size with forecasted CAGR of 11.7% during 2023-2030"
+    excerpt: "The Global Market Overview of \" Artificial Intelligence Products Market\" offers a unique insight into key trends shaping the industry world-wide and in the largest markets. Written by some of our most experienced analysts,"
+    publishedDateTime: 2023-04-29T05:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-latest-market-research-report-for-the-artificial-intelligence-products-market-size-with-forecasted-cagr-of-117-during-2023-2030-2023-04-29"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "2023-2031 Machine Learning Recommendation Algorithm Market| Discover the Current Scope in Analytics Industry and Opportunities"
-    excerpt: "The global \"Machine Learning Recommendation Algorithm Market\" report thoroughly analyzed in this Insight Report,"
-    publishedDateTime: 2023-05-03T04:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-2031-machine-learning-recommendation-algorithm-market-discover-the-current-scope-in-analytics-industry-and-opportunities-2023-05-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
+    quality: 40
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

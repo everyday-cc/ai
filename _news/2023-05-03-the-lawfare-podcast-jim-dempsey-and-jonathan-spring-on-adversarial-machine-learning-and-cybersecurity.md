@@ -97,6 +97,20 @@ related:
         width: 1460
         height: 821
         isCached: true
+  - title: "Cybersecurity Still Finding Its Place In New AI Era"
+    excerpt: "It is difficult nowadays to talk to inventors in any tech sector without AI coming up in the conversation — and that is certainly true in cybersecurity."
+    publishedDateTime: 2023-05-03T11:00:00Z
+    webUrl: "https://news.crunchbase.com/cybersecurity/artificial-intelligence-rsa-venture-startup/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 37
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/AI_Sector_Cybersecurity.jpg"
+        width: 900
+        height: 506
+        isCached: true
   - title: "RSAC 2023: 10 Coolest Cybersecurity Startup Companies"
     excerpt: "HiddenLayer, Concentric AI and Mondoo were among the coolest cybersecurity startup companies at RSAC 2023."
     publishedDateTime: 2023-04-28T20:40:00Z

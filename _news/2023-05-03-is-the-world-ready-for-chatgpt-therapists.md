@@ -135,21 +135,21 @@ related:
         width: 1200
         height: 798
         isCached: true
-  - title: "ChatGPT and Generative AI in Financial Services: Reality, Hype, What's Next, and How to Prepare"
-    excerpt: "Payments, banking, and insurance players are eager to understand generative AI's potential and put it to work."
-    publishedDateTime: 2023-04-28T17:30:00Z
-    webUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-in-financial-services-hype-next-prepare-2023-april"
-    ampWebUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-in-financial-services-hype-next-prepare-2023-april?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-and-generative-ai-in-financial-services-hype-next-prepare-2023-april?amp"
+  - title: "Profitably Using Generative AI ChatGPT As Your Stock Trading Advisor, Albeit With AI Ethics Cautionary Caveats In Mind"
+    excerpt: "There is a rush toward using ChatGPT and generative AI to aid in picking stocks and doing stock price predictions. Watch out for scams. You need to know what makes sense and what to avoid, which is covered herein."
+    publishedDateTime: 2023-05-03T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/05/03/profitably-using-generative-ai-chatgpt-as-your-stock-trading-advisor-albeit-with-ai-ethics-cautionary-caveats-in-mind/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/05/03/profitably-using-generative-ai-chatgpt-as-your-stock-trading-advisor-albeit-with-ai-ethics-cautionary-caveats-in-mind/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/05/03/profitably-using-generative-ai-chatgpt-as-your-stock-trading-advisor-albeit-with-ai-ethics-cautionary-caveats-in-mind/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 75
+      name: Forbes
+      domain: forbes.com
+    quality: 80
     images:
-      - url: "https://i.insider.com/64403454632fda001803b2e0?width=1200&format=jpeg"
-        width: 1200
-        height: 900
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64509b00e5f9e8fe9adc456e/0x0.jpg?format=jpg&crop=829,553,x116,y0,safe&width=1200"
+        width: 829
+        height: 553
         isCached: true
   - title: "Sneakily Using Generative AI ChatGPT To Spout Legalese And Imply That You’ve Hired An Attorney, Unsettling For AI Ethics And AI Law"
     excerpt: "People are using ChatGPT and other generative AI to compose letters that have legalese, aiming to intimidate others. Is this allowed? Should it be stopped? Here is the insider scoop."
@@ -210,6 +210,22 @@ related:
       - url: "https://www.androidauthority.com/wp-content/uploads/2023/03/ChatGPT-stock-photo-7.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "ChatGPT is the start of online education, not the end"
+    excerpt: "Yet online education is a huge industry, estimated by researcher Statista at $167 billion this year and climbing to $239 billion by 2027. Chegg's slice of that market is centred around helping college students with homework and cramming for exams,"
+    publishedDateTime: 2023-05-03T11:06:00Z
+    webUrl: "https://www.tbsnews.net/bloomberg-special/chatgpt-start-online-education-not-end-625714"
+    ampWebUrl: "https://www.tbsnews.net/bloomberg-special/chatgpt-start-online-education-not-end-625714?amp"
+    cdnAmpWebUrl: "https://www-tbsnews-net.cdn.ampproject.org/c/s/www.tbsnews.net/bloomberg-special/chatgpt-start-online-education-not-end-625714?amp"
+    type: article
+    provider:
+      name: tbsnews
+      domain: tbsnews.net
+    quality: 59
+    images:
+      - url: "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/03/28/new_project.jpg"
+        width: 600
+        height: 314
         isCached: true
   - title: "Chatbot ‘journalists’ found running almost 50 AI-generated content farms"
     excerpt: "Websites churn out content, often advancing false narratives, to saturate with adverts, says anti-misinformation firm"
@@ -485,6 +501,6 @@ related:
       domain: businessnewsdaily.com
     quality: 4
 
-secured: "dahG1shYlhcZN7MqTRAMknI9BSriRPaJ8gw82b+YfkqNSRunZ8MF6IwnxpHeIGRwq1cM7wRwFct+kXzT2YOxoLx70K1gQ36KYXsBGyKV1K6gSdwiUB0pBc7Hay7uElHNM0jySSdZtuExkHjyf7mUS2wptstyVg6cIV2P1iu3rpLxuL9/shpYkJ+2rUxGJJs0WIfIgnceXOGivaenAZkDJPh+C4qu/KT6sO8lTgM6pjuaklJe56mEMwWBkDkF9vvEjUjrR0dE9opVIa1hPgDqKIE+NhpeGYyc5qMyYENPaTNoHW1BGiLKTApvGoQOhLkx6BivDKHaLZXqMEJRD3Y9gUPiKo7zq4kUMUEyCWVAY1E=;fMJaYNO8Iv8qP4so8CXTkg=="
+secured: "geSi5tPBZtlubEFaC4zoW6rpxig7pgezgKSfp1xA7HSyyumYE2MoDRIWLMKnNUi0x3Lx5Mii8XNT2ZnLpg4ae3bIPYhpz0HdJgahTIA8/K6xWQw/iJHFoNWPA3igd0Ow7qkm6mTNf2+MVC8aDE5krmdyB8/X4KNj2VaHkRvLFdsTu3C8UKtymQqYVZEMM2W8O0K2csswcpFMh7FLL4JYr/mlqPisGI/w/2iWH9g6fxoAMk0Psb2GtU0f7nV1jIuXrAI+4Kcl6dOP/uLWotDwtjwEvy4ogdwS4+5uWQYifzzFOV6tgmHWz7fQDh0DLrEbYqk0brrc+q0nMCwm5M6GpDUGzf/1ruJPJnk3am9cfuMAg0ykN1oKb8/AfUffRzc3HTI1X17+L6lylXX7ZiCTXdApMwCpM5mTgN3OmkHPULriNubqqIokWo75AO9XxecFckTrxde7GOJeF/ckPcIgdHxDSucj2/UF5h++969E1dPkiogKLdbdZ3SLbnUl76RcN0K1cA/tkcakdxWXD0q3yQ==;caNJ3tMU0TE1lWU0QEBtbg=="
 ---
 

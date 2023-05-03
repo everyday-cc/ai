@@ -59,6 +59,34 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Dubai is bolstering its global fintech hub status. Here’s how"
+    excerpt: "Dubai has launched wide-ranging initiatives designed to nurture entrepreneurship and support startups across the GCC region"
+    publishedDateTime: 2023-05-03T10:00:00Z
+    webUrl: "https://gulfbusiness.com/how-dubai-is-bolstering-its-fintech-hub-status/"
+    type: article
+    provider:
+      name: Gulf Business
+      domain: gulfbusiness.com
+    quality: 39
+    images:
+      - url: "https://gulfbusiness.com/wp-content/uploads/2023/05/Dubai_Mohammad-AlBlooshi-Head-of-DIFC-Innovation-Hub-and-FinTech-Hive-2023-DFS-scaled-e1683094053696.jpg"
+        width: 930
+        height: 526
+        isCached: true
+  - title: "How AI is Revolutionizing the Supply Chain and Making It More Efficient"
+    excerpt: "Have you ever wondered how Amazon can expeditiously deliver products to customers’ doorsteps shortly after placing an order? The solution to this enigma is rooted in the efficacy of Artificial Intelligence (AI) within supply chain management."
+    publishedDateTime: 2023-05-03T11:09:00Z
+    webUrl: "https://techbullion.com/how-ai-is-revolutionizing-the-supply-chain-and-making-it-more-efficient/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 39
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/05/3cf223d7-hero-image1-08_10i80fk0fk0fk01c000028.png"
+        width: 560
+        height: 560
+        isCached: true
   - title: "Jason Simon, Fintech Visionary, Unveils How Cutting-Edge Tech Will Transform Global Trade & Supply Chains Forever!"
     excerpt: "The global trade and supply chain industry has undergone significant transformations in recent years, with technological advancements playing a critical role. In this ever-evolving landscape, Jason Simon,"
     publishedDateTime: 2023-04-29T19:41:00Z

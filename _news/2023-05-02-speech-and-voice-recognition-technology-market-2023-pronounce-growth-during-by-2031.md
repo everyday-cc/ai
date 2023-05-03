@@ -29,71 +29,34 @@ images:
     isCached: true
 
 related:
-  - title: "Data and AI Ethics Market Size 2023 with SWOT and PESTAL Analysis | Forecast to 2031"
-    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
-    publishedDateTime: 2023-04-28T18:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-size-2023-with-swot-and-pestal-analysis-forecast-to-2031-2023-04-28?tesla=y"
+  - title: "Face Recognition Device Market Forecast : Trends and Insights till 2031"
+    excerpt: "\"Face Recognition Device Market Size is projected to Reach Multimillion USD by 2031, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2031.\" Ask for a Sample Report \"Browse Detailed TOC of Face Recognition Device Market report with 153 Tables and Figures andCharts that provides exclusive data,"
+    publishedDateTime: 2023-05-02T09:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-forecast-trends-and-insights-till-2031-2023-05-02"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 77
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Oil and Gas Market Size 2023 with SWOT and PESTAL Analysis | Forecast to 2031"
-    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
-    publishedDateTime: 2023-04-28T18:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-oil-and-gas-market-size-2023-with-swot-and-pestal-analysis-forecast-to-2031-2023-04-28?tesla=y"
+  - title: "A world of Mobile Speech Recognition Software Market Insights 2023-2030 at your fingertips."
+    excerpt: "The \"Mobile Speech Recognition Software Market\" study delves into the evolution of the technology industry and"
+    publishedDateTime: 2023-05-03T04:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/a-world-of-mobile-speech-recognition-software-market-insights-2023-2030-at-your-fingertips-2023-05-03"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 50
+    quality: 59
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "The Latest Market Research Report for the Artificial Intelligence Products Market size with forecasted CAGR of 11.7% during 2023-2030"
-    excerpt: "The Global Market Overview of \" Artificial Intelligence Products Market\" offers a unique insight into key trends shaping the industry world-wide and in the largest markets. Written by some of our most experienced analysts,"
-    publishedDateTime: 2023-04-29T05:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/the-latest-market-research-report-for-the-artificial-intelligence-products-market-size-with-forecasted-cagr-of-117-during-2023-2030-2023-04-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Speech and Voice Recognition Technology Market Size 2023 with SWOT and PESTAL Analysis | Forecast to 2031"
-    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
-    publishedDateTime: 2023-04-28T18:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-technology-market-size-2023-with-swot-and-pestal-analysis-forecast-to-2031-2023-04-28?tesla=y"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Life Sciences Market 2023: Growth Projection for Top Regions by 2030"
-    excerpt: "May 02, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The Artificial Intelligence in"
-    publishedDateTime: 2023-05-02T08:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-life-sciences-market-2023-growth-projection-for-top-regions-by-2030-2023-05-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
 
 secured: "8+0Rnom+6cSkSQh3d3CGGGp2R93ENJbWhqO2gAmdZINDTtuAwnuEZukTTUtL0j6Hr2+Ctcqfoo+DcEvMTqR3zMS53RjYkj+cauAu+l4Sf3qtsfVHjQId00UZJooxHide2ZrVxi1vFgjaCPx5TQd4xL2xJw5Y0Lef6x7LnH+185pzwZT/s4UL35nnUF4Ab5x2/ATGleCvGoXlDIu+oFVOMKCq+2mb55s7XxgmsOplKzeyFYwvRl5jaD2SSRs6f0fYzm05GmQ+wVF9BBV1NkzblTUqj12WOSmy/Zc3QlEDyWkxZ8tnvCQhIrsi0uOp4QzVJrdSXzDUDSTlVOh+maxl1akiOd30yGD7OAhIg8HKIeg=;2IXjEnF2S4rNN7gG1YeU6g=="
 ---

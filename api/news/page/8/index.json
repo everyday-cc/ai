@@ -2,6 +2,352 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-04-27-artificial-intelligence-frequently-asked-questions-about-ai.md",
+      "title": "Artificial intelligence: Frequently asked questions about AI",
+      "excerpt": "The advancement of artificial intelligence is progressing at a breakneck pace. While the technology is changing rapidly, the basic principles behind AI aren't new. Artificial intelligence has been ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/frequently-asked-artificial-intelligence-questions-answered",
+      "originalUrl": "https://www.foxnews.com/tech/frequently-asked-artificial-intelligence-questions-answered",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/99c2d3f0-ca52-4098-9181-5c055a78fc88/280113b3-7fc9-4279-a467-a3ad7e69045b/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/frequently-asked-artificial-intelligence-questions-answered.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/frequently-asked-artificial-intelligence-questions-answered.amp",
+      "publishedDateTime": "2023-04-27T06:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-27-can-artificial-intelligence-ever-achieve-societal-level-digital-trust.md",
+      "title": "Can Artificial Intelligence Ever Achieve Societal-Level Digital Trust?",
+      "excerpt": "Artificial intelligence (AI) has always been treated with suspicion, and the pace and volume of the concerns raised are reaching new highs. In itself, the concerns raised regarding the use of AI and the level to which it can replace previous humanly operated processes are a demonstration of the pace of technological advancement.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/27/can-artificial-intelligence-ever-achieve-societal-level-digital-trust/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/27/can-artificial-intelligence-ever-achieve-societal-level-digital-trust/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f3bdea7cf036822a957572d/0x0.jpg?format=jpg&crop=5700,3206,x0,y294,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/27/can-artificial-intelligence-ever-achieve-societal-level-digital-trust/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/27/can-artificial-intelligence-ever-achieve-societal-level-digital-trust/amp/",
+      "publishedDateTime": "2023-04-27T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-04-27-2-artificial-intelligence-growth-stocks-smart-investors-are-buying-hand-over-fist.md",
+      "title": "2 Artificial Intelligence Growth Stocks Smart Investors Are Buying Hand Over Fist",
+      "excerpt": "Its software leans on artificial intelligence (AI ... Trade Desk is well positioned to maintain its momentum. Grand View Research predicts the ad tech market's revenues will increase at an ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/04/27/2-ai-growth-stocks-smart-investors-are-buying/",
+      "originalUrl": "https://www.fool.com/investing/2023/04/27/2-ai-growth-stocks-smart-investors-are-buying/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/729264/artificial-intelligence-1.jpg",
+          "width": 2070,
+          "height": 1449,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-27T05:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-27-elon-musks-past-statements-about-self-driving-safety-could-feasibly-be-deepfakes-tesla-lawyers-told-court.md",
+      "title": "Elon Musk's past statements about self-driving safety could feasibly be deepfakes, Tesla lawyers told court",
+      "excerpt": "Tesla is facing a lawsuit over the death of an Apple engineer. The judge ordered Elon Musk to be interviewed under oath about his past statements.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/tesla-lawyers-elon-musk-autopilot-safety-statements-could-be-deepfakes-2023-4",
+      "originalUrl": "https://www.businessinsider.com/tesla-lawyers-elon-musk-autopilot-safety-statements-could-be-deepfakes-2023-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6432a2b13007470019fe3dee?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/tesla-lawyers-elon-musk-autopilot-safety-statements-could-be-deepfakes-2023-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-lawyers-elon-musk-autopilot-safety-statements-could-be-deepfakes-2023-4?amp",
+      "publishedDateTime": "2023-04-27T05:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-27-the-ai-revolution-how-companies-like-nvidia-and-tesla-are-leading-the-way.md",
+      "title": "The AI Revolution: How Companies like Nvidia and Tesla Are Leading the Way",
+      "excerpt": "But what about the competition? Alphabet recently claimed its AI chip was more powerful than Nvidia's A100 chips. However, that's not Nvidia's latest and greatest GPU. It would be fairer to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/04/27/the-ai-revolution-how-companies-like-nvidia-and-te/",
+      "originalUrl": "https://www.fool.com/investing/2023/04/27/the-ai-revolution-how-companies-like-nvidia-and-te/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/729397/tesla-model-3-driving-on-the-road.jpg",
+          "width": 4000,
+          "height": 2667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-27T05:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-04-27-i-rode-in-a-waymo-self-driving-taxi-with-no-driver-and-it-was-a-smooth-and-safe-ride-despite-my-initial-fears.md",
+      "title": "I rode in a Waymo self-driving taxi with no driver and it was a smooth and safe ride, despite my initial fears",
+      "excerpt": "An curved arrow pointing right. Autonomous driving company Waymo — formerly known as the Google self-driving car project — has launched a fleet of vehicles in Phoenix and San Francisco.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/rode-self-driving-waymo-car-phoenix-and-wasnt-scary-review-2023-4",
+      "originalUrl": "https://www.businessinsider.com/rode-self-driving-waymo-car-phoenix-and-wasnt-scary-review-2023-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-27T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-27-how-erp-is-breaking-down-silos-and-driving-sustainable-change.md",
+      "title": "How ERP is breaking down silos and driving sustainable change",
+      "excerpt": "While many organizations have established environmental, social and governance (ESG) goals and made ESG commitments, driven by purpose and emerging regulatory requirements, they face several challenges when making the transition from ambition to action. A recent IBM study found that global executives",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-erp-is-breaking-down-silos-and-driving-sustainable-change/",
+      "originalUrl": "https://www.ibm.com/blog/how-erp-is-breaking-down-silos-and-driving-sustainable-change/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-27T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-27-how-ai-can-empower-not-replace-your-team.md",
       "title": "How AI Can Empower, Not Replace, Your Team",
       "excerpt": "With the release of ChatGPT, AI now promises to serve the common person rather than to perform as a technology that can only be accessed through deep technical expertise. In fact, ChatGPT is the fastest-growing consumer application in history, reaching 100 million users in the first two months since its launch.",
@@ -883,367 +1229,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-deepminds-latest-research-at-iclr-2023.md",
-      "title": "DeepMind’s latest research at ICLR 2023",
-      "excerpt": "Next week marks the start of the 11th International Conference on Learning Representations (ICLR), taking place 1-5 May in Kigali, Rwanda. This will be the first major artificial intelligence (AI) conference to be hosted in Africa and the first in-person event since the start of the pandemic. Researchers",
-      "sourceUrl": null,
-      "webUrl": "https://www.deepmind.com/blog/deepminds-latest-research-at-iclr-2023",
-      "originalUrl": "https://www.deepmind.com/blog/deepminds-latest-research-at-iclr-2023",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets-global.website-files.com/621e749a546b7592125f38ed/644a5309537e5d50d2de4a5e_deepmind-lISkvdgfLEk%20(1).jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-26T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-muslims-come-into-the-frame-in-southeast-asias-fintech-boom.md",
-      "title": "Muslims come into the frame in Southeast Asia’s fintech boom",
-      "excerpt": "who was a corporate lawyer before she became a shariah fintech specialist. Right now, when an instrument comes from a conventional financial institution, PayHalal feeds it into its AI-based non-shariah compliance screening tool. The tool then suggests ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/04/27/muslims-come-into-the-frame-in-southeast-asias-fintech-boom/",
-      "originalUrl": "https://techcrunch.com/2023/04/27/muslims-come-into-the-frame-in-southeast-asias-fintech-boom/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/04/sea-money-map.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/04/27/muslims-come-into-the-frame-in-southeast-asias-fintech-boom/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/04/27/muslims-come-into-the-frame-in-southeast-asias-fintech-boom/amp/",
-      "publishedDateTime": "2023-04-26T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-apple-to-expand-health-initiatives-with-ai-health-coach-report-says.md",
-      "title": "Apple to Expand Health Initiatives With AI Health Coach, Report Says",
-      "excerpt": "Users would be motivated to exercise, eat well and improve their sleep based on individualized plans from the service, according to a report.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/health/mental/apple-to-expand-health-initiatives-with-ai-health-coach-report-says/",
-      "originalUrl": "https://www.cnet.com/health/mental/apple-to-expand-health-initiatives-with-ai-health-coach-report-says/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/b51c7491a37488da50088db52ecc742f50031f18/hub/2023/04/25/24906f59-9de8-4dd1-8ee7-82ce372523dd/gettyimages-1360358389.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/apple-to-expand-health-initiatives-with-ai-health-coach-report-says/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/apple-to-expand-health-initiatives-with-ai-health-coach-report-says/",
-      "publishedDateTime": "2023-04-26T14:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-deloitte-looks-to-bring-ai-to-the-frontline-with-a-little-help-from-nvidia.md",
-      "title": "Deloitte looks to bring AI to the frontline with a little help from Nvidia",
-      "excerpt": "With help from Nvidia, Deloitte is rolling out new AI capabilities to enhance logistics, supply chain and customer care deployments.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/deloitte-looks-to-bring-ai-to-the-frontline-with-a-little-help-from-nvidia/",
-      "originalUrl": "https://venturebeat.com/ai/deloitte-looks-to-bring-ai-to-the-frontline-with-a-little-help-from-nvidia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-840412560-Thatree-Thitivongvaroon.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 606,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/deloitte-looks-to-bring-ai-to-the-frontline-with-a-little-help-from-nvidia/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/deloitte-looks-to-bring-ai-to-the-frontline-with-a-little-help-from-nvidia/amp/",
-      "publishedDateTime": "2023-04-26T14:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-moveworks-debuts-creator-studio-to-build-ai-driven-employee-copilots.md",
-      "title": "Moveworks debuts Creator Studio to build AI-driven employee copilots",
-      "excerpt": "Enterprise chatbot developer Moveworks today launched Creator Studio, a no-code platform to build custom conversational AI interfaces.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/moveworks-debuts-creator-studio-to-build-ai-driven-employee-copilots/",
-      "originalUrl": "https://venturebeat.com/ai/moveworks-debuts-creator-studio-to-build-ai-driven-employee-copilots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1364050120-e1651871311915.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/moveworks-debuts-creator-studio-to-build-ai-driven-employee-copilots/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/moveworks-debuts-creator-studio-to-build-ai-driven-employee-copilots/amp/",
-      "publishedDateTime": "2023-04-26T14:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-review-the-magic-conveyor-belt-supply-chain-and-ai-a-tale-of-two-halves.md",
-      "title": "Review: “The Magic Conveyor Belt, Supply Chain And AI,” A Tale Of Two Halves",
-      "excerpt": "I had hopes that this would be a great book about modern supply chains and how artificial intelligence (AI) can address the challenges of the sector. Sadly, I was only half right.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidteich/2023/04/26/review-the-magic-conveyor-belt-supply-chain-and-ai-a-tale-of-two-halves/",
-      "originalUrl": "https://www.forbes.com/sites/davidteich/2023/04/26/review-the-magic-conveyor-belt-supply-chain-and-ai-a-tale-of-two-halves/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f282315f48daeb3a6621465/0x0.jpg?format=jpg&crop=875,492,x0,y20,safe&width=1200",
-          "width": 875,
-          "height": 492,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2023/04/26/review-the-magic-conveyor-belt-supply-chain-and-ai-a-tale-of-two-halves/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2023/04/26/review-the-magic-conveyor-belt-supply-chain-and-ai-a-tale-of-two-halves/amp/",
-      "publishedDateTime": "2023-04-26T13:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-the-power-of-infrastructure-purpose-built-for-ai.md",
-      "title": "The power of infrastructure purpose-built for AI",
-      "excerpt": "Advances in powerful computing and the cloud are at the heart of the AI revolution. With faster, more efficient processing of vast amounts of data, companies can break through the",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/the-power-of-infrastructure-purpose-built-for-ai/",
-      "originalUrl": "https://venturebeat.com/ai/the-power-of-infrastructure-purpose-built-for-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/04/AdobeStock_564311673.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 686,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/the-power-of-infrastructure-purpose-built-for-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-power-of-infrastructure-purpose-built-for-ai/amp/",
-      "publishedDateTime": "2023-04-26T13:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

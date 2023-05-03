@@ -54,6 +54,58 @@
       ]
     },
     {
+      "path": "_news/2023-05-03-self-driving-car-for-ai-programming-market-future-growth-and-detail-analysis-of-industry-up-to-2030.md",
+      "title": "Self-Driving Car for AI Programming Market Future Growth and Detail Analysis of Industry Up to 2030",
+      "excerpt": "The following is a synopsis of a market research report on the Self-Driving Car for AI Programming Market research",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/self-driving-car-for-ai-programming-market-future-growth-and-detail-analysis-of-industry-up-to-2030-2023-05-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-car-for-ai-programming-market-future-growth-and-detail-analysis-of-industry-up-to-2030-2023-05-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-03T00:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-03-aws-deepracer-when-fun-meets-ml-autonomous-cars-and-upskilling.md",
       "title": "AWS DeepRacer: When fun meets ML, autonomous cars and upskilling",
       "excerpt": "The AWS DeepRacer event, hosted last Friday by simulation technology provider Computer Modeling Group (CMG) in Calgary, showed how access to the right resources, a good old showdown and attractive prizes could be the answer to the global upskilling problem.",
@@ -211,7 +263,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/anderson-selected-as-host-site-for-artificial-intelligence-bootcamp---applications-now-open-2023-05-01",
       "featuredContent": null,
       "highlight": null,
-      "heat": 278,
+      "heat": 248,
       "tags": null,
       "images": [
         {
@@ -513,6 +565,59 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-27-the-ai-revolution-how-companies-like-nvidia-and-tesla-are-leading-the-way.md",
+      "title": "The AI Revolution: How Companies like Nvidia and Tesla Are Leading the Way",
+      "excerpt": "But what about the competition? Alphabet recently claimed its AI chip was more powerful than Nvidia's A100 chips. However, that's not Nvidia's latest and greatest GPU. It would be fairer to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/04/27/the-ai-revolution-how-companies-like-nvidia-and-te/",
+      "originalUrl": "https://www.fool.com/investing/2023/04/27/the-ai-revolution-how-companies-like-nvidia-and-te/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/729397/tesla-model-3-driving-on-the-road.jpg",
+          "width": 4000,
+          "height": 2667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-27T05:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -1327,102 +1432,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-22-artificial-intelligence-in-the-garden-of-eden.md",
-      "title": "Artificial Intelligence in the Garden of Eden",
-      "excerpt": "The dawn of the internet age was so exciting. I took my grade-school son, enthralled by Apple computers, to see Steve Jobs speak at a raucous convention in New York almost a quarter-century ago.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/artificial-intelligence-in-the-garden-of-eden-adam-eve-gates-zuckerberg-technology-god-internet-40a4477a",
-      "originalUrl": "https://www.wsj.com/articles/artificial-intelligence-in-the-garden-of-eden-adam-eve-gates-zuckerberg-technology-god-internet-40a4477a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-767058/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-21T13:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-04-22-top-10-artificial-intelligence-ai-companies-in-2023.md",
-      "title": "Top 10 Artificial Intelligence (AI) Companies in 2023",
-      "excerpt": "When it comes to technological advancement Artificial Intelligence and machine learning are one of the core technologies that we can find at the base. Whether it could be Data Science or metaverse ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.hindustantimes.com/brand-stories/top-10-artificial-intelligence-ai-companies-in-2023-101682072405377.html",
-      "originalUrl": "https://www.hindustantimes.com/brand-stories/top-10-artificial-intelligence-ai-companies-in-2023-101682072405377.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hindustantimes.com/ht-img/img/2023/04/21/1600x900/Screenshot_2023-04-21_155126_1682072562332_1682072571805.png",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hindustantimes.com/brand-stories/top-10-artificial-intelligence-ai-companies-in-2023-101682072405377-amp.html",
-      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/brand-stories/top-10-artificial-intelligence-ai-companies-in-2023-101682072405377-amp.html",
-      "publishedDateTime": "2023-04-21T11:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

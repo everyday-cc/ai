@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Speech and Voice Recognition Technology Market 2023 | Pronounce Growth During By 2031"
+    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
+    publishedDateTime: 2023-05-02T11:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-technology-market-2023-pronounce-growth-during-by-2031-2023-05-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "QcsENkHyrfjSmIMmgXboknO1mO1/gHO5lXZ9qm0CaJz+xT8eyGZxtLmDXhlTZJaBrmcoo2HPYz/KU8g/pmdyKEVYYNiS8WV80iC9H5IfHMMvLeSI8n2wUhuFYHaO9JBqq86N6NHcwpC4q123jqmaN6nlM8/du383Enyf52ilQjoWikFgmEQEemxht6s2MSu8uvxis+604bo63kTh8mK7CsYbvWi+F99mcAHgN5wEqjRTlmW30cEILhZuvDpZR5w8nKCcl98o/2SvClgsEDDCQy6wXDPaBYiUkdDkpGJfnZ4SAAr/4A1TROMgh8gMIoAkJu8PCSk1IM5IVnnDVXCPZjsYSKA8uomT3ivrrAk6jcs=;vLuqGIXrF48oVfqCujTlEA=="
 ---

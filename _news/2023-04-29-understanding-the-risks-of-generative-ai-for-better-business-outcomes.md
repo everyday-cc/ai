@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/understand-risks-generative-ai-better-bus
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/understand-risks-generative-ai-better-business-outcomes/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 137
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Leveraging The Power Of AI As A Small Business"
+    excerpt: "AI language models can help small businesses optimize their marketing, but they have limitations that every business owner should be aware of."
+    publishedDateTime: 2023-05-03T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/03/leveraging-the-power-of-ai-as-a-small-business/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/03/leveraging-the-power-of-ai-as-a-small-business/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/05/03/leveraging-the-power-of-ai-as-a-small-business/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/642b0f04743b6df49adeb166/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "We must perfect predictive models for generative AI to deliver on the AI revolution"
     excerpt: "To accelerate the AI revolution, we shouldn’t abandon “old school AI” for flashier generative AI. Why we should perfect predictive AI."
     publishedDateTime: 2023-04-30T23:09:00Z
@@ -61,6 +77,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1347040940.jpg?w=1200&strip=all"
         width: 1200
         height: 631
+        isCached: true
+  - title: "How Artificial Intelligence is Transforming Business"
+    excerpt: "AI technologies have a wide range of applications in business, and many publicly traded companies now use AI tools."
+    publishedDateTime: 2023-05-03T02:15:00Z
+    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-in-business/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 69
+    images:
+      - url: "https://m.foolcdn.com/media/dubs/images/nvidia-nvda-stock-ai-artificial-intelligence-2.width-600.jpg"
+        width: 580
+        height: 387
         isCached: true
   - title: "Top 8 AI Chips for Your Generative AI Play"
     excerpt: "The AI chip market is expected to grow at a CAGR of 51% and reach $73.49 billion by 2025. Semiconductor companies could capture 40-50% of the total market share. Companies such as Alphabet, Broadcom,"

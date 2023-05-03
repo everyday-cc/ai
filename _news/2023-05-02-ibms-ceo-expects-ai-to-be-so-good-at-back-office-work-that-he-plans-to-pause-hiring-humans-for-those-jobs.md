@@ -107,6 +107,22 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "ChatGPT, AI Tools Could 'Replace Many' Jobs Within 5 Years: IBM CEO"
+    excerpt: "Unrestrained and unregulated advances in artificial intelligence development could pose significant risks to humanity, experts warned."
+    publishedDateTime: 2023-05-03T10:58:00Z
+    webUrl: "https://www.ibtimes.com/chatgpt-ai-tools-could-replace-many-jobs-within-5-years-ibm-ceo-3690701"
+    ampWebUrl: "https://www.ibtimes.com/chatgpt-ai-tools-could-replace-many-jobs-within-5-years-ibm-ceo-3690701?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/chatgpt-ai-tools-could-replace-many-jobs-within-5-years-ibm-ceo-3690701?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 59
+    images:
+      - url: "https://d.ibtimes.com/en/full/2913344/arvind-krishna-take-over-ibm-ceo-april-2020.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Job cuts may intensify as IBM plans to use AI to replace 30% back office jobs"
     excerpt: "IBM CEO Arvind Krishna said he expects AI to impact at least 7,800 jobs at the company over the next five years."
     publishedDateTime: 2023-05-02T07:55:00Z

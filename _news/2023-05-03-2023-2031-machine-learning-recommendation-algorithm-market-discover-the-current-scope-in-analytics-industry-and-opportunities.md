@@ -29,38 +29,38 @@ images:
     isCached: true
 
 related:
-  - title: "Deep Learning Software Market Analysis: Current Market Size, Growth Projection, and CAGR of 6% from 2023 - 2030"
-    excerpt: "This report on \" Deep Learning Software market \" contains the data required to conduct a SWOT, PEST, and STEER analysis. It gives a better knowledge of market dynamics and industry competition. The Deep Learning Software market is expected to grow annually by 6% (CAGR 2023 - 2030)."
-    publishedDateTime: 2023-04-30T11:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-software-market-analysis-current-market-size-growth-projection-and-cagr-of-6-from-2023---2030-2023-04-30"
+  - title: "2023-2030, Data Science and Machine-Learning Platforms Market-Latest Updates"
+    excerpt: "To know How COVID-19 and Russia-Ukraine War Influence Will Impact This Market/Industry - Request a sample copy of the report-:  In This Reports Data Science and Machine-Learning Platforms Market Segment by Type ( Open Source Data Integration Tools,"
+    publishedDateTime: 2023-05-03T04:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-2030-data-science-and-machine-learning-platforms-market-latest-updates-2023-05-03"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 49
+    quality: 51
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Learning in Communication Market 2023 [Latest Report] Size is Expected to Grow at a Phenomenal CAGR till 2030 | 128 Pages Report"
-    excerpt: "The Machine Learning in Communication Market Scope and Overview Report for 2023 presents a detailed analysis of the"
-    publishedDateTime: 2023-05-02T05:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-communication-market-2023-latest-report-size-is-expected-to-grow-at-a-phenomenal-cagr-till-2030-128-pages-report-2023-05-02"
+  - title: "Computer Vision Market 2023-2030 (New Report) Intelligence Study is A Useful Resource for Both New and Seasoned Players"
+    excerpt: "To know How COVID-19 and Russia-Ukraine War Influence Will Impact This Market/Industry - Request a sample copy of the report-:  In This Reports Computer Vision Market Segment by Type ( Hardware, Software) and Segment by Application ( Face Recognition,"
+    publishedDateTime: 2023-05-03T04:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2023-2030-new-report-intelligence-study-is-a-useful-resource-for-both-new-and-seasoned-players-2023-05-03"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 36
+    quality: 45
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "The report on the Underwater Computer Vision market size and its projected CAGR value of 8.9% from 2023 to 2030 examines the primary market drivers."
-    excerpt: "The market growth of Underwater Computer Vision has been phenomenal in recent years, with a significant increase in demand and adoption among various industries and end-users. The growth of the Underwater Computer Vision market can be attributed to various factors such as advancements in technology,"
-    publishedDateTime: 2023-04-30T04:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/the-report-on-the-underwater-computer-vision-market-size-and-its-projected-cagr-value-of-89-from-2023-to-2030-examines-the-primary-market-drivers-2023-04-30"
+  - title: "Data Science and Machine Learning Service Market Projected to Show Strong Growth by 2030| DataScience.com, ZS, LatentView Analytics, Mango Solutions"
+    excerpt: "Who are the Top Key players operating the global Data Science and Machine Learning Service Market: DataScience.com, ZS, LatentView Analytics, Mango Solutions, Microsoft, International Business Machine,"
+    publishedDateTime: 2023-05-02T09:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-service-market-projected-to-show-strong-growth-by-2030-datasciencecom-zs-latentview-analytics-mango-solutions-2023-05-02"
     type: article
     provider:
       name: MarketWatch

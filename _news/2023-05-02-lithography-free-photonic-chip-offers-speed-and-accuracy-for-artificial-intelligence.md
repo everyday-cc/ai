@@ -39,6 +39,20 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Lithography-free photonic chip offers new model for faster processing"
+    excerpt: "University of Pennsylvania approach promises accuracy and flexibility for AI applications Lithography processes have traditionally been used to manufacture photonic chips, analogous to the operations used to create electron-guiding paths in conventional chips,"
+    publishedDateTime: 2023-05-03T10:20:00Z
+    webUrl: "https://optics.org/news/14/4/48"
+    type: article
+    provider:
+      name: Optics
+      domain: optics.org
+    quality: 39
+    images:
+      - url: "https://optics.org/objects/news/thumb/14/4/48/upenn_may23.jpg"
+        width: 380
+        height: 268
+        isCached: true
 
 secured: "v2myCEiZkj5t4ISGcfvBJgp0mdbe80O13VHx25SG+ej3AUNv9nVf4Qz7oHEeyJ58xMp7gMipJLe6CLwwi5jeODMrzV9TeU+QthlXqO9/9tAalWDrPe59Dx4XlTtQkMlqIAk3NXs1Mze6Ox6Tt7boWGkiXBrPLNnqTEbud/DRHf+nKZJoo5cvtdx9B+glsRc5bHfidU6HtAfd5g9FuhUK4gBq8eoUyO4ggGiefv5Cc/oECfkL688FjkzngUlrC7oZvzpxc+aL3iPSrvhMBuPOQ6OmYrRVmH6PtEPWo4lEWkcGs0ygctWhadbiUjzwAeSkvFWSQFxJIZoYDbNW9d7kGOb1QjImQZjTtuvOqFggfd0=;BBwEGrFpDO/4e71FaGltXg=="
 ---

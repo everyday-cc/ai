@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/science/2023/05/ai-plus-mri-yields-the-abili
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/science/2023/05/ai-plus-mri-yields-the-ability-to-recognize-what-the-mind-is-hearing/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/23682213069_314ebb45a1_c.jpg"
         width: 800
         height: 575
+        isCached: true
+  - title: "Researchers used AI and MRI scans to decode thoughts - and they were mostly accurate"
+    excerpt: "The system relies to an extent on a transformer model, similar to the ones that power Open AI’s ChatGPT and Google’s Bard."
+    publishedDateTime: 2023-05-02T15:43:00Z
+    webUrl: "https://interestingengineering.com/innovation/researchers-used-ai-and-mri-scans-to-decode-thoughts-and-they-were-mostly-accurate"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 32
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/05/02/image/jpeg/6LsVEpfqTt1MPWY1k64GcUKuAIDJoGn7SCKv8nCC.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "AN3OVOSMRISa8tuv8e+jle5eTlhGP+4bxRrzdJJof0v5MUuZPXSLO3qFcQBwudyBpEk73fq68xG8VdhCRkp7QjNmVeVAaV+2+cMh4xTXCSBGChfY63c0n5FOFNuRTOcJhKum1OY9kAOEVQ+sOcNsKSyMwhKop+CMs0SrdlRro5DZ7HtMpHAn5c1qz6SNfH7+hU6RScfB+Cw7zpdiUf9Ff9mYeitXh/6P60D3rHUc72QZNaQOV8jsu3kPa6bx17ZXWe/am+l7xdmD/TMyojBOgd+hNXb538kAkBUZ77PHHIFbJ+wJ1Sgu90kAGsbhNZV65WwcsqJOKP7+PGcEH6LmtXRYqX5iPhw+qmD7zqS2QePl5P1+Og83ltcFvjZyIucCq+HNco0ldXVaZuqwt7CpEryQfChpFDwp7wzY7Yf9/OdA5Mcg+cieI3WBEj41MLSTIWPa9JzK6RgCr6kwEKlQdYfNUPuFJzZkQDcq0yEw0R22/2NXYMhHei4t4wD0dDs68en+P1den4D3Ml4L1MWNyA==;vbGl+A72u7gu5as7CJ26dA=="

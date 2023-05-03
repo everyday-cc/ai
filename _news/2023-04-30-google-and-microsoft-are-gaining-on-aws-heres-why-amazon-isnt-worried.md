@@ -7,7 +7,7 @@ originalUrl: "https://moneymorning.com/investing/google-and-microsoft-are-gainin
 webUrl: "https://moneymorning.com/investing/google-and-microsoft-are-gaining-on-aws-heres-why-amazon-isnt-worried/"
 type: article
 quality: 70
-heat: 110
+heat: 120
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Here’s what’s missing from Microsoft’s Responsible AI program: An ethics team"
+    excerpt: "While Microsoft expresses interest in responsible AI, it is worth noting that they fired their entire AI ethics team in March 2023."
+    publishedDateTime: 2023-05-03T09:38:00Z
+    webUrl: "https://www.medianama.com/2023/05/223-microsoft-responsible-ai-program-no-ethics-team/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 68
+    images:
+      - url: "https://www.medianama.com/wp-content/uploads/2023/05/christina-wocintechchat-com-F75IfIWSqRY-unsplash-scaled.jpg"
+        width: 2560
+        height: 1709
+        isCached: true
   - title: "Microsoft will help the Google of China take its self-driving car platform global"
     excerpt: "The biggest stories of the day delivered to your inbox."
     publishedDateTime: 2023-04-30T23:59:00Z

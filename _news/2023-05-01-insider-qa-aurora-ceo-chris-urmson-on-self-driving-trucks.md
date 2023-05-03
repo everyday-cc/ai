@@ -9,7 +9,7 @@ ampWebUrl: "https://www.seattletimes.com/business/insider-qa-aurora-ceo-chris-ur
 cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/insider-qa-aurora-ceo-chris-urmson-on-self-driving-trucks/?amp=1"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,22 @@ topics:
   - AI
 
 related:
+  - title: "Aurora CEO’s take on the future of self-driving trucks in Texas and beyond"
+    excerpt: "A Q&A with Chris Urmson, whose firm wants to send autonomous trucks on Interstate 45 between Dallas and Houston."
+    publishedDateTime: 2023-05-03T11:00:00Z
+    webUrl: "https://www.dallasnews.com/business/technology/2023/05/03/aurora-ceos-take-on-the-future-of-self-driving-trucks-in-texas-and-beyond/"
+    ampWebUrl: "https://www.dallasnews.com/business/technology/2023/05/03/aurora-ceos-take-on-the-future-of-self-driving-trucks-in-texas-and-beyond/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/business/technology/2023/05/03/aurora-ceos-take-on-the-future-of-self-driving-trucks-in-texas-and-beyond/?outputType=amp"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 42
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/OkC2qvqpeSQ59VatzQ32_swbhSg=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/DB42ZEYFERG6RNX66WICGQGVPQ.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Aurora CEO Chris Urmson on self-driving trucks"
     excerpt: "The prospect of a driverless semi is scary to many, but not to Urmson, who helped to build Google's autonomous vehicle unit."
     publishedDateTime: 2023-05-02T01:05:00Z

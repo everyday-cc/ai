@@ -2,6 +2,299 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-05-02-ai-trailers-are-extremely-funny-abominations-for-now.md",
+      "title": "AI Trailers Are Extremely Funny Abominations. For Now",
+      "excerpt": "This hellish atrocity I've just described is an AI generated trailer, designed to show the capabilities of AI created content. It is, in no uncertain terms, an abomination. It's also extremely funny.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/ai-trailers-are-extremely-funny-abominations-for-now/",
+      "originalUrl": "https://www.cnet.com/tech/ai-trailers-are-extremely-funny-abominations-for-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/61a5f420b79395e60ab2c3b95dc1c53900376fb7/hub/2023/05/02/53a395d2-d456-40d1-b738-f1efd94ec9f9/screen-shot-2023-05-02-at-11-17-16-am.png?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/ai-trailers-are-extremely-funny-abominations-for-now/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-trailers-are-extremely-funny-abominations-for-now/",
+      "publishedDateTime": "2023-05-01T18:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-02-ai-robotics-experts-in-demand-clerical-jobs-losing-shine.md",
+      "title": "‘AI, robotics experts in demand; clerical jobs losing shine’",
+      "excerpt": "ISLAMABAD: The decision about what career to opt for is often a tough choice, but knowing what jobs are in demand and how the future markets will look like could help making an informed decision. According to a new report by the World Economic Forum (WEF) artificial learning and machine learning specialists,",
+      "sourceUrl": null,
+      "webUrl": "https://www.dawn.com/news/1750426/ai-robotics-experts-in-demand-clerical-jobs-losing-shine",
+      "originalUrl": "https://www.dawn.com/news/1750426/ai-robotics-experts-in-demand-clerical-jobs-losing-shine",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dawn.com/large/2023/05/0208295449a04c8.png?r=083100",
+          "width": 798,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-01T18:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dawn",
+        "domain": "dawn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-05-02-would-you-have-a-computer-chip-installed-in-your-brain-the-tech-is-here.md",
+      "title": "Would you have a computer chip installed in your brain? The tech is here",
+      "excerpt": "Would you have a computer chip implanted in your brain? Now, what if that tech could combat paralysis, crippling depression, deafness or blindness? Sounds like a science fiction novel, but the tech is here.",
+      "sourceUrl": null,
+      "webUrl": "https://www.komando.com/technology/brain-computer-chips/885367/",
+      "originalUrl": "https://www.komando.com/technology/brain-computer-chips/885367/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.komando.com/wp-content/uploads/2023/05/kk-article-20230502-brain-implants-the-future-is-now-1200x675-1.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.komando.com/technology/brain-computer-chips/885367/?amp",
+      "cdnAmpWebUrl": "https://www-komando-com.cdn.ampproject.org/c/s/www.komando.com/technology/brain-computer-chips/885367/?amp",
+      "publishedDateTime": "2023-05-01T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kim Komando",
+        "domain": "komando.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-02-ai-expert-leaves-google-and-sounds-alarm-in-recent-interview.md",
+      "title": "AI Expert Leaves Google and Sounds Alarm in Recent Interview",
+      "excerpt": "Geoffrey Hinton says AI-generated photos, videos and text will make it hard for people to determine what's real and what's fake.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/misinformation/ai-expert-leaves-google-and-sounds-alarm-in-recent-interview/",
+      "originalUrl": "https://www.cnet.com/news/misinformation/ai-expert-leaves-google-and-sounds-alarm-in-recent-interview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/014b8169e48a8b750327f0d1f6f8fb03dadbdd20/hub/2023/02/08/e78fd8d8-2686-4900-8c29-27ea7e3acb47/gettyimages-1364050120.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/ai-expert-leaves-google-and-sounds-alarm-in-recent-interview/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-expert-leaves-google-and-sounds-alarm-in-recent-interview/",
+      "publishedDateTime": "2023-05-01T16:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-02-facial-recognition-powers-automated-apartheid-in-israel-report-says.md",
+      "title": "Facial Recognition Powers ‘Automated Apartheid’ in Israel, Report Says",
+      "excerpt": "The Israeli government is using computer vision to monitor Palestinian travel across checkpoints, according to the report.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/05/01/technology/israel-palestine-facial-recognition.html",
+      "originalUrl": "https://www.nytimes.com/2023/05/01/technology/israel-palestine-facial-recognition.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/05/02/multimedia/01JPisrael-surveil-1-print-wkzg/01israel-surveil-01-wkzg-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-01T16:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-02-ai-plus-mri-yields-the-ability-to-recognize-what-the-mind-is-hearing.md",
+      "title": "AI plus MRI yields the ability to recognize what the mind is hearing",
+      "excerpt": "Combined with a detailed knowledge of which regions of the brain are involved in specific processes, we've been able to do remarkable things, such as using functional MRI (fMRI) to determine what letter a person was looking at or an implant to control a robotic arm But today,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/science/2023/05/ai-plus-mri-yields-the-ability-to-recognize-what-the-mind-is-hearing/",
+      "originalUrl": "https://arstechnica.com/science/2023/05/ai-plus-mri-yields-the-ability-to-recognize-what-the-mind-is-hearing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/GettyImages-172591385-e1682975888203-800x716.jpg",
+          "width": 800,
+          "height": 716,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/science/2023/05/ai-plus-mri-yields-the-ability-to-recognize-what-the-mind-is-hearing/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/science/2023/05/ai-plus-mri-yields-the-ability-to-recognize-what-the-mind-is-hearing/amp/",
+      "publishedDateTime": "2023-05-01T14:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-02-why-growth-mindset-is-needed-with-ai-10-examples-of-carol-dwecks-principles-for-an-existential-moment.md",
       "title": "Why Growth Mindset Is Needed With AI – 10 Examples of Carol Dweck’s Principles for an Existential Moment",
       "excerpt": "The truth of AI is that it is an uncomfortable combination of the virtual and digital experience with our physical worlds. The application of AI could well be dangerous, like the new movie, The Artifice Girl.",
@@ -157,7 +450,7 @@
       "originalUrl": "https://techcrunch.com/2023/05/01/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 419,
+      "heat": 429,
       "tags": null,
       "images": [
         {
@@ -417,7 +710,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/anderson-selected-as-host-site-for-artificial-intelligence-bootcamp---applications-now-open-2023-05-01",
       "featuredContent": null,
       "highlight": null,
-      "heat": 278,
+      "heat": 248,
       "tags": null,
       "images": [
         {
@@ -770,7 +1063,7 @@
       "originalUrl": "https://phys.org/news/2023-05-lithography-free-photonic-chip-accuracy-artificial.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -949,290 +1242,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-01-ai-lessons-from-healthcare-overcoming-complexity-and-embracing-the-cloud.md",
-      "title": "AI lessons from healthcare: Overcoming complexity and embracing the cloud",
-      "excerpt": "The healthcare industry has pioneered some of the most effective, innovative approaches for moving AI into production.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ai-lessons-from-healthcare-overcoming-complexity-and-embracing-the-cloud/",
-      "originalUrl": "https://venturebeat.com/ai/ai-lessons-from-healthcare-overcoming-complexity-and-embracing-the-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-01T06:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-05-01-emotiv-enlists-two-machine-learning-heavyweights-as-ai-takes-aim-at-the-human-brain.md",
-      "title": "EMOTIV Enlists Two Machine Learning Heavyweights as AI Takes Aim at the Human Brain",
-      "excerpt": "Dr. Flake has been appointed CTO for EMOTIV after helming R&D teams for large technology companies across two decades. Author of the seminal book, The Computational Beauty of Nature, he earned renown as a scientist in academic and research circles before applying his knowledge within the commercial sector.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/emotiv-enlists-two-machine-learning-heavyweights-as-ai-takes-aim-at-the-human-brain-2023-05-01",
-      "originalUrl": "https://www.marketwatch.com/press-release/emotiv-enlists-two-machine-learning-heavyweights-as-ai-takes-aim-at-the-human-brain-2023-05-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-01T05:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-01-backlash-against-ai-supermodels-triggers-wider-fears-in-fashion-workforce.md",
-      "title": "Backlash against AI supermodels triggers wider fears in fashion workforce",
-      "excerpt": "Anxiety about tech displacing humans is common in many industries undergoing change. But in the fashion world, those worries are colliding with other long-running labor concerns.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/business/business-news/ai-models-levis-controversy-backlash-rcna77280",
-      "originalUrl": "https://www.nbcnews.com/business/business-news/ai-models-levis-controversy-backlash-rcna77280",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-04/230405-ai-clothing-models-le-1546-e12281.jpg",
-          "width": 2500,
-          "height": 1250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna77280",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna77280",
-      "publishedDateTime": "2023-05-01T05:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-01-is-artificial-intelligence-relevant-to-insurance.md",
-      "title": "Is Artificial Intelligence relevant to Insurance?",
-      "excerpt": "Discover the benefits and challenges the insurance industry is facing with the growing use of artificial intelligence (AI).\nThe post Is Artificial Intelligence relevant to Insurance? appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/is-artificial-intelligence-relevant-to-insurance/",
-      "originalUrl": "https://www.ibm.com/blog/is-artificial-intelligence-relevant-to-insurance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/fil04436.l-e1682940146701.jpg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-01T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-01-three-trends-of-transformation-how-ai-value-based-care-vbc-will-drive-transformation-of-self-insured-healthcare.md",
-      "title": "Three Trends Of Transformation: How AI & Value-Based Care (VBC) Will Drive Transformation Of Self-Insured Healthcare",
-      "excerpt": "Healthcare is on the brink of a seismic shift, and AI is its catalyst. (1) Large Language Models extend our predictive capabilities. (2) Self-insured companies' risk profile and the patient needs are aligned.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lutzfinger/2023/05/01/three-trends-of-transformation-how-ai--value-based-care-vbc-will-drive-transformation-of-self-insured-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/lutzfinger/2023/05/01/three-trends-of-transformation-how-ai--value-based-care-vbc-will-drive-transformation-of-self-insured-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/644f0e322dfc4586460d1577/0x0.jpg?format=jpg&width=1200",
-          "width": 1024,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-01T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-05-01-next-big-wave-in-tech-investing-watch-out-for-ai-technology-unicorns.md",
-      "title": "Next big wave in tech investing? Watch out for AI ‘technology unicorns’",
-      "excerpt": "Venture capital pros expect generative AI to be “highly” or “moderately disruptive” over the next five years with more than 70% believe a wave of AI-inspired “technology unicorns” is on the horizon. Check out the results of a new survey from Pitchbook.",
-      "sourceUrl": null,
-      "webUrl": "https://wraltechwire.com/2023/05/01/next-big-wave-in-tech-investing-watch-out-for-ai-technology-unicorns/",
-      "originalUrl": "https://wraltechwire.com/2023/05/01/next-big-wave-in-tech-investing-watch-out-for-ai-technology-unicorns/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wraltechwire.com/wp-content/uploads/2019/11/cash-dollars-investing.jpg",
-          "width": 1280,
-          "height": 719,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wraltechwire.com/2023/05/01/next-big-wave-in-tech-investing-watch-out-for-ai-technology-unicorns/?amp=1",
-      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/05/01/next-big-wave-in-tech-investing-watch-out-for-ai-technology-unicorns/?amp=1",
-      "publishedDateTime": "2023-05-01T03:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WRAL TechWire",
-        "domain": "wraltechwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

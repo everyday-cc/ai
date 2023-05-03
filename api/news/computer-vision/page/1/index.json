@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-03-you-can-now-pay-using-facial-recognition-as-airtel-payments-bank-rolls-out-face-authentication-with-npci.md",
+      "title": "You Can Now Pay Using Facial Recognition As Airtel Payments Bank Rolls Out Face Authentication With NPCI",
+      "excerpt": "Customers just need to present themselves to get payment. In actuality, Airtel Payments Bank started this service.",
+      "sourceUrl": null,
+      "webUrl": "https://in.mashable.com/tech/51949/you-can-now-pay-using-facial-recognition-as-airtel-payments-bank-rolls-out-face-authentication-with",
+      "originalUrl": "https://in.mashable.com/tech/51949/you-can-now-pay-using-facial-recognition-as-airtel-payments-bank-rolls-out-face-authentication-with",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/mashable_in/seo/5/52658/52658_ntny.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-03T04:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "in.mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2023-05-02-face-recognition-device-market-forecast-trends-and-insights-till-2031.md",
       "title": "Face Recognition Device Market Forecast : Trends and Insights till 2031",
       "excerpt": "\"Face Recognition Device Market Size is projected to Reach Multimillion USD by 2031, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2031.\" Ask for a Sample Report \"Browse Detailed TOC of Face Recognition Device Market report with 153 Tables and Figures andCharts that provides exclusive data,",
@@ -10,7 +54,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/face-recognition-device-market-forecast-trends-and-insights-till-2031-2023-05-02",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -62,7 +106,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2023-2031-players-launches-revolutionary-product-line-in-coming-years-2023-05-02",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1381,40 +1425,6 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-im-a-victim-of-flawed-facial-recognition-technology-this-ca-bill-must-be-stopped-opinion.md",
-      "title": "I’m a victim of flawed facial recognition technology. This CA bill must be stopped | Opinion",
-      "excerpt": "A demonstration of facial recognition technology from the artificial intelligence company SenseTime in Shanghai, on April 17, 2018. In a major ethical leap for the tech world, Chinese start-ups ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sacbee.com/opinion/op-ed/article273692965.html",
-      "originalUrl": "https://www.sacbee.com/opinion/op-ed/article273692965.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-19T06:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sacramento Bee",
-        "domain": "sacbee.com",
         "images": null,
         "publishers": null,
         "authors": null

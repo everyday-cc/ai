@@ -2,6 +2,308 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-05-02-microsofts-work-trend-index-employee-engagement-pays-off-in-productivity-stock-price.md",
+      "title": "Microsoft’s Work Trend Index: Employee engagement pays off in productivity, stock price",
+      "excerpt": "This Microsoft Work Trend research report details the benefits of using a feedback flywheel to keep employees engaged.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/microsoft-work-trend-index-employee-engagement/",
+      "originalUrl": "https://www.techrepublic.com/article/microsoft-work-trend-index-employee-engagement/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2023/05/microsoft-gef15b3e66_1280.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/article/microsoft-work-trend-index-employee-engagement/amp/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/microsoft-work-trend-index-employee-engagement/amp/",
+      "publishedDateTime": "2023-05-02T09:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-02-sap-to-embed-ibm-watson-ai-into-sap-solutions.md",
+      "title": "SAP to Embed IBM Watson AI into SAP Solutions",
+      "excerpt": "SAP will use IBM Watson capabilities to power its digital assistant in SAP Start, which provides a unified entry point for cloud solutions from SAP. With SAP Start, users can search for, launch and interactively engage with apps provided in cloud solutions from SAP and SAP S/4HANA Cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.datanami.com/this-just-in/sap-to-embed-ibm-watson-ai-into-sap-solutions/",
+      "originalUrl": "https://www.datanami.com/this-just-in/sap-to-embed-ibm-watson-ai-into-sap-solutions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.datanami.com/wp-content/uploads/2023/02/AI-North-America23.png",
+          "width": 1664,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-02T08:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "datanami.com",
+        "domain": "datanami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-02-bring-your-own-ml-model-into-amazon-sagemaker-canvas-and-generate-accurate-predictions.md",
+      "title": "Bring your own ML model into Amazon SageMaker Canvas and generate accurate predictions",
+      "excerpt": "Machine learning (ML) helps organizations generate revenue, reduce costs, mitigate risk, drive efficiencies, and improve quality by optimizing core business functions across multiple business units such as marketing, manufacturing, operations, sales, finance, and customer service. With AWS ML, organizations",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/bring-your-own-ml-model-into-amazon-sagemaker-canvas-and-generate-accurate-predictions/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/bring-your-own-ml-model-into-amazon-sagemaker-canvas-and-generate-accurate-predictions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/02/byo-models-sagemaker-predictions.jpg",
+          "width": 960,
+          "height": 479,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-02T08:50:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-05-02-ibm-plans-to-replace-7800-jobs-with-ai-over-time-pauses-hiring-certain-positions.md",
+      "title": "IBM plans to replace 7,800 jobs with AI over time, pauses hiring certain positions",
+      "excerpt": "IBM Chief Executive Officer Arvind Krishna has revealed plans to pause hiring for about 7,800 positions that could be replaced by artificial intelligence systems over time, according to a Bloomberg news report published Monday.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/05/ibm-pauses-hiring-around-7800-roles-that-could-be-replaced-by-ai/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/05/ibm-pauses-hiring-around-7800-roles-that-could-be-replaced-by-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 201,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/ibm_cloud_hero_2-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/05/ibm-pauses-hiring-around-7800-roles-that-could-be-replaced-by-ai/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/05/ibm-pauses-hiring-around-7800-roles-that-could-be-replaced-by-ai/amp/",
+      "publishedDateTime": "2023-05-02T08:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-02-92-of-businesses-use-ai-driven-personalization-but-consumer-confidence-is-divided.md",
+      "title": "92% of businesses use AI-driven personalization but consumer confidence is divided",
+      "excerpt": "State of Personalization report highlights the significance of building customer loyalty through tailored experiences.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/92-of-businesses-use-ai-driven-personalization-but-consumer-confidence-is-divided/",
+      "originalUrl": "https://venturebeat.com/ai/92-of-businesses-use-ai-driven-personalization-but-consumer-confidence-is-divided/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2015/07/personalization-marketing-targeting-e1683039275909.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/92-of-businesses-use-ai-driven-personalization-but-consumer-confidence-is-divided/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/92-of-businesses-use-ai-driven-personalization-but-consumer-confidence-is-divided/amp/",
+      "publishedDateTime": "2023-05-02T08:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-02-artificial-intelligence-is-already-causing-disruption-and-job-losses-at-ibm-and-chegg.md",
+      "title": "Artificial Intelligence Is Already Causing Disruption And Job Losses At IBM And Chegg",
+      "excerpt": "We are seeing the effects of disruptive technology. Chegg, an educational company, and IBM have both announced that AI will cause a change within their respective organizations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jackkelly/2023/05/02/artificial-intelligence-is-already-causing-disruption-and-job-losses-at-ibm-and-chegg/",
+      "originalUrl": "https://www.forbes.com/sites/jackkelly/2023/05/02/artificial-intelligence-is-already-causing-disruption-and-job-losses-at-ibm-and-chegg/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/615077097475eceab8f6ae3e/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 796,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jackkelly/2023/05/02/artificial-intelligence-is-already-causing-disruption-and-job-losses-at-ibm-and-chegg/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2023/05/02/artificial-intelligence-is-already-causing-disruption-and-job-losses-at-ibm-and-chegg/amp/",
+      "publishedDateTime": "2023-05-02T07:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-05-02-new-relic-launches-grok-its-ai-observability-assistant.md",
       "title": "New Relic launches Grok, its AI observability assistant",
       "excerpt": "New Relic introduces Grok, its generative AI assistant for observability, simplifying data analysis and task management for engineers.",
@@ -449,7 +751,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/face-recognition-device-market-forecast-trends-and-insights-till-2031-2023-05-02",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -648,7 +950,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2023-2031-players-launches-revolutionary-product-line-in-coming-years-2023-05-02",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -945,299 +1247,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-ai-trailers-are-extremely-funny-abominations-for-now.md",
-      "title": "AI Trailers Are Extremely Funny Abominations. For Now",
-      "excerpt": "This hellish atrocity I've just described is an AI generated trailer, designed to show the capabilities of AI created content. It is, in no uncertain terms, an abomination. It's also extremely funny.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/ai-trailers-are-extremely-funny-abominations-for-now/",
-      "originalUrl": "https://www.cnet.com/tech/ai-trailers-are-extremely-funny-abominations-for-now/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/61a5f420b79395e60ab2c3b95dc1c53900376fb7/hub/2023/05/02/53a395d2-d456-40d1-b738-f1efd94ec9f9/screen-shot-2023-05-02-at-11-17-16-am.png?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/ai-trailers-are-extremely-funny-abominations-for-now/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-trailers-are-extremely-funny-abominations-for-now/",
-      "publishedDateTime": "2023-05-01T18:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-ai-robotics-experts-in-demand-clerical-jobs-losing-shine.md",
-      "title": "‘AI, robotics experts in demand; clerical jobs losing shine’",
-      "excerpt": "ISLAMABAD: The decision about what career to opt for is often a tough choice, but knowing what jobs are in demand and how the future markets will look like could help making an informed decision. According to a new report by the World Economic Forum (WEF) artificial learning and machine learning specialists,",
-      "sourceUrl": null,
-      "webUrl": "https://www.dawn.com/news/1750426/ai-robotics-experts-in-demand-clerical-jobs-losing-shine",
-      "originalUrl": "https://www.dawn.com/news/1750426/ai-robotics-experts-in-demand-clerical-jobs-losing-shine",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dawn.com/large/2023/05/0208295449a04c8.png?r=083100",
-          "width": 798,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-01T18:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dawn",
-        "domain": "dawn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-would-you-have-a-computer-chip-installed-in-your-brain-the-tech-is-here.md",
-      "title": "Would you have a computer chip installed in your brain? The tech is here",
-      "excerpt": "Would you have a computer chip implanted in your brain? Now, what if that tech could combat paralysis, crippling depression, deafness or blindness? Sounds like a science fiction novel, but the tech is here.",
-      "sourceUrl": null,
-      "webUrl": "https://www.komando.com/technology/brain-computer-chips/885367/",
-      "originalUrl": "https://www.komando.com/technology/brain-computer-chips/885367/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.komando.com/wp-content/uploads/2023/05/kk-article-20230502-brain-implants-the-future-is-now-1200x675-1.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.komando.com/technology/brain-computer-chips/885367/?amp",
-      "cdnAmpWebUrl": "https://www-komando-com.cdn.ampproject.org/c/s/www.komando.com/technology/brain-computer-chips/885367/?amp",
-      "publishedDateTime": "2023-05-01T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kim Komando",
-        "domain": "komando.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-ai-expert-leaves-google-and-sounds-alarm-in-recent-interview.md",
-      "title": "AI Expert Leaves Google and Sounds Alarm in Recent Interview",
-      "excerpt": "Geoffrey Hinton says AI-generated photos, videos and text will make it hard for people to determine what's real and what's fake.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/misinformation/ai-expert-leaves-google-and-sounds-alarm-in-recent-interview/",
-      "originalUrl": "https://www.cnet.com/news/misinformation/ai-expert-leaves-google-and-sounds-alarm-in-recent-interview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/014b8169e48a8b750327f0d1f6f8fb03dadbdd20/hub/2023/02/08/e78fd8d8-2686-4900-8c29-27ea7e3acb47/gettyimages-1364050120.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/ai-expert-leaves-google-and-sounds-alarm-in-recent-interview/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-expert-leaves-google-and-sounds-alarm-in-recent-interview/",
-      "publishedDateTime": "2023-05-01T16:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-facial-recognition-powers-automated-apartheid-in-israel-report-says.md",
-      "title": "Facial Recognition Powers ‘Automated Apartheid’ in Israel, Report Says",
-      "excerpt": "The Israeli government is using computer vision to monitor Palestinian travel across checkpoints, according to the report.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/05/01/technology/israel-palestine-facial-recognition.html",
-      "originalUrl": "https://www.nytimes.com/2023/05/01/technology/israel-palestine-facial-recognition.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/05/02/multimedia/01JPisrael-surveil-1-print-wkzg/01israel-surveil-01-wkzg-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-01T16:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-ai-plus-mri-yields-the-ability-to-recognize-what-the-mind-is-hearing.md",
-      "title": "AI plus MRI yields the ability to recognize what the mind is hearing",
-      "excerpt": "Combined with a detailed knowledge of which regions of the brain are involved in specific processes, we've been able to do remarkable things, such as using functional MRI (fMRI) to determine what letter a person was looking at or an implant to control a robotic arm But today,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/science/2023/05/ai-plus-mri-yields-the-ability-to-recognize-what-the-mind-is-hearing/",
-      "originalUrl": "https://arstechnica.com/science/2023/05/ai-plus-mri-yields-the-ability-to-recognize-what-the-mind-is-hearing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/GettyImages-172591385-e1682975888203-800x716.jpg",
-          "width": 800,
-          "height": 716,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/science/2023/05/ai-plus-mri-yields-the-ability-to-recognize-what-the-mind-is-hearing/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/science/2023/05/ai-plus-mri-yields-the-ability-to-recognize-what-the-mind-is-hearing/amp/",
-      "publishedDateTime": "2023-05-01T14:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

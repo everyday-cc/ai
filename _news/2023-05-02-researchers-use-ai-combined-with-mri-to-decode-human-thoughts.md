@@ -41,6 +41,20 @@ related:
         width: 800
         height: 716
         isCached: true
+  - title: "Researchers used AI and MRI scans to decode thoughts - and they were mostly accurate"
+    excerpt: "The system relies to an extent on a transformer model, similar to the ones that power Open AI’s ChatGPT and Google’s Bard."
+    publishedDateTime: 2023-05-02T15:43:00Z
+    webUrl: "https://interestingengineering.com/innovation/researchers-used-ai-and-mri-scans-to-decode-thoughts-and-they-were-mostly-accurate"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 32
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/05/02/image/jpeg/6LsVEpfqTt1MPWY1k64GcUKuAIDJoGn7SCKv8nCC.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "QgUJtWgm3plOmYr9XQjN3xCp+q/UfNfVXssiUxUitvXGHInUT0RAYQ7HubKPdgF/ln1XNYM78+FrWOYBMNezX2ZGrWP1kJEDZ8KQIPjWiz/Ja21AvTpEqffcrUCTXG2lD8fPMj2dIZssYX76f9bWLwUW3JEKM9ztBFS8s7t8kJ8HDtFGKsBpM37qEVJ5qLTZw+Cp+YRzvv0XMjadjoOZD6f14qjGpr8h/tn2zMtYk2UBTiUmIPzQnBLjLrNKF7vS679UYhRJ98Kp70nBCcvjF7mUA0tK1nRY75x0zogUDROXkqsCInxk1VO1myrKLL8sEFOBXIiwVuuRlhO1SqWM4q8Ia6Qv5KWzY7FBaOJXuoRGhEdH9xNr2mH+w8IxxeiDPe+pIYI7B0RMSN53zX6olZabdXW0St0Tfhv6i07p0gl1c489dQQ6nL0CzE7julfvgA+pKn30WWOXKZ8OH8IIY7TDFXerxz3jK51FXkZuS+3tXxmBWJwNQVyajAWQgiAW5MiRUsh2vsDvb67PKG8NJA==;u3zv+GDobDbIHjv/RAxvkw=="
 ---

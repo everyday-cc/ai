@@ -2,6 +2,195 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-03-these-robot-arms-were-designed-to-help-humans-interact-with-ai.md",
+      "title": "These robot arms were designed to help humans interact with AI",
+      "excerpt": "Jizai Arms is a system of supernumerary robotic limbs. Up to six of these arms can be worn and controlled by the user. The limbs allow the wearer to attach, detach, replace or edit the arms. This was designed to enable social interaction between wearers to support human beings acting with robots and AIs while maintaining a sense of self-awareness and widening the possibility of human actions.",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/video/robot-arms-jizai-bodies",
+      "originalUrl": "https://mashable.com/video/robot-arms-jizai-bodies",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/videos/04dRP8kLvImZOxp7RbvFFmD/hero-image.fill.size_1200x675.v1683028082.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-03T04:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-05-03-you-can-now-pay-using-facial-recognition-as-airtel-payments-bank-rolls-out-face-authentication-with-npci.md",
+      "title": "You Can Now Pay Using Facial Recognition As Airtel Payments Bank Rolls Out Face Authentication With NPCI",
+      "excerpt": "Customers just need to present themselves to get payment. In actuality, Airtel Payments Bank started this service.",
+      "sourceUrl": null,
+      "webUrl": "https://in.mashable.com/tech/51949/you-can-now-pay-using-facial-recognition-as-airtel-payments-bank-rolls-out-face-authentication-with",
+      "originalUrl": "https://in.mashable.com/tech/51949/you-can-now-pay-using-facial-recognition-as-airtel-payments-bank-rolls-out-face-authentication-with",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/mashable_in/seo/5/52658/52658_ntny.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-03T04:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "in.mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-05-03-ex-openai-researcher-says-theres-a-50-chance-ai-development-could-end-in-doom.md",
+      "title": "Ex-OpenAI researcher says there's a 50% chance AI development could end in 'doom'",
+      "excerpt": "Paul Christiano runs the non-profit Alignment Research Center but previously ran the language model alignment team at OpenAI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/openai-researcher-ai-doom-50-chatgpt-2023-5",
+      "originalUrl": "https://www.businessinsider.com/openai-researcher-ai-doom-50-chatgpt-2023-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/642f1618c328830019d9f954?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/openai-researcher-ai-doom-50-chatgpt-2023-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/openai-researcher-ai-doom-50-chatgpt-2023-5?amp",
+      "publishedDateTime": "2023-05-03T04:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-03-can-an-auditor-be-replaced-by-ai.md",
+      "title": "Can An Auditor Be Replaced By AI?",
+      "excerpt": "More people are growing concerned that AI could put at risk the careers of auditors, but how much truth is behind this fear?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/03/can-an-auditor-be-replaced-by-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/03/can-an-auditor-be-replaced-by-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64510e0d5d052fdb024e9ff2/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/03/can-an-auditor-be-replaced-by-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/03/can-an-auditor-be-replaced-by-ai/amp/",
+      "publishedDateTime": "2023-05-03T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-03-skilling-up-the-security-team-for-the-ai-dominated-era.md",
       "title": "Skilling up the security team for the AI-dominated era",
       "excerpt": "Defending against AI-enabled attackers and hardening enterprise AI systems will require new security skills. Threat hunters, data scientists, developers and prompt engineers are part of the answer.",
@@ -200,6 +389,58 @@
       ]
     },
     {
+      "path": "_news/2023-05-03-self-driving-car-for-ai-programming-market-future-growth-and-detail-analysis-of-industry-up-to-2030.md",
+      "title": "Self-Driving Car for AI Programming Market Future Growth and Detail Analysis of Industry Up to 2030",
+      "excerpt": "The following is a synopsis of a market research report on the Self-Driving Car for AI Programming Market research",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/self-driving-car-for-ai-programming-market-future-growth-and-detail-analysis-of-industry-up-to-2030-2023-05-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-car-for-ai-programming-market-future-growth-and-detail-analysis-of-industry-up-to-2030-2023-05-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-03T00:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-03-should-we-stop-developing-ai-for-the-good-of-humanity.md",
       "title": "Should We Stop Developing AI For The Good Of Humanity?",
       "excerpt": "Many high-profile tech figures, including Steve Wozniak and Elon Musk, are calling for a pause in the development of AI over concerns about its potential to cause harm, whether intentionally or unintentionally.",
@@ -298,6 +539,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-03-2023-2030-data-science-and-machine-learning-platforms-market-latest-updates.md",
+      "title": "2023-2030, Data Science and Machine-Learning Platforms Market-Latest Updates",
+      "excerpt": "To know How COVID-19 and Russia-Ukraine War Influence Will Impact This Market/Industry - Request a sample copy of the report-:  In This Reports Data Science and Machine-Learning Platforms Market Segment by Type ( Open Source Data Integration Tools,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/2023-2030-data-science-and-machine-learning-platforms-market-latest-updates-2023-05-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/2023-2030-data-science-and-machine-learning-platforms-market-latest-updates-2023-05-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-02T21:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -907,7 +1200,7 @@
       "originalUrl": "https://www.cnn.com/videos/world/2023/05/02/exp-ai-dangers-anna-stewart-reports-fst-050210aseg1-cnni-world.cnn",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -947,308 +1240,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-microsofts-work-trend-index-employee-engagement-pays-off-in-productivity-stock-price.md",
-      "title": "Microsoft’s Work Trend Index: Employee engagement pays off in productivity, stock price",
-      "excerpt": "This Microsoft Work Trend research report details the benefits of using a feedback flywheel to keep employees engaged.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/microsoft-work-trend-index-employee-engagement/",
-      "originalUrl": "https://www.techrepublic.com/article/microsoft-work-trend-index-employee-engagement/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/05/microsoft-gef15b3e66_1280.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/article/microsoft-work-trend-index-employee-engagement/amp/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/microsoft-work-trend-index-employee-engagement/amp/",
-      "publishedDateTime": "2023-05-02T09:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-sap-to-embed-ibm-watson-ai-into-sap-solutions.md",
-      "title": "SAP to Embed IBM Watson AI into SAP Solutions",
-      "excerpt": "SAP will use IBM Watson capabilities to power its digital assistant in SAP Start, which provides a unified entry point for cloud solutions from SAP. With SAP Start, users can search for, launch and interactively engage with apps provided in cloud solutions from SAP and SAP S/4HANA Cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/this-just-in/sap-to-embed-ibm-watson-ai-into-sap-solutions/",
-      "originalUrl": "https://www.datanami.com/this-just-in/sap-to-embed-ibm-watson-ai-into-sap-solutions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.datanami.com/wp-content/uploads/2023/02/AI-North-America23.png",
-          "width": 1664,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-02T08:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-bring-your-own-ml-model-into-amazon-sagemaker-canvas-and-generate-accurate-predictions.md",
-      "title": "Bring your own ML model into Amazon SageMaker Canvas and generate accurate predictions",
-      "excerpt": "Machine learning (ML) helps organizations generate revenue, reduce costs, mitigate risk, drive efficiencies, and improve quality by optimizing core business functions across multiple business units such as marketing, manufacturing, operations, sales, finance, and customer service. With AWS ML, organizations",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/bring-your-own-ml-model-into-amazon-sagemaker-canvas-and-generate-accurate-predictions/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/bring-your-own-ml-model-into-amazon-sagemaker-canvas-and-generate-accurate-predictions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/02/byo-models-sagemaker-predictions.jpg",
-          "width": 960,
-          "height": 479,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-02T08:50:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-ibm-plans-to-replace-7800-jobs-with-ai-over-time-pauses-hiring-certain-positions.md",
-      "title": "IBM plans to replace 7,800 jobs with AI over time, pauses hiring certain positions",
-      "excerpt": "IBM Chief Executive Officer Arvind Krishna has revealed plans to pause hiring for about 7,800 positions that could be replaced by artificial intelligence systems over time, according to a Bloomberg news report published Monday.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/05/ibm-pauses-hiring-around-7800-roles-that-could-be-replaced-by-ai/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/05/ibm-pauses-hiring-around-7800-roles-that-could-be-replaced-by-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/ibm_cloud_hero_2-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/05/ibm-pauses-hiring-around-7800-roles-that-could-be-replaced-by-ai/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/05/ibm-pauses-hiring-around-7800-roles-that-could-be-replaced-by-ai/amp/",
-      "publishedDateTime": "2023-05-02T08:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-92-of-businesses-use-ai-driven-personalization-but-consumer-confidence-is-divided.md",
-      "title": "92% of businesses use AI-driven personalization but consumer confidence is divided",
-      "excerpt": "State of Personalization report highlights the significance of building customer loyalty through tailored experiences.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/92-of-businesses-use-ai-driven-personalization-but-consumer-confidence-is-divided/",
-      "originalUrl": "https://venturebeat.com/ai/92-of-businesses-use-ai-driven-personalization-but-consumer-confidence-is-divided/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2015/07/personalization-marketing-targeting-e1683039275909.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/92-of-businesses-use-ai-driven-personalization-but-consumer-confidence-is-divided/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/92-of-businesses-use-ai-driven-personalization-but-consumer-confidence-is-divided/amp/",
-      "publishedDateTime": "2023-05-02T08:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-artificial-intelligence-is-already-causing-disruption-and-job-losses-at-ibm-and-chegg.md",
-      "title": "Artificial Intelligence Is Already Causing Disruption And Job Losses At IBM And Chegg",
-      "excerpt": "We are seeing the effects of disruptive technology. Chegg, an educational company, and IBM have both announced that AI will cause a change within their respective organizations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jackkelly/2023/05/02/artificial-intelligence-is-already-causing-disruption-and-job-losses-at-ibm-and-chegg/",
-      "originalUrl": "https://www.forbes.com/sites/jackkelly/2023/05/02/artificial-intelligence-is-already-causing-disruption-and-job-losses-at-ibm-and-chegg/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/615077097475eceab8f6ae3e/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 796,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jackkelly/2023/05/02/artificial-intelligence-is-already-causing-disruption-and-job-losses-at-ibm-and-chegg/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2023/05/02/artificial-intelligence-is-already-causing-disruption-and-job-losses-at-ibm-and-chegg/amp/",
-      "publishedDateTime": "2023-05-02T07:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],
