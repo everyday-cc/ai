@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-delivery-robot-market-growth-by-2031-2023-04-28"
 type: article
 quality: 86
-heat: 176
+heat: 166
 published: true
 
 provider:
@@ -53,20 +53,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 84
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI based Edge Computing Chip Market Growth Status and Foresight till 2030"
-    excerpt: "The AI based Edge Computing Chip Market has been comprehensively examined in a new research report published by Absolutereports.com. This report provides a complete overview of the market scenario, including latest trends,"
-    publishedDateTime: 2023-04-28T08:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-based-edge-computing-chip-market-growth-status-and-foresight-till-2030-2023-04-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 83
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

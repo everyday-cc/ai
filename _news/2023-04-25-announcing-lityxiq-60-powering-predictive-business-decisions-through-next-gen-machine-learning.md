@@ -1,26 +1,25 @@
 ---
 category: news
 title: "Announcing LityxIQ 6.0 - Powering Predictive Business Decisions Through Next-Gen Machine Learning"
-excerpt: "Lityx makes its leading alternative AI and MLOps platform easier to deliver value for organizations focused on digital transformation WILMINGTON, Del.,  /PRNewswire/ -- Lityx, LLC today announced the release of LityxIQ 6."
-publishedDateTime: 2023-04-25T15:51:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/04/25/9801468.htm"
-webUrl: "https://it.tmcnet.com/news/2023/04/25/9801468.htm"
+excerpt: "Lityx makes its leading alternative AI and MLOps platform easier to deliver value for organizations focused on digital transformationWILMINGTON,"
+publishedDateTime: 2023-04-25T13:54:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/announcing-lityxiq-6-0-powering-predictive-business-decisions-through-next-gen-machine-learning-1032258784"
+webUrl: "https://markets.businessinsider.com/news/stocks/announcing-lityxiq-6-0-powering-predictive-business-decisions-through-next-gen-machine-learning-1032258784"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Machine Learning
+  - AI in Finance
   - AI
+  - Machine Learning
 
-images:
-  - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
-    width: 550
-    height: 353
-    isCached: true
-
-secured: "daqg6pC1yq/lfH5Q76F5H7wPRJHkVtsZtRpSjnizcIyUtIaYdNqj8IFJkKBGBqKxd9a+JdcFu+jrVhAif18CMmwHap0r1zxtLhV8lkYmgEK514WPaU11+XQycs6fczqc6IqSi13PUgB4fpGjrW9GZJa8gexioK1RskX07DV/P638CY05S4uazWoK7NIovgAwfCb/vSSnGOJguvh0bAcbLcYKCpA+pftUqmD9aqxpqYXdWQhKHTa7tWeKLA1wJODyEg4yKrkmK8jHF+uX3OvWD5vA7ZEhGLsFBf+iqUuAken8aTcOmRRSoaS3G7rekelzQjE2wZTjdOkO2sfEqM7xj6Clrnyw8GrN3nsndatVkQE=;SBHuAkDePyqa6/DSaQVQSQ=="
+secured: "owjRpbwpJBvOqx6KBNUi2/4KYHiDwRsev/j4ZtrCcTfREO2V/R/MmXaedeLxDP2qY8nYHp5CY5GRN61DUlP4G0u5+M7yayxciHkKnqOHGl+P5OO9mSrH2Hq2TXqwxWoY7wcFLBlkCA9DY1KFqLDfJhSjJET0C4iHV9JsUN1bAj3yStuh6Z87G59ZMSAOnH/O5FZtinj26Q3BsfRh4ocJzBukWBYUX+OcBrLdWCexROjecTmX4bremrLwiBW9cHwU0sjbi1kzDbihO6XS5kNjUXylNIzoVIYIg3Sc8OcMXBqm+qWq4W8YPVrP8TZqFGyvqXWdqmISqcb9TEoIA+OwN5MVP4c0tiPQnGzX/NPsQ/Y=;6i6Bp/jjiIApQ1E4BRMbsw=="
 ---
 

@@ -6,8 +6,8 @@ publishedDateTime: 2023-05-02T23:15:00Z
 originalUrl: "https://it.tmcnet.com/news/2023/05/02/9806317.htm"
 webUrl: "https://it.tmcnet.com/news/2023/05/02/9806317.htm"
 type: article
-quality: 25
-heat: 25
+quality: 27
+heat: 27
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"

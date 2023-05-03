@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/accenture-finds-only-9-of-enterprises-har
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/accenture-finds-only-9-of-enterprises-harness-ais-full-potential/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     height: 675
     isCached: true
 
-secured: "a+taRn1ZX8Y1JzQvD6NdMJUWmUoBr3v5PkvDQEogY4Qw8GnaQ3Wna/GYMoKIYgNxe646Ka2kaG4OK9bh+My8yywsMW7GR+SRWlQbD+/lFSeRp3quI/EUo/1HqlL4ZZ1MMF6a4TV1xuU+rHanSt3uOyOPx5yKTR6dZcCDCPnfofnZM9b1fM7hHxBYqUYgmVGIand59upDuKqGdJqA759+7mZzknPs5gCS6e3C2K96sWR1GoDCEgzk3u7xWAWpb6FY6gevRz3rjqaLZ4gt4vxYi8hv6ngfy9b67Oll6aTSvpsS5zrMa+v9iqMlwabLi6OYx6oL0KhgTFb3cr0WFUAmjUAKTaWgt54nq5dhP7EaLkw=;3lSZIR2Ec/PcrKRniQfbeA=="
+related:
+  - title: "How VentureBeat plans to use AI in its content"
+    excerpt: "Michael Nunez, the editorial director of VentureBeat, sent the following to the staff: To the VentureBeat Staff: The debate around the ethics of using generative AI was further amplified yesterday after one of the world’s leading AI data scientists Geoffrey Hinton resigned from Google out of concern that companies aren’t ensuring that generative AI is being used"
+    publishedDateTime: 2023-05-03T00:24:00Z
+    webUrl: "https://talkingbiznews.com/media-news/how-venturebeat-plans-to-use-ai-in-its-content/"
+    ampWebUrl: "https://talkingbiznews.com/media-news/how-venturebeat-plans-to-use-ai-in-its-content/amp/"
+    cdnAmpWebUrl: "https://talkingbiznews-com.cdn.ampproject.org/c/s/talkingbiznews.com/media-news/how-venturebeat-plans-to-use-ai-in-its-content/amp/"
+    type: article
+    provider:
+      name: Talking Biz News
+      domain: talkingbiznews.com
+    quality: 59
+    images:
+      - url: "https://talkingbiznews.com/wp-content/uploads/2014/10/VentureBeat.png"
+        width: 535
+        height: 477
+        isCached: true
+
+secured: "wH2LGuhuIQOOJsGQGV+CRI7ovuyuRGPx3fA6xAlZB814PyP+BmDOCcBoi7VKsJQARgdRy5lwN3Nh3Z0lokg1XqWi52WdZJFdNg0RsnviYGVDGCHsVE0U2O4xdzs6YNaGT7mK3OHY5uwn2Pl0zvIxSxdvHF+RceJ2GflmAkwoQOjf57JogXQ3ExzIVyQj+0thkccH77hzUBJHkFJWBfs6rqOFxuFbZZtjkipXZgKMXiKD297p1KNvpebgHQmJf3k1nxvZSNoxxc4jRaPwaIIkQmIL5t9XPRi+acWvrN3uNeOJQ26pDk4983NvJlWEjguWIkrPSOtZxUPXDTlGsjULFdlamAs2Rdi33bWBcIJK2QXLNirj5/YOqYNcuzcKA3aobWMahvoitzGZUN7OW1N9kDNJScRCO7n97QmtTrY4pAwl3/6azUbN1zl8INnDkwT8LAAM370KHjSLtcGcQrd3jpzqt28IyZ1o6B5NvaXizvqsu4iqzqRFV0sv+SDnfWwvFfjvPTOkuWY38rxwPYK3EA==;K+A5iJGBnjVU010S1OM4Qg=="
 ---
 

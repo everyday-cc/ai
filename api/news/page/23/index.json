@@ -2,6 +2,93 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2023-04-17-ai-could-have-a-14-trillion-impact-by-2030-here-are-3-top-stocks-to-buy-now.md",
+      "title": "AI Could Have a $14 Trillion Impact by 2030: Here Are 3 Top Stocks to Buy Now",
+      "excerpt": "Artificial intelligence has been all the rage lately, capturing the imagination of consumers and investors alike. Ark Invest estimates the opportunity from AI at $14 trillion by 2030. Palantir ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/04/16/ai-trillion-dollar-impact-2030-top-stocks-buy/",
+      "originalUrl": "https://www.fool.com/investing/2023/04/16/ai-trillion-dollar-impact-2030-top-stocks-buy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-16T13:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-17-posts-tagged-aws-artificial-intelligence-and-machine-learning-practice-lead.md",
+      "title": "Posts tagged \"AWS Artificial Intelligence and Machine Learning Practice Lead\"",
+      "excerpt": "Download this eBook to look at each of these trends to give you background on why AI and ML is so powerful today, how businesses are using it responsibly and to their benefit, and how the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.smartcompany.com.au/tag/aws-artificial-intelligence-and-machine-learning-practice-lead/",
+      "originalUrl": "https://www.smartcompany.com.au/tag/aws-artificial-intelligence-and-machine-learning-practice-lead/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.smartcompany.com.au/wp-content/uploads/2022/11/Smartcompany_Horizontal_Black_Logo_3000x4000px-e1668556442225.png?fit=3000%2C3000",
+          "width": 3000,
+          "height": 3000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-16T12:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SmartCompany",
+        "domain": "smartcompany.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-04-17-the-ai-revolution-googles-artificial-intelligence-developers-on-whats-next-in-the-field.md",
       "title": "The AI revolution: Google's artificial intelligence developers on what's next in the field",
       "excerpt": "Artificial intelligence solved an impossible problem in biology and robots powered by AI taught themselves to play soccer. The machines never get tired. They never get hungry. They learn ...",
@@ -1063,100 +1150,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-15-thailand-uses-facial-recognition-technology-in-disease-control.md",
-      "title": "Thailand uses facial recognition technology in disease control",
-      "excerpt": "Eye and facial recognition technology will be used in a pilot project in Thailand, aimed at improving healthcare services for foreign workers, refugees and ethnic people in five provinces, the Thai Department of Disease Control has said.",
-      "sourceUrl": null,
-      "webUrl": "https://en.vietnamplus.vn/thailand-uses-facial-recognition-technology-in-disease-control/251608.vnp",
-      "originalUrl": "https://en.vietnamplus.vn/thailand-uses-facial-recognition-technology-in-disease-control/251608.vnp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnimgen.vietnamplus.vn/t660/uploaded/wbxx/2023_04_15/thailand.jpg",
-          "width": 660,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://en.vietnamplus.vn/thailand-uses-facial-recognition-technology-in-disease-control/251608.amp",
-      "cdnAmpWebUrl": "https://en-vietnamplus-vn.cdn.ampproject.org/c/s/en.vietnamplus.vn/thailand-uses-facial-recognition-technology-in-disease-control/251608.amp",
-      "publishedDateTime": "2023-04-15T01:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VietnamPlus",
-        "domain": "vietnamplus.vn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-15-the-shape-of-the-new-ai-augmented-workplace-to-come.md",
-      "title": "The Shape Of The New AI-Augmented Workplace To Come",
-      "excerpt": "So we have a push-pull going on within workplaces when it comes to AI and generative AI. It may serve as a super-productive assistant to workers and professionals, or it may usurp their roles. Can AI be creative? Can it innovate on a greater scale that humans?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/04/14/the-shape-of-the-new-ai-augmented-workplace-to-come/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/04/14/the-shape-of-the-new-ai-augmented-workplace-to-come/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/643a1e7767eb5a885c63fd92/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/04/14/the-shape-of-the-new-ai-augmented-workplace-to-come/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/04/14/the-shape-of-the-new-ai-augmented-workplace-to-come/amp/",
-      "publishedDateTime": "2023-04-14T20:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

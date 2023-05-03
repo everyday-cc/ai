@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "New electric car offers world's first facial recognition and fingerprint technology"
-    excerpt: "The world's first application of facial recognition technology has been unveiled, with one electric car removing the need for a key altogether."
-    publishedDateTime: 2023-04-28T08:39:00Z
-    webUrl: "https://www.express.co.uk/life-style/cars/1763884/electric-car-facial-recognition-genesis"
-    ampWebUrl: "https://www.express.co.uk/life-style/cars/1763884/electric-car-facial-recognition-genesis/amp"
-    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/cars/1763884/electric-car-facial-recognition-genesis/amp"
-    type: article
-    provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 53
-    images:
-      - url: "https://cdn.images.express.co.uk/img/dynamic/24/590x/secondary/electric-car-facial-recognition-genesis-4718602.jpg?r=1682671687005"
-        width: 590
-        height: 350
-        isCached: true
   - title: "The first smart gun with facial and fingerprint recognition is now for sale"
     excerpt: "Smart guns have mainly been the stuff of movies. In the real world, technological and political challenges have meant the high-tech devices haven't become a reality. That may be about to change."
     publishedDateTime: 2023-04-29T09:01:00Z

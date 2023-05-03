@@ -106,7 +106,7 @@
       "originalUrl": "https://www.engadget.com/godfather-of-ai-leaves-google-amid-ethical-concerns-152451800.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 448,
+      "heat": 478,
       "tags": null,
       "images": [
         {
@@ -211,7 +211,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-report-by-2023-2030-2023-04-28",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -327,6 +327,40 @@
       "provider": {
         "name": "Daily Express",
         "domain": "express.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-28-embedded-vision-summit-announces-full-conference-program-for-edge-ai-and-computer-vision-innovators-may-22-24-in-santa-clara-california.md",
+      "title": "Embedded Vision Summit® Announces Full Conference Program for Edge AI and Computer Vision Innovators, May 22-24 in Santa Clara, California",
+      "excerpt": "The premier conference and tradeshow for practical, deployable computer vision and edge AI, the Summit focuses on empowering product creators to bring perceptual intelligence to products.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-journal.com/embedded-vision-summit-announces-full-conference-program-for-edge-ai-and-computer-vision-innovators-may/article_c1e20f7d-3f5b-58b4-a4cd-4c3c9b367e3d.html",
+      "originalUrl": "https://www.news-journal.com/embedded-vision-summit-announces-full-conference-program-for-edge-ai-and-computer-vision-innovators-may/article_c1e20f7d-3f5b-58b4-a4cd-4c3c9b367e3d.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-27T14:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Longview News-Journal",
+        "domain": "news-journal.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1373,40 +1407,6 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-anchorage-assembly-heavily-limits-city-use-of-facial-recognition-technology.md",
-      "title": "Anchorage Assembly heavily limits city use of facial recognition technology",
-      "excerpt": "If the city opts to purchase and use the technology, the Assembly must approve it, and there must be a public hearing.",
-      "sourceUrl": null,
-      "webUrl": "https://alaskapublic.org/2023/04/18/anchorage-assembly-heavily-limits-city-use-of-facial-recognition-technology/",
-      "originalUrl": "https://alaskapublic.org/2023/04/18/anchorage-assembly-heavily-limits-city-use-of-facial-recognition-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-18T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Alaska Public Media",
-        "domain": "alaskapublic.org",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,57 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2023-04-30-4-tech-giants-mentioned-ai-a-total-of-168-times-on-earnings-calls-showing-just-how-much-attention-the-tech-is-attracting.md",
-      "title": "4 tech giants mentioned AI a total of 168 times on earnings calls, showing just how much attention the tech is attracting",
-      "excerpt": "Alphabet cited artificial intelligence the most often on its investor call last week, followed by Microsoft, Meta, and Amazon.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/tech-giants-mentioned-ai-168-times-on-earnings-calls-2023-4",
-      "originalUrl": "https://www.businessinsider.com/tech-giants-mentioned-ai-168-times-on-earnings-calls-2023-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/63f5f92d5ca81e001855ac7b?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/tech-giants-mentioned-ai-168-times-on-earnings-calls-2023-4?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tech-giants-mentioned-ai-168-times-on-earnings-calls-2023-4?amp",
-      "publishedDateTime": "2023-04-30T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-30-promises-perils-and-predictions-for-artificial-intelligence-in-medicine-a-radiologists-perspective.md",
       "title": "Promises, Perils, And Predictions For Artificial Intelligence In Medicine: A Radiologist’s Perspective",
       "excerpt": "In my own field of radiology, AI will be used to enhance (but not yet replace) human radiologists making diagnoses from medical images. There are already FDA-approved AI algorithms to detect subtle internal bleeding within the brain or potentially fatal blood clots (“pulmonary embolism”) within the arteries of the lung.",
@@ -766,7 +715,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-delivery-robot-market-growth-by-2031-2023-04-28",
       "featuredContent": null,
       "highlight": null,
-      "heat": 176,
+      "heat": 166,
       "tags": null,
       "images": [
         {
@@ -871,7 +820,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-report-by-2023-2030-2023-04-28",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1258,6 +1207,58 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-28-ais-earns-seventh-microsoft-advanced-specialization-in-analytics-on-azure-securing-access-to-end-customer-funding-and-resources.md",
+      "title": "AIS Earns Seventh Microsoft Advanced Specialization in Analytics on Azure, Securing Access to End-Customer Funding and Resources",
+      "excerpt": "AIS (Applied Information Sciences), experts in helping organizations modernize and innovate with Microsoft Cloud,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ais-earns-seventh-microsoft-advanced-specialization-in-analytics-on-azure-securing-access-to-end-customer-funding-and-resources-2023-04-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/ais-earns-seventh-microsoft-advanced-specialization-in-analytics-on-azure-securing-access-to-end-customer-funding-and-resources-2023-04-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-28T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     }
   ],

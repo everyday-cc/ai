@@ -7,7 +7,7 @@ originalUrl: "https://interestingengineering.com/innovation/boston-dynamics-robo
 webUrl: "https://interestingengineering.com/innovation/boston-dynamics-robot-dog-thinks-with-chatgpt-google-tech"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,24 @@ provider:
 topics:
   - AI in Robotics
   - AI
+
+related:
+  - title: "ChatGPT Found Its Way Into a Boston Dynamics Robot Dog"
+    excerpt: "In what sounds like the start of a bad sci-fi movie, one company has added new processing capabilities to Spot that will make the robot dog easier to manage with a natural voice interface."
+    publishedDateTime: 2023-05-03T00:00:00Z
+    webUrl: "https://www.govtech.com/products/chatgpt-found-its-way-into-a-boston-dynamics-robot-dog"
+    ampWebUrl: "https://www.govtech.com/products/chatgpt-found-its-way-into-a-boston-dynamics-robot-dog?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/chatgpt-found-its-way-into-a-boston-dynamics-robot-dog?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/9d28b73/2147483647/strip/true/crop/5585x2912+0+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F4f%2Fc5%2Fad4aa04244208b3c80b81697816e%2Fshutterstock-2046244649.jpg"
+        width: 840
+        height: 438
+        isCached: true
 
 secured: "5xFm1rlzikRtFKik2cXE1NogAbcjhP27w2evjyqQYEMeT0uOCEm39ab43t5I1yPGyl3f037US4OojKWBWO9tTf5/atNZC9GojgMdsyUWa2A77PAdyyRkJYb8sFaqQecuYceVaw0tH09F1WdVgQmOW9FY/XZvJwZOQeGwqsRmqLCG1+XMDhNcUAiV+QmN2n5eHyQt/5dAT8nMaKLv9lK/8OCwS0VJ4GdgnZKQ+Ne4zqL+LdJOJlHogYRUHQl6eFaUpvri3Dpb0k3s5RkQi1n+5pqTlUvVMmjEEOY1tCwGzACG0gX7dHV+qf1e6hgFkcQPM+9kY25ujcYUNZFzcv0pG1t92m/m1IeCrJYbjEb6wd83Q1fX4Q76dke2um82VM5JVWUd5w2hzce7S2QiOMmT0s/yRjVfzpMkOGHNcwV4sutsG350XG9G5sJ4px1elNyZoQGLSsMEqdXXuRYcJX6zjMI0syL4WhFrIEDgGWyEoFXBJ4RERToZkaHcyrNZeWPJyyCzREjCEVBAr/MVcASHCw==;snvcXTESb1ftQPxsRBjOKA=="
 ---
