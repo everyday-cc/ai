@@ -24,68 +24,68 @@ images:
     isCached: true
 
 related:
-  - title: "We need to bring consent to AI"
-    excerpt: "This week's big news is that Geoffrey Hinton, a VP and Engineering Fellow at Google, and a pioneer of deep learning who developed some of the most important techniques at the heart of modern AI, is leaving the company after 10 years. But first, we need to talk about consent in AI."
-    publishedDateTime: 2023-05-02T09:47:00Z
-    webUrl: "https://www.technologyreview.com/2023/05/02/1072556/we-need-to-bring-consent-to-ai/"
-    ampWebUrl: "https://www.technologyreview.com/2023/05/02/1072556/we-need-to-bring-consent-to-ai/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/05/02/1072556/we-need-to-bring-consent-to-ai/amp/"
+  - title: "Try 4 new Arts and AI experiments"
+    excerpt: "Four new online interactive artworks from Google Arts & Culture Lab artists in residence"
+    publishedDateTime: 2023-05-03T09:00:00Z
+    webUrl: "https://blog.google/outreach-initiatives/arts-culture/try-4-new-arts-and-ai-experiments/"
+    ampWebUrl: "https://blog.google/outreach-initiatives/arts-culture/try-4-new-arts-and-ai-experiments/amp/"
+    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/arts-culture/try-4-new-arts-and-ai-experiments/amp/"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
+      name: Google
+      domain: blog.google
+    quality: 109
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/04/opt-out-writing.jpeg?w=3000"
-        width: 3000
-        height: 1688
+      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Generative_Bundle_Hero_Image_GIF.gif"
+        width: 600
+        height: 369
         isCached: true
-  - title: "Using Artificial Intelligence to Speed up Discovery of New Drugs"
-    excerpt: "Experts see a bright future in the complementary use of artificial intelligence (AI) and structure-based drug discovery for drug discovery. Researchers explain how computational methods will streamline drug discovery by predicting which drug molecules are most likely to bind with the target receptor."
-    publishedDateTime: 2023-04-30T22:01:00Z
-    webUrl: "https://neurosciencenews.com/ai-drug-discovery-23150/"
+  - title: "Art World AI-Nxiety: What Is Artificial Intelligence And How Are Artists Using It?"
+    excerpt: "This week on The Week in Art podcast: artificial intelligence (ai) and art. We explore some of the key aspects relating to AI and its use in the art"
+    publishedDateTime: 2023-04-29T01:53:00Z
+    webUrl: "https://menafn.com/1106128692/Art-World-AI-Nxiety-What-Is-Artificial-Intelligence-And-How-Are-Artists-Using-It"
     type: article
     provider:
-      name: Neuroscience News
-      domain: neurosciencenews.com
-    quality: 41
+      name: Mena FN
+      domain: menafn.com
+    quality: 46
     images:
-      - url: "https://neurosciencenews.com/files/2023/04/ai-drug-discovery-neurosicences.jpg"
-        width: 1200
-        height: 915
+      - url: "https://menafn.com/updates/pr/2023-04/28/UAN_8b81cimage_story.jpg"
+        width: 688
+        height: 458
         isCached: true
-  - title: "Missing persons helped by artificial intelligence"
-    excerpt: "Indiana has been grappling with an unsolved murder and missing person case for years. With the help of revolutionary augmented reality (AR) and artificial intelligence (AI) crime-solving tools, attention is being brought to these cases like never before."
-    publishedDateTime: 2023-05-01T21:03:00Z
-    webUrl: "https://www.wishtv.com/news/allindiana/missing-persons-helped-by-artificial-intelligence/"
+  - title: "How AI Can Help You Design Better Meetings and Events"
+    excerpt: "They’ll also be able to use autonomous AI “agents” like AutoGPT – capable of self-directing themselves to perform multiple steps in sequences and complete complex tasks without much human prompting – to aid with every facet of research,"
+    publishedDateTime: 2023-05-02T22:50:00Z
+    webUrl: "https://www.law.com/corpcounsel/2023/05/02/how-ai-can-help-you-design-better-meetings-and-events/"
     type: article
     provider:
-      name: WISH-TV
-      domain: wishtv.com
+      name: Law
+      domain: law.com
     quality: 37
     images:
-      - url: "https://www.wishtv.com/wp-content/uploads/2023/05/kghmnbklgfblgfb.jpg"
-        width: 1512
-        height: 851
+      - url: "https://images.law.com/contrib/content/uploads/sites/428/2023/05/AI-automation-767x633.jpg"
+        width: 767
+        height: 633
         isCached: true
-  - title: "The coming AI chip shortage"
-    excerpt: "Artificial intelligence requires semiconductors with powerful graphics processing units — chips that very few companies are able to make."
-    publishedDateTime: 2023-05-01T09:59:00Z
-    webUrl: "https://www.marketplace.org/shows/marketplace-tech/the-coming-ai-chip-shortage/"
+  - title: "Rising AI and machine learning investments powering senior care advancements"
+    excerpt: "It’s perhaps no surprise that investment in AI and ML in healthcare rose over the last two years, according to new research from commercial real estate and investment company Jones Lang LaSalle."
+    publishedDateTime: 2023-05-01T04:17:00Z
+    webUrl: "https://www.mcknightsseniorliving.com/home/news/tech-daily-news/rising-ai-and-machine-learning-investments-powering-senior-care-advancements/"
     type: article
     provider:
-      name: Marketplace
-      domain: marketplace.org
-    quality: 34
-  - title: "Companies adopting AI need to move slowly and not break things"
-    excerpt: "McKinsey's State of Organizations 2023 report says two-thirds of firms are investing in AI. Companies such as Planet and Intercom are embracing it wisely."
-    publishedDateTime: 2023-05-01T06:00:00Z
-    webUrl: "https://www.fastcompany.com/90888603/applied-ai-move-slowly-not-break-things"
+      name: McKnight's Senior Living
+      domain: mcknightsseniorliving.com
+    quality: 33
+  - title: "Kickstart: AI and Industry 4.0"
+    excerpt: "Artificial intelligence may be the next logical step for Industry 4.0 practices; Looking for social media accounts worth following; University of Southern Mississippi encourages students to toss their recycling."
+    publishedDateTime: 2023-05-01T11:45:00Z
+    webUrl: "https://www.plasticsnews.com/kickstart/ai-and-industry-40"
     type: article
     provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 17
+      name: Plastics News
+      domain: plasticsnews.com
+    quality: 19
 
 secured: "/UdCS2OAGrtBYzpDnmQnZ7LPP3Z5npjLouymZTsjeLMSzrpolVrCRFWwCj6SmFJ7Yxhf3K4ZaFKuVb1GC5ZA0H4u5ieasTpKzVVFRj9jUOgmAyWbD3VjoprZ3lO1lhIqeOH0vY1EU8jqbu1dBv4N4xIi2dRvm6NbmauYUBjyCxw05VkoEMDQDggYPaBfYH293Ts9bjLAKo7Gzu5miIJSqpGCsAMr+WPSAXmNt5o3PqcvzwQmlQ7g0HMvYKiqsB5LyEP4jVRZMNEahYubYm6NdU8UB2vErp/9hOHWzWRFEb8ePtmJPAZl+59Ze8qdTy9WHVpVZx6OgJz++JKyRloNN/pzgiqvzZykQVgQHfsJp/s=;kLYTETROAfG3PRRkwREA0A=="
 ---

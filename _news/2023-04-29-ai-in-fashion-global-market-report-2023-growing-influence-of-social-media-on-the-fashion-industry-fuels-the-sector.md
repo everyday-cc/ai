@@ -27,61 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Delivery Robot Market Growth by 2031"
-    excerpt: "The latest market research report on the Global \"Artificial Intelligence Delivery Robot Market\" is segmented by"
-    publishedDateTime: 2023-04-28T16:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-delivery-robot-market-growth-by-2031-2023-04-28"
+  - title: "Global Industrial Robotics Market Report to 2026: Collaborative Robots Promote Efficiency and Innovation Presenting Opportunities"
+    excerpt: "The \"Industrial Robotics Growth Opportunities\" report has been added to ResearchAndMarkets.com's offering. Robotics usage in industrial settings has risen over the last"
+    publishedDateTime: 2023-05-03T00:45:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/05/n32178540/global-industrial-robotics-market-report-to-2026-collaborative-robots-promote-efficiency-and-innov"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32178540"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32178540"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 86
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 45
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI in Fintech Market Size, Trends and Forecast 2030"
-    excerpt: "The latest independent research report on AI in Fintech Market 2023 explore investment in Market. It classify how"
-    publishedDateTime: 2023-04-28T15:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-size-trends-and-forecast-2030-2023-04-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Computer Vision in Aerospace and Defense Market Industry Analysis, Size, Share, Growth"
-    excerpt: "The latest independent research report on Computer Vision in Aerospace and Defense Market 2023 explore investment"
-    publishedDateTime: 2023-04-28T15:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-aerospace-and-defense-market-industry-analysis-size-share-growth-2023-04-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Clinical Natural Language Processing Market Updates 2023-2031 by Marketreportsworld.com"
-    excerpt: "The research report on the \"Clinical Natural Language Processing Market\" |in-Depth Analysis Share of 2023| perhaps an"
-    publishedDateTime: 2023-05-02T04:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/clinical-natural-language-processing-market-updates-2023-2031-by-marketreportsworldcom-2023-05-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
 
 secured: "3D7Cf+EgZlqARdc63cDlodpNKkcQwkVFPV9Mg/Js6f9AHCm+r5AsAfCNMtC1JviqHn2wgiyR4gEmD9/yT/DSl5qPtGDB80w3poF3xKsk9hvrFku/dzS+XMUOh3PFf/wtwA6T4gtsaklqq7nv9+ZN03nU2YGH+31qRHDXMiFDK4aNIIvqanUtWFWrVnPO6rQtpiywSBDHAGRQaa7dRCtjdkylvgLU09JQ8dw3zDciB1W375MPFgOPeytzDz/jVw2yzH4AqY2efkLlDXAEWwU32Dw/lA7sJ113zTDXx3ft6f06ZqTGfgZ0TgG8tP31IbWDrIn9uhUmS0ySX+f1alotOL08Sg4Tqwf9/s1zs2doDwA=;ipsYbzygJHMm7D4SsYW7Lg=="

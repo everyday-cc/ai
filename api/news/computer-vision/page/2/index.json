@@ -2,6 +2,102 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-04-19-ai-computer-vision-market-hitting-new-highs-by-2030-netapp-ibm-sas-uipath.md",
+      "title": "AI Computer Vision Market Hitting New Highs by 2030 | NetApp, IBM, SAS, UiPath",
+      "excerpt": "The AI Computer Vision market report provides a detailed analysis of global market size, regional and country-level",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-computer-vision-market-hitting-new-highs-by-2030-netapp-ibm-sas-uipath-2023-04-19",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-computer-vision-market-hitting-new-highs-by-2030-netapp-ibm-sas-uipath-2023-04-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-19T02:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2023-04-19-bologna-fc-1909-becomes-the-first-club-to-use-opta-vision-stats-performs-new-ai-enriched-positional-analysis-data.md",
+      "title": "Bologna FC 1909 becomes the first club to use Opta Vision, Stats Perform's new AI-enriched positional analysis data",
+      "excerpt": "Leveraging the richest sports database, Stats Perform enhances sports competition and entertainment through machine learning and computer vision to create advanced predictions and analysis – be that for digital and broadcast media with differentiated ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/04/n31882980/bologna-fc-1909-becomes-the-first-club-to-use-opta-vision-stats-performs-new-ai-enriched-positiona",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/04/n31882980/bologna-fc-1909-becomes-the-first-club-to-use-opta-vision-stats-performs-new-ai-enriched-positiona",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-19T01:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-19-anchorage-assembly-heavily-limits-city-use-of-facial-recognition-technology.md",
       "title": "Anchorage Assembly heavily limits city use of facial recognition technology",
       "excerpt": "If the city opts to purchase and use the technology, the Assembly must approve it, and there must be a public hearing.",
@@ -1169,74 +1265,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-ai-in-computer-vision-market-expected-to-reach-457-billion-by-2028.md",
-      "title": "AI in Computer Vision Market Expected to Reach $45.7 Billion by 2028",
-      "excerpt": "By 2026, the demand for computer vision systems in developing applications, quality inspection and automation needs, and government measures to assist industrial automation and AI",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/04/04/9788354.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/04/04/9788354.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-04T14:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-03-ant-group-partners-with-zhejiang-university-to-promote-intelligent-vision-technology.md",
-      "title": "Ant Group partners with Zhejiang University to promote intelligent vision technology",
-      "excerpt": "Alibaba’s financial affiliate, Ant Group, has partnered with Zhejiang University to establish an Intelligent Vision Joint Laboratory.",
-      "sourceUrl": null,
-      "webUrl": "https://technode.com/2023/04/03/ant-group-partners-with-zhejiang-university-to-promote-intelligent-vision-technology/",
-      "originalUrl": "https://technode.com/2023/04/03/ant-group-partners-with-zhejiang-university-to-promote-intelligent-vision-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-03T00:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechNode",
-        "domain": "technode.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

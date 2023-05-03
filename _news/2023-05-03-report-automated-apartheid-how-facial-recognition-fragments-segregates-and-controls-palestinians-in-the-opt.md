@@ -39,6 +39,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "AI: Israeli Authorities Use Facial Recognition Technology To Entrench Apartheid"
+    excerpt: "Bethlehem/PNN /Amnesty International Tuesday maintained that the Israeli authorities are using facial recognition technology to entrench a"
+    publishedDateTime: 2023-05-03T08:53:00Z
+    webUrl: "https://menafn.com/1106161352/AI-Israeli-Authorities-Use-Facial-Recognition-Technology-To-Entrench-Apartheid"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 50
+    images:
+      - url: "https://menafn.com/updates/pr/2023-05/03/PNN_8501aimage_story.jpeg"
+        width: 1000
+        height: 800
+        isCached: true
   - title: "Facial recognition technology used by Israel to ‘supercharge segregation and automate apartheid,’ says Amnesty"
     excerpt: "ISRAEL is using an experimental facial recognition system to “” Amnesty International general secretary Agnes Callamard warns today. The liberal charity is publishing a new report, Automated Apartheid,"
     publishedDateTime: 2023-05-01T23:46:00Z

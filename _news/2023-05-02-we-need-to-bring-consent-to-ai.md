@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2023/05/02/1072556/we-need-to-bring
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/05/02/1072556/we-need-to-bring-consent-to-ai/amp/"
 type: article
 quality: 57
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -53,20 +53,6 @@ related:
       - url: "https://www.wishtv.com/wp-content/uploads/2023/05/kghmnbklgfblgfb.jpg"
         width: 1512
         height: 851
-        isCached: true
-  - title: "Regulating AI will put companies and governments at loggerheads"
-    excerpt: "The rapid release of generative AI tools has been a moment of reckoning. Just this week Geoffrey Hinton, a celebrated developer of AI, announced his resignation from Google, saying he regretted his work and wants to speak freely about the dangers and risks of the technology he created."
-    publishedDateTime: 2023-05-02T16:53:00Z
-    webUrl: "https://www.ft.com/content/7ef4811d-79bb-4b4f-b28f-b46430f0c9ff"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 37
-    images:
-      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
-        width: 619
-        height: 377
         isCached: true
   - title: "The coming AI chip shortage"
     excerpt: "Artificial intelligence requires semiconductors with powerful graphics processing units — chips that very few companies are able to make."

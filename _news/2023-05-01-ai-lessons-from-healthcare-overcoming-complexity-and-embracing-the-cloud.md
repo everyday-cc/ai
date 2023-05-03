@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/ai-lessons-from-healthcare-overcoming-c
 webUrl: "https://venturebeat.com/ai/ai-lessons-from-healthcare-overcoming-complexity-and-embracing-the-cloud/"
 type: article
 quality: 63
-heat: -1
-published: false
+heat: 83
+published: true
 
 provider:
   name: VentureBeat
@@ -23,22 +23,29 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "AI In Healthcare: What’s To Be Done About Data?"
-    excerpt: "The widespread deployment of AI in U.S. healthcare will succeed only with the establishment of a national infrastructure for open health data."
-    publishedDateTime: 2023-04-28T17:04:00Z
-    webUrl: "https://www.forbes.com/sites/gilpress/2023/04/28/ai-in-healthcare-whats-to-be-done-about-data/"
-    ampWebUrl: "https://www.forbes.com/sites/gilpress/2023/04/28/ai-in-healthcare-whats-to-be-done-about-data/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2023/04/28/ai-in-healthcare-whats-to-be-done-about-data/amp/"
+  - title: "Artificial intelligence is real care: the future of wellness, and AI-driven medical schemes"
+    excerpt: "For the first time, people could tangibly experience the wonders of artificial intelligence (AI) integrating itself into their daily lives across almost every industry. Source: pitinan © 123RF.com As for healthcare,"
+    publishedDateTime: 2023-05-02T11:11:00Z
+    webUrl: "https://www.bizcommunity.com/Article/196/159/238033.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
+      name: Bizcommunity
+      domain: bizcommunity.com
+    quality: 44
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/644bf84647334126cd4c7b40/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://biz-file.com/c/2304/696355-848x441.jpg?3"
+        width: 848
+        height: 441
         isCached: true
+  - title: "9 ways AI is already shaping the future of healthtech"
+    excerpt: "Amid an increasing shift from reactive care to proactive care, here are some of the latest AI developments in healthtech."
+    publishedDateTime: 2023-05-02T15:00:00Z
+    webUrl: "https://www.fastcompany.com/90890400/9-ways-ai-is-already-shaping-the-future-of-healthtech"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 17
 
 secured: "0UEiL3Xgo3Ivyfah1RYyf6zKnk0irF444mkq6zbSZ8uW881i97JO8okiDP169skWNEbsJZNkP6nDK8uukxuy+JY24gXD7LTAZ6MRpD9AHMa7D7cNf1IZ9Cd7ADbaGXoxzeyZxGKCimAPaOsMUKcYkYrlChcOQbw92InQHRKv1YDIJ8vwNRa/TBScZ1x/IWkOB2pasK5rzJD5fqMrtIh94rRQzJjzkPoZWukJ+gtK7OThZni2K9y1rZ1pD5d/qT37WqSx+YEVFH4TkO6EknkzoqcwrhKQJPnueWfsa96KnJ5ttdMSFrIwjLHrXaGYoWM3MjjeyRJb0F/R+FD0kCqnWnoa8os/Z/X2RBnHRWsq1CiElEVaXZQVJQ5+NyiFPN2xBQgF15RWzUSBo1vzAzcA3K42tUGNBnKEhVy5iSgw9ATXP007WN3gsIRnhnHLCwkYNGGyc5KMA6LcAev7iZdC8/oQk9Oc90eFYFzYky1x3c9AzixsWBQO5CxNjxiIHyNaw/x03F2Fyytj/vfUeiTv9Q==;AgBppH0KCmxpDpqQeZTSuA=="
 ---

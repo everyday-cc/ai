@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/05/03/should-we-stop-d
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/05/03/should-we-stop-developing-ai-for-the-good-of-humanity/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 98
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     height: 675
     isCached: true
 
-secured: "V5575/2CyO1FcfjuFx0Oae9bbtyOuP7U8kH+BJ7zEdRoifveqgE1M/SW1UWwL8TAJdqFwIBA1YmlmpDaZCfOp1D8wB/e8EbC1NbykBIchsiqRACmGx1EqmTUvEq2kffSzYmsW9L68+MLLTkPrYfUw3bWf9CIHmXS1iftJUenzebkqDd5hMvyGLMM/2xBv2szwE1VrFqLYyTa6rhKqnNCB8301hRn5St3T/WvNvroZVyBmMd8NyBkEdELP2Q4Q7bQ4QWymPkh516CG4GYwM7Y/QsFLJQBb2Dbs63jHXGbD9wVNQjxI/hq6KQHRIjRXHhEM7NFs8XfFoNp4FYkt6DTPgwYzWKmF2tu4yrDfaLH8hY=;X5mvJznodYrIQ7YyaArlhg=="
+related:
+  - title: "The profundity of AI"
+    excerpt: "As for the topic of AI posing a threat to human intelligence, it is a complex and controversial issue with many experts warning about the potential dangers it may pose to human intelligence. Some argue that AI could eventually surpass human intelligence,"
+    publishedDateTime: 2023-05-02T00:58:00Z
+    webUrl: "https://www.brecorder.com/news/40239781/the-profundity-of-ai"
+    type: article
+    provider:
+      name: Business Recorder
+      domain: brecorder.com
+    quality: 39
+    images:
+      - url: "https://i.brecorder.com/large/2023/05/64501a2d079b6.jpg"
+        width: 800
+        height: 455
+        isCached: true
+
+secured: "TVH5FJkKL5pVG9xNHze7aH5+4ryzHOzyNGS8dujlXwRc4HUUyTicIQqKXsqrhrRv8Vq1C/P5FqGpDQyXwskHX9NQ/jF43i/yV5pgn7+EfEyCfO+fC5ZFB2Rs9+V+1cVs6Bn7Rf//9ni2dIt6VURBj2UJ3iL4gzn9I4PKneakcFVFxFgfhT2RQi0X94MY+cLxV024y+wb5ArFpQNxBcd/Dx6ZS30015BtZONfY8kNTnoiRO3Epc83ruzUrd8vU6uFyWfZpdERUN5tmEThzt3u+fMieRblcEgcGRnK9Fbm6RpbQP8vcryMjocYuLl+3DublYUGuhp8be5cC+2BH1BsEu1njq8bS0xtfK5AZhcc7rHW6X2+XBXw5j/33sUdIs62uosBa0ltao+8jQ8XZ31b+2oismgW50UREmQgPzllx8kLeVbtw5CKPiNPXrGGb9bI66C4pv02h1CFxHYd21G4cNPMWQdvmNhtCkMamMGufbpcetKM+PNN98jDI8uZ3SLkOKFb92cTjA5nBW2vXUlfxA==;TxKyhtDWAe/bpzDRs/eGow=="
 ---
 

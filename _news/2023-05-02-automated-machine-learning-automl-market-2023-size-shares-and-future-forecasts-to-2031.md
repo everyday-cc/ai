@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Learning in Automobile Market Size, Trends and Forecast 2030"
-    excerpt: "The latest independent research report on Machine Learning in Automobile Market 2023 explore investment in Market."
-    publishedDateTime: 2023-04-28T15:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-automobile-market-size-trends-and-forecast-2030-2023-04-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "OBo1PxMzFKA/d0ohiayOIDCkJqgu3ipAuf3FEhXTJnM3b6XanjHgif1IL+AIJhZqaHHNGjS6+7e2Eu5oUVJuwEtfOY+T3MMiyijbw4fg/yWPrrJT+R/Bet1Gw3v9xJh4by2sxECTFx5efwbXdq97L4gNzSoCMS5Ty6aZm85bEr9+mvyRYUDGWfkrMxw1ND8tSjtFZ7KFBiLy8OuNusjBfjpoZc/jui+XDUR2sc3Jy/cY3l7ykH54krfZZZ2rCEEjrS4pwy7ELH9OhBc8/724BSlFWa5gINwscnbVhrYpVETiMbRMzTniUKCmgAMRuOAFiYQrm4eaJJgn5veLYYY6pcTgwyrClmZSXWZO4qlRDCE=;sCPKyb7ggR0FsAsv/JH+QQ=="
 ---

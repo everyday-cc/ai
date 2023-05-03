@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/05/02/5-amazing-ways-h
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/05/02/5-amazing-ways-how-meta-facebook-is-using-generative-ai/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://www.cio.com/wp-content/uploads/2023/05/image-EVP-2-Retail-iStock-Asawin_Klabma-1.jpg?quality=50&strip=all&w=1024"
         width: 1024
         height: 645
-        isCached: true
-  - title: "Facebook Execs Panicking as They Try to Catch Up in AI Race"
-    excerpt: "In other words, Meta was already behind well before OpenAI released its extremely popular ChatGPT chatbot back in November. Now, with OpenAI, Microsoft, and Google leading the pack, Meta CEO Mark Zuckerberg's game of catch-up has seemingly turned into an all-out scramble."
-    publishedDateTime: 2023-04-28T15:52:00Z
-    webUrl: "https://futurism.com/the-byte/facebook-execs-panicking-ai-race"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 41
-    images:
-      - url: "https://wp-assets.futurism.com/2023/04/facebook-execs-panicking-ai-race.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "SWy7PKR0g0DzkegPRboYA5vqvk2+mQOnSn04jOjzmmpBNu8PzgZLGGUvayFIUqMUfmlSzVCMoOVTY91dxMSmjtT+aCYr9dEcI5MozGrOzJ9Bg+qcW+hv6T44gTFWXEz0ITlFOD1vuT4VdL6cSl68/D+PGlKwInh8v92SeuG/gQOq81Ww9XGnfxUJMtYaeeNeOlMfHMYD5pWc2IZhS6WQj0eVf4kWVKhpK2lHEWjVDwSIrJH5ln49LM4duJRal17rLZufkcGojadY9tYG+ZHeA3oZe5Q3OZdEaeZBu6miepiyrc7vpPDN019coZVmpdS6kYPnNYCPdUyYAW1B4EuHDJK5r6SZylr/7Tcy79WzaFzYLASkTOudfnNmxcfynE5QraMhdtVVqyCI7c+gWeTDGM0tJRKvnZNyFfjOlHypDI2L2TE2A86QfJUq0Gu1Dkn03jPR7A9zoiXKiEOQs7MsVeaeTTKb97IRw53Tvzmvur1DUelEE/GsrWQDW+gPvDIhqzgfi8CVra5N4L2dwPrdpg==;ht9aPxnW6rMpfhuG5XKi4Q=="

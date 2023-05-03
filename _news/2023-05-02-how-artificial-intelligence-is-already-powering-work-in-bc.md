@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "It's not AI that is going to take you job, but someone who knows how to use AI might, economist says"
+    excerpt: "AI is \"giving more power to all workers, but especially those average workers,\" Richard Baldwin, an economist, said at a World Economic Forum panel."
+    publishedDateTime: 2023-05-03T08:00:00Z
+    webUrl: "https://www.businessinsider.com/ai-wont-take-your-job-someone-who-uses-it-might-2023-5"
+    ampWebUrl: "https://www.businessinsider.com/ai-wont-take-your-job-someone-who-uses-it-might-2023-5?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-wont-take-your-job-someone-who-uses-it-might-2023-5?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 72
+    images:
+      - url: "https://i.insider.com/64517e2ba19cbe00192dd25e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "+Ks6/DqUObhDcRSe8lz801dTnTVI7pqrOnt+YHgGcJnrEbmYmO5RcMmE3kAEO8h0vfNCbExVsS1pPXPqxg4LcReptqKp5/NN9S9hfGOIUeUYlrfGQLmNUhLeJi4Sb3oQRxow4XgQpmlTJ9Rzyw3T/02OwXckrCAGxkvGrAZCqHAwaT7d2waENj84rl+S5a3U0+kWsHJ10YnmNQ8KW0mjEc27xrInm0Y+Zp254brymE12wF/TUZ8Y9KzkDeVUE/DS058tL4zm4tZ4dFY9gP9mXitFpV7qzhZPLRheFFWYgtMh+443lCR9Igz8cILWyo2K5HY4sf8Xg1OL5wi20A8RnHw44rOLsd5FqZ4tqqeEIeoCAKlpyYJ9j3/FSYs54Cs9AWXDrkIucxf3z0xjo3AV4sDl8vCs/sBlGTpOZykOESiaEbqm2o98zuGNngcdH3cpYRp8lgvgf9n1Ks02TFucsyyDbSvhCwSfs5FvC324xYA2ExwZ+M/aaX26Q4qzQm3ukiE/fkE6mUzVtOXuSspQhg==;KoLsowAXjWvlLUVxaMvv+Q=="
 ---

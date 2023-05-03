@@ -141,22 +141,6 @@ related:
         isCached: true
   - title: "‘Godfather of AI’ leaves Google, warns of tech’s dangers"
     excerpt: "Sounding alarms about artificial intelligence has become a popular pastime in the ChatGPT era, taken up by high-profile figures as varied as industrialist Elon Musk, leftist"
-    publishedDateTime: 2023-05-02T15:04:00Z
-    webUrl: "https://www.wjtv.com/news/national/godfather-of-ai-leaves-google-warns-of-techs-dangers/"
-    ampWebUrl: "https://www.wjtv.com/news/national/godfather-of-ai-leaves-google-warns-of-techs-dangers/amp/"
-    cdnAmpWebUrl: "https://www-wjtv-com.cdn.ampproject.org/c/s/www.wjtv.com/news/national/godfather-of-ai-leaves-google-warns-of-techs-dangers/amp/"
-    type: article
-    provider:
-      name: WJTV
-      domain: wjtv.com
-    quality: 59
-    images:
-      - url: "https://www.wjtv.com/wp-content/uploads/sites/72/2023/05/645150babbfa94.91067802.jpeg?w=1280"
-        width: 1280
-        height: 851
-        isCached: true
-  - title: "‘Godfather of AI’ leaves Google, warns of tech’s dangers"
-    excerpt: "Sounding alarms about artificial intelligence has become a popular pastime in the ChatGPT era, taken up by high-profile figures as varied as industrialist Elon Musk, leftist"
     publishedDateTime: 2023-05-02T17:59:00Z
     webUrl: "https://thehill.com/homenews/ap/ap-technology/godfather-of-ai-leaves-google-warns-of-techs-dangers/"
     ampWebUrl: "https://thehill.com/homenews/ap/ap-technology/godfather-of-ai-leaves-google-warns-of-techs-dangers/amp/"
@@ -170,6 +154,22 @@ related:
       - url: "https://thehill.com/wp-content/uploads/sites/2/2023/05/645150bbe6ef79.29398712.jpeg?w=1280"
         width: 1280
         height: 851
+        isCached: true
+  - title: "'Godfather of AI' leaves Google, warns of tech's dangers"
+    excerpt: "Geoffrey Hinton, the man widely considered as the “godfather” of artificial intelligence, has left Google — with a message sharing his concerns about potential dangers stemming from the same technolog"
+    publishedDateTime: 2023-05-02T14:49:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/godfather-ai-leaves-google-warns-techs-dangers-99012191"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/godfather-ai-leaves-google-warns-techs-dangers-99012191"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/godfather-ai-leaves-google-warns-techs-dangers-99012191"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 57
+    images:
+      - url: "https://s.abcnews.com/images/Business/wirestory_fa98c6a6fddab1d7c27560f6fcbad0ad_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "The Godfather of AI quits Google; warns of impending danger"
     excerpt: "In an interview with The New York Times, Hinton expressed his concerns about AI, including the spread of misinformation, the elimination of jobs, and the possibility of AI running its own code. Hinton,"
@@ -200,6 +200,22 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/Geoffrey-Hinton.png"
         width: 923
         height: 524
+        isCached: true
+  - title: "Why 'Godfather' of artificial intelligence had to 'blow the whistle' on technology"
+    excerpt: "\"I want to sort of blow the whistle and say we should worry seriously about how we stop these things getting control over us.\" Hinton's pioneering work on neural networks shaped artificial intelligence systems powering many of today's products."
+    publishedDateTime: 2023-05-03T09:05:00Z
+    webUrl: "https://www.newshub.co.nz/home/technology/2023/05/why-godfather-of-artificial-intelligence-had-to-blow-the-whistle-on-technology.html"
+    ampWebUrl: "https://www.newshub.co.nz/home/technology/2023/05/why-godfather-of-artificial-intelligence-had-to-blow-the-whistle-on-technology.amp.html"
+    cdnAmpWebUrl: "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/technology/2023/05/why-godfather-of-artificial-intelligence-had-to-blow-the-whistle-on-technology.amp.html"
+    type: article
+    provider:
+      name: Newshub
+      domain: newshub.co.nz
+    quality: 53
+    images:
+      - url: "https://www.newshub.co.nz/home/technology/2023/04/openai-ceo-considers-opening-office-in-japan-as-its-government-eyes-adoption/_jcr_content/par/image.dynimg.768.q75.jpg/v1681180133068/reuters-chatgpt-Hirokazu-Matsuno-110423-1120x640.jpg"
+        width: 768
+        height: 438
         isCached: true
   - title: "New York: ‘Godfather of artificial intelligence' warns of dangers as he quits Google"
     excerpt: "A man widely seen as the godfather of artificial intelligence (AI) has quit his job, warning about the growing dangers from developments in the field. Geoffrey Hinton, 75, announced his resignation from Google in a statement to the New York Times,"

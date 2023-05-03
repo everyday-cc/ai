@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/ariannajohnson/2023/04/28/here-are-the-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ariannajohnson/2023/04/28/here-are-the-best-ai-image-generators/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 187
+published: true
 
 provider:
   name: Forbes
@@ -30,45 +30,137 @@ images:
     isCached: true
 
 related:
-  - title: "RSA Conference 2023 Ushers In The Age Of Artificial Intelligence"
-    excerpt: "Vice President, Security, Carriers and Enterprise Networking, Will Townsend, shares his insights into what he found most compelling at RSA Conference 2023."
-    publishedDateTime: 2023-04-28T16:37:00Z
-    webUrl: "https://www.forbes.com/sites/moorinsights/2023/04/28/rsa-conference-2023-ushers-in-the-age-of-artificial-intelligence/"
-    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/04/28/rsa-conference-2023-ushers-in-the-age-of-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/04/28/rsa-conference-2023-ushers-in-the-age-of-artificial-intelligence/amp/"
+  - title: "AI Generated Trailers Are Hilarious. Enjoy Them While They Last"
+    excerpt: "This hellish atrocity I've just described is an AI-generated trailer, designed to show the capabilities of AI-created content. It is, in no uncertain terms, an abomination. It's also extremely funny."
+    publishedDateTime: 2023-05-02T23:11:00Z
+    webUrl: "https://www.cnet.com/tech/ai-trailers-are-weirdly-funny-enjoy-it-while-it-lasts/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/ai-trailers-are-weirdly-funny-enjoy-it-while-it-lasts/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-trailers-are-weirdly-funny-enjoy-it-while-it-lasts/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: CNET
+      domain: cnet.com
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/644bf598b7ad555c305df357/0x0.jpg?format=jpg&crop=802,450,x0,y0,safe&width=1200"
-        width: 802
-        height: 450
+      - url: "https://www.cnet.com/a/img/resize/61a5f420b79395e60ab2c3b95dc1c53900376fb7/hub/2023/05/02/53a395d2-d456-40d1-b738-f1efd94ec9f9/screen-shot-2023-05-02-at-11-17-16-am.png?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "The profundity of AI"
-    excerpt: "As for the topic of AI posing a threat to human intelligence, it is a complex and controversial issue with many experts warning about the potential dangers it may pose to human intelligence. Some argue that AI could eventually surpass human intelligence,"
-    publishedDateTime: 2023-05-02T00:58:00Z
-    webUrl: "https://www.brecorder.com/news/40239781/the-profundity-of-ai"
+  - title: "The AI political campaign is here"
+    excerpt: "President Barack Obama's 2008 election campaign has often been celebrated as the first to effectively use social media as a mobilization tool to capture the White House. In the 15 years since, the technology has gone from being a novel addition to a political campaign to transcending every aspect of one."
+    publishedDateTime: 2023-05-02T21:29:00Z
+    webUrl: "https://www.cnn.com/2023/05/02/politics/ai-election-ads-2024/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2023/05/02/politics/ai-election-ads-2024/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/05/02/politics/ai-election-ads-2024/index.html"
     type: article
     provider:
-      name: Business Recorder
-      domain: brecorder.com
+      name: CNN
+      domain: cnn.com
+    quality: 87
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/230502181615-rnc-beat-biden-ai-ad-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "The best AI image generators available right now"
+    excerpt: "AI image generators let you conjure up images straight from your imagination, but which one should you use? We list your options."
+    publishedDateTime: 2023-04-30T21:31:00Z
+    webUrl: "https://www.androidauthority.com/best-ai-image-generators-3318897/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 67
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/04/barack-obama-ai-image.jpg"
+        width: 1919
+        height: 1080
+        isCached: true
+  - title: "Horror’s Best And Scariest Uses of Artificial Intelligence"
+    excerpt: "From Ash in 'Alien' to STEM in 'Upgrade', these are horror's scariest uses of artificial intelligence. Read more on Dread Central."
+    publishedDateTime: 2023-04-29T01:59:00Z
+    webUrl: "https://www.dreadcentral.com/editorials/452980/horrors-best-and-scariest-uses-of-artificial-intelligence/"
+    ampWebUrl: "https://www.dreadcentral.com/editorials/452980/horrors-best-and-scariest-uses-of-artificial-intelligence/?amp"
+    cdnAmpWebUrl: "https://www-dreadcentral-com.cdn.ampproject.org/c/s/www.dreadcentral.com/editorials/452980/horrors-best-and-scariest-uses-of-artificial-intelligence/?amp"
+    type: article
+    provider:
+      name: Dread Central
+      domain: dreadcentral.com
+    quality: 59
+    images:
+      - url: "https://www.dreadcentral.com/wp-content/uploads/2023/04/AI.png"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "The CEOs of the world's biggest advertising companies just outlined how AI is about to transform their businesses"
+    excerpt: "Agencies say they've been applying AI to target ads to specific audiences ... which gives it a dedicated Azure cloud environment with secure access to the latest OpenAI GPT models. Omnicom is running more than 20 projects where it combines Omnicom's ..."
+    publishedDateTime: 2023-04-28T17:56:00Z
+    webUrl: "https://www.businessinsider.com/how-ai-transform-advertising-agencies-2023-4"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
+    images:
+      - url: "https://i.insider.com/644c089274e9330018ef966e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "The Music Industry Has an AI Problem"
+    excerpt: "However, there is no gray area here: AI-generated music must be produced in a way that is equitable and fair for artists. That will require a substantial amount of vigilance. Get your good shoes on and tie them up tight, because there's a long road ahead."
+    publishedDateTime: 2023-05-02T13:00:00Z
+    webUrl: "https://www.bloomberg.com/opinion/articles/2023-05-02/ai-drake-heart-on-my-sleeve-and-cultural-appropriation"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
+  - title: "What’s inside Box? More generative AI"
+    excerpt: "Box expands its enterprise content cloud with Box AI, generative AI that more intuitively understands and creates new enterprise content."
+    publishedDateTime: 2023-05-02T12:00:00Z
+    webUrl: "https://venturebeat.com/ai/whats-inside-box-more-generative-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
+  - title: "Vogue Just Used AI-Generated Imagery in a Nightmare Fuel Cover Shoot"
+    excerpt: "Vogue Italia's upcoming May issue will feature scenery that was instead generated by OpenAI's viral AI image generator, DALL-E 2."
+    publishedDateTime: 2023-04-29T16:37:00Z
+    webUrl: "https://futurism.com/vogue-ai-imagery-cover"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
     quality: 39
     images:
-      - url: "https://i.brecorder.com/large/2023/05/64501a2d079b6.jpg"
-        width: 800
-        height: 455
+      - url: "https://wp-assets.futurism.com/2023/04/vogue-ai-imagery-cover.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Emerging trends in 2023: The evolution of AI in online shopping"
-    excerpt: "In recent years, the AI technology has been widely adopted by the e-commerce sector and AI will witness a fast growth in the coming years so as to enable e-commerce businesses in making data-driven strategic decisions."
-    publishedDateTime: 2023-04-30T13:53:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/emerging-trends-in-2023-the-evolution-of-ai-in-online-shopping-10503931.html"
+  - title: "How to prepare for the impact of AI everywhere"
+    excerpt: "Generative AI is ushering in a new wave of computing in business – here’s how we can manage its impact while driving innovation"
+    publishedDateTime: 2023-05-02T08:42:00Z
+    webUrl: "https://www.information-age.com/how-to-prepare-for-impact-of-ai-everywhere-123503612/"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 17
+      name: Information Age
+      domain: information-age.com
+    quality: 39
+    images:
+      - url: "https://informationage-production.s3.amazonaws.com/uploads/2023/05/how-to-prepare-for-impact-of-ai-everywhere-scaled.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
+  - title: "Artificial Intelligence Will Change the World. Here Are the 3 Stocks With the Most to Gain."
+    excerpt: "Nvidia has the most to gain from artificial intelligence. Jake Lerch (Nvidia): To me, this choice is simple: No company has more to gain from the unfolding emergence of artificial"
+    publishedDateTime: 2023-04-30T12:00:00Z
+    webUrl: "https://moneymorning.com/investing/artificial-intelligence-will-change-the-world-here-are-the-3-stocks-with-the-most-to-gain/"
+    type: article
+    provider:
+      name: Money Morning
+      domain: moneymorning.com
+    quality: 24
 
 secured: "BRqHjqcoVKroJopRkgsRc4fIJ06WRZO+jUy9GTYOPxrWNzOQDCZhLV9uHyolvVZPHxJiTZXoB2Mwp/kRY/9zCmeid+SsWMnUR89ZxJdWmDhAtFGclKPXsmKQP8z2ZKxVJgPJ+j/4DGtNn7Y8Hc+5fFE6+b4nIHjxe62WKXjSIH6SOOlEqYgpe8P6SBOLpt9kJJQtHwksd59pBaxmZKUZExQdUsHonkvsxfjJFVD59EVeyy7WZufgid2upgnwoThX7RmLEXdwzCf/URVD8sn7rPsiALQKgLzT9Vzv69J9XxQ75zGRbvlwSRMMe9rKbkhdIJ5Xu1ynfjO9467saMUK41HLfYumNgTATOJFYSeFJyZN8CvEVkmsu1kn+eNGkci55fzfX89IZLo97mqxEGDuZ4JVKy94feJFo9MtqHq4d+zgxRVD3bYwAwkSvT+6yoRv+kpvn2K1Neh4ZoFvFcy8lte9WcloIBPeC0Pow5CNIf+rj9AWfMb/lXm7/eApea060TIERuG58Eb9Ol5by/n+2Q==;wlu+33hDyxoAFQUZnKSW2A=="
 ---

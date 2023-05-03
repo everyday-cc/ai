@@ -10,7 +10,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-analysis-and-forecast-to-2031-2023-05-03",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -493,6 +493,59 @@
       ]
     },
     {
+      "path": "_news/2023-04-30-machine-learning-market-size-overview-global-value-opportunities-and-sales-forecast.md",
+      "title": "Machine Learning Market Size Overview, Global Value, Opportunities and Sales Forecast",
+      "excerpt": "The global “Machine Learning Market Size” is expected to rise with an impressive CAGR and generate the highest revenue",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-market-size-overview-global-value-opportunities-and-sales-forecast-2023-04-30",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-market-size-overview-global-value-opportunities-and-sales-forecast-2023-04-30",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-30T00:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2023-04-28-aimachine-learning-market-size-trends-and-forecast-2030.md",
       "title": "AI/Machine Learning Market Size, Trends and Forecast 2030",
       "excerpt": "The latest independent research report on AI/Machine Learning Market 2023 explore investment in Market. It classify",
@@ -595,6 +648,49 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-04-28-deep-learning-system-explores-materials-interiors-from-the-outside.md",
+      "title": "Deep-learning system explores materials' interiors from the outside",
+      "excerpt": "A machine-learning method detects internal structures, voids, and cracks inside a material, based on data about the material's surface.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/04/230428130819.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/04/230428130819.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-27T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -984,34 +1080,34 @@
     {
       "path": "_news/2023-04-25-announcing-lityxiq-60-powering-predictive-business-decisions-through-next-gen-machine-learning.md",
       "title": "Announcing LityxIQ 6.0 - Powering Predictive Business Decisions Through Next-Gen Machine Learning",
-      "excerpt": "Lityx makes its leading alternative AI and MLOps platform easier to deliver value for organizations focused on digital transformation WILMINGTON, Del.,  /PRNewswire/ -- Lityx, LLC today announced the release of LityxIQ 6.",
+      "excerpt": "Lityx makes its leading alternative AI and MLOps platform easier to deliver value for organizations focused on digital transformationWILMINGTON,",
       "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/04/25/9801468.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/04/25/9801468.htm",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/announcing-lityxiq-6-0-powering-predictive-business-decisions-through-next-gen-machine-learning-1032258784",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/announcing-lityxiq-6-0-powering-predictive-business-decisions-through-next-gen-machine-learning-1032258784",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png",
-          "width": 550,
-          "height": 353,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-25T08:51:00-07:00",
+      "publishedDateTime": "2023-04-25T06:54:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1020,8 +1116,9 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI"
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1336,92 +1433,6 @@
       "provider": {
         "name": "The Indian Express",
         "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-23-5-emerging-trends-in-deep-learning-and-artificial-intelligence.md",
-      "title": "5 emerging trends in deep learning and artificial intelligence",
-      "excerpt": "Deep learning and artificial intelligence (AI) are rapidly evolving fields with new technologies emerging constantly. Five of the most promising emerging trends in this area include federated ...",
-      "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/news/5-emerging-trends-in-deep-learning-and-artificial-intelligence",
-      "originalUrl": "https://cointelegraph.com/news/5-emerging-trends-in-deep-learning-and-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-04/2685aac9-95d3-4cc0-911c-64fc6de81bba.jpg",
-          "width": 740,
-          "height": 492,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cointelegraph.com/news/5-emerging-trends-in-deep-learning-and-artificial-intelligence/amp",
-      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/5-emerging-trends-in-deep-learning-and-artificial-intelligence/amp",
-      "publishedDateTime": "2023-04-22T10:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-22-simulations-with-a-machine-learning-model-predict-a-new-phase-of-solid-hydrogen.md",
-      "title": "Simulations with a machine learning model predict a new phase of solid hydrogen",
-      "excerpt": "Hydrogen, the most abundant element in the universe, is found everywhere from the dust filling most of outer space to the cores of stars to many substances here on Earth. This would be reason enough to study hydrogen,",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-04-simulations-machine-phase-solid-hydrogen.html",
-      "originalUrl": "https://phys.org/news/2023-04-simulations-machine-phase-solid-hydrogen.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/putting-hydrogen-on-so.jpg",
-          "width": 955,
-          "height": 490,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-04-simulations-machine-phase-solid-hydrogen.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-04-simulations-machine-phase-solid-hydrogen.amp",
-      "publishedDateTime": "2023-04-21T23:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
         "images": null,
         "publishers": null,
         "authors": null

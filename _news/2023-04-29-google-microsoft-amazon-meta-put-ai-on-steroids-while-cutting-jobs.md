@@ -40,6 +40,20 @@ related:
         width: 940
         height: 940
         isCached: true
+  - title: "Microsoft will help the Google of China take its self-driving car platform global"
+    excerpt: "The biggest stories of the day delivered to your inbox."
+    publishedDateTime: 2023-04-30T23:59:00Z
+    webUrl: "https://mashable.com/article/baidu-microsoft-azure-self-driving-partnership"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 66
+    images:
+      - url: "https://helios-i.mashable.com/imagery/articles/051FNRrNs5FSwcuuEQHxqHq/hero-image.fill.size_1200x675.v1623364472.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft Earnings Takeaways: Cloud, Generative AI, The Path To E7"
     excerpt: "Analyst reports point to the potential for Azure deceleration slowing, an end to customers optimizing cloud spend and the sales potential of generative AI. Better-than-expected results from Microsoft’s latest earnings—not to mention those of cloud rivals Google and Amazon Web Services—led to a mix of analyst reports hopeful for Azure deceleration slowing,"
     publishedDateTime: 2023-05-01T14:20:00Z

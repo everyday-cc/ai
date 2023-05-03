@@ -75,36 +75,6 @@ related:
         width: 1200
         height: 631
         isCached: true
-  - title: "The CEOs of the world's biggest advertising companies just outlined how AI is about to transform their businesses"
-    excerpt: "Agencies say they've been applying AI to target ads to specific audiences ... which gives it a dedicated Azure cloud environment with secure access to the latest OpenAI GPT models. Omnicom is running more than 20 projects where it combines Omnicom's ..."
-    publishedDateTime: 2023-04-28T17:56:00Z
-    webUrl: "https://www.businessinsider.com/how-ai-transform-advertising-agencies-2023-4"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 48
-    images:
-      - url: "https://i.insider.com/644c089274e9330018ef966e?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Jeeves.Ai Launches Revolutionary AI-Powered Content Creation Tool for Businesses of All Sizes"
-    excerpt: "Today marks the launch of Jeeves.Ai, an AI startup dedicated to making artificial intelligence accessible to the masses. The company, seeded by a team of"
-    publishedDateTime: 2023-04-28T15:31:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/04/32086787/jeeves-ai-launches-revolutionary-ai-powered-content-creation-tool-for-businesses-of-all-sizes"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32086787"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32086787"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 46
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
 
 secured: "h07O2S6/w5DXzGExmV1/4j5mw/fs3dkK5Z2RSwKS9SCxfBUFKWqoGCTXoKf0ob8BMFppBhjzgSorRJoCw3jP5zfxUOYvYdADrAVO8RH69YONmlQ3lyCQqZIXh7d+fAAQQyoiNZgOlxhk/0lfy2yubKgzwp344mz3YyKdbIFYP9gU/o2YAYOsHP06G+727FZm101gq0ZQFNXbrVk/PIaSKUSJHbcAZzileNHlYwMbbmAUw7iQzjcYa7zZsfGmLutLbXsteZDFbcdJmmdhD98vTKZRweA6571IJ2hItDV4T1bkCjnwbMcLL/ubcql5uxLxKBx8mhdVtPiWaV6Xl0K7FFaiwQcxCg9jUAwyKPg9TPUKxI1wzgPdpr9kb1IAuGsn/+kwT3d/vmEa2KiVdNT8rKE1eJp1tPRJAyNBDBv0VlOnHyDs+lKKSMNQBnks3/14NujPU4S9Djq0BoYRCOm7WjxICcfdxVsg/p/X2p3xpXbcAim9sw0fjJ3GCEKr+G91sWWMMsOuTi0DygU16ZMtZg==;32Wx8vvvJL1HySrqtmD2oQ=="
 ---

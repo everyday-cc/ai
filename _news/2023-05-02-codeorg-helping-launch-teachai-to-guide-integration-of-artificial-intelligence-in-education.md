@@ -7,7 +7,7 @@ originalUrl: "https://www.geekwire.com/2023/code-org-helping-launch-teachai-to-g
 webUrl: "https://www.geekwire.com/2023/code-org-helping-launch-teachai-to-guide-integration-of-artificial-intelligence-in-education/"
 type: article
 quality: 68
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -23,20 +23,6 @@ topics:
   - AI in Education
 
 related:
-  - title: "AI for STEM Education"
-    excerpt: "Enhance STEM education with resources and discussions that investigate the world of artificial intelligence, chatbots, and machine learning."
-    publishedDateTime: 2023-04-28T16:12:00Z
-    webUrl: "https://www.sciencefriday.com/articles/ai-for-stem-education/"
-    type: article
-    provider:
-      name: Science Friday
-      domain: sciencefriday.com
-    quality: 56
-    images:
-      - url: "https://www.sciencefriday.com/wp-content/uploads/2023/04/Copy-of-Getting-Started-with-AI-Instagram-Post-Square.png?w=400"
-        width: 400
-        height: 400
-        isCached: true
   - title: "UAE Government launches 'Generative AI' guide to facilitate adoption of AI technology"
     excerpt: "The “Generative AI” guide serves as a valuable resource for government entities, enabling them to leverage the benefits of AI"
     publishedDateTime: 2023-04-30T11:26:00Z

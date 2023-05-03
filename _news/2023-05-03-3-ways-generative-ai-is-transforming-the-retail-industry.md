@@ -59,20 +59,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Facebook Execs Panicking as They Try to Catch Up in AI Race"
-    excerpt: "In other words, Meta was already behind well before OpenAI released its extremely popular ChatGPT chatbot back in November. Now, with OpenAI, Microsoft, and Google leading the pack, Meta CEO Mark Zuckerberg's game of catch-up has seemingly turned into an all-out scramble."
-    publishedDateTime: 2023-04-28T15:52:00Z
-    webUrl: "https://futurism.com/the-byte/facebook-execs-panicking-ai-race"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 41
-    images:
-      - url: "https://wp-assets.futurism.com/2023/04/facebook-execs-panicking-ai-race.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "fItC37ESWzydnDwENkLiZkguNjU2LwLqZc0wOyGJp5Qag7exo1IUHHhXCDMtmuV22J7Xhp9tuKlo10kUDfCIJwUIJAXnZS7CDwJCUGsG5BQpxOvvhG9ABk37W3+gNsikAU9rdNQe5PYDu9n8ymrXTxJGL+LNg1tJsLTM98oDtLiz/deA59bCdxSu77qSrNCvsK3/bo8V8Hhfsorqcq7jhh5FFNUTeB+rV5ThV/HMssrbyPnO13jcFXBguqYLY/FgsOG5BuciXp4eHPbD4eRgJ+yxgXApg40YBCGTcApAEvo8CmHuDVokrvhGQMsrmSzf++Jthqew3dagOBMGxOipJhz80lgkYrasItTHMGBiI3TlBc/ayeV5c0OKe2klTmCU2ka0rg873PlFlkHr2wFjTJD6X7CjTIoyQmciL+GW5+uLYVmCbnEJBNbNhsbOif6Y6WxsrMvy5G/yiZ1o9HPwUxTW6uQMiEzpGw8ci7xOhxmunmMtYP9fTKdQrsARke0zB7h3aCAxTZXIuFVhPm3XYA==;ofQmR01bUOPmPUpTTwQjOA=="
 ---

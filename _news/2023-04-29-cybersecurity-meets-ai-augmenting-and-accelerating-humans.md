@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/cybersecurity-meets-ai-augmenting-and-acc
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/cybersecurity-meets-ai-augmenting-and-accelerating-humans/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -106,6 +106,15 @@ related:
         width: 610
         height: 456
         isCached: true
+  - title: "The Lawfare Podcast: Jim Dempsey and Jonathan Spring on Adversarial Machine Learning and Cybersecurity"
+    excerpt: "Risks associated with the rapid development and deployment of artificial intelligence are getting the attention of lawmakers. But one issue that may not be getting adequate attention by policymakers or by the AI research and cybersecurity communities is the vulnerability of many AI-based systems to adversarial attack."
+    publishedDateTime: 2023-05-03T09:01:00Z
+    webUrl: "https://www.lawfareblog.com/lawfare-podcast-jim-dempsey-and-jonathan-spring-adversarial-machine-learning-and-cybersecurity"
+    type: article
+    provider:
+      name: Lawfare
+      domain: lawfareblog.com
+    quality: 3
 
 secured: "6wLj8Uw57THXsub5SNSpoFN3tlZMzgaSzgslO0mXVki9jUHxCbG/JLFqv55W/8zwbcE6umJnkJO82H6tkCkv9Qi417tAPrzG2HLS0IkpY6UDh0Wgn4bNPLiweFsO0ZyUTZQ2DhSIP6la5ymLyfQ5KvYR4NmImVua78cB4p0Kegoc0BaxgJMcfW5Ji3ApPl8PeqEcyGgXhzdjId2TUy35FT/GmB67c/9TqsBjBFvxuV71ov331eeiUrRzTl1umLWX68kn1NbsH/RlAxex06+k6qJb+PoxfR0XDhtR/Md4LyNvjZdJyk2YvKcYiOwQLUAGeHSmHnnCv8hzx4WIJPhqqmeu8E3k/goFG1M0id72bgHLAJnR2hXYxASO+b50rlHEN8MWq/1A0NhH1RkLHYZe5Pp918Thn1ePHkSowpQ59yIvD4eJDXQ/Awm91fN1QYEHaLD6Jm6WbrMhs/h0VuXpE0VEoDndYnyw5TM8NEwFjAuQiRn1TjhAW8zrJlGS9QXGHc9tLH7eVIx1DLN2Po7klA==;5m2cTsGSo5rICXSX6YVHHA=="
 ---

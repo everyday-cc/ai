@@ -437,6 +437,34 @@ related:
         width: 860
         height: 573
         isCached: true
+  - title: "LinkedIn cofounder Reid Hoffman's new AI startup Inflection launches ChatGPT-like chatbot"
+    excerpt: "Similar to the viral chatbot ChatGPT, Inflection's AI chatbot, named Pi, uses generative AI technology to interact with users through conversations, in which people can ask questions and share interests."
+    publishedDateTime: 2023-05-03T06:36:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/linkedin-cofounder-reid-hoffmans-new-ai-startup-inflection-launches-chatgpt-like-chatbot/99953134"
+    type: article
+    provider:
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 28
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-99953134,imgsize-104716,width-1200,height=765,overlay-ettelecom/internet/linkedin-cofounder-reid-hoffmans-new-ai-startup-inflection-launches-chatgpt-like-chatbot.jpg"
+        width: 1200
+        height: 765
+        isCached: true
+  - title: "Is the world ready for ChatGPT therapists?"
+    excerpt: "The current landscape of mobile mental-health apps is the result of a 70-year search to automate therapy. Now, advanced AIs pose fresh ethical questions."
+    publishedDateTime: 2023-05-03T09:39:00Z
+    webUrl: "https://www.nature.com/articles/d41586-023-01473-4"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 24
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-01473-4/d41586-023-01473-4_25290462.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "AI Impact Gets Real and Fast: IBM Pauses Hiring, Chegg Plunges on ChatGPT Challenge"
     excerpt: "Artificial intelligence is here and growing fast, putting jobs at risk and posing a complicated challenge for executives and policymakers."
     publishedDateTime: 2023-05-02T12:56:00Z
@@ -446,15 +474,15 @@ related:
       name: TheStreet.com
       domain: thestreet.com
     quality: 13
-  - title: "expert reaction to study comparing physician and AI chatbot responses to patient questions"
-    excerpt: "April 28, 2023 expert reaction to study comparing physician and AI chatbot responses to patient questions . A study published in JAMA Internal Medicine compares physician and arti"
-    publishedDateTime: 2023-04-28T15:53:00Z
-    webUrl: "https://www.sciencemediacentre.org/expert-reaction-to-study-comparing-physician-and-ai-chatbot-responses-to-patient-questions/"
+  - title: "UAE Ultra App: Botim 3.0 offers video chat, AI, money transfer, Arabic ChatGPT and more"
+    excerpt: "UAE-based Astra Tech announce launch of Botim 3.0 Ultra App UAE Ultra App: Botim 3.0 offers video chat, AI, money transfer, Arabic ChatGPT and more app development, apps, astra tech, BOTIM, UAE Techno"
+    publishedDateTime: 2023-05-03T09:57:00Z
+    webUrl: "https://www.arabianbusiness.com/industries/technology/uae-ultra-app-botim-3-0-offers-video-chat-ai-money-transfer-arabic-chatgpt-and-more"
     type: article
     provider:
-      name: Science Media Centre
-      domain: sciencemediacentre.org
-    quality: 9
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 11
 
 secured: "i405j+BnhzrHirQMm5gJylqU2nMwEzfZg0yfWWpeoe+x/jLfqdxcjGHosqcvNA0ZO6nj9AxuOJehL0SYmTP483o91Sh0k/zPKi+DE9HZGPY+/4kY0mja4IAIl2gN53fy7fP7gdmOSHY7OKhvXFjg2oQQ+7NtetJGgrSlu9Q+XQZxPahuL6WuOQHnyrXl4KwtO0T86xxhYdJr3lE8/K8G0ASaYeXR7bs8hi9Dsgnbq2mwCvHdDSgv3nOvv3VOliLgI83mC7evcnHxDBDCiEWncec3271KIFaCyaIkfUMbiWVxxYAYniH4OH1IZp/D3nKTVfx2iHzwDvsl+u0N5G/x3ytprQy2jztetY1n3DhqaLL96/onOjz/ZR0BWvNm9FDCnD2b6UIiOpu1hL049cpQXV+iaLCKtx5Y314VPbwgStiWnl99FVyC4usNY+bVpGCVsRugzfNjDZWPlU6t8vxHDBYRIGe9SpOCAq3bWEVcJbYeb8H5rej0bMpanud8XWfgkRlsKJ4lS9kpxJRFC6z6QQ==;NT1VGSm96Ip4nfinmBjo8w=="
 ---

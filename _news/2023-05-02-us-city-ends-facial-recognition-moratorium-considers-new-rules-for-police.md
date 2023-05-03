@@ -25,76 +25,81 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition Market | Report By 2023-2030"
-    excerpt: "Top “ Facial Recognition Market ” Size 2023 Key players Profiled in the Report are [, Neurotechnology, Nviso, Cognitec Systems, Daon, NEC, Techno Brain, Idemia, Animetrics, 3M, Facefirst Inc., Ayonix,"
-    publishedDateTime: 2023-04-28T16:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-report-by-2023-2030-2023-04-28"
+  - title: "Legislation introduced to regulate facial recognition technology in Baltimore"
+    excerpt: "The councilman's proposed legislation would require any new surveillance technology proposed by police departments be subject to approval by the City Council and community input."
+    publishedDateTime: 2023-05-01T21:37:00Z
+    webUrl: "https://www.wmar2news.com/local/legislation-introduced-to-regulate-facial-recognition-technology-in-baltimore"
+    ampWebUrl: "https://www.wmar2news.com/local/legislation-introduced-to-regulate-facial-recognition-technology-in-baltimore?_amp=true"
+    cdnAmpWebUrl: "https://www-wmar2news-com.cdn.ampproject.org/c/s/www.wmar2news.com/local/legislation-introduced-to-regulate-facial-recognition-technology-in-baltimore?_amp=true"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
+      name: wmar2news
+      domain: wmar2news.com
+    quality: 58
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/96db251/2147483647/strip/true/crop/640x360+0+60/resize/1280x720!/quality/90/?url=https%3A%2F%2Fmediaassets.abc2news.com%2Fphoto%2F2018%2F09%2F12%2F648987200-170667a_1536785599867_97280406_ver1.0_640_480.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Face Recognition Device Market Forecast : Trends and Insights till 2031"
-    excerpt: "\"Face Recognition Device Market Size is projected to Reach Multimillion USD by 2031, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2031.\" Ask for a Sample Report \"Browse Detailed TOC of Face Recognition Device Market report with 153 Tables and Figures andCharts that provides exclusive data,"
-    publishedDateTime: 2023-05-02T09:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-forecast-trends-and-insights-till-2031-2023-05-02"
+  - title: "City council considers new regulations on surveillance cams, facial recognition"
+    excerpt: "Councilor Burnett says the bills will create more transparency and accountability. The other bill deals with facial recognition technology being used by the Baltimore Police Department."
+    publishedDateTime: 2023-05-02T21:18:00Z
+    webUrl: "https://www.wmar2news.com/local/city-council-considers-new-regulations-on-surveillance-cams-facial-recognition"
+    ampWebUrl: "https://www.wmar2news.com/local/city-council-considers-new-regulations-on-surveillance-cams-facial-recognition?_amp=true"
+    cdnAmpWebUrl: "https://www-wmar2news-com.cdn.ampproject.org/c/s/www.wmar2news.com/local/city-council-considers-new-regulations-on-surveillance-cams-facial-recognition?_amp=true"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "A world of Mobile Speech Recognition Software Market Insights 2023-2030 at your fingertips."
-    excerpt: "The \"Mobile Speech Recognition Software Market\" study delves into the evolution of the technology industry and"
-    publishedDateTime: 2023-05-03T04:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/a-world-of-mobile-speech-recognition-software-market-insights-2023-2030-at-your-fingertips-2023-05-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Face Recognition Door Lock Market Size 2023, Latest Trends, COVID-19 Impact and Global Competition"
-    excerpt: "The global “Face Recognition Door Lock Market Size” is expected to rise with an impressive CAGR and generate the"
-    publishedDateTime: 2023-04-30T09:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-door-lock-market-size-2023-latest-trends-covid-19-impact-and-global-competition-2023-04-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
+      name: wmar2news
+      domain: wmar2news.com
     quality: 55
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://x-default-stgec.uplynk.com/ausw/slices/1ce/22f3150cc15946e68b21f11967cfb8d1/1cedfcec12e14520a27f540bd3231a82/poster_f2fd92cca85a4c328dcdaf9accf7af3b.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Machine Learning in Communication Market 2023 [Latest Report] Size is Expected to Grow at a Phenomenal CAGR till 2030 | 128 Pages Report"
-    excerpt: "The Machine Learning in Communication Market Scope and Overview Report for 2023 presents a detailed analysis of the"
-    publishedDateTime: 2023-05-02T05:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-communication-market-2023-latest-report-size-is-expected-to-grow-at-a-phenomenal-cagr-till-2030-128-pages-report-2023-05-02"
+  - title: "Baltimore Considers Facial Recognition Restrictions"
+    excerpt: "Proposed legislation would require the police department to get approval before acquiring any new surveillance technology and would establish an oversight board to monitor the city’s use."
+    publishedDateTime: 2023-05-02T21:08:00Z
+    webUrl: "https://www.governing.com/security/baltimore-considers-facial-recognition-restrictions"
+    ampWebUrl: "https://www.governing.com/security/baltimore-considers-facial-recognition-restrictions?_amp=true"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/baltimore-considers-facial-recognition-restrictions?_amp=true"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
+      name: Governing
+      domain: governing.com
+    quality: 39
+  - title: "Baltimore Bill Would Curb Private, Police Use of Face Scan Tech"
+    excerpt: "Baltimore businesses and city government would face new limits on how they use facial-recognition technology under a City Council bill introduced Monday."
+    publishedDateTime: 2023-05-02T22:32:00Z
+    webUrl: "https://news.bloomberglaw.com/privacy-and-data-security/baltimore-bill-would-curb-private-police-use-of-face-scan-tech"
+    type: article
+    provider:
+      name: news.bloomberglaw
+      domain: bloomberglaw.com
+    quality: 24
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://db0ip7zd23b50.cloudfront.net/dims4/default/2240526/2147483647/brightness/0x18/crop/7951x3055%2B0%2B144/resize/1919x740%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F0b%2Ff2%2F9c2c68574a8ea1cb52638af4e445%2Ffacial.jpg"
+        width: 1919
+        height: 737
         isCached: true
+  - title: "Baltimore Considers Restricting Facial Recognition Tech"
+    excerpt: "Baltimore’s use of surveillance and facial recognition technology would face new restrictions under legislation introduced by a city councilman this week."
+    publishedDateTime: 2023-05-02T13:51:00Z
+    webUrl: "https://www.govtech.com/public-safety/baltimore-considers-restricting-facial-recognition-tech"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 19
+  - title: "City councilman introduces bills to limit facial recognition tech"
+    excerpt: "WBAL NewsRadio 1090/FM 101.5 - New legislation could limit the use of facial recognition technology in Baltimore City."
+    publishedDateTime: 2023-05-02T12:46:00Z
+    webUrl: "https://www.wbal.com/article/609687/3/city-councilman-introduces-bills-to-limit-facial-recognition-tech"
+    type: article
+    provider:
+      name: WBAL
+      domain: wbal.com
+    quality: 19
 
 secured: "LxTXGsi7zMN+wsPyf43VAqZOHJTpUsKGCMl5Z05tq1AqzWHubqTEQo0qutBsi+h5nw7BtQ0VbjQO84zNcwn3xpT/Di85caHSEjqaz4roU/m5ahaN/R/c4Oh+cPBRVmC1uIlogZVNhJwq9QupKGuuEX+gmKBaVAPDfCVuPJPVjPPWf2II2mEJ0o3VIIIWyox6MUB7S89VJfmbqb9GCKHykrQCpzDevZXtAHk5xRq1J10zh4Av4C5RxizQ40T4b8AyZb9sO+IS4tcxee8eXNR3fcQ3SLL6yfMKowvBdg9jhfBWs1ukmmctimYzykxoMB6/Z4L8Jr9ceqgQz0Xs1IBLLYQWF1Mg+tTuggCzYCVCyTHzDSVBqPbh6F2/lTnuZcq0aUBOgXlCs2PZ9+/IJ1VMq8GjbHNvVUW5K2vDWwBgLdzLkk46bk1rPJD/LnLGBer8m7wigV+powPK0GktQe0hItIGA2bEHaa6kYmlH2Wncl3E7ATH99VWWG3GfGL9zbIJT34GaO/pXa3kg69yo9UCwQ==;QhDar4dc2tbCsn4n6w/Fsg=="
 ---

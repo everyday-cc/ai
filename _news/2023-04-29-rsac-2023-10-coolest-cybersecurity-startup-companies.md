@@ -102,6 +102,15 @@ related:
         width: 1460
         height: 821
         isCached: true
+  - title: "The Lawfare Podcast: Jim Dempsey and Jonathan Spring on Adversarial Machine Learning and Cybersecurity"
+    excerpt: "Risks associated with the rapid development and deployment of artificial intelligence are getting the attention of lawmakers. But one issue that may not be getting adequate attention by policymakers or by the AI research and cybersecurity communities is the vulnerability of many AI-based systems to adversarial attack."
+    publishedDateTime: 2023-05-03T09:01:00Z
+    webUrl: "https://www.lawfareblog.com/lawfare-podcast-jim-dempsey-and-jonathan-spring-adversarial-machine-learning-and-cybersecurity"
+    type: article
+    provider:
+      name: Lawfare
+      domain: lawfareblog.com
+    quality: 3
 
 secured: "QYl0Wn/9pi3cD26lbrTEa8htC6yeJ5HvBRJpBose41PwhdFJByMeQX3Ly2V5J/7McZkd5PJ/rD5LYdQzrLtuxRKfQUoBtfxLgmRC7yv0Q8ORqVrPdUJDnI3+Uyk/3VQCihDo4+qaHcF+gTWyn14HipS3GX8+XpfcTx+l2CiRkSbeIvR/6E8/vzGvM8QUJeNfWyhwoeU3JGkemMFFWYjZLCJjWseRWVSAYU+XbuGYcUBlb2iw1wHdOcw7DlB42UGX1RJjdTJkiGOPmSoGoaqtrzIbn7oUBaLpd4ZGZsGZi78oMZO0xkDctBv+CX3Ycy9IVWu487Qlj6s8hdCySlyYhrtb3loKvjgl7qkMwanVNvKmnm+vBCPicCWCBkaIrSpv0yH+40ZBHIX45IzpO0iMliQX87wnSo/orBKfmQyL0TKRctHaozKlrw3bngB69N+amFlABJQeMihHsbelzyw9DlQPDMytdacmidVLqPwJrZ0MN0QbtShH0oX3zElKVRT8MgxzJ8U1gV66g4zvPdf1aw==;kOHOWJZbmbt2OCl4XiKGuQ=="
 ---

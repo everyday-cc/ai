@@ -22,6 +22,17 @@ topics:
   - AI Hardware
   - AI
 
+related:
+  - title: "MIT Engineers Revolutionize Semiconductor Chip Technology With Atom-Thin Transistors"
+    excerpt: "A new low-temperature growth and fabrication technology allows the integration of 2D materials directly onto a silicon circuit, which could lead to denser and more powerful chips. Researchers from MIT"
+    publishedDateTime: 2023-05-03T07:31:00Z
+    webUrl: "https://scitechdaily.com/mit-engineers-revolutionize-semiconductor-chip-technology-with-atom-thin-transistors/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 12
+
 secured: "CrRoqdPkrYsK41XF1rqUE+0q3qUQt1EUG4uz+AsTmu30yiuKQHqqycqrhohQM295+cv5oe9z6uKoTiLoHvTSKffg9HRT/xYVW4e5SnbH3BjhH2JE3MWTM4TOY5L3KFOiO8t0hphxY+sWp+EVF7NT7tnvBh1prRS0mZxcpLRAzQZuQ4Ko7Wropi5+I4EFKwkLcc3oEEH8y5iBBsIe6HcxkF+/I45rO1RqKOfhfMCwlLd9N9FCZi4zv507bZlsP2wUeYFvMIJ47Jb/jcRVbLsPCDsq/XsPFJMTrjY5trpo9ufQRZzzSUX0d21STGR5xQlNsUYi2YSTsPsHID66RFrQvRhg+cVLtbBq22ImZrT3Hlg=;mz0r9WxwQCASFva5fd63cA=="
 ---
 

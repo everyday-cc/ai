@@ -62,6 +62,15 @@ related:
       name: CIO
       domain: cio.com
     quality: 34
+  - title: "SAP to embed IBM Watson AI"
+    excerpt: "SAP and IBM have announced that IBM Watson technology will be embedded into SAP solutions to provide new AI-driven insights and automation. SAP will use IBM Watson capabilities to power its digital assistant in SAP Start ,"
+    publishedDateTime: 2023-05-03T09:24:00Z
+    webUrl: "https://it-online.co.za/2023/05/03/sap-to-embed-ibm-watson-ai/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 34
   - title: "SAP Start will have IBM's Watson"
     excerpt: "SAP announced it has penned a deal with IBM to integrate its Watson AI into SAP Start, which in turn provides a unified entry point for cloud solutions from SAP."
     publishedDateTime: 2023-05-02T17:57:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-05-03/accel-bets-on-a
 webUrl: "https://www.bloomberg.com/news/articles/2023-05-03/accel-bets-on-ai-startups-in-india-accelerator-program-revamp"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Bloomberg L.P.
@@ -27,6 +27,19 @@ images:
     height: 800
     isCached: true
 
-secured: "l7TaaDNZeQ/8vJ/cpGiNCR0z2QKAfLH7NwpyVksNj0JbdNl/lWewd1aYNqIMe6AsIPE14jltseXOCJmem21f7bk6IwPPahQ9eARPfwQufNKylWOgijgz/tcwyqSO0cVdBKEgjx4TMy6wjVLKg0t2JlUcv2klBFPxgZ+ES778oukRd3fGnPb9QJmFWqs+1ndSR8BZl2RVSBnqsi0b+p7LaIadHmUVIUADU3NIMWltoR2dlziP+wMj7TtxrIfdxhdciiL3P3HyCT/rUk3Too6aS5UZZ7x0qmMKWEZKQxmZNuZPmfwXYBp5GD1eiLTBL38Q0bDlRGklQR4Y0tfq1PwJvNjOckCA1y2BzTDMtDe4P+g=;drU0Dsc5BHFB5ohTiuu8uA=="
+related:
+  - title: "Accel unveils Atoms 3.0 with a focus on AI and Industry 5.0 start-ups"
+    excerpt: "Venture capital firm Accel has unveiled the new avatar of its Atoms program—Atoms 3.0, which will have two theme/sector-based cohorts—artificial intelligence (AI) and Industry 5.0."
+    publishedDateTime: 2023-05-03T09:23:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/accel-unveils-atoms-30-with-a-focus-on-ai-and-industry-50-start-ups/article66806922.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/accel-unveils-atoms-30-with-a-focus-on-ai-and-industry-50-start-ups/article66806922.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/accel-unveils-atoms-30-with-a-focus-on-ai-and-industry-50-start-ups/article66806922.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 37
+
+secured: "3i1G+dsqZKU7dEpilFixovPUN3pzuR2g9AKljsCy08Md75Xtaoq0WrDKfrlyf4Sy39AxH6Dhc765+xGkGhSRg+fEt5BLWvTc/c7KaouxJukNmZrdcV97XF/hut5bw1Wb6ZiPDl5neqxbRtTorvif8UAi5izP3XAwhdaNvRwqOVFoOEKruHdhK+hKKo54zGg5NJ/rHrR72H+JavJaKtcxShtswFtSYWYCkp7ECVyaqw2Rm7d41juwQQ7d3S9dlXpZ4enOQKYMXK67hZ147saNoA1MO0Rl0ZH/CCj9VQs7R4O90EuTr+O64yXZua2LxuoRZBcPGwn2UAAs2D9/KlChppn/qrV8xR/0EOG2arAqC5asCa+p9YSqH1+Rf1fr31sfw3y2tK0S2BXkmkf8G1Da0q1he8ZQTvl7SLrccaM6eA85ebgNKXcl9IfinfY8zqPjfhikNmShU9ARN4vXt16Z/ShYcWrToKmXN6fQJ4LkJeJBJXtMLFPDKPMQYLtcv0IxwJxiIe6RLKLt9gTECr6TpA==;cbW8sWXcE2XgPuCQrxu5OA=="
 ---
 

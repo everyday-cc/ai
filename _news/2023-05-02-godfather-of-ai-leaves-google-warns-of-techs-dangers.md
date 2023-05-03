@@ -1,29 +1,28 @@
 ---
 category: news
-title: "‘Godfather of AI’ leaves Google, warns of tech’s dangers"
-excerpt: "Sounding alarms about artificial intelligence has become a popular pastime in the ChatGPT era, taken up by high-profile figures as varied as industrialist Elon Musk, leftist"
-publishedDateTime: 2023-05-02T15:04:00Z
-originalUrl: "https://www.wjtv.com/news/national/godfather-of-ai-leaves-google-warns-of-techs-dangers/"
-webUrl: "https://www.wjtv.com/news/national/godfather-of-ai-leaves-google-warns-of-techs-dangers/"
-ampWebUrl: "https://www.wjtv.com/news/national/godfather-of-ai-leaves-google-warns-of-techs-dangers/amp/"
-cdnAmpWebUrl: "https://www-wjtv-com.cdn.ampproject.org/c/s/www.wjtv.com/news/national/godfather-of-ai-leaves-google-warns-of-techs-dangers/amp/"
+title: "'Godfather of AI' leaves Google, warns of tech's dangers"
+excerpt: "Geoffrey Hinton, the man widely considered as the “godfather” of artificial intelligence, has left Google — with a message sharing his concerns about potential dangers stemming from the same technolog"
+publishedDateTime: 2023-05-02T14:49:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/godfather-ai-leaves-google-warns-techs-dangers-99012191"
+webUrl: "https://abcnews.go.com/Business/wireStory/godfather-ai-leaves-google-warns-techs-dangers-99012191"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/godfather-ai-leaves-google-warns-techs-dangers-99012191"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/godfather-ai-leaves-google-warns-techs-dangers-99012191"
 type: article
-quality: 59
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: WJTV
-  domain: wjtv.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
-  - Machine Learning
   - AI
 
 images:
-  - url: "https://www.wjtv.com/wp-content/uploads/sites/72/2023/05/645150babbfa94.91067802.jpeg?w=1280"
-    width: 1280
-    height: 851
+  - url: "https://s.abcnews.com/images/Business/wirestory_fa98c6a6fddab1d7c27560f6fcbad0ad_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -196,6 +195,22 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/Geoffrey-Hinton.png"
         width: 923
         height: 524
+        isCached: true
+  - title: "Why 'Godfather' of artificial intelligence had to 'blow the whistle' on technology"
+    excerpt: "\"I want to sort of blow the whistle and say we should worry seriously about how we stop these things getting control over us.\" Hinton's pioneering work on neural networks shaped artificial intelligence systems powering many of today's products."
+    publishedDateTime: 2023-05-03T09:05:00Z
+    webUrl: "https://www.newshub.co.nz/home/technology/2023/05/why-godfather-of-artificial-intelligence-had-to-blow-the-whistle-on-technology.html"
+    ampWebUrl: "https://www.newshub.co.nz/home/technology/2023/05/why-godfather-of-artificial-intelligence-had-to-blow-the-whistle-on-technology.amp.html"
+    cdnAmpWebUrl: "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/technology/2023/05/why-godfather-of-artificial-intelligence-had-to-blow-the-whistle-on-technology.amp.html"
+    type: article
+    provider:
+      name: Newshub
+      domain: newshub.co.nz
+    quality: 53
+    images:
+      - url: "https://www.newshub.co.nz/home/technology/2023/04/openai-ceo-considers-opening-office-in-japan-as-its-government-eyes-adoption/_jcr_content/par/image.dynimg.768.q75.jpg/v1681180133068/reuters-chatgpt-Hirokazu-Matsuno-110423-1120x640.jpg"
+        width: 768
+        height: 438
         isCached: true
   - title: "New York: ‘Godfather of artificial intelligence' warns of dangers as he quits Google"
     excerpt: "A man widely seen as the godfather of artificial intelligence (AI) has quit his job, warning about the growing dangers from developments in the field. Geoffrey Hinton, 75, announced his resignation from Google in a statement to the New York Times,"
@@ -534,6 +549,6 @@ related:
       domain: euronews.com
     quality: 10
 
-secured: "+koEcsF+Afl5BZnbChPsCotzkR6/0+Z2+RXNQJ9fh0/PM1nrShhoF7Cm3S0tHBfwZ5ktv7KJ/JjdOJO78tD/3WXDymXFet3JGLAZ5ygXbstN51pGPk2B7L+nZNpa64R8U8TEd0FVW8muuFvQq/LgpWUTJr3amc9JuSfwnQcOPa/EBsuOtRS7Hiqx8QnyvFk9JVSc8IoHVSVkuE8OPI3clU1ZrNNowrJYEdOJBodaa/vRJjujl7E1EL8bV3GR5/BWdLOPdzWVrggTa+3CZC/qF9BymOQOoPuFSEY9dz4UTKf7+7GhOJH5oWFUy66o7fcJksXSMKmnTd8b7lqEue0NIrGXJEZhUlMOqdTw/JryYaQ=;V2j/XWRGFbXOGy6w5jhBJw=="
+secured: "xv4myUFzD4szp+nVQyUwbSB98RTj+0BArocVrgoKpxplmgZVwkykimTVkXLQ03yYk/8cmRvjSUTLsuY1Rag7C04xTEj5DEtq5txJY6uDf/tlzbCq6xnh1oWgcsP4/bb+dHjox6zcH8SU4/w3hfUKSHyrNjWTPu/lAZbkoYqqLS27EK7TKab8TBBuTpr3JHYstc8ExO+AZQKjHObDG8QxxU8hPHoDZhdqvN4ZE9SNHkn7mtnjI2rTTqlbeA5zebPoP2Bx4dyMJAu2+uDC1dUJx59GNENdZmgGfvYcpL+ICGkXdntabo9/67B2feXofS7VzLVn8jm/Oo/gmdty9UkgYz+2LMtjUW8XiZ5BONxFMEk=;PH74mLqB7gQDtFtbia0nMw=="
 ---
 

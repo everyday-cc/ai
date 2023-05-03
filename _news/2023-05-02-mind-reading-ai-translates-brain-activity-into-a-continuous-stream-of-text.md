@@ -106,13 +106,13 @@ related:
     quality: 39
   - title: "Texas scientists create artificial intelligence system to read minds"
     excerpt: "The artificial intelligence system relies on a fMRI scanner to translate a person's thoughts. BSIP/Universal Images Group via Getty. Researchers at the University of Texas at Aust"
-    publishedDateTime: 2023-05-03T00:49:00Z
-    webUrl: "https://www.houstonchronicle.com/news/article/ut-artificial-intelligence-ai-reads-minds-18074052.php"
+    publishedDateTime: 2023-05-02T23:49:00Z
+    webUrl: "https://www.chron.com/news/article/ut-artificial-intelligence-ai-reads-minds-18074052.php"
     type: article
     provider:
       name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 39
+      domain: chron.com
+    quality: 37
     images:
       - url: "https://s.hdnux.com/photos/01/32/53/24/23770368/3/rawImage.jpg"
         width: 1024

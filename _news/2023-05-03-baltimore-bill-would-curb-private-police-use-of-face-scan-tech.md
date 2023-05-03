@@ -68,6 +68,20 @@ related:
       name: Governing
       domain: governing.com
     quality: 39
+  - title: "US city ends facial recognition moratorium, considers new rules for police"
+    excerpt: "City Council in Baltimore, Md. is moving to regulate the use of biometrics by city agencies, including police, after a change in local law enforcement control."
+    publishedDateTime: 2023-05-02T16:20:00Z
+    webUrl: "https://www.biometricupdate.com/202305/us-city-ends-facial-recognition-moratorium-considers-new-rules-for-police"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 37
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/10/21112034/police-body-camera.jpg"
+        width: 937
+        height: 482
+        isCached: true
   - title: "Baltimore Considers Restricting Facial Recognition Tech"
     excerpt: "Baltimore’s use of surveillance and facial recognition technology would face new restrictions under legislation introduced by a city councilman this week."
     publishedDateTime: 2023-05-02T13:51:00Z

@@ -20,15 +20,73 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Playing and Learning With Moxie, the AI-Based Robot for Kids"
-    excerpt: "Embodied’s Moxie robot wants to be your kids’ new best friend, helping them build confidence and self-esteem through AI-enhanced play. My sons and I spent some time with the 'bot; here's what we found."
-    publishedDateTime: 2023-05-02T19:53:00Z
-    webUrl: "https://www.pcmag.com/news/playing-and-learning-with-moxie-the-ai-based-robot-for-kids"
+  - title: "Try 4 new Arts and AI experiments"
+    excerpt: "Four new online interactive artworks from Google Arts & Culture Lab artists in residence"
+    publishedDateTime: 2023-05-03T09:00:00Z
+    webUrl: "https://blog.google/outreach-initiatives/arts-culture/try-4-new-arts-and-ai-experiments/"
+    ampWebUrl: "https://blog.google/outreach-initiatives/arts-culture/try-4-new-arts-and-ai-experiments/amp/"
+    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/arts-culture/try-4-new-arts-and-ai-experiments/amp/"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 64
+      name: Google
+      domain: blog.google
+    quality: 109
+    images:
+      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Generative_Bundle_Hero_Image_GIF.gif"
+        width: 600
+        height: 369
+        isCached: true
+  - title: "Art World AI-Nxiety: What Is Artificial Intelligence And How Are Artists Using It?"
+    excerpt: "This week on The Week in Art podcast: artificial intelligence (ai) and art. We explore some of the key aspects relating to AI and its use in the art"
+    publishedDateTime: 2023-04-29T01:53:00Z
+    webUrl: "https://menafn.com/1106128692/Art-World-AI-Nxiety-What-Is-Artificial-Intelligence-And-How-Are-Artists-Using-It"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 46
+    images:
+      - url: "https://menafn.com/updates/pr/2023-04/28/UAN_8b81cimage_story.jpg"
+        width: 688
+        height: 458
+        isCached: true
+  - title: "Regulating AI will put companies and governments at loggerheads"
+    excerpt: "The rapid release of generative AI tools has been a moment of reckoning. Just this week Geoffrey Hinton, a celebrated developer of AI, announced his resignation from Google, saying he regretted his work and wants to speak freely about the dangers and risks of the technology he created."
+    publishedDateTime: 2023-05-02T16:53:00Z
+    webUrl: "https://www.ft.com/content/7ef4811d-79bb-4b4f-b28f-b46430f0c9ff"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 37
+    images:
+      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
+        width: 619
+        height: 377
+        isCached: true
+  - title: "How AI Can Help You Design Better Meetings and Events"
+    excerpt: "They’ll also be able to use autonomous AI “agents” like AutoGPT – capable of self-directing themselves to perform multiple steps in sequences and complete complex tasks without much human prompting – to aid with every facet of research,"
+    publishedDateTime: 2023-05-02T22:50:00Z
+    webUrl: "https://www.law.com/corpcounsel/2023/05/02/how-ai-can-help-you-design-better-meetings-and-events/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 37
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/428/2023/05/AI-automation-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
+  - title: "Kickstart: AI and Industry 4.0"
+    excerpt: "Artificial intelligence may be the next logical step for Industry 4.0 practices; Looking for social media accounts worth following; University of Southern Mississippi encourages students to toss their recycling."
+    publishedDateTime: 2023-05-01T11:45:00Z
+    webUrl: "https://www.plasticsnews.com/kickstart/ai-and-industry-40"
+    type: article
+    provider:
+      name: Plastics News
+      domain: plasticsnews.com
+    quality: 19
 
 secured: "WgKKSPP1pC9BmYVXaEAX7GCFI/2jxBSVtnnHSEkFBDrT9iw8MjGS/Hbng7bMgEqv5Ng8Z9Hk4MYywcnlwa7TzlHsYOXZsXXU//oMbp12+ZJAqeR+to3mRRLv/dBDYvR1uh64rECPWa6f2pIcbsZPWKhDUPMIS3ADTR4H370Nx5roDWhGn1o/XvQ7rJY+86EM6iJ0ldHv+nLsePaqeinKIRnK21PZp1cSwostoBuQAjATG1bqCakpsPhEDBxJ/zLVZ8aX5BYrYCa5IMDPZAfyW/H++T5E69aIoOK+YtcXVCXhZmpjWMgQ67qX9QS5eNi8BIjHHAPR8dmMsgYWOiYaUoZF898WhAM7FQFdH4Bb8u8=;iGorwSnNnlBRzXEQYkQ4Cw=="
 ---

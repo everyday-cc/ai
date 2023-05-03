@@ -151,21 +151,21 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "‘Godfather of AI’ leaves Google, warns of tech’s dangers"
-    excerpt: "Sounding alarms about artificial intelligence has become a popular pastime in the ChatGPT era, taken up by high-profile figures as varied as industrialist Elon Musk, leftist"
-    publishedDateTime: 2023-05-02T15:04:00Z
-    webUrl: "https://www.wjtv.com/news/national/godfather-of-ai-leaves-google-warns-of-techs-dangers/"
-    ampWebUrl: "https://www.wjtv.com/news/national/godfather-of-ai-leaves-google-warns-of-techs-dangers/amp/"
-    cdnAmpWebUrl: "https://www-wjtv-com.cdn.ampproject.org/c/s/www.wjtv.com/news/national/godfather-of-ai-leaves-google-warns-of-techs-dangers/amp/"
+  - title: "'Godfather of AI' leaves Google, warns of tech's dangers"
+    excerpt: "Geoffrey Hinton, the man widely considered as the “godfather” of artificial intelligence, has left Google — with a message sharing his concerns about potential dangers stemming from the same technolog"
+    publishedDateTime: 2023-05-02T14:49:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/godfather-ai-leaves-google-warns-techs-dangers-99012191"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/godfather-ai-leaves-google-warns-techs-dangers-99012191"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/godfather-ai-leaves-google-warns-techs-dangers-99012191"
     type: article
     provider:
-      name: WJTV
-      domain: wjtv.com
-    quality: 59
+      name: ABC
+      domain: abcnews.go.com
+    quality: 57
     images:
-      - url: "https://www.wjtv.com/wp-content/uploads/sites/72/2023/05/645150babbfa94.91067802.jpeg?w=1280"
-        width: 1280
-        height: 851
+      - url: "https://s.abcnews.com/images/Business/wirestory_fa98c6a6fddab1d7c27560f6fcbad0ad_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "The Godfather of AI quits Google; warns of impending danger"
     excerpt: "In an interview with The New York Times, Hinton expressed his concerns about AI, including the spread of misinformation, the elimination of jobs, and the possibility of AI running its own code. Hinton,"
@@ -196,6 +196,22 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/Geoffrey-Hinton.png"
         width: 923
         height: 524
+        isCached: true
+  - title: "Why 'Godfather' of artificial intelligence had to 'blow the whistle' on technology"
+    excerpt: "\"I want to sort of blow the whistle and say we should worry seriously about how we stop these things getting control over us.\" Hinton's pioneering work on neural networks shaped artificial intelligence systems powering many of today's products."
+    publishedDateTime: 2023-05-03T09:05:00Z
+    webUrl: "https://www.newshub.co.nz/home/technology/2023/05/why-godfather-of-artificial-intelligence-had-to-blow-the-whistle-on-technology.html"
+    ampWebUrl: "https://www.newshub.co.nz/home/technology/2023/05/why-godfather-of-artificial-intelligence-had-to-blow-the-whistle-on-technology.amp.html"
+    cdnAmpWebUrl: "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/technology/2023/05/why-godfather-of-artificial-intelligence-had-to-blow-the-whistle-on-technology.amp.html"
+    type: article
+    provider:
+      name: Newshub
+      domain: newshub.co.nz
+    quality: 53
+    images:
+      - url: "https://www.newshub.co.nz/home/technology/2023/04/openai-ceo-considers-opening-office-in-japan-as-its-government-eyes-adoption/_jcr_content/par/image.dynimg.768.q75.jpg/v1681180133068/reuters-chatgpt-Hirokazu-Matsuno-110423-1120x640.jpg"
+        width: 768
+        height: 438
         isCached: true
   - title: "New York: ‘Godfather of artificial intelligence' warns of dangers as he quits Google"
     excerpt: "A man widely seen as the godfather of artificial intelligence (AI) has quit his job, warning about the growing dangers from developments in the field. Geoffrey Hinton, 75, announced his resignation from Google in a statement to the New York Times,"
@@ -534,6 +550,6 @@ related:
       domain: euronews.com
     quality: 10
 
-secured: "Kn7YRl5pjJX5B0rxti694I2Cc+B1Hc+jVxnCFN7Z3aZldlSzC16JSFnV79ue83xZZZEMaM0ZJxmE4UnuQLepkXEFh/1J4RR/FlAgkJQ1cFqc3c+DeWr/qAhm0rrMe5h7JUvOkfT/hHbTcYpt4YnZSSmvTPtMGdzWvC5ha+Gsh58Il/3S2EMgCfs0H7JXfaQoJ2hoXbQwD1nd27QZNnniTeaGrN4RIfhJlaeMxqAC7U6BUh73NYt0ijYZC0t4gY+4aStMAZNqirBjexi4id+CxEPoomXCqpqJOtDjZIijtY8XR+EV2RBj/oHmtERmErhEYIehkKm5YATp4gnoNSbm/SmTiIavD7XTOtoOSvlJjwY=;KdHGoDjVAZA/mXKCLSi5DA=="
+secured: "Us7VjDOAVtmPxkUhnSHo+HfIJAGvJD/9wpkpVB/lv8P8N1VD0mhX7luBbeQ7yO00KjxAY9Sy9TP3l/lsVqxo9T9elxqcPThqNi5LmgZDXqnycFyZOUPgsjDo8CK+gKLvtp0RrFggdadhSzQZAfVHDmNb5x8FgK+XfJ33bB3EQTSEZLvyESvzYKMA6VeVZfZdwxspB3NVEYXXQj/rtzmcyWDDxJy6bSUkXGTvMODwO8PNOVHmypElsIcX3AsdgENok1XmO+uoQ8LrV6K5YCiOamo7i85KgFsQJYoY18b04sWPNTBrUiuTkYAZCXQZ7KPv7mPy0njTIaLaK/HbdYj7TbHqgCiAASIC7kJG8q1XN04h+blM4+Xxn7t67uW1OdmTKkWmXWbbEmHhmb8/x0KP4IzUOYNHYs7fT4r7V4VjGDXxnKpU7s8eB6tl1kl6gKn7FQC8ukEONmx0hqiQLAS2uwwY6jJ5bKGymmUBCjeeAO7l5kpDgsc7+fvtzbmWMQrTcKqgekJKJC6jhAcIGDaRoQ==;+Pr/3dW265QUGEHl6MMuxg=="
 ---
 

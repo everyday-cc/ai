@@ -125,15 +125,15 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 19
-  - title: "9 ways AI is already shaping the future of healthtech"
-    excerpt: "Amid an increasing shift from reactive care to proactive care, here are some of the latest AI developments in healthtech."
-    publishedDateTime: 2023-05-02T15:00:00Z
-    webUrl: "https://www.fastcompany.com/90890400/9-ways-ai-is-already-shaping-the-future-of-healthtech"
+  - title: "How Artificial Intelligence is Revolutionising the Fintech Landscape?"
+    excerpt: "According to surveys, 2/3 of FinTech companies currently use AI technology in their activities to a greater or lesser extent. Its influence will increase. Last year, the worldwide market for AI solutions in the FinTech industry was assessed at roughly 9  billion USD;"
+    publishedDateTime: 2023-05-03T08:01:00Z
+    webUrl: "https://www.finextra.com/blogposting/24145/how-artificial-intelligence-is-revolutionising-the-fintech-landscape"
     type: article
     provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 17
+      name: Finextra
+      domain: finextra.com
+    quality: 19
 
 secured: "/vYdwRHtRLD2S0W0kiQCeVqprtS08WLtFfKL3X8U/as0qGBgaCNUtkeIQPl2Di/6GmgoF1N8s1SQtXHHaiOeCKoytja31wZOnq91YbH2rrwRYY7x3HL7zYrHcFN7DIdlK9AjE2mNcNDJr7/5Z1Ku2rXmR2bB5hQ7JDx/ye7a67HcTU6+yggESvhs4DUCsV+rgnuAY1DOJytW0SHIGBIG1YuTvIIszjRIEC3Q7HZHPvvD3DjQM8TRgFs09B0ib6FCtq2yUKbcL10NB8KVXz3npEPSLDKpiZOEDu4A6j6tJlfQCpMb8ke7Z5Cg2fP4i9Tyw/F2P4cmMA5lVOjgkTxnICmV7iqnu3B6G7hMpewqtRA=;u4aLwLZRWK22uyQv6X/eSg=="
 ---

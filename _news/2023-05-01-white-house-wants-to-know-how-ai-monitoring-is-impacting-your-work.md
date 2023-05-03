@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/white-house-wants-to-know-how-a
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/white-house-wants-to-know-how-ai-monitoring-is-impacting-your-work/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "It's not AI that is going to take you job, but someone who knows how to use AI might, economist says"
+    excerpt: "AI is \"giving more power to all workers, but especially those average workers,\" Richard Baldwin, an economist, said at a World Economic Forum panel."
+    publishedDateTime: 2023-05-03T08:00:00Z
+    webUrl: "https://www.businessinsider.com/ai-wont-take-your-job-someone-who-uses-it-might-2023-5"
+    ampWebUrl: "https://www.businessinsider.com/ai-wont-take-your-job-someone-who-uses-it-might-2023-5?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-wont-take-your-job-someone-who-uses-it-might-2023-5?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 72
+    images:
+      - url: "https://i.insider.com/64517e2ba19cbe00192dd25e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "How artificial intelligence is already powering work in B.C."
     excerpt: "These are some of the novel ways in which B.C. companies are using machine learning and artificial intelligence – and to the clear potential benefit of humanity. But like nuclear fission, machine super-intelligence is a Promethean power with the potential to be corrupted,"
     publishedDateTime: 2023-05-02T14:16:00Z
