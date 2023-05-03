@@ -51,6 +51,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Education Market Research Report 2022 – Industry Environment, Supply Side and Demand Side Analysis"
+    excerpt: "The global Artificial Intelligence in Education market is expected to exceed more than US$ 4 Billion by 2024 at CAGR of"
+    publishedDateTime: 2023-05-03T05:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-research-report-2022-industry-environment-supply-side-and-demand-side-analysis-2023-05-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
   - title: "Self-driving Forklift Market 2023 Growth Status and Outlook for 2030"
     excerpt: "Additionally, the report provides up-to-date information on the market and identifies growth opportunities for the Self-driving Forklift market. With a detailed market outlook, definition of the industry,"
     publishedDateTime: 2023-05-02T06:09:00Z

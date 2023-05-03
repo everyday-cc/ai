@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Here's How the Cloud is Revolutionizing Health Tech and FinTech"
-    excerpt: "Overcoming the model of office and lab work with cloud computing Cloud computing systems have allowed enterprises, schools, and government organizations to overcome pandemic-induced challenges and meaningfully accelerate innovation and agility toward the market."
-    publishedDateTime: 2023-04-28T22:39:00Z
-    webUrl: "https://www.entrepreneur.com/science-technology/cloud-revolutionizes-healthtech-fintech/450667"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 54
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1682721803-GettyImages-1365582863.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Best Fintech App Development Companies in the USA"
     excerpt: "Fintech apps are designed for various purposes such as payments, budgeting, investing, and lending. Fintech app development incorporates advanced technologies such as AI, ML, and Blockchain. Developing a fintech app requires expertise in both finance and technology,"
     publishedDateTime: 2023-05-01T09:59:00Z
@@ -69,50 +55,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Dubai is bolstering its global fintech hub status. Here’s how"
-    excerpt: "Dubai has launched wide-ranging initiatives designed to nurture entrepreneurship and support startups across the GCC region"
-    publishedDateTime: 2023-05-03T10:00:00Z
-    webUrl: "https://gulfbusiness.com/how-dubai-is-bolstering-its-fintech-hub-status/"
-    type: article
-    provider:
-      name: Gulf Business
-      domain: gulfbusiness.com
-    quality: 39
-    images:
-      - url: "https://gulfbusiness.com/wp-content/uploads/2023/05/Dubai_Mohammad-AlBlooshi-Head-of-DIFC-Innovation-Hub-and-FinTech-Hive-2023-DFS-scaled-e1683094053696.jpg"
-        width: 930
-        height: 526
-        isCached: true
-  - title: "How AI is Revolutionizing the Supply Chain and Making It More Efficient"
-    excerpt: "Have you ever wondered how Amazon can expeditiously deliver products to customers’ doorsteps shortly after placing an order? The solution to this enigma is rooted in the efficacy of Artificial Intelligence (AI) within supply chain management."
-    publishedDateTime: 2023-05-03T11:09:00Z
-    webUrl: "https://techbullion.com/how-ai-is-revolutionizing-the-supply-chain-and-making-it-more-efficient/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 39
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/05/3cf223d7-hero-image1-08_10i80fk0fk0fk01c000028.png"
-        width: 560
-        height: 560
-        isCached: true
-  - title: "Jason Simon, Fintech Visionary, Unveils How Cutting-Edge Tech Will Transform Global Trade & Supply Chains Forever!"
-    excerpt: "The global trade and supply chain industry has undergone significant transformations in recent years, with technological advancements playing a critical role. In this ever-evolving landscape, Jason Simon,"
-    publishedDateTime: 2023-04-29T19:41:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/04/w32100887/jason-simon-fintech-visionary-unveils-how-cutting-edge-tech-will-transform-global-trade-supply-cha"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32100887"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32100887"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 37
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "FDIC order against Cross River Bank is a warning on fintech alliances"
     excerpt: "The 34-page document demands that the bank get regulatory nonobjection for every new fintech partnership and requires the bank to step up its monitoring of partners' compliance with banking laws."
     publishedDateTime: 2023-05-01T18:32:00Z
@@ -136,24 +78,34 @@ related:
         width: 500
         height: 300
         isCached: true
-  - title: "AI and Customer Experience in Fintech: Personalizing Financial Services"
-    excerpt: "With the help of AI, Fintech companies are personalizing financial services to provide a more customer-centric experience. In this blog post, we will dig into how AI reshapes customer experience in the financial industry. Chatbots and Virtual Assistants ..."
-    publishedDateTime: 2023-04-29T17:17:00Z
-    webUrl: "https://www.finextra.com/blogposting/24129/ai-and-customer-experience-in-fintech-personalizing-financial-services"
+  - title: "OPTASIA RANKS THIRD AMONG TOP FINTECH COMPANIES ACCORDING TO FORBES MIDDLE EAST MAGAZINE"
+    excerpt: "Optasia, the leading Fintech services provider received one more top recognition, ranking third among the Top 30 Fintech companies in Middle East, by the world acclaimed Forbes Magazine in its Middle East edition."
+    publishedDateTime: 2023-04-30T23:59:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-optasia-ranks-third-among-top-fintech-companies-according-/2023/05/01/9805180.htm"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 19
-  - title: "How Artificial Intelligence is Revolutionising the Fintech Landscape?"
-    excerpt: "According to surveys, 2/3 of FinTech companies currently use AI technology in their activities to a greater or lesser extent. Its influence will increase. Last year, the worldwide market for AI solutions in the FinTech industry was assessed at roughly 9  billion USD;"
-    publishedDateTime: 2023-05-03T08:01:00Z
-    webUrl: "https://www.finextra.com/blogposting/24145/how-artificial-intelligence-is-revolutionising-the-fintech-landscape"
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 15
+    images:
+      - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
+        width: 550
+        height: 353
+        isCached: true
+  - title: "OPTASIA RANKS THIRD AMONG TOP FINTECH COMPANIES ACCORDING TO FORBES MIDDLE EAST MAGAZINE"
+    excerpt: "Optasia, the leading Fintech services provider received one more top recognition, ranking third among the Top 30 Fintech companies"
+    publishedDateTime: 2023-05-02T03:01:00Z
+    webUrl: "https://www.asiaone.com/business/optasia-ranks-third-among-top-fintech-companies-according-forbes-middle-east-magazine"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 19
+      name: Asia One
+      domain: asiaone.com
+    quality: 15
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/May2023/pr-newswire_500_4_61.jpg?h=7de12b8a&itok=W_l9i-Ue"
+        width: 600
+        height: 316
+        isCached: true
   - title: "Fintech capacity-building needed for MSMEs"
     excerpt: "THERE is a need to build the capacity of small and medium enterprises (MSMEs) on financial technology (fintech) to ramp up the digital economy in the Philippines, the top official of the Philippine Economic Zone Authority (PEZA) said."
     publishedDateTime: 2023-04-30T13:22:00Z
@@ -163,6 +115,24 @@ related:
       name: manilatimes
       domain: manilatimes.net
     quality: 4
+  - title: "Power of Fintech Events for Industry Visionaries"
+    excerpt: "In the past few years, we have seen an explosion in financial technology (FinTech) innovations. This has caused a drastic transformation of how banks and other financial institutions operate. FinTech promises faster payments,"
+    publishedDateTime: 2023-05-03T11:04:00Z
+    webUrl: "https://techbullion.com/power-of-fintech-events-for-industry-visionaries/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 4
+  - title: "OPTASIA RANKS THIRD AMONG TOP FINTECH COMPANIES ACCORDING TO FORBES MIDDLE EAST MAGAZINE"
+    excerpt: "Optasia, the leading Fintech services provider received one more top recognition, ranking third among the Top 30 Fintech companies in Middle East, by the world acclaimed Forbes Magazine in its Middle East edition."
+    publishedDateTime: 2023-05-03T01:18:00Z
+    webUrl: "https://www.newswit.com/en/ifsiq14wm0t3f56786x2tdzmtdtia5cl"
+    type: article
+    provider:
+      name: academy
+      domain: newswit.com
+    quality: 0
 
 secured: "avNhS+q8aG88aeMRVaTOThBbUTZT9jydtGuiPt8NR+IdqRliELL4N1Hey+2numG9xWvzbk9o0td5c5BEJXJEUckBqQkStTACXTe9WdMEQrLuA946dRx4Of6TfWsOeidIcCJFZg3JV52mRyYCd3deHjaNWBCCHbwBx7/lT5EPjjjqx4RY4D4f9xESEjAV33D+Z+gJguflop+rjqoouY7SKJ8xbiE9M/zvAZ5B+MegAAIswPIrBRuWfUHW5v4jckLE3U2xiaKPNmS1jWKA7F8RrG6KhHnKUV9NYJz1YodHtadH1yleUwVhLI+hkK2LzVvID1dPhnQgAncX0nafeYz6KWZcg/9CjZEWZ690yMDhel/8SpmA/vp7kccf9E7wEHm35IW0nAhy3CYJwlEZOKwHvcKM74XAEfgsiVIc8jq1BmUTM5ImEn9oPzEY2eI05IZUyPp4Ho0TCj5yTEvtxIOMXlhtLl9x8xrw5dxhtCyestzNMuY7mYsCqTvFP22bP5YwF1MIKdMDblhVrHYObDL3dQ==;jrGdClZopZpGlKu5rztXew=="
 ---

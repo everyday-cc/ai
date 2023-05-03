@@ -99,12 +99,30 @@ related:
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 69
+    quality: 71
     images:
       - url: "https://m.foolcdn.com/media/dubs/images/nvidia-nvda-stock-ai-artificial-intelligence-2.width-600.jpg"
         width: 580
         height: 387
         isCached: true
+  - title: "Unlocking The Power Of Generative AI: Exploring Business Models And Dispelling Fears"
+    excerpt: "If there’s one topic that’s dominated the news cycle in 2023, it’s generative AI. This field of technology has experienced a tremendous surge in growth and popularity in recent months, with services like ChatGPT, Dall-E and Stable Diffusion held up as powerful new tools to help humanity—or to doom it."
+    publishedDateTime: 2023-05-03T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/03/unlocking-the-power-of-generative-ai-exploring-business-models-and-dispelling-fears/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 40
+  - title: "The Clash Of Generative AI And Intellectual Property Law: What It Means For Businesses"
+    excerpt: "Autoencoders use two AI programs: An encoder, which reduces work to a small representation called \"latent vectors,\" and a decoder that then attempts to expand the latent vectors back into the original work; the difference between the two is used to train the system to generate new material and modify input material."
+    publishedDateTime: 2023-05-03T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/03/the-clash-of-generative-ai-and-intellectual-property-law-what-it-means-for-businesses/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 39
 
 secured: "h07O2S6/w5DXzGExmV1/4j5mw/fs3dkK5Z2RSwKS9SCxfBUFKWqoGCTXoKf0ob8BMFppBhjzgSorRJoCw3jP5zfxUOYvYdADrAVO8RH69YONmlQ3lyCQqZIXh7d+fAAQQyoiNZgOlxhk/0lfy2yubKgzwp344mz3YyKdbIFYP9gU/o2YAYOsHP06G+727FZm101gq0ZQFNXbrVk/PIaSKUSJHbcAZzileNHlYwMbbmAUw7iQzjcYa7zZsfGmLutLbXsteZDFbcdJmmdhD98vTKZRweA6571IJ2hItDV4T1bkCjnwbMcLL/ubcql5uxLxKBx8mhdVtPiWaV6Xl0K7FFaiwQcxCg9jUAwyKPg9TPUKxI1wzgPdpr9kb1IAuGsn/+kwT3d/vmEa2KiVdNT8rKE1eJp1tPRJAyNBDBv0VlOnHyDs+lKKSMNQBnks3/14NujPU4S9Djq0BoYRCOm7WjxICcfdxVsg/p/X2p3xpXbcAim9sw0fjJ3GCEKr+G91sWWMMsOuTi0DygU16ZMtZg==;32Wx8vvvJL1HySrqtmD2oQ=="
 ---

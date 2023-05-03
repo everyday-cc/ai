@@ -86,7 +86,7 @@ related:
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 69
+    quality: 71
     images:
       - url: "https://m.foolcdn.com/media/dubs/images/nvidia-nvda-stock-ai-artificial-intelligence-2.width-600.jpg"
         width: 580
@@ -106,6 +106,24 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Unlocking The Power Of Generative AI: Exploring Business Models And Dispelling Fears"
+    excerpt: "If there’s one topic that’s dominated the news cycle in 2023, it’s generative AI. This field of technology has experienced a tremendous surge in growth and popularity in recent months, with services like ChatGPT, Dall-E and Stable Diffusion held up as powerful new tools to help humanity—or to doom it."
+    publishedDateTime: 2023-05-03T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/03/unlocking-the-power-of-generative-ai-exploring-business-models-and-dispelling-fears/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 40
+  - title: "The Clash Of Generative AI And Intellectual Property Law: What It Means For Businesses"
+    excerpt: "Autoencoders use two AI programs: An encoder, which reduces work to a small representation called \"latent vectors,\" and a decoder that then attempts to expand the latent vectors back into the original work; the difference between the two is used to train the system to generate new material and modify input material."
+    publishedDateTime: 2023-05-03T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/03/the-clash-of-generative-ai-and-intellectual-property-law-what-it-means-for-businesses/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 39
 
 secured: "7jdZoqHzgVQEdwuxOXmr/csJ2tSsIGvI0IcX9zGeyeP62qAO+HCYAZPLGhY/k/wR50tZfTLZi749V5rzknwpFN+5kbUz27AZBmmOHtcyksnxevdpuShO2aAoL0GM24CZtqQdRWyHF9+zNM0b/MMKm2T2La4ZWas57jixDm5KlGlUCeGHyM1s1sf7UbNiFE/MKHmQsmONHQfHHA6U6ga3oTwII22xh7/xTXsg/GnxFqzYZvM6LZknYudpI57ekeLuHFXk5bk2XVisZtqI+BZ+GGk19rKMQy4SEYxDQsuMd77sl9KL9N4HFym/Ep0uGdY3wSPW10cl128AbC5WtgdNXIsrlYfRZJXUrhkHze24/7A=;LCBEv0JZ9QAx55ks35ciwg=="
 ---

@@ -2,27 +2,20 @@
 category: news
 title: "Texas scientists create artificial intelligence system to read minds"
 excerpt: "The artificial intelligence system relies on a fMRI scanner to translate a person's thoughts. BSIP/Universal Images Group via Getty. Researchers at the University of Texas at Aust"
-publishedDateTime: 2023-05-03T00:49:00Z
-originalUrl: "https://www.houstonchronicle.com/news/article/ut-artificial-intelligence-ai-reads-minds-18074052.php"
-webUrl: "https://www.houstonchronicle.com/news/article/ut-artificial-intelligence-ai-reads-minds-18074052.php"
+publishedDateTime: 2023-05-02T23:49:00Z
+originalUrl: "https://www.chron.com/news/article/ut-artificial-intelligence-ai-reads-minds-18074052.php"
+webUrl: "https://www.chron.com/news/article/ut-artificial-intelligence-ai-reads-minds-18074052.php"
 type: article
-quality: 39
+quality: 17
 heat: -1
 published: false
 
 provider:
   name: Houston Chronicle
-  domain: houstonchronicle.com
+  domain: chron.com
 
 topics:
-  - AI in Healthcare
   - AI
-
-images:
-  - url: "https://s.hdnux.com/photos/01/32/53/24/23770368/3/rawImage.jpg"
-    width: 1024
-    height: 683
-    isCached: true
 
 related:
   - title: "Mind-reading AI translates brain activity into a continuous stream of text"
@@ -40,6 +33,22 @@ related:
       - url: "https://assets.newatlas.com/dims4/default/a065e2e/2147483647/strip/true/crop/1200x800+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Ff7%2F0b%2Fcfdeedf546adb2f71c0371162e5a%2Fbrain-thoughts5x3-1200x800-c-default-copy.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "AI brain activity decoder can reveal stories in peoples' minds, researchers say"
+    excerpt: "An artificial intelligence system developed at the University of Texas is able to translate a subject's brain activity into a stream of text after storytelling."
+    publishedDateTime: 2023-05-03T15:17:00Z
+    webUrl: "https://www.foxnews.com/science/ai-brain-activity-decoder-can-reveal-stories-peoples-minds-researchers-say"
+    ampWebUrl: "https://www.foxnews.com/science/ai-brain-activity-decoder-can-reveal-stories-peoples-minds-researchers-say.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/science/ai-brain-activity-decoder-can-reveal-stories-peoples-minds-researchers-say.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 85
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0cbb3aee-10db-495f-9fe0-b479aa2bec89/0ec766a6-9a55-4885-b3f4-4c77f19ec376/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
+        width: 1200
+        height: 675
         isCached: true
   - title: "AI can read your mind, and give it in writing"
     excerpt: "A study by a four-member research group, which included an Indian graduate student, at the University of Texas Austin has shown that the system can generate intelligible word sequences from brain activity measured through functional magnetic resonance imaging (f-MRI) scans."
@@ -114,6 +123,29 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 39
+  - title: "Movie clip reconstructed by an AI reading mice's brains as they watch"
+    excerpt: "Researchers have put together a 30-second movie clip based on a group of mice's brain activity data that was recorded while they watched the footage"
+    publishedDateTime: 2023-05-03T15:54:00Z
+    webUrl: "https://www.newscientist.com/article/2371943-movie-clip-reconstructed-by-an-ai-reading-mices-brains-as-they-watch/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 37
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2023/05/03153714/SEI_1544353851.jpg"
+        width: 1350
+        height: 901
+        isCached: true
+  - title: "AI ‘Brain Decoder’ System Translates Human Brain Activity"
+    excerpt: "Researchers have developed an artificial intelligence-based ‘brain decoder’ that can translate brain activity into a continuous stream of text."
+    publishedDateTime: 2023-05-03T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/ai-brain-decoder-system-translates-human-brain-activity"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 34
   - title: "UT researchers create AI system to turn brain activity into text"
     excerpt: "The new system uses AI to translate someone’s brain activity into a stream of text while they listen to a story or imagine telling a story."
     publishedDateTime: 2023-05-02T19:46:00Z
@@ -124,6 +156,6 @@ related:
       domain: kxan.com
     quality: 19
 
-secured: "ewJXmJjh8bG7ucJj4aqcWvdF6AWT//E5p0ggsC/4GUFng+ivvbJGQLXKxtb1H3zW9DH8aeLGCfom+rgrIIMFGwEt6qJK5FpJTNMbAJgEVF7bThKepkpztkK0D5XIBDYMVkLAeqp/7qS9QQkC+/515+wXuE+XCrkq1ZacafsReVJgWX/PH5HCzGFiy6a5Mwsxev3zPsXnjo1Dy4cANDOP4r+lbjdQAtHBzJXGZczwqsTdLTUQI8jGMqi+8zDgaCssMIzrAiRQQHWCBXsJ5qJ5SICE8YUQoVh0LJRJwQgUBc+JXY9t+AwJpn3stw7jGXsDhm75UVJYKaTY/MXrcNsQWuIwm5eXbLpOsiDvzrCcakA=;avOKmLuidbU2j2TlFw8JRA=="
+secured: "7ZjPF20Ls/3up2FF4pmHjxYLDBSKp32u8UCdRg8JSXRyuXI9Ne3Y8ajrm5q7ho/w0T2hPGttZBbOvf1WoxEbYC5Y9Hw53fMb9jbFb0PhM8hU0sw+M4dSCpeoUJiN9qoQc5X8Y8r/uOGnNIBwbTlMFm6yI8bwNqNoiJYYk6MYJt+YyTPxSETT/iFjt0P+RWIZ5a6zXWVevcsiAWTLSP/ipqyOVgpNh8d5+DL+BykLwORkiDMCe7roAjTgW6NpwTcqlJoUvbKLOqcvl0yP9TZaVtvr/QOTycVs/xhnYp7G8VMqbuHbTdHPQjrF8oBmZmGCnkJRjoCiwK8vYg6tL/B9bwB2zfHsF79OfbaU3TVG17rKpGSF2MgyszNayx2FX9S046//cfpoVH2i2A+DZt45QEM0GPDnPXydP0tQn8Rh5FMSAaXz1Xi+yJZ6nl+9tU7Ib3TBD5uxjGeX5JRgxVPl6TY1+i5V7fsMSaq+8PWspai8vSo4RWm12pI+bp5Ye5056dZdYPNTcYs5THE6xum4sA==;0s4FWQZFHI4FT96krlLMVQ=="
 ---
 

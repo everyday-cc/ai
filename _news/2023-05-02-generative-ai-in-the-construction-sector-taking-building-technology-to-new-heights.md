@@ -62,6 +62,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI ‘could be as transformative as industrial revolution’"
+    excerpt: "UK’s outgoing chief scientist urges ministers to ‘get ahead’ of profound social and economic changes"
+    publishedDateTime: 2023-05-03T14:29:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/may/03/ai-could-be-as-transformative-as-industrial-revolution-patrick-vallance"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/03/ai-could-be-as-transformative-as-industrial-revolution-patrick-vallance"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/03/ai-could-be-as-transformative-as-industrial-revolution-patrick-vallance"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/a6eaef833556b81337c95f6e88a34a1b44407791/0_300_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=6c607e1e58ea849496f7dd45d0c4493e"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Product Monkey AI Revolutionizes Product Management by Automating Engineering Task Creation"
     excerpt: "Product Monkey AI, a new tech startup, has launched a platform designed to make product managers in tech companies more efficient by automating the creation of engineering tasks from product design files."
     publishedDateTime: 2023-05-02T15:00:00Z
@@ -101,6 +117,15 @@ related:
       name: Design-Reuse
       domain: design-reuse.com
     quality: 34
+  - title: "How Midsize Companies Can Keep Up with AI"
+    excerpt: "Right now, many businesses are reacting to generative AI in a vacuum. But individual innovations shouldn’t be approached with a narrow, short-term focus, as midsize companies that chase each new trend will find themselves over-committed and under-prepared when that trend wears off."
+    publishedDateTime: 2023-05-03T12:15:00Z
+    webUrl: "https://hbr.org/2023/05/how-midsize-companies-can-keep-up-with-ai"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 17
 
 secured: "3LoTvTz2Ditz5n+Iz7TpjWis+31mTCYpQIZlNODXq+LsAstCsTWxPfjSfEBT/RAu1fH+Gs2ymq5zWHV2pQwRKiHehV3nf9caNvlgnDgP3X0AKz1oEr/XEJkjDUvLcWPkrk9eNJUxPIG6+V3u3bpguhb/PTKfLcTZc2yhS8pT+q7bx2OI1lAAb1UXOc+tLBLu4JhaGROknADz4KqGPPiPCAfR+V0RNIiAxsa/pePWEPu/i9zQK+ChBTV+cC17fmDxQiXb5x4E5MRMNI410ERDwFGsWjEvEq6RJIeay3L3SiS18ikKatymGHZpo0/Wg3+n/eNLGwHmWP8D8XYn43GAiYHiu0jaoQwvoDy1cEmvQAY=;152nBLt+MY/XZO68mhg0Ow=="
 ---

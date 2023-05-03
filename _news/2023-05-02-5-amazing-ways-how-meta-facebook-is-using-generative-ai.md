@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/05/02/5-amazing-ways-h
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/05/02/5-amazing-ways-how-meta-facebook-is-using-generative-ai/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 129
 published: true
 
 provider:
@@ -63,6 +63,24 @@ related:
         width: 1024
         height: 645
         isCached: true
+  - title: "Making A Difference With Generative AI"
+    excerpt: "Everyone seems to be using ChatGPT for something or the other. Here, our experts suggest some serious, game-changing applications that the technology can"
+    publishedDateTime: 2023-05-03T11:39:00Z
+    webUrl: "https://www.electronicsforu.com/technology-trends/making-difference-with-generative-ai"
+    type: article
+    provider:
+      name: electronicsforu
+      domain: electronicsforu.com
+    quality: 19
+  - title: "Facebook Earnings, Generative AI and Messaging Monetization, Open Source and AI"
+    excerpt: "Meta’s earnings showed that all of Meta’s Myths were, in fact, myths. Plus, how LLMs can benefit Meta ad products, and why Meta might open source more AI models."
+    publishedDateTime: 2023-05-03T12:24:00Z
+    webUrl: "https://stratechery.com/2023/facebook-earnings-generative-ai-and-messaging-monetization-open-source-and-ai/"
+    type: article
+    provider:
+      name: Stratechery
+      domain: stratechery.com
+    quality: 15
 
 secured: "SWy7PKR0g0DzkegPRboYA5vqvk2+mQOnSn04jOjzmmpBNu8PzgZLGGUvayFIUqMUfmlSzVCMoOVTY91dxMSmjtT+aCYr9dEcI5MozGrOzJ9Bg+qcW+hv6T44gTFWXEz0ITlFOD1vuT4VdL6cSl68/D+PGlKwInh8v92SeuG/gQOq81Ww9XGnfxUJMtYaeeNeOlMfHMYD5pWc2IZhS6WQj0eVf4kWVKhpK2lHEWjVDwSIrJH5ln49LM4duJRal17rLZufkcGojadY9tYG+ZHeA3oZe5Q3OZdEaeZBu6miepiyrc7vpPDN019coZVmpdS6kYPnNYCPdUyYAW1B4EuHDJK5r6SZylr/7Tcy79WzaFzYLASkTOudfnNmxcfynE5QraMhdtVVqyCI7c+gWeTDGM0tJRKvnZNyFfjOlHypDI2L2TE2A86QfJUq0Gu1Dkn03jPR7A9zoiXKiEOQs7MsVeaeTTKb97IRw53Tvzmvur1DUelEE/GsrWQDW+gPvDIhqzgfi8CVra5N4L2dwPrdpg==;ht9aPxnW6rMpfhuG5XKi4Q=="
 ---

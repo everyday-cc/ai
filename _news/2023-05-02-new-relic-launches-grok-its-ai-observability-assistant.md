@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/05/02/new-relic-launches-grok-its-ai-obs
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/02/new-relic-launches-grok-its-ai-observability-assistant/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -47,6 +47,15 @@ related:
         width: 1200
         height: 599
         isCached: true
+  - title: "Honeycomb announces generative AI-driven natural language querying for observability"
+    excerpt: "Honeycomb's new Query Assistant capability empowers engineers to ask questions in plain English instead of a query language."
+    publishedDateTime: 2023-05-03T13:00:00Z
+    webUrl: "https://venturebeat.com/ai/honeycomb-announces-generative-ai-driven-natural-language-querying-for-observability/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 42
   - title: "New Relic To Launch First AI Observability Assistant: Meet Grok"
     excerpt: "Observability software vendor New Relic later this month is launching Grok, what it calls the first-of-its-kind generative AI assistant for observability that uses natural language and AI to monitor, debug, secure and improve software stacks."
     publishedDateTime: 2023-05-02T16:38:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/understand-risks-generative-ai-better-bus
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/understand-risks-generative-ai-better-business-outcomes/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 157
 published: true
 
 provider:
@@ -86,7 +86,7 @@ related:
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 69
+    quality: 71
     images:
       - url: "https://m.foolcdn.com/media/dubs/images/nvidia-nvda-stock-ai-artificial-intelligence-2.width-600.jpg"
         width: 580
@@ -106,6 +106,24 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Unlocking The Power Of Generative AI: Exploring Business Models And Dispelling Fears"
+    excerpt: "If there’s one topic that’s dominated the news cycle in 2023, it’s generative AI. This field of technology has experienced a tremendous surge in growth and popularity in recent months, with services like ChatGPT, Dall-E and Stable Diffusion held up as powerful new tools to help humanity—or to doom it."
+    publishedDateTime: 2023-05-03T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/03/unlocking-the-power-of-generative-ai-exploring-business-models-and-dispelling-fears/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 40
+  - title: "The Clash Of Generative AI And Intellectual Property Law: What It Means For Businesses"
+    excerpt: "Autoencoders use two AI programs: An encoder, which reduces work to a small representation called \"latent vectors,\" and a decoder that then attempts to expand the latent vectors back into the original work; the difference between the two is used to train the system to generate new material and modify input material."
+    publishedDateTime: 2023-05-03T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/03/the-clash-of-generative-ai-and-intellectual-property-law-what-it-means-for-businesses/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 39
 
 secured: "u1eYXJEDQzZqKK788GxxHOAW2UM1/OvXhbzJ6S+r1GaoLSmDXE2nvMDbSzcLX+b+WXEh0okLqUoOxq5LyM5WyP6SbEQVTXIs7nH+FVRbqgHLtrjoDpncvFE2lAzcsgcKCdlw3gF+XG0kivaFSUxxAhMJOACA8FUa0CR8tvrjRXu7wHaPhlVu4CEZPuzwZDp4rYWaTwNNO6ZijxYLGvkwKed/QezDFxSm1Cl2M3DtM4hFfDD23vSgf63Nhne8MYSouMdy8i4szC3IJc+OHx9PjFVe4w/5FkyLhCCfU9fgAtejlkzv9JJ+vKUYlbGR1gWf1DVYm5hUlOGpY4177ZIrn2ky0Bv379A1DldA9IV/bhQnYDqZZHyHyz2z/turp0TsWg3N9Hd+53G95UkVjLiepScMSl/3SZU1sSIMHL6gYWTiL96gGl89Fv75DDvi0Q3Vu0TpYfPb6oKKEwcFu6KTgoNnakaeIrl7EQQq3Vtf07NBCJaIkJ78QUA5T1qkpbE9NJhTWat8njtDZzYW8VuSKA==;tLvYQDKYxiuiVDTIkHtt+Q=="
 ---

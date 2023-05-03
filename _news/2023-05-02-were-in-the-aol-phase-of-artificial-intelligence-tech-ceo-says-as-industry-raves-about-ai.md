@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/05/02/chatgpt-were-only-in-aol-phase-o
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/05/02/chatgpt-were-only-in-aol-phase-of-ai-ceo-says.html"
 type: article
 quality: 75
-heat: 77
+heat: 88
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 7944
     height: 5296
     isCached: true
+
+related:
+  - title: "The Music Industry Has an AI Problem"
+    excerpt: "However, there is no gray area here: AI-generated music must be produced in a way that is equitable and fair for artists. That will require a substantial amount of vigilance. Get your good shoes on and tie them up tight, because there's a long road ahead."
+    publishedDateTime: 2023-05-02T13:00:00Z
+    webUrl: "https://www.bloomberg.com/opinion/articles/2023-05-02/ai-drake-heart-on-my-sleeve-and-cultural-appropriation"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
 
 secured: "jotSJ47ESBQ2fqv5kktBxJkizBwXSP4qxt91tuT0BJQWgRhGZMUhqGmFQvDNGJ4xoxtKrEQOjlOEQ9VVDmNzK0Mwt55gWGXtC6XWLWw1mvHjqhmcGVWPrYEnS2WPDnsRhaoCj/ug3YVaPmhsTBq7sZ+lvZ0UfD2jpj3vmqSUT8p+9CRE+zFgMJDf1o0+RoTbxyGXpVbwxJHJi8494Oh/fahOq/r7ifvcDEHI6/9OrSMp5awbQyF7e1bg8swbrzwYViyUiNUiIJhyhRtzWkaVXrlJyaCjJcmRH4uYwpufjdfBGLWhk0XhMjyn+7KHVHJpr4enMeHYnlq0QGagl5QyNeyIF1d0jBRwtnEHzCNTv7GhWzMsUDkO9/D983tJyd9tpG2fYIITMG3Y2Psv4LBYdXq83HozpwiUYRu3NidueDO1D1iCgIfATraEd8MHi8yfDlr1CR3kVSvYhIQGL1qbZx5lmsdKMDjEwrJb+GGo+f75FcER3+ix/6ibCEtMIXfRdIEDnQ9fAGsmY+iE3tK+kA==;MnqroYVA1RmvGLXYFVdskw=="
 ---

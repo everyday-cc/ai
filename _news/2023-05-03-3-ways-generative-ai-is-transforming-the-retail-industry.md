@@ -59,6 +59,24 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Making A Difference With Generative AI"
+    excerpt: "Everyone seems to be using ChatGPT for something or the other. Here, our experts suggest some serious, game-changing applications that the technology can"
+    publishedDateTime: 2023-05-03T11:39:00Z
+    webUrl: "https://www.electronicsforu.com/technology-trends/making-difference-with-generative-ai"
+    type: article
+    provider:
+      name: electronicsforu
+      domain: electronicsforu.com
+    quality: 19
+  - title: "Facebook Earnings, Generative AI and Messaging Monetization, Open Source and AI"
+    excerpt: "Meta’s earnings showed that all of Meta’s Myths were, in fact, myths. Plus, how LLMs can benefit Meta ad products, and why Meta might open source more AI models."
+    publishedDateTime: 2023-05-03T12:24:00Z
+    webUrl: "https://stratechery.com/2023/facebook-earnings-generative-ai-and-messaging-monetization-open-source-and-ai/"
+    type: article
+    provider:
+      name: Stratechery
+      domain: stratechery.com
+    quality: 15
 
 secured: "fItC37ESWzydnDwENkLiZkguNjU2LwLqZc0wOyGJp5Qag7exo1IUHHhXCDMtmuV22J7Xhp9tuKlo10kUDfCIJwUIJAXnZS7CDwJCUGsG5BQpxOvvhG9ABk37W3+gNsikAU9rdNQe5PYDu9n8ymrXTxJGL+LNg1tJsLTM98oDtLiz/deA59bCdxSu77qSrNCvsK3/bo8V8Hhfsorqcq7jhh5FFNUTeB+rV5ThV/HMssrbyPnO13jcFXBguqYLY/FgsOG5BuciXp4eHPbD4eRgJ+yxgXApg40YBCGTcApAEvo8CmHuDVokrvhGQMsrmSzf++Jthqew3dagOBMGxOipJhz80lgkYrasItTHMGBiI3TlBc/ayeV5c0OKe2klTmCU2ka0rg873PlFlkHr2wFjTJD6X7CjTIoyQmciL+GW5+uLYVmCbnEJBNbNhsbOif6Y6WxsrMvy5G/yiZ1o9HPwUxTW6uQMiEzpGw8ci7xOhxmunmMtYP9fTKdQrsARke0zB7h3aCAxTZXIuFVhPm3XYA==;ofQmR01bUOPmPUpTTwQjOA=="
 ---

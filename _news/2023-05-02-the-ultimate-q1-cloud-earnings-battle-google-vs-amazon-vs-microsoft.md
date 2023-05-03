@@ -56,6 +56,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "CallMiner Collaborates with Microsoft to Enhance AI Capabilities"
+    excerpt: "CallMiner Collaborates with Microsoft to Enhance AI and Machine Learning Capabilities for contact centres perform better and more efficiently"
+    publishedDateTime: 2023-05-03T15:24:00Z
+    webUrl: "https://contact-centres.com/callminer-collaborates-with-microsoft-to-enhance-ai-capabilities/"
+    type: article
+    provider:
+      name: Chat Bots
+      domain: contact-centres.com
+    quality: 54
+    images:
+      - url: "https://contact-centres.com/wp-content/uploads/2023/05/callminer-microsoft-ai-mage-777x437-may-2023-min.png"
+        width: 776
+        height: 437
+        isCached: true
   - title: "Siemens links up with Microsoft and IBM to deliver its vision"
     excerpt: "At the recent Hannover Messe, Siemens announced partnerships with several key players in the OT/IT world, including IBM and Microsoft, aimed at"
     publishedDateTime: 2023-05-02T16:09:00Z

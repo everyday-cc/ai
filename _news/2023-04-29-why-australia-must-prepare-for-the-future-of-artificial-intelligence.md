@@ -21,6 +21,20 @@ topics:
   - AI
 
 related:
+  - title: "How to prepare for the impact of AI everywhere"
+    excerpt: "Generative AI is ushering in a new wave of computing in business – here’s how we can manage its impact while driving innovation"
+    publishedDateTime: 2023-05-02T08:42:00Z
+    webUrl: "https://www.information-age.com/how-to-prepare-for-impact-of-ai-everywhere-123503612/"
+    type: article
+    provider:
+      name: Information Age
+      domain: information-age.com
+    quality: 39
+    images:
+      - url: "https://informationage-production.s3.amazonaws.com/uploads/2023/05/how-to-prepare-for-impact-of-ai-everywhere-scaled.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
   - title: "The right-wing, pro-war character of Australia’s indigenous Voice plan becomes clearer"
     excerpt: "A “yes” vote for the Voice is being presented as a patriotic duty, necessary to unite the nation or complete the national unity of Australia."
     publishedDateTime: 2023-05-03T04:26:00Z

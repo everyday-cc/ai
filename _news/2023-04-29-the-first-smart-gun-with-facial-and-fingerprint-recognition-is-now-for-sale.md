@@ -2,17 +2,17 @@
 category: news
 title: "The first smart gun with facial and fingerprint recognition is now for sale"
 excerpt: "Smart guns have mainly been the stuff of movies. In the real world, technological and political challenges have meant the high-tech devices haven't become a reality. That may be about to change."
-publishedDateTime: 2023-04-29T09:01:00Z
-originalUrl: "https://wusfnews.wusf.usf.edu/2023-04-29/the-first-smart-gun-with-facial-and-fingerprint-recognition-is-now-for-sale"
-webUrl: "https://wusfnews.wusf.usf.edu/2023-04-29/the-first-smart-gun-with-facial-and-fingerprint-recognition-is-now-for-sale"
+publishedDateTime: 2023-04-29T14:00:00Z
+originalUrl: "https://www.tpr.org/2023-04-29/the-first-smart-gun-with-facial-and-fingerprint-recognition-is-now-for-sale"
+webUrl: "https://www.tpr.org/2023-04-29/the-first-smart-gun-with-facial-and-fingerprint-recognition-is-now-for-sale"
 type: article
 quality: 22
-heat: 22
+heat: -1
 published: false
 
 provider:
-  name: wusfnews.wusf.usf.edu
-  domain: usf.edu
+  name: Texas Public Radio
+  domain: tpr.org
 
 topics:
   - Computer Vision
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "First commercial smart gun with facial, fingerprint recognition launches"
+    excerpt: "I’ve never talked to a gun owner that wanted their kid to find their gun,” said Biofire Technologies founder and CEO Kai Kloepfer."
+    publishedDateTime: 2023-05-03T15:32:00Z
+    webUrl: "https://thehill.com/blogs/blog-briefing-room/3985666-first-commercial-smart-gun-with-facial-fingerprint-recognition-launches/"
+    ampWebUrl: "https://thehill.com/blogs/blog-briefing-room/3985666-first-commercial-smart-gun-with-facial-fingerprint-recognition-launches/amp/"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/blog-briefing-room/3985666-first-commercial-smart-gun-with-facial-fingerprint-recognition-launches/amp/"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 43
+    images:
+      - url: "https://thehill.com/wp-content/uploads/sites/2/2023/05/Screen-Shot-2023-05-03-at-11.02.22-AM-e1683126220792.png?w=1280"
+        width: 954
+        height: 536
+        isCached: true
   - title: "The first smart gun with facial and fingerprint recognition is now for sale"
     excerpt: "Smart guns have mainly been the stuff of movies. In the real world, technological and political challenges have meant the high-tech devices haven't become a reality. That may be about to change."
     publishedDateTime: 2023-04-30T13:33:00Z
@@ -40,6 +56,6 @@ related:
         height: 630
         isCached: true
 
-secured: "79MTaQivFoC2zAukfB08UmQpTNZUDubMEBj0/r9IsKgrINNG7HADiS0W+WgvrrhLJvVLZ2AzAeKS8If1f1DSxpTLKTJ9nX4Gc5xLYTzj+D4OTIZAhANDf63+2vJKLxLASXTlvB645w5kdb28UecN7Yj3xjnEP8CYdgrgRshvg0r18R8KDwhtvZCk8CcQ+gWYfc/+2VD/YiOvcCKRr7euZLJhJ3AFLfjuYvL0M223ihmiCbsxb+BYWxObC2XNm97pKSAp1dePLnn5oqlunHvOh4EyxA44ariXGO9GC1kOWO8HMnJRHoQy0hwahw+PHTBtN62HwzpY9gRyeyDBpF63cVFeBLbXijbZ8JZIsB4sA5oO7LCxp/4eQBEoZdqamiX8XfMYM24pBO4Cs+25r/KFmm9J4/Ox3NjQEb9lzhYskDID5xnSbCCEFIe4c/BNsUuVRWeG1/c569SZaU4fcrnP1VMO2BSVZ5fmzbAS0JBx94q1nioDcy8GnnYJaH7uLsZ1RPiY8H0yVn0ZH5sm88YeUg==;G/KydMbCC0v7a2jpkHBnWA=="
+secured: "W8auD79bbb7PDNalV2mglTzcEmuOoprWWjv/8aTuvF7pMY/go0Cfh32Y0Wt/1UXvh45TKeRlmjanHTFA5XGQhLP0KTABZC9R+lIu7WWaf+HAbvWgI2+Sefh3EuzWQnFIOToR4vu9m8QCc21vf4TMaRnInggYQ3jZ1fUmyWH+4WMPW0mjQkEYMaHIX3UIhKYncZEC7EUn5F/zLFpCiX2ysvA/pzyEctyloONUT1KeEBX0ftdxW5NtXJ+nyZ1/uEQWMHtMfgoKxxiFBAu2A6JoT22UnYck20JkvK4OMWsTxEiTKMQW16d0IK/+8gH+19d5JhbWy//Ry9KTHykPnlf5/NYKfl6t+Btknl86xEmTcYM=;6QdGLVQ7D1ch2a0dfgMOAA=="
 ---
 

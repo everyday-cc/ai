@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/how-vector-databases-can-revolutionize-ou
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-vector-databases-can-revolutionize-our-relationship-with-generative-ai/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 157
 published: true
 
 provider:
@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI ‘could be as transformative as industrial revolution’"
+    excerpt: "UK’s outgoing chief scientist urges ministers to ‘get ahead’ of profound social and economic changes"
+    publishedDateTime: 2023-05-03T14:29:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/may/03/ai-could-be-as-transformative-as-industrial-revolution-patrick-vallance"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/03/ai-could-be-as-transformative-as-industrial-revolution-patrick-vallance"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/03/ai-could-be-as-transformative-as-industrial-revolution-patrick-vallance"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/a6eaef833556b81337c95f6e88a34a1b44407791/0_300_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=6c607e1e58ea849496f7dd45d0c4493e"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Product Monkey AI Revolutionizes Product Management by Automating Engineering Task Creation"
     excerpt: "Product Monkey AI, a new tech startup, has launched a platform designed to make product managers in tech companies more efficient by automating the creation of engineering tasks from product design files."
     publishedDateTime: 2023-05-02T15:00:00Z
@@ -102,6 +118,15 @@ related:
       name: Design-Reuse
       domain: design-reuse.com
     quality: 34
+  - title: "How Midsize Companies Can Keep Up with AI"
+    excerpt: "Right now, many businesses are reacting to generative AI in a vacuum. But individual innovations shouldn’t be approached with a narrow, short-term focus, as midsize companies that chase each new trend will find themselves over-committed and under-prepared when that trend wears off."
+    publishedDateTime: 2023-05-03T12:15:00Z
+    webUrl: "https://hbr.org/2023/05/how-midsize-companies-can-keep-up-with-ai"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 17
 
 secured: "ICUY3ckR97vZ8P4Whsggu2Vj8fclrO5sHIxsvYAxaT9wS9n2kYKakKQ4AkWhPXzUkO8cq5aGIsRjjYGxMcwwzXB3EIzlJ5pwdgPVob0uFdg3XDObfAXdvXQLfbycChvjpmzPvavutgzc8KTdU6YD2Txc434+VvDDeO/1sB5iiRv9u+sUIoA3Nu3yc/tFufjeUhQUuV9pO+n15uFg9zRVr3kfDTHq9+fK9ugrpYH/d1vrJz6sskOUTN+wZdrI90IG4J0T3k/NChoQvvsQ2qXL8GOhKSML+/MTjSBaMxzxV9R5jz2J9HeazCqkHWYs1WaXMNFNKKqO592Vi4dBpzv74pLW5yiz89CYAjq0T1bWyjRUxEL/PqHZBGFwa3/x101BOdhbvUCwjs5tkhTKXocNeG8J3E+h3pEeSzcrLNWlcwW+aAe9mXwCRthcb7Pqeoypn2JMURmGyrIg7NjZcqglcRyyEhxTTpGYsJAf44nkycHzjVLkocLGX30b02e1qNyeWsMiXawmKf5byOjLJOQGlA==;C3gYezVE7Mwumbf/b0HP5A=="
 ---

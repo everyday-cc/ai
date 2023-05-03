@@ -160,6 +160,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 39
+  - title: "IBM pauses hiring, says it could replace 7,800 workers with AI"
+    excerpt: "IBM has paused hiring and said that it could lay off around 7,800 workers over the next five years. CEO Arvind Krishna claimed that employees could be replaced by artificial intelligence. Speaking about back-office workers,"
+    publishedDateTime: 2023-05-03T14:11:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/ibm-pauses-hiring-says-it-could-replace-7800-workers-with-ai/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 39
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/IBMpilgrimage.original_8tnb9w8.2e16d0ba.fill-1200x630.jpg"
+        width: 1024
+        height: 539
+        isCached: true
   - title: "IBM to pause hiring for jobs easily replaceable with AI: CEO Arvind Krishna"
     excerpt: "Krishna said hiring in back-office operations such as human resources would either be suspended or the hiring for such job roles will be frozen."
     publishedDateTime: 2023-05-02T07:54:00Z
@@ -198,6 +212,6 @@ related:
       domain: itp.net
     quality: 19
 
-secured: "re4rhiZkH5nJ68c3bU8Bup/IE381/v8SQWhB0FYLXFHco3KVzIm4yBfKgMbfu8sLoAkRVp1RxvCja8RpFK5O4T03SIIsGphPm5PyyyTiaY/YDtU33dQcJYgW5zneXTHk4zMFjIzRCjHsh5GxL78zjRCveRAhZNK9/ucIW9MQlIY3ysofGBVSxe8192RiXu0osA//I2nFTXC8fVbOVfEWm5JEe+XpLZULPaoMMOMjQaezsItI92vSXHDCQrpCo+2NG90xuvkvd3MpiI2LEqVsZkqYi7kAx1ofurcNlc9vi8+RGqOPhcXfOpAdf9yw+pRPcWGaysZwiM/q+br8AH6cBBHElc3fykVbjplezZ8qZro=;2IDPXytqmmaZuOwFNsxC0Q=="
+secured: "GqMRbFYy3uB3SHuDz3OMA2lMR4B2vqhduDaWiyTRi8X4lkbDRq3XkXZSVxhBT608v8QJrw8ZpgKEFNksbCDRShm15wUKwC7tQO7EwrYuDhWAEu1qeUw95wNZD6S8Vuf5A9RAXlaVEB2gfYBEec5IblnPo5jevufV9Gopfqf5hBUbdHFJv8lL1Qy+KJ/HXmRdVrz4lnMvabdxo3/YiEsQD7hl4lpn7Qg4y0qjT0KbRPS1NTMFTkno0XSrJJ0w+Q35KDxIIFULDllAsG6nwdboVOAw0OvH55cOCrOA0DGJf5YYI/oIv+Iiz7sqi7WmtOLKXACCW+SUzCtgxLavK+OHIIKULT6RH+w4uBxqqKVfO3eZyNIqlVZjrLx7kEmH0mTJIh2UvLyJh5aYdLJpDWlAMIciiq//Vd6auFd+FIeNtmwWGsSPgeiBO3nPPkE0TwAo9ezlGDa7HQBb0Iajr4LU0woDh3c/RN00Netbm5sk3MW8exMU/nZdxpUJAJChPDnz11aYW/8geb+24n1SX0SnLQ==;mObMxoWpreOLWwvDV5SHmQ=="
 ---
 

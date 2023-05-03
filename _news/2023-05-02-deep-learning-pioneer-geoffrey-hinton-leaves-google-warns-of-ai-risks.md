@@ -181,22 +181,6 @@ related:
         width: 750
         height: 393
         isCached: true
-  - title: "‘Godfather of AI’ leaves Google, warns of tech’s dangers"
-    excerpt: "Sounding alarms about artificial intelligence has become a popular pastime in the ChatGPT era, taken up by high-profile figures as varied as industrialist Elon Musk, leftist"
-    publishedDateTime: 2023-05-03T10:23:00Z
-    webUrl: "https://wreg.com/news/godfather-of-ai-leaves-google-warns-of-techs-dangers/"
-    ampWebUrl: "https://wreg.com/news/godfather-of-ai-leaves-google-warns-of-techs-dangers/amp/"
-    cdnAmpWebUrl: "https://wreg-com.cdn.ampproject.org/c/s/wreg.com/news/godfather-of-ai-leaves-google-warns-of-techs-dangers/amp/"
-    type: article
-    provider:
-      name: wreg
-      domain: wreg.com
-    quality: 57
-    images:
-      - url: "https://wreg.com/wp-content/uploads/sites/18/2023/05/AP23122504143110.jpg?w=1280"
-        width: 1280
-        height: 851
-        isCached: true
   - title: "Why 'Godfather' of artificial intelligence had to 'blow the whistle' on technology"
     excerpt: "\"I want to sort of blow the whistle and say we should worry seriously about how we stop these things getting control over us.\" Hinton's pioneering work on neural networks shaped artificial intelligence systems powering many of today's products."
     publishedDateTime: 2023-05-03T09:05:00Z
@@ -521,6 +505,15 @@ related:
     provider:
       name: Indiatimes
       domain: indiatimes.com
+    quality: 19
+  - title: "‘Godfather of AI’ leaves Google, warns of tech’s dangers"
+    excerpt: "Sounding alarms about artificial intelligence has become a popular pastime in the ChatGPT era, taken up by high-profile figures as varied as industrialist Elon Musk, leftist"
+    publishedDateTime: 2023-05-02T17:59:00Z
+    webUrl: "https://thehill.com/homenews/ap/ap-technology/godfather-of-ai-leaves-google-warns-of-techs-dangers/"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
     quality: 19
   - title: "AI 'godfather' Geoffrey Hinton warns of dangers as he quits Google"
     excerpt: "A man widely seen as the godfather of artificial intelligence (AI) has quit his job, warning about the growing dangers from developments in the field. Geoffrey Hinton, aged 75, announced his resignation from Google in a statement to the New York Times, saying he now regretted his work."

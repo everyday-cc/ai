@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/bring-your-own-ml-mo
 webUrl: "https://aws.amazon.com/blogs/machine-learning/bring-your-own-ml-model-into-amazon-sagemaker-canvas-and-generate-accurate-predictions/"
 type: article
 quality: 98
-heat: 138
+heat: 148
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/02/hosting-models-on-sagemaker-1260x630.jpg"
         width: 1260
         height: 630
+        isCached: true
+  - title: "How Vericast optimized feature engineering using Amazon SageMaker Processing"
+    excerpt: "This post is co-written by Jyoti Sharma and Sharmo Sarkar from Vericast. For any machine learning (ML) problem, the data scientist begins by working with data. This includes gathering, exploring, and understanding the business and technical aspects of the data, along with evaluation of any manipulations"
+    publishedDateTime: 2023-05-03T15:17:59Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-vericast-optimized-feature-engineering-using-amazon-sagemaker-processing/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 86
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/04/20/ML-13673_arch.png"
+        width: 975
+        height: 556
         isCached: true
   - title: "This AI Startup is Building Better Tools Than AWS Sagemaker and Google AutoML"
     excerpt: "Nirman Dave, CEO at Obviously AI claimed that their models are better than those of AWS Sagemaker or Google AutoML."

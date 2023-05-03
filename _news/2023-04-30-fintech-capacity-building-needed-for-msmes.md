@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Here's How the Cloud is Revolutionizing Health Tech and FinTech"
-    excerpt: "Overcoming the model of office and lab work with cloud computing Cloud computing systems have allowed enterprises, schools, and government organizations to overcome pandemic-induced challenges and meaningfully accelerate innovation and agility toward the market."
-    publishedDateTime: 2023-04-28T22:39:00Z
-    webUrl: "https://www.entrepreneur.com/science-technology/cloud-revolutionizes-healthtech-fintech/450667"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 54
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1682721803-GettyImages-1365582863.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Best Fintech App Development Companies in the USA"
     excerpt: "Fintech apps are designed for various purposes such as payments, budgeting, investing, and lending. Fintech app development incorporates advanced technologies such as AI, ML, and Blockchain. Developing a fintech app requires expertise in both finance and technology,"
     publishedDateTime: 2023-05-01T09:59:00Z
@@ -58,50 +44,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 44
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "Dubai is bolstering its global fintech hub status. Here’s how"
-    excerpt: "Dubai has launched wide-ranging initiatives designed to nurture entrepreneurship and support startups across the GCC region"
-    publishedDateTime: 2023-05-03T10:00:00Z
-    webUrl: "https://gulfbusiness.com/how-dubai-is-bolstering-its-fintech-hub-status/"
-    type: article
-    provider:
-      name: Gulf Business
-      domain: gulfbusiness.com
-    quality: 39
-    images:
-      - url: "https://gulfbusiness.com/wp-content/uploads/2023/05/Dubai_Mohammad-AlBlooshi-Head-of-DIFC-Innovation-Hub-and-FinTech-Hive-2023-DFS-scaled-e1683094053696.jpg"
-        width: 930
-        height: 526
-        isCached: true
-  - title: "How AI is Revolutionizing the Supply Chain and Making It More Efficient"
-    excerpt: "Have you ever wondered how Amazon can expeditiously deliver products to customers’ doorsteps shortly after placing an order? The solution to this enigma is rooted in the efficacy of Artificial Intelligence (AI) within supply chain management."
-    publishedDateTime: 2023-05-03T11:09:00Z
-    webUrl: "https://techbullion.com/how-ai-is-revolutionizing-the-supply-chain-and-making-it-more-efficient/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 39
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/05/3cf223d7-hero-image1-08_10i80fk0fk0fk01c000028.png"
-        width: 560
-        height: 560
-        isCached: true
-  - title: "Jason Simon, Fintech Visionary, Unveils How Cutting-Edge Tech Will Transform Global Trade & Supply Chains Forever!"
-    excerpt: "The global trade and supply chain industry has undergone significant transformations in recent years, with technological advancements playing a critical role. In this ever-evolving landscape, Jason Simon,"
-    publishedDateTime: 2023-04-29T19:41:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/04/w32100887/jason-simon-fintech-visionary-unveils-how-cutting-edge-tech-will-transform-global-trade-supply-cha"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32100887"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32100887"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 37
     images:
       - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
         width: 1043
@@ -144,24 +86,52 @@ related:
         width: 1000
         height: 367
         isCached: true
-  - title: "AI and Customer Experience in Fintech: Personalizing Financial Services"
-    excerpt: "With the help of AI, Fintech companies are personalizing financial services to provide a more customer-centric experience. In this blog post, we will dig into how AI reshapes customer experience in the financial industry. Chatbots and Virtual Assistants ..."
-    publishedDateTime: 2023-04-29T17:17:00Z
-    webUrl: "https://www.finextra.com/blogposting/24129/ai-and-customer-experience-in-fintech-personalizing-financial-services"
+  - title: "OPTASIA RANKS THIRD AMONG TOP FINTECH COMPANIES ACCORDING TO FORBES MIDDLE EAST MAGAZINE"
+    excerpt: "Optasia, the leading Fintech services provider received one more top recognition, ranking third among the Top 30 Fintech companies in Middle East, by the world acclaimed Forbes Magazine in its Middle East edition."
+    publishedDateTime: 2023-04-30T23:59:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-optasia-ranks-third-among-top-fintech-companies-according-/2023/05/01/9805180.htm"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 19
-  - title: "How Artificial Intelligence is Revolutionising the Fintech Landscape?"
-    excerpt: "According to surveys, 2/3 of FinTech companies currently use AI technology in their activities to a greater or lesser extent. Its influence will increase. Last year, the worldwide market for AI solutions in the FinTech industry was assessed at roughly 9  billion USD;"
-    publishedDateTime: 2023-05-03T08:01:00Z
-    webUrl: "https://www.finextra.com/blogposting/24145/how-artificial-intelligence-is-revolutionising-the-fintech-landscape"
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 15
+    images:
+      - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
+        width: 550
+        height: 353
+        isCached: true
+  - title: "OPTASIA RANKS THIRD AMONG TOP FINTECH COMPANIES ACCORDING TO FORBES MIDDLE EAST MAGAZINE"
+    excerpt: "Optasia, the leading Fintech services provider received one more top recognition, ranking third among the Top 30 Fintech companies"
+    publishedDateTime: 2023-05-02T03:01:00Z
+    webUrl: "https://www.asiaone.com/business/optasia-ranks-third-among-top-fintech-companies-according-forbes-middle-east-magazine"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 19
+      name: Asia One
+      domain: asiaone.com
+    quality: 15
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/May2023/pr-newswire_500_4_61.jpg?h=7de12b8a&itok=W_l9i-Ue"
+        width: 600
+        height: 316
+        isCached: true
+  - title: "Power of Fintech Events for Industry Visionaries"
+    excerpt: "In the past few years, we have seen an explosion in financial technology (FinTech) innovations. This has caused a drastic transformation of how banks and other financial institutions operate. FinTech promises faster payments,"
+    publishedDateTime: 2023-05-03T11:04:00Z
+    webUrl: "https://techbullion.com/power-of-fintech-events-for-industry-visionaries/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 4
+  - title: "OPTASIA RANKS THIRD AMONG TOP FINTECH COMPANIES ACCORDING TO FORBES MIDDLE EAST MAGAZINE"
+    excerpt: "Optasia, the leading Fintech services provider received one more top recognition, ranking third among the Top 30 Fintech companies in Middle East, by the world acclaimed Forbes Magazine in its Middle East edition."
+    publishedDateTime: 2023-05-03T01:18:00Z
+    webUrl: "https://www.newswit.com/en/ifsiq14wm0t3f56786x2tdzmtdtia5cl"
+    type: article
+    provider:
+      name: academy
+      domain: newswit.com
+    quality: 0
 
 secured: "/vYdwRHtRLD2S0W0kiQCeVqprtS08WLtFfKL3X8U/as0qGBgaCNUtkeIQPl2Di/6GmgoF1N8s1SQtXHHaiOeCKoytja31wZOnq91YbH2rrwRYY7x3HL7zYrHcFN7DIdlK9AjE2mNcNDJr7/5Z1Ku2rXmR2bB5hQ7JDx/ye7a67HcTU6+yggESvhs4DUCsV+rgnuAY1DOJytW0SHIGBIG1YuTvIIszjRIEC3Q7HZHPvvD3DjQM8TRgFs09B0ib6FCtq2yUKbcL10NB8KVXz3npEPSLDKpiZOEDu4A6j6tJlfQCpMb8ke7Z5Cg2fP4i9Tyw/F2P4cmMA5lVOjgkTxnICmV7iqnu3B6G7hMpewqtRA=;u4aLwLZRWK22uyQv6X/eSg=="
 ---

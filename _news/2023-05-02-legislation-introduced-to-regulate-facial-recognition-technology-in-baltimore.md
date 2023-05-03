@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wmar2news.com/local/legislation-introduced-to-regulate-f
 cdnAmpWebUrl: "https://www-wmar2news-com.cdn.ampproject.org/c/s/www.wmar2news.com/local/legislation-introduced-to-regulate-facial-recognition-technology-in-baltimore?_amp=true"
 type: article
 quality: 58
-heat: 118
+heat: 128
 published: true
 
 provider:
@@ -101,6 +101,15 @@ related:
       name: WBAL
       domain: wbal.com
     quality: 19
+  - title: "Met Police considering using facial recognition technology for King's coronation"
+    excerpt: "The Metropolitan Police are considering deploying facial recognition technology to target those who may jeopardise the safety of the King's coronation. As the weekend looms, a Met briefing on security concerns took place on Wednesday after a man with a knife was arrested for throwing items,"
+    publishedDateTime: 2023-05-03T11:29:00Z
+    webUrl: "https://www.itv.com/news/2023-05-03/met-considering-using-facial-recognition-technology-for-kings-coronation"
+    type: article
+    provider:
+      name: ITV
+      domain: itv.com
+    quality: 14
 
 secured: "Tmnzk6LAfC8xcgn6k9DcG3F79ZlExpfPxB4h+4XWjcQkfXLOJokUaoNhGuu7f2+pZ7+0/y1hun8akt0n1uliR8Fr9GMY2P2a4xNKS1f5fNIPVKTtyGqrlu+wLiGlZozVCXN0pftAoDIV3Lhp0w9Xia0sr5pKUkLS35e/+JZCW4k0INNZa9NbL6pzDV03hCGVZJiAxsg8DUUG8qJSq/AXX5JUJBPE7DrRBSeIkiXVtxe2qQ9Jnm4ojymfG0ZcDYt38FwnOfxTlEo5+eaBOzUEZ36CDqLFKnp6qF9L28PXgg2hDzm9ssVVrzGUN7B9JCDk299Yq7+u+BgkWozXTIFh7iiWS6kqShNGK0m+6RdBCfuCDJdDI8k4bKz8mv3BumBEWvSKT8SJAKiyvgBgHZ/gaoE9v0j4lbKUT0WXzid1kyYg3PMKKTRawzeQJNyW/hJyXHCqH5pIdlHg7pyRxI2Qsc3RXjum03kLCRDu6cMzMkzLXTafDB4q8CXUmjeLTIRx+Q9lbTfZEYS7V3PwIVjxyg==;Cum3JQpZaTjpWa4Z2IeyWg=="
 ---

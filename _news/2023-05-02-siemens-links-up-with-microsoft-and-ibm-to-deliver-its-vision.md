@@ -69,6 +69,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "CallMiner Collaborates with Microsoft to Enhance AI Capabilities"
+    excerpt: "CallMiner Collaborates with Microsoft to Enhance AI and Machine Learning Capabilities for contact centres perform better and more efficiently"
+    publishedDateTime: 2023-05-03T15:24:00Z
+    webUrl: "https://contact-centres.com/callminer-collaborates-with-microsoft-to-enhance-ai-capabilities/"
+    type: article
+    provider:
+      name: Chat Bots
+      domain: contact-centres.com
+    quality: 54
+    images:
+      - url: "https://contact-centres.com/wp-content/uploads/2023/05/callminer-microsoft-ai-mage-777x437-may-2023-min.png"
+        width: 776
+        height: 437
+        isCached: true
 
 secured: "GFTWOJH4bbFjJnE2qsXlDQXmP61QcGEhkjG9vYOXJigPe/ASyFOBan2x63bVqPTZLgBneX6LlgCRd83FBpFFYmDbHjtr7wk0qNAwxlWRCfu2oYaTzSPoClu+qH0+eAXu588fgEoscFDqaziTGJRU87wkU0JrWeDXheCQY+EBg2gDCdA2a6ISeZ2ZYckBqeasW6Lcq3DpVVtOAayeI9hSlVBZkV8/aFVc31+GbyiILRQMsYzTvivmcdK4BN63p//bUhgBnXdCGMyZfBCIxCXE4pBqdxOAdW9mWJUsczkAvox8e7PbEvCAXNtZp515C1Q8vcU/Zg9LWUeYgnNovcJR6+kRWBOZsQRyQGNlNfZ29LU=;6DHQ6OLmxg4WkonVhIGjhw=="
 ---

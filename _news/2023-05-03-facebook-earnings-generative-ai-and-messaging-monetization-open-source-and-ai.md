@@ -1,0 +1,82 @@
+---
+category: news
+title: "Facebook Earnings, Generative AI and Messaging Monetization, Open Source and AI"
+excerpt: "Meta’s earnings showed that all of Meta’s Myths were, in fact, myths. Plus, how LLMs can benefit Meta ad products, and why Meta might open source more AI models."
+publishedDateTime: 2023-05-03T12:24:00Z
+originalUrl: "https://stratechery.com/2023/facebook-earnings-generative-ai-and-messaging-monetization-open-source-and-ai/"
+webUrl: "https://stratechery.com/2023/facebook-earnings-generative-ai-and-messaging-monetization-open-source-and-ai/"
+type: article
+quality: 15
+heat: -1
+published: false
+
+provider:
+  name: Stratechery
+  domain: stratechery.com
+
+topics:
+  - Facebook AI
+  - AI
+
+related:
+  - title: "5 Amazing Ways How Meta (Facebook) Is Using Generative AI"
+    excerpt: "Explore how Meta utilizes generative AI to revolutionize advertising, chat, image generation, and natural language processing while shaping the future of the metaverse with immersive and accessible content creation."
+    publishedDateTime: 2023-05-02T06:29:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/05/02/5-amazing-ways-how-meta-facebook-is-using-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/05/02/5-amazing-ways-how-meta-facebook-is-using-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/05/02/5-amazing-ways-how-meta-facebook-is-using-generative-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6450ac8062c3ef25fedc456e/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Generative AI Won’t Take Off Without 6G"
+    excerpt: "Although the sixth generation of broadband internet and mobile technology won’t emerge widely for a number of years, organizations are exploring business innovations for a more intelligent, immersive world."
+    publishedDateTime: 2023-05-02T12:18:00Z
+    webUrl: "https://www.forbes.com/sites/sap/2023/05/02/generative-ai-wont-take-off-without-6g/"
+    ampWebUrl: "https://www.forbes.com/sites/sap/2023/05/02/generative-ai-wont-take-off-without-6g/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2023/05/02/generative-ai-wont-take-off-without-6g/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64248ed36d63fa962ef43b0c/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "3 ways Generative AI is transforming the retail industry"
+    excerpt: "Microsoft Azure OpenAI and other Generative AI technologies are helping retailers jumpstart innovation, improve customer experience, and accelerate growth."
+    publishedDateTime: 2023-05-02T21:58:00Z
+    webUrl: "https://www.cio.com/article/475453/3-ways-generative-ai-is-transforming-theretail-industry.html"
+    ampWebUrl: "https://www.cio.com/article/475453/3-ways-generative-ai-is-transforming-theretail-industry.html/amp/"
+    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/475453/3-ways-generative-ai-is-transforming-theretail-industry.html/amp/"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 59
+    images:
+      - url: "https://www.cio.com/wp-content/uploads/2023/05/image-EVP-2-Retail-iStock-Asawin_Klabma-1.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 645
+        isCached: true
+  - title: "Making A Difference With Generative AI"
+    excerpt: "Everyone seems to be using ChatGPT for something or the other. Here, our experts suggest some serious, game-changing applications that the technology can"
+    publishedDateTime: 2023-05-03T11:39:00Z
+    webUrl: "https://www.electronicsforu.com/technology-trends/making-difference-with-generative-ai"
+    type: article
+    provider:
+      name: electronicsforu
+      domain: electronicsforu.com
+    quality: 19
+
+secured: "RuKqHmWTx5M3x13mk2LQKVDj26N1msy6OahkgpWSkiFrj/Z/9E3WqiUMOin9VxJlHzwyKqmO8xI6ZYt7Mx7aeZnj5LYobR9b08rW69J74s9fABF7eDt2KVcwNk+sEGCaB4KPzANlEN3h5/QDP558tgjNYv7Q18p2hot0em8IiSSGj53Qdlt1RR7VT3iMjZgj0MfhVb4Sss8WmGf7wTEF9lgdMMeIZ0ewFAWuKeGeAX/U5W4BWJJ0WGGlR0bTmyR+CNuaGuw7vu00CF6YdDmqex2X5La+mZvfK8SiWOuHMHuBfaQ5zULwyXBR92Cez1y5rTZHFqV6EXnsgGIQ6/L0qGREcEYYthmLRC7Cqhs1qcoflYMxQReRzElzEwSzox179sixkmX3DwPzfef+73IO5EwmWfiJlacgampZpTPcT55ASuml647wkSDTaWrfD63W2WygZx1DIse3pd2mffdonKyq0w0CEQyWAFul9cQ+BOwXY99q+Cqrl0+VmJMCwGE36TOYvwyxsbTwOuJhnvsmUA==;S/IshAFCEAGWCCnb2z1OpQ=="
+---
+

@@ -25,24 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "AI lessons from healthcare: Overcoming complexity and embracing the cloud"
-    excerpt: "The healthcare industry has pioneered some of the most effective, innovative approaches for moving AI into production."
-    publishedDateTime: 2023-05-01T13:07:00Z
-    webUrl: "https://venturebeat.com/ai/ai-lessons-from-healthcare-overcoming-complexity-and-embracing-the-cloud/"
+  - title: "The AI political campaign is here"
+    excerpt: "President Barack Obama's 2008 election campaign has often been celebrated as the first to effectively use social media as a mobilization tool to capture the White House. In the 15 years since, the technology has gone from being a novel addition to a political campaign to transcending every aspect of one."
+    publishedDateTime: 2023-05-02T21:29:00Z
+    webUrl: "https://www.cnn.com/2023/05/02/politics/ai-election-ads-2024/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2023/05/02/politics/ai-election-ads-2024/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/05/02/politics/ai-election-ads-2024/index.html"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 63
-  - title: "9 ways AI is already shaping the future of healthtech"
-    excerpt: "Amid an increasing shift from reactive care to proactive care, here are some of the latest AI developments in healthtech."
-    publishedDateTime: 2023-05-02T15:00:00Z
-    webUrl: "https://www.fastcompany.com/90890400/9-ways-ai-is-already-shaping-the-future-of-healthtech"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 17
+      name: CNN
+      domain: cnn.com
+    quality: 87
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/230502181615-rnc-beat-biden-ai-ad-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "s2FcGZrQ7DznXrSoMIpzOF1dnxOR5gWfQ+I6QhL1nQeKQEmvnKMfOgAb4idI8qply2/yshzNIUGyIRXpnEHiu68iZIQdqS26EEiKjQ4YYaR76SN9joP14voRawxqBWcg9fm60J8QN4Wm3Jp+oE+R71b2tnBJgSa3d3uyedgxieBd6bTPpgxmrlQsM3nrMPKFYapLv62AIx0SPH2xpRyuw5rV+BHG5tYfD/2sCIcphrLP0fPjU8XyQdTGV+qGOZLGYPhS6UAIJG+Yt/vewYZBGklL88xLkbXkqmqfE7gVTG4iVeJAPmK8ukxbXtJHgXwC99wQd2/I3f/qB1s//xvEebC3B6Pb5PnnXekYJ+xgAnQKlnYJKph65hDgEvtjoNZhY/qpkWKlLy6pEuQFMfbhU0gnb2CWxiU32MfxPoXZU73FUeybpbajgN9g+qC4fL4a3CwKyJI0iPJXJZpq872j28KYO1orYCHleTN/98Gt4qT4s9SsDHuIHuFnoOvb2SxTD934gu9Nr0trh49/wCWmPw==;apsNYyIJGsdIMZnDPeWBzg=="
 ---

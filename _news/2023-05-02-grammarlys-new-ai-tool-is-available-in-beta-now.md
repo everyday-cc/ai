@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/grammarlys-new-ai-tool-is-avail
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/grammarlys-new-ai-tool-is-available-in-beta-now/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "The best AI image generators available right now"
+    excerpt: "AI image generators let you conjure up images straight from your imagination, but which one should you use? We list your options."
+    publishedDateTime: 2023-04-30T21:31:00Z
+    webUrl: "https://www.androidauthority.com/best-ai-image-generators-3318897/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 67
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/04/barack-obama-ai-image.jpg"
+        width: 1919
+        height: 1080
+        isCached: true
 
 secured: "zkq9au+4b/ulHSXem8taZBi9sSgovy0EzS2aNYxr6KRfTdgb3ufKnFayiboud0my6ROn+mi0s9gRPuJ9BL+lJv6DztHeqI3rvIgnYimyRCnB4IKw34lWt7rJ+sXDEA8fUj5GcdZEnZt4mDieKo0APwYtihf7eBG7G/APVB0j+RF2hhwf54JZKSb9da0ScIz03AWT8SncGlUGRXt0sIzSrq+voJKhtAlZoLlDzlhCvbzJfZ5/RMkIf3SYuN+laC8jn3tQbd4jBrSo9mZxxsa/tt/VjNcH/k7TiREsoG1K1m37ZzVbaLo69jWSt6j0bQwPPL+tELxBf3btSXaDIWhjG+F8syqAXn541vBeLfgre0Y=;poUMzBuov3/2pK09niF4Xw=="
 ---

@@ -89,22 +89,6 @@ related:
         width: 470
         height: 352
         isCached: true
-  - title: "Is this the snarkiest AI chatbot so far? I tried HuggingChat and it was weird"
-    excerpt: "Aside from the confusion on who's human and who you're actually talking to, HuggingChat sometimes believes it's ChatGPT -- really. The first question I asked the new AI chatbot was \"Are you better than ChatGPT?\", for which you can see its answers on the screenshot below."
-    publishedDateTime: 2023-04-28T20:52:00Z
-    webUrl: "https://www.zdnet.com/article/is-this-the-snarkiest-ai-chatbot-so-far-i-tried-huggingchat-and-it-was-weird/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/is-this-the-snarkiest-ai-chatbot-so-far-i-tried-huggingchat-and-it-was-weird/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/is-this-the-snarkiest-ai-chatbot-so-far-i-tried-huggingchat-and-it-was-weird/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 84
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/2f8193fb48f9153ebf8b4f62607c774e878ba8b5/2023/04/28/742b7956-352e-4293-8b03-c0609212a4df/confused.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Should Generative AI ChatGPT Be Made Available Unfettered Unfiltered And Likely Vile, Asks AI Ethics And AI Law"
     excerpt: "A rising question is whether generative AI such as ChatGPT in its rawest form has significant value and legally ought to be made available for the betterment of us all. Here's the scoop."
     publishedDateTime: 2023-05-01T08:00:00Z
@@ -285,22 +269,15 @@ related:
         width: 2500
         height: 1406
         isCached: true
-  - title: "Artificial intelligence bot ChatGPT has a better bedside manner than REAL doctors, study shows"
-    excerpt: "ARTIFICIAL Intelligence bot ChatGPT has a better bedside manner than real doctors, a study shows. It was judged to give higher quality and more empathetic answers to real-world health questions 79"
-    publishedDateTime: 2023-04-28T20:38:00Z
-    webUrl: "https://www.thesun.co.uk/health/22199736/chargpt-better-bedside-manner-real-doctors/"
-    ampWebUrl: "https://www.thesun.co.uk/health/22199736/chargpt-better-bedside-manner-real-doctors/amp/"
-    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/health/22199736/chargpt-better-bedside-manner-real-doctors/amp/"
+  - title: "Gartner: ChatGPT interest boosts generative AI investments"
+    excerpt: "The new Gartner poll also found that most executives believe that the benefits of generative AI outweigh the risks."
+    publishedDateTime: 2023-05-03T11:34:00Z
+    webUrl: "https://www.techrepublic.com/article/gartner-executives-chatgpt-investments/"
     type: article
     provider:
-      name: The Sun
-      domain: thesun.co.uk
+      name: TechRepublic
+      domain: techrepublic.com
     quality: 47
-    images:
-      - url: "https://www.thesun.co.uk/wp-content/uploads/2023/04/NINTCHDBPICT000813339870.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Reid Hoffman's new AI startup Inflection launches ChatGPT-like chatbot"
     excerpt: "REUTERS/Brendan McDermid/File Photo May 2 (Reuters) - Inflection AI, the AI startup founded by LinkedIn co-founder Reid Hoffman and former Deepmind (GOOGL.O) researcher Mustafa Suleyman, has released its first AI chatbot product, the company said on Tuesday."
     publishedDateTime: 2023-05-02T18:08:00Z
@@ -416,20 +393,6 @@ related:
       - url: "https://www.techwyse.com/wp-content/uploads/2023/05/AI-Writing-and-the-Future-A-Guide-for-Marketers-in-a-Post-ChatGPT-World-1.png"
         width: 800
         height: 418
-        isCached: true
-  - title: "ChatGPT-powered Chatty Cat app for Mac brings AI to pets"
-    excerpt: "Unlike other ChatGPT-powered apps or extensions, Chatty Cat for Mac brings six different pets to interact with you throughout the day."
-    publishedDateTime: 2023-04-28T21:06:00Z
-    webUrl: "https://bgr.com/tech/chatgpt-powered-chatty-cat-app-for-mac-brings-ai-to-pets/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 37
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/04/chatty-cat-chatgpt-powered-bgr.jpg?quality=82&strip=all"
-        width: 1812
-        height: 900
         isCached: true
   - title: "Artificial intelligence or active imagination with ChatGPT?"
     excerpt: "When a journalist and historian attempted to see if his own research would be sourced by AI, he was intrigued by some of the responses he got from a text-generating artificial chatbot"

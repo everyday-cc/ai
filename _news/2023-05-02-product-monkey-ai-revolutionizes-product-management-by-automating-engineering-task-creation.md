@@ -74,6 +74,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI ‘could be as transformative as industrial revolution’"
+    excerpt: "UK’s outgoing chief scientist urges ministers to ‘get ahead’ of profound social and economic changes"
+    publishedDateTime: 2023-05-03T14:29:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/may/03/ai-could-be-as-transformative-as-industrial-revolution-patrick-vallance"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/03/ai-could-be-as-transformative-as-industrial-revolution-patrick-vallance"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/03/ai-could-be-as-transformative-as-industrial-revolution-patrick-vallance"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/a6eaef833556b81337c95f6e88a34a1b44407791/0_300_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=6c607e1e58ea849496f7dd45d0c4493e"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Teradata operationalises AI with Google Vertex AI integration"
     excerpt: "Teradata has announced services enabling organisations to accelerate Ai-driven digital transformation initiatives. The connected multi-cloud data platform"
     publishedDateTime: 2023-05-02T14:20:00Z
@@ -97,6 +113,15 @@ related:
       name: Design-Reuse
       domain: design-reuse.com
     quality: 34
+  - title: "How Midsize Companies Can Keep Up with AI"
+    excerpt: "Right now, many businesses are reacting to generative AI in a vacuum. But individual innovations shouldn’t be approached with a narrow, short-term focus, as midsize companies that chase each new trend will find themselves over-committed and under-prepared when that trend wears off."
+    publishedDateTime: 2023-05-03T12:15:00Z
+    webUrl: "https://hbr.org/2023/05/how-midsize-companies-can-keep-up-with-ai"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 17
 
 secured: "eY7NDseECLwjjRwrxKGvIOzZ1d512haT789a08fMpYOpvho3btoKK/zV7ne/w8uCa0bb+AT7ZJcSZghrC7YPPtG/YqNXCHpQzLFusBVzeut0DQdICxd6fKt9Rf5Pk0XUnGxXa5Nxwq7AzgPuEQeSIW6nbebcmyA59+Fb5e9VVkpsFvXp0o8ISfzIsKt2lJvhHsDqVn1CyIAoAQNT4i5L/slq5A393xLdOcnRpWedy2vrLC6EbGvmZ832lS9+53pbkebRtYktzq6Y0FVympYg5kZbmbUtTkOp5aCERG0k85waj0xsLIKQohlKF8BVly3Oib/lXD6ApVt5fKsrctgPSPMP5h6xe/MmOFos7LxUQVc=;q+bFkKSJ+s7j4HiiVDmWCA=="
 ---

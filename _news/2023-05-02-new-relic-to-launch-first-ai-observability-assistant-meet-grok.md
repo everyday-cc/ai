@@ -57,6 +57,15 @@ related:
         width: 1200
         height: 599
         isCached: true
+  - title: "Honeycomb announces generative AI-driven natural language querying for observability"
+    excerpt: "Honeycomb's new Query Assistant capability empowers engineers to ask questions in plain English instead of a query language."
+    publishedDateTime: 2023-05-03T13:00:00Z
+    webUrl: "https://venturebeat.com/ai/honeycomb-announces-generative-ai-driven-natural-language-querying-for-observability/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 42
 
 secured: "zXFXp44x7p4dtdgubbWLsGJw8s7JORR6zEdIxI5Xy6lfqwDELEThPeBg3AufA7Q9BnDcFm8EtQZzAZDVBLJINYX7pTp2koMsIY5GPgGDKNfuATfch23hdomBmdBqdU7NuIIjDywt5vh+otsPxdMlAK7Id0ZlU4xwmgbseW6UN1vA/U5ewAFp7xHEfRaJ5c+/xb5E+9B3GNTE3uOiQm/Yrv66DgfkupHayXATK5NDC1Ha/0zg4G+pZZIL8E42yvsNx8HjoXeuuLkilWRxwR1ZwrsQJLviuOdfFJH9eMTErKvJVJJhyGsl5YfDdweGar81cTZdC7Tv1EpjoOF3GKVTUC1fQDyau5V/QLS6JbR6WXO2N6iLi1HSeYz6bNQLWNBdXQv2GGGeJ3dQvKEgo80UyyLf+4mqesVBTaYCF1n1S6wO6bqRbIbSWrYFTza+w9o57s71fsBrvPwvdAmaMTCRXK71s/qzE00ZcwdaEJdgVOwewF4CNT0IiHQpU5hH6SccCceiXUrLKO+v2F35O+6gJA==;OHqxoQq+Ma3CaXeEU3w7vA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/lutzfinger/2023/05/01/three-trends-of
 webUrl: "https://www.forbes.com/sites/lutzfinger/2023/05/01/three-trends-of-transformation-how-ai--value-based-care-vbc-will-drive-transformation-of-self-insured-healthcare/"
 type: article
 quality: 61
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -59,6 +59,15 @@ related:
         width: 450
         height: 308
         isCached: true
+  - title: "MotionPoint Releases Adaptive Translation™: Proprietary AI to Reduce the Cost of Quality Translation"
+    excerpt: "MotionPoint introduces Adaptive Translation™ technology to reduce human translation costs without sacrificing quality."
+    publishedDateTime: 2023-05-03T11:00:00Z
+    webUrl: "https://slator.com/motionpoint-releases-adaptive-translation-proprietary-ai-to-reduce-the-cost-of-quality-translation/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 4
 
 secured: "tQmAo57djsOoD2QdRjmEhobyhnVFWeV50n0XkDC1CtD526cMpc2N9ikoQLUX6cQSrmzJ7O7rRfpe8g81MDxj9NhwTR8eK7WX/Z0ohCdf6976PxJkECRHd7TtK1p99XjKaVstcKU4SvkM2vf3IdpBUn5vYFp+rAkjwHr79uQaC6e0n/q8bqdwlE5WE3VYIVDt+xxqoxMQspb233umoIQTnsf8qm22xG61mFbeSgNjLjUWiKYeWlmMLsQkgeq7UNGSUESMYFRfxvrwKzTnTBuYxdkNWKaWXQ0d/awNE+r1RWAYzCc3gq0UKRroq6Gn5x1br5owEXzrMPxXiGiR+PRZgVqQ7MgulVwEwPaphIVeahxnbNqMBLB4YvgJHKU0NRr/VVeZK75YAv6PbYP4/DhxCml1GvQBfySuznM2AHmjiSZUsF8fbbGzpV2l6IM6YNB08hvHxWJ+xIld72HbqdiWkwAHX69wnsT7R7CM+QgITl62TtQWwJFGqhVP7CO93TcLqNuqEpCT9IyqQbEL/2YCLQ==;5fyqylyymoPWcuE54grD0w=="
 ---

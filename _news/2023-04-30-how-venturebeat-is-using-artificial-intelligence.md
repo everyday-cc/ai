@@ -9,7 +9,7 @@ ampWebUrl: "https://talkingbiznews.com/media-news/how-venturebeat-is-using-artif
 cdnAmpWebUrl: "https://talkingbiznews-com.cdn.ampproject.org/c/s/talkingbiznews.com/media-news/how-venturebeat-is-using-artificial-intelligence/amp/"
 type: article
 quality: 57
-heat: 57
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     width: 535
     height: 477
     isCached: true
+
+related:
+  - title: "GamesBeat Summit 2023 will capture how generative AI is changing gaming"
+    excerpt: "Generative AI is sweeping through the game industry and that's one of the can't-miss topics we'll discuss at GamesBeat Summit 2023."
+    publishedDateTime: 2023-05-03T15:30:00Z
+    webUrl: "https://venturebeat.com/games/gamesbeat-summit-2023-will-capture-how-generative-ai-is-changing-gaming/"
+    ampWebUrl: "https://venturebeat.com/games/gamesbeat-summit-2023-will-capture-how-generative-ai-is-changing-gaming/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/gamesbeat-summit-2023-will-capture-how-generative-ai-is-changing-gaming/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/05/ai-at-gamesbeat.jpg?w=1200&strip=all"
+        width: 1200
+        height: 575
+        isCached: true
 
 secured: "e8HA4TtnttHtGPDYHGbDIw+gtcrxBm1xxWPXDrru9P+RXIWTU6wIH4agrEFYb1hSKUvUlZg2pNzcOuoFqRgujVGF8rW7BqGeK1FTROtfawEvvllLoJQFJ/3rFJw9RCz9vUc0qoZE987sK1bfL5ufZmW4NzdwIMcApSvlD8C03CWbpHzFMCDgMOcBFb2hF4j6nktQQ1i8g/XpakRRW3DTBaoZ+XgamAaBuF4WlsjeK2U9EMljwHXWpeNgr6Qt8WJP7497bItWXiM0yGUqhcPn6HtWyoeS/Cyx5eyYhYMeIohd6+VdMXt5IHLbrCTW1MqQkXHWKs36MC5ceqB7h7cVD4TUeRUJSKVBWlkyFfuz/GN9+4tIZM1rNtBBQhveWqlXkJYsbx+9/vkxjIivFOWUXZYh2wrfE4x60NtR35OlO5l1G5hCiGCTqCOMJoHp4m7UZuLxqgxDJmIMPT5KEoKkyRwsc+hSUO7o9mzCTg6rNHwYrqrwnT8iFUu+cqGp4QoiFPKMpQIWUsXG9bYoOaFNXg==;5ugjTY6OojV+6ecNUv9hvg=="
 ---

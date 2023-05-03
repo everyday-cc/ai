@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/05/ibm-pauses-hi
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/05/ibm-pauses-hiring-around-7800-roles-that-could-be-replaced-by-ai/amp/"
 type: article
 quality: 81
-heat: 201
+heat: 211
 published: true
 
 provider:
@@ -163,6 +163,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 39
+  - title: "IBM pauses hiring, says it could replace 7,800 workers with AI"
+    excerpt: "IBM has paused hiring and said that it could lay off around 7,800 workers over the next five years. CEO Arvind Krishna claimed that employees could be replaced by artificial intelligence. Speaking about back-office workers,"
+    publishedDateTime: 2023-05-03T14:11:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/ibm-pauses-hiring-says-it-could-replace-7800-workers-with-ai/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 39
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/IBMpilgrimage.original_8tnb9w8.2e16d0ba.fill-1200x630.jpg"
+        width: 1024
+        height: 539
+        isCached: true
   - title: "IBM to pause hiring for jobs easily replaceable with AI: CEO Arvind Krishna"
     excerpt: "Krishna said hiring in back-office operations such as human resources would either be suspended or the hiring for such job roles will be frozen."
     publishedDateTime: 2023-05-02T07:54:00Z

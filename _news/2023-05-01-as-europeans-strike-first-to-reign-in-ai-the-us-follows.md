@@ -66,15 +66,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 49
-  - title: "European Parliament calls for a ban on facial recognition"
-    excerpt: "The European Parliament today called for a ban on police use of facial recognition technology in public places, and on predictive policing, a controversial practice that involves using AI tools in hopes of profiling potential criminals before a crime is ..."
-    publishedDateTime: 2023-04-28T19:42:00Z
-    webUrl: "https://www.politico.eu/article/european-parliament-ban-facial-recognition-brussels/?source=Snapzu"
-    type: article
-    provider:
-      name: Politico Europe
-      domain: politico.eu
-    quality: 19
 
 secured: "BUUtO/EvcTAjBFnQyuoCtkKHjiuZa3eXNcJjV/e9ETMWv8aVQYQ29LWEgTD8WxSq7Rs/mfg3ntuBnpsDoXm5IWUnI+mJwc8LCdWW5IZNAWQOE3E3SKjAKvti02Sj5m8ZEhsuD/TQnjQ16ENXwOaxcekTt06U79470XZJp57dTdbvfcHPlUAQviTKQ/pHSY/Pk0+Zk6zU7s9znNV9zNYCiVP7RG/gKsq5KtruTsexdZ3vrzPXkGeJh86iIZ+07tnoYmsKkYdGvujp+WmG61ggKngJuPYxZ6lAzq7xCkvb4h4UMGc9pnPTMUPYZjsCSbZ/apJ6beqBq3BGcg4KO8+tKsRpuaYfBq2gNuNrhycxSXqeZdOtVV6UV+Iq0mxpmD/ZrgwCjp6Y6Xy6F/f2mfwck8AxE9VRVhdxTqt165nCxnBy8m3ikN1wG5HA7xFp6LrXg6NhRhkB95O7DRpVQuMT+6k4QypUGq90iy7goroFI7/y7WxcKRjigdUZ+gp8r3xlOSBemSBabli+OLDXiG7avQ==;BkfhqGGILmOigVZ0TruLMA=="
 ---

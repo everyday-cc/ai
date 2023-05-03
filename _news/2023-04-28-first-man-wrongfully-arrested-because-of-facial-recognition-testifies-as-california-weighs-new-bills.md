@@ -1,14 +1,13 @@
 ---
 category: news
 title: "First man wrongfully arrested because of facial recognition testifies as California weighs new bills"
-excerpt: "One bill would ban its use for 10 years, while the second could allow police to match images to the state driver’s license database"
-publishedDateTime: 2023-04-27T18:07:00Z
+excerpt: "Detroit police had matched grainy surveillance footage of the crime to Williams’ driver’s license photo using a facial recognition service. But Williams wasn’t the robber. At the time of the ..."
+publishedDateTime: 2023-04-27T20:40:00Z
 originalUrl: "https://www.theguardian.com/us-news/2023/apr/27/california-police-facial-recognition-software"
 webUrl: "https://www.theguardian.com/us-news/2023/apr/27/california-police-facial-recognition-software"
+ampWebUrl: "https://amp.theguardian.com/us-news/2023/apr/27/california-police-facial-recognition-software"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2023/apr/27/california-police-facial-recognition-software"
 type: article
-quality: 4
-heat: 4
-published: false
 
 provider:
   name: The Guardian
@@ -22,6 +21,12 @@ topics:
   - Computer Vision
   - AI
 
-secured: "oz3GiDM2RH/caCQ2ZTAY7BwvSzTDy465Q8gS1eHnT0FmRQURkf/RcjeEZN2TaacUtCg/7fEvat8nlcpJfqbuWzNZZUhCe7SxQLJCpiwTs0tGERuLVAPse5xRxQz6+zdjq1CCWs/VlBvJh1qGlEZ//I00YXI/4N2/YE+7t5Se6mYHhHbHhM5tzSyZ3G7RpuOhLY0M6Qxd0HAEdv8cWlfML+mlqweoqJnlKzJ1CYMHUnEfJReBcIXot+TBFEVS0idsLz4u1GHYJLW4MyFpYX1xrARPL/aq4i3NrvJ7nwVSyTrdabvftxzzIubA1+VSYAv5SsCK4zf3j3MXHpZVDTqTd/k9zGFTUIuZ7n1VnJR6k/EtFcDNfxWbhmSDOs/z9p0A/ISfQRnEyzLHQ6dilPLaqluSNZ25pkowchp40/fsp6S0Ix/q5J87mpUQKd+1isq9pQk570kY8kEDbFaNl0rgu+Bv3oBZjgAoTBUV8jOUW/6JBn0zZidboEFHZ5VQ+wFjw7w4K++PYKerjPwGPwtpHA==;0COGLsqugB81CZmIw99l7g=="
+images:
+  - url: "https://i.guim.co.uk/img/media/e4783e3707eb88a772d48dc5a0818c83413a2f92/0_113_4924_2955/master/4924.jpg?width=620&quality=85&auto=format&fit=max&s=8ad7a2f2528230b57cdee1418dfb62c1"
+    width: 620
+    height: 372
+    isCached: true
+
+secured: "zGHhkBUUgGQ9Wq6kS5nmVRPaqauJYJwn4GVMFCtyncjAb5bHv4gawMscHf4qx4+/iGjWPiu+g91WCzDAoYzaPlwMvulDg8mYa0sG2wNvZul2UBbTUAqRaWCmLYCv6FDxax7YET/ABFfy0R9g4fiLsUU4tmesVpIHQ7eS07ylD6aBvi/QtEWKxy+fe7yyt/JAr31IKXUcUoYtdFlm307vL2l8J6TEl6+cUbjgqqMX8J5DRq5itCohhjfJawcqOyaPPqs2vE0dWHIGZMjtijT6zces0VTi61FTxPm9CjQh0ufulSN3Du/5J2CcLF1s47ZZIoN0RqqcP8zYeEKrk3l+KdX59GJmSgaQc0nh2EWHeIE=;Rm8NsXyKqs5A4yblUDg8bg=="
 ---
 

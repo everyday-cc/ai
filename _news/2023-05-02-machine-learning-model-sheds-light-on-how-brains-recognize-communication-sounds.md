@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2023-05-machine-brains-communication.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-05-machine-brains-communication.amp"
 type: article
 quality: 70
-heat: 82
+heat: 80
 published: true
 
 provider:

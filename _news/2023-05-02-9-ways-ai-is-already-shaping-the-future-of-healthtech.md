@@ -27,20 +27,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 63
-  - title: "Artificial intelligence is real care: the future of wellness, and AI-driven medical schemes"
-    excerpt: "For the first time, people could tangibly experience the wonders of artificial intelligence (AI) integrating itself into their daily lives across almost every industry. Source: pitinan © 123RF.com As for healthcare,"
-    publishedDateTime: 2023-05-02T11:11:00Z
-    webUrl: "https://www.bizcommunity.com/Article/196/159/238033.html"
-    type: article
-    provider:
-      name: Bizcommunity
-      domain: bizcommunity.com
-    quality: 44
-    images:
-      - url: "https://biz-file.com/c/2304/696355-848x441.jpg?3"
-        width: 848
-        height: 441
-        isCached: true
 
 secured: "LlD0XAfi5gqJ0V4BIi+fxkWz6aTIg1LjQnsnsYIECacEYQp4HuTVxGlIg9wGBRRo7tR+NqmY2++FZMA8qsLqcKNNJHowwQ0zLtAMi4lakSZgvalKS+xA6uwUl0m4QbpiShPVnxFeZ6Qn/CyRn6ZRIoRuOwRLP2VFViALGACUbCtHh/2nXhOC3kSzHlum+VCYGzVEENdDv1OtszFrys9fKpdcqNh0vfNhWrRll0cLzvSRFpGA/LiyrmTZI0D57+PKVHgU9hmeLWTeaKOoE4kwrCXAf+Nx+BTNFxWlIeuXzHn0BaJYnl3yLnspwg9wcNQPeGAh6UGLl+Z2aXJWfUt71dgocFjLQ7bMCcsk6lW54o2BLinXSKnKcoGV7pAe7CvcSV9PnIY8iKDJ/v0b7hU/RyowY8gkcJBeI7zQ0bNZ3BEfHXARildQhX105Ub5HInZQ7n7+arcYxwL9GbdJNGXoWYAO7fQ+pTTX9NbaLJyoFJu5HnOSpceXC1pycBlIypLQP/CrqylzlYII0V015pZzg==;eT1qsy3WfhWFtilNmfqKfQ=="
 ---

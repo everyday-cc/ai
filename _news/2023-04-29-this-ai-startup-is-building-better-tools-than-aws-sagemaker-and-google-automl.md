@@ -54,6 +54,20 @@ related:
         width: 1260
         height: 630
         isCached: true
+  - title: "How Vericast optimized feature engineering using Amazon SageMaker Processing"
+    excerpt: "This post is co-written by Jyoti Sharma and Sharmo Sarkar from Vericast. For any machine learning (ML) problem, the data scientist begins by working with data. This includes gathering, exploring, and understanding the business and technical aspects of the data, along with evaluation of any manipulations"
+    publishedDateTime: 2023-05-03T15:17:59Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-vericast-optimized-feature-engineering-using-amazon-sagemaker-processing/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 86
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/04/20/ML-13673_arch.png"
+        width: 975
+        height: 556
+        isCached: true
   - title: "Question answering using Retrieval Augmented Generation with foundation models in Amazon SageMaker JumpStart"
     excerpt: "Today, we announce the availability of sample notebooks that demonstrate question answering tasks using a Retrieval Augmented Generation (RAG)-based approach with large language models (LLMs) in Amazon SageMaker JumpStart. Text generation using RAG with LLMs enables you to generate domain-specific text"
     publishedDateTime: 2023-05-02T15:44:03Z

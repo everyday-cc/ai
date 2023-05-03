@@ -174,6 +174,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 39
+  - title: "IBM pauses hiring, says it could replace 7,800 workers with AI"
+    excerpt: "IBM has paused hiring and said that it could lay off around 7,800 workers over the next five years. CEO Arvind Krishna claimed that employees could be replaced by artificial intelligence. Speaking about back-office workers,"
+    publishedDateTime: 2023-05-03T14:11:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/ibm-pauses-hiring-says-it-could-replace-7800-workers-with-ai/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 39
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/IBMpilgrimage.original_8tnb9w8.2e16d0ba.fill-1200x630.jpg"
+        width: 1024
+        height: 539
+        isCached: true
   - title: "Artificial Intelligence To Replace 30 Per Cent Of IBM's Non-Customer-Facing Roles In Five Years"
     excerpt: "Approximately 26,000 workers in non-customer-facing roles, including human resources, will experience a hiring freeze or reduced hiring, according to Krishna, reports Bloomberg. “I could easily see 30 per cent of that getting replaced by AI and automation over a five-year period,"
     publishedDateTime: 2023-05-02T05:22:00Z

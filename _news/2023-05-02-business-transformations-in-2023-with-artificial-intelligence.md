@@ -54,6 +54,15 @@ related:
         width: 1200
         height: 1000
         isCached: true
+  - title: "MotionPoint Releases Adaptive Translation™: Proprietary AI to Reduce the Cost of Quality Translation"
+    excerpt: "MotionPoint introduces Adaptive Translation™ technology to reduce human translation costs without sacrificing quality."
+    publishedDateTime: 2023-05-03T11:00:00Z
+    webUrl: "https://slator.com/motionpoint-releases-adaptive-translation-proprietary-ai-to-reduce-the-cost-of-quality-translation/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 4
 
 secured: "tWsthcJorFWcb4sn+koD0L9cjyhoe3/4f5x82ZhU6GWBB5scQ6aJjetyI/vnaE8ydmAEoUbAIrCY3ZZomtFSeH1Z7PJx5qGbnqOfbdWuWS1pEObGP9H3YQCs9sOS4P8xmYH08IpzNykH1uzwWgymQR2/c+IWAHIBEoRFHrO0cI+HezHb3gaaT+bEB5YGqX/HSvKGrc5jUsccv3PXR8GTNISJ9O3Spz2+jJw1YRcjX9xBwppMK/4K9RqOauZPEjLnDrkSkbChCOvxgucAv5lRHZeXMtSz32gP6WER3vUz+Wq0ufRMDquL94gADpj0t0rc4V4s9biJOxBQmFAaBKN3MT6VqogLgx8JJi5pFZ/XXhs=;1nCy+5uotTAqs3Rt0V6cPg=="
 ---

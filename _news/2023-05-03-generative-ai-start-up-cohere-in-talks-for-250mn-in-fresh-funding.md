@@ -18,20 +18,70 @@ topics:
   - AI
 
 related:
-  - title: "Generative A.I. Start-Up Cohere Valued at About $2 Billion in Funding Round"
-    excerpt: "Founded by ex-Google researchers, the Toronto company is among the few start-ups prepared to compete with the creator of ChatGPT."
-    publishedDateTime: 2023-05-02T20:21:00Z
-    webUrl: "https://www.nytimes.com/2023/05/02/technology/generative-ai-start-up-cohere-funding.html"
+  - title: "Where is India in the generative AI race?"
+    excerpt: "In the high-stakes race for supremacy in the field of generative AI, India's bustling startup ecosystem is facing an uphill battle."
+    publishedDateTime: 2023-05-03T09:26:00Z
+    webUrl: "https://techcrunch.com/2023/05/03/where-is-india-in-the-generative-ai-race/"
+    ampWebUrl: "https://techcrunch.com/2023/05/03/where-is-india-in-the-generative-ai-race/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/03/where-is-india-in-the-generative-ai-race/amp/"
     type: article
     provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 50
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
     images:
-      - url: "https://static01.nyt.com/images/2023/05/02/multimedia/02COHERE-TOP-lhvj/02COHERE-TOP-lhvj-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1483825958.jpg?resize=1200,800"
+        width: 1200
+        height: 800
         isCached: true
+  - title: "Accel Bets on AI Startups in India Accelerator Program Revamp"
+    excerpt: "Venture capital firm Accel is refocusing its India accelerator program on artificial intelligence startups, seeking to identify promising companies in the fast-growing field."
+    publishedDateTime: 2023-05-03T05:30:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-05-03/accel-bets-on-ai-startups-in-india-accelerator-program-revamp"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iiSpW4J5_o2I/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Early AI adopter Informatica is set up for the generative age, but not profiting yet"
+    excerpt: "Informatica says it is in the business of delivering “trusted data for trusted outcomes”, according to Chief Product Officer Jitesh Ghai. That message seems increasingly relevant as many organizations rush to adopt artificial intelligence solutions that have been trained on data scraped from the Web."
+    publishedDateTime: 2023-05-01T08:59:00Z
+    webUrl: "https://diginomica.com/early-ai-adopter-informatica-set-generative-age-not-profiting-yet"
+    ampWebUrl: "https://diginomica.com/early-ai-adopter-informatica-set-generative-age-not-profiting-yet?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/early-ai-adopter-informatica-set-generative-age-not-profiting-yet?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 52
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2023-03/Shutterstock_1576352020.jpg"
+        width: 740
+        height: 450
+        isCached: true
+  - title: "What’s inside Box? More generative AI"
+    excerpt: "Box expands its enterprise content cloud with Box AI, generative AI that more intuitively understands and creates new enterprise content."
+    publishedDateTime: 2023-05-02T12:00:00Z
+    webUrl: "https://venturebeat.com/ai/whats-inside-box-more-generative-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
+  - title: "The future of financial services in India"
+    excerpt: "Driven by extensive use of digital technologies, India’s financial services sector is undergoing a significant transformation with evolving consumer preferences, and increased competition. This is leading the sector towards a different growth trajectory."
+    publishedDateTime: 2023-04-30T13:03:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/the-future-of-financial-services-in-india/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 4
 
 secured: "thTinm73/0QweV29Td4QSUbVTp3Ipp+EjSbjYCieme8qfT7YvSrKLGYPoKhC8iLw98vd6vGTuiHaFAy2YXlyRZ4eOw/k4K9m2oHMiyXz2cGtjaTosH4xgLnPEuPRlYEBZx3U8pg/mcogKlxTB92TnJu9+ebTJfl4z1vDGpFRtCkmeJZ7rNcZbw8hZf7X1Xbz9ASbAeX0ZLH0dgJ6qnpho4dfjfSCRCEBw+uqnUO9oJLEj8YXBASTSbD1wA/PD/6DZTcP8A2sd1PBwAI4n3Zv43CkMxmER+ggUVuBaBRNylpYGoi5SGbr0bmFNtJ0tvx/uhr71ED/y3slhklDQYuSaVl62E7eXcsh4XEm3PEKz18=;rsi67RTOcl5HJ6R7rP0sLg=="
 ---

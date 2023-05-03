@@ -47,6 +47,15 @@ related:
         width: 1200
         height: 645
         isCached: true
+  - title: "Honeycomb announces generative AI-driven natural language querying for observability"
+    excerpt: "Honeycomb's new Query Assistant capability empowers engineers to ask questions in plain English instead of a query language."
+    publishedDateTime: 2023-05-03T13:00:00Z
+    webUrl: "https://venturebeat.com/ai/honeycomb-announces-generative-ai-driven-natural-language-querying-for-observability/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 42
   - title: "New Relic To Launch First AI Observability Assistant: Meet Grok"
     excerpt: "Observability software vendor New Relic later this month is launching Grok, what it calls the first-of-its-kind generative AI assistant for observability that uses natural language and AI to monitor, debug, secure and improve software stacks."
     publishedDateTime: 2023-05-02T16:38:00Z

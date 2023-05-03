@@ -51,6 +51,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Education Market Research Report 2022 – Industry Environment, Supply Side and Demand Side Analysis"
+    excerpt: "The global Artificial Intelligence in Education market is expected to exceed more than US$ 4 Billion by 2024 at CAGR of"
+    publishedDateTime: 2023-05-03T05:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-research-report-2022-industry-environment-supply-side-and-demand-side-analysis-2023-05-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
   - title: "The Future Scope of Far-field Speech Recognition Market Huge Growth Along with High Demand till 2030"
     excerpt: "The following is a synopsis of a market research report on the Far-field Speech Recognition Market research report"
     publishedDateTime: 2023-05-02T11:19:00Z

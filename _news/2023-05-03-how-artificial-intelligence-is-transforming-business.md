@@ -6,7 +6,7 @@ publishedDateTime: 2023-05-03T02:15:00Z
 originalUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-in-business/"
 webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-in-business/"
 type: article
-quality: 69
+quality: 71
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://m.foolcdn.com/media/dubs/images/nvidia-nvda-stock-ai-artificial-intelligence-2.width-600.jpg"
@@ -107,7 +108,25 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Unlocking The Power Of Generative AI: Exploring Business Models And Dispelling Fears"
+    excerpt: "If there’s one topic that’s dominated the news cycle in 2023, it’s generative AI. This field of technology has experienced a tremendous surge in growth and popularity in recent months, with services like ChatGPT, Dall-E and Stable Diffusion held up as powerful new tools to help humanity—or to doom it."
+    publishedDateTime: 2023-05-03T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/03/unlocking-the-power-of-generative-ai-exploring-business-models-and-dispelling-fears/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 40
+  - title: "The Clash Of Generative AI And Intellectual Property Law: What It Means For Businesses"
+    excerpt: "Autoencoders use two AI programs: An encoder, which reduces work to a small representation called \"latent vectors,\" and a decoder that then attempts to expand the latent vectors back into the original work; the difference between the two is used to train the system to generate new material and modify input material."
+    publishedDateTime: 2023-05-03T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/03/the-clash-of-generative-ai-and-intellectual-property-law-what-it-means-for-businesses/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 39
 
-secured: "tE2+Nut+SurL0b0KE3uuoPyL4uCHYAeoIpLaRGxogaVInJwfiaNN9VW+xMuiLb/s39hJKtZHO5bDSF4H5gAISfGwFcxPDtcvgsCCXcOU2NzMa3KFZz2Bur30lE7pLQA/2o2Z+BHVSRYo3ICPyceDH0Uv+xM2aWOq+pxWvWejRLyR6tMe4gb/27aV0csGAi3A93ADmLM/HLAOHNDeTwp1SSYzOndr9AvWii8ennZ42llQuyrIeepabhqSI21RxQ08P+BB4IP2SQOYcouLe0zUMGzZkwYJ94jHvFW1Klz6/Z7St8pfEW2V9Rjvs6ykPLsKFTcxIffvigl86sO9+WYBdfN2hTDgGT7O/FVlmTymcMk=;sxqiv9i0PyMv+4oH08W+pg=="
+secured: "OoajmPMYrgFkxJm8VuzTNRKkJbi0AWBeC9NV4QWGFk9VJs6IFeqi8Ud7Dt6eljqhIS9Jc7ow48pdrU8JyVHspOUgxKSkm8f08lTQ6nwOJyHs6n64BwsUjpK66EZkYv21ncNJOOr8Bes8/xSi8zT3GVLSVocKj8VnnHE8/9NhEaxJOjmMK15lYfdaAxsiSi2q8oxB06H8A0v2WfXQ2Ke+TT+ELdarOuH0nqPMc3q6ZTnDn1Ym+jRphKmjasuZiKVLkvk1kM3EleuIJNyGTNw0FDPmLMIsjLx577DI64rQJwR5GPim/+XAL6dnT6oIo+XyJQ2fEwAM3KA6g8mOw0lBq4fSQtG7hYVOOylG9d5iHXm5QrLaP48TcNnvp90LmqVqGE6ihclubNFgFjAJtha0wVXCnLC3c9r/1wyulfw3rLiz4e2k7CPT810M/HeDeyw8naOrz1/OT4kHRafikBaIOoTWZI9tRxyHWjZIXLgmSLt5Y1tawJ6sHlBCdX0/XTzOLV6f+cyZADtcVw8GGVGlVw==;moYWO8OOhANVfmuQWO0kbA=="
 ---
 

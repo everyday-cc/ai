@@ -50,6 +50,24 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Automatic Speech Recognition Market Trends [2023-2030] | Booming Industry Globally"
+    excerpt: "GlobalAutomatic Speech Recognition Market[2023-2030] research report is a compilation of information and analysis"
+    publishedDateTime: 2023-05-03T09:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-market-trends-2023-2030-booming-industry-globally-2023-05-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+  - title: "Global Artificial Intelligence in Insurance Market Intelligence Report [2023-2030]"
+    excerpt: "GlobalArtificial Intelligence in Insurance Market[2023-2030] research report is a compilation of information and"
+    publishedDateTime: 2023-05-03T08:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-insurance-market-intelligence-report-2023-2030-2023-05-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
 
 secured: "VwP2pKwTOp+f8PR04LzAov25vJ9CS2Oz+J89QcDsrGvbeBj1QLPMlhgZaGKsHCSL7gwGaeQHpUSjgczFYet26j0zLqRDUBAS3ndpdM+AUTVjG8fc72Q9Vo0x4PdCKr1TpjDiZ38Zg8kTe9bHVYuZbDc9RPmU5N0i3t6Yr/LatI82pdg2eEYt/HtJ+Ld0qauuOGnjfyvSxsYUsMnwjQ8fQKDqUmsbzGu4X0ALZSWeBDCAg5Vx/1RZu+sBkUSMqotB1EEKO7Ro0LmBrT1TX93DiKkeEyazCw5DHHVB+nHoivxmsbRfY8dtZ/i9fKDVY2szSsvbTVuM+CVrS2eMan01VN3A8tqGeoF+luHRsB3u+6U=;vhyYJHpqO7UcZQrdkV/M4w=="
 ---

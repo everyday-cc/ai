@@ -57,15 +57,6 @@ related:
         width: 1200
         height: 798
         isCached: true
-  - title: "Exclusive: Behind EU lawmakers' challenge to rein in ChatGPT and generative AI"
-    excerpt: "By mid-April, however, members of European Parliament (MEPs) were racing to update those rules to catch up with an explosion of interest in generative AI, which has provoked awe and anxiety since OpenAI unveiled ChatGPT six months ago."
-    publishedDateTime: 2023-04-28T20:02:00Z
-    webUrl: "https://www.reuters.com/technology/behind-eu-lawmakers-challenge-rein-chatgpt-generative-ai-2023-04-28/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 43
   - title: "Pandora’s Box: Generative AI Companies, ChatGPT, and Human Rights"
     excerpt: "ChatGPT and generative artificial intelligence (AI) are dominating headlines and conversations. But what’s behind this technology? Who feeds it data and decides where the data comes from? What does this have to do with human rights?"
     publishedDateTime: 2023-05-03T04:00:00Z
@@ -79,6 +70,20 @@ related:
       - url: "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2023/05/202305global_tech_chatgpt.jpg?h=7d6f88fc&itok=NS1Bna2r"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Aisera Collaborates with Microsoft to Provide AI Enterprise Service Experiences with ChatGPT and Generative AI"
+    excerpt: "Aisera, a leading provider of Generative AI solutions for organizations, providing innovative service experiences for employees (EX), customers (CX) and Operations (OX), is partnering with Microsoft to deliver an AI copilot for enterprise service experiences."
+    publishedDateTime: 2023-05-03T15:07:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/05/03/9806661.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
+    images:
+      - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
+        width: 550
+        height: 353
         isCached: true
 
 secured: "4girIk8lve2fp3C3Gbps0SWkmnsCKcgrfqKM2OOaWNfOlvK0LdZ9tvgXvhOU9BIKX2fAd5iA6c8JlyB9lva1NJjmpjBGn/bkMISbLU1B4ttivOKobGyGYuI6FAKn28zZYHvPHX5xaPsCtnnrSBf10OEMBCobuiWyyTJchRwsyHwWvSOPIOM6C7yI6NBMxktrf/YanOuNB32X6N2/KAHb8UaKUYC7tWRsVjUnOlfGw4n2UztIxOIiwFj4c0++Fdqtt5yOvzvZLZnjtlBAm+rATZ0B4OMiQW9MVzfe4gJgmfXw4zWgaMcg2weM2cniju7c3xF1BBrYRN3fe8JihYyyDF0Kssli+NXbd0WeeQWr/ebeWVlX1zt/0IZo70V5WHb+Q8+70qeIAPzvm6FnS8wg6UQDGZOeDGz8a/lLHa2UDTkbaEiWo9cmLNlWQbDHMiGlP0M1IKu8vJnpmowSN8cXGjyZYJbo22V0WWxHMf+YzLPT2xMZuBkdH/e7ER/sC54mjyaZP4fKGTRQLivHDmzuSw==;//zILQgwfVffQAXVAhxMzA=="

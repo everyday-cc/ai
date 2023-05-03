@@ -7,7 +7,7 @@ originalUrl: "https://timesofindia.indiatimes.com/blogs/voices/the-future-of-fin
 webUrl: "https://timesofindia.indiatimes.com/blogs/voices/the-future-of-financial-services-in-india/"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,72 @@ provider:
 topics:
   - AI in Finance
   - AI
+
+related:
+  - title: "Where is India in the generative AI race?"
+    excerpt: "In the high-stakes race for supremacy in the field of generative AI, India's bustling startup ecosystem is facing an uphill battle."
+    publishedDateTime: 2023-05-03T09:26:00Z
+    webUrl: "https://techcrunch.com/2023/05/03/where-is-india-in-the-generative-ai-race/"
+    ampWebUrl: "https://techcrunch.com/2023/05/03/where-is-india-in-the-generative-ai-race/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/03/where-is-india-in-the-generative-ai-race/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1483825958.jpg?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Accel Bets on AI Startups in India Accelerator Program Revamp"
+    excerpt: "Venture capital firm Accel is refocusing its India accelerator program on artificial intelligence startups, seeking to identify promising companies in the fast-growing field."
+    publishedDateTime: 2023-05-03T05:30:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-05-03/accel-bets-on-ai-startups-in-india-accelerator-program-revamp"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iiSpW4J5_o2I/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Early AI adopter Informatica is set up for the generative age, but not profiting yet"
+    excerpt: "Informatica says it is in the business of delivering “trusted data for trusted outcomes”, according to Chief Product Officer Jitesh Ghai. That message seems increasingly relevant as many organizations rush to adopt artificial intelligence solutions that have been trained on data scraped from the Web."
+    publishedDateTime: 2023-05-01T08:59:00Z
+    webUrl: "https://diginomica.com/early-ai-adopter-informatica-set-generative-age-not-profiting-yet"
+    ampWebUrl: "https://diginomica.com/early-ai-adopter-informatica-set-generative-age-not-profiting-yet?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/early-ai-adopter-informatica-set-generative-age-not-profiting-yet?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 52
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2023-03/Shutterstock_1576352020.jpg"
+        width: 740
+        height: 450
+        isCached: true
+  - title: "What’s inside Box? More generative AI"
+    excerpt: "Box expands its enterprise content cloud with Box AI, generative AI that more intuitively understands and creates new enterprise content."
+    publishedDateTime: 2023-05-02T12:00:00Z
+    webUrl: "https://venturebeat.com/ai/whats-inside-box-more-generative-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
+  - title: "Generative AI start-up Cohere in talks for $250mn in fresh funding"
+    excerpt: "Artificial intelligence start-up Cohere is close to securing $250mn in fresh funding from backers including Nvidia and Salesforce, which would represent the latest big investment into the generative AI sector that has boomed since the release of ChatGPT last year."
+    publishedDateTime: 2023-05-02T20:05:00Z
+    webUrl: "https://www.ft.com/content/84bfc44e-d1f3-4b83-9986-ed0d958b5f4c"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "YCEGZfUbFoWMIzjEIaLytoC4ha667+yO3e8fGUe2+UZMLzFmJ4EmKZuoRhPQzj6tIDm3q8PhwZZrvuZYVs2tgwty99rdVAApT8FqWIxsRRUn9n1D4JreQaso1ISTwFsfFFGyPwLpAXzgONZUH5qPKQUGUarG5gswCG8wfWLsZUMfwiyCgcJ0tcckAv+h5rxDmffJjpHGr6L41Q7kdemZsu8cB8lYVrGqqNr6KKjY8DyROYexmQ6yWBfIEhDDbMp5Ua1yR/qm91hkAilrJiAXiANCzfyFk6PNwmIXUWYHxshIIL7x+Qu5h+9uVHh9CKuE9opVpi019UUO+sF66cuUgPjvbtX5GAe/INuDHzl7G+c=;VdOLIILxFr7DcJpb49+MZw=="
 ---

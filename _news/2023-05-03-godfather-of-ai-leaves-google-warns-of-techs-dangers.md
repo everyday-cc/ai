@@ -2,28 +2,21 @@
 category: news
 title: "‘Godfather of AI’ leaves Google, warns of tech’s dangers"
 excerpt: "Sounding alarms about artificial intelligence has become a popular pastime in the ChatGPT era, taken up by high-profile figures as varied as industrialist Elon Musk, leftist"
-publishedDateTime: 2023-05-03T10:23:00Z
-originalUrl: "https://wreg.com/news/godfather-of-ai-leaves-google-warns-of-techs-dangers/"
-webUrl: "https://wreg.com/news/godfather-of-ai-leaves-google-warns-of-techs-dangers/"
-ampWebUrl: "https://wreg.com/news/godfather-of-ai-leaves-google-warns-of-techs-dangers/amp/"
-cdnAmpWebUrl: "https://wreg-com.cdn.ampproject.org/c/s/wreg.com/news/godfather-of-ai-leaves-google-warns-of-techs-dangers/amp/"
+publishedDateTime: 2023-05-02T17:59:00Z
+originalUrl: "https://thehill.com/homenews/ap/ap-technology/godfather-of-ai-leaves-google-warns-of-techs-dangers/"
+webUrl: "https://thehill.com/homenews/ap/ap-technology/godfather-of-ai-leaves-google-warns-of-techs-dangers/"
 type: article
-quality: 57
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: wreg
-  domain: wreg.com
+  name: The Hill
+  domain: thehill.com
 
 topics:
+  - Facebook AI
   - AI
-
-images:
-  - url: "https://wreg.com/wp-content/uploads/sites/18/2023/05/AP23122504143110.jpg?w=1280"
-    width: 1280
-    height: 851
-    isCached: true
 
 related:
   - title: "'Godfather of AI' leaves Google amid ethical concerns"
@@ -549,6 +542,6 @@ related:
       domain: euronews.com
     quality: 10
 
-secured: "3UMoQvF+On9iIeUPa4LFGP0+7dAVbLYKPjAQmh5RGhDeUwYbPG1glguld7Dv5w0qLOE7PK7yXsZRZE3TR8ZVqR/wMEIo9wWoDmIylrvITSbf61Y1Zfw91KKhtUk1HUTcLo/+mUNEAZCe6TkS8mne2PbL/2ZvhAHomDW/Kw4w6Im3TowE6X5jO9V+HFSHDVh9iwioOYI3Sjc4FpPLW05fXDGW3kFgkduyRzDtjzF6AZF5jtFSZ1oIlkNPuxLe1YRDgAS/De3kl1Ae/UMSwMx92y/Ld99GEtJ6IT8JteqLHcx7MbGjWsXZdjcHTvSEBEbDqS5f6291I6AJ+9TYpcApaIccTaLeMnRQUVGAfX9tHyM=;iyPBPhTjk/RDEfCczKOuLw=="
+secured: "4Nz56F27gEObZcFrA8oHALHNXp171kEMV5vNUYyQYEOEpvehMgRUcGtk2I31GxHS4KyVkuctr01nFKpEuB+dBO0TwwDqoQ4rpeD6MZNunSA6zvdnmhgj8sDtiPdCn5B+yNcKvwwKIkrAf472JxYHrgUnjL1AFt984EwULgcGACbUlZjJbR6RqMRlSraP6j+MkDgBvN5KAXnBb4suDeKSRzWJ2xR8kx9yG2J1vU5BDIhqDFKhc7xD8E05lfsXx2ujur79xMD1mOs3GIs++CwpRoVcCy8pUerbfshJBGRZaweHQ4f1eui851bVp9VdrIvzjWIIvMBppRD/NNy6jCYtwEuac0a0x6XHUqE/T4t5ZW5Grj3pxnf81lOonqXFcOiKCVoCX5BpqjfejcuxgXMsggTtlKlGGSkndEBnvl6+UdAA7X7kWyRte7oMx8Kb6pW6oYUwXxYN8WP5FH/njnZUk48QXpz9K4QjEHXpkPeAqeF8vT+KTVgCZ9gtv+ztUizsEqdjrnxhFM/CtL+KPL7IEQ==;mKzPv4RY28MMI6M0+2o4aQ=="
 ---
 

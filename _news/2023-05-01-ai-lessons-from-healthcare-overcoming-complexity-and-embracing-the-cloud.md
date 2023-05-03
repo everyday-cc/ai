@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/ai-lessons-from-healthcare-overcoming-c
 webUrl: "https://venturebeat.com/ai/ai-lessons-from-healthcare-overcoming-complexity-and-embracing-the-cloud/"
 type: article
 quality: 63
-heat: 83
+heat: 74
 published: true
 
 provider:
@@ -23,20 +23,6 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Artificial intelligence is real care: the future of wellness, and AI-driven medical schemes"
-    excerpt: "For the first time, people could tangibly experience the wonders of artificial intelligence (AI) integrating itself into their daily lives across almost every industry. Source: pitinan © 123RF.com As for healthcare,"
-    publishedDateTime: 2023-05-02T11:11:00Z
-    webUrl: "https://www.bizcommunity.com/Article/196/159/238033.html"
-    type: article
-    provider:
-      name: Bizcommunity
-      domain: bizcommunity.com
-    quality: 44
-    images:
-      - url: "https://biz-file.com/c/2304/696355-848x441.jpg?3"
-        width: 848
-        height: 441
-        isCached: true
   - title: "9 ways AI is already shaping the future of healthtech"
     excerpt: "Amid an increasing shift from reactive care to proactive care, here are some of the latest AI developments in healthtech."
     publishedDateTime: 2023-05-02T15:00:00Z
