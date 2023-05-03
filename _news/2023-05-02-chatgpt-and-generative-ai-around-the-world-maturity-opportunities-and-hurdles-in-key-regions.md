@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-around-the
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-and-generative-ai-around-the-world-maturity-2023-may?amp"
 type: article
 quality: 75
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -68,6 +68,20 @@ related:
       - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/challenges-opportunities-artificial-intelligence-showcase_image-9-a-21768.jpg"
         width: 860
         height: 520
+        isCached: true
+  - title: "Pandora’s Box: Generative AI Companies, ChatGPT, and Human Rights"
+    excerpt: "ChatGPT and generative artificial intelligence (AI) are dominating headlines and conversations. But what’s behind this technology? Who feeds it data and decides where the data comes from? What does this have to do with human rights?"
+    publishedDateTime: 2023-05-03T04:00:00Z
+    webUrl: "https://www.hrw.org/news/2023/05/03/pandoras-box-generative-ai-companies-chatgpt-and-human-rights"
+    type: article
+    provider:
+      name: Human Rights Watch
+      domain: hrw.org
+    quality: 39
+    images:
+      - url: "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2023/05/202305global_tech_chatgpt.jpg?h=7d6f88fc&itok=NS1Bna2r"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "zuTH1T1OTXgMXmG+a2NKc175FZDzpkxHFN15WW7X+tct0J1WXaJj0/8veMiiXbrfFI/ZaaRQ1Ph8X3Ioy8aTlivIN35PXwUEIFH02AKtBI59qn10o1jMknPYFKr9o7LtckcJ/aPlFP6z6+L7F5eZCMD1eq2QoSJEpEz0xIq3AF+2nqaMHo9RMs1HVyp3nNmiXkADdvXRjB5OG5rTW0qjVb8waa4VHf1DvZKjz9LMWEWr71IK2QyUQNzWxJYilTTyDd6NDH6y+zqfosuidEEdiUCyYTTesdex4vLjOKGjIk0OH7lsKZfzFCsegTbuYbPQN8fqgHmlQyatqUIgdCJwUPdZ+J3FAMuGBOtgZtafN28=;qYw+NI/GA/dAMxifGg+v/A=="

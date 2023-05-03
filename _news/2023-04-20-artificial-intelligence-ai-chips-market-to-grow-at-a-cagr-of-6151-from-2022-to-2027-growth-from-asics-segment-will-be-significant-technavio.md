@@ -1,33 +1,26 @@
 ---
 category: news
 title: "Artificial intelligence (AI) chips market to grow at a CAGR of 61.51% from 2022 to 2027: Growth from ASICs segment will be significant - Technavio"
-excerpt: "Artificial intelligence (AI) chips market to grow at a CAGR of 61.51% from 2022 to 2027: Growth from ASICs segment will be significant - Technavio Apr"
-publishedDateTime: 2023-04-20T02:30:00Z
-originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-to-grow-at-a-cagr-of-6151-from-2022-to-2027-growth-from-asics-segment-will-be-significant---technavio-2023-04-19"
-webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-to-grow-at-a-cagr-of-6151-from-2022-to-2027-growth-from-asics-segment-will-be-significant---technavio-2023-04-19"
+excerpt: "NEW YORK, April 19, 2023 /PRNewswire/ -- The artificial intelligence (AI) chips market size is estimated to grow by USD 210,506.47 million during 2022-2027. Moreover, the growth momentum will ..."
+publishedDateTime: 2023-04-20T13:55:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/04/n31906424/artificial-intelligence-ai-chips-market-to-grow-at-a-cagr-of-61-51-from-2022-to-2027-growth-from-a"
+webUrl: "https://www.benzinga.com/pressreleases/23/04/n31906424/artificial-intelligence-ai-chips-market-to-grow-at-a-cagr-of-61-51-from-2022-to-2027-growth-from-a"
 type: article
-quality: 61
-heat: 61
-published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
-secured: "alSCgTcQP0fvdgJoBcSkp8Q0RINo9yY8OC8aqc8hpeGKaLxYVjmuK09AP/DIjOFVh6R9xGVFIbi/A6pdXcQQBJ+DhWVExpOd/EEt5Zehjx4bLpFzF4wYxQH4v1T7p+2B5wt1hhHPleY9kP6eTdxdhF4DYtWfSfSLBUO9UXpoPCmJR+U+/5bDynyulDwO04AuAqZzUyq7CuTXQJlWIAWA22RuiB/amhfHB0cUH83QnlWKOmihM4Mqb4UJzjJe7TX7kzskAVLhet78ThzUKAIPqPhqHj5VvWTdCL98pnZiWN3uf3J5qMRyezIV1Q7Qf5ICuclMVzSPPAh0TaF1jvPQ2rjGW7KirEQ6cQjLFqFKncI=;4uE3kcloQdt6oc1Yz6ntdA=="
+secured: "OERWGBAjBvQeVnHyjJ3YecWaArSeBGcqDoQTRDKvv9Wi8nbuvNjRMOZgEo/1HhtAvDzTl6hoDq35ucmgT6pcjY149jT8HxGEpXhQbiPjWGTsz5BTQmErtYj0z65kZfAl1wV3+ggpFrDojNGrwXEUPEOWCHkj1/rzPV6EyNh+Gsh+mxFTi1yf9nr+iHSnos+sPQgd2JFhnfM9bIwTv+sIAoE729BqwrR0NDXMmyYlrkEYWFa4NZNKZufrijPrga2IJH39wt7LfsE1N2YZouRezbR03Oz+yWZcPkfgLEoJHmF78Icas41KnYGt+id/EVkGE7lhgw52wiYXdCnjhJdsr+Jw8v6uMWJzlxVpQHA4Ca8=;C4BLedvFESG0XhmZBvi3jw=="
 ---
 

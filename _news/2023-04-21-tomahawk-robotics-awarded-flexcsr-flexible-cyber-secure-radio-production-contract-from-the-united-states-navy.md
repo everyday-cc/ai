@@ -2,16 +2,16 @@
 category: news
 title: "Tomahawk Robotics Awarded FlexCSR (Flexible Cyber Secure Radio) Production Contract from the United States Navy"
 excerpt: "Tomahawk Robotics, the leading innovator of robotic common control solutions, was awarded a $55.0M full-rate production contract for the Flexible Cyber Secure Radio (FlexCSR) program by the United States Navy."
-publishedDateTime: 2023-04-21T15:31:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/tomahawk-robotics-awarded-flexcsr-flexible-cyber-secure-radio-production-contract-from-the-united-states-navy-1032250123"
-webUrl: "https://markets.businessinsider.com/news/stocks/tomahawk-robotics-awarded-flexcsr-flexible-cyber-secure-radio-production-contract-from-the-united-states-navy-1032250123"
+publishedDateTime: 2023-04-21T14:07:00Z
+originalUrl: "https://www.marketwatch.com/press-release/tomahawk-robotics-awarded-flexcsr-flexible-cyber-secure-radio-production-contract-from-the-united-states-navy-2023-04-21"
+webUrl: "https://www.marketwatch.com/press-release/tomahawk-robotics-awarded-flexcsr-flexible-cyber-secure-radio-production-contract-from-the-united-states-navy-2023-04-21"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: MarketWatch
+  domain: marketwatch.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -20,11 +20,11 @@ topics:
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/2060244/Tomahawk_Robotics_FlexCSR.jpg"
-    width: 400
-    height: 267
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "IbquLhOzSlhu2/Ri6ow9PrOwOsIoxlwR7BNC1DCjGQFv6Psu+zvjz08SwHJJzubSmiOg2VHq8bbPAJku5gXLiwmxnasPxplZ5xNB1ZwaR05bo5MdmRr8WFMc8nA+M4a6AyLO9YvyGHi9rZ8O+tMDwsMzWS62t2dm3+85f5xZyN3gEpPYT44vM0NMng25vOt23MkYPFvX6ONXf3aconZe1uUPa9Sw4BWGpnsxoluGytA4avqvW+Prdm+39+R2QG+yMkJUNLVnGjoUnEBN0/Wb03VvS/Dq7qOlJUXqCs2mZhxUp4Xo8eq9MdnbxSWzYqLJ82C+BxQBSX/uX3FaPcWxSj4W1Px+e4mwwloEdQhlYY4=;vIih1nHiXODP1ZigESrtFQ=="
+secured: "oLuOs/4tH5xCV/ifGjPrtuCqNy99UKx7832sCJw5s7uDii4txG3ELINnDy+FF4ZmEZLhkf5yvm+p+BizuvUuNdN8GTBrfcJkB2GrGj5SuD0KlMWBHQ9HazNNvL1iBDwKLT302y1DgoUNlUkE1F2RzAuuCl+oZAd/CeKXjGOaCQ92FMo/enXeVTaBnLviIbuLu33ma0fMJQFBQLVtn1N8B7vQWORhjV8tVKu2ASDbl8QQXje56mDVmc7GLm4NgwQZ9OWlss5P1B4kjrebBJJ+dQm7WMX6MVHAnfpwwT2dCRxwLk1Dnjvd0tBttWixtcnMJ6YDzQXSRE2cZiG3kX+xVKN6YRBggJHyJBMRMDsDnv0=;Z3sCnSqIbNEHLGJJtMHw0g=="
 ---
 

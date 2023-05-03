@@ -7,8 +7,8 @@ originalUrl: "https://moneymorning.com/investing/google-and-microsoft-are-gainin
 webUrl: "https://moneymorning.com/investing/google-and-microsoft-are-gaining-on-aws-heres-why-amazon-isnt-worried/"
 type: article
 quality: 70
-heat: -1
-published: false
+heat: 100
+published: true
 
 provider:
   name: Money Morning
@@ -26,34 +26,43 @@ images:
     isCached: true
 
 related:
-  - title: "AIS Earns Seventh Microsoft Advanced Specialization in Analytics on Azure, Securing Access to End-Customer Funding and Resources"
-    excerpt: "AIS (Applied Information Sciences), experts in helping organizations modernize and innovate with Microsoft Cloud,"
-    publishedDateTime: 2023-04-28T13:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ais-earns-seventh-microsoft-advanced-specialization-in-analytics-on-azure-securing-access-to-end-customer-funding-and-resources-2023-04-28"
+  - title: "Google, Microsoft, Amazon, & Meta put AI on steroids while cutting jobs"
+    excerpt: "The IT behemoths Alphabet, Microsoft, Amazon, and Meta are increasing their large language model (LLM) investments as a show of their dedication to utilizing the power of artificial intelligence (AI) while cutting costs and jobs."
+    publishedDateTime: 2023-04-29T15:51:00Z
+    webUrl: "https://interestingengineering.com/innovation/google-microsoft-amazon-meta-ai"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 70
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 56
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/04/29/image/jpeg/CansC0Fg86ivCNtL2I5csadyaajvjydZxqrQjzeV.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "2023-2031 Machine Learning Recommendation Algorithm Market| Discover the Current Scope in Analytics Industry and Opportunities"
-    excerpt: "The global \"Machine Learning Recommendation Algorithm Market\" report thoroughly analyzed in this Insight Report,"
-    publishedDateTime: 2023-05-03T04:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-2031-machine-learning-recommendation-algorithm-market-discover-the-current-scope-in-analytics-industry-and-opportunities-2023-05-03"
+  - title: "Microsoft Earnings Takeaways: Cloud, Generative AI, The Path To E7"
+    excerpt: "Analyst reports point to the potential for Azure deceleration slowing, an end to customers optimizing cloud spend and the sales potential of generative AI. Better-than-expected results from Microsoft’s latest earnings—not to mention those of cloud rivals Google and Amazon Web Services—led to a mix of analyst reports hopeful for Azure deceleration slowing,"
+    publishedDateTime: 2023-05-01T14:20:00Z
+    webUrl: "https://www.crn.com/news/cloud/microsoft-earnings-takeaways-cloud-generative-ai-the-path-to-e7"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
+      name: CRN
+      domain: crn.com
+    quality: 54
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.crn.com/resources/027d-17198c0bb2a2-47b52df5a838-1000/nadella-intro2.jpeg"
+        width: 610
+        height: 457
         isCached: true
+  - title: "Microsoft's chief scientific officer says there's no need for a pause on AI — despite what Elon Musk says"
+    excerpt: "Thousands of people, including Elon Musk and AI experts, signed an open letter seeking a 6-month pause on AI development amid ChatGPT's popularity."
+    publishedDateTime: 2023-05-02T18:23:00Z
+    webUrl: "https://www.businessinsider.com/microsoft-executive-elon-musk-ai-acceleration-not-pause-open-letter-2023-5"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
 
 secured: "6I3ofnseRfGBk06gkpbbu2svorP+NAGM4MAlLJZl+fyOtP40cgWpYSJnWQp5r/o8bujMzg0hw5jw0oovKBhQKCk3hTKI+Km3J+3bbdjCuthzSGWn5jK+YAQzgUR7rZbTc4cYLqJiANJEISa7GX+3xgikGPu2dR/mk8LofuhKM2IIxvJulXi1sZXo+IdbVi/vRlUMCXIhtw3KNvwdomRXpM8PtAm/SyIKFgAipiTExRIB8NBE8XJhybmBkppMCRQTK/gfNZIWFvun28bsuaWCNgjD8UBRZEIi43XNfVs5oI1X6wR5KSy4n7JO71nfMRRmezAutw91T/DIjdubTKMJIPLgDENS+VTULEE/oto1ifU=;9GdeuwgNanhjWnLS5fzHFw=="
 ---

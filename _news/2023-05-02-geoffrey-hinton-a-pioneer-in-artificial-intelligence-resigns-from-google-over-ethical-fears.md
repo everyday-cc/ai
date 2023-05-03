@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/geoffrey-hinton-a-pioneer-in-artificial-i
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/geoffrey-hinton-a-pioneer-in-artificial-intelligence-resigns-from-google-over-ethical-fears/amp/"
 type: article
 quality: 97
-heat: 167
+heat: 177
 published: true
 
 provider:
@@ -120,6 +120,15 @@ related:
       name: MIT Technology Review
       domain: technologyreview.com
     quality: 19
+  - title: "AI ‘godfather’ Geoffrey Hinton quits Google to spread awareness against ‘dangers’ of artificial intelligence"
+    excerpt: "Dr Hinton’s pioneering research on neural networks and deep learning has paved the way for current AI systems like ChatGPT AI ‘godfather’ Geoffrey Hinton quits Google to spread awareness against ‘dangers’ of artificial intelligence AI,"
+    publishedDateTime: 2023-05-03T07:52:00Z
+    webUrl: "https://www.arabianbusiness.com/industries/technology/ai-godfather-geoffrey-hinton-quits-google-to-spread-awareness-against-dangers-of-artificial-intelligence"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 15
 
 secured: "wwYoWyTtE6Ro9mn4oAebW4Nhbbqyh/Suz6SawEnPnH2Obt4IBVoOUujE539apwDWU6y5QWCsuwhYiKE80C4chr94fRItf7IBAPgGPEiMCWmTP0VOuBpByVeBL6yB4ci2Op35NMPec63ISdeuhDD0R6EZQHfO/V6mUyxm2b/WKKYA+NbHXLgohG1H+hvZdXwdQPSOAo10iWIIAzehxGmS4SXGAwZ4w/+wa6xhHbgUF4M7Fg/CkFsPsz3G9TV6Gpb/D+eWCan564qrFuNA81zBRD2Q0M37R132D2RyqUQhu1lJChbD2FD2qeWzITV20ouw/tzal/QbJ7u6RC/6uZomfmRVy3u8fcose+iToYH3sOnBGyPTCp8uFLcgUi5Z9zpMOMeluuUKcnjw0VHyOzokzpXwv5z69Jo80CFgTGZni5QKvR8N8alDnpw0EWmLLnRob/DfsmEPoJmeU1oreOA9p+sPyuL0QgPMjQ8ta1rBVY40njwtEyZKerAGIY55sP4FYz1pxekn2aPyOzSGVgTMkA==;dvQs2BIMK30E1CHcttvpsg=="
 ---

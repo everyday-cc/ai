@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/05/01/chatgpt-everything-you-need-to-kno
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/01/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/"
 type: article
 quality: 89
-heat: 429
+heat: 399
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "How To Write ChatGPT, AI Chatbot Prompts Like A Philosopher"
-    excerpt: "The next time you use a chatbot, try writing like a philosopher. It will give you the most successful results."
-    publishedDateTime: 2023-04-28T14:02:00Z
-    webUrl: "https://www.forbes.com/sites/teddymcdarrah/2023/04/28/how-to-write-ai-chatbot-prompts-like-a-philosopher/"
-    ampWebUrl: "https://www.forbes.com/sites/teddymcdarrah/2023/04/28/how-to-write-ai-chatbot-prompts-like-a-philosopher/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/teddymcdarrah/2023/04/28/how-to-write-ai-chatbot-prompts-like-a-philosopher/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/644ade30d0e35557f60d1575/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "AI Ethicist Views On ChatGPT"
     excerpt: "Physicist Stephen Hawking, who died in 2018, described the rise of AI as one of the greatest threats to the future of humanity. Even the controversial Elon Musk and over 1000 technology leaders have called for a pause on generative AI and for advancing legislation."
     publishedDateTime: 2023-04-30T16:23:00Z
@@ -188,20 +172,6 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/634c17e6b6addb19e136986911fb3bc54b83f0e5/2023/05/02/8fbcaa3f-89eb-47a7-b8d9-682428431a32/gettyimages-1246495664-1.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Dr. ChatGPT? Physicians Are Sending Patients Advice Using AI"
-    excerpt: "ChatGPT is better than doctors at responding to patient questions, study says"
-    publishedDateTime: 2023-04-28T14:00:00Z
-    webUrl: "https://www.wsj.com/articles/dr-chatgpt-physicians-are-sending-patients-advice-using-ai-945cf60b"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-771596/social"
-        width: 1280
-        height: 640
         isCached: true
   - title: "AI Chatbots Have Been Used to Create Dozens of News Content Farms"
     excerpt: "Other websites used AI chatbots to remix published stories from other outlets, narrowly avoiding plagiarism by adding source links at the bottom of the pieces. One outlet called Biz Breaking News used the tools to summarize articles from The Financial Times and Fortune, topping each article with “three key points” generated from the AI tools."
@@ -463,15 +433,6 @@ related:
         width: 860
         height: 573
         isCached: true
-  - title: "I used ChatGPT to write the same routine in these ten obscure programming languages"
-    excerpt: "Can ChatGPT program in a language from the 1950s or in one of the languages that wrote its own code? We took a walk down memory lane to find out."
-    publishedDateTime: 2023-04-28T13:15:00Z
-    webUrl: "https://www.zdnet.com/article/i-used-chatgpt-to-write-the-same-routine-in-these-ten-obscure-and-vintage-programming-languages/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 28
   - title: "AI Impact Gets Real and Fast: IBM Pauses Hiring, Chegg Plunges on ChatGPT Challenge"
     excerpt: "Artificial intelligence is here and growing fast, putting jobs at risk and posing a complicated challenge for executives and policymakers."
     publishedDateTime: 2023-05-02T12:56:00Z

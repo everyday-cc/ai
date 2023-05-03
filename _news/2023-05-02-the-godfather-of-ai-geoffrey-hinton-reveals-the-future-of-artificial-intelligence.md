@@ -118,6 +118,15 @@ related:
       name: MIT Technology Review
       domain: technologyreview.com
     quality: 19
+  - title: "AI ‘godfather’ Geoffrey Hinton quits Google to spread awareness against ‘dangers’ of artificial intelligence"
+    excerpt: "Dr Hinton’s pioneering research on neural networks and deep learning has paved the way for current AI systems like ChatGPT AI ‘godfather’ Geoffrey Hinton quits Google to spread awareness against ‘dangers’ of artificial intelligence AI,"
+    publishedDateTime: 2023-05-03T07:52:00Z
+    webUrl: "https://www.arabianbusiness.com/industries/technology/ai-godfather-geoffrey-hinton-quits-google-to-spread-awareness-against-dangers-of-artificial-intelligence"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 15
 
 secured: "fkr0BsKAJ1kNyDW/KhYTRTIO+iNIfWOaBA7zMp+EGuU1B3uPrhfOtajRjzGHWgHLt9Wn9EO4y7hzNudCX2uKywitVTjdNYuHp56Vbi9hSDurcn9r/2moLdzAVm+JZTmjAzNq+T6UFeQudj01f6/cm5AHk275/VhZc0KEmVle8jBBZEVNjrBcEm+2+KLTYcTzrdwUjQPAsoGr2xOih7TuenC4mG8nZBspCNSA86sieCzQx5xGLq4wb2trz44POznXwBp5dniY+X3UulZmDCSvy7/aKOnTGSY6WJIASpHQMRWpWB0Hts//zbUYyehXUSDRvipqyQgRrdZCkqqLuhlhGtafbjVJidqDqhNJIWVE1Gs=;HJS6lR2sK9PQQaCRv8NOEA=="
 ---

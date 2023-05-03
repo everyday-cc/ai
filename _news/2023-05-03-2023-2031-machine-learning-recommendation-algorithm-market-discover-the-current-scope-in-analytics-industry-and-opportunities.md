@@ -29,33 +29,33 @@ images:
     isCached: true
 
 related:
-  - title: "AIS Earns Seventh Microsoft Advanced Specialization in Analytics on Azure, Securing Access to End-Customer Funding and Resources"
-    excerpt: "AIS (Applied Information Sciences), experts in helping organizations modernize and innovate with Microsoft Cloud,"
-    publishedDateTime: 2023-04-28T13:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ais-earns-seventh-microsoft-advanced-specialization-in-analytics-on-azure-securing-access-to-end-customer-funding-and-resources-2023-04-28"
+  - title: "Deep Learning Software Market Analysis: Current Market Size, Growth Projection, and CAGR of 6% from 2023 - 2030"
+    excerpt: "This report on \" Deep Learning Software market \" contains the data required to conduct a SWOT, PEST, and STEER analysis. It gives a better knowledge of market dynamics and industry competition. The Deep Learning Software market is expected to grow annually by 6% (CAGR 2023 - 2030)."
+    publishedDateTime: 2023-04-30T11:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-software-market-analysis-current-market-size-growth-projection-and-cagr-of-6-from-2023---2030-2023-04-30"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 70
+    quality: 49
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Google and Microsoft Are Gaining on AWS: Here's Why Amazon Isn't Worried"
-    excerpt: "Google Cloud and Microsoft's (NASDAQ: MSFT) Azure are gaining ground on Amazon (NASDAQ: AMZN) Web Services (AWS). Alphabet reported that Google Cloud revenue soared 28% year-over-year in the quarter ending March 31,"
-    publishedDateTime: 2023-04-30T09:55:00Z
-    webUrl: "https://moneymorning.com/investing/google-and-microsoft-are-gaining-on-aws-heres-why-amazon-isnt-worried/"
+  - title: "The report on the Underwater Computer Vision market size and its projected CAGR value of 8.9% from 2023 to 2030 examines the primary market drivers."
+    excerpt: "The market growth of Underwater Computer Vision has been phenomenal in recent years, with a significant increase in demand and adoption among various industries and end-users. The growth of the Underwater Computer Vision market can be attributed to various factors such as advancements in technology,"
+    publishedDateTime: 2023-04-30T04:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-report-on-the-underwater-computer-vision-market-size-and-its-projected-cagr-value-of-89-from-2023-to-2030-examines-the-primary-market-drivers-2023-04-30"
     type: article
     provider:
-      name: Money Morning
-      domain: moneymorning.com
-    quality: 70
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
     images:
-      - url: "https://moneymorning.com/wp-content/blogs.dir/1/files/2023/04/motley-fool-mark.png"
-        width: 940
-        height: 940
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "3ugc4mL0aC2ABXQXlIKKnZ3byBLrZPtjUQPjysIkkS4XgDB/ELIEhOJ52ZlSkTJBWlzLBWTYslIlDSOQUvvhKu8oh3SuhpBeTpT3d1RCOfPkgdM/vwKYoNLJcZ5PPp6ReYbujIoCDss1kuNftSt+tg6wbDpivWPw9JVrOMknl6tAKVD7hontTtzBGf35/MyehWosG5SHZ0he12ct/sG5nG16cDcM29BWPqKB19GpX7ATMjKCoXCY2sfZO7N6TAAL/EOGPubgZEN5GnLGHrKztXlSChc63YMlKsggidb6na3iJrcWvhXyjce9nVkBNcrOhvcQYqw1568udQG3m/nXE8rovzs2UP2oYzjiGVVrAUc=;PNYQISTJ2zGqZD1x3oTrQQ=="

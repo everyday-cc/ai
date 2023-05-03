@@ -1,28 +1,29 @@
 ---
 category: news
-title: "'Godfather of AI' leaves Google, warns of tech's dangers"
-excerpt: "Geoffrey Hinton, the man widely considered as the “godfather” of artificial intelligence, has left Google — with a message sharing his concerns about potential dangers stemming from the same technolog"
-publishedDateTime: 2023-05-02T14:49:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/godfather-ai-leaves-google-warns-techs-dangers-99012191"
-webUrl: "https://abcnews.go.com/Business/wireStory/godfather-ai-leaves-google-warns-techs-dangers-99012191"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/godfather-ai-leaves-google-warns-techs-dangers-99012191"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/godfather-ai-leaves-google-warns-techs-dangers-99012191"
+title: "‘Godfather of AI’ leaves Google, warns of tech’s dangers"
+excerpt: "Sounding alarms about artificial intelligence has become a popular pastime in the ChatGPT era, taken up by high-profile figures as varied as industrialist Elon Musk, leftist"
+publishedDateTime: 2023-05-02T15:04:00Z
+originalUrl: "https://www.wjtv.com/news/national/godfather-of-ai-leaves-google-warns-of-techs-dangers/"
+webUrl: "https://www.wjtv.com/news/national/godfather-of-ai-leaves-google-warns-of-techs-dangers/"
+ampWebUrl: "https://www.wjtv.com/news/national/godfather-of-ai-leaves-google-warns-of-techs-dangers/amp/"
+cdnAmpWebUrl: "https://www-wjtv-com.cdn.ampproject.org/c/s/www.wjtv.com/news/national/godfather-of-ai-leaves-google-warns-of-techs-dangers/amp/"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: WJTV
+  domain: wjtv.com
 
 topics:
+  - Machine Learning
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/Business/wirestory_fa98c6a6fddab1d7c27560f6fcbad0ad_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.wjtv.com/wp-content/uploads/sites/72/2023/05/645150babbfa94.91067802.jpeg?w=1280"
+    width: 1280
+    height: 851
     isCached: true
 
 related:
@@ -151,20 +152,20 @@ related:
         height: 619
         isCached: true
   - title: "‘Godfather of AI’ leaves Google, warns of tech’s dangers"
-    excerpt: "Over his decades-long career, Hinton’s pioneering work on deep learning and neural networks helped lay the foundation for much of the AI technology we see today."
-    publishedDateTime: 2023-05-03T01:23:00Z
-    webUrl: "https://www.hawaiinewsnow.com/2023/05/02/godfather-ai-leaves-google-warns-techs-dangers/"
-    ampWebUrl: "https://www.hawaiinewsnow.com/2023/05/02/godfather-ai-leaves-google-warns-techs-dangers/?outputType=amp"
-    cdnAmpWebUrl: "https://www-hawaiinewsnow-com.cdn.ampproject.org/c/s/www.hawaiinewsnow.com/2023/05/02/godfather-ai-leaves-google-warns-techs-dangers/?outputType=amp"
+    excerpt: "Sounding alarms about artificial intelligence has become a popular pastime in the ChatGPT era, taken up by high-profile figures as varied as industrialist Elon Musk, leftist"
+    publishedDateTime: 2023-05-02T17:59:00Z
+    webUrl: "https://thehill.com/homenews/ap/ap-technology/godfather-of-ai-leaves-google-warns-of-techs-dangers/"
+    ampWebUrl: "https://thehill.com/homenews/ap/ap-technology/godfather-of-ai-leaves-google-warns-of-techs-dangers/amp/"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/ap/ap-technology/godfather-of-ai-leaves-google-warns-of-techs-dangers/amp/"
     type: article
     provider:
-      name: Hawaii News Now
-      domain: hawaiinewsnow.com
+      name: The Hill
+      domain: thehill.com
     quality: 59
     images:
-      - url: "https://gray-khnl-prod.cdn.arcpublishing.com/resizer/O8rE7AaLi5e2M1LTkN8UZs8VL-s=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/OUOF4BVUUVBAHHU4G55VXXK5ME.jpg"
-        width: 800
-        height: 450
+      - url: "https://thehill.com/wp-content/uploads/sites/2/2023/05/645150bbe6ef79.29398712.jpeg?w=1280"
+        width: 1280
+        height: 851
         isCached: true
   - title: "The Godfather of AI quits Google; warns of impending danger"
     excerpt: "In an interview with The New York Times, Hinton expressed his concerns about AI, including the spread of misinformation, the elimination of jobs, and the possibility of AI running its own code. Hinton,"
@@ -533,6 +534,6 @@ related:
       domain: euronews.com
     quality: 10
 
-secured: "mRTgjpf1R0K3y3bQpwHpoJFZMsdsDff9esh3Bj66d50umTNmU4TG0DjeO/ziuhHV/5/9oAqWbjHNRTP/u772vBE11UMvyKTW+F0kYu8XZxHZ53iPWd5oXR1MJsmyLfTbES1N0kkxqy1sLIbUOX1DNlOdCQLmzp2v+b9kaSVf1mfodzGyKpKnd6ck2tL0t1RF0grWb6EtkcdCRzhn71tFf96m+xGhiBt1EhCtajELMjo4XroW7M4+GFKq/VbxSMzwqnO2uudujktuwFy4TtZ4Ni5IQeoOZzu+LFV7jCY0lsbyVeKQdg9Qbm78IZRRqguuretOYJhSH3X+LEaJGIbgDBLofQfg+b/avRtv5/0K+VU=;uzvbPy21iJgvL1RSBM1pFg=="
+secured: "+koEcsF+Afl5BZnbChPsCotzkR6/0+Z2+RXNQJ9fh0/PM1nrShhoF7Cm3S0tHBfwZ5ktv7KJ/JjdOJO78tD/3WXDymXFet3JGLAZ5ygXbstN51pGPk2B7L+nZNpa64R8U8TEd0FVW8muuFvQq/LgpWUTJr3amc9JuSfwnQcOPa/EBsuOtRS7Hiqx8QnyvFk9JVSc8IoHVSVkuE8OPI3clU1ZrNNowrJYEdOJBodaa/vRJjujl7E1EL8bV3GR5/BWdLOPdzWVrggTa+3CZC/qF9BymOQOoPuFSEY9dz4UTKf7+7GhOJH5oWFUy66o7fcJksXSMKmnTd8b7lqEue0NIrGXJEZhUlMOqdTw/JryYaQ=;V2j/XWRGFbXOGy6w5jhBJw=="
 ---
 

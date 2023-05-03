@@ -113,6 +113,15 @@ related:
       name: Science Media Centre
       domain: sciencemediacentre.org
     quality: 19
+  - title: "AI ‘godfather’ Geoffrey Hinton quits Google to spread awareness against ‘dangers’ of artificial intelligence"
+    excerpt: "Dr Hinton’s pioneering research on neural networks and deep learning has paved the way for current AI systems like ChatGPT AI ‘godfather’ Geoffrey Hinton quits Google to spread awareness against ‘dangers’ of artificial intelligence AI,"
+    publishedDateTime: 2023-05-03T07:52:00Z
+    webUrl: "https://www.arabianbusiness.com/industries/technology/ai-godfather-geoffrey-hinton-quits-google-to-spread-awareness-against-dangers-of-artificial-intelligence"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 15
 
 secured: "VG7Xuc5hE5DlERQvCQSyIIicVCm41Q8f3E6TDPp+Y8PuYdkpVaoFGFYKDbJIEshj1lkxwjBByWda03YfzaCFoMHZnSkjrLNZNh17Ikzfrnh0p9MCCdjIFdQ5jIHJipqmAqFkBqQGVIUDtoryiLNgLLcBvvheY6n3kimMWymMi6pM6gIAGqN0LKCtqhlxHhjGdEnk+WBRYKlnHys4+YllJWP0KUsIHxhNcha9qBl2EHLONZP48GnEnl5fEyI3g0T4EvNNQFfT/hso3XOITrVD0PMw3xI9VvAEhAmtKIQdicpswcfibqjGcxKPdBBEIUpWoHv6OSv1fRSBUFYQzh/hyEvjZnhaGYaCp713jNMvG8ExJo7erZjuNy4KBs9kvZAFiFkAf+imcLfmxOkrPm5Z/uRyWYb84MH4asmJ2HklET7w+cDlBEGKZ7aPFT6mZS8G2b1MRRDUsSzgLBJjZjlGQVpdJd5/hnOkte8CObp5OsysBhMCH0DKeR3pij/U2SC8WWd7ncXwZrCobCxkL6DgGA==;Qq5rPmUkl3ITbYjXPWlkEw=="
 ---

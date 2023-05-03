@@ -2,9 +2,9 @@
 category: news
 title: "Texas scientists create artificial intelligence system to read minds"
 excerpt: "The artificial intelligence system relies on a fMRI scanner to translate a person's thoughts. BSIP/Universal Images Group via Getty. Researchers at the University of Texas at Aust"
-publishedDateTime: 2023-05-02T19:49:00Z
-originalUrl: "https://www.chron.com/news/article/ut-artificial-intelligence-ai-reads-minds-18074052.php"
-webUrl: "https://www.chron.com/news/article/ut-artificial-intelligence-ai-reads-minds-18074052.php"
+publishedDateTime: 2023-05-03T00:49:00Z
+originalUrl: "https://www.houstonchronicle.com/news/article/ut-artificial-intelligence-ai-reads-minds-18074052.php"
+webUrl: "https://www.houstonchronicle.com/news/article/ut-artificial-intelligence-ai-reads-minds-18074052.php"
 type: article
 quality: 39
 heat: -1
@@ -12,11 +12,11 @@ published: false
 
 provider:
   name: Houston Chronicle
-  domain: chron.com
+  domain: houstonchronicle.com
 
 topics:
-  - AI
   - AI in Healthcare
+  - AI
 
 images:
   - url: "https://s.hdnux.com/photos/01/32/53/24/23770368/3/rawImage.jpg"
@@ -124,6 +124,6 @@ related:
       domain: kxan.com
     quality: 19
 
-secured: "y/YIgoh86/eWccc2SxNCP9IgmvzFUu6NoH8Ie+aXpcYaXlkFdpxWcQWM3V1AquKa8sJbsLdCJ+aHALdRSR6DXhUA4LfXC6WH+NE2+sXScUQPmXY83XmgwrTvSYoK57oM4Bg131DHeL/Gg+x5R3KwuNsJoXUjYvW2IP1HNZLK4bJR0H3Z1w7PzdgjGHrTDdfO+2LEECpRMrUIv0aRJ28Jv8F5lYwq8FUVwjXwUQVKWrysOAK1je7DTg5siux0Yn2lupb/kOlcO0vHqeeGNtq35nXaZDQxY/T7eo0f8xeqbfStlFIRvzeE8nlK/Wn4S/PDYVteMq/AV/1wYojt8rcCpy85w/qUqqLnMbDqXy5RmfvDCz+FwemW+DXOhJ8+5XJTii1d3f51/Pjdlr4sF8e+gLhYfwD3bssHXZ+1O6N2pMRXkXQFRRGI0cRgzpqNA7kt4hqz8KrBKg4/BdjTGZKryT5JYc3Bz2Jjeb6QU4m7SjAR/9mX9lhH90evQMLU/KvdGvG/V5QaW0lOMCyuwUkb+w==;9lqUced+n0naTAIlSK7/Lg=="
+secured: "Mk8Pt054uR8DnjgoLjYwd9BifwIWhovOHRfV79uakTIm6DB7qvON/3ieYBTHGMtjVb6UPgavHZdwr51kDsdNBCODHHzxI2dnB6tS6AgqD5CcLJxyAxn2zjq1Z2pW57N9kyeb2aJx+9HjhwYEakGQtkoWsywHBUOnzmkpPzMG9v8bbESiUwaWT5DlM1j1jEY7DHdomp5ruECVCjvqDP/0lIbsRGDTT9S4t2JvB60YV0hAjvTnO8Kk4XTlbMk03cXAo2yFpf8c6kU6mYH917p/HwLyfB8H4TX7NskuDeE8IOxzmRLFmBW88FYkxPmAiHS+pgPxBsh2z2q+QQIeodv6FXZXT4rRIGnJjhj9Ik6PErk=;3lh7qvF2vHFNzEBF/ZQFVw=="
 ---
 

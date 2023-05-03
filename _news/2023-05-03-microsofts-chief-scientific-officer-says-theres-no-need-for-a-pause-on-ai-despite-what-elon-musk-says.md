@@ -23,6 +23,20 @@ topics:
   - Microsoft AI
 
 related:
+  - title: "Google and Microsoft Are Gaining on AWS: Here's Why Amazon Isn't Worried"
+    excerpt: "Google Cloud and Microsoft's (NASDAQ: MSFT) Azure are gaining ground on Amazon (NASDAQ: AMZN) Web Services (AWS). Alphabet reported that Google Cloud revenue soared 28% year-over-year in the quarter ending March 31,"
+    publishedDateTime: 2023-04-30T09:55:00Z
+    webUrl: "https://moneymorning.com/investing/google-and-microsoft-are-gaining-on-aws-heres-why-amazon-isnt-worried/"
+    type: article
+    provider:
+      name: Money Morning
+      domain: moneymorning.com
+    quality: 70
+    images:
+      - url: "https://moneymorning.com/wp-content/blogs.dir/1/files/2023/04/motley-fool-mark.png"
+        width: 940
+        height: 940
+        isCached: true
   - title: "Google, Microsoft, Amazon, & Meta put AI on steroids while cutting jobs"
     excerpt: "The IT behemoths Alphabet, Microsoft, Amazon, and Meta are increasing their large language model (LLM) investments as a show of their dedication to utilizing the power of artificial intelligence (AI) while cutting costs and jobs."
     publishedDateTime: 2023-04-29T15:51:00Z

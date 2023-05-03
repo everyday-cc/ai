@@ -68,6 +68,20 @@ related:
         width: 860
         height: 520
         isCached: true
+  - title: "Pandora’s Box: Generative AI Companies, ChatGPT, and Human Rights"
+    excerpt: "ChatGPT and generative artificial intelligence (AI) are dominating headlines and conversations. But what’s behind this technology? Who feeds it data and decides where the data comes from? What does this have to do with human rights?"
+    publishedDateTime: 2023-05-03T04:00:00Z
+    webUrl: "https://www.hrw.org/news/2023/05/03/pandoras-box-generative-ai-companies-chatgpt-and-human-rights"
+    type: article
+    provider:
+      name: Human Rights Watch
+      domain: hrw.org
+    quality: 39
+    images:
+      - url: "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2023/05/202305global_tech_chatgpt.jpg?h=7d6f88fc&itok=NS1Bna2r"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "XiR/RBh9zrR0riXGJG/FxZ8ycQxSrBi3ahZFkL4gz+o8+fFPTPuaOiJpT2/6Qek1nlZ6pBtmH8lQ5KrSnA/73ZzO9mXNUnotIvDgmnWIouEgcBq+1RF5mXCJX/fdY9fKKrMzRsBrcUxEJ1nIWqcrgNmkoGtbzOZBp4b2iDCTb0rUPkd2Tlbxe7a88Ie/jI01wPl7HYqaf4H0NFTZCJL4mLZt8JEn/+OG7n1yyjK6MmGJiAqoJpvBRrNAbAgKDuZb0rlSnTu7h126QHg8/Zv20ZwMvjTZeA7zEzQz0MiA6QM2KKFOLqOYbU/87u4YE1kcd5anckU7lwo555ef6mJZ5GMX6/3edwspUpWdsADdZ8Cj+0KXs/pCy+ZHd+jX63HJA9AtsBcImpOQypAXmrDh9vtouaL8oQXXr1DQgs0JfOJjna8Ll4gPIXkbSR2AavJCJNl6H2RfIb27T/2wvZxaWoZOHOObO9G3V0IdJFwpT0bxGR2rtLnB39+vCgi507GRRTYrbYPsthl/aiHxLGL61A==;r3jfo3yd2O45bbuQ09PyDw=="
 ---

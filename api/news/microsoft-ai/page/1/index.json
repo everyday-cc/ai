@@ -114,7 +114,7 @@
       "originalUrl": "https://techcrunch.com/2023/05/01/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 429,
+      "heat": 399,
       "tags": null,
       "images": [
         {
@@ -314,21 +314,21 @@
       ]
     },
     {
-      "path": "_news/2023-04-29-google-microsoft-amazon-meta-put-ai-on-steroids-while-cutting-jobs.md",
-      "title": "Google, Microsoft, Amazon, & Meta put AI on steroids while cutting jobs",
-      "excerpt": "The IT behemoths Alphabet, Microsoft, Amazon, and Meta are increasing their large language model (LLM) investments as a show of their dedication to utilizing the power of artificial intelligence (AI) while cutting costs and jobs.",
+      "path": "_news/2023-04-30-google-and-microsoft-are-gaining-on-aws-heres-why-amazon-isnt-worried.md",
+      "title": "Google and Microsoft Are Gaining on AWS: Here's Why Amazon Isn't Worried",
+      "excerpt": "Google Cloud and Microsoft's (NASDAQ: MSFT) Azure are gaining ground on Amazon (NASDAQ: AMZN) Web Services (AWS). Alphabet reported that Google Cloud revenue soared 28% year-over-year in the quarter ending March 31,",
       "sourceUrl": null,
-      "webUrl": "https://interestingengineering.com/innovation/google-microsoft-amazon-meta-ai",
-      "originalUrl": "https://interestingengineering.com/innovation/google-microsoft-amazon-meta-ai",
+      "webUrl": "https://moneymorning.com/investing/google-and-microsoft-are-gaining-on-aws-heres-why-amazon-isnt-worried/",
+      "originalUrl": "https://moneymorning.com/investing/google-and-microsoft-are-gaining-on-aws-heres-why-amazon-isnt-worried/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 100,
       "tags": null,
       "images": [
         {
-          "url": "https://dnd2oi6izkvoi.cloudfront.net/2023/04/29/image/jpeg/CansC0Fg86ivCNtL2I5csadyaajvjydZxqrQjzeV.jpg",
-          "width": 1920,
-          "height": 1080,
+          "url": "https://moneymorning.com/wp-content/blogs.dir/1/files/2023/04/motley-fool-mark.png",
+          "width": 940,
+          "height": 940,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -338,11 +338,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-29T08:51:00-07:00",
+      "publishedDateTime": "2023-04-30T02:55:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Interesting Engineering",
-        "domain": "interestingengineering.com",
+        "name": "Money Morning",
+        "domain": "moneymorning.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -352,9 +352,9 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
+        "Microsoft AI",
         "AI",
-        "Microsoft AI"
+        "AWS AI"
       ]
     },
     {

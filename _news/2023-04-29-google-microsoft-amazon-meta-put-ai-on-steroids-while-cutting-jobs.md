@@ -7,8 +7,8 @@ originalUrl: "https://interestingengineering.com/innovation/google-microsoft-ama
 webUrl: "https://interestingengineering.com/innovation/google-microsoft-amazon-meta-ai"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: -1
+published: false
 
 provider:
   name: Interesting Engineering
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Google and Microsoft Are Gaining on AWS: Here's Why Amazon Isn't Worried"
+    excerpt: "Google Cloud and Microsoft's (NASDAQ: MSFT) Azure are gaining ground on Amazon (NASDAQ: AMZN) Web Services (AWS). Alphabet reported that Google Cloud revenue soared 28% year-over-year in the quarter ending March 31,"
+    publishedDateTime: 2023-04-30T09:55:00Z
+    webUrl: "https://moneymorning.com/investing/google-and-microsoft-are-gaining-on-aws-heres-why-amazon-isnt-worried/"
+    type: article
+    provider:
+      name: Money Morning
+      domain: moneymorning.com
+    quality: 70
+    images:
+      - url: "https://moneymorning.com/wp-content/blogs.dir/1/files/2023/04/motley-fool-mark.png"
+        width: 940
+        height: 940
+        isCached: true
   - title: "Microsoft Earnings Takeaways: Cloud, Generative AI, The Path To E7"
     excerpt: "Analyst reports point to the potential for Azure deceleration slowing, an end to customers optimizing cloud spend and the sales potential of generative AI. Better-than-expected results from Microsoft’s latest earnings—not to mention those of cloud rivals Google and Amazon Web Services—led to a mix of analyst reports hopeful for Azure deceleration slowing,"
     publishedDateTime: 2023-05-01T14:20:00Z
