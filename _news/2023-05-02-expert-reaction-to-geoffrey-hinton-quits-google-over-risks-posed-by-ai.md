@@ -95,6 +95,20 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "4 dangers that most worry AI pioneer Geoffrey Hinton"
+    excerpt: "File - Computer scientist Geoffrey Hinton poses at Google's Mountain View, Calif, headquarters on Wednesday, March 25, 2015. Computer scientists who helped build the foundations o"
+    publishedDateTime: 2023-05-03T21:53:00Z
+    webUrl: "https://www.houstonchronicle.com/business/article/4-dangers-that-most-worry-ai-pioneer-geoffrey-18076292.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 37
+    images:
+      - url: "https://s.hdnux.com/photos/01/32/56/21/23782509/6/rawImage.jpg"
+        width: 2048
+        height: 1250
+        isCached: true
   - title: "AI pioneer Geoffrey Hinton warns about growing risks as he quits Google"
     excerpt: "His departure from Google comes at a time of turmoil for the company, which recently merged its DeepMind and Google Brain AI research units as it tries to make up lost ground in generative AI against Microsoft and OpenAI. Jeff Dean, chief scientist at ..."
     publishedDateTime: 2023-05-02T11:21:00Z

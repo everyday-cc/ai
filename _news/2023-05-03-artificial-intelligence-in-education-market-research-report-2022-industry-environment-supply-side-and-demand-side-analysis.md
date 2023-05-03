@@ -52,6 +52,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Deep-Learning Computing Unit (DCU) Market Growth, Trends and Industry Forecast 2023-2030 | NVIDIA, AMD, Intel"
+    excerpt: "The study on the market for Deep-Learning Computing Unit (DCU) provides a thorough analysis of the industry. It does"
+    publishedDateTime: 2023-05-03T10:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-computing-unit-dcu-market-growth-trends-and-industry-forecast-2023-2030-nvidia-amd-intel-2023-05-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Self-driving Forklift Market 2023 Growth Status and Outlook for 2030"
     excerpt: "Additionally, the report provides up-to-date information on the market and identifies growth opportunities for the Self-driving Forklift market. With a detailed market outlook, definition of the industry,"
     publishedDateTime: 2023-05-02T06:09:00Z

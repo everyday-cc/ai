@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/society/2023/apr/30/artificial-intellige
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/society/2023/apr/30/artificial-intelligence-tool-identify-cancer-ai"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Guardian
@@ -31,6 +31,15 @@ images:
     isCached: true
 
 related:
+  - title: "This new AI system can read minds accurately about half the time"
+    excerpt: "AI reading minds isn't as nefarious as it sounds. The ability to decode a person's thoughts could help people communicate more effectively, especially those that are conscious but unable to speak, like people with physical disabilities. This study proves the viability of doing so with language brain-computer interfaces."
+    publishedDateTime: 2023-05-03T18:35:00Z
+    webUrl: "https://www.zdnet.com/article/this-new-ai-system-can-read-minds-accurately-about-half-the-time/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 49
   - title: "New Artificial Intelligence Tool Can Diagnose Colon Cancer"
     excerpt: "Detailed price information for Bausch Health Companies Inc (BHC-T) from The Globe and Mail including charting and trades."
     publishedDateTime: 2023-05-03T15:28:00Z

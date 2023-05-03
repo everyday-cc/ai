@@ -302,6 +302,15 @@ related:
         width: 620
         height: 349
         isCached: true
+  - title: "Gartner: ChatGPT interest boosts generative AI investments"
+    excerpt: "The new Gartner poll also found that most executives believe that the benefits of generative AI outweigh the risks."
+    publishedDateTime: 2023-05-03T11:34:00Z
+    webUrl: "https://www.techrepublic.com/article/gartner-executives-chatgpt-investments/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 49
   - title: "Microsoft Planning Privacy-Focused Version of ChatGPT as Apple AI Efforts Flounder"
     excerpt: "Microsoft is planning to launch a privacy-focused version of ChatGPT amid Apple's apparent lack of grip on emerging AI technologies,"
     publishedDateTime: 2023-05-02T14:11:00Z
@@ -316,15 +325,6 @@ related:
         width: 2500
         height: 1406
         isCached: true
-  - title: "Gartner: ChatGPT interest boosts generative AI investments"
-    excerpt: "The new Gartner poll also found that most executives believe that the benefits of generative AI outweigh the risks."
-    publishedDateTime: 2023-05-03T11:34:00Z
-    webUrl: "https://www.techrepublic.com/article/gartner-executives-chatgpt-investments/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 47
   - title: "Reid Hoffman's new AI startup Inflection launches ChatGPT-like chatbot"
     excerpt: "REUTERS/Brendan McDermid/File Photo May 2 (Reuters) - Inflection AI, the AI startup founded by LinkedIn co-founder Reid Hoffman and former Deepmind (GOOGL.O) researcher Mustafa Suleyman, has released its first AI chatbot product, the company said on Tuesday."
     publishedDateTime: 2023-05-02T18:08:00Z
@@ -333,6 +333,15 @@ related:
     provider:
       name: Reuters
       domain: reuters.com
+    quality: 47
+  - title: "10 ways ChatGPT and generative AI can strengthen zero trust"
+    excerpt: "ChatGPT and generative AI are already helping strengthen zero trust cybersecurity. Here are 10 ways it's doing so now or will soon."
+    publishedDateTime: 2023-05-03T19:07:00Z
+    webUrl: "https://venturebeat.com/security/10-ways-chatgpt-and-generative-ai-can-strengthen-zero-trust/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
     quality: 47
   - title: "Samsung tells employees not to use AI tools like ChatGPT and Google Bard"
     excerpt: "While many workers worry AI bots will take their jobs, Samsung employees are no longer allowed to use them. The company banned generative AI tools, like ChatGPT and Google Bard, after discovering staff had added sensitive code to them,"
@@ -454,6 +463,20 @@ related:
       - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/05/03/2023-05-02T191849Z736819654RC2IQ0AB69LURTRMADP3INFLECTION-AI-CHATBOT_0.JPG?VersionId=.LSgTrLBRI2NkTQQKsH4qOVDeJrRlmwZ"
         width: 860
         height: 573
+        isCached: true
+  - title: "'ChatGPT is the new crypto': Meta warns hackers are exploiting interest in the AI chatbot"
+    excerpt: "Hackers have seized on worldwide interest in the artificial intelligence-powered tool ChatGPT in an effort to break into people's devices, Facebook owner Meta revealed ... to provide AI functionality.\" \"Our research and that of security researchers has ..."
+    publishedDateTime: 2023-05-03T20:31:00Z
+    webUrl: "https://dailyprogress.com/business/technology/chatgpt-is-the-new-crypto-meta-warns-hackers-are-exploiting-interest-in-the-ai-chatbot/article_cefdb746-cf13-5036-b6bf-f9d8f50911b9.html"
+    type: article
+    provider:
+      name: The Daily Progress
+      domain: dailyprogress.com
+    quality: 30
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/dailyprogress.com/content/tncms/assets/v3/editorial/c/aa/caacae9d-25ba-5538-9e77-6244efebab37/6452be43f210c.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
   - title: "LinkedIn cofounder Reid Hoffman's new AI startup Inflection launches ChatGPT-like chatbot"
     excerpt: "Similar to the viral chatbot ChatGPT, Inflection's AI chatbot, named Pi, uses generative AI technology to interact with users through conversations, in which people can ask questions and share interests."

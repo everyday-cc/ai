@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-around-the
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-and-generative-ai-around-the-world-maturity-2023-may?amp"
 type: article
 quality: 75
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -73,20 +73,6 @@ related:
       - url: "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2023/05/202305global_tech_chatgpt.jpg?h=7d6f88fc&itok=NS1Bna2r"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Aisera Collaborates with Microsoft to Provide AI Enterprise Service Experiences with ChatGPT and Generative AI"
-    excerpt: "Aisera, a leading provider of Generative AI solutions for organizations, providing innovative service experiences for employees (EX), customers (CX) and Operations (OX), is partnering with Microsoft to deliver an AI copilot for enterprise service experiences."
-    publishedDateTime: 2023-05-03T15:07:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/05/03/9806661.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
-    images:
-      - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
-        width: 550
-        height: 353
         isCached: true
 
 secured: "zuTH1T1OTXgMXmG+a2NKc175FZDzpkxHFN15WW7X+tct0J1WXaJj0/8veMiiXbrfFI/ZaaRQ1Ph8X3Ioy8aTlivIN35PXwUEIFH02AKtBI59qn10o1jMknPYFKr9o7LtckcJ/aPlFP6z6+L7F5eZCMD1eq2QoSJEpEz0xIq3AF+2nqaMHo9RMs1HVyp3nNmiXkADdvXRjB5OG5rTW0qjVb8waa4VHf1DvZKjz9LMWEWr71IK2QyUQNzWxJYilTTyDd6NDH6y+zqfosuidEEdiUCyYTTesdex4vLjOKGjIk0OH7lsKZfzFCsegTbuYbPQN8fqgHmlQyatqUIgdCJwUPdZ+J3FAMuGBOtgZtafN28=;qYw+NI/GA/dAMxifGg+v/A=="

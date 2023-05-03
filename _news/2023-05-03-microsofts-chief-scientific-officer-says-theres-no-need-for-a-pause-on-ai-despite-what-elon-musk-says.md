@@ -37,20 +37,6 @@ related:
         width: 940
         height: 940
         isCached: true
-  - title: "Here’s what’s missing from Microsoft’s Responsible AI program: An ethics team"
-    excerpt: "While Microsoft expresses interest in responsible AI, it is worth noting that they fired their entire AI ethics team in March 2023."
-    publishedDateTime: 2023-05-03T09:38:00Z
-    webUrl: "https://www.medianama.com/2023/05/223-microsoft-responsible-ai-program-no-ethics-team/"
-    type: article
-    provider:
-      name: MediaNama
-      domain: medianama.com
-    quality: 68
-    images:
-      - url: "https://www.medianama.com/wp-content/uploads/2023/05/christina-wocintechchat-com-F75IfIWSqRY-unsplash-scaled.jpg"
-        width: 2560
-        height: 1709
-        isCached: true
   - title: "Microsoft will help the Google of China take its self-driving car platform global"
     excerpt: "The biggest stories of the day delivered to your inbox."
     publishedDateTime: 2023-04-30T23:59:00Z
@@ -64,34 +50,6 @@ related:
       - url: "https://helios-i.mashable.com/imagery/articles/051FNRrNs5FSwcuuEQHxqHq/hero-image.fill.size_1200x675.v1623364472.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Google, Microsoft, Amazon, & Meta put AI on steroids while cutting jobs"
-    excerpt: "The IT behemoths Alphabet, Microsoft, Amazon, and Meta are increasing their large language model (LLM) investments as a show of their dedication to utilizing the power of artificial intelligence (AI) while cutting costs and jobs."
-    publishedDateTime: 2023-04-29T15:51:00Z
-    webUrl: "https://interestingengineering.com/innovation/google-microsoft-amazon-meta-ai"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 56
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/04/29/image/jpeg/CansC0Fg86ivCNtL2I5csadyaajvjydZxqrQjzeV.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Microsoft Earnings Takeaways: Cloud, Generative AI, The Path To E7"
-    excerpt: "Analyst reports point to the potential for Azure deceleration slowing, an end to customers optimizing cloud spend and the sales potential of generative AI. Better-than-expected results from Microsoft’s latest earnings—not to mention those of cloud rivals Google and Amazon Web Services—led to a mix of analyst reports hopeful for Azure deceleration slowing,"
-    publishedDateTime: 2023-05-01T14:20:00Z
-    webUrl: "https://www.crn.com/news/cloud/microsoft-earnings-takeaways-cloud-generative-ai-the-path-to-e7"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 54
-    images:
-      - url: "https://www.crn.com/resources/027d-17198c0bb2a2-47b52df5a838-1000/nadella-intro2.jpeg"
-        width: 610
-        height: 457
         isCached: true
 
 secured: "qcjxlW+P27UYpZl9cy0DFDiPdMHmhRESX8tTX3qdtDdhDJXKuVzdNBR7laGaZcp4Z1ISNT75F4OuhiNyKjvS0bLgUeCccRMdeifSlItHMhk7PyWx4nraNWRlIMXyFg3Y1nH1qnhYgiEoXB1t7120YOPir2YzJY2uGcA9eSmI/QrFSSDZuZ9cs0yq+suKt7apr0lhL5Jz0e9nmsBMR+ZC+OqrPIv0OnejTzik5iZVwEBIViXMKUZaEpARiS38LmYt7DnnabH8ELaX+R21rsJa23FSqr9r1+jxgmx9T3umykB3pkGU2dWmQYJICrqbztJvzRqSUD0yM0bLzvIZPegvNH6XwLMW5rVE74MyeGpOQhzjCuZ1nexgrv9mCuti6OiKcJzo8XQ7aeuzwip6cNPXzqflgDGOISFNS6IwZ35yOt5qjbfrVCcAbl6L7EwHHy2rIKrZIeHVz/ST80tJAM1473UfN97IULsoB6L4sSh6MsGMR9klubHaiJMmxNGUmL1D9MMWjx0Ubdnw24jWKJ/QSA==;SLBkqQzznxhixTinkWl52w=="

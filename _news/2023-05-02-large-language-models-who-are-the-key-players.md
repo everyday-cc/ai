@@ -35,6 +35,15 @@ related:
         width: 2880
         height: 1920
         isCached: true
+  - title: "Quickly build high-accuracy Generative AI applications on enterprise data using Amazon Kendra, LangChain, and large language models"
+    excerpt: "Generative AI (GenAI) and large language models (LLMs), such as those available soon via Amazon Bedrock and Amazon Titan are transforming the way developers and enterprises are able to solve traditionally complex challenges related to natural language processing and understanding. Some of the benefits"
+    publishedDateTime: 2023-05-03T19:50:32Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/quickly-build-high-accuracy-generative-ai-applications-on-enterprise-data-using-amazon-kendra-langchain-and-large-language-models/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 39
   - title: "Databricks Joins edX with Launch of New Program in Large Language Models"
     excerpt: "LANHAM, Md. and SAN FRANCISCO, May 1, 2023 -- edX, a leading global online learning platform from 2U, Inc., today announced a new partnership with global"
     publishedDateTime: 2023-05-01T15:41:00Z

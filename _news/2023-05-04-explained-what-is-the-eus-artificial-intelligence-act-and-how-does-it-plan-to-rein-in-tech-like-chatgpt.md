@@ -287,6 +287,15 @@ related:
         width: 620
         height: 349
         isCached: true
+  - title: "Gartner: ChatGPT interest boosts generative AI investments"
+    excerpt: "The new Gartner poll also found that most executives believe that the benefits of generative AI outweigh the risks."
+    publishedDateTime: 2023-05-03T11:34:00Z
+    webUrl: "https://www.techrepublic.com/article/gartner-executives-chatgpt-investments/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 49
   - title: "Microsoft Planning Privacy-Focused Version of ChatGPT as Apple AI Efforts Flounder"
     excerpt: "Microsoft is planning to launch a privacy-focused version of ChatGPT amid Apple's apparent lack of grip on emerging AI technologies,"
     publishedDateTime: 2023-05-02T14:11:00Z
@@ -301,15 +310,6 @@ related:
         width: 2500
         height: 1406
         isCached: true
-  - title: "Gartner: ChatGPT interest boosts generative AI investments"
-    excerpt: "The new Gartner poll also found that most executives believe that the benefits of generative AI outweigh the risks."
-    publishedDateTime: 2023-05-03T11:34:00Z
-    webUrl: "https://www.techrepublic.com/article/gartner-executives-chatgpt-investments/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 47
   - title: "Reid Hoffman's new AI startup Inflection launches ChatGPT-like chatbot"
     excerpt: "REUTERS/Brendan McDermid/File Photo May 2 (Reuters) - Inflection AI, the AI startup founded by LinkedIn co-founder Reid Hoffman and former Deepmind (GOOGL.O) researcher Mustafa Suleyman, has released its first AI chatbot product, the company said on Tuesday."
     publishedDateTime: 2023-05-02T18:08:00Z
@@ -318,6 +318,15 @@ related:
     provider:
       name: Reuters
       domain: reuters.com
+    quality: 47
+  - title: "10 ways ChatGPT and generative AI can strengthen zero trust"
+    excerpt: "ChatGPT and generative AI are already helping strengthen zero trust cybersecurity. Here are 10 ways it's doing so now or will soon."
+    publishedDateTime: 2023-05-03T19:07:00Z
+    webUrl: "https://venturebeat.com/security/10-ways-chatgpt-and-generative-ai-can-strengthen-zero-trust/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
     quality: 47
   - title: "Samsung tells employees not to use AI tools like ChatGPT and Google Bard"
     excerpt: "While many workers worry AI bots will take their jobs, Samsung employees are no longer allowed to use them. The company banned generative AI tools, like ChatGPT and Google Bard, after discovering staff had added sensitive code to them,"
@@ -454,6 +463,20 @@ related:
         width: 860
         height: 573
         isCached: true
+  - title: "'ChatGPT is the new crypto': Meta warns hackers are exploiting interest in the AI chatbot"
+    excerpt: "Hackers have seized on worldwide interest in the artificial intelligence-powered tool ChatGPT in an effort to break into people's devices, Facebook owner Meta revealed ... to provide AI functionality.\" \"Our research and that of security researchers has ..."
+    publishedDateTime: 2023-05-03T20:31:00Z
+    webUrl: "https://dailyprogress.com/business/technology/chatgpt-is-the-new-crypto-meta-warns-hackers-are-exploiting-interest-in-the-ai-chatbot/article_cefdb746-cf13-5036-b6bf-f9d8f50911b9.html"
+    type: article
+    provider:
+      name: The Daily Progress
+      domain: dailyprogress.com
+    quality: 30
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/dailyprogress.com/content/tncms/assets/v3/editorial/c/aa/caacae9d-25ba-5538-9e77-6244efebab37/6452be43f210c.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "LinkedIn cofounder Reid Hoffman's new AI startup Inflection launches ChatGPT-like chatbot"
     excerpt: "Similar to the viral chatbot ChatGPT, Inflection's AI chatbot, named Pi, uses generative AI technology to interact with users through conversations, in which people can ask questions and share interests."
     publishedDateTime: 2023-05-03T06:36:00Z
@@ -510,6 +533,6 @@ related:
       domain: businessnewsdaily.com
     quality: 4
 
-secured: "gbDS/+Od9Z0DapGOjqAAACv/VTR1XCfrt3/I+V5y/oNGbE1saIvs+Z9BtMZJqge2k1aRbB4mSyy/NBZA3Kp6sfG3Iaoc/YfT1QDTjqhSbMHl8ueZ5nCjYiGqUyxqyeinPw5o/bdAFPlCixEzit9Ue6tD4k0wUDmanOddVAW0HyE2Cm5df7DVP987ihcMsOQe9Eqb2FlBfi4VKYGEz8Xeo8RiOd3+nrmoS7NPme/j/4wPs82a7ioG9UQbr0blI6tLkD/zRIUKEzEfsdpC3FR39vF5tO8IV5eLBMdKXA4HU7Lwdvdh7O0o8ulEhiNX1xuR7tk6oYir1X5SVO3L7g3F5zffQlavIch87mgjmGulHmY=;d5MAlVbExB2/QovI6gwKzQ=="
+secured: "c0oWL51VYiPnBo6nn/apGwUA9sglLMiEBQcunPDARTz7KdqP97pojsmpbhriOM+h9U7ugx8RDRB65mwylsDyqNMagIshAUJxRVz0PzSKA73gyvCWSwApyNK3ZVxCHwp41bu1jbRYUVYd2MFbWhrhmtnWlUXWGf0CpTyMBR0V/1gPbvvo3+ud3gRBozTJqlpmC45SPWHuo6PgUDKO0+j+rRsPcRf5YLWDqJpuVGK6atwFywpfCDX5PhvDn42ynsthS75rpqvhuDRyEk1XCyQIW8G+KwNKNn/xbm9EK+Vpb7vwxbiZtsl6tTPimGIEX0xYUq2llcFsWOsy/Z14/9cgwXZoxx3EdeYHDqDCTe0OBuruXnU0iboNkjAm+b0JpnUZgDfczIBvq6mrBtPOc8/nLiEUt6pXCgzz4Qyn6U2xjpI5ERWlWbL/4JIWtDHv7fgGMWX1sT6E7caEDBnOQpSELPZhb629XsovpjRlXuU0WqlyCogJltwgUe5M8lToO8WQseTpjkjDIGGQd4DlfR8x7g==;LTKdkwkozPsyVn7b4pDYug=="
 ---
 

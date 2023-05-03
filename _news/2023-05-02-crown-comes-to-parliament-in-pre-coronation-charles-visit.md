@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/crown-parliament-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/crown-parliament-pre-coronation-charles-visit-99011771"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,36 @@ images:
     isCached: true
 
 related:
+  - title: "Police to use live facial recognition in crowds at King Charles coronation"
+    excerpt: "Met says technology will not be used to target protesters or activists, but campaigners say use is ‘extremely worrying’"
+    publishedDateTime: 2023-05-03T19:37:00Z
+    webUrl: "https://www.theguardian.com/uk-news/2023/may/03/metropolitan-police-live-facial-recognition-in-crowds-at-king-charles-coronation?ref=upstract.com"
+    ampWebUrl: "https://amp.theguardian.com/uk-news/2023/may/03/metropolitan-police-live-facial-recognition-in-crowds-at-king-charles-coronation"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/uk-news/2023/may/03/metropolitan-police-live-facial-recognition-in-crowds-at-king-charles-coronation"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/b8db4757a16c78241897d176d4991a39cfc6636f/0_576_8640_5184/master/8640.jpg?width=620&quality=85&auto=format&fit=max&s=358de4318acd68df80290c528e9dc6a6"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "Big brother is tracking you: lawmakers condemn facial recognition cameras in stores"
+    excerpt: "Major UK chain stores Sports Direct and House of Fraser are facing criticism for their use of biometric facial recognition software. The technology is being used to monitor customers’ movements and behavior within the stores,"
+    publishedDateTime: 2023-05-01T04:01:00Z
+    webUrl: "https://www.digitalcameraworld.com/news/big-brother-is-tracking-you-lawmakers-condemn-facial-recognition-cameras-in-stores"
+    type: article
+    provider:
+      name: digitalcameraworld
+      domain: digitalcameraworld.com
+    quality: 33
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/GAwMn7Siq7enS4TXjtDCqg-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Crown comes to Parliament in pre-coronation Charles visit"
     excerpt: "Before the glory of his coronation weekend, King Charles III visited Parliament Tuesday, to get a reminder that the monarch’s power has limits. Charles and Camilla, the queen consort, attended a reception for lawmakers,"
     publishedDateTime: 2023-05-02T17:35:00Z
@@ -41,6 +71,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Facial recognition cameras set to scan crowds at King’s coronation as 11,500 police deployed"
+    excerpt: "The Metropolitan police is set to deploy live facial recognition cameras as part of ramped up security measures for King Charles III’s coronation. The force has said it intends to use the technology in central London and in order to identify people who may be deemed a threat to public safety."
+    publishedDateTime: 2023-05-03T13:13:00Z
+    webUrl: "https://inews.co.uk/news/facial-recognition-cameras-kings-coronation-police-deployed-2314018?ITO=msn"
+    type: article
+    provider:
+      name: i
+      domain: inews.co.uk
+    quality: 8
 
 secured: "NVaON6iJBTZjdMi6orJQNrOdrEXs2X53IKLd+i3VKK652VjyS/wEwt9JFiL/jIWoT/YEG5gP3YrXwApog/403h0Lg8Tq7S9JJPJGHYNf0TAxmPwesygrQuFZtZOKih7VmTQWz4OU9CQAAc9B3oO7b8+9WyeoL6vyr4tM7Xod+fFCDIYBmPTVmXr1c3ZwM6qdcS2I4VCRWDixjuoyaJPJ2qVyzPDTMjXY5SPavR5RyRt9dKbF0mfwMvFX8khrAD90nvsaAPmRfQIb9fLvGjiO4eeGZpHfDktB5Ql7EhSZTKNtGat+xl6dO6PAbEYUPflKpTggC7TKSlAuAYG2BZSGHn+0e7FxJw+Rk/8wEa5BXiXA+qRW7EI7A5IQzALq/rUcPRQw+c46+qBYWryNFqZWQK2qmI8sADNV2XubAC6CmAE3aGQM3vsXQgWAX/N+3eseRo+XcAHH1BvhPPY77cRAnM1b7Gl7tvJU4w0hyww3Jkyn1d+hBGQuS7zzOl8+7yyzIU7ik32Gvq+THKstH7pPYg==;ffdIxRE08BmRSwUKfuKj6A=="
 ---

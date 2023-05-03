@@ -57,6 +57,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Questions raised over facial recognition use in Indian prisons"
+    excerpt: "Government agencies provide contradictory information on the introduction of facial recognition use in prisons amid rising scrutiny against the technology."
+    publishedDateTime: 2023-05-03T20:21:00Z
+    webUrl: "https://www.biometricupdate.com/202305/questions-raised-over-facial-recognition-use-in-indian-prisons"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 54
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/14130825/prison_bars.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Baltimore Considers Facial Recognition Restrictions"
     excerpt: "Proposed legislation would require the police department to get approval before acquiring any new surveillance technology and would establish an oversight board to monitor the city’s use."
     publishedDateTime: 2023-05-02T21:08:00Z

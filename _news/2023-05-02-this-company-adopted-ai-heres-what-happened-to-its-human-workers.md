@@ -1,28 +1,27 @@
 ---
 category: news
-title: "This company adopted AI. Here’s what happened to its human workers."
-excerpt: "Lately, it's felt like technological change has entered warp speed. Companies like OpenAI and Google have unveiled new Artificial Intelligence systems with incredible"
-publishedDateTime: 2023-05-02T11:42:00Z
-originalUrl: "https://wbhm.org/npr_story_post/this-company-adopted-ai-heres-what-happened-to-its-human-workers/"
-webUrl: "https://wbhm.org/npr_story_post/this-company-adopted-ai-heres-what-happened-to-its-human-workers/"
-ampWebUrl: "https://wbhm.org/npr_story_post/this-company-adopted-ai-heres-what-happened-to-its-human-workers/amp/"
-cdnAmpWebUrl: "https://wbhm-org.cdn.ampproject.org/c/s/wbhm.org/npr_story_post/this-company-adopted-ai-heres-what-happened-to-its-human-workers/amp/"
+title: "This company adopted AI. Here's what happened to its human workers."
+excerpt: "Lately, it's felt like technological change has entered warp speed. Companies like OpenAI and Google have unveiled new Artificial Intelligence systems with incredible capabilities, making what once seemed like science fiction an everyday reality."
+publishedDateTime: 2023-05-02T10:31:00Z
+originalUrl: "https://www.wgbh.org/news/national-news/2023/05/02/this-company-adopted-ai-heres-what-happened-to-its-human-workers"
+webUrl: "https://www.wgbh.org/news/national-news/2023/05/02/this-company-adopted-ai-heres-what-happened-to-its-human-workers"
 type: article
-quality: 57
-heat: 67
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: WBHM
-  domain: wbhm.org
+  name: WGBH
+  domain: wgbh.org
 
 topics:
+  - AI in Autos
   - AI
 
 images:
-  - url: "https://wbhm.org/wp-content/uploads/2023/05/automation-6762812-1-763c8220ded19d1840ae8a7ec74abfe04db8ed89-771x578.png"
-    width: 771
-    height: 578
+  - url: "https://wgbh.brightspotcdn.com/dims4/default/b7f577e/2147483647/strip/true/crop/1803x1352+0+0/resize/1803x1352!/quality/70/?url=https%3A%2F%2Fwgbh-brightspot.s3.amazonaws.com%2Fd0%2F9d%2F2cb1c10b11a04353166d5827b511%2Fautomation-6762812-1-763c8220ded19d1840ae8a7ec74abfe04db8ed89.png"
+    width: 1803
+    height: 1352
     isCached: true
 
 related:
@@ -41,6 +40,6 @@ related:
         height: 630
         isCached: true
 
-secured: "oD5eYke+z2BxoayxHo05jVb2tbPCmbJU2gTo9IHFjXOSEPjgU+ZCJGlWzAbcqV8PZK8rOFelgTPL7xeNtNYwAgC+4FvIfVHmct+/717x6nlq5prf7ku1YNwRxthOIbG/ozW1KGjrpFb8n8vUSp3UeMfmQZ3j7fhTkutdW8thR49ARW8+qwkzOMIjhGBqlM+Ni5IifSWapua5ewZOuY6JN/Ym3Yux/UO68dT6ZCFX02/JfgPEFV2fY0utRBSCOs6HJutaLFjOnQzdfwAe0Yr4+8JXQ7dB+PMvQpd5W1qk3PVhY6ZEQp9YSqfncimB4v3PIamefuifv/xMyBa6h0zTkDIF+P32QNbar88AivcwZbI=;4CG2MU/gg8OnTGKa8YdzNA=="
+secured: "OTTO93K4t/Qg14C+elMNTfavviOPwJHGoRayqMHKEa3rm+rlHEPjHu2UdtbxY0AHhKVDuSD+8afj922P6M7rEqr/dL+tgSe8BdP5wOB8PGd6PM0M5SyGhSOmx3e+/eCDB3Co3kM1EWexcF1dz3L9y/PujC/q+OxW6B47fOXDrvtjrnlzB0ftbrKxiTxpj+g8/okR325eSAYURRqIkeZGdyHSOgks9ebfcsdYfdeXfffBYvBfSfomGyO893kWKZGEgL6dzHX0iYrF+y4qBpNkCvpSXLy4pHwo7EiGJXVf3tel9ZiQTpxoOKmSbXN0IT1FXDp+/S9PAMlNLSi/UIw7cSY7zH6HVpgYoHgoP7NppQA=;GGO0EOApY+d58RptLUQa6w=="
 ---
 

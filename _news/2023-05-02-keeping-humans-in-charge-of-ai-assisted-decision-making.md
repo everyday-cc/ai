@@ -32,22 +32,6 @@ related:
       name: GeekWire
       domain: geekwire.com
     quality: 68
-  - title: "UAE Government launches 'Generative AI' guide to facilitate adoption of AI technology"
-    excerpt: "The “Generative AI” guide serves as a valuable resource for government entities, enabling them to leverage the benefits of AI"
-    publishedDateTime: 2023-04-30T11:26:00Z
-    webUrl: "https://www.zawya.com/en/world/middle-east/uae-government-launches-generative-ai-guide-to-facilitate-adoption-of-ai-technology-s26snsak"
-    ampWebUrl: "https://www.zawya.com/en/world/middle-east/uae-government-launches-generative-ai-guide-to-facilitate-adoption-of-ai-technology-s26snsak?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/world/middle-east/uae-government-launches-generative-ai-guide-to-facilitate-adoption-of-ai-technology-s26snsak?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 52
-    images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/M2M5YWFiM2QtMjIxNS00/17/180516221659emso-jpg.jpeg?f=3%3A2"
-        width: 724
-        height: 482
-        isCached: true
   - title: "UAE Government launches the “Generative AI” Guide to facilitate the adoption of AI technology across vital industries"
     excerpt: "The “Generative AI” guide serves as a valuable resource for government entities, enabling them to leverage the benefits of AI technologies and enhance its implementation across various fields. Commenting on the launch,"
     publishedDateTime: 2023-04-30T11:45:00Z

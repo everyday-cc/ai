@@ -138,6 +138,29 @@ related:
         width: 1350
         height: 901
         isCached: true
+  - title: "Texas scientists create artificial intelligence system to read minds"
+    excerpt: "The artificial intelligence system relies on a fMRI scanner to translate a person's thoughts. BSIP/Universal Images Group via Getty. Researchers at the University of Texas at Aust"
+    publishedDateTime: 2023-05-02T23:49:00Z
+    webUrl: "https://www.chron.com/news/article/ut-artificial-intelligence-ai-reads-minds-18074052.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 37
+    images:
+      - url: "https://s.hdnux.com/photos/01/32/53/24/23770368/3/rawImage.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Israeli experts create AI to translate ancient cuneiform text - study"
+    excerpt: "Researchers at Tel Aviv University (TAU) and Ariel University have developed an artificial intelligence model that can automatically translate Akkadian text written in cuneiform into English."
+    publishedDateTime: 2023-05-03T17:15:00Z
+    webUrl: "https://www.jpost.com/archaeology/article-741982"
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 34
   - title: "This Mind Reading AI Model Can Turn Your Thoughts Into Text So Think Happy Thoughts"
     excerpt: "The group trained a neural network to noninvasively decode functional magnetic resonance imaging (fMRI) signals from the human brain."
     publishedDateTime: 2023-05-03T16:21:00Z
@@ -161,15 +184,6 @@ related:
       name: KXAN
       domain: kxan.com
     quality: 19
-  - title: "Texas scientists create artificial intelligence system to read minds"
-    excerpt: "The artificial intelligence system relies on a fMRI scanner to translate a person's thoughts. BSIP/Universal Images Group via Getty. Researchers at the University of Texas at Aust"
-    publishedDateTime: 2023-05-02T23:49:00Z
-    webUrl: "https://www.chron.com/news/article/ut-artificial-intelligence-ai-reads-minds-18074052.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 17
 
 secured: "79pEdW1bXH2wmulmQ65HHLCefEr3hIU+FkJSbvWT2Hj3IGxOfdzJR66+petUoIDQpm1SIg3AjKQpMcZ47pgCUb4F3eRGyquKNgt2pLUtUYYaTMn+fLKGPtIrke64RuehiwcXO5w8VfzIkUMKIbFcZGtiR3n1BFbazQiBotj+5yMbYmVe0g1GSmORanhXVSWqakOhpgxkErx4LILxbEmRbgDbSMAT/P52jAYjn2NEZbkEA6JZ8ZMJJsUyvdVCzEJ5qRDZ2TfvoHAqaE24WwfF/Gk8iLHdXK6ovNj/RGJedaOxOFSkxj0k9kXTSMEJieVeqj9aHVCDP7DvGmchkw30YhsMHjxukSlbfaSk/HZhqXri3WVIb1H+POCUrFfMPll216lwQqY7tP0Dnt6HMDEDQTa11I9HhPKXOKR0mMjUoktvSfnT7olIrJzL64ENZCr7u71Rk6Uh5B10g67hjJXqZYfZG6UcwiU3PH3ufM4VBcW7XnUvjStHhY9bzNyKoDCG+Mp8URDNG6/oGdr1pdYIGw==;W8EvRCF4zSpn9KWSko62YQ=="
 ---

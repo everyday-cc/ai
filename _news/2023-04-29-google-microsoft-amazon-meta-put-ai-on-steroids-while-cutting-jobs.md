@@ -26,19 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Google and Microsoft Are Gaining on AWS: Here's Why Amazon Isn't Worried"
-    excerpt: "Google Cloud and Microsoft's (NASDAQ: MSFT) Azure are gaining ground on Amazon (NASDAQ: AMZN) Web Services (AWS). Alphabet reported that Google Cloud revenue soared 28% year-over-year in the quarter ending March 31,"
-    publishedDateTime: 2023-04-30T09:55:00Z
-    webUrl: "https://moneymorning.com/investing/google-and-microsoft-are-gaining-on-aws-heres-why-amazon-isnt-worried/"
+  - title: "CallMiner Collaborates with Microsoft to Enhance AI and Machine Learning Capabilities"
+    excerpt: "CallMiner, a leading provider of conversation intelligence to drive business performance improvement, today announced"
+    publishedDateTime: 2023-05-03T12:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/callminer-collaborates-with-microsoft-to-enhance-ai-and-machine-learning-capabilities-2023-05-03"
     type: article
     provider:
-      name: Money Morning
-      domain: moneymorning.com
-    quality: 70
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 94
     images:
-      - url: "https://moneymorning.com/wp-content/blogs.dir/1/files/2023/04/motley-fool-mark.png"
-        width: 940
-        height: 940
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Here’s what’s missing from Microsoft’s Responsible AI program: An ethics team"
     excerpt: "While Microsoft expresses interest in responsible AI, it is worth noting that they fired their entire AI ethics team in March 2023."
@@ -54,19 +54,19 @@ related:
         width: 2560
         height: 1709
         isCached: true
-  - title: "Microsoft will help the Google of China take its self-driving car platform global"
-    excerpt: "The biggest stories of the day delivered to your inbox."
-    publishedDateTime: 2023-04-30T23:59:00Z
-    webUrl: "https://mashable.com/article/baidu-microsoft-azure-self-driving-partnership"
+  - title: "Aisera Collaborates with Microsoft to Provide AI Enterprise Service Experiences with ChatGPT and Generative AI"
+    excerpt: "Aisera Collaborates with Microsoft to Provide AI Enterprise Service Experiences with ChatGPT and Generative AI May 03, 2023 (PRNewswire via COMTEX) --"
+    publishedDateTime: 2023-05-03T12:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/aisera-collaborates-with-microsoft-to-provide-ai-enterprise-service-experiences-with-chatgpt-and-generative-ai-2023-05-03"
     type: article
     provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 66
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
     images:
-      - url: "https://helios-i.mashable.com/imagery/articles/051FNRrNs5FSwcuuEQHxqHq/hero-image.fill.size_1200x675.v1623364472.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
   - title: "Microsoft Earnings Takeaways: Cloud, Generative AI, The Path To E7"
     excerpt: "Analyst reports point to the potential for Azure deceleration slowing, an end to customers optimizing cloud spend and the sales potential of generative AI. Better-than-expected results from Microsoft’s latest earnings—not to mention those of cloud rivals Google and Amazon Web Services—led to a mix of analyst reports hopeful for Azure deceleration slowing,"
@@ -82,15 +82,20 @@ related:
         width: 610
         height: 457
         isCached: true
-  - title: "Microsoft's chief scientific officer says there's no need for a pause on AI — despite what Elon Musk says"
-    excerpt: "Thousands of people, including Elon Musk and AI experts, signed an open letter seeking a 6-month pause on AI development amid ChatGPT's popularity."
-    publishedDateTime: 2023-05-02T18:23:00Z
-    webUrl: "https://www.businessinsider.com/microsoft-executive-elon-musk-ai-acceleration-not-pause-open-letter-2023-5"
+  - title: "Private ChatGPT? Microsoft to offer AI alternative for businesses with sensitive information"
+    excerpt: "Microsoft plans to address data privacy concerns of large firms that hold sensitive information and have large regulatory costs for leaks with its new offering."
+    publishedDateTime: 2023-05-03T09:55:00Z
+    webUrl: "https://interestingengineering.com/innovation/private-chatgpt-alternative-microsoft"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 43
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/05/03/image/jpeg/3PScUnRYvnd3RphoGb0FtFuP8cH4wCOUj66eRN9Q.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "1VA54ybzhOAQOgArqybiwHQYlf8Nx7EX1c9cgQqWZbZArA2ijWMjyg9B7n5G1oK37FwuDFHe6Y/NI2+AmPSrwyIjmNueOGWCjALfqQFvRndZ3ph2KJGcxQTs0q31zLMMHlpC4//b97x8PyX79vXlfUaM0jYgAU574q7wesmVLaCxsFRGCP4TVRFI/QQnVWrdk8urc48L3moIkIAjAtvcT4VyuBShI+J3RoIDHJIuR5LK04bJP6yQZVwZ1z9ysQ/nHjyRkUswbFXGMGY4oDOQ/fZ1eHMejSRmLX3x7ylk+cY6GX150Q4h26c1VjYM343PQ0qXkZv46GjP2peH+hcEqN4zharTuu7qouIQkSSd+dCr/E0oaVWXfQs/cE7L1CPl9HL7XQJJqAKbBVePJipBgIJTVcgURY5Tb1mxvxkZrj+m9Lwv84yIaydRsZFoE1hFssvVDDqtNRIg0wl+K5/ZH3EXztlVPZjj390Cjq5T7+fBaAH8guj3bX09qOjixqjj5zbXDdlZTvW1BL5tyLK9+Q==;Gt9DidGvu9DSHXZf/E7ztA=="
 ---

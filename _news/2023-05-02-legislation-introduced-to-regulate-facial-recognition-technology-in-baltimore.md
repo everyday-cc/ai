@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wmar2news.com/local/legislation-introduced-to-regulate-f
 cdnAmpWebUrl: "https://www-wmar2news-com.cdn.ampproject.org/c/s/www.wmar2news.com/local/legislation-introduced-to-regulate-facial-recognition-technology-in-baltimore?_amp=true"
 type: article
 quality: 58
-heat: 138
+heat: 148
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://x-default-stgec.uplynk.com/ausw/slices/1ce/22f3150cc15946e68b21f11967cfb8d1/1cedfcec12e14520a27f540bd3231a82/poster_f2fd92cca85a4c328dcdaf9accf7af3b.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Questions raised over facial recognition use in Indian prisons"
+    excerpt: "Government agencies provide contradictory information on the introduction of facial recognition use in prisons amid rising scrutiny against the technology."
+    publishedDateTime: 2023-05-03T20:21:00Z
+    webUrl: "https://www.biometricupdate.com/202305/questions-raised-over-facial-recognition-use-in-indian-prisons"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 54
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/14130825/prison_bars.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Plan to use facial recognition at JR East stations to spot ex-cons iced"
     excerpt: "East Japan Railway Co. has suspended a program to use facial recognition to track ex-convicts who turn up at its stations. A company official said Sept. 21 the decision was made “because a ..."

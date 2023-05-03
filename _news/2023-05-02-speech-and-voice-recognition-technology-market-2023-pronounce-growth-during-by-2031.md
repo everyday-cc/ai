@@ -71,6 +71,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Robotic Cleaning Machines Market Size, Trends, Scope and Industry Demands Analysis 2023 – 2029"
+    excerpt: "The Global \" Robotic Cleaning Machines Market \" Research report give detailed information with reference to market size, share, trends, growth, cost revenue, capacity, and forecast till 2029. This report also contains the general and in-depth study of the Robotic Cleaning Machines market with all its aspects influencing the growth of the market."
+    publishedDateTime: 2023-05-03T10:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/robotic-cleaning-machines-market-size-trends-scope-and-industry-demands-analysis-2023-2029-2023-05-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "North America Speech and Voice Recognition Market Key Segments, Share, Size, Trends, Growth, and Forecast 2023 to 2031"
+    excerpt: "The North America speech and voice recognition is expected to reach USD 1,960.60 Million by 2025 from USD 312.08 Million in 2017, at a CAGR of 25.7% in the forecast period 2018 to 2025. The major factors driving the growth of this market are the effective integration due to increased demand for voice and speech-based biometric systems,"
+    publishedDateTime: 2023-05-03T10:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/north-america-speech-and-voice-recognition-market-key-segments-share-size-trends-growth-and-forecast-2023-to-2031-2023-05-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "8+0Rnom+6cSkSQh3d3CGGGp2R93ENJbWhqO2gAmdZINDTtuAwnuEZukTTUtL0j6Hr2+Ctcqfoo+DcEvMTqR3zMS53RjYkj+cauAu+l4Sf3qtsfVHjQId00UZJooxHide2ZrVxi1vFgjaCPx5TQd4xL2xJw5Y0Lef6x7LnH+185pzwZT/s4UL35nnUF4Ab5x2/ATGleCvGoXlDIu+oFVOMKCq+2mb55s7XxgmsOplKzeyFYwvRl5jaD2SSRs6f0fYzm05GmQ+wVF9BBV1NkzblTUqj12WOSmy/Zc3QlEDyWkxZ8tnvCQhIrsi0uOp4QzVJrdSXzDUDSTlVOh+maxl1akiOd30yGD7OAhIg8HKIeg=;2IXjEnF2S4rNN7gG1YeU6g=="
 ---

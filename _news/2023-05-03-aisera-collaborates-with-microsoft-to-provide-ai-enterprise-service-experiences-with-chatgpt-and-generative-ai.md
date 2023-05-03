@@ -1,91 +1,105 @@
 ---
 category: news
 title: "Aisera Collaborates with Microsoft to Provide AI Enterprise Service Experiences with ChatGPT and Generative AI"
-excerpt: "Aisera, a leading provider of Generative AI solutions for organizations, providing innovative service experiences for employees (EX), customers (CX) and Operations (OX), is partnering with Microsoft to deliver an AI copilot for enterprise service experiences."
-publishedDateTime: 2023-05-03T15:07:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/05/03/9806661.htm"
-webUrl: "https://it.tmcnet.com/news/2023/05/03/9806661.htm"
+excerpt: "Aisera Collaborates with Microsoft to Provide AI Enterprise Service Experiences with ChatGPT and Generative AI May 03, 2023 (PRNewswire via COMTEX) --"
+publishedDateTime: 2023-05-03T12:01:00Z
+originalUrl: "https://www.marketwatch.com/press-release/aisera-collaborates-with-microsoft-to-provide-ai-enterprise-service-experiences-with-chatgpt-and-generative-ai-2023-05-03"
+webUrl: "https://www.marketwatch.com/press-release/aisera-collaborates-with-microsoft-to-provide-ai-enterprise-service-experiences-with-chatgpt-and-generative-ai-2023-05-03"
 type: article
-quality: 34
+quality: 64
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
-    width: 550
-    height: 353
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
-  - title: "ChatGPT and Generative AI Around the World: Maturity, Opportunities, and Hurdles in Key Regions"
-    excerpt: "ChatGPT has received a lot of press since its November 2022 launch. But while interest in the tool is high, its use is not yet universal."
-    publishedDateTime: 2023-05-01T17:00:00Z
-    webUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-around-the-world-maturity-2023-may"
-    ampWebUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-around-the-world-maturity-2023-may?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-and-generative-ai-around-the-world-maturity-2023-may?amp"
+  - title: "CallMiner Collaborates with Microsoft to Enhance AI and Machine Learning Capabilities"
+    excerpt: "CallMiner, a leading provider of conversation intelligence to drive business performance improvement, today announced"
+    publishedDateTime: 2023-05-03T12:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/callminer-collaborates-with-microsoft-to-enhance-ai-and-machine-learning-capabilities-2023-05-03"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 75
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 94
     images:
-      - url: "https://i.insider.com/6441b16a3f6f690018debe44?width=1200&format=jpeg"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "Generative AI Tools Like ChatGPT And Bard Heralding Generational Shift In Job Roles. Adapt Or Risk Obsolescence"
-    excerpt: "The benefits and impact of Generative AI tools like ChatGPT on industries and job roles have only begun to occur, harbingering generational job role shifts."
-    publishedDateTime: 2023-05-01T15:59:00Z
-    webUrl: "https://www.forbes.com/sites/roomykhan/2023/05/01/generative-ai-tools-like-chatgpt-and-bard-heralding-generational-shift-in-job-roles-adapt-or-risk-obsolescence/"
-    ampWebUrl: "https://www.forbes.com/sites/roomykhan/2023/05/01/generative-ai-tools-like-chatgpt-and-bard-heralding-generational-shift-in-job-roles-adapt-or-risk-obsolescence/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roomykhan/2023/05/01/generative-ai-tools-like-chatgpt-and-bard-heralding-generational-shift-in-job-roles-adapt-or-risk-obsolescence/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/644fdd5de31e3cc4caad4710/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 798
-        isCached: true
-  - title: "Challenges and Opportunities of Artificial Intelligence"
-    excerpt: "Previously, she served as vice president and group counsel, artificial intelligence products group, at Intel Corp. She previously held attorney roles at Sun Microsystems and Fenwick & West."
-    publishedDateTime: 2023-05-02T19:13:00Z
-    webUrl: "https://www.govinfosecurity.com/challenges-opportunities-artificial-intelligence-a-21768"
-    type: article
-    provider:
-      name: HHS
-      domain: govinfosecurity.com
-    quality: 39
-    images:
-      - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/challenges-opportunities-artificial-intelligence-showcase_image-9-a-21768.jpg"
-        width: 860
-        height: 520
-        isCached: true
-  - title: "Pandora’s Box: Generative AI Companies, ChatGPT, and Human Rights"
-    excerpt: "ChatGPT and generative artificial intelligence (AI) are dominating headlines and conversations. But what’s behind this technology? Who feeds it data and decides where the data comes from? What does this have to do with human rights?"
-    publishedDateTime: 2023-05-03T04:00:00Z
-    webUrl: "https://www.hrw.org/news/2023/05/03/pandoras-box-generative-ai-companies-chatgpt-and-human-rights"
-    type: article
-    provider:
-      name: Human Rights Watch
-      domain: hrw.org
-    quality: 39
-    images:
-      - url: "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2023/05/202305global_tech_chatgpt.jpg?h=7d6f88fc&itok=NS1Bna2r"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
+  - title: "Here’s what’s missing from Microsoft’s Responsible AI program: An ethics team"
+    excerpt: "While Microsoft expresses interest in responsible AI, it is worth noting that they fired their entire AI ethics team in March 2023."
+    publishedDateTime: 2023-05-03T09:38:00Z
+    webUrl: "https://www.medianama.com/2023/05/223-microsoft-responsible-ai-program-no-ethics-team/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 68
+    images:
+      - url: "https://www.medianama.com/wp-content/uploads/2023/05/christina-wocintechchat-com-F75IfIWSqRY-unsplash-scaled.jpg"
+        width: 2560
+        height: 1709
+        isCached: true
+  - title: "Google, Microsoft, Amazon, & Meta put AI on steroids while cutting jobs"
+    excerpt: "The IT behemoths Alphabet, Microsoft, Amazon, and Meta are increasing their large language model (LLM) investments as a show of their dedication to utilizing the power of artificial intelligence (AI) while cutting costs and jobs."
+    publishedDateTime: 2023-04-29T15:51:00Z
+    webUrl: "https://interestingengineering.com/innovation/google-microsoft-amazon-meta-ai"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 56
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/04/29/image/jpeg/CansC0Fg86ivCNtL2I5csadyaajvjydZxqrQjzeV.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Microsoft Earnings Takeaways: Cloud, Generative AI, The Path To E7"
+    excerpt: "Analyst reports point to the potential for Azure deceleration slowing, an end to customers optimizing cloud spend and the sales potential of generative AI. Better-than-expected results from Microsoft’s latest earnings—not to mention those of cloud rivals Google and Amazon Web Services—led to a mix of analyst reports hopeful for Azure deceleration slowing,"
+    publishedDateTime: 2023-05-01T14:20:00Z
+    webUrl: "https://www.crn.com/news/cloud/microsoft-earnings-takeaways-cloud-generative-ai-the-path-to-e7"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 54
+    images:
+      - url: "https://www.crn.com/resources/027d-17198c0bb2a2-47b52df5a838-1000/nadella-intro2.jpeg"
+        width: 610
+        height: 457
+        isCached: true
+  - title: "Private ChatGPT? Microsoft to offer AI alternative for businesses with sensitive information"
+    excerpt: "Microsoft plans to address data privacy concerns of large firms that hold sensitive information and have large regulatory costs for leaks with its new offering."
+    publishedDateTime: 2023-05-03T09:55:00Z
+    webUrl: "https://interestingengineering.com/innovation/private-chatgpt-alternative-microsoft"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 43
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/05/03/image/jpeg/3PScUnRYvnd3RphoGb0FtFuP8cH4wCOUj66eRN9Q.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
-secured: "KANYrRAffqdHNeaDs4MTMHTjvaFVxdlX6FsPOSiI+Ns0fZnc/h9EhW67miSqqwA2HMpxVt3/OdjNBKKtMZmJH3lN9+JD2rtmrOED+vgGIscIeWtQD5wVb+CCBFxkL8oNx+zmDOfrwP/sHBqqLLWz90qWX3Yam8k2+ae3XBOfuV6xfckl3DIbvCc0A7tP9JnpKykbdm03yu/uVU0qjaEqsSo0ypMkS0OJgp6evikTeWvM3DTdXsnxzt8mEz055396hsNY9BQm1Q2pTPBwGoGyYrQpgPCwuNAjW7Q5wsHwxesvD0lw/l4vAd0qEx/jHvYpgPFI2pQMiwqdM97DkWmGtAnVxTEBdB7/rEkXDfLxEo4=;OenlQIMxfINUCcEl2MKTzg=="
+secured: "5NcScdtr7Tt+q8BSSutmAoBtdx5WuKDIE8GlBlyYq49gh7gjucyFXAzXHxmrgm9HS+qOXeWr/3SFH+SMCVhkSnFt40SN3JaAwK5m2VxImstJfObD5532jFRZvZtSwRlDu2FUO8uaD0kbHyAAOJAszFl8ENIN559tLruR6iy7Z1+L7KaRFE4wQDI2jxS9WmBkDOB7VtLQ92JjZrfv9OaK7VlkKXOQtpq6NNoMot2MKK7ONQ838eQu9Kt4vchcTbTyr6Cy7UVm0dzQUhIcXEtQyD8mhdFIz1Y8ERWe4k9Qu66EJxZ8MLW1fx7Zh/MWtHSdrqYPXY6bio3RHlq+guKFKA6+N0FIb5HeRJQZGcLzlbU=;VepQNU9yPeCCH2ZoMBep2Q=="
 ---
 

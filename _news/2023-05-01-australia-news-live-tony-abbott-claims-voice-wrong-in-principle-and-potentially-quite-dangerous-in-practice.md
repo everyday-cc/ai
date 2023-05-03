@@ -45,6 +45,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "The right-wing, pro-war character of Australia’s indigenous Voice plan becomes clearer"
+    excerpt: "A “yes” vote for the Voice is being presented as a patriotic duty, necessary to unite the nation or complete the national unity of Australia."
+    publishedDateTime: 2023-05-03T04:26:00Z
+    webUrl: "https://www.wsws.org/en/articles/2023/05/03/cmwr-m03.html"
+    type: article
+    provider:
+      name: World Socialist Web Site
+      domain: wsws.org
+    quality: 16
+    images:
+      - url: "https://www.wsws.org/asset/fa78f477-85bc-4877-a7c7-2f65a2f080fa?rendition=1600x900"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "NDfUHW1sXiXgQg6s/H+avszeBUJNyyQQt5mYjLULylnCkspN58eUl9je0QIWx/bBh6UKolscXi5P0uzDaEm/kGEKjAqWaTN58M5KbnJw82gE+yj0vvDXVM0x9GiyNE7w1Dp4rQAV/+PkZl71/wUrSAQcQJMek/sCSmf5dyyWG3zqNX2bLKNT2t/odt30rC15Kqoi3buGEVkq4TgXG1PlEv/ahyclpIM3x4hO+9talIpE0NX9DpwBhEz3XF/Fj+SqJljSoTD6kXLH6jJKliwNzDE4KgUnVyndLoN4Cz/bE1zbEW8bbFZTfXIBF9LS4YGcnWyKu4L0ZLaqqdAW2N3Mdlw7wLzlM9o/TS0t1qZyUXg=;iCdt9GH5iepEgc9v3dk5UQ=="
 ---

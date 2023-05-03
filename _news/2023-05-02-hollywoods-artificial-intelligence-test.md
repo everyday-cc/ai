@@ -52,6 +52,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI vs. Hollywood: Writers battle “plagiarism machines” in union talks"
+    excerpt: "But in particular, Reuters reports that WGA writers have two main concerns about automation in writing, quoting screenwriter John August, who is part of the WGA negotiating committee: They don't want their material to be used as training data for AI systems,"
+    publishedDateTime: 2023-05-03T18:38:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2023/05/ai-vs-hollywood-writers-battle-plagiarism-machines-in-union-talks/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 47
 
 secured: "aPR1TEtRsQbsBiBbXNO0+WDCX9FReclvBnfoouthJ4J3GwnhDaEOXzj+5K9VNjhNnPKFgd5G8CoNrghS6xo4B+aMS/XuHoo0UJTbWfjiFYieU59i+LlVKTO92/QPj/XmL+GG4u++f488tGKgMJwCzb/ey6HQng5bdl6/Y0EK4avDt9zfLFS7LrotMGKmcekX6qi+kXY7Y/KmA4Q02m1OQ1JnSw1m8B7jcIUqYDH43MMSGFB9p0RCEvx4PNNia4Dh8OSVVYtFsJl7AulS/vyZ6cEOwEGN5pp5DX/KRuns6+UDkC7RVlcyeutGABmfmBzpaN5Ve2U7ZNhtP5yApsMH4bZzVMr0cD+i70hwKLwXvkbstviESbGbNSocWzp667GeS23YR+8mCBqjT1RNQubDq+QvFGjh25uQZfFOl9kuAwUzddP1PDNUqQ0htcyYoGE+dui9lJLxKgJwuzw1yOXqxfu2uKdehqOmOPNCMY/wY0X5pJ/hQLhZSEqL+lt7Hyznxm4CRVZ3kcfktPqP8NuGkQ==;HglGdzWaTgNdgZSyCX4oFQ=="
 ---

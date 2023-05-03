@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/understand-risks-generative-ai-better-bus
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/understand-risks-generative-ai-better-business-outcomes/amp/"
 type: article
 quality: 87
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -91,20 +91,6 @@ related:
       - url: "https://m.foolcdn.com/media/dubs/images/nvidia-nvda-stock-ai-artificial-intelligence-2.width-600.jpg"
         width: 580
         height: 387
-        isCached: true
-  - title: "Top 8 AI Chips for Your Generative AI Play"
-    excerpt: "The AI chip market is expected to grow at a CAGR of 51% and reach $73.49 billion by 2025. Semiconductor companies could capture 40-50% of the total market share. Companies such as Alphabet, Broadcom,"
-    publishedDateTime: 2023-04-29T04:30:00Z
-    webUrl: "https://analyticsindiamag.com/top-8-ai-chips-for-your-generative-ai-play/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 58
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/04/unnamed-2.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Unlocking The Power Of Generative AI: Exploring Business Models And Dispelling Fears"
     excerpt: "If there’s one topic that’s dominated the news cycle in 2023, it’s generative AI. This field of technology has experienced a tremendous surge in growth and popularity in recent months, with services like ChatGPT, Dall-E and Stable Diffusion held up as powerful new tools to help humanity—or to doom it."

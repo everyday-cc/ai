@@ -51,6 +51,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Questions raised over facial recognition use in Indian prisons"
+    excerpt: "Government agencies provide contradictory information on the introduction of facial recognition use in prisons amid rising scrutiny against the technology."
+    publishedDateTime: 2023-05-03T20:21:00Z
+    webUrl: "https://www.biometricupdate.com/202305/questions-raised-over-facial-recognition-use-in-indian-prisons"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 54
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/14130825/prison_bars.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Plan to use facial recognition at JR East stations to spot ex-cons iced"
     excerpt: "East Japan Railway Co. has suspended a program to use facial recognition to track ex-convicts who turn up at its stations. A company official said Sept. 21 the decision was made “because a ..."
     publishedDateTime: 2023-05-02T00:00:00Z

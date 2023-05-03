@@ -6,7 +6,7 @@ publishedDateTime: 2023-05-02T23:49:00Z
 originalUrl: "https://www.chron.com/news/article/ut-artificial-intelligence-ai-reads-minds-18074052.php"
 webUrl: "https://www.chron.com/news/article/ut-artificial-intelligence-ai-reads-minds-18074052.php"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
@@ -16,6 +16,12 @@ provider:
 
 topics:
   - AI
+
+images:
+  - url: "https://s.hdnux.com/photos/01/32/53/24/23770368/3/rawImage.jpg"
+    width: 1024
+    height: 683
+    isCached: true
 
 related:
   - title: "Mind-reading AI translates brain activity into a continuous stream of text"
@@ -146,6 +152,15 @@ related:
       name: Analytics
       domain: healthitanalytics.com
     quality: 34
+  - title: "Israeli experts create AI to translate ancient cuneiform text - study"
+    excerpt: "Researchers at Tel Aviv University (TAU) and Ariel University have developed an artificial intelligence model that can automatically translate Akkadian text written in cuneiform into English."
+    publishedDateTime: 2023-05-03T17:15:00Z
+    webUrl: "https://www.jpost.com/archaeology/article-741982"
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 34
   - title: "This Mind Reading AI Model Can Turn Your Thoughts Into Text So Think Happy Thoughts"
     excerpt: "The group trained a neural network to noninvasively decode functional magnetic resonance imaging (fMRI) signals from the human brain."
     publishedDateTime: 2023-05-03T16:21:00Z
@@ -170,6 +185,6 @@ related:
       domain: kxan.com
     quality: 19
 
-secured: "7ZjPF20Ls/3up2FF4pmHjxYLDBSKp32u8UCdRg8JSXRyuXI9Ne3Y8ajrm5q7ho/w0T2hPGttZBbOvf1WoxEbYC5Y9Hw53fMb9jbFb0PhM8hU0sw+M4dSCpeoUJiN9qoQc5X8Y8r/uOGnNIBwbTlMFm6yI8bwNqNoiJYYk6MYJt+YyTPxSETT/iFjt0P+RWIZ5a6zXWVevcsiAWTLSP/ipqyOVgpNh8d5+DL+BykLwORkiDMCe7roAjTgW6NpwTcqlJoUvbKLOqcvl0yP9TZaVtvr/QOTycVs/xhnYp7G8VMqbuHbTdHPQjrF8oBmZmGCnkJRjoCiwK8vYg6tL/B9bwB2zfHsF79OfbaU3TVG17rKpGSF2MgyszNayx2FX9S046//cfpoVH2i2A+DZt45QEM0GPDnPXydP0tQn8Rh5FMSAaXz1Xi+yJZ6nl+9tU7Ib3TBD5uxjGeX5JRgxVPl6TY1+i5V7fsMSaq+8PWspai8vSo4RWm12pI+bp5Ye5056dZdYPNTcYs5THE6xum4sA==;0s4FWQZFHI4FT96krlLMVQ=="
+secured: "xX/Sq9YN08wqc/jfdqDMyp9RYPXykcY7IOK/0zvj/gkzblUxsVe8xYFJ0RpMN0s3MS3JtzjJqZJb9iviDPP8Cojfrc/UfI33RmAFVN5U6SW19zR9ZnLBzIHgITf+eql9hahZb9WswkXeYJpfCCO0A3I7ZDTQXgvG3UBiOf56oz0lZqPR9F1MBbmfsIoQkW5gbqjRPO88hAPG+sgbdbUCWZTLLIAXQ+Dbx4e5BPwPMqF8cv6hSfhDXPC4ZM5s9DVBjrG9mKKl+b72jT+61Myv8BL+A5GhqUztldTAxVc0K3K0WKQvXVCgAtDEj9yu53M+jZQT3VwRUL+KIFrJxGllqpYnd2BbZL4zN8HoXD8UCOE=;ftDlYVPjOC0kcQlDJxoekg=="
 ---
 

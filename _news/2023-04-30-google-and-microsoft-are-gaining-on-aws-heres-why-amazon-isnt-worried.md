@@ -7,7 +7,7 @@ originalUrl: "https://moneymorning.com/investing/google-and-microsoft-are-gainin
 webUrl: "https://moneymorning.com/investing/google-and-microsoft-are-gaining-on-aws-heres-why-amazon-isnt-worried/"
 type: article
 quality: 70
-heat: 120
+heat: 90
 published: true
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Here’s what’s missing from Microsoft’s Responsible AI program: An ethics team"
-    excerpt: "While Microsoft expresses interest in responsible AI, it is worth noting that they fired their entire AI ethics team in March 2023."
-    publishedDateTime: 2023-05-03T09:38:00Z
-    webUrl: "https://www.medianama.com/2023/05/223-microsoft-responsible-ai-program-no-ethics-team/"
-    type: article
-    provider:
-      name: MediaNama
-      domain: medianama.com
-    quality: 68
-    images:
-      - url: "https://www.medianama.com/wp-content/uploads/2023/05/christina-wocintechchat-com-F75IfIWSqRY-unsplash-scaled.jpg"
-        width: 2560
-        height: 1709
-        isCached: true
   - title: "Microsoft will help the Google of China take its self-driving car platform global"
     excerpt: "The biggest stories of the day delivered to your inbox."
     publishedDateTime: 2023-04-30T23:59:00Z
@@ -53,34 +39,6 @@ related:
       - url: "https://helios-i.mashable.com/imagery/articles/051FNRrNs5FSwcuuEQHxqHq/hero-image.fill.size_1200x675.v1623364472.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Google, Microsoft, Amazon, & Meta put AI on steroids while cutting jobs"
-    excerpt: "The IT behemoths Alphabet, Microsoft, Amazon, and Meta are increasing their large language model (LLM) investments as a show of their dedication to utilizing the power of artificial intelligence (AI) while cutting costs and jobs."
-    publishedDateTime: 2023-04-29T15:51:00Z
-    webUrl: "https://interestingengineering.com/innovation/google-microsoft-amazon-meta-ai"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 56
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/04/29/image/jpeg/CansC0Fg86ivCNtL2I5csadyaajvjydZxqrQjzeV.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Microsoft Earnings Takeaways: Cloud, Generative AI, The Path To E7"
-    excerpt: "Analyst reports point to the potential for Azure deceleration slowing, an end to customers optimizing cloud spend and the sales potential of generative AI. Better-than-expected results from Microsoft’s latest earnings—not to mention those of cloud rivals Google and Amazon Web Services—led to a mix of analyst reports hopeful for Azure deceleration slowing,"
-    publishedDateTime: 2023-05-01T14:20:00Z
-    webUrl: "https://www.crn.com/news/cloud/microsoft-earnings-takeaways-cloud-generative-ai-the-path-to-e7"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 54
-    images:
-      - url: "https://www.crn.com/resources/027d-17198c0bb2a2-47b52df5a838-1000/nadella-intro2.jpeg"
-        width: 610
-        height: 457
         isCached: true
   - title: "Microsoft's chief scientific officer says there's no need for a pause on AI — despite what Elon Musk says"
     excerpt: "Thousands of people, including Elon Musk and AI experts, signed an open letter seeking a 6-month pause on AI development amid ChatGPT's popularity."

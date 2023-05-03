@@ -35,20 +35,6 @@ related:
         width: 600
         height: 369
         isCached: true
-  - title: "Art World AI-Nxiety: What Is Artificial Intelligence And How Are Artists Using It?"
-    excerpt: "This week on The Week in Art podcast: artificial intelligence (ai) and art. We explore some of the key aspects relating to AI and its use in the art"
-    publishedDateTime: 2023-04-29T01:53:00Z
-    webUrl: "https://menafn.com/1106128692/Art-World-AI-Nxiety-What-Is-Artificial-Intelligence-And-How-Are-Artists-Using-It"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 46
-    images:
-      - url: "https://menafn.com/updates/pr/2023-04/28/UAN_8b81cimage_story.jpg"
-        width: 688
-        height: 458
-        isCached: true
   - title: "Regulating AI will put companies and governments at loggerheads"
     excerpt: "The rapid release of generative AI tools has been a moment of reckoning. Just this week Geoffrey Hinton, a celebrated developer of AI, announced his resignation from Google, saying he regretted his work and wants to speak freely about the dangers and risks of the technology he created."
     publishedDateTime: 2023-05-02T16:53:00Z

@@ -26,33 +26,33 @@ images:
     isCached: true
 
 related:
-  - title: "Google and Microsoft Are Gaining on AWS: Here's Why Amazon Isn't Worried"
-    excerpt: "Google Cloud and Microsoft's (NASDAQ: MSFT) Azure are gaining ground on Amazon (NASDAQ: AMZN) Web Services (AWS). Alphabet reported that Google Cloud revenue soared 28% year-over-year in the quarter ending March 31,"
-    publishedDateTime: 2023-04-30T09:55:00Z
-    webUrl: "https://moneymorning.com/investing/google-and-microsoft-are-gaining-on-aws-heres-why-amazon-isnt-worried/"
+  - title: "CallMiner Collaborates with Microsoft to Enhance AI and Machine Learning Capabilities"
+    excerpt: "CallMiner, a leading provider of conversation intelligence to drive business performance improvement, today announced"
+    publishedDateTime: 2023-05-03T12:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/callminer-collaborates-with-microsoft-to-enhance-ai-and-machine-learning-capabilities-2023-05-03"
     type: article
     provider:
-      name: Money Morning
-      domain: moneymorning.com
-    quality: 70
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 94
     images:
-      - url: "https://moneymorning.com/wp-content/blogs.dir/1/files/2023/04/motley-fool-mark.png"
-        width: 940
-        height: 940
-        isCached: true
-  - title: "Microsoft will help the Google of China take its self-driving car platform global"
-    excerpt: "The biggest stories of the day delivered to your inbox."
-    publishedDateTime: 2023-04-30T23:59:00Z
-    webUrl: "https://mashable.com/article/baidu-microsoft-azure-self-driving-partnership"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 66
-    images:
-      - url: "https://helios-i.mashable.com/imagery/articles/051FNRrNs5FSwcuuEQHxqHq/hero-image.fill.size_1200x675.v1623364472.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 675
+        height: 630
+        isCached: true
+  - title: "Aisera Collaborates with Microsoft to Provide AI Enterprise Service Experiences with ChatGPT and Generative AI"
+    excerpt: "Aisera Collaborates with Microsoft to Provide AI Enterprise Service Experiences with ChatGPT and Generative AI May 03, 2023 (PRNewswire via COMTEX) --"
+    publishedDateTime: 2023-05-03T12:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/aisera-collaborates-with-microsoft-to-provide-ai-enterprise-service-experiences-with-chatgpt-and-generative-ai-2023-05-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Google, Microsoft, Amazon, & Meta put AI on steroids while cutting jobs"
     excerpt: "The IT behemoths Alphabet, Microsoft, Amazon, and Meta are increasing their large language model (LLM) investments as a show of their dedication to utilizing the power of artificial intelligence (AI) while cutting costs and jobs."
@@ -82,15 +82,20 @@ related:
         width: 610
         height: 457
         isCached: true
-  - title: "Microsoft's chief scientific officer says there's no need for a pause on AI — despite what Elon Musk says"
-    excerpt: "Thousands of people, including Elon Musk and AI experts, signed an open letter seeking a 6-month pause on AI development amid ChatGPT's popularity."
-    publishedDateTime: 2023-05-02T18:23:00Z
-    webUrl: "https://www.businessinsider.com/microsoft-executive-elon-musk-ai-acceleration-not-pause-open-letter-2023-5"
+  - title: "Private ChatGPT? Microsoft to offer AI alternative for businesses with sensitive information"
+    excerpt: "Microsoft plans to address data privacy concerns of large firms that hold sensitive information and have large regulatory costs for leaks with its new offering."
+    publishedDateTime: 2023-05-03T09:55:00Z
+    webUrl: "https://interestingengineering.com/innovation/private-chatgpt-alternative-microsoft"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 43
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/05/03/image/jpeg/3PScUnRYvnd3RphoGb0FtFuP8cH4wCOUj66eRN9Q.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "AOT3DMurCNX3rycBdGTNpoeNHjgbLbRPAz9Vv3bKG6gvANnKED9RpmjrsX4hmWnEl/hr2mpePVaMz0g9CzS9lHBytwYuaPomOcRb0ykPrCXmxy9mRYO1c+RbMpcNV7q4gnMMigtAgLLp7bWTgJaQOTnNU6EK9S1PpUhaCrB3hyYKkgaeRkljMLp8KU4fV1XAM9CbaTwO4DJq4KC/ts/rwXkHUFEn2lOvPF+NpMh4rsj6qv062ciBnsZ8d2ALcRLw4Z+UX1dRSQrAz7qSxysJU8Gsec66f0UKKqX2wdWKY54KXoMobii7cuu/Ra8m7Ox/IupSTp+I0DQwXegEVtuI2Pf5Nxwsl5EqNiWrglOAr5dDdvBdLaThprR4c5Tp/vcg8a2kzVIzuLEet68iZUVeh+WtEl34x2A1pzAvE0EgKaG3Zb+FXJgFWghzyF+GKhHODkFU3X+j0u85aBOKMr75vCPVZMXK9iocJqzEhcZHMkyZvrISRy2D8SWIw7lkLKVCzRcSYV0/SO9RtevhcrtwMg==;jsKXcr4uzGlGdJFm6uqmzg=="
 ---

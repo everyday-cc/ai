@@ -130,6 +130,20 @@ related:
         width: 1350
         height: 901
         isCached: true
+  - title: "Texas scientists create artificial intelligence system to read minds"
+    excerpt: "The artificial intelligence system relies on a fMRI scanner to translate a person's thoughts. BSIP/Universal Images Group via Getty. Researchers at the University of Texas at Aust"
+    publishedDateTime: 2023-05-02T23:49:00Z
+    webUrl: "https://www.chron.com/news/article/ut-artificial-intelligence-ai-reads-minds-18074052.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 37
+    images:
+      - url: "https://s.hdnux.com/photos/01/32/53/24/23770368/3/rawImage.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "AI ‘Brain Decoder’ System Translates Human Brain Activity"
     excerpt: "Researchers have developed an artificial intelligence-based ‘brain decoder’ that can translate brain activity into a continuous stream of text."
     publishedDateTime: 2023-05-03T13:30:00Z
@@ -138,6 +152,15 @@ related:
     provider:
       name: Analytics
       domain: healthitanalytics.com
+    quality: 34
+  - title: "Israeli experts create AI to translate ancient cuneiform text - study"
+    excerpt: "Researchers at Tel Aviv University (TAU) and Ariel University have developed an artificial intelligence model that can automatically translate Akkadian text written in cuneiform into English."
+    publishedDateTime: 2023-05-03T17:15:00Z
+    webUrl: "https://www.jpost.com/archaeology/article-741982"
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
     quality: 34
   - title: "This Mind Reading AI Model Can Turn Your Thoughts Into Text So Think Happy Thoughts"
     excerpt: "The group trained a neural network to noninvasively decode functional magnetic resonance imaging (fMRI) signals from the human brain."
@@ -162,15 +185,6 @@ related:
       name: KXAN
       domain: kxan.com
     quality: 19
-  - title: "Texas scientists create artificial intelligence system to read minds"
-    excerpt: "The artificial intelligence system relies on a fMRI scanner to translate a person's thoughts. BSIP/Universal Images Group via Getty. Researchers at the University of Texas at Aust"
-    publishedDateTime: 2023-05-02T23:49:00Z
-    webUrl: "https://www.chron.com/news/article/ut-artificial-intelligence-ai-reads-minds-18074052.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 17
 
 secured: "FVESrOXwO+cT1hzXmODS+UaZpHXezGNcMQOGzWpKWwreu+pL28CMmvbs6+OySu3QakIKmIJQIPUwwA4lMu9JWUz/4FWCCVXZSOOiEo9zwW61STaibQNoyf6JxKwbg/xnAGjc7/rCjWD7IA6lBw6fChw5/w0TAgVqEnNTIzADswB39DNBuXXXk+DeQmPvEC9j+loiBiLo7WXR2r3ct5JhCw8wl/iCbwxUQjzbbe2qZMrDOJFSHReeEQJeEVrnXtHjCbqSCcAuuZrXJPcx2vvBHFKFlH25MqW2tM6Y/6LEgHLDTkC5PrxiKjfXeROv+vMew6JoLC4AVX5Ck6kgQIwE93oNl6RcExQnsK9/FMntX0z66as3Agj6I4ob1kXP+3wR7RKKLrT1AzRby2RhgW4M5z9Bw8erEjZ/MBicxa07DMruQBlNiFSdtxCziAdWK7EXPt+sJTDB2e5+W72U+oa40RmCdF5YQdTvUDRz2xt9dDaCQsybXzbbBf65eAcd4jyiRlEr54uUjF2JS8ATuanbrA==;FR+6TCWL4ADSd/I2THmCnw=="
 ---

@@ -74,20 +74,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Aisera Collaborates with Microsoft to Provide AI Enterprise Service Experiences with ChatGPT and Generative AI"
-    excerpt: "Aisera, a leading provider of Generative AI solutions for organizations, providing innovative service experiences for employees (EX), customers (CX) and Operations (OX), is partnering with Microsoft to deliver an AI copilot for enterprise service experiences."
-    publishedDateTime: 2023-05-03T15:07:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/05/03/9806661.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
-    images:
-      - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
-        width: 550
-        height: 353
-        isCached: true
 
 secured: "f3s7ef/zyEVPG5zv3/CkZ+BFNkIVPafcJvEKcnSaLrofnULrr69VO7fbaXOxKiCKVm9gOByr4stN+57tAa4Ln9EA01ZrmjSikWE03ZHetOCNcLpnwlRCqbLAzNu55EBblIlCjG6EgK5ezGuUM8gIVHw6ZPAjxAdnI3KHQ3OdDE5HZxl5+jd056hIt29xUUKPuguncEDqYKKIc0s0mYKBJ2tQd3nFw+E3vahyFKhHdGhCAw8gUR4QMBTmQNo/VGGCe2s2Kb6DmHdbySoXfvKkqwdFxTUB63CudzyCye3JEr2Yo9VHBcVGVejyQMb/De8TzXAvf25KNtSyLUC1RofogjJrSuyAS1EokbRmTLxjDwY=;+OCGShQvvUi4U9NmuJipuw=="
 ---

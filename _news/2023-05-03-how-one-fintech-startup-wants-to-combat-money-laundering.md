@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Best Fintech App Development Companies in the USA"
+    excerpt: "Fintech app development services are known to develop diverse fintech apps. The introduction involves creating"
+    publishedDateTime: 2023-05-02T15:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/best-fintech-app-development-companies-in-the-usa-2023-05-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "FDIC order against Cross River Bank is a warning on fintech alliances"
     excerpt: "The 34-page document demands that the bank get regulatory nonobjection for every new fintech partnership and requires the bank to step up its monitoring of partners' compliance with banking laws."
     publishedDateTime: 2023-05-01T18:32:00Z

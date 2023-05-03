@@ -41,6 +41,15 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "This new AI system can read minds accurately about half the time"
+    excerpt: "AI reading minds isn't as nefarious as it sounds. The ability to decode a person's thoughts could help people communicate more effectively, especially those that are conscious but unable to speak, like people with physical disabilities. This study proves the viability of doing so with language brain-computer interfaces."
+    publishedDateTime: 2023-05-03T18:35:00Z
+    webUrl: "https://www.zdnet.com/article/this-new-ai-system-can-read-minds-accurately-about-half-the-time/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 49
 
 secured: "viMctLZ3DybxWsuPATqBs6vpAuSVvRkUISYqvcScRCf0zNWo75PWOBe83dn69gqYD/7adcRuNeBnO1Pxg7BDB8tvD7d2p8vWMqjyFtPtmZE1vtK86dkrIkw+zAFMc61oPLs6gAR4ZFf40Ts1X+rapWldB1CL4bivzTU97qBc9uUjDmqkG/iF0A7Fq3DAjZa3xhYWcxpfv4JhFf6W8zAMtEIoSGYKX5g8tVLbq2dSdnB5HkgJRB1bZYu72QVy1f5EH7nC0bgaJROexGFwH+4NpH4T+kFggHxre3CtuXLD4bL8k4hNbgITCtA0tBtcEiQQYdSGTjAIYGem22isbwS79ZZMsGHieGakI3kDUoKqhKFuvH0QltQJXOuh7eTSu1q8ztL7obdKoBea0/ZEjFmmd6HXWYycbo0ZJ6n/rC6qWiDVP4vmjtQYdSAMAoJn8sq/cUKcPFQEk5AjIMTfiU+YYur+bIROx1QS74ykzrAphW/5gFM/WujW20o0ezzVe+cd59MSGGYWluSypDYZJfYWRw==;UXQBXTAx2+prngTDpTzmMQ=="
 ---

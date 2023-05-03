@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/05/03/should-we-stop-d
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/05/03/should-we-stop-developing-ai-for-the-good-of-humanity/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 108
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence will destroy humanity; robots in the making"
+    excerpt: "Incidents have occurred with AI chatbot’s and robot’s. The dangers of artificial intelligence now seem more real than ever"
+    publishedDateTime: 2023-05-03T20:43:00Z
+    webUrl: "https://www.talonmarks.com/opinion/2023/05/03/artificial-intelligence-will-destroy-humanity-robots-in-the-making/"
+    type: article
+    provider:
+      name: Cerritos College Talon Marks
+      domain: talonmarks.com
+    quality: 54
+    images:
+      - url: "https://www.talonmarks.com/wp-content/uploads/2023/05/image.jpg"
+        width: 553
+        height: 311
+        isCached: true
   - title: "The profundity of AI"
     excerpt: "As for the topic of AI posing a threat to human intelligence, it is a complex and controversial issue with many experts warning about the potential dangers it may pose to human intelligence. Some argue that AI could eventually surpass human intelligence,"
     publishedDateTime: 2023-05-02T00:58:00Z

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-04-police-to-use-live-facial-recognition-in-crowds-at-king-charles-coronation.md",
+      "title": "Police to use live facial recognition in crowds at King Charles coronation",
+      "excerpt": "Met says technology will not be used to target protesters or activists, but campaigners say use is ‘extremely worrying’",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/uk-news/2023/may/03/metropolitan-police-live-facial-recognition-in-crowds-at-king-charles-coronation?ref=upstract.com",
+      "originalUrl": "https://www.theguardian.com/uk-news/2023/may/03/metropolitan-police-live-facial-recognition-in-crowds-at-king-charles-coronation?ref=upstract.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/b8db4757a16c78241897d176d4991a39cfc6636f/0_576_8640_5184/master/8640.jpg?width=620&quality=85&auto=format&fit=max&s=358de4318acd68df80290c528e9dc6a6",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/uk-news/2023/may/03/metropolitan-police-live-facial-recognition-in-crowds-at-king-charles-coronation",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/uk-news/2023/may/03/metropolitan-police-live-facial-recognition-in-crowds-at-king-charles-coronation",
+      "publishedDateTime": "2023-05-03T12:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-03-you-can-now-pay-using-facial-recognition-as-airtel-payments-bank-rolls-out-face-authentication-with-npci.md",
       "title": "You Can Now Pay Using Facial Recognition As Airtel Payments Bank Rolls Out Face Authentication With NPCI",
       "excerpt": "Customers just need to present themselves to get payment. In actuality, Airtel Payments Bank started this service.",
@@ -54,7 +106,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/face-recognition-device-market-forecast-trends-and-insights-till-2031-2023-05-02",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -210,7 +262,7 @@
       "originalUrl": "https://www.wmar2news.com/local/legislation-introduced-to-regulate-facial-recognition-technology-in-baltimore",
       "featuredContent": null,
       "highlight": null,
-      "heat": 138,
+      "heat": 148,
       "tags": null,
       "images": [
         {
@@ -579,26 +631,17 @@
       "title": "First man wrongfully arrested because of facial recognition testifies as California weighs new bills",
       "excerpt": "Detroit police had matched grainy surveillance footage of the crime to Williams’ driver’s license photo using a facial recognition service. But Williams wasn’t the robber. At the time of the ...",
       "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2023/apr/27/california-police-facial-recognition-software",
-      "originalUrl": "https://www.theguardian.com/us-news/2023/apr/27/california-police-facial-recognition-software",
+      "webUrl": "https://www.theguardian.com/us-news/2023/apr/27/california-police-facial-recognition-software?ref=upstract.com",
+      "originalUrl": "https://www.theguardian.com/us-news/2023/apr/27/california-police-facial-recognition-software?ref=upstract.com",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/e4783e3707eb88a772d48dc5a0818c83413a2f92/0_113_4924_2955/master/4924.jpg?width=620&quality=85&auto=format&fit=max&s=8ad7a2f2528230b57cdee1418dfb62c1",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2023/apr/27/california-police-facial-recognition-software",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2023/apr/27/california-police-facial-recognition-software",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-04-27T13:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -1396,50 +1439,6 @@
       "provider": {
         "name": "IT-Online",
         "domain": "it-online.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-ai-ml-digital-twins-and-computer-vision-whats-really-driving-digital-strategy-experts.md",
-      "title": "AI, ML, Digital Twins and Computer Vision — What's Really Driving Digital Strategy? | Experts",
-      "excerpt": "Business leaders for the last few years have rushed to deploy the latest technology to better meet fluid customer demand. Many are now taking a closer look and realizing the need for unification of systems or platforms to drive real growth.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wwt.com/event/644186f14f6ec627759f23c7",
-      "originalUrl": "https://www.wwt.com/event/644186f14f6ec627759f23c7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wwt.com/api/attachments/6441a4aa21aeac56c2ec369c/thumbnail?width=1200",
-          "width": 1030,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-20T13:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WWT",
-        "domain": "wwt.com",
         "images": null,
         "publishers": null,
         "authors": null

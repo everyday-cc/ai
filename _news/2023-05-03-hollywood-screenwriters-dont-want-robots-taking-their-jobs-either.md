@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna82543"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna82543"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -49,6 +49,15 @@ related:
     provider:
       name: Wall Street Journal
       domain: wsj.com
+    quality: 47
+  - title: "AI vs. Hollywood: Writers battle “plagiarism machines” in union talks"
+    excerpt: "But in particular, Reuters reports that WGA writers have two main concerns about automation in writing, quoting screenwriter John August, who is part of the WGA negotiating committee: They don't want their material to be used as training data for AI systems,"
+    publishedDateTime: 2023-05-03T18:38:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2023/05/ai-vs-hollywood-writers-battle-plagiarism-machines-in-union-talks/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
     quality: 47
 
 secured: "T05tUjdU1wT2EY67jr3aV7HHrBxGUq8XKpzdFqniPeVjVetVxZOCksZ/pCsU4WpR0RAu79SgYtSkmydTspaOJ9DuFFW2hZIHy9fL9XnBxuPjxzRbvNht9r4IFRBB7UCoxcrdefo3rVbAGO2I+Cw2h4yChB9xMr541etZgK53ZFb7VeKbIxdZSRMb209WYr5cbhmkGtp2PsShUEHBMm5/x3ip+ceplAr8gaSXVwv5zlIpPH6+IAdB84xX04lNwHm3Lqny/quHCw3KX3Jo+mZno6xihfO6aIoV3ngF+jXxMdi1rx7JrIQiSmCIsUGeBbXD21+W88zBIam9+RH4MCe2aS1HoAAiXt0wvIkCzonbXEbrZLmLmfXWK4RP6cY90tk+NgsDbSWMCxESstFBq4BeWyuhEvWRBO4V1O0XaTEAXneW9fwCFXELMzy057Ji8cQ8HBAx36fIVdNsWW4AfHWQXhPbM+0V4eNriScxobUK5zw9KcZ2XPup740zvBnb/N/z3Z//L0Gv15MXKz4k5PYTKw==;i0MyWMTCH4Thmgq//tlHeQ=="

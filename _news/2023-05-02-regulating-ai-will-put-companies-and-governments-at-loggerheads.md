@@ -40,20 +40,6 @@ related:
         width: 600
         height: 369
         isCached: true
-  - title: "Art World AI-Nxiety: What Is Artificial Intelligence And How Are Artists Using It?"
-    excerpt: "This week on The Week in Art podcast: artificial intelligence (ai) and art. We explore some of the key aspects relating to AI and its use in the art"
-    publishedDateTime: 2023-04-29T01:53:00Z
-    webUrl: "https://menafn.com/1106128692/Art-World-AI-Nxiety-What-Is-Artificial-Intelligence-And-How-Are-Artists-Using-It"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 46
-    images:
-      - url: "https://menafn.com/updates/pr/2023-04/28/UAN_8b81cimage_story.jpg"
-        width: 688
-        height: 458
-        isCached: true
   - title: "How AI Can Help You Design Better Meetings and Events"
     excerpt: "They’ll also be able to use autonomous AI “agents” like AutoGPT – capable of self-directing themselves to perform multiple steps in sequences and complete complex tasks without much human prompting – to aid with every facet of research,"
     publishedDateTime: 2023-05-02T22:50:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.geekwire.com/2023/code-org-helping-launch-teachai-to-g
 webUrl: "https://www.geekwire.com/2023/code-org-helping-launch-teachai-to-guide-integration-of-artificial-intelligence-in-education/"
 type: article
 quality: 68
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -23,22 +23,6 @@ topics:
   - AI in Education
 
 related:
-  - title: "UAE Government launches 'Generative AI' guide to facilitate adoption of AI technology"
-    excerpt: "The “Generative AI” guide serves as a valuable resource for government entities, enabling them to leverage the benefits of AI"
-    publishedDateTime: 2023-04-30T11:26:00Z
-    webUrl: "https://www.zawya.com/en/world/middle-east/uae-government-launches-generative-ai-guide-to-facilitate-adoption-of-ai-technology-s26snsak"
-    ampWebUrl: "https://www.zawya.com/en/world/middle-east/uae-government-launches-generative-ai-guide-to-facilitate-adoption-of-ai-technology-s26snsak?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/world/middle-east/uae-government-launches-generative-ai-guide-to-facilitate-adoption-of-ai-technology-s26snsak?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 52
-    images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/M2M5YWFiM2QtMjIxNS00/17/180516221659emso-jpg.jpeg?f=3%3A2"
-        width: 724
-        height: 482
-        isCached: true
   - title: "Keeping humans in charge of AI assisted decision-making"
     excerpt: "AI assistant powered by OpenAI services – but keeps the user in the driver's seat. WELLINGTON, New Zealand, May 2, 2023 /PRNewswire/ -- 1000minds has launched an AI assistant as part of its decision-making and conjoint analysis software using Microsoft Azure OpenAI services."
     publishedDateTime: 2023-05-02T15:33:00Z

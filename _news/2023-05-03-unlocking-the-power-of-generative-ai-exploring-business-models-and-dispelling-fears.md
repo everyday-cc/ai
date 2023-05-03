@@ -100,20 +100,6 @@ related:
         width: 580
         height: 387
         isCached: true
-  - title: "Top 8 AI Chips for Your Generative AI Play"
-    excerpt: "The AI chip market is expected to grow at a CAGR of 51% and reach $73.49 billion by 2025. Semiconductor companies could capture 40-50% of the total market share. Companies such as Alphabet, Broadcom,"
-    publishedDateTime: 2023-04-29T04:30:00Z
-    webUrl: "https://analyticsindiamag.com/top-8-ai-chips-for-your-generative-ai-play/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 58
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/04/unnamed-2.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "The Clash Of Generative AI And Intellectual Property Law: What It Means For Businesses"
     excerpt: "Autoencoders use two AI programs: An encoder, which reduces work to a small representation called \"latent vectors,\" and a decoder that then attempts to expand the latent vectors back into the original work; the difference between the two is used to train the system to generate new material and modify input material."
     publishedDateTime: 2023-05-03T13:00:00Z
