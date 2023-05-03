@@ -42,6 +42,36 @@ related:
         width: 251
         height: 251
         isCached: true
+  - title: "Aisera embraces Microsoft AI copilot for advanced enterprise service experience"
+    excerpt: "California-based Aisera today extended its partnership with Microsoft to deliver an AI copilot for improving enterprise service."
+    publishedDateTime: 2023-05-03T16:40:00Z
+    webUrl: "https://venturebeat.com/ai/aisera-embraces-microsoft-ai-copilot-for-advanced-enterprise-service-experience/"
+    ampWebUrl: "https://venturebeat.com/ai/aisera-embraces-microsoft-ai-copilot-for-advanced-enterprise-service-experience/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/aisera-embraces-microsoft-ai-copilot-for-advanced-enterprise-service-experience/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 100
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1320248306-Khanisorn-Chaokla-e1674620924925.jpg?w=1200&strip=all"
+        width: 1200
+        height: 595
+        isCached: true
+  - title: "CallMiner Collaborates with Microsoft to Enhance AI and ML Capabilities"
+    excerpt: "CallMiner, a leading provider of conversation intelligence to drive business performance improvement, today announced it"
+    publishedDateTime: 2023-05-03T16:46:00Z
+    webUrl: "https://www.datanami.com/this-just-in/callminer-collaborates-with-microsoft-to-enhance-ai-and-ml-capabilities/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 71
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-North-America23.png"
+        width: 1664
+        height: 674
+        isCached: true
   - title: "Amazon, Microsoft and Alphabet deliver slower cloud growth. Here's how AI could reverse that trend"
     excerpt: "Microsoft (MSFT) and Alphabet (GOOGL) continued to slow. But over the longer term, we expect growth to reaccelerate."
     publishedDateTime: 2023-05-01T14:25:00Z
@@ -69,6 +99,20 @@ related:
       - url: "https://contact-centres.com/wp-content/uploads/2023/05/callminer-microsoft-ai-mage-777x437-may-2023-min.png"
         width: 776
         height: 437
+        isCached: true
+  - title: "Aisera Collaborates with Microsoft to Provide AI Enterprise Service Experiences"
+    excerpt: "Aisera, provider of Generative AI solutions for organizations, is partnering with Microsoft to deliver an AI copilot for"
+    publishedDateTime: 2023-05-03T16:30:00Z
+    webUrl: "https://www.datanami.com/this-just-in/aisera-collaborates-with-microsoft-to-provide-ai-enterprise-service-experiences/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 50
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-North-America23.png"
+        width: 1664
+        height: 674
         isCached: true
   - title: "Siemens links up with Microsoft and IBM to deliver its vision"
     excerpt: "At the recent Hannover Messe, Siemens announced partnerships with several key players in the OT/IT world, including IBM and Microsoft, aimed at"

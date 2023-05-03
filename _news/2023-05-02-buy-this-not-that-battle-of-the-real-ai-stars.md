@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/buy-this-not-that-
 webUrl: "https://markets.businessinsider.com/news/stocks/buy-this-not-that-ai-stars-1032279362"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -33,6 +33,15 @@ related:
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The rise of artificial intelligence set the investment landscape on fire, with"
     publishedDateTime: 2023-05-02T10:30:00Z
     webUrl: "https://markets.businessinsider.com/news/stocks/the-7-most-promising-ai-stocks-to-buy-in-may-1032281534"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "7 Stocks That AI Predicts Will Make You Rich"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) is rapidly changing the world and the stock"
+    publishedDateTime: 2023-05-03T16:10:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/7-stocks-that-ai-predicts-will-make-you-rich-1032288368"
     type: article
     provider:
       name: Business Insider

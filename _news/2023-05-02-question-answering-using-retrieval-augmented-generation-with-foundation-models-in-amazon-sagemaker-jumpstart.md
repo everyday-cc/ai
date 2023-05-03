@@ -85,6 +85,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Implement backup and recovery using an event-driven serverless architecture with Amazon SageMaker Studio"
+    excerpt: "Amazon SageMaker Studio is the first fully integrated development environment (IDE) for ML. It provides a single, web-based visual interface where you can perform all machine learning (ML) development steps required to build, train, tune, debug, deploy, and monitor models. It gives data scientists all"
+    publishedDateTime: 2023-05-03T16:07:41Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/implement-backup-and-recovery-using-an-event-driven-serverless-architecture-with-amazon-sagemaker-studio/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 72
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/03/implement-backup-sagemaker-studio.jpg"
+        width: 956
+        height: 474
+        isCached: true
   - title: "Prepare image data with Amazon SageMaker Data Wrangler"
     excerpt: "The rapid adoption of smart phones and other mobile platforms has generated an enormous amount of image data. According to Gartner, unstructured data now represents 80–90% of all new enterprise data, but just 18% of organizations are taking advantage of this data. This is mainly due to a lack of expertise"
     publishedDateTime: 2023-05-01T18:28:55Z

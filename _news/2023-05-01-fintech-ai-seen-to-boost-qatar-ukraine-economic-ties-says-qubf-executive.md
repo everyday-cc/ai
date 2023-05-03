@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Fintech, AI seen to boost Qatar-Ukraine economic ties, says QUBF executive"
-excerpt: "The Qatar-Ukraine Business Forum (QUBF) is eyeing advanced technology as a key sector to further advance economic ties between the Gulf country and the Eastern European nation,"
-publishedDateTime: 2023-04-30T17:40:00Z
-originalUrl: "https://www.gulf-times.com/article/660150/business/fintech-ai-seen-to-boost-qatar-ukraine-economic-ties-says-qubf-executive"
-webUrl: "https://www.gulf-times.com/article/660150/business/fintech-ai-seen-to-boost-qatar-ukraine-economic-ties-says-qubf-executive"
-ampWebUrl: "https://www.gulf-times.com/article/660150/business/fintech-ai-seen-to-boost-qatar-ukraine-economic-ties-says-qubf-executive/amp"
-cdnAmpWebUrl: "https://www-gulf--times-com.cdn.ampproject.org/c/s/www.gulf-times.com/article/660150/business/fintech-ai-seen-to-boost-qatar-ukraine-economic-ties-says-qubf-executive/amp"
+title: "Fintech, AI Seen To Boost Qatar-Ukraine Economic Ties, Says QUBF Executive"
+excerpt: "The Qatar-Ukraine Business Forum (QUBF) is eyeing advanced technology as a key sector to further advance economic ties between the Gulf country and t"
+publishedDateTime: 2023-04-30T18:34:00Z
+originalUrl: "https://menafn.com/1106143687/Fintech-AI-Seen-To-Boost-Qatar-Ukraine-Economic-Ties-Says-QUBF-Executive"
+webUrl: "https://menafn.com/1106143687/Fintech-AI-Seen-To-Boost-Qatar-Ukraine-Economic-Ties-Says-QUBF-Executive"
 type: article
-quality: 57
-heat: 67
+quality: 37
+heat: -1
 published: false
 
 provider:
-  name: Gulf Times
-  domain: gulf-times.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://www.gulf-times.com/gulftimes/uploads/images/2023/04/30/22898.png"
-    width: 1000
-    height: 664
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?508331"
+    width: 374
+    height: 250
     isCached: true
 
 related:
@@ -42,6 +40,6 @@ related:
         height: 450
         isCached: true
 
-secured: "28xOc6hoD8xPzWMxUlAiV+YdR3mn7vGurb0yY0/2sZW7D+85L0QEiUryCwz23EyHGGtMj8yKDf2DWte2JeV4haf5wiSqaug+qkKmBE2S+6H75sTshy4CcS0xZV5XAA5z0UvDsPVie8zhyuJdgNNs0lItVzcbi2eA5RJqnkOP6S4KXjbp3jyK2N0JTcAkAZttrhbJVPiojPDZ2cQIpnT3vuU9+a+G7uhIdlZVlhYRTTcGyfFtKs+1hGwxiQzk2FCPB+KsbF+SdbHu6wQkxgeQLAkjDh5eFBPvN8pSXzj8y7jjaEdd8a2u4JYM6pqWhG+LD6cyhTMK7DWGCE1vBlAv+UQHjtp4KYyMKXDU3GrRIgIR0LPtCroWaiPP9tXXrwdFbJGlm7WcVfeD68pvik4FwCqjehE27XITht7QEN1547NcCWoTGLrrYTxzxELGnlHbat4DvT93wLYDgrbi4LJVdKLXvlr48Fqjh0EVuM6mHwOMa3RY2e53hQ4NGj2qGFo0ITNSsg7VzaXYEcwGRjQ+Tg==;nMDNVwkDKEs3ZBxaRmD7Hg=="
+secured: "+BZEIHTpj3+GdJSncWtt7yCfh3ukURKW849ec1vR1PxnfOveMrvXNJ8B6ZwCUeSCyO4Lq/nv8LAAyVwcbl9pCQtINKwd0qkNv5pvL2Hkt5tWquD5/5ujEEeXw5oJyD+EdSZHLod2qIzYr20fEXrCZluNXTIMYLUWi9xaCY5+GSgzrrGi8vWYxOO6YWjIKB6ny2jTE6nxkatbj052NMVsn1WyoTbDgV1ZetocEZvK0xk1/BiNY0MyFvSiO3NyEdRhP+2ayDHWRCYd/SxGrcHYY7nI4esO2femah9OvUcvQSHyB6w0zmYSTRgkTVQw2pOQMn7nMtuwLJszDB0l5oAG0b0IGWpy7xH91BapVYznVCc=;9mix5TXLc0iKGMAeRU2IRQ=="
 ---
 

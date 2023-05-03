@@ -146,6 +146,20 @@ related:
       name: Analytics
       domain: healthitanalytics.com
     quality: 34
+  - title: "This Mind Reading AI Model Can Turn Your Thoughts Into Text So Think Happy Thoughts"
+    excerpt: "The group trained a neural network to noninvasively decode functional magnetic resonance imaging (fMRI) signals from the human brain."
+    publishedDateTime: 2023-05-03T16:21:00Z
+    webUrl: "https://hothardware.com/news/mind-reading-ai-model-can-turn-thoughts-into-text"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 33
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/61536/content/hero-man-touching-human-mind.jpg"
+        width: 708
+        height: 398
+        isCached: true
   - title: "UT researchers create AI system to turn brain activity into text"
     excerpt: "The new system uses AI to translate someone’s brain activity into a stream of text while they listen to a story or imagine telling a story."
     publishedDateTime: 2023-05-02T19:46:00Z

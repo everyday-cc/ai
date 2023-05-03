@@ -147,6 +147,20 @@ related:
       name: Analytics
       domain: healthitanalytics.com
     quality: 34
+  - title: "This Mind Reading AI Model Can Turn Your Thoughts Into Text So Think Happy Thoughts"
+    excerpt: "The group trained a neural network to noninvasively decode functional magnetic resonance imaging (fMRI) signals from the human brain."
+    publishedDateTime: 2023-05-03T16:21:00Z
+    webUrl: "https://hothardware.com/news/mind-reading-ai-model-can-turn-thoughts-into-text"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 33
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/61536/content/hero-man-touching-human-mind.jpg"
+        width: 708
+        height: 398
+        isCached: true
   - title: "Texas scientists create artificial intelligence system to read minds"
     excerpt: "The artificial intelligence system relies on a fMRI scanner to translate a person's thoughts. BSIP/Universal Images Group via Getty. Researchers at the University of Texas at Aust"
     publishedDateTime: 2023-05-02T23:49:00Z

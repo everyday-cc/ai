@@ -143,6 +143,20 @@ related:
       name: Analytics
       domain: healthitanalytics.com
     quality: 34
+  - title: "This Mind Reading AI Model Can Turn Your Thoughts Into Text So Think Happy Thoughts"
+    excerpt: "The group trained a neural network to noninvasively decode functional magnetic resonance imaging (fMRI) signals from the human brain."
+    publishedDateTime: 2023-05-03T16:21:00Z
+    webUrl: "https://hothardware.com/news/mind-reading-ai-model-can-turn-thoughts-into-text"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 33
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/61536/content/hero-man-touching-human-mind.jpg"
+        width: 708
+        height: 398
+        isCached: true
   - title: "UT researchers create AI system to turn brain activity into text"
     excerpt: "The new system uses AI to translate someone’s brain activity into a stream of text while they listen to a story or imagine telling a story."
     publishedDateTime: 2023-05-02T19:46:00Z
@@ -162,6 +176,6 @@ related:
       domain: chron.com
     quality: 17
 
-secured: "LBqQN12t/OZJIdBt/Pf3ecutPwlroyHcpY4Bka++OGXb+SKBJRNDd6dmV4+B/f4Wb8qE5BUCRRbYd8W0l9y9Rrz/WJjCJOUx7hYAZYpSGmcHM53nG1U6Zoosg38zESOwedQwkH3jlYaZticbPjhPT+hJoEaMI4qi68Ynsp/iwPPWtNlYVqxy5Cu7Rzy3w2EkcsNlFnkrgn7bM+kqCFd3dY56iYRQ93friZROw1ZrBokp45t3x2RJ+BT2sCulFdLcuMKFuMd3bGAuczVQnRjHosF/0fwcQCU0Mjo+eE9j/lXrvFZYySX+ZRyuJy6fz+kNLFZ3NJjxe6CQCdFSJ3VyNTybvVkFBd1hKXj+aPoZxpo=;pEVwmMwc6fToLJ1g5lKn3w=="
+secured: "meWBmfzNJQFs1Ox3BGpvRvGH3967gxPrrVcH7S9m3DFnARSGiMkqaE8XNruIR7DhwMik0D6EUcLQdt2EFV+BO5mRFvzHkpUuqKQ794GrFjetenwdj9JRFwvUHFySS1RCtmYJksGVaBNW9HppBJzYXL/3tcZTAu5Lczjgd2CFHYcAnXHH88yStT21W1tP78FxWCah/dV3Aqg0rWFPw9AKBOeuv+80yjZ0WrsIdR1qFSG+NejG/jjIckPNOnYKVbiPy4298oXTUiuIyXCQW0nExwxna7QJpNo29e2zc5SGyLtW/ITIlZTMZgdfcwP9WRF+J6XUu4mt0SiBOaq9/e15q3J3RmnpVAj95Z6HBhrSw4zOWQkJVmffCwV5nKaA1TOAF0Dw+9tZqDO3WQwwJxhD6qApZvfgrvv/XjL4HehINhKugZh879Y/kdYZ5Z26Um9xjqlUpJyAufbG3y5rY+lll52L8KcrbzFA+LQIKcLFwZN6GwRRgiLVKRMislwlGqjEYdMbcuysglWsyo8y1JG2Hg==;uI8Vcd4EDqFLz+TNCttQhw=="
 ---
 

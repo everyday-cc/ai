@@ -72,6 +72,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Implement backup and recovery using an event-driven serverless architecture with Amazon SageMaker Studio"
+    excerpt: "Amazon SageMaker Studio is the first fully integrated development environment (IDE) for ML. It provides a single, web-based visual interface where you can perform all machine learning (ML) development steps required to build, train, tune, debug, deploy, and monitor models. It gives data scientists all"
+    publishedDateTime: 2023-05-03T16:07:41Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/implement-backup-and-recovery-using-an-event-driven-serverless-architecture-with-amazon-sagemaker-studio/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 72
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/03/implement-backup-sagemaker-studio.jpg"
+        width: 956
+        height: 474
+        isCached: true
   - title: "Question answering using Retrieval Augmented Generation with foundation models in Amazon SageMaker JumpStart"
     excerpt: "Today, we announce the availability of sample notebooks that demonstrate question answering tasks using a Retrieval Augmented Generation (RAG)-based approach with large language models (LLMs) in Amazon SageMaker JumpStart. Text generation using RAG with LLMs enables you to generate domain-specific text"
     publishedDateTime: 2023-05-02T15:44:03Z

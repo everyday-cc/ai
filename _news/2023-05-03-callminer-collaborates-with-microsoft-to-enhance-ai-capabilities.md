@@ -39,6 +39,36 @@ related:
         width: 251
         height: 251
         isCached: true
+  - title: "Aisera embraces Microsoft AI copilot for advanced enterprise service experience"
+    excerpt: "California-based Aisera today extended its partnership with Microsoft to deliver an AI copilot for improving enterprise service."
+    publishedDateTime: 2023-05-03T16:40:00Z
+    webUrl: "https://venturebeat.com/ai/aisera-embraces-microsoft-ai-copilot-for-advanced-enterprise-service-experience/"
+    ampWebUrl: "https://venturebeat.com/ai/aisera-embraces-microsoft-ai-copilot-for-advanced-enterprise-service-experience/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/aisera-embraces-microsoft-ai-copilot-for-advanced-enterprise-service-experience/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 100
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1320248306-Khanisorn-Chaokla-e1674620924925.jpg?w=1200&strip=all"
+        width: 1200
+        height: 595
+        isCached: true
+  - title: "CallMiner Collaborates with Microsoft to Enhance AI and ML Capabilities"
+    excerpt: "CallMiner, a leading provider of conversation intelligence to drive business performance improvement, today announced it"
+    publishedDateTime: 2023-05-03T16:46:00Z
+    webUrl: "https://www.datanami.com/this-just-in/callminer-collaborates-with-microsoft-to-enhance-ai-and-ml-capabilities/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 71
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-North-America23.png"
+        width: 1664
+        height: 674
+        isCached: true
   - title: "Amazon, Microsoft and Alphabet deliver slower cloud growth. Here's how AI could reverse that trend"
     excerpt: "Microsoft (MSFT) and Alphabet (GOOGL) continued to slow. But over the longer term, we expect growth to reaccelerate."
     publishedDateTime: 2023-05-01T14:25:00Z
@@ -69,6 +99,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Aisera Collaborates with Microsoft to Provide AI Enterprise Service Experiences"
+    excerpt: "Aisera, provider of Generative AI solutions for organizations, is partnering with Microsoft to deliver an AI copilot for"
+    publishedDateTime: 2023-05-03T16:30:00Z
+    webUrl: "https://www.datanami.com/this-just-in/aisera-collaborates-with-microsoft-to-provide-ai-enterprise-service-experiences/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 50
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-North-America23.png"
+        width: 1664
+        height: 674
+        isCached: true
   - title: "Siemens links up with Microsoft and IBM to deliver its vision"
     excerpt: "At the recent Hannover Messe, Siemens announced partnerships with several key players in the OT/IT world, including IBM and Microsoft, aimed at"
     publishedDateTime: 2023-05-02T16:09:00Z
@@ -84,6 +128,6 @@ related:
         height: 262
         isCached: true
 
-secured: "J8/Cd9eFODjnAziS7Dwdo3pSLtysrYiXtAey8bSsf2i6g4KfRy8z5qa5nxRmtzmmcsk8s9M3UAPfT4lm44ZIj3R+vpgKZ8onzhtDH87g32qKoUB4EenNfp0d2fV+U97+hXHrHDoDPrnn8TTlDBLyezUTlZJFhuqggdDi6LpsQRAHSmuT5ArYvikj4QEyZJSt+0sqwcwDWVygb+82RbFGkN32CWOleE09pql+1/ueWjP0qUUXMm6i58gw2Qr9AXihs7dhAuDEIRZMg2OBEJNSOqgoAr+U/2eANR2gWCaolkITRTpiW6ux3Irxq5qnvNRJ5pcRPMdBjrZq+vtxet86V68/+ylbBuQd3jBOv6K6R7A=;92eVg3YIsOoF6a4uCf3C8Q=="
+secured: "tSluQRjt+HWAXKQnymz62IRLuIa77HI0ZKWlQsK3qse9JKppiIQTMsLReHnw0XcVC761dZ+1U0hEmJIIkx9UpwzGsq5NnuVD9nEkrnpaVIVr1buwBWO+xFRYoJZOSedvYFnGnZALWoE9hFKpyaWfkyOHZvMGHW9WFyV1QxR8ooLJ83M84YP4+TIR5doGpQh7EdUvVftAoUttqrNOnj24m1wewVJDSEq0o/D1ao9/r/V99MB9S9cUFQfEIw/UT/3a1eNoJ8+nHFjJ6I6Xau4N4KXqkp7FcXp8M+ezSDfFS90Ls3CD/XeffRcaJfQpDaYHVnE3kWBxptLsShxJQn7PdjUifunk2LFhYi8MlskiSIwyMGilqe8C2C3yKux2Ow+UVlrrL6YKXKNEtD5oKA0+8yXB1U0t+QQZquwP4MpbelrjBFdzLer8llv1c7rDc5Vb1ItdDgsB0tbrivK3OINTVxqa/7HrQxY647X6cxRJ0hy6CsicryI4YJ75MxPGcc1ES31nNGvcpXq1AdsJpWx/LQ==;hqvRz9AZ+lZQ8MkVJF8/kQ=="
 ---
 

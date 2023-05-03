@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/ai-lessons-from-healthcare-overcoming-c
 webUrl: "https://venturebeat.com/ai/ai-lessons-from-healthcare-overcoming-complexity-and-embracing-the-cloud/"
 type: article
 quality: 63
-heat: 74
+heat: 83
 published: true
 
 provider:
@@ -23,6 +23,20 @@ topics:
   - AI in Healthcare
 
 related:
+  - title: "How Artificial Intelligence is Transforming the Healthtech Industry and Enhancing Investment Opportunities in Hong Kong"
+    excerpt: "Hong Kong, the premier biotech fundraising capital in Asia, has returned to normalcy but three years of Covid-19 Pandemic seismically changes the way people live and becomes catalyst that accelerate usage of technology in healthcare sectors."
+    publishedDateTime: 2023-05-03T16:00:00Z
+    webUrl: "https://www.scmp.com/presented/business/topics/asia-summit-global-health-2023/article/3219088/how-artificial-intelligence-transforming-healthtech-industry-and-enhancing-investment-opportunities"
+    type: article
+    provider:
+      name: scmp.com
+      domain: scmp.com
+    quality: 45
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/2023/05/03/_ALX7811.JPG?itok=Z3VrFEYG"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "9 ways AI is already shaping the future of healthtech"
     excerpt: "Amid an increasing shift from reactive care to proactive care, here are some of the latest AI developments in healthtech."
     publishedDateTime: 2023-05-02T15:00:00Z

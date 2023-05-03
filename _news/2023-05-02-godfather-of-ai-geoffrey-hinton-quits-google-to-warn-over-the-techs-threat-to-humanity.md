@@ -541,6 +541,15 @@ related:
       name: Alaska Dispatch News
       domain: adn.com
     quality: 17
+  - title: "'Godfather of AI' Quits Google. Chief Scientist's Response is a Lesson for Leaders"
+    excerpt: "Jeff Dean, Google's Chief Scientist said, \"We remain committed to a responsible approach to AI ... We're continually learning to understand emerging risks while also innovating boldly.\""
+    publishedDateTime: 2023-05-03T16:27:00Z
+    webUrl: "https://www.inc.com/nick-hobson/godfather-of-ai-quits-google-chief-scientists-response-is-a-lesson-for-leaders.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 11
 
 secured: "gFfzyXAgPn3k/yqLqkIhlMwKfI39tZkqk1WnIEu28RVWjY7Elww72naGJwwqvnYVjTj4cYdEji9mkrAnKCoZz2eh02eBVoPqBJq4D/WtTVutPUaVcNLseb4CWgXEAKI/OxsFQacYQDzgKNekximyD5fwSyWcJ6jhOj/GNxg6W5T5vXgvNaxbOZrgwOqoPBT6oW5lOtn6jNzNzlD2EQZEFP5mw9aCRyH40F5r379NJjmdUy/FcLGdwiZQ233fxomEckGwwiXCQmVpz8Wn3dIlDFU5WPg5mX5YreBdN0Nm45otO85SUffuJqXuJestlU1OWbnhLCz1w9s2ENqQCM1SJTLGtDIWpFtGcOjNp9MT4l9QEp5ZkVXXHH9sWomr/XGadTVrMUNr5M2Ov2M6VuilMILM9vPaNkcGSU8N/DxoXLQpL0JeuSd9oc0wyl4L6k+qWOAfHn/1in3GpXtLiQ+z6dJg6xzOP68Hkd1Wv1ibWeJ/E7bWMvf9gsfy/TOMg0RmNlWSMd16w1oGsWTsQcXDaQ==;SDhikdfehALt5aQpxuHYbg=="
 ---

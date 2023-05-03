@@ -25,6 +25,38 @@ images:
     isCached: true
 
 related:
+  - title: "AI threatens 7,800 jobs as IBM pauses hiring"
+    excerpt: "Independent of this move, IBM announced 3,900 job cuts in late January. However, many of the roles reduced due to AI will likely come as a result of the upcoming hiring freeze and jobs vacated by attrition."
+    publishedDateTime: 2023-05-03T16:22:00Z
+    webUrl: "https://www.zdnet.com/article/ai-threatens-7800-jobs-as-ibm-pauses-hiring/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-threatens-7800-jobs-as-ibm-pauses-hiring/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-threatens-7800-jobs-as-ibm-pauses-hiring/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/0393b7d5f621704a38027b7cfd596f95695ca462/2023/05/03/d1aff5ee-9f8f-4e70-ad00-0768eff07be4/robot-replace-employee.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Artificial Intelligence Is Already Causing Disruption And Job Losses At IBM And Chegg"
+    excerpt: "We are seeing the effects of disruptive technology. Chegg, an educational company, and IBM have both announced that AI will cause a change within their respective organizations."
+    publishedDateTime: 2023-05-02T14:56:00Z
+    webUrl: "https://www.forbes.com/sites/jackkelly/2023/05/02/artificial-intelligence-is-already-causing-disruption-and-job-losses-at-ibm-and-chegg/"
+    ampWebUrl: "https://www.forbes.com/sites/jackkelly/2023/05/02/artificial-intelligence-is-already-causing-disruption-and-job-losses-at-ibm-and-chegg/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2023/05/02/artificial-intelligence-is-already-causing-disruption-and-job-losses-at-ibm-and-chegg/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 82
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/615077097475eceab8f6ae3e/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 796
+        isCached: true
   - title: "IBM plans to replace 7,800 jobs with AI over time, pauses hiring certain positions"
     excerpt: "IBM Chief Executive Officer Arvind Krishna has revealed plans to pause hiring for about 7,800 positions that could be replaced by artificial intelligence systems over time, according to a Bloomberg news report published Monday."
     publishedDateTime: 2023-05-02T15:48:00Z
@@ -101,22 +133,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "ChatGPT, AI Tools Could 'Replace Many' Jobs Within 5 Years: IBM CEO"
-    excerpt: "Unrestrained and unregulated advances in artificial intelligence development could pose significant risks to humanity, experts warned."
-    publishedDateTime: 2023-05-03T10:58:00Z
-    webUrl: "https://www.ibtimes.com/chatgpt-ai-tools-could-replace-many-jobs-within-5-years-ibm-ceo-3690701"
-    ampWebUrl: "https://www.ibtimes.com/chatgpt-ai-tools-could-replace-many-jobs-within-5-years-ibm-ceo-3690701?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/chatgpt-ai-tools-could-replace-many-jobs-within-5-years-ibm-ceo-3690701?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 59
-    images:
-      - url: "https://d.ibtimes.com/en/full/2913344/arvind-krishna-take-over-ibm-ceo-april-2020.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "IBM’s CEO expects A.I. to be so good at back office work that he plans to pause hiring humans for those jobs"
     excerpt: "“I could easily see 30% of that getting replaced by AI and automation over ... Kyndryl Inc. and part of the Watson Health business. The company is currently considering selling its weather unit. Armonk, New York-based IBM topped profit estimates ..."
     publishedDateTime: 2023-05-01T22:22:00Z
@@ -174,19 +190,19 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 39
-  - title: "IBM to pause hiring for jobs easily replaceable with AI: CEO Arvind Krishna"
-    excerpt: "Krishna said hiring in back-office operations such as human resources would either be suspended or the hiring for such job roles will be frozen."
-    publishedDateTime: 2023-05-02T07:54:00Z
-    webUrl: "https://www.fortuneindia.com/enterprise/ibm-to-pause-hiring-for-jobs-easily-replaceable-with-ai-ceo-arvind-krishna/112508"
+  - title: "IBM CEO: ‘AI to cut 7,800 jobs in next five years’"
+    excerpt: "IBM CEO Arvind Krishna expects AI to eliminate up to 7,800 jobs at the company. 30 percent of current non-customer-facing employees are set not to be"
+    publishedDateTime: 2023-05-03T09:41:00Z
+    webUrl: "https://www.techzine.eu/news/infrastructure/105453/ibm-ceo-ai-to-cut-7800-jobs-in-next-five-years/"
     type: article
     provider:
-      name: Fortune India
-      domain: fortuneindia.com
-    quality: 37
+      name: techzine
+      domain: techzine.eu
+    quality: 39
     images:
-      - url: "https://gumlet.assettype.com/fortuneindia/2021-02/2f2ede7d-e89f-43da-8e88-b22350d8a2ed/Arvind_Krishna_Courtest_IBM.jpg?w=700"
-        width: 700
-        height: 441
+      - url: "https://www.techzine.eu/wp-content/uploads/2019/09/IBMs-Global-Center-for-Watson-IoT-in-Munich-Germany-5.jpg"
+        width: 1000
+        height: 667
         isCached: true
   - title: "Artificial Intelligence To Replace 30 Per Cent Of IBM's Non-Customer-Facing Roles In Five Years"
     excerpt: "Approximately 26,000 workers in non-customer-facing roles, including human resources, will experience a hiring freeze or reduced hiring, according to Krishna, reports Bloomberg. “I could easily see 30 per cent of that getting replaced by AI and automation over a five-year period,"
@@ -212,6 +228,6 @@ related:
       domain: itp.net
     quality: 19
 
-secured: "iI0m/wMNy7ntNm+szv7IZvZ/nF6O3hts7xf6aHTOjspmbIdyFOiQ8i8q0Gx3FEqQqu2grWd3RX4olQiRZvT2421qT1VZT+gbPSGHAR/x8UV7YlmSqNzyFGjciBtbNXqozUOHX02FIBySh3lLE+kGomfTRZbw3Zh7yDoeM1VPEfkEguvK2KNOowyCilP1oCkwtHE9baJm7EjDDL2T/V1DvkRjRtU+SCrpH64/LZa5pKz0QuipZQuEj66W0i3hMKdLbeNI7A/+w1CrGtyk9EeaMfVl8aRn0mm8zkM3vrNsyiFp0ABCSq2BXWheMnuPIIpHbVBzgPgXeI2ttXCI+MbCo66q4O1r/RldAf7lKg7kFcM=;AbapOpp+COYBrf5IgahnxQ=="
+secured: "da3Cb7uJnR8goGzSLBUoFywaoVZY8+qluOPcUdkdI6YOz0q5zwyVcWkgHl3UlLNeRZWvaDuJP4kasvwvN0WHseLjxft3WN5yczdnmy41xm0pktLKGX+c5TaDqqMPED7o0UKwqB3DXE3BpctZiViNXZ8c9/3BBTuzQkhvZuiI1YfYizmIRaEejKEjHBRJOutyAcVCn152BU41Qn23eGr4oHFIPLG8L+WrnYwpI2ICsKMnoRnLKA32cXFwucjYqa0MHQ98Y7psy1qUQ2leRyhAjA4AkzhM+Vj1lEYT1CrFWKkFi2zBdBveVk6un4sRhpJYMTTZXqdT17DMI7HwNG41sxNNaZrxAm8dYy/cPVbZ8iRn8bQ+ar2N/SNb9HDvRU2vPm3kjds7DJoWjOQIIDQOKJGT4v//vtuxqPYYmPFlmFNca5K40+0Z99dftITZlvC5la+/DQd2PIP9pl83aBUReYgHx4+ICTm7hjwUwIY6X6HBy8fWTzUmzXtzvM2M0VhL0/UdOS1zAIJHYODOyTDs/A==;2S2bSKV4x3XTrKA8xvmBMQ=="
 ---
 

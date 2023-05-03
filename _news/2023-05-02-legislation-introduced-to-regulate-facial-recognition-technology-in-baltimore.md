@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wmar2news.com/local/legislation-introduced-to-regulate-f
 cdnAmpWebUrl: "https://www-wmar2news-com.cdn.ampproject.org/c/s/www.wmar2news.com/local/legislation-introduced-to-regulate-facial-recognition-technology-in-baltimore?_amp=true"
 type: article
 quality: 58
-heat: 128
+heat: 138
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://x-default-stgec.uplynk.com/ausw/slices/1ce/22f3150cc15946e68b21f11967cfb8d1/1cedfcec12e14520a27f540bd3231a82/poster_f2fd92cca85a4c328dcdaf9accf7af3b.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Plan to use facial recognition at JR East stations to spot ex-cons iced"
+    excerpt: "East Japan Railway Co. has suspended a program to use facial recognition to track ex-convicts who turn up at its stations. A company official said Sept. 21 the decision was made “because a ..."
+    publishedDateTime: 2023-05-02T00:00:00Z
+    webUrl: "https://www.asahi.com/ajw/articles/14445523"
+    type: article
+    provider:
+      name: 朝日新聞社
+      domain: asahi.com
+    quality: 39
+    images:
+      - url: "https://p.potaufeu.asahi.com/9a8b-p/picture/26381371/21aee2bafd45bc707daecdd7c7f36c8a.jpg"
+        width: 660
+        height: 381
         isCached: true
   - title: "Baltimore Considers Facial Recognition Restrictions"
     excerpt: "Proposed legislation would require the police department to get approval before acquiring any new surveillance technology and would establish an oversight board to monitor the city’s use."

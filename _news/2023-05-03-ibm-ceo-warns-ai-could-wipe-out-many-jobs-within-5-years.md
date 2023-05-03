@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxbusiness.com/technology/ibm-ceo-warns-ai-could-wipe-o
 cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/ibm-ceo-warns-ai-could-wipe-out-many-jobs-within-5-years.amp"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -27,19 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "IBM CEO: ‘AI to cut 7,800 jobs in next five years’"
-    excerpt: "IBM CEO Arvind Krishna expects AI to eliminate up to 7,800 jobs at the company. 30 percent of current non-customer-facing employees are set not to be"
-    publishedDateTime: 2023-05-03T09:41:00Z
-    webUrl: "https://www.techzine.eu/news/infrastructure/105453/ibm-ceo-ai-to-cut-7800-jobs-in-next-five-years/"
+  - title: "ChatGPT, AI Tools Could 'Replace Many' Jobs Within 5 Years: IBM CEO"
+    excerpt: "Unrestrained and unregulated advances in artificial intelligence development could pose significant risks to humanity, experts warned."
+    publishedDateTime: 2023-05-03T10:58:00Z
+    webUrl: "https://www.ibtimes.com/chatgpt-ai-tools-could-replace-many-jobs-within-5-years-ibm-ceo-3690701"
+    ampWebUrl: "https://www.ibtimes.com/chatgpt-ai-tools-could-replace-many-jobs-within-5-years-ibm-ceo-3690701?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/chatgpt-ai-tools-could-replace-many-jobs-within-5-years-ibm-ceo-3690701?amp=1"
     type: article
     provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 39
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 59
     images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2019/09/IBMs-Global-Center-for-Watson-IoT-in-Munich-Germany-5.jpg"
-        width: 1000
-        height: 667
+      - url: "https://d.ibtimes.com/en/full/2913344/arvind-krishna-take-over-ibm-ceo-april-2020.jpg"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "pixVxQQ8Q5gLR22Yp8Mro+FEtfIKqqebTG+tVgRfxvlbJlg2xgyKbXy8tw+mP8heZAZCr2zQXr+qLQ25DwMrqaiYEVvaPPfPRAaFDaxiKqqZsPwGJXUlNUHrAdhDJGWcy559KmVbOSkC2XkAgEcCJouw5xCFt2BG6Aw5DhOaLOavkyNBR9oNXCVTjWOJn3CmNhEUF4y8LRtvDDuJYgRaXjQM8hvJvLfUxZsu9SmMYQmVuNEt5qZppjqSr07vxFpfZEf8A3EmvPuAqk3fWTC/bUgjmQOVDA4bbGnWl5Zwm3CihUON3lAnBh5xguv98hQ4zJefoz2+9KHT+iFBGFgQ40rz2peABLubbgVh7pviqL4=;xbT0u7XBxzBo03SdxCEbKQ=="

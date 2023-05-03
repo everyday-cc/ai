@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 798
         isCached: true
+  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
+    excerpt: "Here's a guide to help understand Open AI's viral text-generating system. We outline the most recent updates and answer the most common FAQs."
+    publishedDateTime: 2023-05-03T16:45:00Z
+    webUrl: "https://techcrunch.com/2023/05/03/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/"
+    ampWebUrl: "https://techcrunch.com/2023/05/03/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/03/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
+        width: 1200
+        height: 798
+        isCached: true
   - title: "AI Ethicist Views On ChatGPT"
     excerpt: "Physicist Stephen Hawking, who died in 2018, described the rise of AI as one of the greatest threats to the future of humanity. Even the controversial Elon Musk and over 1000 technology leaders have called for a pause on generative AI and for advancing legislation."
     publishedDateTime: 2023-04-30T16:23:00Z
@@ -196,6 +212,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Beware the AI Scams: Meta Blocks 1,000+ Links Tied to ChatGPT-Themed Malware"
+    excerpt: "Hackers pounced on ChatGPT's popularity to create malware posing as OpenAI's chatbot, and then circulated links to it on Facebook, many to dangerous browser extensions."
+    publishedDateTime: 2023-05-03T17:31:00Z
+    webUrl: "https://www.pcmag.com/news/beware-ai-scams-meta-blocks-1000-plus-links-tied-to-chatgpt-themed-malware"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 64
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/03Nuq1pc0GAzFeP4dTeYrAt-1.fit_lim.size_1200x630.v1683131377.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "ChatGPT is the start of online education, not the end"
     excerpt: "Yet online education is a huge industry, estimated by researcher Statista at $167 billion this year and climbing to $239 billion by 2027. Chegg's slice of that market is centred around helping college students with homework and cramming for exams,"
     publishedDateTime: 2023-05-03T11:06:00Z
@@ -227,6 +257,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/e2301359f7e6899aa7dfb79e07a0f76519d2eed3/0_233_5700_3421/master/5700.jpg?width=620&quality=85&auto=format&fit=max&s=952570695e00a2b4dd8276d54ea418f2"
         width: 620
         height: 372
+        isCached: true
+  - title: "Explained | What is the EU’s Artificial Intelligence Act and how does it plan to rein in tech like ChatGPT?"
+    excerpt: "As artificial intelligence technologies become omnipresent and their algorithms more advanced—capable of performing a wide variety of tasks including voice assistance, recommending music, driving cars, detecting cancer, and even deciding whether you get shortlisted for a job— the risks and uncertainties associated with them have also ballooned."
+    publishedDateTime: 2023-05-03T17:13:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/explained-what-is-the-eus-artificial-intelligence-act-and-how-does-it-plan-to-rein-in-tech-like-chatgpt/article66794478.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/explained-what-is-the-eus-artificial-intelligence-act-and-how-does-it-plan-to-rein-in-tech-like-chatgpt/article66794478.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/explained-what-is-the-eus-artificial-intelligence-act-and-how-does-it-plan-to-rein-in-tech-like-chatgpt/article66794478.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 56
+    images:
+      - url: "https://th-i.thgim.com/public/incoming/n82nfe/article66809441.ece/alternates/FREE_1200/iStock-1474442258.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Are AI Chatbots, ChatGPT the Solution to Healthcare’s Empathy Problem?"
     excerpt: "A new study found that AI chatbots like ChatGPT answer patient queries with more empathy, making the tool useful for providers managing secure direct messages in the patient portal."

@@ -6,8 +6,8 @@ publishedDateTime: 2023-05-03T15:24:00Z
 originalUrl: "https://www.financialbuzz.com/tech-giants-boost-ai-business-segments-to-tap-into-market-potential-and-profitability/"
 webUrl: "https://www.financialbuzz.com/tech-giants-boost-ai-business-segments-to-tap-into-market-potential-and-profitability/"
 type: article
-quality: 16
-heat: 16
+quality: 18
+heat: 18
 published: false
 
 provider:
@@ -19,6 +19,7 @@ topics:
   - AI
   - Computer Vision
   - Natural Language Processing
+  - AWS AI
 
 secured: "BSOcK0F6KrcUrfu03zIOiqTxOVL9enWSWZbNLgQo/SFC0pErdahb6+XiCjOB+3eG8/cDI6dAE473LiEdelXaBPmg5MxXpiutder7CKRJR5mfIGMX9bOb011oc7o5/8WySiBor58IqAn5nz+3JxukXjhKI8+dHF4shf+00hVRNDYklvLQ3btuZUp44SRjRL0AsPNBPaqjYX7CaQGvuh+YF5i0RMODEjHtdSWVwYVAFUqn6in6sAx7aRm1J6TUjbF3cxlU+e1f9NxFgWjo8b0wKwyU+kzvcA23TIAdnkwp99byn90oaTlQo2DFBUqRHVUr2e9PI0J4dIzFOEOFPOC3jbL+Vt1QYYEpOTwgCdhwjnQ=;laHR8G7a6tVzB9CpWtDeTA=="
 ---

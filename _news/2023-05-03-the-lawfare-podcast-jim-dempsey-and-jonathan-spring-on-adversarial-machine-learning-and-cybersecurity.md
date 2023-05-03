@@ -76,20 +76,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "The future of AI: Its impact on creativity, humanity, and well being"
-    excerpt: "How rapid advances in AI tech like ChatGPT impact human creativity, intellect, and our self determination — and its potential practical benefits in the mental health field."
-    publishedDateTime: 2023-04-29T00:14:00Z
-    webUrl: "https://www.kcrw.com/culture/shows/life-examined/artificial-intelligence-impact-creativity-humanity-chatbots-mental-health"
-    type: article
-    provider:
-      name: KCRW
-      domain: kcrw.com
-    quality: 39
-    images:
-      - url: "https://www.kcrw.com/culture/shows/life-examined/artificial-intelligence-impact-creativity-humanity-chatbots-mental-health/@@images/rectangular_image/page-header?v=1682729199.3"
-        width: 1460
-        height: 821
-        isCached: true
   - title: "Cybersecurity Still Finding Its Place In New AI Era"
     excerpt: "It is difficult nowadays to talk to inventors in any tech sector without AI coming up in the conversation — and that is certainly true in cybersecurity."
     publishedDateTime: 2023-05-03T11:00:00Z
