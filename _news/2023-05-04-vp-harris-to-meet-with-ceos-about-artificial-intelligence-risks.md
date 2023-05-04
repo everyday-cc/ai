@@ -1,77 +1,76 @@
 ---
 category: news
 title: "VP Harris to meet with CEOs about artificial intelligence risks"
-excerpt: "Vice President Kamala Harris will meet on Thursday with the CEOs of four major companies developing artificial intelligence as the Biden administration rolls out a set of initiatives meant to ensure the rapidly evolving technology improves lives without putting people’s rights and safety at risk."
-publishedDateTime: 2023-05-04T14:48:00Z
-originalUrl: "https://www.washingtontimes.com/news/2023/may/4/kamala-harris-to-meet-with-ceos-about-artificial-i/"
-webUrl: "https://www.washingtontimes.com/news/2023/may/4/kamala-harris-to-meet-with-ceos-about-artificial-i/"
-ampWebUrl: "https://amp.washingtontimes.com/news/2023/may/4/kamala-harris-to-meet-with-ceos-about-artificial-i/"
-cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2023/may/4/kamala-harris-to-meet-with-ceos-about-artificial-i/"
+excerpt: "The Democratic administration plans to announce an investment of $140 million to establish seven new AI research institutes."
+publishedDateTime: 2023-05-04T13:50:00Z
+originalUrl: "https://www.nbcnews.com/tech/tech-news/vp-harris-meet-ceos-artificial-intelligence-risks-rcna82835"
+webUrl: "https://www.nbcnews.com/tech/tech-news/vp-harris-meet-ceos-artificial-intelligence-risks-rcna82835"
+ampWebUrl: "https://www.nbcnews.com/news/amp/rcna82835"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna82835"
 type: article
-quality: 59
-heat: -1
-published: false
+quality: 87
+heat: 147
+published: true
 
 provider:
-  name: Washington Times
-  domain: washingtontimes.com
+  name: NBC News
+  domain: nbcnews.com
 
 topics:
-  - AI Ethics
   - AI
 
 images:
-  - url: "https://twt-thumbs.washtimes.com/media/image/2023/05/04/Biden_48332_c0-250-6000-3750_s1200x700.jpg?2cb823f519263a3e55a419724463fd44fb7f7c61"
-    width: 1200
-    height: 700
+  - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/230504-kamala-harris-mjf-0946-2ef781.jpg"
+    width: 2500
+    height: 1436
     isCached: true
 
 related:
-  - title: "The White House Starts to Address AI Risks with New Initiatives"
-    excerpt: "Executives from Alphabet, Microsoft, OpenAI, and Anthropic will also meet with the Vice President today to discuss the new AI efforts."
-    publishedDateTime: 2023-05-04T15:20:00Z
-    webUrl: "https://gizmodo.com/white-house-announce-ai-initiative-openai-microsoft-1850403559"
+  - title: "White House Announces AI Initiatives Ahead of Meeting With Top Tech CEOs"
+    excerpt: "Companies worried about being liable for something in their training data might also not have incentives to properly track it, said Margaret Mitchell, chief ethics scientist at AI startup Hugging Face. “I think it might not be possible for OpenAI to ..."
+    publishedDateTime: 2023-05-04T10:47:00Z
+    webUrl: "https://time.com/6276974/biden-harris-white-house-artificial-intelligence-initiatives/"
     type: article
     provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 67
+      name: Time
+      domain: time.com
+    quality: 68
     images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/5928f9af47719ca2a1aa839eff736ba9.jpg"
+      - url: "https://time.com/img/icons/wallet-connect.png"
+        width: 256
+        height: 256
+        isCached: true
+  - title: "VP Harris meets with CEOs about artificial intelligence risks"
+    excerpt: "The Biden administration plans to announce an investment of $140 million to establish seven new AI research institutes, administration officials told reporters in previewing the effort."
+    publishedDateTime: 2023-05-04T20:20:00Z
+    webUrl: "https://www.wesh.com/article/kamala-harris-ceos-artificial-intelligence-risks/43794424"
+    ampWebUrl: "https://www.wesh.com/amp/article/kamala-harris-ceos-artificial-intelligence-risks/43794424"
+    cdnAmpWebUrl: "https://www-wesh-com.cdn.ampproject.org/c/s/www.wesh.com/amp/article/kamala-harris-ceos-artificial-intelligence-risks/43794424"
+    type: article
+    provider:
+      name: WESH
+      domain: wesh.com
+    quality: 59
+    images:
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/kamala-harris-ap22131652890528.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
         width: 1200
         height: 675
         isCached: true
-  - title: "White House unveils AI rules to address safety and privacy"
-    excerpt: "It needs to be discussed in government.” Margaret Mitchell, chief ethics scientist at machine learning app vendor Hugging Face, said generative AI applications, such as ChatGPT can be developed for positive uses, but any powerful technology can also be ..."
-    publishedDateTime: 2023-05-04T17:27:00Z
-    webUrl: "https://www.computerworld.com/article/3695731/white-house-unveils-ai-rules-to-address-safety-and-privacy.html"
-    ampWebUrl: "https://www.computerworld.com/article/3695731/white-house-unveils-ai-rules-to-address-safety-and-privacy.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3695731/white-house-unveils-ai-rules-to-address-safety-and-privacy.amp.html"
+  - title: "VP Harris to meet with CEOs about artificial intelligence risks"
+    excerpt: "Companies worried about being liable for something in their training data might also not have incentives to rigorously track it, said Margaret Mitchell, chief ethics scientist at AI startup Hugging Face. \"I think it might not be possible for OpenAI to ..."
+    publishedDateTime: 2023-05-04T20:01:00Z
+    webUrl: "https://www.kcra.com/article/kamala-harris-ceos-artificial-intelligence-risks/43794424"
+    ampWebUrl: "https://www.kcra.com/amp/article/kamala-harris-ceos-artificial-intelligence-risks/43794424"
+    cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/kamala-harris-ceos-artificial-intelligence-risks/43794424"
     type: article
     provider:
-      name: Computerworld
-      domain: computerworld.com
+      name: kcra.com
+      domain: kcra.com
     quality: 59
     images:
-      - url: "https://images.idgesg.net/images/article/2019/11/artificial_intelligence_ai_ml_machine_learning_abstract_gettyimages_by_dny59_959737582_by_kentoh_1042827860-100817845-large.jpg?auto=webp&quality=85,70"
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/kamala-harris-ap22131652890528.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
         width: 1200
-        height: 800
-        isCached: true
-  - title: "US announces measures to address risk of artificial intelligence arms race"
-    excerpt: "White House said it would invest $140m in pursuit of AI advances that are ‘ethical, trustworthy, responsible, and serve the public good’"
-    publishedDateTime: 2023-05-04T15:52:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/may/04/us-announces-measures-to-address-risk-of-artificial-intelligence-arms-race"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/04/us-announces-measures-to-address-risk-of-artificial-intelligence-arms-race"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/04/us-announces-measures-to-address-risk-of-artificial-intelligence-arms-race"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 55
-    images:
-      - url: "https://i.guim.co.uk/img/media/f7eb9b7ae2efb54e5f8ccbce13aed19e3f76803e/0_0_6431_3861/master/6431.jpg?width=620&quality=85&auto=format&fit=max&s=ad8bac99eb3bf3d060964213513541f7"
-        width: 620
-        height: 372
+        height: 675
         isCached: true
   - title: "Harris to meet with CEOs about artificial intelligence risks"
     excerpt: "Vice President Kamala Harris will meet with the CEOs of four major companies developing artificial intelligence. The Biden administration is rolling out initiatives meant to ensure the rapidly evolvin"
@@ -87,35 +86,30 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "White House Must Take More Action To Address AI Concerns"
-    excerpt: "Twitter The White House Blueprint for an AI Bill of Rights issued last October is a strong start to a government response to protect workers, families, and our democracy from the potential pitfalls of AI. The recent release of generative AI tools is ..."
-    publishedDateTime: 2023-05-04T11:00:00Z
-    webUrl: "https://www.americanprogress.org/article/white-house-must-take-more-action-to-address-ai-concerns/"
+  - title: "Vice President Harris meets with CEOs about artificial intelligence risks"
+    excerpt: "Vice President Kamala Harris met with the heads of Google, Microsoft and two other companies developing artificial intelligence."
+    publishedDateTime: 2023-05-04T21:07:00Z
+    webUrl: "https://www.pressherald.com/2023/05/04/vice-president-harris-meets-with-ceos-about-artificial-intelligence-risks/"
     type: article
     provider:
-      name: Center for American Progress
-      domain: americanprogress.org
-    quality: 37
+      name: Portland Press Herald
+      domain: pressherald.com
+    quality: 38
     images:
-      - url: "https://www.americanprogress.org/wp-content/uploads/sites/2/2023/05/AIColumn.jpg"
-        width: 1680
-        height: 1120
+      - url: "https://multifiles.pressherald.com/uploads/sites/4/2023/05/Biden_37837-1-1683234434.jpg"
+        width: 1000
+        height: 667
         isCached: true
-  - title: "White House launches new AI initiatives as UK begins review of foundation models"
-    excerpt: "The participants will evaluate machine learning products’ compliance with the Blueprint for an AI Bill of Rights using a system developed by startup Scale AI Inc. The White House also detailed plans to release draft guidelines on how federal agencies ..."
-    publishedDateTime: 2023-05-04T17:35:00Z
-    webUrl: "https://siliconangle.com/2023/05/04/white-house-launches-new-ai-initiatives-uk-begins-review-foundation-models/"
+  - title: "Harris meets with CEOs about artificial intelligence risks"
+    excerpt: "Vice President Kamala Harris speaks, along side Jill Scarbo, who won National Small Business of the Year in 2022 and is the CEO of Bright Futures Learning Services (BFLS), a provider of Applied Behavior Analysis (ABA) therapy services for children ..."
+    publishedDateTime: 2023-05-04T17:42:00Z
+    webUrl: "https://omaha.com/lifestyles/technology/harris-meets-with-ceos-about-artificial-intelligence-risks/article_2be5fceb-7e7e-5b20-93a6-2fc9680f8df6.html"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 32
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/Image-2-1.png"
-        width: 850
-        height: 476
-        isCached: true
+      name: Omaha.com
+      domain: omaha.com
+    quality: 19
 
-secured: "cxAHFarF1dDs23To3IDDNPeZmwsUNPTtzTtBnw99qE82c62M4Sq/wjrwNciXd5erHcSFSLqWSXJoX+ZId1LraSVrMeHCXv6KxiCzH5dSBZVJaCvQNhwFAONx6E8XqAJzYFvhpIOOtNhIlFiKRxCxmAe1c74kNIiqVJqvXatMdHLjGrdLJv+Xa0ggMrNbHFXyAEvFAeTuLT5PGvEj2+2kmg/MjvveLq9iJ22V2XoYq9DMJSLe9pPD6ECluvD2NuQcXrXPNLXNhBAo7G4C7UGZinXIsAnGpZKk2lyPZBaS7B+EYph/8znRmgz0u+XnxWIFbVA29+Gv5HJWvK4gBIPctQMMKN/77SNbeX0+UDjbnpk=;CZ8R3MS/c6VazYvTVL8zhA=="
+secured: "pttc106IA0tN28ygjYW9i4swmBOV6zGh1EHL4hUSi/SGimKRYFYmzVuOBJPYqTOTJWZsViMJuUVW0Q7BfH9fE80yhlPnN7+2YOcx894+j94td1ZTrRcs5lxHGm3T9+uKTHiStft4CvOylB006rPKrn4iW25x3saHLmiOH1ADYh6gLjZyts+suHtXzOIfiCTUHCZhxnBdWzryHksrZfDdjaUnY8RbfkBIbeDO44GqEjOIXEYF4HE6thlfRSUy/67x6hiyfAkPHrbc1dk5wsQ2ixW9FDG+2HaY9wN7J3RrD98SyGSKmKCXGlshFb9L4ntpEzk+F0gq9doc+kj3wVTYckAmRWPvJemPKhkFPe14osQ=;Meamx8Kglqod9wWtHYDimw=="
 ---
 

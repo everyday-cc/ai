@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/best-fintech-app-develop
 webUrl: "https://www.marketwatch.com/press-release/best-fintech-app-development-companies-in-the-usa-2023-05-01"
 type: article
 quality: 54
-heat: 184
+heat: 204
 published: true
 
 provider:
@@ -192,6 +192,24 @@ related:
     provider:
       name: academy
       domain: newswit.com
+    quality: 0
+  - title: "IIT Kanpur's eMasters degree program in Financial Technology and Management to groom FinTech experts"
+    excerpt: "Some estimates suggest that the global FinTech market is expected to reach a market value of approximately $324 billion by 2026. Another recent report suggests that India's digital payments market is expected to triple from $3 trillion to $10 trillion by 2026,"
+    publishedDateTime: 2023-05-04T20:06:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20230504/4069461.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 0
+  - title: "OPTASIA RANKS THIRD AMONG TOP FINTECH COMPANIES ACCORDING TO FORBES MIDDLE EAST MAGAZINE"
+    excerpt: "This accolade came through Forbes Middle East \"Top 30 Fintech Companies 2023\" article ... Optasia, previously Channel VAS, is an advanced AI-led platform that enables instant access to financial solutions for millions of underbanked individuals and ..."
+    publishedDateTime: 2023-05-04T18:39:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1320322&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
     quality: 0
 
 secured: "OKPcuClq1bS/V2jrTa9rLh8YOkEpssdYbhigb6pTk4HsaTLVGXL/XY79JQsDeWETcZ0w+1Soy92Ms+zzGwfeJpa0dQvjs15KnBf6w4ayRlc4mCegLNLBnQahMc61FuCoKZpcuTrXWtgKx2+GL4kWHfdp59unRYInmvY6/3ypD04duU+WmGUn/Zp9tM0kyuiulhNaBLh8DkMlPSOoXWhD2OGQaoE/uN+/JNiGY40vWpqcnmgw6Ulj7Kr9VPg6aKciKxAXB6Cpaw6Zmpn0ahgW7eUCoPS/oU/gtcrbep9M9Rf2xX4fZcIgFY86U5lNLSQfU060hgdbgBEnnfWNFfFqsTtfhgMv+J/RwaoN8OsDanw=;uc92fbvcvtK1nXrclUONAQ=="

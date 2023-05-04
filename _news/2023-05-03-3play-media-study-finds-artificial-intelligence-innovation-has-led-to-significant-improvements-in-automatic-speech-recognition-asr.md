@@ -7,7 +7,7 @@ originalUrl: "https://technews.tmcnet.com/news/2023/05/03/9806777.htm"
 webUrl: "https://technews.tmcnet.com/news/2023/05/03/9806777.htm"
 type: article
 quality: 3
-heat: 3
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,45 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "Qatar adopts speech recognition AI to boost prosecution efficiency"
+    excerpt: "Qatar has started to use AI speech-to-text technology in public prosecution to boost efficiency, local media reported Thursday, Trend reports citing Xinhua. The system will be used in criminal investigations and editing legal documents in addition to ..."
+    publishedDateTime: 2023-05-04T21:30:00Z
+    webUrl: "https://en.trend.az/world/arab/3744195.html"
+    type: article
+    provider:
+      name: Trend News Agency
+      domain: trend.az
+    quality: 54
+    images:
+      - url: "https://cdn.trend.az/2022/04/23/artificial_intelligence_ai_230422.jpg"
+        width: 941
+        height: 647
+        isCached: true
+  - title: "Sidra Medicine To Host Qatar's First AI And Medicine Symposium"
+    excerpt: "Sidra Medicine, a member of Qatar Foundation), will be hosting Qatar's first Artificial Intelligence and Medicine Symposi"
+    publishedDateTime: 2023-05-01T07:34:00Z
+    webUrl: "https://menafn.com/1106146615/Sidra-Medicine-To-Host-Qatars-First-AI-And-Medicine-Symposium"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2023-05/01/TP_32518image_story.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "Fintech, AI Seen To Boost Qatar-Ukraine Economic Ties, Says QUBF Executive"
+    excerpt: "The Qatar-Ukraine Business Forum (QUBF) is eyeing advanced technology as a key sector to further advance economic ties between the Gulf country and t"
+    publishedDateTime: 2023-04-30T18:34:00Z
+    webUrl: "https://menafn.com/1106143687/Fintech-AI-Seen-To-Boost-Qatar-Ukraine-Economic-Ties-Says-QUBF-Executive"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 17
 
 secured: "iKbihp50q3UsIcMPP69/AD7rTFRwFg6Q90kBd6S1zQSqA6T2el0CKzpD7xint6A0wq/Pe0/Buv4WiPtlQM69/rpLT+Qv+GYYbGtZWF8kXnTNd8izW0G/22pRA1jdW7p33HbI1rwgHDPDPN5k+gzvip3YU0w+oSNGneEHBxxJalGpMPh2spDfAHryGkXffF+0d0BqSKp0Qgk7R9NT7W+8bd9wpBqf7Evg6TsalSGaDwVLk2Egcbe5sGx1btVGj/VDPow85sdyHYjiLbYmoivYDvJmxjnhMh/CoTi33lNC204Sx4UDpAIewim/1MsJOnIzUtNnDeuSRwcCqgdlZdJ9SF4xIyBqoiSj/1FbmcqcMfs=;LLidLrzZ7+jK0M6y/9YnoA=="
 ---

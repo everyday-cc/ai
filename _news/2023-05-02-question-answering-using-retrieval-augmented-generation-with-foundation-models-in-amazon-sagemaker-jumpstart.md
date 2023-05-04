@@ -29,6 +29,15 @@ images:
     isCached: true
 
 related:
+  - title: "Get started with generative AI on AWS using Amazon SageMaker JumpStart"
+    excerpt: "Generative AI is gaining a lot of public attention at present, with talk around products such as GPT4, ChatGPT, DALL-E2, Bard, and many other AI technologies. Many customers have been asking for more information on AWS’s generative AI solutions. The aim of this post is to address those needs. This post"
+    publishedDateTime: 2023-05-04T18:11:40Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/get-started-with-generative-ai-on-aws-using-amazon-sagemaker-jumpstart/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 99
   - title: "Bring your own ML model into Amazon SageMaker Canvas and generate accurate predictions"
     excerpt: "Machine learning (ML) helps organizations generate revenue, reduce costs, mitigate risk, drive efficiencies, and improve quality by optimizing core business functions across multiple business units such as marketing, manufacturing, operations, sales, finance, and customer service. With AWS ML, organizations"
     publishedDateTime: 2023-05-02T15:50:20Z
@@ -94,6 +103,15 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 69
+  - title: "Making A Difference With Generative AI"
+    excerpt: "Everyone seems to be using ChatGPT for something or the other. Here, our experts suggest some serious, game-changing applications that the technology can"
+    publishedDateTime: 2023-05-03T11:39:00Z
+    webUrl: "https://www.electronicsforu.com/technology-trends/making-difference-with-generative-ai"
+    type: article
+    provider:
+      name: electronicsforu
+      domain: electronicsforu.com
+    quality: 19
 
 secured: "z7tazbU+IcAdl1z44b8XF+uTkvbrm6Me+oh6W6eu1CxN6gK2DUoFEWbKuGR5XelDQMQ8+OYlnoKNtvejuf8NIRn2/Wx4Wt3M4zl6+QKAw+yW451hmTwjWV5cHUaOI15VZ6ewmJ5iBpB6KnjJ0Aj7Jt3AjgylYu8f+gcJgLfQFXMFzL9KZQMhHGH+TFDe5V7XcBc9uWLg7Pjp1QYaSoH0Es00yFmdSdd9ubzo/5wI1Sv4+4CtQrh0T+KjFSt13/Uopq7dQsZodIvb0cig5lGy36an7PiHG5HVKx9KaJCj4LdrOnpqdOccaC5N4tjZ2IGEzklU8kVsG4d+n+Y5wtJ+tAdUixESDSG15wFE5yikico=;a0WvhRKNd2ZzecPpnaOuOw=="
 ---

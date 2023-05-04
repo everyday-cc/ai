@@ -189,6 +189,24 @@ related:
       name: academy
       domain: newswit.com
     quality: 0
+  - title: "IIT Kanpur's eMasters degree program in Financial Technology and Management to groom FinTech experts"
+    excerpt: "Some estimates suggest that the global FinTech market is expected to reach a market value of approximately $324 billion by 2026. Another recent report suggests that India's digital payments market is expected to triple from $3 trillion to $10 trillion by 2026,"
+    publishedDateTime: 2023-05-04T20:06:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20230504/4069461.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 0
+  - title: "OPTASIA RANKS THIRD AMONG TOP FINTECH COMPANIES ACCORDING TO FORBES MIDDLE EAST MAGAZINE"
+    excerpt: "This accolade came through Forbes Middle East \"Top 30 Fintech Companies 2023\" article ... Optasia, previously Channel VAS, is an advanced AI-led platform that enables instant access to financial solutions for millions of underbanked individuals and ..."
+    publishedDateTime: 2023-05-04T18:39:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1320322&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 0
 
 secured: "3oa9kh8EETCql2evAl/c+EQBqTmjWNij2Zn27soJP4lE8pRI4EfDAqgwNsZvxGNlWUCePILn7eVaJH3e49/I31Vni6YKgtI5DaI9bBZem3zo32Z1pZ55gf6hb+44POSk3yIknIWp1dpcMBSDSp/lcpBVoJj6PIpNATpQmwOnJDBjdPgI8ktgUEU2dGVp0ipYq18i8H1KZqTWDgV0E/3+db+c+SgrM+LmKMUkpL1wl+qesNMo08mw95DeVtvnEmwuyNeanpQ9Zofm3bCmtoAzWdu7MakY1yrZPwZ39mrrKc1W3YvxmzalUE6iWdq97f3zsVbP8CTPYghkIKc1nr8QXeXeuaXHnf9ggtPglxYYvjqjnPtiDF8escA2Fd6L8un9Pqe+CQmgMu0Pve1dIOFtnGJK3klE/XpCD7qEkrOBsI3T1yJCN49de5i454amZp4avA4WawMf+LUigT2bJv2+EapToM3PhhJRrK7Ln5bXHYxCY58d/anDSZnT0psnnzvv3gTGgRsSxn19x8qiBZ4yig==;jZjDSJsmfp3b5yc7pLeeZg=="
 ---

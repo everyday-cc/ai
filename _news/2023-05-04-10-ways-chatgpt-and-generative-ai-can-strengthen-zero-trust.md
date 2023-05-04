@@ -348,6 +348,15 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 47
+  - title: "How I used ChatGPT and AI art tools to launch my Etsy business fast"
+    excerpt: "David Gewirtz produced a print-on-demand Etsy store with a compelling identity and plenty of unique text and art. Here's how."
+    publishedDateTime: 2023-05-04T13:56:00Z
+    webUrl: "https://www.zdnet.com/article/how-i-used-chatgpt-and-ai-art-tools-to-launch-my-etsy-business-fast/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 47
   - title: "Samsung tells employees not to use AI tools like ChatGPT and Google Bard"
     excerpt: "While many workers worry AI bots will take their jobs, Samsung employees are no longer allowed to use them. The company banned generative AI tools, like ChatGPT and Google Bard, after discovering staff had added sensitive code to them,"
     publishedDateTime: 2023-05-02T12:22:00Z
@@ -525,6 +534,20 @@ related:
         width: 1200
         height: 765
         isCached: true
+  - title: "Facebook's Powerful ChatGPT Competitor Leaks on 4Chan"
+    excerpt: "Meta-formerly-Facebook's new artificial intelligence model ... with all the recent advancements in large language models, full research access to them remains limited because of the resources ..."
+    publishedDateTime: 2023-05-01T04:13:00Z
+    webUrl: "https://futurism.com/the-byte/facebooks-ai-leaks-4chan"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 24
+    images:
+      - url: "https://wp-assets.futurism.com/2023/03/meta-ai-leaks-4chan.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Is the world ready for ChatGPT therapists?"
     excerpt: "The current landscape of mobile mental-health apps is the result of a 70-year search to automate therapy. Now, advanced AIs pose fresh ethical questions."
     publishedDateTime: 2023-05-03T09:39:00Z
@@ -547,7 +570,7 @@ related:
     provider:
       name: Detroit News
       domain: detroitnews.com
-    quality: 17
+    quality: 19
   - title: "AI Impact Gets Real and Fast: IBM Pauses Hiring, Chegg Plunges on ChatGPT Challenge"
     excerpt: "Artificial intelligence is here and growing fast, putting jobs at risk and posing a complicated challenge for executives and policymakers."
     publishedDateTime: 2023-05-02T12:56:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2023-05-04T15:36:00Z
 originalUrl: "https://www.detroitnews.com/story/business/2023/05/04/google-shared-ai-knowledge-with-the-world-until-chatgpt-caught-up/70183544007/"
 webUrl: "https://www.detroitnews.com/story/business/2023/05/04/google-shared-ai-knowledge-with-the-world-until-chatgpt-caught-up/70183544007/"
 type: article
-quality: 17
+quality: 19
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 related:
   - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
@@ -353,6 +354,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
+  - title: "How I used ChatGPT and AI art tools to launch my Etsy business fast"
+    excerpt: "David Gewirtz produced a print-on-demand Etsy store with a compelling identity and plenty of unique text and art. Here's how."
+    publishedDateTime: 2023-05-04T13:56:00Z
+    webUrl: "https://www.zdnet.com/article/how-i-used-chatgpt-and-ai-art-tools-to-launch-my-etsy-business-fast/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 47
   - title: "Samsung tells employees not to use AI tools like ChatGPT and Google Bard"
     excerpt: "While many workers worry AI bots will take their jobs, Samsung employees are no longer allowed to use them. The company banned generative AI tools, like ChatGPT and Google Bard, after discovering staff had added sensitive code to them,"
     publishedDateTime: 2023-05-02T12:22:00Z
@@ -530,6 +540,20 @@ related:
         width: 1200
         height: 765
         isCached: true
+  - title: "Facebook's Powerful ChatGPT Competitor Leaks on 4Chan"
+    excerpt: "Meta-formerly-Facebook's new artificial intelligence model ... with all the recent advancements in large language models, full research access to them remains limited because of the resources ..."
+    publishedDateTime: 2023-05-01T04:13:00Z
+    webUrl: "https://futurism.com/the-byte/facebooks-ai-leaks-4chan"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 24
+    images:
+      - url: "https://wp-assets.futurism.com/2023/03/meta-ai-leaks-4chan.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Is the world ready for ChatGPT therapists?"
     excerpt: "The current landscape of mobile mental-health apps is the result of a 70-year search to automate therapy. Now, advanced AIs pose fresh ethical questions."
     publishedDateTime: 2023-05-03T09:39:00Z
@@ -572,6 +596,6 @@ related:
       domain: businessnewsdaily.com
     quality: 4
 
-secured: "TSjC6440usGWLJbmtjicoFCFKKTu2oYjgSxDC3rOrckmyiOpdof/J5jTC9Buw26Tx/rnpi1CsqEVfVIOG+JZFM07Tw9OWBRDBN+en/LzfS1nQGi/cvBHjqYNscyrQJKP4kyimPEwZi/VeiNLCa9as6ZeNxwSZkOUKmg/qjigkveiAMIO43MvMHxZMCm6jwhMIKktzCNur9XVBv4GJdfz2Yi9P9IVcLSZtvou+3+uqshYnG8qxDaIW+Kg8KBWghBBML5UpODCQUMh9jyvfDnTC8dDlvpSAd8GAJYtYMfNGemG2h1990gwu+lBAu/tqsz4Ak4958jG4zsR5RCrel92pJakK6Ezdxvh6VXY5RdY56M=;aBh9j9b1Cj398iDlEz55Qw=="
+secured: "5s28DInwzYIjdlnKESG9kUfzZqXTjR2TGXnobNZNuZXw0zuomMRq+/d97dxqUAtiRIbTun6Zp9fPgV4v+JVsEt1Kdh9/Ssb5ZICV3aKo64bYIjvupk5hERNMbckU+OTEY8mEYjhBvVB7JXkslL40b9T89WMPOmESLhEuyIeVNlK8LhbRxrKUdwPEjevU2SmfCs2c+8aXcabwuOsfKB0/VxMGwfa0sWutZWLGt/CT7LERJuywOrt6RPxh8xx03cBLQ3Ul5c8MQwtBLDYEzCYgdVe4dSOEj6CxrGZLpMsnjXF61LK3rG1AKuiDbxhYDGG7PA8qCDOChFln6i4n7dLXcd+o/+XHGQtL4EnOqQCrIRivE2TOtd7qUFRLNTZyG1gP7qVVsm705oyZ8yXnmZ0nkuhfJsNOHJn+GIILA+q41G5/oxqOIbxkHFapFgBmnW30XYK1ZCgakd8hk9lbnsS4nZ67OYnfGbdNX2RkDq07AxYiOMmn5r/BoBE2aug/9hVr11gcVtDGJM7uFa28HvgWkQ==;vtBTyIYOQrQOD6S2vymXIA=="
 ---
 

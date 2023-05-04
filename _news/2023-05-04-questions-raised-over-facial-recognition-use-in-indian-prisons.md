@@ -25,88 +25,34 @@ images:
     isCached: true
 
 related:
-  - title: "Legislation introduced to regulate facial recognition technology in Baltimore"
-    excerpt: "The councilman's proposed legislation would require any new surveillance technology proposed by police departments be subject to approval by the City Council and community input."
-    publishedDateTime: 2023-05-01T21:37:00Z
-    webUrl: "https://www.wmar2news.com/local/legislation-introduced-to-regulate-facial-recognition-technology-in-baltimore"
-    ampWebUrl: "https://www.wmar2news.com/local/legislation-introduced-to-regulate-facial-recognition-technology-in-baltimore?_amp=true"
-    cdnAmpWebUrl: "https://www-wmar2news-com.cdn.ampproject.org/c/s/www.wmar2news.com/local/legislation-introduced-to-regulate-facial-recognition-technology-in-baltimore?_amp=true"
+  - title: "India’s robot installations hit an all-time high"
+    excerpt: "Industrial robot sales in India have reached a new record with 4,945 units installed in 2021, according to the IFR."
+    publishedDateTime: 2023-05-04T21:18:00Z
+    webUrl: "https://www.therobotreport.com/indias-robot-installations-hit-an-all-time-high/"
     type: article
     provider:
-      name: wmar2news
-      domain: wmar2news.com
-    quality: 58
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 69
     images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/96db251/2147483647/strip/true/crop/640x360+0+60/resize/1280x720!/quality/90/?url=https%3A%2F%2Fmediaassets.abc2news.com%2Fphoto%2F2018%2F09%2F12%2F648987200-170667a_1536785599867_97280406_ver1.0_640_480.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.therobotreport.com/wp-content/uploads/2023/05/ifr-graph-featured.jpg"
+        width: 770
+        height: 500
         isCached: true
-  - title: "Plan to use facial recognition at JR East stations to spot ex-cons iced"
-    excerpt: "East Japan Railway Co. has suspended a program to use facial recognition to track ex-convicts who turn up at its stations. A company official said Sept. 21 the decision was made “because a ..."
-    publishedDateTime: 2023-05-02T00:00:00Z
-    webUrl: "https://www.asahi.com/ajw/articles/14445523"
+  - title: "India’s robot boom hits all-time high"
+    excerpt: "The long-term potential of robotics in India becomes clearer when compared to China: India´s robot density in the automotive industry, which is the number of industrial robots per 10,000 employees, reached 148 robots in 2021."
+    publishedDateTime: 2023-05-03T15:24:00Z
+    webUrl: "https://robohub.org/indias-robot-boom-hits-all-time-high/"
     type: article
     provider:
-      name: 朝日新聞社
-      domain: asahi.com
+      name: Robohub
+      domain: robohub.org
     quality: 39
     images:
-      - url: "https://p.potaufeu.asahi.com/9a8b-p/picture/26381371/21aee2bafd45bc707daecdd7c7f36c8a.jpg"
-        width: 660
-        height: 381
+      - url: "https://robohub.org/wp-content/uploads/2023/05/Graph_operational_stock_India_per_1000-425x240.jpg"
+        width: 425
+        height: 240
         isCached: true
-  - title: "Baltimore Considers Facial Recognition Restrictions"
-    excerpt: "Proposed legislation would require the police department to get approval before acquiring any new surveillance technology and would establish an oversight board to monitor the city’s use."
-    publishedDateTime: 2023-05-02T21:08:00Z
-    webUrl: "https://www.governing.com/security/baltimore-considers-facial-recognition-restrictions"
-    ampWebUrl: "https://www.governing.com/security/baltimore-considers-facial-recognition-restrictions?_amp=true"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/baltimore-considers-facial-recognition-restrictions?_amp=true"
-    type: article
-    provider:
-      name: Governing
-      domain: governing.com
-    quality: 39
-  - title: "Baltimore Bill Would Curb Private, Police Use of Face Scan Tech"
-    excerpt: "Baltimore businesses and city government would face new limits on how they use facial-recognition technology under a City Council bill introduced Monday."
-    publishedDateTime: 2023-05-02T22:32:00Z
-    webUrl: "https://news.bloomberglaw.com/privacy-and-data-security/baltimore-bill-would-curb-private-police-use-of-face-scan-tech"
-    type: article
-    provider:
-      name: news.bloomberglaw
-      domain: bloomberglaw.com
-    quality: 24
-    images:
-      - url: "https://db0ip7zd23b50.cloudfront.net/dims4/default/2240526/2147483647/brightness/0x18/crop/7951x3055%2B0%2B144/resize/1919x740%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F0b%2Ff2%2F9c2c68574a8ea1cb52638af4e445%2Ffacial.jpg"
-        width: 1919
-        height: 737
-        isCached: true
-  - title: "Baltimore Considers Restricting Facial Recognition Tech"
-    excerpt: "Baltimore’s use of surveillance and facial recognition technology would face new restrictions under legislation introduced by a city councilman this week."
-    publishedDateTime: 2023-05-02T13:51:00Z
-    webUrl: "https://www.govtech.com/public-safety/baltimore-considers-restricting-facial-recognition-tech"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 19
-  - title: "City councilman introduces bills to limit facial recognition tech"
-    excerpt: "WBAL NewsRadio 1090/FM 101.5 - New legislation could limit the use of facial recognition technology in Baltimore City."
-    publishedDateTime: 2023-05-02T12:46:00Z
-    webUrl: "https://www.wbal.com/article/609687/3/city-councilman-introduces-bills-to-limit-facial-recognition-tech"
-    type: article
-    provider:
-      name: WBAL
-      domain: wbal.com
-    quality: 19
-  - title: "Met Police considering using facial recognition technology for King's coronation"
-    excerpt: "The Metropolitan Police are considering deploying facial recognition technology to target those who may jeopardise the safety of the King's coronation. As the weekend looms, a Met briefing on security concerns took place on Wednesday after a man with a knife was arrested for throwing items,"
-    publishedDateTime: 2023-05-03T11:29:00Z
-    webUrl: "https://www.itv.com/news/2023-05-03/met-considering-using-facial-recognition-technology-for-kings-coronation"
-    type: article
-    provider:
-      name: ITV
-      domain: itv.com
-    quality: 14
 
 secured: "QvhdeBrYYWtHB3zQum7cuFFv7HKf+/MPFpjDLzfGIT7S7OfJEWhBZU0BNDwsMo7b5nH3FekdDroSN83dw+lnRBQT2EJW2qw+99mSimMDFWR23n5mJ7fcbcXzYnUbQHt/9vCNb8oD4RH6/kjCzJxSi29s8lUKNNW4IF1aPS/+M3hJbCTNZ/6urV6qdca81qk8vXeuAfdhvHqyfIuVBdn83sjupjAyFJdg51xfpO96PxKrSc35ojEgqdKg4hMyhDAPabc3XsVC6JZgAKDsbW6sA5CKfEmO5uieSXQrJ0SnDgIh6+unrFiJFUpTrxvMdgvKMQY+GLHiSkEWLJwsq33I8iaIiPH/iC43TtQYPoCBMPnjV4lHY1GWi5Bcx04RnPFWXZo5qtbsFN08X23IzmQHTb6gQBUNgwekBMvhXPl9EXcyD8JO5mljYhO6fYIQHSvFZmIpsKqsrMU/vkbr/4fr9DovTDI6+7k70CjnsmXeDbZwE4B8RcGgHK7vbs6yvsmr7n2/qJbotKfY9/yXrVQPpA==;qV0gFl/2UKPJSLLaHX2NMg=="
 ---

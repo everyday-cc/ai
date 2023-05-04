@@ -39,6 +39,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Machine-Learning Algorithm Predicts What Mice See From Brain Data"
+    excerpt: "EPFL researchers have developed a novel machine learning algorithm called CEBRA, which can predict what mice see based on decoding their neural activity. The algorithm maps brain activity to specific frames and can predict unseen movie frames directly from brain signals alone after an initial training period."
+    publishedDateTime: 2023-05-04T18:40:00Z
+    webUrl: "https://neurosciencenews.com/mouse-vision-ai-23172/"
+    type: article
+    provider:
+      name: Neuroscience News
+      domain: neurosciencenews.com
+    quality: 39
+    images:
+      - url: "https://neurosciencenews.com/files/2023/05/mouse-vision-ai-neurosicence.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "R+/ELQ38TVVbS4KlJa9TVmPXnIthkNlBDSt7HLYbXCRMnKvXB7DVcN8ZSlbrQeepFGIcKAZ2bqciD33yJLOs8jhxM8VNPudmY7+Wdprjuw9OCtFKfwRHxBAcY6Z0d/+fLDbIE3OD1SoeOMZ2yHaNK0irAukwpcjb8Y8O/qYrwMlP/+eFiq02w/ZGnhRc2+iSW9fPdD64EMXaTWS+JRPOYYuW78Y4SVdGQ6DoWVYrZyNTYhM2rIvJvAbfb3cSbffKCyYmeZsnDZx7wpMP9PQ+pDKVbXYpRyNIY79xnYwrnDZTpbTAJB8uES1LrTf2aeGiG7OJ0bfU9Lhmu3RkZCsISLXIKUFuNz18wRzWxsdtnhJ1EkkSs01PO2vTtV6emzywNYZv35LGnpmEakDL5M2Qo7HenEZgCUEGAHY2h3NQu9ZkPlqPgylaK3kXC9E63gEErYeqx5g3o4DLsCkjPGXzxdrdXKtrjfUoaDgLWnIFQnGpLC4r3N+7kCQU2q/ooob2kD+27euhjzCPN6Kg6Q+MdQ==;3DsB0pSWLpOQYaeeXKHRvg=="
 ---

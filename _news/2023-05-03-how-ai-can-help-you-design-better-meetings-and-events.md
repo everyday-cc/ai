@@ -72,6 +72,15 @@ related:
       name: Plastics News
       domain: plasticsnews.com
     quality: 19
+  - title: "AI could run a million microbial experiments per year, says study"
+    excerpt: "An artificial intelligence system enables robots to conduct autonomous scientific experiments—as many as 10,000 per day—potentially driving a drastic leap forward in the pace of discovery in areas from medicine to agriculture to environmental science."
+    publishedDateTime: 2023-05-04T19:22:00Z
+    webUrl: "https://phys.org/news/2023-05-ai-million-microbial-year.html"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 19
 
 secured: "aUtkFbTIrvh0yPH5gLrn1h9iGGky2U3WWZ7K9rZrym3vmLc4ZJFvcf6Ix/phcsrIjuTSPEf9ZHI+ZTPlPx2eyz9XtnI5SnHSkHVvP+BbCX/F4edSmaV8O63IeGYh7hyHKzbcLahWqpLaJHaYy91DoeHZ9wNZIGikMDc3ScEQ8jO1eGAWQH0tkmV890jkjxJDd2+cXlQHRVs5Zxt8GJmx2VeI/I/am801fhCZCLHgkqzGXEIcJthYXj5qouRdUTFbZILJBonPgHUvOjtTrkSFiKIj7jUybUgSzZE7xj0Oc9OlsD2Zbb/rbRxv178LU2g8ck1GHPjG0pZGvHT+jVvf1dsMU20NPFM/B7+apzSXr0w=;lWS5olVAfNilA0/DWviviQ=="
 ---

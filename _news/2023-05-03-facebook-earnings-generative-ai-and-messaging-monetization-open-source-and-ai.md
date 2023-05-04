@@ -95,15 +95,6 @@ related:
         width: 850
         height: 446
         isCached: true
-  - title: "Making A Difference With Generative AI"
-    excerpt: "Everyone seems to be using ChatGPT for something or the other. Here, our experts suggest some serious, game-changing applications that the technology can"
-    publishedDateTime: 2023-05-03T11:39:00Z
-    webUrl: "https://www.electronicsforu.com/technology-trends/making-difference-with-generative-ai"
-    type: article
-    provider:
-      name: electronicsforu
-      domain: electronicsforu.com
-    quality: 19
 
 secured: "RuKqHmWTx5M3x13mk2LQKVDj26N1msy6OahkgpWSkiFrj/Z/9E3WqiUMOin9VxJlHzwyKqmO8xI6ZYt7Mx7aeZnj5LYobR9b08rW69J74s9fABF7eDt2KVcwNk+sEGCaB4KPzANlEN3h5/QDP558tgjNYv7Q18p2hot0em8IiSSGj53Qdlt1RR7VT3iMjZgj0MfhVb4Sss8WmGf7wTEF9lgdMMeIZ0ewFAWuKeGeAX/U5W4BWJJ0WGGlR0bTmyR+CNuaGuw7vu00CF6YdDmqex2X5La+mZvfK8SiWOuHMHuBfaQ5zULwyXBR92Cez1y5rTZHFqV6EXnsgGIQ6/L0qGREcEYYthmLRC7Cqhs1qcoflYMxQReRzElzEwSzox179sixkmX3DwPzfef+73IO5EwmWfiJlacgampZpTPcT55ASuml647wkSDTaWrfD63W2WygZx1DIse3pd2mffdonKyq0w0CEQyWAFul9cQ+BOwXY99q+Cqrl0+VmJMCwGE36TOYvwyxsbTwOuJhnvsmUA==;S/IshAFCEAGWCCnb2z1OpQ=="
 ---

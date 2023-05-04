@@ -72,6 +72,15 @@ related:
       name: McKnight's Senior Living
       domain: mcknightsseniorliving.com
     quality: 33
+  - title: "AI could run a million microbial experiments per year, says study"
+    excerpt: "An artificial intelligence system enables robots to conduct autonomous scientific experiments—as many as 10,000 per day—potentially driving a drastic leap forward in the pace of discovery in areas from medicine to agriculture to environmental science."
+    publishedDateTime: 2023-05-04T19:22:00Z
+    webUrl: "https://phys.org/news/2023-05-ai-million-microbial-year.html"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 19
 
 secured: "FLpdOS4hS+uiOnbwbzlLmg+1OF3mJjllNpXF352W+s4wgRe/09DUyRSAxlFJiETexzBYQYhd8X2VRZPOwaDENuzXa1/wPsE8HOAD6mlX2gicjiesH9+znIzaUEOCKsj7WCcwXndbnmSprHVMJ5l3+siTLcJi2DwsziUt1D/vP3D5gEEnClLhJOz15Pli0LQEbK3tapB39q5Jx2AFaw4tK7C8QliBWOnebRb2JLCefnB0WYeakgtIbquphaqdZSRnYVphTTEtQ3c9zvtDSfu4z61CVPn1v2+EF5mhhS7kNuvK6mjisAx5fS1AYlqYO1RpcLxotamPQU5GTsdzTcCCftfkR4ktHcalHXM7z2A3TNI=;ja0GpYJrmRHCyTr1s/EpfA=="
 ---

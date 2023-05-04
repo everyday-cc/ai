@@ -29,6 +29,15 @@ images:
     isCached: true
 
 related:
+  - title: "Get started with generative AI on AWS using Amazon SageMaker JumpStart"
+    excerpt: "Generative AI is gaining a lot of public attention at present, with talk around products such as GPT4, ChatGPT, DALL-E2, Bard, and many other AI technologies. Many customers have been asking for more information on AWS’s generative AI solutions. The aim of this post is to address those needs. This post"
+    publishedDateTime: 2023-05-04T18:11:40Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/get-started-with-generative-ai-on-aws-using-amazon-sagemaker-jumpstart/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 99
   - title: "Bring your own ML model into Amazon SageMaker Canvas and generate accurate predictions"
     excerpt: "Machine learning (ML) helps organizations generate revenue, reduce costs, mitigate risk, drive efficiencies, and improve quality by optimizing core business functions across multiple business units such as marketing, manufacturing, operations, sales, finance, and customer service. With AWS ML, organizations"
     publishedDateTime: 2023-05-02T15:50:20Z
@@ -94,6 +103,15 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 69
+  - title: "Making A Difference With Generative AI"
+    excerpt: "Everyone seems to be using ChatGPT for something or the other. Here, our experts suggest some serious, game-changing applications that the technology can"
+    publishedDateTime: 2023-05-03T11:39:00Z
+    webUrl: "https://www.electronicsforu.com/technology-trends/making-difference-with-generative-ai"
+    type: article
+    provider:
+      name: electronicsforu
+      domain: electronicsforu.com
+    quality: 19
 
 secured: "Eyi0H1KOLZHAGtCYSwcU0gEjfSeNtuMcsRhsnA/GE00l7SMy5jPqZzKfbgeKzGnD4DESDZT5Ys7DmGZBHL7sabv6VuQ/IM+glJ6nbnqm62t9CzBU9bAh7w1oMoy8tDioaZ6jgVy2oOmBquLkAmD5El31hV6RDiKLGXREHMoHNvX7TuUfMLLygXGnY3lW4PvbS3S65fsAHKEwrrM8bB5zF4jEQOU8BVXVR8LTcdejiNk+uVNrjwK0RCS3jrHB33nfYeff1g7CaPwV0Wihc4olt7W+qZVrS5yimtHy4A6sosfHcnaEwhkBBrm9WaeW9rNACKx+vasJl6mppfI4yPkb8gw/s2peWMKK4AWlPSMJ0zE=;DAjcxR6mfD4l2QSwABTjlg=="
 ---

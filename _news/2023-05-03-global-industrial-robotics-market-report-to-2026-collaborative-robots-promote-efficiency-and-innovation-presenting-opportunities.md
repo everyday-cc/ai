@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Educational Robots Market Size Share Volume Trends Demand Forecast Report 2022-2028"
+    excerpt: "These start-ups are raising significant investments ... Use of Robots for instructional functions Technological Advancement within the Field of AI The major restraining factors of Educational Robots Market are as follows: 5. Educational Robots Market ..."
+    publishedDateTime: 2023-05-04T17:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/educational-robots-market-size-share-volume-trends-demand-forecast-report-2022-2028-2023-05-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
   - title: "2023-2031 Machine Learning Recommendation Algorithm Market| Discover the Current Scope in Analytics Industry and Opportunities"
     excerpt: "The global \"Machine Learning Recommendation Algorithm Market\" report thoroughly analyzed in this Insight Report,"
     publishedDateTime: 2023-05-03T04:22:00Z

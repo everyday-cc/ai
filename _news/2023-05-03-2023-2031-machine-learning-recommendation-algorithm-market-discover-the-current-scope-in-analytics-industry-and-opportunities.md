@@ -45,6 +45,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Educational Robots Market Size Share Volume Trends Demand Forecast Report 2022-2028"
+    excerpt: "These start-ups are raising significant investments ... Use of Robots for instructional functions Technological Advancement within the Field of AI The major restraining factors of Educational Robots Market are as follows: 5. Educational Robots Market ..."
+    publishedDateTime: 2023-05-04T17:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/educational-robots-market-size-share-volume-trends-demand-forecast-report-2022-2028-2023-05-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
 
 secured: "3ugc4mL0aC2ABXQXlIKKnZ3byBLrZPtjUQPjysIkkS4XgDB/ELIEhOJ52ZlSkTJBWlzLBWTYslIlDSOQUvvhKu8oh3SuhpBeTpT3d1RCOfPkgdM/vwKYoNLJcZ5PPp6ReYbujIoCDss1kuNftSt+tg6wbDpivWPw9JVrOMknl6tAKVD7hontTtzBGf35/MyehWosG5SHZ0he12ct/sG5nG16cDcM29BWPqKB19GpX7ATMjKCoXCY2sfZO7N6TAAL/EOGPubgZEN5GnLGHrKztXlSChc63YMlKsggidb6na3iJrcWvhXyjce9nVkBNcrOhvcQYqw1568udQG3m/nXE8rovzs2UP2oYzjiGVVrAUc=;PNYQISTJ2zGqZD1x3oTrQQ=="
 ---

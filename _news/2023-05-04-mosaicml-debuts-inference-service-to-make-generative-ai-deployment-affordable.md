@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/mosaicmls-inference-service-to-make-gener
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/mosaicmls-inference-service-to-make-generative-ai-affordable/amp/"
 type: article
 quality: 84
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1200
     height: 599
     isCached: true
-
-related:
-  - title: "Aisera taps generative AI to process customer and employee service requests"
-    excerpt: "Aisera Inc., a well-funded startup that provides artificial intelligence tools for companies to enhance employee and customer experiences, said today it’s partnering with Microsoft Corp. to deliver a new AI copilot for enterprise service experiences."
-    publishedDateTime: 2023-05-03T12:01:00Z
-    webUrl: "https://siliconangle.com/2023/05/03/aisera-taps-generative-ai-process-customer-employee-service-requests/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 17
 
 secured: "TLdQjZnE+5j+5Xl7JGqUHfZI9OhaNl0aGwkoSoQekGPhMTcNuXvAECYSqXCA012YFtTeW1W7t/A6V+3qRvvkAj94EGIgdqD55tGkcKQf6AQA+eZLqfR1mAkz3oxQbluHoDGKbKC2AQogQrvYqicxwV6R5lGdsAnlx55RhaB2yH6HWx2Cw5+Xl4QGMAv4Old6OrFk5CWZO7LXwd4zMNxDMavEF2s/lxdh7LCIpeghKoYFLQ6/QqSLM0h9e7ysKBnlK8eDNz2Aa8sMpf/8kOHaOdXRwQqFxkrkY1f4hQjt5dnbpggkV8+BZSU65FfZr5BhBS4Kazt/hLC4/MZWs6NHh0mkaH2lehHwUxuT3w9TiNw=;TiJfVV7Zt/jspR63t5XGVg=="
 ---

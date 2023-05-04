@@ -1,33 +1,25 @@
 ---
 category: news
 title: "UK competition watchdog launches review of AI market"
-excerpt: "Sarah Cardell, chief executive of the UK Competition and Markets Authority, said the watchdog would examine so-called foundation models—such as the software underlying ChatGPT—and “how the markets around those models are developing."
-publishedDateTime: 2023-05-04T13:31:00Z
-originalUrl: "https://arstechnica.com/tech-policy/2023/05/uk-competition-watchdog-launches-review-of-ai-market/"
-webUrl: "https://arstechnica.com/tech-policy/2023/05/uk-competition-watchdog-launches-review-of-ai-market/"
-ampWebUrl: "https://arstechnica.com/tech-policy/2023/05/uk-competition-watchdog-launches-review-of-ai-market/amp/"
-cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/05/uk-competition-watchdog-launches-review-of-ai-market/amp/"
+excerpt: "CMA to look at underlying systems of artificial intelligence tools amid concerns over false information"
+publishedDateTime: 2023-05-04T12:19:00Z
+originalUrl: "https://www.theguardian.com/technology/2023/may/04/uk-competition-watchdog-launches-review-ai-market-artificial-intelligence"
+webUrl: "https://www.theguardian.com/technology/2023/may/04/uk-competition-watchdog-launches-review-ai-market-artificial-intelligence"
 type: article
-quality: 87
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Ars Technica
-  domain: arstechnica.com
+  name: The Guardian
+  domain: theguardian.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI
-
-images:
-  - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/05/uk-flag-finance-800x610.jpg"
-    width: 800
-    height: 610
-    isCached: true
 
 related:
   - title: "Britain's competition watchdog opens investigation into artificial intelligence market"
@@ -45,6 +37,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d66e500a-bd8d-48be-8e80-975a5c3cc1b8/1a40ac88-f811-4bef-b170-9f0ab28f6994/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Artificial intelligence market faces review from UK watchdog"
+    excerpt: "Britain’s competition watchdog is opening a review of the artificial intelligence market, focusing on the technology underpinning chatbots like ChatGPT"
+    publishedDateTime: 2023-05-04T11:02:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/artificial-intelligence-market-faces-review-uk-watchdog-99069593"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/artificial-intelligence-market-faces-review-uk-watchdog-99069593"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/artificial-intelligence-market-faces-review-uk-watchdog-99069593"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 57
+    images:
+      - url: "https://s.abcnews.com/images/International/wirestory_9b70db192513b71ed320975e1c42a8e5_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "UK competition regulator launches review of AI market"
     excerpt: "The UK Competition and Markets Authority is seeking to establish what consumer protections need to be placed on AI systems."
@@ -72,6 +80,6 @@ related:
       domain: bbc.co.uk
     quality: 17
 
-secured: "0apqD6MgXOECa5UX2aSWXn6jI1oMsVlgvJRZRZwyzznwm8poyaxXi7k9O16RfrF5gTdupI5KE6GMwDUkZVaRmjDZjfOpqjErEaQag99c4CAhMWwYXDcbd7IZum++5Pe4OXCT5CqdOXKwLHPWL2vlhFYhBqaGAnYoX+YcaPc0rsIyTsUTpwyMo6vjB0ypI7FrURQOkmMRngrTs9bbAtgWdb+vafAi9Nipo+Vnxlf6liviv2lZbq1Yf+ESH+f6ldqlVkm6KOaS4r/kc0UtPE+/r4yjxp3U1r/2s+4aOssksMbGrJJNByGxToIv9mk1DPhtOtp7xyRlDJ7BbALaCwBzJugG0vrId++wtqYK1xmz/uD0bWjLHNwcLTDlBSrG+3rJDsHr/jqiPEJp1NFU9+27IwSo52ajdBW0ne3nygiGrrqDCjXPzyhBRPnDDgIBpdH5UMY/pNuBKmwmumlGSSgwM81C/4rzSXhhg/MiOm27/FCkgVNAqCpKI7RSSTXaNoN8KYfnwHKisRZ3Kbdy3ABn3w==;VbV0L1BdlDHlJ1T7PSU66A=="
+secured: "OIls58ORul4VZVAslcYHPLse38T/2yDSsW20rQFprWgZ7Tvf029ngYQeDAwHUFVBjlG7vHjq6/Hu5WNQe5fVioyeyc+Ztrda1WEkxVx95mkpG7vtWupFzQcozgsu4KmaZiTiJ47iaGnKgeqQG4jyXm0aragTPLbC5lDFssdI4aCxAmOiXHghxaSTpIwOCY1jsf6J+joUWhHYwPMO0CQ0sDxuQJepuAvzw+LHwi20r/O+lU/CZcBWyLvu4OvlxPpQaxe6xnsGrJ9gqFqQxQocg/Z2bMkGUaRWGx3Utj5KfKLdTG05vxy91BhVegDD6vz7CjApGPcVkf7C1wU8nf/kz/mkLIq1vPo2dmr7l+vsOAwHXjgpGFNEjtymfbzzXrsvolO6V6sfE9j31HRlpg7gZxu3Wp+zwrvau0vfLX99YuLI9cD/o5e1awcKBX9IHKmWcFNUG7FGSZAqIMWy54nJGAugkcRf9oQByWR4P9fwc8Qr0AWOi5s+O5THs2iB8DWihk5oT/1ikcHKAyP6GxL38g==;MEOt5kkCIXPIkd5dU1/mTQ=="
 ---
 

@@ -44,22 +44,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "VP Harris to meet with CEOs about artificial intelligence risks"
-    excerpt: "Vice President Kamala Harris will meet on Thursday with the CEOs of four major companies developing artificial intelligence as the Biden administration rolls out a set of initiatives meant to ensure the rapidly evolving technology improves lives without putting people’s rights and safety at risk."
-    publishedDateTime: 2023-05-04T14:48:00Z
-    webUrl: "https://www.washingtontimes.com/news/2023/may/4/kamala-harris-to-meet-with-ceos-about-artificial-i/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2023/may/4/kamala-harris-to-meet-with-ceos-about-artificial-i/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2023/may/4/kamala-harris-to-meet-with-ceos-about-artificial-i/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 59
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2023/05/04/Biden_48332_c0-250-6000-3750_s1200x700.jpg?2cb823f519263a3e55a419724463fd44fb7f7c61"
-        width: 1200
-        height: 700
-        isCached: true
   - title: "White House unveils AI rules to address safety and privacy"
     excerpt: "It needs to be discussed in government.” Margaret Mitchell, chief ethics scientist at machine learning app vendor Hugging Face, said generative AI applications, such as ChatGPT can be developed for positive uses, but any powerful technology can also be ..."
     publishedDateTime: 2023-05-04T17:27:00Z
@@ -75,20 +59,6 @@ related:
       - url: "https://images.idgesg.net/images/article/2019/11/artificial_intelligence_ai_ml_machine_learning_abstract_gettyimages_by_dny59_959737582_by_kentoh_1042827860-100817845-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Harris to meet with CEOs about artificial intelligence risks"
-    excerpt: "Vice President Kamala Harris will meet with the CEOs of four major companies developing artificial intelligence. The Biden administration is rolling out initiatives meant to ensure the rapidly evolvin"
-    publishedDateTime: 2023-05-04T11:22:00Z
-    webUrl: "https://omaha.com/news/science/article_2be5fceb-7e7e-5b20-93a6-2fc9680f8df6.html"
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/d/da/dda7c97f-af2f-5ee4-a06d-19e464a12917/6453895152383.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
         isCached: true
   - title: "White House Must Take More Action To Address AI Concerns"
     excerpt: "Twitter The White House Blueprint for an AI Bill of Rights issued last October is a strong start to a government response to protect workers, families, and our democracy from the potential pitfalls of AI. The recent release of generative AI tools is ..."
@@ -119,6 +89,6 @@ related:
         height: 476
         isCached: true
 
-secured: "R4TMi0kSZIIacV8WQ9XWfxYBETRXFDzaTdUKso9RHdWgvATPsGMGh8faH8uh69y0vI/Q+0YZ+ZUq9foXko8wfg5LC15gB8yLRe0L4iozF10ez/4n7YTOoN3U6b6Z4Wab3Hao3tfRuTVz+w1PQP4bsCdG4RcVHjuzn9ZnhDpGvFC5+7+D3CjwNBi/3p0Vuzp+rf1A7Vdvpj+mCdX0PkzGRGeyMk9aheKuVaVwLpo+GnIFGCm+mXmi0HMzcfPIqhRajCaOqpkfzdWaN1u8Gs71vbUbsxM98fAkzne+WtHxJv12H2L+kN5rHI1c3NImvXzTxOh2Ve0tKj0nbujLG7I0t8kzs4wIG661ewpqPqkIjxo=;nWWdNxhjccx5t6muYg8QRw=="
+secured: "hBH6URbFrk0C4Yx6f0sXJWSL7zTh17Wl6JgTlTi79AO1oct/YFWbU+1+Nam/qAzEohx+5ju5WkPfzpujq7Oyaz7zfrIKt49sGvJSDi0DHAVbUZEPZ5MEqnHuelRHBV9hpn3xN0IcT4u1jTH9v6Nf+1KzfG7KDEeV+M9klLWhW9gjlfSO/mn1XdRV725Ypf2u+LL7PUoS02ByfMVAqm1S+br6iEmnA/QRwB2Rej469AUkbx66W/dImUr6X3mPhu04qu0JTYBp8NcOpZzMDnu6c3eS+LTCD0SjzRuP5nA37ESfQVWMpMCcUiDd5ryLmjVNmWdWXspiHUy8zDSFzm/eHHBQ/lHY9owxEgUK9IFtP/12szBH+jCWh56UfaUrciSdV5PEh9ZB5xOryopztcANfnsb4DShgbBW/RkewR9nKUu0OqiouETvdjAbNFl3crfCJF4X1TzCeMWAMkMuEF5OYX3HfLpkcwMo86zLG2k9h65/EKZAa50DSQve37JUqvwXHyKdcFv/frvT3kZtCrMuSA==;SMd7HQ88mhaljUF+yrpqFA=="
 ---
 

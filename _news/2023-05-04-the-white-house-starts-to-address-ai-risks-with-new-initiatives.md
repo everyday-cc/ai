@@ -7,7 +7,7 @@ originalUrl: "https://gizmodo.com/white-house-announce-ai-initiative-openai-micr
 webUrl: "https://gizmodo.com/white-house-announce-ai-initiative-openai-microsoft-1850403559"
 type: article
 quality: 67
-heat: 127
+heat: 107
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "VP Harris to meet with CEOs about artificial intelligence risks"
-    excerpt: "Vice President Kamala Harris will meet on Thursday with the CEOs of four major companies developing artificial intelligence as the Biden administration rolls out a set of initiatives meant to ensure the rapidly evolving technology improves lives without putting people’s rights and safety at risk."
-    publishedDateTime: 2023-05-04T14:48:00Z
-    webUrl: "https://www.washingtontimes.com/news/2023/may/4/kamala-harris-to-meet-with-ceos-about-artificial-i/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2023/may/4/kamala-harris-to-meet-with-ceos-about-artificial-i/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2023/may/4/kamala-harris-to-meet-with-ceos-about-artificial-i/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 59
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2023/05/04/Biden_48332_c0-250-6000-3750_s1200x700.jpg?2cb823f519263a3e55a419724463fd44fb7f7c61"
-        width: 1200
-        height: 700
-        isCached: true
   - title: "White House unveils AI rules to address safety and privacy"
     excerpt: "It needs to be discussed in government.” Margaret Mitchell, chief ethics scientist at machine learning app vendor Hugging Face, said generative AI applications, such as ChatGPT can be developed for positive uses, but any powerful technology can also be ..."
     publishedDateTime: 2023-05-04T17:27:00Z
@@ -75,20 +59,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/f7eb9b7ae2efb54e5f8ccbce13aed19e3f76803e/0_0_6431_3861/master/6431.jpg?width=620&quality=85&auto=format&fit=max&s=ad8bac99eb3bf3d060964213513541f7"
         width: 620
         height: 372
-        isCached: true
-  - title: "Harris to meet with CEOs about artificial intelligence risks"
-    excerpt: "Vice President Kamala Harris will meet with the CEOs of four major companies developing artificial intelligence. The Biden administration is rolling out initiatives meant to ensure the rapidly evolvin"
-    publishedDateTime: 2023-05-04T11:22:00Z
-    webUrl: "https://omaha.com/news/science/article_2be5fceb-7e7e-5b20-93a6-2fc9680f8df6.html"
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/d/da/dda7c97f-af2f-5ee4-a06d-19e464a12917/6453895152383.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
         isCached: true
   - title: "White House Must Take More Action To Address AI Concerns"
     excerpt: "Twitter The White House Blueprint for an AI Bill of Rights issued last October is a strong start to a government response to protect workers, families, and our democracy from the potential pitfalls of AI. The recent release of generative AI tools is ..."

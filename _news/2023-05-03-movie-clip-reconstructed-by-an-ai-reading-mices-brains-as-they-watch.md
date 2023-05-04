@@ -184,6 +184,15 @@ related:
       name: KXAN
       domain: kxan.com
     quality: 19
+  - title: "UT Austin researchers create artificial intelligence system capable of reading minds"
+    excerpt: "Researchers at the University of Texas at Austin have developed an artificial intelligence system that can read minds by translating a person's brain activity into a continuous stream of text. The study led by Alexander Huth,"
+    publishedDateTime: 2023-05-04T19:08:00Z
+    webUrl: "https://www.chron.com/news/houston-texas/article/university-of-texas-artificial-intelligence-18076875.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 10
 
 secured: "OvmkBFq3n8sFn7Ms+89KY2+Laioz0XV6Km6JDg0gr+yA+zYMTP13Es+GrmVfVLtJgeN2tRiMWTl6AHaN+Q3A+Ns6RxG7wlUaRAr2hGanVKiFqrD+zHMVWV1eFnjZLuQ0Vb7lSXTuihlNcizlwLh6mtO0qEMC42khIxdXEuFznAW/Y2ll4en2f0WO0G+62lTqtFnzxZkDPGAMYOceDbTXBmEa81nmx3M5rSlCnynrI9UCknek9DwximBkMGoWXSxmjJ3Vgu7yw8DNdG6BfY6ry1KxXdWS/u/58Sp1L+lNVqzXSP5bO62VGIOxidnLnlnOi04c80xTzqrwynemAd1n/bleD6JT2d+V5atRfinWgFk=;wNVqSU5E+q4MGJdau8acyQ=="
 ---

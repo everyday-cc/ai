@@ -19,91 +19,94 @@ topics:
   - AI
 
 related:
-  - title: "5 Amazing Ways How Meta (Facebook) Is Using Generative AI"
-    excerpt: "Explore how Meta utilizes generative AI to revolutionize advertising, chat, image generation, and natural language processing while shaping the future of the metaverse with immersive and accessible content creation."
-    publishedDateTime: 2023-05-02T06:29:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/05/02/5-amazing-ways-how-meta-facebook-is-using-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/05/02/5-amazing-ways-how-meta-facebook-is-using-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/05/02/5-amazing-ways-how-meta-facebook-is-using-generative-ai/amp/"
+  - title: "Get started with generative AI on AWS using Amazon SageMaker JumpStart"
+    excerpt: "Generative AI is gaining a lot of public attention at present, with talk around products such as GPT4, ChatGPT, DALL-E2, Bard, and many other AI technologies. Many customers have been asking for more information on AWS’s generative AI solutions. The aim of this post is to address those needs. This post"
+    publishedDateTime: 2023-05-04T18:11:40Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/get-started-with-generative-ai-on-aws-using-amazon-sagemaker-jumpstart/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: AWS
+      domain: aws.amazon.com
+    quality: 99
+  - title: "Bring your own ML model into Amazon SageMaker Canvas and generate accurate predictions"
+    excerpt: "Machine learning (ML) helps organizations generate revenue, reduce costs, mitigate risk, drive efficiencies, and improve quality by optimizing core business functions across multiple business units such as marketing, manufacturing, operations, sales, finance, and customer service. With AWS ML, organizations"
+    publishedDateTime: 2023-05-02T15:50:20Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/bring-your-own-ml-model-into-amazon-sagemaker-canvas-and-generate-accurate-predictions/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 98
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6450ac8062c3ef25fedc456e/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/02/byo-models-sagemaker-predictions.jpg"
+        width: 960
+        height: 479
         isCached: true
-  - title: "Generative AI Won’t Take Off Without 6G"
-    excerpt: "Although the sixth generation of broadband internet and mobile technology won’t emerge widely for a number of years, organizations are exploring business innovations for a more intelligent, immersive world."
-    publishedDateTime: 2023-05-02T12:18:00Z
-    webUrl: "https://www.forbes.com/sites/sap/2023/05/02/generative-ai-wont-take-off-without-6g/"
-    ampWebUrl: "https://www.forbes.com/sites/sap/2023/05/02/generative-ai-wont-take-off-without-6g/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2023/05/02/generative-ai-wont-take-off-without-6g/amp/"
+  - title: "Hosting ML Models on Amazon SageMaker using Triton: XGBoost, LightGBM, and Treelite Models"
+    excerpt: "One of the most popular models available today is XGBoost. With the ability to solve various problems such as classification and regression, XGBoost has become a popular option that also falls into the category of tree-based models. In this post, we dive deep to see how Amazon SageMaker can serve these"
+    publishedDateTime: 2023-05-02T21:41:00Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/hosting-ml-models-on-amazon-sagemaker-using-triton-xgboost-lightgbm-and-treelite-models/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: AWS
+      domain: aws.amazon.com
+    quality: 96
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64248ed36d63fa962ef43b0c/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/02/hosting-models-on-sagemaker-1260x630.jpg"
+        width: 1260
+        height: 630
         isCached: true
-  - title: "3 ways Generative AI is transforming the retail industry"
-    excerpt: "Microsoft Azure OpenAI and other Generative AI technologies are helping retailers jumpstart innovation, improve customer experience, and accelerate growth."
-    publishedDateTime: 2023-05-02T21:58:00Z
-    webUrl: "https://www.cio.com/article/475453/3-ways-generative-ai-is-transforming-theretail-industry.html"
-    ampWebUrl: "https://www.cio.com/article/475453/3-ways-generative-ai-is-transforming-theretail-industry.html/amp/"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/475453/3-ways-generative-ai-is-transforming-theretail-industry.html/amp/"
+  - title: "How Vericast optimized feature engineering using Amazon SageMaker Processing"
+    excerpt: "This post is co-written by Jyoti Sharma and Sharmo Sarkar from Vericast. For any machine learning (ML) problem, the data scientist begins by working with data. This includes gathering, exploring, and understanding the business and technical aspects of the data, along with evaluation of any manipulations"
+    publishedDateTime: 2023-05-03T15:17:59Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-vericast-optimized-feature-engineering-using-amazon-sagemaker-processing/"
     type: article
     provider:
-      name: CIO
-      domain: cio.com
-    quality: 59
+      name: AWS
+      domain: aws.amazon.com
+    quality: 86
     images:
-      - url: "https://www.cio.com/wp-content/uploads/2023/05/image-EVP-2-Retail-iStock-Asawin_Klabma-1.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 645
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/04/20/ML-13673_arch.png"
+        width: 975
+        height: 556
         isCached: true
-  - title: "Generative AI programs being used to create more convincing scams"
-    excerpt: "The Better Business Business Bureau is warning people to be on the lookout for more convincing phishing scams generated by artificial intelligence."
-    publishedDateTime: 2023-05-03T16:32:00Z
-    webUrl: "https://abc17news.com/news/crime/2023/05/03/generative-ai-programs-being-used-to-create-more-convincing-scams/"
+  - title: "Implement backup and recovery using an event-driven serverless architecture with Amazon SageMaker Studio"
+    excerpt: "Amazon SageMaker Studio is the first fully integrated development environment (IDE) for ML. It provides a single, web-based visual interface where you can perform all machine learning (ML) development steps required to build, train, tune, debug, deploy, and monitor models. It gives data scientists all"
+    publishedDateTime: 2023-05-03T16:07:41Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/implement-backup-and-recovery-using-an-event-driven-serverless-architecture-with-amazon-sagemaker-studio/"
     type: article
     provider:
-      name: ABC 17 News
-      domain: abc17news.com
-    quality: 39
+      name: AWS
+      domain: aws.amazon.com
+    quality: 72
     images:
-      - url: "https://abc17news.b-cdn.net/abc17news.com/2023/05/MGN_1280x960_30330B00-QFXGT.jpg"
-        width: 1280
-        height: 960
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/03/implement-backup-sagemaker-studio.jpg"
+        width: 956
+        height: 474
         isCached: true
-  - title: "In praise of Facebook"
-    excerpt: "First, please do not construe this article to praise the Facebook company or its leadership in any way. Their election-related machinations, forays into dangerous AI research and other sketchy practic"
-    publishedDateTime: 2023-05-03T13:31:00Z
-    webUrl: "https://www.hampshirereview.com/news/columnists/article_c84fb58e-e9b6-11ed-a373-57701fd2af23.html"
+  - title: "Question answering using Retrieval Augmented Generation with foundation models in Amazon SageMaker JumpStart"
+    excerpt: "Today, we announce the availability of sample notebooks that demonstrate question answering tasks using a Retrieval Augmented Generation (RAG)-based approach with large language models (LLMs) in Amazon SageMaker JumpStart. Text generation using RAG with LLMs enables you to generate domain-specific text"
+    publishedDateTime: 2023-05-02T15:44:03Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/question-answering-using-retrieval-augmented-generation-with-foundation-models-in-amazon-sagemaker-jumpstart/"
     type: article
     provider:
-      name: Hampshire Review
-      domain: hampshirereview.com
-    quality: 39
+      name: AWS
+      domain: aws.amazon.com
+    quality: 70
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/hampshirereview.com/content/tncms/assets/v3/editorial/2/bc/2bc66de2-fd27-11ec-94c2-575afd51e3a7/62c5801e6fa34.image.jpg?crop=850%2C446%2C0%2C321&resize=850%2C446&order=crop%2Cresize"
-        width: 850
-        height: 446
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/04/25/ML-13871-image001.jpg"
+        width: 898
+        height: 532
         isCached: true
-  - title: "Facebook Earnings, Generative AI and Messaging Monetization, Open Source and AI"
-    excerpt: "Meta’s earnings showed that all of Meta’s Myths were, in fact, myths. Plus, how LLMs can benefit Meta ad products, and why Meta might open source more AI models."
-    publishedDateTime: 2023-05-03T12:24:00Z
-    webUrl: "https://stratechery.com/2023/facebook-earnings-generative-ai-and-messaging-monetization-open-source-and-ai/"
+  - title: "Prepare image data with Amazon SageMaker Data Wrangler"
+    excerpt: "The rapid adoption of smart phones and other mobile platforms has generated an enormous amount of image data. According to Gartner, unstructured data now represents 80–90% of all new enterprise data, but just 18% of organizations are taking advantage of this data. This is mainly due to a lack of expertise"
+    publishedDateTime: 2023-05-01T18:28:55Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/prepare-image-data-with-amazon-sagemaker-data-wrangler/"
     type: article
     provider:
-      name: Stratechery
-      domain: stratechery.com
-    quality: 15
+      name: AWS
+      domain: aws.amazon.com
+    quality: 69
 
 secured: "bN0qNtXdEZWdHjclfGgtvsT5lWb4+Me1ymdy24MS7Xqfzlb4hCwGwoR8sF7FBY/yvNCHZ8qct1kHXJAq6BJm2TH++BGIUEw9IhKGr2bmfKdA+/c8G0WdIf8hZmcjeEssRWlrbVGF03eaV1rzCSO7l+NdZ3CQ5OtVrV8BGkYy0groqq5xsJ003eanCA5OzdXMKvUNpToUNSUPDy1nV+v9MQDsA9ZDNld8AkfJo3ijlyiAy3SDEvAcWQ9HZEuQm4XuD0MVh4l13rIFunfLCwrrJS07WFBah4zylpT33CWmmlK0tLNDKFiXfSsILlOzC1N6dcPpFgcnQvG4m7KVrn9RTyxp1KkB6Q7Wmgs65QEPFpdClCJiQs2vDX8pLAXLLpFCpnAgvYUYMDgSB2D7muiaD57z1F0E3wBjorm0OuefnuoW3OwGWcqpHa9BcBM+YlKJ9yoD8eqWhOVi3pT+2j8/CaGujBHx62THDbSoVgAwHKH5E7q3P7GCG84U8SgFSyXVWD6HOhu3wIPOiNInGLbwaA==;1bGUw5VDbI+oWgxT/wZSQQ=="
 ---

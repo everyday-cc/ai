@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/world/britains-competition-watchdog-opens-in
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/britains-competition-watchdog-opens-investigation-artificial-intelligence-market.amp"
 type: article
 quality: 94
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -30,21 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "UK competition watchdog launches review of AI market"
-    excerpt: "Sarah Cardell, chief executive of the UK Competition and Markets Authority, said the watchdog would examine so-called foundation models—such as the software underlying ChatGPT—and “how the markets around those models are developing."
-    publishedDateTime: 2023-05-04T13:31:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2023/05/uk-competition-watchdog-launches-review-of-ai-market/"
-    ampWebUrl: "https://arstechnica.com/tech-policy/2023/05/uk-competition-watchdog-launches-review-of-ai-market/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/05/uk-competition-watchdog-launches-review-of-ai-market/amp/"
+  - title: "Artificial intelligence market faces review from UK watchdog"
+    excerpt: "Britain’s competition watchdog is opening a review of the artificial intelligence market, focusing on the technology underpinning chatbots like ChatGPT"
+    publishedDateTime: 2023-05-04T11:02:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/artificial-intelligence-market-faces-review-uk-watchdog-99069593"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/artificial-intelligence-market-faces-review-uk-watchdog-99069593"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/artificial-intelligence-market-faces-review-uk-watchdog-99069593"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 87
+      name: ABC
+      domain: abcnews.go.com
+    quality: 57
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/05/uk-flag-finance-800x610.jpg"
-        width: 800
-        height: 610
+      - url: "https://s.abcnews.com/images/International/wirestory_9b70db192513b71ed320975e1c42a8e5_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "UK competition regulator launches review of AI market"
     excerpt: "The UK Competition and Markets Authority is seeking to establish what consumer protections need to be placed on AI systems."
@@ -70,6 +70,15 @@ related:
     provider:
       name: BBC
       domain: bbc.co.uk
+    quality: 17
+  - title: "UK competition watchdog launches review of AI market"
+    excerpt: "CMA to look at underlying systems of artificial intelligence tools amid concerns over false information"
+    publishedDateTime: 2023-05-04T12:19:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/may/04/uk-competition-watchdog-launches-review-ai-market-artificial-intelligence"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
     quality: 17
 
 secured: "hf37arp53kC24inB2esOS1k+pDxfgyRMvythGOnCztopbpUFBbC/d+Pw0Y64HVWjLTv+ejPYqIPPdAVnySOrd8LShHOF80+GCjn9RtRGlZPwgTJst/U0gAA+MUgXhqRK9X6vdy/qoXJih4e+8fYTC73wYvilAiAoQ3l0h9uuTfMpQoc+xjmDAEg1AzGkdPAgVKSSJ+oMVCZB6qqbT0prrdHNlWwMIvBIZf0YWiekuzkUzvSXD6m4RXYVWLex9t/VZF0Yao8Jom0asHXgxBLFJZDKpcMenTJPv2x2QCNkjry0Iop/H5LNXYLDEfqJo6LxdcH2gp/RQOqiphCdCZwsn8yWjQZV55bnBwOkmqKYHERN9EDYbauAvf0zA8k5+Kj1gPMGRCrncdD8bOKflddeM2du3gWg4+7YDC/V78qSziXXK/6PxwFP7QamHLOUmhHVJZ0tz1iPLRtTBpkBYu9pAidWIRRzWf1dVh4vQuIInhB4MEh5QwwbSSAaOxb2V2v9WoSrZBVDDI79PcsjbKKHvA==;DshdAw+cnkllKsJi3YQe9w=="

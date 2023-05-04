@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/outreach-initiatives/arts-culture/try-4-new-arts
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/arts-culture/try-4-new-arts-and-ai-experiments/amp/"
 type: article
 quality: 109
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -76,6 +76,15 @@ related:
     provider:
       name: Plastics News
       domain: plasticsnews.com
+    quality: 19
+  - title: "AI could run a million microbial experiments per year, says study"
+    excerpt: "An artificial intelligence system enables robots to conduct autonomous scientific experiments—as many as 10,000 per day—potentially driving a drastic leap forward in the pace of discovery in areas from medicine to agriculture to environmental science."
+    publishedDateTime: 2023-05-04T19:22:00Z
+    webUrl: "https://phys.org/news/2023-05-ai-million-microbial-year.html"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
     quality: 19
 
 secured: "009Vi0aaOYuRBIFDygC2ZWGhSkWnyIxxEZ9soI/M0UD6SSzYMqKBU/7jHSbkKfyzPn9GJfL1jpEPwsGj35t7c444FR2jnuMstQ8SaFw01S8lF9LELJ59QmCEx8zbBgO37KogDn7VpImWd06hhsj7xdSTlR+x4HaqyALnw0D1Ql8xd4vcfJ7RDS037e0mojp0vsD007uf0R2R7uQeIjAyLGtsAJYW00W566gx5CDIqieB9YTYwykjGjUT2ArE+Tx3T5Bwbhs6iOSCuK4O2bf1hejdW1TubrqDDUjTJDdzuJGc/7FyvT63CrmtPLWWWZ/lPsSmHIKqGnH05ihwrY9J1tSUx9N6adZEon52/CK2wq8=;LpZzvZmhWMoL5OMPIZVs9w=="

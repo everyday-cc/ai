@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/tech/flashback-stephen-hawking-warned-ai-end
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/flashback-stephen-hawking-warned-ai-end-human-race-years-leading-death.amp"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 2048
         height: 1250
         isCached: true
+  - title: "Scientists warn of AI dangers but don’t agree on solutions"
+    excerpt: "Margaret Mitchell, a former leader on Google’s AI ethics team, said she’s upset that Hinton didn’t speak out during his decade in a position of power at Google, especially after the 2020 ouster of prominent Black scientist Timnit Gebru, who had ..."
+    publishedDateTime: 2023-05-04T18:21:00Z
+    webUrl: "https://neworleanscitybusiness.com/blog/2023/05/04/scientists-warn-of-ai-dangers-but-dont-agree-on-solutions/"
+    type: article
+    provider:
+      name: New Orleans City Business
+      domain: neworleanscitybusiness.com
+    quality: 19
 
 secured: "sxC0pTyoiCUXmmT+3DSoDBXfPAdm8SmQNaXRiCc5Wn5+Dl5/TaNgi7VYun8a6+M/Z2nS0biEDAeBQ59gD5FCkXHkle+dYsQsdiFfQfB7n0sYYbJWxkDg0fVLdpUOa3gc12RjVYYze19IWrEgp0uEO3UvqjKq3/MSPV1aT/HNEjp7HUz+wRPwYgIn9rPpUPAK033knz9Pn/u0YenEgGBLPMze+M8WgIJmdue+n3jp8D6p9AfaEa64JaxWfnK6riWXb17i9WveowufPIMZ7pfEz7S+xH0qfuHzyaZkE1Hq0Z3Gts9242UY/yvwBUMTN5AV1mVE+B9/JXGuT9Xp95vdRLPjrAesxKUf6Yfby00NWJo=;FYpU08N9COTIlj4VxTyYew=="
 ---

@@ -109,6 +109,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Met Police considering using facial recognition technology for King's coronation"
+    excerpt: "The Metropolitan Police are considering deploying facial recognition technology to target those who may jeopardise the safety of the King's coronation. As the weekend looms, a Met briefing on security concerns took place on Wednesday after a man with a knife was arrested for throwing items,"
+    publishedDateTime: 2023-05-03T11:29:00Z
+    webUrl: "https://www.itv.com/news/2023-05-03/met-considering-using-facial-recognition-technology-for-kings-coronation"
+    type: article
+    provider:
+      name: ITV
+      domain: itv.com
+    quality: 14
 
 secured: "tDOm/zR5SnoK3tW1BsGROU1DZZBIePlWLjSWh9MLBlB127hFjCrfG2gOFwoWtW2PVDwbAQT24+fc6HhaenI12l68MgzYrDp2FLXfvp/dqaZiOvbLzs2fRjHUlfkF3c7BEASz5W7DUgysgTagOSeJ56d2XwOXok5CyEu2yugEAQlvZDNEH5ilKKDz0DTlt84iKUTZtJ6tvjVV7jXFQHvkqxOgikEvM2qj6BDWewqp/KCT1Wo6me1W6UwzvYMwDqAJZNiteM3KVZqkZwX0ehZhc4+Ce/DKKaK8S86d5CB+Nnu85XU8i+9mJv7SBSDvlBfOFldKQy2HIQwM8qGBHRy1Le6sx8WDVrBRjJwByAXLhEBuANi/lhzt5ZQgKQn5ixuyWkcf+xdHY1YIjtPtWEvOFTQPN4+wXYUkDAtbO2P3/+v+DceQPqgBLjyG2iWWlZbd3E356MTNA8enYddOF1wXIUnFghdid/vGkbQbHabe+fueaIBQy0f6pLO6lljrfghSZMwWAlR96EK9jiNCzz4HdQ==;U5c0wEfezUUwtvm9eLlxaA=="
 ---

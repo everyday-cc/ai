@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Insider Q&A: Aurora CEO Chris Urmson on self-driving trucks"
-excerpt: "The prospect of a driverless semi is scary to many ... A: We’ve used machine learning, artificial intelligence, to teach them how to drive the way that a good human driver does. If you’re just observing the truck and you’re passing it, you probably ..."
-publishedDateTime: 2023-05-04T17:33:00Z
-originalUrl: "https://wiscnews.com/business/insider-q-a-aurora-ceo-chris-urmson-on-self-driving-trucks/article_328d9a71-f1ac-5025-8250-2068e59bb784.html"
-webUrl: "https://wiscnews.com/business/insider-q-a-aurora-ceo-chris-urmson-on-self-driving-trucks/article_328d9a71-f1ac-5025-8250-2068e59bb784.html"
+excerpt: "A: We’ve used machine learning, artificial intelligence ... Q: Teslas on either Autopilot or “Full Self-Driving” using only cameras have crashed into emergency vehicles, motorcycles and other things. Why should we trust you folks when this keeps ..."
+publishedDateTime: 2023-05-04T18:06:00Z
+originalUrl: "https://fredericksburg.com/business/insider-q-a-aurora-ceo-chris-urmson-on-self-driving-trucks/article_74b0d4cd-6c5c-5450-b078-83f45085f7a7.html"
+webUrl: "https://fredericksburg.com/business/insider-q-a-aurora-ceo-chris-urmson-on-self-driving-trucks/article_74b0d4cd-6c5c-5450-b078-83f45085f7a7.html"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: WiscNews
-  domain: wiscnews.com
+  name: Fredericksburg.com
+  domain: fredericksburg.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/wiscnews.com/content/tncms/assets/v3/editorial/3/28/328d9a71-f1ac-5025-8250-2068e59bb784/6453ea6a6f082.preview.jpg?crop=1024%2C538%2C0%2C71&resize=1024%2C538&order=crop%2Cresize"
+  - url: "https://bloximages.chicago2.vip.townnews.com/fredericksburg.com/content/tncms/assets/v3/editorial/7/4b/74b0d4cd-6c5c-5450-b078-83f45085f7a7/6453ea5b161ec.preview.jpg?crop=1024%2C538%2C0%2C71&resize=1024%2C538&order=crop%2Cresize"
     width: 1024
     height: 538
     isCached: true
@@ -69,6 +69,15 @@ related:
         width: 1917
         height: 1278
         isCached: true
+  - title: "Driverless semis between Dallas and Houston? Aurora Driver CEO explains trucking plans along I-45"
+    excerpt: "The trucks will run on an autonomous driving system called the Aurora Driver, developed by Pittsburgh-based Aurora Innovation."
+    publishedDateTime: 2023-05-03T19:18:00Z
+    webUrl: "https://www.wfaa.com/article/news/local/insider-qa-aurora-ceo-chris-urmson-on-self-driving-trucks-autonomous/287-fe589d59-a52f-4269-9424-9531a24dcc87"
+    type: article
+    provider:
+      name: WFAA8
+      domain: wfaa.com
+    quality: 21
   - title: "Aurora CEO Chris Urmson on the Future of Self-Driving Trucks"
     excerpt: "The prospect of a driverless semi is scary to many, but not to Aurora Innovation CEO Chris Urmson, who helped to build Google’s autonomous vehicle unit."
     publishedDateTime: 2023-05-01T17:50:00Z
@@ -79,6 +88,6 @@ related:
       domain: ttnews.com
     quality: 4
 
-secured: "3elWw8uxJYSFDje18UQVNoztRrVjwFmT/XrI064tu0h6g2fbs+jVoR5dLcszSYt1SKDTz0/ODAGa3Z6C+FfyJ0Nx+MWYdY570LiYNCl3e0MR1jO0MZTQbMHm7QznoGjAGI4YqExyULxPRpYT14Fz9WT/uVmJtqb69xiC1KGdwhcyiToriYa8qYZuGV1uHqUZy2KRTVNch0nVSk4cDieZRMvYCva0LW0Qi2cE6EAto6cZgQeEDdnER7p/povrbZs3nhSyeh6md3IH+pWY0MicfpQSiWb05Q2U8eeXPlkbP0vP/U8UTbt6WSoVQAz4kkHi8izGZG06ZGWP1OYttm74D+i0jG1auDnA2QzJCPT6RT8=;s/6ZBseEMD8+OX1QlLAwqA=="
+secured: "UKGoNwSVuHvrlEuvt1ZSX1gQs23Z+2gDGGabz9I7FHFLYdJA0ApcyjE4YEJbu322iI/gdVj7Henh3c/5P0m8roF1MsL9fHK8x1kSd1jtTLYCY1PiS3xq0UpdF2nEvUnjxuACAdzsJCxK9y9/IWI0f5ZUjO1TvyWAwLVc4YwPYjB1FKuzw7btbaZn0q7YIDbHiU/06Asj5KZ+n0FsA6DLwyzVBbd0T8VwD8CV/92GsOH+pT+mM4QjAnHSMIwf2HRDPzhOf1uZ2qwxHfT32jvkxf9dXDQPC1V10HWGswp8bjSNAfo/qze4Vu4U8vWOEdg2cgzv24prqqli1mzAe65J8xwsVomoTm30DqJUuuwSAPk=;znny9/D2IAtI2+9Hq5BR6A=="
 ---
 

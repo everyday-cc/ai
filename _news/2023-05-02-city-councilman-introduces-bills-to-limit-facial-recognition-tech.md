@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Facial recognition: NYC bills would regulate controversial software"
+    excerpt: "One council member says they understand businesses such as bodegas and grocery stores need facial recognition for security, but how are they going to use it and not abuse it?"
+    publishedDateTime: 2023-05-04T12:14:00Z
+    webUrl: "https://www.fox5ny.com/news/facial-recognition-software-nyc-bills-introduced"
+    ampWebUrl: "https://www.fox5ny.com/news/facial-recognition-software-nyc-bills-introduced.amp"
+    cdnAmpWebUrl: "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/news/facial-recognition-software-nyc-bills-introduced.amp"
+    type: article
+    provider:
+      name: Fox 5 NY
+      domain: fox5ny.com
+    quality: 59
+    images:
+      - url: "https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2023/05/932/470/LS10-BANNING-FACIAL-RECOGNITION-SOFTWARE_00.00.11.58.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
+        isCached: true
   - title: "Legislation introduced to regulate facial recognition technology in Baltimore"
     excerpt: "The councilman's proposed legislation would require any new surveillance technology proposed by police departments be subject to approval by the City Council and community input."
     publishedDateTime: 2023-05-01T21:37:00Z
@@ -35,19 +51,21 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Questions raised over facial recognition use in Indian prisons"
-    excerpt: "Government agencies provide contradictory information on the introduction of facial recognition use in prisons amid rising scrutiny against the technology."
-    publishedDateTime: 2023-05-03T20:21:00Z
-    webUrl: "https://www.biometricupdate.com/202305/questions-raised-over-facial-recognition-use-in-indian-prisons"
+  - title: "First commercial smart gun with facial, fingerprint recognition launches"
+    excerpt: "I’ve never talked to a gun owner that wanted their kid to find their gun,” said Biofire Technologies founder and CEO Kai Kloepfer."
+    publishedDateTime: 2023-05-03T15:32:00Z
+    webUrl: "https://thehill.com/blogs/blog-briefing-room/3985666-first-commercial-smart-gun-with-facial-fingerprint-recognition-launches/"
+    ampWebUrl: "https://thehill.com/blogs/blog-briefing-room/3985666-first-commercial-smart-gun-with-facial-fingerprint-recognition-launches/amp/"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/blog-briefing-room/3985666-first-commercial-smart-gun-with-facial-fingerprint-recognition-launches/amp/"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 54
+      name: The Hill
+      domain: thehill.com
+    quality: 43
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/14130825/prison_bars.jpg"
-        width: 1200
-        height: 630
+      - url: "https://thehill.com/wp-content/uploads/sites/2/2023/05/Screen-Shot-2023-05-03-at-11.02.22-AM-e1683126220792.png?w=1280"
+        width: 954
+        height: 536
         isCached: true
   - title: "Plan to use facial recognition at JR East stations to spot ex-cons iced"
     excerpt: "East Japan Railway Co. has suspended a program to use facial recognition to track ex-convicts who turn up at its stations. A company official said Sept. 21 the decision was made “because a ..."
@@ -74,19 +92,19 @@ related:
       name: Governing
       domain: governing.com
     quality: 39
-  - title: "Baltimore Bill Would Curb Private, Police Use of Face Scan Tech"
-    excerpt: "Baltimore businesses and city government would face new limits on how they use facial-recognition technology under a City Council bill introduced Monday."
-    publishedDateTime: 2023-05-02T22:32:00Z
-    webUrl: "https://news.bloomberglaw.com/privacy-and-data-security/baltimore-bill-would-curb-private-police-use-of-face-scan-tech"
+  - title: "Turn to Tara: Facial recognition software could give your selfie to law enforcement"
+    excerpt: "New facial recognition software is apparently scraping the internet for your selfies and feeding them to law enforcement. Team 12 Investigative reporter Tara Rosenblum explains how an innocent profile picture on a social media account can become part of a ..."
+    publishedDateTime: 2023-05-04T11:23:00Z
+    webUrl: "https://longisland.news12.com/turn-to-tara-facial-recognition-software-could-give-your-selfie-to-law-enforcement"
     type: article
     provider:
-      name: news.bloomberglaw
-      domain: bloomberglaw.com
-    quality: 24
+      name: News 12 Networks
+      domain: news12.com
+    quality: 33
     images:
-      - url: "https://db0ip7zd23b50.cloudfront.net/dims4/default/2240526/2147483647/brightness/0x18/crop/7951x3055%2B0%2B144/resize/1919x740%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F0b%2Ff2%2F9c2c68574a8ea1cb52638af4e445%2Ffacial.jpg"
-        width: 1919
-        height: 737
+      - url: "https://images.ctfassets.net/3kqcuzntcg31/13FTYonT5HRQdQ1bGXuPLm/1bb67ce3d6d444c8482b5041a2f59b50/bc0896c0-4cfd-4ded-9a80-030fe0f02933.jpg?fit=thumb&w=600&h=340"
+        width: 600
+        height: 340
         isCached: true
   - title: "Baltimore Considers Restricting Facial Recognition Tech"
     excerpt: "Baltimore’s use of surveillance and facial recognition technology would face new restrictions under legislation introduced by a city councilman this week."
@@ -97,15 +115,6 @@ related:
       name: Government Technology
       domain: govtech.com
     quality: 19
-  - title: "Met Police considering using facial recognition technology for King's coronation"
-    excerpt: "The Metropolitan Police are considering deploying facial recognition technology to target those who may jeopardise the safety of the King's coronation. As the weekend looms, a Met briefing on security concerns took place on Wednesday after a man with a knife was arrested for throwing items,"
-    publishedDateTime: 2023-05-03T11:29:00Z
-    webUrl: "https://www.itv.com/news/2023-05-03/met-considering-using-facial-recognition-technology-for-kings-coronation"
-    type: article
-    provider:
-      name: ITV
-      domain: itv.com
-    quality: 14
 
 secured: "F9Jd12v5v4gvc6DPR9M/i0l4K6ok/IFKdgefE04gKSVbs2bBQQJV5rgPH3bz4yhElZTHPOyFp68IsS9D9bnzvJ4Hb12bfrTVsVYy+z27sUEnmtiqwkQ2mmC2VBYXaRU4e4BtYVV8ZG58ESOiEM6Qt+qDieoET7f6NVUN4PaS670aI7sQ3Md8TxHEUwa2Y8yzEoCS7fIr7Qqv36bAV6nhLPRyUApxeCx9gkym75XBZctfIqr+Ok+KiF5LomrRkyBmB1mi9q6oCtd90P2Dbf1oN0Cc5db84NG0zlW19Z1mfpYbiCRbaU8F3m6hVeHsb0QGt68MSZBqn4mZh/JIiPH4Z2dw4WCjWXU/JvEYNh+acbsfAZLOVhBzPaA1zWQ/3Vsu9yyCIwNO0WsmfXSpKcp2TTcy9fl2uIhtvJgOHlSr3xgvymVNvzv8DxpsMV/pmUCgLu4vjqBP/GQFZhrDi/tbU6zwJGjksVPWOwg3AhiIV3d3bVpmzdHbVfl/pZs3+rzJNUiCAQ5MbXZ+2algmmSRQA==;7OcMc5zoQBgWkdVTzDbe1g=="
 ---

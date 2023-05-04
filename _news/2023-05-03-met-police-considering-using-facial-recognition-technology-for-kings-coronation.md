@@ -19,93 +19,105 @@ topics:
   - AI
 
 related:
-  - title: "Legislation introduced to regulate facial recognition technology in Baltimore"
-    excerpt: "The councilman's proposed legislation would require any new surveillance technology proposed by police departments be subject to approval by the City Council and community input."
-    publishedDateTime: 2023-05-01T21:37:00Z
-    webUrl: "https://www.wmar2news.com/local/legislation-introduced-to-regulate-facial-recognition-technology-in-baltimore"
-    ampWebUrl: "https://www.wmar2news.com/local/legislation-introduced-to-regulate-facial-recognition-technology-in-baltimore?_amp=true"
-    cdnAmpWebUrl: "https://www-wmar2news-com.cdn.ampproject.org/c/s/www.wmar2news.com/local/legislation-introduced-to-regulate-facial-recognition-technology-in-baltimore?_amp=true"
+  - title: "Police accused over use of facial recognition at King Charles’s coronation"
+    excerpt: "Met says technology will not be used to target protesters or activists, but campaigners say use is ‘extremely worrying’"
+    publishedDateTime: 2023-05-03T21:34:00Z
+    webUrl: "https://www.theguardian.com/uk-news/2023/may/03/metropolitan-police-live-facial-recognition-in-crowds-at-king-charles-coronation"
+    ampWebUrl: "https://amp.theguardian.com/uk-news/2023/may/03/metropolitan-police-live-facial-recognition-in-crowds-at-king-charles-coronation"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/uk-news/2023/may/03/metropolitan-police-live-facial-recognition-in-crowds-at-king-charles-coronation"
     type: article
     provider:
-      name: wmar2news
-      domain: wmar2news.com
-    quality: 58
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
     images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/96db251/2147483647/strip/true/crop/640x360+0+60/resize/1280x720!/quality/90/?url=https%3A%2F%2Fmediaassets.abc2news.com%2Fphoto%2F2018%2F09%2F12%2F648987200-170667a_1536785599867_97280406_ver1.0_640_480.jpg"
-        width: 1280
-        height: 720
+      - url: "https://i.guim.co.uk/img/media/b8db4757a16c78241897d176d4991a39cfc6636f/0_576_8640_5184/master/8640.jpg?width=620&quality=85&auto=format&fit=max&s=358de4318acd68df80290c528e9dc6a6"
+        width: 620
+        height: 372
         isCached: true
-  - title: "Questions raised over facial recognition use in Indian prisons"
-    excerpt: "Government agencies provide contradictory information on the introduction of facial recognition use in prisons amid rising scrutiny against the technology."
-    publishedDateTime: 2023-05-03T20:21:00Z
-    webUrl: "https://www.biometricupdate.com/202305/questions-raised-over-facial-recognition-use-in-indian-prisons"
+  - title: "Police to use live facial recognition in crowds at King Charles coronation"
+    excerpt: "Met says technology will not be used to target protesters or activists, but campaigners say use is ‘extremely worrying’"
+    publishedDateTime: 2023-05-03T19:37:00Z
+    webUrl: "https://www.theguardian.com/uk-news/2023/may/03/metropolitan-police-live-facial-recognition-in-crowds-at-king-charles-coronation?ref=upstract.com"
+    ampWebUrl: "https://amp.theguardian.com/uk-news/2023/may/03/metropolitan-police-live-facial-recognition-in-crowds-at-king-charles-coronation"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/uk-news/2023/may/03/metropolitan-police-live-facial-recognition-in-crowds-at-king-charles-coronation"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/b8db4757a16c78241897d176d4991a39cfc6636f/0_576_8640_5184/master/8640.jpg?width=620&quality=85&auto=format&fit=max&s=358de4318acd68df80290c528e9dc6a6"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "Crown comes to Parliament in pre-coronation Charles visit"
+    excerpt: "Before the glory of his coronation weekend, King Charles III has visited Parliament to get a reminder that the monarch’s power has limits"
+    publishedDateTime: 2023-05-02T15:33:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/crown-parliament-pre-coronation-charles-visit-99011771"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/crown-parliament-pre-coronation-charles-visit-99011771"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/crown-parliament-pre-coronation-charles-visit-99011771"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 44
+    images:
+      - url: "https://s.abcnews.com/images/International/wirestory_077c71b57815a241a75068d9789b06d9_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Human rights campaigners criticise Met Police over plans to use facial recognition tech at coronation"
+    excerpt: "The use of live facial recognition would have a serious chilling effect on the right to free speech on a day when thousands will be considering celebrating or protesting. The technology is used to match human faces on images and live or pre-recorded video ..."
+    publishedDateTime: 2023-05-04T11:22:00Z
+    webUrl: "https://www.scotsman.com/read-this/human-rights-campaigners-criticise-met-police-over-plans-to-use-facial-recognition-tech-at-coronation-4130110"
+    type: article
+    provider:
+      name: The Scotsman
+      domain: scotsman.com
+    quality: 41
+    images:
+      - url: "https://www.scotsman.com/webimg/b25lY21zOmNiZmJlMTY2LTQ4ODktNGY1Yy1hMTljLTQyOTg3YThjNDFjOTo5OTEyYmJhNC1iNTgzLTQxOGUtYmUxMy02NGY3Njg2NTc5MmY=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Critics pan planned police use of facial recognition during King Charles’ coronation"
+    excerpt: "Police in London are deploying live facial recognition to watch over protestors and other attendees of the upcoming coronation of King Charles III."
+    publishedDateTime: 2023-05-04T15:26:00Z
+    webUrl: "https://www.biometricupdate.com/202305/critics-pan-planned-police-use-of-facial-recognition-during-king-charles-coronation"
     type: article
     provider:
       name: Biometric Companies
       domain: biometricupdate.com
-    quality: 54
+    quality: 32
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/14130825/prison_bars.jpg"
-        width: 1200
-        height: 630
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/01/04144353/public-facial-recognition-scaled.jpg"
+        width: 2048
+        height: 1152
         isCached: true
-  - title: "Plan to use facial recognition at JR East stations to spot ex-cons iced"
-    excerpt: "East Japan Railway Co. has suspended a program to use facial recognition to track ex-convicts who turn up at its stations. A company official said Sept. 21 the decision was made “because a ..."
-    publishedDateTime: 2023-05-02T00:00:00Z
-    webUrl: "https://www.asahi.com/ajw/articles/14445523"
+  - title: "Crown comes to Parliament in pre-coronation Charles visit"
+    excerpt: "Before the glory of his coronation weekend, King Charles III visited Parliament Tuesday, to get a reminder that the monarch’s power has limits. Charles and Camilla, the queen consort, attended a reception for lawmakers,"
+    publishedDateTime: 2023-05-02T17:35:00Z
+    webUrl: "https://www.aol.com/entertainment/crown-comes-parliament-pre-coronation-142757461.html"
     type: article
     provider:
-      name: 朝日新聞社
-      domain: asahi.com
-    quality: 39
-    images:
-      - url: "https://p.potaufeu.asahi.com/9a8b-p/picture/26381371/21aee2bafd45bc707daecdd7c7f36c8a.jpg"
-        width: 660
-        height: 381
-        isCached: true
-  - title: "Baltimore Considers Facial Recognition Restrictions"
-    excerpt: "Proposed legislation would require the police department to get approval before acquiring any new surveillance technology and would establish an oversight board to monitor the city’s use."
-    publishedDateTime: 2023-05-02T21:08:00Z
-    webUrl: "https://www.governing.com/security/baltimore-considers-facial-recognition-restrictions"
-    ampWebUrl: "https://www.governing.com/security/baltimore-considers-facial-recognition-restrictions?_amp=true"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/baltimore-considers-facial-recognition-restrictions?_amp=true"
-    type: article
-    provider:
-      name: Governing
-      domain: governing.com
-    quality: 39
-  - title: "Baltimore Bill Would Curb Private, Police Use of Face Scan Tech"
-    excerpt: "Baltimore businesses and city government would face new limits on how they use facial-recognition technology under a City Council bill introduced Monday."
-    publishedDateTime: 2023-05-02T22:32:00Z
-    webUrl: "https://news.bloomberglaw.com/privacy-and-data-security/baltimore-bill-would-curb-private-police-use-of-face-scan-tech"
-    type: article
-    provider:
-      name: news.bloomberglaw
-      domain: bloomberglaw.com
+      name: AOL
+      domain: aol.com
     quality: 24
     images:
-      - url: "https://db0ip7zd23b50.cloudfront.net/dims4/default/2240526/2147483647/brightness/0x18/crop/7951x3055%2B0%2B144/resize/1919x740%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F0b%2Ff2%2F9c2c68574a8ea1cb52638af4e445%2Ffacial.jpg"
-        width: 1919
-        height: 737
+      - url: "https://s.yimg.com/ny/api/res/1.2/dVKI4tF8bo1pxGOgOzrxZQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_associated_press_484/a5718b423eb5b81f75512bd1be2fee74"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Baltimore Considers Restricting Facial Recognition Tech"
-    excerpt: "Baltimore’s use of surveillance and facial recognition technology would face new restrictions under legislation introduced by a city councilman this week."
-    publishedDateTime: 2023-05-02T13:51:00Z
-    webUrl: "https://www.govtech.com/public-safety/baltimore-considers-restricting-facial-recognition-tech"
+  - title: "Facial recognition cameras set to scan crowds at King’s coronation as 11,500 police deployed"
+    excerpt: "The Metropolitan police is set to deploy live facial recognition cameras as part of ramped up security measures for King Charles III’s coronation. The force has said it intends to use the technology in central London and in order to identify people who may be deemed a threat to public safety."
+    publishedDateTime: 2023-05-03T13:13:00Z
+    webUrl: "https://inews.co.uk/news/facial-recognition-cameras-kings-coronation-police-deployed-2314018?ITO=msn"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 19
-  - title: "City councilman introduces bills to limit facial recognition tech"
-    excerpt: "WBAL NewsRadio 1090/FM 101.5 - New legislation could limit the use of facial recognition technology in Baltimore City."
-    publishedDateTime: 2023-05-02T12:46:00Z
-    webUrl: "https://www.wbal.com/article/609687/3/city-councilman-introduces-bills-to-limit-facial-recognition-tech"
-    type: article
-    provider:
-      name: WBAL
-      domain: wbal.com
-    quality: 19
+      name: i
+      domain: inews.co.uk
+    quality: 8
 
 secured: "j6EyCwLnfci3AL7H0Yv1e90saAs5mDBO/mCKPGRFxJivBcEx/yDXjwIDbRE0mPMP2Yaezqg1x5Nc3XcnsR0UPgZXF92F7GTMgQ2nhS6sIilrZLy+5X/aFOi18iTQDTbBXuwrOqPsyedwjJFfR+cJBvPJ8js6eV/LtZky7obPpSXPetV3hZZnRLdFiaXR6A9Pw25YHpWTNjmz4i12n6w1IcaHqATjPd4LBBwowmsbp8YTQwQhUXZ0m+tmVoWWAAZaeayA+u3QoQMGTLkh305uhPniSbJO0/k2Nm2RF+Ewt+oxZfkA+1BBRyFXRXUIJkyZ3nTXBDBEnQRz+yZuvq+CBt/stXNlPZ6pEpJi4Xj0iYgTUSHuu/yxDi8Xfed4UmKvitHiDDk+sLxWRpm9euuln20B2BKRKKY0LAxfRH7dVLumXIhbA7MQCVjA0YimJNE4PhNMqbi9XI2B+6GekS+tBYNjcDADt3CDkmo+APHQdhMiG0MHByGFXJbWXVyzdpJL9siRh6o1q61sLZ2IGR6c5w==;9htKH2QZ1IYS73awnO9bUw=="
 ---

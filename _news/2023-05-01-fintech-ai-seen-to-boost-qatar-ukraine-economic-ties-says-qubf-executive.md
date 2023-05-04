@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Qatar adopts speech recognition AI to boost prosecution efficiency"
+    excerpt: "Qatar has started to use AI speech-to-text technology in public prosecution to boost efficiency, local media reported Thursday, Trend reports citing Xinhua. The system will be used in criminal investigations and editing legal documents in addition to ..."
+    publishedDateTime: 2023-05-04T21:30:00Z
+    webUrl: "https://en.trend.az/world/arab/3744195.html"
+    type: article
+    provider:
+      name: Trend News Agency
+      domain: trend.az
+    quality: 54
+    images:
+      - url: "https://cdn.trend.az/2022/04/23/artificial_intelligence_ai_230422.jpg"
+        width: 941
+        height: 647
+        isCached: true
   - title: "Sidra Medicine To Host Qatar's First AI And Medicine Symposium"
     excerpt: "Sidra Medicine, a member of Qatar Foundation), will be hosting Qatar's first Artificial Intelligence and Medicine Symposi"
     publishedDateTime: 2023-05-01T07:34:00Z
@@ -33,6 +47,15 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "3Play Media Study Finds Artificial Intelligence Innovation Has Led to Significant Improvements in Automatic Speech Recognition (ASR)"
+    excerpt: "Play Media Study Finds Artificial Intelligence Innovation Has Led to Significant Improvements in Automatic Speech Recognition (ASR) ASR technology has never been as accurate as i"
+    publishedDateTime: 2023-05-03T12:53:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/05/03/9806777.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 3
 
 secured: "3xGpdAVY//k77Y9SnAQCq/kNJEdGnP2XWaGle2DWOq7bG6lxozc4UKiCTBP+xk+RptwnY6Bcpjw/4uPvcPTatIad8SDQArRbw++qlPM7Q8N/+dq0mWoTp8Ix+0T0TH8jjoDLbrO4p33aUgqMgKyA6z03fEKaoXZJPcC5VVNwXjpYQto7DekmhRydjLQTYEsAEBCv6w6KTGc3zdDY4mFQIj49WG516+ZJ2qQIjq8ytYZ7RgD5pX5KP+AWundd7+djrNGv8lhw7l8Zvi6k7qd2GvYg5GcSKS4p+zaWH1Wvxq9GKsXZdLwrZkF+C+DptwlM4xFEVKrMZWO4kEM6RZsy6jS64sqOMlhhznXoXcBH81RcwaTWO+rRLwpSR1F4GH4b7ERS+4k6nSvVgnr5XtPxhTt14QHK4wszQjmRMZI5sl6vZc2eGbRdi8L6htQs48mlnJUfhkLsTeM/30gljHmIuXry97SdcBTaVHiUUuPWjHqN5DLtzgiXDKzDVmPXJjy8FNhMQClDOiHs1RBe0evLog==;2MzK/6aAnRDFGl08CBcvpA=="
 ---

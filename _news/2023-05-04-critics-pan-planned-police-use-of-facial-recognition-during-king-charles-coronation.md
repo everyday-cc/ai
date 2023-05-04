@@ -101,6 +101,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Met Police considering using facial recognition technology for King's coronation"
+    excerpt: "The Metropolitan Police are considering deploying facial recognition technology to target those who may jeopardise the safety of the King's coronation. As the weekend looms, a Met briefing on security concerns took place on Wednesday after a man with a knife was arrested for throwing items,"
+    publishedDateTime: 2023-05-03T11:29:00Z
+    webUrl: "https://www.itv.com/news/2023-05-03/met-considering-using-facial-recognition-technology-for-kings-coronation"
+    type: article
+    provider:
+      name: ITV
+      domain: itv.com
+    quality: 14
   - title: "Facial recognition cameras set to scan crowds at King’s coronation as 11,500 police deployed"
     excerpt: "The Metropolitan police is set to deploy live facial recognition cameras as part of ramped up security measures for King Charles III’s coronation. The force has said it intends to use the technology in central London and in order to identify people who may be deemed a threat to public safety."
     publishedDateTime: 2023-05-03T13:13:00Z
@@ -111,6 +120,6 @@ related:
       domain: inews.co.uk
     quality: 8
 
-secured: "CuLRE5+Yfm3/L6aEyvkPeGvVveNPzp+crqVXOVPvOPCoLdAtXVQ4YHk9yDTKLBGXTaWUEQevM3qYs15aZhXu0pKtAMJW/sYildoHhyiL58jHj9Z06RquMnTSXnUSag2Zb/pMXeKogHgeQG55Mbg9IenWDa2/2O+V4Cl7X4aXLG83fdKVcqGKR9z+xPcqufoE4RBBuD9G4VF5eNoYxg+9hx/L3R4osJTmcugE0aonfUk3YxNY35rSzK7RanzhhKfKqlRC5HIPxmZl2OITDPk43EqtaGYoMIqxAxJIHXY21YF2xM/zGs4p5Tj+XmBbBT3AfvuN/RIEWyeZFxM4r4TUroxXyyEnr6cahFc32dXQMWU=;IvX0ROAJWm80ipj43rgAcQ=="
+secured: "Umy0xlt9i8SWT63vDEsXBV8DtN+O51yKsI2RTGU3LV8bI7mFG77HJZf0Trxhh8Dhr8QdE9Jh8Owf9h0Fz+oQ5GE0cpRZJgeR3oYU7f6W2L8bBLwSbg/al0i5a51MiYI5meHoDGlJ74x1Ndxqx1odv19yaVocOiz526vRQuxtfqypnpQLFAvtlxj6h9qmv2mrdguec/1cYEKqNmGalZnbgk+x1TZeaAlAbP4uGGwIWUpwx5rbNSCR5Q6cbRZDNd9YlL8yNSyMh73C1JROcF0C80DEP+17M5AN1swxm1h0Pzhlvu0dg2XtDVMXPWaIKIDTxD0ihWxQABBTabhduBqZFy0g2wI6d3MBlGlJ+hRwk2Y5ObwEqXsSFF/SS7TjBQggGJvcSPXRgtIiZZCxdcgpGT7Jn59A2e/AhH50QGIBgWJIQnEd/ftQHBMjwbDF1bB5dVL+7jR0ki0bB8GmRD8MN88bl2uZOib/rS50oCFY6KfewS7Bd1bWJkwGTpLEIirzOKJrRIu5UqapGGYJ20OLlw==;8Ws1tC7eto8MgDZcSzS5Tg=="
 ---
 

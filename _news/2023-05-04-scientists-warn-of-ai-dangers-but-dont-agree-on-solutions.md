@@ -40,6 +40,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Scientists warn of AI dangers but don’t agree on solutions"
+    excerpt: "Margaret Mitchell, a former leader on Google’s AI ethics team, said she’s upset that Hinton didn’t speak out during his decade in a position of power at Google, especially after the 2020 ouster of prominent Black scientist Timnit Gebru, who had ..."
+    publishedDateTime: 2023-05-04T18:21:00Z
+    webUrl: "https://neworleanscitybusiness.com/blog/2023/05/04/scientists-warn-of-ai-dangers-but-dont-agree-on-solutions/"
+    type: article
+    provider:
+      name: New Orleans City Business
+      domain: neworleanscitybusiness.com
+    quality: 19
 
 secured: "KGWgsxBkTVzCuQ8CobbUw0ndP7JpeeJlph0P/BsvsMDpCCXQ7LJptsD9yPeT6GYFgVsiYrUMT3WXLv9gRdiwo+9DyJQsqx3cc3X7aYjYT27GyjhYCuL0kYDZ7OK47ycofmmSf3oEnwdNkoEFGClPhf5L0VJtBCh15HTEpGMAZCq2v7KE7Q7iwvH7n67WIkAFiYs3D25HdmgaF4EE6TWmMgQhw3Q0Q8YM2cwozz5T2jNnUoiguAvOMsOCjEXQAo39ljZAFewp26q/BWZkwBQYKDb/ZVqa4Sij0E5AqZSaZo0ipVk9JETNYfJ5rztm9ziT/USsfvDb7zz63qK0xPKohclt89y1ql7TJY3rBlPMKwY=;PzHo/HdSmVRBadfqVlsHTw=="
 ---
