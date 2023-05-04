@@ -23,6 +23,15 @@ topics:
   - AI
 
 related:
+  - title: "Cool new way to grow 2D materials on silicon chips"
+    excerpt: "But semiconductor chips are traditionally made with bulk materials, which are boxy 3D structures, so stacking multiple layers of transistors to create denser integrations is very difficult. However, semiconductor transistors made from ultrathin 2D materials,"
+    publishedDateTime: 2023-05-04T09:32:00Z
+    webUrl: "https://www.materialstoday.com/nanomaterials/news/cool-new-way-to-grow-2d-materials-on-silicon-chips/"
+    type: article
+    provider:
+      name: Materials Today
+      domain: materialstoday.com
+    quality: 19
   - title: "MIT Engineers Revolutionize Semiconductor Chip Technology With Atom-Thin Transistors"
     excerpt: "A new low-temperature growth and fabrication technology allows the integration of 2D materials directly onto a silicon circuit, which could lead to denser and more powerful chips. Researchers from MIT"
     publishedDateTime: 2023-05-03T07:31:00Z

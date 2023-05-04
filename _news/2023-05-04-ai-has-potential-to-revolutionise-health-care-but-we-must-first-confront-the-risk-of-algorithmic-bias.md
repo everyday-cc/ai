@@ -22,21 +22,19 @@ topics:
   - AI Ethics
 
 related:
-  - title: "Parliament's Inadequate Response to the AI Revolution"
-    excerpt: "Blake Lemoine, a Google employee, made headlines by claiming that LaMDA, a chatbot created by Google, had achieved sentience and was able to mimic reality. The news generated both excitement, but also  panic among the tech community because sci-fi movies have traditionally depicted dystopian futures in which sentient machines end up having conflict with humans."
-    publishedDateTime: 2023-05-03T02:49:00Z
-    webUrl: "https://myrepublica.nagariknetwork.com/news/parliament-s-inadequate-response-to-the-ai-revolution/"
-    ampWebUrl: "http://myrepublica.nagariknetwork.com/amp/parliament-s-inadequate-response-to-the-ai-revolution/"
-    cdnAmpWebUrl: "https://myrepublica-nagariknetwork-com.cdn.ampproject.org/c/myrepublica.nagariknetwork.com/amp/parliament-s-inadequate-response-to-the-ai-revolution/"
+  - title: "Powering Justice: OpenNyAI and AWS team up for Plug-in Innovation Challenge to revolutionise public sector ODR"
+    excerpt: "Are you passionate about Online Dispute Resolution (ODR) and want to make a difference in the public sector? OpenNyAI and AWS have teamed up to launch the Plug-in Innovation Challenge, aimed at promoting ODR and encouraging innovation."
+    publishedDateTime: 2023-05-01T11:07:00Z
+    webUrl: "https://yourstory.com/2023/05/powering-justice-opennyai-aws-team-revolutionise-public-sector-odr"
     type: article
     provider:
-      name: myrepublica.nagariknetwork
-      domain: nagariknetwork.com
-    quality: 59
+      name: Your Story
+      domain: yourstory.com
+    quality: 34
     images:
-      - url: "https://myrepublica.nagariknetwork.com/uploads/media/Artificial-Intelligence-Trained-to-Find-New-Useful-Materials1_20220125163152.jpg"
-        width: 1200
-        height: 772
+      - url: "https://images.yourstory.com/cs/2/21ccd920843c11ec88170b5512a0f9d5/Image9tvr-1682929581598.jpg?fm=png&auto=format"
+        width: 800
+        height: 400
         isCached: true
 
 secured: "SB/3W7bSZJdxVmbcBEyhybvpSuUsqR+o8iBIJNhbIzqAAxiXs2rMZxJqx7zYLIkM7vMhRDF1kAtji+Weojs8QEAGyeDym5AGSEEuA41tugq38H7Ez9rN0y4WtE+v9ShFzU/UgCdts/7qbDdvQMRDhE/9ZA8RneUhG/vOxcs7VMd4M/xxmI7WjZaCnhbbMAubX3fKrAN2F2ybvFcCFK3qDfRAOh69rfCHZvO44e87xUNUQPbC6RgbwaHaAC/Q4xJ+zHccKN9bAOZFU4I56Kyxs1PoZgCA/pwGEsjOl/sPMOuzGLZMTK9FvJSBZdcSCfQLT2S8caztyNvbO+kOjqSp1Nt/Xh+5hp++wxau+2dqbGYp12H+rNp9i89YWAIG9Na2bOuR+cBq8cOnyym1L2PuWJOg8ZjgkwYGajjZ9RN5AUxjAaaWBG+hZJMM7rPg7RiJVvwEM5pAODdZM0HoY/gPhr4lTaNljwzs8O6oJnD8p4h6dCQ19/AXSS1TRXJikuveJNi7udtNlY6RusHs6BT+rA==;cKh0X/Qv/pi8IxCt00s2mw=="

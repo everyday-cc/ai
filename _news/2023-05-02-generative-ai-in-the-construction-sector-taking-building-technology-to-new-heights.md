@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/05/02/generativ
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/05/02/generative-ai-in-the-construction-sector-taking-building-technology-to-new-heights/amp/"
 type: article
 quality: 81
-heat: -1
-published: false
+heat: 131
+published: true
 
 provider:
   name: Forbes
@@ -30,86 +30,15 @@ images:
     isCached: true
 
 related:
-  - title: "How vector databases can revolutionize our relationship with generative AI"
-    excerpt: "By reducing the need to structure data, vector databases can speed up generative AI training times to dramatically improve our productivity."
-    publishedDateTime: 2023-04-30T22:21:00Z
-    webUrl: "https://venturebeat.com/ai/how-vector-databases-can-revolutionize-our-relationship-with-generative-ai/"
-    ampWebUrl: "https://venturebeat.com/ai/how-vector-databases-can-revolutionize-our-relationship-with-generative-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-vector-databases-can-revolutionize-our-relationship-with-generative-ai/amp/"
+  - title: "Code.org helping launch TeachAI to guide integration of artificial intelligence in education"
+    excerpt: "Seattle-based computer science education nonprofit Code.org is helping to launch TeachAI, a new effort aimed at guiding governments and educators on teaching with and about artificial intelligence. The initiative,"
+    publishedDateTime: 2023-05-02T13:00:00Z
+    webUrl: "https://www.geekwire.com/2023/code-org-helping-launch-teachai-to-guide-integration-of-artificial-intelligence-in-education/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2018/11/artificial-intelligence.shutterstock_1164239863.jpg?w=1200&strip=all"
-        width: 1200
-        height: 850
-        isCached: true
-  - title: "How Businesses Can Manage User-Generated Content With AI"
-    excerpt: "AI is playing a greater role in UGC, transforming the way businesses and consumers produce and consume digital media."
-    publishedDateTime: 2023-05-02T10:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/02/how-businesses-can-manage-user-generated-content-with-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/02/how-businesses-can-manage-user-generated-content-with-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/02/how-businesses-can-manage-user-generated-content-with-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63d00455752e4cf11c766efe/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "New breed of search with AI assist combines vector database and keywords"
-    excerpt: "The AI-enabled NeuralSearch from Algolia can understand the intent and context behind queries and deliver optimized results at lower cost."
-    publishedDateTime: 2023-05-03T20:27:00Z
-    webUrl: "https://venturebeat.com/ai/new-breed-search-with-ai-assist-combines-vector-database-keywords/"
-    ampWebUrl: "https://venturebeat.com/ai/new-breed-search-with-ai-assist-combines-vector-database-keywords/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/new-breed-search-with-ai-assist-combines-vector-database-keywords/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 86
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-1396158883.jpg?w=1200&strip=all"
-        width: 1200
-        height: 711
-        isCached: true
-  - title: "AI ‘could be as transformative as industrial revolution’"
-    excerpt: "UK’s outgoing chief scientist urges ministers to ‘get ahead’ of profound social and economic changes"
-    publishedDateTime: 2023-05-03T14:29:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/may/03/ai-could-be-as-transformative-as-industrial-revolution-patrick-vallance"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/03/ai-could-be-as-transformative-as-industrial-revolution-patrick-vallance"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/03/ai-could-be-as-transformative-as-industrial-revolution-patrick-vallance"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/a6eaef833556b81337c95f6e88a34a1b44407791/0_300_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=6c607e1e58ea849496f7dd45d0c4493e"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "Product Monkey AI Revolutionizes Product Management by Automating Engineering Task Creation"
-    excerpt: "Product Monkey AI, a new tech startup, has launched a platform designed to make product managers in tech companies more efficient by automating the creation of engineering tasks from product design files."
-    publishedDateTime: 2023-05-02T15:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/05/n32163373/product-monkey-ai-revolutionizes-product-management-by-automating-engineering-task-creation"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32163373"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32163373"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 47
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
+      name: GeekWire
+      domain: geekwire.com
+    quality: 68
   - title: "Teradata operationalises AI with Google Vertex AI integration"
     excerpt: "Teradata has announced services enabling organisations to accelerate Ai-driven digital transformation initiatives. The connected multi-cloud data platform"
     publishedDateTime: 2023-05-02T14:20:00Z
@@ -124,24 +53,40 @@ related:
         width: 726
         height: 410
         isCached: true
-  - title: "How Chip Design Was Revolutionized by AI-Enhanced Game Play"
-    excerpt: "The Untold Story of How Google’s AlphaGo Inspired Synopsys Engineers to Transform Electronic Design Automation with Deep Reinforcement Learning When"
-    publishedDateTime: 2023-05-02T06:21:00Z
-    webUrl: "https://www.design-reuse.com/industryexpertblogs/53964/how-chip-design-was-revolutionized-by-ai-enhanced-game-play.html"
+  - title: "Generative AI and sustainability are driving investment in the tourism technology segment, Plug and Play experts tell attendees at ATM 2023"
+    excerpt: "Advances in artificial intelligence are facilitating trip planning for travellers, as well as the automation of refunds, back-office processes and content creation"
+    publishedDateTime: 2023-05-04T09:19:00Z
+    webUrl: "https://www.zawya.com/en/press-release/events-and-conferences/generative-ai-and-sustainability-are-driving-investment-in-the-tourism-technology-segment-plug-and-play-experts-tell-attendees-at-atm-2023-mzstnhb8"
+    ampWebUrl: "https://www.zawya.com/en/press-release/events-and-conferences/generative-ai-and-sustainability-are-driving-investment-in-the-tourism-technology-segment-plug-and-play-experts-tell-attendees-at-atm-2023-mzstnhb8?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/events-and-conferences/generative-ai-and-sustainability-are-driving-investment-in-the-tourism-technology-segment-plug-and-play-experts-tell-attendees-at-atm-2023-mzstnhb8?amp=1"
     type: article
     provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 34
-  - title: "How Midsize Companies Can Keep Up with AI"
-    excerpt: "Right now, many businesses are reacting to generative AI in a vacuum. But individual innovations shouldn’t be approached with a narrow, short-term focus, as midsize companies that chase each new trend will find themselves over-committed and under-prepared when that trend wears off."
-    publishedDateTime: 2023-05-03T12:15:00Z
-    webUrl: "https://hbr.org/2023/05/how-midsize-companies-can-keep-up-with-ai"
+      name: Zawya
+      domain: zawya.com
+    quality: 25
+    images:
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/Y2I3ZWI2ZmItM2Y5MC00/0/tech-session-1-jpg.jpeg?f=3%3A2"
+        width: 759
+        height: 506
+        isCached: true
+  - title: "Box embeds generative AI into its Content Cloud"
+    excerpt: "Announced at Box’s Content Cloud Summit today, Box AI is billed as a suite of AI capabilities that will primarily focus on two things: helping users to ask questions about documents and creating new content in Box."
+    publishedDateTime: 2023-05-02T12:00:00Z
+    webUrl: "https://siliconangle.com/2023/05/02/box-embeds-generative-ai-content-cloud/"
     type: article
     provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 17
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 19
+  - title: "Smartling’s Patent-Pending Technology Enables Breakthroughs in Translation Using AI"
+    excerpt: "Smartling, Inc. today announced the introduction of patent-pending technology that brings human-quality machine translation closer to reality."
+    publishedDateTime: 2023-05-03T17:59:00Z
+    webUrl: "https://slator.com/smartling-patent-pending-technology-enables-breakthroughs-translation-using-ai/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 13
 
 secured: "3LoTvTz2Ditz5n+Iz7TpjWis+31mTCYpQIZlNODXq+LsAstCsTWxPfjSfEBT/RAu1fH+Gs2ymq5zWHV2pQwRKiHehV3nf9caNvlgnDgP3X0AKz1oEr/XEJkjDUvLcWPkrk9eNJUxPIG6+V3u3bpguhb/PTKfLcTZc2yhS8pT+q7bx2OI1lAAb1UXOc+tLBLu4JhaGROknADz4KqGPPiPCAfR+V0RNIiAxsa/pePWEPu/i9zQK+ChBTV+cC17fmDxQiXb5x4E5MRMNI410ERDwFGsWjEvEq6RJIeay3L3SiS18ikKatymGHZpo0/Wg3+n/eNLGwHmWP8D8XYn43GAiYHiu0jaoQwvoDy1cEmvQAY=;152nBLt+MY/XZO68mhg0Ow=="
 ---

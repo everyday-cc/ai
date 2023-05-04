@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Understanding the risks of generative AI for better business outcomes"
-    excerpt: "Understand the risks to security, privacy and more of generative AI and the precautions you can take to mitigate them."
-    publishedDateTime: 2023-04-29T16:10:00Z
-    webUrl: "https://venturebeat.com/ai/understand-risks-generative-ai-better-business-outcomes/"
-    ampWebUrl: "https://venturebeat.com/ai/understand-risks-generative-ai-better-business-outcomes/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/understand-risks-generative-ai-better-business-outcomes/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1209661950-e1666828949345.jpg?w=1200&strip=all"
-        width: 1200
-        height: 595
-        isCached: true
   - title: "How Generative AI Can Affect Your Business’ Data Privacy"
     excerpt: "If a business enters any client, customer or partner information into a chatbot, that AI may use that information in ways that businesses can’t reliably predict."
     publishedDateTime: 2023-05-01T14:15:00Z
@@ -62,31 +46,82 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "We must perfect predictive models for generative AI to deliver on the AI revolution"
-    excerpt: "To accelerate the AI revolution, we shouldn’t abandon “old school AI” for flashier generative AI. Why we should perfect predictive AI."
-    publishedDateTime: 2023-04-30T23:09:00Z
-    webUrl: "https://venturebeat.com/ai/we-must-perfect-predictive-models-for-generative-ai-to-deliver-on-the-ai-revolution/"
-    ampWebUrl: "https://venturebeat.com/ai/we-must-perfect-predictive-models-for-generative-ai-to-deliver-on-the-ai-revolution/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/we-must-perfect-predictive-models-for-generative-ai-to-deliver-on-the-ai-revolution/amp/"
+  - title: "How vector databases can revolutionize our relationship with generative AI"
+    excerpt: "By reducing the need to structure data, vector databases can speed up generative AI training times to dramatically improve our productivity."
+    publishedDateTime: 2023-04-30T22:21:00Z
+    webUrl: "https://venturebeat.com/ai/how-vector-databases-can-revolutionize-our-relationship-with-generative-ai/"
+    ampWebUrl: "https://venturebeat.com/ai/how-vector-databases-can-revolutionize-our-relationship-with-generative-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-vector-databases-can-revolutionize-our-relationship-with-generative-ai/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 81
+    quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1347040940.jpg?w=1200&strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2018/11/artificial-intelligence.shutterstock_1164239863.jpg?w=1200&strip=all"
         width: 1200
-        height: 631
+        height: 850
         isCached: true
-  - title: "Unlocking The Power Of Generative AI: Exploring Business Models And Dispelling Fears"
-    excerpt: "If there’s one topic that’s dominated the news cycle in 2023, it’s generative AI. This field of technology has experienced a tremendous surge in growth and popularity in recent months, with services like ChatGPT, Dall-E and Stable Diffusion held up as powerful new tools to help humanity—or to doom it."
-    publishedDateTime: 2023-05-03T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/03/unlocking-the-power-of-generative-ai-exploring-business-models-and-dispelling-fears/"
+  - title: "How Businesses Can Manage User-Generated Content With AI"
+    excerpt: "AI is playing a greater role in UGC, transforming the way businesses and consumers produce and consume digital media."
+    publishedDateTime: 2023-05-02T10:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/02/how-businesses-can-manage-user-generated-content-with-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/02/how-businesses-can-manage-user-generated-content-with-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/02/how-businesses-can-manage-user-generated-content-with-ai/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 40
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63d00455752e4cf11c766efe/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Leveraging The Power Of AI As A Small Business"
+    excerpt: "AI language models can help small businesses optimize their marketing, but they have limitations that every business owner should be aware of."
+    publishedDateTime: 2023-05-03T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/03/leveraging-the-power-of-ai-as-a-small-business/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/03/leveraging-the-power-of-ai-as-a-small-business/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/05/03/leveraging-the-power-of-ai-as-a-small-business/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/642b0f04743b6df49adeb166/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "How democratised Machine Learning can transform your business"
+    excerpt: "Let’s dispel a misconception. Artificial intelligence (AI) and machine learning (ML) are often seen as beyond the reach of businesses without data scientists and ML engineers. As we explored in chapter six of AWS eBook Innovate With AI/ML To Transform Your Business,"
+    publishedDateTime: 2023-05-03T23:00:00Z
+    webUrl: "https://www.smartcompany.com.au/partner-content/articles/how-democratised-machine-learning-can-transform-your-business/"
+    type: article
+    provider:
+      name: SmartCompany
+      domain: smartcompany.com.au
+    quality: 41
+    images:
+      - url: "https://www.smartcompany.com.au/wp-content/uploads/2023/05/AWS-AI-article-4-1466x710-1.png?fit=1466%2C710"
+        width: 1466
+        height: 710
+        isCached: true
+  - title: "EU’s AI legislation aims to protect businesses from IP theft"
+    excerpt: "A new draft of EU artificial intelligence (AI) legislation could better protect business IP from being secretly scraped by AI firms, with developers facing new transparency obligations on copyrighted content."
+    publishedDateTime: 2023-05-02T09:34:00Z
+    webUrl: "https://www.techcentral.ie/eus-ai-legislation-aims-to-protect-businesses-from-ip-theft/"
+    type: article
+    provider:
+      name: Mozilla
+      domain: techcentral.ie
+    quality: 39
+    images:
+      - url: "https://www.techcentral.ie/wp-content/uploads/2021/11/european_commission_nov_2021.jpg"
+        width: 620
+        height: 349
+        isCached: true
   - title: "The Clash Of Generative AI And Intellectual Property Law: What It Means For Businesses"
     excerpt: "Autoencoders use two AI programs: An encoder, which reduces work to a small representation called \"latent vectors,\" and a decoder that then attempts to expand the latent vectors back into the original work; the difference between the two is used to train the system to generate new material and modify input material."
     publishedDateTime: 2023-05-03T13:00:00Z
@@ -96,6 +131,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 39
+  - title: "Centene divests artificial intelligence business"
+    excerpt: "Centene Corp. is selling an artificial intelligence business it purchased just over two years ago, the company said Wednesday."
+    publishedDateTime: 2023-05-03T17:53:00Z
+    webUrl: "https://www.stltoday.com/business/local/centene-divests-artificial-intelligence-business/article_d1afc9f8-e9c4-11ed-9c11-b33b497886c5.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 19
 
 secured: "OoajmPMYrgFkxJm8VuzTNRKkJbi0AWBeC9NV4QWGFk9VJs6IFeqi8Ud7Dt6eljqhIS9Jc7ow48pdrU8JyVHspOUgxKSkm8f08lTQ6nwOJyHs6n64BwsUjpK66EZkYv21ncNJOOr8Bes8/xSi8zT3GVLSVocKj8VnnHE8/9NhEaxJOjmMK15lYfdaAxsiSi2q8oxB06H8A0v2WfXQ2Ke+TT+ELdarOuH0nqPMc3q6ZTnDn1Ym+jRphKmjasuZiKVLkvk1kM3EleuIJNyGTNw0FDPmLMIsjLx577DI64rQJwR5GPim/+XAL6dnT6oIo+XyJQ2fEwAM3KA6g8mOw0lBq4fSQtG7hYVOOylG9d5iHXm5QrLaP48TcNnvp90LmqVqGE6ihclubNFgFjAJtha0wVXCnLC3c9r/1wyulfw3rLiz4e2k7CPT810M/HeDeyw8naOrz1/OT4kHRafikBaIOoTWZI9tRxyHWjZIXLgmSLt5Y1tawJ6sHlBCdX0/XTzOLV6f+cyZADtcVw8GGVGlVw==;moYWO8OOhANVfmuQWO0kbA=="
 ---

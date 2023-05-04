@@ -9,7 +9,7 @@ ampWebUrl: "https://www.medindia.net/amp/news/how-does-hiv-drug-help-protect-aga
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/how-does-hiv-drug-help-protect-against-build-up-of-dementia-211583-1.htm"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 300
     height: 250
     isCached: true
-
-related:
-  - title: "HIV drug may help fight dementia — and other good news you may have missed"
-    excerpt: "Turn off the cable news and tune out the doom and gloom — and get ready for your weekly dose of “good news.” Here are this week’s best feel-good stories from Yahoo News partners."
-    publishedDateTime: 2023-04-29T15:52:00Z
-    webUrl: "https://www.aol.com/news/hiv-drug-may-help-fight-125016934.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 22
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/QAQMz.dWCOdlVf0o_9Ysqg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_yahoo_news_184/fd8c7e89310f714d9ad1486b9cc6d9b7"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "zUnsEX/v948Oj9CtwuYu5o+F37B0UAmOfzospumzH1pdztd45wZV7emLoyFfyfxY62WskeAnxiwPMUKg8iVZ2H7ycURHTASVmYHme88uRxEmxgU9ejMtkJI5aALXT3SzWf4YfvY0mCB4HzETYZuhKdb6F7TBW4O3y77B+5SX3+euec60KJEELjr1lUywcJRVBFMm5zkOEjVcZSsFbpc05QeESmE0ictRp1HQXC9/owYSm/7z4qjg39kHudFFSF5TAGwbeselJJQx4iNuD6kS94m1M3JOGNBecPh/ZG1jUt48fwomAyeEcIV49pchiLzoiaeNrOIKuKvLSRgWC2ppV2+rkQzOr+uhKvP/vkdHg1A=;1McMHfNw+nSsfCnWW6eTAw=="
 ---

@@ -391,6 +391,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "With the Rise of ChatGPT, VC Latches on to AI"
+    excerpt: "More than a third of venture capitalists believe artificial intelligence will generate the most growth of all sectors in tech, according to PitchBook."
+    publishedDateTime: 2023-05-01T20:31:00Z
+    webUrl: "https://www.institutionalinvestor.com/article/b8yjqzxwx1nk84/With-the-Rise-of-ChatGPT-VC-Latches-on-to-AI"
+    type: article
+    provider:
+      name: Institutional Investor
+      domain: institutionalinvestor.com
+    quality: 39
+    images:
+      - url: "https://www.institutionalinvestor.com/media/AMG/II/articles/1/1/1/art_machine050123.jpg"
+        width: 1000
+        height: 650
+        isCached: true
   - title: "Artificial intelligence or active imagination with ChatGPT?"
     excerpt: "When a journalist and historian attempted to see if his own research would be sourced by AI, he was intrigued by some of the responses he got from a text-generating artificial chatbot"
     publishedDateTime: 2023-05-01T01:00:00Z

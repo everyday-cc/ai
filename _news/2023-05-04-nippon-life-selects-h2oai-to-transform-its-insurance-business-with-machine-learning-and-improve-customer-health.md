@@ -1,22 +1,18 @@
 ---
 category: news
 title: "Nippon Life Selects H2O.ai to Transform Its Insurance Business With Machine Learning and Improve Customer Health"
-excerpt: "H2O.ai, the AI Cloud leader, today announced a strategic partnership with Nippon Life Insurance Company, also known as Nissay in Japan. Specifically, the companies are announcing a partnership where Nippon Life Insurance Company will deploy H2O Driverless AI tools to better meet the needs of their policyholders,"
-publishedDateTime: 2023-05-03T20:00:00Z
-originalUrl: "https://www.marketwatch.com/press-release/nippon-life-selects-h2oai-to-transform-its-insurance-business-with-machine-learning-and-improve-customer-health-2023-05-03"
-webUrl: "https://www.marketwatch.com/press-release/nippon-life-selects-h2oai-to-transform-its-insurance-business-with-machine-learning-and-improve-customer-health-2023-05-03"
+excerpt: "\"AI is transforming the trillion dollar healthcare insurance industry, both the businesses themselves and the care they facilitate,\" said Sri Ambati, CEO and founder of H2O.ai. \"By helping Nippon Life advance their AI initiatives and create better customer experiences,"
+publishedDateTime: 2023-05-03T20:10:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/05/03/9807216.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/05/03/9807216.htm"
 type: article
-quality: 65
-heat: 75
-published: true
+quality: 35
+heat: 35
+published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Autos
@@ -24,27 +20,11 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
+    width: 550
+    height: 353
     isCached: true
 
-related:
-  - title: "Business Transformations in 2023 with Artificial Intelligence"
-    excerpt: "Conversational dialogues between humans and ChatGPT are mimicked by OpenAI. Industries anticipate it will be used more widely as an office assistant"
-    publishedDateTime: 2023-05-02T09:48:00Z
-    webUrl: "https://www.cioapplications.com/news/business-transformations-in-2023-with-artificial-intelligence-nid-10608.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 37
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/w7t62cioapp450-308.jpg"
-        width: 450
-        height: 308
-        isCached: true
-
-secured: "Dj8Kyj4inmIr/u1dPrPgDcaM9ZyULnNJYcKrOxQDtqCvBxHCRq963fW6TmVN6N2SMqTrUya0g3VIoS91MUSrEvcTJiWyfOZsm+h3sUsrTpAwLm/3mthSf9vSJW5C8i1j05H9ixKEETJCcJIOOAbOD2jqU2+KYATFuycrwZSXNhXu3XYLWNE0QCxEo9xY/RarGSXL4EqEY3Iw4vz2JwCgs1z7Sxy8+oCp+wmepkdT80NHXX4uddRhyPCHDBvPIjJ0FtQ3n8AEaYd6JgXOHygaBf0+ARRD7ZuTDsagUqoXAYx9yDsl2U3RRSHgLyqyBiYknCcVIDUs6BrgogZZiPgHvQubIkvfiytO+JI3Gw7uDd8=;al7/37ynsED3BkOJXZbmdg=="
+secured: "ECFGxcNwB2cVPtlNs9stvwuUAPeVVQzFwn9hqb/CeOmu27JtOiSB9/FxEQo/yYpt2n+B8IZG0R8OfSfgs4oh/qR6EgFySEyBWE+H6pD+Ltp5RTMrwFQmrOU42AHu9zxPp6cryjwD1lZycGyWR9kwo9SJbLZPTIpUfdcW3Odwmo40NrRQqoAYsFCkvE3A2ErzAhql8zTt35oanQEKbwZkSg16YiETkpfD+5qm6+xqlXhOdXYB2km9mosTRrCLflmLPG1Af8c5W+6KqDrj1SgGDUib31NOxTVhXrfLgQsaURTxHrvuXvOIr9E6twSO5WCvSIS8dUvt0F2MuWJfOITdslRoNw3jqiw1xNnSgZyh7zI=;XWNOnVQrO4CpUO2hQusrwA=="
 ---
 

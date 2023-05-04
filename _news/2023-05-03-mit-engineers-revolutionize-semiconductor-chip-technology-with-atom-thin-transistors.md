@@ -28,6 +28,15 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
+  - title: "Cool new way to grow 2D materials on silicon chips"
+    excerpt: "But semiconductor chips are traditionally made with bulk materials, which are boxy 3D structures, so stacking multiple layers of transistors to create denser integrations is very difficult. However, semiconductor transistors made from ultrathin 2D materials,"
+    publishedDateTime: 2023-05-04T09:32:00Z
+    webUrl: "https://www.materialstoday.com/nanomaterials/news/cool-new-way-to-grow-2d-materials-on-silicon-chips/"
+    type: article
+    provider:
+      name: Materials Today
+      domain: materialstoday.com
+    quality: 19
 
 secured: "jOQNqjGfMutnLfRBBoHIVTiH9ho61n2SARdJAC5LkNdMuBsnpOAIiMpEbu1hnmRE2fD3FQV5GrnK96oMA3x4zHqZ0UjZoAxkpVEusZ7kzEvxC+ZGKUC6wQTYFnWNA6p/GALaDGSmwC6Xo1fX6S2LZbQYtAumQVevh7fmsI9FNpW21z1yqhAp6+iDpbjSAqi2Ftbj20IkQktC7H2gVL5esVYNUN7cDpjUVPEjr1SQS7lNHzbgQCtChmMP6oUK5Fnoo86BLoTawBL153L/dPBiYyFT9nIzvHdAD11mjw/sJevAUOOUP5Q1/auZVcCXz7MHhOQMgjQVDDbaG9BOL6AveuL/Gf7aAELs+uYNc6Rmm4rQEvopnyTw+ZmNXIQdu7C0U7kDYbtGFIpOv7TdjG+sV7drXz6+2eXNyc3wXdlW7csOr+jDZ7jBTQUW+5Pf+J65gJtFtKXRfRjjbB1F9IfMMnVE9hKXaeZl5JS6Ve6Xz12i62gWiQnPkG020yAgQGvOrxKX1MH52VS/MbhOp5Ea2g==;hEwt+VfCoiyFHSCldyAIGA=="
 ---

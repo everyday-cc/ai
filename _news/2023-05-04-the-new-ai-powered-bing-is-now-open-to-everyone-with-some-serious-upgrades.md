@@ -146,20 +146,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Google, Microsoft, Amazon, & Meta put AI on steroids while cutting jobs"
-    excerpt: "The IT behemoths Alphabet, Microsoft, Amazon, and Meta are increasing their large language model (LLM) investments as a show of their dedication to utilizing the power of artificial intelligence (AI) while cutting costs and jobs."
-    publishedDateTime: 2023-04-29T15:51:00Z
-    webUrl: "https://interestingengineering.com/innovation/google-microsoft-amazon-meta-ai"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 56
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/04/29/image/jpeg/CansC0Fg86ivCNtL2I5csadyaajvjydZxqrQjzeV.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Microsoft reportedly developing privacy-focused ChatGPT for healthcare"
     excerpt: "Microsoft is reportedly developing a privacy-focused version of ChatGPT for healthcare providers, according to a May 3 TechRadar story."
     publishedDateTime: 2023-05-03T21:45:00Z
@@ -211,6 +197,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
+  - title: "Google tells staff it plans to limit publishing AI research to 'compete and keep knowledge in house' as its rivalry with Microsoft's OpenAI heats up"
+    excerpt: "Google has for years operated a top AI lab that publishes cutting-edge research, but insiders say it's keeping more work confidential."
+    publishedDateTime: 2023-05-04T09:00:00Z
+    webUrl: "https://www.businessinsider.com/google-publishing-less-confidential-ai-research-to-compete-with-openai-2023-4"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
+    images:
+      - url: "https://i.insider.com/6452c554b4a8cd00187aaab6?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Visionify.Ai Secures Microsoft Co-Sell Ready Status For Visionai Workplace Safety Toolkit"
     excerpt: "Visionify achieves Microsoft co-sell ready status for Vision AI Workplace Safety Toolkit Visionify.ai can now present their advanced Visi"
     publishedDateTime: 2023-04-29T17:49:00Z
@@ -254,6 +254,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "lkTPxxz2lwl2nImSLP+eiWlNY0WerJ3yivtcA+OVyytd7kPHce8TFPfrZcJC8QqwnathHrBU9awgedGZZRSMaLLxPs3xXSuVP9NXxR9N9M7m3KCNphblRR4IXcJwdeVHj/4bd8qKuGvGMc8AggcdLhNSpc3xakC6E9PumikNUSpTxbFo236n0WaKpzkkpLwIgyI6DW0XI7b0rl3Kdqccq0zn8IzxM/N7SV+wFqaWY2b/bx8DtCypFSEBmSqNIiCuruE0g3Fh9+bRPHpKW0tjXFjm6AlqQ6BnsNGdg55w/HnQEtm5L5vSONUhibIFmjsnbcDkGQ65Z3DG0MQuoYrsbFK8ZyiFlhm7WzdprHs6N0c=;MOlfvN79ma+oYOdNGdr3vQ=="
+secured: "nhMI+clxPyl//juW4oJ4J1D/za+Q4WhUSPZE5by/Hd1xNCz+g3b9gnb1f8sMDCuPO+SoYwVMtNR8bRt5PGFV7t0HzCqJMKJyJkZRQGfLYnkvbo81m2nXijM9qs8F+UebGp6dWr1fF5/Ue7q4jxODd9ccAdxlfSrmksKFT9NpE4iV8sX6w0zfoKz7KCWp5cDlOUf+FpzZ26si/N+g22ui6GPKfWCfyE6l4HLEUazUivOlDM9fk+pF2wia6c+v0LwhAqUg/e5lOR17BLnqlijl14REipfHDFY4ZMtexHL2gyJSkqHm98JS2M5rDFXloj+UhjQd39YocSlTwTqNAGx43tzy+q4tvI+lX+j4kcWhi2Zk+FlOWyqHKa9tDJoSXblV2BtbQtoZUvuskfWGmBfT8c6EGSW8mVdauZZ5BB3x91b5QgAxBDgfU5YqBv1fSJ46GZ52/lOReZNi6ThoxwfUJd53Sf2DYlkbFbC8Kb/H+0sjIg4ON5SPWaMGNmVb05K0O1pZLyj43VLItEKps8BIkQ==;XFGGFtMRzgmki6lkXrSd8w=="
 ---
 

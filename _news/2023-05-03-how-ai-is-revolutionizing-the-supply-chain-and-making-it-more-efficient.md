@@ -7,7 +7,7 @@ originalUrl: "https://techbullion.com/how-ai-is-revolutionizing-the-supply-chain
 webUrl: "https://techbullion.com/how-ai-is-revolutionizing-the-supply-chain-and-making-it-more-efficient/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,29 @@ images:
     isCached: true
 
 related:
+  - title: "Keeping humans in charge of AI assisted decision-making"
+    excerpt: "AI assistant powered by OpenAI services – but keeps the user in the driver's seat. WELLINGTON, New Zealand, May 2, 2023 /PRNewswire/ -- 1000minds has launched an AI assistant as part of its decision-making and conjoint analysis software using Microsoft Azure OpenAI services."
+    publishedDateTime: 2023-05-02T15:33:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/keeping-humans-in-charge-of-ai-assisted-decision-making-1032283019"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "A brewing storm: Journalists being sidelined in the age of AI, and AI-enabled disinfo"
+    excerpt: "What will the future hold for our information ecosystem as journalists experience layoffs in 2023 just as AI takes a stronger hold?"
+    publishedDateTime: 2023-05-02T11:42:00Z
+    webUrl: "https://www.rappler.com/technology/features/journalists-artificial-intelligence-newsroom-effect-disinformation/"
+    type: article
+    provider:
+      name: Rappler
+      domain: rappler.com
+    quality: 32
+    images:
+      - url: "https://www.rappler.com/tachyon/2023/05/shutterstock-robot-hands-laptop.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Emerging trends in 2023: The evolution of AI in online shopping"
     excerpt: "In recent years, the AI technology has been widely adopted by the e-commerce sector and AI will witness a fast growth in the coming years so as to enable e-commerce businesses in making data-driven strategic decisions."
     publishedDateTime: 2023-04-30T13:53:00Z

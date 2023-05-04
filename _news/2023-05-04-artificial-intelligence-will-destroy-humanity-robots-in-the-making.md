@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The profundity of AI"
+    excerpt: "As for the topic of AI posing a threat to human intelligence, it is a complex and controversial issue with many experts warning about the potential dangers it may pose to human intelligence. Some argue that AI could eventually surpass human intelligence,"
+    publishedDateTime: 2023-05-02T00:58:00Z
+    webUrl: "https://www.brecorder.com/news/40239781/the-profundity-of-ai"
+    type: article
+    provider:
+      name: Business Recorder
+      domain: brecorder.com
+    quality: 39
+    images:
+      - url: "https://i.brecorder.com/large/2023/05/64501a2d079b6.jpg"
+        width: 800
+        height: 455
+        isCached: true
 
 secured: "TBGHvddJLQkHo3BHmZfQVeADyW6QyMH+IklYfaQ1mktCwAKXAckmmBbZPM+Rp/gtAJR9Ng2p1ekoxh4vqKYlMT8b5RC16qGe0Y3lDklFOJbwK9fwmJQA+7ZTGECwa8MMUU4XN8/mgONJMsdkUJXUq4RRZw8UOpb9PoPhCy+1N46dIPMHwKUE4jYjl4/G+6FJ0jsdL9uoDkINGAB7sx/XR5DkuWRMJ4coGf0kCJ2Vqg5ROQCOU7ljGf0eNAffI1UZkY9TWv00ahTIWexZ2MlV6nQKZ9nQsX+4vdvLl1CtRHFUN1EqaIIvjxlSJgWUcC8I+JJUkGGGy4xNmD5Azgbya6V4owROZ1s42DzAlMPwQMo=;QKrAgcmoMGGJDXP+1vzPJQ=="
 ---

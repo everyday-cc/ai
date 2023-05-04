@@ -18,125 +18,15 @@ topics:
   - AI
 
 related:
-  - title: "How vector databases can revolutionize our relationship with generative AI"
-    excerpt: "By reducing the need to structure data, vector databases can speed up generative AI training times to dramatically improve our productivity."
-    publishedDateTime: 2023-04-30T22:21:00Z
-    webUrl: "https://venturebeat.com/ai/how-vector-databases-can-revolutionize-our-relationship-with-generative-ai/"
-    ampWebUrl: "https://venturebeat.com/ai/how-vector-databases-can-revolutionize-our-relationship-with-generative-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-vector-databases-can-revolutionize-our-relationship-with-generative-ai/amp/"
+  - title: "Sex, love and companionship with AI is sooner than you think"
+    excerpt: "It’s likely that sexual and romantic relationships with AI-equipped systems and robots will become more common in the not-so-distant future."
+    publishedDateTime: 2023-05-01T19:00:00Z
+    webUrl: "https://www.marinij.com/2023/05/01/sex-love-and-companionship-with-ai-is-sooner-than-you-think/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2018/11/artificial-intelligence.shutterstock_1164239863.jpg?w=1200&strip=all"
-        width: 1200
-        height: 850
-        isCached: true
-  - title: "How Businesses Can Manage User-Generated Content With AI"
-    excerpt: "AI is playing a greater role in UGC, transforming the way businesses and consumers produce and consume digital media."
-    publishedDateTime: 2023-05-02T10:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/02/how-businesses-can-manage-user-generated-content-with-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/02/how-businesses-can-manage-user-generated-content-with-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/02/how-businesses-can-manage-user-generated-content-with-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63d00455752e4cf11c766efe/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "New breed of search with AI assist combines vector database and keywords"
-    excerpt: "The AI-enabled NeuralSearch from Algolia can understand the intent and context behind queries and deliver optimized results at lower cost."
-    publishedDateTime: 2023-05-03T20:27:00Z
-    webUrl: "https://venturebeat.com/ai/new-breed-search-with-ai-assist-combines-vector-database-keywords/"
-    ampWebUrl: "https://venturebeat.com/ai/new-breed-search-with-ai-assist-combines-vector-database-keywords/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/new-breed-search-with-ai-assist-combines-vector-database-keywords/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 86
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-1396158883.jpg?w=1200&strip=all"
-        width: 1200
-        height: 711
-        isCached: true
-  - title: "Generative AI In The Construction Sector: Taking Building Technology To New Heights"
-    excerpt: "It’s no exaggeration to say that generative AI will have a transformative effect on global industry. With the ability to generate new outputs based on algorithms and trained data, it represents the next step in artificial intelligence and a new level of sophistication for machine learning."
-    publishedDateTime: 2023-05-02T15:50:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/05/02/generative-ai-in-the-construction-sector-taking-building-technology-to-new-heights/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/05/02/generative-ai-in-the-construction-sector-taking-building-technology-to-new-heights/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/05/02/generative-ai-in-the-construction-sector-taking-building-technology-to-new-heights/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 81
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64512ef3a78479bc981e6545/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "AI ‘could be as transformative as industrial revolution’"
-    excerpt: "UK’s outgoing chief scientist urges ministers to ‘get ahead’ of profound social and economic changes"
-    publishedDateTime: 2023-05-03T14:29:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/may/03/ai-could-be-as-transformative-as-industrial-revolution-patrick-vallance"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/03/ai-could-be-as-transformative-as-industrial-revolution-patrick-vallance"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/03/ai-could-be-as-transformative-as-industrial-revolution-patrick-vallance"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/a6eaef833556b81337c95f6e88a34a1b44407791/0_300_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=6c607e1e58ea849496f7dd45d0c4493e"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "Product Monkey AI Revolutionizes Product Management by Automating Engineering Task Creation"
-    excerpt: "Product Monkey AI, a new tech startup, has launched a platform designed to make product managers in tech companies more efficient by automating the creation of engineering tasks from product design files."
-    publishedDateTime: 2023-05-02T15:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/05/n32163373/product-monkey-ai-revolutionizes-product-management-by-automating-engineering-task-creation"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32163373"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32163373"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 47
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "Teradata operationalises AI with Google Vertex AI integration"
-    excerpt: "Teradata has announced services enabling organisations to accelerate Ai-driven digital transformation initiatives. The connected multi-cloud data platform"
-    publishedDateTime: 2023-05-02T14:20:00Z
-    webUrl: "https://www.enterprisetimes.co.uk/2023/05/02/teradata-operationalises-ai-with-google-vertex-ai-integration/"
-    type: article
-    provider:
-      name: enterprisetimes.co.uk
-      domain: enterprisetimes.co.uk
-    quality: 39
-    images:
-      - url: "https://www.enterprisetimes.co.uk/wp-content/uploads/2018/11/artificial-intelligence-3382507_1920.jpg"
-        width: 726
-        height: 410
-        isCached: true
-  - title: "How Chip Design Was Revolutionized by AI-Enhanced Game Play"
-    excerpt: "The Untold Story of How Google’s AlphaGo Inspired Synopsys Engineers to Transform Electronic Design Automation with Deep Reinforcement Learning When"
-    publishedDateTime: 2023-05-02T06:21:00Z
-    webUrl: "https://www.design-reuse.com/industryexpertblogs/53964/how-chip-design-was-revolutionized-by-ai-enhanced-game-play.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 34
+      name: Marin Independent Journal
+      domain: marinij.com
+    quality: 19
 
 secured: "0z5Oyoxj5xE9o6/lrnAav8r5AHIo9TFrHOB5z1NNj3fYTxWem0HedAMOLiGN7fWhwKCC5JSX3OmwC26UuYg6VhEppJv93oViHY4v6d8mmPRa6/ctoWDdv/kQCSZdQCSH5fRBpG4mPkNQIN8VrJ0vU9AUI3lzcBXw1NbCBNZWexQvlTJzwmKD0yvgO4yxv3rY65kQ3Aoo4DjaA3ooJCdSPfTI3kGGe5ffNuabJckDZFKX1yaqcpLdopPIuXu4vX8yf4zBED9zVNM/BLuomIXbFMJ/wGolKIJz3gtpGov144Og43w8CA8jDViaMXqkUC6nwK9elgcK03BaSw5QcZGdwA08ukEiX6ofOedlfnRI44fEOjPEZB5zNeKox88XtJ441BpodEGCUxGRhedMCOon8xjlDsDomBxDYRpzpufUWvGZxhh1s/2Wqqsl3ZWufq4W6U94AwOAtsIb01nw7RFhrpTf0z1pGLpGKLhM0sFs6WiYxHdn3HczuZ6SwFTgydcWaWqdT06H6yv7ge2rsO0kuw==;buh0bZzwyHDf4k6AwvP7Bw=="
 ---

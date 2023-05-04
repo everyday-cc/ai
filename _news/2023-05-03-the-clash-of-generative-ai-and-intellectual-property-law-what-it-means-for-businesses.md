@@ -22,22 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Understanding the risks of generative AI for better business outcomes"
-    excerpt: "Understand the risks to security, privacy and more of generative AI and the precautions you can take to mitigate them."
-    publishedDateTime: 2023-04-29T16:10:00Z
-    webUrl: "https://venturebeat.com/ai/understand-risks-generative-ai-better-business-outcomes/"
-    ampWebUrl: "https://venturebeat.com/ai/understand-risks-generative-ai-better-business-outcomes/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/understand-risks-generative-ai-better-business-outcomes/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1209661950-e1666828949345.jpg?w=1200&strip=all"
-        width: 1200
-        height: 595
-        isCached: true
   - title: "How Generative AI Can Affect Your Business’ Data Privacy"
     excerpt: "If a business enters any client, customer or partner information into a chatbot, that AI may use that information in ways that businesses can’t reliably predict."
     publishedDateTime: 2023-05-01T14:15:00Z
@@ -54,21 +38,53 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "We must perfect predictive models for generative AI to deliver on the AI revolution"
-    excerpt: "To accelerate the AI revolution, we shouldn’t abandon “old school AI” for flashier generative AI. Why we should perfect predictive AI."
-    publishedDateTime: 2023-04-30T23:09:00Z
-    webUrl: "https://venturebeat.com/ai/we-must-perfect-predictive-models-for-generative-ai-to-deliver-on-the-ai-revolution/"
-    ampWebUrl: "https://venturebeat.com/ai/we-must-perfect-predictive-models-for-generative-ai-to-deliver-on-the-ai-revolution/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/we-must-perfect-predictive-models-for-generative-ai-to-deliver-on-the-ai-revolution/amp/"
+  - title: "How vector databases can revolutionize our relationship with generative AI"
+    excerpt: "By reducing the need to structure data, vector databases can speed up generative AI training times to dramatically improve our productivity."
+    publishedDateTime: 2023-04-30T22:21:00Z
+    webUrl: "https://venturebeat.com/ai/how-vector-databases-can-revolutionize-our-relationship-with-generative-ai/"
+    ampWebUrl: "https://venturebeat.com/ai/how-vector-databases-can-revolutionize-our-relationship-with-generative-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-vector-databases-can-revolutionize-our-relationship-with-generative-ai/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 81
+    quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1347040940.jpg?w=1200&strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2018/11/artificial-intelligence.shutterstock_1164239863.jpg?w=1200&strip=all"
         width: 1200
-        height: 631
+        height: 850
+        isCached: true
+  - title: "How Businesses Can Manage User-Generated Content With AI"
+    excerpt: "AI is playing a greater role in UGC, transforming the way businesses and consumers produce and consume digital media."
+    publishedDateTime: 2023-05-02T10:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/02/how-businesses-can-manage-user-generated-content-with-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/02/how-businesses-can-manage-user-generated-content-with-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/02/how-businesses-can-manage-user-generated-content-with-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63d00455752e4cf11c766efe/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Leveraging The Power Of AI As A Small Business"
+    excerpt: "AI language models can help small businesses optimize their marketing, but they have limitations that every business owner should be aware of."
+    publishedDateTime: 2023-05-03T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/03/leveraging-the-power-of-ai-as-a-small-business/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/03/leveraging-the-power-of-ai-as-a-small-business/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/05/03/leveraging-the-power-of-ai-as-a-small-business/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/642b0f04743b6df49adeb166/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "How Artificial Intelligence is Transforming Business"
     excerpt: "AI technologies have a wide range of applications in business, and many publicly traded companies now use AI tools."
@@ -84,15 +100,43 @@ related:
         width: 580
         height: 387
         isCached: true
-  - title: "Unlocking The Power Of Generative AI: Exploring Business Models And Dispelling Fears"
-    excerpt: "If there’s one topic that’s dominated the news cycle in 2023, it’s generative AI. This field of technology has experienced a tremendous surge in growth and popularity in recent months, with services like ChatGPT, Dall-E and Stable Diffusion held up as powerful new tools to help humanity—or to doom it."
-    publishedDateTime: 2023-05-03T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/03/unlocking-the-power-of-generative-ai-exploring-business-models-and-dispelling-fears/"
+  - title: "How democratised Machine Learning can transform your business"
+    excerpt: "Let’s dispel a misconception. Artificial intelligence (AI) and machine learning (ML) are often seen as beyond the reach of businesses without data scientists and ML engineers. As we explored in chapter six of AWS eBook Innovate With AI/ML To Transform Your Business,"
+    publishedDateTime: 2023-05-03T23:00:00Z
+    webUrl: "https://www.smartcompany.com.au/partner-content/articles/how-democratised-machine-learning-can-transform-your-business/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 40
+      name: SmartCompany
+      domain: smartcompany.com.au
+    quality: 41
+    images:
+      - url: "https://www.smartcompany.com.au/wp-content/uploads/2023/05/AWS-AI-article-4-1466x710-1.png?fit=1466%2C710"
+        width: 1466
+        height: 710
+        isCached: true
+  - title: "EU’s AI legislation aims to protect businesses from IP theft"
+    excerpt: "A new draft of EU artificial intelligence (AI) legislation could better protect business IP from being secretly scraped by AI firms, with developers facing new transparency obligations on copyrighted content."
+    publishedDateTime: 2023-05-02T09:34:00Z
+    webUrl: "https://www.techcentral.ie/eus-ai-legislation-aims-to-protect-businesses-from-ip-theft/"
+    type: article
+    provider:
+      name: Mozilla
+      domain: techcentral.ie
+    quality: 39
+    images:
+      - url: "https://www.techcentral.ie/wp-content/uploads/2021/11/european_commission_nov_2021.jpg"
+        width: 620
+        height: 349
+        isCached: true
+  - title: "Centene divests artificial intelligence business"
+    excerpt: "Centene Corp. is selling an artificial intelligence business it purchased just over two years ago, the company said Wednesday."
+    publishedDateTime: 2023-05-03T17:53:00Z
+    webUrl: "https://www.stltoday.com/business/local/centene-divests-artificial-intelligence-business/article_d1afc9f8-e9c4-11ed-9c11-b33b497886c5.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 19
 
 secured: "W1mDd3ZZZemBdal9t5q2crkwmvkYJHhfqp5HGYXw9tCaFhAZfWPRLEG63TqSu+k7XTdhswKv8sZwZUQaOfZMjbR62oSajOP5R0OhB3JcLxSQVIMMmUsYcueytVnVAR29BJHdQibphdqXVJ0Gelj4MNhuOpRmAuwRAGyrNa1ipFHJ2kOFfRXgZ2fhRx3qxcnv6pDmOg8ivniwdhq0XCddzDr4GbBBd4MoZWEVN/58WFFf24NEEkZsyJRWD+SnDYL3M//4SevRz54zRGlAkFMt1T67+FwG5j20Qu0Q9OjJU0+cx2QKqXZp7YkYXZad5c8+j4DOfv8heDlkruiQQ0eDj/N5ilRjQoX5waZs59W2RPL+q4/+VvygYFVcTJPmiEG6eCH2gILkzpg6+lP475xewuu/0NZQyyyXPLQbD3H/nQbArn7NuDc/99ZmcnDokOrhJTstA2ZiIbfK7Gn49R9O5L0f08cGaQxJh7UfSNTL45A5D4tB3ZiZH/gEh4Ec118oFjXaGcTB5mnGjdW6YP3iCA==;hx5AYdAzBckww1rDL0ArcA=="
 ---

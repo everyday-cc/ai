@@ -24,20 +24,45 @@ images:
     isCached: true
 
 related:
-  - title: "Nippon Life Selects H2O.ai to Transform Its Insurance Business With Machine Learning and Improve Customer Health"
-    excerpt: "H2O.ai, the AI Cloud leader, today announced a strategic partnership with Nippon Life Insurance Company, also known as Nissay in Japan. Specifically, the companies are announcing a partnership where Nippon Life Insurance Company will deploy H2O Driverless AI tools to better meet the needs of their policyholders,"
-    publishedDateTime: 2023-05-03T20:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/nippon-life-selects-h2oai-to-transform-its-insurance-business-with-machine-learning-and-improve-customer-health-2023-05-03"
+  - title: "Three Trends Of Transformation: How AI & Value-Based Care (VBC) Will Drive Transformation Of Self-Insured Healthcare"
+    excerpt: "Healthcare is on the brink of a seismic shift, and AI is its catalyst. (1) Large Language Models extend our predictive capabilities. (2) Self-insured companies' risk profile and the patient needs are aligned."
+    publishedDateTime: 2023-05-01T11:45:00Z
+    webUrl: "https://www.forbes.com/sites/lutzfinger/2023/05/01/three-trends-of-transformation-how-ai--value-based-care-vbc-will-drive-transformation-of-self-insured-healthcare/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
+      name: Forbes
+      domain: forbes.com
+    quality: 61
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://imageio.forbes.com/specials-images/imageserve/644f0e322dfc4586460d1577/0x0.jpg?format=jpg&width=1200"
+        width: 1024
+        height: 1024
         isCached: true
+  - title: "Artificial Intelligence in Eye Care: A Trending Transformation"
+    excerpt: "Artificial intelligence is helping to expand the physical abilities of eye clinics and hospitals to perform repetitive tasks with less error and more efficiency."
+    publishedDateTime: 2023-05-02T17:21:00Z
+    webUrl: "https://www.medindia.net/news/artificial-intelligence-in-eye-care-a-trending-transformation-211614-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-in-eye-care-a-trending-transformation-211614-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-in-eye-care-a-trending-transformation-211614-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 59
+    images:
+      - url: "https://images.medindia.net/amp-images/health-images/An-eye-care-professi.jpg"
+        width: 1200
+        height: 1000
+        isCached: true
+  - title: "MotionPoint Releases Adaptive Translation™: Proprietary AI to Reduce the Cost of Quality Translation"
+    excerpt: "MotionPoint introduces Adaptive Translation™ technology to reduce human translation costs without sacrificing quality."
+    publishedDateTime: 2023-05-03T11:00:00Z
+    webUrl: "https://slator.com/motionpoint-releases-adaptive-translation-proprietary-ai-to-reduce-the-cost-of-quality-translation/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 4
 
 secured: "tWsthcJorFWcb4sn+koD0L9cjyhoe3/4f5x82ZhU6GWBB5scQ6aJjetyI/vnaE8ydmAEoUbAIrCY3ZZomtFSeH1Z7PJx5qGbnqOfbdWuWS1pEObGP9H3YQCs9sOS4P8xmYH08IpzNykH1uzwWgymQR2/c+IWAHIBEoRFHrO0cI+HezHb3gaaT+bEB5YGqX/HSvKGrc5jUsccv3PXR8GTNISJ9O3Spz2+jJw1YRcjX9xBwppMK/4K9RqOauZPEjLnDrkSkbChCOvxgucAv5lRHZeXMtSz32gP6WER3vUz+Wq0ufRMDquL94gADpj0t0rc4V4s9biJOxBQmFAaBKN3MT6VqogLgx8JJi5pFZ/XXhs=;1nCy+5uotTAqs3Rt0V6cPg=="
 ---

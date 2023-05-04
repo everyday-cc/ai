@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cybersecurity meets AI: Augmenting and accelerating humans"
-    excerpt: "AI in cybersecurity must be collaborative, with humans and AI improving efficiency and efficacy over what either could do independently."
-    publishedDateTime: 2023-04-29T15:20:00Z
-    webUrl: "https://venturebeat.com/ai/cybersecurity-meets-ai-augmenting-and-accelerating-humans/"
-    ampWebUrl: "https://venturebeat.com/ai/cybersecurity-meets-ai-augmenting-and-accelerating-humans/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/cybersecurity-meets-ai-augmenting-and-accelerating-humans/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/04/annevb_Cybersecurity_meets_artificial_intelligence_AI_making_se_980107ce-9d5e-47af-9002-48f47fc5a493.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "The big cybersecurity risks when ChatGPT and AI are secretly used by employees"
     excerpt: "Generative AI is seeping into the workplace, whether companies approve of its use or not, and cybersecurity caution is needed with these breakthrough chatbots."
     publishedDateTime: 2023-04-30T12:11:00Z
@@ -57,6 +41,22 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/107206075-1678389148948-gettyimages-1246494152-AFP_337P9F8.jpeg?v=1682863975"
         width: 7885
         height: 5257
+        isCached: true
+  - title: "ChatGPT and Generative AI Around the World: Maturity, Opportunities, and Hurdles in Key Regions"
+    excerpt: "ChatGPT has received a lot of press since its November 2022 launch. But while interest in the tool is high, its use is not yet universal."
+    publishedDateTime: 2023-05-01T17:00:00Z
+    webUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-around-the-world-maturity-2023-may"
+    ampWebUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-around-the-world-maturity-2023-may?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-and-generative-ai-around-the-world-maturity-2023-may?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 75
+    images:
+      - url: "https://i.insider.com/6441b16a3f6f690018debe44?width=1200&format=jpeg"
+        width: 1200
+        height: 900
         isCached: true
   - title: "Are You Concerned About Generative AI Becoming A Cybersecurity Risk?"
     excerpt: "While in general, artificial intelligence has the potential to enhance security measures and more effectively detect threats, there is an emerging concern that generative AI tools can—and likely will—be leveraged by malicious actors to launch attacks that are more sophisticated and harder to detect."

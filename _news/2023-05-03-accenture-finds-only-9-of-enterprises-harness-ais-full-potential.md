@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/accenture-finds-only-9-of-enterprises-har
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/accenture-finds-only-9-of-enterprises-harness-ais-full-potential/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -46,15 +46,6 @@ related:
         width: 535
         height: 477
         isCached: true
-  - title: "Centene divests artificial intelligence business"
-    excerpt: "Centene Corp. is selling an artificial intelligence business it purchased just over two years ago, the company said Wednesday."
-    publishedDateTime: 2023-05-03T17:53:00Z
-    webUrl: "https://www.stltoday.com/business/local/centene-divests-artificial-intelligence-business/article_d1afc9f8-e9c4-11ed-9c11-b33b497886c5.html"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 19
 
 secured: "wH2LGuhuIQOOJsGQGV+CRI7ovuyuRGPx3fA6xAlZB814PyP+BmDOCcBoi7VKsJQARgdRy5lwN3Nh3Z0lokg1XqWi52WdZJFdNg0RsnviYGVDGCHsVE0U2O4xdzs6YNaGT7mK3OHY5uwn2Pl0zvIxSxdvHF+RceJ2GflmAkwoQOjf57JogXQ3ExzIVyQj+0thkccH77hzUBJHkFJWBfs6rqOFxuFbZZtjkipXZgKMXiKD297p1KNvpebgHQmJf3k1nxvZSNoxxc4jRaPwaIIkQmIL5t9XPRi+acWvrN3uNeOJQ26pDk4983NvJlWEjguWIkrPSOtZxUPXDTlGsjULFdlamAs2Rdi33bWBcIJK2QXLNirj5/YOqYNcuzcKA3aobWMahvoitzGZUN7OW1N9kDNJScRCO7n97QmtTrY4pAwl3/6azUbN1zl8INnDkwT8LAAM370KHjSLtcGcQrd3jpzqt28IyZ1o6B5NvaXizvqsu4iqzqRFV0sv+SDnfWwvFfjvPTOkuWY38rxwPYK3EA==;K+A5iJGBnjVU010S1OM4Qg=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-around-the
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-and-generative-ai-around-the-world-maturity-2023-may?amp"
 type: article
 quality: 75
-heat: 105
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -30,50 +30,70 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI Tools Like ChatGPT And Bard Heralding Generational Shift In Job Roles. Adapt Or Risk Obsolescence"
-    excerpt: "The benefits and impact of Generative AI tools like ChatGPT on industries and job roles have only begun to occur, harbingering generational job role shifts."
-    publishedDateTime: 2023-05-01T15:59:00Z
-    webUrl: "https://www.forbes.com/sites/roomykhan/2023/05/01/generative-ai-tools-like-chatgpt-and-bard-heralding-generational-shift-in-job-roles-adapt-or-risk-obsolescence/"
-    ampWebUrl: "https://www.forbes.com/sites/roomykhan/2023/05/01/generative-ai-tools-like-chatgpt-and-bard-heralding-generational-shift-in-job-roles-adapt-or-risk-obsolescence/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roomykhan/2023/05/01/generative-ai-tools-like-chatgpt-and-bard-heralding-generational-shift-in-job-roles-adapt-or-risk-obsolescence/amp/"
+  - title: "The big cybersecurity risks when ChatGPT and AI are secretly used by employees"
+    excerpt: "Generative AI is seeping into the workplace, whether companies approve of its use or not, and cybersecurity caution is needed with these breakthrough chatbots."
+    publishedDateTime: 2023-04-30T12:11:00Z
+    webUrl: "https://www.cnbc.com/2023/04/30/the-big-cyber-risks-when-chatgpt-and-ai-are-secretly-used-by-employees.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/04/30/the-big-cyber-risks-when-chatgpt-and-ai-are-secretly-used-by-employees.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/04/30/the-big-cyber-risks-when-chatgpt-and-ai-are-secretly-used-by-employees.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 83
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107206075-1678389148948-gettyimages-1246494152-AFP_337P9F8.jpeg?v=1682863975"
+        width: 7885
+        height: 5257
+        isCached: true
+  - title: "RSAC 2023: Generative AI Takes the Cybersecurity Industry by Storm"
+    excerpt: "Yes, generative AI stole the show at RSA Conference 2023 in San Francisco last week. Here’s a roundup of the top news from the biggest cybersecurity conference in the world."
+    publishedDateTime: 2023-04-30T09:58:00Z
+    webUrl: "https://www.govtech.com/blogs/lohrmann-on-cybersecurity/rsac-2023-generative-ai-takes-the-cybersecurity-industry-by-storm"
+    ampWebUrl: "https://www.govtech.com/blogs/lohrmann-on-cybersecurity/rsac-2023-generative-ai-takes-the-cybersecurity-industry-by-storm?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/blogs/lohrmann-on-cybersecurity/rsac-2023-generative-ai-takes-the-cybersecurity-industry-by-storm?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 57
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/7a063b4/2147483647/strip/true/crop/4032x2102+0+922/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fd7%2F60%2Ff8f8c9a1471f8fd9eee17d9eb434%2Fimg-1128.jpg"
+        width: 840
+        height: 438
+        isCached: true
+  - title: "Are You Concerned About Generative AI Becoming A Cybersecurity Risk?"
+    excerpt: "While in general, artificial intelligence has the potential to enhance security measures and more effectively detect threats, there is an emerging concern that generative AI tools can—and likely will—be leveraged by malicious actors to launch attacks that are more sophisticated and harder to detect."
+    publishedDateTime: 2023-05-03T12:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/03/are-you-concerned-about-generative-ai-becoming-a-cybersecurity-risk/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 67
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/644fdd5de31e3cc4caad4710/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 798
-        isCached: true
-  - title: "Challenges and Opportunities of Artificial Intelligence"
-    excerpt: "Previously, she served as vice president and group counsel, artificial intelligence products group, at Intel Corp. She previously held attorney roles at Sun Microsystems and Fenwick & West."
-    publishedDateTime: 2023-05-02T19:13:00Z
-    webUrl: "https://www.govinfosecurity.com/challenges-opportunities-artificial-intelligence-a-21768"
+    quality: 49
+  - title: "Cybersecurity Still Finding Its Place In New AI Era"
+    excerpt: "It is difficult nowadays to talk to inventors in any tech sector without AI coming up in the conversation — and that is certainly true in cybersecurity."
+    publishedDateTime: 2023-05-03T11:00:00Z
+    webUrl: "https://news.crunchbase.com/cybersecurity/artificial-intelligence-rsa-venture-startup/"
     type: article
     provider:
-      name: HHS
-      domain: govinfosecurity.com
-    quality: 39
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 37
     images:
-      - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/challenges-opportunities-artificial-intelligence-showcase_image-9-a-21768.jpg"
-        width: 860
-        height: 520
+      - url: "https://news.crunchbase.com/wp-content/uploads/AI_Sector_Cybersecurity.jpg"
+        width: 900
+        height: 506
         isCached: true
-  - title: "Pandora’s Box: Generative AI Companies, ChatGPT, and Human Rights"
-    excerpt: "ChatGPT and generative artificial intelligence (AI) are dominating headlines and conversations. But what’s behind this technology? Who feeds it data and decides where the data comes from? What does this have to do with human rights?"
-    publishedDateTime: 2023-05-03T04:00:00Z
-    webUrl: "https://www.hrw.org/news/2023/05/03/pandoras-box-generative-ai-companies-chatgpt-and-human-rights"
+  - title: "The Lawfare Podcast: Jim Dempsey and Jonathan Spring on Adversarial Machine Learning and Cybersecurity"
+    excerpt: "Risks associated with the rapid development and deployment of artificial intelligence are getting the attention of lawmakers. But one issue that may not be getting adequate attention by policymakers or by the AI research and cybersecurity communities is the vulnerability of many AI-based systems to adversarial attack."
+    publishedDateTime: 2023-05-03T09:01:00Z
+    webUrl: "https://www.lawfareblog.com/lawfare-podcast-jim-dempsey-and-jonathan-spring-adversarial-machine-learning-and-cybersecurity"
     type: article
     provider:
-      name: Human Rights Watch
-      domain: hrw.org
-    quality: 39
-    images:
-      - url: "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2023/05/202305global_tech_chatgpt.jpg?h=7d6f88fc&itok=NS1Bna2r"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Lawfare
+      domain: lawfareblog.com
+    quality: 3
 
 secured: "zuTH1T1OTXgMXmG+a2NKc175FZDzpkxHFN15WW7X+tct0J1WXaJj0/8veMiiXbrfFI/ZaaRQ1Ph8X3Ioy8aTlivIN35PXwUEIFH02AKtBI59qn10o1jMknPYFKr9o7LtckcJ/aPlFP6z6+L7F5eZCMD1eq2QoSJEpEz0xIq3AF+2nqaMHo9RMs1HVyp3nNmiXkADdvXRjB5OG5rTW0qjVb8waa4VHf1DvZKjz9LMWEWr71IK2QyUQNzWxJYilTTyDd6NDH6y+zqfosuidEEdiUCyYTTesdex4vLjOKGjIk0OH7lsKZfzFCsegTbuYbPQN8fqgHmlQyatqUIgdCJwUPdZ+J3FAMuGBOtgZtafN28=;qYw+NI/GA/dAMxifGg+v/A=="
 ---

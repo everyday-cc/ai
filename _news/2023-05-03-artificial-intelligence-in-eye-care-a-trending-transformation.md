@@ -41,6 +41,20 @@ related:
         width: 1024
         height: 1024
         isCached: true
+  - title: "Business Transformations in 2023 with Artificial Intelligence"
+    excerpt: "Conversational dialogues between humans and ChatGPT are mimicked by OpenAI. Industries anticipate it will be used more widely as an office assistant"
+    publishedDateTime: 2023-05-02T09:48:00Z
+    webUrl: "https://www.cioapplications.com/news/business-transformations-in-2023-with-artificial-intelligence-nid-10608.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 37
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/w7t62cioapp450-308.jpg"
+        width: 450
+        height: 308
+        isCached: true
   - title: "MotionPoint Releases Adaptive Translation™: Proprietary AI to Reduce the Cost of Quality Translation"
     excerpt: "MotionPoint introduces Adaptive Translation™ technology to reduce human translation costs without sacrificing quality."
     publishedDateTime: 2023-05-03T11:00:00Z

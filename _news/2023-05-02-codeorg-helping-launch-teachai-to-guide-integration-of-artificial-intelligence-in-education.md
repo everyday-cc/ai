@@ -7,8 +7,8 @@ originalUrl: "https://www.geekwire.com/2023/code-org-helping-launch-teachai-to-g
 webUrl: "https://www.geekwire.com/2023/code-org-helping-launch-teachai-to-guide-integration-of-artificial-intelligence-in-education/"
 type: article
 quality: 68
-heat: 88
-published: true
+heat: -1
+published: false
 
 provider:
   name: GeekWire
@@ -23,31 +23,70 @@ topics:
   - AI in Education
 
 related:
-  - title: "Keeping humans in charge of AI assisted decision-making"
-    excerpt: "AI assistant powered by OpenAI services – but keeps the user in the driver's seat. WELLINGTON, New Zealand, May 2, 2023 /PRNewswire/ -- 1000minds has launched an AI assistant as part of its decision-making and conjoint analysis software using Microsoft Azure OpenAI services."
-    publishedDateTime: 2023-05-02T15:33:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/keeping-humans-in-charge-of-ai-assisted-decision-making-1032283019"
+  - title: "Generative AI In The Construction Sector: Taking Building Technology To New Heights"
+    excerpt: "It’s no exaggeration to say that generative AI will have a transformative effect on global industry. With the ability to generate new outputs based on algorithms and trained data, it represents the next step in artificial intelligence and a new level of sophistication for machine learning."
+    publishedDateTime: 2023-05-02T15:50:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/05/02/generative-ai-in-the-construction-sector-taking-building-technology-to-new-heights/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/05/02/generative-ai-in-the-construction-sector-taking-building-technology-to-new-heights/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/05/02/generative-ai-in-the-construction-sector-taking-building-technology-to-new-heights/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "UAE Government launches the “Generative AI” Guide to facilitate the adoption of AI technology across vital industries"
-    excerpt: "The “Generative AI” guide serves as a valuable resource for government entities, enabling them to leverage the benefits of AI technologies and enhance its implementation across various fields. Commenting on the launch,"
-    publishedDateTime: 2023-04-30T11:45:00Z
-    webUrl: "https://www.zawya.com/en/press-release/government-news/uae-government-launches-the-generative-ai-guide-to-facilitate-the-adoption-of-ai-technology-across-vital-industries-r5v4skkw"
-    ampWebUrl: "https://www.zawya.com/en/press-release/government-news/uae-government-launches-the-generative-ai-guide-to-facilitate-the-adoption-of-ai-technology-across-vital-industries-r5v4skkw?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/government-news/uae-government-launches-the-generative-ai-guide-to-facilitate-the-adoption-of-ai-technology-across-vital-industries-r5v4skkw?amp=1"
+      name: Forbes
+      domain: forbes.com
+    quality: 81
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64512ef3a78479bc981e6545/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Teradata operationalises AI with Google Vertex AI integration"
+    excerpt: "Teradata has announced services enabling organisations to accelerate Ai-driven digital transformation initiatives. The connected multi-cloud data platform"
+    publishedDateTime: 2023-05-02T14:20:00Z
+    webUrl: "https://www.enterprisetimes.co.uk/2023/05/02/teradata-operationalises-ai-with-google-vertex-ai-integration/"
+    type: article
+    provider:
+      name: enterprisetimes.co.uk
+      domain: enterprisetimes.co.uk
+    quality: 39
+    images:
+      - url: "https://www.enterprisetimes.co.uk/wp-content/uploads/2018/11/artificial-intelligence-3382507_1920.jpg"
+        width: 726
+        height: 410
+        isCached: true
+  - title: "Generative AI and sustainability are driving investment in the tourism technology segment, Plug and Play experts tell attendees at ATM 2023"
+    excerpt: "Advances in artificial intelligence are facilitating trip planning for travellers, as well as the automation of refunds, back-office processes and content creation"
+    publishedDateTime: 2023-05-04T09:19:00Z
+    webUrl: "https://www.zawya.com/en/press-release/events-and-conferences/generative-ai-and-sustainability-are-driving-investment-in-the-tourism-technology-segment-plug-and-play-experts-tell-attendees-at-atm-2023-mzstnhb8"
+    ampWebUrl: "https://www.zawya.com/en/press-release/events-and-conferences/generative-ai-and-sustainability-are-driving-investment-in-the-tourism-technology-segment-plug-and-play-experts-tell-attendees-at-atm-2023-mzstnhb8?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/events-and-conferences/generative-ai-and-sustainability-are-driving-investment-in-the-tourism-technology-segment-plug-and-play-experts-tell-attendees-at-atm-2023-mzstnhb8?amp=1"
     type: article
     provider:
       name: Zawya
       domain: zawya.com
-    quality: 36
+    quality: 25
     images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/YWM4MDI3MDEtMDIzMC00/1/1-jpg.jpeg?f=3%3A2"
-        width: 900
-        height: 600
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/Y2I3ZWI2ZmItM2Y5MC00/0/tech-session-1-jpg.jpeg?f=3%3A2"
+        width: 759
+        height: 506
         isCached: true
+  - title: "Box embeds generative AI into its Content Cloud"
+    excerpt: "Announced at Box’s Content Cloud Summit today, Box AI is billed as a suite of AI capabilities that will primarily focus on two things: helping users to ask questions about documents and creating new content in Box."
+    publishedDateTime: 2023-05-02T12:00:00Z
+    webUrl: "https://siliconangle.com/2023/05/02/box-embeds-generative-ai-content-cloud/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 19
+  - title: "Smartling’s Patent-Pending Technology Enables Breakthroughs in Translation Using AI"
+    excerpt: "Smartling, Inc. today announced the introduction of patent-pending technology that brings human-quality machine translation closer to reality."
+    publishedDateTime: 2023-05-03T17:59:00Z
+    webUrl: "https://slator.com/smartling-patent-pending-technology-enables-breakthroughs-translation-using-ai/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 13
 
 secured: "GZhYH0oFiUthFICnIXsHtb9MWZttgtZ0mocYZMZrZzLVaXhdIpeccWODjB770pacUM8T1uAk+0zFMMmBmkqiy/eJ4bEIhEtO9wRpqe1yGK3Nx4EgOtpO6ZRVF6VdxWg7RrW5VV155G9jbgfvez7PH4UvezCepvSpqEWUpRxe6Wv8NCgTICut3YMe/a6Y3DkIvFyy0nkB8q/8hxJfZItqKyzp2tlmpu8KPXlk6R9YK2v3yjCgcPmdBPFkDokLf9WSuMYxoMV///spwqBDHv5/o9bSgNh5/fgLyomHYa+SXj09ObyubkcHyuuoLLGSHJ5NEn7vPxObIHpIR7Yg13v1dW6NOEIymyJ6RwcjtlMPNfpmv+9J6u3ettmFX+RqE6yMj77VzbJtlvGZPTFwddylTx0Gxl+6GWQ5Tt0I979V4KTJ31YY0vrwVjY2NdQyS4IhRJZv/HlixQVvf8c55eeCTlcBRMFIKQzEDs5dOMT+IL+OuaHbvHi2g8BJxjwxseLR/ismACCLFIMBgsv/9YI8+g==;afbpl9wRIFoDba1Ggb3UDw=="
 ---
