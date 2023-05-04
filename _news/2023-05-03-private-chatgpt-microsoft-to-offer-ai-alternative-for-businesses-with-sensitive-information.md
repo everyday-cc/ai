@@ -222,20 +222,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Visionify.Ai Secures Microsoft Co-Sell Ready Status For Visionai Workplace Safety Toolkit"
-    excerpt: "Visionify achieves Microsoft co-sell ready status for Vision AI Workplace Safety Toolkit Visionify.ai can now present their advanced Visi"
-    publishedDateTime: 2023-04-29T17:49:00Z
-    webUrl: "https://menafn.com/1106138384/VisionifyAi-Secures-Microsoft-Co-Sell-Ready-Status-For-Visionai-Workplace-Safety-Toolkit"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 45
-    images:
-      - url: "https://menafn.com/updates/pr/2023-04/29/EP_03358image_story.png"
-        width: 600
-        height: 314
-        isCached: true
   - title: "'Adversaries harnessing AI as weapon': Microsoft's chief scientist favors to guide not pause the use of AI"
     excerpt: "Microsoft's Chief Scientific Officer, Eric Horvitz, has expressed worries and potential about using artificial intelligence (AI) in a new interview."
     publishedDateTime: 2023-05-03T15:55:00Z

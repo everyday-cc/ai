@@ -1,24 +1,30 @@
 ---
 category: news
 title: "Insider Q&A: Aurora CEO Chris Urmson on self-driving trucks"
-excerpt: "Sometime next year, semis with no human in the cab will start carrying freight down Interstate 45 between Dallas and Houston."
-publishedDateTime: 2023-05-01T12:59:00Z
-originalUrl: "https://www.seattletimes.com/business/insider-qa-aurora-ceo-chris-urmson-on-self-driving-trucks/"
-webUrl: "https://www.seattletimes.com/business/insider-qa-aurora-ceo-chris-urmson-on-self-driving-trucks/"
-ampWebUrl: "https://www.seattletimes.com/business/insider-qa-aurora-ceo-chris-urmson-on-self-driving-trucks/?amp=1"
-cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/insider-qa-aurora-ceo-chris-urmson-on-self-driving-trucks/?amp=1"
+excerpt: "Sometime next year, semis with no human in the cab will start carrying freight down Interstate 45 between Dallas and Houston"
+publishedDateTime: 2023-05-01T13:47:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/insider-qa-aurora-ceo-chris-urmson-driving-trucks-98982755"
+webUrl: "https://abcnews.go.com/Business/wireStory/insider-qa-aurora-ceo-chris-urmson-driving-trucks-98982755"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/insider-qa-aurora-ceo-chris-urmson-driving-trucks-98982755"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/insider-qa-aurora-ceo-chris-urmson-driving-trucks-98982755"
 type: article
-quality: 24
-heat: -1
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+    width: 834
+    height: 308
+    isCached: true
 
 related:
   - title: "Aurora CEO’s take on the future of self-driving trucks in Texas and beyond"
@@ -61,6 +67,6 @@ related:
       domain: ttnews.com
     quality: 4
 
-secured: "WcDsY6eM5rMq2bHjJHPF7wj8fD8OcgySa/BXtUqwXDOH5xRpT4ylhgAg6nwz3fKRfzZtvVc9o7lYHPfYq9+dtSy2rUB2RdVEkkC34fzF9chHBhBc7/M8J1k0c5ylRhbPX21shor/NN7mZjFVQ7+R4gg6A0mXnMJZNErfE/OASsnH3KHV6Hf+DLiwQifXZZX9uLvkEHRuGcOk36/Hsi+rAMau/wjHc+bqYa9VxRRnzyTOjf4qeW6QUArFeYcOVz+AJibQUWAbCyzxgwKs8ejy6mQZsu6ACcoKODYHv2lmlizZeCoo8hdoVqh3I6Hs2Mkn6s1ztcn/8spGk0RTIhajNIBfdGPvlrOO8vjHQ4L/nqwpARpx/3bqVKtpN6SXzFKRix9srxvc7spLpmvVcc807uUttERWWGI9J6tP5OUdRk3Rw2WzFFC3BrYEs4Gw4uAdm/akKm/Qdu4EXY4BPxNDC9ivThojez27lOCwjSOo4i3zvo6g7fWftPxdTypY/uPyaE5B7DM6tH8MzZVP/eTPhg==;0IhnvJwaaIV/SABYkxgg/A=="
+secured: "3Loj4LIFwe9unWA0POXrn0Tx5iXT3eVKvCYww3QQ9kmgr3nNkVAwrZmCVGoT3zg4SZNQ5+7ecGAsehYjXvnrR3ug+4+cE/Fx9spXSPq2ekElHfdvLdIxU57PMERnwS71wRObjv3zMA1UfjzfWmYD68OV2ii6+/e6yjO6rM+FvA2qHqjImjAJRGQDkl5El178IXyAapmf8AsY5OWeRyrKe6xTrI5azyHGABFZ2abEC3jpu7rXaZ44k1gEIVTxIrrGK1B+UQGv+25ZnZyyx+Ap6E/wrwt6fdXUOOL9HwG84AldqiiTVGcI3f3wHzEhP+cV89egp2rlCK6hS/YfX0dRKwCMc3VuzzC3rHXEEr7VvBU=;nw+D+z8+CuNRI5y1NpByXw=="
 ---
 

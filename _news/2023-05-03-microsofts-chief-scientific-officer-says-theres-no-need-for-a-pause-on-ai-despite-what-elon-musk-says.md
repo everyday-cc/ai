@@ -211,20 +211,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Visionify.Ai Secures Microsoft Co-Sell Ready Status For Visionai Workplace Safety Toolkit"
-    excerpt: "Visionify achieves Microsoft co-sell ready status for Vision AI Workplace Safety Toolkit Visionify.ai can now present their advanced Visi"
-    publishedDateTime: 2023-04-29T17:49:00Z
-    webUrl: "https://menafn.com/1106138384/VisionifyAi-Secures-Microsoft-Co-Sell-Ready-Status-For-Visionai-Workplace-Safety-Toolkit"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 45
-    images:
-      - url: "https://menafn.com/updates/pr/2023-04/29/EP_03358image_story.png"
-        width: 600
-        height: 314
-        isCached: true
   - title: "Private ChatGPT? Microsoft to offer AI alternative for businesses with sensitive information"
     excerpt: "Microsoft plans to address data privacy concerns of large firms that hold sensitive information and have large regulatory costs for leaks with its new offering."
     publishedDateTime: 2023-05-03T09:55:00Z

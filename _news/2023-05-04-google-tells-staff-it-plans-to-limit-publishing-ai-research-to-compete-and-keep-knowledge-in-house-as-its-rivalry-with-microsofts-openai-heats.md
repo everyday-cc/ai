@@ -213,20 +213,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "Visionify.Ai Secures Microsoft Co-Sell Ready Status For Visionai Workplace Safety Toolkit"
-    excerpt: "Visionify achieves Microsoft co-sell ready status for Vision AI Workplace Safety Toolkit Visionify.ai can now present their advanced Visi"
-    publishedDateTime: 2023-04-29T17:49:00Z
-    webUrl: "https://menafn.com/1106138384/VisionifyAi-Secures-Microsoft-Co-Sell-Ready-Status-For-Visionai-Workplace-Safety-Toolkit"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 45
-    images:
-      - url: "https://menafn.com/updates/pr/2023-04/29/EP_03358image_story.png"
-        width: 600
-        height: 314
-        isCached: true
   - title: "Private ChatGPT? Microsoft to offer AI alternative for businesses with sensitive information"
     excerpt: "Microsoft plans to address data privacy concerns of large firms that hold sensitive information and have large regulatory costs for leaks with its new offering."
     publishedDateTime: 2023-05-03T09:55:00Z
@@ -256,6 +242,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "75Go+2xsY4MIHzeeSe0+y4N5HC6EUOpJb880433Ndg1yWszNR0T/wZnkRckLIOYoLPV2bW5PbBK7NSsWU+X/opEO7ey+/Gl7N2cjCQVx79GyD5cS+CYut+7rqqnUXiFVBwqHVSOtyUAdezgyNTLWiEajZ8e1PpTjtRdeYqUzN0zEfYJrvDp3gp+o1KaK8KMZiw1s/if1v4mFuFOGEiCxfxNmOp1JALpIiBd0wL9WMsQenh5qNHVMHkk1BLmxdgIYK7zhE/U5fO3NMa207RwuWuFCHBxSKUpWu/6am6tEgGj71E9qInSisBNSSnDo9O7FN0qtxxIDIuK2RIm61A+Z7fsvLKrIHd9XNvfnK9uiUm4=;gL5pLs4xd8za8uoFDYe4VA=="
+secured: "fPQhMjfG7U7tNIYGISZF1899jAPDNwjYjb5OXaWj3uthloe8ykn9kgl9iCQ+7Yr7VKKW3b/1wub6F/poK1JQeZK3OdzdJT3IQI7Te6RvAkG46IJEjPKqSCioxR4TJDRtyuf7fSZ3kD64ekirZbN2z5KfoBavlxkOjtIb3QxDXHR9gtFwvVWZ88CrnZGnfkHvhaDsr5KyzmerXdL/RRlyzIkSyYaeMqEJSF3TR5nonQnX777E8zL2NQNI3l4YSvhqvULl/ymWQ79ISvxJmXu46F+8u0KxxHHmddB6GMse2vHzHHYRepFIimYjrCwpfwjsAZeAheBxv/yysgOnb0+9wY982m2b18b0+qjuGsvJtIYQFIJ/SuqxKcQHN/uXa/5nvCicFiIsLLQBSb6fjSg3PKkH9ItQce8ayICkG/DaEfyD96y0Yssr+LUpqqKuOcEaUk2XwxpfIU3gLr8mBBQDLWFyfLhX8J8QoHIJg7jrpZD4hb8IVovVcBL2fzMJEgeKMKtTt/Bq4LfLXaGbZpsqKg==;e1hCLttgFS45k9/JyYX7Ug=="
 ---
 

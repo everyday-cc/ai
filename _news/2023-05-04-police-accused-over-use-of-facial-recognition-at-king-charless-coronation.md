@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/uk-news/2023/may/03/metropolitan-police-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/uk-news/2023/may/03/metropolitan-police-live-facial-recognition-in-crowds-at-king-charles-coronation"
 type: article
 quality: 57
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://s.abcnews.com/images/International/wirestory_077c71b57815a241a75068d9789b06d9_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Human rights campaigners criticise Met Police over plans to use facial recognition tech at coronation"
+    excerpt: "The use of live facial recognition would have a serious chilling effect on the right to free speech on a day when thousands will be considering celebrating or protesting. The technology is used to match human faces on images and live or pre-recorded video ..."
+    publishedDateTime: 2023-05-04T11:22:00Z
+    webUrl: "https://www.scotsman.com/read-this/human-rights-campaigners-criticise-met-police-over-plans-to-use-facial-recognition-tech-at-coronation-4130110"
+    type: article
+    provider:
+      name: The Scotsman
+      domain: scotsman.com
+    quality: 41
+    images:
+      - url: "https://www.scotsman.com/webimg/b25lY21zOmNiZmJlMTY2LTQ4ODktNGY1Yy1hMTljLTQyOTg3YThjNDFjOTo5OTEyYmJhNC1iNTgzLTQxOGUtYmUxMy02NGY3Njg2NTc5MmY=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Crown comes to Parliament in pre-coronation Charles visit"
     excerpt: "Before the glory of his coronation weekend, King Charles III visited Parliament Tuesday, to get a reminder that the monarch’s power has limits. Charles and Camilla, the queen consort, attended a reception for lawmakers,"

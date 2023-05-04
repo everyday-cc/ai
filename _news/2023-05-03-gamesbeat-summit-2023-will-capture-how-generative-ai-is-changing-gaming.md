@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/games/gamesbeat-summit-2023-will-capture-how
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/gamesbeat-summit-2023-will-capture-how-generative-ai-is-changing-gaming/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "How VentureBeat is using artificial intelligence"
-    excerpt: "Rachel Metz of Bloomberg News writes about how VentureBeat is using artificial intelligence for its content. Metz writes, “One panelist’s response in particular caught me by surprise. VentureBeat’s editorial director,"
-    publishedDateTime: 2023-04-29T17:17:00Z
-    webUrl: "https://talkingbiznews.com/media-news/how-venturebeat-is-using-artificial-intelligence/"
-    ampWebUrl: "https://talkingbiznews.com/media-news/how-venturebeat-is-using-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://talkingbiznews-com.cdn.ampproject.org/c/s/talkingbiznews.com/media-news/how-venturebeat-is-using-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: Talking Biz News
-      domain: talkingbiznews.com
-    quality: 57
-    images:
-      - url: "https://talkingbiznews.com/wp-content/uploads/2014/10/VentureBeat.png"
-        width: 535
-        height: 477
-        isCached: true
   - title: "How AI is changing the game for software developers — for better and worse"
     excerpt: "On one hand, these platforms can potentially revolutionize how developers work. On the other, they also threaten job security for those in the industry, presenting a stark contrast to established processes."
     publishedDateTime: 2023-05-03T21:48:00Z

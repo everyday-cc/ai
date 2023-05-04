@@ -23,13 +23,13 @@ topics:
 
 related:
   - title: "Walmart now using AI for some vendor deals"
-    excerpt: "Walmart Inc. and other large companies are now using artificial intelligence \"chatbot\" programs to negotiate some of their vendor contracts."
-    publishedDateTime: 2023-05-04T09:45:00Z
-    webUrl: "https://www.nwaonline.com/news/2023/may/04/walmart-now-using-ai-for-some-vendor-deals/?business-arkansas"
+    excerpt: "M. Walton College of Business, was one of the article's authors. Lacity said Tuesday that many early adopters of AI-powered chatbots start off in low-risk categories such as transportation, equipment and office supplies, and with \"tail-end\" suppliers.\""
+    publishedDateTime: 2023-05-04T10:56:00Z
+    webUrl: "https://www.arkansasonline.com/news/2023/may/04/walmart-now-using-ai-for-some-vendor-deals/?latest"
     type: article
     provider:
-      name: Northwest Arkansas Democrat Gazette
-      domain: nwaonline.com
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
     quality: 37
     images:
       - url: "https://wehco.media.clients.ellingtoncms.com/img/photos/2017/09/15/1128_C1_walmart_3cols_color_t600.JPG?4326734cdb8e39baa3579048ef63ad7b451e7676"

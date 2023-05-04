@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 575
         isCached: true
-  - title: "How VentureBeat is using artificial intelligence"
-    excerpt: "Rachel Metz of Bloomberg News writes about how VentureBeat is using artificial intelligence for its content. Metz writes, “One panelist’s response in particular caught me by surprise. VentureBeat’s editorial director,"
-    publishedDateTime: 2023-04-29T17:17:00Z
-    webUrl: "https://talkingbiznews.com/media-news/how-venturebeat-is-using-artificial-intelligence/"
-    ampWebUrl: "https://talkingbiznews.com/media-news/how-venturebeat-is-using-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://talkingbiznews-com.cdn.ampproject.org/c/s/talkingbiznews.com/media-news/how-venturebeat-is-using-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: Talking Biz News
-      domain: talkingbiznews.com
-    quality: 57
-    images:
-      - url: "https://talkingbiznews.com/wp-content/uploads/2014/10/VentureBeat.png"
-        width: 535
-        height: 477
-        isCached: true
 
 secured: "/aXrjyNIMBRosCdhGL3CYeHN8ZzADqLMFRlAJ8GL5eWBsLrykXYvslMPGIHuA0ECsFfpoy8lddXeb3QKKvU6TdTzTg+IBUpBX1W/i5AwXleZaeiECuLQJ8H9lfsOE4vhjOxQsz9HZSJz6NPnwO/reyZVY0y+3pAvoAA8ltboNL7yVgARQnsUbuzCGCszNNVWt8sRfmGGW95rbB616J8fB5Txg2GJTAnWXDIkb9VJAnCQlf+9WOw33TA3z/P5ktXOWaU6hwzD3LMEFRZJX/irO5UPT56jZRQqo0HOcCtqzzhlCOyi0nyWKY54+AFmeTlozMgh3eqO9hc5TJ0jn4vYaACI/12ONh2xjqCqiyIqDuAbTjjZFELtSNT7gyPu31LgJa9tVeASdK5Uiit6OPiK8gX39S0XIi6+7aYHxEJf477848MTwe53ZUKPJmSBbr6bDIjvEd8+Bv8y+n7TGxfbIS3wafNSKT+/x6PPQekkPuqJp+o4YuD8hC3H0Pj2r5PIkK0bSStNMkcu98rdoM8Usw==;/L83ebfoD5PHGsVBq5EO/w=="
 ---

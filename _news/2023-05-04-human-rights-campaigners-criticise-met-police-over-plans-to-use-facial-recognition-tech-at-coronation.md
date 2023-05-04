@@ -1,0 +1,103 @@
+---
+category: news
+title: "Human rights campaigners criticise Met Police over plans to use facial recognition tech at coronation"
+excerpt: "The use of live facial recognition would have a serious chilling effect on the right to free speech on a day when thousands will be considering celebrating or protesting. The technology is used to match human faces on images and live or pre-recorded video ..."
+publishedDateTime: 2023-05-04T11:22:00Z
+originalUrl: "https://www.scotsman.com/read-this/human-rights-campaigners-criticise-met-police-over-plans-to-use-facial-recognition-tech-at-coronation-4130110"
+webUrl: "https://www.scotsman.com/read-this/human-rights-campaigners-criticise-met-police-over-plans-to-use-facial-recognition-tech-at-coronation-4130110"
+type: article
+quality: 41
+heat: -1
+published: false
+
+provider:
+  name: The Scotsman
+  domain: scotsman.com
+
+topics:
+  - Natural Language Processing
+  - AI
+  - Computer Vision
+
+images:
+  - url: "https://www.scotsman.com/webimg/b25lY21zOmNiZmJlMTY2LTQ4ODktNGY1Yy1hMTljLTQyOTg3YThjNDFjOTo5OTEyYmJhNC1iNTgzLTQxOGUtYmUxMy02NGY3Njg2NTc5MmY=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
+    width: 1200
+    height: 800
+    isCached: true
+
+related:
+  - title: "Police accused over use of facial recognition at King Charles’s coronation"
+    excerpt: "Met says technology will not be used to target protesters or activists, but campaigners say use is ‘extremely worrying’"
+    publishedDateTime: 2023-05-03T21:34:00Z
+    webUrl: "https://www.theguardian.com/uk-news/2023/may/03/metropolitan-police-live-facial-recognition-in-crowds-at-king-charles-coronation"
+    ampWebUrl: "https://amp.theguardian.com/uk-news/2023/may/03/metropolitan-police-live-facial-recognition-in-crowds-at-king-charles-coronation"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/uk-news/2023/may/03/metropolitan-police-live-facial-recognition-in-crowds-at-king-charles-coronation"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/b8db4757a16c78241897d176d4991a39cfc6636f/0_576_8640_5184/master/8640.jpg?width=620&quality=85&auto=format&fit=max&s=358de4318acd68df80290c528e9dc6a6"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "Police to use live facial recognition in crowds at King Charles coronation"
+    excerpt: "Met says technology will not be used to target protesters or activists, but campaigners say use is ‘extremely worrying’"
+    publishedDateTime: 2023-05-03T19:37:00Z
+    webUrl: "https://www.theguardian.com/uk-news/2023/may/03/metropolitan-police-live-facial-recognition-in-crowds-at-king-charles-coronation?ref=upstract.com"
+    ampWebUrl: "https://amp.theguardian.com/uk-news/2023/may/03/metropolitan-police-live-facial-recognition-in-crowds-at-king-charles-coronation"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/uk-news/2023/may/03/metropolitan-police-live-facial-recognition-in-crowds-at-king-charles-coronation"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/b8db4757a16c78241897d176d4991a39cfc6636f/0_576_8640_5184/master/8640.jpg?width=620&quality=85&auto=format&fit=max&s=358de4318acd68df80290c528e9dc6a6"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "Crown comes to Parliament in pre-coronation Charles visit"
+    excerpt: "Before the glory of his coronation weekend, King Charles III has visited Parliament to get a reminder that the monarch’s power has limits"
+    publishedDateTime: 2023-05-02T15:33:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/crown-parliament-pre-coronation-charles-visit-99011771"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/crown-parliament-pre-coronation-charles-visit-99011771"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/crown-parliament-pre-coronation-charles-visit-99011771"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 44
+    images:
+      - url: "https://s.abcnews.com/images/International/wirestory_077c71b57815a241a75068d9789b06d9_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Crown comes to Parliament in pre-coronation Charles visit"
+    excerpt: "Before the glory of his coronation weekend, King Charles III visited Parliament Tuesday, to get a reminder that the monarch’s power has limits. Charles and Camilla, the queen consort, attended a reception for lawmakers,"
+    publishedDateTime: 2023-05-02T17:35:00Z
+    webUrl: "https://www.aol.com/entertainment/crown-comes-parliament-pre-coronation-142757461.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 24
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/dVKI4tF8bo1pxGOgOzrxZQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_associated_press_484/a5718b423eb5b81f75512bd1be2fee74"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Facial recognition cameras set to scan crowds at King’s coronation as 11,500 police deployed"
+    excerpt: "The Metropolitan police is set to deploy live facial recognition cameras as part of ramped up security measures for King Charles III’s coronation. The force has said it intends to use the technology in central London and in order to identify people who may be deemed a threat to public safety."
+    publishedDateTime: 2023-05-03T13:13:00Z
+    webUrl: "https://inews.co.uk/news/facial-recognition-cameras-kings-coronation-police-deployed-2314018?ITO=msn"
+    type: article
+    provider:
+      name: i
+      domain: inews.co.uk
+    quality: 8
+
+secured: "EPQhwkRYwNBQxcP2jr3JUUZWPxLMS86JW3akTbHPavbwPseGKqOjlKSVnCoIMN2D8JPi86LDkQky3yjodPbm73jmU7XBss3mf5G+rYvL7GVaAhp9VeddUJgd8106fIOvezkSK3UoTAY9cv1CyE/Mq1/dBU7G4/ey/qUFBV6Lc4Mn0OY+gEUIdXKZKWsH4mSC/zqD2v9FnTsu/GsFWU+yHnqgfGLkHu8i1wLyBTrHKXHYtXlmbmMsHQm/N7BqAJHxxvU8Dc9K2tUz/9hmtQA74b01jeRW3xdsEIUNc7EsJ66qdH8b7ErGIi5Yscbn6O3f3HcTqGf5ch5zsC88MBkuMztp5EytWwscN4yWlG95DIQ=;rZqtRXqWJjS9BQqKqcHFuA=="
+---
+

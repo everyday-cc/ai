@@ -7,7 +7,7 @@ originalUrl: "https://www.dawn.com/news/1750426/ai-robotics-experts-in-demand-cl
 webUrl: "https://www.dawn.com/news/1750426/ai-robotics-experts-in-demand-clerical-jobs-losing-shine"
 type: article
 quality: 71
-heat: 73
+heat: 71
 published: true
 
 provider:

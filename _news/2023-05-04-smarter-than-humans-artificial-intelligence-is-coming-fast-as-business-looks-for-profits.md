@@ -7,7 +7,7 @@ originalUrl: "https://www.cbc.ca/news/business/ai-doom-column-don-pittis-1.68293
 webUrl: "https://www.cbc.ca/news/business/ai-doom-column-don-pittis-1.6829302"
 type: article
 quality: 30
-heat: 30
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     height: 349
     isCached: true
 
-secured: "LeOkgHH4GY5gbQHq7NQ+WninTnGnnUw7iN+UGRg2EKhIpc9kOkmrL4aWeDrwr2zoyL0UGDaG3zsBJhxDyQGgdxPIxU2sk0SnLQRMlaVZ+ELmV0SoT36AEVuzv8AnO/81vVBZVGio/I1DaHJA0KgwLEDSukdNjlsFnPyCRZVSaW04FiwCGubIdNxIhmqW1kdWTiJ8ANMr5he55+NzCFB3x/j8xD0IoMNbLfKIK8xKDIHHKfg1pz35LzY42lrIrASRj5R+YOVxFVeDkImWK6JT7IqLLrEkg6CC8IiTsZlyRKp0ZyDELIMXX/Na4apQoRySuaKb519mDOAoEMrCVypJT80OijWtfC1vfn6o4EtnSls=;ghx6ye8ZDoHDdM4tufVmqQ=="
+related:
+  - title: "White House Must Take More Action To Address AI Concerns"
+    excerpt: "Twitter The White House Blueprint for an AI Bill of Rights issued last October is a strong start to a government response to protect workers, families, and our democracy from the potential pitfalls of AI. The recent release of generative AI tools is ..."
+    publishedDateTime: 2023-05-04T11:00:00Z
+    webUrl: "https://www.americanprogress.org/article/white-house-must-take-more-action-to-address-ai-concerns/"
+    type: article
+    provider:
+      name: Center for American Progress
+      domain: americanprogress.org
+    quality: 37
+    images:
+      - url: "https://www.americanprogress.org/wp-content/uploads/sites/2/2023/05/AIColumn.jpg"
+        width: 1680
+        height: 1120
+        isCached: true
+
+secured: "jODmVEIDV0yBEUiRuHMwRQlJrThtSPhV8jFK0OV79znX/UXZuOzd6W3OJ6YvngdwjirSg43KRPCN4nxhhfjoSJTLTcHakMxXtIab6U/eBmXAWUqGDbu5hGOvAvL6PGVRqww3jvfovSWooPYSVMBOzWyMRrT0KRGWrDYptxPUzT+iPpT3fmZeiBGs1QDOqEmPHvcNqkqz5JGcC3uhGEF/8IASsKLHVCNXqeZbVt8aoNPLmkJQMfSctzbb96KrL/pxeCR6fGFLM7UxzQ7TrAsASk9zXlWnCoIZytq46q95Ay1uDwAznEPArK3Ihoe9xvRuTmy4cHP7MHXpzArvKEtQFdeF+DlbnfQS4s+XocENX+OEwnfwAWFpzEuX0lQ2PZ4oWfTiO/RKOo0J3zdnN7peJmwycO2z7bH5ONSn0bOjWFa0+4OFBuHDOdhFgRRAU9jiblW5l+DhLuWsxILyHzA+dq9yJkUjkA1wQVOQQzgL+nWiLkwxlh1ypgyWmjTXZMSUPGJDn0cQKkWoaoEzNEaYfA==;gi42mdQzfjsdWgKwiMrwgg=="
 ---
 

@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Walmart now using AI for some vendor deals"
-excerpt: "Walmart Inc. and other large companies are now using artificial intelligence \"chatbot\" programs to negotiate some of their vendor contracts."
-publishedDateTime: 2023-05-04T09:45:00Z
-originalUrl: "https://www.nwaonline.com/news/2023/may/04/walmart-now-using-ai-for-some-vendor-deals/?business-arkansas"
-webUrl: "https://www.nwaonline.com/news/2023/may/04/walmart-now-using-ai-for-some-vendor-deals/?business-arkansas"
+excerpt: "M. Walton College of Business, was one of the article's authors. Lacity said Tuesday that many early adopters of AI-powered chatbots start off in low-risk categories such as transportation, equipment and office supplies, and with \"tail-end\" suppliers.\""
+publishedDateTime: 2023-05-04T10:56:00Z
+originalUrl: "https://www.arkansasonline.com/news/2023/may/04/walmart-now-using-ai-for-some-vendor-deals/?latest"
+webUrl: "https://www.arkansasonline.com/news/2023/may/04/walmart-now-using-ai-for-some-vendor-deals/?latest"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Northwest Arkansas Democrat Gazette
-  domain: nwaonline.com
+  name: Arkansas Democrat-Gazette
+  domain: arkansasonline.com
 
 topics:
   - AI
@@ -34,6 +34,6 @@ related:
       domain: pcmag.com
     quality: 47
 
-secured: "sms7VQAKIuNGjyKhh5xXTgkxsaF8hoelUw2V93E0g9/8/qQxQvBcKsMI3xX2HTh1z7Os4SNtjtx//GL5p0ZNfRVOfvVlq578ZCAZuEZHLc+xNaj2jcjypb38lWF1mi1urVboIeiJZ1uq9hn5fini6KuqtSztPemKZ+P5PnytxWNC6PP9c3CQfTnDavroGsxcUt0adXIlTDaqYf3UA6lQKveBmMxXJVLGNS1dTbo1ZUUYOMWsqSZeyy7EJtPw/LJNhyoRfpyxqup2FJEiZ5s7c5VjwQbkBuDGYib/KOVsL52Omq/24nA7bl579rRFL3wHtH0DbFA1ZxHcAqg1p7xXjJWul0XZP+7oOpsFtc+/DZM=;qw2NZNXrTU44BiglbTqEdw=="
+secured: "Dvcmco1CrvAM1Sp59VdtLoWGCZxxRH1N67WiXxtywnrAsbnjeZU3m2aPYlgtBJpUyI0FK9lgWnv++nmyN3ip8kMz3VKsDWs+LQMiCjywTNPsSCiIGv6sDeCPZrG4Yq6wmon6nr6vnfnrN+fVN0n/0Pwt1sAJx8NbSuDPEQjeaSL+YgrPDDv/MRY/XT67trg9tZs52wiJ2+f0Q7ceVy4wGKqay4uWU8pBw5SSWv9+lQ7lF8mHt9S3HuW10pY1Ou+BLjKnKo6ZcY8ZfdVj0/d5B33XPxg084b1bLUg1IvSn2lKuH2CtPPFpa5vHCP+TQpJzsSUryKxICWbPD+g18cvdDE23FJ5CY653WrE3khEMi0=;wHp9yKcvueePWWpn8aJg0g=="
 ---
 
