@@ -62,7 +62,7 @@
       "originalUrl": "https://www.forbes.com/sites/brucejapsen/2023/05/03/centene-makeover-continues-as-health-insurer-divests-artificial-intelligence-platform/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -101,7 +101,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {

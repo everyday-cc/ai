@@ -2,6 +2,50 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2023-04-21-ai-ml-digital-twins-and-computer-vision-whats-really-driving-digital-strategy-experts.md",
+      "title": "AI, ML, Digital Twins and Computer Vision — What's Really Driving Digital Strategy? | Experts",
+      "excerpt": "Business leaders for the last few years have rushed to deploy the latest technology to better meet fluid customer demand. Many are now taking a closer look and realizing the need for unification of systems or platforms to drive real growth.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wwt.com/event/644186f14f6ec627759f23c7",
+      "originalUrl": "https://www.wwt.com/event/644186f14f6ec627759f23c7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wwt.com/api/attachments/6441a4aa21aeac56c2ec369c/thumbnail?width=1200",
+          "width": 1030,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-20T13:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WWT",
+        "domain": "wwt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-04-21-google-announces-google-deepmind.md",
       "title": "Google Announces Google DeepMind",
       "excerpt": "Google DeepMind is a new business unit that combines two previously separate AI teams from the online giant, Google Research's Brain team and DeepMind.",
@@ -1124,50 +1168,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-20-microsoft-and-epic-partner-to-bring-gpt-4-and-generative-ai-to-healthcare-providers.md",
-      "title": "Microsoft and Epic partner to bring GPT-4 and generative AI to healthcare providers",
-      "excerpt": "Healthcare software giant Epic Systems Corp. said Monday it’s partnering with Microsoft Corp. to embrace generative artificial intelligence through its Azure AI platform. Under the partnership ...",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/04/18/microsoft-epic-partner-bring-gpt-4-generative-ai-healthcare-providers/",
-      "originalUrl": "https://siliconangle.com/2023/04/18/microsoft-epic-partner-bring-gpt-4-generative-ai-healthcare-providers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/04/neuroscience-doctor-holding-clipboard-showing-treatment-against-brain-disease-patient-with-eeg-headset-woman-sitting-neurological-scientific-laboratory-treating-nervous-system-dysfunctions-1.jpg",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-19T22:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

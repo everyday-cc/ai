@@ -1,31 +1,27 @@
 ---
 category: news
-title: "Best Fintech App Development Companies in the USA"
-excerpt: "Fintech app development services are known to develop diverse fintech apps. The introduction involves creating"
-publishedDateTime: 2023-05-02T15:29:00Z
-originalUrl: "https://www.marketwatch.com/press-release/best-fintech-app-development-companies-in-the-usa-2023-05-02"
-webUrl: "https://www.marketwatch.com/press-release/best-fintech-app-development-companies-in-the-usa-2023-05-02"
+title: "APAC to lead global fintech market"
+excerpt: "With a projected CAGR (compound annual growth rate) of 27%, Asia Pacific (APAC) will likely outpace the United States of America to become the world’s top fintech market by 2030, according to a new report by Boston Consulting Group (BCG) and QED Investors."
+publishedDateTime: 2023-05-04T02:00:00Z
+originalUrl: "https://yourstory.com/2023/05/apac-to-lead-global-fintech-market"
+webUrl: "https://yourstory.com/2023/05/apac-to-lead-global-fintech-market"
 type: article
-quality: 54
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Your Story
+  domain: yourstory.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://images.yourstory.com/cs/2/47afd43024ec11ec9ecb9b7afb0df1da/FintechAPAc-1683128924153.png?fm=png&auto=format"
+    width: 1600
+    height: 800
     isCached: true
 
 related:
@@ -33,6 +29,20 @@ related:
     excerpt: "Fintech apps are designed for various purposes such as payments, budgeting, investing, and lending. Fintech app development incorporates advanced technologies such as AI, ML, and Blockchain. Developing a fintech app requires expertise in both finance and technology,"
     publishedDateTime: 2023-05-01T09:59:00Z
     webUrl: "https://www.marketwatch.com/press-release/best-fintech-app-development-companies-in-the-usa-2023-05-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Best Fintech App Development Companies in the USA"
+    excerpt: "Fintech app development services are known to develop diverse fintech apps. The introduction involves creating"
+    publishedDateTime: 2023-05-02T15:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/best-fintech-app-development-companies-in-the-usa-2023-05-02"
     type: article
     provider:
       name: MarketWatch
@@ -81,20 +91,6 @@ related:
       - url: "https://www.finextra.com/finextra-images/visible_pictures/9c74d555-fe4c-4a62-beb9-6c087ccf3866.png"
         width: 500
         height: 300
-        isCached: true
-  - title: "APAC to lead global fintech market"
-    excerpt: "With a projected CAGR (compound annual growth rate) of 27%, Asia Pacific (APAC) will likely outpace the United States of America to become the world’s top fintech market by 2030, according to a new report by Boston Consulting Group (BCG) and QED Investors."
-    publishedDateTime: 2023-05-04T02:00:00Z
-    webUrl: "https://yourstory.com/2023/05/apac-to-lead-global-fintech-market"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 24
-    images:
-      - url: "https://images.yourstory.com/cs/2/47afd43024ec11ec9ecb9b7afb0df1da/FintechAPAc-1683128924153.png?fm=png&auto=format"
-        width: 1600
-        height: 800
         isCached: true
   - title: "These 8 Australian fintech Companies Will Hit the Stage at Demo Day This Month"
     excerpt: "Over the last three years, we’ve introduced you to over 30 Australian fintech startups with the help of the Australian Trade and Investment Commission (Austrade) in New York. Au"
@@ -166,6 +162,6 @@ related:
       domain: newswit.com
     quality: 0
 
-secured: "azMfjTvSTM9c3gZpUDoeELleGG63I6rOo/lFvux3KYPTzDacyGTm6kja+82hjITeGO1eRiZP3sT0XI83i6IAekz8AaPC7NTcb+3I/lkeaTA6PbGKvoVPIM1Y61rZGwsoW/NI9DgNNp9xx4ftZtUHlsV/Me6bMAwmmKEoHYe942To9iBIdtf6rTP6CoIxD94JD9c0T3v3DnrXtcRsy2SyTBdZWxgasHHoCToYkupq97k50qorC5g4e6bWeFN347Jo76eOskrnE5Z8ofvtG7l7PmbUGuAvXHofbnH41j1CoZnG96XPsV76mxGw2j23t8AW5ici17cg8NEw95HGfosDU6JUOFMM7xpcgi+UTPAHXms=;GHp5A6CO2y9x1h5GYcauTw=="
+secured: "hVp83c1WRfhcsIs1MDj7Yhk0Te4q6FsnUKkHW1BcDfkl7NC++tT2Ts/nVaV4shFWr0LpL9DwKXd4zuamgEapeyKuRR1XWKIMeEUmz86PN2A8DVj+1YVxTts2gt+mtW3B6+kBDZvTExoR7C1+TsnesRP3MyOHfkl+vfiWHxqs0VjQAalSCtY9SwBBFbSaHqzPTHPD+mHpwdBYGQktKKGsxkl13vY6vhCuKt7EPmiVlGNS3vYqjgXbN2QAcbf1/usCLo4cL+i6E9+X6fD/oiLwh6KhMZfBwQQMW1DDiu/LGlpEew1EEWDzqkTu8jNzBXUfcd1LDu2gA0A2ytnlsdjwejViksAGCxLphloADIhA/5o=;ImzI5iOsm4td4C/3Zke/4A=="
 ---
 

@@ -2,6 +2,40 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2023-04-13-startups-plans-for-robot-lawyer-nixed-after-ceo-threatened-with-jail.md",
+      "title": "Startup's Plans for Robot Lawyer Nixed After CEO Threatened With Jail",
+      "excerpt": "It looks like AI startup DoNotPay's \"robot lawyer\" — specifically, an AI-powered earpiece designed to coach defendants through court hearings about things like parking tickets and bill ...",
+      "sourceUrl": null,
+      "webUrl": "https://futurism.com/the-byte/startup-robot-lawyer-jixed-jail-ceo",
+      "originalUrl": "https://futurism.com/the-byte/startup-robot-lawyer-jixed-jail-ceo",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-13T04:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-13-analysis-the-era-of-deep-learning-is-coming-to-an-end.md",
       "title": "Analysis: \"The Era of Deep Learning Is Coming to an End\"",
       "excerpt": "Deep learning has dominated the field for several years — but may be on its way out. The field of AI has shifted focus roughly every decade since it began in the 1950s. Now, a new analysis ...",
@@ -1048,40 +1082,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-12-this-robot-is-controlled-by-the-power-of-the-mind.md",
-      "title": "This robot is controlled by the power of the mind",
-      "excerpt": "This four-legged robot responds to commands ... a disabled person could be able to “control” a wheelchair or a prosthetic device simply with their mind. Note that this work is the subject ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.freemalaysiatoday.com/category/leisure/2023/04/12/this-robot-is-controlled-by-the-power-of-the-mind/",
-      "originalUrl": "https://www.freemalaysiatoday.com/category/leisure/2023/04/12/this-robot-is-controlled-by-the-power-of-the-mind/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-12T06:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Free Malaysia Today",
-        "domain": "freemalaysiatoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

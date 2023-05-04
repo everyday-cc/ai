@@ -2,6 +2,57 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2023-04-26-avengers-director-predicts-artificial-intelligence-will-be-able-to-make-movies-in-two-years.md",
+      "title": "Avengers director predicts artificial intelligence will be able to make movies in two years",
+      "excerpt": "Endgame\" and \"Avengers: Infinity War\" predicts that in two years artificial intelligence could be making moves, according to comments he made at the Sands International Film Festival in St. Andrews, Scotland.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/avengers-director-predicts-artificial-intelligence-make-movies-in-two-years",
+      "originalUrl": "https://www.foxnews.com/media/avengers-director-predicts-artificial-intelligence-make-movies-in-two-years",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fe044709-5321-49e6-889e-24f2e7e60968/56371045-25a7-49d1-b3c9-f3c01b831a6e/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/avengers-director-predicts-artificial-intelligence-make-movies-in-two-years.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/avengers-director-predicts-artificial-intelligence-make-movies-in-two-years.amp",
+      "publishedDateTime": "2023-04-25T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-26-ai-startup-runway-launches-app-to-bring-users-video-to-video-generative-ai.md",
       "title": "AI startup Runway launches app to bring users video-to-video generative AI",
       "excerpt": "Runway launched its first mobile app yesterday to give users access to Gen-1, its video-to-video generative AI model.",
@@ -1164,49 +1215,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-updated-daily-here-are-the-10-best-amazon-deals-on-vitamix-blink-and-playstation.md",
-      "title": "Updated daily: Here are the 10 best Amazon deals on Vitamix, Blink and PlayStation",
-      "excerpt": "If you've come looking for amazing deals, Amazon is the place to go. Amazon's extensive collection of daily sales can help you find everything you need for your kitchen, closet, living room and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/money/reviewed/2023/04/24/best-amazon-deals-sales/11727002002/",
-      "originalUrl": "https://www.usatoday.com/story/money/reviewed/2023/04/24/best-amazon-deals-sales/11727002002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2023/04/28/USAT/5cdb1fff-8ba3-4d46-b8ab-43903c7bd10f-Amazon_DOTD_42823.jpg?auto=webp&crop=4778,2688,x21,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-25T08:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

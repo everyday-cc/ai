@@ -92,6 +92,20 @@ related:
         width: 500
         height: 300
         isCached: true
+  - title: "APAC to lead global fintech market"
+    excerpt: "With a projected CAGR (compound annual growth rate) of 27%, Asia Pacific (APAC) will likely outpace the United States of America to become the world’s top fintech market by 2030, according to a new report by Boston Consulting Group (BCG) and QED Investors."
+    publishedDateTime: 2023-05-04T02:00:00Z
+    webUrl: "https://yourstory.com/2023/05/apac-to-lead-global-fintech-market"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 24
+    images:
+      - url: "https://images.yourstory.com/cs/2/47afd43024ec11ec9ecb9b7afb0df1da/FintechAPAc-1683128924153.png?fm=png&auto=format"
+        width: 1600
+        height: 800
+        isCached: true
   - title: "OPTASIA RANKS THIRD AMONG TOP FINTECH COMPANIES ACCORDING TO FORBES MIDDLE EAST MAGAZINE"
     excerpt: "Optasia, the leading Fintech services provider received one more top recognition, ranking third among the Top 30 Fintech companies in Middle East, by the world acclaimed Forbes Magazine in its Middle East edition."
     publishedDateTime: 2023-04-30T23:59:00Z

@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Why Google DeepMind may be 'bad news' for the company"
-    excerpt: "According to a report by The Financial Times, Google is risking internal turmoil by bringing DeepMind onboard. Citing people familiar with the matter,"
-    publishedDateTime: 2023-04-29T10:20:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/why-google-deepmind-may-be-bad-news-for-the-company/articleshow/99868387.cms"
-    ampWebUrl: "https://m.timesofindia.com/gadgets-news/why-google-deepmind-may-be-bad-news-for-the-company/amp_articleshow/99868387.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/why-google-deepmind-may-be-bad-news-for-the-company/amp_articleshow/99868387.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-99868418,width-1070,height-580,imgsize-1272816,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1069
-        height: 580
-        isCached: true
   - title: "Technology: Google DeepMind merger, LLM food"
     excerpt: "Tech correspondent Mark Pesce joins Kathryn to look at the merger of two of Alphabet's big AI teams: Google Brain and DeepMind. Can both put past differences aside to work well together? It comes as AI chatbots explode in popularity - but what are they being trained on?"
     publishedDateTime: 2023-05-03T23:55:00Z

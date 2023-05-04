@@ -2,6 +2,50 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2023-04-20-microsoft-and-epic-partner-to-bring-gpt-4-and-generative-ai-to-healthcare-providers.md",
+      "title": "Microsoft and Epic partner to bring GPT-4 and generative AI to healthcare providers",
+      "excerpt": "Healthcare software giant Epic Systems Corp. said Monday it’s partnering with Microsoft Corp. to embrace generative artificial intelligence through its Azure AI platform. Under the partnership ...",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2023/04/18/microsoft-epic-partner-bring-gpt-4-generative-ai-healthcare-providers/",
+      "originalUrl": "https://siliconangle.com/2023/04/18/microsoft-epic-partner-bring-gpt-4-generative-ai-healthcare-providers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/04/neuroscience-doctor-holding-clipboard-showing-treatment-against-brain-disease-patient-with-eeg-headset-woman-sitting-neurological-scientific-laboratory-treating-nervous-system-dysfunctions-1.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-19T22:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-04-20-ai-powered-retina-scanning-startup-mediwhale-raises-9m.md",
       "title": "AI-powered retina scanning startup Mediwhale raises $9M",
       "excerpt": "Mediwhale, a startup that detects chronic disease with its AI-powered retina scans, raises $9M Series A funding.",
@@ -1086,40 +1130,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-salience-labs-appoints-former-imagination-technologies-cpo-to-lead-productization-of-multi-chip-photonics-processor-for-ai.md",
-      "title": "Salience Labs appoints former Imagination Technologies CPO to lead productization of multi-chip photonics processor for AI",
-      "excerpt": "At Imagination Technologies, Chris delivered the annual 5-year strategy and business plan and the roadmap of GPU, AI and CPU products licensed to mobile, consumer, data centre and automotive ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20230419005519/salience-labs-appoints-former-imagination-technologies-cpo-to-lead-productization-of-multi-chip-photonics-processor-for-ai",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20230419005519/salience-labs-appoints-former-imagination-technologies-cpo-to-lead-productization-of-multi-chip-photonics-processor-for-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-19T05:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

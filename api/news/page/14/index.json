@@ -2,6 +2,49 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2023-04-25-mark-zuckerberg-has-become-so-obsessed-with-ai-that-one-wall-street-research-firm-is-jesting-that-facebook-will-change-its-name-to-metai.md",
+      "title": "Mark Zuckerberg has become so obsessed with AI that one Wall Street research firm is jesting that Facebook will change its name to MetAI",
+      "excerpt": "Just 18 months ago, Mark Zuckerberg bet the future of Facebook on the metaverse ... Zuckerberg's newfound love with all things AI,\" they quipped in a research email. \"It seems that the year ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.in/Mark-Zuckerberg-has-become-so-obsessed-with-AI-that-one-Wall-Street-research-firm-is-jesting-that-Facebook-will-change-its-name-to-MetAI/articleshow/99743229.cms",
+      "originalUrl": "https://www.businessinsider.in/Mark-Zuckerberg-has-become-so-obsessed-with-AI-that-one-Wall-Street-research-firm-is-jesting-that-Facebook-will-change-its-name-to-MetAI/articleshow/99743229.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.businessinsider.in/thumb/99742969.cms?height=275&width=412",
+          "width": 412,
+          "height": 275,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.in/tech/news/mark-zuckerberg-has-become-so-obsessed-with-ai-that-one-wall-street-research-firm-is-jesting-that-facebook-will-change-its-name-to-metai/amp_articleshow/99743229.cms",
+      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/mark-zuckerberg-has-become-so-obsessed-with-ai-that-one-wall-street-research-firm-is-jesting-that-facebook-will-change-its-name-to-metai/amp_articleshow/99743229.cms",
+      "publishedDateTime": "2023-04-24T22:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider India",
+        "domain": "businessinsider.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-25-how-snap-microsoft-and-exclusible-are-helping-nike-zegna-and-shiseido-harness-ar-ai-and-web3-tech.md",
       "title": "How Snap, Microsoft And Exclusible Are Helping Nike, Zegna And Shiseido Harness AR, AI And Web3 Tech",
       "excerpt": "In-store augmented reality (AR) mirrors, artificial intelligence (AI) powered styling meets made to measure tailoring, and automated nonfungible token (NFT) creation are being deployed by retailers to take customer service to the next level.",
@@ -1175,48 +1218,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-24-researchers-use-ai-to-discover-new-planet-outside-solar-system.md",
-      "title": "Researchers use AI to discover new planet outside solar system",
-      "excerpt": "A University of Georgia research team has confirmed evidence of a previously unknown planet outside of our solar system, and they used machine learning tools to detect it.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-04-ai-planet-solar.html",
-      "originalUrl": "https://phys.org/news/2023-04-ai-planet-solar.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/researchers-use-ai-to-1.jpg",
-          "width": 1958,
-          "height": 1670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-04-ai-planet-solar.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-04-ai-planet-solar.amp",
-      "publishedDateTime": "2023-04-24T09:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-04-centene-makeover-continues-as-health-insurer-divests-artificial-intelligence-platform.md",
+      "title": "Centene Makeover Continues As Health Insurer Divests Artificial Intelligence Platform",
+      "excerpt": "Centene will divest Apixio, an artificial intelligence platform, as the health insurer focuses on its health benefits business and continues to review its portfolio.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/brucejapsen/2023/05/03/centene-makeover-continues-as-health-insurer-divests-artificial-intelligence-platform/",
+      "originalUrl": "https://www.forbes.com/sites/brucejapsen/2023/05/03/centene-makeover-continues-as-health-insurer-divests-artificial-intelligence-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5dca0d42f5b54ee0b18a87a03661ea94/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 765,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/brucejapsen/2023/05/03/centene-makeover-continues-as-health-insurer-divests-artificial-intelligence-platform/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucejapsen/2023/05/03/centene-makeover-continues-as-health-insurer-divests-artificial-intelligence-platform/amp/",
+      "publishedDateTime": "2023-05-03T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-05-04-examining-the-media-psychology-of-artificial-intelligence.md",
       "title": "Examining the Media Psychology of Artificial Intelligence",
       "excerpt": "The psychology of artificial intelligence is a burgeoning field in which science, medicine and health care, psychology, education, entertainment, and technology and commerce converge. Through media psychology, AI can be designed to wag the tail or wag the dog.",
@@ -1434,50 +1486,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-04-20-microsoft-and-epic-partner-to-bring-gpt-4-and-generative-ai-to-healthcare-providers.md",
-      "title": "Microsoft and Epic partner to bring GPT-4 and generative AI to healthcare providers",
-      "excerpt": "Healthcare software giant Epic Systems Corp. said Monday it’s partnering with Microsoft Corp. to embrace generative artificial intelligence through its Azure AI platform. Under the partnership ...",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/04/18/microsoft-epic-partner-bring-gpt-4-generative-ai-healthcare-providers/",
-      "originalUrl": "https://siliconangle.com/2023/04/18/microsoft-epic-partner-bring-gpt-4-generative-ai-healthcare-providers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/04/neuroscience-doctor-holding-clipboard-showing-treatment-against-brain-disease-patient-with-eeg-headset-woman-sitting-neurological-scientific-laboratory-treating-nervous-system-dysfunctions-1.jpg",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-19T22:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI",
         "AI in Healthcare"
       ]

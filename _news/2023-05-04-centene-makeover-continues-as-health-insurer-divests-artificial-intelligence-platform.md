@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/brucejapsen/2023/05/03/centene-makeover-co
 ampWebUrl: "https://www.forbes.com/sites/brucejapsen/2023/05/03/centene-makeover-continues-as-health-insurer-divests-artificial-intelligence-platform/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucejapsen/2023/05/03/centene-makeover-continues-as-health-insurer-divests-artificial-intelligence-platform/amp/"
 type: article
-quality: 80
-heat: 80
+quality: 82
+heat: 82
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/5dca0d42f5b54ee0b18a87a03661ea94/0x0.jpg?format=jpg&width=1200"
@@ -29,6 +30,6 @@ images:
     height: 765
     isCached: true
 
-secured: "xS2x5SxIVrdIHX31Jn/oAii5eQcwS+O2LdU8vl9/YrzH5piwhcf3xPgtKx+9Cl2b1qy/yosHY1kDmmgm2EizqBB2pU9MTLY/0ZmPD/r9AZN8wRof7dYRwlECH86Xjvlf8FT/V23uZT2fKp7JM5RDly1/vN9/AkbSyxmDtYxncTcZbnO0aHsiAqkF6bp/ukrnvfIRQVcQ+vvQ6XTRynZrDu0zacBExSBqtWYqgqdvcc8wKPsaYfRHKL2SpymMl+fwKEapgT9wQTObrc83rVaEcT5048208fzodumOrW8M4Am757S3WCbHqdrfAV31L5PY69XkJ0ikUid/245NLFJrORQbTHIGeywqcncxYx/CVx8=;P3JRi6hUCU4cc3ju9FikSw=="
+secured: "npnMIqXBWYd0wpEeL2pCjCDVCKo9t02htSFm45WSOlrxwdYnhaF08ORVuNOa3ky00WZP2b49wEuScme8LXYYz5v1zUI3guuEj+8z73gI4U3AFR4JLYnF0QTgEG6QBQFkd5aK1qJKwpQo/2+TG8u+UKNTLKeEVkqx9aOHmGkACetHgw9ZKhDeiTzpJrSSPVyAbRbxImynEQhnYE/T+W2tCGAc8ltBaMays97q68AXMUG97ulKghB8d10FbwmNhnIlocy0035gOsFmiI3LDWxfMs2HZogm3+hwiH+3Vi3QsPdDOJjbx4mD8zdiyZL9H2N4IJwY0vRcRnTs1he1GEivi14X8ofvEmnr+UagnUUaPhQ2RqhxQ+mNBt1FASir16uGRYGumngpd3u5fSqDNPRJfVzgyIn3UjaeWCsWU6OOBBxuGao6cXf501uaWAwRFwD977tR5iy7BChQ3ZLLtoH6kFdpQXIVs7+HcHblPnsu4nWvwN4BPedymns3nXxcdoEKniJ+3ie7nTQ2dLI5rDAoQg==;NkC4E8wphig6EkA3Y08fbQ=="
 ---
 

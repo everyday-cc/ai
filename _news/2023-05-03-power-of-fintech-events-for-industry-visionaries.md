@@ -86,6 +86,20 @@ related:
         width: 500
         height: 300
         isCached: true
+  - title: "APAC to lead global fintech market"
+    excerpt: "With a projected CAGR (compound annual growth rate) of 27%, Asia Pacific (APAC) will likely outpace the United States of America to become the world’s top fintech market by 2030, according to a new report by Boston Consulting Group (BCG) and QED Investors."
+    publishedDateTime: 2023-05-04T02:00:00Z
+    webUrl: "https://yourstory.com/2023/05/apac-to-lead-global-fintech-market"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 24
+    images:
+      - url: "https://images.yourstory.com/cs/2/47afd43024ec11ec9ecb9b7afb0df1da/FintechAPAc-1683128924153.png?fm=png&auto=format"
+        width: 1600
+        height: 800
+        isCached: true
   - title: "These 8 Australian fintech Companies Will Hit the Stage at Demo Day This Month"
     excerpt: "Over the last three years, we’ve introduced you to over 30 Australian fintech startups with the help of the Australian Trade and Investment Commission (Austrade) in New York. Au"
     publishedDateTime: 2023-05-02T14:20:00Z

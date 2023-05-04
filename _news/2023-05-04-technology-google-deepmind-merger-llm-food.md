@@ -7,7 +7,7 @@ originalUrl: "https://www.rnz.co.nz/national/programmes/ninetonoon/audio/2018888
 webUrl: "https://www.rnz.co.nz/national/programmes/ninetonoon/audio/2018888689/technology-google-deepmind-merger-llm-food"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Why Google DeepMind may be 'bad news' for the company"
-    excerpt: "According to a report by The Financial Times, Google is risking internal turmoil by bringing DeepMind onboard. Citing people familiar with the matter,"
-    publishedDateTime: 2023-04-29T10:20:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/why-google-deepmind-may-be-bad-news-for-the-company/articleshow/99868387.cms"
-    ampWebUrl: "https://m.timesofindia.com/gadgets-news/why-google-deepmind-may-be-bad-news-for-the-company/amp_articleshow/99868387.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/why-google-deepmind-may-be-bad-news-for-the-company/amp_articleshow/99868387.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-99868418,width-1070,height-580,imgsize-1272816,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1069
-        height: 580
-        isCached: true
   - title: "Co-founders of Google DeepMind and LinkedIn launch chatbot"
     excerpt: "The co-founders of Google DeepMind and LinkedIn have launched an artificial intelligence chatbot called Pi, adding to the flood of similar products rolled out publicly this year by the likes of OpenAI, Google and Snap."
     publishedDateTime: 2023-05-02T19:00:00Z
