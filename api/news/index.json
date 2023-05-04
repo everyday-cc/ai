@@ -2,6 +2,109 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-04-salesforce-launches-slackgpt-embracing-generative-ai-for-enterprise-workflows.md",
+      "title": "Salesforce launches SlackGPT, embracing generative AI for enterprise workflows",
+      "excerpt": "Salesforce today announced SlackGPT, a new generative AI-powered experience planned for the Slack app, to be released soon.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/salesforce-launches-slackgpt-embracing-generative-ai-for-enterprise-workflows/",
+      "originalUrl": "https://venturebeat.com/ai/salesforce-launches-slackgpt-embracing-generative-ai-for-enterprise-workflows/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1231317627.jpg?w=1200&strip=all",
+          "width": 1018,
+          "height": 574,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/salesforce-launches-slackgpt-embracing-generative-ai-for-enterprise-workflows/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/salesforce-launches-slackgpt-embracing-generative-ai-for-enterprise-workflows/amp/",
+      "publishedDateTime": "2023-05-04T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-04-artificial-intelligence-in-healthcare-market-forecast-to-2031.md",
+      "title": "Artificial Intelligence in Healthcare Market Forecast to 2031",
+      "excerpt": "This \"Artificial Intelligence in Healthcare Market\" report offers a thorough analysis of the industry, including",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-forecast-to-2031-2023-05-04",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-forecast-to-2031-2023-05-04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-04T08:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-04-nsf-announces-140-million-investment-in-seven-artificial-intelligence-research-institutes.md",
       "title": "NSF Announces $140 Million Investment In Seven Artificial Intelligence Research Institutes",
       "excerpt": "The U.S. National Science Foundation (NSF), along with several other federal agencies and higher education institutions, has announced a $140 million investment to establish seven new National Artificial Intelligence Research Institutes (AI Institutes).",
@@ -112,7 +215,7 @@
       "originalUrl": "https://gizmodo.com/white-house-announce-ai-initiative-openai-microsoft-1850403559",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -258,48 +361,6 @@
       ]
     },
     {
-      "path": "_news/2023-05-04-vp-harris-to-meet-with-ceos-about-artificial-intelligence-risks.md",
-      "title": "VP Harris to meet with CEOs about artificial intelligence risks",
-      "excerpt": "The Democratic administration plans to announce an investment of $140 million to establish seven new AI research institutes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/tech/tech-news/vp-harris-meet-ceos-artificial-intelligence-risks-rcna82835",
-      "originalUrl": "https://www.nbcnews.com/tech/tech-news/vp-harris-meet-ceos-artificial-intelligence-risks-rcna82835",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/230504-kamala-harris-mjf-0946-2ef781.jpg",
-          "width": 2500,
-          "height": 1436,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna82835",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna82835",
-      "publishedDateTime": "2023-05-04T06:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-04-machine-learning-chip-market-global-analysis-2023-2030.md",
       "title": "Machine Learning Chip Market Global Analysis 2023-2030",
       "excerpt": "Section 5: Research Method and Data Source. Get a Sample PDF of report @ https://www.360marketupdates.com/enquiry/request-sample/19278373 Highlights with Short Brief ...",
@@ -308,7 +369,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-chip-market-global-analysis-2023-2030-2023-05-04",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 106,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -344,17 +405,26 @@
       ]
     },
     {
-      "path": "_news/2023-05-04-free-stem-resources-for-teachers-from-ibm-skillsbuild.md",
-      "title": "Free STEM resources for teachers from IBM SkillsBuild",
+      "path": "_news/2023-05-04-supporting-teachers-in-their-stem-skilling-journeys.md",
+      "title": "Supporting teachers in their STEM skilling journeys",
       "excerpt": "Three of my four grandparents were teachers. Their love of learning and passion for lighting a spark in their students impressed upon me the power that teachers have to change lives and shape the future. As I&#8217;m writing this, I am in Jacksonville, Florida, just a few miles from where my grandmother,",
       "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/free-stem-resources-for-teachers-from-ibm-skillsbuild/",
-      "originalUrl": "https://www.ibm.com/blog/free-stem-resources-for-teachers-from-ibm-skillsbuild/",
+      "webUrl": "https://www.ibm.com/blog/supporting-teachers-in-their-stem-skilling-journeys/",
+      "originalUrl": "https://www.ibm.com/blog/supporting-teachers-in-their-stem-skilling-journeys/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 122,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/Supporting-teachers-in-their-STEM-skilling-journeys-630x330.jpg",
+          "width": 630,
+          "height": 330,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -591,7 +661,7 @@
       "originalUrl": "https://venturebeat.com/ai/microsoft-launches-new-features-for-its-ai-powered-bing-and-edge/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 264,
+      "heat": 284,
       "tags": null,
       "images": [
         {
@@ -943,7 +1013,7 @@
       "originalUrl": "https://fortune.com/2023/05/03/google-deepmind-ceo-agi-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -995,7 +1065,7 @@
       "originalUrl": "https://www.theguardian.com/uk-news/2023/may/03/metropolitan-police-live-facial-recognition-in-crowds-at-king-charles-coronation",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -1193,57 +1263,6 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-new-breed-of-search-with-ai-assist-combines-vector-database-and-keywords.md",
-      "title": "New breed of search with AI assist combines vector database and keywords",
-      "excerpt": "The AI-enabled NeuralSearch from Algolia can understand the intent and context behind queries and deliver optimized results at lower cost.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/new-breed-search-with-ai-assist-combines-vector-database-keywords/",
-      "originalUrl": "https://venturebeat.com/ai/new-breed-search-with-ai-assist-combines-vector-database-keywords/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-1396158883.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 711,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/new-breed-search-with-ai-assist-combines-vector-database-keywords/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/new-breed-search-with-ai-assist-combines-vector-database-keywords/amp/",
-      "publishedDateTime": "2023-05-03T13:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

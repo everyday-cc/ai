@@ -2,9 +2,9 @@
 category: news
 title: "Media Alert: BrainChip Joins Arm Tech Talk to Discuss Cutting-Edge AI Solutions that Deliver Exceptional Performance and Efficiency"
 excerpt: "BrainChip Holdings Ltd (ASX: BRN, OTCQX: BRCHF, ADR: BCHPY), the world's first commercial producer of ultra-low power, fully digital, event- based, neuromorphic AI IP, invites you to participate in the upcoming Arm Tech Talk \"AI at the Edge: Going Cloudless with Arm and BrainChip\" May 9,"
-publishedDateTime: 2023-05-04T15:19:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/05/04/9808130.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/05/04/9808130.htm"
+publishedDateTime: 2023-05-04T16:45:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/05/04/9808130.htm"
+webUrl: "https://it.tmcnet.com/news/2023/05/04/9808130.htm"
 type: article
 quality: 24
 heat: 24
@@ -24,6 +24,6 @@ images:
     height: 353
     isCached: true
 
-secured: "6m59IQS2ITznHDLMkAYGMyjgKfi3e7KMjwPD5aIWrlmM3/iHVCv3WFCKmjqZBjQ+sUKotzIVWUg7iFPNQM1IC9p4eUiYaRLxKnHTiGKYRP0Z6SOBuNKtnLzQcipDqpjJyLELcdgTiPVX6Drbd3EpiGQc7RuNh8amxynT1+RncQVaYs1HAJiuZyD+blROLxZRP6OJ1f40hKjlk+MAyIvOuyc4HtlO71FWZZFDGtIaiy/J1We+CJ1MN1IusnPstblrT+i1VYC7aRZjJxUOrd1vTfairv5Qsaa2ZkO5m4zHhTQOGvwWXgCZK2JReKh2kwT/Lj9f82L7yENAOz/RE20w2svsdHUyCV8a0pdfz0/3WiE=;sBNCG7P2GAK8wPJkMOYUhQ=="
+secured: "XpWVuF1RpfriVj8Ny3HezQPvYDYaKIrQVZdh8beMvgQ0Pn2BWjMXOym7WsWd5zEx3oNSJJkL8wvE7tQIGJk8vIn09oJlvKCZDwI/9qZqn1QVoULn6yPQUQ4/4GRFbFukNcPA/Wy/ooiMLqbul9qK72FRWkSxKz1dXze4f4qOh8zraS877OmIkhqZfek+DkfRaPcbVjvTBpcVCrsWnZOp0ixNRcJpYjHzG1Fb/1FggXrTKbwQU+ytD2q8Uh5QlfqQamrpzWaVaqJWIrn5zlMEBMSWXhJhvyIZ0OosBwNJsZ6bb62QhQCutmEOBdxXxmayUTBzghbrLyr74awQXXjWcQXtIPhGau/WdGkQd7X1+Vc=;37eVtUkLUh/RZBd7Rc6VrA=="
 ---
 

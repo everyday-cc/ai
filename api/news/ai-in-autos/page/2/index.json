@@ -262,6 +262,40 @@
       ]
     },
     {
+      "path": "_news/2023-04-25-baidu-announces-15-billion-fund-for-self-driving-cars-to-rival-tesla.md",
+      "title": "Baidu announces $1.5 billion fund for self-driving cars to rival Tesla",
+      "excerpt": "Chine internet giant Baidu has announced a 10 billion RMB ($1.5 billion) Apollo Fund to invest in 100 autonomous driving projects in the next three years. It also announced the release of Apollo 1 ...",
+      "sourceUrl": null,
+      "webUrl": "https://businesstech.co.za/news/motoring/200336/baidu-announces-1-5-billion-fund-for-self-driving-cars-to-rival-tesla/amp/",
+      "originalUrl": "https://businesstech.co.za/news/motoring/200336/baidu-announces-1-5-billion-fund-for-self-driving-cars-to-rival-tesla/amp/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-25T01:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "businesstech.co.za",
+        "domain": "businesstech.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-25-how-aurora-is-navigating-the-bumpy-road-to-commercial-self-driving-trucks.md",
       "title": "How Aurora is navigating the bumpy road to commercial self-driving trucks",
       "excerpt": "Chris Urmson, the CEO of AV company Aurora, talks about the road to commercial operations, the Uber ATG merger and what challenges lie ahead.",
@@ -408,6 +442,49 @@
         "AI in Autos",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-04-23-self-driving-cars-autonomous-driving-levels-explained.md",
+      "title": "Self-driving cars: Autonomous driving levels explained",
+      "excerpt": "They have no autonomous or self-driving controls at all, with all aspects of driving needing to be taken care of by the driver, including reacting to hazards. Level 1: Level 1 autonomy is the most ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pocket-lint.com/sae-autonomous-driving-levels-explained/",
+      "originalUrl": "https://www.pocket-lint.com/sae-autonomous-driving-levels-explained/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static1.pocketlintimages.com/wordpress/wp-content/uploads/143955-cars-feature-autonomous-vehicles-the-various-levels-of-autonomy-explained-image1-yfsj6ukbpj.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-23T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Pocket-lint",
+        "domain": "pocket-lint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -1301,92 +1378,6 @@
       "provider": {
         "name": "YAHOO!Finance",
         "domain": "decrypt.co",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-is-artificial-intelligence-your-friend.md",
-      "title": "Is artificial intelligence your friend?",
-      "excerpt": "President Joe Biden’s administration wants stronger measures to test the safety of artificial intelligence tools such as ChatGPT before they are publicly released, though it hasn’t decided if the government will have a role in doing the vetting.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thegazette.com/guest-columnists/is-artificial-intelligence-your-friend/",
-      "originalUrl": "https://www.thegazette.com/guest-columnists/is-artificial-intelligence-your-friend/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imengine.public.prod.cdr.navigacloud.com/?uuid=42c3d89e-0794-53ca-90e1-a8dad1ca8e09&type=preview&q=75&width=1200&height=800",
-          "width": 1199,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thegazette.com/guest-columnists/is-artificial-intelligence-your-friend/?amp=1",
-      "cdnAmpWebUrl": "https://www-thegazette-com.cdn.ampproject.org/c/s/www.thegazette.com/guest-columnists/is-artificial-intelligence-your-friend/?amp=1",
-      "publishedDateTime": "2023-04-18T16:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Gazette",
-        "domain": "thegazette.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-18-photographer-admits-prize-winning-image-was-ai-generated.md",
-      "title": "Photographer admits prize-winning image was AI-generated",
-      "excerpt": "Recent advancements in the use of AI in chatbots, driverless cars, song-writing software and ... Photography Organisation that the photograph was \"co-created\" with artificial intelligence. \"In our correspondence, he explained how following 'two decades ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tbsnews.net/world/photographer-admits-prize-winning-image-was-ai-generated-618918",
-      "originalUrl": "https://www.tbsnews.net/world/photographer-admits-prize-winning-image-was-ai-generated-618918",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/04/18/ai_image_award.png",
-          "width": 600,
-          "height": 314,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-18T07:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "tbsnews",
-        "domain": "tbsnews.net",
         "images": null,
         "publishers": null,
         "authors": null

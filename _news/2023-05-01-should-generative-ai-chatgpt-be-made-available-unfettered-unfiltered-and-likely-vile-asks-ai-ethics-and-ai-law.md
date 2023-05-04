@@ -127,6 +127,38 @@ related:
         width: 470
         height: 352
         isCached: true
+  - title: "ChatGPT and Generative AI: Our Guide to 2023's Most Talked-About Technology"
+    excerpt: "ChatGPT brought generative AI into the limelight when it hit 1 million users in five days. But how valid is the buzz around ChatGPT?"
+    publishedDateTime: 2023-05-04T16:00:00Z
+    webUrl: "https://www.businessinsider.com/chatgpt-and-ai-guide-to-2023-most-talked-about-technology-2023-may"
+    ampWebUrl: "https://www.businessinsider.com/chatgpt-and-ai-guide-to-2023-most-talked-about-technology-2023-may?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-and-ai-guide-to-2023-most-talked-about-technology-2023-may?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 85
+    images:
+      - url: "https://i.insider.com/64403fa23f6f690018de9578?width=1200&format=jpeg"
+        width: 470
+        height: 352
+        isCached: true
+  - title: "These robot dogs can't bark — but they can speak in full sentences thanks to ChatGPT"
+    excerpt: "Boston Dynamics' robot dogs can now verbally respond in \"plain English\" when asked to describe their previous and future tasks."
+    publishedDateTime: 2023-05-04T08:00:00Z
+    webUrl: "https://www.businessinsider.com/boston-dynamics-robot-dogs-can-speak-full-sentecnes-ai-chatgpt-2023-5"
+    ampWebUrl: "https://www.businessinsider.com/boston-dynamics-robot-dogs-can-speak-full-sentecnes-ai-chatgpt-2023-5?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/boston-dynamics-robot-dogs-can-speak-full-sentecnes-ai-chatgpt-2023-5?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 82
+    images:
+      - url: "https://i.insider.com/6452919af6389a0018ef54d5?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Inflection AI, Startup From Ex-DeepMind Leaders, Launches Pi — A Chattier Chatbot"
     excerpt: "Mustafa Suleyman, CEO of the year-old startup that’s already raised $225 million and claims to run one of the world’s largest language models, sees his dialog-based chatbot as a key step toward a true AI-based personal assistant."
     publishedDateTime: 2023-05-02T19:00:00Z

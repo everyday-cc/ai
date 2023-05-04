@@ -9,7 +9,7 @@ ampWebUrl: "https://fortune.com/2023/05/03/google-deepmind-ceo-agi-artificial-in
 cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/05/03/google-deepmind-ceo-agi-artificial-intelligence/amp/"
 type: article
 quality: 72
-heat: 144
+heat: 145
 published: true
 
 provider:

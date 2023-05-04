@@ -23,75 +23,15 @@ topics:
   - AI
 
 related:
-  - title: "Self-Driving Car for AI Programming Market Future Growth and Detail Analysis of Industry Up to 2030"
-    excerpt: "The following is a synopsis of a market research report on the Self-Driving Car for AI Programming Market research"
-    publishedDateTime: 2023-05-03T07:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-for-ai-programming-market-future-growth-and-detail-analysis-of-industry-up-to-2030-2023-05-03"
+  - title: "Global Artificial Intelligence (AI) in Healthcare Market [2023] | New Report Anticipates Industry to Surpass USD 13240 Million in Revenue by 2030"
+    excerpt: "The Global Artificial Intelligence (AI) in Healthcare Market Size Reached USD 2222.5 Million in 2021-2022. It is Expected to Grow at a CAGR of 28.5% till 2030. The Global Artificial Intelligence (AI) in Healthcare Market is to Reach the Value of ..."
+    publishedDateTime: 2023-05-04T12:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-healthcare-market-2023-new-report-anticipates-industry-to-surpass-usd-13240-million-in-revenue-by-2030-2023-05-04"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Education Market Research Report 2022 – Industry Environment, Supply Side and Demand Side Analysis"
-    excerpt: "The global Artificial Intelligence in Education market is expected to exceed more than US$ 4 Billion by 2024 at CAGR of"
-    publishedDateTime: 2023-05-03T05:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-research-report-2022-industry-environment-supply-side-and-demand-side-analysis-2023-05-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-  - title: "Deep-Learning Computing Unit (DCU) Market Growth, Trends and Industry Forecast 2023-2030 | NVIDIA, AMD, Intel"
-    excerpt: "The study on the market for Deep-Learning Computing Unit (DCU) provides a thorough analysis of the industry. It does"
-    publishedDateTime: 2023-05-03T10:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-computing-unit-dcu-market-growth-trends-and-industry-forecast-2023-2030-nvidia-amd-intel-2023-05-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Self-driving Forklift Market 2023 Growth Status and Outlook for 2030"
-    excerpt: "Additionally, the report provides up-to-date information on the market and identifies growth opportunities for the Self-driving Forklift market. With a detailed market outlook, definition of the industry,"
-    publishedDateTime: 2023-05-02T06:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-forklift-market-2023-growth-status-and-outlook-for-2030-2023-05-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-  - title: "The Future Scope of Far-field Speech Recognition Market Huge Growth Along with High Demand till 2030"
-    excerpt: "The following is a synopsis of a market research report on the Far-field Speech Recognition Market research report"
-    publishedDateTime: 2023-05-02T11:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/the-future-scope-of-far-field-speech-recognition-market-huge-growth-along-with-high-demand-till-2030-2023-05-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-  - title: "Artificial Intelligence in Building Market Size and Value: In-Depth Research Report, and possible growth directions of 12.7% CAGR from 2023-2030"
-    excerpt: "The \"Artificial Intelligence in Building Market\" is segmented into regions, Applications, and Types. The report presents the research and analysis provided within the Artificial Intelligence in Building Market Research is meant to benefit stakeholders,"
-    publishedDateTime: 2023-05-03T22:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-building-market-size-and-value-in-depth-research-report-and-possible-growth-directions-of-127-cagr-from-2023-2030-2023-05-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+    quality: 42
 
 secured: "YdUK9g8j4d2OLhPDn94NN0hcZs1BPk5uquI+LnrY13s9rt+TumTu7hf7xVx5EpJMLRLZ+Dsm4ggYl4g4Kn5SLc5aj58FXsOwHuopgYIL488tUA7GvjtwN64Sk3qq6wbAVpYMcgxvweo0uUL6kdvxvtYv1BCT5EnjTEmh7Wecv5zBArfCWPJE6xw7fdZc7q+OGKoT2ZhmN630RT6kc/anyQ4rHdMbnn+jdSSe6jcFoXpf5D4by7DwuQhnA+7twVbWlTA+agZOHijxf6vtRHt9r2yRdTym4OmdC2TnNkwP/1qSEsxevJQ2hqzjkA9HoQS/heIMD4/flRz/huopP16ZVfUuJfyqYoXmlBSG3D12+JQ=;rRrQOQtTXscKlJcxGvctfA=="
 ---

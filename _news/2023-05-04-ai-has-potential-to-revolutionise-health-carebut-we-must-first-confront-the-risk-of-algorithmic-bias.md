@@ -8,8 +8,8 @@ webUrl: "https://techxplore.com/news/2023-05-ai-potential-revolutionise-health-c
 ampWebUrl: "https://techxplore.com/news/2023-05-ai-potential-revolutionise-health-carebut.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-05-ai-potential-revolutionise-health-carebut.amp"
 type: article
-quality: 44
-heat: 44
+quality: 46
+heat: 46
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/artificialin.jpg"
@@ -39,6 +40,6 @@ related:
       domain: theconversation.com
     quality: 25
 
-secured: "siWanhOGZafF2OeL+mJlh2FEdRhP8QvWNVTLH5M1VzedRj3Rdx/kP3d0JWzzZJYrZ/kIgucQehlHCW3997UiIlGdKr66Iz/Zp7MEMBKl7tnnrLWYgPkCEWbXzHxCU+qIwrvOiDT7sAQ3PpKYGtMg61KlHL8C/oEOPxq4fmNXDgD6ZJeIQdKvATgGy7o6QO9Wli+63nqhIdhTB4MKTfMdB7Yw/LXntXHlqoi8eJxWBE3dG/sgAf2otmeix+b+gniIBaqjLeI/f0oHQGGE9FPclLM6Egk+/wmgmP0BwkARp/NxTYSpg6qrsQNcp/7Fm+UaBiA2SwJJD0CvksEAb+hPJz8DyC2X7b+ewCwmRfqVjLE=;7XN223foSO/AkhdytTLFEg=="
+secured: "/8PJq2HEFx33fgnJKDk24ezPFTfLRIcIdP8b8iEP1vQ2GxJYvv/hIDvUrsrhv3t4Sayfp+BHVtSDSUUhfBO8bs1psdhPe0C1tCpiJq6mfcnkeZzIVjATfuQW65PLeCpyjIL4UCRmVfG9rLUKN9Hgys9i6dkIkxGhN/qnHJ/grpcQFjYQcJgKQddLLIka3SJiDSFobQXY5XeSrDMD8onAGHJOVYsddbS239FhLIETkrdiH1/9L8fQtJZ6q0NCoyEjeI+ony4tY9eYszYAHMUAs0QKJusjShhm9uAXsOO+Cu3dwNUk1ix3Rg88Zi8lkXQAMslkQwY6XR69CQwBQakhpAzvVuWmvVuyd/7cq6BCGjrp6+Ln71ubndC3tZX1jIyNmEDtOnIuQ5AbQZnzxpuP9zgt35tcz32Wl/Xbe91SdhU7mGsVXV0KgZuCQJazfkISmXccZ1pWvLGzwTVfuRE2EzQZJy6Uh4tUfHFRz8ig8p2agbGMgueGKvo4sjC83M+lc2gdU83s94tfx1UUG0C3Wg==;cnKmvCz1JaCVdE2UCxCr/w=="
 ---
 

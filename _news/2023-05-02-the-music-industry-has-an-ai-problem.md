@@ -38,6 +38,20 @@ related:
         width: 7944
         height: 5296
         isCached: true
+  - title: "White House Announces AI Initiatives Ahead of Meeting With Top Tech CEOs"
+    excerpt: "Companies worried about being liable for something in their training data might also not have incentives to properly track it, said Margaret Mitchell, chief ethics scientist at AI startup Hugging Face. “I think it might not be possible for OpenAI to ..."
+    publishedDateTime: 2023-05-04T10:47:00Z
+    webUrl: "https://time.com/6276974/biden-harris-white-house-artificial-intelligence-initiatives/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 68
+    images:
+      - url: "https://time.com/img/icons/wallet-connect.png"
+        width: 256
+        height: 256
+        isCached: true
 
 secured: "RgjzHWJo21tq+5G66QBFPyAoAVNcrDQEWX/4TeQ66FX+8jdkzYKLvuNKGcq5rhd8yBJG6rVvoCPwVhOSJaDozhvBkRM1mufa1sGtJny2jxO2bK1DZoafA1KP1f1Ek5sL/xplXi1s0CAbZYyw9QRcCBNgIOBP2YQbHjLcimJdJvkHlo7YNlgcupEh/OKntxV7T0fo1kA1r6BYWqOlpO+Hni3Sp9o/0HMA8m55u53wlOclms7AP2EuCaEChhUG8ry8YE05d2IqxRgU0AcMkBzyTWRjEtCzxVdETKfOL0/OqQ6rGj/T6T78t7rTviYJMFpDAo6ozSp6ZNKDPTIu8Kbr2RRtx73aNrIbmvNqSTgu4cID9NdIB2AlPelqoqUCmBCWE2uU2SdxYdEj1m9hTiNiPw4bGpIqpoho8ig/As+agpewSHoRzqm5toFoARc3FbGl1DwBRxVJXXCTqH7RtgIBvjIZoEzP6vK3LZoCLaGyt32KeaP15IQpIpRyqs1KzktcnBUWItHRI5XOJ1Y8pNMI2w==;NlbL7A7HeUz4ku5xKHNaQw=="
 ---

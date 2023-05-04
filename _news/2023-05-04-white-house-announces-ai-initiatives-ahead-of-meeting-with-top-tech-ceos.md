@@ -29,36 +29,31 @@ images:
     isCached: true
 
 related:
-  - title: "VP Harris to meet with CEOs about artificial intelligence risks"
-    excerpt: "The Democratic administration plans to announce an investment of $140 million to establish seven new AI research institutes."
-    publishedDateTime: 2023-05-04T13:50:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/vp-harris-meet-ceos-artificial-intelligence-risks-rcna82835"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna82835"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna82835"
+  - title: "We're in the AOL phase of artificial intelligence, tech CEO says, as industry raves about A.I."
+    excerpt: "Sachin Dev Duggal, CEO of Builder.ai, said we've only just begun to see what's possible with AI and that the space is in need of a reality check."
+    publishedDateTime: 2023-05-02T03:21:00Z
+    webUrl: "https://www.cnbc.com/2023/05/02/chatgpt-were-only-in-aol-phase-of-ai-ceo-says.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/05/02/chatgpt-were-only-in-aol-phase-of-ai-ceo-says.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/05/02/chatgpt-were-only-in-aol-phase-of-ai-ceo-says.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 87
+      name: CNBC
+      domain: cnbc.com
+    quality: 75
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/230504-kamala-harris-mjf-0946-2ef781.jpg"
-        width: 2500
-        height: 1436
+      - url: "https://image.cnbcfm.com/api/v1/image/107231609-1682534718265-gettyimages-1252206786-AFP_33DW899.jpeg?v=1683004914"
+        width: 7944
+        height: 5296
         isCached: true
-  - title: "Harris to meet with CEOs about artificial intelligence risks"
-    excerpt: "Vice President Kamala Harris will meet on Thursday with the CEOs of four major companies developing artificial intelligence as the Biden administration rolls out a set of initiatives meant to ensure the rapidly evolving technology improves lives without putting people's rights and safety at risk."
-    publishedDateTime: 2023-05-04T14:07:00Z
-    webUrl: "https://www.chron.com/news/politics/article/harris-to-meet-with-ceos-about-artificial-18078030.php"
+  - title: "The Music Industry Has an AI Problem"
+    excerpt: "However, there is no gray area here: AI-generated music must be produced in a way that is equitable and fair for artists. That will require a substantial amount of vigilance. Get your good shoes on and tie them up tight, because there's a long road ahead."
+    publishedDateTime: 2023-05-02T13:00:00Z
+    webUrl: "https://www.bloomberg.com/opinion/articles/2023-05-02/ai-drake-heart-on-my-sleeve-and-cultural-appropriation"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 39
-    images:
-      - url: "https://s.hdnux.com/photos/01/32/57/03/23785701/3/rawImage.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
 
 secured: "mbDiFTZNxJqw+fRsDhQB0HhftQ1RrWD+ub1ASxUzOS7RTFz6/wBbtNIXQW3/2AXy5W/7tg9WUny64tUmW3bqNAw5g/3KluZKiRxY4JDGrRxUfeJUuYL4OPN/8Vz89ipl3XcoTLcSBbL8IUdSGavK7401R7HgHsRBtN9d+qbNGOr4yPUsZYvbT+/DjRjF1KdGuO7LMa/ssZse2twngAHMlEOQJXyeCcYj/SYkgTiXN5nK5t24OKe0wW3ZPkWQda8DWV/tAtZ+bed2Hrx51IuUmxsbP+ayzUhpS3X3F85tIJHlFZLjrWLwAM5Su91Qs7MsmXTke9d7LsfUWO6SBV3f/4TbZMHccq+oyu+ORBB8/Pg=;7cVwyUgN4E+vt+CGE79mSA=="
 ---

@@ -2,28 +2,26 @@
 category: news
 title: "Insider Q&A: Aurora CEO Chris Urmson on self-driving trucks"
 excerpt: "Sometime next year, semis with no human in the cab will start carrying freight down Interstate 45 between Dallas and Houston"
-publishedDateTime: 2023-05-01T13:47:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/insider-qa-aurora-ceo-chris-urmson-driving-trucks-98982755"
-webUrl: "https://abcnews.go.com/Business/wireStory/insider-qa-aurora-ceo-chris-urmson-driving-trucks-98982755"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/insider-qa-aurora-ceo-chris-urmson-driving-trucks-98982755"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/insider-qa-aurora-ceo-chris-urmson-driving-trucks-98982755"
+publishedDateTime: 2023-05-01T09:27:00Z
+originalUrl: "https://www.washingtonpost.com/business/2023/05/01/selfdriving-semi-aurora-safety-autonomous/37ab5e08-e820-11ed-869e-986dd5713bc8_story.html"
+webUrl: "https://www.washingtonpost.com/business/2023/05/01/selfdriving-semi-aurora-safety-autonomous/37ab5e08-e820-11ed-869e-986dd5713bc8_story.html"
 type: article
-quality: 44
-heat: 44
+quality: 24
+heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: The Washington Post
+  domain: washingtonpost.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-    width: 834
-    height: 308
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6OYFDJHIEQI63BU6TBW5K4J3ZA.jpg&w=1440"
+    width: 1440
+    height: 960
     isCached: true
 
 related:
@@ -57,6 +55,20 @@ related:
         width: 1917
         height: 1278
         isCached: true
+  - title: "Insider Q&A: Aurora CEO Chris Urmson on self-driving trucks"
+    excerpt: "The prospect of a driverless semi is scary to many ... A: We’ve used machine learning, artificial intelligence, to teach them how to drive the way that a good human driver does. If you’re just observing the truck and you’re passing it, you probably ..."
+    publishedDateTime: 2023-05-04T17:33:00Z
+    webUrl: "https://wiscnews.com/business/insider-q-a-aurora-ceo-chris-urmson-on-self-driving-trucks/article_328d9a71-f1ac-5025-8250-2068e59bb784.html"
+    type: article
+    provider:
+      name: WiscNews
+      domain: wiscnews.com
+    quality: 24
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/wiscnews.com/content/tncms/assets/v3/editorial/3/28/328d9a71-f1ac-5025-8250-2068e59bb784/6453ea6a6f082.preview.jpg?crop=1024%2C538%2C0%2C71&resize=1024%2C538&order=crop%2Cresize"
+        width: 1024
+        height: 538
+        isCached: true
   - title: "Aurora CEO Chris Urmson on the Future of Self-Driving Trucks"
     excerpt: "The prospect of a driverless semi is scary to many, but not to Aurora Innovation CEO Chris Urmson, who helped to build Google’s autonomous vehicle unit."
     publishedDateTime: 2023-05-01T17:50:00Z
@@ -67,6 +79,6 @@ related:
       domain: ttnews.com
     quality: 4
 
-secured: "3Loj4LIFwe9unWA0POXrn0Tx5iXT3eVKvCYww3QQ9kmgr3nNkVAwrZmCVGoT3zg4SZNQ5+7ecGAsehYjXvnrR3ug+4+cE/Fx9spXSPq2ekElHfdvLdIxU57PMERnwS71wRObjv3zMA1UfjzfWmYD68OV2ii6+/e6yjO6rM+FvA2qHqjImjAJRGQDkl5El178IXyAapmf8AsY5OWeRyrKe6xTrI5azyHGABFZ2abEC3jpu7rXaZ44k1gEIVTxIrrGK1B+UQGv+25ZnZyyx+Ap6E/wrwt6fdXUOOL9HwG84AldqiiTVGcI3f3wHzEhP+cV89egp2rlCK6hS/YfX0dRKwCMc3VuzzC3rHXEEr7VvBU=;nw+D+z8+CuNRI5y1NpByXw=="
+secured: "5Mm2DFBWgJKK+h8llyagNSbPdSdvxjMivDkO4os8ffxBmji+4ZC783OZnXG4xdtZZbiO834FTf8ZdSs2Ll4ZNVVYc7Qe2YAxLE3ZDWKqIvsLZ14mPW+5WX5B1JNS8U6LPKk7e3UawsXY5wQ76EiTPHPIFpDYjSb85cZznFZ0CxmYKz/3ACmOhuMaQII/5JFeTwdQUovWWgm6p8Xs3kE2Ygyr10GJh3SVgxYEMdrxH69ZWx9+n1uUaPKOk+w+NDx3wKw0w81cMO6jA3hbiQwB5UF4f426k07WDaPv8wk2kYc3sEmHWw6Fd2TDTQmTqysebOtTMNZwFG4uXhtf4bn1k0c14YP0Dd4XhXbnRc6qL58=;krqA/34jTILMDfMWiSIeGw=="
 ---
 

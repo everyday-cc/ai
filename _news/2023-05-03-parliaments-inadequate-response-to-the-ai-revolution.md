@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 631
         isCached: true
-  - title: "Promises, Perils, And Predictions For Artificial Intelligence In Medicine: A Radiologist’s Perspective"
-    excerpt: "In my own field of radiology, AI will be used to enhance (but not yet replace) human radiologists making diagnoses from medical images. There are already FDA-approved AI algorithms to detect subtle internal bleeding within the brain or potentially fatal blood clots (“pulmonary embolism”) within the arteries of the lung."
-    publishedDateTime: 2023-04-29T23:49:00Z
-    webUrl: "https://www.forbes.com/sites/paulhsieh/2023/04/29/promises-perils-and-predictions-for-artificial-intelligence-in-medicine-a-radiologists-perspective/"
-    ampWebUrl: "https://www.forbes.com/sites/paulhsieh/2023/04/29/promises-perils-and-predictions-for-artificial-intelligence-in-medicine-a-radiologists-perspective/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulhsieh/2023/04/29/promises-perils-and-predictions-for-artificial-intelligence-in-medicine-a-radiologists-perspective/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 75
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/644dab252763341cef0d1575/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "AI ‘could be as transformative as industrial revolution’"
     excerpt: "UK’s outgoing chief scientist urges ministers to ‘get ahead’ of profound social and economic changes"
     publishedDateTime: 2023-05-03T14:29:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/microsoft-launches-new-features-for-its-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/microsoft-launches-new-features-for-its-ai-powered-bing-and-edge/amp/"
 type: article
 quality: 104
-heat: 264
+heat: 284
 published: true
 
 provider:
@@ -46,6 +46,38 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/230503170645-microsoft-bing-ai-052023-super-tease.jpeg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Microsoft barrels ahead with AI plans, opens up Bing Chat preview to everyone"
+    excerpt: "The \"Open Preview\" phase of the New Bing makes the chatbot and other features available to anyone with a Microsoft Account, and it coincides with a push to make the chatbot \"more visual.\" Bing Chat will soon be able to generate charts and graphs as part of its answers,"
+    publishedDateTime: 2023-05-04T16:32:00Z
+    webUrl: "https://arstechnica.com/gadgets/2023/05/microsoft-barrels-ahead-with-ai-plans-opens-up-bing-chat-preview-to-everyone/"
+    ampWebUrl: "https://arstechnica.com/gadgets/2023/05/microsoft-barrels-ahead-with-ai-plans-opens-up-bing-chat-preview-to-everyone/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/05/microsoft-barrels-ahead-with-ai-plans-opens-up-bing-chat-preview-to-everyone/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 101
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/05/bing-chat-features-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "OpenAI, Microsoft, and Alphabet CEOs to discuss AI with Biden administration today"
+    excerpt: "The announcement from the White House Briefing Room also included plans for a public evaluation of existing generative AI systems."
+    publishedDateTime: 2023-05-04T15:49:00Z
+    webUrl: "https://www.zdnet.com/article/openai-microsoft-and-alphabet-ceos-to-discuss-ai-with-biden-administration-today/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/openai-microsoft-and-alphabet-ceos-to-discuss-ai-with-biden-administration-today/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/openai-microsoft-and-alphabet-ceos-to-discuss-ai-with-biden-administration-today/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 98
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/3995490273681a1e4a741db83b12e7d8110f15c4/2023/05/04/9475ccf7-8940-41af-9e1e-9006d4e4f542/ai-whitehouse.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "CallMiner Collaborates with Microsoft to Enhance AI and Machine Learning Capabilities"
     excerpt: "CallMiner, a leading provider of conversation intelligence to drive business performance improvement, today announced"

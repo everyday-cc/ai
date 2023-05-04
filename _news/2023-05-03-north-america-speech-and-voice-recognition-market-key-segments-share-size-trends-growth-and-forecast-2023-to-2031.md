@@ -29,62 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Face Recognition Device Market Forecast : Trends and Insights till 2031"
-    excerpt: "\"Face Recognition Device Market Size is projected to Reach Multimillion USD by 2031, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2031.\" Ask for a Sample Report \"Browse Detailed TOC of Face Recognition Device Market report with 153 Tables and Figures andCharts that provides exclusive data,"
-    publishedDateTime: 2023-05-02T09:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-forecast-trends-and-insights-till-2031-2023-05-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Face Recognition Systems Market Share by 2031"
-    excerpt: "This \"Face Recognition Systems Market\" report offers a thorough analysis of the industry, including forecasts for"
-    publishedDateTime: 2023-05-04T01:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-share-by-2031-2023-05-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "A world of Mobile Speech Recognition Software Market Insights 2023-2030 at your fingertips."
-    excerpt: "The \"Mobile Speech Recognition Software Market\" study delves into the evolution of the technology industry and"
-    publishedDateTime: 2023-05-03T04:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/a-world-of-mobile-speech-recognition-software-market-insights-2023-2030-at-your-fingertips-2023-05-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Platform as a Service (PaaS) Market by 2030: Future Scope and Predictions"
-    excerpt: "Get a sample PDF of the report at -  The global Artificial Intelligence in Platform as a Service (PaaS) market size was valued at USD 4771.18 million in 2022 and is expected to expand at a CAGR of 20."
-    publishedDateTime: 2023-05-03T05:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-platform-as-a-service-paas-market-by-2030-future-scope-and-predictions-2023-05-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Speech and Voice Recognition Technology Market 2023 | Pronounce Growth During By 2031"
     excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
     publishedDateTime: 2023-05-02T11:56:00Z
@@ -99,34 +43,59 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Robotic Cleaning Machines Market Size, Trends, Scope and Industry Demands Analysis 2023 – 2029"
-    excerpt: "The Global \" Robotic Cleaning Machines Market \" Research report give detailed information with reference to market size, share, trends, growth, cost revenue, capacity, and forecast till 2029. This report also contains the general and in-depth study of the Robotic Cleaning Machines market with all its aspects influencing the growth of the market."
-    publishedDateTime: 2023-05-03T10:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/robotic-cleaning-machines-market-size-trends-scope-and-industry-demands-analysis-2023-2029-2023-05-03"
+  - title: "Computer Vision Market 2023-2030 (New Report) Intelligence Study is A Useful Resource for Both New and Seasoned Players"
+    excerpt: "To know How COVID-19 and Russia-Ukraine War Influence Will Impact This Market/Industry - Request a sample copy of the report-:  In This Reports Computer Vision Market Segment by Type ( Hardware, Software) and Segment by Application ( Face Recognition,"
+    publishedDateTime: 2023-05-03T04:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2023-2030-new-report-intelligence-study-is-a-useful-resource-for-both-new-and-seasoned-players-2023-05-03"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 42
+    quality: 45
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Europe Speech and Voice Recognition Market Trends, Size, Share, Growth Status, and Forecast 2023 to 2031"
-    excerpt: "The Europe speech and voice recognition is expected to reach USD 1,665.08 Million by 2025 from USD 286.89 Million in 2017, at a CAGR of 24.7% in the forecast period 2018 to 2025. The major factors driving the growth of this market are the effective integration due to increased demand for voice and speech-based biometric systems,"
-    publishedDateTime: 2023-05-03T10:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/europe-speech-and-voice-recognition-market-trends-size-share-growth-status-and-forecast-2023-to-2031-2023-05-03"
+  - title: "Voice User Interface Global Market Report 2023: Rising use of Artificial Intelligence Drives Growth"
+    excerpt: "The \"Voice User Interface Global Market Report 2023\" report has been added to ResearchAndMarkets.com's offering. This report provides strategists, marketers and senior"
+    publishedDateTime: 2023-05-02T21:16:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/05/n32175548/voice-user-interface-global-market-report-2023-rising-use-of-artificial-intelligence-drives-growth"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32175548"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32175548"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 45
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "(CAGR of 25.7%) Global Speech and Voice Recognition Market Analysis, Key Segments, Share, Size, Growth Status, and Forecast 2023 to 2031"
+    excerpt: "Global speech and voice recognition is expected to reach USD 6,770.21 Million by 2025 from USD 1,095.00 Million in 2017, at a CAGR of 25.7% in the forecast period 2018 to 2025. The major factors driving the growth of this market are the effective integration due to increased demand for voice and speech-based biometric systems,"
+    publishedDateTime: 2023-05-03T10:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cagr-of-257-global-speech-and-voice-recognition-market-analysis-key-segments-share-size-growth-status-and-forecast-2023-to-2031-2023-05-03"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 37
+    quality: 21
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Face Recognition Terminal Market [2023] | Industry Set to Expand with Strong 17.2% CAGR and Reach USD 4087.7 Million by 2030"
+    excerpt: "Among other players domestic and global, Face Recognition Terminal market share data is available for global, North America, Europe, Asia-Pacific, Middle East and Africa, and South America separately. Research analysts understand competitive strengths and ..."
+    publishedDateTime: 2023-05-04T12:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-terminal-market-2023-industry-set-to-expand-with-strong-172-cagr-and-reach-usd-40877-million-by-2030-2023-05-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 19
 
 secured: "+UyNUbkNZ6NvHzXG+4yTWDd0weFnTxDAcRKMCORhQANCGOdRo15MOk+BCct5+JlxLGzKYI9Ufzyo6ZudvpbgZrpNE7Iws+4WdXjxnN57lScaAaMqWAMXebhS8WbkgJq7KBLwLQjtX1qC7guru75t8yX6pNpJ2495rJGWQzDkWs8wV/H6v0T4LQ4v2f/KBmv7dxECpa7vrFfd7HQA9JPm64Wby0dFQ0OtIK84V5JzNvJHkBWNxl5K5lgAlTenvlMHwR+gDwDg4oRnMApnOim6zJFeqOpYzxMy8z1wt0M0v1x6PSlXcEBJVpi18uTcFsNbgG0un8hMALjBq1tUdrQimIzT8ofLN2pI0Ev1OnQWczs=;8UxKBhCIURXWg9+gChpKnw=="
 ---

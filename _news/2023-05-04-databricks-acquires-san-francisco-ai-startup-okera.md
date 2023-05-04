@@ -32,6 +32,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Exclusive: Generative AI startup Runway just raised $100 million at a $1.5 billion valuation from a cloud service provider"
+    excerpt: "Runway offers AI-powered image and video editing and generation tools. The deal will triple the startup's valuation from its last round."
+    publishedDateTime: 2023-05-04T16:41:00Z
+    webUrl: "https://www.businessinsider.com/generative-artificial-intelligence-startup-runway-funding-cloud-provider-2023-5"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 43
+    images:
+      - url: "https://i.insider.com/6447ec3f6001ce00190644ca?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "/2nQDQHnqOK0wF6JOkbnfJKi83AT1ZEzL4uQQ30g5WIe+tEGgcjyAMw3lh3a1NhUmCo0eETUl48uYL94974deexqYaY/vEq35bsIRsgH21ah+1zkSWP8jj3p7lUEjHWWpcfk9IoxxOQk6YEa9aBkhKyh7CSq7pjbW6q8ijCt0YK3v3ViCEU5r85X1RfCRdmDsmS1pEM23Sn8O8pT4mFNgon4WSPQpJD1tzbdBrI+27NvZa7ddK3aDYqy/2P28vZaNEltzOrw6b25gjNDCQjSTEmspsgzAXdxkyB2t9nRD36eNn4BaG6oChnlaUltvIUKCykbIpda059bQDeIXoSiD2ta3vZdX4IByj/TctjkGlhw3alH0uJw+c+9HDqg8kKCJ8KuxxVxsK4VtfrOwNkXgu8QNXgkMZ/GbAzcVq0NPRgdSYPzaKmpnM3Q1CW9qDheZ5Zg1d/uD14QwsjE7t/RrFlcDewu+tejc6tp3b3X2oVL1T1XHTBNgnX3a26wvRgogx+MUZ4nIg78H+2n/jTtKQ==;ankSY6JEUc93cAl/Nvmtzw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://gizmodo.com/white-house-announce-ai-initiative-openai-micr
 webUrl: "https://gizmodo.com/white-house-announce-ai-initiative-openai-microsoft-1850403559"
 type: article
 quality: 67
-heat: 77
+heat: 127
 published: true
 
 provider:
@@ -28,6 +28,68 @@ images:
     isCached: true
 
 related:
+  - title: "VP Harris to meet with CEOs about artificial intelligence risks"
+    excerpt: "Vice President Kamala Harris will meet on Thursday with the CEOs of four major companies developing artificial intelligence as the Biden administration rolls out a set of initiatives meant to ensure the rapidly evolving technology improves lives without putting people’s rights and safety at risk."
+    publishedDateTime: 2023-05-04T14:48:00Z
+    webUrl: "https://www.washingtontimes.com/news/2023/may/4/kamala-harris-to-meet-with-ceos-about-artificial-i/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2023/may/4/kamala-harris-to-meet-with-ceos-about-artificial-i/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2023/may/4/kamala-harris-to-meet-with-ceos-about-artificial-i/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 59
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2023/05/04/Biden_48332_c0-250-6000-3750_s1200x700.jpg?2cb823f519263a3e55a419724463fd44fb7f7c61"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "White House unveils AI rules to address safety and privacy"
+    excerpt: "It needs to be discussed in government.” Margaret Mitchell, chief ethics scientist at machine learning app vendor Hugging Face, said generative AI applications, such as ChatGPT can be developed for positive uses, but any powerful technology can also be ..."
+    publishedDateTime: 2023-05-04T17:27:00Z
+    webUrl: "https://www.computerworld.com/article/3695731/white-house-unveils-ai-rules-to-address-safety-and-privacy.html"
+    ampWebUrl: "https://www.computerworld.com/article/3695731/white-house-unveils-ai-rules-to-address-safety-and-privacy.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3695731/white-house-unveils-ai-rules-to-address-safety-and-privacy.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 59
+    images:
+      - url: "https://images.idgesg.net/images/article/2019/11/artificial_intelligence_ai_ml_machine_learning_abstract_gettyimages_by_dny59_959737582_by_kentoh_1042827860-100817845-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "US announces measures to address risk of artificial intelligence arms race"
+    excerpt: "White House said it would invest $140m in pursuit of AI advances that are ‘ethical, trustworthy, responsible, and serve the public good’"
+    publishedDateTime: 2023-05-04T15:52:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/may/04/us-announces-measures-to-address-risk-of-artificial-intelligence-arms-race"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/04/us-announces-measures-to-address-risk-of-artificial-intelligence-arms-race"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/04/us-announces-measures-to-address-risk-of-artificial-intelligence-arms-race"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 55
+    images:
+      - url: "https://i.guim.co.uk/img/media/f7eb9b7ae2efb54e5f8ccbce13aed19e3f76803e/0_0_6431_3861/master/6431.jpg?width=620&quality=85&auto=format&fit=max&s=ad8bac99eb3bf3d060964213513541f7"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "Harris to meet with CEOs about artificial intelligence risks"
+    excerpt: "Vice President Kamala Harris will meet with the CEOs of four major companies developing artificial intelligence. The Biden administration is rolling out initiatives meant to ensure the rapidly evolvin"
+    publishedDateTime: 2023-05-04T11:22:00Z
+    webUrl: "https://omaha.com/news/science/article_2be5fceb-7e7e-5b20-93a6-2fc9680f8df6.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/d/da/dda7c97f-af2f-5ee4-a06d-19e464a12917/6453895152383.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "White House Must Take More Action To Address AI Concerns"
     excerpt: "Twitter The White House Blueprint for an AI Bill of Rights issued last October is a strong start to a government response to protect workers, families, and our democracy from the potential pitfalls of AI. The recent release of generative AI tools is ..."
     publishedDateTime: 2023-05-04T11:00:00Z
@@ -42,7 +104,21 @@ related:
         width: 1680
         height: 1120
         isCached: true
+  - title: "White House launches new AI initiatives as UK begins review of foundation models"
+    excerpt: "The participants will evaluate machine learning products’ compliance with the Blueprint for an AI Bill of Rights using a system developed by startup Scale AI Inc. The White House also detailed plans to release draft guidelines on how federal agencies ..."
+    publishedDateTime: 2023-05-04T17:35:00Z
+    webUrl: "https://siliconangle.com/2023/05/04/white-house-launches-new-ai-initiatives-uk-begins-review-foundation-models/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 32
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/Image-2-1.png"
+        width: 850
+        height: 476
+        isCached: true
 
-secured: "LyqYTn13XCkDkSoJiETAbpeqXjBBW1WnXn7N/cvgU+UxIh2N7x9ArwEqtd4yNKzkybPRAAxMEznZsHgNVWk3tSZgJC10DjJ1QpMDFT8ohaMvcsUrm/1zLBCNrvLzElpEdtsEoqzE24W/CqYs76eC/2qIRezROk644dMaXsuvdCcERyjDX4+qHB+TLd+YC5M4L7GYTHLrANnJQqnNhFFBCclUr9th0ORoZLSa9pCOX4Xxvi6O7UYApbh7t/tcGESfap2uFggLJ+kaBkljOUXGFaAFdTF7QYSe2MokvvKMYCY42dMG5K98tXB+fv2q04+FsrBPmuK5xxI8gXMcWgJOD3lH3RavTYQfIvYEc2OtF+8=;1hlQ+a970jxP01QEPM6AJQ=="
+secured: "g6L5gnv1iKqTxeAfnfGNzvBxEOQ//3v4vR8ZkPPiF/NAqUswlgNFJ/xYongw5DUCDE0W9Und2mSSbIqFM6MzZIqjdxqqwfHnsOAmS25+iw/vRZCMHrvMWzK9o3DldfepWXhiqfVDb2RjTJ2BM/c74h0lEbIv1Ur62BjfIzbFx8fjdDDqbcBO+/A3eYCws0lh8/6yP/C9dhPjGHudDD+q0frl+9+er9+yGIBU59qZ4xa9tksr23dS1gFEYzthDZ9LuHCW3XWfGm8yUEaTcsQHiRgVZTVsZwNUOD8Ucap19DGHyy1ZfQNQyT3H9hztl4WA8035iNyxo52Fweomvx6uk9dTD6slWWCb4YBd20EoCQfdwW8gpKoIDzz/MLoIubYD+A5kUXgxmiW9lFr3GZFWUM4mU+YkKP4LPYcKpqlj6VL5YJYhvkkmuuAjuyRE8ER9Rn6yQOVyARbFcyZQXgh6xLUnHlVSav8jylEeoVf4HrQZVacSoUhpNSSk1W0qXhx4cVEi8KKXjrN4cYLDt7YXag==;saKalyhwwivBm1pnggtAog=="
 ---
 

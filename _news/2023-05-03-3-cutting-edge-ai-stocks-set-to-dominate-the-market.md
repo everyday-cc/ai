@@ -23,21 +23,100 @@ topics:
   - AI
 
 related:
-  - title: "Skilling up the security team for the AI-dominated era"
-    excerpt: "Defending against AI-enabled attackers and hardening enterprise AI systems will require new security skills. Threat hunters, data scientists, developers and prompt engineers are part of the answer."
-    publishedDateTime: 2023-05-03T09:00:00Z
-    webUrl: "https://www.csoonline.com/article/3694896/skilling-up-the-security-team-for-the-ai-dominated-era.html"
-    ampWebUrl: "https://www.csoonline.com/article/3694896/skilling-up-the-security-team-for-the-ai-dominated-era.amp.html"
-    cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3694896/skilling-up-the-security-team-for-the-ai-dominated-era.amp.html"
+  - title: "Artificial Intelligence in Healthcare Market Forecast to 2031"
+    excerpt: "This \"Artificial Intelligence in Healthcare Market\" report offers a thorough analysis of the industry, including"
+    publishedDateTime: 2023-05-04T15:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-forecast-to-2031-2023-05-04"
     type: article
     provider:
-      name: CSOonline
-      domain: csoonline.com
-    quality: 74
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
     images:
-      - url: "https://images.idgesg.net/images/article/2018/07/programmer_certification-skills_developer_devops_data-scientist_laptop_by-brayden-george-unsplash-100764331-large.jpg?auto=webp&quality=85,70"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 800
+        height: 630
+        isCached: true
+  - title: "Face Recognition Device Market Forecast : Trends and Insights till 2031"
+    excerpt: "\"Face Recognition Device Market Size is projected to Reach Multimillion USD by 2031, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2031.\" Ask for a Sample Report \"Browse Detailed TOC of Face Recognition Device Market report with 153 Tables and Figures andCharts that provides exclusive data,"
+    publishedDateTime: 2023-05-02T09:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-forecast-trends-and-insights-till-2031-2023-05-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Face Recognition Systems Market Share by 2031"
+    excerpt: "This \"Face Recognition Systems Market\" report offers a thorough analysis of the industry, including forecasts for"
+    publishedDateTime: 2023-05-04T01:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-share-by-2031-2023-05-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Self-Driving Car for AI Programming Market Future Growth and Detail Analysis of Industry Up to 2030"
+    excerpt: "The following is a synopsis of a market research report on the Self-Driving Car for AI Programming Market research"
+    publishedDateTime: 2023-05-03T07:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-for-ai-programming-market-future-growth-and-detail-analysis-of-industry-up-to-2030-2023-05-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Healthcare IT Integration Market is Expected to Reach $7.1 billion | MarketsandMarkets."
+    excerpt: "The healthcare IT integration industry is poised for significant growth in the near future. As healthcare providers continue to invest in digital systems and networks, the need"
+    publishedDateTime: 2023-05-02T13:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/05/g32160469/healthcare-it-integration-market-is-expected-to-reach-7-1-billion-marketsandmarkets"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32160469"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32160469"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 51
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "Natural Language Processing For Healthcare And Life Sciences Market Size, Revenue, and Forecast 2030"
+    excerpt: "Highlights with Short Brief of Natural Language Processing For Healthcare And Life Sciences Market: The Natural Language Processing For Healthcare And Life Sciences market revenue was Million USD in 2016, grew to Million USD in 2021, and will reach Million ..."
+    publishedDateTime: 2023-05-04T12:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-for-healthcare-and-life-sciences-market-size-revenue-and-forecast-2030-2023-05-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+  - title: "Europe Speech and Voice Recognition Market Trends, Size, Share, Growth Status, and Forecast 2023 to 2031"
+    excerpt: "The Europe speech and voice recognition is expected to reach USD 1,665.08 Million by 2025 from USD 286.89 Million in 2017, at a CAGR of 24.7% in the forecast period 2018 to 2025. The major factors driving the growth of this market are the effective integration due to increased demand for voice and speech-based biometric systems,"
+    publishedDateTime: 2023-05-03T10:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/europe-speech-and-voice-recognition-market-trends-size-share-growth-status-and-forecast-2023-to-2031-2023-05-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "inStyxaRCbXLFIgEn/FKwdPtjOen302pZYX7/LENzasL8VCrKzIGKMRvof07PobOHpsewPpOtxxepWWFhuNfaPmg2GMM60pr5r+JRLw3+MK729X8Al+YgJ5D3VLhw+ZQrGk0rkogMG93rvGa0jpF7g/tyduA02UiZF9xjFrG5jJJgg4sv3Lu56JsKW7rz7FDMDLTlo6Autx1OyY7nM0ZQCLpJN+WhNEujLK81rG5tuOgjl5pEiSF1UjbLdowVX528CTppAS01+CFbStvHRv5tI6g68dlhmhzYzYGPxW+5LQS1o6HBoV9xZ0pJ5l8I5utUvcUqsEPJd6hrlw3Iaqydlx5X68MXI8X0D/r5y3XoTg=;eIyc8Vrg8XppHVbJ5Q1Ssg=="

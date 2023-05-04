@@ -29,104 +29,52 @@ images:
     isCached: true
 
 related:
-  - title: "Face Recognition Device Market Forecast : Trends and Insights till 2031"
-    excerpt: "\"Face Recognition Device Market Size is projected to Reach Multimillion USD by 2031, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2031.\" Ask for a Sample Report \"Browse Detailed TOC of Face Recognition Device Market report with 153 Tables and Figures andCharts that provides exclusive data,"
-    publishedDateTime: 2023-05-02T09:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-forecast-trends-and-insights-till-2031-2023-05-02"
+  - title: "Machine Learning Chip Market Global Analysis 2023-2030"
+    excerpt: "Section 5: Research Method and Data Source. Get a Sample PDF of report @ https://www.360marketupdates.com/enquiry/request-sample/19278373 Highlights with Short Brief ..."
+    publishedDateTime: 2023-05-04T12:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-chip-market-global-analysis-2023-2030-2023-05-04"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 69
+    quality: 66
+  - title: "2023-2030, Data Science and Machine-Learning Platforms Market-Latest Updates"
+    excerpt: "To know How COVID-19 and Russia-Ukraine War Influence Will Impact This Market/Industry - Request a sample copy of the report-:  In This Reports Data Science and Machine-Learning Platforms Market Segment by Type ( Open Source Data Integration Tools,"
+    publishedDateTime: 2023-05-03T04:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-2030-data-science-and-machine-learning-platforms-market-latest-updates-2023-05-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Face Recognition Systems Market Share by 2031"
-    excerpt: "This \"Face Recognition Systems Market\" report offers a thorough analysis of the industry, including forecasts for"
-    publishedDateTime: 2023-05-04T01:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-share-by-2031-2023-05-03"
+  - title: "Deep Learning Software Market Analysis: Current Market Size, Growth Projection, and CAGR of 6% from 2023 - 2030"
+    excerpt: "This report on \" Deep Learning Software market \" contains the data required to conduct a SWOT, PEST, and STEER analysis. It gives a better knowledge of market dynamics and industry competition. The Deep Learning Software market is expected to grow annually by 6% (CAGR 2023 - 2030)."
+    publishedDateTime: 2023-04-30T11:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-software-market-analysis-current-market-size-growth-projection-and-cagr-of-6-from-2023---2030-2023-04-30"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 69
+    quality: 49
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "A world of Mobile Speech Recognition Software Market Insights 2023-2030 at your fingertips."
-    excerpt: "The \"Mobile Speech Recognition Software Market\" study delves into the evolution of the technology industry and"
-    publishedDateTime: 2023-05-03T04:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/a-world-of-mobile-speech-recognition-software-market-insights-2023-2030-at-your-fingertips-2023-05-03"
+  - title: "Self-driving Bus Market Share, Size, Financial Summaries Analysis from 2023 to 2028"
+    excerpt: "Self-driving Bus report provides a detailed analysis of regional and country-level market size, segmentation market growth, market share, competitive Landscape, sales analysis, impact of domestic. The self-driving bus market has witnessed exponential growth in recent years due to the increasing demand for autonomous vehicles and the growing need for efficient and safe public transportation."
+    publishedDateTime: 2023-05-04T06:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-bus-market-share-size-financial-summaries-analysis-from-2023-to-2028-2023-05-04"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Platform as a Service (PaaS) Market by 2030: Future Scope and Predictions"
-    excerpt: "Get a sample PDF of the report at -  The global Artificial Intelligence in Platform as a Service (PaaS) market size was valued at USD 4771.18 million in 2022 and is expected to expand at a CAGR of 20."
-    publishedDateTime: 2023-05-03T05:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-platform-as-a-service-paas-market-by-2030-future-scope-and-predictions-2023-05-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Speech and Voice Recognition Technology Market 2023 | Pronounce Growth During By 2031"
-    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
-    publishedDateTime: 2023-05-02T11:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-technology-market-2023-pronounce-growth-during-by-2031-2023-05-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Europe Speech and Voice Recognition Market Trends, Size, Share, Growth Status, and Forecast 2023 to 2031"
-    excerpt: "The Europe speech and voice recognition is expected to reach USD 1,665.08 Million by 2025 from USD 286.89 Million in 2017, at a CAGR of 24.7% in the forecast period 2018 to 2025. The major factors driving the growth of this market are the effective integration due to increased demand for voice and speech-based biometric systems,"
-    publishedDateTime: 2023-05-03T10:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/europe-speech-and-voice-recognition-market-trends-size-share-growth-status-and-forecast-2023-to-2031-2023-05-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "North America Speech and Voice Recognition Market Key Segments, Share, Size, Trends, Growth, and Forecast 2023 to 2031"
-    excerpt: "The North America speech and voice recognition is expected to reach USD 1,960.60 Million by 2025 from USD 312.08 Million in 2017, at a CAGR of 25.7% in the forecast period 2018 to 2025. The major factors driving the growth of this market are the effective integration due to increased demand for voice and speech-based biometric systems,"
-    publishedDateTime: 2023-05-03T10:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/north-america-speech-and-voice-recognition-market-key-segments-share-size-trends-growth-and-forecast-2023-to-2031-2023-05-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+    quality: 28
 
 secured: "anPy/80I4cRV9ycfY/RF+tsxi09ma+cb4pWjuvm6mLX3JbITMvu+R1A0zwnsr5cHP4T4Jb1rnnFmoz6+8Eeain64LumC47+uN+lGkI50RaXELD+fDYrCET+kcj7zuIL0yJjxcYFar07NP8AYI8qOPvolusydmnbJswCR+ZOSEgl9XaIfteBvA2BAf5mhEhSOrLHSQL3GRIP+fiK2G7PUFrNT2KMzH3A82zL35h/0qAUEQ6VWPnXwId3PbwOOpRN4rJgWXSqKUphWBinCHCA7snaoL9MZbiIodxrutLiYF/btNB5maJsPrjtG/uTznu2Qlb4s+2rcZuWOazMVHGfg+kZRYxSc1J25o4FElGylH3o=;DC6h7zXufLpzUT2v+opoHw=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://www.ibm.com/blog/free-stem-resources-for-teachers-from-ibm
 webUrl: "https://www.ibm.com/blog/free-stem-resources-for-teachers-from-ibm-skillsbuild/"
 type: article
 quality: 82
-heat: 82
-published: true
+heat: -1
+published: false
 
 provider:
   name: IBM
@@ -20,6 +20,38 @@ provider:
 
 topics:
   - IBM AI
+
+related:
+  - title: "Supporting teachers in their STEM skilling journeys"
+    excerpt: "Three of my four grandparents were teachers. Their love of learning and passion for lighting a spark in their students impressed upon me the power that teachers have to change lives and shape the future. As I&#8217;m writing this, I am in Jacksonville, Florida, just a few miles from where my grandmother,"
+    publishedDateTime: 2023-05-04T12:00:00Z
+    webUrl: "https://www.ibm.com/blog/supporting-teachers-in-their-stem-skilling-journeys/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 102
+    images:
+      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/05/Supporting-teachers-in-their-STEM-skilling-journeys-630x330.jpg"
+        width: 630
+        height: 330
+        isCached: true
+  - title: "Skilling up the security team for the AI-dominated era"
+    excerpt: "Defending against AI-enabled attackers and hardening enterprise AI systems will require new security skills. Threat hunters, data scientists, developers and prompt engineers are part of the answer."
+    publishedDateTime: 2023-05-03T09:00:00Z
+    webUrl: "https://www.csoonline.com/article/3694896/skilling-up-the-security-team-for-the-ai-dominated-era.html"
+    ampWebUrl: "https://www.csoonline.com/article/3694896/skilling-up-the-security-team-for-the-ai-dominated-era.amp.html"
+    cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3694896/skilling-up-the-security-team-for-the-ai-dominated-era.amp.html"
+    type: article
+    provider:
+      name: CSOonline
+      domain: csoonline.com
+    quality: 74
+    images:
+      - url: "https://images.idgesg.net/images/article/2018/07/programmer_certification-skills_developer_devops_data-scientist_laptop_by-brayden-george-unsplash-100764331-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "gJYGDoyi1cxySYzarAiEQBSpgUR/OAgFcFo9jNi+l07wHgVlLPi/PZq2/0YroYK/cN31lp2pd2lzE0qc+pC9iYHB09dhsZGV99S5jqeQ5lM4aGGxSsUgx8bpCBLOl4T51FRKlV/XabdrcaEVlDEg1msqeg7N+UdBjWUZKDN28R2my2Ekao0YfGwptB6Jge/SPPrSPv3RvZrtzStdJVET1LbGu+P3salTVLPJVvUwSx7TST/w4veKdb3aoUkcOIyZ6gaF3OgXj6HBnhK3MNV+EtyVGRHvfd7xzGDtkaJzd0l1X0BLi4iqj9NrMiVHtRilz91zqQbWkIh5AmETwixMcFktCi6mkmhdr9mwHd0Nupw=;em+vMBI7pF0VryfuMNl9vw=="
 ---

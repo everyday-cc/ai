@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Voice User Interface Global Market Report 2023: Rising use of Artificial Intelligence Drives Growth"
-    excerpt: "The \"Voice User Interface Global Market Report 2023\" report has been added to ResearchAndMarkets.com's offering. This report provides strategists, marketers and senior"
-    publishedDateTime: 2023-05-02T21:16:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/05/n32175548/voice-user-interface-global-market-report-2023-rising-use-of-artificial-intelligence-drives-growth"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32175548"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32175548"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 45
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "2023-2031 Machine Learning Recommendation Algorithm Market| Discover the Current Scope in Analytics Industry and Opportunities"
     excerpt: "The global \"Machine Learning Recommendation Algorithm Market\" report thoroughly analyzed in this Insight Report,"
     publishedDateTime: 2023-05-03T04:22:00Z

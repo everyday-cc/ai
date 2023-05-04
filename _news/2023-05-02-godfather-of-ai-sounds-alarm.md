@@ -100,6 +100,22 @@ related:
         width: 2540
         height: 1427
         isCached: true
+  - title: "'Godfather of deep learning' quits Google to openly discuss dangers of AI"
+    excerpt: "A Toronto professor considered to be a pioneer in the field of artificial intelligence announced his departure from Google on Monday so that he could openly discuss the “dangers of AI.”"
+    publishedDateTime: 2023-05-01T18:19:00Z
+    webUrl: "https://www.cp24.com/news/godfather-of-deep-learning-quits-google-to-openly-discuss-dangers-of-ai-1.6378749?cache=gtulocgpuvxrpwim%3FclipId%3D104066"
+    ampWebUrl: "https://beta.cp24.com/news/2023/5/1/1_6378749.html"
+    cdnAmpWebUrl: "https://beta-cp24-com.cdn.ampproject.org/c/s/beta.cp24.com/news/2023/5/1/1_6378749.html"
+    type: article
+    provider:
+      name: CP24
+      domain: cp24.com
+    quality: 73
+    images:
+      - url: "https://beta.ctvnews.ca/cp24/en/news/2023/5/1/1_6378749/_jcr_content/root/responsivegrid/image.coreimg.jpg"
+        width: 717
+        height: 403
+        isCached: true
   - title: "‘Godfather of AI’ Geoffrey Hinton quits Google and warns over dangers of machine learning"
     excerpt: "The neural network pioneer says dangers of chatbots were ‘quite scary’ and warns they could be exploited by ‘bad actors’"
     publishedDateTime: 2023-05-02T03:42:00Z
@@ -480,15 +496,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "'Godfather of deep learning' quits Google to openly discuss dangers of AI"
-    excerpt: "A Toronto professor considered to be a pioneer in the field of artificial intelligence announced his departure from Google on Monday so that he could openly discuss the “dangers of AI.”"
-    publishedDateTime: 2023-05-01T18:19:00Z
-    webUrl: "https://www.cp24.com/news/godfather-of-deep-learning-quits-google-to-openly-discuss-dangers-of-ai-1.6378749"
-    type: article
-    provider:
-      name: CP24
-      domain: cp24.com
-    quality: 33
   - title: "AI 'godfather' Geoffrey Hinton tells the BBC of AI dangers after he quits Google"
     excerpt: "A man widely seen as the godfather of artificial intelligence (AI) has quit his job, warning about the growing dangers from developments in the field. Geoffrey Hinton told the BBC in an interview on Monday that he \"can now just speak freely about what I think the dangers might be\"."
     publishedDateTime: 2023-05-02T02:13:00Z

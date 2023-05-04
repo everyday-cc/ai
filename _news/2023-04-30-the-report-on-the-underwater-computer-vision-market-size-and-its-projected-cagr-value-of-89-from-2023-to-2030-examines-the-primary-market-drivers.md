@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/the-report-on-the-underw
 webUrl: "https://www.marketwatch.com/press-release/the-report-on-the-underwater-computer-vision-market-size-and-its-projected-cagr-value-of-89-from-2023-to-2030-examines-the-primary-market-drivers-2023-04-30"
 type: article
 quality: 30
-heat: -1
+heat: 30
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Machine Learning in Communication Market 2023 [Latest Report] Size is Expected to Grow at a Phenomenal CAGR till 2030 | 128 Pages Report"
-    excerpt: "The Machine Learning in Communication Market Scope and Overview Report for 2023 presents a detailed analysis of the"
-    publishedDateTime: 2023-05-02T05:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-communication-market-2023-latest-report-size-is-expected-to-grow-at-a-phenomenal-cagr-till-2030-128-pages-report-2023-05-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "ltpQpSpBOjMAj0lJt6GDFQ8jLtxaBtEZYHfwu6hvA/cc7yDZ/C2o5/y4nUS6yYZ4uIZ7va6SlZny3kvz6qqbAp45nyCdTwvWA78oJ2VVLSDoxNZZPSa1n+6aS+nctO9WN3onrJ/o0sfsD6ILcwW4oJ4YMo+WyflQukEnwDaqJnXPifr/RlrZo5SByaY4mbkCchs30i3HCsY0Nwy9/DC47qHrD7+nXzl2f0u9TXm9VtaA1ggnIhd01rdx2QzOx7pmaVLZdzSVg4KiJlTK3hKajZJ51aEl4RCog+MnKz3Gg2Et0YUCRsFRSRFqql13RCacpf3RJtWL/+ULgslk536nkdME5DgA4U/Jh1oZ0gtxeqY=;waIKuCJmBc3o9CWvgSsvnA=="
 ---
