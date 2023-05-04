@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2023-05-machine-brains-communication.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-05-machine-brains-communication.amp"
 type: article
 quality: 70
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "The Babel of Brains: Decoding Sound Recognition With Machine Learning"
+    excerpt: "Neuroscientists at the University of Pittsburgh have created a machine learning model to understand how brains recognize communication sounds. The model, tested on guinea pigs, accurately predicted brain activity in response to different sound categories."
+    publishedDateTime: 2023-05-02T08:59:00Z
+    webUrl: "https://scitechdaily.com/the-babel-of-brains-decoding-sound-recognition-with-machine-learning/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 36
   - title: "Cracking the Code of Sound Recognition: Machine Learning Model Reveals How Our Brains Understand Communication Sounds"
     excerpt: "Researchers developed a machine learning model that mimics how the brains of social animals distinguish between sound categories, like mating, food or danger, and react accordingly. The algorithm helps explain how our brains recognize the meaning of communication sounds,"
     publishedDateTime: 2023-05-02T20:05:00Z

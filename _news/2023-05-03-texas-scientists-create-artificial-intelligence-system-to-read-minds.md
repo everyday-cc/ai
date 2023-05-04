@@ -2,19 +2,20 @@
 category: news
 title: "Texas scientists create artificial intelligence system to read minds"
 excerpt: "The artificial intelligence system relies on a fMRI scanner to translate a person's thoughts. BSIP/Universal Images Group via Getty. Researchers at the University of Texas at Aust"
-publishedDateTime: 2023-05-02T23:49:00Z
-originalUrl: "https://www.chron.com/news/article/ut-artificial-intelligence-ai-reads-minds-18074052.php"
-webUrl: "https://www.chron.com/news/article/ut-artificial-intelligence-ai-reads-minds-18074052.php"
+publishedDateTime: 2023-05-03T00:49:00Z
+originalUrl: "https://www.houstonchronicle.com/news/article/ut-artificial-intelligence-ai-reads-minds-18074052.php"
+webUrl: "https://www.houstonchronicle.com/news/article/ut-artificial-intelligence-ai-reads-minds-18074052.php"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
 provider:
   name: Houston Chronicle
-  domain: chron.com
+  domain: houstonchronicle.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
@@ -185,6 +186,6 @@ related:
       domain: kxan.com
     quality: 19
 
-secured: "xX/Sq9YN08wqc/jfdqDMyp9RYPXykcY7IOK/0zvj/gkzblUxsVe8xYFJ0RpMN0s3MS3JtzjJqZJb9iviDPP8Cojfrc/UfI33RmAFVN5U6SW19zR9ZnLBzIHgITf+eql9hahZb9WswkXeYJpfCCO0A3I7ZDTQXgvG3UBiOf56oz0lZqPR9F1MBbmfsIoQkW5gbqjRPO88hAPG+sgbdbUCWZTLLIAXQ+Dbx4e5BPwPMqF8cv6hSfhDXPC4ZM5s9DVBjrG9mKKl+b72jT+61Myv8BL+A5GhqUztldTAxVc0K3K0WKQvXVCgAtDEj9yu53M+jZQT3VwRUL+KIFrJxGllqpYnd2BbZL4zN8HoXD8UCOE=;ftDlYVPjOC0kcQlDJxoekg=="
+secured: "wQBSH+xJUcixWC876fMABEemnKD+S2McXiJO8ogCHcOCnLohllw3MO2Gp6P/KdZZtjGZ6LRTMtb6IICYFGqSJNhesQY1K2q+MWM9o1XJ4kzlGV/HViiXohrToXwCV04gqtQakOlWHvmdzYujXIsA97ibHwPeKRCSTsoI8SZV73wlNlPlfJe2XG1JFHALodQNcoVqg8WrvHSM0EBds5wwMNI3CXwJqcZFw4P6cqxrQNfWk2QMaJtXEQRz7vTYI1T1XQTqpgscNW+quEgeATO4KlwltCFcYvGy+CgXxOWHEUOStR1YvltStoyWbFR83GepQQj2NWzfrN+uXqdA3OVRi4eiQif5G2JP7ko8CF9kCQg=;lf5IbD5HKfW8GgisvuG5Aw=="
 ---
 

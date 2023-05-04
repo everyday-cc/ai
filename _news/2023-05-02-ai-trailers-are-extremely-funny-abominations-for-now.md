@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/ai-trailers-are-extremely-funny
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-trailers-are-extremely-funny-abominations-for-now/"
 type: article
 quality: 87
-heat: 99
+heat: 97
 published: true
 
 provider:

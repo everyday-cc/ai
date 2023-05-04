@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/godfather-of-ai-leaves-google-amid-ethi
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/godfather-of-ai-leaves-google-amid-ethical-concerns-152451800.html"
 type: article
 quality: 106
-heat: 498
+heat: 506
 published: true
 
 provider:
@@ -404,6 +404,20 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F314050d1-9e83-4dda-b6bf-3c7cba64c47c.jpg?fit=scale-down&source=next&width=700"
         width: 700
         height: 1048
+        isCached: true
+  - title: "When the ‘Godfather of AI’ quits, we all need to start thinking"
+    excerpt: "Mechanics don’t set road rules, so techies must not define the AI world, we need people outside the bubble to understand what is happening and contribute to regulations."
+    publishedDateTime: 2023-05-03T23:09:00Z
+    webUrl: "https://www.afr.com/technology/when-the-godfather-of-ai-quits-we-all-need-to-start-thinking-20230503-p5d5ex"
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 37
+    images:
+      - url: "https://static.ffx.io/images/$zoom_0.75%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_1091%2C$y_334/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_opinion_no_age_social_wm/756f177adfd455524acf7929424c5d03de7788f4"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Elon Musk backs up the 'Godfather of AI' who quit Google to warn the tech could harm humanity"
     excerpt: "Geoffrey Hinton recently explained to The New York Times why he believed that future versions of the technology posed a threat to humanity."

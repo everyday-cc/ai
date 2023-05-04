@@ -54,15 +54,6 @@ related:
         width: 1200
         height: 915
         isCached: true
-  - title: "The coming AI chip shortage"
-    excerpt: "Artificial intelligence requires semiconductors with powerful graphics processing units — chips that very few companies are able to make."
-    publishedDateTime: 2023-05-01T09:59:00Z
-    webUrl: "https://www.marketplace.org/shows/marketplace-tech/the-coming-ai-chip-shortage/"
-    type: article
-    provider:
-      name: Marketplace
-      domain: marketplace.org
-    quality: 34
   - title: "Companies adopting AI need to move slowly and not break things"
     excerpt: "McKinsey's State of Organizations 2023 report says two-thirds of firms are investing in AI. Companies such as Planet and Intercom are embracing it wisely."
     publishedDateTime: 2023-05-01T06:00:00Z

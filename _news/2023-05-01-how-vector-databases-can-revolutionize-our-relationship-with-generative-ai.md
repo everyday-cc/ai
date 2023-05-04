@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/how-vector-databases-can-revolutionize-ou
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-vector-databases-can-revolutionize-our-relationship-with-generative-ai/amp/"
 type: article
 quality: 87
-heat: 157
+heat: 167
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/63d00455752e4cf11c766efe/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "New breed of search with AI assist combines vector database and keywords"
+    excerpt: "The AI-enabled NeuralSearch from Algolia can understand the intent and context behind queries and deliver optimized results at lower cost."
+    publishedDateTime: 2023-05-03T20:27:00Z
+    webUrl: "https://venturebeat.com/ai/new-breed-search-with-ai-assist-combines-vector-database-keywords/"
+    ampWebUrl: "https://venturebeat.com/ai/new-breed-search-with-ai-assist-combines-vector-database-keywords/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/new-breed-search-with-ai-assist-combines-vector-database-keywords/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 86
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-1396158883.jpg?w=1200&strip=all"
+        width: 1200
+        height: 711
         isCached: true
   - title: "Generative AI In The Construction Sector: Taking Building Technology To New Heights"
     excerpt: "It’s no exaggeration to say that generative AI will have a transformative effect on global industry. With the ability to generate new outputs based on algorithms and trained data, it represents the next step in artificial intelligence and a new level of sophistication for machine learning."

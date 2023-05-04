@@ -9,8 +9,8 @@ ampWebUrl: "https://m.timesofindia.com/gadgets-news/why-google-deepmind-may-be-b
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/why-google-deepmind-may-be-bad-news-for-the-company/amp_articleshow/99868387.cms"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Indiatimes
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Technology: Google DeepMind merger, LLM food"
+    excerpt: "Tech correspondent Mark Pesce joins Kathryn to look at the merger of two of Alphabet's big AI teams: Google Brain and DeepMind. Can both put past differences aside to work well together? It comes as AI chatbots explode in popularity - but what are they being trained on?"
+    publishedDateTime: 2023-05-03T23:55:00Z
+    webUrl: "https://www.rnz.co.nz/national/programmes/ninetonoon/audio/2018888689/technology-google-deepmind-merger-llm-food"
+    type: article
+    provider:
+      name: rnz
+      domain: rnz.co.nz
+    quality: 39
+    images:
+      - url: "https://rnz-ressh.cloudinary.com/image/upload/s--13YbS_Un--/t_tohu-badge-facebook/v1644423959/4MC2S0W_copyright_image_260698"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Co-founders of Google DeepMind and LinkedIn launch chatbot"
     excerpt: "The co-founders of Google DeepMind and LinkedIn have launched an artificial intelligence chatbot called Pi, adding to the flood of similar products rolled out publicly this year by the likes of OpenAI, Google and Snap."
     publishedDateTime: 2023-05-02T19:00:00Z

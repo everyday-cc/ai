@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna82543"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna82543"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -59,6 +59,22 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 47
+  - title: "Screenwriters want to stop AI from taking their jobs. Studios want to see what the tech can do."
+    excerpt: "Striking film and TV writers are pushing to put strict guardrails around how studios use AI in the scripting process."
+    publishedDateTime: 2023-05-03T16:17:00Z
+    webUrl: "https://www.cbsnews.com/news/writers-strike-2023-artificial-intelligence-guardrails/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/writers-strike-2023-artificial-intelligence-guardrails/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/writers-strike-2023-artificial-intelligence-guardrails/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 45
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/05/03/052c416a-421e-4a63-a0d4-6622b87e38e2/thumbnail/1200x630/4e79a487eb1848b6d1e191494015ee68/gettyimages-1252549943.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "T05tUjdU1wT2EY67jr3aV7HHrBxGUq8XKpzdFqniPeVjVetVxZOCksZ/pCsU4WpR0RAu79SgYtSkmydTspaOJ9DuFFW2hZIHy9fL9XnBxuPjxzRbvNht9r4IFRBB7UCoxcrdefo3rVbAGO2I+Cw2h4yChB9xMr541etZgK53ZFb7VeKbIxdZSRMb209WYr5cbhmkGtp2PsShUEHBMm5/x3ip+ceplAr8gaSXVwv5zlIpPH6+IAdB84xX04lNwHm3Lqny/quHCw3KX3Jo+mZno6xihfO6aIoV3ngF+jXxMdi1rx7JrIQiSmCIsUGeBbXD21+W88zBIam9+RH4MCe2aS1HoAAiXt0wvIkCzonbXEbrZLmLmfXWK4RP6cY90tk+NgsDbSWMCxESstFBq4BeWyuhEvWRBO4V1O0XaTEAXneW9fwCFXELMzy057Ji8cQ8HBAx36fIVdNsWW4AfHWQXhPbM+0V4eNriScxobUK5zw9KcZ2XPup740zvBnb/N/z3Z//L0Gv15MXKz4k5PYTKw==;i0MyWMTCH4Thmgq//tlHeQ=="
 ---

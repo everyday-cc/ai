@@ -19,59 +19,40 @@ topics:
   - AI
 
 related:
-  - title: "We need to bring consent to AI"
-    excerpt: "This week's big news is that Geoffrey Hinton, a VP and Engineering Fellow at Google, and a pioneer of deep learning who developed some of the most important techniques at the heart of modern AI, is leaving the company after 10 years. But first, we need to talk about consent in AI."
-    publishedDateTime: 2023-05-02T09:47:00Z
-    webUrl: "https://www.technologyreview.com/2023/05/02/1072556/we-need-to-bring-consent-to-ai/"
-    ampWebUrl: "https://www.technologyreview.com/2023/05/02/1072556/we-need-to-bring-consent-to-ai/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/05/02/1072556/we-need-to-bring-consent-to-ai/amp/"
+  - title: "Examining the Media Psychology of Artificial Intelligence"
+    excerpt: "The psychology of artificial intelligence is a burgeoning field in which science, medicine and health care, psychology, education, entertainment, and technology and commerce converge. Through media psychology, AI can be designed to wag the tail or wag the dog."
+    publishedDateTime: 2023-05-03T18:34:00Z
+    webUrl: "https://www.psychologytoday.com/za/blog/the-media-psychology-effect/202305/examining-the-media-psychology-of-artificial-intelligence"
+    ampWebUrl: "https://www.psychologytoday.com/za/blog/the-media-psychology-effect/202305/examining-the-media-psychology-of-artificial-intelligence?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-media-psychology-effect/202305/examining-the-media-psychology-of-artificial-intelligence?amp"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 59
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/04/opt-out-writing.jpeg?w=3000"
-        width: 3000
-        height: 1688
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-05/Tail%20Wagging%20the%20Dog%20%235.jpg?itok=_UnK84ps"
+        width: 1528
+        height: 800
         isCached: true
-  - title: "Using Artificial Intelligence to Speed up Discovery of New Drugs"
-    excerpt: "Experts see a bright future in the complementary use of artificial intelligence (AI) and structure-based drug discovery for drug discovery. Researchers explain how computational methods will streamline drug discovery by predicting which drug molecules are most likely to bind with the target receptor."
-    publishedDateTime: 2023-04-30T22:01:00Z
-    webUrl: "https://neurosciencenews.com/ai-drug-discovery-23150/"
+  - title: "How AI And Machine Learning Can Help Accelerate Studies Of Consumer Deal Psychology"
+    excerpt: "Many other industries have beaten online retail in using AI and ML to refine their processes. Still, by revolutionizing the way brands serve deals, we might have unearthed one of their most valuable applications."
+    publishedDateTime: 2023-05-03T12:44:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/03/how-ai-and-machine-learning-can-help-accelerate-studies-of-consumer-deal-psychology/"
     type: article
     provider:
-      name: Neuroscience News
-      domain: neurosciencenews.com
-    quality: 41
-    images:
-      - url: "https://neurosciencenews.com/files/2023/04/ai-drug-discovery-neurosicences.jpg"
-        width: 1200
-        height: 915
-        isCached: true
-  - title: "Missing persons helped by artificial intelligence"
-    excerpt: "Indiana has been grappling with an unsolved murder and missing person case for years. With the help of revolutionary augmented reality (AR) and artificial intelligence (AI) crime-solving tools, attention is being brought to these cases like never before."
-    publishedDateTime: 2023-05-01T21:03:00Z
-    webUrl: "https://www.wishtv.com/news/allindiana/missing-persons-helped-by-artificial-intelligence/"
+      name: Forbes
+      domain: forbes.com
+    quality: 58
+  - title: "In-memory computing. A chip off the AI block"
+    excerpt: "So, he embarked on designing a memory chip that can offer an “alternative computational paradigm” with higher performance and energy efficiency. Among the various in-memory computing hardware, the one that Chakrabarti found particularly interesting was ..."
+    publishedDateTime: 2023-04-29T19:43:00Z
+    webUrl: "https://www.thehindubusinessline.com/business-tech/a-chip-off-the-ai-block/article66794700.ece"
     type: article
     provider:
-      name: WISH-TV
-      domain: wishtv.com
-    quality: 37
-    images:
-      - url: "https://www.wishtv.com/wp-content/uploads/2023/05/kghmnbklgfblgfb.jpg"
-        width: 1512
-        height: 851
-        isCached: true
-  - title: "Companies adopting AI need to move slowly and not break things"
-    excerpt: "McKinsey's State of Organizations 2023 report says two-thirds of firms are investing in AI. Companies such as Planet and Intercom are embracing it wisely."
-    publishedDateTime: 2023-05-01T06:00:00Z
-    webUrl: "https://www.fastcompany.com/90888603/applied-ai-move-slowly-not-break-things"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 17
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 34
 
 secured: "9QXGahdVG3xKTpbylFIzj3IcGe3RSf0H1XVxUfNlFgBPD4CBeQ8JfkCg9CGmn+YXHvG750aWbgedQyA3qSY6XJDarvYAOPunGoD+c7IEUaXpfw68dMrdvckjyVXWl4ZdAor+ao0+MtmUUzveRfhHrOzH3IRqz3l60d5uA9TNrNl/gcWWuiSqifeeAnVX4sKtjBbpD48OvPHF90c/pcMrlwB1CgWiq3AmB9VsN0X6Ak9/WmqnS8kdvNy5vVYENi6m8M3Mr2xUlkYdJzsO9RK+1yPvBZbSSYJ+1v2X2+1evDQtsi4CX/Ny674WTXz6W/8NuvGCKiUQwOwBd99pHB7T6U86b4E9lt2RrhbS7DZTfsYtVBVC+q1YWgTDqir7mzLPO3bPeITQ7XOhvdEDeqflY/Wuz8qXB0JE9/pYQDNdW+ugZZKhQnci+coKXjLISmPK6mR72FIDwLnOIHSMOACGp5zS498w67FARZNwjImaMLZfi/xnPdBnLoHZgm1zeBS48gvdNdUuA5lGj/t6dc68EQ==;C6y/sCTXVAsgzQOekveOiw=="
 ---

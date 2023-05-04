@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/technology/mind-reading-ai-translates-brain-act
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/technology/mind-reading-ai-translates-brain-activity-into-text/?amp=true"
 type: article
 quality: 102
-heat: 224
+heat: 222
 published: true
 
 provider:
@@ -120,6 +120,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 39
+  - title: "Texas scientists create artificial intelligence system to read minds"
+    excerpt: "The artificial intelligence system relies on a fMRI scanner to translate a person's thoughts. BSIP/Universal Images Group via Getty. Researchers at the University of Texas at Aust"
+    publishedDateTime: 2023-05-03T00:49:00Z
+    webUrl: "https://www.houstonchronicle.com/news/article/ut-artificial-intelligence-ai-reads-minds-18074052.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 39
+    images:
+      - url: "https://s.hdnux.com/photos/01/32/53/24/23770368/3/rawImage.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Movie clip reconstructed by an AI reading mice's brains as they watch"
     excerpt: "Researchers have put together a 30-second movie clip based on a group of mice's brain activity data that was recorded while they watched the footage"
     publishedDateTime: 2023-05-03T15:54:00Z
@@ -133,20 +147,6 @@ related:
       - url: "https://images.newscientist.com/wp-content/uploads/2023/05/03153714/SEI_1544353851.jpg"
         width: 1350
         height: 901
-        isCached: true
-  - title: "Texas scientists create artificial intelligence system to read minds"
-    excerpt: "The artificial intelligence system relies on a fMRI scanner to translate a person's thoughts. BSIP/Universal Images Group via Getty. Researchers at the University of Texas at Aust"
-    publishedDateTime: 2023-05-02T23:49:00Z
-    webUrl: "https://www.chron.com/news/article/ut-artificial-intelligence-ai-reads-minds-18074052.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 37
-    images:
-      - url: "https://s.hdnux.com/photos/01/32/53/24/23770368/3/rawImage.jpg"
-        width: 1024
-        height: 683
         isCached: true
   - title: "AI ‘Brain Decoder’ System Translates Human Brain Activity"
     excerpt: "Researchers have developed an artificial intelligence-based ‘brain decoder’ that can translate brain activity into a continuous stream of text."

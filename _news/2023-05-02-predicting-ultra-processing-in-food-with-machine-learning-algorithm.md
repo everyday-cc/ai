@@ -24,6 +24,22 @@ images:
     height: 500
     isCached: true
 
+related:
+  - title: "Brain dynamics uncovered using a machine-learning algorithm"
+    excerpt: "CEBRA is a machine-learning method that can be used to compress time series in a way that reveals otherwise hidden structures in the variability of the data. It excels at processing behavioural and neural data recorded simultaneously,"
+    publishedDateTime: 2023-05-03T22:37:00Z
+    webUrl: "https://www.nature.com/articles/d41586-023-01339-9"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 39
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-01339-9/d41586-023-01339-9_25308634.png"
+        width: 1024
+        height: 576
+        isCached: true
+
 secured: "R+/ELQ38TVVbS4KlJa9TVmPXnIthkNlBDSt7HLYbXCRMnKvXB7DVcN8ZSlbrQeepFGIcKAZ2bqciD33yJLOs8jhxM8VNPudmY7+Wdprjuw9OCtFKfwRHxBAcY6Z0d/+fLDbIE3OD1SoeOMZ2yHaNK0irAukwpcjb8Y8O/qYrwMlP/+eFiq02w/ZGnhRc2+iSW9fPdD64EMXaTWS+JRPOYYuW78Y4SVdGQ6DoWVYrZyNTYhM2rIvJvAbfb3cSbffKCyYmeZsnDZx7wpMP9PQ+pDKVbXYpRyNIY79xnYwrnDZTpbTAJB8uES1LrTf2aeGiG7OJ0bfU9Lhmu3RkZCsISLXIKUFuNz18wRzWxsdtnhJ1EkkSs01PO2vTtV6emzywNYZv35LGnpmEakDL5M2Qo7HenEZgCUEGAHY2h3NQu9ZkPlqPgylaK3kXC9E63gEErYeqx5g3o4DLsCkjPGXzxdrdXKtrjfUoaDgLWnIFQnGpLC4r3N+7kCQU2q/ooob2kD+27euhjzCPN6Kg6Q+MdQ==;3DsB0pSWLpOQYaeeXKHRvg=="
 ---
 

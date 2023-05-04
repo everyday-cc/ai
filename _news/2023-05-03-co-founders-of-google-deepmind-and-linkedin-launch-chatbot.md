@@ -35,6 +35,20 @@ related:
         width: 1069
         height: 580
         isCached: true
+  - title: "Technology: Google DeepMind merger, LLM food"
+    excerpt: "Tech correspondent Mark Pesce joins Kathryn to look at the merger of two of Alphabet's big AI teams: Google Brain and DeepMind. Can both put past differences aside to work well together? It comes as AI chatbots explode in popularity - but what are they being trained on?"
+    publishedDateTime: 2023-05-03T23:55:00Z
+    webUrl: "https://www.rnz.co.nz/national/programmes/ninetonoon/audio/2018888689/technology-google-deepmind-merger-llm-food"
+    type: article
+    provider:
+      name: rnz
+      domain: rnz.co.nz
+    quality: 39
+    images:
+      - url: "https://rnz-ressh.cloudinary.com/image/upload/s--13YbS_Un--/t_tohu-badge-facebook/v1644423959/4MC2S0W_copyright_image_260698"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "ieOY+W0kOdltiTaCkp7ZZe4iq54uDRjFE+MHJbG1CZfs8Ii2gcIoFijuVLDxDRDhwe2mgAjWb6UeqbfHfFetEI9VbHliAECPP3Gz92by3wmQ6hMebm4EznmfegPcudURMZitdEKApzphM16MT52KzhjGb5s8bSfvgonCx+cKm8CDsB5GRo7BQ6eZL4A8lFyBBwZtj07A7VRIbebSsXpSm/tLDteY4twIpJjkOuBPbqL8nk3VnXlTEBEuxK682XvmyZrhxCLSlkmsnOiGP47gAlA3wPJgiDRNeTlxI7FeMwCgwwompNFHXKoasO66WM8V37sYXReTnC65E8PI5WMOKOX586b1idcPNfm9cxosXRnjbzEGZXlntt8w/Xi2WJuZyq5dMgcb72zwC6UHgyjVA+L+43tjY82ryHiWoQs5/0H1ajxGCL0hA1N1iFqhUtbpdT4OEAD22LPTMxP743zSalbUiBc6LzRSWvGZ5cvy/2ON71zqmsQWsT+jp9SLzTFm3PmFljnFZCNCITroFU6UWg==;zEwpDRRUeMN1BDpVXyJEbQ=="
 ---

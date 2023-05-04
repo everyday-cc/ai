@@ -8,7 +8,7 @@ webUrl: "https://theconversation.com/ai-has-potential-to-revolutionise-health-ca
 ampWebUrl: "https://theconversation.com/amp/ai-has-potential-to-revolutionise-health-care-but-we-must-first-confront-the-risk-of-algorithmic-bias-204112"
 cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/ai-has-potential-to-revolutionise-health-care-but-we-must-first-confront-the-risk-of-algorithmic-bias-204112"
 type: article
-quality: 23
+quality: 25
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI Ethics
 
 related:
   - title: "Parliament's Inadequate Response to the AI Revolution"

@@ -6,8 +6,8 @@ publishedDateTime: 2023-05-03T20:10:00Z
 originalUrl: "https://technews.tmcnet.com/news/2023/05/03/9807216.htm"
 webUrl: "https://technews.tmcnet.com/news/2023/05/03/9807216.htm"
 type: article
-quality: 33
-heat: 33
+quality: 35
+heat: 35
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"

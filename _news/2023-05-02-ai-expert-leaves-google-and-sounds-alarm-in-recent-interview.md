@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/ai-expert-leaves-google-and-sou
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-expert-leaves-google-and-sounds-alarm-in-recent-interview/"
 type: article
 quality: 87
-heat: 87
+heat: 89
 published: true
 
 provider:

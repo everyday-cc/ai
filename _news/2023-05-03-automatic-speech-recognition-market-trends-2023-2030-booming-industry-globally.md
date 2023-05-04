@@ -69,6 +69,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 35
+  - title: "UK competition watchdog launches review of AI market"
+    excerpt: "The UK competition watchdog is launching a review of the artificial intelligence market, including the models behind popular chatbots such as ChatGPT, as the industry comes increasingly into global regulators’ crosshairs."
+    publishedDateTime: 2023-05-03T20:00:00Z
+    webUrl: "https://www.ft.com/content/76f12980-657e-405c-b510-9ee8bbfb81b7"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "j6XjJHBnkla+1/aCNK/NBqiLcdtLm++dxeXIFlY/RaAHvINNrrnERO3d2dsppdcQiELhNtdj6HDdDyi+ajNGx9lf6uvuut3KyhsMvaErpKGPnl+0pPuwDgqE+RyyZPqiMegeqRfpqh59Kg3iCsaKxeORzJb2vwe1evuK1XdkmdsejurwTqIUF8RKfngQrGOmX5iFx2LneTTZuiuTaaSfm5vmNSpBQR7fnIIMR+cyPfpnPJfN95aPj5Kvrj+btR7bTEKKhNQXdRB+6NSNtuj1HTJzJQZjz/p9x4+sfO6nehoLF7qvUx0XSK1T7a729wH++/E2psHdO3FItHhnLj62zXRoSD7mRfOW/9Hif1ZFOkQ=;x5Lk58iWkTYg1KBMwaDfpQ=="
 ---

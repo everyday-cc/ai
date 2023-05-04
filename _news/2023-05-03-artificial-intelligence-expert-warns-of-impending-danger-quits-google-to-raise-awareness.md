@@ -41,6 +41,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Scientists warn of growing AI dangers but don’t agree fully on solutions"
+    excerpt: "Tech computer scientists and tech business leaders such as Elon Musk and Apple co-founder Steve Wozniak in calling for a six-month pause on developing AI systems more powerful than OpenAI’s latest model,"
+    publishedDateTime: 2023-05-03T23:05:00Z
+    webUrl: "https://www.pennlive.com/nation-world/2023/05/scientists-warn-of-growing-ai-dangers-but-dont-agree-fully-on-solutions.html"
+    ampWebUrl: "https://www.pennlive.com/nation-world/2023/05/scientists-warn-of-growing-ai-dangers-but-dont-agree-fully-on-solutions.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/nation-world/2023/05/scientists-warn-of-growing-ai-dangers-but-dont-agree-fully-on-solutions.html?outputType=amp"
+    type: article
+    provider:
+      name: Penn Live
+      domain: pennlive.com
+    quality: 58
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/XCUYFGKZTBGYPJ2CWCAUGT6Z2Q.jpg"
+        width: 3438
+        height: 2099
+        isCached: true
   - title: "Toronto's pioneer of artificial intelligence quits Google to openly discuss dangers of AI"
     excerpt: "A Toronto professor considered to be a pioneer in the field of artificial intelligence announced his departure from Google on Monday so that he could openly discuss the “dangers of AI.”"
     publishedDateTime: 2023-05-01T17:46:00Z

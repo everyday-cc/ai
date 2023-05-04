@@ -61,6 +61,22 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 47
+  - title: "Screenwriters want to stop AI from taking their jobs. Studios want to see what the tech can do."
+    excerpt: "Striking film and TV writers are pushing to put strict guardrails around how studios use AI in the scripting process."
+    publishedDateTime: 2023-05-03T16:17:00Z
+    webUrl: "https://www.cbsnews.com/news/writers-strike-2023-artificial-intelligence-guardrails/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/writers-strike-2023-artificial-intelligence-guardrails/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/writers-strike-2023-artificial-intelligence-guardrails/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 45
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/05/03/052c416a-421e-4a63-a0d4-6622b87e38e2/thumbnail/1200x630/4e79a487eb1848b6d1e191494015ee68/gettyimages-1252549943.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "WsTCPN7n/0OV+3vplmlfh0vU6j+n7kYC5YWTFeVQ/Ua7UPLh6IQw7yizxAfxWj/0EwqL2IR398c1c9c36ztJL9CH2OP7Wtl4nnPChsq4lJlDw7uYGV+KDjBZrg/JiFQ1N0dUmXShv7/mHZjVMUKSOiEh03Pr1d2HQ0aasWPJwozxHilNeBT9z4OiZ6mpSQPP/tA0vWHSjjieJrGFuMG571G4XnIV09gz/AWrQrugWxG+aOR5mz4eozwXerwZ5eL6evP00A6SWeTM5Q0W/B6T0zuZfLeeZlB0pqlCw2UhbGZA0ENc3XMhXa4yx7m3gvvwvF2RtDZfNt2WYc32qi/MALkqkd/EhdtBZ6/pAuQv0mwP6eoJsrLr/f5+8SDKHH7RWBk0VNcfWvZY0iVY6L6tm4iFNJ1UKPc5BqA/diQu8nyX4G97XIkVQH46MMM5+p1bhsNVkdP+c1x47m25fP7LJAKXypBy2ZWPfXJA/wx6f6r8jc0khWa14hahjeiOmDJAv5aBIiVneoK7r9vAs0qrwg==;a4GHs1A8pd1ZAd07iIuTMQ=="
 ---

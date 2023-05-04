@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Police accused over use of facial recognition at King Charles’s coronation"
+    excerpt: "Met says technology will not be used to target protesters or activists, but campaigners say use is ‘extremely worrying’"
+    publishedDateTime: 2023-05-03T21:34:00Z
+    webUrl: "https://www.theguardian.com/uk-news/2023/may/03/metropolitan-police-live-facial-recognition-in-crowds-at-king-charles-coronation"
+    ampWebUrl: "https://amp.theguardian.com/uk-news/2023/may/03/metropolitan-police-live-facial-recognition-in-crowds-at-king-charles-coronation"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/uk-news/2023/may/03/metropolitan-police-live-facial-recognition-in-crowds-at-king-charles-coronation"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/b8db4757a16c78241897d176d4991a39cfc6636f/0_576_8640_5184/master/8640.jpg?width=620&quality=85&auto=format&fit=max&s=358de4318acd68df80290c528e9dc6a6"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Police to use live facial recognition in crowds at King Charles coronation"
     excerpt: "Met says technology will not be used to target protesters or activists, but campaigners say use is ‘extremely worrying’"
     publishedDateTime: 2023-05-03T19:37:00Z

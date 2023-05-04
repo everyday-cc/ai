@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/ai-lessons-from-healthcare-overcoming-c
 webUrl: "https://venturebeat.com/ai/ai-lessons-from-healthcare-overcoming-complexity-and-embracing-the-cloud/"
 type: article
 quality: 63
-heat: 83
+heat: 85
 published: true
 
 provider:

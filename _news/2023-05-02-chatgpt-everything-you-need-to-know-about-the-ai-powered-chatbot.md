@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/05/01/chatgpt-everything-you-need-to-kno
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/01/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/"
 type: article
 quality: 89
-heat: 459
+heat: 469
 published: true
 
 provider:
@@ -466,6 +466,20 @@ related:
       - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/05/03/2023-05-02T191849Z736819654RC2IQ0AB69LURTRMADP3INFLECTION-AI-CHATBOT_0.JPG?VersionId=.LSgTrLBRI2NkTQQKsH4qOVDeJrRlmwZ"
         width: 860
         height: 573
+        isCached: true
+  - title: "AI startup inflection launches ChatGPT style chatbot"
+    excerpt: "Another similar chatbot called Pi has been recently launched by an AI startup called Inflection. The AI development firm was founded by LinkedIn cofounder Reid Hoffman and Google DeepMind co-founder Mustafa Suleyman last year in March."
+    publishedDateTime: 2023-05-03T23:06:00Z
+    webUrl: "https://techstory.in/ai-startup-inflection-launches-pi/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 37
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2023/05/bitcoin-3137984_960_720-360x240.jpg"
+        width: 360
+        height: 240
         isCached: true
   - title: "'ChatGPT is the new crypto': Meta warns hackers are exploiting interest in the AI chatbot"
     excerpt: "Hackers have seized on worldwide interest in the artificial intelligence-powered tool ChatGPT in an effort to break into people's devices, Facebook owner Meta revealed ... to provide AI functionality.\" \"Our research and that of security researchers has ..."

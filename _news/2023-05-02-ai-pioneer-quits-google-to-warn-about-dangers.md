@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/world/2023/05/02/exp-ai-dangers-anna-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/world/2023/05/02/exp-ai-dangers-anna-stewart-reports-fst-050210aseg1-cnni-world.cnn"
 type: article
 quality: 87
-heat: 127
+heat: 139
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Scientists warn of growing AI dangers but don’t agree fully on solutions"
+    excerpt: "Tech computer scientists and tech business leaders such as Elon Musk and Apple co-founder Steve Wozniak in calling for a six-month pause on developing AI systems more powerful than OpenAI’s latest model,"
+    publishedDateTime: 2023-05-03T23:05:00Z
+    webUrl: "https://www.pennlive.com/nation-world/2023/05/scientists-warn-of-growing-ai-dangers-but-dont-agree-fully-on-solutions.html"
+    ampWebUrl: "https://www.pennlive.com/nation-world/2023/05/scientists-warn-of-growing-ai-dangers-but-dont-agree-fully-on-solutions.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/nation-world/2023/05/scientists-warn-of-growing-ai-dangers-but-dont-agree-fully-on-solutions.html?outputType=amp"
+    type: article
+    provider:
+      name: Penn Live
+      domain: pennlive.com
+    quality: 58
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/XCUYFGKZTBGYPJ2CWCAUGT6Z2Q.jpg"
+        width: 3438
+        height: 2099
+        isCached: true
   - title: "Artificial intelligence expert warns of impending danger, quits Google to raise awareness"
     excerpt: "Hinton expressed concern that computers could become more intelligent than humans far sooner than he and his colleagues had anticipated..Geoffrey Hinton. Google. artificial intelligence. Geoffrey Hinton quits google."
     publishedDateTime: 2023-05-03T10:40:00Z

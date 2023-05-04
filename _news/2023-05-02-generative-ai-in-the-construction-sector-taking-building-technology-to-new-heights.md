@@ -62,6 +62,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "New breed of search with AI assist combines vector database and keywords"
+    excerpt: "The AI-enabled NeuralSearch from Algolia can understand the intent and context behind queries and deliver optimized results at lower cost."
+    publishedDateTime: 2023-05-03T20:27:00Z
+    webUrl: "https://venturebeat.com/ai/new-breed-search-with-ai-assist-combines-vector-database-keywords/"
+    ampWebUrl: "https://venturebeat.com/ai/new-breed-search-with-ai-assist-combines-vector-database-keywords/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/new-breed-search-with-ai-assist-combines-vector-database-keywords/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 86
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-1396158883.jpg?w=1200&strip=all"
+        width: 1200
+        height: 711
+        isCached: true
   - title: "AI ‘could be as transformative as industrial revolution’"
     excerpt: "UK’s outgoing chief scientist urges ministers to ‘get ahead’ of profound social and economic changes"
     publishedDateTime: 2023-05-03T14:29:00Z
