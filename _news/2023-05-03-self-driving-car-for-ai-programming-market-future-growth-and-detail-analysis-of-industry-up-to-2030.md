@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/self-driving-car-for-ai-
 webUrl: "https://www.marketwatch.com/press-release/self-driving-car-for-ai-programming-market-future-growth-and-detail-analysis-of-industry-up-to-2030-2023-05-03"
 type: article
 quality: 55
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -84,6 +84,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 34
+  - title: "Artificial Intelligence in Building Market Size and Value: In-Depth Research Report, and possible growth directions of 12.7% CAGR from 2023-2030"
+    excerpt: "The \"Artificial Intelligence in Building Market\" is segmented into regions, Applications, and Types. The report presents the research and analysis provided within the Artificial Intelligence in Building Market Research is meant to benefit stakeholders,"
+    publishedDateTime: 2023-05-03T22:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-building-market-size-and-value-in-depth-research-report-and-possible-growth-directions-of-127-cagr-from-2023-2030-2023-05-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "RsEff+vRkKugusw0AJ328/zkbojFyyGKHziBJK2uT1pH1+PvUp6F3hXLe75AzvDS/3jnjMW/fJHYlvdiHJQu4HULZElkdo08nepIUGJINFEVUsTBpIZlEX6/N2OT59HVGl7H9vWVFBfaAos2KkaEWr3OA/AUEfaUC17bOMwqp3ShRFOQLL6ureqYji5QN58V1DzD3s47YQWeFnRjZ+0yeIIMhTzqjOhLcVcKTvsxSIO8FgSRhHHSeoGrwBj1cz/yfiE/EGqtVc0ukuiPWWNQEC+cEnc9PRjjZA6TOZM1FGUb4h2XXQr1Ulhyl4S+tig9Ius8eJaaA7gMN7T1s4qwJ7VUjR20hZ3P9NnqGabXtDU=;JbWKhAd2Fsc8+EQo28VQwg=="
 ---

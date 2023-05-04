@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/products/chatgpt-found-its-way-into-a-boston
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/chatgpt-found-its-way-into-a-boston-dynamics-robot-dog?_amp=true"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 840
     height: 438
     isCached: true
-
-related:
-  - title: "Viral: ChatGPT-AI, Google tech, gives voice to Boston Dynamics’ robot dog"
-    excerpt: "A team of programmers has outfitted Boston Dynamics' robot dog, Spot, with OpenAI's ChatGPT and Google's Text-to-Speech speech modulation in a viral video."
-    publishedDateTime: 2023-04-29T12:21:00Z
-    webUrl: "https://interestingengineering.com/innovation/boston-dynamics-robot-dog-thinks-with-chatgpt-google-tech"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 33
 
 secured: "9280CeMtROFAZn226o7w5npLTG0SVBrw9I1HE885HGHXvGnSb0wPo26Kvx8e8MIn4D1q26jfR8BUu+7fGKNVSYm9JqqYCcp1IBCDK8iYm6+Raeb9oLtQPFJNtmF0vnEf6U/TFYtYXxLj1uUkKDbQjTfqq6NQ+ETp9NSaW2sOxAe61hFvA1e5WH+7d35j1GNqupoTMa9vytOgFNJGOLcuMTXBIzrZfv6u0+mNp8EICc5TVFhsoNQoIgFwQTgKDOsbGpIzN/b9Yt3Scr0aVEIWJICrfKKYJtl4QrzwD3iUYVHhRm2fhcjhQa/MtVpgfnl3lSPo201nmvXpPv9oYOxbFwdP0zLWOMY54lyoSit0W7a4YW8n9E4dP9Vo2LeUW8Yz7mOQQzu9Q4mq6aIrpfvnvsV+VT52AOPuYlrSUWZL7+EoLJlGc7sl7GhP+VVF8zR/JN7kpkbyBgIHFg8fKfM0SIXrqQwpfbg3O4WNlMPaKmBl9khFf/sdCSY14MMUwcnmKjYPPp1hbp6NfUcYIJXQow==;cFtPaoJNXDS3wvzXFY5DBg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/callminer-collaborates-w
 webUrl: "https://www.marketwatch.com/press-release/callminer-collaborates-with-microsoft-to-enhance-ai-and-machine-learning-capabilities-2023-05-03"
 type: article
 quality: 94
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://www.medianama.com/wp-content/uploads/2023/05/christina-wocintechchat-com-F75IfIWSqRY-unsplash-scaled.jpg"
         width: 2560
         height: 1709
+        isCached: true
+  - title: "Nippon Life Selects H2O.ai to Transform Its Insurance Business With Machine Learning and Improve Customer Health"
+    excerpt: "H2O.ai, the AI Cloud leader, today announced a strategic partnership with Nippon Life Insurance Company, also known as Nissay in Japan. Specifically, the companies are announcing a partnership where Nippon Life Insurance Company will deploy H2O Driverless AI tools to better meet the needs of their policyholders,"
+    publishedDateTime: 2023-05-03T20:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/nippon-life-selects-h2oai-to-transform-its-insurance-business-with-machine-learning-and-improve-customer-health-2023-05-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Aisera Collaborates with Microsoft to Provide AI Enterprise Service Experiences with ChatGPT and Generative AI"
     excerpt: "Aisera Collaborates with Microsoft to Provide AI Enterprise Service Experiences with ChatGPT and Generative AI May 03, 2023 (PRNewswire via COMTEX) --"

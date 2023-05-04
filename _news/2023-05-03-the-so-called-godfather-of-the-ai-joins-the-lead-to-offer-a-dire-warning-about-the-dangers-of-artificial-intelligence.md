@@ -216,6 +216,22 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "Bernie Sanders, Elon Musk and White House seeking my help, says ‘godfather of AI’"
+    excerpt: "Dr Geoffrey Hinton has been inundated with requests to talk after quitting Google to warn about risk of digital intelligence"
+    publishedDateTime: 2023-05-04T04:00:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/may/04/bernie-sanders-elon-musk-and-white-house-seeking-my-help-says-godfather-of-ai"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/04/bernie-sanders-elon-musk-and-white-house-seeking-my-help-says-godfather-of-ai"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/04/bernie-sanders-elon-musk-and-white-house-seeking-my-help-says-godfather-of-ai"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 52
+    images:
+      - url: "https://i.guim.co.uk/img/media/5e1e45cf5e153ee39e4862b86c7738f2ff4276ce/0_274_6094_3658/master/6094.jpg?width=620&quality=85&auto=format&fit=max&s=8370298a213f321d568a0533f9a7781d"
+        width: 620
+        height: 372
+        isCached: true
   - title: "‘Godfather of AI’ Geoffrey Hinton quits Google over killer robot fears & ‘regrets inventing tech that could destroy us’"
     excerpt: "A SCIENTIST dubbed the ‘godfather’ of Artificial Intelligence has quit his job at Google to warn killer robots could turn against humans. Geoffrey Hinton said he regrets his work on AI as he left"
     publishedDateTime: 2023-05-02T08:23:00Z

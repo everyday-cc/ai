@@ -2,6 +2,160 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-05-03-nvidias-20-siggraph-papers-highlight-generative-ai-3d-characters-and-hair.md",
+      "title": "Nvidia’s 20 Siggraph papers highlight generative AI, 3D characters and hair",
+      "excerpt": "Nvidia Graphics Research said it has 20 research papers debuting at SIGGRAPH, the big computer graphics conference coming in Los Angeles.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/nvidias-20-siggraph-papers-highlight-generative-ai-3d-characters-and-hair/",
+      "originalUrl": "https://venturebeat.com/ai/nvidias-20-siggraph-papers-highlight-generative-ai-3d-characters-and-hair/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/NVIDIA-SIGGRAPH-Key-Visual.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 787,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/nvidias-20-siggraph-papers-highlight-generative-ai-3d-characters-and-hair/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidias-20-siggraph-papers-highlight-generative-ai-3d-characters-and-hair/amp/",
+      "publishedDateTime": "2023-05-02T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-02-ai-pioneer-quits-google-to-warn-about-dangers.md",
+      "title": "AI pioneer quits Google to warn about dangers",
+      "excerpt": "An AI-generated song copied the Weeknd and Drake's voice. Who gets paid? School changes reading program after realizing students 'weren't actually learning to read'",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/videos/world/2023/05/02/exp-ai-dangers-anna-stewart-reports-fst-050210aseg1-cnni-world.cnn",
+      "originalUrl": "https://www.cnn.com/videos/world/2023/05/02/exp-ai-dangers-anna-stewart-reports-fst-050210aseg1-cnni-world.cnn",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/230502121138-exp-ai-dangers-anna-stewart-reports-fst-050210aseg1-cnni-world-00002001-super-tease.png",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/world/2023/05/02/exp-ai-dangers-anna-stewart-reports-fst-050210aseg1-cnni-world.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/world/2023/05/02/exp-ai-dangers-anna-stewart-reports-fst-050210aseg1-cnni-world.cnn",
+      "publishedDateTime": "2023-05-02T09:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-02-microsofts-work-trend-index-employee-engagement-pays-off-in-productivity-stock-price.md",
+      "title": "Microsoft’s Work Trend Index: Employee engagement pays off in productivity, stock price",
+      "excerpt": "This Microsoft Work Trend research report details the benefits of using a feedback flywheel to keep employees engaged.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/microsoft-work-trend-index-employee-engagement/",
+      "originalUrl": "https://www.techrepublic.com/article/microsoft-work-trend-index-employee-engagement/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2023/05/microsoft-gef15b3e66_1280.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/article/microsoft-work-trend-index-employee-engagement/amp/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/microsoft-work-trend-index-employee-engagement/amp/",
+      "publishedDateTime": "2023-05-02T09:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-02-sap-to-embed-ibm-watson-ai-into-sap-solutions.md",
       "title": "SAP to Embed IBM Watson AI into SAP Solutions",
       "excerpt": "SAP will use IBM Watson capabilities to power its digital assistant in SAP Start, which provides a unified entry point for cloud solutions from SAP. With SAP Start, users can search for, launch and interactively engage with apps provided in cloud solutions from SAP and SAP S/4HANA Cloud.",
@@ -795,7 +949,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2023-2031-players-launches-revolutionary-product-line-in-coming-years-2023-05-02",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1092,144 +1246,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-ai-trailers-are-extremely-funny-abominations-for-now.md",
-      "title": "AI Trailers Are Extremely Funny Abominations. For Now",
-      "excerpt": "This hellish atrocity I've just described is an AI generated trailer, designed to show the capabilities of AI created content. It is, in no uncertain terms, an abomination. It's also extremely funny.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/ai-trailers-are-extremely-funny-abominations-for-now/",
-      "originalUrl": "https://www.cnet.com/tech/ai-trailers-are-extremely-funny-abominations-for-now/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/61a5f420b79395e60ab2c3b95dc1c53900376fb7/hub/2023/05/02/53a395d2-d456-40d1-b738-f1efd94ec9f9/screen-shot-2023-05-02-at-11-17-16-am.png?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/ai-trailers-are-extremely-funny-abominations-for-now/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-trailers-are-extremely-funny-abominations-for-now/",
-      "publishedDateTime": "2023-05-01T18:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-ai-robotics-experts-in-demand-clerical-jobs-losing-shine.md",
-      "title": "‘AI, robotics experts in demand; clerical jobs losing shine’",
-      "excerpt": "ISLAMABAD: The decision about what career to opt for is often a tough choice, but knowing what jobs are in demand and how the future markets will look like could help making an informed decision. According to a new report by the World Economic Forum (WEF) artificial learning and machine learning specialists,",
-      "sourceUrl": null,
-      "webUrl": "https://www.dawn.com/news/1750426/ai-robotics-experts-in-demand-clerical-jobs-losing-shine",
-      "originalUrl": "https://www.dawn.com/news/1750426/ai-robotics-experts-in-demand-clerical-jobs-losing-shine",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dawn.com/large/2023/05/0208295449a04c8.png?r=083100",
-          "width": 798,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-01T18:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dawn",
-        "domain": "dawn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-would-you-have-a-computer-chip-installed-in-your-brain-the-tech-is-here.md",
-      "title": "Would you have a computer chip installed in your brain? The tech is here",
-      "excerpt": "Would you have a computer chip implanted in your brain? Now, what if that tech could combat paralysis, crippling depression, deafness or blindness? Sounds like a science fiction novel, but the tech is here.",
-      "sourceUrl": null,
-      "webUrl": "https://www.komando.com/technology/brain-computer-chips/885367/",
-      "originalUrl": "https://www.komando.com/technology/brain-computer-chips/885367/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.komando.com/wp-content/uploads/2023/05/kk-article-20230502-brain-implants-the-future-is-now-1200x675-1.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.komando.com/technology/brain-computer-chips/885367/?amp",
-      "cdnAmpWebUrl": "https://www-komando-com.cdn.ampproject.org/c/s/www.komando.com/technology/brain-computer-chips/885367/?amp",
-      "publishedDateTime": "2023-05-01T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kim Komando",
-        "domain": "komando.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

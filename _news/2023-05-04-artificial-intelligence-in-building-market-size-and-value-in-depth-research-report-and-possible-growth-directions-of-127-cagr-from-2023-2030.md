@@ -1,0 +1,104 @@
+---
+category: news
+title: "Artificial Intelligence in Building Market Size and Value: In-Depth Research Report, and possible growth directions of 12.7% CAGR from 2023-2030"
+excerpt: "The \"Artificial Intelligence in Building Market\" is segmented into regions, Applications, and Types. The report presents the research and analysis provided within the Artificial Intelligence in Building Market Research is meant to benefit stakeholders,"
+publishedDateTime: 2023-05-03T22:37:00Z
+originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-building-market-size-and-value-in-depth-research-report-and-possible-growth-directions-of-127-cagr-from-2023-2030-2023-05-03"
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-building-market-size-and-value-in-depth-research-report-and-possible-growth-directions-of-127-cagr-from-2023-2030-2023-05-03"
+type: article
+quality: 32
+heat: -1
+published: false
+
+provider:
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - IBM AI
+  - AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+related:
+  - title: "Self-Driving Car for AI Programming Market Future Growth and Detail Analysis of Industry Up to 2030"
+    excerpt: "The following is a synopsis of a market research report on the Self-Driving Car for AI Programming Market research"
+    publishedDateTime: 2023-05-03T07:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-for-ai-programming-market-future-growth-and-detail-analysis-of-industry-up-to-2030-2023-05-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Deep Learning Software Market Analysis: Current Market Size, Growth Projection, and CAGR of 6% from 2023 - 2030"
+    excerpt: "This report on \" Deep Learning Software market \" contains the data required to conduct a SWOT, PEST, and STEER analysis. It gives a better knowledge of market dynamics and industry competition. The Deep Learning Software market is expected to grow annually by 6% (CAGR 2023 - 2030)."
+    publishedDateTime: 2023-04-30T11:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-software-market-analysis-current-market-size-growth-projection-and-cagr-of-6-from-2023---2030-2023-04-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Education Market Research Report 2022 – Industry Environment, Supply Side and Demand Side Analysis"
+    excerpt: "The global Artificial Intelligence in Education market is expected to exceed more than US$ 4 Billion by 2024 at CAGR of"
+    publishedDateTime: 2023-05-03T05:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-research-report-2022-industry-environment-supply-side-and-demand-side-analysis-2023-05-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+  - title: "Deep-Learning Computing Unit (DCU) Market Growth, Trends and Industry Forecast 2023-2030 | NVIDIA, AMD, Intel"
+    excerpt: "The study on the market for Deep-Learning Computing Unit (DCU) provides a thorough analysis of the industry. It does"
+    publishedDateTime: 2023-05-03T10:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-computing-unit-dcu-market-growth-trends-and-industry-forecast-2023-2030-nvidia-amd-intel-2023-05-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Self-driving Forklift Market 2023 Growth Status and Outlook for 2030"
+    excerpt: "Additionally, the report provides up-to-date information on the market and identifies growth opportunities for the Self-driving Forklift market. With a detailed market outlook, definition of the industry,"
+    publishedDateTime: 2023-05-02T06:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-forklift-market-2023-growth-status-and-outlook-for-2030-2023-05-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+  - title: "The Future Scope of Far-field Speech Recognition Market Huge Growth Along with High Demand till 2030"
+    excerpt: "The following is a synopsis of a market research report on the Far-field Speech Recognition Market research report"
+    publishedDateTime: 2023-05-02T11:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-future-scope-of-far-field-speech-recognition-market-huge-growth-along-with-high-demand-till-2030-2023-05-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+
+secured: "NKxb7+r5FAj0entnKDIhw2tYobcgOGp/OueAWQlWk/1YbbZCgJJXwMIf4KCeKxwD2ADeULNDvZjJFT1B/HvcwXddMzBlxajhRHnFl1rRKZR/AAnLgJVVg7uRui/sKrls6xLvdcc/A1669DT0sGasUhRv+xnla5S17dvv9kCuP6wdRpONnLDAtQz1drsIwp1uHJMhNbgi5dp28Sm1QoBCeet97x6mGnHktevB3tUIWjLNNPw712Gz4diH+4pmoXbnBQkI0gSNjmYJwPGbfm0jCF7eRI6TSIE8lNL/kT70lI6blS+N+QhdRfbzDegwNTsib6k+UKHrkxRFJ9uNSSLyPLHDnb2nWOspHT0/IMdpIZ8=;dn6bfMPxZkBbovrkTKMUig=="
+---
+

@@ -84,6 +84,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 34
+  - title: "Artificial Intelligence in Building Market Size and Value: In-Depth Research Report, and possible growth directions of 12.7% CAGR from 2023-2030"
+    excerpt: "The \"Artificial Intelligence in Building Market\" is segmented into regions, Applications, and Types. The report presents the research and analysis provided within the Artificial Intelligence in Building Market Research is meant to benefit stakeholders,"
+    publishedDateTime: 2023-05-03T22:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-building-market-size-and-value-in-depth-research-report-and-possible-growth-directions-of-127-cagr-from-2023-2030-2023-05-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "5XsrmRZq9QgU+JPNnDiLLsBHiww5Y5KBW9gOu7cQhWYINx1PK5crgScZu48xbyzVBh6sbrSri6yfXdD1af30KLIMQMpifyU5xX/dwWF58WoCwYC2Ku0XL007ZbsjghRG8l4qiloP9wQ8yufD171CcOw9a2GsKx4nFQ2KAztm1ClywZhWfKxs0dH1azdoaZmwJtNhcUGQMTW+5bQZi7tuGjb+PcHjsJ74O7G9kcF1znkQDGuZB9AhOsDOZ+jO5i7lYj/GtxVa4Cg0mlBK4pKavz0PNba+PpgmOhyRTi011rg023DWDyYmb5ctEbwpNJRHYTnx/cXtuAlBLgEpZ2F8jBXJiV272BlYfRWNLP+ws9Q=;UsD7eAYSq4hsQQOZGG46+w=="
 ---

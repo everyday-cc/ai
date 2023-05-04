@@ -2,6 +2,143 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-05-01-how-to-optimize-google-cloud-platform-cloud-costs-with-ibm-turbonomic.md",
+      "title": "How to optimize Google Cloud Platform cloud costs with IBM Turbonomic",
+      "excerpt": "A close look at how IBM Turbonomic helps customers optimize their GCP cloud costs.\nThe post How to optimize Google Cloud Platform cloud costs with IBM Turbonomic appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-to-optimize-google-cloud-platform-cloud-costs-with-ibm-turbonomic/",
+      "originalUrl": "https://www.ibm.com/blog/how-to-optimize-google-cloud-platform-cloud-costs-with-ibm-turbonomic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-01T06:49:18-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-01-ai-lessons-from-healthcare-overcoming-complexity-and-embracing-the-cloud.md",
+      "title": "AI lessons from healthcare: Overcoming complexity and embracing the cloud",
+      "excerpt": "The healthcare industry has pioneered some of the most effective, innovative approaches for moving AI into production.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-lessons-from-healthcare-overcoming-complexity-and-embracing-the-cloud/",
+      "originalUrl": "https://venturebeat.com/ai/ai-lessons-from-healthcare-overcoming-complexity-and-embracing-the-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-01T06:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-05-01-emotiv-enlists-two-machine-learning-heavyweights-as-ai-takes-aim-at-the-human-brain.md",
+      "title": "EMOTIV Enlists Two Machine Learning Heavyweights as AI Takes Aim at the Human Brain",
+      "excerpt": "Dr. Flake has been appointed CTO for EMOTIV after helming R&D teams for large technology companies across two decades. Author of the seminal book, The Computational Beauty of Nature, he earned renown as a scientist in academic and research circles before applying his knowledge within the commercial sector.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/emotiv-enlists-two-machine-learning-heavyweights-as-ai-takes-aim-at-the-human-brain-2023-05-01",
+      "originalUrl": "https://www.marketwatch.com/press-release/emotiv-enlists-two-machine-learning-heavyweights-as-ai-takes-aim-at-the-human-brain-2023-05-01",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-01T05:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-01-backlash-against-ai-supermodels-triggers-wider-fears-in-fashion-workforce.md",
       "title": "Backlash against AI supermodels triggers wider fears in fashion workforce",
       "excerpt": "Anxiety about tech displacing humans is common in many industries undergoing change. But in the fashion world, those worries are colliding with other long-running labor concerns.",
@@ -689,7 +826,7 @@
       "originalUrl": "https://www.theguardian.com/society/2023/apr/30/artificial-intelligence-tool-identify-cancer-ai",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -729,7 +866,8 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -1083,151 +1221,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-29-understanding-the-risks-of-generative-ai-for-better-business-outcomes.md",
-      "title": "Understanding the risks of generative AI for better business outcomes",
-      "excerpt": "Understand the risks to security, privacy and more of generative AI and the precautions you can take to mitigate them.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/understand-risks-generative-ai-better-business-outcomes/",
-      "originalUrl": "https://venturebeat.com/ai/understand-risks-generative-ai-better-business-outcomes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1209661950-e1666828949345.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 595,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/understand-risks-generative-ai-better-business-outcomes/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/understand-risks-generative-ai-better-business-outcomes/amp/",
-      "publishedDateTime": "2023-04-29T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-29-cybersecurity-meets-ai-augmenting-and-accelerating-humans.md",
-      "title": "Cybersecurity meets AI: Augmenting and accelerating humans",
-      "excerpt": "AI in cybersecurity must be collaborative, with humans and AI improving efficiency and efficacy over what either could do independently.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/cybersecurity-meets-ai-augmenting-and-accelerating-humans/",
-      "originalUrl": "https://venturebeat.com/ai/cybersecurity-meets-ai-augmenting-and-accelerating-humans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/04/annevb_Cybersecurity_meets_artificial_intelligence_AI_making_se_980107ce-9d5e-47af-9002-48f47fc5a493.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/cybersecurity-meets-ai-augmenting-and-accelerating-humans/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/cybersecurity-meets-ai-augmenting-and-accelerating-humans/amp/",
-      "publishedDateTime": "2023-04-29T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-29-why-google-deepmind-may-be-bad-news-for-the-company.md",
-      "title": "Why Google DeepMind may be 'bad news' for the company",
-      "excerpt": "According to a report by The Financial Times, Google is risking internal turmoil by bringing DeepMind onboard. Citing people familiar with the matter,",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/why-google-deepmind-may-be-bad-news-for-the-company/articleshow/99868387.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/why-google-deepmind-may-be-bad-news-for-the-company/articleshow/99868387.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-99868418,width-1070,height-580,imgsize-1272816,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-          "width": 1069,
-          "height": 580,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/gadgets-news/why-google-deepmind-may-be-bad-news-for-the-company/amp_articleshow/99868387.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/why-google-deepmind-may-be-bad-news-for-the-company/amp_articleshow/99868387.cms",
-      "publishedDateTime": "2023-04-29T03:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

@@ -4,19 +4,19 @@
     {
       "path": "_news/2023-05-04-axl-edtech-launches-ai-language-and-marketing-innovations.md",
       "title": "AXL EdTech Launches AI Language and Marketing Innovations",
-      "excerpt": "AXL, an educational technology company, is developing two key new products that will be available for those creating e-learning courses. One is the company's proprietary",
+      "excerpt": "AXL EdTech's team shares that its language software is an AI avatar that automatically translates videos with a unique voice simulator that actually replicates the original speaker's voice timbre and lip movements,",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/05/32200454/axl-edtech-launches-ai-language-and-marketing-innovations",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/05/32200454/axl-edtech-launches-ai-language-and-marketing-innovations",
+      "webUrl": "https://www.marketwatch.com/press-release/axl-edtech-launches-ai-language-and-marketing-innovations-2023-05-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/axl-edtech-launches-ai-language-and-marketing-innovations-2023-05-03",
       "featuredContent": null,
       "highlight": null,
       "heat": 96,
       "tags": null,
       "images": [
         {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/32200454",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32200454",
-      "publishedDateTime": "2023-05-03T14:06:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-03T14:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

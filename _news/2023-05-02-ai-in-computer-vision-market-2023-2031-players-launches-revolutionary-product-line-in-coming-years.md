@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-ma
 webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2023-2031-players-launches-revolutionary-product-line-in-coming-years-2023-05-02"
 type: article
 quality: 69
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -47,15 +47,6 @@ related:
     excerpt: "GlobalAutomatic Speech Recognition Market[2023-2030] research report is a compilation of information and analysis"
     publishedDateTime: 2023-05-03T09:22:00Z
     webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-market-trends-2023-2030-booming-industry-globally-2023-05-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-  - title: "Global Artificial Intelligence in Insurance Market Intelligence Report [2023-2030]"
-    excerpt: "GlobalArtificial Intelligence in Insurance Market[2023-2030] research report is a compilation of information and"
-    publishedDateTime: 2023-05-03T08:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-insurance-market-intelligence-report-2023-2030-2023-05-03"
     type: article
     provider:
       name: MarketWatch

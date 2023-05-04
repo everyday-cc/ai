@@ -1,49 +1,32 @@
 ---
 category: news
 title: "What are the dangers of AI? Find out why people are afraid of artificial intelligence"
-excerpt: "Many experts worry that the rapid development of artificial intelligence may have unforeseen disastrous consequences for humanity. Machine learning technology is designed to assist humans in their everyday life and provide the world with open access to information."
-publishedDateTime: 2023-04-28T15:00:00Z
-originalUrl: "https://wfin.com/fox-technology-news/what-are-the-dangers-of-ai-find-out-why-people-are-afraid-of-artificial-intelligence/"
-webUrl: "https://wfin.com/fox-technology-news/what-are-the-dangers-of-ai-find-out-why-people-are-afraid-of-artificial-intelligence/"
+excerpt: "Many experts worry that the rapid development of artificial intelligence may have unforeseen disastrous consequences for humanity. Machine learning technology is designed to assist humans in their ..."
+publishedDateTime: 2023-04-28T13:34:00Z
+originalUrl: "https://www.foxnews.com/tech/what-dangers-find-out-why-people-afraid-artificial-intelligence"
+webUrl: "https://www.foxnews.com/tech/what-dangers-find-out-why-people-afraid-artificial-intelligence"
+ampWebUrl: "https://www.foxnews.com/tech/what-dangers-find-out-why-people-afraid-artificial-intelligence.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/what-dangers-find-out-why-people-afraid-artificial-intelligence.amp"
 type: article
-quality: 47
-heat: 47
-published: false
 
 provider:
-  name: WFIN
-  domain: wfin.com
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Healthcare
+  - AI in Autos
   - AI
 
 images:
-  - url: "https://cdn.tegna-media.com/wtol/weather/PlanAhead.jpg"
-    width: 864
-    height: 486
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9173ff0e-731a-4938-8d98-838e96cab4aa/8c3c171d-0b0c-4650-a5c1-bb79bf268d11/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
+    width: 1200
+    height: 675
     isCached: true
 
-related:
-  - title: "Why Sign Language Translation Poses a Puzzle for AI"
-    excerpt: "Even standard travel information is rarely available in the native sign language of many Deaf people who are expected to make do with written information in their second or third language. The UK’s Network Rail is one of several transport companies around the world working to address this gap in accessibility."
-    publishedDateTime: 2023-05-02T09:35:00Z
-    webUrl: "https://slator.com/why-sign-language-translation-poses-a-puzzle-for-ai/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 19
-  - title: "What are the biggest names in tech doing on AI?"
-    excerpt: "Microsoft, Google, Amazon and Meta are among the leading tech companies that have announced new AI initiatives"
-    publishedDateTime: 2023-05-01T12:38:00Z
-    webUrl: "https://www.fox35orlando.com/news/what-are-the-biggest-names-in-tech-doing-on-ai"
-    type: article
-    provider:
-      name: WOFL
-      domain: fox35orlando.com
-    quality: 17
-
-secured: "cucd3qtHz8lB+t67Z354t/VNjFiTf/k5YuFqYNG6CpxzQJmqtagLOANBJRiI3vO7QF6ULj6SBMgd9KB7bJtjhJlDeYu5Uk2+RrWv1H4RwsXSrRvqcgDATpIle5LRS2boxz0NjMPDqX12bSSqllvvgOBnQBfmu0t894jQCgTuBE7165C2IrhvqZ2zYE/BDYdnzWiu4YxWemBtWvWUObK8nwabVIZZfZjqYXwv0kvYpHKQ1ya0ETZK67Yk2Tgj4rYTgFciJ1g2/z5Hx3GsF1EcQ6spgaI3w8/MFu+nuF+zO5A2tH691jfcR4gdU+UoOeZa17nIsmv9oy0L7B7hDMqt8lZk1d/lR/pv6f6iN4elr60=;blB5lyB29sj2XNt5W8jh0A=="
+secured: "/YZpyslUuzCxjAs1bf0QYjRyeI9P51658aQEWNddfQkBtDcHweUoAySE/Ia2ZFdXj0KsVvmWAImPbP70SsomDCbdcVAVlwc0ryRyskOK8hng7sZ42Tqs403Ms0gB7+z96P5OnEzhizEHJEuBBamUQ/MN9EWCkVAwkgmZqlM7OQqMp5at1DdnCftDvtryMirtL7ke2bHRA1G/3Ff2rAjIsI9Creu23hDBUTsIjfumsMynYBjmh74q9vaP3qpoH1jn0ZPrV8RYv0+bGrtXGeNMSoNOa9pmMjg46/qBX/YuSng2FxxvcuKId01kucwDY5iPAUnYj2qB1FxJvdqQEj0LpEIpw/pw3BG6BC+EptS/Vbo=;iCnYEvSpceEJHJxGBPXHEA=="
 ---
 

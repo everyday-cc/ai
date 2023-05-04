@@ -59,15 +59,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 43
-  - title: "Global Artificial Intelligence in Insurance Market Intelligence Report [2023-2030]"
-    excerpt: "GlobalArtificial Intelligence in Insurance Market[2023-2030] research report is a compilation of information and"
-    publishedDateTime: 2023-05-03T08:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-insurance-market-intelligence-report-2023-2030-2023-05-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
   - title: "UK competition watchdog launches review of AI market"
     excerpt: "The UK competition watchdog is launching a review of the artificial intelligence market, including the models behind popular chatbots such as ChatGPT, as the industry comes increasingly into global regulators’ crosshairs."
     publishedDateTime: 2023-05-03T20:00:00Z

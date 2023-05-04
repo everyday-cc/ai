@@ -2,6 +2,255 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-04-29-understanding-the-risks-of-generative-ai-for-better-business-outcomes.md",
+      "title": "Understanding the risks of generative AI for better business outcomes",
+      "excerpt": "Understand the risks to security, privacy and more of generative AI and the precautions you can take to mitigate them.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/understand-risks-generative-ai-better-business-outcomes/",
+      "originalUrl": "https://venturebeat.com/ai/understand-risks-generative-ai-better-business-outcomes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1209661950-e1666828949345.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 595,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/understand-risks-generative-ai-better-business-outcomes/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/understand-risks-generative-ai-better-business-outcomes/amp/",
+      "publishedDateTime": "2023-04-29T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-29-cybersecurity-meets-ai-augmenting-and-accelerating-humans.md",
+      "title": "Cybersecurity meets AI: Augmenting and accelerating humans",
+      "excerpt": "AI in cybersecurity must be collaborative, with humans and AI improving efficiency and efficacy over what either could do independently.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/cybersecurity-meets-ai-augmenting-and-accelerating-humans/",
+      "originalUrl": "https://venturebeat.com/ai/cybersecurity-meets-ai-augmenting-and-accelerating-humans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/04/annevb_Cybersecurity_meets_artificial_intelligence_AI_making_se_980107ce-9d5e-47af-9002-48f47fc5a493.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/cybersecurity-meets-ai-augmenting-and-accelerating-humans/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/cybersecurity-meets-ai-augmenting-and-accelerating-humans/amp/",
+      "publishedDateTime": "2023-04-29T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-29-the-rise-of-artificial-intelligence-explained.md",
+      "title": "The rise of artificial intelligence, explained",
+      "excerpt": "Artificial intelligence is suddenly everywhere — or at least, that’s what it seems like to us at Vox. Even in its current form and with its limitations, the tech is already shaping everything ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.vox.com/2023/4/28/23702644/artificial-intelligence-machine-learning-technology",
+      "originalUrl": "https://www.vox.com/2023/4/28/23702644/artificial-intelligence-machine-learning-technology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/IB8wOPRuDVPuHmzsEWJPSDFWxQs=/0x0:6000x4000/1400x1050/filters:focal(2746x1656:3706x2616):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/72228657/GettyImages_1483829076.0.jpg",
+          "width": 1400,
+          "height": 1050,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vox.com/platform/amp/2023/4/28/23702644/artificial-intelligence-machine-learning-technology",
+      "cdnAmpWebUrl": "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/amp/2023/4/28/23702644/artificial-intelligence-machine-learning-technology",
+      "publishedDateTime": "2023-04-29T08:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vox",
+        "domain": "vox.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/vox.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-29-chatbots-are-digesting-the-internet-the-internet-wants-to-get-paid.md",
+      "title": "Chatbots Are Digesting the Internet. The Internet Wants to Get Paid.",
+      "excerpt": "it’s very likely you have played a part in creating the latest generation of artificial intelligence. Google’s Bard chatbot, OpenAI’s ChatGPT, Microsoft’s OpenAI-powered version of Bing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/chatgpt-ai-artificial-intelligence-openai-personal-writing-5328339a",
+      "originalUrl": "https://www.wsj.com/articles/chatgpt-ai-artificial-intelligence-openai-personal-writing-5328339a",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-771262/social",
+          "width": 960,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-29T05:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-29-why-google-deepmind-may-be-bad-news-for-the-company.md",
+      "title": "Why Google DeepMind may be 'bad news' for the company",
+      "excerpt": "According to a report by The Financial Times, Google is risking internal turmoil by bringing DeepMind onboard. Citing people familiar with the matter,",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/why-google-deepmind-may-be-bad-news-for-the-company/articleshow/99868387.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/why-google-deepmind-may-be-bad-news-for-the-company/articleshow/99868387.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-99868418,width-1070,height-580,imgsize-1272816,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+          "width": 1069,
+          "height": 580,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/gadgets-news/why-google-deepmind-may-be-bad-news-for-the-company/amp_articleshow/99868387.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/why-google-deepmind-may-be-bad-news-for-the-company/amp_articleshow/99868387.cms",
+      "publishedDateTime": "2023-04-29T03:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-29-latest-healthcare-natural-language-processing-market-share-2023-2029-with-new-trend.md",
       "title": "Latest \"Healthcare Natural Language Processing Market\" Share 2023-2029, With New Trend",
       "excerpt": "The Readers in the section will understand how the Healthcare Natural Language Processing market scenario changed",
@@ -52,6 +301,49 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-04-29-artificial-intelligence-is-driving-the-stock-market-it-has-some-advice-for-you.md",
+      "title": "Artificial Intelligence Is Driving the Stock Market. It Has Some Advice for You.",
+      "excerpt": "It’s based on an Instagram page called RuPublicans, a nod to reality show celebrity RuPaul, featuring portraits made using the artificial intelligence tools Midjourney and ChatGPT-4. Already a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/artificial-intelligence-tech-stocks-chatgpt-ai-7349e463",
+      "originalUrl": "https://www.barrons.com/articles/artificial-intelligence-tech-stocks-chatgpt-ai-7349e463",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-772462/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/artificial-intelligence-tech-stocks-chatgpt-ai-7349e463",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/artificial-intelligence-tech-stocks-chatgpt-ai-7349e463",
+      "publishedDateTime": "2023-04-28T16:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -901,299 +1193,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-facial-recognition-market-report-by-2023-2030.md",
-      "title": "Facial Recognition Market | Report By 2023-2030",
-      "excerpt": "Top “ Facial Recognition Market ” Size 2023 Key players Profiled in the Report are [, Neurotechnology, Nviso, Cognitec Systems, Daon, NEC, Techno Brain, Idemia, Animetrics, 3M, Facefirst Inc., Ayonix,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-report-by-2023-2030-2023-04-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-report-by-2023-2030-2023-04-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-28T09:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-self-driving-ai-lab-awarded-200m-grant-to-pursue-new-drugs-materials.md",
-      "title": "‘Self-driving’ AI lab awarded $200M grant to pursue new drugs, materials",
-      "excerpt": "A “self-driving lab” that’s using artificial intelligence (AI) to reverse engineer how to make things like new medicines, sustainable plastic alternatives and anti-corrosive building ...",
-      "sourceUrl": null,
-      "webUrl": "https://globalnews.ca/news/9657567/ai-canada-university-of-toronto-self-driving-lab-research-grant-acceleration-consortium/",
-      "originalUrl": "https://globalnews.ca/news/9657567/ai-canada-university-of-toronto-self-driving-lab-research-grant-acceleration-consortium/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://globalnews.ca/wp-content/uploads/2023/04/Untitled-design-38.png",
-          "width": 1024,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://globalnews.ca/news/9657567/ai-canada-university-of-toronto-self-driving-lab-research-grant-acceleration-consortium/amp/",
-      "cdnAmpWebUrl": "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/9657567/ai-canada-university-of-toronto-self-driving-lab-research-grant-acceleration-consortium/amp/",
-      "publishedDateTime": "2023-04-28T09:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Global News",
-        "domain": "globalnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-aimachine-learning-market-size-trends-and-forecast-2030.md",
-      "title": "AI/Machine Learning Market Size, Trends and Forecast 2030",
-      "excerpt": "The latest independent research report on AI/Machine Learning Market 2023 explore investment in Market. It classify",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/aimachine-learning-market-size-trends-and-forecast-2030-2023-04-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/aimachine-learning-market-size-trends-and-forecast-2030-2023-04-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-28T08:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-chatgpt-may-have-better-bedside-manner-than-some-doctors-but-it-lacks-some-expertise.md",
-      "title": "ChatGPT may have better bedside manner than some doctors, but it lacks some expertise",
-      "excerpt": "ChatGPT can be a useful tool for patients who are seeking medical information and guidance, but the artificial intelligence tool can't fully replace the value of a human physician -- it says so itself.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/04/28/health/chatgpt-patient-advice-study-wellness/index.html",
-      "originalUrl": "https://www.cnn.com/2023/04/28/health/chatgpt-patient-advice-study-wellness/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/230411114945-06-chatgpt-phone-stock-super-tease.jpeg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/04/28/health/chatgpt-patient-advice-study-wellness/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/04/28/health/chatgpt-patient-advice-study-wellness/index.html",
-      "publishedDateTime": "2023-04-28T08:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-democratic-senator-introduces-bill-targeting-ais-shortfalls.md",
-      "title": "Democratic senator introduces bill targeting AI’s shortfalls",
-      "excerpt": "The popular use of ChatGPT and other artificial intelligence has sparked a rush around the globe to figure out if and how it should be regulated.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/congress/democratic-senator-introduces-bill-targeting-ais-shortfalls-rcna81959",
-      "originalUrl": "https://www.nbcnews.com/politics/congress/democratic-senator-introduces-bill-targeting-ais-shortfalls-rcna81959",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-04/230428-senator-michael-bennett-mn-0950-ae45c0.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna81959",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna81959",
-      "publishedDateTime": "2023-04-28T07:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-voices-study-finds-creatives-optimistic-about-generative-ai-but-share-concerns-over-its-ethics.md",
-      "title": "Voices study finds creatives optimistic about generative AI, but share concerns over its ethics",
-      "excerpt": "Voices study finds creatives optimistic about generative AI, but share concerns over its ethics Apr 28, 2023 (PRNewswire via COMTEX) -- PR Newswire NEW",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/voices-study-finds-creatives-optimistic-about-generative-ai-but-share-concerns-over-its-ethics-2023-04-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/voices-study-finds-creatives-optimistic-about-generative-ai-but-share-concerns-over-its-ethics-2023-04-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-28T07:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }
