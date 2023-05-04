@@ -2,6 +2,109 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-04-these-new-yorkers-want-to-stop-landlords-from-using-facial-recognition.md",
+      "title": "These New Yorkers Want to Stop Landlords From Using Facial Recognition",
+      "excerpt": "At a raucous city council hearing, lawmakers and activists alike argued in favor of bills banning biometric tech in residential buildings and large venues.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/nyc-msg-facial-recognition-landlords-ban-law-hearing-1850401997",
+      "originalUrl": "https://gizmodo.com/nyc-msg-facial-recognition-landlords-ban-law-hearing-1850401997",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/532d2605600e5fb6b48f117eb031be29.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-03T17:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-04-centene-makeover-continues-as-health-insurer-divests-artificial-intelligence-platform.md",
+      "title": "Centene Makeover Continues As Health Insurer Divests Artificial Intelligence Platform",
+      "excerpt": "Centene will divest Apixio, an artificial intelligence platform, as the health insurer focuses on its health benefits business and continues to review its portfolio.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/brucejapsen/2023/05/03/centene-makeover-continues-as-health-insurer-divests-artificial-intelligence-platform/",
+      "originalUrl": "https://www.forbes.com/sites/brucejapsen/2023/05/03/centene-makeover-continues-as-health-insurer-divests-artificial-intelligence-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5dca0d42f5b54ee0b18a87a03661ea94/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 765,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/brucejapsen/2023/05/03/centene-makeover-continues-as-health-insurer-divests-artificial-intelligence-platform/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucejapsen/2023/05/03/centene-makeover-continues-as-health-insurer-divests-artificial-intelligence-platform/amp/",
+      "publishedDateTime": "2023-05-03T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-04-is-ai-the-history-eraser-button.md",
       "title": "Is AI The History Eraser Button?",
       "excerpt": "This iconic scene from the John Krisfaluchi’s Ren and Stimpy television series epitomizes man’s duality. Do we honor nature, protect the earth and everything we love, or impulsively sacrifice ourselves to the false god of progress and the legions of unintended consequences they unleash?",
@@ -10,7 +113,7 @@
       "originalUrl": "https://www.forbes.com/sites/charliefink/2023/05/03/is-ai-the-history-eraser-button/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -113,7 +216,7 @@
       "originalUrl": "https://fortune.com/2023/05/03/google-deepmind-ceo-agi-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -165,7 +268,7 @@
       "originalUrl": "https://www.theguardian.com/uk-news/2023/may/03/metropolitan-police-live-facial-recognition-in-crowds-at-king-charles-coronation",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -616,7 +719,7 @@
       "originalUrl": "https://www.zdnet.com/article/why-open-source-is-essential-to-allaying-ai-fears-according-to-stability-ai-founder/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -1134,108 +1237,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-03-can-an-auditor-be-replaced-by-ai.md",
-      "title": "Can An Auditor Be Replaced By AI?",
-      "excerpt": "More people are growing concerned that AI could put at risk the careers of auditors, but how much truth is behind this fear?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/03/can-an-auditor-be-replaced-by-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/03/can-an-auditor-be-replaced-by-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64510e0d5d052fdb024e9ff2/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/03/can-an-auditor-be-replaced-by-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/03/can-an-auditor-be-replaced-by-ai/amp/",
-      "publishedDateTime": "2023-05-03T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-03-where-is-india-in-the-generative-ai-race.md",
-      "title": "Where is India in the generative AI race?",
-      "excerpt": "In the high-stakes race for supremacy in the field of generative AI, India's bustling startup ecosystem is facing an uphill battle.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/05/03/where-is-india-in-the-generative-ai-race/",
-      "originalUrl": "https://techcrunch.com/2023/05/03/where-is-india-in-the-generative-ai-race/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1483825958.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/05/03/where-is-india-in-the-generative-ai-race/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/03/where-is-india-in-the-generative-ai-race/amp/",
-      "publishedDateTime": "2023-05-03T02:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

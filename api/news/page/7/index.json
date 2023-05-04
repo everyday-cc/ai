@@ -2,6 +2,101 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-04-28-global-natural-language-processing-nlp-market-size-to-grow-at-a-cagr-of-2130-in-the-forecast-period-of-2023-2028.md",
+      "title": "Global Natural Language Processing (NLP) Market Size To Grow At A CAGR Of 21.30% In The Forecast Period Of 2023-2028",
+      "excerpt": "The global natural language processing (NLP) market is expected to register growth during the forecast period on account of the increasing demand for advanced text analytics. Rapid technological advancements and expansions coupled with increased connectivity as well as cloud-based systems are likely to increase the market growth of natural language processing (NLP) with increased interaction between humans and machines.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-market-size-to-grow-at-a-cagr-of-2130-in-the-forecast-period-of-2023-2028-2023-04-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-market-size-to-grow-at-a-cagr-of-2130-in-the-forecast-period-of-2023-2028-2023-04-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-28T06:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-28-can-artificial-intelligence-ai-grow-your-money-yes-in-theory-but-know-the-risks.md",
+      "title": "Can Artificial Intelligence (AI) grow your money? Yes, in theory, but know the risks",
+      "excerpt": "What are artificial intelligence ETFs? AI ETFs (exchange-tracked funds) mirrors growth of companies involved in the development and production of robots or AI. The world’s largest ETF is the ...",
+      "sourceUrl": null,
+      "webUrl": "https://gulfnews.com/your-money/saving-investment/can-artificial-intelligence-ai-grow-your-money-yes-in-theory-but-know-the-risks-1.1682689976742",
+      "originalUrl": "https://gulfnews.com/your-money/saving-investment/can-artificial-intelligence-ai-grow-your-money-yes-in-theory-but-know-the-risks-1.1682689976742",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imagevars.gulfnews.com/2023/04/28/AI-money-investment_187c8226c79_medium.jpg",
+          "width": 540,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gulfnews.com/amp/your-money/saving-investment/can-artificial-intelligence-ai-grow-your-money-yes-in-theory-but-know-the-risks-1.1682689976742",
+      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/your-money/saving-investment/can-artificial-intelligence-ai-grow-your-money-yes-in-theory-but-know-the-risks-1.1682689976742",
+      "publishedDateTime": "2023-04-28T06:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf News",
+        "domain": "gulfnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-28-ballooning-ai-driven-facial-recognition-industry-sparks-concern-over-bias-privacy-you-are-being-identified.md",
       "title": "Ballooning AI-driven facial recognition industry sparks concern over bias, privacy: ‘You are being identified'",
       "excerpt": "A significant expansion in Artificial intelligence (AI) facial recognition technology is increasingly being deployed to catch criminals, but experts express concern about the impact on personal ...",
@@ -1097,99 +1192,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-spotify-ceo-addresses-ai-concerns-but-also-sees-opportunity-to-attract-more-creators.md",
-      "title": "Spotify CEO Addresses AI Concerns, But Also Sees Opportunity To Attract More Creators",
-      "excerpt": "Spotify CEO Daniel Ek discussed concerns and opportunities surrounding the integration of AI into the music platform during its Q1 2023 earnings call.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johanmoreno/2023/04/27/spotify-ceo-addresses-ai-concerns-but-also-sees-opportunity-to-attract-more-creators/",
-      "originalUrl": "https://www.forbes.com/sites/johanmoreno/2023/04/27/spotify-ceo-addresses-ai-concerns-but-also-sees-opportunity-to-attract-more-creators/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/644b068b82129dfcc9027798/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johanmoreno/2023/04/27/spotify-ceo-addresses-ai-concerns-but-also-sees-opportunity-to-attract-more-creators/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/04/27/spotify-ceo-addresses-ai-concerns-but-also-sees-opportunity-to-attract-more-creators/amp/",
-      "publishedDateTime": "2023-04-27T16:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-how-artificial-intelligence-is-transforming-hollywood.md",
-      "title": "How artificial intelligence is transforming Hollywood",
-      "excerpt": "Artificial intelligence is revolutionizing Hollywood productions and raising new questions. CNBC’s Julia Boorstin shows us how companies are using AI to put actors’ faces on body doubles and even “revive” deceased movie stars on screen.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/nightly-news/video/how-artificial-intelligence-is-transforming-hollywood-171546693664",
-      "originalUrl": "https://www.nbcnews.com/nightly-news/video/how-artificial-intelligence-is-transforming-hollywood-171546693664",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_04/WA-NNWEB-20230427-01_AI_HOLLYWOOD_BOORSTIN_3_21_MIXDOWN_frame_3793-376hvp.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo171546693664",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo171546693664",
-      "publishedDateTime": "2023-04-27T15:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

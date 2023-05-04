@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/uk-news/2023/may/03/metropolitan-police-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/uk-news/2023/may/03/metropolitan-police-live-facial-recognition-in-crowds-at-king-charles-coronation"
 type: article
 quality: 57
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -63,20 +63,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Big brother is tracking you: lawmakers condemn facial recognition cameras in stores"
-    excerpt: "Major UK chain stores Sports Direct and House of Fraser are facing criticism for their use of biometric facial recognition software. The technology is being used to monitor customers’ movements and behavior within the stores,"
-    publishedDateTime: 2023-05-01T04:01:00Z
-    webUrl: "https://www.digitalcameraworld.com/news/big-brother-is-tracking-you-lawmakers-condemn-facial-recognition-cameras-in-stores"
-    type: article
-    provider:
-      name: digitalcameraworld
-      domain: digitalcameraworld.com
-    quality: 33
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/GAwMn7Siq7enS4TXjtDCqg-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Crown comes to Parliament in pre-coronation Charles visit"
     excerpt: "Before the glory of his coronation weekend, King Charles III visited Parliament Tuesday, to get a reminder that the monarch’s power has limits. Charles and Camilla, the queen consort, attended a reception for lawmakers,"
     publishedDateTime: 2023-05-02T17:35:00Z
@@ -101,6 +87,6 @@ related:
       domain: inews.co.uk
     quality: 8
 
-secured: "q4lE02NaDvdYVWzn2EvGOznyZRCHFSVVzwJUxAAihMtBtT4UXxEf6bvYompkOZDSTfIF6NH5+v9QQxeqYd2hyPhtqD6SLGcC//U05cMuyItgxTEGDoD4p4sRdog4abL4XBUro44UqH90yNYoQbI14ZfI7se5NNaVTd1pwQWOKzmXb6vsNEX672BCtpQiqgibMYoP2GIQhrqp2gfme/1SH2cFFJaP2NRz8gVo3iXFJvnpKLyLf5Fd+p0yU4a/IPpwyOHZDh7C7Xv5fCc4lV3gi8x3CN1QNoI8He8wjzaLdWgACKHm5NeDoxF97j9/dxgRM5Ue0orIweKNfHgMjDEmXGTo4COA22pRqg0nqRRb1b4=;YJvZ4GzRYrxx7jI+Y/Ikhw=="
+secured: "4YLITbFz1MqAB2LtYBL1kl6FXvCKKW+1aLT4UpHMMP4GEfiGWaI8Jf11sqJLkg6GXnkhAWIyD+3A0FudvlIfjAdqHfCfGCwUv08363DPheJgKGV3hAwOVPkT65quU/o7Ydwk1Y//mzQuwwUuCoWH/PvfX6tjfKhwuVE9EPFJCIibyUPnmj2x+TmHQacwwXbW3kjIgNNy6g8AnB4IyT0+8e+ktMHLoBsBYkBUgb/smOvV70dBGMgXDwULRriX6DIzz/WiK63q4OHPkpvpp9SgSPDjhhoFJ24Xp7zyydl4LOOx6LqJyGMPhBkurehnJlhatXbQJ6IW34uH0IdQf/XoScEe2WQ3n9C6GOhcMmdJlCle5iNyArlnhEvPh9lSsMiruSmI8LRjxeOChc00B5y385wZGM6YchT//DAZfeDN6nDJuo6LVbCqeSj6Qh473KkOaCgU6QPXNOCGnGr+7zKha2FRO77oTWEA9uXmuOlYoEvhNV9C34Txww2cHh6dpyl8d3jL34CGSP6yBq0oHkszCg==;glD5UD8JXVMnWprsmKWmEw=="
 ---
 

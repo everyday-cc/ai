@@ -2,6 +2,108 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-05-03-can-an-auditor-be-replaced-by-ai.md",
+      "title": "Can An Auditor Be Replaced By AI?",
+      "excerpt": "More people are growing concerned that AI could put at risk the careers of auditors, but how much truth is behind this fear?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/03/can-an-auditor-be-replaced-by-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/03/can-an-auditor-be-replaced-by-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64510e0d5d052fdb024e9ff2/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/03/can-an-auditor-be-replaced-by-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/03/can-an-auditor-be-replaced-by-ai/amp/",
+      "publishedDateTime": "2023-05-03T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-03-where-is-india-in-the-generative-ai-race.md",
+      "title": "Where is India in the generative AI race?",
+      "excerpt": "In the high-stakes race for supremacy in the field of generative AI, India's bustling startup ecosystem is facing an uphill battle.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/05/03/where-is-india-in-the-generative-ai-race/",
+      "originalUrl": "https://techcrunch.com/2023/05/03/where-is-india-in-the-generative-ai-race/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1483825958.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/05/03/where-is-india-in-the-generative-ai-race/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/03/where-is-india-in-the-generative-ai-race/amp/",
+      "publishedDateTime": "2023-05-03T02:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-03-skilling-up-the-security-team-for-the-ai-dominated-era.md",
       "title": "Skilling up the security team for the AI-dominated era",
       "excerpt": "Defending against AI-enabled attackers and hardening enterprise AI systems will require new security skills. Threat hunters, data scientists, developers and prompt engineers are part of the answer.",
@@ -105,7 +207,7 @@
       "originalUrl": "https://www.forbes.com/sites/barrycollins/2023/05/03/midjourney-51-arrivesand-its-another-leap-forward-for-ai-art/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1063,7 +1165,7 @@
       "originalUrl": "https://www.cnn.com/videos/world/2023/05/02/exp-ai-dangers-anna-stewart-reports-fst-050210aseg1-cnni-world.cnn",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -1155,102 +1257,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-sap-to-embed-ibm-watson-ai-into-sap-solutions.md",
-      "title": "SAP to Embed IBM Watson AI into SAP Solutions",
-      "excerpt": "SAP will use IBM Watson capabilities to power its digital assistant in SAP Start, which provides a unified entry point for cloud solutions from SAP. With SAP Start, users can search for, launch and interactively engage with apps provided in cloud solutions from SAP and SAP S/4HANA Cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/this-just-in/sap-to-embed-ibm-watson-ai-into-sap-solutions/",
-      "originalUrl": "https://www.datanami.com/this-just-in/sap-to-embed-ibm-watson-ai-into-sap-solutions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.datanami.com/wp-content/uploads/2023/02/AI-North-America23.png",
-          "width": 1664,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-02T08:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-bring-your-own-ml-model-into-amazon-sagemaker-canvas-and-generate-accurate-predictions.md",
-      "title": "Bring your own ML model into Amazon SageMaker Canvas and generate accurate predictions",
-      "excerpt": "Machine learning (ML) helps organizations generate revenue, reduce costs, mitigate risk, drive efficiencies, and improve quality by optimizing core business functions across multiple business units such as marketing, manufacturing, operations, sales, finance, and customer service. With AWS ML, organizations",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/bring-your-own-ml-model-into-amazon-sagemaker-canvas-and-generate-accurate-predictions/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/bring-your-own-ml-model-into-amazon-sagemaker-canvas-and-generate-accurate-predictions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/02/byo-models-sagemaker-predictions.jpg",
-          "width": 960,
-          "height": 479,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-02T08:50:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

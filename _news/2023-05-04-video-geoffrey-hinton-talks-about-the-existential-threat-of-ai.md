@@ -1,21 +1,22 @@
 ---
 category: news
-title: "AI ‘godfather’ Geoffrey Hinton quits Google to spread awareness against ‘dangers’ of artificial intelligence"
-excerpt: "Dr Hinton’s pioneering research on neural networks and deep learning has paved the way for current AI systems like ChatGPT AI ‘godfather’ Geoffrey Hinton quits Google to spread awareness against ‘dangers’ of artificial intelligence AI,"
-publishedDateTime: 2023-05-03T07:52:00Z
-originalUrl: "https://www.arabianbusiness.com/industries/technology/ai-godfather-geoffrey-hinton-quits-google-to-spread-awareness-against-dangers-of-artificial-intelligence"
-webUrl: "https://www.arabianbusiness.com/industries/technology/ai-godfather-geoffrey-hinton-quits-google-to-spread-awareness-against-dangers-of-artificial-intelligence"
+title: "Video: Geoffrey Hinton talks about the “existential threat” of AI"
+excerpt: "Watch Hinton speak with Will Douglas Heaven, MIT Technology Review’s senior editor for AI, at EmTech Digital."
+publishedDateTime: 2023-05-03T20:15:00Z
+originalUrl: "https://www.technologyreview.com/2023/05/03/1072589/video-geoffrey-hinton-google-ai-risk-ethics/"
+webUrl: "https://www.technologyreview.com/2023/05/03/1072589/video-geoffrey-hinton-google-ai-risk-ethics/"
+ampWebUrl: "https://www.technologyreview.com/2023/05/03/1072589/video-geoffrey-hinton-google-ai-risk-ethics/amp/"
+cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/05/03/1072589/video-geoffrey-hinton-google-ai-risk-ethics/amp/"
 type: article
-quality: 15
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Arabian Business
-  domain: arabianbusiness.com
+  name: MIT Technology Review
+  domain: technologyreview.com
 
 topics:
-  - Machine Learning
   - AI
 
 related:
@@ -109,17 +110,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Video: Geoffrey Hinton talks about the “existential threat” of AI"
-    excerpt: "Watch Hinton speak with Will Douglas Heaven, MIT Technology Review’s senior editor for AI, at EmTech Digital."
-    publishedDateTime: 2023-05-03T20:15:00Z
-    webUrl: "https://www.technologyreview.com/2023/05/03/1072589/video-geoffrey-hinton-google-ai-risk-ethics/"
-    ampWebUrl: "https://www.technologyreview.com/2023/05/03/1072589/video-geoffrey-hinton-google-ai-risk-ethics/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/05/03/1072589/video-geoffrey-hinton-google-ai-risk-ethics/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 37
   - title: "AI pioneer Geoffrey Hinton warns about growing risks as he quits Google"
     excerpt: "His departure from Google comes at a time of turmoil for the company, which recently merged its DeepMind and Google Brain AI research units as it tries to make up lost ground in generative AI against Microsoft and OpenAI. Jeff Dean, chief scientist at ..."
     publishedDateTime: 2023-05-02T11:21:00Z
@@ -147,7 +137,16 @@ related:
       name: MIT Technology Review
       domain: technologyreview.com
     quality: 19
+  - title: "AI ‘godfather’ Geoffrey Hinton quits Google to spread awareness against ‘dangers’ of artificial intelligence"
+    excerpt: "Dr Hinton’s pioneering research on neural networks and deep learning has paved the way for current AI systems like ChatGPT AI ‘godfather’ Geoffrey Hinton quits Google to spread awareness against ‘dangers’ of artificial intelligence AI,"
+    publishedDateTime: 2023-05-03T07:52:00Z
+    webUrl: "https://www.arabianbusiness.com/industries/technology/ai-godfather-geoffrey-hinton-quits-google-to-spread-awareness-against-dangers-of-artificial-intelligence"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 15
 
-secured: "vjqaPKZMhbNQDQF0ze+B5ixEynpROtuLjqJkFW7yZWVzxttVelv8SlEHCPPif3BIQRTI+WJCHDGX8q7pYXe2wm9NA4I8qBzKXaJbmuXMBhqWqNMHKynl1tk1xj8fVAzFw/AGGuzxkSh4Vknc960+5wHucBcNqV/sYyZTle1pVOBKXMNk8N8kF0akpa+WkmVK6NS/9Wpc5d96cLptZonkGSfn+71jcX/FQF70xbh0OL2GQXQMRwkoeFwoWSk/Jh3/3TIKql2fgzpM2clB2ZWdXt1ivhyPMRGg6JsG5pUmblSibnPgVHWNh3m0VBcb0H0VFTqa43UhNnL6TXit3yLBew3bvmksmrM22JkDhJyooXA6uJZ76oAtwN6GVZ1QLYkCOv7shpCdT0UQ1t/jvjwVpWqYGCB2gAwfEKdpA1/uAk8eZhPtcB6Uh+4WF7VeERFKb0NhCfTxjr63H72GU0aw7KiGJnPvxohZupYjUNEndgzA9Jm2cjOWjz8twKjP93/ZB6Lv69Er2T/ZL782e9CLwg==;PxxTLYzgMW2zN1AyWc6jDA=="
+secured: "g4GSw5FzQ1IiOCn95x8A2X9H+NuC5v/pfHSe/2PcraTpsWnSr0cnOCvH/SA7j8avi+wonnh0z/vRSeilVZAmFVmE4TaQrwDIv00LhdZ9D+HpZSSuU1y8GOAhNC3fsurQJxVUGdQTUYmeE/3FzdaKrWqAEwYpFIdtZ6m/eCJ31AhRPKr6DnojJ1W8qlZsH3GZzzLM+1EUo+vhtcy2LY4liRD6zd8TFiFP7YNQ6IChboW7lN7B1iOK8JmbNLjN2dhY2eUJf41jymnfPOwk7XwV3YY0QfoDlauM4Hnd2RrIlqAopabS9xZUzCVEbijSdmRVYTCMWjp+QIcISCb44+Hd3MuiKxu6sul03SCjTsI/uoTpNiWKBXVNbr8hg7Xv3k+J7+R6oXBM4b9PEq4CAU7OPSpS3kkJ0WADPn0Db8HCFYWj1TsmJ2P31HINY5Ru/ajMYh7rhfjOSmH/7mTcNTSWn0twJBsrljmSQVRQJ04yASK17e6vExQcnlzhLoH1EJJUTm+uL8hr7udn2DVl1Mbh3A==;kDXpXs9MI4HbHzSczJTiaQ=="
 ---
 

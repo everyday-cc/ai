@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/05/02/chatgpt-were-only-in-aol-phase-o
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/05/02/chatgpt-were-only-in-aol-phase-of-ai-ceo-says.html"
 type: article
 quality: 75
-heat: 88
+heat: 85
 published: true
 
 provider:

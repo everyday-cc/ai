@@ -36,6 +36,15 @@ related:
         width: 840
         height: 560
         isCached: true
+  - title: "Google DeepMind CEO Demis Hassabis says we may have AGI ‘in the next few years’"
+    excerpt: "The CEO of Google DeepMind says human-level AI could emerge before 2033 — an event that could radically alter how crypto trading bots and"
+    publishedDateTime: 2023-05-03T23:42:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/google-deepmind-ceo-demis-hassabis-says-we-may-have-agi-‘in-the-next-few-years-12424078"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 45
 
 secured: "dsuCp3BpRWT353zt/kBy62oA2KrntqSK4L2E7jco8N2x/6QA0Y7Za7w6lVuuh385wI/bHfvXwmbXmGOrcDy4VL7p6mVfhIaXt2Z+/tpooC+Iiut0SDYi9zVkYwZ8cM35JAva8kp+Lg/aFpRcIAtH+Z9361FRaMdPMe1SHOVxfIv3Z/s/urqnhQSSVY3HdNElnnWUbTLwV9/dgMIbG1PNZtc8y7gHBb5XmwcR1sT+OxJMJm43i1Ou3zi9JUZYtTsZsFzkFpoEvkh3gq7uMlkx0rzvLy0PDbCPRrF1y11QFFEJC2bMZYvtHTlPBdiyGeVy7IDdVktKFqzvFpAOB7ZK3a82H2QzVlryBKsD239jrjQlatBJFVgxBXDhrUbqi/88ZQOV4wQnp1mVv3REqDtqAKmhIPsiNjZ8jKWLyMRGQPtczXCNK0hSSZYQD0bcgCe7BOsWzmdLVXqRX74C+MkKBft0lDb1wX3pYSz+U6nymrqrvN9v03YrQiNFU3LdGBeyAzxsKstAnKRWq2BWwXhLGQ==;WRgYZkC52jJIf+HNdr1HpQ=="
 ---

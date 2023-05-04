@@ -9,7 +9,7 @@ ampWebUrl: "https://fortune.com/2023/05/03/google-deepmind-ceo-agi-artificial-in
 cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/05/03/google-deepmind-ceo-agi-artificial-intelligence/amp/"
 type: article
 quality: 72
-heat: 82
+heat: 93
 published: true
 
 provider:
@@ -31,6 +31,15 @@ images:
     isCached: true
 
 related:
+  - title: "Google DeepMind CEO Demis Hassabis says we may have AGI ‘in the next few years’"
+    excerpt: "The CEO of Google DeepMind says human-level AI could emerge before 2033 — an event that could radically alter how crypto trading bots and"
+    publishedDateTime: 2023-05-03T23:42:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/google-deepmind-ceo-demis-hassabis-says-we-may-have-agi-‘in-the-next-few-years-12424078"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 45
   - title: "AI could have ‘human-level’ intelligence in next few years, Google DeepMind CEO says"
     excerpt: "Google DeepMind CEO Demis Hassabis touted rapid gains in the development of so-called “artificial general intelligence,” which he defined as an advanced AI system with “human-level cognitive abilities.”"
     publishedDateTime: 2023-05-03T18:12:00Z

@@ -1,44 +1,34 @@
 ---
 category: news
-title: "New York City Finally Faces Down Facial Recognition"
-excerpt: "Gotham Gazette is an online publication covering New York policy and politics as well as news on public safety, transportation, education, finance and more."
-publishedDateTime: 2023-05-03T00:05:00Z
-originalUrl: "https://www.gothamgazette.com/130-opinion/11985-new-york-city-facial-recognition-legislation"
-webUrl: "https://www.gothamgazette.com/130-opinion/11985-new-york-city-facial-recognition-legislation"
+title: "These New Yorkers Want to Stop Landlords From Using Facial Recognition"
+excerpt: "At a raucous city council hearing, lawmakers and activists alike argued in favor of bills banning biometric tech in residential buildings and large venues."
+publishedDateTime: 2023-05-04T00:04:00Z
+originalUrl: "https://gizmodo.com/nyc-msg-facial-recognition-landlords-ban-law-hearing-1850401997"
+webUrl: "https://gizmodo.com/nyc-msg-facial-recognition-landlords-ban-law-hearing-1850401997"
 type: article
-quality: 39
-heat: -1
-published: false
+quality: 69
+heat: 119
+published: true
 
 provider:
-  name: Gotham Gazette
-  domain: gothamgazette.com
+  name: Gizmodo
+  domain: gizmodo.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.gothamgazette.com/images/graphics/7-faces-rec.jpg"
-    width: 799
-    height: 533
+  - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/532d2605600e5fb6b48f117eb031be29.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
-  - title: "These New Yorkers Want to Stop Landlords From Using Facial Recognition"
-    excerpt: "At a raucous city council hearing, lawmakers and activists alike argued in favor of bills banning biometric tech in residential buildings and large venues."
-    publishedDateTime: 2023-05-04T00:04:00Z
-    webUrl: "https://gizmodo.com/nyc-msg-facial-recognition-landlords-ban-law-hearing-1850401997"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 69
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/532d2605600e5fb6b48f117eb031be29.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "City council considers new regulations on surveillance cams, facial recognition"
     excerpt: "Councilor Burnett says the bills will create more transparency and accountability. The other bill deals with facial recognition technology being used by the Baltimore Police Department."
     publishedDateTime: 2023-05-02T21:18:00Z
@@ -54,6 +44,20 @@ related:
       - url: "https://x-default-stgec.uplynk.com/ausw/slices/1ce/22f3150cc15946e68b21f11967cfb8d1/1cedfcec12e14520a27f540bd3231a82/poster_f2fd92cca85a4c328dcdaf9accf7af3b.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "New York City Finally Faces Down Facial Recognition"
+    excerpt: "Gotham Gazette is an online publication covering New York policy and politics as well as news on public safety, transportation, education, finance and more."
+    publishedDateTime: 2023-05-03T00:05:00Z
+    webUrl: "https://www.gothamgazette.com/130-opinion/11985-new-york-city-facial-recognition-legislation"
+    type: article
+    provider:
+      name: Gotham Gazette
+      domain: gothamgazette.com
+    quality: 39
+    images:
+      - url: "https://www.gothamgazette.com/images/graphics/7-faces-rec.jpg"
+        width: 799
+        height: 533
         isCached: true
   - title: "US city ends facial recognition moratorium, considers new rules for police"
     excerpt: "City Council in Baltimore, Md. is moving to regulate the use of biometrics by city agencies, including police, after a change in local law enforcement control."
@@ -93,6 +97,6 @@ related:
       domain: gothamist.com
     quality: 16
 
-secured: "deYozUdQDHgkiIjiIIcw+wYrsgQf0pl+/xkTmy2x0zGv1pofNWnST+YTN4dGJggKhAjPycnmoO8wQXjHlNkZfEg5OjDID7phMYdBOpKCMd+w8w365BhSOFmtIk0/yT5QFxCDRYAVj1kx1qXlD69KEjS3uo1AjoMMSgBxGke1JeGsQzsGB0WXd4q5aMdH8JVHM8LJ52zzKtmRg6Y8GBUaWq3Sp6SqhFy1LCLKY6a1jibalzYDv1dd/jrzVYqsJCuJBuOcnlX1jUn+86VYW/ozKWNvq5tr+BJ6Sn9VUsl9iKVqxeGa+J4KTuK4JfBT6IBgkXLYHhuLDhsJqiLRHqatrmqFF2gFTUByCFdR+Ium+yIs81M1/6vHXJldDbYw7sEB82QuoKdyDulP0uZdpRe8yFKnwv0GHIB9hOmK82TQZxOMkZfXyvisGkFvYXuwwntPO3ExG/pxSs5hU9sbdqGMXVwK7f9TPqShyAuL2V6YK7QQnr1VRTEcJTec3waXtATF+MKDSDiGaTMYp1eaWSnytg==;k8gAtqPxii/Gyvg08RUqsA=="
+secured: "wsQaXWUIX5CJFkSgd3B93C1cLfVA2kq+NwKAia0li38vu6q+YSwfXZGcOF1htK8Yydl4LpTK+g0ln/FVHRUW6XMEA93ovzHxbxP8k4RCRK0/AWzpl8ZTMZYMhc6CaRMd8dV4EbOkJ5nEUFHcs0wK3ry1P0pK6lu5pU8dT5+7d6zCNJ2u67cOBtJGPgI7fxgJJ8tZtFqGwnQuv3JKdUgKBJbqRCE2kkvuBYG1ZPNcEnzVMIsLSHBlV8prBfavqaVxUH/GTBEwsi+dNwPM4A31ntfx5sNgeYxSYSPtVh62dywITxyioKJTSgUaORnwMc0JnpjG/omgZ67K/TlNK/esiBsNEH2+SESNXV7NPjr5RDY=;cuLMWNBUo+z5D8PbKzkjGQ=="
 ---
 

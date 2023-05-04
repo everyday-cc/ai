@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/charliefink/2023/05/03/is-ai-the-histor
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/05/03/is-ai-the-history-eraser-button/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 676
     isCached: true
 
-secured: "rft2I7c/mD9vEp7rzSJ/qdMYw3yxEEDOW4G9GDvD4SO/KPOGjb+c+JSnWETkoSWMFrwx+qCZveZKN4ueZcbVDqiYykwOU9uGiP/G/KFCGDHXpHrZ7VtW7AMwcmxeEKDWFRi4mgKTSDVZxgC5SFK+cLsAguG6mp4obFbe4QiYTCnKWg/Si7ZcpyGuWcGkM6ibgWbTqPzBO8nPaF9jLu/MXIfXaeGFONxIas6si2ldt3KjdqLEqoqKT9cLRGaDi+D7pvDl5o3yQlf+/p+xhwtqlzUoW3foQ7N8lrVpmc5J1VBxZLK5jh9sROdPdMX7lBCmvH8EaW30BsXXBVEWtV6ZTMmSq3R2PiwExkjqG1RwUs4=;glj4QoiIbcQ19OkTPhKYwg=="
+secured: "/glZ8FYZWeUdvDgWMXxcQ68d2A6mPNcTt7Fxp0XVWB69uRPU2gPKs3pTrluAQzYy04Ml3w2U13bGZCNK34S8ImeJkLqwn0kAM60NTpDK9gdNkiEr7CIPsEcBdFljCBo5i/+oOTw9rLq8lvku3izB/pPpcJaism2gH/Jt+H4rv2rnkpago53GD5Pzu2ylt76HWnwYTogVeJTyTlHgl+BEfMNDUyBBKvyLrCIpbapfvBQRq+oRthv3zb8tXEFcJFHmU6Yf5DQONzBzr1CzPvdXzrKHn4Evvvt0zow1OoY8V/U9522mv/jMbJ3tTisbNcsH++ZZBTHJAnxxTKW7zqRwBMd8WhGypL+tdGq9G8MODUIvaG0Zbp3OIdPVXpAq4MiaNbphMIpOGdocvQuVJn127Q8tuWWNTrf5LM40eU5z/lMAapiYrowA1wYOA6WiujkshIRcsGHa1s30KoGvayiQDufqZ2gaHJEPlOdxyeVi1SdE227wIHslkPANDHeaXn+GoDfpcIlVbhcyVzW3eepHrw==;1cYCLz2IdgHR5uU0Z9mO9w=="
 ---
 

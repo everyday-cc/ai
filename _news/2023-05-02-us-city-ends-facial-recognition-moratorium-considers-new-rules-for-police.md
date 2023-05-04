@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Legislation introduced to regulate facial recognition technology in Baltimore"
-    excerpt: "The councilman's proposed legislation would require any new surveillance technology proposed by police departments be subject to approval by the City Council and community input."
-    publishedDateTime: 2023-05-01T21:37:00Z
-    webUrl: "https://www.wmar2news.com/local/legislation-introduced-to-regulate-facial-recognition-technology-in-baltimore"
-    ampWebUrl: "https://www.wmar2news.com/local/legislation-introduced-to-regulate-facial-recognition-technology-in-baltimore?_amp=true"
-    cdnAmpWebUrl: "https://www-wmar2news-com.cdn.ampproject.org/c/s/www.wmar2news.com/local/legislation-introduced-to-regulate-facial-recognition-technology-in-baltimore?_amp=true"
+  - title: "These New Yorkers Want to Stop Landlords From Using Facial Recognition"
+    excerpt: "At a raucous city council hearing, lawmakers and activists alike argued in favor of bills banning biometric tech in residential buildings and large venues."
+    publishedDateTime: 2023-05-04T00:04:00Z
+    webUrl: "https://gizmodo.com/nyc-msg-facial-recognition-landlords-ban-law-hearing-1850401997"
     type: article
     provider:
-      name: wmar2news
-      domain: wmar2news.com
-    quality: 58
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 69
     images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/96db251/2147483647/strip/true/crop/640x360+0+60/resize/1280x720!/quality/90/?url=https%3A%2F%2Fmediaassets.abc2news.com%2Fphoto%2F2018%2F09%2F12%2F648987200-170667a_1536785599867_97280406_ver1.0_640_480.jpg"
-        width: 1280
-        height: 720
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/532d2605600e5fb6b48f117eb031be29.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "City council considers new regulations on surveillance cams, facial recognition"
     excerpt: "Councilor Burnett says the bills will create more transparency and accountability. The other bill deals with facial recognition technology being used by the Baltimore Police Department."
@@ -57,86 +55,43 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Questions raised over facial recognition use in Indian prisons"
-    excerpt: "Government agencies provide contradictory information on the introduction of facial recognition use in prisons amid rising scrutiny against the technology."
-    publishedDateTime: 2023-05-03T20:21:00Z
-    webUrl: "https://www.biometricupdate.com/202305/questions-raised-over-facial-recognition-use-in-indian-prisons"
+  - title: "New York City Finally Faces Down Facial Recognition"
+    excerpt: "Gotham Gazette is an online publication covering New York policy and politics as well as news on public safety, transportation, education, finance and more."
+    publishedDateTime: 2023-05-03T00:05:00Z
+    webUrl: "https://www.gothamgazette.com/130-opinion/11985-new-york-city-facial-recognition-legislation"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 54
+      name: Gotham Gazette
+      domain: gothamgazette.com
+    quality: 39
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/14130825/prison_bars.jpg"
+      - url: "https://www.gothamgazette.com/images/graphics/7-faces-rec.jpg"
+        width: 799
+        height: 533
+        isCached: true
+  - title: "Big brother is tracking you: lawmakers condemn facial recognition cameras in stores"
+    excerpt: "Major UK chain stores Sports Direct and House of Fraser are facing criticism for their use of biometric facial recognition software. The technology is being used to monitor customers’ movements and behavior within the stores,"
+    publishedDateTime: 2023-05-01T04:01:00Z
+    webUrl: "https://www.digitalcameraworld.com/news/big-brother-is-tracking-you-lawmakers-condemn-facial-recognition-cameras-in-stores"
+    type: article
+    provider:
+      name: digitalcameraworld
+      domain: digitalcameraworld.com
+    quality: 33
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/GAwMn7Siq7enS4TXjtDCqg-1200-80.jpg"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "Plan to use facial recognition at JR East stations to spot ex-cons iced"
-    excerpt: "East Japan Railway Co. has suspended a program to use facial recognition to track ex-convicts who turn up at its stations. A company official said Sept. 21 the decision was made “because a ..."
-    publishedDateTime: 2023-05-02T00:00:00Z
-    webUrl: "https://www.asahi.com/ajw/articles/14445523"
+  - title: "After MSG debacle, NYC considers facial recognition ban for businesses, landlords"
+    excerpt: "City Councilmembers will also grill agency officials on their use of biometric surveillance at a Wednesday hearing."
+    publishedDateTime: 2023-05-03T14:00:00Z
+    webUrl: "https://gothamist.com/news/nyc-council-facial-recognition-biometric-ban-businesses-landlords"
     type: article
     provider:
-      name: 朝日新聞社
-      domain: asahi.com
-    quality: 39
-    images:
-      - url: "https://p.potaufeu.asahi.com/9a8b-p/picture/26381371/21aee2bafd45bc707daecdd7c7f36c8a.jpg"
-        width: 660
-        height: 381
-        isCached: true
-  - title: "Baltimore Considers Facial Recognition Restrictions"
-    excerpt: "Proposed legislation would require the police department to get approval before acquiring any new surveillance technology and would establish an oversight board to monitor the city’s use."
-    publishedDateTime: 2023-05-02T21:08:00Z
-    webUrl: "https://www.governing.com/security/baltimore-considers-facial-recognition-restrictions"
-    ampWebUrl: "https://www.governing.com/security/baltimore-considers-facial-recognition-restrictions?_amp=true"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/baltimore-considers-facial-recognition-restrictions?_amp=true"
-    type: article
-    provider:
-      name: Governing
-      domain: governing.com
-    quality: 39
-  - title: "Baltimore Bill Would Curb Private, Police Use of Face Scan Tech"
-    excerpt: "Baltimore businesses and city government would face new limits on how they use facial-recognition technology under a City Council bill introduced Monday."
-    publishedDateTime: 2023-05-02T22:32:00Z
-    webUrl: "https://news.bloomberglaw.com/privacy-and-data-security/baltimore-bill-would-curb-private-police-use-of-face-scan-tech"
-    type: article
-    provider:
-      name: news.bloomberglaw
-      domain: bloomberglaw.com
-    quality: 24
-    images:
-      - url: "https://db0ip7zd23b50.cloudfront.net/dims4/default/2240526/2147483647/brightness/0x18/crop/7951x3055%2B0%2B144/resize/1919x740%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F0b%2Ff2%2F9c2c68574a8ea1cb52638af4e445%2Ffacial.jpg"
-        width: 1919
-        height: 737
-        isCached: true
-  - title: "Baltimore Considers Restricting Facial Recognition Tech"
-    excerpt: "Baltimore’s use of surveillance and facial recognition technology would face new restrictions under legislation introduced by a city councilman this week."
-    publishedDateTime: 2023-05-02T13:51:00Z
-    webUrl: "https://www.govtech.com/public-safety/baltimore-considers-restricting-facial-recognition-tech"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 19
-  - title: "City councilman introduces bills to limit facial recognition tech"
-    excerpt: "WBAL NewsRadio 1090/FM 101.5 - New legislation could limit the use of facial recognition technology in Baltimore City."
-    publishedDateTime: 2023-05-02T12:46:00Z
-    webUrl: "https://www.wbal.com/article/609687/3/city-councilman-introduces-bills-to-limit-facial-recognition-tech"
-    type: article
-    provider:
-      name: WBAL
-      domain: wbal.com
-    quality: 19
-  - title: "Met Police considering using facial recognition technology for King's coronation"
-    excerpt: "The Metropolitan Police are considering deploying facial recognition technology to target those who may jeopardise the safety of the King's coronation. As the weekend looms, a Met briefing on security concerns took place on Wednesday after a man with a knife was arrested for throwing items,"
-    publishedDateTime: 2023-05-03T11:29:00Z
-    webUrl: "https://www.itv.com/news/2023-05-03/met-considering-using-facial-recognition-technology-for-kings-coronation"
-    type: article
-    provider:
-      name: ITV
-      domain: itv.com
-    quality: 14
+      name: Gothamist
+      domain: gothamist.com
+    quality: 16
 
 secured: "LxTXGsi7zMN+wsPyf43VAqZOHJTpUsKGCMl5Z05tq1AqzWHubqTEQo0qutBsi+h5nw7BtQ0VbjQO84zNcwn3xpT/Di85caHSEjqaz4roU/m5ahaN/R/c4Oh+cPBRVmC1uIlogZVNhJwq9QupKGuuEX+gmKBaVAPDfCVuPJPVjPPWf2II2mEJ0o3VIIIWyox6MUB7S89VJfmbqb9GCKHykrQCpzDevZXtAHk5xRq1J10zh4Av4C5RxizQ40T4b8AyZb9sO+IS4tcxee8eXNR3fcQ3SLL6yfMKowvBdg9jhfBWs1ukmmctimYzykxoMB6/Z4L8Jr9ceqgQz0Xs1IBLLYQWF1Mg+tTuggCzYCVCyTHzDSVBqPbh6F2/lTnuZcq0aUBOgXlCs2PZ9+/IJ1VMq8GjbHNvVUW5K2vDWwBgLdzLkk46bk1rPJD/LnLGBer8m7wigV+powPK0GktQe0hItIGA2bEHaa6kYmlH2Wncl3E7ATH99VWWG3GfGL9zbIJT34GaO/pXa3kg69yo9UCwQ==;QhDar4dc2tbCsn4n6w/Fsg=="
 ---

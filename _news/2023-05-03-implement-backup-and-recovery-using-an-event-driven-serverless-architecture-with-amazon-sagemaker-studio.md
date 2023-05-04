@@ -71,20 +71,6 @@ related:
         width: 975
         height: 556
         isCached: true
-  - title: "This AI Startup is Building Better Tools Than AWS Sagemaker and Google AutoML"
-    excerpt: "Nirman Dave, CEO at Obviously AI claimed that their models are better than those of AWS Sagemaker or Google AutoML."
-    publishedDateTime: 2023-04-29T08:30:00Z
-    webUrl: "https://analyticsindiamag.com/this-ai-startup-is-building-better-tools-than-aws-sagemaker-and-google-automl/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 83
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/04/Obviously-AI-1.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Question answering using Retrieval Augmented Generation with foundation models in Amazon SageMaker JumpStart"
     excerpt: "Today, we announce the availability of sample notebooks that demonstrate question answering tasks using a Retrieval Augmented Generation (RAG)-based approach with large language models (LLMs) in Amazon SageMaker JumpStart. Text generation using RAG with LLMs enables you to generate domain-specific text"
     publishedDateTime: 2023-05-02T15:44:03Z

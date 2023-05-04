@@ -92,19 +92,30 @@ related:
         height: 1280
         isCached: true
   - title: "4 dangers that most worry AI pioneer Geoffrey Hinton"
-    excerpt: "File - Computer scientist Geoffrey Hinton poses at Google's Mountain View, Calif, headquarters on Wednesday, March 25, 2015. Computer scientists who helped build the foundations o"
-    publishedDateTime: 2023-05-03T21:53:00Z
-    webUrl: "https://www.houstonchronicle.com/business/article/4-dangers-that-most-worry-ai-pioneer-geoffrey-18076292.php"
+    excerpt: "Geoffrey Hinton, a computer scientist known as the \"godfather of artificial intelligence,\" recently resigned his high-profile job at Google. Here's a look at his biggest concerns about the future of AI"
+    publishedDateTime: 2023-05-04T00:30:00Z
+    webUrl: "https://omaha.com/business/technology/4-dangers-that-most-worry-ai-pioneer-geoffrey-hinton/article_93a31fb7-1da7-558f-9fee-721c195269b4.html"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
+      name: Omaha.com
+      domain: omaha.com
     quality: 37
     images:
-      - url: "https://s.hdnux.com/photos/01/32/56/21/23782509/6/rawImage.jpg"
-        width: 2048
-        height: 1250
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/9/3a/93a31fb7-1da7-558f-9fee-721c195269b4/6452be8b093f4.preview.jpg?crop=1842%2C967%2C0%2C78&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "Video: Geoffrey Hinton talks about the “existential threat” of AI"
+    excerpt: "Watch Hinton speak with Will Douglas Heaven, MIT Technology Review’s senior editor for AI, at EmTech Digital."
+    publishedDateTime: 2023-05-03T20:15:00Z
+    webUrl: "https://www.technologyreview.com/2023/05/03/1072589/video-geoffrey-hinton-google-ai-risk-ethics/"
+    ampWebUrl: "https://www.technologyreview.com/2023/05/03/1072589/video-geoffrey-hinton-google-ai-risk-ethics/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/05/03/1072589/video-geoffrey-hinton-google-ai-risk-ethics/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 37
   - title: "AI pioneer Geoffrey Hinton warns about growing risks as he quits Google"
     excerpt: "His departure from Google comes at a time of turmoil for the company, which recently merged its DeepMind and Google Brain AI research units as it tries to make up lost ground in generative AI against Microsoft and OpenAI. Jeff Dean, chief scientist at ..."
     publishedDateTime: 2023-05-02T11:21:00Z

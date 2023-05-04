@@ -2,6 +2,103 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-04-27-machine-learning-in-retail-market-size-business-segments-innovative-strategies-and-outlook-by-2030-ibm-microsoft-amazon-web-services.md",
+      "title": "Machine Learning in Retail Market Size, Business Segments, Innovative Strategies And Outlook by 2030| IBM, Microsoft, Amazon Web Services",
+      "excerpt": "The Machine Learning in Retail Market research report encompasses a thorough study of the current situation of the",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-in-retail-market-size-business-segments-innovative-strategies-and-outlook-by-2030-ibm-microsoft-amazon-web-services-2023-04-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-in-retail-market-size-business-segments-innovative-strategies-and-outlook-by-2030-ibm-microsoft-amazon-web-services-2023-04-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-27T00:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-27-us-senator-open-letter-calls-for-ai-security-at-forefront-of-development.md",
+      "title": "US senator open letter calls for AI security at ‘forefront’ of development",
+      "excerpt": "U.S. Sen. Mark Warner issues an open letter calling for companies to put AI security at the forefront of development.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/security/us-senator-open-letter-calls-for-ai-security-at-forefront-of-development/",
+      "originalUrl": "https://venturebeat.com/security/us-senator-open-letter-calls-for-ai-security-at-forefront-of-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/04/VB_senate-office_1200x800_washington-dc-usa-april-29-2019-interior-of-russel_17427039_285.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/security/us-senator-open-letter-calls-for-ai-security-at-forefront-of-development/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/us-senator-open-letter-calls-for-ai-security-at-forefront-of-development/amp/",
+      "publishedDateTime": "2023-04-26T23:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-04-27-heres-what-first-wave-of-ai-rules-from-congress-could-look-like.md",
       "title": "Here's what first wave of AI rules from Congress could look like",
       "excerpt": "A likely candidate for early congressional action to regulate AI is a bill passed in committee last year, which would put up guardrails against discriminatory outcomes in AI.",
@@ -1133,109 +1230,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-26-tiktok-is-testing-an-in-app-tool-that-creates-generative-ai-avatars.md",
-      "title": "TikTok is testing an in-app tool that creates generative AI avatars",
-      "excerpt": "TikTok is experimenting with a new tool that allows users to create generative AI avatars, the company confirmed to TechCrunch",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/04/26/tiktok-is-testing-an-in-app-tool-that-creates-generative-ai-avatars/",
-      "originalUrl": "https://techcrunch.com/2023/04/26/tiktok-is-testing-an-in-app-tool-that-creates-generative-ai-avatars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1248373545.jpg?resize=1200,788",
-          "width": 1200,
-          "height": 788,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/04/26/tiktok-is-testing-an-in-app-tool-that-creates-generative-ai-avatars/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/04/26/tiktok-is-testing-an-in-app-tool-that-creates-generative-ai-avatars/amp/",
-      "publishedDateTime": "2023-04-26T09:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-26-global-artificial-intelligence-ai-chips-market-set-to-boom-in-the-near-future-2023-2030.md",
-      "title": "Global \"Artificial Intelligence (AI) Chips Market\" Set to Boom in the Near Future 2023-2030",
-      "excerpt": "Chips Market\" information for each competitor includes (Qualcomm, Mythic, Adapteva, Advanced Micro Devices (AMD), Google Inc., NVIDIA, Intel Corporation, UC-Davis, Graphcore, Baidu) Company Profile, Main Business Information,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chips-market-set-to-boom-in-the-near-future-2023-2030-2023-04-26",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chips-market-set-to-boom-in-the-near-future-2023-2030-2023-04-26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-26T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

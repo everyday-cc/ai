@@ -41,22 +41,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "City council considers new regulations on surveillance cams, facial recognition"
-    excerpt: "Councilor Burnett says the bills will create more transparency and accountability. The other bill deals with facial recognition technology being used by the Baltimore Police Department."
-    publishedDateTime: 2023-05-02T21:18:00Z
-    webUrl: "https://www.wmar2news.com/local/city-council-considers-new-regulations-on-surveillance-cams-facial-recognition"
-    ampWebUrl: "https://www.wmar2news.com/local/city-council-considers-new-regulations-on-surveillance-cams-facial-recognition?_amp=true"
-    cdnAmpWebUrl: "https://www-wmar2news-com.cdn.ampproject.org/c/s/www.wmar2news.com/local/city-council-considers-new-regulations-on-surveillance-cams-facial-recognition?_amp=true"
-    type: article
-    provider:
-      name: wmar2news
-      domain: wmar2news.com
-    quality: 55
-    images:
-      - url: "https://x-default-stgec.uplynk.com/ausw/slices/1ce/22f3150cc15946e68b21f11967cfb8d1/1cedfcec12e14520a27f540bd3231a82/poster_f2fd92cca85a4c328dcdaf9accf7af3b.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Questions raised over facial recognition use in Indian prisons"
     excerpt: "Government agencies provide contradictory information on the introduction of facial recognition use in prisons amid rising scrutiny against the technology."
     publishedDateTime: 2023-05-03T20:21:00Z
@@ -96,20 +80,6 @@ related:
       name: Governing
       domain: governing.com
     quality: 39
-  - title: "US city ends facial recognition moratorium, considers new rules for police"
-    excerpt: "City Council in Baltimore, Md. is moving to regulate the use of biometrics by city agencies, including police, after a change in local law enforcement control."
-    publishedDateTime: 2023-05-02T16:20:00Z
-    webUrl: "https://www.biometricupdate.com/202305/us-city-ends-facial-recognition-moratorium-considers-new-rules-for-police"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 37
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/10/21112034/police-body-camera.jpg"
-        width: 937
-        height: 482
-        isCached: true
   - title: "Baltimore Considers Restricting Facial Recognition Tech"
     excerpt: "Baltimore’s use of surveillance and facial recognition technology would face new restrictions under legislation introduced by a city councilman this week."
     publishedDateTime: 2023-05-02T13:51:00Z

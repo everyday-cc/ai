@@ -6,8 +6,8 @@ publishedDateTime: 2023-05-03T20:37:00Z
 originalUrl: "https://www.cnbc.com/2023/05/03/this-under-the-radar-server-tech-stock-will-rally-on-this-ai-moment-loop-capital-says.html"
 webUrl: "https://www.cnbc.com/2023/05/03/this-under-the-radar-server-tech-stock-will-rally-on-this-ai-moment-loop-capital-says.html"
 type: article
-quality: 60
-heat: 60
+quality: 62
+heat: 62
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://image.cnbcfm.com/api/v1/image/105487784-1538655211966gettyimages-495427987.jpeg?v=1683153477&w=1920&h=1080"
@@ -28,6 +29,6 @@ images:
     height: 1080
     isCached: true
 
-secured: "koSq66XJCyE0IcxNRBYhT4g20E03XzqCwjynKjigoibBneuOws1uqhNLmapAQPTFKLNDtHcBXRTPAUN7JuZt55D9Qf3ncuYILIWduDvDhNjEgBLpCoBJAIQoFIJNdlyN9Rfu1wAdpyFGHFYbbl6mGeuMBM/dqFiHmHaTXK4lkAr3ZOO1Xu1ifjpDMseBG31fk4VPU0g+LkFMYd8+BnBeorvc+mtMT7IcOS0ffvAdvS7OjOjOC6036OTXPu1tjP8I3yamRxvU7sXvg/iB4KfAcn9w3DHpxGcX8tCk9hajXsJ9lktA6kGMkkkymXx2Y6PI8rFdvsRic5XDfMjAyBJaAFHCM+uTk7ySIyytlvmggvU=;3Cqxay+KZaZ6zS9SSxnnSQ=="
+secured: "XOYiV6nwxVsr1YCs6zKxeXorCVwb/ktUx7RvKB+jx1d3/TmgwuEQ9p3PUW97l2HEC6PIq2dQ8L7pEPPSwU1fvS2xB+tQ0lQbRUxT3WO51cHomc0AIQD5WoXlsm2Lw3eLU2a6SZXfBhkeOP2zB2TJlhzt4OzM3K2tcjNjAAlkczQaXlyn1oOxeYQ5Dz3uYb0hbnCpnmfpQvgneP7uw+5c6U41B7nO65Pm2IxrZk1JzmNVIymbRSQM8MgG70IZtmnoZYlT8AURTgQfKRSPUXCe2iUhFB5HCYsrZdjYm1Mb4Gsi+hrt4qflxm7XEDHr/cvbC8rBITCVRoOfe99dsouemG33fRtbJWdIXAtuBxqhVETPb0zJONC0aD4oeEXfKf06dBa98QQthDQyz5Drlc1dpWV+87R5WAUlN4VTMlFwBrA0ulIlPSc7xNAPvhIvy6NmGV4FU+svkIGG78n7qdaeOP2s/848DDJTtptBbKkDM+f/oK7F1SmHM1EpCWAoy/tXgt0Nid9QF/cffTJ5iXi7+g==;25ZpUVHI649VJxCQAoBNFA=="
 ---
 

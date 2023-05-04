@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/world/2023/05/02/exp-ai-dangers-anna-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/world/2023/05/02/exp-ai-dangers-anna-stewart-reports-fst-050210aseg1-cnni-world.cnn"
 type: article
 quality: 87
-heat: 139
+heat: 137
 published: true
 
 provider:
