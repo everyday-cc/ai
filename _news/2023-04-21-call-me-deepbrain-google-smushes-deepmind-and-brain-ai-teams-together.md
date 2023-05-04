@@ -18,6 +18,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - AI Ethics
 
 images:
   - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/f77701d51f83ddbec03a5cd3e1b81cd9.jpg"

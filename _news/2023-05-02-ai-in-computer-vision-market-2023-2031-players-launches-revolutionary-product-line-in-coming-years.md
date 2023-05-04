@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-ma
 webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2023-2031-players-launches-revolutionary-product-line-in-coming-years-2023-05-02"
 type: article
 quality: 69
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -61,15 +61,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 35
-  - title: "UK competition watchdog launches review of AI market"
-    excerpt: "The UK competition watchdog is launching a review of the artificial intelligence market, including the models behind popular chatbots such as ChatGPT, as the industry comes increasingly into global regulators’ crosshairs."
-    publishedDateTime: 2023-05-03T20:00:00Z
-    webUrl: "https://www.ft.com/content/76f12980-657e-405c-b510-9ee8bbfb81b7"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
 
 secured: "t05866ePBdlZ5fy2AbB4AYiiqoCtY+jFQKn8ZS3MAX+7wEimRy8pI+W3cT0B/4bgmfWhnhdjGuS8OFDq5yn4JnznLTqquij/eDNC8dkEM1JzyDFbprhvKaKexfWcJ9BghqGjKN1kwxYEId2l9ZSfch48Q1TX3JzOXtNZH+5NVsto+O6V3qOgku82WI+iX3Ykwdxcs4s3VsuijVJhVVhFduPz3bKD4piOBtU6MtsZAI+1LG/XgU2sJWDy7Dl053ao7+LULIPPtBZZ9Hr42sgPgUyEceuUyZ53224ilsnKQLS8xsg0poYyDy3M/9jFGReWnNmi3a3BExL6NFqwCZq1Qm38Z2qAaWeSKcsaoVtPMNc=;YumiKSBdJGm1rCap2lL+RA=="
 ---

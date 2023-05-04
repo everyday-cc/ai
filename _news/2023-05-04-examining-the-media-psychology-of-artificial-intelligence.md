@@ -9,7 +9,7 @@ ampWebUrl: "https://www.psychologytoday.com/za/blog/the-media-psychology-effect/
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-media-psychology-effect/202305/examining-the-media-psychology-of-artificial-intelligence?amp"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -36,15 +36,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 58
-  - title: "In-memory computing. A chip off the AI block"
-    excerpt: "So, he embarked on designing a memory chip that can offer an “alternative computational paradigm” with higher performance and energy efficiency. Among the various in-memory computing hardware, the one that Chakrabarti found particularly interesting was ..."
-    publishedDateTime: 2023-04-29T19:43:00Z
-    webUrl: "https://www.thehindubusinessline.com/business-tech/a-chip-off-the-ai-block/article66794700.ece"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 34
   - title: "The coming AI chip shortage"
     excerpt: "Artificial intelligence requires semiconductors with powerful graphics processing units — chips that very few companies are able to make."
     publishedDateTime: 2023-05-01T09:59:00Z

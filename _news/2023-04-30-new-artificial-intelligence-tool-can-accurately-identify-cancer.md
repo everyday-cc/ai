@@ -42,9 +42,9 @@ related:
       domain: zdnet.com
     quality: 49
   - title: "New Artificial Intelligence Tool Can Diagnose Colon Cancer"
-    excerpt: "Detailed price information for Bausch Health Companies Inc (BHC-T) from The Globe and Mail including charting and trades."
-    publishedDateTime: 2023-05-03T15:28:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/BHC-T/pressreleases/16543041/new-artificial-intelligence-tool-can-diagnose-colon-cancer/"
+    excerpt: "Veracyte (NASDAQ:VCYT) and Bausch Health Companies (TSX:BHC) (NYSE:BHC) are other companies offering tests for the detection of colorectal cancer. Mainz Biomed (NASDAQ:MYNZ) creates commercially viable molecular genetic diagnostic solutions for critical illnesses."
+    publishedDateTime: 2023-05-03T13:38:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/VCYT-Q/pressreleases/16543041/new-artificial-intelligence-tool-can-diagnose-colon-cancer/"
     type: article
     provider:
       name: The Globe and Mail

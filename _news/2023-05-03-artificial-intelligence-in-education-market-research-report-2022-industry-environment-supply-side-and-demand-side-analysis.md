@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning Software Market Analysis: Current Market Size, Growth Projection, and CAGR of 6% from 2023 - 2030"
-    excerpt: "This report on \" Deep Learning Software market \" contains the data required to conduct a SWOT, PEST, and STEER analysis. It gives a better knowledge of market dynamics and industry competition. The Deep Learning Software market is expected to grow annually by 6% (CAGR 2023 - 2030)."
-    publishedDateTime: 2023-04-30T11:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-software-market-analysis-current-market-size-growth-projection-and-cagr-of-6-from-2023---2030-2023-04-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Deep-Learning Computing Unit (DCU) Market Growth, Trends and Industry Forecast 2023-2030 | NVIDIA, AMD, Intel"
     excerpt: "The study on the market for Deep-Learning Computing Unit (DCU) provides a thorough analysis of the industry. It does"
     publishedDateTime: 2023-05-03T10:12:00Z
@@ -98,6 +84,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Self-driving Cars Market [2023] | New Report Anticipates Industry to Surpass USD 6567.8 Million in Revenue by 2030"
+    excerpt: "Toyota BMW Volvo Mercedes-Benz Audi Among other players domestic and global, Self-driving Cars market share data is available for global, North America, Europe, Asia-Pacific, Middle East and Africa, and South America separately. Research ..."
+    publishedDateTime: 2023-05-04T12:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-cars-market-2023-new-report-anticipates-industry-to-surpass-usd-65678-million-in-revenue-by-2030-2023-05-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 9
 
 secured: "a+/yxA6SAxNN9VO6BcU+Et5k5M1xbBK+UODNh/7blUwwz3P/tUnjIylxmENMhodPFCMLeNcAT8eTZHz0dGqi1AUcVaWS41JWlFndHPZbX/v2i6BMMhDkWrtdtcYTfX4IjlfWt2v1hj2fA5iM6qC0hCRpSTG0ViS4XBXHnmkYNabZ3cLz0TmT5ueLNw6pKAudP097TB6TTAAKtYhlLDHWbxQVqnROGjySuwHjnNgBzlehT10vruZeCMO4GMQFI3gEszOjMgtNJNdaabdsr8hfFlFLAoa2+oISq9ruuSaUhRJqQvXw2w+fkitXK4gh1kvjn/hhKxQZFY2jF5sjA7vImvtR3DCCO1klmx/JpCfvTQo=;QJ3Pa3sLfyo3KNYgCyq96g=="
 ---

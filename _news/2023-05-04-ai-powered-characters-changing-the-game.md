@@ -509,6 +509,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Google shared AI knowledge with the world — until ChatGPT caught up"
+    excerpt: "In op-eds, podcasts and TV appearances, Google CEO Sundar Pichai has urged caution on AI. \"On a societal scale, it can cause a lot of harm,\" he warned on \"60 Minutes\" in April, describing how the technology could supercharge the creation of fake images and videos."
+    publishedDateTime: 2023-05-04T15:36:00Z
+    webUrl: "https://www.detroitnews.com/story/business/2023/05/04/google-shared-ai-knowledge-with-the-world-until-chatgpt-caught-up/70183544007/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 17
   - title: "AI Impact Gets Real and Fast: IBM Pauses Hiring, Chegg Plunges on ChatGPT Challenge"
     excerpt: "Artificial intelligence is here and growing fast, putting jobs at risk and posing a complicated challenge for executives and policymakers."
     publishedDateTime: 2023-05-02T12:56:00Z
@@ -537,6 +546,6 @@ related:
       domain: businessnewsdaily.com
     quality: 4
 
-secured: "DchH3BLrxZIFmCXQUWgbMTrznouQGjFv0kNgKpbFP6w/a6Sad7sUmKr0oACz4NUFcOamYg2ydH048Meko/44OBhdXLVCRDgj3Mq/4JKoM92R2YWu4fCx4HG9nkpM5Dgu/QcCykRa2gBIQSCl4ICJmkiOlEv6bx1FIENzdeMQhKyxw5rgXGGN3F8i4nxoWyefrRBOsnQRVeUXzi5dvKZ29qOj9OvTsXQ1AP7pfSvIOU5eisCPwH9O24iVDG9kKGKrDIAp9E7MSGvSExSUcSUMrha4orgO6XXn6jDa6FTbIZPn8VyRtrQqEWEpgKbJJ9M5RehPgXPZjKZGZj8CrDagSYDbMW/rW33wGb6jN3URdHA=;Umy4PcA6aW8ivdkS5lVrnQ=="
+secured: "5wcjPR11bAxUAzoG/srXyMuXhdo1MbHg/xbqPNur/FawsnlwAIKrc6JIfvlfrcJSK651rdYmozfpchRhy2O6n6ch1xgAxuj0fzmqfYZYs4qWmT/26Qz+bt9kFlLTsYjGPWF3FH1MCEy10Zu3HeZb4V7VwyNHMtZVsTI/Y3taYxApqbaD1OInnHhNXy5dbka/6l3CpjuBoJzIXeqYFw7cwzvuUDVqLZoQWRbMng6npEYhBbDEYSVWkldKk5oqALgo6PThkB20VVBpp/NLneniCC4CFF3UkFtwmwXM+oMGcYWhjdOCnIZXTqvbJIftKjThY6pgGW+wblnkKzGI92/zByaHItf/tvZqWV08iTQNsCcp/1HgPMax8KvAAo7YZkXgbmt2q8UojfTwr+N1P80ydh8t6QnfqlQEJ3UCnNrJVmg2dLuadl51tspjER8RrCAWXwuI4ov/N7v63+imgJi9Gtjr/9XQ2MMqIVRO/5nd1TDJsO5fKeHTIqyM+BBVtBnhRpioR/rWcmc7Byl0to/H3w==;98ew/OGksMmEDfQodqISIg=="
 ---
 

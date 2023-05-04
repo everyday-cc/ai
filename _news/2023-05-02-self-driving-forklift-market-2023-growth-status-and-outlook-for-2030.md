@@ -37,20 +37,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning Software Market Analysis: Current Market Size, Growth Projection, and CAGR of 6% from 2023 - 2030"
-    excerpt: "This report on \" Deep Learning Software market \" contains the data required to conduct a SWOT, PEST, and STEER analysis. It gives a better knowledge of market dynamics and industry competition. The Deep Learning Software market is expected to grow annually by 6% (CAGR 2023 - 2030)."
-    publishedDateTime: 2023-04-30T11:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-software-market-analysis-current-market-size-growth-projection-and-cagr-of-6-from-2023---2030-2023-04-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Education Market Research Report 2022 – Industry Environment, Supply Side and Demand Side Analysis"
     excerpt: "The global Artificial Intelligence in Education market is expected to exceed more than US$ 4 Billion by 2024 at CAGR of"
     publishedDateTime: 2023-05-03T05:30:00Z
@@ -97,6 +83,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Self-driving Cars Market [2023] | New Report Anticipates Industry to Surpass USD 6567.8 Million in Revenue by 2030"
+    excerpt: "Toyota BMW Volvo Mercedes-Benz Audi Among other players domestic and global, Self-driving Cars market share data is available for global, North America, Europe, Asia-Pacific, Middle East and Africa, and South America separately. Research ..."
+    publishedDateTime: 2023-05-04T12:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-cars-market-2023-new-report-anticipates-industry-to-surpass-usd-65678-million-in-revenue-by-2030-2023-05-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 9
 
 secured: "36Q4WTRG4EfhwNiZ0yhQSWGOBZ3LhXW4v38U+MWa7mXy0rW6nVuaa1Wbs4jL1ze1KaQ82C4YvhJjGvsnjfZlWE4jH9hLnMuwUS8YpUQgVTVF/R52ulLm4ZRIFnfv4GXzH/V6eXL/3I99MiyDryzywSNcq9u3QD0N02aClgv7GcRJ6cqY8RlkTX4Lxodkk0/nPtID18BlcxMeDEGTvG9EbnmiK31r+IAWY0Jfg0ky1v4UNuKSg5+tqbtQ7RH0ghJXums+Autv2jSMxLxzpelDoa54O7LE4MpFrGvR5QZ4BUSCUb1LNf5bDCQHY0RfrTGULdLucr0W4lK9Tc7VPlB7fznMZvJkO9KMbf2470csXqM=;5MVbPkAI6pKK5zUPMjrRxw=="
 ---

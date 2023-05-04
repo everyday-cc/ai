@@ -506,6 +506,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Google shared AI knowledge with the world — until ChatGPT caught up"
+    excerpt: "In op-eds, podcasts and TV appearances, Google CEO Sundar Pichai has urged caution on AI. \"On a societal scale, it can cause a lot of harm,\" he warned on \"60 Minutes\" in April, describing how the technology could supercharge the creation of fake images and videos."
+    publishedDateTime: 2023-05-04T15:36:00Z
+    webUrl: "https://www.detroitnews.com/story/business/2023/05/04/google-shared-ai-knowledge-with-the-world-until-chatgpt-caught-up/70183544007/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 17
   - title: "AI Impact Gets Real and Fast: IBM Pauses Hiring, Chegg Plunges on ChatGPT Challenge"
     excerpt: "Artificial intelligence is here and growing fast, putting jobs at risk and posing a complicated challenge for executives and policymakers."
     publishedDateTime: 2023-05-02T12:56:00Z

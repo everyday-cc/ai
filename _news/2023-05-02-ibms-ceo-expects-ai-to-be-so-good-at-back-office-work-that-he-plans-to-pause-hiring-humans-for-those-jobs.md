@@ -231,6 +231,15 @@ related:
       name: GDPR fines
       domain: itp.net
     quality: 19
+  - title: "IBM eyes hiring pause because AI does the job"
+    excerpt: "Non-customer-facing roles may see a 30 percent cut in workforce, replaced by AI and automation, Arvind Krishna said."
+    publishedDateTime: 2023-05-04T12:07:00Z
+    webUrl: "https://www.astroawani.com/berita-english/ibm-eyes-hiring-pause-because-ai-does-job-418087"
+    type: article
+    provider:
+      name: Astro Awani
+      domain: astroawani.com
+    quality: 19
 
 secured: "rhaBMapVB18lA1DdDgglfMn4YTV360UlPv4qiDpyi1GBd21KdrN43Pw83d2YMcO7gGzTki8cV+9nQ0/KSXzgdhdFRCPF3quVx9fgOa5hCVDMI8Wz2ZYtLCZRStCFnHO9nQopDzSgLmySrFrHtEVmD17MK9UyKImPBogBdrT9fqB6/MuzKaUGFD52Nvni2LZ2zRkLQX6EMVdC5D6LMmRW/yO8V14bxaVhsr0wsIIe204ijjjP3ugtSHjY8nCKGL3QHrob0uOCUotS7cfYkQWBXxilFCzSfCFy8++vB+2FLui2KvgTihJqLRx5iJu77eJutS53U6aH3o3Tigd6s5pVoXg8UC6+RN07Tk1m+qK2RhI=;+otdFueOCdyEneHqZNlBeg=="
 ---

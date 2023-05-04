@@ -22,19 +22,21 @@ topics:
   - AI Ethics
 
 related:
-  - title: "Powering Justice: OpenNyAI and AWS team up for Plug-in Innovation Challenge to revolutionise public sector ODR"
-    excerpt: "Are you passionate about Online Dispute Resolution (ODR) and want to make a difference in the public sector? OpenNyAI and AWS have teamed up to launch the Plug-in Innovation Challenge, aimed at promoting ODR and encouraging innovation."
-    publishedDateTime: 2023-05-01T11:07:00Z
-    webUrl: "https://yourstory.com/2023/05/powering-justice-opennyai-aws-team-revolutionise-public-sector-odr"
+  - title: "AI has potential to revolutionise health care—but we must first confront the risk of algorithmic bias"
+    excerpt: "Artificial Intelligence (AI) is moving fast and will become an important support tool in clinical care. Research suggests AI algorithms can accurately detect melanomas and predict future breast cancers."
+    publishedDateTime: 2023-05-04T15:07:00Z
+    webUrl: "https://techxplore.com/news/2023-05-ai-potential-revolutionise-health-carebut.html"
+    ampWebUrl: "https://techxplore.com/news/2023-05-ai-potential-revolutionise-health-carebut.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-05-ai-potential-revolutionise-health-carebut.amp"
     type: article
     provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 34
+      name: techxplore
+      domain: techxplore.com
+    quality: 44
     images:
-      - url: "https://images.yourstory.com/cs/2/21ccd920843c11ec88170b5512a0f9d5/Image9tvr-1682929581598.jpg?fm=png&auto=format"
-        width: 800
-        height: 400
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/artificialin.jpg"
+        width: 2880
+        height: 1616
         isCached: true
 
 secured: "SB/3W7bSZJdxVmbcBEyhybvpSuUsqR+o8iBIJNhbIzqAAxiXs2rMZxJqx7zYLIkM7vMhRDF1kAtji+Weojs8QEAGyeDym5AGSEEuA41tugq38H7Ez9rN0y4WtE+v9ShFzU/UgCdts/7qbDdvQMRDhE/9ZA8RneUhG/vOxcs7VMd4M/xxmI7WjZaCnhbbMAubX3fKrAN2F2ybvFcCFK3qDfRAOh69rfCHZvO44e87xUNUQPbC6RgbwaHaAC/Q4xJ+zHccKN9bAOZFU4I56Kyxs1PoZgCA/pwGEsjOl/sPMOuzGLZMTK9FvJSBZdcSCfQLT2S8caztyNvbO+kOjqSp1Nt/Xh+5hp++wxau+2dqbGYp12H+rNp9i89YWAIG9Na2bOuR+cBq8cOnyym1L2PuWJOg8ZjgkwYGajjZ9RN5AUxjAaaWBG+hZJMM7rPg7RiJVvwEM5pAODdZM0HoY/gPhr4lTaNljwzs8O6oJnD8p4h6dCQ19/AXSS1TRXJikuveJNi7udtNlY6RusHs6BT+rA==;cKh0X/Qv/pi8IxCt00s2mw=="

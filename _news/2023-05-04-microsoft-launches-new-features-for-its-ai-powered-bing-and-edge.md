@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/microsoft-launches-new-features-for-its-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/microsoft-launches-new-features-for-its-ai-powered-bing-and-edge/amp/"
 type: article
 quality: 104
-heat: 254
+heat: 264
 published: true
 
 provider:
@@ -240,6 +240,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "AI News roundup: Microsoft tests privacy focused version of ChatGPT, Slack's generative AI push and more"
+    excerpt: "According to the online publication The Information, Microsoft is planning to offer the variant on its Azure cloud platform and it will run on dedicated servers where data collected by the chatbot would be separated from the public variant."
+    publishedDateTime: 2023-05-04T13:30:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/ai-news-roundup-microsoft-tests-privacy-focused-version-of-chatgpt-slacks-generative-ai-push-and-more-10529011.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 17
 
 secured: "zDbHwnMVD2lG6djVypFeMm3ndR98r/C+XsrvuPVpyYUJ5/PbJFOqjI2UGusEZV9cK/Y09WSW+oOPttXTez18GGo3JmFMVa0gKoQI1TAQXrlZzXmatN+WfAbE7NSYnAXGaGnhimWIQWu6st5RYLSpttxjdtKQ8MlzoS912NrdqogoE9jlE/avEkJFUQghu0Hto7ZEjYRvP/Tmcz1UUD16Z3tJhUXn7EECc8j4lgISYS4Yh8VpxkYaAY4qZroAYUHy+CvoNaM91ka5cgMPEVm6Rvl/Yy064lLUYgAyeVkMiAo7vLfhjnhLwF0StNzsGzBxBgEPkgFGxQPonr2MgTgibfyx83CeICkgFAOo7xVsDCgCV8iaKWof555Fmqa9rO+VjFdA9gQVoR9IuqjilNTAZiqxauetp/qqxJb2C1+FWEez21kgsvy5h7srbJ2H0SxCPZLvj93oDJqyRXmGVnFPARppcgxdeL+8+hcnVg2jv0MRuTsT8IZ/9wlGuxHapBMWNwecT854HSglagwXY5OAMQ==;sInZvHGezhgN5ccp2SMKkA=="
 ---

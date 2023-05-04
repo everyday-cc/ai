@@ -237,6 +237,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "AI News roundup: Microsoft tests privacy focused version of ChatGPT, Slack's generative AI push and more"
+    excerpt: "According to the online publication The Information, Microsoft is planning to offer the variant on its Azure cloud platform and it will run on dedicated servers where data collected by the chatbot would be separated from the public variant."
+    publishedDateTime: 2023-05-04T13:30:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/ai-news-roundup-microsoft-tests-privacy-focused-version-of-chatgpt-slacks-generative-ai-push-and-more-10529011.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 17
 
 secured: "6I3ofnseRfGBk06gkpbbu2svorP+NAGM4MAlLJZl+fyOtP40cgWpYSJnWQp5r/o8bujMzg0hw5jw0oovKBhQKCk3hTKI+Km3J+3bbdjCuthzSGWn5jK+YAQzgUR7rZbTc4cYLqJiANJEISa7GX+3xgikGPu2dR/mk8LofuhKM2IIxvJulXi1sZXo+IdbVi/vRlUMCXIhtw3KNvwdomRXpM8PtAm/SyIKFgAipiTExRIB8NBE8XJhybmBkppMCRQTK/gfNZIWFvun28bsuaWCNgjD8UBRZEIi43XNfVs5oI1X6wR5KSy4n7JO71nfMRRmezAutw91T/DIjdubTKMJIPLgDENS+VTULEE/oto1ifU=;9GdeuwgNanhjWnLS5fzHFw=="
 ---

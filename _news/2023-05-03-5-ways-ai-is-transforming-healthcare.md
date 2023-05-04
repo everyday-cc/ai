@@ -19,19 +19,49 @@ topics:
   - AI
 
 related:
-  - title: "The healthcare system is racing to unleash breakthrough AI models despite profound unanswered questions"
-    excerpt: "The next chapter of AI comes with deep scientific and ethical mysteries. Hospitals are entering without a roadmap, while trying to keep patients safe."
-    publishedDateTime: 2023-05-03T15:13:00Z
-    webUrl: "https://www.businessinsider.com/inside-the-healthcare-industrys-sprint-to-unleash-chatgpt-2023-5"
+  - title: "Behind The Hype About AI Transforming Consumer Businesses"
+    excerpt: "Explore the future of retail in a world dominated by AI-generated content. Is the physical store making a comeback?"
+    publishedDateTime: 2023-05-04T15:36:00Z
+    webUrl: "https://www.forbes.com/sites/gregpetro/2023/05/04/behind-the-hype-about-ai-transforming-consumer-businesses/"
+    ampWebUrl: "https://www.forbes.com/sites/gregpetro/2023/05/04/behind-the-hype-about-ai-transforming-consumer-businesses/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gregpetro/2023/05/04/behind-the-hype-about-ai-transforming-consumer-businesses/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 68
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://i.insider.com/64513152a19cbe00192dbd04?width=1200&format=jpeg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6453cf70c9583ac188eabd27/0x0.jpg?format=jpg&crop=1470,827,x0,y0,safe&width=1200"
         width: 1200
-        height: 600
+        height: 675
+        isCached: true
+  - title: "Business Transformations in 2023 with Artificial Intelligence"
+    excerpt: "Conversational dialogues between humans and ChatGPT are mimicked by OpenAI. Industries anticipate it will be used more widely as an office assistant"
+    publishedDateTime: 2023-05-02T09:48:00Z
+    webUrl: "https://www.cioapplications.com/news/business-transformations-in-2023-with-artificial-intelligence-nid-10608.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 37
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/w7t62cioapp450-308.jpg"
+        width: 450
+        height: 308
+        isCached: true
+  - title: "Smarter-than-humans artificial intelligence is coming fast as business looks for profits"
+    excerpt: "Voices worried about an AI takeover were thin on the ground a few years ago. But despite a recent flood of calls for restraint as the technology improves by leaps and bounds, AI's money-making and defense potential appears irresistible."
+    publishedDateTime: 2023-05-04T08:00:00Z
+    webUrl: "https://www.cbc.ca/news/business/ai-doom-column-don-pittis-1.6829302"
+    type: article
+    provider:
+      name: CBC.ca
+      domain: www.cbc.ca
+    quality: 30
+    images:
+      - url: "https://i.cbc.ca/1.6829334.1683039668!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/tech-ai-hinton.JPG"
+        width: 620
+        height: 349
         isCached: true
 
 secured: "0tjHNdtEZw2/xO2+IkT7oHxGjBVLo7uVzSlBDHwp5qiubH1TMn7ScTi7xG0fZFDKsten7C9yndB+Xn7kcX9U1BpJgVb4G1kbFkV5fkZ2PaIgldtfZLyEJhZ3h1raRjzymmy1lGFHgUg3G5QiMyyaHFhLjzf1iEkDf5JSORYvIJ6bYKkPBq4E3Pb6iyK/17I7dnJVeZtQ2X2NPuqOJhds8+pZAfoq7Y/PidwK5cuC1AAVvCGIdsSxXB5LLH/KxyqBY8WKpfFYrYMe7rzchMyYkNKA84LEFi72A/+oeuHPmuLU3MRAHFoZobS2K44NLBggPRz02KLYaVKDfFFCLlv5z1BL+IonINA/fh/S4+tSnHhHyEJdXZ3cJFJPVXg5l/wYPpIy6H2hP2fQj+WSS2E4Z8IvYNhvOGedH1N2oX2uus9WjMNAIeVP3Q4O8W8Ww2PAS0ZZPwKrCp5kQS6s34/ByvwbaoF0IaOcq/wKNWYhZh8SDzv5aFXUyRP9BxCUx1Pr0kNaQFmLzq4TF5IX5TYuJQ==;ih/H7DjTo7Fz1emnBdBgxg=="

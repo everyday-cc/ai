@@ -62,22 +62,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Leveraging The Power Of AI As A Small Business"
-    excerpt: "AI language models can help small businesses optimize their marketing, but they have limitations that every business owner should be aware of."
-    publishedDateTime: 2023-05-03T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/03/leveraging-the-power-of-ai-as-a-small-business/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/03/leveraging-the-power-of-ai-as-a-small-business/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/05/03/leveraging-the-power-of-ai-as-a-small-business/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/642b0f04743b6df49adeb166/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "How Artificial Intelligence is Transforming Business"
     excerpt: "AI technologies have a wide range of applications in business, and many publicly traded companies now use AI tools."
     publishedDateTime: 2023-05-03T02:15:00Z
@@ -92,6 +76,15 @@ related:
         width: 580
         height: 387
         isCached: true
+  - title: "Moving Beyond The Hype: The Ethics And Business Outcomes Of Generative AI"
+    excerpt: "As the ethics and business outcomes of generative AI are discussed, how safe and reliable is the technology and moving forward?"
+    publishedDateTime: 2023-05-04T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/04/moving-beyond-the-hype-the-ethics-and-business-outcomes-of-generative-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 63
   - title: "How democratised Machine Learning can transform your business"
     excerpt: "Let’s dispel a misconception. Artificial intelligence (AI) and machine learning (ML) are often seen as beyond the reach of businesses without data scientists and ML engineers. As we explored in chapter six of AWS eBook Innovate With AI/ML To Transform Your Business,"
     publishedDateTime: 2023-05-03T23:00:00Z

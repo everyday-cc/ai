@@ -1,31 +1,28 @@
 ---
 category: news
 title: "Nippon Life Selects H2O.ai to Transform Its Insurance Business With Machine Learning and Improve Customer Health"
-excerpt: "\"AI is transforming the trillion dollar healthcare insurance industry, both the businesses themselves and the care they facilitate,\" said Sri Ambati, CEO and founder of H2O.ai. \"By helping Nippon Life advance their AI initiatives and create better customer experiences,"
-publishedDateTime: 2023-05-03T20:10:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/05/03/9807216.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/05/03/9807216.htm"
+excerpt: "H2O.ai, the AI Cloud leader, today announced a strategic partnership with Nippon Life Insurance Company, also known as Nissay in Japan. Specifically, the companies are announcing a partnership where Nippon Life Insurance Company will deploy H2O Driverless AI tools to better meet the needs of their policyholders,"
+publishedDateTime: 2023-05-03T20:00:00Z
+originalUrl: "https://www.marketwatch.com/press-release/nippon-life-selects-h2oai-to-transform-its-insurance-business-with-machine-learning-and-improve-customer-health-2023-05-03"
+webUrl: "https://www.marketwatch.com/press-release/nippon-life-selects-h2oai-to-transform-its-insurance-business-with-machine-learning-and-improve-customer-health-2023-05-03"
 type: article
-quality: 37
-heat: 37
+quality: 45
+heat: 45
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
   - Machine Learning
-  - AI in Finance
 
-images:
-  - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
-    width: 550
-    height: 353
-    isCached: true
-
-secured: "ECFGxcNwB2cVPtlNs9stvwuUAPeVVQzFwn9hqb/CeOmu27JtOiSB9/FxEQo/yYpt2n+B8IZG0R8OfSfgs4oh/qR6EgFySEyBWE+H6pD+Ltp5RTMrwFQmrOU42AHu9zxPp6cryjwD1lZycGyWR9kwo9SJbLZPTIpUfdcW3Odwmo40NrRQqoAYsFCkvE3A2ErzAhql8zTt35oanQEKbwZkSg16YiETkpfD+5qm6+xqlXhOdXYB2km9mosTRrCLflmLPG1Af8c5W+6KqDrj1SgGDUib31NOxTVhXrfLgQsaURTxHrvuXvOIr9E6twSO5WCvSIS8dUvt0F2MuWJfOITdslRoNw3jqiw1xNnSgZyh7zI=;XWNOnVQrO4CpUO2hQusrwA=="
+secured: "QSkDOePXyqeC9IrXYJbCMYsitvRwWTb1HGBWqes2nWtzO9YmRMP3ve4p3L4iUNVnEjbxImGH3DCDFzDzk9ZQOP8mBV/NOOUGbwr6uyd3cxLa7U2b6OxzkGH1ynZdLxj94LHqhZko2ePQXgz/Qu02ZGrOXKHZ86zcX0YY6MPqGeKx8i62E7ZJR7mTrBXZZt+69upsQr89WZgWyL0re3XW71ycCO+CvIjlx9UBmTYRWLRnCLVajs3O+Ko1oTPKaBXTI90y/kL52mKe4/NXkxyRKsahfo7QjfQE/RSexXAHd7+NSza5VCEKSASgSprdtOLsVh5AHKkas9YKPQy/XVeNBt8k8aK8giCmjNNt5bfG73s=;jJA5a65xoCEUOmLLytvkCw=="
 ---
 

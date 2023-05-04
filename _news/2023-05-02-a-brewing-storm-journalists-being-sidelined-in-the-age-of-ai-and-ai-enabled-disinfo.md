@@ -48,6 +48,20 @@ related:
         width: 560
         height: 560
         isCached: true
+  - title: "Missing persons helped by artificial intelligence"
+    excerpt: "Indiana has been grappling with an unsolved murder and missing person case for years. With the help of revolutionary augmented reality (AR) and artificial intelligence (AI) crime-solving tools, attention is being brought to these cases like never before."
+    publishedDateTime: 2023-05-01T21:03:00Z
+    webUrl: "https://www.wishtv.com/news/allindiana/missing-persons-helped-by-artificial-intelligence/"
+    type: article
+    provider:
+      name: WISH-TV
+      domain: wishtv.com
+    quality: 37
+    images:
+      - url: "https://www.wishtv.com/wp-content/uploads/2023/05/kghmnbklgfblgfb.jpg"
+        width: 1512
+        height: 851
+        isCached: true
   - title: "Emerging trends in 2023: The evolution of AI in online shopping"
     excerpt: "In recent years, the AI technology has been widely adopted by the e-commerce sector and AI will witness a fast growth in the coming years so as to enable e-commerce businesses in making data-driven strategic decisions."
     publishedDateTime: 2023-04-30T13:53:00Z

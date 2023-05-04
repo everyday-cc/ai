@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/face-recognition-device-
 webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-forecast-trends-and-insights-till-2031-2023-05-02"
 type: article
 quality: 69
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Face Recognition Systems Market Share by 2031"
+    excerpt: "This \"Face Recognition Systems Market\" report offers a thorough analysis of the industry, including forecasts for"
+    publishedDateTime: 2023-05-04T01:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-share-by-2031-2023-05-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "A world of Mobile Speech Recognition Software Market Insights 2023-2030 at your fingertips."
     excerpt: "The \"Mobile Speech Recognition Software Market\" study delves into the evolution of the technology industry and"
     publishedDateTime: 2023-05-03T04:15:00Z

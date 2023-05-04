@@ -29,47 +29,37 @@ images:
     isCached: true
 
 related:
-  - title: "2023-2030, Data Science and Machine-Learning Platforms Market-Latest Updates"
-    excerpt: "To know How COVID-19 and Russia-Ukraine War Influence Will Impact This Market/Industry - Request a sample copy of the report-:  In This Reports Data Science and Machine-Learning Platforms Market Segment by Type ( Open Source Data Integration Tools,"
-    publishedDateTime: 2023-05-03T04:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-2030-data-science-and-machine-learning-platforms-market-latest-updates-2023-05-03"
+  - title: "Global Industrial Robotics Market Report to 2026: Collaborative Robots Promote Efficiency and Innovation Presenting Opportunities"
+    excerpt: "The \"Industrial Robotics Growth Opportunities\" report has been added to ResearchAndMarkets.com's offering. Robotics usage in industrial settings has risen over the last"
+    publishedDateTime: 2023-05-03T00:45:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/05/n32178540/global-industrial-robotics-market-report-to-2026-collaborative-robots-promote-efficiency-and-innov"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32178540"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32178540"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Computer Vision Market 2023-2030 (New Report) Intelligence Study is A Useful Resource for Both New and Seasoned Players"
-    excerpt: "To know How COVID-19 and Russia-Ukraine War Influence Will Impact This Market/Industry - Request a sample copy of the report-:  In This Reports Computer Vision Market Segment by Type ( Hardware, Software) and Segment by Application ( Face Recognition,"
-    publishedDateTime: 2023-05-03T04:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2023-2030-new-report-intelligence-study-is-a-useful-resource-for-both-new-and-seasoned-players-2023-05-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 45
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
-  - title: "Data Science and Machine Learning Service Market Projected to Show Strong Growth by 2030| DataScience.com, ZS, LatentView Analytics, Mango Solutions"
-    excerpt: "Who are the Top Key players operating the global Data Science and Machine Learning Service Market: DataScience.com, ZS, LatentView Analytics, Mango Solutions, Microsoft, International Business Machine,"
-    publishedDateTime: 2023-05-02T09:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-service-market-projected-to-show-strong-growth-by-2030-datasciencecom-zs-latentview-analytics-mango-solutions-2023-05-02"
+  - title: "Voice User Interface Global Market Report 2023: Rising use of Artificial Intelligence Drives Growth"
+    excerpt: "The \"Voice User Interface Global Market Report 2023\" report has been added to ResearchAndMarkets.com's offering. This report provides strategists, marketers and senior"
+    publishedDateTime: 2023-05-02T21:16:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/05/n32175548/voice-user-interface-global-market-report-2023-rising-use-of-artificial-intelligence-drives-growth"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32175548"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32175548"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 45
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
 
 secured: "3ugc4mL0aC2ABXQXlIKKnZ3byBLrZPtjUQPjysIkkS4XgDB/ELIEhOJ52ZlSkTJBWlzLBWTYslIlDSOQUvvhKu8oh3SuhpBeTpT3d1RCOfPkgdM/vwKYoNLJcZ5PPp6ReYbujIoCDss1kuNftSt+tg6wbDpivWPw9JVrOMknl6tAKVD7hontTtzBGf35/MyehWosG5SHZ0he12ct/sG5nG16cDcM29BWPqKB19GpX7ATMjKCoXCY2sfZO7N6TAAL/EOGPubgZEN5GnLGHrKztXlSChc63YMlKsggidb6na3iJrcWvhXyjce9nVkBNcrOhvcQYqw1568udQG3m/nXE8rovzs2UP2oYzjiGVVrAUc=;PNYQISTJ2zGqZD1x3oTrQQ=="

@@ -24,45 +24,45 @@ images:
     isCached: true
 
 related:
-  - title: "Three Trends Of Transformation: How AI & Value-Based Care (VBC) Will Drive Transformation Of Self-Insured Healthcare"
-    excerpt: "Healthcare is on the brink of a seismic shift, and AI is its catalyst. (1) Large Language Models extend our predictive capabilities. (2) Self-insured companies' risk profile and the patient needs are aligned."
-    publishedDateTime: 2023-05-01T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/lutzfinger/2023/05/01/three-trends-of-transformation-how-ai--value-based-care-vbc-will-drive-transformation-of-self-insured-healthcare/"
+  - title: "Behind The Hype About AI Transforming Consumer Businesses"
+    excerpt: "Explore the future of retail in a world dominated by AI-generated content. Is the physical store making a comeback?"
+    publishedDateTime: 2023-05-04T15:36:00Z
+    webUrl: "https://www.forbes.com/sites/gregpetro/2023/05/04/behind-the-hype-about-ai-transforming-consumer-businesses/"
+    ampWebUrl: "https://www.forbes.com/sites/gregpetro/2023/05/04/behind-the-hype-about-ai-transforming-consumer-businesses/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gregpetro/2023/05/04/behind-the-hype-about-ai-transforming-consumer-businesses/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 61
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/644f0e322dfc4586460d1577/0x0.jpg?format=jpg&width=1200"
-        width: 1024
-        height: 1024
-        isCached: true
-  - title: "Artificial Intelligence in Eye Care: A Trending Transformation"
-    excerpt: "Artificial intelligence is helping to expand the physical abilities of eye clinics and hospitals to perform repetitive tasks with less error and more efficiency."
-    publishedDateTime: 2023-05-02T17:21:00Z
-    webUrl: "https://www.medindia.net/news/artificial-intelligence-in-eye-care-a-trending-transformation-211614-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-in-eye-care-a-trending-transformation-211614-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-in-eye-care-a-trending-transformation-211614-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 59
-    images:
-      - url: "https://images.medindia.net/amp-images/health-images/An-eye-care-professi.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6453cf70c9583ac188eabd27/0x0.jpg?format=jpg&crop=1470,827,x0,y0,safe&width=1200"
         width: 1200
-        height: 1000
+        height: 675
         isCached: true
-  - title: "MotionPoint Releases Adaptive Translation™: Proprietary AI to Reduce the Cost of Quality Translation"
-    excerpt: "MotionPoint introduces Adaptive Translation™ technology to reduce human translation costs without sacrificing quality."
-    publishedDateTime: 2023-05-03T11:00:00Z
-    webUrl: "https://slator.com/motionpoint-releases-adaptive-translation-proprietary-ai-to-reduce-the-cost-of-quality-translation/"
+  - title: "5 ways AI is transforming healthcare"
+    excerpt: "AI is revolutionizing healthcare by analyzing large datasets and helping in the detection, prevention, prediction, and treatment of disease."
+    publishedDateTime: 2023-05-03T12:20:00Z
+    webUrl: "https://interestingengineering.com/health/how-ai-is-transforming-healthcare"
     type: article
     provider:
-      name: Slator
-      domain: slator.com
-    quality: 4
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 34
+  - title: "Smarter-than-humans artificial intelligence is coming fast as business looks for profits"
+    excerpt: "Voices worried about an AI takeover were thin on the ground a few years ago. But despite a recent flood of calls for restraint as the technology improves by leaps and bounds, AI's money-making and defense potential appears irresistible."
+    publishedDateTime: 2023-05-04T08:00:00Z
+    webUrl: "https://www.cbc.ca/news/business/ai-doom-column-don-pittis-1.6829302"
+    type: article
+    provider:
+      name: CBC.ca
+      domain: www.cbc.ca
+    quality: 30
+    images:
+      - url: "https://i.cbc.ca/1.6829334.1683039668!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/tech-ai-hinton.JPG"
+        width: 620
+        height: 349
+        isCached: true
 
 secured: "tWsthcJorFWcb4sn+koD0L9cjyhoe3/4f5x82ZhU6GWBB5scQ6aJjetyI/vnaE8ydmAEoUbAIrCY3ZZomtFSeH1Z7PJx5qGbnqOfbdWuWS1pEObGP9H3YQCs9sOS4P8xmYH08IpzNykH1uzwWgymQR2/c+IWAHIBEoRFHrO0cI+HezHb3gaaT+bEB5YGqX/HSvKGrc5jUsccv3PXR8GTNISJ9O3Spz2+jJw1YRcjX9xBwppMK/4K9RqOauZPEjLnDrkSkbChCOvxgucAv5lRHZeXMtSz32gP6WER3vUz+Wq0ufRMDquL94gADpj0t0rc4V4s9biJOxBQmFAaBKN3MT6VqogLgx8JJi5pFZ/XXhs=;1nCy+5uotTAqs3Rt0V6cPg=="
 ---

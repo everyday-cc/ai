@@ -24,44 +24,51 @@ images:
     isCached: true
 
 related:
-  - title: "We need to bring consent to AI"
-    excerpt: "This week's big news is that Geoffrey Hinton, a VP and Engineering Fellow at Google, and a pioneer of deep learning who developed some of the most important techniques at the heart of modern AI, is leaving the company after 10 years. But first, we need to talk about consent in AI."
-    publishedDateTime: 2023-05-02T09:47:00Z
-    webUrl: "https://www.technologyreview.com/2023/05/02/1072556/we-need-to-bring-consent-to-ai/"
-    ampWebUrl: "https://www.technologyreview.com/2023/05/02/1072556/we-need-to-bring-consent-to-ai/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/05/02/1072556/we-need-to-bring-consent-to-ai/amp/"
+  - title: "Keeping humans in charge of AI assisted decision-making"
+    excerpt: "AI assistant powered by OpenAI services – but keeps the user in the driver's seat. WELLINGTON, New Zealand, May 2, 2023 /PRNewswire/ -- 1000minds has launched an AI assistant as part of its decision-making and conjoint analysis software using Microsoft Azure OpenAI services."
+    publishedDateTime: 2023-05-02T15:33:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/keeping-humans-in-charge-of-ai-assisted-decision-making-1032283019"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "How AI is Revolutionizing the Supply Chain and Making It More Efficient"
+    excerpt: "Have you ever wondered how Amazon can expeditiously deliver products to customers’ doorsteps shortly after placing an order? The solution to this enigma is rooted in the efficacy of Artificial Intelligence (AI) within supply chain management."
+    publishedDateTime: 2023-05-03T11:09:00Z
+    webUrl: "https://techbullion.com/how-ai-is-revolutionizing-the-supply-chain-and-making-it-more-efficient/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 39
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/04/opt-out-writing.jpeg?w=3000"
-        width: 3000
-        height: 1688
+      - url: "https://techbullion.com/wp-content/uploads/2023/05/3cf223d7-hero-image1-08_10i80fk0fk0fk01c000028.png"
+        width: 560
+        height: 560
         isCached: true
-  - title: "Using Artificial Intelligence to Speed up Discovery of New Drugs"
-    excerpt: "Experts see a bright future in the complementary use of artificial intelligence (AI) and structure-based drug discovery for drug discovery. Researchers explain how computational methods will streamline drug discovery by predicting which drug molecules are most likely to bind with the target receptor."
-    publishedDateTime: 2023-04-30T22:01:00Z
-    webUrl: "https://neurosciencenews.com/ai-drug-discovery-23150/"
+  - title: "A brewing storm: Journalists being sidelined in the age of AI, and AI-enabled disinfo"
+    excerpt: "What will the future hold for our information ecosystem as journalists experience layoffs in 2023 just as AI takes a stronger hold?"
+    publishedDateTime: 2023-05-02T11:42:00Z
+    webUrl: "https://www.rappler.com/technology/features/journalists-artificial-intelligence-newsroom-effect-disinformation/"
     type: article
     provider:
-      name: Neuroscience News
-      domain: neurosciencenews.com
-    quality: 41
+      name: Rappler
+      domain: rappler.com
+    quality: 32
     images:
-      - url: "https://neurosciencenews.com/files/2023/04/ai-drug-discovery-neurosicences.jpg"
-        width: 1200
-        height: 915
+      - url: "https://www.rappler.com/tachyon/2023/05/shutterstock-robot-hands-laptop.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Companies adopting AI need to move slowly and not break things"
-    excerpt: "McKinsey's State of Organizations 2023 report says two-thirds of firms are investing in AI. Companies such as Planet and Intercom are embracing it wisely."
-    publishedDateTime: 2023-05-01T06:00:00Z
-    webUrl: "https://www.fastcompany.com/90888603/applied-ai-move-slowly-not-break-things"
+  - title: "Emerging trends in 2023: The evolution of AI in online shopping"
+    excerpt: "In recent years, the AI technology has been widely adopted by the e-commerce sector and AI will witness a fast growth in the coming years so as to enable e-commerce businesses in making data-driven strategic decisions."
+    publishedDateTime: 2023-04-30T13:53:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/emerging-trends-in-2023-the-evolution-of-ai-in-online-shopping-10503931.html"
     type: article
     provider:
-      name: Fast Company
-      domain: fastcompany.com
+      name: moneycontrol.com
+      domain: moneycontrol.com
     quality: 17
 
 secured: "Es1fWnMTesmwkkcUCnWva4Evvw+zjfReQ3UE25QWuep224rRuVNYXKbg0NZRxe7sifPbucIxtYyKJqKgO+ZEDmn7kFzBBv+LcXbdCXuSWqb3Fpkxx2VgkibO7AL0XkJ1rxuuA3O2mgIhHM0/ccDI21D44T6eVYnEcwBErhTji0S3N9Ldbr41JxHaK9qZ1WYpKvE1BIceLWYvmTWrVrpr3HsqjlcfEZyHQrIR8dK8K5QwYVcgRTjSiYBSl+WN8ssVUJu/eM8c4Bk5LaBXpa8uZ5+LkNMlSfikTWiBisyGcFTrbWlDo0ILwzqahZkkIFpxTmPhlNo2jZDarQlN5BDQRVAOaI9Uqqtb2su9BmdYMOqJIMUGcW1tOWUoFO2Y+ncd93eKc2455lC2ciILl0DZFbO8yTvn0Y+p0XqDZCRejxQHnIiNsf/iXrmEDsBNFAuTGIvi0PIrN2MD7jDmMDPpgA6iNDF+bCNYVzI96DRr5z3iLVJqdZubCWYnZzTlr0VCW4rP61qFmN9AI9cgy3iJ4A==;ocmw9Dstt017kKUtlQApHg=="

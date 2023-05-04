@@ -19,70 +19,104 @@ topics:
   - AI
 
 related:
-  - title: "Generative AI In The Construction Sector: Taking Building Technology To New Heights"
-    excerpt: "It’s no exaggeration to say that generative AI will have a transformative effect on global industry. With the ability to generate new outputs based on algorithms and trained data, it represents the next step in artificial intelligence and a new level of sophistication for machine learning."
-    publishedDateTime: 2023-05-02T15:50:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/05/02/generative-ai-in-the-construction-sector-taking-building-technology-to-new-heights/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/05/02/generative-ai-in-the-construction-sector-taking-building-technology-to-new-heights/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/05/02/generative-ai-in-the-construction-sector-taking-building-technology-to-new-heights/amp/"
+  - title: "Box Introduces Box AI To Bring The Power Of AI To Enterprise Content"
+    excerpt: "Vice President & Principal Analyst, Modern Work, Melody Brue, dives into Box AI, a new capabilities suite that natively integrates advanced AI models into the Box Content Cloud."
+    publishedDateTime: 2023-05-04T14:19:00Z
+    webUrl: "https://www.forbes.com/sites/moorinsights/2023/05/04/box-introduces-box-ai-to-bring-the-power-of-ai-to-enterprise-content/"
+    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/05/04/box-introduces-box-ai-to-bring-the-power-of-ai-to-enterprise-content/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/05/04/box-introduces-box-ai-to-bring-the-power-of-ai-to-enterprise-content/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 81
+    quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64512ef3a78479bc981e6545/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6453be070729cea75deabd27/0x0.jpg?format=jpg&width=1200"
+        width: 468
+        height: 263
+        isCached: true
+  - title: "Accenture finds only 9% of enterprises harness AI’s full potential"
+    excerpt: "New Accenture report reveals key strategies \"operations reinventors\" use to achieve elevated levels of operational maturity."
+    publishedDateTime: 2023-05-02T22:03:00Z
+    webUrl: "https://venturebeat.com/ai/accenture-finds-only-9-of-enterprises-harness-ais-full-potential/"
+    ampWebUrl: "https://venturebeat.com/ai/accenture-finds-only-9-of-enterprises-harness-ais-full-potential/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/accenture-finds-only-9-of-enterprises-harness-ais-full-potential/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1366475366-e1665766594967.jpg?w=1200&strip=all"
         width: 1200
         height: 675
         isCached: true
-  - title: "Code.org helping launch TeachAI to guide integration of artificial intelligence in education"
-    excerpt: "Seattle-based computer science education nonprofit Code.org is helping to launch TeachAI, a new effort aimed at guiding governments and educators on teaching with and about artificial intelligence. The initiative,"
-    publishedDateTime: 2023-05-02T13:00:00Z
-    webUrl: "https://www.geekwire.com/2023/code-org-helping-launch-teachai-to-guide-integration-of-artificial-intelligence-in-education/"
+  - title: "Leveraging The Power Of AI As A Small Business"
+    excerpt: "AI language models can help small businesses optimize their marketing, but they have limitations that every business owner should be aware of."
+    publishedDateTime: 2023-05-03T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/03/leveraging-the-power-of-ai-as-a-small-business/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/03/leveraging-the-power-of-ai-as-a-small-business/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/05/03/leveraging-the-power-of-ai-as-a-small-business/amp/"
     type: article
     provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 68
-  - title: "Teradata operationalises AI with Google Vertex AI integration"
-    excerpt: "Teradata has announced services enabling organisations to accelerate Ai-driven digital transformation initiatives. The connected multi-cloud data platform"
-    publishedDateTime: 2023-05-02T14:20:00Z
-    webUrl: "https://www.enterprisetimes.co.uk/2023/05/02/teradata-operationalises-ai-with-google-vertex-ai-integration/"
-    type: article
-    provider:
-      name: enterprisetimes.co.uk
-      domain: enterprisetimes.co.uk
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://www.enterprisetimes.co.uk/wp-content/uploads/2018/11/artificial-intelligence-3382507_1920.jpg"
-        width: 726
-        height: 410
+      - url: "https://imageio.forbes.com/specials-images/imageserve/642b0f04743b6df49adeb166/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Generative AI and sustainability are driving investment in the tourism technology segment, Plug and Play experts tell attendees at ATM 2023"
-    excerpt: "Advances in artificial intelligence are facilitating trip planning for travellers, as well as the automation of refunds, back-office processes and content creation"
-    publishedDateTime: 2023-05-04T09:19:00Z
-    webUrl: "https://www.zawya.com/en/press-release/events-and-conferences/generative-ai-and-sustainability-are-driving-investment-in-the-tourism-technology-segment-plug-and-play-experts-tell-attendees-at-atm-2023-mzstnhb8"
-    ampWebUrl: "https://www.zawya.com/en/press-release/events-and-conferences/generative-ai-and-sustainability-are-driving-investment-in-the-tourism-technology-segment-plug-and-play-experts-tell-attendees-at-atm-2023-mzstnhb8?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/events-and-conferences/generative-ai-and-sustainability-are-driving-investment-in-the-tourism-technology-segment-plug-and-play-experts-tell-attendees-at-atm-2023-mzstnhb8?amp=1"
+  - title: "Centene Makeover Continues As Health Insurer Divests Artificial Intelligence Platform"
+    excerpt: "Centene will divest Apixio, an artificial intelligence platform, as the health insurer focuses on its health benefits business and continues to review its portfolio."
+    publishedDateTime: 2023-05-04T00:01:00Z
+    webUrl: "https://www.forbes.com/sites/brucejapsen/2023/05/03/centene-makeover-continues-as-health-insurer-divests-artificial-intelligence-platform/"
+    ampWebUrl: "https://www.forbes.com/sites/brucejapsen/2023/05/03/centene-makeover-continues-as-health-insurer-divests-artificial-intelligence-platform/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucejapsen/2023/05/03/centene-makeover-continues-as-health-insurer-divests-artificial-intelligence-platform/amp/"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 25
+      name: Forbes
+      domain: forbes.com
+    quality: 82
     images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/Y2I3ZWI2ZmItM2Y5MC00/0/tech-session-1-jpg.jpeg?f=3%3A2"
-        width: 759
-        height: 506
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5dca0d42f5b54ee0b18a87a03661ea94/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 765
         isCached: true
-  - title: "Smartling’s Patent-Pending Technology Enables Breakthroughs in Translation Using AI"
-    excerpt: "Smartling, Inc. today announced the introduction of patent-pending technology that brings human-quality machine translation closer to reality."
-    publishedDateTime: 2023-05-03T17:59:00Z
-    webUrl: "https://slator.com/smartling-patent-pending-technology-enables-breakthroughs-translation-using-ai/"
+  - title: "We need to bring consent to AI"
+    excerpt: "This week's big news is that Geoffrey Hinton, a VP and Engineering Fellow at Google, and a pioneer of deep learning who developed some of the most important techniques at the heart of modern AI, is leaving the company after 10 years. But first, we need to talk about consent in AI."
+    publishedDateTime: 2023-05-02T09:47:00Z
+    webUrl: "https://www.technologyreview.com/2023/05/02/1072556/we-need-to-bring-consent-to-ai/"
+    ampWebUrl: "https://www.technologyreview.com/2023/05/02/1072556/we-need-to-bring-consent-to-ai/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/05/02/1072556/we-need-to-bring-consent-to-ai/amp/"
     type: article
     provider:
-      name: Slator
-      domain: slator.com
-    quality: 13
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/04/opt-out-writing.jpeg?w=3000"
+        width: 3000
+        height: 1688
+        isCached: true
+  - title: "How to Introduce Your Employees to Artificial Intelligence"
+    excerpt: "A.I.' is a booming buzzword, but some team members might be apprehensive about the technology. Here's how to ease its adoption in your workplace."
+    publishedDateTime: 2023-05-01T10:12:00Z
+    webUrl: "https://www.inc.com/sarah-lynch/how-to-introduce-your-employees-to-artificial-intelligence.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 21
+  - title: "Scientists use power of AI to supercharge planetary studies"
+    excerpt: "A new technique for detecting planetary craters that will allow scientists to accurately map the surfaces of planets using different types of data could be used in future space missions."
+    publishedDateTime: 2023-05-01T18:10:00Z
+    webUrl: "https://phys.org/news/2023-05-scientists-power-ai-supercharge-planetary.html"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 17
 
 secured: "Xr9hUOzbyToTevQql7xmOKQ7N6YiS6tzZPQOW5OeXAvm355+NBy2n+bZTzVO4JQfOUqNCQVEGUbOU4+M4ZGeTFQZYxYTbd5dRgQgZgZbiIjX5CispM8E6pWfi9SGAJ7GlYzksmnxe4BzRpSBBtn9h/bihiiTzYxg3/NlOEtov8lzjdC/0c9v+NCu/6jU51q4YTl0Y9h41EYsg+4B6SZlFipWeuW6jfhnL3MvMWLGDWkjPmj4ARaM8vIjVcNtBBsYNHRaY2p7ejwWWWRiCFx6+/r3bRc0iMobrKdFvfy3b7+GHhXZNhiQeyOFityOwg/cwyhNIbXvDkHQecyNM2JAO5WSvjuFMY92DtPMWZpaj208vv9Vy9g3X5qx3BPTarPWuFlxz7MAxTTCTAmBXzMNF2n/kmXSALa2+uAPGr7+g4aOyPPq5n4e03jG4PbDUYEZWN638nmXdbVz/TrWtFfT/rbuVBD9/LZ4ErNCaHRNZKwriHYKwkyw4K/ZsDXVyfc+izjRnQRNyDe4Sf1qynBHMw==;/gwF4cnxRCUBQR0o4kGc1Q=="
 ---

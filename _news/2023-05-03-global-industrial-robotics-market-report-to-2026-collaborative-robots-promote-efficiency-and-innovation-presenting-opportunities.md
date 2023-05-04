@@ -26,6 +26,38 @@ images:
     height: 1043
     isCached: true
 
+related:
+  - title: "Voice User Interface Global Market Report 2023: Rising use of Artificial Intelligence Drives Growth"
+    excerpt: "The \"Voice User Interface Global Market Report 2023\" report has been added to ResearchAndMarkets.com's offering. This report provides strategists, marketers and senior"
+    publishedDateTime: 2023-05-02T21:16:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/05/n32175548/voice-user-interface-global-market-report-2023-rising-use-of-artificial-intelligence-drives-growth"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32175548"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32175548"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 45
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "2023-2031 Machine Learning Recommendation Algorithm Market| Discover the Current Scope in Analytics Industry and Opportunities"
+    excerpt: "The global \"Machine Learning Recommendation Algorithm Market\" report thoroughly analyzed in this Insight Report,"
+    publishedDateTime: 2023-05-03T04:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-2031-machine-learning-recommendation-algorithm-market-discover-the-current-scope-in-analytics-industry-and-opportunities-2023-05-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+
 secured: "sjN3rNQI1H1Y8ykdB4dwjphTQsLJVThAsolYrbrQ9kNsQnHaUH4eKLl1AU1LtJrW7fxaDlwfzpWVNbgtDPnJyELK/OHLr9aZVr8Qd6AUqym3XHvoDopl+BansxVktND1jv5MLoSCMY4l2YPoZO3Hp38Id5g/DqNvCAkoybr6qwuhN6ArwsTwIzhBuVHO7rSARqW+Ywd4n0Jeav4wrzm6Ah7fSalgflF+HoJnoOR1C/meSMyuxz1xfDF0XOk9buKl+g/368xlSOfLlGkSJdVyKhoYJzKfCVcgkpP2jvzMfH8HXAKsFfeQIafrKmNMTQEDx/WPvR1TfNRW6mjjLS87fePruhqnOZLXeVYFyRYs9M0=;KhSJuXQnIp5rLe9Q26kwTA=="
 ---
 

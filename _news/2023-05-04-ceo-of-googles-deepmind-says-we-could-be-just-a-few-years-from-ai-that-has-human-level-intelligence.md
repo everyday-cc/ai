@@ -9,7 +9,7 @@ ampWebUrl: "https://fortune.com/2023/05/03/google-deepmind-ceo-agi-artificial-in
 cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/05/03/google-deepmind-ceo-agi-artificial-intelligence/amp/"
 type: article
 quality: 72
-heat: 123
+heat: 144
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Current language models lightyears away from human-like AI: Early DeepMind investor"
+    excerpt: "We took a big jump, but we’re not at the moon yet,” Sheikh added. He also noted that the large language models (LLM) developed by Microsoft-backed firm OpenAI are lightyears away from artificial general intelligence,"
+    publishedDateTime: 2023-05-04T15:11:00Z
+    webUrl: "https://www.gadgetsnow.com/tech-news/current-language-models-lightyears-away-from-human-like-ai-early-deepmind-investor/articleshow/99993262.cms"
+    ampWebUrl: "https://www.gadgetsnow.com/tech-news/current-language-models-lightyears-away-from-human-like-ai-early-deepmind-investor/amp_articleshow/99993262.cms"
+    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/current-language-models-lightyears-away-from-human-like-ai-early-deepmind-investor/amp_articleshow/99993262.cms"
+    type: article
+    provider:
+      name: Gadgets Now
+      domain: gadgetsnow.com
+    quality: 70
+    images:
+      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-99993262,imgsize-64058,width-800/99993262.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "'We're not at the moon yet': Human-like A.I. is still some way off, early investor in Google's DeepMind says"
     excerpt: "\"In terms of artificial general intelligence, OpenAI, ChatGPT stuff: it's like saying we're going to jump to the moon,\" early DeepMind investor Humayun Sheikh told CNBC. \"We took a big jump, but we're not at the moon yet.\" AGI has often been referred to as ..."
     publishedDateTime: 2023-05-04T11:08:00Z
@@ -46,20 +62,6 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/107217768-1680185818456-gettyimages-1248338437-AFP_33BD9ME.jpeg?v=1683197839"
         width: 3000
         height: 1999
-        isCached: true
-  - title: "DeepMind boss says human-level AI is just a few years away"
-    excerpt: "The head of Google’s artificial intelligence division DeepMind has predicted that human-level AI may be just a few years away. The forecast from Demis Hassabis puts the date for the arrival of artificial general intelligence (AGI) – systems that can ..."
-    publishedDateTime: 2023-05-04T11:56:00Z
-    webUrl: "https://www.independent.co.uk/tech/ai-deepmind-artificial-general-intelligence-b2332322.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 54
-    images:
-      - url: "https://static.independent.co.uk/2023/05/04/10/deepmind%20human%20level%20ai.jpg?quality=75&width=1200&auto=webp"
-        width: 1200
-        height: 900
         isCached: true
   - title: "Google DeepMind CEO claims we’re ‘just a few years away’ from human-like AI"
     excerpt: "According to Demis Hassabis, the CEO of Google DeepMind, AGI “could be just a few years, maybe within a decade away.”"
@@ -84,6 +86,29 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 45
+  - title: "'Few years' away from human-like AI, Google Chief makes startling revelation"
+    excerpt: "Artificial general intelligence (AGI), a machine intelligence that can comprehend the world as humans do, is closer than ever, according to startling revelations by Google's AI lab chief."
+    publishedDateTime: 2023-05-04T14:43:00Z
+    webUrl: "https://interestingengineering.com/culture/human-like-ai-startling-revelations-by-google-chief"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 36
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/05/04/image/jpeg/7mM4Kmb0ibuE2izb5hsPIkwYJVAWxK1tmOIPVLlK.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "DeepMind boss says human-level AI is just a few years away"
+    excerpt: "The head of Google’s artificial intelligence division DeepMind has predicted that human-level AI may be just a few years away. The forecast from Demis Hassabis puts the date for the arrival ofAGI) – systems that can think in similar but superior ways to humans – much earlier than previous predictions."
+    publishedDateTime: 2023-05-04T12:42:00Z
+    webUrl: "https://www.aol.com/news/deepmind-boss-says-human-level-115422614.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 34
   - title: "AI could have ‘human-level’ intelligence in next few years, Google DeepMind CEO says"
     excerpt: "Google DeepMind CEO Demis Hassabis touted rapid gains in the development of so-called “artificial general intelligence,” which he defined as an advanced AI system with “human-level cognitive abilities.”"
     publishedDateTime: 2023-05-03T18:12:00Z

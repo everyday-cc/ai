@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2023/04/30/board-directors-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/04/30/board-directors-and-c-suite-executives-need-an-ai-digital-literacy-jolt/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 425
     isCached: true
+
+related:
+  - title: "Expert.ai Announces Alan Packer Has Joined the Board of Directors"
+    excerpt: "Expert.ai (EXAI:IM), the industry leader in providing AI-powered language solutions to enterprises, today announced that Alan Packer, formerly Director of Engineering for Amazon's Alexa Natural Language Understanding (NLU) team,"
+    publishedDateTime: 2023-05-04T14:23:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-expertai-announces-alan-packer-has-joined-board-directors-/2023/05/04/9807934.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 39
+    images:
+      - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
+        width: 550
+        height: 353
+        isCached: true
 
 secured: "WdGlVdBOFCsKiQz6iQlhB9jWdgLOZxrnxNwFfI5yLFdL3rM35pjmNFGP7cqoF9TgDhKIZ5NjYxmKidCBfwyE+6H/ZfVO/6nF2XxfrqX2GqUCDSguRXLnQ0MU+izC+QjwI17Iqf2ZeYFP4UUHDL+h24NPUssuRq9SKDphlXdgvvEAoM9KjoE39nTC0jMtEJkolrjOjNsUwYMTN8vTYFtjluwViwT+qp5zITymuaciD+quZZ3JFbO3Q2heYcGkJcvEOWGkCaukaS6PsM8mqi5+IIKIKCmJ26uOGok991Zn/iHofHcuZ2wwToRHtc/p0GsjTllVD7yfpeG5Vwds0WtcoAsQJITM8CSuziwMuo1ZZaqD06qCzNIHhqK4Cih6FzkpMmcLOFdaxWH0W3Dhr2be8bI43sBvNyXq36bg//vfjz+pQgf9xj9z8UmPa+89cRdyOA1srjnltEdxdIFmtYYLgEC81PWH9ED0coIO4VQIMXPJ7lgfpeIErr1VSHJRjPeCAO8SuecydhmPHNa5XdTqUg==;vK2VXe1vFDDWOcW9rYBofA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.americanprogress.org/article/white-house-must-take-mor
 webUrl: "https://www.americanprogress.org/article/white-house-must-take-more-action-to-address-ai-concerns/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Smarter-than-humans artificial intelligence is coming fast as business looks for profits"
-    excerpt: "Voices worried about an AI takeover were thin on the ground a few years ago. But despite a recent flood of calls for restraint as the technology improves by leaps and bounds, AI's money-making and defense potential appears irresistible."
-    publishedDateTime: 2023-05-04T08:00:00Z
-    webUrl: "https://www.cbc.ca/news/business/ai-doom-column-don-pittis-1.6829302"
+  - title: "The White House Starts to Address AI Risks with New Initiatives"
+    excerpt: "Executives from Alphabet, Microsoft, OpenAI, and Anthropic will also meet with the Vice President today to discuss the new AI efforts."
+    publishedDateTime: 2023-05-04T15:20:00Z
+    webUrl: "https://gizmodo.com/white-house-announce-ai-initiative-openai-microsoft-1850403559"
     type: article
     provider:
-      name: CBC.ca
-      domain: www.cbc.ca
-    quality: 30
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 67
     images:
-      - url: "https://i.cbc.ca/1.6829334.1683039668!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/tech-ai-hinton.JPG"
-        width: 620
-        height: 349
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/5928f9af47719ca2a1aa839eff736ba9.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "pgmMW1y1EC9IZ8BParkXLwHBM0edYb8iO6PTVBppiGT+eo74ZMSOrLxbLSbjblNwN9wYmw/9oB1x20oKTuO9nL03qJG0AanM3wUVynd6L6Jno0oBGKjly2WMycuQuzigABGBh52MA7xxTjpRe0+4lnXf+knPbVWuP+k7IoimnMXeEsOEhuaOduPyJtQ8NHMV676V/xt9jFPPyhdteScZ1QA9b753cd/UWjyKWeIXcRcf7vUr5n6MydidOrRIHbFrZFulrvXwmo9Sh5yBdR7ep+lHj7ErNZnwPUFqGfCeyaNVndWXHd2wgB+xvtQytQ6xau9ByH71jJhr/rKwTVlDUiK4ZBe35wC3tce20eXeYgw=;Bd68B0DxEcBz13SI7eOBcw=="

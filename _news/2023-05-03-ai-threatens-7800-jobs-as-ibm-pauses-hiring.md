@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-threatens-7800-jobs-as-i
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-threatens-7800-jobs-as-ibm-pauses-hiring/"
 type: article
 quality: 87
-heat: 227
+heat: 237
 published: true
 
 provider:
@@ -229,6 +229,15 @@ related:
     provider:
       name: GDPR fines
       domain: itp.net
+    quality: 19
+  - title: "IBM eyes hiring pause because AI does the job"
+    excerpt: "Non-customer-facing roles may see a 30 percent cut in workforce, replaced by AI and automation, Arvind Krishna said."
+    publishedDateTime: 2023-05-04T12:07:00Z
+    webUrl: "https://www.astroawani.com/berita-english/ibm-eyes-hiring-pause-because-ai-does-job-418087"
+    type: article
+    provider:
+      name: Astro Awani
+      domain: astroawani.com
     quality: 19
 
 secured: "ufyGUM8BlNsbpi3aiqJaPjkIH4WcNtK+Z/wybCAqZrkHBsLdLdLTJlB5K2E0KwN+mzryytkXI8GeL4PHudvVQ6e+A4SHuVXEhZvuTVSSveN7I2DDB3gBI7aFrHveSbFeg7ZVP1K14ihhpAJzCWJH2xwVXBeyDMFR5t059fQNSdoIyELHrY2jRG0LYxdjLN39oJO5V4UfKGct+pnDFys+NYu02YfzJCLUY3Cz+H/2Y3BPahl1R7or8uL5MQ1+D2UexqCotZgrbqPud7X83KmLnmcqjx5hyuclVb8msCGLEmkQUmBVTyrKRgO062efP88RKfmnATBahlKXA8ugZNR16vDl3QDsFKKyiDRfMEr/6mY=;ZXTqw190io6lQH37R/AT0Q=="

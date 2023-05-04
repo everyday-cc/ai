@@ -7,7 +7,7 @@ originalUrl: "https://www.eurogamer.net/apparently-system-shock-dev-used-ai-to-c
 webUrl: "https://www.eurogamer.net/apparently-system-shock-dev-used-ai-to-create-ai-to-start-conversations"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Saturday Conversation: Herbie Hancock On International Jazz Day, What Jazz Means To Him, AI And More"
-    excerpt: "Herbie Hancock is celebrating International Jazz Day (tomorrow, April 30), with an all-star live stream featuring some of the best jazz artists performing all over the world. Hancock agreed to speak about his love of jazz,"
-    publishedDateTime: 2023-04-29T21:33:00Z
-    webUrl: "https://www.forbes.com/sites/stevebaltin/2023/04/29/saturday-conversation-herbie-hancock-on-international-jazz-day-what-jazz-means-to-him-ai-and-more/"
-    ampWebUrl: "https://www.forbes.com/sites/stevebaltin/2023/04/29/saturday-conversation-herbie-hancock-on-international-jazz-day-what-jazz-means-to-him-ai-and-more/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevebaltin/2023/04/29/saturday-conversation-herbie-hancock-on-international-jazz-day-what-jazz-means-to-him-ai-and-more/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 72
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/644d8b50ba733e9b9dad4714/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-
-secured: "vi82F2XSqhVyCMQajeIkxEEz5ZTht/zxHcrPSXhacR3YuwzFEri1LkMUT9mu2NtXn+i2AWq7SiGfxhLaN/4BPA/qLcoQYjpVkumAskcxGdQ7o+5MoPMhAQ6uIWYV6e3chSxBG5sdx1q5Bdy651AwFoOG1p+0qda+bsBuoqGx3em+wbPtHTllQz0qvZTu+42HuEHCHNsPyUVkDf3Ph0r0VoMQASZI4nDIvUs9i3ghEOpEknwJZgy7ThQQoVh5zIE2fII19hy3cotQacHcY8/HK78yUtnDUxKE/GrSNPWXQfQsy2hycTW5USNghTu7sWT6GSowsB5QZuHXmZhDurdTKVPQP1bjaLi8ZWTRApQ4bWA=;4EwOiK9LMnzA2PCZrX0Gng=="
+secured: "AP4yo5TPHidDSq6vf95tVIvbeOXONnOMh1jd1/RM7+3HjGfRj2fgdTwaafIK3v+0GE5HRXbDdINfSenyEz08sdr8dDu9d5Z9k+RGMtak91+3/t80VxaNliSnPDffxjFEaG14+5nzfF4gWsdypO7hsuiS/XkBVC44MxRMIhNPtH/5w71yDAotwV2ycWZocYsR7RQY3E20dUjvpq7c+Pq+GoL0++XZ7pzSr/pdCyryfCKvELV87wbElJpQIc6WxjyN9M8JrnHha7qllQtcSxpvCQ5zT2lPTgBc35CmhGgQJa1C8LwT8aP0FsA0hDa6ffCkVRVsIFwVzHppupgffFY6n5GwqPnJ+TiHR3LWQBWQC6ZYpWcQlVVUwTMpv03KUsF37j3xp45czUQIQlNSvLkSc50OA+fthF1bgFYrRu/yOY5GMp8Xk7Q59OvsTlYgD6jZo5t5oVlntRLtiMQr7eUuoB1tzFHXBBBGOWpJbloF1IbtcwKZnFb6JAws++1NLNNa3wQ63pmk2rinDnO3FNvLXQ==;D37oNSZu9QMA0BPVO5WLGw=="
 ---
 
