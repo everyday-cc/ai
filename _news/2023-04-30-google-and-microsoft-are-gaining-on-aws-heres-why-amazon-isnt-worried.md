@@ -7,8 +7,8 @@ originalUrl: "https://moneymorning.com/investing/google-and-microsoft-are-gainin
 webUrl: "https://moneymorning.com/investing/google-and-microsoft-are-gaining-on-aws-heres-why-amazon-isnt-worried/"
 type: article
 quality: 70
-heat: 90
-published: true
+heat: -1
+published: false
 
 provider:
   name: Money Morning
@@ -26,6 +26,96 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft launches new features for its AI-powered Bing and Edge"
+    excerpt: "Microsoft announced a major expansion of its artificial intelligence-based search tools today, opening up new features that allow visual and multimodal searches as well as persistent chat tools. The updates significantly expand the capabilities of Bing,"
+    publishedDateTime: 2023-05-04T06:59:00Z
+    webUrl: "https://venturebeat.com/ai/microsoft-launches-new-features-for-its-ai-powered-bing-and-edge/"
+    ampWebUrl: "https://venturebeat.com/ai/microsoft-launches-new-features-for-its-ai-powered-bing-and-edge/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/microsoft-launches-new-features-for-its-ai-powered-bing-and-edge/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/05/HeroImage_16x9_8K.jpg?fit=800%2C450&strip=all"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Microsoft opens up its AI-powered Bing to all users"
+    excerpt: "Nearly three months after the company debuted a limited preview version of its new Bing, powered by the viral AI chatbot ChatGPT, Microsoft is opening it up to all users without a waitlist – as long as they’re signed into the search engine via Microsoft’s Edge browser."
+    publishedDateTime: 2023-05-04T07:01:00Z
+    webUrl: "https://www.cnn.com/2023/05/04/tech/microsoft-bing-updates/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2023/05/04/tech/microsoft-bing-updates/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/05/04/tech/microsoft-bing-updates/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 104
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/230503170645-microsoft-bing-ai-052023-super-tease.jpeg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "CallMiner Collaborates with Microsoft to Enhance AI and Machine Learning Capabilities"
+    excerpt: "CallMiner, a leading provider of conversation intelligence to drive business performance improvement, today announced"
+    publishedDateTime: 2023-05-03T12:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/callminer-collaborates-with-microsoft-to-enhance-ai-and-machine-learning-capabilities-2023-05-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 94
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "The new AI-powered Bing is now open to everyone - with some serious upgrades"
+    excerpt: "Microsoft just made the new Bing available to all and unveiled new features that you will want to try out for yourself."
+    publishedDateTime: 2023-05-04T06:59:00Z
+    webUrl: "https://www.zdnet.com/article/bings-ai-powered-search-engine-is-now-open-to-everyone-with-some-serious-upgrades/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/bings-ai-powered-search-engine-is-now-open-to-everyone-with-some-serious-upgrades/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/bings-ai-powered-search-engine-is-now-open-to-everyone-with-some-serious-upgrades/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 84
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/ae622570e582fe0a96fd327e4fc9a1568a6e55ad/2023/05/03/db1dd215-0cb0-424a-95e3-9ec44538759a/bing-chat.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "InnovationRx: The FDA OKs The First RSV Vaccine; Microsoft’s AI Play For Doctors"
+    excerpt: "InnovationRx is your weekly digest of healthcare news. To get it in your inbox, subscribe here."
+    publishedDateTime: 2023-05-03T22:15:00Z
+    webUrl: "https://www.forbes.com/sites/katiejennings/2023/05/03/innovationrx-the-fda-oks-the-first-rsv-vaccine-microsofts-ai-play-for-doctors/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 79
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6452d6708bb19866029c02fa/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Here’s what’s missing from Microsoft’s Responsible AI program: An ethics team"
+    excerpt: "While Microsoft expresses interest in responsible AI, it is worth noting that they fired their entire AI ethics team in March 2023."
+    publishedDateTime: 2023-05-03T09:38:00Z
+    webUrl: "https://www.medianama.com/2023/05/223-microsoft-responsible-ai-program-no-ethics-team/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 68
+    images:
+      - url: "https://www.medianama.com/wp-content/uploads/2023/05/christina-wocintechchat-com-F75IfIWSqRY-unsplash-scaled.jpg"
+        width: 2560
+        height: 1709
+        isCached: true
   - title: "Microsoft will help the Google of China take its self-driving car platform global"
     excerpt: "The biggest stories of the day delivered to your inbox."
     publishedDateTime: 2023-04-30T23:59:00Z
@@ -40,6 +130,76 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Aisera Collaborates with Microsoft to Provide AI Enterprise Service Experiences with ChatGPT and Generative AI"
+    excerpt: "Aisera Collaborates with Microsoft to Provide AI Enterprise Service Experiences with ChatGPT and Generative AI May 03, 2023 (PRNewswire via COMTEX) --"
+    publishedDateTime: 2023-05-03T12:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/aisera-collaborates-with-microsoft-to-provide-ai-enterprise-service-experiences-with-chatgpt-and-generative-ai-2023-05-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Google, Microsoft, Amazon, & Meta put AI on steroids while cutting jobs"
+    excerpt: "The IT behemoths Alphabet, Microsoft, Amazon, and Meta are increasing their large language model (LLM) investments as a show of their dedication to utilizing the power of artificial intelligence (AI) while cutting costs and jobs."
+    publishedDateTime: 2023-04-29T15:51:00Z
+    webUrl: "https://interestingengineering.com/innovation/google-microsoft-amazon-meta-ai"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 56
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/04/29/image/jpeg/CansC0Fg86ivCNtL2I5csadyaajvjydZxqrQjzeV.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Microsoft reportedly developing privacy-focused ChatGPT for healthcare"
+    excerpt: "Microsoft is reportedly developing a privacy-focused version of ChatGPT for healthcare providers, according to a May 3 TechRadar story."
+    publishedDateTime: 2023-05-03T21:45:00Z
+    webUrl: "https://www.beckershospitalreview.com/disruptors/microsoft-reportedly-developing-privacy-focused-chatgpt-for-healthcare.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 56
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Microsoft Earnings Takeaways: Cloud, Generative AI, The Path To E7"
+    excerpt: "Analyst reports point to the potential for Azure deceleration slowing, an end to customers optimizing cloud spend and the sales potential of generative AI. Better-than-expected results from Microsoft’s latest earnings—not to mention those of cloud rivals Google and Amazon Web Services—led to a mix of analyst reports hopeful for Azure deceleration slowing,"
+    publishedDateTime: 2023-05-01T14:20:00Z
+    webUrl: "https://www.crn.com/news/cloud/microsoft-earnings-takeaways-cloud-generative-ai-the-path-to-e7"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 54
+    images:
+      - url: "https://www.crn.com/resources/027d-17198c0bb2a2-47b52df5a838-1000/nadella-intro2.jpeg"
+        width: 610
+        height: 457
+        isCached: true
+  - title: "Microsoft Planning Privacy-Focused Version of ChatGPT as Apple AI Efforts Flounder"
+    excerpt: "Microsoft is planning to launch a privacy-focused version of ChatGPT amid Apple's apparent lack of grip on emerging AI technologies,"
+    publishedDateTime: 2023-05-02T14:11:00Z
+    webUrl: "https://www.macrumors.com/2023/05/02/microsoft-planning-private-version-of-chatgpt/"
+    type: article
+    provider:
+      name: MacRumors
+      domain: macrumors.com
+    quality: 48
+    images:
+      - url: "https://images.macrumors.com/t/01PJDK4giliGBSuyRJCCe_GrZqY=/2500x/article-new/2021/05/Apple-vs-Microsoft-feature.jpg"
+        width: 2500
+        height: 1406
+        isCached: true
   - title: "Microsoft's chief scientific officer says there's no need for a pause on AI — despite what Elon Musk says"
     excerpt: "Thousands of people, including Elon Musk and AI experts, signed an open letter seeking a 6-month pause on AI development amid ChatGPT's popularity."
     publishedDateTime: 2023-05-02T18:23:00Z
@@ -49,6 +209,48 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
+  - title: "Visionify.Ai Secures Microsoft Co-Sell Ready Status For Visionai Workplace Safety Toolkit"
+    excerpt: "Visionify achieves Microsoft co-sell ready status for Vision AI Workplace Safety Toolkit Visionify.ai can now present their advanced Visi"
+    publishedDateTime: 2023-04-29T17:49:00Z
+    webUrl: "https://menafn.com/1106138384/VisionifyAi-Secures-Microsoft-Co-Sell-Ready-Status-For-Visionai-Workplace-Safety-Toolkit"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 45
+    images:
+      - url: "https://menafn.com/updates/pr/2023-04/29/EP_03358image_story.png"
+        width: 600
+        height: 314
+        isCached: true
+  - title: "Private ChatGPT? Microsoft to offer AI alternative for businesses with sensitive information"
+    excerpt: "Microsoft plans to address data privacy concerns of large firms that hold sensitive information and have large regulatory costs for leaks with its new offering."
+    publishedDateTime: 2023-05-03T09:55:00Z
+    webUrl: "https://interestingengineering.com/innovation/private-chatgpt-alternative-microsoft"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 43
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/05/03/image/jpeg/3PScUnRYvnd3RphoGb0FtFuP8cH4wCOUj66eRN9Q.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "'Adversaries harnessing AI as weapon': Microsoft's chief scientist favors to guide not pause the use of AI"
+    excerpt: "Microsoft's Chief Scientific Officer, Eric Horvitz, has expressed worries and potential about using artificial intelligence (AI) in a new interview."
+    publishedDateTime: 2023-05-03T15:55:00Z
+    webUrl: "https://interestingengineering.com/culture/microsofts-cheif-scientist-favors-to-guide-not-pause-ai"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 38
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/05/03/image/jpeg/SUksc4exkYBxDhHjno0MwJ2DjYMMjUNJPbynKmtn.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "6I3ofnseRfGBk06gkpbbu2svorP+NAGM4MAlLJZl+fyOtP40cgWpYSJnWQp5r/o8bujMzg0hw5jw0oovKBhQKCk3hTKI+Km3J+3bbdjCuthzSGWn5jK+YAQzgUR7rZbTc4cYLqJiANJEISa7GX+3xgikGPu2dR/mk8LofuhKM2IIxvJulXi1sZXo+IdbVi/vRlUMCXIhtw3KNvwdomRXpM8PtAm/SyIKFgAipiTExRIB8NBE8XJhybmBkppMCRQTK/gfNZIWFvun28bsuaWCNgjD8UBRZEIi43XNfVs5oI1X6wR5KSy4n7JO71nfMRRmezAutw91T/DIjdubTKMJIPLgDENS+VTULEE/oto1ifU=;9GdeuwgNanhjWnLS5fzHFw=="
 ---

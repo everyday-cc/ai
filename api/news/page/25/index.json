@@ -2,6 +2,93 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2023-04-17-ai-terminologies-101-understanding-the-basics-of-deep-learning.md",
+      "title": "AI Terminologies 101: Understanding the Basics of Deep Learning",
+      "excerpt": "Deep Learning is a type of artificial intelligence (AI) that uses neural networks with multiple layers to learn and extract increasingly complex features from data. Deep Learning is the foundation ...",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2023/04/ai-terminologies-101-deep-learning",
+      "originalUrl": "https://yourstory.com/2023/04/ai-terminologies-101-deep-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-17T06:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-17-aporia-partners-with-aws-to-provide-ml-observability-to-aws-customers.md",
+      "title": "Aporia partners with AWS to provide ML Observability to AWS customers",
+      "excerpt": "Aporia partners with AWS to provide ML Observability to AWS customers Apr 17, 2023 (PRNewswire via COMTEX) -- PR Newswire TEL AVIV, Israel, April 17,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/aporia-partners-with-aws-to-provide-ml-observability-to-aws-customers-2023-04-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/aporia-partners-with-aws-to-provide-ml-observability-to-aws-customers-2023-04-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-17T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-04-17-ai-demystified-making-sense-of-artificial-intelligence-for-your-business.md",
       "title": "AI Demystified: Making Sense Of Artificial Intelligence For Your Business",
       "excerpt": "If you want an AI implementation now, turn your attention to narrow AI. Think about tasks that are manual, repetitive and structured.",
@@ -1112,94 +1199,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-17-is-artificial-intelligence-advancing-too-quickly-what-ai-leaders-at-google-say.md",
-      "title": "Is artificial intelligence advancing too quickly? What AI leaders at Google say",
-      "excerpt": "The soccer robots, for example, can't write up a grocery list or book your travel or drive your car. The ultimate goal is what's called artificial general intelligence-- a learning machine that can score on a wide range of talents. Scott Pelley ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/google-artificial-intelligence-future-60-minutes-transcript-2023-04-16/",
-      "originalUrl": "https://www.cbsnews.com/news/google-artificial-intelligence-future-60-minutes-transcript-2023-04-16/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/04/16/4c75adeb-ca12-426e-bd12-3a5adde32f2c/thumbnail/1200x630/559f05684316f5e602fd713fd06081c9/hadsell-1.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/google-artificial-intelligence-future-60-minutes-transcript-2023-04-16/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/google-artificial-intelligence-future-60-minutes-transcript-2023-04-16/",
-      "publishedDateTime": "2023-04-16T16:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Natural Language Processing",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-04-17-ai-could-have-a-14-trillion-impact-by-2030-here-are-3-top-stocks-to-buy-now.md",
-      "title": "AI Could Have a $14 Trillion Impact by 2030: Here Are 3 Top Stocks to Buy Now",
-      "excerpt": "Artificial intelligence has been all the rage lately, capturing the imagination of consumers and investors alike. Ark Invest estimates the opportunity from AI at $14 trillion by 2030. Palantir ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/04/16/ai-trillion-dollar-impact-2030-top-stocks-buy/",
-      "originalUrl": "https://www.fool.com/investing/2023/04/16/ai-trillion-dollar-impact-2030-top-stocks-buy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-16T13:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

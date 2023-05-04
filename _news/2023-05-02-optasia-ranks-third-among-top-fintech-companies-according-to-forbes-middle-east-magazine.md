@@ -106,6 +106,20 @@ related:
         width: 1600
         height: 800
         isCached: true
+  - title: "GMEX launches climate fintech Zero13"
+    excerpt: "GMEX Group Limited (“GMEX”), a leader in digital business and technology solutions for capital, commodities and sustainability markets, announces the launch of ZERO13, a climate fintech."
+    publishedDateTime: 2023-05-04T06:34:00Z
+    webUrl: "https://www.finextra.com/pressarticle/96699/gmex-launches-climate-fintech-zero13"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
   - title: "These 8 Australian fintech Companies Will Hit the Stage at Demo Day This Month"
     excerpt: "Over the last three years, we’ve introduced you to over 30 Australian fintech startups with the help of the Australian Trade and Investment Commission (Austrade) in New York. Au"
     publishedDateTime: 2023-05-02T14:20:00Z
@@ -129,6 +143,20 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 15
+    images:
+      - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
+        width: 550
+        height: 353
+        isCached: true
+  - title: "IIT Kanpur's eMasters degree program in Financial Technology and Management to groom FinTech experts"
+    excerpt: "Some estimates suggest that the global FinTech market is expected to reach a market value of approximately $324 billion by 2026. Another recent report suggests that India's digital payments market is expected to triple from $3 trillion to $10 trillion by 2026,"
+    publishedDateTime: 2023-05-04T07:32:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/05/04/9807460.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 9
     images:
       - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
         width: 550

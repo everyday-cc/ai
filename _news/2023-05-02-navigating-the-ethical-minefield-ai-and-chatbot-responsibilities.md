@@ -280,20 +280,6 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 49
-  - title: "Microsoft Planning Privacy-Focused Version of ChatGPT as Apple AI Efforts Flounder"
-    excerpt: "Microsoft is planning to launch a privacy-focused version of ChatGPT amid Apple's apparent lack of grip on emerging AI technologies,"
-    publishedDateTime: 2023-05-02T14:11:00Z
-    webUrl: "https://www.macrumors.com/2023/05/02/microsoft-planning-private-version-of-chatgpt/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 48
-    images:
-      - url: "https://images.macrumors.com/t/01PJDK4giliGBSuyRJCCe_GrZqY=/2500x/article-new/2021/05/Apple-vs-Microsoft-feature.jpg"
-        width: 2500
-        height: 1406
-        isCached: true
   - title: "Reid Hoffman's new AI startup Inflection launches ChatGPT-like chatbot"
     excerpt: "REUTERS/Brendan McDermid/File Photo May 2 (Reuters) - Inflection AI, the AI startup founded by LinkedIn co-founder Reid Hoffman and former Deepmind (GOOGL.O) researcher Mustafa Suleyman, has released its first AI chatbot product, the company said on Tuesday."
     publishedDateTime: 2023-05-02T18:08:00Z

@@ -2,6 +2,100 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-04-28-new-electric-car-offers-worlds-first-facial-recognition-and-fingerprint-technology.md",
+      "title": "New electric car offers world's first facial recognition and fingerprint technology",
+      "excerpt": "The world's first application of facial recognition technology has been unveiled, with one electric car removing the need for a key altogether.",
+      "sourceUrl": null,
+      "webUrl": "https://www.express.co.uk/life-style/cars/1763884/electric-car-facial-recognition-genesis",
+      "originalUrl": "https://www.express.co.uk/life-style/cars/1763884/electric-car-facial-recognition-genesis",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.images.express.co.uk/img/dynamic/24/590x/secondary/electric-car-facial-recognition-genesis-4718602.jpg?r=1682671687005",
+          "width": 590,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.express.co.uk/life-style/cars/1763884/electric-car-facial-recognition-genesis/amp",
+      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/cars/1763884/electric-car-facial-recognition-genesis/amp",
+      "publishedDateTime": "2023-04-28T01:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Express",
+        "domain": "express.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-28-the-ai-frontier-exploring-the-integration-of-artificial-intelligence-in-seo-strategies.md",
+      "title": "The AI Frontier: Exploring The Integration Of Artificial Intelligence In SEO Strategies",
+      "excerpt": "The digital marketing landscape is evolving rapidly, and the integration of artificial intelligence (AI) in SEO strategies is one of the driving forces behind this change. To get an insider’s perspective on how AI is transforming the SEO industry and how businesses can leverage this technology,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/the-ai-frontier-exploring-the-integration-of-artificial-intelligence-in-seo-strategies-2023-04-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/the-ai-frontier-exploring-the-integration-of-artificial-intelligence-in-seo-strategies-2023-04-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-28T00:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-28-microsofts-ai-will-now-help-you-design-your-instagram-posts-in-seconds.md",
       "title": "Microsoft's AI will now help you design your Instagram posts in seconds",
       "excerpt": "Microsoft Designer is now available to try out in preview for free. It uses AI-based text-to-image generation to create social media posts.",
@@ -484,40 +578,6 @@
       ]
     },
     {
-      "path": "_news/2023-04-28-embedded-vision-summit-announces-full-conference-program-for-edge-ai-and-computer-vision-innovators-may-22-24-in-santa-clara-california.md",
-      "title": "Embedded Vision Summit® Announces Full Conference Program for Edge AI and Computer Vision Innovators, May 22-24 in Santa Clara, California",
-      "excerpt": "The premier conference and tradeshow for practical, deployable computer vision and edge AI, the Summit focuses on empowering product creators to bring perceptual intelligence to products.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-journal.com/embedded-vision-summit-announces-full-conference-program-for-edge-ai-and-computer-vision-innovators-may/article_c1e20f7d-3f5b-58b4-a4cd-4c3c9b367e3d.html",
-      "originalUrl": "https://www.news-journal.com/embedded-vision-summit-announces-full-conference-program-for-edge-ai-and-computer-vision-innovators-may/article_c1e20f7d-3f5b-58b4-a4cd-4c3c9b367e3d.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T14:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Longview News-Journal",
-        "domain": "news-journal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-28-this-week-in-xr-katami-scores-22-million-for-3d-remote-work-platform-ai-spikes-cloud-demand.md",
       "title": "This Week In XR: Katami Scores $22 Million For 3D Remote Work Platform, AI Spikes Cloud Demand",
       "excerpt": "This Week in XR is also a podcast hosted by the author of this column, Ted Schilowitz, Futurist, Paramount Global, and Rony Abovitz, founder of Magic Leap. This week our guest is Anand Agarawala, CEO and co-founder of Spatial. We can be found on Spotify, iTunes, and YouTube.",
@@ -565,6 +625,40 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-28-embedded-vision-summit-announces-full-conference-program-for-edge-ai-and-computer-vision-innovators-may-22-24-in-santa-clara-california.md",
+      "title": "Embedded Vision Summit® Announces Full Conference Program for Edge AI and Computer Vision Innovators, May 22-24 in Santa Clara, California",
+      "excerpt": "The premier conference and tradeshow for practical, deployable computer vision and edge AI, the Summit focuses on empowering product creators to bring perceptual intelligence to products.",
+      "sourceUrl": null,
+      "webUrl": "https://www.victoriaadvocate.com/embedded-vision-summit-announces-full-conference-program-for-edge-ai-and-computer-vision-innovators-may/article_e7b9106c-1cc6-555d-ae71-eba1256159b3.html",
+      "originalUrl": "https://www.victoriaadvocate.com/embedded-vision-summit-announces-full-conference-program-for-edge-ai-and-computer-vision-innovators-may/article_e7b9106c-1cc6-555d-ae71-eba1256159b3.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-27T14:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Victoria Advocate",
+        "domain": "victoriaadvocate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -1101,99 +1195,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-nsa-cybersecurity-director-says-buckle-up-for-generative-ai.md",
-      "title": "NSA Cybersecurity Director Says ‘Buckle Up’ for Generative AI",
-      "excerpt": "The security issues raised by ChatGPT and similar tech are just beginning to emerge, but Rob Joyce says it’s time to prepare for what comes next.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/nsa-rob-joyce-chatgpt-security/",
-      "originalUrl": "https://www.wired.com/story/nsa-rob-joyce-chatgpt-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/644a7dfee416fd283a85c162/master/pass/nsa_sec_GettyImages-1059275390.jpg",
-          "width": 2400,
-          "height": 1800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/nsa-rob-joyce-chatgpt-security/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/nsa-rob-joyce-chatgpt-security/amp",
-      "publishedDateTime": "2023-04-27T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-researchers-use-ai-to-innovate-insect-discovery.md",
-      "title": "Researchers use AI to innovate insect discovery",
-      "excerpt": "A team of researchers at the IUPUI School of Science have developed an innovative use of Artificial Intelligence to discover new species of insects.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-04-ai-insect-discovery.html",
-      "originalUrl": "https://phys.org/news/2023-04-ai-insect-discovery.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/school-of-science-rese.jpg",
-          "width": 2137,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-04-ai-insect-discovery.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-04-ai-insect-discovery.amp",
-      "publishedDateTime": "2023-04-27T09:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

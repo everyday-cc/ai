@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/nippon-life-selects-h2oa
 webUrl: "https://www.marketwatch.com/press-release/nippon-life-selects-h2oai-to-transform-its-insurance-business-with-machine-learning-and-improve-customer-health-2023-05-03"
 type: article
 quality: 65
-heat: -1
-published: false
+heat: 75
+published: true
 
 provider:
   name: MarketWatch
@@ -30,89 +30,19 @@ images:
     isCached: true
 
 related:
-  - title: "CallMiner Collaborates with Microsoft to Enhance AI and Machine Learning Capabilities"
-    excerpt: "CallMiner, a leading provider of conversation intelligence to drive business performance improvement, today announced"
-    publishedDateTime: 2023-05-03T12:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/callminer-collaborates-with-microsoft-to-enhance-ai-and-machine-learning-capabilities-2023-05-03"
+  - title: "Business Transformations in 2023 with Artificial Intelligence"
+    excerpt: "Conversational dialogues between humans and ChatGPT are mimicked by OpenAI. Industries anticipate it will be used more widely as an office assistant"
+    publishedDateTime: 2023-05-02T09:48:00Z
+    webUrl: "https://www.cioapplications.com/news/business-transformations-in-2023-with-artificial-intelligence-nid-10608.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 94
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 37
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Here’s what’s missing from Microsoft’s Responsible AI program: An ethics team"
-    excerpt: "While Microsoft expresses interest in responsible AI, it is worth noting that they fired their entire AI ethics team in March 2023."
-    publishedDateTime: 2023-05-03T09:38:00Z
-    webUrl: "https://www.medianama.com/2023/05/223-microsoft-responsible-ai-program-no-ethics-team/"
-    type: article
-    provider:
-      name: MediaNama
-      domain: medianama.com
-    quality: 68
-    images:
-      - url: "https://www.medianama.com/wp-content/uploads/2023/05/christina-wocintechchat-com-F75IfIWSqRY-unsplash-scaled.jpg"
-        width: 2560
-        height: 1709
-        isCached: true
-  - title: "Aisera Collaborates with Microsoft to Provide AI Enterprise Service Experiences with ChatGPT and Generative AI"
-    excerpt: "Aisera Collaborates with Microsoft to Provide AI Enterprise Service Experiences with ChatGPT and Generative AI May 03, 2023 (PRNewswire via COMTEX) --"
-    publishedDateTime: 2023-05-03T12:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/aisera-collaborates-with-microsoft-to-provide-ai-enterprise-service-experiences-with-chatgpt-and-generative-ai-2023-05-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Google, Microsoft, Amazon, & Meta put AI on steroids while cutting jobs"
-    excerpt: "The IT behemoths Alphabet, Microsoft, Amazon, and Meta are increasing their large language model (LLM) investments as a show of their dedication to utilizing the power of artificial intelligence (AI) while cutting costs and jobs."
-    publishedDateTime: 2023-04-29T15:51:00Z
-    webUrl: "https://interestingengineering.com/innovation/google-microsoft-amazon-meta-ai"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 56
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/04/29/image/jpeg/CansC0Fg86ivCNtL2I5csadyaajvjydZxqrQjzeV.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Microsoft Earnings Takeaways: Cloud, Generative AI, The Path To E7"
-    excerpt: "Analyst reports point to the potential for Azure deceleration slowing, an end to customers optimizing cloud spend and the sales potential of generative AI. Better-than-expected results from Microsoft’s latest earnings—not to mention those of cloud rivals Google and Amazon Web Services—led to a mix of analyst reports hopeful for Azure deceleration slowing,"
-    publishedDateTime: 2023-05-01T14:20:00Z
-    webUrl: "https://www.crn.com/news/cloud/microsoft-earnings-takeaways-cloud-generative-ai-the-path-to-e7"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 54
-    images:
-      - url: "https://www.crn.com/resources/027d-17198c0bb2a2-47b52df5a838-1000/nadella-intro2.jpeg"
-        width: 610
-        height: 457
-        isCached: true
-  - title: "Private ChatGPT? Microsoft to offer AI alternative for businesses with sensitive information"
-    excerpt: "Microsoft plans to address data privacy concerns of large firms that hold sensitive information and have large regulatory costs for leaks with its new offering."
-    publishedDateTime: 2023-05-03T09:55:00Z
-    webUrl: "https://interestingengineering.com/innovation/private-chatgpt-alternative-microsoft"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 43
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/05/03/image/jpeg/3PScUnRYvnd3RphoGb0FtFuP8cH4wCOUj66eRN9Q.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://www.cioapplications.com/newstransfer/upload/w7t62cioapp450-308.jpg"
+        width: 450
+        height: 308
         isCached: true
 
 secured: "Dj8Kyj4inmIr/u1dPrPgDcaM9ZyULnNJYcKrOxQDtqCvBxHCRq963fW6TmVN6N2SMqTrUya0g3VIoS91MUSrEvcTJiWyfOZsm+h3sUsrTpAwLm/3mthSf9vSJW5C8i1j05H9ixKEETJCcJIOOAbOD2jqU2+KYATFuycrwZSXNhXu3XYLWNE0QCxEo9xY/RarGSXL4EqEY3Iw4vz2JwCgs1z7Sxy8+oCp+wmepkdT80NHXX4uddRhyPCHDBvPIjJ0FtQ3n8AEaYd6JgXOHygaBf0+ARRD7ZuTDsagUqoXAYx9yDsl2U3RRSHgLyqyBiYknCcVIDUs6BrgogZZiPgHvQubIkvfiytO+JI3Gw7uDd8=;al7/37ynsED3BkOJXZbmdg=="

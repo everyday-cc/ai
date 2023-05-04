@@ -2,6 +2,99 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-04-27-nsa-cybersecurity-director-says-buckle-up-for-generative-ai.md",
+      "title": "NSA Cybersecurity Director Says ‘Buckle Up’ for Generative AI",
+      "excerpt": "The security issues raised by ChatGPT and similar tech are just beginning to emerge, but Rob Joyce says it’s time to prepare for what comes next.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/nsa-rob-joyce-chatgpt-security/",
+      "originalUrl": "https://www.wired.com/story/nsa-rob-joyce-chatgpt-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/644a7dfee416fd283a85c162/master/pass/nsa_sec_GettyImages-1059275390.jpg",
+          "width": 2400,
+          "height": 1800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/nsa-rob-joyce-chatgpt-security/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/nsa-rob-joyce-chatgpt-security/amp",
+      "publishedDateTime": "2023-04-27T09:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-27-researchers-use-ai-to-innovate-insect-discovery.md",
+      "title": "Researchers use AI to innovate insect discovery",
+      "excerpt": "A team of researchers at the IUPUI School of Science have developed an innovative use of Artificial Intelligence to discover new species of insects.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-04-ai-insect-discovery.html",
+      "originalUrl": "https://phys.org/news/2023-04-ai-insect-discovery.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/school-of-science-rese.jpg",
+          "width": 2137,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-04-ai-insect-discovery.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-04-ai-insect-discovery.amp",
+      "publishedDateTime": "2023-04-27T09:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-27-mark-zuckerberg-said-the-word-ai-no-less-than-27-times-during-a-meta-earnings-call-this-week.md",
       "title": "Mark Zuckerberg said the word 'AI' no less than 27 times during a Meta earnings call this week",
       "excerpt": "Mark Zuckerberg wants everyone to know Meta is also interested in AI. Overall, the word \"AI\" was used 57 times on the earnings call.",
@@ -1137,91 +1230,6 @@
         "AI Hardware",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-i-rode-in-a-waymo-self-driving-taxi-with-no-driver-and-it-was-a-smooth-and-safe-ride-despite-my-initial-fears.md",
-      "title": "I rode in a Waymo self-driving taxi with no driver and it was a smooth and safe ride, despite my initial fears",
-      "excerpt": "An curved arrow pointing right. Autonomous driving company Waymo — formerly known as the Google self-driving car project — has launched a fleet of vehicles in Phoenix and San Francisco.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/rode-self-driving-waymo-car-phoenix-and-wasnt-scary-review-2023-4",
-      "originalUrl": "https://www.businessinsider.com/rode-self-driving-waymo-car-phoenix-and-wasnt-scary-review-2023-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T05:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-how-erp-is-breaking-down-silos-and-driving-sustainable-change.md",
-      "title": "How ERP is breaking down silos and driving sustainable change",
-      "excerpt": "While many organizations have established environmental, social and governance (ESG) goals and made ESG commitments, driven by purpose and emerging regulatory requirements, they face several challenges when making the transition from ambition to action. A recent IBM study found that global executives",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/how-erp-is-breaking-down-silos-and-driving-sustainable-change/",
-      "originalUrl": "https://www.ibm.com/blog/how-erp-is-breaking-down-silos-and-driving-sustainable-change/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

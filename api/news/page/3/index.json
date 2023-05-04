@@ -2,6 +2,109 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-05-03-apple-co-founder-criticizes-elon-musk-for-failing-to-deliver-on-self-driving-car-promises.md",
+      "title": "Apple Co-Founder Criticizes Elon Musk For Failing To Deliver On Self-Driving Car Promises",
+      "excerpt": "Steve Wozniak, the co-founder of Apple, was asked what he thought of Elon Musk on Tuesday during an appearance on CNN. And the hosts seemed genuinely surprised at the response—which wasn’t very flattering of the billionaire Tesla CEO.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/mattnovak/2023/05/02/apple-co-founder-criticizes-elon-musk-for-failing-to-deliver-on-self-driving-car-promises/",
+      "originalUrl": "https://www.forbes.com/sites/mattnovak/2023/05/02/apple-co-founder-criticizes-elon-musk-for-failing-to-deliver-on-self-driving-car-promises/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64513883a6bb46794b46d6f2/0x0.jpg?format=jpg&crop=3216,1808,x0,y123,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/mattnovak/2023/05/02/apple-co-founder-criticizes-elon-musk-for-failing-to-deliver-on-self-driving-car-promises/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattnovak/2023/05/02/apple-co-founder-criticizes-elon-musk-for-failing-to-deliver-on-self-driving-car-promises/amp/",
+      "publishedDateTime": "2023-05-02T10:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-03-new-chemix-ai-based-ev-battery-development-reduces-or-eliminates-cobalt.md",
+      "title": "New Chemix AI-Based EV Battery Development Reduces Or Eliminates Cobalt",
+      "excerpt": "Tech startup Chemix has unveiled an artificial intelligence-based platform for developing EV batteries much faster and require little to no scarce minerals such as cobalt or nickel.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/edgarsten/2023/05/02/new-chemix-ai-based-ev-battery-development-reduces-or-eliminates-cobalt/",
+      "originalUrl": "https://www.forbes.com/sites/edgarsten/2023/05/02/new-chemix-ai-based-ev-battery-development-reduces-or-eliminates-cobalt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64500e643f9eca9f34961e4d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/edgarsten/2023/05/02/new-chemix-ai-based-ev-battery-development-reduces-or-eliminates-cobalt/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/edgarsten/2023/05/02/new-chemix-ai-based-ev-battery-development-reduces-or-eliminates-cobalt/amp/",
+      "publishedDateTime": "2023-05-02T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-03-nvidias-20-siggraph-papers-highlight-generative-ai-3d-characters-and-hair.md",
       "title": "Nvidia’s 20 Siggraph papers highlight generative AI, 3D characters and hair",
       "excerpt": "Nvidia Graphics Research said it has 20 research papers debuting at SIGGRAPH, the big computer graphics conference coming in Los Angeles.",
@@ -1144,108 +1247,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-were-in-the-aol-phase-of-artificial-intelligence-tech-ceo-says-as-industry-raves-about-ai.md",
-      "title": "We're in the AOL phase of artificial intelligence, tech CEO says, as industry raves about A.I.",
-      "excerpt": "Sachin Dev Duggal, CEO of Builder.ai, said we've only just begun to see what's possible with AI and that the space is in need of a reality check.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/05/02/chatgpt-were-only-in-aol-phase-of-ai-ceo-says.html",
-      "originalUrl": "https://www.cnbc.com/2023/05/02/chatgpt-were-only-in-aol-phase-of-ai-ceo-says.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107231609-1682534718265-gettyimages-1252206786-AFP_33DW899.jpeg?v=1683004914",
-          "width": 7944,
-          "height": 5296,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/05/02/chatgpt-were-only-in-aol-phase-of-ai-ceo-says.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/05/02/chatgpt-were-only-in-aol-phase-of-ai-ceo-says.html",
-      "publishedDateTime": "2023-05-01T20:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-samsung-reportedly-bans-use-of-generative-ai-tools.md",
-      "title": "Samsung Reportedly Bans Use of Generative AI Tools",
-      "excerpt": "Employees are prohibited from using the popular tools on company equipment after a data leak, Bloomberg reports",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/samsung-reportedly-bans-use-of-generative-ai-tools/",
-      "originalUrl": "https://www.cnet.com/tech/samsung-reportedly-bans-use-of-generative-ai-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/734ac9449cb8169694bff4472bec103682803272/hub/2021/12/16/e9b75d85-82f3-4925-ae9e-79b6728957b7/20211209-samsung-san-jose-california-headquarters-06.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/samsung-reportedly-bans-use-of-generative-ai-tools/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/samsung-reportedly-bans-use-of-generative-ai-tools/",
-      "publishedDateTime": "2023-05-01T19:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

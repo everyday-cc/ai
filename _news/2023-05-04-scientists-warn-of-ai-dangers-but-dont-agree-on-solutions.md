@@ -3,8 +3,8 @@ category: news
 title: "Scientists warn of AI dangers but don't agree on solutions"
 excerpt: "Computer scientists who helped build the foundations of today’s artificial intelligence technology are warning of its dangers, but that doesn’t mean they agree on what those dangers are or how to prevent them."
 publishedDateTime: 2023-05-04T00:54:00Z
-originalUrl: "https://www.chron.com/business/article/scientists-warn-of-ai-dangers-but-don-t-agree-on-18076413.php"
-webUrl: "https://www.chron.com/business/article/scientists-warn-of-ai-dangers-but-don-t-agree-on-18076413.php"
+originalUrl: "https://www.chron.com/news/politics/article/scientists-warn-of-ai-dangers-but-don-t-agree-on-18076413.php"
+webUrl: "https://www.chron.com/news/politics/article/scientists-warn-of-ai-dangers-but-don-t-agree-on-18076413.php"
 type: article
 quality: 37
 heat: -1
@@ -41,6 +41,6 @@ related:
         height: 675
         isCached: true
 
-secured: "UfG8aaajaKZgtCYjRz5pG7ZFN/P6Rx8yk1jgatahI7qlQ/oLlIcl6xUS8SAyKxwfsgmVSEELNxkZlwwIMVxJNaeskb1vxFs7Ca7d5BYO7DQ0CBMeSnqxoqnfU1KzDSnVIpvhWTPKTUpag/3c3OO1rFl65tyxBTpu7gligFNyK5f4ClC8OjFyBiA9EbLA07jY5W/MCcgAey32TOhmdkBI9n9/mPfQOyHLhGtWhoiHsXQGlCdaZ5mVIJX/40aRJBuVD5OAqfZ6h5t4XaU82sf7u65/EO36rS6pYkDRkCnlx/dD+KbtaFyjY6OFGhzYjB2+21lcQd6otc1IMy6f2CmuFJQixOx1w6CwMcWmkSgxiQ+a1J8sUMpz2D5YnIdXU3pKtelt9t1PS6Q+flZ+5zBTnvMgH4AeYZ5w/Fgqf1q6l6jcd2hXC/ws0xYMV/cgmNybu4g4+WmymeCiaOdKxoy0xXmM1hN2QtBn4NuxrNsPHnUBOR+4x9tNbWky0AyrxI/cdBU6LeTVu3wkCM82cDenBg==;jYPMTBDmkGnG1STtNVjyaA=="
+secured: "KGWgsxBkTVzCuQ8CobbUw0ndP7JpeeJlph0P/BsvsMDpCCXQ7LJptsD9yPeT6GYFgVsiYrUMT3WXLv9gRdiwo+9DyJQsqx3cc3X7aYjYT27GyjhYCuL0kYDZ7OK47ycofmmSf3oEnwdNkoEFGClPhf5L0VJtBCh15HTEpGMAZCq2v7KE7Q7iwvH7n67WIkAFiYs3D25HdmgaF4EE6TWmMgQhw3Q0Q8YM2cwozz5T2jNnUoiguAvOMsOCjEXQAo39ljZAFewp26q/BWZkwBQYKDb/ZVqa4Sij0E5AqZSaZo0ipVk9JETNYfJ5rztm9ziT/USsfvDb7zz63qK0xPKohclt89y1ql7TJY3rBlPMKwY=;PzHo/HdSmVRBadfqVlsHTw=="
 ---
 

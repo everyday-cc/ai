@@ -2,6 +2,57 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-04-30-saturday-conversation-herbie-hancock-on-international-jazz-day-what-jazz-means-to-him-ai-and-more.md",
+      "title": "Saturday Conversation: Herbie Hancock On International Jazz Day, What Jazz Means To Him, AI And More",
+      "excerpt": "Herbie Hancock is celebrating International Jazz Day (tomorrow, April 30), with an all-star live stream featuring some of the best jazz artists performing all over the world. Hancock agreed to speak about his love of jazz,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevebaltin/2023/04/29/saturday-conversation-herbie-hancock-on-international-jazz-day-what-jazz-means-to-him-ai-and-more/",
+      "originalUrl": "https://www.forbes.com/sites/stevebaltin/2023/04/29/saturday-conversation-herbie-hancock-on-international-jazz-day-what-jazz-means-to-him-ai-and-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/644d8b50ba733e9b9dad4714/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevebaltin/2023/04/29/saturday-conversation-herbie-hancock-on-international-jazz-day-what-jazz-means-to-him-ai-and-more/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevebaltin/2023/04/29/saturday-conversation-herbie-hancock-on-international-jazz-day-what-jazz-means-to-him-ai-and-more/amp/",
+      "publishedDateTime": "2023-04-29T14:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-29-understanding-the-risks-of-generative-ai-for-better-business-outcomes.md",
       "title": "Understanding the risks of generative AI for better business outcomes",
       "excerpt": "Understand the risks to security, privacy and more of generative AI and the precautions you can take to mitigate them.",
@@ -569,6 +620,49 @@
       ]
     },
     {
+      "path": "_news/2023-04-29-plano-selected-as-host-site-for-a-3rd-time-for-artificial-intelligence-bootcamp-applications-now-open.md",
+      "title": "Plano Selected as Host Site for a 3rd Time for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!",
+      "excerpt": "Perficient will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students at No-Cost for a 3rd time in the Fall of 2023. The AI",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/04/g32097193/plano-selected-as-host-site-for-a-3rd-time-for-artificial-intelligence-bootcamp-applications-now-o",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/04/g32097193/plano-selected-as-host-site-for-a-3rd-time-for-artificial-intelligence-bootcamp-applications-now-o",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32097193",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32097193",
+      "publishedDateTime": "2023-04-28T15:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-29-here-are-the-best-ai-image-generators.md",
       "title": "Here Are The Best AI Image Generators",
       "excerpt": "Here are some of the best AI image generators and how to use them. There have been heated debates about whether AI-generated images can be protected by copyright because the software creates pictures by incorporating “elements from the vast libraries of digitally available images and artwork” that the AI was trained on,",
@@ -1088,111 +1182,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-artificial-intelligence-delivery-robot-market-growth-by-2031.md",
-      "title": "Artificial Intelligence Delivery Robot Market Growth by 2031",
-      "excerpt": "The latest market research report on the Global \"Artificial Intelligence Delivery Robot Market\" is segmented by",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-delivery-robot-market-growth-by-2031-2023-04-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-delivery-robot-market-growth-by-2031-2023-04-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-28T09:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-rsa-conference-2023-ushers-in-the-age-of-artificial-intelligence.md",
-      "title": "RSA Conference 2023 Ushers In The Age Of Artificial Intelligence",
-      "excerpt": "Vice President, Security, Carriers and Enterprise Networking, Will Townsend, shares his insights into what he found most compelling at RSA Conference 2023.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/04/28/rsa-conference-2023-ushers-in-the-age-of-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/04/28/rsa-conference-2023-ushers-in-the-age-of-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/644bf598b7ad555c305df357/0x0.jpg?format=jpg&crop=802,450,x0,y0,safe&width=1200",
-          "width": 802,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/04/28/rsa-conference-2023-ushers-in-the-age-of-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/04/28/rsa-conference-2023-ushers-in-the-age-of-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-04-28T09:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Geoff Hinton, AI’s Most Famous Researcher, Warns Of ‘Existential Threat’"
+    excerpt: "Geoffrey Everest Hinton, a seminal figure in the development of artificial intelligence, painted a frightening picture of the technology he helped create on Wednesday in his first public appearance since stunning the scientific community with his abrupt about face on the threat posed by AI."
+    publishedDateTime: 2023-05-04T06:55:00Z
+    webUrl: "https://www.forbes.com/sites/craigsmith/2023/05/04/geoff-hinton-ais-most-famous-researcher-warns-of-existential-threat/"
+    ampWebUrl: "https://www.forbes.com/sites/craigsmith/2023/05/04/geoff-hinton-ais-most-famous-researcher-warns-of-existential-threat/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/craigsmith/2023/05/04/geoff-hinton-ais-most-famous-researcher-warns-of-existential-threat/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 86
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/645350233eb26555726d5a17/0x0.jpg?format=jpg&crop=1891,1064,x0,y513,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Deep learning pioneer Geoffrey Hinton quits Google"
     excerpt: "Geoffrey Hinton, a VP and Engineering Fellow at Google, and a pioneer of deep learning who developed some of the most important techniques at the heart of modern AI, is leaving the company after 10 years, the New York Times reported today."
     publishedDateTime: 2023-05-01T09:25:00Z

@@ -33,7 +33,7 @@ related:
   - title: "Scientists warn of AI dangers but don't agree on solutions"
     excerpt: "Computer scientists who helped build the foundations of today’s artificial intelligence technology are warning of its dangers, but that doesn’t mean they agree on what those dangers are or how to prevent them."
     publishedDateTime: 2023-05-04T00:54:00Z
-    webUrl: "https://www.chron.com/business/article/scientists-warn-of-ai-dangers-but-don-t-agree-on-18076413.php"
+    webUrl: "https://www.chron.com/news/politics/article/scientists-warn-of-ai-dangers-but-don-t-agree-on-18076413.php"
     type: article
     provider:
       name: Houston Chronicle

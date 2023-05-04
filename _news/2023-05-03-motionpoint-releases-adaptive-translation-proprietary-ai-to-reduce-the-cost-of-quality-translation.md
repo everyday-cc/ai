@@ -49,20 +49,6 @@ related:
         width: 1200
         height: 1000
         isCached: true
-  - title: "Business Transformations in 2023 with Artificial Intelligence"
-    excerpt: "Conversational dialogues between humans and ChatGPT are mimicked by OpenAI. Industries anticipate it will be used more widely as an office assistant"
-    publishedDateTime: 2023-05-02T09:48:00Z
-    webUrl: "https://www.cioapplications.com/news/business-transformations-in-2023-with-artificial-intelligence-nid-10608.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 37
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/w7t62cioapp450-308.jpg"
-        width: 450
-        height: 308
-        isCached: true
 
 secured: "Dpj5oqXN1GxbDzjKrUEELfNcceJVmc7hDySz5g8/XkKNtDb+bkxxUMDJQL3P53rxVzcNDcm50V6SlC09TY+SQSQPOnQXxWfxIIh/dxtStvftNFIJePO+DeoZK3cSk/gU62W0d3hHucNupCyeyVFNEiEKCn7XXNHqobBa3N0bmndClEycM34kORv/HY8DoQZKsQNGQznNxAmRDBHQWyh8+YKwC/QkcvEZRaluWB8Cq5C5uS49pFqBIGB00Msq+KYPdlavS1jLkShxdBu5c1mz5Kg6P0fZ34o7jK6d0KqipHwK3dWYHh9A4SrrSGH95FVbS49ZyVqpzzWEuBtsIz5fT56T/oN52tAIJmtpqJfsGr0YLIjPtrtDKlLn4bXwWgNtAFMDS26SeyAW3U2Kik5WnvZdtabRMFbmONyOcaGSr3Tlt7PptH8PAxLc4l+i6iu6lfbaGLAG+WEVIuHoo45kDh6wdN3uNAsr8BgLueHfee58YPhx+A0scTVEQhfDQ7iP5mOLgtuvP+zVnjlfVjkD+w==;BlEloHj+U+3McX20i0f/qQ=="
 ---

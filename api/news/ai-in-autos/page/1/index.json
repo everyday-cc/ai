@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-04-nippon-life-selects-h2oai-to-transform-its-insurance-business-with-machine-learning-and-improve-customer-health.md",
+      "title": "Nippon Life Selects H2O.ai to Transform Its Insurance Business With Machine Learning and Improve Customer Health",
+      "excerpt": "H2O.ai, the AI Cloud leader, today announced a strategic partnership with Nippon Life Insurance Company, also known as Nissay in Japan. Specifically, the companies are announcing a partnership where Nippon Life Insurance Company will deploy H2O Driverless AI tools to better meet the needs of their policyholders,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/nippon-life-selects-h2oai-to-transform-its-insurance-business-with-machine-learning-and-improve-customer-health-2023-05-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/nippon-life-selects-h2oai-to-transform-its-insurance-business-with-machine-learning-and-improve-customer-health-2023-05-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-03T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-05-03-adhd-on-tiktok-raising-awareness-or-driving-inaccurate-self-diagnosis.md",
       "title": "ADHD on TikTok: Raising awareness or driving inaccurate self-diagnosis?",
       "excerpt": "ADHD is massive on TikTok. Creators who've taken the hashtag to more than 20 billion views say they've helped to spread awareness and normalise the condition. But some worry that the flood of content on our feeds and For You pages is also perpetuating stereotypes and encouraging potentially inaccurate self-diagnosis.",
@@ -585,6 +638,49 @@
       ]
     },
     {
+      "path": "_news/2023-04-29-plano-selected-as-host-site-for-a-3rd-time-for-artificial-intelligence-bootcamp-applications-now-open.md",
+      "title": "Plano Selected as Host Site for a 3rd Time for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!",
+      "excerpt": "Perficient will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students at No-Cost for a 3rd time in the Fall of 2023. The AI",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/04/g32097193/plano-selected-as-host-site-for-a-3rd-time-for-artificial-intelligence-bootcamp-applications-now-o",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/04/g32097193/plano-selected-as-host-site-for-a-3rd-time-for-artificial-intelligence-bootcamp-applications-now-o",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32097193",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32097193",
+      "publishedDateTime": "2023-04-28T15:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-29-carmakers-emphasize-practicality-in-new-goals-for-autonomous-driving.md",
       "title": "Carmakers Emphasize Practicality In New Goals For Autonomous Driving",
       "excerpt": "In Pittsburgh and in auto-industry development centers in Detroit, Tokyo, Frankfurt and Silicon Valley, automakers’ expectations for and demands on self-driving technology have gotten a lot more modest in one sense — and stronger in another.",
@@ -830,58 +926,6 @@
         "name": "Global News",
         "domain": "globalnews.ca",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-what-are-the-dangers-of-ai-find-out-why-people-are-afraid-of-artificial-intelligence.md",
-      "title": "What are the dangers of AI? Find out why people are afraid of artificial intelligence",
-      "excerpt": "Many experts worry that the rapid development of artificial intelligence may have unforeseen disastrous consequences for humanity. Machine learning technology is designed to assist humans in their ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/what-dangers-find-out-why-people-afraid-artificial-intelligence",
-      "originalUrl": "https://www.foxnews.com/tech/what-dangers-find-out-why-people-afraid-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9173ff0e-731a-4938-8d98-838e96cab4aa/8c3c171d-0b0c-4650-a5c1-bb79bf268d11/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/what-dangers-find-out-why-people-afraid-artificial-intelligence.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/what-dangers-find-out-why-people-afraid-artificial-intelligence.amp",
-      "publishedDateTime": "2023-04-28T06:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
@@ -1359,58 +1403,6 @@
         "name": "City A.M.",
         "domain": "cityam.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-26-artificial-intelligence-software-market-share-and-forecast-till-2030.md",
-      "title": "Artificial Intelligence Software Market Share and Forecast till 2030",
-      "excerpt": "Apr 25, 2023 (The Expresswire) -- \"Artificial Intelligence Software Market\" Insights 2023 By Applications (On-Premise, Cloud-based), By Types (Voice Processing, Text Processing, Image Processing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-software-market-share-and-forecast-till-2030-2023-04-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-software-market-share-and-forecast-till-2030-2023-04-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-26T02:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

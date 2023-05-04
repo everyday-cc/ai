@@ -2,6 +2,102 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-05-03-amd-reports-a-steep-decline-in-pc-chip-sales-but-theres-an-epyc-silver-lining.md",
+      "title": "AMD Reports A Steep Decline In PC Chip Sales But There's An EPYC Silver Lining",
+      "excerpt": "Despite some big losses, AMD CEO Dr. Lisa Su remained upbeat with an eye on 'significant growth opportunities' if the company sticks to its game plan.",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/amd-steep-decline-pc-chip-sales-epyc-silver-lining",
+      "originalUrl": "https://hothardware.com/news/amd-steep-decline-pc-chip-sales-epyc-silver-lining",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/61530/content/AMD_Dr_Lisa_Su_EPYC_Hero.jpg",
+          "width": 708,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/amd-steep-decline-pc-chip-sales-epyc-silver-lining",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/amd-steep-decline-pc-chip-sales-epyc-silver-lining",
+      "publishedDateTime": "2023-05-03T06:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-05-03-trovata-launches-first-generative-ai-finance-treasury-tool.md",
+      "title": "Trovata Launches First Generative AI Finance & Treasury Tool",
+      "excerpt": "Trovata Launches First Generative AI Finance & Treasury Tool May 03, 2023 (PRNewswire via COMTEX) -- PR Newswire SAN DIEGO, May 3, 2023 Trovata",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/trovata-launches-first-generative-ai-finance-treasury-tool-2023-05-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/trovata-launches-first-generative-ai-finance-treasury-tool-2023-05-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-03T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-03-these-robot-arms-were-designed-to-help-humans-interact-with-ai.md",
       "title": "These robot arms were designed to help humans interact with AI",
       "excerpt": "Jizai Arms is a system of supernumerary robotic limbs. Up to six of these arms can be worn and controlled by the user. The limbs allow the wearer to attach, detach, replace or edit the arms. This was designed to enable social interaction between wearers to support human beings acting with robots and AIs while maintaining a sense of self-awareness and widening the possibility of human actions.",
@@ -1137,109 +1233,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-03-apple-co-founder-criticizes-elon-musk-for-failing-to-deliver-on-self-driving-car-promises.md",
-      "title": "Apple Co-Founder Criticizes Elon Musk For Failing To Deliver On Self-Driving Car Promises",
-      "excerpt": "Steve Wozniak, the co-founder of Apple, was asked what he thought of Elon Musk on Tuesday during an appearance on CNN. And the hosts seemed genuinely surprised at the response—which wasn’t very flattering of the billionaire Tesla CEO.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/mattnovak/2023/05/02/apple-co-founder-criticizes-elon-musk-for-failing-to-deliver-on-self-driving-car-promises/",
-      "originalUrl": "https://www.forbes.com/sites/mattnovak/2023/05/02/apple-co-founder-criticizes-elon-musk-for-failing-to-deliver-on-self-driving-car-promises/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64513883a6bb46794b46d6f2/0x0.jpg?format=jpg&crop=3216,1808,x0,y123,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/mattnovak/2023/05/02/apple-co-founder-criticizes-elon-musk-for-failing-to-deliver-on-self-driving-car-promises/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattnovak/2023/05/02/apple-co-founder-criticizes-elon-musk-for-failing-to-deliver-on-self-driving-car-promises/amp/",
-      "publishedDateTime": "2023-05-02T10:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-03-new-chemix-ai-based-ev-battery-development-reduces-or-eliminates-cobalt.md",
-      "title": "New Chemix AI-Based EV Battery Development Reduces Or Eliminates Cobalt",
-      "excerpt": "Tech startup Chemix has unveiled an artificial intelligence-based platform for developing EV batteries much faster and require little to no scarce minerals such as cobalt or nickel.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/edgarsten/2023/05/02/new-chemix-ai-based-ev-battery-development-reduces-or-eliminates-cobalt/",
-      "originalUrl": "https://www.forbes.com/sites/edgarsten/2023/05/02/new-chemix-ai-based-ev-battery-development-reduces-or-eliminates-cobalt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64500e643f9eca9f34961e4d/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/edgarsten/2023/05/02/new-chemix-ai-based-ev-battery-development-reduces-or-eliminates-cobalt/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/edgarsten/2023/05/02/new-chemix-ai-based-ev-battery-development-reduces-or-eliminates-cobalt/amp/",
-      "publishedDateTime": "2023-05-02T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

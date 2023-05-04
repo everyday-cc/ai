@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-04-18-photographer-admits-prize-winning-image-was-ai-generated.md",
+      "title": "Photographer admits prize-winning image was AI-generated",
+      "excerpt": "Recent advancements in the use of AI in chatbots, driverless cars, song-writing software and ... Photography Organisation that the photograph was \"co-created\" with artificial intelligence. \"In our correspondence, he explained how following 'two decades ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tbsnews.net/world/photographer-admits-prize-winning-image-was-ai-generated-618918",
+      "originalUrl": "https://www.tbsnews.net/world/photographer-admits-prize-winning-image-was-ai-generated-618918",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/04/18/ai_image_award.png",
+          "width": 600,
+          "height": 314,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-18T07:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "tbsnews",
+        "domain": "tbsnews.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-18-chinas-autonomous-driving-companies-mull-to-build-smarter-cars.md",
       "title": "China’s autonomous driving companies mull to build smarter cars",
       "excerpt": "A man sits in an autonomous driving vehicle on a pilot road in Guangzhou, South China's Guangdong Province on March 1 of 2021. The city is promoting the development of intelligent",
@@ -834,20 +877,20 @@
     },
     {
       "path": "_news/2023-04-15-dubai-sheikh-mohammed-issues-new-law-on-driverless-vehicles-up-to-dh50000-fine-announced-for-violators.md",
-      "title": "Dubai: Sheikh Mohammed issues new law on driverless vehicles; up to Dh50,000 fine announced for violators",
+      "title": "Dubai: Sheikh Mohammed Issues New Law On Driverless Vehicles Up To Dh50,000 Fine Announced For Violators",
       "excerpt": "A new law in Dubai is set to regulate the operations of driverless vehicles in the ... environment that facilitates the use of artificial intelligence (AI) in transportation.",
       "sourceUrl": null,
-      "webUrl": "https://www.khaleejtimes.com/uae/transport/dubai-sheikh-mohammed-issues-new-law-on-driverless-vehicles-up-to-dh50000-fine-announced-for-viol",
-      "originalUrl": "https://www.khaleejtimes.com/uae/transport/dubai-sheikh-mohammed-issues-new-law-on-driverless-vehicles-up-to-dh50000-fine-announced-for-viol",
+      "webUrl": "https://menafn.com/1106015524/Dubai-Sheikh-Mohammed-Issues-New-Law-On-Driverless-Vehicles-Up-To-Dh50000-Fine-Announced-For-Violators",
+      "originalUrl": "https://menafn.com/1106015524/Dubai-Sheikh-Mohammed-Issues-New-Law-On-Driverless-Vehicles-Up-To-Dh50000-Fine-Announced-For-Violators",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://image.khaleejtimes.com?uuid=9264af9f-5ce7-4ad8-b30e-b3d6029f3619&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.82873&width=1200&height=675&x=1.0E-5&y=0.16022",
-          "width": 1200,
-          "height": 675,
+          "url": "https://menafn.com/updates/pr/2023-04/14/KT_b2688image_story.jpg",
+          "width": 600,
+          "height": 337,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -855,13 +898,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.khaleejtimes.com/uae/transport/dubai-sheikh-mohammed-issues-new-law-on-driverless-vehicles-up-to-dh50000-fine-announced-for-viol?amp=1",
-      "cdnAmpWebUrl": "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/uae/transport/dubai-sheikh-mohammed-issues-new-law-on-driverless-vehicles-up-to-dh50000-fine-announced-for-viol?amp=1",
-      "publishedDateTime": "2023-04-14T11:52:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-14T11:51:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Khaleej Times",
-        "domain": "khaleejtimes.com",
+        "name": "Mena FN",
+        "domain": "menafn.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1282,58 +1325,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-04-11-researchers-predict-artificial-intelligence-could-lead-to-a-nuclear-level-catastrophe.md",
-      "title": "Researchers predict artificial intelligence could lead to a 'nuclear-level catastrophe'",
-      "excerpt": "In the past few years, the world has seen huge advancements in artificial intelligence, with chatbots being able to have almost human-like conversations with users in real time, and image ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/researchers-predict-artificial-intelligence-lead-nuclear-level-catastrophe",
-      "originalUrl": "https://www.foxnews.com/media/researchers-predict-artificial-intelligence-lead-nuclear-level-catastrophe",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9173ff0e-731a-4938-8d98-838e96cab4aa/8c3c171d-0b0c-4650-a5c1-bb79bf268d11/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/researchers-predict-artificial-intelligence-lead-nuclear-level-catastrophe.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/researchers-predict-artificial-intelligence-lead-nuclear-level-catastrophe.amp",
-      "publishedDateTime": "2023-04-10T23:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,161 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-04-gpt-based-ai-neural-network-decodes-brain-activity-without-surgery.md",
+      "title": "GPT-based AI Neural Network Decodes Brain Activity without Surgery",
+      "excerpt": "This research can help patients with conditions such as locked-in syndrome, where patients are unable to communicate due to paralysis",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2023/05/04/gpt-based-neural-network-decodes-brain/",
+      "originalUrl": "https://www.gizmochina.com/2023/05/04/gpt-based-neural-network-decodes-brain/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2023/05/alina-grubnyak-ZiQkhI7417A-unsplash-1024x683-1.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-04T00:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-04-microsoft-launches-new-features-for-its-ai-powered-bing-and-edge.md",
+      "title": "Microsoft launches new features for its AI-powered Bing and Edge",
+      "excerpt": "Microsoft announced a major expansion of its artificial intelligence-based search tools today, opening up new features that allow visual and multimodal searches as well as persistent chat tools. The updates significantly expand the capabilities of Bing,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/microsoft-launches-new-features-for-its-ai-powered-bing-and-edge/",
+      "originalUrl": "https://venturebeat.com/ai/microsoft-launches-new-features-for-its-ai-powered-bing-and-edge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 264,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/HeroImage_16x9_8K.jpg?fit=800%2C450&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/microsoft-launches-new-features-for-its-ai-powered-bing-and-edge/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/microsoft-launches-new-features-for-its-ai-powered-bing-and-edge/amp/",
+      "publishedDateTime": "2023-05-03T23:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-04-ai-powered-cruise-control-can-stop-phantom-traffic-jams-before-they-start.md",
+      "title": "AI-powered cruise control can stop 'phantom traffic jams' before they start",
+      "excerpt": "The CIRCLES Consortium of universities, automakers and government agencies is developing an AI-powered cruise control system that can help prevent traffic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/auto/ai-powered-cruise-control-stop-phantom-traffic-jams",
+      "originalUrl": "https://www.foxnews.com/auto/ai-powered-cruise-control-stop-phantom-traffic-jams",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2023/05/all-trajectories.gif",
+          "width": 640,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/auto/ai-powered-cruise-control-stop-phantom-traffic-jams.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/ai-powered-cruise-control-stop-phantom-traffic-jams.amp",
+      "publishedDateTime": "2023-05-03T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-04-artificial-intelligence-and-robotics-updates.md",
       "title": "Artificial intelligence and robotics updates",
       "excerpt": "A US regulator put artificial intelligence in the crosshairs ahead of a White House meeting Thursday with tech firms to strategize about its dangers. \"While the technology is moving swiftly, we already can see several risks,",
@@ -303,58 +458,6 @@
       ]
     },
     {
-      "path": "_news/2023-05-04-innovationrx-the-fda-oks-the-first-rsv-vaccine-microsofts-ai-play-for-doctors.md",
-      "title": "InnovationRx: The FDA OKs The First RSV Vaccine; Microsoft’s AI Play For Doctors",
-      "excerpt": "InnovationRx is your weekly digest of healthcare news. To get it in your inbox, subscribe here.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/katiejennings/2023/05/03/innovationrx-the-fda-oks-the-first-rsv-vaccine-microsofts-ai-play-for-doctors/",
-      "originalUrl": "https://www.forbes.com/sites/katiejennings/2023/05/03/innovationrx-the-fda-oks-the-first-rsv-vaccine-microsofts-ai-play-for-doctors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6452d6708bb19866029c02fa/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-03T15:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-04-ceo-of-googles-deepmind-says-we-could-be-just-a-few-years-from-ai-that-has-human-level-intelligence.md",
       "title": "CEO of Google’s DeepMind says we could be ‘just a few years’ from A.I. that has human-level intelligence",
       "excerpt": "DeepMind CEO Demis Hassabis at the 2023 WSJ's Future of Everything Festival. While artificial intelligence like OpenAI’s ChatGPT promises to revolutionize every aspect of the economy, the true holy grail for A.I. researchers—artificial general ...",
@@ -571,7 +674,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/microsoft-s-premium-chatgpt-service-set-to-supercharge-azure-growth-analyst-predicts-even-wider-lead-over-aws-1032288927",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -613,6 +716,59 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-04-nippon-life-selects-h2oai-to-transform-its-insurance-business-with-machine-learning-and-improve-customer-health.md",
+      "title": "Nippon Life Selects H2O.ai to Transform Its Insurance Business With Machine Learning and Improve Customer Health",
+      "excerpt": "H2O.ai, the AI Cloud leader, today announced a strategic partnership with Nippon Life Insurance Company, also known as Nissay in Japan. Specifically, the companies are announcing a partnership where Nippon Life Insurance Company will deploy H2O Driverless AI tools to better meet the needs of their policyholders,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/nippon-life-selects-h2oai-to-transform-its-insurance-business-with-machine-learning-and-improve-customer-health-2023-05-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/nippon-life-selects-h2oai-to-transform-its-insurance-business-with-machine-learning-and-improve-customer-health-2023-05-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-03T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1082,7 +1238,7 @@
       "originalUrl": "https://www.zdnet.com/article/the-6-biggest-ai-features-to-expect-from-google-io-2023/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1122,155 +1278,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-03-amd-reports-a-steep-decline-in-pc-chip-sales-but-theres-an-epyc-silver-lining.md",
-      "title": "AMD Reports A Steep Decline In PC Chip Sales But There's An EPYC Silver Lining",
-      "excerpt": "Despite some big losses, AMD CEO Dr. Lisa Su remained upbeat with an eye on 'significant growth opportunities' if the company sticks to its game plan.",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/amd-steep-decline-pc-chip-sales-epyc-silver-lining",
-      "originalUrl": "https://hothardware.com/news/amd-steep-decline-pc-chip-sales-epyc-silver-lining",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/61530/content/AMD_Dr_Lisa_Su_EPYC_Hero.jpg",
-          "width": 708,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/amd-steep-decline-pc-chip-sales-epyc-silver-lining",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/amd-steep-decline-pc-chip-sales-epyc-silver-lining",
-      "publishedDateTime": "2023-05-03T06:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-05-03-trovata-launches-first-generative-ai-finance-treasury-tool.md",
-      "title": "Trovata Launches First Generative AI Finance & Treasury Tool",
-      "excerpt": "Trovata Launches First Generative AI Finance & Treasury Tool May 03, 2023 (PRNewswire via COMTEX) -- PR Newswire SAN DIEGO, May 3, 2023 Trovata",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/trovata-launches-first-generative-ai-finance-treasury-tool-2023-05-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/trovata-launches-first-generative-ai-finance-treasury-tool-2023-05-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-03T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-03-callminer-collaborates-with-microsoft-to-enhance-ai-and-machine-learning-capabilities.md",
-      "title": "CallMiner Collaborates with Microsoft to Enhance AI and Machine Learning Capabilities",
-      "excerpt": "CallMiner, a leading provider of conversation intelligence to drive business performance improvement, today announced",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/callminer-collaborates-with-microsoft-to-enhance-ai-and-machine-learning-capabilities-2023-05-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/callminer-collaborates-with-microsoft-to-enhance-ai-and-machine-learning-capabilities-2023-05-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-03T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],
