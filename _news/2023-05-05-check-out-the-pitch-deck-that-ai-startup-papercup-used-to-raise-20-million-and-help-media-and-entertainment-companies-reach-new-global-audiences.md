@@ -6,7 +6,7 @@ publishedDateTime: 2023-05-05T09:00:00Z
 originalUrl: "https://www.businessinsider.com/pitch-deck-ai-startup-papercup-help-media-entertainment-translation-global-2023-5"
 webUrl: "https://www.businessinsider.com/pitch-deck-ai-startup-papercup-help-media-entertainment-translation-global-2023-5"
 type: article
-quality: 12
+quality: 32
 heat: -1
 published: false
 
@@ -21,6 +21,12 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://i.insider.com/6454e92eb4a8cd00187ae2de?width=1200&format=jpeg"
+    width: 1200
+    height: 600
+    isCached: true
 
 related:
   - title: "See the 14-slide presentation an AI-powered startup used to raise $25 million to upend pharmaceutical marketing"
@@ -38,6 +44,6 @@ related:
         height: 600
         isCached: true
 
-secured: "eE9Nw88REEfAle8xECl+TEWrj0OknaqNo4RRw0NiEG3fnm8pQ/2Tuic5axhiN1jWwt8hqlpGd0wkuR/qWfhGZTWbIqM9l+bZ6zBaxECZjYsEEe2WzvXqroQ8IMmWoGVF6u6knTwpITasYTp7xTOcxPviGMc0GKebm3fuzEmKKgDTC4UzrpeOLMEPnfbuZub2K8B2Kh49Oqw57L0SRftO1AvsI1ruyg7CBRH4430x7UMCmrfAZ11ksDWsvZ3R5txpUOw16r/sHYcJ4O6i3+YsVD/Y4T10WWWuIPura+M9aSPe+RR7bOOF2ue4oLsTu37k7/C8yWdZZAGi90scrujnArNLFwgwKGB5X6sPPyQU6co=;ozVgdppqfVjwoRriDBXClw=="
+secured: "kSNasgS9yDKVp49TjyqY34WYCafQW2rx7hF2B62NvwJm4UAMdjZR2TAC/+fK/UZEKEKv6/bMkAKpqSmParaVd31iiygZAjbqRIOQ72KTJCof8evDkQHWhi5rA//TRO0rT0zT1N6tCpzgMju6Bskt0LrGPKwRzBMQUDTsEXgE4tNwIk5Fv5tV5vIab6pwD2OTg5GnRQuNCWL37GiM9w9AuSZ3mQy5r8UTXVm8UIgOfsN1Cd7wCNTrNBEYeOrd3O12gVMUA7j0p95uznCLqHbELJPXssfDKVwVs+MN2BKk+YdaYfLqxK3jBe2r35PL/Ey4T/AB0yJ6G9isWWVmaWiUdoeCh2Ok5IvetO2Pp7DVoes=;tqd/15sNuNjvICwNHLv3Eg=="
 ---
 

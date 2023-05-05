@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/education/higher-ed/university-of-hawaii-wor
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/university-of-hawaii-working-with-indigenous-leaders-on-ai?_amp=true"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 840
     height: 438
     isCached: true
+
+related:
+  - title: "University of Southern California launches $1B-plus initiative for computing including AI, advanced computation and quantum computing"
+    excerpt: "Folt launches the single largest comprehensive academic initiative in the university's history: Frontiers of Computing. The initiative integrates computing throughout education and research to enhance digital literacy for all students as the university aims to hold its lead as a top provider of tech professionals."
+    publishedDateTime: 2023-05-05T20:04:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/05/05/9808827.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 8
+    images:
+      - url: "https://mma.prnewswire.com/media/2070308/ICT_VR.jpg"
+        width: 400
+        height: 267
+        isCached: true
 
 secured: "avHZEzZddMXH2BmWYq2sa2RsbWCGcBUax9KahuRsE4T4thOpvyjoNYcT6CdeiMLvVkRWRmOBWoRORUaBLw5xz1RJH9VjyM6Yop4oGZO8pK4iR7ldvSuj7L+PHoPev2XkbOtqW0xoMQ3Zs5gf4SWuiskLD/YSkhXVLxsBHAFFbpGZmn944PIGJ4e1RD0+hOzEYLg+b9hJmQoqFctBsGF6+4xrcxTOducji1XT15S7Mz2t2Mz4zmcnIhBGJ+m+isp5OPJisFou/4BI+5r8B4p2ulb7Dr2gT6oNHqT8kcgWAbymngplY0hOE5UkBhfxk0hbJ0zeojea/6wwkPpK+AxA2tTaUcsXX2Ra3KX3OZtB5LimwnWAD9hg7F0BBg5jJZlmL/rWzmidQx+QDeiybewJS28wdncBEzlx1tvz5N8Bf3eZfshT2I4L/BzI+w4dqQHDPZZffBA22B+qkRIl9g85k54nmEtNmFLeqF75B/0busKkQ5QEMypK3nqBTTRvsrjIlv1+YqivvGSua+WcQkuPYw==;ITHQVzQrRT0DQiz/g4VKrQ=="
 ---

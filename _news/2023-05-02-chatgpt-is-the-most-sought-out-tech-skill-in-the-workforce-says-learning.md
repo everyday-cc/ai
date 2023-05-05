@@ -173,20 +173,6 @@ related:
         width: 829
         height: 553
         isCached: true
-  - title: "AI Chatbots Have Been Used to Create Dozens of News Content Farms"
-    excerpt: "Other websites used AI chatbots to remix published stories from other outlets, narrowly avoiding plagiarism by adding source links at the bottom of the pieces. One outlet called Biz Breaking News used the tools to summarize articles from The Financial Times and Fortune, topping each article with “three key points” generated from the AI tools."
-    publishedDateTime: 2023-05-01T04:01:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-05-01/ai-chatbots-have-been-used-to-create-dozens-of-news-content-farms"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i.GYapse3WN4/v1/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Samsung imposes ban on generative AI tools like ChatGPT"
     excerpt: "Samsung has reportedly barred its staff from using generative AI platforms on their phones, tablets, and computers."
     publishedDateTime: 2023-05-02T05:22:00Z
@@ -366,20 +352,6 @@ related:
       name: Engadget
       domain: engadget.com
     quality: 46
-  - title: "The AI revolution: Spotlight on ChatGPT as AI seeks to reshape the world"
-    excerpt: "We look at some of the first steps companies are taking to harness this new, now not-so-secret weapon to supercharge their business."
-    publishedDateTime: 2023-05-01T02:41:00Z
-    webUrl: "https://insurancenewsnet.com/innarticle/the-ai-revolution-spotlight-on-chatgpt-as-ai-seeks-to-reshape-the-world"
-    type: article
-    provider:
-      name: Insurancenewsnet.com
-      domain: insurancenewsnet.com
-    quality: 40
-    images:
-      - url: "https://insurancenewsnet.com/wp-content/uploads/2023/05/feature-2023-05-profiles-matiash.jpg"
-        width: 858
-        height: 880
-        isCached: true
   - title: "6 CFO Skills Still Needed Amid Generative AI, ChatGPT"
     excerpt: "Although CFOs may find new types of technology useful, the human element is still needed in some of the most critical parts of the job."
     publishedDateTime: 2023-05-01T15:39:00Z
@@ -478,6 +450,20 @@ related:
         width: 360
         height: 240
         isCached: true
+  - title: "AI ChatGPT creates rap for Warriors vs. Lakers playoffs"
+    excerpt: "ChatGPT is what most people are either talking about most of these days or even experimenting with. The KPIX morning team tested the feature by getting AI to become a Warriors fan. (05/05/2023)"
+    publishedDateTime: 2023-05-05T19:42:00Z
+    webUrl: "https://www.cbsnews.com/sanfrancisco/video/ai-chatgpt-creates-rap-for-warriors-vs-lakers-playoffs/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 37
+    images:
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/05/05/5bbac4b0-a433-4855-bdf9-7b9c0bdeab1a/thumbnail/1200x630/fbafe097c79e45cf7a745903b439427a/df287121c4263b21552fa7ddab43f411.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Could AI pen 'Casablanca'? Screenwriters take aim at ChatGPT"
     excerpt: "When Greg Brockman, the president and co-founder of ChatGPT maker OpenAI, was recently extolling the capabilities of artificial intelligence, he turned to “Game of Thrones.” Imagine, he said, if you could use AI to rewrite the ending of that not-so-popular finale."
     publishedDateTime: 2023-05-05T17:46:00Z
@@ -533,20 +519,6 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-99953134,imgsize-104716,width-1200,height=765,overlay-ettelecom/internet/linkedin-cofounder-reid-hoffmans-new-ai-startup-inflection-launches-chatgpt-like-chatbot.jpg"
         width: 1200
         height: 765
-        isCached: true
-  - title: "Facebook's Powerful ChatGPT Competitor Leaks on 4Chan"
-    excerpt: "Meta-formerly-Facebook's new artificial intelligence model ... with all the recent advancements in large language models, full research access to them remains limited because of the resources ..."
-    publishedDateTime: 2023-05-01T04:13:00Z
-    webUrl: "https://futurism.com/the-byte/facebooks-ai-leaks-4chan"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 24
-    images:
-      - url: "https://wp-assets.futurism.com/2023/03/meta-ai-leaks-4chan.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Is the world ready for ChatGPT therapists?"
     excerpt: "The current landscape of mobile mental-health apps is the result of a 70-year search to automate therapy. Now, advanced AIs pose fresh ethical questions."

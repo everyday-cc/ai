@@ -247,6 +247,15 @@ related:
       name: Astro Awani
       domain: astroawani.com
     quality: 19
+  - title: "IBM to pause hiring for jobs that AI could do"
+    excerpt: "International Business Machines Corp. Chief Executive Officer Arvind Krishna said the company expects to pause hiring for roles it thinks could be replaced with artificial intelligence in the coming years."
+    publishedDateTime: 2023-05-05T21:34:00Z
+    webUrl: "https://www.news-journal.com/news/business/ibm-to-pause-hiring-for-jobs-that-ai-could-do/article_a9ce5b06-eb8c-11ed-9635-c72a4b171373.html"
+    type: article
+    provider:
+      name: Longview News-Journal
+      domain: news-journal.com
+    quality: 19
 
 secured: "da3Cb7uJnR8goGzSLBUoFywaoVZY8+qluOPcUdkdI6YOz0q5zwyVcWkgHl3UlLNeRZWvaDuJP4kasvwvN0WHseLjxft3WN5yczdnmy41xm0pktLKGX+c5TaDqqMPED7o0UKwqB3DXE3BpctZiViNXZ8c9/3BBTuzQkhvZuiI1YfYizmIRaEejKEjHBRJOutyAcVCn152BU41Qn23eGr4oHFIPLG8L+WrnYwpI2ICsKMnoRnLKA32cXFwucjYqa0MHQ98Y7psy1qUQ2leRyhAjA4AkzhM+Vj1lEYT1CrFWKkFi2zBdBveVk6un4sRhpJYMTTZXqdT17DMI7HwNG41sxNNaZrxAm8dYy/cPVbZ8iRn8bQ+ar2N/SNb9HDvRU2vPm3kjds7DJoWjOQIIDQOKJGT4v//vtuxqPYYmPFlmFNca5K40+0Z99dftITZlvC5la+/DQd2PIP9pl83aBUReYgHx4+ICTm7hjwUwIY6X6HBy8fWTzUmzXtzvM2M0VhL0/UdOS1zAIJHYODOyTDs/A==;2S2bSKV4x3XTrKA8xvmBMQ=="
 ---

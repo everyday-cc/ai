@@ -25,35 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Australia news live: Tony Abbott claims voice ‘wrong in principle and potentially quite dangerous in practice’"
-    excerpt: "Follow the day’s news live"
-    publishedDateTime: 2023-05-01T03:01:00Z
-    webUrl: "https://www.theguardian.com/australia-news/live/2023/may/01/australia-news-live-indigenous-voice-cost-of-living-budget-economy-jobseeker-interest-rates?topics=PERSON%3ATony+Abbott"
-    ampWebUrl: "https://amp.theguardian.com/australia-news/live/2023/may/01/australia-news-live-indigenous-voice-cost-of-living-budget-economy-jobseeker-interest-rates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/live/2023/may/01/australia-news-live-indigenous-voice-cost-of-living-budget-economy-jobseeker-interest-rates"
+  - title: "Abbott warns ‘divisive’ Voice will leave nation embittered"
+    excerpt: "Mr Abbott told the committee on its final day of public hearings in Canberra on Monday that the Voice was “wrong in principle, potentially dangerous in practice” and would leave the nation bitter and divided."
+    publishedDateTime: 2023-05-01T08:50:00Z
+    webUrl: "https://www.afr.com/politics/federal/abbott-warns-divisive-voice-will-leave-nation-embittered-20230501-p5d4mm"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 39
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 24
     images:
-      - url: "https://i.guim.co.uk/img/media/ace99fd66c9c7799224fe199a2aba4cc42e57209/0_137_5568_3341/master/5568.jpg?width=620&quality=85&auto=format&fit=max&s=c5311ef19a4e963db045cc5588100328"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "The right-wing, pro-war character of Australia’s indigenous Voice plan becomes clearer"
-    excerpt: "A “yes” vote for the Voice is being presented as a patriotic duty, necessary to unite the nation or complete the national unity of Australia."
-    publishedDateTime: 2023-05-03T04:26:00Z
-    webUrl: "https://www.wsws.org/en/articles/2023/05/03/cmwr-m03.html"
-    type: article
-    provider:
-      name: World Socialist Web Site
-      domain: wsws.org
-    quality: 16
-    images:
-      - url: "https://www.wsws.org/asset/fa78f477-85bc-4877-a7c7-2f65a2f080fa?rendition=1600x900"
-        width: 1600
-        height: 900
+      - url: "https://static.ffx.io/images/$zoom_0.2562%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/48593ead6bce6608edb8e9adce729b88105eca06"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "Q2LhUMM7gsHrLiuFNOawriQly1+gjvck8swdGH0B97u19yrEfVUyJ3lisMEXMr1psk5ALnokUh6Un6uSybavlAa73mnv7G2Ngl0GXM6qepFwA6+V/x/YsjrFEUpn80i070jRAZbgeQDed+zhsKICIvfZ63zfNRRdm+mGYXI2/y+GZ4mPuvuT+HFDpyIIVZbLQZGYf3NOj2FWQEXiF82vFariTxmnjSQYkxpIPmCZ5nzuUoucm5CYrG6UkzEXYdUllByBvzBQ3Om7fLVI9oMA07LKU5s/z4VHrCNKICOM3XrjaqTZ19OWCxptBs5U1ux9sMVvrFj0q5VvJQLhl97Og4fzcIT3AzlEyfWGKQH7bCKOYJsEtjrki3UqeRFl+QWk4/8uJQSOxNpcUZlUmaM7aYaWFsWYyK4sWdt/XkqFLJCYNpZ0l0OpkedMUaqlewW9IXBcNFcJCXsW1412kYdIP9Drpn0q+Ge40NRfgAbXOgaXgjlWtGpSFpnPdWDRbYtv8DJ3B4oVSxZmDDkgXVHCEw==;KiRcnJYwhJ74ycgU7QMXcw=="

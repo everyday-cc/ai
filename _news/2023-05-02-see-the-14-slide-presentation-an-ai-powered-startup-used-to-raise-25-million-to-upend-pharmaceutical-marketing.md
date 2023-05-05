@@ -37,7 +37,12 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 12
+    quality: 32
+    images:
+      - url: "https://i.insider.com/6454e92eb4a8cd00187ae2de?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "G5kk1xoa/+Ui9vSEmU2jNWhe9OKlv7wOsdzRpUqzkabjKLk63HioapciyZNU5M3Q0alhGit+7ZUDOSrfSbq+ODSSsqP3jk6wUf3lrLxSq/VxelhssO6Wiea6qQhKDdyxk+fu78hF1JFr+RRbSJ4lRVbmjM032MtUFzdhX5GPiHIw2viUHCFPNB+/fKIFv2++Q/TpNeXa0tdnKC6rcUxmSs6KJUNiTuvxkfz3lwbgwKTPzEmhKrIRKXBVWz1K6I/5Zaxu6wewNV0wYEd/s7765ZHj4MBj/lTvJmvcas1xnnQJ8owFAaPnA732xfFy/hc1AgUqLS6FdFG1PooXnnEwJBK7veTaF9pSMLh/NkTSdX/Ppzh1r4qRG5vqeVxaUoYNhLELUqx4MeF3w9dJiOaSITzh9Bk667TW5GnCTNfjA5Zh5lxj5VMs9GLO1lM2b9kuF7rHN6E8CPJYYguJK7W4tCdzeiXje9TJhKYaoCa4qR5CqjqSNB+Emjmim2E5mkub1LXueg8g0n2hSGvJIoj57g==;SAgipIA9vLXSFENDpnflaQ=="
 ---

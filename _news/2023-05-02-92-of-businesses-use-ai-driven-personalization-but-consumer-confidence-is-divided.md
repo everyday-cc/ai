@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/92-of-businesses-use-ai-driven-personaliz
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/92-of-businesses-use-ai-driven-personalization-but-consumer-confidence-is-divided/amp/"
 type: article
 quality: 81
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI is not ready for personalized conversations: Dr. Marc Siegel"
-    excerpt: "Fox News medical contributor Dr. Marc Siegel weighs in on a survey that found a majority of patients prefer interacting with chatbots over doctors on 'Fox News Live.'"
-    publishedDateTime: 2023-05-01T01:37:00Z
-    webUrl: "https://www.foxnews.com/video/6326538765112"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 67
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/58a7faf1-bf88-4721-86e6-30c21280549d/7a33f57c-f50d-4163-a3f9-4db35e0c18fd/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
-        width: 1024
-        height: 512
-        isCached: true
   - title: "How fintechs are gaining a competitive advantage with AI-powered personalization-at-scale"
     excerpt: "Personalization-at-scale is a key strategy for fintechs to deliver hyper-relevant products and services to meet customer demands."
     publishedDateTime: 2023-05-01T18:16:00Z

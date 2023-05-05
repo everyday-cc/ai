@@ -44,6 +44,34 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "In Hollywood Strike, AI Is Nemesis"
+    excerpt: "If the Netflix algorithm is unable to recommend a show we’ll like, maybe it can create one instead."
+    publishedDateTime: 2023-05-05T20:38:00Z
+    webUrl: "https://www.wsj.com/articles/in-hollywood-strike-ai-is-nemesis-script-writer-chatgpt-algorithm-830179ad"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-775952/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "The Next Fear on A.I.: Hollywood’s Killer Robots Become the Military’s Tools"
+    excerpt: "U.S. national security officials are warning about the potential for the new technology to upend war, cyber conflict and — in the most extreme case — the use of nuclear weapons."
+    publishedDateTime: 2023-05-05T20:35:00Z
+    webUrl: "https://www.nytimes.com/2023/05/05/us/politics/ai-military-war-nuclear-weapons-russia-china.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 66
+    images:
+      - url: "https://static01.nyt.com/images/2023/05/05/multimedia/05dc-ai-wh1-ztlm/05dc-ai-wh1-ztlm-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "AI Decision-Making in Hollywood Is Already Here, Now What?"
     excerpt: "Chat bots and AI-generated videos show the possibility of the tech. But more insidious are the black box algorithms that decide what's popular — directly influencing which stories to tell and how. In the nonfiction space,"
     publishedDateTime: 2023-05-04T23:36:00Z

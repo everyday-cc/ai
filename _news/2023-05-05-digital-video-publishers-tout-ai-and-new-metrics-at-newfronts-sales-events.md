@@ -105,15 +105,6 @@ related:
       name: technologynetworks
       domain: technologynetworks.com
     quality: 34
-  - title: "Rising AI and machine learning investments powering senior care advancements"
-    excerpt: "It’s perhaps no surprise that investment in AI and ML in healthcare rose over the last two years, according to new research from commercial real estate and investment company Jones Lang LaSalle."
-    publishedDateTime: 2023-05-01T04:17:00Z
-    webUrl: "https://www.mcknightsseniorliving.com/home/news/tech-daily-news/rising-ai-and-machine-learning-investments-powering-senior-care-advancements/"
-    type: article
-    provider:
-      name: McKnight's Senior Living
-      domain: mcknightsseniorliving.com
-    quality: 33
   - title: "BacterAI: New AI system enables robots to conduct 10,000 scientific experiments a day"
     excerpt: "Scientists created BacterAI, an AI-powered system enabling robots to conduct 10,000 experiments daily, accelerating scientific discoveries."
     publishedDateTime: 2023-05-05T13:10:00Z

@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Insider Q&A: Aurora CEO Chris Urmson on self-driving trucks"
-excerpt: "Sometime next year, semis with no human in the cab will start carrying freight down Interstate 45 between Dallas and Houston"
-publishedDateTime: 2023-05-01T09:27:00Z
-originalUrl: "https://www.washingtonpost.com/business/2023/05/01/selfdriving-semi-aurora-safety-autonomous/37ab5e08-e820-11ed-869e-986dd5713bc8_story.html"
-webUrl: "https://www.washingtonpost.com/business/2023/05/01/selfdriving-semi-aurora-safety-autonomous/37ab5e08-e820-11ed-869e-986dd5713bc8_story.html"
+excerpt: "Q: Teslas on either Autopilot or “Full Self-Driving” using only cameras have crashed into emergency vehicles, motorcycles and other things. Why should we trust you folks when this keeps ..."
+publishedDateTime: 2023-05-01T13:21:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/insider-qa-aurora-ceo-chris-urmson-driving-trucks-98982755"
+webUrl: "https://abcnews.go.com/Business/wireStory/insider-qa-aurora-ceo-chris-urmson-driving-trucks-98982755"
 type: article
-quality: 24
+quality: 4
 heat: -1
 published: false
 
 provider:
-  name: The Washington Post
-  domain: washingtonpost.com
+  name: ABC News
+  domain: abcnews.go.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6OYFDJHIEQI63BU6TBW5K4J3ZA.jpg&w=1440"
-    width: 1440
-    height: 960
-    isCached: true
 
 related:
   - title: "Aurora CEO’s take on the future of self-driving trucks in Texas and beyond"
@@ -79,6 +73,6 @@ related:
       domain: ttnews.com
     quality: 4
 
-secured: "5Mm2DFBWgJKK+h8llyagNSbPdSdvxjMivDkO4os8ffxBmji+4ZC783OZnXG4xdtZZbiO834FTf8ZdSs2Ll4ZNVVYc7Qe2YAxLE3ZDWKqIvsLZ14mPW+5WX5B1JNS8U6LPKk7e3UawsXY5wQ76EiTPHPIFpDYjSb85cZznFZ0CxmYKz/3ACmOhuMaQII/5JFeTwdQUovWWgm6p8Xs3kE2Ygyr10GJh3SVgxYEMdrxH69ZWx9+n1uUaPKOk+w+NDx3wKw0w81cMO6jA3hbiQwB5UF4f426k07WDaPv8wk2kYc3sEmHWw6Fd2TDTQmTqysebOtTMNZwFG4uXhtf4bn1k0c14YP0Dd4XhXbnRc6qL58=;krqA/34jTILMDfMWiSIeGw=="
+secured: "MbPF6WKedNBsIKbIrjNJgrOMdGPJ5kiReQMKaLoId2PWQGsf/ayFWmX8zQbHe7hQ4T/qBtJFnJAbxY7Y1JFcwXP1FKmqwrUt+v/AYnMYOgY9OlL4Eacsmne5XbCihqmQd0Ltqu5DWfpN+vTHyDvgRQu2u/TV5TatTQyHCF6c4MFRL57HT5LZ2yUjJSRSHFNouoL4VfTakz/W6AtorEUOOEI7F6kRr/9Ff5QU+18YXlu0NnMprixF/S7icIVDYcLwx6AgbZekBs/5IDdbtRY4ZJJNAnfwyCwn+BuCG/mN+HVvRrX5WfYJmZ5t1Vz4bTmOXfoH7sTzliddvhMVFFAwsnR6qkwRnVWI7K0AlhEomOI=;LebF7ru4USHEGMzCCBngeQ=="
 ---
 

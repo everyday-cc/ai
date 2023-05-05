@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/news/indian-job-market-to-grow-22-pc-in-5-y
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/indian-job-market-to-grow-22-pc-in-5-yrs-ai-machine-learning-among-top-roles-wef/amp-11682918466324.html"
 type: article
 quality: 68
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Indian job market to see 22 pc churn in 5 yrs; AI, machine learning among top roles: WEF"
-    excerpt: "Read more about Indian job market to see 22 pc churn in 5 yrs; AI, machine learning among top roles: WEF on Devdiscourse"
-    publishedDateTime: 2023-05-01T04:39:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2435535-indian-job-market-to-see-22-pc-churn-in-5-yrs-ai-machine-learning-among-top-roles-wef"
-    ampWebUrl: "https://www.devdiscourse.com/article/technology/2435535-indian-job-market-to-see-22-pc-churn-in-5-yrs-ai-machine-learning-among-top-roles-wef?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2435535-indian-job-market-to-see-22-pc-churn-in-5-yrs-ai-machine-learning-among-top-roles-wef?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 65
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/26_08_2020_19_45_56_5544402.png?width=1280"
-        width: 1280
-        height: 1280
-        isCached: true
   - title: "Indian job market to see 22 pc churn in 5 years; AI, machine learning among top roles: WEF"
     excerpt: "The WEF said technology continues to pose both challenges and opportunities to labour markets, but employers expect most technologies to contribute positively to job creation."
     publishedDateTime: 2023-05-01T06:37:00Z

@@ -246,6 +246,15 @@ related:
       name: GDPR fines
       domain: itp.net
     quality: 19
+  - title: "IBM to pause hiring for jobs that AI could do"
+    excerpt: "International Business Machines Corp. Chief Executive Officer Arvind Krishna said the company expects to pause hiring for roles it thinks could be replaced with artificial intelligence in the coming years."
+    publishedDateTime: 2023-05-05T21:34:00Z
+    webUrl: "https://www.news-journal.com/news/business/ibm-to-pause-hiring-for-jobs-that-ai-could-do/article_a9ce5b06-eb8c-11ed-9635-c72a4b171373.html"
+    type: article
+    provider:
+      name: Longview News-Journal
+      domain: news-journal.com
+    quality: 19
 
 secured: "DDBYtpxHXOkmbDAurnzLJRLDfJ17tdWWLyU62eGXQ2kghl3w3bRriFLDNMFEyyNIeM1ErdxXbt5DkDZdI6kTX/+Dj1hcQQqW4+DhOqnsHICzAEIGACxZ/m3/y3dc6fFKxATXa9wr7bw1ZVZSr07hafGt7QwSlOXud2IL3cVkZ/GHhtE9Io19TvEUFBrgv6NO4ascdIQCRAXLugoZXFuhwGP3u59+DXm1ARs2gwL9GOVWFeU0KD4IH9nTLLq0Q5wZ/bC6VGQ4EBqlPYyJDLX9dq+T82HBkLQuMFTy20dFCCNWtj1xlyr5hea2OCMu0A1pXstuLCTfCBITWacD40VJEj9F8VRWCryAkvOdOecIzGzRVcRZidbD+AtqYYplv4yduxYqMskm+BolvvECOu5hyUlPYWwSrw+fyU/1/D7gpPQa9fpsCHUkBhwGIifILbg9HrizDl3AsoJnYKgVfhD3tJbbtsH+s0dOUHsz8VwnhKPdJgYOVTQSX1tfzfvkMA4+2EynIXocjyLiiKB7uv8CvQ==;yukmUMQGMOGjzmziQChPqw=="
 ---

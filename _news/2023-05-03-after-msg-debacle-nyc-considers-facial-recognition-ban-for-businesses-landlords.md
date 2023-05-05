@@ -78,20 +78,6 @@ related:
         width: 937
         height: 482
         isCached: true
-  - title: "Big brother is tracking you: lawmakers condemn facial recognition cameras in stores"
-    excerpt: "Major UK chain stores Sports Direct and House of Fraser are facing criticism for their use of biometric facial recognition software. The technology is being used to monitor customers’ movements and behavior within the stores,"
-    publishedDateTime: 2023-05-01T04:01:00Z
-    webUrl: "https://www.digitalcameraworld.com/news/big-brother-is-tracking-you-lawmakers-condemn-facial-recognition-cameras-in-stores"
-    type: article
-    provider:
-      name: digitalcameraworld
-      domain: digitalcameraworld.com
-    quality: 33
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/GAwMn7Siq7enS4TXjtDCqg-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "XjISWYz9mU+BuKQElqdNgHRPcp9JgUDqnxnG/OrPSj2IUVjefL2fr3XmPWrWmSZNmPFi6wBWqyejbkiyQ9JrC/yZD0OTGx3qkJN+7IbcfecKHSTp2n78i6BfXSYuZ5GJUX2nJBVXPrTs4GKNVCunEHHrGIzy5ic6SWxvGn+QWMU5aQP8Zh0Zw0s/RjHdbHJhW4TKtNdD8G3FF08K2dugX5WpchybV3/UG6MWdaC/TSJAm0JgTmd0pyHuJOAVwQHAhDQofPitpE4dwOBZlJvO2LczgKiHWeCOnd6y+OxsgDNSO0kfMysaAIQd4NRslpzELk8HIbDR3qkutauTS5cHsmMk95rjUKACF5nvGUuaIv4=;/f3aurGC2pd0tljeI8wFNQ=="
 ---

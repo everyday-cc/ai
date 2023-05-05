@@ -42,20 +42,6 @@ related:
         height: 630
         isCached: true
   - title: "Insider Q&A: Aurora CEO Chris Urmson on self-driving trucks"
-    excerpt: "Sometime next year, semis with no human in the cab will start carrying freight down Interstate 45 between Dallas and Houston"
-    publishedDateTime: 2023-05-01T09:27:00Z
-    webUrl: "https://www.washingtonpost.com/business/2023/05/01/selfdriving-semi-aurora-safety-autonomous/37ab5e08-e820-11ed-869e-986dd5713bc8_story.html"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 24
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6OYFDJHIEQI63BU6TBW5K4J3ZA.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Insider Q&A: Aurora CEO Chris Urmson on self-driving trucks"
     excerpt: "Sometime next year, semis with no human in the cab will start carrying freight down Interstate 45 between Dallas and Houston. The trucks will run on an autonomous driving system called the Aurora Driver,"
     publishedDateTime: 2023-05-04T17:15:00Z
     webUrl: "https://omaha.com/business/insider-q-a-aurora-ceo-chris-urmson-on-self-driving-trucks/article_fee626a6-337c-55fd-bed4-816ab5e6b1fd.html"
@@ -69,6 +55,15 @@ related:
         width: 1024
         height: 538
         isCached: true
+  - title: "Insider Q&A: Aurora CEO Chris Urmson on self-driving trucks"
+    excerpt: "Q: Teslas on either Autopilot or “Full Self-Driving” using only cameras have crashed into emergency vehicles, motorcycles and other things. Why should we trust you folks when this keeps ..."
+    publishedDateTime: 2023-05-01T13:21:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/insider-qa-aurora-ceo-chris-urmson-driving-trucks-98982755"
+    type: article
+    provider:
+      name: ABC News
+      domain: abcnews.go.com
+    quality: 4
   - title: "Aurora CEO Chris Urmson on the Future of Self-Driving Trucks"
     excerpt: "The prospect of a driverless semi is scary to many, but not to Aurora Innovation CEO Chris Urmson, who helped to build Google’s autonomous vehicle unit."
     publishedDateTime: 2023-05-01T17:50:00Z

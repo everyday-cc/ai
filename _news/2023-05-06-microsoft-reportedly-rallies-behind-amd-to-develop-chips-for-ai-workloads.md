@@ -58,6 +58,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "How Microsoft might turn Bing Chat into your AI personal assistant"
+    excerpt: "Commentary: After analyzing recent Microsoft developer content, expert Simon Bisson says there is a big clue into how Bing Chat will work."
+    publishedDateTime: 2023-05-05T19:22:00Z
+    webUrl: "https://www.techrepublic.com/article/microsoft-bing-chat-ai-personal-assistant/"
+    ampWebUrl: "https://www.techrepublic.com/article/microsoft-bing-chat-ai-personal-assistant/amp/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/microsoft-bing-chat-ai-personal-assistant/amp/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 106
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/02/microsoft-bing-openai-gguy.jpeg"
+        width: 1400
+        height: 934
+        isCached: true
   - title: "Microsoft launches new features for its AI-powered Bing and Edge"
     excerpt: "Microsoft announced a major expansion of its artificial intelligence-based search tools today, opening up new features that allow visual and multimodal searches as well as persistent chat tools. The updates significantly expand the capabilities of Bing,"
     publishedDateTime: 2023-05-04T06:59:00Z
@@ -89,6 +105,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/230503170645-microsoft-bing-ai-052023-super-tease.jpeg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Critics take aim at Biden’s AI meeting with CEOs from Google, OpenAI, Microsoft"
+    excerpt: "On Thursday, President Joe Biden held a meeting at the White House with CEOs of leading AI companies, including Google, Microsoft, OpenAI, and Anthropic,"
+    publishedDateTime: 2023-05-05T21:29:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/05/critics-take-aim-at-bidens-ai-meeting-with-ceos-from-google-openai-microsoft/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/05/critics-take-aim-at-bidens-ai-meeting-with-ceos-from-google-openai-microsoft/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/05/critics-take-aim-at-bidens-ai-meeting-with-ceos-from-google-openai-microsoft/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 102
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/05/GettyImages-1252673513-800x533.jpg"
+        width: 800
+        height: 533
         isCached: true
   - title: "Microsoft barrels ahead with AI plans, opens up Bing Chat preview to everyone"
     excerpt: "The \"Open Preview\" phase of the New Bing makes the chatbot and other features available to anyone with a Microsoft Account, and it coincides with a push to make the chatbot \"more visual.\" Bing Chat will soon be able to generate charts and graphs as part of its answers,"
@@ -307,6 +339,15 @@ related:
         width: 2560
         height: 1709
         isCached: true
+  - title: "Microsoft and AMD are reportedly teaming up to combat Nvidia’s AI dominance"
+    excerpt: "Although Microsoft uses \" tens of thousands \" of Nvidia GPUs in its Azure data centers, Bloomberg reports that the company is also working with AMD to improve the AI capabilities of its GPUs. Although extremely light on details,"
+    publishedDateTime: 2023-05-05T18:16:00Z
+    webUrl: "https://arstechnica.com/gadgets/2023/05/microsoft-and-amd-are-allegedly-teaming-up-to-combat-nvidias-ai-dominance/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 62
   - title: "NVIDIA shares are trading higher after Microsoft denied AMD is involved with its Athena AI chips."
     excerpt: "Never miss a trade again with the fastest news alerts in the world! This headline only article is a sample of real-time intelligence Benzinga Pro traders use to win in the markets everyday. Want the fastest, most accurate stock market intelligence? Want ..."
     publishedDateTime: 2023-05-05T17:32:00Z
@@ -397,6 +438,15 @@ related:
         width: 1664
         height: 674
         isCached: true
+  - title: "Microsoft and AMD are Allegedly Partnering to Challenge Nvidia in AI Chips"
+    excerpt: "Bloomberg article states Microsoft is providing financial support for AMD for its own expansion into AI products and that the two companies are also working on Athena together. Bloomberg says its sources include several people who are close to the project."
+    publishedDateTime: 2023-05-05T19:35:00Z
+    webUrl: "https://www.extremetech.com/computing/microsoft-and-amd-are-allegedly-partnering-to-challenge-nvidia-in-ai-chips"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 49
   - title: "Microsoft Planning Privacy-Focused Version of ChatGPT as Apple AI Efforts Flounder"
     excerpt: "Microsoft is planning to launch a privacy-focused version of ChatGPT amid Apple's apparent lack of grip on emerging AI technologies,"
     publishedDateTime: 2023-05-02T14:11:00Z
@@ -426,6 +476,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "evfU+1WWBsAQIjqAVxNlTQ9h2jPITOM0Jd9tFi6EErK1vpG16UBjDLQ0eRnVkC9HJEcFPdJ+O/ClJwk4lCuoZRx9LmXbZzxNqX3yVgmUXf/IGEw/R2oOguHbJANagEjvaL91iyDUItFeXQkfwvX81RX45bn8ejHu5UXD3JZP9iW/q1lvKTFRWAG/njf+R11EKr4y0SoMUFWocGF1vpl5dJqNrReCE6s7jGdtBK59YdPm6cfifS4Nt7flYXaPKQ7MafBmA4gXH8Xs9PlqaWHiIDZupZhmapFOy4fc8mJW2EW1aFRpP+pTdmzuB0USO1feGzXJXl6mbpvcw10kggpbg/XTW8htxUGacM73nG4eNFk=;i9E1D/R53Az69deYleiOOw=="
+secured: "s0j1KN4Hg4A9qtK++S+gf7g4AGheaGSk4/rhfhf+m+Ow0xT7rSdGeTtJjm2CHAXjJVxIGtk6+ATkTZErsbQNIctQJW0vulk3Q8bNNtMSCA3aQySIghl7OAgP8oojLhN1LSGCd4qcAW8b7sgd1DVA9BEg9dffj2sxtxhudZ03QsR6t5AaSGIKYo492PKzg/D/39b6phb62yjmYAKe0NZWDOpHDfNg1SfS/pW98Ms/FMueuSwxZb0c74g2NIOvozRVT4b+Yod+uUIneT+RjxypPRKYz6WEwoj2fvzhXx8cEHzz0U1PBXHIjs6vNlvTtg8gxskSIqQ3f+pabp/lJ8zWaTnLw0DLmjQkHZtaKWiDght/aOOcFUOdOpBd+gxzmXkXTZ2LnqSc9y24xTAGv+59nPWtH9ZCyttI0hqKRAuiorb9fDVn0Sq/Cg3iBUXN6E+d4jqS9iOYc153Xf/aLN/t7wWdpEKBbtJ3IwWJtUIpLKkkN0ldbbDk0MKd9BL8ja+GGnG4RZX5t18h9uAZ4eVqIA==;NTygdsAWNMjWdni6SopAdg=="
 ---
 

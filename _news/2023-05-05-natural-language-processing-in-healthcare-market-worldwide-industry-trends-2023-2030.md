@@ -94,6 +94,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Healthcare Natural Language Processing Market Forecast to 2031"
+    excerpt: "The Healthcare Natural Language Processing Market Report [101] offers statistical analyses on market growth prospects and in-depth information on the leading manufacturers - SAS I"
+    publishedDateTime: 2023-05-05T01:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-market-forecast-to-2031-2023-05-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
   - title: "FinTech in Insurance Market Outlook and Forecast till 2030"
     excerpt: "According to the \"FinTech in Insurance Market\" report, the technology sector is changing, and both established"
     publishedDateTime: 2023-05-05T05:31:00Z

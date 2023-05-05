@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/games/square-enix-fans-arent-pleased-with-ma
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/square-enix-fans-arent-pleased-with-machine-learning-test/amp/"
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:

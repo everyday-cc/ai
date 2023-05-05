@@ -1,39 +1,48 @@
 ---
 category: news
-title: "Co-founders of Google DeepMind and LinkedIn launch chatbot"
-excerpt: "The co-founders of Google DeepMind and LinkedIn have launched an artificial intelligence chatbot called Pi, adding to the flood of similar products rolled out publicly this year by the likes of OpenAI, Google and Snap."
-publishedDateTime: 2023-05-02T19:00:00Z
-originalUrl: "https://www.ft.com/content/08b40743-16d8-4113-8258-147bf9dbce94?shareType=nongift"
-webUrl: "https://www.ft.com/content/08b40743-16d8-4113-8258-147bf9dbce94?shareType=nongift"
+title: "‘Co-founders of Google DeepMind and LinkedIn launch chatbot’"
+excerpt: "The co-founders of Google DeepMind and LinkedIn have created a new AI chatbot. The announcement comes amid a surge of interest in AI from consumers and"
+publishedDateTime: 2023-05-03T11:10:00Z
+originalUrl: "https://www.techzine.eu/news/applications/105441/co-founders-of-google-deepmind-and-linkedin-launch-chatbot/"
+webUrl: "https://www.techzine.eu/news/applications/105441/co-founders-of-google-deepmind-and-linkedin-launch-chatbot/"
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: The Financial Times
-  domain: ft.com
+  name: techzine
+  domain: techzine.eu
 
 topics:
   - Google AI
   - AI
 
 related:
-  - title: "Technology: Google DeepMind merger, LLM food"
-    excerpt: "Tech correspondent Mark Pesce joins Kathryn to look at the merger of two of Alphabet's big AI teams: Google Brain and DeepMind. Can both put past differences aside to work well together? It comes as AI chatbots explode in popularity - but what are they being trained on?"
-    publishedDateTime: 2023-05-03T23:55:00Z
-    webUrl: "https://www.rnz.co.nz/national/programmes/ninetonoon/audio/2018888689/technology-google-deepmind-merger-llm-food"
+  - title: "Co-founders of LinkedIn and Google DeepMind release a chatbot designed to get you through your day"
+    excerpt: "Co-founders of LinkedIn and Google DeepMind release a chatbot designed to get you through your day - SiliconANGLE"
+    publishedDateTime: 2023-05-03T01:33:00Z
+    webUrl: "https://siliconangle.com/2023/05/02/co-founders-linkedin-google-deepmind-release-chatbot-designed-get-day/"
     type: article
     provider:
-      name: rnz
-      domain: rnz.co.nz
-    quality: 39
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 25
     images:
-      - url: "https://rnz-ressh.cloudinary.com/image/upload/s--13YbS_Un--/t_tohu-badge-facebook/v1644423959/4MC2S0W_copyright_image_260698"
-        width: 1200
-        height: 630
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/julien-tromeur-6UDansS-rPI-unsplash.jpg"
+        width: 640
+        height: 360
         isCached: true
+  - title: "The Stack: Bluesky Emerges as Twitter Rival, DeepMind and LinkedIn Co-Founders Launch Pi Chatbot"
+    excerpt: "Twitter rival Bluesky gains momentum, DeepMind and LinkedIn co-founders collaborate to launch AI chatbot... News this week centred around the return of tech royalty: former Twitter monarch Jack Dorsey made a new bid for the microblogging throne with the launch of Bluesky,"
+    publishedDateTime: 2023-05-05T12:05:00Z
+    webUrl: "https://www.exchangewire.com/blog/2023/05/05/the-stack-bluesky-emerges-as-twitter-rival-deepmind-and-linkedin-co-founders-launch-pi-chatbot/"
+    type: article
+    provider:
+      name: exchangewire.com
+      domain: exchangewire.com
+    quality: 6
 
-secured: "ieOY+W0kOdltiTaCkp7ZZe4iq54uDRjFE+MHJbG1CZfs8Ii2gcIoFijuVLDxDRDhwe2mgAjWb6UeqbfHfFetEI9VbHliAECPP3Gz92by3wmQ6hMebm4EznmfegPcudURMZitdEKApzphM16MT52KzhjGb5s8bSfvgonCx+cKm8CDsB5GRo7BQ6eZL4A8lFyBBwZtj07A7VRIbebSsXpSm/tLDteY4twIpJjkOuBPbqL8nk3VnXlTEBEuxK682XvmyZrhxCLSlkmsnOiGP47gAlA3wPJgiDRNeTlxI7FeMwCgwwompNFHXKoasO66WM8V37sYXReTnC65E8PI5WMOKOX586b1idcPNfm9cxosXRnjbzEGZXlntt8w/Xi2WJuZyq5dMgcb72zwC6UHgyjVA+L+43tjY82ryHiWoQs5/0H1ajxGCL0hA1N1iFqhUtbpdT4OEAD22LPTMxP743zSalbUiBc6LzRSWvGZ5cvy/2ON71zqmsQWsT+jp9SLzTFm3PmFljnFZCNCITroFU6UWg==;zEwpDRRUeMN1BDpVXyJEbQ=="
+secured: "faINjQVCKAJz3R+dwBSoAvbs12eRaG2pX6SC1ZqlaIFU3QHkXF0Nuh4+fJihcOtKLTTq+/gvTinqTfTAr1Qv92BueLspUJ9xPoHAc/viE5BTUeKHNxkjlQjXCKo6RBpmB0ySB+wC9uRfWV1jTovEThYhT8kUMdSmptq5kGW9UwYDNXW90glEOx5LW05QNF1OyGENGIsHNwngs2NexBvCKTYT2CAYbTWRumIwot6w+Cygjl9yTqfujDaH8eRt8UvBItCGh15AfL0Ovtx/Epo5ZE+SDEIU72P/a9FsDwEkNHaS8KL7ifJIjMu2ASz8o7387zZCWRmTt63uoYxuxAXXSP6Ove6IvjoEXnYiOiccov9ZKInxCnDUKmk8NhOlcd6nr7hF/wPMBogxEGkzXkufTlIsNb41tx5URUvnnZzT+A7es/B1kXo817Mx9ndxiBIuhJF12FkEIOyoN86X1LFKcY4jMc65h657a4S3ECHWCqhvrt0db79AZlEg+xm5fJNgNJCiey8j2i9tOezG7n0tDg==;gBKcUTfshqkGhOtJ3nLcLw=="
 ---
 

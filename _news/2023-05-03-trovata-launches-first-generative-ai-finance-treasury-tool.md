@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/trovata-launches-first-g
 webUrl: "https://www.marketwatch.com/press-release/trovata-launches-first-generative-ai-finance-treasury-tool-2023-05-03"
 type: article
 quality: 84
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,17 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Artificial Intelligence: Fintech Trovata Launches Generative AI Finance, Treasury Tool"
+    excerpt: "Trovata, which claims to be the global \"leader\" in bank APIs, recently announced the first generative AI entrant in the fintech space."
+    publishedDateTime: 2023-05-05T18:52:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/05/206646-artificial-intelligence-fintech-trovata-launches-generative-ai-finance-treasury-tool/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 41
 
 secured: "/zTwOgym8Kf+T0wQmA6JjfSeq78/b6jDmcBIyoNBZMlMirYqIFjxKUeiXiwMi4zKihxy9m2sMZPPNdBsAZg7llgTbKgQytIvh9VCXcU+ZD+iNaTLwyx2KcHZdXVthQvqAQBYiOWN2PtHW8CJAWaTDGEHw4yQF40yBVAr0cFSpC446o129hpe7JEu8t+t2awk2JUDNNrGHjT4mgfID+U41pxY49KNnXM7FnaluTMhW+/18HDs0lI1KiVCxTc886vEjNTp63W1sy8UHa7/a92uRhby08HPBZF0xTPTiEQRaLXj85NcbEIjVbf2OGfEcKF3W2LF5p71oZIxv70NcHhFkk0clC5KNi0bZW5gXHdEGRc=;gxokBXM/BFYl2YgO7A8/kw=="
 ---

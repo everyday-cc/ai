@@ -7,8 +7,8 @@ originalUrl: "https://www.pcmag.com/news/wheres-the-ai-apple-tim-cook-teases-a-t
 webUrl: "https://www.pcmag.com/news/wheres-the-ai-apple-tim-cook-teases-a-thoughtful-approach"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: PC Magazine
@@ -28,21 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "AgileThought Launches New Applied AI Guild"
-    excerpt: "Cognitive Services and AI Ethics and Governance. AgileThought experts will work closely with clients to understand their specific needs and develop customized solutions that fit their business goals. \"We are committed to helping our clients stay at the ..."
-    publishedDateTime: 2023-05-04T17:24:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/05/g32220847/agilethought-launches-new-applied-ai-guild"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32220847"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32220847"
+  - title: "What are Apple’s plans for generative AI? Tim Cook wants to be ‘thoughtful’"
+    excerpt: "Apple CEO Tim Cook didn't talk specifics, but noted the company will continue to include generative AI and AI overall in its products."
+    publishedDateTime: 2023-05-05T20:37:00Z
+    webUrl: "https://venturebeat.com/ai/apple-plans-generative-ai-tim-cook-wants-to-be-thoughtful/"
+    ampWebUrl: "https://venturebeat.com/ai/apple-plans-generative-ai-tim-cook-wants-to-be-thoughtful/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/apple-plans-generative-ai-tim-cook-wants-to-be-thoughtful/amp/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 59
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 85
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://venturebeat.com/wp-content/uploads/2020/12/static.reuters.com_-3.jpg?w=1200&strip=all"
+        width: 1200
+        height: 677
         isCached: true
 
 secured: "vBbIbWz0eizudl1aBoiFOaWiaWoKXp3Xce8v9xutrPJl3txiKH11yzs5LJeN7UrMKDnQay0JoKXvbV03JvpNnWqEwA3kxUsyXc2FE0yjNMJeAQ42jk4dbfg+daiVzYVxkoBBttoMvIgcwXn8aKfN3tny0370RGPm4z2gvcoEEvGwUL03QfcXORpHQ2+OmV6OLylgjBPvaZrhndyTfmzqS4uCshtW7eGswrPWinBoMBB+w9vB8yAsyAFI3VqdjYaG+LZIJ2nPV+xgSJi9Bszq5WFb3Yn+TVqTDZDXAf/ceWBHNXdHLp4ChIycED8fnUySZZspF8xwlY719WZaVEJGZPpWUv+jk/on3LTG0dsnPdk=;TfWk2YEzctRq2RWKOcO6pw=="

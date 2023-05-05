@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/katiejennings/2023/05/03/innovationrx
 webUrl: "https://www.forbes.com/sites/katiejennings/2023/05/03/innovationrx-the-fda-oks-the-first-rsv-vaccine-microsofts-ai-play-for-doctors/"
 type: article
 quality: 79
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "CallMiner and Microsoft: A Partnership in Driving Conversation Intelligence Innovations"
+    excerpt: "The collaboration enables CallMiner to bolster its AI capabilities using Azure Cognitive Services (a component of Azure AI), allowing the company to scale more rapidly and securely in order to meet customer demands."
+    publishedDateTime: 2023-05-05T20:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/05/05/9808849.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 31
+    images:
+      - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
+        width: 550
+        height: 353
+        isCached: true
 
 secured: "gPEE31T5pCM+KFVxtN5t/8zGV4Nj2YhPAq5TjTj4fWmK6Mp66Ezv/Qz+blVtLeGUNUzPAsn8BF+uax+3J8bmC+ZAWap7h1HpE2wr8ZK7oFTTC/PfZ8o5sRuBcxU4xRGce0wDhD5btbSgioY7FmSAAlv2bOC604IAmWzimfBhK7uaTZ0WEH12/8GhcBgbVPhTjTdwL7mJeq0rrbQ948zTjuCOnA0Ue9l+itUyTF7f8d+m0Z6XOSKTHmH1TojuIsJPe8acjZE+TdQlULMwYICrXbRhBjNbVLQbXcWukj1bmhUs8n84jZ0hqnKR9pAswjLGaxruXUBLpk0mZSIsigjTRbSSB6LfnRoYoHFe5kWxbQACY4u8iysLQn8vm9d1bd+M5N7plD1IH5uBXZ3suOilcnbgg38U0NE2RJ16uwAgKQNTVIbaTf3a0ITZr/ASnvr5LZNbXDj3hlJpSfJkXExq+gfzqBhs8hMnWRER96uLhCOI01zhatmmerH8NXuTnsaFIkMQOHTcrikmFyWnkCITag==;hqnv9cpQuzceN0lqh/gcBQ=="
 ---

@@ -109,15 +109,6 @@ related:
       name: technologynetworks
       domain: technologynetworks.com
     quality: 34
-  - title: "Rising AI and machine learning investments powering senior care advancements"
-    excerpt: "It’s perhaps no surprise that investment in AI and ML in healthcare rose over the last two years, according to new research from commercial real estate and investment company Jones Lang LaSalle."
-    publishedDateTime: 2023-05-01T04:17:00Z
-    webUrl: "https://www.mcknightsseniorliving.com/home/news/tech-daily-news/rising-ai-and-machine-learning-investments-powering-senior-care-advancements/"
-    type: article
-    provider:
-      name: McKnight's Senior Living
-      domain: mcknightsseniorliving.com
-    quality: 33
   - title: "Kickstart: AI and Industry 4.0"
     excerpt: "Artificial intelligence may be the next logical step for Industry 4.0 practices; Looking for social media accounts worth following; University of Southern Mississippi encourages students to toss their recycling."
     publishedDateTime: 2023-05-01T11:45:00Z

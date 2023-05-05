@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna82543"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna82543"
 type: article
 quality: 89
-heat: 149
+heat: 169
 published: true
 
 provider:
@@ -27,6 +27,34 @@ images:
     isCached: true
 
 related:
+  - title: "In Hollywood Strike, AI Is Nemesis"
+    excerpt: "If the Netflix algorithm is unable to recommend a show we’ll like, maybe it can create one instead."
+    publishedDateTime: 2023-05-05T20:38:00Z
+    webUrl: "https://www.wsj.com/articles/in-hollywood-strike-ai-is-nemesis-script-writer-chatgpt-algorithm-830179ad"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-775952/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "The Next Fear on A.I.: Hollywood’s Killer Robots Become the Military’s Tools"
+    excerpt: "U.S. national security officials are warning about the potential for the new technology to upend war, cyber conflict and — in the most extreme case — the use of nuclear weapons."
+    publishedDateTime: 2023-05-05T20:35:00Z
+    webUrl: "https://www.nytimes.com/2023/05/05/us/politics/ai-military-war-nuclear-weapons-russia-china.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 66
+    images:
+      - url: "https://static01.nyt.com/images/2023/05/05/multimedia/05dc-ai-wh1-ztlm/05dc-ai-wh1-ztlm-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Hollywood Writers Strike Over Pay Disputes with Streaming Giants, AI Concerns"
     excerpt: "The entertainment industry is in the throes of a labor dispute and more than a few of the sticking points involve recent technological changes."
     publishedDateTime: 2023-05-02T05:34:00Z

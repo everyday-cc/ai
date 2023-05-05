@@ -7,8 +7,8 @@ originalUrl: "https://www.bloomberg.com/news/newsletters/2023-05-05/ai-s-potenti
 webUrl: "https://www.bloomberg.com/news/newsletters/2023-05-05/ai-s-potential-and-perils-suddenly-become-real"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Bloomberg L.P.
@@ -26,6 +26,22 @@ images:
     width: 1200
     height: 799
     isCached: true
+
+related:
+  - title: "AI Advancements In Tech And Education Revealed During Latest Earnings Calls"
+    excerpt: "Explore the AI plans of leading companies in tech and education, including recent innovations and regulatory concerns in AI technology."
+    publishedDateTime: 2023-05-05T20:16:00Z
+    webUrl: "https://www.searchenginejournal.com/ai-advancements-earnings-calls/486246/"
+    type: article
+    provider:
+      name: Searchenginejournal.com
+      domain: searchenginejournal.com
+    quality: 54
+    images:
+      - url: "https://www.searchenginejournal.com/wp-content/uploads/2023/05/tech-ai-developments-earnings-calls-64555cf66b977-sej-768x445.jpg"
+        width: 768
+        height: 445
+        isCached: true
 
 secured: "uemrlVw5BtcQFTG3uhuB3JBQ2EXcGVruorFCfUF3VbAf7yx8GV7WNX28VdxNcN0zN2nFnRo5a0nxF5TYknLqjJuL4+8j8lrP6t2DzbRthqhWsFpkqbGCZA8ZK1mfbtOueUYo3VvhJxS0yy40w6surHc0blMewC9rF1MWs7cXLZQUVJOdvoPEC3GeIlzD5UCuD7d0YYEbzx715NqDLKeA8vHn57PWPMb20a6WnVkcfJi62AgjvW3JCNgalp7/n9RLP5OmwjG0s9+cy07p7OFQ8fNUcxgLjeZqTUDNFdi8h5Dq7dwn9ppQd2SXUlo36i0/p6glKn6ay6Zap6KhCklvTP+K2PW/YfBAx0lWsAm7tx5TfyQ8Dx0A/o0gOktKDRjcKJtrRy4Jc03Zjqc8lWXwJvhi0HTIAEdLXlUa+cRVTlhUJUz8J+sLFfH8+ip6zaF8Nb4Qy9NR3Yh1eDb2YEyMw6lMSCLNK0xlF4wlU8Hwx9NVmIYTF99/Aq/UZhJE8o5ggdLE9CSr5e963hrEv5xdgQ==;U4uc7ntM6XTpFf/gnUUjhA=="
 ---

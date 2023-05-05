@@ -1,0 +1,67 @@
+---
+category: news
+title: "IEEE Computer Society Emerging Technology Fund Recipient Introduces Machine Learning Cybersecurity Benchmarks"
+excerpt: "Presentation at The Eleventh International Conference on Learning Representations (ICLR) debuts new findings for end-to-end neural network Trojan"
+publishedDateTime: 2023-05-05T20:34:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ieee-computer-society-emerging-technology-fund-recipient-introduces-machine-learning-cybersecurity-benchmarks-1032298575"
+webUrl: "https://markets.businessinsider.com/news/stocks/ieee-computer-society-emerging-technology-fund-recipient-introduces-machine-learning-cybersecurity-benchmarks-1032298575"
+type: article
+quality: 50
+heat: 80
+published: true
+
+provider:
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Machine Learning
+  - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/2070851/IEEEComputerSociety_Cybersecurity.jpg"
+    width: 400
+    height: 400
+    isCached: true
+
+related:
+  - title: "Are You Concerned About Generative AI Becoming A Cybersecurity Risk?"
+    excerpt: "While in general, artificial intelligence has the potential to enhance security measures and more effectively detect threats, there is an emerging concern that generative AI tools can—and likely will—be leveraged by malicious actors to launch attacks that are more sophisticated and harder to detect."
+    publishedDateTime: 2023-05-03T12:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/03/are-you-concerned-about-generative-ai-becoming-a-cybersecurity-risk/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
+  - title: "You Must Look Beyond AI To Stay Ahead Of Today's Cybersecurity Threats"
+    excerpt: "AI algorithms learn from historical data, making it difficult to anticipate new advanced threats or zero-day attacks. It can also be prone to false positives, which can cause unnecessary disruption and confusion among security professionals, and can be vulnerable to hackers who attempt to manipulate the algorithms."
+    publishedDateTime: 2023-05-05T13:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/05/you-must-look-beyond-ai-to-stay-ahead-of-todays-cybersecurity-threats/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Cybersecurity Still Finding Its Place In New AI Era"
+    excerpt: "It is difficult nowadays to talk to inventors in any tech sector without AI coming up in the conversation — and that is certainly true in cybersecurity."
+    publishedDateTime: 2023-05-03T11:00:00Z
+    webUrl: "https://news.crunchbase.com/cybersecurity/artificial-intelligence-rsa-venture-startup/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 37
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/AI_Sector_Cybersecurity.jpg"
+        width: 900
+        height: 506
+        isCached: true
+
+secured: "/0QT+ETX4vk/hirAANa6PRBel3I6glAtCIPMfbArJGR+GQwj3y6Bst93OPwJfVFuFlHSpl4r7saYCqGm0/119TrvU9uLfVU5uLEE0R1X0GpGJ9xgN4zocwoSMgVK+fZO4ZCsFsQbyi0sFwHarWfgOzqKdk2px9DZ7TZbcaLdwFlsJfusBUmFeRQhWU3IKHt/UOgpIn/8uYAa/AsjPclSvjrBWxOp9oJjmuXiG+mUGjCz5SlK0yGU6Um0X/NN2RBESIXvAeJcbJHJwix+aTWTq2hGxPH9PnMsitnuhq0MsHByxiS/YHlj2azliKZNEfIXb5wvppphCpF+8GfzPwZaJ+eal0C1ihjdW9MJHqjTIUs=;hRd2BN2mxWoGKI50tL+kBA=="
+---
+

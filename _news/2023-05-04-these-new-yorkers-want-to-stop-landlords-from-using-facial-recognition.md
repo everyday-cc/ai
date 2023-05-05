@@ -7,7 +7,7 @@ originalUrl: "https://gizmodo.com/nyc-msg-facial-recognition-landlords-ban-law-h
 webUrl: "https://gizmodo.com/nyc-msg-facial-recognition-landlords-ban-law-hearing-1850401997"
 type: article
 quality: 69
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -72,20 +72,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/10/21112034/police-body-camera.jpg"
         width: 937
         height: 482
-        isCached: true
-  - title: "Big brother is tracking you: lawmakers condemn facial recognition cameras in stores"
-    excerpt: "Major UK chain stores Sports Direct and House of Fraser are facing criticism for their use of biometric facial recognition software. The technology is being used to monitor customers’ movements and behavior within the stores,"
-    publishedDateTime: 2023-05-01T04:01:00Z
-    webUrl: "https://www.digitalcameraworld.com/news/big-brother-is-tracking-you-lawmakers-condemn-facial-recognition-cameras-in-stores"
-    type: article
-    provider:
-      name: digitalcameraworld
-      domain: digitalcameraworld.com
-    quality: 33
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/GAwMn7Siq7enS4TXjtDCqg-1200-80.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "After MSG debacle, NYC considers facial recognition ban for businesses, landlords"
     excerpt: "City Councilmembers will also grill agency officials on their use of biometric surveillance at a Wednesday hearing."
