@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/may/04/uk-and-us-interve
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/04/uk-and-us-intervene-amid-ai-industrys-rapid-advances"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 620
     height: 372
     isCached: true
+
+related:
+  - title: "US announces measures to address risk of artificial intelligence arms race"
+    excerpt: "White House said it would invest $140m in pursuit of AI advances that are ‘ethical, trustworthy, responsible, and serve the public good’"
+    publishedDateTime: 2023-05-04T15:52:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/may/04/us-announces-measures-to-address-risk-of-artificial-intelligence-arms-race"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/04/us-announces-measures-to-address-risk-of-artificial-intelligence-arms-race"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/04/us-announces-measures-to-address-risk-of-artificial-intelligence-arms-race"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 55
+    images:
+      - url: "https://i.guim.co.uk/img/media/f7eb9b7ae2efb54e5f8ccbce13aed19e3f76803e/0_0_6431_3861/master/6431.jpg?width=620&quality=85&auto=format&fit=max&s=ad8bac99eb3bf3d060964213513541f7"
+        width: 620
+        height: 372
+        isCached: true
 
 secured: "3UMmb/hm1vNrBlNce9e67mtESB3b2F8BzNR0rNJvt07ckoUyKffbI3OIGHNaP2HY6VPYeQfLdBWH+RgXouo2DVSMFZH3hQfQ24W6bvBVnTUcV+PYDwSJ3FAiwfwhyDwt4XteSmsfNHXQO5s2+fSVCsZy65nF4W10lFVm4etg8qmHpLX6F4vS3np2YZ0r47RMsI57WUkSz0KcsrT6P7x527h9ZkdlHQLHG3inoH29MohIPqlF82P2OCg3+De0YxELAfqP1tHggpKx0I5aItq5pMmKldIf/DTjS09wmNWcvOyM8XIxZzvE0bujCO3BR7xzCUe4/Ye1svb4bWja42DaVBeg59YMBJJvBcuJyZk3Beo=;HJuswEAo+H5yyW8hooN1EQ=="
 ---

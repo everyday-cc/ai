@@ -42,15 +42,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "How Chip Design Was Revolutionized by AI-Enhanced Game Play"
-    excerpt: "The Untold Story of How Google’s AlphaGo Inspired Synopsys Engineers to Transform Electronic Design Automation with Deep Reinforcement Learning When"
-    publishedDateTime: 2023-05-02T06:21:00Z
-    webUrl: "https://www.design-reuse.com/industryexpertblogs/53964/how-chip-design-was-revolutionized-by-ai-enhanced-game-play.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 34
 
 secured: "DrEOPhFZmszdXviLeIkeY1blCKFwjBKior0T0iKpjX+vNjTv6LdqKk/WWeVLB4vw3U+sxRdDjTZwrBNQeDyWSvclcfAGYEqDorduDA67tr12az/1OvC1Lx7tlWLUc1HZgIHjSYcEaQfV5E3gDhjD4jIKFa7F8egGO3qhmluFOnLZfgAMW1M2KsvyRD8gdvyfVtREbJ15TprncDbPFmyTQomjCoE2h4ZMbY68itXmnFPqQ7EkibLzw86oJY4rnBZXVzE8ZSieXqdWNZDjFrMLazAYCghb8PV+7CnshCcRnxAuzpb+sBNQWAhAtkTO+Y6tcRlabfR5MTgZbftlS1DlGCtYaBUl1VP9ksrcnlI1T10=;wIKSPAlVWxsUnwxs/s8Y2g=="
 ---

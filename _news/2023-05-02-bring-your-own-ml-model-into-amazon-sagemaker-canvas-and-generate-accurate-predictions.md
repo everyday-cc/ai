@@ -53,6 +53,20 @@ related:
         width: 1260
         height: 630
         isCached: true
+  - title: "Achieve high performance with lowest cost for generative AI inference using AWS Inferentia2 and AWS Trainium on Amazon SageMaker"
+    excerpt: "The world of artificial intelligence (AI) and machine learning (ML) has been witnessing a paradigm shift with the rise of generative AI models that can create human-like text, images, code, and audio. Compared to classical ML models, generative AI models are significantly bigger and more complex. However,"
+    publishedDateTime: 2023-05-04T22:10:15Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/achieve-high-performance-with-lowest-cost-for-generative-ai-inference-using-aws-inferentia2-and-aws-trainium-on-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 90
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/04/achieve-high-performance-sagemaker-1258x630.jpg"
+        width: 1258
+        height: 630
+        isCached: true
   - title: "How Vericast optimized feature engineering using Amazon SageMaker Processing"
     excerpt: "This post is co-written by Jyoti Sharma and Sharmo Sarkar from Vericast. For any machine learning (ML) problem, the data scientist begins by working with data. This includes gathering, exploring, and understanding the business and technical aspects of the data, along with evaluation of any manipulations"
     publishedDateTime: 2023-05-03T15:17:59Z

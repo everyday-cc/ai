@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 631
         isCached: true
-  - title: "Parliament's Inadequate Response to the AI Revolution"
-    excerpt: "Blake Lemoine, a Google employee, made headlines by claiming that LaMDA, a chatbot created by Google, had achieved sentience and was able to mimic reality. The news generated both excitement, but also  panic among the tech community because sci-fi movies have traditionally depicted dystopian futures in which sentient machines end up having conflict with humans."
-    publishedDateTime: 2023-05-03T02:49:00Z
-    webUrl: "https://myrepublica.nagariknetwork.com/news/parliament-s-inadequate-response-to-the-ai-revolution/"
-    ampWebUrl: "http://myrepublica.nagariknetwork.com/amp/parliament-s-inadequate-response-to-the-ai-revolution/"
-    cdnAmpWebUrl: "https://myrepublica-nagariknetwork-com.cdn.ampproject.org/c/myrepublica.nagariknetwork.com/amp/parliament-s-inadequate-response-to-the-ai-revolution/"
-    type: article
-    provider:
-      name: myrepublica.nagariknetwork
-      domain: nagariknetwork.com
-    quality: 59
-    images:
-      - url: "https://myrepublica.nagariknetwork.com/uploads/media/Artificial-Intelligence-Trained-to-Find-New-Useful-Materials1_20220125163152.jpg"
-        width: 1200
-        height: 772
-        isCached: true
   - title: "AI ‘could be as transformative as industrial revolution’"
     excerpt: "UK’s outgoing chief scientist urges ministers to ‘get ahead’ of profound social and economic changes"
     publishedDateTime: 2023-05-03T14:29:00Z

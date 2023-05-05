@@ -2,6 +2,195 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-04-28-aimachine-learning-market-size-trends-and-forecast-2030.md",
+      "title": "AI/Machine Learning Market Size, Trends and Forecast 2030",
+      "excerpt": "The latest independent research report on AI/Machine Learning Market 2023 explore investment in Market. It classify",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/aimachine-learning-market-size-trends-and-forecast-2030-2023-04-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/aimachine-learning-market-size-trends-and-forecast-2030-2023-04-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-28T08:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-28-voices-study-finds-creatives-optimistic-about-generative-ai-but-share-concerns-over-its-ethics.md",
+      "title": "Voices study finds creatives optimistic about generative AI, but share concerns over its ethics",
+      "excerpt": "PRNewswire/ - Today, Voices, the world's leading voice over marketplace, released their AI in the Creative Industry",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/voices-study-finds-creatives-optimistic-about-generative-ai-but-share-concerns-over-its-ethics-1032274231",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/voices-study-finds-creatives-optimistic-about-generative-ai-but-share-concerns-over-its-ethics-1032274231",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-28T08:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-28-chatgpt-may-have-better-bedside-manner-than-some-doctors-but-it-lacks-some-expertise.md",
+      "title": "ChatGPT may have better bedside manner than some doctors, but it lacks some expertise",
+      "excerpt": "ChatGPT can be a useful tool for patients who are seeking medical information and guidance, but the artificial intelligence tool can't fully replace the value of a human physician -- it says so itself.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/04/28/health/chatgpt-patient-advice-study-wellness/index.html",
+      "originalUrl": "https://www.cnn.com/2023/04/28/health/chatgpt-patient-advice-study-wellness/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/230411114945-06-chatgpt-phone-stock-super-tease.jpeg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/04/28/health/chatgpt-patient-advice-study-wellness/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/04/28/health/chatgpt-patient-advice-study-wellness/index.html",
+      "publishedDateTime": "2023-04-28T08:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-28-democratic-senator-introduces-bill-targeting-ais-shortfalls.md",
+      "title": "Democratic senator introduces bill targeting AI’s shortfalls",
+      "excerpt": "The popular use of ChatGPT and other artificial intelligence has sparked a rush around the globe to figure out if and how it should be regulated.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/congress/democratic-senator-introduces-bill-targeting-ais-shortfalls-rcna81959",
+      "originalUrl": "https://www.nbcnews.com/politics/congress/democratic-senator-introduces-bill-targeting-ais-shortfalls-rcna81959",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-04/230428-senator-michael-bennett-mn-0950-ae45c0.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna81959",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna81959",
+      "publishedDateTime": "2023-04-28T07:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-28-artificial-intelligence-ai-consulting-market-research-2023-2030.md",
       "title": "Artificial Intelligence (AI) Consulting Market Research, 2023-2030",
       "excerpt": "Consulting Report 2023 The report further studies the market development status and future Artificial Intelligence (AI) Consulting Market trends across the world. Also, it splits Artificial Intelligence (AI) Consulting Market Segmentation by Type and by Applications to fully and deeply research and reveal market profiles and prospects.",
@@ -250,6 +439,58 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-28-what-are-the-dangers-of-ai-find-out-why-people-are-afraid-of-artificial-intelligence.md",
+      "title": "What are the dangers of AI? Find out why people are afraid of artificial intelligence",
+      "excerpt": "Many experts worry that the rapid development of artificial intelligence may have unforeseen disastrous consequences for humanity. Machine learning technology is designed to assist humans in their ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/what-dangers-find-out-why-people-afraid-artificial-intelligence",
+      "originalUrl": "https://www.foxnews.com/tech/what-dangers-find-out-why-people-afraid-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9173ff0e-731a-4938-8d98-838e96cab4aa/8c3c171d-0b0c-4650-a5c1-bb79bf268d11/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/what-dangers-find-out-why-people-afraid-artificial-intelligence.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/what-dangers-find-out-why-people-afraid-artificial-intelligence.amp",
+      "publishedDateTime": "2023-04-28T06:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -966,240 +1207,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-how-robot-art-reveals-the-power-of-humanity.md",
-      "title": "How Robot Art Reveals The Power Of Humanity",
-      "excerpt": "Pilat asserts that AI is gleaning its information from the internet, not real human programming, and as a result, it is detached from the lived human experience. This sense of independence contributes to the development of the robot’s unique sense of style.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alexandrabregman/2023/04/28/how-robot-art-reveals-the-power-of-humanity/",
-      "originalUrl": "https://www.forbes.com/sites/alexandrabregman/2023/04/28/how-robot-art-reveals-the-power-of-humanity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/644874be017ebc582f51f763/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/alexandrabregman/2023/04/28/how-robot-art-reveals-the-power-of-humanity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexandrabregman/2023/04/28/how-robot-art-reveals-the-power-of-humanity/amp/",
-      "publishedDateTime": "2023-04-27T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-artificial-intelligence-robotics-market-demand-by-2031.md",
-      "title": "Artificial Intelligence Robotics Market Demand by 2031",
-      "excerpt": "The latest market research report on the Global \"Artificial Intelligence Robotics Market\" is segmented by Regions,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-demand-by-2031-2023-04-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-demand-by-2031-2023-04-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T19:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-aws-shifts-focus-to-llms-generative-ai-as-growth-continues-to-taper.md",
-      "title": "AWS shifts focus to LLMs, generative AI as growth continues to taper",
-      "excerpt": "Credit: IDG Amazon’s cloud computing division, AWS, is shifting its focus towards large language models (LLMs) and generative AI-based offerings as it continues to see a downward spiral in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/475064/aws-shifts-focus-to-llms-generative-ai-as-growth-continues-to-taper.html",
-      "originalUrl": "https://www.cio.com/article/475064/aws-shifts-focus-to-llms-generative-ai-as-growth-continues-to-taper.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cio.com/wp-content/uploads/2023/04/awsgeneric1600-100803474-orig-2.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cio.com/article/475064/aws-shifts-focus-to-llms-generative-ai-as-growth-continues-to-taper.html/amp/",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/475064/aws-shifts-focus-to-llms-generative-ai-as-growth-continues-to-taper.html/amp/",
-      "publishedDateTime": "2023-04-27T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-deep-learning-system-explores-materials-interiors-from-the-outside.md",
-      "title": "Deep-learning system explores materials' interiors from the outside",
-      "excerpt": "A machine-learning method detects internal structures, voids, and cracks inside a material, based on data about the material's surface.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/04/230428130819.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/04/230428130819.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-machine-learning-helps-scientists-identify-the-environmental-preferences-of-microbes.md",
-      "title": "Machine learning helps scientists identify the environmental preferences of microbes",
-      "excerpt": "A machine-learning approach can give scientists insight into the environmental preferences of microbes, based only on their genes. The approach has practical research implications: it could help researchers more efficiently grow bacteria in the laboratory.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/04/230428153618.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/04/230428153618.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

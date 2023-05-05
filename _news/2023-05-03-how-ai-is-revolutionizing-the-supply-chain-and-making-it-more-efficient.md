@@ -25,52 +25,56 @@ images:
     isCached: true
 
 related:
-  - title: "Keeping humans in charge of AI assisted decision-making"
-    excerpt: "AI assistant powered by OpenAI services – but keeps the user in the driver's seat. WELLINGTON, New Zealand, May 2, 2023 /PRNewswire/ -- 1000minds has launched an AI assistant as part of its decision-making and conjoint analysis software using Microsoft Azure OpenAI services."
-    publishedDateTime: 2023-05-02T15:33:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/keeping-humans-in-charge-of-ai-assisted-decision-making-1032283019"
+  - title: "Synopsys.AI- Revolutionizing Chip Design Through AI-Driven EDA Suite"
+    excerpt: "Ranked Industry Analyst Patrick Moorhead gives his thoughts on Synopsys.ai and how Synopsys is leveraging AI into chip design and EDA."
+    publishedDateTime: 2023-05-04T22:15:00Z
+    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/05/04/synopsysairevolutionizing-chip-design-through-ai-driven-eda-suite/"
+    ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/05/04/synopsysairevolutionizing-chip-design-through-ai-driven-eda-suite/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/05/04/synopsysairevolutionizing-chip-design-through-ai-driven-eda-suite/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "Missing persons helped by artificial intelligence"
-    excerpt: "Indiana has been grappling with an unsolved murder and missing person case for years. With the help of revolutionary augmented reality (AR) and artificial intelligence (AI) crime-solving tools, attention is being brought to these cases like never before."
-    publishedDateTime: 2023-05-01T21:03:00Z
-    webUrl: "https://www.wishtv.com/news/allindiana/missing-persons-helped-by-artificial-intelligence/"
-    type: article
-    provider:
-      name: WISH-TV
-      domain: wishtv.com
-    quality: 37
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: "https://www.wishtv.com/wp-content/uploads/2023/05/kghmnbklgfblgfb.jpg"
-        width: 1512
-        height: 851
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64542c02cba0ed1862eabd27/0x0.jpg?format=jpg&width=1200"
+        width: 624
+        height: 780
         isCached: true
-  - title: "A brewing storm: Journalists being sidelined in the age of AI, and AI-enabled disinfo"
-    excerpt: "What will the future hold for our information ecosystem as journalists experience layoffs in 2023 just as AI takes a stronger hold?"
-    publishedDateTime: 2023-05-02T11:42:00Z
-    webUrl: "https://www.rappler.com/technology/features/journalists-artificial-intelligence-newsroom-effect-disinformation/"
+  - title: "Parliament's Inadequate Response to the AI Revolution"
+    excerpt: "Blake Lemoine, a Google employee, made headlines by claiming that LaMDA, a chatbot created by Google, had achieved sentience and was able to mimic reality. The news generated both excitement, but also  panic among the tech community because sci-fi movies have traditionally depicted dystopian futures in which sentient machines end up having conflict with humans."
+    publishedDateTime: 2023-05-03T02:49:00Z
+    webUrl: "https://myrepublica.nagariknetwork.com/news/parliament-s-inadequate-response-to-the-ai-revolution/"
+    ampWebUrl: "http://myrepublica.nagariknetwork.com/amp/parliament-s-inadequate-response-to-the-ai-revolution/"
+    cdnAmpWebUrl: "https://myrepublica-nagariknetwork-com.cdn.ampproject.org/c/myrepublica.nagariknetwork.com/amp/parliament-s-inadequate-response-to-the-ai-revolution/"
     type: article
     provider:
-      name: Rappler
-      domain: rappler.com
-    quality: 32
+      name: myrepublica.nagariknetwork
+      domain: nagariknetwork.com
+    quality: 59
     images:
-      - url: "https://www.rappler.com/tachyon/2023/05/shutterstock-robot-hands-laptop.jpg"
-        width: 1280
-        height: 720
+      - url: "https://myrepublica.nagariknetwork.com/uploads/media/Artificial-Intelligence-Trained-to-Find-New-Useful-Materials1_20220125163152.jpg"
+        width: 1200
+        height: 772
         isCached: true
-  - title: "Emerging trends in 2023: The evolution of AI in online shopping"
-    excerpt: "In recent years, the AI technology has been widely adopted by the e-commerce sector and AI will witness a fast growth in the coming years so as to enable e-commerce businesses in making data-driven strategic decisions."
-    publishedDateTime: 2023-04-30T13:53:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/emerging-trends-in-2023-the-evolution-of-ai-in-online-shopping-10503931.html"
+  - title: "The coming AI chip shortage"
+    excerpt: "Artificial intelligence requires semiconductors with powerful graphics processing units — chips that very few companies are able to make."
+    publishedDateTime: 2023-05-01T09:59:00Z
+    webUrl: "https://www.marketplace.org/shows/marketplace-tech/the-coming-ai-chip-shortage/"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 17
+      name: Marketplace
+      domain: marketplace.org
+    quality: 34
+  - title: "How Chip Design Was Revolutionized by AI-Enhanced Game Play"
+    excerpt: "The Untold Story of How Google’s AlphaGo Inspired Synopsys Engineers to Transform Electronic Design Automation with Deep Reinforcement Learning When"
+    publishedDateTime: 2023-05-02T06:21:00Z
+    webUrl: "https://www.design-reuse.com/industryexpertblogs/53964/how-chip-design-was-revolutionized-by-ai-enhanced-game-play.html"
+    type: article
+    provider:
+      name: Design-Reuse
+      domain: design-reuse.com
+    quality: 34
 
 secured: "0t/4vJU1hi+TpavvFbNM3fm8/CPecUMvRaApPF6/dqGwGDjyu0bdrsYB2MGc/Ij2ECkGPb8euiURHrZLwAAEAAe9kXdpgS7Tj+v8iLeLR9oS95wW9ZWjyP/4bT583Sh2gsYVOn1nvYmS8s4RIQbIQe4EFMXbLUQsM+DPQ1nb/n1EFawAbvz86+hBQ1OiZCj5B/y1P2Dg/mQDgMqUhIUYMPwabW71VZCoDOi2yTDQh41U/A/xMkoStHtJsL1lflm2k3aA1G0QMbt6j0UhnekTw8ynaCYVITUqKBlPsI/pfDZ9VxOb65Ni+J3fKgGzGAcDcZR6fMSw+MYstkJvPA3+D/eZYeSqtHRRorit+meOWMnkisYTbAXCV59yx0tWJC/DhvVxF5dg4moqWKmSM/5uwcvKvcCUiTbCThx61iKwAdf8q2pMkpzY8JenpeNhNUaKNsFiOD4Te6Mq3gSDcjNpGUQQ9rqIJyaLINQqN8WjGHnUQRVObCH9Yp0IX1/zJnA+sTJ/R+AR4qvuYLy9uc/y7Q==;O9MDAqrW7QlbnTMbYMJ38A=="
 ---

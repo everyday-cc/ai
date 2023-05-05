@@ -2,6 +2,255 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-05-02-sap-to-embed-ibm-watson-ai-into-sap-solutions.md",
+      "title": "SAP to Embed IBM Watson AI into SAP Solutions",
+      "excerpt": "SAP will use IBM Watson capabilities to power its digital assistant in SAP Start, which provides a unified entry point for cloud solutions from SAP. With SAP Start, users can search for, launch and interactively engage with apps provided in cloud solutions from SAP and SAP S/4HANA Cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.datanami.com/this-just-in/sap-to-embed-ibm-watson-ai-into-sap-solutions/",
+      "originalUrl": "https://www.datanami.com/this-just-in/sap-to-embed-ibm-watson-ai-into-sap-solutions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.datanami.com/wp-content/uploads/2023/02/AI-North-America23.png",
+          "width": 1664,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-02T08:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "datanami.com",
+        "domain": "datanami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-02-generative-ai-in-the-construction-sector-taking-building-technology-to-new-heights.md",
+      "title": "Generative AI In The Construction Sector: Taking Building Technology To New Heights",
+      "excerpt": "It’s no exaggeration to say that generative AI will have a transformative effect on global industry. With the ability to generate new outputs based on algorithms and trained data, it represents the next step in artificial intelligence and a new level of sophistication for machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/05/02/generative-ai-in-the-construction-sector-taking-building-technology-to-new-heights/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/05/02/generative-ai-in-the-construction-sector-taking-building-technology-to-new-heights/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64512ef3a78479bc981e6545/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/05/02/generative-ai-in-the-construction-sector-taking-building-technology-to-new-heights/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/05/02/generative-ai-in-the-construction-sector-taking-building-technology-to-new-heights/amp/",
+      "publishedDateTime": "2023-05-02T08:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-02-92-of-businesses-use-ai-driven-personalization-but-consumer-confidence-is-divided.md",
+      "title": "92% of businesses use AI-driven personalization but consumer confidence is divided",
+      "excerpt": "State of Personalization report highlights the significance of building customer loyalty through tailored experiences.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/92-of-businesses-use-ai-driven-personalization-but-consumer-confidence-is-divided/",
+      "originalUrl": "https://venturebeat.com/ai/92-of-businesses-use-ai-driven-personalization-but-consumer-confidence-is-divided/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2015/07/personalization-marketing-targeting-e1683039275909.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/92-of-businesses-use-ai-driven-personalization-but-consumer-confidence-is-divided/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/92-of-businesses-use-ai-driven-personalization-but-consumer-confidence-is-divided/amp/",
+      "publishedDateTime": "2023-05-02T08:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-02-new-relic-launches-grok-its-ai-observability-assistant.md",
+      "title": "New Relic launches Grok, its AI observability assistant",
+      "excerpt": "New Relic introduces Grok, its generative AI assistant for observability, simplifying data analysis and task management for engineers.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/05/02/new-relic-launches-grok-its-ai-observability-assistant/",
+      "originalUrl": "https://techcrunch.com/2023/05/02/new-relic-launches-grok-its-ai-observability-assistant/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2015/11/new_relic_disrupt_afterparty.jpg?resize=1200,645",
+          "width": 1200,
+          "height": 645,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/05/02/new-relic-launches-grok-its-ai-observability-assistant/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/02/new-relic-launches-grok-its-ai-observability-assistant/amp/",
+      "publishedDateTime": "2023-05-02T07:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-02-how-will-ai-impact-the-jobs-of-digital-marketers.md",
+      "title": "How Will AI Impact The Jobs Of Digital Marketers?",
+      "excerpt": "AI can automate certain tasks and processes, but it cannot replicate the creativity, intuition and unique perspective that individual marketers bring to their work.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/02/how-will-ai-impact-the-jobs-of-digital-marketers/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/02/how-will-ai-impact-the-jobs-of-digital-marketers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f9ae2a9fdf0fd5f1e0ffee3/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/02/how-will-ai-impact-the-jobs-of-digital-marketers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/05/02/how-will-ai-impact-the-jobs-of-digital-marketers/amp/",
+      "publishedDateTime": "2023-05-02T07:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-02-neuroscientists-decode-human-thoughts-with-brain-scans-and-artificial-intelligence-heres-the-science-behind-it.md",
       "title": "Neuroscientists Decode Human Thoughts With Brain Scans And Artificial Intelligence, Here’s The Science Behind It",
       "excerpt": "People with disabilities, such as those who have had strokes or have amyotrophic lateral sclerosis, who are unable to speak or communicate in any other way could benefit from this technology.",
@@ -459,7 +708,7 @@
       "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/05/02/5-amazing-ways-how-meta-facebook-is-using-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -997,264 +1246,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-why-growth-mindset-is-needed-with-ai-10-examples-of-carol-dwecks-principles-for-an-existential-moment.md",
-      "title": "Why Growth Mindset Is Needed With AI – 10 Examples of Carol Dweck’s Principles for an Existential Moment",
-      "excerpt": "The truth of AI is that it is an uncomfortable combination of the virtual and digital experience with our physical worlds. The application of AI could well be dangerous, like the new movie, The Artifice Girl.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/michaelgale/2023/05/01/why-growth-mindset-is-needed-with-ai--10-examples-of-carol-dwecks-principles-for-an-existential-moment/",
-      "originalUrl": "https://www.forbes.com/sites/michaelgale/2023/05/01/why-growth-mindset-is-needed-with-ai--10-examples-of-carol-dwecks-principles-for-an-existential-moment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/645031690648d141fdba8ca9/0x0.jpg?format=jpg&crop=2887,1625,x0,y298,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/michaelgale/2023/05/01/why-growth-mindset-is-needed-with-ai--10-examples-of-carol-dwecks-principles-for-an-existential-moment/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelgale/2023/05/01/why-growth-mindset-is-needed-with-ai--10-examples-of-carol-dwecks-principles-for-an-existential-moment/amp/",
-      "publishedDateTime": "2023-05-01T14:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-stone-hearted-researchers-gleefully-push-over-adorable-soccer-playing-robots.md",
-      "title": "Stone-hearted researchers gleefully push over adorable soccer-playing robots",
-      "excerpt": "On Wednesday, researchers from DeepMind released a paper ostensibly about using deep reinforcement learning to train miniature humanoid robots in complex movement skills and strategic understanding, resulting in efficient performance in a simulated one-on-one soccer game.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/05/stone-hearted-researchers-gleefully-push-over-adorable-soccer-playing-robots/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/05/stone-hearted-researchers-gleefully-push-over-adorable-soccer-playing-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/robot_pushing_hero-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/05/stone-hearted-researchers-gleefully-push-over-adorable-soccer-playing-robots/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/05/stone-hearted-researchers-gleefully-push-over-adorable-soccer-playing-robots/amp/",
-      "publishedDateTime": "2023-05-01T14:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot.md",
-      "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
-      "excerpt": "Here's a guide to help understand Open AI's viral text-generating system. We outline the most recent updates and answer the most common FAQs.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/05/01/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/",
-      "originalUrl": "https://techcrunch.com/2023/05/01/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 509,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/05/01/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/01/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/",
-      "publishedDateTime": "2023-05-01T13:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-buy-this-not-that-battle-of-the-real-ai-stars.md",
-      "title": "Buy This, Not That: Battle of the ‘Real’ AI Stars",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Just a few years ago, AI and hyperintelligent machines were the sole province",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/buy-this-not-that-ai-stars-1032279362",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/buy-this-not-that-ai-stars-1032279362",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2023/05/picture4.png",
-          "width": 450,
-          "height": 411,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-01T13:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-grammarlys-new-ai-tool-is-available-in-beta-now.md",
-      "title": "Grammarly's New AI Tool Is Available in Beta Now",
-      "excerpt": "Grammarly, the company behind the digital writing assistant of the same name, is expanding its artificial intelligence resources with a new generative AI tool called GrammarlyGo. The company said the new tool is intended to improve communication,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/services-and-software/grammarlys-new-ai-tool-is-available-in-beta-now/",
-      "originalUrl": "https://www.cnet.com/tech/services-and-software/grammarlys-new-ai-tool-is-available-in-beta-now/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/e794683b92464d6ede33eb923ac1b8f19fc866b7/hub/2022/08/11/6499c375-fdb3-4574-a385-392a997b7a02/open-graph-image-newfunnel.png?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/grammarlys-new-ai-tool-is-available-in-beta-now/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/grammarlys-new-ai-tool-is-available-in-beta-now/",
-      "publishedDateTime": "2023-05-01T13:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

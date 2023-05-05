@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/charliefink/2023/05/03/is-ai-the-histor
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/05/03/is-ai-the-history-eraser-button/amp/"
 type: article
 quality: 87
-heat: 89
+heat: 91
 published: true
 
 provider:

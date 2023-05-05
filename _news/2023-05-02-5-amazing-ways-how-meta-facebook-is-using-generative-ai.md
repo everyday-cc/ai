@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/05/02/5-amazing-ways-h
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/05/02/5-amazing-ways-how-meta-facebook-is-using-generative-ai/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -90,6 +90,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/hampshirereview.com/content/tncms/assets/v3/editorial/2/bc/2bc66de2-fd27-11ec-94c2-575afd51e3a7/62c5801e6fa34.image.jpg?crop=850%2C446%2C0%2C321&resize=850%2C446&order=crop%2Cresize"
         width: 850
         height: 446
+        isCached: true
+  - title: "How generative AI is building better antibodies"
+    excerpt: "Language models similar to those behind ChatGPT have been used to improve antibody therapies against COVID-19, Ebola and other viruses."
+    publishedDateTime: 2023-05-04T23:00:00Z
+    webUrl: "https://www.nature.com/articles/d41586-023-01516-w"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 37
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-01516-w/d41586-023-01516-w_25313644.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Facebook Earnings, Generative AI and Messaging Monetization, Open Source and AI"
     excerpt: "Meta’s earnings showed that all of Meta’s Myths were, in fact, myths. Plus, how LLMs can benefit Meta ad products, and why Meta might open source more AI models."

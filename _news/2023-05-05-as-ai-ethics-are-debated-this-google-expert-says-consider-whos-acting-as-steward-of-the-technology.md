@@ -1,0 +1,29 @@
+---
+category: news
+title: "As AI ethics are debated, this Google expert says: Consider who’s acting as ‘steward’ of the technology"
+excerpt: "\"The more perspectives, the more communities, the more cultures are brought into this conversation, the better the guardrails,\" Carolyn Yap, director of AI Practice, said during PACT's AI-focused Phorum conference."
+publishedDateTime: 2023-05-04T20:56:00Z
+originalUrl: "https://technical.ly/software-development/ai-google-pact-phorum-ethics/"
+webUrl: "https://technical.ly/software-development/ai-google-pact-phorum-ethics/"
+type: article
+quality: 38
+heat: 38
+published: false
+
+provider:
+  name: Technical
+  domain: technical.ly
+
+topics:
+  - AI Ethics
+  - AI
+
+images:
+  - url: "https://technical.ly/wp-content/uploads/2023/05/IMG_1781.jpg"
+    width: 1200
+    height: 900
+    isCached: true
+
+secured: "RL4i1lyKRl+rojGsxyQQ7n7wLSO/6Q3M2v/37nRtyyJxrdcawkqUrbBUTmUM2xRrnOv00z3wprppfCxeZ1cDjMCqrQSsGDP/bSpXx9DQdpBzPBOcYEkKRYEf0GWSxu5NmYtgfGg4+w91FDWovo7W8rhEXJRe/ynfPuOFMXAlisDdhxkUkIDf+le6xzXU7opQLZuZYkUZvjrd2NMQNVyMBGP5/bZHeWWpKB7rcN3o8ARYg9H8JS4T2VTzHqB+zATG+5ZcyUZQQGabinzpcQt5Lof2pscFTAAR5afdW9o4ESaVbKICu4jlsdm4LNggo19vH/wOc69fSP2nqYvXiIoDYVogu6eJhms+tgXdRCRf8a0=;49EBEUATn4ULMLbrSl4tyQ=="
+---
+

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.psychologytoday.com/za/blog/the-media-psychology-effect/
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-media-psychology-effect/202305/examining-the-media-psychology-of-artificial-intelligence?amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Psychology Today
@@ -36,15 +36,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 58
-  - title: "The coming AI chip shortage"
-    excerpt: "Artificial intelligence requires semiconductors with powerful graphics processing units — chips that very few companies are able to make."
-    publishedDateTime: 2023-05-01T09:59:00Z
-    webUrl: "https://www.marketplace.org/shows/marketplace-tech/the-coming-ai-chip-shortage/"
-    type: article
-    provider:
-      name: Marketplace
-      domain: marketplace.org
-    quality: 34
 
 secured: "KnkEzr4ZWUJakxNHFyjHGFO89Z58lULHldDNTSzxvqqmTd2wGZSl4NlhRUmav102VMK/Zc0ZSkLh4+VaJAXmPY9GuJBDNeXfaxAavIhhMMy6OeEpdfnUwpOZ7pVcMi0ApMUJtjv8RnkmU2zKPS0OBPJoc/QJj6v1+aEaAOX1/qKflBTzCnKJ66jx6osta99LyDuuN0KVI1zevoTI0p3+/uO4EfIJNpS/Do9LD9A1Hb414NHgeCYMAeZJMB9hxqKp+7Bfxhya91xLrOQa8RW471SPXd/yjdBrpEBZaXswaP+7CNpPtRZXBTYt5luwEqcgsSRcRMmIJkuETNaUWgQYQopM3dPKsc0Q8mf9hJ2JVDk=;E81wWzLQWGE7sIlS6UkNDw=="
 ---

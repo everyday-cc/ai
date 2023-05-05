@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/05/03/should-we-stop-d
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/05/03/should-we-stop-developing-ai-for-the-good-of-humanity/amp/"
 type: article
 quality: 87
-heat: 109
+heat: 107
 published: true
 
 provider:

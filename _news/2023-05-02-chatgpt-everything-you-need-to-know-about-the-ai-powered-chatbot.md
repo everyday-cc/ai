@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/05/01/chatgpt-everything-you-need-to-kno
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/01/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/"
 type: article
 quality: 89
-heat: 509
+heat: 499
 published: true
 
 provider:
@@ -78,22 +78,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/644e92c9ee3ccccd5dad4712/0x0.jpg?format=jpg&width=1200"
         width: 800
         height: 500
-        isCached: true
-  - title: "Envision Adds ChatGPT AI Sight Assistance To Its Smart Glasses For The Blind"
-    excerpt: "Envision, a developer of smart glasses for the severely sight impaired has launched Ask Envision – a brand new feature leveraging the power of advanced Ai in the form of ChatGPT. The development is a true game changer in helping blind people access and interpret information."
-    publishedDateTime: 2023-04-30T07:00:00Z
-    webUrl: "https://www.forbes.com/sites/gusalexiou/2023/04/30/envision-adds-chatgpt-ai-sight-assistance-to-its-smart-glasses-for-the-blind/"
-    ampWebUrl: "https://www.forbes.com/sites/gusalexiou/2023/04/30/envision-adds-chatgpt-ai-sight-assistance-to-its-smart-glasses-for-the-blind/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gusalexiou/2023/04/30/envision-adds-chatgpt-ai-sight-assistance-to-its-smart-glasses-for-the-blind/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/644dcaea56de9f4c3dad4710/0x0.jpg?format=jpg&crop=1723,730,x105,y0,safe&width=1200"
-        width: 1200
-        height: 508
         isCached: true
   - title: "ChatGPT and Generative AI: Our Guide to 2023's Most Talked-About Technology"
     excerpt: "ChatGPT brought generative AI into the limelight when it hit 1 million users in five days. But how valid is the buzz around ChatGPT?"

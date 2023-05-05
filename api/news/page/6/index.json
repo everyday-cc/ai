@@ -2,6 +2,248 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-05-01-three-trends-of-transformation-how-ai-value-based-care-vbc-will-drive-transformation-of-self-insured-healthcare.md",
+      "title": "Three Trends Of Transformation: How AI & Value-Based Care (VBC) Will Drive Transformation Of Self-Insured Healthcare",
+      "excerpt": "Healthcare is on the brink of a seismic shift, and AI is its catalyst. (1) Large Language Models extend our predictive capabilities. (2) Self-insured companies' risk profile and the patient needs are aligned.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lutzfinger/2023/05/01/three-trends-of-transformation-how-ai--value-based-care-vbc-will-drive-transformation-of-self-insured-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/lutzfinger/2023/05/01/three-trends-of-transformation-how-ai--value-based-care-vbc-will-drive-transformation-of-self-insured-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/644f0e322dfc4586460d1577/0x0.jpg?format=jpg&width=1200",
+          "width": 1024,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-01T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-05-01-next-big-wave-in-tech-investing-watch-out-for-ai-technology-unicorns.md",
+      "title": "Next big wave in tech investing? Watch out for AI ‘technology unicorns’",
+      "excerpt": "Venture capital pros expect generative AI to be “highly” or “moderately disruptive” over the next five years with more than 70% believe a wave of AI-inspired “technology unicorns” is on the horizon. Check out the results of a new survey from Pitchbook.",
+      "sourceUrl": null,
+      "webUrl": "https://wraltechwire.com/2023/05/01/next-big-wave-in-tech-investing-watch-out-for-ai-technology-unicorns/",
+      "originalUrl": "https://wraltechwire.com/2023/05/01/next-big-wave-in-tech-investing-watch-out-for-ai-technology-unicorns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wraltechwire.com/wp-content/uploads/2019/11/cash-dollars-investing.jpg",
+          "width": 1280,
+          "height": 719,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wraltechwire.com/2023/05/01/next-big-wave-in-tech-investing-watch-out-for-ai-technology-unicorns/?amp=1",
+      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/05/01/next-big-wave-in-tech-investing-watch-out-for-ai-technology-unicorns/?amp=1",
+      "publishedDateTime": "2023-05-01T03:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRAL TechWire",
+        "domain": "wraltechwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-01-best-fintech-app-development-companies-in-the-usa.md",
+      "title": "Best Fintech App Development Companies in the USA",
+      "excerpt": "Fintech apps are designed for various purposes such as payments, budgeting, investing, and lending. Fintech app development incorporates advanced technologies such as AI, ML, and Blockchain. Developing a fintech app requires expertise in both finance and technology,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/best-fintech-app-development-companies-in-the-usa-2023-05-01",
+      "originalUrl": "https://www.marketwatch.com/press-release/best-fintech-app-development-companies-in-the-usa-2023-05-01",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 204,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-01T02:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-01-new-machine-learning-tool-by-iit-madras-to-detect-brain-spinal-cord-tumour.md",
+      "title": "New Machine Learning tool by IIT Madras to detect brain, spinal cord tumour",
+      "excerpt": "Madras have developed a Machine Learning (ML)-based computational tool for better detection of cancer-causing tumours in the brain and spinal cord",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/technology/tech-news/new-machine-learning-tool-by-iit-madras-to-detect-brain-spinal-cord-tumour-123050100335_1.html",
+      "originalUrl": "https://www.business-standard.com/technology/tech-news/new-machine-learning-tool-by-iit-madras-to-detect-brain-spinal-cord-tumour-123050100335_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-03/20/full/1647798220-9844.jpg",
+          "width": 620,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.business-standard.com/amp/technology/tech-news/new-machine-learning-tool-by-iit-madras-to-detect-brain-spinal-cord-tumour-123050100335_1.html",
+      "cdnAmpWebUrl": "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/technology/tech-news/new-machine-learning-tool-by-iit-madras-to-detect-brain-spinal-cord-tumour-123050100335_1.html",
+      "publishedDateTime": "2023-05-01T01:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-01-isc-2023-experience-the-power-of-hpc-in-the-cloud-with-microsoft-azure.md",
+      "title": "ISC 2023: Experience the power of HPC in the cloud with Microsoft Azure",
+      "excerpt": "The ISC High-Performance Event (ISC), formerly known as International Supercomputing Conference, is one of the most important events in the high-performance computing (HPC) industry, bringing together some of the world's most prominent researchers, developers, vendors, and users to discuss the latest",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/isc-2023-experience-the-power-of-hpc-in-the-cloud-with-microsoft-azure/",
+      "originalUrl": "https://azure.microsoft.com/blog/isc-2023-experience-the-power-of-hpc-in-the-cloud-with-microsoft-azure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/160d39f8-fece-4aab-9912-c9586177de23.jpg",
+          "width": 251,
+          "height": 251,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-01T01:00:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-01-scientist-noted-dangers-of-ai-in-book-published-shortly-after-his-death.md",
       "title": "Scientist noted dangers of AI in book published shortly after his death",
       "excerpt": "British theoretical physicist Stephen Hawking warned of the dangers associated with artificial intelligence before his death in 2018, arguing it could end the human race.",
@@ -198,7 +440,7 @@
       "originalUrl": "https://venturebeat.com/ai/we-must-perfect-predictive-models-for-generative-ai-to-deliver-on-the-ai-revolution/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -1002,247 +1244,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-29-latest-healthcare-natural-language-processing-market-share-2023-2029-with-new-trend.md",
-      "title": "Latest \"Healthcare Natural Language Processing Market\" Share 2023-2029, With New Trend",
-      "excerpt": "The Readers in the section will understand how the Healthcare Natural Language Processing market scenario changed",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/latest-healthcare-natural-language-processing-market-share-2023-2029-with-new-trend-2023-04-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/latest-healthcare-natural-language-processing-market-share-2023-2029-with-new-trend-2023-04-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-28T18:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-04-29-artificial-intelligence-is-driving-the-stock-market-it-has-some-advice-for-you.md",
-      "title": "Artificial Intelligence Is Driving the Stock Market. It Has Some Advice for You.",
-      "excerpt": "It’s based on an Instagram page called RuPublicans, a nod to reality show celebrity RuPaul, featuring portraits made using the artificial intelligence tools Midjourney and ChatGPT-4. Already a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/artificial-intelligence-tech-stocks-chatgpt-ai-7349e463",
-      "originalUrl": "https://www.barrons.com/articles/artificial-intelligence-tech-stocks-chatgpt-ai-7349e463",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-772462/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/artificial-intelligence-tech-stocks-chatgpt-ai-7349e463",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/artificial-intelligence-tech-stocks-chatgpt-ai-7349e463",
-      "publishedDateTime": "2023-04-28T16:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-29-artificial-intelligence-changing-politics-with-fake-images-and-videos.md",
-      "title": "Artificial intelligence changing politics with fake images and videos",
-      "excerpt": "Artificial intelligence is adding a new dimension to the political universe. NBC News’ Hallie Jackson reports on the danger of disinformation that could come along with the tech, showing us how easily AI can be used to make fake videos or images.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/nightly-news/video/artificial-intelligence-changing-politics-with-fake-images-and-videos-171704901628",
-      "originalUrl": "https://www.nbcnews.com/nightly-news/video/artificial-intelligence-changing-politics-with-fake-images-and-videos-171704901628",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_04/1682723596904_nn_hja_air_ai_2024_election_230428_1920x1080-n2iad7.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo171704901628",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo171704901628",
-      "publishedDateTime": "2023-04-28T16:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-29-report-describes-apples-organizational-dysfunction-and-lack-of-ambition-in-ai.md",
-      "title": "Report describes Apple’s “organizational dysfunction” and “lack of ambition” in AI",
-      "excerpt": "A new behind-the-scenes report in The Information details Apple's struggles to keep up with AI features and innovation amid the rise of large language models (LLMs) that drive groundbreaking tools like ChatGPT.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gadgets/2023/04/report-describes-apples-organizational-dysfunction-and-lack-of-ambition-in-ai/",
-      "originalUrl": "https://arstechnica.com/gadgets/2023/04/report-describes-apples-organizational-dysfunction-and-lack-of-ambition-in-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/iOS-14-header-800x481-1.jpg",
-          "width": 800,
-          "height": 481,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/gadgets/2023/04/report-describes-apples-organizational-dysfunction-and-lack-of-ambition-in-ai/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/04/report-describes-apples-organizational-dysfunction-and-lack-of-ambition-in-ai/amp/",
-      "publishedDateTime": "2023-04-28T16:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-29-2023-2031-object-recognition-imaging-systems-market-opportunities-and-company-growth-strategies.md",
-      "title": "2023-2031 \"Object Recognition Imaging Systems Market\" Opportunities and Company Growth Strategies",
-      "excerpt": "“Global Object Recognition Imaging Systems Research Observes Global Market Competition by Manufacturer: The study offers critical insights into key players, product information, and production ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/2023-2031-object-recognition-imaging-systems-market-opportunities-and-company-growth-strategies-2023-04-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/2023-2031-object-recognition-imaging-systems-market-opportunities-and-company-growth-strategies-2023-04-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-28T15:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

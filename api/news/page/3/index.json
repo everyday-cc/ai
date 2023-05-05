@@ -2,6 +2,246 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-05-03-these-robot-arms-were-designed-to-help-humans-interact-with-ai.md",
+      "title": "These robot arms were designed to help humans interact with AI",
+      "excerpt": "Jizai Arms is a system of supernumerary robotic limbs. Up to six of these arms can be worn and controlled by the user. The limbs allow the wearer to attach, detach, replace or edit the arms. This was designed to enable social interaction between wearers to support human beings acting with robots and AIs while maintaining a sense of self-awareness and widening the possibility of human actions.",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/video/robot-arms-jizai-bodies",
+      "originalUrl": "https://mashable.com/video/robot-arms-jizai-bodies",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/videos/04dRP8kLvImZOxp7RbvFFmD/hero-image.fill.size_1200x675.v1683028082.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-03T04:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-05-03-you-can-now-pay-using-facial-recognition-as-airtel-payments-bank-rolls-out-face-authentication-with-npci.md",
+      "title": "You Can Now Pay Using Facial Recognition As Airtel Payments Bank Rolls Out Face Authentication With NPCI",
+      "excerpt": "Customers just need to present themselves to get payment. In actuality, Airtel Payments Bank started this service.",
+      "sourceUrl": null,
+      "webUrl": "https://in.mashable.com/tech/51949/you-can-now-pay-using-facial-recognition-as-airtel-payments-bank-rolls-out-face-authentication-with",
+      "originalUrl": "https://in.mashable.com/tech/51949/you-can-now-pay-using-facial-recognition-as-airtel-payments-bank-rolls-out-face-authentication-with",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/mashable_in/seo/5/52658/52658_ntny.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-03T04:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "in.mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-05-03-ex-openai-researcher-says-theres-a-50-chance-ai-development-could-end-in-doom.md",
+      "title": "Ex-OpenAI researcher says there's a 50% chance AI development could end in 'doom'",
+      "excerpt": "Paul Christiano runs the non-profit Alignment Research Center but previously ran the language model alignment team at OpenAI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/openai-researcher-ai-doom-50-chatgpt-2023-5",
+      "originalUrl": "https://www.businessinsider.com/openai-researcher-ai-doom-50-chatgpt-2023-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/642f1618c328830019d9f954?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/openai-researcher-ai-doom-50-chatgpt-2023-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/openai-researcher-ai-doom-50-chatgpt-2023-5?amp",
+      "publishedDateTime": "2023-05-03T04:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-03-can-an-auditor-be-replaced-by-ai.md",
+      "title": "Can An Auditor Be Replaced By AI?",
+      "excerpt": "More people are growing concerned that AI could put at risk the careers of auditors, but how much truth is behind this fear?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/03/can-an-auditor-be-replaced-by-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/03/can-an-auditor-be-replaced-by-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64510e0d5d052fdb024e9ff2/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/03/can-an-auditor-be-replaced-by-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/03/can-an-auditor-be-replaced-by-ai/amp/",
+      "publishedDateTime": "2023-05-03T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-03-where-is-india-in-the-generative-ai-race.md",
+      "title": "Where is India in the generative AI race?",
+      "excerpt": "In the high-stakes race for supremacy in the field of generative AI, India's bustling startup ecosystem is facing an uphill battle.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/05/03/where-is-india-in-the-generative-ai-race/",
+      "originalUrl": "https://techcrunch.com/2023/05/03/where-is-india-in-the-generative-ai-race/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1483825958.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/05/03/where-is-india-in-the-generative-ai-race/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/03/where-is-india-in-the-generative-ai-race/amp/",
+      "publishedDateTime": "2023-05-03T02:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-03-try-4-new-arts-and-ai-experiments.md",
       "title": "Try 4 new Arts and AI experiments",
       "excerpt": "Four new online interactive artworks from Google Arts & Culture Lab artists in residence",
@@ -62,7 +302,7 @@
       "originalUrl": "https://www.forbes.com/sites/barrycollins/2023/05/03/midjourney-51-arrivesand-its-another-leap-forward-for-ai-art/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -217,7 +457,7 @@
       "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/05/03/should-we-stop-developing-ai-for-the-good-of-humanity/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1008,255 +1248,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-sap-to-embed-ibm-watson-ai-into-sap-solutions.md",
-      "title": "SAP to Embed IBM Watson AI into SAP Solutions",
-      "excerpt": "SAP will use IBM Watson capabilities to power its digital assistant in SAP Start, which provides a unified entry point for cloud solutions from SAP. With SAP Start, users can search for, launch and interactively engage with apps provided in cloud solutions from SAP and SAP S/4HANA Cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/this-just-in/sap-to-embed-ibm-watson-ai-into-sap-solutions/",
-      "originalUrl": "https://www.datanami.com/this-just-in/sap-to-embed-ibm-watson-ai-into-sap-solutions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.datanami.com/wp-content/uploads/2023/02/AI-North-America23.png",
-          "width": 1664,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-02T08:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-generative-ai-in-the-construction-sector-taking-building-technology-to-new-heights.md",
-      "title": "Generative AI In The Construction Sector: Taking Building Technology To New Heights",
-      "excerpt": "It’s no exaggeration to say that generative AI will have a transformative effect on global industry. With the ability to generate new outputs based on algorithms and trained data, it represents the next step in artificial intelligence and a new level of sophistication for machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/05/02/generative-ai-in-the-construction-sector-taking-building-technology-to-new-heights/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/05/02/generative-ai-in-the-construction-sector-taking-building-technology-to-new-heights/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64512ef3a78479bc981e6545/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/05/02/generative-ai-in-the-construction-sector-taking-building-technology-to-new-heights/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/05/02/generative-ai-in-the-construction-sector-taking-building-technology-to-new-heights/amp/",
-      "publishedDateTime": "2023-05-02T08:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-92-of-businesses-use-ai-driven-personalization-but-consumer-confidence-is-divided.md",
-      "title": "92% of businesses use AI-driven personalization but consumer confidence is divided",
-      "excerpt": "State of Personalization report highlights the significance of building customer loyalty through tailored experiences.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/92-of-businesses-use-ai-driven-personalization-but-consumer-confidence-is-divided/",
-      "originalUrl": "https://venturebeat.com/ai/92-of-businesses-use-ai-driven-personalization-but-consumer-confidence-is-divided/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2015/07/personalization-marketing-targeting-e1683039275909.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/92-of-businesses-use-ai-driven-personalization-but-consumer-confidence-is-divided/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/92-of-businesses-use-ai-driven-personalization-but-consumer-confidence-is-divided/amp/",
-      "publishedDateTime": "2023-05-02T08:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-new-relic-launches-grok-its-ai-observability-assistant.md",
-      "title": "New Relic launches Grok, its AI observability assistant",
-      "excerpt": "New Relic introduces Grok, its generative AI assistant for observability, simplifying data analysis and task management for engineers.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/05/02/new-relic-launches-grok-its-ai-observability-assistant/",
-      "originalUrl": "https://techcrunch.com/2023/05/02/new-relic-launches-grok-its-ai-observability-assistant/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2015/11/new_relic_disrupt_afterparty.jpg?resize=1200,645",
-          "width": 1200,
-          "height": 645,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/05/02/new-relic-launches-grok-its-ai-observability-assistant/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/02/new-relic-launches-grok-its-ai-observability-assistant/amp/",
-      "publishedDateTime": "2023-05-02T07:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-how-will-ai-impact-the-jobs-of-digital-marketers.md",
-      "title": "How Will AI Impact The Jobs Of Digital Marketers?",
-      "excerpt": "AI can automate certain tasks and processes, but it cannot replicate the creativity, intuition and unique perspective that individual marketers bring to their work.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/02/how-will-ai-impact-the-jobs-of-digital-marketers/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/02/how-will-ai-impact-the-jobs-of-digital-marketers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f9ae2a9fdf0fd5f1e0ffee3/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/02/how-will-ai-impact-the-jobs-of-digital-marketers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/05/02/how-will-ai-impact-the-jobs-of-digital-marketers/amp/",
-      "publishedDateTime": "2023-05-02T07:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

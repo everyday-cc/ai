@@ -2,6 +2,265 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-04-27-the-future-of-artificial-intelligence-and-work.md",
+      "title": "The Future Of Artificial Intelligence And Work",
+      "excerpt": "The exponential growth of useful artificial intelligence (AI) applications has taken the world by storm. With AI applications and improvements being released daily, it's tempting to keep pivoting startup ideas and career strategies—especially as entire industries seem to be on the verge of getting disrupted.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/27/the-future-of-artificial-intelligence-and-work/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/27/the-future-of-artificial-intelligence-and-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 259,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/644924d67f513f26cbf33129/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 677,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/27/the-future-of-artificial-intelligence-and-work/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/27/the-future-of-artificial-intelligence-and-work/amp/",
+      "publishedDateTime": "2023-04-27T03:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-27-how-to-avoid-bias-in-machine-learning-algorithms.md",
+      "title": "How To Avoid Bias In Machine Learning Algorithms",
+      "excerpt": "ML algorithms are great helpers that are applicable to numerous industries. However, since the technology is relatively new, many aspects—including biased output—need special attention and improvement.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/27/how-to-avoid-bias-in-machine-learning-algorithms/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/27/how-to-avoid-bias-in-machine-learning-algorithms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64492398c1fbcd6346f33129/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/27/how-to-avoid-bias-in-machine-learning-algorithms/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/27/how-to-avoid-bias-in-machine-learning-algorithms/amp/",
+      "publishedDateTime": "2023-04-27T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-27-meta-stock-jumps-11-on-earnings-beat-as-mark-zuckerberg-touts-ai-and-vows-to-keep-costs-down.md",
+      "title": "Meta stock jumps 11% on earnings beat as Mark Zuckerberg touts AI and vows to keep costs down",
+      "excerpt": "Shares of Facebook, Instagram and WhatsApp's owner surged after its first-quarter revenue and earnings beat Wall Street's expectations.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/meta-stock-price-mark-zuckerberg-ai-year-of-efficiency-investing-2023-4",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/meta-stock-price-mark-zuckerberg-ai-year-of-efficiency-investing-2023-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/644a329e9052390019701bd8?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/news/stocks/meta-stock-price-mark-zuckerberg-ai-year-of-efficiency-investing-2023-4?amp",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/meta-stock-price-mark-zuckerberg-ai-year-of-efficiency-investing-2023-4?amp",
+      "publishedDateTime": "2023-04-27T02:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-27-pwc-is-making-a-1-billion-bet-on-business-ai.md",
+      "title": "PwC is making a $1 billion bet on business AI",
+      "excerpt": "PricewaterhouseCoopers (PwC) has announced plans to invest $1 billion over the course of the next three years into artificial intelligence in an effort to help clients keep up to date with generative AI trends.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/pwc-is-making-a-dollar1-billion-bet-on-business-ai",
+      "originalUrl": "https://www.techradar.com/news/pwc-is-making-a-dollar1-billion-bet-on-business-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/cvUbbQwxuHbLsEVEuaWGcL-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-27T02:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-27-facial-recognition-phone-market-business-report-2023-2030.md",
+      "title": "Facial Recognition Phone Market Business Report [2023-2030]",
+      "excerpt": "Apr 27, 2023 (The Expresswire) -- Newest 94 Pages Report,the goal of Facial Recognition Phone Market Facial Recognition Phone Market is to broaden the knowledge of business professional’s views ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-phone-market-business-report-2023-2030-2023-04-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-phone-market-business-report-2023-2030-2023-04-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-27T02:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-27-whats-new-in-azure-data-ai-helping-organizations-manage-the-data-deluge.md",
       "title": "What’s new in Azure Data & AI: Helping organizations manage the data deluge",
       "excerpt": "Whether you have large, complex AI workloads or you simply want to make the most of intelligent capabilities in your existing applications, Microsoft and our partners are ready to help you accelerate your productivity with data and AI.",
@@ -978,242 +1237,6 @@
         "Microsoft AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-artificial-intelligence-quiz-how-well-do-you-know-ai.md",
-      "title": "Artificial intelligence quiz! How well do you know AI?",
-      "excerpt": "How well do you know the basis of artificial intelligence? Take this quiz and find out what you have knowledge on regarding AI and what you might need more education on.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/artificial-intelligence-quiz-know-ai",
-      "originalUrl": "https://www.foxnews.com/tech/artificial-intelligence-quiz-know-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2023/04/aipic.png",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-26T12:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-microsoft-is-staking-its-future-on-generative-ai.md",
-      "title": "Microsoft Is Staking Its Future On Generative AI",
-      "excerpt": "Microsoft CEO, Satya Nadella,has been very clear that generative AI will reshape every Microsoft software category and major transformations are underway throughout the company. Microsoft has a major edge over its rivals, as it also is building in its own AI chips, so it won’t be totally reliant on market leaders like Intel, or Nvidia.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/04/26/microsoft-is-staking-its-future-on-generative-ai/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/04/26/microsoft-is-staking-its-future-on-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 348,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6449730f6426343270f3312d/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/04/26/microsoft-is-staking-its-future-on-generative-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/04/26/microsoft-is-staking-its-future-on-generative-ai/amp/",
-      "publishedDateTime": "2023-04-26T11:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Microsoft AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-04-26-deliver-your-first-ml-use-case-in-812-weeks.md",
-      "title": "Deliver your first ML use case in 8–12 weeks",
-      "excerpt": "Do you need help to move your organization’s Machine Learning (ML) journey from pilot to production? You’re not alone. Most executives think ML can apply to any business decision, but on average only half of the ML projects make it to production. This post describes how to implement your first ML use",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/deliver-your-first-ml-use-case-in-8-12-weeks/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/deliver-your-first-ml-use-case-in-8-12-weeks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-26T11:36:19-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-here-is-how-ai-is-being-used-in-fetal-ultrasounds.md",
-      "title": "Here Is How AI Is Being Used In Fetal Ultrasounds",
-      "excerpt": "This artificial Intelligence software from Sonio, a French tech company is being used to assist in the diagnosis of fetal anomalies and associated syndromes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2023/04/26/here-is-how-ai-is-being-used-in-fetal-ultrasounds/",
-      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2023/04/26/here-is-how-ai-is-being-used-in-fetal-ultrasounds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64495d4d01bc3672eff33129/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 848,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2023/04/26/here-is-how-ai-is-being-used-in-fetal-ultrasounds/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2023/04/26/here-is-how-ai-is-being-used-in-fetal-ultrasounds/amp/",
-      "publishedDateTime": "2023-04-26T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-this-self-driving-lab-learns-to-make-nanoparticles-all-on-its-own.md",
-      "title": "This self-driving lab learns to make nanoparticles all on its own",
-      "excerpt": "Commun. 2023, DOI: 10.1038/s41467-023-37139-y). Researchers have previously combined artificial intelligence and automation to build self-driving scientific instruments to navigate the expansive r ...",
-      "sourceUrl": null,
-      "webUrl": "https://cen.acs.org/synthesis/self-driving-lab-learns-make-nanoparticles/101/web/2023/04",
-      "originalUrl": "https://cen.acs.org/synthesis/self-driving-lab-learns-make-nanoparticles/101/web/2023/04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-26T10:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "C&EN",
-        "domain": "acs.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

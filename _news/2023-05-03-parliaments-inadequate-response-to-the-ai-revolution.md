@@ -27,54 +27,54 @@ images:
     isCached: true
 
 related:
-  - title: "We must perfect predictive models for generative AI to deliver on the AI revolution"
-    excerpt: "To accelerate the AI revolution, we shouldn’t abandon “old school AI” for flashier generative AI. Why we should perfect predictive AI."
-    publishedDateTime: 2023-04-30T23:09:00Z
-    webUrl: "https://venturebeat.com/ai/we-must-perfect-predictive-models-for-generative-ai-to-deliver-on-the-ai-revolution/"
-    ampWebUrl: "https://venturebeat.com/ai/we-must-perfect-predictive-models-for-generative-ai-to-deliver-on-the-ai-revolution/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/we-must-perfect-predictive-models-for-generative-ai-to-deliver-on-the-ai-revolution/amp/"
+  - title: "Synopsys.AI- Revolutionizing Chip Design Through AI-Driven EDA Suite"
+    excerpt: "Ranked Industry Analyst Patrick Moorhead gives his thoughts on Synopsys.ai and how Synopsys is leveraging AI into chip design and EDA."
+    publishedDateTime: 2023-05-04T22:15:00Z
+    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/05/04/synopsysairevolutionizing-chip-design-through-ai-driven-eda-suite/"
+    ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/05/04/synopsysairevolutionizing-chip-design-through-ai-driven-eda-suite/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/05/04/synopsysairevolutionizing-chip-design-through-ai-driven-eda-suite/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 81
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1347040940.jpg?w=1200&strip=all"
-        width: 1200
-        height: 631
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64542c02cba0ed1862eabd27/0x0.jpg?format=jpg&width=1200"
+        width: 624
+        height: 780
         isCached: true
-  - title: "AI ‘could be as transformative as industrial revolution’"
-    excerpt: "UK’s outgoing chief scientist urges ministers to ‘get ahead’ of profound social and economic changes"
-    publishedDateTime: 2023-05-03T14:29:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/may/03/ai-could-be-as-transformative-as-industrial-revolution-patrick-vallance"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/03/ai-could-be-as-transformative-as-industrial-revolution-patrick-vallance"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/03/ai-could-be-as-transformative-as-industrial-revolution-patrick-vallance"
+  - title: "How AI is Revolutionizing the Supply Chain and Making It More Efficient"
+    excerpt: "Have you ever wondered how Amazon can expeditiously deliver products to customers’ doorsteps shortly after placing an order? The solution to this enigma is rooted in the efficacy of Artificial Intelligence (AI) within supply chain management."
+    publishedDateTime: 2023-05-03T11:09:00Z
+    webUrl: "https://techbullion.com/how-ai-is-revolutionizing-the-supply-chain-and-making-it-more-efficient/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
+      name: Impacts
+      domain: techbullion.com
+    quality: 39
     images:
-      - url: "https://i.guim.co.uk/img/media/a6eaef833556b81337c95f6e88a34a1b44407791/0_300_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=6c607e1e58ea849496f7dd45d0c4493e"
-        width: 620
-        height: 372
+      - url: "https://techbullion.com/wp-content/uploads/2023/05/3cf223d7-hero-image1-08_10i80fk0fk0fk01c000028.png"
+        width: 560
+        height: 560
         isCached: true
-  - title: "UAE Government launches the “Generative AI” Guide to facilitate the adoption of AI technology across vital industries"
-    excerpt: "The “Generative AI” guide serves as a valuable resource for government entities, enabling them to leverage the benefits of AI technologies and enhance its implementation across various fields. Commenting on the launch,"
-    publishedDateTime: 2023-04-30T11:45:00Z
-    webUrl: "https://www.zawya.com/en/press-release/government-news/uae-government-launches-the-generative-ai-guide-to-facilitate-the-adoption-of-ai-technology-across-vital-industries-r5v4skkw"
-    ampWebUrl: "https://www.zawya.com/en/press-release/government-news/uae-government-launches-the-generative-ai-guide-to-facilitate-the-adoption-of-ai-technology-across-vital-industries-r5v4skkw?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/government-news/uae-government-launches-the-generative-ai-guide-to-facilitate-the-adoption-of-ai-technology-across-vital-industries-r5v4skkw?amp=1"
+  - title: "The coming AI chip shortage"
+    excerpt: "Artificial intelligence requires semiconductors with powerful graphics processing units — chips that very few companies are able to make."
+    publishedDateTime: 2023-05-01T09:59:00Z
+    webUrl: "https://www.marketplace.org/shows/marketplace-tech/the-coming-ai-chip-shortage/"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 36
-    images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/YWM4MDI3MDEtMDIzMC00/1/1-jpg.jpeg?f=3%3A2"
-        width: 900
-        height: 600
-        isCached: true
+      name: Marketplace
+      domain: marketplace.org
+    quality: 34
+  - title: "How Chip Design Was Revolutionized by AI-Enhanced Game Play"
+    excerpt: "The Untold Story of How Google’s AlphaGo Inspired Synopsys Engineers to Transform Electronic Design Automation with Deep Reinforcement Learning When"
+    publishedDateTime: 2023-05-02T06:21:00Z
+    webUrl: "https://www.design-reuse.com/industryexpertblogs/53964/how-chip-design-was-revolutionized-by-ai-enhanced-game-play.html"
+    type: article
+    provider:
+      name: Design-Reuse
+      domain: design-reuse.com
+    quality: 34
 
 secured: "AsvraFZhVmpOWE4e0Ec/OaR6ypYv8I18nb+Z5n4YAWvFDTR5tnE3AT0ot9syjbjt1KXSbl+6oNVeYD8uYymCjDxuZxf8kKpnWkSYtil/Dpk/PAw5OY79PW5/dD/JqwHyBWq7A6qZalxQhg3+cGiuZMxX7zUYRGok4PJ6fii9orlUImGXqJUP6vecJ1j7kniH+UiiitmDN1hwrz+8dT7yd4IEMiRVkKhCEvdkeczBoBSKSc6UkOeyEYnI4aL4oCZaupsrLk4O9UEqrzlfDyZ0Ipaa39DAfLpIGWGejVY1tC18AIJzq3EI4XC26cihNVV3EuTrEGSHFvPouxa0qFA5SHRrvD+3NlTLVI4y500Ijil6L9kj7KmIFEN3eODBJKddhdNGdKHu4DO5/8Vq54SY8DvsrsFlwajcqzOqKidcWoKuhib2c6xVMyEghncP/03skRkp+uBqOpKZF0nlj7Bzmzeqshf4RJ7rspEAedN6Ibla+nBkCunr2aKuxgGpIHYOlnqDMYrkusTSMM0sUNIsMw==;9YP0JhYUTVaLBVLX9gI04A=="
 ---

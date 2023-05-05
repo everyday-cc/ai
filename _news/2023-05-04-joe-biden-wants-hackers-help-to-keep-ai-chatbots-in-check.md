@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/joe-biden-hackers-chatgpt-ai-chatbots/am
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/joe-biden-hackers-chatgpt-ai-chatbots/amp"
 type: article
 quality: 87
-heat: 89
+heat: 91
 published: true
 
 provider:

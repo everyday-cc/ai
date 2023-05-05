@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft helping finance AMD's expansion into AI chips- Bloomberg"
+    excerpt: "Microsoft Corp is working with Advanced Micro Devices Inc on the chipmaker's expansion into artificial intelligence processors, Bloomberg News reported on Thursday, citing people with knowledge of the matter."
+    publishedDateTime: 2023-05-04T17:23:00Z
+    webUrl: "https://www.reuters.com/article/amd-ai-microsoft/update-1-microsoft-helping-finance-amds-expansion-into-ai-chips-bloomberg-idUSL4N3714JL"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 118
+    images:
+      - url: "https://www.reuters.com/resizer/xOORmMGGhmHxjWnnPlcl8EiZ6VY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IYT3OK5U4BOMFPVKOXIRRT4YYM.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Microsoft launches new features for its AI-powered Bing and Edge"
     excerpt: "Microsoft announced a major expansion of its artificial intelligence-based search tools today, opening up new features that allow visual and multimodal searches as well as persistent chat tools. The updates significantly expand the capabilities of Bing,"
     publishedDateTime: 2023-05-04T06:59:00Z
@@ -74,21 +88,21 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "OpenAI, Microsoft, and Alphabet CEOs to discuss AI with Biden administration today"
-    excerpt: "The announcement from the White House Briefing Room also included plans for a public evaluation of existing generative AI systems."
-    publishedDateTime: 2023-05-04T15:49:00Z
-    webUrl: "https://www.zdnet.com/article/openai-microsoft-and-alphabet-ceos-to-discuss-ai-with-biden-administration-today/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/openai-microsoft-and-alphabet-ceos-to-discuss-ai-with-biden-administration-today/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/openai-microsoft-and-alphabet-ceos-to-discuss-ai-with-biden-administration-today/"
+  - title: "Aisera embraces Microsoft AI copilot for advanced enterprise service experience"
+    excerpt: "California-based Aisera today extended its partnership with Microsoft to deliver an AI copilot for improving enterprise service."
+    publishedDateTime: 2023-05-03T16:40:00Z
+    webUrl: "https://venturebeat.com/ai/aisera-embraces-microsoft-ai-copilot-for-advanced-enterprise-service-experience/"
+    ampWebUrl: "https://venturebeat.com/ai/aisera-embraces-microsoft-ai-copilot-for-advanced-enterprise-service-experience/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/aisera-embraces-microsoft-ai-copilot-for-advanced-enterprise-service-experience/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 98
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 100
     images:
-      - url: "https://www.zdnet.com/a/img/resize/3995490273681a1e4a741db83b12e7d8110f15c4/2023/05/04/9475ccf7-8940-41af-9e1e-9006d4e4f542/ai-whitehouse.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1320248306-Khanisorn-Chaokla-e1674620924925.jpg?w=1200&strip=all"
         width: 1200
-        height: 675
+        height: 595
         isCached: true
   - title: "CallMiner Collaborates with Microsoft to Enhance AI and Machine Learning Capabilities"
     excerpt: "CallMiner, a leading provider of conversation intelligence to drive business performance improvement, today announced"
@@ -104,35 +118,35 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The new AI-powered Bing is now open to everyone - with some serious upgrades"
-    excerpt: "Microsoft just made the new Bing available to all and unveiled new features that you will want to try out for yourself."
-    publishedDateTime: 2023-05-04T06:59:00Z
-    webUrl: "https://www.zdnet.com/article/bings-ai-powered-search-engine-is-now-open-to-everyone-with-some-serious-upgrades/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/bings-ai-powered-search-engine-is-now-open-to-everyone-with-some-serious-upgrades/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/bings-ai-powered-search-engine-is-now-open-to-everyone-with-some-serious-upgrades/"
+  - title: "AMD Shares Rise 7% After Report of Microsoft AI Chip Deal"
+    excerpt: "Bloomberg reported Microsoft would help AMD increase its supply of in-demand parts and that the two companies were working to develop a homegrown Microsoft AI processor. Represent"
+    publishedDateTime: 2023-05-04T23:51:00Z
+    webUrl: "https://www.barrons.com/articles/amd-shares-rise-7-after-report-of-microsoft-ai-chip-deal-dfeee63"
+    ampWebUrl: "https://www.barrons.com/amp/articles/amd-shares-rise-7-after-report-of-microsoft-ai-chip-deal-dfeee63"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/amd-shares-rise-7-after-report-of-microsoft-ai-chip-deal-dfeee63"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 84
+      name: Barron's
+      domain: barrons.com
+    quality: 91
     images:
-      - url: "https://www.zdnet.com/a/img/resize/ae622570e582fe0a96fd327e4fc9a1568a6e55ad/2023/05/03/db1dd215-0cb0-424a-95e3-9ec44538759a/bing-chat.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://www.barrons.com/asset/barrons/images/social_highres.jpg"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
-  - title: "InnovationRx: The FDA OKs The First RSV Vaccine; Microsoft’s AI Play For Doctors"
-    excerpt: "InnovationRx is your weekly digest of healthcare news. To get it in your inbox, subscribe here."
-    publishedDateTime: 2023-05-03T22:15:00Z
-    webUrl: "https://www.forbes.com/sites/katiejennings/2023/05/03/innovationrx-the-fda-oks-the-first-rsv-vaccine-microsofts-ai-play-for-doctors/"
+  - title: "CallMiner Collaborates with Microsoft to Enhance AI and ML Capabilities"
+    excerpt: "CallMiner, a leading provider of conversation intelligence to drive business performance improvement, today announced it"
+    publishedDateTime: 2023-05-03T16:46:00Z
+    webUrl: "https://www.datanami.com/this-just-in/callminer-collaborates-with-microsoft-to-enhance-ai-and-ml-capabilities/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 79
+      name: datanami.com
+      domain: datanami.com
+    quality: 71
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6452d6708bb19866029c02fa/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-North-America23.png"
+        width: 1664
+        height: 674
         isCached: true
   - title: "Google and Microsoft Are Gaining on AWS: Here's Why Amazon Isn't Worried"
     excerpt: "Google Cloud and Microsoft's (NASDAQ: MSFT) Azure are gaining ground on Amazon (NASDAQ: AMZN) Web Services (AWS). Alphabet reported that Google Cloud revenue soared 28% year-over-year in the quarter ending March 31,"
@@ -148,6 +162,20 @@ related:
         width: 940
         height: 940
         isCached: true
+  - title: "Amazon, Microsoft and Alphabet deliver slower cloud growth. Here's how AI could reverse that trend"
+    excerpt: "Microsoft (MSFT) and Alphabet (GOOGL) continued to slow. But over the longer term, we expect growth to reaccelerate."
+    publishedDateTime: 2023-05-01T14:25:00Z
+    webUrl: "https://www.cnbc.com/2023/05/01/amazon-microsoft-and-alphabet-deliver-slower-cloud-growth-whats-ahead.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 70
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107191059-16758639962023-02-08t134132z_1009027201_rc2vfs94lvi1_rtrmadp_0_usa-treasury-cloud-computing.jpeg?v=1682958326&w=1920&h=1080"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Microsoft will help the Google of China take its self-driving car platform global"
     excerpt: "The biggest stories of the day delivered to your inbox."
     publishedDateTime: 2023-04-30T23:59:00Z
@@ -162,47 +190,44 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Aisera Collaborates with Microsoft to Provide AI Enterprise Service Experiences with ChatGPT and Generative AI"
-    excerpt: "Aisera Collaborates with Microsoft to Provide AI Enterprise Service Experiences with ChatGPT and Generative AI May 03, 2023 (PRNewswire via COMTEX) --"
-    publishedDateTime: 2023-05-03T12:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/aisera-collaborates-with-microsoft-to-provide-ai-enterprise-service-experiences-with-chatgpt-and-generative-ai-2023-05-03"
+  - title: "CallMiner Collaborates with Microsoft to Enhance AI Capabilities"
+    excerpt: "CallMiner Collaborates with Microsoft to Enhance AI and Machine Learning Capabilities for contact centres perform better and more efficiently"
+    publishedDateTime: 2023-05-03T15:24:00Z
+    webUrl: "https://contact-centres.com/callminer-collaborates-with-microsoft-to-enhance-ai-capabilities/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Microsoft reportedly developing privacy-focused ChatGPT for healthcare"
-    excerpt: "Microsoft is reportedly developing a privacy-focused version of ChatGPT for healthcare providers, according to a May 3 TechRadar story."
-    publishedDateTime: 2023-05-03T21:45:00Z
-    webUrl: "https://www.beckershospitalreview.com/disruptors/microsoft-reportedly-developing-privacy-focused-chatgpt-for-healthcare.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 56
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Microsoft Earnings Takeaways: Cloud, Generative AI, The Path To E7"
-    excerpt: "Analyst reports point to the potential for Azure deceleration slowing, an end to customers optimizing cloud spend and the sales potential of generative AI. Better-than-expected results from Microsoft’s latest earnings—not to mention those of cloud rivals Google and Amazon Web Services—led to a mix of analyst reports hopeful for Azure deceleration slowing,"
-    publishedDateTime: 2023-05-01T14:20:00Z
-    webUrl: "https://www.crn.com/news/cloud/microsoft-earnings-takeaways-cloud-generative-ai-the-path-to-e7"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
+      name: Chat Bots
+      domain: contact-centres.com
     quality: 54
     images:
-      - url: "https://www.crn.com/resources/027d-17198c0bb2a2-47b52df5a838-1000/nadella-intro2.jpeg"
-        width: 610
-        height: 457
+      - url: "https://contact-centres.com/wp-content/uploads/2023/05/callminer-microsoft-ai-mage-777x437-may-2023-min.png"
+        width: 776
+        height: 437
+        isCached: true
+  - title: "Microsoft’s Bing AI chatbot to let users post images, ask questions"
+    excerpt: "Microsoft is getting rid of the waitlist to try its new OpenAI-based Bing search and chat, and adding features like the ability to request and post images."
+    publishedDateTime: 2023-05-04T20:09:00Z
+    webUrl: "https://www.seattletimes.com/business/microsofts-bing-ai-chatbot-to-let-users-post-images-ask-questions/"
+    ampWebUrl: "https://www.seattletimes.com/business/microsofts-bing-ai-chatbot-to-let-users-post-images-ask-questions/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/microsofts-bing-ai-chatbot-to-let-users-post-images-ask-questions/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 54
+  - title: "Aisera Collaborates with Microsoft to Provide AI Enterprise Service Experiences"
+    excerpt: "Aisera, provider of Generative AI solutions for organizations, is partnering with Microsoft to deliver an AI copilot for"
+    publishedDateTime: 2023-05-03T16:30:00Z
+    webUrl: "https://www.datanami.com/this-just-in/aisera-collaborates-with-microsoft-to-provide-ai-enterprise-service-experiences/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 50
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-North-America23.png"
+        width: 1664
+        height: 674
         isCached: true
   - title: "Microsoft Planning Privacy-Focused Version of ChatGPT as Apple AI Efforts Flounder"
     excerpt: "Microsoft is planning to launch a privacy-focused version of ChatGPT amid Apple's apparent lack of grip on emerging AI technologies,"
@@ -218,29 +243,6 @@ related:
         width: 2500
         height: 1406
         isCached: true
-  - title: "Microsoft's chief scientific officer says there's no need for a pause on AI — despite what Elon Musk says"
-    excerpt: "Thousands of people, including Elon Musk and AI experts, signed an open letter seeking a 6-month pause on AI development amid ChatGPT's popularity."
-    publishedDateTime: 2023-05-02T18:23:00Z
-    webUrl: "https://www.businessinsider.com/microsoft-executive-elon-musk-ai-acceleration-not-pause-open-letter-2023-5"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
-  - title: "Google tells staff it plans to limit publishing AI research to 'compete and keep knowledge in house' as its rivalry with Microsoft's OpenAI heats up"
-    excerpt: "Google has for years operated a top AI lab that publishes cutting-edge research, but insiders say it's keeping more work confidential."
-    publishedDateTime: 2023-05-04T09:00:00Z
-    webUrl: "https://www.businessinsider.com/google-publishing-less-confidential-ai-research-to-compete-with-openai-2023-4"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
-    images:
-      - url: "https://i.insider.com/6452c554b4a8cd00187aaab6?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Private ChatGPT? Microsoft to offer AI alternative for businesses with sensitive information"
     excerpt: "Microsoft plans to address data privacy concerns of large firms that hold sensitive information and have large regulatory costs for leaks with its new offering."
     publishedDateTime: 2023-05-03T09:55:00Z
@@ -255,29 +257,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "'Adversaries harnessing AI as weapon': Microsoft's chief scientist favors to guide not pause the use of AI"
-    excerpt: "Microsoft's Chief Scientific Officer, Eric Horvitz, has expressed worries and potential about using artificial intelligence (AI) in a new interview."
-    publishedDateTime: 2023-05-03T15:55:00Z
-    webUrl: "https://interestingengineering.com/culture/microsofts-cheif-scientist-favors-to-guide-not-pause-ai"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 38
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/05/03/image/jpeg/SUksc4exkYBxDhHjno0MwJ2DjYMMjUNJPbynKmtn.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "AI News roundup: Microsoft tests privacy focused version of ChatGPT, Slack's generative AI push and more"
-    excerpt: "According to the online publication The Information, Microsoft is planning to offer the variant on its Azure cloud platform and it will run on dedicated servers where data collected by the chatbot would be separated from the public variant."
-    publishedDateTime: 2023-05-04T13:30:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/ai-news-roundup-microsoft-tests-privacy-focused-version-of-chatgpt-slacks-generative-ai-push-and-more-10529011.html"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 17
 
 secured: "AOT3DMurCNX3rycBdGTNpoeNHjgbLbRPAz9Vv3bKG6gvANnKED9RpmjrsX4hmWnEl/hr2mpePVaMz0g9CzS9lHBytwYuaPomOcRb0ykPrCXmxy9mRYO1c+RbMpcNV7q4gnMMigtAgLLp7bWTgJaQOTnNU6EK9S1PpUhaCrB3hyYKkgaeRkljMLp8KU4fV1XAM9CbaTwO4DJq4KC/ts/rwXkHUFEn2lOvPF+NpMh4rsj6qv062ciBnsZ8d2ALcRLw4Z+UX1dRSQrAz7qSxysJU8Gsec66f0UKKqX2wdWKY54KXoMobii7cuu/Ra8m7Ox/IupSTp+I0DQwXegEVtuI2Pf5Nxwsl5EqNiWrglOAr5dDdvBdLaThprR4c5Tp/vcg8a2kzVIzuLEet68iZUVeh+WtEl34x2A1pzAvE0EgKaG3Zb+FXJgFWghzyF+GKhHODkFU3X+j0u85aBOKMr75vCPVZMXK9iocJqzEhcZHMkyZvrISRy2D8SWIw7lkLKVCzRcSYV0/SO9RtevhcrtwMg==;jsKXcr4uzGlGdJFm6uqmzg=="
 ---

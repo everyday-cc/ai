@@ -95,6 +95,20 @@ related:
         width: 850
         height: 446
         isCached: true
+  - title: "How generative AI is building better antibodies"
+    excerpt: "Language models similar to those behind ChatGPT have been used to improve antibody therapies against COVID-19, Ebola and other viruses."
+    publishedDateTime: 2023-05-04T23:00:00Z
+    webUrl: "https://www.nature.com/articles/d41586-023-01516-w"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 37
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-01516-w/d41586-023-01516-w_25313644.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "RuKqHmWTx5M3x13mk2LQKVDj26N1msy6OahkgpWSkiFrj/Z/9E3WqiUMOin9VxJlHzwyKqmO8xI6ZYt7Mx7aeZnj5LYobR9b08rW69J74s9fABF7eDt2KVcwNk+sEGCaB4KPzANlEN3h5/QDP558tgjNYv7Q18p2hot0em8IiSSGj53Qdlt1RR7VT3iMjZgj0MfhVb4Sss8WmGf7wTEF9lgdMMeIZ0ewFAWuKeGeAX/U5W4BWJJ0WGGlR0bTmyR+CNuaGuw7vu00CF6YdDmqex2X5La+mZvfK8SiWOuHMHuBfaQ5zULwyXBR92Cez1y5rTZHFqV6EXnsgGIQ6/L0qGREcEYYthmLRC7Cqhs1qcoflYMxQReRzElzEwSzox179sixkmX3DwPzfef+73IO5EwmWfiJlacgampZpTPcT55ASuml647wkSDTaWrfD63W2WygZx1DIse3pd2mffdonKyq0w0CEQyWAFul9cQ+BOwXY99q+Cqrl0+VmJMCwGE36TOYvwyxsbTwOuJhnvsmUA==;S/IshAFCEAGWCCnb2z1OpQ=="
 ---

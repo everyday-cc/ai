@@ -19,31 +19,61 @@ topics:
   - AI
 
 related:
-  - title: "Examining the Media Psychology of Artificial Intelligence"
-    excerpt: "The psychology of artificial intelligence is a burgeoning field in which science, medicine and health care, psychology, education, entertainment, and technology and commerce converge. Through media psychology, AI can be designed to wag the tail or wag the dog."
-    publishedDateTime: 2023-05-03T18:34:00Z
-    webUrl: "https://www.psychologytoday.com/za/blog/the-media-psychology-effect/202305/examining-the-media-psychology-of-artificial-intelligence"
-    ampWebUrl: "https://www.psychologytoday.com/za/blog/the-media-psychology-effect/202305/examining-the-media-psychology-of-artificial-intelligence?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-media-psychology-effect/202305/examining-the-media-psychology-of-artificial-intelligence?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 59
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-05/Tail%20Wagging%20the%20Dog%20%235.jpg?itok=_UnK84ps"
-        width: 1528
-        height: 800
-        isCached: true
-  - title: "How AI And Machine Learning Can Help Accelerate Studies Of Consumer Deal Psychology"
-    excerpt: "Many other industries have beaten online retail in using AI and ML to refine their processes. Still, by revolutionizing the way brands serve deals, we might have unearthed one of their most valuable applications."
-    publishedDateTime: 2023-05-03T12:44:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/03/how-ai-and-machine-learning-can-help-accelerate-studies-of-consumer-deal-psychology/"
+  - title: "Synopsys.AI- Revolutionizing Chip Design Through AI-Driven EDA Suite"
+    excerpt: "Ranked Industry Analyst Patrick Moorhead gives his thoughts on Synopsys.ai and how Synopsys is leveraging AI into chip design and EDA."
+    publishedDateTime: 2023-05-04T22:15:00Z
+    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/05/04/synopsysairevolutionizing-chip-design-through-ai-driven-eda-suite/"
+    ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/05/04/synopsysairevolutionizing-chip-design-through-ai-driven-eda-suite/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/05/04/synopsysairevolutionizing-chip-design-through-ai-driven-eda-suite/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 58
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64542c02cba0ed1862eabd27/0x0.jpg?format=jpg&width=1200"
+        width: 624
+        height: 780
+        isCached: true
+  - title: "Parliament's Inadequate Response to the AI Revolution"
+    excerpt: "Blake Lemoine, a Google employee, made headlines by claiming that LaMDA, a chatbot created by Google, had achieved sentience and was able to mimic reality. The news generated both excitement, but also  panic among the tech community because sci-fi movies have traditionally depicted dystopian futures in which sentient machines end up having conflict with humans."
+    publishedDateTime: 2023-05-03T02:49:00Z
+    webUrl: "https://myrepublica.nagariknetwork.com/news/parliament-s-inadequate-response-to-the-ai-revolution/"
+    ampWebUrl: "http://myrepublica.nagariknetwork.com/amp/parliament-s-inadequate-response-to-the-ai-revolution/"
+    cdnAmpWebUrl: "https://myrepublica-nagariknetwork-com.cdn.ampproject.org/c/myrepublica.nagariknetwork.com/amp/parliament-s-inadequate-response-to-the-ai-revolution/"
+    type: article
+    provider:
+      name: myrepublica.nagariknetwork
+      domain: nagariknetwork.com
+    quality: 59
+    images:
+      - url: "https://myrepublica.nagariknetwork.com/uploads/media/Artificial-Intelligence-Trained-to-Find-New-Useful-Materials1_20220125163152.jpg"
+        width: 1200
+        height: 772
+        isCached: true
+  - title: "How AI is Revolutionizing the Supply Chain and Making It More Efficient"
+    excerpt: "Have you ever wondered how Amazon can expeditiously deliver products to customers’ doorsteps shortly after placing an order? The solution to this enigma is rooted in the efficacy of Artificial Intelligence (AI) within supply chain management."
+    publishedDateTime: 2023-05-03T11:09:00Z
+    webUrl: "https://techbullion.com/how-ai-is-revolutionizing-the-supply-chain-and-making-it-more-efficient/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 39
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/05/3cf223d7-hero-image1-08_10i80fk0fk0fk01c000028.png"
+        width: 560
+        height: 560
+        isCached: true
+  - title: "How Chip Design Was Revolutionized by AI-Enhanced Game Play"
+    excerpt: "The Untold Story of How Google’s AlphaGo Inspired Synopsys Engineers to Transform Electronic Design Automation with Deep Reinforcement Learning When"
+    publishedDateTime: 2023-05-02T06:21:00Z
+    webUrl: "https://www.design-reuse.com/industryexpertblogs/53964/how-chip-design-was-revolutionized-by-ai-enhanced-game-play.html"
+    type: article
+    provider:
+      name: Design-Reuse
+      domain: design-reuse.com
+    quality: 34
 
 secured: "9QXGahdVG3xKTpbylFIzj3IcGe3RSf0H1XVxUfNlFgBPD4CBeQ8JfkCg9CGmn+YXHvG750aWbgedQyA3qSY6XJDarvYAOPunGoD+c7IEUaXpfw68dMrdvckjyVXWl4ZdAor+ao0+MtmUUzveRfhHrOzH3IRqz3l60d5uA9TNrNl/gcWWuiSqifeeAnVX4sKtjBbpD48OvPHF90c/pcMrlwB1CgWiq3AmB9VsN0X6Ak9/WmqnS8kdvNy5vVYENi6m8M3Mr2xUlkYdJzsO9RK+1yPvBZbSSYJ+1v2X2+1evDQtsi4CX/Ny674WTXz6W/8NuvGCKiUQwOwBd99pHB7T6U86b4E9lt2RrhbS7DZTfsYtVBVC+q1YWgTDqir7mzLPO3bPeITQ7XOhvdEDeqflY/Wuz8qXB0JE9/pYQDNdW+ugZZKhQnci+coKXjLISmPK6mR72FIDwLnOIHSMOACGp5zS498w67FARZNwjImaMLZfi/xnPdBnLoHZgm1zeBS48gvdNdUuA5lGj/t6dc68EQ==;C6y/sCTXVAsgzQOekveOiw=="
 ---

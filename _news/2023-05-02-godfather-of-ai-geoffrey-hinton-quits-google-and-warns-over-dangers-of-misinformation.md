@@ -106,22 +106,6 @@ related:
         width: 2540
         height: 1427
         isCached: true
-  - title: "'Godfather of deep learning' quits Google to openly discuss dangers of AI"
-    excerpt: "A Toronto professor considered to be a pioneer in the field of artificial intelligence announced his departure from Google on Monday so that he could openly discuss the “dangers of AI.”"
-    publishedDateTime: 2023-05-01T18:19:00Z
-    webUrl: "https://www.cp24.com/news/godfather-of-deep-learning-quits-google-to-openly-discuss-dangers-of-ai-1.6378749?cache=gtulocgpuvxrpwim%3FclipId%3D104066"
-    ampWebUrl: "https://beta.cp24.com/news/2023/5/1/1_6378749.html"
-    cdnAmpWebUrl: "https://beta-cp24-com.cdn.ampproject.org/c/s/beta.cp24.com/news/2023/5/1/1_6378749.html"
-    type: article
-    provider:
-      name: CP24
-      domain: cp24.com
-    quality: 73
-    images:
-      - url: "https://beta.ctvnews.ca/cp24/en/news/2023/5/1/1_6378749/_jcr_content/root/responsivegrid/image.coreimg.jpg"
-        width: 717
-        height: 403
-        isCached: true
   - title: "‘Godfather of AI’ Geoffrey Hinton quits Google and warns over dangers of machine learning"
     excerpt: "The neural network pioneer says dangers of chatbots were ‘quite scary’ and warns they could be exploited by ‘bad actors’"
     publishedDateTime: 2023-05-02T03:42:00Z
@@ -215,6 +199,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/Geoffrey-Hinton.png"
         width: 923
         height: 524
+        isCached: true
+  - title: "'Godfather of deep learning' quits Google to openly discuss dangers of AI"
+    excerpt: "A Toronto professor considered to be a pioneer in the field of artificial intelligence announced his departure from Google on Monday so that he could openly discuss the “dangers of AI.”"
+    publishedDateTime: 2023-05-01T18:43:00Z
+    webUrl: "https://www.iheartradio.ca/ctv-news-content/godfather-of-deep-learning-quits-google-to-openly-discuss-dangers-of-ai-1.19598278"
+    type: article
+    provider:
+      name: CKLW
+      domain: iheartradio.ca
+    quality: 53
+    images:
+      - url: "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2023/5/1/geoffrey-hinton-1-6378612-1682965272251.jpg"
+        width: 1020
+        height: 574
         isCached: true
   - title: "Why 'Godfather' of artificial intelligence had to 'blow the whistle' on technology"
     excerpt: "\"I want to sort of blow the whistle and say we should worry seriously about how we stop these things getting control over us.\" Hinton's pioneering work on neural networks shaped artificial intelligence systems powering many of today's products."

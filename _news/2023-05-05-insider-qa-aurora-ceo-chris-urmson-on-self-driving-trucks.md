@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Insider Q&A: Aurora CEO Chris Urmson on self-driving trucks"
-excerpt: "A: We’ve used machine learning, artificial intelligence ... Q: Teslas on either Autopilot or “Full Self-Driving” using only cameras have crashed into emergency vehicles, motorcycles and other things. Why should we trust you folks when this keeps ..."
-publishedDateTime: 2023-05-04T18:06:00Z
-originalUrl: "https://fredericksburg.com/business/insider-q-a-aurora-ceo-chris-urmson-on-self-driving-trucks/article_74b0d4cd-6c5c-5450-b078-83f45085f7a7.html"
-webUrl: "https://fredericksburg.com/business/insider-q-a-aurora-ceo-chris-urmson-on-self-driving-trucks/article_74b0d4cd-6c5c-5450-b078-83f45085f7a7.html"
+excerpt: "Sometime next year, semis with no human in the cab will start carrying freight down Interstate 45 between Dallas and Houston. The trucks will run on an autonomous driving system called the Aurora Driver,"
+publishedDateTime: 2023-05-04T17:15:00Z
+originalUrl: "https://tucson.com/business/insider-q-a-aurora-ceo-chris-urmson-on-self-driving-trucks/article_c8067273-ff8c-5304-8c2e-5dd256daf0cd.html"
+webUrl: "https://tucson.com/business/insider-q-a-aurora-ceo-chris-urmson-on-self-driving-trucks/article_c8067273-ff8c-5304-8c2e-5dd256daf0cd.html"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Fredericksburg.com
-  domain: fredericksburg.com
+  name: Arizona Daily Star
+  domain: tucson.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/fredericksburg.com/content/tncms/assets/v3/editorial/7/4b/74b0d4cd-6c5c-5450-b078-83f45085f7a7/6453ea5b161ec.preview.jpg?crop=1024%2C538%2C0%2C71&resize=1024%2C538&order=crop%2Cresize"
+  - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/c/80/c8067273-ff8c-5304-8c2e-5dd256daf0cd/6453ea679d261.preview.jpg?crop=1024%2C576%2C0%2C52&resize=1024%2C576&order=crop%2Cresize"
     width: 1024
-    height: 538
+    height: 576
     isCached: true
 
 related:
@@ -88,6 +88,6 @@ related:
       domain: ttnews.com
     quality: 4
 
-secured: "UKGoNwSVuHvrlEuvt1ZSX1gQs23Z+2gDGGabz9I7FHFLYdJA0ApcyjE4YEJbu322iI/gdVj7Henh3c/5P0m8roF1MsL9fHK8x1kSd1jtTLYCY1PiS3xq0UpdF2nEvUnjxuACAdzsJCxK9y9/IWI0f5ZUjO1TvyWAwLVc4YwPYjB1FKuzw7btbaZn0q7YIDbHiU/06Asj5KZ+n0FsA6DLwyzVBbd0T8VwD8CV/92GsOH+pT+mM4QjAnHSMIwf2HRDPzhOf1uZ2qwxHfT32jvkxf9dXDQPC1V10HWGswp8bjSNAfo/qze4Vu4U8vWOEdg2cgzv24prqqli1mzAe65J8xwsVomoTm30DqJUuuwSAPk=;znny9/D2IAtI2+9Hq5BR6A=="
+secured: "kjr0vqjaYOTCpH1peRDbE85VVh4tw8bivom2XXm8yZxZE43sP6V8OUuhYa1DtHzMPhQypxlhAnEHdIuN+yAzEjuW35h9yps8QoUhyfyvYWuKIGhCMTyOD7bRMYw4U28oZ03jSM/nNIiJDH4nhcDfyrLQUl2Mh//qZed6JnOaVrUYlEvv1PwEiCpKGQGy5s4UVBklOVbWnud0VJqR5jCOE5b48Xmt+9KFlKGAR4nJqVlASu7R0yTrzA7xm5mCNTwmNt6qWCtgtnhTp/Y3ZyXFPTRoaf4DpPoGqfFxHuxgBtMR3iHAa/qMKQWtIdHqMMY2jeDC0W3k3D/9TGR0LEKlffNTEWiOBXnYrYSVSE+8/Hw=;0VjbgORZRUfsX8HbX0feTQ=="
 ---
 

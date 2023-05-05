@@ -64,18 +64,18 @@ related:
         height: 1278
         isCached: true
   - title: "Insider Q&A: Aurora CEO Chris Urmson on self-driving trucks"
-    excerpt: "A: We’ve used machine learning, artificial intelligence ... Q: Teslas on either Autopilot or “Full Self-Driving” using only cameras have crashed into emergency vehicles, motorcycles and other things. Why should we trust you folks when this keeps ..."
-    publishedDateTime: 2023-05-04T18:06:00Z
-    webUrl: "https://fredericksburg.com/business/insider-q-a-aurora-ceo-chris-urmson-on-self-driving-trucks/article_74b0d4cd-6c5c-5450-b078-83f45085f7a7.html"
+    excerpt: "Sometime next year, semis with no human in the cab will start carrying freight down Interstate 45 between Dallas and Houston. The trucks will run on an autonomous driving system called the Aurora Driver,"
+    publishedDateTime: 2023-05-04T17:15:00Z
+    webUrl: "https://tucson.com/business/insider-q-a-aurora-ceo-chris-urmson-on-self-driving-trucks/article_c8067273-ff8c-5304-8c2e-5dd256daf0cd.html"
     type: article
     provider:
-      name: Fredericksburg.com
-      domain: fredericksburg.com
+      name: Arizona Daily Star
+      domain: tucson.com
     quality: 24
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/fredericksburg.com/content/tncms/assets/v3/editorial/7/4b/74b0d4cd-6c5c-5450-b078-83f45085f7a7/6453ea5b161ec.preview.jpg?crop=1024%2C538%2C0%2C71&resize=1024%2C538&order=crop%2Cresize"
+      - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/c/80/c8067273-ff8c-5304-8c2e-5dd256daf0cd/6453ea679d261.preview.jpg?crop=1024%2C576%2C0%2C52&resize=1024%2C576&order=crop%2Cresize"
         width: 1024
-        height: 538
+        height: 576
         isCached: true
   - title: "Aurora CEO Chris Urmson on the Future of Self-Driving Trucks"
     excerpt: "The prospect of a driverless semi is scary to many, but not to Aurora Innovation CEO Chris Urmson, who helped to build Google’s autonomous vehicle unit."

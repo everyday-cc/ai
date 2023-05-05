@@ -27,20 +27,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "How AI is Revolutionizing the Supply Chain and Making It More Efficient"
-    excerpt: "Have you ever wondered how Amazon can expeditiously deliver products to customers’ doorsteps shortly after placing an order? The solution to this enigma is rooted in the efficacy of Artificial Intelligence (AI) within supply chain management."
-    publishedDateTime: 2023-05-03T11:09:00Z
-    webUrl: "https://techbullion.com/how-ai-is-revolutionizing-the-supply-chain-and-making-it-more-efficient/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 39
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/05/3cf223d7-hero-image1-08_10i80fk0fk0fk01c000028.png"
-        width: 560
-        height: 560
-        isCached: true
   - title: "Missing persons helped by artificial intelligence"
     excerpt: "Indiana has been grappling with an unsolved murder and missing person case for years. With the help of revolutionary augmented reality (AR) and artificial intelligence (AI) crime-solving tools, attention is being brought to these cases like never before."
     publishedDateTime: 2023-05-01T21:03:00Z

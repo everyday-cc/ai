@@ -1,29 +1,25 @@
 ---
 category: news
 title: "Supermix launches AI scaling platform for podcast content creators"
-excerpt: "New York-based startup Supermix is harnessing artificial intelligence to help podcast creators quickly scale and promote their content and expose them to a wider"
-publishedDateTime: 2023-05-04T21:24:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/05/g32228120/supermix-launches-ai-scaling-platform-for-podcast-content-creators"
-webUrl: "https://www.benzinga.com/pressreleases/23/05/g32228120/supermix-launches-ai-scaling-platform-for-podcast-content-creators"
-ampWebUrl: "https://www.benzinga.com/amp/content/32228120"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32228120"
+excerpt: "Supermix, a Podcast content creation agency cofounded by Xavier English and Zac, has created a platform that streamlines the content creation"
+publishedDateTime: 2023-05-04T23:38:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/supermix-launches-ai-scaling-platform-for-podcast-content-creators-1032294596"
+webUrl: "https://markets.businessinsider.com/news/stocks/supermix-launches-ai-scaling-platform-for-podcast-content-creators-1032294596"
 type: article
-quality: 57
-heat: 67
+quality: 47
+heat: 47
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
-
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
 
 related:
   - title: "Pigment launches new AI-based version of its business planning platform"
@@ -36,6 +32,6 @@ related:
       domain: siliconangle.com
     quality: 17
 
-secured: "GEXYoUGFiZRaVNPA7Dma34RezM6zdE3DgkFEJ86OCcWZuotvRLx5LW26eYmN4IMGLtvIrXFCOItvSG5iEbNLUXSTeCl3b3xb+0NxOCMsqUIvQU3baaLpOb0+1S0N8bgWJhO5g5KJ+Nc9sOzZqH7NjanEqOhfWNTuozm9ABHVy/rFC58wNNgVT9DtbpUU9nGLrRPUfvf1uDmAbj/mILpQGeyUY4BpNdZ3vyRDrRb+lJV+sNk6CH9iE6D7QPh9M8qlKxDIXDdveNDCRUEanC2RIn9dpqPbw7s/E3UXhkgFz6GXMY7QmTEeTM6VS1GxiCkn7hd43H2Auosw++MoE7aNvSGRQ5ffSFTcEO5etqGaQIk=;9MRAESni7deiJKQt8UKuHw=="
+secured: "zE0XP9Bi71NhKagTlKy1WzMIR5ogU2RjRe6qN0e5dCmRw/r/Nw30v6DBcPoI0iZY0SnuBfEJofdaaL/mr0DJ9DZnRvXFuYglRmKlekhVHlPQdurPOjvOnRLcuA9tW5r3xorCMrVbFmtyRL7vhq7Toe4eFpN1EKObC1oIuwyXe0SYYCPNmEcEBnOhWkuohCQzz8wsPRfd4X4AMjNRZs3SS2UqYdzDQ1488P0Skx4uR1VBg1qCoxLr8K/cLVrYxBAS6wlQxv4wOyGxzus6xhaAegefGuOpujmATXgyjGYUHHynKqUf0f0py63Cr2E7zUj7mvjimcAKVQ7YlXjnDhvy7PxWz6MslptVBTO7wpK6plk=;9H4ZVYOyvpaqNxCXIGgcrA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/why-open-source-is-essentia
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/why-open-source-is-essential-to-allaying-ai-fears-according-to-stability-ai-founder/"
 type: article
 quality: 80
-heat: 82
+heat: 80
 published: true
 
 provider:

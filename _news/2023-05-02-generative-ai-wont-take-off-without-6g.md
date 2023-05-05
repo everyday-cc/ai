@@ -91,6 +91,20 @@ related:
         width: 850
         height: 446
         isCached: true
+  - title: "How generative AI is building better antibodies"
+    excerpt: "Language models similar to those behind ChatGPT have been used to improve antibody therapies against COVID-19, Ebola and other viruses."
+    publishedDateTime: 2023-05-04T23:00:00Z
+    webUrl: "https://www.nature.com/articles/d41586-023-01516-w"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 37
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-01516-w/d41586-023-01516-w_25313644.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Facebook Earnings, Generative AI and Messaging Monetization, Open Source and AI"
     excerpt: "Meta’s earnings showed that all of Meta’s Myths were, in fact, myths. Plus, how LLMs can benefit Meta ad products, and why Meta might open source more AI models."
     publishedDateTime: 2023-05-03T12:24:00Z

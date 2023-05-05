@@ -19,17 +19,17 @@ topics:
   - AI
 
 related:
-  - title: "Qatar adopts speech recognition AI to boost prosecution efficiency"
-    excerpt: "Qatar has started to use AI speech-to-text technology in public prosecution to boost efficiency, local media reported Thursday, Trend reports citing Xinhua. The system will be used in criminal investigations and editing legal documents in addition to ..."
-    publishedDateTime: 2023-05-04T21:30:00Z
-    webUrl: "https://en.trend.az/world/arab/3744195.html"
+  - title: "Qatar Adopts Speech Recognition AI To Boost Prosecution Efficiency"
+    excerpt: "Qatar has started to use AI speech-to-text technology in public prosecution to boost efficiency, local media reported Thursday, trend reports citing"
+    publishedDateTime: 2023-05-04T23:54:00Z
+    webUrl: "https://menafn.com/1106180848/Qatar-Adopts-Speech-Recognition-AI-To-Boost-Prosecution-Efficiency"
     type: article
     provider:
-      name: Trend News Agency
-      domain: trend.az
+      name: Mena FN
+      domain: menafn.com
     quality: 54
     images:
-      - url: "https://cdn.trend.az/2022/04/23/artificial_intelligence_ai_230422.jpg"
+      - url: "https://menafn.com/updates/pr/2023-05/04/TNA_1aac0image_story.jpg"
         width: 941
         height: 647
         isCached: true

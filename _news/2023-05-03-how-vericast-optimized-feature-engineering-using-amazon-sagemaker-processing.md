@@ -66,6 +66,20 @@ related:
         width: 1260
         height: 630
         isCached: true
+  - title: "Achieve high performance with lowest cost for generative AI inference using AWS Inferentia2 and AWS Trainium on Amazon SageMaker"
+    excerpt: "The world of artificial intelligence (AI) and machine learning (ML) has been witnessing a paradigm shift with the rise of generative AI models that can create human-like text, images, code, and audio. Compared to classical ML models, generative AI models are significantly bigger and more complex. However,"
+    publishedDateTime: 2023-05-04T22:10:15Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/achieve-high-performance-with-lowest-cost-for-generative-ai-inference-using-aws-inferentia2-and-aws-trainium-on-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 90
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/04/achieve-high-performance-sagemaker-1258x630.jpg"
+        width: 1258
+        height: 630
+        isCached: true
   - title: "Implement backup and recovery using an event-driven serverless architecture with Amazon SageMaker Studio"
     excerpt: "Amazon SageMaker Studio is the first fully integrated development environment (IDE) for ML. It provides a single, web-based visual interface where you can perform all machine learning (ML) development steps required to build, train, tune, debug, deploy, and monitor models. It gives data scientists all"
     publishedDateTime: 2023-05-03T16:07:41Z

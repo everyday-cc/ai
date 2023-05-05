@@ -1,25 +1,25 @@
 ---
 category: news
-title: "Qatar adopts speech recognition AI to boost prosecution efficiency"
-excerpt: "Qatar has started to use AI speech-to-text technology in public prosecution to boost efficiency, local media reported Thursday, Trend reports citing Xinhua. The system will be used in criminal investigations and editing legal documents in addition to ..."
-publishedDateTime: 2023-05-04T21:30:00Z
-originalUrl: "https://en.trend.az/world/arab/3744195.html"
-webUrl: "https://en.trend.az/world/arab/3744195.html"
+title: "Qatar Adopts Speech Recognition AI To Boost Prosecution Efficiency"
+excerpt: "Qatar has started to use AI speech-to-text technology in public prosecution to boost efficiency, local media reported Thursday, trend reports citing"
+publishedDateTime: 2023-05-04T23:54:00Z
+originalUrl: "https://menafn.com/1106180848/Qatar-Adopts-Speech-Recognition-AI-To-Boost-Prosecution-Efficiency"
+webUrl: "https://menafn.com/1106180848/Qatar-Adopts-Speech-Recognition-AI-To-Boost-Prosecution-Efficiency"
 type: article
 quality: 54
 heat: 84
 published: true
 
 provider:
-  name: Trend News Agency
-  domain: trend.az
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://cdn.trend.az/2022/04/23/artificial_intelligence_ai_230422.jpg"
+  - url: "https://menafn.com/updates/pr/2023-05/04/TNA_1aac0image_story.jpg"
     width: 941
     height: 647
     isCached: true
@@ -58,6 +58,6 @@ related:
       domain: tmcnet.com
     quality: 3
 
-secured: "9toII8uuEjSIDMQlwMAiZUxWNtCDtUT47Hte4npVfEc3gmQeKCtlPWrFI6X2TFOKYlZkZXjoYdTCk7GMBPqyNNUun7aL08JkSqCIEH3ly/f4dmbXDykI2byB1ZzUKxCXqgPezBfA4AcIOwDPTE8Qf7uFMTkPkmzbRCKMetNNMFtWpcl5pq3kNvkd6AnrscDOg05dsYKuwATQuG4H0h2cCTHMP8mrtZQ8BjkpXPJcJqDGdR5h5puWsS6zR6FN5QBChptv3o/8vLNrK5B73+ZyZHiA/ksE2dKwFW7wkcwMKxCS/hi/yu9N9PgsXp+nDRh5eN+r1EbHN8+s1Yw89xyREVXyNM136QMLumWoolwxXhw=;I6UBwIgtuyEd2w/hclLIBg=="
+secured: "a6TBbP0LygGu0a2uzNwWXH1dvOdIqJxz9Bjt9YliVyWVefSCPix95+MextBhhqnDYrcXb9sO2VKNatIUef3JKVrlfE+dsSZZ5VfuThSiVu/7j47gVu/my1QOlBz9gaASPzqWHJdEqyV+FrDA7nAZ1lYGI7/Hm2RgmJXvgTxIJW0ZzokxlUjK53dR/GPDAsFtvdLa3akyyDxGX8aOkxj5ZrWawPjMg/c5/YlmDSYhEb7W1nHgyN2wBs8AZRUqfSrlhFmLSb4AGqp1NZWzdExQsLEem+DVFnocSB1sV8i3YgIcdbyBlaZhpE7UTdiJMGhLLjjj1GrbXvCg4IDF4V3UTdGYf+SZ+4fy9Rbr/Jsd7AI=;7NEXGQJwHh5KO9qYFzW3sw=="
 ---
 

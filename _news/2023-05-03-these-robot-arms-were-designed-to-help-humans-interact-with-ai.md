@@ -7,7 +7,7 @@ originalUrl: "https://mashable.com/video/robot-arms-jizai-bodies"
 webUrl: "https://mashable.com/video/robot-arms-jizai-bodies"
 type: article
 quality: 84
-heat: 94
+heat: 98
 published: true
 
 provider:
