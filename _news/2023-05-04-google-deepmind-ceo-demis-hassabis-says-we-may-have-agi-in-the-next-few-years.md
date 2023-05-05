@@ -1,22 +1,20 @@
 ---
 category: news
 title: "Google DeepMind CEO Demis Hassabis says we may have AGI ‘in the next few years’"
-excerpt: "The CEO of Google DeepMind says human-level AI could emerge before 2033 — an event that could radically alter how crypto trading bots and"
-publishedDateTime: 2023-05-03T23:42:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/google-deepmind-ceo-demis-hassabis-says-we-may-have-agi-‘in-the-next-few-years-12424078"
-webUrl: "https://markets.businessinsider.com/news/stocks/google-deepmind-ceo-demis-hassabis-says-we-may-have-agi-‘in-the-next-few-years-12424078"
+excerpt: "Demis Hassabis, the CEO of Google DeepMind, recently predicted that artificial intelligence (AI) systems would reach human-level cognition somewhere between “the next few years” and “maybe within a decade.” Hassabis, who got his start in the ..."
+publishedDateTime: 2023-05-03T21:53:00Z
+originalUrl: "https://cointelegraph.com/news/google-deepmind-ceo-demis-hassabis-says-we-may-have-agi-in-the-next-few-years"
+webUrl: "https://cointelegraph.com/news/google-deepmind-ceo-demis-hassabis-says-we-may-have-agi-in-the-next-few-years"
+ampWebUrl: "https://cointelegraph.com/news/google-deepmind-ceo-demis-hassabis-says-we-may-have-agi-in-the-next-few-years/amp"
+cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/google-deepmind-ceo-demis-hassabis-says-we-may-have-agi-in-the-next-few-years/amp"
 type: article
-quality: 45
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: CoinTelegraph
+  domain: cointelegraph.com
 
 topics:
   - Google AI
@@ -85,6 +83,20 @@ related:
         width: 1200
         height: 678
         isCached: true
+  - title: "Tech Digest daily roundup: DeepMind boss says ‘human-level’ AI just a few years away"
+    excerpt: "The head of Google’s artificial intelligence division DeepMind has predicted that human-level AI may be just a few years away."
+    publishedDateTime: 2023-05-05T10:13:00Z
+    webUrl: "https://www.techdigest.tv/2023/05/tech-digest-daily-roundup-deepmind-boss-says-that-human-level-ai-just-a-few-years-away.html"
+    type: article
+    provider:
+      name: Tech Digest
+      domain: techdigest.tv
+    quality: 47
+    images:
+      - url: "https://www.techdigest.tv/wp-content/uploads/2022/06/brain-scan-.jpeg"
+        width: 704
+        height: 396
+        isCached: true
   - title: "'Few years' away from human-like AI, Google Chief makes startling revelation"
     excerpt: "Artificial general intelligence (AGI), a machine intelligence that can comprehend the world as humans do, is closer than ever, according to startling revelations by Google's AI lab chief."
     publishedDateTime: 2023-05-04T14:43:00Z
@@ -118,6 +130,6 @@ related:
       domain: nypost.com
     quality: 29
 
-secured: "nSO8LoZlK06xxS+qBovOb+JG1NMo3Ydm99WCKSH19SYip4o0PUV7zBkZuWtZcQaLvvP01RxVKFM87eS++X2mGQJH53T4pBb+FcFiXIHfQc7HUccXGrMTCd+VRvvVnljPjDTWSXr+WF2uSrqWpK9QcYCCbCPMRQQ7gYBR7qFsmm8QWNq/jz2Ew0TDa71DRsd+MHjNY3/J24qIePhpZR3Cbu1Td1k9uJ7sc7gztv+ICM0dTrNB7rD+6Mbs0Tp4flW0pZi4eNCUY8ApwtxqYDwToj1OtuAh7rx3NCrDeW590BGmW95zkoKEIw68DC7Y8MvCnXKdrOOgKErdoain7np/BQgmDwY+JLfTgDTttkStKa0=;m8VvzliNum3huImNftYtPA=="
+secured: "inba4E362Pp4HzqwciAytPSi/bmDEsBWhFM6XRDiSAv/U75UhHZCAwVlFtFymp8YyWVcpF2v8dqs1xESpfwCLx6qXT5gtjXiumsMEGyMBJ1v/diG7PPTmqQBcd0Bb1e6/3e/GmR9MEP61H6LkhwzUOCbn8+C1FjYnwS7tsVNRnV+Abbko12+ik0bpHDFc0MxjwvPgOnmC+GrtRIFHVvh7RPTiaguV+N2vgtvasggJHKN+gT4SHU2iWiy+0Ta/jZkaHzqsT61gtccfDlkMsF+ittGUTe585iZ6wtsWo5Fi2f/O7sukgdx+I+Fhfgp9dxtuhNqnMuUMsJlhzDh4VblX71Im7XUQl+RyMBz/rp0LNs=;m2tlowjs5fl3N0UZi2KLsQ=="
 ---
 

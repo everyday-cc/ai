@@ -39,15 +39,6 @@ related:
         width: 941
         height: 647
         isCached: true
-  - title: "Fintech, AI Seen To Boost Qatar-Ukraine Economic Ties, Says QUBF Executive"
-    excerpt: "The Qatar-Ukraine Business Forum (QUBF) is eyeing advanced technology as a key sector to further advance economic ties between the Gulf country and t"
-    publishedDateTime: 2023-04-30T18:34:00Z
-    webUrl: "https://menafn.com/1106143687/Fintech-AI-Seen-To-Boost-Qatar-Ukraine-Economic-Ties-Says-QUBF-Executive"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 17
   - title: "3Play Media Study Finds Artificial Intelligence Innovation Has Led to Significant Improvements in Automatic Speech Recognition (ASR)"
     excerpt: "Play Media Study Finds Artificial Intelligence Innovation Has Led to Significant Improvements in Automatic Speech Recognition (ASR) ASR technology has never been as accurate as i"
     publishedDateTime: 2023-05-03T12:53:00Z

@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Healthcare Natural Language Processing Market 2023 Insight and Global Trends"
+    excerpt: "The Healthcare Natural Language Processing Market Scope and Overview Report for 2023 presents a detailed analysis of"
+    publishedDateTime: 2023-05-05T07:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-market-2023-insight-and-global-trends-2023-05-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 83
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Face Recognition Device Market Forecast : Trends and Insights till 2031"
     excerpt: "\"Face Recognition Device Market Size is projected to Reach Multimillion USD by 2031, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2031.\" Ask for a Sample Report \"Browse Detailed TOC of Face Recognition Device Market report with 153 Tables and Figures andCharts that provides exclusive data,"
     publishedDateTime: 2023-05-02T09:13:00Z

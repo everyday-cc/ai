@@ -43,6 +43,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Neural network creator warns about AI dangers"
+    excerpt: "British-Canadian scientist Geoffrey Hinton warned humanity about the threats posed by artificial intelligence (AI). The creator of the"
+    publishedDateTime: 2023-05-05T10:30:00Z
+    webUrl: "https://www.sb.by/en/neural-network-creator-warns-about-ai-dangers.html"
+    type: article
+    provider:
+      name: sb.by
+      domain: www.sb.by
+    quality: 54
+    images:
+      - url: "https://www.sb.by/upload/content/og_image.jpg"
+        width: 900
+        height: 500
+        isCached: true
   - title: "Artificial intelligence expert warns of impending danger, quits Google to raise awareness"
     excerpt: "Hinton expressed concern that computers could become more intelligent than humans far sooner than he and his colleagues had anticipated..Geoffrey Hinton. Google. artificial intelligence. Geoffrey Hinton quits google."
     publishedDateTime: 2023-05-03T10:40:00Z

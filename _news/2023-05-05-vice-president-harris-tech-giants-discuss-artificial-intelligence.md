@@ -86,6 +86,54 @@ related:
         width: 256
         height: 256
         isCached: true
+  - title: "Vice President Harris meets with CEOs about risks of artificial intelligence"
+    excerpt: "Vice President Kamala Harris met on Thursday with the heads of Google, Microsoft and two other companies developing artificial intelligence."
+    publishedDateTime: 2023-05-05T11:25:00Z
+    webUrl: "https://thegrio.com/2023/05/05/vice-president-harris-meets-with-ceos-about-risks-of-artificial-intelligence/"
+    ampWebUrl: "https://thegrio.com/2023/05/05/vice-president-harris-meets-with-ceos-about-risks-of-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2023/05/05/vice-president-harris-meets-with-ceos-about-risks-of-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: The Grio
+      domain: thegrio.com
+    quality: 60
+    images:
+      - url: "https://thegrio.com/wp-content/uploads/2023/05/AP23121595237837-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
+  - title: "Biden, Harris meet with CEOs about AI risks"
+    excerpt: "Vice President Kamala Harris has met with the heads of Google, Microsoft and two other companies developing artificial intelligence"
+    publishedDateTime: 2023-05-05T03:47:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/harris-meet-ceos-artificial-intelligence-risks-99068992"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/harris-meet-ceos-artificial-intelligence-risks-99068992"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/harris-meet-ceos-artificial-intelligence-risks-99068992"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 59
+    images:
+      - url: "https://s.abcnews.com/images/Politics/wirestory_578d623e473b0eeb3fa3e4728d7e9868_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Harris meets with CEOs about artificial intelligence risks"
+    excerpt: "Vice President Kamala Harris met with the heads of Google, Microsoft and two other companies developing artificial intelligence"
+    publishedDateTime: 2023-05-04T20:02:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/harris-meet-ceos-artificial-intelligence-risks-99068989"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/harris-meet-ceos-artificial-intelligence-risks-99068989"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/harris-meet-ceos-artificial-intelligence-risks-99068989"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 59
+    images:
+      - url: "https://s.abcnews.com/images/Politics/wirestory_578d623e473b0eeb3fa3e4728d7e9868_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "VP Harris meets with CEOs about artificial intelligence risks"
     excerpt: "The Biden administration plans to announce an investment of $140 million to establish seven new AI research institutes, administration officials told reporters in previewing the effort."
     publishedDateTime: 2023-05-04T20:20:00Z
@@ -132,20 +180,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Harris meets with CEOs about artificial intelligence risks"
-    excerpt: "Vice President Kamala Harris speaks, along side Jill Scarbo, who won National Small Business of the Year in 2022 and is the CEO of Bright Futures Learning Services (BFLS), a provider of Applied Behavior Analysis (ABA) therapy services for children ..."
-    publishedDateTime: 2023-05-04T17:42:00Z
-    webUrl: "https://omaha.com/lifestyles/technology/harris-meets-with-ceos-about-artificial-intelligence-risks/article_2be5fceb-7e7e-5b20-93a6-2fc9680f8df6.html"
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/d/da/dda7c97f-af2f-5ee4-a06d-19e464a12917/6453895152383.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Vice President Harris meets with CEOs about artificial intelligence risks"
     excerpt: "Vice President Kamala Harris met with the heads of Google, Microsoft and two other companies developing artificial intelligence."
     publishedDateTime: 2023-05-04T21:07:00Z
@@ -171,20 +205,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 37
-  - title: "Biden, Harris meet with CEOs about AI risks"
-    excerpt: "Vice President Kamala Harris will meet on Thursday with the CEOs of four major companies developing artificial intelligence as the Biden administration rolls out a set of initiatives meant to ensure the rapidly evolving technology improves lives without putting people's rights and safety at risk."
-    publishedDateTime: 2023-05-04T21:02:00Z
-    webUrl: "https://www.chron.com/news/politics/article/harris-to-meet-with-ceos-about-artificial-18078030.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 37
-    images:
-      - url: "https://s.hdnux.com/photos/01/32/57/03/23785701/3/rawImage.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
   - title: "White House pushes tech CEOs to limit risks of AI"
     excerpt: "The White House on Thursday pushed Silicon Valley CEOs to limit the risks of artificial intelligence, in the administration’s most visible effort to confront rising questions and calls to regulate the rapidly advancing technology."
     publishedDateTime: 2023-05-04T23:53:00Z

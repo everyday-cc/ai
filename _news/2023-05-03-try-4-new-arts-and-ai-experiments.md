@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/outreach-initiatives/arts-culture/try-4-new-arts
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/arts-culture/try-4-new-arts-and-ai-experiments/amp/"
 type: article
 quality: 109
-heat: 179
+heat: 189
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Digital Video Publishers Tout AI and New Metrics at NewFronts Sales Events"
+    excerpt: "Artificial intelligence, entertainment-industry turmoil and new ways of gauging the success of advertising loomed large at this week’s NewFronts media showcases for digital ad buyers."
+    publishedDateTime: 2023-05-05T09:00:00Z
+    webUrl: "https://www.wsj.com/articles/digital-video-publishers-tout-ai-and-new-metrics-at-newfronts-sales-events-97a42c4f"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 82
+    images:
+      - url: "https://images.wsj.net/im-776380/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Novel AI-Enabled Robot To Can Perform 10K Microbial Experiments Daily"
     excerpt: "Researchers have developed an artificial intelligence (AI) system that can help robots to conduct automated scientific experim"
     publishedDateTime: 2023-05-05T09:32:00Z

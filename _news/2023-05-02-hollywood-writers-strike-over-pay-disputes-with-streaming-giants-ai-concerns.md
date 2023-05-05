@@ -94,6 +94,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Writers vs AI bots is more than a Hollywood drama"
+    excerpt: "They moved to hiring writers on short-term contracts to develop new dramas in what are known as “mini-rooms”; these are disbanded before the show is commissioned. This approach not only pays writers less and limits residuals, but means they do not gain practical experience on productions; they must find themselves another mini-room project instead."
+    publishedDateTime: 2023-05-05T11:06:00Z
+    webUrl: "https://www.ft.com/content/576e1f4c-0c39-4fd6-8952-dece96248fe6"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 37
+    images:
+      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
+        width: 619
+        height: 377
+        isCached: true
 
 secured: "D4U7v/Trw85DlU0BoIjp1f1mlV5jFt/hvqLQuq4H5M+bXfuFQMMvnlUYNoM1VTSmQM/vC1u572PnVEwc0FuawTYAi8TokziWSR8hiQUyLJlY8tRaSDtYcsQ5lTziG0L0D+6vnMo0GXHmTiFIYOo5j6rQmGlbHhnLKTfs7ZsCk1jN0IzYedYLkPu0m+JGehB2J82zE25AIOs2DJh7CJlh8eAMpXqJH7WWzOfw4G3GxcbPaZGRBGi3Sfhu6spRASU7nec2eX3i+6tcXxuVB+p7aMMWdUHbGKlC8XV7df67rga7PyCps+W3cXIwI4C5FcHb/6xVQyozs09uUY8BkSLgxIumWCfdV0NgjObMIiCJ8tZvyhTiZXGK5M6wopva8tB4T7AvKp4urrsSCmTVJUtPBA0tej7vRLpVOgEKpbvoq3hzZWzko1/hazIy+OWY2dK1e+jqjoDm0VGbDRVRhvN46oOPKE4P6xTPIk1fPBjf3f4H9ekRLfBXa34fdNURmC9riw3qiYzWO227DaypwdCSUg==;ccs57CMiKQuzj5PVVQTwzQ=="
 ---

@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "The 6 biggest AI features to expect from Google I/O 2023"
-    excerpt: "As Google continues to play catch-up with the likes of Microsoft and OpenAI, these potential AI advancements could help bolster the company ahead."
-    publishedDateTime: 2023-05-03T14:00:00Z
-    webUrl: "https://www.zdnet.com/article/the-6-biggest-ai-features-to-expect-from-google-io-2023/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-6-biggest-ai-features-to-expect-from-google-io-2023/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-6-biggest-ai-features-to-expect-from-google-io-2023/"
+  - title: "Generative AI brings new risks to everyone. Here's how you can stay safe"
+    excerpt: "Organizations have to figure out the potential implications of tapping generative artificial intelligence tools, such as ChatGPT, while consumers should consider how they establish digital engagement."
+    publishedDateTime: 2023-05-05T10:47:00Z
+    webUrl: "https://www.zdnet.com/article/generative-ai-brings-new-risks-to-everyone-heres-how-you-can-stay-safe/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-brings-new-risks-to-everyone-heres-how-you-can-stay-safe/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-brings-new-risks-to-everyone-heres-how-you-can-stay-safe/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 87
+    quality: 88
     images:
-      - url: "https://www.zdnet.com/a/img/resize/b0760b0f7ba6c878bb37eecfdf3948f3045f16d8/2017/05/17/c572530c-325a-423b-8d2a-e71019d837e1/google-io-2017-2076.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://www.zdnet.com/a/img/resize/e95cabc4c470648090df91010140d6c22b66acce/2023/05/04/dc3b0530-d40e-4fef-954e-de348e4bf9db/gettyimages-1201055987.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
         isCached: true

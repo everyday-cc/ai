@@ -107,6 +107,20 @@ related:
         width: 1200
         height: 595
         isCached: true
+  - title: "Nowhere is safe from AI: Microsoft and AMD team up to develop new AI chips"
+    excerpt: "It’s no secret that AI is the tech hardware industry’s current hot commodity; everybody wants to make some cash off the burgeoning popularity of machine learning tools such as ChatGPT and Google Bard. Nvidia is leading the AI charge, with its high-end processors already being used to train and run a variety of chatbots."
+    publishedDateTime: 2023-05-05T11:02:00Z
+    webUrl: "https://www.techradar.com/news/nowhere-is-safe-from-ai-microsoft-and-amd-team-up-to-develop-new-ai-chips"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 99
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/YWTUDHCxwGDtAPvDVoHYjU-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft Helping Finance AMD's Expansion Into AI Chips - Bloomberg News"
     excerpt: "Microsoft Corp is working with Advanced Micro Devices Inc on the chipmaker's expansion into artificial intelligence processors, Bloomberg News reported on Thursday, citing people with knowledge of the matter."
     publishedDateTime: 2023-05-04T18:15:00Z
@@ -161,6 +175,22 @@ related:
       - url: "https://images.moneycontrol.com/static-mcnews/2021/08/Microsoft_reuters.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Microsoft reportedly working with AMD on AI chips to counter Nvidia"
+    excerpt: "Citing people with knowledge of the situation, a report by Bloomberg said that Microsoft will help boost AMD’s supply of in-demand parts. The report added that Microsoft will provide support, including engineering resources and working with the chipmaker on a homegrown Microsoft processor for AI workloads,"
+    publishedDateTime: 2023-05-05T09:45:00Z
+    webUrl: "https://www.gadgetsnow.com/tech-news/microsoft-reportedly-working-with-amd-on-ai-chips-to-counter-nvidia/articleshow/100010691.cms"
+    ampWebUrl: "https://www.gadgetsnow.com/tech-news/microsoft-reportedly-working-with-amd-on-ai-chips-to-counter-nvidia/amp_articleshow/100010691.cms"
+    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/microsoft-reportedly-working-with-amd-on-ai-chips-to-counter-nvidia/amp_articleshow/100010691.cms"
+    type: article
+    provider:
+      name: Gadgets Now
+      domain: gadgetsnow.com
+    quality: 91
+    images:
+      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-100010691,imgsize-34682,width-800/100010691.jpg"
+        width: 800
+        height: 600
         isCached: true
   - title: "CallMiner Collaborates with Microsoft to Enhance AI and ML Capabilities"
     excerpt: "CallMiner, a leading provider of conversation intelligence to drive business performance improvement, today announced it"
@@ -231,6 +261,20 @@ related:
       - url: "https://helios-i.mashable.com/imagery/articles/051FNRrNs5FSwcuuEQHxqHq/hero-image.fill.size_1200x675.v1623364472.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Microsoft backs AMD's move into AI"
+    excerpt: "Creating an Athena chip Software King of the World Microsoft is helping finance AMD's expansion into AI chips. Meanwhile, AMD is working with Microsoft to create an in-house chipset, codenamed Athena,"
+    publishedDateTime: 2023-05-05T10:02:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/56834-microsoft-backs-amd-s-move-into-ai"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 56
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/0d06de05483591230fa07b7f78f1fe9d_L.jpg"
+        width: 620
+        height: 465
         isCached: true
   - title: "CallMiner Collaborates with Microsoft to Enhance AI Capabilities"
     excerpt: "CallMiner Collaborates with Microsoft to Enhance AI and Machine Learning Capabilities for contact centres perform better and more efficiently"

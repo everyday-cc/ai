@@ -2,6 +2,150 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-05-04-behind-the-hype-about-ai-transforming-consumer-businesses.md",
+      "title": "Behind The Hype About AI Transforming Consumer Businesses",
+      "excerpt": "Explore the future of retail in a world dominated by AI-generated content. Is the physical store making a comeback?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gregpetro/2023/05/04/behind-the-hype-about-ai-transforming-consumer-businesses/",
+      "originalUrl": "https://www.forbes.com/sites/gregpetro/2023/05/04/behind-the-hype-about-ai-transforming-consumer-businesses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6453cf70c9583ac188eabd27/0x0.jpg?format=jpg&crop=1470,827,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gregpetro/2023/05/04/behind-the-hype-about-ai-transforming-consumer-businesses/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gregpetro/2023/05/04/behind-the-hype-about-ai-transforming-consumer-businesses/amp/",
+      "publishedDateTime": "2023-05-04T08:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-04-britains-competition-watchdog-opens-investigation-into-artificial-intelligence-market.md",
+      "title": "Britain's competition watchdog opens investigation into artificial intelligence market",
+      "excerpt": "The Competition Markets Authority in Britain is investigating the artificial intelligence market. The investigation will focus on the technology underpinning chatbots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/world/britains-competition-watchdog-opens-investigation-artificial-intelligence-market",
+      "originalUrl": "https://www.foxnews.com/world/britains-competition-watchdog-opens-investigation-artificial-intelligence-market",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d66e500a-bd8d-48be-8e80-975a5c3cc1b8/1a40ac88-f811-4bef-b170-9f0ab28f6994/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/world/britains-competition-watchdog-opens-investigation-artificial-intelligence-market.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/britains-competition-watchdog-opens-investigation-artificial-intelligence-market.amp",
+      "publishedDateTime": "2023-05-04T07:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-04-vp-harris-to-meet-with-ceos-about-artificial-intelligence-risks.md",
+      "title": "VP Harris to meet with CEOs about artificial intelligence risks",
+      "excerpt": "The Democratic administration plans to announce an investment of $140 million to establish seven new AI research institutes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/tech/tech-news/vp-harris-meet-ceos-artificial-intelligence-risks-rcna82835",
+      "originalUrl": "https://www.nbcnews.com/tech/tech-news/vp-harris-meet-ceos-artificial-intelligence-risks-rcna82835",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 217,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/230504-kamala-harris-mjf-0946-2ef781.jpg",
+          "width": 2500,
+          "height": 1436,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna82835",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna82835",
+      "publishedDateTime": "2023-05-04T06:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-04-machine-learning-chip-market-global-analysis-2023-2030.md",
       "title": "Machine Learning Chip Market Global Analysis 2023-2030",
       "excerpt": "Section 5: Research Method and Data Source. Get a Sample PDF of report @ https://www.360marketupdates.com/enquiry/request-sample/19278373 Highlights with Short Brief ...",
@@ -706,7 +850,7 @@
       "originalUrl": "https://fortune.com/2023/05/03/google-deepmind-ceo-agi-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 148,
+      "heat": 158,
       "tags": null,
       "images": [
         {
@@ -1111,162 +1255,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-03-ai-threatens-7800-jobs-as-ibm-pauses-hiring.md",
-      "title": "AI threatens 7,800 jobs as IBM pauses hiring",
-      "excerpt": "Independent of this move, IBM announced 3,900 job cuts in late January. However, many of the roles reduced due to AI will likely come as a result of the upcoming hiring freeze and jobs vacated by attrition.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-threatens-7800-jobs-as-ibm-pauses-hiring/",
-      "originalUrl": "https://www.zdnet.com/article/ai-threatens-7800-jobs-as-ibm-pauses-hiring/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 237,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/0393b7d5f621704a38027b7cfd596f95695ca462/2023/05/03/d1aff5ee-9f8f-4e70-ad00-0768eff07be4/robot-replace-employee.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-threatens-7800-jobs-as-ibm-pauses-hiring/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-threatens-7800-jobs-as-ibm-pauses-hiring/",
-      "publishedDateTime": "2023-05-03T09:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-03-optimized-pytorch-20-inference-with-aws-graviton-processors.md",
-      "title": "Optimized PyTorch 2.0 inference with AWS Graviton processors",
-      "excerpt": "New generations of CPUs offer a significant performance improvement in machine learning (ML) inference due to specialized built-in instructions. Combined with their flexibility, high speed of development, and low operating cost, these general-purpose processors offer an alternative to other existing",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/optimized-pytorch-2-0-inference-with-aws-graviton-processors/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/optimized-pytorch-2-0-inference-with-aws-graviton-processors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/03/optimized-pytorch-graviton.jpg",
-          "width": 955,
-          "height": 475,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-03T09:02:30-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-03-gamesbeat-summit-2023-will-capture-how-generative-ai-is-changing-gaming.md",
-      "title": "GamesBeat Summit 2023 will capture how generative AI is changing gaming",
-      "excerpt": "Generative AI is sweeping through the game industry and that's one of the can't-miss topics we'll discuss at GamesBeat Summit 2023.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/gamesbeat-summit-2023-will-capture-how-generative-ai-is-changing-gaming/",
-      "originalUrl": "https://venturebeat.com/games/gamesbeat-summit-2023-will-capture-how-generative-ai-is-changing-gaming/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/05/ai-at-gamesbeat.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 575,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/games/gamesbeat-summit-2023-will-capture-how-generative-ai-is-changing-gaming/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/gamesbeat-summit-2023-will-capture-how-generative-ai-is-changing-gaming/amp/",
-      "publishedDateTime": "2023-05-03T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

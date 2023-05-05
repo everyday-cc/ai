@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/world/2023/05/02/exp-ai-dangers-anna-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/world/2023/05/02/exp-ai-dangers-anna-stewart-reports-fst-050210aseg1-cnni-world.cnn"
 type: article
 quality: 87
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/XCUYFGKZTBGYPJ2CWCAUGT6Z2Q.jpg"
         width: 3438
         height: 2099
+        isCached: true
+  - title: "Neural network creator warns about AI dangers"
+    excerpt: "British-Canadian scientist Geoffrey Hinton warned humanity about the threats posed by artificial intelligence (AI). The creator of the"
+    publishedDateTime: 2023-05-05T10:30:00Z
+    webUrl: "https://www.sb.by/en/neural-network-creator-warns-about-ai-dangers.html"
+    type: article
+    provider:
+      name: sb.by
+      domain: www.sb.by
+    quality: 54
+    images:
+      - url: "https://www.sb.by/upload/content/og_image.jpg"
+        width: 900
+        height: 500
         isCached: true
   - title: "Artificial intelligence expert warns of impending danger, quits Google to raise awareness"
     excerpt: "Hinton expressed concern that computers could become more intelligent than humans far sooner than he and his colleagues had anticipated..Geoffrey Hinton. Google. artificial intelligence. Geoffrey Hinton quits google."

@@ -57,6 +57,20 @@ related:
         width: 3438
         height: 2099
         isCached: true
+  - title: "Neural network creator warns about AI dangers"
+    excerpt: "British-Canadian scientist Geoffrey Hinton warned humanity about the threats posed by artificial intelligence (AI). The creator of the"
+    publishedDateTime: 2023-05-05T10:30:00Z
+    webUrl: "https://www.sb.by/en/neural-network-creator-warns-about-ai-dangers.html"
+    type: article
+    provider:
+      name: sb.by
+      domain: www.sb.by
+    quality: 54
+    images:
+      - url: "https://www.sb.by/upload/content/og_image.jpg"
+        width: 900
+        height: 500
+        isCached: true
   - title: "Toronto's pioneer of artificial intelligence quits Google to openly discuss dangers of AI"
     excerpt: "A Toronto professor considered to be a pioneer in the field of artificial intelligence announced his departure from Google on Monday so that he could openly discuss the “dangers of AI.”"
     publishedDateTime: 2023-05-01T17:46:00Z

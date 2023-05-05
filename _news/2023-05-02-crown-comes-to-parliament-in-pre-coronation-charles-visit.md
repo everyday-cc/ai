@@ -89,6 +89,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Plan to use facial recognition at JR East stations to spot ex-cons iced"
+    excerpt: "East Japan Railway Co. has suspended a program to use facial recognition to track ex-convicts who turn up at its stations. A company official said Sept. 21 the decision was made “because a ..."
+    publishedDateTime: 2023-05-02T00:00:00Z
+    webUrl: "https://www.asahi.com/ajw/articles/14445523"
+    type: article
+    provider:
+      name: 朝日新聞社
+      domain: asahi.com
+    quality: 39
+    images:
+      - url: "https://p.potaufeu.asahi.com/9a8b-p/picture/26381371/21aee2bafd45bc707daecdd7c7f36c8a.jpg"
+        width: 660
+        height: 381
+        isCached: true
   - title: "Critics pan planned police use of facial recognition during King Charles’ coronation"
     excerpt: "Police in London are deploying live facial recognition to watch over protestors and other attendees of the upcoming coronation of King Charles III."
     publishedDateTime: 2023-05-04T15:26:00Z
@@ -117,15 +131,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Met Police considering using facial recognition technology for King's coronation"
-    excerpt: "The Metropolitan Police are considering deploying facial recognition technology to target those who may jeopardise the safety of the King's coronation. As the weekend looms, a Met briefing on security concerns took place on Wednesday after a man with a knife was arrested for throwing items,"
-    publishedDateTime: 2023-05-03T11:29:00Z
-    webUrl: "https://www.itv.com/news/2023-05-03/met-considering-using-facial-recognition-technology-for-kings-coronation"
-    type: article
-    provider:
-      name: ITV
-      domain: itv.com
-    quality: 14
   - title: "Protesters eye Coronation of King Charles III — and facial recognition eyes them"
     excerpt: "It’s apparent that a coronation is ripe territory for the convergence of righteous convictions, from the progressive to the fanatical, writes."
     publishedDateTime: 2023-05-05T09:00:00Z

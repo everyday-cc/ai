@@ -2,6 +2,160 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-05-03-ais-chaotic-rollout-in-big-us-hospitals-detailed-in-anonymous-quotes.md",
+      "title": "AI’s chaotic rollout in big US hospitals detailed in anonymous quotes",
+      "excerpt": "But, behind the public fray of fanfare and failures, there's a chaotic reality of rollouts that has largely gone untold. For years, health care systems and hospitals have grappled with inefficient and,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/science/2023/05/ais-chaotic-rollout-in-big-us-hospitals-detailed-in-anonymous-quotes/",
+      "originalUrl": "https://arstechnica.com/science/2023/05/ais-chaotic-rollout-in-big-us-hospitals-detailed-in-anonymous-quotes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/doctor-making-an-ai-deal-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/science/2023/05/ais-chaotic-rollout-in-big-us-hospitals-detailed-in-anonymous-quotes/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/science/2023/05/ais-chaotic-rollout-in-big-us-hospitals-detailed-in-anonymous-quotes/amp/",
+      "publishedDateTime": "2023-05-02T15:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-03-accenture-finds-only-9-of-enterprises-harness-ais-full-potential.md",
+      "title": "Accenture finds only 9% of enterprises harness AI’s full potential",
+      "excerpt": "New Accenture report reveals key strategies \"operations reinventors\" use to achieve elevated levels of operational maturity.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/accenture-finds-only-9-of-enterprises-harness-ais-full-potential/",
+      "originalUrl": "https://venturebeat.com/ai/accenture-finds-only-9-of-enterprises-harness-ais-full-potential/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1366475366-e1665766594967.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/accenture-finds-only-9-of-enterprises-harness-ais-full-potential/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/accenture-finds-only-9-of-enterprises-harness-ais-full-potential/amp/",
+      "publishedDateTime": "2023-05-02T15:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-03-ai-generated-beer-commercial-contains-joyful-monstrosities-goes-viral.md",
+      "title": "AI-generated beer commercial contains joyful monstrosities, goes viral",
+      "excerpt": "While many fear a future where AI-generated media becomes indistinguishable from traditional media, destroying society and/or civilization in the process, we aren't quite there yet. Exhibit A comes in the form of a surreal AI-generated beer commercial that went viral over the weekend.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/05/ai-generated-beer-commercial-contains-joyful-monstrosities-goes-viral/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/05/ai-generated-beer-commercial-contains-joyful-monstrosities-goes-viral/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/ai_beer_hero-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/05/ai-generated-beer-commercial-contains-joyful-monstrosities-goes-viral/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/05/ai-generated-beer-commercial-contains-joyful-monstrosities-goes-viral/amp/",
+      "publishedDateTime": "2023-05-02T14:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-03-the-ai-political-campaign-is-here.md",
       "title": "The AI political campaign is here",
       "excerpt": "President Barack Obama's 2008 election campaign has often been celebrated as the first to effectively use social media as a mobilization tool to capture the White House. In the 15 years since, the technology has gone from being a novel addition to a political campaign to transcending every aspect of one.",
@@ -201,58 +355,6 @@
       ]
     },
     {
-      "path": "_news/2023-05-03-apple-co-founder-criticizes-elon-musk-for-failing-to-deliver-on-self-driving-car-promises.md",
-      "title": "Apple Co-Founder Criticizes Elon Musk For Failing To Deliver On Self-Driving Car Promises",
-      "excerpt": "Steve Wozniak, the co-founder of Apple, was asked what he thought of Elon Musk on Tuesday during an appearance on CNN. And the hosts seemed genuinely surprised at the response—which wasn’t very flattering of the billionaire Tesla CEO.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/mattnovak/2023/05/02/apple-co-founder-criticizes-elon-musk-for-failing-to-deliver-on-self-driving-car-promises/",
-      "originalUrl": "https://www.forbes.com/sites/mattnovak/2023/05/02/apple-co-founder-criticizes-elon-musk-for-failing-to-deliver-on-self-driving-car-promises/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64513883a6bb46794b46d6f2/0x0.jpg?format=jpg&crop=3216,1808,x0,y123,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/mattnovak/2023/05/02/apple-co-founder-criticizes-elon-musk-for-failing-to-deliver-on-self-driving-car-promises/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattnovak/2023/05/02/apple-co-founder-criticizes-elon-musk-for-failing-to-deliver-on-self-driving-car-promises/amp/",
-      "publishedDateTime": "2023-05-02T10:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-03-new-chemix-ai-based-ev-battery-development-reduces-or-eliminates-cobalt.md",
       "title": "New Chemix AI-Based EV Battery Development Reduces Or Eliminates Cobalt",
       "excerpt": "Tech startup Chemix has unveiled an artificial intelligence-based platform for developing EV batteries much faster and require little to no scarce minerals such as cobalt or nickel.",
@@ -363,7 +465,7 @@
       "originalUrl": "https://www.cnn.com/videos/world/2023/05/02/exp-ai-dangers-anna-stewart-reports-fst-050210aseg1-cnni-world.cnn",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -548,6 +650,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-02-city-councilman-introduces-bills-to-limit-facial-recognition-technology.md",
+      "title": "City councilman introduces bills to limit facial recognition technology",
+      "excerpt": "THE SECOND BILL REVOLVES AROUND FACIAL RECOGNITION TECHNOLOGY. IT WOULD REGULATE NOT ONLY ITS USE, BUT HOW DATA IS RECOVERED, RETAINED AND THEN ULTIMATELY DESTROYED. BARNETT SAID AT TONIGHT’S ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wbaltv.com/article/facial-recognition-surveillance-technology-bill-limit/43762133",
+      "originalUrl": "https://www.wbaltv.com/article/facial-recognition-surveillance-technology-bill-limit/43762133",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/facial-recognition-technology-jpg-1671811901.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wbaltv.com/amp/article/facial-recognition-surveillance-technology-bill-limit/43762133",
+      "cdnAmpWebUrl": "https://www-wbaltv-com.cdn.ampproject.org/c/s/www.wbaltv.com/amp/article/facial-recognition-surveillance-technology-bill-limit/43762133",
+      "publishedDateTime": "2023-05-02T08:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WBAL-TV",
+        "domain": "wbaltv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -1101,161 +1246,6 @@
         "AI in Robotics",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-ai-in-computer-vision-market-2023-2031-players-launches-revolutionary-product-line-in-coming-years.md",
-      "title": "AI in Computer Vision Market (2023-2031) Players Launches Revolutionary Product Line in Coming Years",
-      "excerpt": "Global AI in Computer Vision Market research report offers an In-depth analysis of valuable insight into the market",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2023-2031-players-launches-revolutionary-product-line-in-coming-years-2023-05-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2023-2031-players-launches-revolutionary-product-line-in-coming-years-2023-05-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-01T23:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-5-amazing-ways-how-meta-facebook-is-using-generative-ai.md",
-      "title": "5 Amazing Ways How Meta (Facebook) Is Using Generative AI",
-      "excerpt": "Explore how Meta utilizes generative AI to revolutionize advertising, chat, image generation, and natural language processing while shaping the future of the metaverse with immersive and accessible content creation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/05/02/5-amazing-ways-how-meta-facebook-is-using-generative-ai/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/05/02/5-amazing-ways-how-meta-facebook-is-using-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6450ac8062c3ef25fedc456e/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/05/02/5-amazing-ways-how-meta-facebook-is-using-generative-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/05/02/5-amazing-ways-how-meta-facebook-is-using-generative-ai/amp/",
-      "publishedDateTime": "2023-05-01T23:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-10-vcs-to-watch-that-are-investing-in-european-ai.md",
-      "title": "10 VCs to Watch That are Investing in European AI",
-      "excerpt": "These are the firms that are investing the most in artificial intelligence startups. Following ChatGPT rocking the world of artificial intelligence (AI) last year, the demand for AI investment is as great as ever.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/en-gb/starting-a-business/10-vcs-to-watch-that-are-investing-in-european-ai/449011",
-      "originalUrl": "https://www.entrepreneur.com/en-gb/starting-a-business/10-vcs-to-watch-that-are-investing-in-european-ai/449011",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1680623459-GettyImages-1346301198.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-01T22:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -41,6 +41,20 @@ related:
         width: 600
         height: 369
         isCached: true
+  - title: "Digital Video Publishers Tout AI and New Metrics at NewFronts Sales Events"
+    excerpt: "Artificial intelligence, entertainment-industry turmoil and new ways of gauging the success of advertising loomed large at this week’s NewFronts media showcases for digital ad buyers."
+    publishedDateTime: 2023-05-05T09:00:00Z
+    webUrl: "https://www.wsj.com/articles/digital-video-publishers-tout-ai-and-new-metrics-at-newfronts-sales-events-97a42c4f"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 82
+    images:
+      - url: "https://images.wsj.net/im-776380/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Regulating AI will put companies and governments at loggerheads"
     excerpt: "The rapid release of generative AI tools has been a moment of reckoning. Just this week Geoffrey Hinton, a celebrated developer of AI, announced his resignation from Google, saying he regretted his work and wants to speak freely about the dangers and risks of the technology he created."
     publishedDateTime: 2023-05-02T16:53:00Z
@@ -106,6 +120,6 @@ related:
       domain: phys.org
     quality: 19
 
-secured: "6ooqD71mapIh0mkWtpWAuDHENo1CA+O6Ww4nH3EneassZmH+WnkYWd/4PLMuP6hOkEbTiwznYh/h4f75rnlZlg6j+HrOssN7VIw1Ar9YRX1NHs+Mzm8AxigCUwOVh64bnMeogyB5s5M21v01CMqYLDGZ4OCZqoUXwKUiKzwdwRiXOweLKW3M3vZcUGH/etVLUs1Pu/pxqPU7188Ftyjdn/TmP5s6VP7SUxYBqFKWriFnJLGmQff4Nw/4PYu9r+osIqgIqeUT1Op52vSxRT0uPO5/zyuycWRQHP3LPmgVZB9fp0jzjzUxfneZaZD+gtn8H583YD4glwNd4zSh2a4RQD7kC7IK1id8QcEszIuEJpg=;GubT0WpUk/rgYMwffm7o5Q=="
+secured: "g8dDGP/EQlXj1558jwOHhG8curJGUIIweX7CytZ08j2oq45/1oTTnCQUeijztTzOX7u/6f4VV4CJsijouCHNmfjZMaLFL0I+DnFm2EaTaLcGPEGlm3FbUVllf28/G2vkpztUcN342uxekVlAItm9Wz4/OQVWyihaHDZqgD9rcxQUZuKYvUTEnNwvfmF4VT8jKsxeg9uFHyF+P/H9DF97+0/nz7VL1F/d0wqMsUxOOctfmOv8PaQWZC+qdlrJUGntsc7uhZA8j9URIM3I9ljlHQKwJCJxklMqeeTwVzY/lI4Xx4dNJPITvQBUKyOc+oZpPG+TebDxoNs0SqzrP9WV3obT517w8EKX5aVPNRTb1OVxmCzqNY/rvMpbTwrnOA0SK7DNParnQDl6wGP/TA07g9bZ4BeytR3/njSv66A79Ngq+SZrWxVnQ4WmcunI775xw32zdbuf7mAQSEzgSlSmCDyIXHLelVKPz0K1LZCEv1mvRV/xYMaIzxLryeT848HaCXyYRNTEBUL7Q4oMYr1qVw==;e5TTN5AXHqaMpivBgtVabg=="
 ---
 
