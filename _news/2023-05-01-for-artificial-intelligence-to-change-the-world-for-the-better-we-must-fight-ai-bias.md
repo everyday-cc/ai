@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/01/for-arti
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/01/for-artificial-intelligence-to-change-the-world-for-the-better-we-must-fight-ai-bias/"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -21,19 +21,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-related:
-  - title: "The circle of life works for AI, too"
-    excerpt: "The Hindu scriptures provide some guidance. The Circle of life has worked for humans, and it will continue for AI, which will see innovation, preservation of a few innovations, and a few failures. However, the cycle will continue perpetually."
-    publishedDateTime: 2023-04-30T14:43:00Z
-    webUrl: "https://www.thehindubusinessline.com/opinion/the-circle-of-life-works-for-ai-too/article66797312.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/opinion/the-circle-of-life-works-for-ai-too/article66797312.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/opinion/the-circle-of-life-works-for-ai-too/article66797312.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 39
 
 secured: "SEx6qQPtv3//ACmkUv+ISLKNZcsb6Q0UPIZKNj+lY6HQQrvwzuH8pPkM0yeA0mLpihMlMzncLhZ7UKA2m6KOT6KJkREi5Xh2qKyco3Xglv3TtHHIHo74Wgk6clbXXSNEhWkqzfX+d8j/8PSUeye4jz9Vm0C4+7o/mRN7vGPx4tJClZE5tYZtpxR+scJpmfslOMiMWgIhYa1mWjhh9eaHXkdAD/er47Jn59nWgYI3Z6zmXiCKyzEvY8ppOfAGyfhHNTx9M3oiBC6Dzyk3AGoa0qmMF20GJ8OVhq2MqSquAaAu0CCYoZAT+8oEUx0S0vlI4GrVZcqVwtUyjSmlY3ID0BrfkroKyAt9q1WVYX3AD4uiZIaXhvcL3bGgDeM9fzhEGpj0Q7XY1XWzeFKHrwnHw9Rb/v5nPUVVkCy/rloaZIzCvOCbetBO70vEdcntG3zy8CtHQB3wyi3Ndlkehx5UQBPmEnSMXI6Tnlm6rDO57SCVv3RuynR4lU5OufLOQRRcbW/GiB5/u2Xl4k/JilV6Lw==;GeZLEyKljXfoQ4IU1P8YhQ=="
 ---

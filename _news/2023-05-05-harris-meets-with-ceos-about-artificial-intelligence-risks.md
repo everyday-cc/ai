@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Harris meets with CEOs about artificial intelligence risks"
-excerpt: "Vice President Kamala Harris speaks, along side Jill Scarbo, who won National Small Business of the Year in 2022 and is the CEO of Bright Futures Learning Services (BFLS), a provider of Applied Behavior Analysis (ABA) therapy services for children ..."
-publishedDateTime: 2023-05-04T17:42:00Z
-originalUrl: "https://omaha.com/lifestyles/technology/harris-meets-with-ceos-about-artificial-intelligence-risks/article_2be5fceb-7e7e-5b20-93a6-2fc9680f8df6.html"
-webUrl: "https://omaha.com/lifestyles/technology/harris-meets-with-ceos-about-artificial-intelligence-risks/article_2be5fceb-7e7e-5b20-93a6-2fc9680f8df6.html"
+excerpt: "Vice President Kamala Harris met with the heads of Google, Microsoft and two other companies developing artificial intelligence"
+publishedDateTime: 2023-05-04T20:02:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/harris-meet-ceos-artificial-intelligence-risks-99068989"
+webUrl: "https://abcnews.go.com/Politics/wireStory/harris-meet-ceos-artificial-intelligence-risks-99068989"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/harris-meet-ceos-artificial-intelligence-risks-99068989"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/harris-meet-ceos-artificial-intelligence-risks-99068989"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Omaha.com
-  domain: omaha.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
-  - AI in Healthcare
+  - AI Ethics
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/d/da/dda7c97f-af2f-5ee4-a06d-19e464a12917/6453895152383.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
+  - url: "https://s.abcnews.com/images/Politics/wirestory_578d623e473b0eeb3fa3e4728d7e9868_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -201,6 +203,6 @@ related:
         height: 630
         isCached: true
 
-secured: "WzqHMx+0jqTPraWhN0lL0/51PNIWheaXSMi9b7Mzuxm3z7n68J4a+juS+D7kazGOC9Ryzhoch4xD66P0yBpqf36RvgYDthH69xLWryfelHgBjitfN3QF3b8UpXOxKUoQf4mz5XJb6azb/zzKwWWl3TpN1nwsQSG5/M4i4lt3RN2Kmh+lwN4XyV21YmPfPGXw5peUXpL3gUK0mIDghPfSngZ0MykSvbrKP5TiVoRyh4FZ5Aok3ouCH/GKyeguU2Wi8URuoD54utaJG/QaNB/aAPGrqYIkOp8LrtnKzilcwMYqrexOm7yAeSkHHEWXrAKPJxEmNUOdeRnZ6i+mogPc2yBf3/SvEOzzEqKT/vqNZR0=;TkCYkI+14RdbiywWtdYHCQ=="
+secured: "9TQhxeeeZDt3v6YVnTA5BmyB+NgQT2OTZU5lYClkmE0s3juhK3+gihqzTG1bUzvAH+3aOx9S3fEyB6WAoYiNam9ElJf/9lWWx5LLo0jG6fg+sWuKA/efhvRi85bestYIZYVsFH/ZbgrYENpyCE6QiCcvSrHOyA7zBrcFrlmAPMOfggnoohM04yiZBuOn0NkZxA5wyBXLkCQAa7hMTRdgvMoiGLroOQmJ1iUTYYgOLwEp3lw7ychs2JK2FaWAneH1X4WYaRKGLEtrfOt7sNqB3L/HuwR8l7FEpjagZQtmkM1aeln9HJFbAggNc+6uj4lN5O3Ryztj7h55JF6JsjHsXE0+d+0fNCVrsICOt5/Swl8=;230GbGepeElzv0Qp2zXwzw=="
 ---
 

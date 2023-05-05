@@ -23,35 +23,21 @@ topics:
   - AI
 
 related:
-  - title: "New artificial intelligence tool can accurately identify cancer"
-    excerpt: "Exclusive: Algorithm performs more efficiently and effectively than current methods, according to a study"
-    publishedDateTime: 2023-04-30T14:05:00Z
-    webUrl: "https://www.theguardian.com/society/2023/apr/30/artificial-intelligence-tool-identify-cancer-ai"
-    ampWebUrl: "https://amp.theguardian.com/society/2023/apr/30/artificial-intelligence-tool-identify-cancer-ai"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/society/2023/apr/30/artificial-intelligence-tool-identify-cancer-ai"
+  - title: "New AI system could help people who lost their ability to speak"
+    excerpt: "Researchers have developed a decoder that can reveal stories in people's minds, sparking hope that this can one day help people who have lost the ability to speak due to strokes or ALS."
+    publishedDateTime: 2023-05-01T15:56:00Z
+    webUrl: "https://www.cbsnews.com/news/ai-system-language-decoder-could-help-people-who-lost-their-ability-to-speak/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/ai-system-language-decoder-could-help-people-who-lost-their-ability-to-speak/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/ai-system-language-decoder-could-help-people-who-lost-their-ability-to-speak/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 61
+      name: CBS News
+      domain: cbsnews.com
+    quality: 57
     images:
-      - url: "https://i.guim.co.uk/img/media/bb3f0c91259b7b84c127dbabbddb38b00f8b3af8/0_564_4800_2880/master/4800.jpg?width=620&quality=85&auto=format&fit=max&s=e7e286299c54a2c6095c14ce34cf1a56"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "New Artificial Intelligence Tool Can Diagnose Colon Cancer"
-    excerpt: "Detailed price information for Bausch Health Companies Inc (BHC-T) from The Globe and Mail including charting and trades."
-    publishedDateTime: 2023-05-03T15:28:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/BHC-T/pressreleases/16543041/new-artificial-intelligence-tool-can-diagnose-colon-cancer/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 39
-    images:
-      - url: "https://barchart-news-media-prod.aws.barchart.com/FC/fbf6e68ba80e8e45990c8b0717fbffb9/bogdanhoda-1.jpg"
-        width: 777
-        height: 436
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/05/01/d487abcc-9230-4413-afeb-638de4c16121/thumbnail/1200x630/6435adf25a6ae11a3efa8a087a6e2d41/gettyimages-1396479420.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "LSHb6zy/lZgKH+YOf4wb/A0AkV4ejxIrKdT73+tiwV6U8BEFsRkt7B4aOHsFmrFKl5DPfSAEW+Idyg+Ccb1mhR6KCfMJ3Y/Id8cJke1jYX0qhjhsdPFjxvRVb8MxZpV/78AAa4fFNuYs9qEmfGUjswUfHD9sNror510Pwg0LG1HYvGI+NmpcDO3fRhFGFsfNHU0QTaZtzKlhxA7RJ5n8o6q5tqmc8gfJ/TiSSoXP7LiMBxKB7cQTqtWnE2wIP9xb9UsMLQlEj+ZztbK+dUt1Pv/GmZfXmQlKkdmcVFIRl94Pyujy4bEZY/tDITrbyX4SyS6WM4lRFsgewG0amfmJkWdiTTm75GcQNV889yWbrERbQx+fa56w7bMLKd0UjJN5KQG4qn+f2wcbAPLpP1ZczjFkOdZODCqfeO6hwaXa7LRkP664QG+nA3NlgPmnx/hxNTkjvPRp6FFqDKq0JbIhs8Y3PXtcYnSq/RFyhCXi2xiLQK63Q0BtLm2ungp3IsIXeI98mcbNaqzzOQTQmFOTIw==;AM3gb1XkCohfT//G+RazOg=="

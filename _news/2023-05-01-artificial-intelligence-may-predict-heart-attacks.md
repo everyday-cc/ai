@@ -8,8 +8,8 @@ webUrl: "https://medicalxpress.com/news/2023-05-artificial-intelligence-heart.ht
 ampWebUrl: "https://medicalxpress.com/news/2023-05-artificial-intelligence-heart.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-05-artificial-intelligence-heart.amp"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/artificial-intelligenc-34.jpg"

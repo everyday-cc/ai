@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/gadgets/2023/05/as-alexa-flounders-amazon-ho
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/05/as-alexa-flounders-amazon-hopes-homegrown-generative-ai-can-find-it-revenue/amp/"
 type: article
 quality: 84
-heat: 85
+heat: 84
 published: true
 
 provider:

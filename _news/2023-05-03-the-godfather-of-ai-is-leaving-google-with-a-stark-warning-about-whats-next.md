@@ -50,7 +50,7 @@ related:
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 86
+    quality: 88
     images:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/230501-Geoffrey-Hinton-al-1228-2c82cf.jpg"
         width: 2500
@@ -103,7 +103,7 @@ related:
   - title: "'Godfather of deep learning' quits Google to openly discuss dangers of AI"
     excerpt: "A Toronto professor considered to be a pioneer in the field of artificial intelligence announced his departure from Google on Monday so that he could openly discuss the “dangers of AI.”"
     publishedDateTime: 2023-05-01T18:19:00Z
-    webUrl: "https://www.cp24.com/news/godfather-of-deep-learning-quits-google-to-openly-discuss-dangers-of-ai-1.6378749?cache=yes%3FclipId%3D89950"
+    webUrl: "https://www.cp24.com/news/godfather-of-deep-learning-quits-google-to-openly-discuss-dangers-of-ai-1.6378749?cache=gtulocgpuvxrpwim%3FclipId%3D104066"
     ampWebUrl: "https://beta.cp24.com/news/2023/5/1/1_6378749.html"
     cdnAmpWebUrl: "https://beta-cp24-com.cdn.ampproject.org/c/s/beta.cp24.com/news/2023/5/1/1_6378749.html"
     type: article

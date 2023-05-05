@@ -8,8 +8,8 @@ webUrl: "https://cointelegraph.com/news/5-free-artificial-intelligence-courses-a
 ampWebUrl: "https://cointelegraph.com/news/5-free-artificial-intelligence-courses-and-certifications/amp"
 cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/5-free-artificial-intelligence-courses-and-certifications/amp"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Autos
 
 images:
   - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-04/d5ffb4dc-f12a-4b4a-8b5d-9126d3f27ae6.jpg"

@@ -3,8 +3,8 @@ category: news
 title: "Integrated Biosciences trains neural networks to identify novel senolytic drugs"
 excerpt: "Integrated Biosciences Inc., an early-stage startup that is combining synthetic biology and machine learning in the hunt for drugs that tackle cell senescence, has demonstrated its capabilities in a newly published study in Nature Aging on May 4,"
 publishedDateTime: 2023-05-04T21:42:00Z
-originalUrl: "https://www.bioworld.com/articles/696709-integrated-biosciences-trains-neural-networks-to-identify-novel-senolytic-drugs"
-webUrl: "https://www.bioworld.com/articles/696709-integrated-biosciences-trains-neural-networks-to-identify-novel-senolytic-drugs"
+originalUrl: "https://www.bioworld.com/articles/696673-integrated-biosciences-trains-neural-networks-to-identify-novel-senolytic-drugs"
+webUrl: "https://www.bioworld.com/articles/696673-integrated-biosciences-trains-neural-networks-to-identify-novel-senolytic-drugs"
 type: article
 quality: 50
 heat: 50
@@ -19,11 +19,11 @@ topics:
   - AI
 
 images:
-  - url: "https://www.bioworld.com/ext/resources/BW-source/2023/Felix-Wong-co-founder-and-CEO-Integrated-Biosciences-5-4.png?height=635&t=1683235845&width=1200"
-    width: 847
-    height: 635
+  - url: "https://www.bioworld.com/ext/resources/Stock-images/Drugs/Radiopharmaceutical-illustration.png?height=355&t=1680558525&width=640"
+    width: 473
+    height: 355
     isCached: true
 
-secured: "sMnvg9gjC607vnaH5DGDTlqRBaJtpCMb8Hdhcr5POMMQhGUeOwDsAptxtWcAIYgO8a0Cg6d6RBMj5VdpNOncXnMByeM0HB4o+zgq0o5ZKbGxFcNlEWJxrCnrEzOW3+3QXX9oezI2lo1x2ZPadddIi12QtwJouJNYAMlOSMyzGheQNC8Z6rk3Ctx0c7JSC9Gxu+KC85XKWCpIsCNEvL9doogaMdYuaqcA1EwIewCqS1AObB3cIE2p1n9UIsqrszoNO+bSb7usQVlGhirF+/IcKyTd8030SMXjxp8N2HuYg57m3LedICt9i7xDk0eIreQS9SQf7+Q7eGzTkDriImlueOkLm1hAT/PAjMsWaLGmgk8=;Q4/7aZ+8cU81kCk24ugLtg=="
+secured: "a2TZkdMYefeyIIMfVnEpWbId3knIMgl3J1XqVA0NcxKxB7z2zmbMPBz7WzQpkwPCffDgx6TYY+jCZ+Xu5mZghvFikADxkp4cZLO/q2Yq+wQA2fVofNDhvDMKRDCVsXTZ0+nNijPtpb//lAzsRh71OLjH5y4GpRoTmLthu5feIUDk05cMT5ygABNCYT6iH9na0eZwarGEc9k+Wty9BOQ7a8S107VWl6eQnR+tXrhE3EFft+sccbuiTxd69RLkP1YBQ8P4ZVO1iQ2aFGawkuDndroa15wEp9hUjdxwR9t2l4qddrsGCLUO28Pl8ORsBGBd0J1DTRKYGYW7SFRUtKcrfzkcrVf+A9Lg0mXWVAT4mxs=;aQXtP70Y6dQ//UMAz0obsA=="
 ---
 

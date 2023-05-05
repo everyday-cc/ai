@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Why artificial intelligence can't bring the dead back to life"
+    excerpt: "This year is shaping up to be the year of artificial intelligence. ChatGPT has stolen most of the headlines, but it is only the most infamous in a wide assortment AI platforms. One of the most ..."
+    publishedDateTime: 2023-05-01T10:57:00Z
+    webUrl: "https://www.foxnews.com/opinion/artificial-intelligence-cant-bring-dead-back-life"
+    ampWebUrl: "https://www.foxnews.com/opinion/artificial-intelligence-cant-bring-dead-back-life.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/artificial-intelligence-cant-bring-dead-back-life.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 89
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/04/340/340/180914_LSC_Headshots-319-copy-2.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Box Introduces Box AI To Bring The Power Of AI To Enterprise Content"
     excerpt: "Vice President & Principal Analyst, Modern Work, Melody Brue, dives into Box AI, a new capabilities suite that natively integrates advanced AI models into the Box Content Cloud."
     publishedDateTime: 2023-05-04T14:19:00Z
@@ -42,81 +58,6 @@ related:
         width: 468
         height: 263
         isCached: true
-  - title: "Accenture finds only 9% of enterprises harness AI’s full potential"
-    excerpt: "New Accenture report reveals key strategies \"operations reinventors\" use to achieve elevated levels of operational maturity."
-    publishedDateTime: 2023-05-02T22:03:00Z
-    webUrl: "https://venturebeat.com/ai/accenture-finds-only-9-of-enterprises-harness-ais-full-potential/"
-    ampWebUrl: "https://venturebeat.com/ai/accenture-finds-only-9-of-enterprises-harness-ais-full-potential/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/accenture-finds-only-9-of-enterprises-harness-ais-full-potential/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1366475366-e1665766594967.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Leveraging The Power Of AI As A Small Business"
-    excerpt: "AI language models can help small businesses optimize their marketing, but they have limitations that every business owner should be aware of."
-    publishedDateTime: 2023-05-03T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/03/leveraging-the-power-of-ai-as-a-small-business/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/03/leveraging-the-power-of-ai-as-a-small-business/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/05/03/leveraging-the-power-of-ai-as-a-small-business/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/642b0f04743b6df49adeb166/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Centene Makeover Continues As Health Insurer Divests Artificial Intelligence Platform"
-    excerpt: "Centene will divest Apixio, an artificial intelligence platform, as the health insurer focuses on its health benefits business and continues to review its portfolio."
-    publishedDateTime: 2023-05-04T00:01:00Z
-    webUrl: "https://www.forbes.com/sites/brucejapsen/2023/05/03/centene-makeover-continues-as-health-insurer-divests-artificial-intelligence-platform/"
-    ampWebUrl: "https://www.forbes.com/sites/brucejapsen/2023/05/03/centene-makeover-continues-as-health-insurer-divests-artificial-intelligence-platform/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucejapsen/2023/05/03/centene-makeover-continues-as-health-insurer-divests-artificial-intelligence-platform/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 82
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5dca0d42f5b54ee0b18a87a03661ea94/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 765
-        isCached: true
-  - title: "How to Introduce Your Employees to Artificial Intelligence"
-    excerpt: "A.I.' is a booming buzzword, but some team members might be apprehensive about the technology. Here's how to ease its adoption in your workplace."
-    publishedDateTime: 2023-05-01T10:12:00Z
-    webUrl: "https://www.inc.com/sarah-lynch/how-to-introduce-your-employees-to-artificial-intelligence.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 21
-  - title: "Box embeds generative AI into its Content Cloud"
-    excerpt: "Announced at Box’s Content Cloud Summit today, Box AI is billed as a suite of AI capabilities that will primarily focus on two things: helping users to ask questions about documents and creating new content in Box."
-    publishedDateTime: 2023-05-02T12:00:00Z
-    webUrl: "https://siliconangle.com/2023/05/02/box-embeds-generative-ai-content-cloud/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 19
-  - title: "Scientists use power of AI to supercharge planetary studies"
-    excerpt: "A new technique for detecting planetary craters that will allow scientists to accurately map the surfaces of planets using different types of data could be used in future space missions."
-    publishedDateTime: 2023-05-01T18:10:00Z
-    webUrl: "https://phys.org/news/2023-05-scientists-power-ai-supercharge-planetary.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 17
 
 secured: "Io2OAkg95+1QqtJtc8T7Qd6gMgQvUXiZHD+4Z5FvRDvGqZPLHOPlKgLiwcFNINkTsUZou62NNo3L4Ur1BNziwm4Pdiw62EqBrKN+0w7uZOVj88WyMBaV4PylXi7LGEXUIw4VPfq1+FHBgc+AEh9S98ruoJevYQ88tIr07jJq5q8Dr8i9FD1ikZbVWMtLKLm3Bz183Q1SBoHxkB4orEYDl6A/5GGq2NOgRbCSYo8RBF199hOL0KkYaN3OKcTnxSwRmQtgCR0rZu7tdzr7m0QpNHoPsQUnmcn+wJhh50mLGhGqroGvfHQs1ZDfW/1CmwjU+3pNdOyE1J7AB6KKkqccoJ7lZl0vM//AD6lDiWtTXJj520Jjhb9kEG9Hx2+DhfFuFnJIS7/inXLf/bVHZwU9UzpF6VEoTVXH17yRnpu8/tJJCPd3qr18yqyO12LUwgRjLuPZ5F4HLLWy+E9VQIexNi1zdXxroSXWCa4WT4gWVRyf79TvHgY9Z3xyBCoFGNiQtOkIym4hmNAvnw6Iq/UzZQ==;O9f0K4/9eC4sLci3aklfxw=="
 ---

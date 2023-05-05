@@ -9,7 +9,7 @@ ampWebUrl: "https://www.philstar.com/happens/1132/amp/"
 cdnAmpWebUrl: "https://www-philstar-com.cdn.ampproject.org/c/s/www.philstar.com/happens/1132/amp/"
 type: article
 quality: 89
-heat: 100
+heat: 99
 published: true
 
 provider:

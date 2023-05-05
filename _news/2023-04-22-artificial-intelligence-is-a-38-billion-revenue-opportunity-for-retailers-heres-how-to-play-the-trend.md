@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://image.cnbcfm.com/api/v1/image/107225786-1681503401584-gettyimages-520413312-000090961169_Illustrationeps.jpeg?v=1682166369&w=1920&h=1080"

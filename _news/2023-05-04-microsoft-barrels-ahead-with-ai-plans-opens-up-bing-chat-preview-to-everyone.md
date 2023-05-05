@@ -257,6 +257,15 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 54
+  - title: "Microsoft working with AMD on AI chips"
+    excerpt: "The companies are teaming up to offer an alternative to Nvidia, which dominates the market for AI-capable chips called graphics processing units, said the people, who asked not to be identified because the matter is private."
+    publishedDateTime: 2023-05-05T05:54:00Z
+    webUrl: "https://mybroadband.co.za/news/software/490193-microsoft-working-with-amd-on-ai-chips.html"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 51
   - title: "Aisera Collaborates with Microsoft to Provide AI Enterprise Service Experiences"
     excerpt: "Aisera, provider of Generative AI solutions for organizations, is partnering with Microsoft to deliver an AI copilot for"
     publishedDateTime: 2023-05-03T16:30:00Z
@@ -299,15 +308,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Microsoft working with AMD on AI chips"
-    excerpt: "The companies are teaming up to offer an alternative to Nvidia, which dominates the market for AI-capable chips called graphics processing units, said the people, who asked not to be identified because the matter is private."
-    publishedDateTime: 2023-05-05T05:54:00Z
-    webUrl: "https://mybroadband.co.za/news/software/490193-microsoft-working-with-amd-on-ai-chips.html"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 34
 
 secured: "13201uYhWvOT87aJ1jLr8XMFcO5UadnqbGnpGhQok5tRGPX5sczvUqoQCEfZj1xSbP0GCapaqXe9GWKciwtEYuhnXCX7U2Jl/wGK2lfNZBZImP+nRaJ31vLfRbmkRc64XePH0zH/p1vx40EeZGKLobUOU1H+H2MyY9vADt9RvRthuYV/4eTgwSR7oDkmFEHecYtfUAEfkTEOufxRbdhEm9SPMQRBDq/LYT4w4MGA1frJod91FkCANkRxZf/z5dzm9qma6mBDBZkxXQi3y5DtxzCTk/njM3HiMRoXdqgKqXG6ZG+shV8VdNC0I/lzQoh3/yvmNnbjWTgo0DmF1Z+kOYUTwPS5eHkndeQvH4f5+oS81i2vGk8KVqCbIcyWvfgetpAkmt5wEPglFX7UXD2JzMG31OA1KRZo8QqBrlvqLNHnXn6kOmsvjJfjuDK7y6Z5hzdx/M96BX2dR8aakBxeUGKvwiqz2crDqxG1VUjUn9qO23KYUWonch1taPFgyD2h/SMFbs9/NpXEwALX+qKtQA==;CANCdzYg5suJSu6bHmDDsA=="
 ---

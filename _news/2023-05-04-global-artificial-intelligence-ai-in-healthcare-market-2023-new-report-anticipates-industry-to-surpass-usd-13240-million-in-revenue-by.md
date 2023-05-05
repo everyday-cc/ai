@@ -23,6 +23,15 @@ topics:
   - AI
 
 related:
+  - title: "Global Face Recognition Terminal Market [2023] | Industry Set to Expand with Strong 17.2% CAGR and Reach USD 4087.7 Million by 2030"
+    excerpt: "Among other players domestic and global, Face Recognition Terminal market share data is available for global, North America, Europe, Asia-Pacific, Middle East and Africa, and South America separately. Research analysts understand competitive strengths and ..."
+    publishedDateTime: 2023-05-04T12:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-terminal-market-2023-industry-set-to-expand-with-strong-172-cagr-and-reach-usd-40877-million-by-2030-2023-05-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 19
   - title: "Global Self-driving Cars Market [2023] | New Report Anticipates Industry to Surpass USD 6567.8 Million in Revenue by 2030"
     excerpt: "Toyota BMW Volvo Mercedes-Benz Audi Among other players domestic and global, Self-driving Cars market share data is available for global, North America, Europe, Asia-Pacific, Middle East and Africa, and South America separately. Research ..."
     publishedDateTime: 2023-05-04T12:10:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-ma
 webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2023-2031-players-launches-revolutionary-product-line-in-coming-years-2023-05-02"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Clinical Natural Language Processing Market Updates 2023-2031 by Marketreportsworld.com"
-    excerpt: "The research report on the \"Clinical Natural Language Processing Market\" |in-Depth Analysis Share of 2023| perhaps an"
-    publishedDateTime: 2023-05-02T04:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/clinical-natural-language-processing-market-updates-2023-2031-by-marketreportsworldcom-2023-05-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Automatic Speech Recognition Market Trends [2023-2030] | Booming Industry Globally"
     excerpt: "GlobalAutomatic Speech Recognition Market[2023-2030] research report is a compilation of information and analysis"
     publishedDateTime: 2023-05-03T09:22:00Z

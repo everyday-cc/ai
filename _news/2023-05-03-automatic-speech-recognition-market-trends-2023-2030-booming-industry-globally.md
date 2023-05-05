@@ -37,20 +37,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Clinical Natural Language Processing Market Updates 2023-2031 by Marketreportsworld.com"
-    excerpt: "The research report on the \"Clinical Natural Language Processing Market\" |in-Depth Analysis Share of 2023| perhaps an"
-    publishedDateTime: 2023-05-02T04:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/clinical-natural-language-processing-market-updates-2023-2031-by-marketreportsworldcom-2023-05-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Life Sciences Market 2023: Growth Projection for Top Regions by 2030"
     excerpt: "May 02, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The Artificial Intelligence in"
     publishedDateTime: 2023-05-02T08:51:00Z

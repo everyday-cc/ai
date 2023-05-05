@@ -6,7 +6,7 @@ publishedDateTime: 2023-05-05T05:54:00Z
 originalUrl: "https://mybroadband.co.za/news/software/490193-microsoft-working-with-amd-on-ai-chips.html"
 webUrl: "https://mybroadband.co.za/news/software/490193-microsoft-working-with-amd-on-ai-chips.html"
 type: article
-quality: 34
+quality: 51
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI Hardware
 
 related:
   - title: "Microsoft helping finance AMD's expansion into AI chips- Bloomberg"

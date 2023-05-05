@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Insider Q&A: Aurora CEO Chris Urmson on self-driving trucks"
-excerpt: "Q: Teslas on either Autopilot or “Full Self-Driving” using only cameras have crashed into emergency vehicles, motorcycles and other things. Why should we trust you folks when this keeps happening with other vehicles? A: They aren’t really self ..."
-publishedDateTime: 2023-05-04T17:33:00Z
-originalUrl: "https://wiscnews.com/business/insider-q-a-aurora-ceo-chris-urmson-on-self-driving-trucks/article_328d9a71-f1ac-5025-8250-2068e59bb784.html"
-webUrl: "https://wiscnews.com/business/insider-q-a-aurora-ceo-chris-urmson-on-self-driving-trucks/article_328d9a71-f1ac-5025-8250-2068e59bb784.html"
+excerpt: "Sometime next year, semis with no human in the cab will start carrying freight down Interstate 45 between Dallas and Houston. The trucks will run on an autonomous driving system called the Aurora Driver,"
+publishedDateTime: 2023-05-04T17:15:00Z
+originalUrl: "https://omaha.com/business/insider-q-a-aurora-ceo-chris-urmson-on-self-driving-trucks/article_fee626a6-337c-55fd-bed4-816ab5e6b1fd.html"
+webUrl: "https://omaha.com/business/insider-q-a-aurora-ceo-chris-urmson-on-self-driving-trucks/article_fee626a6-337c-55fd-bed4-816ab5e6b1fd.html"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: WiscNews
-  domain: wiscnews.com
+  name: Omaha.com
+  domain: omaha.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/wiscnews.com/content/tncms/assets/v3/editorial/3/28/328d9a71-f1ac-5025-8250-2068e59bb784/6453ea6a6f082.preview.jpg?crop=1024%2C538%2C0%2C71&resize=1024%2C538&order=crop%2Cresize"
+  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/f/ee/fee626a6-337c-55fd-bed4-816ab5e6b1fd/6453ea6348932.preview.jpg?crop=1024%2C538%2C0%2C71&resize=1024%2C538&order=crop%2Cresize"
     width: 1024
     height: 538
     isCached: true
@@ -88,6 +88,6 @@ related:
       domain: ttnews.com
     quality: 4
 
-secured: "JtBC6Zn656CGF5cgSYQ3uG6PbxkxNFh4G3TChq5Llh/d6P06mk94NDkgVs9QCXlgmQIacqzSVKbwrT6VmWx0R8Rgp88wWeSDmgqemTZGj15JMXs/dpO7BVtHdBRRnS0FuUyH25Th90CiPRmrU1mqHNuNrlds4S4lQPQVthBxHohZWM+x0GDSukNfBSJIk2zUXYOay3oUTMY5JosngOdazTvruSViVZnxGpnIJdSOUunUE9/MdlkjuAy9qYcVrCTP4Htjb6MTq+IUPNzFxMGbInoCXuIbg5JXX0xdHp2Gb5mQM89z7zUijP/kyHLeqyx+A/opG8WYOvZLHv/jydOCqqWourT7W3xTr2N0mczCEdM=;H7DfBb/N4ao0IwslPPIN7w=="
+secured: "T4C+cYNXngi5cSsdwuMR0m0+PhQ+LCW4s43eiuaEEbQkSrQIwISlk5tqVqSlIsAFVGbg5MozLI46RClSWnKaEELnu/4veyXPeKH28zTSQaJb+hyB+jYW3npRVurHd/T7XYataH7RGnOrtEDTzB+QQWW/RAjGPDaeTSUBoNd/iulYRnW9yILga3yfX+Wtha/JhIHFtgKrLL/jZqFU1zd0e97zTRsVM9kgbNZcV2ZbrLmsEwcVPUS/miGqb6muA1rUT/p7e60wYt5YQ+uN8BoRuw8puFmSceARRIsNWCD/HotGH5XZvqLRNuPfbNpo4AK5HiWF4YCENrn18wFCN3+kE6xt75ApTszSeM3B7R5BPBs=;TdoSzUDLZSvBOqvxLvaQLQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/05/04/synopsysaire
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/05/04/synopsysairevolutionizing-chip-design-through-ai-driven-eda-suite/amp/"
 type: article
 quality: 104
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://myrepublica.nagariknetwork.com/uploads/media/Artificial-Intelligence-Trained-to-Find-New-Useful-Materials1_20220125163152.jpg"
         width: 1200
         height: 772
+        isCached: true
+  - title: "Artificial intelligence is real care: the future of AI-driven medical schemes"
+    excerpt: "Although typically perceived as robotic and inhuman, it is important to understand that care sits at the heart of AI-driven health innovation. In simple terms, AI-driven systems can quickly analyse large amounts of data and generate insights that help inform healthcare decisions."
+    publishedDateTime: 2023-05-05T06:12:00Z
+    webUrl: "https://www.bizcommunity.com/Article/196/159/238033.html"
+    type: article
+    provider:
+      name: Bizcommunity
+      domain: bizcommunity.com
+    quality: 51
+    images:
+      - url: "https://biz-file.com/c/2305/696789-1200x624.jpg?2"
+        width: 1200
+        height: 624
         isCached: true
   - title: "How AI is Revolutionizing the Supply Chain and Making It More Efficient"
     excerpt: "Have you ever wondered how Amazon can expeditiously deliver products to customers’ doorsteps shortly after placing an order? The solution to this enigma is rooted in the efficacy of Artificial Intelligence (AI) within supply chain management."

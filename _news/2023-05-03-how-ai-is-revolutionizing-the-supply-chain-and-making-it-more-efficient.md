@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 772
         isCached: true
+  - title: "Artificial intelligence is real care: the future of AI-driven medical schemes"
+    excerpt: "Although typically perceived as robotic and inhuman, it is important to understand that care sits at the heart of AI-driven health innovation. In simple terms, AI-driven systems can quickly analyse large amounts of data and generate insights that help inform healthcare decisions."
+    publishedDateTime: 2023-05-05T06:12:00Z
+    webUrl: "https://www.bizcommunity.com/Article/196/159/238033.html"
+    type: article
+    provider:
+      name: Bizcommunity
+      domain: bizcommunity.com
+    quality: 51
+    images:
+      - url: "https://biz-file.com/c/2305/696789-1200x624.jpg?2"
+        width: 1200
+        height: 624
+        isCached: true
   - title: "The coming AI chip shortage"
     excerpt: "Artificial intelligence requires semiconductors with powerful graphics processing units — chips that very few companies are able to make."
     publishedDateTime: 2023-05-01T09:59:00Z

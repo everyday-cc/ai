@@ -254,6 +254,15 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 54
+  - title: "Microsoft working with AMD on AI chips"
+    excerpt: "The companies are teaming up to offer an alternative to Nvidia, which dominates the market for AI-capable chips called graphics processing units, said the people, who asked not to be identified because the matter is private."
+    publishedDateTime: 2023-05-05T05:54:00Z
+    webUrl: "https://mybroadband.co.za/news/software/490193-microsoft-working-with-amd-on-ai-chips.html"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 51
   - title: "Aisera Collaborates with Microsoft to Provide AI Enterprise Service Experiences"
     excerpt: "Aisera, provider of Generative AI solutions for organizations, is partnering with Microsoft to deliver an AI copilot for"
     publishedDateTime: 2023-05-03T16:30:00Z
@@ -296,15 +305,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Microsoft working with AMD on AI chips"
-    excerpt: "The companies are teaming up to offer an alternative to Nvidia, which dominates the market for AI-capable chips called graphics processing units, said the people, who asked not to be identified because the matter is private."
-    publishedDateTime: 2023-05-05T05:54:00Z
-    webUrl: "https://mybroadband.co.za/news/software/490193-microsoft-working-with-amd-on-ai-chips.html"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 34
 
 secured: "AOT3DMurCNX3rycBdGTNpoeNHjgbLbRPAz9Vv3bKG6gvANnKED9RpmjrsX4hmWnEl/hr2mpePVaMz0g9CzS9lHBytwYuaPomOcRb0ykPrCXmxy9mRYO1c+RbMpcNV7q4gnMMigtAgLLp7bWTgJaQOTnNU6EK9S1PpUhaCrB3hyYKkgaeRkljMLp8KU4fV1XAM9CbaTwO4DJq4KC/ts/rwXkHUFEn2lOvPF+NpMh4rsj6qv062ciBnsZ8d2ALcRLw4Z+UX1dRSQrAz7qSxysJU8Gsec66f0UKKqX2wdWKY54KXoMobii7cuu/Ra8m7Ox/IupSTp+I0DQwXegEVtuI2Pf5Nxwsl5EqNiWrglOAr5dDdvBdLaThprR4c5Tp/vcg8a2kzVIzuLEet68iZUVeh+WtEl34x2A1pzAvE0EgKaG3Zb+FXJgFWghzyF+GKhHODkFU3X+j0u85aBOKMr75vCPVZMXK9iocJqzEhcZHMkyZvrISRy2D8SWIw7lkLKVCzRcSYV0/SO9RtevhcrtwMg==;jsKXcr4uzGlGdJFm6uqmzg=="
 ---

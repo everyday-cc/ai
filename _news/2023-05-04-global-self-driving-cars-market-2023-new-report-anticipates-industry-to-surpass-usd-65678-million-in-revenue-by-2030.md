@@ -32,6 +32,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 42
+  - title: "Global Face Recognition Terminal Market [2023] | Industry Set to Expand with Strong 17.2% CAGR and Reach USD 4087.7 Million by 2030"
+    excerpt: "Among other players domestic and global, Face Recognition Terminal market share data is available for global, North America, Europe, Asia-Pacific, Middle East and Africa, and South America separately. Research analysts understand competitive strengths and ..."
+    publishedDateTime: 2023-05-04T12:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-terminal-market-2023-industry-set-to-expand-with-strong-172-cagr-and-reach-usd-40877-million-by-2030-2023-05-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 19
 
 secured: "YdUK9g8j4d2OLhPDn94NN0hcZs1BPk5uquI+LnrY13s9rt+TumTu7hf7xVx5EpJMLRLZ+Dsm4ggYl4g4Kn5SLc5aj58FXsOwHuopgYIL488tUA7GvjtwN64Sk3qq6wbAVpYMcgxvweo0uUL6kdvxvtYv1BCT5EnjTEmh7Wecv5zBArfCWPJE6xw7fdZc7q+OGKoT2ZhmN630RT6kc/anyQ4rHdMbnn+jdSSe6jcFoXpf5D4by7DwuQhnA+7twVbWlTA+agZOHijxf6vtRHt9r2yRdTym4OmdC2TnNkwP/1qSEsxevJQ2hqzjkA9HoQS/heIMD4/flRz/huopP16ZVfUuJfyqYoXmlBSG3D12+JQ=;rRrQOQtTXscKlJcxGvctfA=="
 ---

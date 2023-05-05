@@ -254,6 +254,15 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 54
+  - title: "Microsoft working with AMD on AI chips"
+    excerpt: "The companies are teaming up to offer an alternative to Nvidia, which dominates the market for AI-capable chips called graphics processing units, said the people, who asked not to be identified because the matter is private."
+    publishedDateTime: 2023-05-05T05:54:00Z
+    webUrl: "https://mybroadband.co.za/news/software/490193-microsoft-working-with-amd-on-ai-chips.html"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 51
   - title: "Aisera Collaborates with Microsoft to Provide AI Enterprise Service Experiences"
     excerpt: "Aisera, provider of Generative AI solutions for organizations, is partnering with Microsoft to deliver an AI copilot for"
     publishedDateTime: 2023-05-03T16:30:00Z
@@ -296,15 +305,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Microsoft working with AMD on AI chips"
-    excerpt: "The companies are teaming up to offer an alternative to Nvidia, which dominates the market for AI-capable chips called graphics processing units, said the people, who asked not to be identified because the matter is private."
-    publishedDateTime: 2023-05-05T05:54:00Z
-    webUrl: "https://mybroadband.co.za/news/software/490193-microsoft-working-with-amd-on-ai-chips.html"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 34
 
 secured: "38jQK4QNxkmFTs8Mkjg5kfMKX0i1yQa5qkVjut+l/s5dUqELckePfyw0wCuRfhYZ2EAXQAOvuL1LELoZpMOyiGfWE9iEJoByAn0UGS6/NkPmK3vulod3jhE9Ux07E+tDbo2Gxuo//rysn7BlYucUsOLX9xHg6tjwBDntYDzwXwwaMYrZztVhTob48eM08oIKmWCaSoW3CeCMF+R0majGRkImzWfFBGDjJJHeXINYgci4UXu17Mt1R5guTTDAKQlxoDUU5tdFgUEy71Nagcv66BIe90aViRj3jkA5yvozm0G1/SrmPtKHPnFJ1YLrJ4jw/cVnt2KvOycUeoxvzg6bwBlCS8WNMOvuajjthG3dMtk=;3I4RjJQAnSBBgS9Iv/Bnow=="
 ---

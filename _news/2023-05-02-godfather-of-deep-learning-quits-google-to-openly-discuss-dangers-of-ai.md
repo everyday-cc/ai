@@ -3,8 +3,8 @@ category: news
 title: "'Godfather of deep learning' quits Google to openly discuss dangers of AI"
 excerpt: "A Toronto professor considered to be a pioneer in the field of artificial intelligence announced his departure from Google on Monday so that he could openly discuss the “dangers of AI.”"
 publishedDateTime: 2023-05-01T18:19:00Z
-originalUrl: "https://www.cp24.com/news/godfather-of-deep-learning-quits-google-to-openly-discuss-dangers-of-ai-1.6378749?cache=yes%3FclipId%3D89950"
-webUrl: "https://www.cp24.com/news/godfather-of-deep-learning-quits-google-to-openly-discuss-dangers-of-ai-1.6378749?cache=yes%3FclipId%3D89950"
+originalUrl: "https://www.cp24.com/news/godfather-of-deep-learning-quits-google-to-openly-discuss-dangers-of-ai-1.6378749?cache=gtulocgpuvxrpwim%3FclipId%3D104066"
+webUrl: "https://www.cp24.com/news/godfather-of-deep-learning-quits-google-to-openly-discuss-dangers-of-ai-1.6378749?cache=gtulocgpuvxrpwim%3FclipId%3D104066"
 ampWebUrl: "https://beta.cp24.com/news/2023/5/1/1_6378749.html"
 cdnAmpWebUrl: "https://beta-cp24-com.cdn.ampproject.org/c/s/beta.cp24.com/news/2023/5/1/1_6378749.html"
 type: article
@@ -53,7 +53,7 @@ related:
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 86
+    quality: 88
     images:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/230501-Geoffrey-Hinton-al-1228-2c82cf.jpg"
         width: 2500
@@ -589,6 +589,6 @@ related:
       domain: euronews.com
     quality: 10
 
-secured: "gDMWomaNSdVAfEVlN1ykmXdv7HLcFgrqciTTzucuVq/FpA+PZASNCG0OIL4XcfBa77WHBMTSvtMgf7RFfQaO/1BrmUdSHuaaMiMsBbSrdnZbHIARtexPAHkP2piXP9a/dMLMslLu+Ew9bGaY5Pexqk3xkf3gtgkKvchml7rqz162ceVU8iz1ESSWo1oQ73Wp75Hw1H1sGSZp5j6sjywNzA7YeVfB+W04Ywb/WeQBMcu/ucOW8dbaxBglH83tjmK+UDKLE3E0mWNGwWuaNG4l4nb9kMqANmovunYyxwv8AmQKtWnW1AIwLB85v4eiZhF7/lvCIFgMl6jdJiL8O8oaDrVNTHHNbcs6/1eCbZmeyJA=;pEYD91IRKljZa/AXM1kuWg=="
+secured: "OZGiUVgKz8fD3dsIyfFdgPi8YWkXeJ9ADIyBfLBpyIixJGSE19L8eY1JXF8rZPIuyFWXEd8S84FzYG6oxdYx1bV3OEhJXpDqInBvYjIqXc0QZcaSYFN84XfEmGJQGywAn3EAG92xr55nI8eIuIh91s7kmVKYeVx05Zld4dqWA1DGLvOZGCnmjLpVG/s6cMApqTQWx8V78CuEIWraeV53/Hm2WzQlr/DWt8SFxusnAD63cm4FkFdsQt+v7a72DtW2uXKlVVQTF46etEv4lDcEnuXeK9j7Y8TKa1ZMvOWlDHlKxUX1kSgt3LXvsu1BcP/r1b5J27wIPJfA7R9/SVa+UXyjMG8l098O8XKeHrkpi5g=;cgfzQElwLG3pwhIl/EdE8w=="
 ---
 

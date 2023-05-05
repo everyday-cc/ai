@@ -56,16 +56,16 @@ related:
         height: 960
         isCached: true
   - title: "Insider Q&A: Aurora CEO Chris Urmson on self-driving trucks"
-    excerpt: "Q: Teslas on either Autopilot or “Full Self-Driving” using only cameras have crashed into emergency vehicles, motorcycles and other things. Why should we trust you folks when this keeps happening with other vehicles? A: They aren’t really self ..."
-    publishedDateTime: 2023-05-04T17:33:00Z
-    webUrl: "https://wiscnews.com/business/insider-q-a-aurora-ceo-chris-urmson-on-self-driving-trucks/article_328d9a71-f1ac-5025-8250-2068e59bb784.html"
+    excerpt: "Sometime next year, semis with no human in the cab will start carrying freight down Interstate 45 between Dallas and Houston. The trucks will run on an autonomous driving system called the Aurora Driver,"
+    publishedDateTime: 2023-05-04T17:15:00Z
+    webUrl: "https://omaha.com/business/insider-q-a-aurora-ceo-chris-urmson-on-self-driving-trucks/article_fee626a6-337c-55fd-bed4-816ab5e6b1fd.html"
     type: article
     provider:
-      name: WiscNews
-      domain: wiscnews.com
+      name: Omaha.com
+      domain: omaha.com
     quality: 24
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/wiscnews.com/content/tncms/assets/v3/editorial/3/28/328d9a71-f1ac-5025-8250-2068e59bb784/6453ea6a6f082.preview.jpg?crop=1024%2C538%2C0%2C71&resize=1024%2C538&order=crop%2Cresize"
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/f/ee/fee626a6-337c-55fd-bed4-816ab5e6b1fd/6453ea6348932.preview.jpg?crop=1024%2C538%2C0%2C71&resize=1024%2C538&order=crop%2Cresize"
         width: 1024
         height: 538
         isCached: true

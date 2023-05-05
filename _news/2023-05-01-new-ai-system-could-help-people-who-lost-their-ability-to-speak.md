@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/ai-system-language-decoder-could-he
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/ai-system-language-decoder-could-help-people-who-lost-their-ability-to-speak/"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "This new AI system can read minds accurately about half the time"
+    excerpt: "AI reading minds isn't as nefarious as it sounds. The ability to decode a person's thoughts could help people communicate more effectively, especially those that are conscious but unable to speak, like people with physical disabilities. This study proves the viability of doing so with language brain-computer interfaces."
+    publishedDateTime: 2023-05-03T18:35:00Z
+    webUrl: "https://www.zdnet.com/article/this-new-ai-system-can-read-minds-accurately-about-half-the-time/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 49
 
 secured: "0PDPIIfsGgwMt7hCW5B2/rQkB8BsmwebPPJg1rIIWIT9T6WnCO9ovml3F3TA1W1wAqlapYzKZTfto/y+FtSPRRmZv1C5/Nfl9UjTVKUQXXZMhgv+y+1qeh63o0orI3DkM1gdAzHvy5wjEjzfc01I1NgP2+AKvkdUqNZeTuIPfy6q+jmBr7Hk4CXoUstwDSKW11EtMDqDnT89udc5MFVK0/7tBcBuLVpHC0qa9vB8WHHuIrFdIpKhwDO6wtSeyvDVG/aZNqrdmBZF+yU7+xVtj5nuteJsvIwKEfhUkhsSZI20B3Kp/rs0IlEHh5KV/1SXqAiZ1VjcnsUxFbkfndVYLUYJAeOC+GTSEvgSoIWezm8=;Fl0vW5zOueGUypeK4mfWsg=="
 ---

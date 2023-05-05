@@ -30,97 +30,123 @@ images:
     isCached: true
 
 related:
-  - title: "Box Introduces Box AI To Bring The Power Of AI To Enterprise Content"
-    excerpt: "Vice President & Principal Analyst, Modern Work, Melody Brue, dives into Box AI, a new capabilities suite that natively integrates advanced AI models into the Box Content Cloud."
-    publishedDateTime: 2023-05-04T14:19:00Z
-    webUrl: "https://www.forbes.com/sites/moorinsights/2023/05/04/box-introduces-box-ai-to-bring-the-power-of-ai-to-enterprise-content/"
-    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/05/04/box-introduces-box-ai-to-bring-the-power-of-ai-to-enterprise-content/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/05/04/box-introduces-box-ai-to-bring-the-power-of-ai-to-enterprise-content/amp/"
+  - title: "How Generative AI Can Affect Your Business’ Data Privacy"
+    excerpt: "If a business enters any client, customer or partner information into a chatbot, that AI may use that information in ways that businesses can’t reliably predict."
+    publishedDateTime: 2023-05-01T14:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/01/how-generative-ai-can-affect-your-business-data-privacy/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/01/how-generative-ai-can-affect-your-business-data-privacy/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/05/01/how-generative-ai-can-affect-your-business-data-privacy/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6453be070729cea75deabd27/0x0.jpg?format=jpg&width=1200"
-        width: 468
-        height: 263
+      - url: "https://imageio.forbes.com/specials-images/imageserve/61f2bb5a705a07e1687440a6/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Accenture finds only 9% of enterprises harness AI’s full potential"
-    excerpt: "New Accenture report reveals key strategies \"operations reinventors\" use to achieve elevated levels of operational maturity."
-    publishedDateTime: 2023-05-02T22:03:00Z
-    webUrl: "https://venturebeat.com/ai/accenture-finds-only-9-of-enterprises-harness-ais-full-potential/"
-    ampWebUrl: "https://venturebeat.com/ai/accenture-finds-only-9-of-enterprises-harness-ais-full-potential/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/accenture-finds-only-9-of-enterprises-harness-ais-full-potential/amp/"
+  - title: "How vector databases can revolutionize our relationship with generative AI"
+    excerpt: "By reducing the need to structure data, vector databases can speed up generative AI training times to dramatically improve our productivity."
+    publishedDateTime: 2023-04-30T22:21:00Z
+    webUrl: "https://venturebeat.com/ai/how-vector-databases-can-revolutionize-our-relationship-with-generative-ai/"
+    ampWebUrl: "https://venturebeat.com/ai/how-vector-databases-can-revolutionize-our-relationship-with-generative-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-vector-databases-can-revolutionize-our-relationship-with-generative-ai/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
     quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1366475366-e1665766594967.jpg?w=1200&strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2018/11/artificial-intelligence.shutterstock_1164239863.jpg?w=1200&strip=all"
         width: 1200
-        height: 675
+        height: 850
         isCached: true
-  - title: "Centene Makeover Continues As Health Insurer Divests Artificial Intelligence Platform"
-    excerpt: "Centene will divest Apixio, an artificial intelligence platform, as the health insurer focuses on its health benefits business and continues to review its portfolio."
-    publishedDateTime: 2023-05-04T00:01:00Z
-    webUrl: "https://www.forbes.com/sites/brucejapsen/2023/05/03/centene-makeover-continues-as-health-insurer-divests-artificial-intelligence-platform/"
-    ampWebUrl: "https://www.forbes.com/sites/brucejapsen/2023/05/03/centene-makeover-continues-as-health-insurer-divests-artificial-intelligence-platform/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucejapsen/2023/05/03/centene-makeover-continues-as-health-insurer-divests-artificial-intelligence-platform/amp/"
+  - title: "How Businesses Can Manage User-Generated Content With AI"
+    excerpt: "AI is playing a greater role in UGC, transforming the way businesses and consumers produce and consume digital media."
+    publishedDateTime: 2023-05-02T10:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/02/how-businesses-can-manage-user-generated-content-with-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/02/how-businesses-can-manage-user-generated-content-with-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/02/how-businesses-can-manage-user-generated-content-with-ai/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 82
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5dca0d42f5b54ee0b18a87a03661ea94/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63d00455752e4cf11c766efe/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 765
+        height: 800
         isCached: true
-  - title: "We need to bring consent to AI"
-    excerpt: "This week's big news is that Geoffrey Hinton, a VP and Engineering Fellow at Google, and a pioneer of deep learning who developed some of the most important techniques at the heart of modern AI, is leaving the company after 10 years. But first, we need to talk about consent in AI."
-    publishedDateTime: 2023-05-02T09:47:00Z
-    webUrl: "https://www.technologyreview.com/2023/05/02/1072556/we-need-to-bring-consent-to-ai/"
-    ampWebUrl: "https://www.technologyreview.com/2023/05/02/1072556/we-need-to-bring-consent-to-ai/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/05/02/1072556/we-need-to-bring-consent-to-ai/amp/"
+  - title: "How Artificial Intelligence is Transforming Business"
+    excerpt: "AI technologies have a wide range of applications in business, and many publicly traded companies now use AI tools."
+    publishedDateTime: 2023-05-03T02:15:00Z
+    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-in-business/"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
+      name: The Motley Fool
+      domain: fool.com
+    quality: 71
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/04/opt-out-writing.jpeg?w=3000"
-        width: 3000
-        height: 1688
+      - url: "https://m.foolcdn.com/media/dubs/images/nvidia-nvda-stock-ai-artificial-intelligence-2.width-600.jpg"
+        width: 580
+        height: 387
         isCached: true
-  - title: "How to Introduce Your Employees to Artificial Intelligence"
-    excerpt: "A.I.' is a booming buzzword, but some team members might be apprehensive about the technology. Here's how to ease its adoption in your workplace."
-    publishedDateTime: 2023-05-01T10:12:00Z
-    webUrl: "https://www.inc.com/sarah-lynch/how-to-introduce-your-employees-to-artificial-intelligence.html"
+  - title: "Moving Beyond The Hype: The Ethics And Business Outcomes Of Generative AI"
+    excerpt: "As the ethics and business outcomes of generative AI are discussed, how safe and reliable is the technology and moving forward?"
+    publishedDateTime: 2023-05-04T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/04/moving-beyond-the-hype-the-ethics-and-business-outcomes-of-generative-ai/"
     type: article
     provider:
-      name: Inc
-      domain: inc.com
-    quality: 21
-  - title: "Box embeds generative AI into its Content Cloud"
-    excerpt: "Announced at Box’s Content Cloud Summit today, Box AI is billed as a suite of AI capabilities that will primarily focus on two things: helping users to ask questions about documents and creating new content in Box."
-    publishedDateTime: 2023-05-02T12:00:00Z
-    webUrl: "https://siliconangle.com/2023/05/02/box-embeds-generative-ai-content-cloud/"
+      name: Forbes
+      domain: forbes.com
+    quality: 63
+  - title: "How democratised Machine Learning can transform your business"
+    excerpt: "Let’s dispel a misconception. Artificial intelligence (AI) and machine learning (ML) are often seen as beyond the reach of businesses without data scientists and ML engineers. As we explored in chapter six of AWS eBook Innovate With AI/ML To Transform Your Business,"
+    publishedDateTime: 2023-05-03T23:00:00Z
+    webUrl: "https://www.smartcompany.com.au/partner-content/articles/how-democratised-machine-learning-can-transform-your-business/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
+      name: SmartCompany
+      domain: smartcompany.com.au
+    quality: 41
+    images:
+      - url: "https://www.smartcompany.com.au/wp-content/uploads/2023/05/AWS-AI-article-4-1466x710-1.png?fit=1466%2C710"
+        width: 1466
+        height: 710
+        isCached: true
+  - title: "EU’s AI legislation aims to protect businesses from IP theft"
+    excerpt: "A new draft of EU artificial intelligence (AI) legislation could better protect business IP from being secretly scraped by AI firms, with developers facing new transparency obligations on copyrighted content."
+    publishedDateTime: 2023-05-02T09:34:00Z
+    webUrl: "https://www.techcentral.ie/eus-ai-legislation-aims-to-protect-businesses-from-ip-theft/"
+    type: article
+    provider:
+      name: Mozilla
+      domain: techcentral.ie
+    quality: 39
+    images:
+      - url: "https://www.techcentral.ie/wp-content/uploads/2021/11/european_commission_nov_2021.jpg"
+        width: 620
+        height: 349
+        isCached: true
+  - title: "The Clash Of Generative AI And Intellectual Property Law: What It Means For Businesses"
+    excerpt: "Autoencoders use two AI programs: An encoder, which reduces work to a small representation called \"latent vectors,\" and a decoder that then attempts to expand the latent vectors back into the original work; the difference between the two is used to train the system to generate new material and modify input material."
+    publishedDateTime: 2023-05-03T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/03/the-clash-of-generative-ai-and-intellectual-property-law-what-it-means-for-businesses/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 39
+  - title: "Centene divests artificial intelligence business"
+    excerpt: "Centene Corp. is selling an artificial intelligence business it purchased just over two years ago, the company said Wednesday."
+    publishedDateTime: 2023-05-03T17:53:00Z
+    webUrl: "https://www.stltoday.com/business/local/centene-divests-artificial-intelligence-business/article_d1afc9f8-e9c4-11ed-9c11-b33b497886c5.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
     quality: 19
-  - title: "Scientists use power of AI to supercharge planetary studies"
-    excerpt: "A new technique for detecting planetary craters that will allow scientists to accurately map the surfaces of planets using different types of data could be used in future space missions."
-    publishedDateTime: 2023-05-01T18:10:00Z
-    webUrl: "https://phys.org/news/2023-05-scientists-power-ai-supercharge-planetary.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 17
 
 secured: "7jdZoqHzgVQEdwuxOXmr/csJ2tSsIGvI0IcX9zGeyeP62qAO+HCYAZPLGhY/k/wR50tZfTLZi749V5rzknwpFN+5kbUz27AZBmmOHtcyksnxevdpuShO2aAoL0GM24CZtqQdRWyHF9+zNM0b/MMKm2T2La4ZWas57jixDm5KlGlUCeGHyM1s1sf7UbNiFE/MKHmQsmONHQfHHA6U6ga3oTwII22xh7/xTXsg/GnxFqzYZvM6LZknYudpI57ekeLuHFXk5bk2XVisZtqI+BZ+GGk19rKMQy4SEYxDQsuMd77sl9KL9N4HFym/Ep0uGdY3wSPW10cl128AbC5WtgdNXIsrlYfRZJXUrhkHze24/7A=;LCBEv0JZ9QAx55ks35ciwg=="
 ---

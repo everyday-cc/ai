@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 798
         isCached: true
-  - title: "Challenges and Opportunities of Artificial Intelligence"
-    excerpt: "Previously, she served as vice president and group counsel, artificial intelligence products group, at Intel Corp. She previously held attorney roles at Sun Microsystems and Fenwick & West."
-    publishedDateTime: 2023-05-02T19:13:00Z
-    webUrl: "https://www.govinfosecurity.com/challenges-opportunities-artificial-intelligence-a-21768"
-    type: article
-    provider:
-      name: HHS
-      domain: govinfosecurity.com
-    quality: 39
-    images:
-      - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/challenges-opportunities-artificial-intelligence-showcase_image-9-a-21768.jpg"
-        width: 860
-        height: 520
-        isCached: true
 
 secured: "M7zykqJ/6HIgtOynGYIzA2ZMPxJbJVtpambzIoW0F9BMX0pb7UgNLD7UnF9t9GASOrQPUFyO6Qi0tt4bdcfSnRNeXkqPhFwagO2tKe8LEqPTmTs0hdayan01lLhFK8/kt+P8Q77qAP2u+ujKoZy0hrOq5rAX9T+Tohd1EHZ21Ou7w2OAR2QkZOLrb81FovbeYuiA2ZAz8awUzGmCsEErMj51aFjWkVQP5tud4/513CiytVM2sdhC2Je3Tk7DHmiOlgTy97DPSx8p+MCd/5GXS5oEjO8qRo2hjECT57DeUKjf3O9NQwgXSkHmmICRsM3348uqXrneOSxBaGu3i9AvztN2yFI4/JUZucwbZLyezCA=;pzNDzamyeUgwTHnTdmHo7w=="
 ---

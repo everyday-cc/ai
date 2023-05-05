@@ -55,6 +55,20 @@ related:
         width: 553
         height: 311
         isCached: true
+  - title: "Developing Artificial Intelligence for Medical Devices"
+    excerpt: "However, a Canadian company specializing in artificial intelligence (AI)-based monitoring of the spread of infectious diseases had already warned its customers of the risk of an epidemic in China as early as December 2019. 1 The warning had been derived ..."
+    publishedDateTime: 2023-05-02T00:00:00Z
+    webUrl: "https://www.mddionline.com/artificial-intelligence/developing-artificial-intelligence-medical-devices"
+    type: article
+    provider:
+      name: MD&M East
+      domain: mddionline.com
+    quality: 39
+    images:
+      - url: "https://www.mddionline.com/sites/mddionline.com/files/artificial-intelligence-5291510_640_web.jpg"
+        width: 770
+        height: 440
+        isCached: true
 
 secured: "FSZ9OH9+/SWov1PxwqhiZaoklimzUY2rxH9IKYCXqn/gERA+H3YK3OPrLMx4Vm3vpzMrEGYPLPvA6nPbpjtvz8I2kDKILILNSyciHo+oRS/OUbAwRfVjyzH2pqbI7Agcnr0DvrbqbMmBNEcMZWyEoUIBasnrDR1Cpg+nx/AqqTILsJRS2Yiz0Rg/qx0iH1FYR5IQjQGxr1vlDhXXolgfUxW6y2r2u4G3y/e4BICbTqoMt8M8U37v6O4gIEmrkujzpJ6DbyZ/BPUqNX/9kCUCbKTYuH/0z4PYlOmCUEzxvnzY9JCS/rl70qNVvWhwzX1HI6qMm1jyN7JQ1YgK1ri48b9CfvRfzErYg/nSgtltvAQ=;uKzYhYkKVYCvxX7K+mWrLQ=="
 ---

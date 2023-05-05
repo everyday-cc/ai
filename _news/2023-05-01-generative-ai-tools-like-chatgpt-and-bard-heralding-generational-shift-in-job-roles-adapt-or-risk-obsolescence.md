@@ -46,20 +46,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Challenges and Opportunities of Artificial Intelligence"
-    excerpt: "Previously, she served as vice president and group counsel, artificial intelligence products group, at Intel Corp. She previously held attorney roles at Sun Microsystems and Fenwick & West."
-    publishedDateTime: 2023-05-02T19:13:00Z
-    webUrl: "https://www.govinfosecurity.com/challenges-opportunities-artificial-intelligence-a-21768"
-    type: article
-    provider:
-      name: HHS
-      domain: govinfosecurity.com
-    quality: 39
-    images:
-      - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/challenges-opportunities-artificial-intelligence-showcase_image-9-a-21768.jpg"
-        width: 860
-        height: 520
-        isCached: true
   - title: "Pandora’s Box: Generative AI Companies, ChatGPT, and Human Rights"
     excerpt: "ChatGPT and generative artificial intelligence (AI) are dominating headlines and conversations. But what’s behind this technology? Who feeds it data and decides where the data comes from? What does this have to do with human rights?"
     publishedDateTime: 2023-05-03T04:00:00Z

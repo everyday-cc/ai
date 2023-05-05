@@ -6,8 +6,8 @@ publishedDateTime: 2023-05-02T04:10:00Z
 originalUrl: "https://www.npr.org/2023/04/28/1172854934/will-artificial-intelligence-help-or-hurt-medicine"
 webUrl: "https://www.npr.org/2023/04/28/1172854934/will-artificial-intelligence-help-or-hurt-medicine"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://media.npr.org/assets/img/2023/05/01/gettyimages-1292540531_wide-837c160e50a055eb35819780aa88c0a1c802b5b8-s1400-c100.jpg"
