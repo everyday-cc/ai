@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Healthcare Artificial Intelligence Market 2023-2030 Industry Overview and Ongoing Opportunity"
+    excerpt: "The Healthcare Artificial Intelligence Market Scope and Overview Report for 2023 presents a detailed analysis of the"
+    publishedDateTime: 2023-05-04T11:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-2023-2030-industry-overview-and-ongoing-opportunity-2023-05-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 73
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Face Recognition Systems Market Share by 2031"
     excerpt: "This \"Face Recognition Systems Market\" report offers a thorough analysis of the industry, including forecasts for"
     publishedDateTime: 2023-05-04T01:02:00Z
@@ -71,20 +85,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-Driving Car for AI Programming Market Future Growth and Detail Analysis of Industry Up to 2030"
-    excerpt: "The following is a synopsis of a market research report on the Self-Driving Car for AI Programming Market research"
-    publishedDateTime: 2023-05-03T07:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-for-ai-programming-market-future-growth-and-detail-analysis-of-industry-up-to-2030-2023-05-03"
+  - title: "Natural Language Processing in Healthcare Market | Worldwide Industry Trends 2023-2030"
+    excerpt: "Get a Sample Copy of the Natural Language Processing in Healthcare Market Report Geographically, a well-developed infrastructure of the global Natural Language Processing in Healthcare Market, its awareness,"
+    publishedDateTime: 2023-05-05T09:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-in-healthcare-market-worldwide-industry-trends-2023-2030-2023-05-05"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+    quality: 58
   - title: "FinTech in Insurance Market Outlook and Forecast till 2030"
     excerpt: "According to the \"FinTech in Insurance Market\" report, the technology sector is changing, and both established"
     publishedDateTime: 2023-05-05T05:31:00Z

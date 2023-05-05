@@ -56,6 +56,15 @@ related:
         width: 420
         height: 262
         isCached: true
+  - title: "Heart Failure 2023: discover the future of heart failure therapy"
+    excerpt: "Get ready for state-of-the-art discussions on new and emerging methods for heart failure management at Heart Failure 2023, a scientific congress of the European Society of Cardiology (ESC). Heart Failure is the annual congress of the Heart Failure Association (HFA) of the ESC."
+    publishedDateTime: 2023-05-03T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/988097"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 34
 
 secured: "pCLIMm6wejU4ByIO9GDseml3BXSIcbW2SWZT6ZW2AfORQTKISUixYGkTUZMAGDXwZMcF0vlwEnt2r60sgxPI5ODlxQiYL3hSLHSnU5VXcmnakRKyC156/92ptiKr4/58XGmPvk9S3MP/hn1JqnMrSfYa1foJpDCLlDc3LQKBnfZp30oUOOCydjjG4FxnAMHjp0ITmL7hw4S7z6GRyeM4vwfeC2UNLJYUCPHd/4zjQpWnKw2pV5Jw6/sJ0j72jLL3ZfcpqnirtexW4Wbg727knbKktNzLX6gAPRmHHLXfy8nbHLuYJyFpeuw2ZVQEnZXI7m10qS/5n47y+3P+Hlt3H6B345GEer8fGYNf8b2iQcjGfRoU1JIDucwXs8MU5ap5iVw1jGh6zms1kHRJnhGqBYnWzDzfPQMY+q/oDNPxmRwmBRFrFVkrQMjUflk4nw/PLFLcMQadyIi/iIribwfEKohc1BoHl1ScZ5jCgIdNBbZ4hT/yTuaModcRwEgSAQ2uvEczj1hZXHja4dXy/5T9rA==;VkHe1NlqwF4iAZJyDk+yLQ=="
 ---

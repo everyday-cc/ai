@@ -35,15 +35,6 @@ related:
         width: 1919
         height: 737
         isCached: true
-  - title: "Australian Law Firms Back Constitutional Recognition for First Nations People"
-    excerpt: "Many Australian law firms are supporting a referendum that, if passed, would recognize First Nations peoples in Australia's Constitution and create an Indigenous body to advise the Parliament on policies and projects relating to Indigenous peoples."
-    publishedDateTime: 2023-04-30T19:08:00Z
-    webUrl: "https://www.law.com/international-edition/2023/04/30/australian-law-firms-back-constitutional-recognition-for-first-nations-people/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 1
 
 secured: "p4I5t4cK5PUVjqHmZbQFh27PObKLrGWZ5OckpSEdmD0UkYL9u/bFb4Ha8U3ycsWcnBfZavbyEemncXysiARI2mjQH/VAn2N7W1IPvwlfUq3xjlw8TmuCWv/7gWh7K/T9U5mO5OEAYptVqspQCeLheFveuC1Q3LmboBBE8h+pi3oz+RnGtkfnwjI8EinS+pq1vfYPoyoU3RCt0O+yHkgkRa/L5zSdQwLL8el0xHgxNbNGj5AzbWFB76DN8w+2mZHJQAMZFxVlUK7USgFIjVPSDoxA6S7V36PMEl1zifj6JGlSGLiAsU7EEo9vcPQO/yvfn4L+f8JHw1rbBnwXt7uZAIvi0V5ybm/9422c9YFDnz0=;ankiIvoicilMDJxBfrjwYQ=="
 ---

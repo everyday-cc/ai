@@ -77,15 +77,6 @@ related:
         width: 1024
         height: 538
         isCached: true
-  - title: "Driverless semis between Dallas and Houston? Aurora Driver CEO explains trucking plans along I-45"
-    excerpt: "The trucks will run on an autonomous driving system called the Aurora Driver, developed by Pittsburgh-based Aurora Innovation."
-    publishedDateTime: 2023-05-03T19:18:00Z
-    webUrl: "https://www.wfaa.com/article/news/local/insider-qa-aurora-ceo-chris-urmson-on-self-driving-trucks-autonomous/287-fe589d59-a52f-4269-9424-9531a24dcc87"
-    type: article
-    provider:
-      name: WFAA8
-      domain: wfaa.com
-    quality: 21
 
 secured: "lYj+xX89i5X3QKT7XI3/Y2om9r9rqFL20Pn+pytfrK01KPuC0VFsj+Or8LcgVXU5NWcYP0rBj4qNrkYbmNPnaeYuqKAAnMpg/C8tAwRYjpqZuMCeHuWI2DhFXcvwGLiGb8lNozbMlRHtt3HYM5AB//ojBRqMisBz4w9B91qaW6mPfEmzoV7gNLeT2GXv5egmayKrUv8uydIYJ+iNrK7/+krBk3ny6v0WCqDEt6bHTBJWUFIjBHg3SWpfC5wUbB12ukBTrzNaauQW6IZQt2L8kcvIE4wnrnmgIbJ6DXYkNuhJUSI9ixe1aIlmHrP4p3iDWFMSI/LFqavtYeV8ApTlWfu+nDKrRoKfkl1PoUbKUgSNnnTekoArjQGIhYqbC7XRLiUpy8+zU1E6bvtUovq8oVrCffbUNB9Bf6Ya8uoMP0bXD9YAnY/NYWbOnMUZQ+VidsF4iJ8kGHwt2Ssm3+1svYGmnsyC1j5xe5+E3uQcFcxF/WY1bss/6/bErDNGPVV0+6t0RoyzxVptLv8gJC8LVg==;AYoZyrW1BKLD/iTxl7hnfg=="
 ---

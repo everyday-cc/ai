@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-brings-new-ri
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-brings-new-risks-to-everyone-heres-how-you-can-stay-safe/"
 type: article
 quality: 88
-heat: 98
+heat: 118
 published: true
 
 provider:
@@ -31,6 +31,15 @@ images:
     isCached: true
 
 related:
+  - title: "Data is choking AI. Here’s how to break free."
+    excerpt: "Problems with that data – quality, quantity, velocity, and more – continue to persist as a major obstacle to successful implementation."
+    publishedDateTime: 2023-05-05T13:20:00Z
+    webUrl: "https://venturebeat.com/ai/data-is-choking-ai-heres-how-to-break-free/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 49
   - title: "Google Workspace is expanding access to its new generative AI features"
     excerpt: "Google Workspace has announced that it is expanding its \"trusted tester\" program for its generative AI features by ten times."
     publishedDateTime: 2023-05-04T23:37:00Z
@@ -45,7 +54,16 @@ related:
         width: 1624
         height: 916
         isCached: true
+  - title: "There’s Still A Long Way To Go With Generative AI"
+    excerpt: "The tech world is awash with generative AI, which for a company like Nvidia, is a good thing. The company that a decade ago put its money down on AI to be"
+    publishedDateTime: 2023-05-05T13:54:00Z
+    webUrl: "https://www.nextplatform.com/2023/05/05/theres-still-a-long-way-to-go-with-generative-ai/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 19
 
-secured: "X6CyVdf3nf2K12g4L8R6qzQjWVGINCpzK2SYLiqv9MxzmAY9bMPGfWm9b/nltFMyRu12pejz9w7Aog59cZ2OT5zO9RtaVstP34SoCrHESN8OFvlg2ANxdwqN0ZQ2soXRFGArR0lEFutbwRHc/S20Q+nCgzy32f5QrmsMxby+gj8PkTvIzmbgKfjFq/49jsfdlgtUadpUJ8P6RkHLAwNuu6LtKuoEnZWXnMTXZaCC80s8prbKIVhnb27Mfo/Cx8T4oKg7RkqVoYRrXhUTtYTDKwjl0zqPxj1l2AhxZclUIf0+KlnI69PcV8HP/N+dJHVCgDu70g+gDAFdr+ZvDAyYKZOtCT9EwPhO7O9HwVpw/uM=;Rob/qyG8s25UK3jk4nHxZg=="
+secured: "hZLArplrSPE5cNXK0xOHhE8+zTgmRNS9FU32+ltTyuQtYAevfQ2M2AFwutPU9d1L+cbejZ61Zoz8J8Pta13u62Hk0CUDwqMbJPPDLmeMDHbkBpujmsjVlYIv9gcKiVYELaw/AZmZ/a5daVWn7mCsDJtGWlgGSh08WI3VzClYN0FE17wkX2SojrtYNsLWahSsYA2dT4GNvQUc/mPQw0HMWR7rNQcQ2w1nazhFJWz270pFjbxBQMsPIO2elbqksP+VCTAGmQR6X1H+sFZVT65Xe0xHn88DMRBJbdVhPAlGQv/Tk4crljACETXvrrcDNUhR5dvFtfGGlsbJvWduRHf9HLAd0FYZeNHX+R1CRqmZVyMnQ1XtA7/Iz6gP3S1xV7SKi7K6oJSca7smNxJ6WCg4L4yWsbkkH/zdwj94lBVAFt35fjCVf/+fAGHA16Lsfsp/e0AaA5109g+o9cDULnH3SBPLuCMgYhHrqU0ObiDZbxIzGue4viXXInjnBrPGHW9moTgPmL9bja5AZjc7bpOLiw==;wN9UPO7jQI2NmTE3KM1OzQ=="
 ---
 

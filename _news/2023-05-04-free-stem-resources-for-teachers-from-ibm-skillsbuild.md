@@ -52,6 +52,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Preparing to Integrate Machine Learning and AI Into Pricing, Billing and Invoicing"
+    excerpt: "While AI's applications to back-office business operations like pricing, billing and invoicing may not be as flashy as AI-generated brief writing, they will be just as critical for the business of law firms."
+    publishedDateTime: 2023-05-05T13:54:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/05/05/preparing-to-integrate-machine-learning-and-ai-into-pricing-billing-and-invoicing/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 48
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/05/Law-Library-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
 
 secured: "gJYGDoyi1cxySYzarAiEQBSpgUR/OAgFcFo9jNi+l07wHgVlLPi/PZq2/0YroYK/cN31lp2pd2lzE0qc+pC9iYHB09dhsZGV99S5jqeQ5lM4aGGxSsUgx8bpCBLOl4T51FRKlV/XabdrcaEVlDEg1msqeg7N+UdBjWUZKDN28R2my2Ekao0YfGwptB6Jge/SPPrSPv3RvZrtzStdJVET1LbGu+P3salTVLPJVvUwSx7TST/w4veKdb3aoUkcOIyZ6gaF3OgXj6HBnhK3MNV+EtyVGRHvfd7xzGDtkaJzd0l1X0BLi4iqj9NrMiVHtRilz91zqQbWkIh5AmETwixMcFktCi6mkmhdr9mwHd0Nupw=;em+vMBI7pF0VryfuMNl9vw=="
 ---

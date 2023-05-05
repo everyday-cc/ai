@@ -23,57 +23,116 @@ topics:
   - AI
 
 related:
-  - title: "Machine Learning Chip Market Global Analysis 2023-2030"
-    excerpt: "Section 5: Research Method and Data Source. Get a Sample PDF of report @ https://www.360marketupdates.com/enquiry/request-sample/19278373 Highlights with Short Brief ..."
+  - title: "Self-Driving & Driverless Cars Market 2023 Analysis by 2029 – Tesla, BMW, Daimler"
+    excerpt: "A new market research report added to source of Market Intelligence Data is an in-depth analysis of Self-Driving & Driverless Cars Market. This research reports provides insights on current and future industry trends,"
+    publishedDateTime: 2023-05-05T05:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-driverless-cars-market-2023-analysis-by-2029-tesla-bmw-daimler-2023-05-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 94
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Autonomous or Driverless Cars Market [2023-2030] | Top Key-Players in the Industry are - Tesla, Volkswagen, Nissan, Volvo"
+    excerpt: "Global Autonomous or Driverless Cars Market [2023-2030] research report provides a key analysis of the market status of Autonomous or Driverless Cars manufacturers with the best facts and figures, definitions,"
+    publishedDateTime: 2023-05-05T08:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/autonomous-or-driverless-cars-market-2023-2030-top-key-players-in-the-industry-are---tesla-volkswagen-nissan-volvo-2023-05-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Self-Driving Car for AI Programming Market Future Growth and Detail Analysis of Industry Up to 2030"
+    excerpt: "The following is a synopsis of a market research report on the Self-Driving Car for AI Programming Market research"
+    publishedDateTime: 2023-05-03T07:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-for-ai-programming-market-future-growth-and-detail-analysis-of-industry-up-to-2030-2023-05-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Autonomous Cars/Driverless Cars Market 2023 Growth Status and Outlook for 2030"
+    excerpt: "At present, the technology is mainly in driving assistance level and semi-autonomous driving level. Europe is a key region for the deployment of self-driving vehicles, owing to the high consumer preference for technologically advanced products. This region ..."
+    publishedDateTime: 2023-05-04T17:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/autonomous-carsdriverless-cars-market-2023-growth-status-and-outlook-for-2030-2023-05-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+  - title: "Self-driving Bus Market Growing Demands, Trends and Business Outlook 2023 to 2029 with top Players – AV Volvo, Tesla, Navya"
+    excerpt: "The latest global Self-driving Bus Market report provides conclusive information about the industry overview, modern trends, demand, and recent development affecting the market growth during the upcoming year."
+    publishedDateTime: 2023-05-05T05:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-bus-market-growing-demands-trends-and-business-outlook-2023-to-2029-with-top-players-av-volvo-tesla-navya-2023-05-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Self-Driving Car for AI Programming Market Future Growth and Detail Analysis of Industry Up to 2030"
+    excerpt: "May 04, 2023 (The Expresswire) -- The following is a synopsis of a market research report on the Self-Driving Car for AI Programming Market research report provides an extensive analysis of current and forthcoming industry trends. The report enables ..."
     publishedDateTime: 2023-05-04T12:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-chip-market-global-analysis-2023-2030-2023-05-04"
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-for-ai-programming-market-future-growth-and-detail-analysis-of-industry-up-to-2030-2023-05-04"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 66
-  - title: "Data Science and Machine Learning Service Market Report with SWOT and PESTAL Analysis, 2023 to 2030"
-    excerpt: "Data Science and Machine Learning Service Market is predicted to grow significantly. The market is likely to increase over the anticipated period of time in 2022 because major companies are adopting new strategies at an increasing rate."
-    publishedDateTime: 2023-05-05T05:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-service-market-report-with-swot-and-pestal-analysis-2023-to-2030-2023-05-05"
+    quality: 35
+  - title: "Self-driving Forklift Market 2023 Growth Status and Outlook for 2030"
+    excerpt: "Additionally, the report provides up-to-date information on the market and identifies growth opportunities for the Self-driving Forklift market. With a detailed market outlook, definition of the industry,"
+    publishedDateTime: 2023-05-02T06:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-forklift-market-2023-growth-status-and-outlook-for-2030-2023-05-02"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "2023-2030, Data Science and Machine-Learning Platforms Market-Latest Updates"
-    excerpt: "To know How COVID-19 and Russia-Ukraine War Influence Will Impact This Market/Industry - Request a sample copy of the report-:  In This Reports Data Science and Machine-Learning Platforms Market Segment by Type ( Open Source Data Integration Tools,"
-    publishedDateTime: 2023-05-03T04:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-2030-data-science-and-machine-learning-platforms-market-latest-updates-2023-05-03"
+    quality: 34
+  - title: "L1 Self-driving Vehicle Market Predicted to Grow Massive in Future During 2023-2030"
+    excerpt: "May 04, 2023 (The Expresswire) -- The following is a synopsis of a market research report on the L1 Self-driving Vehicle Market research report provides an extensive analysis of current and forthcoming industry trends. The report enables readers to ..."
+    publishedDateTime: 2023-05-04T17:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/l1-self-driving-vehicle-market-predicted-to-grow-massive-in-future-during-2023-2030-2023-05-04"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Robotic Cleaning Machines Market Size, Trends, Scope and Industry Demands Analysis 2023 – 2029"
-    excerpt: "The Global \" Robotic Cleaning Machines Market \" Research report give detailed information with reference to market size, share, trends, growth, cost revenue, capacity, and forecast till 2029. This report also contains the general and in-depth study of the Robotic Cleaning Machines market with all its aspects influencing the growth of the market."
-    publishedDateTime: 2023-05-03T10:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/robotic-cleaning-machines-market-size-trends-scope-and-industry-demands-analysis-2023-2029-2023-05-03"
+    quality: 28
+  - title: "Driverless semis between Dallas and Houston? Aurora Driver CEO explains trucking plans along I-45"
+    excerpt: "The trucks will run on an autonomous driving system called the Aurora Driver, developed by Pittsburgh-based Aurora Innovation."
+    publishedDateTime: 2023-05-03T19:18:00Z
+    webUrl: "https://www.wfaa.com/article/news/local/insider-qa-aurora-ceo-chris-urmson-on-self-driving-trucks-autonomous/287-fe589d59-a52f-4269-9424-9531a24dcc87"
+    type: article
+    provider:
+      name: WFAA8
+      domain: wfaa.com
+    quality: 21
+  - title: "Global Self-driving Cars Market [2023] | New Report Anticipates Industry to Surpass USD 6567.8 Million in Revenue by 2030"
+    excerpt: "Toyota BMW Volvo Mercedes-Benz Audi Among other players domestic and global, Self-driving Cars market share data is available for global, North America, Europe, Asia-Pacific, Middle East and Africa, and South America separately. Research ..."
+    publishedDateTime: 2023-05-04T12:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-cars-market-2023-new-report-anticipates-industry-to-surpass-usd-65678-million-in-revenue-by-2030-2023-05-04"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 42
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+    quality: 9
 
 secured: "iKfMhSPFAVQ0DVkRd5Mb1atVjqIwqRLMQ8WMJg259YHuKJJwYjhsI7ynyPm6T1BiAgeAwxK5EzUajrOZgUHltXjUyEKTZA1zkxUcZr8dWP93o2aaqS1SJvQIiIK2bZPelK0cKNLtLXWuqKAyiiDBoXhgCngSLAKA+2PIQtHwyh+BNNACP+dNwJQrMCXlJuadVFeag1ywYKcCUtsHqaLLbkJWY1j5Gaf+8u7NwUyjo+pHJmxE8zNFchjBdTlGjb7TzV/zjvo83x6EZ60kO5lNbgTyI9ITKbTIO0oAtmSoN323tfAU/K+hKi0AsRePUzoc+ozaZA2j+V57WoSiGArJ4tSSl+4lnyCSNzhv4zXYF3o=;CUuuDyWTKeqP+cTtHth9Rg=="
 ---

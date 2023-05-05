@@ -69,15 +69,6 @@ related:
         width: 1917
         height: 1278
         isCached: true
-  - title: "Driverless semis between Dallas and Houston? Aurora Driver CEO explains trucking plans along I-45"
-    excerpt: "The trucks will run on an autonomous driving system called the Aurora Driver, developed by Pittsburgh-based Aurora Innovation."
-    publishedDateTime: 2023-05-03T19:18:00Z
-    webUrl: "https://www.wfaa.com/article/news/local/insider-qa-aurora-ceo-chris-urmson-on-self-driving-trucks-autonomous/287-fe589d59-a52f-4269-9424-9531a24dcc87"
-    type: article
-    provider:
-      name: WFAA8
-      domain: wfaa.com
-    quality: 21
   - title: "Aurora CEO Chris Urmson on the Future of Self-Driving Trucks"
     excerpt: "The prospect of a driverless semi is scary to many, but not to Aurora Innovation CEO Chris Urmson, who helped to build Google’s autonomous vehicle unit."
     publishedDateTime: 2023-05-01T17:50:00Z

@@ -34,22 +34,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Artificial intelligence market faces review from UK watchdog"
-    excerpt: "Britain’s competition watchdog is opening a review of the artificial intelligence market, focusing on the technology underpinning chatbots like ChatGPT"
-    publishedDateTime: 2023-05-04T11:02:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/artificial-intelligence-market-faces-review-uk-watchdog-99069593"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/artificial-intelligence-market-faces-review-uk-watchdog-99069593"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/artificial-intelligence-market-faces-review-uk-watchdog-99069593"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 57
-    images:
-      - url: "https://s.abcnews.com/images/International/wirestory_9b70db192513b71ed320975e1c42a8e5_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "UK competition regulator launches review of AI market"
     excerpt: "The UK Competition and Markets Authority is seeking to establish what consumer protections need to be placed on AI systems."
     publishedDateTime: 2023-05-04T11:45:00Z
@@ -66,6 +50,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Artificial intelligence market faces review from UK watchdog"
+    excerpt: "Britain’s competition watchdog is opening a review of the artificial intelligence market, focusing on the technology underpinning chatbots like ChatGPT."
+    publishedDateTime: 2023-05-04T10:45:00Z
+    webUrl: "https://www.seattletimes.com/business/artificial-intelligence-market-faces-review-from-uk-watchdog/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 17
   - title: "UK competition watchdog launches review of AI market"
     excerpt: "CMA to look at underlying systems of artificial intelligence tools amid concerns over false information"
     publishedDateTime: 2023-05-04T12:19:00Z

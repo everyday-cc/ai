@@ -52,6 +52,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 66
+  - title: "Data and AI Ethics Market Predicted to Experience Growth Globally by 2030"
+    excerpt: "The Data and AI Ethics Market Scope and Overview Report for 2023 presents a detailed analysis of the latest trends in"
+    publishedDateTime: 2023-05-05T07:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-predicted-to-experience-growth-globally-by-2030-2023-05-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
   - title: "Cognitive Services Market Share From 2023 And Unlimited Opportunities for New Companies"
     excerpt: "Cognitive Services Market Size 2023 | New Report (116 Pages) | Analytics | In This Reports Cognitive Services Market"
     publishedDateTime: 2023-05-05T04:22:00Z
@@ -152,6 +161,15 @@ related:
         width: 860
         height: 520
         isCached: true
+  - title: "Global Artificial Intelligence Chips Market [2023-2030] | Experience the Future of Industry"
+    excerpt: "GlobalArtificial Intelligence Chips Market[2023-2030] research report is a compilation of information and analysis"
+    publishedDateTime: 2023-05-05T08:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-chips-market-2023-2030-experience-the-future-of-industry-2023-05-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
   - title: "Machine Learning in Communication Market 2023 [Latest Report] Size is Expected to Grow at a Phenomenal CAGR till 2030 | 128 Pages Report"
     excerpt: "The Machine Learning in Communication Market Scope and Overview Report for 2023 presents a detailed analysis of the"
     publishedDateTime: 2023-05-02T05:28:00Z

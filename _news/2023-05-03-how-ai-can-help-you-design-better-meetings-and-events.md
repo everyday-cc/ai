@@ -68,6 +68,15 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "AI could run a million microbial experiments per year"
+    excerpt: "Automation uncovers combinations of amino acids that feed two bacterial species and could tell us much more about the 90% of bacteria that humans have hardly studied. An artificial intelligence system enables robots to conduct autonomous scientific experiments -- as many as 10,"
+    publishedDateTime: 2023-05-05T15:08:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/05/230504155641.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "Regulating AI will put companies and governments at loggerheads"
     excerpt: "The rapid release of generative AI tools has been a moment of reckoning. Just this week Geoffrey Hinton, a celebrated developer of AI, announced his resignation from Google, saying he regretted his work and wants to speak freely about the dangers and risks of the technology he created."
     publishedDateTime: 2023-05-02T16:53:00Z
@@ -82,6 +91,15 @@ related:
         width: 619
         height: 377
         isCached: true
+  - title: "AI Could Enable 10,000 Robot-Led Microbe Experiments Per Day"
+    excerpt: "Automation uncovers combinations of amino acids that feed two bacterial species and could tell us much more about the 90% of bacteria that humans have hardly studied."
+    publishedDateTime: 2023-05-05T09:13:00Z
+    webUrl: "https://www.technologynetworks.com/tn/news/ai-could-enable-10000-robot-led-microbe-experiments-per-day-372973"
+    type: article
+    provider:
+      name: technologynetworks
+      domain: technologynetworks.com
+    quality: 34
   - title: "Rising AI and machine learning investments powering senior care advancements"
     excerpt: "It’s perhaps no surprise that investment in AI and ML in healthcare rose over the last two years, according to new research from commercial real estate and investment company Jones Lang LaSalle."
     publishedDateTime: 2023-05-01T04:17:00Z
@@ -91,6 +109,15 @@ related:
       name: McKnight's Senior Living
       domain: mcknightsseniorliving.com
     quality: 33
+  - title: "BacterAI: New AI system enables robots to conduct 10,000 scientific experiments a day"
+    excerpt: "Scientists created BacterAI, an AI-powered system enabling robots to conduct 10,000 experiments daily, accelerating scientific discoveries."
+    publishedDateTime: 2023-05-05T13:10:00Z
+    webUrl: "https://interestingengineering.com/science/revolutionizing-scientific-experimentation-artificial-intelligence"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 27
   - title: "Kickstart: AI and Industry 4.0"
     excerpt: "Artificial intelligence may be the next logical step for Industry 4.0 practices; Looking for social media accounts worth following; University of Southern Mississippi encourages students to toss their recycling."
     publishedDateTime: 2023-05-01T11:45:00Z

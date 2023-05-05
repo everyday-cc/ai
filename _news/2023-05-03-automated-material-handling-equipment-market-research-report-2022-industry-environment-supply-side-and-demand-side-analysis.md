@@ -57,15 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-Driving Car for AI Programming Market Future Growth and Detail Analysis of Industry Up to 2030"
-    excerpt: "May 04, 2023 (The Expresswire) -- The following is a synopsis of a market research report on the Self-Driving Car for AI Programming Market research report provides an extensive analysis of current and forthcoming industry trends. The report enables ..."
-    publishedDateTime: 2023-05-04T12:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-for-ai-programming-market-future-growth-and-detail-analysis-of-industry-up-to-2030-2023-05-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
 
 secured: "PP9PMdrCFLhZHRizFX3LNHig0yPgDkl4/LMteJPyHSsulYGpxbriuVBiYAPMVe/5un0PXhriD6UAz2x2HpQvCgrymxAIbVmszfi2ZEXXYgI0PtRrRFPyLwNtYH5JLYxYP/VnEdmdiyEYKv6mxwT0WCAT/+ephajUzUWGhZzk8CGp/GukC7wsX+EctKlzJpYVz+34yyeOp6rqdrvvsXEuct15ToGJj4kf0p2+JmwhTwbkD+1zutflIYgOVfO1B4EoWpoSiwBJtW330rrhk2Ab8k3KweyZNMwHMApPX64MKdd1SOIdoGYkOkxZBPBZ62cGuSXo1YfCZIkEZMilFCiXhnYw1JlGbX7kx7olL9Seyb8=;2Ux8t1VlF4hRP1jK77OfxA=="
 ---

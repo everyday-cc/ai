@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/en-gb/starting-a-business/10-vcs-to-w
 webUrl: "https://www.entrepreneur.com/en-gb/starting-a-business/10-vcs-to-watch-that-are-investing-in-european-ai/449011"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -60,15 +60,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "2 AI Stocks To Watch In May 2023"
-    excerpt: "As a result, AI has become an essential component in a variety of industries. Such as healthcare, finance, manufacturing, and transportation, among others. The growing need for smart automation and data-driven decision-making has encouraged organizations to make significant investments in AI technologies,"
-    publishedDateTime: 2023-04-30T22:51:00Z
-    webUrl: "https://www.nasdaq.com/articles/2-ai-stocks-to-watch-in-may-2023"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
 
 secured: "joMC8VvGy1HYh6O/+WF71tdbAVnnxN0mI94hEYTacL/ap6qdt5tov/wSOcvXgV2nh4fGilWjdLr5Hn+EdHimGE5QZhSLaGrE4pP0NAiw1fzvxLr6cnVkbZrHVPdumVuEDu+v9uGTXP2TgklPsV75T6ehIZzHCkZFSbDR9JvWrvN6jWhGYus8agSWGu9j1SsbE4lDRWpacnGJqwDy3FYQ2mdQKp0fsJkCLYcJZx7X/KPM2F3QVTOtSaiZBkvq1nrIaQz9CM7mlKNffyckZ8VeMcPcpdwBhPJS3xQIhc1YqzUjxabT15IxBnuu3c3iiarBrl4bP5ed2Fb9gTwxGR/cchN5PLA3tlTwUs2aPDTBbdlFGZ7oVqbl3M8d3dPemsZEMvv8zs9k0wke4cfmADWa2c5shOsjedLH0Cux4oZQd4zuSRcht77ziUkyhjp4QKrR65p6T3iF51Vo5j+zyBweLxOAUNV8MUNhGLLv/qYigC5e4YTUh0rjZISFqG8hrWHH4c3KzmpuOqe2QsdL7vCyWQ==;eWNVmwNa2UGnniBgvgWnww=="
 ---

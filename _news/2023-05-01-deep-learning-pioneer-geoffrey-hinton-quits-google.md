@@ -155,6 +155,15 @@ related:
       name: MIT Technology Review
       domain: technologyreview.com
     quality: 19
+  - title: "Why AI’s ‘godfather’ Geoffrey Hinton quit Google to speak out on risks"
+    excerpt: "Professor voiced fears that rapid advance of technology would lead to significant job losses and flood of misinformation"
+    publishedDateTime: 2023-05-05T15:00:00Z
+    webUrl: "https://www.ft.com/content/c2b0c6c5-fe8a-41f2-a4df-fddba9e4cd88"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
   - title: "AI ‘godfather’ Geoffrey Hinton quits Google to spread awareness against ‘dangers’ of artificial intelligence"
     excerpt: "Dr Hinton’s pioneering research on neural networks and deep learning has paved the way for current AI systems like ChatGPT AI ‘godfather’ Geoffrey Hinton quits Google to spread awareness against ‘dangers’ of artificial intelligence AI,"
     publishedDateTime: 2023-05-03T07:52:00Z

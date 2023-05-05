@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/world/2023/05/02/exp-ai-dangers-anna-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/world/2023/05/02/exp-ai-dangers-anna-stewart-reports-fst-050210aseg1-cnni-world.cnn"
 type: article
 quality: 87
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/XCUYFGKZTBGYPJ2CWCAUGT6Z2Q.jpg"
         width: 3438
         height: 2099
+        isCached: true
+  - title: "Google engineer warns it could lose out to open-source technology in AI race"
+    excerpt: "Commonly available software poses threat to tech company and OpenAI’s ChatGPT, leaked document says"
+    publishedDateTime: 2023-05-05T14:10:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/may/05/google-engineer-open-source-technology-ai-openai-chatgpt"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/05/google-engineer-open-source-technology-ai-openai-chatgpt"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/05/google-engineer-open-source-technology-ai-openai-chatgpt"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 54
+    images:
+      - url: "https://i.guim.co.uk/img/media/9afb52ae85d63219ff62ff0071aeb2ee78d3132f/0_108_5950_3568/master/5950.jpg?width=620&quality=85&auto=format&fit=max&s=19085a773a61b5a924a25079a1209382"
+        width: 620
+        height: 372
         isCached: true
   - title: "Neural network creator warns about AI dangers"
     excerpt: "British-Canadian scientist Geoffrey Hinton warned humanity about the threats posed by artificial intelligence (AI). The creator of the"

@@ -118,6 +118,15 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 69
+  - title: "System Shock publisher faces anger for using AI-generated artwork, says it wanted to start a conversation"
+    excerpt: "A Twitter post on the official System Shock remake account included an image of Shodan created by Midjourney, along with the words \"designed by an immortal"
+    publishedDateTime: 2023-05-05T11:15:00Z
+    webUrl: "https://www.techspot.com/news/98575-system-shock-remake-publisher-faces-anger-using-ai.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 30
   - title: "Making A Difference With Generative AI"
     excerpt: "Everyone seems to be using ChatGPT for something or the other. Here, our experts suggest some serious, game-changing applications that the technology can"
     publishedDateTime: 2023-05-03T11:39:00Z

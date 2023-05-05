@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Microsoft Is Helping Finance AMD’s Expansion Into AI Chips"
+    excerpt: "Microsoft Corp. is working with Advanced Micro Devices Inc. on the chipmaker's expansion into artificial intelligence processors, according to people with knowledge of the situation, part of a multipronged strategy to secure more of the highly coveted components."
+    publishedDateTime: 2023-05-05T14:23:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/microsoft-is-helping-finance-amd-s-expansion-into-ai-chips-71683222710006.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/microsoft-is-helping-finance-amd-s-expansion-into-ai-chips-71683222710006.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/microsoft-is-helping-finance-amd-s-expansion-into-ai-chips-71683222710006.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 108
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2023/05/05/1600x900/USA-ARTIFICAL-INTELLIGENCE-BIDEN-0_1683254919434_1683254950133.JPG"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Microsoft launches new features for its AI-powered Bing and Edge"
     excerpt: "Microsoft announced a major expansion of its artificial intelligence-based search tools today, opening up new features that allow visual and multimodal searches as well as persistent chat tools. The updates significantly expand the capabilities of Bing,"
     publishedDateTime: 2023-05-04T06:59:00Z
@@ -174,6 +190,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft and AMD Working On AI Chips – DTH"
+    excerpt: "Microsoft and AMD reportedly started working together on AI chips, Warner Brothers Discovery expects its streaming business to turn a profit this year, and the Court of Justice of the European"
+    publishedDateTime: 2023-05-05T15:24:00Z
+    webUrl: "https://dailytechnewsshow.com/2023/05/05/microsoft-and-amd-working-on-ai-chips-dth/"
+    ampWebUrl: "https://dailytechnewsshow.com/2023/05/05/microsoft-and-amd-working-on-ai-chips-dth/amp/"
+    cdnAmpWebUrl: "https://dailytechnewsshow-com.cdn.ampproject.org/c/s/dailytechnewsshow.com/2023/05/05/microsoft-and-amd-working-on-ai-chips-dth/amp/"
+    type: article
+    provider:
+      name: Daily Tech News Show
+      domain: dailytechnewsshow.com
+    quality: 91
+    images:
+      - url: "https://i0.wp.com/dailytechnewsshow.com/wp-content/uploads/2019/11/cropped-DTNS-CoverArt-New-1400-x-1400-1.png?fit=512%2C512&ssl=1"
+        width: 512
+        height: 512
+        isCached: true
   - title: "Microsoft is supporting AMD’s expansion into AI chips"
     excerpt: "The companies are teaming up to offer an alternative to Nvidia Corp., which dominates the market for AI-capable chips called graphics processing units, said the people, who asked not to be identified because the matter is private."
     publishedDateTime: 2023-05-05T00:50:00Z
@@ -289,6 +321,20 @@ related:
       - url: "https://contact-centres.com/wp-content/uploads/2023/05/callminer-microsoft-ai-mage-777x437-may-2023-min.png"
         width: 776
         height: 437
+        isCached: true
+  - title: "How Epic, Microsoft plan to use AI to answer patient inquiries"
+    excerpt: "EHR vendor Epic Systems and Microsoft are training Azure OpenAI on a large collection of information so it can asynchronously draft responses to patient messages for providers, The Verona Press reported May 4."
+    publishedDateTime: 2023-05-05T14:45:00Z
+    webUrl: "https://www.beckershospitalreview.com/ehrs/how-epic-microsoft-plan-to-use-ai-to-answer-patient-inquiries.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
         isCached: true
   - title: "Microsoft’s Bing AI chatbot to let users post images, ask questions"
     excerpt: "Microsoft is getting rid of the waitlist to try its new OpenAI-based Bing search and chat, and adding features like the ability to request and post images."

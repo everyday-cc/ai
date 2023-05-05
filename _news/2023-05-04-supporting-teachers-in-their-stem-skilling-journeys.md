@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/supporting-teachers-in-their-stem-skillin
 webUrl: "https://www.ibm.com/blog/supporting-teachers-in-their-stem-skilling-journeys/"
 type: article
 quality: 102
-heat: 122
+heat: 132
 published: true
 
 provider:
@@ -52,6 +52,20 @@ related:
       - url: "https://images.idgesg.net/images/article/2018/07/programmer_certification-skills_developer_devops_data-scientist_laptop_by-brayden-george-unsplash-100764331-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Preparing to Integrate Machine Learning and AI Into Pricing, Billing and Invoicing"
+    excerpt: "While AI's applications to back-office business operations like pricing, billing and invoicing may not be as flashy as AI-generated brief writing, they will be just as critical for the business of law firms."
+    publishedDateTime: 2023-05-05T13:54:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/05/05/preparing-to-integrate-machine-learning-and-ai-into-pricing-billing-and-invoicing/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 48
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/05/Law-Library-767x633.jpg"
+        width: 767
+        height: 633
         isCached: true
 
 secured: "y/eR4qzixfyUy/5HBhqLQJEG2bVpXyLCMIGjnlO/phocZMPBcQOQGqMTv2ZHcv4tgH1F14RjOMnMswGHli+I2jIxNVYIOZrqML52MPrGmTwidF81PQqDIH+0WqrYWhKc03Vx6LcOR/HE+OkxzZBdc8XAKLg2MaDNec/a+aW55dVBV1Lh8Gnk9LDuSBEqLF7CCkEd9WVsFsAQWBWqNINlTUMCBY546lAjOXkWfoUa/PZDne5Utz1GnB2LSvUJ7e5y4FOsulq7h2EHNwiD/I7pGU862yG9VBwmfXeTBpJgVqLoAOjtBVSLkLJ6SCtb1qAFY2x/Li4fM7fGZzsEw9ZhXTtmZF3UREAdbUkOiJNzV6w=;aOYsgMh/yrlBe/GqUFg1vA=="

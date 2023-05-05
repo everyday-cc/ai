@@ -52,6 +52,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 66
+  - title: "Data and AI Ethics Market Predicted to Experience Growth Globally by 2030"
+    excerpt: "The Data and AI Ethics Market Scope and Overview Report for 2023 presents a detailed analysis of the latest trends in"
+    publishedDateTime: 2023-05-05T07:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-predicted-to-experience-growth-globally-by-2030-2023-05-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
   - title: "Clinical Natural Language Processing Market Updates 2023-2031 by Marketreportsworld.com"
     excerpt: "The research report on the \"Clinical Natural Language Processing Market\" |in-Depth Analysis Share of 2023| perhaps an"
     publishedDateTime: 2023-05-02T04:30:00Z
@@ -166,6 +175,15 @@ related:
         width: 860
         height: 520
         isCached: true
+  - title: "Global Artificial Intelligence Chips Market [2023-2030] | Experience the Future of Industry"
+    excerpt: "GlobalArtificial Intelligence Chips Market[2023-2030] research report is a compilation of information and analysis"
+    publishedDateTime: 2023-05-05T08:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-chips-market-2023-2030-experience-the-future-of-industry-2023-05-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
   - title: "Artificial Intelligence in Building Market Size and Value: In-Depth Research Report, and possible growth directions of 12.7% CAGR from 2023-2030"
     excerpt: "The \"Artificial Intelligence in Building Market\" is segmented into regions, Applications, and Types. The report presents the research and analysis provided within the Artificial Intelligence in Building Market Research is meant to benefit stakeholders,"
     publishedDateTime: 2023-05-03T22:37:00Z

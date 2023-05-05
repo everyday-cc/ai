@@ -50,6 +50,20 @@ related:
       name: IBM
       domain: ibm.com
     quality: 82
+  - title: "Preparing to Integrate Machine Learning and AI Into Pricing, Billing and Invoicing"
+    excerpt: "While AI's applications to back-office business operations like pricing, billing and invoicing may not be as flashy as AI-generated brief writing, they will be just as critical for the business of law firms."
+    publishedDateTime: 2023-05-05T13:54:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/05/05/preparing-to-integrate-machine-learning-and-ai-into-pricing-billing-and-invoicing/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 48
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/05/Law-Library-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
 
 secured: "L9kg4ViGqg3K3owuZF70DsEZj5zpt1bft/rkdn+KlaCbQVnHVTlgq+EZhgAdSlloQxBfNY+4WC3RIgpwyAXAD3xDv1JfX3Te0KiGC714h5fg3wT/EUFUSXm85GhCbgh/HQIWVZF76THtMHR8u6RRqfRnVVRq/IiyInROSpHiWrPECrxmrmLf9/OllB5/FSMS/7jf9HJce1LPXSCMOjwVv6oQrYbjzl0Z9EDbmhazkMJBILmSfQiwkvwub+H3BxgMzoxMgXrdXEtEQRAHPUdssisiTAXvLjbnq72EVQaGTrqBYs/mhiBMbXHpOnlD/Ar5JiGZhpX163N+7vZ0PvYzoUWMPaTbVQ1cykEDG7d+/cI=;8HYliZj+9a9zknrzdp7CMQ=="
 ---

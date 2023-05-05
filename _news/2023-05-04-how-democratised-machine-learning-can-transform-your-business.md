@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How vector databases can revolutionize our relationship with generative AI"
-    excerpt: "By reducing the need to structure data, vector databases can speed up generative AI training times to dramatically improve our productivity."
-    publishedDateTime: 2023-04-30T22:21:00Z
-    webUrl: "https://venturebeat.com/ai/how-vector-databases-can-revolutionize-our-relationship-with-generative-ai/"
-    ampWebUrl: "https://venturebeat.com/ai/how-vector-databases-can-revolutionize-our-relationship-with-generative-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-vector-databases-can-revolutionize-our-relationship-with-generative-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2018/11/artificial-intelligence.shutterstock_1164239863.jpg?w=1200&strip=all"
-        width: 1200
-        height: 850
-        isCached: true
   - title: "How Businesses Can Manage User-Generated Content With AI"
     excerpt: "AI is playing a greater role in UGC, transforming the way businesses and consumers produce and consume digital media."
     publishedDateTime: 2023-05-02T10:15:00Z

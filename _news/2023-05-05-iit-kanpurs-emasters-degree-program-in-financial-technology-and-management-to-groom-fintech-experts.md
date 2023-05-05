@@ -181,12 +181,12 @@ related:
     quality: 4
   - title: "OPTASIA RANKS THIRD AMONG TOP FINTECH COMPANIES ACCORDING TO FORBES MIDDLE EAST MAGAZINE"
     excerpt: "Optasia, the leading Fintech services provider received one more top recognition, ranking third among the Top 30 Fintech companies in Middle East, by the world acclaimed Forbes Magazine in its Middle East edition."
-    publishedDateTime: 2023-05-03T01:18:00Z
-    webUrl: "https://www.newswit.com/en/ifsiq14wm0t3f56786x2tdzmtdtia5cl"
+    publishedDateTime: 2023-05-02T18:00:00Z
+    webUrl: "https://www.thaipr.net/en/it_en/3332587"
     type: article
     provider:
-      name: academy
-      domain: newswit.com
+      name: thaipr.net
+      domain: thaipr.net
     quality: 0
   - title: "OPTASIA RANKS THIRD AMONG TOP FINTECH COMPANIES ACCORDING TO FORBES MIDDLE EAST MAGAZINE"
     excerpt: "This accolade came through Forbes Middle East \"Top 30 Fintech Companies 2023\" article ... Optasia, previously Channel VAS, is an advanced AI-led platform that enables instant access to financial solutions for millions of underbanked individuals and ..."

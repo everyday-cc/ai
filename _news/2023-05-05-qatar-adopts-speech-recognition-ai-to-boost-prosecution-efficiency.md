@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1106180848/Qatar-Adopts-Speech-Recognition-AI-T
 webUrl: "https://menafn.com/1106180848/Qatar-Adopts-Speech-Recognition-AI-To-Boost-Prosecution-Efficiency"
 type: article
 quality: 54
-heat: 76
+heat: 77
 published: true
 
 provider:

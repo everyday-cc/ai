@@ -1,29 +1,21 @@
 ---
 category: news
 title: "Artificial intelligence market faces review from UK watchdog"
-excerpt: "Britain’s competition watchdog is opening a review of the artificial intelligence market, focusing on the technology underpinning chatbots like ChatGPT"
-publishedDateTime: 2023-05-04T11:02:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/artificial-intelligence-market-faces-review-uk-watchdog-99069593"
-webUrl: "https://abcnews.go.com/Technology/wireStory/artificial-intelligence-market-faces-review-uk-watchdog-99069593"
-ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/artificial-intelligence-market-faces-review-uk-watchdog-99069593"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/artificial-intelligence-market-faces-review-uk-watchdog-99069593"
+excerpt: "Britain’s competition watchdog is opening a review of the artificial intelligence market, focusing on the technology underpinning chatbots like ChatGPT."
+publishedDateTime: 2023-05-04T10:45:00Z
+originalUrl: "https://www.seattletimes.com/business/artificial-intelligence-market-faces-review-from-uk-watchdog/"
+webUrl: "https://www.seattletimes.com/business/artificial-intelligence-market-faces-review-from-uk-watchdog/"
 type: article
-quality: 57
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
   - AI
-
-images:
-  - url: "https://s.abcnews.com/images/International/wirestory_9b70db192513b71ed320975e1c42a8e5_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "Britain's competition watchdog opens investigation into artificial intelligence market"
@@ -77,6 +69,6 @@ related:
       domain: theguardian.com
     quality: 17
 
-secured: "8D7nyaxxh9R5EVn3taN9Q3ZUAv3dIM/R3CclMy7lV2/fMnEkJeHWCxox/4sSQRmddeheOymNRFj+/lAVVJUfQGHl9g9Vk6FD07TtLerRdynQbgmZ11Rxlrms8NOtHfiS91d6oT99ypgkBIrDsI4yItidmXa+vZFXxcbbEZugm6yVyGefYpHfObItv0Zf6o6fY0HgY6Mf0V5Nnt7RlAp0HFY0tVB5NV7AeHb3WJlmIYx3udq336VBJx5qXxTukUHXdhkXoUIE01oZVGTIE5z2CtFf46xLC3thnoX+bjDQKmDoTmNt5ARbDee6zVt0n0RV4V07xIZUNYNXc6lE6nBOQtjWBnM8/x4m/OnaQxJV50Uqf0JqN5rUht5d0dXfLq49+H6N4c9C9uoSoDcois2I0Ue86vCYPqeAwaGT8eXvFynQr5XN8p29zQxIoxoljTUEbe5j3LGYWJWXLaqniib8LSgRc7NLVHMvG+wctJ0co8mPfmAMv90Kxjz/DQ29e9YTlySeoAzzwNnbxBqPT3M0ag==;Vd0Rvx0YijykQi+enKa2Ew=="
+secured: "GHp+V/D91pT6DmzY0GqO8qnmCJkY+xcfOiFjzc75AkLTHn7+OsS3Z+HQyLqirgR4cTHCW2Kauqgbo2jCS2Qfx22IMIS6uXyPI8e1OPaj6D7vljlJhiy2yG4gW7RgmwEe1tokbmmM18ZKAzRJCEyMJMbTkm8em/1OfBIlpbmY4sklAou6w64I46a1tzusz5scO7qu0s/q6URzlghnaAbekoHA/8zlFYmKgvOYeFmsh/+Wu6kkHgj16cxd25uAgQuIHLQo6346tbY3uolN3B31zOOfM6oOeGnTkK2ls6VPoasgPKYjFgcJH6nCksH92qoPzzU5a9aYcHzO15rjj05oK1bbENqooUczwjaHqV0Jf3uddfO2LXZMvxJ0BomjCo2lD03jCpan/FgBJpEFjGAsKlR7z7sEX0JneOozXa83qJ3846/UXdOEi5QVg69F112rTPe21VD/VDol9/bTRKSMq/BsqWggyGl1kEcF/mmit1/qXGiUEF9SK61us4B9o9RTvkuleOkqn056TXlnZ2akmg==;etIkijnHqhoEJEdyT0XTcw=="
 ---
 

@@ -32,15 +32,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 19
-  - title: "Global Self-driving Cars Market [2023] | New Report Anticipates Industry to Surpass USD 6567.8 Million in Revenue by 2030"
-    excerpt: "Toyota BMW Volvo Mercedes-Benz Audi Among other players domestic and global, Self-driving Cars market share data is available for global, North America, Europe, Asia-Pacific, Middle East and Africa, and South America separately. Research ..."
-    publishedDateTime: 2023-05-04T12:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-cars-market-2023-new-report-anticipates-industry-to-surpass-usd-65678-million-in-revenue-by-2030-2023-05-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 9
 
 secured: "QAtH+bJzHjlvC9/In+PlJo1L9StIUrLODEWK/sPNxpuLMxcOhrEG35Lqd0vSELyguz2yzSqh6ZMuElPGiyHFOyMn4B5qjc4hrAex7foXW/r34Sc4J39/l2fLEMhwA6nOsy55u8mbVBzZ88Cpdp952E6lA7GNPHX3stpMzWrQqF8mDINCSSkAYrFH/51bd69pbfdzlIP/Y4lI9FflkoD7emlbO2XlAqz6fHneeX0Qe6DDUNt6zt1smY/6MPzZhUzxJXAedZcZHlpr5hWSYArm5UJEa/loNrv/dQNtVqaR03UC4nHu/fUcu1WK3CzMv8Bc3TU6TCMlSiv3XS4n6xXf43QshGdcZich9CHVRIIk5bg=;OxNSAckrCx8SUDjohdI7+g=="
 ---

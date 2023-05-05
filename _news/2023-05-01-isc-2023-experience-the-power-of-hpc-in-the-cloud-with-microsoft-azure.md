@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/isc-2023-experience-the-power-of-
 webUrl: "https://azure.microsoft.com/blog/isc-2023-experience-the-power-of-hpc-in-the-cloud-with-microsoft-azure/"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -59,6 +59,15 @@ related:
         width: 420
         height: 262
         isCached: true
+  - title: "Heart Failure 2023: discover the future of heart failure therapy"
+    excerpt: "Get ready for state-of-the-art discussions on new and emerging methods for heart failure management at Heart Failure 2023, a scientific congress of the European Society of Cardiology (ESC). Heart Failure is the annual congress of the Heart Failure Association (HFA) of the ESC."
+    publishedDateTime: 2023-05-03T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/988097"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 34
 
 secured: "vDmqYIUYdMdZMJTb/lF/wkE/63aAF3Qp2kmMBhyCCgtdkMvNGcIrB3Zf1iVPjsoW0U0m4zrz3HzSHbgANIN8SZcaIT+ZcDZo90w8NtdLcLGkFBs8K5T6cHsQKIFgERT3g74lxtmPMeP3acEwxGHRCkP8ubkf/cZdPwJJvmNi3yk8x5oG01QgXVun4BlRhC0r5g8mddF4bf4CEFQVbT39sa8KRCJURUsnzvgcYJRE1mv6q1RNGrfsROXVNjamnQf5joMkP0zdZJNMG2CtK5vrFIsp9RTLoBgRtPDe+Pm0A+X35ALKJtI5m1JSGNnRbBu+ME02bNNTL3NJAa9YTGWsKcEoEB2+T6QFqFlrNuqThck=;TZEQkfp4RMaX+iVu+uLjOA=="
 ---

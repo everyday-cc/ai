@@ -2,17 +2,17 @@
 category: news
 title: "OPTASIA RANKS THIRD AMONG TOP FINTECH COMPANIES ACCORDING TO FORBES MIDDLE EAST MAGAZINE"
 excerpt: "Optasia, the leading Fintech services provider received one more top recognition, ranking third among the Top 30 Fintech companies in Middle East, by the world acclaimed Forbes Magazine in its Middle East edition."
-publishedDateTime: 2023-05-03T01:18:00Z
-originalUrl: "https://www.newswit.com/en/ifsiq14wm0t3f56786x2tdzmtdtia5cl"
-webUrl: "https://www.newswit.com/en/ifsiq14wm0t3f56786x2tdzmtdtia5cl"
+publishedDateTime: 2023-05-02T18:00:00Z
+originalUrl: "https://www.thaipr.net/en/it_en/3332587"
+webUrl: "https://www.thaipr.net/en/it_en/3332587"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: academy
-  domain: newswit.com
+  name: thaipr.net
+  domain: thaipr.net
 
 topics:
   - AI in Finance
@@ -198,6 +198,6 @@ related:
       domain: webindia123.com
     quality: 0
 
-secured: "A4Fx+GxwAb8O9VuB126/45G/5ObjzcFkc6sRUl6uxP3d/Dni1bjKD85rGBJ0rT3EXdzBX5sgNTWcTFy2Ja442TFYUNn7sDKN1v2jFklk/FhHIIBLy+4clptb6M8a6GI+cSKS/WspMfQXjUJCXbeQBrJm9PFjCmbkKgfclHoesO33M0v9/th4NJPat5XFd3gtG/nkJlmXKjn6ABKBcrLbb4wyXuNoAWP16KxSyVvc8z4pNCYs7TuRiVPqeJ75sTqybObpm8Ef58o7eqa2XEnLK1ghF1GiLgjjiRsZAToJPgKU36aqmPB+aBnKOwnEkXnZkm0aXdD3wIUmaOod7Zz9y7hnZcjGF4AFFCH6i0xQAGA=;U5+LJcWNB6dFAAyFVG+MtA=="
+secured: "8+TtLJm7DCMx/ZFmRqO44EP10l4aeCdHwwNRHhN2a0xZndSIHmaTaYCgzQscRYtqkRztJQS0ibV3x187T2TXBcrXJ/84SSk2uUAavDFVGRuNxukbPBduN4QcVEOsqlKq+6GYmq9a1PKL99uiZ2puV1pR6vJ3eudjFSgNritOQDylx2x4p7b5Pyzg5tEuFYKm4uq0gZKSlTg82VKjgt9bdsbeZCe5bW6GNgT/IykwGka0OiVM7FeDHyOIXI7YssZSEyDBLo6Szom7j6CP7x2ZviMyPu5l8M09Ps7HHJ2fvxjQgSjWp/HE7DfgtHhTd8JGQYXX0H7SIHd7AMv/bh+qxWDrPRiKzFCDbL9DzH+JJDk=;yTnZKjPuQrJUZiiSmHcgXA=="
 ---
 

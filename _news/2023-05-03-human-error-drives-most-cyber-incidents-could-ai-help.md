@@ -27,6 +27,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
+  - title: "You Must Look Beyond AI To Stay Ahead Of Today's Cybersecurity Threats"
+    excerpt: "AI algorithms learn from historical data, making it difficult to anticipate new advanced threats or zero-day attacks. It can also be prone to false positives, which can cause unnecessary disruption and confusion among security professionals, and can be vulnerable to hackers who attempt to manipulate the algorithms."
+    publishedDateTime: 2023-05-05T13:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/05/you-must-look-beyond-ai-to-stay-ahead-of-todays-cybersecurity-threats/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "FTC attorney says agency concerned with generative AI use"
     excerpt: "Companies developing novel artificial intelligence (AI) tools might want to think carefully before laying off ethics personnel, an attorney with the Federal Trade Commission (FTC) warned. The agency is closely tracking company use of AI tools for possible ..."
     publishedDateTime: 2023-05-02T19:34:00Z

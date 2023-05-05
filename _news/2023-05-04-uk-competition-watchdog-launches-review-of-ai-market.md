@@ -38,22 +38,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Artificial intelligence market faces review from UK watchdog"
-    excerpt: "Britain’s competition watchdog is opening a review of the artificial intelligence market, focusing on the technology underpinning chatbots like ChatGPT"
-    publishedDateTime: 2023-05-04T11:02:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/artificial-intelligence-market-faces-review-uk-watchdog-99069593"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/artificial-intelligence-market-faces-review-uk-watchdog-99069593"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/artificial-intelligence-market-faces-review-uk-watchdog-99069593"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 57
-    images:
-      - url: "https://s.abcnews.com/images/International/wirestory_9b70db192513b71ed320975e1c42a8e5_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "UK competition regulator launches review of AI market"
     excerpt: "The UK Competition and Markets Authority is seeking to establish what consumer protections need to be placed on AI systems."
     publishedDateTime: 2023-05-04T11:45:00Z
@@ -78,6 +62,15 @@ related:
     provider:
       name: BBC
       domain: bbc.co.uk
+    quality: 17
+  - title: "Artificial intelligence market faces review from UK watchdog"
+    excerpt: "Britain’s competition watchdog is opening a review of the artificial intelligence market, focusing on the technology underpinning chatbots like ChatGPT."
+    publishedDateTime: 2023-05-04T10:45:00Z
+    webUrl: "https://www.seattletimes.com/business/artificial-intelligence-market-faces-review-from-uk-watchdog/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
     quality: 17
 
 secured: "OIls58ORul4VZVAslcYHPLse38T/2yDSsW20rQFprWgZ7Tvf029ngYQeDAwHUFVBjlG7vHjq6/Hu5WNQe5fVioyeyc+Ztrda1WEkxVx95mkpG7vtWupFzQcozgsu4KmaZiTiJ47iaGnKgeqQG4jyXm0aragTPLbC5lDFssdI4aCxAmOiXHghxaSTpIwOCY1jsf6J+joUWhHYwPMO0CQ0sDxuQJepuAvzw+LHwi20r/O+lU/CZcBWyLvu4OvlxPpQaxe6xnsGrJ9gqFqQxQocg/Z2bMkGUaRWGx3Utj5KfKLdTG05vxy91BhVegDD6vz7CjApGPcVkf7C1wU8nf/kz/mkLIq1vPo2dmr7l+vsOAwHXjgpGFNEjtymfbzzXrsvolO6V6sfE9j31HRlpg7gZxu3Wp+zwrvau0vfLX99YuLI9cD/o5e1awcKBX9IHKmWcFNUG7FGSZAqIMWy54nJGAugkcRf9oQByWR4P9fwc8Qr0AWOi5s+O5THs2iB8DWihk5oT/1ikcHKAyP6GxL38g==;MEOt5kkCIXPIkd5dU1/mTQ=="

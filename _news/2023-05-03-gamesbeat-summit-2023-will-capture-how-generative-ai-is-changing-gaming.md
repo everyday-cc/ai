@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/games/gamesbeat-summit-2023-will-capture-how
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/gamesbeat-summit-2023-will-capture-how-generative-ai-is-changing-gaming/amp/"
 type: article
 quality: 89
-heat: 100
+heat: 99
 published: true
 
 provider:

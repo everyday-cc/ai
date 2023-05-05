@@ -29,124 +29,111 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Healthcare Market Forecast to 2031"
-    excerpt: "This \"Artificial Intelligence in Healthcare Market\" report offers a thorough analysis of the industry, including"
-    publishedDateTime: 2023-05-04T15:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-forecast-to-2031-2023-05-04"
+  - title: "Self-Driving & Driverless Cars Market 2023 Analysis by 2029 – Tesla, BMW, Daimler"
+    excerpt: "A new market research report added to source of Market Intelligence Data is an in-depth analysis of Self-Driving & Driverless Cars Market. This research reports provides insights on current and future industry trends,"
+    publishedDateTime: 2023-05-05T05:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-driverless-cars-market-2023-analysis-by-2029-tesla-bmw-daimler-2023-05-05"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 84
+    quality: 94
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Healthcare Natural Language Processing Market 2023 Insight and Global Trends"
-    excerpt: "The Healthcare Natural Language Processing Market Scope and Overview Report for 2023 presents a detailed analysis of"
-    publishedDateTime: 2023-05-05T07:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-market-2023-insight-and-global-trends-2023-05-05"
+  - title: "Autonomous or Driverless Cars Market [2023-2030] | Top Key-Players in the Industry are - Tesla, Volkswagen, Nissan, Volvo"
+    excerpt: "Global Autonomous or Driverless Cars Market [2023-2030] research report provides a key analysis of the market status of Autonomous or Driverless Cars manufacturers with the best facts and figures, definitions,"
+    publishedDateTime: 2023-05-05T08:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/autonomous-or-driverless-cars-market-2023-2030-top-key-players-in-the-industry-are---tesla-volkswagen-nissan-volvo-2023-05-05"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 83
+    quality: 59
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Face Recognition Device Market Forecast : Trends and Insights till 2031"
-    excerpt: "\"Face Recognition Device Market Size is projected to Reach Multimillion USD by 2031, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2031.\" Ask for a Sample Report \"Browse Detailed TOC of Face Recognition Device Market report with 153 Tables and Figures andCharts that provides exclusive data,"
-    publishedDateTime: 2023-05-02T09:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-forecast-trends-and-insights-till-2031-2023-05-02"
+  - title: "Autonomous Cars/Driverless Cars Market 2023 Growth Status and Outlook for 2030"
+    excerpt: "At present, the technology is mainly in driving assistance level and semi-autonomous driving level. Europe is a key region for the deployment of self-driving vehicles, owing to the high consumer preference for technologically advanced products. This region ..."
+    publishedDateTime: 2023-05-04T17:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/autonomous-carsdriverless-cars-market-2023-growth-status-and-outlook-for-2030-2023-05-04"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 69
+    quality: 45
+  - title: "Self-driving Bus Market Growing Demands, Trends and Business Outlook 2023 to 2029 with top Players – AV Volvo, Tesla, Navya"
+    excerpt: "The latest global Self-driving Bus Market report provides conclusive information about the industry overview, modern trends, demand, and recent development affecting the market growth during the upcoming year."
+    publishedDateTime: 2023-05-05T05:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-bus-market-growing-demands-trends-and-business-outlook-2023-to-2029-with-top-players-av-volvo-tesla-navya-2023-05-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Face Recognition Systems Market Share by 2031"
-    excerpt: "This \"Face Recognition Systems Market\" report offers a thorough analysis of the industry, including forecasts for"
-    publishedDateTime: 2023-05-04T01:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-share-by-2031-2023-05-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "FinTech in Insurance Market Outlook and Forecast till 2030"
-    excerpt: "According to the \"FinTech in Insurance Market\" report, the technology sector is changing, and both established"
-    publishedDateTime: 2023-05-05T05:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/fintech-in-insurance-market-outlook-and-forecast-till-2030-2023-05-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Healthcare IT Integration Market is Expected to Reach $7.1 billion | MarketsandMarkets."
-    excerpt: "The healthcare IT integration industry is poised for significant growth in the near future. As healthcare providers continue to invest in digital systems and networks, the need"
-    publishedDateTime: 2023-05-02T13:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/05/g32160469/healthcare-it-integration-market-is-expected-to-reach-7-1-billion-marketsandmarkets"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32160469"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32160469"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 51
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "Natural Language Processing For Healthcare And Life Sciences Market Size, Revenue, and Forecast 2030"
-    excerpt: "Highlights with Short Brief of Natural Language Processing For Healthcare And Life Sciences Market: The Natural Language Processing For Healthcare And Life Sciences market revenue was Million USD in 2016, grew to Million USD in 2021, and will reach Million ..."
+  - title: "Self-Driving Car for AI Programming Market Future Growth and Detail Analysis of Industry Up to 2030"
+    excerpt: "May 04, 2023 (The Expresswire) -- The following is a synopsis of a market research report on the Self-Driving Car for AI Programming Market research report provides an extensive analysis of current and forthcoming industry trends. The report enables ..."
     publishedDateTime: 2023-05-04T12:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-for-healthcare-and-life-sciences-market-size-revenue-and-forecast-2030-2023-05-04"
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-for-ai-programming-market-future-growth-and-detail-analysis-of-industry-up-to-2030-2023-05-04"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 51
-  - title: "3 Cutting-Edge AI Stocks Set to Dominate the Market"
-    excerpt: "It has shown the incredible powers of AI to understand language and create humanlike content. The technology is poised to transform many parts of business. According to a survey of from Enterprise Technology Research, about 53% of IT decisionmakers expect ..."
-    publishedDateTime: 2023-05-03T16:47:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-cutting-edge-ai-stocks-set-to-dominate-the-market-1032288476"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "Europe Speech and Voice Recognition Market Trends, Size, Share, Growth Status, and Forecast 2023 to 2031"
-    excerpt: "The Europe speech and voice recognition is expected to reach USD 1,665.08 Million by 2025 from USD 286.89 Million in 2017, at a CAGR of 24.7% in the forecast period 2018 to 2025. The major factors driving the growth of this market are the effective integration due to increased demand for voice and speech-based biometric systems,"
-    publishedDateTime: 2023-05-03T10:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/europe-speech-and-voice-recognition-market-trends-size-share-growth-status-and-forecast-2023-to-2031-2023-05-03"
+    quality: 35
+  - title: "Self-driving Forklift Market 2023 Growth Status and Outlook for 2030"
+    excerpt: "Additionally, the report provides up-to-date information on the market and identifies growth opportunities for the Self-driving Forklift market. With a detailed market outlook, definition of the industry,"
+    publishedDateTime: 2023-05-02T06:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-forklift-market-2023-growth-status-and-outlook-for-2030-2023-05-02"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+    quality: 34
+  - title: "Self-driving Bus Market Share, Size, Financial Summaries Analysis from 2023 to 2028"
+    excerpt: "Self-driving Bus report provides a detailed analysis of regional and country-level market size, segmentation market growth, market share, competitive Landscape, sales analysis, impact of domestic. The self-driving bus market has witnessed exponential growth in recent years due to the increasing demand for autonomous vehicles and the growing need for efficient and safe public transportation."
+    publishedDateTime: 2023-05-04T06:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-bus-market-share-size-financial-summaries-analysis-from-2023-to-2028-2023-05-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 28
+  - title: "L1 Self-driving Vehicle Market Predicted to Grow Massive in Future During 2023-2030"
+    excerpt: "May 04, 2023 (The Expresswire) -- The following is a synopsis of a market research report on the L1 Self-driving Vehicle Market research report provides an extensive analysis of current and forthcoming industry trends. The report enables readers to ..."
+    publishedDateTime: 2023-05-04T17:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/l1-self-driving-vehicle-market-predicted-to-grow-massive-in-future-during-2023-2030-2023-05-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 28
+  - title: "Driverless semis between Dallas and Houston? Aurora Driver CEO explains trucking plans along I-45"
+    excerpt: "The trucks will run on an autonomous driving system called the Aurora Driver, developed by Pittsburgh-based Aurora Innovation."
+    publishedDateTime: 2023-05-03T19:18:00Z
+    webUrl: "https://www.wfaa.com/article/news/local/insider-qa-aurora-ceo-chris-urmson-on-self-driving-trucks-autonomous/287-fe589d59-a52f-4269-9424-9531a24dcc87"
+    type: article
+    provider:
+      name: WFAA8
+      domain: wfaa.com
+    quality: 21
+  - title: "Global Self-driving Cars Market [2023] | New Report Anticipates Industry to Surpass USD 6567.8 Million in Revenue by 2030"
+    excerpt: "Toyota BMW Volvo Mercedes-Benz Audi Among other players domestic and global, Self-driving Cars market share data is available for global, North America, Europe, Asia-Pacific, Middle East and Africa, and South America separately. Research ..."
+    publishedDateTime: 2023-05-04T12:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-cars-market-2023-new-report-anticipates-industry-to-surpass-usd-65678-million-in-revenue-by-2030-2023-05-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 9
 
 secured: "RsEff+vRkKugusw0AJ328/zkbojFyyGKHziBJK2uT1pH1+PvUp6F3hXLe75AzvDS/3jnjMW/fJHYlvdiHJQu4HULZElkdo08nepIUGJINFEVUsTBpIZlEX6/N2OT59HVGl7H9vWVFBfaAos2KkaEWr3OA/AUEfaUC17bOMwqp3ShRFOQLL6ureqYji5QN58V1DzD3s47YQWeFnRjZ+0yeIIMhTzqjOhLcVcKTvsxSIO8FgSRhHHSeoGrwBj1cz/yfiE/EGqtVc0ukuiPWWNQEC+cEnc9PRjjZA6TOZM1FGUb4h2XXQr1Ulhyl4S+tig9Ius8eJaaA7gMN7T1s4qwJ7VUjR20hZ3P9NnqGabXtDU=;JbWKhAd2Fsc8+EQo28VQwg=="
 ---

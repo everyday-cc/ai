@@ -321,6 +321,22 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 49
+  - title: "AI startup Inflection Started by Hoffman and Suleyman, Introduces ChatGPT-like Chatbot"
+    excerpt: "An artificial intelligence startup Inflection AI, started by Reid Hoffman and Mustafa Suleyman, has launched its first AI chatbot product."
+    publishedDateTime: 2023-05-05T14:03:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/ai-startup-inflection-started-by-hoffman-and-suleyman-introduces-chatgpt-like-chatbot/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/ai-startup-inflection-started-by-hoffman-and-suleyman-introduces-chatgpt-like-chatbot/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/ai-startup-inflection-started-by-hoffman-and-suleyman-introduces-chatgpt-like-chatbot/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 49
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2023/05/AI-startup-Inflection-Started-by-Hoffman-and-Suleyman-Introduces.jpg"
+        width: 1500
+        height: 844
+        isCached: true
   - title: "Reid Hoffman's new AI startup Inflection launches ChatGPT-like chatbot"
     excerpt: "REUTERS/Brendan McDermid/File Photo May 2 (Reuters) - Inflection AI, the AI startup founded by LinkedIn co-founder Reid Hoffman and former Deepmind (GOOGL.O) researcher Mustafa Suleyman, has released its first AI chatbot product, the company said on Tuesday."
     publishedDateTime: 2023-05-02T18:08:00Z
@@ -375,20 +391,6 @@ related:
       - url: "https://assets.cfo.com/images/Zz05YmE1ZTE1MmU4MjExMWVkOTE1ZWMyOTAwMGU4OTMyYg==?width=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "ChatGPT: how to use AI as a virtual financial advisor"
-    excerpt: "AI tools might seem overly complex or expensive to non-experts, but advances in natural language processing and machine learning could turn ChatGPT and similar products into virtual personal finance assistants."
-    publishedDateTime: 2023-04-30T22:00:00Z
-    webUrl: "https://www.moneyweb.co.za/news/tech/chatgpt-how-to-use-ai-as-a-virtual-financial-adviser/"
-    type: article
-    provider:
-      name: Moneyweb
-      domain: moneyweb.co.za
-    quality: 39
-    images:
-      - url: "https://www.moneyweb.co.za/wp-content/uploads/2023/04/file-20230421-20-89ix5g-1024x683.jpg"
-        width: 1024
-        height: 683
         isCached: true
   - title: "UAE releases guide to ChatGPT and other AI platforms"
     excerpt: "The guide is a valuable resource for government entities, facilitating the utilisation of AI technologies and enhancing its implementation across various fields. UAE releases guide to ChatGPT and other AI platforms."
@@ -567,6 +569,15 @@ related:
       name: Detroit News
       domain: detroitnews.com
     quality: 19
+  - title: "Could AI pen ‘Casablanca’? Screenwriters take aim at ChatGPT"
+    excerpt: "Not six months since the release of ChatGPT, generative artificial intelligence is already prompting widespread unease throughout Hollywood."
+    publishedDateTime: 2023-05-05T13:45:00Z
+    webUrl: "https://www.seattletimes.com/business/could-ai-pen-casablanca-screenwriters-take-aim-at-chatgpt/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 17
   - title: "AI Impact Gets Real and Fast: IBM Pauses Hiring, Chegg Plunges on ChatGPT Challenge"
     excerpt: "Artificial intelligence is here and growing fast, putting jobs at risk and posing a complicated challenge for executives and policymakers."
     publishedDateTime: 2023-05-02T12:56:00Z

@@ -121,6 +121,15 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 69
+  - title: "System Shock publisher faces anger for using AI-generated artwork, says it wanted to start a conversation"
+    excerpt: "A Twitter post on the official System Shock remake account included an image of Shodan created by Midjourney, along with the words \"designed by an immortal"
+    publishedDateTime: 2023-05-05T11:15:00Z
+    webUrl: "https://www.techspot.com/news/98575-system-shock-remake-publisher-faces-anger-using-ai.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 30
 
 secured: "bN0qNtXdEZWdHjclfGgtvsT5lWb4+Me1ymdy24MS7Xqfzlb4hCwGwoR8sF7FBY/yvNCHZ8qct1kHXJAq6BJm2TH++BGIUEw9IhKGr2bmfKdA+/c8G0WdIf8hZmcjeEssRWlrbVGF03eaV1rzCSO7l+NdZ3CQ5OtVrV8BGkYy0groqq5xsJ003eanCA5OzdXMKvUNpToUNSUPDy1nV+v9MQDsA9ZDNld8AkfJo3ijlyiAy3SDEvAcWQ9HZEuQm4XuD0MVh4l13rIFunfLCwrrJS07WFBah4zylpT33CWmmlK0tLNDKFiXfSsILlOzC1N6dcPpFgcnQvG4m7KVrn9RTyxp1KkB6Q7Wmgs65QEPFpdClCJiQs2vDX8pLAXLLpFCpnAgvYUYMDgSB2D7muiaD57z1F0E3wBjorm0OuefnuoW3OwGWcqpHa9BcBM+YlKJ9yoD8eqWhOVi3pT+2j8/CaGujBHx62THDbSoVgAwHKH5E7q3P7GCG84U8SgFSyXVWD6HOhu3wIPOiNInGLbwaA==;1bGUw5VDbI+oWgxT/wZSQQ=="
 ---

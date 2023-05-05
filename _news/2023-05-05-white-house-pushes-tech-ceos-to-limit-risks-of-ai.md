@@ -118,22 +118,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Harris meets with CEOs about artificial intelligence risks"
-    excerpt: "Vice President Kamala Harris met with the heads of Google, Microsoft and two other companies developing artificial intelligence"
-    publishedDateTime: 2023-05-04T20:02:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/harris-meet-ceos-artificial-intelligence-risks-99068989"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/harris-meet-ceos-artificial-intelligence-risks-99068989"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/harris-meet-ceos-artificial-intelligence-risks-99068989"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 59
-    images:
-      - url: "https://s.abcnews.com/images/Politics/wirestory_578d623e473b0eeb3fa3e4728d7e9868_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "VP Harris meets with CEOs about artificial intelligence risks"
     excerpt: "The Biden administration plans to announce an investment of $140 million to establish seven new AI research institutes, administration officials told reporters in previewing the effort."
     publishedDateTime: 2023-05-04T20:20:00Z
@@ -219,6 +203,24 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Harris meets with CEOs about artificial intelligence risks"
+    excerpt: "Vice President Kamala Harris speaks, along side Jill Scarbo, who won National Small Business of the Year in 2022 and is the CEO of Bright Futures Learning Services (BFLS), a provider of Applied Behavior Analysis (ABA) therapy services for children ..."
+    publishedDateTime: 2023-05-04T17:42:00Z
+    webUrl: "https://omaha.com/lifestyles/technology/harris-meets-with-ceos-about-artificial-intelligence-risks/article_2be5fceb-7e7e-5b20-93a6-2fc9680f8df6.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 19
+  - title: "Harris to meet with CEOs about artificial intelligence risks"
+    excerpt: "The Democratic administration plans to announce an investment of $140 million to establish seven new AI research institutes"
+    publishedDateTime: 2023-05-05T12:49:00Z
+    webUrl: "https://mynorthwest.com/3884910/harris-to-meet-with-ceos-about-artificial-intelligence-risks/"
+    type: article
+    provider:
+      name: MyNorthwest.com
+      domain: mynorthwest.com
+    quality: 19
 
 secured: "1WPUvI2L/m9sHM49G9iyN/WB6yqrJeB/P+WhW0O+PAaBzLdPwjSSvnMmpkkHc9rm5vNp7AzXwzWk6lMm7dPjjD2hnZZXBdjph9hc9PJwvG/3AI1HnbQdf6GW3rqK+/5zS+gxrR/H2K5HTPRAZ8TDWWrRTDIps7eUtzFc6DeHJEDEkpqWkUVoUoYKqLJlPPuuNjDMIH1jAf6T/QijeXLKx7kIC5n4Y69utMygfTPO1MEMyMmonnTyMbftc9IkDTlwRJ11LjAoNRgQ8B3xCQzRuUrvuHqL/YRjeSZQBsYQumWM9YVROvof/+drmSsU1wwDviPV0mvLYs8/W/mSJMZTTwLW7TnUgHW+Z5UQlKmnsmJuba6njSJR/gvFPh9bbrq0ZjWVH7fdsul8IusmPwOQsx55j0Rj786CtvfDv7Oz/h6UCJBzgeWWdGsdCnwFirq8rznul44vmbCNt/06Qd1YY2oklOPAyVzsW0levAxuphHFIpLUJ5PB9HLGerRPbI53Q5y2cgOIFF3w7/l7r5LaOA==;kDp9MYUGbojJx2PrgUw6TA=="
 ---

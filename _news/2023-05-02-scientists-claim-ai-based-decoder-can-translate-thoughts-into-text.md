@@ -105,6 +105,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "A.I. Is Getting Better at Mind-Reading"
+    excerpt: "In a recent experiment, researchers used large language models to translate brain activity into words. Send any friend a story As a subscriber, you have 10 gift articles to give each month."
+    publishedDateTime: 2023-05-01T15:00:00Z
+    webUrl: "https://www.nytimes.com/2023/05/01/science/ai-speech-language.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 54
+    images:
+      - url: "https://static01.nyt.com/images/2023/05/01/autossell/01mindreading-01cover/01mindreading-01cover-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "AI is getting better at mind reading"
     excerpt: "We’re getting at meaning, something about the idea of what’s happening. And the fact that that’s possible is very exciting.” The study centered on three participants, who came to Huth’s lab for 16 hours over several days to listen to “The Moth” and other narrative podcasts."
     publishedDateTime: 2023-05-02T15:00:00Z

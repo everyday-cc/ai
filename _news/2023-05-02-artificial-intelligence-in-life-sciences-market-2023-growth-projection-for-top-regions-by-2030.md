@@ -36,6 +36,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning Operations (MLOps) Market (2023-2030) Research Firm Explained New Regions Growth"
+    excerpt: "Latest Report of Machine Learning Operations (MLOps) Market 2023 MLOps is the process of taking an experimental Machine Learning model into a production system. The word is a compound of âMachine Learningâ and the continuous development practice of DevOps in the software field."
+    publishedDateTime: 2023-05-05T06:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-operations-mlops-market-2023-2030-research-firm-explained-new-regions-growth-2023-05-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
   - title: "Automatic Speech Recognition Market Trends [2023-2030] | Booming Industry Globally"
     excerpt: "GlobalAutomatic Speech Recognition Market[2023-2030] research report is a compilation of information and analysis"
     publishedDateTime: 2023-05-03T09:22:00Z

@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/lanceeliot/2023/05/05/elon-musk-stirs-deba
 ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/05/05/elon-musk-stirs-debate-on-claims-that-ai-will-enable-you-to-live-forever-an-immortal-question-for-ai-ethics/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/05/05/elon-musk-stirs-debate-on-claims-that-ai-will-enable-you-to-live-forever-an-immortal-question-for-ai-ethics/amp/"
 type: article
-quality: 85
-heat: 105
+quality: 87
+heat: 107
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - AI Ethics
+  - AI in Robotics
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/6452a5233fe6b06e18eabd27/0x0.jpg?format=jpg&crop=4000,2999,x333,y0,safe&width=1200"
@@ -57,6 +58,6 @@ related:
       domain: businessinsider.com
     quality: 47
 
-secured: "+EX8/E7urpSP+VivC6tNx3KQTxeb8mRRjTDmgtSvrKRRjXHvdN528UEEh+hvy1mn+oieZs5ZxeulnhNIJ7rvviKqCInYjmz9kLQnIxLV8c0xxvu8ZxaMqfBLkHI9WSJUEy5kOOm2OoieWcpmOax46wZgyZzj0OnEAy/e7JpHSlzMHUI0BwGijKbeRjPxQwEki5yB2OgLoci1yOTOYPDUDh6C07ApDGBzJnJzcfViTT+ptrXGj7lmVMm4zjz0D/ufdqgXHTTvM+hO1MNHcx1q9Gz+FQ74787b6CLce4NirWVYQzUCDvZsiRNrpyjycyhcQPMHoWdpomtaqcnUutxZnUEyhV7LzDF5xOLC5eBBqbw=;BP3VBsrUIwLTLNuCjZKd0A=="
+secured: "6CDuZPnoifeMBKgWWthOCTGNFNMzjdGmD0W9DZ6etisvB9f6GmQfvTmYh5p5MlTd8TQ/oE74s1VitbjDuPWWDIIHMjMObFIzKXoFKvZIDTym2fMXsEGzoAKKFR5vuRBdr6QduT9DD55/BHriNpXzpeaRcnjEvq9n1QsvQrMM3OW0lgpO2GOcvAH/BG+CEwsWVsNAGSXW74CRHwcl8vChOMIjnvVgNH/RBiVQUbmtSMHYqjos003o4BxUyOTKIayIaMSo5APwrO1PAbwZ2xjSeqhftyEkzuo6S/UzljW7pWPHsbAA1FfNGZBeRsgkt9h/gAro29pmJA+3UVcp6HJeB1BNlM7tyd/3LR8GGN1WavEcoM0fIs5xd0aLRl5VGjZ6nqxc1shX2HdH9ZQigiMmqFtzwnZNnx4POSXqF+3tJuCtI6cKtvJRGQPlCLCsTRN3BNZxelg/oxA+wZtGONfmMBv/WbIPSdZ6cYvz4JzEBc5jgr3+A0nYWS59ibIIx8k0gqrvGW4GpBtr4DVJv36tJQ==;jOyErA3SnT6hP+/5gjrvSA=="
 ---
 

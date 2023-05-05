@@ -172,12 +172,12 @@ related:
     quality: 4
   - title: "OPTASIA RANKS THIRD AMONG TOP FINTECH COMPANIES ACCORDING TO FORBES MIDDLE EAST MAGAZINE"
     excerpt: "Optasia, the leading Fintech services provider received one more top recognition, ranking third among the Top 30 Fintech companies in Middle East, by the world acclaimed Forbes Magazine in its Middle East edition."
-    publishedDateTime: 2023-05-03T01:18:00Z
-    webUrl: "https://www.newswit.com/en/ifsiq14wm0t3f56786x2tdzmtdtia5cl"
+    publishedDateTime: 2023-05-02T18:00:00Z
+    webUrl: "https://www.thaipr.net/en/it_en/3332587"
     type: article
     provider:
-      name: academy
-      domain: newswit.com
+      name: thaipr.net
+      domain: thaipr.net
     quality: 0
   - title: "IIT Kanpur's eMasters degree program in Financial Technology and Management to groom FinTech experts"
     excerpt: "Some estimates suggest that the global FinTech market is expected to reach a market value of approximately $324 billion by 2026. Another recent report suggests that India's digital payments market is expected to triple from $3 trillion to $10 trillion by 2026,"
