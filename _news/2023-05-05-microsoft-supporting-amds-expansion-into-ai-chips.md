@@ -134,6 +134,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft is supporting AMD’s expansion into AI chips"
+    excerpt: "The companies are teaming up to offer an alternative to Nvidia Corp., which dominates the market for AI-capable chips called graphics processing units, said the people, who asked not to be identified because the matter is private."
+    publishedDateTime: 2023-05-05T00:50:00Z
+    webUrl: "https://www.moneycontrol.com/news/world/microsoft-is-supporting-amds-expansion-into-ai-chips-10530881.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/world/microsoft-is-supporting-amds-expansion-into-ai-chips-10530881.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/microsoft-is-supporting-amds-expansion-into-ai-chips-10530881.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 91
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2021/08/Microsoft_reuters.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "CallMiner Collaborates with Microsoft to Enhance AI and ML Capabilities"
     excerpt: "CallMiner, a leading provider of conversation intelligence to drive business performance improvement, today announced it"
     publishedDateTime: 2023-05-03T16:46:00Z
@@ -147,20 +163,6 @@ related:
       - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-North-America23.png"
         width: 1664
         height: 674
-        isCached: true
-  - title: "Google and Microsoft Are Gaining on AWS: Here's Why Amazon Isn't Worried"
-    excerpt: "Google Cloud and Microsoft's (NASDAQ: MSFT) Azure are gaining ground on Amazon (NASDAQ: AMZN) Web Services (AWS). Alphabet reported that Google Cloud revenue soared 28% year-over-year in the quarter ending March 31,"
-    publishedDateTime: 2023-04-30T09:55:00Z
-    webUrl: "https://moneymorning.com/investing/google-and-microsoft-are-gaining-on-aws-heres-why-amazon-isnt-worried/"
-    type: article
-    provider:
-      name: Money Morning
-      domain: moneymorning.com
-    quality: 70
-    images:
-      - url: "https://moneymorning.com/wp-content/blogs.dir/1/files/2023/04/motley-fool-mark.png"
-        width: 940
-        height: 940
         isCached: true
   - title: "Amazon, Microsoft and Alphabet deliver slower cloud growth. Here's how AI could reverse that trend"
     excerpt: "Microsoft (MSFT) and Alphabet (GOOGL) continued to slow. But over the longer term, we expect growth to reaccelerate."
@@ -272,6 +274,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "+6tor9HxO92WRwKmMpX2YIwec99VbyVP02IDN/Nt9m4XwK6MWMpJCeJiMW9+fMG4egnIgfi/COzshH6Kccwi+yk6RuAdUlzh9pDwAIkHhii08yAAca/cRuAY2BzGFaBNAaYB2trneZkfVj6E811HFg2kc/33oI+NO8vYZurl7XFBnF5fFVZauiRSc36jKlDXf1BfsEfvz3VQ+gvS5UJKzWxLmkARzKkxfAiFgxbXQ6gA1v9UJrM4izhV/LuxjfAu84TbjE3ZRcQXj9s91iUUrJvIk7qywnh440ECslwXwdpXnJRmQY2zydYGmPIRm69UOTJKZ2SEnseglQObo9reh8xKWuUIdVJdD7AuwpxL6/0=;Kvuaa0nOqs1j54E974mTuQ=="
+secured: "dPCBzvb0H2nfdZjIAIRY4GGA2fkhg0ps/dmuWz/+IrCtk4dtjlb4oft0qUPzEO6L3UO3yra0j4NMAVVTxm5WjVJz+TghsYyBP3D4P9UZZKLYMFw63LrZcM7QcV0G+e/A8VHK2JODonCM+r2gmsgALrexjQB3DVjrKFcDucg9mjL2sRHsx8tSwEMeJwwp24SrkMnk1TKMqdoacg7i0rzdxTrZlOrFR8w56tXOWZCvAp5+OGizDOFdKb00JG+jOKArIbzxpanEyCsrJMP8PTTmcJlghwQU2L0GYytaIjTBuWv7wSzxaQfU7+3JCswVr24ftSmo7xrCfbtVDyle1SMWZBrIVxLnlQdygszVvkQjpmcegOheBvpPkWnc8tZoBC/ACv4C41XVjx3NtC8ql1dyyfwPPM2O63yFMNwm1KXPuCCDMD0/8ck+DjXFjpGgMpCJSGemLPVt7kJ/JB/5rm6hHERi+dJYrf2rNLoYiY4fZAtvR3k2reyEM1wP6n0WMC1bOfTqC/FEjMpPT5YF1FC4jg==;19fIkH3CR2HZr8fSj59Smg=="
 ---
 

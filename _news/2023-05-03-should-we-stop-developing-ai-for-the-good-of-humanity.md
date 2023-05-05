@@ -38,7 +38,7 @@ related:
     provider:
       name: Cerritos College Talon Marks
       domain: talonmarks.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://www.talonmarks.com/wp-content/uploads/2023/05/image.jpg"
         width: 553

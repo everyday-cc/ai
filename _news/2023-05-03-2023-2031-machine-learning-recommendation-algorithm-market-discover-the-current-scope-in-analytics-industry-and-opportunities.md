@@ -29,21 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "Global Industrial Robotics Market Report to 2026: Collaborative Robots Promote Efficiency and Innovation Presenting Opportunities"
-    excerpt: "The \"Industrial Robotics Growth Opportunities\" report has been added to ResearchAndMarkets.com's offering. Robotics usage in industrial settings has risen over the last"
-    publishedDateTime: 2023-05-03T00:45:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/05/n32178540/global-industrial-robotics-market-report-to-2026-collaborative-robots-promote-efficiency-and-innov"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32178540"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32178540"
+  - title: "The Global Computer Vision System market Size is vast and growing at an impressive rate of 7.3% CAGR from 2023 to 2030"
+    excerpt: "This \"Computer Vision System Market\" study analyses the market and offers thorough insights to help with difficulties and this report consists of 157 pages. The Computer Vision System market is expected to grow annually by 7."
+    publishedDateTime: 2023-05-02T10:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-global-computer-vision-system-market-size-is-vast-and-growing-at-an-impressive-rate-of-73-cagr-from-2023-to-2030-2023-05-02"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 45
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "3ugc4mL0aC2ABXQXlIKKnZ3byBLrZPtjUQPjysIkkS4XgDB/ELIEhOJ52ZlSkTJBWlzLBWTYslIlDSOQUvvhKu8oh3SuhpBeTpT3d1RCOfPkgdM/vwKYoNLJcZ5PPp6ReYbujIoCDss1kuNftSt+tg6wbDpivWPw9JVrOMknl6tAKVD7hontTtzBGf35/MyehWosG5SHZ0he12ct/sG5nG16cDcM29BWPqKB19GpX7ATMjKCoXCY2sfZO7N6TAAL/EOGPubgZEN5GnLGHrKztXlSChc63YMlKsggidb6na3iJrcWvhXyjce9nVkBNcrOhvcQYqw1568udQG3m/nXE8rovzs2UP2oYzjiGVVrAUc=;PNYQISTJ2zGqZD1x3oTrQQ=="

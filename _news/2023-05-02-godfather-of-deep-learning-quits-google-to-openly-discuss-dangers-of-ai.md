@@ -3,8 +3,8 @@ category: news
 title: "'Godfather of deep learning' quits Google to openly discuss dangers of AI"
 excerpt: "A Toronto professor considered to be a pioneer in the field of artificial intelligence announced his departure from Google on Monday so that he could openly discuss the “dangers of AI.”"
 publishedDateTime: 2023-05-01T18:19:00Z
-originalUrl: "https://www.cp24.com/news/godfather-of-deep-learning-quits-google-to-openly-discuss-dangers-of-ai-1.6378749"
-webUrl: "https://www.cp24.com/news/godfather-of-deep-learning-quits-google-to-openly-discuss-dangers-of-ai-1.6378749"
+originalUrl: "https://www.cp24.com/news/godfather-of-deep-learning-quits-google-to-openly-discuss-dangers-of-ai-1.6378749?cache=yes%3FclipId%3D89950"
+webUrl: "https://www.cp24.com/news/godfather-of-deep-learning-quits-google-to-openly-discuss-dangers-of-ai-1.6378749?cache=yes%3FclipId%3D89950"
 ampWebUrl: "https://beta.cp24.com/news/2023/5/1/1_6378749.html"
 cdnAmpWebUrl: "https://beta-cp24-com.cdn.ampproject.org/c/s/beta.cp24.com/news/2023/5/1/1_6378749.html"
 type: article
@@ -589,6 +589,6 @@ related:
       domain: euronews.com
     quality: 10
 
-secured: "28gvnRIxLF5mn00sVWdm09Bsb+BJCw9yNvrKw41O3Zgt6W4n3H7tq8ZyKjUy9xrIqlPj7l/59k7M2GimVLJvuInvfxfzLwb1b7cJoafV+x9mvrKCX3SLdCgvJPW+AjGwp7OOeD3HkqacDXQgu7MJraKgTMOmQpMLieG0jc45hqPQjREF11JT3yi1HBVpMdPfGGV915NmNr+h105jiExjAH71EQPiXUpI7nXvjuxaopqfVeT2c4/p3cfQgu72Xif83WP+f6cKYD+K1qCdkPyUFjOQlmSP9TgH7gvQluG2F0CGU5CjHaSim5cRhmoQk9JyeZ4YA3tuB4baqWytPmdNrHobcSDLFppIBTtjkXTG6oA=;7cyv77rTVLNkBETE9xbkxg=="
+secured: "gDMWomaNSdVAfEVlN1ykmXdv7HLcFgrqciTTzucuVq/FpA+PZASNCG0OIL4XcfBa77WHBMTSvtMgf7RFfQaO/1BrmUdSHuaaMiMsBbSrdnZbHIARtexPAHkP2piXP9a/dMLMslLu+Ew9bGaY5Pexqk3xkf3gtgkKvchml7rqz162ceVU8iz1ESSWo1oQ73Wp75Hw1H1sGSZp5j6sjywNzA7YeVfB+W04Ywb/WeQBMcu/ucOW8dbaxBglH83tjmK+UDKLE3E0mWNGwWuaNG4l4nb9kMqANmovunYyxwv8AmQKtWnW1AIwLB85v4eiZhF7/lvCIFgMl6jdJiL8O8oaDrVNTHHNbcs6/1eCbZmeyJA=;pEYD91IRKljZa/AXM1kuWg=="
 ---
 

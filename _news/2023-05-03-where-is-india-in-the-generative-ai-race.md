@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/05/03/where-is-india-in-the-generative-a
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/03/where-is-india-in-the-generative-ai-race/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -82,6 +82,20 @@ related:
       - url: "https://www.siliconindia.com/news/newsimages/3qXfVidn.jpg"
         width: 570
         height: 367
+        isCached: true
+  - title: "Cognizant CEO: ‘Generative AI Will Revolutionize The Technology Services Industry’"
+    excerpt: "Ravi Kumar, who joined Cognizant as CEO in January after 20 years at rival India-based global IT services and consulting firm Infosys, Wednesday told financial analysts at the Teaneck, N.J.-based company’s fiscal first-quarter 2023 financial conference ..."
+    publishedDateTime: 2023-05-04T19:00:00Z
+    webUrl: "https://www.crn.com/news/managed-services/cognizant-ceo-generative-ai-will-revolutionize-the-technology-services-industry-"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 33
+    images:
+      - url: "https://www.crn.com/resources/0281-17ef13153994-989a74181a92-1000/cognizant_ravi_kumar_s_ceo.jpeg"
+        width: 600
+        height: 375
         isCached: true
   - title: "Generative AI start-up Cohere in talks for $250mn in fresh funding"
     excerpt: "Artificial intelligence start-up Cohere is close to securing $250mn in fresh funding from backers including Nvidia and Salesforce, which would represent the latest big investment into the generative AI sector that has boomed since the release of ChatGPT last year."

@@ -307,6 +307,59 @@
       ]
     },
     {
+      "path": "_news/2023-04-28-tfds-for-jax-and-pytorch.md",
+      "title": "TFDS for Jax and PyTorch",
+      "excerpt": "TFDS has always been framework-agnostic. For instance, you can easily load datasets in NumPy format for usage in Jax and PyTorch. TensorFlow and its data loading solution (tf.data) are first-class citizens in our API by design. We extended TFDS to support ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/datasets/tfless_tfds",
+      "originalUrl": "https://www.tensorflow.org/datasets/tfless_tfds",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/static/images/tf_logo_social.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-27T10:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-27-2-artificial-intelligence-growth-stocks-smart-investors-are-buying-hand-over-fist.md",
       "title": "2 Artificial Intelligence Growth Stocks Smart Investors Are Buying Hand Over Fist",
       "excerpt": "Its software leans on artificial intelligence (AI ... Trade Desk is well positioned to maintain its momentum. Grand View Research predicts the ad tech market's revenues will increase at an ...",
@@ -1397,58 +1450,6 @@
         "name": "Fox Business",
         "domain": "foxbusiness.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-artificial-intelligence-ai-in-social-media-market-analysis-focus-on-leading-key-players-and-revenue-growth-analysis-by-forecast-to-2023-2033.md",
-      "title": "Artificial Intelligence (AI) in Social Media Market Analysis Focus on Leading Key Players and Revenue Growth Analysis by Forecast To [2023-2033]",
-      "excerpt": "Key Companies Covered in the Artificial Intelligence (AI) in Social Media Market Research Microsoft, Google, Facebook,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-social-media-market-analysis-focus-on-leading-key-players-and-revenue-growth-analysis-by-forecast-to-2023-2033-2023-04-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-social-media-market-analysis-focus-on-leading-key-players-and-revenue-growth-analysis-by-forecast-to-2023-2033-2023-04-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-06T02:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

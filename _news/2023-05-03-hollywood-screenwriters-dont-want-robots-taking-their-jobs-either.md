@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna82543"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna82543"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -40,6 +40,22 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/eb6285b1f869d07e1aaa543ccc67b608.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "AI Decision-Making in Hollywood Is Already Here, Now What?"
+    excerpt: "Chat bots and AI-generated videos show the possibility of the tech. But more insidious are the black box algorithms that decide what's popular — directly influencing which stories to tell and how. In the nonfiction space,"
+    publishedDateTime: 2023-05-04T23:36:00Z
+    webUrl: "https://www.hollywoodreporter.com/business/digital/ai-filmmaking-algorithm-documentaries-non-fiction-1235478174/"
+    ampWebUrl: "https://www.hollywoodreporter.com/business/digital/ai-filmmaking-algorithm-documentaries-non-fiction-1235478174/amp/"
+    cdnAmpWebUrl: "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/business/digital/ai-filmmaking-algorithm-documentaries-non-fiction-1235478174/amp/"
+    type: article
+    provider:
+      name: The Hollywood Reporter
+      domain: hollywoodreporter.com
+    quality: 59
+    images:
+      - url: "https://www.hollywoodreporter.com/wp-content/uploads/2023/05/aicamera.jpg?w=1024"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Hollywood’s Artificial Intelligence Test"
     excerpt: "Are bots ready to replace writers?"

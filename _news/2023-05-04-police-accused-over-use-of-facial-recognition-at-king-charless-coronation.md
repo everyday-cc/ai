@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/uk-news/2023/may/03/metropolitan-police-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/uk-news/2023/may/03/metropolitan-police-live-facial-recognition-in-crowds-at-king-charles-coronation"
 type: article
 quality: 57
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://s.abcnews.com/images/International/wirestory_077c71b57815a241a75068d9789b06d9_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Snipers, facial recognition and a bomb-proof nerve centre - huge coronation security in place as police get new powers to tackle disruption"
+    excerpt: "Police will have assembled an intelligence database of likely demonstrators and in the past have visited known individuals to try to ask them their intentions."
+    publishedDateTime: 2023-05-05T03:41:00Z
+    webUrl: "https://news.sky.com/story/police-given-greater-powers-to-tackle-coronation-disruption-but-buckingham-palace-arrest-highlights-security-concerns-12871816?dcmp=snt-sf-twitter"
+    ampWebUrl: "https://news.sky.com/story/amp/snipers-facial-recognition-and-a-bomb-proof-nerve-centre-huge-coronation-security-in-place-as-police-get-new-powers-to-tackle-disruption-12871816"
+    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/snipers-facial-recognition-and-a-bomb-proof-nerve-centre-huge-coronation-security-in-place-as-police-get-new-powers-to-tackle-disruption-12871816"
+    type: article
+    provider:
+      name: Sky
+      domain: sky.com
+    quality: 42
+    images:
+      - url: "https://e3.365dm.com/23/05/1600x900/skynews-mall-police-horses_6141957.jpg?20230503095842"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Human rights campaigners criticise Met Police over plans to use facial recognition tech at coronation"
     excerpt: "The use of live facial recognition would have a serious chilling effect on the right to free speech on a day when thousands will be considering celebrating or protesting. The technology is used to match human faces on images and live or pre-recorded video ..."

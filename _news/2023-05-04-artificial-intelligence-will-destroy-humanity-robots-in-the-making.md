@@ -6,7 +6,7 @@ publishedDateTime: 2023-05-03T20:43:00Z
 originalUrl: "https://www.talonmarks.com/opinion/2023/05/03/artificial-intelligence-will-destroy-humanity-robots-in-the-making/"
 webUrl: "https://www.talonmarks.com/opinion/2023/05/03/artificial-intelligence-will-destroy-humanity-robots-in-the-making/"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.talonmarks.com/wp-content/uploads/2023/05/image.jpg"

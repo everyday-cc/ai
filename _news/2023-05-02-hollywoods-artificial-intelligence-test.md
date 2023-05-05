@@ -52,6 +52,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI Decision-Making in Hollywood Is Already Here, Now What?"
+    excerpt: "Chat bots and AI-generated videos show the possibility of the tech. But more insidious are the black box algorithms that decide what's popular — directly influencing which stories to tell and how. In the nonfiction space,"
+    publishedDateTime: 2023-05-04T23:36:00Z
+    webUrl: "https://www.hollywoodreporter.com/business/digital/ai-filmmaking-algorithm-documentaries-non-fiction-1235478174/"
+    ampWebUrl: "https://www.hollywoodreporter.com/business/digital/ai-filmmaking-algorithm-documentaries-non-fiction-1235478174/amp/"
+    cdnAmpWebUrl: "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/business/digital/ai-filmmaking-algorithm-documentaries-non-fiction-1235478174/amp/"
+    type: article
+    provider:
+      name: The Hollywood Reporter
+      domain: hollywoodreporter.com
+    quality: 59
+    images:
+      - url: "https://www.hollywoodreporter.com/wp-content/uploads/2023/05/aicamera.jpg?w=1024"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "AI vs. Hollywood: Writers battle “plagiarism machines” in union talks"
     excerpt: "But in particular, Reuters reports that WGA writers have two main concerns about automation in writing, quoting screenwriter John August, who is part of the WGA negotiating committee: They don't want their material to be used as training data for AI systems,"
     publishedDateTime: 2023-05-03T18:38:00Z

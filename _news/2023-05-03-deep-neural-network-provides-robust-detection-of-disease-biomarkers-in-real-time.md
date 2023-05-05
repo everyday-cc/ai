@@ -24,9 +24,9 @@ topics:
 
 related:
   - title: "Neural Network Detects Disease Biomarkers in Real Time"
-    excerpt: "Researchers have developed a deep neural network that can classify biomarkers with high accuracy in real time."
-    publishedDateTime: 2023-05-03T08:43:00Z
-    webUrl: "https://www.technologynetworks.com/informatics/news/neural-network-detects-disease-biomarkers-in-real-time-372867"
+    excerpt: "A smaller version of the neural network model can run on portable devices. In the paper, the researchers run the system over a Google Coral Dev board, a relatively cheap edge device for accelerated execution of artificial intelligence algorithms."
+    publishedDateTime: 2023-05-03T08:56:00Z
+    webUrl: "https://www.technologynetworks.com/tn/news/neural-network-detects-disease-biomarkers-in-real-time-372867"
     type: article
     provider:
       name: technologynetworks

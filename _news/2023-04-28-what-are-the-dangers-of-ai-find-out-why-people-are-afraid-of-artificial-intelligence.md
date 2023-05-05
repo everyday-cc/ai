@@ -1,26 +1,32 @@
 ---
 category: news
 title: "What are the dangers of AI? Find out why people are afraid of artificial intelligence"
-excerpt: "Many experts worry that the rapid development of artificial intelligence may have unforeseen disastrous consequences for humanity. Machine learning technology is designed to assist humans in their everyday life and provide the world with open access to information."
-publishedDateTime: 2023-04-28T15:00:00Z
-originalUrl: "https://wfin.com/fox-technology-news/what-are-the-dangers-of-ai-find-out-why-people-are-afraid-of-artificial-intelligence/"
-webUrl: "https://wfin.com/fox-technology-news/what-are-the-dangers-of-ai-find-out-why-people-are-afraid-of-artificial-intelligence/"
+excerpt: "Many experts worry that the rapid development of artificial intelligence may have unforeseen disastrous consequences for humanity. Machine learning technology is designed to assist humans in their ..."
+publishedDateTime: 2023-04-28T13:34:00Z
+originalUrl: "https://www.foxnews.com/tech/what-dangers-find-out-why-people-afraid-artificial-intelligence"
+webUrl: "https://www.foxnews.com/tech/what-dangers-find-out-why-people-afraid-artificial-intelligence"
+ampWebUrl: "https://www.foxnews.com/tech/what-dangers-find-out-why-people-afraid-artificial-intelligence.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/what-dangers-find-out-why-people-afraid-artificial-intelligence.amp"
 type: article
 
 provider:
-  name: WFIN
-  domain: wfin.com
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Healthcare
+  - AI in Autos
   - AI
 
 images:
-  - url: "https://cdn.tegna-media.com/wtol/weather/PlanAhead.jpg"
-    width: 864
-    height: 486
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9173ff0e-731a-4938-8d98-838e96cab4aa/8c3c171d-0b0c-4650-a5c1-bb79bf268d11/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
+    width: 1200
+    height: 675
     isCached: true
 
-secured: "bv0T54Nf0IvnPnR3PPWCBNp+FHDI7c3kfg4BUQff/1WQglDi+rVS3hJeQzuwTwvlMiS/yHFtObi37U0JV014XKuYI9aco0F8DteBnQw3W6sORGPCA8HXM5NNHoM2x3fLgEkYMBkGqlZaz7BLULl7CIOqxCWXal1jwYO4J+fNeVo14kOWdbKPmqtpFy/HKk1iVqnfKsfCPL5eAzMa/vD7e75ej2hYlMyxrgyxwX5v6GumrTFBiI8l8H9YzfE3UrnRaLOFTdZo98zASad/YCWMcVaX+R5yB9+z+dtuiFbTKxUynoo74t8A7VZCCMbj9W9brUNX8q9T5vhSwIopMwbOKjKnAVNYW/bUv+gkh3oyNRk=;nM7e+a6XOPlw5VinOMwzfA=="
+secured: "0wISNMbmdMTjAg1DpZfknF5871NH+vyvzeZMJ9khRvZaHI0uZPQQXQ/vRf97/Y/SKKHQZkWlRD4togIOFa6WruIHbTzAxq9gGEGWw6y60N4ZvHJpEkb/hmPb862eMZNGunhrdjLWLPsajd3HmL0arHesYDLEWboU+pNe1oohBb8/Q96gyA2vII46+EfAFJlhk8HtowasARFi4MNl5bis3RhqCFQWUMlwq4A+Y7Nav/ldn9r2pID4IheW6i4O8KWDkD82QTASRfgkjUVVbW8Jblw4UgObJ7HotgLlaD4/AbPgYHkRIm0pbXH38bbmkEkeWL5fXU03PLymkg2i6kipstSu7em+4bXK4WJsCroHuFo=;F03zggCerh7vcjGgfuC9ww=="
 ---
 

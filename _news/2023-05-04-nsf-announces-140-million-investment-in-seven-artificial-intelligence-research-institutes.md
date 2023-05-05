@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/michaeltnietzel/2023/05/04/nsf-announce
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaeltnietzel/2023/05/04/nsf-announces-140-million-investment-in-seven-artificial-intelligence-research-institutes/amp/"
 type: article
 quality: 77
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://wraltechwire.com/wp-content/uploads/2020/10/evolution-3778196_1280-e1603274750343.jpg"
         width: 1238
         height: 697
+        isCached: true
+  - title: "Center for Research toward Advancing Financial Technologies Announces Industry Members, Research Projects to Drive Fintech Sector Innovation"
+    excerpt: "Stevens Institute of Technology and Rensselaer Polytechnic Institute announced their first industry members, including Bank of America."
+    publishedDateTime: 2023-05-04T14:27:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/05/206587-center-for-research-toward-advancing-financial-technologies-announces-industry-members-research-projects-to-drive-fintech-sector-innovation/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/05/206587-center-for-research-toward-advancing-financial-technologies-announces-industry-members-research-projects-to-drive-fintech-sector-innovation/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/05/206587-center-for-research-toward-advancing-financial-technologies-announces-industry-members-research-projects-to-drive-fintech-sector-innovation/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 9
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/05/Abe-Lincoln-Eyes-Watch-Look-Dollar-Money.jpeg"
+        width: 1280
+        height: 724
         isCached: true
 
 secured: "09B4rwt7BQz5Q1j6g0t3I9vNTcVdE/xLOz0wYGz3nGt32HpBNRWUNDP5ScBSKBzHAyUrusNvBLojxSnhLuYCQ3N2diuCS7O5pdgCr+dl8ZVyeDyPURuuQA2+I1mQkL35x4WTKDl5esPSJ2CnD+TO9pOjPbw/i4e3m/NKdGasoCbwJTwM2lOIBM2TKVeNsxaT48uCOVWGlYiDxDvJ1RsY4PwQc95tLDPc892S2+nE5YBhe3wTXoqGjLIyVnKgWGD/atqbngBQGQMpb9fU7bzYRP8TrAdhQFU4o2vgDWS1HkM+WQ0j3fFI5vg2x9GctpF7DoqM0yoLOAR9ekXWSC0R424qv37uuulNtYz39U0cTjddNnhUFuzY4gnE5n/Ri8N3g/BuMPnJG8ScCNJmXuzAAGpTIkFVNqk0GkrUr85Lyb5cNQ+lUF3Vp0ZOJVZwaLSmFI1YI48Uk2o/u5hseqWaYpkm5dXTujMdyejxfNmG6OkY0RsF4CG0BhXOBlmtUPHBmKV+2/5+vxcv46KRMXAk5w==;T4c3VAT7sUF6kqmQLxW0+g=="

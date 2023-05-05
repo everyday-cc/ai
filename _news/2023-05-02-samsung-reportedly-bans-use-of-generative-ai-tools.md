@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/samsung-reportedly-bans-use-of-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/samsung-reportedly-bans-use-of-generative-ai-tools/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 43
+  - title: "Godfathers of AI, too, now fear unbridled Generative AI tools"
+    excerpt: "The Turing Award is named after Alan M. Turing, the British mathematician who developed the idea for the Universal Turing Machine, the basis for the first computer. Turing is also considered one of the founding fathers of AI, along with Marvin Minsky, Allen Newell, and Herbert A. Simon."
+    publishedDateTime: 2023-05-05T02:59:00Z
+    webUrl: "https://www.livemint.com/mint-top-newsletter/techtalk05052023.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 39
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/05/03/original/Picture3_1683118493527.jpg"
+        width: 624
+        height: 446
+        isCached: true
 
 secured: "geSWO/ZXpEKJt3tsZMuVZCMu9fQ3a1D9NI9y1/3TDye9XJjynRzNvn4q6Wtv1wHUjZP7qPFubN3c1L+TsA4GkEMQhN6iafiW95mTsbuBEsCTZkGl9cMyMIU3J+w2GmhpbG6PpXHL54QGOXEGb8qh9ys4Am4W9HwRdd6O4f5G69UKqJsYnt6UTahsyMxAayyDk9Fd93p0ki0GfjvpSInw0zgUx4N7+lrOcv646UQW6Ee5gUbLX1w8MeJ90aIPzHba591J28/3eO5pqDHsXTcWPDj5MMgs6o4wUq1PrvebnZSt2bUcsFgfhAPrp3AJM9+IC3GUY5r11Zm411C459Xeu6oAW53hqXMGxGvvkHgSIMZjKEdT8VDmX9M4O1JFgFB6lUSy/EVOdxJ1T9/aNOBUOA+po6ehSYVIkfhQMpbqgRmafn0u1zznUth0nrsMuEJP4SNqtCBRc7j39qiXSmcyySbxOMtUlLcfl5SrnoZMoxZTw1HXzV+w5wueH/vrB3vwRXQr6JY18wbIH5LO7fjA8A==;XzCtTupua7h/nKpqr38WnQ=="
 ---

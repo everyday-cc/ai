@@ -72,6 +72,22 @@ related:
         width: 256
         height: 256
         isCached: true
+  - title: "Harris meets with CEOs about artificial intelligence risks"
+    excerpt: "Vice President Kamala Harris met with the heads of Google, Microsoft and two other companies developing artificial intelligence"
+    publishedDateTime: 2023-05-04T20:02:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/harris-meet-ceos-artificial-intelligence-risks-99068989"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/harris-meet-ceos-artificial-intelligence-risks-99068989"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/harris-meet-ceos-artificial-intelligence-risks-99068989"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 59
+    images:
+      - url: "https://s.abcnews.com/images/Politics/wirestory_578d623e473b0eeb3fa3e4728d7e9868_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "VP Harris meets with CEOs about artificial intelligence risks"
     excerpt: "The Biden administration plans to announce an investment of $140 million to establish seven new AI research institutes, administration officials told reporters in previewing the effort."
     publishedDateTime: 2023-05-04T20:20:00Z
@@ -185,15 +201,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Harris meets with CEOs about artificial intelligence risks"
-    excerpt: "Vice President Kamala Harris speaks, along side Jill Scarbo, who won National Small Business of the Year in 2022 and is the CEO of Bright Futures Learning Services (BFLS), a provider of Applied Behavior Analysis (ABA) therapy services for children ..."
-    publishedDateTime: 2023-05-04T17:42:00Z
-    webUrl: "https://omaha.com/lifestyles/technology/harris-meets-with-ceos-about-artificial-intelligence-risks/article_2be5fceb-7e7e-5b20-93a6-2fc9680f8df6.html"
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 19
 
 secured: "/7F5YwbCT7YOaCVf7Yt3sHWIm7yK9bN9uRqyOB91OkOTgOlQ2DW3du1l7OJRaYZ+KjPsnZQDw0m10+H1YFgxlWm2teOJck9Jx1PD9VFEBg2Q16R6VaaolQEGwooU1e4wfKFOvj3rv0pLCpk+oKEPPlS3/brEnMpGboVx8HsIkfaNCNxs0hY9dpXF0symacJHT5aGO+se/SpXJ4+yRgnVqXH/iC4u8tZCxXK40B5R1jkPGnNyboty10ehsP181S7WtNPpUDrTnGiSwZjLn/dur/AImr9y7Q1tXRyFCeG6GL6m+DLS/To4o7fUhbB8igBE+EVZ7T7aR97h8yp695mDBbbSSWtfe/8psdF/gzLw+F/yZY0h04waB+cuqsnXUSRl3ydKvVYtQ4CRAZLABF2rYTDleF7bdWcZZ33rl8f29Q+iZNVzvUKEQPdJb3r+Qluc20KFWnXUaW5YFRV0/ybcmeRCL9+dfkDDVxWppfJnhb1SaWU1jMwMqt1ncjvVvz/LHURFHKHHVrUQZwmLKZr1FA==;QJr57k4wOGrcUfwyL0mHtQ=="
 ---

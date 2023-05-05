@@ -87,6 +87,20 @@ related:
         width: 570
         height: 367
         isCached: true
+  - title: "Cognizant CEO: ‘Generative AI Will Revolutionize The Technology Services Industry’"
+    excerpt: "Ravi Kumar, who joined Cognizant as CEO in January after 20 years at rival India-based global IT services and consulting firm Infosys, Wednesday told financial analysts at the Teaneck, N.J.-based company’s fiscal first-quarter 2023 financial conference ..."
+    publishedDateTime: 2023-05-04T19:00:00Z
+    webUrl: "https://www.crn.com/news/managed-services/cognizant-ceo-generative-ai-will-revolutionize-the-technology-services-industry-"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 33
+    images:
+      - url: "https://www.crn.com/resources/0281-17ef13153994-989a74181a92-1000/cognizant_ravi_kumar_s_ceo.jpeg"
+        width: 600
+        height: 375
+        isCached: true
   - title: "The future of financial services in India"
     excerpt: "Driven by extensive use of digital technologies, India’s financial services sector is undergoing a significant transformation with evolving consumer preferences, and increased competition. This is leading the sector towards a different growth trajectory."
     publishedDateTime: 2023-04-30T13:03:00Z

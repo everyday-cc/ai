@@ -6,8 +6,8 @@ publishedDateTime: 2023-05-04T18:38:00Z
 originalUrl: "https://www.wealthmanagement.com/technology/range-replace-financial-advisors-ai-where-have-i-heard"
 webUrl: "https://www.wealthmanagement.com/technology/range-replace-financial-advisors-ai-where-have-i-heard"
 type: article
-quality: 16
-heat: 16
+quality: 36
+heat: 36
 published: false
 
 provider:
@@ -18,6 +18,12 @@ topics:
   - AI in Finance
   - AI
 
-secured: "lzqM137qjiCq41r+v6c+Q1ij9KfQeChsacnaHiFTk93OmfjkV1prTzKZzYin9HP4+XGjknlbJc2f7VJ3ZVbXoliY8IefwoaRKNiI8pQfxkLvNZSwzbPrr58PUx4DNzWVlZWZp78sfqtnDbopxcXlZD3C/f0oTPk4OCQOhCcToJGdyXFJXIPY/5ysUp3eLML96EuAI536jj0G8hZyVJ92cv5yHVreP6F0JpIAEYD3P1tDM8SO6G6tFs2MFuMY/R5tQD6DqxdjZWPoEGvOskiQJuFUJGhQxj9VrdEqwPuspnFkP9HqlAzBUk/YtExxoW+Bd84qn1gZ1Vmzd76DnxHavB8wAVYI/qpp2Upv+rxMRqA=;428DNdxCqod1xpES5j1WDA=="
+images:
+  - url: "https://www.wealthmanagement.com/sites/wealthmanagement.com/files/robot-businessman-ai.jpg"
+    width: 1540
+    height: 800
+    isCached: true
+
+secured: "TEWMAAC3kIdZiWN9axGA1peBV4gI3FQh7Can2kKsx93kzqBqSSvPjkI0T1AQhyepGb9BPUzkpHO1+2bRpnIMz/BmnkKl0e6Mmja8sW1k5HlZytAYRG3XK5nD0yLGKqbkaU7U5Ei/XyCypcNVNux/BuPBNxaJaOHLs+zD//3aVTvtbDfeiz2YJIdTY1QRuKQg+lxfZTzcyXSxLwchL91d1+TbqHN7lOxo6QAGVt7P+beBtkGxYpPGTVzdJyE78d1eZJSGNbxyQ9D2kYYYh4BZjXfIyjsFJnawkoQD7oKu/xQjV8mxb33GcG/KfkTF42Eu+lxgAOhgoqrpG95sKnHe1wNT/ZlzsiDef9tXLKyb16A=;76YJfeTquccReUTPyTgrDQ=="
 ---
 
