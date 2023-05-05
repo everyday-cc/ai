@@ -90,6 +90,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden-Harris administration announces initiatives for responsible AI innovation"
+    excerpt: "VP Harris meets with tech CEOs and major AI companies commit to independent evaluation at DEF CON 31. #NewsismyBusiness"
+    publishedDateTime: 2023-05-05T09:04:00Z
+    webUrl: "https://newsismybusiness.com/biden-harris-administration-announces-initiatives-for-responsible-ai-innovation/"
+    type: article
+    provider:
+      name: Business
+      domain: newsismybusiness.com
+    quality: 35
+    images:
+      - url: "https://newsismybusiness.com/wp-content/uploads/2023/05/dreamstime_m_51454298-394x218.jpg"
+        width: 394
+        height: 218
+        isCached: true
   - title: "AI News roundup: Microsoft tests privacy focused version of ChatGPT, Slack's generative AI push and more"
     excerpt: "According to the online publication The Information, Microsoft is planning to offer the variant on its Azure cloud platform and it will run on dedicated servers where data collected by the chatbot would be separated from the public variant."
     publishedDateTime: 2023-05-04T13:30:00Z

@@ -83,6 +83,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "FinTech in Insurance Market Outlook and Forecast till 2030"
+    excerpt: "According to the \"FinTech in Insurance Market\" report, the technology sector is changing, and both established"
+    publishedDateTime: 2023-05-05T05:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/fintech-in-insurance-market-outlook-and-forecast-till-2030-2023-05-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Natural Language Processing For Healthcare And Life Sciences Market Size, Revenue, and Forecast 2030"
     excerpt: "Highlights with Short Brief of Natural Language Processing For Healthcare And Life Sciences Market: The Natural Language Processing For Healthcare And Life Sciences market revenue was Million USD in 2016, grew to Million USD in 2021, and will reach Million ..."
     publishedDateTime: 2023-05-04T12:10:00Z

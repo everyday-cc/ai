@@ -7,7 +7,7 @@ originalUrl: "https://hbr.org/2023/05/how-midsize-companies-can-keep-up-with-ai"
 webUrl: "https://hbr.org/2023/05/how-midsize-companies-can-keep-up-with-ai"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,17 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Sex, love and companionship with AI is sooner than you think"
+    excerpt: "It’s likely that sexual and romantic relationships with AI-equipped systems and robots will become more common in the not-so-distant future."
+    publishedDateTime: 2023-05-01T19:00:00Z
+    webUrl: "https://www.marinij.com/2023/05/01/sex-love-and-companionship-with-ai-is-sooner-than-you-think/"
+    type: article
+    provider:
+      name: Marin Independent Journal
+      domain: marinij.com
+    quality: 19
 
 secured: "0z5Oyoxj5xE9o6/lrnAav8r5AHIo9TFrHOB5z1NNj3fYTxWem0HedAMOLiGN7fWhwKCC5JSX3OmwC26UuYg6VhEppJv93oViHY4v6d8mmPRa6/ctoWDdv/kQCSZdQCSH5fRBpG4mPkNQIN8VrJ0vU9AUI3lzcBXw1NbCBNZWexQvlTJzwmKD0yvgO4yxv3rY65kQ3Aoo4DjaA3ooJCdSPfTI3kGGe5ffNuabJckDZFKX1yaqcpLdopPIuXu4vX8yf4zBED9zVNM/BLuomIXbFMJ/wGolKIJz3gtpGov144Og43w8CA8jDViaMXqkUC6nwK9elgcK03BaSw5QcZGdwA08ukEiX6ofOedlfnRI44fEOjPEZB5zNeKox88XtJ441BpodEGCUxGRhedMCOon8xjlDsDomBxDYRpzpufUWvGZxhh1s/2Wqqsl3ZWufq4W6U94AwOAtsIb01nw7RFhrpTf0z1pGLpGKLhM0sFs6WiYxHdn3HczuZ6SwFTgydcWaWqdT06H6yv7ge2rsO0kuw==;buh0bZzwyHDf4k6AwvP7Bw=="
 ---

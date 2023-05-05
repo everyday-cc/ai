@@ -91,6 +91,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden-Harris administration announces initiatives for responsible AI innovation"
+    excerpt: "VP Harris meets with tech CEOs and major AI companies commit to independent evaluation at DEF CON 31. #NewsismyBusiness"
+    publishedDateTime: 2023-05-05T09:04:00Z
+    webUrl: "https://newsismybusiness.com/biden-harris-administration-announces-initiatives-for-responsible-ai-innovation/"
+    type: article
+    provider:
+      name: Business
+      domain: newsismybusiness.com
+    quality: 35
+    images:
+      - url: "https://newsismybusiness.com/wp-content/uploads/2023/05/dreamstime_m_51454298-394x218.jpg"
+        width: 394
+        height: 218
+        isCached: true
   - title: "Startup Backed by Ex-Google CEO Slips Out of Stealth Mode, Hires First GC"
     excerpt: "One-year-old Istari plans to use artificial intelligence to revolutionize development of defense systems. One of its investors is Google's Eric Schmidt, who said AI might have as big an impact on defense as nuclear weapons."
     publishedDateTime: 2023-05-01T19:25:00Z

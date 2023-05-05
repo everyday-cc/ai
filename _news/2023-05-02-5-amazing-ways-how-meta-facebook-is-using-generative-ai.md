@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/05/02/5-amazing-ways-h
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/05/02/5-amazing-ways-how-meta-facebook-is-using-generative-ai/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/64248ed36d63fa962ef43b0c/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Slack’s New CEO Brings Generative AI to the Workplace Conversation"
+    excerpt: "Lidiane Jones, the new chief executive of Slack, is betting that the future of the messaging app—purchased by software giant Salesforce for $27.7 billion in 2020—will rest on the combination of their technologies using generative artificial intelligence."
+    publishedDateTime: 2023-05-05T08:30:00Z
+    webUrl: "https://www.wsj.com/articles/slacks-new-ceo-brings-generative-ai-to-the-workplace-conversation-af053233"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-776333/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "3 ways Generative AI is transforming the retail industry"
     excerpt: "Microsoft Azure OpenAI and other Generative AI technologies are helping retailers jumpstart innovation, improve customer experience, and accelerate growth."

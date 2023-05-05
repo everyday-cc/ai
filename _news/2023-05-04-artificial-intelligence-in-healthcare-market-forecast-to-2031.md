@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-forecast-to-2031-2023-05-04"
 type: article
 quality: 84
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -66,6 +66,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "FinTech in Insurance Market Outlook and Forecast till 2030"
+    excerpt: "According to the \"FinTech in Insurance Market\" report, the technology sector is changing, and both established"
+    publishedDateTime: 2023-05-05T05:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/fintech-in-insurance-market-outlook-and-forecast-till-2030-2023-05-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

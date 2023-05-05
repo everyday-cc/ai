@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/ai/checks-googles-ai-powered-privacy-
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/checks-googles-ai-powered-privacy-platform/amp/"
 type: article
 quality: 109
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Inside The High-Stakes, AI-Powered Race To Dethrone Google Search"
+    excerpt: "Artificial intelligence is “a bit like dropping a bomb right at the center of the information nexus,” said one startup founder."
+    publishedDateTime: 2023-05-05T09:45:00Z
+    webUrl: "https://www.huffpost.com/entry/ai-google-search_n_6452a48ee4b0fbfe50a095d0"
+    ampWebUrl: "https://www.huffpost.com/entry/ai-google-search_n_6452a48ee4b0fbfe50a095d0/amp"
+    cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/ai-google-search_n_6452a48ee4b0fbfe50a095d0/amp"
+    type: article
+    provider:
+      name: HuffPost
+      domain: huffpost.com
+    quality: 87
+    images:
+      - url: "https://img.huffingtonpost.com/asset/6452a4f02700001a006fb6ef.jpg?cache=gLMM3kdUI0&ops=1200_630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Checks, the AI-powered data protection project incubated in Area 120, officially ‘exits’ to Google"
     excerpt: "After Google cut all but three of the projects at its in-house incubator Area 120 and shifted it to work on AI projects across Google, one of the legacy efforts — coincidentally also an AI project — is now officially exiting to Google."
     publishedDateTime: 2023-05-03T18:13:00Z

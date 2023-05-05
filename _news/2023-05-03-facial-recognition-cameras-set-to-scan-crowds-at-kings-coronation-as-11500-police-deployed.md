@@ -69,10 +69,10 @@ related:
         isCached: true
   - title: "Snipers, facial recognition and a bomb-proof nerve centre - huge coronation security in place as police get new powers to tackle disruption"
     excerpt: "Police will have assembled an intelligence database of likely demonstrators and in the past have visited known individuals to try to ask them their intentions."
-    publishedDateTime: 2023-05-05T03:41:00Z
-    webUrl: "https://news.sky.com/story/police-given-greater-powers-to-tackle-coronation-disruption-but-buckingham-palace-arrest-highlights-security-concerns-12871816?dcmp=snt-sf-twitter"
-    ampWebUrl: "https://news.sky.com/story/amp/snipers-facial-recognition-and-a-bomb-proof-nerve-centre-huge-coronation-security-in-place-as-police-get-new-powers-to-tackle-disruption-12871816"
-    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/snipers-facial-recognition-and-a-bomb-proof-nerve-centre-huge-coronation-security-in-place-as-police-get-new-powers-to-tackle-disruption-12871816"
+    publishedDateTime: 2023-05-05T08:28:00Z
+    webUrl: "https://news.sky.com/story/greater-police-powers-to-tackle-coronation-disruption-but-buckingham-palace-arrest-highlights-security-concerns-12871816"
+    ampWebUrl: "https://news.sky.com/story/amp/police-given-greater-powers-to-tackle-coronation-disruption-but-buckingham-palace-arrest-highlights-security-concerns-12871816"
+    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/police-given-greater-powers-to-tackle-coronation-disruption-but-buckingham-palace-arrest-highlights-security-concerns-12871816"
     type: article
     provider:
       name: Sky
@@ -133,6 +133,15 @@ related:
     provider:
       name: ITV
       domain: itv.com
+    quality: 14
+  - title: "Protesters eye Coronation of King Charles III — and facial recognition eyes them"
+    excerpt: "It’s apparent that a coronation is ripe territory for the convergence of righteous convictions, from the progressive to the fanatical, writes."
+    publishedDateTime: 2023-05-05T09:00:00Z
+    webUrl: "https://www.thestar.com/opinion/2023/05/05/protesters-eye-coronation-of-king-charles-iii-and-facial-recognition-eyes-them.html"
+    type: article
+    provider:
+      name: Toronto Star
+      domain: thestar.com
     quality: 14
 
 secured: "tDOm/zR5SnoK3tW1BsGROU1DZZBIePlWLjSWh9MLBlB127hFjCrfG2gOFwoWtW2PVDwbAQT24+fc6HhaenI12l68MgzYrDp2FLXfvp/dqaZiOvbLzs2fRjHUlfkF3c7BEASz5W7DUgysgTagOSeJ56d2XwOXok5CyEu2yugEAQlvZDNEH5ilKKDz0DTlt84iKUTZtJ6tvjVV7jXFQHvkqxOgikEvM2qj6BDWewqp/KCT1Wo6me1W6UwzvYMwDqAJZNiteM3KVZqkZwX0ehZhc4+Ce/DKKaK8S86d5CB+Nnu85XU8i+9mJv7SBSDvlBfOFldKQy2HIQwM8qGBHRy1Le6sx8WDVrBRjJwByAXLhEBuANi/lhzt5ZQgKQn5ixuyWkcf+xdHY1YIjtPtWEvOFTQPN4+wXYUkDAtbO2P3/+v+DceQPqgBLjyG2iWWlZbd3E356MTNA8enYddOF1wXIUnFghdid/vGkbQbHabe+fueaIBQy0f6pLO6lljrfghSZMwWAlR96EK9jiNCzz4HdQ==;U5c0wEfezUUwtvm9eLlxaA=="

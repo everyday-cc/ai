@@ -2,11 +2,11 @@
 category: news
 title: "Snipers, facial recognition and a bomb-proof nerve centre - huge coronation security in place as police get new powers to tackle disruption"
 excerpt: "Police will have assembled an intelligence database of likely demonstrators and in the past have visited known individuals to try to ask them their intentions."
-publishedDateTime: 2023-05-05T03:41:00Z
-originalUrl: "https://news.sky.com/story/police-given-greater-powers-to-tackle-coronation-disruption-but-buckingham-palace-arrest-highlights-security-concerns-12871816?dcmp=snt-sf-twitter"
-webUrl: "https://news.sky.com/story/police-given-greater-powers-to-tackle-coronation-disruption-but-buckingham-palace-arrest-highlights-security-concerns-12871816?dcmp=snt-sf-twitter"
-ampWebUrl: "https://news.sky.com/story/amp/snipers-facial-recognition-and-a-bomb-proof-nerve-centre-huge-coronation-security-in-place-as-police-get-new-powers-to-tackle-disruption-12871816"
-cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/snipers-facial-recognition-and-a-bomb-proof-nerve-centre-huge-coronation-security-in-place-as-police-get-new-powers-to-tackle-disruption-12871816"
+publishedDateTime: 2023-05-05T08:28:00Z
+originalUrl: "https://news.sky.com/story/greater-police-powers-to-tackle-coronation-disruption-but-buckingham-palace-arrest-highlights-security-concerns-12871816"
+webUrl: "https://news.sky.com/story/greater-police-powers-to-tackle-coronation-disruption-but-buckingham-palace-arrest-highlights-security-concerns-12871816"
+ampWebUrl: "https://news.sky.com/story/amp/police-given-greater-powers-to-tackle-coronation-disruption-but-buckingham-palace-arrest-highlights-security-concerns-12871816"
+cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/police-given-greater-powers-to-tackle-coronation-disruption-but-buckingham-palace-arrest-highlights-security-concerns-12871816"
 type: article
 quality: 42
 heat: -1
@@ -127,6 +127,15 @@ related:
       name: ITV
       domain: itv.com
     quality: 14
+  - title: "Protesters eye Coronation of King Charles III — and facial recognition eyes them"
+    excerpt: "It’s apparent that a coronation is ripe territory for the convergence of righteous convictions, from the progressive to the fanatical, writes."
+    publishedDateTime: 2023-05-05T09:00:00Z
+    webUrl: "https://www.thestar.com/opinion/2023/05/05/protesters-eye-coronation-of-king-charles-iii-and-facial-recognition-eyes-them.html"
+    type: article
+    provider:
+      name: Toronto Star
+      domain: thestar.com
+    quality: 14
   - title: "Facial recognition cameras set to scan crowds at King’s coronation as 11,500 police deployed"
     excerpt: "The Metropolitan police is set to deploy live facial recognition cameras as part of ramped up security measures for King Charles III’s coronation. The force has said it intends to use the technology in central London and in order to identify people who may be deemed a threat to public safety."
     publishedDateTime: 2023-05-03T13:13:00Z
@@ -137,6 +146,6 @@ related:
       domain: inews.co.uk
     quality: 8
 
-secured: "//TbUi56P3kjeddI2D+DK9SMdzBuD822Dn4FVk19f0/jeDV3XoUBLIVhMj1k0xMohCcXoxUH1oYGeWu42v0p9jII+PbXymXkxb8YVUeOG6mEsrooEgzMWgnCMJRFmn5YxqlihgNnXrbk7z3NyW6FxfOp8rF/JQ5ZUeNxbxw5qAHRWRuiDd1+GTrUDaWWqk9lEk5VYQKxkNabZU6ZNLtoko+6rrfGTMRip5+/rrpgoqRJO4PTwRE207OKx2Nxa7jsoUEimXh00tgSBZf8IPtHGkc2xA9zIBzjteQSmHDyEx06IH6D6h8uXb62fe2cbuMVjydj3vOn6w7GlX0VaqWUvUtC2yRh0zX2Ex2ROvirGeo=;ACGomuP0zI5DXNW2FQkpHQ=="
+secured: "MSgsaS8GkAQZrggFwwiiNs+lOVl4mdenT5dWS2bAvfDOF0Sir71ct0Migv6TToN2RYWV6Ll6rEeby0SvVPf8Z1cgj0gItXfnkhyYVa3+p9Wky2wWAUHNeNAJfejxBURoli1krnB+Te3CaFIWN9HuMLiQptZwExaofe5nLGDls2JrQgqeTgpPjgIMg4O4pFjvbpLV9QFkP/zWlZTITBMs1gJUd+laL3iZuYH7r4WvXwmOzEwSMCn6QOe233Kt3cVDElS0PLJksxUiw2KmsSONwnVgy6haLrMgX1DC5o8uLXs4Uhv0LVZNNVT+b65uMVMcdXp+k0/FV3w8GkFnuwOXX44ETj9soRBC7W5GfwX/Cq0=;edKCSz9y5BgZLuAdjYB83Q=="
 ---
 

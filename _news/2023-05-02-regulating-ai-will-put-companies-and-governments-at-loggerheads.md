@@ -40,6 +40,20 @@ related:
         width: 600
         height: 369
         isCached: true
+  - title: "Novel AI-Enabled Robot To Can Perform 10K Microbial Experiments Daily"
+    excerpt: "Researchers have developed an artificial intelligence (AI) system that can help robots to conduct automated scientific experim"
+    publishedDateTime: 2023-05-05T09:32:00Z
+    webUrl: "https://menafn.com/1106185008/Novel-AI-Enabled-Robot-To-Can-Perform-10K-Microbial-Experiments-Daily"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/updates/pr/2023-05/05/I_59976image_story.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "How AI Can Help You Design Better Meetings and Events"
     excerpt: "They’ll also be able to use autonomous AI “agents” like AutoGPT – capable of self-directing themselves to perform multiple steps in sequences and complete complex tasks without much human prompting – to aid with every facet of research,"
     publishedDateTime: 2023-05-02T22:50:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/outreach-initiatives/arts-culture/try-4-new-arts
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/arts-culture/try-4-new-arts-and-ai-experiments/amp/"
 type: article
 quality: 109
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Novel AI-Enabled Robot To Can Perform 10K Microbial Experiments Daily"
+    excerpt: "Researchers have developed an artificial intelligence (AI) system that can help robots to conduct automated scientific experim"
+    publishedDateTime: 2023-05-05T09:32:00Z
+    webUrl: "https://menafn.com/1106185008/Novel-AI-Enabled-Robot-To-Can-Perform-10K-Microbial-Experiments-Daily"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/updates/pr/2023-05/05/I_59976image_story.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "Regulating AI will put companies and governments at loggerheads"
     excerpt: "The rapid release of generative AI tools has been a moment of reckoning. Just this week Geoffrey Hinton, a celebrated developer of AI, announced his resignation from Google, saying he regretted his work and wants to speak freely about the dangers and risks of the technology he created."
     publishedDateTime: 2023-05-02T16:53:00Z

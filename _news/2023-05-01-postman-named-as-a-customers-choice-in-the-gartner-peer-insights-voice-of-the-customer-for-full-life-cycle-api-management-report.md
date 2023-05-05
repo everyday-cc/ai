@@ -7,7 +7,7 @@ originalUrl: "https://it.tmcnet.com/news/2023/05/01/9804813.htm"
 webUrl: "https://it.tmcnet.com/news/2023/05/01/9804813.htm"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 550
     height: 353
     isCached: true
+
+related:
+  - title: "3 Insights From A Startup That Keeps Customers Buying"
+    excerpt: "Deliver more value to customers than competitors do, build on your strengths, push developers to attack big growth opportunities."
+    publishedDateTime: 2023-05-05T09:47:00Z
+    webUrl: "https://www.inc.com/peter-cohan/3-insights-from-a-startup-that-keeps-customers-buying.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 2
 
 secured: "knOgpA/op9pLVlGACSD7K8JTIgX7bQJNnvMXD1E9dthNB9U+5pbn3Yx5/8e1nPHhkppCzR0x36qWTX106ZevwMMd+owxz9KgqqfvYDteWZrlz+EHJDYARbYom6UJtwthQfRv1KtijmuDiXObR7Yit/2NEb4AGIp2G5hypvVXdz06cWVlgO1d/nhWe6gZ7mjpoRpauAUbk+wsjzrZhLVmL3GuJfakqyuRjsUKEg9bKZ/ZFJLv21zeyFfAXTnHxkeZRJbDWNY2Oj/ePRnDQ4NtbZr0SF8QvqOzSY+JxxToWiec/lyA6vgovxW43g7Hw9HAJahht675qA4Cdicckb+7BigTinE/+sTxzoFGHlhgAus=;9ny4EmNA8tRhP9CzwV02pg=="
 ---

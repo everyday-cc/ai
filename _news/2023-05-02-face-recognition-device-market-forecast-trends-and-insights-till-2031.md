@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "FinTech in Insurance Market Outlook and Forecast till 2030"
+    excerpt: "According to the \"FinTech in Insurance Market\" report, the technology sector is changing, and both established"
+    publishedDateTime: 2023-05-05T05:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/fintech-in-insurance-market-outlook-and-forecast-till-2030-2023-05-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Healthcare IT Integration Market is Expected to Reach $7.1 billion | MarketsandMarkets."
     excerpt: "The healthcare IT integration industry is poised for significant growth in the near future. As healthcare providers continue to invest in digital systems and networks, the need"
     publishedDateTime: 2023-05-02T13:30:00Z
