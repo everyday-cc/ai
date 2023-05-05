@@ -2,6 +2,161 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2023-04-25-grimes-says-anyone-can-use-her-voice-for-ai-generated-songs.md",
+      "title": "Grimes says anyone can use her voice for AI-generated songs",
+      "excerpt": "Grimes has invited musicians to clone her voice using Artificial Intelligence in order to create new songs. The pop singer, whose real name is Claire Boucher, said she would \"split 50% royalties on any successful AI-generated song that uses my voice\".",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/entertainment-arts-65385382?at_campaign_type=owned&at_ptr_name=twitter&at_format=link&at_link_origin=BBCWorld&at_link_id=6A68CC54-E352-11ED-B5C7-E39179448730&at_link_type=web_link&at_bbc_team=editorial",
+      "originalUrl": "https://www.bbc.com/news/entertainment-arts-65385382?at_campaign_type=owned&at_ptr_name=twitter&at_format=link&at_link_origin=BBCWorld&at_link_id=6A68CC54-E352-11ED-B5C7-E39179448730&at_link_type=web_link&at_bbc_team=editorial",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/CE67/production/_129493825_gettyimages-523637192.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/entertainment-arts-65385382.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/entertainment-arts-65385382.amp",
+      "publishedDateTime": "2023-04-25T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-25-artificial-intelligence-based-medical-device-market-2023-precise-outlook-google-apple-microsoft-ibm.md",
+      "title": "Artificial Intelligence Based Medical Device Market 2023 Precise Outlook – Google, Apple, Microsoft, IBM",
+      "excerpt": "The global Artificial Intelligence Based Medical Device market 2023 research report typically contains an in-depth analysis of a specific market or industry. It provides insights into market size, trends,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-based-medical-device-market-2023-precise-outlook-google-apple-microsoft-ibm-2023-04-25",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-based-medical-device-market-2023-precise-outlook-google-apple-microsoft-ibm-2023-04-25",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-25T03:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-25-human-values-as-well-as-ai-must-be-at-the-core-of-the-future-of-work.md",
+      "title": "Human values, as well as AI, must be at the core of the future of work",
+      "excerpt": "Automation too often erodes conditions and job quality creating anxiety and overwork. To build ‘good work’, we must invest in people as well as tech",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/global-development/2023/apr/25/human-values-as-well-as-ai-must-be-at-the-core-of-the-future-of-work-chatgtp",
+      "originalUrl": "https://www.theguardian.com/global-development/2023/apr/25/human-values-as-well-as-ai-must-be-at-the-core-of-the-future-of-work-chatgtp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/d657064e917ca19ac473bf16b87b0cf90d851986/0_197_4736_2843/master/4736.jpg?width=620&quality=85&auto=format&fit=max&s=f33b3a001e254e0a4f65dfab06acb209",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/global-development/2023/apr/25/human-values-as-well-as-ai-must-be-at-the-core-of-the-future-of-work-chatgtp",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/global-development/2023/apr/25/human-values-as-well-as-ai-must-be-at-the-core-of-the-future-of-work-chatgtp",
+      "publishedDateTime": "2023-04-25T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-25-artificial-intelligenceai-security-market-to-witness-huge-growth-with-ibm-dataminr-sensetime-sentinelone.md",
       "title": "Artificial Intelligence(AI) Security Market to Witness Huge Growth with IBM, Dataminr, SenseTime, SentinelOne",
       "excerpt": "The market research carried out in this large scale Artificial Intelligence(AI) Security market report succors clients to forecast investment in an emerging market, expansion of market share or success of a new product.",
@@ -1093,151 +1248,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-how-the-ai-revolution-is-liberating-workers-from-the-office.md",
-      "title": "How The AI Revolution Is Liberating Workers from the Office",
-      "excerpt": "With the advent of generative AI like ChatGPT, we are on the cusp of realizing the full potential of remote and hybrid work by reducing — while not eliminating — the benefits of office visits.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/growing-a-business/how-the-ai-revolution-is-liberating-workers-from-the-office/450169",
-      "originalUrl": "https://www.entrepreneur.com/growing-a-business/how-the-ai-revolution-is-liberating-workers-from-the-office/450169",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1682348563-GettyImages-1369567912.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-24T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-grimes-says-anyone-can-ai-generate-her-voice-without-penalty.md",
-      "title": "Grimes says anyone can AI-generate her voice “without penalty”",
-      "excerpt": "Feel free to use my voice without penalty. I have no label and no legal bindings. pic.twitter.com/KIY60B5uqt Grimes is no stranger to the AI and tech cultural scene, having written music about AI and tweeted about the subject frequently.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/04/grimes-says-anyone-can-ai-generate-her-voice-without-penalty/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/04/grimes-says-anyone-can-ai-generate-her-voice-without-penalty/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/grimes_hero_2-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/04/grimes-says-anyone-can-ai-generate-her-voice-without-penalty/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/04/grimes-says-anyone-can-ai-generate-her-voice-without-penalty/amp/",
-      "publishedDateTime": "2023-04-24T13:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-24-sharing-a-reliable-sustainability-podcast.md",
-      "title": "Sharing a reliable sustainability podcast",
-      "excerpt": "Follow Kevin Yu's podcast 'Making of the SRE Omelette' as he dives into how we can achieve our sustainability goals via Site Reliability Engineering.\nThe post Sharing a reliable sustainability podcast appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/sharing-a-reliable-sustainability-podcast/",
-      "originalUrl": "https://www.ibm.com/blog/sharing-a-reliable-sustainability-podcast/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-24T12:28:42-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

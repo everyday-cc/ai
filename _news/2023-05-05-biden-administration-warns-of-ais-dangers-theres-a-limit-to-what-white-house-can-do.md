@@ -3,8 +3,8 @@ category: news
 title: "Biden Administration Warns of AI’s Dangers. There’s a Limit to What White House Can Do."
 excerpt: "The Biden administration is confronting the rapidly expanding use of artificial intelligence, warning of the dangers the technology poses to public safety, privacy and democracy while having limited authority to regulate it."
 publishedDateTime: 2023-05-04T18:22:00Z
-originalUrl: "https://www.wsj.com/articles/white-house-warns-of-risks-as-ai-use-takes-off-d4cc217f?mod=tech_featst_pos1&autoplay=false"
-webUrl: "https://www.wsj.com/articles/white-house-warns-of-risks-as-ai-use-takes-off-d4cc217f?mod=tech_featst_pos1&autoplay=false"
+originalUrl: "https://www.wsj.com/articles/white-house-warns-of-risks-as-ai-use-takes-off-d4cc217f?mod=lead_feature_below_a_pos1"
+webUrl: "https://www.wsj.com/articles/white-house-warns-of-risks-as-ai-use-takes-off-d4cc217f?mod=lead_feature_below_a_pos1"
 type: article
 quality: 59
 heat: 69
@@ -43,6 +43,6 @@ related:
         height: 1120
         isCached: true
 
-secured: "kJ1hW+mBqusFxZ57AdNbxeSYMzb0Eri6kZa4YhmA10o7LPGqpkpjRGbiomTCiQS8TpmheV9XWoBVg6qMAPVryy24wUlt8w9NzJGBQ/KmD5gaGVVt/m6fNZ1l3PoqdJbP9yUXTPGqcPgwFVVGBk9aALn5j4jZqui8z/K8+WiLXDqMKM0Or7c56BNp95TMAWnd/EtqWWPBIA87QotSh0Yozla3e13XoS27HhGrGQg7mPIQWgvtYs5KnASCSmcffwYPEufobcQmmkKkNet1zdi8ZZk2mFNhteh6QZ0Ea2EgXCylOisMMwuMsofhIIDYvxx479ckpDRHqFdToS9ACuENI74MZhLypvLErJX31QZwRUM=;LeBaKo6MquZhoTtVl6sjLw=="
+secured: "LslELgfWBbXUkkDnHO+ZB/jeaMrrY2CflQuYC/E3SB7z+9wt3QtjQ/I0Iye5w0eW5RjCcWoiXcRtcS07WgyrI38NTGM1/tm/TWF2Hr7+hxKcjDR+8Pc8mggLM6VsTc17p3YyLMMjJEnJ/gh9iAA9ZDI4rUF5JdKXBX/lIkSDPxjvJDxUdYRWGvDPaz0sxBVujgCOsQHBLrecR55fGTg4isKTH1sJsxybnB+ZbtEVLQ9w0HI06JSrK10yFi+s97KWfk21OFCrNtbPsG5ZmuhKELDFxi//ncZYdufQ+jMBDRSdT9gaxpi6tG6xAiV0UFV1jIkyWbBNXGaON8RxoiUyRueXHd31TopB7Ho0c0Z0j2k=;RcLnaSf8i3kodJ/+WfLjOA=="
 ---
 

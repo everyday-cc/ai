@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-04-15-robot-sophia-stars-at-artificial-intelligence-forum-in-dominican-republic.md",
+      "title": "Robot Sophia stars at artificial intelligence forum in Dominican Republic",
+      "excerpt": "The robot Sophia was the main protagonist at the Global Forum in Casa de Campo (La Romana, eastern Dominican Republic) where the advances and risks posed by artificial intelligence (AI) were discussed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.laprensalatina.com/robot-sophia-stars-at-artificial-intelligence-forum-in-dominican-republic/",
+      "originalUrl": "https://www.laprensalatina.com/robot-sophia-stars-at-artificial-intelligence-forum-in-dominican-republic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.laprensalatina.com/wp-content/uploads/2023/04/f5f380243fc2f1893919f61814c51c7bba7e37f6w-1024x683.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.laprensalatina.com/robot-sophia-stars-at-artificial-intelligence-forum-in-dominican-republic/amp/",
+      "cdnAmpWebUrl": "https://www-laprensalatina-com.cdn.ampproject.org/c/s/www.laprensalatina.com/robot-sophia-stars-at-artificial-intelligence-forum-in-dominican-republic/amp/",
+      "publishedDateTime": "2023-04-15T04:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "La Prensa Latina",
+        "domain": "laprensalatina.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-15-3-thrilling-robotics-stocks-for-aggressive-investors-to-buy.md",
       "title": "3 Thrilling Robotics Stocks for Aggressive Investors to Buy",
       "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The buzz surrounding generative artificial intelligence (AI) this year is",
@@ -1253,40 +1296,6 @@
         "Machine Learning",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-cutting-a-path-to-success-dallas-startup-launches-eco-friendly-robot-mower-to-tackle-landscaper-labor-shortage.md",
-      "title": "Cutting a Path to Success: Dallas Startup Launches Eco-Friendly Robot Mower to Tackle Landscaper Labor Shortage",
-      "excerpt": "Sensori Robotics has emerged from stealth after three years of R&D pursuing a \"robotic revolution in lawn care.\" Founded by two brothers who grew up tinkering with things in the U.K.—and now live in Texas—Sensori aims to disrupt the landscaping market with its AI-based location methodologies and location-aware robot.",
-      "sourceUrl": null,
-      "webUrl": "https://dallasinnovates.com/cutting-a-path-to-success-dallas-startup-launches-eco-friendly-robot-mower-to-tackle-landscaper-labor-shortage/",
-      "originalUrl": "https://dallasinnovates.com/cutting-a-path-to-success-dallas-startup-launches-eco-friendly-robot-mower-to-tackle-landscaper-labor-shortage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-05T14:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dallas Innovates",
-        "domain": "dallasinnovates.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

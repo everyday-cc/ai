@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2023/05/02/politics/ai-election-ads-2024/ind
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/05/02/politics/ai-election-ads-2024/index.html"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "The Future Of Communication In The Age Of Artificial Intelligence"
+    excerpt: "Are you ready to future-proof your career? Discover how to blend your unique human skills with AI and stay ahead of the game. Don't risk being left behind and losing your job - read on to find out how to stay relevant in a rapidly evolving workforce,"
+    publishedDateTime: 2023-05-04T23:14:00Z
+    webUrl: "https://www.forbes.com/sites/kwamechristian/2023/05/04/the-future-of-communication-in-the-age-of-artificial-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/kwamechristian/2023/05/04/the-future-of-communication-in-the-age-of-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kwamechristian/2023/05/04/the-future-of-communication-in-the-age-of-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/645437c77701f76c839c02fc/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 685
+        isCached: true
   - title: "Artificial intelligence is real care: the future of wellness, and AI-driven medical schemes"
     excerpt: "For the first time, people could tangibly experience the wonders of artificial intelligence (AI) integrating itself into their daily lives across almost every industry. Source: pitinan © 123RF.com As for healthcare,"
     publishedDateTime: 2023-05-02T11:11:00Z

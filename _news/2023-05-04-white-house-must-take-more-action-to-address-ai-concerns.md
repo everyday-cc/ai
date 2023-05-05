@@ -27,7 +27,7 @@ related:
   - title: "Biden Administration Warns of AI’s Dangers. There’s a Limit to What White House Can Do."
     excerpt: "The Biden administration is confronting the rapidly expanding use of artificial intelligence, warning of the dangers the technology poses to public safety, privacy and democracy while having limited authority to regulate it."
     publishedDateTime: 2023-05-04T18:22:00Z
-    webUrl: "https://www.wsj.com/articles/white-house-warns-of-risks-as-ai-use-takes-off-d4cc217f?mod=tech_featst_pos1&autoplay=false"
+    webUrl: "https://www.wsj.com/articles/white-house-warns-of-risks-as-ai-use-takes-off-d4cc217f?mod=lead_feature_below_a_pos1"
     type: article
     provider:
       name: Wall Street Journal

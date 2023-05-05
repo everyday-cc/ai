@@ -56,18 +56,18 @@ related:
         height: 1278
         isCached: true
   - title: "Insider Q&A: Aurora CEO Chris Urmson on self-driving trucks"
-    excerpt: "Sometime next year, semis with no human in the cab will start carrying freight down Interstate 45 between Dallas and Houston. The trucks will run on an autonomous driving system called the Aurora Driver,"
-    publishedDateTime: 2023-05-04T17:15:00Z
-    webUrl: "https://tucson.com/business/insider-q-a-aurora-ceo-chris-urmson-on-self-driving-trucks/article_c8067273-ff8c-5304-8c2e-5dd256daf0cd.html"
+    excerpt: "Q: Teslas on either Autopilot or “Full Self-Driving” using only cameras have crashed into emergency vehicles, motorcycles and other things. Why should we trust you folks when this keeps happening with other vehicles? A: They aren’t really self ..."
+    publishedDateTime: 2023-05-04T17:33:00Z
+    webUrl: "https://wiscnews.com/business/insider-q-a-aurora-ceo-chris-urmson-on-self-driving-trucks/article_328d9a71-f1ac-5025-8250-2068e59bb784.html"
     type: article
     provider:
-      name: Arizona Daily Star
-      domain: tucson.com
+      name: WiscNews
+      domain: wiscnews.com
     quality: 24
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/c/80/c8067273-ff8c-5304-8c2e-5dd256daf0cd/6453ea679d261.preview.jpg?crop=1024%2C576%2C0%2C52&resize=1024%2C576&order=crop%2Cresize"
+      - url: "https://bloximages.chicago2.vip.townnews.com/wiscnews.com/content/tncms/assets/v3/editorial/3/28/328d9a71-f1ac-5025-8250-2068e59bb784/6453ea6a6f082.preview.jpg?crop=1024%2C538%2C0%2C71&resize=1024%2C538&order=crop%2Cresize"
         width: 1024
-        height: 576
+        height: 538
         isCached: true
   - title: "Driverless semis between Dallas and Houston? Aurora Driver CEO explains trucking plans along I-45"
     excerpt: "The trucks will run on an autonomous driving system called the Aurora Driver, developed by Pittsburgh-based Aurora Innovation."

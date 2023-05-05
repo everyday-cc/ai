@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-05-salesforce-and-accenture-partner-to-create-acceleration-hub-for-generative-ai.md",
+      "title": "Salesforce and Accenture partner to create acceleration hub for generative AI",
+      "excerpt": "Acceleration hub from Salesforce and Accenture will use the companies' AI and connected customer skills to help clients harness generative AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/salesforce-accenture-partner-create-acceleration-hub-generative-ai/",
+      "originalUrl": "https://venturebeat.com/ai/salesforce-accenture-partner-create-acceleration-hub-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/03/Salesforce-logo_2023.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/salesforce-accenture-partner-create-acceleration-hub-generative-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/salesforce-accenture-partner-create-acceleration-hub-generative-ai/amp/",
+      "publishedDateTime": "2023-05-04T17:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-05-qatar-adopts-speech-recognition-ai-to-boost-prosecution-efficiency.md",
       "title": "Qatar Adopts Speech Recognition AI To Boost Prosecution Efficiency",
       "excerpt": "Qatar has started to use AI speech-to-text technology in public prosecution to boost efficiency, local media reported Thursday, trend reports citing",
@@ -10,7 +61,7 @@
       "originalUrl": "https://menafn.com/1106180848/Qatar-Adopts-Speech-Recognition-AI-To-Boost-Prosecution-Efficiency",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -157,7 +208,7 @@
       "originalUrl": "https://arstechnica.com/gadgets/2023/05/as-alexa-flounders-amazon-hopes-homegrown-generative-ai-can-find-it-revenue/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -260,7 +311,7 @@
       "originalUrl": "https://venturebeat.com/ai/hugging-face-and-servicenow-open-up-generative-ai-for-coding-with-starcoder/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -334,6 +385,58 @@
         "name": "The Robot Report",
         "domain": "therobotreport.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-05-the-life-and-death-of-a-robot-vacuum.md",
+      "title": "The life and death of a robot vacuum",
+      "excerpt": "Last-minute robot delivery exists in limited quantities but is still regarded as a novelty. More broadly, however, robots are here right now. They’re mostly behind the scenes, but they’re doing a lot of work.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/05/04/the-life-and-death-of-a-robot-vacuum/",
+      "originalUrl": "https://techcrunch.com/2023/05/04/the-life-and-death-of-a-robot-vacuum/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/02/20230227_090555.jpg?resize=1200,900",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/05/04/the-life-and-death-of-a-robot-vacuum/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/04/the-life-and-death-of-a-robot-vacuum/amp/",
+      "publishedDateTime": "2023-05-04T12:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -442,7 +545,7 @@
       "originalUrl": "https://www.reuters.com/article/amd-ai-microsoft/update-1-microsoft-helping-finance-amds-expansion-into-ai-chips-bloomberg-idUSL4N3714JL",
       "featuredContent": null,
       "highlight": null,
-      "heat": 278,
+      "heat": 288,
       "tags": null,
       "images": [
         {
@@ -485,57 +588,6 @@
         "AI",
         "AI in Finance",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-salesforce-launches-slackgpt-embracing-generative-ai-for-enterprise-workflows.md",
-      "title": "Salesforce launches SlackGPT, embracing generative AI for enterprise workflows",
-      "excerpt": "Salesforce today announced SlackGPT, a new generative AI-powered experience planned for the Slack app, to be released soon.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/salesforce-launches-slackgpt-embracing-generative-ai-for-enterprise-workflows/",
-      "originalUrl": "https://venturebeat.com/ai/salesforce-launches-slackgpt-embracing-generative-ai-for-enterprise-workflows/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1231317627.jpg?w=1200&strip=all",
-          "width": 1018,
-          "height": 574,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/salesforce-launches-slackgpt-embracing-generative-ai-for-enterprise-workflows/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/salesforce-launches-slackgpt-embracing-generative-ai-for-enterprise-workflows/amp/",
-      "publishedDateTime": "2023-05-04T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {
@@ -941,7 +993,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-chip-market-global-analysis-2023-2030-2023-05-04",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 86,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1130,7 +1182,7 @@
       "originalUrl": "https://venturebeat.com/ai/lack-of-ai-and-automation-adoption-hinders-employee-productivity-slack-report/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -1169,58 +1221,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-gpt-based-ai-neural-network-decodes-brain-activity-without-surgery.md",
-      "title": "GPT-based AI Neural Network Decodes Brain Activity without Surgery",
-      "excerpt": "This research can help patients with conditions such as locked-in syndrome, where patients are unable to communicate due to paralysis",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2023/05/04/gpt-based-neural-network-decodes-brain/",
-      "originalUrl": "https://www.gizmochina.com/2023/05/04/gpt-based-neural-network-decodes-brain/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2023/05/alina-grubnyak-ZiQkhI7417A-unsplash-1024x683-1.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-04T00:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

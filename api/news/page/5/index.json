@@ -2,6 +2,110 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-05-02-facial-recognition-powers-automated-apartheid-in-israel-report-says.md",
+      "title": "Facial Recognition Powers ‘Automated Apartheid’ in Israel, Report Says",
+      "excerpt": "The Israeli government is using computer vision to monitor Palestinian travel across checkpoints, according to the report.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/05/01/technology/israel-palestine-facial-recognition.html",
+      "originalUrl": "https://www.nytimes.com/2023/05/01/technology/israel-palestine-facial-recognition.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/05/02/multimedia/01JPisrael-surveil-1-print-wkzg/01israel-surveil-01-wkzg-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-01T16:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-02-ai-plus-mri-yields-the-ability-to-recognize-what-the-mind-is-hearing.md",
+      "title": "AI plus MRI yields the ability to recognize what the mind is hearing",
+      "excerpt": "Combined with a detailed knowledge of which regions of the brain are involved in specific processes, we've been able to do remarkable things, such as using functional MRI (fMRI) to determine what letter a person was looking at or an implant to control a robotic arm But today,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/science/2023/05/ai-plus-mri-yields-the-ability-to-recognize-what-the-mind-is-hearing/",
+      "originalUrl": "https://arstechnica.com/science/2023/05/ai-plus-mri-yields-the-ability-to-recognize-what-the-mind-is-hearing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/GettyImages-172591385-e1682975888203-800x716.jpg",
+          "width": 800,
+          "height": 716,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/science/2023/05/ai-plus-mri-yields-the-ability-to-recognize-what-the-mind-is-hearing/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/science/2023/05/ai-plus-mri-yields-the-ability-to-recognize-what-the-mind-is-hearing/amp/",
+      "publishedDateTime": "2023-05-01T14:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-02-why-growth-mindset-is-needed-with-ai-10-examples-of-carol-dwecks-principles-for-an-existential-moment.md",
       "title": "Why Growth Mindset Is Needed With AI – 10 Examples of Carol Dweck’s Principles for an Existential Moment",
       "excerpt": "The truth of AI is that it is an uncomfortable combination of the virtual and digital experience with our physical worlds. The application of AI could well be dangerous, like the new movie, The Artifice Girl.",
@@ -113,7 +217,7 @@
       "originalUrl": "https://techcrunch.com/2023/05/01/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 499,
+      "heat": 519,
       "tags": null,
       "images": [
         {
@@ -761,59 +865,6 @@
       ]
     },
     {
-      "path": "_news/2023-05-01-mosaic-data-science-has-been-named-the-top-ai-machine-learning-services-company-of-2023-by-cio-review.md",
-      "title": "Mosaic Data Science Has Been Named the Top AI & Machine Learning Services Company of 2023 by CIO Review",
-      "excerpt": "Mosaic is thrilled to be recognized as a leader in the Artificial Intelligence & Machine Learning space.LEESBURG, VA / ACCESSWIRE / May 1,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/mosaic-data-science-has-been-named-the-top-ai-machine-learning-services-company-of-2023-by-cio-review-1032278328",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/mosaic-data-science-has-been-named-the-top-ai-machine-learning-services-company-of-2023-by-cio-review-1032278328",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.accesswire.com/users/newswire/images/751981/9395de5167fcc82d1591bf86ed6d.jpg",
-          "width": 300,
-          "height": 391,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-01T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
       "path": "_news/2023-05-01-oracle-making-ai-for-business-a-reality-with-latest-fusion-hcm-and-scm-updates.md",
       "title": "Oracle Making AI For Business A Reality With Latest Fusion HCM And SCM Updates",
       "excerpt": "Ranked Industry Analyst Patrick Moorhead dives into his conversation with Steve Miranda, executive vice president of Oracle applications development, in what has become a regular quarterly discussion about what is new in Oracle Fusion Applications.",
@@ -1195,58 +1246,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-01-nvidia-doubles-down-on-self-driving-cars-with-xavier-ai-chip-and-a-hat-tip-to-next-gen-volta-gpu.md",
-      "title": "NVIDIA Doubles Down On Self-Driving Cars With Xavier AI Chip And A Hat Tip To Next Gen Volta GPU",
-      "excerpt": "Xavier gets it done on a single chip, and again at massive power savings ... and eventually systems built on Xavier, are AI-driven supercomputers of sorts on wheels. The platform is connected ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davealtavilla/2016/09/28/nvidia-doubles-down-on-self-driving-cars-with-xavier-ai-chip-and-a-hat-tip-to-next-gen-volta-gpu/",
-      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2016/09/28/nvidia-doubles-down-on-self-driving-cars-with-xavier-ai-chip-and-a-hat-tip-to-next-gen-volta-gpu/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/blogs-images/davealtavilla/files/2016/09/NVIDIA_Xavier_SOC.jpg?format=jpg&width=1200",
-          "width": 800,
-          "height": 564,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2016/09/28/nvidia-doubles-down-on-self-driving-cars-with-xavier-ai-chip-and-a-hat-tip-to-next-gen-volta-gpu/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2016/09/28/nvidia-doubles-down-on-self-driving-cars-with-xavier-ai-chip-and-a-hat-tip-to-next-gen-volta-gpu/amp/",
-      "publishedDateTime": "2023-05-01T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

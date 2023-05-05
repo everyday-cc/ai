@@ -24,14 +24,19 @@ topics:
 
 related:
   - title: "Neural Network Detects Disease Biomarkers in Real Time"
-    excerpt: "A smaller version of the neural network model can run on portable devices. In the paper, the researchers run the system over a Google Coral Dev board, a relatively cheap edge device for accelerated execution of artificial intelligence algorithms."
-    publishedDateTime: 2023-05-03T08:56:00Z
-    webUrl: "https://www.technologynetworks.com/tn/news/neural-network-detects-disease-biomarkers-in-real-time-372867"
+    excerpt: "Researchers have developed a deep neural network that can classify biomarkers with high accuracy in real time."
+    publishedDateTime: 2023-05-03T08:43:00Z
+    webUrl: "https://www.technologynetworks.com/informatics/news/neural-network-detects-disease-biomarkers-in-real-time-372867"
     type: article
     provider:
       name: technologynetworks
       domain: technologynetworks.com
-    quality: 19
+    quality: 39
+    images:
+      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/372867/neural-network-detects-disease-biomarkers-in-real-time-372867-640x360.jpg?cb=20230503"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "4aRpaYJahHg9GaJoQpS+0BBIw62ISmw/zB6m35zOgccvmTdEvaJLZC3vhoAeP3v+Z0TQp7MYlPS9JbQ1uEzLUjGTaO7kY6rQBOSQtjzVMAzmG1da+DRN3icSDqI3p/igj3ETl+8ME08zUD5Wqt6U0dZ9/5Sxjx8zoesSCMXmZifV6CnudduE7xxg9fopwEJQab9PewBfEj2vtHC35BNle/KXZhIdauT5/wJI/g+GA+R7EJr819fen4TadYt3sqO5/MkvyBv8PXadFE9NRds7z4zDFMjRGlWgA7soQoaWwhkd3PxQtcn/Qpeh6nZZ41WtqL3JlCwHHIZrd73O8PRnCyEmvb+rXqh3zPQ6BawyYSI=;qqpimPaOU/b7h/7cr5fbIA=="
 ---

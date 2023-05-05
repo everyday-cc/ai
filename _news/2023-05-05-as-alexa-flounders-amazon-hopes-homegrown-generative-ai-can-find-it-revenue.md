@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/gadgets/2023/05/as-alexa-flounders-amazon-ho
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/05/as-alexa-flounders-amazon-hopes-homegrown-generative-ai-can-find-it-revenue/amp/"
 type: article
 quality: 84
-heat: 84
+heat: 85
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 446
     isCached: true
 
-secured: "SKfrg5KCizDz4jSKtzQtHSDVwgb+5iBxKLXdljqXthwRJ69yXqsC03Q8N3HOQi5HzaSzKX4cO1HetFZlymuInGXwaPl9yI8URoh37KKnZjzIpSdAPJXTgSoa3tFKKhmyoFqVAJOrTvJ1fblvcZZmVRPVHhO2ngH84hkWlUv+a1YPmHF8KEj2eKd9Miln1jN2f7/ARgeUy2mTuFuouFTneW8psteOGSCuATw+ehw/DMUxGCW1Zel0m9SJmIYWBLIN1AFMGSEAUCMUY6a/v6FDLJbWgQEjVbO2BkhGAlCYWlUvINUr/b+HUY3NVDzDo83EriPq3wmnRQ8ycb5iYSNViezvDemZHP0qrhcsBwTYbVE=;Tq/yhlzeuYBA9QiPzrzPcQ=="
+secured: "8KBrL+u1OT+BS/wcsw6gFAJj00KZF3VrcNOm9pTgYs42Wm7MAsnla1lxdOQo2BSmCPX6rSWUHX7OMwuUrLTyLeWkLeesHll7QPkiEanvYV2x+8IcwpHcEORBt9/tIk4fEwo9KxLPQj/vG8wSEDA3TJanC6IE/c1/shSBPq8C/OxJxLYTjI+Nl6tc8O7CwVxZWLEKLmf4sCzxvw35Q++WKOD44FkGHmllTKZ8doGnGe4rLHU/kzPyhEG3a4W5iVMRRDpESa740n8G18aY1Qp9x3SAwfXzpZuEOA+u7laGQ7o1FDG2AxB6NTtu6A27qiu1r3YECWAfOJMEvr28C0e6rs9XzCcU/XKKzR7+up8wTMa0/e1RFkQY3qzsoMlTAHBvWilKPvZehYzFl19nhj0pReD0eJXh4u8DsFejBnb2CC3yDp+Zsjq9w6FGR3u0n13WT9eziYhij3eY6qfYeZpKvg/JMh5ydLElbyJPW5jjY3wCUSA9Y0DWEVHjUxyy92gcMeuFSnzKeP7bNIADj/W+MQ==;pDViUb/qz2zSKZINzKNP2w=="
 ---
 

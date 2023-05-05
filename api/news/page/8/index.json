@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-04-28-self-driving-ai-lab-awarded-200m-grant-to-pursue-new-drugs-materials.md",
+      "title": "‘Self-driving’ AI lab awarded $200M grant to pursue new drugs, materials",
+      "excerpt": "A “self-driving lab” that’s using artificial intelligence (AI) to reverse engineer how to make things like new medicines, sustainable plastic alternatives and anti-corrosive building ...",
+      "sourceUrl": null,
+      "webUrl": "https://globalnews.ca/news/9657567/ai-canada-university-of-toronto-self-driving-lab-research-grant-acceleration-consortium/",
+      "originalUrl": "https://globalnews.ca/news/9657567/ai-canada-university-of-toronto-self-driving-lab-research-grant-acceleration-consortium/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://globalnews.ca/wp-content/uploads/2023/04/Untitled-design-38.png",
+          "width": 1024,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://globalnews.ca/news/9657567/ai-canada-university-of-toronto-self-driving-lab-research-grant-acceleration-consortium/amp/",
+      "cdnAmpWebUrl": "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/9657567/ai-canada-university-of-toronto-self-driving-lab-research-grant-acceleration-consortium/amp/",
+      "publishedDateTime": "2023-04-28T09:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Global News",
+        "domain": "globalnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-28-aimachine-learning-market-size-trends-and-forecast-2030.md",
       "title": "AI/Machine Learning Market Size, Trends and Forecast 2030",
       "excerpt": "The latest independent research report on AI/Machine Learning Market 2023 explore investment in Market. It classify",
@@ -145,6 +188,49 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-28-what-are-the-dangers-of-ai-find-out-why-people-are-afraid-of-artificial-intelligence.md",
+      "title": "What are the dangers of AI? Find out why people are afraid of artificial intelligence",
+      "excerpt": "Many experts worry that the rapid development of artificial intelligence may have unforeseen disastrous consequences for humanity. Machine learning technology is designed to assist humans in their everyday life and provide the world with open access to information.",
+      "sourceUrl": null,
+      "webUrl": "https://wfin.com/fox-technology-news/what-are-the-dangers-of-ai-find-out-why-people-are-afraid-of-artificial-intelligence/",
+      "originalUrl": "https://wfin.com/fox-technology-news/what-are-the-dangers-of-ai-find-out-why-people-are-afraid-of-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.tegna-media.com/wtol/weather/PlanAhead.jpg",
+          "width": 864,
+          "height": 486,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-28T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFIN",
+        "domain": "wfin.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -439,58 +525,6 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-what-are-the-dangers-of-ai-find-out-why-people-are-afraid-of-artificial-intelligence.md",
-      "title": "What are the dangers of AI? Find out why people are afraid of artificial intelligence",
-      "excerpt": "Many experts worry that the rapid development of artificial intelligence may have unforeseen disastrous consequences for humanity. Machine learning technology is designed to assist humans in their ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/what-dangers-find-out-why-people-afraid-artificial-intelligence",
-      "originalUrl": "https://www.foxnews.com/tech/what-dangers-find-out-why-people-afraid-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9173ff0e-731a-4938-8d98-838e96cab4aa/8c3c171d-0b0c-4650-a5c1-bb79bf268d11/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/what-dangers-find-out-why-people-afraid-artificial-intelligence.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/what-dangers-find-out-why-people-afraid-artificial-intelligence.amp",
-      "publishedDateTime": "2023-04-28T06:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     },
     {
@@ -1156,58 +1190,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-seven-in-ten-business-leaders-want-robots-to-make-their-decisions-for-them.md",
-      "title": "Seven In Ten Business Leaders Want Robots To Make Their Decisions For Them",
-      "excerpt": "It’s easier to make decisions when the economy is growing, as bad choices can get subsidized by the more well-targeted choices. But in a tighter economy, bad decisions are more exposed, and costly. But in this era of data analytics,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/04/28/seven-in-ten-business-leaders-want-robots-to-make-their-decisions-for-them/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/04/28/seven-in-ten-business-leaders-want-robots-to-make-their-decisions-for-them/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/644b3e90feff0dec7e76f751/0x0.jpg?format=jpg&width=1200",
-          "width": 807,
-          "height": 537,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/04/28/seven-in-ten-business-leaders-want-robots-to-make-their-decisions-for-them/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/04/28/seven-in-ten-business-leaders-want-robots-to-make-their-decisions-for-them/amp/",
-      "publishedDateTime": "2023-04-27T21:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

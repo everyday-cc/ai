@@ -62,7 +62,7 @@
       "originalUrl": "https://www.reuters.com/article/amd-ai-microsoft/update-1-microsoft-helping-finance-amds-expansion-into-ai-chips-bloomberg-idUSL4N3714JL",
       "featuredContent": null,
       "highlight": null,
-      "heat": 278,
+      "heat": 288,
       "tags": null,
       "images": [
         {
@@ -116,7 +116,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-chip-market-global-analysis-2023-2030-2023-05-04",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 86,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1088,8 +1088,8 @@
       "title": "Cadence Collaborates with GUC on AI, HPC and Networking in Advanced Packaging Technologies",
       "excerpt": "GUC’s big-die CoWoS platform represents real-world CPU, GPU, AI, and networking chips by integrating multiple instances of the Cadence 112G-LR SerDes with a 7.2Gbps HBM3 controller and PHY ...",
       "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20230426005217/en/Cadence-Collaborates-with-GUC-on-AI-HPC-and-Networking-in-Advanced-Packaging-Technologies/?feedref=JjAwJuNHiystnCoBq_hl-cFcUWvK4NSyDWO6DSHmLQqqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu6AeRucmCP4ZHknI_zC0f97",
-      "originalUrl": "https://www.businesswire.com/news/home/20230426005217/en/Cadence-Collaborates-with-GUC-on-AI-HPC-and-Networking-in-Advanced-Packaging-Technologies/?feedref=JjAwJuNHiystnCoBq_hl-cFcUWvK4NSyDWO6DSHmLQqqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu6AeRucmCP4ZHknI_zC0f97",
+      "webUrl": "https://www.morningstar.com/news/business-wire/20230426005217/cadence-collaborates-with-guc-on-ai-hpc-and-networking-in-advanced-packaging-technologies",
+      "originalUrl": "https://www.morningstar.com/news/business-wire/20230426005217/cadence-collaborates-with-guc-on-ai-hpc-and-networking-in-advanced-packaging-technologies",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1099,11 +1099,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-26T07:52:00-07:00",
+      "publishedDateTime": "2023-04-26T07:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "newsroom.businesswire.com",
-        "domain": "businesswire.com",
+        "name": "Morningstar",
+        "domain": "morningstar.com",
         "images": null,
         "publishers": null,
         "authors": null

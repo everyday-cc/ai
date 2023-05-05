@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/hugging-face-and-servicenow-open-up-gener
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/hugging-face-and-servicenow-open-up-generative-ai-for-coding-with-starcoder/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 108
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "ServiceNow and Hugging Face release open-source AI model for generating code"
+    excerpt: "The companies claim that StarCoder is the most advanced model of its kind in the open-source ecosystem. It was developed through a research project that ServiceNow and Hugging Face launched last year."
+    publishedDateTime: 2023-05-04T22:53:00Z
+    webUrl: "https://siliconangle.com/2023/05/04/servicenow-hugging-face-release-open-source-ai-model-generating-code/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 36
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/code.png"
+        width: 718
+        height: 400
+        isCached: true
   - title: "Aisera taps generative AI to process customer and employee service requests"
     excerpt: "Aisera Inc., a well-funded startup that provides artificial intelligence tools for companies to enhance employee and customer experiences, said today it’s partnering with Microsoft Corp. to deliver a new AI copilot for enterprise service experiences."
     publishedDateTime: 2023-05-03T12:01:00Z

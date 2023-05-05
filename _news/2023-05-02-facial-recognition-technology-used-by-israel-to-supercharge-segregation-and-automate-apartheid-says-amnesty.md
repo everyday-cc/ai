@@ -54,6 +54,20 @@ related:
         width: 1000
         height: 800
         isCached: true
+  - title: "“Automated Apartheid”: How Israel Uses Facial Recognition to Track Palestinians & Control Movement"
+    excerpt: "A new report by Amnesty International documents how the Israeli government is using an experimental facial recognition system to track Palestinians and control their movements. The findings are part of “Automated Apartheid,"
+    publishedDateTime: 2023-05-04T19:42:00Z
+    webUrl: "https://www.democracynow.org/2023/5/4/automated_apartheid_amnesty_report_israel_palestine"
+    type: article
+    provider:
+      name: Democracy Now
+      domain: democracynow.org
+    quality: 25
+    images:
+      - url: "https://www.democracynow.org/images/story/35/67235/full_hd/SEG1-AutomatedApartheid-1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Report: Automated Apartheid: how facial recognition fragments, segregates and controls Palestinians in the OPT"
     excerpt: "The Israeli authorities are using an experimental facial recognition system known as Red Wolf to track Palestinians and automate harsh restrictions on their freedom of movement."
     publishedDateTime: 2023-05-03T03:55:00Z

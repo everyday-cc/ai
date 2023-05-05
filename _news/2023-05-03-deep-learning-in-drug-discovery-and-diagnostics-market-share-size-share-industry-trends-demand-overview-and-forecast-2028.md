@@ -23,43 +23,29 @@ topics:
   - AI
 
 related:
-  - title: "Machine Learning Market Size Overview, Global Value, Opportunities and Sales Forecast"
-    excerpt: "The global “Machine Learning Market Size” is expected to rise with an impressive CAGR and generate the highest revenue"
-    publishedDateTime: 2023-04-30T07:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-size-overview-global-value-opportunities-and-sales-forecast-2023-04-30"
+  - title: "Deep-Learning Computing Unit (DCU) Market Growth, Trends and Industry Forecast 2023-2030 | NVIDIA, AMD, Intel"
+    excerpt: "The study on the market for Deep-Learning Computing Unit (DCU) provides a thorough analysis of the industry. It does"
+    publishedDateTime: 2023-05-03T10:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-computing-unit-dcu-market-growth-trends-and-industry-forecast-2023-2030-nvidia-amd-intel-2023-05-03"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 79
+    quality: 35
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Market Size and Sales Report 2023"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. May 03, 2023 (The Expresswire) -- Global Artificial Intelligence Market Research ..."
-    publishedDateTime: 2023-05-03T13:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-and-sales-report-2023-2023-05-03"
+  - title: "Computer Vision in Automation Market Growth, Business Overview 2023, and Forecast to 2030 | Intel Corporation, Apple Inc., Cognex Corporation"
+    excerpt: "The Computer Vision in Automation Market studies predominant aim is to collect the maximum useful insights for any"
+    publishedDateTime: 2023-05-02T07:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-automation-market-growth-business-overview-2023-and-forecast-to-2030-intel-corporation-apple-inc-cognex-corporation-2023-05-02"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 66
-  - title: "Face Recognition Door Lock Market Size 2023, Latest Trends, COVID-19 Impact and Global Competition"
-    excerpt: "The global “Face Recognition Door Lock Market Size” is expected to rise with an impressive CAGR and generate the"
-    publishedDateTime: 2023-04-30T09:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-door-lock-market-size-2023-latest-trends-covid-19-impact-and-global-competition-2023-04-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+    quality: 14
 
 secured: "7Gl0tub5MX0NBJo9dbvUB/icYDWGeSgh8/3FD1qdjln4XZ1ju3HF5DQx/2olviVd61D5Ve8WnMWYE+B4bF8ETzqkmUZFt0HwcKqfI9ySWt76mwCtA4cnNLPE5U068vNtUzUUn18uymvVGjtzxWcw+ldHP33n1CBHCIBGdzrWFqb3TP/957X0nXKuI8VMm6pTPHmtdJ4eXGv6BWq6hva+Z4IkOGLyvOHE/lXB+gGJzrJ/IvNlk19glycH4OV9RUKMk+X/RpNPmb3D3FwV5HdvfMOkAiZxDmYkWf8d+YnUxR+XDkDUllzfC2SSGHWwURR+5gpfofsZnAMUayci7Y1rhlOMvRQHcGhVz0MKh3qm8z8=;AFldl9SN+k5vgwGavKzfcw=="
 ---

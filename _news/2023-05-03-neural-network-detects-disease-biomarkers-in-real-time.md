@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Neural Network Detects Disease Biomarkers in Real Time"
-excerpt: "A smaller version of the neural network model can run on portable devices. In the paper, the researchers run the system over a Google Coral Dev board, a relatively cheap edge device for accelerated execution of artificial intelligence algorithms."
-publishedDateTime: 2023-05-03T08:56:00Z
-originalUrl: "https://www.technologynetworks.com/tn/news/neural-network-detects-disease-biomarkers-in-real-time-372867"
-webUrl: "https://www.technologynetworks.com/tn/news/neural-network-detects-disease-biomarkers-in-real-time-372867"
+excerpt: "Researchers have developed a deep neural network that can classify biomarkers with high accuracy in real time."
+publishedDateTime: 2023-05-03T08:43:00Z
+originalUrl: "https://www.technologynetworks.com/informatics/news/neural-network-detects-disease-biomarkers-in-real-time-372867"
+webUrl: "https://www.technologynetworks.com/informatics/news/neural-network-detects-disease-biomarkers-in-real-time-372867"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+images:
+  - url: "https://assets.technologynetworks.com/production/dynamic/images/content/372867/neural-network-detects-disease-biomarkers-in-real-time-372867-640x360.jpg?cb=20230503"
+    width: 640
+    height: 360
+    isCached: true
 
 related:
   - title: "Deep neural network provides robust detection of disease biomarkers in real time"
@@ -29,6 +35,6 @@ related:
       domain: sciencedaily.com
     quality: 44
 
-secured: "kZqOlqSHbZ2juHI5TfTUmunU4z2p8nnizIypp1XR4oKd3MUyG78Uhwd+WMvQ492DLFJWw+EZfIDeqmiijZIZ7Ix/cjFGy87P9B8MxZx+XOXOGKp36P0jQR5HYVfLgvSqpfdolah/KZxS9ysd9iLXdvFoaZS3gh46TD/vwxulT/1VjyudnG0QbG7pkVnwCPSBipwx7mqDhzxSsQgiSQbHy13WnMNVhfRXfDPiQ4vAZ2vVG+AmAK5+/Af3h7sUJVa/PoAY3kJ+nJH5ChXKXTFfWjpSVH3EqlJzb3vO2gMlh9+61tSGiD3KOzHCCQ8kskYJJ/PxT8MrFnR5Poo5kpmqZtHJv8P14kYdEWs54yo/6tsix1XDvHy4imdjI/a4VSpIy68l6Lw4hT5ddz42ZF+JfBgYM53IaXf6jUXhIyVNxvkPh3XqktN7ijdnTmx/2OsRkloCgEHsQ+FWysGG62SapWEHsx9vJhsc0b78ihryvBhXDyWv510pIeAZmf4rT5LQC2CoSnwjIGUGvkbnQ1os6A==;q/pcfhS5+fBm2h752IpbQw=="
+secured: "eIEMg0SBRqxLiVA6h0WmJm6lg8j/gEf8IB0WSg0NLqDbLuYJeo9vJxJmMwTA/0KNuEHjs+YvcvzRRN33bxgLmyaViw2uMknfuS56JrWVEBLARgsXBxnxue4fIWvjfJF9Xy+xguzDcUmuvDqsrqaE1sPgOJlAqGL2sdLdXithquYNBqduVCXoWYYbG4Ky3kMxClrstMe6u96/KrR0R0lAkWv/xw0eh0kYXHG7+KlBWa15i/5k2AW3JKCEcL/GvdOn6fliS9mRl792a7Gp5KpWGmZo9HaqX87btawWgkBe80/40nMhQz+Tl335k3Cobe5JGPyz6H8DFtQudM/rCA4feLvBKQjGEZOxUkKjYH20pSI=;4yHPgNrJOqMWQr5/LhdBJw=="
 ---
 

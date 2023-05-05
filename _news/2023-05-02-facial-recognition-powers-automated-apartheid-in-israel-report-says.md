@@ -7,7 +7,7 @@ originalUrl: "https://www.nytimes.com/2023/05/01/technology/israel-palestine-fac
 webUrl: "https://www.nytimes.com/2023/05/01/technology/israel-palestine-facial-recognition.html"
 type: article
 quality: 69
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://menafn.com/updates/pr/2023-05/03/PNN_8501aimage_story.jpeg"
         width: 1000
         height: 800
+        isCached: true
+  - title: "“Automated Apartheid”: How Israel Uses Facial Recognition to Track Palestinians & Control Movement"
+    excerpt: "A new report by Amnesty International documents how the Israeli government is using an experimental facial recognition system to track Palestinians and control their movements. The findings are part of “Automated Apartheid,"
+    publishedDateTime: 2023-05-04T19:42:00Z
+    webUrl: "https://www.democracynow.org/2023/5/4/automated_apartheid_amnesty_report_israel_palestine"
+    type: article
+    provider:
+      name: Democracy Now
+      domain: democracynow.org
+    quality: 25
+    images:
+      - url: "https://www.democracynow.org/images/story/35/67235/full_hd/SEG1-AutomatedApartheid-1.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Facial recognition technology used by Israel to ‘supercharge segregation and automate apartheid,’ says Amnesty"
     excerpt: "ISRAEL is using an experimental facial recognition system to “” Amnesty International general secretary Agnes Callamard warns today. The liberal charity is publishing a new report, Automated Apartheid,"

@@ -2,26 +2,28 @@
 category: news
 title: "'Godfather of deep learning' quits Google to openly discuss dangers of AI"
 excerpt: "A Toronto professor considered to be a pioneer in the field of artificial intelligence announced his departure from Google on Monday so that he could openly discuss the “dangers of AI.”"
-publishedDateTime: 2023-05-01T18:43:00Z
-originalUrl: "https://www.iheartradio.ca/ctv-news-content/godfather-of-deep-learning-quits-google-to-openly-discuss-dangers-of-ai-1.19598278"
-webUrl: "https://www.iheartradio.ca/ctv-news-content/godfather-of-deep-learning-quits-google-to-openly-discuss-dangers-of-ai-1.19598278"
+publishedDateTime: 2023-05-01T18:19:00Z
+originalUrl: "https://www.cp24.com/news/godfather-of-deep-learning-quits-google-to-openly-discuss-dangers-of-ai-1.6378749"
+webUrl: "https://www.cp24.com/news/godfather-of-deep-learning-quits-google-to-openly-discuss-dangers-of-ai-1.6378749"
+ampWebUrl: "https://beta.cp24.com/news/2023/5/1/1_6378749.html"
+cdnAmpWebUrl: "https://beta-cp24-com.cdn.ampproject.org/c/s/beta.cp24.com/news/2023/5/1/1_6378749.html"
 type: article
-quality: 53
+quality: 73
 heat: -1
 published: false
 
 provider:
-  name: CKLW
-  domain: iheartradio.ca
+  name: CP24
+  domain: cp24.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2023/5/1/geoffrey-hinton-1-6378612-1682965272251.jpg"
-    width: 1020
-    height: 574
+  - url: "https://beta.ctvnews.ca/cp24/en/news/2023/5/1/1_6378749/_jcr_content/root/responsivegrid/image.coreimg.jpg"
+    width: 717
+    height: 403
     isCached: true
 
 related:
@@ -587,6 +589,6 @@ related:
       domain: euronews.com
     quality: 10
 
-secured: "HwQfKLD2jm4cUEwqhfceBy9/Rl7iP7qjw956Qg8lNCLJEaVV6OZid4VZLHDqqbs14RqjfO9U7N7z+AUQJ0/YkKv+PIDNnIHZTSSaYpQ7Z06NvG6dN4yjpssPRjlRIDvzxp3D6+EFLHNUmapsRa9y+ZAsA23fX3/wagYy81q4kJvVB5YukInpLCu0UA33LHW5KXMDlAVfwc4efj8vPVNK5KbJZw7RJHCah2osCrpEE+06MWps/S8KEU9OS8+d/qk8Sj2KyafYX9Pz39XRPvt3Dn/ZrOXwP1OolMDMTjZl7qsfD9ibr3rZDKT/5HqZCi0KVOTYiW9L/dq1f3MwSBC3xd19ljVb2mhvoGjH9mWjgJw=;EJF59wyYDsiN2jyJbOtBDQ=="
+secured: "28gvnRIxLF5mn00sVWdm09Bsb+BJCw9yNvrKw41O3Zgt6W4n3H7tq8ZyKjUy9xrIqlPj7l/59k7M2GimVLJvuInvfxfzLwb1b7cJoafV+x9mvrKCX3SLdCgvJPW+AjGwp7OOeD3HkqacDXQgu7MJraKgTMOmQpMLieG0jc45hqPQjREF11JT3yi1HBVpMdPfGGV915NmNr+h105jiExjAH71EQPiXUpI7nXvjuxaopqfVeT2c4/p3cfQgu72Xif83WP+f6cKYD+K1qCdkPyUFjOQlmSP9TgH7gvQluG2F0CGU5CjHaSim5cRhmoQk9JyeZ4YA3tuB4baqWytPmdNrHobcSDLFppIBTtjkXTG6oA=;7cyv77rTVLNkBETE9xbkxg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/lack-of-ai-and-automation-adoption-hinder
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/lack-of-ai-and-automation-adoption-hinders-employee-productivity-slack-report/amp/"
 type: article
 quality: 83
-heat: 85
+heat: 83
 published: true
 
 provider:

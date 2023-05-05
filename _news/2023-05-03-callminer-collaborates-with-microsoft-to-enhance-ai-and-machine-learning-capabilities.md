@@ -138,6 +138,20 @@ related:
         width: 1664
         height: 674
         isCached: true
+  - title: "Microsoft supporting AMD’s expansion into AI chips"
+    excerpt: "AI chips are in great demand after the explosion of chatbots like ChatGPT and other services based on the technology. Read more at straitstimes.com."
+    publishedDateTime: 2023-05-05T00:39:00Z
+    webUrl: "https://www.straitstimes.com/business/microsoft-supporting-amd-s-expansion-into-ai-chips"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 71
+    images:
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/05/05/AMDchip_0.jpg?VersionId=AUDD77HDTPyMiI01BqacA38q7_GqjsOr"
+        width: 860
+        height: 573
+        isCached: true
   - title: "Google and Microsoft Are Gaining on AWS: Here's Why Amazon Isn't Worried"
     excerpt: "Google Cloud and Microsoft's (NASDAQ: MSFT) Azure are gaining ground on Amazon (NASDAQ: AMZN) Web Services (AWS). Alphabet reported that Google Cloud revenue soared 28% year-over-year in the quarter ending March 31,"
     publishedDateTime: 2023-04-30T09:55:00Z

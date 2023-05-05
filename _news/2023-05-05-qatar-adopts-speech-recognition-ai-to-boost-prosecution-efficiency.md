@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1106180848/Qatar-Adopts-Speech-Recognition-AI-T
 webUrl: "https://menafn.com/1106180848/Qatar-Adopts-Speech-Recognition-AI-To-Boost-Prosecution-Efficiency"
 type: article
 quality: 54
-heat: 84
+heat: 85
 published: true
 
 provider:
@@ -58,6 +58,6 @@ related:
       domain: tmcnet.com
     quality: 3
 
-secured: "a6TBbP0LygGu0a2uzNwWXH1dvOdIqJxz9Bjt9YliVyWVefSCPix95+MextBhhqnDYrcXb9sO2VKNatIUef3JKVrlfE+dsSZZ5VfuThSiVu/7j47gVu/my1QOlBz9gaASPzqWHJdEqyV+FrDA7nAZ1lYGI7/Hm2RgmJXvgTxIJW0ZzokxlUjK53dR/GPDAsFtvdLa3akyyDxGX8aOkxj5ZrWawPjMg/c5/YlmDSYhEb7W1nHgyN2wBs8AZRUqfSrlhFmLSb4AGqp1NZWzdExQsLEem+DVFnocSB1sV8i3YgIcdbyBlaZhpE7UTdiJMGhLLjjj1GrbXvCg4IDF4V3UTdGYf+SZ+4fy9Rbr/Jsd7AI=;7NEXGQJwHh5KO9qYFzW3sw=="
+secured: "QX09DFphiavpoTkXBPlXNIJihbJwkxicvv1MxZCtH2sy3/jAWuX0ZKY4HHclDn9Y93D/5nfBNyMABASzsESonkpx0q9m2+FnAhAPK2uGFGKlncb86gVA+NAS7E++I0Q90g3g5S7qqPL5f/zh+tS6f3AcPFDpeSzzsAxQUEcP6RxTM0Q1bm5OoqpXEAZiuSubmlFR6TlN8rWAmCLJqMaWZjwAMOHp8Dd45MSgcbbqaAWrjQLoYVKWcO6ek9wRm7OXCSdCEraIoNTA5KmoJJplK3nsfEBAw3g3jEwcUuAirec1fIkvdtrW01tHCP2377lWDVqB3swhQepdrTUb3Fz9yHwP5OXGWNfEEflv9f5ccj6gyc7CgCj6uYo6h71OxMhTf04EYQfqjd5R0tS6D+BvmEyQWrRYt/8tYtU72CiLCcb65C+zYcntK3Gd2UQDdlqQM3dqKP2yWb8D/EM5yNlPT7VirJILpN3LZqO/Fail3JTHG9iT7IPQVl/JManx4PVnU0KKUwIMDwT84JLcjDo+2A==;6ydsrk1PiD3W2+IdUmDznA=="
 ---
 

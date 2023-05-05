@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2023/05/04/gpt-based-neural-network-dec
 webUrl: "https://www.gizmochina.com/2023/05/04/gpt-based-neural-network-decodes-brain/"
 type: article
 quality: 84
-heat: 86
+heat: 84
 published: true
 
 provider:

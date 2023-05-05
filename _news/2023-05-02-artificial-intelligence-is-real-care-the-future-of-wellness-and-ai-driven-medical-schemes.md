@@ -41,6 +41,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The Future Of Communication In The Age Of Artificial Intelligence"
+    excerpt: "Are you ready to future-proof your career? Discover how to blend your unique human skills with AI and stay ahead of the game. Don't risk being left behind and losing your job - read on to find out how to stay relevant in a rapidly evolving workforce,"
+    publishedDateTime: 2023-05-04T23:14:00Z
+    webUrl: "https://www.forbes.com/sites/kwamechristian/2023/05/04/the-future-of-communication-in-the-age-of-artificial-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/kwamechristian/2023/05/04/the-future-of-communication-in-the-age-of-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kwamechristian/2023/05/04/the-future-of-communication-in-the-age-of-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/645437c77701f76c839c02fc/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 685
+        isCached: true
 
 secured: "s2FcGZrQ7DznXrSoMIpzOF1dnxOR5gWfQ+I6QhL1nQeKQEmvnKMfOgAb4idI8qply2/yshzNIUGyIRXpnEHiu68iZIQdqS26EEiKjQ4YYaR76SN9joP14voRawxqBWcg9fm60J8QN4Wm3Jp+oE+R71b2tnBJgSa3d3uyedgxieBd6bTPpgxmrlQsM3nrMPKFYapLv62AIx0SPH2xpRyuw5rV+BHG5tYfD/2sCIcphrLP0fPjU8XyQdTGV+qGOZLGYPhS6UAIJG+Yt/vewYZBGklL88xLkbXkqmqfE7gVTG4iVeJAPmK8ukxbXtJHgXwC99wQd2/I3f/qB1s//xvEebC3B6Pb5PnnXekYJ+xgAnQKlnYJKph65hDgEvtjoNZhY/qpkWKlLy6pEuQFMfbhU0gnb2CWxiU32MfxPoXZU73FUeybpbajgN9g+qC4fL4a3CwKyJI0iPJXJZpq872j28KYO1orYCHleTN/98Gt4qT4s9SsDHuIHuFnoOvb2SxTD934gu9Nr0trh49/wCWmPw==;apsNYyIJGsdIMZnDPeWBzg=="
 ---

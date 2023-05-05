@@ -2,6 +2,109 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-05-02-ai-pioneer-quits-google-to-warn-about-dangers.md",
+      "title": "AI pioneer quits Google to warn about dangers",
+      "excerpt": "An AI-generated song copied the Weeknd and Drake's voice. Who gets paid? School changes reading program after realizing students 'weren't actually learning to read'",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/videos/world/2023/05/02/exp-ai-dangers-anna-stewart-reports-fst-050210aseg1-cnni-world.cnn",
+      "originalUrl": "https://www.cnn.com/videos/world/2023/05/02/exp-ai-dangers-anna-stewart-reports-fst-050210aseg1-cnni-world.cnn",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/230502121138-exp-ai-dangers-anna-stewart-reports-fst-050210aseg1-cnni-world-00002001-super-tease.png",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/world/2023/05/02/exp-ai-dangers-anna-stewart-reports-fst-050210aseg1-cnni-world.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/world/2023/05/02/exp-ai-dangers-anna-stewart-reports-fst-050210aseg1-cnni-world.cnn",
+      "publishedDateTime": "2023-05-02T09:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-02-microsofts-work-trend-index-employee-engagement-pays-off-in-productivity-stock-price.md",
+      "title": "Microsoft’s Work Trend Index: Employee engagement pays off in productivity, stock price",
+      "excerpt": "This Microsoft Work Trend research report details the benefits of using a feedback flywheel to keep employees engaged.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/microsoft-work-trend-index-employee-engagement/",
+      "originalUrl": "https://www.techrepublic.com/article/microsoft-work-trend-index-employee-engagement/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2023/05/microsoft-gef15b3e66_1280.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/article/microsoft-work-trend-index-employee-engagement/amp/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/microsoft-work-trend-index-employee-engagement/amp/",
+      "publishedDateTime": "2023-05-02T09:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-02-sap-to-embed-ibm-watson-ai-into-sap-solutions.md",
       "title": "SAP to Embed IBM Watson AI into SAP Solutions",
       "excerpt": "SAP will use IBM Watson capabilities to power its digital assistant in SAP Start, which provides a unified entry point for cloud solutions from SAP. With SAP Start, users can search for, launch and interactively engage with apps provided in cloud solutions from SAP and SAP S/4HANA Cloud.",
@@ -1142,110 +1245,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-facial-recognition-powers-automated-apartheid-in-israel-report-says.md",
-      "title": "Facial Recognition Powers ‘Automated Apartheid’ in Israel, Report Says",
-      "excerpt": "The Israeli government is using computer vision to monitor Palestinian travel across checkpoints, according to the report.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/05/01/technology/israel-palestine-facial-recognition.html",
-      "originalUrl": "https://www.nytimes.com/2023/05/01/technology/israel-palestine-facial-recognition.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/05/02/multimedia/01JPisrael-surveil-1-print-wkzg/01israel-surveil-01-wkzg-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-01T16:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-ai-plus-mri-yields-the-ability-to-recognize-what-the-mind-is-hearing.md",
-      "title": "AI plus MRI yields the ability to recognize what the mind is hearing",
-      "excerpt": "Combined with a detailed knowledge of which regions of the brain are involved in specific processes, we've been able to do remarkable things, such as using functional MRI (fMRI) to determine what letter a person was looking at or an implant to control a robotic arm But today,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/science/2023/05/ai-plus-mri-yields-the-ability-to-recognize-what-the-mind-is-hearing/",
-      "originalUrl": "https://arstechnica.com/science/2023/05/ai-plus-mri-yields-the-ability-to-recognize-what-the-mind-is-hearing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/GettyImages-172591385-e1682975888203-800x716.jpg",
-          "width": 800,
-          "height": 716,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/science/2023/05/ai-plus-mri-yields-the-ability-to-recognize-what-the-mind-is-hearing/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/science/2023/05/ai-plus-mri-yields-the-ability-to-recognize-what-the-mind-is-hearing/amp/",
-      "publishedDateTime": "2023-05-01T14:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -824,58 +824,6 @@
       ]
     },
     {
-      "path": "_news/2023-04-28-what-are-the-dangers-of-ai-find-out-why-people-are-afraid-of-artificial-intelligence.md",
-      "title": "What are the dangers of AI? Find out why people are afraid of artificial intelligence",
-      "excerpt": "Many experts worry that the rapid development of artificial intelligence may have unforeseen disastrous consequences for humanity. Machine learning technology is designed to assist humans in their ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/what-dangers-find-out-why-people-afraid-artificial-intelligence",
-      "originalUrl": "https://www.foxnews.com/tech/what-dangers-find-out-why-people-afraid-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9173ff0e-731a-4938-8d98-838e96cab4aa/8c3c171d-0b0c-4650-a5c1-bb79bf268d11/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/what-dangers-find-out-why-people-afraid-artificial-intelligence.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/what-dangers-find-out-why-people-afraid-artificial-intelligence.amp",
-      "publishedDateTime": "2023-04-28T06:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-27-teslas-price-cuts-slow-a-rival-in-the-race-to-deliver-self-driving-tech.md",
       "title": "Tesla’s Price Cuts Slow a Rival in the Race to Deliver Self-Driving Tech",
       "excerpt": "Tesla started cutting prices in China. That same week, shares of rival self-driving technology provider Mobileye surged on their first day of trading following a hotly anticipated IPO. Now Tesla’s pri",
@@ -1383,6 +1331,58 @@
         "name": "City A.M.",
         "domain": "cityam.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-26-artificial-intelligence-software-market-share-and-forecast-till-2030.md",
+      "title": "Artificial Intelligence Software Market Share and Forecast till 2030",
+      "excerpt": "Apr 25, 2023 (The Expresswire) -- \"Artificial Intelligence Software Market\" Insights 2023 By Applications (On-Premise, Cloud-based), By Types (Voice Processing, Text Processing, Image Processing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-software-market-share-and-forecast-till-2030-2023-04-25",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-software-market-share-and-forecast-till-2030-2023-04-25",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-26T02:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

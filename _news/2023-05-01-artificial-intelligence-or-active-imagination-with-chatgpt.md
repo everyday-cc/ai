@@ -316,6 +316,20 @@ related:
         width: 620
         height: 349
         isCached: true
+  - title: "Screenwriters take aim at artificial intelligence, ChatGPT"
+    excerpt: "Not six months since the release of ChatGPT, generative artificial intelligence is already prompting widespread unease throughout Hollywood. Concern over chatbots writing or rewriting scripts is one of the reasons TV and film screenwriters took to picket lines earlier this week."
+    publishedDateTime: 2023-05-05T01:45:00Z
+    webUrl: "https://www.usatoday.com/videos/entertainment/2023/05/05/screenwriters-take-aim-artificial-intelligence-chatgpt/11799655002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 52
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/04465331-5204-49cb-8f02-71d5ec64e61c_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Gartner: ChatGPT interest boosts generative AI investments"
     excerpt: "The new Gartner poll also found that most executives believe that the benefits of generative AI outweigh the risks."
     publishedDateTime: 2023-05-03T11:34:00Z
@@ -486,6 +500,20 @@ related:
       - url: "https://techstory.in/wp-content/uploads/2023/05/bitcoin-3137984_960_720-360x240.jpg"
         width: 360
         height: 240
+        isCached: true
+  - title: "Tim Cook Responds to Rise of ChatGPT, Says AI's Potential is 'Very Interesting'"
+    excerpt: "Apple CEO Tim Cook today provided some commentary surrounding artificial intelligence amid the surging popularity of ChatGPT and other chatbots."
+    publishedDateTime: 2023-05-04T22:19:00Z
+    webUrl: "https://www.macrumors.com/2023/05/04/tim-cook-says-ai-potential-is-very-interesting/"
+    type: article
+    provider:
+      name: MacRumors
+      domain: macrumors.com
+    quality: 33
+    images:
+      - url: "https://images.macrumors.com/t/pzKIprG8tHcRzLmSJb7EVvATZPs=/1600x/article-new/2023/05/Tim-Cook-WWDC-Stage.jpeg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "'ChatGPT is the new crypto': Meta warns hackers are exploiting interest in the AI chatbot"
     excerpt: "Hackers have seized on worldwide interest in the artificial intelligence-powered tool ChatGPT in an effort to break into people's devices, Facebook owner Meta revealed ... to provide AI functionality.\" \"Our research and that of security researchers has ..."

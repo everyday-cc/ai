@@ -43,36 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Computer Vision Market 2023-2030 (New Report) Intelligence Study is A Useful Resource for Both New and Seasoned Players"
-    excerpt: "To know How COVID-19 and Russia-Ukraine War Influence Will Impact This Market/Industry - Request a sample copy of the report-:  In This Reports Computer Vision Market Segment by Type ( Hardware, Software) and Segment by Application ( Face Recognition,"
-    publishedDateTime: 2023-05-03T04:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2023-2030-new-report-intelligence-study-is-a-useful-resource-for-both-new-and-seasoned-players-2023-05-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Voice User Interface Global Market Report 2023: Rising use of Artificial Intelligence Drives Growth"
-    excerpt: "The \"Voice User Interface Global Market Report 2023\" report has been added to ResearchAndMarkets.com's offering. This report provides strategists, marketers and senior"
-    publishedDateTime: 2023-05-02T21:16:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/05/n32175548/voice-user-interface-global-market-report-2023-rising-use-of-artificial-intelligence-drives-growth"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32175548"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32175548"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 45
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "(CAGR of 25.7%) Global Speech and Voice Recognition Market Analysis, Key Segments, Share, Size, Growth Status, and Forecast 2023 to 2031"
     excerpt: "Global speech and voice recognition is expected to reach USD 6,770.21 Million by 2025 from USD 1,095.00 Million in 2017, at a CAGR of 25.7% in the forecast period 2018 to 2025. The major factors driving the growth of this market are the effective integration due to increased demand for voice and speech-based biometric systems,"
     publishedDateTime: 2023-05-03T10:25:00Z
@@ -96,15 +66,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 19
-  - title: "2023-2029 Biometric Voice Recognition Market Sale, Growing Opportunities and Countries Analysis| Report Reviewed by Experts"
-    excerpt: "The global \"Biometric Voice Recognition Market\" research report for 2023 provides a comprehensive analysis of the industry. It includes an in-depth segmentation based on regional factors, product types, applications, and key manufacturers. The report ..."
-    publishedDateTime: 2023-05-04T17:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-2029-biometric-voice-recognition-market-sale-growing-opportunities-and-countries-analysis-report-reviewed-by-experts-2023-05-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 8
 
 secured: "+UyNUbkNZ6NvHzXG+4yTWDd0weFnTxDAcRKMCORhQANCGOdRo15MOk+BCct5+JlxLGzKYI9Ufzyo6ZudvpbgZrpNE7Iws+4WdXjxnN57lScaAaMqWAMXebhS8WbkgJq7KBLwLQjtX1qC7guru75t8yX6pNpJ2495rJGWQzDkWs8wV/H6v0T4LQ4v2f/KBmv7dxECpa7vrFfd7HQA9JPm64Wby0dFQ0OtIK84V5JzNvJHkBWNxl5K5lgAlTenvlMHwR+gDwDg4oRnMApnOim6zJFeqOpYzxMy8z1wt0M0v1x6PSlXcEBJVpi18uTcFsNbgG0un8hMALjBq1tUdrQimIzT8ofLN2pI0Ev1OnQWczs=;8UxKBhCIURXWg9+gChpKnw=="
 ---

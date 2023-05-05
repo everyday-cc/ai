@@ -52,29 +52,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Robotic Cleaning Machines Market Size, Trends, Scope and Industry Demands Analysis 2023 – 2029"
-    excerpt: "The Global \" Robotic Cleaning Machines Market \" Research report give detailed information with reference to market size, share, trends, growth, cost revenue, capacity, and forecast till 2029. This report also contains the general and in-depth study of the Robotic Cleaning Machines market with all its aspects influencing the growth of the market."
-    publishedDateTime: 2023-05-03T10:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/robotic-cleaning-machines-market-size-trends-scope-and-industry-demands-analysis-2023-2029-2023-05-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Self-driving Bus Market Share, Size, Financial Summaries Analysis from 2023 to 2028"
-    excerpt: "Self-driving Bus report provides a detailed analysis of regional and country-level market size, segmentation market growth, market share, competitive Landscape, sales analysis, impact of domestic. The self-driving bus market has witnessed exponential growth in recent years due to the increasing demand for autonomous vehicles and the growing need for efficient and safe public transportation."
-    publishedDateTime: 2023-05-04T06:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-bus-market-share-size-financial-summaries-analysis-from-2023-to-2028-2023-05-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 28
 
 secured: "uATvqAJ5Syc6b5iWNnhAUuYd3jw3renLwIdNOVOTWrHToPDmQc2a3nbt9+2+oV0M2448QN4LqidAw8hR7dWo+GFl06bZb9zZBmVTM84jfvQMcHDpb7MtO5etQ+8BINkJbG0QSHWgDKpHC4Weurm1goU2iYXZC1t1aN8BZJolXgaGe0jSlTID2tkw1BtlZwVer3PWpJ9b6oybFd0gwinIWYiI2NJA48e+vQTd0lBFIvIz++pLnX2kVoGxWUrIkMP3dLC7RL1R0XLnY0xhA7AMPJDaCPs+L4dykDEt6CBqzHi+Rzml3jKs5z1Je2IMrgjbmiQr/IeJFz/tFlGv+z9l3XrK2pK183m3Ej8VcgvHBcw=;hQ1Iz2BhAaZsPUYQ4kDXyw=="
 ---
