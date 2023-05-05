@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "ChatGPT and Generative AI Around the World: Maturity, Opportunities, and Hurdles in Key Regions"
+    excerpt: "ChatGPT has received a lot of press since its November 2022 launch. But while interest in the tool is high, its use is not yet universal."
+    publishedDateTime: 2023-05-05T17:00:00Z
+    webUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-around-the-world-opportunities-key-hurdles-2023-may"
+    ampWebUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-around-the-world-opportunities-key-hurdles-2023-may?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-and-generative-ai-around-the-world-opportunities-key-hurdles-2023-may?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 75
+    images:
+      - url: "https://i.insider.com/6441b16a3f6f690018debe44?width=1200&format=jpeg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Pandora’s Box: Generative AI Companies, ChatGPT, and Human Rights"
     excerpt: "ChatGPT and generative artificial intelligence (AI) are dominating headlines and conversations. But what’s behind this technology? Who feeds it data and decides where the data comes from? What does this have to do with human rights?"
     publishedDateTime: 2023-05-03T04:00:00Z

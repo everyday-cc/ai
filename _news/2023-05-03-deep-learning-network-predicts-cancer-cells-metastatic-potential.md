@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Deep Learning Network Predicts Cancer Cells’ Metastatic Potential"
-excerpt: "In APL Machine Learning, by AIP Publishing, researchers from Texas Tech University developed a deep learning model to classify cancer cells by type. The tool requires only a simple microscope and a small amount of computing power, producing results on par ..."
-publishedDateTime: 2023-05-03T08:56:00Z
-originalUrl: "https://www.technologynetworks.com/tn/news/deep-learning-network-predicts-cancer-cells-metastatic-potential-372869"
-webUrl: "https://www.technologynetworks.com/tn/news/deep-learning-network-predicts-cancer-cells-metastatic-potential-372869"
+excerpt: "Cancer cells that initiate metastasis, or the spread of the disease from its primary location, are different from cancer cells that stay in the original tumor."
+publishedDateTime: 2023-05-03T08:45:00Z
+originalUrl: "https://www.technologynetworks.com/cancer-research/news/deep-learning-network-predicts-cancer-cells-metastatic-potential-372869"
+webUrl: "https://www.technologynetworks.com/cancer-research/news/deep-learning-network-predicts-cancer-cells-metastatic-potential-372869"
 type: article
 quality: 39
 heat: 39
@@ -39,16 +39,7 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Deep Learning Model Classifies Cancer Cells by Type"
-    excerpt: "The team’s neural network is also simple to use, efficient, and automated. After feeding it an image, the tool converts the data to a probability. A result lower than 0.5 categorizes the cancer as one cell type, while a number higher than 0.5 designates another."
-    publishedDateTime: 2023-05-04T12:00:00Z
-    webUrl: "https://www.genengnews.com/topics/cancer/deep-learning-model-classifies-cancer-cells-by-type/"
-    type: article
-    provider:
-      name: GEN
-      domain: genengnews.com
-    quality: 19
 
-secured: "mFL39Fy8Epi8mnfpEQ25mwYyrWjgtvCDanSKvwAvDr2zXBmzAAPwYYozuIknq+5O5d5ZRLIl+Y2xD+10IouHj0t9R2x5eF+j2dY+uqnSsVCr4Eqd6ZEcKf6r1g/8GolZB88/zah93tQol3IWrD7+WmcHQvCxdossZhcehe7zp9JY7IQGqFZTIH7zcZUBqA5Db7trtOvVxFT+tK2AxH8Zro9Hx6uq830A8zBdbYNFm8JJkAbhQxOnIbDYnG4zigebL0cgdNVYEhgCIIDhk90FI3qKUPP5NGaTOPvrwfM7Ru38EZXZNkD0brM7hEqh5QC6EtAjkvZfvOZPuKMNmaCEsruWQVXEd++T/tR/qQ41g7WQmzTxVxKHcH0By8mn5hJ6WOtClp3Ja/OqYI+obvm8Dvm74kwoJBZX9Q2pYast7ZSS7rV2FdeY1+ZDvq/UtxtdIO3zXdcbsvMm03B0VtR/MwIupD1pwIr1vwENwmzAE9InVTmk5ufv7MxoG+M3yAZe9QzkOj/1u687UKKcm6TMUw==;nYe2Az+J8SKpP6SVzdyWTQ=="
+secured: "iJngao3wcTdezoKH705Y8xVvEiFzfOhaGAIcwlMXSzrmAxZujjMRp55RJ8WdOBmLFSJXAv+c7AiKJMBlzCL8T8XLgp3NJz1iYk7Dj0u6r8nUKJmYane8ORNihNqUI4GlXdywei0JQnH3HCsPsLB0iiBPM+jMkuNDJlgppC3Iy+glW4FuATFkA2p2U62coKDLzFNGFNu8lLvKdXiCw3seLDAITz4zHwF69nIgUvkH0Ja+ox7EZhsmoNJDGr6/mAU2NyTHK5YsO+kqEzCTcE4J3h15EZ9un8Wmb2qxnArk/sJCoZJHfvfJ6l6pTawcCYionupgj3abcmeDjaw/f0feHxnIVQQBdkWDno6x9I9/np4=;aHCCCyoYcw31Zs5cKwm59Q=="
 ---
 

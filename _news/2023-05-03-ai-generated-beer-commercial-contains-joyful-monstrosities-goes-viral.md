@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/05/ai-generated-
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/05/ai-generated-beer-commercial-contains-joyful-monstrosities-goes-viral/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial neurons mimic complex brain abilities for next-generation AI computing"
+    excerpt: "Researchers have created atomically thin artificial neurons capable of processing both light and electric signals for computing. The material enables the simultaneous existence of separate feedforward and feedback paths within a neural network,"
+    publishedDateTime: 2023-05-05T17:05:00Z
+    webUrl: "https://techxplore.com/news/2023-05-artificial-neurons-mimic-complex-brain.html"
+    ampWebUrl: "https://techxplore.com/news/2023-05-artificial-neurons-mimic-complex-brain.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-05-artificial-neurons-mimic-complex-brain.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 54
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/artificial-neurons-mim.jpg"
+        width: 1500
+        height: 564
+        isCached: true
   - title: "7 of the Weirdest AI-Generated Commercials...So Far"
     excerpt: "A fictitious pizza chain, Heinz Ketchup, and the Republican party have all been experimenting with artificial intelligence lately."
     publishedDateTime: 2023-05-03T19:49:00Z

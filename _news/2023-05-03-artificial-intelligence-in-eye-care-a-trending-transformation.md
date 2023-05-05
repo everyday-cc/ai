@@ -41,6 +41,22 @@ related:
         width: 1024
         height: 1024
         isCached: true
+  - title: "AI ‘could be as transformative as industrial revolution’"
+    excerpt: "UK’s outgoing chief scientist urges ministers to ‘get ahead’ of profound social and economic changes"
+    publishedDateTime: 2023-05-03T14:29:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/may/03/ai-could-be-as-transformative-as-industrial-revolution-patrick-vallance"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/03/ai-could-be-as-transformative-as-industrial-revolution-patrick-vallance"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/03/ai-could-be-as-transformative-as-industrial-revolution-patrick-vallance"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/a6eaef833556b81337c95f6e88a34a1b44407791/0_300_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=6c607e1e58ea849496f7dd45d0c4493e"
+        width: 620
+        height: 372
+        isCached: true
   - title: "MotionPoint Releases Adaptive Translation™: Proprietary AI to Reduce the Cost of Quality Translation"
     excerpt: "MotionPoint introduces Adaptive Translation™ technology to reduce human translation costs without sacrificing quality."
     publishedDateTime: 2023-05-03T11:00:00Z

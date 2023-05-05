@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden administration takes action to promote responsible AI innovation"
+    excerpt: "The Biden administration pushes responsible AI with R&D investment, policymaking, and assessments of current generative AI systems."
+    publishedDateTime: 2023-05-05T17:49:00Z
+    webUrl: "https://venturebeat.com/ai/biden-administration-takes-action-to-promote-responsible-ai-innovation/"
+    ampWebUrl: "https://venturebeat.com/ai/biden-administration-takes-action-to-promote-responsible-ai-innovation/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/biden-administration-takes-action-to-promote-responsible-ai-innovation/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/04/annevb_chatbots_and_AI_everywhere_all_at_once_-_tech_colorful_e_beb92de9-8091-4437-9e29-d568ea8d4b74.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Aisera Collaborates with Microsoft to Provide AI Enterprise Service Experiences with ChatGPT and Generative AI"
     excerpt: "Aisera Collaborates with Microsoft to Provide AI Enterprise Service Experiences with ChatGPT and Generative AI May 03, 2023 (PRNewswire via COMTEX) --"
     publishedDateTime: 2023-05-03T12:01:00Z

@@ -2,6 +2,58 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2023-04-17-elon-musk-and-ai-leaders-call-for-gpt-4-to-pause-is-it-about-managing-risks-or-catching-up-in-the-ai-race.md",
+      "title": "Elon Musk And AI Leaders Call For GPT-4 To Pause: Is It About Managing Risks Or Catching Up In The AI Race?",
+      "excerpt": "Many of the people who signed the Pause letter have invested in AI. The pause will not manage the risks, but give AI investors time to catch up on the AI arms race. Instead of pausing, we need better regulation of AI based on the leadership principles of transparency and inclusion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/timabansal/2023/04/17/elon-musk-and-ai-leaders-call-for-gpt-4-to-pause-is-it-about-managing-risks-or-catching-up-in-the-ai-race/",
+      "originalUrl": "https://www.forbes.com/sites/timabansal/2023/04/17/elon-musk-and-ai-leaders-call-for-gpt-4-to-pause-is-it-about-managing-risks-or-catching-up-in-the-ai-race/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/643c2f6670dc16b795fe5714/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/timabansal/2023/04/17/elon-musk-and-ai-leaders-call-for-gpt-4-to-pause-is-it-about-managing-risks-or-catching-up-in-the-ai-race/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timabansal/2023/04/17/elon-musk-and-ai-leaders-call-for-gpt-4-to-pause-is-it-about-managing-risks-or-catching-up-in-the-ai-race/amp/",
+      "publishedDateTime": "2023-04-17T03:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-17-deep-learning-robotics-dlrob-announces-support-for-universal-robots-devices-in-its-ai-powered-robotics-software.md",
       "title": "Deep Learning Robotics (DLRob) Announces Support for Universal Robots devices in its AI-powered Robotics Software",
       "excerpt": "Deep Learning Robotics (DLRob), a leading provider of AI robotics software, has announced its support for new hardware devices in its latest software update. The new",
@@ -788,6 +840,40 @@
       ]
     },
     {
+      "path": "_news/2023-04-17-profit-from-the-artificial-intelligence-boom-with-these-7-ai-etfs.md",
+      "title": "Profit from the Artificial Intelligence Boom with These 7 AI ETFs",
+      "excerpt": "The artificial intelligence revolution is already ... such as advanced machinery, autonomous systems/self-driving vehicles, semiconductors, and databases used for machine learning; An engager ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/profit-from-the-artificial-intelligence-boom-with-these-7-ai-etfs",
+      "originalUrl": "https://www.nasdaq.com/articles/profit-from-the-artificial-intelligence-boom-with-these-7-ai-etfs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-16T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-17-is-artificial-intelligence-advancing-too-quickly-what-ai-leaders-at-google-say.md",
       "title": "Is artificial intelligence advancing too quickly? What AI leaders at Google say",
       "excerpt": "The soccer robots, for example, can't write up a grocery list or book your travel or drive your car. The ultimate goal is what's called artificial general intelligence-- a learning machine that can score on a wide range of talents. Scott Pelley ...",
@@ -1106,108 +1192,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-16-algorithms-auditing-algorithms-gpt-4-a-reminder-that-responsible-ai-is-moving-beyond-human-scale.md",
-      "title": "Algorithms auditing algorithms: GPT-4 a reminder that responsible AI is moving beyond human scale",
-      "excerpt": "Responsible AI is the foundation for accurate, effective and trustworthy AI systems, addressing bias, ensuring transparency and more.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/algorithms-auditing-algorithms-gpt-4-responsible-ai-beyond-human-scale/",
-      "originalUrl": "https://venturebeat.com/ai/algorithms-auditing-algorithms-gpt-4-responsible-ai-beyond-human-scale/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/04/annevb_artificial_intelligence_monitoring_artificial_intelligen_e0903052-c092-4cd0-bae3-0dade58f600f.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/algorithms-auditing-algorithms-gpt-4-responsible-ai-beyond-human-scale/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/algorithms-auditing-algorithms-gpt-4-responsible-ai-beyond-human-scale/amp/",
-      "publishedDateTime": "2023-04-16T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-16-australian-universities-split-on-using-new-tool-to-detect-ai-plagiarism.md",
-      "title": "Australian universities split on using new tool to detect AI plagiarism",
-      "excerpt": "Turnitin claims its device is 98% accurate but some institutions are concerned about not having enough time to make a decision",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/australia-news/2023/apr/16/australian-universities-split-on-using-new-tool-to-detect-ai-plagiarism",
-      "originalUrl": "https://www.theguardian.com/australia-news/2023/apr/16/australian-universities-split-on-using-new-tool-to-detect-ai-plagiarism",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/e5fccb4a3288b0d7fdba8b10f53196cdade5fdb4/0_456_8192_4918/master/8192.jpg?width=620&quality=85&auto=format&fit=max&s=4fad7490e8f106ce527c5ee67fbcdb73",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/australia-news/2023/apr/16/australian-universities-split-on-using-new-tool-to-detect-ai-plagiarism",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/apr/16/australian-universities-split-on-using-new-tool-to-detect-ai-plagiarism",
-      "publishedDateTime": "2023-04-16T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

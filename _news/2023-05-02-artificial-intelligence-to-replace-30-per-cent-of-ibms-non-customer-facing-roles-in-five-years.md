@@ -218,6 +218,17 @@ related:
         width: 1024
         height: 539
         isCached: true
+  - title: "IBM Plans To Replace Nearly 8,000 Jobs With AI — These Jobs Are First to Go"
+    excerpt: "IBM CEO Arvind Krishna announced a hiring pause, but that’s not all. He also stated the company plans to replace nearly 8,000 jobs with AI.  Krishna noted that back-office functions, specifically in the human resources (HR) sector,"
+    publishedDateTime: 2023-05-05T15:40:00Z
+    webUrl: "https://www.benzinga.com/startups/23/05/32242532/ibm-plans-to-replace-nearly-8-000-jobs-with-ai-these-jobs-are-first-to-go-startup"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32242532"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32242532"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 37
   - title: "IBM pauses hiring, plans to replace 7800 jobs with AI"
     excerpt: "IBM chief Arvind Krishna mentioned back-office roles, including human resources, which currently consist of approximately 26,000 workers. IBM pauses hiring, plans to replace 7800 jobs with AI. AI, Artificial Intelligence,"
     publishedDateTime: 2023-05-02T06:42:00Z

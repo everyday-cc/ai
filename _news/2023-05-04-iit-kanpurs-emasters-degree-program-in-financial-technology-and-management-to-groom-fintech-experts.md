@@ -135,20 +135,6 @@ related:
         height: 367
         isCached: true
   - title: "OPTASIA RANKS THIRD AMONG TOP FINTECH COMPANIES ACCORDING TO FORBES MIDDLE EAST MAGAZINE"
-    excerpt: "Optasia, the leading Fintech services provider received one more top recognition, ranking third among the Top 30 Fintech companies in Middle East, by the world acclaimed Forbes Magazine in its Middle East edition."
-    publishedDateTime: 2023-04-30T23:59:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-optasia-ranks-third-among-top-fintech-companies-according-/2023/05/01/9805180.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 15
-    images:
-      - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
-        width: 550
-        height: 353
-        isCached: true
-  - title: "OPTASIA RANKS THIRD AMONG TOP FINTECH COMPANIES ACCORDING TO FORBES MIDDLE EAST MAGAZINE"
     excerpt: "Optasia, the leading Fintech services provider received one more top recognition, ranking third among the Top 30 Fintech companies"
     publishedDateTime: 2023-05-02T03:01:00Z
     webUrl: "https://www.asiaone.com/business/optasia-ranks-third-among-top-fintech-companies-according-forbes-middle-east-magazine"

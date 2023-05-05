@@ -24,6 +24,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Spanish pop star C. Tangana: 'All I ever wanted was artistic recognition. Now I have it'"
+    excerpt: "Onetime rapper Antón Álvarez Alfaro dramatically revamped his musical palette for 2021's global hit 'El Madrileño.' Next? A reissue of a classic trap mixtape."
+    publishedDateTime: 2023-05-05T17:10:00Z
+    webUrl: "https://www.aol.com/news/spanish-pop-star-c-tangana-130047421.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 15
+    images:
+      - url: "https://media.zenfs.com/en/aol_la_times_articles_830/a0ed2584f63c9bdadd5084b89f5b42ef"
+        width: 840
+        height: 560
+        isCached: true
+
 secured: "mZqBzi7RjutJdxxsQTb57fEn9PJZy7ULAE87iLLR2TY1LhdtsS/e0muNTE27k3/DPTAtcsWcJKLZkUHTNZB5DjFkULQ3MnU4WaADmENmdzs+UqCRYY3772iZbiECXKTO4zOI6txo0aRBbBAfTSemKka3Pqu7SlBd15OQQWxQEolfA7ApVqM1ipWcBvtRa7uiMdQ1JSAycBFSTqLvrseLqV6b/71UqBbP1aF5isa1KZfdTYsLxIBfA66CD9DvC8C5+2Fr2lqe+76cc7SQTBpDb+SvywQWtdZClYOZfHPMob9cO3anXRWUjiYK1H8jNsOEy/UiiX5fGqTzHnmoJqCzuPAqbpJsicddeV8EDnttYT8=;e3WN26Y2InJcBlF9Jka7AQ=="
 ---
 

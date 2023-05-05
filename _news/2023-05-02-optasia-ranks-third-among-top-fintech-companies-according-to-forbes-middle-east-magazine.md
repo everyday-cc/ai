@@ -134,20 +134,6 @@ related:
         width: 1000
         height: 367
         isCached: true
-  - title: "OPTASIA RANKS THIRD AMONG TOP FINTECH COMPANIES ACCORDING TO FORBES MIDDLE EAST MAGAZINE"
-    excerpt: "Optasia, the leading Fintech services provider received one more top recognition, ranking third among the Top 30 Fintech companies in Middle East, by the world acclaimed Forbes Magazine in its Middle East edition."
-    publishedDateTime: 2023-04-30T23:59:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-optasia-ranks-third-among-top-fintech-companies-according-/2023/05/01/9805180.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 15
-    images:
-      - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
-        width: 550
-        height: 353
-        isCached: true
   - title: "IIT Kanpur's eMasters degree program in Financial Technology and Management to groom FinTech experts"
     excerpt: "Some estimates suggest that the global FinTech market is expected to reach a market value of approximately $324 billion by 2026. Another recent report suggests that India's digital payments market is expected to triple from $3 trillion to $10 trillion by 2026,"
     publishedDateTime: 2023-05-04T07:32:00Z

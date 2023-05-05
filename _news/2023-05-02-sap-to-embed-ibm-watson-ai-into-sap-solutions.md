@@ -7,8 +7,8 @@ originalUrl: "https://www.datanami.com/this-just-in/sap-to-embed-ibm-watson-ai-i
 webUrl: "https://www.datanami.com/this-just-in/sap-to-embed-ibm-watson-ai-into-sap-solutions/"
 type: article
 quality: 54
-heat: 104
-published: true
+heat: -1
+published: false
 
 provider:
   name: datanami.com
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "SAP to Embed IBM Watson Artificial Intelligence into SAP® Solutions"
+    excerpt: "SAP to Embed IBM Watson Artificial Intelligence into SAP® Solutions May 02, 2023 (PRNewswire via COMTEX) -- PR Newswire WALLDORF, Germany and ARMONK,"
+    publishedDateTime: 2023-05-02T13:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions-2023-05-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "SAP adds more AI smarts to its enterprise resource planning software with IBM Watson"
     excerpt: "Software giant SAP SE said today it’s expanding its long-running partnership with IBM Corp. to embed IBM Watson artificial intelligence smarts into its wide range of enterprise resource planning systems."
     publishedDateTime: 2023-05-02T13:00:00Z

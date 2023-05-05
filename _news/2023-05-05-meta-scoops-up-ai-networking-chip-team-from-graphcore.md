@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Meta hires AI team of UK chip unicorn Graphcore"
+    excerpt: "Meta has hired UK chip unicorn Graphcore's Oslo-based team that was working on AI networking technology till late last year. The chip startup shuttered its Oslo office as part of its restructuring plans announced in October 2022,"
+    publishedDateTime: 2023-05-05T16:24:00Z
+    webUrl: "https://inshorts.com/en/news/meta-hires-ai-team-of-uk-chip-unicorn-graphcore-1683303868650"
+    ampWebUrl: "https://inshorts.com/m/en/amp_news/meta-hires-ai-team-of-uk-chip-unicorn-graphcore-1683303868650"
+    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/meta-hires-ai-team-of-uk-chip-unicorn-graphcore-1683303868650"
+    type: article
+    provider:
+      name: Inshorts
+      domain: inshorts.com
+    quality: 74
+    images:
+      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/05_may/5_fri/img_1683298262597_763.jpg?"
+        width: 1000
+        height: 667
+        isCached: true
 
 secured: "nuMNIBk2oVYMy0O04ym9Se3ReMnAXRcPWdtLDsToGdTo8K8vrOrkMk6kLQ6MGnORoSD/kFabY04YpZR2h/kd9bVAacH7N9rImcG7bxTKY7kfoylFGA+ZVpZ64J6zGsPgDoJSAOIoUrCAyY2xBz4NifTNKn0waUtUUIkEhWtjwIJkEo2V2jIbWJ5w1wHKzwV4Jypoo7K8/hN2C5izF2J6ZJEsGBwwbo1sppMR4IPwGQjHP8aVrjNICm9u5Iykt+5PYCv+tVIeC2byEaLtgZUV2Fi2QwG9Eqr0l8I0rbuy9zFZEcGXxemEGylA/Wo1I41SEBAOoYf9G0sVkgEvP7oSwWTGMY3FHI3i3Ss3a6kDn8KNVn+Z0+B27ZlPaZCZlCGsbis+HTzAKlVX67yHINpI7RPRp37lk546nIPdgURNRHhtNYquZHsefK+V/lUJSxNAVbWv2sbhDeiDp91Hdo2VR8+rCQUUN385QOtXa6vAmhqE2UUIVruEEfWRT4dOLZV1Tg04fh5BvEbK09ETEayaNQ==;IPAcRvbOO89Ti4e2sbhi7g=="
 ---

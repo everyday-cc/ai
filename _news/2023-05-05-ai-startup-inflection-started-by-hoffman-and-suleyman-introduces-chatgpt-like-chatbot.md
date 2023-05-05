@@ -445,20 +445,6 @@ related:
         width: 800
         height: 418
         isCached: true
-  - title: "Artificial intelligence or active imagination with ChatGPT?"
-    excerpt: "When a journalist and historian attempted to see if his own research would be sourced by AI, he was intrigued by some of the responses he got from a text-generating artificial chatbot"
-    publishedDateTime: 2023-05-01T01:00:00Z
-    webUrl: "https://www.irishexaminer.com/opinion/commentanalysis/arid-41128273.html"
-    type: article
-    provider:
-      name: Irish Examiner
-      domain: irishexaminer.com
-    quality: 37
-    images:
-      - url: "https://www.irishexaminer.com/cms_media/module_img/7092/3546217_7_seoimageog_11b276fe-6c3b-481d-a99a-14ae76e0b1cf.jpg.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI start-up Inflection launches ChatGPT-like chatbot named Pi"
     excerpt: "Inflection’s chatbot, named Pi, uses generative AI technology to interact with users through dialogues. Read more at straitstimes.com."
     publishedDateTime: 2023-05-03T03:08:00Z
@@ -486,6 +472,20 @@ related:
       - url: "https://techstory.in/wp-content/uploads/2023/05/bitcoin-3137984_960_720-360x240.jpg"
         width: 360
         height: 240
+        isCached: true
+  - title: "Could AI pen 'Casablanca'? Screenwriters take aim at ChatGPT"
+    excerpt: "When Greg Brockman, the president and co-founder of ChatGPT maker OpenAI, was recently extolling the capabilities of artificial intelligence, he turned to “Game of Thrones.” Imagine, he said, if you could use AI to rewrite the ending of that not-so-popular finale."
+    publishedDateTime: 2023-05-05T17:46:00Z
+    webUrl: "https://www.chron.com/entertainment/article/could-ai-pen-casablanca-screenwriters-take-aim-18081098.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 37
+    images:
+      - url: "https://s.hdnux.com/photos/01/32/60/06/23790004/3/rawImage.jpg"
+        width: 2048
+        height: 1365
         isCached: true
   - title: "Tim Cook Responds to Rise of ChatGPT, Says AI's Potential is 'Very Interesting'"
     excerpt: "Apple CEO Tim Cook today provided some commentary surrounding artificial intelligence amid the surging popularity of ChatGPT and other chatbots."
@@ -603,6 +603,6 @@ related:
       domain: businessnewsdaily.com
     quality: 4
 
-secured: "vCAMI+oqjUg9CJXyil5cmnu5ruPkWt5b7HgALCwBHWPKNT8HPB6LnINqdrIvJCZKgJ7848SUleMPBY2ih4SJIxCXg6NwE0DSeXjT44AEeefFRBq1dDm3DU2bHz9ZC3GoNWtDQrI8mMyKg9iOAyl5ozcRMaMPMaMYcNrS91MqT1yl55o8zQiu60ZxOxU1f+T2FcaoPHGtD5uOfgwZFAqOgbJ8VPYV0Lv+AWacXICW7MsXQX++jLXmmV+rn5WW0r5iY0CqNiuh8XlscIeWZ+9GinRKHwcv8JV3afYI5bxwk62dZw2gPUv2U+l/maB76d2Z56rpPP+cCUlgPE5SlGpiemBU38B3CSyLSD55dJiCbK0=;OA9+bvPhP360NLTpuQaCXQ=="
+secured: "Ru/Z73/fm7rL2ckcZ/b9t35Qn1uc9qBdR7kh8UBKHxq5ScTfmLEO9nOhXavd5jO3O6dvc0SipP906cOWT/730LYijnKCBKb0HKw87qGW2v7hNQVWVaD9pNP/lCf4tPjsWQ0py08/vGmaEQwKatuFI2Afutl/1nbNbm61LugJfKHKrA74mwYqMpg0IEdK4LEPMAl4RRV4MppUmtsJrOZVwDa3BrIB+GgCH5S2SbdV9X7SHxEUjd79o1xsDXR/eg/mh/LqHiRtdIKeh4uUOO72gIruu99/0CWGM8DwlvN2r598iIX8yWoO0VqvOM09qsj0yGzxbDRc3HJmLINOSkaynGJ4VD3qeqM1zLdwwvJTMpUnS3FRANlu1uZgs+/jrdzV7NGyAF8zyq/E0yQpm5H8VPm2gBmh4EM0yLE5Fxlej9CGN0wI07DNJRR0bkjfizBGwzUsXRDIoUMnvtB9uLEScIeazRljYY61sYtx/oFuArO4JqxFny2sNqws3Ndqrzj3rrUfqJIlrBVo8GaJDqQgjQ==;t8KlSvnedJc2WpvFRDg3bw=="
 ---
 

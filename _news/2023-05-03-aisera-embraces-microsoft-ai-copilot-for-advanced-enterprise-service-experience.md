@@ -109,6 +109,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Microsoft and AMD could be partnering on AI chips"
+    excerpt: "Earlier this week, we learned that Microsoft might be interested in following the Apple recipe of developing custom silicon for its ambitions. However, this shouldn't surprise"
+    publishedDateTime: 2023-05-05T16:47:00Z
+    webUrl: "https://www.techspot.com/news/98578-microsoft-might-partnering-amd-ai-chips.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 101
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2023/05/2023-05-05-image-15.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
   - title: "Microsoft and AMD team up to take on Nvidia in the AI Chip Market"
     excerpt: "The partnership is part of Microsoft's strategy to secure the supply of AI processor chips and explore alternatives to Nvidia's GPU chips"
     publishedDateTime: 2023-05-05T04:26:00Z
@@ -224,6 +238,22 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Microsoft reportedly rallies behind AMD to develop chips for AI workloads"
+    excerpt: "Microsoft is reported to be working with AMD to develop AI-capable chips and provide an alternative to Nvidia."
+    publishedDateTime: 2023-05-05T17:31:00Z
+    webUrl: "https://www.networkworld.com/article/3695690/microsoft-reportedly-rallies-behind-amd-to-develop-chips-for-ai-workloads.html"
+    ampWebUrl: "https://www.networkworld.com/article/3695690/microsoft-reportedly-rallies-behind-amd-to-develop-chips-for-ai-workloads.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3695690/microsoft-reportedly-rallies-behind-amd-to-develop-chips-for-ai-workloads.amp.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 90
+    images:
+      - url: "https://images.techhive.com/images/article/2017/03/p1240491-19-100715058-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "CallMiner Collaborates with Microsoft to Enhance AI and ML Capabilities"
     excerpt: "CallMiner, a leading provider of conversation intelligence to drive business performance improvement, today announced it"
     publishedDateTime: 2023-05-03T16:46:00Z
@@ -280,19 +310,19 @@ related:
         width: 2560
         height: 1709
         isCached: true
-  - title: "Microsoft will help the Google of China take its self-driving car platform global"
-    excerpt: "The biggest stories of the day delivered to your inbox."
-    publishedDateTime: 2023-04-30T23:59:00Z
-    webUrl: "https://mashable.com/article/baidu-microsoft-azure-self-driving-partnership"
+  - title: "NVIDIA shares are trading higher after Microsoft denied AMD is involved with its Athena AI chips."
+    excerpt: "Never miss a trade again with the fastest news alerts in the world! This headline only article is a sample of real-time intelligence Benzinga Pro traders use to win in the markets everyday. Want the fastest, most accurate stock market intelligence? Want ..."
+    publishedDateTime: 2023-05-05T17:32:00Z
+    webUrl: "https://www.benzinga.com/wiim/23/05/32244818/nvidia-shares-are-trading-higher-after-microsoft-denied-amd-is-involved-with-its-athena-ai-chips"
     type: article
     provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 66
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 58
     images:
-      - url: "https://helios-i.mashable.com/imagery/articles/051FNRrNs5FSwcuuEQHxqHq/hero-image.fill.size_1200x675.v1623364472.jpg"
-        width: 1200
-        height: 675
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
   - title: "Microsoft backs AMD's move into AI"
     excerpt: "Creating an Athena chip Software King of the World Microsoft is helping finance AMD's expansion into AI chips. Meanwhile, AMD is working with Microsoft to create an in-house chipset, codenamed Athena,"

@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "SAP to Embed IBM Watson Artificial Intelligence into SAP® Solutions"
+    excerpt: "SAP to Embed IBM Watson Artificial Intelligence into SAP® Solutions May 02, 2023 (PRNewswire via COMTEX) -- PR Newswire WALLDORF, Germany and ARMONK,"
+    publishedDateTime: 2023-05-02T13:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions-2023-05-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "SAP to Embed IBM Watson AI into SAP Solutions"
     excerpt: "SAP will use IBM Watson capabilities to power its digital assistant in SAP Start, which provides a unified entry point for cloud solutions from SAP. With SAP Start, users can search for, launch and interactively engage with apps provided in cloud solutions from SAP and SAP S/4HANA Cloud."
     publishedDateTime: 2023-05-02T15:59:00Z

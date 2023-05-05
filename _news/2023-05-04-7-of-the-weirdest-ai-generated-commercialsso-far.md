@@ -38,6 +38,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Artificial neurons mimic complex brain abilities for next-generation AI computing"
+    excerpt: "Researchers have created atomically thin artificial neurons capable of processing both light and electric signals for computing. The material enables the simultaneous existence of separate feedforward and feedback paths within a neural network,"
+    publishedDateTime: 2023-05-05T17:05:00Z
+    webUrl: "https://techxplore.com/news/2023-05-artificial-neurons-mimic-complex-brain.html"
+    ampWebUrl: "https://techxplore.com/news/2023-05-artificial-neurons-mimic-complex-brain.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-05-artificial-neurons-mimic-complex-brain.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 54
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/artificial-neurons-mim.jpg"
+        width: 1500
+        height: 564
+        isCached: true
 
 secured: "YsJOP2JUJ+DqcEkDTqF2pE/o1TJc2JkBtmcgBJkT/lPJK0oEvZELINmYs7hx+UMrqlLHwekLviainIXIk+4xYmRKmOx/BmglKro6b4h4oMz4xhbyXj459n4wEiKuKmQtUF6gRNXLdYqGyRFuzYs+Y3BdDb/3qBQRJoWECkVbQPRmK0NkQfayg3s7VkfHK7z8s29RtZlwAGKQJCmIPpUeAyJOZofgpykJ5lxUu4T2qrqB14ZMCC6XPV3YEe8B8O13vL0sT0EmzhlGoe5jHjmu3wEE7dfONm8X7ufdZfrtHFZ2VNL2KJt2OlsfI6xezTjIPrmVA68VTfIjLKZ+eBY05rA3b/SU4XtvYowNzxzKkJJQsIW0QOALkU3XS4mGyZsXthbhZPcLJmHDjV38m9Zod6qrPqYsn/T22D8J8fB4/vVM5JeVLirZVELQ5tRfs1Ux6Sm+xE0l9uEjJZvNKiz4w/z0qKj+tvkS86PPkj3chFDml0EzGifLqqgSVQpk5EYNuMubnlYbRujv8dbPxa5QLQ==;y5Rs7q5yN5c9f5J6sbQ1vQ=="
 ---

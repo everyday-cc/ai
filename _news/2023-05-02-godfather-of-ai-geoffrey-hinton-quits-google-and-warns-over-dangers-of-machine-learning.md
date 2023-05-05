@@ -155,6 +155,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "What Are The Concerns About Artificial Intelligence Raised By The Godfather Of AI Geoffrey Hinton?"
+    excerpt: "Geoffrey Hinton, the Godfather of AI, has quit his job at Google to warn about the dangers of Artificial Intelligence. Check what are the 4 concerns"
+    publishedDateTime: 2023-05-05T16:38:00Z
+    webUrl: "https://www.jagranjosh.com/general-knowledge/concerns-raised-by-godfather-of-artificial-intelligence-geoffrey-hinton-1683294636-1"
+    ampWebUrl: "https://www.jagranjosh.com/general-knowledge/amp/concerns-raised-by-godfather-of-artificial-intelligence-geoffrey-hinton-1683294636-1"
+    cdnAmpWebUrl: "https://www-jagranjosh-com.cdn.ampproject.org/c/s/www.jagranjosh.com/general-knowledge/amp/concerns-raised-by-godfather-of-artificial-intelligence-geoffrey-hinton-1683294636-1"
+    type: article
+    provider:
+      name: jagranjosh.com
+      domain: jagranjosh.com
+    quality: 62
+    images:
+      - url: "https://img.jagranjosh.com/images/2023/May/552023/ai-danger-geoffrey-hinton.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "'Godfather of AI' leaves Google, warns of tech's dangers"
     excerpt: "Geoffrey Hinton, the man widely considered as the “godfather” of artificial intelligence, has left Google — with a message sharing his concerns about potential dangers stemming from the same technolog"
     publishedDateTime: 2023-05-02T14:49:00Z
