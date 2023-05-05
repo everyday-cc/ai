@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/bings-ai-powered-search-eng
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/bings-ai-powered-search-engine-is-now-open-to-everyone-with-some-serious-upgrades/"
 type: article
 quality: 84
-heat: 94
-published: true
+heat: -1
+published: false
 
 provider:
   name: ZDNet
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Bing AI Chat is now open to everyone, though still in preview"
+    excerpt: "Persistent chat, images and video, a chat sidebar and the promise of third-party plugins make Bing Chat more useful but not perfect."
+    publishedDateTime: 2023-05-05T05:48:00Z
+    webUrl: "https://www.techrepublic.com/article/bing-ai-chat-open/"
+    ampWebUrl: "https://www.techrepublic.com/article/bing-ai-chat-open/amp/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/bing-ai-chat-open/amp/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 87
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/05/All-the-new-Bing-chat-features.jpg"
+        width: 1400
+        height: 788
+        isCached: true
   - title: "Like it or not, Bing AI is now on your Galaxy phone"
     excerpt: "Microsoft has announced that Bing AI integration is coming to the pre-installed SwiftKey keyboard app on Samsung Galaxy phones."
     publishedDateTime: 2023-05-02T05:50:00Z

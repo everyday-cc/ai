@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/letter-from-the-editor-how-generative-ai-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/letter-from-the-editor-how-generative-ai-is-shaping-the-future-of-journalism-and-our-newsroom/amp/"
 type: article
 quality: 77
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "AI journalism is getting harder to tell from the old-fashioned, human-generated kind"
-    excerpt: "I rumbled a chatbot ruse – but as the tech improves, and news outlets begin to adopt it, how easy will it be to spot it next time?"
-    publishedDateTime: 2023-04-30T11:51:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2023/apr/30/ai-journalism-is-getting-harder-to-tell-from-the-old-fashioned-human-generated-kind"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 10
 
 secured: "3thrt4J78eX6Vv9N1KayjHgDhgtfg1JhrSKMTuLkunDcE90HEQCpifOqN1AxHwnaBQtVifZtlbLnlbN1r6tQXvwqjS9OO0T7cRPKhm3fCPFzKdfIJlIfBOTrOi8qkXwuJdB9y9blHnf9neNCHnE5maCyvljm4G74tLhDv83BteMpGGgrMUO9vjWbHaI6ata/C2la5D9RYl+R3hlMpXpd3DB75ERwQVtHS1ZQz9T7OEa09sHhPv1bREBUH7ikn5HBwvRjTMiPFmmCPPv4cfpukXgokdsvbBntUZn2TXU8JuE0rkXRXsU0DpUQL88GXc97zzV65GbDNbOuZeuEKW14DizrGFu7hBpIEPMAG0iBe6JSuMaHWs9jgOLlcoEEe+VtZh3ad91SPFLLAN4GaN+1bfRpZl3QWDAfp/8Ctw1KPLw+gLut03C4dD13xNiihxPxw4r+De+bl9C9GII+qLMI+e96y0Z/gTpcqzikEAwppZrxvgDD6eDEIvI4NlosyyE+P6hxOELNROvYJwRwuC3elw==;AkNZ5ClI3t+5pxSkjo+g8w=="
 ---

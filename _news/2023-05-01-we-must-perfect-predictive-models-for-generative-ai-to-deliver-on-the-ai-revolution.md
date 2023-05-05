@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/we-must-perfect-predictive-models-for-gen
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/we-must-perfect-predictive-models-for-generative-ai-to-deliver-on-the-ai-revolution/amp/"
 type: article
 quality: 81
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/a6eaef833556b81337c95f6e88a34a1b44407791/0_300_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=6c607e1e58ea849496f7dd45d0c4493e"
         width: 620
         height: 372
-        isCached: true
-  - title: "UAE Government launches the “Generative AI” Guide to facilitate the adoption of AI technology across vital industries"
-    excerpt: "The “Generative AI” guide serves as a valuable resource for government entities, enabling them to leverage the benefits of AI technologies and enhance its implementation across various fields. Commenting on the launch,"
-    publishedDateTime: 2023-04-30T11:45:00Z
-    webUrl: "https://www.zawya.com/en/press-release/government-news/uae-government-launches-the-generative-ai-guide-to-facilitate-the-adoption-of-ai-technology-across-vital-industries-r5v4skkw"
-    ampWebUrl: "https://www.zawya.com/en/press-release/government-news/uae-government-launches-the-generative-ai-guide-to-facilitate-the-adoption-of-ai-technology-across-vital-industries-r5v4skkw?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/government-news/uae-government-launches-the-generative-ai-guide-to-facilitate-the-adoption-of-ai-technology-across-vital-industries-r5v4skkw?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 36
-    images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/YWM4MDI3MDEtMDIzMC00/1/1-jpg.jpeg?f=3%3A2"
-        width: 900
-        height: 600
         isCached: true
 
 secured: "td0lE1mTzB3Z3WMYa4wwUGkIicrLa/RfE+U+JCnN8Xf4lAiIbfyOiUq5YrJMpW1j+nLnYR6Xc/WaHAHUICOvdYlZjHY/djTOoHXPxCxCW2U6dPAlzlLlktNBLwxMFtvl4eWNjM5rR3NK2L/tO+zB3YZUzohFzJYQCfS3F0VyrF0xaOrZvqXhzwlRE2qzNO9FtF/US6hmwPXEK5Z+swLf3oSCE0W05KOLNMxjg2kCExloSylgnZBa332wu8hmpdQvuQYt/yXoKFVVQ50/uxNs/wjri6aZAwg89fS3lEJ9b2HAh5NBoyyNaTYsgRhDejxJUEnN/boKKPn/XDV0uezNTTbiAC7M4uVzWqewZF0p9+n+QfUT3Biv6z22EWtHfcfDBVLMAdsXlibt7XtEzvosVYdCtOr0B4edD80derNmVFS7E2E6PAKomC+UUexl0WsIBD9OY4ppCM6k2cvO/krpjkcNBvzKoFRsFx2tfi5CZ+C3BVPA+JJ6GTD0D9NeGb5RvutTNntzsmnWZjrPG3DBeA==;6E2vj21yjOIz23he5c95nQ=="

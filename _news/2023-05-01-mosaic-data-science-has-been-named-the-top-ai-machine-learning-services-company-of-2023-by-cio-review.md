@@ -6,9 +6,9 @@ publishedDateTime: 2023-05-01T14:30:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/mosaic-data-science-has-been-named-the-top-ai-machine-learning-services-company-of-2023-by-cio-review-1032278328"
 webUrl: "https://markets.businessinsider.com/news/stocks/mosaic-data-science-has-been-named-the-top-ai-machine-learning-services-company-of-2023-by-cio-review-1032278328"
 type: article
-quality: 68
-heat: 68
-published: false
+quality: 70
+heat: 70
+published: true
 
 provider:
   name: Business Insider
@@ -21,6 +21,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://www.accesswire.com/users/newswire/images/751981/9395de5167fcc82d1591bf86ed6d.jpg"
@@ -28,6 +29,6 @@ images:
     height: 391
     isCached: true
 
-secured: "qvLnBgFuuXqx72Wa9AWUitIcvSygvoNqIasAzBwFHy748WGf9Gy2mMzZGf+lJJir5OmJ99wFG4uMlRUA4U+mhyI7Jx8cHSWw5hK/vsp30RfRKVQrg0fSb4jWPjpp+7gJuU/DnGrmb8pIZCh1iL8yr3dXFTC8SksC0twwb2tRA8XdTsUTfOwGILQTCH6aQhRdkNOAyDlyb93VAfJQiGKw3Dd3swTfXqIj4DxHrnA4bq7mjtYN4lncryrcq3pw7qIrtv92RsR+Xpaf8cEs5nlCf0/XKlQiWA1ByZkJC9TV0qBYU3dyC5BkfuIwnkgXcQqBbB81jXB1i2BP0jn6J/+WveypHAaKgMMMrt51wJo9C7A=;TPZeItZ5/MhhD5SAIKqqYg=="
+secured: "VG5mCim9dZWcEqsXhh52u5Vi13ehrCV+SdhJExdQbde1Y8417wJN2WLz4nw2TerVE3Fbtx4mCJO6z7Vln98VxR/Rp4aHO6f4m9UByKyKLHNymJpVRlxrjrzXKwpPIFDsxZyXq4pWlsXrJ7x9AvaJ9z5sntcFXJk0OLEpsSiG7rAvusdiWxdysoF8LUfpHqXhx6YZr9uS4ycPDVRwbFmVZm+p+0mZaq7Cuvrlv3lqNzz5sa/G+zkbTkPBJa1ppHkECfj9BX+Pme8hy6RuyTlUPYIBHuWTTgbYts176OwJ1rN/RJR5ChyWBxEnT55f0TiIdjGo48b51c8XP3wwitqtEeR8XqNcZVrWCOrc6ehIDKwSLQ4+mxzWLTyJ9yO/311oECTAyUMX7C/2p9kRzN9Ho/9x866fJF4COrhIcJfovhBQDBqBYyOcVrzU5/OLSmCmx0L8ppg+XAr/RgXxV/MluPIrZ7g2rVZduEUw3xR8QoUBLttGyAT9GMfC4VAGwFgZqd/+taGoxnLXetVSdqAwVg==;nLu5g3IJOqjz0S8V/ANCOQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/05/03/where-is-india-in-the-generative-a
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/03/where-is-india-in-the-generative-ai-race/amp/"
 type: article
 quality: 87
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -106,15 +106,6 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 17
-  - title: "The future of financial services in India"
-    excerpt: "Driven by extensive use of digital technologies, India’s financial services sector is undergoing a significant transformation with evolving consumer preferences, and increased competition. This is leading the sector towards a different growth trajectory."
-    publishedDateTime: 2023-04-30T13:03:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/the-future-of-financial-services-in-india/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 4
 
 secured: "lYMmGDPrHRIlhXzJjRte2V4z+g2wVTSmYPAUsECUeoACLUVGOkOGPwjGEV4SxF+9/VdLqMHPgoroRFNI3idQrod4XgNdFkBXspm9zdTBIeFP5EFDpgjQ4F0zXRni+R6f5tP7kndlu4mrW/KDWEd8mCCJkDCVOXM/lI+dLsmu8PqLx+4poZWl2Einz38HirGfymf8erGbG0QELIaRqVF770CI2/r5Q1aVwtM+Gjz+1vGs5I9C7qH+KIZFHjmmMCatw0tNj85qOIHzCtf/PJxjH+jK6zr4m2EDRI2vTJQKufXtFAHa8MTWms3JeWUMtQkQpgcJDEJ15Lb4khU6HwWNm9S+TlUJbs/VeHt73tPFBezHP5v8XYXzBMGKbOX4sgWJIXbltstBkKJ1KGh4N25bGnbGzxsUqBUcOhadkYBtUGFiSu3bKsI1aWTZzrlAvr5u08LRqCeJA5R9uaNLu3PyyRXapHz7Fz0DS1AepKQbotCRRA2W3c2pU0jzUkvqvhSXfjIHv7AhMn523JXnqDTgCg==;DFV8Zr6kT2xxZoULSirrwA=="
 ---

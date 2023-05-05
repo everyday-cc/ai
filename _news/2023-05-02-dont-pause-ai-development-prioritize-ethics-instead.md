@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/dont-pause-ai-development-prioritize-ethi
 webUrl: "https://www.ibm.com/blog/dont-pause-ai-development-prioritize-ethics-instead/"
 type: article
 quality: 116
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -24,6 +24,15 @@ topics:
   - AI Ethics
 
 related:
+  - title: "VP Kamala Harris Urges Tech Titans to Put Ethics First in AI Development"
+    excerpt: "Harris' meeting with tech CEOs sends a clear message that the government will take action against companies acting irresponsibly in AI dev"
+    publishedDateTime: 2023-05-05T03:31:00Z
+    webUrl: "https://www.gizmochina.com/2023/05/05/kamala-harris-tech-ceo-ai-regulation/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 63
   - title: "The ethics of military AI"
     excerpt: "In this week’s Computer Weekly, as the defence sector looks into using artificial intelligence to create autonomous weapons, we examine the risks and ethics of military AI. Amazon Web Services is under fire for not providing vital emissions data to customers – we investigate the issues."
     publishedDateTime: 2023-05-02T11:12:00Z

@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 631
         isCached: true
-  - title: "UAE Government launches the “Generative AI” Guide to facilitate the adoption of AI technology across vital industries"
-    excerpt: "The “Generative AI” guide serves as a valuable resource for government entities, enabling them to leverage the benefits of AI technologies and enhance its implementation across various fields. Commenting on the launch,"
-    publishedDateTime: 2023-04-30T11:45:00Z
-    webUrl: "https://www.zawya.com/en/press-release/government-news/uae-government-launches-the-generative-ai-guide-to-facilitate-the-adoption-of-ai-technology-across-vital-industries-r5v4skkw"
-    ampWebUrl: "https://www.zawya.com/en/press-release/government-news/uae-government-launches-the-generative-ai-guide-to-facilitate-the-adoption-of-ai-technology-across-vital-industries-r5v4skkw?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/government-news/uae-government-launches-the-generative-ai-guide-to-facilitate-the-adoption-of-ai-technology-across-vital-industries-r5v4skkw?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 36
-    images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/YWM4MDI3MDEtMDIzMC00/1/1-jpg.jpeg?f=3%3A2"
-        width: 900
-        height: 600
-        isCached: true
 
 secured: "P4brWOOcDLUHVMHmEv/3LBesVKwpVYWAnSp9TAVUU4ntNEouE3B9MKme6Ap+XSldKbavCUa/t07Rr1Uli5EI8mm0dQFq6Gus0PCB9SsnL4NC0JTrwvCAs0+G1x+FiDaXg3gzCw4WpWb/hi9tp/RWsLyhceBvTKHcnkuWgrDeacKj2PFFVSXEP5aNnjI1gAzkbO+3E8ZTFIJPaoEAazScXWLVQUChXCqsJtLvvxj9Tov1jzmN1DmOZFFxW1Kygz4pNaRbZLPjHehCRPJ+NNSmiRSebkSe4wdUsWemmTOUv4wWJUFJbQ7MneuZomSVifinI0oTCMmjODPpR/6dBRnSiYegxknSOHzfj4zSso/rdCA3UjTl4t5g3kW9zGd4V/qDFCjhGSn5xlP3CgrNRlB/4htQTOt2SyYjPS+Q4+UFdkwTUBMptQ58YsoN0Q+JNpXjOAxWNymB7mP+VnZWdMGOqDfGwNYrNi6TRVrHZlXFr7PR5ctvaBA129AEppWfkTlpNLjLaWku13mAyMXm8fFlZA==;HWw3hM/n2LQGf+eRMFlLlw=="
 ---

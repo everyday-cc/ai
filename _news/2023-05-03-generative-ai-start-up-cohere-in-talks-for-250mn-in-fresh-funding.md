@@ -101,15 +101,6 @@ related:
         width: 600
         height: 375
         isCached: true
-  - title: "The future of financial services in India"
-    excerpt: "Driven by extensive use of digital technologies, India’s financial services sector is undergoing a significant transformation with evolving consumer preferences, and increased competition. This is leading the sector towards a different growth trajectory."
-    publishedDateTime: 2023-04-30T13:03:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/the-future-of-financial-services-in-india/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 4
 
 secured: "thTinm73/0QweV29Td4QSUbVTp3Ipp+EjSbjYCieme8qfT7YvSrKLGYPoKhC8iLw98vd6vGTuiHaFAy2YXlyRZ4eOw/k4K9m2oHMiyXz2cGtjaTosH4xgLnPEuPRlYEBZx3U8pg/mcogKlxTB92TnJu9+ebTJfl4z1vDGpFRtCkmeJZ7rNcZbw8hZf7X1Xbz9ASbAeX0ZLH0dgJ6qnpho4dfjfSCRCEBw+uqnUO9oJLEj8YXBASTSbD1wA/PD/6DZTcP8A2sd1PBwAI4n3Zv43CkMxmER+ggUVuBaBRNylpYGoi5SGbr0bmFNtJ0tvx/uhr71ED/y3slhklDQYuSaVl62E7eXcsh4XEm3PEKz18=;rsi67RTOcl5HJ6R7rP0sLg=="
 ---

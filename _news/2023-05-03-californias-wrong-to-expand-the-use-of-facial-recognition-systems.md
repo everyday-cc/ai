@@ -35,6 +35,20 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "In California, the specter of self-driving trucks brings a backlash"
+    excerpt: "California, the birthplace and epicenter of the self-driving industry, could soon put the brakes on autonomous trucking."
+    publishedDateTime: 2023-05-05T04:00:00Z
+    webUrl: "https://www.autonews.com/mobility-report/california-assembly-bill-316-chills-self-driving-truck-hopes"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://www.autonews.com/s3/files/styles/1200x630/public/california_truck_tech-MAIN.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "f9yZwEcG5nAadKVMyoNKm054mtY+VAYs4O+6zvXcQqMo0VfNyM1xI5GeWhnr5gSGvbcKyW1iSsrKgr3SaOGdKM9Xr7f7Fd8Lka/NU/AbwQydSn+K9lr7895bVOcflnyambv9OAbApVQ1Z/qa0Mckah3DyWKS1WNdfZI7JNgpWzk3wPu0UHz5jNwIzQV8PP0jHQ4qwmwxwS1/IM8mTTr5pvbaoE/xJVuQJbu2xNidSKCYApizt3LSTScrVzK/wFWJjgDlxZ3WvGum22ModDIan49JRhzdrWqOXj6d2bAjTObXWdYmBtaKe3S81ZsBLMWUyaQO9Rm2dbvx1I56CjDwCAp+k0OP3SuL6vfS+//9Zi14vZcdzStVmFbqsjCf0DyohzcHgt4eJa1j7wc5+G7f922AB03l0X9rK+Wm2NKiX1iUPEKXy26zwMYhCXIwXKjZUAcyUGPV6JX6Kws8l2THp1KSkjYXw4Ylb18ZXHoqtSh0zow2JjnTC+GLgN7HPr/b12bTXaz+IN7iXyoQIIyeNw==;2woJiUPBxlzA/yZmusrf8g=="
 ---

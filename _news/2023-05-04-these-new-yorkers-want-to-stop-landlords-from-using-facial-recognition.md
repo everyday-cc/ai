@@ -7,7 +7,7 @@ originalUrl: "https://gizmodo.com/nyc-msg-facial-recognition-landlords-ban-law-h
 webUrl: "https://gizmodo.com/nyc-msg-facial-recognition-landlords-ban-law-hearing-1850401997"
 type: article
 quality: 69
-heat: 121
+heat: 119
 published: true
 
 provider:

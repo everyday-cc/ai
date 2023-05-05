@@ -37,6 +37,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Neural Network Software Market Insight [2023-2030]| The Complete Industry Guide with Data Solutions"
+    excerpt: "The \"Artificial Neural Network Software Market\" report notes that the technology sector is evolving, and companies -"
+    publishedDateTime: 2023-05-04T03:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-neural-network-software-market-insight-2023-2030-the-complete-industry-guide-with-data-solutions-2023-05-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "6voIFD0jZw1/Ns9XeFJMzAYkt24k7LKqkfzRsnxXDwr42EQsVY7L29BaXCv+Fsz1qCUL2zBw9Y9SD+WQkBE+4wnPKrf8zPjqtkjs8a4OL4IAXaFCP1D7TuE0KT4wOG58robhXIDVLmhTyEmzlc9j5avArrkx72A54MyiFho/syZxlZKI6yVJBn2nI3XO8itXbQUQ2lbJu9KAEvnPnXqbmD/cPa1dwf6LnrEZCJUfATwt7pQkiKJYj1t4w0dMCJ2Sv9ToWrbMGh42HyqlG9juL+qtISk8xCnnMpjtLQc5PXzZjOQfw4/s8Cns/Warl1P4ynK0/tO6kIVXwG2fzOxVUN8KnRTns+Hvb61pwmriMFs=;5Mi+BV8+csGEs2a3b+2OsA=="
 ---

@@ -38,6 +38,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Tired of applying to jobs? AI can help"
+    excerpt: "We have all been there: spending countless hours tailoring and designing our resumes, and writing and rewriting our cover letters for employers who ask for them. There is no point in denying that these tasks are as tedious as they get."
+    publishedDateTime: 2023-05-05T04:15:00Z
+    webUrl: "https://www.thedailystar.net/tech-startup/news/tired-applying-jobs-ai-can-help-3310986"
+    ampWebUrl: "https://www.thedailystar.net/tech-startup/news/tired-applying-jobs-ai-can-help-3310986?amp"
+    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/tired-applying-jobs-ai-can-help-3310986?amp"
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 57
+    images:
+      - url: "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/05/04/chatgpt_job_applications.jpg"
+        width: 750
+        height: 393
+        isCached: true
 
 secured: "pgmMW1y1EC9IZ8BParkXLwHBM0edYb8iO6PTVBppiGT+eo74ZMSOrLxbLSbjblNwN9wYmw/9oB1x20oKTuO9nL03qJG0AanM3wUVynd6L6Jno0oBGKjly2WMycuQuzigABGBh52MA7xxTjpRe0+4lnXf+knPbVWuP+k7IoimnMXeEsOEhuaOduPyJtQ8NHMV676V/xt9jFPPyhdteScZ1QA9b753cd/UWjyKWeIXcRcf7vUr5n6MydidOrRIHbFrZFulrvXwmo9Sh5yBdR7ep+lHj7ErNZnwPUFqGfCeyaNVndWXHd2wgB+xvtQytQ6xau9ByH71jJhr/rKwTVlDUiK4ZBe35wC3tce20eXeYgw=;Bd68B0DxEcBz13SI7eOBcw=="
 ---

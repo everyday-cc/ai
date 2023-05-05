@@ -9,8 +9,8 @@ ampWebUrl: "https://www.govtech.com/opinion/opinion-california-wrong-to-expand-f
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/opinion/opinion-california-wrong-to-expand-facial-recognition-use?_amp=true"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Government Technology
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "In California, the specter of self-driving trucks brings a backlash"
+    excerpt: "California, the birthplace and epicenter of the self-driving industry, could soon put the brakes on autonomous trucking."
+    publishedDateTime: 2023-05-05T04:00:00Z
+    webUrl: "https://www.autonews.com/mobility-report/california-assembly-bill-316-chills-self-driving-truck-hopes"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://www.autonews.com/s3/files/styles/1200x630/public/california_truck_tech-MAIN.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "California’s wrong to expand the use of facial recognition systems"
     excerpt: "As technology advances, so too do the challenges surrounding the protection of the public’s privacy and our civil liberties."
     publishedDateTime: 2023-05-03T15:00:00Z

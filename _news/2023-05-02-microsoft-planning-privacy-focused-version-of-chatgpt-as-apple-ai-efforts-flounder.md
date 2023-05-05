@@ -87,6 +87,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Microsoft and AMD team up to take on Nvidia in the AI Chip Market"
+    excerpt: "The partnership is part of Microsoft's strategy to secure the supply of AI processor chips and explore alternatives to Nvidia's GPU chips"
+    publishedDateTime: 2023-05-05T04:26:00Z
+    webUrl: "https://www.gizmochina.com/2023/05/05/microsoft-amd-team-up-ai-chip/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 101
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/05/hitesh-choudhary-t1PaIbMTJIM-unsplash-1024x575-1.jpg"
+        width: 1024
+        height: 575
+        isCached: true
   - title: "Aisera embraces Microsoft AI copilot for advanced enterprise service experience"
     excerpt: "California-based Aisera today extended its partnership with Microsoft to deliver an AI copilot for improving enterprise service."
     publishedDateTime: 2023-05-03T16:40:00Z
@@ -103,6 +117,15 @@ related:
         width: 1200
         height: 595
         isCached: true
+  - title: "Microsoft Helping Finance AMD's Expansion Into AI Chips - Bloomberg News"
+    excerpt: "Microsoft Corp is working with Advanced Micro Devices Inc on the chipmaker's expansion into artificial intelligence processors, Bloomberg News reported on Thursday, citing people with knowledge of the matter."
+    publishedDateTime: 2023-05-04T18:15:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2023-05-04/microsoft-helping-finance-amds-expansion-into-ai-chips-bloomberg-news"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 97
   - title: "CallMiner Collaborates with Microsoft to Enhance AI and Machine Learning Capabilities"
     excerpt: "CallMiner, a leading provider of conversation intelligence to drive business performance improvement, today announced"
     publishedDateTime: 2023-05-03T12:30:00Z
@@ -272,6 +295,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Microsoft working with AMD on AI chips"
+    excerpt: "The companies are teaming up to offer an alternative to Nvidia, which dominates the market for AI-capable chips called graphics processing units, said the people, who asked not to be identified because the matter is private."
+    publishedDateTime: 2023-05-05T05:54:00Z
+    webUrl: "https://mybroadband.co.za/news/software/490193-microsoft-working-with-amd-on-ai-chips.html"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 34
 
 secured: "ppz6p3nieAtv4PSQn7shprzxaPoyDGcZ8jNPJQG5bqJAxzLrCHJSmeW0T88qywX9/4ViYrIJziT0E0xeZs0gwMw3+waPmEDDf2fwf0tEZtAZRFB82JdXQdwSrp7kz6FOR1nHougunZPhNZ1mKOonbOaoT3jZ7HgEO1wQhCP5EBt+oGzJIRtnL9GFGcu/ycmKCB1vEMQvy7D+8Sk2TkQB5ns/rl8cc4fD6tiRiIIJt43XmlQtdP4zJTeE3I6nFYbUj6ftJOAeiSMxrR0pMaguGPQkNsvhCoRw+5vQjNqoBXpk2i3je6DHsiaJrGjLVvjoo6YLgoAtF7Hs5OhDKA9MZhQfHFWdlxtz7q1uWYfxcg1+Eii2lXkCyyvtoULX5xHeAC6K0My/f0nZF6iK/qkHHqlnRYh8QnmCaxV+xV0fydv3t9ywjVWMUPlgQBlzkCtD+uYymHSKp+VspRCgzyff9BF2XF8ws9/zq58aizqkyZBdGfKPNO3YQW90gp0MXF1YxDwDad/6AIiqBzRafJ15+w==;PldCGF+Mh5U2meW9BbWqjw=="
 ---

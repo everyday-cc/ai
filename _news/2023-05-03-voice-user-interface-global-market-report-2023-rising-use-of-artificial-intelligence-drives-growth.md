@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Voice User Interface Global Market Report 2023: Rising use of Artificial Intelligence Drives Growth"
-excerpt: "This report provides strategists, marketers and senior management with the critical information they need to assess the market. The global voice user interface market is expected"
-publishedDateTime: 2023-05-02T23:15:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/05/02/9806317.htm"
-webUrl: "https://it.tmcnet.com/news/2023/05/02/9806317.htm"
+excerpt: "The \"Voice User Interface Global Market Report 2023\" report has been added to ResearchAndMarkets.com's offering. This report provides strategists, marketers and senior"
+publishedDateTime: 2023-05-02T21:16:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/05/n32175548/voice-user-interface-global-market-report-2023-rising-use-of-artificial-intelligence-drives-growth"
+webUrl: "https://www.benzinga.com/pressreleases/23/05/n32175548/voice-user-interface-global-market-report-2023-rising-use-of-artificial-intelligence-drives-growth"
+ampWebUrl: "https://www.benzinga.com/amp/content/32175548"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32175548"
 type: article
-quality: 25
+quality: 45
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
-    width: 550
-    height: 353
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
 related:
@@ -145,6 +147,6 @@ related:
       domain: marketwatch.com
     quality: 8
 
-secured: "gdVmWOeVzeYOKl4Hw0O9/zmqfL0gkcVb6CAqzivn7AEsJog4C8knQgEkNoDnMrX64gxFQuUaxYHtqN8Iez5Wk6iXiBuK4efHKhNKFhRj7wA4dLppck1NRov7EKQr1tb7iZNMSfeXvbPzDRZg5hO4+kEBm0pJhk7Wrmt0a6ri5NGUEis9CoE7eKO/pM+3vQ0bQJHyGL+3MA8JRK2Xa8G1OZxFz9tkUJ9H9mZy8Rz/Qfp3lEIsEtuU0kuF8lsFmYcWAH4tJcmQqui0odJDj5QSVuxDvjJPHWTvKT/b4YVz4swrp/5zoGpPvEgQJH2s6pqUhzcch9gZhztRiHvM48c4jYochiAUfa52lAumzRQNnDU=;+i5Zr/Rrvs66QcoQmwxenw=="
+secured: "kHtlvoyI4NJT/LhPbKMkw7AQ41oR0dGsL0W2km5Sm++oltpQ7aap3EjowpnSx1r4vVyhDNTjMJ4WKEym2WmYLc322c7xysDpUZva3UnqAOYPyObMjGQ5F5jCnePy6IdMSb1v+Ba9//GoL0rv3QRQUNNTmyf8/SbN1ySj7kbEx/G21x75cpHSf58bb6z8RWAXDJVDHweZa4O5Ql5PgdgrAkMAdpNNr872THZkL33JjLgqdtw1ShXvpljbWU9TirmuXtTSNMS8YuneMPLSJmaz3uip41rbCBJuKAuhUO5T7bqTU6GxGIVs00Neqst91cTg5fCjkVLxS1/7H7lc5xPiGPpQJJ35U186qRR60n4Pcsk=;0U4a0ajwxhMm2EqwXYMjow=="
 ---
 

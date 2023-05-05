@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Voice User Interface Global Market Report 2023: Rising use of Artificial Intelligence Drives Growth"
+    excerpt: "The \"Voice User Interface Global Market Report 2023\" report has been added to ResearchAndMarkets.com's offering. This report provides strategists, marketers and senior"
+    publishedDateTime: 2023-05-02T21:16:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/05/n32175548/voice-user-interface-global-market-report-2023-rising-use-of-artificial-intelligence-drives-growth"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32175548"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32175548"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 45
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "Educational Robots Market Size Share Volume Trends Demand Forecast Report 2022-2028"
     excerpt: "These start-ups are raising significant investments ... Use of Robots for instructional functions Technological Advancement within the Field of AI The major restraining factors of Educational Robots Market are as follows: 5. Educational Robots Market ..."
     publishedDateTime: 2023-05-04T17:59:00Z
@@ -133,20 +149,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 28
-  - title: "Voice User Interface Global Market Report 2023: Rising use of Artificial Intelligence Drives Growth"
-    excerpt: "This report provides strategists, marketers and senior management with the critical information they need to assess the market. The global voice user interface market is expected"
-    publishedDateTime: 2023-05-02T23:15:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/05/02/9806317.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 25
-    images:
-      - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
-        width: 550
-        height: 353
-        isCached: true
 
 secured: "gWFkHzbyjBj3EoCd06rKiHqxr+NeAr4iIaeXqYkZTNaqSxlf2zI+HJwbx8zoOZLFDceL+3rKMSdiJsmbjBfaHX2EdaCURx9gRMhAtxi3q7ZkE2RM/oRu58uLghab1B/Y9GVc6TWsCCSDP3eLs7EXvEE+jSxNHCgtyPsHvDVLuRXxbv9HNDuO/KlSZP14p/aTsot93KePmbwrZdi0NPS2C5G0IJYhFKVueTl14seWbdzpFhXF2sZ38lHz5pfw4tMjmojV0wBaPzuuh32g6Eseq63M/BqT3zqhMKw/oT8+18YK8usXc5PwRiE6dmn15+aF4eGlFTd5xZ6S1qyI+TNpCJ4dntnc5H7zAaEUGMBXdk0=;kKRYNGBFK+J6aELp7qRL4A=="
 ---

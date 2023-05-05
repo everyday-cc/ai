@@ -19,38 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "The big cybersecurity risks when ChatGPT and AI are secretly used by employees"
-    excerpt: "Generative AI is seeping into the workplace, whether companies approve of its use or not, and cybersecurity caution is needed with these breakthrough chatbots."
-    publishedDateTime: 2023-04-30T12:11:00Z
-    webUrl: "https://www.cnbc.com/2023/04/30/the-big-cyber-risks-when-chatgpt-and-ai-are-secretly-used-by-employees.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2023/04/30/the-big-cyber-risks-when-chatgpt-and-ai-are-secretly-used-by-employees.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/04/30/the-big-cyber-risks-when-chatgpt-and-ai-are-secretly-used-by-employees.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 83
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107206075-1678389148948-gettyimages-1246494152-AFP_337P9F8.jpeg?v=1682863975"
-        width: 7885
-        height: 5257
-        isCached: true
-  - title: "ChatGPT and Generative AI Around the World: Maturity, Opportunities, and Hurdles in Key Regions"
-    excerpt: "ChatGPT has received a lot of press since its November 2022 launch. But while interest in the tool is high, its use is not yet universal."
-    publishedDateTime: 2023-05-01T17:00:00Z
-    webUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-around-the-world-maturity-2023-may"
-    ampWebUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-around-the-world-maturity-2023-may?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-and-generative-ai-around-the-world-maturity-2023-may?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 75
-    images:
-      - url: "https://i.insider.com/6441b16a3f6f690018debe44?width=1200&format=jpeg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Are You Concerned About Generative AI Becoming A Cybersecurity Risk?"
     excerpt: "While in general, artificial intelligence has the potential to enhance security measures and more effectively detect threats, there is an emerging concern that generative AI tools can—and likely will—be leveraged by malicious actors to launch attacks that are more sophisticated and harder to detect."
     publishedDateTime: 2023-05-03T12:15:00Z
@@ -60,6 +28,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
+  - title: "FTC attorney says agency concerned with generative AI use"
+    excerpt: "Companies developing novel artificial intelligence (AI) tools might want to think carefully before laying off ethics personnel, an attorney with the Federal Trade Commission (FTC) warned. The agency is closely tracking company use of AI tools for possible ..."
+    publishedDateTime: 2023-05-02T19:34:00Z
+    webUrl: "https://www.complianceweek.com/regulatory-policy/ftc-attorney-says-agency-concerned-with-generative-ai-use/33027.article"
+    type: article
+    provider:
+      name: Compliance Week
+      domain: complianceweek.com
+    quality: 39
+    images:
+      - url: "https://d6jxgaftxvagq.cloudfront.net/Pictures/1024x536/8/9/1/16891_artificialintelligenceethics_852683.jpg"
+        width: 1024
+        height: 536
+        isCached: true
   - title: "Cybersecurity Still Finding Its Place In New AI Era"
     excerpt: "It is difficult nowadays to talk to inventors in any tech sector without AI coming up in the conversation — and that is certainly true in cybersecurity."
     publishedDateTime: 2023-05-03T11:00:00Z
@@ -74,6 +56,15 @@ related:
         width: 900
         height: 506
         isCached: true
+  - title: "Human Error Drives Most Cyber Incidents. Could AI Help?"
+    excerpt: "Although sophisticated hackers and AI-fueled cyberattacks tend to hijack the headlines, one thing is clear: The biggest cybersecurity threat is human error, accounting for over 80% of incidents. This is despite the exponential increase in organizational cyber training over the past decade,"
+    publishedDateTime: 2023-05-03T12:25:00Z
+    webUrl: "https://hbr.org/2023/05/human-error-drives-most-cyber-incidents-could-ai-help"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 17
 
 secured: "tEkybSikODATbXVJ4Xmb7p4Aze+vyxiwcTen/E2HMiLafBlY79uf+e9mV50iHJ+hrN+Ddt3oWDUbOqI0/W+M5yPbzHBkDvDvmSlqfMSyDliON6EQ7UcctSTQUzPnQXuMhi+ZTr0ej30bdi8DTkrG+SENE1YZnWq0frYT8scdNMm/jMAacV3iikrzMLEFRyY2wsciaJtXQJQtyqtjd2xbO9kpNycnoJLTKX276/J1YBb/RrJneyV4mdmr6Qxw8S7X6kSKDH2m4yyS475LwoBb0zF/4ZB3Iry8ltxZeR2RC4y+l7y8vpUiZWLTvRVBG33inSzzE1iudelBjD8oDyfwQeufajaG4/yYgQbU9oepufo=;lu0+Kov/U/YngfX9/Dp2hA=="
 ---

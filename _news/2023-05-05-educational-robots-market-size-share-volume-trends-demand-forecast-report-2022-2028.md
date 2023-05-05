@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Voice User Interface Global Market Report 2023: Rising use of Artificial Intelligence Drives Growth"
+    excerpt: "The \"Voice User Interface Global Market Report 2023\" report has been added to ResearchAndMarkets.com's offering. This report provides strategists, marketers and senior"
+    publishedDateTime: 2023-05-02T21:16:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/05/n32175548/voice-user-interface-global-market-report-2023-rising-use-of-artificial-intelligence-drives-growth"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32175548"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32175548"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 45
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "Robotic Cleaning Machines Market Size, Trends, Scope and Industry Demands Analysis 2023 – 2029"
     excerpt: "The Global \" Robotic Cleaning Machines Market \" Research report give detailed information with reference to market size, share, trends, growth, cost revenue, capacity, and forecast till 2029. This report also contains the general and in-depth study of the Robotic Cleaning Machines market with all its aspects influencing the growth of the market."
     publishedDateTime: 2023-05-03T10:45:00Z
@@ -124,20 +140,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 28
-  - title: "Voice User Interface Global Market Report 2023: Rising use of Artificial Intelligence Drives Growth"
-    excerpt: "This report provides strategists, marketers and senior management with the critical information they need to assess the market. The global voice user interface market is expected"
-    publishedDateTime: 2023-05-02T23:15:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/05/02/9806317.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 25
-    images:
-      - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
-        width: 550
-        height: 353
-        isCached: true
   - title: "2023-2029 Biometric Voice Recognition Market Sale, Growing Opportunities and Countries Analysis| Report Reviewed by Experts"
     excerpt: "The global \"Biometric Voice Recognition Market\" research report for 2023 provides a comprehensive analysis of the industry. It includes an in-depth segmentation based on regional factors, product types, applications, and key manufacturers. The report ..."
     publishedDateTime: 2023-05-04T17:59:00Z

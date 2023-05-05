@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Bing AI Chat is now open to everyone, though still in preview"
+    excerpt: "Persistent chat, images and video, a chat sidebar and the promise of third-party plugins make Bing Chat more useful but not perfect."
+    publishedDateTime: 2023-05-05T05:48:00Z
+    webUrl: "https://www.techrepublic.com/article/bing-ai-chat-open/"
+    ampWebUrl: "https://www.techrepublic.com/article/bing-ai-chat-open/amp/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/bing-ai-chat-open/amp/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 87
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/05/All-the-new-Bing-chat-features.jpg"
+        width: 1400
+        height: 788
+        isCached: true
   - title: "The new AI-powered Bing is now open to everyone - with some serious upgrades"
     excerpt: "Microsoft just made the new Bing available to all and unveiled new features that you will want to try out for yourself."
     publishedDateTime: 2023-05-04T06:59:00Z
