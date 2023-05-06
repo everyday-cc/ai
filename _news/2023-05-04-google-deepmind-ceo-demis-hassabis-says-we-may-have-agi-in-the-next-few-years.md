@@ -8,7 +8,7 @@ webUrl: "https://cointelegraph.com/news/google-deepmind-ceo-demis-hassabis-says-
 ampWebUrl: "https://cointelegraph.com/news/google-deepmind-ceo-demis-hassabis-says-we-may-have-agi-in-the-next-few-years/amp"
 cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/google-deepmind-ceo-demis-hassabis-says-we-may-have-agi-in-the-next-few-years/amp"
 type: article
-quality: 35
+quality: 55
 heat: -1
 published: false
 
@@ -19,6 +19,12 @@ provider:
 topics:
   - Google AI
   - AI
+
+images:
+  - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-05/8816cba6-46c4-455c-904b-aff09c709719.jpg"
+    width: 740
+    height: 492
+    isCached: true
 
 related:
   - title: "CEO of Google’s DeepMind says we could be ‘just a few years’ from A.I. that has human-level intelligence"
@@ -130,6 +136,6 @@ related:
       domain: nypost.com
     quality: 29
 
-secured: "inba4E362Pp4HzqwciAytPSi/bmDEsBWhFM6XRDiSAv/U75UhHZCAwVlFtFymp8YyWVcpF2v8dqs1xESpfwCLx6qXT5gtjXiumsMEGyMBJ1v/diG7PPTmqQBcd0Bb1e6/3e/GmR9MEP61H6LkhwzUOCbn8+C1FjYnwS7tsVNRnV+Abbko12+ik0bpHDFc0MxjwvPgOnmC+GrtRIFHVvh7RPTiaguV+N2vgtvasggJHKN+gT4SHU2iWiy+0Ta/jZkaHzqsT61gtccfDlkMsF+ittGUTe585iZ6wtsWo5Fi2f/O7sukgdx+I+Fhfgp9dxtuhNqnMuUMsJlhzDh4VblX71Im7XUQl+RyMBz/rp0LNs=;m2tlowjs5fl3N0UZi2KLsQ=="
+secured: "tXTvRIMEYSF3QB8hBFN9ZGl5K3wx8E7aGspfOzrVW1SLfAg59p7i/ZQLX7SB2sn2um3cf7QvmTgitgfgyFPxAOQUvFxyIKV5yFsDzSZ4739I1cLH3KYm8nbqjPE2ncwcsmmgXT32yZa1vDqDL/csFkkQQ0DS2asCadr0vZmRE4+elYnzP6BuxdRIpM85i6AcltxlVJefJN0EhhVewkTLoq1U+LoiEIFX/SRgdmktfTtJ2n3yagH3Fzc7JmN6F+WzYobYH4n+FNb9solKyk5mT1CisG/yQEHbqPOI2VBmoxDOYVSFRKvm2aN9VqwL3qJ6QOfoBUdtrK05C3mulL44ERk+CK9zEy1Zo1QtWhiZm5Q=;Z+idoyILqRZ4Om7lVux4HQ=="
 ---
 

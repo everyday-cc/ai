@@ -1,18 +1,22 @@
 ---
 category: news
 title: "University of Southern California launches $1B-plus initiative for computing including AI, advanced computation and quantum computing"
-excerpt: "Folt launches the single largest comprehensive academic initiative in the university's history: Frontiers of Computing. The initiative integrates computing throughout education and research to enhance digital literacy for all students as the university aims to hold its lead as a top provider of tech professionals."
-publishedDateTime: 2023-05-05T20:04:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2023/05/05/9808827.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2023/05/05/9808827.htm"
+excerpt: "Folt on Thursday announced a $1 billion-plus initiative for computing research and education across disciplines, with a focus on AI, machine learning and data ... to have a solid grounding in technology and the ethics of the work that they do,\" Folt ..."
+publishedDateTime: 2023-05-05T18:56:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/university-of-southern-california-launches-1b-plus-initiative-for-computing-including-ai-advanced-computation-and-quantum-computing-1032298479"
+webUrl: "https://markets.businessinsider.com/news/stocks/university-of-southern-california-launches-1b-plus-initiative-for-computing-including-ai-advanced-computation-and-quantum-computing-1032298479"
 type: article
-quality: 8
+quality: 38
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Ethics
@@ -25,23 +29,46 @@ images:
     isCached: true
 
 related:
-  - title: "University of Hawaii Working with Indigenous Leaders on AI"
-    excerpt: "The university has tapped a six-year, $17 million grant from Canada's New Frontiers in Research Fund for an international research project to involve Indigenous scholars in the training of new AI models."
-    publishedDateTime: 2023-05-01T20:36:00Z
-    webUrl: "https://www.govtech.com/education/higher-ed/university-of-hawaii-working-with-indigenous-leaders-on-ai"
-    ampWebUrl: "https://www.govtech.com/education/higher-ed/university-of-hawaii-working-with-indigenous-leaders-on-ai?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/university-of-hawaii-working-with-indigenous-leaders-on-ai?_amp=true"
+  - title: "Opinion: California Wrong to Expand Facial Recognition Use"
+    excerpt: "The technology still misidentifies individuals, especially when it’s focused on people of color. While the technology has advanced, the problems haven't gone away, and new legislation won’t fix them either."
+    publishedDateTime: 2023-05-04T22:56:00Z
+    webUrl: "https://www.govtech.com/opinion/opinion-california-wrong-to-expand-facial-recognition-use"
+    ampWebUrl: "https://www.govtech.com/opinion/opinion-california-wrong-to-expand-facial-recognition-use?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/opinion/opinion-california-wrong-to-expand-facial-recognition-use?_amp=true"
     type: article
     provider:
       name: Government Technology
       domain: govtech.com
     quality: 59
     images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/a5b14ec/2147483647/strip/true/crop/1170x610+0+45/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fa0%2Fea%2F922559a6c43d707cef0ad4f84a01%2Fflickr-artificial-intelligence.jpg"
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/cf6e9f9/2147483647/strip/true/crop/940x490+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F13%2F77%2F5763ddd14e65eb9c7594500441fc%2Fshutterstock-1270097047.jpg"
         width: 840
         height: 438
         isCached: true
+  - title: "In California, the specter of self-driving trucks brings a backlash"
+    excerpt: "California, the birthplace and epicenter of the self-driving industry, could soon put the brakes on autonomous trucking."
+    publishedDateTime: 2023-05-05T04:00:00Z
+    webUrl: "https://www.autonews.com/mobility-report/california-assembly-bill-316-chills-self-driving-truck-hopes"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://www.autonews.com/s3/files/styles/1200x630/public/california_truck_tech-MAIN.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "California’s wrong to expand the use of facial recognition systems"
+    excerpt: "As technology advances, so too do the challenges surrounding the protection of the public’s privacy and our civil liberties."
+    publishedDateTime: 2023-05-03T15:00:00Z
+    webUrl: "https://www.ocregister.com/2023/05/03/state-wrong-to-expand-use-of-face-id-systems/"
+    type: article
+    provider:
+      name: Orange County Register
+      domain: ocregister.com
+    quality: 19
 
-secured: "WMgXIm/nCQPgfHVgMqORsF3+oym09q9vSUw6tY0fddmWCvVUvgpyMXWS4JOhJIyaEy51vwex3SpTCrjDk1Wt+rPg2CjSncpdCw6xshL1Crpwp9CnUuYRHVDRp+dbKhJvz4V2UhVTo93Jhgf+WccQpMLicPbHsETebdHveWhLMEqyDmPOz7pzCcLV9TgNbYzxi1C52LraZhb2C59NBEW7o5yGWyy9WMEN16GCsCg9sEDraatThY3bS+X2ELkvRuh5u+VVJF3Wn1WCD/3rRoKaNbRjX0/hBoOrmCBNEtmUSvvh/mylC9j2HvBF6DFyOnHjRdM1n6S7COtBPcC5ZjkmDjlFszPU1rewTinNtwjHWLc=;iCUFxeEON5nFxGLNm1Yfuw=="
+secured: "dbrGBz3LJ0FlKLa+GFS5xPAu8oqOqlsO4JW0opIqj4GcuE76qVSPizMpJfoXeHJmCRs3ALgzglAYfmKbVZ51hMTsgjevksIKQJxBsVdJUfIEhCNdwaI3CfV4hxWlMlAqnZg09kiGFJ8lX6iW5dD3P71ppcqm+uvs/ygxINIGMitmrAmI6y5pIsza3AIV1b7R60g47Siyu/Jpwb38SEsLezDuTXid/KR+FsU29kajiQbbwK0oiHvdznoL6KLo0hZroEQ6V2m/voqDLMTiNETG3bqKjjlsKidlUxFqRID7pq9jIm5Wyy6p3fXbLb2I/RVo4Ky+Iq3XLccZDOOpyEyfU0bQV/NCrKZASWeGdxjKvwo=;q4G6OLbeFFqCcl1pJrgzHQ=="
 ---
 

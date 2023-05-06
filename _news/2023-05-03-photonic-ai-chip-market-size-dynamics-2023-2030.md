@@ -23,45 +23,84 @@ topics:
   - AI
 
 related:
-  - title: "Lithography-free photonic chip offers speed and accuracy for artificial intelligence"
-    excerpt: "Photonic chips have revolutionized data-heavy technologies. On their own or in concert with traditional electronic circuits, these laser-powered devices send and process information at the speed of light,"
-    publishedDateTime: 2023-05-01T14:53:00Z
-    webUrl: "https://phys.org/news/2023-05-lithography-free-photonic-chip-accuracy-artificial.html"
-    ampWebUrl: "https://phys.org/news/2023-05-lithography-free-photonic-chip-accuracy-artificial.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-05-lithography-free-photonic-chip-accuracy-artificial.amp"
+  - title: "Global Edge Artificial Intelligence (AI) Chip Market 2023-2030: Size and Forecast"
+    excerpt: "Number of Tables and Figures: 129 Pages | Report Highlights: Future Growth Projections, CAGR, Types, Application and"
+    publishedDateTime: 2023-05-05T16:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-2023-2030-size-and-forecast-2023-05-05"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 67
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 94
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/lithography-free-photo.jpg"
-        width: 600
-        height: 400
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Lithography-free photonic chip offers speed and accuracy for artificial intelligence"
-    excerpt: "Researchers have created a photonic device that provides programmable on-chip information processing without lithography, offering the speed of photonics augmented by superior accuracy and flexibility for AI applications."
-    publishedDateTime: 2023-05-01T17:59:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2023/05/230501114010.htm"
+  - title: "Automated Machine Learning (AutoML) Market 2023 Size, Shares, and Future Forecasts to 2031"
+    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
+    publishedDateTime: 2023-05-02T11:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-2023-size-shares-and-future-forecasts-to-2031-2023-05-02"
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 57
-  - title: "Lithography-free photonic chip offers new model for faster processing"
-    excerpt: "University of Pennsylvania approach promises accuracy and flexibility for AI applications Lithography processes have traditionally been used to manufacture photonic chips, analogous to the operations used to create electron-guiding paths in conventional chips,"
-    publishedDateTime: 2023-05-03T10:20:00Z
-    webUrl: "https://optics.org/news/14/4/48"
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 76
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Market Size and Sales Report 2023"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. May 03, 2023 (The Expresswire) -- Global Artificial Intelligence Market Research ..."
+    publishedDateTime: 2023-05-03T13:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-and-sales-report-2023-2023-05-03"
     type: article
     provider:
-      name: Optics
-      domain: optics.org
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
+  - title: "Machine Learning Chip Market Global Analysis 2023-2030"
+    excerpt: "Section 5: Research Method and Data Source. Get a Sample PDF of report @ https://www.360marketupdates.com/enquiry/request-sample/19278373 Highlights with Short Brief ..."
+    publishedDateTime: 2023-05-04T12:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-chip-market-global-analysis-2023-2030-2023-05-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
+  - title: "Artificial Intelligence in Platform as a Service (PaaS) Market by 2030: Future Scope and Predictions"
+    excerpt: "Get a sample PDF of the report at -  The global Artificial Intelligence in Platform as a Service (PaaS) market size was valued at USD 4771.18 million in 2022 and is expected to expand at a CAGR of 20."
+    publishedDateTime: 2023-05-03T05:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-platform-as-a-service-paas-market-by-2030-future-scope-and-predictions-2023-05-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Natural Language Processing For Healthcare And Life Sciences Market Size, Revenue, and Forecast 2030"
+    excerpt: "Highlights with Short Brief of Natural Language Processing For Healthcare And Life Sciences Market: The Natural Language Processing For Healthcare And Life Sciences market revenue was Million USD in 2016, grew to Million USD in 2021, and will reach Million ..."
+    publishedDateTime: 2023-05-04T12:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-for-healthcare-and-life-sciences-market-size-revenue-and-forecast-2030-2023-05-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+  - title: "Global Artificial Intelligence Chips Market [2023-2030] | Experience the Future of Industry"
+    excerpt: "GlobalArtificial Intelligence Chips Market[2023-2030] research report is a compilation of information and analysis"
+    publishedDateTime: 2023-05-05T08:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-chips-market-2023-2030-experience-the-future-of-industry-2023-05-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 39
-    images:
-      - url: "https://optics.org/objects/news/thumb/14/4/48/upenn_may23.jpg"
-        width: 380
-        height: 268
-        isCached: true
 
 secured: "hL//ALNUCZS5dl2H18lH721OUqFJYPef+XCp2TY2B3SUur6TWzGfUHzTw1bk2lpB6s1IqGiPyuEWXNbUo6fSQHkgPm+hJ4aPUJexm4foBh0SGam+N7xgsk8DBZVuIfhOKn8ODI7UwFB2KyXqlq1dVe0c+O5Fa4cwuUrpEJWh1hwDkLIApx5N7BFGJ1E9teet9ChK3zErHOomNbKCcC4BHYDyUk6PtebzXF3Hm3cy5xIfuStulJYo1iT2Z2f23JuUyEigT4FKJGyv731e67z6bWZLj+qdRwatBzFHOswN8RcPuJ/WeFemPEWKJ7lhlR1dyh12OswW5Rwbb4Uj0WtruMGd6+SpE6eSCYKzPHBi3t4=;c5UP0t5phEUO/J9hUR+aXQ=="
 ---

@@ -61,6 +61,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Neural Network Pioneer Geoffrey Hinton Sounds The Alarm On AI"
+    excerpt: "One of the world's foremost AI experts, and a pioneer of the neural network concept ... at Google so he can freely speak about the danger artificial intelligence poses. Speaking to the New ..."
+    publishedDateTime: 2023-05-01T17:46:00Z
+    webUrl: "https://www.slashgear.com/1273138/neural-network-geoffrey-hinton-alarm-ai/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 84
+    images:
+      - url: "https://www.slashgear.com/img/gallery/neural-network-pioneer-geoffrey-hinton-sounds-the-alarm-on-ai/l-intro-1682962754.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Deep learning pioneer Geoffrey Hinton quits Google"
     excerpt: "Geoffrey Hinton, a VP and Engineering Fellow at Google, and a pioneer of deep learning who developed some of the most important techniques at the heart of modern AI, is leaving the company after 10 years, the New York Times reported today."
     publishedDateTime: 2023-05-01T09:25:00Z

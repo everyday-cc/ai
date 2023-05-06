@@ -28,17 +28,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Computer Vision in Automation Market Growth, Business Overview 2023, and Forecast to 2030 | Intel Corporation, Apple Inc., Cognex Corporation"
-    excerpt: "The Computer Vision in Automation Market studies predominant aim is to collect the maximum useful insights for any"
-    publishedDateTime: 2023-05-02T07:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-automation-market-growth-business-overview-2023-and-forecast-to-2030-intel-corporation-apple-inc-cognex-corporation-2023-05-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 14
-
 secured: "5XsrmRZq9QgU+JPNnDiLLsBHiww5Y5KBW9gOu7cQhWYINx1PK5crgScZu48xbyzVBh6sbrSri6yfXdD1af30KLIMQMpifyU5xX/dwWF58WoCwYC2Ku0XL007ZbsjghRG8l4qiloP9wQ8yufD171CcOw9a2GsKx4nFQ2KAztm1ClywZhWfKxs0dH1azdoaZmwJtNhcUGQMTW+5bQZi7tuGjb+PcHjsJ74O7G9kcF1znkQDGuZB9AhOsDOZ+jO5i7lYj/GtxVa4Cg0mlBK4pKavz0PNba+PpgmOhyRTi011rg023DWDyYmb5ctEbwpNJRHYTnx/cXtuAlBLgEpZ2F8jBXJiV272BlYfRWNLP+ws9Q=;UsD7eAYSq4hsQQOZGG46+w=="
 ---
 

@@ -154,6 +154,22 @@ related:
         width: 700
         height: 437
         isCached: true
+  - title: "'Godfather of AI' on regulating artificial intelligence: 'things are incredibly uncertain'"
+    excerpt: "Katy Tur spoke with Geoffrey Hinton, fmr. Vice President and Engineering Fellow at Google known as the 'Godfather of A.I.' about the furture of artificial intelligence."
+    publishedDateTime: 2023-05-04T19:58:00Z
+    webUrl: "https://www.msnbc.com/katy-tur/watch/-godfather-of-ai-on-regulating-artificial-intelligence-things-are-incredibly-uncertain-172780101692"
+    ampWebUrl: "https://www.msnbc.com/msnbc/amp-video/mmvo172780101692"
+    cdnAmpWebUrl: "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp-video/mmvo172780101692"
+    type: article
+    provider:
+      name: MSNBC
+      domain: msnbc.com
+    quality: 62
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_05/1683230204178_n_tur_geoffreyhinton_05042023_1920x1080-u1wuh1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "What Are The Concerns About Artificial Intelligence Raised By The Godfather Of AI Geoffrey Hinton?"
     excerpt: "Geoffrey Hinton, the Godfather of AI, has quit his job at Google to warn about the dangers of Artificial Intelligence. Check what are the 4 concerns"
     publishedDateTime: 2023-05-05T16:38:00Z

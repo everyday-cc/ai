@@ -41,15 +41,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Photonic AI Chip Market size Dynamics 2023-2030"
-    excerpt: "Global\" Photonic AI Chip Market \"report provides a comprehensive analysis of the market, including its current"
-    publishedDateTime: 2023-05-03T07:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/photonic-ai-chip-market-size-dynamics-2023-2030-2023-05-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
   - title: "Lithography-free photonic chip offers speed and accuracy for artificial intelligence"
     excerpt: "Researchers have created a photonic device that provides programmable on-chip information processing without lithography, offering the speed of photonics augmented by superior accuracy and flexibility for AI applications."
     publishedDateTime: 2023-05-01T17:59:00Z

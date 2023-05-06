@@ -59,6 +59,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Neural Network Pioneer Geoffrey Hinton Sounds The Alarm On AI"
+    excerpt: "One of the world's foremost AI experts, and a pioneer of the neural network concept ... at Google so he can freely speak about the danger artificial intelligence poses. Speaking to the New ..."
+    publishedDateTime: 2023-05-01T17:46:00Z
+    webUrl: "https://www.slashgear.com/1273138/neural-network-geoffrey-hinton-alarm-ai/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 84
+    images:
+      - url: "https://www.slashgear.com/img/gallery/neural-network-pioneer-geoffrey-hinton-sounds-the-alarm-on-ai/l-intro-1682962754.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "The Godfather of AI, Geoffrey Hinton, Reveals the Future of Artificial Intelligence"
     excerpt: "As AI technology continues to improve and become more sophisticated, it's inevitable that it will be used for both good and bad purposes"
     publishedDateTime: 2023-05-02T05:03:00Z
@@ -190,6 +204,6 @@ related:
       domain: arabianbusiness.com
     quality: 15
 
-secured: "vQHlDl4JL7yugDFQYQu5qa0t50BYNc7wXSaqM0NQRIdA2MqOZtHJPudob/a3qNE6ZKzTbArz99PzfeJ1L3FjM1mcOtBxkqb8y55bz91a9M1wOBJbLEzxGEibKz9nUcW1R61y8ReuIruuNMJ6yaftSgDdEGcNz9eqaDz32LbJLXRpFENdyR5LjVqjDd+4gedc5a9VIMkb1Sb9ChWLPYknayMsFH/q2u+orGrjF4vJddUSQavwUQltoaezQcDWXrjByc49Ej+RXyn5qN94XrkDzO9oQRlI/Y3NjSV5CFqMTbtSE3urR5HGITTQrQnFzZpejP3WrRcRJ8JSjmiNf34UAwgQjbNyXdYUsuDe66WIy8A=;hfCndz/mCQ4KcSA0mGblKg=="
+secured: "FMYiemkwATBTsAN/mvxrWw7L6al8s1Re1nd5oobsfF1d65jGLoQzFNI61RiGdMnkNMN6QcAUeD1/c0bK8IS1C9p4RQYfpOvqUL2u7Ubz64ZDL1cZLsIilXcG4muYYTux5xsjntFFF+OfH5X2hLfv4BjXIJSRFNInk70ZkOQFHjM/VZREmlxaeFixsOGhCAPgznicw4axx20TLCQN1UQ8IyeNq5ekpkz2MAbtKFnmQzlVNzU1OX7uIndf6iqMEs5rlqOcjP5Bjps7skSU9AFTydw2BcKvDco0eKXyunnHwQZa6rSQiBHDFoxxsNZTD3mjJ5rbdAmdWV86KQz/ELtRw31nSTQL1UtmgkYrc4Ax/aDOj6tGFM2ueb0c4t+X7V+n/u/hVxqsenw6rQyxgs+Hcunq6ujiXqt8Mur4hx+iD/ar/tC9j/aCifJRqE+WkHTPOUV8/KEpXrMfF9oruQTPH7mRsP0gSC1nju1O7JXhwDyQmVrZNxif6a1d6WKT2w3RcsfyqoAHfaTm3T8XH35Z1Q==;HRBGL7lTujPblR/6HybjMA=="
 ---
 

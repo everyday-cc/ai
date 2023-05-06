@@ -95,6 +95,20 @@ related:
         width: 1248
         height: 650
         isCached: true
+  - title: "Scientists warn of AI dangers but don't agree on solutions"
+    excerpt: "Computer scientists who helped build the foundations of today’s artificial intelligence technology are warning of its dangers, but that doesn’t mean they agree on what those dangers are or how to prevent them."
+    publishedDateTime: 2023-05-04T00:54:00Z
+    webUrl: "https://www.chron.com/news/politics/article/scientists-warn-of-ai-dangers-but-don-t-agree-on-18076413.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 37
+    images:
+      - url: "https://s.hdnux.com/photos/01/32/56/21/23782509/6/rawImage.jpg"
+        width: 2048
+        height: 1250
+        isCached: true
   - title: "Toronto's pioneer of artificial intelligence quits Google to openly discuss dangers of AI"
     excerpt: "A Toronto professor considered to be a pioneer in the field of artificial intelligence announced his departure from Google on Monday so that he could openly discuss the “dangers of AI.”"
     publishedDateTime: 2023-05-01T17:46:00Z
@@ -104,6 +118,15 @@ related:
       name: CTV News
       domain: ctvnews.ca
     quality: 25
+  - title: "Scientists warn of AI dangers but don’t agree on solutions"
+    excerpt: "Margaret Mitchell, a former leader on Google’s AI ethics team, said she’s upset that Hinton didn’t speak out during his decade in a position of power at Google, especially after the 2020 ouster of prominent Black scientist Timnit Gebru, who had ..."
+    publishedDateTime: 2023-05-04T18:21:00Z
+    webUrl: "https://neworleanscitybusiness.com/blog/2023/05/04/scientists-warn-of-ai-dangers-but-dont-agree-on-solutions/"
+    type: article
+    provider:
+      name: New Orleans City Business
+      domain: neworleanscitybusiness.com
+    quality: 19
   - title: "‘Quite scary’: Artificial intelligence pioneer quits Google over fears of rapid escalation"
     excerpt: "Hinton, 75, expressed regret about his work in a statement to The New York Times, warning that chatbots powered by AI are “quite scary” and could soon surpass human intelligence. He explained that AI systems like GPT-4 already eclipse humans in terms of general knowledge and could soon surpass them in reasoning ability as well."
     publishedDateTime: 2023-05-02T14:53:00Z

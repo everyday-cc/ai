@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/hackers-to-put-ai-models-from-google-op
 webUrl: "https://www.pcmag.com/news/hackers-to-put-ai-models-from-google-openai-more-to-the-test-at-defcon"
 type: article
 quality: 65
-heat: 65
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,56 @@ images:
     width: 1120
     height: 630
     isCached: true
+
+related:
+  - title: "It’s generative AI models vs. hackers at DEF CON’s AI Village"
+    excerpt: "This year’s DEF CON 31 security conference, being held August 10–13, will feature a public assessment of generative AI at the AI Village."
+    publishedDateTime: 2023-05-05T20:40:00Z
+    webUrl: "https://venturebeat.com/ai/its-generative-ai-models-vs-hackers-at-def-cons-ai-village/"
+    ampWebUrl: "https://venturebeat.com/ai/its-generative-ai-models-vs-hackers-at-def-cons-ai-village/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/its-generative-ai-models-vs-hackers-at-def-cons-ai-village/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/05/VB_hackers_hackathon_bing_1200x800.jpg?w=1200&strip=all"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Generative AI defined: How it works, benefits and dangers"
+    excerpt: "In April 2023, the European Union proposed new copyright rules for generative AI that would require companies to disclose any copyrighted material used to develop these tools. Hopes are that such rules will encourage transparency and ethics in AI ..."
+    publishedDateTime: 2023-05-04T19:22:00Z
+    webUrl: "https://www.techrepublic.com/article/what-is-generative-ai/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 49
+  - title: "FTC attorney says agency concerned with generative AI use"
+    excerpt: "Companies developing novel artificial intelligence (AI) tools might want to think carefully before laying off ethics personnel, an attorney with the Federal Trade Commission (FTC) warned. The agency is closely tracking company use of AI tools for possible ..."
+    publishedDateTime: 2023-05-02T19:34:00Z
+    webUrl: "https://www.complianceweek.com/regulatory-policy/ftc-attorney-says-agency-concerned-with-generative-ai-use/33027.article"
+    type: article
+    provider:
+      name: Compliance Week
+      domain: complianceweek.com
+    quality: 39
+    images:
+      - url: "https://d6jxgaftxvagq.cloudfront.net/Pictures/1024x536/8/9/1/16891_artificialintelligenceethics_852683.jpg"
+        width: 1024
+        height: 536
+        isCached: true
+  - title: "Box embeds generative AI into its Content Cloud"
+    excerpt: "Announced at Box’s Content Cloud Summit today, Box AI is billed as a suite of AI capabilities that will primarily focus on two things: helping users to ask questions about documents and creating new content in Box."
+    publishedDateTime: 2023-05-02T12:00:00Z
+    webUrl: "https://siliconangle.com/2023/05/02/box-embeds-generative-ai-content-cloud/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 19
 
 secured: "VPGKzioXkjNr0v9gPWI2vPgM7lFBstD5a/L5Ca4PgXNMJ1d9MHxkLNi9DhUpDBnU1aNjtWz8uVTr5DC5ZIrokYZYDczXrP/h5OQUVlQkp+sQ/QzC4SrhaNfeK8rHae/QBxOa9h2N37/sHNl39Dht7hVfzgQ2Yp5AI92pqZ/Y3kB7erirMlNmlVHyJ/060dTETrU8Ydih9QoKT9s60vprDPLNVrU4WPWO8C+RJygYM8N5EXmv06SjrQDZcXlY3DQQbRNk623C1adNTVe+Eav/qcTrUyXSok2yH6fwbpwrvNJoEhFPDA6m9iw7b/UZP9EYKL8cqn4J29MJRXEIkxXqzoMi2WjB3GRi/d2tE1X/xfYuREZq6qTBQ6dfrkmIbkE83nxIJoxdUxRFa6yYEks9cOQDLe3c8zqow208PtQa8UJceEIimhEzfrjw+jy2QHoU8COj6WgFxWd7vBl2IH6e5O8285DBNF1y1YlpGtMhJKvYejBl4WvfwctaQwrscHaHiviQB/4fyMATaOwpw8RyIA==;gl6vkOyZ9pCF50zrlPS/lQ=="
 ---

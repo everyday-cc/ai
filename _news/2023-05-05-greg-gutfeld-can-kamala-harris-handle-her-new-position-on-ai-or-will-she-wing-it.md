@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/opinion/greg-gutfeld-can-kamala-harris-handl
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/greg-gutfeld-can-kamala-harris-handle-her-new-position-on-ai-or-will-she-wing-it.amp"
 type: article
 quality: 81
-heat: 81
+heat: 83
 published: true
 
 provider:

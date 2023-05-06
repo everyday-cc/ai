@@ -134,15 +134,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Natural Language Processing For Healthcare And Life Sciences Market Size, Revenue, and Forecast 2030"
-    excerpt: "Highlights with Short Brief of Natural Language Processing For Healthcare And Life Sciences Market: The Natural Language Processing For Healthcare And Life Sciences market revenue was Million USD in 2016, grew to Million USD in 2021, and will reach Million ..."
-    publishedDateTime: 2023-05-04T12:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-for-healthcare-and-life-sciences-market-size-revenue-and-forecast-2030-2023-05-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
   - title: "3 Cutting-Edge AI Stocks Set to Dominate the Market"
     excerpt: "It has shown the incredible powers of AI to understand language and create humanlike content. The technology is poised to transform many parts of business. According to a survey of from Enterprise Technology Research, about 53% of IT decisionmakers expect ..."
     publishedDateTime: 2023-05-03T16:47:00Z

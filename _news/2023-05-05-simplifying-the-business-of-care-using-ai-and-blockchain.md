@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/05/05/simplifyi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/05/05/simplifying-the-business-of-care-using-ai-and-blockchain/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "A Blockchain, Robotics And AI Event In Vietnam"
+    excerpt: "Blockchain Education Network Vietnam recently held an event titled “Building a Robotics & Artificial Intelligence Ecosystem with Blockchain”. The title alone has three of my favorite things in ..."
+    publishedDateTime: 2023-05-04T00:00:00Z
+    webUrl: "https://hackaday.com/2018/04/27/a-blockchain-robotics-and-ai-event-in-vietnam/"
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 69
+    images:
+      - url: "https://hackaday.com/wp-content/uploads/2020/05/LinuxFu-thumb.jpg?w=600&#038;h=600"
+        width: 600
+        height: 600
+        isCached: true
   - title: "Unlocking The Power Of Generative AI: Exploring Business Models And Dispelling Fears"
     excerpt: "If there’s one topic that’s dominated the news cycle in 2023, it’s generative AI. This field of technology has experienced a tremendous surge in growth and popularity in recent months, with services like ChatGPT, Dall-E and Stable Diffusion held up as powerful new tools to help humanity—or to doom it."
     publishedDateTime: 2023-05-03T13:30:00Z

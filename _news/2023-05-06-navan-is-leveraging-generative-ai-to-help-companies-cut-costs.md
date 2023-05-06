@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2023/05/05/navan-is-leverag
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/05/05/navan-is-leveraging-generative-ai-to-help-companies-cut-costs/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Box embeds generative AI into its Content Cloud"
-    excerpt: "Announced at Box’s Content Cloud Summit today, Box AI is billed as a suite of AI capabilities that will primarily focus on two things: helping users to ask questions about documents and creating new content in Box."
-    publishedDateTime: 2023-05-02T12:00:00Z
-    webUrl: "https://siliconangle.com/2023/05/02/box-embeds-generative-ai-content-cloud/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 19
 
 secured: "7jIICoIpJWfWGTqb6Ra4mxVIeHPxFppDd4eOtQv8vwW4/Ktst7LVeh3zZsm5XGYA/MEnjkT5EIPFZMUaVDp00I/gYVhJn/1pycTqYw879xv8WNoenSjsj56AmIO3HeTnzJ+x6ytax6ebTl4xZxpSE5eVs6rSNqE95S17FAx8/Qs0Axuw9wKfM/TeIduRgdjWcXAxpfl+kjkxEet9+WU/v0vUDc8JG3AMASLabTp94Ztkn1n/NPDL82YW6YPjO99a/LdNw26al8FlGyAmQH83yzrksVtIQ9WNZ7Tk+DkG8q5ECHurQlxk2LIhXuxNJ3mmh3DT9ISsmcSjfTpPLfwraqTazlPwrEOH8TbGl4FSCPw=;I7NDZd6CGvlzWKbDEtgmwg=="
 ---

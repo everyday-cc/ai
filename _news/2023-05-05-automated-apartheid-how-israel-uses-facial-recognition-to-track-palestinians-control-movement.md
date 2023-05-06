@@ -53,6 +53,17 @@ related:
         width: 1000
         height: 800
         isCached: true
+  - title: "Facial recognition powers ‘automated apartheid’ in Israel, report says"
+    excerpt: "Israel is increasingly relying on facial recognition in the occupied West Bank to track Palestinians and restrict their passage through key checkpoints."
+    publishedDateTime: 2023-05-02T22:43:00Z
+    webUrl: "https://www.seattletimes.com/business/facial-recognition-powers-automated-apartheid-in-israel-report-says/"
+    ampWebUrl: "https://www.seattletimes.com/business/facial-recognition-powers-automated-apartheid-in-israel-report-says/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/facial-recognition-powers-automated-apartheid-in-israel-report-says/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 39
   - title: "Facial recognition technology used by Israel to ‘supercharge segregation and automate apartheid,’ says Amnesty"
     excerpt: "ISRAEL is using an experimental facial recognition system to “” Amnesty International general secretary Agnes Callamard warns today. The liberal charity is publishing a new report, Automated Apartheid,"
     publishedDateTime: 2023-05-01T23:46:00Z

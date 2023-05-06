@@ -19,35 +19,58 @@ topics:
   - AI
 
 related:
-  - title: "Navan Is Leveraging Generative AI To Help Companies Cut Costs"
-    excerpt: "The travel and expense management solution has expanded the capabilities of its AI-driven virtual assistant, Ava, to optimize travel and expense management for businesses."
-    publishedDateTime: 2023-05-05T20:04:00Z
-    webUrl: "https://www.forbes.com/sites/johanmoreno/2023/05/05/navan-is-leveraging-generative-ai-to-help-companies-cut-costs/"
-    ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2023/05/05/navan-is-leveraging-generative-ai-to-help-companies-cut-costs/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/05/05/navan-is-leveraging-generative-ai-to-help-companies-cut-costs/amp/"
+  - title: "It’s generative AI models vs. hackers at DEF CON’s AI Village"
+    excerpt: "This year’s DEF CON 31 security conference, being held August 10–13, will feature a public assessment of generative AI at the AI Village."
+    publishedDateTime: 2023-05-05T20:40:00Z
+    webUrl: "https://venturebeat.com/ai/its-generative-ai-models-vs-hackers-at-def-cons-ai-village/"
+    ampWebUrl: "https://venturebeat.com/ai/its-generative-ai-models-vs-hackers-at-def-cons-ai-village/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/its-generative-ai-models-vs-hackers-at-def-cons-ai-village/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: VentureBeat
+      domain: venturebeat.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6455606519524744e09c02fa/0x0.jpg?format=jpg&width=1200"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/05/VB_hackers_hackathon_bing_1200x800.jpg?w=1200&strip=all"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
-  - title: "Pandora’s Box: Generative AI Companies, ChatGPT, and Human Rights"
-    excerpt: "ChatGPT and generative artificial intelligence (AI) are dominating headlines and conversations. But what’s behind this technology? Who feeds it data and decides where the data comes from? What does this have to do with human rights?"
-    publishedDateTime: 2023-05-03T04:00:00Z
-    webUrl: "https://www.hrw.org/news/2023/05/03/pandoras-box-generative-ai-companies-chatgpt-and-human-rights"
+  - title: "Hackers to Put AI Models From Google, OpenAI, More to the Test at Defcon 31"
+    excerpt: "In partnership with the White House, Defcon is calling on attendees at the hacker conference to find bugs in AI models from Google, Hugging Face, OpenAI, and more."
+    publishedDateTime: 2023-05-04T19:08:00Z
+    webUrl: "https://www.pcmag.com/news/hackers-to-put-ai-models-from-google-openai-more-to-the-test-at-defcon"
     type: article
     provider:
-      name: Human Rights Watch
-      domain: hrw.org
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 65
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/02dnoO4QzOEXSFteoSc3WHY-3.fit_lim.size_1200x630.v1683219099.jpg"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "Generative AI defined: How it works, benefits and dangers"
+    excerpt: "In April 2023, the European Union proposed new copyright rules for generative AI that would require companies to disclose any copyrighted material used to develop these tools. Hopes are that such rules will encourage transparency and ethics in AI ..."
+    publishedDateTime: 2023-05-04T19:22:00Z
+    webUrl: "https://www.techrepublic.com/article/what-is-generative-ai/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 49
+  - title: "FTC attorney says agency concerned with generative AI use"
+    excerpt: "Companies developing novel artificial intelligence (AI) tools might want to think carefully before laying off ethics personnel, an attorney with the Federal Trade Commission (FTC) warned. The agency is closely tracking company use of AI tools for possible ..."
+    publishedDateTime: 2023-05-02T19:34:00Z
+    webUrl: "https://www.complianceweek.com/regulatory-policy/ftc-attorney-says-agency-concerned-with-generative-ai-use/33027.article"
+    type: article
+    provider:
+      name: Compliance Week
+      domain: complianceweek.com
     quality: 39
     images:
-      - url: "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2023/05/202305global_tech_chatgpt.jpg?h=7d6f88fc&itok=NS1Bna2r"
-        width: 1200
-        height: 630
+      - url: "https://d6jxgaftxvagq.cloudfront.net/Pictures/1024x536/8/9/1/16891_artificialintelligenceethics_852683.jpg"
+        width: 1024
+        height: 536
         isCached: true
 
 secured: "Xr9hUOzbyToTevQql7xmOKQ7N6YiS6tzZPQOW5OeXAvm355+NBy2n+bZTzVO4JQfOUqNCQVEGUbOU4+M4ZGeTFQZYxYTbd5dRgQgZgZbiIjX5CispM8E6pWfi9SGAJ7GlYzksmnxe4BzRpSBBtn9h/bihiiTzYxg3/NlOEtov8lzjdC/0c9v+NCu/6jU51q4YTl0Y9h41EYsg+4B6SZlFipWeuW6jfhnL3MvMWLGDWkjPmj4ARaM8vIjVcNtBBsYNHRaY2p7ejwWWWRiCFx6+/r3bRc0iMobrKdFvfy3b7+GHhXZNhiQeyOFityOwg/cwyhNIbXvDkHQecyNM2JAO5WSvjuFMY92DtPMWZpaj208vv9Vy9g3X5qx3BPTarPWuFlxz7MAxTTCTAmBXzMNF2n/kmXSALa2+uAPGr7+g4aOyPPq5n4e03jG4PbDUYEZWN638nmXdbVz/TrWtFfT/rbuVBD9/LZ4ErNCaHRNZKwriHYKwkyw4K/ZsDXVyfc+izjRnQRNyDe4Sf1qynBHMw==;/gwF4cnxRCUBQR0o4kGc1Q=="

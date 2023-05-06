@@ -24,98 +24,65 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Artificial Intelligence in Healthcare Market Forecast to 2031"
-    excerpt: "This \"Artificial Intelligence in Healthcare Market\" report offers a thorough analysis of the industry, including"
-    publishedDateTime: 2023-05-04T15:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-forecast-to-2031-2023-05-04"
+  - title: "Global Edge Artificial Intelligence (AI) Chip Market 2023-2030: Size and Forecast"
+    excerpt: "Number of Tables and Figures: 129 Pages | Report Highlights: Future Growth Projections, CAGR, Types, Application and"
+    publishedDateTime: 2023-05-05T16:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-2023-2030-size-and-forecast-2023-05-05"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 84
+    quality: 94
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Healthcare Natural Language Processing Market 2023 Insight and Global Trends"
-    excerpt: "The Healthcare Natural Language Processing Market Scope and Overview Report for 2023 presents a detailed analysis of"
-    publishedDateTime: 2023-05-05T07:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-market-2023-insight-and-global-trends-2023-05-05"
+  - title: "Automated Machine Learning (AutoML) Market 2023 Size, Shares, and Future Forecasts to 2031"
+    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
+    publishedDateTime: 2023-05-02T11:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-2023-size-shares-and-future-forecasts-to-2031-2023-05-02"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 83
+    quality: 76
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Healthcare Artificial Intelligence Market 2023-2030 Industry Overview and Ongoing Opportunity"
-    excerpt: "The Healthcare Artificial Intelligence Market Scope and Overview Report for 2023 presents a detailed analysis of the"
-    publishedDateTime: 2023-05-04T11:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-2023-2030-industry-overview-and-ongoing-opportunity-2023-05-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 73
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Face Recognition Device Market Forecast : Trends and Insights till 2031"
-    excerpt: "\"Face Recognition Device Market Size is projected to Reach Multimillion USD by 2031, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2031.\" Ask for a Sample Report \"Browse Detailed TOC of Face Recognition Device Market report with 153 Tables and Figures andCharts that provides exclusive data,"
-    publishedDateTime: 2023-05-02T09:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-forecast-trends-and-insights-till-2031-2023-05-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Face Recognition Systems Market Share by 2031"
-    excerpt: "This \"Face Recognition Systems Market\" report offers a thorough analysis of the industry, including forecasts for"
-    publishedDateTime: 2023-05-04T01:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-share-by-2031-2023-05-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Healthcare Natural Language Processing Market Forecast to 2031"
-    excerpt: "The Healthcare Natural Language Processing Market Report [101] offers statistical analyses on market growth prospects and in-depth information on the leading manufacturers - SAS I"
-    publishedDateTime: 2023-05-05T01:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-market-forecast-to-2031-2023-05-04"
+  - title: "Artificial Intelligence Market Size and Sales Report 2023"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. May 03, 2023 (The Expresswire) -- Global Artificial Intelligence Market Research ..."
+    publishedDateTime: 2023-05-03T13:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-and-sales-report-2023-2023-05-03"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
     quality: 66
-  - title: "Natural Language Processing in Healthcare Market | Worldwide Industry Trends 2023-2030"
-    excerpt: "Get a Sample Copy of the Natural Language Processing in Healthcare Market Report Geographically, a well-developed infrastructure of the global Natural Language Processing in Healthcare Market, its awareness,"
-    publishedDateTime: 2023-05-05T09:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-in-healthcare-market-worldwide-industry-trends-2023-2030-2023-05-05"
+  - title: "Machine Learning Chip Market Global Analysis 2023-2030"
+    excerpt: "Section 5: Research Method and Data Source. Get a Sample PDF of report @ https://www.360marketupdates.com/enquiry/request-sample/19278373 Highlights with Short Brief ..."
+    publishedDateTime: 2023-05-04T12:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-chip-market-global-analysis-2023-2030-2023-05-04"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 58
-  - title: "FinTech in Insurance Market Outlook and Forecast till 2030"
-    excerpt: "According to the \"FinTech in Insurance Market\" report, the technology sector is changing, and both established"
-    publishedDateTime: 2023-05-05T05:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/fintech-in-insurance-market-outlook-and-forecast-till-2030-2023-05-05"
+    quality: 66
+  - title: "Photonic AI Chip Market size Dynamics 2023-2030"
+    excerpt: "Global\" Photonic AI Chip Market \"report provides a comprehensive analysis of the market, including its current"
+    publishedDateTime: 2023-05-03T07:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/photonic-ai-chip-market-size-dynamics-2023-2030-2023-05-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+  - title: "Artificial Intelligence in Platform as a Service (PaaS) Market by 2030: Future Scope and Predictions"
+    excerpt: "Get a sample PDF of the report at -  The global Artificial Intelligence in Platform as a Service (PaaS) market size was valued at USD 4771.18 million in 2022 and is expected to expand at a CAGR of 20."
+    publishedDateTime: 2023-05-03T05:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-platform-as-a-service-paas-market-by-2030-future-scope-and-predictions-2023-05-03"
     type: article
     provider:
       name: MarketWatch
@@ -126,45 +93,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Healthcare IT Integration Market is Expected to Reach $7.1 billion | MarketsandMarkets."
-    excerpt: "The healthcare IT integration industry is poised for significant growth in the near future. As healthcare providers continue to invest in digital systems and networks, the need"
-    publishedDateTime: 2023-05-02T13:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/05/g32160469/healthcare-it-integration-market-is-expected-to-reach-7-1-billion-marketsandmarkets"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32160469"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32160469"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 51
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "3 Cutting-Edge AI Stocks Set to Dominate the Market"
-    excerpt: "It has shown the incredible powers of AI to understand language and create humanlike content. The technology is poised to transform many parts of business. According to a survey of from Enterprise Technology Research, about 53% of IT decisionmakers expect ..."
-    publishedDateTime: 2023-05-03T16:47:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-cutting-edge-ai-stocks-set-to-dominate-the-market-1032288476"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "Europe Speech and Voice Recognition Market Trends, Size, Share, Growth Status, and Forecast 2023 to 2031"
-    excerpt: "The Europe speech and voice recognition is expected to reach USD 1,665.08 Million by 2025 from USD 286.89 Million in 2017, at a CAGR of 24.7% in the forecast period 2018 to 2025. The major factors driving the growth of this market are the effective integration due to increased demand for voice and speech-based biometric systems,"
-    publishedDateTime: 2023-05-03T10:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/europe-speech-and-voice-recognition-market-trends-size-share-growth-status-and-forecast-2023-to-2031-2023-05-03"
+  - title: "Global Artificial Intelligence Chips Market [2023-2030] | Experience the Future of Industry"
+    excerpt: "GlobalArtificial Intelligence Chips Market[2023-2030] research report is a compilation of information and analysis"
+    publishedDateTime: 2023-05-05T08:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-chips-market-2023-2030-experience-the-future-of-industry-2023-05-05"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+    quality: 39
 
 secured: "uDzJaKaY1sc3l1gAiMYROzm3+6m7Jhc6yvPwfoqCMJPl8jfZQsW9iig+5l2E6pJGMh0WYW81J6Oa/UnhSMbSeeOUsEiQM89JbdH9sb1oGB0yRjmoeIj3+EKQHHcdGNo6Hm/+pYxSgRHN1BiSc/aXUQxiqindOMZYYMpat7IK/hpmvDmx2lI6Z+G4XAQN2MqC/h6vxriuj2tjPDRcCCw4hf+bKGSHPxtqFNIaLOSXLtQ2JRmjhqgKCJIwzAAvKh1CRffp4M1akFZd4mDY0Ssi1xpqw63EX2bxqttS8r52xPT4EZyblC+5baimiXVZN4WLlgNS1ahr3MqJVVvKk5r+SckkXX0EpYcySHwIp+6329s=;Np3CFlub5vdJMGdZXkYJxQ=="
 ---

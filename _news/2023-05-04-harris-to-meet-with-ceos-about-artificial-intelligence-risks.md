@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Harris to meet with CEOs about artificial intelligence risks"
-excerpt: "Companies worried about being liable for something in their training data might also not have incentives to properly track it, said Margaret Mitchell, chief ethics scientist at AI startup Hugging Face. “I think it might not be possible for OpenAI to ..."
-publishedDateTime: 2023-05-04T10:53:00Z
-originalUrl: "https://www.wmbfnews.com/2023/05/04/harris-meet-with-ceos-about-artificial-intelligence-risks/"
-webUrl: "https://www.wmbfnews.com/2023/05/04/harris-meet-with-ceos-about-artificial-intelligence-risks/"
-ampWebUrl: "https://www.wmbfnews.com/2023/05/04/harris-meet-with-ceos-about-artificial-intelligence-risks/?outputType=amp"
-cdnAmpWebUrl: "https://www-wmbfnews-com.cdn.ampproject.org/c/s/www.wmbfnews.com/2023/05/04/harris-meet-with-ceos-about-artificial-intelligence-risks/?outputType=amp"
+excerpt: "Vice President Kamala Harris will meet with the CEOs of four major companies developing artificial intelligence. The Biden administration is rolling out initiatives meant to ensure the rapidly evolvin"
+publishedDateTime: 2023-05-04T11:22:00Z
+originalUrl: "https://omaha.com/news/science/article_2be5fceb-7e7e-5b20-93a6-2fc9680f8df6.html"
+webUrl: "https://omaha.com/news/science/article_2be5fceb-7e7e-5b20-93a6-2fc9680f8df6.html"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: WMBF News
-  domain: wmbfnews.com
+  name: Omaha.com
+  domain: omaha.com
 
 topics:
-  - AI Ethics
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://gray-wmbf-prod.cdn.arcpublishing.com/resizer/iB0u1MUN3eDVtzXCsG_V6brnyxE=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/6RRG5UMTCRDLJB7RU5HQCXOGQA.png"
-    width: 800
-    height: 450
+  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/d/da/dda7c97f-af2f-5ee4-a06d-19e464a12917/6453895152383.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -225,6 +223,6 @@ related:
       domain: mynorthwest.com
     quality: 19
 
-secured: "VO6CTS3nHGKtI/SmEdOuivsp4DvAlT/5dhvfCExsoEGkvSEH4UtFOOgYtEQSiZMLhOo4Nnmnq3ghBbDG9EmRhoGQdLNwyYlM/94Kg/mFi8nflDf+4+MxovAMixJyxBTHUjjiNcq3Wdt+vnF7H6xVU8cl9VxSHVFkbgKoxDDxremtI+AeXR1CuEfKC7ymf0opiQmAyYkEDgKYbqJI409lui6amFz0oNL8G3K3qI3RtfEqOz4BuLmE1iAQaHxWTnbSDPqLpcfefpNRhZeKCGTRbBnlJdHfHmIlA/fxdG4VmM4w9/9Cy8C0yjWIa8d+9oKU++pQVYgaHV8PDQ+E1f9JyeM+0SFGlAeiW3/QJH/YaIE=;Que5SJFZq9bd2QRz3Mq9SA=="
+secured: "6BqJ1Cx2+JGgqzWRDZ79vd8UZupe1hrxbBT8Fcxrx050KpNPNJnnaV6ejA5HSjHpzlwUx9bXWRWHBr0h00gn3m4/JR8jp5Jf4RjAmgzdQ7gyut/DCMstgDjVequ3i/weW1CTVkg60B+jQfqjxLF6PMdyLThnvAbRnLBwqTmk8VvATh1Na9s8/FUooL1CPYSn4blvV6EgRQGkIzlv8syW4ZXAEHEdWuohSE4fLp2JRMll68zFXTWmcM10UxZ7sHDDHuaUgT423BqFKH02vuzSE6zyPUJEWB7ZO1lE3mylqkxFe1OaGp3vJDRwwGsQf+iutKGj8FlEdAutOHKLmsmKRF/6Yadb78zBURKwl77tT4g=;ogBKRGpgolYV2WZS+CXQ/g=="
 ---
 

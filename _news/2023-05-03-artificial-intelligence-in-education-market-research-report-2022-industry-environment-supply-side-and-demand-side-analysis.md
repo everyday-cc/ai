@@ -47,20 +47,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "(CAGR of 25.7%) Global Speech and Voice Recognition Market Analysis, Key Segments, Share, Size, Growth Status, and Forecast 2023 to 2031"
-    excerpt: "Global speech and voice recognition is expected to reach USD 6,770.21 Million by 2025 from USD 1,095.00 Million in 2017, at a CAGR of 25.7% in the forecast period 2018 to 2025. The major factors driving the growth of this market are the effective integration due to increased demand for voice and speech-based biometric systems,"
-    publishedDateTime: 2023-05-03T10:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cagr-of-257-global-speech-and-voice-recognition-market-analysis-key-segments-share-size-growth-status-and-forecast-2023-to-2031-2023-05-03"
+  - title: "Deep Learning In Drug Discovery And Diagnostics Market Share, Size, Share, Industry Trends, Demand, Overview and Forecast 2028"
+    excerpt: "The Deep Learning in Drug Discovery and Diagnostics Market is expected to witness a substantial growth in the upcoming"
+    publishedDateTime: 2023-05-03T09:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-drug-discovery-and-diagnostics-market-share-size-share-industry-trends-demand-overview-and-forecast-2028-2023-05-03"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
     quality: 21
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "a+/yxA6SAxNN9VO6BcU+Et5k5M1xbBK+UODNh/7blUwwz3P/tUnjIylxmENMhodPFCMLeNcAT8eTZHz0dGqi1AUcVaWS41JWlFndHPZbX/v2i6BMMhDkWrtdtcYTfX4IjlfWt2v1hj2fA5iM6qC0hCRpSTG0ViS4XBXHnmkYNabZ3cLz0TmT5ueLNw6pKAudP097TB6TTAAKtYhlLDHWbxQVqnROGjySuwHjnNgBzlehT10vruZeCMO4GMQFI3gEszOjMgtNJNdaabdsr8hfFlFLAoa2+oISq9ruuSaUhRJqQvXw2w+fkitXK4gh1kvjn/hhKxQZFY2jF5sjA7vImvtR3DCCO1klmx/JpCfvTQo=;QJ3Pa3sLfyo3KNYgCyq96g=="
 ---

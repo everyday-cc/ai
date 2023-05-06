@@ -328,6 +328,20 @@ related:
         width: 860
         height: 573
         isCached: true
+  - title: "Report Suggests Microsoft and AMD Collaborating on AI Chip"
+    excerpt: "A Thursday report by Bloomberg stated that Microsoft and AMD are collaborating on an artificial intelligence (AI) chip as an alternative to Nvidia's AI processor market dominance with its graphics processing units (GPUs)."
+    publishedDateTime: 2023-05-05T22:13:00Z
+    webUrl: "https://redmondmag.com/articles/2023/05/05/report-suggests-microsoft-and-amd-collaborating-on-ai-chip.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 71
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/130910REDMackieChip.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "Here’s what’s missing from Microsoft’s Responsible AI program: An ethics team"
     excerpt: "While Microsoft expresses interest in responsible AI, it is worth noting that they fired their entire AI ethics team in March 2023."
     publishedDateTime: 2023-05-03T09:38:00Z

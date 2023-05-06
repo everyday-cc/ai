@@ -23,15 +23,15 @@ topics:
   - AI
 
 related:
-  - title: "Deep-Learning Computing Unit (DCU) Market Growth, Trends and Industry Forecast 2023-2030 | NVIDIA, AMD, Intel"
-    excerpt: "The study on the market for Deep-Learning Computing Unit (DCU) provides a thorough analysis of the industry. It does"
-    publishedDateTime: 2023-05-03T10:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-computing-unit-dcu-market-growth-trends-and-industry-forecast-2023-2030-nvidia-amd-intel-2023-05-03"
+  - title: "2023 \"Computer Vision Market\" SWOT Analysis and Regional Growth Prospect 2030"
+    excerpt: "May 05, 2023 (The Expresswire) -- \"Computer Vision Market\" information for each competitor includes (Microsoft Corporation, Cognex Corporation, Autoliv"
+    publishedDateTime: 2023-05-05T16:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-computer-vision-market-swot-analysis-and-regional-growth-prospect-2030-2023-05-05"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 35
+    quality: 66
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/geoffrey-hinton-a-pioneer-in-artificial-i
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/geoffrey-hinton-a-pioneer-in-artificial-intelligence-resigns-from-google-over-ethical-fears/amp/"
 type: article
 quality: 97
-heat: 227
+heat: 237
 published: true
 
 provider:
@@ -48,6 +48,20 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/645350233eb26555726d5a17/0x0.jpg?format=jpg&crop=1891,1064,x0,y513,safe&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Neural Network Pioneer Geoffrey Hinton Sounds The Alarm On AI"
+    excerpt: "One of the world's foremost AI experts, and a pioneer of the neural network concept ... at Google so he can freely speak about the danger artificial intelligence poses. Speaking to the New ..."
+    publishedDateTime: 2023-05-01T17:46:00Z
+    webUrl: "https://www.slashgear.com/1273138/neural-network-geoffrey-hinton-alarm-ai/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 84
+    images:
+      - url: "https://www.slashgear.com/img/gallery/neural-network-pioneer-geoffrey-hinton-sounds-the-alarm-on-ai/l-intro-1682962754.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "The Godfather of AI, Geoffrey Hinton, Reveals the Future of Artificial Intelligence"
     excerpt: "As AI technology continues to improve and become more sophisticated, it's inevitable that it will be used for both good and bad purposes"

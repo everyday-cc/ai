@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/inaugural-hack
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/inaugural-hackathon-explores-ai-healthcare-solutions-a8dt6ew1?amp=1"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 899
     height: 598
     isCached: true
+
+related:
+  - title: "Inaugural Hackathon Explores AI Healthcare Solutions Using One Of The Largest Deep-Phenotype Databases In The World"
+    excerpt: "Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) and the Weizmann Institute of Science (WIS) hosted the"
+    publishedDateTime: 2023-05-05T23:45:00Z
+    webUrl: "https://menafn.com/1106188748/Inaugural-Hackathon-Explores-AI-Healthcare-Solutions-Using-One-Of-The-Largest-Deep-Phenotype-Databases-In-The-World"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 32
+    images:
+      - url: "https://menafn.com/updates/pr/2023-05/05/M_b1ce5image_story.jpg"
+        width: 635
+        height: 422
+        isCached: true
 
 secured: "gT/MyqZbYxzgxRRNN4VAaxV3jygN+lUh/+1xGnOdOHIsXCkL2uFzLScL1AzpuL47WfVffXAfi52sgKRv+k/s7wMCTRw486dclRtDPAIAUvl6Ja/Qk0uw0eSIXtH2AGM0FcrIv2ArwZDn4yi/Xh+34EYw0HWweqMLG01pZ0+LR5hl+hjhKPHpL7wiGyooEOm3AO+ameutbUbR9DTEQXHwqWQv0JpSgTuXqqfErssKxAmpP4IdOH8TKLByUKjh3/1fLlvB9zgiJliGhWLLCARUiTEXuwvxX0vCnqhHqR75mXM2X4oMBazq6esglwQPdFIFR5tXUHgeL2dso1XmP2JkEoOkFMlYAjOkYwQt3X6ryZM=;eOk0QSVMXKaEsB84lTzB1g=="
 ---

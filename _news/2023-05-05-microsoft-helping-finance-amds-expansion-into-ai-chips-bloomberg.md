@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/article/amd-ai-microsoft/update-1-microsof
 webUrl: "https://www.reuters.com/article/amd-ai-microsoft/update-1-microsoft-helping-finance-amds-expansion-into-ai-chips-bloomberg-idUSL4N3714JL"
 type: article
 quality: 118
-heat: 438
+heat: 448
 published: true
 
 provider:
@@ -315,6 +315,20 @@ related:
       - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/05/05/AMDchip_0.jpg?VersionId=AUDD77HDTPyMiI01BqacA38q7_GqjsOr"
         width: 860
         height: 573
+        isCached: true
+  - title: "Report Suggests Microsoft and AMD Collaborating on AI Chip"
+    excerpt: "A Thursday report by Bloomberg stated that Microsoft and AMD are collaborating on an artificial intelligence (AI) chip as an alternative to Nvidia's AI processor market dominance with its graphics processing units (GPUs)."
+    publishedDateTime: 2023-05-05T22:13:00Z
+    webUrl: "https://redmondmag.com/articles/2023/05/05/report-suggests-microsoft-and-amd-collaborating-on-ai-chip.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 71
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/130910REDMackieChip.jpg"
+        width: 647
+        height: 450
         isCached: true
   - title: "Amazon, Microsoft and Alphabet deliver slower cloud growth. Here's how AI could reverse that trend"
     excerpt: "Microsoft (MSFT) and Alphabet (GOOGL) continued to slow. But over the longer term, we expect growth to reaccelerate."

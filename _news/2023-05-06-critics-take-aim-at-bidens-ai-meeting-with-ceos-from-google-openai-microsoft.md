@@ -315,6 +315,20 @@ related:
         width: 860
         height: 573
         isCached: true
+  - title: "Report Suggests Microsoft and AMD Collaborating on AI Chip"
+    excerpt: "A Thursday report by Bloomberg stated that Microsoft and AMD are collaborating on an artificial intelligence (AI) chip as an alternative to Nvidia's AI processor market dominance with its graphics processing units (GPUs)."
+    publishedDateTime: 2023-05-05T22:13:00Z
+    webUrl: "https://redmondmag.com/articles/2023/05/05/report-suggests-microsoft-and-amd-collaborating-on-ai-chip.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 71
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/130910REDMackieChip.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "Amazon, Microsoft and Alphabet deliver slower cloud growth. Here's how AI could reverse that trend"
     excerpt: "Microsoft (MSFT) and Alphabet (GOOGL) continued to slow. But over the longer term, we expect growth to reaccelerate."
     publishedDateTime: 2023-05-01T14:25:00Z
@@ -480,6 +494,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "XwtGahZWFdZVEATsQ9sdyKv76gWf2DdTh00tc4zoZO1clpdhf8mkFPXE7xvZdcHdcvXQHQclIqEFr6XK7CHatGCS2qe8zUJ7rbTO2rNnO9UmdaecguK6NHwhSEkZ8hatCah1qRFPIoTEdDouqwv0NqN1ZrEpfYch8sJqmCzcjJB+OlFelUrj1vgYeP4IBWWX9gSONCXNHZ8pO9hy6Oir+fpKvF8Xy/B795Zp0d/DcgVSABYUsVDW+vQWYWInIua7HI4xJ/QdJlmiQVC4wUkrkH7NmYaxzZiHNoADry7MVbkpv+bWoHOxOnOFwtEtBXwze0UzcvhoifmMNwA5G5JPjjU2qGVWUcNMX2YBaJGMIO0=;06N0R4IG9OqY1NhSgxKBcQ=="
+secured: "P2VLcjI3IwDm/sCeXQoAf4ToilnUd4IKkCfkbpr1peFUywMc/q5Z6Z4zvsT+LBS7os9Vqc8QW60SQcFmAl+3YiEiJ2JJJHlLtt04wWOwkaSbjHwx6ZaOkR6AOL5xo3SQ9J/DAsckrg8gXps0XIBlU9uMsAYyeTIhR5/OHVOfFnQbSKiJW/7nGA/Z3ty5Gfe/OSlGx4AC+tPEBNKCDZtTPk5GhGHD16zA+mMJIuw63/5otfBKNKLLXPvC7aa9iLz6TWWD/BRAuzjlXl+U+s5bEri/BuX2jJAV3Lnhik4BDINwmYGTWeMgcRuhtkpZofxPER0OWKkKG1w0pD+osg0VRzrrZN09n7emdbcqEVC6XI2CEZoCFOyorTlUP4KZYrgwCt6+u0RUaJySASgV58Pb+2R0f3kxBv2kiFuziIjxlxgVquTeRlFbgJbVHopMGbO2NIdLQSv2M5of0wlK3SjKH2JZNhqw+1XbvA/mJaThWPXHtmeDZAEEGgvm+JvEHP0HcvQ+jZ/v1hciwaehmmXb2A==;8Mo+acuaoIKyoiAiNHxtcw=="
 ---
 

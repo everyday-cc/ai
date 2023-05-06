@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3694877/kinetica-taps-chatgpt-for-
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3694877/kinetica-taps-chatgpt-for-natural-language-sql-database-queries.amp.html"
 type: article
 quality: 74
-heat: 74
+heat: 76
 published: true
 
 provider:

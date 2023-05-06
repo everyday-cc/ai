@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/datastax-extends-ai-feature-engineering-w
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/datastax-extends-ai-feature-engineering-with-luna-ml/amp/"
 type: article
 quality: 104
-heat: 104
+heat: 106
 published: true
 
 provider:
