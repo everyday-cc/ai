@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/its-generative-ai-models-vs-hackers-at-de
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/its-generative-ai-models-vs-hackers-at-def-cons-ai-village/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -53,20 +53,6 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 49
-  - title: "FTC attorney says agency concerned with generative AI use"
-    excerpt: "Companies developing novel artificial intelligence (AI) tools might want to think carefully before laying off ethics personnel, an attorney with the Federal Trade Commission (FTC) warned. The agency is closely tracking company use of AI tools for possible ..."
-    publishedDateTime: 2023-05-02T19:34:00Z
-    webUrl: "https://www.complianceweek.com/regulatory-policy/ftc-attorney-says-agency-concerned-with-generative-ai-use/33027.article"
-    type: article
-    provider:
-      name: Compliance Week
-      domain: complianceweek.com
-    quality: 39
-    images:
-      - url: "https://d6jxgaftxvagq.cloudfront.net/Pictures/1024x536/8/9/1/16891_artificialintelligenceethics_852683.jpg"
-        width: 1024
-        height: 536
-        isCached: true
 
 secured: "83FwzKj7PX5B8Kt+dYifT27XpHSHYiSu4BgGVdebjKdeyh42y15acyUsbtaMbCWHbrQIYaSjV0CJkYdrF0EsWgcT8PENzdQXj7eylCwYcvCcZmN056ilRTpE2X9WBPzP6rfDGVgTfwpuOzcRomF1pe5CEdoZCgVcbdrfUUdjnBcLkFjTnSaaljZGmfyI39LPT51J9MdAAm31I0M6/todA2fFriadZigSeaHuy87TpcT/D3+txt2TaLkeYoj6J4+tBkwrmaZghwT+vjQxgphkRxNDNH8l8DxPPleuhvGvhfD6RwlNJpheizVchpaFCN01bGzt6S58RQBeKozJ0k/7FOlexP019iR8Pse/vNN2hYZcRf6lMVlu0/x+vI2Fab78yOhXE8bdnZmdYK9TM+aVmlWLJwgLLQGGuV5eybp6DOtCuPyoodzuR/doctmzDcCY8FHugRyqAd8xXKlbk6zfwkdd5SmGblu9emCuon5A/kZ7UmHvJ81Ob+k8YJFJ2BG2ZKoXxZbJKO9vDrASwcBfEA==;ROu+555aY+v4cFcV9WWXYA=="
 ---

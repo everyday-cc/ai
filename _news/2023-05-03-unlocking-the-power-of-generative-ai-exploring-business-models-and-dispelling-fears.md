@@ -52,6 +52,15 @@ related:
         width: 600
         height: 600
         isCached: true
+  - title: "Moving Beyond The Hype: The Ethics And Business Outcomes Of Generative AI"
+    excerpt: "As the ethics and business outcomes of generative AI are discussed, how safe and reliable is the technology and moving forward?"
+    publishedDateTime: 2023-05-04T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/04/moving-beyond-the-hype-the-ethics-and-business-outcomes-of-generative-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 63
 
 secured: "JqlfkcUVlvN8lSG/SzQp5W9FXdvAClIhOdz35kvtbrKUUx7l/UIr1O4nyrIzl3C/LCk4iMV2NW++2YlAOj2pc6Xyhhar66tQ9rv7KykWXQuYOzEe6LFa1Z7U/CYnROXb4HuAl+2NnjpFPtVBiDrTYZ2g0fYN+yFS6Vy/naC4dap0fr6aZs9j8uCH+jraMURsgBdimIrG8eAR2EItxg8ZZWW86QOx+N0ZS/GOCs67r3df1mMutEuTGJW1pLQnJtrkRPCRj3olpbvIfHPnyus6ixybvWhtQYhMPak3rfxQJSzCoCC+gmFGJdW9TLzzzrGDo+vzO/RA80Ccy/M//UAPfb8uIQr2euIDy8MQqbiX/hnWtsU2a9kS45sxGw2CRGX9gJt8q4in5Dx9rGiAJdU1JVoeC1YMWqz6LFieqSMOis51lZpfeDBierdHV5d64lkdJBd7gDUWoyTLRpcv0n67/BJ4F9xY9yBxL4dEVs2picGgAhpLLXGpNSTWl/4w2pIn3UfksP4NxhCEXCjfcaN8lw==;Di4qR9y7lhdysFNZKj5pfQ=="
 ---

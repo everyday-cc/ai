@@ -7,7 +7,7 @@ originalUrl: "https://www.scmp.com/presented/business/topics/asia-summit-global-
 webUrl: "https://www.scmp.com/presented/business/topics/asia-summit-global-health-2023/article/3219088/how-artificial-intelligence-transforming-healthtech-industry-and-enhancing-investment-opportunities"
 type: article
 quality: 45
-heat: -1
+heat: 45
 published: false
 
 provider:
@@ -29,15 +29,20 @@ images:
     isCached: true
 
 related:
-  - title: "AI lessons from healthcare: Overcoming complexity and embracing the cloud"
-    excerpt: "The healthcare industry has pioneered some of the most effective, innovative approaches for moving AI into production."
-    publishedDateTime: 2023-05-01T13:07:00Z
-    webUrl: "https://venturebeat.com/ai/ai-lessons-from-healthcare-overcoming-complexity-and-embracing-the-cloud/"
+  - title: "Nippon Life Selects H2O.ai to Transform Its Insurance Business With Machine Learning and Improve Customer Health"
+    excerpt: "\"AI is transforming the trillion dollar healthcare insurance industry, both the businesses themselves and the care they facilitate,\" said Sri Ambati, CEO and founder of H2O.ai. \"By helping Nippon Life advance their AI initiatives and create better customer experiences,"
+    publishedDateTime: 2023-05-03T20:10:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/05/03/9807216.htm"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 63
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 37
+    images:
+      - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
+        width: 550
+        height: 353
+        isCached: true
   - title: "9 ways AI is already shaping the future of healthtech"
     excerpt: "Amid an increasing shift from reactive care to proactive care, here are some of the latest AI developments in healthtech."
     publishedDateTime: 2023-05-02T15:00:00Z

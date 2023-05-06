@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "OpenAI, Microsoft, and Alphabet CEOs to discuss AI with Biden administration today"
-    excerpt: "The announcement from the White House Briefing Room also included plans for a public evaluation of existing generative AI systems."
-    publishedDateTime: 2023-05-04T15:49:00Z
-    webUrl: "https://www.zdnet.com/article/openai-microsoft-and-alphabet-ceos-to-discuss-ai-with-biden-administration-today/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/openai-microsoft-and-alphabet-ceos-to-discuss-ai-with-biden-administration-today/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/openai-microsoft-and-alphabet-ceos-to-discuss-ai-with-biden-administration-today/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 98
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/3995490273681a1e4a741db83b12e7d8110f15c4/2023/05/04/9475ccf7-8940-41af-9e1e-9006d4e4f542/ai-whitehouse.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Biden administration takes action to promote responsible AI innovation"
     excerpt: "The Biden administration pushes responsible AI with R&D investment, policymaking, and assessments of current generative AI systems."
     publishedDateTime: 2023-05-05T17:49:00Z
@@ -57,80 +41,112 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "The White House Starts to Address AI Risks with New Initiatives"
-    excerpt: "Executives from Alphabet, Microsoft, OpenAI, and Anthropic will also meet with the Vice President today to discuss the new AI efforts."
-    publishedDateTime: 2023-05-04T15:20:00Z
-    webUrl: "https://gizmodo.com/white-house-announce-ai-initiative-openai-microsoft-1850403559"
+  - title: "Generative AI In The Construction Sector: Taking Building Technology To New Heights"
+    excerpt: "It’s no exaggeration to say that generative AI will have a transformative effect on global industry. With the ability to generate new outputs based on algorithms and trained data, it represents the next step in artificial intelligence and a new level of sophistication for machine learning."
+    publishedDateTime: 2023-05-02T15:50:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/05/02/generative-ai-in-the-construction-sector-taking-building-technology-to-new-heights/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/05/02/generative-ai-in-the-construction-sector-taking-building-technology-to-new-heights/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/05/02/generative-ai-in-the-construction-sector-taking-building-technology-to-new-heights/amp/"
     type: article
     provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 67
+      name: Forbes
+      domain: forbes.com
+    quality: 81
     images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/5928f9af47719ca2a1aa839eff736ba9.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64512ef3a78479bc981e6545/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Aisera Collaborates with Microsoft to Provide AI Enterprise Service Experiences with ChatGPT and Generative AI"
-    excerpt: "Aisera Collaborates with Microsoft to Provide AI Enterprise Service Experiences with ChatGPT and Generative AI May 03, 2023 (PRNewswire via COMTEX) --"
-    publishedDateTime: 2023-05-03T12:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/aisera-collaborates-with-microsoft-to-provide-ai-enterprise-service-experiences-with-chatgpt-and-generative-ai-2023-05-03"
+  - title: "Code.org helping launch TeachAI to guide integration of artificial intelligence in education"
+    excerpt: "Seattle-based computer science education nonprofit Code.org is helping to launch TeachAI, a new effort aimed at guiding governments and educators on teaching with and about artificial intelligence. The initiative,"
+    publishedDateTime: 2023-05-02T13:00:00Z
+    webUrl: "https://www.geekwire.com/2023/code-org-helping-launch-teachai-to-guide-integration-of-artificial-intelligence-in-education/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Microsoft Earnings Takeaways: Cloud, Generative AI, The Path To E7"
-    excerpt: "Analyst reports point to the potential for Azure deceleration slowing, an end to customers optimizing cloud spend and the sales potential of generative AI. Better-than-expected results from Microsoft’s latest earnings—not to mention those of cloud rivals Google and Amazon Web Services—led to a mix of analyst reports hopeful for Azure deceleration slowing,"
-    publishedDateTime: 2023-05-01T14:20:00Z
-    webUrl: "https://www.crn.com/news/cloud/microsoft-earnings-takeaways-cloud-generative-ai-the-path-to-e7"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 54
-    images:
-      - url: "https://www.crn.com/resources/027d-17198c0bb2a2-47b52df5a838-1000/nadella-intro2.jpeg"
-        width: 610
-        height: 457
-        isCached: true
-  - title: "Google tells staff it plans to limit publishing AI research to 'compete and keep knowledge in house' as its rivalry with Microsoft's OpenAI heats up"
-    excerpt: "Google has for years operated a top AI lab that publishes cutting-edge research, but insiders say it's keeping more work confidential."
-    publishedDateTime: 2023-05-04T09:00:00Z
-    webUrl: "https://www.businessinsider.com/google-publishing-less-confidential-ai-research-to-compete-with-openai-2023-4"
+      name: GeekWire
+      domain: geekwire.com
+    quality: 68
+  - title: "Appian Infuses Process Automation with Artificial Intelligence"
+    excerpt: "Introduction of Appian AI Skill Designer and Generative AI integration make it easy to tap the power of AI through low-codeSAN DIEGO, May 2, 2023"
+    publishedDateTime: 2023-05-02T17:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/appian-infuses-process-automation-with-artificial-intelligence-1032283341"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 47
+    quality: 67
     images:
-      - url: "https://i.insider.com/6452c554b4a8cd00187aaab6?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://mma.prnewswire.com/media/2067150/Appian_AI_Thumbnail.jpg"
+        width: 400
+        height: 231
         isCached: true
-  - title: "AI News roundup: Microsoft tests privacy focused version of ChatGPT, Slack's generative AI push and more"
-    excerpt: "According to the online publication The Information, Microsoft is planning to offer the variant on its Azure cloud platform and it will run on dedicated servers where data collected by the chatbot would be separated from the public variant."
-    publishedDateTime: 2023-05-04T13:30:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/ai-news-roundup-microsoft-tests-privacy-focused-version-of-chatgpt-slacks-generative-ai-push-and-more-10529011.html"
+  - title: "Information ministry holds lecture on AI"
+    excerpt: "Muscat: The Ministry of Information on Thursday organised a lecture on artificial intelligence (AI). The lecture dealt with the concept of"
+    publishedDateTime: 2023-05-04T14:14:00Z
+    webUrl: "https://www.omanobserver.om/article/1136617/oman/information-ministry-holds-lecture-on-ai"
+    ampWebUrl: "https://www.omanobserver.om/ampArticle/1136617"
+    cdnAmpWebUrl: "https://www-omanobserver-om.cdn.ampproject.org/c/s/www.omanobserver.om/ampArticle/1136617"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 17
-  - title: "Startup Backed by Ex-Google CEO Slips Out of Stealth Mode, Hires First GC"
-    excerpt: "One-year-old Istari plans to use artificial intelligence to revolutionize development of defense systems. One of its investors is Google's Eric Schmidt, who said AI might have as big an impact on defense as nuclear weapons."
-    publishedDateTime: 2023-05-01T19:25:00Z
-    webUrl: "https://www.law.com/corpcounsel/2023/05/01/startup-backed-by-ex-google-ceo-slips-out-of-stealth-mode-hires-first-gc/"
+      name: omanobserver
+      domain: omanobserver.om
+    quality: 59
+    images:
+      - url: "https://www.omanobserver.om/omanobserver/uploads/images/2023/05/04/2321824.jpg"
+        width: 1000
+        height: 503
+        isCached: true
+  - title: "Teradata operationalises AI with Google Vertex AI integration"
+    excerpt: "Teradata has announced services enabling organisations to accelerate Ai-driven digital transformation initiatives. The connected multi-cloud data platform"
+    publishedDateTime: 2023-05-02T14:20:00Z
+    webUrl: "https://www.enterprisetimes.co.uk/2023/05/02/teradata-operationalises-ai-with-google-vertex-ai-integration/"
     type: article
     provider:
-      name: Law
-      domain: law.com
-    quality: 1
+      name: enterprisetimes.co.uk
+      domain: enterprisetimes.co.uk
+    quality: 39
+    images:
+      - url: "https://www.enterprisetimes.co.uk/wp-content/uploads/2018/11/artificial-intelligence-3382507_1920.jpg"
+        width: 726
+        height: 410
+        isCached: true
+  - title: "A case against banning TikTok. A US national strategy for AI."
+    excerpt: "These steps build on the Administration’s strong record of leadership to ensure technology improves the lives of the American people, and break new ground in the federal government’s ongoing effort… National Standards Strategy for Critical and Emerging Technology (Record) The Biden administration's National Standards Strategy for Critical and Emerging Technology is intended to help set global rules to ensure tech is \"universally safe and interoperable."
+    publishedDateTime: 2023-05-05T19:45:00Z
+    webUrl: "https://thecyberwire.com/newsletters/policy-briefing/5/87"
+    type: article
+    provider:
+      name: Cyber Wire
+      domain: thecyberwire.com
+    quality: 39
+    images:
+      - url: "https://thecyberwire.com/images/social-media/policy-briefing/2023/Policy-23-050523.jpg"
+        width: 2640
+        height: 1320
+        isCached: true
+  - title: "White House Must Take More Action To Address AI Concerns"
+    excerpt: "Twitter The White House Blueprint for an AI Bill of Rights issued last October is a strong start to a government response to protect workers, families, and our democracy from the potential pitfalls of AI. The recent release of generative AI tools is ..."
+    publishedDateTime: 2023-05-04T11:00:00Z
+    webUrl: "https://www.americanprogress.org/article/white-house-must-take-more-action-to-address-ai-concerns/"
+    type: article
+    provider:
+      name: Center for American Progress
+      domain: americanprogress.org
+    quality: 37
+    images:
+      - url: "https://www.americanprogress.org/wp-content/uploads/sites/2/2023/05/AIColumn.jpg"
+        width: 1680
+        height: 1120
+        isCached: true
+  - title: "MotionPoint Releases Adaptive Translation™: Proprietary AI to Reduce the Cost of Quality Translation"
+    excerpt: "MotionPoint introduces Adaptive Translation™ technology to reduce human translation costs without sacrificing quality."
+    publishedDateTime: 2023-05-03T11:00:00Z
+    webUrl: "https://slator.com/motionpoint-releases-adaptive-translation-proprietary-ai-to-reduce-the-cost-of-quality-translation/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 4
 
 secured: "8+FfN48KcrWNB/4RZ2+Q86RQJPV5+iTLiqjq9aicfNnYy+g0yKmdy373XlNdfd8VNBR15fTcKwHOD2t1Ga7Zyf9lnB3GKqoP4GAA8fG6ftNOys3tyWNtRSOBGSeLtoVWV2NHT1Akn9yCfComXpS4DU9VYo+vu3gQBuualOftwe8H4TWYY8aBBYywozwb8qwwwXhrgVP9S8uHvt5eCGjO+BpKwq57nNPEMb4cCc9f6+z32qL+B/x35SHb7rNvu/Gk5IqjbAxAie4I9Ojje1DGKfBN0tYiEqnP8BAWxNXeR/v/PmlPF7LMwxbgF/0hTF26gp+3xV4VF8CWD0Qmmxs9+bd5hDH/NmNgkPalX2AKRVWLibFBUAqWHX2ivfYp+KrwbytL3WgsqczSfBaXMu0cHMDrWA/5QAWF7+U/OlbQt/1PLWIqgooYO3QLnSDoBSjlGy9tfSlBX6Ej+l5VfmxOqjtNPobOqZc19dRwrQf3WefM8lWoclQYsjAOVWFZrBNUSxGuI9SNNka5KJ7178uGlw==;v0j0HnzvrKRqj4awmfQIXg=="
 ---

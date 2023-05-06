@@ -55,15 +55,6 @@ related:
         width: 1917
         height: 1278
         isCached: true
-  - title: "Insider Q&A: Aurora CEO Chris Urmson on self-driving trucks"
-    excerpt: "Q: Teslas on either Autopilot or “Full Self-Driving” using only cameras have crashed into emergency vehicles, motorcycles and other things. Why should we trust you folks when this keeps ..."
-    publishedDateTime: 2023-05-01T13:21:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/insider-qa-aurora-ceo-chris-urmson-driving-trucks-98982755"
-    type: article
-    provider:
-      name: ABC News
-      domain: abcnews.go.com
-    quality: 4
   - title: "Aurora CEO Chris Urmson on the Future of Self-Driving Trucks"
     excerpt: "The prospect of a driverless semi is scary to many, but not to Aurora Innovation CEO Chris Urmson, who helped to build Google’s autonomous vehicle unit."
     publishedDateTime: 2023-05-01T17:50:00Z

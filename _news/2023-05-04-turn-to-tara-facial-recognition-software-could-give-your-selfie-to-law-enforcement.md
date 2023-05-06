@@ -1,10 +1,12 @@
 ---
 category: news
 title: "Turn to Tara: Facial recognition software could give your selfie to law enforcement"
-excerpt: "New facial recognition software is apparently scraping the internet for your selfies and feeding them to law enforcement. Team 12 Investigative reporter Tara Rosenblum explains how an innocent profile picture on a social media account can become part of a ..."
-publishedDateTime: 2023-05-04T13:26:00Z
-originalUrl: "https://longisland.news12.com/turn-to-tara-facial-recognition-software-could-give-your-selfie-to-law-enforcement"
-webUrl: "https://longisland.news12.com/turn-to-tara-facial-recognition-software-could-give-your-selfie-to-law-enforcement"
+excerpt: "Team 12 Investigative reporter Tara Rosenblum explains how an innocent profile picture on a social media account can become part of a police database."
+publishedDateTime: 2023-05-04T15:21:00Z
+originalUrl: "https://brooklyn.news12.com/turn-to-tara-facial-recognition-software-could-give-your-selfie-to-law-enforcement"
+webUrl: "https://brooklyn.news12.com/turn-to-tara-facial-recognition-software-could-give-your-selfie-to-law-enforcement"
+ampWebUrl: "https://brooklyn.news12.com/amp/turn-to-tara-facial-recognition-software-could-give-your-selfie-to-law-enforcement"
+cdnAmpWebUrl: "https://brooklyn-news12-com.cdn.ampproject.org/c/s/brooklyn.news12.com/amp/turn-to-tara-facial-recognition-software-could-give-your-selfie-to-law-enforcement"
 type: article
 quality: 33
 heat: 33
@@ -18,12 +20,6 @@ topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://images.ctfassets.net/3kqcuzntcg31/13FTYonT5HRQdQ1bGXuPLm/1bb67ce3d6d444c8482b5041a2f59b50/bc0896c0-4cfd-4ded-9a80-030fe0f02933.jpg?fit=thumb&w=600&h=340"
-    width: 600
-    height: 340
-    isCached: true
-
-secured: "LFUrnfdWHI9L4RkKy+nOYyiU4edYXQ+sCXr/XKZmZqGT39+yqjFAC+qr7EhimQPlDwvzTsHxB+9FqUcus3POLO/KcaZPZ3L8LQz6a0pszI+G2YmC1NWpmTc9xBD7dYvrY/aiQ4QGXaRMDVrLPb0MSpSgFPewJwvVEGEnccRRV1GMfmtHPMEtJkOqbEgkZOKsPzzfunoGr6M1KIAX8brsBm8GKNciYq9Iu9qKS4MgZvqqDBZmsJED3arSWetb1IaPCLShQwlr8J+oY4UL3az9aeWrkNaSlnyDdXQycC0c8vOWQ9h+XT1nMBm9vMKr31qoxwO3qh5pdocmsD71pNkWLlS+rj+7BkeDWDYkq9bCHPs=;opHRTgqEDsE446vsqNI/Yg=="
+secured: "LoDb77bzuNZhgmL8r3LsDY4Mee9QtRySaHf6wCQyDmtWzMi0wi3v01WdB82ij1Zg77Z3df8aYo0SuS6Rm76QMuYWPoKIyNt6rRSqZ4CBdvpUJL6JkiUcvJm6TJIPmlD6ejlx0xpoNLJlwOJvF3kCTvk/vj0JNErCS9QY3BHOH72p1iFPZLo2U88XWDxQZArGjjmzHS/PJ9a3BoWvU+NpESGn4P/7zDwGdNJzc61gOt+9q0SD6zdDUA3TxBcC50oVcBrgYlp8d1TdrBhM3QpuzDwu7loWBc87NQ5WxGcz9YQPATJnP9j/z7SyVMEqxQETgeHEsAgt7bkqyS0tpm4pnyplYP6bISJnN42ZZmUbhhIenTBR75g26jOY7L1hHWSk2v8DgcXumKI41FdHjPxWwY6gNbAub2rfe1naGz2+EU/gmujR9Dej7mx9LjWA2rQBTHP2g9y7mYM1hC+z3XbWsttquCiPFkCEDLWkq1qoXxffNuHWxBSY6yOQ7O+CQOrEUR6E8IxJSEl/kdw4gIP+TA==;PbjzkRFOHxRjFKKO38Jq7w=="
 ---
 

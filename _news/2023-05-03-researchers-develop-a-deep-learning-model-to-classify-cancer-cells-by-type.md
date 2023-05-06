@@ -25,30 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "IIT Madras researchers develop machine learning tool to detect tumour in brain, spinal cord"
-    excerpt: "Researchers at IIT Madras have developed a machine learning-based computational tool for better detection of cancer-causing tumours in the brain and spinal cord. Named ‘GBMDriver’ (GlioBlastoma Mutiforme Drivers), this tool is publicly available online."
-    publishedDateTime: 2023-05-01T14:05:00Z
-    webUrl: "https://www.thehindubusinessline.com/news/iit-madras-researchers-develop-machine-learning-tool-to-detect-tumour-in-brain-spinal-cord/article66800135.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/news/iit-madras-researchers-develop-machine-learning-tool-to-detect-tumour-in-brain-spinal-cord/article66800135.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/iit-madras-researchers-develop-machine-learning-tool-to-detect-tumour-in-brain-spinal-cord/article66800135.ece/amp/"
+  - title: "Deep Learning Network Predicts Cancer Cells’ Metastatic Potential"
+    excerpt: "Cancer cells that initiate metastasis, or the spread of the disease from its primary location, are different from cancer cells that stay in the original tumor."
+    publishedDateTime: 2023-05-03T08:45:00Z
+    webUrl: "https://www.technologynetworks.com/cancer-research/news/deep-learning-network-predicts-cancer-cells-metastatic-potential-372869"
     type: article
     provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 44
-  - title: "IIT-Mandi startup develops AI-based affordable solution to detect respiratory, genetic disorders"
-    excerpt: "An IIT-Mandi incubated startup has built a cost-effective Artificial Intelligence -based medical imaging solution that has the potential to revolutionise the early detection of respiratory abnormalities,"
-    publishedDateTime: 2023-05-01T14:12:00Z
-    webUrl: "https://telanganatoday.com/iit-mandi-startup-develops-ai-based-affordable-solution-to-detect-respiratory-genetic-disorders"
-    type: article
-    provider:
-      name: Telangana Today
-      domain: telanganatoday.com
-    quality: 24
+      name: technologynetworks
+      domain: technologynetworks.com
+    quality: 39
     images:
-      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2023/05/iit.jpg"
-        width: 1280
-        height: 750
+      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/372869/deep-learning-network-predicts-cancer-cells-metastatic-potential-372869-640x360.jpg?cb=20230503"
+        width: 640
+        height: 360
         isCached: true
 
 secured: "T+N2YPCw/gG70/WIWjDkyEcciPEqTb/hYyms/tod/GwV/OLK34vLxFbP72LYHdr0sb7GG/0RndbIvdIOmONpgmtjTWMrcHel8ogHsmQUb8TMUgmYgiOO1TZDBZ0NTulOTLXlQQMX48uaVgioX3aimi9mO2O3wpGZOhK8Q1fXAu9q/DYIBTmHo/EuGeiolqdj9MxA/sCd1losUkkPJX37jYp5age0NvsKOZfpUgUp9/T3jHYcmNheU478UPaRZYNSw/NCKZupO7qwtco+XRr0mXDQweI60Ng9lE+ng9l4dqsrd7VHE/tdIy0Yim94jgE8ea5F0uFKmrYSCFjWcdV68jsNhCp1drpnTIJ+ffNY24o=;IekewMpLF+92w/wve7dS2Q=="

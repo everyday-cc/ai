@@ -156,6 +156,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "5 ways AI is transforming healthcare"
+    excerpt: "AI is revolutionizing healthcare by analyzing large datasets and helping in the detection, prevention, prediction, and treatment of disease."
+    publishedDateTime: 2023-05-03T12:20:00Z
+    webUrl: "https://interestingengineering.com/health/how-ai-is-transforming-healthcare"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 34
 
 secured: "ZSx8vVu8+d9Ua6rprCx6dlrzG4p+kfui6v9MUXQIHfTkznCHVzZqo4DjLT6S4wMdBkU3vfGu8tE7hXKufTEBQ+cJ4SegKl9SAo47GzDGFrJvJgR9x/CJUoh8Pv5b7moCQnY4KUXvurid0faGS0EBqBcEXDOT8OMdfTWG21sqPELM3hMUOCa2y0/6vMYp6dHQA63wgzrRB/bQTgLkmDP7WRzqtByCeMWTv1D6bYIxpu/cbOIo3Rf2Qh00XdQJbH5Dn5d/1QlahwmmhEhjRBB494+7ekL+DG/77/tRFa+2EyGD781RZIuhaKZNCMt/N05AYmkyX7FoUumRNRJiYkhhTClCwDiGGx65n0Zx2cO6q3k=;rbiylK8mHelDyVro26LmCA=="
 ---

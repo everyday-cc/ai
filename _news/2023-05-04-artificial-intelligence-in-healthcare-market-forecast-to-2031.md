@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-forecast-to-2031-2023-05-04"
 type: article
 quality: 84
-heat: 184
+heat: 194
 published: true
 
 provider:
@@ -156,6 +156,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "5 ways AI is transforming healthcare"
+    excerpt: "AI is revolutionizing healthcare by analyzing large datasets and helping in the detection, prevention, prediction, and treatment of disease."
+    publishedDateTime: 2023-05-03T12:20:00Z
+    webUrl: "https://interestingengineering.com/health/how-ai-is-transforming-healthcare"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 34
 
 secured: "sHSlTzz9e9doJNVdpx3xhfkejTo5qoRfsr1q3El9ZIVCxV9myIrD7YeXbPSMdb7blmXJYQ5IlPSNIUCcC7Mywt4jtTjmN93FIG5KZnhIJrfMCipUt7tvjGTF2uJ6JjdJ0tNr5ZG88nB3J+bDZ2cewFr0RdIrAV1qBpUIt9zgofbOUjMDCRdkm8s368d1MJteLp/05FTc0hQ6awwUEYPTwPFTKyx8rrMZ9BPKj7yf65mQqwPrtwXXpwFHnI6gmQHrIMMSnbAKyzwxR9ImYjOFn+eWNp7dB/dn34afp1UF0A6UxATIInynsMPJR9u9oac7eRKy2AuaKh9TZxyT22gh5y+Aeoc5CaiHnZ1LDeRQrvw=;QrO+tH51NX7ROWDJKGUjmg=="
 ---

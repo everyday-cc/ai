@@ -24,36 +24,128 @@ images:
     isCached: true
 
 related:
-  - title: "Biden Administration Warns of AI’s Dangers. There’s a Limit to What White House Can Do."
-    excerpt: "The Biden administration is confronting the rapidly expanding use of artificial intelligence, warning of the dangers the technology poses to public safety, privacy and democracy while having limited authority to regulate it."
-    publishedDateTime: 2023-05-04T18:22:00Z
-    webUrl: "https://www.wsj.com/articles/white-house-warns-of-risks-as-ai-use-takes-off-d4cc217f?mod=lead_feature_below_a_pos1"
+  - title: "Biden administration takes action to promote responsible AI innovation"
+    excerpt: "The Biden administration pushes responsible AI with R&D investment, policymaking, and assessments of current generative AI systems."
+    publishedDateTime: 2023-05-05T17:49:00Z
+    webUrl: "https://venturebeat.com/ai/biden-administration-takes-action-to-promote-responsible-ai-innovation/"
+    ampWebUrl: "https://venturebeat.com/ai/biden-administration-takes-action-to-promote-responsible-ai-innovation/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/biden-administration-takes-action-to-promote-responsible-ai-innovation/amp/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/04/annevb_chatbots_and_AI_everywhere_all_at_once_-_tech_colorful_e_beb92de9-8091-4437-9e29-d568ea8d4b74.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Generative AI In The Construction Sector: Taking Building Technology To New Heights"
+    excerpt: "It’s no exaggeration to say that generative AI will have a transformative effect on global industry. With the ability to generate new outputs based on algorithms and trained data, it represents the next step in artificial intelligence and a new level of sophistication for machine learning."
+    publishedDateTime: 2023-05-02T15:50:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/05/02/generative-ai-in-the-construction-sector-taking-building-technology-to-new-heights/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/05/02/generative-ai-in-the-construction-sector-taking-building-technology-to-new-heights/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/05/02/generative-ai-in-the-construction-sector-taking-building-technology-to-new-heights/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 81
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64512ef3a78479bc981e6545/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Code.org helping launch TeachAI to guide integration of artificial intelligence in education"
+    excerpt: "Seattle-based computer science education nonprofit Code.org is helping to launch TeachAI, a new effort aimed at guiding governments and educators on teaching with and about artificial intelligence. The initiative,"
+    publishedDateTime: 2023-05-02T13:00:00Z
+    webUrl: "https://www.geekwire.com/2023/code-org-helping-launch-teachai-to-guide-integration-of-artificial-intelligence-in-education/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 68
+  - title: "Appian Infuses Process Automation with Artificial Intelligence"
+    excerpt: "Introduction of Appian AI Skill Designer and Generative AI integration make it easy to tap the power of AI through low-codeSAN DIEGO, May 2, 2023"
+    publishedDateTime: 2023-05-02T17:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/appian-infuses-process-automation-with-artificial-intelligence-1032283341"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
+    images:
+      - url: "https://mma.prnewswire.com/media/2067150/Appian_AI_Thumbnail.jpg"
+        width: 400
+        height: 231
+        isCached: true
+  - title: "Information ministry holds lecture on AI"
+    excerpt: "Muscat: The Ministry of Information on Thursday organised a lecture on artificial intelligence (AI). The lecture dealt with the concept of"
+    publishedDateTime: 2023-05-04T14:14:00Z
+    webUrl: "https://www.omanobserver.om/article/1136617/oman/information-ministry-holds-lecture-on-ai"
+    ampWebUrl: "https://www.omanobserver.om/ampArticle/1136617"
+    cdnAmpWebUrl: "https://www-omanobserver-om.cdn.ampproject.org/c/s/www.omanobserver.om/ampArticle/1136617"
+    type: article
+    provider:
+      name: omanobserver
+      domain: omanobserver.om
     quality: 59
     images:
-      - url: "https://images.wsj.net/im-775945/social"
-        width: 1280
-        height: 640
+      - url: "https://www.omanobserver.om/omanobserver/uploads/images/2023/05/04/2321824.jpg"
+        width: 1000
+        height: 503
         isCached: true
-  - title: "Tired of applying to jobs? AI can help"
-    excerpt: "We have all been there: spending countless hours tailoring and designing our resumes, and writing and rewriting our cover letters for employers who ask for them. There is no point in denying that these tasks are as tedious as they get."
-    publishedDateTime: 2023-05-05T04:15:00Z
-    webUrl: "https://www.thedailystar.net/tech-startup/news/tired-applying-jobs-ai-can-help-3310986"
-    ampWebUrl: "https://www.thedailystar.net/tech-startup/news/tired-applying-jobs-ai-can-help-3310986?amp"
-    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/tired-applying-jobs-ai-can-help-3310986?amp"
+  - title: "Teradata operationalises AI with Google Vertex AI integration"
+    excerpt: "Teradata has announced services enabling organisations to accelerate Ai-driven digital transformation initiatives. The connected multi-cloud data platform"
+    publishedDateTime: 2023-05-02T14:20:00Z
+    webUrl: "https://www.enterprisetimes.co.uk/2023/05/02/teradata-operationalises-ai-with-google-vertex-ai-integration/"
     type: article
     provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 57
+      name: enterprisetimes.co.uk
+      domain: enterprisetimes.co.uk
+    quality: 39
     images:
-      - url: "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/05/04/chatgpt_job_applications.jpg"
-        width: 750
-        height: 393
+      - url: "https://www.enterprisetimes.co.uk/wp-content/uploads/2018/11/artificial-intelligence-3382507_1920.jpg"
+        width: 726
+        height: 410
         isCached: true
+  - title: "A case against banning TikTok. A US national strategy for AI."
+    excerpt: "These steps build on the Administration’s strong record of leadership to ensure technology improves the lives of the American people, and break new ground in the federal government’s ongoing effort… National Standards Strategy for Critical and Emerging Technology (Record) The Biden administration's National Standards Strategy for Critical and Emerging Technology is intended to help set global rules to ensure tech is \"universally safe and interoperable."
+    publishedDateTime: 2023-05-05T19:45:00Z
+    webUrl: "https://thecyberwire.com/newsletters/policy-briefing/5/87"
+    type: article
+    provider:
+      name: Cyber Wire
+      domain: thecyberwire.com
+    quality: 39
+    images:
+      - url: "https://thecyberwire.com/images/social-media/policy-briefing/2023/Policy-23-050523.jpg"
+        width: 2640
+        height: 1320
+        isCached: true
+  - title: "Biden-Harris administration announces initiatives for responsible AI innovation"
+    excerpt: "VP Harris meets with tech CEOs and major AI companies commit to independent evaluation at DEF CON 31. #NewsismyBusiness"
+    publishedDateTime: 2023-05-05T09:04:00Z
+    webUrl: "https://newsismybusiness.com/biden-harris-administration-announces-initiatives-for-responsible-ai-innovation/"
+    type: article
+    provider:
+      name: Business
+      domain: newsismybusiness.com
+    quality: 35
+    images:
+      - url: "https://newsismybusiness.com/wp-content/uploads/2023/05/dreamstime_m_51454298-394x218.jpg"
+        width: 394
+        height: 218
+        isCached: true
+  - title: "MotionPoint Releases Adaptive Translation™: Proprietary AI to Reduce the Cost of Quality Translation"
+    excerpt: "MotionPoint introduces Adaptive Translation™ technology to reduce human translation costs without sacrificing quality."
+    publishedDateTime: 2023-05-03T11:00:00Z
+    webUrl: "https://slator.com/motionpoint-releases-adaptive-translation-proprietary-ai-to-reduce-the-cost-of-quality-translation/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 4
 
 secured: "pgmMW1y1EC9IZ8BParkXLwHBM0edYb8iO6PTVBppiGT+eo74ZMSOrLxbLSbjblNwN9wYmw/9oB1x20oKTuO9nL03qJG0AanM3wUVynd6L6Jno0oBGKjly2WMycuQuzigABGBh52MA7xxTjpRe0+4lnXf+knPbVWuP+k7IoimnMXeEsOEhuaOduPyJtQ8NHMV676V/xt9jFPPyhdteScZ1QA9b753cd/UWjyKWeIXcRcf7vUr5n6MydidOrRIHbFrZFulrvXwmo9Sh5yBdR7ep+lHj7ErNZnwPUFqGfCeyaNVndWXHd2wgB+xvtQytQ6xau9ByH71jJhr/rKwTVlDUiK4ZBe35wC3tce20eXeYgw=;Bd68B0DxEcBz13SI7eOBcw=="
 ---

@@ -1,26 +1,26 @@
 ---
 category: news
-title: "First babies born after being conceived by PlayStation-controlled robot"
-excerpt: "San Francisco, April 28 (IANS) Overture Life, a Spanish startup, which developed a sperm-injecting robot that can be controlled using a PlayStation controller, has successfully fertilised human ..."
-publishedDateTime: 2023-04-28T12:37:00Z
-originalUrl: "https://glamsham.com/world/technology/first-babies-born-after-being-conceived-by-playstation-controlled-robot"
-webUrl: "https://glamsham.com/world/technology/first-babies-born-after-being-conceived-by-playstation-controlled-robot"
+title: "First Babies Born After Being Conceived By Playstation-Controlled Robot"
+excerpt: "(MENAFN- IANS) San Francisco, April 28 (IANS) Overture Life, a Spanish startup, which developed a sperm-injecting robot that can be controlled using a PlayStation controller, has successfully ..."
+publishedDateTime: 2023-04-28T12:44:00Z
+originalUrl: "https://menafn.com/1106125998/First-Babies-Born-After-Being-Conceived-By-Playstation-Controlled-Robot"
+webUrl: "https://menafn.com/1106125998/First-Babies-Born-After-Being-Conceived-By-Playstation-Controlled-Robot"
 type: article
 
 provider:
-  name: glamsham.com
-  domain: glamsham.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://glamsham.com/wp-content/uploads/2023/04/84fad78bd3ae8958835271cb06d8f198.jpg"
+  - url: "https://menafn.com/updates/pr/2023-04/28/I_b2afeimage_story.jpg"
     width: 400
     height: 268
     isCached: true
 
-secured: "AgHlPEZdW0lID5M4UZXqrox6+oyNR9Ro/r5y5QUHvQeisAVbxjTXu2rAQLXorcbjEZehYTSY5lbPbLlYhsgrYoQ02yP+w14fO0WbrqpSQF3Vxdqsy7MhO98Gg4DQWzfViVfwUZmSmyZM22Xgu/Y/waMYrIhi+zrsZH8ct52BmV+Za1XOvHZs3oQkMfiduedTtJRt9IXAoVYkHk2bjjUb4kVpR6f3e0Q0nvR6mbRBsRiD1aY9zE2FoThvpwfTdi26YYEiMJSv5ghPLkfjrnXWuId1xK+Vn6GfaC2Lkan9l+rAGhOB9lYX3Y7nkW1znY4DRnNZpyPAAdcAMnfwfxDYMt+Lqa4w9K90WvFuABsog5I=;dc+nuEzghx6ZP+4VeNg4sw=="
+secured: "IE/XFjx9pe4oCKgXnU38DZe62pF2yXjuy4B7ZBj5bQukmG+IXgVoqNHusGmzOn51YodvX0+OGZ+khdwHrvnTtsdW9fguaG/0MSvnvJK0q93KyZDu0t0ThFHeglr6DHumtzabG6GvABMhgx6BljwriODe90OTiK6d0FJVQPkq0nXppZrzh5gFDk/nh+VcEzTScnD/Q5/yw4CPcEKA3psJ29lNpE6S5rAJn2xz3DV1e6opJQnbErXTmWDMvi95sBcf3P47TZ7uKpRVBOpb/QYWCZhnCUaVdSRDrLfCH3WvO3dQilKUuBPrViyx0+hCXRf/BeL5jQYruXYmkzoJ4ynjS5BiTnSkuhRE6wwehY/Pciw=;qIxmyXtimHJ6b0YLaLLudQ=="
 ---
 

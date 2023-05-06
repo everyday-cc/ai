@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/white-house-wants-to-know-how-a
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/white-house-wants-to-know-how-ai-monitoring-is-impacting-your-work/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://i.insider.com/64517e2ba19cbe00192dd25e?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "How Artificial Intelligence is Transforming Business"
+    excerpt: "AI technologies have a wide range of applications in business, and many publicly traded companies now use AI tools."
+    publishedDateTime: 2023-05-03T02:15:00Z
+    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-in-business/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 71
+    images:
+      - url: "https://m.foolcdn.com/media/dubs/images/nvidia-nvda-stock-ai-artificial-intelligence-2.width-600.jpg"
+        width: 580
+        height: 387
         isCached: true
   - title: "How artificial intelligence is already powering work in B.C."
     excerpt: "These are some of the novel ways in which B.C. companies are using machine learning and artificial intelligence – and to the clear potential benefit of humanity. But like nuclear fission, machine super-intelligence is a Promethean power with the potential to be corrupted,"

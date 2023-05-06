@@ -326,20 +326,6 @@ related:
         width: 647
         height: 450
         isCached: true
-  - title: "Amazon, Microsoft and Alphabet deliver slower cloud growth. Here's how AI could reverse that trend"
-    excerpt: "Microsoft (MSFT) and Alphabet (GOOGL) continued to slow. But over the longer term, we expect growth to reaccelerate."
-    publishedDateTime: 2023-05-01T14:25:00Z
-    webUrl: "https://www.cnbc.com/2023/05/01/amazon-microsoft-and-alphabet-deliver-slower-cloud-growth-whats-ahead.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 70
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107191059-16758639962023-02-08t134132z_1009027201_rc2vfs94lvi1_rtrmadp_0_usa-treasury-cloud-computing.jpeg?v=1682958326&w=1920&h=1080"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Here’s what’s missing from Microsoft’s Responsible AI program: An ethics team"
     excerpt: "While Microsoft expresses interest in responsible AI, it is worth noting that they fired their entire AI ethics team in March 2023."
     publishedDateTime: 2023-05-03T09:38:00Z

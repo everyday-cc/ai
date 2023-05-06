@@ -25,22 +25,6 @@ images:
     height: 1043
     isCached: true
 
-related:
-  - title: "AMP Robotics unveils new AI-enabled automated sortation solution, introduces integrated facility offering for new recycling infrastructure"
-    excerpt: "AMP Robotics Corp. (\"AMP\"), a pioneer in artificial intelligence (AI), robotics, and infrastructure for the waste and recycling industry, now offers a complete line of AI-powered automation solutions for materials recovery facilities (MRFs),"
-    publishedDateTime: 2023-05-01T13:23:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/05/01/9804834.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 37
-    images:
-      - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
-        width: 550
-        height: 353
-        isCached: true
-
 secured: "eY7NDseECLwjjRwrxKGvIOzZ1d512haT789a08fMpYOpvho3btoKK/zV7ne/w8uCa0bb+AT7ZJcSZghrC7YPPtG/YqNXCHpQzLFusBVzeut0DQdICxd6fKt9Rf5Pk0XUnGxXa5Nxwq7AzgPuEQeSIW6nbebcmyA59+Fb5e9VVkpsFvXp0o8ISfzIsKt2lJvhHsDqVn1CyIAoAQNT4i5L/slq5A393xLdOcnRpWedy2vrLC6EbGvmZ832lS9+53pbkebRtYktzq6Y0FVympYg5kZbmbUtTkOp5aCERG0k85waj0xsLIKQohlKF8BVly3Oib/lXD6ApVt5fKsrctgPSPMP5h6xe/MmOFos7LxUQVc=;q+bFkKSJ+s7j4HiiVDmWCA=="
 ---
 

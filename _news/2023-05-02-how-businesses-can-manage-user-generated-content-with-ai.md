@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/02/how-busine
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/02/how-businesses-can-manage-user-generated-content-with-ai/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 157
+published: true
 
 provider:
   name: Forbes
@@ -30,82 +30,64 @@ images:
     isCached: true
 
 related:
-  - title: "How Generative AI Can Affect Your Business’ Data Privacy"
-    excerpt: "If a business enters any client, customer or partner information into a chatbot, that AI may use that information in ways that businesses can’t reliably predict."
-    publishedDateTime: 2023-05-01T14:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/01/how-generative-ai-can-affect-your-business-data-privacy/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/01/how-generative-ai-can-affect-your-business-data-privacy/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/05/01/how-generative-ai-can-affect-your-business-data-privacy/amp/"
+  - title: "Behind The Hype About AI Transforming Consumer Businesses"
+    excerpt: "Explore the future of retail in a world dominated by AI-generated content. Is the physical store making a comeback?"
+    publishedDateTime: 2023-05-04T15:36:00Z
+    webUrl: "https://www.forbes.com/sites/gregpetro/2023/05/04/behind-the-hype-about-ai-transforming-consumer-businesses/"
+    ampWebUrl: "https://www.forbes.com/sites/gregpetro/2023/05/04/behind-the-hype-about-ai-transforming-consumer-businesses/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gregpetro/2023/05/04/behind-the-hype-about-ai-transforming-consumer-businesses/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/61f2bb5a705a07e1687440a6/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6453cf70c9583ac188eabd27/0x0.jpg?format=jpg&crop=1470,827,x0,y0,safe&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "How Artificial Intelligence is Transforming Business"
-    excerpt: "AI technologies have a wide range of applications in business, and many publicly traded companies now use AI tools."
-    publishedDateTime: 2023-05-03T02:15:00Z
-    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-in-business/"
+  - title: "StoryMaker helps small businesses create their 30 second pitch and other marketing messages instantly with artificial intelligence"
+    excerpt: "West Virginia based InnerAction Media has just released its new SaaS software application StoryMaker - offering to help small businesses in the US write their perfect 30 second pitch - and other important marketing messages - instantly."
+    publishedDateTime: 2023-05-02T16:04:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/storymaker-helps-small-businesses-create-their-30-second-pitch-and-other-marketing-messages-instantly-with-artificial-intelligence-1032283172"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 71
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 54
     images:
-      - url: "https://m.foolcdn.com/media/dubs/images/nvidia-nvda-stock-ai-artificial-intelligence-2.width-600.jpg"
-        width: 580
-        height: 387
+      - url: "https://mma.prnewswire.com/media/2067014/InnerAction_Media_StoryMaker.jpg"
+        width: 400
+        height: 339
         isCached: true
-  - title: "Moving Beyond The Hype: The Ethics And Business Outcomes Of Generative AI"
-    excerpt: "As the ethics and business outcomes of generative AI are discussed, how safe and reliable is the technology and moving forward?"
-    publishedDateTime: 2023-05-04T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/04/moving-beyond-the-hype-the-ethics-and-business-outcomes-of-generative-ai/"
+  - title: "FTC attorney says agency concerned with generative AI use"
+    excerpt: "Companies developing novel artificial intelligence (AI) tools might want to think carefully before laying off ethics personnel, an attorney with the Federal Trade Commission (FTC) warned. The agency is closely tracking company use of AI tools for possible ..."
+    publishedDateTime: 2023-05-02T19:34:00Z
+    webUrl: "https://www.complianceweek.com/regulatory-policy/ftc-attorney-says-agency-concerned-with-generative-ai-use/33027.article"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 63
-  - title: "How democratised Machine Learning can transform your business"
-    excerpt: "Let’s dispel a misconception. Artificial intelligence (AI) and machine learning (ML) are often seen as beyond the reach of businesses without data scientists and ML engineers. As we explored in chapter six of AWS eBook Innovate With AI/ML To Transform Your Business,"
-    publishedDateTime: 2023-05-03T23:00:00Z
-    webUrl: "https://www.smartcompany.com.au/partner-content/articles/how-democratised-machine-learning-can-transform-your-business/"
-    type: article
-    provider:
-      name: SmartCompany
-      domain: smartcompany.com.au
-    quality: 41
-    images:
-      - url: "https://www.smartcompany.com.au/wp-content/uploads/2023/05/AWS-AI-article-4-1466x710-1.png?fit=1466%2C710"
-        width: 1466
-        height: 710
-        isCached: true
-  - title: "EU’s AI legislation aims to protect businesses from IP theft"
-    excerpt: "A new draft of EU artificial intelligence (AI) legislation could better protect business IP from being secretly scraped by AI firms, with developers facing new transparency obligations on copyrighted content."
-    publishedDateTime: 2023-05-02T09:34:00Z
-    webUrl: "https://www.techcentral.ie/eus-ai-legislation-aims-to-protect-businesses-from-ip-theft/"
-    type: article
-    provider:
-      name: Mozilla
-      domain: techcentral.ie
+      name: Compliance Week
+      domain: complianceweek.com
     quality: 39
     images:
-      - url: "https://www.techcentral.ie/wp-content/uploads/2021/11/european_commission_nov_2021.jpg"
-        width: 620
-        height: 349
+      - url: "https://d6jxgaftxvagq.cloudfront.net/Pictures/1024x536/8/9/1/16891_artificialintelligenceethics_852683.jpg"
+        width: 1024
+        height: 536
         isCached: true
-  - title: "The Clash Of Generative AI And Intellectual Property Law: What It Means For Businesses"
-    excerpt: "Autoencoders use two AI programs: An encoder, which reduces work to a small representation called \"latent vectors,\" and a decoder that then attempts to expand the latent vectors back into the original work; the difference between the two is used to train the system to generate new material and modify input material."
-    publishedDateTime: 2023-05-03T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/03/the-clash-of-generative-ai-and-intellectual-property-law-what-it-means-for-businesses/"
+  - title: "Business Transformations in 2023 with Artificial Intelligence"
+    excerpt: "Conversational dialogues between humans and ChatGPT are mimicked by OpenAI. Industries anticipate it will be used more widely as an office assistant"
+    publishedDateTime: 2023-05-02T09:48:00Z
+    webUrl: "https://www.cioapplications.com/news/business-transformations-in-2023-with-artificial-intelligence-nid-10608.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 39
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 37
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/w7t62cioapp450-308.jpg"
+        width: 450
+        height: 308
+        isCached: true
   - title: "Centene divests artificial intelligence business"
     excerpt: "Centene Corp. is selling an artificial intelligence business it purchased just over two years ago, the company said Wednesday."
     publishedDateTime: 2023-05-03T17:53:00Z
@@ -115,6 +97,24 @@ related:
       name: St. Louis Post-Dispatch
       domain: stltoday.com
     quality: 19
+  - title: "Amnesty International criticised for using AI-generated images"
+    excerpt: "Group has removed AI images used to promote their reports on social media, including fake photos of Colombia’s 2021 protests"
+    publishedDateTime: 2023-05-02T17:46:00Z
+    webUrl: "https://www.theguardian.com/world/2023/may/02/amnesty-international-ai-generated-images-criticism"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 17
+  - title: "How Midsize Companies Can Keep Up with AI"
+    excerpt: "Right now, many businesses are reacting to generative AI in a vacuum. But individual innovations shouldn’t be approached with a narrow, short-term focus, as midsize companies that chase each new trend will find themselves over-committed and under-prepared when that trend wears off."
+    publishedDateTime: 2023-05-03T12:15:00Z
+    webUrl: "https://hbr.org/2023/05/how-midsize-companies-can-keep-up-with-ai"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 17
 
 secured: "NJNOaQhz3qtUZz9LRPNpOKEVAXJg9EAKJXe2h6udGrQnySaH0ufqqCVta8aSILJ2KS9lgLOjcNVchr7I6PB89dJD7/pU/kObT8zPluLZG9VsDrtY9osDeTKikIyrbdsn14ymJy5bDS1qwFxWfExtbCNkJqlH1AGCfyU5IyGpcFC9KvAU2MXXw7iVFNxyKX5bwOGJf9O4ENuWA0zgOZGvq/zNtBP0OctLwXy2pkImbvuK//FyXGgpdxZDfYsOooDiz05/FCsSBOUqpa1W0qm0AFtkmvL3fb8BIhCvLr7frAP3Wdvwm8ddlhqahrJdWsBlD6eXUuWbzlmqAlv6TM9HF6oHbNhFA1tQFA8Sbirc03w=;TEiwXA/6/ZfUhRW4Eos7mw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.arkansasonline.com/news/2023/may/04/walmart-now-using-
 webUrl: "https://www.arkansasonline.com/news/2023/may/04/walmart-now-using-ai-for-some-vendor-deals/?latest"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,17 +22,6 @@ images:
     width: 600
     height: 423
     isCached: true
-
-related:
-  - title: "Negotiating a Vendor Deal With Walmart? You May Be Talking to AI"
-    excerpt: "Walmart is using chatbot negotiators from California-based Pactum AI, which says its tech can help the retailer and be 'recession ready.'"
-    publishedDateTime: 2023-05-01T13:54:00Z
-    webUrl: "https://www.pcmag.com/news/negotiating-a-vendor-deal-with-walmart-you-may-be-talking-to-ai"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 47
 
 secured: "Dvcmco1CrvAM1Sp59VdtLoWGCZxxRH1N67WiXxtywnrAsbnjeZU3m2aPYlgtBJpUyI0FK9lgWnv++nmyN3ip8kMz3VKsDWs+LQMiCjywTNPsSCiIGv6sDeCPZrG4Yq6wmon6nr6vnfnrN+fVN0n/0Pwt1sAJx8NbSuDPEQjeaSL+YgrPDDv/MRY/XT67trg9tZs52wiJ2+f0Q7ceVy4wGKqay4uWU8pBw5SSWv9+lQ7lF8mHt9S3HuW10pY1Ou+BLjKnKo6ZcY8ZfdVj0/d5B33XPxg084b1bLUg1IvSn2lKuH2CtPPFpa5vHCP+TQpJzsSUryKxICWbPD+g18cvdDE23FJ5CY653WrE3khEMi0=;wHp9yKcvueePWWpn8aJg0g=="
 ---

@@ -156,6 +156,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "5 ways AI is transforming healthcare"
+    excerpt: "AI is revolutionizing healthcare by analyzing large datasets and helping in the detection, prevention, prediction, and treatment of disease."
+    publishedDateTime: 2023-05-03T12:20:00Z
+    webUrl: "https://interestingengineering.com/health/how-ai-is-transforming-healthcare"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 34
 
 secured: "P4P3CgWFjYeqgNy+nU5YE5qnISh6H6bNyIA9oGDGQM7IbfDybtedszdUXyeGTqDJJLYQzxVMKMYBQIOGAhogVXUcXLpj2hTt3akUbz+XkzNR/uBuC8JZ19X+Of13mMIn3Wlv6UQ+3Hj/HUhQVWkXM6T/P/qvZqgXXQj25bGjAQhJfOqhTYS3c0IzTDiOe8gmix7k7nggY87n9B7h4XZdrZyWw0dLahBoI7jnfmNXLyibRUsOxgRvrTm7ZYmyNVuIITI2xsXSyqbt7pw3NvJEcPiE/ieS5dVbR17PafAkVJQIWDVSd1u3aJwDklmafZenngwL7HEj2D8kIfNkvA00uZwoBws3P40/nPaIM05x1iM=;/XNST4W4mBSFZI4unwkrPw=="
 ---

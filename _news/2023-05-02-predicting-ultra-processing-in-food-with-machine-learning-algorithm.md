@@ -48,6 +48,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Smartling’s Patent-Pending Technology Enables Breakthroughs in Translation Using AI"
+    excerpt: "Smartling, Inc. today announced the introduction of patent-pending technology that brings human-quality machine translation closer to reality."
+    publishedDateTime: 2023-05-03T17:59:00Z
+    webUrl: "https://slator.com/smartling-patent-pending-technology-enables-breakthroughs-translation-using-ai/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 13
 
 secured: "R+/ELQ38TVVbS4KlJa9TVmPXnIthkNlBDSt7HLYbXCRMnKvXB7DVcN8ZSlbrQeepFGIcKAZ2bqciD33yJLOs8jhxM8VNPudmY7+Wdprjuw9OCtFKfwRHxBAcY6Z0d/+fLDbIE3OD1SoeOMZ2yHaNK0irAukwpcjb8Y8O/qYrwMlP/+eFiq02w/ZGnhRc2+iSW9fPdD64EMXaTWS+JRPOYYuW78Y4SVdGQ6DoWVYrZyNTYhM2rIvJvAbfb3cSbffKCyYmeZsnDZx7wpMP9PQ+pDKVbXYpRyNIY79xnYwrnDZTpbTAJB8uES1LrTf2aeGiG7OJ0bfU9Lhmu3RkZCsISLXIKUFuNz18wRzWxsdtnhJ1EkkSs01PO2vTtV6emzywNYZv35LGnpmEakDL5M2Qo7HenEZgCUEGAHY2h3NQu9ZkPlqPgylaK3kXC9E63gEErYeqx5g3o4DLsCkjPGXzxdrdXKtrjfUoaDgLWnIFQnGpLC4r3N+7kCQU2q/ooob2kD+27euhjzCPN6Kg6Q+MdQ==;3DsB0pSWLpOQYaeeXKHRvg=="
 ---

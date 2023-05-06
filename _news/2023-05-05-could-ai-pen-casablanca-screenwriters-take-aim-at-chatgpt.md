@@ -1,29 +1,23 @@
 ---
 category: news
-title: "Could AI pen 'Casablanca'? Screenwriters take aim at ChatGPT"
-excerpt: "Not six months since the release of ChatGPT, generative artificial intelligence is already prompting widespread unease throughout Hollywood"
-publishedDateTime: 2023-05-05T09:43:00Z
-originalUrl: "https://abcnews.go.com/US/wireStory/ai-pen-casablanca-screenwriters-aim-chatgpt-99104871"
-webUrl: "https://abcnews.go.com/US/wireStory/ai-pen-casablanca-screenwriters-aim-chatgpt-99104871"
-ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/ai-pen-casablanca-screenwriters-aim-chatgpt-99104871"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/ai-pen-casablanca-screenwriters-aim-chatgpt-99104871"
+title: "Could AI pen ‘Casablanca’? Screenwriters take aim at ChatGPT"
+excerpt: "Not six months since the release of ChatGPT, generative artificial intelligence is already prompting widespread unease throughout Hollywood."
+publishedDateTime: 2023-05-05T13:45:00Z
+originalUrl: "https://www.seattletimes.com/business/could-ai-pen-casablanca-screenwriters-take-aim-at-chatgpt/"
+webUrl: "https://www.seattletimes.com/business/could-ai-pen-casablanca-screenwriters-take-aim-at-chatgpt/"
+ampWebUrl: "https://www.seattletimes.com/business/could-ai-pen-casablanca-screenwriters-take-aim-at-chatgpt/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/could-ai-pen-casablanca-screenwriters-take-aim-at-chatgpt/?amp=1"
 type: article
-quality: 57
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
   - AI
-
-images:
-  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-    width: 834
-    height: 308
-    isCached: true
 
 related:
   - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
@@ -559,6 +553,6 @@ related:
       domain: arabianbusiness.com
     quality: 11
 
-secured: "6K2KPlEfGWGGo9a5U2gr0Ia5TN5DeZCGLKoJLiDlxeTDU2bzImNxJi9Pmx5LY2aqhqiKQyMd+JHC9q+46YYIRoDoykUNtqmHZ+4tKRGKdKORCvd7v11QnuWoDvRCpGRmG/w2L0FMEDBabnxJqFjplYL/vbaJQialqH8Aqw+nmG/JtvweFsL+24GIBcU+kCYTcVa3ZG/W848iTXeCq52IfdO0Q58Cv5sPnOyW/Tux3YySZATIMD4TiKSrI8e1tGEe1bR1HBGV0Vxw3jGqCYiOAm6rc4VwA/tTt//bEbDJR7+xysV18Nr6BBFijWZifXst+nv+njBXKZNS1ZZggI/DnjYZBMZBZbboFRr8nAgnAks=;Ga5tZn+FB1LTsneZh3HU+Q=="
+secured: "HwtvmVhwcvDWR1z1QYmereQUb0P1yp35Kbx4rQrRFDq5y6uOTCw6cyG7SyoyLQ36eQ7dXL4jLXufsjAqfIxsFduBNJJope545oKWuhuHT2PKvK07ICYhO0syCxOMjM5fHB6UfNW16Jqz6jt9mUXjJkowpjCqLxC87lbkHmwmkAgc4Tw0nIhz2ny4Xabcs2qRBpIXLfr+XGZaYAbSLsgDiBCjjdmWF/nTOy28CVwOgob7pBxEVdyPF83yey4zfboWKcAhX+wogRkuwLR0zkTJh+TFpJNdCPNs+MIjuUestquqjTew0hfO2Ja4ilCar0P04SmzYK7K6jO43scBjHkazlCpXLZ6Sgute8IYTp0rOR01hzYdp025Ii5NyWGNZvaPn3Tq5DUs7CE7FIHtFi0Bhi51uQJ52moG/xr/vdfQGtIivEL37raWAdNnlRGnaow/UfaIUPL0kiLh41E/oSdEy8L0N2/aBdjxg66fcFcXrAHep3Vi2CIi7HgtjwtiEMHYUWkp0aLvz4wiZsuE4KhbUg==;yTk2HRIOiQW6PXbu7uKe1Q=="
 ---
 

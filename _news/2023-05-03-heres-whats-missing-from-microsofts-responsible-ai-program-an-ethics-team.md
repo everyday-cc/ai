@@ -339,20 +339,6 @@ related:
         width: 647
         height: 450
         isCached: true
-  - title: "Amazon, Microsoft and Alphabet deliver slower cloud growth. Here's how AI could reverse that trend"
-    excerpt: "Microsoft (MSFT) and Alphabet (GOOGL) continued to slow. But over the longer term, we expect growth to reaccelerate."
-    publishedDateTime: 2023-05-01T14:25:00Z
-    webUrl: "https://www.cnbc.com/2023/05/01/amazon-microsoft-and-alphabet-deliver-slower-cloud-growth-whats-ahead.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 70
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107191059-16758639962023-02-08t134132z_1009027201_rc2vfs94lvi1_rtrmadp_0_usa-treasury-cloud-computing.jpeg?v=1682958326&w=1920&h=1080"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Microsoft and AMD are reportedly teaming up to combat Nvidia’s AI dominance"
     excerpt: "Although Microsoft uses \" tens of thousands \" of Nvidia GPUs in its Azure data centers, Bloomberg reports that the company is also working with AMD to improve the AI capabilities of its GPUs. Although extremely light on details,"
     publishedDateTime: 2023-05-05T18:16:00Z

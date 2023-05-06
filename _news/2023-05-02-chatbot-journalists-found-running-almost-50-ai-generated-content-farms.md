@@ -232,22 +232,6 @@ related:
         width: 600
         height: 314
         isCached: true
-  - title: "Could AI pen 'Casablanca'? Screenwriters take aim at ChatGPT"
-    excerpt: "Not six months since the release of ChatGPT, generative artificial intelligence is already prompting widespread unease throughout Hollywood"
-    publishedDateTime: 2023-05-05T09:43:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/ai-pen-casablanca-screenwriters-aim-chatgpt-99104871"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/ai-pen-casablanca-screenwriters-aim-chatgpt-99104871"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/ai-pen-casablanca-screenwriters-aim-chatgpt-99104871"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 57
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
-        isCached: true
   - title: "Explained | What is the EU’s Artificial Intelligence Act and how does it plan to rein in tech like ChatGPT?"
     excerpt: "As artificial intelligence technologies become omnipresent and their algorithms more advanced—capable of performing a wide variety of tasks including voice assistance, recommending music, driving cars, detecting cancer, and even deciding whether you get shortlisted for a job— the risks and uncertainties associated with them have also ballooned."
     publishedDateTime: 2023-05-03T17:13:00Z
@@ -451,6 +435,17 @@ related:
         width: 360
         height: 240
         isCached: true
+  - title: "Could AI pen ‘Casablanca’? Screenwriters take aim at ChatGPT"
+    excerpt: "Not six months since the release of ChatGPT, generative artificial intelligence is already prompting widespread unease throughout Hollywood."
+    publishedDateTime: 2023-05-05T13:45:00Z
+    webUrl: "https://www.seattletimes.com/business/could-ai-pen-casablanca-screenwriters-take-aim-at-chatgpt/"
+    ampWebUrl: "https://www.seattletimes.com/business/could-ai-pen-casablanca-screenwriters-take-aim-at-chatgpt/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/could-ai-pen-casablanca-screenwriters-take-aim-at-chatgpt/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 37
   - title: "AI ChatGPT creates rap for Warriors vs. Lakers playoffs"
     excerpt: "ChatGPT is what most people are either talking about most of these days or even experimenting with. The KPIX morning team tested the feature by getting AI to become a Warriors fan. (05/05/2023)"
     publishedDateTime: 2023-05-05T19:42:00Z

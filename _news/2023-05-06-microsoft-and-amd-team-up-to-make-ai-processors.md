@@ -339,20 +339,6 @@ related:
         width: 647
         height: 450
         isCached: true
-  - title: "Amazon, Microsoft and Alphabet deliver slower cloud growth. Here's how AI could reverse that trend"
-    excerpt: "Microsoft (MSFT) and Alphabet (GOOGL) continued to slow. But over the longer term, we expect growth to reaccelerate."
-    publishedDateTime: 2023-05-01T14:25:00Z
-    webUrl: "https://www.cnbc.com/2023/05/01/amazon-microsoft-and-alphabet-deliver-slower-cloud-growth-whats-ahead.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 70
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107191059-16758639962023-02-08t134132z_1009027201_rc2vfs94lvi1_rtrmadp_0_usa-treasury-cloud-computing.jpeg?v=1682958326&w=1920&h=1080"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Here’s what’s missing from Microsoft’s Responsible AI program: An ethics team"
     excerpt: "While Microsoft expresses interest in responsible AI, it is worth noting that they fired their entire AI ethics team in March 2023."
     publishedDateTime: 2023-05-03T09:38:00Z
@@ -504,6 +490,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "zOy701wOLYuNIwzyiToj5cIjVJL61nr25/ryo84ulcTqFlLpc9AOwN0deaa2M8Wzxqh3S+vR34Gj/1kVX7BaExTlFMZyOe3EuZ4sNqiM9D8q+j9WlB06ntqVyYGl7oTpO4/5KpgXCr05vCQbv7HAM9DX0i/LNKVYcg/UAp3IEJPrmCRFgautfgEQlE8jdgSPH0jwOi4HAAC6jQd4aCPT4VB/HWXdvz627Ua4yRfn7QtO272+vDDtUqiiBj75BLmtZipzjTfeRFsn+HLApbsBlpw9KL2KeDBmmqb/LKsKmig2c7hoR2RHvGNfkwRYZaA4Yl/s5sAW9vZBdpx98CLlIKMCDOWOXa7wJfqNqPZ3qMU=;J+00Hy9mPioNud0ACgmVRA=="
+secured: "bialNTAY35AHPnmwA5vqpZXDEO/8EWz25bWxQyBrPcw4k1uC/gaWGY8g7e02nVEhLEkMeTZEP+h+HGBorJ27xpYkD41UWmv1XDVN6GgE3dFrM35kxR9mchoV9QH7VaQIgZD40DjY8ey/1mun8aBLHNe0x3zJk/WZATlDcDoiwqrxjnPLRRqCfPDxD6CIAutexQUCXKCEUhiP3kjXT7HtfSwMAcPepOT0agvYpIB+mxukvN9wdK478VdWM8Uf17DhrDknzqc4Pk6Rya+OgA6/jkfUV0ibr8A8BcPKAleJmD+3Xl4O5T9898ynfZ4uG1GD05qEG9AD9St+P02Eoi8pi9bo9wj7ExMHPfhZQ26OhlxEF9FYKLvULc0FJGlTbRMPRofxBjWmIrKy1YyG17CKMkSLZaivBFqBw3P1hFvFyykDbqQrhqwiW42ClsKwMpDuCwxcxi92jcmV76wZMO98pI8zRAgyEVb7MFsZw65Z4+5eMP3J5uAUSvbgEggPa60Bi7r+q/SsaU4uUc4pgjDgoA==;1ELFWPIetvaqET16YwpWEw=="
 ---
 

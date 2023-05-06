@@ -333,36 +333,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "‘Godfather of AI’ quits Google to talk openly about the dangers of the rapidly emerging tech"
-    excerpt: "Speaking with 'The New York Times,' Geoffrey Hinton says a part of him regrets his life's work on artificial intelligence."
-    publishedDateTime: 2023-05-01T15:00:00Z
-    webUrl: "https://www.popsci.com/technology/geoffrey-hinton-ai-google/"
-    ampWebUrl: "https://www.popsci.com/technology/geoffrey-hinton-ai-google/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/geoffrey-hinton-ai-google/?amp"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 48
-    images:
-      - url: "https://www.popsci.com/uploads/2023/05/01/Geoff-Hinton_1-web-lead_1.jpeg?auto=webp"
-        width: 2000
-        height: 1125
-        isCached: true
-  - title: "“Godfather of deep learning” Geoffrey Hinton quits Google to warn against dangers of AI"
-    excerpt: "Geoffrey Hinton, who has been internationally distinguished for his work on artificial intelligence, has resigned from Google to warn about the dangers of the technology."
-    publishedDateTime: 2023-05-01T14:53:00Z
-    webUrl: "https://betakit.com/godfather-of-deep-learning-geoffrey-hinton-quits-google-to-warn-against-dangers-of-ai/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 46
-    images:
-      - url: "https://cdn.betakit.com/wp-content/uploads/2019/10/geoffrey_hinton.jpg"
-        width: 1050
-        height: 738
-        isCached: true
   - title: "\"Godfather of artificial intelligence\" leaves Google to talk about the tech's potential dangers"
     excerpt: "Geoffrey Hinton, who worked with Google and mentors AI's rising stars, started looking at artificial intelligence more than 40 years ago, he told CBS Mornings in late March."
     publishedDateTime: 2023-05-02T23:31:00Z
@@ -565,15 +535,6 @@ related:
         width: 600
         height: 374
         isCached: true
-  - title: "'Godfather of AI' quits Google, has an artificial intelligence 'warning' for all"
-    excerpt: "Geoffrey Hinton, who is also known as 'Godfather of AI', along with two other “Godfathers of AI”, has quit Google. As he leaves office, Hinton has shared two concerns related"
-    publishedDateTime: 2023-05-01T13:17:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/godfather-of-ai-quits-google-has-an-artificial-intelligence-warning-for-all/articleshow/99913126.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 27
   - title: "‘Godfather of AI’ leaves Google, warns of tech’s dangers"
     excerpt: "Sounding alarms about artificial intelligence has become a popular pastime in the ChatGPT era, taken up by high-profile figures as varied as industrialist Elon Musk, leftist"
     publishedDateTime: 2023-05-02T17:59:00Z

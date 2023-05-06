@@ -19,60 +19,42 @@ topics:
   - AI
 
 related:
-  - title: "Generative AI In The Construction Sector: Taking Building Technology To New Heights"
-    excerpt: "It’s no exaggeration to say that generative AI will have a transformative effect on global industry. With the ability to generate new outputs based on algorithms and trained data, it represents the next step in artificial intelligence and a new level of sophistication for machine learning."
-    publishedDateTime: 2023-05-02T15:50:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/05/02/generative-ai-in-the-construction-sector-taking-building-technology-to-new-heights/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/05/02/generative-ai-in-the-construction-sector-taking-building-technology-to-new-heights/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/05/02/generative-ai-in-the-construction-sector-taking-building-technology-to-new-heights/amp/"
+  - title: "Creating a tsunami early warning system using artificial intelligence"
+    excerpt: "Los Angeles and Cardiff University in the U.K. developed an early warning system that combines state-of-the-art acoustic technology with artificial intelligence to immediately classify earthquakes ..."
+    publishedDateTime: 2023-05-04T00:47:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/04/230425111152.htm"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 81
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64512ef3a78479bc981e6545/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Code.org helping launch TeachAI to guide integration of artificial intelligence in education"
-    excerpt: "Seattle-based computer science education nonprofit Code.org is helping to launch TeachAI, a new effort aimed at guiding governments and educators on teaching with and about artificial intelligence. The initiative,"
-    publishedDateTime: 2023-05-02T13:00:00Z
-    webUrl: "https://www.geekwire.com/2023/code-org-helping-launch-teachai-to-guide-integration-of-artificial-intelligence-in-education/"
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
+  - title: "Predicting ultra-processing in food with machine learning algorithm"
+    excerpt: "Acknowledging the pain points of the NOVA classification system, researchers have developed a machine learning algorithm to accurately predict the degree of processing for any food."
+    publishedDateTime: 2023-05-02T15:29:00Z
+    webUrl: "https://www.foodnavigator.com/Article/2023/05/02/machine-learning-algorithm-predicts-ultra-processing-in-food"
     type: article
     provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 68
-  - title: "Teradata operationalises AI with Google Vertex AI integration"
-    excerpt: "Teradata has announced services enabling organisations to accelerate Ai-driven digital transformation initiatives. The connected multi-cloud data platform"
-    publishedDateTime: 2023-05-02T14:20:00Z
-    webUrl: "https://www.enterprisetimes.co.uk/2023/05/02/teradata-operationalises-ai-with-google-vertex-ai-integration/"
-    type: article
-    provider:
-      name: enterprisetimes.co.uk
-      domain: enterprisetimes.co.uk
+      name: FoodNavigator
+      domain: foodnavigator.com
     quality: 39
     images:
-      - url: "https://www.enterprisetimes.co.uk/wp-content/uploads/2018/11/artificial-intelligence-3382507_1920.jpg"
-        width: 726
-        height: 410
+      - url: "https://www.foodnavigator.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/foodnavigator.com/news/science/machine-learning-algorithm-predicts-ultra-processing-in-food/16381964-1-eng-GB/Machine-learning-algorithm-predicts-ultra-processing-in-food.jpg"
+        width: 750
+        height: 500
         isCached: true
-  - title: "Generative AI and sustainability are driving investment in the tourism technology segment, Plug and Play experts tell attendees at ATM 2023"
-    excerpt: "Advances in artificial intelligence are facilitating trip planning for travellers, as well as the automation of refunds, back-office processes and content creation"
-    publishedDateTime: 2023-05-04T09:19:00Z
-    webUrl: "https://www.zawya.com/en/press-release/events-and-conferences/generative-ai-and-sustainability-are-driving-investment-in-the-tourism-technology-segment-plug-and-play-experts-tell-attendees-at-atm-2023-mzstnhb8"
-    ampWebUrl: "https://www.zawya.com/en/press-release/events-and-conferences/generative-ai-and-sustainability-are-driving-investment-in-the-tourism-technology-segment-plug-and-play-experts-tell-attendees-at-atm-2023-mzstnhb8?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/events-and-conferences/generative-ai-and-sustainability-are-driving-investment-in-the-tourism-technology-segment-plug-and-play-experts-tell-attendees-at-atm-2023-mzstnhb8?amp=1"
+  - title: "Brain dynamics uncovered using a machine-learning algorithm"
+    excerpt: "CEBRA is a machine-learning method that can be used to compress time series in a way that reveals otherwise hidden structures in the variability of the data. It excels at processing behavioural and neural data recorded simultaneously,"
+    publishedDateTime: 2023-05-03T22:37:00Z
+    webUrl: "https://www.nature.com/articles/d41586-023-01339-9"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 25
+      name: Nature
+      domain: nature.com
+    quality: 39
     images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/Y2I3ZWI2ZmItM2Y5MC00/0/tech-session-1-jpg.jpeg?f=3%3A2"
-        width: 759
-        height: 506
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-01339-9/d41586-023-01339-9_25308634.png"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "yDjP5zMue0IcDgX1/FfUYRgPNAnyvHPKyyE8bK8smRNqbHjrONbB+1XPSRQTp8IIOZ4X9/mZ1WzcXceni/pmv6pU5lR2u9ArfDzOwiSBDikDNbp/cBH0ZQWTpGFUPuH8zEDicuPIv7QwDNwqSgwgQfQsAFoQQSObYXNp5CkQR2lmua4zpgyeImtmso4mvcqVWjwGpi+04uOCb+/MH1tRAaz1KEMqsRjJwR5ZenvvSBTbuYFW3VveOHmUZiZv2yjF7V9oxr8GP5OUSGPt6EwTVyfGuviee7Nk+k6vnAJVTrhOylt15p3hZXP4pD1KVO8Kphk7GHCz5Oi/t89xKy4VScHx0ljgrnSz4/hCyRKxpWsuj96se20t4k0ZxabavWjms6DvBk5znmPU3uvqurkswq1+AZAw2UsnJFg7lf1dG7KgIcVkLV+Tqe5L0FfUufFwHwb1xrPOJLi0ZRgq175iL/ia9CC95QL0fJg1Jmk22WQTlLw4d0vEtqYs56zW9/TArZCPOCWAFelPDpVrcPNJjg==;OC44FjWhRQFZ5PB5ip/8Zg=="

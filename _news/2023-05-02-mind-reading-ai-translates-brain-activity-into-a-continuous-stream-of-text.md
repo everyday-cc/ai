@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/technology/mind-reading-ai-translates-brain-act
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/technology/mind-reading-ai-translates-brain-activity-into-text/?amp=true"
 type: article
 quality: 102
-heat: 242
+heat: 222
 published: true
 
 provider:
@@ -78,36 +78,6 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2023/05/comp-2.jpg?quality=75&strip=all&w=1024"
         width: 1024
         height: 682
-        isCached: true
-  - title: "AI makes non-invasive mind-reading possible by turning thoughts into text"
-    excerpt: "Advance raises prospect of new ways to restore speech in those struggling to communicate due to stroke or motor neurone disease"
-    publishedDateTime: 2023-05-01T14:01:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/may/01/ai-makes-non-invasive-mind-reading-possible-by-turning-thoughts-into-text"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/01/ai-makes-non-invasive-mind-reading-possible-by-turning-thoughts-into-text"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/01/ai-makes-non-invasive-mind-reading-possible-by-turning-thoughts-into-text"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 58
-    images:
-      - url: "https://i.guim.co.uk/img/media/7302d44572ee13e4a9aa597c2d1f4dc5134f5c2e/10_10_906_544/master/906.jpg?width=620&quality=85&auto=format&fit=max&s=3c77285e70adc891ef25c4d4aa515296"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "A.I. Is Getting Better at Mind-Reading"
-    excerpt: "In a recent experiment, researchers used large language models to translate brain activity into words. Send any friend a story As a subscriber, you have 10 gift articles to give each month."
-    publishedDateTime: 2023-05-01T15:00:00Z
-    webUrl: "https://www.nytimes.com/2023/05/01/science/ai-speech-language.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 54
-    images:
-      - url: "https://static01.nyt.com/images/2023/05/01/autossell/01mindreading-01cover/01mindreading-01cover-facebookJumbo.jpg"
-        width: 1050
-        height: 550
         isCached: true
   - title: "Scientists claim AI-based decoder can translate thoughts into text"
     excerpt: "US researchers said their AI-powered decoder was able to accurately translate a person's thoughts into text roughly half the time."

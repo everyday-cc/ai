@@ -25,45 +25,93 @@ images:
     isCached: true
 
 related:
-  - title: "It’s generative AI models vs. hackers at DEF CON’s AI Village"
-    excerpt: "This year’s DEF CON 31 security conference, being held August 10–13, will feature a public assessment of generative AI at the AI Village."
-    publishedDateTime: 2023-05-05T20:40:00Z
-    webUrl: "https://venturebeat.com/ai/its-generative-ai-models-vs-hackers-at-def-cons-ai-village/"
-    ampWebUrl: "https://venturebeat.com/ai/its-generative-ai-models-vs-hackers-at-def-cons-ai-village/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/its-generative-ai-models-vs-hackers-at-def-cons-ai-village/amp/"
+  - title: "How Businesses Can Manage User-Generated Content With AI"
+    excerpt: "AI is playing a greater role in UGC, transforming the way businesses and consumers produce and consume digital media."
+    publishedDateTime: 2023-05-02T10:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/02/how-businesses-can-manage-user-generated-content-with-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/02/how-businesses-can-manage-user-generated-content-with-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/02/how-businesses-can-manage-user-generated-content-with-ai/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
+      name: Forbes
+      domain: forbes.com
     quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/05/VB_hackers_hackathon_bing_1200x800.jpg?w=1200&strip=all"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63d00455752e4cf11c766efe/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
         isCached: true
-  - title: "Hackers to Put AI Models From Google, OpenAI, More to the Test at Defcon 31"
-    excerpt: "In partnership with the White House, Defcon is calling on attendees at the hacker conference to find bugs in AI models from Google, Hugging Face, OpenAI, and more."
-    publishedDateTime: 2023-05-04T19:08:00Z
-    webUrl: "https://www.pcmag.com/news/hackers-to-put-ai-models-from-google-openai-more-to-the-test-at-defcon"
+  - title: "Behind The Hype About AI Transforming Consumer Businesses"
+    excerpt: "Explore the future of retail in a world dominated by AI-generated content. Is the physical store making a comeback?"
+    publishedDateTime: 2023-05-04T15:36:00Z
+    webUrl: "https://www.forbes.com/sites/gregpetro/2023/05/04/behind-the-hype-about-ai-transforming-consumer-businesses/"
+    ampWebUrl: "https://www.forbes.com/sites/gregpetro/2023/05/04/behind-the-hype-about-ai-transforming-consumer-businesses/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gregpetro/2023/05/04/behind-the-hype-about-ai-transforming-consumer-businesses/amp/"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 65
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://i.pcmag.com/imagery/articles/02dnoO4QzOEXSFteoSc3WHY-3.fit_lim.size_1200x630.v1683219099.jpg"
-        width: 1120
-        height: 630
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6453cf70c9583ac188eabd27/0x0.jpg?format=jpg&crop=1470,827,x0,y0,safe&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Generative AI defined: How it works, benefits and dangers"
-    excerpt: "In April 2023, the European Union proposed new copyright rules for generative AI that would require companies to disclose any copyrighted material used to develop these tools. Hopes are that such rules will encourage transparency and ethics in AI ..."
-    publishedDateTime: 2023-05-04T19:22:00Z
-    webUrl: "https://www.techrepublic.com/article/what-is-generative-ai/"
+  - title: "StoryMaker helps small businesses create their 30 second pitch and other marketing messages instantly with artificial intelligence"
+    excerpt: "West Virginia based InnerAction Media has just released its new SaaS software application StoryMaker - offering to help small businesses in the US write their perfect 30 second pitch - and other important marketing messages - instantly."
+    publishedDateTime: 2023-05-02T16:04:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/storymaker-helps-small-businesses-create-their-30-second-pitch-and-other-marketing-messages-instantly-with-artificial-intelligence-1032283172"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 49
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 54
+    images:
+      - url: "https://mma.prnewswire.com/media/2067014/InnerAction_Media_StoryMaker.jpg"
+        width: 400
+        height: 339
+        isCached: true
+  - title: "Business Transformations in 2023 with Artificial Intelligence"
+    excerpt: "Conversational dialogues between humans and ChatGPT are mimicked by OpenAI. Industries anticipate it will be used more widely as an office assistant"
+    publishedDateTime: 2023-05-02T09:48:00Z
+    webUrl: "https://www.cioapplications.com/news/business-transformations-in-2023-with-artificial-intelligence-nid-10608.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 37
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/w7t62cioapp450-308.jpg"
+        width: 450
+        height: 308
+        isCached: true
+  - title: "Centene divests artificial intelligence business"
+    excerpt: "Centene Corp. is selling an artificial intelligence business it purchased just over two years ago, the company said Wednesday."
+    publishedDateTime: 2023-05-03T17:53:00Z
+    webUrl: "https://www.stltoday.com/business/local/centene-divests-artificial-intelligence-business/article_d1afc9f8-e9c4-11ed-9c11-b33b497886c5.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 19
+  - title: "Amnesty International criticised for using AI-generated images"
+    excerpt: "Group has removed AI images used to promote their reports on social media, including fake photos of Colombia’s 2021 protests"
+    publishedDateTime: 2023-05-02T17:46:00Z
+    webUrl: "https://www.theguardian.com/world/2023/may/02/amnesty-international-ai-generated-images-criticism"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 17
+  - title: "How Midsize Companies Can Keep Up with AI"
+    excerpt: "Right now, many businesses are reacting to generative AI in a vacuum. But individual innovations shouldn’t be approached with a narrow, short-term focus, as midsize companies that chase each new trend will find themselves over-committed and under-prepared when that trend wears off."
+    publishedDateTime: 2023-05-03T12:15:00Z
+    webUrl: "https://hbr.org/2023/05/how-midsize-companies-can-keep-up-with-ai"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 17
 
 secured: "ae3h68yedldNPc9wykzzYvB04XoBB7o8eB92Z0JQXVOShoA+mz/PPoafBlTmklfIqdm5FWP6gPdgeU0HeETvH2z7nl+nXmkwlbIPObdVy8wdjzbfPOHaQPlIewXbshnP5Y9qe9cSraVkCIk0NGXo+LCVlnQ+7EJ+UkWbL4xsd4t7ZQfRH7uZOPS8r3JEjwI+R+BS9DkOT6skJairTeapFS0v9Ib6MKy5mgbHQ6uxDqmuzWt1s7ntVNefRoKepnW7QTPhQ4WPYXNLYEnDZIuynVgfs2CJIKn8NYTn+QMc20ZjpVT2/edZvXQzhE/mCcGv9nIY3V4iBvlWsBjAT1Kq+riOByUGrE/SdfkwHtCaHA1xWwEOfk6kj62JbUpjxdKA3M/ixGvSNCC+k5b8IkhK2+zgA8e+6CMYQT52GLgI3cWoDuriHMp9atd2BB0xF7T80c5eXU4rvnAsAQ1gHiIWk+4cv+GdqEqtimL/bTdXNj4yy7VO7bGJVfF3Knt/JhLTHQ4TOpV59HJIlVjUhL0Djg==;8CpwUjjZJBhyTyiLp83Opw=="
 ---
