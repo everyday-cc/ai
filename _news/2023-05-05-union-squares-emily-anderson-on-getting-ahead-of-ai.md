@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/newsletters/2023-05-05/union-square
 webUrl: "https://www.bloomberg.com/news/newsletters/2023-05-05/union-square-s-emily-anderson-on-getting-ahead-of-ai"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Anderson Selected as Host Site for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
-    excerpt: "The Anderson Institute of Technology is one of 28+ host companies selected to host camps across the US in Fall 2023. The Anderson Institute of Technology Bootcamp will be held over four consecutive Saturdays starting on October 14th and ending on November 4 th ."
-    publishedDateTime: 2023-05-01T16:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/anderson-selected-as-host-site-for-artificial-intelligence-bootcamp---applications-now-open-2023-05-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI creates a new Star Wars movie in the style of Wes Anderson and I wish it was real"
     excerpt: "A group used AI to create a Star Wars trailer in the style of Wes Anderson and I would immediately go to see this in theaters."
     publishedDateTime: 2023-05-01T23:49:00Z

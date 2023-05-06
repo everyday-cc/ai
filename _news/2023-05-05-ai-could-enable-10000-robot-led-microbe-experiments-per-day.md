@@ -3,10 +3,10 @@ category: news
 title: "AI Could Enable 10,000 Robot-Led Microbe Experiments Per Day"
 excerpt: "Automation uncovers combinations of amino acids that feed two bacterial species and could tell us much more about the 90% of bacteria that humans have hardly studied."
 publishedDateTime: 2023-05-05T09:13:00Z
-originalUrl: "https://www.technologynetworks.com/tn/news/ai-could-enable-10000-robot-led-microbe-experiments-per-day-372973"
-webUrl: "https://www.technologynetworks.com/tn/news/ai-could-enable-10000-robot-led-microbe-experiments-per-day-372973"
+originalUrl: "https://www.technologynetworks.com/immunology/news/ai-could-enable-10000-robot-led-microbe-experiments-per-day-372973"
+webUrl: "https://www.technologynetworks.com/immunology/news/ai-could-enable-10000-robot-led-microbe-experiments-per-day-372973"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://assets.technologynetworks.com/production/dynamic/images/content/372973/ai-could-enable-10000-robot-led-microbe-experiments-per-day-372973-640x360.jpg?cb=20230505"
+    width: 640
+    height: 360
+    isCached: true
 
 related:
   - title: "Try 4 new Arts and AI experiments"
@@ -142,6 +148,6 @@ related:
       domain: phys.org
     quality: 19
 
-secured: "cXUNX31LbtW1jVIQb3zggl8szjJZbS/CWEMydc0Qg2j+koIoUnWEyIxAe/6qkA4r+L4wWKlFF+frihMLnxJvQMP7mlCJ6NFXf8oI/+0opyaGqvFE96X0LmIDfvw8dPxdrZxkx5OvSp5g769oB8kCexnHNzD9nq7nL2qx61XoeRMHqT8QY31BklLwzVYa0/HthnPAPmYHAe1IrOty8l1OycEJy3VYB5QyGIwCAht4L1B8EcqbEX+GtXCX9UGi/lY/uMrD8sl9EQ8YqmTs7BA8sIOD1HUXrqpoAyCw39S7R3hN6an1iuszzaFp/6qOlcFmy6/wCNPdfpvFPn1EK94PH2M8ftRG7Y9zVWdofHeARCRH+U1FssS2NPOYE4QuLQdDGGUCzuHndGVUA9YP6slHoy0wSgxkpX4uLfT7Qb9+WNMF2VGHm579Ps7rjbkAqp5Tq66cFnQpn51t6c2QrALNYD7l4MVUAtUD0UmO2ta+8l/+X0+RvxJ4u1/hioweQ95g8HdBQk+9C0by7NaAlMnptQ==;F5jTVysCOm7V0lTvrlSeLg=="
+secured: "upHr9g3q8YyB4NHF0RLk/WMAg2c6RMzU0rqfrzP+WDNL2AW2Q4hqYqcV6ze3wFsWF5YADBDnx0N4kBu4cENU5yyqNa1DLKGQ8LtI3TJlHopF0TRqWxA7orRYJfSAv+4JBrazPWxxHkWDQ43KlxUZ2KEl0XX2h3uKrRa8L360csOWtykrr6k7OLHsegslkILn2NT3U5fVbapm+ZCTsXQlsZDhj/KZ3UR79pgyj43rEmN9PxmUV+A9VA/Dxbj4gLXZNCfRyKHX1TEPDFNLU8hU7JI7loNKOWSUdrxCCAfAB8rD2OI/iGA21N4r4DgK1p24w3Mol2fjfrIIsFKbmol9eYuWkFBzCkELd72Mx1Ef8cQ=;z+IQI3VVCTRqMZfFNCnKeA=="
 ---
 

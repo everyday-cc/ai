@@ -2,6 +2,162 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-05-01-mosaic-data-science-has-been-named-the-top-ai-machine-learning-services-company-of-2023-by-cio-review.md",
+      "title": "Mosaic Data Science Has Been Named the Top AI & Machine Learning Services Company of 2023 by CIO Review",
+      "excerpt": "Mosaic is thrilled to be recognized as a leader in the Artificial Intelligence & Machine Learning space.LEESBURG, VA / ACCESSWIRE / May 1,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/mosaic-data-science-has-been-named-the-top-ai-machine-learning-services-company-of-2023-by-cio-review-1032278328",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/mosaic-data-science-has-been-named-the-top-ai-machine-learning-services-company-of-2023-by-cio-review-1032278328",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.accesswire.com/users/newswire/images/751981/9395de5167fcc82d1591bf86ed6d.jpg",
+          "width": 300,
+          "height": 391,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-01T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-05-01-oracle-making-ai-for-business-a-reality-with-latest-fusion-hcm-and-scm-updates.md",
+      "title": "Oracle Making AI For Business A Reality With Latest Fusion HCM And SCM Updates",
+      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives into his conversation with Steve Miranda, executive vice president of Oracle applications development, in what has become a regular quarterly discussion about what is new in Oracle Fusion Applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/05/01/oracle-making-ai-for-business-a-reality-with-latest-fusion-hcm-and-scm-updates/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/05/01/oracle-making-ai-for-business-a-reality-with-latest-fusion-hcm-and-scm-updates/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/644fc92e311b61453fad4710/0x0.jpg?format=jpg&width=1200",
+          "width": 897,
+          "height": 561,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/05/01/oracle-making-ai-for-business-a-reality-with-latest-fusion-hcm-and-scm-updates/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/05/01/oracle-making-ai-for-business-a-reality-with-latest-fusion-hcm-and-scm-updates/amp/",
+      "publishedDateTime": "2023-05-01T07:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-01-how-generative-ai-can-affect-your-business-data-privacy.md",
+      "title": "How Generative AI Can Affect Your Business’ Data Privacy",
+      "excerpt": "If a business enters any client, customer or partner information into a chatbot, that AI may use that information in ways that businesses can’t reliably predict.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/01/how-generative-ai-can-affect-your-business-data-privacy/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/01/how-generative-ai-can-affect-your-business-data-privacy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61f2bb5a705a07e1687440a6/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/01/how-generative-ai-can-affect-your-business-data-privacy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/05/01/how-generative-ai-can-affect-your-business-data-privacy/amp/",
+      "publishedDateTime": "2023-05-01T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-01-who-do-you-trust-with-ai.md",
       "title": "Who Do You Trust With AI?",
       "excerpt": "One question for Andy Kessler.",
@@ -1036,163 +1192,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-30-ai-winners-arent-who-you-think.md",
-      "title": "AI Winners Aren't Who You Think",
-      "excerpt": "Artificial intelligence is the biggest buzzword on the market today, and there are a lot of ways to invest in this area of growth. But the biggest winners dominating the discussion today might not ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/04/30/ai-winners-arent-who-you-think/",
-      "originalUrl": "https://www.fool.com/investing/2023/04/30/ai-winners-arent-who-you-think/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/729429/chatgpt-keyboard.jpg",
-          "width": 2309,
-          "height": 1299,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-30T08:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-30-how-are-educators-reacting-to-chat-gpt.md",
-      "title": "How Are Educators Reacting To Chat GPT?",
-      "excerpt": "ChatGPT has the opportunity to innovate how education is accessed, as well as could have severe consequences on student’s critical thinking skill development This blog will explore some of the views,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/04/30/how-are-educators-reacting-to-chat-gpt/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/04/30/how-are-educators-reacting-to-chat-gpt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/644c002dcb6000c95bf1e352/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/04/30/how-are-educators-reacting-to-chat-gpt/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/04/30/how-are-educators-reacting-to-chat-gpt/amp/",
-      "publishedDateTime": "2023-04-30T08:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-30-new-artificial-intelligence-tool-can-accurately-identify-cancer.md",
-      "title": "New artificial intelligence tool can accurately identify cancer",
-      "excerpt": "Exclusive: Algorithm performs more efficiently and effectively than current methods, according to a study",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/society/2023/apr/30/artificial-intelligence-tool-identify-cancer-ai",
-      "originalUrl": "https://www.theguardian.com/society/2023/apr/30/artificial-intelligence-tool-identify-cancer-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/bb3f0c91259b7b84c127dbabbddb38b00f8b3af8/0_564_4800_2880/master/4800.jpg?width=620&quality=85&auto=format&fit=max&s=e7e286299c54a2c6095c14ce34cf1a56",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/society/2023/apr/30/artificial-intelligence-tool-identify-cancer-ai",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/society/2023/apr/30/artificial-intelligence-tool-identify-cancer-ai",
-      "publishedDateTime": "2023-04-30T07:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

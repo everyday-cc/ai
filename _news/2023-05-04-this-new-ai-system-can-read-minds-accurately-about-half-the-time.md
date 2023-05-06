@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/article/this-new-ai-system-can-read-minds-ac
 webUrl: "https://www.zdnet.com/article/this-new-ai-system-can-read-minds-accurately-about-half-the-time/"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -21,24 +21,6 @@ provider:
 topics:
   - Natural Language Processing
   - AI
-
-related:
-  - title: "New AI system could help people who lost their ability to speak"
-    excerpt: "Researchers have developed a decoder that can reveal stories in people's minds, sparking hope that this can one day help people who have lost the ability to speak due to strokes or ALS."
-    publishedDateTime: 2023-05-01T15:56:00Z
-    webUrl: "https://www.cbsnews.com/news/ai-system-language-decoder-could-help-people-who-lost-their-ability-to-speak/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/ai-system-language-decoder-could-help-people-who-lost-their-ability-to-speak/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/ai-system-language-decoder-could-help-people-who-lost-their-ability-to-speak/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 57
-    images:
-      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/05/01/d487abcc-9230-4413-afeb-638de4c16121/thumbnail/1200x630/6435adf25a6ae11a3efa8a087a6e2d41/gettyimages-1396479420.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "LSHb6zy/lZgKH+YOf4wb/A0AkV4ejxIrKdT73+tiwV6U8BEFsRkt7B4aOHsFmrFKl5DPfSAEW+Idyg+Ccb1mhR6KCfMJ3Y/Id8cJke1jYX0qhjhsdPFjxvRVb8MxZpV/78AAa4fFNuYs9qEmfGUjswUfHD9sNror510Pwg0LG1HYvGI+NmpcDO3fRhFGFsfNHU0QTaZtzKlhxA7RJ5n8o6q5tqmc8gfJ/TiSSoXP7LiMBxKB7cQTqtWnE2wIP9xb9UsMLQlEj+ZztbK+dUt1Pv/GmZfXmQlKkdmcVFIRl94Pyujy4bEZY/tDITrbyX4SyS6WM4lRFsgewG0amfmJkWdiTTm75GcQNV889yWbrERbQx+fa56w7bMLKd0UjJN5KQG4qn+f2wcbAPLpP1ZczjFkOdZODCqfeO6hwaXa7LRkP664QG+nA3NlgPmnx/hxNTkjvPRp6FFqDKq0JbIhs8Y3PXtcYnSq/RFyhCXi2xiLQK63Q0BtLm2ungp3IsIXeI98mcbNaqzzOQTQmFOTIw==;AM3gb1XkCohfT//G+RazOg=="
 ---

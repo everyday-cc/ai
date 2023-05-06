@@ -151,6 +151,51 @@
       ]
     },
     {
+      "path": "_news/2023-05-02-artificial-intelligence-pioneer-leaves-google-and-warns-about-technologys-future.md",
+      "title": "Artificial intelligence pioneer leaves Google and warns about technology's future",
+      "excerpt": "Geoffrey Hinton, a trailblazer in AI, has joined the growing list of experts sharing their concerns about its rapid advancement.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/tech/tech-news/artificial-intelligence-pioneer-leaves-google-warns-technologys-future-rcna82242",
+      "originalUrl": "https://www.nbcnews.com/tech/tech-news/artificial-intelligence-pioneer-leaves-google-warns-technologys-future-rcna82242",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 188,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/230501-Geoffrey-Hinton-al-1228-2c82cf.jpg",
+          "width": 2500,
+          "height": 1664,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna82242",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna82242",
+      "publishedDateTime": "2023-05-01T17:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-05-01-why-artificial-intelligence-cant-bring-the-dead-back-to-life.md",
       "title": "Why artificial intelligence can't bring the dead back to life",
       "excerpt": "This year is shaping up to be the year of artificial intelligence. ChatGPT has stolen most of the headlines, but it is only the most infamous in a wide assortment AI platforms. One of the most ...",
@@ -551,11 +596,11 @@
     },
     {
       "path": "_news/2023-04-29-fort-worth-selected-as-host-site-for-a-4th-time-for-artificial-intelligence-bootcamp-applications-now-open.md",
-      "title": "Fort Worth Selected as Host Site for a 4th Time for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!",
-      "excerpt": "Elevate will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students at No-Cost for a 4 th time in the Fall of 2023. The AI Bootcamp in Fort Worth will be targeted at underserved high school students (9th-12 th grade) and will introduce these high school students to basic AI concepts and skills.",
+      "title": "Fort Worth Selected as Host Site for a 4th Time for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!",
+      "excerpt": "Elevate will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students at No-Cost for a 4th time in the Fall of 2023. The AI",
       "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/04/28/9804444.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/04/28/9804444.htm",
+      "webUrl": "https://www.benzinga.com/pressreleases/23/04/g32097195/fort-worth-selected-as-host-site-for-a-4th-time-for-artificial-intelligence-bootcamp-applications-",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/04/g32097195/fort-worth-selected-as-host-site-for-a-4th-time-for-artificial-intelligence-bootcamp-applications-",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -563,13 +608,13 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-28T15:19:00-07:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32097195",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32097195",
+      "publishedDateTime": "2023-04-28T15:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1348,49 +1393,6 @@
       "provider": {
         "name": "C&EN",
         "domain": "acs.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-26-waymo-driverless-car-goes-viral-after-police-officer-directed-it-to-pull-over.md",
-      "title": "Waymo driverless car goes viral after police officer directed it to pull over",
-      "excerpt": "A screenshot of the viral video on TikTok showing driverless car passengers reacting to the police officer's guidance. TikTok/@johnnyromano3 A video of a driverless car reacting to a police ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.autoblog.com/2023/04/22/waymo-driverless-police-pull-over-viral-tiktok/",
-      "originalUrl": "https://www.autoblog.com/2023/04/22/waymo-driverless-police-pull-over-viral-tiktok/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims3/GLOB/crop/2101x1182+0+355/resize/800x450!/format/jpg/quality/85/https://media.zenfs.com/en/insider_articles_922/a4e85d9a08813ade8083e13453f0e986",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.autoblog.com/amp/2023/04/22/waymo-driverless-police-pull-over-viral-tiktok/",
-      "cdnAmpWebUrl": "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2023/04/22/waymo-driverless-police-pull-over-viral-tiktok/",
-      "publishedDateTime": "2023-04-26T07:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Autoblog",
-        "domain": "autoblog.com",
         "images": null,
         "publishers": null,
         "authors": null

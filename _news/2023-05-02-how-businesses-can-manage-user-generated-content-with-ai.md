@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/02/how-busine
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/02/how-businesses-can-manage-user-generated-content-with-ai/amp/"
 type: article
 quality: 87
-heat: 157
+heat: 167
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/6453cf70c9583ac188eabd27/0x0.jpg?format=jpg&crop=1470,827,x0,y0,safe&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "How Artificial Intelligence is Transforming Business"
+    excerpt: "AI technologies have a wide range of applications in business, and many publicly traded companies now use AI tools."
+    publishedDateTime: 2023-05-03T02:15:00Z
+    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-in-business/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 71
+    images:
+      - url: "https://m.foolcdn.com/media/dubs/images/nvidia-nvda-stock-ai-artificial-intelligence-2.width-600.jpg"
+        width: 580
+        height: 387
         isCached: true
   - title: "StoryMaker helps small businesses create their 30 second pitch and other marketing messages instantly with artificial intelligence"
     excerpt: "West Virginia based InnerAction Media has just released its new SaaS software application StoryMaker - offering to help small businesses in the US write their perfect 30 second pitch - and other important marketing messages - instantly."

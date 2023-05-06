@@ -49,6 +49,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "AI Could Enable 10,000 Robot-Led Microbe Experiments Per Day"
+    excerpt: "Automation uncovers combinations of amino acids that feed two bacterial species and could tell us much more about the 90% of bacteria that humans have hardly studied."
+    publishedDateTime: 2023-05-05T09:13:00Z
+    webUrl: "https://www.technologynetworks.com/immunology/news/ai-could-enable-10000-robot-led-microbe-experiments-per-day-372973"
+    type: article
+    provider:
+      name: technologynetworks
+      domain: technologynetworks.com
+    quality: 54
+    images:
+      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/372973/ai-could-enable-10000-robot-led-microbe-experiments-per-day-372973-640x360.jpg?cb=20230505"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Novel AI-Enabled Robot To Can Perform 10K Microbial Experiments Daily"
     excerpt: "Researchers have developed an artificial intelligence (AI) system that can help robots to conduct automated scientific experim"
     publishedDateTime: 2023-05-05T09:32:00Z
@@ -114,15 +128,6 @@ related:
         width: 767
         height: 633
         isCached: true
-  - title: "AI Could Enable 10,000 Robot-Led Microbe Experiments Per Day"
-    excerpt: "Automation uncovers combinations of amino acids that feed two bacterial species and could tell us much more about the 90% of bacteria that humans have hardly studied."
-    publishedDateTime: 2023-05-05T09:13:00Z
-    webUrl: "https://www.technologynetworks.com/tn/news/ai-could-enable-10000-robot-led-microbe-experiments-per-day-372973"
-    type: article
-    provider:
-      name: technologynetworks
-      domain: technologynetworks.com
-    quality: 34
   - title: "BacterAI: New AI system enables robots to conduct 10,000 scientific experiments a day"
     excerpt: "Scientists created BacterAI, an AI-powered system enabling robots to conduct 10,000 experiments daily, accelerating scientific discoveries."
     publishedDateTime: 2023-05-05T13:10:00Z

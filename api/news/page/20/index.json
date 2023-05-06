@@ -2,6 +2,134 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2023-04-23-baidu-future-ai-giant-with-improving-core-ad-business.md",
+      "title": "Baidu: Future AI Giant With Improving Core Ad Business",
+      "excerpt": "I like Baidu as the key enabler of AI adoption across industries in China, working on autonomous driving, ML/ AI cloud computing, and even chip design. Baidu recently leveraged its AI research ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4595821-baidu-bidu-future-ai-giant-improving-core-ad-business",
+      "originalUrl": "https://seekingalpha.com/article/4595821-baidu-bidu-future-ai-giant-improving-core-ad-business",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/488987708/image_488987708.jpg?io=getty-c-w1536",
+          "width": 1536,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-23T02:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-23-manufacturers-hope-for-ai-boost-in-factories.md",
+      "title": "Manufacturers Hope For AI Boost In Factories",
+      "excerpt": "Manufacturers are hoping for the artificial intelligence revolution to reach their factories, envisaging robots being used to repair complex machinery.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/news/manufacturers-hope-for-ai-boost-in-factories-a1ba155f",
+      "originalUrl": "https://www.barrons.com/news/manufacturers-hope-for-ai-boost-in-factories-a1ba155f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/news/manufacturers-hope-for-ai-boost-in-factories-a1ba155f",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/manufacturers-hope-for-ai-boost-in-factories-a1ba155f",
+      "publishedDateTime": "2023-04-23T01:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-23-michael-schumacher-magazine-editor-sacked-over-ai-generated-interview-with-seven-time-f1-champion.md",
+      "title": "Michael Schumacher: Magazine editor sacked over AI-generated 'interview' with seven-time F1 champion",
+      "excerpt": "The editor of a German magazine that published an artificial intelligence-generated 'interview' with Michael Schumacher has been sacked.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/sport/formula1/65361193",
+      "originalUrl": "https://www.bbc.com/sport/formula1/65361193",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_sport/1086B/production/_129419676_hi020461788.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/sport/formula1/65361193.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/sport/formula1/65361193.amp",
+      "publishedDateTime": "2023-04-22T15:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-23-5-emerging-trends-in-deep-learning-and-artificial-intelligence.md",
       "title": "5 emerging trends in deep learning and artificial intelligence",
       "excerpt": "Deep learning and artificial intelligence (AI) are rapidly evolving fields with new technologies emerging constantly. Five of the most promising emerging trends in this area include federated ...",
@@ -1043,146 +1171,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-22-top-10-artificial-intelligence-ai-companies-in-2023.md",
-      "title": "Top 10 Artificial Intelligence (AI) Companies in 2023",
-      "excerpt": "When it comes to technological advancement Artificial Intelligence and machine learning are one of the core technologies that we can find at the base. Whether it could be Data Science or metaverse ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.hindustantimes.com/brand-stories/top-10-artificial-intelligence-ai-companies-in-2023-101682072405377.html",
-      "originalUrl": "https://www.hindustantimes.com/brand-stories/top-10-artificial-intelligence-ai-companies-in-2023-101682072405377.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hindustantimes.com/ht-img/img/2023/04/21/1600x900/Screenshot_2023-04-21_155126_1682072562332_1682072571805.png",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hindustantimes.com/brand-stories/top-10-artificial-intelligence-ai-companies-in-2023-101682072405377-amp.html",
-      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/brand-stories/top-10-artificial-intelligence-ai-companies-in-2023-101682072405377-amp.html",
-      "publishedDateTime": "2023-04-21T11:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-22-hurtling-into-the-future-the-potential-and-thorny-ethics-of-generative-ai-in-healthcare.md",
-      "title": "‘Hurtling into the future’: The potential and thorny ethics of generative AI in healthcare",
-      "excerpt": "Generative AI has roared onto the tech scene through the large language model backing ChatGPT. Companies are already deploying the algorithms in hospitals. Should healthcare be taking a pause?",
-      "sourceUrl": null,
-      "webUrl": "https://www.healthcaredive.com/news/generative-AI-healthcare-gpt-potential/648104/",
-      "originalUrl": "https://www.healthcaredive.com/news/generative-AI-healthcare-gpt-potential/648104/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.healthcaredive.com/imgproxy/8M_A439q-vnByLYslrpRv46QwDEdqq2VaHH_J_yrQMY/crop:1810:1022/g:nowe:874:1456/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0lNR184NjYwLmpwZw.jpg",
-          "width": 770,
-          "height": 435,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-21T10:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Healthcare Dive",
-        "domain": "healthcaredive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-04-22-deepmind-melds-with-googles-brain-team-to-accelerate-ai-growth.md",
-      "title": "DeepMind melds with Google's Brain Team to accelerate AI growth",
-      "excerpt": "Google appears determined to ramp up its AI efforts, despite recent concerns from employees on the company's execution. Here's its latest move.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/deepmind-melds-with-googles-brain-team-to-accelerate-ai-growth/",
-      "originalUrl": "https://www.zdnet.com/article/deepmind-melds-with-googles-brain-team-to-accelerate-ai-growth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/5e0cc139b907b1b7d5f9f4b2f4b34e1d305d22c4/2023/04/21/74797833-85ff-42b4-a00d-10aa74deb208/gettyimages-1406773591.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/deepmind-melds-with-googles-brain-team-to-accelerate-ai-growth/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/deepmind-melds-with-googles-brain-team-to-accelerate-ai-growth/",
-      "publishedDateTime": "2023-04-21T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

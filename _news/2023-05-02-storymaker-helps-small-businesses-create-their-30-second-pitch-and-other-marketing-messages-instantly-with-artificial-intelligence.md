@@ -61,6 +61,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How Artificial Intelligence is Transforming Business"
+    excerpt: "AI technologies have a wide range of applications in business, and many publicly traded companies now use AI tools."
+    publishedDateTime: 2023-05-03T02:15:00Z
+    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-in-business/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 71
+    images:
+      - url: "https://m.foolcdn.com/media/dubs/images/nvidia-nvda-stock-ai-artificial-intelligence-2.width-600.jpg"
+        width: 580
+        height: 387
+        isCached: true
   - title: "FTC attorney says agency concerned with generative AI use"
     excerpt: "Companies developing novel artificial intelligence (AI) tools might want to think carefully before laying off ethics personnel, an attorney with the Federal Trade Commission (FTC) warned. The agency is closely tracking company use of AI tools for possible ..."
     publishedDateTime: 2023-05-02T19:34:00Z

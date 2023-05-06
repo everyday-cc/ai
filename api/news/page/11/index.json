@@ -2,6 +2,150 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-04-28-ai-weekly-replit-raises-97-million-for-ai-coding-hugging-face-takes-aim-at-chatgpt.md",
+      "title": "AI Weekly: Replit Raises $97 Million For AI Coding, Hugging Face Takes Aim At ChatGPT",
+      "excerpt": "The feature is said to be an experiment available in select regions. AI startup Runway launches an app to bring users video-to-video generative AI Runway, which contributed to the development Stable Diffusion, has launched a video-to-video generative AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/charliefink/2023/04/27/ai-weekly-replit-raises-97-million-for-ai-coding-hugging-face-takes-aim-at-chatgpt/",
+      "originalUrl": "https://www.forbes.com/sites/charliefink/2023/04/27/ai-weekly-replit-raises-97-million-for-ai-coding-hugging-face-takes-aim-at-chatgpt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/644b07d0576948b60d02778e/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 821,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2023/04/27/ai-weekly-replit-raises-97-million-for-ai-coding-hugging-face-takes-aim-at-chatgpt/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/04/27/ai-weekly-replit-raises-97-million-for-ai-coding-hugging-face-takes-aim-at-chatgpt/amp/",
+      "publishedDateTime": "2023-04-27T16:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-28-spotify-ceo-addresses-ai-concerns-but-also-sees-opportunity-to-attract-more-creators.md",
+      "title": "Spotify CEO Addresses AI Concerns, But Also Sees Opportunity To Attract More Creators",
+      "excerpt": "Spotify CEO Daniel Ek discussed concerns and opportunities surrounding the integration of AI into the music platform during its Q1 2023 earnings call.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johanmoreno/2023/04/27/spotify-ceo-addresses-ai-concerns-but-also-sees-opportunity-to-attract-more-creators/",
+      "originalUrl": "https://www.forbes.com/sites/johanmoreno/2023/04/27/spotify-ceo-addresses-ai-concerns-but-also-sees-opportunity-to-attract-more-creators/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/644b068b82129dfcc9027798/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johanmoreno/2023/04/27/spotify-ceo-addresses-ai-concerns-but-also-sees-opportunity-to-attract-more-creators/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/04/27/spotify-ceo-addresses-ai-concerns-but-also-sees-opportunity-to-attract-more-creators/amp/",
+      "publishedDateTime": "2023-04-27T16:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-28-how-artificial-intelligence-is-transforming-hollywood.md",
+      "title": "How artificial intelligence is transforming Hollywood",
+      "excerpt": "Artificial intelligence is revolutionizing Hollywood productions and raising new questions. CNBC’s Julia Boorstin shows us how companies are using AI to put actors’ faces on body doubles and even “revive” deceased movie stars on screen.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/nightly-news/video/how-artificial-intelligence-is-transforming-hollywood-171546693664",
+      "originalUrl": "https://www.nbcnews.com/nightly-news/video/how-artificial-intelligence-is-transforming-hollywood-171546693664",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_04/WA-NNWEB-20230427-01_AI_HOLLYWOOD_BOORSTIN_3_21_MIXDOWN_frame_3793-376hvp.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo171546693664",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo171546693664",
+      "publishedDateTime": "2023-04-27T15:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-28-embedded-vision-summit-announces-full-conference-program-for-edge-ai-and-computer-vision-innovators-may-22-24-in-santa-clara-california.md",
       "title": "Embedded Vision Summit® Announces Full Conference Program for Edge AI and Computer Vision Innovators, May 22-24 in Santa Clara, California",
       "excerpt": "The premier conference and tradeshow for practical, deployable computer vision and edge AI, the Summit focuses on empowering product creators to bring perceptual intelligence to products.",
@@ -1041,161 +1185,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-global-x-funds-global-x-robotics-artificial-intelligence-etf-nasdaq-botz.md",
-      "title": "Global X Funds - Global X Robotics & Artificial Intelligence ETF (NASDAQ: BOTZ)",
-      "excerpt": "Calculated by average return of all stock recommendations since inception of the Stock Advisor service in February of 2002. Returns as of 04/27/2023. Discounted offers are only available to new ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/quote/nasdaq/botz/",
-      "originalUrl": "https://www.fool.com/quote/nasdaq/botz/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/misc-assets/hp-sa-cumulative-growth-chart.png",
-          "width": 843,
-          "height": 342,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-improve-multi-hop-reasoning-in-llms-by-learning-from-rich-human-feedback.md",
-      "title": "Improve multi-hop reasoning in LLMs by learning from rich human feedback",
-      "excerpt": "Recent large language models (LLMs) have enabled tremendous progress in natural language understanding. However, they are prone to generating confident but nonsensical explanations, which poses a significant obstacle to establishing trust with users. In this post, we show how to incorporate human feedback",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/improve-multi-hop-reasoning-in-llms-by-learning-from-rich-human-feedback/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/improve-multi-hop-reasoning-in-llms-by-learning-from-rich-human-feedback/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/04/19/arch.png",
-          "width": 879,
-          "height": 377,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T08:52:53-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-genie-ai-achieves-30x-growth-in-one-year-attracting-major-businesses.md",
-      "title": "Genie AI Achieves 30x Growth in One Year - Attracting Major Businesses",
-      "excerpt": "Over 100 new organizations sign up to Genie AI each day. Genie AI, an open-source legal artificial intelligence startup, has experienced a",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/genie-ai-achieves-30x-growth-in-one-year---attracting-major-businesses-1032267944",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/genie-ai-achieves-30x-growth-in-one-year---attracting-major-businesses-1032267944",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/mmstudio-images/gallery/oM6rIz0qQug4KigzzLTTzaYeplf1/1682576593021-0.jpg",
-          "width": 650,
-          "height": 433,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T08:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

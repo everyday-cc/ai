@@ -1,24 +1,21 @@
 ---
 category: news
 title: "Will AI Surpass Human Intelligence?"
-excerpt: "In the second episode of Youth on Tech, a digital program produced by Science and Technology Daily, we discuss what ChatGPT-like AI can and cannot do. We start with the fundamental principles current hyped-up AI chatbots stick to,"
-publishedDateTime: 2023-05-06T07:26:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/will-ai-surpass-human-intelligence-1032298871"
-webUrl: "https://markets.businessinsider.com/news/stocks/will-ai-surpass-human-intelligence-1032298871"
+excerpt: "Muhammad Arif Mughal, an AI specialist from the University of Science and Technology Beijing, suggests that ChatGPT is revolutionary only in the way that it learns from a large am"
+publishedDateTime: 2023-05-06T08:32:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/05/06/9808925.htm"
+webUrl: "https://it.tmcnet.com/news/2023/05/06/9808925.htm"
 type: article
-quality: 67
-heat: 97
-published: true
+quality: 39
+heat: -1
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
@@ -60,21 +57,7 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Artificial intelligence: A product of human intelligence par excellence"
-    excerpt: "What is intelligence? A precise, universally accepted definition ... We already have AI-powered gadgets and software packages on the market. Self-driving cars, smart vacuum cleaners, robotic crop harvesters, surgical robots and language translators ..."
-    publishedDateTime: 2023-05-02T10:08:00Z
-    webUrl: "https://island.lk/artificial-intelligence-a-product-of-human-intelligence-par-excellence/"
-    type: article
-    provider:
-      name: Island
-      domain: island.lk
-    quality: 39
-    images:
-      - url: "http://island.lk/wp-content/uploads/2023/05/albert-einstein.jpg"
-        width: 700
-        height: 450
-        isCached: true
 
-secured: "NYwLQFpHgnWT4WCr8tvXhW+G7DWWvyi9k+aWiQP1sJ9yzLyNg0n/+pHtFI6ss/AItNAlyAYyAqhtNq+673KIbDisWqzimh5rLzTRD9NG1R2rNucvfL2TZwZ86v/gYjfk1BSiHI57iyqo3WejJ8XRcEyO8f9N4zAaWuR23DwczL4UJuTMsfY28pKvGIfdc0Uks+eZpdWFXFcZbT6zHvLZhfkEu6Vo97Wo1FmU+yr9qxRGm1ioAUBvNWExyRk9wOsP8xWJsInl4ZJKUWfgYEkoPanmQM2mXquXgpQ+86l5+2HURUkSkJI+x0fc73GG3RUElV2JPlPRkvcWxGsW4FPapkQxhjJyuSeCJaXzXYwRo8o=;IGz0tNKVCBKp+qZSl0ks2Q=="
+secured: "sGfOfc55nqmkP7oI/5S9IFEMwwU+D5aLB4sgsfgOQRFGiIUAzAkjrk6ytguSdhbsxWCRPQAiiHgd0puk2QfBHNw7xX7t+XAytZMyOI8dXEQ3c4E9c7vKLYLbQB3UIvaqOHT61RmmfJqvJ2aX/4fhrnp3PqXDQAa8n1JEdxehdHOlAL4mV+VinNuIKw39wDRqNzzPiaXaSpmMfChtO/J3JPCBiTKqtPaPDwRvDSQdKQHj5VoEu3J4YVtBMLB1g6w0Zep9a7crjjT5GTzaDF1lPMHNHgN5JX/8VDmcKo9x4QMdwh/qY235ChAs+2XdOIDuQwSxPfbOuStSBv+H9hq5JH+lTF9BeBxIwH50hErbiWw=;owOiYHm5HjYzFAD8ZJLKTQ=="
 ---
 

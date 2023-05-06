@@ -2,6 +2,153 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-05-03-the-ai-political-campaign-is-here.md",
+      "title": "The AI political campaign is here",
+      "excerpt": "President Barack Obama's 2008 election campaign has often been celebrated as the first to effectively use social media as a mobilization tool to capture the White House. In the 15 years since, the technology has gone from being a novel addition to a political campaign to transcending every aspect of one.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/05/02/politics/ai-election-ads-2024/index.html",
+      "originalUrl": "https://www.cnn.com/2023/05/02/politics/ai-election-ads-2024/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/230502181615-rnc-beat-biden-ai-ad-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/05/02/politics/ai-election-ads-2024/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/05/02/politics/ai-election-ads-2024/index.html",
+      "publishedDateTime": "2023-05-02T14:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-02-dont-pause-ai-development-prioritize-ethics-instead.md",
+      "title": "Don’t pause AI development, prioritize ethics instead",
+      "excerpt": "Some tech companies and lawmakers are getting it wrong when it comes to AI. Instead of pausing progress, they should be prioritizing AI ethics. Here's how.\nThe post Don’t pause AI development, prioritize ethics instead appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/dont-pause-ai-development-prioritize-ethics-instead/",
+      "originalUrl": "https://www.ibm.com/blog/dont-pause-ai-development-prioritize-ethics-instead/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-02T11:43:08-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-05-03-this-robot-can-paint-but-is-it-art.md",
+      "title": "This Robot Can Paint. But Is It Art?",
+      "excerpt": "Researchers at Carnegie Mellon University developed an A.I.-powered arm that can paint an abstract acrylic. Is it art?",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/05/02/science/ai-creativity-paintbot.html",
+      "originalUrl": "https://www.nytimes.com/2023/05/02/science/ai-creativity-paintbot.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/05/02/multimedia/02SCI-MIND-PAINTBOT-vid1cover-gbqv/02SCI-MIND-PAINTBOT-vid1cover-gbqv-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-02T11:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-03-kinetica-taps-chatgpt-for-natural-language-sql-database-queries.md",
       "title": "Kinetica taps ChatGPT for natural language SQL database queries",
       "excerpt": "Natural language queries made to the database are routed through ChatGPT's API to produce a SQL query syntax that can be run to generate results, Kinetica says.",
@@ -10,7 +157,7 @@
       "originalUrl": "https://www.infoworld.com/article/3694877/kinetica-taps-chatgpt-for-natural-language-sql-database-queries.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -62,7 +209,7 @@
       "originalUrl": "https://www.medindia.net/news/artificial-intelligence-in-eye-care-a-trending-transformation-211614-1.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -199,57 +346,6 @@
       ]
     },
     {
-      "path": "_news/2023-05-02-ai-pioneer-quits-google-to-warn-about-dangers.md",
-      "title": "AI pioneer quits Google to warn about dangers",
-      "excerpt": "An AI-generated song copied the Weeknd and Drake's voice. Who gets paid? School changes reading program after realizing students 'weren't actually learning to read'",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/videos/world/2023/05/02/exp-ai-dangers-anna-stewart-reports-fst-050210aseg1-cnni-world.cnn",
-      "originalUrl": "https://www.cnn.com/videos/world/2023/05/02/exp-ai-dangers-anna-stewart-reports-fst-050210aseg1-cnni-world.cnn",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/230502121138-exp-ai-dangers-anna-stewart-reports-fst-050210aseg1-cnni-world-00002001-super-tease.png",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/world/2023/05/02/exp-ai-dangers-anna-stewart-reports-fst-050210aseg1-cnni-world.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/world/2023/05/02/exp-ai-dangers-anna-stewart-reports-fst-050210aseg1-cnni-world.cnn",
-      "publishedDateTime": "2023-05-02T09:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-02-microsofts-work-trend-index-employee-engagement-pays-off-in-productivity-stock-price.md",
       "title": "Microsoft’s Work Trend Index: Employee engagement pays off in productivity, stock price",
       "excerpt": "This Microsoft Work Trend research report details the benefits of using a feedback flywheel to keep employees engaged.",
@@ -310,7 +406,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/best-fintech-app-development-companies-in-the-usa-2023-05-02",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -862,7 +958,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/02/how-businesses-can-manage-user-generated-content-with-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 157,
+      "heat": 167,
       "tags": null,
       "images": [
         {
@@ -1152,110 +1248,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-5-amazing-ways-how-meta-facebook-is-using-generative-ai.md",
-      "title": "5 Amazing Ways How Meta (Facebook) Is Using Generative AI",
-      "excerpt": "Explore how Meta utilizes generative AI to revolutionize advertising, chat, image generation, and natural language processing while shaping the future of the metaverse with immersive and accessible content creation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/05/02/5-amazing-ways-how-meta-facebook-is-using-generative-ai/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/05/02/5-amazing-ways-how-meta-facebook-is-using-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6450ac8062c3ef25fedc456e/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/05/02/5-amazing-ways-how-meta-facebook-is-using-generative-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/05/02/5-amazing-ways-how-meta-facebook-is-using-generative-ai/amp/",
-      "publishedDateTime": "2023-05-01T23:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-mind-reading-ai-translates-brain-activity-into-a-continuous-stream-of-text.md",
-      "title": "Mind-reading AI translates brain activity into a continuous stream of text",
-      "excerpt": "Researchers from the University of Texas at Austin have created a mind-reading AI system that can take images of a person’s brain activity and translate them into a continuous stream of text. Called a semantic decoder,",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/technology/mind-reading-ai-translates-brain-activity-into-text/",
-      "originalUrl": "https://newatlas.com/technology/mind-reading-ai-translates-brain-activity-into-text/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 222,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/a065e2e/2147483647/strip/true/crop/1200x800+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Ff7%2F0b%2Fcfdeedf546adb2f71c0371162e5a%2Fbrain-thoughts5x3-1200x800-c-default-copy.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/technology/mind-reading-ai-translates-brain-activity-into-text/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/technology/mind-reading-ai-translates-brain-activity-into-text/?amp=true",
-      "publishedDateTime": "2023-05-01T22:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

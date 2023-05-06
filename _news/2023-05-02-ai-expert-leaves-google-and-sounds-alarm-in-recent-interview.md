@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/ai-expert-leaves-google-and-sou
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-expert-leaves-google-and-sounds-alarm-in-recent-interview/"
 type: article
 quality: 87
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNET
@@ -28,6 +28,148 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Artificial intelligence pioneer leaves Google and warns about technology's future"
+    excerpt: "Geoffrey Hinton, a trailblazer in AI, has joined the growing list of experts sharing their concerns about its rapid advancement."
+    publishedDateTime: 2023-05-02T00:19:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/artificial-intelligence-pioneer-leaves-google-warns-technologys-future-rcna82242"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna82242"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna82242"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 88
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/230501-Geoffrey-Hinton-al-1228-2c82cf.jpg"
+        width: 2500
+        height: 1664
+        isCached: true
+  - title: "AI pioneer quits Google to warn about dangers"
+    excerpt: "An AI-generated song copied the Weeknd and Drake's voice. Who gets paid? School changes reading program after realizing students 'weren't actually learning to read'"
+    publishedDateTime: 2023-05-02T16:20:00Z
+    webUrl: "https://www.cnn.com/videos/world/2023/05/02/exp-ai-dangers-anna-stewart-reports-fst-050210aseg1-cnni-world.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/world/2023/05/02/exp-ai-dangers-anna-stewart-reports-fst-050210aseg1-cnni-world.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/world/2023/05/02/exp-ai-dangers-anna-stewart-reports-fst-050210aseg1-cnni-world.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 87
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/230502121138-exp-ai-dangers-anna-stewart-reports-fst-050210aseg1-cnni-world-00002001-super-tease.png"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "'Godfather of AI' Leaves Google to Voice Concern About Artificial Intelligence"
+    excerpt: "Geoffrey Hinton, AI pioneer and Turing Award winner, resigns from Google in order to 'freely speak out about the risks of AI.'"
+    publishedDateTime: 2023-05-01T21:50:00Z
+    webUrl: "https://www.pcmag.com/news/godfather-of-ai-leaves-google-to-voice-concern-about-artificial-intelligence"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 78
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/07G9MNe0GnpFitXRKvcFMOg-1.fit_lim.size_1200x630.v1682972176.jpg"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "'Godfather of AI' leaves Google, warns of tech's dangers"
+    excerpt: "Geoffrey Hinton, the man widely considered as the “godfather” of artificial intelligence, has left Google — with a message sharing his concerns about potential dangers stemming from the same technolog"
+    publishedDateTime: 2023-05-02T14:49:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/godfather-ai-leaves-google-warns-techs-dangers-99012191"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/godfather-ai-leaves-google-warns-techs-dangers-99012191"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/godfather-ai-leaves-google-warns-techs-dangers-99012191"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 57
+    images:
+      - url: "https://s.abcnews.com/images/Business/wirestory_fa98c6a6fddab1d7c27560f6fcbad0ad_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "The Godfather of AI quits Google; warns of impending danger"
+    excerpt: "In an interview with The New York Times, Hinton expressed his concerns about AI, including the spread of misinformation, the elimination of jobs, and the possibility of AI running its own code. Hinton,"
+    publishedDateTime: 2023-05-02T07:25:00Z
+    webUrl: "https://www.thedailystar.net/tech-startup/news/the-godfather-ai-quits-google-warns-impending-danger-3309101"
+    ampWebUrl: "https://www.thedailystar.net/tech-startup/news/the-godfather-ai-quits-google-warns-impending-danger-3309101?amp"
+    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/the-godfather-ai-quits-google-warns-impending-danger-3309101?amp"
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 57
+    images:
+      - url: "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/05/02/geoffrey_hinton.jpg"
+        width: 750
+        height: 393
+        isCached: true
+  - title: "Google engineer warns it could lose out to open-source technology in AI race"
+    excerpt: "Commonly available software poses threat to tech company and OpenAI’s ChatGPT, leaked document says"
+    publishedDateTime: 2023-05-05T14:10:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/may/05/google-engineer-open-source-technology-ai-openai-chatgpt"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/05/google-engineer-open-source-technology-ai-openai-chatgpt"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/05/google-engineer-open-source-technology-ai-openai-chatgpt"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 54
+    images:
+      - url: "https://i.guim.co.uk/img/media/9afb52ae85d63219ff62ff0071aeb2ee78d3132f/0_108_5950_3568/master/5950.jpg?width=620&quality=85&auto=format&fit=max&s=19085a773a61b5a924a25079a1209382"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "‘The Godfather of AI’ leaves Google and rings alarm bells — here’s why"
+    excerpt: "Now, one of Google’s own is joining the anti-AI side. According to The New York Times, Geoffrey Hinton — who pioneered the use of neural networks in AI — has left Google after more than a decade with the company. His reason? So he can speak out freely against the rise of AI."
+    publishedDateTime: 2023-05-01T23:16:00Z
+    webUrl: "https://www.tomsguide.com/news/the-godfather-of-ai-leaves-google-and-rings-alarm-bells-heres-why"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 39
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/YSjH7pWg4PvuzsEJUCqUHJ-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "The Godfather of AI is leaving Google with a stark warning about what's next"
+    excerpt: "Now, one of Google’s own is joining the anti-AI side. According to The New York Times, Dr. Geoffrey Hinton — who pioneered the use of neural networks in AI — has left Google after more than a decade with the company. His reason? So he can speak out freely against the rise of AI."
+    publishedDateTime: 2023-05-02T21:17:00Z
+    webUrl: "https://www.tomsguide.com/news/the-godfather-of-ai-is-leaving-google-with-a-stark-warning-about-whats-next"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 34
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/eEMCS8TqbHszDwPz6bUZyE-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "'The godfather of AI' leaves Google and warns of danger ahead"
+    excerpt: "Hinton said he has quit his job at Google, where he has worked for more than decade and became one of the most respected voices in the field, so he can freely speak out about the risks of AI. A part of him,"
+    publishedDateTime: 2023-05-01T18:39:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/the-godfather-of-ai-leaves-google-and-warns-of-danger-ahead/articleshow/99917376.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 19
+  - title: "AI pioneer quits Google to warn humanity of the tech's existential threat"
+    excerpt: "Hinton wrote on Twitter that he quit \"so that I could talk about the dangers of AI without considering how this impacts Google.\""
+    publishedDateTime: 2023-05-02T13:59:00Z
+    webUrl: "https://www.detroitnews.com/story/tech/2023/05/02/ai-pioneer-quits-google-to-warn-of-the-techs-existential-threat/70174322007/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 18
 
 secured: "TnJslNoYeNQJozjcscgvsHMSeSFZJ6xdIh0Tojg9jOeI/gJhOWRjbNJ840p1LZj/mzVTRsCnx4glIzVavIXPofkY1bzbPczgphVVsnRGu6keGlSjsQZ6dyOIAGa4OeDvCx5d0d8x8EpSovqmUG/+cdPwb/O5Ilw9r/hC+QOG2WHdf5Q1ribMD2jPCn0ubLITVMNVPjbtNdCI4sl2VwHTrCEk1aKv398/QfyiLWwbpH9tVJ9aqNh6/AZEmMOSWkQ9XCsl3Vvm9RSczXxAW0J+SBjvCqFQ02ivffaqB3Kt6wKxhLsTDz7HnQSTK9hbEqa28KdyZkIobSJFmLgOdRzna/a3Whjai/kW2EDxXvmAKJEWUGgLD3wiKyZ38N5BV4ZEdKJXjVFbq0b+e6/sACqChqC8JPIV17MbAp/z8BhisKEK0biu60/DCG0qfJytonEjBT9aFCHKYdHTH1cbOyGxWZM9bhfNkuTrZMCUFxGNHJjcvTYmEiwx11K8uPPkjvFs4oG8H/EZndgBzh4D1WbVGQ==;GBsIYcf/w6hRFHtLOe8Xgw=="
 ---

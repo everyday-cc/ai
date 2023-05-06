@@ -55,6 +55,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "New Robotic Surgery Training Centre At AIIMS To Transform Healthcare: Experts"
+    excerpt: "The new robotic surgery training centre at AIIMS in the Capital will provide much-needed robotic surgery skills to hundreds o"
+    publishedDateTime: 2023-05-06T05:54:00Z
+    webUrl: "https://menafn.com/1106189691/New-Robotic-Surgery-Training-Centre-At-AIIMS-To-Transform-Healthcare-Experts"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 51
+    images:
+      - url: "https://menafn.com/updates/pr/2023-05/06/I_a1a7aimage_story.jpg"
+        width: 400
+        height: 225
+        isCached: true
 
 secured: "6p17I3iFK9qr5RihIMuMCfIS9xXNGB9tgFl/tQCXXFg6D5k47DZBK/oQPjIIdIf0JbMF48G3SgkhPaTmdT1zNxCFeHxO2dBoFvl8E+yX10mZ4IWB6kJ67mpEIakj7M3/P32gII0KphAgdp0mmNrvVKlmZTxOMAj+v6hQLrmgXyhssrwnMp8awQJ8IMgDebk75rdSycXV0CUs7FJOHJyey9Wd3FF5KCM4k0YsMbTmjw++mb7fW703A9eNGpYi27vRVXBp2AJ4D+JRHoUbCkmuoVSvhPkmQAZPRSRrEX0fok8tTggeeIYq1jLl6cSo0QbEzkeHKtPbWQaITamqSpEYHbqYQezQHEMBIL7B6f7vFOlubignKXjv7Vjwadrl+mqCNfHhEfuSd6/3yxQuyAlepyXyA/zOnQRE4ba4LCM8vpXkMco8jQrwUen2A+8uHVuzRvhVVgFkKqHQHDolUQi2yGhheB7H+k8veY2jAkvjwhYqUCYM0hRNN/51AqaD0wMJ6CjFpB0jNs7tP1k6jqjODw==;PBSZWeVxW98P4r2Jj8Fm/w=="
 ---

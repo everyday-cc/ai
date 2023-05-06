@@ -64,20 +64,6 @@ related:
       name: American Banker
       domain: americanbanker.com
     quality: 34
-  - title: "Optimism For US Tech and Fintech Industries Despite Mass Layoffs"
-    excerpt: "The adoption of cutting-edge AI solutions, like ChatGPT, demonstrates the trend towards increased efficiency and cost savings in the Fintech and Tech industries. By implementing AI-powered customer service, companies can reduce labor costs and streamline  their operations, leading to greater profitability."
-    publishedDateTime: 2023-05-01T16:04:00Z
-    webUrl: "https://www.finextra.com/blogposting/24133/optimism-for-us-tech-and-fintech-industries-despite-mass-layoffs"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/finextra-images/visible_pictures/9c74d555-fe4c-4a62-beb9-6c087ccf3866.png"
-        width: 500
-        height: 300
-        isCached: true
   - title: "GMEX launches climate fintech Zero13"
     excerpt: "GMEX Group Limited (“GMEX”), a leader in digital business and technology solutions for capital, commodities and sustainability markets, announces the launch of ZERO13, a climate fintech."
     publishedDateTime: 2023-05-04T06:34:00Z

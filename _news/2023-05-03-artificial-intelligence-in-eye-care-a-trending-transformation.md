@@ -9,7 +9,7 @@ ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-in-eye-car
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-in-eye-care-a-trending-transformation-211614-1.htm"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/a6eaef833556b81337c95f6e88a34a1b44407791/0_300_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=6c607e1e58ea849496f7dd45d0c4493e"
         width: 620
         height: 372
+        isCached: true
+  - title: "New Robotic Surgery Training Centre At AIIMS To Transform Healthcare: Experts"
+    excerpt: "The new robotic surgery training centre at AIIMS in the Capital will provide much-needed robotic surgery skills to hundreds o"
+    publishedDateTime: 2023-05-06T05:54:00Z
+    webUrl: "https://menafn.com/1106189691/New-Robotic-Surgery-Training-Centre-At-AIIMS-To-Transform-Healthcare-Experts"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 51
+    images:
+      - url: "https://menafn.com/updates/pr/2023-05/06/I_a1a7aimage_story.jpg"
+        width: 400
+        height: 225
         isCached: true
   - title: "AI Careers: How to Build a Career in AI"
     excerpt: "A career in in a rtificial intelligence involves supporting the practice of using AI algorithms to simulate human intelligence, clearly a growing sector. AI continues to dominate the tech industry. Because of AI’s growth,"

@@ -46,6 +46,20 @@ related:
         width: 1200
         height: 1000
         isCached: true
+  - title: "New Robotic Surgery Training Centre At AIIMS To Transform Healthcare: Experts"
+    excerpt: "The new robotic surgery training centre at AIIMS in the Capital will provide much-needed robotic surgery skills to hundreds o"
+    publishedDateTime: 2023-05-06T05:54:00Z
+    webUrl: "https://menafn.com/1106189691/New-Robotic-Surgery-Training-Centre-At-AIIMS-To-Transform-Healthcare-Experts"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 51
+    images:
+      - url: "https://menafn.com/updates/pr/2023-05/06/I_a1a7aimage_story.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "AI Careers: How to Build a Career in AI"
     excerpt: "A career in in a rtificial intelligence involves supporting the practice of using AI algorithms to simulate human intelligence, clearly a growing sector. AI continues to dominate the tech industry. Because of AI’s growth,"
     publishedDateTime: 2023-05-01T18:24:00Z

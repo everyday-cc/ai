@@ -256,20 +256,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Are AI Chatbots, ChatGPT the Solution to Healthcare’s Empathy Problem?"
-    excerpt: "A new study found that AI chatbots like ChatGPT answer patient queries with more empathy, making the tool useful for providers managing secure direct messages in the patient portal."
-    publishedDateTime: 2023-05-01T17:00:00Z
-    webUrl: "https://patientengagementhit.com/news/are-ai-chatbots-chatgpt-the-solution-to-healthcares-empathy-problem"
-    type: article
-    provider:
-      name: patientengagementhit
-      domain: patientengagementhit.com
-    quality: 54
-    images:
-      - url: "https://patientengagementhit.com/images/site/article_headers/_normal/2022-04-08-GettyImages-1302394569.jpg"
-        width: 690
-        height: 400
-        isCached: true
   - title: "Navigating the Ethical Minefield: AI and Chatbot Responsibilities"
     excerpt: "Chatbots have become essential to daily life, from booking flights to ordering food. They make our interactions with businesses more convenient and efficient. However, we must consider their ethical"
     publishedDateTime: 2023-05-02T01:34:00Z
@@ -350,20 +336,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 47
-  - title: "6 CFO Skills Still Needed Amid Generative AI, ChatGPT"
-    excerpt: "Although CFOs may find new types of technology useful, the human element is still needed in some of the most critical parts of the job."
-    publishedDateTime: 2023-05-01T15:39:00Z
-    webUrl: "https://www.cfo.com/technology/2023/05/generative-ai-chatgpt-automation-technology-regulation-risk/"
-    type: article
-    provider:
-      name: CFO
-      domain: cfo.com
-    quality: 39
-    images:
-      - url: "https://assets.cfo.com/images/Zz05YmE1ZTE1MmU4MjExMWVkOTE1ZWMyOTAwMGU4OTMyYg==?width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Hello, my name is Dr ChatGPT: Are robot doctors really the future?"
     excerpt: "“Hello, my name is Dr ChatGPT. How can I help you today?” Imagine a medical consultation with a robotic creature. Will you feel comfortable? Will you trust this product of artificial intelligence to look after you effectively and safely?"
     publishedDateTime: 2023-05-02T04:02:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/apple-plans-generative-ai-tim-cook-wants-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/apple-plans-generative-ai-tim-cook-wants-to-be-thoughtful/amp/"
 type: article
 quality: 85
-heat: 96
+heat: 98
 published: true
 
 provider:

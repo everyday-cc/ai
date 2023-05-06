@@ -2,6 +2,144 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2023-04-20-artificial-intelligence-ai-in-fintech-market-overview-and-scope-by-2031.md",
+      "title": "Artificial Intelligence (AI) in Fintech Market Overview and Scope By 2031",
+      "excerpt": "New Report (2023-2031) of 75 Pages: Global Artificial Intelligence (AI) in Fintech Market Status and Prospect A summary",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-overview-and-scope-by-2031-2023-04-20",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-overview-and-scope-by-2031-2023-04-20",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-20T07:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-20-pensions-pressure-electric-cars-and-ai-ethics.md",
+      "title": "Pensions pressure, electric cars and AI ethics",
+      "excerpt": "The government may have to raise the state pension age to 70 by 2050 due to pressure on the public finances. Ian King is joined by Carl Emmerson, deputy director of the Institute for Fiscal Studies - who says nine in 10 workers are saving less than needed for a decent standard of living in retirement.",
+      "sourceUrl": null,
+      "webUrl": "https://news.sky.com/story/pensions-pressure-electric-cars-and-ai-ethics-12861867?dcmp=snt-sf-twitter",
+      "originalUrl": "https://news.sky.com/story/pensions-pressure-electric-cars-and-ai-ethics-12861867?dcmp=snt-sf-twitter",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://e3.365dm.com/21/06/1600x900/skynews-ian-king-business-podcast_5403721.png?20230201132237",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://news.sky.com/story/amp/pensions-pressure-electric-cars-and-ai-ethics-12861867",
+      "cdnAmpWebUrl": "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/pensions-pressure-electric-cars-and-ai-ethics-12861867",
+      "publishedDateTime": "2023-04-20T07:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sky",
+        "domain": "sky.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-20-hsbc-launches-ai-powered-equity-index-using-aws.md",
+      "title": "HSBC Launches AI-Powered Equity Index Using AWS",
+      "excerpt": "The HSBC AIGT index was developed by HSBC and leverages the artificial intelligence (AI) capabilities of AWS to carry out an AI-based index investment process. HSBC AIGT uses AWS AI services to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eagletribune.com/region/hsbc-launches-ai-powered-equity-index-using-aws/article_268f6bf2-aa4b-52d5-90ea-a4270c7869e5.html",
+      "originalUrl": "https://www.eagletribune.com/region/hsbc-launches-ai-powered-equity-index-using-aws/article_268f6bf2-aa4b-52d5-90ea-a4270c7869e5.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333",
+          "width": 600,
+          "height": 333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-20T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Eagle-Tribune",
+        "domain": "eagletribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-20-artificial-intelligence-ai-chips-market-to-grow-at-a-cagr-of-6151-from-2022-to-2027-growth-from-asics-segment-will-be-significant-technavio.md",
       "title": "Artificial intelligence (AI) chips market to grow at a CAGR of 61.51% from 2022 to 2027: Growth from ASICs segment will be significant - Technavio",
       "excerpt": "NEW YORK, April 19, 2023 /PRNewswire/ -- The artificial intelligence (AI) chips market size is estimated to grow by USD 210,506.47 million during 2022-2027. Moreover, the growth momentum will ...",
@@ -1037,155 +1175,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-20-researchers-build-neural-networks-with-actual-neurons.md",
-      "title": "Researchers Build Neural Networks With Actual Neurons",
-      "excerpt": "Neural networks have become a hot topic over the last decade, put to work on jobs from recognizing image content to generating text and even playing video games. However, these artificial neural ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2022/03/01/researchers-build-neural-networks-with-actual-neurons/",
-      "originalUrl": "https://hackaday.com/2022/03/01/researchers-build-neural-networks-with-actual-neurons/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2022/03/NeuralNerves.jpg",
-          "width": 3000,
-          "height": 1815,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-19T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-20-amazon-and-microsoft-vets-raise-10m-for-computer-vision-startup-used-in-warehouses.md",
-      "title": "Amazon and Microsoft vets raise $10M for computer vision startup used in warehouses",
-      "excerpt": "A new Seattle startup wants to make it easier for businesses to monitor their warehouses using artificial intelligence and computer vision technologies. Groundlight emerged from stealth Wednesday, unveiling its",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2023/amazon-and-microsoft-vets-raise-10m-for-computer-vision-startup-used-in-warehouses/",
-      "originalUrl": "https://www.geekwire.com/2023/amazon-and-microsoft-vets-raise-10m-for-computer-vision-startup-used-in-warehouses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/04/leo-avi.jpg",
-          "width": 3053,
-          "height": 1977,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-19T16:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Microsoft AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-04-20-best-indian-artificial-intelligence-stocks-2023.md",
-      "title": "Best Indian Artificial Intelligence Stocks 2023",
-      "excerpt": "While investing in the stock market, veteran experts often advise investment in futuristic stocks that have a solid market share and the potential to provide significant gains over a long period of time.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/advisor/in/investing/best-indian-ai-stocks/",
-      "originalUrl": "https://www.forbes.com/advisor/in/investing/best-indian-ai-stocks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/in/wp-content/uploads/2023/04/pexels-alex-knight-2599244-1-scaled.jpg",
-          "width": 2560,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-19T15:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

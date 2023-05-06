@@ -2,6 +2,144 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2023-03-30-social-and-medical-factors-may-explain-cognitive-impact-of-delayed-craniosynostosis-surgery.md",
+      "title": "Social and medical factors may explain cognitive impact of delayed craniosynostosis surgery",
+      "excerpt": "For infants with the skull deformity craniosynostosis, head reshaping surgery after age 12 months has long been linked to impaired cognitive and language development. Now a new study suggests that the difference in developmental outcomes may reflect a range of other patient characteristics and clinical factors affecting age at surgery,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/984569",
+      "originalUrl": "https://www.eurekalert.org/news-releases/984569",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-29T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-30-object-recognition-imaging-systems-market-size-trends-and-forecast-2030.md",
+      "title": "Object Recognition Imaging Systems Market Size, Trends and Forecast 2030",
+      "excerpt": "Market Updates(360marketupdates.com) published a new research report on Object Recognition Imaging Systems Market",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/object-recognition-imaging-systems-market-size-trends-and-forecast-2030-2023-03-29",
+      "originalUrl": "https://www.marketwatch.com/press-release/object-recognition-imaging-systems-market-size-trends-and-forecast-2030-2023-03-29",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-29T16:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-30-artificial-intelligence-delivery-robot-market-report-global-forecast-from-2023-to-2030.md",
+      "title": "Artificial Intelligence Delivery Robot Market Report | Global Forecast From 2023 To 2030",
+      "excerpt": "The Global Artificial Intelligence Delivery Robot market is anticipated to rise at a considerable rate during the forecast period, between 2023 and 2027. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-delivery-robot-market-report-global-forecast-from-2023-to-2030-2023-03-29",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-delivery-robot-market-report-global-forecast-from-2023-to-2030-2023-03-29",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-29T16:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-30-natural-language-processing-nlp-in-healthcare-market-by-2031.md",
       "title": "Natural Language Processing (NLP) in Healthcare Market by 2031",
       "excerpt": "The \"Natural Language Processing (NLP) in Healthcare Market\" study describes how the technology industry is evolving",
@@ -1090,153 +1228,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-03-28-the-3-most-promising-robotics-stocks-to-watch-in-2023.md",
-      "title": "The 3 Most Promising Robotics Stocks to Watch in 2023",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips With interest in generative artificial intelligence at a fever pitch this",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/the-3-most-promising-robotics-stocks-to-watch-in-2023-nvda-path-ter-1032196833",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/the-3-most-promising-robotics-stocks-to-watch-in-2023-nvda-path-ter-1032196833",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-28T04:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-28-neubility-plans-to-roll-out-400-lidar-free-delivery-and-security-robots-by-year-end.md",
-      "title": "Neubility plans to roll out 400 lidar-free delivery and security robots by year-end",
-      "excerpt": "Last-mile robotics startup Neubility — which makes autonomous delivery robots ... Earlier this month, Neubility said it would co-develop AI-powered “cop robots” with Korean telco SK Telecom and SK Shieldus, a platform that offers central monitoring ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/03/28/neubility-plans-to-roll-out-400-lidar-free-delivery-and-security-robots-by-year-end/",
-      "originalUrl": "https://techcrunch.com/2023/03/28/neubility-plans-to-roll-out-400-lidar-free-delivery-and-security-robots-by-year-end/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/09/Hero-image-1_Neubie.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/03/28/neubility-plans-to-roll-out-400-lidar-free-delivery-and-security-robots-by-year-end/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/28/neubility-plans-to-roll-out-400-lidar-free-delivery-and-security-robots-by-year-end/amp/",
-      "publishedDateTime": "2023-03-28T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-03-28-ai-search-startup-raises-26-million-to-offer-rival-to-google.md",
-      "title": "AI Search Startup Raises $26 Million to Offer Rival to Google",
-      "excerpt": "Perplexity AI, which makes a conversational search engine using artificial intelligence, has raised $25.6 million in a funding round led by New Enterprise Associates, the latest deal in the booming AI sector. Perplexity is part of a growing wave of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-03-28/ai-search-startup-raises-26-million-to-offer-rival-to-google",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-03-28/ai-search-startup-raises-26-million-to-offer-rival-to-google",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/igzs8nM6px7s/v1/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-28T04:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

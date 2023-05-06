@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meghalaya: VPP gets EC recognition as state party"
-    excerpt: "The Voice of the People Party (VPP), which has four MLAs in the Meghalaya Assembly, got recognition as a state party, a senior Election Commission of India (ECI) official said on Monday. The recognition was based on a review of the VPP's poll performance in the recently concluded assembly elections,"
-    publishedDateTime: 2023-05-01T15:46:00Z
-    webUrl: "https://www.devdiscourse.com/article/politics/2436223-meghalaya-vpp-gets-ec-recognition-as-state-party"
-    ampWebUrl: "https://www.devdiscourse.com/article/politics/2436223-meghalaya-vpp-gets-ec-recognition-as-state-party?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/politics/2436223-meghalaya-vpp-gets-ec-recognition-as-state-party?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 44
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_05_2019_12_10_31_1940386.jpg?width=1280"
-        width: 1280
-        height: 852
-        isCached: true
   - title: "Meghalaya's VPP gets EC recognition as state party"
     excerpt: "The Voice of the People Party (VPP), which has four MLAs in the Meghalaya Assembly, has got recognition as a state party, a senior official of the Election Commission said. The recognition was based on a review of the VPP's poll performance in the recently concluded assembly election, he said."
     publishedDateTime: 2023-05-02T03:46:00Z

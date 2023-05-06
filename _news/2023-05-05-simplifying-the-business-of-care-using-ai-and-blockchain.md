@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/05/05/simplifyi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/05/05/simplifying-the-business-of-care-using-ai-and-blockchain/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 120
 published: true
 
 provider:
