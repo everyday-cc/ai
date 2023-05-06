@@ -19,51 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Three Trends Of Transformation: How AI & Value-Based Care (VBC) Will Drive Transformation Of Self-Insured Healthcare"
-    excerpt: "Healthcare is on the brink of a seismic shift, and AI is its catalyst. (1) Large Language Models extend our predictive capabilities. (2) Self-insured companies' risk profile and the patient needs are aligned."
-    publishedDateTime: 2023-05-01T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/lutzfinger/2023/05/01/three-trends-of-transformation-how-ai--value-based-care-vbc-will-drive-transformation-of-self-insured-healthcare/"
+  - title: "Machine translation for cuneiform tablets"
+    excerpt: "An AI model has been developed to automatically translate Akkadian text written in cuneiform into English. Hundreds of thousands of clay tablets from ancient Mesopotamia, written in cuneiform and dating back as far as 3,"
+    publishedDateTime: 2023-05-03T16:47:00Z
+    webUrl: "https://techxplore.com/news/2023-05-machine-cuneiform-tablets.html"
+    ampWebUrl: "https://techxplore.com/news/2023-05-machine-cuneiform-tablets.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-05-machine-cuneiform-tablets.amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: techxplore
+      domain: techxplore.com
     quality: 61
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/644f0e322dfc4586460d1577/0x0.jpg?format=jpg&width=1200"
-        width: 1024
-        height: 1024
-        isCached: true
-  - title: "Artificial Intelligence in Eye Care: A Trending Transformation"
-    excerpt: "Artificial intelligence is helping to expand the physical abilities of eye clinics and hospitals to perform repetitive tasks with less error and more efficiency."
-    publishedDateTime: 2023-05-02T17:21:00Z
-    webUrl: "https://www.medindia.net/news/artificial-intelligence-in-eye-care-a-trending-transformation-211614-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-in-eye-care-a-trending-transformation-211614-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-in-eye-care-a-trending-transformation-211614-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 59
-    images:
-      - url: "https://images.medindia.net/amp-images/health-images/An-eye-care-professi.jpg"
-        width: 1200
-        height: 1000
-        isCached: true
-  - title: "AI ‘could be as transformative as industrial revolution’"
-    excerpt: "UK’s outgoing chief scientist urges ministers to ‘get ahead’ of profound social and economic changes"
-    publishedDateTime: 2023-05-03T14:29:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/may/03/ai-could-be-as-transformative-as-industrial-revolution-patrick-vallance"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/03/ai-could-be-as-transformative-as-industrial-revolution-patrick-vallance"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/03/ai-could-be-as-transformative-as-industrial-revolution-patrick-vallance"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/a6eaef833556b81337c95f6e88a34a1b44407791/0_300_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=6c607e1e58ea849496f7dd45d0c4493e"
-        width: 620
-        height: 372
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/machine-translation-fo.jpg"
+        width: 2880
+        height: 1216
         isCached: true
 
 secured: "Dpj5oqXN1GxbDzjKrUEELfNcceJVmc7hDySz5g8/XkKNtDb+bkxxUMDJQL3P53rxVzcNDcm50V6SlC09TY+SQSQPOnQXxWfxIIh/dxtStvftNFIJePO+DeoZK3cSk/gU62W0d3hHucNupCyeyVFNEiEKCn7XXNHqobBa3N0bmndClEycM34kORv/HY8DoQZKsQNGQznNxAmRDBHQWyh8+YKwC/QkcvEZRaluWB8Cq5C5uS49pFqBIGB00Msq+KYPdlavS1jLkShxdBu5c1mz5Kg6P0fZ34o7jK6d0KqipHwK3dWYHh9A4SrrSGH95FVbS49ZyVqpzzWEuBtsIz5fT56T/oN52tAIJmtpqJfsGr0YLIjPtrtDKlLn4bXwWgNtAFMDS26SeyAW3U2Kik5WnvZdtabRMFbmONyOcaGSr3Tlt7PptH8PAxLc4l+i6iu6lfbaGLAG+WEVIuHoo45kDh6wdN3uNAsr8BgLueHfee58YPhx+A0scTVEQhfDQ7iP5mOLgtuvP+zVnjlfVjkD+w==;BlEloHj+U+3McX20i0f/qQ=="

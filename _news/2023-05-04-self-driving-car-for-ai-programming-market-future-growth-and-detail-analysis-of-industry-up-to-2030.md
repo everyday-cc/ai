@@ -88,6 +88,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "How driverless trucks got drivers’ licenses in Kansas | Commentary"
+    excerpt: "Each time autonomous vehicle bills stalled at the Capitol, lobbyists and friendly lawmakers got out and pushed."
+    publishedDateTime: 2023-05-05T16:29:00Z
+    webUrl: "https://www.kansascity.com/opinion/readers-opinion/guest-commentary/article274749491.html"
+    ampWebUrl: "https://amp.kansascity.com/opinion/readers-opinion/guest-commentary/article274749491.html"
+    cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/opinion/readers-opinion/guest-commentary/article274749491.html"
+    type: article
+    provider:
+      name: Kansas City Star
+      domain: kansascity.com
+    quality: 39
   - title: "Self-driving Forklift Market 2023 Growth Status and Outlook for 2030"
     excerpt: "Additionally, the report provides up-to-date information on the market and identifies growth opportunities for the Self-driving Forklift market. With a detailed market outlook, definition of the industry,"
     publishedDateTime: 2023-05-02T06:09:00Z

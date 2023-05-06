@@ -85,22 +85,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Harris to meet with CEOs about artificial intelligence risks"
-    excerpt: "The Democratic administration plans to announce an investment of $140 million to establish seven new AI research institutes, administration officials told reporters in previewing the effort. In addition, the White House Office of Management and Budget is ..."
-    publishedDateTime: 2023-05-04T11:27:00Z
-    webUrl: "https://www.wtol.com/article/news/nation-world/harris-to-meet-with-ceos-artificial-intelligence/507-4c49382c-76f6-442b-9a26-d7ca46c16d82"
-    ampWebUrl: "https://www.wtol.com/amp/article/news/nation-world/harris-to-meet-with-ceos-artificial-intelligence/507-4c49382c-76f6-442b-9a26-d7ca46c16d82"
-    cdnAmpWebUrl: "https://www-wtol-com.cdn.ampproject.org/c/s/www.wtol.com/amp/article/news/nation-world/harris-to-meet-with-ceos-artificial-intelligence/507-4c49382c-76f6-442b-9a26-d7ca46c16d82"
-    type: article
-    provider:
-      name: WTOL
-      domain: wtol.com
-    quality: 59
-    images:
-      - url: "https://media.wtol.com/assets/CCT/images/a6d23463-39c2-43a0-af1a-70fe8468241e/a6d23463-39c2-43a0-af1a-70fe8468241e_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "Google tells staff it plans to limit publishing AI research to 'compete and keep knowledge in house' as its rivalry with Microsoft's OpenAI heats up"
     excerpt: "Google has for years operated a top AI lab that publishes cutting-edge research, but insiders say it's keeping more work confidential."
     publishedDateTime: 2023-05-04T09:00:00Z

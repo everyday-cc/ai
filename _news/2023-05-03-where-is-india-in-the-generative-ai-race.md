@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/05/03/where-is-india-in-the-generative-a
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/03/where-is-india-in-the-generative-ai-race/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iiSpW4J5_o2I/v0/1200x800.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Data science and AI: How it is changing the game for fintechs in India"
+    excerpt: "The financial sector in India has always embraced cutting-edge technologies, and as a result, it has been undergoing transformations. The emergence of FinTech companies in India has disrupted the financial sector and it is now amongst the fastest growing Fintech markets in the world."
+    publishedDateTime: 2023-05-06T05:45:00Z
+    webUrl: "https://www.financialexpress.com/business/blockchain-data-science-and-ai-how-it-is-changing-the-game-for-fintechs-in-india-3075675/"
+    ampWebUrl: "https://www.financialexpress.com/business/blockchain-data-science-and-ai-how-it-is-changing-the-game-for-fintechs-in-india-3075675/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-data-science-and-ai-how-it-is-changing-the-game-for-fintechs-in-india-3075675/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 59
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/05/Add-a-little-bit-of-body-text-15.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "What’s inside Box? More generative AI"
     excerpt: "Box expands its enterprise content cloud with Box AI, generative AI that more intuitively understands and creates new enterprise content."

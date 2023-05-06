@@ -103,6 +103,22 @@ related:
         width: 2560
         height: 1707
         isCached: true
+  - title: "Harris to meet with CEOs about artificial intelligence risks"
+    excerpt: "Companies worried about being liable for something in their training data might also not have incentives to properly track it, said Margaret Mitchell, chief ethics scientist at AI startup Hugging Face. “I think it might not be possible for OpenAI to ..."
+    publishedDateTime: 2023-05-04T10:53:00Z
+    webUrl: "https://www.wmbfnews.com/2023/05/04/harris-meet-with-ceos-about-artificial-intelligence-risks/"
+    ampWebUrl: "https://www.wmbfnews.com/2023/05/04/harris-meet-with-ceos-about-artificial-intelligence-risks/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wmbfnews-com.cdn.ampproject.org/c/s/www.wmbfnews.com/2023/05/04/harris-meet-with-ceos-about-artificial-intelligence-risks/?outputType=amp"
+    type: article
+    provider:
+      name: WMBF News
+      domain: wmbfnews.com
+    quality: 59
+    images:
+      - url: "https://gray-wmbf-prod.cdn.arcpublishing.com/resizer/iB0u1MUN3eDVtzXCsG_V6brnyxE=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/6RRG5UMTCRDLJB7RU5HQCXOGQA.png"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Biden, Harris meet with CEOs about AI risks"
     excerpt: "Vice President Kamala Harris has met with the heads of Google, Microsoft and two other companies developing artificial intelligence"
     publishedDateTime: 2023-05-05T03:47:00Z
@@ -223,6 +239,6 @@ related:
       domain: mynorthwest.com
     quality: 19
 
-secured: "KR/BjMD7jkunjGE5Rmy+fxdHAbBBjz6bKXf3d96jCjwSQiGl8EIXsNZBHhHjPytbNj552cQFPqu7XpHgkafcWP0USx4r6hdlkqtdtG0hwMpsJdrys+IwjEOfd6iV1N5mTd7Qq7yvA+hT5+kIWTOtJW66L9/Flfp5bqVN8pHr8PMYw2iLchQtqlzm2WXL666K4aeVDioZ8DaeLex44m1l3oGh+cKbeXIZ5PSmwuKJJfR4fJljRdutL+YZ2JyACQYLxYHF+N4uvDloocFjBfM9TJIYuLQmsRMoWfXkIHUKhN1m4ignXVo0ZHjQRfu1WZJ8oFJuUDdg3qwk8iIkaqIWBsEQ+NCybHG4iaiBiWnbryM=;N3HaYlpbNc4B5XuFnwZcjw=="
+secured: "O/yJQQHXagLoQXF5z6xxZD/L4VUP2OBusw4Dy9fntJxx2cipqmLIoxUMB6Bd1AssQPF/yvs5zi8Gqm/BF+kBilcBWkA5fYYhge6xZh01op1dYqxAtWnskG7gINLUKhr2Ive7Gf2p4gD1dsj5ydpJj62QaBSwK1eVZWnJwOpjpVgl8yczMk+0wGiZMXGBXrQ0bcrbM3oAhaWfcVvX2a93lD7RYE04+/9q0hh2jW3Kz1F6j9QRH/kNeeDpi2XBm76qvK0p4taaVsD6WbF2RtnGZ1FUDIHH48QG17J/l5LeadgAOfdPUGfKD4J/LDLa7OwIJYFRYoaXZyoAf+EtyzJYwbjoG3baMw/8TERmwGwjXFuUCQ6T4Gqzi/0WuOlmczL2Ewf8X0TwHjF4dmuR2DgHxryXimLRA8+meUxJEr6ZMpeK4O8CWxVVzNRHQXxOIyvMzqmXB+3w1RYfuQX0MUN5NHfT2eolomvs5JOdqT7cBFFE0K61PI7UQv8xavJwv3Y0lOKjI8t8uTu1aw3XZiIHhA==;K1KFPtVShUM8bHP1NSpDIg=="
 ---
 

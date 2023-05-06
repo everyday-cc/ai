@@ -221,6 +221,22 @@ related:
         width: 600
         height: 314
         isCached: true
+  - title: "Could AI pen 'Casablanca'? Screenwriters take aim at ChatGPT"
+    excerpt: "Not six months since the release of ChatGPT, generative artificial intelligence is already prompting widespread unease throughout Hollywood"
+    publishedDateTime: 2023-05-05T09:43:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/ai-pen-casablanca-screenwriters-aim-chatgpt-99104871"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/ai-pen-casablanca-screenwriters-aim-chatgpt-99104871"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/ai-pen-casablanca-screenwriters-aim-chatgpt-99104871"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 57
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
   - title: "Chatbot ‘journalists’ found running almost 50 AI-generated content farms"
     excerpt: "Websites churn out content, often advancing false narratives, to saturate with adverts, says anti-misinformation firm"
     publishedDateTime: 2023-05-02T16:45:00Z
@@ -533,15 +549,6 @@ related:
       name: Detroit News
       domain: detroitnews.com
     quality: 19
-  - title: "Could AI pen ‘Casablanca’? Screenwriters take aim at ChatGPT"
-    excerpt: "Not six months since the release of ChatGPT, generative artificial intelligence is already prompting widespread unease throughout Hollywood."
-    publishedDateTime: 2023-05-05T13:45:00Z
-    webUrl: "https://www.seattletimes.com/business/could-ai-pen-casablanca-screenwriters-take-aim-at-chatgpt/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 17
   - title: "UAE Ultra App: Botim 3.0 offers video chat, AI, money transfer, Arabic ChatGPT and more"
     excerpt: "UAE-based Astra Tech announce launch of Botim 3.0 Ultra App UAE Ultra App: Botim 3.0 offers video chat, AI, money transfer, Arabic ChatGPT and more app development, apps, astra tech, BOTIM, UAE Techno"
     publishedDateTime: 2023-05-03T09:57:00Z
@@ -551,15 +558,6 @@ related:
       name: Arabian Business
       domain: arabianbusiness.com
     quality: 11
-  - title: "9 Ways to Use ChatGPT for Small Business"
-    excerpt: "ChatGPT is a free and easy chat tool that can develop fairly well-written copy and help users brainstorm. Could it benefit your small business?"
-    publishedDateTime: 2023-05-01T12:38:00Z
-    webUrl: "https://www.businessnewsdaily.com/chat-gpt-business-uses"
-    type: article
-    provider:
-      name: Business News Daily
-      domain: businessnewsdaily.com
-    quality: 4
 
 secured: "ix3GfBSMSsfKOlloLNYu0hHhAYSEm+1QEIJ14h6aTS2KYYiSbGrMUW/uOFkHNrySy/myAqay34WUNB+nt0g5dVgldeHVjv40kv+UBB+0ouytS7N3R2cwv1OFH8Ez2vXu12SlfiQ2Iqummz5ysCo6mt4FGZKKJX2DY4HOdE9jNLD6JTHuhGP1iPpfknMtamxhBnVJB5TupRKItodVj7/Xss3Nf0fEGkoPmvSBwsWn+VYk9TPGmX2QENS8KEPTIj9zAymqg84LC7DSqSaUnWm7reddD/4oSjGWhZ+jfBCy2rUsRkYESzBWsJ9sDGTjBjJZnep9HJ1M+JnyaKMAtIwftdObanRgZU3xIb7JMwNJfLCc4gUQrBuLnLIsDoxnW3otbKNv3N8kMRk/xfdNzckCfbjWNqqkIi4eucyNGpqYdBmiHe6zL7IeCAvUNsIrUlyJuYEJV6pOdpW2OTzqnUPZ+zB1qF2MUzfnwsPLUNImczPgmUWF8gRm3mQQDrs7BDDu3pYk6ozreT0QaWPm8jphSA==;hjP7GNZ6hb8UTX2aX5U7eQ=="
 ---

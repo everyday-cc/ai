@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "How ‘voice to cart’ is revolutionising retail"
+    excerpt: "Perhaps the most significant limitation of voice technology in retail is the accuracy of voice recognition. Accurately interpreting voice commands can be tricky, especially when dealing with regional accents and dialects."
+    publishedDateTime: 2023-05-06T05:30:00Z
+    webUrl: "https://www.indiaretailing.com/2023/05/06/how-voice-to-cart-is-revolutionising-retail/"
+    type: article
+    provider:
+      name: indiaretailing
+      domain: indiaretailing.com
+    quality: 39
+    images:
+      - url: "https://www.indiaretailing.com/wp-content/uploads/2023/05/Kumar-Rangarajan-CEO-and-Co-Founder.png"
+        width: 532
+        height: 345
+        isCached: true
   - title: "How Artificial Intelligence is Revolutionising the Fintech Landscape?"
     excerpt: "According to surveys, 2/3 of FinTech companies currently use AI technology in their activities to a greater or lesser extent. Its influence will increase. Last year, the worldwide market for AI solutions in the FinTech industry was assessed at roughly 9  billion USD;"
     publishedDateTime: 2023-05-03T08:01:00Z

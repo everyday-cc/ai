@@ -1,153 +1,244 @@
 ---
 category: news
 title: "Harris to meet with CEOs about artificial intelligence risks"
-excerpt: "The Democratic administration plans to announce an investment of $140 million to establish seven new AI research institutes, administration officials told reporters in previewing the effort. In addition, the White House Office of Management and Budget is ..."
-publishedDateTime: 2023-05-04T11:27:00Z
-originalUrl: "https://www.wtol.com/article/news/nation-world/harris-to-meet-with-ceos-artificial-intelligence/507-4c49382c-76f6-442b-9a26-d7ca46c16d82"
-webUrl: "https://www.wtol.com/article/news/nation-world/harris-to-meet-with-ceos-artificial-intelligence/507-4c49382c-76f6-442b-9a26-d7ca46c16d82"
-ampWebUrl: "https://www.wtol.com/amp/article/news/nation-world/harris-to-meet-with-ceos-artificial-intelligence/507-4c49382c-76f6-442b-9a26-d7ca46c16d82"
-cdnAmpWebUrl: "https://www-wtol-com.cdn.ampproject.org/c/s/www.wtol.com/amp/article/news/nation-world/harris-to-meet-with-ceos-artificial-intelligence/507-4c49382c-76f6-442b-9a26-d7ca46c16d82"
+excerpt: "Companies worried about being liable for something in their training data might also not have incentives to properly track it, said Margaret Mitchell, chief ethics scientist at AI startup Hugging Face. “I think it might not be possible for OpenAI to ..."
+publishedDateTime: 2023-05-04T10:53:00Z
+originalUrl: "https://www.wmbfnews.com/2023/05/04/harris-meet-with-ceos-about-artificial-intelligence-risks/"
+webUrl: "https://www.wmbfnews.com/2023/05/04/harris-meet-with-ceos-about-artificial-intelligence-risks/"
+ampWebUrl: "https://www.wmbfnews.com/2023/05/04/harris-meet-with-ceos-about-artificial-intelligence-risks/?outputType=amp"
+cdnAmpWebUrl: "https://www-wmbfnews-com.cdn.ampproject.org/c/s/www.wmbfnews.com/2023/05/04/harris-meet-with-ceos-about-artificial-intelligence-risks/?outputType=amp"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: WTOL
-  domain: wtol.com
+  name: WMBF News
+  domain: wmbfnews.com
 
 topics:
-  - AI in Autos
+  - AI Ethics
   - AI
 
 images:
-  - url: "https://media.wtol.com/assets/CCT/images/a6d23463-39c2-43a0-af1a-70fe8468241e/a6d23463-39c2-43a0-af1a-70fe8468241e_1140x641.jpg"
-    width: 1140
-    height: 641
+  - url: "https://gray-wmbf-prod.cdn.arcpublishing.com/resizer/iB0u1MUN3eDVtzXCsG_V6brnyxE=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/6RRG5UMTCRDLJB7RU5HQCXOGQA.png"
+    width: 800
+    height: 450
     isCached: true
 
 related:
-  - title: "OpenAI, Microsoft, and Alphabet CEOs to discuss AI with Biden administration today"
-    excerpt: "The announcement from the White House Briefing Room also included plans for a public evaluation of existing generative AI systems."
-    publishedDateTime: 2023-05-04T15:49:00Z
-    webUrl: "https://www.zdnet.com/article/openai-microsoft-and-alphabet-ceos-to-discuss-ai-with-biden-administration-today/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/openai-microsoft-and-alphabet-ceos-to-discuss-ai-with-biden-administration-today/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/openai-microsoft-and-alphabet-ceos-to-discuss-ai-with-biden-administration-today/"
+  - title: "VP Harris to meet with CEOs about artificial intelligence risks"
+    excerpt: "The Democratic administration plans to announce an investment of $140 million to establish seven new AI research institutes."
+    publishedDateTime: 2023-05-04T13:50:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/vp-harris-meet-ceos-artificial-intelligence-risks-rcna82835"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna82835"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna82835"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 98
+      name: NBC News
+      domain: nbcnews.com
+    quality: 87
     images:
-      - url: "https://www.zdnet.com/a/img/resize/3995490273681a1e4a741db83b12e7d8110f15c4/2023/05/04/9475ccf7-8940-41af-9e1e-9006d4e4f542/ai-whitehouse.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/230504-kamala-harris-mjf-0946-2ef781.jpg"
+        width: 2500
+        height: 1436
         isCached: true
-  - title: "Biden administration takes action to promote responsible AI innovation"
-    excerpt: "The Biden administration pushes responsible AI with R&D investment, policymaking, and assessments of current generative AI systems."
-    publishedDateTime: 2023-05-05T17:49:00Z
-    webUrl: "https://venturebeat.com/ai/biden-administration-takes-action-to-promote-responsible-ai-innovation/"
-    ampWebUrl: "https://venturebeat.com/ai/biden-administration-takes-action-to-promote-responsible-ai-innovation/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/biden-administration-takes-action-to-promote-responsible-ai-innovation/amp/"
+  - title: "Tech execs meet with Vice President Harris about AI development"
+    excerpt: "Artificial intelligence is already diagnosing cancer, developing new music and more. However, one AI pioneer tells NBC News’ Tom Costello that AI could possibly pose an existential threat to humans. Now,"
+    publishedDateTime: 2023-05-04T23:20:00Z
+    webUrl: "https://www.nbcnews.com/nightly-news/video/tech-execs-meet-with-vice-president-harris-about-ai-development-172819525842"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo172819525842"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo172819525842"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
+      name: NBC News
+      domain: nbcnews.com
+    quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/04/annevb_chatbots_and_AI_everywhere_all_at_once_-_tech_colorful_e_beb92de9-8091-4437-9e29-d568ea8d4b74.png?w=1200&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_05/1683242341720_nn_tco_tech_execs_at_white_house_230504_1920x1080-q1x6ag.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "The White House Starts to Address AI Risks with New Initiatives"
-    excerpt: "Executives from Alphabet, Microsoft, OpenAI, and Anthropic will also meet with the Vice President today to discuss the new AI efforts."
-    publishedDateTime: 2023-05-04T15:20:00Z
-    webUrl: "https://gizmodo.com/white-house-announce-ai-initiative-openai-microsoft-1850403559"
+  - title: "White House Presses Tech CEOs on Dangers of AI"
+    excerpt: "Vice President Kamala Harris on Thursday met with the CEOs of several tech firms to discuss the risks associated with artificial intelligence as the White House announced a series of initiatives aimed at addressing those challenges."
+    publishedDateTime: 2023-05-04T23:25:00Z
+    webUrl: "https://www.cnet.com/tech/white-house-presses-tech-ceos-on-dangers-of-ai/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/white-house-presses-tech-ceos-on-dangers-of-ai/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/white-house-presses-tech-ceos-on-dangers-of-ai/"
     type: article
     provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 67
+      name: CNET
+      domain: cnet.com
+    quality: 87
     images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/5928f9af47719ca2a1aa839eff736ba9.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Aisera Collaborates with Microsoft to Provide AI Enterprise Service Experiences with ChatGPT and Generative AI"
-    excerpt: "Aisera Collaborates with Microsoft to Provide AI Enterprise Service Experiences with ChatGPT and Generative AI May 03, 2023 (PRNewswire via COMTEX) --"
-    publishedDateTime: 2023-05-03T12:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/aisera-collaborates-with-microsoft-to-provide-ai-enterprise-service-experiences-with-chatgpt-and-generative-ai-2023-05-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://www.cnet.com/a/img/resize/1634a5d8b41d52b7d0986d9927a91ccf3a6f2a58/hub/2023/05/04/a4dcd50c-2635-4868-b9c0-cd84de750cb2/gettyimages-1485763663.jpg?auto=webp&fit=crop&height=630&width=1200"
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft Earnings Takeaways: Cloud, Generative AI, The Path To E7"
-    excerpt: "Analyst reports point to the potential for Azure deceleration slowing, an end to customers optimizing cloud spend and the sales potential of generative AI. Better-than-expected results from Microsoft’s latest earnings—not to mention those of cloud rivals Google and Amazon Web Services—led to a mix of analyst reports hopeful for Azure deceleration slowing,"
-    publishedDateTime: 2023-05-01T14:20:00Z
-    webUrl: "https://www.crn.com/news/cloud/microsoft-earnings-takeaways-cloud-generative-ai-the-path-to-e7"
+  - title: "White House Announces AI Initiatives Ahead of Meeting With Top Tech CEOs"
+    excerpt: "Companies worried about being liable for something in their training data might also not have incentives to properly track it, said Margaret Mitchell, chief ethics scientist at AI startup Hugging Face. “I think it might not be possible for OpenAI to ..."
+    publishedDateTime: 2023-05-04T10:47:00Z
+    webUrl: "https://time.com/6276974/biden-harris-white-house-artificial-intelligence-initiatives/"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
-    quality: 54
+      name: Time
+      domain: time.com
+    quality: 68
     images:
-      - url: "https://www.crn.com/resources/027d-17198c0bb2a2-47b52df5a838-1000/nadella-intro2.jpeg"
-        width: 610
-        height: 457
+      - url: "https://time.com/img/icons/wallet-connect.png"
+        width: 256
+        height: 256
         isCached: true
-  - title: "Google tells staff it plans to limit publishing AI research to 'compete and keep knowledge in house' as its rivalry with Microsoft's OpenAI heats up"
-    excerpt: "Google has for years operated a top AI lab that publishes cutting-edge research, but insiders say it's keeping more work confidential."
-    publishedDateTime: 2023-05-04T09:00:00Z
-    webUrl: "https://www.businessinsider.com/google-publishing-less-confidential-ai-research-to-compete-with-openai-2023-4"
+  - title: "Vice President Harris meets with CEOs about risks of artificial intelligence"
+    excerpt: "Vice President Kamala Harris met on Thursday with the heads of Google, Microsoft and two other companies developing artificial intelligence."
+    publishedDateTime: 2023-05-05T11:25:00Z
+    webUrl: "https://thegrio.com/2023/05/05/vice-president-harris-meets-with-ceos-about-risks-of-artificial-intelligence/"
+    ampWebUrl: "https://thegrio.com/2023/05/05/vice-president-harris-meets-with-ceos-about-risks-of-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2023/05/05/vice-president-harris-meets-with-ceos-about-risks-of-artificial-intelligence/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
+      name: The Grio
+      domain: thegrio.com
+    quality: 60
     images:
-      - url: "https://i.insider.com/6452c554b4a8cd00187aaab6?width=1200&format=jpeg"
+      - url: "https://thegrio.com/wp-content/uploads/2023/05/AP23121595237837-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
+  - title: "Biden, Harris meet with CEOs about AI risks"
+    excerpt: "Vice President Kamala Harris has met with the heads of Google, Microsoft and two other companies developing artificial intelligence"
+    publishedDateTime: 2023-05-05T03:47:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/harris-meet-ceos-artificial-intelligence-risks-99068992"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/harris-meet-ceos-artificial-intelligence-risks-99068992"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/harris-meet-ceos-artificial-intelligence-risks-99068992"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 59
+    images:
+      - url: "https://s.abcnews.com/images/Politics/wirestory_578d623e473b0eeb3fa3e4728d7e9868_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "VP Harris meets with CEOs about artificial intelligence risks"
+    excerpt: "The Biden administration plans to announce an investment of $140 million to establish seven new AI research institutes, administration officials told reporters in previewing the effort."
+    publishedDateTime: 2023-05-04T20:20:00Z
+    webUrl: "https://www.wpbf.com/article/kamala-harris-ceos-artificial-intelligence-risks/43794424"
+    ampWebUrl: "https://www.wpbf.com/amp/article/kamala-harris-ceos-artificial-intelligence-risks/43794424"
+    cdnAmpWebUrl: "https://www-wpbf-com.cdn.ampproject.org/c/s/www.wpbf.com/amp/article/kamala-harris-ceos-artificial-intelligence-risks/43794424"
+    type: article
+    provider:
+      name: WPBF
+      domain: wpbf.com
+    quality: 59
+    images:
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/kamala-harris-ap22131652890528.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
-  - title: "Biden-Harris administration announces initiatives for responsible AI innovation"
-    excerpt: "VP Harris meets with tech CEOs and major AI companies commit to independent evaluation at DEF CON 31. #NewsismyBusiness"
-    publishedDateTime: 2023-05-05T09:04:00Z
-    webUrl: "https://newsismybusiness.com/biden-harris-administration-announces-initiatives-for-responsible-ai-innovation/"
+  - title: "VP Harris to meet with CEOs about artificial intelligence risks"
+    excerpt: "Companies worried about being liable for something in their training data might also not have incentives to rigorously track it, said Margaret Mitchell, chief ethics scientist at AI startup Hugging Face. \"I think it might not be possible for OpenAI to ..."
+    publishedDateTime: 2023-05-04T20:01:00Z
+    webUrl: "https://www.kcra.com/article/kamala-harris-ceos-artificial-intelligence-risks/43794424"
+    ampWebUrl: "https://www.kcra.com/amp/article/kamala-harris-ceos-artificial-intelligence-risks/43794424"
+    cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/kamala-harris-ceos-artificial-intelligence-risks/43794424"
     type: article
     provider:
-      name: Business
-      domain: newsismybusiness.com
-    quality: 35
+      name: kcra.com
+      domain: kcra.com
+    quality: 59
     images:
-      - url: "https://newsismybusiness.com/wp-content/uploads/2023/05/dreamstime_m_51454298-394x218.jpg"
-        width: 394
-        height: 218
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/kamala-harris-ap22131652890528.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "AI News roundup: Microsoft tests privacy focused version of ChatGPT, Slack's generative AI push and more"
-    excerpt: "According to the online publication The Information, Microsoft is planning to offer the variant on its Azure cloud platform and it will run on dedicated servers where data collected by the chatbot would be separated from the public variant."
-    publishedDateTime: 2023-05-04T13:30:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/ai-news-roundup-microsoft-tests-privacy-focused-version-of-chatgpt-slacks-generative-ai-push-and-more-10529011.html"
+  - title: "White House unveils an AI plan ahead of meeting with tech CEOs"
+    excerpt: "CNN By Brian Fung, CNN The White House on Thursday announced a series of measures to address the challenges of artificial intelligence, driven by the sudden popularity of tools such as ChatGPT and amid rising concerns about the technology’s potential risks for discrimination,"
+    publishedDateTime: 2023-05-04T21:18:00Z
+    webUrl: "https://kesq.com/money/cnn-social-media-technology/2023/05/04/white-house-unveils-an-ai-plan-ahead-of-meeting-with-tech-ceos/"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 17
-  - title: "Startup Backed by Ex-Google CEO Slips Out of Stealth Mode, Hires First GC"
-    excerpt: "One-year-old Istari plans to use artificial intelligence to revolutionize development of defense systems. One of its investors is Google's Eric Schmidt, who said AI might have as big an impact on defense as nuclear weapons."
-    publishedDateTime: 2023-05-01T19:25:00Z
-    webUrl: "https://www.law.com/corpcounsel/2023/05/01/startup-backed-by-ex-google-ceo-slips-out-of-stealth-mode-hires-first-gc/"
+      name: KESQ News
+      domain: kesq.com
+    quality: 39
+    images:
+      - url: "https://kesq.b-cdn.net/2023/05/hypatia-h_9dfc3363f190ea51a20993445362a943-h_f35f6fb89accb1580ccc1f934a872977-300-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
+  - title: "Vice President Harris meets with CEOs about artificial intelligence risks"
+    excerpt: "Vice President Kamala Harris met with the heads of Google, Microsoft and two other companies developing artificial intelligence."
+    publishedDateTime: 2023-05-04T21:07:00Z
+    webUrl: "https://www.pressherald.com/2023/05/04/vice-president-harris-meets-with-ceos-about-artificial-intelligence-risks/"
     type: article
     provider:
-      name: Law
-      domain: law.com
-    quality: 1
+      name: Portland Press Herald
+      domain: pressherald.com
+    quality: 38
+    images:
+      - url: "https://multifiles.pressherald.com/uploads/sites/4/2023/05/Biden_37837-1-1683234434.jpg"
+        width: 1000
+        height: 667
+        isCached: true
+  - title: "Harris meets with CEOs about artificial intelligence risks"
+    excerpt: "Vice President Kamala Harris will meet with the CEOs of four major companies developing artificial intelligence."
+    publishedDateTime: 2023-05-04T10:07:00Z
+    webUrl: "https://www.seattletimes.com/business/harris-to-meet-with-ceos-about-artificial-intelligence-risks/"
+    ampWebUrl: "https://www.seattletimes.com/business/harris-to-meet-with-ceos-about-artificial-intelligence-risks/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/harris-to-meet-with-ceos-about-artificial-intelligence-risks/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 37
+  - title: "Vice President Harris, tech giants discuss artificial intelligence"
+    excerpt: "Now that artificial intelligence has been rolled out to the public, the urgent question is how to harness its benefits without unleashing its risks. CBS News' Dina Demetrius reports."
+    publishedDateTime: 2023-05-04T21:31:00Z
+    webUrl: "https://www.cbsnews.com/chicago/video/vice-president-harris-tech-giants-discuss-artificial-intelligence/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 37
+    images:
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/05/04/ff108f96-1c1c-49ec-9dc6-1a2757283e2f/thumbnail/1200x630/b6e6ef76be42705a0e6e9d60bf025be3/5cc0f0b9b9352e0cce38ce92b58fc030.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "White House pushes tech CEOs to limit risks of AI"
+    excerpt: "The White House on Thursday pushed Silicon Valley CEOs to limit the risks of artificial intelligence, in the administration’s most visible effort to confront rising questions and calls to regulate the rapidly advancing technology."
+    publishedDateTime: 2023-05-04T23:53:00Z
+    webUrl: "https://www.spokesman.com/stories/2023/may/04/white-house-pushes-tech-ceos-to-limit-risks-of-ai/"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 37
+    images:
+      - url: "https://thumb.spokesman.com/CBlgZKXNqFQYtJIZpcDj3uYoQzM=/1200x630/smart/media.spokesman.com/photos/2023/05/04/645437c2e7866.hires.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Harris meets with CEOs about artificial intelligence risks"
+    excerpt: "Vice President Kamala Harris speaks, along side Jill Scarbo, who won National Small Business of the Year in 2022 and is the CEO of Bright Futures Learning Services (BFLS), a provider of Applied Behavior Analysis (ABA) therapy services for children ..."
+    publishedDateTime: 2023-05-04T17:42:00Z
+    webUrl: "https://omaha.com/lifestyles/technology/harris-meets-with-ceos-about-artificial-intelligence-risks/article_2be5fceb-7e7e-5b20-93a6-2fc9680f8df6.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 19
+  - title: "Harris to meet with CEOs about artificial intelligence risks"
+    excerpt: "The Democratic administration plans to announce an investment of $140 million to establish seven new AI research institutes"
+    publishedDateTime: 2023-05-05T12:49:00Z
+    webUrl: "https://mynorthwest.com/3884910/harris-to-meet-with-ceos-about-artificial-intelligence-risks/"
+    type: article
+    provider:
+      name: MyNorthwest.com
+      domain: mynorthwest.com
+    quality: 19
 
-secured: "pDRvTn41v+dZfMDstDgMeehYYcCISo2ggMvzzkP7/PrsTP5X8FnsTG23DaGM+mbP02la4u0yz08rewsl6Q09s7pgj77F96sU8wXCdHziIJ3l3X1WHamji43fbJPZ/3WqbtzkyqzyHqBKVaWtwzH9t9wModL1JNT94vnoxpWLB5VBjS25sWlYC0MZN/Fm+QpTQeFU2Q4fpN/DSXahR/UpzDDjJVDjilw0FPZFiaq3jOaxRGo7ZqEIuqyIu6b27TPXSv2AMalR5mIDserTCeDf51iVaGTMgICbHuzYF8VntwoNSfKyv3YsorjQlu6pIsYjj8PHBW2GrNn9Z+++Ej2Cl2Ix6QMtXb5FbkcQNRAM8i0=;U1gH+cREBbNrTW1mGOXQwA=="
+secured: "QvlOU6fVq9YaSybLhAYdv1vwnBEOvUx4xWtMFT+IxTv7FAsuE+QienoBGvwt8EqkrrxeeO1vlTPM0bNEsdp/bUzNFCKVOtL1bRFHzA4b5EVekAz1Sh2GgEKEgjrAfXUCpUb/4CoaWSfbQ/w3+JS7YPnmLYj5pygdST0rAEzVfdouiUrC62rzpLyUx++qRp4xUroYclJLR+wbkRYHcKDi75/MykRmUXEJwnDkulaMu/jY1F4h+I+oqXXGPCTWt8pB3YIJzBtRFQCRHrnpBtAr+KLZpSmKys2o6eDTb7N4g263MUGYfjLL3N0sDM3gcphT+W2PDJjp8NUDfuQL++1+lQiCB0gZnN5NJys1pjkFDj0=;O3g1ZBWduXw74BZ6OVPKCg=="
 ---
 

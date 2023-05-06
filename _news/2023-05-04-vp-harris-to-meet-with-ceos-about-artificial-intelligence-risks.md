@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna82835"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna82835"
 type: article
 quality: 87
-heat: 227
+heat: 237
 published: true
 
 provider:
@@ -87,6 +87,22 @@ related:
       - url: "https://thegrio.com/wp-content/uploads/2023/05/AP23121595237837-scaled.jpg"
         width: 2560
         height: 1707
+        isCached: true
+  - title: "Harris to meet with CEOs about artificial intelligence risks"
+    excerpt: "Companies worried about being liable for something in their training data might also not have incentives to properly track it, said Margaret Mitchell, chief ethics scientist at AI startup Hugging Face. “I think it might not be possible for OpenAI to ..."
+    publishedDateTime: 2023-05-04T10:53:00Z
+    webUrl: "https://www.wmbfnews.com/2023/05/04/harris-meet-with-ceos-about-artificial-intelligence-risks/"
+    ampWebUrl: "https://www.wmbfnews.com/2023/05/04/harris-meet-with-ceos-about-artificial-intelligence-risks/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wmbfnews-com.cdn.ampproject.org/c/s/www.wmbfnews.com/2023/05/04/harris-meet-with-ceos-about-artificial-intelligence-risks/?outputType=amp"
+    type: article
+    provider:
+      name: WMBF News
+      domain: wmbfnews.com
+    quality: 59
+    images:
+      - url: "https://gray-wmbf-prod.cdn.arcpublishing.com/resizer/iB0u1MUN3eDVtzXCsG_V6brnyxE=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/6RRG5UMTCRDLJB7RU5HQCXOGQA.png"
+        width: 800
+        height: 450
         isCached: true
   - title: "Biden, Harris meet with CEOs about AI risks"
     excerpt: "Vice President Kamala Harris has met with the heads of Google, Microsoft and two other companies developing artificial intelligence"

@@ -1,12 +1,10 @@
 ---
 category: news
 title: "Turn to Tara: Facial recognition software could give your selfie to law enforcement"
-excerpt: "Team 12 Investigative reporter Tara Rosenblum explains how an innocent profile picture on a social media account can become part of a police database."
-publishedDateTime: 2023-05-04T15:21:00Z
-originalUrl: "https://brooklyn.news12.com/turn-to-tara-facial-recognition-software-could-give-your-selfie-to-law-enforcement"
-webUrl: "https://brooklyn.news12.com/turn-to-tara-facial-recognition-software-could-give-your-selfie-to-law-enforcement"
-ampWebUrl: "https://brooklyn.news12.com/amp/turn-to-tara-facial-recognition-software-could-give-your-selfie-to-law-enforcement"
-cdnAmpWebUrl: "https://brooklyn-news12-com.cdn.ampproject.org/c/s/brooklyn.news12.com/amp/turn-to-tara-facial-recognition-software-could-give-your-selfie-to-law-enforcement"
+excerpt: "New facial recognition software is apparently scraping the internet for your selfies and feeding them to law enforcement. Team 12 Investigative reporter Tara Rosenblum explains how an innocent profile picture on a social media account can become part of a ..."
+publishedDateTime: 2023-05-04T13:26:00Z
+originalUrl: "https://longisland.news12.com/turn-to-tara-facial-recognition-software-could-give-your-selfie-to-law-enforcement"
+webUrl: "https://longisland.news12.com/turn-to-tara-facial-recognition-software-could-give-your-selfie-to-law-enforcement"
 type: article
 quality: 33
 heat: 33
@@ -20,6 +18,12 @@ topics:
   - Computer Vision
   - AI
 
-secured: "nu4RPG9X7Bp3cCbgcYhZifDKLWFeosLRwalfioCnh1JqF/KzpDWTqB1EMo7JUEfQpGvFi/qrb/VBL75Nm1RySpK8VMguYn+KHy88U+sspW6z5eEllfDEUpxolUKlhilGWCw7F/t7HkKTOfbOJHhASjryjVCXyLtk98nQ/Gz+1uvRmGrbiS22RYxKiFRsMl8StJ1MvOTAlRQNgsGhwstxDyz1gsvHtES4fgf+MDVrbJXhNuk2V+CMe9cVyCZ06HudJzGDYB7qbn/xVCiMQokWMKBS6jBwph2GRppLg2rOfYy5xDZBC8dizW2sozdVh1xwZe8yCwGDui//XHrL4f4oh/D/KVWl0azzduOOk7+nWRQUuzdB8J+G4nEHGUBeYTtXBHqabruYZ9aeeH21/kXm6041m0vijEYLItlzqLsuJHm754L+7mTf+kjwMZxTljOxf4gJJoiWd5U5h6ycBRtoagVIXY9f+9IJTaOQ9C4wKGB29wWpmhPyi92XoKEbnGaNrKc6/DushaGdZTRgsEt3eQ==;0ode7zHEoC288j/MEwQ41A=="
+images:
+  - url: "https://images.ctfassets.net/3kqcuzntcg31/13FTYonT5HRQdQ1bGXuPLm/1bb67ce3d6d444c8482b5041a2f59b50/bc0896c0-4cfd-4ded-9a80-030fe0f02933.jpg?fit=thumb&w=600&h=340"
+    width: 600
+    height: 340
+    isCached: true
+
+secured: "LFUrnfdWHI9L4RkKy+nOYyiU4edYXQ+sCXr/XKZmZqGT39+yqjFAC+qr7EhimQPlDwvzTsHxB+9FqUcus3POLO/KcaZPZ3L8LQz6a0pszI+G2YmC1NWpmTc9xBD7dYvrY/aiQ4QGXaRMDVrLPb0MSpSgFPewJwvVEGEnccRRV1GMfmtHPMEtJkOqbEgkZOKsPzzfunoGr6M1KIAX8brsBm8GKNciYq9Iu9qKS4MgZvqqDBZmsJED3arSWetb1IaPCLShQwlr8J+oY4UL3az9aeWrkNaSlnyDdXQycC0c8vOWQ9h+XT1nMBm9vMKr31qoxwO3qh5pdocmsD71pNkWLlS+rj+7BkeDWDYkq9bCHPs=;opHRTgqEDsE446vsqNI/Yg=="
 ---
 

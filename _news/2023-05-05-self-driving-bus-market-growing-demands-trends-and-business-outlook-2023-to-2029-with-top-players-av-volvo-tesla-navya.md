@@ -80,6 +80,17 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 45
+  - title: "How driverless trucks got drivers’ licenses in Kansas | Commentary"
+    excerpt: "Each time autonomous vehicle bills stalled at the Capitol, lobbyists and friendly lawmakers got out and pushed."
+    publishedDateTime: 2023-05-05T16:29:00Z
+    webUrl: "https://www.kansascity.com/opinion/readers-opinion/guest-commentary/article274749491.html"
+    ampWebUrl: "https://amp.kansascity.com/opinion/readers-opinion/guest-commentary/article274749491.html"
+    cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/opinion/readers-opinion/guest-commentary/article274749491.html"
+    type: article
+    provider:
+      name: Kansas City Star
+      domain: kansascity.com
+    quality: 39
   - title: "Self-Driving Car for AI Programming Market Future Growth and Detail Analysis of Industry Up to 2030"
     excerpt: "May 04, 2023 (The Expresswire) -- The following is a synopsis of a market research report on the Self-Driving Car for AI Programming Market research report provides an extensive analysis of current and forthcoming industry trends. The report enables ..."
     publishedDateTime: 2023-05-04T12:10:00Z

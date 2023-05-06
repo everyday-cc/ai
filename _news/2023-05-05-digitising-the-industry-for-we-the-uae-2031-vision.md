@@ -26,6 +26,22 @@ images:
     height: 675
     isCached: true
 
+related:
+  - title: "Digitising The Industry For 'We The UAE 2031' Vision"
+    excerpt: "As one of the biggest international logistics hubs in the world, the initiative will help the UAE leverage on various advanced technologies, including 5G, cloud and AI, to better fulfill the ambitions of 'We The UAE 2031'."
+    publishedDateTime: 2023-05-06T04:12:00Z
+    webUrl: "https://menafn.com/1106189598/Digitising-The-Industry-For-We-The-UAE-2031-Vision"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/updates/pr/2023-05/05/KT_24d2bimage_story.jpg"
+        width: 600
+        height: 337
+        isCached: true
+
 secured: "+QCcsusINNUQSA+ujhn7uwtTatiANG753eWsiQIHRR+Ds9apWb8ddpsIIu9mnmzHIo6cdio78BLWmz7eaFrxFaJ8GzAG4IlA9pGRrmNt3dlEDOmXyxN62bK9JIBv9QwEU9IlrFPbZFy8naAHHyBcbAdaKh6KeFibSQ6drpyNaSGXOUTqsqc+kkZKpsyktcBl5MOwA1w0IyizIUBmpoNZ+NlJNIEh+6DU6UK9pC7IQ1DPWM3Y4kY8QdK/BdcKUpJ2WU/b/1auotm7GT+vTOuLFO/h6wnVCy3grVpU5Ye5P51rObTt4WQEXyR+2nkbg8i6ZVXkCURNzCpEtal6E/O9aW1Q/+rA1f4tszHuevejFFY=;uomLPS+5s4SkM9MzvXZQHg=="
 ---
 

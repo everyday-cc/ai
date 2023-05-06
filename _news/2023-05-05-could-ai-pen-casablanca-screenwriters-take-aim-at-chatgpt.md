@@ -1,21 +1,29 @@
 ---
 category: news
-title: "Could AI pen ‘Casablanca’? Screenwriters take aim at ChatGPT"
-excerpt: "Not six months since the release of ChatGPT, generative artificial intelligence is already prompting widespread unease throughout Hollywood."
-publishedDateTime: 2023-05-05T13:45:00Z
-originalUrl: "https://www.seattletimes.com/business/could-ai-pen-casablanca-screenwriters-take-aim-at-chatgpt/"
-webUrl: "https://www.seattletimes.com/business/could-ai-pen-casablanca-screenwriters-take-aim-at-chatgpt/"
+title: "Could AI pen 'Casablanca'? Screenwriters take aim at ChatGPT"
+excerpt: "Not six months since the release of ChatGPT, generative artificial intelligence is already prompting widespread unease throughout Hollywood"
+publishedDateTime: 2023-05-05T09:43:00Z
+originalUrl: "https://abcnews.go.com/US/wireStory/ai-pen-casablanca-screenwriters-aim-chatgpt-99104871"
+webUrl: "https://abcnews.go.com/US/wireStory/ai-pen-casablanca-screenwriters-aim-chatgpt-99104871"
+ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/ai-pen-casablanca-screenwriters-aim-chatgpt-99104871"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/ai-pen-casablanca-screenwriters-aim-chatgpt-99104871"
 type: article
-quality: 17
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - AI
+
+images:
+  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+    width: 834
+    height: 308
+    isCached: true
 
 related:
   - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
@@ -550,16 +558,7 @@ related:
       name: Arabian Business
       domain: arabianbusiness.com
     quality: 11
-  - title: "9 Ways to Use ChatGPT for Small Business"
-    excerpt: "ChatGPT is a free and easy chat tool that can develop fairly well-written copy and help users brainstorm. Could it benefit your small business?"
-    publishedDateTime: 2023-05-01T12:38:00Z
-    webUrl: "https://www.businessnewsdaily.com/chat-gpt-business-uses"
-    type: article
-    provider:
-      name: Business News Daily
-      domain: businessnewsdaily.com
-    quality: 4
 
-secured: "hAANZ+fxiC1An0SwirIBED3m9br4BUDKNUKWiaoWO4rItYdVTosujAYLB8+kIqcyPESkS5m4Nk9ZNcc7ayefCgrTU1nRfuqsjGRPvkb06PeIBYsKFr7Hk8y5DAUQ1xQcmXKU69q2J12ej3+zejepR0R+hiWTpU45LqETCZqXCk+NMeaK2HAJJAk+M5PZps70Pp5ZgxwK8E+CdvC3eszKpy/rVb+DeaPz0wpJPxGkLBvIbvuTsm1D9hapUyw3AzNPP9D+6UkhJDcCBcas9W/5TdrELVC0tfC5hjsmQfRTOAAomgttp9zlrSNTkE/AgLTC5gfbjDA5mS6x4yJEGTZCwZEbsH8hm27omrHBRTyh6Vf7stXP1zsQen0rnv/HCTq3CFIP5nDWQWeQ+f0lMBswdjur3Q74bJuE92cd6TrArP9Zm2YOBYq0UaaL4iRxPaJrkkQybOGlqs7zhaq5qizArf2uj9EqPO3NpkTKAh3u4WWgy3LLxgl+NHAOf+uRL7ZfepXiz4IoEdZzOsRwZJesFQ==;lIao8E6zo87ZN1oNIXfpew=="
+secured: "6K2KPlEfGWGGo9a5U2gr0Ia5TN5DeZCGLKoJLiDlxeTDU2bzImNxJi9Pmx5LY2aqhqiKQyMd+JHC9q+46YYIRoDoykUNtqmHZ+4tKRGKdKORCvd7v11QnuWoDvRCpGRmG/w2L0FMEDBabnxJqFjplYL/vbaJQialqH8Aqw+nmG/JtvweFsL+24GIBcU+kCYTcVa3ZG/W848iTXeCq52IfdO0Q58Cv5sPnOyW/Tux3YySZATIMD4TiKSrI8e1tGEe1bR1HBGV0Vxw3jGqCYiOAm6rc4VwA/tTt//bEbDJR7+xysV18Nr6BBFijWZifXst+nv+njBXKZNS1ZZggI/DnjYZBMZBZbboFRr8nAgnAks=;Ga5tZn+FB1LTsneZh3HU+Q=="
 ---
 

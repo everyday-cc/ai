@@ -226,6 +226,22 @@ related:
         width: 600
         height: 314
         isCached: true
+  - title: "Could AI pen 'Casablanca'? Screenwriters take aim at ChatGPT"
+    excerpt: "Not six months since the release of ChatGPT, generative artificial intelligence is already prompting widespread unease throughout Hollywood"
+    publishedDateTime: 2023-05-05T09:43:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/ai-pen-casablanca-screenwriters-aim-chatgpt-99104871"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/ai-pen-casablanca-screenwriters-aim-chatgpt-99104871"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/ai-pen-casablanca-screenwriters-aim-chatgpt-99104871"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 57
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
   - title: "Chatbot ‘journalists’ found running almost 50 AI-generated content farms"
     excerpt: "Websites churn out content, often advancing false narratives, to saturate with adverts, says anti-misinformation firm"
     publishedDateTime: 2023-05-02T16:45:00Z
@@ -524,15 +540,6 @@ related:
       name: Detroit News
       domain: detroitnews.com
     quality: 19
-  - title: "Could AI pen ‘Casablanca’? Screenwriters take aim at ChatGPT"
-    excerpt: "Not six months since the release of ChatGPT, generative artificial intelligence is already prompting widespread unease throughout Hollywood."
-    publishedDateTime: 2023-05-05T13:45:00Z
-    webUrl: "https://www.seattletimes.com/business/could-ai-pen-casablanca-screenwriters-take-aim-at-chatgpt/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 17
   - title: "AI Impact Gets Real and Fast: IBM Pauses Hiring, Chegg Plunges on ChatGPT Challenge"
     excerpt: "Artificial intelligence is here and growing fast, putting jobs at risk and posing a complicated challenge for executives and policymakers."
     publishedDateTime: 2023-05-02T12:56:00Z
@@ -551,15 +558,6 @@ related:
       name: Arabian Business
       domain: arabianbusiness.com
     quality: 11
-  - title: "9 Ways to Use ChatGPT for Small Business"
-    excerpt: "ChatGPT is a free and easy chat tool that can develop fairly well-written copy and help users brainstorm. Could it benefit your small business?"
-    publishedDateTime: 2023-05-01T12:38:00Z
-    webUrl: "https://www.businessnewsdaily.com/chat-gpt-business-uses"
-    type: article
-    provider:
-      name: Business News Daily
-      domain: businessnewsdaily.com
-    quality: 4
 
 secured: "KmUVGPyDgMa6QXNi19YcPm4QyQZ06zYOI6YWeFlSnzS8nV1ItNsjVHGKbv7T9NENNJk8REMWlF0eGhehRZHXD9pRU7Coa2sW0LyiOMVTtdQE/hEITKl9i3NEXhj33Cyw5HYsGorjHltXDW/fixFq6RL7TA3fgCQwT5AxSlQuh504yOZtPRxVYbf3Am+K/sVrdyMrMhsX5XrG4Bbd9Qs4LuqhmVrFKsAKTZEQ/dweVVJdrdTJmQjmdzmVgESoDHCkqRFJffxQ/X6l2cSG4StlWSqZmhVja2LEEGrY2ZUcHp88KPZAxFdbMFjGbe3sZYWW5oWgiNP5DdnQocERM1APd/KkJxZm1dQnoi7IgjIknTqY8jpE96u+y2Y2PnBkeB6/zE5rq1X569WBtxeyi+xH+rdks60XWlNlzqxhxtfIAyvODcXrlzXTfy5q0vP9U52W1tmuPTZm4KBi40lyLGjyXjDvxIuThaDMtLQ7MfVlaDovQ1i7R29Ve8bRoQTtVTpXYl9t4RfDfCM+Tt00WpmaqQ==;4t7iuo3PeYB0XIQbzoydXQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.theaustralian.com.au/breaking-news/inquiry-into-indige
 webUrl: "https://www.theaustralian.com.au/breaking-news/inquiry-into-indigenous-voice-to-parliament-backflips-on-tony-abbott/news-story/f3a1ee73ed72e4117fdf6b5455b2bd0e"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -19,22 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Tony Abbott has claimed his government would not have been able to stop the boats if the Voice had existed"
-    excerpt: "Tony Abbott has warned Australians not to “plunge” the country “into the unknown” by supporting the Voice to Parliament, arguing that it will change the way we are governed."
-    publishedDateTime: 2023-05-01T11:23:00Z
-    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/tony-abbott-has-claimed-his-government-would-not-have-been-able-to-stop-the-boats-if-the-voice-had-existed/news-story/66d7114fb8330086706f94e148644d73"
-    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/tony-abbott-has-claimed-his-government-would-not-have-been-able-to-stop-the-boats-if-the-voice-had-existed/news-story/66d7114fb8330086706f94e148644d73?amp"
-    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/tony-abbott-has-claimed-his-government-would-not-have-been-able-to-stop-the-boats-if-the-voice-had-existed/news-story/66d7114fb8330086706f94e148644d73?amp"
+  - title: "Indigenous voice to parliament Yes ad campaign ‘misleading’"
+    excerpt: "The Yes campaign’s video advertisement urging viewers to vote in favour of constitutional recognition for Indigenous Australians is “misleading”, right-leaning ­activist group Advance Australia has claimed."
+    publishedDateTime: 2023-05-02T18:47:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/politics/indigenous-voice-to-parliament-yes-ad-campaign-misleading/news-story/8f99cc238712df42cf3d30e786637169"
     type: article
     provider:
-      name: Sky News Australia
-      domain: skynews.com.au
-    quality: 41
-    images:
-      - url: "https://content.api.news/v3/images/bin/79a00247f4e83da8662cc245b78ee7be"
-        width: 649
-        height: 366
-        isCached: true
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 19
 
 secured: "tqlZkrxse/YKzsl8dHZPrZY/CJb1Q/nQMbAFPAjr3aUh/Ta7VpjGuf1h1fQt73OGybAFHRGQ6myBMMfH83i1FSvfcKFBU9n30C+xo2BVOk1DhixXxjhtfC4FQD+wtOT0L5YlAkbfiHKDYQ2HBjUWHAS1eLrcpzoeoZaQAvGbbOj8oB/uEN1LM0zqvKuEaK9lPSMNG6Yk02vCqA1mhR0QMk1grgcWmh5hpjabbndLfpfHS4OgQSFE6Nt0YOr/ZKFnm5zhfZS5pPaj3unUKMPWgf0BSkeJ6CN2F3UV0UzYlcIPIlo2/eSpY/XHmTGAjvcLNpSg8V9o7e4q6jkcDHwg6vL4ClHfhFGnN2OdNTb91UX3x3iKwu7sMA4kfXArvk0GFv3h5uMmUoqEMKgSpg2b7PfwG3nnvteYpo8IXTqZN1mLKQlYhGPTXXfVs2hrLvqBzHqbI9VIgh0++Y7e6TZUXI3wb5ikE4eEBHF/BDXmKu2n/SF1+WDTbGNBOEVECnc7lNjxfc2POQivgJ4coSl70g==;ry5R0wfYQY63XoO9NOTMIQ=="
 ---
