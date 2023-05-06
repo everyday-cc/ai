@@ -51,6 +51,20 @@ related:
         height: 800
         isCached: true
   - title: "Artificial intelligence market faces review from UK watchdog"
+    excerpt: "Britain’s competition watchdog is opening a review of the artificial intelligence market, focusing on the technology underpinning chatbots like ChatGPT. The Competition Markets Authority said Thursday,"
+    publishedDateTime: 2023-05-04T17:18:00Z
+    webUrl: "https://www.mauinews.com/wire/?category=5187&ID=289935"
+    type: article
+    provider:
+      name: The Maui News
+      domain: mauinews.com
+    quality: 39
+    images:
+      - url: "https://ogden_images.s3.amazonaws.com/www.oniwire.com/images/2023/05/04170448/AP23124375037025.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Artificial intelligence market faces review from UK watchdog"
     excerpt: "Britain’s competition watchdog is opening a review of the artificial intelligence market, focusing on the technology underpinning chatbots like ChatGPT."
     publishedDateTime: 2023-05-04T10:45:00Z
     webUrl: "https://www.seattletimes.com/business/artificial-intelligence-market-faces-review-from-uk-watchdog/"

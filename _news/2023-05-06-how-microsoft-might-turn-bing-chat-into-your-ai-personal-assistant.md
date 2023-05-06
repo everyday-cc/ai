@@ -394,6 +394,20 @@ related:
         width: 620
         height: 465
         isCached: true
+  - title: "Microsoft And AMD Team Up To Make AI Processors"
+    excerpt: "Software giant Microsoft Corp. is working with the chipmaker Advanced Micro Devices Inc. (AMD) to jointly develop a new artificial intelligence (AI)"
+    publishedDateTime: 2023-05-05T17:38:00Z
+    webUrl: "https://www.techworm.net/2023/05/microsoft-and-amd-team-up-to-make-ai-processors.html"
+    type: article
+    provider:
+      name: techworm.net
+      domain: techworm.net
+    quality: 56
+    images:
+      - url: "https://www.techworm.net/wp-content/uploads/2023/05/Processor.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "CallMiner Collaborates with Microsoft to Enhance AI Capabilities"
     excerpt: "CallMiner Collaborates with Microsoft to Enhance AI and Machine Learning Capabilities for contact centres perform better and more efficiently"
     publishedDateTime: 2023-05-03T15:24:00Z
@@ -494,6 +508,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "6D8MlSbBm/InTcXfozRy3CvVxlI+kDl2WNmw2o3DDqOFJYuIddR9gI4J5TrUTVZmpNDkkAXc/nbVx9oogOhHOBiOFcAaKCjep3cy8U2Zu+dKl6JO54PY0uL2a+zN5rEss7EKW5186VQ7bD3t1eLVcv2T/ngLeaDq3KCO9pcMPyTv/sx4c48ntsszwC24LPIHnuRTPIjHSSDgsvoh4KUF1m3H9/BXiu4NzzzRaKef0uHu7Qybo0A3frq2nZ2Z37WE6c9EI+hDEC5xnML7fMWeRHEvrKnTpbvpmlzHwlGIIG48P6hY+mYlYw1eR29xYrQiaHdY36ivn25ib9wezgQiGtI5ihXRaDkgECwHX3OxDTo=;Hl49KqPoC+imUpKSMrEZUA=="
+secured: "M9n4+Yv1HBzzz1gddRhlBpeuaTSUKLTTld8pmpxb+dalXej5OYmE4AJCfpSgzGlHlBg6K/5pWTob87DoWDl+RJX8m+cX3/6aIUPEbVGxsWTuEZiGR39ZIJMuDRKCFDQHtWOSD6ibqf8HoragwfE+lMx7teW47zM/2E1yTEh38403bnsNLwKZnD/wG8Dwc7Rm7OEnaWa6qSvP4iq/OxZEpmtXc/J1UgankogrvJQknfnEAjAMAw4y50+idOzkXwOqQHZAw1a2+48a8USgfTn/9vaAWBmD3v3ZLJOPuJt90uGFvQyEdG3VxyRHSoodYoukpqKhvfxHmSai6lU+s3csbdNfU0qXdvusFMjtH4JFyig4MfdqKE5Djolq2j2FiZIPeI0unL8tR1h/7Olkda57jIuTDJX6oK6eMiTVu2dVkOiYDqh4SxIIzUjoTQT84Zc3Brf/Md9CtfNqxa/gcfQ70MRqWak9KSTKvlhlnEI7WTIXU84eZ/OCiFZLjKjONht0c8/X38pr/yI6sht+HRS2uA==;Foi5OSR5zSsg3qmEmmeTGQ=="
 ---
 

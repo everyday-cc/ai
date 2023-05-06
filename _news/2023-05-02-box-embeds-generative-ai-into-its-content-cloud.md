@@ -19,59 +19,95 @@ topics:
   - AI
 
 related:
-  - title: "It’s generative AI models vs. hackers at DEF CON’s AI Village"
-    excerpt: "This year’s DEF CON 31 security conference, being held August 10–13, will feature a public assessment of generative AI at the AI Village."
-    publishedDateTime: 2023-05-05T20:40:00Z
-    webUrl: "https://venturebeat.com/ai/its-generative-ai-models-vs-hackers-at-def-cons-ai-village/"
-    ampWebUrl: "https://venturebeat.com/ai/its-generative-ai-models-vs-hackers-at-def-cons-ai-village/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/its-generative-ai-models-vs-hackers-at-def-cons-ai-village/amp/"
+  - title: "Box Introduces Box AI To Bring The Power Of AI To Enterprise Content"
+    excerpt: "Vice President & Principal Analyst, Modern Work, Melody Brue, dives into Box AI, a new capabilities suite that natively integrates advanced AI models into the Box Content Cloud."
+    publishedDateTime: 2023-05-04T14:19:00Z
+    webUrl: "https://www.forbes.com/sites/moorinsights/2023/05/04/box-introduces-box-ai-to-bring-the-power-of-ai-to-enterprise-content/"
+    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/05/04/box-introduces-box-ai-to-bring-the-power-of-ai-to-enterprise-content/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/05/04/box-introduces-box-ai-to-bring-the-power-of-ai-to-enterprise-content/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6453be070729cea75deabd27/0x0.jpg?format=jpg&width=1200"
+        width: 468
+        height: 263
+        isCached: true
+  - title: "Accenture finds only 9% of enterprises harness AI’s full potential"
+    excerpt: "New Accenture report reveals key strategies \"operations reinventors\" use to achieve elevated levels of operational maturity."
+    publishedDateTime: 2023-05-02T22:03:00Z
+    webUrl: "https://venturebeat.com/ai/accenture-finds-only-9-of-enterprises-harness-ais-full-potential/"
+    ampWebUrl: "https://venturebeat.com/ai/accenture-finds-only-9-of-enterprises-harness-ais-full-potential/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/accenture-finds-only-9-of-enterprises-harness-ais-full-potential/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
     quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/05/VB_hackers_hackathon_bing_1200x800.jpg?w=1200&strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1366475366-e1665766594967.jpg?w=1200&strip=all"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
-  - title: "Hackers to Put AI Models From Google, OpenAI, More to the Test at Defcon 31"
-    excerpt: "In partnership with the White House, Defcon is calling on attendees at the hacker conference to find bugs in AI models from Google, Hugging Face, OpenAI, and more."
-    publishedDateTime: 2023-05-04T19:08:00Z
-    webUrl: "https://www.pcmag.com/news/hackers-to-put-ai-models-from-google-openai-more-to-the-test-at-defcon"
+  - title: "Leveraging The Power Of AI As A Small Business"
+    excerpt: "AI language models can help small businesses optimize their marketing, but they have limitations that every business owner should be aware of."
+    publishedDateTime: 2023-05-03T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/03/leveraging-the-power-of-ai-as-a-small-business/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/03/leveraging-the-power-of-ai-as-a-small-business/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/05/03/leveraging-the-power-of-ai-as-a-small-business/amp/"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 65
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://i.pcmag.com/imagery/articles/02dnoO4QzOEXSFteoSc3WHY-3.fit_lim.size_1200x630.v1683219099.jpg"
-        width: 1120
-        height: 630
+      - url: "https://imageio.forbes.com/specials-images/imageserve/642b0f04743b6df49adeb166/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Generative AI defined: How it works, benefits and dangers"
-    excerpt: "In April 2023, the European Union proposed new copyright rules for generative AI that would require companies to disclose any copyrighted material used to develop these tools. Hopes are that such rules will encourage transparency and ethics in AI ..."
-    publishedDateTime: 2023-05-04T19:22:00Z
-    webUrl: "https://www.techrepublic.com/article/what-is-generative-ai/"
+  - title: "Centene Makeover Continues As Health Insurer Divests Artificial Intelligence Platform"
+    excerpt: "Centene will divest Apixio, an artificial intelligence platform, as the health insurer focuses on its health benefits business and continues to review its portfolio."
+    publishedDateTime: 2023-05-04T00:01:00Z
+    webUrl: "https://www.forbes.com/sites/brucejapsen/2023/05/03/centene-makeover-continues-as-health-insurer-divests-artificial-intelligence-platform/"
+    ampWebUrl: "https://www.forbes.com/sites/brucejapsen/2023/05/03/centene-makeover-continues-as-health-insurer-divests-artificial-intelligence-platform/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucejapsen/2023/05/03/centene-makeover-continues-as-health-insurer-divests-artificial-intelligence-platform/amp/"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 49
-  - title: "FTC attorney says agency concerned with generative AI use"
-    excerpt: "Companies developing novel artificial intelligence (AI) tools might want to think carefully before laying off ethics personnel, an attorney with the Federal Trade Commission (FTC) warned. The agency is closely tracking company use of AI tools for possible ..."
-    publishedDateTime: 2023-05-02T19:34:00Z
-    webUrl: "https://www.complianceweek.com/regulatory-policy/ftc-attorney-says-agency-concerned-with-generative-ai-use/33027.article"
-    type: article
-    provider:
-      name: Compliance Week
-      domain: complianceweek.com
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 82
     images:
-      - url: "https://d6jxgaftxvagq.cloudfront.net/Pictures/1024x536/8/9/1/16891_artificialintelligenceethics_852683.jpg"
-        width: 1024
-        height: 536
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5dca0d42f5b54ee0b18a87a03661ea94/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 765
         isCached: true
+  - title: "We need to bring consent to AI"
+    excerpt: "This week's big news is that Geoffrey Hinton, a VP and Engineering Fellow at Google, and a pioneer of deep learning who developed some of the most important techniques at the heart of modern AI, is leaving the company after 10 years. But first, we need to talk about consent in AI."
+    publishedDateTime: 2023-05-02T09:47:00Z
+    webUrl: "https://www.technologyreview.com/2023/05/02/1072556/we-need-to-bring-consent-to-ai/"
+    ampWebUrl: "https://www.technologyreview.com/2023/05/02/1072556/we-need-to-bring-consent-to-ai/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/05/02/1072556/we-need-to-bring-consent-to-ai/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/04/opt-out-writing.jpeg?w=3000"
+        width: 3000
+        height: 1688
+        isCached: true
+  - title: "Scientists use power of AI to supercharge planetary studies"
+    excerpt: "A new technique for detecting planetary craters that will allow scientists to accurately map the surfaces of planets using different types of data could be used in future space missions."
+    publishedDateTime: 2023-05-01T18:10:00Z
+    webUrl: "https://phys.org/news/2023-05-scientists-power-ai-supercharge-planetary.html"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 17
 
 secured: "Xr9hUOzbyToTevQql7xmOKQ7N6YiS6tzZPQOW5OeXAvm355+NBy2n+bZTzVO4JQfOUqNCQVEGUbOU4+M4ZGeTFQZYxYTbd5dRgQgZgZbiIjX5CispM8E6pWfi9SGAJ7GlYzksmnxe4BzRpSBBtn9h/bihiiTzYxg3/NlOEtov8lzjdC/0c9v+NCu/6jU51q4YTl0Y9h41EYsg+4B6SZlFipWeuW6jfhnL3MvMWLGDWkjPmj4ARaM8vIjVcNtBBsYNHRaY2p7ejwWWWRiCFx6+/r3bRc0iMobrKdFvfy3b7+GHhXZNhiQeyOFityOwg/cwyhNIbXvDkHQecyNM2JAO5WSvjuFMY92DtPMWZpaj208vv9Vy9g3X5qx3BPTarPWuFlxz7MAxTTCTAmBXzMNF2n/kmXSALa2+uAPGr7+g4aOyPPq5n4e03jG4PbDUYEZWN638nmXdbVz/TrWtFfT/rbuVBD9/LZ4ErNCaHRNZKwriHYKwkyw4K/ZsDXVyfc+izjRnQRNyDe4Sf1qynBHMw==;/gwF4cnxRCUBQR0o4kGc1Q=="
 ---

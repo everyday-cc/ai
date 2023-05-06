@@ -103,6 +103,17 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 47
+  - title: "The next fear on AI: Hollywood’s killer robots become the military’s tools | Analysis"
+    excerpt: "U.S. national security officials are warning about the potential for the new technology to upend war, cyber conflict and — in the most extreme case — the use of nuclear weapons."
+    publishedDateTime: 2023-05-06T02:18:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/the-next-fear-on-ai-hollywoods-killer-robots-become-the-militarys-tools-analysis/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/the-next-fear-on-ai-hollywoods-killer-robots-become-the-militarys-tools-analysis/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/the-next-fear-on-ai-hollywoods-killer-robots-become-the-militarys-tools-analysis/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 47
   - title: "Screenwriters want to stop AI from taking their jobs. Studios want to see what the tech can do."
     excerpt: "Striking film and TV writers are pushing to put strict guardrails around how studios use AI in the scripting process."
     publishedDateTime: 2023-05-03T16:17:00Z
@@ -132,6 +143,20 @@ related:
       - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
         width: 619
         height: 377
+        isCached: true
+  - title: "If AI Is the Future of Hollywood, We’re All F*cked"
+    excerpt: "Writers in Hollywood are seeking protection against AI encroaching on human jobs. If we’re smart, we’ll stand behind them."
+    publishedDateTime: 2023-05-06T03:36:00Z
+    webUrl: "https://www.thedailybeast.com/if-ai-is-the-future-of-hollywood-were-all-screwed"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 37
+    images:
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1683327842/230505-hollywood-ai-hero_tdbcw2"
+        width: 1480
+        height: 833
         isCached: true
 
 secured: "fhzFrt9ggcUnvqpPOHkUf7GDLGfVUiUPW4Mz0rkKapYOCPrHC+m1NXP/YSHVj883K4RCgHmkFGC4/MsDCPA/9nDr0RSbxHtEgT2CtS/jIGSsh+OzznV9XlLYKTfxHKKyh6/W4WU4I2SAECC7m6oBxGjiaw+SfqHa3SGJ2KjtKUPpxGvAN+jSfJDb34Qw3DDgW3Gs8GxeanSBTek5qoX7oS1p94cRxLgq/pJ1IwHhv50m+mBTzfLSgX7Co6FX4zXy+GMAnqUUKAbmQ6lXk3RvqW7YmNdKsquSrafMa4euZWpY7XkZgvyxzA7XXUr3sDuhsaL7PU5UqMErcUWAfb7P/Tj3H6wIuZO/5Cs1O/dQu38qoudHpANUegzbOU/ANSzpVdfNHI240D+AGhnhC+x5lK0w2TrWqcF9Yxg3NF+f5OWjuaNODU0YA2+DPJd9f/yxg/HAXUSxPSLSnhoQbgRwTAeTdjwRjxcjscAfrG8gcmwdykga8vUFeFeAYqRIj3lAG53CKVcfPbbofFTyeWvAOQ==;J0NCWBv4gcb6EYwITUqwkw=="

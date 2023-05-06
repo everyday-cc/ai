@@ -21,17 +21,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "How to Introduce Your Employees to Artificial Intelligence"
-    excerpt: "A.I.' is a booming buzzword, but some team members might be apprehensive about the technology. Here's how to ease its adoption in your workplace."
-    publishedDateTime: 2023-05-01T10:12:00Z
-    webUrl: "https://www.inc.com/sarah-lynch/how-to-introduce-your-employees-to-artificial-intelligence.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 21
-
 secured: "9ZKAZw4er3boAtCTAW2rXwCA4dsdU2U84OMx4Wwk3JdMzFHkrvBIQN7aPAoO7TLD8Hc0s6v7tX/mkWy6KJa1dYylYbvVHOvyhBtdtp4MVXVfrN7NfwQi3sBTnPhvk7l8cP1ZolwC94I5yfWMqQlAJycYtzgaCnOCntb0nEhJDOD+LNP2OssteVkniVcOhaWZCu99tHpa7CmhfQhv+g9LisnttXkZNVOgfCVwdQEODw/R7QnsIn6surylMQuLSgOSeUZ973llTGZhkORpkroxMbIoQteKoJCq7aovSIH4Cf1exKr2LKN3LeU8JndNatw1bsC+kx08TonwHMwRHgkZX4H2e5Ticq0WDMrmxwFnl4oIgX90dMYvNnqB8JvWdmaqqTS5Ev6gh5kb6dMF66gK+qCG13wb55Uf4Ppg64orUw9yaYvjd6t6/d4OccjRaEZQNkeZ70YzZlSa3qVuuyA10pZjzdzEz9k+Ql3CgpahVPgz27N44NGl3nM9LsWYD8/ITsg7H9rDSL9DhRSXbvy+bQ==;iaeb8T9PKN607CFYMC7dsw=="
 ---
 

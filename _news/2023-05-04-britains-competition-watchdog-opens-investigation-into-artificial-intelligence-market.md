@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/world/britains-competition-watchdog-opens-in
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/britains-competition-watchdog-opens-investigation-artificial-intelligence-market.amp"
 type: article
 quality: 94
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://images.idgesg.net/images/article/2019/08/uk_united_kingdom_london_cityscape_skyline_skyscrapers_network_connections_smart_city_by_ir_stone_gettyimages-902601546_2400x1600-100807128-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Artificial intelligence market faces review from UK watchdog"
+    excerpt: "Britain’s competition watchdog is opening a review of the artificial intelligence market, focusing on the technology underpinning chatbots like ChatGPT. The Competition Markets Authority said Thursday,"
+    publishedDateTime: 2023-05-04T17:18:00Z
+    webUrl: "https://www.mauinews.com/wire/?category=5187&ID=289935"
+    type: article
+    provider:
+      name: The Maui News
+      domain: mauinews.com
+    quality: 39
+    images:
+      - url: "https://ogden_images.s3.amazonaws.com/www.oniwire.com/images/2023/05/04170448/AP23124375037025.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "AI investigated in UK over fears of domination"
     excerpt: "The Competition and Markets Authority (CMA) is launching a review of the artificial intelligence (AI) market. It will include the models behind popular chatbots like ChatGPT. The AI industry has faced scrutiny from regulators lately, over the pace at which it is developing technology to mimic human behaviour."

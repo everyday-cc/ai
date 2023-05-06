@@ -151,19 +151,19 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Harris to meet with CEOs about artificial intelligence risks"
-    excerpt: "Vice President Kamala Harris will meet with the CEOs of four major companies developing artificial intelligence. The Biden administration is rolling out initiatives meant to ensure the rapidly evolvin"
-    publishedDateTime: 2023-05-04T11:22:00Z
-    webUrl: "https://omaha.com/news/science/article_2be5fceb-7e7e-5b20-93a6-2fc9680f8df6.html"
+  - title: "White House unveils an AI plan ahead of meeting with tech CEOs"
+    excerpt: "CNN By Brian Fung, CNN The White House on Thursday announced a series of measures to address the challenges of artificial intelligence, driven by the sudden popularity of tools such as ChatGPT and amid rising concerns about the technology’s potential risks for discrimination,"
+    publishedDateTime: 2023-05-04T21:18:00Z
+    webUrl: "https://kesq.com/money/cnn-social-media-technology/2023/05/04/white-house-unveils-an-ai-plan-ahead-of-meeting-with-tech-ceos/"
     type: article
     provider:
-      name: Omaha.com
-      domain: omaha.com
+      name: KESQ News
+      domain: kesq.com
     quality: 39
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/d/da/dda7c97f-af2f-5ee4-a06d-19e464a12917/6453895152383.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
+      - url: "https://kesq.b-cdn.net/2023/05/hypatia-h_9dfc3363f190ea51a20993445362a943-h_f35f6fb89accb1580ccc1f934a872977-300-scaled.jpg"
+        width: 2560
+        height: 1707
         isCached: true
   - title: "Harris meets with CEOs about artificial intelligence risks"
     excerpt: "Vice President Kamala Harris will meet with the CEOs of four major companies developing artificial intelligence."

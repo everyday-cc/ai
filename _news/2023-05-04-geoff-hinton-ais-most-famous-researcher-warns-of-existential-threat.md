@@ -74,22 +74,6 @@ related:
         width: 1500
         height: 842
         isCached: true
-  - title: "Deep learning pioneer Geoffrey Hinton quits Google"
-    excerpt: "Geoffrey Hinton, a VP and Engineering Fellow at Google, and a pioneer of deep learning who developed some of the most important techniques at the heart of modern AI, is leaving the company after 10 years, the New York Times reported today."
-    publishedDateTime: 2023-05-01T09:25:00Z
-    webUrl: "https://www.technologyreview.com/2023/05/01/1072478/deep-learning-pioneer-geoffrey-hinton-quits-google/"
-    ampWebUrl: "https://www.technologyreview.com/2023/05/01/1072478/deep-learning-pioneer-geoffrey-hinton-quits-google/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/05/01/1072478/deep-learning-pioneer-geoffrey-hinton-quits-google/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/04/eyevine01515042.jpeg?w=2845"
-        width: 2845
-        height: 2000
-        isCached: true
   - title: "Deep learning pioneer Geoffrey Hinton has quit Google"
     excerpt: "Hinton will be speaking at EmTech Digital on Wednesday. Geoffrey Hinton, a VP and engineering fellow at Google and a pioneer of deep learning who developed some of the most important techniques at ..."
     publishedDateTime: 2023-05-03T02:04:00Z

@@ -115,7 +115,7 @@
       "originalUrl": "https://www.reuters.com/article/amd-ai-microsoft/update-1-microsoft-helping-finance-amds-expansion-into-ai-chips-bloomberg-idUSL4N3714JL",
       "featuredContent": null,
       "highlight": null,
-      "heat": 448,
+      "heat": 458,
       "tags": null,
       "images": [
         {
@@ -307,6 +307,58 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-05-02-best-fintech-app-development-companies-in-the-usa.md",
+      "title": "Best Fintech App Development Companies in the USA",
+      "excerpt": "Fintech app development services are known to develop diverse fintech apps. The introduction involves creating",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/best-fintech-app-development-companies-in-the-usa-2023-05-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/best-fintech-app-development-companies-in-the-usa-2023-05-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-02T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
       ]
     },
     {
@@ -1383,58 +1435,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-17-cpi-hits-two-year-low-and-bank-earnings-smash-wall-street-estimates-forbes-ai-newsletter-april-15th.md",
-      "title": "CPI Hits Two-Year Low And Bank Earnings Smash Wall Street Estimates - Forbes AI Newsletter April 15th",
-      "excerpt": "Subscribe to the Forbes AI newsletter to stay in the loop and get AI-backed investing insights, the latest news and more delivered directly to your inbox every weekend.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2023/04/17/cpi-hits-two-year-low-and-bank-earnings-smash-wall-street-estimatesforbes-ai-newsletter-april-15th/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2023/04/17/cpi-hits-two-year-low-and-bank-earnings-smash-wall-street-estimatesforbes-ai-newsletter-april-15th/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/643d64d6f54f1ea9b53bf6fd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 848,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/04/17/cpi-hits-two-year-low-and-bank-earnings-smash-wall-street-estimatesforbes-ai-newsletter-april-15th/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/04/17/cpi-hits-two-year-low-and-bank-earnings-smash-wall-street-estimatesforbes-ai-newsletter-april-15th/amp/",
-      "publishedDateTime": "2023-04-17T08:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

@@ -63,7 +63,7 @@
       "originalUrl": "https://www.reuters.com/article/amd-ai-microsoft/update-1-microsoft-helping-finance-amds-expansion-into-ai-chips-bloomberg-idUSL4N3714JL",
       "featuredContent": null,
       "highlight": null,
-      "heat": 448,
+      "heat": 458,
       "tags": null,
       "images": [
         {
@@ -117,7 +117,7 @@
       "originalUrl": "https://www.zdnet.com/article/openai-microsoft-and-alphabet-ceos-to-discuss-ai-with-biden-administration-today/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 178,
+      "heat": 188,
       "tags": null,
       "images": [
         {
@@ -158,6 +158,58 @@
       "topics": [
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-04-box-introduces-box-ai-to-bring-the-power-of-ai-to-enterprise-content.md",
+      "title": "Box Introduces Box AI To Bring The Power Of AI To Enterprise Content",
+      "excerpt": "Vice President & Principal Analyst, Modern Work, Melody Brue, dives into Box AI, a new capabilities suite that natively integrates advanced AI models into the Box Content Cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/05/04/box-introduces-box-ai-to-bring-the-power-of-ai-to-enterprise-content/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/05/04/box-introduces-box-ai-to-bring-the-power-of-ai-to-enterprise-content/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6453be070729cea75deabd27/0x0.jpg?format=jpg&width=1200",
+          "width": 468,
+          "height": 263,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/05/04/box-introduces-box-ai-to-bring-the-power-of-ai-to-enterprise-content/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/05/04/box-introduces-box-ai-to-bring-the-power-of-ai-to-enterprise-content/amp/",
+      "publishedDateTime": "2023-05-04T07:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -1456,58 +1508,6 @@
         "name": "Computerworld",
         "domain": "computerworld.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-26-microsoft-reports-earnings-beat-says-ai-will-drive-revenue-growth.md",
-      "title": "Microsoft reports earnings beat, says A.I. will drive revenue growth",
-      "excerpt": "Microsoft surpassed expectations on the top and bottom lines and beat estimates on quarterly revenue guidance. Growth from Azure and other cloud services slowed to 27% from 31% in the prior ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/04/25/microsoft-msft-q3-earnings-report-2023.html",
-      "originalUrl": "https://www.cnbc.com/2023/04/25/microsoft-msft-q3-earnings-report-2023.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107177565-1673483190912-gettyimages-1244789744-SKOREA_MICROSOFT.jpeg?v=1682455591",
-          "width": 4000,
-          "height": 2668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/04/25/microsoft-msft-q3-earnings-report-2023.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/04/25/microsoft-msft-q3-earnings-report-2023.html",
-      "publishedDateTime": "2023-04-25T18:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

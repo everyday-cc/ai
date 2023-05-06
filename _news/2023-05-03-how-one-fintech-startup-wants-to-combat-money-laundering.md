@@ -28,20 +28,6 @@ images:
 
 related:
   - title: "Best Fintech App Development Companies in the USA"
-    excerpt: "Fintech apps are designed for various purposes such as payments, budgeting, investing, and lending. Fintech app development incorporates advanced technologies such as AI, ML, and Blockchain. Developing a fintech app requires expertise in both finance and technology,"
-    publishedDateTime: 2023-05-01T09:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/best-fintech-app-development-companies-in-the-usa-2023-05-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Best Fintech App Development Companies in the USA"
     excerpt: "Fintech app development services are known to develop diverse fintech apps. The introduction involves creating"
     publishedDateTime: 2023-05-02T15:29:00Z
     webUrl: "https://www.marketwatch.com/press-release/best-fintech-app-development-companies-in-the-usa-2023-05-02"

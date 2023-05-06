@@ -9,7 +9,7 @@ ampWebUrl: "https://talkingbiznews.com/media-news/how-venturebeat-plans-to-use-a
 cdnAmpWebUrl: "https://talkingbiznews-com.cdn.ampproject.org/c/s/talkingbiznews.com/media-news/how-venturebeat-plans-to-use-ai-in-its-content/amp/"
 type: article
 quality: 59
-heat: -1
+heat: 59
 published: false
 
 provider:
@@ -25,40 +25,6 @@ images:
     width: 535
     height: 477
     isCached: true
-
-related:
-  - title: "Accenture finds only 9% of enterprises harness AI’s full potential"
-    excerpt: "New Accenture report reveals key strategies \"operations reinventors\" use to achieve elevated levels of operational maturity."
-    publishedDateTime: 2023-05-02T22:03:00Z
-    webUrl: "https://venturebeat.com/ai/accenture-finds-only-9-of-enterprises-harness-ais-full-potential/"
-    ampWebUrl: "https://venturebeat.com/ai/accenture-finds-only-9-of-enterprises-harness-ais-full-potential/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/accenture-finds-only-9-of-enterprises-harness-ais-full-potential/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1366475366-e1665766594967.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Salesforce and Accenture partner to create acceleration hub for generative AI"
-    excerpt: "Acceleration hub from Salesforce and Accenture will use the companies' AI and connected customer skills to help clients harness generative AI."
-    publishedDateTime: 2023-05-05T00:28:00Z
-    webUrl: "https://venturebeat.com/ai/salesforce-accenture-partner-create-acceleration-hub-generative-ai/"
-    ampWebUrl: "https://venturebeat.com/ai/salesforce-accenture-partner-create-acceleration-hub-generative-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/salesforce-accenture-partner-create-acceleration-hub-generative-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 84
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/03/Salesforce-logo_2023.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "ZaPXjKXemkGMJCvYoDlyiwgZhqTteLBay6Ox2v2WDqRUEPvYAhmWEcbxa6+WHMjTB30waWKFauvd00h4gAatucjC1o6XAllvaeAcXq741b/HPb187LCbtbtdr2dDCPny/8JKKOP80iZDJEaHeRXHRFrt6LYTo5StGzreI4UzeFlUbGXJIq7K42v88cjTRdcaiAYbbBKmc91o40VzrfZolHGbGIuxo9dG7X/p7XetRoWah9pIBhUfhzXfPq8uHetX/obe/PR/x4KYm5+ETZwxzmCqCyiosKFC+RDO2edGZz48pz47fw5nt7/swdtOe0ftOo1CearG1x4xn4bPbDrE+ZXtbNxstFn7tSPNEIbDsFlhRMm1bOQS+UrwBXLGsBJHlEk5W0Y+yNOAD1oDjNOPa7izJxhJA8PkHYPVMKBKlypMhHZVifiUzYAVSRWfUJk82XaxAtWyyU+ASTXAbY04+vt5uGALu9420UQ3qWemM011/XYwS77dVMSkKHRU2F2VkWAC5/tNaTFFluuxFlKuzA==;2PzO6YMts81ZBzPxfP+mXQ=="
 ---

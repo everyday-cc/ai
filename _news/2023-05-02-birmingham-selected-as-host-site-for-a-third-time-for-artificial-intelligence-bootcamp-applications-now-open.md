@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Twin Cities Selected as Host Site for a 2nd Time for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
+    excerpt: "U.S. in fall 2023. The bootcamp will be held over four consecutive Saturdays starting on October 14th and ending on November 4 th from 1-5pm CT. If accepted, participants must commit to attending all four sessions."
+    publishedDateTime: 2023-05-02T14:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/twin-cities-selected-as-host-site-for-a-2nd-time-for-artificial-intelligence-bootcamp---applications-now-open-2023-05-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "pqJX+vO248gIAR7yG4FBr2db+IsZGlmgv51sNMUIXFGZXB9nR4zESaBzQi440nhNXUNXRIf6+uGHOr2ekO4XHiGefZcEorGVC3Qg78KirHXKsi5u6kW6Hir7WRKL4buNqYQGoqpzACTCnbnerp+zHD0IzMovGRxRdI2Yhl67Um0tzaa/7FHGAfIZniKMDbgOMuEsiR5Hx7+gmMjBwHvIEcW3l66VDU6CWXT/yrUjvb9eA5mowP4IVm5M2mx2SoU2+FGL+WvxpY6S+iz38uu0BNRNOZvmYasazZxfLv7P2YJ150B+HstFG02InutZHD7NnDmSW6GYlbI8/5bIZI0PuJ9wHOlIud3JTvt99Dc93eY=;RFNYikw91+ym89jbH7O/Zw=="
 ---

@@ -10,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/ai/its-generative-ai-models-vs-hackers-at-def-cons-ai-village/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -61,7 +61,7 @@
       "originalUrl": "https://venturebeat.com/ai/apple-plans-generative-ai-tim-cook-wants-to-be-thoughtful/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -1202,7 +1202,7 @@
       "originalUrl": "https://www.foxnews.com/opinion/greg-gutfeld-can-kamala-harris-handle-her-new-position-on-ai-or-will-she-wing-it",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -1245,21 +1245,21 @@
       ]
     },
     {
-      "path": "_news/2023-05-05-white-house-big-tech-bosses-told-to-protect-public-from-ai-risks.md",
-      "title": "White House: Big Tech bosses told to protect public from AI risks",
-      "excerpt": "Tech bosses were summoned to the White House on Thursday and told they must protect the public from the dangers of Artificial Intelligence (AI). Sundar Pichai of Google, Satya Nadella of Microsoft, and OpenAI's Sam Altmann were told they had a \"moral\" duty to safeguard society.",
+      "path": "_news/2023-05-05-salesforce-and-accenture-partner-to-create-acceleration-hub-for-generative-ai.md",
+      "title": "Salesforce and Accenture partner to create acceleration hub for generative AI",
+      "excerpt": "Acceleration hub from Salesforce and Accenture will use the companies' AI and connected customer skills to help clients harness generative AI.",
       "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/business-65489163",
-      "originalUrl": "https://www.bbc.com/news/business-65489163",
+      "webUrl": "https://venturebeat.com/ai/salesforce-accenture-partner-create-acceleration-hub-generative-ai/",
+      "originalUrl": "https://venturebeat.com/ai/salesforce-accenture-partner-create-acceleration-hub-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 94,
       "tags": null,
       "images": [
         {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/E7CC/production/_129604395_aigetty.png",
-          "width": 1024,
-          "height": 576,
+          "url": "https://venturebeat.com/wp-content/uploads/2023/03/Salesforce-logo_2023.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1267,16 +1267,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/business-65489163.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-65489163.amp",
-      "publishedDateTime": "2023-05-04T17:02:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/ai/salesforce-accenture-partner-create-acceleration-hub-generative-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/salesforce-accenture-partner-create-acceleration-hub-generative-ai/amp/",
+      "publishedDateTime": "2023-05-04T17:28:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

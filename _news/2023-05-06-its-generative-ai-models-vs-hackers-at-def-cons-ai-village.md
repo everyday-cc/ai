@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/its-generative-ai-models-vs-hackers-at-de
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/its-generative-ai-models-vs-hackers-at-def-cons-ai-village/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -67,16 +67,7 @@ related:
         width: 1024
         height: 536
         isCached: true
-  - title: "Box embeds generative AI into its Content Cloud"
-    excerpt: "Announced at Box’s Content Cloud Summit today, Box AI is billed as a suite of AI capabilities that will primarily focus on two things: helping users to ask questions about documents and creating new content in Box."
-    publishedDateTime: 2023-05-02T12:00:00Z
-    webUrl: "https://siliconangle.com/2023/05/02/box-embeds-generative-ai-content-cloud/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 19
 
-secured: "ZBLCSIa7YkzclcgsEKK3oknXCB/Lz7DT90e08q8Bi86QGmCNOA9/U1zEQHSDv/hX6aPfvjF3VjQoCvU9aXtQQe6bBwWth76VRHojBWe4hiIXlyNOR7gKVK6jhRzwwR///a4ZYUImUo2kBtt8jiltD97Pjct1NrxIkiNnx0qyK3oflxaG89lIjsnBcoYldf3xqfk11AwXujIu/Fom6z6kHcZTK+wR59YeqZ/h0RxU1t+ICQqC5jbqKgsn5rS28WmYKzn2lwkbfXJhv0fOQToWlj5dAcwX9mBvj3E04lt5MBoXM/zwwtCz/tdM9n2Y2rBd0zgFTBWciii9X73Jha/AkdaDdLEVD7PQKb+F/xF4M0g=;dOakI5ThIHWkjh7VK8kCzA=="
+secured: "83FwzKj7PX5B8Kt+dYifT27XpHSHYiSu4BgGVdebjKdeyh42y15acyUsbtaMbCWHbrQIYaSjV0CJkYdrF0EsWgcT8PENzdQXj7eylCwYcvCcZmN056ilRTpE2X9WBPzP6rfDGVgTfwpuOzcRomF1pe5CEdoZCgVcbdrfUUdjnBcLkFjTnSaaljZGmfyI39LPT51J9MdAAm31I0M6/todA2fFriadZigSeaHuy87TpcT/D3+txt2TaLkeYoj6J4+tBkwrmaZghwT+vjQxgphkRxNDNH8l8DxPPleuhvGvhfD6RwlNJpheizVchpaFCN01bGzt6S58RQBeKozJ0k/7FOlexP019iR8Pse/vNN2hYZcRf6lMVlu0/x+vI2Fab78yOhXE8bdnZmdYK9TM+aVmlWLJwgLLQGGuV5eybp6DOtCuPyoodzuR/doctmzDcCY8FHugRyqAd8xXKlbk6zfwkdd5SmGblu9emCuon5A/kZ7UmHvJ81Ob+k8YJFJ2BG2ZKoXxZbJKO9vDrASwcBfEA==;ROu+555aY+v4cFcV9WWXYA=="
 ---
 

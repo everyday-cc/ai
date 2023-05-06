@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-05-05-white-house-big-tech-bosses-told-to-protect-public-from-ai-risks.md",
+      "title": "White House: Big Tech bosses told to protect public from AI risks",
+      "excerpt": "Tech bosses were summoned to the White House on Thursday and told they must protect the public from the dangers of Artificial Intelligence (AI). Sundar Pichai of Google, Satya Nadella of Microsoft, and OpenAI's Sam Altmann were told they had a \"moral\" duty to safeguard society.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/business-65489163",
+      "originalUrl": "https://www.bbc.com/news/business-65489163",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/E7CC/production/_129604395_aigetty.png",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/business-65489163.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-65489163.amp",
+      "publishedDateTime": "2023-05-04T17:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-05-qatar-adopts-speech-recognition-ai-to-boost-prosecution-efficiency.md",
       "title": "Qatar Adopts Speech Recognition AI To Boost Prosecution Efficiency",
       "excerpt": "Qatar has started to use AI speech-to-text technology in public prosecution to boost efficiency, local media reported Thursday, trend reports citing",
@@ -251,7 +302,7 @@
       "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/05/04/synopsysairevolutionizing-chip-design-through-ai-driven-eda-suite/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -588,7 +639,7 @@
       "originalUrl": "https://www.reuters.com/article/amd-ai-microsoft/update-1-microsoft-helping-finance-amds-expansion-into-ai-chips-bloomberg-idUSL4N3714JL",
       "featuredContent": null,
       "highlight": null,
-      "heat": 448,
+      "heat": 458,
       "tags": null,
       "images": [
         {
@@ -631,57 +682,6 @@
         "AI",
         "AI in Finance",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-salesforce-launches-slackgpt-embracing-generative-ai-for-enterprise-workflows.md",
-      "title": "Salesforce launches SlackGPT, embracing generative AI for enterprise workflows",
-      "excerpt": "Salesforce today announced SlackGPT, a new generative AI-powered experience planned for the Slack app, to be released soon.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/salesforce-launches-slackgpt-embracing-generative-ai-for-enterprise-workflows/",
-      "originalUrl": "https://venturebeat.com/ai/salesforce-launches-slackgpt-embracing-generative-ai-for-enterprise-workflows/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1231317627.jpg?w=1200&strip=all",
-          "width": 1018,
-          "height": 574,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/salesforce-launches-slackgpt-embracing-generative-ai-for-enterprise-workflows/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/salesforce-launches-slackgpt-embracing-generative-ai-for-enterprise-workflows/amp/",
-      "publishedDateTime": "2023-05-04T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {
@@ -745,7 +745,7 @@
       "originalUrl": "https://www.zdnet.com/article/openai-microsoft-and-alphabet-ceos-to-discuss-ai-with-biden-administration-today/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 178,
+      "heat": 188,
       "tags": null,
       "images": [
         {
@@ -891,6 +891,58 @@
       ]
     },
     {
+      "path": "_news/2023-05-04-box-introduces-box-ai-to-bring-the-power-of-ai-to-enterprise-content.md",
+      "title": "Box Introduces Box AI To Bring The Power Of AI To Enterprise Content",
+      "excerpt": "Vice President & Principal Analyst, Modern Work, Melody Brue, dives into Box AI, a new capabilities suite that natively integrates advanced AI models into the Box Content Cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/05/04/box-introduces-box-ai-to-bring-the-power-of-ai-to-enterprise-content/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/05/04/box-introduces-box-ai-to-bring-the-power-of-ai-to-enterprise-content/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6453be070729cea75deabd27/0x0.jpg?format=jpg&width=1200",
+          "width": 468,
+          "height": 263,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/05/04/box-introduces-box-ai-to-bring-the-power-of-ai-to-enterprise-content/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/05/04/box-introduces-box-ai-to-bring-the-power-of-ai-to-enterprise-content/amp/",
+      "publishedDateTime": "2023-05-04T07:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-04-britains-competition-watchdog-opens-investigation-into-artificial-intelligence-market.md",
       "title": "Britain's competition watchdog opens investigation into artificial intelligence market",
       "excerpt": "The Competition Markets Authority in Britain is investigating the artificial intelligence market. The investigation will focus on the technology underpinning chatbots.",
@@ -899,7 +951,7 @@
       "originalUrl": "https://www.foxnews.com/world/britains-competition-watchdog-opens-investigation-artificial-intelligence-market",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -1086,7 +1138,7 @@
       "originalUrl": "https://www.wired.com/story/joe-biden-hackers-chatgpt-ai-chatbots/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1125,7 +1177,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Facebook AI"
       ]
     },
     {
@@ -1176,58 +1229,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-gpt-based-ai-neural-network-decodes-brain-activity-without-surgery.md",
-      "title": "GPT-based AI Neural Network Decodes Brain Activity without Surgery",
-      "excerpt": "This research can help patients with conditions such as locked-in syndrome, where patients are unable to communicate due to paralysis",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2023/05/04/gpt-based-neural-network-decodes-brain/",
-      "originalUrl": "https://www.gizmochina.com/2023/05/04/gpt-based-neural-network-decodes-brain/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2023/05/alina-grubnyak-ZiQkhI7417A-unsplash-1024x683-1.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-04T00:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

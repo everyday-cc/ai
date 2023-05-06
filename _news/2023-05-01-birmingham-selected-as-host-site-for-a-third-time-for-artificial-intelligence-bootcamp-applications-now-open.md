@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Twin Cities Selected as Host Site for a 2nd Time for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
+    excerpt: "U.S. in fall 2023. The bootcamp will be held over four consecutive Saturdays starting on October 14th and ending on November 4 th from 1-5pm CT. If accepted, participants must commit to attending all four sessions."
+    publishedDateTime: 2023-05-02T14:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/twin-cities-selected-as-host-site-for-a-2nd-time-for-artificial-intelligence-bootcamp---applications-now-open-2023-05-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Birmingham Selected as Host Site for a Third Time for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
     excerpt: "For the third time, Protective Life Corporation will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students at no-cost in the Fall of 2023. The AI Bootcamp in Birmingham will be targeted at underserved high school students (9th-12 th grade) and will introduce these high school students to basic AI concepts and skills."
     publishedDateTime: 2023-05-01T17:00:00Z

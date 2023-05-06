@@ -79,15 +79,6 @@ related:
         width: 560
         height: 560
         isCached: true
-  - title: "The coming AI chip shortage"
-    excerpt: "Artificial intelligence requires semiconductors with powerful graphics processing units — chips that very few companies are able to make."
-    publishedDateTime: 2023-05-01T09:59:00Z
-    webUrl: "https://www.marketplace.org/shows/marketplace-tech/the-coming-ai-chip-shortage/"
-    type: article
-    provider:
-      name: Marketplace
-      domain: marketplace.org
-    quality: 34
 
 secured: "KpZ6oTnuB+r9MPSRCK4Gpbm9giy1QE00enNTy4Z4MmJGVwnRBwq1km7CCaJpfzzYuECrJmlVfdxg/sE6oOLBfG/hXI+0dCzoQ/gjJtdc6e12e/wIEmX4CBf++thGtUFxdjskC/Qj2Wf48YEro4uxaeRtY1H1hnSYQf0hcT6y3uoDMLR4MxePtNZ4Tw37Lwk+DhKA4P/Jno5K5wFl9lYtiZKjqA5gukfgPaX8t5Jya1pNpV2WDE6U5QgBqarvpJN9RJFKBIBXcIvMYP5FFl1C6S0WGlYURfkCxyVbUewPpb7CqKL9NWmmK/CjvusIRJG9iFTCh2eurG7fuJ59H3AIWmPp0Xz5Th0B12eO88LSOEY=;T5n3I0soESjqt7F5JNkI4w=="
 ---

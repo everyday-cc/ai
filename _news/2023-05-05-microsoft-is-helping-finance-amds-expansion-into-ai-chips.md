@@ -391,6 +391,20 @@ related:
         width: 620
         height: 465
         isCached: true
+  - title: "Microsoft And AMD Team Up To Make AI Processors"
+    excerpt: "Software giant Microsoft Corp. is working with the chipmaker Advanced Micro Devices Inc. (AMD) to jointly develop a new artificial intelligence (AI)"
+    publishedDateTime: 2023-05-05T17:38:00Z
+    webUrl: "https://www.techworm.net/2023/05/microsoft-and-amd-team-up-to-make-ai-processors.html"
+    type: article
+    provider:
+      name: techworm.net
+      domain: techworm.net
+    quality: 56
+    images:
+      - url: "https://www.techworm.net/wp-content/uploads/2023/05/Processor.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "CallMiner Collaborates with Microsoft to Enhance AI Capabilities"
     excerpt: "CallMiner Collaborates with Microsoft to Enhance AI and Machine Learning Capabilities for contact centres perform better and more efficiently"
     publishedDateTime: 2023-05-03T15:24:00Z

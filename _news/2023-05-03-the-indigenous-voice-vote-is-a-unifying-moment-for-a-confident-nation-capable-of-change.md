@@ -30,24 +30,6 @@ images:
     height: 413
     isCached: true
 
-related:
-  - title: "‘Good thing for the country’: Pearson rejects criticism of Voice to Parliament saying there is 'no justification' to change wording"
-    excerpt: "Indigenous Activist Noel Pearson has defended the Voice to Parliament referendum as a “good thing for our country”, rejecting calls for the wording to be changed."
-    publishedDateTime: 2023-05-01T09:52:00Z
-    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/good-thing-for-the-country-pearson-rejects-criticism-of-voice-to-parliament-saying-there-is-no-justification-to-change-wording/news-story/148f2af7dd12b4ae44c8e654ba4deeb4"
-    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/good-thing-for-the-country-pearson-rejects-criticism-of-voice-to-parliament-saying-there-is-no-justification-to-change-wording/news-story/148f2af7dd12b4ae44c8e654ba4deeb4?amp"
-    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/good-thing-for-the-country-pearson-rejects-criticism-of-voice-to-parliament-saying-there-is-no-justification-to-change-wording/news-story/148f2af7dd12b4ae44c8e654ba4deeb4?amp"
-    type: article
-    provider:
-      name: Sky News Australia
-      domain: skynews.com.au
-    quality: 14
-    images:
-      - url: "https://content.api.news/v3/images/bin/7e64fc164f52d4f1307ede6bd006daa4"
-        width: 1280
-        height: 720
-        isCached: true
-
 secured: "4XJ38ffuWkR2kX75ONf9UfqpZISu8D2u2MU/zcwnRTJsSlnqJXlmzjN8wijnSLioZuFoex9o7RgiIiH5Kk8wKcXYHNDWNVfifrKXJLIzBa4lJFJaRegcNlNP9M9T9TPaj8857XytH6zO5nbaBY2OcSgDgv+rf/R8wLQPaa2e1JBdz/iXc0XeDvuqu0OhSbAcWqyC6YvgLdavYxOBH0zWPc0nNLA5i3kCvxQ5NSfyDg/Aj+huiEnao/NxP2dkhoMxwoTNk8xHbpkcEZTV2ojF68MO1X3veHiaAB8bALurlFgIJjb0aDZ3PJkh821W82JPYNZzAJzbXqh2PvPrv0ZM62XR7fBShDS++uZC+5IG0+7Mv9hIDoEQOBaca+aIojvyXhyoDW3kDhz3+cJoTsTr/Urs2kje0A74LLFaj6ZERAytmRvtjuCclt2tCaQ5T6GJWzBvYWXqZmwpX83g1erDuFGmNKqDebiJKcZ0ELtJO2PAUF+BJjhDUngA/jrYCYS3v51PhVG5kbnolfijXvHiPA==;wPHwzHq7cUIiXuFsO3WwIQ=="
 ---
 
