@@ -6,8 +6,8 @@ publishedDateTime: 2023-05-03T00:00:00Z
 originalUrl: "https://hackaday.com/2018/05/30/stock-market-prediction-with-natural-language-machine-learning/"
 webUrl: "https://hackaday.com/2018/05/30/stock-market-prediction-with-natural-language-machine-learning/"
 type: article
-quality: 41
-heat: 41
+quality: 43
+heat: 43
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - Microsoft AI
   - AI
   - Machine Learning
+  - Natural Language Processing
 
 images:
   - url: "https://hackaday.com/wp-content/uploads/2018/05/main4501.png"

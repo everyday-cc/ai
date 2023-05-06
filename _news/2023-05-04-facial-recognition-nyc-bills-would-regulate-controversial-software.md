@@ -43,6 +43,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "AI: Israeli Authorities Use Facial Recognition Technology To Entrench Apartheid"
+    excerpt: "Bethlehem/PNN /Amnesty International Tuesday maintained that the Israeli authorities are using facial recognition technology to entrench a"
+    publishedDateTime: 2023-05-03T08:53:00Z
+    webUrl: "https://menafn.com/1106161352/AI-Israeli-Authorities-Use-Facial-Recognition-Technology-To-Entrench-Apartheid"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 50
+    images:
+      - url: "https://menafn.com/updates/pr/2023-05/03/PNN_8501aimage_story.jpeg"
+        width: 1000
+        height: 800
+        isCached: true
   - title: "Baltimore Considers Restricting Facial Recognition Tech"
     excerpt: "Baltimore’s use of surveillance and facial recognition technology would face new restrictions under legislation introduced by a city councilman this week."
     publishedDateTime: 2023-05-02T13:51:00Z

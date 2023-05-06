@@ -59,22 +59,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI can read your mind, and give it in writing"
-    excerpt: "A study by a four-member research group, which included an Indian graduate student, at the University of Texas Austin has shown that the system can generate intelligible word sequences from brain activity measured through functional magnetic resonance imaging (f-MRI) scans."
-    publishedDateTime: 2023-05-02T00:58:00Z
-    webUrl: "https://www.telegraphindia.com/world/ai-can-read-your-mind-and-give-it-in-writing/cid/1933743"
-    ampWebUrl: "https://www.telegraphindia.com/amp/world/ai-can-read-your-mind-and-give-it-in-writing/cid/1933743"
-    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/world/ai-can-read-your-mind-and-give-it-in-writing/cid/1933743"
-    type: article
-    provider:
-      name: The Telegraph
-      domain: telegraphindia.com
-    quality: 59
-    images:
-      - url: "https://assets.telegraphindia.com/telegraph/2023/Mar/1678740483_artificial-intelligence.jpg"
-        width: 900
-        height: 506
-        isCached: true
   - title: "Scientists claim AI-based decoder can translate thoughts into text"
     excerpt: "US researchers said their AI-powered decoder was able to accurately translate a person's thoughts into text roughly half the time."
     publishedDateTime: 2023-05-02T10:32:00Z

@@ -42,33 +42,19 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Developing Artificial Intelligence for Medical Devices"
-    excerpt: "However, a Canadian company specializing in artificial intelligence (AI)-based monitoring of the spread of infectious diseases had already warned its customers of the risk of an epidemic in China as early as December 2019. 1 The warning had been derived ..."
-    publishedDateTime: 2023-05-02T00:00:00Z
-    webUrl: "https://www.mddionline.com/artificial-intelligence/developing-artificial-intelligence-medical-devices"
+  - title: "Geoffrey Hinton, Godfather of AI, Leaves Google over Deep Concerns for AI's Future"
+    excerpt: "Geoffrey Hinton, the \"Godfather of AI,\" resigns from Google, raising concerns about AI's potential dangers and urging responsible development."
+    publishedDateTime: 2023-05-02T10:29:00Z
+    webUrl: "https://yourstory.com/2023/05/godfather-ai-geoffrey-hinton-resigns-warns-ai-dangers"
     type: article
     provider:
-      name: MD&M East
-      domain: mddionline.com
-    quality: 39
+      name: Your Story
+      domain: yourstory.com
+    quality: 33
     images:
-      - url: "https://www.mddionline.com/sites/mddionline.com/files/artificial-intelligence-5291510_640_web.jpg"
-        width: 770
-        height: 440
-        isCached: true
-  - title: "The profundity of AI"
-    excerpt: "As for the topic of AI posing a threat to human intelligence, it is a complex and controversial issue with many experts warning about the potential dangers it may pose to human intelligence. Some argue that AI could eventually surpass human intelligence,"
-    publishedDateTime: 2023-05-02T00:58:00Z
-    webUrl: "https://www.brecorder.com/news/40239781/the-profundity-of-ai"
-    type: article
-    provider:
-      name: Business Recorder
-      domain: brecorder.com
-    quality: 39
-    images:
-      - url: "https://i.brecorder.com/large/2023/05/64501a2d079b6.jpg"
+      - url: "https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/Imageaxxk-1683023043843.jpg?fm=png&auto=format"
         width: 800
-        height: 455
+        height: 400
         isCached: true
 
 secured: "TBGHvddJLQkHo3BHmZfQVeADyW6QyMH+IklYfaQ1mktCwAKXAckmmBbZPM+Rp/gtAJR9Ng2p1ekoxh4vqKYlMT8b5RC16qGe0Y3lDklFOJbwK9fwmJQA+7ZTGECwa8MMUU4XN8/mgONJMsdkUJXUq4RRZw8UOpb9PoPhCy+1N46dIPMHwKUE4jYjl4/G+6FJ0jsdL9uoDkINGAB7sx/XR5DkuWRMJ4coGf0kCJ2Vqg5ROQCOU7ljGf0eNAffI1UZkY9TWv00ahTIWexZ2MlV6nQKZ9nQsX+4vdvLl1CtRHFUN1EqaIIvjxlSJgWUcC8I+JJUkGGGy4xNmD5Azgbya6V4owROZ1s42DzAlMPwQMo=;QKrAgcmoMGGJDXP+1vzPJQ=="

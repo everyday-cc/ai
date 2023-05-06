@@ -111,20 +111,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 58
-  - title: "Artificial Intelligence Continues to Transform Healthcare"
-    excerpt: "Artificial intelligence is finding its way into healthcare at an astonishing rate. A new collaboration between Novartis Pharmaceuticals and Anumana is the latest example of how both pharma and medtech are embracing AI. The multi-year strategic ..."
-    publishedDateTime: 2023-05-02T00:00:00Z
-    webUrl: "https://www.mddionline.com/artificial-intelligence/artificial-intelligence-continues-transform-healthcare"
-    type: article
-    provider:
-      name: MD&M East
-      domain: mddionline.com
-    quality: 56
-    images:
-      - url: "https://www.mddionline.com/sites/mddionline.com/files/Untitled%20design-311.png"
-        width: 770
-        height: 400
-        isCached: true
   - title: "FinTech in Insurance Market Outlook and Forecast till 2030"
     excerpt: "According to the \"FinTech in Insurance Market\" report, the technology sector is changing, and both established"
     publishedDateTime: 2023-05-05T05:31:00Z

@@ -19,34 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Facial Recognition Powers ‘Automated Apartheid’ in Israel, Report Says"
-    excerpt: "The Israeli government is using computer vision to monitor Palestinian travel across checkpoints, according to the report."
-    publishedDateTime: 2023-05-01T23:01:00Z
-    webUrl: "https://www.nytimes.com/2023/05/01/technology/israel-palestine-facial-recognition.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 69
-    images:
-      - url: "https://static01.nyt.com/images/2023/05/02/multimedia/01JPisrael-surveil-1-print-wkzg/01israel-surveil-01-wkzg-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "AI: Israeli Authorities Use Facial Recognition Technology To Entrench Apartheid"
-    excerpt: "Bethlehem/PNN /Amnesty International Tuesday maintained that the Israeli authorities are using facial recognition technology to entrench a"
-    publishedDateTime: 2023-05-03T08:53:00Z
-    webUrl: "https://menafn.com/1106161352/AI-Israeli-Authorities-Use-Facial-Recognition-Technology-To-Entrench-Apartheid"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 50
-    images:
-      - url: "https://menafn.com/updates/pr/2023-05/03/PNN_8501aimage_story.jpeg"
-        width: 1000
-        height: 800
-        isCached: true
   - title: "Facial recognition powers ‘automated apartheid’ in Israel, report says"
     excerpt: "Israel is increasingly relying on facial recognition in the occupied West Bank to track Palestinians and restrict their passage through key checkpoints."
     publishedDateTime: 2023-05-02T22:43:00Z
@@ -71,20 +43,6 @@ related:
       - url: "https://www.democracynow.org/images/story/35/67235/full_hd/SEG1-AutomatedApartheid-1.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Facial recognition technology used by Israel to ‘supercharge segregation and automate apartheid,’ says Amnesty"
-    excerpt: "ISRAEL is using an experimental facial recognition system to “” Amnesty International general secretary Agnes Callamard warns today. The liberal charity is publishing a new report, Automated Apartheid,"
-    publishedDateTime: 2023-05-01T23:46:00Z
-    webUrl: "https://morningstaronline.co.uk/article/w/facial-recognition-technology-used-by-israel-to-supercharge-segregation-and-automate-apartheid-says-amnesty"
-    type: article
-    provider:
-      name: Morning Star
-      domain: morningstaronline.co.uk
-    quality: 21
-    images:
-      - url: "https://morningstaronline.co.uk/sites/default/files/AP23107646322597.jpg"
-        width: 1185
-        height: 790
         isCached: true
   - title: "Report: Automated Apartheid: how facial recognition fragments, segregates and controls Palestinians in the OPT"
     excerpt: "The Israeli authorities are using an experimental facial recognition system known as Red Wolf to track Palestinians and automate harsh restrictions on their freedom of movement."

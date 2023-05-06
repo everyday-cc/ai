@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wbaltv.com/amp/article/facial-recognition-surveillance-t
 cdnAmpWebUrl: "https://www-wbaltv-com.cdn.ampproject.org/c/s/www.wbaltv.com/amp/article/facial-recognition-surveillance-technology-bill-limit/43762133"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2023/05/932/470/LS10-BANNING-FACIAL-RECOGNITION-SOFTWARE_00.00.11.58.jpg?ve=1&tl=1"
         width: 932
         height: 470
+        isCached: true
+  - title: "AI: Israeli Authorities Use Facial Recognition Technology To Entrench Apartheid"
+    excerpt: "Bethlehem/PNN /Amnesty International Tuesday maintained that the Israeli authorities are using facial recognition technology to entrench a"
+    publishedDateTime: 2023-05-03T08:53:00Z
+    webUrl: "https://menafn.com/1106161352/AI-Israeli-Authorities-Use-Facial-Recognition-Technology-To-Entrench-Apartheid"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 50
+    images:
+      - url: "https://menafn.com/updates/pr/2023-05/03/PNN_8501aimage_story.jpeg"
+        width: 1000
+        height: 800
         isCached: true
   - title: "Baltimore Considers Restricting Facial Recognition Tech"
     excerpt: "Baltimore’s use of surveillance and facial recognition technology would face new restrictions under legislation introduced by a city councilman this week."

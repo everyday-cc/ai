@@ -106,22 +106,6 @@ related:
         width: 3840
         height: 2561
         isCached: true
-  - title: "IBM to pause hiring in plan to replace 7,800 jobs with AI"
-    excerpt: "International Business Machines Corp. Chief Executive Officer Arvind Krishna said the company expects to pause hiring for roles it thinks could be replaced with artificial intelligence in the coming y"
-    publishedDateTime: 2023-05-02T00:41:00Z
-    webUrl: "https://www.livemint.com/news/india/ibm-to-pause-hiring-in-plan-to-replace-7-800-jobs-with-ai-11682987760620.html"
-    ampWebUrl: "https://www.livemint.com/news/india/ibm-to-pause-hiring-in-plan-to-replace-7-800-jobs-with-ai/amp-11682987760620.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/ibm-to-pause-hiring-in-plan-to-replace-7-800-jobs-with-ai/amp-11682987760620.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/05/02/600x338/IBM_1682988099021_1682988099244.JPG"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Job cuts may intensify as IBM plans to use AI to replace 30% back office jobs"
     excerpt: "IBM CEO Arvind Krishna said he expects AI to impact at least 7,800 jobs at the company over the next five years."
     publishedDateTime: 2023-05-02T07:55:00Z
@@ -137,20 +121,6 @@ related:
       - url: "https://images.idgesg.net/images/article/2017/09/thinkstockphotos-629792888-100735142-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 940
-        isCached: true
-  - title: "IBM to pause hiring for jobs that AI could do: CEO"
-    excerpt: "The plan could mean roughly 7,800 jobs lost in non-customer-facing roles such as human resources. Read more at straitstimes.com."
-    publishedDateTime: 2023-05-02T00:38:00Z
-    webUrl: "https://www.straitstimes.com/business/ibm-to-pause-hiring-for-jobs-that-ai-could-do"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 39
-    images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/05/02/2023-04-19T201558Z1839026717RC2VH0AAC1QORTRMADP3IBM-RESULTS_2.JPG?VersionId=H_s.YFFQrYWrYDzavmkDa.28ezC1GzD0"
-        width: 860
-        height: 573
         isCached: true
   - title: "IBM to pause hiring for jobs that AI could do"
     excerpt: "IBM's CEO said the company expects to pause hiring for roles it thinks could be replaced with artificial intelligence in the coming years."

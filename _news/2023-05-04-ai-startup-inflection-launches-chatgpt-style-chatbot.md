@@ -180,6 +180,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Google Reportedly Upgrading Search With AI Chatbot, TikTok Videos"
+    excerpt: "According to the Wall Street Journal, the search engine is planning to add AI prompts that will pop up in response to queries that can’t be easily answered by traditional web results, as well as swipe-through video clips."
+    publishedDateTime: 2023-05-06T17:17:00Z
+    webUrl: "https://www.pcmag.com/news/google-reportedly-upgrading-search-with-ai-chatbot-tiktok-videos"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/01rDZGzDgqaHe7cTh5kJj9Z-1.fit_lim.size_1200x630.v1683393323.jpg"
+        width: 945
+        height: 630
+        isCached: true
   - title: "Beware the AI Scams: Meta Blocks 1,000+ Links Tied to ChatGPT-Themed Malware"
     excerpt: "Hackers pounced on ChatGPT's popularity to create malware posing as OpenAI's chatbot, and then circulated links to it on Facebook, many to dangerous browser extensions."
     publishedDateTime: 2023-05-03T17:31:00Z
@@ -209,6 +223,22 @@ related:
       - url: "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/03/28/new_project.jpg"
         width: 600
         height: 314
+        isCached: true
+  - title: "Man v machine: everything you need to know about AI"
+    excerpt: "As systems become more capable – and ubiquitous – should we be worrying about what the future holds for humans in a ‘robot’ world?"
+    publishedDateTime: 2023-05-06T15:20:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/may/06/man-v-machine-everything-you-need-to-know-about-ai"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/06/man-v-machine-everything-you-need-to-know-about-ai"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/06/man-v-machine-everything-you-need-to-know-about-ai"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/9127fb3fdc623596d2c3da48be625ee17222c275/0_151_4500_2701/master/4500.jpg?width=620&quality=85&auto=format&fit=max&s=6571ea48a2c8e68b192e158449621bd0"
+        width: 620
+        height: 372
         isCached: true
   - title: "Chatbot ‘journalists’ found running almost 50 AI-generated content farms"
     excerpt: "Websites churn out content, often advancing false narratives, to saturate with adverts, says anti-misinformation firm"

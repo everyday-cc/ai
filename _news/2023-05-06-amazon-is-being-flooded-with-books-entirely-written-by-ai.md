@@ -6,8 +6,8 @@ publishedDateTime: 2023-05-06T12:34:00Z
 originalUrl: "https://futurism.com/the-byte/amazon-flooded-books-written-by-ai"
 webUrl: "https://futurism.com/the-byte/amazon-flooded-books-written-by-ai"
 type: article
-quality: 17
-heat: 17
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,7 +16,14 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
-secured: "vSRJeh1lh3eotpNL7cO6fJgZ6cLXelaEiCGW7DKbIyniDVhSQFHmr6/D6dadQ/lw/AfYWXu0RDl8dM+1oUn5ApquTu9O4fr+cW/fjRxBi12GqT+Ma7gJbtZtK9s/06ixTeC+rZZmwIpK0II/358vIGJ2oFgCzjfkEWG2Xx4c9DkZaTWcuG0jDkKntrh2YsOrzoNX1DZqVYw6j4CxP8k6GlA3VQbrCyKSVTMFzCxNRIIP8et7ttAj66wNvfm7cQsZwigViOB9i3xqNJq9t/xLsn3Rg5JHIP1SDjtHfcPtNSlMldgC8abPbLr1Q/DbB7OYDMLVwuUzQzBzEP0rAvDkFrf4R1Yayzj6NzWrpKoHLCc5WIXPgduSsduzS3sQQXYexdWF6+KWCFx2jhEGpjzCmCujBMOmzt9blTb9nj9z4ux15wkSH9L3wstH9/yElg7bq2b8oJaUmudumKW+D4dsH1a4moscq9BDHhqWuYf64w0wNETqLveKS8/YX/rvQbIUQ6cAPMhmKFWvnbqPKUXVAA==;cCT7CxsIcVT3LCvxHBrANw=="
+images:
+  - url: "https://wp-assets.futurism.com/2023/05/amazon-flooded-books-written-by-ai.jpg"
+    width: 1200
+    height: 725
+    isCached: true
+
+secured: "64NvIMjfrqRwT7fFpgPtZ2Obn4LH7IUR5R5qtAGhZrN1ujlIp4MJl8SCAIjpKAtdAeONi53BcRcfKxp2M8n2vmvjR8fxqtVs5dkUedsBJ3mKfL/CYE2I394BIh5HqxhP7Ywj4NwsU2t3aFt6wz9BtJWSoRmcKS49WH2EwR4jWmAIqm1qt4JkH9UbL1ckqKgIbSuFXOaUk7yHousP3uJth5VyGZztAerMbLApIrhG1hdvB322nISo0H5BDmOYJ1JTuSdaMWBw9jgHxmVftB0fB6TBVDLOOiozK80sWc1iSuO0/+Lqm9jebEcxwJGk1tlcoVLrse/gamvUTdjArkCrJJNl4hwMvDHra7GLULRPzRQ=;lprGMKsQMdSyy2PoJupaBw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/uk-news/2023/may/03/metropolitan-police-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/uk-news/2023/may/03/metropolitan-police-live-facial-recognition-in-crowds-at-king-charles-coronation"
 type: article
 quality: 57
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -92,20 +92,6 @@ related:
       - url: "https://www.scotsman.com/webimg/b25lY21zOmNiZmJlMTY2LTQ4ODktNGY1Yy1hMTljLTQyOTg3YThjNDFjOTo5OTEyYmJhNC1iNTgzLTQxOGUtYmUxMy02NGY3Njg2NTc5MmY=.jpg?width=1200&auto=webp&quality=75&crop=3:2,smart"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Plan to use facial recognition at JR East stations to spot ex-cons iced"
-    excerpt: "East Japan Railway Co. has suspended a program to use facial recognition to track ex-convicts who turn up at its stations. A company official said Sept. 21 the decision was made “because a ..."
-    publishedDateTime: 2023-05-02T00:00:00Z
-    webUrl: "https://www.asahi.com/ajw/articles/14445523"
-    type: article
-    provider:
-      name: 朝日新聞社
-      domain: asahi.com
-    quality: 39
-    images:
-      - url: "https://p.potaufeu.asahi.com/9a8b-p/picture/26381371/21aee2bafd45bc707daecdd7c7f36c8a.jpg"
-        width: 660
-        height: 381
         isCached: true
   - title: "Critics pan planned police use of facial recognition during King Charles’ coronation"
     excerpt: "Police in London are deploying live facial recognition to watch over protestors and other attendees of the upcoming coronation of King Charles III."
