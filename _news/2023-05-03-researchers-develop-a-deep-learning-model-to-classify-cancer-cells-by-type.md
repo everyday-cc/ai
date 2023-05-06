@@ -25,20 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "Deep Learning Network Predicts Cancer Cells’ Metastatic Potential"
-    excerpt: "Cancer cells that initiate metastasis, or the spread of the disease from its primary location, are different from cancer cells that stay in the original tumor."
-    publishedDateTime: 2023-05-03T08:45:00Z
-    webUrl: "https://www.technologynetworks.com/cancer-research/news/deep-learning-network-predicts-cancer-cells-metastatic-potential-372869"
+  - title: "IIT Madras researchers develop machine learning tool to detect tumour in brain, spinal cord"
+    excerpt: "Researchers at IIT Madras have developed a machine learning-based computational tool for better detection of cancer-causing tumours in the brain and spinal cord. Named ‘GBMDriver’ (GlioBlastoma Mutiforme Drivers), this tool is publicly available online."
+    publishedDateTime: 2023-05-01T14:05:00Z
+    webUrl: "https://www.thehindubusinessline.com/news/iit-madras-researchers-develop-machine-learning-tool-to-detect-tumour-in-brain-spinal-cord/article66800135.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/news/iit-madras-researchers-develop-machine-learning-tool-to-detect-tumour-in-brain-spinal-cord/article66800135.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/iit-madras-researchers-develop-machine-learning-tool-to-detect-tumour-in-brain-spinal-cord/article66800135.ece/amp/"
     type: article
     provider:
-      name: technologynetworks
-      domain: technologynetworks.com
-    quality: 39
-    images:
-      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/372869/deep-learning-network-predicts-cancer-cells-metastatic-potential-372869-640x360.jpg?cb=20230503"
-        width: 640
-        height: 360
-        isCached: true
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 44
 
 secured: "T+N2YPCw/gG70/WIWjDkyEcciPEqTb/hYyms/tod/GwV/OLK34vLxFbP72LYHdr0sb7GG/0RndbIvdIOmONpgmtjTWMrcHel8ogHsmQUb8TMUgmYgiOO1TZDBZ0NTulOTLXlQQMX48uaVgioX3aimi9mO2O3wpGZOhK8Q1fXAu9q/DYIBTmHo/EuGeiolqdj9MxA/sCd1losUkkPJX37jYp5age0NvsKOZfpUgUp9/T3jHYcmNheU478UPaRZYNSw/NCKZupO7qwtco+XRr0mXDQweI60Ng9lE+ng9l4dqsrd7VHE/tdIy0Yim94jgE8ea5F0uFKmrYSCFjWcdV68jsNhCp1drpnTIJ+ffNY24o=;IekewMpLF+92w/wve7dS2Q=="
 ---

@@ -105,22 +105,6 @@ related:
         width: 470
         height: 352
         isCached: true
-  - title: "Should Generative AI ChatGPT Be Made Available Unfettered Unfiltered And Likely Vile, Asks AI Ethics And AI Law"
-    excerpt: "A rising question is whether generative AI such as ChatGPT in its rawest form has significant value and legally ought to be made available for the betterment of us all. Here's the scoop."
-    publishedDateTime: 2023-05-01T08:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/05/01/should-generative-ai-chatgpt-be-made-available-unfettered-unfiltered-and-likely-vile-asks-ai-ethics-and-ai-law/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/05/01/should-generative-ai-chatgpt-be-made-available-unfettered-unfiltered-and-likely-vile-asks-ai-ethics-and-ai-law/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/05/01/should-generative-ai-chatgpt-be-made-available-unfettered-unfiltered-and-likely-vile-asks-ai-ethics-and-ai-law/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/644b0568feff0dec7e76f6f5/0x0.jpg?format=jpg&crop=1972,1110,x0,y16,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "These robot dogs can't bark — but they can speak in full sentences thanks to ChatGPT"
     excerpt: "Boston Dynamics' robot dogs can now verbally respond in \"plain English\" when asked to describe their previous and future tasks."
     publishedDateTime: 2023-05-04T08:00:00Z
@@ -377,20 +361,6 @@ related:
       - url: "https://assets.cfo.com/images/Zz05YmE1ZTE1MmU4MjExMWVkOTE1ZWMyOTAwMGU4OTMyYg==?width=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "UAE releases guide to ChatGPT and other AI platforms"
-    excerpt: "The guide is a valuable resource for government entities, facilitating the utilisation of AI technologies and enhancing its implementation across various fields. UAE releases guide to ChatGPT and other AI platforms."
-    publishedDateTime: 2023-05-01T08:46:00Z
-    webUrl: "https://www.itp.net/emergent-tech/uae-releases-guide-to-chatgpt-and-other-ai-platforms"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 39
-    images:
-      - url: "https://www.itp.net/cloud/2023/04/03/AI-think.jpg"
-        width: 1920
-        height: 1280
         isCached: true
   - title: "Hello, my name is Dr ChatGPT: Are robot doctors really the future?"
     excerpt: "“Hello, my name is Dr ChatGPT. How can I help you today?” Imagine a medical consultation with a robotic creature. Will you feel comfortable? Will you trust this product of artificial intelligence to look after you effectively and safely?"

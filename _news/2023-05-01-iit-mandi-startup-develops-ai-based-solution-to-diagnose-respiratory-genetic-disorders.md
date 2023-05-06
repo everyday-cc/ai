@@ -34,6 +34,20 @@ related:
         width: 1200
         height: 814
         isCached: true
+  - title: "IIT-Mandi startup develops AI-based affordable solution to detect respiratory, genetic disorders"
+    excerpt: "An IIT-Mandi incubated startup has built a cost-effective Artificial Intelligence -based medical imaging solution that has the potential to revolutionise the early detection of respiratory abnormalities,"
+    publishedDateTime: 2023-05-01T14:12:00Z
+    webUrl: "https://telanganatoday.com/iit-mandi-startup-develops-ai-based-affordable-solution-to-detect-respiratory-genetic-disorders"
+    type: article
+    provider:
+      name: Telangana Today
+      domain: telanganatoday.com
+    quality: 24
+    images:
+      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2023/05/iit.jpg"
+        width: 1280
+        height: 750
+        isCached: true
 
 secured: "Bqsb+dGMYZFBcHPuzr5zV6+Ht6TP7u9J9AY04qYwdGbf/aFzOz2a9XdLfkUc5LBUVLxIJKqHv9H0FQVzw7jbktoK6r1OHwfZ6jZdOjb+2pPjWhzt+NoddYSl+eafKcCSoe9qzyfkJE1bEIRtNPrBFhGRRNqOK6shVa4tLe/PYQT8IK7dE6tpeG8b1YvCm4yy2TnePObA5+jrvxLNc75mYmvN5XJiSua+m26ZflltL6dL+on6XviURiWh+jEkIrOEarWfUipARgpRLR1iyZMlkkBxfRy8YDDGdX3hPnRmM1q5DL6E1KDwhYJbGWwDCpqTrZF8fz4+J07mvYoVQ1c+MOofCiQCRCHQw9nkHSX2N0SVrAnLg5R9/NsWejxIBD6VGTS54a8XjoVeex1shBQ327q2dLbvi9HHNgIh7fbZkURCJabQLa/Y7lLkqjxYc7MALCzttQ22Gg5jSC1xgwEaaB4LBlAgKsSYvrDiYdG1dA3LlUX0q9+R+0iVsGPfv9YTKswyZnZMENNuWVsSL095xQ==;sJBXMzkBtml2NRWiiMXZaQ=="
 ---

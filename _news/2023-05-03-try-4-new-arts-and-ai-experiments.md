@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/outreach-initiatives/arts-culture/try-4-new-arts
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/arts-culture/try-4-new-arts-and-ai-experiments/amp/"
 type: article
 quality: 109
-heat: 209
+heat: 219
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://menafn.com/updates/pr/2023-05/05/I_59976image_story.jpg"
         width: 400
         height: 267
+        isCached: true
+  - title: "Novel AI-enabled robot to conduct automated scientific experiments"
+    excerpt: "Researchers have developed an artificial intelligence (AI) system that can help robots to conduct automated scientific experiments - as many as 10,000 per day - potentially driving a drastic"
+    publishedDateTime: 2023-05-06T00:21:00Z
+    webUrl: "https://www.thehansindia.com/hans/young-hans/novel-ai-enabled-robot-to-conduct-automated-scientific-experiments-796141"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 54
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2023/05/06/1350055-ai.jpg"
+        width: 1200
+        height: 720
         isCached: true
   - title: "AI could run a million microbial experiments per year"
     excerpt: "Automation uncovers combinations of amino acids that feed two bacterial species and could tell us much more about the 90% of bacteria that humans have hardly studied. An artificial intelligence system enables robots to conduct autonomous scientific experiments -- as many as 10,"

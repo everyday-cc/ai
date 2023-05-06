@@ -33,20 +33,6 @@ related:
         width: 941
         height: 647
         isCached: true
-  - title: "Sidra Medicine To Host Qatar's First AI And Medicine Symposium"
-    excerpt: "Sidra Medicine, a member of Qatar Foundation), will be hosting Qatar's first Artificial Intelligence and Medicine Symposi"
-    publishedDateTime: 2023-05-01T07:34:00Z
-    webUrl: "https://menafn.com/1106146615/Sidra-Medicine-To-Host-Qatars-First-AI-And-Medicine-Symposium"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/2023-05/01/TP_32518image_story.jpg"
-        width: 600
-        height: 450
-        isCached: true
 
 secured: "iKbihp50q3UsIcMPP69/AD7rTFRwFg6Q90kBd6S1zQSqA6T2el0CKzpD7xint6A0wq/Pe0/Buv4WiPtlQM69/rpLT+Qv+GYYbGtZWF8kXnTNd8izW0G/22pRA1jdW7p33HbI1rwgHDPDPN5k+gzvip3YU0w+oSNGneEHBxxJalGpMPh2spDfAHryGkXffF+0d0BqSKp0Qgk7R9NT7W+8bd9wpBqf7Evg6TsalSGaDwVLk2Egcbe5sGx1btVGj/VDPow85sdyHYjiLbYmoivYDvJmxjnhMh/CoTi33lNC204Sx4UDpAIewim/1MsJOnIzUtNnDeuSRwcCqgdlZdJ9SF4xIyBqoiSj/1FbmcqcMfs=;LLidLrzZ7+jK0M6y/9YnoA=="
 ---

@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "Siemens links up with Microsoft and IBM to deliver its vision"
+    excerpt: "At the recent Hannover Messe, Siemens announced partnerships with several key players in the OT/IT world, including IBM and Microsoft, aimed at"
+    publishedDateTime: 2023-05-02T16:09:00Z
+    webUrl: "https://drivesncontrols.com/news/fullstory.php/aid/7345/Siemens_links_up_with_Microsoft_and_IBM_to_deliver_its_vision.html"
+    type: article
+    provider:
+      name: drivesncontrols.com
+      domain: drivesncontrols.com
+    quality: 39
+    images:
+      - url: "https://drivesncontrols.com/images/7345.photo.3.jpg"
+        width: 420
+        height: 262
+        isCached: true
   - title: "Deep Learning System Software Market Size, Share, Demand, Growth Analysis 2023 to 2030 |Microsoft, General Vision, Sensory, Skymind"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. May 04, 2023 (Heraldkeepers) -- The Deep Learning System Software Market research studies not only save you hours of effort but also give your work legitimacy, whether you ..."
     publishedDateTime: 2023-05-04T12:10:00Z

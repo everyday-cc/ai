@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/05/05/elon-musk-stirs-d
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/05/05/elon-musk-stirs-debate-on-claims-that-ai-will-enable-you-to-live-forever-an-immortal-question-for-ai-ethics/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Amazon's Latest AI Acquisition Is for Podcasts on Amazon Music"
+    excerpt: "Amazon's latest AI push could be geared toward making it easier to find information and highlights in podcasts."
+    publishedDateTime: 2023-05-06T00:05:00Z
+    webUrl: "https://www.cnet.com/tech/amazons-latest-ai-acquisition-is-for-podcasts-on-amazon-music/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/amazons-latest-ai-acquisition-is-for-podcasts-on-amazon-music/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazons-latest-ai-acquisition-is-for-podcasts-on-amazon-music/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: "https://www.cnet.com/a/img/resize/0333df1565ee87dfebf36024b2a3e8b2ad5aa917/hub/2022/04/28/6d9834c6-9c0b-449a-a555-ea81f04c9fc3/amazon-music.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Apple Co-Founder Criticizes Elon Musk For Failing To Deliver On Self-Driving Car Promises"
     excerpt: "Steve Wozniak, the co-founder of Apple, was asked what he thought of Elon Musk on Tuesday during an appearance on CNN. And the hosts seemed genuinely surprised at the response—which wasn’t very flattering of the billionaire Tesla CEO."
     publishedDateTime: 2023-05-02T17:19:00Z

@@ -25,45 +25,24 @@ images:
     isCached: true
 
 related:
-  - title: "ISC 2023: Experience the power of HPC in the cloud with Microsoft Azure"
-    excerpt: "The ISC High-Performance Event (ISC), formerly known as International Supercomputing Conference, is one of the most important events in the high-performance computing (HPC) industry, bringing together some of the world's most prominent researchers, developers, vendors, and users to discuss the latest"
-    publishedDateTime: 2023-05-01T08:00:02Z
-    webUrl: "https://azure.microsoft.com/blog/isc-2023-experience-the-power-of-hpc-in-the-cloud-with-microsoft-azure/"
+  - title: "Privacy-Preserving Computation Market Size, Growing Demand and Trends 2023 to 2030 |Basebit.ai, Google Cloud, Microsoft Azure, IBM Cloud"
+    excerpt: "The Privacy-Preserving Computation Market research studies not only save you hours of effort but also give your"
+    publishedDateTime: 2023-05-05T08:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/privacy-preserving-computation-market-size-growing-demand-and-trends-2023-to-2030-basebitai-google-cloud-microsoft-azure-ibm-cloud-2023-05-05"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 104
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/160d39f8-fece-4aab-9912-c9586177de23.jpg"
-        width: 251
-        height: 251
-        isCached: true
-  - title: "The Ultimate Q1 Cloud Earnings Battle: Google vs. Amazon vs. Microsoft"
-    excerpt: "Analyzing the Performance, Strategies, and Innovations of Google, Amazon, and Microsoft in Q1 2023 to Determine the Future of Cloud Computing and the Race to Dominate the Market."
-    publishedDateTime: 2023-05-02T06:49:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2436787-the-ultimate-q1-cloud-earnings-battle-google-vs-amazon-vs-microsoft"
-    ampWebUrl: "https://www.devdiscourse.com/article/technology/2436787-the-ultimate-q1-cloud-earnings-battle-google-vs-amazon-vs-microsoft?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2436787-the-ultimate-q1-cloud-earnings-battle-google-vs-amazon-vs-microsoft?amp"
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+  - title: "Deep Learning System Software Market Size, Share, Demand, Growth Analysis 2023 to 2030 |Microsoft, General Vision, Sensory, Skymind"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. May 04, 2023 (Heraldkeepers) -- The Deep Learning System Software Market research studies not only save you hours of effort but also give your work legitimacy, whether you ..."
+    publishedDateTime: 2023-05-04T12:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-system-software-market-size-share-demand-growth-analysis-2023-to-2030-microsoft-general-vision-sensory-skymind-2023-05-04"
     type: article
     provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 61
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/02_05_2023_12_16_41_3519339.jpg?width=1280"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Heart Failure 2023: discover the future of heart failure therapy"
-    excerpt: "Get ready for state-of-the-art discussions on new and emerging methods for heart failure management at Heart Failure 2023, a scientific congress of the European Society of Cardiology (ESC). Heart Failure is the annual congress of the Heart Failure Association (HFA) of the ESC."
-    publishedDateTime: 2023-05-03T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/988097"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 34
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
 
 secured: "GFTWOJH4bbFjJnE2qsXlDQXmP61QcGEhkjG9vYOXJigPe/ASyFOBan2x63bVqPTZLgBneX6LlgCRd83FBpFFYmDbHjtr7wk0qNAwxlWRCfu2oYaTzSPoClu+qH0+eAXu588fgEoscFDqaziTGJRU87wkU0JrWeDXheCQY+EBg2gDCdA2a6ISeZ2ZYckBqeasW6Lcq3DpVVtOAayeI9hSlVBZkV8/aFVc31+GbyiILRQMsYzTvivmcdK4BN63p//bUhgBnXdCGMyZfBCIxCXE4pBqdxOAdW9mWJUsczkAvox8e7PbEvCAXNtZp515C1Q8vcU/Zg9LWUeYgnNovcJR6+kRWBOZsQRyQGNlNfZ29LU=;6DHQ6OLmxg4WkonVhIGjhw=="
 ---

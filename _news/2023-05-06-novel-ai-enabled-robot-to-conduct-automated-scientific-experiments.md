@@ -1,26 +1,27 @@
 ---
 category: news
-title: "Regulating AI will put companies and governments at loggerheads"
-excerpt: "The rapid release of generative AI tools has been a moment of reckoning. Just this week Geoffrey Hinton, a celebrated developer of AI, announced his resignation from Google, saying he regretted his work and wants to speak freely about the dangers and risks of the technology he created."
-publishedDateTime: 2023-05-02T16:53:00Z
-originalUrl: "https://www.ft.com/content/7ef4811d-79bb-4b4f-b28f-b46430f0c9ff"
-webUrl: "https://www.ft.com/content/7ef4811d-79bb-4b4f-b28f-b46430f0c9ff"
+title: "Novel AI-enabled robot to conduct automated scientific experiments"
+excerpt: "Researchers have developed an artificial intelligence (AI) system that can help robots to conduct automated scientific experiments - as many as 10,000 per day - potentially driving a drastic"
+publishedDateTime: 2023-05-06T00:21:00Z
+originalUrl: "https://www.thehansindia.com/hans/young-hans/novel-ai-enabled-robot-to-conduct-automated-scientific-experiments-796141"
+webUrl: "https://www.thehansindia.com/hans/young-hans/novel-ai-enabled-robot-to-conduct-automated-scientific-experiments-796141"
 type: article
-quality: 37
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: The Financial Times
-  domain: ft.com
+  name: The Hans India
+  domain: thehansindia.com
 
 topics:
+  - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
-    width: 619
-    height: 377
+  - url: "https://assets.thehansindia.com/h-upload/2023/05/06/1350055-ai.jpg"
+    width: 1200
+    height: 720
     isCached: true
 
 related:
@@ -68,20 +69,6 @@ related:
         width: 400
         height: 267
         isCached: true
-  - title: "Novel AI-enabled robot to conduct automated scientific experiments"
-    excerpt: "Researchers have developed an artificial intelligence (AI) system that can help robots to conduct automated scientific experiments - as many as 10,000 per day - potentially driving a drastic"
-    publishedDateTime: 2023-05-06T00:21:00Z
-    webUrl: "https://www.thehansindia.com/hans/young-hans/novel-ai-enabled-robot-to-conduct-automated-scientific-experiments-796141"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 54
-    images:
-      - url: "https://assets.thehansindia.com/h-upload/2023/05/06/1350055-ai.jpg"
-        width: 1200
-        height: 720
-        isCached: true
   - title: "AI could run a million microbial experiments per year"
     excerpt: "Automation uncovers combinations of amino acids that feed two bacterial species and could tell us much more about the 90% of bacteria that humans have hardly studied. An artificial intelligence system enables robots to conduct autonomous scientific experiments -- as many as 10,"
     publishedDateTime: 2023-05-05T15:08:00Z
@@ -91,6 +78,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
+  - title: "Regulating AI will put companies and governments at loggerheads"
+    excerpt: "The rapid release of generative AI tools has been a moment of reckoning. Just this week Geoffrey Hinton, a celebrated developer of AI, announced his resignation from Google, saying he regretted his work and wants to speak freely about the dangers and risks of the technology he created."
+    publishedDateTime: 2023-05-02T16:53:00Z
+    webUrl: "https://www.ft.com/content/7ef4811d-79bb-4b4f-b28f-b46430f0c9ff"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 37
+    images:
+      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
+        width: 619
+        height: 377
+        isCached: true
   - title: "How AI Can Help You Design Better Meetings and Events"
     excerpt: "They’ll also be able to use autonomous AI “agents” like AutoGPT – capable of self-directing themselves to perform multiple steps in sequences and complete complex tasks without much human prompting – to aid with every facet of research,"
     publishedDateTime: 2023-05-02T22:50:00Z
@@ -151,6 +152,6 @@ related:
       domain: phys.org
     quality: 19
 
-secured: "/UdCS2OAGrtBYzpDnmQnZ7LPP3Z5npjLouymZTsjeLMSzrpolVrCRFWwCj6SmFJ7Yxhf3K4ZaFKuVb1GC5ZA0H4u5ieasTpKzVVFRj9jUOgmAyWbD3VjoprZ3lO1lhIqeOH0vY1EU8jqbu1dBv4N4xIi2dRvm6NbmauYUBjyCxw05VkoEMDQDggYPaBfYH293Ts9bjLAKo7Gzu5miIJSqpGCsAMr+WPSAXmNt5o3PqcvzwQmlQ7g0HMvYKiqsB5LyEP4jVRZMNEahYubYm6NdU8UB2vErp/9hOHWzWRFEb8ePtmJPAZl+59Ze8qdTy9WHVpVZx6OgJz++JKyRloNN/pzgiqvzZykQVgQHfsJp/s=;kLYTETROAfG3PRRkwREA0A=="
+secured: "QPDpGGCMolm4ij/DKFauxtKIEFi+v1aLPzoBmztK5esd5GTPiUUxFuUPoxWUtw62plN796FhoLhgGlCY4zgYKAppf1NSiMDOQk1v7oSrQ4T/Eo1wzbwg/FbSFG6IvFj6pADdOO9iOJ3gQ5k5EF47HlVdSBmxez2xIGLHlVIiBCscm6rwk+8hM8q1Cp7oAEhmL6C1cKxRjguTB8CFULVHdX/+uOJLET5s4HBrAMUVj1Y1UjcVLH6zDxhpL5EMo2V1Y3G5JbdouH+sqIUIk+t7/5qS9a5EjJrofM1O342kc+/pbOAzBvr4fP0d/2y5YcOatFrhBiUet1qBMRcgNKKKhhf0g0jw2TC0TjI3+O4Rk2U=;8dBApxKdH0/8XlQVV8eA0A=="
 ---
 

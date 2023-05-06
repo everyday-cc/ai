@@ -68,6 +68,20 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "Novel AI-enabled robot to conduct automated scientific experiments"
+    excerpt: "Researchers have developed an artificial intelligence (AI) system that can help robots to conduct automated scientific experiments - as many as 10,000 per day - potentially driving a drastic"
+    publishedDateTime: 2023-05-06T00:21:00Z
+    webUrl: "https://www.thehansindia.com/hans/young-hans/novel-ai-enabled-robot-to-conduct-automated-scientific-experiments-796141"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 54
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2023/05/06/1350055-ai.jpg"
+        width: 1200
+        height: 720
+        isCached: true
   - title: "AI could run a million microbial experiments per year"
     excerpt: "Automation uncovers combinations of amino acids that feed two bacterial species and could tell us much more about the 90% of bacteria that humans have hardly studied. An artificial intelligence system enables robots to conduct autonomous scientific experiments -- as many as 10,"
     publishedDateTime: 2023-05-05T15:08:00Z

@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Amazon's Latest AI Acquisition Is for Podcasts on Amazon Music"
+    excerpt: "Amazon's latest AI push could be geared toward making it easier to find information and highlights in podcasts."
+    publishedDateTime: 2023-05-06T00:05:00Z
+    webUrl: "https://www.cnet.com/tech/amazons-latest-ai-acquisition-is-for-podcasts-on-amazon-music/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/amazons-latest-ai-acquisition-is-for-podcasts-on-amazon-music/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazons-latest-ai-acquisition-is-for-podcasts-on-amazon-music/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: "https://www.cnet.com/a/img/resize/0333df1565ee87dfebf36024b2a3e8b2ad5aa917/hub/2022/04/28/6d9834c6-9c0b-449a-a555-ea81f04c9fc3/amazon-music.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft's chief scientific officer says there's no need for a pause on AI — despite what Elon Musk says"
     excerpt: "Thousands of people, including Elon Musk and AI experts, signed an open letter seeking a 6-month pause on AI development amid ChatGPT's popularity."
     publishedDateTime: 2023-05-02T18:23:00Z

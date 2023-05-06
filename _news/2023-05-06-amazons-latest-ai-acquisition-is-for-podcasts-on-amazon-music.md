@@ -1,26 +1,33 @@
 ---
 category: news
-title: "Microsoft's chief scientific officer says there's no need for a pause on AI — despite what Elon Musk says"
-excerpt: "Thousands of people, including Elon Musk and AI experts, signed an open letter seeking a 6-month pause on AI development amid ChatGPT's popularity."
-publishedDateTime: 2023-05-02T18:23:00Z
-originalUrl: "https://www.businessinsider.com/microsoft-executive-elon-musk-ai-acceleration-not-pause-open-letter-2023-5"
-webUrl: "https://www.businessinsider.com/microsoft-executive-elon-musk-ai-acceleration-not-pause-open-letter-2023-5"
+title: "Amazon's Latest AI Acquisition Is for Podcasts on Amazon Music"
+excerpt: "Amazon's latest AI push could be geared toward making it easier to find information and highlights in podcasts."
+publishedDateTime: 2023-05-06T00:05:00Z
+originalUrl: "https://www.cnet.com/tech/amazons-latest-ai-acquisition-is-for-podcasts-on-amazon-music/"
+webUrl: "https://www.cnet.com/tech/amazons-latest-ai-acquisition-is-for-podcasts-on-amazon-music/"
+ampWebUrl: "https://www.cnet.com/google-amp/news/amazons-latest-ai-acquisition-is-for-podcasts-on-amazon-music/"
+cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazons-latest-ai-acquisition-is-for-podcasts-on-amazon-music/"
 type: article
-quality: 47
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: CNET
+  domain: cnet.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI
-  - Microsoft AI
+
+images:
+  - url: "https://www.cnet.com/a/img/resize/0333df1565ee87dfebf36024b2a3e8b2ad5aa917/hub/2022/04/28/6d9834c6-9c0b-449a-a555-ea81f04c9fc3/amazon-music.jpg?auto=webp&fit=crop&height=630&width=1200"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Elon Musk Stirs Debate On Claims That AI Will Enable You To Live Forever, An Immortal Question For AI Ethics"
@@ -39,22 +46,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Amazon's Latest AI Acquisition Is for Podcasts on Amazon Music"
-    excerpt: "Amazon's latest AI push could be geared toward making it easier to find information and highlights in podcasts."
-    publishedDateTime: 2023-05-06T00:05:00Z
-    webUrl: "https://www.cnet.com/tech/amazons-latest-ai-acquisition-is-for-podcasts-on-amazon-music/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/amazons-latest-ai-acquisition-is-for-podcasts-on-amazon-music/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazons-latest-ai-acquisition-is-for-podcasts-on-amazon-music/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 87
-    images:
-      - url: "https://www.cnet.com/a/img/resize/0333df1565ee87dfebf36024b2a3e8b2ad5aa917/hub/2022/04/28/6d9834c6-9c0b-449a-a555-ea81f04c9fc3/amazon-music.jpg?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Apple Co-Founder Criticizes Elon Musk For Failing To Deliver On Self-Driving Car Promises"
     excerpt: "Steve Wozniak, the co-founder of Apple, was asked what he thought of Elon Musk on Tuesday during an appearance on CNN. And the hosts seemed genuinely surprised at the response—which wasn’t very flattering of the billionaire Tesla CEO."
     publishedDateTime: 2023-05-02T17:19:00Z
@@ -71,7 +62,16 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft's chief scientific officer says there's no need for a pause on AI — despite what Elon Musk says"
+    excerpt: "Thousands of people, including Elon Musk and AI experts, signed an open letter seeking a 6-month pause on AI development amid ChatGPT's popularity."
+    publishedDateTime: 2023-05-02T18:23:00Z
+    webUrl: "https://www.businessinsider.com/microsoft-executive-elon-musk-ai-acceleration-not-pause-open-letter-2023-5"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
 
-secured: "qcjxlW+P27UYpZl9cy0DFDiPdMHmhRESX8tTX3qdtDdhDJXKuVzdNBR7laGaZcp4Z1ISNT75F4OuhiNyKjvS0bLgUeCccRMdeifSlItHMhk7PyWx4nraNWRlIMXyFg3Y1nH1qnhYgiEoXB1t7120YOPir2YzJY2uGcA9eSmI/QrFSSDZuZ9cs0yq+suKt7apr0lhL5Jz0e9nmsBMR+ZC+OqrPIv0OnejTzik5iZVwEBIViXMKUZaEpARiS38LmYt7DnnabH8ELaX+R21rsJa23FSqr9r1+jxgmx9T3umykB3pkGU2dWmQYJICrqbztJvzRqSUD0yM0bLzvIZPegvNH6XwLMW5rVE74MyeGpOQhzjCuZ1nexgrv9mCuti6OiKcJzo8XQ7aeuzwip6cNPXzqflgDGOISFNS6IwZ35yOt5qjbfrVCcAbl6L7EwHHy2rIKrZIeHVz/ST80tJAM1473UfN97IULsoB6L4sSh6MsGMR9klubHaiJMmxNGUmL1D9MMWjx0Ubdnw24jWKJ/QSA==;SLBkqQzznxhixTinkWl52w=="
+secured: "O/b65wFU3WM5l25m3i4r21e82wH+P4w3dz0a5y0OToHAsdKFmrFdEyUreM33HAo0U8el2dSu9hodbiicooij4nH8JpXPI0FrNpRzzEx8mzBDl2cXd4Sq29rkNeFVaSXm6djRNQzo7t66mcV3pNRzK55nX9c7POlUBXHKOCX/407cLUxxShztqA7RcJfwUOSDJc7RB/6hwhLnxkMr0c4GtmRkpjrOoO9WKRo/ujSEMRmDVQw/RO/9ntJz4J6e5y4Wt2PQ/GKjw21Dj+zC7o050WrZF8kZF4e0bNl/CqcJAJvn2Rk/CMkZAIbtnG4Zt55BmGYaRwFT3RcY0UL71vjcL6tJ/b1+gEC8Mac0QhMJxP8=;8WxYv4Kh5l4s6WmTP3I8TA=="
 ---
 

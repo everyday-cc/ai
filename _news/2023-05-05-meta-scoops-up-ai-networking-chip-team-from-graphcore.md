@@ -51,6 +51,20 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Meta Platforms scoops up AI networking chip team from Graphcore"
+    excerpt: "Meta Platforms Inc has hired an Oslo-based team that until late last year was building artificial-intelligence networking technology at British chip unicorn Graphcore.A Meta spokesperson confirmed the hirings in response to a request for comment,"
+    publishedDateTime: 2023-05-06T01:31:00Z
+    webUrl: "https://www.channelnewsasia.com/business/meta-platforms-scoops-ai-networking-chip-team-graphcore-3468007"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 56
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--9HumNy0t--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-05-05t133156z_1_lynxmpej440h9_rtroptp_3_meta-platforms-ai.jpg?itok=k0W4eQWc"
+        width: 1200
+        height: 676
+        isCached: true
 
 secured: "nuMNIBk2oVYMy0O04ym9Se3ReMnAXRcPWdtLDsToGdTo8K8vrOrkMk6kLQ6MGnORoSD/kFabY04YpZR2h/kd9bVAacH7N9rImcG7bxTKY7kfoylFGA+ZVpZ64J6zGsPgDoJSAOIoUrCAyY2xBz4NifTNKn0waUtUUIkEhWtjwIJkEo2V2jIbWJ5w1wHKzwV4Jypoo7K8/hN2C5izF2J6ZJEsGBwwbo1sppMR4IPwGQjHP8aVrjNICm9u5Iykt+5PYCv+tVIeC2byEaLtgZUV2Fi2QwG9Eqr0l8I0rbuy9zFZEcGXxemEGylA/Wo1I41SEBAOoYf9G0sVkgEvP7oSwWTGMY3FHI3i3Ss3a6kDn8KNVn+Z0+B27ZlPaZCZlCGsbis+HTzAKlVX67yHINpI7RPRp37lk546nIPdgURNRHhtNYquZHsefK+V/lUJSxNAVbWv2sbhDeiDp91Hdo2VR8+rCQUUN385QOtXa6vAmhqE2UUIVruEEfWRT4dOLZV1Tg04fh5BvEbK09ETEayaNQ==;IPAcRvbOO89Ti4e2sbhi7g=="
 ---

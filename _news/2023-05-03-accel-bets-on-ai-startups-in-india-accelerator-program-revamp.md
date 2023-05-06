@@ -44,22 +44,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Early AI adopter Informatica is set up for the generative age, but not profiting yet"
-    excerpt: "Informatica says it is in the business of delivering “trusted data for trusted outcomes”, according to Chief Product Officer Jitesh Ghai. That message seems increasingly relevant as many organizations rush to adopt artificial intelligence solutions that have been trained on data scraped from the Web."
-    publishedDateTime: 2023-05-01T08:59:00Z
-    webUrl: "https://diginomica.com/early-ai-adopter-informatica-set-generative-age-not-profiting-yet"
-    ampWebUrl: "https://diginomica.com/early-ai-adopter-informatica-set-generative-age-not-profiting-yet?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/early-ai-adopter-informatica-set-generative-age-not-profiting-yet?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 52
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2023-03/Shutterstock_1576352020.jpg"
-        width: 740
-        height: 450
-        isCached: true
   - title: "What’s inside Box? More generative AI"
     excerpt: "Box expands its enterprise content cloud with Box AI, generative AI that more intuitively understands and creates new enterprise content."
     publishedDateTime: 2023-05-02T12:00:00Z

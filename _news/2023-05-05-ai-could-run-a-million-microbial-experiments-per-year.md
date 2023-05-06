@@ -67,6 +67,20 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "Novel AI-enabled robot to conduct automated scientific experiments"
+    excerpt: "Researchers have developed an artificial intelligence (AI) system that can help robots to conduct automated scientific experiments - as many as 10,000 per day - potentially driving a drastic"
+    publishedDateTime: 2023-05-06T00:21:00Z
+    webUrl: "https://www.thehansindia.com/hans/young-hans/novel-ai-enabled-robot-to-conduct-automated-scientific-experiments-796141"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 54
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2023/05/06/1350055-ai.jpg"
+        width: 1200
+        height: 720
+        isCached: true
   - title: "Regulating AI will put companies and governments at loggerheads"
     excerpt: "The rapid release of generative AI tools has been a moment of reckoning. Just this week Geoffrey Hinton, a celebrated developer of AI, announced his resignation from Google, saying he regretted his work and wants to speak freely about the dangers and risks of the technology he created."
     publishedDateTime: 2023-05-02T16:53:00Z
