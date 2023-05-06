@@ -2,6 +2,163 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-05-05-the-best-shows-on-amazon-prime-right-now-may-2023.md",
+      "title": "The best shows on Amazon Prime right now (May 2023)",
+      "excerpt": "It’s a show that defined a generation, and the ‘90s teen drama is now accessible to stream in its entirety for a whole new generation (or, let’s face it, for Gen-Xers to re-watch to relive ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/movies/best-shows-on-amazon-prime/",
+      "originalUrl": "https://www.digitaltrends.com/movies/best-shows-on-amazon-prime/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/05/freaks-and-geeks-cast.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/movies/best-shows-on-amazon-prime/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/best-shows-on-amazon-prime/?amp",
+      "publishedDateTime": "2023-05-05T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-05-from-michelangelo-to-robots-this-startup-is-carving-a-new-era-of-sculpture.md",
+      "title": "From Michelangelo to robots: This startup is carving a new era of sculpture",
+      "excerpt": "An Italian startup aims to carve a new era of sculpture, where robotic chisels and AI deliver unprecedented speed, accuracy, and innovation.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/from-michelangelo-to-robots-startup-is-carving-new-era-of-sculpture",
+      "originalUrl": "https://thenextweb.com/news/from-michelangelo-to-robots-startup-is-carving-new-era-of-sculpture",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F05%2FUntitled-design-1-1.jpg&signature=55aa3c4b4413c21a9d7d47e03e7e2628",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-05T01:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-05-ai-marketing-market-future-growth-and-business-opportunities-2023-updated-report.md",
+      "title": "AI Marketing Market Future Growth and Business Opportunities 2023 | Updated Report",
+      "excerpt": "AI Marketing Market Size 2023 | New Report (124 Pages) | Analytics | In This Reports AI Marketing Market Top AI",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-marketing-market-future-growth-and-business-opportunities-2023-updated-report-2023-05-05",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-marketing-market-future-growth-and-business-opportunities-2023-updated-report-2023-05-05",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 230,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-04T22:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2023-05-05-bing-ai-chat-is-now-open-to-everyone-though-still-in-preview.md",
       "title": "Bing AI Chat is now open to everyone, though still in preview",
       "excerpt": "Persistent chat, images and video, a chat sidebar and the promise of third-party plugins make Bing Chat more useful but not perfect.",
@@ -197,48 +354,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-05-tired-of-applying-to-jobs-ai-can-help.md",
-      "title": "Tired of applying to jobs? AI can help",
-      "excerpt": "We have all been there: spending countless hours tailoring and designing our resumes, and writing and rewriting our cover letters for employers who ask for them. There is no point in denying that these tasks are as tedious as they get.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedailystar.net/tech-startup/news/tired-applying-jobs-ai-can-help-3310986",
-      "originalUrl": "https://www.thedailystar.net/tech-startup/news/tired-applying-jobs-ai-can-help-3310986",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/05/04/chatgpt_job_applications.jpg",
-          "width": 750,
-          "height": 393,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thedailystar.net/tech-startup/news/tired-applying-jobs-ai-can-help-3310986?amp",
-      "cdnAmpWebUrl": "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/tired-applying-jobs-ai-can-help-3310986?amp",
-      "publishedDateTime": "2023-05-04T21:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Star",
-        "domain": "thedailystar.net",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -982,7 +1097,7 @@
       "originalUrl": "https://www.reuters.com/article/amd-ai-microsoft/update-1-microsoft-helping-finance-amds-expansion-into-ai-chips-bloomberg-idUSL4N3714JL",
       "featuredContent": null,
       "highlight": null,
-      "heat": 448,
+      "heat": 468,
       "tags": null,
       "images": [
         {
@@ -1112,109 +1227,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-box-introduces-box-ai-to-bring-the-power-of-ai-to-enterprise-content.md",
-      "title": "Box Introduces Box AI To Bring The Power Of AI To Enterprise Content",
-      "excerpt": "Vice President & Principal Analyst, Modern Work, Melody Brue, dives into Box AI, a new capabilities suite that natively integrates advanced AI models into the Box Content Cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/05/04/box-introduces-box-ai-to-bring-the-power-of-ai-to-enterprise-content/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/05/04/box-introduces-box-ai-to-bring-the-power-of-ai-to-enterprise-content/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6453be070729cea75deabd27/0x0.jpg?format=jpg&width=1200",
-          "width": 468,
-          "height": 263,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/05/04/box-introduces-box-ai-to-bring-the-power-of-ai-to-enterprise-content/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/05/04/box-introduces-box-ai-to-bring-the-power-of-ai-to-enterprise-content/amp/",
-      "publishedDateTime": "2023-05-04T07:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-britains-competition-watchdog-opens-investigation-into-artificial-intelligence-market.md",
-      "title": "Britain's competition watchdog opens investigation into artificial intelligence market",
-      "excerpt": "The Competition Markets Authority in Britain is investigating the artificial intelligence market. The investigation will focus on the technology underpinning chatbots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/world/britains-competition-watchdog-opens-investigation-artificial-intelligence-market",
-      "originalUrl": "https://www.foxnews.com/world/britains-competition-watchdog-opens-investigation-artificial-intelligence-market",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d66e500a-bd8d-48be-8e80-975a5c3cc1b8/1a40ac88-f811-4bef-b170-9f0ab28f6994/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/world/britains-competition-watchdog-opens-investigation-artificial-intelligence-market.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/britains-competition-watchdog-opens-investigation-artificial-intelligence-market.amp",
-      "publishedDateTime": "2023-05-04T07:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

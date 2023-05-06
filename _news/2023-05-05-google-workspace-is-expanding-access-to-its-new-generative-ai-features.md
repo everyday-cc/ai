@@ -49,6 +49,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 49
+  - title: "Why generative AI is more dangerous than you think"
+    excerpt: "The real short-term danger of generative AI isn't lost jobs or fake content but targeted generative ads and targeted conversational influence."
+    publishedDateTime: 2023-05-06T13:39:00Z
+    webUrl: "https://venturebeat.com/ai/why-generative-ai-is-more-dangerous-than-you-think/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
   - title: "There’s Still A Long Way To Go With Generative AI"
     excerpt: "The tech world is awash with generative AI, which for a company like Nvidia, is a good thing. The company that a decade ago put its money down on AI to be"
     publishedDateTime: 2023-05-05T13:54:00Z

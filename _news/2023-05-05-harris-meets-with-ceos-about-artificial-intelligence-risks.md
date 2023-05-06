@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Harris meets with CEOs about artificial intelligence risks"
-excerpt: "Vice President Kamala Harris speaks, along side Jill Scarbo, who won National Small Business of the Year in 2022 and is the CEO of Bright Futures Learning Services (BFLS), a provider of Applied Behavior Analysis (ABA) therapy services for children ..."
-publishedDateTime: 2023-05-04T17:42:00Z
-originalUrl: "https://omaha.com/lifestyles/technology/harris-meets-with-ceos-about-artificial-intelligence-risks/article_2be5fceb-7e7e-5b20-93a6-2fc9680f8df6.html"
-webUrl: "https://omaha.com/lifestyles/technology/harris-meets-with-ceos-about-artificial-intelligence-risks/article_2be5fceb-7e7e-5b20-93a6-2fc9680f8df6.html"
+excerpt: "Vice President Kamala Harris met with the heads of Google, Microsoft and two other companies developing artificial intelligence. The Biden administration is rolling out initiatives meant to ensure the"
+publishedDateTime: 2023-05-04T17:23:00Z
+originalUrl: "https://www.wfmz.com/news/ap/ap-business/harris-meets-with-ceos-about-artificial-intelligence-risks/article_efc1a921-91d4-5b34-9c2b-4fc6f05d5f73.html"
+webUrl: "https://www.wfmz.com/news/ap/ap-business/harris-meets-with-ceos-about-artificial-intelligence-risks/article_efc1a921-91d4-5b34-9c2b-4fc6f05d5f73.html"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Omaha.com
-  domain: omaha.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Healthcare
   - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/30/8309535f-b801-5303-af7f-5bb291a114de/645384beee22f.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "President Biden meets with AI CEOs at the White House amid ethical criticism"
@@ -234,6 +240,6 @@ related:
       domain: mynorthwest.com
     quality: 19
 
-secured: "haZ7fpazZwHrwDjIJCK7VuNn3F+pKPNvRi9bjfmeXCDi9SNiQ4HweMlOt+jKV75vJzcqZceVPHwJnUgOwe/onZwFi/5tFI4pTf368Hb1OFc0Fzkw86tHphxMWwp24f6n1vXWT/bJtpZJZFjA4Yfdy30XoN3KMwyS9mdc4Bo1nDilaY9I+dnY+DLy77Z/xTFM65qTLs/FWiRcQBfdgLAgmuzZMPuyy6GMA88GX3rkCt+y8r4xJgK/mmOQRlmN/3/cjH7WCq85alu6RAL+bLlQHJVXEcEGC5k6+UDnvYTxjHxH6nWFTp+6YmDAv4ac/6VpXdh0ecKfLo6nznf+OCRps2q/DGbq5/UtC/9LT04d5nJE51vWuw//JCL0V93cOrrePtaTH38/16tRpODBjiQnDCM68bpCy4am5STNcHWdK0LI/Z4T6yWBwVJXK7aj3hiHax04sxpaRN0e17v2TbY5HfuNSHk115OSTO9R/o2jtlpMCp2Ixzn8w65f7TrTHN69njPtcxxUqQKkVwv0JAFT/w==;GjJ5IsXzQSO5EzfbzuVUhg=="
+secured: "2qyFDU1FsLOOSf/Sg0FQWdmbuh3kvAaOwAQPTSCy672VTgVu1w75Dvrs8F1TOVRM5xnbbzQbDsr2a2teVAoWa2WcW1utQfqxUrGcp0+9m8gA2HGcPumMqPrX9iRzLVMeTKVZ7s7GzbJRujV3rRv+SvGxnpi8Rj3HFW2NWBduSUEM/whyocyA9t7gvKPJEmXTX1TTbPS4LbzlX6qXMU++xWUsPLcJiw8sSyv+xyLbJH2CECT/pRbm+azYTmw7G3cFnRC368hXbGMFwkbD7LcPI+L9rv4B7eGVgcklScT/3bwX4Zk4dRzpYsMIu8CTCqULBRj4dcc6aNrm5rY9NOPpsPAYUuJsWwT5czHRMnej/iI=;sVUqdNW4xH/PlR+zTUl+wQ=="
 ---
 

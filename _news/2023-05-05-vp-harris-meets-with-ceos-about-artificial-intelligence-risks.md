@@ -163,6 +163,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Harris meets with CEOs about artificial intelligence risks"
+    excerpt: "Vice President Kamala Harris met with the heads of Google, Microsoft and two other companies developing artificial intelligence. The Biden administration is rolling out initiatives meant to ensure the"
+    publishedDateTime: 2023-05-04T17:23:00Z
+    webUrl: "https://www.wfmz.com/news/ap/ap-business/harris-meets-with-ceos-about-artificial-intelligence-risks/article_efc1a921-91d4-5b34-9c2b-4fc6f05d5f73.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/30/8309535f-b801-5303-af7f-5bb291a114de/645384beee22f.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "White House unveils an AI plan ahead of meeting with tech CEOs"
     excerpt: "CNN By Brian Fung, CNN The White House on Thursday announced a series of measures to address the challenges of artificial intelligence, driven by the sudden popularity of tools such as ChatGPT and amid rising concerns about the technology’s potential risks for discrimination,"
     publishedDateTime: 2023-05-04T21:18:00Z
@@ -216,15 +230,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Harris meets with CEOs about artificial intelligence risks"
-    excerpt: "Vice President Kamala Harris speaks, along side Jill Scarbo, who won National Small Business of the Year in 2022 and is the CEO of Bright Futures Learning Services (BFLS), a provider of Applied Behavior Analysis (ABA) therapy services for children ..."
-    publishedDateTime: 2023-05-04T17:42:00Z
-    webUrl: "https://omaha.com/lifestyles/technology/harris-meets-with-ceos-about-artificial-intelligence-risks/article_2be5fceb-7e7e-5b20-93a6-2fc9680f8df6.html"
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 19
   - title: "Harris to meet with CEOs about artificial intelligence risks"
     excerpt: "The Democratic administration plans to announce an investment of $140 million to establish seven new AI research institutes"
     publishedDateTime: 2023-05-05T12:49:00Z

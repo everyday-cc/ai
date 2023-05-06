@@ -27,22 +27,6 @@ images:
 related:
   - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
     excerpt: "Here's a guide to help understand Open AI's viral text-generating system. We outline the most recent updates and answer the most common FAQs."
-    publishedDateTime: 2023-05-01T20:51:00Z
-    webUrl: "https://techcrunch.com/2023/05/01/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/"
-    ampWebUrl: "https://techcrunch.com/2023/05/01/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/01/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
-        width: 1200
-        height: 798
-        isCached: true
-  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
-    excerpt: "Here's a guide to help understand Open AI's viral text-generating system. We outline the most recent updates and answer the most common FAQs."
     publishedDateTime: 2023-05-03T16:45:00Z
     webUrl: "https://techcrunch.com/2023/05/03/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/"
     ampWebUrl: "https://techcrunch.com/2023/05/03/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/"
@@ -361,20 +345,6 @@ related:
       - url: "https://www.irishtimes.com/resizer/1X6K7izXLKEeudFAltzVwhuOlmY=/1200x630/filters:format(jpg):quality(70):focal(3605x1565:3615x1575)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/CC2H53FF6FDPHC7GT6BQSJOA5E.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "With the Rise of ChatGPT, VC Latches on to AI"
-    excerpt: "More than a third of venture capitalists believe artificial intelligence will generate the most growth of all sectors in tech, according to PitchBook."
-    publishedDateTime: 2023-05-01T20:31:00Z
-    webUrl: "https://www.institutionalinvestor.com/article/b8yjqzxwx1nk84/With-the-Rise-of-ChatGPT-VC-Latches-on-to-AI"
-    type: article
-    provider:
-      name: Institutional Investor
-      domain: institutionalinvestor.com
-    quality: 39
-    images:
-      - url: "https://www.institutionalinvestor.com/media/AMG/II/articles/1/1/1/art_machine050123.jpg"
-        width: 1000
-        height: 650
         isCached: true
   - title: "AI start-up Inflection launches ChatGPT-like chatbot named Pi"
     excerpt: "Inflection’s chatbot, named Pi, uses generative AI technology to interact with users through dialogues. Read more at straitstimes.com."

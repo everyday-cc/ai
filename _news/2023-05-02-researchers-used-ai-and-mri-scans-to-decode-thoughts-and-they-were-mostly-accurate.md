@@ -25,35 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "AI plus MRI yields the ability to recognize what the mind is hearing"
-    excerpt: "Combined with a detailed knowledge of which regions of the brain are involved in specific processes, we've been able to do remarkable things, such as using functional MRI (fMRI) to determine what letter a person was looking at or an implant to control a robotic arm But today,"
-    publishedDateTime: 2023-05-01T21:46:00Z
-    webUrl: "https://arstechnica.com/science/2023/05/ai-plus-mri-yields-the-ability-to-recognize-what-the-mind-is-hearing/"
-    ampWebUrl: "https://arstechnica.com/science/2023/05/ai-plus-mri-yields-the-ability-to-recognize-what-the-mind-is-hearing/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/science/2023/05/ai-plus-mri-yields-the-ability-to-recognize-what-the-mind-is-hearing/amp/"
+  - title: "World’s Top AI Researchers Debate the Technology’s Next Steps"
+    excerpt: "After ChatGPT sparked a frenzy among tech companies, a conference in Africa is focusing on AI’s promise and peril for poorer nations."
+    publishedDateTime: 2023-05-06T14:00:00Z
+    webUrl: "https://www.wsj.com/articles/worlds-top-ai-researchers-debate-the-technologys-next-steps-55be2849"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 89
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/05/GettyImages-172591385-e1682975888203-800x716.jpg"
-        width: 800
-        height: 716
+      - url: "https://images.wsj.net/im-777121/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "Researchers use AI combined with MRI to decode human thoughts"
-    excerpt: "Researchers at the University of Texas at Austin have been using artificial intelligence in combination with fMRI scans to translate brain activity into continuous text. The results were published today in the Nature Journal under the title,"
-    publishedDateTime: 2023-05-02T02:00:00Z
-    webUrl: "https://siliconangle.com/2023/05/01/researchers-use-ai-combined-mri-decode-human-thoughts/"
+  - title: "As AI ethics are debated, this Google expert says: Consider who’s acting as ‘steward’ of the technology"
+    excerpt: "\"The more perspectives, the more communities, the more cultures are brought into this conversation, the better the guardrails,\" Carolyn Yap, director of AI Practice, said during PACT's AI-focused Phorum conference."
+    publishedDateTime: 2023-05-04T20:56:00Z
+    webUrl: "https://technical.ly/software-development/ai-google-pact-phorum-ethics/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
+      name: Technical
+      domain: technical.ly
+    quality: 38
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/23682213069_314ebb45a1_c.jpg"
-        width: 800
-        height: 575
+      - url: "https://technical.ly/wp-content/uploads/2023/05/IMG_1781.jpg"
+        width: 1200
+        height: 900
         isCached: true
 
 secured: "y7KzwnskOpM46PDG1x+k0C+ccAMy2G2MeNFPWcwUyC6KOpw0a35SJIkTNTG36fvwkuj/7qR7WA6eshIZCNM2GzC+vi9AaO/kPxbiP2x0FQXvSqOxk3OY7y9Cz/Kd+idckmZwgz7Ol5TVI94/GacP6DhzPffUpzrHdq1FmIqqw41+u1juUWQ/4CpUmjdruRaWQW/ibTDBNM80inLhpEUFsJzKrl9WVb05UttqAegFHYolC0ozuIKjVPC+Np0N4ser4k7l2Fk1DJ/O7k70oMoFpZCyRE3SfJyR0UvIH/ejW30xsCcLK+0LMKrrc7GI740/W6esPN6JvTOLYAxzYXYVv7F6EdZgj+zQjGW1MJ8wSV8=;26fSgdaXJlgzKGXiY6fiqg=="

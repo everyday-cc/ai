@@ -55,6 +55,58 @@
       ]
     },
     {
+      "path": "_news/2023-05-05-from-michelangelo-to-robots-this-startup-is-carving-a-new-era-of-sculpture.md",
+      "title": "From Michelangelo to robots: This startup is carving a new era of sculpture",
+      "excerpt": "An Italian startup aims to carve a new era of sculpture, where robotic chisels and AI deliver unprecedented speed, accuracy, and innovation.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/from-michelangelo-to-robots-startup-is-carving-new-era-of-sculpture",
+      "originalUrl": "https://thenextweb.com/news/from-michelangelo-to-robots-startup-is-carving-new-era-of-sculpture",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F05%2FUntitled-design-1-1.jpg&signature=55aa3c4b4413c21a9d7d47e03e7e2628",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-05T01:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-05-indias-robot-installations-hit-an-all-time-high.md",
       "title": "India’s robot installations hit an all-time high",
       "excerpt": "Industrial robot sales in India have reached a new record with 4,945 units installed in 2021, according to the IFR.",
@@ -280,6 +332,50 @@
       ]
     },
     {
+      "path": "_news/2023-05-04-examining-the-media-psychology-of-artificial-intelligence.md",
+      "title": "Examining the Media Psychology of Artificial Intelligence",
+      "excerpt": "The psychology of artificial intelligence is a burgeoning field in which science, medicine and health care, psychology, education, entertainment, and technology and commerce converge. Through media psychology, AI can be designed to wag the tail or wag the dog.",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/za/blog/the-media-psychology-effect/202305/examining-the-media-psychology-of-artificial-intelligence",
+      "originalUrl": "https://www.psychologytoday.com/za/blog/the-media-psychology-effect/202305/examining-the-media-psychology-of-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-05/Tail%20Wagging%20the%20Dog%20%235.jpg?itok=_UnK84ps",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/za/blog/the-media-psychology-effect/202305/examining-the-media-psychology-of-artificial-intelligence?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-media-psychology-effect/202305/examining-the-media-psychology-of-artificial-intelligence?amp",
+      "publishedDateTime": "2023-05-03T11:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-05-03-these-robot-arms-were-designed-to-help-humans-interact-with-ai.md",
       "title": "These robot arms were designed to help humans interact with AI",
       "excerpt": "Jizai Arms is a system of supernumerary robotic limbs. Up to six of these arms can be worn and controlled by the user. The limbs allow the wearer to attach, detach, replace or edit the arms. This was designed to enable social interaction between wearers to support human beings acting with robots and AIs while maintaining a sense of self-awareness and widening the possibility of human actions.",
@@ -405,6 +501,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-02-neuroscientists-decode-human-thoughts-with-brain-scans-and-artificial-intelligence-heres-the-science-behind-it.md",
+      "title": "Neuroscientists Decode Human Thoughts With Brain Scans And Artificial Intelligence, Here’s The Science Behind It",
+      "excerpt": "People with disabilities, such as those who have had strokes or have amyotrophic lateral sclerosis, who are unable to speak or communicate in any other way could benefit from this technology.",
+      "sourceUrl": null,
+      "webUrl": "https://in.mashable.com/tech/51886/neuroscientists-decode-human-thoughts-with-brain-scans-and-artificial-intelligence-heres-the-science",
+      "originalUrl": "https://in.mashable.com/tech/51886/neuroscientists-decode-human-thoughts-with-brain-scans-and-artificial-intelligence-heres-the-science",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/mashable_in/seo/5/52604/52604_v9mg.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-02T07:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "in.mashable",
+        "domain": "mashable.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1045,6 +1184,49 @@
       ]
     },
     {
+      "path": "_news/2023-04-28-first-babies-conceived-using-playstation-controlled-robot-are-born.md",
+      "title": "First babies conceived using PlayStation-controlled robot are born",
+      "excerpt": "the student mechanical engineer who controlled the sperm-injecting device, told MIT Technology Review. The robot was developed by Overture Life, a company that’s working towards automating in ...",
+      "sourceUrl": null,
+      "webUrl": "https://metro.co.uk/2023/04/27/first-babies-conceived-using-playstation-controlled-robot-are-born-18685759/?ico=amp_tag-post-strip_item_3_news",
+      "originalUrl": "https://metro.co.uk/2023/04/27/first-babies-conceived-using-playstation-controlled-robot-are-born-18685759/?ico=amp_tag-post-strip_item_3_news",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://metro.co.uk/wp-content/uploads/2023/04/picsea-kd3qRzgEl70-unsplash-5929.jpg?quality=90&strip=all&zoom=1&resize=600%2C400",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://metro.co.uk/2023/04/27/first-babies-conceived-using-playstation-controlled-robot-are-born-18685759/amp/",
+      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/04/27/first-babies-conceived-using-playstation-controlled-robot-are-born-18685759/amp/",
+      "publishedDateTime": "2023-04-27T18:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Metro",
+        "domain": "metro.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-27-global-x-funds-global-x-robotics-artificial-intelligence-etf-nasdaq-botz.md",
       "title": "Global X Funds - Global X Robotics & Artificial Intelligence ETF (NASDAQ: BOTZ)",
       "excerpt": "Calculated by average return of all stock recommendations since inception of the Stock Advisor service in February of 2002. Returns as of 04/27/2023. Discounted offers are only available to new ...",
@@ -1213,188 +1395,6 @@
         "name": "Politico Europe",
         "domain": "politico.eu",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-26-jellyfish-robots-could-one-day-clean-up-the-worlds-oceans.md",
-      "title": "Jellyfish Robots Could One Day Clean Up The World’s Oceans",
-      "excerpt": "Marine plastic pollution is a bigger problem than some may realize. According to the International Union for Conservation of Nature (IUCN), at least 14 million tons of plastic end up in the ocean every year, with plastic making up 80 percent of all the marine debris found across the water's surface and deep below.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/darylaustin/2023/04/25/jellyfish-robots-could-one-day-clean-up-the-worlds-oceans/",
-      "originalUrl": "https://www.forbes.com/sites/darylaustin/2023/04/25/jellyfish-robots-could-one-day-clean-up-the-worlds-oceans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/644853cb5e65f457e1a3bac0/0x0.jpg?format=jpg&crop=5165,2903,x0,y264,safe&width=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/darylaustin/2023/04/25/jellyfish-robots-could-one-day-clean-up-the-worlds-oceans/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/darylaustin/2023/04/25/jellyfish-robots-could-one-day-clean-up-the-worlds-oceans/amp/",
-      "publishedDateTime": "2023-04-25T15:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-maxon-partners-with-massrobotics-to-support-the-advancements-of-drive-technology-in-robotics.md",
-      "title": "maxon Partners with MassRobotics to Support the Advancements of Drive Technology in Robotics",
-      "excerpt": "MassRobotics and maxon announce a partnership to support the robotics innovation ecosystem through collaboration and exploration of motion control technologies around automation and manufacturing-related applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.automation.com/en-us/articles/april-2023/maxon-massrobotics-drive-technology-robotics",
-      "originalUrl": "https://www.automation.com/en-us/articles/april-2023/maxon-massrobotics-drive-technology-robotics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-25T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automation",
-        "domain": "automation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-irbo-like-a-mini-botz-this-etf-could-benefit-from-artificial-intelligence-growth.md",
-      "title": "IRBO: Like A Mini BOTZ, This ETF Could Benefit From Artificial Intelligence Growth",
-      "excerpt": "IRBO invests in companies focused on artificial intelligence (AI) and robotics. AI is one of the hottest topics this year, as its possibilities continue to grow and could move more towards ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4596218-irbo-mini-botz-etf-benefit-artificial-intelligence-growth",
-      "originalUrl": "https://seekingalpha.com/article/4596218-irbo-mini-botz-etf-benefit-artificial-intelligence-growth",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1435014643/image_1435014643.jpg?io=getty-c-w1536",
-          "width": 1536,
-          "height": 822,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-25T03:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-04-24-how-scalable-uavs-and-mobile-robotics-can-do-good-in-the-world.md",
-      "title": "How Scalable UAVs And Mobile Robotics Can Do Good In The World",
-      "excerpt": "The potential for business use is significant, but even more interesting are the strategic ways modern UAVs can bring more good to our world. That can happen in a business context or across nonprofit and government sectors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/how-scalable-uavs-and-mobile-robotics-can-do-good-in-the-world/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/how-scalable-uavs-and-mobile-robotics-can-do-good-in-the-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63ee2d7713ba05d84c171308/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/how-scalable-uavs-and-mobile-robotics-can-do-good-in-the-world/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/24/how-scalable-uavs-and-mobile-robotics-can-do-good-in-the-world/amp/",
-      "publishedDateTime": "2023-04-24T04:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

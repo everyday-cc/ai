@@ -2,6 +2,50 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-03-30-bundesliga-match-fact-keeper-efficiency-comparing-keepers-performances-objectively-using-machine-learning-on-aws.md",
+      "title": "Bundesliga Match Fact Keeper Efficiency: Comparing keepers’ performances objectively using machine learning on AWS",
+      "excerpt": "The Bundesliga is renowned for its exceptional goalkeepers, making it potentially the most prominent among Europe’s top five leagues in this regard. Apart from the widely recognized Manuel Neuer, the Bundesliga has produced remarkable goalkeepers who have excelled in other leagues, including the likes",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/bundesliga-match-fact-keeper-efficiency-comparing-keepers-performances-objectively-using-machine-learning-on-aws/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/bundesliga-match-fact-keeper-efficiency-comparing-keepers-performances-objectively-using-machine-learning-on-aws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-30T11:07:32-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-03-29-achieve-effective-business-outcomes-with-no-code-machine-learning-using-amazon-sagemaker-canvas.md",
       "title": "Achieve effective business outcomes with no-code machine learning using Amazon SageMaker Canvas",
       "excerpt": "On November 30, 2021, we announced the general availability of Amazon SageMaker Canvas, a visual point-and-click interface that enables business analysts to generate highly accurate machine learning (ML) predictions without having to write a single line of code. With Canvas, you can take ML mainstream",

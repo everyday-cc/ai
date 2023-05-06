@@ -2,6 +2,205 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-05-04-examining-the-media-psychology-of-artificial-intelligence.md",
+      "title": "Examining the Media Psychology of Artificial Intelligence",
+      "excerpt": "The psychology of artificial intelligence is a burgeoning field in which science, medicine and health care, psychology, education, entertainment, and technology and commerce converge. Through media psychology, AI can be designed to wag the tail or wag the dog.",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/za/blog/the-media-psychology-effect/202305/examining-the-media-psychology-of-artificial-intelligence",
+      "originalUrl": "https://www.psychologytoday.com/za/blog/the-media-psychology-effect/202305/examining-the-media-psychology-of-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-05/Tail%20Wagging%20the%20Dog%20%235.jpg?itok=_UnK84ps",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/za/blog/the-media-psychology-effect/202305/examining-the-media-psychology-of-artificial-intelligence?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-media-psychology-effect/202305/examining-the-media-psychology-of-artificial-intelligence?amp",
+      "publishedDateTime": "2023-05-03T11:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-05-03-checks-googles-ai-powered-privacy-platform.md",
+      "title": "Checks, Google’s AI-powered privacy platform",
+      "excerpt": "Checks takes the complexity out of compliance, using AI to help companies quickly discover, communicate and fix issues.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/checks-googles-ai-powered-privacy-platform/",
+      "originalUrl": "https://blog.google/technology/ai/checks-googles-ai-powered-privacy-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/imageforsocial.width-1300.png",
+          "width": 800,
+          "height": 418,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/checks-googles-ai-powered-privacy-platform/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/checks-googles-ai-powered-privacy-platform/amp/",
+      "publishedDateTime": "2023-05-03T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-03-chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot.md",
+      "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
+      "excerpt": "Here's a guide to help understand Open AI's viral text-generating system. We outline the most recent updates and answer the most common FAQs.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/05/03/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/",
+      "originalUrl": "https://techcrunch.com/2023/05/03/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 439,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/05/03/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/03/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/",
+      "publishedDateTime": "2023-05-03T09:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-03-ai-threatens-7800-jobs-as-ibm-pauses-hiring.md",
+      "title": "AI threatens 7,800 jobs as IBM pauses hiring",
+      "excerpt": "Independent of this move, IBM announced 3,900 job cuts in late January. However, many of the roles reduced due to AI will likely come as a result of the upcoming hiring freeze and jobs vacated by attrition.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-threatens-7800-jobs-as-ibm-pauses-hiring/",
+      "originalUrl": "https://www.zdnet.com/article/ai-threatens-7800-jobs-as-ibm-pauses-hiring/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 247,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/0393b7d5f621704a38027b7cfd596f95695ca462/2023/05/03/d1aff5ee-9f8f-4e70-ad00-0768eff07be4/robot-replace-employee.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-threatens-7800-jobs-as-ibm-pauses-hiring/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-threatens-7800-jobs-as-ibm-pauses-hiring/",
+      "publishedDateTime": "2023-05-03T09:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-03-optimized-pytorch-20-inference-with-aws-graviton-processors.md",
       "title": "Optimized PyTorch 2.0 inference with AWS Graviton processors",
       "excerpt": "New generations of CPUs offer a significant performance improvement in machine learning (ML) inference due to specialized built-in instructions. Combined with their flexibility, high speed of development, and low operating cost, these general-purpose processors offer an alternative to other existing",
@@ -754,7 +953,7 @@
       "originalUrl": "https://blog.google/outreach-initiatives/arts-culture/try-4-new-arts-and-ai-experiments/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 209,
+      "heat": 219,
       "tags": null,
       "images": [
         {
@@ -1052,199 +1251,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-03-a-world-of-mobile-speech-recognition-software-market-insights-2023-2030-at-your-fingertips.md",
-      "title": "A world of Mobile Speech Recognition Software Market Insights 2023-2030 at your fingertips.",
-      "excerpt": "The \"Mobile Speech Recognition Software Market\" study delves into the evolution of the technology industry and",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/a-world-of-mobile-speech-recognition-software-market-insights-2023-2030-at-your-fingertips-2023-05-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/a-world-of-mobile-speech-recognition-software-market-insights-2023-2030-at-your-fingertips-2023-05-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-02T21:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-03-automated-machine-learning-automl-market-analysis-and-forecast-to-2031.md",
-      "title": "Automated Machine Learning (AutoML) Market Analysis and Forecast to 2031",
-      "excerpt": "May 03, 2023 (The Expresswire) -- \"Automated Machine Learning (AutoML) Market\" is expected to witness significant growth in the coming years,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-analysis-and-forecast-to-2031-2023-05-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-analysis-and-forecast-to-2031-2023-05-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-02T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-05-03-hollywood-screenwriters-dont-want-robots-taking-their-jobs-either.md",
-      "title": "Hollywood screenwriters don’t want robots taking their jobs, either",
-      "excerpt": "The thousands of WGA scribes who went on strike this week are concerned in part about the rise of AI — and how the major studios might tap the technology going forward.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/writers-strike-2023-hollywood-screenwriters-ai-concerns-rcna82543",
-      "originalUrl": "https://www.nbcnews.com/news/writers-strike-2023-hollywood-screenwriters-ai-concerns-rcna82543",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/230502-NYC-Hollywood-Writers-Strike-ac-536p-6e2e6a.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna82543",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna82543",
-      "publishedDateTime": "2023-05-02T16:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-03-aws-deepracer-when-fun-meets-ml-autonomous-cars-and-upskilling.md",
-      "title": "AWS DeepRacer: When fun meets ML, autonomous cars and upskilling",
-      "excerpt": "The AWS DeepRacer event, hosted last Friday by simulation technology provider Computer Modeling Group (CMG) in Calgary, showed how access to the right resources, a good old showdown and attractive prizes could be the answer to the global upskilling problem.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itworldcanada.com/article/aws-deepracer-when-fun-meets-ml-autonomous-cars-and-upskilling/537953",
-      "originalUrl": "https://www.itworldcanada.com/article/aws-deepracer-when-fun-meets-ml-autonomous-cars-and-upskilling/537953",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itworldcanada.com/wp-content/uploads/2023/05/Deepracer2.jpg",
-          "width": 2016,
-          "height": 1512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itworldcanada.com/article/aws-deepracer-when-fun-meets-ml-autonomous-cars-and-upskilling/537953?amp=1",
-      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/aws-deepracer-when-fun-meets-ml-autonomous-cars-and-upskilling/537953?amp=1",
-      "publishedDateTime": "2023-05-02T15:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT World Canada",
-        "domain": "itworldcanada.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning",
-        "AI in Autos"
       ]
     }
   ],

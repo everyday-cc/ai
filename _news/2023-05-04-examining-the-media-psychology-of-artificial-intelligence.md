@@ -8,9 +8,9 @@ webUrl: "https://www.psychologytoday.com/za/blog/the-media-psychology-effect/202
 ampWebUrl: "https://www.psychologytoday.com/za/blog/the-media-psychology-effect/202305/examining-the-media-psychology-of-artificial-intelligence?amp"
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-media-psychology-effect/202305/examining-the-media-psychology-of-artificial-intelligence?amp"
 type: article
-quality: 59
-heat: 69
-published: false
+quality: 61
+heat: 71
+published: true
 
 provider:
   name: Psychology Today
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-05/Tail%20Wagging%20the%20Dog%20%235.jpg?itok=_UnK84ps"

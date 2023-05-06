@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-06-good-bot-bad-bot-using-ai-and-ml-to-solve-data-quality-problems.md",
+      "title": "Good bot, bad bot: Using AI and ML to solve data quality problems",
+      "excerpt": "Bots (both good and bad) will soon constitute an even larger share of internet traffic. How to fight them with AI and ML.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/good-bot-bad-bot-using-ai-and-ml-to-solve-data-quality-problems/",
+      "originalUrl": "https://venturebeat.com/ai/good-bot-bad-bot-using-ai-and-ml-to-solve-data-quality-problems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/annevb_a_good_chatbot_and_a_bad_chatbot._Colorful_futuristic_te_ed17e50e-3d48-4de3-b5d3-f1f04adb84f4.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/good-bot-bad-bot-using-ai-and-ml-to-solve-data-quality-problems/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/good-bot-bad-bot-using-ai-and-ml-to-solve-data-quality-problems/amp/",
+      "publishedDateTime": "2023-05-06T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-05-06-ieee-computer-society-emerging-technology-fund-recipient-introduces-machine-learning-cybersecurity-benchmarks.md",
       "title": "IEEE Computer Society Emerging Technology Fund Recipient Introduces Machine Learning Cybersecurity Benchmarks",
       "excerpt": "Presentation at The Eleventh International Conference on Learning Representations (ICLR) debuts new findings for end-to-end neural network Trojan",
@@ -516,7 +569,7 @@
       "originalUrl": "https://www.nbcnews.com/tech/tech-news/artificial-intelligence-pioneer-leaves-google-warns-technologys-future-rcna82242",
       "featuredContent": null,
       "highlight": null,
-      "heat": 228,
+      "heat": 208,
       "tags": null,
       "images": [
         {
@@ -903,6 +956,49 @@
       ]
     },
     {
+      "path": "_news/2023-04-28-deep-learning-system-explores-materials-interiors-from-the-outside.md",
+      "title": "Deep-learning system explores materials' interiors from the outside",
+      "excerpt": "Maybe you can't tell a book from its cover, but according to researchers at MIT you may now be able to do the equivalent for materials of all sorts, from an airplane part to a medical implant. Their new approach allows engineers to figure out what's going on inside simply by observing properties of the material's surface.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-04-deep-learning-explores-materials-interiors.html",
+      "originalUrl": "https://techxplore.com/news/2023-04-deep-learning-explores-materials-interiors.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/deep-learning-system-e.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-04-deep-learning-explores-materials-interiors.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-04-deep-learning-explores-materials-interiors.amp",
+      "publishedDateTime": "2023-04-28T05:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-28-machine-learning-operations-mlops-market-research-analysis-2023-2031.md",
       "title": "Machine Learning Operations (MLOps) Market Research Analysis 2023-2031",
       "excerpt": "What is the Machine Learning Operations (MLOps) market growth? Machine Learning Operations (MLOps) Market Size is projected to Reach Multimillion USD by 2031, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2031.",
@@ -953,49 +1049,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-deep-learning-system-explores-materials-interiors-from-the-outside.md",
-      "title": "Deep-learning system explores materials' interiors from the outside",
-      "excerpt": "A machine-learning method detects internal structures, voids, and cracks inside a material, based on data about the material's surface.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/04/230428130819.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/04/230428130819.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     },
     {
@@ -1424,60 +1477,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-gpu-for-deep-learning-market-sales-volume-and-forecast-2030.md",
-      "title": "GPU for Deep Learning Market Sales Volume, And Forecast 2030",
-      "excerpt": "The \" GPU for Deep Learning Market\" Size, Trends and Forecasts (2023-2030)â, provides a comprehensive analysis of the",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-sales-volume-and-forecast-2030-2023-04-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-sales-volume-and-forecast-2030-2023-04-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 253,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-25T04:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware",
-        "AI in Sales"
       ]
     }
   ],

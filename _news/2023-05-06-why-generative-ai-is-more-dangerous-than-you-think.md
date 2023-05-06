@@ -1,0 +1,76 @@
+---
+category: news
+title: "Why generative AI is more dangerous than you think"
+excerpt: "The real short-term danger of generative AI isn't lost jobs or fake content but targeted generative ads and targeted conversational influence."
+publishedDateTime: 2023-05-06T13:39:00Z
+originalUrl: "https://venturebeat.com/ai/why-generative-ai-is-more-dangerous-than-you-think/"
+webUrl: "https://venturebeat.com/ai/why-generative-ai-is-more-dangerous-than-you-think/"
+type: article
+quality: 47
+heat: -1
+published: false
+
+provider:
+  name: VentureBeat
+  domain: venturebeat.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+related:
+  - title: "Generative AI brings new risks to everyone. Here's how you can stay safe"
+    excerpt: "Organizations have to figure out the potential implications of tapping generative artificial intelligence tools, such as ChatGPT, while consumers should consider how they establish digital engagement."
+    publishedDateTime: 2023-05-05T10:47:00Z
+    webUrl: "https://www.zdnet.com/article/generative-ai-brings-new-risks-to-everyone-heres-how-you-can-stay-safe/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-brings-new-risks-to-everyone-heres-how-you-can-stay-safe/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-brings-new-risks-to-everyone-heres-how-you-can-stay-safe/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 88
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/e95cabc4c470648090df91010140d6c22b66acce/2023/05/04/dc3b0530-d40e-4fef-954e-de348e4bf9db/gettyimages-1201055987.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Data is choking AI. Here’s how to break free."
+    excerpt: "Problems with that data – quality, quantity, velocity, and more – continue to persist as a major obstacle to successful implementation."
+    publishedDateTime: 2023-05-05T13:20:00Z
+    webUrl: "https://venturebeat.com/ai/data-is-choking-ai-heres-how-to-break-free/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 49
+  - title: "Google Workspace is expanding access to its new generative AI features"
+    excerpt: "Google Workspace has announced that it is expanding its \"trusted tester\" program for its generative AI features by ten times."
+    publishedDateTime: 2023-05-04T23:37:00Z
+    webUrl: "https://bgr.com/tech/google-workspace-is-expanding-access-to-its-new-generative-ai-features/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 37
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/05/gmail-ai-google-workspace.png"
+        width: 1624
+        height: 916
+        isCached: true
+  - title: "There’s Still A Long Way To Go With Generative AI"
+    excerpt: "The tech world is awash with generative AI, which for a company like Nvidia, is a good thing. The company that a decade ago put its money down on AI to be"
+    publishedDateTime: 2023-05-05T13:54:00Z
+    webUrl: "https://www.nextplatform.com/2023/05/05/theres-still-a-long-way-to-go-with-generative-ai/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 19
+
+secured: "W4K9nbENHjq0Acx8wy3ZF1vI9jJK9X4rmIcwWOugDkXOfgoc7m90jNQbLBZ9bO9Y6Gd0UvOBBzAixR2L+jF1PpeyRuYoJ1hitDexRUw/pSxOeI3Jz5WOnwJIKU/Cp3py+g8rrtoCCq1j3UKj0etSsGJwSa+Aoj9ascBp17+ppADTbXvdx8+58xguYeq3sKARuqW74iyt5W3odtMGDMc5Lkd1RxhpdHbFcoMwp2vJFh9cGwahXNI+gdA5N6TsbRuDkFUTxNVK4TulzdcpwrmFlEd9cIv0+efdMG5jkyotGl9YBu1WCnfMv2xpKtduswmHAF1I8bQynnl0KiWVYM9WnrM8EqJWZZRw9bUms9BATSvI1YCwsXvoZy4dirSOb6VqEFdKaTQ0aGfrY5oxQS76Jtb8h1yPZjsWPs/NI8RABE4SaV/K0mUW9ebQ4hvkcOLrqLgqZkVin7Ae6rQQt8O2wzwBPMntH61zxKrgoN9cM1A7f6aYQdsZhDSlWW4QFNm5JYGVi3GrJHyYNJula8lvzQ==;3jU9vY35HMciki8Fl2LCyg=="
+---
+

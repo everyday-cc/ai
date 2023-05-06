@@ -141,6 +141,50 @@
       ]
     },
     {
+      "path": "_news/2023-05-04-examining-the-media-psychology-of-artificial-intelligence.md",
+      "title": "Examining the Media Psychology of Artificial Intelligence",
+      "excerpt": "The psychology of artificial intelligence is a burgeoning field in which science, medicine and health care, psychology, education, entertainment, and technology and commerce converge. Through media psychology, AI can be designed to wag the tail or wag the dog.",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/za/blog/the-media-psychology-effect/202305/examining-the-media-psychology-of-artificial-intelligence",
+      "originalUrl": "https://www.psychologytoday.com/za/blog/the-media-psychology-effect/202305/examining-the-media-psychology-of-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-05/Tail%20Wagging%20the%20Dog%20%235.jpg?itok=_UnK84ps",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/za/blog/the-media-psychology-effect/202305/examining-the-media-psychology-of-artificial-intelligence?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-media-psychology-effect/202305/examining-the-media-psychology-of-artificial-intelligence?amp",
+      "publishedDateTime": "2023-05-03T11:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-05-03-charmhealth-democratizes-generative-ai-use-across-clinical-workflows-in-healthcare-establishments-and-verticals.md",
       "title": "CharmHealth Democratizes Generative AI Use Across Clinical Workflows in Healthcare Establishments and Verticals",
       "excerpt": "CharmHealth integrates search and summarize features, including auto-generating chart note components, note summaries, referral letters, lab result queries, and other features. Clinical virtual assistant features such as auto-suggestion of diagnosis codes and treatment plans are also being rolled out.",
@@ -245,7 +289,7 @@
       "originalUrl": "https://www.nbcnews.com/tech/tech-news/artificial-intelligence-pioneer-leaves-google-warns-technologys-future-rcna82242",
       "featuredContent": null,
       "highlight": null,
-      "heat": 228,
+      "heat": 208,
       "tags": null,
       "images": [
         {
@@ -1398,49 +1442,6 @@
       "provider": {
         "name": "MIT Technology Review",
         "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-22-are-we-ready-for-artificial-empathy.md",
-      "title": "Are We Ready for Artificial Empathy?",
-      "excerpt": "Chatbot-delivered empathy can improve mood and create a strong working alliance between the user and AI interface. Large language AI models like ChatGPT can offer human-like validation and accurately infer meaning and feeling from a user's statements.",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/us/blog/202304/are-we-ready-for-artificial-empathy",
-      "originalUrl": "https://www.psychologytoday.com/us/blog/202304/are-we-ready-for-artificial-empathy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-04/shutterstock_2143155369.jpg?itok=O0GuzCpL",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/us/blog/202304/are-we-ready-for-artificial-empathy?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/202304/are-we-ready-for-artificial-empathy?amp",
-      "publishedDateTime": "2023-04-21T15:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
         "images": null,
         "publishers": null,
         "authors": null

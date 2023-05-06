@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-brings-new-ri
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-brings-new-risks-to-everyone-heres-how-you-can-stay-safe/"
 type: article
 quality: 88
-heat: 118
+heat: 128
 published: true
 
 provider:
@@ -40,6 +40,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 49
+  - title: "Why generative AI is more dangerous than you think"
+    excerpt: "The real short-term danger of generative AI isn't lost jobs or fake content but targeted generative ads and targeted conversational influence."
+    publishedDateTime: 2023-05-06T13:39:00Z
+    webUrl: "https://venturebeat.com/ai/why-generative-ai-is-more-dangerous-than-you-think/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
   - title: "Google Workspace is expanding access to its new generative AI features"
     excerpt: "Google Workspace has announced that it is expanding its \"trusted tester\" program for its generative AI features by ten times."
     publishedDateTime: 2023-05-04T23:37:00Z

@@ -197,6 +197,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 97
+  - title: "Microsoft helping finance AMD's expansion into AI chips, Bloomberg reports"
+    excerpt: "Microsoft Corp is working with Advanced Micro Devices Inc on the chipmaker's expansion into artificial intelligence processors, Bloomberg News reported on Thursday, citing people with knowledge of the matter."
+    publishedDateTime: 2023-05-04T17:23:00Z
+    webUrl: "https://www.reuters.com/technology/microsoft-helping-finance-amds-expansion-into-ai-chips-bloomberg-news-2023-05-04/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 96
   - title: "CallMiner Collaborates with Microsoft to Enhance AI and Machine Learning Capabilities"
     excerpt: "CallMiner, a leading provider of conversation intelligence to drive business performance improvement, today announced"
     publishedDateTime: 2023-05-03T12:30:00Z
@@ -437,6 +446,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 54
+  - title: "Siemens and Microsoft Drive Productivity With Generative AI"
+    excerpt: "MUNICH—Siemens and Microsoft are harnessing the collaborative power of generative artificial intelligence (AI) to help manufacturers drive innovation and efficiency across the design, engineering, manufacturing and operational life cycle of products."
+    publishedDateTime: 2023-05-06T14:00:00Z
+    webUrl: "https://www.assemblymag.com/articles/97776-siemens-and-microsoft-drive-productivity-with-generative-ai"
+    type: article
+    provider:
+      name: Assembly Mag
+      domain: assemblymag.com
+    quality: 54
+    images:
+      - url: "https://www.assemblymag.com/ext/resources/LatestHeadlines/headlines900/siemens-plm-900.jpg?height=635&t=1682976658&width=1200"
+        width: 900
+        height: 550
+        isCached: true
   - title: "Aisera Collaborates with Microsoft to Provide AI Enterprise Service Experiences"
     excerpt: "Aisera, provider of Generative AI solutions for organizations, is partnering with Microsoft to deliver an AI copilot for"
     publishedDateTime: 2023-05-03T16:30:00Z

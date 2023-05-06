@@ -62,20 +62,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "'Godfather of AI' Leaves Google to Voice Concern About Artificial Intelligence"
-    excerpt: "Geoffrey Hinton, AI pioneer and Turing Award winner, resigns from Google in order to 'freely speak out about the risks of AI.'"
-    publishedDateTime: 2023-05-01T21:50:00Z
-    webUrl: "https://www.pcmag.com/news/godfather-of-ai-leaves-google-to-voice-concern-about-artificial-intelligence"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 78
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/07G9MNe0GnpFitXRKvcFMOg-1.fit_lim.size_1200x630.v1682972176.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "'Godfather of AI' leaves Google, warns of tech's dangers"
     excerpt: "Geoffrey Hinton, the man widely considered as the “godfather” of artificial intelligence, has left Google — with a message sharing his concerns about potential dangers stemming from the same technolog"
     publishedDateTime: 2023-05-02T14:49:00Z
@@ -123,20 +109,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/9afb52ae85d63219ff62ff0071aeb2ee78d3132f/0_108_5950_3568/master/5950.jpg?width=620&quality=85&auto=format&fit=max&s=19085a773a61b5a924a25079a1209382"
         width: 620
         height: 372
-        isCached: true
-  - title: "Deep learning pioneer Geoffrey Hinton warns against rapid AI development as he quits Google"
-    excerpt: "Famous AI pioneer Geoffrey Hinton announces he is leaving Google amidst regrets and concerns. Find out what worries him here"
-    publishedDateTime: 2023-05-01T22:41:00Z
-    webUrl: "https://interestingengineering.com/innovation/deep-learning-pioneer-geoffrey-hinton-warns-against-rapid-ai-development-as-he-quits-google"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 44
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/05/01/image/jpeg/gnJvZ1hm4wthQcdfW7jJS0JrpCb2sXSe0VhrPEkH.jpg"
-        width: 1920
-        height: 1280
         isCached: true
   - title: "‘Godfather of AI’ quits Google amid AI fears"
     excerpt: "Turing Award winner and AI pioneer Geoffrey Hinton has resigned from his position with Google in order to speak more openly about the dangers of artificial intelligence, raising questions about whether tech giants have silenced the people most qualified to inform the public about the emerging technology’s effects."

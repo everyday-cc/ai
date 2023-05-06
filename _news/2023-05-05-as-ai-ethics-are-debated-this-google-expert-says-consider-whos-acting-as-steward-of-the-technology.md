@@ -7,7 +7,7 @@ originalUrl: "https://technical.ly/software-development/ai-google-pact-phorum-et
 webUrl: "https://technical.ly/software-development/ai-google-pact-phorum-ethics/"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,36 @@ images:
     width: 1200
     height: 900
     isCached: true
+
+related:
+  - title: "World’s Top AI Researchers Debate the Technology’s Next Steps"
+    excerpt: "After ChatGPT sparked a frenzy among tech companies, a conference in Africa is focusing on AI’s promise and peril for poorer nations."
+    publishedDateTime: 2023-05-06T14:00:00Z
+    webUrl: "https://www.wsj.com/articles/worlds-top-ai-researchers-debate-the-technologys-next-steps-55be2849"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-777121/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Researchers used AI and MRI scans to decode thoughts - and they were mostly accurate"
+    excerpt: "The system relies to an extent on a transformer model, similar to the ones that power Open AI’s ChatGPT and Google’s Bard."
+    publishedDateTime: 2023-05-02T15:43:00Z
+    webUrl: "https://interestingengineering.com/innovation/researchers-used-ai-and-mri-scans-to-decode-thoughts-and-they-were-mostly-accurate"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 32
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/05/02/image/jpeg/6LsVEpfqTt1MPWY1k64GcUKuAIDJoGn7SCKv8nCC.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "RL4i1lyKRl+rojGsxyQQ7n7wLSO/6Q3M2v/37nRtyyJxrdcawkqUrbBUTmUM2xRrnOv00z3wprppfCxeZ1cDjMCqrQSsGDP/bSpXx9DQdpBzPBOcYEkKRYEf0GWSxu5NmYtgfGg4+w91FDWovo7W8rhEXJRe/ynfPuOFMXAlisDdhxkUkIDf+le6xzXU7opQLZuZYkUZvjrd2NMQNVyMBGP5/bZHeWWpKB7rcN3o8ARYg9H8JS4T2VTzHqB+zATG+5ZcyUZQQGabinzpcQt5Lof2pscFTAAR5afdW9o4ESaVbKICu4jlsdm4LNggo19vH/wOc69fSP2nqYvXiIoDYVogu6eJhms+tgXdRCRf8a0=;49EBEUATn4ULMLbrSl4tyQ=="
 ---

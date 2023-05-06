@@ -2,6 +2,200 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-04-18-insights-into-the-robotics-in-entertainment-market-growth-and-future-prospects-with-projected-cagr-rate-10-for-period-2023-2030.md",
+      "title": "Insights into the Robotics in Entertainment Market Growth and Future Prospects with projected CAGR rate 10% for period 2023-2030",
+      "excerpt": "The global Robotics in Entertainment market size is projected to reach multi million by 2030, in comparision to 2021, at unexpected CAGR during 2023-2030 (Ask for Sample Report). As a consultant or industry expert in the field of robotics,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/insights-into-the-robotics-in-entertainment-market-growth-and-future-prospects-with-projected-cagr-rate-10-for-period-2023-2030-2023-04-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/insights-into-the-robotics-in-entertainment-market-growth-and-future-prospects-with-projected-cagr-rate-10-for-period-2023-2030-2023-04-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-17T11:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-17-ai-demystified-making-sense-of-artificial-intelligence-for-your-business.md",
+      "title": "AI Demystified: Making Sense Of Artificial Intelligence For Your Business",
+      "excerpt": "If you want an AI implementation now, turn your attention to narrow AI. Think about tasks that are manual, repetitive and structured.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/17/ai-demystified-making-sense-of-artificial-intelligence-for-your-business/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/17/ai-demystified-making-sense-of-artificial-intelligence-for-your-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/617801ba6b3df3f9956729d2/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/17/ai-demystified-making-sense-of-artificial-intelligence-for-your-business/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/17/ai-demystified-making-sense-of-artificial-intelligence-for-your-business/amp/",
+      "publishedDateTime": "2023-04-17T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-04-17-deep-learning-robotics-dlrob-announces-support-for-universal-robots-devices-in-its-ai-powered-robotics-software.md",
+      "title": "Deep Learning Robotics (DLRob) Announces Support for Universal Robots devices in its AI-powered Robotics Software",
+      "excerpt": "Deep Learning Robotics (DLRob), a leading provider of AI robotics software, has announced its support for new hardware devices in its latest software update. The new",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/04/n31824160/deep-learning-robotics-dlrob-announces-support-for-universal-robots-devices-in-its-ai-powered-robo",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/04/n31824160/deep-learning-robotics-dlrob-announces-support-for-universal-robots-devices-in-its-ai-powered-robo",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-17T03:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-04-17-is-artificial-intelligence-advancing-too-quickly-what-ai-leaders-at-google-say.md",
+      "title": "Is artificial intelligence advancing too quickly? What AI leaders at Google say",
+      "excerpt": "The soccer robots, for example, can't write up a grocery list or book your travel or drive your car. The ultimate goal is what's called artificial general intelligence-- a learning machine that can score on a wide range of talents. Scott Pelley ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/google-artificial-intelligence-future-60-minutes-transcript-2023-04-16/",
+      "originalUrl": "https://www.cbsnews.com/news/google-artificial-intelligence-future-60-minutes-transcript-2023-04-16/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/04/16/4c75adeb-ca12-426e-bd12-3a5adde32f2c/thumbnail/1200x630/559f05684316f5e602fd713fd06081c9/hadsell-1.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/google-artificial-intelligence-future-60-minutes-transcript-2023-04-16/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/google-artificial-intelligence-future-60-minutes-transcript-2023-04-16/",
+      "publishedDateTime": "2023-04-16T16:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Natural Language Processing",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-04-17-the-ai-revolution-googles-artificial-intelligence-developers-on-whats-next-in-the-field.md",
       "title": "The AI revolution: Google's artificial intelligence developers on what's next in the field",
       "excerpt": "Artificial intelligence solved an impossible problem in biology and robots powered by AI taught themselves to play soccer. The machines never get tired. They never get hungry. They learn ...",
@@ -1158,142 +1352,6 @@
       "provider": {
         "name": "BBC Focus",
         "domain": "sciencefocus.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-08-thornbury-business-the-mower-doctor-launches-line-of-robotic-mowers.md",
-      "title": "Thornbury business The Mower Doctor launches line of robotic mowers",
-      "excerpt": "Take the strain out of the perfect lawn with latest robotic mowers from a Thornbury business. The Mower Doctor near Thornbury is your local garden and estate machinery experts. With a wide range of lawnmowers,",
-      "sourceUrl": null,
-      "webUrl": "https://www.gazetteseries.co.uk/news/23440382.thornbury-business-mower-doctor-launches-line-robotic-mowers/",
-      "originalUrl": "https://www.gazetteseries.co.uk/news/23440382.thornbury-business-mower-doctor-launches-line-robotic-mowers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-07T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gazette Series",
-        "domain": "gazetteseries.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-08-embracing-ai-enabled-robotic-technology-for-productivity-and-convenience.md",
-      "title": "Embracing A.I.-Enabled Robotic Technology for Productivity and Convenience",
-      "excerpt": "As A.I.-enabled robotic technology becomes increasingly integrated into our everyday lives, remote workers and small-business owners can benefit from innovative solutions that simplify their lives and optimize productivity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.inc.com/heather-wilde/embracing-ai-enabled-robotic-technology-for-productivity-convenience.html",
-      "originalUrl": "https://www.inc.com/heather-wilde/embracing-ai-enabled-robotic-technology-for-productivity-convenience.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-07T14:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inc",
-        "domain": "inc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-08-introducing-the-neo-ai-a-pet-robot-of-openai-is-going-to-revolutionize-the-defi-space.md",
-      "title": "Introducing the NEO AI - A Pet Robot of OpenAI is Going to Revolutionize the DeFi Space.",
-      "excerpt": "In the latest development, NEO AI emerges as the pet robot of Open AI, revolutionizing the DeFi space. The platform aims to revolutionize the field of AI solutions and create a lasting impact on the DeFi ecosystem.",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/04/07/9790968.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/04/07/9790968.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-07T12:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-07-robotics-data-startup-roboto-raises-48m-to-help-developers-save-time-using-ai.md",
-      "title": "Robotics data startup Roboto raises $4.8M to help developers save time using AI",
-      "excerpt": "Roboto Technologies Inc., a startup that emerged from stealth today with $4.8 million in funding, aims to use artificial intelligence to help robotics developers save time when developing robots.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/04/06/robotics-data-startup-roboto-raises-4-8m-help-developers-save-time-using-ai/",
-      "originalUrl": "https://siliconangle.com/2023/04/06/robotics-data-startup-roboto-raises-4-8m-help-developers-save-time-using-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-06T15:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -40,20 +40,6 @@ related:
         width: 750
         height: 393
         isCached: true
-  - title: "Missing persons helped by artificial intelligence"
-    excerpt: "Indiana has been grappling with an unsolved murder and missing person case for years. With the help of revolutionary augmented reality (AR) and artificial intelligence (AI) crime-solving tools, attention is being brought to these cases like never before."
-    publishedDateTime: 2023-05-01T21:03:00Z
-    webUrl: "https://www.wishtv.com/news/allindiana/missing-persons-helped-by-artificial-intelligence/"
-    type: article
-    provider:
-      name: WISH-TV
-      domain: wishtv.com
-    quality: 37
-    images:
-      - url: "https://www.wishtv.com/wp-content/uploads/2023/05/kghmnbklgfblgfb.jpg"
-        width: 1512
-        height: 851
-        isCached: true
 
 secured: "0458lhCo8VoLQSccMcXZvcFx9yX0CaoqiurzOCLLgZCgjJ58RWjBYGrvZuqtqKLyvaq7U2364x7EmQRS5n+9JPIvwT+LlIyPH092J/GDnbceO1RNCIKKMNWvjTiyRgEhblOeZ26iZnJDr/nQS9yGKQGFEQr1e2w0w0RiwYj8EkKSjWjDwy8DJ3eqX6bBD8MzCH43GHg6fL8Vvmf6VRzHWiDex8LhAnBqSptRb2XkM6qhyAvFOvwVYxfhyQIGK7gvU1dvCjuHYz4pZbramFBaGy7BW5Y/nIngs3sg08gvEj15+xfA0Rl8k9NhI5VNDmOoxGnKq7R0k3Vv1Y3OIoe/sPbI/cwuU5Sq5oqhRFhMkoDqtDU73DcDZlkpuPowGliGGG0ahwWjxbfbgGL9aY9mJZEo5CI/dS5jjMHhii6+aN0fXel+izzr+ZTcvkAtlM5D+Usxp9nvHF0Aa2oKuvCaBAmOJqhRWVB8A46rFTcCY3aDQNAuhd4o3/Bd9PSOe8MgA8typX42ekLKA4m2ztepKw==;Vv8Iw46CTuZoDBJCkBGnoA=="
 ---

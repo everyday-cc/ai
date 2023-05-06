@@ -119,22 +119,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "IBM’s CEO expects A.I. to be so good at back office work that he plans to pause hiring humans for those jobs"
-    excerpt: "“I could easily see 30% of that getting replaced by AI and automation over ... Kyndryl Inc. and part of the Watson Health business. The company is currently considering selling its weather unit. Armonk, New York-based IBM topped profit estimates ..."
-    publishedDateTime: 2023-05-01T22:22:00Z
-    webUrl: "https://fortune.com/2023/05/01/ibm-ceo-ai-artificial-intelligence-back-office-jobs-pause-hiring/"
-    ampWebUrl: "https://fortune.com/2023/05/01/ibm-ceo-ai-artificial-intelligence-back-office-jobs-pause-hiring/amp/"
-    cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/05/01/ibm-ceo-ai-artificial-intelligence-back-office-jobs-pause-hiring/amp/"
-    type: article
-    provider:
-      name: Fortune
-      domain: fortune.com
-    quality: 55
-    images:
-      - url: "https://content.fortune.com/wp-content/uploads/2023/05/GettyImages-1252487179-e1682977731187.jpg?w=840"
-        width: 840
-        height: 560
-        isCached: true
   - title: "Job cuts may intensify as IBM plans to use AI to replace 30% back office jobs"
     excerpt: "IBM CEO Arvind Krishna said he expects AI to impact at least 7,800 jobs at the company over the next five years."
     publishedDateTime: 2023-05-02T07:55:00Z

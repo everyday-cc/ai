@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/from-michelangelo-to-robots-startup-is
 webUrl: "https://thenextweb.com/news/from-michelangelo-to-robots-startup-is-carving-new-era-of-sculpture"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: The Next Web
@@ -27,6 +27,22 @@ images:
     width: 1280
     height: 640
     isCached: true
+
+related:
+  - title: "Italian startup carves sculptures with robotic arm guided by AI"
+    excerpt: "A new startup called Robotor is seeking to revolutionize how sculptures are made by simplifying the sculpting process with the use of robotics and artificial intelligence."
+    publishedDateTime: 2023-05-06T15:39:00Z
+    webUrl: "https://interestingengineering.com/innovation/italian-startup-carves-sculptures-with-robotic-arm"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 37
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/05/06/image/jpeg/zCLr0ll3NIoF744Acd4LH8IQ0gNOxMZrdfzdANnk.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "aTAPaueThMVnB1kfkvqdDo/mpP/BpkyI4FTFgGcZOAUbOxsnqxh5uMbhaxd87OV4SYXqSxKPoMkHbG1+uMc3p7qD9PmOBV0O3HEje1EW8SkJQ4/0sBu7fso+Vn01W0SP/Y3FrKwlIld20LYBCgyG3TEqX9Xqe1SgjEWfhwwnNw5T3w76NLpqttwnkf3Cy7o0VtIDhPLzxEOjtLR2BNq4kdRiXmmSsrHP9jTN45Hmqcs8cJb8jRfPbtC5Hp33ff4nfKshlJn/i8Ts+jlEns1EIK6qtPwabLxk6CMUoDyMRVT3wnRK2LA+tZxIYgsXwwrfJrxVmKIrmXe/fwUrCxgmMiYszpgjtsGhK5ILnVxVgKY+HE5Uvhl691gAENSQWz9ig+tF/uOgXf/Lv0BVl2J5rtAQWXNBS59dCSRwXQ/gW41tC9nnQN0xe5vODMSXE3MU30zlZRWieVclb5brf6rU6vqgUsB11paQLKFJUSxFa6MH3T+krAMUl1IrhR2OTqQRh3scCE84YXX36x8WFSAd0Q==;ZOWXA9RBKx/gkBAhdso2eA=="
 ---

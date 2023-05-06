@@ -1,24 +1,28 @@
 ---
 category: news
 title: "Deep-learning system explores materials' interiors from the outside"
-excerpt: "A machine-learning method detects internal structures, voids, and cracks inside a material, based on data about the material's surface."
-publishedDateTime: 2023-04-27T23:59:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2023/04/230428130819.htm"
-webUrl: "https://www.sciencedaily.com/releases/2023/04/230428130819.htm"
+excerpt: "Maybe you can't tell a book from its cover, but according to researchers at MIT you may now be able to do the equivalent for materials of all sorts, from an airplane part to a medical implant. Their new approach allows engineers to figure out what's going on inside simply by observing properties of the material's surface."
+publishedDateTime: 2023-04-28T12:46:00Z
+originalUrl: "https://techxplore.com/news/2023-04-deep-learning-explores-materials-interiors.html"
+webUrl: "https://techxplore.com/news/2023-04-deep-learning-explores-materials-interiors.html"
+ampWebUrl: "https://techxplore.com/news/2023-04-deep-learning-explores-materials-interiors.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-04-deep-learning-explores-materials-interiors.amp"
 type: article
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: techxplore
+  domain: techxplore.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "uc1pHAC4Uaz6Ot5SHnaqNPAm3hKLdRyWfr6+rfhz9wL36RPyTer42mLXYT77uvSt7yv7PUdCDE+Xqv8sDoOxW6k89GVn8BnElIyfj+sbqrPzBiu/KuDo/CiNdsFafpmPTRuTObNiRpf31ziu7Zy9d1V3eOuQHv3hUYa1B4l4Tp/ObQgyIa2yqqvNFjSjzD/X0QaYcRZVwBN12lFFW3mVnZYjR6f9EDGH8DcOnowBxMTpB2wGWfKZhfpkPFgFCG9CQHqnMlmPJDkkCp0UhwXXGMdmgsmnIvQ4vm39D+A25O+9DeEh/11kPlP9a/rGQ29MDj+yN14mtvAvkyEvvFcgLgMvVAbXtaruNsBlgDmrEds=;glXCZPR+Sth2G+slZ4i6fw=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/2023/deep-learning-system-e.jpg"
+    width: 900
+    height: 600
+    isCached: true
+
+secured: "NFPAj22QIX8dR3hadYKmCrLSxHofTCubjhrA5jLdbrLI7zekua8blKpSdpKk9pE+kayzSXCgXgyhXFXmdt0WUjBcDDUaq5/soD++8dAPXGsuftuwkizJPK+dc71ttZHzXRjib5yUFmCbx+CMgzpqCauFL6hZRC4+BVJD1gp2sR2B9G4OwB97Cjv7QMvIdvbyb/pO5yGBuIH1+IUiYVZkiV7tQxDZDCIdQJexe/4wo+A0f89cpWtrgdRVMvFcZVzuxgzuC1vp5LJ4y+GS7AvE34Wjvn0CPAIZssc3RTQnyqK0WjGFbb0tamq2s+QojhDytgY6pW0y9/2WBioR23ybX3U95aM7UoIn6h3Pp+spbnQ=;AdlZM81VktUu7LMUdtmNlQ=="
 ---
 

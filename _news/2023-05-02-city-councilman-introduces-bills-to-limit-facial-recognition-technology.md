@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wbaltv.com/amp/article/facial-recognition-surveillance-t
 cdnAmpWebUrl: "https://www-wbaltv-com.cdn.ampproject.org/c/s/www.wbaltv.com/amp/article/facial-recognition-surveillance-technology-bill-limit/43762133"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2023/05/932/470/LS10-BANNING-FACIAL-RECOGNITION-SOFTWARE_00.00.11.58.jpg?ve=1&tl=1"
         width: 932
         height: 470
-        isCached: true
-  - title: "Legislation introduced to regulate facial recognition technology in Baltimore"
-    excerpt: "The councilman's proposed legislation would require any new surveillance technology proposed by police departments be subject to approval by the City Council and community input."
-    publishedDateTime: 2023-05-01T21:37:00Z
-    webUrl: "https://www.wmar2news.com/local/legislation-introduced-to-regulate-facial-recognition-technology-in-baltimore"
-    ampWebUrl: "https://www.wmar2news.com/local/legislation-introduced-to-regulate-facial-recognition-technology-in-baltimore?_amp=true"
-    cdnAmpWebUrl: "https://www-wmar2news-com.cdn.ampproject.org/c/s/www.wmar2news.com/local/legislation-introduced-to-regulate-facial-recognition-technology-in-baltimore?_amp=true"
-    type: article
-    provider:
-      name: wmar2news
-      domain: wmar2news.com
-    quality: 58
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/96db251/2147483647/strip/true/crop/640x360+0+60/resize/1280x720!/quality/90/?url=https%3A%2F%2Fmediaassets.abc2news.com%2Fphoto%2F2018%2F09%2F12%2F648987200-170667a_1536785599867_97280406_ver1.0_640_480.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Baltimore Considers Restricting Facial Recognition Tech"
     excerpt: "Baltimore’s use of surveillance and facial recognition technology would face new restrictions under legislation introduced by a city councilman this week."

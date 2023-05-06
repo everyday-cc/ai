@@ -105,6 +105,15 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
+  - title: "AI Experts Aren’t Always Right About AI"
+    excerpt: "Creating a system of checks and balances for artificial intelligence systems is a task for social and political scientists."
+    publishedDateTime: 2023-05-06T12:01:00Z
+    webUrl: "https://www.bloomberg.com/opinion/articles/2023-05-06/ai-experts-aren-t-always-right-about-ai"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
   - title: "How AI Can Help You Design Better Meetings and Events"
     excerpt: "They’ll also be able to use autonomous AI “agents” like AutoGPT – capable of self-directing themselves to perform multiple steps in sequences and complete complex tasks without much human prompting – to aid with every facet of research,"
     publishedDateTime: 2023-05-02T22:50:00Z

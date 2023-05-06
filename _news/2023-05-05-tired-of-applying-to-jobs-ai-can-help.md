@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thedailystar.net/tech-startup/news/tired-applying-jobs-a
 cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/tired-applying-jobs-ai-can-help-3310986?amp"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: The Daily Star
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Missing persons helped by artificial intelligence"
-    excerpt: "Indiana has been grappling with an unsolved murder and missing person case for years. With the help of revolutionary augmented reality (AR) and artificial intelligence (AI) crime-solving tools, attention is being brought to these cases like never before."
-    publishedDateTime: 2023-05-01T21:03:00Z
-    webUrl: "https://www.wishtv.com/news/allindiana/missing-persons-helped-by-artificial-intelligence/"
-    type: article
-    provider:
-      name: WISH-TV
-      domain: wishtv.com
-    quality: 37
-    images:
-      - url: "https://www.wishtv.com/wp-content/uploads/2023/05/kghmnbklgfblgfb.jpg"
-        width: 1512
-        height: 851
-        isCached: true
   - title: "Why legal innovators want to chat about AI"
     excerpt: "Since ChatGPT first grabbed public attention, Inkling has been advising law firms on adopting generative AI. This includes helping them to measure the quality and quantity of the results when using it, compared with what could be delivered by lawyers who are not using it."
     publishedDateTime: 2023-05-05T04:00:00Z

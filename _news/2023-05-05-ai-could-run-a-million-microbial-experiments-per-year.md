@@ -95,6 +95,15 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "AI Experts Aren’t Always Right About AI"
+    excerpt: "Creating a system of checks and balances for artificial intelligence systems is a task for social and political scientists."
+    publishedDateTime: 2023-05-06T12:01:00Z
+    webUrl: "https://www.bloomberg.com/opinion/articles/2023-05-06/ai-experts-aren-t-always-right-about-ai"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
   - title: "Regulating AI will put companies and governments at loggerheads"
     excerpt: "The rapid release of generative AI tools has been a moment of reckoning. Just this week Geoffrey Hinton, a celebrated developer of AI, announced his resignation from Google, saying he regretted his work and wants to speak freely about the dangers and risks of the technology he created."
     publishedDateTime: 2023-05-02T16:53:00Z
