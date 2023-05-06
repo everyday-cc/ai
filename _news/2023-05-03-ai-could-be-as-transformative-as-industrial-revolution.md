@@ -60,15 +60,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "AI Careers: How to Build a Career in AI"
-    excerpt: "A career in in a rtificial intelligence involves supporting the practice of using AI algorithms to simulate human intelligence, clearly a growing sector. AI continues to dominate the tech industry. Because of AI’s growth,"
-    publishedDateTime: 2023-05-01T18:24:00Z
-    webUrl: "https://www.eweek.com/artificial-intelligence/ai-careers/"
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 49
 
 secured: "P4brWOOcDLUHVMHmEv/3LBesVKwpVYWAnSp9TAVUU4ntNEouE3B9MKme6Ap+XSldKbavCUa/t07Rr1Uli5EI8mm0dQFq6Gus0PCB9SsnL4NC0JTrwvCAs0+G1x+FiDaXg3gzCw4WpWb/hi9tp/RWsLyhceBvTKHcnkuWgrDeacKj2PFFVSXEP5aNnjI1gAzkbO+3E8ZTFIJPaoEAazScXWLVQUChXCqsJtLvvxj9Tov1jzmN1DmOZFFxW1Kygz4pNaRbZLPjHehCRPJ+NNSmiRSebkSe4wdUsWemmTOUv4wWJUFJbQ7MneuZomSVifinI0oTCMmjODPpR/6dBRnSiYegxknSOHzfj4zSso/rdCA3UjTl4t5g3kW9zGd4V/qDFCjhGSn5xlP3CgrNRlB/4htQTOt2SyYjPS+Q4+UFdkwTUBMptQ58YsoN0Q+JNpXjOAxWNymB7mP+VnZWdMGOqDfGwNYrNi6TRVrHZlXFr7PR5ctvaBA129AEppWfkTlpNLjLaWku13mAyMXm8fFlZA==;HWw3hM/n2LQGf+eRMFlLlw=="
 ---

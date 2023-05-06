@@ -85,15 +85,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Hollywood’s Artificial Intelligence Test"
-    excerpt: "Are bots ready to replace writers?"
-    publishedDateTime: 2023-05-01T17:33:00Z
-    webUrl: "https://www.wsj.com/articles/hollywoods-artificial-intelligence-test-4e286280"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 47
   - title: "AI vs. Hollywood: Writers battle “plagiarism machines” in union talks"
     excerpt: "But in particular, Reuters reports that WGA writers have two main concerns about automation in writing, quoting screenwriter John August, who is part of the WGA negotiating committee: They don't want their material to be used as training data for AI systems,"
     publishedDateTime: 2023-05-03T18:38:00Z

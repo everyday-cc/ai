@@ -135,6 +135,34 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Deep learning pioneer Geoffrey Hinton warns against rapid AI development as he quits Google"
+    excerpt: "Famous AI pioneer Geoffrey Hinton announces he is leaving Google amidst regrets and concerns. Find out what worries him here"
+    publishedDateTime: 2023-05-01T22:41:00Z
+    webUrl: "https://interestingengineering.com/innovation/deep-learning-pioneer-geoffrey-hinton-warns-against-rapid-ai-development-as-he-quits-google"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 44
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/05/01/image/jpeg/gnJvZ1hm4wthQcdfW7jJS0JrpCb2sXSe0VhrPEkH.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
+  - title: "‘Godfather of AI’ quits Google amid AI fears"
+    excerpt: "Turing Award winner and AI pioneer Geoffrey Hinton has resigned from his position with Google in order to speak more openly about the dangers of artificial intelligence, raising questions about whether tech giants have silenced the people most qualified to inform the public about the emerging technology’s effects."
+    publishedDateTime: 2023-05-02T02:39:00Z
+    webUrl: "https://ia.acs.org.au/article/2023/-godfather-of-ai--quits-google-amid-ai-fears.html"
+    type: article
+    provider:
+      name: ia.acs
+      domain: acs.org.au
+    quality: 39
+    images:
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2023/google%20departure%20hinton.jpg"
+        width: 943
+        height: 531
+        isCached: true
   - title: "The Godfather of AI is leaving Google with a stark warning about what's next"
     excerpt: "Now, one of Google’s own is joining the anti-AI side. According to The New York Times, Dr. Geoffrey Hinton — who pioneered the use of neural networks in AI — has left Google after more than a decade with the company. His reason? So he can speak out freely against the rise of AI."
     publishedDateTime: 2023-05-02T21:17:00Z
@@ -149,14 +177,28 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "'The godfather of AI' leaves Google and warns of danger ahead"
-    excerpt: "Hinton said he has quit his job at Google, where he has worked for more than decade and became one of the most respected voices in the field, so he can freely speak out about the risks of AI. A part of him,"
-    publishedDateTime: 2023-05-01T18:39:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/the-godfather-of-ai-leaves-google-and-warns-of-danger-ahead/articleshow/99917376.cms"
+  - title: "Geoffrey Hinton, Godfather of AI, Leaves Google over Deep Concerns for AI's Future"
+    excerpt: "Geoffrey Hinton, the \"Godfather of AI,\" resigns from Google, raising concerns about AI's potential dangers and urging responsible development."
+    publishedDateTime: 2023-05-02T10:29:00Z
+    webUrl: "https://yourstory.com/2023/05/godfather-ai-geoffrey-hinton-resigns-warns-ai-dangers"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
+      name: Your Story
+      domain: yourstory.com
+    quality: 33
+    images:
+      - url: "https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/Imageaxxk-1683023043843.jpg?fm=png&auto=format"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "AI pioneer Geoffrey Hinton warns about growing risks as he quits Google"
+    excerpt: "His departure from Google comes at a time of turmoil for the company, which recently merged its DeepMind and Google Brain AI research units as it tries to make up lost ground in generative AI against Microsoft and OpenAI. Jeff Dean, chief scientist at ..."
+    publishedDateTime: 2023-05-02T11:21:00Z
+    webUrl: "https://www.ft.com/content/6eccea8b-6d81-45df-a922-574b3249e0d1"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
     quality: 19
   - title: "AI pioneer quits Google to warn humanity of the tech's existential threat"
     excerpt: "Hinton wrote on Twitter that he quit \"so that I could talk about the dangers of AI without considering how this impacts Google.\""
@@ -167,6 +209,15 @@ related:
       name: Detroit News
       domain: detroitnews.com
     quality: 18
+  - title: "Pioneer of AI leaves Google to warn of tech’s dangers"
+    excerpt: "So-called “Godfather of AI” Geoffrey Hinton quit his role at Google so he could more freely speak about the dangers of the technology he helped create."
+    publishedDateTime: 2023-05-02T18:20:00Z
+    webUrl: "https://www.adn.com/nation-world/2023/05/02/pioneer-of-ai-leaves-google-to-warn-of-techs-dangers/"
+    type: article
+    provider:
+      name: Alaska Dispatch News
+      domain: adn.com
+    quality: 17
 
 secured: "V993JGSh6cn45BHR22sdFbAh7xjRwZ25dQPW8SpAZi1msAmbZsY5NX3fUaPd8R33K1KnPT1IvMMKPIwpJT8A3BEybsQqyiCPT2ikI8m6RRQi3ovwWH/2PVAc48J7M1J7neqOZ/b4u78+M9iEbcFL0J8rxb188M92XqYRpqgMLozdCm8nQunOWTB1wBAnuCdV+AV6u3ff1vaAYU0e0F6C1sa9emF/jM43wAGK0hVNcrmJ+Bgv1sCBLkMuqWvkVDn+bDicK6toY0MNDj5O3dJCGF8BGX4eDFE6AFZl//GO2a4UbeS45Wfm2yhkQu3bJ5GIOsRIWHYU/oB2lsGBtWsq+eHTNVccXP9bjDSAIOFwees=;l8am7J/iq9+9vbqs8aw8ag=="
 ---

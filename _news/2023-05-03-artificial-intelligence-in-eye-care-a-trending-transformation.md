@@ -9,7 +9,7 @@ ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-in-eye-car
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-in-eye-care-a-trending-transformation-211614-1.htm"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -57,15 +57,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "AI Careers: How to Build a Career in AI"
-    excerpt: "A career in in a rtificial intelligence involves supporting the practice of using AI algorithms to simulate human intelligence, clearly a growing sector. AI continues to dominate the tech industry. Because of AI’s growth,"
-    publishedDateTime: 2023-05-01T18:24:00Z
-    webUrl: "https://www.eweek.com/artificial-intelligence/ai-careers/"
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 49
 
 secured: "nj79ncRQ0Uh5/XhTkT62odcYob2nfbxV+kE+0Ok6bJK82i6/cy+qPCbVwER/W2m6T9RqXiVp7ObgyXrMmlYS31bDT42Nf4jaILs8bM2KaZyYXcWLzMPnTlNFjP1JnTNEjKvYN2+2gnmeXB5DyKi5nfHf6NXQ2E17935jtAj2FTz0NyvX2kgEONGZgmMfpH1nH9XVLPY6IJDGWP9BYXjv3kyWhWApfqsTJ83kj1IOa/iJhEpC4VSRrfxMRbbgEuM/Cp+O7/JOOIOPhvzi9yWEZ9lwHm19+rb3zZhYxNdSDlg+AxHjMSRWfYxNTO1mtnR/s2l0+Jacge68aiX2h03LrFqSMRQb5geuFuS5DGkUms52f8mNxUJcySqW2/lgwERe8shL13Rwitzz6RHVK1k7JXwklgVhZYEdYdC/V9YmQCZtdJZdwRncUCjVTVMenrZOCHZutBNnjDmPHRZAoqCbkzmGH1xgtdJsW/JC8Kwy3OzlNsIdSiIIgnzGLnTHBIrOkb49Bs+MdrAYdZJ4i+GXXg==;lRcFOxHk2TUH1Cz5Av43Zw=="
 ---

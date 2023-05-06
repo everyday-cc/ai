@@ -99,15 +99,6 @@ related:
         width: 3000
         height: 1688
         isCached: true
-  - title: "Scientists use power of AI to supercharge planetary studies"
-    excerpt: "A new technique for detecting planetary craters that will allow scientists to accurately map the surfaces of planets using different types of data could be used in future space missions."
-    publishedDateTime: 2023-05-01T18:10:00Z
-    webUrl: "https://phys.org/news/2023-05-scientists-power-ai-supercharge-planetary.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 17
 
 secured: "Xr9hUOzbyToTevQql7xmOKQ7N6YiS6tzZPQOW5OeXAvm355+NBy2n+bZTzVO4JQfOUqNCQVEGUbOU4+M4ZGeTFQZYxYTbd5dRgQgZgZbiIjX5CispM8E6pWfi9SGAJ7GlYzksmnxe4BzRpSBBtn9h/bihiiTzYxg3/NlOEtov8lzjdC/0c9v+NCu/6jU51q4YTl0Y9h41EYsg+4B6SZlFipWeuW6jfhnL3MvMWLGDWkjPmj4ARaM8vIjVcNtBBsYNHRaY2p7ejwWWWRiCFx6+/r3bRc0iMobrKdFvfy3b7+GHhXZNhiQeyOFityOwg/cwyhNIbXvDkHQecyNM2JAO5WSvjuFMY92DtPMWZpaj208vv9Vy9g3X5qx3BPTarPWuFlxz7MAxTTCTAmBXzMNF2n/kmXSALa2+uAPGr7+g4aOyPPq5n4e03jG4PbDUYEZWN638nmXdbVz/TrWtFfT/rbuVBD9/LZ4ErNCaHRNZKwriHYKwkyw4K/ZsDXVyfc+izjRnQRNyDe4Sf1qynBHMw==;/gwF4cnxRCUBQR0o4kGc1Q=="
 ---

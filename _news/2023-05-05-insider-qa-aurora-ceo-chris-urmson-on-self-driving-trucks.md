@@ -3,23 +3,23 @@ category: news
 title: "Insider Q&A: Aurora CEO Chris Urmson on self-driving trucks"
 excerpt: "Sometime next year, semis with no human in the cab will start carrying freight down Interstate 45 between Dallas and Houston. The trucks will run on an autonomous driving system called the Aurora Driver,"
 publishedDateTime: 2023-05-04T17:15:00Z
-originalUrl: "https://buffalonews.com/business/insider-q-a-aurora-ceo-chris-urmson-on-self-driving-trucks/article_482a281b-320f-5818-9a00-061420029f90.html"
-webUrl: "https://buffalonews.com/business/insider-q-a-aurora-ceo-chris-urmson-on-self-driving-trucks/article_482a281b-320f-5818-9a00-061420029f90.html"
+originalUrl: "https://omaha.com/business/insider-q-a-aurora-ceo-chris-urmson-on-self-driving-trucks/article_fee626a6-337c-55fd-bed4-816ab5e6b1fd.html"
+webUrl: "https://omaha.com/business/insider-q-a-aurora-ceo-chris-urmson-on-self-driving-trucks/article_fee626a6-337c-55fd-bed4-816ab5e6b1fd.html"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Buffalo News
-  domain: buffalonews.com
+  name: Omaha.com
+  domain: omaha.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/4/82/482a281b-320f-5818-9a00-061420029f90/6453ea5ab67a4.preview.jpg?crop=1024%2C538%2C0%2C71&resize=1024%2C538&order=crop%2Cresize"
+  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/f/ee/fee626a6-337c-55fd-bed4-816ab5e6b1fd/6453ea6348932.preview.jpg?crop=1024%2C538%2C0%2C71&resize=1024%2C538&order=crop%2Cresize"
     width: 1024
     height: 538
     isCached: true
@@ -55,16 +55,7 @@ related:
         width: 1917
         height: 1278
         isCached: true
-  - title: "Aurora CEO Chris Urmson on the Future of Self-Driving Trucks"
-    excerpt: "The prospect of a driverless semi is scary to many, but not to Aurora Innovation CEO Chris Urmson, who helped to build Google’s autonomous vehicle unit."
-    publishedDateTime: 2023-05-01T17:50:00Z
-    webUrl: "https://www.ttnews.com/articles/aurora-self-driving-trucks"
-    type: article
-    provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 4
 
-secured: "rqaD7Y9n34MxxkmKCsbSYneFvjy1Qa/Xux/hHqELlfQzN1KmCQ+6vJplfQ1/F19D4WVlU+E3qOLQfn63TjEq1yTPV213W9iFppONiK9M4bACotxqDDheH7QnIgpw1cnCrUmOEUh6acIoPGS1FydATokjJaOK4aWvB9O5rg+84Gxwaywyz2tz2/bR5/oEY97o64G+xvoReYbpV8olNw0MHj5unK79b5lO59w/VzoQnqPin4R3BNeJXreeW4UhowZRazdulnTzu26reG2Y2glJ2x3qRAOvCwJiFfBtdmGVdt5sl3nv/QCqNZFD5JMCrPaHsGKRHD7CZykg15NWWnWEkw2vNm3rH6EW9oXiAuq3cP4=;fsgmKLnAeufJywv56LlEfg=="
+secured: "AZYwmMSsdaDKBCFNDpoVdm/A2sBFds4kL9QqQsKDj8VNCyTx1pIcnU/3l9JBfEXnU0gL8VpQ611FuL2Fwf63YeW1cf5UPwMvcP9FiXEmscldmPSYHA+FgcfOJdI31jR8yzh3OrVPukUOZLGMoNJAxriJhQ54dGOJ4/Wl5K3CBIARTWagA5RLYHYh5G96KnaYsK5AOLV5FXhHZwcR+OtCNM4CxcqDyKzFjdvJks8buHa0Fc7ENX7H6Bv40cciDVffwQ48oKxREIf4SABJ+utkphX9sJp/HggcE1PNKIKTvRDDXmz2ZuMLfw7ZyILpAByKRggnxhLQwv3x2tUGEuauT1sS21I2SXltNWSxUqgAAm8=;xkLW2kaVw68Oj7jhlEZHdg=="
 ---
 

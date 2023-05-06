@@ -108,15 +108,6 @@ related:
         width: 956
         height: 474
         isCached: true
-  - title: "Prepare image data with Amazon SageMaker Data Wrangler"
-    excerpt: "The rapid adoption of smart phones and other mobile platforms has generated an enormous amount of image data. According to Gartner, unstructured data now represents 80–90% of all new enterprise data, but just 18% of organizations are taking advantage of this data. This is mainly due to a lack of expertise"
-    publishedDateTime: 2023-05-01T18:28:55Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/prepare-image-data-with-amazon-sagemaker-data-wrangler/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 69
   - title: "System Shock publisher faces anger for using AI-generated artwork, says it wanted to start a conversation"
     excerpt: "A Twitter post on the official System Shock remake account included an image of Shodan created by Midjourney, along with the words \"designed by an immortal"
     publishedDateTime: 2023-05-05T11:15:00Z

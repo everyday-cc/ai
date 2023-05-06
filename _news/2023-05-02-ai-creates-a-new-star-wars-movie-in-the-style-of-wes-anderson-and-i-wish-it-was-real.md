@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 863
         isCached: true
-  - title: "Anderson Selected as Host Site for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
-    excerpt: "The Anderson Institute of Technology is one of 28+ host companies selected to host camps across the US in Fall 2023. The Anderson Institute of Technology Bootcamp will be held over four consecutive Saturdays starting on October 14th and ending on November 4 th ."
-    publishedDateTime: 2023-05-01T17:11:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/05/01/9804996.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 30
-    images:
-      - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
-        width: 550
-        height: 353
-        isCached: true
 
 secured: "DDW4eHcl7qpaKKo59ndcHZyx2IrDLu/Lb1oyVznh8C+oRxOq6jzb/g9JODFmI6nHpsh8KIENYwJZaW21mGIm8EhGelqxX8TqyHVpHWXqvcxQXEpYKCzsBfyKcIyBJ8YLwRNMMcDuvOExUA4oKeQ+xcID7gYkAO6nTnSoeSDbb1+HC4EFNT1FzIGvXtIr4DXWnD3+g8AyO2lxdFWsA27GfAI98FHl11WeJ2VAJBfTDr2iWaXG1uBfpfZ0ipKCBJmFKUSsUNHppnZ3AxDkVyHIt0WXJslrZ7lxpG5551JelhRIprCNtH7ev7zkfdKkWlHWhpnmtFRwLD6OqcP9SnVEyZeyIWXFwQE3oJMA9r0Skb4=;k7wnGsLjapK5gpS/JCKUaA=="
 ---

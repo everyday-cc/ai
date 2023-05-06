@@ -49,15 +49,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "FDIC order against Cross River Bank is a warning on fintech alliances"
-    excerpt: "The 34-page document demands that the bank get regulatory nonobjection for every new fintech partnership and requires the bank to step up its monitoring of partners' compliance with banking laws."
-    publishedDateTime: 2023-05-01T18:32:00Z
-    webUrl: "https://www.americanbanker.com/news/fdic-consent-order-against-cross-river-bank-a-fintech-partnership-warning"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 34
   - title: "APAC to lead global fintech market"
     excerpt: "With a projected CAGR (compound annual growth rate) of 27%, Asia Pacific (APAC) will likely outpace the United States of America to become the world’s top fintech market by 2030, according to a new report by Boston Consulting Group (BCG) and QED Investors."
     publishedDateTime: 2023-05-04T02:00:00Z

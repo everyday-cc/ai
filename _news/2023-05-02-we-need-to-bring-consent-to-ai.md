@@ -99,15 +99,6 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 19
-  - title: "Scientists use power of AI to supercharge planetary studies"
-    excerpt: "A new technique for detecting planetary craters that will allow scientists to accurately map the surfaces of planets using different types of data could be used in future space missions."
-    publishedDateTime: 2023-05-01T18:10:00Z
-    webUrl: "https://phys.org/news/2023-05-scientists-power-ai-supercharge-planetary.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 17
 
 secured: "Io2OAkg95+1QqtJtc8T7Qd6gMgQvUXiZHD+4Z5FvRDvGqZPLHOPlKgLiwcFNINkTsUZou62NNo3L4Ur1BNziwm4Pdiw62EqBrKN+0w7uZOVj88WyMBaV4PylXi7LGEXUIw4VPfq1+FHBgc+AEh9S98ruoJevYQ88tIr07jJq5q8Dr8i9FD1ikZbVWMtLKLm3Bz183Q1SBoHxkB4orEYDl6A/5GGq2NOgRbCSYo8RBF199hOL0KkYaN3OKcTnxSwRmQtgCR0rZu7tdzr7m0QpNHoPsQUnmcn+wJhh50mLGhGqroGvfHQs1ZDfW/1CmwjU+3pNdOyE1J7AB6KKkqccoJ7lZl0vM//AD6lDiWtTXJj520Jjhb9kEG9Hx2+DhfFuFnJIS7/inXLf/bVHZwU9UzpF6VEoTVXH17yRnpu8/tJJCPd3qr18yqyO12LUwgRjLuPZ5F4HLLWy+E9VQIexNi1zdXxroSXWCa4WT4gWVRyf79TvHgY9Z3xyBCoFGNiQtOkIym4hmNAvnw6Iq/UzZQ==;O9f0K4/9eC4sLci3aklfxw=="
 ---

@@ -8,8 +8,8 @@ webUrl: "https://www.marketplace.org/2023/05/05/could-artificial-intelligence-be
 ampWebUrl: "https://www.marketplace.org/2023/05/05/could-artificial-intelligence-be-your-next-coworker/amp/"
 cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/2023/05/05/could-artificial-intelligence-be-your-next-coworker/amp/"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.marketplace.org/wp-content/uploads/2023/05/GettyImages-1423370308.jpg?fit=740%2C494"

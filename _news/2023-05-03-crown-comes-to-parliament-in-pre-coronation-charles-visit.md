@@ -131,6 +131,20 @@ related:
         width: 2048
         height: 1152
         isCached: true
+  - title: "Live: Charles makes history with public prayer before being crowned King"
+    excerpt: "Charles and Camilla arrived at the Abbey from Buckingham Palace, where they will return in the Gold State Coach after the lavish service. 12.03pm The King has been crowned with St Edward’s Crown by the Archbishop of Canterbury in Westminster Abbey."
+    publishedDateTime: 2023-05-06T11:51:00Z
+    webUrl: "https://www.wiltsglosstandard.co.uk/news/national/23504742.live-charles-makes-history-public-prayer-crowned-king/"
+    type: article
+    provider:
+      name: wiltsglosstandard.co.uk
+      domain: wiltsglosstandard.co.uk
+    quality: 23
+    images:
+      - url: "https://www.wiltsglosstandard.co.uk/resources/images/16749571/?type=og-image"
+        width: 945
+        height: 630
+        isCached: true
   - title: "Protesters eye Coronation of King Charles III — and facial recognition eyes them"
     excerpt: "It’s apparent that a coronation is ripe territory for the convergence of righteous convictions, from the progressive to the fanatical, writes."
     publishedDateTime: 2023-05-05T09:00:00Z

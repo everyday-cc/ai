@@ -96,15 +96,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Hollywood’s Artificial Intelligence Test"
-    excerpt: "Are bots ready to replace writers?"
-    publishedDateTime: 2023-05-01T17:33:00Z
-    webUrl: "https://www.wsj.com/articles/hollywoods-artificial-intelligence-test-4e286280"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 47
   - title: "The next fear on AI: Hollywood’s killer robots become the military’s tools | Analysis"
     excerpt: "U.S. national security officials are warning about the potential for the new technology to upend war, cyber conflict and — in the most extreme case — the use of nuclear weapons."
     publishedDateTime: 2023-05-06T02:18:00Z

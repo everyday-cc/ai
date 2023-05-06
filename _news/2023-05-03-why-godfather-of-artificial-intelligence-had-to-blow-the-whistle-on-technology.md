@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newshub.co.nz/home/technology/2023/05/why-godfather-of-a
 cdnAmpWebUrl: "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/technology/2023/05/why-godfather-of-artificial-intelligence-had-to-blow-the-whistle-on-technology.amp.html"
 type: article
 quality: 53
-heat: 53
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,56 @@ images:
     width: 768
     height: 438
     isCached: true
+
+related:
+  - title: "The 'Godfather of AI' quit Google — and says he now regrets his role creating technology that poses a threat to humanity"
+    excerpt: "Employees who spoke with Bloomberg said they thought Google wasn't prioritizing AI ethics, and trying to develop the tech quickly to catch up to OpenAI's ChatGPT. Two employees tried to stop the ..."
+    publishedDateTime: 2023-05-01T20:45:00Z
+    webUrl: "https://www.businessinsider.com/geoffrey-hinton-godfather-of-ai-quits-google-sounds-alarm-chatbots-2023-5"
+    ampWebUrl: "https://www.businessinsider.com/geoffrey-hinton-godfather-of-ai-quits-google-sounds-alarm-chatbots-2023-5?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/geoffrey-hinton-godfather-of-ai-quits-google-sounds-alarm-chatbots-2023-5?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
+    images:
+      - url: "https://i.insider.com/644fe1b9da6d7b0019bdca65?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "'Godfather of AI' on regulating artificial intelligence: 'things are incredibly uncertain'"
+    excerpt: "Katy Tur spoke with Geoffrey Hinton, fmr. Vice President and Engineering Fellow at Google known as the 'Godfather of A.I.' about the furture of artificial intelligence."
+    publishedDateTime: 2023-05-04T19:58:00Z
+    webUrl: "https://www.msnbc.com/katy-tur/watch/-godfather-of-ai-on-regulating-artificial-intelligence-things-are-incredibly-uncertain-172780101692"
+    ampWebUrl: "https://www.msnbc.com/msnbc/amp-video/mmvo172780101692"
+    cdnAmpWebUrl: "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp-video/mmvo172780101692"
+    type: article
+    provider:
+      name: MSNBC
+      domain: msnbc.com
+    quality: 62
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_05/1683230204178_n_tur_geoffreyhinton_05042023_1920x1080-u1wuh1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Artificial intelligence 'godfather' regrets invention, warning of its imminent and ‘profound' danger to humanity"
+    excerpt: "A man dubbed the “godfather of artificial intelligence” has admitted he regrets his invention, warning that the impending dangers of the technology will be felt in most of our lifetimes."
+    publishedDateTime: 2023-05-02T07:25:00Z
+    webUrl: "https://www.skynews.com.au/business/media/artificial-intelligence-godfather-regrets-invention-warning-of-its-imminent-and-profound-danger-to-humanity/news-story/f07bef15aaadc2c5c1bd5bd9ccb7cc2f"
+    ampWebUrl: "https://www.skynews.com.au/business/media/artificial-intelligence-godfather-regrets-invention-warning-of-its-imminent-and-profound-danger-to-humanity/news-story/f07bef15aaadc2c5c1bd5bd9ccb7cc2f?amp"
+    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/business/media/artificial-intelligence-godfather-regrets-invention-warning-of-its-imminent-and-profound-danger-to-humanity/news-story/f07bef15aaadc2c5c1bd5bd9ccb7cc2f?amp"
+    type: article
+    provider:
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 38
+    images:
+      - url: "https://content.api.news/v3/images/bin/a2e0c02994224e8a4a88547da3482722"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "dUxNLuom9RZfii3mpZU6eKpvpw9+svDv750qG5ok6qMp2Euya/mzGkDQp5hWmhKs4WqWxRLhAlnBmK7gbMryoLtlqH0bmtBoniPife9mbtdpqtRW7TlJ7kZxEZF7h5HFJLITQnLUgVxhg2kJNlyhB84Yf78aCME9zyYYD2YunOGkXLrTaovdGY12kjO/3m5uRYcUZqdVIZUSFG4Qnx3dAnhBfkSwZtm8RulxTvnKyo7d8Gl+nsfCW5sRVeRdfsrn/ssEVcY/cvQLeLnz1DFp67J+lUwCrjL6Ku8jb/ds9PbqLCeCNVtl1/EdKAbRY7tjIud7nOQb8YAKrOKAbbj3y1ow8AJ9Upa9EZyCW97wc+/7suXy1TlG9HgeS/uxkjkeob/7VL0IInhQhJqkEOfl2nXnYAP9TVek+5g6biXGc9jCDebeyHUjJcARlS1WKCtCJWLHlq3y2p2wpYWzGumU8wBoYgQ70iVLkx81Ex7g4N4g+Hvgg8AcmqtJFAX66hmDc1vRdZL8GxVRtT2pONX9/g==;1XbkPncQlKPs+bPrlPtjPA=="
 ---

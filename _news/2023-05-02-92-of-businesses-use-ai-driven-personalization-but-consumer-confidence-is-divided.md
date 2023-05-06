@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/92-of-businesses-use-ai-driven-personaliz
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/92-of-businesses-use-ai-driven-personalization-but-consumer-confidence-is-divided/amp/"
 type: article
 quality: 81
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "How fintechs are gaining a competitive advantage with AI-powered personalization-at-scale"
-    excerpt: "Personalization-at-scale is a key strategy for fintechs to deliver hyper-relevant products and services to meet customer demands."
-    publishedDateTime: 2023-05-01T18:16:00Z
-    webUrl: "https://venturebeat.com/ai/how-fintechs-are-gaining-a-competitive-advantage-with-ai-powered-personalization-at-scale/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 40
 
 secured: "bGd42lqRI1xm72OS9fEoXDTPGfCM8EjSMEDMwRdq3ywZJE7iwi9qDWWSnxHqA9bVAvJhnnbx4bBsMU6V/0sAL3NmUXY7H8dr3JBCucKTjEbTkyt1khiIblxq48sSFWPB44nRA6a9AyqFaKm0h6oyAARH0hsRXPQrfZhpuavbo8XuXgAZQEExSSpnll36jAPHNj+NIdQgI2uobgkXD6ZHMwY/++1OQOsXxH4n5sLFB5ry5cQA3iQL2X2FLCRyKipBJNr7LraDdtkyTQhN6QowBtvXs9JX13+MG0LKYdIn/2wgPi+KcVFBtMDCkfw5bCCs9Ng3kgeEiKgyCt3fuz+idbLAVX8OYSp3TrFYDS22zSK840FTztH8yQElKVMClovrKFStFneeIRMMpJORMTOepxRfLjgG+qvGsXGD+SyfWqPrfFpvFP/mAUhLLkg6EwPncAZwWCpRj4ujGI2sE33HeV7ofHOg/tT0vBQp/wPVttk11HNVnS+Xer61joS/i6de+cFMjSFglJQasOOh5xuv9g==;I7hKR3vnejvCawwn/uHj3A=="
 ---

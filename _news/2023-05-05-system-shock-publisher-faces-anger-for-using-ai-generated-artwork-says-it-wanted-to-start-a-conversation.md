@@ -115,15 +115,6 @@ related:
         width: 898
         height: 532
         isCached: true
-  - title: "Prepare image data with Amazon SageMaker Data Wrangler"
-    excerpt: "The rapid adoption of smart phones and other mobile platforms has generated an enormous amount of image data. According to Gartner, unstructured data now represents 80–90% of all new enterprise data, but just 18% of organizations are taking advantage of this data. This is mainly due to a lack of expertise"
-    publishedDateTime: 2023-05-01T18:28:55Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/prepare-image-data-with-amazon-sagemaker-data-wrangler/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 69
   - title: "Making A Difference With Generative AI"
     excerpt: "Everyone seems to be using ChatGPT for something or the other. Here, our experts suggest some serious, game-changing applications that the technology can"
     publishedDateTime: 2023-05-03T11:39:00Z
