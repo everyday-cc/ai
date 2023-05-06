@@ -137,6 +137,15 @@ related:
         width: 767
         height: 633
         isCached: true
+  - title: "Art world AI-nxiety: what is artificial intelligence and how are artists using it?"
+    excerpt: "From breaking news and insider insights to exhibitions and events around the world, the team at The Art Newspaper picks apart the art world’s big stories with the help of special guests."
+    publishedDateTime: 2023-05-05T18:15:00Z
+    webUrl: "https://www.theartnewspaper.com/2023/04/28/art-world-ai-nxiety-what-is-artificial-intelligence-and-how-are-artists-using-it"
+    type: article
+    provider:
+      name: The Art Newspaper
+      domain: theartnewspaper.com
+    quality: 28
   - title: "AI could run a million microbial experiments per year"
     excerpt: "An artificial intelligence system enables robots to conduct autonomous scientific experiments—as many as 10,000 per day—potentially driving a drastic leap forward in the pace of discovery in areas from medicine to agriculture to environmental science."
     publishedDateTime: 2023-05-04T00:00:00Z

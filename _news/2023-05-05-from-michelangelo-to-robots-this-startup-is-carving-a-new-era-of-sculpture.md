@@ -37,7 +37,7 @@ related:
     provider:
       name: Interesting Engineering
       domain: interestingengineering.com
-    quality: 37
+    quality: 54
     images:
       - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/05/06/image/jpeg/zCLr0ll3NIoF744Acd4LH8IQ0gNOxMZrdfzdANnk.jpg"
         width: 1920

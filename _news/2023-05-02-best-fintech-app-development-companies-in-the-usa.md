@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/best-fintech-app-develop
 webUrl: "https://www.marketwatch.com/press-release/best-fintech-app-development-companies-in-the-usa-2023-05-02"
 type: article
 quality: 54
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -86,20 +86,6 @@ related:
       - url: "https://alleywatch.com/wp-content/uploads/2023/05/amaka.jpg"
         width: 1000
         height: 367
-        isCached: true
-  - title: "OPTASIA RANKS THIRD AMONG TOP FINTECH COMPANIES ACCORDING TO FORBES MIDDLE EAST MAGAZINE"
-    excerpt: "Optasia, the leading Fintech services provider received one more top recognition, ranking third among the Top 30 Fintech companies"
-    publishedDateTime: 2023-05-02T03:01:00Z
-    webUrl: "https://www.asiaone.com/business/optasia-ranks-third-among-top-fintech-companies-according-forbes-middle-east-magazine"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 15
-    images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/May2023/pr-newswire_500_4_61.jpg?h=7de12b8a&itok=W_l9i-Ue"
-        width: 600
-        height: 316
         isCached: true
   - title: "IIT Kanpur's eMasters degree program in Financial Technology and Management to groom FinTech experts"
     excerpt: "Some estimates suggest that the global FinTech market is expected to reach a market value of approximately $324 billion by 2026. Another recent report suggests that India's digital payments market is expected to triple from $3 trillion to $10 trillion by 2026,"

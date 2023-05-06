@@ -58,15 +58,6 @@ related:
       name: Middle East Eye
       domain: middleeasteye.net
     quality: 13
-  - title: "Israel/OPT: Israeli authorities are using facial recognition technology to entrench apartheid"
-    excerpt: "The Israeli authorities are using facial recognition technology to track Palestinians and restrict their freedom of movement, Amnesty International said today."
-    publishedDateTime: 2023-05-02T01:31:00Z
-    webUrl: "https://www.amnesty.org.au/israel-opt-israeli-authorities-are-using-facial-recognition-technology-to-entrench-apartheid/"
-    type: article
-    provider:
-      name: Amnesty International Australia
-      domain: amnesty.org.au
-    quality: 8
 
 secured: "Ew5ofvt+Y1jH5c/nLj9ZoHu0thZ0bSQJvakp5KJmhb9ZgyPFVSVpDnorZId2FwugqKor8OjFnsEneJqlYCWeYzbLReHYdmLie0PJCIvajybB0J3RKDbCDJPfHmF7pK4O8TofdmB4ZFZvUwKSSCIhuokxsXYEL+fEHLBJGheBdb5C8//OCcBy6peU2BZ8Sjz7ZBIr8TfVMz5oSIXPo6GuaT1f3AL16maHXQYRmq1INq6uf8dtLgLJE9Yz2MH9WsbPZ0O6NG67XJaBgQOlblpuQ/JDmrpbVicF8pPO35VoNLpeMmc+gu92Mh5maUdZl88pu92F3ep7NrCJj3R4+2am/jOi424mH2R9PlsoVOC/uWs=;z6QX3Of53OHcSvygOndJMw=="
 ---

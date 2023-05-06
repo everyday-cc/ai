@@ -53,20 +53,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 63
-  - title: "Clinical Natural Language Processing Market Updates 2023-2031 by Marketreportsworld.com"
-    excerpt: "The research report on the \"Clinical Natural Language Processing Market\" |in-Depth Analysis Share of 2023| perhaps an"
-    publishedDateTime: 2023-05-02T04:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/clinical-natural-language-processing-market-updates-2023-2031-by-marketreportsworldcom-2023-05-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Cognitive Services Market Share From 2023 And Unlimited Opportunities for New Companies"
     excerpt: "Cognitive Services Market Size 2023 | New Report (116 Pages) | Analytics | In This Reports Cognitive Services Market"
     publishedDateTime: 2023-05-05T04:22:00Z

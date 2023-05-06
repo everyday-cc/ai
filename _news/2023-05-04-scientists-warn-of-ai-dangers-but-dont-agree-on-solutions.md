@@ -1,27 +1,22 @@
 ---
 category: news
 title: "Scientists warn of AI dangers but don't agree on solutions"
-excerpt: "Computer scientists who helped build the foundations of today’s artificial intelligence technology are warning of its dangers, but that doesn’t mean they agree on what those dangers are or how to prevent them."
-publishedDateTime: 2023-05-04T00:54:00Z
-originalUrl: "https://www.chron.com/news/politics/article/scientists-warn-of-ai-dangers-but-don-t-agree-on-18076413.php"
-webUrl: "https://www.chron.com/news/politics/article/scientists-warn-of-ai-dangers-but-don-t-agree-on-18076413.php"
+excerpt: "Computer scientists who helped build the foundations of today’s artificial intelligence technology are warning of its dangers, but that doesn’t mean they agree on what those dangers are or how to prev"
+publishedDateTime: 2023-05-03T19:03:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/scientists-warn-ai-dangers-agree-solutions-99053481"
+webUrl: "https://abcnews.go.com/Business/wireStory/scientists-warn-ai-dangers-agree-solutions-99053481"
 type: article
-quality: 37
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
+  - AI Ethics
   - AI
-
-images:
-  - url: "https://s.hdnux.com/photos/01/32/56/21/23782509/6/rawImage.jpg"
-    width: 2048
-    height: 1250
-    isCached: true
 
 related:
   - title: "AI pioneer quits Google to warn about dangers"
@@ -141,20 +136,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "‘Godfather of AI’ quits Google amid AI fears"
-    excerpt: "Turing Award winner and AI pioneer Geoffrey Hinton has resigned from his position with Google in order to speak more openly about the dangers of artificial intelligence, raising questions about whether tech giants have silenced the people most qualified to inform the public about the emerging technology’s effects."
-    publishedDateTime: 2023-05-02T02:39:00Z
-    webUrl: "https://ia.acs.org.au/article/2023/-godfather-of-ai--quits-google-amid-ai-fears.html"
-    type: article
-    provider:
-      name: ia.acs
-      domain: acs.org.au
-    quality: 39
-    images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2023/google%20departure%20hinton.jpg"
-        width: 943
-        height: 531
-        isCached: true
   - title: "'Godfather of AI' quits Google to warn of the technology's dangers"
     excerpt: "Geoffrey Hinton, who created a foundation technology for AI systems, said that advancements in the field posed ‘profound risks to society and humanity’."
     publishedDateTime: 2023-05-02T07:51:00Z
@@ -266,6 +247,6 @@ related:
       domain: news.com.au
     quality: 9
 
-secured: "KGWgsxBkTVzCuQ8CobbUw0ndP7JpeeJlph0P/BsvsMDpCCXQ7LJptsD9yPeT6GYFgVsiYrUMT3WXLv9gRdiwo+9DyJQsqx3cc3X7aYjYT27GyjhYCuL0kYDZ7OK47ycofmmSf3oEnwdNkoEFGClPhf5L0VJtBCh15HTEpGMAZCq2v7KE7Q7iwvH7n67WIkAFiYs3D25HdmgaF4EE6TWmMgQhw3Q0Q8YM2cwozz5T2jNnUoiguAvOMsOCjEXQAo39ljZAFewp26q/BWZkwBQYKDb/ZVqa4Sij0E5AqZSaZo0ipVk9JETNYfJ5rztm9ziT/USsfvDb7zz63qK0xPKohclt89y1ql7TJY3rBlPMKwY=;PzHo/HdSmVRBadfqVlsHTw=="
+secured: "YaX2K6/6y+UDd212Nv5SyL7WFwTU46lauyblqEcxM1nsz0DiwyDqA6XFATFDU21pFQm8IeBstSXbQn2SI+J+pEz3zuBYYUhkmD4RbYriLDyEayDN2SHszbnKPRqnmDprjtiFUk5+nqX7Ge48KVZiFrh1mo2+aKOhhxJa8mMC4Z+tXgiizJw2Q0xaj5ayvl8QuG4yDzLTkVCh9aYIeWL10EZxq0ycaMnkRfNfw0iRNpU9YUKnR9yXObbQbQrtKAuKhL1IW/LN3jzW9eKeeQIfpoOi9yxGI04dNtH+iU7Cm2z+0YQ+RqbNl56LebsP0O+0mzZdaAXK4R7KZYQ2SDwKIw3vONan1UEOTDCMWfk9c5dTWnP7jOWvIxMnGmSV5OYZxdxhYFV8NfTUn0++zuKsO2r/RudsFetmY2WkK+zizt8d0pUPfBcbXi/h8210lH0Z4dZxFxsFYQ39+ajlhR0RAqqFXSQ9rrNeosJ64s5c+fzJ/uwwrzOvjTQqPgjuafQuBRE/EzZgztS4LC/KtfeQ8Q==;R4Jt6pXRqzw1yjUNUpDl2g=="
 ---
 

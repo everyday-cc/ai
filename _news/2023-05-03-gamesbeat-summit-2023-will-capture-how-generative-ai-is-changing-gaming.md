@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/games/gamesbeat-summit-2023-will-capture-how
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/gamesbeat-summit-2023-will-capture-how-generative-ai-is-changing-gaming/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "How AI is Changing the Manufacturing Industry"
+    excerpt: "According to the 2020 MIT Technology Review Insights survey, manufacturing is the sector with the second-highest adoption of artificial intelligence. This comes as no surprise since AI can shift the industry paradigm and reinvent how companies handle all aspects of the manufacturing process."
+    publishedDateTime: 2023-05-06T20:58:00Z
+    webUrl: "https://www.unite.ai/how-ai-is-changing-the-manufacturing-industry/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 39
+    images:
+      - url: "https://www.unite.ai/wp-content/uploads/2023/05/ai-manufacturing-971x600.jpg"
+        width: 971
+        height: 600
+        isCached: true
   - title: "How AI is changing the game for software developers — for better and worse"
     excerpt: "On one hand, these platforms can potentially revolutionize how developers work. On the other, they also threaten job security for those in the industry, presenting a stark contrast to established processes."
     publishedDateTime: 2023-05-03T21:48:00Z

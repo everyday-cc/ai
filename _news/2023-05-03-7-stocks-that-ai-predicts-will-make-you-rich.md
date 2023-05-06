@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/7-stocks-that-ai-p
 webUrl: "https://markets.businessinsider.com/news/stocks/7-stocks-that-ai-predicts-will-make-you-rich-1032288368"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -23,15 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "The 7 Most Promising AI Stocks to Buy in May"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The rise of artificial intelligence set the investment landscape on fire, with"
-    publishedDateTime: 2023-05-02T10:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-7-most-promising-ai-stocks-to-buy-in-may-1032281534"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "The 3 Most Overrated AI Stocks to Sell in May"
     excerpt: "Nvidia (NASDAQ:NVDA) is the classic example. It’s no secret that Nvidia is producing the chips and advanced engineering necessary to power the next leg of AI innovation. It will be a large and fast-growing market for the company for many years to come."
     publishedDateTime: 2023-05-04T11:29:00Z

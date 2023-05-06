@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/google-backs-startup-hoping-to-mak
 webUrl: "https://www.businessinsider.com/google-backs-startup-hoping-to-make-human-financial-planners-obsolete-2023-5"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,17 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "EXCLUSIVE: Top 10 Most-Searched Tickers On Benzinga Pro In April, Including Tesla, First Republic Bank And Several AI Stocks"
+    excerpt: "Each trading day features hundreds of headlines and press releases on Benzinga Pro, a source for traders to see the latest news on the overall market and individual tickers."
+    publishedDateTime: 2023-05-06T18:56:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/exclusive-top-10-most-searched-tickers-on-benzinga-pro-in-april-including-tesla-first-republic-bank-and-several-ai-stocks-1032299074"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 54
 
 secured: "A2jnjJuZdGVrAJvpUC6tZWeQ7WknMEhNXM2qOM5ATkRGu6oRroZaw8JqoMzK2S05QGN1pNcbjclUQNR5JrHqex1xtpNAWSAmb4meMgY0XszbNAtdTajGQB9d3Q+ra/gfARpP96j8SS7hb8V8t00XjJeyhFNUv6I3BMRp5dz9mY/jfER9PEO9+ih7VvmDlwpvUQ2f95a3U2/b5ocXlkdn5vHibjajsvr4xTYFZ9rNbOqIpcd5RKdOjak4HfLQ0fRyekbvnYi7BvSs7J4wTo0746ESQSBWzwCIMVXpjd9Ji6gMD6xYTu7q5gavS5gjpWKBQOLGEfiCcmR8M83BASS+cOCWW2dncEY6rqxs4ko11OMlkYuyo+1uvfoUl7r2lXkCpkATKeFSBLrnvFQRTEHsezpgZOo4qCJjKYSZJohKPe+MesCD9j4bekC4jMglOVRvsyme2+BpqQf+qU3/dY0EhW2vxwj+LTg/Xnvgs2+7nka8u3JsskukxOFKp62sI/wxb/A13bt5fuHPUDVrHhlW7g==;tQdV8HoBCprwbFATiOiD/w=="
 ---

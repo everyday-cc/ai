@@ -131,20 +131,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "‘Godfather of AI’ quits Google amid AI fears"
-    excerpt: "Turing Award winner and AI pioneer Geoffrey Hinton has resigned from his position with Google in order to speak more openly about the dangers of artificial intelligence, raising questions about whether tech giants have silenced the people most qualified to inform the public about the emerging technology’s effects."
-    publishedDateTime: 2023-05-02T02:39:00Z
-    webUrl: "https://ia.acs.org.au/article/2023/-godfather-of-ai--quits-google-amid-ai-fears.html"
-    type: article
-    provider:
-      name: ia.acs
-      domain: acs.org.au
-    quality: 39
-    images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2023/google%20departure%20hinton.jpg"
-        width: 943
-        height: 531
-        isCached: true
   - title: "'Godfather of AI' quits Google to warn of the technology's dangers"
     excerpt: "Geoffrey Hinton, who created a foundation technology for AI systems, said that advancements in the field posed ‘profound risks to society and humanity’."
     publishedDateTime: 2023-05-02T07:51:00Z
@@ -187,20 +173,6 @@ related:
         width: 700
         height: 1048
         isCached: true
-  - title: "Scientists warn of AI dangers but don't agree on solutions"
-    excerpt: "Computer scientists who helped build the foundations of today’s artificial intelligence technology are warning of its dangers, but that doesn’t mean they agree on what those dangers are or how to prevent them."
-    publishedDateTime: 2023-05-04T00:54:00Z
-    webUrl: "https://www.chron.com/news/politics/article/scientists-warn-of-ai-dangers-but-don-t-agree-on-18076413.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 37
-    images:
-      - url: "https://s.hdnux.com/photos/01/32/56/21/23782509/6/rawImage.jpg"
-        width: 2048
-        height: 1250
-        isCached: true
   - title: "The Godfather of AI is leaving Google with a stark warning about what's next"
     excerpt: "Now, one of Google’s own is joining the anti-AI side. According to The New York Times, Dr. Geoffrey Hinton — who pioneered the use of neural networks in AI — has left Google after more than a decade with the company. His reason? So he can speak out freely against the rise of AI."
     publishedDateTime: 2023-05-02T21:17:00Z
@@ -223,6 +195,15 @@ related:
     provider:
       name: The Financial Times
       domain: ft.com
+    quality: 19
+  - title: "Scientists warn of AI dangers but don't agree on solutions"
+    excerpt: "Computer scientists who helped build the foundations of today’s artificial intelligence technology are warning of its dangers, but that doesn’t mean they agree on what those dangers are or how to prev"
+    publishedDateTime: 2023-05-03T19:03:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/scientists-warn-ai-dangers-agree-solutions-99053481"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
     quality: 19
   - title: "Scientists warn of AI dangers but don’t agree on solutions"
     excerpt: "Margaret Mitchell, a former leader on Google’s AI ethics team, said she’s upset that Hinton didn’t speak out during his decade in a position of power at Google, especially after the 2020 ouster of prominent Black scientist Timnit Gebru, who had ..."

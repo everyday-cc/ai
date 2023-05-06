@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/ai-trailers-are-weirdly-funny-e
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-trailers-are-weirdly-funny-enjoy-it-while-it-lasts/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: CNET
@@ -28,24 +28,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "AI Trailers Are Extremely Funny Abominations. For Now"
-    excerpt: "This hellish atrocity I've just described is an AI generated trailer, designed to show the capabilities of AI created content. It is, in no uncertain terms, an abomination. It's also extremely funny."
-    publishedDateTime: 2023-05-02T01:46:00Z
-    webUrl: "https://www.cnet.com/tech/ai-trailers-are-extremely-funny-abominations-for-now/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/ai-trailers-are-extremely-funny-abominations-for-now/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-trailers-are-extremely-funny-abominations-for-now/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 87
-    images:
-      - url: "https://www.cnet.com/a/img/resize/61a5f420b79395e60ab2c3b95dc1c53900376fb7/hub/2023/05/02/53a395d2-d456-40d1-b738-f1efd94ec9f9/screen-shot-2023-05-02-at-11-17-16-am.png?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "tUe98hbdHGQz6eAduaC8Lgjsm2DH+fchtFPjfVVnMqBnXLulNKKZFdFInPtKynEtx9Od8XU3FVx0u8ZezsrMPDsatl32Qu69fUmxEDDxGqJndIez20x9WOqhGWpDgpUyrBEDymf5+QetMP1WOLChoulG76bP2ymgy2gRAVqmhczXBc35/mE6iHu8YGsoHUd9FxhiDUqpl0168eLY01VXdwnE5DpIYA2YvXR02nZU8POSSFfaIQYm4I2BGS+7r7nOBmtzK8vCfMPqW52wcvi2IGxcvpgJcKeNmDBAC7rM94Zukgo3pjgnjX2+QqltsMKTeN0m9cqMLqEnj40daPOI8Celd5ILrSh7aYPI+oGkwnkSxAGu6xfIejqW1QZll/P/3ptBibq9eHJtsDAKw5IksSqgtIOLmlPjauckhguVg3/RUe/KdRd39vBDY2kdljNmfPKnG540OlnFCHFkWKytrhLWJEouiBKMA3cIr6Jw7MCQFzg8/WN8rMkY13TvRUreMvaIcJpr23sFS6y3XeM/EA==;0huYiDOvu4Y0JrtKIa7Ofg=="
 ---

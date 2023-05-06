@@ -53,6 +53,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "New AI decoder can translate brainwaves into text - study"
+    excerpt: "This is an important step on the way to develop brain–computer interfaces that can decode continuous language through non ... listened to podcasts while the AI attempted to transcribe their ..."
+    publishedDateTime: 2023-05-06T07:37:00Z
+    webUrl: "https://www.jpost.com/science/article-741820"
+    ampWebUrl: "https://m.jpost.com/science/article-741820/amp"
+    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/science/article-741820/amp"
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 74
+    images:
+      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/536262"
+        width: 690
+        height: 407
+        isCached: true
   - title: "Goodbye privacy: AI’s next terrifying advancement is reading your mind"
     excerpt: "Researchers have successfully created an AI system that “can translate a person’s brain activity” into plain, readable language."
     publishedDateTime: 2023-05-02T16:41:00Z

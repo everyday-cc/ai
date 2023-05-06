@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/a-world-of-mobile-speech
 webUrl: "https://www.marketwatch.com/press-release/a-world-of-mobile-speech-recognition-software-market-insights-2023-2030-at-your-fingertips-2023-05-03"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: MarketWatch
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Unlock a Growth of Statistical Natural Language Processing Market Insights at Your Fingertips"
-    excerpt: "The \"Statistical Natural Language Processing Market\" Report covers the global and regional market with an in-depth"
-    publishedDateTime: 2023-05-02T04:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/unlock-a-growth-of-statistical-natural-language-processing-market-insights-at-your-fingertips-2023-05-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "The Future Scope of Far-field Speech Recognition Market Huge Growth Along with High Demand till 2030"
     excerpt: "The following is a synopsis of a market research report on the Far-field Speech Recognition Market research report"
     publishedDateTime: 2023-05-02T11:19:00Z

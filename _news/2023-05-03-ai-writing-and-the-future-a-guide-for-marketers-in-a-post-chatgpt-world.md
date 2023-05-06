@@ -273,20 +273,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Navigating the Ethical Minefield: AI and Chatbot Responsibilities"
-    excerpt: "Chatbots have become essential to daily life, from booking flights to ordering food. They make our interactions with businesses more convenient and efficient. However, we must consider their ethical"
-    publishedDateTime: 2023-05-02T01:34:00Z
-    webUrl: "https://technology.inquirer.net/123694/navigating-the-ethical-minefield-ai-and-chatbot-responsibilities"
-    type: article
-    provider:
-      name: Philippine Daily Inquirer
-      domain: inquirer.net
-    quality: 54
-    images:
-      - url: "https://technology.inquirer.net/files/2023/05/Chatbot-ethics-featured-image-syndeo.cx-1-620x349.png"
-        width: 620
-        height: 349
-        isCached: true
   - title: "Screenwriters take aim at artificial intelligence, ChatGPT"
     excerpt: "Not six months since the release of ChatGPT, generative artificial intelligence is already prompting widespread unease throughout Hollywood. Concern over chatbots writing or rewriting scripts is one of the reasons TV and film screenwriters took to picket lines earlier this week."
     publishedDateTime: 2023-05-05T01:45:00Z
@@ -362,20 +348,6 @@ related:
       name: Engadget
       domain: engadget.com
     quality: 46
-  - title: "Hello, my name is Dr ChatGPT: Are robot doctors really the future?"
-    excerpt: "“Hello, my name is Dr ChatGPT. How can I help you today?” Imagine a medical consultation with a robotic creature. Will you feel comfortable? Will you trust this product of artificial intelligence to look after you effectively and safely?"
-    publishedDateTime: 2023-05-02T04:02:00Z
-    webUrl: "https://www.irishtimes.com/health/your-wellness/2023/05/02/hello-my-name-is-dr-chatgpt-are-robot-doctors-really-the-future/"
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 39
-    images:
-      - url: "https://www.irishtimes.com/resizer/1X6K7izXLKEeudFAltzVwhuOlmY=/1200x630/filters:format(jpg):quality(70):focal(3605x1565:3615x1575)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/CC2H53FF6FDPHC7GT6BQSJOA5E.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI start-up Inflection launches ChatGPT-like chatbot named Pi"
     excerpt: "Inflection’s chatbot, named Pi, uses generative AI technology to interact with users through dialogues. Read more at straitstimes.com."
     publishedDateTime: 2023-05-03T03:08:00Z

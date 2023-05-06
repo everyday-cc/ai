@@ -58,15 +58,6 @@ related:
         width: 2560
         height: 1706
         isCached: true
-  - title: "Israel/OPT: Israeli authorities are using facial recognition technology to entrench apartheid"
-    excerpt: "The Israeli authorities are using facial recognition technology to track Palestinians and restrict their freedom of movement, Amnesty International said today."
-    publishedDateTime: 2023-05-02T01:31:00Z
-    webUrl: "https://www.amnesty.org.au/israel-opt-israeli-authorities-are-using-facial-recognition-technology-to-entrench-apartheid/"
-    type: article
-    provider:
-      name: Amnesty International Australia
-      domain: amnesty.org.au
-    quality: 8
 
 secured: "huSOitruMtuL/Sdy3toZeCsdafkG8+YNzUoCPpJKrdPw6bhzp9BB/iJ/f6GD3J8qz4+D/MNDqI6qBocx8mml9ziYowqeGogsWrBmDA7E/XjlQ2GvCLuorhCFGIcRP7TCQh5kMF0F7n7AZM+WeLRc1ycf3c2vl23SoA6tPFNqUwGH0HO2bdXdU+wuGKNet/+p1/B1pWh4c4Rdh9UhD1JEgIPdYvgYO647S9qX6yqE8LhOeVGRJrs6m3bl7ItxL7K6bN6uBmY3PNiPz3FKbg7CkjxEYZ6N9/U2YecRS+Jrzkc2315kfgdmgJT4lxtp84xQUqVAj1dbDhHqQHCf1mMZwLWuBM29bB9DMIRf3I/4LlA=;vUB6TeaKNir+9bc0ZpLA9g=="
 ---

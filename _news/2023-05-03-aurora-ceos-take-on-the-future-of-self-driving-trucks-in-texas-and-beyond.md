@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Aurora CEO Chris Urmson on self-driving trucks"
-    excerpt: "The prospect of a driverless semi is scary to many, but not to Urmson, who helped to build Google's autonomous vehicle unit."
-    publishedDateTime: 2023-05-02T01:05:00Z
-    webUrl: "https://www.courthousenews.com/aurora-ceo-chris-urmson-on-self-driving-trucks/"
-    type: article
-    provider:
-      name: Courthouse News Service
-      domain: courthousenews.com
-    quality: 24
-    images:
-      - url: "https://www.courthousenews.com/wp-content/uploads/2023/05/chris-urmson.jpg"
-        width: 1917
-        height: 1278
-        isCached: true
   - title: "Insider Q&A: Aurora CEO Chris Urmson on self-driving trucks"
     excerpt: "Sometime next year, semis with no human in the cab will start carrying freight down Interstate 45 between Dallas and Houston. The trucks will run on an autonomous driving system called the Aurora Driver,"
     publishedDateTime: 2023-05-04T17:15:00Z

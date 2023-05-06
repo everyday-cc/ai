@@ -101,22 +101,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "IBM to pause hiring for jobs that AI could do, says CEO Arvind Krishna"
-    excerpt: "Hiring in back-office functions - such as human resources - will be suspended or slowed, IBM CEO Arvind Krishna said in an interview"
-    publishedDateTime: 2023-05-02T01:34:00Z
-    webUrl: "https://www.business-standard.com/companies/news/ibm-to-pause-hiring-for-jobs-that-ai-could-do-says-ceo-arvind-krishna-123050200111_1.html"
-    ampWebUrl: "https://www.business-standard.com/amp/companies/news/ibm-to-pause-hiring-for-jobs-that-ai-could-do-says-ceo-arvind-krishna-123050200111_1.html"
-    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/companies/news/ibm-to-pause-hiring-for-jobs-that-ai-could-do-says-ceo-arvind-krishna-123050200111_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 59
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2023-05/02/full/1682990709-8201.jpg"
-        width: 3840
-        height: 2561
-        isCached: true
   - title: "Job cuts may intensify as IBM plans to use AI to replace 30% back office jobs"
     excerpt: "IBM CEO Arvind Krishna said he expects AI to impact at least 7,800 jobs at the company over the next five years."
     publishedDateTime: 2023-05-02T07:55:00Z
@@ -133,17 +117,6 @@ related:
         width: 1200
         height: 940
         isCached: true
-  - title: "IBM to pause hiring for jobs that AI could do"
-    excerpt: "IBM's CEO said the company expects to pause hiring for roles it thinks could be replaced with artificial intelligence in the coming years."
-    publishedDateTime: 2023-05-02T01:38:00Z
-    webUrl: "https://www.seattletimes.com/business/ibm-to-pause-hiring-for-jobs-that-ai-could-do/"
-    ampWebUrl: "https://www.seattletimes.com/business/ibm-to-pause-hiring-for-jobs-that-ai-could-do/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/ibm-to-pause-hiring-for-jobs-that-ai-could-do/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 39
   - title: "IBM pauses hiring, says it could replace 7,800 workers with AI"
     excerpt: "IBM has paused hiring and said that it could lay off around 7,800 workers over the next five years. CEO Arvind Krishna claimed that employees could be replaced by artificial intelligence. Speaking about back-office workers,"
     publishedDateTime: 2023-05-03T14:11:00Z

@@ -86,6 +86,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "How driverless semitrucks got drivers’ licenses in Kansas | Commentary"
+    excerpt: "If you blinked, you probably missed it. Driverless vehicles, like artificial intelligence, are both promising and scary at the same time. They have the potential both to improve our world and to ..."
+    publishedDateTime: 2023-05-03T05:32:00Z
+    webUrl: "https://www.kansas.com/opinion/guest-commentary/article274749491.html"
+    ampWebUrl: "https://amp.kansas.com/opinion/guest-commentary/article274749491.html"
+    cdnAmpWebUrl: "https://amp-kansas-com.cdn.ampproject.org/c/s/amp.kansas.com/opinion/guest-commentary/article274749491.html"
+    type: article
+    provider:
+      name: Wichita Eagle
+      domain: kansas.com
+    quality: 39
   - title: "Self-Driving Car for AI Programming Market Future Growth and Detail Analysis of Industry Up to 2030"
     excerpt: "May 04, 2023 (The Expresswire) -- The following is a synopsis of a market research report on the Self-Driving Car for AI Programming Market research report provides an extensive analysis of current and forthcoming industry trends. The report enables ..."
     publishedDateTime: 2023-05-04T12:10:00Z

@@ -53,6 +53,20 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 49
+  - title: "Godfathers of AI, too, now fear unbridled Generative AI tools"
+    excerpt: "The Turing Award is named after Alan M. Turing, the British mathematician who developed the idea for the Universal Turing Machine, the basis for the first computer. Turing is also considered one of the founding fathers of AI, along with Marvin Minsky, Allen Newell, and Herbert A. Simon."
+    publishedDateTime: 2023-05-05T02:59:00Z
+    webUrl: "https://www.livemint.com/mint-top-newsletter/techtalk05052023.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 39
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/05/03/original/Picture3_1683118493527.jpg"
+        width: 624
+        height: 446
+        isCached: true
 
 secured: "VPGKzioXkjNr0v9gPWI2vPgM7lFBstD5a/L5Ca4PgXNMJ1d9MHxkLNi9DhUpDBnU1aNjtWz8uVTr5DC5ZIrokYZYDczXrP/h5OQUVlQkp+sQ/QzC4SrhaNfeK8rHae/QBxOa9h2N37/sHNl39Dht7hVfzgQ2Yp5AI92pqZ/Y3kB7erirMlNmlVHyJ/060dTETrU8Ydih9QoKT9s60vprDPLNVrU4WPWO8C+RJygYM8N5EXmv06SjrQDZcXlY3DQQbRNk623C1adNTVe+Eav/qcTrUyXSok2yH6fwbpwrvNJoEhFPDA6m9iw7b/UZP9EYKL8cqn4J29MJRXEIkxXqzoMi2WjB3GRi/d2tE1X/xfYuREZq6qTBQ6dfrkmIbkE83nxIJoxdUxRFa6yYEks9cOQDLe3c8zqow208PtQa8UJceEIimhEzfrjw+jy2QHoU8COj6WgFxWd7vBl2IH6e5O8285DBNF1y1YlpGtMhJKvYejBl4WvfwctaQwrscHaHiviQB/4fyMATaOwpw8RyIA==;gl6vkOyZ9pCF50zrlPS/lQ=="
 ---

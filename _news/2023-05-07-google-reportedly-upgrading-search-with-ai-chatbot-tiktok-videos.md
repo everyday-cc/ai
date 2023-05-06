@@ -262,20 +262,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Navigating the Ethical Minefield: AI and Chatbot Responsibilities"
-    excerpt: "Chatbots have become essential to daily life, from booking flights to ordering food. They make our interactions with businesses more convenient and efficient. However, we must consider their ethical"
-    publishedDateTime: 2023-05-02T01:34:00Z
-    webUrl: "https://technology.inquirer.net/123694/navigating-the-ethical-minefield-ai-and-chatbot-responsibilities"
-    type: article
-    provider:
-      name: Philippine Daily Inquirer
-      domain: inquirer.net
-    quality: 54
-    images:
-      - url: "https://technology.inquirer.net/files/2023/05/Chatbot-ethics-featured-image-syndeo.cx-1-620x349.png"
-        width: 620
-        height: 349
-        isCached: true
   - title: "Screenwriters take aim at artificial intelligence, ChatGPT"
     excerpt: "Not six months since the release of ChatGPT, generative artificial intelligence is already prompting widespread unease throughout Hollywood. Concern over chatbots writing or rewriting scripts is one of the reasons TV and film screenwriters took to picket lines earlier this week."
     publishedDateTime: 2023-05-05T01:45:00Z
@@ -351,20 +337,6 @@ related:
       name: Engadget
       domain: engadget.com
     quality: 46
-  - title: "Hello, my name is Dr ChatGPT: Are robot doctors really the future?"
-    excerpt: "“Hello, my name is Dr ChatGPT. How can I help you today?” Imagine a medical consultation with a robotic creature. Will you feel comfortable? Will you trust this product of artificial intelligence to look after you effectively and safely?"
-    publishedDateTime: 2023-05-02T04:02:00Z
-    webUrl: "https://www.irishtimes.com/health/your-wellness/2023/05/02/hello-my-name-is-dr-chatgpt-are-robot-doctors-really-the-future/"
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 39
-    images:
-      - url: "https://www.irishtimes.com/resizer/1X6K7izXLKEeudFAltzVwhuOlmY=/1200x630/filters:format(jpg):quality(70):focal(3605x1565:3615x1575)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/CC2H53FF6FDPHC7GT6BQSJOA5E.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI Writing and the Future: A Guide for Marketers in a Post-ChatGPT World"
     excerpt: "ChatGPT has revolutionized the marketing industry when it comes to producing content. Here is a blog on the effects of ChatGPT on marketers and more."
     publishedDateTime: 2023-05-02T17:39:00Z
@@ -530,6 +502,6 @@ related:
       domain: arabianbusiness.com
     quality: 11
 
-secured: "3vCIiOj0zO/i+LhbU4hl//oJVc4tMH/yFkhxxmwb2GqyvVyhMdU6b8Wuzth/NDztuaWA/9dA8rp/VGcB85x5eFSbAUBD0F4Ypj14K+zMgMM9ZcGx9z4P/QXJNVpE/Vl5XuV2gj96iXDOOp6Iue+mV0UPh/rj4E6fxrjjap+7HVt13MzKKka833t1zCM8sH9ZzJafKDYKv8Lc1y/6nWuDVUZtG17pzCqUUsJYRb46b/ygbeZ1s12Qt1UIqm2fZ/jhMn0/q7K2CYpZPWQ6SI8LUCMYdnudEKXQqG3Bp9kD8lZLGxu8F08EKT2ox3dQediL4MGXqKgmv4ZgK/KWEOdVXpeWfj2XLLAaKC+I9StbMiU=;wuPfdzlKQX9iwdHPtUuJ6A=="
+secured: "hs50i9CrHpTIG35ap+KA65uxGDbsu/yeorIRL3Vn/aZ2N1ZMdTvaTfMyzVaKY1DPr3liDCYUshmytL7Arye4tmuwcFuB/nJT9W0EDKc/lvUwMvSh+nJii4ntUh1+MYNQzLGScEXEZXof0onho+9b9zowmjhEBwqgne7FuBXdgyrikMd/92PZ+Lex4Gxa8e4NcTtAFQYnbUjg8mSiqqu3uPWQEEsXsF9hT2xxGIPAyYIDiJg1E+947GI0DTA0/SNSiUPwX22BRs707duIh8Xrp1FPxJyjp4SU3/1xwK6kkJ3wOmK4g1qFXs8ib2oRxWnxLKOytGR+r04eIXwZhfi7gfsnZS5f9ioAgrbFllyPFJUKuTc77rJwA5BSDcmRpXvShb6HKLq9A7E7XV+v8ClBn//ixuAEBI8PaA6w1PZDq0D1ZgUvOCM/eZLWx3jFulJbtLW7q8XXislaWOiJzDbGoRoYfzWRNR4MNYkxppyipQlIv44p91LvjTHQnakbDINRNiZhdUP3vQWm3PXHfl9nEw==;H/kIOjw7VGAB4JWtPwIaLQ=="
 ---
 

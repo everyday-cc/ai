@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Aurora CEO Chris Urmson on self-driving trucks"
-    excerpt: "The prospect of a driverless semi is scary to many, but not to Urmson, who helped to build Google's autonomous vehicle unit."
-    publishedDateTime: 2023-05-02T01:05:00Z
-    webUrl: "https://www.courthousenews.com/aurora-ceo-chris-urmson-on-self-driving-trucks/"
-    type: article
-    provider:
-      name: Courthouse News Service
-      domain: courthousenews.com
-    quality: 24
-    images:
-      - url: "https://www.courthousenews.com/wp-content/uploads/2023/05/chris-urmson.jpg"
-        width: 1917
-        height: 1278
-        isCached: true
 
 secured: "svij4JkefNgwDFL2dt71I5qv8rKPqICX66aP3z3kVluz9RqHI6B5TAVSECHck88oUuSfazLcZD6xHQWIj2C4+XVgHFT7pH53lzsaxhomNcs5K3fqKzf1YSQ9aeRh4dhLGx3ifpjUIixd6mhepGU0VOcUdXaLwqBFiQH2cMKeKGJ58JHeOiX6oXt0tHNi6wl+Ae2GgUyFtIuAM7lnDOpiabS3fhqeaiW+Jt/UKmghZ2epsoV9tUBdTN6S+YN03LUEFpRgtjAgsF+FRSGSPoBxoHeRZKxAE5BLwCHNdJxsx/pNEPeQI55HliVQXtEeDy7d1u7+7Mgu3FxHHC++UkCyZ4VAzmzYHoReaQfiE7WIPXCA/Edo0YnQOwwZgQlw33dFNeARoCh9Bcs0aFTKtxa6uEzgch/jm60pu9L9oc8/BNFz5yUCyhVSy6vngD07KB2EAuTS6h5Ezd5xPgYEHz0qkz5NaFltgI7JWI3M9Qb2qM1MeUGVmE5SLcGRFHR2b/tpIEX2Ls1bf8IEcHRogjs3SQ==;4goScnDA/F1ApFOegllDQA=="
 ---

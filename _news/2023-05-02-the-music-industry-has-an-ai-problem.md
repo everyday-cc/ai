@@ -22,21 +22,37 @@ topics:
   - AI
 
 related:
-  - title: "We're in the AOL phase of artificial intelligence, tech CEO says, as industry raves about A.I."
-    excerpt: "Sachin Dev Duggal, CEO of Builder.ai, said we've only just begun to see what's possible with AI and that the space is in need of a reality check."
-    publishedDateTime: 2023-05-02T03:21:00Z
-    webUrl: "https://www.cnbc.com/2023/05/02/chatgpt-were-only-in-aol-phase-of-ai-ceo-says.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2023/05/02/chatgpt-were-only-in-aol-phase-of-ai-ceo-says.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/05/02/chatgpt-were-only-in-aol-phase-of-ai-ceo-says.html"
+  - title: "UK and US intervene amid AI industry’s rapid advances"
+    excerpt: "Competition and Markets Authority sends ‘pre-warning’ to sector, while White House announces measures to address risks"
+    publishedDateTime: 2023-05-04T19:28:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/may/04/uk-and-us-intervene-amid-ai-industrys-rapid-advances?ref=upstract.com"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/04/uk-and-us-intervene-amid-ai-industrys-rapid-advances"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/04/uk-and-us-intervene-amid-ai-industrys-rapid-advances"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 75
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107231609-1682534718265-gettyimages-1252206786-AFP_33DW899.jpeg?v=1683004914"
-        width: 7944
-        height: 5296
+      - url: "https://i.guim.co.uk/img/media/1842f1cd10851ca8c141668d27a780e211171188/0_60_6000_3600/master/6000.jpg?width=620&quality=85&auto=format&fit=max&s=50e4be4f74f12ed6e3bc1701cffc96cd"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "US announces measures to address risk of artificial intelligence arms race"
+    excerpt: "White House said it would invest $140m in pursuit of AI advances that are ‘ethical, trustworthy, responsible, and serve the public good’"
+    publishedDateTime: 2023-05-04T15:52:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/may/04/us-announces-measures-to-address-risk-of-artificial-intelligence-arms-race"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/04/us-announces-measures-to-address-risk-of-artificial-intelligence-arms-race"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/04/us-announces-measures-to-address-risk-of-artificial-intelligence-arms-race"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 55
+    images:
+      - url: "https://i.guim.co.uk/img/media/f7eb9b7ae2efb54e5f8ccbce13aed19e3f76803e/0_0_6431_3861/master/6431.jpg?width=620&quality=85&auto=format&fit=max&s=ad8bac99eb3bf3d060964213513541f7"
+        width: 620
+        height: 372
         isCached: true
 
 secured: "RgjzHWJo21tq+5G66QBFPyAoAVNcrDQEWX/4TeQ66FX+8jdkzYKLvuNKGcq5rhd8yBJG6rVvoCPwVhOSJaDozhvBkRM1mufa1sGtJny2jxO2bK1DZoafA1KP1f1Ek5sL/xplXi1s0CAbZYyw9QRcCBNgIOBP2YQbHjLcimJdJvkHlo7YNlgcupEh/OKntxV7T0fo1kA1r6BYWqOlpO+Hni3Sp9o/0HMA8m55u53wlOclms7AP2EuCaEChhUG8ry8YE05d2IqxRgU0AcMkBzyTWRjEtCzxVdETKfOL0/OqQ6rGj/T6T78t7rTviYJMFpDAo6ozSp6ZNKDPTIu8Kbr2RRtx73aNrIbmvNqSTgu4cID9NdIB2AlPelqoqUCmBCWE2uU2SdxYdEj1m9hTiNiPw4bGpIqpoho8ig/As+agpewSHoRzqm5toFoARc3FbGl1DwBRxVJXXCTqH7RtgIBvjIZoEzP6vK3LZoCLaGyt32KeaP15IQpIpRyqs1KzktcnBUWItHRI5XOJ1Y8pNMI2w==;NlbL7A7HeUz4ku5xKHNaQw=="

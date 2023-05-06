@@ -6,7 +6,7 @@ publishedDateTime: 2023-05-06T15:39:00Z
 originalUrl: "https://interestingengineering.com/innovation/italian-startup-carves-sculptures-with-robotic-arm"
 webUrl: "https://interestingengineering.com/innovation/italian-startup-carves-sculptures-with-robotic-arm"
 type: article
-quality: 37
+quality: 54
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/05/06/image/jpeg/zCLr0ll3NIoF744Acd4LH8IQ0gNOxMZrdfzdANnk.jpg"

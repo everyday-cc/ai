@@ -132,6 +132,15 @@ related:
         width: 767
         height: 633
         isCached: true
+  - title: "Art world AI-nxiety: what is artificial intelligence and how are artists using it?"
+    excerpt: "From breaking news and insider insights to exhibitions and events around the world, the team at The Art Newspaper picks apart the art world’s big stories with the help of special guests."
+    publishedDateTime: 2023-05-05T18:15:00Z
+    webUrl: "https://www.theartnewspaper.com/2023/04/28/art-world-ai-nxiety-what-is-artificial-intelligence-and-how-are-artists-using-it"
+    type: article
+    provider:
+      name: The Art Newspaper
+      domain: theartnewspaper.com
+    quality: 28
   - title: "BacterAI: New AI system enables robots to conduct 10,000 scientific experiments a day"
     excerpt: "Scientists created BacterAI, an AI-powered system enabling robots to conduct 10,000 experiments daily, accelerating scientific discoveries."
     publishedDateTime: 2023-05-05T13:10:00Z

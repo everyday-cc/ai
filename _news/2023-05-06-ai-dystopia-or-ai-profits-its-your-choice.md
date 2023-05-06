@@ -22,15 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "The 7 Most Promising AI Stocks to Buy in May"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The rise of artificial intelligence set the investment landscape on fire, with"
-    publishedDateTime: 2023-05-02T10:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-7-most-promising-ai-stocks-to-buy-in-may-1032281534"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "7 Stocks That AI Predicts Will Make You Rich"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) is rapidly changing the world and the stock"
     publishedDateTime: 2023-05-03T16:10:00Z

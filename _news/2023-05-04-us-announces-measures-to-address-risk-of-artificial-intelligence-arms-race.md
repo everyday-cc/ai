@@ -46,6 +46,15 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "The Music Industry Has an AI Problem"
+    excerpt: "However, there is no gray area here: AI-generated music must be produced in a way that is equitable and fair for artists. That will require a substantial amount of vigilance. Get your good shoes on and tie them up tight, because there's a long road ahead."
+    publishedDateTime: 2023-05-02T13:00:00Z
+    webUrl: "https://www.bloomberg.com/opinion/articles/2023-05-02/ai-drake-heart-on-my-sleeve-and-cultural-appropriation"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
 
 secured: "hBH6URbFrk0C4Yx6f0sXJWSL7zTh17Wl6JgTlTi79AO1oct/YFWbU+1+Nam/qAzEohx+5ju5WkPfzpujq7Oyaz7zfrIKt49sGvJSDi0DHAVbUZEPZ5MEqnHuelRHBV9hpn3xN0IcT4u1jTH9v6Nf+1KzfG7KDEeV+M9klLWhW9gjlfSO/mn1XdRV725Ypf2u+LL7PUoS02ByfMVAqm1S+br6iEmnA/QRwB2Rej469AUkbx66W/dImUr6X3mPhu04qu0JTYBp8NcOpZzMDnu6c3eS+LTCD0SjzRuP5nA37ESfQVWMpMCcUiDd5ryLmjVNmWdWXspiHUy8zDSFzm/eHHBQ/lHY9owxEgUK9IFtP/12szBH+jCWh56UfaUrciSdV5PEh9ZB5xOryopztcANfnsb4DShgbBW/RkewR9nKUu0OqiouETvdjAbNFl3crfCJF4X1TzCeMWAMkMuEF5OYX3HfLpkcwMo86zLG2k9h65/EKZAa50DSQve37JUqvwXHyKdcFv/frvT3kZtCrMuSA==;SMd7HQ88mhaljUF+yrpqFA=="
 ---

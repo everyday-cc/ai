@@ -80,6 +80,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "How driverless semitrucks got drivers’ licenses in Kansas | Commentary"
+    excerpt: "If you blinked, you probably missed it. Driverless vehicles, like artificial intelligence, are both promising and scary at the same time. They have the potential both to improve our world and to ..."
+    publishedDateTime: 2023-05-03T05:32:00Z
+    webUrl: "https://www.kansas.com/opinion/guest-commentary/article274749491.html"
+    ampWebUrl: "https://amp.kansas.com/opinion/guest-commentary/article274749491.html"
+    cdnAmpWebUrl: "https://amp-kansas-com.cdn.ampproject.org/c/s/amp.kansas.com/opinion/guest-commentary/article274749491.html"
+    type: article
+    provider:
+      name: Wichita Eagle
+      domain: kansas.com
+    quality: 39
   - title: "How driverless trucks got drivers’ licenses in Kansas | Commentary"
     excerpt: "Each time autonomous vehicle bills stalled at the Capitol, lobbyists and friendly lawmakers got out and pushed."
     publishedDateTime: 2023-05-05T16:29:00Z
