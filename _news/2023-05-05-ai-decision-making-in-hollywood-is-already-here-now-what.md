@@ -71,20 +71,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Hollywood Writers Strike Over Pay Disputes with Streaming Giants, AI Concerns"
-    excerpt: "The entertainment industry is in the throes of a labor dispute and more than a few of the sticking points involve recent technological changes."
-    publishedDateTime: 2023-05-02T05:34:00Z
-    webUrl: "https://gizmodo.com/wga-hollywood-writers-strike-ai-streaming-giants-netfli-1850392107"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 64
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/eb6285b1f869d07e1aaa543ccc67b608.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "AI vs. Hollywood: Writers battle “plagiarism machines” in union talks"
     excerpt: "But in particular, Reuters reports that WGA writers have two main concerns about automation in writing, quoting screenwriter John August, who is part of the WGA negotiating committee: They don't want their material to be used as training data for AI systems,"
     publishedDateTime: 2023-05-03T18:38:00Z

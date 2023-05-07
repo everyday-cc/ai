@@ -28,105 +28,54 @@ images:
     isCached: true
 
 related:
-  - title: "5 Amazing Ways How Meta (Facebook) Is Using Generative AI"
-    excerpt: "Explore how Meta utilizes generative AI to revolutionize advertising, chat, image generation, and natural language processing while shaping the future of the metaverse with immersive and accessible content creation."
-    publishedDateTime: 2023-05-02T06:29:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/05/02/5-amazing-ways-how-meta-facebook-is-using-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/05/02/5-amazing-ways-how-meta-facebook-is-using-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/05/02/5-amazing-ways-how-meta-facebook-is-using-generative-ai/amp/"
+  - title: "Generative AI brings new risks to everyone. Here's how you can stay safe"
+    excerpt: "Organizations have to figure out the potential implications of tapping generative artificial intelligence tools, such as ChatGPT, while consumers should consider how they establish digital engagement."
+    publishedDateTime: 2023-05-05T10:47:00Z
+    webUrl: "https://www.zdnet.com/article/generative-ai-brings-new-risks-to-everyone-heres-how-you-can-stay-safe/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-brings-new-risks-to-everyone-heres-how-you-can-stay-safe/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-brings-new-risks-to-everyone-heres-how-you-can-stay-safe/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: ZDNet
+      domain: zdnet.com
+    quality: 88
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6450ac8062c3ef25fedc456e/0x0.jpg?format=jpg&width=1200"
+      - url: "https://www.zdnet.com/a/img/resize/e95cabc4c470648090df91010140d6c22b66acce/2023/05/04/dc3b0530-d40e-4fef-954e-de348e4bf9db/gettyimages-1201055987.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
-  - title: "Generative AI Won’t Take Off Without 6G"
-    excerpt: "Although the sixth generation of broadband internet and mobile technology won’t emerge widely for a number of years, organizations are exploring business innovations for a more intelligent, immersive world."
-    publishedDateTime: 2023-05-02T12:18:00Z
-    webUrl: "https://www.forbes.com/sites/sap/2023/05/02/generative-ai-wont-take-off-without-6g/"
-    ampWebUrl: "https://www.forbes.com/sites/sap/2023/05/02/generative-ai-wont-take-off-without-6g/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2023/05/02/generative-ai-wont-take-off-without-6g/amp/"
+  - title: "Data is choking AI. Here’s how to break free."
+    excerpt: "Problems with that data – quality, quantity, velocity, and more – continue to persist as a major obstacle to successful implementation."
+    publishedDateTime: 2023-05-05T13:20:00Z
+    webUrl: "https://venturebeat.com/ai/data-is-choking-ai-heres-how-to-break-free/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64248ed36d63fa962ef43b0c/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "3 ways Generative AI is transforming the retail industry"
-    excerpt: "Microsoft Azure OpenAI and other Generative AI technologies are helping retailers jumpstart innovation, improve customer experience, and accelerate growth."
-    publishedDateTime: 2023-05-02T21:58:00Z
-    webUrl: "https://www.cio.com/article/475453/3-ways-generative-ai-is-transforming-theretail-industry.html"
-    ampWebUrl: "https://www.cio.com/article/475453/3-ways-generative-ai-is-transforming-theretail-industry.html/amp/"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/475453/3-ways-generative-ai-is-transforming-theretail-industry.html/amp/"
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 49
+  - title: "Why generative AI is more dangerous than you think"
+    excerpt: "The real short-term danger of generative AI isn't lost jobs or fake content but targeted generative ads and targeted conversational influence."
+    publishedDateTime: 2023-05-06T13:39:00Z
+    webUrl: "https://venturebeat.com/ai/why-generative-ai-is-more-dangerous-than-you-think/"
     type: article
     provider:
-      name: CIO
-      domain: cio.com
-    quality: 59
-    images:
-      - url: "https://www.cio.com/wp-content/uploads/2023/05/image-EVP-2-Retail-iStock-Asawin_Klabma-1.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 645
-        isCached: true
-  - title: "Generative AI programs being used to create more convincing scams"
-    excerpt: "The Better Business Business Bureau is warning people to be on the lookout for more convincing phishing scams generated by artificial intelligence."
-    publishedDateTime: 2023-05-03T16:32:00Z
-    webUrl: "https://abc17news.com/news/crime/2023/05/03/generative-ai-programs-being-used-to-create-more-convincing-scams/"
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
+  - title: "Google Workspace is expanding access to its new generative AI features"
+    excerpt: "Google Workspace has announced that it is expanding its \"trusted tester\" program for its generative AI features by ten times."
+    publishedDateTime: 2023-05-04T23:37:00Z
+    webUrl: "https://bgr.com/tech/google-workspace-is-expanding-access-to-its-new-generative-ai-features/"
     type: article
     provider:
-      name: ABC 17 News
-      domain: abc17news.com
-    quality: 39
-    images:
-      - url: "https://abc17news.b-cdn.net/abc17news.com/2023/05/MGN_1280x960_30330B00-QFXGT.jpg"
-        width: 1280
-        height: 960
-        isCached: true
-  - title: "In praise of Facebook"
-    excerpt: "First, please do not construe this article to praise the Facebook company or its leadership in any way. Their election-related machinations, forays into dangerous AI research and other sketchy practic"
-    publishedDateTime: 2023-05-03T13:31:00Z
-    webUrl: "https://www.hampshirereview.com/news/columnists/article_c84fb58e-e9b6-11ed-a373-57701fd2af23.html"
-    type: article
-    provider:
-      name: Hampshire Review
-      domain: hampshirereview.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/hampshirereview.com/content/tncms/assets/v3/editorial/2/bc/2bc66de2-fd27-11ec-94c2-575afd51e3a7/62c5801e6fa34.image.jpg?crop=850%2C446%2C0%2C321&resize=850%2C446&order=crop%2Cresize"
-        width: 850
-        height: 446
-        isCached: true
-  - title: "How generative AI is building better antibodies"
-    excerpt: "Language models similar to those behind ChatGPT have been used to improve antibody therapies against COVID-19, Ebola and other viruses."
-    publishedDateTime: 2023-05-04T23:00:00Z
-    webUrl: "https://www.nature.com/articles/d41586-023-01516-w"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
+      name: BGR
+      domain: bgr.com
     quality: 37
     images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-01516-w/d41586-023-01516-w_25313644.jpg"
-        width: 1024
-        height: 576
+      - url: "https://bgr.com/wp-content/uploads/2023/05/gmail-ai-google-workspace.png"
+        width: 1624
+        height: 916
         isCached: true
-  - title: "Facebook Earnings, Generative AI and Messaging Monetization, Open Source and AI"
-    excerpt: "Meta’s earnings showed that all of Meta’s Myths were, in fact, myths. Plus, how LLMs can benefit Meta ad products, and why Meta might open source more AI models."
-    publishedDateTime: 2023-05-03T12:24:00Z
-    webUrl: "https://stratechery.com/2023/facebook-earnings-generative-ai-and-messaging-monetization-open-source-and-ai/"
-    type: article
-    provider:
-      name: Stratechery
-      domain: stratechery.com
-    quality: 15
 
 secured: "bGtMIaosd4hdaGCxDC3l1NrSJt8NPxXGuo59nkK27aoHK4TWJFhbgwL8NADqRxtA58MiQ7IqWdohQZOIYH+r4bRtbYO204MISwrkYiYyj0FN0s6MfYh4Yz7DLJbRGdmWkz6t5ZJ/tWvQlw1nKrdk+alkTJ2S79+D/ZVnYi+LliE//oK1eoi/wdcJJxhaYY75gCPRljVXP+mWt9gPRZ2APSeif4gfljJ0ehQbsl2ZssOJIteMzDt9BLZKpay0Dz43rv/VUfDLJltne1DPDwBZdS2ydZQgAH3HTRgZf1iFVahKi5KJI18QlmipSvnXrRXwQQC6Nh7CFlKl38nfY49QiAZSLpWLMnnyCw6tISxXb5K9RaZS3URob47NtJJ4ym6+EZn3x6wSTlmFk6Bvx+ZKnSY9R/hd0LIdixJ2BtkRtqfK73jyFNVQzA3fXKk1W8pQBPSbcyUJIVaA0pcbi05ps/IbtTTrxapWcJt/Aa6Q7Ht/3c+8fPXre6p34yxd6VAK0hdIJnlTvq7Lrc+kuJ8i0Q==;HNI+ZzN3QFd2/8K54s1jqA=="
 ---

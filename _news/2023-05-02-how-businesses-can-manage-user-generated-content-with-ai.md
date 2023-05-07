@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/02/how-busine
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/02/how-businesses-can-manage-user-generated-content-with-ai/amp/"
 type: article
 quality: 87
-heat: 167
+heat: 157
 published: true
 
 provider:
@@ -73,20 +73,6 @@ related:
       - url: "https://mma.prnewswire.com/media/2067014/InnerAction_Media_StoryMaker.jpg"
         width: 400
         height: 339
-        isCached: true
-  - title: "FTC attorney says agency concerned with generative AI use"
-    excerpt: "Companies developing novel artificial intelligence (AI) tools might want to think carefully before laying off ethics personnel, an attorney with the Federal Trade Commission (FTC) warned. The agency is closely tracking company use of AI tools for possible ..."
-    publishedDateTime: 2023-05-02T19:34:00Z
-    webUrl: "https://www.complianceweek.com/regulatory-policy/ftc-attorney-says-agency-concerned-with-generative-ai-use/33027.article"
-    type: article
-    provider:
-      name: Compliance Week
-      domain: complianceweek.com
-    quality: 39
-    images:
-      - url: "https://d6jxgaftxvagq.cloudfront.net/Pictures/1024x536/8/9/1/16891_artificialintelligenceethics_852683.jpg"
-        width: 1024
-        height: 536
         isCached: true
   - title: "Business Transformations in 2023 with Artificial Intelligence"
     excerpt: "Conversational dialogues between humans and ChatGPT are mimicked by OpenAI. Industries anticipate it will be used more widely as an office assistant"

@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2023/05/02/co-founders-linkedin-google-de
 webUrl: "https://siliconangle.com/2023/05/02/co-founders-linkedin-google-deepmind-release-chatbot-designed-get-day/"
 type: article
 quality: 25
-heat: 25
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Startup from Reid Hoffman and DeepMind co-founder debuts chatbot"
+    excerpt: "Pi was built to be a supportive 'neutral listener' that asks follow-up questions to keep a conversation flowing."
+    publishedDateTime: 2023-05-06T22:00:00Z
+    webUrl: "https://www.moneyweb.co.za/news/ai/startup-from-reid-hoffman-and-deepmind-co-founder-debuts-chatbot/"
+    type: article
+    provider:
+      name: Moneyweb
+      domain: moneyweb.co.za
+    quality: 39
+    images:
+      - url: "https://www.moneyweb.co.za/wp-content/uploads/2023/05/397933961-1024x682.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "‘Co-founders of Google DeepMind and LinkedIn launch chatbot’"
     excerpt: "The co-founders of Google DeepMind and LinkedIn have created a new AI chatbot. The announcement comes amid a surge of interest in AI from consumers and"
     publishedDateTime: 2023-05-03T11:10:00Z

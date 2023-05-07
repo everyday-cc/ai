@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2023/05/05/navan-is-leverag
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/05/05/navan-is-leveraging-generative-ai-to-help-companies-cut-costs/amp/"
 type: article
 quality: 87
-heat: 99
+heat: 101
 published: true
 
 provider:

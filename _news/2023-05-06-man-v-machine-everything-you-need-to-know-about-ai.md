@@ -2,9 +2,9 @@
 category: news
 title: "Man v machine: everything you need to know about AI"
 excerpt: "As systems become more capable – and ubiquitous – should we be worrying about what the future holds for humans in a ‘robot’ world?"
-publishedDateTime: 2023-05-06T15:20:00Z
-originalUrl: "https://www.theguardian.com/technology/2023/may/06/man-v-machine-everything-you-need-to-know-about-ai"
-webUrl: "https://www.theguardian.com/technology/2023/may/06/man-v-machine-everything-you-need-to-know-about-ai"
+publishedDateTime: 2023-05-06T16:50:00Z
+originalUrl: "https://www.theguardian.com/technology/2023/may/06/man-v-machine-everything-you-need-to-know-about-ai?ref=biztoc.com"
+webUrl: "https://www.theguardian.com/technology/2023/may/06/man-v-machine-everything-you-need-to-know-about-ai?ref=biztoc.com"
 ampWebUrl: "https://amp.theguardian.com/technology/2023/may/06/man-v-machine-everything-you-need-to-know-about-ai"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/06/man-v-machine-everything-you-need-to-know-about-ai"
 type: article
@@ -171,20 +171,6 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/634c17e6b6addb19e136986911fb3bc54b83f0e5/2023/05/02/8fbcaa3f-89eb-47a7-b8d9-682428431a32/gettyimages-1246495664-1.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Samsung imposes ban on generative AI tools like ChatGPT"
-    excerpt: "Samsung has reportedly barred its staff from using generative AI platforms on their phones, tablets, and computers."
-    publishedDateTime: 2023-05-02T05:22:00Z
-    webUrl: "https://www.androidauthority.com/samsung-generative-ai-chatgpt-ban-3319343/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 67
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2023/03/ChatGPT-stock-photo-7.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Google Reportedly Upgrading Search With AI Chatbot, TikTok Videos"
     excerpt: "According to the Wall Street Journal, the search engine is planning to add AI prompts that will pop up in response to queries that can’t be easily answered by traditional web results, as well as swipe-through video clips."
@@ -502,6 +488,6 @@ related:
       domain: arabianbusiness.com
     quality: 11
 
-secured: "QxZTfL7YnX79ZvHPxLIWoXSw/wmZGPL1+F4OV8lMf0ODPi/SCjNtC1a8+yXse2+EMqgQwO17aBC9uM1IgdcO9huPywzy2jhSOCpMkvdA3p35Js8Q649N/127kaVWOpsFVlOmuJebYgMM6D66pnHy5cRkV5i06/SIgSHKW7zjoIfYXd/3rkieSxyd7wHy6Q/AMv8888LCOD9Xq9bBa5W0sCZ4MiuIhfMCBcXfsE/CCjtpX5Zv+o8+iAsndrjuDVZoD9GuCBjj01slW/xvjjA8QRmQInLyJ8Ia5sMbYRalI8Hf6RPuvAGWLhwTFZlSqE7Ch1JcoSwfoqQvJscIQqY2/sUwbvuYB3RuR2uoMn4CJ8rKZPmR0YPs3RHjVRejBGha+PAe0zzu46v02a69QGjonTOQ7VEDu7g/5PhZV4ZQYxZtAGF6uOiaoC9dX+8ymzsP8Se4YCY1ZmkGUHZkjcV9MvC0PPPb0G1iCUaL7hiRcvXs0jaNB6FnKcP3GZB4ZdMcOa1VXAswYUZGWtqvuNZlcw==;Mtq/M3utny//qswvGJlr3A=="
+secured: "CzKjzHPIo2k6JAXAJY/mNUKRZd/X7hWFDGrDi0HDzNagotho7mE0PAOH/TWEq+6I2CdevPHzuLd52mjWRhs/+Uau5VPPSle3U9qa4eO8P2tzbTx8toBmwWr46C8Iy/IDigQtLcr6Ydp77XCpqOu5ITEcvoztI3be4LlAq84USL05X182sQOvxHdyjodc0lYOphr1bo7SJYcThzhYSVdcgIOFgMXZ45ntwao8pip/7valyjgmJnap6u/ptNMoUSzqbwR9QkQPiRgTE9N7feTAiT1/T1a1nJ2g7m7UDrjpabDVr2Xz1hL1Nu4PPrYFIjpo3jobmnM2MkRDqbPzxQsRE2Yfpjf5+yzXQSyiaiHA4fw=;qsYJcGR8ha2l169bqvROXA=="
 ---
 

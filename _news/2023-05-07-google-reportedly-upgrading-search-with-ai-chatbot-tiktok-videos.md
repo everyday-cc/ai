@@ -170,20 +170,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Samsung imposes ban on generative AI tools like ChatGPT"
-    excerpt: "Samsung has reportedly barred its staff from using generative AI platforms on their phones, tablets, and computers."
-    publishedDateTime: 2023-05-02T05:22:00Z
-    webUrl: "https://www.androidauthority.com/samsung-generative-ai-chatgpt-ban-3319343/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 67
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2023/03/ChatGPT-stock-photo-7.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Beware the AI Scams: Meta Blocks 1,000+ Links Tied to ChatGPT-Themed Malware"
     excerpt: "Hackers pounced on ChatGPT's popularity to create malware posing as OpenAI's chatbot, and then circulated links to it on Facebook, many to dangerous browser extensions."
     publishedDateTime: 2023-05-03T17:31:00Z
@@ -216,8 +202,8 @@ related:
         isCached: true
   - title: "Man v machine: everything you need to know about AI"
     excerpt: "As systems become more capable – and ubiquitous – should we be worrying about what the future holds for humans in a ‘robot’ world?"
-    publishedDateTime: 2023-05-06T15:20:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/may/06/man-v-machine-everything-you-need-to-know-about-ai"
+    publishedDateTime: 2023-05-06T16:50:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/may/06/man-v-machine-everything-you-need-to-know-about-ai?ref=biztoc.com"
     ampWebUrl: "https://amp.theguardian.com/technology/2023/may/06/man-v-machine-everything-you-need-to-know-about-ai"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/06/man-v-machine-everything-you-need-to-know-about-ai"
     type: article

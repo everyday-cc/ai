@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/05/03/where-is-india-in-the-generative-a
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/03/where-is-india-in-the-generative-ai-race/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -60,15 +60,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "What’s inside Box? More generative AI"
-    excerpt: "Box expands its enterprise content cloud with Box AI, generative AI that more intuitively understands and creates new enterprise content."
-    publishedDateTime: 2023-05-02T12:00:00Z
-    webUrl: "https://venturebeat.com/ai/whats-inside-box-more-generative-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
   - title: "The Future of Artificial intelligence in India"
     excerpt: "The global artificial intelligence market is expanding due to the need for intelligent systems to increase productivity and efficiency in various sectors, including IT and telecommunications, retail and e-commerce, BFSI, healthcare, manufacturing ..."
     publishedDateTime: 2023-05-04T11:18:00Z

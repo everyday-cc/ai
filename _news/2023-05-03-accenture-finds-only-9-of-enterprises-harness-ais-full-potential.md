@@ -94,15 +94,6 @@ related:
         width: 3000
         height: 1688
         isCached: true
-  - title: "Box embeds generative AI into its Content Cloud"
-    excerpt: "Announced at Box’s Content Cloud Summit today, Box AI is billed as a suite of AI capabilities that will primarily focus on two things: helping users to ask questions about documents and creating new content in Box."
-    publishedDateTime: 2023-05-02T12:00:00Z
-    webUrl: "https://siliconangle.com/2023/05/02/box-embeds-generative-ai-content-cloud/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 19
 
 secured: "wH2LGuhuIQOOJsGQGV+CRI7ovuyuRGPx3fA6xAlZB814PyP+BmDOCcBoi7VKsJQARgdRy5lwN3Nh3Z0lokg1XqWi52WdZJFdNg0RsnviYGVDGCHsVE0U2O4xdzs6YNaGT7mK3OHY5uwn2Pl0zvIxSxdvHF+RceJ2GflmAkwoQOjf57JogXQ3ExzIVyQj+0thkccH77hzUBJHkFJWBfs6rqOFxuFbZZtjkipXZgKMXiKD297p1KNvpebgHQmJf3k1nxvZSNoxxc4jRaPwaIIkQmIL5t9XPRi+acWvrN3uNeOJQ26pDk4983NvJlWEjguWIkrPSOtZxUPXDTlGsjULFdlamAs2Rdi33bWBcIJK2QXLNirj5/YOqYNcuzcKA3aobWMahvoitzGZUN7OW1N9kDNJScRCO7n97QmtTrY4pAwl3/6azUbN1zl8INnDkwT8LAAM370KHjSLtcGcQrd3jpzqt28IyZ1o6B5NvaXizvqsu4iqzqRFV0sv+SDnfWwvFfjvPTOkuWY38rxwPYK3EA==;K+A5iJGBnjVU010S1OM4Qg=="
 ---

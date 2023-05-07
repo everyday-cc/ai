@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-05-05-generative-ai-brings-new-risks-to-everyone-heres-how-you-can-stay-safe.md",
+      "title": "Generative AI brings new risks to everyone. Here's how you can stay safe",
+      "excerpt": "Organizations have to figure out the potential implications of tapping generative artificial intelligence tools, such as ChatGPT, while consumers should consider how they establish digital engagement.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/generative-ai-brings-new-risks-to-everyone-heres-how-you-can-stay-safe/",
+      "originalUrl": "https://www.zdnet.com/article/generative-ai-brings-new-risks-to-everyone-heres-how-you-can-stay-safe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/e95cabc4c470648090df91010140d6c22b66acce/2023/05/04/dc3b0530-d40e-4fef-954e-de348e4bf9db/gettyimages-1201055987.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/generative-ai-brings-new-risks-to-everyone-heres-how-you-can-stay-safe/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-brings-new-risks-to-everyone-heres-how-you-can-stay-safe/",
+      "publishedDateTime": "2023-05-05T03:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-05-ais-potential-and-perils-suddenly-become-real.md",
       "title": "AI’s Potential and Perils Suddenly Become Real",
       "excerpt": "When the US announced a raft of export controls targeting China last year, it signaled a dramatic escalation of the competition with Beijing over leading-edge technologies like artificial intelligence.",
@@ -27,6 +79,57 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-05-05T02:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-05-ai-is-helping-us-read-minds-but-should-we.md",
+      "title": "AI Is Helping Us Read Minds, But Should We?",
+      "excerpt": "Computational neuroscientists paired imaging technology with a version of ChatGPT to decode thoughts, opening up exciting (and scary) prospects.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/opinion/articles/2023-05-05/ai-is-helping-us-read-minds-but-should-we",
+      "originalUrl": "https://www.bloomberg.com/opinion/articles/2023-05-05/ai-is-helping-us-read-minds-but-should-we",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iae7di_83ScU/v1/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-05T02:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Bloomberg L.P.",
@@ -113,7 +216,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/ai-marketing-market-future-growth-and-business-opportunities-2023-updated-report-2023-05-05",
       "featuredContent": null,
       "highlight": null,
-      "heat": 220,
+      "heat": 210,
       "tags": null,
       "images": [
         {
@@ -166,7 +269,7 @@
       "originalUrl": "https://www.techrepublic.com/article/bing-ai-chat-open/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -270,7 +373,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/self-driving-driverless-cars-market-2023-analysis-by-2029-tesla-bmw-daimler-2023-05-05",
       "featuredContent": null,
       "highlight": null,
-      "heat": 214,
+      "heat": 204,
       "tags": null,
       "images": [
         {
@@ -510,49 +613,6 @@
       ]
     },
     {
-      "path": "_news/2023-05-05-qatar-adopts-speech-recognition-ai-to-boost-prosecution-efficiency.md",
-      "title": "Qatar Adopts Speech Recognition AI To Boost Prosecution Efficiency",
-      "excerpt": "Qatar has started to use AI speech-to-text technology in public prosecution to boost efficiency, local media reported Thursday, trend reports citing",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1106180848/Qatar-Adopts-Speech-Recognition-AI-To-Boost-Prosecution-Efficiency",
-      "originalUrl": "https://menafn.com/1106180848/Qatar-Adopts-Speech-Recognition-AI-To-Boost-Prosecution-Efficiency",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2023-05/04/TNA_1aac0image_story.jpg",
-          "width": 941,
-          "height": 647,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-04T16:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-05-datastax-extends-ai-feature-engineering-with-luna-ml.md",
       "title": "DataStax extends AI feature engineering with Luna ML",
       "excerpt": "DataStax continues to build out its AI capabilities with today's launch of Luna ML, which supports AI feature engineering.",
@@ -759,7 +819,7 @@
       "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/05/04/synopsysairevolutionizing-chip-design-through-ai-driven-eda-suite/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -863,7 +923,7 @@
       "originalUrl": "https://www.therobotreport.com/indias-robot-installations-hit-an-all-time-high/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -990,7 +1050,7 @@
       "originalUrl": "https://techcrunch.com/2023/05/04/the-life-and-death-of-a-robot-vacuum/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -1169,58 +1229,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-05-top-10-artificial-intelligence-ai-cryptocurrencies.md",
-      "title": "Top 10 Artificial Intelligence (AI) Cryptocurrencies",
-      "excerpt": "Editorial Note: Forbes Advisor may earn a commission on sales made from partner links on this page, but that doesn't affect our editors' opinions or evaluations. It’s hard to imagine two ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/advisor/in/investing/cryptocurrency/top-10-artificial-intelligence-ai-cryptocurrencies/",
-      "originalUrl": "https://www.forbes.com/advisor/in/investing/cryptocurrency/top-10-artificial-intelligence-ai-cryptocurrencies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/in/wp-content/uploads/2023/03/pexels-tara-winstead-8386440-1-scaled.jpg",
-          "width": 2560,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-04T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

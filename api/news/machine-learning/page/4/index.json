@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-04-06-learning-whether-and-how-much-its-raining-improves-deep-learning-models.md",
+      "title": "Learning whether and how much it's raining improves deep-learning models",
+      "excerpt": "Concentrating on one thing at a time might seem like a good strategy when you're trying to learn something. But now, researchers from the Institute of Industrial Science at the University of Tokyo have found that simultaneously learning two tasks helps a deep-learning model perform better on both when retrieving precipitation information from satellite data.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-04-deep-learning.html",
+      "originalUrl": "https://techxplore.com/news/2023-04-deep-learning.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-06T09:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-06-ai-machine-learning-predicts-alzheimers-disease-risk.md",
       "title": "AI Machine Learning Predicts Alzheimer’s Disease Risk",
       "excerpt": "The AI machine learning model revealed that age ranks first among all features in the age 40+ group and that the genetic effects reflected in the polygenic risk scores become more important than age for individuals aged 65 and older for predicting Alzheimer’s disease.",
@@ -1116,58 +1150,6 @@
         "name": "techxplore",
         "domain": "techxplore.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-31-2024-republican-presidential-contender-weighs-in-on-deep-concerns-over-ai-advancements.md",
-      "title": "2024 Republican presidential contender weighs in on deep concerns over AI advancements",
-      "excerpt": "GPT-4 is the latest deep learning model from OpenAI, which \"exhibits human-level performance on various professional and academic benchmarks,\" according to the lab. \"Powerful AI systems should be developed only once we are confident that their effects will ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/2024-republican-presidential-contender-weigh-in-deep-concerns-ai-advancements",
-      "originalUrl": "https://www.foxnews.com/politics/2024-republican-presidential-contender-weigh-in-deep-concerns-ai-advancements",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/09/340/340/Kyle-Morris.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/2024-republican-presidential-contender-weigh-in-deep-concerns-ai-advancements.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/2024-republican-presidential-contender-weigh-in-deep-concerns-ai-advancements.amp",
-      "publishedDateTime": "2023-03-31T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

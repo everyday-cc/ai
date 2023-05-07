@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/05/04/box-introduces-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/05/04/box-introduces-box-ai-to-bring-the-power-of-ai-to-enterprise-content/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -95,15 +95,6 @@ related:
         width: 3000
         height: 1688
         isCached: true
-  - title: "Box embeds generative AI into its Content Cloud"
-    excerpt: "Announced at Box’s Content Cloud Summit today, Box AI is billed as a suite of AI capabilities that will primarily focus on two things: helping users to ask questions about documents and creating new content in Box."
-    publishedDateTime: 2023-05-02T12:00:00Z
-    webUrl: "https://siliconangle.com/2023/05/02/box-embeds-generative-ai-content-cloud/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 19
 
 secured: "8hiN/fdVuKpNGv+vl9Mx37HDrRkq4hQ27ahHTY7wGViPA9VkuVshmIQEXS/R4QfpIhBvpB2cc/2pz4mnaJv7cyW7ccAP55smr82sCJ+uxAbMSmFHSfnBJWpGr/iC9OEbj3t0NuWf2hVg8Brp/6PGhFNyKdDsf4By64i+J6qr8xym4O2+3GazjlGmCDu3zTrB6NEr1bMVO7ZGv8ezM1TVzZKrO4/VA84FnekJIZiHJrNABkjd6umko133pdtmHg4sDe5v2dN7dIDmwQclt924ZePveFc14keqJbnZKan58FfJip8FWRcCeB/fjjUoOx29w5N819v7x4Tqn6R6NHph7xYBTMi0GZJCmQN1kDWp5/5xFBVcJgn+4gYQlf7YNx23vzwnTmArDeH9Zw1swalpdUEK0JYePLTAMEO7k2nfDG/Zd3i8gSkWubc1kC8P5nz903i2AqqjisSHEAGJFa4wn35HT6Mcx4wv3XMnNR8b/3DC474MDBtkJIi9iPSWaNjKK0xb5Lj67Gl7W70SeizK5A==;Rp3yOiNRAPxq7AHOBTdGYA=="
 ---

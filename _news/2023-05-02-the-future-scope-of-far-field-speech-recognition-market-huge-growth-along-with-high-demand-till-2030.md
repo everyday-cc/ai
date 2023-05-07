@@ -37,6 +37,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Automatic Speech Recognition Market Trends [2023-2030] | Booming Industry Globally"
+    excerpt: "GlobalAutomatic Speech Recognition Market[2023-2030] research report is a compilation of information and analysis"
+    publishedDateTime: 2023-05-03T09:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-market-trends-2023-2030-booming-industry-globally-2023-05-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
 
 secured: "l0CdeArUyXghe1nE0+DH56qNens5wG3icx5bINykL2oqt9dL8kd95hdFcT1/+20xwgyjzA7TN4lTUKu3HM49PBlxTlSWE0vBICMjQ7DedDdfWe2kxmqWQh2RpccwEHxsBuAqTQBTpPKIoomfKbAhMomhOLrQAY9FCNKC6KEBz3P8Q1gSy8A+P9ync6kcuI7CUF9F17aF1J35l41ZuleVGbsg64+lZ5QNJ5kDUNyt1jsXXFULiqh2TGN+hnvFbfC0xXX2UDHDw1dxgWGD8kUt79OXjAUyfFjAL/gpIsZ1mamsvkJee2KcJeeWzL1IIZkGY4lUAJMqlgGhdHyq587WBMnW1QBg79NYayujFAUftyc=;qWUuZfm9LaGMMa6LEiswaQ=="
 ---

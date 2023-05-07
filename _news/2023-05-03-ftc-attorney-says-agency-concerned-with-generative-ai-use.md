@@ -25,107 +25,109 @@ images:
     isCached: true
 
 related:
-  - title: "How Businesses Can Manage User-Generated Content With AI"
-    excerpt: "AI is playing a greater role in UGC, transforming the way businesses and consumers produce and consume digital media."
-    publishedDateTime: 2023-05-02T10:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/02/how-businesses-can-manage-user-generated-content-with-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/02/how-businesses-can-manage-user-generated-content-with-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/02/how-businesses-can-manage-user-generated-content-with-ai/amp/"
+  - title: "Generative AI Won’t Take Off Without 6G"
+    excerpt: "Although the sixth generation of broadband internet and mobile technology won’t emerge widely for a number of years, organizations are exploring business innovations for a more intelligent, immersive world."
+    publishedDateTime: 2023-05-02T12:18:00Z
+    webUrl: "https://www.forbes.com/sites/sap/2023/05/02/generative-ai-wont-take-off-without-6g/"
+    ampWebUrl: "https://www.forbes.com/sites/sap/2023/05/02/generative-ai-wont-take-off-without-6g/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2023/05/02/generative-ai-wont-take-off-without-6g/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63d00455752e4cf11c766efe/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64248ed36d63fa962ef43b0c/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
         isCached: true
-  - title: "Behind The Hype About AI Transforming Consumer Businesses"
-    excerpt: "Explore the future of retail in a world dominated by AI-generated content. Is the physical store making a comeback?"
-    publishedDateTime: 2023-05-04T15:36:00Z
-    webUrl: "https://www.forbes.com/sites/gregpetro/2023/05/04/behind-the-hype-about-ai-transforming-consumer-businesses/"
-    ampWebUrl: "https://www.forbes.com/sites/gregpetro/2023/05/04/behind-the-hype-about-ai-transforming-consumer-businesses/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gregpetro/2023/05/04/behind-the-hype-about-ai-transforming-consumer-businesses/amp/"
+  - title: "Generative AI In The Construction Sector: Taking Building Technology To New Heights"
+    excerpt: "It’s no exaggeration to say that generative AI will have a transformative effect on global industry. With the ability to generate new outputs based on algorithms and trained data, it represents the next step in artificial intelligence and a new level of sophistication for machine learning."
+    publishedDateTime: 2023-05-02T15:50:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/05/02/generative-ai-in-the-construction-sector-taking-building-technology-to-new-heights/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/05/02/generative-ai-in-the-construction-sector-taking-building-technology-to-new-heights/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/05/02/generative-ai-in-the-construction-sector-taking-building-technology-to-new-heights/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 81
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6453cf70c9583ac188eabd27/0x0.jpg?format=jpg&crop=1470,827,x0,y0,safe&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64512ef3a78479bc981e6545/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "How Artificial Intelligence is Transforming Business"
-    excerpt: "AI technologies have a wide range of applications in business, and many publicly traded companies now use AI tools."
-    publishedDateTime: 2023-05-03T02:15:00Z
-    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-in-business/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 71
-    images:
-      - url: "https://m.foolcdn.com/media/dubs/images/nvidia-nvda-stock-ai-artificial-intelligence-2.width-600.jpg"
-        width: 580
-        height: 387
-        isCached: true
-  - title: "StoryMaker helps small businesses create their 30 second pitch and other marketing messages instantly with artificial intelligence"
-    excerpt: "West Virginia based InnerAction Media has just released its new SaaS software application StoryMaker - offering to help small businesses in the US write their perfect 30 second pitch - and other important marketing messages - instantly."
-    publishedDateTime: 2023-05-02T16:04:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/storymaker-helps-small-businesses-create-their-30-second-pitch-and-other-marketing-messages-instantly-with-artificial-intelligence-1032283172"
+  - title: "Appian Infuses Process Automation with Artificial Intelligence"
+    excerpt: "Introduction of Appian AI Skill Designer and Generative AI integration make it easy to tap the power of AI through low-codeSAN DIEGO, May 2, 2023"
+    publishedDateTime: 2023-05-02T17:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/appian-infuses-process-automation-with-artificial-intelligence-1032283341"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 54
+    quality: 67
     images:
-      - url: "https://mma.prnewswire.com/media/2067014/InnerAction_Media_StoryMaker.jpg"
+      - url: "https://mma.prnewswire.com/media/2067150/Appian_AI_Thumbnail.jpg"
         width: 400
-        height: 339
+        height: 231
         isCached: true
-  - title: "Business Transformations in 2023 with Artificial Intelligence"
-    excerpt: "Conversational dialogues between humans and ChatGPT are mimicked by OpenAI. Industries anticipate it will be used more widely as an office assistant"
-    publishedDateTime: 2023-05-02T09:48:00Z
-    webUrl: "https://www.cioapplications.com/news/business-transformations-in-2023-with-artificial-intelligence-nid-10608.html"
+  - title: "3 ways Generative AI is transforming the retail industry"
+    excerpt: "Microsoft Azure OpenAI and other Generative AI technologies are helping retailers jumpstart innovation, improve customer experience, and accelerate growth."
+    publishedDateTime: 2023-05-02T21:58:00Z
+    webUrl: "https://www.cio.com/article/475453/3-ways-generative-ai-is-transforming-theretail-industry.html"
+    ampWebUrl: "https://www.cio.com/article/475453/3-ways-generative-ai-is-transforming-theretail-industry.html/amp/"
+    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/475453/3-ways-generative-ai-is-transforming-theretail-industry.html/amp/"
     type: article
     provider:
-      name: CIO Applications
-      domain: cioapplications.com
+      name: CIO
+      domain: cio.com
+    quality: 59
+    images:
+      - url: "https://www.cio.com/wp-content/uploads/2023/05/image-EVP-2-Retail-iStock-Asawin_Klabma-1.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 645
+        isCached: true
+  - title: "What’s inside Box? More generative AI"
+    excerpt: "Box expands its enterprise content cloud with Box AI, generative AI that more intuitively understands and creates new enterprise content."
+    publishedDateTime: 2023-05-02T12:00:00Z
+    webUrl: "https://venturebeat.com/ai/whats-inside-box-more-generative-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
+  - title: "How generative AI is building better antibodies"
+    excerpt: "Language models similar to those behind ChatGPT have been used to improve antibody therapies against COVID-19, Ebola and other viruses."
+    publishedDateTime: 2023-05-04T23:00:00Z
+    webUrl: "https://www.nature.com/articles/d41586-023-01516-w"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
     quality: 37
     images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/w7t62cioapp450-308.jpg"
-        width: 450
-        height: 308
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-01516-w/d41586-023-01516-w_25313644.jpg"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "Centene divests artificial intelligence business"
-    excerpt: "Centene Corp. is selling an artificial intelligence business it purchased just over two years ago, the company said Wednesday."
-    publishedDateTime: 2023-05-03T17:53:00Z
-    webUrl: "https://www.stltoday.com/business/local/centene-divests-artificial-intelligence-business/article_d1afc9f8-e9c4-11ed-9c11-b33b497886c5.html"
+  - title: "Box embeds generative AI into its Content Cloud"
+    excerpt: "Announced at Box’s Content Cloud Summit today, Box AI is billed as a suite of AI capabilities that will primarily focus on two things: helping users to ask questions about documents and creating new content in Box."
+    publishedDateTime: 2023-05-02T12:00:00Z
+    webUrl: "https://siliconangle.com/2023/05/02/box-embeds-generative-ai-content-cloud/"
     type: article
     provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
+      name: SiliconANGLE
+      domain: siliconangle.com
     quality: 19
-  - title: "Amnesty International criticised for using AI-generated images"
-    excerpt: "Group has removed AI images used to promote their reports on social media, including fake photos of Colombia’s 2021 protests"
-    publishedDateTime: 2023-05-02T17:46:00Z
-    webUrl: "https://www.theguardian.com/world/2023/may/02/amnesty-international-ai-generated-images-criticism"
+  - title: "There’s Still A Long Way To Go With Generative AI"
+    excerpt: "The tech world is awash with generative AI, which for a company like Nvidia, is a good thing. The company that a decade ago put its money down on AI to be"
+    publishedDateTime: 2023-05-05T13:54:00Z
+    webUrl: "https://www.nextplatform.com/2023/05/05/theres-still-a-long-way-to-go-with-generative-ai/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 17
-  - title: "How Midsize Companies Can Keep Up with AI"
-    excerpt: "Right now, many businesses are reacting to generative AI in a vacuum. But individual innovations shouldn’t be approached with a narrow, short-term focus, as midsize companies that chase each new trend will find themselves over-committed and under-prepared when that trend wears off."
-    publishedDateTime: 2023-05-03T12:15:00Z
-    webUrl: "https://hbr.org/2023/05/how-midsize-companies-can-keep-up-with-ai"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 17
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 19
 
 secured: "ae3h68yedldNPc9wykzzYvB04XoBB7o8eB92Z0JQXVOShoA+mz/PPoafBlTmklfIqdm5FWP6gPdgeU0HeETvH2z7nl+nXmkwlbIPObdVy8wdjzbfPOHaQPlIewXbshnP5Y9qe9cSraVkCIk0NGXo+LCVlnQ+7EJ+UkWbL4xsd4t7ZQfRH7uZOPS8r3JEjwI+R+BS9DkOT6skJairTeapFS0v9Ib6MKy5mgbHQ6uxDqmuzWt1s7ntVNefRoKepnW7QTPhQ4WPYXNLYEnDZIuynVgfs2CJIKn8NYTn+QMc20ZjpVT2/edZvXQzhE/mCcGv9nIY3V4iBvlWsBjAT1Kq+riOByUGrE/SdfkwHtCaHA1xWwEOfk6kj62JbUpjxdKA3M/ixGvSNCC+k5b8IkhK2+zgA8e+6CMYQT52GLgI3cWoDuriHMp9atd2BB0xF7T80c5eXU4rvnAsAQ1gHiIWk+4cv+GdqEqtimL/bTdXNj4yy7VO7bGJVfF3Knt/JhLTHQ4TOpV59HJIlVjUhL0Djg==;8CpwUjjZJBhyTyiLp83Opw=="
 ---

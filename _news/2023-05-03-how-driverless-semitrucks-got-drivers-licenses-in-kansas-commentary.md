@@ -106,15 +106,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 35
-  - title: "Self-driving Forklift Market 2023 Growth Status and Outlook for 2030"
-    excerpt: "Additionally, the report provides up-to-date information on the market and identifies growth opportunities for the Self-driving Forklift market. With a detailed market outlook, definition of the industry,"
-    publishedDateTime: 2023-05-02T06:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-forklift-market-2023-growth-status-and-outlook-for-2030-2023-05-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
   - title: "Self-driving Bus Market Share, Size, Financial Summaries Analysis from 2023 to 2028"
     excerpt: "Self-driving Bus report provides a detailed analysis of regional and country-level market size, segmentation market growth, market share, competitive Landscape, sales analysis, impact of domestic. The self-driving bus market has witnessed exponential growth in recent years due to the increasing demand for autonomous vehicles and the growing need for efficient and safe public transportation."
     publishedDateTime: 2023-05-04T06:24:00Z

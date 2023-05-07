@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/british-antitrust-regulator
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/british-antitrust-regulator-initiates-review-of-artificial-intelligence-models/"
 type: article
 quality: 87
-heat: 90
+heat: 87
 published: true
 
 provider:

@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/indias-robot-installations-hit-an-a
 webUrl: "https://www.therobotreport.com/indias-robot-installations-hit-an-all-time-high/"
 type: article
 quality: 69
-heat: 89
+heat: 91
 published: true
 
 provider:

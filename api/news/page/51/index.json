@@ -2,545 +2,21 @@
   "page": 51,
   "value": [
     {
-      "path": "_news/2023-03-14-maximize-performance-and-reduce-your-deep-learning-training-cost-with-aws-trainium-and-amazon-sagemaker.md",
-      "title": "Maximize performance and reduce your deep learning training cost with AWS Trainium and Amazon SageMaker",
-      "excerpt": "Today, tens of thousands of customers are building, training, and deploying machine learning (ML) models using Amazon SageMaker to power applications that have the potential to reinvent their businesses and customer experiences. These ML models have been increasing in size and complexity over the last",
+      "path": "_news/2023-03-25-who-will-take-care-of-italys-older-people-robots-maybe.md",
+      "title": "Who Will Take Care of Italy’s Older People? Robots, Maybe.",
+      "excerpt": "would be if a “social robot can assist in care.” Leaps in artificial intelligence would only make robots more responsive, she said, keeping older people self-sufficient longer, and providing more relief to caregivers. “We all have to look for all the ...",
       "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/maximize-performance-and-reduce-your-deep-learning-training-cost-with-aws-trainium-and-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/maximize-performance-and-reduce-your-deep-learning-training-cost-with-aws-trainium-and-amazon-sagemaker/",
+      "webUrl": "https://www.nytimes.com/2023/03/25/world/europe/who-will-take-care-of-italys-older-people-robots-maybe.html",
+      "originalUrl": "https://www.nytimes.com/2023/03/25/world/europe/who-will-take-care-of-italys-older-people-robots-maybe.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 130,
+      "heat": 99,
       "tags": null,
       "images": [
         {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/03/14/maximize-performance.jpg",
-          "width": 1563,
-          "height": 781,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-14T13:27:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-artificial-intelligence-is-going-to-destroy-social-media.md",
-      "title": "Artificial Intelligence Is Going To Destroy Social Media",
-      "excerpt": "It might be just another Friday on the calendar, but it’s actually the day a well-known social media company announced their own demise. It’s also the beginning of the end for all social media. What’s really happening here?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnbbrandon/2023/03/14/artificial-intelligence-is-going-to-destroy-social-media/",
-      "originalUrl": "https://www.forbes.com/sites/johnbbrandon/2023/03/14/artificial-intelligence-is-going-to-destroy-social-media/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6410d7349e3cc108f64167ff/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnbbrandon/2023/03/14/artificial-intelligence-is-going-to-destroy-social-media/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnbbrandon/2023/03/14/artificial-intelligence-is-going-to-destroy-social-media/amp/",
-      "publishedDateTime": "2023-03-14T13:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-google-previews-generative-ai-features-for-workspace-users-developers.md",
-      "title": "Google previews generative AI features for Workspace users, developers",
-      "excerpt": "Computing giant Google announced today that it will release previews of three new AI features, including AI composition for Google Workspace, developer prototyping and coding via PaLM and MakerSuite,",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3690341/google-previews-generative-ai-features-for-workspace-users-developers.html",
-      "originalUrl": "https://www.computerworld.com/article/3690341/google-previews-generative-ai-features-for-workspace-users-developers.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2017/02/p1200646-100708722-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerworld.com/article/3690341/google-previews-generative-ai-features-for-workspace-users-developers.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3690341/google-previews-generative-ai-features-for-workspace-users-developers.amp.html",
-      "publishedDateTime": "2023-03-14T12:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-buy-brand-name-car-parts-online-at-amazons-oem-parts-store.md",
-      "title": "Buy brand-name car parts online at Amazon's OEM parts store",
-      "excerpt": "Pricing and availability are subject to change. Amazon is now connecting customers directly to automakers and local dealership parts departments. The Amazon OEM Automotive & Powersports Parts shop ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.autoblog.com/article/amazon-oem-parts-shop/",
-      "originalUrl": "https://www.autoblog.com/article/amazon-oem-parts-shop/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.yimg.com/os/creatr-uploaded-images/2022-09/c5082670-419d-11ed-bbfc-078f772461f7",
-          "width": 1062,
-          "height": 597,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.autoblog.com/amp/article/amazon-oem-parts-shop/",
-      "cdnAmpWebUrl": "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/article/amazon-oem-parts-shop/",
-      "publishedDateTime": "2023-03-14T12:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Autoblog",
-        "domain": "autoblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-gpt-4-unleashed-heres-what-it-will-mean-for-ai-chatbots.md",
-      "title": "GPT-4 unleashed: Here’s what it will mean for AI chatbots",
-      "excerpt": "The company also brought in 50 human experts to provide feedback in terms of AI safety. That, of course ... As PCWorld's senior editor, Mark focuses on Microsoft news and chip technology, among other beats. He has formerly written for PCMag, BYTE, Slashdot ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcworld.com/article/1658174/gpt-4-unleashed.html",
-      "originalUrl": "https://www.pcworld.com/article/1658174/gpt-4-unleashed.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcworld.com/wp-content/uploads/2023/03/GPT-4-visual-id-large.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 913,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-14T12:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC World",
-        "domain": "pcworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-cloud-incident-response-nets-another-45m-with-mitigas-latest-funding.md",
-      "title": "Cloud incident response nets another $45M with Mitiga’s latest funding",
-      "excerpt": "Cloud incident response provider Mitiga announces it has raised $45 million in funding for a solution designed to mitigate cloud breaches.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/security/cloud-incident-response-nets-another-45m-with-mitigas-latest-funding/",
-      "originalUrl": "https://venturebeat.com/security/cloud-incident-response-nets-another-45m-with-mitigas-latest-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/03/Mitiga_team-photo.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/security/cloud-incident-response-nets-another-45m-with-mitigas-latest-funding/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/cloud-incident-response-nets-another-45m-with-mitigas-latest-funding/amp/",
-      "publishedDateTime": "2023-03-14T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-wave-of-the-future-what-you-can-expect-riding-on-carys-new-driverless-shuttle.md",
-      "title": "Wave of the future? What you can expect riding on Cary’s new driverless shuttle",
-      "excerpt": "I have always been a little weary of driverless cars. There is something unsettling about the idea of our cars driving for us that feels too much like a science-fiction horror movie to me.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/news/wave-future-expect-riding-cary-181423383.html",
-      "originalUrl": "https://www.aol.com/news/wave-future-expect-riding-cary-181423383.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.zenfs.com/en/aol_raleigh_news_and_observer_mcclatchy_356/74b33485cdf621a709b5ed52bf6db988",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-14T11:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-adept-latest-ai-startup-to-raise-big-nabs-350m.md",
-      "title": "Adept Latest AI Startup To Raise Big — Nabs $350M",
-      "excerpt": "Another week, another huge raise for a generative AI startup. This week it’s Adept AI, which raised $350 million in what the company called “part of our Series B.” It was reported the new money gives the San Francisco-based startup a post-money valuation of at least $1 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://news.crunchbase.com/news/adept-ai-anthropic-chatgpt-openai/",
-      "originalUrl": "https://news.crunchbase.com/news/adept-ai-anthropic-chatgpt-openai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.crunchbase.com/wp-content/uploads/AI_robotics_Facing.jpg",
-          "width": 900,
-          "height": 506,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-14T11:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "news.crunchbase",
-        "domain": "crunchbase.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-google-is-shoving-generative-ai-into-gmail-docs-sheets-meet-chat-and-slides.md",
-      "title": "Google is shoving generative AI into Gmail, Docs, Sheets, Meet, Chat and Slides",
-      "excerpt": "You'd better already be comfortable with using AI in your daily life because Google's about to put the tech front and center in all of its Workspace products..",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/google-is-shoving-generative-ai-into-gmail-docs-sheets-meet-chat-and-slides-161711903.html",
-      "originalUrl": "https://www.engadget.com/google-is-shoving-generative-ai-into-gmail-docs-sheets-meet-chat-and-slides-161711903.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/iCNq2RcP3wmjEoexBWNb_g--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/fd4a1800-c27f-11ed-b7ff-02db82aeb64a.cf.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/google-is-shoving-generative-ai-into-gmail-docs-sheets-meet-chat-and-slides-161711903.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-is-shoving-generative-ai-into-gmail-docs-sheets-meet-chat-and-slides-161711903.html",
-      "publishedDateTime": "2023-03-14T11:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!News",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-adobes-subtitling-ai-is-good-but-this-free-resolve-add-on-has-far-more-potential.md",
-      "title": "Adobe’s subtitling AI is good, but this free Resolve add-on has far more potential",
-      "excerpt": "I constantly see people overselling and overhyping AI, which is not only ... nuance and robustness of a real translation? Absolutely not, especially not for a language like Japanese, where context ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2023/3/14/23622147/storytoolkitai-subtitle-and-translation-automatic-transcription-resolve-premiere",
-      "originalUrl": "https://www.theverge.com/2023/3/14/23622147/storytoolkitai-subtitle-and-translation-automatic-transcription-resolve-premiere",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-14T11:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-swarm-engineering-announces-agrifood-virtual-advisor-ava-powered-by-openai-and-microsoft-azure.md",
-      "title": "SWARM Engineering Announces AgriFood Virtual Advisor (AVA), Powered by OpenAI and Microsoft Azure",
-      "excerpt": "SWARM Engineering is proud to announce AVA, the first AgriFood Virtual Advisor, an AI-powered digital assistant based on OpenAI, Microsoft Azure and SWARM technology, designed to help businesses in agri-food solve operational challenges and save millions of dollars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/swarm-engineering-announces-agrifood-virtual-advisor-ava-powered-by-openai-and-microsoft-azure-2023-03-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/swarm-engineering-announces-agrifood-virtual-advisor-ava-powered-by-openai-and-microsoft-azure-2023-03-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-14T11:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-let-1000-flowers-bloom-ai-funding-frenzy-escalates.md",
-      "title": "‘Let 1,000 Flowers Bloom’: A.I. Funding Frenzy Escalates",
-      "excerpt": "When four leading artificial intelligence researchers left Google this year to create a start-up called Mobius AI, they weren’t sure what their product might be — just that it would involve A.I. technology that could generate its own photos and videos.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/03/14/technology/ai-funding-boom.html",
-      "originalUrl": "https://www.nytimes.com/2023/03/14/technology/ai-funding-boom.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/03/15/multimedia/14ai-funds-01-kczh/14ai-funds-01-kczh-facebookJumbo.jpg",
+          "url": "https://static01.nyt.com/images/2023/03/10/multimedia/10italy-aging-robots-01-pzvt/10italy-aging-robots-01-pzvt-facebookJumbo.jpg",
           "width": 1050,
-          "height": 549,
+          "height": 550,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -548,9 +24,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2023/03/14/technology/ai-funding-boom.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/03/14/technology/ai-funding-boom.amp.html",
-      "publishedDateTime": "2023-03-14T11:00:00-07:00",
+      "ampWebUrl": "https://www.nytimes.com/2023/03/25/world/europe/who-will-take-care-of-italys-older-people-robots-maybe.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/03/25/world/europe/who-will-take-care-of-italys-older-people-robots-maybe.amp.html",
+      "publishedDateTime": "2023-03-25T02:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The New York Times",
@@ -573,76 +49,24 @@
         "news"
       ],
       "topics": [
-        "Google AI",
+        "AI in Robotics",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-03-15-tenstorrent-opens-office-in-japan-to-capitalize-on-risc-v-ai.md",
-      "title": "Tenstorrent Opens Office In Japan To Capitalize On RISC-V + AI",
-      "excerpt": "Tenstorrent, the Toronto-based semiconductor company, now led by the super-star chip designer Jim Keller, has just opened a new office in Japan. So, as many other AI startups are struggling, Tenstorrent is doubling down. We believe this telegraphs the ...",
+      "path": "_news/2023-03-25-neural-network-software-market-size-2023-trends-and-opportunities-cagr-and-value-chain-study-to-2031.md",
+      "title": "Neural Network Software Market Size, 2023 Trends and Opportunities, CAGR and Value Chain Study to 2031",
+      "excerpt": "The neural network software is a tool used for ANN research and development, stimulation, and application (artificial neural network). The program refers to devices that resemble brains in certain ways and may have science fiction implications. Some of the ...",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2023/03/14/tenstorrent-opens-office-in-japan-to-capitalize-on-risc-v--ai/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/03/14/tenstorrent-opens-office-in-japan-to-capitalize-on-risc-v--ai/",
+      "webUrl": "https://www.marketwatch.com/press-release/neural-network-software-market-size-2023-trends-and-opportunities-cagr-and-value-chain-study-to-2031-2023-03-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/neural-network-software-market-size-2023-trends-and-opportunities-cagr-and-value-chain-study-to-2031-2023-03-24",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 78,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6410a736a86c1d3e75e9fa45/0x0.jpg?format=jpg&width=1200",
-          "width": 678,
-          "height": 487,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2023/03/14/tenstorrent-opens-office-in-japan-to-capitalize-on-risc-v--ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/03/14/tenstorrent-opens-office-in-japan-to-capitalize-on-risc-v--ai/amp/",
-      "publishedDateTime": "2023-03-14T10:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-google-is-working-on-ai-for-ultrasound-diagnosis-and-cancer-therapy.md",
-      "title": "Google is working on AI for ultrasound diagnosis and cancer therapy",
-      "excerpt": "AI isn’t just good for writing term papers or clickbait financial explainers; it could help save lives in the medical field.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/google-is-working-on-ai-for-ultrasound-diagnosis-and-cancer-therapy-150023911.html",
-      "originalUrl": "https://www.engadget.com/google-is-working-on-ai-for-ultrasound-diagnosis-and-cancer-therapy-150023911.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/3EZyxH7KjN2WzHYeaplUoA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/21b84540-c1d6-11ed-a7fd-3b2d705efb52.cf.jpg",
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
           "width": 1200,
           "height": 630,
           "title": null,
@@ -654,14 +78,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-14T10:07:00-07:00",
+      "publishedDateTime": "2023-03-25T00:43:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "YAHOO!News",
-        "domain": "engadget.com",
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -677,26 +101,26 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Healthcare"
+        "Machine Learning",
+        "AI"
       ]
     },
     {
-      "path": "_news/2023-03-14-microsoft-lays-off-team-responsible-for-ethical-ai-development.md",
-      "title": "Microsoft lays off team responsible for ethical AI development",
-      "excerpt": "Related video: Bing Has Exceeded 100 Million Daily Active Users, Microsoft Says Tech giant Microsoft has reportedly laid off its entire team responsible for the ethical and sustainable outcome of ...",
+      "path": "_news/2023-03-25-object-recognition-imaging-systems-market-growth-by-2031.md",
+      "title": "Object Recognition Imaging Systems Market Growth by 2031",
+      "excerpt": "The \"Object Recognition Imaging Systems Market\" study describes how the technology industry is evolving and how major",
       "sourceUrl": null,
-      "webUrl": "https://www.independent.co.uk/tech/microsoft-layoff-ai-ethics-team-b2300237.html",
-      "originalUrl": "https://www.independent.co.uk/tech/microsoft-layoff-ai-ethics-team-b2300237.html",
+      "webUrl": "https://www.marketwatch.com/press-release/object-recognition-imaging-systems-market-growth-by-2031-2023-03-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/object-recognition-imaging-systems-market-growth-by-2031-2023-03-24",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://static.independent.co.uk/2023/01/25/09/SEI141636847.jpg?quality=75&width=1200&auto=webp",
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
           "width": 1200,
-          "height": 800,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -706,12 +130,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-14T09:19:00-07:00",
+      "publishedDateTime": "2023-03-24T18:29:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Independent",
-        "domain": "independent.co.uk",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -720,84 +153,31 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-14-facebook-and-twitter-scrambled-our-brains-and-poisoned-our-politics-ai-poses-an-even-bigger-threat.md",
-      "title": "Facebook and Twitter scrambled our brains and poisoned our politics. AI poses an even bigger threat.",
-      "excerpt": "the director of foundational AI research at the Turing Institute, said. \"But the way it's going to be used, I think, we can only really scarcely imagine.\" As Zuckerberg's track record at Facebook ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.in/Facebook-and-Twitter-scrambled-our-brains-and-poisoned-our-politics-AI-poses-an-even-bigger-threat-/articleshow/98631128.cms",
-      "originalUrl": "https://www.businessinsider.in/Facebook-and-Twitter-scrambled-our-brains-and-poisoned-our-politics-AI-poses-an-even-bigger-threat-/articleshow/98631128.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.businessinsider.in/thumb/98630413.cms?height=275&width=412",
-          "width": 412,
-          "height": 275,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.in/tech/news/facebook-and-twitter-scrambled-our-brains-and-poisoned-our-politics-ai-poses-an-even-bigger-threat-/amp_articleshow/98631128.cms",
-      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/facebook-and-twitter-scrambled-our-brains-and-poisoned-our-politics-ai-poses-an-even-bigger-threat-/amp_articleshow/98631128.cms",
-      "publishedDateTime": "2023-03-14T08:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider India",
-        "domain": "businessinsider.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
+        "Computer Vision",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-03-14-ai-brain-chips-could-turn-humans-into-hive-mind-where-all-minds-become-cogs-in-robot-machine-scientists-warn.md",
-      "title": "AI brain chips could turn humans into ‘hive mind’ where all minds become ‘cogs in robot machine’, scientists warn",
-      "excerpt": "SOME scientists are predicting a future in which humans and machines become one and people are merely cogs. Futurists are predicting that artificial intelligence and brain chips will irreversibly",
+      "path": "_news/2023-03-25-tech-summit-on-artificial-intelligence-robotics.md",
+      "title": "Tech Summit on Artificial Intelligence & Robotics",
+      "excerpt": "Tech Summit on Artificial Intelligence & Robotics will be held in Tokyo, Japan. AI & Robotics 2023 offers an opportunity to interact with the researchers in the field of AI & Robotics, making Congress a perfect platform to share experience, foster ...",
       "sourceUrl": null,
-      "webUrl": "https://www.thesun.co.uk/tech/21711966/ai-brain-chips-human-machine-warning/",
-      "originalUrl": "https://www.thesun.co.uk/tech/21711966/ai-brain-chips-human-machine-warning/",
+      "webUrl": "https://www.sourcesecurity.com/events/tech-summit-on-artificial-intelligence-robotics.html",
+      "originalUrl": "https://www.sourcesecurity.com/events/tech-summit-on-artificial-intelligence-robotics.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.thesun.co.uk/wp-content/uploads/2023/03/MF-AI-TAKEOVER-OFFPLAT.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.thesun.co.uk/tech/21711966/ai-brain-chips-human-machine-warning/amp/",
-      "cdnAmpWebUrl": "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/21711966/ai-brain-chips-human-machine-warning/amp/",
-      "publishedDateTime": "2023-03-14T08:33:00-07:00",
+      "ampWebUrl": "https://www.sourcesecurity.com/amp/events/tech-summit-on-artificial-intelligence-robotics.html",
+      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/events/tech-summit-on-artificial-intelligence-robotics.html",
+      "publishedDateTime": "2023-03-24T16:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Sun",
-        "domain": "thesun.co.uk",
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -808,76 +188,23 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI",
-        "AI Hardware"
+        "AI"
       ]
     },
     {
-      "path": "_news/2023-03-14-our-latest-health-ai-research-updates.md",
-      "title": "Our latest health AI research updates",
-      "excerpt": "At The Check Up, we shared updates on our medical LLM research, partnerships and new ways AI can help with disease detection.",
+      "path": "_news/2023-03-25-the-top-10-ai-mobile-apps-have-already-pulled-in-over-14-million-this-year.md",
+      "title": "The top 10 AI mobile apps have already pulled in over $14 million this year",
+      "excerpt": "What's clear is that integrating \"AI\" features and references to things like ChatGPT or OpenAI has been helping drive demand.",
       "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/health/ai-llm-medpalm-research-thecheckup/",
-      "originalUrl": "https://blog.google/technology/health/ai-llm-medpalm-research-thecheckup/",
+      "webUrl": "https://techcrunch.com/2023/03/22/the-top-10-ai-mobile-apps-have-already-pulled-in-over-14-million-this-year/",
+      "originalUrl": "https://techcrunch.com/2023/03/22/the-top-10-ai-mobile-apps-have-already-pulled-in-over-14-million-this-year/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 85,
       "tags": null,
       "images": [
         {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/check_up_hero_2.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/health/ai-llm-medpalm-research-thecheckup/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/health/ai-llm-medpalm-research-thecheckup/amp/",
-      "publishedDateTime": "2023-03-14T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-14-tcs-launches-5g-enabled-solution-to-help-companies-transform-plant-operations.md",
-      "title": "TCS Launches 5G Enabled Solution To Help Companies Transform Plant Operations",
-      "excerpt": "Tata Consultancy Services on Tuesday (14 March) announced the launch of its 5G-enabled solution to help companies in transforming plant operations. TCS' Cognitive Plant Operations Adviser for the Microsoft Azure Private Mobile Edge Computing (PMEC) platform will help companies in industries like manufacturing,",
-      "sourceUrl": null,
-      "webUrl": "https://swarajyamag.com/business/tcs-launches-5g-enabled-solution-to-help-companies-transform-plant-operations",
-      "originalUrl": "https://swarajyamag.com/business/tcs-launches-5g-enabled-solution-to-help-companies-transform-plant-operations",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gumlet.assettype.com/swarajya%2F2023-02%2Fa38bf3ae-864b-49b1-ad8b-01fddfd3c396%2FScreenshot_2023_02_08_at_12_53_49_PM.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
+          "url": "https://techcrunch.com/wp-content/uploads/2023/03/chatgpt-getty.jpg?resize=1200,800",
           "width": 1200,
           "height": 800,
           "title": null,
@@ -887,59 +214,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-14T07:56:00-07:00",
+      "ampWebUrl": "https://techcrunch.com/2023/03/22/the-top-10-ai-mobile-apps-have-already-pulled-in-over-14-million-this-year/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/22/the-top-10-ai-mobile-apps-have-already-pulled-in-over-14-million-this-year/amp/",
+      "publishedDateTime": "2023-03-24T15:12:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Swarajya",
-        "domain": "swarajyamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-14-googles-new-ai-tools-for-gmail-docs-can-write-drafts-for-you.md",
-      "title": "Google's New AI Tools for Gmail, Docs Can Write Drafts For You",
-      "excerpt": "Google plans to bring new AI-powered tools to its suite of Workspace apps. In a blog post on Tuesday, the search giant said it's starting by testing generative AI writing features in Gmail and Docs that can help people get started on the writing process.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/services-and-software/googles-new-ai-tools-for-gmail-docs-can-write-drafts-for-you/",
-      "originalUrl": "https://www.cnet.com/tech/services-and-software/googles-new-ai-tools-for-gmail-docs-can-write-drafts-for-you/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/9a7f95e60a03aa1cf0048c0dd34b9452e5b8a99c/hub/2022/03/07/2d35deaf-f545-498b-8a7c-9dd6a725e2a7/google-gmail-logo-7133.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/googles-new-ai-tools-for-gmail-docs-can-write-drafts-for-you/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-new-ai-tools-for-gmail-docs-can-write-drafts-for-you/",
-      "publishedDateTime": "2023-03-14T07:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
+        "name": "YAHOO!News",
+        "domain": "techcrunch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -959,21 +243,21 @@
       ]
     },
     {
-      "path": "_news/2023-03-14-navigating-the-future-of-fintech-trends-and-innovations-to-watch.md",
-      "title": "Navigating the Future of FinTech: Trends and Innovations to Watch",
-      "excerpt": "If you’re interested in the world of finance and technology, then you’re in the right place. In recent years, FinTech has become an increasingly important sector, and it’s showing no signs of slowing down.",
+      "path": "_news/2023-03-25-watch-ai-robot-tries-to-make-cats-happy-in-unique-feline-utopia-trial.md",
+      "title": "Watch: AI Robot Tries to Make Cats Happy in Unique Feline 'Utopia' Trial",
+      "excerpt": "The art project is designed to explore issues with real scientific and societal value that are related to artificial intelligence and may have implications ... the cats' happiness as they interact with the robot. It then tries to learn how to increase ...",
       "sourceUrl": null,
-      "webUrl": "https://techbullion.com/navigating-the-future-of-fintech-trends-and-innovations-to-watch/",
-      "originalUrl": "https://techbullion.com/navigating-the-future-of-fintech-trends-and-innovations-to-watch/",
+      "webUrl": "https://www.newsweek.com/watch-ai-robot-tries-make-cats-happy-unique-feline-utopia-trial-1790241",
+      "originalUrl": "https://www.newsweek.com/watch-ai-robot-tries-make-cats-happy-unique-feline-utopia-trial-1790241",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 103,
       "tags": null,
       "images": [
         {
-          "url": "https://techbullion.com/wp-content/uploads/2023/03/Screenshot-2023-03-14-071536.png",
-          "width": 627,
-          "height": 339,
+          "url": "https://d.newsweek.com/en/full/2213891/cat-royale-utopia-environment.jpg",
+          "width": 2500,
+          "height": 1667,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -981,102 +265,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-14T07:19:00-07:00",
+      "ampWebUrl": "https://www.newsweek.com/watch-ai-robot-tries-make-cats-happy-unique-feline-utopia-trial-1790241?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/watch-ai-robot-tries-make-cats-happy-unique-feline-utopia-trial-1790241?amp=1",
+      "publishedDateTime": "2023-03-24T13:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-14-popular-ai-powered-writing-platform-quillbot-launches-translation-tool-to-help-bridge-language-gaps-and-coach-writers.md",
-      "title": "Popular AI-Powered Writing Platform, QuillBot, Launches Translation Tool to Help Bridge Language Gaps and Coach Writers",
-      "excerpt": "CHICAGO, March 14, 2023 /PRNewswire/ -- QuillBot, a pioneer in the application of AI to help individuals improve and perfect their writing skills, today announced the launch of a powerful new ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/03/n31340022/popular-ai-powered-writing-platform-quillbot-launches-translation-tool-to-help-bridge-language-gap",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/03/n31340022/popular-ai-powered-writing-platform-quillbot-launches-translation-tool-to-help-bridge-language-gap",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-14T06:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-14-the-tech-behind-chatgpt-could-power-your-next-cars-ai-driving-assistant.md",
-      "title": "The tech behind ChatGPT could power your next car's AI driving assistant",
-      "excerpt": "General Motors, in partnership with Microsoft, is developing a car-specific AI assistant based on the technology found in Dall-E, ChatGPT and Microsoft Bing",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/the-tech-behind-chatgpt-could-power-your-next-cars-ai-driving-assistant/",
-      "originalUrl": "https://www.zdnet.com/article/the-tech-behind-chatgpt-could-power-your-next-cars-ai-driving-assistant/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 500,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/30051b27a5691c27ffed11025cd6578511214c0b/2023/03/14/a12d42bd-3fda-484f-b3cf-248c22f59c8d/gettyimages-1133517091.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-tech-behind-chatgpt-could-power-your-next-cars-ai-driving-assistant/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-tech-behind-chatgpt-could-power-your-next-cars-ai-driving-assistant/",
-      "publishedDateTime": "2023-03-14T05:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
+        "name": "Newsweek",
+        "domain": "newsweek.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1084,102 +282,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-14-six-ways-retail-can-leverage-generative-ai-to-transform-business.md",
-      "title": "Six Ways Retail Can Leverage Generative AI To Transform Business",
-      "excerpt": "As generative AI evolves into an even bigger, more sophisticated technology, it can transform how retail operates.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/14/six-ways-retail-can-leverage-generative-ai-to-transform-business/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/14/six-ways-retail-can-leverage-generative-ai-to-transform-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f0daeb4496d3e0006c97aab/0x0.jpg?format=jpg&crop=5700,3800,x0,y475,safe&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/14/six-ways-retail-can-leverage-generative-ai-to-transform-business/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/03/14/six-ways-retail-can-leverage-generative-ai-to-transform-business/amp/",
-      "publishedDateTime": "2023-03-14T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-14-agtech-startup-tartansense-rebrands-as-niqo-robotics-fortifying-mission-to-commercialise-ai-robotics-for-making-farming-sustainable.md",
-      "title": "AgTech startup TartanSense rebrands as Niqo Robotics; fortifying mission to commercialise AI robotics for making farming sustainable",
-      "excerpt": "Bangalore: AgTech startup TartanSense, has rebranded as Niqo Robotics. The rebranding comes on the heels of the company launching their proprietary green on green AI spot spray robots in India. With a fleet size of 50,",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/agtech-startup-tartansense-rebrands-as-niqo-robotics-fortifying-mission-to-commercialise-ai-robotics-for-making-farming-sustainable/",
-      "originalUrl": "https://indiaeducationdiary.in/agtech-startup-tartansense-rebrands-as-niqo-robotics-fortifying-mission-to-commercialise-ai-robotics-for-making-farming-sustainable/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png?fit=534%2C462&ssl=1",
-          "width": 534,
-          "height": 462,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/agtech-startup-tartansense-rebrands-as-niqo-robotics-fortifying-mission-to-commercialise-ai-robotics-for-making-farming-sustainable/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/agtech-startup-tartansense-rebrands-as-niqo-robotics-fortifying-mission-to-commercialise-ai-robotics-for-making-farming-sustainable/",
-      "publishedDateTime": "2023-03-14T05:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1193,5 +295,5 @@
       ]
     }
   ],
-  "nextPage": 52
+  "nextPage": null
 }

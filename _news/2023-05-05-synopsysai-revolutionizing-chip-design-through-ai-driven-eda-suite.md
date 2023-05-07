@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/05/04/synopsysaire
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/05/04/synopsysairevolutionizing-chip-design-through-ai-driven-eda-suite/amp/"
 type: article
 quality: 104
-heat: 144
+heat: 136
 published: true
 
 provider:
@@ -75,15 +75,6 @@ related:
         width: 560
         height: 560
         isCached: true
-  - title: "How Chip Design Was Revolutionized by AI-Enhanced Game Play"
-    excerpt: "The Untold Story of How Google’s AlphaGo Inspired Synopsys Engineers to Transform Electronic Design Automation with Deep Reinforcement Learning When"
-    publishedDateTime: 2023-05-02T06:21:00Z
-    webUrl: "https://www.design-reuse.com/industryexpertblogs/53964/how-chip-design-was-revolutionized-by-ai-enhanced-game-play.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 34
 
 secured: "itbRw2cyTS0BHbA5eIxRJVNvOOJZdmgyOFbAOnecR9Gcah46dPo5uHE/pr+1uoR22P0X37R9KVtUlGQlc+h+VqBCnw/NSjythVti+RbwW1ceiJy/ZdPi0ezghT/mFq1VhBH5hSMA8B95iwFLDlKWYiNMSKtk+k+OhbfGt+Z6Sxy5ddeQf4J0mEFvB11cX2t1hZZdoAA59iUCNo9aLXRZwkmiG0H1QFKE/3fx8nMNxNTaaiypSFKysbhXYxyjCf5ctGRclPLtSnxcjj6/JOBM3dAJdZxd9XUc5jYN13h+FRTMReqjC5qQpg5P/1UTzQhCPdmBXDEhne9VLtyYZtfreOSsrnW2mZubANVaZvg5z3F69eW69dVpgq3aX4vURbYqDNYoy3DtZr8TYrEjjRi3bbFBrNgf1r7uKNBpVINAnsWZLexriflhYFwwD9SKrIx1R3lWTe042MB6qGbKaPqlrcVKc1uLxFCH1viGtEs3W1N7c2SqFxz3554x1oJZogmpqDpZCPHiYluubPHmZGj93Q==;eaVTJ4nofyGKtOdQAE1O9g=="
 ---

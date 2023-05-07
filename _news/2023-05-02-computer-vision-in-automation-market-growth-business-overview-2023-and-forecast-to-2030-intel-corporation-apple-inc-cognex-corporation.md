@@ -37,6 +37,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Life Sciences Market 2023: Growth Projection for Top Regions by 2030"
+    excerpt: "May 02, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The Artificial Intelligence in"
+    publishedDateTime: 2023-05-02T08:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-life-sciences-market-2023-growth-projection-for-top-regions-by-2030-2023-05-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
 
 secured: "7EPjcHaFqyAn4rdAKbZV9hB4J+f7ofS5m6B50/J61ZO6D7GT01DIJF/IeIw8n5zYwOuClwYghc75D0Hn8nbw5rYBEOPhZE4BJcDkvNNNlTs0LkIG0gVfOKcFCmBbiCGO14tiAEDWcN2p3kH0F8aYKxCPYVaVPODx0pPmvLV7ZHd6BTM/QEURtfU5kS/jxUrOQrGRsHcYls+BK+q9ktLFbrUJJYpKMTKqCEu77W8T/5JXK7dAbjnYoksTKHG+aHh3PhyEqZXfMwAGQ0CIa677TJjufFpNC2IunPArERjarTn/W1SlrggoFaj9hUJKgNI7H02JIJqtxuCzEod5P8o2AuTdpEb9aFSUsqFhkc79EUA=;8yGi9040bJXEBbexuZgXJw=="
 ---

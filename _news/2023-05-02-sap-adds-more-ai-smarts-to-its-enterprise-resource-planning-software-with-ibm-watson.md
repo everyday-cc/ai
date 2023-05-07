@@ -25,19 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "SAP to Embed IBM Watson Artificial Intelligence into SAP® Solutions"
-    excerpt: "SAP to Embed IBM Watson Artificial Intelligence into SAP® Solutions May 02, 2023 (PRNewswire via COMTEX) -- PR Newswire WALLDORF, Germany and ARMONK,"
-    publishedDateTime: 2023-05-02T13:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions-2023-05-02"
+  - title: "SAP signs IBM Watson deal, ChatGPT showstopper waits in the wings"
+    excerpt: "Watson is a question-answering system developed by IBM in the Noughties. SAP said the Watson-powered system would help managers and employees in the find answers across various SAP business applications, having already been deployed in SAP Concur, the expense management application."
+    publishedDateTime: 2023-05-03T13:13:00Z
+    webUrl: "https://www.theregister.com/2023/05/03/ibm_watson_chagtgpt/"
+    ampWebUrl: "https://www.theregister.com/AMP/2023/05/03/ibm_watson_chagtgpt/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2023/05/03/ibm_watson_chagtgpt/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 84
+      name: theregister
+      domain: theregister.com
+    quality: 74
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://regmedia.co.uk/2021/03/02/shutterstock_sap_bikes.jpg"
         width: 1200
-        height: 630
+        height: 600
+        isCached: true
+  - title: "ChatGPT Found Its Way Into a Boston Dynamics Robot Dog"
+    excerpt: "In what sounds like the start of a bad sci-fi movie, one company has added new processing capabilities to Spot that will make the robot dog easier to manage with a natural voice interface."
+    publishedDateTime: 2023-05-03T00:00:00Z
+    webUrl: "https://www.govtech.com/products/chatgpt-found-its-way-into-a-boston-dynamics-robot-dog"
+    ampWebUrl: "https://www.govtech.com/products/chatgpt-found-its-way-into-a-boston-dynamics-robot-dog?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/chatgpt-found-its-way-into-a-boston-dynamics-robot-dog?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/9d28b73/2147483647/strip/true/crop/5585x2912+0+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F4f%2Fc5%2Fad4aa04244208b3c80b81697816e%2Fshutterstock-2046244649.jpg"
+        width: 840
+        height: 438
         isCached: true
   - title: "SAP to Embed IBM Watson AI into SAP Solutions"
     excerpt: "SAP will use IBM Watson capabilities to power its digital assistant in SAP Start, which provides a unified entry point for cloud solutions from SAP. With SAP Start, users can search for, launch and interactively engage with apps provided in cloud solutions from SAP and SAP S/4HANA Cloud."
@@ -53,6 +71,17 @@ related:
         width: 1664
         height: 674
         isCached: true
+  - title: "SAP to Embed IBM Watson Artificial Intelligence into SAP® Solutions"
+    excerpt: "WALLDORF, Germany and ARMONK, N.Y., May 2, 2023 /PRNewswire/ -- SAP SE SAP and IBM IBM today announced that IBM Watson® technology will be embedded into SAP® solutions to provide new AI-driven ..."
+    publishedDateTime: 2023-05-02T13:04:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/05/n32158021/sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32158021"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32158021"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 54
   - title: "IBM Watson to be integrated into SAP solutions"
     excerpt: "SAP users will soon be able to count on AI assistance based on IBM Watson technology. The SAP Start Assistant will help organizations reach insights about"
     publishedDateTime: 2023-05-02T14:20:00Z

@@ -359,6 +359,50 @@
       ]
     },
     {
+      "path": "_news/2023-05-03-machine-translation-for-cuneiform-tablets.md",
+      "title": "Machine translation for cuneiform tablets",
+      "excerpt": "An AI model has been developed to automatically translate Akkadian text written in cuneiform into English. Hundreds of thousands of clay tablets from ancient Mesopotamia, written in cuneiform and dating back as far as 3,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-05-machine-cuneiform-tablets.html",
+      "originalUrl": "https://techxplore.com/news/2023-05-machine-cuneiform-tablets.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/machine-translation-fo.jpg",
+          "width": 2880,
+          "height": 1216,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-05-machine-cuneiform-tablets.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-05-machine-cuneiform-tablets.amp",
+      "publishedDateTime": "2023-05-03T09:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-05-03-automated-machine-learning-automl-market-analysis-and-forecast-to-2031.md",
       "title": "Automated Machine Learning (AutoML) Market Analysis and Forecast to 2031",
       "excerpt": "May 03, 2023 (The Expresswire) -- \"Automated Machine Learning (AutoML) Market\" is expected to witness significant growth in the coming years,",
@@ -420,7 +464,7 @@
       "originalUrl": "https://www.technologyreview.com/2023/05/01/1072478/deep-learning-pioneer-geoffrey-hinton-quits-google/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1390,58 +1434,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-04-25T22:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-26-artificial-neural-networks-market-share-and-forecast-till-2030.md",
-      "title": "Artificial Neural Networks Market Share and Forecast till 2030",
-      "excerpt": "Newest Report will contain the Competitional Analysis of Top 5 Key Plyers (Intel, Starmind, Clarifai, Microsoft,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-neural-networks-market-share-and-forecast-till-2030-2023-04-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-neural-networks-market-share-and-forecast-till-2030-2023-04-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-25T17:47:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",

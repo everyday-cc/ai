@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The Godfather of AI, Geoffrey Hinton, Reveals the Future of Artificial Intelligence"
-    excerpt: "As AI technology continues to improve and become more sophisticated, it's inevitable that it will be used for both good and bad purposes"
-    publishedDateTime: 2023-05-02T05:03:00Z
-    webUrl: "https://www.gizmochina.com/2023/05/02/godfather-ai-reveals-views-future/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 78
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2023/05/hitesh-choudhary-t1PaIbMTJIM-unsplash-scaled-e1683003702649.jpg"
-        width: 1500
-        height: 842
-        isCached: true
   - title: "What Are The Concerns About Artificial Intelligence Raised By The Godfather Of AI Geoffrey Hinton?"
     excerpt: "Geoffrey Hinton, the Godfather of AI, has quit his job at Google to warn about the dangers of Artificial Intelligence. Check what are the 4 concerns"
     publishedDateTime: 2023-05-05T16:38:00Z

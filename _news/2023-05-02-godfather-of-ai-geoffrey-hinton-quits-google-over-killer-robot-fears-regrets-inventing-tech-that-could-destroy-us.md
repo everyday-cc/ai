@@ -45,22 +45,6 @@ related:
         isCached: true
   - title: "‘Godfather of AI’ Geoffrey Hinton quits Google and warns over dangers of misinformation"
     excerpt: "The neural network pioneer says dangers of chatbots were ‘quite scary’ and warns they could be exploited by ‘bad actors’"
-    publishedDateTime: 2023-05-02T06:52:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/may/02/geoffrey-hinton-godfather-of-ai-quits-google-warns-dangers-of-machine-learning"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/02/geoffrey-hinton-godfather-of-ai-quits-google-warns-dangers-of-machine-learning"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/02/geoffrey-hinton-godfather-of-ai-quits-google-warns-dangers-of-machine-learning"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 49
-    images:
-      - url: "https://i.guim.co.uk/img/media/9d2f544e797d7664901b646357c02b61e4121051/0_33_6222_3733/master/6222.jpg?width=620&quality=85&auto=format&fit=max&s=0fbd4a1fa9bba14ccfe9ed2804ba32fc"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "‘Godfather of AI’ Geoffrey Hinton quits Google and warns over dangers of misinformation"
-    excerpt: "The neural network pioneer says dangers of chatbots were ‘quite scary’ and warns they could be exploited by ‘bad actors’"
     publishedDateTime: 2023-05-02T20:12:00Z
     webUrl: "https://www.theguardian.com/technology/2023/may/02/geoffrey-hinton-godfather-of-ai-quits-google-warns-dangers-of-machine-learning?trk=public_post_comment-text"
     ampWebUrl: "https://amp.theguardian.com/technology/2023/may/02/geoffrey-hinton-godfather-of-ai-quits-google-warns-dangers-of-machine-learning"

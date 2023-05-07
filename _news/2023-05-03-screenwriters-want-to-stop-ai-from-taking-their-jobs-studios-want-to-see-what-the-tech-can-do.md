@@ -70,20 +70,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Hollywood Writers Strike Over Pay Disputes with Streaming Giants, AI Concerns"
-    excerpt: "The entertainment industry is in the throes of a labor dispute and more than a few of the sticking points involve recent technological changes."
-    publishedDateTime: 2023-05-02T05:34:00Z
-    webUrl: "https://gizmodo.com/wga-hollywood-writers-strike-ai-streaming-giants-netfli-1850392107"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 64
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/eb6285b1f869d07e1aaa543ccc67b608.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "AI Decision-Making in Hollywood Is Already Here, Now What?"
     excerpt: "Chat bots and AI-generated videos show the possibility of the tech. But more insidious are the black box algorithms that decide what's popular — directly influencing which stories to tell and how. In the nonfiction space,"
     publishedDateTime: 2023-05-04T23:36:00Z

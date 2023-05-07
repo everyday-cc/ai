@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-07-is-artificial-intelligence-good-for-education.md",
+      "title": "Is artificial intelligence good for education?",
+      "excerpt": "This past week, a student called me to request an interview for an assignment. The topic was artificial intelligence and its effect on the ivory tower.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtontimes.com/news/2023/may/6/is-artificial-intelligence-good-for-education/",
+      "originalUrl": "https://www.washingtontimes.com/news/2023/may/6/is-artificial-intelligence-good-for-education/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://twt-thumbs.washtimes.com/media/image/2023/05/06/B1-PIPE-Lost-Soul-GG_c0-919-2200-2202_s1200x700.jpg?2a1a00f04a42eeed57795a4a2b6f93f474d49a53",
+          "width": 1200,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.washingtontimes.com/news/2023/may/6/is-artificial-intelligence-good-for-education/",
+      "cdnAmpWebUrl": "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2023/may/6/is-artificial-intelligence-good-for-education/",
+      "publishedDateTime": "2023-05-06T15:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Times",
+        "domain": "washingtontimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2023-05-07-3-robotics-stocks-to-buy-for-futuristic-growth-potential.md",
       "title": "3 Robotics Stocks to Buy for Futuristic Growth Potential",
       "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The robot revolution is well underway and only growing in size and scope.",
@@ -311,7 +355,7 @@
       "originalUrl": "https://venturebeat.com/ai/apple-plans-generative-ai-tim-cook-wants-to-be-thoughtful/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -414,7 +458,7 @@
       "originalUrl": "https://www.forbes.com/sites/johanmoreno/2023/05/05/navan-is-leveraging-generative-ai-to-help-companies-cut-costs/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -465,7 +509,7 @@
       "originalUrl": "https://venturebeat.com/ai/biden-administration-takes-action-to-promote-responsible-ai-innovation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -568,7 +612,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-an-image-search-engine-with-amazon-kendra-and-amazon-rekognition/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -621,7 +665,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/2023-computer-vision-market-swot-analysis-and-regional-growth-prospect-2030-2023-05-05",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -777,7 +821,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/05/05/simplifying-the-business-of-care-using-ai-and-blockchain/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 120,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -880,7 +924,7 @@
       "originalUrl": "https://www.zdnet.com/article/british-antitrust-regulator-initiates-review-of-artificial-intelligence-models/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -931,7 +975,7 @@
       "originalUrl": "https://www.businessinsider.com/exclusive-mistral-in-talks-raise-big-cash-build-openai-rival-2023-5",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1233,58 +1277,6 @@
         "AI",
         "AI Ethics",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-05-05-generative-ai-brings-new-risks-to-everyone-heres-how-you-can-stay-safe.md",
-      "title": "Generative AI brings new risks to everyone. Here's how you can stay safe",
-      "excerpt": "Organizations have to figure out the potential implications of tapping generative artificial intelligence tools, such as ChatGPT, while consumers should consider how they establish digital engagement.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/generative-ai-brings-new-risks-to-everyone-heres-how-you-can-stay-safe/",
-      "originalUrl": "https://www.zdnet.com/article/generative-ai-brings-new-risks-to-everyone-heres-how-you-can-stay-safe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/e95cabc4c470648090df91010140d6c22b66acce/2023/05/04/dc3b0530-d40e-4fef-954e-de348e4bf9db/gettyimages-1201055987.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/generative-ai-brings-new-risks-to-everyone-heres-how-you-can-stay-safe/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-brings-new-risks-to-everyone-heres-how-you-can-stay-safe/",
-      "publishedDateTime": "2023-05-05T03:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

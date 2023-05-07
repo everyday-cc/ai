@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/05/04/the-life-and-death-of-a-robot-vacu
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/04/the-life-and-death-of-a-robot-vacuum/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 91
 published: true
 
 provider:

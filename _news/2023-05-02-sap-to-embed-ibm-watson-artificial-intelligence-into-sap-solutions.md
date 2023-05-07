@@ -1,34 +1,58 @@
 ---
 category: news
 title: "SAP to Embed IBM Watson Artificial Intelligence into SAP® Solutions"
-excerpt: "SAP to Embed IBM Watson Artificial Intelligence into SAP® Solutions May 02, 2023 (PRNewswire via COMTEX) -- PR Newswire WALLDORF, Germany and ARMONK,"
-publishedDateTime: 2023-05-02T13:00:00Z
-originalUrl: "https://www.marketwatch.com/press-release/sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions-2023-05-02"
-webUrl: "https://www.marketwatch.com/press-release/sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions-2023-05-02"
+excerpt: "WALLDORF, Germany and ARMONK, N.Y., May 2, 2023 /PRNewswire/ -- SAP SE SAP and IBM IBM today announced that IBM Watson® technology will be embedded into SAP® solutions to provide new AI-driven ..."
+publishedDateTime: 2023-05-02T13:04:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/05/n32158021/sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions"
+webUrl: "https://www.benzinga.com/pressreleases/23/05/n32158021/sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions"
+ampWebUrl: "https://www.benzinga.com/amp/content/32158021"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32158021"
 type: article
-quality: 84
-heat: 144
-published: true
+quality: 54
+heat: -1
+published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - IBM AI
   - AI
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
-
 related:
+  - title: "SAP signs IBM Watson deal, ChatGPT showstopper waits in the wings"
+    excerpt: "Watson is a question-answering system developed by IBM in the Noughties. SAP said the Watson-powered system would help managers and employees in the find answers across various SAP business applications, having already been deployed in SAP Concur, the expense management application."
+    publishedDateTime: 2023-05-03T13:13:00Z
+    webUrl: "https://www.theregister.com/2023/05/03/ibm_watson_chagtgpt/"
+    ampWebUrl: "https://www.theregister.com/AMP/2023/05/03/ibm_watson_chagtgpt/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2023/05/03/ibm_watson_chagtgpt/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 74
+    images:
+      - url: "https://regmedia.co.uk/2021/03/02/shutterstock_sap_bikes.jpg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "ChatGPT Found Its Way Into a Boston Dynamics Robot Dog"
+    excerpt: "In what sounds like the start of a bad sci-fi movie, one company has added new processing capabilities to Spot that will make the robot dog easier to manage with a natural voice interface."
+    publishedDateTime: 2023-05-03T00:00:00Z
+    webUrl: "https://www.govtech.com/products/chatgpt-found-its-way-into-a-boston-dynamics-robot-dog"
+    ampWebUrl: "https://www.govtech.com/products/chatgpt-found-its-way-into-a-boston-dynamics-robot-dog?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/chatgpt-found-its-way-into-a-boston-dynamics-robot-dog?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/9d28b73/2147483647/strip/true/crop/5585x2912+0+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F4f%2Fc5%2Fad4aa04244208b3c80b81697816e%2Fshutterstock-2046244649.jpg"
+        width: 840
+        height: 438
+        isCached: true
   - title: "SAP to Embed IBM Watson AI into SAP Solutions"
     excerpt: "SAP will use IBM Watson capabilities to power its digital assistant in SAP Start, which provides a unified entry point for cloud solutions from SAP. With SAP Start, users can search for, launch and interactively engage with apps provided in cloud solutions from SAP and SAP S/4HANA Cloud."
     publishedDateTime: 2023-05-02T15:59:00Z
@@ -99,6 +123,6 @@ related:
       domain: accountingtoday.com
     quality: 19
 
-secured: "RFKgiBzEX0Wx4+2g3BEdXthNN569+DWDoLlFcwQ/BR/vLRIEmmvKzRuF013mLsd89SA5hCq8j2Br2aaIr4hTV1Hph1x49aFj6ookbMPIc72zhMv3sOllzCSXqBhc0Me2YAEWPsAp9c/CRq4AIT0zio9QH0IQCUXPxcDZ7laDpiEOrg4C1TekprhwqxvCbwxOq22Xua6V69AklXp1TlymbUVfcuMKStvJEsS8IC2K4SmY1s02UZElKFa/pSksH7PwkBgcjEwwUW+73HeqQpI7vG1uyb18ZLSTDVgBiPv/xrDf0L5R/CjFVyu/v+P5+QsVjWoyrdlZ81bENv8HzhWTtpNe0k8t4zdlNXBvqNAeawI=;bf4GjZKEYpXt9u4rc4cIqw=="
+secured: "l2GR90Sbr9s8CWjZdvQUFeACUIdqytv3nRNNtnkxV1C9MMPg5vJokSKR17OnOuyAC55hvE+VRjcXcJGlhSLdmX8D1CXZvl/CmsUt2OCWXk8ttTod8Oe5hddFFfwJGXDljuIwYP1jI41Ug1gMS0mmAO0Ua73QtqsEAPIVqO7Xbxl/zfvqgrhUJs0ILACaVnc9OjT25npj1jnNJklQrFepVldmqR8GYcSHEk/Tmjpc5n2H/dj0cadGImECH5Mp8lScilp264Lsp4thq501ns5z40qeyD8N1PxDggBgR5xnAXknion8rI1NLo8s2dmZHio75CQF9YIaZBrDxPEmTVsx41ndUeeIwvro+WVl9x51pVI=;itpTmUWFSEHRvnxVcc8k7A=="
 ---
 

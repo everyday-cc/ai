@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/build-an-image-searc
 webUrl: "https://aws.amazon.com/blogs/machine-learning/build-an-image-search-engine-with-amazon-kendra-and-amazon-rekognition/"
 type: article
 quality: 106
-heat: 118
+heat: 120
 published: true
 
 provider:

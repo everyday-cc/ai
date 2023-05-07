@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/craigsmith/2023/05/04/geoff-hinton-ais-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/craigsmith/2023/05/04/geoff-hinton-ais-most-famous-researcher-warns-of-existential-threat/amp/"
 type: article
 quality: 86
-heat: 186
+heat: 176
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Godfather of AI, Geoffrey Hinton, Reveals the Future of Artificial Intelligence"
-    excerpt: "As AI technology continues to improve and become more sophisticated, it's inevitable that it will be used for both good and bad purposes"
-    publishedDateTime: 2023-05-02T05:03:00Z
-    webUrl: "https://www.gizmochina.com/2023/05/02/godfather-ai-reveals-views-future/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 78
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2023/05/hitesh-choudhary-t1PaIbMTJIM-unsplash-scaled-e1683003702649.jpg"
-        width: 1500
-        height: 842
-        isCached: true
   - title: "Godfather of AI: Geoffrey Hinton quits Google to expose risks of artificial intelligence"
     excerpt: "Geoffrey Hinton also known as the 'Godfather of AI' has cut off the strings that tied him to Google so that he could openly give vent to his views about the downside of the technology that has"
     publishedDateTime: 2023-05-02T15:34:00Z

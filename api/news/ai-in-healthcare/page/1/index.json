@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-07-is-artificial-intelligence-good-for-education.md",
+      "title": "Is artificial intelligence good for education?",
+      "excerpt": "This past week, a student called me to request an interview for an assignment. The topic was artificial intelligence and its effect on the ivory tower.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtontimes.com/news/2023/may/6/is-artificial-intelligence-good-for-education/",
+      "originalUrl": "https://www.washingtontimes.com/news/2023/may/6/is-artificial-intelligence-good-for-education/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://twt-thumbs.washtimes.com/media/image/2023/05/06/B1-PIPE-Lost-Soul-GG_c0-919-2200-2202_s1200x700.jpg?2a1a00f04a42eeed57795a4a2b6f93f474d49a53",
+          "width": 1200,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.washingtontimes.com/news/2023/may/6/is-artificial-intelligence-good-for-education/",
+      "cdnAmpWebUrl": "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2023/may/6/is-artificial-intelligence-good-for-education/",
+      "publishedDateTime": "2023-05-06T15:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Times",
+        "domain": "washingtontimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2023-05-05-uae-chemo-robot-artificial-intelligence-guided-radiotherapy-for-cancer-care-now-available-in-abu-dhabi.md",
       "title": "UAE: Chemo robot, artificial intelligence-guided radiotherapy for cancer care now available in Abu Dhabi",
       "excerpt": "Newly-launched Fatima bint Mubarak Center also has latest non-invasive treatments Abu Dhabi: An artificial intelligence-guided radiotherapy treatment, a targeted therapy for liver cancer, and a chemotherapy robot are some of the innovative options that are ...",
@@ -267,6 +311,49 @@
       "provider": {
         "name": "Medindia",
         "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-02-ai-chatbot-outperforms-human-doctors-in-responding-to-patient-questions.md",
+      "title": "AI chatbot outperforms human doctors in responding to patient questions",
+      "excerpt": "An artificial intelligence chatbot was able ... presented a team of licensed health care professionals with responses to 195 randomly drawn patient questions. The evaluators determined that ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/policy/technology/3982046-ai-chatbot-outperforms-human-doctors-in-responding-to-patient-questions/",
+      "originalUrl": "https://thehill.com/policy/technology/3982046-ai-chatbot-outperforms-human-doctors-in-responding-to-patient-questions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/wp-content/uploads/sites/2/2022/11/laptop-doctor_042822istock_cyber-health-care.jpg?w=1280",
+          "width": 1280,
+          "height": 719,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/policy/technology/3982046-ai-chatbot-outperforms-human-doctors-in-responding-to-patient-questions/amp/",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/3982046-ai-chatbot-outperforms-human-doctors-in-responding-to-patient-questions/amp/",
+      "publishedDateTime": "2023-05-01T19:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1356,93 +1443,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-24-artificial-intelligence-what-it-is-and-how-it-is-used.md",
-      "title": "Artificial Intelligence: What It Is and How It Is Used",
-      "excerpt": "He is a Chartered Market Technician (CMT). Artificial intelligence (AI) refers to the simulation of human intelligence by software-coded heuristics. Nowadays this code is prevalent in everything ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.investopedia.com/terms/a/artificial-intelligence-ai.asp",
-      "originalUrl": "https://www.investopedia.com/terms/a/artificial-intelligence-ai.asp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.investopedia.com/thmb/LM3fhER-7UsLy-teyQe8VA8f3Bw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/artificial-intelligence-1079012838-6ee85656ad2047f08371f47bd26f1b64.jpg",
-          "width": 1500,
-          "height": 1045,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-23T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Investopedia",
-        "domain": "investopedia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-04-22-artificial-intelligence-is-infiltrating-health-care-we-shouldnt-let-it-make-all-the-decisions.md",
-      "title": "Artificial intelligence is infiltrating health care. We shouldn’t let it make all the decisions.",
-      "excerpt": "Would you trust medical advice generated by artificial intelligence ... As these technologies begin to infiltrate health-care settings, researchers say we’re seeing a rise in what’s known ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2023/04/21/1071921/ai-is-infiltrating-health-care-we-shouldnt-let-it-make-decisions/",
-      "originalUrl": "https://www.technologyreview.com/2023/04/21/1071921/ai-is-infiltrating-health-care-we-shouldnt-let-it-make-decisions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/04/med-paternalism.jpeg?w=2932",
-          "width": 2932,
-          "height": 1650,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2023/04/21/1071921/ai-is-infiltrating-health-care-we-shouldnt-let-it-make-decisions/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/04/21/1071921/ai-is-infiltrating-health-care-we-shouldnt-let-it-make-decisions/amp/",
-      "publishedDateTime": "2023-04-22T01:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

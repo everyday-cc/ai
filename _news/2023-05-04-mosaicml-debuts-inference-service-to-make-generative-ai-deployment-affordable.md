@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/mosaicmls-inference-service-to-make-gener
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/mosaicmls-inference-service-to-make-generative-ai-affordable/amp/"
 type: article
 quality: 84
-heat: 88
+heat: 84
 published: true
 
 provider:

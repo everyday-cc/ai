@@ -25,105 +25,52 @@ images:
     isCached: true
 
 related:
-  - title: "5 Amazing Ways How Meta (Facebook) Is Using Generative AI"
-    excerpt: "Explore how Meta utilizes generative AI to revolutionize advertising, chat, image generation, and natural language processing while shaping the future of the metaverse with immersive and accessible content creation."
-    publishedDateTime: 2023-05-02T06:29:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/05/02/5-amazing-ways-how-meta-facebook-is-using-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/05/02/5-amazing-ways-how-meta-facebook-is-using-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/05/02/5-amazing-ways-how-meta-facebook-is-using-generative-ai/amp/"
+  - title: "Creating a tsunami early warning system using artificial intelligence"
+    excerpt: "Los Angeles and Cardiff University in the U.K. developed an early warning system that combines state-of-the-art acoustic technology with artificial intelligence to immediately classify earthquakes ..."
+    publishedDateTime: 2023-05-04T00:47:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/04/230425111152.htm"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6450ac8062c3ef25fedc456e/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Generative AI Won’t Take Off Without 6G"
-    excerpt: "Although the sixth generation of broadband internet and mobile technology won’t emerge widely for a number of years, organizations are exploring business innovations for a more intelligent, immersive world."
-    publishedDateTime: 2023-05-02T12:18:00Z
-    webUrl: "https://www.forbes.com/sites/sap/2023/05/02/generative-ai-wont-take-off-without-6g/"
-    ampWebUrl: "https://www.forbes.com/sites/sap/2023/05/02/generative-ai-wont-take-off-without-6g/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2023/05/02/generative-ai-wont-take-off-without-6g/amp/"
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
+  - title: "Predicting ultra-processing in food with machine learning algorithm"
+    excerpt: "Acknowledging the pain points of the NOVA classification system, researchers have developed a machine learning algorithm to accurately predict the degree of processing for any food."
+    publishedDateTime: 2023-05-02T15:29:00Z
+    webUrl: "https://www.foodnavigator.com/Article/2023/05/02/machine-learning-algorithm-predicts-ultra-processing-in-food"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64248ed36d63fa962ef43b0c/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Slack’s New CEO Brings Generative AI to the Workplace Conversation"
-    excerpt: "Lidiane Jones, the new chief executive of Slack, is betting that the future of the messaging app—purchased by software giant Salesforce for $27.7 billion in 2020—will rest on the combination of their technologies using generative artificial intelligence."
-    publishedDateTime: 2023-05-05T08:30:00Z
-    webUrl: "https://www.wsj.com/articles/slacks-new-ceo-brings-generative-ai-to-the-workplace-conversation-af053233"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-776333/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "3 ways Generative AI is transforming the retail industry"
-    excerpt: "Microsoft Azure OpenAI and other Generative AI technologies are helping retailers jumpstart innovation, improve customer experience, and accelerate growth."
-    publishedDateTime: 2023-05-02T21:58:00Z
-    webUrl: "https://www.cio.com/article/475453/3-ways-generative-ai-is-transforming-theretail-industry.html"
-    ampWebUrl: "https://www.cio.com/article/475453/3-ways-generative-ai-is-transforming-theretail-industry.html/amp/"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/475453/3-ways-generative-ai-is-transforming-theretail-industry.html/amp/"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 59
-    images:
-      - url: "https://www.cio.com/wp-content/uploads/2023/05/image-EVP-2-Retail-iStock-Asawin_Klabma-1.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 645
-        isCached: true
-  - title: "In praise of Facebook"
-    excerpt: "First, please do not construe this article to praise the Facebook company or its leadership in any way. Their election-related machinations, forays into dangerous AI research and other sketchy practic"
-    publishedDateTime: 2023-05-03T13:31:00Z
-    webUrl: "https://www.hampshirereview.com/news/columnists/article_c84fb58e-e9b6-11ed-a373-57701fd2af23.html"
-    type: article
-    provider:
-      name: Hampshire Review
-      domain: hampshirereview.com
+      name: FoodNavigator
+      domain: foodnavigator.com
     quality: 39
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/hampshirereview.com/content/tncms/assets/v3/editorial/2/bc/2bc66de2-fd27-11ec-94c2-575afd51e3a7/62c5801e6fa34.image.jpg?crop=850%2C446%2C0%2C321&resize=850%2C446&order=crop%2Cresize"
-        width: 850
-        height: 446
+      - url: "https://www.foodnavigator.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/foodnavigator.com/news/science/machine-learning-algorithm-predicts-ultra-processing-in-food/16381964-1-eng-GB/Machine-learning-algorithm-predicts-ultra-processing-in-food.jpg"
+        width: 750
+        height: 500
         isCached: true
-  - title: "How generative AI is building better antibodies"
-    excerpt: "Language models similar to those behind ChatGPT have been used to improve antibody therapies against COVID-19, Ebola and other viruses."
-    publishedDateTime: 2023-05-04T23:00:00Z
-    webUrl: "https://www.nature.com/articles/d41586-023-01516-w"
+  - title: "Brain dynamics uncovered using a machine-learning algorithm"
+    excerpt: "CEBRA is a machine-learning method that can be used to compress time series in a way that reveals otherwise hidden structures in the variability of the data. It excels at processing behavioural and neural data recorded simultaneously,"
+    publishedDateTime: 2023-05-03T22:37:00Z
+    webUrl: "https://www.nature.com/articles/d41586-023-01339-9"
     type: article
     provider:
       name: Nature
       domain: nature.com
-    quality: 37
+    quality: 39
     images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-01516-w/d41586-023-01516-w_25313644.jpg"
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-01339-9/d41586-023-01339-9_25308634.png"
         width: 1024
         height: 576
         isCached: true
-  - title: "Facebook Earnings, Generative AI and Messaging Monetization, Open Source and AI"
-    excerpt: "Meta’s earnings showed that all of Meta’s Myths were, in fact, myths. Plus, how LLMs can benefit Meta ad products, and why Meta might open source more AI models."
-    publishedDateTime: 2023-05-03T12:24:00Z
-    webUrl: "https://stratechery.com/2023/facebook-earnings-generative-ai-and-messaging-monetization-open-source-and-ai/"
+  - title: "Smartling’s Patent-Pending Technology Enables Breakthroughs in Translation Using AI"
+    excerpt: "Smartling, Inc. today announced the introduction of patent-pending technology that brings human-quality machine translation closer to reality."
+    publishedDateTime: 2023-05-03T17:59:00Z
+    webUrl: "https://slator.com/smartling-patent-pending-technology-enables-breakthroughs-translation-using-ai/"
     type: article
     provider:
-      name: Stratechery
-      domain: stratechery.com
-    quality: 15
+      name: Slator
+      domain: slator.com
+    quality: 13
 
 secured: "qrpQcRQ7ThYIozeqP4uZaqPY/4hSB4uZ7k3v1H7SbWkEkFqSqG4UANIDGw7JoIjGrhQF3/v7eW2DdlY+pROfNMbxGtnxwxS3atp2fH7B0yzxQD9fLd7bhVmV5HO+sfR16nUc+aogpQHEPQnVIlCAvknP7Yil0pI7Qp/ccG/SsiUXsQ8Zf4nnFHqEZldCHuHmRwmBgBBjIcvoMLG3M9g2+tg0t1zgP1z2cuOZqGva50EqzHgDfc2YyqrYI8N0owy1hZ/QyVI3ceof7zW5EXCNKnI5IlCWwypY+ng4l3+VLd0Jk8pGdZXULH6KBj9Gwklk8xVmkWxlhbmKQX1FW0OAkzc37uOywzthdH5Ss/D6vqr9ReLJIc0L+qEY1tdfSiueMsvkveQspLbh2hGY7AoTiBif2aaE9UaW6CE47JZR8SemAQUYiAFofQmZmQVVom/7zPjR6I0O6GXwqa1Ewb+3fMl3M/GFOgHeUd7YIaXLg1gFBlrh+X/i2B8+UhovQBMWFW0Ldexwq5f3JqyYUU1T1w==;AajMqXUQsqeidqN8GmHdqA=="
 ---

@@ -2,6 +2,212 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-05-03-try-4-new-arts-and-ai-experiments.md",
+      "title": "Try 4 new Arts and AI experiments",
+      "excerpt": "Four new online interactive artworks from Google Arts & Culture Lab artists in residence",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/outreach-initiatives/arts-culture/try-4-new-arts-and-ai-experiments/",
+      "originalUrl": "https://blog.google/outreach-initiatives/arts-culture/try-4-new-arts-and-ai-experiments/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 229,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Generative_Bundle_Hero_Image_GIF.gif",
+          "width": 600,
+          "height": 369,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/outreach-initiatives/arts-culture/try-4-new-arts-and-ai-experiments/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/arts-culture/try-4-new-arts-and-ai-experiments/amp/",
+      "publishedDateTime": "2023-05-03T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-03-midjourney-51-arrives-and-its-another-leap-forward-for-ai-art.md",
+      "title": "Midjourney 5.1 Arrives - And It’s Another Leap Forward For AI Art",
+      "excerpt": "The company claims that version 5.1 of the engine is “more opinionated”, bringing it closer to the kind of results that you would get with version 4 of Midjourney, but at a higher quality. There’s also a “raw” mode, for those who don’t want images that are as strongly opinionated.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/barrycollins/2023/05/03/midjourney-51-arrivesand-its-another-leap-forward-for-ai-art/",
+      "originalUrl": "https://www.forbes.com/sites/barrycollins/2023/05/03/midjourney-51-arrivesand-its-another-leap-forward-for-ai-art/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64521a0c6292968af6b510dc/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 673,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/barrycollins/2023/05/03/midjourney-51-arrivesand-its-another-leap-forward-for-ai-art/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2023/05/03/midjourney-51-arrivesand-its-another-leap-forward-for-ai-art/amp/",
+      "publishedDateTime": "2023-05-03T01:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-03-adhd-on-tiktok-raising-awareness-or-driving-inaccurate-self-diagnosis.md",
+      "title": "ADHD on TikTok: Raising awareness or driving inaccurate self-diagnosis?",
+      "excerpt": "ADHD is massive on TikTok. Creators who've taken the hashtag to more than 20 billion views say they've helped to spread awareness and normalise the condition. But some worry that the flood of content on our feeds and For You pages is also perpetuating stereotypes and encouraging potentially inaccurate self-diagnosis.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/newsbeat-65457044?at_format=link&at_link_type=web_link&at_link_id=D856A3A0-E98B-11ED-B287-907279448730&at_link_origin=bbchealth&at_bbc_team=editorial&at_campaign_type=owned&at_ptr_name=twitter",
+      "originalUrl": "https://www.bbc.com/news/newsbeat-65457044?at_format=link&at_link_type=web_link&at_link_id=D856A3A0-E98B-11ED-B287-907279448730&at_link_origin=bbchealth&at_bbc_team=editorial&at_campaign_type=owned&at_ptr_name=twitter",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/8E9C/production/_129580563_phonealamy.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/newsbeat-65457044.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/newsbeat-65457044.amp",
+      "publishedDateTime": "2023-05-03T01:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-03-its-not-ai-that-is-going-to-take-you-job-but-someone-who-knows-how-to-use-ai-might-economist-says.md",
+      "title": "It's not AI that is going to take you job, but someone who knows how to use AI might, economist says",
+      "excerpt": "AI is \"giving more power to all workers, but especially those average workers,\" Richard Baldwin, an economist, said at a World Economic Forum panel.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ai-wont-take-your-job-someone-who-uses-it-might-2023-5",
+      "originalUrl": "https://www.businessinsider.com/ai-wont-take-your-job-someone-who-uses-it-might-2023-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64517e2ba19cbe00192dd25e?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/ai-wont-take-your-job-someone-who-uses-it-might-2023-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-wont-take-your-job-someone-who-uses-it-might-2023-5?amp",
+      "publishedDateTime": "2023-05-03T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-03-focus-chinas-ai-industry-barely-slowed-by-us-chip-export-rules.md",
       "title": "FOCUS-China's AI industry barely slowed by US chip export rules",
       "excerpt": "U.S. microchip export controls imposed last year to freeze China's development of supercomputers used to develop nuclear weapons and artificial-intelligence systems like ChatGPT are having only minimal effects on China's tech sector.",
@@ -105,6 +311,58 @@
       ]
     },
     {
+      "path": "_news/2023-05-03-a-world-of-mobile-speech-recognition-software-market-insights-2023-2030-at-your-fingertips.md",
+      "title": "A world of Mobile Speech Recognition Software Market Insights 2023-2030 at your fingertips.",
+      "excerpt": "The \"Mobile Speech Recognition Software Market\" study delves into the evolution of the technology industry and",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/a-world-of-mobile-speech-recognition-software-market-insights-2023-2030-at-your-fingertips-2023-05-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/a-world-of-mobile-speech-recognition-software-market-insights-2023-2030-at-your-fingertips-2023-05-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-02T21:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-03-automated-machine-learning-automl-market-analysis-and-forecast-to-2031.md",
       "title": "Automated Machine Learning (AutoML) Market Analysis and Forecast to 2031",
       "excerpt": "May 03, 2023 (The Expresswire) -- \"Automated Machine Learning (AutoML) Market\" is expected to witness significant growth in the coming years,",
@@ -166,7 +424,7 @@
       "originalUrl": "https://www.technologyreview.com/2023/05/01/1072478/deep-learning-pioneer-geoffrey-hinton-quits-google/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -209,7 +467,7 @@
       "originalUrl": "https://www.nbcnews.com/news/writers-strike-2023-hollywood-screenwriters-ai-concerns-rcna82543",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -400,7 +658,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2023/05/ai-generated-beer-commercial-contains-joyful-monstrosities-goes-viral/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -958,265 +1216,6 @@
       "ampWebUrl": "https://venturebeat.com/ai/92-of-businesses-use-ai-driven-personalization-but-consumer-confidence-is-divided/amp/",
       "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/92-of-businesses-use-ai-driven-personalization-but-consumer-confidence-is-divided/amp/",
       "publishedDateTime": "2023-05-02T08:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-new-relic-launches-grok-its-ai-observability-assistant.md",
-      "title": "New Relic launches Grok, its AI observability assistant",
-      "excerpt": "New Relic introduces Grok, its generative AI assistant for observability, simplifying data analysis and task management for engineers.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/05/02/new-relic-launches-grok-its-ai-observability-assistant/",
-      "originalUrl": "https://techcrunch.com/2023/05/02/new-relic-launches-grok-its-ai-observability-assistant/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2015/11/new_relic_disrupt_afterparty.jpg?resize=1200,645",
-          "width": 1200,
-          "height": 645,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/05/02/new-relic-launches-grok-its-ai-observability-assistant/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/02/new-relic-launches-grok-its-ai-observability-assistant/amp/",
-      "publishedDateTime": "2023-05-02T07:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-see-the-14-slide-presentation-an-ai-powered-startup-used-to-raise-25-million-to-upend-pharmaceutical-marketing.md",
-      "title": "See the 14-slide presentation an AI-powered startup used to raise $25 million to upend pharmaceutical marketing",
-      "excerpt": "Drug commercialization and marketing together are an expensive and labor-intensive process. Odaia is looking to change that through AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/odaia-pitch-deck-series-b-pharmaceutical-marketing-startup-2023-4",
-      "originalUrl": "https://www.businessinsider.com/odaia-pitch-deck-series-b-pharmaceutical-marketing-startup-2023-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64502ae2d40a8d0018fb53b6?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-02T07:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-how-will-ai-impact-the-jobs-of-digital-marketers.md",
-      "title": "How Will AI Impact The Jobs Of Digital Marketers?",
-      "excerpt": "AI can automate certain tasks and processes, but it cannot replicate the creativity, intuition and unique perspective that individual marketers bring to their work.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/02/how-will-ai-impact-the-jobs-of-digital-marketers/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/02/how-will-ai-impact-the-jobs-of-digital-marketers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f9ae2a9fdf0fd5f1e0ffee3/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/02/how-will-ai-impact-the-jobs-of-digital-marketers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/05/02/how-will-ai-impact-the-jobs-of-digital-marketers/amp/",
-      "publishedDateTime": "2023-05-02T07:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-botkeeper-operating-system-bos-awarded-for-artificial-intelligence-machine-learning-solution.md",
-      "title": "Botkeeper Operating System (BOS) Awarded for Artificial Intelligence / Machine Learning Solution",
-      "excerpt": "The Botkeeper Operating System (BOS) is designed to ease capacity issues by automating the bookkeeping work that slows firms down and deprives their growing advisory service practices of needed resources.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/botkeeper-operating-system-bos-awarded-for-artificial-intelligence-machine-learning-solution-1032281956",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/botkeeper-operating-system-bos-awarded-for-artificial-intelligence-machine-learning-solution-1032281956",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2066404/Botkeeper_Bronze_Winner.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-02T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-atari-and-anima-turn-classic-arcade-game-characters-into-ar-and-ai-onlybots.md",
-      "title": "Atari and Anima turn classic arcade game characters into AR and AI Onlybots",
-      "excerpt": "Gaming companies Atari and Anima have joined forces to bring iconic Atari characters into Anima's Onlybots AI and augmented reality universe.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/atari-and-anima-team-up-to-talk-to-the-classics-in-onlybots/",
-      "originalUrl": "https://venturebeat.com/games/atari-and-anima-team-up-to-talk-to-the-classics-in-onlybots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/05/Atari-x-Onlybots.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 681,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/games/atari-and-anima-team-up-to-talk-to-the-classics-in-onlybots/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/atari-and-anima-team-up-to-talk-to-the-classics-in-onlybots/amp/",
-      "publishedDateTime": "2023-05-02T06:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",

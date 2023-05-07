@@ -809,6 +809,40 @@
       ]
     },
     {
+      "path": "_news/2023-04-17-computer-vision-ip-listing.md",
+      "title": "Computer vision IP Listing",
+      "excerpt": "CEVA-XM6 is the 5th generation imaging and computer vision processor IP from CEVA, designed to bring deep learning and artificial intelligence capabilities to low-power embedded systems, targeting ... NeuPro-S™ is a low power AI processor architecture ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.design-reuse.com/sip/?q=computer+vision",
+      "originalUrl": "https://www.design-reuse.com/sip/?q=computer+vision",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-16T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design-Reuse",
+        "domain": "design-reuse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-16-financial-institutions-directed-to-adopt-facial-recognition-feature.md",
       "title": "Financial institutions directed to adopt facial recognition feature",
       "excerpt": "According to the central bank, the measures require commercial banks and microfinance banks (MFBs) to implement a combination of at least two controls, such as facial recognition, in-app live original identity document verification, in-app live picture verification, and call-back verification.",
@@ -1272,49 +1306,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-07-global-computer-vision-system-market-2023-2030-an-in-depth-analysis-on-industry.md",
-      "title": "Global Computer Vision System Market [2023-2030] | An In-Depth Analysis on Industry",
-      "excerpt": "The Global Computer Vision System Market is Forecasted to Reach a Multimillion-Dollar Valuation by 2030, Exhibiting",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-computer-vision-system-market-2023-2030-an-in-depth-analysis-on-industry-2023-04-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-computer-vision-system-market-2023-2030-an-in-depth-analysis-on-industry-2023-04-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-07T02:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

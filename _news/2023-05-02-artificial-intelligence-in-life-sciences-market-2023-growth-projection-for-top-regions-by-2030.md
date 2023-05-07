@@ -22,38 +22,29 @@ topics:
   - AI
 
 related:
-  - title: "AI in Computer Vision Market (2023-2031) Players Launches Revolutionary Product Line in Coming Years"
-    excerpt: "Global AI in Computer Vision Market research report offers an In-depth analysis of valuable insight into the market"
-    publishedDateTime: 2023-05-02T06:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2023-2031-players-launches-revolutionary-product-line-in-coming-years-2023-05-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Machine Learning Operations (MLOps) Market (2023-2030) Research Firm Explained New Regions Growth"
-    excerpt: "Latest Report of Machine Learning Operations (MLOps) Market 2023 MLOps is the process of taking an experimental Machine Learning model into a production system. The word is a compound of âMachine Learningâ and the continuous development practice of DevOps in the software field."
-    publishedDateTime: 2023-05-05T06:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-operations-mlops-market-2023-2030-research-firm-explained-new-regions-growth-2023-05-05"
+  - title: "2023 \"Computer Vision Market\" SWOT Analysis and Regional Growth Prospect 2030"
+    excerpt: "May 05, 2023 (The Expresswire) -- \"Computer Vision Market\" information for each competitor includes (Microsoft Corporation, Cognex Corporation, Autoliv"
+    publishedDateTime: 2023-05-05T16:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-computer-vision-market-swot-analysis-and-regional-growth-prospect-2030-2023-05-05"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
     quality: 66
-  - title: "Automatic Speech Recognition Market Trends [2023-2030] | Booming Industry Globally"
-    excerpt: "GlobalAutomatic Speech Recognition Market[2023-2030] research report is a compilation of information and analysis"
-    publishedDateTime: 2023-05-03T09:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-market-trends-2023-2030-booming-industry-globally-2023-05-03"
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Computer Vision in Automation Market Growth, Business Overview 2023, and Forecast to 2030 | Intel Corporation, Apple Inc., Cognex Corporation"
+    excerpt: "The Computer Vision in Automation Market studies predominant aim is to collect the maximum useful insights for any"
+    publishedDateTime: 2023-05-02T07:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-automation-market-growth-business-overview-2023-and-forecast-to-2030-intel-corporation-apple-inc-cognex-corporation-2023-05-02"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 43
+    quality: 14
 
 secured: "VwP2pKwTOp+f8PR04LzAov25vJ9CS2Oz+J89QcDsrGvbeBj1QLPMlhgZaGKsHCSL7gwGaeQHpUSjgczFYet26j0zLqRDUBAS3ndpdM+AUTVjG8fc72Q9Vo0x4PdCKr1TpjDiZ38Zg8kTe9bHVYuZbDc9RPmU5N0i3t6Yr/LatI82pdg2eEYt/HtJ+Ld0qauuOGnjfyvSxsYUsMnwjQ8fQKDqUmsbzGu4X0ALZSWeBDCAg5Vx/1RZu+sBkUSMqotB1EEKO7Ro0LmBrT1TX93DiKkeEyazCw5DHHVB+nHoivxmsbRfY8dtZ/i9fKDVY2szSsvbTVuM+CVrS2eMan01VN3A8tqGeoF+luHRsB3u+6U=;vhyYJHpqO7UcZQrdkV/M4w=="
 ---

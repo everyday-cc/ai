@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/2023-computer-vision-mar
 webUrl: "https://www.marketwatch.com/press-release/2023-computer-vision-market-swot-analysis-and-regional-growth-prospect-2030-2023-05-05"
 type: article
 quality: 66
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -29,6 +29,15 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence in Life Sciences Market 2023: Growth Projection for Top Regions by 2030"
+    excerpt: "May 02, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The Artificial Intelligence in"
+    publishedDateTime: 2023-05-02T08:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-life-sciences-market-2023-growth-projection-for-top-regions-by-2030-2023-05-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
   - title: "Computer Vision in Automation Market Growth, Business Overview 2023, and Forecast to 2030 | Intel Corporation, Apple Inc., Cognex Corporation"
     excerpt: "The Computer Vision in Automation Market studies predominant aim is to collect the maximum useful insights for any"
     publishedDateTime: 2023-05-02T07:36:00Z

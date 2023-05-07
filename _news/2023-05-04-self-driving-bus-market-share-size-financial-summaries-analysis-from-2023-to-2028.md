@@ -119,15 +119,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 35
-  - title: "Self-driving Forklift Market 2023 Growth Status and Outlook for 2030"
-    excerpt: "Additionally, the report provides up-to-date information on the market and identifies growth opportunities for the Self-driving Forklift market. With a detailed market outlook, definition of the industry,"
-    publishedDateTime: 2023-05-02T06:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-forklift-market-2023-growth-status-and-outlook-for-2030-2023-05-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
   - title: "L1 Self-driving Vehicle Market Predicted to Grow Massive in Future During 2023-2030"
     excerpt: "May 04, 2023 (The Expresswire) -- The following is a synopsis of a market research report on the L1 Self-driving Vehicle Market research report provides an extensive analysis of current and forthcoming industry trends. The report enables readers to ..."
     publishedDateTime: 2023-05-04T17:59:00Z

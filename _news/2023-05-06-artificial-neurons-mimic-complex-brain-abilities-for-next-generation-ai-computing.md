@@ -52,6 +52,20 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 47
+  - title: "3 viral AI-generated TV commercials that will haunt your nightmares"
+    excerpt: "You can use various AI products to create TV commercials, but the results will probably haunt your dreams - here are three such examples."
+    publishedDateTime: 2023-05-06T22:15:00Z
+    webUrl: "https://bgr.com/tech/3-viral-ai-generated-tv-commercials-that-will-haunt-your-nightmares/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 37
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/01/rsz_adobestock_386078374.jpg?quality=82&strip=all"
+        width: 2750
+        height: 1834
+        isCached: true
 
 secured: "eVu71D8+EAvkrCOC58mXhPxaNMQpPGCYnadz+PQR/vi5pTX1B42D2+mRwQS+EP6PtzUn0l0jEvk/oW8Qxc3K4V1PB2WViBbflLof1j4I/fy4+Ryf0nbttmXjIVuZbCzsrLVcF/6onScnvcin75v2rkKpyn8OSWX/QHWJnAyXnS2xnfsy9xBDvl/fNqa4dmTlbe7DXLKuO0Ni0ZIrKnyg8D/S75siADf513oGzAGTplBPtJpcoXQkU6tpWKQHgr0qHynjnCZRWCQeHt88Aj9b68aK0auevrKli/ai+UZEiTTDzsA2AihkcQ+VJWyXdsW8QBjKduAq72tWVONLc+v2Qi+sNqpFQbrm8oSehObrfP4Ru6fqEoNyPGRC7cC4TukiDzJ5mCcY+74aAxtiamRVTks6XChRrC72lI+91AjURQwxQ1+UCzjSjyqu9zmNgQXov2cM9n5RsMK4e0wWTgbtcLteow0Azd72FemAYxVD8mECNwnvZKDubVWqUqZzGFrxQJPGh75jbUmP7RATIxr1TQ==;ktZosFFFRO/Ku2jkYGmDEA=="
 ---

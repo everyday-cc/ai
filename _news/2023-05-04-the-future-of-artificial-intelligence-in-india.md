@@ -71,15 +71,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "What’s inside Box? More generative AI"
-    excerpt: "Box expands its enterprise content cloud with Box AI, generative AI that more intuitively understands and creates new enterprise content."
-    publishedDateTime: 2023-05-02T12:00:00Z
-    webUrl: "https://venturebeat.com/ai/whats-inside-box-more-generative-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
   - title: "Cognizant CEO: ‘Generative AI Will Revolutionize The Technology Services Industry’"
     excerpt: "Ravi Kumar, who joined Cognizant as CEO in January after 20 years at rival India-based global IT services and consulting firm Infosys, Wednesday told financial analysts at the Teaneck, N.J.-based company’s fiscal first-quarter 2023 financial conference ..."
     publishedDateTime: 2023-05-04T19:00:00Z

@@ -46,20 +46,6 @@ related:
         width: 1400
         height: 788
         isCached: true
-  - title: "Like it or not, Bing AI is now on your Galaxy phone"
-    excerpt: "Microsoft has announced that Bing AI integration is coming to the pre-installed SwiftKey keyboard app on Samsung Galaxy phones."
-    publishedDateTime: 2023-05-02T05:50:00Z
-    webUrl: "https://www.androidauthority.com/bing-ai-swiftkey-galaxy-phones-3319358/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 67
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2023/04/Bing-Chat-in-Swiftkey-keyboard-app-scaled.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "nhMI+clxPyl//juW4oJ4J1D/za+Q4WhUSPZE5by/Hd1xNCz+g3b9gnb1f8sMDCuPO+SoYwVMtNR8bRt5PGFV7t0HzCqJMKJyJkZRQGfLYnkvbo81m2nXijM9qs8F+UebGp6dWr1fF5/Ue7q4jxODd9ccAdxlfSrmksKFT9NpE4iV8sX6w0zfoKz7KCWp5cDlOUf+FpzZ26si/N+g22ui6GPKfWCfyE6l4HLEUazUivOlDM9fk+pF2wia6c+v0LwhAqUg/e5lOR17BLnqlijl14REipfHDFY4ZMtexHL2gyJSkqHm98JS2M5rDFXloj+UhjQd39YocSlTwTqNAGx43tzy+q4tvI+lX+j4kcWhi2Zk+FlOWyqHKa9tDJoSXblV2BtbQtoZUvuskfWGmBfT8c6EGSW8mVdauZZ5BB3x91b5QgAxBDgfU5YqBv1fSJ46GZ52/lOReZNi6ThoxwfUJd53Sf2DYlkbFbC8Kb/H+0sjIg4ON5SPWaMGNmVb05K0O1pZLyj43VLItEKps8BIkQ==;XFGGFtMRzgmki6lkXrSd8w=="
 ---

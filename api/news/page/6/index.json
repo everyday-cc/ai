@@ -2,21 +2,21 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2023-05-02-sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions.md",
-      "title": "SAP to Embed IBM Watson Artificial Intelligence into SAP® Solutions",
-      "excerpt": "SAP to Embed IBM Watson Artificial Intelligence into SAP® Solutions May 02, 2023 (PRNewswire via COMTEX) -- PR Newswire WALLDORF, Germany and ARMONK,",
+      "path": "_news/2023-05-02-new-relic-launches-grok-its-ai-observability-assistant.md",
+      "title": "New Relic launches Grok, its AI observability assistant",
+      "excerpt": "New Relic introduces Grok, its generative AI assistant for observability, simplifying data analysis and task management for engineers.",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions-2023-05-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions-2023-05-02",
+      "webUrl": "https://techcrunch.com/2023/05/02/new-relic-launches-grok-its-ai-observability-assistant/",
+      "originalUrl": "https://techcrunch.com/2023/05/02/new-relic-launches-grok-its-ai-observability-assistant/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 119,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "url": "https://techcrunch.com/wp-content/uploads/2015/11/new_relic_disrupt_afterparty.jpg?resize=1200,645",
           "width": 1200,
-          "height": 630,
+          "height": 645,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-02T06:00:00-07:00",
+      "ampWebUrl": "https://techcrunch.com/2023/05/02/new-relic-launches-grok-its-ai-observability-assistant/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/02/new-relic-launches-grok-its-ai-observability-assistant/amp/",
+      "publishedDateTime": "2023-05-02T07:55:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -49,8 +49,310 @@
         "news"
       ],
       "topics": [
-        "IBM AI",
+        "Natural Language Processing",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-02-see-the-14-slide-presentation-an-ai-powered-startup-used-to-raise-25-million-to-upend-pharmaceutical-marketing.md",
+      "title": "See the 14-slide presentation an AI-powered startup used to raise $25 million to upend pharmaceutical marketing",
+      "excerpt": "Drug commercialization and marketing together are an expensive and labor-intensive process. Odaia is looking to change that through AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/odaia-pitch-deck-series-b-pharmaceutical-marketing-startup-2023-4",
+      "originalUrl": "https://www.businessinsider.com/odaia-pitch-deck-series-b-pharmaceutical-marketing-startup-2023-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64502ae2d40a8d0018fb53b6?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-02T07:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2023-05-02-how-will-ai-impact-the-jobs-of-digital-marketers.md",
+      "title": "How Will AI Impact The Jobs Of Digital Marketers?",
+      "excerpt": "AI can automate certain tasks and processes, but it cannot replicate the creativity, intuition and unique perspective that individual marketers bring to their work.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/02/how-will-ai-impact-the-jobs-of-digital-marketers/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/02/how-will-ai-impact-the-jobs-of-digital-marketers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f9ae2a9fdf0fd5f1e0ffee3/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/02/how-will-ai-impact-the-jobs-of-digital-marketers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/05/02/how-will-ai-impact-the-jobs-of-digital-marketers/amp/",
+      "publishedDateTime": "2023-05-02T07:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-02-neuroscientists-decode-human-thoughts-with-brain-scans-and-artificial-intelligence-heres-the-science-behind-it.md",
+      "title": "Neuroscientists Decode Human Thoughts With Brain Scans And Artificial Intelligence, Here’s The Science Behind It",
+      "excerpt": "People with disabilities, such as those who have had strokes or have amyotrophic lateral sclerosis, who are unable to speak or communicate in any other way could benefit from this technology.",
+      "sourceUrl": null,
+      "webUrl": "https://in.mashable.com/tech/51886/neuroscientists-decode-human-thoughts-with-brain-scans-and-artificial-intelligence-heres-the-science",
+      "originalUrl": "https://in.mashable.com/tech/51886/neuroscientists-decode-human-thoughts-with-brain-scans-and-artificial-intelligence-heres-the-science",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/mashable_in/seo/5/52604/52604_v9mg.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-02T07:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "in.mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-02-botkeeper-operating-system-bos-awarded-for-artificial-intelligence-machine-learning-solution.md",
+      "title": "Botkeeper Operating System (BOS) Awarded for Artificial Intelligence / Machine Learning Solution",
+      "excerpt": "The Botkeeper Operating System (BOS) is designed to ease capacity issues by automating the bookkeeping work that slows firms down and deprives their growing advisory service practices of needed resources.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/botkeeper-operating-system-bos-awarded-for-artificial-intelligence-machine-learning-solution-1032281956",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/botkeeper-operating-system-bos-awarded-for-artificial-intelligence-machine-learning-solution-1032281956",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2066404/Botkeeper_Bronze_Winner.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-02T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-02-atari-and-anima-turn-classic-arcade-game-characters-into-ar-and-ai-onlybots.md",
+      "title": "Atari and Anima turn classic arcade game characters into AR and AI Onlybots",
+      "excerpt": "Gaming companies Atari and Anima have joined forces to bring iconic Atari characters into Anima's Onlybots AI and augmented reality universe.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/games/atari-and-anima-team-up-to-talk-to-the-classics-in-onlybots/",
+      "originalUrl": "https://venturebeat.com/games/atari-and-anima-team-up-to-talk-to-the-classics-in-onlybots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/Atari-x-Onlybots.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 681,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/games/atari-and-anima-team-up-to-talk-to-the-classics-in-onlybots/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/atari-and-anima-team-up-to-talk-to-the-classics-in-onlybots/amp/",
+      "publishedDateTime": "2023-05-02T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-02-generative-ai-wont-take-off-without-6g.md",
+      "title": "Generative AI Won’t Take Off Without 6G",
+      "excerpt": "Although the sixth generation of broadband internet and mobile technology won’t emerge widely for a number of years, organizations are exploring business innovations for a more intelligent, immersive world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sap/2023/05/02/generative-ai-wont-take-off-without-6g/",
+      "originalUrl": "https://www.forbes.com/sites/sap/2023/05/02/generative-ai-wont-take-off-without-6g/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64248ed36d63fa962ef43b0c/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sap/2023/05/02/generative-ai-wont-take-off-without-6g/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2023/05/02/generative-ai-wont-take-off-without-6g/amp/",
+      "publishedDateTime": "2023-05-02T05:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -114,7 +416,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/02/how-businesses-can-manage-user-generated-content-with-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 167,
+      "heat": 157,
       "tags": null,
       "images": [
         {
@@ -666,6 +968,49 @@
       ]
     },
     {
+      "path": "_news/2023-05-02-ai-chatbot-outperforms-human-doctors-in-responding-to-patient-questions.md",
+      "title": "AI chatbot outperforms human doctors in responding to patient questions",
+      "excerpt": "An artificial intelligence chatbot was able ... presented a team of licensed health care professionals with responses to 195 randomly drawn patient questions. The evaluators determined that ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/policy/technology/3982046-ai-chatbot-outperforms-human-doctors-in-responding-to-patient-questions/",
+      "originalUrl": "https://thehill.com/policy/technology/3982046-ai-chatbot-outperforms-human-doctors-in-responding-to-patient-questions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/wp-content/uploads/sites/2/2022/11/laptop-doctor_042822istock_cyber-health-care.jpg?w=1280",
+          "width": 1280,
+          "height": 719,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/policy/technology/3982046-ai-chatbot-outperforms-human-doctors-in-responding-to-patient-questions/amp/",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/3982046-ai-chatbot-outperforms-human-doctors-in-responding-to-patient-questions/amp/",
+      "publishedDateTime": "2023-05-01T19:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-02-ai-trailers-are-extremely-funny-abominations-for-now.md",
       "title": "AI Trailers Are Extremely Funny Abominations. For Now",
       "excerpt": "This hellish atrocity I've just described is an AI generated trailer, designed to show the capabilities of AI created content. It is, in no uncertain terms, an abomination. It's also extremely funny.",
@@ -897,368 +1242,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-ai-plus-mri-yields-the-ability-to-recognize-what-the-mind-is-hearing.md",
-      "title": "AI plus MRI yields the ability to recognize what the mind is hearing",
-      "excerpt": "Combined with a detailed knowledge of which regions of the brain are involved in specific processes, we've been able to do remarkable things, such as using functional MRI (fMRI) to determine what letter a person was looking at or an implant to control a robotic arm But today,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/science/2023/05/ai-plus-mri-yields-the-ability-to-recognize-what-the-mind-is-hearing/",
-      "originalUrl": "https://arstechnica.com/science/2023/05/ai-plus-mri-yields-the-ability-to-recognize-what-the-mind-is-hearing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/GettyImages-172591385-e1682975888203-800x716.jpg",
-          "width": 800,
-          "height": 716,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/science/2023/05/ai-plus-mri-yields-the-ability-to-recognize-what-the-mind-is-hearing/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/science/2023/05/ai-plus-mri-yields-the-ability-to-recognize-what-the-mind-is-hearing/amp/",
-      "publishedDateTime": "2023-05-01T14:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-why-growth-mindset-is-needed-with-ai-10-examples-of-carol-dwecks-principles-for-an-existential-moment.md",
-      "title": "Why Growth Mindset Is Needed With AI – 10 Examples of Carol Dweck’s Principles for an Existential Moment",
-      "excerpt": "The truth of AI is that it is an uncomfortable combination of the virtual and digital experience with our physical worlds. The application of AI could well be dangerous, like the new movie, The Artifice Girl.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/michaelgale/2023/05/01/why-growth-mindset-is-needed-with-ai--10-examples-of-carol-dwecks-principles-for-an-existential-moment/",
-      "originalUrl": "https://www.forbes.com/sites/michaelgale/2023/05/01/why-growth-mindset-is-needed-with-ai--10-examples-of-carol-dwecks-principles-for-an-existential-moment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/645031690648d141fdba8ca9/0x0.jpg?format=jpg&crop=2887,1625,x0,y298,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/michaelgale/2023/05/01/why-growth-mindset-is-needed-with-ai--10-examples-of-carol-dwecks-principles-for-an-existential-moment/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelgale/2023/05/01/why-growth-mindset-is-needed-with-ai--10-examples-of-carol-dwecks-principles-for-an-existential-moment/amp/",
-      "publishedDateTime": "2023-05-01T14:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-stone-hearted-researchers-gleefully-push-over-adorable-soccer-playing-robots.md",
-      "title": "Stone-hearted researchers gleefully push over adorable soccer-playing robots",
-      "excerpt": "On Wednesday, researchers from DeepMind released a paper ostensibly about using deep reinforcement learning to train miniature humanoid robots in complex movement skills and strategic understanding, resulting in efficient performance in a simulated one-on-one soccer game.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/05/stone-hearted-researchers-gleefully-push-over-adorable-soccer-playing-robots/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/05/stone-hearted-researchers-gleefully-push-over-adorable-soccer-playing-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/robot_pushing_hero-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/05/stone-hearted-researchers-gleefully-push-over-adorable-soccer-playing-robots/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/05/stone-hearted-researchers-gleefully-push-over-adorable-soccer-playing-robots/amp/",
-      "publishedDateTime": "2023-05-01T14:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot.md",
-      "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
-      "excerpt": "Here's a guide to help understand Open AI's viral text-generating system. We outline the most recent updates and answer the most common FAQs.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/05/01/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/",
-      "originalUrl": "https://techcrunch.com/2023/05/01/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 459,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/05/01/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/01/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/",
-      "publishedDateTime": "2023-05-01T13:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-the-godfather-of-ai-quit-google-and-says-he-now-regrets-his-role-creating-technology-that-poses-a-threat-to-humanity.md",
-      "title": "The 'Godfather of AI' quit Google — and says he now regrets his role creating technology that poses a threat to humanity",
-      "excerpt": "Employees who spoke with Bloomberg said they thought Google wasn't prioritizing AI ethics, and trying to develop the tech quickly to catch up to OpenAI's ChatGPT. Two employees tried to stop the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/geoffrey-hinton-godfather-of-ai-quits-google-sounds-alarm-chatbots-2023-5",
-      "originalUrl": "https://www.businessinsider.com/geoffrey-hinton-godfather-of-ai-quits-google-sounds-alarm-chatbots-2023-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/644fe1b9da6d7b0019bdca65?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/geoffrey-hinton-godfather-of-ai-quits-google-sounds-alarm-chatbots-2023-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/geoffrey-hinton-godfather-of-ai-quits-google-sounds-alarm-chatbots-2023-5?amp",
-      "publishedDateTime": "2023-05-01T13:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-buy-this-not-that-battle-of-the-real-ai-stars.md",
-      "title": "Buy This, Not That: Battle of the ‘Real’ AI Stars",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Just a few years ago, AI and hyperintelligent machines were the sole province",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/buy-this-not-that-ai-stars-1032279362",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/buy-this-not-that-ai-stars-1032279362",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2023/05/picture4.png",
-          "width": 450,
-          "height": 411,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-01T13:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-grammarlys-new-ai-tool-is-available-in-beta-now.md",
-      "title": "Grammarly's New AI Tool Is Available in Beta Now",
-      "excerpt": "Grammarly, the company behind the digital writing assistant of the same name, is expanding its artificial intelligence resources with a new generative AI tool called GrammarlyGo. The company said the new tool is intended to improve communication,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/services-and-software/grammarlys-new-ai-tool-is-available-in-beta-now/",
-      "originalUrl": "https://www.cnet.com/tech/services-and-software/grammarlys-new-ai-tool-is-available-in-beta-now/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/e794683b92464d6ede33eb923ac1b8f19fc866b7/hub/2022/08/11/6499c375-fdb3-4574-a385-392a997b7a02/open-graph-image-newfunnel.png?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/grammarlys-new-ai-tool-is-available-in-beta-now/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/grammarlys-new-ai-tool-is-available-in-beta-now/",
-      "publishedDateTime": "2023-05-01T13:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -73,20 +73,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "IBM to pause hiring for jobs that artificial intelligence could do"
-    excerpt: "IBM chief executive Arvind Krishna said the company expects to pause hiring for roles it thinks could be replaced with artificial intelligence in the coming years."
-    publishedDateTime: 2023-05-02T06:43:00Z
-    webUrl: "https://www.scmp.com/tech/big-tech/article/3219094/ibm-pause-hiring-jobs-artificial-intelligence-could-do"
-    type: article
-    provider:
-      name: scmp.com
-      domain: scmp.com
-    quality: 69
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/05/02/d1a181a3-42dc-45a7-91a4-0b0de0b0bd96_1d4abd40.jpg?itok=C_ugnNWK&v=1683001304"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "IBM Plans to Replace 7,800 Jobs With AI"
     excerpt: "The company will pause hiring soon, and expects up to 30% of non-customer-facing roles will be replaced by automation in the next five years."
     publishedDateTime: 2023-05-02T14:57:00Z
@@ -142,29 +128,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 37
-  - title: "Artificial Intelligence To Replace 30 Per Cent Of IBM's Non-Customer-Facing Roles In Five Years"
-    excerpt: "Approximately 26,000 workers in non-customer-facing roles, including human resources, will experience a hiring freeze or reduced hiring, according to Krishna, reports Bloomberg. “I could easily see 30 per cent of that getting replaced by AI and automation over a five-year period,"
-    publishedDateTime: 2023-05-02T05:22:00Z
-    webUrl: "https://swarajyamag.com/business/artificial-intelligence-to-replace-30-per-cent-of-ibms-non-customer-facing-roles-in-five-years"
-    type: article
-    provider:
-      name: Swarajya
-      domain: swarajyamag.com
-    quality: 27
-    images:
-      - url: "https://gumlet.assettype.com/swarajya%2F2019-11%2Fc00b7e18-090d-4c68-93ed-27a5c118333e%2F640px_IBM_Bangalore_Manyata_2.jpg?w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 640
-        height: 427
-        isCached: true
-  - title: "IBM pauses hiring, plans to replace 7800 jobs with AI"
-    excerpt: "IBM chief Arvind Krishna mentioned back-office roles, including human resources, which currently consist of approximately 26,000 workers. IBM pauses hiring, plans to replace 7800 jobs with AI. AI, Artificial Intelligence,"
-    publishedDateTime: 2023-05-02T06:42:00Z
-    webUrl: "https://www.itp.net/business/ibm-pauses-hiring-plans-to-replace-7800-jobs-with-ai"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 19
   - title: "IBM eyes hiring pause because AI does the job"
     excerpt: "Non-customer-facing roles may see a 30 percent cut in workforce, replaced by AI and automation, Arvind Krishna said."
     publishedDateTime: 2023-05-04T12:07:00Z

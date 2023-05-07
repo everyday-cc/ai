@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-marketing-market-futu
 webUrl: "https://www.marketwatch.com/press-release/ai-marketing-market-future-growth-and-business-opportunities-2023-updated-report-2023-05-05"
 type: article
 quality: 80
-heat: 220
+heat: 210
 published: true
 
 provider:
@@ -138,20 +138,6 @@ related:
       - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/challenges-opportunities-artificial-intelligence-showcase_image-9-a-21768.jpg"
         width: 860
         height: 520
-        isCached: true
-  - title: "Machine Learning in Communication Market 2023 [Latest Report] Size is Expected to Grow at a Phenomenal CAGR till 2030 | 128 Pages Report"
-    excerpt: "The Machine Learning in Communication Market Scope and Overview Report for 2023 presents a detailed analysis of the"
-    publishedDateTime: 2023-05-02T05:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-communication-market-2023-latest-report-size-is-expected-to-grow-at-a-phenomenal-cagr-till-2030-128-pages-report-2023-05-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Artificial Intelligence in Building Market Size and Value: In-Depth Research Report, and possible growth directions of 12.7% CAGR from 2023-2030"
     excerpt: "The \"Artificial Intelligence in Building Market\" is segmented into regions, Applications, and Types. The report presents the research and analysis provided within the Artificial Intelligence in Building Market Research is meant to benefit stakeholders,"
