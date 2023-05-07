@@ -64,20 +64,6 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 49
-  - title: "FTC attorney says agency concerned with generative AI use"
-    excerpt: "Companies developing novel artificial intelligence (AI) tools might want to think carefully before laying off ethics personnel, an attorney with the Federal Trade Commission (FTC) warned. The agency is closely tracking company use of AI tools for possible ..."
-    publishedDateTime: 2023-05-02T19:34:00Z
-    webUrl: "https://www.complianceweek.com/regulatory-policy/ftc-attorney-says-agency-concerned-with-generative-ai-use/33027.article"
-    type: article
-    provider:
-      name: Compliance Week
-      domain: complianceweek.com
-    quality: 39
-    images:
-      - url: "https://d6jxgaftxvagq.cloudfront.net/Pictures/1024x536/8/9/1/16891_artificialintelligenceethics_852683.jpg"
-        width: 1024
-        height: 536
-        isCached: true
 
 secured: "xyDAjKooZK/djAuRHkW6HnLr/haq5OeXIhJmTP45UKdoULBX2Lemj+6nwgyY8+xDIXwj1nPLQiqy3Klhx/QjIKNxrxmg0Lfau+aq1Y2or5Z4nNOvi5Tcal3ziVbBqHvNDvikjpIeaCjHgTfp8I2ETrwS69rQ5WuqXeCrGoClvGyr1DmsjwAIlfJ/1PrehZlxJ5MYvlXAgW7Z5eofN4o/eORpLxgGWh7gIN971qwp0srEariivWqjd6mns/24in6WZmBSXqxk6WKIRyJ175BfIfqv6D2AHlHsBPmC9URHoZb2dybn/9sxOzO/Lg4/en6c1fN8WMHLX/c3bZwg7cPE3XJLI1aQe8iNzqj+Sd8JVGM=;p17dZok9m9b3TYv3bDRCaQ=="
 ---

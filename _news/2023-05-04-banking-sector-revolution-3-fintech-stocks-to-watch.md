@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "How One Fintech Startup Wants to Combat Money Laundering"
-    excerpt: "Fintech startup Kyros introduces a complete cloud-based solution for combatting money laundering and financial crimes with AI analysis and third-party sources, simplifying the process of onboarding an"
-    publishedDateTime: 2023-05-02T19:49:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/05/ab32171324/how-one-fintech-startup-wants-to-combat-money-laundering"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32171324"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32171324"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 44
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "How ‘voice to cart’ is revolutionising retail"
     excerpt: "Perhaps the most significant limitation of voice technology in retail is the accuracy of voice recognition. Accurately interpreting voice commands can be tricky, especially when dealing with regional accents and dialects."
     publishedDateTime: 2023-05-06T05:30:00Z

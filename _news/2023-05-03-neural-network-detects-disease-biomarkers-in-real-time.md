@@ -7,7 +7,7 @@ originalUrl: "https://www.technologynetworks.com/informatics/news/neural-network
 webUrl: "https://www.technologynetworks.com/informatics/news/neural-network-detects-disease-biomarkers-in-real-time-372867"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - Machine Learning
   - AI
-
-related:
-  - title: "Deep neural network provides robust detection of disease biomarkers in real time"
-    excerpt: "A lab has developed a deep neural network that improves the accuracy of their unique devices for detecting pathogen biomarkers."
-    publishedDateTime: 2023-05-02T20:57:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2023/05/230502155410.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 44
 
 secured: "/Ca7RoBW/K1UAx+YxNj6ySTAXzXZF0lCI40/lqyfyKuCDU8yav77+pZF+YlrTDpkfRFbD2gNc3WFC2e0fJtZ0ZIS9pO/1ssPQqF0f56HtP4imi5MPJISPiUy+xkPquajKm17jLf243vs7ef5MKreXFcSf0OBh57DUnboXXR7B61NFpZILVoOw3PtWi26mcnsGrrdn3hvjCcMkCptLFp9rlKMQ9VMF3qtHeN9vgJlMXj/WYpGWytLgYeWwnYMr/mWxKz7+VIi1t0uJMRe5qP9bCb9MxWGGO5uw2QoTXJno2e6XATGCHCsw9CIyoT8p+nElHNdmebgoU0jmbqLPC/MRtGepHCJfH+9qsf1DSkxl1qs3nIVdRGGK385AcGfVvSFyH4+WiGi2wDg28b6EM1PDSE591s6XDuQaw9fjXBr2o8iGiVUdpSai1z1NhjLD3PTdYpYUZm1UJKOhsVNPp7ZzE05m1BoQaAg7Vqgu4F4rigSm9eKVaPvNEJV4jSv+RdQleZb8llzDa5GjgzsSeiQxg==;tIAQ6+ct4mbYCTk0OZraeQ=="
 ---

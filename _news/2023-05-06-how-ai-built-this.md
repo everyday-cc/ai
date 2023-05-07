@@ -18,22 +18,40 @@ topics:
   - AI
 
 related:
-  - title: "Is AI The History Eraser Button?"
-    excerpt: "This iconic scene from the John Krisfaluchi’s Ren and Stimpy television series epitomizes man’s duality. Do we honor nature, protect the earth and everything we love, or impulsively sacrifice ourselves to the false god of progress and the legions of unintended consequences they unleash?"
-    publishedDateTime: 2023-05-03T23:47:00Z
-    webUrl: "https://www.forbes.com/sites/charliefink/2023/05/03/is-ai-the-history-eraser-button/"
-    ampWebUrl: "https://www.forbes.com/sites/charliefink/2023/05/03/is-ai-the-history-eraser-button/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/05/03/is-ai-the-history-eraser-button/amp/"
+  - title: "A mayday call for artificial intelligence"
+    excerpt: "Was Geoffrey Hinton's (the \"godfather of AI\") resignation from Google on May Day a true mayday signal for where AI is headed?"
+    publishedDateTime: 2023-05-07T15:20:00Z
+    webUrl: "https://venturebeat.com/ai/a-mayday-call-for-artificial-intelligence/"
+    ampWebUrl: "https://venturebeat.com/ai/a-mayday-call-for-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/a-mayday-call-for-artificial-intelligence/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6452f1bd572200fb874bd1d9/0x0.jpg?format=jpg&crop=1311,738,x0,y67,safe&width=1200"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/05/annevb_yelling_into_the_darkness_for_help._Mayday._colorful_tec_0a36545d-071c-43e1-8b42-cc2ee04e5099.png?w=1200&strip=all"
         width: 1200
-        height: 676
+        height: 600
         isCached: true
+  - title: "The 3 Most Overrated AI Stocks to Sell in May"
+    excerpt: "Nvidia (NASDAQ:NVDA) is the classic example. It’s no secret that Nvidia is producing the chips and advanced engineering necessary to power the next leg of AI innovation. It will be a large and fast-growing market for the company for many years to come."
+    publishedDateTime: 2023-05-04T11:29:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-3-most-overrated-ai-stocks-to-sell-in-may-1032291727"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "Rapid growth of AI spurs calls for greater regulation"
+    excerpt: "The EU, encouraged by the European parliament, is drafting what could be the toughest rules on AI so far, with potential fines of up to €30mn or 6 per cent of global annual turnover."
+    publishedDateTime: 2023-05-03T17:15:00Z
+    webUrl: "https://www.ft.com/content/076da9e9-5dd9-4906-83cf-46fd99b2e9ca"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "F40tcGtnB1x4pZysikxojFxAeBawXQ0OyJP18xfLv8e7WVPMXI5X62Zfwlm808qVEh2Xz6zqt2a9MS04B9AZP2WOSTLE2fzbbZHPVpaVjEpHaY5lPFaiiRC9WLAXh/bLnKzn1/pVeneS4n6hqT6cUoKWXqkoqmaskVS++7vdT950RZTHulFLeZdhQBe33vOd7LKFffN0Bb+nzBJaPTVCBYcYst46OtcRjb0AfnaMFxUFuKcxjfQJQtl00sxc3UMHYrqA3+HrdGcLSjln/Kft7ZKobbyrXDrQViflVd5JRmNE1aVoellBvpgc3xuqfDxAMjvwxt5t5JvqrJ14y7f/BfGgnctKHuDT1ycrARX6hZQAve9zqn7NCrj4iLN9fYlPJatHDFvhXi+7paV0O5IEq59zX3bsvrcFNuv7pPkWKA4uZ7RhuugJ9vulSgbGwxvKx+Zir26koil4M4dTHT5ehDoed2LsWpC1NAWJUQpVaoSgpEsql2OJKLXvuRjXWY7vdtRimwFE/Y+5yiwi44pGfQ==;91SzmlG1XlKgQ2T1aPxYWw=="
 ---

@@ -34,22 +34,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "How One Fintech Startup Wants to Combat Money Laundering"
-    excerpt: "Fintech startup Kyros introduces a complete cloud-based solution for combatting money laundering and financial crimes with AI analysis and third-party sources, simplifying the process of onboarding an"
-    publishedDateTime: 2023-05-02T19:49:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/05/ab32171324/how-one-fintech-startup-wants-to-combat-money-laundering"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32171324"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32171324"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 44
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "APAC to lead global fintech market"
     excerpt: "With a projected CAGR (compound annual growth rate) of 27%, Asia Pacific (APAC) will likely outpace the United States of America to become the world’s top fintech market by 2030, according to a new report by Boston Consulting Group (BCG) and QED Investors."
     publishedDateTime: 2023-05-04T02:00:00Z

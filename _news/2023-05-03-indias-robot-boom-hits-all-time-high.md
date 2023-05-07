@@ -53,6 +53,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Robotic healing: Robot-assisted surgery on the rise in the US and India"
+    excerpt: "Jerry Ahrens visited the emergency room with a stomach ache, which turned out to be a mass on his right kidney. He needed surgery."
+    publishedDateTime: 2023-05-07T12:14:00Z
+    webUrl: "https://www.stltoday.com/lifestyles/health-med-fit/health/robotic-healing-robot-assisted-surgery-on-the-rise-in-the-us-and-india/article_e3920f4a-e9a7-11ed-9716-9b8261a7751d.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 19
 
 secured: "Y7OW+8CEsPeAUK2pAyBfsgogIMdjrejHiYCIeVgJ72rzRDekdNFyKICVo7X2jkC1uKQ4Ka51UzEsBn4oC2Gx++Wyl9o6NyxJ/JkkWLjTOfqX1wkubwxfVrX9gCxDQ6OB6nH7kP+2fsv7tufQH4gKkLHsxJx8MGC+vVsjH6rmfkxU1JTwkRV/BJr9y3Cph7xvB3X0D43LA3rYRg0a9KdN2/8b23Oi56+HbyNFqP7a1CicqDfWOCY6/L0pYJCiUx7AJE5F0UD+5sPxEZK4AXrMUXEAg+96x8nfMWoX1zpBCcjDYXUIGtW9sV6a4B2cMdiflK0APeF4j2uBWBsO69dB8meT7zRdn0u4gRPwonMkHN4=;PW+LZy+9vNG3E9EV0Rm+8Q=="
 ---

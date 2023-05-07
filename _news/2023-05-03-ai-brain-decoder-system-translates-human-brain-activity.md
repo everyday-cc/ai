@@ -51,15 +51,6 @@ related:
         width: 690
         height: 407
         isCached: true
-  - title: "UT researchers create AI system to turn brain activity into text"
-    excerpt: "The new system uses AI to translate someone’s brain activity into a stream of text while they listen to a story or imagine telling a story."
-    publishedDateTime: 2023-05-02T19:46:00Z
-    webUrl: "https://www.kxan.com/technology/ut-researchers-create-ai-system-to-turn-brain-activity-into-text/"
-    type: article
-    provider:
-      name: KXAN
-      domain: kxan.com
-    quality: 19
   - title: "UT Austin researchers create artificial intelligence system capable of reading minds"
     excerpt: "Researchers at the University of Texas at Austin have developed an artificial intelligence system that can read minds by translating a person's brain activity into a continuous stream of text. The study led by Alexander Huth,"
     publishedDateTime: 2023-05-04T19:08:00Z

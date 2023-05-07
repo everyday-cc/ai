@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/get-started-with-gen
 webUrl: "https://aws.amazon.com/blogs/machine-learning/get-started-with-generative-ai-on-aws-using-amazon-sagemaker-jumpstart/"
 type: article
 quality: 99
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -23,20 +23,6 @@ topics:
   - AWS AI
 
 related:
-  - title: "Hosting ML Models on Amazon SageMaker using Triton: XGBoost, LightGBM, and Treelite Models"
-    excerpt: "One of the most popular models available today is XGBoost. With the ability to solve various problems such as classification and regression, XGBoost has become a popular option that also falls into the category of tree-based models. In this post, we dive deep to see how Amazon SageMaker can serve these"
-    publishedDateTime: 2023-05-02T21:41:00Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/hosting-ml-models-on-amazon-sagemaker-using-triton-xgboost-lightgbm-and-treelite-models/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 96
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/02/hosting-models-on-sagemaker-1260x630.jpg"
-        width: 1260
-        height: 630
-        isCached: true
   - title: "Achieve high performance with lowest cost for generative AI inference using AWS Inferentia2 and AWS Trainium on Amazon SageMaker"
     excerpt: "The world of artificial intelligence (AI) and machine learning (ML) has been witnessing a paradigm shift with the rise of generative AI models that can create human-like text, images, code, and audio. Compared to classical ML models, generative AI models are significantly bigger and more complex. However,"
     publishedDateTime: 2023-05-04T22:10:15Z

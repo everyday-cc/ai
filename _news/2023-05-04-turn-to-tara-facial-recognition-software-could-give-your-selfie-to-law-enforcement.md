@@ -53,31 +53,6 @@ related:
         width: 954
         height: 536
         isCached: true
-  - title: "Baltimore Considers Facial Recognition Restrictions"
-    excerpt: "Proposed legislation would require the police department to get approval before acquiring any new surveillance technology and would establish an oversight board to monitor the city’s use."
-    publishedDateTime: 2023-05-02T21:08:00Z
-    webUrl: "https://www.governing.com/security/baltimore-considers-facial-recognition-restrictions"
-    ampWebUrl: "https://www.governing.com/security/baltimore-considers-facial-recognition-restrictions?_amp=true"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/baltimore-considers-facial-recognition-restrictions?_amp=true"
-    type: article
-    provider:
-      name: Governing
-      domain: governing.com
-    quality: 39
-  - title: "Cracking the Code of Sound Recognition: Machine Learning Model Reveals How Our Brains Understand Communication Sounds"
-    excerpt: "Researchers developed a machine learning model that mimics how the brains of social animals distinguish between sound categories, like mating, food or danger, and react accordingly. The algorithm helps explain how our brains recognize the meaning of communication sounds,"
-    publishedDateTime: 2023-05-02T20:05:00Z
-    webUrl: "https://neurosciencenews.com/sound-communication-ai-23156/"
-    type: article
-    provider:
-      name: Neuroscience News
-      domain: neurosciencenews.com
-    quality: 33
-    images:
-      - url: "https://neurosciencenews.com/files/2023/05/machine-learning-communication-sound-neurosinces.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "LoDb77bzuNZhgmL8r3LsDY4Mee9QtRySaHf6wCQyDmtWzMi0wi3v01WdB82ij1Zg77Z3df8aYo0SuS6Rm76QMuYWPoKIyNt6rRSqZ4CBdvpUJL6JkiUcvJm6TJIPmlD6ejlx0xpoNLJlwOJvF3kCTvk/vj0JNErCS9QY3BHOH72p1iFPZLo2U88XWDxQZArGjjmzHS/PJ9a3BoWvU+NpESGn4P/7zDwGdNJzc61gOt+9q0SD6zdDUA3TxBcC50oVcBrgYlp8d1TdrBhM3QpuzDwu7loWBc87NQ5WxGcz9YQPATJnP9j/z7SyVMEqxQETgeHEsAgt7bkqyS0tpm4pnyplYP6bISJnN42ZZmUbhhIenTBR75g26jOY7L1hHWSk2v8DgcXumKI41FdHjPxWwY6gNbAub2rfe1naGz2+EU/gmujR9Dej7mx9LjWA2rQBTHP2g9y7mYM1hC+z3XbWsttquCiPFkCEDLWkq1qoXxffNuHWxBSY6yOQ7O+CQOrEUR6E8IxJSEl/kdw4gIP+TA==;PbjzkRFOHxRjFKKO38Jq7w=="
 ---

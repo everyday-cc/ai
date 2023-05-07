@@ -2,6 +2,213 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-05-05-the-best-movies-on-amazon-prime-video-may-2023.md",
+      "title": "The best movies on Amazon Prime Video (May 2023)",
+      "excerpt": "The beginning of May marks a bit of a spring cleaning for Amazon Prime Video. Several titles have gone out the door, while the latest additions to the Prime Video library are now settling in.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/movies/best-movies-on-amazon-prime/",
+      "originalUrl": "https://www.digitaltrends.com/movies/best-movies-on-amazon-prime/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2020/09/a-beautiful-mind-hulu.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/movies/best-movies-on-amazon-prime/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/best-movies-on-amazon-prime/?amp",
+      "publishedDateTime": "2023-05-05T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-05-ai-writing-is-the-opposite-of-thought-leadership.md",
+      "title": "AI Writing Is The Opposite Of Thought Leadership",
+      "excerpt": "If you're reading any of these articles on AI (or any of the thousands of posts per day on Reddit and other lower-brow places where even more AI discussion takes place), you might",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/shanesnow/2023/05/05/ai-writing-is-the-opposite-of-thought-leadership/",
+      "originalUrl": "https://www.forbes.com/sites/shanesnow/2023/05/05/ai-writing-is-the-opposite-of-thought-leadership/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6454e9dad1607eda429c02fc/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 713,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/shanesnow/2023/05/05/ai-writing-is-the-opposite-of-thought-leadership/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shanesnow/2023/05/05/ai-writing-is-the-opposite-of-thought-leadership/amp/",
+      "publishedDateTime": "2023-05-05T04:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-05-ai-for-business-leaders-especially-skeptics.md",
+      "title": "AI For Business Leaders, Especially Skeptics",
+      "excerpt": "Business leaders can take these easy steps to help their companies start benefitting from artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/billconerly/2023/05/05/ai-for-business-leaders-especially-skeptics/",
+      "originalUrl": "https://www.forbes.com/sites/billconerly/2023/05/05/ai-for-business-leaders-especially-skeptics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6454183c7b29c94c47eabd28/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/billconerly/2023/05/05/ai-for-business-leaders-especially-skeptics/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/billconerly/2023/05/05/ai-for-business-leaders-especially-skeptics/amp/",
+      "publishedDateTime": "2023-05-05T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-05-elon-musk-stirs-debate-on-claims-that-ai-will-enable-you-to-live-forever-an-immortal-question-for-ai-ethics.md",
+      "title": "Elon Musk Stirs Debate On Claims That AI Will Enable You To Live Forever, An Immortal Question For AI Ethics",
+      "excerpt": "Elon Musk commented to Bill Maher about the ongoing controversy of whether advances in AI will lead to human longevity and the possibility of being able to live forever. Here is the insider analysis on that emerging hot topic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2023/05/05/elon-musk-stirs-debate-on-claims-that-ai-will-enable-you-to-live-forever-an-immortal-question-for-ai-ethics/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/05/05/elon-musk-stirs-debate-on-claims-that-ai-will-enable-you-to-live-forever-an-immortal-question-for-ai-ethics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6452a5233fe6b06e18eabd27/0x0.jpg?format=jpg&crop=4000,2999,x333,y0,safe&width=1200",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2023/05/05/elon-musk-stirs-debate-on-claims-that-ai-will-enable-you-to-live-forever-an-immortal-question-for-ai-ethics/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/05/05/elon-musk-stirs-debate-on-claims-that-ai-will-enable-you-to-live-forever-an-immortal-question-for-ai-ethics/amp/",
+      "publishedDateTime": "2023-05-05T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-05-05-generative-ai-brings-new-risks-to-everyone-heres-how-you-can-stay-safe.md",
       "title": "Generative AI brings new risks to everyone. Here's how you can stay safe",
       "excerpt": "Organizations have to figure out the potential implications of tapping generative artificial intelligence tools, such as ChatGPT, while consumers should consider how they establish digital engagement.",
@@ -165,7 +372,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/ai-marketing-market-future-growth-and-business-opportunities-2023-updated-report-2023-05-05",
       "featuredContent": null,
       "highlight": null,
-      "heat": 210,
+      "heat": 200,
       "tags": null,
       "images": [
         {
@@ -269,7 +476,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/data-science-and-machine-learning-service-market-report-with-swot-and-pestal-analysis-2023-to-2030-2023-05-05",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -476,7 +683,7 @@
       "originalUrl": "https://www.livemint.com/news/world/godfather-of-artificial-intelligence-geoffrey-hinton-has-spoken-up-about-the-dangers-of-ai-11683244206712.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -543,6 +750,57 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-05-the-future-of-communication-in-the-age-of-artificial-intelligence.md",
+      "title": "The Future Of Communication In The Age Of Artificial Intelligence",
+      "excerpt": "Are you ready to future-proof your career? Discover how to blend your unique human skills with AI and stay ahead of the game. Don't risk being left behind and losing your job - read on to find out how to stay relevant in a rapidly evolving workforce,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/kwamechristian/2023/05/04/the-future-of-communication-in-the-age-of-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/kwamechristian/2023/05/04/the-future-of-communication-in-the-age-of-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/645437c77701f76c839c02fc/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/kwamechristian/2023/05/04/the-future-of-communication-in-the-age-of-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kwamechristian/2023/05/04/the-future-of-communication-in-the-age-of-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-05-04T16:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -768,7 +1026,7 @@
       "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/05/04/synopsysairevolutionizing-chip-design-through-ai-driven-eda-suite/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -872,7 +1130,7 @@
       "originalUrl": "https://www.therobotreport.com/indias-robot-installations-hit-an-all-time-high/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -988,251 +1246,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-05-the-life-and-death-of-a-robot-vacuum.md",
-      "title": "The life and death of a robot vacuum",
-      "excerpt": "Last-minute robot delivery exists in limited quantities but is still regarded as a novelty. More broadly, however, robots are here right now. They’re mostly behind the scenes, but they’re doing a lot of work.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/05/04/the-life-and-death-of-a-robot-vacuum/",
-      "originalUrl": "https://techcrunch.com/2023/05/04/the-life-and-death-of-a-robot-vacuum/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/02/20230227_090555.jpg?resize=1200,900",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/05/04/the-life-and-death-of-a-robot-vacuum/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/04/the-life-and-death-of-a-robot-vacuum/amp/",
-      "publishedDateTime": "2023-05-04T12:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-05-uae-chemo-robot-artificial-intelligence-guided-radiotherapy-for-cancer-care-now-available-in-abu-dhabi.md",
-      "title": "UAE: Chemo robot, artificial intelligence-guided radiotherapy for cancer care now available in Abu Dhabi",
-      "excerpt": "Newly-launched Fatima bint Mubarak Center also has latest non-invasive treatments Abu Dhabi: An artificial intelligence-guided radiotherapy treatment, a targeted therapy for liver cancer, and a chemotherapy robot are some of the innovative options that are ...",
-      "sourceUrl": null,
-      "webUrl": "https://gulfnews.com/uae/health/uae-chemo-robot-artificial-intelligence-guided-radiotherapy-for-cancer-care-now-available-in-abu-dhabi-1.95537748",
-      "originalUrl": "https://gulfnews.com/uae/health/uae-chemo-robot-artificial-intelligence-guided-radiotherapy-for-cancer-care-now-available-in-abu-dhabi-1.95537748",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imagevars.gulfnews.com/2023/05/04/Cleveland_Clinic_Abu_Dhabi_Fatima_bint_Mubarak_Center-_Chemotherapy_robot-1683221993322_187e7d95774_medium.jpg",
-          "width": 540,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gulfnews.com/amp/uae/health/uae-chemo-robot-artificial-intelligence-guided-radiotherapy-for-cancer-care-now-available-in-abu-dhabi-1.95537748",
-      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/health/uae-chemo-robot-artificial-intelligence-guided-radiotherapy-for-cancer-care-now-available-in-abu-dhabi-1.95537748",
-      "publishedDateTime": "2023-05-04T11:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf News",
-        "domain": "gulfnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-get-started-with-generative-ai-on-aws-using-amazon-sagemaker-jumpstart.md",
-      "title": "Get started with generative AI on AWS using Amazon SageMaker JumpStart",
-      "excerpt": "Generative AI is gaining a lot of public attention at present, with talk around products such as GPT4, ChatGPT, DALL-E2, Bard, and many other AI technologies. Many customers have been asking for more information on AWS’s generative AI solutions. The aim of this post is to address those needs. This post",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/get-started-with-generative-ai-on-aws-using-amazon-sagemaker-jumpstart/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/get-started-with-generative-ai-on-aws-using-amazon-sagemaker-jumpstart/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-04T11:11:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-05-top-10-artificial-intelligence-ai-cryptocurrencies.md",
-      "title": "Top 10 Artificial Intelligence (AI) Cryptocurrencies",
-      "excerpt": "Editorial Note: Forbes Advisor may earn a commission on sales made from partner links on this page, but that doesn't affect our editors' opinions or evaluations. It’s hard to imagine two ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/advisor/in/investing/cryptocurrency/top-10-artificial-intelligence-ai-cryptocurrencies/",
-      "originalUrl": "https://www.forbes.com/advisor/in/investing/cryptocurrency/top-10-artificial-intelligence-ai-cryptocurrencies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/in/wp-content/uploads/2023/03/pexels-tara-winstead-8386440-1-scaled.jpg",
-          "width": 2560,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-04T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-05-microsoft-helping-finance-amds-expansion-into-ai-chips-bloomberg.md",
-      "title": "Microsoft helping finance AMD's expansion into AI chips- Bloomberg",
-      "excerpt": "Microsoft Corp is working with Advanced Micro Devices Inc on the chipmaker's expansion into artificial intelligence processors, Bloomberg News reported on Thursday, citing people with knowledge of the matter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/amd-ai-microsoft/update-1-microsoft-helping-finance-amds-expansion-into-ai-chips-bloomberg-idUSL4N3714JL",
-      "originalUrl": "https://www.reuters.com/article/amd-ai-microsoft/update-1-microsoft-helping-finance-amds-expansion-into-ai-chips-bloomberg-idUSL4N3714JL",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 468,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/xOORmMGGhmHxjWnnPlcl8EiZ6VY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IYT3OK5U4BOMFPVKOXIRRT4YYM.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-04T10:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Finance",
-        "Microsoft AI"
       ]
     }
   ],

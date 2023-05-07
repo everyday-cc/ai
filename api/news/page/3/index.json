@@ -2,6 +2,251 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-05-05-the-life-and-death-of-a-robot-vacuum.md",
+      "title": "The life and death of a robot vacuum",
+      "excerpt": "Last-minute robot delivery exists in limited quantities but is still regarded as a novelty. More broadly, however, robots are here right now. They’re mostly behind the scenes, but they’re doing a lot of work.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/05/04/the-life-and-death-of-a-robot-vacuum/",
+      "originalUrl": "https://techcrunch.com/2023/05/04/the-life-and-death-of-a-robot-vacuum/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/02/20230227_090555.jpg?resize=1200,900",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/05/04/the-life-and-death-of-a-robot-vacuum/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/04/the-life-and-death-of-a-robot-vacuum/amp/",
+      "publishedDateTime": "2023-05-04T12:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-05-uae-chemo-robot-artificial-intelligence-guided-radiotherapy-for-cancer-care-now-available-in-abu-dhabi.md",
+      "title": "UAE: Chemo robot, artificial intelligence-guided radiotherapy for cancer care now available in Abu Dhabi",
+      "excerpt": "Newly-launched Fatima bint Mubarak Center also has latest non-invasive treatments Abu Dhabi: An artificial intelligence-guided radiotherapy treatment, a targeted therapy for liver cancer, and a chemotherapy robot are some of the innovative options that are ...",
+      "sourceUrl": null,
+      "webUrl": "https://gulfnews.com/uae/health/uae-chemo-robot-artificial-intelligence-guided-radiotherapy-for-cancer-care-now-available-in-abu-dhabi-1.95537748",
+      "originalUrl": "https://gulfnews.com/uae/health/uae-chemo-robot-artificial-intelligence-guided-radiotherapy-for-cancer-care-now-available-in-abu-dhabi-1.95537748",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imagevars.gulfnews.com/2023/05/04/Cleveland_Clinic_Abu_Dhabi_Fatima_bint_Mubarak_Center-_Chemotherapy_robot-1683221993322_187e7d95774_medium.jpg",
+          "width": 540,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gulfnews.com/amp/uae/health/uae-chemo-robot-artificial-intelligence-guided-radiotherapy-for-cancer-care-now-available-in-abu-dhabi-1.95537748",
+      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/health/uae-chemo-robot-artificial-intelligence-guided-radiotherapy-for-cancer-care-now-available-in-abu-dhabi-1.95537748",
+      "publishedDateTime": "2023-05-04T11:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf News",
+        "domain": "gulfnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-05-04-get-started-with-generative-ai-on-aws-using-amazon-sagemaker-jumpstart.md",
+      "title": "Get started with generative AI on AWS using Amazon SageMaker JumpStart",
+      "excerpt": "Generative AI is gaining a lot of public attention at present, with talk around products such as GPT4, ChatGPT, DALL-E2, Bard, and many other AI technologies. Many customers have been asking for more information on AWS’s generative AI solutions. The aim of this post is to address those needs. This post",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/get-started-with-generative-ai-on-aws-using-amazon-sagemaker-jumpstart/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/get-started-with-generative-ai-on-aws-using-amazon-sagemaker-jumpstart/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-04T11:11:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-05-top-10-artificial-intelligence-ai-cryptocurrencies.md",
+      "title": "Top 10 Artificial Intelligence (AI) Cryptocurrencies",
+      "excerpt": "Editorial Note: Forbes Advisor may earn a commission on sales made from partner links on this page, but that doesn't affect our editors' opinions or evaluations. It’s hard to imagine two ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/advisor/in/investing/cryptocurrency/top-10-artificial-intelligence-ai-cryptocurrencies/",
+      "originalUrl": "https://www.forbes.com/advisor/in/investing/cryptocurrency/top-10-artificial-intelligence-ai-cryptocurrencies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/in/wp-content/uploads/2023/03/pexels-tara-winstead-8386440-1-scaled.jpg",
+          "width": 2560,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-04T10:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-05-microsoft-helping-finance-amds-expansion-into-ai-chips-bloomberg.md",
+      "title": "Microsoft helping finance AMD's expansion into AI chips- Bloomberg",
+      "excerpt": "Microsoft Corp is working with Advanced Micro Devices Inc on the chipmaker's expansion into artificial intelligence processors, Bloomberg News reported on Thursday, citing people with knowledge of the matter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/amd-ai-microsoft/update-1-microsoft-helping-finance-amds-expansion-into-ai-chips-bloomberg-idUSL4N3714JL",
+      "originalUrl": "https://www.reuters.com/article/amd-ai-microsoft/update-1-microsoft-helping-finance-amds-expansion-into-ai-chips-bloomberg-idUSL4N3714JL",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 468,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/xOORmMGGhmHxjWnnPlcl8EiZ6VY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IYT3OK5U4BOMFPVKOXIRRT4YYM.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-04T10:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Finance",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-04-artificial-intelligence-in-healthcare-market-forecast-to-2031.md",
       "title": "Artificial Intelligence in Healthcare Market Forecast to 2031",
       "excerpt": "This \"Artificial Intelligence in Healthcare Market\" report offers a thorough analysis of the industry, including",
@@ -113,7 +358,7 @@
       "originalUrl": "https://www.forbes.com/sites/gregpetro/2023/05/04/behind-the-hype-about-ai-transforming-consumer-businesses/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -164,7 +409,7 @@
       "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/05/04/box-introduces-box-ai-to-bring-the-power-of-ai-to-enterprise-content/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -309,7 +554,7 @@
       "originalUrl": "https://www.fox5ny.com/news/facial-recognition-software-nyc-bills-introduced",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -601,7 +846,7 @@
       "originalUrl": "https://www.forbes.com/sites/craigsmith/2023/05/04/geoff-hinton-ais-most-famous-researcher-warns-of-existential-threat/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -703,7 +948,7 @@
       "originalUrl": "https://www.philstar.com/happens/1132",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -849,7 +1094,7 @@
       "originalUrl": "https://gizmodo.com/nyc-msg-facial-recognition-landlords-ban-law-hearing-1850401997",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -901,7 +1146,7 @@
       "originalUrl": "https://www.forbes.com/sites/charliefink/2023/05/03/is-ai-the-history-eraser-button/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -984,266 +1229,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-innovationrx-the-fda-oks-the-first-rsv-vaccine-microsofts-ai-play-for-doctors.md",
-      "title": "InnovationRx: The FDA OKs The First RSV Vaccine; Microsoft’s AI Play For Doctors",
-      "excerpt": "InnovationRx is your weekly digest of healthcare news. To get it in your inbox, subscribe here.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/katiejennings/2023/05/03/innovationrx-the-fda-oks-the-first-rsv-vaccine-microsofts-ai-play-for-doctors/",
-      "originalUrl": "https://www.forbes.com/sites/katiejennings/2023/05/03/innovationrx-the-fda-oks-the-first-rsv-vaccine-microsofts-ai-play-for-doctors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6452d6708bb19866029c02fa/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-03T15:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-ceo-of-googles-deepmind-says-we-could-be-just-a-few-years-from-ai-that-has-human-level-intelligence.md",
-      "title": "CEO of Google’s DeepMind says we could be ‘just a few years’ from A.I. that has human-level intelligence",
-      "excerpt": "DeepMind CEO Demis Hassabis at the 2023 WSJ's Future of Everything Festival. While artificial intelligence like OpenAI’s ChatGPT promises to revolutionize every aspect of the economy, the true holy grail for A.I. researchers—artificial general ...",
-      "sourceUrl": null,
-      "webUrl": "https://fortune.com/2023/05/03/google-deepmind-ceo-agi-artificial-intelligence/",
-      "originalUrl": "https://fortune.com/2023/05/03/google-deepmind-ceo-agi-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.fortune.com/wp-content/uploads/2023/05/GettyImages-1487212398-e1683147294372.jpg?w=840",
-          "width": 840,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fortune.com/2023/05/03/google-deepmind-ceo-agi-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/05/03/google-deepmind-ceo-agi-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-05-03T14:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fortune",
-        "domain": "fortune.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-police-accused-over-use-of-facial-recognition-at-king-charless-coronation.md",
-      "title": "Police accused over use of facial recognition at King Charles’s coronation",
-      "excerpt": "Met says technology will not be used to target protesters or activists, but campaigners say use is ‘extremely worrying’",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/uk-news/2023/may/03/metropolitan-police-live-facial-recognition-in-crowds-at-king-charles-coronation",
-      "originalUrl": "https://www.theguardian.com/uk-news/2023/may/03/metropolitan-police-live-facial-recognition-in-crowds-at-king-charles-coronation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/b8db4757a16c78241897d176d4991a39cfc6636f/0_576_8640_5184/master/8640.jpg?width=620&quality=85&auto=format&fit=max&s=358de4318acd68df80290c528e9dc6a6",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/uk-news/2023/may/03/metropolitan-police-live-facial-recognition-in-crowds-at-king-charles-coronation",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/uk-news/2023/may/03/metropolitan-police-live-facial-recognition-in-crowds-at-king-charles-coronation",
-      "publishedDateTime": "2023-05-03T14:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-we-must-regulate-ai-ftc-chair-khan-says.md",
-      "title": "“We must regulate AI,” FTC Chair Khan says",
-      "excerpt": "Khan pledged to use existing laws to regulate AI in a New York Times op-ed, \"We Must Regulate A.I. Here's How.\" In the piece, she warns of AI risks such as market dominance by large tech firms, collusion,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/05/we-must-regulate-ai-ftc-chair-khan-says/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/05/we-must-regulate-ai-ftc-chair-khan-says/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/lina_khan_hero_2-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/05/we-must-regulate-ai-ftc-chair-khan-says/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/05/we-must-regulate-ai-ftc-chair-khan-says/amp/",
-      "publishedDateTime": "2023-05-03T14:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-axl-edtech-launches-ai-language-and-marketing-innovations.md",
-      "title": "AXL EdTech Launches AI Language and Marketing Innovations",
-      "excerpt": "AXL EdTech's team shares that its language software is an AI avatar that automatically translates videos with a unique voice simulator that actually replicates the original speaker's voice timbre and lip movements,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/axl-edtech-launches-ai-language-and-marketing-innovations-2023-05-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/axl-edtech-launches-ai-language-and-marketing-innovations-2023-05-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-03T14:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

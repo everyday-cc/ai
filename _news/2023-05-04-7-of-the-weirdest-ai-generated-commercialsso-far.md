@@ -7,7 +7,7 @@ originalUrl: "https://gizmodo.com/ai-dall-e-ai-generated-advertisements-chatbots
 webUrl: "https://gizmodo.com/ai-dall-e-ai-generated-advertisements-chatbots-1850399007"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -22,38 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "AI-generated beer commercial contains joyful monstrosities, goes viral"
-    excerpt: "While many fear a future where AI-generated media becomes indistinguishable from traditional media, destroying society and/or civilization in the process, we aren't quite there yet. Exhibit A comes in the form of a surreal AI-generated beer commercial that went viral over the weekend."
-    publishedDateTime: 2023-05-02T21:35:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/05/ai-generated-beer-commercial-contains-joyful-monstrosities-goes-viral/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/05/ai-generated-beer-commercial-contains-joyful-monstrosities-goes-viral/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/05/ai-generated-beer-commercial-contains-joyful-monstrosities-goes-viral/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 87
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/05/ai_beer_hero-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Artificial neurons mimic complex brain abilities for next-generation AI computing"
-    excerpt: "Researchers have created atomically thin artificial neurons capable of processing both light and electric signals for computing. The material enables the simultaneous existence of separate feedforward and feedback paths within a neural network,"
-    publishedDateTime: 2023-05-05T17:05:00Z
-    webUrl: "https://techxplore.com/news/2023-05-artificial-neurons-mimic-complex-brain.html"
-    ampWebUrl: "https://techxplore.com/news/2023-05-artificial-neurons-mimic-complex-brain.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-05-artificial-neurons-mimic-complex-brain.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 54
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/artificial-neurons-mim.jpg"
-        width: 1500
-        height: 564
-        isCached: true
   - title: "3 viral AI-generated TV commercials that will haunt your nightmares"
     excerpt: "You can use various AI products to create TV commercials, but the results will probably haunt your dreams - here are three such examples."
     publishedDateTime: 2023-05-06T22:15:00Z

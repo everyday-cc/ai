@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/harmonic-drive-advanced-motion-cont
 webUrl: "https://www.therobotreport.com/harmonic-drive-advanced-motion-control-robotics-summit/"
 type: article
 quality: 80
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 628
     isCached: true
-
-related:
-  - title: "Maxon partners with MassRobotics on robotics drive technology"
-    excerpt: "MassRobotics and maxon will explore motion control technologies around automation and manufacturing-related applications."
-    publishedDateTime: 2023-05-02T22:08:00Z
-    webUrl: "https://www.medicaldesignandoutsourcing.com/maxon-massrobotics-robotics-drive-technology-partnership/"
-    type: article
-    provider:
-      name: Medical Design and Outsourcing
-      domain: medicaldesignandoutsourcing.com
-    quality: 54
-    images:
-      - url: "https://www.medicaldesignandoutsourcing.com/wp-content/uploads/2023/05/Maxon-MassRobotics.jpg"
-        width: 770
-        height: 500
-        isCached: true
 
 secured: "t1qQpwUoCGKGui6bTXQc6L3ITxRPR1E/wWhojcfM0cImXiZBBDFdpsIaonHHcGEwhBibJBBNm9j4W9mwSMuiCsWI9SbX5mIl6dNSetKjM65SiTFJTe9mVG1hSOEZ4bZ6QRsK31eWhOJVXvIdWBI3F/NBfs22ROmN6AreNMvCBGO+xUAv7r1ZXi3lQ90ZQeRxVLVwT4v/mrvlMuke2uMtRHLRqu2YyjtPu0WkoHZJr2InVduZIwHzI8Re5q+RMxzm3fqM0F6yY9dzwLQ467xgnN+mcrIh4E0gcjZTGc3GBYMMaqvK9QysKpLZGSrmSXw6M+gdLrypREhaLARmiea2cohE4z0pGIFlI9SqDZfoAkQ=;2/WYdfqNzzMQSQf1c6Vdtw=="
 ---

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-07-us-sanctions-drive-chinese-firms-to-advance-ai-without-latest-chips.md",
+      "title": "U.S. Sanctions Drive Chinese Firms to Advance AI Without Latest Chips",
+      "excerpt": "Chinese companies racing to catch up with American AI leaders get creative as U.S. sanctions cut them off from the most advanced chips.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/u-s-sanctions-drive-chinese-firms-to-advance-ai-without-latest-chips-f6aed67f",
+      "originalUrl": "https://www.wsj.com/articles/u-s-sanctions-drive-chinese-firms-to-advance-ai-without-latest-chips-f6aed67f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-776300/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-07T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-05-global-edge-artificial-intelligence-ai-chip-market-2023-2030-size-and-forecast.md",
       "title": "Global Edge Artificial Intelligence (AI) Chip Market 2023-2030: Size and Forecast",
       "excerpt": "Number of Tables and Figures: 129 Pages | Report Highlights: Future Growth Projections, CAGR, Types, Application and",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-2023-2030-size-and-forecast-2023-05-05",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -115,7 +167,7 @@
       "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/05/04/synopsysairevolutionizing-chip-design-through-ai-driven-eda-suite/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -358,6 +410,50 @@
         "AI Hardware",
         "AI",
         "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-05-03-deep-learning-chip-market-2023-detailed-analysis-and-huge-growth-by-top-players-nvidia-intel-ibm-qualcomm.md",
+      "title": "Deep Learning Chip Market 2023 Detailed Analysis and Huge Growth by Top Players-NVIDIA, Intel, IBM, Qualcomm",
+      "excerpt": "Global Deep Learning ChipMarket Precise Outlook 2023-2029 This extensive report provides significant insights into the present industry trends and future prospects with a global perspective. We are certain that our meticulously researched and insightful findings will offer valuable assistance to our clients in making informed decisions regarding their business operations,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-chip-market-2023-detailed-analysis-and-huge-growth-by-top-players-nvidia-intel-ibm-qualcomm-2023-05-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-chip-market-2023-detailed-analysis-and-huge-growth-by-top-players-nvidia-intel-ibm-qualcomm-2023-05-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-03T04:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -1349,101 +1445,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-heres-how-ai-evolves-with-next-gen-gpu-and-ai-capabilities.md",
-      "title": "Here’s how AI evolves with next-gen GPU and AI capabilities",
-      "excerpt": "As edge computing continues growing at a fast rate along with the availability of better internet connectivity, projects have started looking for ways to benefit from blockchain, artificial intelligence (AI) and other technologies to provide users and businesses with new ways to monetize their internet availability.",
-      "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/news/heres-how-ai-evolves-with-next-gen-gpu-and-ai-capabilities",
-      "originalUrl": "https://cointelegraph.com/news/heres-how-ai-evolves-with-next-gen-gpu-and-ai-capabilities",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/storage/uploads/view/3202b88f1e9bcaca436a9275d16224b9.jpg",
-          "width": 740,
-          "height": 492,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cointelegraph.com/news/heres-how-ai-evolves-with-next-gen-gpu-and-ai-capabilities/amp",
-      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/heres-how-ai-evolves-with-next-gen-gpu-and-ai-capabilities/amp",
-      "publishedDateTime": "2023-04-25T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-inside-metas-scramble-to-catch-up-on-ai.md",
-      "title": "Inside Meta's scramble to catch up on A.I.",
-      "excerpt": "He declined to comment on whether Meta abandoned its AI chip. Janardhan and other executives did not grant requests for interviews made via the company. The overhaul spiked Meta's capital ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/04/25/inside-metas-scramble-to-catch-up-on-ai.html",
-      "originalUrl": "https://www.cnbc.com/2023/04/25/inside-metas-scramble-to-catch-up-on-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106967400-1635454475297-gettyimages-1349800861-_09i3909_20211028115608799.jpeg?v=1682426341",
-          "width": 4639,
-          "height": 3318,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/04/25/inside-metas-scramble-to-catch-up-on-ai.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/04/25/inside-metas-scramble-to-catch-up-on-ai.html",
-      "publishedDateTime": "2023-04-25T05:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

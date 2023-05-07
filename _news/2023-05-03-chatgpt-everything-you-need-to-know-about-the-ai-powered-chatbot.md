@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/05/03/chatgpt-everything-you-need-to-kno
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/03/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/"
 type: article
 quality: 89
-heat: 359
+heat: 369
 published: true
 
 provider:
@@ -259,6 +259,15 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
+    quality: 47
+  - title: "Forget ChatGPT. These Are the Best AI-Powered Apps."
+    excerpt: "Chat features built into Duolingo, Expedia and others can be more useful than ask-me-anything bots."
+    publishedDateTime: 2023-05-07T12:00:00Z
+    webUrl: "https://www.wsj.com/articles/forget-chatgpt-these-are-the-best-ai-powered-apps-d927d0bf"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
     quality: 47
   - title: "AI start-up Inflection launches ChatGPT-like chatbot named Pi"
     excerpt: "Inflection’s chatbot, named Pi, uses generative AI technology to interact with users through dialogues. Read more at straitstimes.com."

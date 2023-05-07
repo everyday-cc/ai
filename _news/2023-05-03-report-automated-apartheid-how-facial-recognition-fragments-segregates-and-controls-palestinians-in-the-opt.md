@@ -39,17 +39,6 @@ related:
         width: 1000
         height: 800
         isCached: true
-  - title: "Facial recognition powers ‘automated apartheid’ in Israel, report says"
-    excerpt: "Israel is increasingly relying on facial recognition in the occupied West Bank to track Palestinians and restrict their passage through key checkpoints."
-    publishedDateTime: 2023-05-02T22:43:00Z
-    webUrl: "https://www.seattletimes.com/business/facial-recognition-powers-automated-apartheid-in-israel-report-says/"
-    ampWebUrl: "https://www.seattletimes.com/business/facial-recognition-powers-automated-apartheid-in-israel-report-says/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/facial-recognition-powers-automated-apartheid-in-israel-report-says/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 39
   - title: "“Automated Apartheid”: How Israel Uses Facial Recognition to Track Palestinians & Control Movement"
     excerpt: "A new report by Amnesty International documents how the Israeli government is using an experimental facial recognition system to track Palestinians and control their movements. The findings are part of “Automated Apartheid,"
     publishedDateTime: 2023-05-04T19:42:00Z
@@ -64,15 +53,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Wolf Pack: Israel's accelerated use of facial recognition is ‘automated apartheid'"
-    excerpt: "Israeli military increasingly conducts 'intelligence mapping' raids to document facial characteristics of Palestinians, Amnesty says"
-    publishedDateTime: 2023-05-02T19:09:00Z
-    webUrl: "https://www.middleeasteye.net/news/wolf-pack-israel-accelerated-use-facial-recognition-automated-apartheid"
-    type: article
-    provider:
-      name: Middle East Eye
-      domain: middleeasteye.net
-    quality: 13
 
 secured: "DCg/tmls0Fmdg1y3uhCf8t3drAiJsNQJObGsZIsolqS8gdACbYycoq5PeQC3NML0R9828gdES3g38lv7TWFiHvn6/wFK7nq/vGPL8rzwfxbeCX3ccNlF4McddcITLKn5KmRyppKSHw2fav7oU2YL3olJ7Ofh2rsLwgZ5rJTYNAz5Pq3Ope88ItcJ5m1v0Y1WJmXrXwY4kL90vOE6GSY8HZkdYuMzZZj1rNoPTqmXkMxquBuSF+VnSuCx+/gNBEL+dxPjQqr0qeQwKJayKBYdAm/s2GScZQD1jBdGyn53OtEu5/PSsd2kw00ZaQF1eSJRnxl+WS3cZa7dpddfS2iVg+2Uw6Q81Axd5zsaWLmkRuTuHSj6zq6Z/oxgAZWm8YexFHgJncV3e9u31ePYQ/YCNfNCRKE+oh0CpnCN/7IKqOySOJcb7ojM23NjXyhANnmcANrve6UuDrxJJgJVifBq8dcPE8wRY4EVjmc1jE9FHI55pFFvtkC3d2x/XJIZz6v6TWnpwiTTeBo9mmIlZYps7A==;dorW2qT2Wbx6GBjTEDKueQ=="
 ---

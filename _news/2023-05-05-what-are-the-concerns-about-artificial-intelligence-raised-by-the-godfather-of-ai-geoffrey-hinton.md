@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI pioneer Geoffrey Hinton outlines 4 dangers of artificial intelligence"
+    excerpt: "The “Godfather of artificial intelligence” has changed his mind about whether AI can become smarter than humans."
+    publishedDateTime: 2023-05-07T14:26:00Z
+    webUrl: "https://www.tampabay.com/news/business/2023/05/07/ai-pioneer-geoffrey-hinton-outlines-4-dangers-artificial-intelligence/"
+    ampWebUrl: "https://www.tampabay.com/news/business/2023/05/07/ai-pioneer-geoffrey-hinton-outlines-4-dangers-artificial-intelligence/?outputType=amp"
+    cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/business/2023/05/07/ai-pioneer-geoffrey-hinton-outlines-4-dangers-artificial-intelligence/?outputType=amp"
+    type: article
+    provider:
+      name: Tampa Bay Times
+      domain: tampabay.com
+    quality: 71
+    images:
+      - url: "https://www.tampabay.com/resizer/Ex5xkonKhkVd-9caaUA6LmErs2I=/1200x675/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/XLO7HHPWM3NDI5NC5D6FR3OQJA.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "4 dangers that most worry AI pioneer Geoffrey Hinton"
     excerpt: "Geoffrey Hinton, a computer scientist known as the \"godfather of artificial intelligence,\" recently resigned his high-profile job at Google. Here's a look at his biggest concerns about the future of AI"
     publishedDateTime: 2023-05-04T00:30:00Z

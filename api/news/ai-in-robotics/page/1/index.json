@@ -115,7 +115,7 @@
       "originalUrl": "https://www.therobotreport.com/indias-robot-installations-hit-an-all-time-high/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -254,7 +254,7 @@
       "originalUrl": "https://www.philstar.com/happens/1132",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -297,7 +297,7 @@
       "originalUrl": "https://www.therobotreport.com/harmonic-drive-advanced-motion-control-robotics-summit/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -854,6 +854,40 @@
       ]
     },
     {
+      "path": "_news/2023-04-29-idvv-moves-forward-in-artificial-intelligence-ai-sector.md",
+      "title": "IDVV Moves Forward In Artificial Intelligence AI Sector",
+      "excerpt": "IDVV is pleased to announce its progress in the acquisition of WITech and SF Corp, which have been completed ahead of schedule. As the company enters the AI sector, it is combining the strengths and capabilities of both acquisitions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.star-telegram.com/press-releases/article274848016.html",
+      "originalUrl": "https://www.star-telegram.com/press-releases/article274848016.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-28T12:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fort Worth Star-Telegram",
+        "domain": "star-telegram.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-28-artificial-intelligence-delivery-robot-market-growth-by-2031.md",
       "title": "Artificial Intelligence Delivery Robot Market Growth by 2031",
       "excerpt": "The latest market research report on the Global \"Artificial Intelligence Delivery Robot Market\" is segmented by",
@@ -1351,49 +1385,6 @@
       "provider": {
         "name": "The Washington Post",
         "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-first-babies-conceived-using-playstation-controlled-robot-are-born.md",
-      "title": "First babies conceived using PlayStation-controlled robot are born",
-      "excerpt": "the student mechanical engineer who controlled the sperm-injecting device, told MIT Technology Review. The robot was developed by Overture Life, a company that’s working towards automating in ...",
-      "sourceUrl": null,
-      "webUrl": "https://metro.co.uk/2023/04/27/first-babies-conceived-using-playstation-controlled-robot-are-born-18685759/",
-      "originalUrl": "https://metro.co.uk/2023/04/27/first-babies-conceived-using-playstation-controlled-robot-are-born-18685759/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://metro.co.uk/wp-content/uploads/2023/04/picsea-kd3qRzgEl70-unsplash-5929.jpg?quality=90&strip=all&zoom=1&resize=600%2C400",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://metro.co.uk/2023/04/27/first-babies-conceived-using-playstation-controlled-robot-are-born-18685759/amp/",
-      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/04/27/first-babies-conceived-using-playstation-controlled-robot-are-born-18685759/amp/",
-      "publishedDateTime": "2023-04-27T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Metro",
-        "domain": "metro.co.uk",
         "images": null,
         "publishers": null,
         "authors": null

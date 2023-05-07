@@ -46,22 +46,6 @@ related:
         width: 468
         height: 263
         isCached: true
-  - title: "Accenture finds only 9% of enterprises harness AI’s full potential"
-    excerpt: "New Accenture report reveals key strategies \"operations reinventors\" use to achieve elevated levels of operational maturity."
-    publishedDateTime: 2023-05-02T22:03:00Z
-    webUrl: "https://venturebeat.com/ai/accenture-finds-only-9-of-enterprises-harness-ais-full-potential/"
-    ampWebUrl: "https://venturebeat.com/ai/accenture-finds-only-9-of-enterprises-harness-ais-full-potential/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/accenture-finds-only-9-of-enterprises-harness-ais-full-potential/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1366475366-e1665766594967.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Centene Makeover Continues As Health Insurer Divests Artificial Intelligence Platform"
     excerpt: "Centene will divest Apixio, an artificial intelligence platform, as the health insurer focuses on its health benefits business and continues to review its portfolio."
     publishedDateTime: 2023-05-04T00:01:00Z

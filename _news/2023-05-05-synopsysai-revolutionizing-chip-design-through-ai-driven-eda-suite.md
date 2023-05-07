@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/05/04/synopsysaire
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/05/04/synopsysairevolutionizing-chip-design-through-ai-driven-eda-suite/amp/"
 type: article
 quality: 104
-heat: 136
+heat: 134
 published: true
 
 provider:

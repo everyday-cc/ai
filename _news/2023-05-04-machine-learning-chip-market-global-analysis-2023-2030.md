@@ -56,6 +56,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 64
+  - title: "2023-2030, Computer Vision in Artificial Intelligence (AI) Market Segmentation-Identifying Your Target Audience"
+    excerpt: "To know How COVID-19 and Russia-Ukraine War Influence Will Impact This Market/Industry - Request a sample copy of the report-:  In This Reports Computer Vision in Artificial Intelligence (AI) Market Segment by Type ( Hardware,"
+    publishedDateTime: 2023-05-07T10:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-2030-computer-vision-in-artificial-intelligence-ai-market-segmentation-identifying-your-target-audience-2023-05-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
   - title: "Artificial Intelligence in Platform as a Service (PaaS) Market by 2030: Future Scope and Predictions"
     excerpt: "Get a sample PDF of the report at -  The global Artificial Intelligence in Platform as a Service (PaaS) market size was valued at USD 4771.18 million in 2022 and is expected to expand at a CAGR of 20."
     publishedDateTime: 2023-05-03T05:01:00Z

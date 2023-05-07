@@ -269,6 +269,15 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 47
+  - title: "Forget ChatGPT. These Are the Best AI-Powered Apps."
+    excerpt: "Chat features built into Duolingo, Expedia and others can be more useful than ask-me-anything bots."
+    publishedDateTime: 2023-05-07T12:00:00Z
+    webUrl: "https://www.wsj.com/articles/forget-chatgpt-these-are-the-best-ai-powered-apps-d927d0bf"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 47
   - title: "AI startup inflection launches ChatGPT style chatbot"
     excerpt: "Another similar chatbot called Pi has been recently launched by an AI startup called Inflection. The AI development firm was founded by LinkedIn cofounder Reid Hoffman and Google DeepMind co-founder Mustafa Suleyman last year in March."
     publishedDateTime: 2023-05-03T23:06:00Z

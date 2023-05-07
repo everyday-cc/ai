@@ -2,6 +2,161 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-07-a-mayday-call-for-artificial-intelligence.md",
+      "title": "A mayday call for artificial intelligence",
+      "excerpt": "Was Geoffrey Hinton's (the \"godfather of AI\") resignation from Google on May Day a true mayday signal for where AI is headed?",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/a-mayday-call-for-artificial-intelligence/",
+      "originalUrl": "https://venturebeat.com/ai/a-mayday-call-for-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/annevb_yelling_into_the_darkness_for_help._Mayday._colorful_tec_0a36545d-071c-43e1-8b42-cc2ee04e5099.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/a-mayday-call-for-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/a-mayday-call-for-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-05-07T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-07-hitting-the-books-why-a-dartmouth-professor-coined-the-term-artificial-intelligence.md",
+      "title": "Hitting the Books: Why a Dartmouth professor coined the term 'artificial intelligence'",
+      "excerpt": "In their new book, professors Chris Wiggins and Matthew L Jones examine how data acts as the lifeblood of modern society, shaping everything from our political views and social mores to our military responses and economic activities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/hitting-the-books-how-data-happened-wiggins-jones-ww-norton-143036972.html",
+      "originalUrl": "https://www.engadget.com/hitting-the-books-how-data-happened-wiggins-jones-ww-norton-143036972.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/kT7TqEq5Jq_eUSqgPTyzGw--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-04/9d192850-e876-11ed-bbf5-7cb8e2e645df.cf.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/hitting-the-books-how-data-happened-wiggins-jones-ww-norton-143036972.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/hitting-the-books-how-data-happened-wiggins-jones-ww-norton-143036972.html",
+      "publishedDateTime": "2023-05-07T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-07-us-sanctions-drive-chinese-firms-to-advance-ai-without-latest-chips.md",
+      "title": "U.S. Sanctions Drive Chinese Firms to Advance AI Without Latest Chips",
+      "excerpt": "Chinese companies racing to catch up with American AI leaders get creative as U.S. sanctions cut them off from the most advanced chips.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/u-s-sanctions-drive-chinese-firms-to-advance-ai-without-latest-chips-f6aed67f",
+      "originalUrl": "https://www.wsj.com/articles/u-s-sanctions-drive-chinese-firms-to-advance-ai-without-latest-chips-f6aed67f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-776300/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-07T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-07-rise-of-artificial-intelligence-is-inevitable-but-should-not-be-feared-father-of-ai-says.md",
       "title": "Rise of artificial intelligence is inevitable but should not be feared, ‘father of AI’ says",
       "excerpt": "Jürgen Schmidhuber believes AI will progress to the point where it surpasses human intelligence and will pay no attention to people",
@@ -159,7 +314,7 @@
       "originalUrl": "https://www.wsj.com/articles/worlds-top-ai-researchers-debate-the-technologys-next-steps-55be2849",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -190,6 +345,48 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-06-buffett-shares-good-news-on-profits-ai-thoughts-at-meeting.md",
+      "title": "Buffett shares good news on profits, AI thoughts at meeting",
+      "excerpt": "Warren Buffett's company said its first-quarter profits soared along with the paper value of its investment portfolio",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Business/wireStory/profits-jump-buffetts-company-ahead-annual-meeting-99136381",
+      "originalUrl": "https://abcnews.go.com/Business/wireStory/profits-jump-buffetts-company-ahead-annual-meeting-99136381",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/US/wirestory_125f7fd2fc2830d74fb8f246727fedcd_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/profits-jump-buffetts-company-ahead-annual-meeting-99136381",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/profits-jump-buffetts-company-ahead-annual-meeting-99136381",
+      "publishedDateTime": "2023-05-06T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -365,7 +562,7 @@
       "originalUrl": "https://venturebeat.com/ai/its-generative-ai-models-vs-hackers-at-def-cons-ai-village/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -778,7 +975,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-2023-2030-size-and-forecast-2023-05-05",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -1079,213 +1276,6 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-05-the-best-movies-on-amazon-prime-video-may-2023.md",
-      "title": "The best movies on Amazon Prime Video (May 2023)",
-      "excerpt": "The beginning of May marks a bit of a spring cleaning for Amazon Prime Video. Several titles have gone out the door, while the latest additions to the Prime Video library are now settling in.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/movies/best-movies-on-amazon-prime/",
-      "originalUrl": "https://www.digitaltrends.com/movies/best-movies-on-amazon-prime/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2020/09/a-beautiful-mind-hulu.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/movies/best-movies-on-amazon-prime/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/best-movies-on-amazon-prime/?amp",
-      "publishedDateTime": "2023-05-05T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-05-ai-writing-is-the-opposite-of-thought-leadership.md",
-      "title": "AI Writing Is The Opposite Of Thought Leadership",
-      "excerpt": "If you're reading any of these articles on AI (or any of the thousands of posts per day on Reddit and other lower-brow places where even more AI discussion takes place), you might",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/shanesnow/2023/05/05/ai-writing-is-the-opposite-of-thought-leadership/",
-      "originalUrl": "https://www.forbes.com/sites/shanesnow/2023/05/05/ai-writing-is-the-opposite-of-thought-leadership/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6454e9dad1607eda429c02fc/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 713,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/shanesnow/2023/05/05/ai-writing-is-the-opposite-of-thought-leadership/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shanesnow/2023/05/05/ai-writing-is-the-opposite-of-thought-leadership/amp/",
-      "publishedDateTime": "2023-05-05T04:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-05-ai-for-business-leaders-especially-skeptics.md",
-      "title": "AI For Business Leaders, Especially Skeptics",
-      "excerpt": "Business leaders can take these easy steps to help their companies start benefitting from artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/billconerly/2023/05/05/ai-for-business-leaders-especially-skeptics/",
-      "originalUrl": "https://www.forbes.com/sites/billconerly/2023/05/05/ai-for-business-leaders-especially-skeptics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6454183c7b29c94c47eabd28/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/billconerly/2023/05/05/ai-for-business-leaders-especially-skeptics/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/billconerly/2023/05/05/ai-for-business-leaders-especially-skeptics/amp/",
-      "publishedDateTime": "2023-05-05T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-05-elon-musk-stirs-debate-on-claims-that-ai-will-enable-you-to-live-forever-an-immortal-question-for-ai-ethics.md",
-      "title": "Elon Musk Stirs Debate On Claims That AI Will Enable You To Live Forever, An Immortal Question For AI Ethics",
-      "excerpt": "Elon Musk commented to Bill Maher about the ongoing controversy of whether advances in AI will lead to human longevity and the possibility of being able to live forever. Here is the insider analysis on that emerging hot topic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2023/05/05/elon-musk-stirs-debate-on-claims-that-ai-will-enable-you-to-live-forever-an-immortal-question-for-ai-ethics/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/05/05/elon-musk-stirs-debate-on-claims-that-ai-will-enable-you-to-live-forever-an-immortal-question-for-ai-ethics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6452a5233fe6b06e18eabd27/0x0.jpg?format=jpg&crop=4000,2999,x333,y0,safe&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2023/05/05/elon-musk-stirs-debate-on-claims-that-ai-will-enable-you-to-live-forever-an-immortal-question-for-ai-ethics/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/05/05/elon-musk-stirs-debate-on-claims-that-ai-will-enable-you-to-live-forever-an-immortal-question-for-ai-ethics/amp/",
-      "publishedDateTime": "2023-05-05T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "AI in Robotics"
       ]
     }
   ],

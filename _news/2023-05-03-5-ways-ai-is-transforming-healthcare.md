@@ -58,6 +58,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 63
+  - title: "5 Ways Artificial Intelligence is Changing The Future Of Business"
+    excerpt: "Tech - Artificial intelligence (AI) has been a game-changer in countless ways across the world. Companies and businesses are able to use enhanced AI systems to"
+    publishedDateTime: 2023-05-07T14:39:00Z
+    webUrl: "https://business-review.eu/tech/5-ways-artificial-intelligence-is-changing-the-future-of-business-245442"
+    type: article
+    provider:
+      name: business-review.eu
+      domain: business-review.eu
+    quality: 39
+    images:
+      - url: "https://business-review.eu/wp-content/uploads/2023/05/AI1.png"
+        width: 624
+        height: 328
+        isCached: true
   - title: "Smarter-than-humans artificial intelligence is coming fast as business looks for profits"
     excerpt: "Voices worried about an AI takeover were thin on the ground a few years ago. But despite a recent flood of calls for restraint as the technology improves by leaps and bounds, AI's money-making and defense potential appears irresistible."
     publishedDateTime: 2023-05-04T08:00:00Z

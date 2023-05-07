@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2023/05/01/1072478/deep-learning-pi
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/05/01/1072478/deep-learning-pioneer-geoffrey-hinton-quits-google/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "‘Godfather of AI’ Geoffrey Hinton quits Google and warns over dangers of misinformation"
-    excerpt: "The neural network pioneer says dangers of chatbots were ‘quite scary’ and warns they could be exploited by ‘bad actors’"
-    publishedDateTime: 2023-05-02T20:12:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/may/02/geoffrey-hinton-godfather-of-ai-quits-google-warns-dangers-of-machine-learning?trk=public_post_comment-text"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/02/geoffrey-hinton-godfather-of-ai-quits-google-warns-dangers-of-machine-learning"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/02/geoffrey-hinton-godfather-of-ai-quits-google-warns-dangers-of-machine-learning"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 49
-    images:
-      - url: "https://i.guim.co.uk/img/media/9d2f544e797d7664901b646357c02b61e4121051/0_33_6222_3733/master/6222.jpg?width=620&quality=85&auto=format&fit=max&s=0fbd4a1fa9bba14ccfe9ed2804ba32fc"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Why AI’s ‘godfather’ Geoffrey Hinton quit Google to speak out on risks"
     excerpt: "Professor voiced fears that rapid advance of technology would lead to significant job losses and flood of misinformation"
     publishedDateTime: 2023-05-05T15:00:00Z

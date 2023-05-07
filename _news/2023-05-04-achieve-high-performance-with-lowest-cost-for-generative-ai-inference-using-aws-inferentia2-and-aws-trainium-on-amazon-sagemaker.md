@@ -38,20 +38,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 99
-  - title: "Hosting ML Models on Amazon SageMaker using Triton: XGBoost, LightGBM, and Treelite Models"
-    excerpt: "One of the most popular models available today is XGBoost. With the ability to solve various problems such as classification and regression, XGBoost has become a popular option that also falls into the category of tree-based models. In this post, we dive deep to see how Amazon SageMaker can serve these"
-    publishedDateTime: 2023-05-02T21:41:00Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/hosting-ml-models-on-amazon-sagemaker-using-triton-xgboost-lightgbm-and-treelite-models/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 96
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/02/hosting-models-on-sagemaker-1260x630.jpg"
-        width: 1260
-        height: 630
-        isCached: true
   - title: "How Vericast optimized feature engineering using Amazon SageMaker Processing"
     excerpt: "This post is co-written by Jyoti Sharma and Sharmo Sarkar from Vericast. For any machine learning (ML) problem, the data scientist begins by working with data. This includes gathering, exploring, and understanding the business and technical aspects of the data, along with evaluation of any manipulations"
     publishedDateTime: 2023-05-03T15:17:59Z

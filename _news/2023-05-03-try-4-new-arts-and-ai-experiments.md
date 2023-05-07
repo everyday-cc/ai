@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/outreach-initiatives/arts-culture/try-4-new-arts
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/arts-culture/try-4-new-arts-and-ai-experiments/amp/"
 type: article
 quality: 109
-heat: 219
+heat: 209
 published: true
 
 provider:
@@ -105,20 +105,6 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
-  - title: "How AI Can Help You Design Better Meetings and Events"
-    excerpt: "They’ll also be able to use autonomous AI “agents” like AutoGPT – capable of self-directing themselves to perform multiple steps in sequences and complete complex tasks without much human prompting – to aid with every facet of research,"
-    publishedDateTime: 2023-05-02T22:50:00Z
-    webUrl: "https://www.law.com/corpcounsel/2023/05/02/how-ai-can-help-you-design-better-meetings-and-events/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 37
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/428/2023/05/AI-automation-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
   - title: "Art world AI-nxiety: what is artificial intelligence and how are artists using it?"
     excerpt: "From breaking news and insider insights to exhibitions and events around the world, the team at The Art Newspaper picks apart the art world’s big stories with the help of special guests."
     publishedDateTime: 2023-05-05T18:15:00Z

@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-04-27-first-babies-conceived-using-playstation-controlled-robot-are-born.md",
+      "title": "First babies conceived using PlayStation-controlled robot are born",
+      "excerpt": "the student mechanical engineer who controlled the sperm-injecting device, told MIT Technology Review. The robot was developed by Overture Life, a company that’s working towards automating in ...",
+      "sourceUrl": null,
+      "webUrl": "https://metro.co.uk/2023/04/27/first-babies-conceived-using-playstation-controlled-robot-are-born-18685759/",
+      "originalUrl": "https://metro.co.uk/2023/04/27/first-babies-conceived-using-playstation-controlled-robot-are-born-18685759/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://metro.co.uk/wp-content/uploads/2023/04/picsea-kd3qRzgEl70-unsplash-5929.jpg?quality=90&strip=all&zoom=1&resize=600%2C400",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://metro.co.uk/2023/04/27/first-babies-conceived-using-playstation-controlled-robot-are-born-18685759/amp/",
+      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/04/27/first-babies-conceived-using-playstation-controlled-robot-are-born-18685759/amp/",
+      "publishedDateTime": "2023-04-27T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Metro",
+        "domain": "metro.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-26-stop-the-killer-robots-musk-backed-lobbyists-fight-to-save-europe-from-bad-ai.md",
       "title": "Stop the killer robots! Musk-backed lobbyists fight to save Europe from bad AI",
       "excerpt": "A lobby group backed by Elon Musk and associated with a controversial ideology popular among tech billionaires is fighting to prevent killer robots from terminating humanity, and it's taken hold of Europe's Artificial Intelligence Act to do so. The Future ...",
@@ -1267,49 +1310,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-18-tric-robotics-offers-farmers-uv-pest-control.md",
-      "title": "Tric Robotics offers farmers UV pest control",
-      "excerpt": "One of Tric Robotics' tractors bathes crops in ultraviolet light. (courtesy photo) San Luis Obispo-based Tric Robotics started in Delaware in 2017 making small, lunchbox-sized robots for police SWAT teams.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pacbiztimes.com/2023/04/17/tric-robotics-offers-farmers-uv-pest-control/",
-      "originalUrl": "https://www.pacbiztimes.com/2023/04/17/tric-robotics-offers-farmers-uv-pest-control/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pacbiztimes.com/wp-content/uploads/2019/11/CHC.jpg",
-          "width": 350,
-          "height": 329,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-17T20:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pacbiztimes.com",
-        "domain": "pacbiztimes.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

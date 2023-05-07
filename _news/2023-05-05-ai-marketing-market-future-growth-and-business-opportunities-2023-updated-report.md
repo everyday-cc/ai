@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-marketing-market-futu
 webUrl: "https://www.marketwatch.com/press-release/ai-marketing-market-future-growth-and-business-opportunities-2023-updated-report-2023-05-05"
 type: article
 quality: 80
-heat: 210
+heat: 200
 published: true
 
 provider:
@@ -124,20 +124,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Challenges and Opportunities of Artificial Intelligence"
-    excerpt: "Previously, she served as vice president and group counsel, artificial intelligence products group, at Intel Corp. She previously held attorney roles at Sun Microsystems and Fenwick & West."
-    publishedDateTime: 2023-05-02T19:13:00Z
-    webUrl: "https://www.govinfosecurity.com/challenges-opportunities-artificial-intelligence-a-21768"
-    type: article
-    provider:
-      name: HHS
-      domain: govinfosecurity.com
-    quality: 39
-    images:
-      - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/challenges-opportunities-artificial-intelligence-showcase_image-9-a-21768.jpg"
-        width: 860
-        height: 520
         isCached: true
   - title: "Artificial Intelligence in Building Market Size and Value: In-Depth Research Report, and possible growth directions of 12.7% CAGR from 2023-2030"
     excerpt: "The \"Artificial Intelligence in Building Market\" is segmented into regions, Applications, and Types. The report presents the research and analysis provided within the Artificial Intelligence in Building Market Research is meant to benefit stakeholders,"

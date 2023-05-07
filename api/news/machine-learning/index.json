@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-07-a-mayday-call-for-artificial-intelligence.md",
+      "title": "A mayday call for artificial intelligence",
+      "excerpt": "Was Geoffrey Hinton's (the \"godfather of AI\") resignation from Google on May Day a true mayday signal for where AI is headed?",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/a-mayday-call-for-artificial-intelligence/",
+      "originalUrl": "https://venturebeat.com/ai/a-mayday-call-for-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/annevb_yelling_into_the_darkness_for_help._Mayday._colorful_tec_0a36545d-071c-43e1-8b42-cc2ee04e5099.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/a-mayday-call-for-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/a-mayday-call-for-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-05-07T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-07-rise-of-artificial-intelligence-is-inevitable-but-should-not-be-feared-father-of-ai-says.md",
       "title": "Rise of artificial intelligence is inevitable but should not be feared, ‘father of AI’ says",
       "excerpt": "Jürgen Schmidhuber believes AI will progress to the point where it surpasses human intelligence and will pay no attention to people",
@@ -167,7 +219,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/data-science-and-machine-learning-service-market-report-with-swot-and-pestal-analysis-2023-to-2030-2023-05-05",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -220,7 +272,7 @@
       "originalUrl": "https://www.livemint.com/news/world/godfather-of-artificial-intelligence-geoffrey-hinton-has-spoken-up-about-the-dangers-of-ai-11683244206712.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -455,6 +507,50 @@
       ]
     },
     {
+      "path": "_news/2023-05-03-deep-learning-chip-market-2023-detailed-analysis-and-huge-growth-by-top-players-nvidia-intel-ibm-qualcomm.md",
+      "title": "Deep Learning Chip Market 2023 Detailed Analysis and Huge Growth by Top Players-NVIDIA, Intel, IBM, Qualcomm",
+      "excerpt": "Global Deep Learning ChipMarket Precise Outlook 2023-2029 This extensive report provides significant insights into the present industry trends and future prospects with a global perspective. We are certain that our meticulously researched and insightful findings will offer valuable assistance to our clients in making informed decisions regarding their business operations,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-chip-market-2023-detailed-analysis-and-huge-growth-by-top-players-nvidia-intel-ibm-qualcomm-2023-05-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-chip-market-2023-detailed-analysis-and-huge-growth-by-top-players-nvidia-intel-ibm-qualcomm-2023-05-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-03T04:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-05-03-automated-machine-learning-automl-market-analysis-and-forecast-to-2031.md",
       "title": "Automated Machine Learning (AutoML) Market Analysis and Forecast to 2031",
       "excerpt": "May 03, 2023 (The Expresswire) -- \"Automated Machine Learning (AutoML) Market\" is expected to witness significant growth in the coming years,",
@@ -516,7 +612,7 @@
       "originalUrl": "https://www.technologyreview.com/2023/05/01/1072478/deep-learning-pioneer-geoffrey-hinton-quits-google/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -1369,94 +1465,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-machine-learning-in-retail-market-size-business-segments-innovative-strategies-and-outlook-by-2030-ibm-microsoft-amazon-web-services.md",
-      "title": "Machine Learning in Retail Market Size, Business Segments, Innovative Strategies And Outlook by 2030| IBM, Microsoft, Amazon Web Services",
-      "excerpt": "The Machine Learning in Retail Market research report encompasses a thorough study of the current situation of the",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-in-retail-market-size-business-segments-innovative-strategies-and-outlook-by-2030-ibm-microsoft-amazon-web-services-2023-04-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-in-retail-market-size-business-segments-innovative-strategies-and-outlook-by-2030-ibm-microsoft-amazon-web-services-2023-04-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T00:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-telix-accelerates-artificial-intelligence-ai-development-program-with-acquisition-of-dedicaid.md",
-      "title": "Telix Accelerates Artificial Intelligence (AI) Development Program with Acquisition of Dedicaid",
-      "excerpt": "Telix Pharmaceuticals Limited (ASX: TLX, Telix, the Company) today announces the expansion of its artificial intelligence (AI) capability with the signing of an agreement to acquire Vienna-based Dedicaid GmbH (Dedicaid),",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/telix-accelerates-artificial-intelligence-ai-development-program-with-acquisition-of-dedicaid-1032265571",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/telix-accelerates-artificial-intelligence-ai-development-program-with-acquisition-of-dedicaid-1032265571",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-26T17:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

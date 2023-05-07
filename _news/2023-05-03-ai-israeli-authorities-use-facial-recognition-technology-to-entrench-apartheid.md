@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1106161352/AI-Israeli-Authorities-Use-Facial-Re
 webUrl: "https://menafn.com/1106161352/AI-Israeli-Authorities-Use-Facial-Recognition-Technology-To-Entrench-Apartheid"
 type: article
 quality: 50
-heat: 90
+heat: 70
 published: true
 
 provider:
@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition powers ‘automated apartheid’ in Israel, report says"
-    excerpt: "Israel is increasingly relying on facial recognition in the occupied West Bank to track Palestinians and restrict their passage through key checkpoints."
-    publishedDateTime: 2023-05-02T22:43:00Z
-    webUrl: "https://www.seattletimes.com/business/facial-recognition-powers-automated-apartheid-in-israel-report-says/"
-    ampWebUrl: "https://www.seattletimes.com/business/facial-recognition-powers-automated-apartheid-in-israel-report-says/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/facial-recognition-powers-automated-apartheid-in-israel-report-says/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 39
   - title: "“Automated Apartheid”: How Israel Uses Facial Recognition to Track Palestinians & Control Movement"
     excerpt: "A new report by Amnesty International documents how the Israeli government is using an experimental facial recognition system to track Palestinians and control their movements. The findings are part of “Automated Apartheid,"
     publishedDateTime: 2023-05-04T19:42:00Z
@@ -64,15 +53,6 @@ related:
         width: 2560
         height: 1706
         isCached: true
-  - title: "Wolf Pack: Israel's accelerated use of facial recognition is ‘automated apartheid'"
-    excerpt: "Israeli military increasingly conducts 'intelligence mapping' raids to document facial characteristics of Palestinians, Amnesty says"
-    publishedDateTime: 2023-05-02T19:09:00Z
-    webUrl: "https://www.middleeasteye.net/news/wolf-pack-israel-accelerated-use-facial-recognition-automated-apartheid"
-    type: article
-    provider:
-      name: Middle East Eye
-      domain: middleeasteye.net
-    quality: 13
 
 secured: "n8n5VBIttt2K0rzImjqJX3prHkLn42VXwJUXFSPZl0WNqrY9JAaYYPjTZFxgtSSFs8wMaK/NsNLUpiSRlIAuJa9QkZ+YiCUQy4b8ho8iqlTtACtJc4FYYs4SHs0CbYeUh6iSbSBEk3zr5+Vgj1IprzEqoB/I0l6oC7qQ+u5K83s7aMEMtHq8XbyPYH6ARq7sL+kbiHAz4C7XXK+cr+7IBc5ojiB6WFptiPkY+b4XTjfrop72hY/doIf7GhUBChzbrQi/CpJTWYyYWL08hOpgFYo3ua1QhDB8G+bBc+MzQzkqJR7tI+oRCFegLrR+KfQgEF/hfiea5p5rv5JGpM8YDUgoA9MeON+a9DqiBo8H9Qylg8olPWGwMkvr97nzMF6kK1AJDEBqsamcWF2dDvx9UPjLZjz61LzBEvAuQzehQIoRCVJyWJB7v6PgQrzddQjFMM989D7Pjme6/b28wj3ID8cH11zP2xVxLAyW7hyFEy9Hl8b0KG+0lK9Fn7pFDzoSD4x+hj+56cBBjR97aHAKZg==;S9LzhKdKxtLy+86cbvUudQ=="
 ---

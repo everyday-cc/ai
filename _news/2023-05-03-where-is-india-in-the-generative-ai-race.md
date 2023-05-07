@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/05/03/where-is-india-in-the-generative-a
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/03/where-is-india-in-the-generative-ai-race/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 127
 published: true
 
 provider:
@@ -43,22 +43,6 @@ related:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iiSpW4J5_o2I/v0/1200x800.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "3 ways Generative AI is transforming the retail industry"
-    excerpt: "Microsoft Azure OpenAI and other Generative AI technologies are helping retailers jumpstart innovation, improve customer experience, and accelerate growth."
-    publishedDateTime: 2023-05-02T21:58:00Z
-    webUrl: "https://www.cio.com/article/475453/3-ways-generative-ai-is-transforming-theretail-industry.html"
-    ampWebUrl: "https://www.cio.com/article/475453/3-ways-generative-ai-is-transforming-theretail-industry.html/amp/"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/475453/3-ways-generative-ai-is-transforming-theretail-industry.html/amp/"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 59
-    images:
-      - url: "https://www.cio.com/wp-content/uploads/2023/05/image-EVP-2-Retail-iStock-Asawin_Klabma-1.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 645
         isCached: true
   - title: "Data science and AI: How it is changing the game for fintechs in India"
     excerpt: "The financial sector in India has always embraced cutting-edge technologies, and as a result, it has been undergoing transformations. The emergence of FinTech companies in India has disrupted the financial sector and it is now amongst the fastest growing Fintech markets in the world."
@@ -104,15 +88,6 @@ related:
         width: 600
         height: 375
         isCached: true
-  - title: "Generative AI start-up Cohere in talks for $250mn in fresh funding"
-    excerpt: "Artificial intelligence start-up Cohere is close to securing $250mn in fresh funding from backers including Nvidia and Salesforce, which would represent the latest big investment into the generative AI sector that has boomed since the release of ChatGPT last year."
-    publishedDateTime: 2023-05-02T20:05:00Z
-    webUrl: "https://www.ft.com/content/84bfc44e-d1f3-4b83-9986-ed0d958b5f4c"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
 
 secured: "lYMmGDPrHRIlhXzJjRte2V4z+g2wVTSmYPAUsECUeoACLUVGOkOGPwjGEV4SxF+9/VdLqMHPgoroRFNI3idQrod4XgNdFkBXspm9zdTBIeFP5EFDpgjQ4F0zXRni+R6f5tP7kndlu4mrW/KDWEd8mCCJkDCVOXM/lI+dLsmu8PqLx+4poZWl2Einz38HirGfymf8erGbG0QELIaRqVF770CI2/r5Q1aVwtM+Gjz+1vGs5I9C7qH+KIZFHjmmMCatw0tNj85qOIHzCtf/PJxjH+jK6zr4m2EDRI2vTJQKufXtFAHa8MTWms3JeWUMtQkQpgcJDEJ15Lb4khU6HwWNm9S+TlUJbs/VeHt73tPFBezHP5v8XYXzBMGKbOX4sgWJIXbltstBkKJ1KGh4N25bGnbGzxsUqBUcOhadkYBtUGFiSu3bKsI1aWTZzrlAvr5u08LRqCeJA5R9uaNLu3PyyRXapHz7Fz0DS1AepKQbotCRRA2W3c2pU0jzUkvqvhSXfjIHv7AhMn523JXnqDTgCg==;DFV8Zr6kT2xxZoULSirrwA=="
 ---

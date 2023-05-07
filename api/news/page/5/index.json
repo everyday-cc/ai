@@ -2,6 +2,283 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-05-03-sap-signs-ibm-watson-deal-chatgpt-showstopper-waits-in-the-wings.md",
+      "title": "SAP signs IBM Watson deal, ChatGPT showstopper waits in the wings",
+      "excerpt": "Watson is a question-answering system developed by IBM in the Noughties. SAP said the Watson-powered system would help managers and employees in the find answers across various SAP business applications, having already been deployed in SAP Concur, the expense management application.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2023/05/03/ibm_watson_chagtgpt/",
+      "originalUrl": "https://www.theregister.com/2023/05/03/ibm_watson_chagtgpt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2021/03/02/shutterstock_sap_bikes.jpg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2023/05/03/ibm_watson_chagtgpt/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2023/05/03/ibm_watson_chagtgpt/",
+      "publishedDateTime": "2023-05-03T06:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-03-trovata-launches-first-generative-ai-finance-treasury-tool.md",
+      "title": "Trovata Launches First Generative AI Finance & Treasury Tool",
+      "excerpt": "Trovata Launches First Generative AI Finance & Treasury Tool May 03, 2023 (PRNewswire via COMTEX) -- PR Newswire SAN DIEGO, May 3, 2023 Trovata",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/trovata-launches-first-generative-ai-finance-treasury-tool-2023-05-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/trovata-launches-first-generative-ai-finance-treasury-tool-2023-05-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-03T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-03-these-robot-arms-were-designed-to-help-humans-interact-with-ai.md",
+      "title": "These robot arms were designed to help humans interact with AI",
+      "excerpt": "Jizai Arms is a system of supernumerary robotic limbs. Up to six of these arms can be worn and controlled by the user. The limbs allow the wearer to attach, detach, replace or edit the arms. This was designed to enable social interaction between wearers to support human beings acting with robots and AIs while maintaining a sense of self-awareness and widening the possibility of human actions.",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/video/robot-arms-jizai-bodies",
+      "originalUrl": "https://mashable.com/video/robot-arms-jizai-bodies",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/videos/04dRP8kLvImZOxp7RbvFFmD/hero-image.fill.size_1200x675.v1683028082.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-03T04:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-05-03-deep-learning-chip-market-2023-detailed-analysis-and-huge-growth-by-top-players-nvidia-intel-ibm-qualcomm.md",
+      "title": "Deep Learning Chip Market 2023 Detailed Analysis and Huge Growth by Top Players-NVIDIA, Intel, IBM, Qualcomm",
+      "excerpt": "Global Deep Learning ChipMarket Precise Outlook 2023-2029 This extensive report provides significant insights into the present industry trends and future prospects with a global perspective. We are certain that our meticulously researched and insightful findings will offer valuable assistance to our clients in making informed decisions regarding their business operations,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-chip-market-2023-detailed-analysis-and-huge-growth-by-top-players-nvidia-intel-ibm-qualcomm-2023-05-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-chip-market-2023-detailed-analysis-and-huge-growth-by-top-players-nvidia-intel-ibm-qualcomm-2023-05-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-03T04:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-05-03-you-can-now-pay-using-facial-recognition-as-airtel-payments-bank-rolls-out-face-authentication-with-npci.md",
+      "title": "You Can Now Pay Using Facial Recognition As Airtel Payments Bank Rolls Out Face Authentication With NPCI",
+      "excerpt": "Customers just need to present themselves to get payment. In actuality, Airtel Payments Bank started this service.",
+      "sourceUrl": null,
+      "webUrl": "https://in.mashable.com/tech/51949/you-can-now-pay-using-facial-recognition-as-airtel-payments-bank-rolls-out-face-authentication-with",
+      "originalUrl": "https://in.mashable.com/tech/51949/you-can-now-pay-using-facial-recognition-as-airtel-payments-bank-rolls-out-face-authentication-with",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/mashable_in/seo/5/52658/52658_ntny.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-03T04:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "in.mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-05-03-ex-openai-researcher-says-theres-a-50-chance-ai-development-could-end-in-doom.md",
+      "title": "Ex-OpenAI researcher says there's a 50% chance AI development could end in 'doom'",
+      "excerpt": "Paul Christiano runs the non-profit Alignment Research Center but previously ran the language model alignment team at OpenAI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/openai-researcher-ai-doom-50-chatgpt-2023-5",
+      "originalUrl": "https://www.businessinsider.com/openai-researcher-ai-doom-50-chatgpt-2023-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/642f1618c328830019d9f954?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/openai-researcher-ai-doom-50-chatgpt-2023-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/openai-researcher-ai-doom-50-chatgpt-2023-5?amp",
+      "publishedDateTime": "2023-05-03T04:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-03-can-an-auditor-be-replaced-by-ai.md",
       "title": "Can An Auditor Be Replaced By AI?",
       "excerpt": "More people are growing concerned that AI could put at risk the careers of auditors, but how much truth is behind this fear?",
@@ -61,7 +338,7 @@
       "originalUrl": "https://techcrunch.com/2023/05/03/where-is-india-in-the-generative-ai-race/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -112,7 +389,7 @@
       "originalUrl": "https://blog.google/outreach-initiatives/arts-culture/try-4-new-arts-and-ai-experiments/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 219,
+      "heat": 209,
       "tags": null,
       "images": [
         {
@@ -164,7 +441,7 @@
       "originalUrl": "https://menafn.com/1106161352/AI-Israeli-Authorities-Use-Facial-Recognition-Technology-To-Entrench-Apartheid",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 70,
       "tags": null,
       "images": [
         {
@@ -456,6 +733,57 @@
       ]
     },
     {
+      "path": "_news/2023-05-03-artificial-intelligence-detecting-cancer-in-some-us-hospitals.md",
+      "title": "Artificial Intelligence detecting cancer in some U.S. hospitals",
+      "excerpt": "Doctors believe Artificial Intelligence is now saving lives, after a major advancement in breast cancer screenings. A.I. is detecting early signs of the disease, in some cases years before doctors would find the cancer on a traditional scan.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/video/6326643971112",
+      "originalUrl": "https://www.foxnews.com/video/6326643971112",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/64a7bf5e-cbc4-4589-b30a-252fdbf7d8bf/ce181432-e4f7-4d55-a2a1-64d01842ee04/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-02T22:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-03-automated-machine-learning-automl-market-analysis-and-forecast-to-2031.md",
       "title": "Automated Machine Learning (AutoML) Market Analysis and Forecast to 2031",
       "excerpt": "May 03, 2023 (The Expresswire) -- \"Automated Machine Learning (AutoML) Market\" is expected to witness significant growth in the coming years,",
@@ -517,7 +845,7 @@
       "originalUrl": "https://www.technologyreview.com/2023/05/01/1072478/deep-learning-pioneer-geoffrey-hinton-quits-google/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -886,358 +1214,6 @@
         "IBM AI",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-05-03-this-robot-can-paint-but-is-it-art.md",
-      "title": "This Robot Can Paint. But Is It Art?",
-      "excerpt": "Researchers at Carnegie Mellon University developed an A.I.-powered arm that can paint an abstract acrylic. Is it art?",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/05/02/science/ai-creativity-paintbot.html",
-      "originalUrl": "https://www.nytimes.com/2023/05/02/science/ai-creativity-paintbot.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/05/02/multimedia/02SCI-MIND-PAINTBOT-vid1cover-gbqv/02SCI-MIND-PAINTBOT-vid1cover-gbqv-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-02T11:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-03-artificial-intelligence-in-eye-care-a-trending-transformation.md",
-      "title": "Artificial Intelligence in Eye Care: A Trending Transformation",
-      "excerpt": "Artificial intelligence is helping to expand the physical abilities of eye clinics and hospitals to perform repetitive tasks with less error and more efficiency.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/artificial-intelligence-in-eye-care-a-trending-transformation-211614-1.htm",
-      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-in-eye-care-a-trending-transformation-211614-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/An-eye-care-professi.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-in-eye-care-a-trending-transformation-211614-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-in-eye-care-a-trending-transformation-211614-1.htm",
-      "publishedDateTime": "2023-05-02T10:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-03-new-chemix-ai-based-ev-battery-development-reduces-or-eliminates-cobalt.md",
-      "title": "New Chemix AI-Based EV Battery Development Reduces Or Eliminates Cobalt",
-      "excerpt": "Tech startup Chemix has unveiled an artificial intelligence-based platform for developing EV batteries much faster and require little to no scarce minerals such as cobalt or nickel.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/edgarsten/2023/05/02/new-chemix-ai-based-ev-battery-development-reduces-or-eliminates-cobalt/",
-      "originalUrl": "https://www.forbes.com/sites/edgarsten/2023/05/02/new-chemix-ai-based-ev-battery-development-reduces-or-eliminates-cobalt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64500e643f9eca9f34961e4d/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/edgarsten/2023/05/02/new-chemix-ai-based-ev-battery-development-reduces-or-eliminates-cobalt/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/edgarsten/2023/05/02/new-chemix-ai-based-ev-battery-development-reduces-or-eliminates-cobalt/amp/",
-      "publishedDateTime": "2023-05-02T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-03-nvidias-20-siggraph-papers-highlight-generative-ai-3d-characters-and-hair.md",
-      "title": "Nvidia’s 20 Siggraph papers highlight generative AI, 3D characters and hair",
-      "excerpt": "Nvidia Graphics Research said it has 20 research papers debuting at SIGGRAPH, the big computer graphics conference coming in Los Angeles.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/nvidias-20-siggraph-papers-highlight-generative-ai-3d-characters-and-hair/",
-      "originalUrl": "https://venturebeat.com/ai/nvidias-20-siggraph-papers-highlight-generative-ai-3d-characters-and-hair/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/05/NVIDIA-SIGGRAPH-Key-Visual.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 787,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/nvidias-20-siggraph-papers-highlight-generative-ai-3d-characters-and-hair/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidias-20-siggraph-papers-highlight-generative-ai-3d-characters-and-hair/amp/",
-      "publishedDateTime": "2023-05-02T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-ai-pioneer-quits-google-to-warn-about-dangers.md",
-      "title": "AI pioneer quits Google to warn about dangers",
-      "excerpt": "An AI-generated song copied the Weeknd and Drake's voice. Who gets paid? School changes reading program after realizing students 'weren't actually learning to read'",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/videos/world/2023/05/02/exp-ai-dangers-anna-stewart-reports-fst-050210aseg1-cnni-world.cnn",
-      "originalUrl": "https://www.cnn.com/videos/world/2023/05/02/exp-ai-dangers-anna-stewart-reports-fst-050210aseg1-cnni-world.cnn",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 207,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/230502121138-exp-ai-dangers-anna-stewart-reports-fst-050210aseg1-cnni-world-00002001-super-tease.png",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/world/2023/05/02/exp-ai-dangers-anna-stewart-reports-fst-050210aseg1-cnni-world.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/world/2023/05/02/exp-ai-dangers-anna-stewart-reports-fst-050210aseg1-cnni-world.cnn",
-      "publishedDateTime": "2023-05-02T09:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-microsofts-work-trend-index-employee-engagement-pays-off-in-productivity-stock-price.md",
-      "title": "Microsoft’s Work Trend Index: Employee engagement pays off in productivity, stock price",
-      "excerpt": "This Microsoft Work Trend research report details the benefits of using a feedback flywheel to keep employees engaged.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/microsoft-work-trend-index-employee-engagement/",
-      "originalUrl": "https://www.techrepublic.com/article/microsoft-work-trend-index-employee-engagement/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/05/microsoft-gef15b3e66_1280.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/article/microsoft-work-trend-index-employee-engagement/amp/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/microsoft-work-trend-index-employee-engagement/amp/",
-      "publishedDateTime": "2023-05-02T09:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-best-fintech-app-development-companies-in-the-usa.md",
-      "title": "Best Fintech App Development Companies in the USA",
-      "excerpt": "Fintech app development services are known to develop diverse fintech apps. The introduction involves creating",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/best-fintech-app-development-companies-in-the-usa-2023-05-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/best-fintech-app-development-companies-in-the-usa-2023-05-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-02T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

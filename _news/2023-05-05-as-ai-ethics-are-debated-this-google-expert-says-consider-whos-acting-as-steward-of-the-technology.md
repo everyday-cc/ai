@@ -39,6 +39,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Google AI chief quits due to concerns about dangers from technology"
+    excerpt: "Artificial intelligence pioneer Geoffrey Hinton said he realized computers could become smarter than people far sooner than he and other experts had expected"
+    publishedDateTime: 2023-05-07T15:48:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273823159/google-ai-chief-quits-due-to-concerns-about-dangers-from-technology"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 39
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1683170979548.jpg"
+        width: 630
+        height: 420
+        isCached: true
 
 secured: "RL4i1lyKRl+rojGsxyQQ7n7wLSO/6Q3M2v/37nRtyyJxrdcawkqUrbBUTmUM2xRrnOv00z3wprppfCxeZ1cDjMCqrQSsGDP/bSpXx9DQdpBzPBOcYEkKRYEf0GWSxu5NmYtgfGg4+w91FDWovo7W8rhEXJRe/ynfPuOFMXAlisDdhxkUkIDf+le6xzXU7opQLZuZYkUZvjrd2NMQNVyMBGP5/bZHeWWpKB7rcN3o8ARYg9H8JS4T2VTzHqB+zATG+5ZcyUZQQGabinzpcQt5Lof2pscFTAAR5afdW9o4ESaVbKICu4jlsdm4LNggo19vH/wOc69fSP2nqYvXiIoDYVogu6eJhms+tgXdRCRf8a0=;49EBEUATn4ULMLbrSl4tyQ=="
 ---

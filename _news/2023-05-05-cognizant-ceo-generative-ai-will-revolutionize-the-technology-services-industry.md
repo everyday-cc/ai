@@ -55,22 +55,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "3 ways Generative AI is transforming the retail industry"
-    excerpt: "Microsoft Azure OpenAI and other Generative AI technologies are helping retailers jumpstart innovation, improve customer experience, and accelerate growth."
-    publishedDateTime: 2023-05-02T21:58:00Z
-    webUrl: "https://www.cio.com/article/475453/3-ways-generative-ai-is-transforming-theretail-industry.html"
-    ampWebUrl: "https://www.cio.com/article/475453/3-ways-generative-ai-is-transforming-theretail-industry.html/amp/"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/475453/3-ways-generative-ai-is-transforming-theretail-industry.html/amp/"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 59
-    images:
-      - url: "https://www.cio.com/wp-content/uploads/2023/05/image-EVP-2-Retail-iStock-Asawin_Klabma-1.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 645
-        isCached: true
   - title: "Data science and AI: How it is changing the game for fintechs in India"
     excerpt: "The financial sector in India has always embraced cutting-edge technologies, and as a result, it has been undergoing transformations. The emergence of FinTech companies in India has disrupted the financial sector and it is now amongst the fastest growing Fintech markets in the world."
     publishedDateTime: 2023-05-06T05:45:00Z
@@ -101,15 +85,6 @@ related:
         width: 570
         height: 367
         isCached: true
-  - title: "Generative AI start-up Cohere in talks for $250mn in fresh funding"
-    excerpt: "Artificial intelligence start-up Cohere is close to securing $250mn in fresh funding from backers including Nvidia and Salesforce, which would represent the latest big investment into the generative AI sector that has boomed since the release of ChatGPT last year."
-    publishedDateTime: 2023-05-02T20:05:00Z
-    webUrl: "https://www.ft.com/content/84bfc44e-d1f3-4b83-9986-ed0d958b5f4c"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
 
 secured: "SjUeGrfj2YCofXxkCRhYTZSLLj7iu7gx51fx9SnCa6NmaWpgG6l+5RgbCBwI/+tQ8fLqXBVezQYrQtfTPs1N239rFZrGushyg/l1n2jcDTWUsHsglh2heXzc/C8sosVCR/scwwQaIQGfqwKSiTbKIEvm8bJxrs4YBYY0xfQ3KU79Y88Eky8/qgGj3p33XOIHtETpIq6u1e7stdtas+LE82pi4p5WyU5k0BEanlfkHP01L0VZvssS3jEOCPIS+OErR9ITmqXTIODSw+OIZ1lyZ8rNCb3AuFAb882R0ZrdaBOhIXP0Xgowj6Y83xP2yctkSc0BHoebhFALmmkZrlLiIzp141qFQeQPXr4hVSPCKhc=;CSgXi8XMzbEEsYnz74P57Q=="
 ---

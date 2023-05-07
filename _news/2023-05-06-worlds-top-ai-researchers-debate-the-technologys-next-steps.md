@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/worlds-top-ai-researchers-debate-the-
 webUrl: "https://www.wsj.com/articles/worlds-top-ai-researchers-debate-the-technologys-next-steps-55be2849"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Google AI chief quits due to concerns about dangers from technology"
+    excerpt: "Artificial intelligence pioneer Geoffrey Hinton said he realized computers could become smarter than people far sooner than he and other experts had expected"
+    publishedDateTime: 2023-05-07T15:48:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273823159/google-ai-chief-quits-due-to-concerns-about-dangers-from-technology"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 39
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1683170979548.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "As AI ethics are debated, this Google expert says: Consider who’s acting as ‘steward’ of the technology"
     excerpt: "\"The more perspectives, the more communities, the more cultures are brought into this conversation, the better the guardrails,\" Carolyn Yap, director of AI Practice, said during PACT's AI-focused Phorum conference."
     publishedDateTime: 2023-05-04T20:56:00Z

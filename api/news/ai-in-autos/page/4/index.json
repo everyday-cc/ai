@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-04-14-amazon-jumps-into-the-generative-ai-race-with-new-cloud-service.md",
+      "title": "Amazon jumps into the generative AI race with new cloud service",
+      "excerpt": "The announcement indicates the largest provider of cloud infrastructure won’t be leaving a trendy growth area to challengers such as Google and Microsoft.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/tech/tech-news/amazon-jumps-generative-race-new-cloud-service-rcna79599",
+      "originalUrl": "https://www.nbcnews.com/tech/tech-news/amazon-jumps-generative-race-new-cloud-service-rcna79599",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 361,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-12/211215-las-vegas-the-venetian-expo-aws-ac-1159p-b07aeb.jpg",
+          "width": 2500,
+          "height": 1663,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna79599",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna79599",
+      "publishedDateTime": "2023-04-13T18:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-04-13-honda-planning-self-driving-electric-vehicle-fitted-with-ai.md",
       "title": "Honda planning self-driving electric vehicle fitted with AI",
       "excerpt": "Honda Motor Co. said it is developing a self-driving compact electric car equipped with artificial intelligence (AI) that automatically picks up passengers at any location of their choosing. Honda ...",
@@ -1267,40 +1311,6 @@
       "provider": {
         "name": "Zawya",
         "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-heres-how-many-us-workers-chatgpt-says-it-could-replace.md",
-      "title": "Here's how many U.S. workers ChatGPT says it could replace",
-      "excerpt": "ChatGPT appears to be smart enough to recognize that artificial intelligence poses a threat to workers' livelihoods. Global outplacement and executive coaching firm Challenger, Gray & Christmas ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/chatgpt-artificial-intelligence-jobs/",
-      "originalUrl": "https://www.cbsnews.com/news/chatgpt-artificial-intelligence-jobs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-05T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
         "images": null,
         "publishers": null,
         "authors": null

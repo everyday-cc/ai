@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/news/world/godfather-of-artificial-intellig
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/world/godfather-of-artificial-intelligence-geoffrey-hinton-has-spoken-up-about-the-dangers-of-ai/amp-11683244206712.html"
 type: article
 quality: 64
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "The so-called \"Godfather of the A.I.\" joins The Lead to offer a dire warning about the dangers of artificial intelligence"
-    excerpt: "The so-called \"Godfather of the A.I.\" joins The Lead to offer a dire warning about the dangers of artificial intelligence"
-    publishedDateTime: 2023-05-02T23:01:00Z
-    webUrl: "https://www.cnn.com/videos/tv/2023/05/02/the-lead-geoffrey-hinton.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/tv/2023/05/02/the-lead-geoffrey-hinton.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/tv/2023/05/02/the-lead-geoffrey-hinton.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 62
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/230502185021-the-lead-geoffrey-hinton-00034401-super-tease.png"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "\"Godfather of artificial intelligence\" leaves Google to talk about the tech's potential dangers"
     excerpt: "Geoffrey Hinton, who worked with Google and mentors AI's rising stars, started looking at artificial intelligence more than 40 years ago, he told CBS Mornings in late March."
     publishedDateTime: 2023-05-02T23:31:00Z
@@ -53,7 +37,7 @@ related:
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 45
+    quality: 47
     images:
       - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/05/02/91eb3bf0-b65e-4479-a4ec-b63ef4850911/thumbnail/1200x630/74e8606ca2ffb8226f3e9cb87d9db982/2023-05-02t092105z-1365970753-rc28q0awktbl-rtrmadp-3-tech-ai-hinton.jpg"
         width: 1200
@@ -87,20 +71,17 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "The Godfather of AI is leaving Google with a stark warning about what's next"
-    excerpt: "Now, one of Google’s own is joining the anti-AI side. According to The New York Times, Dr. Geoffrey Hinton — who pioneered the use of neural networks in AI — has left Google after more than a decade with the company. His reason? So he can speak out freely against the rise of AI."
-    publishedDateTime: 2023-05-02T21:17:00Z
-    webUrl: "https://www.tomsguide.com/news/the-godfather-of-ai-is-leaving-google-with-a-stark-warning-about-whats-next"
+  - title: "Former Google scientist warns about the dangers of artificial intelligence"
+    excerpt: "A leading artificial intelligence researcher some call the “godfather” of AI says the technology is developing at a “scary” rate."
+    publishedDateTime: 2023-05-07T13:59:00Z
+    webUrl: "https://www.catholicnewsagency.com/news/254251/former-google-scientist-warns-about-the-risk-of-artificial-intelligence"
+    ampWebUrl: "https://www.catholicnewsagency.com/amp/news/254251/former-google-scientist-warns-about-the-risk-of-artificial-intelligence"
+    cdnAmpWebUrl: "https://www-catholicnewsagency-com.cdn.ampproject.org/c/s/www.catholicnewsagency.com/amp/news/254251/former-google-scientist-warns-about-the-risk-of-artificial-intelligence"
     type: article
     provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 34
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/eEMCS8TqbHszDwPz6bUZyE-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
+      name: Catholic News Agency
+      domain: catholicnewsagency.com
+    quality: 35
 
 secured: "2q4oNq122q4D0ENQMXGNGWlxLPqPU2zg63yYlBcUhI0LD3938Hf2FBh11DROb+RUbae2pVzZq93OjvApH78Ayrx6LqcFpFeAjnoBkEp0DCeQXMD4k+Kb4l1ZiB8d9gKQ942Sbq5pa2E37wEQlCfvzxe7UAWGwgED0VKWqtsINS/dbQXJ8c0ht/B6UoTWNHkOPcbEbnnsisHDmjTcdrxLNmbsyIt6xD9PxdL/e76BMb+y14ZB02qv6olsZS/nJL1C04MZ5pS++fzi8//4xio3YvokIkKNOlZLmd6i/toWcoY40+8qj5FAWrDXALp+6nyGIsYVJMre9n4bDQBIA+Dj9J03n4eVwLOQyux115tyUVU1/tNQmxN5M0LU3dpuTcZ/8AdaViXiCMHoO9/NzUYu1mvylflJrUvhkVWIBoa0UrPfeQ+gk1v4HSf9RLNSzQUZygWxCE/C8cX4FNyOW60K54GGD8DzK8D3Yzm1YCOYZR0MIE+n9XYsY1kLwRNod7WkF0lsqsdfhM93uo2g+F9dLQ==;UOAfRk3VQHT39nNb3INydg=="
 ---

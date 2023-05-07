@@ -70,6 +70,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 64
+  - title: "2023-2030, Computer Vision in Artificial Intelligence (AI) Market Segmentation-Identifying Your Target Audience"
+    excerpt: "To know How COVID-19 and Russia-Ukraine War Influence Will Impact This Market/Industry - Request a sample copy of the report-:  In This Reports Computer Vision in Artificial Intelligence (AI) Market Segment by Type ( Hardware,"
+    publishedDateTime: 2023-05-07T10:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-2030-computer-vision-in-artificial-intelligence-ai-market-segmentation-identifying-your-target-audience-2023-05-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
   - title: "Natural Language Processing For Healthcare And Life Sciences Market Size, Revenue, and Forecast 2030"
     excerpt: "Highlights with Short Brief of Natural Language Processing For Healthcare And Life Sciences Market: The Natural Language Processing For Healthcare And Life Sciences market revenue was Million USD in 2016, grew to Million USD in 2021, and will reach Million ..."
     publishedDateTime: 2023-05-04T12:10:00Z

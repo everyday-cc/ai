@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/indias-robot-installations-hit-an-a
 webUrl: "https://www.therobotreport.com/indias-robot-installations-hit-an-all-time-high/"
 type: article
 quality: 69
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -53,6 +53,15 @@ related:
         width: 425
         height: 240
         isCached: true
+  - title: "Robotic healing: Robot-assisted surgery on the rise in the US and India"
+    excerpt: "Jerry Ahrens visited the emergency room with a stomach ache, which turned out to be a mass on his right kidney. He needed surgery."
+    publishedDateTime: 2023-05-07T12:14:00Z
+    webUrl: "https://www.stltoday.com/lifestyles/health-med-fit/health/robotic-healing-robot-assisted-surgery-on-the-rise-in-the-us-and-india/article_e3920f4a-e9a7-11ed-9716-9b8261a7751d.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 19
 
 secured: "RjUmbsJyvGMosvKniJOaoAamYwjnXCF8Jy0S88Zhr//a8gwrLv+5ALqom2m35OP8in6TMxy7eGjg1YySkBLicKPPtl11fXCFZYXpqHPaDbKw4SF1atB97YtdNIloxgwvtRZOhPgambC3vdjEwmoc38Ctnv3nUpWAKr0kQOOltRcr9iHGmD0cEuLkMpsg2NmgTvTvfEdtQgExxMAPHZC6QEwRshyNpy5xhYFxB16ZGuBr1/+ljL/8TfLGk2bRwE8L9OCp9bSabnKR/8BoK55N17MEQLB6UL5e18ojZxaY81BoWqFmfVfEGnRvuIYSs2qa4XOX47bFZYefBV60Lh0v9NKxN3j37z2vvun7j/A9ggWOMD6B+E3XobnecBXs1On7pIp6z0PgWsNEJb9QSzhkfUTvbYZPqkruz2CxdlwjVRKBR7dvyORJ+kqfL4daMQO8BZ+UyDF4UM4eszjGAy2BY1vwpSbDdSYW8X8kdK+TugcpH5N8KGqNyjhFfNwHrCgmE1D1HGYNdrSCE1KjWrQRFQ==;SbRoCBmc4oT2Nm6RwGV1ww=="
 ---

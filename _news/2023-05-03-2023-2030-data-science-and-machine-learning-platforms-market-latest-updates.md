@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Robotic Cleaning Machines Market Size, Trends, Scope and Industry Demands Analysis 2023 – 2029"
-    excerpt: "The Global \" Robotic Cleaning Machines Market \" Research report give detailed information with reference to market size, share, trends, growth, cost revenue, capacity, and forecast till 2029. This report also contains the general and in-depth study of the Robotic Cleaning Machines market with all its aspects influencing the growth of the market."
-    publishedDateTime: 2023-05-03T10:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/robotic-cleaning-machines-market-size-trends-scope-and-industry-demands-analysis-2023-2029-2023-05-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "(CAGR of 25.7%) Global Speech and Voice Recognition Market Analysis, Key Segments, Share, Size, Growth Status, and Forecast 2023 to 2031"
     excerpt: "Global speech and voice recognition is expected to reach USD 6,770.21 Million by 2025 from USD 1,095.00 Million in 2017, at a CAGR of 25.7% in the forecast period 2018 to 2025. The major factors driving the growth of this market are the effective integration due to increased demand for voice and speech-based biometric systems,"
     publishedDateTime: 2023-05-03T10:25:00Z

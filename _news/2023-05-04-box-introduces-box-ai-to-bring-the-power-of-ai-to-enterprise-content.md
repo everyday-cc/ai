@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/05/04/box-introduces-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/05/04/box-introduces-box-ai-to-bring-the-power-of-ai-to-enterprise-content/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Accenture finds only 9% of enterprises harness AI’s full potential"
-    excerpt: "New Accenture report reveals key strategies \"operations reinventors\" use to achieve elevated levels of operational maturity."
-    publishedDateTime: 2023-05-02T22:03:00Z
-    webUrl: "https://venturebeat.com/ai/accenture-finds-only-9-of-enterprises-harness-ais-full-potential/"
-    ampWebUrl: "https://venturebeat.com/ai/accenture-finds-only-9-of-enterprises-harness-ais-full-potential/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/accenture-finds-only-9-of-enterprises-harness-ais-full-potential/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1366475366-e1665766594967.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Leveraging The Power Of AI As A Small Business"
     excerpt: "AI language models can help small businesses optimize their marketing, but they have limitations that every business owner should be aware of."
     publishedDateTime: 2023-05-03T11:30:00Z

@@ -39,22 +39,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "City council considers new regulations on surveillance cams, facial recognition"
-    excerpt: "Councilor Burnett says the bills will create more transparency and accountability. The other bill deals with facial recognition technology being used by the Baltimore Police Department."
-    publishedDateTime: 2023-05-02T21:18:00Z
-    webUrl: "https://www.wmar2news.com/local/city-council-considers-new-regulations-on-surveillance-cams-facial-recognition"
-    ampWebUrl: "https://www.wmar2news.com/local/city-council-considers-new-regulations-on-surveillance-cams-facial-recognition?_amp=true"
-    cdnAmpWebUrl: "https://www-wmar2news-com.cdn.ampproject.org/c/s/www.wmar2news.com/local/city-council-considers-new-regulations-on-surveillance-cams-facial-recognition?_amp=true"
-    type: article
-    provider:
-      name: wmar2news
-      domain: wmar2news.com
-    quality: 55
-    images:
-      - url: "https://x-default-stgec.uplynk.com/ausw/slices/1ce/22f3150cc15946e68b21f11967cfb8d1/1cedfcec12e14520a27f540bd3231a82/poster_f2fd92cca85a4c328dcdaf9accf7af3b.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "New York City Finally Faces Down Facial Recognition"
     excerpt: "Gotham Gazette is an online publication covering New York policy and politics as well as news on public safety, transportation, education, finance and more."
     publishedDateTime: 2023-05-03T00:05:00Z

@@ -2,22 +2,19 @@
 category: news
 title: "IDVV Moves Forward In Artificial Intelligence AI Sector"
 excerpt: "IDVV is pleased to announce its progress in the acquisition of WITech and SF Corp, which have been completed ahead of schedule. As the company enters the AI sector, it is combining the strengths and capabilities of both acquisitions."
-publishedDateTime: 2023-04-28T20:49:00Z
-originalUrl: "https://www.charlotteobserver.com/press-releases/article274848016.html"
-webUrl: "https://www.charlotteobserver.com/press-releases/article274848016.html"
+publishedDateTime: 2023-04-28T19:50:00Z
+originalUrl: "https://www.star-telegram.com/press-releases/article274848016.html"
+webUrl: "https://www.star-telegram.com/press-releases/article274848016.html"
 type: article
-quality: 34
-heat: 34
-published: false
 
 provider:
-  name: Charlotte Observer
-  domain: charlotteobserver.com
+  name: Fort Worth Star-Telegram
+  domain: star-telegram.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "S9whfl+POVOeFUrgPCgrDc/rA0br2NwoPVFmoxGdLqHSyYjQEmrq2hz7/bIt6lY9gmbbGKbCAbRNBitSv9yGoFIO5753/gRju23vvGZqcmNP6SQxbMJ6AuJsTUB9aBOv6C1hcLZwkXw7Xi+nl7sGSFllhLN0N4I4uqx3c7PtEjrsjsRmqgXIVyAeScD9nVO9YqOS3i8psqZbO4ZYL1tdFuujLmZDQMmS76tLsdpCePz+ixtzWci7YdGFAzBVPrK/aczyvQ5/Kqgm01CV0zFPJiePavTAUQ75SH/tNiTzl0GGoZi/pxiQGCEJ/fNM9XtreKqXHK7SXo0sDN/DpTs5q40+ozE16W2GhPh9dLNratY=;eSZwFRCh8tKceFfObkAkvg=="
+secured: "tq4Sb84+G2CD4o5hyqa69C1rOParcvPwDgwfVzlI+r69GLDUoVW9toxHMvM0mmTESqV4Q6khaS1wLemhcze/cFKK3K9aXw9uzIrX/0RSps0Fe6zOTJrkmfC0LNwJigHD+jiG0I8ObLZdPXe8AqeUucZOJSqrXko+mhxPJAQeOpzA9zbRJSKNBdsDe2T66QgJVTanHP+sGfZd7leXjPi/E8ms35hgKtejRqMjt7wFoBgoDpoW1oqyKPcZ0QAZ6KrJ3cAjeQrZ5bvn31YKSY8EKvYPcik47F6S1PFuCe1xXBQsMwK9fPKyM+DWOdlnvlB+GjYUFUZD5hSebUKfJIYW3hPiTPQjPvJmbydLR94WT7U=;MMPw8O0otEtp2Wrl7hy1KQ=="
 ---
 

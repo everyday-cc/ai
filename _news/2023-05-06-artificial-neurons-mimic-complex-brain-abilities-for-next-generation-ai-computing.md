@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-05-artificial-neurons-mimic-complex
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-05-artificial-neurons-mimic-complex-brain.amp"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -25,47 +25,6 @@ images:
     width: 1500
     height: 564
     isCached: true
-
-related:
-  - title: "AI-generated beer commercial contains joyful monstrosities, goes viral"
-    excerpt: "While many fear a future where AI-generated media becomes indistinguishable from traditional media, destroying society and/or civilization in the process, we aren't quite there yet. Exhibit A comes in the form of a surreal AI-generated beer commercial that went viral over the weekend."
-    publishedDateTime: 2023-05-02T21:35:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/05/ai-generated-beer-commercial-contains-joyful-monstrosities-goes-viral/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/05/ai-generated-beer-commercial-contains-joyful-monstrosities-goes-viral/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/05/ai-generated-beer-commercial-contains-joyful-monstrosities-goes-viral/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 87
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/05/ai_beer_hero-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "7 of the Weirdest AI-Generated Commercials...So Far"
-    excerpt: "A fictitious pizza chain, Heinz Ketchup, and the Republican party have all been experimenting with artificial intelligence lately."
-    publishedDateTime: 2023-05-03T19:49:00Z
-    webUrl: "https://gizmodo.com/ai-dall-e-ai-generated-advertisements-chatbots-1850399007"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 47
-  - title: "3 viral AI-generated TV commercials that will haunt your nightmares"
-    excerpt: "You can use various AI products to create TV commercials, but the results will probably haunt your dreams - here are three such examples."
-    publishedDateTime: 2023-05-06T22:15:00Z
-    webUrl: "https://bgr.com/tech/3-viral-ai-generated-tv-commercials-that-will-haunt-your-nightmares/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 37
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/01/rsz_adobestock_386078374.jpg?quality=82&strip=all"
-        width: 2750
-        height: 1834
-        isCached: true
 
 secured: "eVu71D8+EAvkrCOC58mXhPxaNMQpPGCYnadz+PQR/vi5pTX1B42D2+mRwQS+EP6PtzUn0l0jEvk/oW8Qxc3K4V1PB2WViBbflLof1j4I/fy4+Ryf0nbttmXjIVuZbCzsrLVcF/6onScnvcin75v2rkKpyn8OSWX/QHWJnAyXnS2xnfsy9xBDvl/fNqa4dmTlbe7DXLKuO0Ni0ZIrKnyg8D/S75siADf513oGzAGTplBPtJpcoXQkU6tpWKQHgr0qHynjnCZRWCQeHt88Aj9b68aK0auevrKli/ai+UZEiTTDzsA2AihkcQ+VJWyXdsW8QBjKduAq72tWVONLc+v2Qi+sNqpFQbrm8oSehObrfP4Ru6fqEoNyPGRC7cC4TukiDzJ5mCcY+74aAxtiamRVTks6XChRrC72lI+91AjURQwxQ1+UCzjSjyqu9zmNgQXov2cM9n5RsMK4e0wWTgbtcLteow0Azd72FemAYxVD8mECNwnvZKDubVWqUqZzGFrxQJPGh75jbUmP7RATIxr1TQ==;ktZosFFFRO/Ku2jkYGmDEA=="
 ---

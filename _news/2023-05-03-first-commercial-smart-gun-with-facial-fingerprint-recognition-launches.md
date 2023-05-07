@@ -43,31 +43,6 @@ related:
         width: 932
         height: 470
         isCached: true
-  - title: "Baltimore Considers Facial Recognition Restrictions"
-    excerpt: "Proposed legislation would require the police department to get approval before acquiring any new surveillance technology and would establish an oversight board to monitor the city’s use."
-    publishedDateTime: 2023-05-02T21:08:00Z
-    webUrl: "https://www.governing.com/security/baltimore-considers-facial-recognition-restrictions"
-    ampWebUrl: "https://www.governing.com/security/baltimore-considers-facial-recognition-restrictions?_amp=true"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/baltimore-considers-facial-recognition-restrictions?_amp=true"
-    type: article
-    provider:
-      name: Governing
-      domain: governing.com
-    quality: 39
-  - title: "Cracking the Code of Sound Recognition: Machine Learning Model Reveals How Our Brains Understand Communication Sounds"
-    excerpt: "Researchers developed a machine learning model that mimics how the brains of social animals distinguish between sound categories, like mating, food or danger, and react accordingly. The algorithm helps explain how our brains recognize the meaning of communication sounds,"
-    publishedDateTime: 2023-05-02T20:05:00Z
-    webUrl: "https://neurosciencenews.com/sound-communication-ai-23156/"
-    type: article
-    provider:
-      name: Neuroscience News
-      domain: neurosciencenews.com
-    quality: 33
-    images:
-      - url: "https://neurosciencenews.com/files/2023/05/machine-learning-communication-sound-neurosinces.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Turn to Tara: Facial recognition software could give your selfie to law enforcement"
     excerpt: "Team 12 Investigative reporter Tara Rosenblum explains how an innocent profile picture on a social media account can become part of a police database."
     publishedDateTime: 2023-05-04T15:21:00Z
