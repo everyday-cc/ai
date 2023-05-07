@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Face Recognition Device Market Forecast : Trends and Insights till 2031"
-    excerpt: "\"Face Recognition Device Market Size is projected to Reach Multimillion USD by 2031, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2031.\" Ask for a Sample Report \"Browse Detailed TOC of Face Recognition Device Market report with 153 Tables and Figures andCharts that provides exclusive data,"
-    publishedDateTime: 2023-05-02T09:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-forecast-trends-and-insights-till-2031-2023-05-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Face Recognition Systems Market Share by 2031"
     excerpt: "This \"Face Recognition Systems Market\" report offers a thorough analysis of the industry, including forecasts for"
     publishedDateTime: 2023-05-04T01:02:00Z
@@ -156,15 +142,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "5 ways AI is transforming healthcare"
-    excerpt: "AI is revolutionizing healthcare by analyzing large datasets and helping in the detection, prevention, prediction, and treatment of disease."
-    publishedDateTime: 2023-05-03T12:20:00Z
-    webUrl: "https://interestingengineering.com/health/how-ai-is-transforming-healthcare"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 34
 
 secured: "ZSx8vVu8+d9Ua6rprCx6dlrzG4p+kfui6v9MUXQIHfTkznCHVzZqo4DjLT6S4wMdBkU3vfGu8tE7hXKufTEBQ+cJ4SegKl9SAo47GzDGFrJvJgR9x/CJUoh8Pv5b7moCQnY4KUXvurid0faGS0EBqBcEXDOT8OMdfTWG21sqPELM3hMUOCa2y0/6vMYp6dHQA63wgzrRB/bQTgLkmDP7WRzqtByCeMWTv1D6bYIxpu/cbOIo3Rf2Qh00XdQJbH5Dn5d/1QlahwmmhEhjRBB494+7ekL+DG/77/tRFa+2EyGD781RZIuhaKZNCMt/N05AYmkyX7FoUumRNRJiYkhhTClCwDiGGx65n0Zx2cO6q3k=;rbiylK8mHelDyVro26LmCA=="
 ---

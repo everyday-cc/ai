@@ -98,33 +98,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "expert reaction to Geoffrey Hinton quits google over risks posed by AI"
-    excerpt: "May 2, 2023 expert reaction to Geoffrey Hinton quits google over risks posed by AI . It has been reported that Geoffrey Hinton has left Google and spoken about the dangers of AI."
-    publishedDateTime: 2023-05-02T10:51:00Z
-    webUrl: "https://www.sciencemediacentre.org/expert-reaction-to-geoffrey-hinton-quits-google-over-risks-posed-by-ai/"
-    type: article
-    provider:
-      name: Science Media Centre
-      domain: sciencemediacentre.org
-    quality: 19
-  - title: "AI 'godfather' Geoffrey Hinton warns of dangers as he quits Google"
-    excerpt: "A man widely seen as the godfather of artificial intelligence (AI) has quit his job, warning about the growing dangers from developments in the field. Geoffrey Hinton, aged 75, announced his resignation from Google in a statement to the New York Times, saying he now regretted his work."
-    publishedDateTime: 2023-05-02T10:59:00Z
-    webUrl: "https://www.bbc.co.uk/news/world-us-canada-65452940"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 17
-  - title: "‘Godfather of AI’ Geoffrey Hinton quits Google to warn over the tech’s threat to humanity"
-    excerpt: "Geoffrey Hinton, 75, says he now regrets having devoted his career to AI: “I console myself with the normal excuse: If I hadn’t done it, somebody else would have”."
-    publishedDateTime: 2023-05-02T10:55:00Z
-    webUrl: "https://www.euronews.com/next/2023/05/02/godfather-of-ai-geoffrey-hinton-quits-google-to-warn-over-the-techs-threat-to-humanity"
-    type: article
-    provider:
-      name: Euronews
-      domain: euronews.com
-    quality: 10
 
 secured: "g4GSw5FzQ1IiOCn95x8A2X9H+NuC5v/pfHSe/2PcraTpsWnSr0cnOCvH/SA7j8avi+wonnh0z/vRSeilVZAmFVmE4TaQrwDIv00LhdZ9D+HpZSSuU1y8GOAhNC3fsurQJxVUGdQTUYmeE/3FzdaKrWqAEwYpFIdtZ6m/eCJ31AhRPKr6DnojJ1W8qlZsH3GZzzLM+1EUo+vhtcy2LY4liRD6zd8TFiFP7YNQ6IChboW7lN7B1iOK8JmbNLjN2dhY2eUJf41jymnfPOwk7XwV3YY0QfoDlauM4Hnd2RrIlqAopabS9xZUzCVEbijSdmRVYTCMWjp+QIcISCb44+Hd3MuiKxu6sul03SCjTsI/uoTpNiWKBXVNbr8hg7Xv3k+J7+R6oXBM4b9PEq4CAU7OPSpS3kkJ0WADPn0Db8HCFYWj1TsmJ2P31HINY5Ru/ajMYh7rhfjOSmH/7mTcNTSWn0twJBsrljmSQVRQJ04yASK17e6vExQcnlzhLoH1EJJUTm+uL8hr7udn2DVl1Mbh3A==;kDXpXs9MI4HbHzSczJTiaQ=="
 ---

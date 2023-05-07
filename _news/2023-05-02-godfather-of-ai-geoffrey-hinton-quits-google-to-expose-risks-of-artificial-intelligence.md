@@ -100,33 +100,6 @@ related:
       name: MIT Technology Review
       domain: technologyreview.com
     quality: 37
-  - title: "expert reaction to Geoffrey Hinton quits google over risks posed by AI"
-    excerpt: "May 2, 2023 expert reaction to Geoffrey Hinton quits google over risks posed by AI . It has been reported that Geoffrey Hinton has left Google and spoken about the dangers of AI."
-    publishedDateTime: 2023-05-02T10:51:00Z
-    webUrl: "https://www.sciencemediacentre.org/expert-reaction-to-geoffrey-hinton-quits-google-over-risks-posed-by-ai/"
-    type: article
-    provider:
-      name: Science Media Centre
-      domain: sciencemediacentre.org
-    quality: 19
-  - title: "AI 'godfather' Geoffrey Hinton warns of dangers as he quits Google"
-    excerpt: "A man widely seen as the godfather of artificial intelligence (AI) has quit his job, warning about the growing dangers from developments in the field. Geoffrey Hinton, aged 75, announced his resignation from Google in a statement to the New York Times, saying he now regretted his work."
-    publishedDateTime: 2023-05-02T10:59:00Z
-    webUrl: "https://www.bbc.co.uk/news/world-us-canada-65452940"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 17
-  - title: "‘Godfather of AI’ Geoffrey Hinton quits Google to warn over the tech’s threat to humanity"
-    excerpt: "Geoffrey Hinton, 75, says he now regrets having devoted his career to AI: “I console myself with the normal excuse: If I hadn’t done it, somebody else would have”."
-    publishedDateTime: 2023-05-02T10:55:00Z
-    webUrl: "https://www.euronews.com/next/2023/05/02/godfather-of-ai-geoffrey-hinton-quits-google-to-warn-over-the-techs-threat-to-humanity"
-    type: article
-    provider:
-      name: Euronews
-      domain: euronews.com
-    quality: 10
 
 secured: "AuFZvAmhdXrbJ6uP/k/8Y2bA+dDwitNTvMPETTp9jHtFxNHRb/bIn6yY7R2jUkl1++gy7MIKk0gw7+PEasD5CQTczEZBhTF3HFkb9S7hZj1Zjk9zPWrbDf2X3d/YdpXLe6LK8gilHbjW2FEXrBl+omx6Zohk7AuLoySTNNaTagnxP9DK2oND4P8NGJt5aaezM/zWqohqmlNEQx84XF8JQJqQ2toCaEM8XzEZDhiozbfkD+J41DLFpLfmz8b9znWt9lpU6lmnO9iZewH/rLIB165Ul7EDQfb19TROCkhApcYrvEY6++0D5PgsyHppGocY8cIY9X22XvITUX64d/TWxADwsUB6+crYPQpfoBIiSIk=;MQK/wbBCD5v7JSR3epgddg=="
 ---

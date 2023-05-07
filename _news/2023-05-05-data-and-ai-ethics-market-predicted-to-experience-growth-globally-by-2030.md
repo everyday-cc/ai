@@ -93,6 +93,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "2023-2029 Robot Control System Market Sale, Growing Opportunities and Countries Analysis| Report Reviewed by Experts"
+    excerpt: "The global \"Robot Control System Market\" research report for 2023 provides a comprehensive analysis of the industry. It includes an in-depth segmentation based on regional factors, product types ..."
+    publishedDateTime: 2023-05-03T11:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-2029-robot-control-system-market-sale-growing-opportunities-and-countries-analysis-report-reviewed-by-experts-2023-05-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Industrial Robotics Market Report to 2026: Collaborative Robots Promote Efficiency and Innovation Presenting Opportunities"
     excerpt: "The \"Industrial Robotics Growth Opportunities\" report has been added to ResearchAndMarkets.com's offering. Robotics usage in industrial settings has risen over the last"
     publishedDateTime: 2023-05-03T00:45:00Z

@@ -216,6 +216,22 @@ related:
         width: 600
         height: 314
         isCached: true
+  - title: "Private AI says its new offering allows firms to safely leverage ChatGPT"
+    excerpt: "Toronto-based Private AI, a developer of data privacy software offerings, yesterday launched PrivateGPT, an artificial intelligence (AI)-powered tool it said can help organizations “safely leverage OpenAI’s chatbot without compromising customer or ..."
+    publishedDateTime: 2023-05-03T12:51:00Z
+    webUrl: "https://www.itbusiness.ca/news/private-ai-says-its-new-offering-allows-firms-to-safely-leverage-chatgpt/124925"
+    ampWebUrl: "https://www.itbusiness.ca/news/private-ai-says-its-new-offering-allows-firms-to-safely-leverage-chatgpt/124925?amp=1"
+    cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/private-ai-says-its-new-offering-allows-firms-to-safely-leverage-chatgpt/124925?amp=1"
+    type: article
+    provider:
+      name: IT Business
+      domain: itbusiness.ca
+    quality: 58
+    images:
+      - url: "https://i.itbusiness.ca/wp-content/uploads/2023/05/GettyImages-1483618422.jpg"
+        width: 703
+        height: 497
+        isCached: true
   - title: "Chatbot ‘journalists’ found running almost 50 AI-generated content farms"
     excerpt: "Websites churn out content, often advancing false narratives, to saturate with adverts, says anti-misinformation firm"
     publishedDateTime: 2023-05-02T16:45:00Z
@@ -488,6 +504,6 @@ related:
       domain: arabianbusiness.com
     quality: 11
 
-secured: "h2iLMmD0NDEXArzSwrgHBpKjA/gh1E9eZSby5RaoInm8BDCePBrsOGYyIE6jxlgGQIcndM3XnAxw59YsnmaoMDPV3QCp5Y0z+CTWrpuAO4W9p5Co8ZX0UDM5agKLuKnNWBIEv9P1dx3DmXuVscqXsbuyC52Qqri5RwhlX+6HtW/6FcrnXXDDeN0H5PiMwluXoC+KWLp9wdVXtA8oe3VOdBWQ/GzpjgFCD8cNmtUl/gT6OsXI5dEjExkhuof36ixtL8ZbwNfe0F/v0PX7jhR+oarFsFL+2Ap9MrHylZ8+5cwc0C5Hai68FcJ1aZUd7DHPZBkh7TBZFC/l/K8PqUTiLmr2KIXcfpZsg6gwyN6i+Xc=;spmS/1uLr4SUwv3TwI+zug=="
+secured: "SRKWhDLE9j39pCYsIOmPCPg+OTozLOQ8GBZdmIMC1PUVMamSOYFv1GeJ50Wynmq7Dr7hbQ/AKqI7AnEgfl1hQTFWZ8KnX7L/GlKvtBYgRRZK2tIIY1pomT8fTf5AjJCNVAn8BEIi/pD5vE3/8PPGi5EdGetOG1V5DI2Jj9i2UO5bl8fW5Vcpx2gXdF1mP352c97LSBmslkV1puJZDRMBCLaQGZDtZpI7oHN1cuZAdYvZWmPy8vdc1YwFc6VtiJcoTvDxsngdtEqLqpAw8pBGqQWrjxK5SttAHiMSalHLHW4d07gnZVyGleAGJCfIKaEvIXOXSGJBRqH5qLCU9IvwYs6s/4f3VWUdc44IH22DYpi5FV29IiP52SP2rTzs4qz6gM594l4P5Y365q5ERT4YrcF52Q381yucJCjdiejD6Oam6BXgqXH3ET5hLa6obNh5fv9jvvqnDd72brkC5Zl7MH9GsVT2j1WANXDaLc59gMViESZ56UlH2OlcmeCGmaU64VZY2Z9hw6EQ0/0yIa4Gyw==;1fZ/KphFbzn6iapm18UViQ=="
 ---
 

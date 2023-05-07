@@ -33,6 +33,15 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Centene divests artificial intelligence business"
+    excerpt: "Centene Corp. is selling an artificial intelligence business it purchased just over two years ago, the company said Wednesday."
+    publishedDateTime: 2023-05-03T17:53:00Z
+    webUrl: "https://www.stltoday.com/business/local/centene-divests-artificial-intelligence-business/article_d1afc9f8-e9c4-11ed-9c11-b33b497886c5.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 19
 
 secured: "s+8X8K2sfjKDiLRgdmCyo36m9Lzsdl15PmyBVEnF1OgUNC1K/OPMkxAYgHHHaTtfigQH94JHJ7vXFRvuiADTxk3jqph1V47NeounvtEDT2B4RWnVQNqSkjkZB3bjBWFa4bheJJ4KRbm0utXaRB/87+Fo748FK2gf1Y4gALUGlbALteE5A/gwmlGdga/fvNAzXhhWB7vy3DRVCYVD2Y70MDj/jpS0c8rX6tqnPFHVMgZbAT+F8mcuQUEbhPe3J+9L8uYw0KLiFPQ+vXtoX5IrkYjszsil4lafCnxDWF2vXisqKGT5NHgG4GRz97Ou28erNISmmYpkCH0TZefzTKTL3EMcSxvXYsBo39+OwxjzQdyKZpIH5VjfSlt7F3QQUfbHhVk5D0O2J+kgXzpnsysUbmaikmXFp403Ps3ZaWcatSl/hbttAAsyjSggsYk2JnvTdI3w6DkMbKIaFDx4RQ6Dd/CpHWSjKIxQcIKs+1SgWn6ZGmQQ5OYRddHF7XhedYvgZDaYog55GRMWrHWLp6WPuA==;x94ZNZydwmmZnWELvLV8Ow=="
 ---

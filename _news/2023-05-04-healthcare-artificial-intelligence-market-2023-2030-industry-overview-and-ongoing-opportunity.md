@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Face Recognition Device Market Forecast : Trends and Insights till 2031"
-    excerpt: "\"Face Recognition Device Market Size is projected to Reach Multimillion USD by 2031, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2031.\" Ask for a Sample Report \"Browse Detailed TOC of Face Recognition Device Market report with 153 Tables and Figures andCharts that provides exclusive data,"
-    publishedDateTime: 2023-05-02T09:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-forecast-trends-and-insights-till-2031-2023-05-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Face Recognition Systems Market Share by 2031"
     excerpt: "This \"Face Recognition Systems Market\" report offers a thorough analysis of the industry, including forecasts for"
     publishedDateTime: 2023-05-04T01:02:00Z
@@ -156,15 +142,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "5 ways AI is transforming healthcare"
-    excerpt: "AI is revolutionizing healthcare by analyzing large datasets and helping in the detection, prevention, prediction, and treatment of disease."
-    publishedDateTime: 2023-05-03T12:20:00Z
-    webUrl: "https://interestingengineering.com/health/how-ai-is-transforming-healthcare"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 34
 
 secured: "6g95MCefA0SEdiEKG9BezHWa7c1yNZayPn9PslQ0SezjeWd8zKtP7ARDaW2vf52s7dgzLmJbaazvqqSnGURhOAsL9GFfM19FmuvHBA66Z3T6OhxrQkloODjJ1IYg7TLs2Qr+pXd5y+uQRKHBK+Z/1JmMo7IsP0BzbyKo8yApl99VFnqTnNBJsjlQXf/4F0fsvhasT/WJczDeBNJYUTkhTMAeGE/n/gO+OW8XjJi1fAkzhAOJXvKzfZvo8b31rLnl/VgDvc27tqasJCGoi3rf590IhM1Ipk7Rhp9AIJeSKipyLXTFVxlvMj2SQ/mepXRMkP/lnPjjVZBRgmNdDgVBdvdI1H9373qqWfd9b5hhRxw=;qQZR7YNroETCQ9djV7A1vw=="
 ---

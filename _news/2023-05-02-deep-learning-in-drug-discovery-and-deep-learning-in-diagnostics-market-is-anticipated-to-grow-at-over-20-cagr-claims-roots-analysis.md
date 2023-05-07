@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Data Science and Machine Learning Service Market Projected to Show Strong Growth by 2030| DataScience.com, ZS, LatentView Analytics, Mango Solutions"
-    excerpt: "Who are the Top Key players operating the global Data Science and Machine Learning Service Market: DataScience.com, ZS, LatentView Analytics, Mango Solutions, Microsoft, International Business Machine,"
-    publishedDateTime: 2023-05-02T09:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-service-market-projected-to-show-strong-growth-by-2030-datasciencecom-zs-latentview-analytics-mango-solutions-2023-05-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "(CAGR of 25.7%) Global Speech and Voice Recognition Market Analysis, Key Segments, Share, Size, Growth Status, and Forecast 2023 to 2031"
     excerpt: "Global speech and voice recognition is expected to reach USD 6,770.21 Million by 2025 from USD 1,095.00 Million in 2017, at a CAGR of 25.7% in the forecast period 2018 to 2025. The major factors driving the growth of this market are the effective integration due to increased demand for voice and speech-based biometric systems,"
     publishedDateTime: 2023-05-03T10:25:00Z

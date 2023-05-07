@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/05/03/should-we-stop-d
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/05/03/should-we-stop-developing-ai-for-the-good-of-humanity/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://www.talonmarks.com/wp-content/uploads/2023/05/image.jpg"
         width: 553
         height: 311
-        isCached: true
-  - title: "Geoffrey Hinton, Godfather of AI, Leaves Google over Deep Concerns for AI's Future"
-    excerpt: "Geoffrey Hinton, the \"Godfather of AI,\" resigns from Google, raising concerns about AI's potential dangers and urging responsible development."
-    publishedDateTime: 2023-05-02T10:29:00Z
-    webUrl: "https://yourstory.com/2023/05/godfather-ai-geoffrey-hinton-resigns-warns-ai-dangers"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 33
-    images:
-      - url: "https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/Imageaxxk-1683023043843.jpg?fm=png&auto=format"
-        width: 800
-        height: 400
         isCached: true
 
 secured: "TVH5FJkKL5pVG9xNHze7aH5+4ryzHOzyNGS8dujlXwRc4HUUyTicIQqKXsqrhrRv8Vq1C/P5FqGpDQyXwskHX9NQ/jF43i/yV5pgn7+EfEyCfO+fC5ZFB2Rs9+V+1cVs6Bn7Rf//9ni2dIt6VURBj2UJ3iL4gzn9I4PKneakcFVFxFgfhT2RQi0X94MY+cLxV024y+wb5ArFpQNxBcd/Dx6ZS30015BtZONfY8kNTnoiRO3Epc83ruzUrd8vU6uFyWfZpdERUN5tmEThzt3u+fMieRblcEgcGRnK9Fbm6RpbQP8vcryMjocYuLl+3DublYUGuhp8be5cC+2BH1BsEu1njq8bS0xtfK5AZhcc7rHW6X2+XBXw5j/33sUdIs62uosBa0ltao+8jQ8XZ31b+2oismgW50UREmQgPzllx8kLeVbtw5CKPiNPXrGGb9bI66C4pv02h1CFxHYd21G4cNPMWQdvmNhtCkMamMGufbpcetKM+PNN98jDI8uZ3SLkOKFb92cTjA5nBW2vXUlfxA==;TxKyhtDWAe/bpzDRs/eGow=="

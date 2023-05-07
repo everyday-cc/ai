@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Geoffrey Hinton, Godfather of AI, Leaves Google over Deep Concerns for AI's Future"
-    excerpt: "Geoffrey Hinton, the \"Godfather of AI,\" resigns from Google, raising concerns about AI's potential dangers and urging responsible development."
-    publishedDateTime: 2023-05-02T10:29:00Z
-    webUrl: "https://yourstory.com/2023/05/godfather-ai-geoffrey-hinton-resigns-warns-ai-dangers"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 33
-    images:
-      - url: "https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/Imageaxxk-1683023043843.jpg?fm=png&auto=format"
-        width: 800
-        height: 400
-        isCached: true
 
 secured: "TBGHvddJLQkHo3BHmZfQVeADyW6QyMH+IklYfaQ1mktCwAKXAckmmBbZPM+Rp/gtAJR9Ng2p1ekoxh4vqKYlMT8b5RC16qGe0Y3lDklFOJbwK9fwmJQA+7ZTGECwa8MMUU4XN8/mgONJMsdkUJXUq4RRZw8UOpb9PoPhCy+1N46dIPMHwKUE4jYjl4/G+6FJ0jsdL9uoDkINGAB7sx/XR5DkuWRMJ4coGf0kCJ2Vqg5ROQCOU7ljGf0eNAffI1UZkY9TWv00ahTIWexZ2MlV6nQKZ9nQsX+4vdvLl1CtRHFUN1EqaIIvjxlSJgWUcC8I+JJUkGGGy4xNmD5Azgbya6V4owROZ1s42DzAlMPwQMo=;QKrAgcmoMGGJDXP+1vzPJQ=="
 ---

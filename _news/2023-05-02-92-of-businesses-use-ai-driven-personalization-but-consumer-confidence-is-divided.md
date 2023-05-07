@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/92-of-businesses-use-ai-driven-personaliz
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/92-of-businesses-use-ai-driven-personalization-but-consumer-confidence-is-divided/amp/"
 type: article
 quality: 81
-heat: 81
+heat: 82
 published: true
 
 provider:

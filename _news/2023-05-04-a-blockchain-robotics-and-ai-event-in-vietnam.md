@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Moving Beyond The Hype: The Ethics And Business Outcomes Of Generative AI"
-    excerpt: "As the ethics and business outcomes of generative AI are discussed, how safe and reliable is the technology and moving forward?"
-    publishedDateTime: 2023-05-04T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/04/moving-beyond-the-hype-the-ethics-and-business-outcomes-of-generative-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 63
   - title: "Unlocking The Power Of Generative AI: Exploring Business Models And Dispelling Fears"
     excerpt: "If there’s one topic that’s dominated the news cycle in 2023, it’s generative AI. This field of technology has experienced a tremendous surge in growth and popularity in recent months, with services like ChatGPT, Dall-E and Stable Diffusion held up as powerful new tools to help humanity—or to doom it."
     publishedDateTime: 2023-05-03T13:30:00Z

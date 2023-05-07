@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/05/03/chatgpt-everything-you-need-to-kno
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/03/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/"
 type: article
 quality: 89
-heat: 429
+heat: 439
 published: true
 
 provider:
@@ -200,6 +200,22 @@ related:
       - url: "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/03/28/new_project.jpg"
         width: 600
         height: 314
+        isCached: true
+  - title: "Private AI says its new offering allows firms to safely leverage ChatGPT"
+    excerpt: "Toronto-based Private AI, a developer of data privacy software offerings, yesterday launched PrivateGPT, an artificial intelligence (AI)-powered tool it said can help organizations “safely leverage OpenAI’s chatbot without compromising customer or ..."
+    publishedDateTime: 2023-05-03T12:51:00Z
+    webUrl: "https://www.itbusiness.ca/news/private-ai-says-its-new-offering-allows-firms-to-safely-leverage-chatgpt/124925"
+    ampWebUrl: "https://www.itbusiness.ca/news/private-ai-says-its-new-offering-allows-firms-to-safely-leverage-chatgpt/124925?amp=1"
+    cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/private-ai-says-its-new-offering-allows-firms-to-safely-leverage-chatgpt/124925?amp=1"
+    type: article
+    provider:
+      name: IT Business
+      domain: itbusiness.ca
+    quality: 58
+    images:
+      - url: "https://i.itbusiness.ca/wp-content/uploads/2023/05/GettyImages-1483618422.jpg"
+        width: 703
+        height: 497
         isCached: true
   - title: "Man v machine: everything you need to know about AI"
     excerpt: "As systems become more capable – and ubiquitous – should we be worrying about what the future holds for humans in a ‘robot’ world?"

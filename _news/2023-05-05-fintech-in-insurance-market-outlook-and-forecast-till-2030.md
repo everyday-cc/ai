@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Face Recognition Device Market Forecast : Trends and Insights till 2031"
-    excerpt: "\"Face Recognition Device Market Size is projected to Reach Multimillion USD by 2031, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2031.\" Ask for a Sample Report \"Browse Detailed TOC of Face Recognition Device Market report with 153 Tables and Figures andCharts that provides exclusive data,"
-    publishedDateTime: 2023-05-02T09:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-forecast-trends-and-insights-till-2031-2023-05-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Face Recognition Systems Market Share by 2031"
     excerpt: "This \"Face Recognition Systems Market\" report offers a thorough analysis of the industry, including forecasts for"
     publishedDateTime: 2023-05-04T01:02:00Z
@@ -156,15 +142,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "5 ways AI is transforming healthcare"
-    excerpt: "AI is revolutionizing healthcare by analyzing large datasets and helping in the detection, prevention, prediction, and treatment of disease."
-    publishedDateTime: 2023-05-03T12:20:00Z
-    webUrl: "https://interestingengineering.com/health/how-ai-is-transforming-healthcare"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 34
 
 secured: "lIlPgf03VdJKU2W5LMaU2aibmJjXFiIoDEW+FtonjlI7z+mzG268Kvejg8CMN0or5FSjR7/VYvz96vp5ZbwF+WNlldzO3qDBu6iqN+q6WTZBJ7NWleYZCKG+c+S7Qjai9IaTmDZ2eva1gunr9F2Su48/oFbrQ5sr3iHWak+nSawNIxiAnentOXvSmkf1TRBBPnTC5PmfrU9S+SGBxeac9lMiIynZC1gDr2yr+AYmgvMEdIhHqIjq9UbbGX8AEEZtdkuCBSP61IBvy7OE49oxeslvlOr8k0lifNxhbrGjv03Hte6HRIODq6ggpihdcuraXW6IvdCJL5LNTdRUz4ca45W+Z4ZZn2n+USAGX/MvRDA=;DRsh4Ne1SVeeYzZ91iglsg=="
 ---

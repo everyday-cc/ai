@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/craigsmith/2023/05/04/geoff-hinton-ais-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/craigsmith/2023/05/04/geoff-hinton-ais-most-famous-researcher-warns-of-existential-threat/amp/"
 type: article
 quality: 86
-heat: 166
+heat: 136
 published: true
 
 provider:
@@ -103,33 +103,6 @@ related:
       name: MIT Technology Review
       domain: technologyreview.com
     quality: 37
-  - title: "expert reaction to Geoffrey Hinton quits google over risks posed by AI"
-    excerpt: "May 2, 2023 expert reaction to Geoffrey Hinton quits google over risks posed by AI . It has been reported that Geoffrey Hinton has left Google and spoken about the dangers of AI."
-    publishedDateTime: 2023-05-02T10:51:00Z
-    webUrl: "https://www.sciencemediacentre.org/expert-reaction-to-geoffrey-hinton-quits-google-over-risks-posed-by-ai/"
-    type: article
-    provider:
-      name: Science Media Centre
-      domain: sciencemediacentre.org
-    quality: 19
-  - title: "AI 'godfather' Geoffrey Hinton warns of dangers as he quits Google"
-    excerpt: "A man widely seen as the godfather of artificial intelligence (AI) has quit his job, warning about the growing dangers from developments in the field. Geoffrey Hinton, aged 75, announced his resignation from Google in a statement to the New York Times, saying he now regretted his work."
-    publishedDateTime: 2023-05-02T10:59:00Z
-    webUrl: "https://www.bbc.co.uk/news/world-us-canada-65452940"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 17
-  - title: "‘Godfather of AI’ Geoffrey Hinton quits Google to warn over the tech’s threat to humanity"
-    excerpt: "Geoffrey Hinton, 75, says he now regrets having devoted his career to AI: “I console myself with the normal excuse: If I hadn’t done it, somebody else would have”."
-    publishedDateTime: 2023-05-02T10:55:00Z
-    webUrl: "https://www.euronews.com/next/2023/05/02/godfather-of-ai-geoffrey-hinton-quits-google-to-warn-over-the-techs-threat-to-humanity"
-    type: article
-    provider:
-      name: Euronews
-      domain: euronews.com
-    quality: 10
 
 secured: "ZPeELmKmaAHB9SkZUWykB+EKKlpg9w0yYoTAki2EXK9BdmfXZKLv4N6SmfABa+A4+QbnUAP5UoJqeXAai2mS1chbpym4oQ0dzELnkh22tB5RnW9nY8szO9KNMradiPoJrjcNcq0vvfX6U68yJHZtoJM+bqjcCoZbaeFdXHHU956ZYqhxfGVVpFjdSRDwc2qwF2x2g8Iodm+AG6SSlxWolTS6FH+hLTi4FB/QHRbPkE7Fz8OcPTBPulu6kCSXKRgD930Rv2HxEP5KyJ6zPWSjNXJEQ7L9XuKC2SthWfKgRpDGZye48k51n2HPSLNXv4LJYd7S5NagExIt1A1XZqoyGMWIPg6n8L1nE0WmUVftlPY=;vtXhgHYFS7l60y8d9QF64w=="
 ---

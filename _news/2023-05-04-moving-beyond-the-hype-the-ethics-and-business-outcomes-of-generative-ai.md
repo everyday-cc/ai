@@ -23,45 +23,59 @@ topics:
   - AI
 
 related:
-  - title: "Simplifying The Business of Care Using AI and Blockchain"
-    excerpt: "Blockchain technology could revolutionize the industry by eliminating much of the inefficiencies and waste which has been normalized in the medical-insurance exchange. getty. In 2"
-    publishedDateTime: 2023-05-05T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/05/05/simplifying-the-business-of-care-using-ai-and-blockchain/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/05/05/simplifying-the-business-of-care-using-ai-and-blockchain/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/05/05/simplifying-the-business-of-care-using-ai-and-blockchain/amp/"
+  - title: "Behind The Hype About AI Transforming Consumer Businesses"
+    excerpt: "Explore the future of retail in a world dominated by AI-generated content. Is the physical store making a comeback?"
+    publishedDateTime: 2023-05-04T15:36:00Z
+    webUrl: "https://www.forbes.com/sites/gregpetro/2023/05/04/behind-the-hype-about-ai-transforming-consumer-businesses/"
+    ampWebUrl: "https://www.forbes.com/sites/gregpetro/2023/05/04/behind-the-hype-about-ai-transforming-consumer-businesses/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gregpetro/2023/05/04/behind-the-hype-about-ai-transforming-consumer-businesses/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/645407220ec95baad79c02fb/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6453cf70c9583ac188eabd27/0x0.jpg?format=jpg&crop=1470,827,x0,y0,safe&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "A Blockchain, Robotics And AI Event In Vietnam"
-    excerpt: "Blockchain Education Network Vietnam recently held an event titled “Building a Robotics & Artificial Intelligence Ecosystem with Blockchain”. The title alone has three of my favorite things in ..."
-    publishedDateTime: 2023-05-04T00:00:00Z
-    webUrl: "https://hackaday.com/2018/04/27/a-blockchain-robotics-and-ai-event-in-vietnam/"
+  - title: "How Artificial Intelligence is Transforming Business"
+    excerpt: "AI technologies have a wide range of applications in business, and many publicly traded companies now use AI tools."
+    publishedDateTime: 2023-05-03T02:15:00Z
+    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-in-business/"
     type: article
     provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 69
+      name: The Motley Fool
+      domain: fool.com
+    quality: 71
     images:
-      - url: "https://hackaday.com/wp-content/uploads/2020/05/LinuxFu-thumb.jpg?w=600&#038;h=600"
-        width: 600
-        height: 600
+      - url: "https://m.foolcdn.com/media/dubs/images/nvidia-nvda-stock-ai-artificial-intelligence-2.width-600.jpg"
+        width: 580
+        height: 387
         isCached: true
-  - title: "Unlocking The Power Of Generative AI: Exploring Business Models And Dispelling Fears"
-    excerpt: "If there’s one topic that’s dominated the news cycle in 2023, it’s generative AI. This field of technology has experienced a tremendous surge in growth and popularity in recent months, with services like ChatGPT, Dall-E and Stable Diffusion held up as powerful new tools to help humanity—or to doom it."
-    publishedDateTime: 2023-05-03T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/03/unlocking-the-power-of-generative-ai-exploring-business-models-and-dispelling-fears/"
+  - title: "5 ways AI is transforming healthcare"
+    excerpt: "AI is revolutionizing healthcare by analyzing large datasets and helping in the detection, prevention, prediction, and treatment of disease."
+    publishedDateTime: 2023-05-03T12:20:00Z
+    webUrl: "https://interestingengineering.com/health/how-ai-is-transforming-healthcare"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 40
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 34
+  - title: "Smarter-than-humans artificial intelligence is coming fast as business looks for profits"
+    excerpt: "Voices worried about an AI takeover were thin on the ground a few years ago. But despite a recent flood of calls for restraint as the technology improves by leaps and bounds, AI's money-making and defense potential appears irresistible."
+    publishedDateTime: 2023-05-04T08:00:00Z
+    webUrl: "https://www.cbc.ca/news/business/ai-doom-column-don-pittis-1.6829302"
+    type: article
+    provider:
+      name: CBC.ca
+      domain: www.cbc.ca
+    quality: 30
+    images:
+      - url: "https://i.cbc.ca/1.6829334.1683039668!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/tech-ai-hinton.JPG"
+        width: 620
+        height: 349
+        isCached: true
 
 secured: "dS48tO94xp7u23RQ5JevzwRmBhBjQDlApdm5lJZL4MM4uHaBS3ykdhUtqavsY/c7ZWIm36LmBim4dpQhGISiiEnHVVA9eKNeq6st+5QMRJvYoRFJocHB4GH5mkdWNByGyK1jVc3GmFANIAoltyipoVGp5wIRhcb9Jf947cgWr8/ZBSydRQj5aA8Aj3AjaDt8tx0Uqow2hk/0HWoY8iz9C5t2eMkBWNdTf8xCJHc4c5IL1+Zy+RY2d5Wyha7zrHKzqKjKVBFEETVMQSA+dHfb2mALoi25MIAus8Xp9UmGovD2rk4vRT2xABYhQ1OMUc25g3cCdukNsaHpqFc7+ZbXeWdBfDJr7rBkGw0u0cVxcR5VPuy6hZUX61TPaMVOZ5h84yUqaOIwjxtmmu5KnmGM1OokLDVqiy6G3y1JVEPcFDr0eQ+nYMz4QZSWdRkC88YARqrHFoB2HA23AYWLrFR/SFPEiYPDohUX34Ws/PocozBuZX65a+VxB1uxMbj14kUP/1DP0i9i6xm0657VSae/Tw==;MH6aLenFs8vTYz4odr12dg=="
 ---

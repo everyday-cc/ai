@@ -78,22 +78,6 @@ related:
         width: 1200
         height: 765
         isCached: true
-  - title: "We need to bring consent to AI"
-    excerpt: "This week's big news is that Geoffrey Hinton, a VP and Engineering Fellow at Google, and a pioneer of deep learning who developed some of the most important techniques at the heart of modern AI, is leaving the company after 10 years. But first, we need to talk about consent in AI."
-    publishedDateTime: 2023-05-02T09:47:00Z
-    webUrl: "https://www.technologyreview.com/2023/05/02/1072556/we-need-to-bring-consent-to-ai/"
-    ampWebUrl: "https://www.technologyreview.com/2023/05/02/1072556/we-need-to-bring-consent-to-ai/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/05/02/1072556/we-need-to-bring-consent-to-ai/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/04/opt-out-writing.jpeg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
 
 secured: "wH2LGuhuIQOOJsGQGV+CRI7ovuyuRGPx3fA6xAlZB814PyP+BmDOCcBoi7VKsJQARgdRy5lwN3Nh3Z0lokg1XqWi52WdZJFdNg0RsnviYGVDGCHsVE0U2O4xdzs6YNaGT7mK3OHY5uwn2Pl0zvIxSxdvHF+RceJ2GflmAkwoQOjf57JogXQ3ExzIVyQj+0thkccH77hzUBJHkFJWBfs6rqOFxuFbZZtjkipXZgKMXiKD297p1KNvpebgHQmJf3k1nxvZSNoxxc4jRaPwaIIkQmIL5t9XPRi+acWvrN3uNeOJQ26pDk4983NvJlWEjguWIkrPSOtZxUPXDTlGsjULFdlamAs2Rdi33bWBcIJK2QXLNirj5/YOqYNcuzcKA3aobWMahvoitzGZUN7OW1N9kDNJScRCO7n97QmtTrY4pAwl3/6azUbN1zl8INnDkwT8LAAM370KHjSLtcGcQrd3jpzqt28IyZ1o6B5NvaXizvqsu4iqzqRFV0sv+SDnfWwvFfjvPTOkuWY38rxwPYK3EA==;K+A5iJGBnjVU010S1OM4Qg=="
 ---

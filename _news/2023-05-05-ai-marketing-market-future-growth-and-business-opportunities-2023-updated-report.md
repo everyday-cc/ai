@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-marketing-market-futu
 webUrl: "https://www.marketwatch.com/press-release/ai-marketing-market-future-growth-and-business-opportunities-2023-updated-report-2023-05-05"
 type: article
 quality: 80
-heat: 210
+heat: 220
 published: true
 
 provider:
@@ -90,6 +90,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "2023-2029 Robot Control System Market Sale, Growing Opportunities and Countries Analysis| Report Reviewed by Experts"
+    excerpt: "The global \"Robot Control System Market\" research report for 2023 provides a comprehensive analysis of the industry. It includes an in-depth segmentation based on regional factors, product types ..."
+    publishedDateTime: 2023-05-03T11:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-2029-robot-control-system-market-sale-growing-opportunities-and-countries-analysis-report-reviewed-by-experts-2023-05-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

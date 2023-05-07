@@ -7,7 +7,7 @@ originalUrl: "https://www.aol.com/finance/charlie-munger-ai-think-old-161054286.
 webUrl: "https://www.aol.com/finance/charlie-munger-ai-think-old-161054286.html"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -24,20 +24,15 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence: A product of human intelligence par excellence"
-    excerpt: "What is intelligence? A precise, universally accepted definition ... We already have AI-powered gadgets and software packages on the market. Self-driving cars, smart vacuum cleaners, robotic crop harvesters, surgical robots and language translators ..."
-    publishedDateTime: 2023-05-02T10:08:00Z
-    webUrl: "https://island.lk/artificial-intelligence-a-product-of-human-intelligence-par-excellence/"
+  - title: "Buffett, Munger Skeptical Of AI: 'Old Fashioned Intelligence Works Pretty Well'"
+    excerpt: "Munger, who introduced Buffett to Chinese electric vehicle maker BYD Manufacturing Company Limited BYDDY BYDDF, noted that, at BYD's factories, robotics is used at an unbelievable rate, according to CNBC. \"We're going to see a lot more robotics in the world,\" he added."
+    publishedDateTime: 2023-05-06T19:19:00Z
+    webUrl: "https://www.benzinga.com/news/23/05/32254234/buffett-munger-skeptical-of-ai-old-fashioned-intelligence-works-pretty-well"
     type: article
     provider:
-      name: Island
-      domain: island.lk
-    quality: 39
-    images:
-      - url: "http://island.lk/wp-content/uploads/2023/05/albert-einstein.jpg"
-        width: 700
-        height: 450
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 15
 
 secured: "/tOSfuqc27/z1VIAjub4ckhdyJqNFCUCMtPhwDflsFfdCDdC+KQELQFRfsqVRwciccElkH/dslqO8IUdAIO/t2G0b64x+tLDSdDR9iBGgXDCOA2lN2AQiZ/uw63GR7mxnSGTqCKgPjEPrnksz4TyvGYo9sAaPNrwnw//jLa1jKmzUD0UZs5UQFsU8YgmCrwGwh/qZqW9ob7nsuTbZpVvHO2EJELtMMic71oAQFGDdmI8iH5keO0hxyzBEBiD1jJ/7ru1ERdxW9KYcLjAgnaDt598N7CdomrPtFe5NiWyOWFBGfadjkGl7MIxQIjjul5/8CXElBxKQIh1kzDlAVCr4jvX2uWndg9CLsRFMODet++m3X+iLQk8uOhdt3KvVVX2/9fek3qURJvBOXAuWAkzT5DLa0SPhxYtP7WOpl7Z5RhM4edz4OHA+w9M6u+cYLc7dmQIrOZsDpHORIK28hVtkQQNRm886vS2JCeapyodtmTYnwrVsfzwo0tkz4lE2LIqJnb5Ot47ytXZNd/uYyTI6g==;liMvym4zHEeEasYd5dc8Nw=="
 ---
