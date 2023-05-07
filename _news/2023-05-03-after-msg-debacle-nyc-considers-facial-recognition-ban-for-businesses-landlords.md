@@ -64,19 +64,19 @@ related:
         width: 799
         height: 533
         isCached: true
-  - title: "US city ends facial recognition moratorium, considers new rules for police"
-    excerpt: "City Council in Baltimore, Md. is moving to regulate the use of biometrics by city agencies, including police, after a change in local law enforcement control."
-    publishedDateTime: 2023-05-02T16:20:00Z
-    webUrl: "https://www.biometricupdate.com/202305/us-city-ends-facial-recognition-moratorium-considers-new-rules-for-police"
+  - title: "Recognizing the risks: Go slow on facial recognition"
+    excerpt: "The City Council is poised to pass a bill that would generally prohibit public accommodations like, hypothetically, large sports arenas and music halls owned by a gruff billionaire from utilizing biometric technologies like facial recognition to “verify or identify a customer,"
+    publishedDateTime: 2023-05-07T08:05:00Z
+    webUrl: "https://www.nydailynews.com/opinion/ny-edit-msg-city-council-bill-legislation-surveillance-monitoring-landlords-20230507-756n7ua5krarpev5ej2cuzsrpq-story.html"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 37
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 39
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/10/21112034/police-body-camera.jpg"
-        width: 937
-        height: 482
+      - url: "https://www.nydailynews.com/resizer/A1GIYA7uiW28B64Wfc2PtS8B8E0=/1200x630/filters:format(jpg):quality(70):focal(3753x1333:3763x1343)/cloudfront-us-east-1.images.arcpublishing.com/tronc/LGQX7TQZDZAW7A43PDRQY53FJY.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "XjISWYz9mU+BuKQElqdNgHRPcp9JgUDqnxnG/OrPSj2IUVjefL2fr3XmPWrWmSZNmPFi6wBWqyejbkiyQ9JrC/yZD0OTGx3qkJN+7IbcfecKHSTp2n78i6BfXSYuZ5GJUX2nJBVXPrTs4GKNVCunEHHrGIzy5ic6SWxvGn+QWMU5aQP8Zh0Zw0s/RjHdbHJhW4TKtNdD8G3FF08K2dugX5WpchybV3/UG6MWdaC/TSJAm0JgTmd0pyHuJOAVwQHAhDQofPitpE4dwOBZlJvO2LczgKiHWeCOnd6y+OxsgDNSO0kfMysaAIQd4NRslpzELk8HIbDR3qkutauTS5cHsmMk95rjUKACF5nvGUuaIv4=;/f3aurGC2pd0tljeI8wFNQ=="

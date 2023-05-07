@@ -34,20 +34,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
-  - title: "Predicting ultra-processing in food with machine learning algorithm"
-    excerpt: "Acknowledging the pain points of the NOVA classification system, researchers have developed a machine learning algorithm to accurately predict the degree of processing for any food."
-    publishedDateTime: 2023-05-02T15:29:00Z
-    webUrl: "https://www.foodnavigator.com/Article/2023/05/02/machine-learning-algorithm-predicts-ultra-processing-in-food"
-    type: article
-    provider:
-      name: FoodNavigator
-      domain: foodnavigator.com
-    quality: 39
-    images:
-      - url: "https://www.foodnavigator.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/foodnavigator.com/news/science/machine-learning-algorithm-predicts-ultra-processing-in-food/16381964-1-eng-GB/Machine-learning-algorithm-predicts-ultra-processing-in-food.jpg"
-        width: 750
-        height: 500
-        isCached: true
   - title: "Brain dynamics uncovered using a machine-learning algorithm"
     excerpt: "CEBRA is a machine-learning method that can be used to compress time series in a way that reveals otherwise hidden structures in the variability of the data. It excels at processing behavioural and neural data recorded simultaneously,"
     publishedDateTime: 2023-05-03T22:37:00Z

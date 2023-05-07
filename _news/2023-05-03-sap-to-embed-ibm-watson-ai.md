@@ -51,20 +51,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "SAP to Embed IBM Watson AI into SAP Solutions"
-    excerpt: "SAP will use IBM Watson capabilities to power its digital assistant in SAP Start, which provides a unified entry point for cloud solutions from SAP. With SAP Start, users can search for, launch and interactively engage with apps provided in cloud solutions from SAP and SAP S/4HANA Cloud."
-    publishedDateTime: 2023-05-02T15:59:00Z
-    webUrl: "https://www.datanami.com/this-just-in/sap-to-embed-ibm-watson-ai-into-sap-solutions/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 54
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-North-America23.png"
-        width: 1664
-        height: 674
-        isCached: true
   - title: "SAP Start will have IBM's Watson"
     excerpt: "SAP announced it has penned a deal with IBM to integrate its Watson AI into SAP Start, which in turn provides a unified entry point for cloud solutions from SAP."
     publishedDateTime: 2023-05-02T17:57:00Z

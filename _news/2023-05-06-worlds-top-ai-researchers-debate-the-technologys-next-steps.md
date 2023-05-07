@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/worlds-top-ai-researchers-debate-the-
 webUrl: "https://www.wsj.com/articles/worlds-top-ai-researchers-debate-the-technologys-next-steps-55be2849"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://technical.ly/wp-content/uploads/2023/05/IMG_1781.jpg"
         width: 1200
         height: 900
-        isCached: true
-  - title: "Researchers used AI and MRI scans to decode thoughts - and they were mostly accurate"
-    excerpt: "The system relies to an extent on a transformer model, similar to the ones that power Open AI’s ChatGPT and Google’s Bard."
-    publishedDateTime: 2023-05-02T15:43:00Z
-    webUrl: "https://interestingengineering.com/innovation/researchers-used-ai-and-mri-scans-to-decode-thoughts-and-they-were-mostly-accurate"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 32
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/05/02/image/jpeg/6LsVEpfqTt1MPWY1k64GcUKuAIDJoGn7SCKv8nCC.jpg"
-        width: 1920
-        height: 1080
         isCached: true
 
 secured: "DME4t3jGvO8B+y5cfFjo2RnNZZMyxdQORg19+c3KqZLDM7gJ4ApNBup75V/u5f4/DOxVu32LsKRsNrVjD+EJG9s/ABCi+NBBQo/8zwBRxtn7MSdZi6bf06pcIEgnHrWUgAFyC/+cfVzkz9PIMaqTNrS1VXZQcWUiQsJtmUyotfhqdos1QsGp5hcQiGcAVb4EM32VG7sOSTEKy0YCFixZZvlnCSVxlJdV3DqX5shq0NF97L5hV8Ba19fgbyxY+uTQBbLYY7WxE2C52K28pP3FvcK/VVJAO2Oxh31RieBrnzYhJmJcezUfknBe9X9g7Hxktrs3xgbBUoKre3rxki+jECrr+Xm5sMLT81SWHUIa3EVLvmL2irTZPIAapSDJqgjWVgVe4PeWtYvazxqFpfPJmdaiDQ6ZnCZmgmD95nEG0lcLKU/WI+bM932wjEGiHzQ7+aq8pKw/9Rqte3r1e0cDVTVDWGJlNnjgEJeMzmAmQOck4J/fdnhFFxtIonDrb3VtS8T+rp4/yujxSmwO1qyymA==;Iabw6SOVj7g1whN9SAjXkg=="

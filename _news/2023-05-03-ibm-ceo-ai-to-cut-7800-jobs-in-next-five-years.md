@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "IBM plans to replace 7,800 jobs with AI over time, pauses hiring certain positions"
-    excerpt: "IBM Chief Executive Officer Arvind Krishna has revealed plans to pause hiring for about 7,800 positions that could be replaced by artificial intelligence systems over time, according to a Bloomberg news report published Monday."
-    publishedDateTime: 2023-05-02T15:48:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/05/ibm-pauses-hiring-around-7800-roles-that-could-be-replaced-by-ai/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/05/ibm-pauses-hiring-around-7800-roles-that-could-be-replaced-by-ai/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/05/ibm-pauses-hiring-around-7800-roles-that-could-be-replaced-by-ai/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 81
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/05/ibm_cloud_hero_2-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "IBM pauses hiring, says it could replace 7,800 workers with AI"
     excerpt: "IBM has paused hiring and said that it could lay off around 7,800 workers over the next five years. CEO Arvind Krishna claimed that employees could be replaced by artificial intelligence. Speaking about back-office workers,"
     publishedDateTime: 2023-05-03T14:11:00Z

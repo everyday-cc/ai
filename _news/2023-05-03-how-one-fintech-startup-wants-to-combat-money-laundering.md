@@ -27,19 +27,28 @@ images:
     isCached: true
 
 related:
-  - title: "Best Fintech App Development Companies in the USA"
-    excerpt: "Fintech app development services are known to develop diverse fintech apps. The introduction involves creating"
-    publishedDateTime: 2023-05-02T15:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/best-fintech-app-development-companies-in-the-usa-2023-05-02"
+  - title: "Banking Sector Revolution: 3 Fintech Stocks to Watch"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Fintech is revolutionizing the banking sector. In fact, artificial"
+    publishedDateTime: 2023-05-04T15:33:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/banking-sector-revolution-3-fintech-stocks-to-watch-1032293459"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "How ‘voice to cart’ is revolutionising retail"
+    excerpt: "Perhaps the most significant limitation of voice technology in retail is the accuracy of voice recognition. Accurately interpreting voice commands can be tricky, especially when dealing with regional accents and dialects."
+    publishedDateTime: 2023-05-06T05:30:00Z
+    webUrl: "https://www.indiaretailing.com/2023/05/06/how-voice-to-cart-is-revolutionising-retail/"
+    type: article
+    provider:
+      name: indiaretailing
+      domain: indiaretailing.com
+    quality: 39
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.indiaretailing.com/wp-content/uploads/2023/05/Kumar-Rangarajan-CEO-and-Co-Founder.png"
+        width: 532
+        height: 345
         isCached: true
   - title: "APAC to lead global fintech market"
     excerpt: "With a projected CAGR (compound annual growth rate) of 27%, Asia Pacific (APAC) will likely outpace the United States of America to become the world’s top fintech market by 2030, according to a new report by Boston Consulting Group (BCG) and QED Investors."
@@ -55,34 +64,15 @@ related:
         width: 1600
         height: 800
         isCached: true
-  - title: "GMEX launches climate fintech Zero13"
-    excerpt: "GMEX Group Limited (“GMEX”), a leader in digital business and technology solutions for capital, commodities and sustainability markets, announces the launch of ZERO13, a climate fintech."
-    publishedDateTime: 2023-05-04T06:34:00Z
-    webUrl: "https://www.finextra.com/pressarticle/96699/gmex-launches-climate-fintech-zero13"
+  - title: "How Artificial Intelligence is Revolutionising the Fintech Landscape?"
+    excerpt: "According to surveys, 2/3 of FinTech companies currently use AI technology in their activities to a greater or lesser extent. Its influence will increase. Last year, the worldwide market for AI solutions in the FinTech industry was assessed at roughly 9  billion USD;"
+    publishedDateTime: 2023-05-03T08:01:00Z
+    webUrl: "https://www.finextra.com/blogposting/24145/how-artificial-intelligence-is-revolutionising-the-fintech-landscape"
     type: article
     provider:
       name: Finextra
       domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
-  - title: "IIT Kanpur's eMasters degree program in Financial Technology and Management to groom FinTech experts"
-    excerpt: "Some estimates suggest that the global FinTech market is expected to reach a market value of approximately $324 billion by 2026. Another recent report suggests that India's digital payments market is expected to triple from $3 trillion to $10 trillion by 2026,"
-    publishedDateTime: 2023-05-04T07:32:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/05/04/9807460.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 9
-    images:
-      - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
-        width: 550
-        height: 353
-        isCached: true
+    quality: 19
   - title: "Power of Fintech Events for Industry Visionaries"
     excerpt: "In the past few years, we have seen an explosion in financial technology (FinTech) innovations. This has caused a drastic transformation of how banks and other financial institutions operate. FinTech promises faster payments,"
     publishedDateTime: 2023-05-03T11:04:00Z
@@ -92,33 +82,6 @@ related:
       name: Impacts
       domain: techbullion.com
     quality: 4
-  - title: "OPTASIA RANKS THIRD AMONG TOP FINTECH COMPANIES ACCORDING TO FORBES MIDDLE EAST MAGAZINE"
-    excerpt: "Optasia, the leading Fintech services provider received one more top recognition, ranking third among the Top 30 Fintech companies in Middle East, by the world acclaimed Forbes Magazine in its Middle East edition."
-    publishedDateTime: 2023-05-02T18:00:00Z
-    webUrl: "https://www.thaipr.net/en/it_en/3332587"
-    type: article
-    provider:
-      name: thaipr.net
-      domain: thaipr.net
-    quality: 0
-  - title: "IIT Kanpur's eMasters degree program in Financial Technology and Management to groom FinTech experts"
-    excerpt: "Some estimates suggest that the global FinTech market is expected to reach a market value of approximately $324 billion by 2026. Another recent report suggests that India's digital payments market is expected to triple from $3 trillion to $10 trillion by 2026,"
-    publishedDateTime: 2023-05-04T20:06:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20230504/4069461.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
-  - title: "OPTASIA RANKS THIRD AMONG TOP FINTECH COMPANIES ACCORDING TO FORBES MIDDLE EAST MAGAZINE"
-    excerpt: "This accolade came through Forbes Middle East \"Top 30 Fintech Companies 2023\" article ... Optasia, previously Channel VAS, is an advanced AI-led platform that enables instant access to financial solutions for millions of underbanked individuals and ..."
-    publishedDateTime: 2023-05-04T18:39:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1320322&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
 
 secured: "Sq8JQ6LcMjDt3AO2cvGY0LMlj3ifet6I0PJGEsxEZO1t4mt+vbA6MVsUJUq/dCI0bzfZskQIRlmZJxmALrgjWc3lC2QUwegMKYbwFOJM5bo1Bzyk/UaSiTiRsHv+K7ef3SwF8LLiRpznjsQovub/kRJGk/66ubazBXNVGp03wFr5/UwCABIm73kEB4m+ZbslK5MkcqjtDIOAV4dNrVWZgWc96JnY7Ni1PoDbaYOhjTuUxCNdiar3WkcO8ohumK4s9qtEJQe5/1wdNrziTYXGIJ4258ShUctS4f7zdwt57VPxVVfbBHgM/dJIuPqJYz2aFMFafn/rE5+qTwG1TuJFtVhPA5a0W8hBppqOf2HvAbCQsP0yzx457S1bmPOOf4ZbI5ap7oYogch2O/6LMzVvflIgIcI6QfBdlQiYncwOUhn+9sg0mGC5XSHFmAKefE92bekElc5pWehCd0ctdXFTNWpwIniiZpgrCSNyPQDQgptzOPMzc0L2Ut78zFrSQrP9E/AMBFxoiOUGin04y3vXEw==;6BymYK9jx9/I7g/it5UCEA=="
 ---

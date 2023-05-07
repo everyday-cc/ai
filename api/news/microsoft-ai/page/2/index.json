@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-04-26-another-microsoft-365-outage-affects-search-functionality-in-services.md",
+      "title": "Another Microsoft 365 outage affects search functionality in services",
+      "excerpt": "Microsoft is trying to come up with short- and long-term fixes after users were unable to use the search functionality in multiple Microsoft 365 services, the company said in a Tweet on Monday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/article/3694550/another-microsoft-365-outage-affects-search-functionality-in-services.html",
+      "originalUrl": "https://www.computerworld.com/article/3694550/another-microsoft-365-outage-affects-search-functionality-in-services.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2023/03/09/12/shutterstock_2108335628-100938319-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerworld.com/article/3694550/another-microsoft-365-outage-affects-search-functionality-in-services.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3694550/another-microsoft-365-outage-affects-search-functionality-in-services.amp.html",
+      "publishedDateTime": "2023-04-25T23:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-26-microsoft-reports-earnings-beat-says-ai-will-drive-revenue-growth.md",
       "title": "Microsoft reports earnings beat, says A.I. will drive revenue growth",
       "excerpt": "Microsoft surpassed expectations on the top and bottom lines and beat estimates on quarterly revenue guidance. Growth from Azure and other cloud services slowed to 27% from 31% in the prior ...",
@@ -1359,49 +1402,6 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-health-it-vendor-eclinicalworks-announces-azure-openai-ehr-integration.md",
-      "title": "Health IT Vendor eClinicalWorks Announces Azure OpenAI EHR Integration",
-      "excerpt": "cognitive services, and machine learning models from Azure OpenAI Service. eClinicalWorks recently invested $100 million in Microsoft Azure cloud services. “We are thrilled to combine advances in generative AI models with eClinicalWorks’ solutions to ...",
-      "sourceUrl": null,
-      "webUrl": "https://ehrintelligence.com/news/health-it-vendor-eclinicalworks-announces-openai-ehr-integration",
-      "originalUrl": "https://ehrintelligence.com/news/health-it-vendor-eclinicalworks-announces-openai-ehr-integration",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ehrintelligence.com/images/site/article_headers/_normal/image_%283%29.png",
-          "width": 690,
-          "height": 425,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-18T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EHR Intelligence",
-        "domain": "ehrintelligence.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

@@ -22,22 +22,6 @@ topics:
   - Natural Language Processing
   - AI
 
-related:
-  - title: "New Relic To Launch First AI Observability Assistant: Meet Grok"
-    excerpt: "Observability software vendor New Relic later this month is launching Grok, what it calls the first-of-its-kind generative AI assistant for observability that uses natural language and AI to monitor, debug, secure and improve software stacks."
-    publishedDateTime: 2023-05-02T16:38:00Z
-    webUrl: "https://www.crn.com/news/channel-news/new-relic-to-launch-first-ai-observability-assistant-meet-grok"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 39
-    images:
-      - url: "https://www.crn.com/resources/0281-17eade49be46-8da94f2fcf99-1000/new-relic-grok.jpeg"
-        width: 611
-        height: 458
-        isCached: true
-
 secured: "k8VmnepvLWfws+gKS7+MSLKL156u2Tv43wyBlJDfI+sbSOX6WfEUj5ToqAj+9Rq+MXQTGfW9FfALf97s+HB606Dz1kZy9newxKs+YdRdYUntVmZO+bp6nbYV+8+nCIGb5TT/FGAL6yQdtxHbhmzz+jP08/oiefY4hrcQ4MvSs1zu1EYHErR4R7xakyHa53wOkv10Ezm8csOsGzfCHXFE9HijOc/z8Q89/QMF5asCCy/wvGwSqmbEsDdKoALL31xakkVwiUJatevhQk33W9teO3Ya+Nf5PksaLVNq18oxQgNgHZpEAR9qU1VLJwaK2l2u7Bv+7mdaTkaByaedKXdnd4bbspIqXKYBDGjPstaXEgdq8/OFytoAOx3NsuP+I5e7K+yMQhmlXHqAwWLTIi5uStsGatwDwltJgin80PlJMc8XqB1px0qgLMQfkBG4A0eXwpYDehbZBzhzH1GrR91RCQ4hXYUFXJ1OxOdF+PaqOuDatQNXiadCMNTmS/m2EFAU5rgmg7KBtj4ZCWQrW8H4+Q==;4jxAQKKlqg7Na4JLSUCAYA=="
 ---
 

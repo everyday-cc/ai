@@ -3,8 +3,8 @@ category: news
 title: "The risks and rewards of AI-powered translation"
 excerpt: "Free-to-use translation tools, and more recently generative AI platforms like ChatGPT, have brought security concerns to the fore around AI-powered translations in general. Many of us use language translation services in our day-to-day lives; it is ..."
 publishedDateTime: 2023-04-27T14:39:00Z
-originalUrl: "https://www.business-reporter.co.uk/technology/the-risks-and-rewards-of-ai-powered-translation"
-webUrl: "https://www.business-reporter.co.uk/technology/the-risks-and-rewards-of-ai-powered-translation"
+originalUrl: "https://www.business-reporter.co.uk/management/the-risks-and-rewards-of-ai-powered-translation"
+webUrl: "https://www.business-reporter.co.uk/management/the-risks-and-rewards-of-ai-powered-translation"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 800
     isCached: true
 
-secured: "fgt8Qv2xh03ueDWtxibLSDB6BscjdcAxAIDEXyXxLLd3UCWsaiRddpM7FHxIaSojoDf9/z3KBsh4SHzUvT8VdCVDtuUNc9Yi2XeXSjk36ttv4VLQGd+yznxxBEWy2ywyKfiM57QrN3IJTKrtSHNY+R/GS5f76/RWkUtyJFxvwPVPEhVjYMpqEnsHbYyCU1a7M3pJaHqowlDM3U+AfBi8QbBUu/9sDzihbgM+toH11NgKxrQ+oDX0loJmTKaqiu6tJuGwvkVImekOyYtBSULkw+eDDgQ1cZmfAK7f+BGOg5HGwECBk68hcgsFJAUmfQmy6lbnos3LsKF6IGhTCjQ+C7/ZvyFOaq+Q4S7O8GwTyPk=;r5PsaS4URxquZ8+3akp5Mg=="
+secured: "2hBeUJtf+iIMqiI8GX4mMbZIdXGWMIuNhVYaKUoI0pPzcSWw4J40CUy1z7a7JYEMZSZWCR/9x1MNtSB1xmYCVzj01apl01jkfmoq17PhJVQKQTqMUpSsiV5Ap1uidma4nW0CDntiXeSMBf9QOytLzhxEGAUmK7z9y+bX7tzxPkQZILvb2dzTOMkSmq4zuv6rTe0D2Ke2mSGCGtK2/INYinNS6vC/MOHe1zk8hGzf1TZgy/ZQa7Ma+HnIdUZ8Krm89bK9B7bI7YI2GmQHCGabuVDqABB5Q69nX9Q0hWxyWdkFgKbat6ZoVjk9VfwxUrYujJ7CYMheN3aWIcZxqkDkPG3tlc8B8Ck0WKHo/knKZBE=;ZZcKcy+qhy3VLb5gAvCjyA=="
 ---
 

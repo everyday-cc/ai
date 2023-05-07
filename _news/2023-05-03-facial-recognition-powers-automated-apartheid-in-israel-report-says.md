@@ -9,7 +9,7 @@ ampWebUrl: "https://www.seattletimes.com/business/facial-recognition-powers-auto
 cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/facial-recognition-powers-automated-apartheid-in-israel-report-says/?amp=1"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,20 @@ topics:
   - AI
 
 related:
+  - title: "AI: Israeli Authorities Use Facial Recognition Technology To Entrench Apartheid"
+    excerpt: "Bethlehem/PNN /Amnesty International Tuesday maintained that the Israeli authorities are using facial recognition technology to entrench a"
+    publishedDateTime: 2023-05-03T08:53:00Z
+    webUrl: "https://menafn.com/1106161352/AI-Israeli-Authorities-Use-Facial-Recognition-Technology-To-Entrench-Apartheid"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 50
+    images:
+      - url: "https://menafn.com/updates/pr/2023-05/03/PNN_8501aimage_story.jpeg"
+        width: 1000
+        height: 800
+        isCached: true
   - title: "“Automated Apartheid”: How Israel Uses Facial Recognition to Track Palestinians & Control Movement"
     excerpt: "A new report by Amnesty International documents how the Israeli government is using an experimental facial recognition system to track Palestinians and control their movements. The findings are part of “Automated Apartheid,"
     publishedDateTime: 2023-05-04T19:42:00Z

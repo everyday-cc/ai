@@ -47,22 +47,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Crown comes to Parliament in pre-coronation Charles visit"
-    excerpt: "Before the glory of his coronation weekend, King Charles III has visited Parliament to get a reminder that the monarch’s power has limits"
-    publishedDateTime: 2023-05-02T15:33:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/crown-parliament-pre-coronation-charles-visit-99011771"
-    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/crown-parliament-pre-coronation-charles-visit-99011771"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/crown-parliament-pre-coronation-charles-visit-99011771"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 44
-    images:
-      - url: "https://s.abcnews.com/images/International/wirestory_077c71b57815a241a75068d9789b06d9_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Snipers, facial recognition and a bomb-proof nerve centre - huge coronation security in place as police get new powers to tackle disruption"
     excerpt: "Police will have assembled an intelligence database of likely demonstrators and in the past have visited known individuals to try to ask them their intentions."
     publishedDateTime: 2023-05-05T08:28:00Z
@@ -135,6 +119,15 @@ related:
         width: 945
         height: 630
         isCached: true
+  - title: "Met Police considering using facial recognition technology for King's coronation"
+    excerpt: "The Metropolitan Police are considering deploying facial recognition technology to target those who may jeopardise the safety of the King's coronation. As the weekend looms, a Met briefing on security concerns took place on Wednesday after a man with a knife was arrested for throwing items,"
+    publishedDateTime: 2023-05-03T11:29:00Z
+    webUrl: "https://www.itv.com/news/2023-05-03/met-considering-using-facial-recognition-technology-for-kings-coronation"
+    type: article
+    provider:
+      name: ITV
+      domain: itv.com
+    quality: 14
   - title: "Protesters eye Coronation of King Charles III — and facial recognition eyes them"
     excerpt: "It’s apparent that a coronation is ripe territory for the convergence of righteous convictions, from the progressive to the fanatical, writes."
     publishedDateTime: 2023-05-05T09:00:00Z

@@ -114,20 +114,6 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
-  - title: "Regulating AI will put companies and governments at loggerheads"
-    excerpt: "The rapid release of generative AI tools has been a moment of reckoning. Just this week Geoffrey Hinton, a celebrated developer of AI, announced his resignation from Google, saying he regretted his work and wants to speak freely about the dangers and risks of the technology he created."
-    publishedDateTime: 2023-05-02T16:53:00Z
-    webUrl: "https://www.ft.com/content/7ef4811d-79bb-4b4f-b28f-b46430f0c9ff"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 37
-    images:
-      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
-        width: 619
-        height: 377
-        isCached: true
   - title: "Art world AI-nxiety: what is artificial intelligence and how are artists using it?"
     excerpt: "From breaking news and insider insights to exhibitions and events around the world, the team at The Art Newspaper picks apart the art world’s big stories with the help of special guests."
     publishedDateTime: 2023-05-05T18:15:00Z

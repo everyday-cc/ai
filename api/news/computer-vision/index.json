@@ -98,6 +98,49 @@
       ]
     },
     {
+      "path": "_news/2023-05-04-facial-recognition-nyc-bills-would-regulate-controversial-software.md",
+      "title": "Facial recognition: NYC bills would regulate controversial software",
+      "excerpt": "One council member says they understand businesses such as bodegas and grocery stores need facial recognition for security, but how are they going to use it and not abuse it?",
+      "sourceUrl": null,
+      "webUrl": "https://www.fox5ny.com/news/facial-recognition-software-nyc-bills-introduced",
+      "originalUrl": "https://www.fox5ny.com/news/facial-recognition-software-nyc-bills-introduced",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2023/05/932/470/LS10-BANNING-FACIAL-RECOGNITION-SOFTWARE_00.00.11.58.jpg?ve=1&tl=1",
+          "width": 932,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fox5ny.com/news/facial-recognition-software-nyc-bills-introduced.amp",
+      "cdnAmpWebUrl": "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/news/facial-recognition-software-nyc-bills-introduced.amp",
+      "publishedDateTime": "2023-05-04T05:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox 5 NY",
+        "domain": "fox5ny.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-04-these-new-yorkers-want-to-stop-landlords-from-using-facial-recognition.md",
       "title": "These New Yorkers Want to Stop Landlords From Using Facial Recognition",
       "excerpt": "At a raucous city council hearing, lawmakers and activists alike argued in favor of bills banning biometric tech in residential buildings and large venues.",
@@ -243,6 +286,49 @@
         "Computer Vision",
         "AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-05-03-ai-israeli-authorities-use-facial-recognition-technology-to-entrench-apartheid.md",
+      "title": "AI: Israeli Authorities Use Facial Recognition Technology To Entrench Apartheid",
+      "excerpt": "Bethlehem/PNN /Amnesty International Tuesday maintained that the Israeli authorities are using facial recognition technology to entrench a",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1106161352/AI-Israeli-Authorities-Use-Facial-Recognition-Technology-To-Entrench-Apartheid",
+      "originalUrl": "https://menafn.com/1106161352/AI-Israeli-Authorities-Use-Facial-Recognition-Technology-To-Entrench-Apartheid",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2023-05/03/PNN_8501aimage_story.jpeg",
+          "width": 1000,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-03T01:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -1344,110 +1430,6 @@
         "name": "The Robot Report",
         "domain": "therobotreport.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-22-smart-gun-operating-on-facial-recognition-goes-on-sale-in-us.md",
-      "title": "Smart gun operating on facial recognition goes on sale in US",
-      "excerpt": "BROOMFIELD, Colorado, April 21 (Reuters) - Colorado-based Biofire Tech is taking orders for a smart gun enabled by facial-recognition technology, the latest development in personalized weapons ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/smart-gun-operating-facial-recognition-goes-sale-us-2023-04-21/",
-      "originalUrl": "https://www.reuters.com/technology/smart-gun-operating-facial-recognition-goes-sale-us-2023-04-21/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/3QESb8uRDuLZlEpJhhYMYXjAAJQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LSI4GLAGWROZ7A6B7VSEVRGZVA.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-21T14:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-businesses-turn-to-facial-recognition-technology-to-avert-shoplifting-and-robbery.md",
-      "title": "Businesses turn to facial recognition technology to avert shoplifting and robbery",
-      "excerpt": "Fox News’ Douglas Kennedy reports that shoplifting and robbery crimes are up 22% from last year, prompting business owners to use facial recognition technology to stop repeat offenders.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/video/6325508060112",
-      "originalUrl": "https://www.foxnews.com/video/6325508060112",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8f9568c0-e2b3-4369-b71e-f2066447ffc9/c9ff9a97-7061-475b-bcd1-902a42a763be/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-21T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

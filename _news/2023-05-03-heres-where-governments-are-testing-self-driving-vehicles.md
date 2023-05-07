@@ -26,22 +26,6 @@ images:
     height: 560
     isCached: true
 
-related:
-  - title: "How Self-Driving Cars Are Integrating—or Not—Into the Urban Fabric"
-    excerpt: "As they become more common on some U.S. streets, autonomous vehicles are impeding emergency response operations and blocking traffic, idling in neighborhoods, and defying law enforcement."
-    publishedDateTime: 2023-05-02T16:01:00Z
-    webUrl: "https://www.planetizen.com/news/2023/05/122950-how-self-driving-cars-are-integrating-or-not-urban-fabric"
-    type: article
-    provider:
-      name: PLANetizen
-      domain: planetizen.com
-    quality: 24
-    images:
-      - url: "https://www.planetizen.com/files/images/shutterstock_2248707469.jpg"
-        width: 1000
-        height: 666
-        isCached: true
-
 secured: "m0LQrfNPcWhTfKDTnt7+qgYIM++04+IpvSUTCiBF4WQwve7Uq/roatgVcbUsUtq2MTfSyhEcMEhwqfrNHe0zz7pmKVZjpaF9qme067w91M+qt7pS4hwKSVHos25E8u7xVpOpA6NK3VmCJoyidtqbNovwLzgshuJC1zkGl7cYG7ttgkir8+pK75gR9yHUGxF1lRdrWwmeZ7V8NU7dOfi8Dlc1yltrSoIPKk92/YD/9tfAHU8sT2UQWPeeHvq4fbr2TIdCju6WBdNhkREk7F9uI4Xr1umxnlM6aEJWHKBJE0m5nBeiVLzwGlKOOzglW5r6fIg7P1l92pmPi5Jyci3vBQChnmuZjHrL6dbyD2y4Psn2r8Juhz0aK9j5hMjvkqoyrdDoTZ7FUAAC2n0V/m7stSLiJOfBWldqBk66aUA8ICw/cfLVgcXES4JAjTn5IjgDVoZspr5bdNsYhDAyjuvy/Db7oYI9uQeSvdr+K+D8v7xHXqRJfLgviyQ/kA2U7wl5kEOgQ4ZMqgNcOiP3Sy3nbw==;T4DK/pM3zH7iXw0AMbVAiA=="
 ---
 

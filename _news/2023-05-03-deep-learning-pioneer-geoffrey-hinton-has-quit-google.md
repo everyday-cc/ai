@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2023/05/01/1072478/deep-learning-pi
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/05/01/1072478/deep-learning-pioneer-geoffrey-hinton-quits-google/amp/"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -52,6 +52,15 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 17
+  - title: "AI ‘godfather’ Geoffrey Hinton quits Google to spread awareness against ‘dangers’ of artificial intelligence"
+    excerpt: "Dr Hinton’s pioneering research on neural networks and deep learning has paved the way for current AI systems like ChatGPT AI ‘godfather’ Geoffrey Hinton quits Google to spread awareness against ‘dangers’ of artificial intelligence AI,"
+    publishedDateTime: 2023-05-03T07:52:00Z
+    webUrl: "https://www.arabianbusiness.com/industries/technology/ai-godfather-geoffrey-hinton-quits-google-to-spread-awareness-against-dangers-of-artificial-intelligence"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 15
 
 secured: "FMYiemkwATBTsAN/mvxrWw7L6al8s1Re1nd5oobsfF1d65jGLoQzFNI61RiGdMnkNMN6QcAUeD1/c0bK8IS1C9p4RQYfpOvqUL2u7Ubz64ZDL1cZLsIilXcG4muYYTux5xsjntFFF+OfH5X2hLfv4BjXIJSRFNInk70ZkOQFHjM/VZREmlxaeFixsOGhCAPgznicw4axx20TLCQN1UQ8IyeNq5ekpkz2MAbtKFnmQzlVNzU1OX7uIndf6iqMEs5rlqOcjP5Bjps7skSU9AFTydw2BcKvDco0eKXyunnHwQZa6rSQiBHDFoxxsNZTD3mjJ5rbdAmdWV86KQz/ELtRw31nSTQL1UtmgkYrc4Ax/aDOj6tGFM2ueb0c4t+X7V+n/u/hVxqsenw6rQyxgs+Hcunq6ujiXqt8Mur4hx+iD/ar/tC9j/aCifJRqE+WkHTPOUV8/KEpXrMfF9oruQTPH7mRsP0gSC1nju1O7JXhwDyQmVrZNxif6a1d6WKT2w3RcsfyqoAHfaTm3T8XH35Z1Q==;HRBGL7lTujPblR/6HybjMA=="
 ---

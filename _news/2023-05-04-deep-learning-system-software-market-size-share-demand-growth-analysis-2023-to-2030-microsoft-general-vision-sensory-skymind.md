@@ -33,20 +33,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 46
-  - title: "Siemens links up with Microsoft and IBM to deliver its vision"
-    excerpt: "At the recent Hannover Messe, Siemens announced partnerships with several key players in the OT/IT world, including IBM and Microsoft, aimed at"
-    publishedDateTime: 2023-05-02T16:09:00Z
-    webUrl: "https://drivesncontrols.com/news/fullstory.php/aid/7345/Siemens_links_up_with_Microsoft_and_IBM_to_deliver_its_vision.html"
-    type: article
-    provider:
-      name: drivesncontrols.com
-      domain: drivesncontrols.com
-    quality: 39
-    images:
-      - url: "https://drivesncontrols.com/images/7345.photo.3.jpg"
-        width: 420
-        height: 262
-        isCached: true
 
 secured: "n3TlJDG6i3Wy7ZrXCAgScxeI+J9E1Wmmzod1tIl4/bjQcwVCjMEgc5yZpW3DA5DxIfdGOAn2CYB3T+e3UA2PySqbctgRwdhTwiO4rjC79Sj7L5fu3KxI/18sc/sRW7LhtRKZS7CnT01P/gkJznL7NtKg7+ulKdfPV0WFTrX4jRzIM6nw6irKP/UAUnHFO8m1i+t+ZcwBso4Rl6Vu0+NR3Y3RUz2hVikGi5fhRTo4FVROCjDbdFAzmQaHHAVyJewFQJNa8dq12jNX7y1X0P/Jto+hUpX3g+fycwDg6OhJJntEgceMvokuhOA3fczEi6710gzuPR1euUHf+PE2T2/KS0qOsG85hSo5M/3+u8Dc9UY=;Xk7PhQSGJPVdYr/USK9vKg=="
 ---

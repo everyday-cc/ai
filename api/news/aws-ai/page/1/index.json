@@ -167,7 +167,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/get-started-with-generative-ai-on-aws-using-amazon-sagemaker-jumpstart/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 159,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -382,6 +382,49 @@
       "provider": {
         "name": "CBS News",
         "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-29-new-report-finds-canadian-smbs-are-open-to-new-payment-options.md",
+      "title": "New report finds Canadian SMBs are open to new payment options",
+      "excerpt": "The 2023 Chase Payment Solutions State of Canadian Payments report reveals that merchants are open to adopting new payments options over the next year as payment innovations for consumers increase in Canada. The State of Canadian Payments Report ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itbusiness.ca/news/new-report-finds-canadian-smbs-are-open-to-new-payment-options/124890",
+      "originalUrl": "https://www.itbusiness.ca/news/new-report-finds-canadian-smbs-are-open-to-new-payment-options/124890",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itbusiness.ca/wp-content/uploads/2017/10/GettyImages-576605112-e1541624080703.jpg",
+          "width": 620,
+          "height": 249,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itbusiness.ca/news/new-report-finds-canadian-smbs-are-open-to-new-payment-options/124890?amp=1",
+      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/new-report-finds-canadian-smbs-are-open-to-new-payment-options/124890?amp=1",
+      "publishedDateTime": "2023-04-28T11:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Business",
+        "domain": "itbusiness.ca",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1380,59 +1423,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-04-20-artificial-intelligence-signs-of-acceleration-in-2023.md",
-      "title": "Artificial Intelligence: Signs of Acceleration in 2023",
-      "excerpt": "One final investment area that I’ll mention, that’s core to setting Amazon up to invent in every area of our business for many decades to come,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-signs-of-acceleration-in-2023-1032247068",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-signs-of-acceleration-in-2023-1032247068",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wisdomtree.com/investments/-/media/us-media-files/blog/blog-images-2/2023/april/artificial-intelligence-signs-of-acceleration-in-2023/figure-1.jpg",
-          "width": 768,
-          "height": 462,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-20T01:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

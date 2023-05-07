@@ -140,22 +140,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "ChatGPT is the most sought out tech skill in the workforce, says learning ..."
-    excerpt: "The index showed that the top global tech skill for businesses in the first quarter of 2023 was ChatGPT, which experienced a 4,419% increase in global topic consumption from the fourth quarter of 2022."
-    publishedDateTime: 2023-05-02T15:45:00Z
-    webUrl: "https://www.zdnet.com/article/chatgpt-is-the-most-sought-out-tech-skill-in-the-workforce-according-to-a-study/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/chatgpt-is-the-most-sought-out-tech-skill-in-the-workforce-according-to-a-study/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chatgpt-is-the-most-sought-out-tech-skill-in-the-workforce-according-to-a-study/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 71
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/634c17e6b6addb19e136986911fb3bc54b83f0e5/2023/05/02/8fbcaa3f-89eb-47a7-b8d9-682428431a32/gettyimages-1246495664-1.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Google Reportedly Upgrading Search With AI Chatbot, TikTok Videos"
     excerpt: "According to the Wall Street Journal, the search engine is planning to add AI prompts that will pop up in response to queries that can’t be easily answered by traditional web results, as well as swipe-through video clips."
     publishedDateTime: 2023-05-06T17:17:00Z
@@ -229,22 +213,6 @@ related:
     quality: 57
     images:
       - url: "https://i.guim.co.uk/img/media/9127fb3fdc623596d2c3da48be625ee17222c275/0_151_4500_2701/master/4500.jpg?width=620&quality=85&auto=format&fit=max&s=6571ea48a2c8e68b192e158449621bd0"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "Chatbot ‘journalists’ found running almost 50 AI-generated content farms"
-    excerpt: "Websites churn out content, often advancing false narratives, to saturate with adverts, says anti-misinformation firm"
-    publishedDateTime: 2023-05-02T16:45:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/may/02/chatbot-journalists-found-running-almost-50-ai-generated-content-farms"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/02/chatbot-journalists-found-running-almost-50-ai-generated-content-farms"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/02/chatbot-journalists-found-running-almost-50-ai-generated-content-farms"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 56
-    images:
-      - url: "https://i.guim.co.uk/img/media/e2301359f7e6899aa7dfb79e07a0f76519d2eed3/0_233_5700_3421/master/5700.jpg?width=620&quality=85&auto=format&fit=max&s=952570695e00a2b4dd8276d54ea418f2"
         width: 620
         height: 372
         isCached: true

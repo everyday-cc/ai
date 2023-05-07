@@ -19,20 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Best Fintech App Development Companies in the USA"
-    excerpt: "Fintech app development services are known to develop diverse fintech apps. The introduction involves creating"
-    publishedDateTime: 2023-05-02T15:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/best-fintech-app-development-companies-in-the-usa-2023-05-02"
+  - title: "Banking Sector Revolution: 3 Fintech Stocks to Watch"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Fintech is revolutionizing the banking sector. In fact, artificial"
+    publishedDateTime: 2023-05-04T15:33:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/banking-sector-revolution-3-fintech-stocks-to-watch-1032293459"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "How One Fintech Startup Wants to Combat Money Laundering"
     excerpt: "Fintech startup Kyros introduces a complete cloud-based solution for combatting money laundering and financial crimes with AI analysis and third-party sources, simplifying the process of onboarding an"
     publishedDateTime: 2023-05-02T19:49:00Z
@@ -49,6 +44,20 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "How ‘voice to cart’ is revolutionising retail"
+    excerpt: "Perhaps the most significant limitation of voice technology in retail is the accuracy of voice recognition. Accurately interpreting voice commands can be tricky, especially when dealing with regional accents and dialects."
+    publishedDateTime: 2023-05-06T05:30:00Z
+    webUrl: "https://www.indiaretailing.com/2023/05/06/how-voice-to-cart-is-revolutionising-retail/"
+    type: article
+    provider:
+      name: indiaretailing
+      domain: indiaretailing.com
+    quality: 39
+    images:
+      - url: "https://www.indiaretailing.com/wp-content/uploads/2023/05/Kumar-Rangarajan-CEO-and-Co-Founder.png"
+        width: 532
+        height: 345
+        isCached: true
   - title: "APAC to lead global fintech market"
     excerpt: "With a projected CAGR (compound annual growth rate) of 27%, Asia Pacific (APAC) will likely outpace the United States of America to become the world’s top fintech market by 2030, according to a new report by Boston Consulting Group (BCG) and QED Investors."
     publishedDateTime: 2023-05-04T02:00:00Z
@@ -63,61 +72,15 @@ related:
         width: 1600
         height: 800
         isCached: true
-  - title: "GMEX launches climate fintech Zero13"
-    excerpt: "GMEX Group Limited (“GMEX”), a leader in digital business and technology solutions for capital, commodities and sustainability markets, announces the launch of ZERO13, a climate fintech."
-    publishedDateTime: 2023-05-04T06:34:00Z
-    webUrl: "https://www.finextra.com/pressarticle/96699/gmex-launches-climate-fintech-zero13"
+  - title: "How Artificial Intelligence is Revolutionising the Fintech Landscape?"
+    excerpt: "According to surveys, 2/3 of FinTech companies currently use AI technology in their activities to a greater or lesser extent. Its influence will increase. Last year, the worldwide market for AI solutions in the FinTech industry was assessed at roughly 9  billion USD;"
+    publishedDateTime: 2023-05-03T08:01:00Z
+    webUrl: "https://www.finextra.com/blogposting/24145/how-artificial-intelligence-is-revolutionising-the-fintech-landscape"
     type: article
     provider:
       name: Finextra
       domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
-  - title: "IIT Kanpur's eMasters degree program in Financial Technology and Management to groom FinTech experts"
-    excerpt: "Some estimates suggest that the global FinTech market is expected to reach a market value of approximately $324 billion by 2026. Another recent report suggests that India's digital payments market is expected to triple from $3 trillion to $10 trillion by 2026,"
-    publishedDateTime: 2023-05-04T07:32:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/05/04/9807460.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 9
-    images:
-      - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
-        width: 550
-        height: 353
-        isCached: true
-  - title: "OPTASIA RANKS THIRD AMONG TOP FINTECH COMPANIES ACCORDING TO FORBES MIDDLE EAST MAGAZINE"
-    excerpt: "Optasia, the leading Fintech services provider received one more top recognition, ranking third among the Top 30 Fintech companies in Middle East, by the world acclaimed Forbes Magazine in its Middle East edition."
-    publishedDateTime: 2023-05-02T18:00:00Z
-    webUrl: "https://www.thaipr.net/en/it_en/3332587"
-    type: article
-    provider:
-      name: thaipr.net
-      domain: thaipr.net
-    quality: 0
-  - title: "IIT Kanpur's eMasters degree program in Financial Technology and Management to groom FinTech experts"
-    excerpt: "Some estimates suggest that the global FinTech market is expected to reach a market value of approximately $324 billion by 2026. Another recent report suggests that India's digital payments market is expected to triple from $3 trillion to $10 trillion by 2026,"
-    publishedDateTime: 2023-05-04T20:06:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20230504/4069461.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
-  - title: "OPTASIA RANKS THIRD AMONG TOP FINTECH COMPANIES ACCORDING TO FORBES MIDDLE EAST MAGAZINE"
-    excerpt: "This accolade came through Forbes Middle East \"Top 30 Fintech Companies 2023\" article ... Optasia, previously Channel VAS, is an advanced AI-led platform that enables instant access to financial solutions for millions of underbanked individuals and ..."
-    publishedDateTime: 2023-05-04T18:39:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1320322&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
+    quality: 19
 
 secured: "IxcTGmYe1OPnvmQTjaMjXBoBDhHeQx1b3EUipfgHRGw+YaDWyOd5R2ZCLPaT1Lfm+7cQK5iOLjJmhfckF0QcXBptvRv5jaXlhx0hgmLjYgPMNoY1+aNuNGu5/4fSJ3/gq0UZnQYRA3OOgDvZB4YvGu2wJCwRqhqlaCbRdSYzykXm2KAl+lgdswV42oaea5jv+EWnYeKlRc6qBSnODGXY4NcKDQkVzqHRm5w+baDvbXG9EJvU9aiZypMFHnHkMnx0gglmZIHxFbWl6vlCRQUgIWm2Z1Lfm9q86cWHkh4nzKsYsuiqLopYPt9vVhcbKUW2lwqHy+I1+KdPVKKvSABKrinZe5W1Qy5ZZE5tDqCn+iIAgTewmbVYGgSUTCzywIujQB4Pul9nAjaat5TpQQkq9KeyN2ZR+ZBMt0AB1KMrs2VNouS4+x7AZlEqT71nBZBFhgLH72eJ+CidHAAqz0P2QCoxery33OfowukBr30C0RL7CV7O/x4hyjn99HfkmGxJSNXglmYQYD9opPadd0touw==;cgvJRXV+LNqxTDpLZ3dFRw=="
 ---

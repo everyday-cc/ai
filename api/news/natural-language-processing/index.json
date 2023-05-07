@@ -662,8 +662,8 @@
       "title": "The risks and rewards of AI-powered translation",
       "excerpt": "Free-to-use translation tools, and more recently generative AI platforms like ChatGPT, have brought security concerns to the fore around AI-powered translations in general. Many of us use language translation services in our day-to-day lives; it is ...",
       "sourceUrl": null,
-      "webUrl": "https://www.business-reporter.co.uk/technology/the-risks-and-rewards-of-ai-powered-translation",
-      "originalUrl": "https://www.business-reporter.co.uk/technology/the-risks-and-rewards-of-ai-powered-translation",
+      "webUrl": "https://www.business-reporter.co.uk/management/the-risks-and-rewards-of-ai-powered-translation",
+      "originalUrl": "https://www.business-reporter.co.uk/management/the-risks-and-rewards-of-ai-powered-translation",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -757,17 +757,17 @@
       "title": "Interprefy unveils next-generation AI event translator Aivia",
       "excerpt": "Experience the full interactive Multichannel News Release here: Multilingual meeting technology and services provider Interprefy has today unveiled Interprefy Aivia, the world's first advanced automated speech translation service for online and live events,",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/interprefy-unveils-next-generation-ai-event-translator-aivia-2023-04-26",
-      "originalUrl": "https://www.marketwatch.com/press-release/interprefy-unveils-next-generation-ai-event-translator-aivia-2023-04-26",
+      "webUrl": "https://technews.tmcnet.com/news/2023/04/26/9802122.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/04/26/9802122.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png",
+          "width": 550,
+          "height": 353,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -777,21 +777,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-26T04:01:00-07:00",
+      "publishedDateTime": "2023-04-26T04:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

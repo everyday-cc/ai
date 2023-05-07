@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Godfather of AI: Geoffrey Hinton quits Google to expose risks of artificial intelligence"
-    excerpt: "Geoffrey Hinton also known as the 'Godfather of AI' has cut off the strings that tied him to Google so that he could openly give vent to his views about the downside of the technology that has"
-    publishedDateTime: 2023-05-02T15:34:00Z
-    webUrl: "https://www.thenews.com.pk/latest/1066346-ai-godfather-geoffrey-hinton-resigns-from-google-to-speak-about-its-risks"
-    ampWebUrl: "https://www.thenews.com.pk/amp/1066346-ai-godfather-geoffrey-hinton-resigns-from-google-to-speak-about-its-risks"
-    cdnAmpWebUrl: "https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/1066346-ai-godfather-geoffrey-hinton-resigns-from-google-to-speak-about-its-risks"
-    type: article
-    provider:
-      name: The News International
-      domain: thenews.com.pk
-    quality: 65
-    images:
-      - url: "https://www.thenews.com.pk/assets/uploads/updates/2023-05-02/1066346_083422_updates.jpg"
-        width: 700
-        height: 437
-        isCached: true
   - title: "What Are The Concerns About Artificial Intelligence Raised By The Godfather Of AI Geoffrey Hinton?"
     excerpt: "Geoffrey Hinton, the Godfather of AI, has quit his job at Google to warn about the dangers of Artificial Intelligence. Check what are the 4 concerns"
     publishedDateTime: 2023-05-05T16:38:00Z

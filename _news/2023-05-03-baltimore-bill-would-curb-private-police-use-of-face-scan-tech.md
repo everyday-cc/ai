@@ -7,7 +7,7 @@ originalUrl: "https://news.bloomberglaw.com/privacy-and-data-security/baltimore-
 webUrl: "https://news.bloomberglaw.com/privacy-and-data-security/baltimore-bill-would-curb-private-police-use-of-face-scan-tech"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,19 +23,6 @@ images:
     width: 1919
     height: 737
     isCached: true
-
-related:
-  - title: "Baltimore Considers Facial Recognition Restrictions"
-    excerpt: "Proposed legislation would require the police department to get approval before acquiring any new surveillance technology and would establish an oversight board to monitor the city’s use."
-    publishedDateTime: 2023-05-02T21:08:00Z
-    webUrl: "https://www.governing.com/security/baltimore-considers-facial-recognition-restrictions"
-    ampWebUrl: "https://www.governing.com/security/baltimore-considers-facial-recognition-restrictions?_amp=true"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/baltimore-considers-facial-recognition-restrictions?_amp=true"
-    type: article
-    provider:
-      name: Governing
-      domain: governing.com
-    quality: 39
 
 secured: "AD88U8H9zHmCwFyB62MKDaLtE9v5eDah2ah+EVEmxwPzEE4inALjwdnNKM13Q0YHk6gxRAzFVEgDYudEvT7fhezC+v2rPd86C5bmxq6pLEyAi/+hlBBJbdEKWf+7ALJh5lafYA6LuxPZ4hZ0Tp01/syNQuJoghFFPv33B+hPPp/R5yDoTLhL31/gr0bSdoQc75V9xgtPwZ2VSd6vP2drPoF6yJpG+effdRWPK/6GjIt3NdPGc3SYRibmB9Hc8+Sk0HFa1YQZK+5a9qpwKo1ysRHbo0AP8SeEf8yL7B7Z413NsgYJRoMFgyfxH6xGiQYYtZvbCis3c+3bGmEYpvAstRgcABPLnoewmCziCoPaQGY=;Y1ZGq7sOdi+TRNsYIQHOnw=="
 ---

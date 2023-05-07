@@ -274,7 +274,7 @@
       "originalUrl": "https://techcrunch.com/2023/05/03/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 419,
+      "heat": 399,
       "tags": null,
       "images": [
         {
@@ -558,6 +558,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-01-up-to-60-of-stroke-survivors-may-develop-cognitive-decline-within-a-year.md",
+      "title": "Up to 60% of stroke survivors may develop cognitive decline within a year",
+      "excerpt": "Up to 60% of all stroke survivors develop memory and thinking problems within a year, and one-third go on to develop dementia within five years, according to a new American Stroke Association ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/05/01/health/stroke-cognition-dementia-wellness/index.html",
+      "originalUrl": "https://www.cnn.com/2023/05/01/health/stroke-cognition-dementia-wellness/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/230428154745-head-in-hands-stock-restricted-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/05/01/health/stroke-cognition-dementia-wellness/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/05/01/health/stroke-cognition-dementia-wellness/index.html",
+      "publishedDateTime": "2023-05-01T04:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1475,49 +1527,6 @@
         "Microsoft AI",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-04-26-another-microsoft-365-outage-affects-search-functionality-in-services.md",
-      "title": "Another Microsoft 365 outage affects search functionality in services",
-      "excerpt": "Microsoft is trying to come up with short- and long-term fixes after users were unable to use the search functionality in multiple Microsoft 365 services, the company said in a Tweet on Monday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3694550/another-microsoft-365-outage-affects-search-functionality-in-services.html",
-      "originalUrl": "https://www.computerworld.com/article/3694550/another-microsoft-365-outage-affects-search-functionality-in-services.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2023/03/09/12/shutterstock_2108335628-100938319-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerworld.com/article/3694550/another-microsoft-365-outage-affects-search-functionality-in-services.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3694550/another-microsoft-365-outage-affects-search-functionality-in-services.amp.html",
-      "publishedDateTime": "2023-04-25T23:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],
