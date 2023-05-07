@@ -189,16 +189,16 @@ related:
   - title: "White House unveils an AI plan ahead of meeting with tech CEOs"
     excerpt: "CNN By Brian Fung, CNN The White House on Thursday announced a series of measures to address the challenges of artificial intelligence, driven by the sudden popularity of tools such as ChatGPT and amid rising concerns about the technology’s potential risks for discrimination,"
     publishedDateTime: 2023-05-04T21:18:00Z
-    webUrl: "https://kesq.com/money/cnn-social-media-technology/2023/05/04/white-house-unveils-an-ai-plan-ahead-of-meeting-with-tech-ceos/"
+    webUrl: "https://ktvz.com/lifestyle/technology/cnn-social-media-technology/2023/05/04/white-house-unveils-an-ai-plan-ahead-of-meeting-with-tech-ceos/"
     type: article
     provider:
-      name: KESQ News
-      domain: kesq.com
+      name: KTVZ
+      domain: ktvz.com
     quality: 39
     images:
-      - url: "https://kesq.b-cdn.net/2023/05/hypatia-h_9dfc3363f190ea51a20993445362a943-h_f35f6fb89accb1580ccc1f934a872977-300-scaled.jpg"
-        width: 2560
-        height: 1707
+      - url: "https://ktvz.b-cdn.net/2023/05/hypatia-h_9dfc3363f190ea51a20993445362a943-h_f35f6fb89accb1580ccc1f934a872977-300-scaled.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Vice President Harris meets with CEOs about artificial intelligence risks"
     excerpt: "Vice President Kamala Harris met with the heads of Google, Microsoft and two other companies developing artificial intelligence."

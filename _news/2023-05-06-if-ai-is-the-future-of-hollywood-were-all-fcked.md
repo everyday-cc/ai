@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Hollywood screenwriters don’t want robots taking their jobs, either"
-    excerpt: "The thousands of WGA scribes who went on strike this week are concerned in part about the rise of AI — and how the major studios might tap the technology going forward."
-    publishedDateTime: 2023-05-02T23:31:00Z
-    webUrl: "https://www.nbcnews.com/news/writers-strike-2023-hollywood-screenwriters-ai-concerns-rcna82543"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna82543"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna82543"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 89
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/230502-NYC-Hollywood-Writers-Strike-ac-536p-6e2e6a.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "In Hollywood Strike, AI Is Nemesis"
     excerpt: "If the Netflix algorithm is unable to recommend a show we’ll like, maybe it can create one instead."
     publishedDateTime: 2023-05-05T20:38:00Z
@@ -104,22 +88,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 47
-  - title: "Screenwriters want to stop AI from taking their jobs. Studios want to see what the tech can do."
-    excerpt: "Striking film and TV writers are pushing to put strict guardrails around how studios use AI in the scripting process."
-    publishedDateTime: 2023-05-03T16:17:00Z
-    webUrl: "https://www.cbsnews.com/news/writers-strike-2023-artificial-intelligence-guardrails/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/writers-strike-2023-artificial-intelligence-guardrails/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/writers-strike-2023-artificial-intelligence-guardrails/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 45
-    images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/05/03/052c416a-421e-4a63-a0d4-6622b87e38e2/thumbnail/1200x630/4e79a487eb1848b6d1e191494015ee68/gettyimages-1252549943.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Writers vs AI bots is more than a Hollywood drama"
     excerpt: "They moved to hiring writers on short-term contracts to develop new dramas in what are known as “mini-rooms”; these are disbanded before the show is commissioned. This approach not only pays writers less and limits residuals, but means they do not gain practical experience on productions; they must find themselves another mini-room project instead."
     publishedDateTime: 2023-05-05T11:06:00Z

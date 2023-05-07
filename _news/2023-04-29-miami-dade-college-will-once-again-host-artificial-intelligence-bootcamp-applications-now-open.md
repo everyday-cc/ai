@@ -1,26 +1,22 @@
 ---
 category: news
-title: "Miami Dade College Will Once Again Host Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
-excerpt: "Miami Dade College (MDC) will once again host the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp in Miami for high school students at no-cost during the fall 2023 term. The Bootcamp aims to introduce underserved high school students to basic AI concepts and skills."
-publishedDateTime: 2023-04-28T19:08:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/04/28/9804355.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/04/28/9804355.htm"
+title: "Miami Dade College Will Once Again Host Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!"
+excerpt: "Miami Dade College (MDC) will once again host the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp in Miami for high school students at no-cost during the fall 2023"
+publishedDateTime: 2023-04-28T18:36:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/04/g32091127/miami-dade-college-will-once-again-host-artificial-intelligence-bootcamp-applications-now-open"
+webUrl: "https://www.benzinga.com/pressreleases/23/04/g32091127/miami-dade-college-will-once-again-host-artificial-intelligence-bootcamp-applications-now-open"
+ampWebUrl: "https://www.benzinga.com/amp/content/32091127"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32091127"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
-    width: 550
-    height: 353
-    isCached: true
-
-secured: "SWn+ljFgliJ6PMMwrB9onGaqsZ+f4S0RjGUBHwbYZKCSZTmLBhBJcqd4mQO3h8XqkVPZo+28S5Jgh5HXux+qlKcdvSPFBn8AGCBT7kstZr0gztaOaFLmM6vhtsPdIRC33cxQxTxSOPTCs5mpbqXq3Kon/7XFdo4XKnCdw/+mXmfatB9kROMbiPP+iqSON6B+LmUyUrrXJ4nhkQQqvKE8CyZO7FmQeusLmltcFDTwcDzgEzMzWuMqLRrWrMo/zbDU5ImmJpvbKtC6+SEXza03WUsnJzOLv8jvHzb/6wSggWTOM896phzF81Ea333oGXQcCzRQ+43pASMs34crXCyDnyintntYaYQaltrKGOf1gdg=;4U31E4In72OeXKGFS2igwg=="
+secured: "l6sKIRgUQlWKygAn71kztKkx5Mgb8mR49BA033QqUO0UfYcDj+uTXXdZWa7WpgA+9grtok6YsjyTMCriGhr+2bN2Gz0gzTI3q/GOKLM588cGA2FozgdASpgq4hE4GzNhp0V+kL+Wcv4kSC8O9SeXYJwMdZ1U20Di5q9ckH/lkaVShnXh1zYpelEqpgY+CjtvyKQ8v4rhyEU91WF229EH52o8wvjo/gNOuFVaDISspc/bNPvVERMt/3gphDD0MfXzMXxZOME/PTpY2SPTmpFxACm41A84XKE7ZfSQGKIbZtO1uc+hWVvtUzhHt2jgDihOsbjw/duUXWaazbBtbjYqLp5PkT+2OLqWUbDdtYKQLcs=;PdjfNHdwy7KYyWzZGUQ87Q=="
 ---
 

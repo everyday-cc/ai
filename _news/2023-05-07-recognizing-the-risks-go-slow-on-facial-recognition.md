@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "New York City Finally Faces Down Facial Recognition"
-    excerpt: "Gotham Gazette is an online publication covering New York policy and politics as well as news on public safety, transportation, education, finance and more."
-    publishedDateTime: 2023-05-03T00:05:00Z
-    webUrl: "https://www.gothamgazette.com/130-opinion/11985-new-york-city-facial-recognition-legislation"
-    type: article
-    provider:
-      name: Gotham Gazette
-      domain: gothamgazette.com
-    quality: 39
-    images:
-      - url: "https://www.gothamgazette.com/images/graphics/7-faces-rec.jpg"
-        width: 799
-        height: 533
-        isCached: true
   - title: "After MSG debacle, NYC considers facial recognition ban for businesses, landlords"
     excerpt: "City Councilmembers will also grill agency officials on their use of biometric surveillance at a Wednesday hearing."
     publishedDateTime: 2023-05-03T14:00:00Z

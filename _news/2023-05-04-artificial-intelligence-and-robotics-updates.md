@@ -9,7 +9,7 @@ ampWebUrl: "https://www.philstar.com/happens/1132/amp/"
 cdnAmpWebUrl: "https://www-philstar-com.cdn.ampproject.org/c/s/www.philstar.com/happens/1132/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 800
     height: 536
     isCached: true
+
+related:
+  - title: "Spider-like robotic AI arms can be attached to and controlled by humans"
+    excerpt: "A Japanese robotics company called Jizai Arms has engineered a system of supernumerary robotic limbs consisting of six arms that can be worn and controlled by the user."
+    publishedDateTime: 2023-05-07T17:14:00Z
+    webUrl: "https://interestingengineering.com/innovation/ai-arms-controlled-by-humans"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 54
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/05/07/image/jpeg/halazPV1ZMgRyeFSHY4QRfgiWEerzD2AShKIolXb.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "pGVAhOgB2lOTxIcixFqXK6k2+CxoNvCABDm9CHaYLhVa1vKZDgnVNmq0z1kfqUeHgfheUv1753FTMXqO63u3sWoNlgkbu0UYcOIe8A3c5eo55ZL/K/bbL4WDjijzC/Lonwb5ixkhZDhUvEWBKLeDDH2UgUcqHGrGr1rASd+XKXPAyBXCeZYrdD9oE4/4s7YZq0+JKf1iHbnwHl4kS5fwF+7wM2Noz+Maj4ur2jwRI/v9u+4DUR5lZvye0qKvmzO+DElwBPfH8yQ8JFjK9/pP6hrzciqQWGj5pUNrSzZlkJrtWMUSv83PTs2yNWvKWsdqvp32hguMK6qPlERNOiqhvZ0gjcP0SWaAhh44K7vSnO2VxPZ5nCXM+Enq3eeRH9oP5ZSSlFBUdX8bNTkvTUGp+dS+GFe2Ky/MB7BKctGFVRNYoaLDflW1MYZkrPPqMjuejWfI5QbKR2xXJIU7WnUo0TOzYfbC9/JtGhMh+Wu2UYXzFgd+ZcrGXJvbtUYPqiLjd6rGfR93hHkPMbg5M4OtBw==;SisIXZspnUjYk8hAcTT4uw=="
 ---

@@ -108,22 +108,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Industrial Robotics Market Report to 2026: Collaborative Robots Promote Efficiency and Innovation Presenting Opportunities"
-    excerpt: "The \"Industrial Robotics Growth Opportunities\" report has been added to ResearchAndMarkets.com's offering. Robotics usage in industrial settings has risen over the last"
-    publishedDateTime: 2023-05-03T00:45:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/05/n32178540/global-industrial-robotics-market-report-to-2026-collaborative-robots-promote-efficiency-and-innov"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32178540"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32178540"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 45
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "Artificial Intelligence in Building Market Size and Value: In-Depth Research Report, and possible growth directions of 12.7% CAGR from 2023-2030"
     excerpt: "The \"Artificial Intelligence in Building Market\" is segmented into regions, Applications, and Types. The report presents the research and analysis provided within the Artificial Intelligence in Building Market Research is meant to benefit stakeholders,"
     publishedDateTime: 2023-05-03T22:37:00Z
@@ -151,20 +135,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Voice User Interface Global Market Report 2023: Rising use of Artificial Intelligence Drives Growth"
-    excerpt: "This report provides strategists, marketers and senior management with the critical information they need to assess the market. The global voice user interface market is expected"
-    publishedDateTime: 2023-05-02T23:15:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/05/02/9806317.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 25
-    images:
-      - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
-        width: 550
-        height: 353
         isCached: true
   - title: "Machine Learning As A Service Market Overview Highlighting Key Drivers And Growth Opportunities By 2030"
     excerpt: "Machine learning as a Service Market Research Increase in adoption of cloud computing technology along with usage of social media platfor"

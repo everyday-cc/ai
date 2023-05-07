@@ -40,6 +40,22 @@ related:
         width: 750
         height: 393
         isCached: true
+  - title: "Screenwriters want to stop AI from taking their jobs. Studios want to see what the tech can do."
+    excerpt: "Striking film and TV writers are pushing to put strict guardrails around how studios use AI in the scripting process."
+    publishedDateTime: 2023-05-03T16:17:00Z
+    webUrl: "https://www.cbsnews.com/news/writers-strike-2023-artificial-intelligence-guardrails/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/writers-strike-2023-artificial-intelligence-guardrails/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/writers-strike-2023-artificial-intelligence-guardrails/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 45
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/05/03/052c416a-421e-4a63-a0d4-6622b87e38e2/thumbnail/1200x630/4e79a487eb1848b6d1e191494015ee68/gettyimages-1252549943.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "0458lhCo8VoLQSccMcXZvcFx9yX0CaoqiurzOCLLgZCgjJ58RWjBYGrvZuqtqKLyvaq7U2364x7EmQRS5n+9JPIvwT+LlIyPH092J/GDnbceO1RNCIKKMNWvjTiyRgEhblOeZ26iZnJDr/nQS9yGKQGFEQr1e2w0w0RiwYj8EkKSjWjDwy8DJ3eqX6bBD8MzCH43GHg6fL8Vvmf6VRzHWiDex8LhAnBqSptRb2XkM6qhyAvFOvwVYxfhyQIGK7gvU1dvCjuHYz4pZbramFBaGy7BW5Y/nIngs3sg08gvEj15+xfA0Rl8k9NhI5VNDmOoxGnKq7R0k3Vv1Y3OIoe/sPbI/cwuU5Sq5oqhRFhMkoDqtDU73DcDZlkpuPowGliGGG0ahwWjxbfbgGL9aY9mJZEo5CI/dS5jjMHhii6+aN0fXel+izzr+ZTcvkAtlM5D+Usxp9nvHF0Aa2oKuvCaBAmOJqhRWVB8A46rFTcCY3aDQNAuhd4o3/Bd9PSOe8MgA8typX42ekLKA4m2ztepKw==;Vv8Iw46CTuZoDBJCkBGnoA=="
 ---

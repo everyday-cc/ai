@@ -320,20 +320,6 @@ related:
         width: 1664
         height: 674
         isCached: true
-  - title: "Microsoft developing its own AI chip - The Information"
-    excerpt: "(Reuters) - Microsoft Corp is developing its own artificial intelligence chip code-named \"Athena\" that will power the technology behind AI chatbots like ChatGPT, the Information reported on ..."
-    publishedDateTime: 2023-05-03T00:00:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/04/18/microsoft-developing-its-own-ai-chip---the-information"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 71
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/04/18/2033001.jpg"
-        width: 800
-        height: 532
-        isCached: true
   - title: "Report Suggests Microsoft and AMD Collaborating on AI Chip"
     excerpt: "A Thursday report by Bloomberg stated that Microsoft and AMD are collaborating on an artificial intelligence (AI) chip as an alternative to Nvidia's AI processor market dominance with its graphics processing units (GPUs)."
     publishedDateTime: 2023-05-05T22:13:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theregister.com/AMP/2023/05/03/ibm_watson_chagtgpt/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2023/05/03/ibm_watson_chagtgpt/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "ChatGPT Found Its Way Into a Boston Dynamics Robot Dog"
-    excerpt: "In what sounds like the start of a bad sci-fi movie, one company has added new processing capabilities to Spot that will make the robot dog easier to manage with a natural voice interface."
-    publishedDateTime: 2023-05-03T00:00:00Z
-    webUrl: "https://www.govtech.com/products/chatgpt-found-its-way-into-a-boston-dynamics-robot-dog"
-    ampWebUrl: "https://www.govtech.com/products/chatgpt-found-its-way-into-a-boston-dynamics-robot-dog?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/chatgpt-found-its-way-into-a-boston-dynamics-robot-dog?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/9d28b73/2147483647/strip/true/crop/5585x2912+0+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F4f%2Fc5%2Fad4aa04244208b3c80b81697816e%2Fshutterstock-2046244649.jpg"
-        width: 840
-        height: 438
-        isCached: true
   - title: "SAP to embed IBM Watson AI"
     excerpt: "SAP and IBM have announced that IBM Watson technology will be embedded into SAP solutions to provide new AI-driven insights and automation. SAP will use IBM Watson capabilities to power its digital assistant in SAP Start ,"
     publishedDateTime: 2023-05-03T09:24:00Z

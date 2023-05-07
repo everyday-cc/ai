@@ -3,25 +3,25 @@ category: news
 title: "White House unveils an AI plan ahead of meeting with tech CEOs"
 excerpt: "CNN By Brian Fung, CNN The White House on Thursday announced a series of measures to address the challenges of artificial intelligence, driven by the sudden popularity of tools such as ChatGPT and amid rising concerns about the technology’s potential risks for discrimination,"
 publishedDateTime: 2023-05-04T21:18:00Z
-originalUrl: "https://kesq.com/money/cnn-social-media-technology/2023/05/04/white-house-unveils-an-ai-plan-ahead-of-meeting-with-tech-ceos/"
-webUrl: "https://kesq.com/money/cnn-social-media-technology/2023/05/04/white-house-unveils-an-ai-plan-ahead-of-meeting-with-tech-ceos/"
+originalUrl: "https://ktvz.com/lifestyle/technology/cnn-social-media-technology/2023/05/04/white-house-unveils-an-ai-plan-ahead-of-meeting-with-tech-ceos/"
+webUrl: "https://ktvz.com/lifestyle/technology/cnn-social-media-technology/2023/05/04/white-house-unveils-an-ai-plan-ahead-of-meeting-with-tech-ceos/"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: KESQ News
-  domain: kesq.com
+  name: KTVZ
+  domain: ktvz.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://kesq.b-cdn.net/2023/05/hypatia-h_9dfc3363f190ea51a20993445362a943-h_f35f6fb89accb1580ccc1f934a872977-300-scaled.jpg"
-    width: 2560
-    height: 1707
+  - url: "https://ktvz.b-cdn.net/2023/05/hypatia-h_9dfc3363f190ea51a20993445362a943-h_f35f6fb89accb1580ccc1f934a872977-300-scaled.jpg"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -240,6 +240,6 @@ related:
       domain: mynorthwest.com
     quality: 19
 
-secured: "O/yJQQHXagLoQXF5z6xxZD/L4VUP2OBusw4Dy9fntJxx2cipqmLIoxUMB6Bd1AssQPF/yvs5zi8Gqm/BF+kBilcBWkA5fYYhge6xZh01op1dYqxAtWnskG7gINLUKhr2Ive7Gf2p4gD1dsj5ydpJj62QaBSwK1eVZWnJwOpjpVgl8yczMk+0wGiZMXGBXrQ0bcrbM3oAhaWfcVvX2a93lD7RYE04+/9q0hh2jW3Kz1F6j9QRH/kNeeDpi2XBm76qvK0p4taaVsD6WbF2RtnGZ1FUDIHH48QG17J/l5LeadgAOfdPUGfKD4J/LDLa7OwIJYFRYoaXZyoAf+EtyzJYwbjoG3baMw/8TERmwGwjXFuUCQ6T4Gqzi/0WuOlmczL2Ewf8X0TwHjF4dmuR2DgHxryXimLRA8+meUxJEr6ZMpeK4O8CWxVVzNRHQXxOIyvMzqmXB+3w1RYfuQX0MUN5NHfT2eolomvs5JOdqT7cBFFE0K61PI7UQv8xavJwv3Y0lOKjI8t8uTu1aw3XZiIHhA==;K1KFPtVShUM8bHP1NSpDIg=="
+secured: "wO8cjq+ayksGGLjimwMAUb86kvkuBbofAsUM5pKOXZ69GInSQJ2LosQ6nrM/UnlOucnetI2BBZDrSm3yxespwR/Ce4yDJO6Kuj9RcBtNfwZxAxlOooG3WnI5UrmO/LQf64zrGLi4iib7hP2/J3/RCZW5AKbf96dC6D/2IpXT9oMVdJmxbtWs3RkZLO0vHTrqz3ZTkQcBEyYgGBqi1JekjYF3eG5PyFfBDXK4vnZLKMTrtTX1LZHkJVnD8n0LL94VVeWWjSDSndRWQ+v+3dkFFmtZK02TnUDKE+mkn+tROfp70uyZjsCE9tSNi8IJ03h4O+FJLs/Pavr3OZ/6FIKwhytkfpAGRxS7msrmLQJgLys=;YgLa3AYbBReMdOcf7zFBSw=="
 ---
 

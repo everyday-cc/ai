@@ -35,22 +35,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "ChatGPT Found Its Way Into a Boston Dynamics Robot Dog"
-    excerpt: "In what sounds like the start of a bad sci-fi movie, one company has added new processing capabilities to Spot that will make the robot dog easier to manage with a natural voice interface."
-    publishedDateTime: 2023-05-03T00:00:00Z
-    webUrl: "https://www.govtech.com/products/chatgpt-found-its-way-into-a-boston-dynamics-robot-dog"
-    ampWebUrl: "https://www.govtech.com/products/chatgpt-found-its-way-into-a-boston-dynamics-robot-dog?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/chatgpt-found-its-way-into-a-boston-dynamics-robot-dog?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/9d28b73/2147483647/strip/true/crop/5585x2912+0+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F4f%2Fc5%2Fad4aa04244208b3c80b81697816e%2Fshutterstock-2046244649.jpg"
-        width: 840
-        height: 438
-        isCached: true
 
 secured: "gWpQay+HbcA/3uflmMZVMaRLTiV/P2vi4+SFWASP1k9REUfJ1uzLXw1MhFlMYuFvT6z2ZPb2SnIdN17RWmJhMnNl52V0jF7Jw1nl3P1/pzD8MOT4D+FsuxKBpWApAHiWpHsuDa4hy8M9i6bYEoJ32Ko0Zj9BMrKB/jqvCZkxNxJmZcXhEzkfVaD9eHV33Gr4C0FTQiGJG+OpU45WimbE5toSIzn6WIR38GFhbUIJuyLAIEV7QRcGqEwJVe9CXU/OI7oS7Ij+TjG+iKU1VDKnzoEo5BpAj+j72nUwUvTUoDzy/5n3kRfFlfbAYJIQzNhFkpNib90imE//aEF6FOTjfI0MkTiVRyfEJA9SPU0Az/M=;3htVETHF2aYjvhgkCX/GHg=="
 ---

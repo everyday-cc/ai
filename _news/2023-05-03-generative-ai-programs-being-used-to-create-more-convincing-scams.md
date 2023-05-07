@@ -25,6 +25,34 @@ images:
     isCached: true
 
 related:
+  - title: "Google Is Using AI to Make Hearing Aids More Personalized"
+    excerpt: "A new partnership between Google and an Australian hearing coalition is using machine intelligence to improve the customizability of hearing aids and cochlear implants."
+    publishedDateTime: 2023-05-07T11:00:00Z
+    webUrl: "https://www.wired.com/story/cochlear-and-google-hearing-technology-coalition/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 67
+    images:
+      - url: "https://media.wired.com/photos/6455349e6279e36472844413/191:100/w_1280,c_limit/Cochlear-and-Google-Partner-to-Improve-Hearing-Technology-Gear.jpg"
+        width: 1280
+        height: 670
+        isCached: true
+  - title: "Google Plans to Make Search More ‘Personal’ with AI Chat and Video Clips"
+    excerpt: "Changes aim to respond to queries that can’t be easily answered by traditional ‘10 blue links’ web results."
+    publishedDateTime: 2023-05-06T03:00:00Z
+    webUrl: "https://www.wsj.com/articles/google-search-ai-artificial-intelligence-chatbot-tiktok-67c08870"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 66
+    images:
+      - url: "https://images.wsj.net/im-776222/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Creating a tsunami early warning system using artificial intelligence"
     excerpt: "Los Angeles and Cardiff University in the U.K. developed an early warning system that combines state-of-the-art acoustic technology with artificial intelligence to immediately classify earthquakes ..."
     publishedDateTime: 2023-05-04T00:47:00Z
@@ -34,29 +62,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
-  - title: "Brain dynamics uncovered using a machine-learning algorithm"
-    excerpt: "CEBRA is a machine-learning method that can be used to compress time series in a way that reveals otherwise hidden structures in the variability of the data. It excels at processing behavioural and neural data recorded simultaneously,"
-    publishedDateTime: 2023-05-03T22:37:00Z
-    webUrl: "https://www.nature.com/articles/d41586-023-01339-9"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 39
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-01339-9/d41586-023-01339-9_25308634.png"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Smartling’s Patent-Pending Technology Enables Breakthroughs in Translation Using AI"
-    excerpt: "Smartling, Inc. today announced the introduction of patent-pending technology that brings human-quality machine translation closer to reality."
-    publishedDateTime: 2023-05-03T17:59:00Z
-    webUrl: "https://slator.com/smartling-patent-pending-technology-enables-breakthroughs-translation-using-ai/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 13
 
 secured: "qrpQcRQ7ThYIozeqP4uZaqPY/4hSB4uZ7k3v1H7SbWkEkFqSqG4UANIDGw7JoIjGrhQF3/v7eW2DdlY+pROfNMbxGtnxwxS3atp2fH7B0yzxQD9fLd7bhVmV5HO+sfR16nUc+aogpQHEPQnVIlCAvknP7Yil0pI7Qp/ccG/SsiUXsQ8Zf4nnFHqEZldCHuHmRwmBgBBjIcvoMLG3M9g2+tg0t1zgP1z2cuOZqGva50EqzHgDfc2YyqrYI8N0owy1hZ/QyVI3ceof7zW5EXCNKnI5IlCWwypY+ng4l3+VLd0Jk8pGdZXULH6KBj9Gwklk8xVmkWxlhbmKQX1FW0OAkzc37uOywzthdH5Ss/D6vqr9ReLJIc0L+qEY1tdfSiueMsvkveQspLbh2hGY7AoTiBif2aaE9UaW6CE47JZR8SemAQUYiAFofQmZmQVVom/7zPjR6I0O6GXwqa1Ewb+3fMl3M/GFOgHeUd7YIaXLg1gFBlrh+X/i2B8+UhovQBMWFW0Ldexwq5f3JqyYUU1T1w==;AajMqXUQsqeidqN8GmHdqA=="
 ---
