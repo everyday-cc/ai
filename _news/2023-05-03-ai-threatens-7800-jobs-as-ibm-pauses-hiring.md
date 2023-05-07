@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-threatens-7800-jobs-as-i
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-threatens-7800-jobs-as-ibm-pauses-hiring/"
 type: article
 quality: 87
-heat: 177
+heat: 167
 published: true
 
 provider:
@@ -75,22 +75,6 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/01WdVo9uJBJXuoHHOmvGQfY-1.fit_lim.size_1200x630.v1682982476.jpg"
         width: 1120
         height: 630
-        isCached: true
-  - title: "Job cuts may intensify as IBM plans to use AI to replace 30% back office jobs"
-    excerpt: "IBM CEO Arvind Krishna said he expects AI to impact at least 7,800 jobs at the company over the next five years."
-    publishedDateTime: 2023-05-02T07:55:00Z
-    webUrl: "https://www.computerworld.com/article/3694874/job-cuts-may-intensify-as-ibm-plans-to-use-ai-to-replace-30-back-office-jobs.html"
-    ampWebUrl: "https://www.computerworld.com/article/3694874/job-cuts-may-intensify-as-ibm-plans-to-use-ai-to-replace-30-back-office-jobs.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3694874/job-cuts-may-intensify-as-ibm-plans-to-use-ai-to-replace-30-back-office-jobs.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 54
-    images:
-      - url: "https://images.idgesg.net/images/article/2017/09/thinkstockphotos-629792888-100735142-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 940
         isCached: true
   - title: "IBM CEO: ‘AI to cut 7,800 jobs in next five years’"
     excerpt: "IBM CEO Arvind Krishna expects AI to eliminate up to 7,800 jobs at the company. 30 percent of current non-customer-facing employees are set not to be"

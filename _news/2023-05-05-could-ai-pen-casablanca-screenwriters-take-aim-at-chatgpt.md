@@ -208,8 +208,8 @@ related:
         isCached: true
   - title: "Man v machine: everything you need to know about AI"
     excerpt: "As systems become more capable – and ubiquitous – should we be worrying about what the future holds for humans in a ‘robot’ world?"
-    publishedDateTime: 2023-05-06T16:50:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/may/06/man-v-machine-everything-you-need-to-know-about-ai?ref=biztoc.com"
+    publishedDateTime: 2023-05-06T15:20:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/may/06/man-v-machine-everything-you-need-to-know-about-ai"
     ampWebUrl: "https://amp.theguardian.com/technology/2023/may/06/man-v-machine-everything-you-need-to-know-about-ai"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/06/man-v-machine-everything-you-need-to-know-about-ai"
     type: article

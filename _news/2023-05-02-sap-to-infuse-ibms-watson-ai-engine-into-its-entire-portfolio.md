@@ -65,17 +65,6 @@ related:
         width: 1664
         height: 674
         isCached: true
-  - title: "SAP to Embed IBM Watson Artificial Intelligence into SAP® Solutions"
-    excerpt: "WALLDORF, Germany and ARMONK, N.Y., May 2, 2023 /PRNewswire/ -- SAP SE SAP and IBM IBM today announced that IBM Watson® technology will be embedded into SAP® solutions to provide new AI-driven ..."
-    publishedDateTime: 2023-05-02T13:04:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/05/n32158021/sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32158021"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32158021"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 54
   - title: "SAP adds more AI smarts to its enterprise resource planning software with IBM Watson"
     excerpt: "Software giant SAP SE said today it’s expanding its long-running partnership with IBM Corp. to embed IBM Watson artificial intelligence smarts into its wide range of enterprise resource planning systems."
     publishedDateTime: 2023-05-02T13:00:00Z
@@ -104,6 +93,15 @@ related:
         width: 2560
         height: 1920
         isCached: true
+  - title: "SAP to Embed IBM Watson Artificial Intelligence into SAP® Solutions"
+    excerpt: "New AI capabilities in SAP Start will be designed to help users boost productivity with both natural language capabilities and predictive insights using IBM Watson AI solutions built on IBM's ..."
+    publishedDateTime: 2023-05-02T13:52:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20230502cl86092/sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions"
+    type: article
+    provider:
+      name: Morningstar
+      domain: morningstar.com
+    quality: 34
   - title: "SAP to embed IBM Watson AI"
     excerpt: "SAP and IBM have announced that IBM Watson technology will be embedded into SAP solutions to provide new AI-driven insights and automation. SAP will use IBM Watson capabilities to power its digital assistant in SAP Start ,"
     publishedDateTime: 2023-05-03T09:24:00Z

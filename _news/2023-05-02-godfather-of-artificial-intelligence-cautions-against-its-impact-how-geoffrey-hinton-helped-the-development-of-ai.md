@@ -99,20 +99,6 @@ related:
       name: MIT Technology Review
       domain: technologyreview.com
     quality: 37
-  - title: "Artificial Intelligence 'godfather' Geoffrey Hinton Warns of Dangers As He Quits Google"
-    excerpt: "A man widely seen as the godfather of artificial intelligence (AI) has quit his job, warning about the growing dangers from developments in the field. Geoffrey Hinton, aged 75, announced his resignation from Google in a statement to the New York Times,"
-    publishedDateTime: 2023-05-02T08:37:00Z
-    webUrl: "https://peacefmonline.com/pages/local/tech/202305/486925.php"
-    type: article
-    provider:
-      name: Peace FM Online
-      domain: peacefmonline.com
-    quality: 31
-    images:
-      - url: "https://w5p2r8x5.stackpathcdn.com/photos/news/202305/535795076_908286.jpg"
-        width: 600
-        height: 374
-        isCached: true
   - title: "expert reaction to Geoffrey Hinton quits google over risks posed by AI"
     excerpt: "May 2, 2023 expert reaction to Geoffrey Hinton quits google over risks posed by AI . It has been reported that Geoffrey Hinton has left Google and spoken about the dangers of AI."
     publishedDateTime: 2023-05-02T10:51:00Z

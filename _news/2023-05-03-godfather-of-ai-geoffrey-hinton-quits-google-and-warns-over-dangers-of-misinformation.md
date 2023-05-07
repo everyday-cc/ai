@@ -46,22 +46,6 @@ related:
         width: 2845
         height: 2000
         isCached: true
-  - title: "‘Godfather of AI’ Geoffrey Hinton quits Google over killer robot fears & ‘regrets inventing tech that could destroy us’"
-    excerpt: "A SCIENTIST dubbed the ‘godfather’ of Artificial Intelligence has quit his job at Google to warn killer robots could turn against humans. Geoffrey Hinton said he regrets his work on AI as he left"
-    publishedDateTime: 2023-05-02T08:23:00Z
-    webUrl: "https://www.thesun.co.uk/tech/22221880/ai-geoffrey-hinton-quits-google/"
-    ampWebUrl: "https://www.thesun.co.uk/tech/22221880/ai-geoffrey-hinton-quits-google/amp/"
-    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/22221880/ai-geoffrey-hinton-quits-google/amp/"
-    type: article
-    provider:
-      name: The Sun
-      domain: thesun.co.uk
-    quality: 50
-    images:
-      - url: "https://www.thesun.co.uk/wp-content/uploads/2023/05/newspress-collage-22221880-1683019228243.jpg?1683022882&strip=all&quality=100&w=1920&h=1080&crop=1"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "The Download: Geoffrey Hinton’s AI fears, and decoding our thoughts"
     excerpt: "Geoffrey Hinton is a pioneer of deep learning who helped develop some of the most important techniques at the heart of modern artificial intelligence. But after a decade at Google, he is stepping down to focus on new concerns he now has about AI."
     publishedDateTime: 2023-05-02T12:10:00Z

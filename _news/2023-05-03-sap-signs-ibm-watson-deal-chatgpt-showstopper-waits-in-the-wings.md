@@ -57,17 +57,6 @@ related:
         width: 1664
         height: 674
         isCached: true
-  - title: "SAP to Embed IBM Watson Artificial Intelligence into SAP® Solutions"
-    excerpt: "WALLDORF, Germany and ARMONK, N.Y., May 2, 2023 /PRNewswire/ -- SAP SE SAP and IBM IBM today announced that IBM Watson® technology will be embedded into SAP® solutions to provide new AI-driven ..."
-    publishedDateTime: 2023-05-02T13:04:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/05/n32158021/sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32158021"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32158021"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 54
   - title: "SAP adds more AI smarts to its enterprise resource planning software with IBM Watson"
     excerpt: "Software giant SAP SE said today it’s expanding its long-running partnership with IBM Corp. to embed IBM Watson artificial intelligence smarts into its wide range of enterprise resource planning systems."
     publishedDateTime: 2023-05-02T13:00:00Z
@@ -96,6 +85,15 @@ related:
         width: 2560
         height: 1920
         isCached: true
+  - title: "SAP to Embed IBM Watson Artificial Intelligence into SAP® Solutions"
+    excerpt: "New AI capabilities in SAP Start will be designed to help users boost productivity with both natural language capabilities and predictive insights using IBM Watson AI solutions built on IBM's ..."
+    publishedDateTime: 2023-05-02T13:52:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20230502cl86092/sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions"
+    type: article
+    provider:
+      name: Morningstar
+      domain: morningstar.com
+    quality: 34
   - title: "SAP to infuse IBM’s Watson AI engine into its entire portfolio"
     excerpt: "The move is expected to help SAP exploit natural language processing capabilities of Watson AI along with predictive insights, with the aim of jointly developing large language models and generative AI capabilities."
     publishedDateTime: 2023-05-02T13:02:00Z
@@ -124,6 +122,6 @@ related:
       domain: accountingtoday.com
     quality: 19
 
-secured: "EAO3CLBUfhypiXDqDvSSjKeatr9zJ6LKR7bjpvroyNrAnDn9FqmgJf8y7cHwpFcJfoQZyUjDHDf6DKpglpCKN1Ew53sq6sFRYyGWELF/fI+YAio0sGcFTgZt7v7Su2qJH4bbVW9/B6W0ZIZ8jYlE0+Hh9CB7qgPPwL1L+e+LI2pjuU7PBbOITt39cl4ptb/03J+ItuOCDVEkmPEIOZBmXPw8Lda1OZD89xvauPW+rBU2exqHz3V0VaWS4o+io5ddHlISJVDLM9XVTS8QFbkkMrVvNmFrbq0VEKUL3YjtkVayIyrE79gGSbNFqZymGNtgX2C+AswESC7xM461dp/YJDe2qUYVPbTK1P+RtLq6wyM=;kxgA4aIUxqFO/r2CiT6Q6Q=="
+secured: "Dk74S7f4VdeD2Xa3LmYHEo7FDWlVSdHVBRYo1cRvpmJoidXLbM0er510zpca/qWM2841bHbCrE+RDw+jkoI/FIvYEtTQxnJFe8dyq1+6tbil7DJBmWXCM8r6y3rS9WM1paDQBvuzhyGTWYC1hu/VlJSs4TiTPfCWBkW8AkksGsskzRuhUfkBAkI4RthvG0ythgFl+XpkAQT/V2aEyzVPPqCG+z4P8is10aFWcuVcg6uGNklYWIWmp1et0Xz58wtlV5DpaO+fbTkBGtd493TKN/NAKXZBna0dR8kycWEpqx2poXeLnVHUWTBgqfWZl5onFiLRfzYrOTaXTPZa4HZIm3MDzM5W2oVnwmu5hJ5DyhmSAtH4e31NHSiDMp/aMy6U3Zp4+vfHZ7Jsrx1dZ0GNyLXndx6d5PV6R1bYMRLIjs7R/KHmYYz+AgFQYwdxoIZW7NR4ec1lm9bww8mbivAiWlsdfbScexfZFxKFQ6VzooaSlqkiId0Csj2Kid/kEEkd4i4k6ns7vIthg3GO7ZcQIg==;c4EmlWLw27NYO9vuw5morw=="
 ---
 

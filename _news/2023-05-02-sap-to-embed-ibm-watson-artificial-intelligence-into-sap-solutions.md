@@ -1,20 +1,18 @@
 ---
 category: news
 title: "SAP to Embed IBM Watson Artificial Intelligence into SAP® Solutions"
-excerpt: "WALLDORF, Germany and ARMONK, N.Y., May 2, 2023 /PRNewswire/ -- SAP SE SAP and IBM IBM today announced that IBM Watson® technology will be embedded into SAP® solutions to provide new AI-driven ..."
-publishedDateTime: 2023-05-02T13:04:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/05/n32158021/sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions"
-webUrl: "https://www.benzinga.com/pressreleases/23/05/n32158021/sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions"
-ampWebUrl: "https://www.benzinga.com/amp/content/32158021"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32158021"
+excerpt: "New AI capabilities in SAP Start will be designed to help users boost productivity with both natural language capabilities and predictive insights using IBM Watson AI solutions built on IBM's ..."
+publishedDateTime: 2023-05-02T13:52:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20230502cl86092/sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20230502cl86092/sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Morningstar
+  domain: morningstar.com
 
 topics:
   - IBM AI
@@ -123,6 +121,6 @@ related:
       domain: accountingtoday.com
     quality: 19
 
-secured: "l2GR90Sbr9s8CWjZdvQUFeACUIdqytv3nRNNtnkxV1C9MMPg5vJokSKR17OnOuyAC55hvE+VRjcXcJGlhSLdmX8D1CXZvl/CmsUt2OCWXk8ttTod8Oe5hddFFfwJGXDljuIwYP1jI41Ug1gMS0mmAO0Ua73QtqsEAPIVqO7Xbxl/zfvqgrhUJs0ILACaVnc9OjT25npj1jnNJklQrFepVldmqR8GYcSHEk/Tmjpc5n2H/dj0cadGImECH5Mp8lScilp264Lsp4thq501ns5z40qeyD8N1PxDggBgR5xnAXknion8rI1NLo8s2dmZHio75CQF9YIaZBrDxPEmTVsx41ndUeeIwvro+WVl9x51pVI=;itpTmUWFSEHRvnxVcc8k7A=="
+secured: "rmp+rJWwbOL+rUKyTsuew6Bek7t9h0QG86RCag2IUC3L/8R1rJAMQrK9lX5MiH+3LpxxGWk5bNs9ODqGzJu09btEd5yjwX8tCzfVq+vv2L8j60mFjV7foZnRgcjNXXLNJ+jLYprq+WpxrgWa97xEj4rWFfqZR1wsCIKNEFzYonqfn1GndIidrMCDvy7TyrwFrFnIysZtIZ03hQWkBVPqdveQKo7/wc5xJHcGeyG8zw4D++NgELpHwPRAjumGUXK+T5aZIOx8ciLajdval1LZpjh2EHe6mG9S9IXVsW7AUKevB4KJG5lBMUR8T8UdSKNYsopHmXzDpNdgzpK3wMK2C4/DoSkxJVyqiJQAiCok6us=;tfpLcjrZD4K/ebBKvfYVcw=="
 ---
 

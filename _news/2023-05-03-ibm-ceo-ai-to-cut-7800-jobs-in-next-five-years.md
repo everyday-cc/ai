@@ -87,22 +87,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Job cuts may intensify as IBM plans to use AI to replace 30% back office jobs"
-    excerpt: "IBM CEO Arvind Krishna said he expects AI to impact at least 7,800 jobs at the company over the next five years."
-    publishedDateTime: 2023-05-02T07:55:00Z
-    webUrl: "https://www.computerworld.com/article/3694874/job-cuts-may-intensify-as-ibm-plans-to-use-ai-to-replace-30-back-office-jobs.html"
-    ampWebUrl: "https://www.computerworld.com/article/3694874/job-cuts-may-intensify-as-ibm-plans-to-use-ai-to-replace-30-back-office-jobs.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3694874/job-cuts-may-intensify-as-ibm-plans-to-use-ai-to-replace-30-back-office-jobs.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 54
-    images:
-      - url: "https://images.idgesg.net/images/article/2017/09/thinkstockphotos-629792888-100735142-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 940
-        isCached: true
   - title: "IBM pauses hiring, says it could replace 7,800 workers with AI"
     excerpt: "IBM has paused hiring and said that it could lay off around 7,800 workers over the next five years. CEO Arvind Krishna claimed that employees could be replaced by artificial intelligence. Speaking about back-office workers,"
     publishedDateTime: 2023-05-03T14:11:00Z

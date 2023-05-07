@@ -2,9 +2,9 @@
 category: news
 title: "Man v machine: everything you need to know about AI"
 excerpt: "As systems become more capable – and ubiquitous – should we be worrying about what the future holds for humans in a ‘robot’ world?"
-publishedDateTime: 2023-05-06T16:50:00Z
-originalUrl: "https://www.theguardian.com/technology/2023/may/06/man-v-machine-everything-you-need-to-know-about-ai?ref=biztoc.com"
-webUrl: "https://www.theguardian.com/technology/2023/may/06/man-v-machine-everything-you-need-to-know-about-ai?ref=biztoc.com"
+publishedDateTime: 2023-05-06T15:20:00Z
+originalUrl: "https://www.theguardian.com/technology/2023/may/06/man-v-machine-everything-you-need-to-know-about-ai"
+webUrl: "https://www.theguardian.com/technology/2023/may/06/man-v-machine-everything-you-need-to-know-about-ai"
 ampWebUrl: "https://amp.theguardian.com/technology/2023/may/06/man-v-machine-everything-you-need-to-know-about-ai"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/06/man-v-machine-everything-you-need-to-know-about-ai"
 type: article
@@ -488,6 +488,6 @@ related:
       domain: arabianbusiness.com
     quality: 11
 
-secured: "CzKjzHPIo2k6JAXAJY/mNUKRZd/X7hWFDGrDi0HDzNagotho7mE0PAOH/TWEq+6I2CdevPHzuLd52mjWRhs/+Uau5VPPSle3U9qa4eO8P2tzbTx8toBmwWr46C8Iy/IDigQtLcr6Ydp77XCpqOu5ITEcvoztI3be4LlAq84USL05X182sQOvxHdyjodc0lYOphr1bo7SJYcThzhYSVdcgIOFgMXZ45ntwao8pip/7valyjgmJnap6u/ptNMoUSzqbwR9QkQPiRgTE9N7feTAiT1/T1a1nJ2g7m7UDrjpabDVr2Xz1hL1Nu4PPrYFIjpo3jobmnM2MkRDqbPzxQsRE2Yfpjf5+yzXQSyiaiHA4fw=;qsYJcGR8ha2l169bqvROXA=="
+secured: "h2iLMmD0NDEXArzSwrgHBpKjA/gh1E9eZSby5RaoInm8BDCePBrsOGYyIE6jxlgGQIcndM3XnAxw59YsnmaoMDPV3QCp5Y0z+CTWrpuAO4W9p5Co8ZX0UDM5agKLuKnNWBIEv9P1dx3DmXuVscqXsbuyC52Qqri5RwhlX+6HtW/6FcrnXXDDeN0H5PiMwluXoC+KWLp9wdVXtA8oe3VOdBWQ/GzpjgFCD8cNmtUl/gT6OsXI5dEjExkhuof36ixtL8ZbwNfe0F/v0PX7jhR+oarFsFL+2Ap9MrHylZ8+5cwc0C5Hai68FcJ1aZUd7DHPZBkh7TBZFC/l/K8PqUTiLmr2KIXcfpZsg6gwyN6i+Xc=;spmS/1uLr4SUwv3TwI+zug=="
 ---
 

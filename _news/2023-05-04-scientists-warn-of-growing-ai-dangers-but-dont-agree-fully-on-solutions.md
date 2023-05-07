@@ -43,22 +43,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "The Godfather of AI quits Google; warns of impending danger"
-    excerpt: "In an interview with The New York Times, Hinton expressed his concerns about AI, including the spread of misinformation, the elimination of jobs, and the possibility of AI running its own code. Hinton,"
-    publishedDateTime: 2023-05-02T07:25:00Z
-    webUrl: "https://www.thedailystar.net/tech-startup/news/the-godfather-ai-quits-google-warns-impending-danger-3309101"
-    ampWebUrl: "https://www.thedailystar.net/tech-startup/news/the-godfather-ai-quits-google-warns-impending-danger-3309101?amp"
-    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/the-godfather-ai-quits-google-warns-impending-danger-3309101?amp"
-    type: article
-    provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 57
-    images:
-      - url: "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/05/02/geoffrey_hinton.jpg"
-        width: 750
-        height: 393
-        isCached: true
   - title: "Google engineer warns it could lose out to open-source technology in AI race"
     excerpt: "Commonly available software poses threat to tech company and OpenAI’s ChatGPT, leaked document says"
     publishedDateTime: 2023-05-05T14:10:00Z
@@ -127,20 +111,6 @@ related:
       - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/05/02/91eb3bf0-b65e-4479-a4ec-b63ef4850911/thumbnail/1200x630/74e8606ca2ffb8226f3e9cb87d9db982/2023-05-02t092105z-1365970753-rc28q0awktbl-rtrmadp-3-tech-ai-hinton.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "'Godfather of AI' quits Google to warn of the technology's dangers"
-    excerpt: "Geoffrey Hinton, who created a foundation technology for AI systems, said that advancements in the field posed ‘profound risks to society and humanity’."
-    publishedDateTime: 2023-05-02T07:51:00Z
-    webUrl: "https://www.thejournal.ie/ai-scientist-warns-of-danger-6057791-May2023/"
-    type: article
-    provider:
-      name: TheJournal.ie
-      domain: thejournal.ie
-    quality: 37
-    images:
-      - url: "https://img2.thejournal.ie/article/6057791/river/?height=400&version=6057808"
-        width: 613
-        height: 400
         isCached: true
   - title: "‘Godfather of AI’ quits Google to warn of the tech’s dangers"
     excerpt: "A computer scientist often dubbed “the godfather of artificial intelligence” has quit his job at Google to speak out about the dangers of the technology, US media reported Monday. Geoffrey Hinton, who created a foundation technology for AI systems,"
