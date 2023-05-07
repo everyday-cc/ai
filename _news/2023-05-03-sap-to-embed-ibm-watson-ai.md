@@ -51,15 +51,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "SAP Start will have IBM's Watson"
-    excerpt: "SAP announced it has penned a deal with IBM to integrate its Watson AI into SAP Start, which in turn provides a unified entry point for cloud solutions from SAP."
-    publishedDateTime: 2023-05-02T17:57:00Z
-    webUrl: "https://www.accountingtoday.com/news/sap-start-will-have-ibms-watson-ai"
-    type: article
-    provider:
-      name: Accounting Today
-      domain: accountingtoday.com
-    quality: 19
 
 secured: "gWpQay+HbcA/3uflmMZVMaRLTiV/P2vi4+SFWASP1k9REUfJ1uzLXw1MhFlMYuFvT6z2ZPb2SnIdN17RWmJhMnNl52V0jF7Jw1nl3P1/pzD8MOT4D+FsuxKBpWApAHiWpHsuDa4hy8M9i6bYEoJ32Ko0Zj9BMrKB/jqvCZkxNxJmZcXhEzkfVaD9eHV33Gr4C0FTQiGJG+OpU45WimbE5toSIzn6WIR38GFhbUIJuyLAIEV7QRcGqEwJVe9CXU/OI7oS7Ij+TjG+iKU1VDKnzoEo5BpAj+j72nUwUvTUoDzy/5n3kRfFlfbAYJIQzNhFkpNib90imE//aEF6FOTjfI0MkTiVRyfEJA9SPU0Az/M=;3htVETHF2aYjvhgkCX/GHg=="
 ---

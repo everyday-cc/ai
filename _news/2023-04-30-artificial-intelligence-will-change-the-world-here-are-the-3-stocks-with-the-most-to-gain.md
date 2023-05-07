@@ -18,6 +18,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://g.foolcdn.com/editorial/images/729808/artificial-intelligence-ai-stock-invesment-msft-nvda.jpg"

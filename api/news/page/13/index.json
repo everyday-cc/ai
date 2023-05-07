@@ -2,6 +2,108 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2023-04-27-mark-zuckerberg-said-the-word-ai-no-less-than-27-times-during-a-meta-earnings-call-this-week.md",
+      "title": "Mark Zuckerberg said the word 'AI' no less than 27 times during a Meta earnings call this week",
+      "excerpt": "Mark Zuckerberg wants everyone to know Meta is also interested in AI. Overall, the word \"AI\" was used 57 times on the earnings call.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/mark-zuckerberg-ai-metaverse-comments-meta-earnings-2023-4",
+      "originalUrl": "https://www.businessinsider.com/mark-zuckerberg-ai-metaverse-comments-meta-earnings-2023-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/644a7252da6d7b0019bd6f67?width=1200&format=jpeg",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/mark-zuckerberg-ai-metaverse-comments-meta-earnings-2023-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mark-zuckerberg-ai-metaverse-comments-meta-earnings-2023-4?amp",
+      "publishedDateTime": "2023-04-27T09:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-27-write-long-form-content-in-seconds-with-half-off-this-leading-ai-tool.md",
+      "title": "Write long-form content in seconds with half off this leading AI tool",
+      "excerpt": "Wordplay AI Content Generator overhauls your content marketing and a lifetime subscription price is now half off.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ai-tool-write-longform-content/",
+      "originalUrl": "https://www.techrepublic.com/article/ai-tool-write-longform-content/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2023/04/Wordplay.jpg",
+          "width": 781,
+          "height": 515,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/article/ai-tool-write-longform-content/amp/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/ai-tool-write-longform-content/amp/",
+      "publishedDateTime": "2023-04-27T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-27-best-graphics-card-under-1000-in-2023-top-gpu-picks.md",
       "title": "Best graphics card under $1000 in 2023 – top GPU picks",
       "excerpt": "Then there are also 4th Generation tensor cores, responsible for powering the AI optimisation of DLSS 3 and all this for under $1K. This is also a GPU with impressive specs. It comes with a boost ...",
@@ -626,8 +728,8 @@
       "title": "The risks and rewards of AI-powered translation",
       "excerpt": "Free-to-use translation tools, and more recently generative AI platforms like ChatGPT, have brought security concerns to the fore around AI-powered translations in general. Many of us use language translation services in our day-to-day lives; it is ...",
       "sourceUrl": null,
-      "webUrl": "https://www.business-reporter.co.uk/management/the-risks-and-rewards-of-ai-powered-translation",
-      "originalUrl": "https://www.business-reporter.co.uk/management/the-risks-and-rewards-of-ai-powered-translation",
+      "webUrl": "https://www.business-reporter.co.uk/technology/the-risks-and-rewards-of-ai-powered-translation",
+      "originalUrl": "https://www.business-reporter.co.uk/technology/the-risks-and-rewards-of-ai-powered-translation",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1120,99 +1222,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-how-erp-is-breaking-down-silos-and-driving-sustainable-change.md",
-      "title": "How ERP is breaking down silos and driving sustainable change",
-      "excerpt": "While many organizations have established environmental, social and governance (ESG) goals and made ESG commitments, driven by purpose and emerging regulatory requirements, they face several challenges when making the transition from ambition to action. A recent IBM study found that global executives",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/how-erp-is-breaking-down-silos-and-driving-sustainable-change/",
-      "originalUrl": "https://www.ibm.com/blog/how-erp-is-breaking-down-silos-and-driving-sustainable-change/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-how-ai-can-empower-not-replace-your-team.md",
-      "title": "How AI Can Empower, Not Replace, Your Team",
-      "excerpt": "With the release of ChatGPT, AI now promises to serve the common person rather than to perform as a technology that can only be accessed through deep technical expertise. In fact, ChatGPT is the fastest-growing consumer application in history, reaching 100 million users in the first two months since its launch.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/27/how-ai-can-empower-not-replace-your-team/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/27/how-ai-can-empower-not-replace-your-team/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/601850d37aa9c1404df144b1/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/27/how-ai-can-empower-not-replace-your-team/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/27/how-ai-can-empower-not-replace-your-team/amp/",
-      "publishedDateTime": "2023-04-27T04:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

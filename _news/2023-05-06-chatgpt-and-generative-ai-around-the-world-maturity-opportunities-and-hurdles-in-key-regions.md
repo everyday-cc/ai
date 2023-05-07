@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-around-the
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-and-generative-ai-around-the-world-opportunities-key-hurdles-2023-may?amp"
 type: article
 quality: 75
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1200
     height: 900
     isCached: true
-
-related:
-  - title: "Samsung bans use of generative AI tools like ChatGPT after April internal data leak"
-    excerpt: "Samsung bans the use of generative AI tools, including ChatGPT, on company-owned devices and internal networks, Bloomberg reports."
-    publishedDateTime: 2023-05-02T18:55:00Z
-    webUrl: "https://techcrunch.com/2023/05/02/samsung-bans-use-of-generative-ai-tools-like-chatgpt-after-april-internal-data-leak/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 43
 
 secured: "24f705NtwiFvcmDfhjok8DPWTTLT3sG1OExTTyBjzz0Ncx4E16IndQkym8LG7GTFKbbjsgUNAnB58F0+s8zHSlGTeBat+cbxlfpCYGZmhArwo+wh1qvnv5YgjLiFY50ntRtfYRD7MRm6a+Rd10OVTyqYmRfI/hwpjQc2lzJEvUXetJ4n5JQMbq3CZ+4GTUNX3kPPsSG2fnskUDe868HcTPpiJYglDo/yrj2Kin5m6VaZX2aHmOUVcFY+miS6ubfTUX6sPKnk5atbubd2MTVTxRQSakbz+NviC4nMWDCrTPl5JIH0jbXlKX6+ufgzRE9JrcsnyDPC95LCc3ctUWOaZe5tK5tP8jkEtACTmc1KpYoAinqrv+Zwvs3OWDg0L2MZyiRk+s1ZNxtFg9tqz4IXqNX6FhetJeghlQwHpuLVjZfcnV7DaxTIc8MHW/YBOhKzn6cAfjhG1MJB1zkj5QINAEG9bnaRSZqi9KgmIzLGslFvSv4OJbp4A5Ijdk1aSY6F+vJArvjBWYWQ4yXCV4BF5w==;4qoAZ5HwxetTUISl60wEcA=="
 ---

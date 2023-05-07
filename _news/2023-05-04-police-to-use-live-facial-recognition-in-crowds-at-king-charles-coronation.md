@@ -91,20 +91,6 @@ related:
         width: 2048
         height: 1152
         isCached: true
-  - title: "Crown comes to Parliament in pre-coronation Charles visit"
-    excerpt: "Before the glory of his coronation weekend, King Charles III visited Parliament Tuesday, to get a reminder that the monarch’s power has limits. Charles and Camilla, the queen consort, attended a reception for lawmakers,"
-    publishedDateTime: 2023-05-02T17:35:00Z
-    webUrl: "https://www.aol.com/entertainment/crown-comes-parliament-pre-coronation-142757461.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 24
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/dVKI4tF8bo1pxGOgOzrxZQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_associated_press_484/a5718b423eb5b81f75512bd1be2fee74"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Live: Charles makes history with public prayer before being crowned King"
     excerpt: "Charles and Camilla arrived at the Abbey from Buckingham Palace, where they will return in the Gold State Coach after the lavish service. 12.03pm The King has been crowned with St Edward’s Crown by the Archbishop of Canterbury in Westminster Abbey."
     publishedDateTime: 2023-05-06T11:51:00Z

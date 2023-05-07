@@ -3,23 +3,23 @@ category: news
 title: "Insider Q&A: Aurora CEO Chris Urmson on self-driving trucks"
 excerpt: "Sometime next year, semis with no human in the cab will start carrying freight down Interstate 45 between Dallas and Houston. The trucks will run on an autonomous driving system called the Aurora Driver,"
 publishedDateTime: 2023-05-04T17:15:00Z
-originalUrl: "https://omaha.com/business/insider-q-a-aurora-ceo-chris-urmson-on-self-driving-trucks/article_fee626a6-337c-55fd-bed4-816ab5e6b1fd.html"
-webUrl: "https://omaha.com/business/insider-q-a-aurora-ceo-chris-urmson-on-self-driving-trucks/article_fee626a6-337c-55fd-bed4-816ab5e6b1fd.html"
+originalUrl: "https://buffalonews.com/business/insider-q-a-aurora-ceo-chris-urmson-on-self-driving-trucks/article_482a281b-320f-5818-9a00-061420029f90.html"
+webUrl: "https://buffalonews.com/business/insider-q-a-aurora-ceo-chris-urmson-on-self-driving-trucks/article_482a281b-320f-5818-9a00-061420029f90.html"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Omaha.com
-  domain: omaha.com
+  name: Buffalo News
+  domain: buffalonews.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/f/ee/fee626a6-337c-55fd-bed4-816ab5e6b1fd/6453ea6348932.preview.jpg?crop=1024%2C538%2C0%2C71&resize=1024%2C538&order=crop%2Cresize"
+  - url: "https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/4/82/482a281b-320f-5818-9a00-061420029f90/6453ea5ab67a4.preview.jpg?crop=1024%2C538%2C0%2C71&resize=1024%2C538&order=crop%2Cresize"
     width: 1024
     height: 538
     isCached: true
@@ -42,6 +42,6 @@ related:
         height: 630
         isCached: true
 
-secured: "svij4JkefNgwDFL2dt71I5qv8rKPqICX66aP3z3kVluz9RqHI6B5TAVSECHck88oUuSfazLcZD6xHQWIj2C4+XVgHFT7pH53lzsaxhomNcs5K3fqKzf1YSQ9aeRh4dhLGx3ifpjUIixd6mhepGU0VOcUdXaLwqBFiQH2cMKeKGJ58JHeOiX6oXt0tHNi6wl+Ae2GgUyFtIuAM7lnDOpiabS3fhqeaiW+Jt/UKmghZ2epsoV9tUBdTN6S+YN03LUEFpRgtjAgsF+FRSGSPoBxoHeRZKxAE5BLwCHNdJxsx/pNEPeQI55HliVQXtEeDy7d1u7+7Mgu3FxHHC++UkCyZ4VAzmzYHoReaQfiE7WIPXCA/Edo0YnQOwwZgQlw33dFNeARoCh9Bcs0aFTKtxa6uEzgch/jm60pu9L9oc8/BNFz5yUCyhVSy6vngD07KB2EAuTS6h5Ezd5xPgYEHz0qkz5NaFltgI7JWI3M9Qb2qM1MeUGVmE5SLcGRFHR2b/tpIEX2Ls1bf8IEcHRogjs3SQ==;4goScnDA/F1ApFOegllDQA=="
+secured: "iMWmXX2zaz+QhqrfAaCii4PKPmjHAm3LLvR4lQ/OldMyEaiVOCCdjS+erExDBZm22HTRO2OUHQB18Mj3BonHHGBgLMUPJJa1917DA13QbI0ecTrqpGdobqOiihnW1GLhyov4zY3aoSpanJMoeST2jReFuo0DCrb2hx+WFlg/K2jCEjkROrRtHw28QpRoauAk885zwECv5zH+ty/XYKXZrY4scfmmpQOv6wgo5zpLKNTKYV2mLdCnUA2SqiPJrt6UtuvFZvA/OfTEKwDZ7BaWtz53QitTh1voAnPFMGIa7X8AcIhEnnRSi7+Iwaf47/BWM9qphEEjp7xrTVPMT6Yv+78TGRDWWBxvV9EPYbb27MA=;Of++dHiv/yIzDOWm3FYt6g=="
 ---
 

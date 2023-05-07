@@ -2,6 +2,101 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2023-04-26-kinetix-launches-text-to-animation-ai-for-new-era-in-user-generated-content.md",
+      "title": "Kinetix launches text-to-animation AI for new era in user-generated content",
+      "excerpt": "Kinetix has announced Text2Emotes, a generative AI technology that heralds a new era of user-generated gaming content (UGC).",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/games/kinetix-launches-text-to-animation-ai-for-new-era-in-user-generated-content/",
+      "originalUrl": "https://venturebeat.com/games/kinetix-launches-text-to-animation-ai-for-new-era-in-user-generated-content/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/04/kinetix-text2emote.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/games/kinetix-launches-text-to-animation-ai-for-new-era-in-user-generated-content/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/kinetix-launches-text-to-animation-ai-for-new-era-in-user-generated-content/amp/",
+      "publishedDateTime": "2023-04-26T00:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-26-spotifys-daniel-ek-weighs-in-on-artificial-intelligence.md",
+      "title": "Spotify's Daniel Ek weighs in on artificial intelligence",
+      "excerpt": "One topic that came up more than once as Spotify's CEO participated Tuesday in the audio streaming service's first-quarter earnings call was artificial intelligence. CEO Daniel Ek responded to a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxbusiness.com/technology/spotify-daniel-ek-weighs-in-artificial-intelligence",
+      "originalUrl": "https://www.foxbusiness.com/technology/spotify-daniel-ek-weighs-in-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/8fe1d7dc-c1d4-4714-8eb5-9fb09c0965d0/664e06de-5835-48f3-918e-02a62a78d06c/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxbusiness.com/technology/spotify-daniel-ek-weighs-in-artificial-intelligence.amp",
+      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/spotify-daniel-ek-weighs-in-artificial-intelligence.amp",
+      "publishedDateTime": "2023-04-26T00:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox Business",
+        "domain": "foxbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-26-the-ai-suicide-race-with-jaan-tallinn.md",
       "title": "The AI Suicide Race. With Jaan Tallinn",
       "excerpt": "Jaan Tallinn. London Futurists Podcast From Skype to AI safety. In the 1990s and early noughties, Jaan Tallinn led much of the software engineering for the file-sharing applicatio",
@@ -1153,100 +1248,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-26-the-race-continues-google-search-set-to-be-backed-by-conversational-ai.md",
-      "title": "The Race Continues: Google Search Set To Be Backed By Conversational AI",
-      "excerpt": "The addition of Generative AI capabilities to Google Search will be critical if Google intends to remain the top search engine globally. And while there are more questions than answers at this time, Google is going to be adding conversational to its search platform and it should be well received.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/danielnewman/2023/04/25/the-race-continues-google-search-set-to-be-backed-by-conversational-ai/",
-      "originalUrl": "https://www.forbes.com/sites/danielnewman/2023/04/25/the-race-continues-google-search-set-to-be-backed-by-conversational-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/644827328980223119f33129/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/danielnewman/2023/04/25/the-race-continues-google-search-set-to-be-backed-by-conversational-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2023/04/25/the-race-continues-google-search-set-to-be-backed-by-conversational-ai/amp/",
-      "publishedDateTime": "2023-04-25T12:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-26-top-10-artificial-intelligence-ai-cryptocurrencies.md",
-      "title": "Top 10 Artificial Intelligence (AI) Cryptocurrencies",
-      "excerpt": "If you’re interested in two of today’s hottest alternative investments but you’re having trouble choosing between crypto and artificial intelligence (AI), there’s good news: You don’t ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/top-10-artificial-intelligence-ai-190017402.html",
-      "originalUrl": "https://www.aol.com/top-10-artificial-intelligence-ai-190017402.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/ny/api/res/1.2/mVoD2uWOrG6UMDfUinCT.g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_gobankingrates_57/2fb2049818c4e7f748ab277ea4751027",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.aol.com/amphtml/top-10-artificial-intelligence-ai-190017402.html",
-      "cdnAmpWebUrl": "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/top-10-artificial-intelligence-ai-190017402.html",
-      "publishedDateTime": "2023-04-25T12:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "New Relic launches Grok, a generative AI assistant to monitor software performance"
-    excerpt: "New Relic Grok interface Along with isolating and fixing issues, the generative AI assistant ... this kind of plain-language questioning into new territory,” Khurana said. “New Relic Grok can actually take questions, translate them into queries ..."
-    publishedDateTime: 2023-05-02T17:07:00Z
-    webUrl: "https://venturebeat.com/ai/new-relic-launches-grok-generative-ai-assistant/"
-    ampWebUrl: "https://venturebeat.com/ai/new-relic-launches-grok-generative-ai-assistant/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/new-relic-launches-grok-generative-ai-assistant/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 83
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1338009807-e1683037604820.jpg?w=1200&strip=all"
-        width: 1200
-        height: 599
-        isCached: true
   - title: "Artificial Intelligence: Fintech Trovata Launches Generative AI Finance, Treasury Tool"
     excerpt: "Trovata, which claims to be the global \"leader\" in bank APIs, recently announced the first generative AI entrant in the fintech space."
     publishedDateTime: 2023-05-05T18:52:00Z

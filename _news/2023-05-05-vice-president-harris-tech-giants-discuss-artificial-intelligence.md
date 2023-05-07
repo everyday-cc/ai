@@ -56,6 +56,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "VP Kamala Harris Urges Tech Titans to Put Ethics First in AI Development"
+    excerpt: "Harris' meeting with tech CEOs sends a clear message that the government will take action against companies acting irresponsibly in AI dev"
+    publishedDateTime: 2023-05-05T03:31:00Z
+    webUrl: "https://www.gizmochina.com/2023/05/05/kamala-harris-tech-ceo-ai-regulation/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 63
   - title: "VP Harris to meet with CEOs about artificial intelligence risks"
     excerpt: "Companies worried about being liable for something in their training data might also not have incentives to rigorously track it, said Margaret Mitchell, chief ethics scientist at AI startup Hugging Face. \"I think it might not be possible for OpenAI to ..."
     publishedDateTime: 2023-05-04T20:01:00Z

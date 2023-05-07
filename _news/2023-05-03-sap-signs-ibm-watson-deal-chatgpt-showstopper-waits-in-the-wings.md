@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theregister.com/AMP/2023/05/03/ibm_watson_chagtgpt/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2023/05/03/ibm_watson_chagtgpt/"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -52,15 +52,6 @@ related:
       name: IT-Online
       domain: it-online.co.za
     quality: 34
-  - title: "SAP Start will have IBM's Watson"
-    excerpt: "SAP announced it has penned a deal with IBM to integrate its Watson AI into SAP Start, which in turn provides a unified entry point for cloud solutions from SAP."
-    publishedDateTime: 2023-05-02T17:57:00Z
-    webUrl: "https://www.accountingtoday.com/news/sap-start-will-have-ibms-watson-ai"
-    type: article
-    provider:
-      name: Accounting Today
-      domain: accountingtoday.com
-    quality: 19
 
 secured: "Dk74S7f4VdeD2Xa3LmYHEo7FDWlVSdHVBRYo1cRvpmJoidXLbM0er510zpca/qWM2841bHbCrE+RDw+jkoI/FIvYEtTQxnJFe8dyq1+6tbil7DJBmWXCM8r6y3rS9WM1paDQBvuzhyGTWYC1hu/VlJSs4TiTPfCWBkW8AkksGsskzRuhUfkBAkI4RthvG0ythgFl+XpkAQT/V2aEyzVPPqCG+z4P8is10aFWcuVcg6uGNklYWIWmp1et0Xz58wtlV5DpaO+fbTkBGtd493TKN/NAKXZBna0dR8kycWEpqx2poXeLnVHUWTBgqfWZl5onFiLRfzYrOTaXTPZa4HZIm3MDzM5W2oVnwmu5hJ5DyhmSAtH4e31NHSiDMp/aMy6U3Zp4+vfHZ7Jsrx1dZ0GNyLXndx6d5PV6R1bYMRLIjs7R/KHmYYz+AgFQYwdxoIZW7NR4ec1lm9bww8mbivAiWlsdfbScexfZFxKFQ6VzooaSlqkiId0Csj2Kid/kEEkd4i4k6ns7vIthg3GO7ZcQIg==;c4EmlWLw27NYO9vuw5morw=="
 ---

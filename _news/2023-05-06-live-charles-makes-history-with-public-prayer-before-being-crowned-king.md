@@ -101,20 +101,6 @@ related:
         width: 2048
         height: 1152
         isCached: true
-  - title: "Crown comes to Parliament in pre-coronation Charles visit"
-    excerpt: "Before the glory of his coronation weekend, King Charles III visited Parliament Tuesday, to get a reminder that the monarch’s power has limits. Charles and Camilla, the queen consort, attended a reception for lawmakers,"
-    publishedDateTime: 2023-05-02T17:35:00Z
-    webUrl: "https://www.aol.com/entertainment/crown-comes-parliament-pre-coronation-142757461.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 24
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/dVKI4tF8bo1pxGOgOzrxZQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_associated_press_484/a5718b423eb5b81f75512bd1be2fee74"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Met Police considering using facial recognition technology for King's coronation"
     excerpt: "The Metropolitan Police are considering deploying facial recognition technology to target those who may jeopardise the safety of the King's coronation. As the weekend looms, a Met briefing on security concerns took place on Wednesday after a man with a knife was arrested for throwing items,"
     publishedDateTime: 2023-05-03T11:29:00Z

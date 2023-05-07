@@ -2,6 +2,101 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2023-04-28-first-babies-conceived-using-playstation-controlled-robot-are-born.md",
+      "title": "First babies conceived using PlayStation-controlled robot are born",
+      "excerpt": "the student mechanical engineer who controlled the sperm-injecting device, told MIT Technology Review. The robot was developed by Overture Life, a company that’s working towards automating in ...",
+      "sourceUrl": null,
+      "webUrl": "https://metro.co.uk/2023/04/27/first-babies-conceived-using-playstation-controlled-robot-are-born-18685759/?ico=amp_tag-post-strip_item_3_news",
+      "originalUrl": "https://metro.co.uk/2023/04/27/first-babies-conceived-using-playstation-controlled-robot-are-born-18685759/?ico=amp_tag-post-strip_item_3_news",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://metro.co.uk/wp-content/uploads/2023/04/picsea-kd3qRzgEl70-unsplash-5929.jpg?quality=90&strip=all&zoom=1&resize=600%2C400",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://metro.co.uk/2023/04/27/first-babies-conceived-using-playstation-controlled-robot-are-born-18685759/amp/",
+      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/04/27/first-babies-conceived-using-playstation-controlled-robot-are-born-18685759/amp/",
+      "publishedDateTime": "2023-04-27T18:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Metro",
+        "domain": "metro.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-28-microsoft-is-ending-windows-10-updates.md",
+      "title": "Microsoft Is Ending Windows 10 Updates",
+      "excerpt": "Attila is a Staff Writer for CNET, covering software, apps and services with a focus on virtual ... to protect their privacy online and Microsoft is finished with major updates to Windows 10 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/services-and-software/microsoft-is-ending-windows-10-updates/",
+      "originalUrl": "https://www.cnet.com/tech/services-and-software/microsoft-is-ending-windows-10-updates/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/7cba03e614d3c08239c138b83b52c8fddabef463/hub/2015/07/29/6c89a30d-005e-4f79-8ea4-8e2466731af2/microsoft-windows-10-start-screen-7179.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/microsoft-is-ending-windows-10-updates/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-is-ending-windows-10-updates/",
+      "publishedDateTime": "2023-04-27T17:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-28-aws-shifts-focus-to-llms-generative-ai-as-growth-continues-to-taper.md",
       "title": "AWS shifts focus to LLMs, generative AI as growth continues to taper",
       "excerpt": "Credit: IDG Amazon’s cloud computing division, AWS, is shifting its focus towards large language models (LLMs) and generative AI-based offerings as it continues to see a downward spiral in ...",
@@ -1073,108 +1168,6 @@
         "name": "Phys.org",
         "domain": "phys.org",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-mark-zuckerberg-said-the-word-ai-no-less-than-27-times-during-a-meta-earnings-call-this-week.md",
-      "title": "Mark Zuckerberg said the word 'AI' no less than 27 times during a Meta earnings call this week",
-      "excerpt": "Mark Zuckerberg wants everyone to know Meta is also interested in AI. Overall, the word \"AI\" was used 57 times on the earnings call.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/mark-zuckerberg-ai-metaverse-comments-meta-earnings-2023-4",
-      "originalUrl": "https://www.businessinsider.com/mark-zuckerberg-ai-metaverse-comments-meta-earnings-2023-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/644a7252da6d7b0019bd6f67?width=1200&format=jpeg",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/mark-zuckerberg-ai-metaverse-comments-meta-earnings-2023-4?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mark-zuckerberg-ai-metaverse-comments-meta-earnings-2023-4?amp",
-      "publishedDateTime": "2023-04-27T09:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-write-long-form-content-in-seconds-with-half-off-this-leading-ai-tool.md",
-      "title": "Write long-form content in seconds with half off this leading AI tool",
-      "excerpt": "Wordplay AI Content Generator overhauls your content marketing and a lifetime subscription price is now half off.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-tool-write-longform-content/",
-      "originalUrl": "https://www.techrepublic.com/article/ai-tool-write-longform-content/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/04/Wordplay.jpg",
-          "width": 781,
-          "height": 515,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/article/ai-tool-write-longform-content/amp/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/ai-tool-write-longform-content/amp/",
-      "publishedDateTime": "2023-04-27T09:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

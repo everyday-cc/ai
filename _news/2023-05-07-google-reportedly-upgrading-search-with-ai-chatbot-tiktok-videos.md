@@ -62,22 +62,6 @@ related:
         isCached: true
   - title: "ChatGPT and Generative AI: Our Guide to 2023's Most Talked-About Technology"
     excerpt: "ChatGPT brought generative AI into the limelight when it hit 1 million users in five days. But how valid is the buzz around ChatGPT?"
-    publishedDateTime: 2023-05-02T18:30:00Z
-    webUrl: "https://www.businessinsider.com/chatgpt-and-ai-guide-to-most-talked-about-technology-2023-may"
-    ampWebUrl: "https://www.businessinsider.com/chatgpt-and-ai-guide-to-most-talked-about-technology-2023-may?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-and-ai-guide-to-most-talked-about-technology-2023-may?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 85
-    images:
-      - url: "https://i.insider.com/64403fa23f6f690018de9578?width=1200&format=jpeg"
-        width: 470
-        height: 352
-        isCached: true
-  - title: "ChatGPT and Generative AI: Our Guide to 2023's Most Talked-About Technology"
-    excerpt: "ChatGPT brought generative AI into the limelight when it hit 1 million users in five days. But how valid is the buzz around ChatGPT?"
     publishedDateTime: 2023-05-04T16:00:00Z
     webUrl: "https://www.businessinsider.com/chatgpt-and-ai-guide-to-2023-most-talked-about-technology-2023-may"
     ampWebUrl: "https://www.businessinsider.com/chatgpt-and-ai-guide-to-2023-most-talked-about-technology-2023-may?amp"
@@ -107,20 +91,6 @@ related:
       - url: "https://i.insider.com/6452919af6389a0018ef54d5?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Inflection AI, Startup From Ex-DeepMind Leaders, Launches Pi — A Chattier Chatbot"
-    excerpt: "Mustafa Suleyman, CEO of the year-old startup that’s already raised $225 million and claims to run one of the world’s largest language models, sees his dialog-based chatbot as a key step toward a true AI-based personal assistant."
-    publishedDateTime: 2023-05-02T19:00:00Z
-    webUrl: "https://www.forbes.com/sites/alexkonrad/2023/05/02/inflection-ai-ex-deepmind-launches-pi-chatbot/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 81
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64514e67237fdc5016762baf/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 798
         isCached: true
   - title: "Profitably Using Generative AI ChatGPT As Your Stock Trading Advisor, Albeit With AI Ethics Cautionary Caveats In Mind"
     excerpt: "There is a rush toward using ChatGPT and generative AI to aid in picking stocks and doing stock price predictions. Watch out for scams. You need to know what makes sense and what to avoid, which is covered herein."
@@ -271,15 +241,6 @@ related:
         width: 1500
         height: 844
         isCached: true
-  - title: "Reid Hoffman's new AI startup Inflection launches ChatGPT-like chatbot"
-    excerpt: "REUTERS/Brendan McDermid/File Photo May 2 (Reuters) - Inflection AI, the AI startup founded by LinkedIn co-founder Reid Hoffman and former Deepmind (GOOGL.O) researcher Mustafa Suleyman, has released its first AI chatbot product, the company said on Tuesday."
-    publishedDateTime: 2023-05-02T18:08:00Z
-    webUrl: "https://www.reuters.com/technology/reid-hoffmans-new-ai-startup-inflection-launches-chatgpt-like-chatbot-2023-05-02/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 47
   - title: "10 ways ChatGPT and generative AI can strengthen zero trust"
     excerpt: "ChatGPT and generative AI are already helping strengthen zero trust cybersecurity. Here are 10 ways it's doing so now or will soon."
     publishedDateTime: 2023-05-03T19:07:00Z
@@ -298,20 +259,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 47
-  - title: "AI Writing and the Future: A Guide for Marketers in a Post-ChatGPT World"
-    excerpt: "ChatGPT has revolutionized the marketing industry when it comes to producing content. Here is a blog on the effects of ChatGPT on marketers and more."
-    publishedDateTime: 2023-05-02T17:39:00Z
-    webUrl: "https://www.techwyse.com/blog/online-innovation/ai-writing-and-the-future-a-guide-for-marketers-in-a-post-chatgpt-world/"
-    type: article
-    provider:
-      name: TechWyse
-      domain: techwyse.com
-    quality: 38
-    images:
-      - url: "https://www.techwyse.com/wp-content/uploads/2023/05/AI-Writing-and-the-Future-A-Guide-for-Marketers-in-a-Post-ChatGPT-World-1.png"
-        width: 800
-        height: 418
-        isCached: true
   - title: "AI start-up Inflection launches ChatGPT-like chatbot named Pi"
     excerpt: "Inflection’s chatbot, named Pi, uses generative AI technology to interact with users through dialogues. Read more at straitstimes.com."
     publishedDateTime: 2023-05-03T03:08:00Z

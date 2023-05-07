@@ -59,6 +59,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "VP Kamala Harris Urges Tech Titans to Put Ethics First in AI Development"
+    excerpt: "Harris' meeting with tech CEOs sends a clear message that the government will take action against companies acting irresponsibly in AI dev"
+    publishedDateTime: 2023-05-05T03:31:00Z
+    webUrl: "https://www.gizmochina.com/2023/05/05/kamala-harris-tech-ceo-ai-regulation/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 63
   - title: "Vice President Harris, tech giants discuss artificial intelligence"
     excerpt: "Now that artificial intelligence has been rolled out to the public, the urgent question is how to harness its benefits without unleashing its risks. CBS News' Dina Demetrius reports."
     publishedDateTime: 2023-05-04T21:31:00Z
