@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thedailystar.net/tech-startup/news/tired-applying-jobs-a
 cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/tired-applying-jobs-ai-can-help-3310986?amp"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: The Daily Star
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Screenwriters want to stop AI from taking their jobs. Studios want to see what the tech can do."
-    excerpt: "Striking film and TV writers are pushing to put strict guardrails around how studios use AI in the scripting process."
-    publishedDateTime: 2023-05-03T16:17:00Z
-    webUrl: "https://www.cbsnews.com/news/writers-strike-2023-artificial-intelligence-guardrails/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/writers-strike-2023-artificial-intelligence-guardrails/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/writers-strike-2023-artificial-intelligence-guardrails/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 45
-    images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/05/03/052c416a-421e-4a63-a0d4-6622b87e38e2/thumbnail/1200x630/4e79a487eb1848b6d1e191494015ee68/gettyimages-1252549943.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Why legal innovators want to chat about AI"
     excerpt: "Since ChatGPT first grabbed public attention, Inkling has been advising law firms on adopting generative AI. This includes helping them to measure the quality and quantity of the results when using it, compared with what could be delivered by lawyers who are not using it."
     publishedDateTime: 2023-05-05T04:00:00Z

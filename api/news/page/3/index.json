@@ -61,7 +61,7 @@
       "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/05/04/synopsysairevolutionizing-chip-design-through-ai-driven-eda-suite/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -537,7 +537,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-forecast-to-2031-2023-05-04",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": 184,
       "tags": null,
       "images": [
         {
@@ -640,7 +640,7 @@
       "originalUrl": "https://www.forbes.com/sites/gregpetro/2023/05/04/behind-the-hype-about-ai-transforming-consumer-businesses/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -922,6 +922,58 @@
       ]
     },
     {
+      "path": "_news/2023-05-04-face-recognition-device-market-until-2031-leading-countries-forecast.md",
+      "title": "Face Recognition Device Market until 2031: Leading Countries Forecast",
+      "excerpt": "Global Face Recognition Device Market Research Report 2023 is spread across 120 pages and 149 Number of Tables and",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/face-recognition-device-market-until-2031-leading-countries-forecast-2023-05-04",
+      "originalUrl": "https://www.marketwatch.com/press-release/face-recognition-device-market-until-2031-leading-countries-forecast-2023-05-04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-04T03:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-04-inaugural-hackathon-explores-ai-healthcare-solutions.md",
       "title": "Inaugural hackathon explores AI healthcare solutions",
       "excerpt": "Abu Dhabi, UAE: Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) and the Weizmann Institute of Science (WIS) hosted the first-ever Human Phenotype Project Hackathon in Abu Dhabi. The event brought together 24 postgraduate students and researchers from diverse backgrounds to tackle some of the most pressing challenges in healthcare.",
@@ -1152,57 +1204,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-ai-powered-cruise-control-can-stop-phantom-traffic-jams-before-they-start.md",
-      "title": "AI-powered cruise control can stop 'phantom traffic jams' before they start",
-      "excerpt": "The CIRCLES Consortium of universities, automakers and government agencies is developing an AI-powered cruise control system that can help prevent traffic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/auto/ai-powered-cruise-control-stop-phantom-traffic-jams",
-      "originalUrl": "https://www.foxnews.com/auto/ai-powered-cruise-control-stop-phantom-traffic-jams",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2023/05/all-trajectories.gif",
-          "width": 640,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/auto/ai-powered-cruise-control-stop-phantom-traffic-jams.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/ai-powered-cruise-control-stop-phantom-traffic-jams.amp",
-      "publishedDateTime": "2023-05-03T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

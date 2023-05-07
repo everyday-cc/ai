@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-08-the-jobs-ai-wont-take-yet.md",
+      "title": "The jobs AI won't take yet",
+      "excerpt": "Since the start of the industrial revolution ... And that could be dire, says Martin Ford, author of Rule of the Robots: How Artificial Intelligence Will Transform Everything. “It's not just that this would happen to individuals, but it could be pretty ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/worklife/article/20230507-the-jobs-ai-wont-take-yet",
+      "originalUrl": "https://www.bbc.com/worklife/article/20230507-the-jobs-ai-wont-take-yet",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ychef.files.bbci.co.uk/live/624x351/p0flr5cn.jpg",
+          "width": 624,
+          "height": 351,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-07T14:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-05-elon-musk-stirs-debate-on-claims-that-ai-will-enable-you-to-live-forever-an-immortal-question-for-ai-ethics.md",
       "title": "Elon Musk Stirs Debate On Claims That AI Will Enable You To Live Forever, An Immortal Question For AI Ethics",
       "excerpt": "Elon Musk commented to Bill Maher about the ongoing controversy of whether advances in AI will lead to human longevity and the possibility of being able to live forever. Here is the insider analysis on that emerging hot topic.",
@@ -254,7 +306,7 @@
       "originalUrl": "https://www.philstar.com/happens/1132",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1343,49 +1395,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-robots-run-the-show-as-swiss-radio-tests-ai-voices-for-a-day.md",
-      "title": "Robots run the show as Swiss radio tests AI voices for a day",
-      "excerpt": "Listeners of an offbeat Swiss public radio station have been repeatedly given the message: Today’s programming is brought to you by Artificial Intelligence",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/business/2023/04/27/switzerland-radio-gpt-artificial-intelligence/eda963fe-e536-11ed-9696-8e874fd710b8_story.html",
-      "originalUrl": "https://www.washingtonpost.com/business/2023/04/27/switzerland-radio-gpt-artificial-intelligence/eda963fe-e536-11ed-9696-8e874fd710b8_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Washington Post",
-        "domain": "washingtonpost.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

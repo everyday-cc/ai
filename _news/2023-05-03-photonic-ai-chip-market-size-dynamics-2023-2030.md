@@ -64,20 +64,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 59
-  - title: "Artificial Intelligence in Platform as a Service (PaaS) Market by 2030: Future Scope and Predictions"
-    excerpt: "Get a sample PDF of the report at -  The global Artificial Intelligence in Platform as a Service (PaaS) market size was valued at USD 4771.18 million in 2022 and is expected to expand at a CAGR of 20."
-    publishedDateTime: 2023-05-03T05:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-platform-as-a-service-paas-market-by-2030-future-scope-and-predictions-2023-05-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Natural Language Processing For Healthcare And Life Sciences Market Size, Revenue, and Forecast 2030"
     excerpt: "Highlights with Short Brief of Natural Language Processing For Healthcare And Life Sciences Market: The Natural Language Processing For Healthcare And Life Sciences market revenue was Million USD in 2016, grew to Million USD in 2021, and will reach Million ..."
     publishedDateTime: 2023-05-04T12:10:00Z

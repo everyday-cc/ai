@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-04-18-ai-powered-robot-software-market-seeking-excellent-growth-with-datarobot-neurala-intel-uipath.md",
+      "title": "AI-Powered Robot Software Market Seeking Excellent Growth with DataRobot, Neurala, Intel, UiPath",
+      "excerpt": "The AI-Powered Robot Software Market report 2023-2030 Industries are expected to develop at the greatest rate of CAGR",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-powered-robot-software-market-seeking-excellent-growth-with-datarobot-neurala-intel-uipath-2023-04-18",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-powered-robot-software-market-seeking-excellent-growth-with-datarobot-neurala-intel-uipath-2023-04-18",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-18T01:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-18-tric-robotics-offers-farmers-uv-pest-control.md",
       "title": "Tric Robotics offers farmers UV pest control",
       "excerpt": "One of Tric Robotics' tractors bathes crops in ultraviolet light. (courtesy photo) San Luis Obispo-based Tric Robotics started in Delaware in 2017 making small, lunchbox-sized robots for police SWAT teams.",
@@ -1348,49 +1400,6 @@
         "Machine Learning",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-04-09-university-of-lincoln-robot-seal-used-to-help-vulnerable-people.md",
-      "title": "University of Lincoln 'robot' seal used to help vulnerable people",
-      "excerpt": "Research is currently taking place to see how robots could provide an increasing number of services across the NHS. Up Next. A mind-controlled beer-pouring robot has landed. Video, 00:01:25A ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.co.uk/news/av/uk-england-lincolnshire-65178888",
-      "originalUrl": "https://www.bbc.co.uk/news/av/uk-england-lincolnshire-65178888",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/139BD/production/_129271308_p0fdsvsc.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-08T15:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

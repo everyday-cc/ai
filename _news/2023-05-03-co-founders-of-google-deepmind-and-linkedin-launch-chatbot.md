@@ -33,20 +33,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Co-founders of LinkedIn and Google DeepMind release a chatbot designed to get you through your day"
-    excerpt: "Co-founders of LinkedIn and Google DeepMind release a chatbot designed to get you through your day - SiliconANGLE"
-    publishedDateTime: 2023-05-03T01:33:00Z
-    webUrl: "https://siliconangle.com/2023/05/02/co-founders-linkedin-google-deepmind-release-chatbot-designed-get-day/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 25
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/julien-tromeur-6UDansS-rPI-unsplash.jpg"
-        width: 640
-        height: 360
-        isCached: true
   - title: "The Stack: Bluesky Emerges as Twitter Rival, DeepMind and LinkedIn Co-Founders Launch Pi Chatbot"
     excerpt: "Twitter rival Bluesky gains momentum, DeepMind and LinkedIn co-founders collaborate to launch AI chatbot... News this week centred around the return of tech royalty: former Twitter monarch Jack Dorsey made a new bid for the microblogging throne with the launch of Bluesky,"
     publishedDateTime: 2023-05-05T12:05:00Z

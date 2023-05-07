@@ -268,20 +268,6 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 47
-  - title: "AI start-up Inflection launches ChatGPT-like chatbot named Pi"
-    excerpt: "Inflection’s chatbot, named Pi, uses generative AI technology to interact with users through dialogues. Read more at straitstimes.com."
-    publishedDateTime: 2023-05-03T03:08:00Z
-    webUrl: "https://www.straitstimes.com/world/united-states/hoffman-and-suleymans-ai-start-up-inflection-launches-chatgpt-like-chatbot"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 37
-    images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/05/03/2023-05-02T191849Z736819654RC2IQ0AB69LURTRMADP3INFLECTION-AI-CHATBOT_0.JPG?VersionId=.LSgTrLBRI2NkTQQKsH4qOVDeJrRlmwZ"
-        width: 860
-        height: 573
-        isCached: true
   - title: "AI startup inflection launches ChatGPT style chatbot"
     excerpt: "Another similar chatbot called Pi has been recently launched by an AI startup called Inflection. The AI development firm was founded by LinkedIn cofounder Reid Hoffman and Google DeepMind co-founder Mustafa Suleyman last year in March."
     publishedDateTime: 2023-05-03T23:06:00Z

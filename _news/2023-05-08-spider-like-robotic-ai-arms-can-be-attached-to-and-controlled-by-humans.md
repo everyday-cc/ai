@@ -41,7 +41,21 @@ related:
         width: 800
         height: 536
         isCached: true
+  - title: "Ignore the Hysteria on AI and Jobs"
+    excerpt: "A study found that 60% of employment in 2018 was in roles that didn’t exist in 1940."
+    publishedDateTime: 2023-05-07T19:25:00Z
+    webUrl: "https://www.wsj.com/articles/ignore-the-hysteria-on-ai-and-jobs-chatgpt-automation-workforce-tech-innovation-51b3d994"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-777038/social"
+        width: 1279
+        height: 640
+        isCached: true
 
-secured: "0xinVbWEZ+UQuSER6Tr9kYn2SgPTZ6NpcsrD76uHeycvuwKtDTF6lVyWab9TIigF/eZyyZobydX2sns+nLXU61PeoZe2gR/7SrLaL2lbD/sxHAEqIYsW6KtUqczWob/7DJe9KBB959sDNjNQAh+C/9fo04lyO1s0+V3hVWQUHJ8fA4ihk8ezCEd8BnNbqLplpBRgZW+qwsgl4CP5jLxXZqo2JaNYEnLIKtSZQEiBhnt6MRQKox2Mv462jdul1pTrtvxeyqWyi6ME+NDvtonq5fPgwsf4o7Q1xBXBARPGOQ8ytn+7YXKnJEJO8I/m9j2TrYQeLeHCUuXhTr+mYnVFfCWrKL5+dtbPKUWomnNky7o=;j8Z8nIE/d6Vf1CTfFK6FOw=="
+secured: "qoW52gQ0TnmguQJas0s6dzGU/5LorFKMhCoqSQcejo7vM4c2JlCe1JRpxS+OclcNOfjvjxkXqduR9isXRmB9Cu1RZXMqI2vOWYrTF7jhQ1F3N8l/QmUGXh8FWGDHwceYquvsd2toisROiKVptfLwsoZDR474qaEk0TjISiVY1KIxwHbpx8st1B+waEg2ecry5iF2A/Gg2HZFi7HMK94UzbktBbV8iQXWZnZzcvwm+bbITDTtWhsDTYB+E62FP2ZcEnLFckasp52jxPgbHkKx6FLKMzWUCrTTQmzxfz/872zTu62ZGWtrULmuKPrC1whF5Q06n+gHErJbJ8sp7UU0DJEPHSf7+S1FFGarGGGz4RI0dOIqpgHYs5kABgQ3hJgZvyH+N9L0paUyrnoKvQGUeT9q9R6WHd+ED+lNkXrlASRkeR0x//oF96HibJ80wDjszMJMxnP1J7J7sy7kOt5kzfb/jR/j6NULZN0AVMaTyI6qbva+ii9ZV0dG5DY1LqSFQ3vBamZVrtc73izwIAImCA==;WiIWS5Dc5YZups0i24ApGw=="
 ---
 

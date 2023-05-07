@@ -9,7 +9,7 @@ ampWebUrl: "https://www.philstar.com/happens/1132/amp/"
 cdnAmpWebUrl: "https://www-philstar-com.cdn.ampproject.org/c/s/www.philstar.com/happens/1132/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Ignore the Hysteria on AI and Jobs"
+    excerpt: "A study found that 60% of employment in 2018 was in roles that didn’t exist in 1940."
+    publishedDateTime: 2023-05-07T19:25:00Z
+    webUrl: "https://www.wsj.com/articles/ignore-the-hysteria-on-ai-and-jobs-chatgpt-automation-workforce-tech-innovation-51b3d994"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-777038/social"
+        width: 1279
+        height: 640
+        isCached: true
   - title: "Spider-like robotic AI arms can be attached to and controlled by humans"
     excerpt: "A Japanese robotics company called Jizai Arms has engineered a system of supernumerary robotic limbs consisting of six arms that can be worn and controlled by the user."
     publishedDateTime: 2023-05-07T17:14:00Z

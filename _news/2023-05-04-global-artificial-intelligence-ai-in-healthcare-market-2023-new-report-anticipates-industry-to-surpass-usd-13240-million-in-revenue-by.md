@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intell
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-healthcare-market-2023-new-report-anticipates-industry-to-surpass-usd-13240-million-in-revenue-by-2030-2023-05-04"
 type: article
 quality: 42
-heat: 42
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,15 @@ topics:
   - AI
 
 related:
+  - title: "Automatic Speech Recognition Market Trends [2023-2030] | Booming Industry Globally"
+    excerpt: "GlobalAutomatic Speech Recognition Market[2023-2030] research report is a compilation of information and analysis"
+    publishedDateTime: 2023-05-03T09:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-market-trends-2023-2030-booming-industry-globally-2023-05-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
   - title: "Global Face Recognition Terminal Market [2023] | Industry Set to Expand with Strong 17.2% CAGR and Reach USD 4087.7 Million by 2030"
     excerpt: "Among other players domestic and global, Face Recognition Terminal market share data is available for global, North America, Europe, Asia-Pacific, Middle East and Africa, and South America separately. Research analysts understand competitive strengths and ..."
     publishedDateTime: 2023-05-04T12:10:00Z

@@ -41,22 +41,6 @@ related:
         width: 624
         height: 780
         isCached: true
-  - title: "Parliament's Inadequate Response to the AI Revolution"
-    excerpt: "Blake Lemoine, a Google employee, made headlines by claiming that LaMDA, a chatbot created by Google, had achieved sentience and was able to mimic reality. The news generated both excitement, but also  panic among the tech community because sci-fi movies have traditionally depicted dystopian futures in which sentient machines end up having conflict with humans."
-    publishedDateTime: 2023-05-03T02:49:00Z
-    webUrl: "https://myrepublica.nagariknetwork.com/news/parliament-s-inadequate-response-to-the-ai-revolution/"
-    ampWebUrl: "http://myrepublica.nagariknetwork.com/amp/parliament-s-inadequate-response-to-the-ai-revolution/"
-    cdnAmpWebUrl: "https://myrepublica-nagariknetwork-com.cdn.ampproject.org/c/myrepublica.nagariknetwork.com/amp/parliament-s-inadequate-response-to-the-ai-revolution/"
-    type: article
-    provider:
-      name: myrepublica.nagariknetwork
-      domain: nagariknetwork.com
-    quality: 59
-    images:
-      - url: "https://myrepublica.nagariknetwork.com/uploads/media/Artificial-Intelligence-Trained-to-Find-New-Useful-Materials1_20220125163152.jpg"
-        width: 1200
-        height: 772
-        isCached: true
   - title: "Artificial intelligence is real care: the future of AI-driven medical schemes"
     excerpt: "Although typically perceived as robotic and inhuman, it is important to understand that care sits at the heart of AI-driven health innovation. In simple terms, AI-driven systems can quickly analyse large amounts of data and generate insights that help inform healthcare decisions."
     publishedDateTime: 2023-05-05T06:12:00Z

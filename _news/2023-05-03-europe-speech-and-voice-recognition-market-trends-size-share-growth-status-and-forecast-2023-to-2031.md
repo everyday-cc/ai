@@ -140,6 +140,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "Passenger Vehicle Voice Recognition Market Trends and Forecast: Analyzing Growth Potential with CAGR forecasted 10.9% during 2023-2030"
+    excerpt: "Passenger Vehicle Voice Recognition market outlook (2023-2030) provides a thorough analysis of the market's current state, including factors such as market size, growth rate, segmentation, and key players."
+    publishedDateTime: 2023-05-04T23:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/passenger-vehicle-voice-recognition-market-trends-and-forecast-analyzing-growth-potential-with-cagr-forecasted-109-during-2023-2030-2023-05-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 22
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "ZSx8vVu8+d9Ua6rprCx6dlrzG4p+kfui6v9MUXQIHfTkznCHVzZqo4DjLT6S4wMdBkU3vfGu8tE7hXKufTEBQ+cJ4SegKl9SAo47GzDGFrJvJgR9x/CJUoh8Pv5b7moCQnY4KUXvurid0faGS0EBqBcEXDOT8OMdfTWG21sqPELM3hMUOCa2y0/6vMYp6dHQA63wgzrRB/bQTgLkmDP7WRzqtByCeMWTv1D6bYIxpu/cbOIo3Rf2Qh00XdQJbH5Dn5d/1QlahwmmhEhjRBB494+7ekL+DG/77/tRFa+2EyGD781RZIuhaKZNCMt/N05AYmkyX7FoUumRNRJiYkhhTClCwDiGGx65n0Zx2cO6q3k=;rbiylK8mHelDyVro26LmCA=="
 ---

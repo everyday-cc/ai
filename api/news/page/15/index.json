@@ -681,6 +681,49 @@
       ]
     },
     {
+      "path": "_news/2023-04-27-amazon-killing-off-its-halo-fitness-and-health-tracking-devices.md",
+      "title": "Amazon killing off its Halo fitness and health tracking devices",
+      "excerpt": "Amazon is scrapping its Halo fitness tracker device, a setback for a company long known for having its finger on the pulse of what consumers desire. The e-commerce company said on Wednesday it ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/amazon-halo-fitness-tracker/",
+      "originalUrl": "https://www.cbsnews.com/news/amazon-halo-fitness-tracker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/04/26/6ddaca42-fa82-4e40-ae52-dbccf9ef9b7e/thumbnail/1200x630/543468eeb5f3994a7083e78eea9d54d0/gettyimages-1359067593.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/amazon-halo-fitness-tracker/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/amazon-halo-fitness-tracker/",
+      "publishedDateTime": "2023-04-26T16:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-27-apple-to-expand-health-initiatives-with-ai-health-coach-report-says.md",
       "title": "Apple to Expand Health Initiatives With AI Health Coach, Report Says",
       "excerpt": "Users would be motivated to exercise, eat well and improve their sleep based on individualized plans from the service, according to a report.",
@@ -1179,40 +1222,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-this-self-driving-lab-learns-to-make-nanoparticles-all-on-its-own.md",
-      "title": "This self-driving lab learns to make nanoparticles all on its own",
-      "excerpt": "Commun. 2023, DOI: 10.1038/s41467-023-37139-y). Researchers have previously combined artificial intelligence and automation to build self-driving scientific instruments to navigate the expansive r ...",
-      "sourceUrl": null,
-      "webUrl": "https://cen.acs.org/synthesis/self-driving-lab-learns-make-nanoparticles/101/web/2023/04",
-      "originalUrl": "https://cen.acs.org/synthesis/self-driving-lab-learns-make-nanoparticles/101/web/2023/04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-26T10:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "C&EN",
-        "domain": "acs.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }
