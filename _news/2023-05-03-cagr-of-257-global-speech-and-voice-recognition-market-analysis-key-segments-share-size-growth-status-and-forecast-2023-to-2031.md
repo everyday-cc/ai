@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning in Drug Discovery and Deep Learning in Diagnostics Market is anticipated to grow at over 20% CAGR, claims Roots Analysis"
-    excerpt: "Roots Analysishas announced the addition of \"Deep Learning in Drug Discovery Market and Deep Learning in DiagnosticsMarket (2nd Edition), 2023-2035\" report to its list of offerings. The traditional statistical tools and techniques available for medical data interpretation are known to be associated with challenges related to time and cost."
-    publishedDateTime: 2023-05-02T14:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-drug-discovery-and-deep-learning-in-diagnostics-market-is-anticipated-to-grow-at-over-20-cagr-claims-roots-analysis-2023-05-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "2023-2030, Data Science and Machine-Learning Platforms Market-Latest Updates"
     excerpt: "To know How COVID-19 and Russia-Ukraine War Influence Will Impact This Market/Industry - Request a sample copy of the report-:  In This Reports Data Science and Machine-Learning Platforms Market Segment by Type ( Open Source Data Integration Tools,"
     publishedDateTime: 2023-05-03T04:28:00Z

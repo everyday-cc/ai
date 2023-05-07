@@ -69,20 +69,6 @@ related:
         width: 1600
         height: 800
         isCached: true
-  - title: "These 8 Australian fintech Companies Will Hit the Stage at Demo Day This Month"
-    excerpt: "Over the last three years, we’ve introduced you to over 30 Australian fintech startups with the help of the Australian Trade and Investment Commission (Austrade) in New York. Au"
-    publishedDateTime: 2023-05-02T14:20:00Z
-    webUrl: "https://www.alleywatch.com/2023/05/australian-fintech-companies-austrade/"
-    type: article
-    provider:
-      name: alleywatch.com
-      domain: alleywatch.com
-    quality: 20
-    images:
-      - url: "https://alleywatch.com/wp-content/uploads/2023/05/amaka.jpg"
-        width: 1000
-        height: 367
-        isCached: true
   - title: "IIT Kanpur's eMasters degree program in Financial Technology and Management to groom FinTech experts"
     excerpt: "Some estimates suggest that the global FinTech market is expected to reach a market value of approximately $324 billion by 2026. Another recent report suggests that India's digital payments market is expected to triple from $3 trillion to $10 trillion by 2026,"
     publishedDateTime: 2023-05-04T07:32:00Z

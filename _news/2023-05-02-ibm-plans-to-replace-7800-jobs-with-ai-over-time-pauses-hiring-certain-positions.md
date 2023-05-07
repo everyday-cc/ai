@@ -46,36 +46,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Artificial Intelligence Is Already Causing Disruption And Job Losses At IBM And Chegg"
-    excerpt: "We are seeing the effects of disruptive technology. Chegg, an educational company, and IBM have both announced that AI will cause a change within their respective organizations."
-    publishedDateTime: 2023-05-02T14:56:00Z
-    webUrl: "https://www.forbes.com/sites/jackkelly/2023/05/02/artificial-intelligence-is-already-causing-disruption-and-job-losses-at-ibm-and-chegg/"
-    ampWebUrl: "https://www.forbes.com/sites/jackkelly/2023/05/02/artificial-intelligence-is-already-causing-disruption-and-job-losses-at-ibm-and-chegg/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2023/05/02/artificial-intelligence-is-already-causing-disruption-and-job-losses-at-ibm-and-chegg/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/615077097475eceab8f6ae3e/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 796
-        isCached: true
-  - title: "IBM Plans to Replace 7,800 Jobs With AI"
-    excerpt: "The company will pause hiring soon, and expects up to 30% of non-customer-facing roles will be replaced by automation in the next five years."
-    publishedDateTime: 2023-05-02T14:57:00Z
-    webUrl: "https://www.pcmag.com/news/ibm-plans-to-replace-7800-jobs-with-ai"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/01WdVo9uJBJXuoHHOmvGQfY-1.fit_lim.size_1200x630.v1682982476.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "IBM CEO: ‘AI to cut 7,800 jobs in next five years’"
     excerpt: "IBM CEO Arvind Krishna expects AI to eliminate up to 7,800 jobs at the company. 30 percent of current non-customer-facing employees are set not to be"
     publishedDateTime: 2023-05-03T09:41:00Z

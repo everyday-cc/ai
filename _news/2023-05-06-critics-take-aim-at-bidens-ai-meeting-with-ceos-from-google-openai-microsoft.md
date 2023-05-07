@@ -502,20 +502,6 @@ related:
       name: ExtremeTech
       domain: extremetech.com
     quality: 49
-  - title: "Microsoft Planning Privacy-Focused Version of ChatGPT as Apple AI Efforts Flounder"
-    excerpt: "Microsoft is planning to launch a privacy-focused version of ChatGPT amid Apple's apparent lack of grip on emerging AI technologies,"
-    publishedDateTime: 2023-05-02T14:11:00Z
-    webUrl: "https://www.macrumors.com/2023/05/02/microsoft-planning-private-version-of-chatgpt/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 48
-    images:
-      - url: "https://images.macrumors.com/t/01PJDK4giliGBSuyRJCCe_GrZqY=/2500x/article-new/2021/05/Apple-vs-Microsoft-feature.jpg"
-        width: 2500
-        height: 1406
-        isCached: true
   - title: "Private ChatGPT? Microsoft to offer AI alternative for businesses with sensitive information"
     excerpt: "Microsoft plans to address data privacy concerns of large firms that hold sensitive information and have large regulatory costs for leaks with its new offering."
     publishedDateTime: 2023-05-03T09:55:00Z

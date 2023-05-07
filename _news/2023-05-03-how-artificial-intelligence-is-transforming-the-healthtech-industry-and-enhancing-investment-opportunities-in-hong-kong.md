@@ -43,15 +43,6 @@ related:
         width: 550
         height: 353
         isCached: true
-  - title: "9 ways AI is already shaping the future of healthtech"
-    excerpt: "Amid an increasing shift from reactive care to proactive care, here are some of the latest AI developments in healthtech."
-    publishedDateTime: 2023-05-02T15:00:00Z
-    webUrl: "https://www.fastcompany.com/90890400/9-ways-ai-is-already-shaping-the-future-of-healthtech"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 17
 
 secured: "W62b40g+A4kNtPLje9RAsjqTDfQ67gCSej7xbosipPWlKrh06n+1T6ZSp2nkHF0g3QETJmMlTlTDv2yQwIPn1yGgZDASifEJHXDKJqI/SllBMoJp9Se85xwBSVLH9zG7dchIJL68hIrGDPYKsqeqVc0FL2cB5EPp88pw9FBl4GWyhPWfpI3t/L4tuRowa9pmVlT5hEIIyF9j4N1yk6mgC50KS9n69mg3c5AHQipEAk/BHZUT2wayV5Fm06rRQkSSUwFui8M5pZb4OHzKoQaylEci0rjc7DaOn+YRGHsSYAjDQLxZuQO6kdSxInaAirgpMRN+TzrIeCIrbhiFzJaHvBY2PZ6LCv8i1JnpS6i0qJXNO7w+5bXjIzuHNs+fTDoVAWBb4RpsnyU3smM415bFLOLCidweNatjCcS0tnL6WwBKfzI3TRW2xpOLiB+Z/eYMjZp09krLrQRykc3mdhapG8qpr/mWjJW52D2LKzPrmcDPr/u25P55ML/GlXiSVWsgQ82vvaVGAgzY1DyzdihGuw==;DhmBH9C3ZoL+rqKLul55gg=="
 ---

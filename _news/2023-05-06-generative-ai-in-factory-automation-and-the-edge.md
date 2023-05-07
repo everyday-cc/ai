@@ -1,33 +1,22 @@
 ---
 category: news
-title: "Generative AI In The Construction Sector: Taking Building Technology To New Heights"
-excerpt: "It’s no exaggeration to say that generative AI will have a transformative effect on global industry. With the ability to generate new outputs based on algorithms and trained data, it represents the next step in artificial intelligence and a new level of sophistication for machine learning."
-publishedDateTime: 2023-05-02T15:50:00Z
-originalUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/05/02/generative-ai-in-the-construction-sector-taking-building-technology-to-new-heights/"
-webUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/05/02/generative-ai-in-the-construction-sector-taking-building-technology-to-new-heights/"
-ampWebUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/05/02/generative-ai-in-the-construction-sector-taking-building-technology-to-new-heights/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/05/02/generative-ai-in-the-construction-sector-taking-building-technology-to-new-heights/amp/"
+title: "Generative AI in factory automation and the edge"
+excerpt: "Siemens and Microsoft: generative AI in factory automation and at the edge In factory automation Siemens and Microsoft recently demonstrated how with the combination of Microsoft Azure machine learning and Siemens’ industrial edge, images captured by ..."
+publishedDateTime: 2023-05-05T18:09:00Z
+originalUrl: "https://www.embedded.com/generative-ai-in-factory-automation-and-the-edge/"
+webUrl: "https://www.embedded.com/generative-ai-in-factory-automation-and-the-edge/"
 type: article
-quality: 81
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Embedded
+  domain: embedded.com
 
 topics:
+  - Microsoft AI
   - AI
-
-images:
-  - url: "https://imageio.forbes.com/specials-images/imageserve/64512ef3a78479bc981e6545/0x0.jpg?format=jpg&width=1200"
-    width: 1200
-    height: 675
-    isCached: true
 
 related:
   - title: "Biden administration takes action to promote responsible AI innovation"
@@ -45,6 +34,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/04/annevb_chatbots_and_AI_everywhere_all_at_once_-_tech_colorful_e_beb92de9-8091-4437-9e29-d568ea8d4b74.png?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Generative AI In The Construction Sector: Taking Building Technology To New Heights"
+    excerpt: "It’s no exaggeration to say that generative AI will have a transformative effect on global industry. With the ability to generate new outputs based on algorithms and trained data, it represents the next step in artificial intelligence and a new level of sophistication for machine learning."
+    publishedDateTime: 2023-05-02T15:50:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/05/02/generative-ai-in-the-construction-sector-taking-building-technology-to-new-heights/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/05/02/generative-ai-in-the-construction-sector-taking-building-technology-to-new-heights/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/05/02/generative-ai-in-the-construction-sector-taking-building-technology-to-new-heights/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 81
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64512ef3a78479bc981e6545/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Appian Infuses Process Automation with Artificial Intelligence"
     excerpt: "Introduction of Appian AI Skill Designer and Generative AI integration make it easy to tap the power of AI through low-codeSAN DIEGO, May 2, 2023"
@@ -118,15 +123,6 @@ related:
         width: 394
         height: 218
         isCached: true
-  - title: "Generative AI in factory automation and the edge"
-    excerpt: "Siemens and Microsoft: generative AI in factory automation and at the edge In factory automation Siemens and Microsoft recently demonstrated how with the combination of Microsoft Azure machine learning and Siemens’ industrial edge, images captured by ..."
-    publishedDateTime: 2023-05-05T18:09:00Z
-    webUrl: "https://www.embedded.com/generative-ai-in-factory-automation-and-the-edge/"
-    type: article
-    provider:
-      name: Embedded
-      domain: embedded.com
-    quality: 19
   - title: "MotionPoint Releases Adaptive Translation™: Proprietary AI to Reduce the Cost of Quality Translation"
     excerpt: "MotionPoint introduces Adaptive Translation™ technology to reduce human translation costs without sacrificing quality."
     publishedDateTime: 2023-05-03T11:00:00Z
@@ -137,6 +133,6 @@ related:
       domain: slator.com
     quality: 4
 
-secured: "3LoTvTz2Ditz5n+Iz7TpjWis+31mTCYpQIZlNODXq+LsAstCsTWxPfjSfEBT/RAu1fH+Gs2ymq5zWHV2pQwRKiHehV3nf9caNvlgnDgP3X0AKz1oEr/XEJkjDUvLcWPkrk9eNJUxPIG6+V3u3bpguhb/PTKfLcTZc2yhS8pT+q7bx2OI1lAAb1UXOc+tLBLu4JhaGROknADz4KqGPPiPCAfR+V0RNIiAxsa/pePWEPu/i9zQK+ChBTV+cC17fmDxQiXb5x4E5MRMNI410ERDwFGsWjEvEq6RJIeay3L3SiS18ikKatymGHZpo0/Wg3+n/eNLGwHmWP8D8XYn43GAiYHiu0jaoQwvoDy1cEmvQAY=;152nBLt+MY/XZO68mhg0Ow=="
+secured: "Cz5qoLeIFZTtWqDKcxvE/zO1f30TijFLvo7sLo+Nan2dhSQlvYiWz9Q7Ep5/bbLAPjHBruCaEmCNYkqy81kyhgRAhd4SYZXqb861qi+UR3dMkUgGFFpWscpDBsXYk2QcPOsNyXpOUYWdG9k1Cvkb0tp+nXMmMFVJxyHM671GXCXRIbLuOMx7A1qju23BQmcm6Ek7R4nGXpR0yDNB+ENQXBXtabU7B7oMGBAwkl9V88bPBhDNTDeGkgfZoZvIZmkFQ4lbsO9M7h+/YgjvRqXLG8l7KLvI3qF96phYu1/+SJki+fC4O9HWEwcVJKCimKlwqextxL39ykIbmE84Kdku12wlvxXA+vO7SZqIWjKq9po=;JVjO0OED10Z86Tym/2I0QQ=="
 ---
 

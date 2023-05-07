@@ -157,15 +157,6 @@ related:
       name: New Orleans City Business
       domain: neworleanscitybusiness.com
     quality: 19
-  - title: "AI pioneer quits Google to warn humanity of the tech's existential threat"
-    excerpt: "Hinton wrote on Twitter that he quit \"so that I could talk about the dangers of AI without considering how this impacts Google.\""
-    publishedDateTime: 2023-05-02T13:59:00Z
-    webUrl: "https://www.detroitnews.com/story/tech/2023/05/02/ai-pioneer-quits-google-to-warn-of-the-techs-existential-threat/70174322007/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 18
   - title: "Pioneer of AI leaves Google to warn of tech’s dangers"
     excerpt: "So-called “Godfather of AI” Geoffrey Hinton quit his role at Google so he could more freely speak about the dangers of the technology he helped create."
     publishedDateTime: 2023-05-02T18:20:00Z
@@ -184,15 +175,6 @@ related:
       name: Arabian Business
       domain: arabianbusiness.com
     quality: 15
-  - title: "‘Quite scary’: Artificial intelligence pioneer quits Google over fears of rapid escalation"
-    excerpt: "Hinton, 75, expressed regret about his work in a statement to The New York Times, warning that chatbots powered by AI are “quite scary” and could soon surpass human intelligence. He explained that AI systems like GPT-4 already eclipse humans in terms of general knowledge and could soon surpass them in reasoning ability as well."
-    publishedDateTime: 2023-05-02T14:53:00Z
-    webUrl: "https://www.news.com.au/technology/innovation/quite-scary-artificial-intelligence-pioneer-quits-google-over-fears-of-rapid-escalation/news-story/b283c8b59fe32495ee3f465ce54d484e"
-    type: article
-    provider:
-      name: Couriermail
-      domain: news.com.au
-    quality: 9
 
 secured: "uwmCLAW7V4Q0+/INogFKKw/0eBwzU3aNljjdjYzK8HDp1tyt2i38RyH0r1qwoLe3CqS8e9NIgeNw4OAevWd4hNS8QwTWiByVd2P7wjyfDDOpjyOv8uO4JMOSs57QvRy2j0CmRnad/rpBVSR8sD4rFghyD7E/xY/PmpcRhiVICNL0TzPDNXzRjwSUPVK/iYXMfVD+3CUVsPiRaRrb0iCOfdkQ/L8bWf4REye9jkXeXwP28zh7GrGBXgs07Sk0YFLjPCDoGR0Zb+dgubNZUB9yu3vBqs3aJ/gIikHgYqYTTXMK9FsCLWzFkl9X1ITGCtkOmrX02tEY24IN9wuOhq27Ptis3kRcilig9GCJPZkEn2M18LPjzEKLUEeFFdpvlZui/ggC4lY98zqqV6+6DBnglkHoqEoD26PcpM2v5r9dsYrlkkNz4ViXRKb28kDaAe2aKw/PjtapKwzlHhFpfO3G8Bc+MmS5WPkLSlq6SCZjnnDdVnZ72kLPO7vCW0c/HcAk/Lxi/jjabu6Fzjayux1PEQ==;emjsxrc7f/0FAQ13ldTCOA=="
 ---

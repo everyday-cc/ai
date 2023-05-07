@@ -158,15 +158,6 @@ related:
       name: New Orleans City Business
       domain: neworleanscitybusiness.com
     quality: 19
-  - title: "AI pioneer quits Google to warn humanity of the tech's existential threat"
-    excerpt: "Hinton wrote on Twitter that he quit \"so that I could talk about the dangers of AI without considering how this impacts Google.\""
-    publishedDateTime: 2023-05-02T13:59:00Z
-    webUrl: "https://www.detroitnews.com/story/tech/2023/05/02/ai-pioneer-quits-google-to-warn-of-the-techs-existential-threat/70174322007/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 18
   - title: "Pioneer of AI leaves Google to warn of tech’s dangers"
     excerpt: "So-called “Godfather of AI” Geoffrey Hinton quit his role at Google so he could more freely speak about the dangers of the technology he helped create."
     publishedDateTime: 2023-05-02T18:20:00Z
@@ -185,15 +176,6 @@ related:
       name: Arabian Business
       domain: arabianbusiness.com
     quality: 15
-  - title: "‘Quite scary’: Artificial intelligence pioneer quits Google over fears of rapid escalation"
-    excerpt: "Hinton, 75, expressed regret about his work in a statement to The New York Times, warning that chatbots powered by AI are “quite scary” and could soon surpass human intelligence. He explained that AI systems like GPT-4 already eclipse humans in terms of general knowledge and could soon surpass them in reasoning ability as well."
-    publishedDateTime: 2023-05-02T14:53:00Z
-    webUrl: "https://www.news.com.au/technology/innovation/quite-scary-artificial-intelligence-pioneer-quits-google-over-fears-of-rapid-escalation/news-story/b283c8b59fe32495ee3f465ce54d484e"
-    type: article
-    provider:
-      name: Couriermail
-      domain: news.com.au
-    quality: 9
 
 secured: "NT1Qwc5ECX2U0zZOdgeln0veEr8tLMI0S8Ar6fTXnXPkdMTvJm/5LPB+83eb7BEK6J2rgN9L8cXi5B4mChRhYDz3cy1Y0Hm98Yx8KnGlBTH6pkYUmSpaEEABNZE60SqlTUIx62edD/XwpcOHK6qkAP/goT2Sk5jJsAA32amICFrGa/9xd9OaYZTJnjs8DKEJRRh7jqqDsbVuji0E7CyvZU+XuzrjVrwplIa1lopI5EfJNgsK0LmrirSxkgHsv7w03n4gZM69Zx2Eb+PTsenTvb2Nns+P2u/Eez2jZxReLO0x2yTYKDRRpqRMJ8ZOmIaCNju9HhxqtxbN7zaDMohY7DoTkO82pEBjOtLYxqAs+8Q=;idBImuP4U9MqFsdS57nLUQ=="
 ---

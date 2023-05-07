@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wbaltv.com/amp/article/facial-recognition-surveillance-t
 cdnAmpWebUrl: "https://www-wbaltv-com.cdn.ampproject.org/c/s/www.wbaltv.com/amp/article/facial-recognition-surveillance-technology-bill-limit/43762133"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -57,15 +57,6 @@ related:
         width: 1000
         height: 800
         isCached: true
-  - title: "Baltimore Considers Restricting Facial Recognition Tech"
-    excerpt: "Baltimore’s use of surveillance and facial recognition technology would face new restrictions under legislation introduced by a city councilman this week."
-    publishedDateTime: 2023-05-02T13:51:00Z
-    webUrl: "https://www.govtech.com/public-safety/baltimore-considers-restricting-facial-recognition-tech"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 19
   - title: "Met Police considering using facial recognition technology for King's coronation"
     excerpt: "The Metropolitan Police are considering deploying facial recognition technology to target those who may jeopardise the safety of the King's coronation. As the weekend looms, a Met briefing on security concerns took place on Wednesday after a man with a knife was arrested for throwing items,"
     publishedDateTime: 2023-05-03T11:29:00Z

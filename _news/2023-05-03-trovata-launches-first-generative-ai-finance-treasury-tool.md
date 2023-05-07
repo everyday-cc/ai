@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/trovata-launches-first-g
 webUrl: "https://www.marketwatch.com/press-release/trovata-launches-first-generative-ai-finance-treasury-tool-2023-05-03"
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "New Relic launches Grok, a generative AI assistant to monitor software performance"
+    excerpt: "New Relic Grok interface Along with isolating and fixing issues, the generative AI assistant ... this kind of plain-language questioning into new territory,” Khurana said. “New Relic Grok can actually take questions, translate them into queries ..."
+    publishedDateTime: 2023-05-02T17:07:00Z
+    webUrl: "https://venturebeat.com/ai/new-relic-launches-grok-generative-ai-assistant/"
+    ampWebUrl: "https://venturebeat.com/ai/new-relic-launches-grok-generative-ai-assistant/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/new-relic-launches-grok-generative-ai-assistant/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 83
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1338009807-e1683037604820.jpg?w=1200&strip=all"
+        width: 1200
+        height: 599
+        isCached: true
   - title: "Aisera Collaborates with Microsoft to Provide AI Enterprise Service Experiences with ChatGPT and Generative AI"
     excerpt: "Aisera Collaborates with Microsoft to Provide AI Enterprise Service Experiences with ChatGPT and Generative AI May 03, 2023 (PRNewswire via COMTEX) --"
     publishedDateTime: 2023-05-03T12:01:00Z

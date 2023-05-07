@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/world/2023/05/02/exp-ai-dangers-anna-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/world/2023/05/02/exp-ai-dangers-anna-stewart-reports-fst-050210aseg1-cnni-world.cnn"
 type: article
 quality: 87
-heat: 227
+heat: 207
 published: true
 
 provider:
@@ -161,15 +161,6 @@ related:
       name: New Orleans City Business
       domain: neworleanscitybusiness.com
     quality: 19
-  - title: "AI pioneer quits Google to warn humanity of the tech's existential threat"
-    excerpt: "Hinton wrote on Twitter that he quit \"so that I could talk about the dangers of AI without considering how this impacts Google.\""
-    publishedDateTime: 2023-05-02T13:59:00Z
-    webUrl: "https://www.detroitnews.com/story/tech/2023/05/02/ai-pioneer-quits-google-to-warn-of-the-techs-existential-threat/70174322007/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 18
   - title: "Pioneer of AI leaves Google to warn of tech’s dangers"
     excerpt: "So-called “Godfather of AI” Geoffrey Hinton quit his role at Google so he could more freely speak about the dangers of the technology he helped create."
     publishedDateTime: 2023-05-02T18:20:00Z
@@ -188,15 +179,6 @@ related:
       name: Arabian Business
       domain: arabianbusiness.com
     quality: 15
-  - title: "‘Quite scary’: Artificial intelligence pioneer quits Google over fears of rapid escalation"
-    excerpt: "Hinton, 75, expressed regret about his work in a statement to The New York Times, warning that chatbots powered by AI are “quite scary” and could soon surpass human intelligence. He explained that AI systems like GPT-4 already eclipse humans in terms of general knowledge and could soon surpass them in reasoning ability as well."
-    publishedDateTime: 2023-05-02T14:53:00Z
-    webUrl: "https://www.news.com.au/technology/innovation/quite-scary-artificial-intelligence-pioneer-quits-google-over-fears-of-rapid-escalation/news-story/b283c8b59fe32495ee3f465ce54d484e"
-    type: article
-    provider:
-      name: Couriermail
-      domain: news.com.au
-    quality: 9
 
 secured: "CrXYfY8PUEgUaA40eYBeLsWBtOt4EdiWCQfgEJfG+Hnt4AiPgJQs1GqzBUxAwRGC/STSnP1brn1k1VfN9tqjir19fsmgy0yCb9pVltYQ0TOqB4XHTLlix0b4Qhl/fmmUDyqv1x0FmCZNM8v7mbhrHTMBb2HvLP5nbmFzTPm2rJAqp4Jt9y6N2QUAb1dVBHX65m22uFWw/JjcMCLR9MhPzAEqVbSmMHGIdfrlA8V/gkgKwT4bwAq0ncSDxJnRcCJF5ps0iN4Wdlcs+GNt+ormDc+tWPP1Stl7B0S2SL29LOh8Hvibcik0tXGmOxfvGU9xEyZm5KZIhbNytoOUc6KPj0ouStNrmdkEVDoQYxHmUMg=;LN0Ct9d5b0ukmKCzBdaUHA=="
 ---

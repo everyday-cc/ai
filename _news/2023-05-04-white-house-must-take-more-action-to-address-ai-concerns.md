@@ -86,20 +86,6 @@ related:
         width: 1000
         height: 503
         isCached: true
-  - title: "Teradata operationalises AI with Google Vertex AI integration"
-    excerpt: "Teradata has announced services enabling organisations to accelerate Ai-driven digital transformation initiatives. The connected multi-cloud data platform"
-    publishedDateTime: 2023-05-02T14:20:00Z
-    webUrl: "https://www.enterprisetimes.co.uk/2023/05/02/teradata-operationalises-ai-with-google-vertex-ai-integration/"
-    type: article
-    provider:
-      name: enterprisetimes.co.uk
-      domain: enterprisetimes.co.uk
-    quality: 39
-    images:
-      - url: "https://www.enterprisetimes.co.uk/wp-content/uploads/2018/11/artificial-intelligence-3382507_1920.jpg"
-        width: 726
-        height: 410
-        isCached: true
   - title: "A case against banning TikTok. A US national strategy for AI."
     excerpt: "These steps build on the Administration’s strong record of leadership to ensure technology improves the lives of the American people, and break new ground in the federal government’s ongoing effort… National Standards Strategy for Critical and Emerging Technology (Record) The Biden administration's National Standards Strategy for Critical and Emerging Technology is intended to help set global rules to ensure tech is \"universally safe and interoperable."
     publishedDateTime: 2023-05-05T19:45:00Z
@@ -128,6 +114,15 @@ related:
         width: 394
         height: 218
         isCached: true
+  - title: "Generative AI in factory automation and the edge"
+    excerpt: "Siemens and Microsoft: generative AI in factory automation and at the edge In factory automation Siemens and Microsoft recently demonstrated how with the combination of Microsoft Azure machine learning and Siemens’ industrial edge, images captured by ..."
+    publishedDateTime: 2023-05-05T18:09:00Z
+    webUrl: "https://www.embedded.com/generative-ai-in-factory-automation-and-the-edge/"
+    type: article
+    provider:
+      name: Embedded
+      domain: embedded.com
+    quality: 19
   - title: "MotionPoint Releases Adaptive Translation™: Proprietary AI to Reduce the Cost of Quality Translation"
     excerpt: "MotionPoint introduces Adaptive Translation™ technology to reduce human translation costs without sacrificing quality."
     publishedDateTime: 2023-05-03T11:00:00Z

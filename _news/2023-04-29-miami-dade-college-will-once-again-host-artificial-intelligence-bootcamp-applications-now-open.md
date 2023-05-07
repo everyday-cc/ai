@@ -1,22 +1,26 @@
 ---
 category: news
-title: "Miami Dade College Will Once Again Host Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!"
-excerpt: "Miami Dade College (MDC) will once again host the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp in Miami for high school students at no-cost during the fall 2023"
-publishedDateTime: 2023-04-28T18:36:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/04/g32091127/miami-dade-college-will-once-again-host-artificial-intelligence-bootcamp-applications-now-open"
-webUrl: "https://www.benzinga.com/pressreleases/23/04/g32091127/miami-dade-college-will-once-again-host-artificial-intelligence-bootcamp-applications-now-open"
-ampWebUrl: "https://www.benzinga.com/amp/content/32091127"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32091127"
+title: "Miami Dade College Will Once Again Host Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
+excerpt: "Miami Dade College (MDC) will once again host the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp in Miami for high school students at no-cost during the fall 2023 term. The Bootcamp aims to introduce underserved high school students to basic AI concepts and skills."
+publishedDateTime: 2023-04-28T19:08:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/04/28/9804355.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/04/28/9804355.htm"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "jKD43izVQoXHOIZukXRW4z+pGTkD9HOAYSpVJO36F+znJs2WfvtfXBFTdAA++C1cPh2sQtGAl96v4hjWLhdtdsbKmDTpmqT13rv8GYnPx93QOJEgeoW88XiRRf8p/5y57b3zFqur4lItw7QorDgTJlSipWego6Tdre7zSECpz6lWQe72OJhsitMAVgtiAxRdF7KSvvOfont02MQ3VzopJG6rzo4QpMkJCxfKJmOU+jhfhpGv99XsLUrAbotzqleB3IIVShXKlhWXgIQPvcAqDDSYaPg7dYPDi5Tbko9k3d8JUSlCgqF3ZIs79YF/pY+jmDSJi+/tcpLhG+mOLSeysp4sGpkUPbULmK8z46C/ndM=;Pg5nK3ZDdfsK6ZIzMHdIxw=="
+images:
+  - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
+    width: 550
+    height: 353
+    isCached: true
+
+secured: "yfw37Ei+vahSmWuBLCInBS96PtYSOwBiYeaVMoru0c3LdKnpphOnSi3aktkbB05lJlrJ0VQHNQNToIjy6XVhN/a+MN7VMFfrx1vlzC6CkWd8vQO5pVBChB9cM8vq0m3O0Tj7bTdawfz9LE1GIHvM1NwEypoX1XpecdazScYH5wiTrIBUVuc8HqGikRIq/VMer2i7Mkx3cF5xXKSHPtimLVx6AR14hgL5hmIOFh05xPA5FDxGWirAsd5qg3d20UMl15/MdGyaE/UcE3Lz8kFxwjUsrXherHO1js4XlMNCJmn9UstCBdzj23O3VccRf1x7uBjHMvPDcv4XuxiN4BrojlyfgMiftZa2sVGxkOVKPas=;ZA4fUDOvyTBMUoLxTB1z9A=="
 ---
 

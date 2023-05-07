@@ -83,20 +83,6 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "These 8 Australian fintech Companies Will Hit the Stage at Demo Day This Month"
-    excerpt: "Over the last three years, we’ve introduced you to over 30 Australian fintech startups with the help of the Australian Trade and Investment Commission (Austrade) in New York. Au"
-    publishedDateTime: 2023-05-02T14:20:00Z
-    webUrl: "https://www.alleywatch.com/2023/05/australian-fintech-companies-austrade/"
-    type: article
-    provider:
-      name: alleywatch.com
-      domain: alleywatch.com
-    quality: 20
-    images:
-      - url: "https://alleywatch.com/wp-content/uploads/2023/05/amaka.jpg"
-        width: 1000
-        height: 367
-        isCached: true
   - title: "Power of Fintech Events for Industry Visionaries"
     excerpt: "In the past few years, we have seen an explosion in financial technology (FinTech) innovations. This has caused a drastic transformation of how banks and other financial institutions operate. FinTech promises faster payments,"
     publishedDateTime: 2023-05-03T11:04:00Z

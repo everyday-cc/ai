@@ -31,45 +31,43 @@ images:
     isCached: true
 
 related:
-  - title: "New Relic launches Grok, its AI observability assistant"
-    excerpt: "New Relic introduces Grok, its generative AI assistant for observability, simplifying data analysis and task management for engineers."
-    publishedDateTime: 2023-05-02T14:55:00Z
-    webUrl: "https://techcrunch.com/2023/05/02/new-relic-launches-grok-its-ai-observability-assistant/"
-    ampWebUrl: "https://techcrunch.com/2023/05/02/new-relic-launches-grok-its-ai-observability-assistant/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/02/new-relic-launches-grok-its-ai-observability-assistant/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2015/11/new_relic_disrupt_afterparty.jpg?resize=1200,645"
-        width: 1200
-        height: 645
-        isCached: true
-  - title: "Honeycomb announces generative AI-driven natural language querying for observability"
-    excerpt: "Honeycomb's new Query Assistant capability empowers engineers to ask questions in plain English instead of a query language."
+  - title: "Trovata Launches First Generative AI Finance & Treasury Tool"
+    excerpt: "Trovata Launches First Generative AI Finance & Treasury Tool May 03, 2023 (PRNewswire via COMTEX) -- PR Newswire SAN DIEGO, May 3, 2023 Trovata"
     publishedDateTime: 2023-05-03T13:00:00Z
-    webUrl: "https://venturebeat.com/ai/honeycomb-announces-generative-ai-driven-natural-language-querying-for-observability/"
+    webUrl: "https://www.marketwatch.com/press-release/trovata-launches-first-generative-ai-finance-treasury-tool-2023-05-03"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 42
-  - title: "New Relic To Launch First AI Observability Assistant: Meet Grok"
-    excerpt: "Observability software vendor New Relic later this month is launching Grok, what it calls the first-of-its-kind generative AI assistant for observability that uses natural language and AI to monitor, debug, secure and improve software stacks."
-    publishedDateTime: 2023-05-02T16:38:00Z
-    webUrl: "https://www.crn.com/news/channel-news/new-relic-to-launch-first-ai-observability-assistant-meet-grok"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 39
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
     images:
-      - url: "https://www.crn.com/resources/0281-17eade49be46-8da94f2fcf99-1000/new-relic-grok.jpeg"
-        width: 611
-        height: 458
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "Aisera Collaborates with Microsoft to Provide AI Enterprise Service Experiences with ChatGPT and Generative AI"
+    excerpt: "Aisera Collaborates with Microsoft to Provide AI Enterprise Service Experiences with ChatGPT and Generative AI May 03, 2023 (PRNewswire via COMTEX) --"
+    publishedDateTime: 2023-05-03T12:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/aisera-collaborates-with-microsoft-to-provide-ai-enterprise-service-experiences-with-chatgpt-and-generative-ai-2023-05-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence: Fintech Trovata Launches Generative AI Finance, Treasury Tool"
+    excerpt: "Trovata, which claims to be the global \"leader\" in bank APIs, recently announced the first generative AI entrant in the fintech space."
+    publishedDateTime: 2023-05-05T18:52:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/05/206646-artificial-intelligence-fintech-trovata-launches-generative-ai-finance-treasury-tool/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 41
 
 secured: "N9YUva+FhYqKgM8j5wURpL188XD7O9vWImbfHfclgvk5TbNXY3AVHUBOI1BwJah2aXLZIVs/5B2bHKoIos5wO47+Vn82ydZ4dyH/23tFt6PPADRS9AnMbZdMT7WC748/EOnqz94VkzzFFDSL8DY3VpDBbaHN8ijduR7LHBDnA8DZnUT90blAyAJtjQ7FNEw2mLfH8esR6SHL8u6rPWyS7e73sVlOZhjT0GeaRyqVdTm8p/4HpsAGCuBc0tObVayklQy1vaTWh+3FF5TRXVYSfT8hQGJuRgs0+AjwH7QiDZbGQKNdk94uH4AYFPtqvnqk2gR97I0iTx1r6wbBiXNtNYgu6lppp9P8pP1KQrhcgVWxH5X+iVOZElipyWlfSV2xU4i7kcai7SYVj3GDs6kLfN006zaFx8lK4KGfZ4SGQHPJi16ba8PrvGCM7asefM1Je0ob5aH/ufuAkg6S6JvK4SN5W2X62ZYOE4bTrk06k1xg6Wf5/LQMUTnkcbgYeODxR6BdmbVarz1EYhmfnbMHJA==;/6GDjchWKJUzqvsXPy/V1A=="
 ---

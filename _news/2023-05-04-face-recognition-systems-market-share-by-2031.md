@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI In Computer Vision Market: Recent Growing Trend 2030"
+    excerpt: "Newest Report will contain the Competitional Analysis of Top 5 Key Plyers (Qualcomm Technologies, Inc., Google LLC,"
+    publishedDateTime: 2023-05-05T05:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-recent-growing-trend-2030-2023-05-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Healthcare Natural Language Processing Market 2023 Insight and Global Trends"
     excerpt: "The Healthcare Natural Language Processing Market Scope and Overview Report for 2023 presents a detailed analysis of"
     publishedDateTime: 2023-05-05T07:28:00Z
@@ -102,22 +116,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Healthcare IT Integration Market is Expected to Reach $7.1 billion | MarketsandMarkets."
-    excerpt: "The healthcare IT integration industry is poised for significant growth in the near future. As healthcare providers continue to invest in digital systems and networks, the need"
-    publishedDateTime: 2023-05-02T13:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/05/g32160469/healthcare-it-integration-market-is-expected-to-reach-7-1-billion-marketsandmarkets"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32160469"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32160469"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 51
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
         isCached: true
   - title: "3 Cutting-Edge AI Stocks Set to Dominate the Market"
     excerpt: "It has shown the incredible powers of AI to understand language and create humanlike content. The technology is poised to transform many parts of business. According to a survey of from Enterprise Technology Research, about 53% of IT decisionmakers expect ..."
