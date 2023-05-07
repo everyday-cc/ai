@@ -29,22 +29,6 @@ images:
     height: 372
     isCached: true
 
-related:
-  - title: "Judges do not believe their jobs will be taken over by artificial intelligence - yet"
-    excerpt: "Survey finds ‘considerable scepticism’ that judges will be replaced by AI technology within 10 years, with most more concerned about poor wifi"
-    publishedDateTime: 2023-05-02T11:43:00Z
-    webUrl: "https://www.irishtimes.com/ireland/2023/05/02/judges-do-not-believe-their-jobs-will-be-taken-over-by-artificial-intelligence-yet/"
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 30
-    images:
-      - url: "https://www.irishtimes.com/resizer/J9bcCzHuqSzjpXRwWy-T7ISOogg=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/QGAOBMTISNECRMVI7QAZ2WQWLE.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-
 secured: "Bk4K7ZvaycZbJvFb7+L2NmEB6J41N31LK62//A0EMHseLJ03KCzqfUtw4A1gp9gHpAbBp4/g6kn7z6qFVRn/zgn48VHjFc4MZyYT1Xa81jgH9jVi7KVCmdEvhCR25J2HUHjudC36Py2/knlTTYM5S7vuWMRKlfMzhJxiWarpaBGSc6asGRZE1JDpWI1tcoCFmwiqzst9Wyuhg2Nf5B3T2i1lgNUbxwmUQZ8CBPxUaaEeMHII7VcLi6BwzW1osSVZaRlayzzXnLEqoz/h6eQkWUCjVEIumsNGzaMiNYj/2Dmv+mO6r3SKd80OpGEh6LHQWceSCkFgiwgZv5goM7ETYdD5aCE2VrtQG2aNqhIygbY=;YlX7AmPJ1HtePrF8pm/toQ=="
 ---
 

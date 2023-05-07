@@ -94,20 +94,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech and Voice Recognition Technology Market 2023 | Pronounce Growth During By 2031"
-    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
-    publishedDateTime: 2023-05-02T11:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-technology-market-2023-pronounce-growth-during-by-2031-2023-05-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Industrial Robotics Market Report to 2026: Collaborative Robots Promote Efficiency and Innovation Presenting Opportunities"
     excerpt: "The \"Industrial Robotics Growth Opportunities\" report has been added to ResearchAndMarkets.com's offering. Robotics usage in industrial settings has risen over the last"
     publishedDateTime: 2023-05-03T00:45:00Z

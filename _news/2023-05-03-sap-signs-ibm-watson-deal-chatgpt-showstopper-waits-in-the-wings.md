@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theregister.com/AMP/2023/05/03/ibm_watson_chagtgpt/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2023/05/03/ibm_watson_chagtgpt/"
 type: article
 quality: 74
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-North-America23.png"
         width: 1664
         height: 674
-        isCached: true
-  - title: "SAP adds more AI smarts to its enterprise resource planning software with IBM Watson"
-    excerpt: "Software giant SAP SE said today it’s expanding its long-running partnership with IBM Corp. to embed IBM Watson artificial intelligence smarts into its wide range of enterprise resource planning systems."
-    publishedDateTime: 2023-05-02T13:00:00Z
-    webUrl: "https://siliconangle.com/2023/05/02/sap-adds-ai-smarts-erp-software-ibm-watson/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 47
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/SAP-IBM.jpg"
-        width: 480
-        height: 360
         isCached: true
   - title: "IBM Watson to be integrated into SAP solutions"
     excerpt: "SAP users will soon be able to count on AI assistance based on IBM Watson technology. The SAP Start Assistant will help organizations reach insights about"

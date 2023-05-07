@@ -30,21 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI Won’t Take Off Without 6G"
-    excerpt: "Although the sixth generation of broadband internet and mobile technology won’t emerge widely for a number of years, organizations are exploring business innovations for a more intelligent, immersive world."
-    publishedDateTime: 2023-05-02T12:18:00Z
-    webUrl: "https://www.forbes.com/sites/sap/2023/05/02/generative-ai-wont-take-off-without-6g/"
-    ampWebUrl: "https://www.forbes.com/sites/sap/2023/05/02/generative-ai-wont-take-off-without-6g/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2023/05/02/generative-ai-wont-take-off-without-6g/amp/"
+  - title: "Biden administration takes action to promote responsible AI innovation"
+    excerpt: "The Biden administration pushes responsible AI with R&D investment, policymaking, and assessments of current generative AI systems."
+    publishedDateTime: 2023-05-05T17:49:00Z
+    webUrl: "https://venturebeat.com/ai/biden-administration-takes-action-to-promote-responsible-ai-innovation/"
+    ampWebUrl: "https://venturebeat.com/ai/biden-administration-takes-action-to-promote-responsible-ai-innovation/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/biden-administration-takes-action-to-promote-responsible-ai-innovation/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: VentureBeat
+      domain: venturebeat.com
     quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64248ed36d63fa962ef43b0c/0x0.jpg?format=jpg&width=1200"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/04/annevb_chatbots_and_AI_everywhere_all_at_once_-_tech_colorful_e_beb92de9-8091-4437-9e29-d568ea8d4b74.png?w=1200&strip=all"
         width: 1200
-        height: 800
+        height: 600
         isCached: true
   - title: "Appian Infuses Process Automation with Artificial Intelligence"
     excerpt: "Introduction of Appian AI Skill Designer and Generative AI integration make it easy to tap the power of AI through low-codeSAN DIEGO, May 2, 2023"
@@ -60,77 +60,87 @@ related:
         width: 400
         height: 231
         isCached: true
-  - title: "3 ways Generative AI is transforming the retail industry"
-    excerpt: "Microsoft Azure OpenAI and other Generative AI technologies are helping retailers jumpstart innovation, improve customer experience, and accelerate growth."
-    publishedDateTime: 2023-05-02T21:58:00Z
-    webUrl: "https://www.cio.com/article/475453/3-ways-generative-ai-is-transforming-theretail-industry.html"
-    ampWebUrl: "https://www.cio.com/article/475453/3-ways-generative-ai-is-transforming-theretail-industry.html/amp/"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/475453/3-ways-generative-ai-is-transforming-theretail-industry.html/amp/"
+  - title: "Information ministry holds lecture on AI"
+    excerpt: "Muscat: The Ministry of Information on Thursday organised a lecture on artificial intelligence (AI). The lecture dealt with the concept of"
+    publishedDateTime: 2023-05-04T14:14:00Z
+    webUrl: "https://www.omanobserver.om/article/1136617/oman/information-ministry-holds-lecture-on-ai"
+    ampWebUrl: "https://www.omanobserver.om/ampArticle/1136617"
+    cdnAmpWebUrl: "https://www-omanobserver-om.cdn.ampproject.org/c/s/www.omanobserver.om/ampArticle/1136617"
     type: article
     provider:
-      name: CIO
-      domain: cio.com
+      name: omanobserver
+      domain: omanobserver.om
     quality: 59
     images:
-      - url: "https://www.cio.com/wp-content/uploads/2023/05/image-EVP-2-Retail-iStock-Asawin_Klabma-1.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 645
+      - url: "https://www.omanobserver.om/omanobserver/uploads/images/2023/05/04/2321824.jpg"
+        width: 1000
+        height: 503
         isCached: true
-  - title: "What’s inside Box? More generative AI"
-    excerpt: "Box expands its enterprise content cloud with Box AI, generative AI that more intuitively understands and creates new enterprise content."
-    publishedDateTime: 2023-05-02T12:00:00Z
-    webUrl: "https://venturebeat.com/ai/whats-inside-box-more-generative-ai/"
+  - title: "Teradata operationalises AI with Google Vertex AI integration"
+    excerpt: "Teradata has announced services enabling organisations to accelerate Ai-driven digital transformation initiatives. The connected multi-cloud data platform"
+    publishedDateTime: 2023-05-02T14:20:00Z
+    webUrl: "https://www.enterprisetimes.co.uk/2023/05/02/teradata-operationalises-ai-with-google-vertex-ai-integration/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
-  - title: "FTC attorney says agency concerned with generative AI use"
-    excerpt: "Companies developing novel artificial intelligence (AI) tools might want to think carefully before laying off ethics personnel, an attorney with the Federal Trade Commission (FTC) warned. The agency is closely tracking company use of AI tools for possible ..."
-    publishedDateTime: 2023-05-02T19:34:00Z
-    webUrl: "https://www.complianceweek.com/regulatory-policy/ftc-attorney-says-agency-concerned-with-generative-ai-use/33027.article"
-    type: article
-    provider:
-      name: Compliance Week
-      domain: complianceweek.com
+      name: enterprisetimes.co.uk
+      domain: enterprisetimes.co.uk
     quality: 39
     images:
-      - url: "https://d6jxgaftxvagq.cloudfront.net/Pictures/1024x536/8/9/1/16891_artificialintelligenceethics_852683.jpg"
-        width: 1024
-        height: 536
+      - url: "https://www.enterprisetimes.co.uk/wp-content/uploads/2018/11/artificial-intelligence-3382507_1920.jpg"
+        width: 726
+        height: 410
         isCached: true
-  - title: "How generative AI is building better antibodies"
-    excerpt: "Language models similar to those behind ChatGPT have been used to improve antibody therapies against COVID-19, Ebola and other viruses."
-    publishedDateTime: 2023-05-04T23:00:00Z
-    webUrl: "https://www.nature.com/articles/d41586-023-01516-w"
+  - title: "A case against banning TikTok. A US national strategy for AI."
+    excerpt: "These steps build on the Administration’s strong record of leadership to ensure technology improves the lives of the American people, and break new ground in the federal government’s ongoing effort… National Standards Strategy for Critical and Emerging Technology (Record) The Biden administration's National Standards Strategy for Critical and Emerging Technology is intended to help set global rules to ensure tech is \"universally safe and interoperable."
+    publishedDateTime: 2023-05-05T19:45:00Z
+    webUrl: "https://thecyberwire.com/newsletters/policy-briefing/5/87"
     type: article
     provider:
-      name: Nature
-      domain: nature.com
+      name: Cyber Wire
+      domain: thecyberwire.com
+    quality: 39
+    images:
+      - url: "https://thecyberwire.com/images/social-media/policy-briefing/2023/Policy-23-050523.jpg"
+        width: 2640
+        height: 1320
+        isCached: true
+  - title: "White House Must Take More Action To Address AI Concerns"
+    excerpt: "Twitter The White House Blueprint for an AI Bill of Rights issued last October is a strong start to a government response to protect workers, families, and our democracy from the potential pitfalls of AI. The recent release of generative AI tools is ..."
+    publishedDateTime: 2023-05-04T11:00:00Z
+    webUrl: "https://www.americanprogress.org/article/white-house-must-take-more-action-to-address-ai-concerns/"
+    type: article
+    provider:
+      name: Center for American Progress
+      domain: americanprogress.org
     quality: 37
     images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-01516-w/d41586-023-01516-w_25313644.jpg"
-        width: 1024
-        height: 576
+      - url: "https://www.americanprogress.org/wp-content/uploads/sites/2/2023/05/AIColumn.jpg"
+        width: 1680
+        height: 1120
         isCached: true
-  - title: "Box embeds generative AI into its Content Cloud"
-    excerpt: "Announced at Box’s Content Cloud Summit today, Box AI is billed as a suite of AI capabilities that will primarily focus on two things: helping users to ask questions about documents and creating new content in Box."
-    publishedDateTime: 2023-05-02T12:00:00Z
-    webUrl: "https://siliconangle.com/2023/05/02/box-embeds-generative-ai-content-cloud/"
+  - title: "Biden-Harris administration announces initiatives for responsible AI innovation"
+    excerpt: "VP Harris meets with tech CEOs and major AI companies commit to independent evaluation at DEF CON 31. #NewsismyBusiness"
+    publishedDateTime: 2023-05-05T09:04:00Z
+    webUrl: "https://newsismybusiness.com/biden-harris-administration-announces-initiatives-for-responsible-ai-innovation/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 19
-  - title: "There’s Still A Long Way To Go With Generative AI"
-    excerpt: "The tech world is awash with generative AI, which for a company like Nvidia, is a good thing. The company that a decade ago put its money down on AI to be"
-    publishedDateTime: 2023-05-05T13:54:00Z
-    webUrl: "https://www.nextplatform.com/2023/05/05/theres-still-a-long-way-to-go-with-generative-ai/"
+      name: Business
+      domain: newsismybusiness.com
+    quality: 35
+    images:
+      - url: "https://newsismybusiness.com/wp-content/uploads/2023/05/dreamstime_m_51454298-394x218.jpg"
+        width: 394
+        height: 218
+        isCached: true
+  - title: "MotionPoint Releases Adaptive Translation™: Proprietary AI to Reduce the Cost of Quality Translation"
+    excerpt: "MotionPoint introduces Adaptive Translation™ technology to reduce human translation costs without sacrificing quality."
+    publishedDateTime: 2023-05-03T11:00:00Z
+    webUrl: "https://slator.com/motionpoint-releases-adaptive-translation-proprietary-ai-to-reduce-the-cost-of-quality-translation/"
     type: article
     provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 19
+      name: Slator
+      domain: slator.com
+    quality: 4
 
 secured: "3LoTvTz2Ditz5n+Iz7TpjWis+31mTCYpQIZlNODXq+LsAstCsTWxPfjSfEBT/RAu1fH+Gs2ymq5zWHV2pQwRKiHehV3nf9caNvlgnDgP3X0AKz1oEr/XEJkjDUvLcWPkrk9eNJUxPIG6+V3u3bpguhb/PTKfLcTZc2yhS8pT+q7bx2OI1lAAb1UXOc+tLBLu4JhaGROknADz4KqGPPiPCAfR+V0RNIiAxsa/pePWEPu/i9zQK+ChBTV+cC17fmDxQiXb5x4E5MRMNI410ERDwFGsWjEvEq6RJIeay3L3SiS18ikKatymGHZpo0/Wg3+n/eNLGwHmWP8D8XYn43GAiYHiu0jaoQwvoDy1cEmvQAY=;152nBLt+MY/XZO68mhg0Ow=="
 ---

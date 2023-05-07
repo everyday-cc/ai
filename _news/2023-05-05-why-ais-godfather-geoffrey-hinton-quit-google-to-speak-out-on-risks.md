@@ -50,15 +50,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "The Download: Geoffrey Hinton’s AI fears, and decoding our thoughts"
-    excerpt: "Geoffrey Hinton is a pioneer of deep learning who helped develop some of the most important techniques at the heart of modern artificial intelligence. But after a decade at Google, he is stepping down to focus on new concerns he now has about AI."
-    publishedDateTime: 2023-05-02T12:10:00Z
-    webUrl: "https://www.technologyreview.com/2023/05/02/1072566/the-download-geoffrey-hintons-ai-fears-and-decoding-our-thoughts/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 19
 
 secured: "makaSiiujuTaRXn1lPuIbL+M74bygJMJucc22CiJpAxTBKfN4Ufvf6Ux/sHYft7TIEnjFAygHwGf4J1/NJ4HDNlPmexbVJe6z+g0yF8q9gZptLpnTMKCyffyxv7gNjRWUNFAAvjCeAaro4auhbRBwta09e72FXqhINw7JCc1D6CsSubxiIEEnhOOwpNhqtJ8zWAnbJnXIfTAJfYEEKAGVJEGeFSbVIQmOS2lVBFlCr09RAPCvBP3fQpVo6ptYMmPmxec/Uc9C20DIn8Q6o/WB2HMgAz7yMNKop9VOI6eCbWdlHdvHSdMp9JJEWKzyyM0kbYBGqX7sIeisIzsjdHj1dr9n7GidWnWDrIxLnMI6Yoc/yFy8FN1GUF4sdsnclqeJVYCNf3Sd2/IdSRE94SRBaIyhYVfVItQlGkIhOb8RD1kTqJLBZ8zkeJ//objpb9VJzWbnhrOj3iysMHn2YSB1DdJ9Gh3JIwZVVrVmgbUMPlLTs+CZNJybxUga03T9/UJ/63R7DeIHY+He6uPOlvMiA==;IdK/WMdH8wJGoLFDFWY7Vg=="
 ---

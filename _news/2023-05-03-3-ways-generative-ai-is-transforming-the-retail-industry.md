@@ -27,107 +27,89 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI Won’t Take Off Without 6G"
-    excerpt: "Although the sixth generation of broadband internet and mobile technology won’t emerge widely for a number of years, organizations are exploring business innovations for a more intelligent, immersive world."
-    publishedDateTime: 2023-05-02T12:18:00Z
-    webUrl: "https://www.forbes.com/sites/sap/2023/05/02/generative-ai-wont-take-off-without-6g/"
-    ampWebUrl: "https://www.forbes.com/sites/sap/2023/05/02/generative-ai-wont-take-off-without-6g/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2023/05/02/generative-ai-wont-take-off-without-6g/amp/"
+  - title: "Where is India in the generative AI race?"
+    excerpt: "In the high-stakes race for supremacy in the field of generative AI, India's bustling startup ecosystem is facing an uphill battle."
+    publishedDateTime: 2023-05-03T09:26:00Z
+    webUrl: "https://techcrunch.com/2023/05/03/where-is-india-in-the-generative-ai-race/"
+    ampWebUrl: "https://techcrunch.com/2023/05/03/where-is-india-in-the-generative-ai-race/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/03/where-is-india-in-the-generative-ai-race/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64248ed36d63fa962ef43b0c/0x0.jpg?format=jpg&width=1200"
+      - url: "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1483825958.jpg?resize=1200,800"
         width: 1200
         height: 800
         isCached: true
-  - title: "Generative AI In The Construction Sector: Taking Building Technology To New Heights"
-    excerpt: "It’s no exaggeration to say that generative AI will have a transformative effect on global industry. With the ability to generate new outputs based on algorithms and trained data, it represents the next step in artificial intelligence and a new level of sophistication for machine learning."
-    publishedDateTime: 2023-05-02T15:50:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/05/02/generative-ai-in-the-construction-sector-taking-building-technology-to-new-heights/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/05/02/generative-ai-in-the-construction-sector-taking-building-technology-to-new-heights/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/05/02/generative-ai-in-the-construction-sector-taking-building-technology-to-new-heights/amp/"
+  - title: "Accel Bets on AI Startups in India Accelerator Program Revamp"
+    excerpt: "Venture capital firm Accel is refocusing its India accelerator program on artificial intelligence startups, seeking to identify promising companies in the fast-growing field."
+    publishedDateTime: 2023-05-03T05:30:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-05-03/accel-bets-on-ai-startups-in-india-accelerator-program-revamp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 81
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64512ef3a78479bc981e6545/0x0.jpg?format=jpg&width=1200"
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iiSpW4J5_o2I/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Data science and AI: How it is changing the game for fintechs in India"
+    excerpt: "The financial sector in India has always embraced cutting-edge technologies, and as a result, it has been undergoing transformations. The emergence of FinTech companies in India has disrupted the financial sector and it is now amongst the fastest growing Fintech markets in the world."
+    publishedDateTime: 2023-05-06T05:45:00Z
+    webUrl: "https://www.financialexpress.com/business/blockchain-data-science-and-ai-how-it-is-changing-the-game-for-fintechs-in-india-3075675/"
+    ampWebUrl: "https://www.financialexpress.com/business/blockchain-data-science-and-ai-how-it-is-changing-the-game-for-fintechs-in-india-3075675/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-data-science-and-ai-how-it-is-changing-the-game-for-fintechs-in-india-3075675/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 59
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/05/Add-a-little-bit-of-body-text-15.jpg"
         width: 1200
         height: 675
         isCached: true
-  - title: "Appian Infuses Process Automation with Artificial Intelligence"
-    excerpt: "Introduction of Appian AI Skill Designer and Generative AI integration make it easy to tap the power of AI through low-codeSAN DIEGO, May 2, 2023"
-    publishedDateTime: 2023-05-02T17:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/appian-infuses-process-automation-with-artificial-intelligence-1032283341"
+  - title: "The Future of Artificial intelligence in India"
+    excerpt: "The global artificial intelligence market is expanding due to the need for intelligent systems to increase productivity and efficiency in various sectors, including IT and telecommunications, retail and e-commerce, BFSI, healthcare, manufacturing ..."
+    publishedDateTime: 2023-05-04T11:18:00Z
+    webUrl: "https://www.siliconindia.com/news/general/the-future-of-artificial-intelligence-in-india-nid-222744-cid-1.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-    images:
-      - url: "https://mma.prnewswire.com/media/2067150/Appian_AI_Thumbnail.jpg"
-        width: 400
-        height: 231
-        isCached: true
-  - title: "What’s inside Box? More generative AI"
-    excerpt: "Box expands its enterprise content cloud with Box AI, generative AI that more intuitively understands and creates new enterprise content."
-    publishedDateTime: 2023-05-02T12:00:00Z
-    webUrl: "https://venturebeat.com/ai/whats-inside-box-more-generative-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
-  - title: "FTC attorney says agency concerned with generative AI use"
-    excerpt: "Companies developing novel artificial intelligence (AI) tools might want to think carefully before laying off ethics personnel, an attorney with the Federal Trade Commission (FTC) warned. The agency is closely tracking company use of AI tools for possible ..."
-    publishedDateTime: 2023-05-02T19:34:00Z
-    webUrl: "https://www.complianceweek.com/regulatory-policy/ftc-attorney-says-agency-concerned-with-generative-ai-use/33027.article"
-    type: article
-    provider:
-      name: Compliance Week
-      domain: complianceweek.com
+      name: SiliconIndia
+      domain: siliconindia.com
     quality: 39
     images:
-      - url: "https://d6jxgaftxvagq.cloudfront.net/Pictures/1024x536/8/9/1/16891_artificialintelligenceethics_852683.jpg"
-        width: 1024
-        height: 536
+      - url: "https://www.siliconindia.com/news/newsimages/3qXfVidn.jpg"
+        width: 570
+        height: 367
         isCached: true
-  - title: "How generative AI is building better antibodies"
-    excerpt: "Language models similar to those behind ChatGPT have been used to improve antibody therapies against COVID-19, Ebola and other viruses."
-    publishedDateTime: 2023-05-04T23:00:00Z
-    webUrl: "https://www.nature.com/articles/d41586-023-01516-w"
+  - title: "Cognizant CEO: ‘Generative AI Will Revolutionize The Technology Services Industry’"
+    excerpt: "Ravi Kumar, who joined Cognizant as CEO in January after 20 years at rival India-based global IT services and consulting firm Infosys, Wednesday told financial analysts at the Teaneck, N.J.-based company’s fiscal first-quarter 2023 financial conference ..."
+    publishedDateTime: 2023-05-04T19:00:00Z
+    webUrl: "https://www.crn.com/news/managed-services/cognizant-ceo-generative-ai-will-revolutionize-the-technology-services-industry-"
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 37
+      name: CRN
+      domain: crn.com
+    quality: 33
     images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-01516-w/d41586-023-01516-w_25313644.jpg"
-        width: 1024
-        height: 576
+      - url: "https://www.crn.com/resources/0281-17ef13153994-989a74181a92-1000/cognizant_ravi_kumar_s_ceo.jpeg"
+        width: 600
+        height: 375
         isCached: true
-  - title: "Box embeds generative AI into its Content Cloud"
-    excerpt: "Announced at Box’s Content Cloud Summit today, Box AI is billed as a suite of AI capabilities that will primarily focus on two things: helping users to ask questions about documents and creating new content in Box."
-    publishedDateTime: 2023-05-02T12:00:00Z
-    webUrl: "https://siliconangle.com/2023/05/02/box-embeds-generative-ai-content-cloud/"
+  - title: "Generative AI start-up Cohere in talks for $250mn in fresh funding"
+    excerpt: "Artificial intelligence start-up Cohere is close to securing $250mn in fresh funding from backers including Nvidia and Salesforce, which would represent the latest big investment into the generative AI sector that has boomed since the release of ChatGPT last year."
+    publishedDateTime: 2023-05-02T20:05:00Z
+    webUrl: "https://www.ft.com/content/84bfc44e-d1f3-4b83-9986-ed0d958b5f4c"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 19
-  - title: "There’s Still A Long Way To Go With Generative AI"
-    excerpt: "The tech world is awash with generative AI, which for a company like Nvidia, is a good thing. The company that a decade ago put its money down on AI to be"
-    publishedDateTime: 2023-05-05T13:54:00Z
-    webUrl: "https://www.nextplatform.com/2023/05/05/theres-still-a-long-way-to-go-with-generative-ai/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 19
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "fItC37ESWzydnDwENkLiZkguNjU2LwLqZc0wOyGJp5Qag7exo1IUHHhXCDMtmuV22J7Xhp9tuKlo10kUDfCIJwUIJAXnZS7CDwJCUGsG5BQpxOvvhG9ABk37W3+gNsikAU9rdNQe5PYDu9n8ymrXTxJGL+LNg1tJsLTM98oDtLiz/deA59bCdxSu77qSrNCvsK3/bo8V8Hhfsorqcq7jhh5FFNUTeB+rV5ThV/HMssrbyPnO13jcFXBguqYLY/FgsOG5BuciXp4eHPbD4eRgJ+yxgXApg40YBCGTcApAEvo8CmHuDVokrvhGQMsrmSzf++Jthqew3dagOBMGxOipJhz80lgkYrasItTHMGBiI3TlBc/ayeV5c0OKe2klTmCU2ka0rg873PlFlkHr2wFjTJD6X7CjTIoyQmciL+GW5+uLYVmCbnEJBNbNhsbOif6Y6WxsrMvy5G/yiZ1o9HPwUxTW6uQMiEzpGw8ci7xOhxmunmMtYP9fTKdQrsARke0zB7h3aCAxTZXIuFVhPm3XYA==;ofQmR01bUOPmPUpTTwQjOA=="
 ---

@@ -329,15 +329,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
-  - title: "Samsung tells employees not to use AI tools like ChatGPT and Google Bard"
-    excerpt: "While many workers worry AI bots will take their jobs, Samsung employees are no longer allowed to use them. The company banned generative AI tools, like ChatGPT and Google Bard, after discovering staff had added sensitive code to them,"
-    publishedDateTime: 2023-05-02T12:22:00Z
-    webUrl: "https://www.engadget.com/samsung-tells-employees-not-to-use-ai-tools-like-chatgpt-and-google-bard-114004180.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 46
   - title: "AI Writing and the Future: A Guide for Marketers in a Post-ChatGPT World"
     excerpt: "ChatGPT has revolutionized the marketing industry when it comes to producing content. Here is a blog on the effects of ChatGPT on marketers and more."
     publishedDateTime: 2023-05-02T17:39:00Z
@@ -484,15 +475,6 @@ related:
       name: Detroit News
       domain: detroitnews.com
     quality: 19
-  - title: "AI Impact Gets Real and Fast: IBM Pauses Hiring, Chegg Plunges on ChatGPT Challenge"
-    excerpt: "Artificial intelligence is here and growing fast, putting jobs at risk and posing a complicated challenge for executives and policymakers."
-    publishedDateTime: 2023-05-02T12:56:00Z
-    webUrl: "https://www.thestreet.com/investing/stocks/ai-impact-getting-real-fast-as-ibm-pauses-hiring-chegg-plunges"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 13
   - title: "UAE Ultra App: Botim 3.0 offers video chat, AI, money transfer, Arabic ChatGPT and more"
     excerpt: "UAE-based Astra Tech announce launch of Botim 3.0 Ultra App UAE Ultra App: Botim 3.0 offers video chat, AI, money transfer, Arabic ChatGPT and more app development, apps, astra tech, BOTIM, UAE Techno"
     publishedDateTime: 2023-05-03T09:57:00Z

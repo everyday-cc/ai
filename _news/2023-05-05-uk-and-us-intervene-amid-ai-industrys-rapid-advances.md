@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/may/04/uk-and-us-interve
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/04/uk-and-us-intervene-amid-ai-industrys-rapid-advances"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: The Guardian
@@ -46,15 +46,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "The Music Industry Has an AI Problem"
-    excerpt: "However, there is no gray area here: AI-generated music must be produced in a way that is equitable and fair for artists. That will require a substantial amount of vigilance. Get your good shoes on and tie them up tight, because there's a long road ahead."
-    publishedDateTime: 2023-05-02T13:00:00Z
-    webUrl: "https://www.bloomberg.com/opinion/articles/2023-05-02/ai-drake-heart-on-my-sleeve-and-cultural-appropriation"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
 
 secured: "3UMmb/hm1vNrBlNce9e67mtESB3b2F8BzNR0rNJvt07ckoUyKffbI3OIGHNaP2HY6VPYeQfLdBWH+RgXouo2DVSMFZH3hQfQ24W6bvBVnTUcV+PYDwSJ3FAiwfwhyDwt4XteSmsfNHXQO5s2+fSVCsZy65nF4W10lFVm4etg8qmHpLX6F4vS3np2YZ0r47RMsI57WUkSz0KcsrT6P7x527h9ZkdlHQLHG3inoH29MohIPqlF82P2OCg3+De0YxELAfqP1tHggpKx0I5aItq5pMmKldIf/DTjS09wmNWcvOyM8XIxZzvE0bujCO3BR7xzCUe4/Ye1svb4bWja42DaVBeg59YMBJJvBcuJyZk3Beo=;HJuswEAo+H5yyW8hooN1EQ=="
 ---

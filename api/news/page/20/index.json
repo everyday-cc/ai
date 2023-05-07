@@ -2,50 +2,6 @@
   "page": 20,
   "value": [
     {
-      "path": "_news/2023-04-24-britain-sets-up-125-million-taskforce-to-drive-ai-in-healthcare-education.md",
-      "title": "Britain sets up $125 million taskforce to drive AI in healthcare, education",
-      "excerpt": "The taskforce will help develop foundation models - a type of artificial intelligence (AI) used by chatbots like ChatGPT - for use in fields like healthcare and education",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/technology/britain-sets-up-125-million-taskforce-to-drive-ai-in-healthcare-education/articleshow/99732037.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/britain-sets-up-125-million-taskforce-to-drive-ai-in-healthcare-education/articleshow/99732037.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.etimg.com/thumb/msid-99712095,imgsize-,width-600,height-450/.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/technology/britain-sets-up-125-million-taskforce-to-drive-ai-in-healthcare-education/amp_articleshow/99732037.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/britain-sets-up-125-million-taskforce-to-drive-ai-in-healthcare-education/amp_articleshow/99732037.cms",
-      "publishedDateTime": "2023-04-24T04:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
       "path": "_news/2023-04-24-5-crucial-components-of-an-ai-company.md",
       "title": "5 Crucial Components Of An AI Company",
       "excerpt": "In this article, I'll explore five crucial factors that should drive the decision making of VCs and investors when identifying investment opportunities and evaluating long-term potential in the competitive and oversaturated AI space.",
@@ -1172,6 +1128,49 @@
       "provider": {
         "name": "Pocket-lint",
         "domain": "pocket-lint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-23-baidu-future-ai-giant-with-improving-core-ad-business.md",
+      "title": "Baidu: Future AI Giant With Improving Core Ad Business",
+      "excerpt": "I like Baidu as the key enabler of AI adoption across industries in China, working on autonomous driving, ML/ AI cloud computing, and even chip design. Baidu recently leveraged its AI research ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4595821-baidu-bidu-future-ai-giant-improving-core-ad-business",
+      "originalUrl": "https://seekingalpha.com/article/4595821-baidu-bidu-future-ai-giant-improving-core-ad-business",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/488987708/image_488987708.jpg?io=getty-c-w1536",
+          "width": 1536,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-23T02:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
         "images": null,
         "publishers": null,
         "authors": null

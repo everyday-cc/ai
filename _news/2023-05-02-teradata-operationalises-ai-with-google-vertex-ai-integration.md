@@ -41,15 +41,36 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Code.org helping launch TeachAI to guide integration of artificial intelligence in education"
-    excerpt: "Seattle-based computer science education nonprofit Code.org is helping to launch TeachAI, a new effort aimed at guiding governments and educators on teaching with and about artificial intelligence. The initiative,"
-    publishedDateTime: 2023-05-02T13:00:00Z
-    webUrl: "https://www.geekwire.com/2023/code-org-helping-launch-teachai-to-guide-integration-of-artificial-intelligence-in-education/"
+  - title: "Generative AI In The Construction Sector: Taking Building Technology To New Heights"
+    excerpt: "It’s no exaggeration to say that generative AI will have a transformative effect on global industry. With the ability to generate new outputs based on algorithms and trained data, it represents the next step in artificial intelligence and a new level of sophistication for machine learning."
+    publishedDateTime: 2023-05-02T15:50:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/05/02/generative-ai-in-the-construction-sector-taking-building-technology-to-new-heights/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/05/02/generative-ai-in-the-construction-sector-taking-building-technology-to-new-heights/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/05/02/generative-ai-in-the-construction-sector-taking-building-technology-to-new-heights/amp/"
     type: article
     provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 68
+      name: Forbes
+      domain: forbes.com
+    quality: 81
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64512ef3a78479bc981e6545/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Appian Infuses Process Automation with Artificial Intelligence"
+    excerpt: "Introduction of Appian AI Skill Designer and Generative AI integration make it easy to tap the power of AI through low-codeSAN DIEGO, May 2, 2023"
+    publishedDateTime: 2023-05-02T17:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/appian-infuses-process-automation-with-artificial-intelligence-1032283341"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
+    images:
+      - url: "https://mma.prnewswire.com/media/2067150/Appian_AI_Thumbnail.jpg"
+        width: 400
+        height: 231
+        isCached: true
   - title: "Information ministry holds lecture on AI"
     excerpt: "Muscat: The Ministry of Information on Thursday organised a lecture on artificial intelligence (AI). The lecture dealt with the concept of"
     publishedDateTime: 2023-05-04T14:14:00Z

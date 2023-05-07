@@ -114,20 +114,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "‘Godfather of AI’ quits Google to warn of the tech’s dangers"
-    excerpt: "A computer scientist often dubbed “the godfather of artificial intelligence” has quit his job at Google to speak out about the dangers of the technology, US media reported Monday. Geoffrey Hinton, who created a foundation technology for AI systems,"
-    publishedDateTime: 2023-05-02T11:23:00Z
-    webUrl: "https://www.digitaljournal.com/tech-science/godfather-of-ai-quits-google-to-warn-of-the-techs-dangers/article"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 37
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2023/05/a1cfcb01f87db6fcee2994be33ab6b4149da7478.jpg"
-        width: 768
-        height: 514
-        isCached: true
   - title: "AI ‘Godfather’ warns of dangers as he quits Google"
     excerpt: "We use cookies and other data for a number of reasons, such as keeping FT Sites reliable and secure,         personalising content and ads, providing social media features and to         analyse how our Sites are used."
     publishedDateTime: 2023-05-03T00:39:00Z
@@ -156,15 +142,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI pioneer Geoffrey Hinton warns about growing risks as he quits Google"
-    excerpt: "His departure from Google comes at a time of turmoil for the company, which recently merged its DeepMind and Google Brain AI research units as it tries to make up lost ground in generative AI against Microsoft and OpenAI. Jeff Dean, chief scientist at ..."
-    publishedDateTime: 2023-05-02T11:21:00Z
-    webUrl: "https://www.ft.com/content/6eccea8b-6d81-45df-a922-574b3249e0d1"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 19
   - title: "Scientists warn of AI dangers but don't agree on solutions"
     excerpt: "Computer scientists who helped build the foundations of today’s artificial intelligence technology are warning of its dangers, but that doesn’t mean they agree on what those dangers are or how to prev"
     publishedDateTime: 2023-05-03T19:03:00Z

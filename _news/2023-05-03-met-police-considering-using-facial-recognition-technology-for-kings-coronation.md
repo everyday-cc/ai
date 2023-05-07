@@ -74,15 +74,6 @@ related:
       name: Government Technology
       domain: govtech.com
     quality: 19
-  - title: "City councilman introduces bills to limit facial recognition tech"
-    excerpt: "WBAL NewsRadio 1090/FM 101.5 - New legislation could limit the use of facial recognition technology in Baltimore City."
-    publishedDateTime: 2023-05-02T12:46:00Z
-    webUrl: "https://www.wbal.com/article/609687/3/city-councilman-introduces-bills-to-limit-facial-recognition-tech"
-    type: article
-    provider:
-      name: WBAL
-      domain: wbal.com
-    quality: 19
 
 secured: "j6EyCwLnfci3AL7H0Yv1e90saAs5mDBO/mCKPGRFxJivBcEx/yDXjwIDbRE0mPMP2Yaezqg1x5Nc3XcnsR0UPgZXF92F7GTMgQ2nhS6sIilrZLy+5X/aFOi18iTQDTbBXuwrOqPsyedwjJFfR+cJBvPJ8js6eV/LtZky7obPpSXPetV3hZZnRLdFiaXR6A9Pw25YHpWTNjmz4i12n6w1IcaHqATjPd4LBBwowmsbp8YTQwQhUXZ0m+tmVoWWAAZaeayA+u3QoQMGTLkh305uhPniSbJO0/k2Nm2RF+Ewt+oxZfkA+1BBRyFXRXUIJkyZ3nTXBDBEnQRz+yZuvq+CBt/stXNlPZ6pEpJi4Xj0iYgTUSHuu/yxDi8Xfed4UmKvitHiDDk+sLxWRpm9euuln20B2BKRKKY0LAxfRH7dVLumXIhbA7MQCVjA0YimJNE4PhNMqbi9XI2B+6GekS+tBYNjcDADt3CDkmo+APHQdhMiG0MHByGFXJbWXVyzdpJL9siRh6o1q61sLZ2IGR6c5w==;9htKH2QZ1IYS73awnO9bUw=="
 ---

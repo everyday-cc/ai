@@ -74,20 +74,6 @@ related:
         width: 1200
         height: 720
         isCached: true
-  - title: "‘Godfather of AI’ sounds alarm"
-    excerpt: "A former Google employee has joined a chorus of industry leaders calling for regulation of artificial intelligence amid word that the technology is being used for mind-reading."
-    publishedDateTime: 2023-05-02T11:34:00Z
-    webUrl: "https://abcnews.go.com/WNN/video/godfather-ai-sounds-alarm-99006410"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 37
-    images:
-      - url: "https://s.abcnews.com/images/WNN/230502_atm_moise_pic1_hpMain_16x9_608.jpg"
-        width: 608
-        height: 342
-        isCached: true
   - title: "When the ‘Godfather of AI’ quits, we all need to start thinking"
     excerpt: "Mechanics don’t set road rules, so techies must not define the AI world, we need people outside the bubble to understand what is happening and contribute to regulations."
     publishedDateTime: 2023-05-03T23:09:00Z

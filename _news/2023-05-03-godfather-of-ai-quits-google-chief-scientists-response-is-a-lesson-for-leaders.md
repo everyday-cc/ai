@@ -34,15 +34,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Elon Musk backs up the 'Godfather of AI' who quit Google to warn the tech could harm humanity"
-    excerpt: "Geoffrey Hinton recently explained to The New York Times why he believed that future versions of the technology posed a threat to humanity."
-    publishedDateTime: 2023-05-02T12:55:00Z
-    webUrl: "https://www.businessinsider.com/elon-musk-ai-godfather-geoffrey-hinton-warning-tech-automation-2023-5"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 36
 
 secured: "8/Pe4HyohJtOwgmKKVPWNPYqSccp6JUiCN4XN39kVRV7TdqZQcM1gv4f3Te+3XBP+51Th6VxmaHV4mlKqEndkcaXu4Exljy6/sytkC+fUztDtD5l4v3SCVO9zcs381pVr61tUXOCLAZ6hHTwZhLoF57ayInxvwzsnIRz8ieXYjonfK1xuwqBLR1WdJ7SEvc3ZP+MpIcaYPT65YZAIPtxOJks4JwwlKSrgym5a+Q5UXT3/dUayBJgufGhTELhrvU2hZY2/tiDlEN+7ELrlYLnbmwkXSi4YbFUt8X7kir+VRbCQOt4UQ5NIe0efVrKrBPVJOj5l66XE7LV1kDrxviP9thl46lDa8Z/na8i5Fbv0Sth0rvg4OHV6Otzp8WSL3nbeN/Frc8BNCmSBdMGM7UI1nRCsaCGKbKwnDoUlK/zpUm8SBfPXNqDft6EdpY1yW4FJEi1JE9+f7M1a3/PKO6C8p1NHP027PiKIlwcIw0T+9Opx0W3JC32kvBRanCnRWccci/LkoePKB2vY+cS7Ysw6w==;g12k4LEu5V5Ko87xqNQqfQ=="
 ---

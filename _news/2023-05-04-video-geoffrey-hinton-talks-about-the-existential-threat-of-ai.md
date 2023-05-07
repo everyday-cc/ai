@@ -68,22 +68,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "‘Godfather of Artificial Intelligence’ cautions against its impact: How Geoffrey Hinton helped the development of AI"
-    excerpt: "Hinton is not alone in voicing fears regarding AI. In early April, more than 1,000 technology leaders and researchers, including Apple co-founder Steve Wozniak and Tesla founder Elon Musk, signed an open letter calling for a six-month pause on the developing AI systems further,"
-    publishedDateTime: 2023-05-02T11:52:00Z
-    webUrl: "https://indianexpress.com/article/explained/explained-sci-tech/godfather-of-artificial-intelligence-cautions-against-its-impact-how-geoffrey-hinton-helped-the-development-of-ai-8587672/"
-    ampWebUrl: "https://indianexpress.com/article/explained/explained-sci-tech/godfather-of-artificial-intelligence-cautions-against-its-impact-how-geoffrey-hinton-helped-the-development-of-ai-8587672/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/explained-sci-tech/godfather-of-artificial-intelligence-cautions-against-its-impact-how-geoffrey-hinton-helped-the-development-of-ai-8587672/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 49
-    images:
-      - url: "https://images.indianexpress.com/2023/05/Geoffrey-Hinton.jpg"
-        width: 1200
-        height: 667
-        isCached: true
   - title: "4 dangers that most worry AI pioneer Geoffrey Hinton"
     excerpt: "Geoffrey Hinton, a computer scientist known as the \"godfather of artificial intelligence,\" recently resigned his high-profile job at Google. Here's a look at his biggest concerns about the future of AI"
     publishedDateTime: 2023-05-04T00:30:00Z

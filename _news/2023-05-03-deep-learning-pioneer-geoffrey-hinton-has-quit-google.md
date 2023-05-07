@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2023/05/01/1072478/deep-learning-pi
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/05/01/1072478/deep-learning-pioneer-geoffrey-hinton-quits-google/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "The Download: Geoffrey Hinton’s AI fears, and decoding our thoughts"
-    excerpt: "Geoffrey Hinton is a pioneer of deep learning who helped develop some of the most important techniques at the heart of modern artificial intelligence. But after a decade at Google, he is stepping down to focus on new concerns he now has about AI."
-    publishedDateTime: 2023-05-02T12:10:00Z
-    webUrl: "https://www.technologyreview.com/2023/05/02/1072566/the-download-geoffrey-hintons-ai-fears-and-decoding-our-thoughts/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 19
   - title: "Why AI’s ‘godfather’ Geoffrey Hinton quit Google to speak out on risks"
     excerpt: "Professor voiced fears that rapid advance of technology would lead to significant job losses and flood of misinformation"
     publishedDateTime: 2023-05-05T15:00:00Z

@@ -71,20 +71,6 @@ related:
         width: 1664
         height: 674
         isCached: true
-  - title: "SAP adds more AI smarts to its enterprise resource planning software with IBM Watson"
-    excerpt: "Software giant SAP SE said today it’s expanding its long-running partnership with IBM Corp. to embed IBM Watson artificial intelligence smarts into its wide range of enterprise resource planning systems."
-    publishedDateTime: 2023-05-02T13:00:00Z
-    webUrl: "https://siliconangle.com/2023/05/02/sap-adds-ai-smarts-erp-software-ibm-watson/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 47
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/SAP-IBM.jpg"
-        width: 480
-        height: 360
-        isCached: true
   - title: "SAP to Embed IBM Watson Artificial Intelligence into SAP® Solutions"
     excerpt: "New AI capabilities in SAP Start will be designed to help users boost productivity with both natural language capabilities and predictive insights using IBM Watson AI solutions built on IBM's ..."
     publishedDateTime: 2023-05-02T13:52:00Z

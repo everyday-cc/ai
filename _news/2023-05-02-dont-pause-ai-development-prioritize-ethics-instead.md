@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/dont-pause-ai-development-prioritize-ethi
 webUrl: "https://www.ibm.com/blog/dont-pause-ai-development-prioritize-ethics-instead/"
 type: article
 quality: 116
-heat: 136
+heat: 126
 published: true
 
 provider:
@@ -33,20 +33,6 @@ related:
       name: Gizmochina
       domain: gizmochina.com
     quality: 63
-  - title: "The ethics of military AI"
-    excerpt: "In this week’s Computer Weekly, as the defence sector looks into using artificial intelligence to create autonomous weapons, we examine the risks and ethics of military AI. Amazon Web Services is under fire for not providing vital emissions data to customers – we investigate the issues."
-    publishedDateTime: 2023-05-02T11:12:00Z
-    webUrl: "https://www.computerweekly.com/ezine/Computer-Weekly/The-ethics-of-military-AI"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 54
-    images:
-      - url: "https://cdn.ttgtmedia.com/rms/computerweekly/CWE_030215_ezine_pp19-MED.jpg"
-        width: 252
-        height: 349
-        isCached: true
 
 secured: "MA7gFTf2G1TkqKAs3qtNVZZjJAM4AxgDpdxNke6l6lYmZ2nyNyPU2l/tqYbFEU/dsrVkizLL6Ue/dBt6yemNLWi5gtfQ77TMJooC6Ls05bMa9El4JyZXTVRN1h8IqkrmW3eCIFMhFDjdTtJ+3EE8bm0OHcCG472NCPaXlq/s4BzqywgAuMuBW+zCBpOAF+lslwBHGw0Y4/sCo1Th+HceGUgGBypINfx3b6gKhqcHxIkhsSpY/u6QHp6smUXojI0AnE2p7d0PZMg24QVmhdcJsKa3svas/hMwzOyzLi1NcxiLJDyRD5STqqKzEkfc550Z1/EPExkm4BXtMkLu7IdCVTPiyB5HU9Xc4BTMpRvxKcY=;GTZg/jCF8tu0EekgmumpeA=="
 ---

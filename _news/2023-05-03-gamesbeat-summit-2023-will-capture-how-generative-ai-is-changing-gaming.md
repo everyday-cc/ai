@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/games/gamesbeat-summit-2023-will-capture-how
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/gamesbeat-summit-2023-will-capture-how-generative-ai-is-changing-gaming/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/AI-in-DevOps.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "How generative AI is building better antibodies"
+    excerpt: "Language models similar to those behind ChatGPT have been used to improve antibody therapies against COVID-19, Ebola and other viruses."
+    publishedDateTime: 2023-05-04T23:00:00Z
+    webUrl: "https://www.nature.com/articles/d41586-023-01516-w"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 37
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-01516-w/d41586-023-01516-w_25313644.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "yvAIvhGNERGLA+g/NmjBtVd/EdhOdyYBAJpNW5PiKVSCTx7/daUmq7giieAP9GbyGXYsJJKgSlekY4hqMKI/LC8L/4nfMzq+hPxF0QJ7EutShHn/tBQlKJ3OgVLiu08mRWdYnNO1PJ54ScFc0enFzoqv4VvWV8cDgnGhXDZjO4yvL7mcKdhwVTL2BYkVqK/S1w7uW0+p7PzL20CKJORfXxQdeyzH8feo7RrLwAXrgU6WeEth3LJz/htpEpI4COprBmwINqC2gYz0vi48O0eSiQDRMTtwPMko9wpHWQLpKtBXr4w4fINwtQie6DatGiS9X0xoHkZLEEEAawb2BE2rW8lNfO4pswQrO5ZBbX1yUE2htXnBz53ZEso47vQydvFI4xjTscOTzwtrrq57uDV+iHtWClQLWiN9GZafzXXrdVN7v6T+lRpmo7ahXHaT4HsJi/Wf+mPxnghvftuYbJPOFuJcMAqiGX13L/ae3SZPqMh318x1WMny9X/VllENbLsmgiBE+Ub40BjGAUf2WiKMsg==;7vyOecGNWK2hkm0maOgaVQ=="

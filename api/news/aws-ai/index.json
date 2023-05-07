@@ -353,6 +353,49 @@
       ]
     },
     {
+      "path": "_news/2023-05-02-best-early-amazon-prime-day-2023-furniture-deals.md",
+      "title": "Best early Amazon Prime Day 2023 furniture deals",
+      "excerpt": "If you've been thinking about redecorating, you're in luck -- there are tons of deals on top-rated, great-looking furniture right now on Amazon. And that's even ahead of Amazon Prime Day 2023 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/essentials/best-furniture-deals-at-amazon-2023-05-01/",
+      "originalUrl": "https://www.cbsnews.com/essentials/best-furniture-deals-at-amazon-2023-05-01/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/04/26/0ad6b0d8-0bbe-4ef7-ae5f-77cd418bc66b/thumbnail/1200x630/b6b1052b66f8fce2848975c1ada0f300/a1lil2l-jl-ac-sl1500.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/best-furniture-deals-at-amazon-2023-05-01/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-furniture-deals-at-amazon-2023-05-01/",
+      "publishedDateTime": "2023-05-01T10:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-28-creating-a-cybersecurity-culture-good-intentions-are-not-enough.md",
       "title": "Creating a cybersecurity culture: ‘Good intentions are not enough’",
       "excerpt": "Infosec leaders hope to instill a culture of cybersecurity in their organizations. But an expert says action speaks louder than words. “Culture ultimately reflects what you do,” says Merritt Baer, a principal in the office of the CISO at Amazon’s AWS ...",
@@ -1390,58 +1433,6 @@
         "AWS AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-04-20-aws-matterport-partnership-enhances-digital-twins-with-joint-dashboard.md",
-      "title": "AWS, Matterport partnership enhances digital twins with joint dashboard",
-      "excerpt": "New integrations expand on Matterport spatial data service for AWS IoT TwinMaker. Image: Funtap/Adobe Stock Organizations using Matterport for spatial data can now view it on the same dashboard as AWS IoT TwinMaker data with a new integration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/matterport-aws-iot-twin-maker-dashboard/",
-      "originalUrl": "https://www.techrepublic.com/article/matterport-aws-iot-twin-maker-dashboard/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/04/tr41923-internetofthings.jpeg",
-          "width": 1400,
-          "height": 1044,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/article/matterport-aws-iot-twin-maker-dashboard/amp/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/matterport-aws-iot-twin-maker-dashboard/amp/",
-      "publishedDateTime": "2023-04-19T23:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

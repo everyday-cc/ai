@@ -66,15 +66,6 @@ related:
       name: Government Technology
       domain: govtech.com
     quality: 19
-  - title: "City councilman introduces bills to limit facial recognition tech"
-    excerpt: "WBAL NewsRadio 1090/FM 101.5 - New legislation could limit the use of facial recognition technology in Baltimore City."
-    publishedDateTime: 2023-05-02T12:46:00Z
-    webUrl: "https://www.wbal.com/article/609687/3/city-councilman-introduces-bills-to-limit-facial-recognition-tech"
-    type: article
-    provider:
-      name: WBAL
-      domain: wbal.com
-    quality: 19
   - title: "Met Police considering using facial recognition technology for King's coronation"
     excerpt: "The Metropolitan Police are considering deploying facial recognition technology to target those who may jeopardise the safety of the King's coronation. As the weekend looms, a Met briefing on security concerns took place on Wednesday after a man with a knife was arrested for throwing items,"
     publishedDateTime: 2023-05-03T11:29:00Z

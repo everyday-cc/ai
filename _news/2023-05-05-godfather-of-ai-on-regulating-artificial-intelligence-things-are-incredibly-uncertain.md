@@ -9,7 +9,7 @@ ampWebUrl: "https://www.msnbc.com/msnbc/amp-video/mmvo172780101692"
 cdnAmpWebUrl: "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp-video/mmvo172780101692"
 type: article
 quality: 62
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk backs up the 'Godfather of AI' who quit Google to warn the tech could harm humanity"
-    excerpt: "Geoffrey Hinton recently explained to The New York Times why he believed that future versions of the technology posed a threat to humanity."
-    publishedDateTime: 2023-05-02T12:55:00Z
-    webUrl: "https://www.businessinsider.com/elon-musk-ai-godfather-geoffrey-hinton-warning-tech-automation-2023-5"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 36
   - title: "'Godfather of AI' Quits Google. Chief Scientist's Response is a Lesson for Leaders"
     excerpt: "Jeff Dean, Google's Chief Scientist said, \"We remain committed to a responsible approach to AI ... We're continually learning to understand emerging risks while also innovating boldly.\""
     publishedDateTime: 2023-05-03T16:27:00Z
