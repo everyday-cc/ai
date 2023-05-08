@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/axl-edtech-launches-ai-l
 webUrl: "https://www.marketwatch.com/press-release/axl-edtech-launches-ai-language-and-marketing-innovations-2023-05-03"
 type: article
 quality: 86
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Creating a Thai language AI tool"
+    excerpt: "Thai artificial intelligence (AI) engineers from public and private organisations have teamed up to develop a Thai-language generative AI-powered chatbot, expected to benefit several sectors from education to business."
+    publishedDateTime: 2023-05-07T23:43:00Z
+    webUrl: "https://www.bangkokpost.com/business/2565696/creating-a-thai-language-ai-tool"
+    type: article
+    provider:
+      name: Bangkok Post
+      domain: bangkokpost.com
+    quality: 39
+    images:
+      - url: "https://static.bangkokpost.com/media/content/dcx/2023/05/08/4747356_700.jpg"
+        width: 700
+        height: 468
+        isCached: true
   - title: "Imperium Group: AXL EdTech Launches AI Language and Marketing Innovations"
     excerpt: "AXL, an educational technology company, is developing two key new products that will be available for those creating e-learning courses. One is the company's"
     publishedDateTime: 2023-05-03T21:16:00Z

@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Accel Bets on AI Startups in India Accelerator Program Revamp"
-    excerpt: "Venture capital firm Accel is refocusing its India accelerator program on artificial intelligence startups, seeking to identify promising companies in the fast-growing field."
-    publishedDateTime: 2023-05-03T05:30:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-05-03/accel-bets-on-ai-startups-in-india-accelerator-program-revamp"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iiSpW4J5_o2I/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "The Future of Artificial intelligence in India"
     excerpt: "The global artificial intelligence market is expanding due to the need for intelligent systems to increase productivity and efficiency in various sectors, including IT and telecommunications, retail and e-commerce, BFSI, healthcare, manufacturing ..."
     publishedDateTime: 2023-05-04T11:18:00Z

@@ -109,6 +109,20 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
+  - title: "Experts' take on AI service management"
+    excerpt: "The draft emphasizes the obligations and responsibilities of AI service providers, such as how to handle complaints, provide data and deal with misdeeds. As for the regulatory authorities, they will be allowed to deliver administrative punishment including giving a warning, criticizing and imposing administrative penalties."
+    publishedDateTime: 2023-05-07T23:15:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202305/08/WS6458310ca310b6054fad1874.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 39
+    images:
+      - url: "http://img2.chinadaily.com.cn/images/202305/08/6458310ca310b60580cc76e6.jpeg"
+        width: 489
+        height: 326
+        isCached: true
   - title: "BacterAI: New AI system enables robots to conduct 10,000 scientific experiments a day"
     excerpt: "Scientists created BacterAI, an AI-powered system enabling robots to conduct 10,000 experiments daily, accelerating scientific discoveries."
     publishedDateTime: 2023-05-05T13:10:00Z

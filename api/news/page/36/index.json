@@ -2,6 +2,50 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2023-04-12-the-morality-of-artificial-intelligence.md",
+      "title": "The Morality of Artificial Intelligence",
+      "excerpt": "Next to such early attempts on formulating an ethical law for robots and computers, there are, more recently the following ethics codes for artificial intelligence: + Ohio State University’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.counterpunch.org/2023/04/12/the-morality-of-artificial-intelligence/",
+      "originalUrl": "https://www.counterpunch.org/2023/04/12/the-morality-of-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.counterpunch.org/wp-content/uploads/2023/04/Artificial_Intelligence__AI__Machine_Learning_-_30212411048-680x544.jpg",
+          "width": 680,
+          "height": 544,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-11T23:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CounterPunch",
+        "domain": "counterpunch.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-04-12-chatgpt-vs-bing-vs-google-bard-which-ai-is-the-most-helpful.md",
       "title": "ChatGPT vs. Bing vs. Google Bard: Which AI Is the Most Helpful?",
       "excerpt": "The representative also said Bing benefits from Microsoft's Azure AI supercomputing tech to help unify search, chat and the Edge browser. Google and OpenAI didn't immediately respond to requests ...",
@@ -1121,49 +1165,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-11-worlds-most-advanced-ai-robot-speaks-several-languages-in-creepy-video.md",
-      "title": "‘World’s most advanced’ AI robot speaks several languages in creepy video",
-      "excerpt": "Robots are no longer just fluent in code ... lingual abilities is currently making waves online. Developed by UK startup Engineered Arts, Ameca boasts hyper-realistic facial expressions, thanks ...",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2023/04/10/worlds-most-advanced-robot-speaks-several-languages-in-creepy-video/",
-      "originalUrl": "https://nypost.com/2023/04/10/worlds-most-advanced-robot-speaks-several-languages-in-creepy-video/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2023/04/NYPICHPDPICT000009442298.jpg?quality=75&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2023/04/10/worlds-most-advanced-robot-speaks-several-languages-in-creepy-video/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/04/10/worlds-most-advanced-robot-speaks-several-languages-in-creepy-video/amp/",
-      "publishedDateTime": "2023-04-10T16:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://mashable.com/video/robot-arms-jizai-bodies"
 webUrl: "https://mashable.com/video/robot-arms-jizai-bodies"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence will destroy humanity; robots in the making"
+    excerpt: "Incidents have occurred with AI chatbot’s and robot’s. The dangers of artificial intelligence now seem more real than ever"
+    publishedDateTime: 2023-05-03T20:43:00Z
+    webUrl: "https://www.talonmarks.com/opinion/2023/05/03/artificial-intelligence-will-destroy-humanity-robots-in-the-making/"
+    type: article
+    provider:
+      name: Cerritos College Talon Marks
+      domain: talonmarks.com
+    quality: 56
+    images:
+      - url: "https://www.talonmarks.com/wp-content/uploads/2023/05/image.jpg"
+        width: 553
+        height: 311
+        isCached: true
   - title: "The optimal mix of AI and human interactions for healthcare provider engagement"
     excerpt: "However, leveraging an appropriate mix of humans and AI agents is the best strategy to meet the growing HCP need for continuous, multichannel access to medical information. The biggest question for most organisations is: what is the right mix of these AI-driven and human-led HCP interactions?"
     publishedDateTime: 2023-05-03T14:58:00Z

@@ -65,6 +65,20 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Meta Platforms scoops up AI networking chip team"
+    excerpt: "Meta Platforms has hired an Oslo-based team that until late last year was building artificial-intelligence networking technology at British chip unicorn Graphcore. A Meta spokesperson confirmed the hirings in response to a request for comment,"
+    publishedDateTime: 2023-05-07T22:28:00Z
+    webUrl: "https://www.itnews.com.au/news/meta-platforms-scoops-up-ai-networking-chip-team-594087"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 56
+    images:
+      - url: "https://i.nextmedia.com.au/News/2023-05-05T133156Z_1_LYNXMPEJ440H9_RTROPTP_4_META-PLATFORMS-AI.JPG"
+        width: 1000
+        height: 628
+        isCached: true
 
 secured: "nuMNIBk2oVYMy0O04ym9Se3ReMnAXRcPWdtLDsToGdTo8K8vrOrkMk6kLQ6MGnORoSD/kFabY04YpZR2h/kd9bVAacH7N9rImcG7bxTKY7kfoylFGA+ZVpZ64J6zGsPgDoJSAOIoUrCAyY2xBz4NifTNKn0waUtUUIkEhWtjwIJkEo2V2jIbWJ5w1wHKzwV4Jypoo7K8/hN2C5izF2J6ZJEsGBwwbo1sppMR4IPwGQjHP8aVrjNICm9u5Iykt+5PYCv+tVIeC2byEaLtgZUV2Fi2QwG9Eqr0l8I0rbuy9zFZEcGXxemEGylA/Wo1I41SEBAOoYf9G0sVkgEvP7oSwWTGMY3FHI3i3Ss3a6kDn8KNVn+Z0+B27ZlPaZCZlCGsbis+HTzAKlVX67yHINpI7RPRp37lk546nIPdgURNRHhtNYquZHsefK+V/lUJSxNAVbWv2sbhDeiDp91Hdo2VR8+rCQUUN385QOtXa6vAmhqE2UUIVruEEfWRT4dOLZV1Tg04fh5BvEbK09ETEayaNQ==;IPAcRvbOO89Ti4e2sbhi7g=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/outreach-initiatives/arts-culture/try-4-new-arts
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/arts-culture/try-4-new-arts-and-ai-experiments/amp/"
 type: article
 quality: 109
-heat: 209
+heat: 219
 published: true
 
 provider:
@@ -105,6 +105,20 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
+  - title: "Experts' take on AI service management"
+    excerpt: "The draft emphasizes the obligations and responsibilities of AI service providers, such as how to handle complaints, provide data and deal with misdeeds. As for the regulatory authorities, they will be allowed to deliver administrative punishment including giving a warning, criticizing and imposing administrative penalties."
+    publishedDateTime: 2023-05-07T23:15:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202305/08/WS6458310ca310b6054fad1874.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 39
+    images:
+      - url: "http://img2.chinadaily.com.cn/images/202305/08/6458310ca310b60580cc76e6.jpeg"
+        width: 489
+        height: 326
+        isCached: true
   - title: "Art world AI-nxiety: what is artificial intelligence and how are artists using it?"
     excerpt: "From breaking news and insider insights to exhibitions and events around the world, the team at The Art Newspaper picks apart the art world’s big stories with the help of special guests."
     publishedDateTime: 2023-05-05T18:15:00Z

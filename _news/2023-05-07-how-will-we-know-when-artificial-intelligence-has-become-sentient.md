@@ -6,8 +6,8 @@ publishedDateTime: 2023-05-07T13:59:00Z
 originalUrl: "https://www.entrepreneur.com/finance/how-will-we-know-when-artificial-intelligence-has-become/451129"
 webUrl: "https://www.entrepreneur.com/finance/how-will-we-know-when-artificial-intelligence-has-become/451129"
 type: article
-quality: 71
-heat: 71
+quality: 73
+heat: 75
 published: true
 
 provider:
@@ -22,6 +22,7 @@ topics:
   - AI Ethics
   - AI
   - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://assets.entrepreneur.com/providers/due/hero-image-due-451129.jpeg"

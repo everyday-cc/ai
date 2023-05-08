@@ -159,22 +159,6 @@ related:
         width: 600
         height: 314
         isCached: true
-  - title: "Private AI says its new offering allows firms to safely leverage ChatGPT"
-    excerpt: "Toronto-based Private AI, a developer of data privacy software offerings, yesterday launched PrivateGPT, an artificial intelligence (AI)-powered tool it said can help organizations “safely leverage OpenAI’s chatbot without compromising customer or ..."
-    publishedDateTime: 2023-05-03T12:51:00Z
-    webUrl: "https://www.itbusiness.ca/news/private-ai-says-its-new-offering-allows-firms-to-safely-leverage-chatgpt/124925"
-    ampWebUrl: "https://www.itbusiness.ca/news/private-ai-says-its-new-offering-allows-firms-to-safely-leverage-chatgpt/124925?amp=1"
-    cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/private-ai-says-its-new-offering-allows-firms-to-safely-leverage-chatgpt/124925?amp=1"
-    type: article
-    provider:
-      name: IT Business
-      domain: itbusiness.ca
-    quality: 58
-    images:
-      - url: "https://i.itbusiness.ca/wp-content/uploads/2023/05/GettyImages-1483618422.jpg"
-        width: 703
-        height: 497
-        isCached: true
   - title: "Man v machine: everything you need to know about AI"
     excerpt: "As systems become more capable – and ubiquitous – should we be worrying about what the future holds for humans in a ‘robot’ world?"
     publishedDateTime: 2023-05-06T15:20:00Z
@@ -273,6 +257,20 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 47
+  - title: "Gartner: ChatGPT has prompted increase in AI investments"
+    excerpt: "A Gartner poll shows that 45% reported that the publicity of ChatGPT has prompted them to increase AI investments."
+    publishedDateTime: 2023-05-07T23:30:00Z
+    webUrl: "https://techwireasia.com/2023/05/gartner-chatgpt-has-prompted-increase-in-ai-investments/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 39
+    images:
+      - url: "https://cdn.techwireasia.com/wp-content/uploads/2023/05/shutterstock_2261871805-897x500.jpg"
+        width: 897
+        height: 500
+        isCached: true
   - title: "AI startup inflection launches ChatGPT style chatbot"
     excerpt: "Another similar chatbot called Pi has been recently launched by an AI startup called Inflection. The AI development firm was founded by LinkedIn cofounder Reid Hoffman and Google DeepMind co-founder Mustafa Suleyman last year in March."
     publishedDateTime: 2023-05-03T23:06:00Z
@@ -353,20 +351,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/dailyprogress.com/content/tncms/assets/v3/editorial/c/aa/caacae9d-25ba-5538-9e77-6244efebab37/6452be43f210c.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
-        isCached: true
-  - title: "LinkedIn cofounder Reid Hoffman's new AI startup Inflection launches ChatGPT-like chatbot"
-    excerpt: "Similar to the viral chatbot ChatGPT, Inflection's AI chatbot, named Pi, uses generative AI technology to interact with users through conversations, in which people can ask questions and share interests."
-    publishedDateTime: 2023-05-03T06:36:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/linkedin-cofounder-reid-hoffmans-new-ai-startup-inflection-launches-chatgpt-like-chatbot/99953134"
-    type: article
-    provider:
-      name: telecom.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 28
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-99953134,imgsize-104716,width-1200,height=765,overlay-ettelecom/internet/linkedin-cofounder-reid-hoffmans-new-ai-startup-inflection-launches-chatgpt-like-chatbot.jpg"
-        width: 1200
-        height: 765
         isCached: true
   - title: "Is the world ready for ChatGPT therapists?"
     excerpt: "The current landscape of mobile mental-health apps is the result of a 70-year search to automate therapy. Now, advanced AIs pose fresh ethical questions."

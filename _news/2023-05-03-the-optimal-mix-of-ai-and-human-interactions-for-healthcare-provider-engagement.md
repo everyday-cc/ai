@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Artificial intelligence will destroy humanity; robots in the making"
+    excerpt: "Incidents have occurred with AI chatbot’s and robot’s. The dangers of artificial intelligence now seem more real than ever"
+    publishedDateTime: 2023-05-03T20:43:00Z
+    webUrl: "https://www.talonmarks.com/opinion/2023/05/03/artificial-intelligence-will-destroy-humanity-robots-in-the-making/"
+    type: article
+    provider:
+      name: Cerritos College Talon Marks
+      domain: talonmarks.com
+    quality: 56
+    images:
+      - url: "https://www.talonmarks.com/wp-content/uploads/2023/05/image.jpg"
+        width: 553
+        height: 311
+        isCached: true
 
 secured: "93gSSt4sLEMrpBTg6/5Tj4+BPe+mpjsVK9ou7HP+80wMvFs5zFi39Fhnn234fUQTcFyH9SZMRtdXEuLS41AnHHxPK9Iiylaw8cNbSi/bR6fUMAwUadhvkVLTEi3z0zQ9veTMSuhRgEJSW6uALJf58HGUFoAflG8sqN365VfcHNDUq21A5Nx8fXhJSydUWyJ+NjAPC7S2xm/X2l0JcpMVdj5yxNgkzkXdWHAZIDwhBxcde5oMdOci2yckab6tTb1cV4PmUL6iCjwPBNDdWoGlwIVKS4ZTOgbhf7T7VG8Wq+6tkJIsO3xjl3yy03jbRnDNU/h64I71H8syl4PznHDkflz8gffOCHpleiGlWY16oig=;iw/r6LXTvcVFYOOay7kV6Q=="
 ---

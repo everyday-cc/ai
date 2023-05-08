@@ -30,6 +30,17 @@ images:
     height: 413
     isCached: true
 
+related:
+  - title: "Frank Brennan’s proposed change to the Indigenous voice to parliament wording only courts confusion"
+    excerpt: "The voice constitutional drafting currently before the parliament is legally sound. It has benefited from almost a decade of analysis and improvement. By contrast, the very recent change proposed by Father Frank Brennan,"
+    publishedDateTime: 2023-05-07T23:30:00Z
+    webUrl: "https://www.theaustralian.com.au/commentary/frank-brennans-proposed-change-to-the-indigenous-voice-to-parliament-wording-only-courts-confusion/news-story/aefbcaf24695faff3f4349ca6a9cbf3f"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 0
+
 secured: "4XJ38ffuWkR2kX75ONf9UfqpZISu8D2u2MU/zcwnRTJsSlnqJXlmzjN8wijnSLioZuFoex9o7RgiIiH5Kk8wKcXYHNDWNVfifrKXJLIzBa4lJFJaRegcNlNP9M9T9TPaj8857XytH6zO5nbaBY2OcSgDgv+rf/R8wLQPaa2e1JBdz/iXc0XeDvuqu0OhSbAcWqyC6YvgLdavYxOBH0zWPc0nNLA5i3kCvxQ5NSfyDg/Aj+huiEnao/NxP2dkhoMxwoTNk8xHbpkcEZTV2ojF68MO1X3veHiaAB8bALurlFgIJjb0aDZ3PJkh821W82JPYNZzAJzbXqh2PvPrv0ZM62XR7fBShDS++uZC+5IG0+7Mv9hIDoEQOBaca+aIojvyXhyoDW3kDhz3+cJoTsTr/Urs2kje0A74LLFaj6ZERAytmRvtjuCclt2tCaQ5T6GJWzBvYWXqZmwpX83g1erDuFGmNKqDebiJKcZ0ELtJO2PAUF+BJjhDUngA/jrYCYS3v51PhVG5kbnolfijXvHiPA==;wPHwzHq7cUIiXuFsO3WwIQ=="
 ---
 

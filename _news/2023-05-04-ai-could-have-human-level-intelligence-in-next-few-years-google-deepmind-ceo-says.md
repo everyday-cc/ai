@@ -68,20 +68,6 @@ related:
         width: 3000
         height: 1999
         isCached: true
-  - title: "Google DeepMind CEO Says Some Form of AGI Possible in a Few Years"
-    excerpt: "DeepMind CEO Demis Hassabis commenting on building cognitive function within AI at the Journal’s Future of Everything Festival. Artificial general intelligence, a system in which computers have ..."
-    publishedDateTime: 2023-05-03T05:36:00Z
-    webUrl: "https://www.wsj.com/articles/google-deepmind-ceo-says-some-form-of-agi-possible-in-a-few-years-2705f452"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 69
-    images:
-      - url: "https://images.wsj.net/im-774873/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Google DeepMind CEO Demis Hassabis says we may have AGI ‘in the next few years’"
     excerpt: "Demis Hassabis, the CEO of Google DeepMind, recently predicted that artificial intelligence (AI) systems would reach human-level cognition somewhere between “the next few years” and “maybe within a decade.” Hassabis, who got his start in the ..."
     publishedDateTime: 2023-05-03T21:53:00Z

@@ -2,6 +2,58 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2023-04-17-nvidia-stock-excellent-ai-growth-play.md",
+      "title": "Nvidia Stock: Excellent AI Growth Play",
+      "excerpt": "For those following market trends, it has been impossible to ignore the buzz around generative AI (artificial intelligence) in recent months.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/nvidia-stock-excellent-ai-growth-play-1032236971",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/nvidia-stock-excellent-ai-growth-play-1032236971",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blog.tipranks.com/wp-content/uploads/2023/04/image-321-1024x518.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+          "width": 1024,
+          "height": 518,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-17T08:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-17-artificial-intelligence-in-healthcare-market-size-to-hit-us-1222-billion-growing-at-a-519-cagr-by-2030.md",
       "title": "Artificial Intelligence In Healthcare Market Size To Hit US$ 12.22 Billion Growing At A 51.9% CAGR By 2030",
       "excerpt": "Artificial Intelligence in Healthcare Market Research Report Information By Component, Application, Technology, End User- Global Forecast till 2030 NEW YORK CITY, NEW YORK, USA, April 17 ...",
@@ -1146,49 +1198,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-17-baidu-shares-drop-to-8-week-lows-after-company-reveals-chatgpt-rival.md",
-      "title": "Baidu shares drop to 8-week lows after company reveals ChatGPT rival",
-      "excerpt": "Beijing has pushed for national self-sufficiency in tech, while maintaining censorship and increasing regulation of data. Many Chinese companies, other than Baidu, are developing similar tech.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/03/16/baidu-shares-drop-after-chatgpt-ernie-bot-reveal.html",
-      "originalUrl": "https://www.cnbc.com/2023/03/16/baidu-shares-drop-after-chatgpt-ernie-bot-reveal.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-16T23:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -32,15 +32,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 43
-  - title: "Artificial Intelligence in Education Market Research Report 2022 – Industry Environment, Supply Side and Demand Side Analysis"
-    excerpt: "The global Artificial Intelligence in Education market is expected to exceed more than US$ 4 Billion by 2024 at CAGR of"
-    publishedDateTime: 2023-05-03T05:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-research-report-2022-industry-environment-supply-side-and-demand-side-analysis-2023-05-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
   - title: "North America Speech and Voice Recognition Market Key Segments, Share, Size, Trends, Growth, and Forecast 2023 to 2031"
     excerpt: "The North America speech and voice recognition is expected to reach USD 1,960.60 Million by 2025 from USD 312.08 Million in 2017, at a CAGR of 25.7% in the forecast period 2018 to 2025. The major factors driving the growth of this market are the effective integration due to increased demand for voice and speech-based biometric systems,"
     publishedDateTime: 2023-05-03T10:25:00Z

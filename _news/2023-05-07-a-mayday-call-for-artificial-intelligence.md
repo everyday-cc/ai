@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/a-mayday-call-for-artificial-intelligence
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/a-mayday-call-for-artificial-intelligence/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 121
 published: true
 
 provider:
