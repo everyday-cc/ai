@@ -52,15 +52,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Market Size and Sales Report 2023"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. May 03, 2023 (The Expresswire) -- Global Artificial Intelligence Market Research ..."
-    publishedDateTime: 2023-05-03T13:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-and-sales-report-2023-2023-05-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
   - title: "2023-2030, Computer Vision in Artificial Intelligence (AI) Market Segmentation-Identifying Your Target Audience"
     excerpt: "To know How COVID-19 and Russia-Ukraine War Influence Will Impact This Market/Industry - Request a sample copy of the report-:  In This Reports Computer Vision in Artificial Intelligence (AI) Market Segment by Type ( Hardware,"
     publishedDateTime: 2023-05-07T10:09:00Z

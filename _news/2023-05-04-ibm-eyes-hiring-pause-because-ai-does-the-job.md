@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "IBM pauses hiring, says it could replace 7,800 workers with AI"
-    excerpt: "IBM has paused hiring and said that it could lay off around 7,800 workers over the next five years. CEO Arvind Krishna claimed that employees could be replaced by artificial intelligence. Speaking about back-office workers,"
-    publishedDateTime: 2023-05-03T14:11:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/ibm-pauses-hiring-says-it-could-replace-7800-workers-with-ai/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 39
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/IBMpilgrimage.original_8tnb9w8.2e16d0ba.fill-1200x630.jpg"
-        width: 1024
-        height: 539
-        isCached: true
   - title: "IBM Plans To Replace Nearly 8,000 Jobs With AI — These Jobs Are First to Go"
     excerpt: "IBM CEO Arvind Krishna announced a hiring pause, but that’s not all. He also stated the company plans to replace nearly 8,000 jobs with AI.  Krishna noted that back-office functions, specifically in the human resources (HR) sector,"
     publishedDateTime: 2023-05-05T15:40:00Z

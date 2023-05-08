@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-2030-2023-05-07"
 type: article
 quality: 84
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -33,6 +33,20 @@ related:
     excerpt: "The Global Machine Learning Data Catalog Software market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
     publishedDateTime: 2023-05-07T15:13:00Z
     webUrl: "https://www.marketwatch.com/press-release/machine-learning-data-catalog-software-market-2030-2023-05-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Deep Learning Chipset Market Research | 2023-2030"
+    excerpt: "The Global Deep Learning Chipset market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
+    publishedDateTime: 2023-05-08T04:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chipset-market-research-2023-2030-2023-05-08"
     type: article
     provider:
       name: MarketWatch

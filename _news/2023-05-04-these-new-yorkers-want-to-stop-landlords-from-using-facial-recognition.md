@@ -7,7 +7,7 @@ originalUrl: "https://gizmodo.com/nyc-msg-facial-recognition-landlords-ban-law-h
 webUrl: "https://gizmodo.com/nyc-msg-facial-recognition-landlords-ban-law-hearing-1850401997"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "After MSG debacle, NYC considers facial recognition ban for businesses, landlords"
-    excerpt: "City Councilmembers will also grill agency officials on their use of biometric surveillance at a Wednesday hearing."
-    publishedDateTime: 2023-05-03T14:00:00Z
-    webUrl: "https://gothamist.com/news/nyc-council-facial-recognition-biometric-ban-businesses-landlords"
-    type: article
-    provider:
-      name: Gothamist
-      domain: gothamist.com
-    quality: 16
 
 secured: "L1Q8vp5O71BcSudKftq9L2l/eRZJ/cEBcFWZEDs99SIOBaPLIQFZSmVvCwB6a6NfKS4pt7GnDv6xPn7HueHRKfNiENv8T2f2JG/HZZnAJosYSJk1zpA6lTbyARUbkcWxVgZrDebWsErtZ4OXITEaPBNgQO7wzSCyEgmd0KE86ZNxyjn5xQ+SDW1YdILAacYUJqKWydqacMGTzl55herSZtPbKgKPWHERzx3txodkcn8pMjncb9iv5cpD9Y4T5GB/u35eVgI7mCyYSVwmzW5zYqJbJJjXnSiH//t/C0OI700K5Gh3wpLMzJ3k44ZR652+WOTmpKRal+LAzlyVXMtAredccZ4kIfcqL7Rmz2iY6eK4WmB+/z27hTRdujs0JGEC8KSV2abfWSObAOyE2E0v/BDmUnVlmIHQoS725oGkon8otjlQSCXxbN6kt/t2tS4a7c/DlnV1fKKOgFyQaTx8Q7gDKijBc5OMe+Ug/USXUI1An4TOc8r4wmz5tACt2k3FshHZpFU7z6QKbi9qxxposw==;/zyfgErxVHl2lNIgNYnRww=="
 ---

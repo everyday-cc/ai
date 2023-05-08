@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/2023-to-2030-machine-lea
 webUrl: "https://www.marketwatch.com/press-release/2023-to-2030-machine-learning-as-a-service-mlaas-market-size-with-the-rising-need-to-broaden-viewpoint-2023-05-07"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: MarketWatch
@@ -27,6 +27,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Artificial Intelligence In RegTech Market Analysis [2023-2030] Understanding the Latest Market Trends"
+    excerpt: "To know How COVID-19 and Russia-Ukraine War Influence Will Impact This Market/Industry - Request a sample copy of the report-:  In This Reports Artificial Intelligence In RegTech Market Segment by Type ( Employee Surveillance,"
+    publishedDateTime: 2023-05-08T05:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-regtech-market-analysis-2023-2030-understanding-the-latest-market-trends-2023-05-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "QNn0R8btRj1XRYSmdd5svCfUaFD3WOKPRYArbi+TIIZUfLaaCJISs+gbvCbom2cGP7lmofyFVOY7MwXqco9jN/ugun9vjiWQ3NdEKT85LCMlPzCGAoOqCKBMsNLqg+v9fVKawt570vNxX/xvdzC6Cx/RVyj5jlhbDcEy/VDo8SRZKB7Xg1mFp8p3nriOsszu1aazCLPFVR3U0u326r+Xu3mTtKtlEfY2pWVP5jA1p3xcX242KIgTq6vIxGVtqSzoMNqCPeRzjUnhnDxLFSNo933SIsHLTYqrTZtDGsoY4qd7zZrqGDCh2bnWFShyNK6/DFuE0GYFeLIHsfLnkcSv4hYdnH9ykktkUHmwx/IiP2U=;V/SJZOwEx5269mtew82XWw=="
 ---

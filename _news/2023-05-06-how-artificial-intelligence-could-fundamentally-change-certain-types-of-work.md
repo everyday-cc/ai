@@ -3,20 +3,21 @@ category: news
 title: "How artificial intelligence could fundamentally change certain types of work"
 excerpt: "A report released in March found that AI services could automate as many as 300 million fulltime jobs worldwide."
 publishedDateTime: 2023-05-06T00:24:00Z
-originalUrl: "https://www.cbsnews.com/news/artificial-intelligence-chatgpt-threatens-changes-jobs-work/"
-webUrl: "https://www.cbsnews.com/news/artificial-intelligence-chatgpt-threatens-changes-jobs-work/"
-ampWebUrl: "https://www.cbsnews.com/amp/news/artificial-intelligence-chatgpt-threatens-changes-jobs-work/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/artificial-intelligence-chatgpt-threatens-changes-jobs-work/"
+originalUrl: "https://www.cbsnews.com/detroit/news/artificial-intelligence-chatgpt-threatens-changes-jobs-work/"
+webUrl: "https://www.cbsnews.com/detroit/news/artificial-intelligence-chatgpt-threatens-changes-jobs-work/"
+ampWebUrl: "https://www.cbsnews.com/amp/detroit/news/artificial-intelligence-chatgpt-threatens-changes-jobs-work/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/detroit/news/artificial-intelligence-chatgpt-threatens-changes-jobs-work/"
 type: article
-quality: 69
-heat: 69
-published: false
+quality: 71
+heat: 71
+published: true
 
 provider:
   name: CBS News
   domain: cbsnews.com
 
 topics:
+  - AI in Autos
   - AI
 
 images:
@@ -25,6 +26,6 @@ images:
     height: 630
     isCached: true
 
-secured: "uVTUmRcumVmxYydJglsZUKksW6SycTQYAsRp/NkVTCdlh87pZqWchyavyC+Rm4gyRqPjmvKbk0V5V53DirSlzHh+iN3zOHhgcKX3Ck3jI4MrrJfjWUNamzEC6/YYOSvn5JL/GI5vYnVbtauFG4cly4j8wbyoHUDGBIk6ZmrqmkG6njxQKI0LDsjDgVs3g8RqbOdbQ9Dik7D+1uXFk4JcUnr5rFhWFnYXO6CpNCY326KSRjYgA7a9QZInspHouVY+iFcKTMDxcBCtQImMRr31OGVQmW3vNoPgm80bshc67JGj4P08zGqfHsdqggwXidOJ9tH8ly/AMux28QKYrfS/57KqChcX4E7Gnu6jlUTCm0AZvZCKeE1ZZcs1yWt2hb3hQYEs9Mol2A9rjCt930nfEVMIDcOTKnFUkhvH9Y2A/e6u5ie2a1aWhhXG0RNnovmBQO9ZbkJGzYyT6Olwpm6oSsMH68YbFLAOvC7surJdqYVhThCo7QnvniHeqMduJ3t9PmUV4Do95WvgxP7nmUiUiA==;Y1cPTSKOT+hl0hFlesddcw=="
+secured: "w7L+WkmVinu3Jm1+laxG02ZO2SXXoQ0p/OjbJKtCKESUGZIYsc9OthzfyqxYyxK0moX5p+ltmGDWtcYNXZFPqrCIWA5usOXGNvayHMGTKrqoCU+3KFAdsGilJFpSVtLkVTh5Q/vqW6PMxOk44Ufte8pytyliBM0pBfFL9sh5UUQfo54Ptr7way3Q8Eip14+u0MXmDcK79qKztaga0DMbZByyORE/fhrZqkifQP3IEowj2+A+//wj4U5E3el3Wst3aWBCpGgONvB41/CSOVXUu3jeUQf2OtFkB1Mx9X5UHcwyC/sfmFBz3dwPG7UE8RuVt+G/poOkg1FyTTv4d6PmQtNUnxxRxHtpiKTZgYqPlHc=;RrcjHuSJahvHW39c7guMOw=="
 ---
 

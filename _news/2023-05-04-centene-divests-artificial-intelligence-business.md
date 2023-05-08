@@ -7,7 +7,7 @@ originalUrl: "https://www.stltoday.com/business/local/centene-divests-artificial
 webUrl: "https://www.stltoday.com/business/local/centene-divests-artificial-intelligence-business/article_d1afc9f8-e9c4-11ed-9c11-b33b497886c5.html"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -19,20 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "New Mountain to buy healthcare tech firm Apixio from Centene"
-    excerpt: "New Mountain Capital has agreed to acquire San Mateo, California-based Apixio, a provider of healthcare artificial intelligence solutions, from Centene Corporation. No finacnial terms were disclosed. Centene acquired Apixio in December 2020."
-    publishedDateTime: 2023-05-03T13:57:00Z
-    webUrl: "https://www.pehub.com/new-mountain-to-buy-healthcare-tech-firm-apixio-from-centene/"
+  - title: "Tech Giants Boost AI Business Segments to Tap into Market Potential and Profitability"
+    excerpt: "Google, which is known for its search engine and other internet services, has been investing in AI for years. The company’s AI research group, Google Brain, was established in 2011, and the company has continued to invest in AI since then."
+    publishedDateTime: 2023-05-03T15:24:00Z
+    webUrl: "https://www.financialbuzz.com/tech-giants-boost-ai-business-segments-to-tap-into-market-potential-and-profitability/"
     type: article
     provider:
-      name: PE Hub
-      domain: pehub.com
-    quality: 54
-    images:
-      - url: "https://media.pehub.com/uploads/2022/06/PEHub_Logo1.jpg"
-        width: 1024
-        height: 768
-        isCached: true
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 18
 
 secured: "RMFYcdqh+Eji7Kj/LCkJ3vfOlyMIUOr36dyFx8rmEUwZjenD3/pggAof2LCeQrxt9pERp/zlcsc4CvpeQV+FrCJFwWY4MKaJ+Yq9+fntsB3a0RfIfWgtRizqUMj8HX3mytpYl0jyGkxl1iD/AXPV4DstUpXZgBpJ+9wNFxyKeQyGzbxQujlQYkjVo04zZWpQ117mZ48lZuz6HzSiZg5Guu9aNPuQt66Nrjm19nsHgPZ4WvBlCgjnRSf1RVdr/WTQbJUcEnh2XdsmtY3trkarkcz2l5tnX6m21tfk+H1CGtUjCOnh7wFDIye5D9FEWzsggsTlodQHfq0cSPsFEeobrH4WdGncT/C/FI8HN6G5d/JiKb7ZTV+mXcAp+d6+gybydtDEk3bie0hMIRz1fN7Te6XMvHUkan2xmEglj4r+h8TH2uwrsHvmyhdWKsVk9kL0V5qtVWNi3LtHFXBvx3YkTOO+WFfIpMdtCvlanrPViz9mI0x9/6QmD3J08c+V1RjhtNeMoGyJHc99jqADyrWwaw==;XmK9gRICNLqFpnDBXrRvdw=="
 ---

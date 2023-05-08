@@ -39,15 +39,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "After MSG debacle, NYC considers facial recognition ban for businesses, landlords"
-    excerpt: "City Councilmembers will also grill agency officials on their use of biometric surveillance at a Wednesday hearing."
-    publishedDateTime: 2023-05-03T14:00:00Z
-    webUrl: "https://gothamist.com/news/nyc-council-facial-recognition-biometric-ban-businesses-landlords"
-    type: article
-    provider:
-      name: Gothamist
-      domain: gothamist.com
-    quality: 16
 
 secured: "AsKTfwRoqDbS2MR+TeHZuuJzCP0EqlOuxypdE5puIR5pZo1sPh6RprgFu8I3QBRwG4Co5qfvJApdWuHTrgmC+mMHtekMzz493SsEcrIMvbE40fMkkrVovtPatg9ihDowURtbMMUCGx2/0DH62n4SOaRQfb6CE9RLlNjRNwUyEsQSX2NkG0Q/qc1zF1Jb/hYcEqzmqM+GDIKgyX4xSUkDLe8OoaCBmZDtbXfRasdaC/Wg4bbuRPrYOoDZdv96iRfXQwvP2bVhLQoJutW+FS+1RBzVNpyYEdF1+zqtcz7LckzDZaLd0+RlGegGzmXXsdHKk2F6p6nB3uhx2xr/IB3YI5VudhteCaLvRqxbH+Gd3bxq4dSe4PVbpQsAS6l94XUHo6GpfigmEiYorAzMqPgm+5zqDTBpCF0/sVSZn0nP8LYTObe9XoT5eirFC53Wve6lRKPPDg6YhKqxkgHBZFSgJ82W+H+Pfixi5MCnWFU35uP8pX2JDRvWDPyJElLbOYMkF5SSR2WteLbTTCPb5OLUHQ==;e2+rUnKlAZtHYfLmw81B6w=="
 ---

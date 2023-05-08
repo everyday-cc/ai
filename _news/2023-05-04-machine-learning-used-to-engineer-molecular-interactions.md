@@ -3,8 +3,8 @@ category: news
 title: "Machine Learning Used To Engineer Molecular Interactions"
 excerpt: "By using deep learning-generated ‘fingerprints’ to characterize millions of protein fragments, researchers have computationally designed novel protein binders that attach seamlessly to key targets, including the SARS-CoV-2 spike protein."
 publishedDateTime: 2023-05-04T15:41:00Z
-originalUrl: "https://www.technologynetworks.com/tn/news/machine-learning-used-to-engineer-molecular-interactions-372944"
-webUrl: "https://www.technologynetworks.com/tn/news/machine-learning-used-to-engineer-molecular-interactions-372944"
+originalUrl: "https://www.technologynetworks.com/informatics/news/machine-learning-used-to-engineer-molecular-interactions-372944"
+webUrl: "https://www.technologynetworks.com/informatics/news/machine-learning-used-to-engineer-molecular-interactions-372944"
 type: article
 quality: 39
 heat: -1
@@ -40,6 +40,6 @@ related:
         height: 231
         isCached: true
 
-secured: "6TVAn1gjhVNJuui9LIDk/G3gERAfF2zZhPRSuZBO0QSQe+gXKUGieYHr2wRSkrKAbQQzjcdIX1ZL1TAMWJOzpcz/vFKGt1GmGnO3xuXUzbXm7MpqdH/csGmsbvgSq/miKxP5+IzHwgrr0GB0oox2G0CKQ3aeOVbiZe6rOGddmOhk6jPGx5cDlb9rN8gWmnBZvPdqbAZz5GW2oKbp1foQkI5kIxoiRkIpIYAbggsHm1ulf5Nil5qjdh4vqW4Y9Dvqkcq0qPiJ/wITmDxUtsztBs7pLor0V/YDGtjcWsM808t0gMEfBgB/EnSfL5XuHAciG+8FQogVg7llsz4wHdCX8tP1F6B6Qe+T8dt+qq6JzdPwNVzkT3WUapD2JSdI2otkx4c9JFusDn0I4YbFd7mZl2MMAcYEletf5QrIexXQrndH/Z5dPUnudojfT2T2+l534lhfKh3MnAV1hMSDg9tIhG7+tvgekGr9fJSKvpzQO2VyL/YD/Sv0z3RmZn/ZMlkWmv8oAqW53wywLtlcaFdKbg==;JOSuWI4xarE+uMn0fSJ/aA=="
+secured: "Yz/m4178HMwDhjvNxlp4dv4KPr0JH9A7EAZwbkIbPIs7mnjmIwEb8TB94VbdEOynvMWSXACiZnLF3Lra090ljtlQYuTVDv4CAEIQ98e2o0ieY0C6JQdHWaPWRuNeQSmh5Gmlb3HvJQzmnPPd+vQyXjWp7dl8QD+nm5FLS40y49VJbIpyiPEh8in9QiyYIMeLOtix+mYNvFJDwiDYoGgpxFM6TiitI3od4Hu9xjIHrvysVRhL31xuZCNEMTobO12TW+H5nN7k8HDVYblYIkiznjV0saud76mSCXIBXqhmUr/KfJx9D1mbz426kkC0sdgmZAs0fiqnxuNp+dZXreqEHOXpN1X1xFvNc7T9fbYje64=;Qqv40a9MZjX1DAbZF2956g=="
 ---
 

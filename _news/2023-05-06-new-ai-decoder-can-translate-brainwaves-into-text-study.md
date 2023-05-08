@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI ‘Brain Decoder’ System Translates Human Brain Activity"
-    excerpt: "Researchers have developed an artificial intelligence-based ‘brain decoder’ that can translate brain activity into a continuous stream of text."
-    publishedDateTime: 2023-05-03T13:30:00Z
-    webUrl: "https://healthitanalytics.com/news/ai-brain-decoder-system-translates-human-brain-activity"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 34
   - title: "UT Austin researchers create artificial intelligence system capable of reading minds"
     excerpt: "Researchers at the University of Texas at Austin have developed an artificial intelligence system that can read minds by translating a person's brain activity into a continuous stream of text. The study led by Alexander Huth,"
     publishedDateTime: 2023-05-04T19:08:00Z

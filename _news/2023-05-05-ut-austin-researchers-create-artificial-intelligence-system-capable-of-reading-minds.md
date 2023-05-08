@@ -50,15 +50,6 @@ related:
         width: 690
         height: 407
         isCached: true
-  - title: "AI ‘Brain Decoder’ System Translates Human Brain Activity"
-    excerpt: "Researchers have developed an artificial intelligence-based ‘brain decoder’ that can translate brain activity into a continuous stream of text."
-    publishedDateTime: 2023-05-03T13:30:00Z
-    webUrl: "https://healthitanalytics.com/news/ai-brain-decoder-system-translates-human-brain-activity"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 34
 
 secured: "jN0IcqpadWXImbTgEsP5qXl8AsqtKoYRlHz3EtZ8OHnvZ4NohwFDS4QZFb8n/JLiw9PGW/u6MvKMpwM7CY34/osxkUcTunDnii36ytvsPNzPLRdV1o81/S7iA+bibvYzaK+cvpWV1EbEJD1SHoSDGhn7M3u68dF4/NOMQC8gNy9jgdVKhnyYkbxZwLhjPXnx+kT8ocaqMGi3IWqZ25kI2CIxblE3TUpPOrgf4oVI/fK8TpgNKsLiWJL0clBMOH7uW5DMRyTkEpBOCSLLLAxaIcyCQNLG1weh2Wd0JH80KlihlvrMCmHq1nuG9v7Wq6ZEUcGXmv8CGcVBSCd6UE1h3Mws2lpgcd7tZVJujXYO16m6VV+SLYblhbJvQQEgC+FB/WCkRXZ8TLzgZQzTL6sWeqE0M8UGYhELWQapZj4VTnf7QfoYtf07GMTIIrK6It9RXB9WH0MWRnIxrEmpwDBwXBIiXMWDQEqf3SPU41J2hpeM59XoQZ5AtWic4aT1cyk6b7/l5cBqMt671CZg8MlOUQ==;14dV3M4ez7X0i3yUZG6cXg=="
 ---

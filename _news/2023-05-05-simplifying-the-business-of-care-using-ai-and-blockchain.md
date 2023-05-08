@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/05/05/simplifyi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/05/05/simplifying-the-business-of-care-using-ai-and-blockchain/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 600
         height: 600
         isCached: true
-  - title: "Unlocking The Power Of Generative AI: Exploring Business Models And Dispelling Fears"
-    excerpt: "If there’s one topic that’s dominated the news cycle in 2023, it’s generative AI. This field of technology has experienced a tremendous surge in growth and popularity in recent months, with services like ChatGPT, Dall-E and Stable Diffusion held up as powerful new tools to help humanity—or to doom it."
-    publishedDateTime: 2023-05-03T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/03/unlocking-the-power-of-generative-ai-exploring-business-models-and-dispelling-fears/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 40
 
 secured: "+jOen7xH0orF7jUoOX4yl9ygg9XpyJ6zM0yOscovRvcaOrxBUafQEoT4Dy2uJ7fKworq+piDX04wWOvKEU+x9Zto5E9naIQp+197PR/tCEo7/EVW6/3Gqyzc+tsggsGTTDOvX8OAMhwfKJhY/4IAOdruU7SLdqgRxI+jSVx5n0FeDNJhKSUm/XURNas2DEvbfSY0Y+a3veDj/fTAiGfjs/5WaFhn/+KXfv6MTVVHMTgA9B22WkesNyj+PAi36neRXD0ukCb0YIJHxszap+Y5hLDaefAkDROIJQIhSTRLj98nne63gCjlf05rAmjhahqdxusLqD1QLbeZU+4DUSXcTWtoggc5O0U/fZjuKcqG/fI=;YteolwisA6RAcC/BBK/IZQ=="
 ---

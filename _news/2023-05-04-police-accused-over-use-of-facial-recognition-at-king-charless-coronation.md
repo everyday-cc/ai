@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/uk-news/2023/may/03/metropolitan-police-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/uk-news/2023/may/03/metropolitan-police-live-facial-recognition-in-crowds-at-king-charles-coronation"
 type: article
 quality: 57
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -130,15 +130,6 @@ related:
       name: Toronto Star
       domain: thestar.com
     quality: 14
-  - title: "Facial recognition cameras set to scan crowds at King’s coronation as 11,500 police deployed"
-    excerpt: "The Metropolitan police is set to deploy live facial recognition cameras as part of ramped up security measures for King Charles III’s coronation. The force has said it intends to use the technology in central London and in order to identify people who may be deemed a threat to public safety."
-    publishedDateTime: 2023-05-03T13:13:00Z
-    webUrl: "https://inews.co.uk/news/facial-recognition-cameras-kings-coronation-police-deployed-2314018?ITO=msn"
-    type: article
-    provider:
-      name: i
-      domain: inews.co.uk
-    quality: 8
 
 secured: "4YLITbFz1MqAB2LtYBL1kl6FXvCKKW+1aLT4UpHMMP4GEfiGWaI8Jf11sqJLkg6GXnkhAWIyD+3A0FudvlIfjAdqHfCfGCwUv08363DPheJgKGV3hAwOVPkT65quU/o7Ydwk1Y//mzQuwwUuCoWH/PvfX6tjfKhwuVE9EPFJCIibyUPnmj2x+TmHQacwwXbW3kjIgNNy6g8AnB4IyT0+8e+ktMHLoBsBYkBUgb/smOvV70dBGMgXDwULRriX6DIzz/WiK63q4OHPkpvpp9SgSPDjhhoFJ24Xp7zyydl4LOOx6LqJyGMPhBkurehnJlhatXbQJ6IW34uH0IdQf/XoScEe2WQ3n9C6GOhcMmdJlCle5iNyArlnhEvPh9lSsMiruSmI8LRjxeOChc00B5y385wZGM6YchT//DAZfeDN6nDJuo6LVbCqeSj6Qh473KkOaCgU6QPXNOCGnGr+7zKha2FRO77oTWEA9uXmuOlYoEvhNV9C34Txww2cHh6dpyl8d3jL34CGSP6yBq0oHkszCg==;glD5UD8JXVMnWprsmKWmEw=="
 ---

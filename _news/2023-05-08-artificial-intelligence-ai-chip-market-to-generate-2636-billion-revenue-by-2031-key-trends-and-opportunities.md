@@ -6,7 +6,7 @@ publishedDateTime: 2023-05-08T04:18:00Z
 originalUrl: "https://menafn.com/1106194639/Artificial-Intelligence-AI-Chip-Market-To-Generate-2636-Billion-Revenue-By-2031-Key-Trends-And-Opportunities"
 webUrl: "https://menafn.com/1106194639/Artificial-Intelligence-AI-Chip-Market-To-Generate-2636-Billion-Revenue-By-2031-Key-Trends-And-Opportunities"
 type: article
-quality: 49
+quality: 51
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - AI in Healthcare
   - AI
   - AI Hardware
+  - AI in Robotics
 
 images:
   - url: "https://menafn.com/updates/pr/2023-05/08/EP_14e92image_story.png"
@@ -143,6 +144,6 @@ related:
       domain: marketwatch.com
     quality: 8
 
-secured: "ucBl+BTPqlvAvmoTZ3e7FdQKXc5+BJBtaGuLzkVwkjz7D0GlMLQyXE9ArlJsMM6G3ZWY1CO5ct8vJtl3V239vxj1aODK/xycqw9b4xSkYMN7EBy/lr1r/dpN0K6Hl4ZbrTqPU7mOlVRzNIjYDXPDGghav09ol45brTmRgPJ7NYzwRlXDz+yX8vofC9CMT+AwYL2zgDnNiiQxJt+VrsNLudXU25YFedKeplkIzvjRkYXb63AzIpcuRzdGDV4Wm1DoO/RyvkqUxTvwHPigBqI4HHRvm24zipHw4Ym31YE43qjNbAinp6gcnW+mo7Z8k4vDv/AOsoT+HDFd3Xb0U7H7qfGXw/bFt0JD8n4IjhacSCA=;wUGvNOLkhUPeMVK+dZu7Eg=="
+secured: "l7DbwwMHMBIYN2FPPZKW3P5WSco5PgyipWsCxO/yfnivivQnWEGCwOKjOdfYhF1oYdl65BPkBGMwqROLjP1AHRA+g7wSdUdZPy0pxZIuBnB52lZuoljTGRzusdMuSSTqRxW3NtbIQHJFuJ39GwV6/YYirzzmemBkDNIm/AOuxOOyK4hMQVzDsFfIC+x/kiesw6GfY0QJwEZwAMhk5O7oO9E+iVOJRWAk42u+6DDwOklAKgFjNtIRtpBFyp0p+Phj16ntlgVCcTD7Ku4TMDj63JJLumbk5yFQzKTvnC8cjk8D4uehClrTX92cEJPUClbGfdoSd++uaQ3pGL//qU6n/2hZWuXZuYHEJ5sIhlLNRl/aXTXcTGiApHcmiyHF/CEeMcDo0DmxS/oxegqOQAtKwoc/UEZqxi/XSCYN6aG2QYccBTvkwTMLuWNk6ma6ayEkTaVFcMXTeKmP+V/kpdHSgj9BQ1RKRD9XqiR7/cwamaGK8hufW9C5QHa+NuzVgeunjYYPMQxcQzlxQWUVy7SW5w==;t/mj6pdBDa1mmqD2m3j0rA=="
 ---
 

@@ -125,15 +125,6 @@ related:
         width: 945
         height: 630
         isCached: true
-  - title: "Facial recognition cameras set to scan crowds at King’s coronation as 11,500 police deployed"
-    excerpt: "The Metropolitan police is set to deploy live facial recognition cameras as part of ramped up security measures for King Charles III’s coronation. The force has said it intends to use the technology in central London and in order to identify people who may be deemed a threat to public safety."
-    publishedDateTime: 2023-05-03T13:13:00Z
-    webUrl: "https://inews.co.uk/news/facial-recognition-cameras-kings-coronation-police-deployed-2314018?ITO=msn"
-    type: article
-    provider:
-      name: i
-      domain: inews.co.uk
-    quality: 8
 
 secured: "l3gg5T0+XwYP5E1tUkh/L1rWCi8rIaOr66tYv18mMDOMKyHUfKOVMXibKETpl+7Pf7vK4tTMHgPQhNUV8uhNRtV+oiBk6MLbA57PEoHmC1/YCWogPbKJqh6KYQEwYUrZGeL9EpnQsQIP57zwK4vupvptzwUz3Et+TpRYqsfN81BprVWMep4y0wdGW6qq0hn9AP6qzw6HiwsY513iTPBVghycfhMPNx0405cN1ziZwGvlVOYRaLD8BzlCj2tiYz2CTUXTuMta7Noof6UcH2OAJfTlnOa2QdFw7LQS9m8Nhma0LiEhh6Ptt7AaAnjs6zYXDAuKYSsZMQBPtCeoMPQYDnR+Wz5Ji6d7qXk9mWblA9U=;49a7Qd61hxgmdL6WhBIZYA=="
 ---

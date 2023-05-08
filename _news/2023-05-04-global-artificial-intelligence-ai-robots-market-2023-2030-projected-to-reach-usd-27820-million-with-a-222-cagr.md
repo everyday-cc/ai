@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Market Size and Sales Report 2023"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. May 03, 2023 (The Expresswire) -- Global Artificial Intelligence Market Research ..."
-    publishedDateTime: 2023-05-03T13:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-and-sales-report-2023-2023-05-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
   - title: "Machine Learning Chip Market Global Analysis 2023-2030"
     excerpt: "Section 5: Research Method and Data Source. Get a Sample PDF of report @ https://www.360marketupdates.com/enquiry/request-sample/19278373 Highlights with Short Brief ..."
     publishedDateTime: 2023-05-04T12:10:00Z

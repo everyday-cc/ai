@@ -28,7 +28,7 @@ related:
   - title: "Machine Learning Used To Engineer Molecular Interactions"
     excerpt: "By using deep learning-generated ‘fingerprints’ to characterize millions of protein fragments, researchers have computationally designed novel protein binders that attach seamlessly to key targets, including the SARS-CoV-2 spike protein."
     publishedDateTime: 2023-05-04T15:41:00Z
-    webUrl: "https://www.technologynetworks.com/tn/news/machine-learning-used-to-engineer-molecular-interactions-372944"
+    webUrl: "https://www.technologynetworks.com/informatics/news/machine-learning-used-to-engineer-molecular-interactions-372944"
     type: article
     provider:
       name: technologynetworks

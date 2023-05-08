@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/opinion/opinion-california-wrong-to-expand-f
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/opinion/opinion-california-wrong-to-expand-facial-recognition-use?_amp=true"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -55,15 +55,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "California’s wrong to expand the use of facial recognition systems"
-    excerpt: "As technology advances, so too do the challenges surrounding the protection of the public’s privacy and our civil liberties."
-    publishedDateTime: 2023-05-03T15:00:00Z
-    webUrl: "https://www.ocregister.com/2023/05/03/state-wrong-to-expand-use-of-face-id-systems/"
-    type: article
-    provider:
-      name: Orange County Register
-      domain: ocregister.com
-    quality: 19
 
 secured: "RzlJ21M9KbREbedwn3MsR1TFc9ogfoUNMpRnr2JR75z4o4QiDRTO3lP/T1OXstKZxz7TDPUd+QuaYkt5RIErUAJcLcD8mgKJ+osVC+YJuPeR2Rr7Fv6ulFqQK2Tezqidly2K1dHdNG4KAGC0TlkkSawjA7DgWnLcy6ISetiNLiqqG1Sh7wWEapB4IeRwdW01V5HgsR/xBUCbyxKAz0nBJG4N/u1TUv6OXiABIWy3znREE7WeYWm5ENOXoHWWdG9QsWkGgRay31WeYwWFWIQ7L0xw1hwfMS+0Yv1pwyUILXwo2Eym9YcoNCUQ6/1T4RmklV7n/ny0kiWG4L7L1vaePFyADLd5FZ63fxiPnAGcjvvvHCiOW78KpG07eDUse03UFmJRiZsloi2J/RrWLlOa/lwO3LFP4C4lUmI+kbtFby0Pj13TLdyRBYrpPyvV52XKSND1e3lWdM7eScl/f+4po7KyxjAKmySKKO67F6RrvskXf84ESFBauRUIk3LhktUg+iSeiY3nktcJvyyuKOpLWQ==;MRa22opGOGrrarwqmJEIcg=="
 ---

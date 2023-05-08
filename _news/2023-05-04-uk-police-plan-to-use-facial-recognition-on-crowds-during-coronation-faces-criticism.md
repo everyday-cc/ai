@@ -126,15 +126,6 @@ related:
       name: Toronto Star
       domain: thestar.com
     quality: 14
-  - title: "Facial recognition cameras set to scan crowds at King’s coronation as 11,500 police deployed"
-    excerpt: "The Metropolitan police is set to deploy live facial recognition cameras as part of ramped up security measures for King Charles III’s coronation. The force has said it intends to use the technology in central London and in order to identify people who may be deemed a threat to public safety."
-    publishedDateTime: 2023-05-03T13:13:00Z
-    webUrl: "https://inews.co.uk/news/facial-recognition-cameras-kings-coronation-police-deployed-2314018?ITO=msn"
-    type: article
-    provider:
-      name: i
-      domain: inews.co.uk
-    quality: 8
 
 secured: "UMFcAFPrpwhY1ufXETJEAFq6S8GZYl61KB1K+x9Hoku5eaIi3EQwIEJRiov6pDU2UAQRdl3/cPikx4L/I+1DZLxYXwTG1041ONASddsa+XhlgYs8ofZXduFz4kvxMAdZ10xws6musoTRHI4anscIwZQssr2gWjJEnaukb0P5fAapJ1mq9uh4B5k6F4RMCpurm1SOycubNEfEsNdKQhNQcadFl5GIZc09JAZzkeyNeUTtcjb1zfqH7JEiAXGg/88PzOZZ4f4sS0ceu05twIv3N85A57RP29rcLXthaW6986G9KQ58k4sB8e71F0lyLGx0skIZznu3bUUYN/6+hkizxjKehucd9aZoww/AmdRd7Ss=;wTA8SElnvQNg7JzF18YbjA=="
 ---

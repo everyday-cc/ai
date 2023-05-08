@@ -55,15 +55,6 @@ related:
         width: 400
         height: 267
         isCached: true
-  - title: "California’s wrong to expand the use of facial recognition systems"
-    excerpt: "As technology advances, so too do the challenges surrounding the protection of the public’s privacy and our civil liberties."
-    publishedDateTime: 2023-05-03T15:00:00Z
-    webUrl: "https://www.ocregister.com/2023/05/03/state-wrong-to-expand-use-of-face-id-systems/"
-    type: article
-    provider:
-      name: Orange County Register
-      domain: ocregister.com
-    quality: 19
 
 secured: "to4WKok46iice2G53ks8ZG/+VrJLP+FzyTR0xjTSCUlQxfphiiY0KLh2YI9nEl/jhiKMlyzNfTaQT0mG6i60qAqUBlm0saKuC5fUIn2Htn9J2g4fjY6ZjQVjTzqjCs0pCX0WiVylJQYjtaV+ED6UyfzL9rHZlP4NU3QqgyCJ5dzxlueyWKuNtoRzDzGaiF+lJqwywfejWM2nLytcVhYVCabwF9CyihXhdnFpGxBVI8u7OQHXO1Z1q36/qirQ3AJLEdkYR6+RgatHZ9RyvJG2FeTbht//3P5JbMAmjjrV6pi13Z/Atyfw+x1sYO+2nIDHyKtO6eWwxCQYU2l8CelgMvA1bCg8ldWuWwMZ87AtcZPY/PrDnpDemGPQqbbSSr/yK2hN34MgH2UEdgIX9fT/0Fva4nD4DBJy5qXAis9/m7e1HKoESrTsLO5Zu3tXB4hafAarTk1WIVOWYikaXOzjBk1D5LDKGA07y70jbsWkCF5t41WcoDHebJeC9LDOSs2B+Ajb4+27R7iBHE9ClflTIA==;OaZXR/LBkPVpwQulaIvUlQ=="
 ---
