@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/may/07/a-race-it-might-b
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/07/a-race-it-might-be-impossible-to-stop-how-worried-should-we-be-about-ai"
 type: article
 quality: 55
-heat: 65
+heat: -1
 published: false
 
 provider:
@@ -30,6 +30,54 @@ images:
     isCached: true
 
 related:
+  - title: "Should We Be Worried About AI? I Thought Not, Until I Asked An AI"
+    excerpt: "With the introduction of ChatGPT last November, millions of people suddenly discovered that AI was far, far more than just a research activity. The range and sophistication of ChatGPT’s answers to questions across a wide range of disciplines is,"
+    publishedDateTime: 2023-05-08T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/stevensalzberg/2023/05/08/should-we-be-worried-about-ai-i-thought-not-until-i-asked-an-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/stevensalzberg/2023/05/08/should-we-be-worried-about-ai-i-thought-not-until-i-asked-an-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevensalzberg/2023/05/08/should-we-be-worried-about-ai-i-thought-not-until-i-asked-an-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6457a40845ad46981d9c02fc/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Rise of artificial intelligence is inevitable but should not be feared, ‘father of AI’ says"
+    excerpt: "Jürgen Schmidhuber believes AI will progress to the point where it surpasses human intelligence and will pay no attention to people"
+    publishedDateTime: 2023-05-06T23:21:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/may/07/rise-of-artificial-intelligence-is-inevitable-but-should-not-be-feared-father-of-ai-says"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/07/rise-of-artificial-intelligence-is-inevitable-but-should-not-be-feared-father-of-ai-says"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/07/rise-of-artificial-intelligence-is-inevitable-but-should-not-be-feared-father-of-ai-says"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 62
+    images:
+      - url: "https://i.guim.co.uk/img/media/f2a30653e070396966e3a4e43f03d1a7986757d2/1341_236_5335_3201/master/5335.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1170583493e429e9fd50edf6fe85387e"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "AgileThought Launches New Applied AI Guild"
+    excerpt: "Cognitive Services and AI Ethics and Governance. AgileThought experts will work closely with clients to understand their specific needs and develop customized solutions that fit their business goals. \"We are committed to helping our clients stay at the ..."
+    publishedDateTime: 2023-05-04T17:24:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/05/g32220847/agilethought-launches-new-applied-ai-guild"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32220847"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32220847"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "What should investors know about AI?"
     excerpt: "Rather than having human logic, he said ChatGPT can be better described as hyper-scale pattern recognition. One instance of how AI is already being used in the business is through chatbots like those constructed on extensive language models. The main point of consideration for investors is if AI finally hit an economic climax."
     publishedDateTime: 2023-05-05T12:43:00Z

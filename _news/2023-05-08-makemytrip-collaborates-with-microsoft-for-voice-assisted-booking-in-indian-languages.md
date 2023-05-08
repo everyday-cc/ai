@@ -105,6 +105,50 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "MakeMyTrip ties up with Microsoft for voice-assisted bookings in Indian languages"
+    excerpt: "Initially, a select group of MakeMyTrip users will have access to the voice-assisted feature in English and Hindi."
+    publishedDateTime: 2023-05-08T09:55:00Z
+    webUrl: "https://www.livemint.com/companies/news/makemytrip-ties-up-with-microsoft-for-voice-assisted-bookings-in-indian-languages-11683538682166.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/makemytrip-ties-up-with-microsoft-for-voice-assisted-bookings-in-indian-languages/amp-11683538682166.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/makemytrip-ties-up-with-microsoft-for-voice-assisted-bookings-in-indian-languages/amp-11683538682166.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 54
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/05/08/600x338/2-0-484082893-makemytrip-5-0_1680774306608_1683539479338.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "MakeMyTrip introduces Microsoft AI to make travel more inclusive, accessible"
+    excerpt: "MakeMyTrip introduces Microsoft AI to make travel more inclusive, accessible - Leading online travel company MakeMyTrip said it has collaborated with Microsoft to make travel planning"
+    publishedDateTime: 2023-05-08T11:37:00Z
+    webUrl: "https://www.siliconindia.com/news/general/makemytrip-introduces-microsoft-ai-to-make-travel-more-inclusive-accessible-nid-222799-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 51
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/fW35MAc4.jpg"
+        width: 570
+        height: 367
+        isCached: true
+  - title: "Makemytrip Collaborates With Microsoft To Reshape The Travel Booking Landscape With Generative AI"
+    excerpt: "In a landmark move, MakeMyTrip has collaborated with Microsoft to make travel planning more inclusive and accessible by intro"
+    publishedDateTime: 2023-05-08T10:37:00Z
+    webUrl: "https://menafn.com/1106196713/Makemytrip-Collaborates-With-Microsoft-To-Reshape-The-Travel-Booking-Landscape-With-Generative-AI"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 41
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?633811"
+        width: 333
+        height: 250
+        isCached: true
   - title: "MakeMyTrip announces its collaboration with Microsoft"
     excerpt: "MakeMyTrip has collaborated with Microsoft to make travel planning more inclusive and accessible by introducing voice assisted booking in Indian languages. The new, in-platform tech stack powered by Microsoft Azure OpenAI Service and Azure Cognitive Services,"
     publishedDateTime: 2023-05-08T07:52:00Z
@@ -159,6 +203,6 @@ related:
       domain: indiatimes.com
     quality: 27
 
-secured: "b6hbPdEzPOAHRHxuDYICt8hjIboH6AfQnbQALjU14lRKjAlPj4Dg0TbRS28nc2fxcK5GS1QQ7jTEBTqD3fFxLSh6HqNJZUo042GGjHGXjxXmViWN1HeCmVeCRknZGgreNker6+oSCyXdcgpflkhhAecTFbKhQFx7QqXT0hc7kjPj+nW2WvKqsVxehuiy1zHaoIRsoa1QSuVdZV1FOeaD0xmHpCBxDwgnBnic12wXWzNzA0jeHXXICbKiyADH/wdfKxtDS9QFAf/U+6SRwV1DVy3SSeLezfvGromEmnIoeStUKI+5xXlX9T+n32af+c2XzcQObzVm7dX+dyTehpRueDP/bOTb5IvOaxQZWXKc2v4=;NC3uefjf0ZMco0A+/mu4bg=="
+secured: "302Cd9Phkl+0eeYk1GQGQ4Ps3IVwNAOBM8nEblgsSjuPCnC0AkrIsA58qD7cqSSKwK2Fy32p3Cki8z9UcgWjE4c4fAhY1DOgJYguGc3wVoM+P1Tf86wtjHMN+uHrU37pX4WSRPYmsXCbsOSu00wzv66owGU4kBy2tQauCrlBkvNQEpMNtZ6a3Oj0/xmm0wZBr7MnzSYJGc0GUzGEkEGUtHf9Mva3Sy2amxyzpvJLps0aRhc/6uqI3cjICixVR77chQyYhRF6060556ZRLL8uEY9fpTYylVwBRxP1jKMC0e6vDSK4TUui5bJ80o0Cbji2dewL7ga5x9iCSxYGiO15uShBoQGs4o0R2oGj2i48XC5R+wItGGFbSHgqdke2mv4pmNvKC8kLccgrcnZx+Xg4aO1NCBmohJUgzhxXCfAYjaVQzeDr7aZijuuwzkQgF6hgPfyiS5RI1j875w4ms1INDWl1nACbLBl5h2nToCZvWPGsSDRg0f/eAg+8NQ2unUeU4ZiewrzOks+D8Qs6l/pVCg==;zYpdzMn6J8FNgD0QbGfXAw=="
 ---
 

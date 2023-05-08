@@ -99,6 +99,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "MakeMyTrip ties up with Microsoft for voice-assisted bookings in Indian languages"
+    excerpt: "Initially, a select group of MakeMyTrip users will have access to the voice-assisted feature in English and Hindi."
+    publishedDateTime: 2023-05-08T09:55:00Z
+    webUrl: "https://www.livemint.com/companies/news/makemytrip-ties-up-with-microsoft-for-voice-assisted-bookings-in-indian-languages-11683538682166.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/makemytrip-ties-up-with-microsoft-for-voice-assisted-bookings-in-indian-languages/amp-11683538682166.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/makemytrip-ties-up-with-microsoft-for-voice-assisted-bookings-in-indian-languages/amp-11683538682166.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 54
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/05/08/600x338/2-0-484082893-makemytrip-5-0_1680774306608_1683539479338.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "MakeMyTrip collaborates with Microsoft for voice-assisted booking in Indian languages"
     excerpt: "Read more about MakeMyTrip collaborates with Microsoft for voice-assisted booking in Indian languages on Devdiscourse"
     publishedDateTime: 2023-05-08T08:50:00Z
@@ -114,6 +130,34 @@ related:
       - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/29_11_2021_13_10_29_7850503.jpg?width=1280"
         width: 1280
         height: 960
+        isCached: true
+  - title: "MakeMyTrip introduces Microsoft AI to make travel more inclusive, accessible"
+    excerpt: "MakeMyTrip introduces Microsoft AI to make travel more inclusive, accessible - Leading online travel company MakeMyTrip said it has collaborated with Microsoft to make travel planning"
+    publishedDateTime: 2023-05-08T11:37:00Z
+    webUrl: "https://www.siliconindia.com/news/general/makemytrip-introduces-microsoft-ai-to-make-travel-more-inclusive-accessible-nid-222799-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 51
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/fW35MAc4.jpg"
+        width: 570
+        height: 367
+        isCached: true
+  - title: "Makemytrip Collaborates With Microsoft To Reshape The Travel Booking Landscape With Generative AI"
+    excerpt: "In a landmark move, MakeMyTrip has collaborated with Microsoft to make travel planning more inclusive and accessible by intro"
+    publishedDateTime: 2023-05-08T10:37:00Z
+    webUrl: "https://menafn.com/1106196713/Makemytrip-Collaborates-With-Microsoft-To-Reshape-The-Travel-Booking-Landscape-With-Generative-AI"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 41
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?633811"
+        width: 333
+        height: 250
         isCached: true
   - title: "MakeMyTrip announces its collaboration with Microsoft"
     excerpt: "MakeMyTrip has collaborated with Microsoft to make travel planning more inclusive and accessible by introducing voice assisted booking in Indian languages. The new, in-platform tech stack powered by Microsoft Azure OpenAI Service and Azure Cognitive Services,"

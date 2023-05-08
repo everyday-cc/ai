@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pennlive.com/nation-world/2023/05/scientists-warn-of-gro
 cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/nation-world/2023/05/scientists-warn-of-growing-ai-dangers-but-dont-agree-fully-on-solutions.html?outputType=amp"
 type: article
 quality: 58
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -41,6 +41,17 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "Former Google Scientist Warns About the Dangers of Artificial Intelligence"
+    excerpt: "Systems can generate convincing audio and photorealistic-style images and video, sometimes modeled after real people."
+    publishedDateTime: 2023-05-08T10:30:00Z
+    webUrl: "https://www.ncregister.com/cna/former-google-scientist-warns-about-the-dangers-of-artificial-intelligence"
+    ampWebUrl: "https://www.ncregister.com/cna/former-google-scientist-warns-about-the-dangers-of-artificial-intelligence?amp"
+    cdnAmpWebUrl: "https://www-ncregister-com.cdn.ampproject.org/c/s/www.ncregister.com/cna/former-google-scientist-warns-about-the-dangers-of-artificial-intelligence?amp"
+    type: article
+    provider:
+      name: National Catholic Register
+      domain: ncregister.com
+    quality: 37
   - title: "Scientists warn of AI dangers but don't agree on solutions"
     excerpt: "Computer scientists who helped build the foundations of today’s artificial intelligence technology are warning of its dangers, but that doesn’t mean they agree on what those dangers are or how to prev"
     publishedDateTime: 2023-05-03T19:03:00Z

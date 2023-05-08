@@ -93,6 +93,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "MakeMyTrip ties up with Microsoft for voice-assisted bookings in Indian languages"
+    excerpt: "Initially, a select group of MakeMyTrip users will have access to the voice-assisted feature in English and Hindi."
+    publishedDateTime: 2023-05-08T09:55:00Z
+    webUrl: "https://www.livemint.com/companies/news/makemytrip-ties-up-with-microsoft-for-voice-assisted-bookings-in-indian-languages-11683538682166.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/makemytrip-ties-up-with-microsoft-for-voice-assisted-bookings-in-indian-languages/amp-11683538682166.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/makemytrip-ties-up-with-microsoft-for-voice-assisted-bookings-in-indian-languages/amp-11683538682166.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 54
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/05/08/600x338/2-0-484082893-makemytrip-5-0_1680774306608_1683539479338.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "MakeMyTrip collaborates with Microsoft for voice-assisted booking in Indian languages"
     excerpt: "Read more about MakeMyTrip collaborates with Microsoft for voice-assisted booking in Indian languages on Devdiscourse"
     publishedDateTime: 2023-05-08T08:50:00Z
@@ -108,6 +124,34 @@ related:
       - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/29_11_2021_13_10_29_7850503.jpg?width=1280"
         width: 1280
         height: 960
+        isCached: true
+  - title: "MakeMyTrip introduces Microsoft AI to make travel more inclusive, accessible"
+    excerpt: "MakeMyTrip introduces Microsoft AI to make travel more inclusive, accessible - Leading online travel company MakeMyTrip said it has collaborated with Microsoft to make travel planning"
+    publishedDateTime: 2023-05-08T11:37:00Z
+    webUrl: "https://www.siliconindia.com/news/general/makemytrip-introduces-microsoft-ai-to-make-travel-more-inclusive-accessible-nid-222799-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 51
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/fW35MAc4.jpg"
+        width: 570
+        height: 367
+        isCached: true
+  - title: "Makemytrip Collaborates With Microsoft To Reshape The Travel Booking Landscape With Generative AI"
+    excerpt: "In a landmark move, MakeMyTrip has collaborated with Microsoft to make travel planning more inclusive and accessible by intro"
+    publishedDateTime: 2023-05-08T10:37:00Z
+    webUrl: "https://menafn.com/1106196713/Makemytrip-Collaborates-With-Microsoft-To-Reshape-The-Travel-Booking-Landscape-With-Generative-AI"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 41
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?633811"
+        width: 333
+        height: 250
         isCached: true
   - title: "MakeMyTrip announces its collaboration with Microsoft"
     excerpt: "MakeMyTrip has collaborated with Microsoft to make travel planning more inclusive and accessible by introducing voice assisted booking in Indian languages. The new, in-platform tech stack powered by Microsoft Azure OpenAI Service and Azure Cognitive Services,"
@@ -163,6 +207,6 @@ related:
       domain: indiatimes.com
     quality: 27
 
-secured: "5EMCgP3znT7Qe6KOQbM6Z+NSZLwo5Tbf+jd3BgstNIZTFxfocsJHbl981Wa+d/sZmXbRVJxWQ3UyTS3JcCR0L0uBGbZ+AGzWGZV00MHPiTxrupNTIoXpl86I1ZVYbnpgK7Iqm2nNac6iBHtTYiX6lTGe4pEZzChiyrdVw9xMW4bYtt2q11yzLsfhMaAxCXaLP31mweNSf6FDcPIKPnfDOEzILP/2iEBjbo43bJBp5fXCTo4xwFoUTbYd4jFKQQ6QmnI/cZrK5TVy77LDOVHDGJ8U/sL+qVmJ4DnCVcl/ebb9SlViChwLxE1pnA4byKQXONZDHFGvw/2mq7f3HNF7gum9HNvzBD/Pj2/+cazbgZE=;or7lsaimz8irPKvaoKpd9A=="
+secured: "rwa62lFRGjr42xTpyZYKd24VjbKmmCksoOINhAsomLpSEKtak2lSdSG8wDjTfxPMfJcxhyr7e0vKTxzjNz+zSflhS/tM3TqbYJcCTV3a1FZ6E1CvavAcjb51C7gJaAuT7aLEfZEymCRzaujrQr2RYpTZEs9+VWz7LvQX+cmdppr5ftDzQKknSAO+AcvaPuVGaf8DuN0olXxIBi4lQgByGm8BXmTkRIg7hk5TMipOT1Gyn9SXIxonj1E5GC8aME+KbQcfuUk/YM9NpFRI7PzIal6Cbl54lZv88J/MXPbokuNe3YbI2rUzRNbPxV0ZyJYDSoE0eih0j+ZsbQaCSUpOfgqVogYI51vlH7Yq53IxbkbWAKYq3I7Nn4yMD2O3oB8a6r8uegjPK+XxVuRvbec34MM1fho6ObQTcNbrjK2zcVbKsil8ulFZ89qP+pXLqrfQlPQwWp9j9gHX3uiITUnt2Mt1uVyMWwuAaF/VXHDE6BNmrpxamhFEHIayTPpCgHPdwE0dUQPUIdzuJxl46Jk43Q==;rtgPb30ydjO1OpGwJpX8RQ=="
 ---
 

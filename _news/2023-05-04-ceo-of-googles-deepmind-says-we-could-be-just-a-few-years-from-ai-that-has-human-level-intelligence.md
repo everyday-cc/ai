@@ -9,7 +9,7 @@ ampWebUrl: "https://fortune.com/2023/05/03/google-deepmind-ceo-agi-artificial-in
 cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/05/03/google-deepmind-ceo-agi-artificial-intelligence/amp/"
 type: article
 quality: 72
-heat: 152
+heat: 142
 published: true
 
 provider:
@@ -130,15 +130,6 @@ related:
       name: AOL
       domain: aol.com
     quality: 34
-  - title: "AI could have ‘human-level’ intelligence in next few years, Google DeepMind CEO says"
-    excerpt: "Google DeepMind CEO Demis Hassabis touted rapid gains in the development of so-called “artificial general intelligence,” which he defined as an advanced AI system with “human-level cognitive abilities.”"
-    publishedDateTime: 2023-05-03T18:12:00Z
-    webUrl: "https://nypost.com/2023/05/03/ai-could-have-human-level-intelligence-in-next-few-years-google-deepmind-ceo-says/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 29
 
 secured: "PBaZ5lWCOExAyn5IYtp8SyfdlEccoeJ2sbgqvEXKS01sghcw5bOE2ocUGr2R/jBh3FwodMsE5N+55DrIk36rqmjk0mr8toPAMW/VdxpPAa4a4X11qcJlKtiuz5iO/NuksiCqStArAOu8R5xav78FaX/8iEse1ZyPQw4KHgyRVJYfJfODcXcX0tT0S3p4lbx5HDYmaMeVgmL2cQUbK2rwQxqMgzCmctbd115j80WMmdXVgRcCoxgFutSZKyysKOuOfdxL+3d9kz2LxuKHxGS5R5uIW3iCcJwB7mmqKEzKlK9Go/tq4gyyttDSIOlmHSKLbowbWaj8l/WIHU1y24ef8qiSFHx6enHkxBTucTg/jlY=;5Kye52fqb6FRBSDywI4/7w=="
 ---

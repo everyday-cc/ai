@@ -24,21 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Explained | What is the EU’s Artificial Intelligence Act and how does it plan to rein in tech like ChatGPT?"
-    excerpt: "As artificial intelligence technologies become omnipresent and their algorithms more advanced—capable of performing a wide variety of tasks including voice assistance, recommending music, driving cars, detecting cancer, and even deciding whether you get shortlisted for a job— the risks and uncertainties associated with them have also ballooned."
-    publishedDateTime: 2023-05-03T17:13:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/explained-what-is-the-eus-artificial-intelligence-act-and-how-does-it-plan-to-rein-in-tech-like-chatgpt/article66794478.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/explained-what-is-the-eus-artificial-intelligence-act-and-how-does-it-plan-to-rein-in-tech-like-chatgpt/article66794478.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/explained-what-is-the-eus-artificial-intelligence-act-and-how-does-it-plan-to-rein-in-tech-like-chatgpt/article66794478.ece/amp/"
+  - title: "No Business Plan? No Problem. ChatGPT Spawns an Investor Gold Rush in AI"
+    excerpt: "It is boom times for startups touting generative artificial intelligence technology."
+    publishedDateTime: 2023-05-08T09:00:00Z
+    webUrl: "https://www.wsj.com/articles/no-business-plan-no-problem-chatgpt-spawns-an-investor-gold-rush-in-ai-6bdbed3c"
     type: article
     provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 56
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 66
     images:
-      - url: "https://th-i.thgim.com/public/incoming/n82nfe/article66809441.ece/alternates/FREE_1200/iStock-1474442258.jpg"
-        width: 1200
-        height: 675
+      - url: "https://images.wsj.net/im-776000/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "AI startup Inflection Started by Hoffman and Suleyman, Introduces ChatGPT-like Chatbot"
     excerpt: "An artificial intelligence startup Inflection AI, started by Reid Hoffman and Mustafa Suleyman, has launched its first AI chatbot product."
@@ -55,6 +53,45 @@ related:
       - url: "https://enterprisetalk.com/wp-content/uploads/2023/05/AI-startup-Inflection-Started-by-Hoffman-and-Suleyman-Introduces.jpg"
         width: 1500
         height: 844
+        isCached: true
+  - title: "Gartner: ChatGPT has prompted increase in AI investments"
+    excerpt: "A Gartner poll shows that 45% reported that the publicity of ChatGPT has prompted them to increase AI investments."
+    publishedDateTime: 2023-05-07T23:30:00Z
+    webUrl: "https://techwireasia.com/2023/05/gartner-chatgpt-has-prompted-increase-in-ai-investments/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 39
+    images:
+      - url: "https://cdn.techwireasia.com/wp-content/uploads/2023/05/shutterstock_2261871805-897x500.jpg"
+        width: 897
+        height: 500
+        isCached: true
+  - title: "Could AI pen ‘Casablanca’? Screenwriters take aim at ChatGPT"
+    excerpt: "Not six months since the release of ChatGPT, generative artificial intelligence is already prompting widespread unease throughout Hollywood."
+    publishedDateTime: 2023-05-05T13:45:00Z
+    webUrl: "https://www.seattletimes.com/business/could-ai-pen-casablanca-screenwriters-take-aim-at-chatgpt/"
+    ampWebUrl: "https://www.seattletimes.com/business/could-ai-pen-casablanca-screenwriters-take-aim-at-chatgpt/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/could-ai-pen-casablanca-screenwriters-take-aim-at-chatgpt/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 37
+  - title: "Could AI pen 'Casablanca'? Screenwriters take aim at ChatGPT"
+    excerpt: "When Greg Brockman, the president and co-founder of ChatGPT maker OpenAI, was recently extolling the capabilities of artificial intelligence, he turned to “Game of Thrones.” Imagine, he said, if you could use AI to rewrite the ending of that not-so-popular finale."
+    publishedDateTime: 2023-05-05T17:46:00Z
+    webUrl: "https://www.chron.com/entertainment/article/could-ai-pen-casablanca-screenwriters-take-aim-18081098.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 37
+    images:
+      - url: "https://s.hdnux.com/photos/01/32/60/06/23790004/3/rawImage.jpg"
+        width: 2048
+        height: 1365
         isCached: true
   - title: "In 30 secs, ChatGPT produces 643 words on India and AI; Edge manages just 143"
     excerpt: "ChatGPT seemed more comprehensive at 643 words, while the Edge version was terse at 163 words, but it included footnotes with citations."

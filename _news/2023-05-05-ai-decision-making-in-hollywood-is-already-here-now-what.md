@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Hollywood’s Screenwriters Are Right to Fear AI"
+    excerpt: "The Writers Guild of America’s demands for guardrails on artificial intelligence are a smart move—and the stakes are higher than ever."
+    publishedDateTime: 2023-05-08T11:00:00Z
+    webUrl: "https://www.wired.com/story/hollywood-screenwriters-artificial-intelligence-guardrails/"
+    ampWebUrl: "https://www.wired.com/story/hollywood-screenwriters-artificial-intelligence-guardrails/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/hollywood-screenwriters-artificial-intelligence-guardrails/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 87
+    images:
+      - url: "https://media.wired.com/photos/645594d6da92561daff9397d/master/pass/Hollywood%E2%80%99s-Screenwriters-Are-Right-to-Fear-AI-Culture-GettyImages-108903032.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
   - title: "In Hollywood Strike, AI Is Nemesis"
     excerpt: "If the Netflix algorithm is unable to recommend a show we’ll like, maybe it can create one instead."
     publishedDateTime: 2023-05-05T20:38:00Z
@@ -55,15 +71,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "AI vs. Hollywood: Writers battle “plagiarism machines” in union talks"
-    excerpt: "But in particular, Reuters reports that WGA writers have two main concerns about automation in writing, quoting screenwriter John August, who is part of the WGA negotiating committee: They don't want their material to be used as training data for AI systems,"
-    publishedDateTime: 2023-05-03T18:38:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2023/05/ai-vs-hollywood-writers-battle-plagiarism-machines-in-union-talks/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 47
   - title: "The next fear on AI: Hollywood’s killer robots become the military’s tools | Analysis"
     excerpt: "U.S. national security officials are warning about the potential for the new technology to upend war, cyber conflict and — in the most extreme case — the use of nuclear weapons."
     publishedDateTime: 2023-05-06T02:18:00Z

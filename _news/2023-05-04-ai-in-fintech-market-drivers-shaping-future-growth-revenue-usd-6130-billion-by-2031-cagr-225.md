@@ -25,20 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "Neural Network Market To Grow At 26.7% CAGR By 2030 | Current Trends, Forecast & Growth Drivers"
-    excerpt: "Neural Network Market Forecast Advancement in the field of AI industry and growth in cloud disruption in the modern industry boost the gr"
-    publishedDateTime: 2023-05-07T06:42:00Z
-    webUrl: "https://menafn.com/1106191684/Neural-Network-Market-To-Grow-At-267-CAGR-By-2030-Current-Trends-Forecast-Growth-Drivers"
+  - title: "Fintech firm Fundly.ai bags $3 million in seed funding"
+    excerpt: "Mumbai-based fintech startup Fundly.ai on Sunday said it has raised $3 million in a seed funding round, led by Accel. Other investors in the round included Multiply Ventures and other angel investors."
+    publishedDateTime: 2023-05-08T07:26:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/funding/fintech-firm-fundly-ai-bags-3-million-in-seed/articleshow/100057182.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/funding/fintech-firm-fundly-ai-bags-3-million-in-seed/amp_articleshow/100057182.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/fintech-firm-fundly-ai-bags-3-million-in-seed/amp_articleshow/100057182.cms"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 27
-    images:
-      - url: "https://menafn.com/updates/pr/2023-05/07/EP_1f680image_story.jpeg"
-        width: 890
-        height: 466
-        isCached: true
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 39
 
 secured: "MhQqZvFVaBUr25MxI01hcZ+Etlzmxe6+UoHYVANSSMvx/SjmaDXfxRXGzIj+AFXbqFGb0170xDnDvesTHdLsocwddlp4K1jofxw5f9bwjWyJxOd/ijmjE8zNzd9oy4aLlfIdwhn1WWNQIC+rLWopD9A9Mtnzloilr1msQeQE6lCJJFF+obOVayopHvawFbwtvxZmxGnP7f8RWjBNvfXM22ZLEw6L7hlsY9rfQZsndHOpCWunBQsdq1lJUx3CUeEIt/3alwV2w751GOr0TBB4PI3FIaQL+4je1rgQ0HUWwGT9M8N00hTqbQDEWOHSbx9PzKkJfco6xSfj7nwhAGb6zpp+ipn8JY27Ua8Q4qQkyzY=;+nMrxJp6nGRuoC1cPzx79w=="
 ---

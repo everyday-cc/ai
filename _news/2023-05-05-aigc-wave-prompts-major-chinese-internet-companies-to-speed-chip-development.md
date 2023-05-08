@@ -39,6 +39,36 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "China is developing AI without US chips: Here's how"
+    excerpt: "The report revealed that local Chinese companies are working on ways to develop AI with weaker semiconductors along with combinations of chips to stop the reliance on one type of hardware."
+    publishedDateTime: 2023-05-08T08:22:00Z
+    webUrl: "https://cointelegraph.com/news/china-is-developing-ai-without-us-chips-here-s-how"
+    ampWebUrl: "https://cointelegraph.com/news/china-is-developing-ai-without-us-chips-here-s-how/amp"
+    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/china-is-developing-ai-without-us-chips-here-s-how/amp"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 74
+    images:
+      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-05/945d6562-7cc8-4c63-9ad5-3bc1eacd921a.jpg"
+        width: 740
+        height: 492
+        isCached: true
+  - title: "Chinese think they can do AI with weaker chips"
+    excerpt: "Avoiding US sanctions  While the US thinks that it can delay China's rise in power by forbidding the sale of high powered chips to the Middle Kingdom, it seems that is doomed to fail. According to a report from the Wall Street Journal,"
+    publishedDateTime: 2023-05-08T10:41:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/56847-chinese-think-they-can-do-ai-with-weaker-chips"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 54
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/213f473a5cd1c97e9ee0f7bcc7d4bde7_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
   - title: "Chinese voice-recognition company iFlytek unveils ChatGPT rival"
     excerpt: "Chinese voice-recognition company iflytek Co. has entered the race to build a rival to OpenAI Inc.’s ChatGPT, with a live demonstration of its artificial intelligence model for educational and enterprise uses,"
     publishedDateTime: 2023-05-07T11:40:00Z

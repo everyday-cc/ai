@@ -49,6 +49,17 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "Former Google Scientist Warns About the Dangers of Artificial Intelligence"
+    excerpt: "Systems can generate convincing audio and photorealistic-style images and video, sometimes modeled after real people."
+    publishedDateTime: 2023-05-08T10:30:00Z
+    webUrl: "https://www.ncregister.com/cna/former-google-scientist-warns-about-the-dangers-of-artificial-intelligence"
+    ampWebUrl: "https://www.ncregister.com/cna/former-google-scientist-warns-about-the-dangers-of-artificial-intelligence?amp"
+    cdnAmpWebUrl: "https://www-ncregister-com.cdn.ampproject.org/c/s/www.ncregister.com/cna/former-google-scientist-warns-about-the-dangers-of-artificial-intelligence?amp"
+    type: article
+    provider:
+      name: National Catholic Register
+      domain: ncregister.com
+    quality: 37
   - title: "Scientists warn of AI dangers but don’t agree on solutions"
     excerpt: "Margaret Mitchell, a former leader on Google’s AI ethics team, said she’s upset that Hinton didn’t speak out during his decade in a position of power at Google, especially after the 2020 ouster of prominent Black scientist Timnit Gebru, who had ..."
     publishedDateTime: 2023-05-04T18:21:00Z

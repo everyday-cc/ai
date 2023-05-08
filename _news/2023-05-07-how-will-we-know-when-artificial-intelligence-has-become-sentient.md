@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/finance/how-will-we-know-when-artific
 webUrl: "https://www.entrepreneur.com/finance/how-will-we-know-when-artificial-intelligence-has-become/451129"
 type: article
 quality: 73
-heat: 75
+heat: 76
 published: true
 
 provider:

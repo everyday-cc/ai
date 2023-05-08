@@ -39,15 +39,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Rapid growth of AI spurs calls for greater regulation"
-    excerpt: "The EU, encouraged by the European parliament, is drafting what could be the toughest rules on AI so far, with potential fines of up to €30mn or 6 per cent of global annual turnover."
-    publishedDateTime: 2023-05-03T17:15:00Z
-    webUrl: "https://www.ft.com/content/076da9e9-5dd9-4906-83cf-46fd99b2e9ca"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
   - title: "How AI Built This"
     excerpt: "The Information has a simple mission: deliver important, deeply reported stories about the technology business you won’t find elsewhere. Many of the most influential people in the industry turn to us for fresh information and original insight."
     publishedDateTime: 2023-05-05T18:43:00Z

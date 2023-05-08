@@ -3,14 +3,14 @@ category: news
 title: "Rise of artificial intelligence is inevitable but should not be feared, ‘father of AI’ says"
 excerpt: "Jürgen Schmidhuber believes AI will progress to the point where it surpasses human intelligence and will pay no attention to people"
 publishedDateTime: 2023-05-06T23:21:00Z
-originalUrl: "https://www.theguardian.com/technology/2023/may/07/rise-of-artificial-intelligence-is-inevitable-but-should-not-be-feared-father-of-ai-says?ref=biztoc.com"
-webUrl: "https://www.theguardian.com/technology/2023/may/07/rise-of-artificial-intelligence-is-inevitable-but-should-not-be-feared-father-of-ai-says?ref=biztoc.com"
+originalUrl: "https://www.theguardian.com/technology/2023/may/07/rise-of-artificial-intelligence-is-inevitable-but-should-not-be-feared-father-of-ai-says"
+webUrl: "https://www.theguardian.com/technology/2023/may/07/rise-of-artificial-intelligence-is-inevitable-but-should-not-be-feared-father-of-ai-says"
 ampWebUrl: "https://amp.theguardian.com/technology/2023/may/07/rise-of-artificial-intelligence-is-inevitable-but-should-not-be-feared-father-of-ai-says"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/07/rise-of-artificial-intelligence-is-inevitable-but-should-not-be-feared-father-of-ai-says"
 type: article
 quality: 62
-heat: 72
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Guardian
@@ -30,23 +30,64 @@ images:
     isCached: true
 
 related:
-  - title: "Bernie Sanders, Elon Musk and White House seeking my help, says ‘godfather of AI’"
-    excerpt: "Dr Geoffrey Hinton has been inundated with requests to talk after quitting Google to warn about risk of digital intelligence"
-    publishedDateTime: 2023-05-04T04:00:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/may/04/bernie-sanders-elon-musk-and-white-house-seeking-my-help-says-godfather-of-ai"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/04/bernie-sanders-elon-musk-and-white-house-seeking-my-help-says-godfather-of-ai"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/04/bernie-sanders-elon-musk-and-white-house-seeking-my-help-says-godfather-of-ai"
+  - title: "Should We Be Worried About AI? I Thought Not, Until I Asked An AI"
+    excerpt: "With the introduction of ChatGPT last November, millions of people suddenly discovered that AI was far, far more than just a research activity. The range and sophistication of ChatGPT’s answers to questions across a wide range of disciplines is,"
+    publishedDateTime: 2023-05-08T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/stevensalzberg/2023/05/08/should-we-be-worried-about-ai-i-thought-not-until-i-asked-an-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/stevensalzberg/2023/05/08/should-we-be-worried-about-ai-i-thought-not-until-i-asked-an-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevensalzberg/2023/05/08/should-we-be-worried-about-ai-i-thought-not-until-i-asked-an-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6457a40845ad46981d9c02fc/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "AgileThought Launches New Applied AI Guild"
+    excerpt: "Cognitive Services and AI Ethics and Governance. AgileThought experts will work closely with clients to understand their specific needs and develop customized solutions that fit their business goals. \"We are committed to helping our clients stay at the ..."
+    publishedDateTime: 2023-05-04T17:24:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/05/g32220847/agilethought-launches-new-applied-ai-guild"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32220847"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32220847"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "‘A race it might be impossible to stop’: how worried should we be about AI?"
+    excerpt: "Scientists are warning machine learning will soon outsmart humans – maybe it’s time for us to take note"
+    publishedDateTime: 2023-05-07T04:00:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/may/07/a-race-it-might-be-impossible-to-stop-how-worried-should-we-be-about-ai"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/07/a-race-it-might-be-impossible-to-stop-how-worried-should-we-be-about-ai"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/07/a-race-it-might-be-impossible-to-stop-how-worried-should-we-be-about-ai"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 52
+    quality: 55
     images:
-      - url: "https://i.guim.co.uk/img/media/5e1e45cf5e153ee39e4862b86c7738f2ff4276ce/0_274_6094_3658/master/6094.jpg?width=620&quality=85&auto=format&fit=max&s=8370298a213f321d568a0533f9a7781d"
+      - url: "https://i.guim.co.uk/img/media/d5a58004d2e175efe10d9d9423f8701fe876fa02/278_0_7279_4370/master/7279.jpg?width=620&quality=85&auto=format&fit=max&s=acba5c66020ee46b97d0bdb6cfa9663f"
         width: 620
         height: 372
         isCached: true
+  - title: "What should investors know about AI?"
+    excerpt: "Rather than having human logic, he said ChatGPT can be better described as hyper-scale pattern recognition. One instance of how AI is already being used in the business is through chatbots like those constructed on extensive language models. The main point of consideration for investors is if AI finally hit an economic climax."
+    publishedDateTime: 2023-05-05T12:43:00Z
+    webUrl: "https://www.wealthprofessional.ca/news/industry-news/what-should-investors-know-about-ai/375705"
+    type: article
+    provider:
+      name: wealthprofessional.ca
+      domain: wealthprofessional.ca
+    quality: 19
 
-secured: "hS6hwPVReQl5a2nrCi43WJZcymzWgZrY8LE4O1LRRxQJXOPEoZRJEVgvyz3fvtnNtjr9IM9tJeS5ETW3/AmjYnEQgRgAD6n5hA+fpfUufP+BbBfBy453ubxGgvDnkjiEHArgbAP5NvloI1+WzwgnP4DkP1NXKgHfDAac6C+FqrHg0TvnfwvcD5X+um3FFFEfTCd3Jpyv4ls9SSoOn6siUUTTfH6hHgwE+ci5/UmdTLlXSQBeoOC4pMoBvRCtr2IXOKxW+2VE+O8WZxOURie7rss4FHIkbXorChQ44aP5ZSzeMw8MWf+C2Sm3/KswyfV1rxhLqsULgLyekizQqq+E3G+Y52nZabgP5ONQrIsMhWOBJwV9WgdFPqMW08KyEpyzMXLsl/r5P7UuTU5jMUhxLlvJi/L8u3P6KtfQGS3i2hkd14cZcbSNVl2FEgK0LqW7u8YRetYxsc2md9SVoJEIetUhBi5AO6DIJyifujJ6/onUU/jPDM25vLcKyf/392DGmOaiOlCCr35QFPjvTMO52Q==;OzGjdX5rmzuuK+ofPcgp1w=="
+secured: "xPhcx0lp9/V5Zk6G9MUmZ2Ua7nLbTzH05zSWtg1Q7HHybBxD4SGGmz/rCa7oYHeQdQWeNScGOSpM951KkWN1mmRwj9NJWX5E40NEeYnoy173vzPAcZLVMBJQIp8eEwYaWtbDENXIHoELnOpAk9hei12pWS5VsxBp9s+nnNp3ytFgWetAGjSUzElbD3/2lyCR3+MxoZD//5lBP5p4cv6RVcdj8/Ws7FTFSw2g8PEa0aNdWrnMSMFNf3rQ2KErViuLSvog8/EOpMP7jJr8oZ7mKYYLOJGtyFcuUZdn/BAGoKTWEdGjUzcPt7mzue4hnh1wF35rY8bqc8Ee9cq80S7Sh7GwvZowyknocLmUH1nUb3U=;SBr3/ya4yinEWc0lNl6/sQ=="
 ---
 

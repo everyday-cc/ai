@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/news/world/godfather-of-artificial-intellig
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/world/godfather-of-artificial-intelligence-geoffrey-hinton-has-spoken-up-about-the-dangers-of-ai/amp-11683244206712.html"
 type: article
 quality: 64
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Here's what the 'Godfather of AI' has to say on the dangers of artificial intelligence"
+    excerpt: "Hinton mentioned that there's a recommendation on what people should do but when it comes to AI, there are no recommendations as of now. \"With climate"
+    publishedDateTime: 2023-05-08T10:14:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/heres-what-the-godfather-of-ai-has-to-say-on-the-dangers-of-artificial-intelligence/articleshow/100072438.cms"
+    ampWebUrl: "https://m.timesofindia.com/gadgets-news/heres-what-the-godfather-of-ai-has-to-say-on-the-dangers-of-artificial-intelligence/amp_articleshow/100072438.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/heres-what-the-godfather-of-ai-has-to-say-on-the-dangers-of-artificial-intelligence/amp_articleshow/100072438.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 64
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-100072587,width-1070,height-580,imgsize-84784,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1068
+        height: 580
+        isCached: true
   - title: "When the ‘Godfather of AI’ quits, we all need to start thinking"
     excerpt: "Mechanics don’t set road rules, so techies must not define the AI world, we need people outside the bubble to understand what is happening and contribute to regulations."
     publishedDateTime: 2023-05-03T23:09:00Z

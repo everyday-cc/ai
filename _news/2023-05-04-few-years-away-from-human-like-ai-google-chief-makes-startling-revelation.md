@@ -126,15 +126,6 @@ related:
       name: AOL
       domain: aol.com
     quality: 34
-  - title: "AI could have ‘human-level’ intelligence in next few years, Google DeepMind CEO says"
-    excerpt: "Google DeepMind CEO Demis Hassabis touted rapid gains in the development of so-called “artificial general intelligence,” which he defined as an advanced AI system with “human-level cognitive abilities.”"
-    publishedDateTime: 2023-05-03T18:12:00Z
-    webUrl: "https://nypost.com/2023/05/03/ai-could-have-human-level-intelligence-in-next-few-years-google-deepmind-ceo-says/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 29
 
 secured: "XUSEM35y3JgUnXBQv2MZib81q227LCUBrtsn+6XdNg+OcdiXQSCHlOY0GYv4S6BIpdUbUqRzxZOiilcaat/CR7RBLof+Ly3S4q0Txv/BV/Y1lIjSmkkvI9ZHsW8m3kU/Uja0TSNAdTam/0TioFy8iCJ27DFJzthY0mClnDWA3POab9QpRUtVV+xJ6aHVpXX5k4oHegpjMiHa5X4WDKA7mQszFzv2UPROUcHuUNNSbn1CbUDYgBV8QT58XtBtAU7pJqbXnokd6IsAMu3EcM0lA/xEvlclGIjF6s5cryAZSgSx2JvyDfUV8dJOKhG6IYBsqqv+Pa7IL4cbS28BnakS5yaqkltIrm1AEZzWwMe915o=;U59vONt7TLuxdZlb8ilyxg=="
 ---

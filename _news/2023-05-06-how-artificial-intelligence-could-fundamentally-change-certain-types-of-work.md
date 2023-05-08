@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cbsnews.com/amp/detroit/news/artificial-intelligence-cha
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/detroit/news/artificial-intelligence-chatgpt-threatens-changes-jobs-work/"
 type: article
 quality: 71
-heat: 71
-published: true
+heat: -1
+published: false
 
 provider:
   name: CBS News
@@ -25,6 +25,24 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "How 4 startups are using AI to solve climate change challenges"
+    excerpt: "These startups are using AI to decarbonize buildings, create sustainable agriculture, protect biodiversity, and remove carbon from the atmosphere."
+    publishedDateTime: 2023-05-08T11:00:00Z
+    webUrl: "https://blog.google/outreach-initiatives/entrepreneurs/how-4-startups-are-using-ai-to-solve-climate-change-challenges/"
+    ampWebUrl: "https://blog.google/outreach-initiatives/entrepreneurs/how-4-startups-are-using-ai-to-solve-climate-change-challenges/amp/"
+    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/entrepreneurs/how-4-startups-are-using-ai-to-solve-climate-change-challenges/amp/"
+    type: article
+    provider:
+      name: Google
+      domain: blog.google
+    quality: 109
+    images:
+      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2023-05-07_at_10.25.22_PM.width-1300.png"
+        width: 1300
+        height: 708
+        isCached: true
 
 secured: "w7L+WkmVinu3Jm1+laxG02ZO2SXXoQ0p/OjbJKtCKESUGZIYsc9OthzfyqxYyxK0moX5p+ltmGDWtcYNXZFPqrCIWA5usOXGNvayHMGTKrqoCU+3KFAdsGilJFpSVtLkVTh5Q/vqW6PMxOk44Ufte8pytyliBM0pBfFL9sh5UUQfo54Ptr7way3Q8Eip14+u0MXmDcK79qKztaga0DMbZByyORE/fhrZqkifQP3IEowj2+A+//wj4U5E3el3Wst3aWBCpGgONvB41/CSOVXUu3jeUQf2OtFkB1Mx9X5UHcwyC/sfmFBz3dwPG7UE8RuVt+G/poOkg1FyTTv4d6PmQtNUnxxRxHtpiKTZgYqPlHc=;RrcjHuSJahvHW39c7guMOw=="
 ---
