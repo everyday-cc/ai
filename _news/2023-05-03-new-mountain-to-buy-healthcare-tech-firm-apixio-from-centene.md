@@ -7,8 +7,8 @@ originalUrl: "https://www.pehub.com/new-mountain-to-buy-healthcare-tech-firm-api
 webUrl: "https://www.pehub.com/new-mountain-to-buy-healthcare-tech-firm-apixio-from-centene/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: PE Hub
@@ -34,15 +34,6 @@ related:
       name: St. Louis Post-Dispatch
       domain: stltoday.com
     quality: 19
-  - title: "Centene to sell health care analytics firm Apixio"
-    excerpt: "The Clayton-based provider of manages health care services is selling an analytics business it acquired about two years ago."
-    publishedDateTime: 2023-05-03T12:15:00Z
-    webUrl: "https://www.bizjournals.com/stlouis/news/2023/05/03/centene-to-sell-health-care-analytics-apixio.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 4
 
 secured: "lQvcSwxo+USzTIgMj2SoXtZrpbc4pDUbdLQ4IE2xLZWG3HBxy3ekY2PqP+o2HHvKrIx2AKQSIqSxIVYv9gn9GUVR7hoUSgPcOWvo8IMAJnQs7MOalVGIGLEFqbyQdD/+Iw92CqG6sfQWcpNCSrMCwBHbG8fItvzRFXlb+bksDRuaipFCqOzqqhBNUp7Slh6K5Qwb4HxeX5bacNW6ajS7iVrPpEjgvGXuvyS3M2b4QNezRgIFfPI7R5D/sxHd9mVP/QaXT9CT6Q9LYoi/ux56WDvyxBi2eCFPcvzJvVSSa/Ggb1YxTVDuEwUnmnNCia+i/WS7FGaNxKzEKcCvTx/pRWGgWJdNZiw3abLD1f53XBk=;PGBM0iySWklSjPEssXTxmQ=="
 ---

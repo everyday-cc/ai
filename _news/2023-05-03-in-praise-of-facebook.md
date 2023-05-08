@@ -39,15 +39,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Facebook Earnings, Generative AI and Messaging Monetization, Open Source and AI"
-    excerpt: "Meta’s earnings showed that all of Meta’s Myths were, in fact, myths. Plus, how LLMs can benefit Meta ad products, and why Meta might open source more AI models."
-    publishedDateTime: 2023-05-03T12:24:00Z
-    webUrl: "https://stratechery.com/2023/facebook-earnings-generative-ai-and-messaging-monetization-open-source-and-ai/"
-    type: article
-    provider:
-      name: Stratechery
-      domain: stratechery.com
-    quality: 15
 
 secured: "S9e1okSxgD7udU35e3/Tni3KSONUb2rXBCD81Awhd3vocN1aTU15s6RI6lvbWajiviuEG2oa+d9PrLI6AuNzIVty0r4GTsyYkhy6pxIjrxPqcgA0lNgFO8YZBu6hMikYXLmCUc7v/nqoR6rxJE+SWM9nGsoZQWivK7PIjq1kxxd1SPKv5B5mOU4RPds6WlXQHd2llMABMX/ZwTY/jUd1QfA0PtAhKl0Cuu32wCh1a+mMmSJgGqUtx0W2HXX8DbTKrvxLXcs7hFCCZ5ZID7Y0JKL2Opn57thnLuUvXHnQPsxYjqo+Vh1hp+m70UUarLNivR4hvigyKoTXKEa162ATEndy5Mtq+u/+XycanJmtfHeZxN0rvzluII+IJjATqdJChKooOXGsNkDyxHHFisDZe6o2eEIw6Um4+xCqpC1NrFgab2L0avnOlZp2I88SHszrZZ1iZ4GdY74k1EXSHCT7FpcasFEEod67FvKBqUH7XkNopn+QUbWYwexymU9h8+yNzxlG3hA3Y5tTaV+GMUiEUQ==;IxCzEst9pg3HK7O6eHuCcw=="
 ---

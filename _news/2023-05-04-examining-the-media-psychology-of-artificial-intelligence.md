@@ -9,8 +9,8 @@ ampWebUrl: "https://www.psychologytoday.com/za/blog/the-media-psychology-effect/
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-media-psychology-effect/202305/examining-the-media-psychology-of-artificial-intelligence?amp"
 type: article
 quality: 61
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: Psychology Today
@@ -26,17 +26,6 @@ images:
     width: 1528
     height: 800
     isCached: true
-
-related:
-  - title: "How AI And Machine Learning Can Help Accelerate Studies Of Consumer Deal Psychology"
-    excerpt: "Many other industries have beaten online retail in using AI and ML to refine their processes. Still, by revolutionizing the way brands serve deals, we might have unearthed one of their most valuable applications."
-    publishedDateTime: 2023-05-03T12:44:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/03/how-ai-and-machine-learning-can-help-accelerate-studies-of-consumer-deal-psychology/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 58
 
 secured: "KnkEzr4ZWUJakxNHFyjHGFO89Z58lULHldDNTSzxvqqmTd2wGZSl4NlhRUmav102VMK/Zc0ZSkLh4+VaJAXmPY9GuJBDNeXfaxAavIhhMMy6OeEpdfnUwpOZ7pVcMi0ApMUJtjv8RnkmU2zKPS0OBPJoc/QJj6v1+aEaAOX1/qKflBTzCnKJ66jx6osta99LyDuuN0KVI1zevoTI0p3+/uO4EfIJNpS/Do9LD9A1Hb414NHgeCYMAeZJMB9hxqKp+7Bfxhya91xLrOQa8RW471SPXd/yjdBrpEBZaXswaP+7CNpPtRZXBTYt5luwEqcgsSRcRMmIJkuETNaUWgQYQopM3dPKsc0Q8mf9hJ2JVDk=;E81wWzLQWGE7sIlS6UkNDw=="
 ---

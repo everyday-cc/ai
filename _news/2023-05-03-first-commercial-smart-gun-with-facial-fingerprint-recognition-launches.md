@@ -43,6 +43,20 @@ related:
         width: 932
         height: 470
         isCached: true
+  - title: "Korean Facial Recognition Project Faces Opposition"
+    excerpt: "It’s unheard of for state organizations — whose duty it is to manage and control facial recognition technology — to hand over biometric information collected for public purposes to a private ..."
+    publishedDateTime: 2023-05-04T00:00:00Z
+    webUrl: "https://hackaday.com/2021/12/01/korean-facial-recognition-project-faces-opposition/"
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 39
+    images:
+      - url: "https://hackaday.com/wp-content/uploads/2021/11/tsa_checkpoint.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "Turn to Tara: Facial recognition software could give your selfie to law enforcement"
     excerpt: "Team 12 Investigative reporter Tara Rosenblum explains how an innocent profile picture on a social media account can become part of a police database."
     publishedDateTime: 2023-05-04T15:21:00Z

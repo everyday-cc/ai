@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/get-started-with-gen
 webUrl: "https://aws.amazon.com/blogs/machine-learning/get-started-with-generative-ai-on-aws-using-amazon-sagemaker-jumpstart/"
 type: article
 quality: 99
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -74,15 +74,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 30
-  - title: "Making A Difference With Generative AI"
-    excerpt: "Everyone seems to be using ChatGPT for something or the other. Here, our experts suggest some serious, game-changing applications that the technology can"
-    publishedDateTime: 2023-05-03T11:39:00Z
-    webUrl: "https://www.electronicsforu.com/technology-trends/making-difference-with-generative-ai"
-    type: article
-    provider:
-      name: electronicsforu
-      domain: electronicsforu.com
-    quality: 19
 
 secured: "e9dgq06m7J9LIHj+j6baTb9sVenWv1KhEhBQwAbfqo/uYa6SKsJ4Xh4Ctb0C4fc5MOtj1c4J1zLmAiVPONWDBFyXlf7sxce87j21HfupEAKuUcrY//YGT8atyMUV4XQQN2LzHym9JghF6vfbjabnycOIwN+5INhF8tiTcUgmRx8NdngEOiFDRoosyQxDELQeceJdWbyuEbYaDel3zCgDMJDtJDg+k1l/RyaIkZvrhjSHL2hdJpvc1ueyeO2wgK01iLf0L1gg4zvBXwnnm30MF0qfqfQZLOpZxGrc252iiImgiSJDO9WLSRFwDSTC87Ig/6G0hPvCqAfokD0I3ndLb/8UkozRNmFSwisOP2JlJXQ=;ZRBwZaGpXpovvRsVj27qVQ=="
 ---

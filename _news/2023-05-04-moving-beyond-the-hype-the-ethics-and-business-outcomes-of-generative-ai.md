@@ -39,15 +39,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "5 ways AI is transforming healthcare"
-    excerpt: "AI is revolutionizing healthcare by analyzing large datasets and helping in the detection, prevention, prediction, and treatment of disease."
-    publishedDateTime: 2023-05-03T12:20:00Z
-    webUrl: "https://interestingengineering.com/health/how-ai-is-transforming-healthcare"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 34
   - title: "Smarter-than-humans artificial intelligence is coming fast as business looks for profits"
     excerpt: "Voices worried about an AI takeover were thin on the ground a few years ago. But despite a recent flood of calls for restraint as the technology improves by leaps and bounds, AI's money-making and defense potential appears irresistible."
     publishedDateTime: 2023-05-04T08:00:00Z

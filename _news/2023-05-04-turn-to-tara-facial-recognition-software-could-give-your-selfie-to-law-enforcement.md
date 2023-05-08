@@ -53,6 +53,20 @@ related:
         width: 954
         height: 536
         isCached: true
+  - title: "Korean Facial Recognition Project Faces Opposition"
+    excerpt: "It’s unheard of for state organizations — whose duty it is to manage and control facial recognition technology — to hand over biometric information collected for public purposes to a private ..."
+    publishedDateTime: 2023-05-04T00:00:00Z
+    webUrl: "https://hackaday.com/2021/12/01/korean-facial-recognition-project-faces-opposition/"
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 39
+    images:
+      - url: "https://hackaday.com/wp-content/uploads/2021/11/tsa_checkpoint.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
 
 secured: "LoDb77bzuNZhgmL8r3LsDY4Mee9QtRySaHf6wCQyDmtWzMi0wi3v01WdB82ij1Zg77Z3df8aYo0SuS6Rm76QMuYWPoKIyNt6rRSqZ4CBdvpUJL6JkiUcvJm6TJIPmlD6ejlx0xpoNLJlwOJvF3kCTvk/vj0JNErCS9QY3BHOH72p1iFPZLo2U88XWDxQZArGjjmzHS/PJ9a3BoWvU+NpESGn4P/7zDwGdNJzc61gOt+9q0SD6zdDUA3TxBcC50oVcBrgYlp8d1TdrBhM3QpuzDwu7loWBc87NQ5WxGcz9YQPATJnP9j/z7SyVMEqxQETgeHEsAgt7bkqyS0tpm4pnyplYP6bISJnN42ZZmUbhhIenTBR75g26jOY7L1hHWSk2v8DgcXumKI41FdHjPxWwY6gNbAub2rfe1naGz2+EU/gmujR9Dej7mx9LjWA2rQBTHP2g9y7mYM1hC+z3XbWsttquCiPFkCEDLWkq1qoXxffNuHWxBSY6yOQ7O+CQOrEUR6E8IxJSEl/kdw4gIP+TA==;PbjzkRFOHxRjFKKO38Jq7w=="
 ---

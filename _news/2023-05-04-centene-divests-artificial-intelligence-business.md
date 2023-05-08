@@ -33,15 +33,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Centene to sell health care analytics firm Apixio"
-    excerpt: "The Clayton-based provider of manages health care services is selling an analytics business it acquired about two years ago."
-    publishedDateTime: 2023-05-03T12:15:00Z
-    webUrl: "https://www.bizjournals.com/stlouis/news/2023/05/03/centene-to-sell-health-care-analytics-apixio.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 4
 
 secured: "RMFYcdqh+Eji7Kj/LCkJ3vfOlyMIUOr36dyFx8rmEUwZjenD3/pggAof2LCeQrxt9pERp/zlcsc4CvpeQV+FrCJFwWY4MKaJ+Yq9+fntsB3a0RfIfWgtRizqUMj8HX3mytpYl0jyGkxl1iD/AXPV4DstUpXZgBpJ+9wNFxyKeQyGzbxQujlQYkjVo04zZWpQ117mZ48lZuz6HzSiZg5Guu9aNPuQt66Nrjm19nsHgPZ4WvBlCgjnRSf1RVdr/WTQbJUcEnh2XdsmtY3trkarkcz2l5tnX6m21tfk+H1CGtUjCOnh7wFDIye5D9FEWzsggsTlodQHfq0cSPsFEeobrH4WdGncT/C/FI8HN6G5d/JiKb7ZTV+mXcAp+d6+gybydtDEk3bie0hMIRz1fN7Te6XMvHUkan2xmEglj4r+h8TH2uwrsHvmyhdWKsVk9kL0V5qtVWNi3LtHFXBvx3YkTOO+WFfIpMdtCvlanrPViz9mI0x9/6QmD3J08c+V1RjhtNeMoGyJHc99jqADyrWwaw==;XmK9gRICNLqFpnDBXrRvdw=="
 ---

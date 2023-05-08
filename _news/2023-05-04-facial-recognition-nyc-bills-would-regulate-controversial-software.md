@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fox5ny.com/news/facial-recognition-software-nyc-bills-in
 cdnAmpWebUrl: "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/news/facial-recognition-software-nyc-bills-introduced.amp"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://thehill.com/wp-content/uploads/sites/2/2023/05/Screen-Shot-2023-05-03-at-11.02.22-AM-e1683126220792.png?w=1280"
         width: 954
         height: 536
+        isCached: true
+  - title: "Korean Facial Recognition Project Faces Opposition"
+    excerpt: "It’s unheard of for state organizations — whose duty it is to manage and control facial recognition technology — to hand over biometric information collected for public purposes to a private ..."
+    publishedDateTime: 2023-05-04T00:00:00Z
+    webUrl: "https://hackaday.com/2021/12/01/korean-facial-recognition-project-faces-opposition/"
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 39
+    images:
+      - url: "https://hackaday.com/wp-content/uploads/2021/11/tsa_checkpoint.jpg"
+        width: 2048
+        height: 1365
         isCached: true
   - title: "Turn to Tara: Facial recognition software could give your selfie to law enforcement"
     excerpt: "Team 12 Investigative reporter Tara Rosenblum explains how an innocent profile picture on a social media account can become part of a police database."

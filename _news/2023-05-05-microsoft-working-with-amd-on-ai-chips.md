@@ -206,20 +206,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 96
-  - title: "CallMiner Collaborates with Microsoft to Enhance AI and Machine Learning Capabilities"
-    excerpt: "CallMiner, a leading provider of conversation intelligence to drive business performance improvement, today announced"
-    publishedDateTime: 2023-05-03T12:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/callminer-collaborates-with-microsoft-to-enhance-ai-and-machine-learning-capabilities-2023-05-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 94
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AMD Shares Rise 7% After Report of Microsoft AI Chip Deal"
     excerpt: "Bloomberg reported Microsoft would help AMD increase its supply of in-demand parts and that the two companies were working to develop a homegrown Microsoft AI processor. Represent"
     publishedDateTime: 2023-05-04T23:51:00Z

@@ -60,6 +60,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "UK Police Plan To Use Facial Recognition On Crowds During Coronation, Faces Criticism"
+    excerpt: "Human rights advocates are concerned that police could use face-scanning technology to target protesters, as they have in the past."
+    publishedDateTime: 2023-05-04T09:54:00Z
+    webUrl: "https://www.ndtv.com/world-news/king-charles-iiis-coronation-uk-police-plan-to-use-facial-recognition-on-crowds-during-coronation-faces-criticism-4004541"
+    ampWebUrl: "https://www.ndtv.com/world-news/king-charles-iiis-coronation-uk-police-plan-to-use-facial-recognition-on-crowds-during-coronation-faces-criticism-4004541/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/king-charles-iiis-coronation-uk-police-plan-to-use-facial-recognition-on-crowds-during-coronation-faces-criticism-4004541/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 52
+    images:
+      - url: "https://c.ndtvimg.com/2021-05/kheealvk_facial-recognition-pixabay-650_625x300_27_May_21.jpg"
+        width: 650
+        height: 400
+        isCached: true
   - title: "Human rights campaigners criticise Met Police over plans to use facial recognition tech at coronation"
     excerpt: "The use of live facial recognition would have a serious chilling effect on the right to free speech on a day when thousands will be considering celebrating or protesting. The technology is used to match human faces on images and live or pre-recorded video ..."
     publishedDateTime: 2023-05-04T11:22:00Z
@@ -102,15 +118,6 @@ related:
         width: 945
         height: 630
         isCached: true
-  - title: "Met Police considering using facial recognition technology for King's coronation"
-    excerpt: "The Metropolitan Police are considering deploying facial recognition technology to target those who may jeopardise the safety of the King's coronation. As the weekend looms, a Met briefing on security concerns took place on Wednesday after a man with a knife was arrested for throwing items,"
-    publishedDateTime: 2023-05-03T11:29:00Z
-    webUrl: "https://www.itv.com/news/2023-05-03/met-considering-using-facial-recognition-technology-for-kings-coronation"
-    type: article
-    provider:
-      name: ITV
-      domain: itv.com
-    quality: 14
   - title: "Protesters eye Coronation of King Charles III — and facial recognition eyes them"
     excerpt: "It’s apparent that a coronation is ripe territory for the convergence of righteous convictions, from the progressive to the fanatical, writes."
     publishedDateTime: 2023-05-05T09:00:00Z

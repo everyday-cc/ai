@@ -27,15 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "Power of Fintech Events for Industry Visionaries"
-    excerpt: "In the past few years, we have seen an explosion in financial technology (FinTech) innovations. This has caused a drastic transformation of how banks and other financial institutions operate. FinTech promises faster payments,"
-    publishedDateTime: 2023-05-03T11:04:00Z
-    webUrl: "https://techbullion.com/power-of-fintech-events-for-industry-visionaries/"
+  - title: "Artificial Intelligence: Fintech Trovata Launches Generative AI Finance, Treasury Tool"
+    excerpt: "Trovata, which claims to be the global \"leader\" in bank APIs, recently announced the first generative AI entrant in the fintech space."
+    publishedDateTime: 2023-05-05T18:52:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/05/206646-artificial-intelligence-fintech-trovata-launches-generative-ai-finance-treasury-tool/"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 4
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 41
 
 secured: "ffzqW6m69XY8JJ9LzxaB7WY7CRwbuGsyZbHAyU3P+PfHLEedsNsAP2RQRyFljtyoCYBZGnPZ+DzozypqF3zFN9VS4LDL4wjpgEid//bdEdfyjrGBM8Kh+lIMTwhDi5i978+yk7CWt0EczLuO0kzOGRPS49ag4M6m1LylK8irgNF8L4P3BU7X8xNuQWdR819s9QTpXIRrx9t6mye1+TRBETxa5qlxW5wyVb8l16ZtgJbwKj4GIxz/Y127SFtg5jtzYvXbfF7AozD5pjFO8eS55cZ8msZirk/4zebNnGA6BywhUxUpaK7oKMJY7ocjzpKBbfmJ2aAY1klKFw2VCBNx3BSP5RT2RAhwAFxGnkOHR/0=;7whvJlcaccUzxKLqshh2iw=="
 ---

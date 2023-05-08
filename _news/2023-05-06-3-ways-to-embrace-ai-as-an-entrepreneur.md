@@ -18,24 +18,20 @@ topics:
   - AI
 
 related:
-  - title: "3 Artificial Intelligence Stocks to Watch in May"
-    excerpt: "For example, Meta Platforms' AI Research SuperCluster uses 6,080 GPUs ... a former director of market development and spokeswoman for Facebook and sister to Meta Platforms CEO Mark Zuckerberg ..."
-    publishedDateTime: 2023-05-03T12:58:00Z
-    webUrl: "https://www.fool.com/investing/2023/05/03/3-artificial-intelligence-stocks-to-watch-in-may/"
+  - title: "Law firms embrace the efficiencies of artificial intelligence"
+    excerpt: "Law firms have been racing to adopt artificial intelligence after developments in the technology have enabled it to draw up contracts, assist due diligence processes and draft legal opinions."
+    publishedDateTime: 2023-05-04T10:00:00Z
+    webUrl: "https://www.ft.com/content/9b1b1c5d-f382-484f-961a-b45ae0526675"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 49
-  - title: "7 Stocks That AI Predicts Will Make You Rich"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) is rapidly changing the world and the stock"
-    publishedDateTime: 2023-05-03T16:10:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/7-stocks-that-ai-predicts-will-make-you-rich-1032288368"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
+      name: The Financial Times
+      domain: ft.com
+    quality: 37
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe82c7213-e2d9-4c49-ad6a-25e364a62a06.jpg?source=next-opengraph&fit=scale-down&width=900"
+        width: 900
+        height: 506
+        isCached: true
 
 secured: "ULqGj+H9I4SkdbGZCDhqtx4oTcM6L9w5xZxGq86SrWCsurwg+YSwFOKTTEgKD5oxN/lKuGMCpBA+Y0hAk8Kbg3Z7zlT+bH6aUWeLCy+L/1bDOk5PBfU/foUZ2i9C4AMrCdq9OSOaTRkL1K+5mXixpHGjhFqEjzTt54R1t/TFGTP1hXg/dPAwEhp1QPtkX4NVyGOTfbStDsDB/2zRn7Vc4IUO931lcQtvL91B0XByN97Jz/jscen6OquyeCW3WkBe59IWhYnomQpg4xeWBCb7d1eegTvKBvOmCREeyj5Nis2cHeJkCRmH2C4LDkZad6F5sKfi7e8vBjLMi8NcoUWp78cfh45BA3aiMQ5OSs/Rq5TQVweEkNaunpejBGO8u0Ueo9BD6X89k5SpL+H41bUTQsj6Y9Ei13QBPhJIOHAX/Jd9KvT7UbHGHYzfmpkUQM2oUtpFnxE5gnUsvR/Lihf707OoM+WYtBSRuvb8mQpoUA+vVfW/jeSWUogXp1saX5qgtg7pec7bwUEeZiQUQXJSMA==;qDLZXOW4JnYgxYxqhBeOZQ=="
 ---

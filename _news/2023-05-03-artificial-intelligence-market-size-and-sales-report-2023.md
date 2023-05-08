@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence (AI) Robots Market [2023-2030] | Projected to Reach USD 27820 Million with a 22.2% CAGR"
+    excerpt: "Among other players domestic and global, Artificial Intelligence (AI) Robots market share data is available for global, North America, Europe, Asia-Pacific, Middle East and Africa, and South ..."
+    publishedDateTime: 2023-05-04T12:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-robots-market-2023-2030-projected-to-reach-usd-27820-million-with-a-222-cagr-2023-05-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 75
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Machine Learning Chip Market Global Analysis 2023-2030"
     excerpt: "Section 5: Research Method and Data Source. Get a Sample PDF of report @ https://www.360marketupdates.com/enquiry/request-sample/19278373 Highlights with Short Brief ..."
     publishedDateTime: 2023-05-04T12:10:00Z

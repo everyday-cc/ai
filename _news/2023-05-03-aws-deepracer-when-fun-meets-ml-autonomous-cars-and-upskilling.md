@@ -1,20 +1,15 @@
 ---
 category: news
 title: "AWS DeepRacer: When fun meets ML, autonomous cars and upskilling"
-excerpt: "The AWS DeepRacer event, hosted last Friday by simulation technology provider Computer Modeling Group (CMG) in Calgary, showed how access to the right resources, a good old showdown and attractive prizes could be the answer to the global upskilling problem."
-publishedDateTime: 2023-05-02T22:36:00Z
-originalUrl: "https://www.itworldcanada.com/article/aws-deepracer-when-fun-meets-ml-autonomous-cars-and-upskilling/537953"
-webUrl: "https://www.itworldcanada.com/article/aws-deepracer-when-fun-meets-ml-autonomous-cars-and-upskilling/537953"
-ampWebUrl: "https://www.itworldcanada.com/article/aws-deepracer-when-fun-meets-ml-autonomous-cars-and-upskilling/537953?amp=1"
-cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/aws-deepracer-when-fun-meets-ml-autonomous-cars-and-upskilling/537953?amp=1"
+excerpt: "The AWS DeepRacer event, hosted last Friday by simulation technology provider Computer Modeling Group (CMG) in Calgary, showed how access to the right resources, a good old showdown and attractive ..."
+publishedDateTime: 2023-05-02T20:02:00Z
+originalUrl: "https://windsorstar.com/technology/aws-deepracer-when-fun-meets-ml-autonomous-cars-and-upskilling"
+webUrl: "https://windsorstar.com/technology/aws-deepracer-when-fun-meets-ml-autonomous-cars-and-upskilling"
 type: article
-quality: 108
-heat: 108
-published: true
 
 provider:
-  name: IT World Canada
-  domain: itworldcanada.com
+  name: Windsor Star
+  domain: windsorstar.com
 
 topics:
   - AWS AI
@@ -23,11 +18,11 @@ topics:
   - AI in Autos
 
 images:
-  - url: "https://i.itworldcanada.com/wp-content/uploads/2023/05/Deepracer2.jpg"
-    width: 2016
-    height: 1512
+  - url: "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2023/05/deepracer2-1024x768-1.jpg"
+    width: 1000
+    height: 750
     isCached: true
 
-secured: "wDm4MKW2WIkFT30YYVVrkiHocs09z3+JCXFKV+6SPf0qW7sxaChRAw1cRkw9I4pSLCiCemzlyvv58MUB7Z6aVMhAkgcaDXB481idNCdD0YAAKxm50Bp0a0icdnCJl8juUJB9ZLqmRDyPRc6MJTujmF+SzYBN3lSxBWcB6QfD7ySTlbxNwnlpEu5X2Zw1U1ljoJWaVKGLq0YQDulVGvN74p8Q+6YwYnzw1UGY5vhXCruGcMEABUcTBhgLQgqQNsgkQkSAGI5KduYEL/UzcP3sMBnn5mUV/4nTV37ftKTPBhepp3+QPllcbsUrTa+3P0uvxh5HpRqbS5vby5Z4tD5klsq7cUHvbDQJ1EIOcagWDkwiFyGL86jTKJC4eF2WxMoos488W9Nv02/Z0qvISq0SLixb+TS9f0+lVb+UOOSKTz/rqUGZD+8SKytqFBN8AqcQYq7aLWaiisGtDCIWLwPBL4YTMaxaOc+iTt8AYfjvBx0Vqindmv5Jl9QBJaCv0XHlZrCuDfvvt5FJ/vbxoo9hhg==;WbDuJjoSFt9QPfPo/4MjEw=="
+secured: "jRjr/8tc1IxqZL8FBV0OIWrSZwTx6FQc1WW1WqDUdYvk2Shjj33LHb0KOYFIJp6/e7I5Mbz2vBB9WtyoENTkpKy9lEVXppaMpCBfK9pv1pehTrwgRbmxgmMFEwiKa9jIHN2XsuC6NaDkIrb1+/sbdRLoTpN7B6maQVN3EtZiDKkBKeay1zLDUFdhc94ge+rOrMkszJTUuHlLscpDBbQnQHIcf2H0gMwUZxwH8I2HwmdXpOiXj9q0d4wyud7sj3lSEoYW4R1VZFW3OrfXTj0tD/I86eJw66V59oRd0i/YJuyzu2+2jWtkcfgB5wcg6OdurlBRYyfyd8KyJJAmjM8RlsRAi8D1lpzKN3oJ5bby9Ks=;QkftIcBfbHdv6DCmGO5sYw=="
 ---
 

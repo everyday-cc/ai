@@ -50,20 +50,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "How AI is Revolutionizing the Supply Chain and Making It More Efficient"
-    excerpt: "Have you ever wondered how Amazon can expeditiously deliver products to customers’ doorsteps shortly after placing an order? The solution to this enigma is rooted in the efficacy of Artificial Intelligence (AI) within supply chain management."
-    publishedDateTime: 2023-05-03T11:09:00Z
-    webUrl: "https://techbullion.com/how-ai-is-revolutionizing-the-supply-chain-and-making-it-more-efficient/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 39
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/05/3cf223d7-hero-image1-08_10i80fk0fk0fk01c000028.png"
-        width: 560
-        height: 560
-        isCached: true
 
 secured: "xgaKGuLBqdMKwjkNQ60yNRQcU377NqnWuiKJfPwU2Wf6MUXGSCGkxUCvxvTJ6wMAakNFUtcynX53IiQLsEC9B8ZB7AcYxXWJwY93zuldeGOLiW2DzVPbOwa8Xvll+M/GHOMINyyaZ4Bx2rXaGsAniF3is7NWkRAID2jVHSgsZQi1fwGaOJkmFH4UMQ7tL1h6paEGbElWJoYf9SwuH7lL7M0RzQUvQidS5bcav8VDQCB/8SV0UKeCpvxRyCi0g1+KcTg49Ub8nhattcUgI2nmqy6mO1DP4z2L/a/RT3ibg5ZqtvkQVM8gKxsOp7TyxjWT8cVFj/D6mAQgO0ZdCj/YjmYXXonpFhwDnYFs1d/mM5H3kqtXU0wTamlt4g+ysiEcYzhKbw4eQE53Xbs8qQKNPmv6T9JFKvyDmTVVOxgvY076Bngq2Iy9YfmyabK5U6xLZV13u2fA4TixCU+b8B0RgNPK1d5EaogzOSLJIpzBeM+1NpDbfwnzxlXN99J/aVmQk+HEre/iUq7BaVahwFsc5Q==;rx+uxExZ69VOej/jN16IRw=="
 ---

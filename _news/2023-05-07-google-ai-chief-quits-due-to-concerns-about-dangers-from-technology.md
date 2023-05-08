@@ -39,6 +39,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "AI Researchers Worry the U.S. and China Will Leave Everyone Else Behind"
+    excerpt: "After ChatGPT sparked a frenzy among tech companies, a conference in Africa is focusing on AI’s promise and peril for poorer nations."
+    publishedDateTime: 2023-05-08T03:29:00Z
+    webUrl: "https://www.wsj.com/articles/worlds-top-ai-researchers-debate-the-technologys-next-steps-55be2849?mod=hp_listc_pos2&autoplay=false"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-777121/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Researchers at UMich find a way to reduce the energy consumed by AI"
     excerpt: "As AI becomes increasingly popular, researchers develop software to decrease energy consumption in an effort to lower carbon footprint."
     publishedDateTime: 2023-05-07T23:08:00Z

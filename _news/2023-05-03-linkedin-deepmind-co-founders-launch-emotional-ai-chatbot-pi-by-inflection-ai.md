@@ -19,22 +19,29 @@ topics:
   - AI
 
 related:
-  - title: "Machine Learning Startup ‘Inflection AI’ Built a ‘Pi Chatbot’, Mustafa Suleyman Calls it ‘Personal Intelligence’"
-    excerpt: "A versatile firm Inflection AI introduced a new AI-based model and it is named Pi Chatbot. The CEO of the recent business, Mustafa Suleyman proclaimed"
-    publishedDateTime: 2023-05-03T11:17:00Z
-    webUrl: "https://www.jagranjosh.com/current-affairs/joint-venture-inflection-ai-announced-a-human-interactive-agent-called-pi-chatbot-1683110536-1"
-    ampWebUrl: "https://www.jagranjosh.com/current-affairs/amp/joint-venture-inflection-ai-announced-a-human-interactive-agent-called-pi-chatbot-1683110536-1"
-    cdnAmpWebUrl: "https://www-jagranjosh-com.cdn.ampproject.org/c/s/www.jagranjosh.com/current-affairs/amp/joint-venture-inflection-ai-announced-a-human-interactive-agent-called-pi-chatbot-1683110536-1"
+  - title: "Startup from Reid Hoffman and DeepMind co-founder debuts chatbot"
+    excerpt: "Pi was built to be a supportive 'neutral listener' that asks follow-up questions to keep a conversation flowing."
+    publishedDateTime: 2023-05-06T22:00:00Z
+    webUrl: "https://www.moneyweb.co.za/news/ai/startup-from-reid-hoffman-and-deepmind-co-founder-debuts-chatbot/"
     type: article
     provider:
-      name: jagranjosh.com
-      domain: jagranjosh.com
-    quality: 55
+      name: Moneyweb
+      domain: moneyweb.co.za
+    quality: 39
     images:
-      - url: "https://img.jagranjosh.com/images/2023/May/352023/pi-chatbot.jpg"
-        width: 1200
-        height: 674
+      - url: "https://www.moneyweb.co.za/wp-content/uploads/2023/05/397933961-1024x682.jpg"
+        width: 1024
+        height: 682
         isCached: true
+  - title: "The Stack: Bluesky Emerges as Twitter Rival, DeepMind and LinkedIn Co-Founders Launch Pi Chatbot"
+    excerpt: "Twitter rival Bluesky gains momentum, DeepMind and LinkedIn co-founders collaborate to launch AI chatbot... News this week centred around the return of tech royalty: former Twitter monarch Jack Dorsey made a new bid for the microblogging throne with the launch of Bluesky,"
+    publishedDateTime: 2023-05-05T12:05:00Z
+    webUrl: "https://www.exchangewire.com/blog/2023/05/05/the-stack-bluesky-emerges-as-twitter-rival-deepmind-and-linkedin-co-founders-launch-pi-chatbot/"
+    type: article
+    provider:
+      name: exchangewire.com
+      domain: exchangewire.com
+    quality: 6
 
 secured: "BEhgPHY5TPhF5QUtaG4D1h+6ERue3m4SdBEHY+se4dvACrpJR78mCRuPD1HZ199cgKjJULF+kx3HJdVhPO2l5OyBBvtzo1RkMBJKt86A5iPsGYq+XC2agQoqry+I6rem1TorCEALXjoBcGixkv6rTDoqUV9F65aor465gL4yI38tBDY9SJO7U+OIoA9fRvhNGtLgUc71uoNS0BRAU1bsG0uSTt61h61+hFe3brSEaDEk5CvY3fs7HfaLJ3PwOF2dH/+vTRdwwbU60ENsSpWOYKKRXbBOa1pvSM5MEIlmfsOjoTKzK+MTTsrXhNsWGhxtpI0MjM9sSHA15/G1Ue5qHCVDIYC3p2B1KFfc8ZQQSehUhxyFFRFMSklRcDRUeZCPmRo58VUziUlW+IyGDxk35kBSbZC2mHWn2k27E345x0RDowOADP7Vxdc8KLXpXrV33YydFPCvk0fEmJSSDHa2WdrVuIFDlrMwUJbIK7FTCDR9AcwpUhvdKElzGZEdKTxTY+eyVf33PSARd7OJJiKkBQ==;CiC56HJAdIwvoMKgpY7c+A=="
 ---

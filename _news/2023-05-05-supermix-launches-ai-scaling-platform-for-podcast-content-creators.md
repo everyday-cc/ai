@@ -21,17 +21,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "Pigment launches new AI-based version of its business planning platform"
-    excerpt: "Business planning platform startup Pigment SAS today launched a new artificial intelligence-based offering designed to help business teams make faster, more informed decisions. Pigment AI, not surprisingly,"
-    publishedDateTime: 2023-05-03T12:01:00Z
-    webUrl: "https://siliconangle.com/2023/05/03/pigment-launches-new-ai-based-version-business-planning-platform/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 17
-
 secured: "zE0XP9Bi71NhKagTlKy1WzMIR5ogU2RjRe6qN0e5dCmRw/r/Nw30v6DBcPoI0iZY0SnuBfEJofdaaL/mr0DJ9DZnRvXFuYglRmKlekhVHlPQdurPOjvOnRLcuA9tW5r3xorCMrVbFmtyRL7vhq7Toe4eFpN1EKObC1oIuwyXe0SYYCPNmEcEBnOhWkuohCQzz8wsPRfd4X4AMjNRZs3SS2UqYdzDQ1488P0Skx4uR1VBg1qCoxLr8K/cLVrYxBAS6wlQxv4wOyGxzus6xhaAegefGuOpujmATXgyjGYUHHynKqUf0f0py63Cr2E7zUj7mvjimcAKVQ7YlXjnDhvy7PxWz6MslptVBTO7wpK6plk=;9H4ZVYOyvpaqNxCXIGgcrA=="
 ---
 

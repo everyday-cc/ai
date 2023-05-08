@@ -75,15 +75,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 30
-  - title: "Making A Difference With Generative AI"
-    excerpt: "Everyone seems to be using ChatGPT for something or the other. Here, our experts suggest some serious, game-changing applications that the technology can"
-    publishedDateTime: 2023-05-03T11:39:00Z
-    webUrl: "https://www.electronicsforu.com/technology-trends/making-difference-with-generative-ai"
-    type: article
-    provider:
-      name: electronicsforu
-      domain: electronicsforu.com
-    quality: 19
 
 secured: "Eyi0H1KOLZHAGtCYSwcU0gEjfSeNtuMcsRhsnA/GE00l7SMy5jPqZzKfbgeKzGnD4DESDZT5Ys7DmGZBHL7sabv6VuQ/IM+glJ6nbnqm62t9CzBU9bAh7w1oMoy8tDioaZ6jgVy2oOmBquLkAmD5El31hV6RDiKLGXREHMoHNvX7TuUfMLLygXGnY3lW4PvbS3S65fsAHKEwrrM8bB5zF4jEQOU8BVXVR8LTcdejiNk+uVNrjwK0RCS3jrHB33nfYeff1g7CaPwV0Wihc4olt7W+qZVrS5yimtHy4A6sosfHcnaEwhkBBrm9WaeW9rNACKx+vasJl6mppfI4yPkb8gw/s2peWMKK4AWlPSMJ0zE=;DAjcxR6mfD4l2QSwABTjlg=="
 ---

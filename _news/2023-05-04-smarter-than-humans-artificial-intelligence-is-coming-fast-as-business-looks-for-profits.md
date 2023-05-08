@@ -50,15 +50,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 63
-  - title: "5 ways AI is transforming healthcare"
-    excerpt: "AI is revolutionizing healthcare by analyzing large datasets and helping in the detection, prevention, prediction, and treatment of disease."
-    publishedDateTime: 2023-05-03T12:20:00Z
-    webUrl: "https://interestingengineering.com/health/how-ai-is-transforming-healthcare"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 34
 
 secured: "jODmVEIDV0yBEUiRuHMwRQlJrThtSPhV8jFK0OV79znX/UXZuOzd6W3OJ6YvngdwjirSg43KRPCN4nxhhfjoSJTLTcHakMxXtIab6U/eBmXAWUqGDbu5hGOvAvL6PGVRqww3jvfovSWooPYSVMBOzWyMRrT0KRGWrDYptxPUzT+iPpT3fmZeiBGs1QDOqEmPHvcNqkqz5JGcC3uhGEF/8IASsKLHVCNXqeZbVt8aoNPLmkJQMfSctzbb96KrL/pxeCR6fGFLM7UxzQ7TrAsASk9zXlWnCoIZytq46q95Ay1uDwAznEPArK3Ihoe9xvRuTmy4cHP7MHXpzArvKEtQFdeF+DlbnfQS4s+XocENX+OEwnfwAWFpzEuX0lQ2PZ4oWfTiO/RKOo0J3zdnN7peJmwycO2z7bH5ONSn0bOjWFa0+4OFBuHDOdhFgRRAU9jiblW5l+DhLuWsxILyHzA+dq9yJkUjkA1wQVOQQzgL+nWiLkwxlh1ypgyWmjTXZMSUPGJDn0cQKkWoaoEzNEaYfA==;gi42mdQzfjsdWgKwiMrwgg=="
 ---

@@ -154,22 +154,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "ChatGPT is the start of online education, not the end"
-    excerpt: "Yet online education is a huge industry, estimated by researcher Statista at $167 billion this year and climbing to $239 billion by 2027. Chegg's slice of that market is centred around helping college students with homework and cramming for exams,"
-    publishedDateTime: 2023-05-03T11:06:00Z
-    webUrl: "https://www.tbsnews.net/bloomberg-special/chatgpt-start-online-education-not-end-625714"
-    ampWebUrl: "https://www.tbsnews.net/bloomberg-special/chatgpt-start-online-education-not-end-625714?amp"
-    cdnAmpWebUrl: "https://www-tbsnews-net.cdn.ampproject.org/c/s/www.tbsnews.net/bloomberg-special/chatgpt-start-online-education-not-end-625714?amp"
-    type: article
-    provider:
-      name: tbsnews
-      domain: tbsnews.net
-    quality: 59
-    images:
-      - url: "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/03/28/new_project.jpg"
-        width: 600
-        height: 314
-        isCached: true
   - title: "Explained | What is the EU’s Artificial Intelligence Act and how does it plan to rein in tech like ChatGPT?"
     excerpt: "As artificial intelligence technologies become omnipresent and their algorithms more advanced—capable of performing a wide variety of tasks including voice assistance, recommending music, driving cars, detecting cancer, and even deciding whether you get shortlisted for a job— the risks and uncertainties associated with them have also ballooned."
     publishedDateTime: 2023-05-03T17:13:00Z
@@ -200,15 +184,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Gartner: ChatGPT interest boosts generative AI investments"
-    excerpt: "The new Gartner poll also found that most executives believe that the benefits of generative AI outweigh the risks."
-    publishedDateTime: 2023-05-03T11:34:00Z
-    webUrl: "https://www.techrepublic.com/article/gartner-executives-chatgpt-investments/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 49
   - title: "AI startup Inflection Started by Hoffman and Suleyman, Introduces ChatGPT-like Chatbot"
     excerpt: "An artificial intelligence startup Inflection AI, started by Reid Hoffman and Mustafa Suleyman, has launched its first AI chatbot product."
     publishedDateTime: 2023-05-05T14:03:00Z

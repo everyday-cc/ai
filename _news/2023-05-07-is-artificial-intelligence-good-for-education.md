@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.washingtontimes.com/news/2023/may/6/is-artificial-intell
 cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2023/may/6/is-artificial-intelligence-good-for-education/"
 type: article
 quality: 76
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -26,17 +26,6 @@ images:
     width: 1200
     height: 700
     isCached: true
-
-related:
-  - title: "AI race drives down stock market valuations of education firms"
-    excerpt: "Stock exchange companies threatened by Chegg observation that ChatGPT has hit revenues"
-    publishedDateTime: 2023-05-03T12:09:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/may/03/ai-race-drives-down-stock-market-valuations-of-education-firms"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 34
 
 secured: "uZdlHb73gTervw75fBS0r980GWwFhTQZkr1fqj9MaJtTkkhtdBZwCIRqMhNeapu+XFcvemPz1qeeFHyyQAOlfm4vPaKaPRb1BSAdOdtVFWtg7klgNp5XHOVg47RqFi7x9EI/ATyQHo1a9E4qAmUmT6Zl3E0SUFh1Q55+S7GX1YTzXekyjaNMsaLAp4f12HTaAwOjitOT8sfLL5vPx0UxeX6KW3jBMdt+phny79h5yQgUmcE7NfamJxL8DAkT2He75PTJAQVpaqRDn3q6XqYAqrWBuvZw3rsH3sxDtnHt8goROpTQnZKj/C8znzhEuvGCB8n/WEOFTYbtXbq2y0w0BjyWwJ0a3auenPLg1x1QNeV+/lMeTZ1FwRy/MM847pu8Na+RYLLdFQXxuA2SlYYTKa3UZIashaQzVxO5wv0YBBSbA9iBAmAy+b3q7yQxZq04Zs5AOxzqFVYqqfGQtCYdhNtcVtfBhiXxN7mXT302IQXeoVw9Jb8f8bbEmFgsKmHGdrMGrDqIu9hnyH7DywNtzw==;fVa11JBYUGklIzVeMBk8cg=="
 ---

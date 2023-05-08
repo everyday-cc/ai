@@ -47,22 +47,6 @@ related:
         width: 468
         height: 263
         isCached: true
-  - title: "Leveraging The Power Of AI As A Small Business"
-    excerpt: "AI language models can help small businesses optimize their marketing, but they have limitations that every business owner should be aware of."
-    publishedDateTime: 2023-05-03T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/03/leveraging-the-power-of-ai-as-a-small-business/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/03/leveraging-the-power-of-ai-as-a-small-business/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/05/03/leveraging-the-power-of-ai-as-a-small-business/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/642b0f04743b6df49adeb166/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "npnMIqXBWYd0wpEeL2pCjCDVCKo9t02htSFm45WSOlrxwdYnhaF08ORVuNOa3ky00WZP2b49wEuScme8LXYYz5v1zUI3guuEj+8z73gI4U3AFR4JLYnF0QTgEG6QBQFkd5aK1qJKwpQo/2+TG8u+UKNTLKeEVkqx9aOHmGkACetHgw9ZKhDeiTzpJrSSPVyAbRbxImynEQhnYE/T+W2tCGAc8ltBaMays97q68AXMUG97ulKghB8d10FbwmNhnIlocy0035gOsFmiI3LDWxfMs2HZogm3+hwiH+3Vi3QsPdDOJjbx4mD8zdiyZL9H2N4IJwY0vRcRnTs1he1GEivi14X8ofvEmnr+UagnUUaPhQ2RqhxQ+mNBt1FASir16uGRYGumngpd3u5fSqDNPRJfVzgyIn3UjaeWCsWU6OOBBxuGao6cXf501uaWAwRFwD977tR5iy7BChQ3ZLLtoH6kFdpQXIVs7+HcHblPnsu4nWvwN4BPedymns3nXxcdoEKniJ+3ie7nTQ2dLI5rDAoQg==;NkC4E8wphig6EkA3Y08fbQ=="
 ---

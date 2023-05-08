@@ -58,6 +58,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Self-Driving Taxi Market Research | 2023-2030"
+    excerpt: "The Global Self-Driving Taxi market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
+    publishedDateTime: 2023-05-08T04:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-taxi-market-research-2023-2030-2023-05-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Autonomous Cars/Driverless Cars Market 2023 Growth Status and Outlook for 2030"
     excerpt: "At present, the technology is mainly in driving assistance level and semi-autonomous driving level. Europe is a key region for the deployment of self-driving vehicles, owing to the high consumer preference for technologically advanced products. This region ..."
     publishedDateTime: 2023-05-04T17:59:00Z

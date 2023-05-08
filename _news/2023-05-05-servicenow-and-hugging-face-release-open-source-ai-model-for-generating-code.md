@@ -41,15 +41,6 @@ related:
         width: 1199
         height: 600
         isCached: true
-  - title: "Aisera taps generative AI to process customer and employee service requests"
-    excerpt: "Aisera Inc., a well-funded startup that provides artificial intelligence tools for companies to enhance employee and customer experiences, said today it’s partnering with Microsoft Corp. to deliver a new AI copilot for enterprise service experiences."
-    publishedDateTime: 2023-05-03T12:01:00Z
-    webUrl: "https://siliconangle.com/2023/05/03/aisera-taps-generative-ai-process-customer-employee-service-requests/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 17
 
 secured: "R4cdTFU5kihLZtDPJ2RxCWihHdgNGOfBTgig12/RekktIywvfB56Xr5RYbeYlUrg85P8mP8Mvu46VRIFjlyzhCnTA6zgOS6WSls1bWM9kFBxIepLqOd0MfgKvBK+NgQYiklcIlntZZLAFmmg8a+HIfUpv+OKkSau/TgC1LiDWBoZuIsC7CbE7xiKziuTyqIfdTKCbCqA0vULOj7DgapllKFdQZSgCDBdgByMu/HesiBOiQ02RLER18TQ4soFNjm90Ed3QPFllrcAAeZIGBHVUu+2V6JuhqhP1kqEujwLZh7gwVvLIjX3sSM+0pKuM15s+VUEqvhPScC1pwDhUJwu+yyk/VDEtQu4AjGw5mnKHeIbXTzjZlfcL1NTYFqPOwz1Bo0+ZOMcEzrSuSIom0o8PM4Hi2RIrfz1z5/kb6T8lzJ86P3XGwKTBfhTbQsqFmgEd7Bk/3zynh9phoCFR515YeEjNUayeRYdyshIkKWSey59gDnY12xwx4ZvzqsCRBRzsRwE7FzRdHY6ublVXYDKPA==;BRyt+l66IXTuXyuf97tCEw=="
 ---

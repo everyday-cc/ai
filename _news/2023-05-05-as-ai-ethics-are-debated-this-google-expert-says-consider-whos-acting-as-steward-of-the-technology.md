@@ -39,6 +39,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "AI Researchers Worry the U.S. and China Will Leave Everyone Else Behind"
+    excerpt: "After ChatGPT sparked a frenzy among tech companies, a conference in Africa is focusing on AI’s promise and peril for poorer nations."
+    publishedDateTime: 2023-05-08T03:29:00Z
+    webUrl: "https://www.wsj.com/articles/worlds-top-ai-researchers-debate-the-technologys-next-steps-55be2849?mod=hp_listc_pos2&autoplay=false"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-777121/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Google AI chief quits due to concerns about dangers from technology"
     excerpt: "Artificial intelligence pioneer Geoffrey Hinton said he realized computers could become smarter than people far sooner than he and other experts had expected"
     publishedDateTime: 2023-05-07T15:48:00Z
