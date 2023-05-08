@@ -24,17 +24,6 @@ images:
     height: 520
     isCached: true
 
-related:
-  - title: "An AI startup pledges to help, not replace, journalists"
-    excerpt: "Nota, which can generate headlines and short video from stories, is featured in a new Journalism Hub from Microsoft."
-    publishedDateTime: 2023-05-03T07:30:00Z
-    webUrl: "https://www.fastcompany.com/90890918/microsoft-journalism-hub-nota"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 17
-
 secured: "VuulpPbV6C1P5R3Qn1yANpfpFcjzUQ9GR0TTRte1dyfavRQUuwqeA3FOJNiOd4KLr1lsj4rfKeNhFfvxQnYJMM56khnEmdy+O5yor23pSTbaD79SOlDCPlJ5pEnch6OtUnHZar99x72ATfoKKZWgKy8eeycHNzVCq1mGKa3U66xYhWcwAbWmk0CbWzwrbkZrktsVWKYzajLz58L1qxWSB2FfJlN94PR9ywokTDMa5e5OYYJLP6E1yf5WzSxxojJ23RLQZH7exg4+yrzSrsgANpyQ4eVU4/jWER4S7fhUenIjlV1VHClwYw/qnDEWnmD5v1Xvct3UZdNdVE0B+16u5w6J0rdQoZvdyZwYSX2Ok61UYeKHMgj92N4GDrPv7579ui+DOxay3IuBTADMu0KzuGUfZUzU2vFPho2U0JeCsVy/2YbItuP9jlujof2u+L5iCjL06EdGvRFl/qnMNcL6m/3zT7UuYUnixS9u8YJcv1xKNCVD7VzgJHx0vJlqMC4WO7uyO+b8Rv7nR3odquNW4Q==;wO21t0nSeog6gyJoC/F+jg=="
 ---
 

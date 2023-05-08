@@ -36,22 +36,6 @@ related:
         width: 630
         height: 330
         isCached: true
-  - title: "Skilling up the security team for the AI-dominated era"
-    excerpt: "Defending against AI-enabled attackers and hardening enterprise AI systems will require new security skills. Threat hunters, data scientists, developers and prompt engineers are part of the answer."
-    publishedDateTime: 2023-05-03T09:00:00Z
-    webUrl: "https://www.csoonline.com/article/3694896/skilling-up-the-security-team-for-the-ai-dominated-era.html"
-    ampWebUrl: "https://www.csoonline.com/article/3694896/skilling-up-the-security-team-for-the-ai-dominated-era.amp.html"
-    cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3694896/skilling-up-the-security-team-for-the-ai-dominated-era.amp.html"
-    type: article
-    provider:
-      name: CSOonline
-      domain: csoonline.com
-    quality: 74
-    images:
-      - url: "https://images.idgesg.net/images/article/2018/07/programmer_certification-skills_developer_devops_data-scientist_laptop_by-brayden-george-unsplash-100764331-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Preparing to Integrate Machine Learning and AI Into Pricing, Billing and Invoicing"
     excerpt: "While AI's applications to back-office business operations like pricing, billing and invoicing may not be as flashy as AI-generated brief writing, they will be just as critical for the business of law firms."
     publishedDateTime: 2023-05-05T13:54:00Z

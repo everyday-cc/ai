@@ -48,22 +48,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 82
-  - title: "Skilling up the security team for the AI-dominated era"
-    excerpt: "Defending against AI-enabled attackers and hardening enterprise AI systems will require new security skills. Threat hunters, data scientists, developers and prompt engineers are part of the answer."
-    publishedDateTime: 2023-05-03T09:00:00Z
-    webUrl: "https://www.csoonline.com/article/3694896/skilling-up-the-security-team-for-the-ai-dominated-era.html"
-    ampWebUrl: "https://www.csoonline.com/article/3694896/skilling-up-the-security-team-for-the-ai-dominated-era.amp.html"
-    cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3694896/skilling-up-the-security-team-for-the-ai-dominated-era.amp.html"
-    type: article
-    provider:
-      name: CSOonline
-      domain: csoonline.com
-    quality: 74
-    images:
-      - url: "https://images.idgesg.net/images/article/2018/07/programmer_certification-skills_developer_devops_data-scientist_laptop_by-brayden-george-unsplash-100764331-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "OrEJf1ad6rXzMzbPhoHpXhVdwveJfUTBnDO8H90rEyjiPowdxmoNUneETsFGLZNawnyu3uHTYJqvyyQ4QAu8H0a6aV2ga5KG4PiT0OULjLl5OKt9drsDj8JycGUIzyq6S1bQCrFIwWb/xKP6C8J9WtLj09Fz0uAocENCQdhjetjpvzelO7sqY9ZKZijQUgOjxADjfYl/xWxoGROAY4ke9ZyiDLhFgLrPioF3Mh7HyprZUphNm5emVpzcX3ED+zD0Nn088uDzHOUXbaWP1Abbc7ApI2bUC9rorBmKyEt278RU06NqWZRG1B7eC1C0CAlw/B3ZxopoVFw0tPqumlKbKoX+c7QIsVAJnIyZDBMPz/VfQ2p4Gy1Vs/RW7zlL908f/lsSKuxrRAoZI1YPk/XD72fVZKkHDnXJC5PoLnoOoN6GRVypQd8ChyNvBHYhRHpXkx6Fb5iuy3Lhahy8xsLbWjBP+KxlFQFzN+kTcHd1LIG4pC2C/Jkwk+v5Eah0/5eW4+E1USLl5jM75VEyJcdZvQ==;jFwBOsfjErzyXv/rOYoN7Q=="
 ---

@@ -2,6 +2,247 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-05-03-should-we-stop-developing-ai-for-the-good-of-humanity.md",
+      "title": "Should We Stop Developing AI For The Good Of Humanity?",
+      "excerpt": "Many high-profile tech figures, including Steve Wozniak and Elon Musk, are calling for a pause in the development of AI over concerns about its potential to cause harm, whether intentionally or unintentionally.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/05/03/should-we-stop-developing-ai-for-the-good-of-humanity/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/05/03/should-we-stop-developing-ai-for-the-good-of-humanity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6451ff360cd981ad54ee1aee/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/05/03/should-we-stop-developing-ai-for-the-good-of-humanity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/05/03/should-we-stop-developing-ai-for-the-good-of-humanity/amp/",
+      "publishedDateTime": "2023-05-02T23:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-03-artificial-intelligence-detecting-cancer-in-some-us-hospitals.md",
+      "title": "Artificial Intelligence detecting cancer in some U.S. hospitals",
+      "excerpt": "Doctors believe Artificial Intelligence is now saving lives, after a major advancement in breast cancer screenings. A.I. is detecting early signs of the disease, in some cases years before doctors would find the cancer on a traditional scan.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/video/6326643971112",
+      "originalUrl": "https://www.foxnews.com/video/6326643971112",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/64a7bf5e-cbc4-4589-b30a-252fdbf7d8bf/ce181432-e4f7-4d55-a2a1-64d01842ee04/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-02T22:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-03-automated-machine-learning-automl-market-analysis-and-forecast-to-2031.md",
+      "title": "Automated Machine Learning (AutoML) Market Analysis and Forecast to 2031",
+      "excerpt": "May 03, 2023 (The Expresswire) -- \"Automated Machine Learning (AutoML) Market\" is expected to witness significant growth in the coming years,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-analysis-and-forecast-to-2031-2023-05-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-analysis-and-forecast-to-2031-2023-05-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-02T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-05-03-deep-learning-pioneer-geoffrey-hinton-has-quit-google.md",
+      "title": "Deep learning pioneer Geoffrey Hinton has quit Google",
+      "excerpt": "Hinton will be speaking at EmTech Digital on Wednesday. Geoffrey Hinton, a VP and engineering fellow at Google and a pioneer of deep learning who developed some of the most important techniques at ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2023/05/01/1072478/deep-learning-pioneer-geoffrey-hinton-quits-google/",
+      "originalUrl": "https://www.technologyreview.com/2023/05/01/1072478/deep-learning-pioneer-geoffrey-hinton-quits-google/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/04/eyevine01515042.jpeg?w=2845",
+          "width": 2845,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2023/05/01/1072478/deep-learning-pioneer-geoffrey-hinton-quits-google/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/05/01/1072478/deep-learning-pioneer-geoffrey-hinton-quits-google/amp/",
+      "publishedDateTime": "2023-05-02T19:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-03-kinetica-taps-chatgpt-for-natural-language-sql-database-queries.md",
+      "title": "Kinetica taps ChatGPT for natural language SQL database queries",
+      "excerpt": "Kinetica, a relational database provider for online analytical processing (OLAP) and real-time analytics, is harnessing the power of OpenAI’s ChatGPT to let developers use natural language processing to do SQL queries. Kinetica, which offers its database ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reseller.co.nz/article/706950/kinetica-taps-chatgpt-natural-language-sql-database-queries/",
+      "originalUrl": "https://www.reseller.co.nz/article/706950/kinetica-taps-chatgpt-natural-language-sql-database-queries/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/promoted_content/promo/chatgpt-browser-erweiterungen_chuan-chuan-100937275-orig_4.jpgautowebp8570",
+          "width": 560,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-02T17:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reseller News",
+        "domain": "reseller.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-03-hollywood-screenwriters-dont-want-robots-taking-their-jobs-either.md",
       "title": "Hollywood screenwriters don’t want robots taking their jobs, either",
       "excerpt": "The thousands of WGA scribes who went on strike this week are concerned in part about the rise of AI — and how the major studios might tap the technology going forward.",
@@ -981,247 +1222,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-botkeeper-operating-system-bos-awarded-for-artificial-intelligence-machine-learning-solution.md",
-      "title": "Botkeeper Operating System (BOS) Awarded for Artificial Intelligence / Machine Learning Solution",
-      "excerpt": "The Botkeeper Operating System (BOS) is designed to ease capacity issues by automating the bookkeeping work that slows firms down and deprives their growing advisory service practices of needed resources.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/botkeeper-operating-system-bos-awarded-for-artificial-intelligence-machine-learning-solution-1032281956",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/botkeeper-operating-system-bos-awarded-for-artificial-intelligence-machine-learning-solution-1032281956",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2066404/Botkeeper_Bronze_Winner.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-02T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions.md",
-      "title": "SAP to Embed IBM Watson Artificial Intelligence into SAP® Solutions",
-      "excerpt": "New AI capabilities in SAP Start will be designed to help users boost productivity with both natural language capabilities and predictive insights using IBM Watson AI solutions built on IBM's ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/pr-newswire/20230502cl86092/sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions",
-      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20230502cl86092/sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-02T06:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-atari-and-anima-turn-classic-arcade-game-characters-into-ar-and-ai-onlybots.md",
-      "title": "Atari and Anima turn classic arcade game characters into AR and AI Onlybots",
-      "excerpt": "Gaming companies Atari and Anima have joined forces to bring iconic Atari characters into Anima's Onlybots AI and augmented reality universe.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/atari-and-anima-team-up-to-talk-to-the-classics-in-onlybots/",
-      "originalUrl": "https://venturebeat.com/games/atari-and-anima-team-up-to-talk-to-the-classics-in-onlybots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/05/Atari-x-Onlybots.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 681,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/games/atari-and-anima-team-up-to-talk-to-the-classics-in-onlybots/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/atari-and-anima-team-up-to-talk-to-the-classics-in-onlybots/amp/",
-      "publishedDateTime": "2023-05-02T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-generative-ai-wont-take-off-without-6g.md",
-      "title": "Generative AI Won’t Take Off Without 6G",
-      "excerpt": "Although the sixth generation of broadband internet and mobile technology won’t emerge widely for a number of years, organizations are exploring business innovations for a more intelligent, immersive world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sap/2023/05/02/generative-ai-wont-take-off-without-6g/",
-      "originalUrl": "https://www.forbes.com/sites/sap/2023/05/02/generative-ai-wont-take-off-without-6g/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64248ed36d63fa962ef43b0c/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sap/2023/05/02/generative-ai-wont-take-off-without-6g/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2023/05/02/generative-ai-wont-take-off-without-6g/amp/",
-      "publishedDateTime": "2023-05-02T05:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-letter-from-the-editor-how-generative-ai-is-shaping-the-future-of-journalism-and-our-newsroom.md",
-      "title": "Letter from the editor: How generative AI is shaping the future of journalism and our newsroom",
-      "excerpt": "I sent this memo to the editorial staff at VentureBeat today, explaining the way I think that we should approach this moment in digital media.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/letter-from-the-editor-how-generative-ai-is-shaping-the-future-of-journalism-and-our-newsroom/",
-      "originalUrl": "https://venturebeat.com/ai/letter-from-the-editor-how-generative-ai-is-shaping-the-future-of-journalism-and-our-newsroom/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/05/journo.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/letter-from-the-editor-how-generative-ai-is-shaping-the-future-of-journalism-and-our-newsroom/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/letter-from-the-editor-how-generative-ai-is-shaping-the-future-of-journalism-and-our-newsroom/amp/",
-      "publishedDateTime": "2023-05-02T04:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

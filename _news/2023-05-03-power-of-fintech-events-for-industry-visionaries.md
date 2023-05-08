@@ -56,15 +56,6 @@ related:
         width: 1600
         height: 800
         isCached: true
-  - title: "How Artificial Intelligence is Revolutionising the Fintech Landscape?"
-    excerpt: "According to surveys, 2/3 of FinTech companies currently use AI technology in their activities to a greater or lesser extent. Its influence will increase. Last year, the worldwide market for AI solutions in the FinTech industry was assessed at roughly 9  billion USD;"
-    publishedDateTime: 2023-05-03T08:01:00Z
-    webUrl: "https://www.finextra.com/blogposting/24145/how-artificial-intelligence-is-revolutionising-the-fintech-landscape"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 19
 
 secured: "IxcTGmYe1OPnvmQTjaMjXBoBDhHeQx1b3EUipfgHRGw+YaDWyOd5R2ZCLPaT1Lfm+7cQK5iOLjJmhfckF0QcXBptvRv5jaXlhx0hgmLjYgPMNoY1+aNuNGu5/4fSJ3/gq0UZnQYRA3OOgDvZB4YvGu2wJCwRqhqlaCbRdSYzykXm2KAl+lgdswV42oaea5jv+EWnYeKlRc6qBSnODGXY4NcKDQkVzqHRm5w+baDvbXG9EJvU9aiZypMFHnHkMnx0gglmZIHxFbWl6vlCRQUgIWm2Z1Lfm9q86cWHkh4nzKsYsuiqLopYPt9vVhcbKUW2lwqHy+I1+KdPVKKvSABKrinZe5W1Qy5ZZE5tDqCn+iIAgTewmbVYGgSUTCzywIujQB4Pul9nAjaat5TpQQkq9KeyN2ZR+ZBMt0AB1KMrs2VNouS4+x7AZlEqT71nBZBFhgLH72eJ+CidHAAqz0P2QCoxery33OfowukBr30C0RL7CV7O/x4hyjn99HfkmGxJSNXglmYQYD9opPadd0touw==;cgvJRXV+LNqxTDpLZ3dFRw=="
 ---

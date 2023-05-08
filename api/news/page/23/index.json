@@ -2,6 +2,249 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2023-04-22-smart-gun-operating-on-facial-recognition-goes-on-sale-in-us.md",
+      "title": "Smart gun operating on facial recognition goes on sale in US",
+      "excerpt": "BROOMFIELD, Colorado, April 21 (Reuters) - Colorado-based Biofire Tech is taking orders for a smart gun enabled by facial-recognition technology, the latest development in personalized weapons ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/smart-gun-operating-facial-recognition-goes-sale-us-2023-04-21/",
+      "originalUrl": "https://www.reuters.com/technology/smart-gun-operating-facial-recognition-goes-sale-us-2023-04-21/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/3QESb8uRDuLZlEpJhhYMYXjAAJQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LSI4GLAGWROZ7A6B7VSEVRGZVA.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-21T14:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-22-artificial-intelligence-in-the-garden-of-eden.md",
+      "title": "Artificial Intelligence in the Garden of Eden",
+      "excerpt": "The dawn of the internet age was so exciting. I took my grade-school son, enthralled by Apple computers, to see Steve Jobs speak at a raucous convention in New York almost a quarter-century ago.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/artificial-intelligence-in-the-garden-of-eden-adam-eve-gates-zuckerberg-technology-god-internet-40a4477a",
+      "originalUrl": "https://www.wsj.com/articles/artificial-intelligence-in-the-garden-of-eden-adam-eve-gates-zuckerberg-technology-god-internet-40a4477a",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-767058/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-21T13:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-04-22-ai-ml-data-news-roundup-hugginggpt-aws-bedrock-microsoft-visual-chatgpt-and-stablelm.md",
+      "title": "AI, ML & Data News Roundup: HuggingGPT, AWS Bedrock, Microsoft Visual ChatGPT, and StableLM",
+      "excerpt": "The latest update for the week of April 17th, 2023, includes the recent advancements and announcements in the domains of data science, machine learning, and artificial intelligence. The spotlight this week is on top players like Hugging Face,",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2023/04/ai-ml-data-news-april17-2023/",
+      "originalUrl": "https://www.infoq.com/news/2023/04/ai-ml-data-news-april17-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-21T12:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-22-chatgpt-and-generative-ai-our-guide-to-2023s-most-talked-about-technology.md",
+      "title": "ChatGPT and Generative AI: Our Guide to 2023's Most Talked-About Technology",
+      "excerpt": "ChatGPT brought generative AI into the limelight when it hit 1 million users in five days. But how valid is the buzz around ChatGPT?",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/chatgpt-and-generative-ai-guide-to-most-talked-about-technology-2023-april",
+      "originalUrl": "https://www.businessinsider.com/chatgpt-and-generative-ai-guide-to-most-talked-about-technology-2023-april",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64403fa23f6f690018de9578?width=1200&format=jpeg",
+          "width": 470,
+          "height": 352,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/chatgpt-and-generative-ai-guide-to-most-talked-about-technology-2023-april?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-and-generative-ai-guide-to-most-talked-about-technology-2023-april?amp",
+      "publishedDateTime": "2023-04-21T11:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-21-ibm-and-texas-am-agrilife-provide-data-technology-and-expertise-to-farmers-in-need.md",
+      "title": "IBM and Texas A&M AgriLife provide data, technology and expertise to farmers in need",
+      "excerpt": "In Texas, 2022 was one of the driest years on record. With failed crops, low yields for farmers and diminished grazing for cattle, the Texas Department of Agriculture identified climate change as a potential threat to the state&#8217;s food supply. Smallholder farmers, particularly those in arid and",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/ibm-and-texas-am-agrilife-provide-data-technology-and-expertise-to-farmers-in-need/",
+      "originalUrl": "https://www.ibm.com/blog/ibm-and-texas-am-agrilife-provide-data-technology-and-expertise-to-farmers-in-need/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/04/IBM-and-Texas-AM-AgriLife-provide-data-technology-and-expertise-to-farmers-in-need-630x330.jpg",
+          "width": 630,
+          "height": 330,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-21T11:25:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-22-top-10-artificial-intelligence-ai-companies-in-2023.md",
       "title": "Top 10 Artificial Intelligence (AI) Companies in 2023",
       "excerpt": "When it comes to technological advancement Artificial Intelligence and machine learning are one of the core technologies that we can find at the base. Whether it could be Data Science or metaverse ...",
@@ -943,239 +1186,6 @@
         "AI in Autos",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-artificial-intelligence-for-accounting-market-global-trends-and-prospects-2023.md",
-      "title": "Artificial Intelligence for Accounting Market: Global Trends and Prospects 2023",
-      "excerpt": "Pre and Post-Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-for-accounting-market-global-trends-and-prospects-2023-2023-04-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-for-accounting-market-global-trends-and-prospects-2023-2023-04-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-21T02:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-google-creates-new-unit-called-google-deepmind-to-focus-on-ai-projects.md",
-      "title": "Google Creates New Unit Called “Google DeepMind” To Focus On AI Projects",
-      "excerpt": "Google has announced the merger of DeepMind and Google Brain team from the Google Research team to boost AI development efforts.",
-      "sourceUrl": null,
-      "webUrl": "https://techreport.com/news/3495608/google-creates-new-unit-called-google-deepmind-to-focus-on-ai-projects/",
-      "originalUrl": "https://techreport.com/news/3495608/google-creates-new-unit-called-google-deepmind-to-focus-on-ai-projects/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techreport.com/wp-content/uploads/2023/04/rajeshwar-bachu-K4txLik7pnY-unsplash-1-scaled.jpg",
-          "width": 2560,
-          "height": 1840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-21T02:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Tech Report",
-        "domain": "techreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-the-best-shows-on-amazon-prime-right-now-april-2023.md",
-      "title": "The best shows on Amazon Prime right now (April 2023)",
-      "excerpt": "Follow her on Twitter @christinetechCA. If you’ve been searching for some of the greatest horror movies you can stream, Amazon Prime Video has got you covered. Home to hundreds of chilling ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/movies/best-shows-on-amazon-prime/",
-      "originalUrl": "https://www.digitaltrends.com/movies/best-shows-on-amazon-prime/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/04/dead-ringers-prime-video.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/movies/best-shows-on-amazon-prime/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/best-shows-on-amazon-prime/?amp",
-      "publishedDateTime": "2023-04-21T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-microsoft-365-outage-blocks-access-to-web-apps-and-services.md",
-      "title": "Microsoft 365 outage blocks access to web apps and services",
-      "excerpt": "Microsoft is investigating an ongoing outage blocking customers worldwide from accessing and using web apps like Excel Online and online services. The list of affected services includes Microsoft ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-blocks-access-to-web-apps-and-services/",
-      "originalUrl": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-blocks-access-to-web-apps-and-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bleepstatic.com/content/hl-images/2021/10/20/Microsoft_365.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-blocks-access-to-web-apps-and-services/amp/",
-      "cdnAmpWebUrl": "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-blocks-access-to-web-apps-and-services/amp/",
-      "publishedDateTime": "2023-04-21T00:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bleeping Computer",
-        "domain": "bleepingcomputer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-artificial-intelligence-has-its-own-challenges.md",
-      "title": "Artificial intelligence has its own challenges",
-      "excerpt": "The use of AI is a complex subject with many legal and ethical complications. Artificial intelligence-generated content can also result in copyright infringement and legal disputes. Furthermore ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailypioneer.com/2023/columnists/artificial-intelligence-has-its-own-challenges.html",
-      "originalUrl": "https://www.dailypioneer.com/2023/columnists/artificial-intelligence-has-its-own-challenges.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dailypioneer.com/uploads/2023/story/images/big/artificial-intelligence-has-its-own-challenges-2023-04-21.jpg",
-          "width": 1000,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-21T00:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Pioneer",
-        "domain": "dailypioneer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

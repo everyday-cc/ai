@@ -55,15 +55,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 66
-  - title: "Photonic AI Chip Market size Dynamics 2023-2030"
-    excerpt: "Global\" Photonic AI Chip Market \"report provides a comprehensive analysis of the market, including its current"
-    publishedDateTime: 2023-05-03T07:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/photonic-ai-chip-market-size-dynamics-2023-2030-2023-05-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
   - title: "Natural Language Processing For Healthcare And Life Sciences Market Size, Revenue, and Forecast 2030"
     excerpt: "Highlights with Short Brief of Natural Language Processing For Healthcare And Life Sciences Market: The Natural Language Processing For Healthcare And Life Sciences market revenue was Million USD in 2016, grew to Million USD in 2021, and will reach Million ..."
     publishedDateTime: 2023-05-04T12:10:00Z

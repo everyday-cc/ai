@@ -25,36 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Try 4 new Arts and AI experiments"
-    excerpt: "Four new online interactive artworks from Google Arts & Culture Lab artists in residence"
-    publishedDateTime: 2023-05-03T09:00:00Z
-    webUrl: "https://blog.google/outreach-initiatives/arts-culture/try-4-new-arts-and-ai-experiments/"
-    ampWebUrl: "https://blog.google/outreach-initiatives/arts-culture/try-4-new-arts-and-ai-experiments/amp/"
-    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/arts-culture/try-4-new-arts-and-ai-experiments/amp/"
-    type: article
-    provider:
-      name: Google
-      domain: blog.google
-    quality: 109
-    images:
-      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Generative_Bundle_Hero_Image_GIF.gif"
-        width: 600
-        height: 369
-        isCached: true
-  - title: "Digital Video Publishers Tout AI and New Metrics at NewFronts Sales Events"
-    excerpt: "Artificial intelligence, entertainment-industry turmoil and new ways of gauging the success of advertising loomed large at this week’s NewFronts media showcases for digital ad buyers."
-    publishedDateTime: 2023-05-05T09:00:00Z
-    webUrl: "https://www.wsj.com/articles/digital-video-publishers-tout-ai-and-new-metrics-at-newfronts-sales-events-97a42c4f"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 82
-    images:
-      - url: "https://images.wsj.net/im-776380/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "AI Could Enable 10,000 Robot-Led Microbe Experiments Per Day"
     excerpt: "Automation uncovers combinations of amino acids that feed two bacterial species and could tell us much more about the 90% of bacteria that humans have hardly studied."
     publishedDateTime: 2023-05-05T09:13:00Z
@@ -92,38 +62,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
-  - title: "AI Experts Aren’t Always Right About AI"
-    excerpt: "Creating a system of checks and balances for artificial intelligence systems is a task for social and political scientists."
-    publishedDateTime: 2023-05-06T12:01:00Z
-    webUrl: "https://www.bloomberg.com/opinion/articles/2023-05-06/ai-experts-aren-t-always-right-about-ai"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
-  - title: "Experts' take on AI service management"
-    excerpt: "The draft emphasizes the obligations and responsibilities of AI service providers, such as how to handle complaints, provide data and deal with misdeeds. As for the regulatory authorities, they will be allowed to deliver administrative punishment including giving a warning, criticizing and imposing administrative penalties."
-    publishedDateTime: 2023-05-07T23:15:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202305/08/WS6458310ca310b6054fad1874.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 39
-    images:
-      - url: "http://img2.chinadaily.com.cn/images/202305/08/6458310ca310b60580cc76e6.jpeg"
-        width: 489
-        height: 326
-        isCached: true
-  - title: "Art world AI-nxiety: what is artificial intelligence and how are artists using it?"
-    excerpt: "From breaking news and insider insights to exhibitions and events around the world, the team at The Art Newspaper picks apart the art world’s big stories with the help of special guests."
-    publishedDateTime: 2023-05-05T18:15:00Z
-    webUrl: "https://www.theartnewspaper.com/2023/04/28/art-world-ai-nxiety-what-is-artificial-intelligence-and-how-are-artists-using-it"
-    type: article
-    provider:
-      name: The Art Newspaper
-      domain: theartnewspaper.com
-    quality: 28
   - title: "BacterAI: New AI system enables robots to conduct 10,000 scientific experiments a day"
     excerpt: "Scientists created BacterAI, an AI-powered system enabling robots to conduct 10,000 experiments daily, accelerating scientific discoveries."
     publishedDateTime: 2023-05-05T13:10:00Z

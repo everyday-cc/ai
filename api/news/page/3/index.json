@@ -2,6 +2,204 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-05-05-white-house-big-tech-bosses-told-to-protect-public-from-ai-risks.md",
+      "title": "White House: Big Tech bosses told to protect public from AI risks",
+      "excerpt": "Tech bosses were summoned to the White House on Thursday and told they must protect the public from the dangers of Artificial Intelligence (AI). Sundar Pichai of Google, Satya Nadella of Microsoft, and OpenAI's Sam Altmann were told they had a \"moral\" duty to safeguard society.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/business-65489163",
+      "originalUrl": "https://www.bbc.com/news/business-65489163",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/E7CC/production/_129604395_aigetty.png",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/business-65489163.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-65489163.amp",
+      "publishedDateTime": "2023-05-04T17:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-05-datastax-extends-ai-feature-engineering-with-luna-ml.md",
+      "title": "DataStax extends AI feature engineering with Luna ML",
+      "excerpt": "DataStax continues to build out its AI capabilities with today's launch of Luna ML, which supports AI feature engineering.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/datastax-extends-ai-feature-engineering-with-luna-ml/",
+      "originalUrl": "https://venturebeat.com/ai/datastax-extends-ai-feature-engineering-with-luna-ml/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1350668583-e1677167586240.jpg?fit=800%2C600&strip=all",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/datastax-extends-ai-feature-engineering-with-luna-ml/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/datastax-extends-ai-feature-engineering-with-luna-ml/amp/",
+      "publishedDateTime": "2023-05-04T16:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-05-05-opinion-california-wrong-to-expand-facial-recognition-use.md",
+      "title": "Opinion: California Wrong to Expand Facial Recognition Use",
+      "excerpt": "The technology still misidentifies individuals, especially when it’s focused on people of color. While the technology has advanced, the problems haven't gone away, and new legislation won’t fix them either.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/opinion/opinion-california-wrong-to-expand-facial-recognition-use",
+      "originalUrl": "https://www.govtech.com/opinion/opinion-california-wrong-to-expand-facial-recognition-use",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/cf6e9f9/2147483647/strip/true/crop/940x490+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F13%2F77%2F5763ddd14e65eb9c7594500441fc%2Fshutterstock-1270097047.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/opinion/opinion-california-wrong-to-expand-facial-recognition-use?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/opinion/opinion-california-wrong-to-expand-facial-recognition-use?_amp=true",
+      "publishedDateTime": "2023-05-04T15:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-05-square-enix-fans-arent-pleased-with-machine-learning-test.md",
+      "title": "Square Enix fans aren’t pleased with machine learning test",
+      "excerpt": "Square Enix used machine learning and natural language processing in a visual novel, and fans found that it didn't understand them at all.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/games/square-enix-fans-arent-pleased-with-machine-learning-test/",
+      "originalUrl": "https://venturebeat.com/games/square-enix-fans-arent-pleased-with-machine-learning-test/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/Square-Enix-Portopia-Case.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/games/square-enix-fans-arent-pleased-with-machine-learning-test/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/square-enix-fans-arent-pleased-with-machine-learning-test/amp/",
+      "publishedDateTime": "2023-05-04T15:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-05-as-alexa-flounders-amazon-hopes-homegrown-generative-ai-can-find-it-revenue.md",
       "title": "As Alexa flounders, Amazon hopes homegrown generative AI can find it revenue",
       "excerpt": "But while Google Assistant and Google's experimental Bard chatbot currently feel like different products with different uses, Amazon has dreams of uniting its generative AI efforts with its struggling Alexa business.",
@@ -61,7 +259,7 @@
       "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/05/04/synopsysairevolutionizing-chip-design-through-ai-driven-eda-suite/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -483,7 +681,7 @@
       "originalUrl": "https://www.reuters.com/article/amd-ai-microsoft/update-1-microsoft-helping-finance-amds-expansion-into-ai-chips-bloomberg-idUSL4N3714JL",
       "featuredContent": null,
       "highlight": null,
-      "heat": 458,
+      "heat": 468,
       "tags": null,
       "images": [
         {
@@ -640,7 +838,7 @@
       "originalUrl": "https://www.forbes.com/sites/gregpetro/2023/05/04/behind-the-hype-about-ai-transforming-consumer-businesses/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -879,7 +1077,7 @@
       "originalUrl": "https://www.ibm.com/blog/supporting-teachers-in-their-stem-skilling-journeys/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 132,
+      "heat": 122,
       "tags": null,
       "images": [
         {
@@ -1013,212 +1211,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-joe-biden-wants-hackers-help-to-keep-ai-chatbots-in-check.md",
-      "title": "Joe Biden Wants Hackers’ Help to Keep AI Chatbots In Check",
-      "excerpt": "The White House will support an event at the Defcon security conference this summer that challenges experts to uncover flaws in generative AI systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/joe-biden-hackers-chatgpt-ai-chatbots/",
-      "originalUrl": "https://www.wired.com/story/joe-biden-hackers-chatgpt-ai-chatbots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6452fde252bb92d7ad7c2fde/master/pass/AI_Biz_GettyImages-1486928284.jpg",
-          "width": 2157,
-          "height": 1618,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/joe-biden-hackers-chatgpt-ai-chatbots/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/joe-biden-hackers-chatgpt-ai-chatbots/amp",
-      "publishedDateTime": "2023-05-04T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-lack-of-ai-and-automation-adoption-hinders-employee-productivity-slack-report.md",
-      "title": "Lack of AI and automation adoption hinders employee productivity: Slack report",
-      "excerpt": "A new Slack report finds companies that have embraced AI are 90% more likely to report increased productivity levels than those that have not.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/lack-of-ai-and-automation-adoption-hinders-employee-productivity-slack-report/",
-      "originalUrl": "https://venturebeat.com/ai/lack-of-ai-and-automation-adoption-hinders-employee-productivity-slack-report/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/01/IMG_6947-e1683154170277.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/lack-of-ai-and-automation-adoption-hinders-employee-productivity-slack-report/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/lack-of-ai-and-automation-adoption-hinders-employee-productivity-slack-report/amp/",
-      "publishedDateTime": "2023-05-04T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-gpt-based-ai-neural-network-decodes-brain-activity-without-surgery.md",
-      "title": "GPT-based AI Neural Network Decodes Brain Activity without Surgery",
-      "excerpt": "This research can help patients with conditions such as locked-in syndrome, where patients are unable to communicate due to paralysis",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2023/05/04/gpt-based-neural-network-decodes-brain/",
-      "originalUrl": "https://www.gizmochina.com/2023/05/04/gpt-based-neural-network-decodes-brain/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2023/05/alina-grubnyak-ZiQkhI7417A-unsplash-1024x683-1.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-04T00:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-geoff-hinton-ais-most-famous-researcher-warns-of-existential-threat.md",
-      "title": "Geoff Hinton, AI’s Most Famous Researcher, Warns Of ‘Existential Threat’",
-      "excerpt": "Geoffrey Everest Hinton, a seminal figure in the development of artificial intelligence, painted a frightening picture of the technology he helped create on Wednesday in his first public appearance since stunning the scientific community with his abrupt about face on the threat posed by AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/craigsmith/2023/05/04/geoff-hinton-ais-most-famous-researcher-warns-of-existential-threat/",
-      "originalUrl": "https://www.forbes.com/sites/craigsmith/2023/05/04/geoff-hinton-ais-most-famous-researcher-warns-of-existential-threat/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/645350233eb26555726d5a17/0x0.jpg?format=jpg&crop=1891,1064,x0,y513,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/craigsmith/2023/05/04/geoff-hinton-ais-most-famous-researcher-warns-of-existential-threat/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/craigsmith/2023/05/04/geoff-hinton-ais-most-famous-researcher-warns-of-existential-threat/amp/",
-      "publishedDateTime": "2023-05-03T23:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

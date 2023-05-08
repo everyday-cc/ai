@@ -25,53 +25,51 @@ images:
     isCached: true
 
 related:
-  - title: "Behind The Hype About AI Transforming Consumer Businesses"
-    excerpt: "Explore the future of retail in a world dominated by AI-generated content. Is the physical store making a comeback?"
-    publishedDateTime: 2023-05-04T15:36:00Z
-    webUrl: "https://www.forbes.com/sites/gregpetro/2023/05/04/behind-the-hype-about-ai-transforming-consumer-businesses/"
-    ampWebUrl: "https://www.forbes.com/sites/gregpetro/2023/05/04/behind-the-hype-about-ai-transforming-consumer-businesses/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gregpetro/2023/05/04/behind-the-hype-about-ai-transforming-consumer-businesses/amp/"
+  - title: "The Geopolitics Of AI Chips Will Define The Future Of AI"
+    excerpt: "The most important and widely used AI chip in the world today, Nvidia’s A100 GPU, has transistors that are 7 nanometers wide. Google’s latest tensor processing unit (TPU)—the most credible alternative to Nvidia GPUs— likewise uses 7-nanometer technology."
+    publishedDateTime: 2023-05-07T23:00:00Z
+    webUrl: "https://www.forbes.com/sites/robtoews/2023/05/07/the-geopolitics-of-ai-chips-will-define-the-future-of-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/robtoews/2023/05/07/the-geopolitics-of-ai-chips-will-define-the-future-of-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2023/05/07/the-geopolitics-of-ai-chips-will-define-the-future-of-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/645743bb6563f17e999c02fa/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "The Future Of Communication In The Age Of Artificial Intelligence"
+    excerpt: "Are you ready to future-proof your career? Discover how to blend your unique human skills with AI and stay ahead of the game. Don't risk being left behind and losing your job - read on to find out how to stay relevant in a rapidly evolving workforce,"
+    publishedDateTime: 2023-05-04T23:14:00Z
+    webUrl: "https://www.forbes.com/sites/kwamechristian/2023/05/04/the-future-of-communication-in-the-age-of-artificial-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/kwamechristian/2023/05/04/the-future-of-communication-in-the-age-of-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kwamechristian/2023/05/04/the-future-of-communication-in-the-age-of-artificial-intelligence/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6453cf70c9583ac188eabd27/0x0.jpg?format=jpg&crop=1470,827,x0,y0,safe&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/645437c77701f76c839c02fc/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 675
+        height: 685
         isCached: true
-  - title: "Moving Beyond The Hype: The Ethics And Business Outcomes Of Generative AI"
-    excerpt: "As the ethics and business outcomes of generative AI are discussed, how safe and reliable is the technology and moving forward?"
-    publishedDateTime: 2023-05-04T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/04/moving-beyond-the-hype-the-ethics-and-business-outcomes-of-generative-ai/"
+  - title: "The Future of Artificial intelligence in India"
+    excerpt: "The global artificial intelligence market is expanding due to the need for intelligent systems to increase productivity and efficiency in various sectors, including IT and telecommunications, retail and e-commerce, BFSI, healthcare, manufacturing ..."
+    publishedDateTime: 2023-05-04T11:18:00Z
+    webUrl: "https://www.siliconindia.com/news/general/the-future-of-artificial-intelligence-in-india-nid-222744-cid-1.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 63
-  - title: "5 ways AI is transforming healthcare"
-    excerpt: "AI is revolutionizing healthcare by analyzing large datasets and helping in the detection, prevention, prediction, and treatment of disease."
-    publishedDateTime: 2023-05-03T12:20:00Z
-    webUrl: "https://interestingengineering.com/health/how-ai-is-transforming-healthcare"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 34
-  - title: "Smarter-than-humans artificial intelligence is coming fast as business looks for profits"
-    excerpt: "Voices worried about an AI takeover were thin on the ground a few years ago. But despite a recent flood of calls for restraint as the technology improves by leaps and bounds, AI's money-making and defense potential appears irresistible."
-    publishedDateTime: 2023-05-04T08:00:00Z
-    webUrl: "https://www.cbc.ca/news/business/ai-doom-column-don-pittis-1.6829302"
-    type: article
-    provider:
-      name: CBC.ca
-      domain: www.cbc.ca
-    quality: 30
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 39
     images:
-      - url: "https://i.cbc.ca/1.6829334.1683039668!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/tech-ai-hinton.JPG"
-        width: 620
-        height: 349
+      - url: "https://www.siliconindia.com/news/newsimages/3qXfVidn.jpg"
+        width: 570
+        height: 367
         isCached: true
 
 secured: "lMNNVSH8CpKqfJ6HRc5xYrxONrodNLpFVlhUe7QTwc1iMPG/lmfHt5HVuLff3Ehs36mv3iSRM+QLFGYuqILeymHfS31nlDUnr0UkUdeE8g8SgCyvovn9WwjFMycpNQY9h7YEiNEmc/RydsHfog39OllE+fHszYfslY4x17t4XpAgQ6HFJo1LDPT50Ow+MkHMQ4nLLLiV1ikq2q40ATw1xFNMSV/HzBQxGkZXyYiT5bTXsiV8OaIvSUEEA9gbvMS5MBk+KplH+T523O1niITNCKmSKCt+6ZtIzQvUTpTKHSGWWFgaV359KuavdZ6lbrFqUsN8BhsTMtHgIE+flkC62uxs6cL9ThE413W2Ur/wBuE+/ldGPM5osaVQhpez8Dmiq0HOPsTTHhmNMRsVX1+1Xe2r+rZsVP7YmzfBS2Kra7Upu5pBcmd7fITqQ2joD0tHMcFActLQOdhZ+YJQff+cTLR7v9bA/SFPiBVTIop9IJw2A4lzQH60ZSXDnrvHsmen04vyf+p7fBBBTZfEFRYNbw==;A+cZ4HK9zHYRqLteTdgHGw=="

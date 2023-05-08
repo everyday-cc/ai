@@ -25,51 +25,51 @@ images:
     isCached: true
 
 related:
-  - title: "Where is India in the generative AI race?"
-    excerpt: "In the high-stakes race for supremacy in the field of generative AI, India's bustling startup ecosystem is facing an uphill battle."
-    publishedDateTime: 2023-05-03T09:26:00Z
-    webUrl: "https://techcrunch.com/2023/05/03/where-is-india-in-the-generative-ai-race/"
-    ampWebUrl: "https://techcrunch.com/2023/05/03/where-is-india-in-the-generative-ai-race/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/03/where-is-india-in-the-generative-ai-race/amp/"
+  - title: "The Geopolitics Of AI Chips Will Define The Future Of AI"
+    excerpt: "The most important and widely used AI chip in the world today, Nvidia’s A100 GPU, has transistors that are 7 nanometers wide. Google’s latest tensor processing unit (TPU)—the most credible alternative to Nvidia GPUs— likewise uses 7-nanometer technology."
+    publishedDateTime: 2023-05-07T23:00:00Z
+    webUrl: "https://www.forbes.com/sites/robtoews/2023/05/07/the-geopolitics-of-ai-chips-will-define-the-future-of-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/robtoews/2023/05/07/the-geopolitics-of-ai-chips-will-define-the-future-of-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2023/05/07/the-geopolitics-of-ai-chips-will-define-the-future-of-ai/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/645743bb6563f17e999c02fa/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "The Future Of Communication In The Age Of Artificial Intelligence"
+    excerpt: "Are you ready to future-proof your career? Discover how to blend your unique human skills with AI and stay ahead of the game. Don't risk being left behind and losing your job - read on to find out how to stay relevant in a rapidly evolving workforce,"
+    publishedDateTime: 2023-05-04T23:14:00Z
+    webUrl: "https://www.forbes.com/sites/kwamechristian/2023/05/04/the-future-of-communication-in-the-age-of-artificial-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/kwamechristian/2023/05/04/the-future-of-communication-in-the-age-of-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kwamechristian/2023/05/04/the-future-of-communication-in-the-age-of-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
     quality: 87
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1483825958.jpg?resize=1200,800"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/645437c77701f76c839c02fc/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 800
+        height: 685
         isCached: true
-  - title: "Data science and AI: How it is changing the game for fintechs in India"
-    excerpt: "The financial sector in India has always embraced cutting-edge technologies, and as a result, it has been undergoing transformations. The emergence of FinTech companies in India has disrupted the financial sector and it is now amongst the fastest growing Fintech markets in the world."
-    publishedDateTime: 2023-05-06T05:45:00Z
-    webUrl: "https://www.financialexpress.com/business/blockchain-data-science-and-ai-how-it-is-changing-the-game-for-fintechs-in-india-3075675/"
-    ampWebUrl: "https://www.financialexpress.com/business/blockchain-data-science-and-ai-how-it-is-changing-the-game-for-fintechs-in-india-3075675/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-data-science-and-ai-how-it-is-changing-the-game-for-fintechs-in-india-3075675/lite/"
+  - title: "5 Ways Artificial Intelligence is Changing The Future Of Business"
+    excerpt: "Tech - Artificial intelligence (AI) has been a game-changer in countless ways across the world. Companies and businesses are able to use enhanced AI systems to"
+    publishedDateTime: 2023-05-07T14:39:00Z
+    webUrl: "https://business-review.eu/tech/5-ways-artificial-intelligence-is-changing-the-future-of-business-245442"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
+      name: business-review.eu
+      domain: business-review.eu
+    quality: 39
     images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/05/Add-a-little-bit-of-body-text-15.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Cognizant CEO: ‘Generative AI Will Revolutionize The Technology Services Industry’"
-    excerpt: "Ravi Kumar, who joined Cognizant as CEO in January after 20 years at rival India-based global IT services and consulting firm Infosys, Wednesday told financial analysts at the Teaneck, N.J.-based company’s fiscal first-quarter 2023 financial conference ..."
-    publishedDateTime: 2023-05-04T19:00:00Z
-    webUrl: "https://www.crn.com/news/managed-services/cognizant-ceo-generative-ai-will-revolutionize-the-technology-services-industry-"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 33
-    images:
-      - url: "https://www.crn.com/resources/0281-17ef13153994-989a74181a92-1000/cognizant_ravi_kumar_s_ceo.jpeg"
-        width: 600
-        height: 375
+      - url: "https://business-review.eu/wp-content/uploads/2023/05/AI1.png"
+        width: 624
+        height: 328
         isCached: true
 
 secured: "Y//fpqeQPC2156c5ws7MQrH+pfFXXY7M0/rca6VeLC58c5pgTQNt/7bq8xeLjG+Kk2VbPU/z+rvd3PnCE6kJSSDUdbHWOTrB/jCshWBHnmAhK7nFVGaOx0FxyCB2c+BK1i6W7FtD9fI86bTGhRvEwF4zu/TxkI8gQfLDk31n7E3YQHVTqRny9KVkQcvKC9LuAShtdYnDygJyUyWPm10s4pMrg0eRjV6DgTxDD2Nd5drcOi3xoaDhzf5t1DscpgbH8j/42QFlJiC/x9jmv4BXmvHtezyQ0YKS8plUpc0Vh7ZdaudsjK1UeYjaarWLeQ78Jm1v1sOHaru334gZtntU/umrjX12Mk6O+2tRk/nj0BA=;3zxiG/LYM0o3NRwSM+sKtQ=="

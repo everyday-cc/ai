@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/self-driving-driverless-
 webUrl: "https://www.marketwatch.com/press-release/self-driving-driverless-cars-market-2023-analysis-by-2029-tesla-bmw-daimler-2023-05-05"
 type: article
 quality: 94
-heat: 194
+heat: 184
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Self-Driving Car for AI Programming Market Future Growth and Detail Analysis of Industry Up to 2030"
-    excerpt: "The following is a synopsis of a market research report on the Self-Driving Car for AI Programming Market research"
-    publishedDateTime: 2023-05-03T07:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-for-ai-programming-market-future-growth-and-detail-analysis-of-industry-up-to-2030-2023-05-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

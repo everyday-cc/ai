@@ -51,20 +51,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-Driving Car for AI Programming Market Future Growth and Detail Analysis of Industry Up to 2030"
-    excerpt: "The following is a synopsis of a market research report on the Self-Driving Car for AI Programming Market research"
-    publishedDateTime: 2023-05-03T07:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-for-ai-programming-market-future-growth-and-detail-analysis-of-industry-up-to-2030-2023-05-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Self-driving Bus Market Growing Demands, Trends and Business Outlook 2023 to 2029 with top Players – AV Volvo, Tesla, Navya"
     excerpt: "The latest global Self-driving Bus Market report provides conclusive information about the industry overview, modern trends, demand, and recent development affecting the market growth during the upcoming year."
     publishedDateTime: 2023-05-05T05:28:00Z

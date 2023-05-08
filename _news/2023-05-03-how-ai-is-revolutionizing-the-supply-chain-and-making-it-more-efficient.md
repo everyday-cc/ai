@@ -55,6 +55,15 @@ related:
         width: 1200
         height: 624
         isCached: true
+  - title: "What the AI Revolution Really Means"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence – or AI – is the newest megatrend to burst"
+    publishedDateTime: 2023-05-06T19:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-is-bringing-a-profitable-revolution-to-all-sectors-1032299076"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "0t/4vJU1hi+TpavvFbNM3fm8/CPecUMvRaApPF6/dqGwGDjyu0bdrsYB2MGc/Ij2ECkGPb8euiURHrZLwAAEAAe9kXdpgS7Tj+v8iLeLR9oS95wW9ZWjyP/4bT583Sh2gsYVOn1nvYmS8s4RIQbIQe4EFMXbLUQsM+DPQ1nb/n1EFawAbvz86+hBQ1OiZCj5B/y1P2Dg/mQDgMqUhIUYMPwabW71VZCoDOi2yTDQh41U/A/xMkoStHtJsL1lflm2k3aA1G0QMbt6j0UhnekTw8ynaCYVITUqKBlPsI/pfDZ9VxOb65Ni+J3fKgGzGAcDcZR6fMSw+MYstkJvPA3+D/eZYeSqtHRRorit+meOWMnkisYTbAXCV59yx0tWJC/DhvVxF5dg4moqWKmSM/5uwcvKvcCUiTbCThx61iKwAdf8q2pMkpzY8JenpeNhNUaKNsFiOD4Te6Mq3gSDcjNpGUQQ9rqIJyaLINQqN8WjGHnUQRVObCH9Yp0IX1/zJnA+sTJ/R+AR4qvuYLy9uc/y7Q==;O9MDAqrW7QlbnTMbYMJ38A=="
 ---

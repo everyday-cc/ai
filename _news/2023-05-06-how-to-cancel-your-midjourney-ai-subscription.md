@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Midjourney 5.1 Arrives - And It’s Another Leap Forward For AI Art"
-    excerpt: "The company claims that version 5.1 of the engine is “more opinionated”, bringing it closer to the kind of results that you would get with version 4 of Midjourney, but at a higher quality. There’s also a “raw” mode, for those who don’t want images that are as strongly opinionated."
-    publishedDateTime: 2023-05-03T08:29:00Z
-    webUrl: "https://www.forbes.com/sites/barrycollins/2023/05/03/midjourney-51-arrivesand-its-another-leap-forward-for-ai-art/"
-    ampWebUrl: "https://www.forbes.com/sites/barrycollins/2023/05/03/midjourney-51-arrivesand-its-another-leap-forward-for-ai-art/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2023/05/03/midjourney-51-arrivesand-its-another-leap-forward-for-ai-art/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64521a0c6292968af6b510dc/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 673
-        isCached: true
   - title: "AI Image Creator Midjourney Reopens Free Trials After Month-Long Pause"
     excerpt: "Midjourney, an enormously popular AI tool for creating photo-realistic images with text prompts, halted free trials at the end of March. But the company is opening up free trials again through the end of the weekend,"
     publishedDateTime: 2023-05-06T01:36:00Z

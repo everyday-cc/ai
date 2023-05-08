@@ -39,6 +39,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Researchers at UMich find a way to reduce the energy consumed by AI"
+    excerpt: "As AI becomes increasingly popular, researchers develop software to decrease energy consumption in an effort to lower carbon footprint."
+    publishedDateTime: 2023-05-07T23:08:00Z
+    webUrl: "https://www.michigandaily.com/research/researchers-at-umich-find-a-way-to-reduce-the-energy-consumed-by-ai/"
+    type: article
+    provider:
+      name: The Michigan Daily
+      domain: michigandaily.com
+    quality: 39
+    images:
+      - url: "https://www.michigandaily.com/wp-content/uploads/2023/05/design.png"
+        width: 2400
+        height: 1600
+        isCached: true
   - title: "As AI ethics are debated, this Google expert says: Consider who’s acting as ‘steward’ of the technology"
     excerpt: "\"The more perspectives, the more communities, the more cultures are brought into this conversation, the better the guardrails,\" Carolyn Yap, director of AI Practice, said during PACT's AI-focused Phorum conference."
     publishedDateTime: 2023-05-04T20:56:00Z

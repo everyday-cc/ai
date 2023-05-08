@@ -124,6 +124,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "ChatGPT and the new AI are wreaking havoc on cybersecurity in exciting and frightening ways"
+    excerpt: "Unrestrained by ethics or law, cybercriminals are racing to use AI to find innovative new hacks, says Recorded Future CEO Christopher Ahlberg."
+    publishedDateTime: 2023-05-08T00:09:00Z
+    webUrl: "https://www.zdnet.com/article/chatgpt-and-the-new-ai-are-wreaking-havoc-on-cybersecurity/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/chatgpt-and-the-new-ai-are-wreaking-havoc-on-cybersecurity/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chatgpt-and-the-new-ai-are-wreaking-havoc-on-cybersecurity/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 77
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/0f069f7582c82f625117f92909ccd4f7bb840cdf/2023/05/07/0c2625f3-8f61-483b-8cbb-b39dfadd09fe/alhberg-recorded-future.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Beware the AI Scams: Meta Blocks 1,000+ Links Tied to ChatGPT-Themed Malware"
     excerpt: "Hackers pounced on ChatGPT's popularity to create malware posing as OpenAI's chatbot, and then circulated links to it on Facebook, many to dangerous browser extensions."
     publishedDateTime: 2023-05-03T17:31:00Z

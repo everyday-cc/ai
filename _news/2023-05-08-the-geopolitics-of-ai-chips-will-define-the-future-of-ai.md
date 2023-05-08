@@ -8,9 +8,9 @@ webUrl: "https://www.forbes.com/sites/robtoews/2023/05/07/the-geopolitics-of-ai-
 ampWebUrl: "https://www.forbes.com/sites/robtoews/2023/05/07/the-geopolitics-of-ai-chips-will-define-the-future-of-ai/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2023/05/07/the-geopolitics-of-ai-chips-will-define-the-future-of-ai/amp/"
 type: article
-quality: 87
-heat: -1
-published: false
+quality: 104
+heat: 134
+published: true
 
 provider:
   name: Forbes
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/645743bb6563f17e999c02fa/0x0.jpg?format=jpg&width=1200"
@@ -46,7 +47,35 @@ related:
         width: 1200
         height: 685
         isCached: true
+  - title: "The Future of Artificial intelligence in India"
+    excerpt: "The global artificial intelligence market is expanding due to the need for intelligent systems to increase productivity and efficiency in various sectors, including IT and telecommunications, retail and e-commerce, BFSI, healthcare, manufacturing ..."
+    publishedDateTime: 2023-05-04T11:18:00Z
+    webUrl: "https://www.siliconindia.com/news/general/the-future-of-artificial-intelligence-in-india-nid-222744-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 39
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/3qXfVidn.jpg"
+        width: 570
+        height: 367
+        isCached: true
+  - title: "5 Ways Artificial Intelligence is Changing The Future Of Business"
+    excerpt: "Tech - Artificial intelligence (AI) has been a game-changer in countless ways across the world. Companies and businesses are able to use enhanced AI systems to"
+    publishedDateTime: 2023-05-07T14:39:00Z
+    webUrl: "https://business-review.eu/tech/5-ways-artificial-intelligence-is-changing-the-future-of-business-245442"
+    type: article
+    provider:
+      name: business-review.eu
+      domain: business-review.eu
+    quality: 39
+    images:
+      - url: "https://business-review.eu/wp-content/uploads/2023/05/AI1.png"
+        width: 624
+        height: 328
+        isCached: true
 
-secured: "OlzKhYqZe7OCfdxO/0xbusZyz+sMlEypI/581X1oKy593BnkhaN73DGYOsycPVxQoV+5ZX2Ljl1h+DoH2J/rmj5TRywTa/tDg2XAnQLzv7CMnUxOoRqjCOG76U8/tT3HHobGGzNqnFptXXLrVAb+dMkiQx0CwU7eZISoz6NAtQ8AInh3zJUzhqt0FqPLMFSxo/mXaxaM0y/WA4wKapkS+aOAN45tf6Vazd+iYnxbRkMbJLfmCsyUzVE9ddpQWFKGzu0DwpXrRgFWKejZG1sajjknSE3YBgAeItkF37dg9MMygdswZVn1B/MTe33ynWCyF3hQ7DluTj48D/llJWWLdokCFqDMYW7zpEa9yQYwDyQ=;Sq67u5EQs+cwlCR0rqlL8g=="
+secured: "lmCLE7Tpu6EUJcohb5CZVuritGa/Xis8VPa7GcY0fTmoSOLs20iihQkys+zEozRLx7661b05RTS6Hd05GSw2a+Na84nqcgCNaJwdnaetX/kyrArQ9s1+l+FZJP17ZLPd9lWRXNziw7lXTcAhc2oH2TqcTmZf2a6oTva6Go2CuRsTE4oS/s0dangqpLHTDbIyg1BCVTe2GuGXCkjUNQJlFVUGzPW4cMwfTNpiy5FP4W2TMvjaNfkBRywoo3thFDx/qXtq/NqDHHXtSK6qFBavSVJPgXN8dBE4VbC9Z+oMdIEpUFmo7q2YdpFupsgOGFsK0CN7F1+d2JtfM+f5TLNcVcDNl545uxLN7St8LYBuevD9B6SUwMhKA7O4mcZRa3S8KOO4OenRDuoe3SFnycTkE/mms0rA5XwtxIqKyEJPMyoSfRN6h6VnaRNYAi3Qp7U92I00bX6XUG3M4g6M6xN2jvJYXUtptOjOnYUCl6Y/Q22QltQ3GH1Ia46DmcQJu7DdZXJFl6dSlYZ1LMBC8scK9g==;5Y6bxuwZuDaLlM4XeKWngA=="
 ---
 

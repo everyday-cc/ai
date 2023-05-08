@@ -6,7 +6,7 @@ publishedDateTime: 2023-05-07T23:43:00Z
 originalUrl: "https://www.bangkokpost.com/business/2565696/creating-a-thai-language-ai-tool"
 webUrl: "https://www.bangkokpost.com/business/2565696/creating-a-thai-language-ai-tool"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://static.bangkokpost.com/media/content/dcx/2023/05/08/4747356_700.jpg"
@@ -49,6 +50,6 @@ related:
       domain: finanznachrichten.de
     quality: 35
 
-secured: "lnbzRshf6kt5DI+bucjl/TFrjAjOJFqRK4v3bPaK6bSLWRgA1MokZmC/AH/A+YGbi+qC+3qbY+D+x7X77lyKHz8k0VUlWIaZlY5Zit9EknoJDIKymX9EOkNO1dE6h7wJXLC37wyzWlwhRxBRyug4YVHw0AqjcjATZr1M8CUT5Rj62peTPb5u0lYWFVj5rz94BjVk6yBLnZCmCITpW+xO8bHjNxNcyt/ZrAeOd8tRWAMo2rOUH23wxLKfEzLjRu6qO02uzzeEwOBbu6IHgfbIi9yeKhkrEXxX/DkXRzsS9PyyRp3daWmlRo7WE3jMi4QBR3GQXtCcV+MKw0AESgHM0RLc9m3GKEDP9N96V3CkNFA=;13Gwv8nrvDIklp9gSd5/Eg=="
+secured: "S/C8Wjd0814hUakQt1n7ht20KTKFjT1u3y9UiccKHa+f98s2VdGNU/eEo4tfr5kMgAdQuNJNkvc8+RKzCumFWUbjzRLcI83gNCcR61gCVmR3VwHa7rG5MkAXUwIipDBxGTkhV15Q7It2zW3NubzgG5T38z1BMeHECwjK+uFnt0bbJijzOhuwSfd8BOhNDn5sv7mr4BhsEsIdZrmUzGcZoJwr22qQfWAVcZziFZFAACpirVz6wmQ8kYCrmb4RMnz4TcmoorblCjY4NkLMi8Y5LEHTsH2pnIYjE1MOLkTURe74aUUDjmaUu4zrflLLw+6hy/BytXgZJXcvh78eTDSdjanW4TfyYH9rZ4KmQuNdK+Fbrl8l3cJmoXPl/xrhBJ4WweH2Tve+COM+7Osv2qD2zIf9Bn3A4FUk+LAxYgNtzu/s3Oa+lm3S24P7MvlQ3pqQ6nJjbL3/MbXBMEwSfBrJdJGGLNh7strzDfdY6DE7yTcl0eSdy9UhzuWEhkbVC3Vg8qafL2nyipVexBL1u0PozA==;ZHAi7SOSe9g1wudH3G5Pmw=="
 ---
 

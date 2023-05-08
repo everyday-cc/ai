@@ -7,8 +7,8 @@ originalUrl: "https://www.foxnews.com/video/6326697009112"
 webUrl: "https://www.foxnews.com/video/6326697009112"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Fox News
@@ -26,6 +26,22 @@ images:
     width: 1024
     height: 512
     isCached: true
+
+related:
+  - title: "New technology reduces the chauvinism inherent in AI"
+    excerpt: "The most advanced machine translation approaches tended to follow “masculine” word agreement and translate the word “Senator” as “Senador”."
+    publishedDateTime: 2023-05-03T19:35:00Z
+    webUrl: "https://www.digitaljournal.com/tech-science/new-technology-reduces-the-chauvinism-inherent-in-ai/article"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 39
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/06/Browsing-Laptop.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "vzvIfjQafWO98jktzfD/6x+2QYhPllwYTe/n6b4DqOhr6Yq2efiwoyhXtEZmWzj5hAxarmvQi5pUrSi/4AwGtW9cLAefkknX6Ek39/UM+ft7EYOehtLsNfUdGqjD7Z/2zlZ6Urm+uIDsC0I9CAnyUHM5ZHNviZcc+ctVSERauILL+0go/gEcinHcIa1KSHBW/Jz88YTqWUXay1UW9xH8fDuMKHhnCDgcDk8NZHYKf5dcta7eOuKtZXv5MmXPitg4QzHsH5B9+kKGM2KlSiuGMK3KRqOhbXlgjVaOk9cRDL9drBtIjdTO3XqfwWQmZlLdnKn68Ux2IgFwigPf6vw1EEb71I21GezhRS+nbFA5wJSOhxmnxN3PI5lHdgKULGpZltZoMAcKMfmKspDo3FTgEzL5nfrDBfGsczJIE7xXi+ASuLYSCLdvYt0Wk7YTU2pTEHUWkGIb5XOcTDIinzkxpqvfbRDUIPkhfs7e6oxsYzYdIjtDVrMobM4ybbDfqZ8A6/CW2uKyFAceUATw0r0+kw==;n9IgUeL+lnRVu/kEOHjR5w=="
 ---

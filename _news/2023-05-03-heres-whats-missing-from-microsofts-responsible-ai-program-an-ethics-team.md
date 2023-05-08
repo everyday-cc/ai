@@ -348,6 +348,20 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "Microsoft reportedly rallies behind AMD to develop chips for AI workloads"
+    excerpt: "Microsoft is reported to be working with AMD to develop AI-capable chips and provide an alternative to Nvidia."
+    publishedDateTime: 2023-05-08T01:25:00Z
+    webUrl: "https://www.arnnet.com.au/article/707031/microsoft-reportedly-rallies-behind-amd-develop-chips-ai-workloads/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 70
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/p1240491-19-100715058-orig_11.jpgautowebp8570"
+        width: 472
+        height: 315
+        isCached: true
   - title: "Microsoft and AMD are reportedly teaming up to combat Nvidia’s AI dominance"
     excerpt: "Although Microsoft uses \" tens of thousands \" of Nvidia GPUs in its Azure data centers, Bloomberg reports that the company is also working with AMD to improve the AI capabilities of its GPUs. Although extremely light on details,"
     publishedDateTime: 2023-05-05T18:16:00Z

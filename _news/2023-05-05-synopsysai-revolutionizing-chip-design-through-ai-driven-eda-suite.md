@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/05/04/synopsysaire
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/05/04/synopsysairevolutionizing-chip-design-through-ai-driven-eda-suite/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 1200
         height: 624
         isCached: true
+  - title: "What the AI Revolution Really Means"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence – or AI – is the newest megatrend to burst"
+    publishedDateTime: 2023-05-06T19:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-is-bringing-a-profitable-revolution-to-all-sectors-1032299076"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "How AI is Revolutionizing the Supply Chain and Making It More Efficient"
     excerpt: "Have you ever wondered how Amazon can expeditiously deliver products to customers’ doorsteps shortly after placing an order? The solution to this enigma is rooted in the efficacy of Artificial Intelligence (AI) within supply chain management."
     publishedDateTime: 2023-05-03T11:09:00Z

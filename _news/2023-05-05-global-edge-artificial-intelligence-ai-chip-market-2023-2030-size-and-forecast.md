@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-edge-artificial-i
 webUrl: "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-2023-2030-size-and-forecast-2023-05-05"
 type: article
 quality: 94
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -47,15 +47,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 66
-  - title: "Photonic AI Chip Market size Dynamics 2023-2030"
-    excerpt: "Global\" Photonic AI Chip Market \"report provides a comprehensive analysis of the market, including its current"
-    publishedDateTime: 2023-05-03T07:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/photonic-ai-chip-market-size-dynamics-2023-2030-2023-05-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
   - title: "2023-2030, Computer Vision in Artificial Intelligence (AI) Market Segmentation-Identifying Your Target Audience"
     excerpt: "To know How COVID-19 and Russia-Ukraine War Influence Will Impact This Market/Industry - Request a sample copy of the report-:  In This Reports Computer Vision in Artificial Intelligence (AI) Market Segment by Type ( Hardware,"
     publishedDateTime: 2023-05-07T10:09:00Z

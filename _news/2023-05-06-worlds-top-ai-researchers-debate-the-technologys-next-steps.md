@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/worlds-top-ai-researchers-debate-the-
 webUrl: "https://www.wsj.com/articles/worlds-top-ai-researchers-debate-the-technologys-next-steps-55be2849"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://cdn.bignewsnetwork.com/cus1683170979548.jpg"
         width: 630
         height: 420
+        isCached: true
+  - title: "Researchers at UMich find a way to reduce the energy consumed by AI"
+    excerpt: "As AI becomes increasingly popular, researchers develop software to decrease energy consumption in an effort to lower carbon footprint."
+    publishedDateTime: 2023-05-07T23:08:00Z
+    webUrl: "https://www.michigandaily.com/research/researchers-at-umich-find-a-way-to-reduce-the-energy-consumed-by-ai/"
+    type: article
+    provider:
+      name: The Michigan Daily
+      domain: michigandaily.com
+    quality: 39
+    images:
+      - url: "https://www.michigandaily.com/wp-content/uploads/2023/05/design.png"
+        width: 2400
+        height: 1600
         isCached: true
   - title: "As AI ethics are debated, this Google expert says: Consider who’s acting as ‘steward’ of the technology"
     excerpt: "\"The more perspectives, the more communities, the more cultures are brought into this conversation, the better the guardrails,\" Carolyn Yap, director of AI Practice, said during PACT's AI-focused Phorum conference."

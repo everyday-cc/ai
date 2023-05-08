@@ -51,20 +51,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-Driving Car for AI Programming Market Future Growth and Detail Analysis of Industry Up to 2030"
-    excerpt: "The following is a synopsis of a market research report on the Self-Driving Car for AI Programming Market research"
-    publishedDateTime: 2023-05-03T07:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-for-ai-programming-market-future-growth-and-detail-analysis-of-industry-up-to-2030-2023-05-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Autonomous Cars/Driverless Cars Market 2023 Growth Status and Outlook for 2030"
     excerpt: "At present, the technology is mainly in driving assistance level and semi-autonomous driving level. Europe is a key region for the deployment of self-driving vehicles, owing to the high consumer preference for technologically advanced products. This region ..."
     publishedDateTime: 2023-05-04T17:59:00Z

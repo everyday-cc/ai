@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/05/how-ai-and-llms-are-streamlining-financial-services/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -62,7 +62,7 @@
       "originalUrl": "https://www.reuters.com/article/amd-ai-microsoft/update-1-microsoft-helping-finance-amds-expansion-into-ai-chips-bloomberg-idUSL4N3714JL",
       "featuredContent": null,
       "highlight": null,
-      "heat": 458,
+      "heat": 468,
       "tags": null,
       "images": [
         {
@@ -355,13 +355,13 @@
     {
       "path": "_news/2023-05-01-mosaic-data-science-has-been-named-the-top-ai-machine-learning-services-company-of-2023-by-cio-review.md",
       "title": "Mosaic Data Science Has Been Named the Top AI & Machine Learning Services Company of 2023 by CIO Review",
-      "excerpt": "Mosaic is thrilled to be recognized as a leader in the Artificial Intelligence & Machine Learning space.LEESBURG, VA / ACCESSWIRE / May 1,",
+      "excerpt": "Mosaic is thrilled to be recognized as a leader in the Artificial Intelligence & Machine Learning space ... such as professional and financial services, retail, manufacturing, CPG, and oil ...",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/mosaic-data-science-has-been-named-the-top-ai-machine-learning-services-company-of-2023-by-cio-review-1032278328",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/mosaic-data-science-has-been-named-the-top-ai-machine-learning-services-company-of-2023-by-cio-review-1032278328",
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2023-05/58961128-mosaic-data-science-has-been-named-the-top-ai-machine-learning-services-company-of-2023-by-cio-review-200.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2023-05/58961128-mosaic-data-science-has-been-named-the-top-ai-machine-learning-services-company-of-2023-by-cio-review-200.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": null,
       "tags": null,
       "images": [
         {
@@ -377,21 +377,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-01T07:30:00-07:00",
+      "publishedDateTime": "2023-05-01T08:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -400,9 +391,9 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
+        "AI in Finance",
         "AI",
-        "AI in Finance"
+        "Machine Learning"
       ]
     },
     {

@@ -348,6 +348,20 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "Microsoft reportedly rallies behind AMD to develop chips for AI workloads"
+    excerpt: "Microsoft is reported to be working with AMD to develop AI-capable chips and provide an alternative to Nvidia."
+    publishedDateTime: 2023-05-08T01:25:00Z
+    webUrl: "https://www.arnnet.com.au/article/707031/microsoft-reportedly-rallies-behind-amd-develop-chips-ai-workloads/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 70
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/p1240491-19-100715058-orig_11.jpgautowebp8570"
+        width: 472
+        height: 315
+        isCached: true
   - title: "Here’s what’s missing from Microsoft’s Responsible AI program: An ethics team"
     excerpt: "While Microsoft expresses interest in responsible AI, it is worth noting that they fired their entire AI ethics team in March 2023."
     publishedDateTime: 2023-05-03T09:38:00Z

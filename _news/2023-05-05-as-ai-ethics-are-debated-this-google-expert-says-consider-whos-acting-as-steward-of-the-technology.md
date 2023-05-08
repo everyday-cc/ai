@@ -53,6 +53,20 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Researchers at UMich find a way to reduce the energy consumed by AI"
+    excerpt: "As AI becomes increasingly popular, researchers develop software to decrease energy consumption in an effort to lower carbon footprint."
+    publishedDateTime: 2023-05-07T23:08:00Z
+    webUrl: "https://www.michigandaily.com/research/researchers-at-umich-find-a-way-to-reduce-the-energy-consumed-by-ai/"
+    type: article
+    provider:
+      name: The Michigan Daily
+      domain: michigandaily.com
+    quality: 39
+    images:
+      - url: "https://www.michigandaily.com/wp-content/uploads/2023/05/design.png"
+        width: 2400
+        height: 1600
+        isCached: true
 
 secured: "RL4i1lyKRl+rojGsxyQQ7n7wLSO/6Q3M2v/37nRtyyJxrdcawkqUrbBUTmUM2xRrnOv00z3wprppfCxeZ1cDjMCqrQSsGDP/bSpXx9DQdpBzPBOcYEkKRYEf0GWSxu5NmYtgfGg4+w91FDWovo7W8rhEXJRe/ynfPuOFMXAlisDdhxkUkIDf+le6xzXU7opQLZuZYkUZvjrd2NMQNVyMBGP5/bZHeWWpKB7rcN3o8ARYg9H8JS4T2VTzHqB+zATG+5ZcyUZQQGabinzpcQt5Lof2pscFTAAR5afdW9o4ESaVbKICu4jlsdm4LNggo19vH/wOc69fSP2nqYvXiIoDYVogu6eJhms+tgXdRCRf8a0=;49EBEUATn4ULMLbrSl4tyQ=="
 ---

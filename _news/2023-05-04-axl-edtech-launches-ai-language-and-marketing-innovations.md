@@ -38,7 +38,7 @@ related:
     provider:
       name: Bangkok Post
       domain: bangkokpost.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://static.bangkokpost.com/media/content/dcx/2023/05/08/4747356_700.jpg"
         width: 700

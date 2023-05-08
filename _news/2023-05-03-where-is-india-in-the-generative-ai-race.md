@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/05/03/where-is-india-in-the-generative-a
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/03/where-is-india-in-the-generative-ai-race/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://www.financialexpress.com/wp-content/uploads/2023/05/Add-a-little-bit-of-body-text-15.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "The Future of Artificial intelligence in India"
-    excerpt: "The global artificial intelligence market is expanding due to the need for intelligent systems to increase productivity and efficiency in various sectors, including IT and telecommunications, retail and e-commerce, BFSI, healthcare, manufacturing ..."
-    publishedDateTime: 2023-05-04T11:18:00Z
-    webUrl: "https://www.siliconindia.com/news/general/the-future-of-artificial-intelligence-in-india-nid-222744-cid-1.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 39
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/3qXfVidn.jpg"
-        width: 570
-        height: 367
         isCached: true
   - title: "Cognizant CEO: ‘Generative AI Will Revolutionize The Technology Services Industry’"
     excerpt: "Ravi Kumar, who joined Cognizant as CEO in January after 20 years at rival India-based global IT services and consulting firm Infosys, Wednesday told financial analysts at the Teaneck, N.J.-based company’s fiscal first-quarter 2023 financial conference ..."

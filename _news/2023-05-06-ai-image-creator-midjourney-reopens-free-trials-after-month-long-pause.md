@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/mattnovak/2023/05/05/ai-image-creator-m
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattnovak/2023/05/05/ai-image-creator-midjourney-reopens-free-trials-after-month-long-pause/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: Forbes
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Midjourney 5.1 Arrives - And It’s Another Leap Forward For AI Art"
-    excerpt: "The company claims that version 5.1 of the engine is “more opinionated”, bringing it closer to the kind of results that you would get with version 4 of Midjourney, but at a higher quality. There’s also a “raw” mode, for those who don’t want images that are as strongly opinionated."
-    publishedDateTime: 2023-05-03T08:29:00Z
-    webUrl: "https://www.forbes.com/sites/barrycollins/2023/05/03/midjourney-51-arrivesand-its-another-leap-forward-for-ai-art/"
-    ampWebUrl: "https://www.forbes.com/sites/barrycollins/2023/05/03/midjourney-51-arrivesand-its-another-leap-forward-for-ai-art/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2023/05/03/midjourney-51-arrivesand-its-another-leap-forward-for-ai-art/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64521a0c6292968af6b510dc/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 673
-        isCached: true
   - title: "How to cancel your Midjourney AI subscription"
     excerpt: "If you're trying to shrink your budget and don't need AI generated images, here's a guide on how to cancel your Midjourney AI subscription."
     publishedDateTime: 2023-05-05T21:07:00Z

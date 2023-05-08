@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The Future of Artificial intelligence in India"
-    excerpt: "The global artificial intelligence market is expanding due to the need for intelligent systems to increase productivity and efficiency in various sectors, including IT and telecommunications, retail and e-commerce, BFSI, healthcare, manufacturing ..."
-    publishedDateTime: 2023-05-04T11:18:00Z
-    webUrl: "https://www.siliconindia.com/news/general/the-future-of-artificial-intelligence-in-india-nid-222744-cid-1.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 39
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/3qXfVidn.jpg"
-        width: 570
-        height: 367
-        isCached: true
 
 secured: "SjUeGrfj2YCofXxkCRhYTZSLLj7iu7gx51fx9SnCa6NmaWpgG6l+5RgbCBwI/+tQ8fLqXBVezQYrQtfTPs1N239rFZrGushyg/l1n2jcDTWUsHsglh2heXzc/C8sosVCR/scwwQaIQGfqwKSiTbKIEvm8bJxrs4YBYY0xfQ3KU79Y88Eky8/qgGj3p33XOIHtETpIq6u1e7stdtas+LE82pi4p5WyU5k0BEanlfkHP01L0VZvssS3jEOCPIS+OErR9ITmqXTIODSw+OIZ1lyZ8rNCb3AuFAb882R0ZrdaBOhIXP0Xgowj6Y83xP2yctkSc0BHoebhFALmmkZrlLiIzp141qFQeQPXr4hVSPCKhc=;CSgXi8XMzbEEsYnz74P57Q=="
 ---
