@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2023/05/05/navan-is-leverag
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/05/05/navan-is-leveraging-generative-ai-to-help-companies-cut-costs/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Executives from leading companies share how to achieve responsible AI"
+    excerpt: "As AI technology continues to evolve at a rapid clip, companies need clearly defined and rigorously implemented internal governance policies."
+    publishedDateTime: 2023-05-08T13:00:00Z
+    webUrl: "https://www.fastcompany.com/90891982/executives-from-leading-ai-companies-share-how-to-achieve-responsible-ai"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 19
 
 secured: "7jIICoIpJWfWGTqb6Ra4mxVIeHPxFppDd4eOtQv8vwW4/Ktst7LVeh3zZsm5XGYA/MEnjkT5EIPFZMUaVDp00I/gYVhJn/1pycTqYw879xv8WNoenSjsj56AmIO3HeTnzJ+x6ytax6ebTl4xZxpSE5eVs6rSNqE95S17FAx8/Qs0Axuw9wKfM/TeIduRgdjWcXAxpfl+kjkxEet9+WU/v0vUDc8JG3AMASLabTp94Ztkn1n/NPDL82YW6YPjO99a/LdNw26al8FlGyAmQH83yzrksVtIQ9WNZ7Tk+DkG8q5ECHurQlxk2LIhXuxNJ3mmh3DT9ISsmcSjfTpPLfwraqTazlPwrEOH8TbGl4FSCPw=;I7NDZd6CGvlzWKbDEtgmwg=="
 ---

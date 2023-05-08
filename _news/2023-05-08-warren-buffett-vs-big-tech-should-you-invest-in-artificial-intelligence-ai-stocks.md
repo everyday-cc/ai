@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/business/investing-abroad-warren-bu
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/investing-abroad-warren-buffett-vs-big-tech-should-you-invest-in-artificial-intelligence-ai-stocks-3079067/lite/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Warren Buffett Vs Big Tech: Does AI Have A Place In Your Investment Portfolio?"
+    excerpt: "Artificial Intelligence (AI) stocks should now be part of most investors' portfolios as Big Tech prepare for an AI boom, suggests the CEO and founde"
+    publishedDateTime: 2023-05-08T19:09:00Z
+    webUrl: "https://menafn.com/1106202785/Warren-Buffett-Vs-Big-Tech-Does-AI-Have-A-Place-In-Your-Investment-Portfolio"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 35
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?286630"
+        width: 444
+        height: 250
+        isCached: true
   - title: "Warren Buffett vs Big Tech: Does AI have a place in your investment portfolio?"
     excerpt: "May 8, 2023 (Investorideas.com Newswire) Artificial Intelligence (AI) stocks should now be part of most investors' portfolios as Big Tech prepare for an AI boom, suggests the CEO and founder of one of the world's largest independent financial advisory, asset management and fintech organizations."
     publishedDateTime: 2023-05-08T13:17:00Z

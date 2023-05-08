@@ -126,6 +126,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Machine Learning in Manufacturing Market in 2023: Latest Innovations and Growth Strategies till 2030"
+    excerpt: "The Global \"Machine Learning in Manufacturing Market\" report analyzes crucial growth factors, key strategies employed"
+    publishedDateTime: 2023-05-08T08:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-manufacturing-market-in-2023-latest-innovations-and-growth-strategies-till-2030-2023-05-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
   - title: "Voice Recognition Biometrics Market Research, 2030"
     excerpt: "The Global Voice Recognition Biometrics market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
     publishedDateTime: 2023-05-08T00:51:00Z

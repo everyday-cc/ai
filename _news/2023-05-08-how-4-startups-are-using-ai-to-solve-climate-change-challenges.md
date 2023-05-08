@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/outreach-initiatives/entrepreneurs/how-4-startup
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/entrepreneurs/how-4-startups-are-using-ai-to-solve-climate-change-challenges/amp/"
 type: article
 quality: 109
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -50,19 +50,28 @@ related:
   - title: "How artificial intelligence could fundamentally change certain types of work"
     excerpt: "A report released in March found that AI services could automate as many as 300 million fulltime jobs worldwide."
     publishedDateTime: 2023-05-06T00:24:00Z
-    webUrl: "https://www.cbsnews.com/detroit/news/artificial-intelligence-chatgpt-threatens-changes-jobs-work/"
-    ampWebUrl: "https://www.cbsnews.com/amp/detroit/news/artificial-intelligence-chatgpt-threatens-changes-jobs-work/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/detroit/news/artificial-intelligence-chatgpt-threatens-changes-jobs-work/"
+    webUrl: "https://www.cbsnews.com/news/artificial-intelligence-chatgpt-threatens-changes-jobs-work/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/artificial-intelligence-chatgpt-threatens-changes-jobs-work/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/artificial-intelligence-chatgpt-threatens-changes-jobs-work/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 71
+    quality: 69
     images:
       - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/05/06/a3ed2e4c-256d-4d01-9c3a-65e06d542d99/thumbnail/1200x630/a4fae228ea819b28b491968bc3769e43/0505-chen1.jpg"
         width: 1200
         height: 630
         isCached: true
+  - title: "How artificial intelligence may change health care"
+    excerpt: "Officials believe convicted rapist, Jesse McFadden, murdered six people and then killed himself."
+    publishedDateTime: 2023-05-05T21:40:00Z
+    webUrl: "https://kfor.com/video/how-artificial-intelligence-may-change-health-care/8623439/"
+    type: article
+    provider:
+      name: Oklahoma's News
+      domain: kfor.com
+    quality: 19
   - title: "How Generative AI Is Changing Work"
     excerpt: "Customer Service Jobs"
     publishedDateTime: 2023-05-08T13:16:00Z

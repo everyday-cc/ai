@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/ai/a-mayday-call-for-artificial-intelligence/"
 ampWebUrl: "https://venturebeat.com/ai/a-mayday-call-for-artificial-intelligence/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/a-mayday-call-for-artificial-intelligence/amp/"
 type: article
-quality: 89
-heat: 121
+quality: 91
+heat: 123
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Autos
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2023/05/annevb_yelling_into_the_darkness_for_help._Mayday._colorful_tec_0a36545d-071c-43e1-8b42-cc2ee04e5099.png?w=1200&strip=all"

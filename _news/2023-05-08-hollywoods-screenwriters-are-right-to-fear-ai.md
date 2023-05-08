@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/hollywood-screenwriters-artificial-intel
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/hollywood-screenwriters-artificial-intelligence-guardrails/amp"
 type: article
 quality: 87
-heat: 167
+heat: 177
 published: true
 
 provider:
@@ -101,20 +101,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 47
-  - title: "Striking Hollywood Writers Have Few Options to Stop AI Creep"
-    excerpt: "Film and TV studios could replace striking writers with artificial intelligence bots, and there’s not much labor unions could do to stop it without language in a collective bargaining agreement."
-    publishedDateTime: 2023-05-08T15:00:00Z
-    webUrl: "https://news.bloomberglaw.com/business-and-practice/striking-hollywood-writers-have-few-options-to-stop-ai-creep"
-    type: article
-    provider:
-      name: news.bloomberglaw
-      domain: bloomberglaw.com
-    quality: 39
-    images:
-      - url: "https://db0ip7zd23b50.cloudfront.net/dims4/default/fa0f9b8/2147483647/crop/4799x1844%2B0%2B833/resize/1919x739%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2Fbb%2F89%2Ffbf8d1e94f42a7bed5b7ddf7548e%2Fscreenwriters-guild-strike.jpg"
-        width: 1919
-        height: 737
-        isCached: true
   - title: "Writers vs AI bots is more than a Hollywood drama"
     excerpt: "They moved to hiring writers on short-term contracts to develop new dramas in what are known as “mini-rooms”; these are disbanded before the show is commissioned. This approach not only pays writers less and limits residuals, but means they do not gain practical experience on productions; they must find themselves another mini-room project instead."
     publishedDateTime: 2023-05-05T11:06:00Z
@@ -143,6 +129,24 @@ related:
         width: 1480
         height: 833
         isCached: true
+  - title: "Striking Hollywood Writers Have Few Options to Stop AI Creep"
+    excerpt: "Film and TV studios could replace striking writers with artificial intelligence bots, and there’s not much labor unions could do to stop it without language in a collective bargaining agreement."
+    publishedDateTime: 2023-05-08T15:00:00Z
+    webUrl: "https://news.bloomberglaw.com/daily-labor-report/striking-hollywood-writers-have-few-options-to-stop-ai-creep"
+    type: article
+    provider:
+      name: news.bloomberglaw
+      domain: bloomberglaw.com
+    quality: 19
+  - title: "The AI Apocalypse Is Coming for Hollywood, but Don’t Robots Rule Us Already?"
+    excerpt: "On her way to the picket line, the creator of the beloved hit ‘Dickinson’ waves goodbye to human storytelling."
+    publishedDateTime: 2023-05-08T18:54:00Z
+    webUrl: "https://www.vanityfair.com/hollywood/2023/05/ai-apocalypse-coming-for-hollywood-but-robots-rule-already"
+    type: article
+    provider:
+      name: Vanity Fair
+      domain: vanityfair.com
+    quality: 14
 
 secured: "zs1A9pO+egaWBL/UdeE/YDSbwwgR9Fg7f6i9jIImWS5xvRPxuUjULQcNp6brK6deSX92c3LV9FcA5qWCfU+5rw+gcku4UEQtyAKa0yXGnu/THm1zE64r/30Sh50iMMMZPNlEhEvc2YPx2BR/DPOaH1tK6CmHX1elX7fRvSrPum/cBXpy/7cFnztdu9rBv2uVlz/EU5bR64MCceZmKuSYuZSGZWUorkMa9efndqxc5tU3mo9X0GxxYFjybMShgbQvw5YPXU1ZGiJNLYf1eAVY1of+EbMTUQ2FfoXBTzDqYuyXgcH/uw+dqthGI8ttU4RP6wNsWZyvi+13x/QE3Ef4noTyY7EG/d4au9LyyZqMhevFryVQd3uSWzt1ykhkEgDPY8guskRTTOtqe//7La9n1L0JKvB8yW9IhA2BR2Gh91+JW7sig5BGdHiiIF12k4XYMgOw+ZWz+oI7grKLurEm4LCZth5BbuZAFhH15jcygLPt6l5m/IXVavI+OYnH2PYTJBBlWp97vB/FNNPWf9Bz1w==;n/AmkpsNblkBYsZfjL/Wqg=="
 ---

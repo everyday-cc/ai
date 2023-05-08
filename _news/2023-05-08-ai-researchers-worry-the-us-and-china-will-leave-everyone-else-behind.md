@@ -36,6 +36,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "AI DUDE: The Most Sophisticated Artificial Intelligence Technology"
+    excerpt: "The AIDUDE company is proud to announce the launch of its latest innovation, Ai Dude, which utilizes the most sophisticated Artificial Intelligence (AI) technology to provide businesses with a powerful tool for content creation and optimization."
+    publishedDateTime: 2023-05-08T14:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-dude-the-most-sophisticated-artificial-intelligence-technology-2023-05-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
   - title: "Google AI chief quits due to concerns about dangers from technology"
     excerpt: "Artificial intelligence pioneer Geoffrey Hinton said he realized computers could become smarter than people far sooner than he and other experts had expected"
     publishedDateTime: 2023-05-07T15:48:00Z

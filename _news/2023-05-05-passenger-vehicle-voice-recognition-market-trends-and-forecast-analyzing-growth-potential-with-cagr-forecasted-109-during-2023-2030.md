@@ -154,6 +154,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 32
+  - title: "3D Facial Recognition Market Top Players, Revenue, Share, Future Trends, Size, Report and Forecast 2023 to 2031"
+    excerpt: "Moreover, it has benefits over 2D facial recognition, such as ease in the detection of facial data from videos and 2D images and least affected with illumination issues. With the advancements in 3D facial recognition software and services,"
+    publishedDateTime: 2023-05-08T07:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-market-top-players-revenue-share-future-trends-size-report-and-forecast-2023-to-2031-2023-05-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 29
 
 secured: "TUqbGipMAbePwUg733YugohPW2WwJJlkOJv05TyVo7PX6+q3wC91+uhnIW6s9o/Abvtmc+cESJQCcBp9SG2olkwUU0efbkuQ4ZTj9upY6GdHxFJYMxWoowC3uOjgGaiRyoPl4wTEgoWjCugvp01ThdoUIbsI9IcSiUlYNW4liykd09TIH8TJlsUOmJtxvgcmJTNGwS493E2zPlgvCSKMhMZD0d+TsUrGRvYPT0amUAiJUwYUorfAXBtPJuhTUfiRX2xuezydNpClHQnHHUOMn/9UnfNM4zxuhJoQK/B2yWGEdyDy3DHIhNYvQsfA9iEocMg+nacD7J4uK4UNf6+qp/+A6asBc8fhcJqlOUD/Sl4=;/LD65wQFJ7tRAforu+f1hw=="
 ---

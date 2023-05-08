@@ -55,6 +55,22 @@ related:
         width: 740
         height: 492
         isCached: true
+  - title: "State-sponsored Chinese AI firm launches bot service to ‘surpass’ ChatGPT"
+    excerpt: "State-subsidized AI company Iflytek recently launched a GPT competitor it says will rival and surpass OpenAI's popular ChatGPT service by the end of the year."
+    publishedDateTime: 2023-05-08T18:59:00Z
+    webUrl: "https://cointelegraph.com/news/state-sponsored-chinese-ai-firm-launches-bot-service-to-surpass-chatgpt"
+    ampWebUrl: "https://cointelegraph.com/news/state-sponsored-chinese-ai-firm-launches-bot-service-to-surpass-chatgpt/amp"
+    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/state-sponsored-chinese-ai-firm-launches-bot-service-to-surpass-chatgpt/amp"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 58
+    images:
+      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-05/0d9506a7-6cf2-4379-93bc-8e9bcca5d1ef.jpg"
+        width: 740
+        height: 493
+        isCached: true
   - title: "Chinese think they can do AI with weaker chips"
     excerpt: "Avoiding US sanctions  While the US thinks that it can delay China's rise in power by forbidding the sale of high powered chips to the Middle Kingdom, it seems that is doomed to fail. According to a report from the Wall Street Journal,"
     publishedDateTime: 2023-05-08T10:41:00Z
@@ -111,7 +127,16 @@ related:
         width: 860
         height: 573
         isCached: true
+  - title: "Chinese Tech Companies Forced To Think Outside The Box To Overcome US Chip Ban In The Race For AI Supremacy"
+    excerpt: "Nvidia’s A100 chip, the industry standard for training AI models, is banned for Chinese companies and institutions. Chinese companies like Huawei are developing new creative techniques to overcome the chip embargo, like combining multiple slower chips."
+    publishedDateTime: 2023-05-08T19:00:00Z
+    webUrl: "https://www.benzinga.com/news/23/05/32271684/chinese-tech-companies-forced-to-think-outside-the-box-to-overcome-us-chip-ban-in-the-race-for-ai-su"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 16
 
-secured: "8xRWHgaaJABKLxHHJsj3eO1+mcqKBzpjdLR0m2pyA2cltJuj4VrXrKycaSdbNzYQqIeHYViCIOfbgfkT6wBovzG+uHc/60P5l9cJvvt3DNpEgLt3VG6QjGhszfwciWwltAObekD9/WJ0iNiJfYa8GvFakOlp4Q2O7cKjukoFfOEZBsH7RxTpdbZour/ZT4APbZCDfpe/HmOktl3IArds7BykgBnRxnw6w32l5V9x6+XkqCOYnGtz9kpcZBGc4nv7/F2HPP+jdwYUjW3nrf7NbJ/0PyrgDTt/QVsF/ax1IJzGoBsJaWvv0bDbki8Kdtu0108t57sDk6hRMl3pviccQMpHd2HaxWKhDZ+ITGr2vgY=;rlbrS/6WyoQK1/AHC73kjA=="
+secured: "l4InhZ8yyTachv4lGR6XSFgh74sUBs/xjoqx4u/YkwoZ+2KMUuiEtnCRv5VF3Mmpgf/K+c4uxVO1vj5pIJRkqwMPhOaMjSGGuMM/Vfk4Slrz/FjS59b1goCovc7VpLYUulpNH5qC9oAVT+mUrTtoE1P74Q/OSdstvuf513MEic55QirLMh0Lgtx0AnIB6XNZEjZYWqH8RiOa+nIrPc/Sc4TFFdS/cvpyZQaCLH9dg3QVQntMjo6lvWTPkG+WlJxqtlY9s9CIuXkI3AfMq/c4lGTeiMhfg+1Skw3uN30oCsn+jda6qMGHyUfRnaTT6mvFB6Q4+kGlz/fvCKb6CP5WPAC6MAYw/DbXrXWIT3U54jIEmM9CuuGJpENh1NuAgIB05/PE9/UcZ4hWCb2P7a5UKYiAmJB41N745d4yIDdJnBOxCZ4XB4/OwK23j9PYP41w7kmOkCr9eqH3fv14Axzr5Kt7MZrP7LPEuXqEH6RVaoPjTdWStq8slZPs6Clwww7oHUGne79ohblSJKLzq/EIOA==;KgQWMMTOmZy/1aKrrpXrPA=="
 ---
 

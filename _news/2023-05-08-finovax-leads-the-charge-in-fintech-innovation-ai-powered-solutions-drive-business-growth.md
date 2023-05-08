@@ -42,20 +42,15 @@ related:
         width: 532
         height: 345
         isCached: true
-  - title: "APAC to lead global fintech market"
-    excerpt: "With a projected CAGR (compound annual growth rate) of 27%, Asia Pacific (APAC) will likely outpace the United States of America to become the world’s top fintech market by 2030, according to a new report by Boston Consulting Group (BCG) and QED Investors."
-    publishedDateTime: 2023-05-04T02:00:00Z
-    webUrl: "https://yourstory.com/2023/05/apac-to-lead-global-fintech-market"
+  - title: "Finovax Leads the Charge in Fintech Innovation: AI-Powered Solutions Drive Business Growth"
+    excerpt: "New York-Based Fintech Company Embraces Artificial Intelligence to Revolutionize Financial Data Products and Fuel Expansion New York, United"
+    publishedDateTime: 2023-05-08T20:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/finovax-leads-the-charge-in-fintech-innovation-ai-powered-solutions-drive-business-growth-1032302798"
     type: article
     provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 24
-    images:
-      - url: "https://images.yourstory.com/cs/2/47afd43024ec11ec9ecb9b7afb0df1da/FintechAPAc-1683128924153.png?fm=png&auto=format"
-        width: 1600
-        height: 800
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 39
 
 secured: "pboj4yfp7zNNJLmiBLdyNzhnwUOgZvkOGdCwQ+eM27t0k4G9iRVxokQu5ZFmxZKCDwAGnazrlK38//DAros98Z1Olwr1VE7NW73ZC/whqtoQ7VwP6ZPyCTQ1aB7zVPOpmQSArXzR5/Ov3UUBmedpOVMt11fbGcogw9Eqno57p9gwONWIT5uOufvsSGEswyO/x+82QvoFUIZwpdD99WCfROFohM6yVgiMUCQkgDQ5CphoeyB7Rqa0uJTOEcneuiD3qHiR77N/9lszZxOR/NSdbFN85/FzOv01tgjO5DGOILif0VIEMjKIY51XMHvj0lqyZQZUu322gzJ+Vl+SG3qVPj9H/LxrjOAGGH80QshwKps=;KiLqH2cFZapc64GgZhhdOA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-05-artificial-neurons-mimic-complex
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-05-artificial-neurons-mimic-complex-brain.amp"
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,38 @@ images:
     width: 1500
     height: 564
     isCached: true
+
+related:
+  - title: "Study presents large brain-like neural networks for AI"
+    excerpt: "In a new study in Nature Machine Intelligence, researchers Bojian Yin and Sander Bohté from the HBP partner Dutch National Research Institute for Mathematics and Computer Science (CWI) demonstrate a significant step towards artificial intelligence that can be used in local devices like smartphones and in VR-like applications,"
+    publishedDateTime: 2023-05-08T20:05:00Z
+    webUrl: "https://techxplore.com/news/2023-05-large-brain-like-neural-networks-ai.html"
+    ampWebUrl: "https://techxplore.com/news/2023-05-large-brain-like-neural-networks-ai.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-05-large-brain-like-neural-networks-ai.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 74
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/human-brain-project-st.jpg"
+        width: 1345
+        height: 1105
+        isCached: true
+  - title: "Study presents large brain-like neural networks for AI"
+    excerpt: "In a study that appears today in Nature Machine Intelligence*, CWI researchers Bojian Yin and Sander Bohté demonstrate a significant step towards artificial intelligence (AI) that can be used in local devices like smartphones and in VR-like applications,"
+    publishedDateTime: 2023-05-08T15:01:00Z
+    webUrl: "https://www.cwi.nl/en/news/study-presents-large-brain-like-neural-networks-for-ai/"
+    type: article
+    provider:
+      name: CWI
+      domain: www.cwi.nl
+    quality: 54
+    images:
+      - url: "https://www.cwi.nl/images/13355/brein_op_chip_shutterstock-verkle.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "eVu71D8+EAvkrCOC58mXhPxaNMQpPGCYnadz+PQR/vi5pTX1B42D2+mRwQS+EP6PtzUn0l0jEvk/oW8Qxc3K4V1PB2WViBbflLof1j4I/fy4+Ryf0nbttmXjIVuZbCzsrLVcF/6onScnvcin75v2rkKpyn8OSWX/QHWJnAyXnS2xnfsy9xBDvl/fNqa4dmTlbe7DXLKuO0Ni0ZIrKnyg8D/S75siADf513oGzAGTplBPtJpcoXQkU6tpWKQHgr0qHynjnCZRWCQeHt88Aj9b68aK0auevrKli/ai+UZEiTTDzsA2AihkcQ+VJWyXdsW8QBjKduAq72tWVONLc+v2Qi+sNqpFQbrm8oSehObrfP4Ru6fqEoNyPGRC7cC4TukiDzJ5mCcY+74aAxtiamRVTks6XChRrC72lI+91AjURQwxQ1+UCzjSjyqu9zmNgQXov2cM9n5RsMK4e0wWTgbtcLteow0Azd72FemAYxVD8mECNwnvZKDubVWqUqZzGFrxQJPGh75jbUmP7RATIxr1TQ==;ktZosFFFRO/Ku2jkYGmDEA=="
 ---

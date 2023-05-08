@@ -3,10 +3,10 @@ category: news
 title: "Striking Hollywood Writers Have Few Options to Stop AI Creep"
 excerpt: "Film and TV studios could replace striking writers with artificial intelligence bots, and there’s not much labor unions could do to stop it without language in a collective bargaining agreement."
 publishedDateTime: 2023-05-08T15:00:00Z
-originalUrl: "https://news.bloomberglaw.com/business-and-practice/striking-hollywood-writers-have-few-options-to-stop-ai-creep"
-webUrl: "https://news.bloomberglaw.com/business-and-practice/striking-hollywood-writers-have-few-options-to-stop-ai-creep"
+originalUrl: "https://news.bloomberglaw.com/daily-labor-report/striking-hollywood-writers-have-few-options-to-stop-ai-creep"
+webUrl: "https://news.bloomberglaw.com/daily-labor-report/striking-hollywood-writers-have-few-options-to-stop-ai-creep"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
@@ -17,12 +17,6 @@ provider:
 topics:
   - Natural Language Processing
   - AI
-
-images:
-  - url: "https://db0ip7zd23b50.cloudfront.net/dims4/default/fa0f9b8/2147483647/crop/4799x1844%2B0%2B833/resize/1919x739%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2Fbb%2F89%2Ffbf8d1e94f42a7bed5b7ddf7548e%2Fscreenwriters-guild-strike.jpg"
-    width: 1919
-    height: 737
-    isCached: true
 
 related:
   - title: "Hollywood’s Screenwriters Are Right to Fear AI"
@@ -140,7 +134,16 @@ related:
         width: 1480
         height: 833
         isCached: true
+  - title: "The AI Apocalypse Is Coming for Hollywood, but Don’t Robots Rule Us Already?"
+    excerpt: "On her way to the picket line, the creator of the beloved hit ‘Dickinson’ waves goodbye to human storytelling."
+    publishedDateTime: 2023-05-08T18:54:00Z
+    webUrl: "https://www.vanityfair.com/hollywood/2023/05/ai-apocalypse-coming-for-hollywood-but-robots-rule-already"
+    type: article
+    provider:
+      name: Vanity Fair
+      domain: vanityfair.com
+    quality: 14
 
-secured: "F9psfMgFVpEzxg4NyBVD3C7rZH33jG7SFTm7cLBhBEWK6kfjUd/zzzfNjr5eOYzGGApHrKJKbXZoSJBNFKzgna+3YlgT9VQL9FPsce1EYXjgYjnLW1/JepIY9qvbqK9nCd/o0Lu9E+RhqJQgXMDhQ7eXRqKhZBjkFs6asc/O9Y7Xjz8oatoyhelK26tf79uZ/1SUa73gX9fOrd6vUxCrE3eHKyysIX0W33YVoNMY4M1g8FrAHyk7bB7Sy32DNDEBbZ0+FQDHWLHALCAWdx0VJzs/Hx34+aeYyVOTw7cP9fUZ6XpoFbm8+LIC/mFXlsJPcWK9ALlye8+z6h6mVwscIEOXSxwO1FPQrbTIcZp7n28=;AiZiekMRMX9x9nPK7Qx6lA=="
+secured: "5cKqxZWRNXX6ooFrjiPxHkgmiat7hN5Qdy1WnEq+Bk9yht3auK7RbkbFSxtgLuuZmCKvdrtCUVKZH8vBV1IvUr34VKylNxQlP+q/Mx92aFojHcVqzY2fLz61sg5N8qLtvGPq9HVZrjfSG+1R6VeW51Dbs95XkiTYAwmiZuS6dWO4xsNs7yN4M8+Lx3K6bw7L3aPyygjGE22uzPyupAh0tpC+Z2yx5/HI+g9s4vBRiVba8JFHIbqQ8pnGdspv/u5B/Mk3RN2F6CE3rk2blhLujJxmV25Qw7kQzK7m4YwP48j+MYLQm6YRhf2aBfXHESU2vTe5egPBgnAIWwqcUyxYBc9Dp6Ts3rmAIr+uH2ZSk77HMUpUucTsTBKFMvJL+QxOfYprAy7QPIn7pHwofFlXgyu9m1gQfRwDI7vlgYt4vWXGhgf7xk6tCCNSofSpmaUqWPD0hBICurECU2DKShszbAEvBRSN8O5a2q79jdWE7L2B0Vdar2PPSBgzM8tGtVBSplsBtFt+Noou1HM+uTBR0A==;CaDl1KDteOxC3GRMrA/5kw=="
 ---
 

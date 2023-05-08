@@ -6,7 +6,7 @@ publishedDateTime: 2023-05-08T13:04:00Z
 originalUrl: "https://www.techzine.eu/news/infrastructure/105662/microsoft-and-amd-vs-nvidia-new-battle-over-ai-hardware/"
 webUrl: "https://www.techzine.eu/news/infrastructure/105662/microsoft-and-amd-vs-nvidia-new-battle-over-ai-hardware/"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI Hardware
 
 images:
   - url: "https://www.techzine.eu/wp-content/uploads/2023/05/Nvidia-GPU-server.jpg"
@@ -458,6 +459,6 @@ related:
       domain: timesnownews.com
     quality: 17
 
-secured: "jkAgZPWNiVYaRsDxtuPPqI7JZpmoKsKUk9JYigB+a7DXy39njqCMlpZJx+PfqSFeDbQF9+ezOfQLQE9dW0/omul+ndVx4FvtJN4ML+gUxb+pjxMa6e08t/gCY1fLcGmFVfIPhKxBEEDqT37NjORQh3teh3x2i66J+NZj6cE+uPrjY+q2XJxuVdHZ+6UiR/PfWt0LzNSb8TEMZkFWQQi6f1gOs5emNQgYocRq0mwJiA2ZEqrYRBmydXim1fsIZEtO7Bt5TpzOoq7ueb+MNL+SbU4ZOVGd4N+8DVZa2pr46q6B2hQR/tqaIL9XXA5wpm2PHO3/1lOcWDytnSNhBnKCEc7Sn5h2KDIPA4wJl6evMVg=;RViRCMwpJTzrbnbBhXA0/A=="
+secured: "TA5qoMOePy1c7yr+dlse6VRAxxwTe3rtCzGlrz5UNobBOlhc6utK6ku6pskL86AZD5bP10fdB9IDlCGOkBUuqOvGeiuN83FZzaqQPyMgo+CIkrk4Twn2fFW3fvk0+ShQnDFhtovOON8CjXglCgEeR12Gb43OhevM9tO1mRaraM96T4akPKUL6gckGEhhDyDt0tUOLc45Pk/xUEEA/d7FaYR+Og9ZXMh0mHJSpcON8bq2xo1PyNGZ758YKlouB0oh8gCtG5C0EB0HAO5d4q7fzofMRBgj3IfHqUvvRo/G5/m9/02llrM3x2oBkuTW20EznSFlykFE84SkqtEfR25LP2QDj6AL2xkjMLWIfQR8JuPy5OmHl84+pdb4rCIeCJXZ0rfUz/yiOxOG0DRGRroTap8cYFcPkCyhai521hQ5q7WXAVz8ve0NwxXf5Erxiyb+2MBp3twZX7wC0YxLUoGlRST39hSoMkryT8iclMhqWUCYMsYp0Ju8O2yHjBZymL18pbWH0KsqhpkSHDsMTgGHXg==;5BpE8zCBZoxhvjxZKulPtw=="
 ---
 

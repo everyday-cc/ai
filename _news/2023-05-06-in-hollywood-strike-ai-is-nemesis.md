@@ -101,20 +101,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 47
-  - title: "Striking Hollywood Writers Have Few Options to Stop AI Creep"
-    excerpt: "Film and TV studios could replace striking writers with artificial intelligence bots, and there’s not much labor unions could do to stop it without language in a collective bargaining agreement."
-    publishedDateTime: 2023-05-08T15:00:00Z
-    webUrl: "https://news.bloomberglaw.com/business-and-practice/striking-hollywood-writers-have-few-options-to-stop-ai-creep"
-    type: article
-    provider:
-      name: news.bloomberglaw
-      domain: bloomberglaw.com
-    quality: 39
-    images:
-      - url: "https://db0ip7zd23b50.cloudfront.net/dims4/default/fa0f9b8/2147483647/crop/4799x1844%2B0%2B833/resize/1919x739%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2Fbb%2F89%2Ffbf8d1e94f42a7bed5b7ddf7548e%2Fscreenwriters-guild-strike.jpg"
-        width: 1919
-        height: 737
-        isCached: true
   - title: "Writers vs AI bots is more than a Hollywood drama"
     excerpt: "They moved to hiring writers on short-term contracts to develop new dramas in what are known as “mini-rooms”; these are disbanded before the show is commissioned. This approach not only pays writers less and limits residuals, but means they do not gain practical experience on productions; they must find themselves another mini-room project instead."
     publishedDateTime: 2023-05-05T11:06:00Z
@@ -143,6 +129,24 @@ related:
         width: 1480
         height: 833
         isCached: true
+  - title: "Striking Hollywood Writers Have Few Options to Stop AI Creep"
+    excerpt: "Film and TV studios could replace striking writers with artificial intelligence bots, and there’s not much labor unions could do to stop it without language in a collective bargaining agreement."
+    publishedDateTime: 2023-05-08T15:00:00Z
+    webUrl: "https://news.bloomberglaw.com/daily-labor-report/striking-hollywood-writers-have-few-options-to-stop-ai-creep"
+    type: article
+    provider:
+      name: news.bloomberglaw
+      domain: bloomberglaw.com
+    quality: 19
+  - title: "The AI Apocalypse Is Coming for Hollywood, but Don’t Robots Rule Us Already?"
+    excerpt: "On her way to the picket line, the creator of the beloved hit ‘Dickinson’ waves goodbye to human storytelling."
+    publishedDateTime: 2023-05-08T18:54:00Z
+    webUrl: "https://www.vanityfair.com/hollywood/2023/05/ai-apocalypse-coming-for-hollywood-but-robots-rule-already"
+    type: article
+    provider:
+      name: Vanity Fair
+      domain: vanityfair.com
+    quality: 14
 
 secured: "I75LSL/6QuvkIVpX9z3cqCD1riPW6vl1I5EacsOafSSlnlgWlaen86fqpQogcxI0KsoOrVVSK+6dHmhsAYeCl434X5R9muK6o21027yFN21dDvN3AKGA6OMBVLuBjJOkhrN08dgDrn5Xyf+rbqEi8/0RxC/9HelxEVrbwnzlAvxgAyVGQL2IKV6lv8yxYE0KivBgSe0gwp4gHvEzgkEPVy4oX11qN1gIJlH/4AaxDe0FWk1E9bVpbiyNDz5jPnYa5sME+tdr/UmXpf5U/MHjO5/QcdzAaVvFSO6XJ+00WQ6OFWN6iO4zmvbXUmpffXgNnCN31ynO+YXu3gFhvr6TfjWBW6xuSPvg332eKoS6xYfnvEm2XMIPcP9k00NBJdt5bhvOAek61gV7mrReduSQzeF9rnpjjEuzPmUIiBH9klJXYPDlvFMH5tQb0XndYDqtNHO9nBWC+mk+35PeRWo64DyXS4AMbUBHVKNuAjUe3FPkieKGRNrZFzs0cgnSi8dbmk59fzIn7rtzBaREcl3/eg==;kxvbY3lYct7smB+ghmY5kw=="
 ---

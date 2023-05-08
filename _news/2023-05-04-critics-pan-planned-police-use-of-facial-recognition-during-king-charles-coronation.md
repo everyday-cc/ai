@@ -87,6 +87,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Spain fines Mobile World Congress 200,000 euros for facial recognition use"
+    excerpt: "One of the largest technology fairs in the world is facing a fine for using remote biometric tech in violation of European data privacy laws."
+    publishedDateTime: 2023-05-08T15:40:00Z
+    webUrl: "https://www.biometricupdate.com/202305/spain-fines-mobile-world-congress-200000-euros-for-facial-recognition-use"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 32
   - title: "At Growth Rate Of 16%, Facial Recognition Market Size To Surpass USD 16.74 Billion In 2030"
     excerpt: "Facial Recognition Industry Technological advancements, a slew of face recognition systems that include cloud computing are hitting the f"
     publishedDateTime: 2023-05-06T07:14:00Z

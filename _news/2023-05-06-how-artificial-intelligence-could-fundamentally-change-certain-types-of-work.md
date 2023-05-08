@@ -3,12 +3,12 @@ category: news
 title: "How artificial intelligence could fundamentally change certain types of work"
 excerpt: "A report released in March found that AI services could automate as many as 300 million fulltime jobs worldwide."
 publishedDateTime: 2023-05-06T00:24:00Z
-originalUrl: "https://www.cbsnews.com/detroit/news/artificial-intelligence-chatgpt-threatens-changes-jobs-work/"
-webUrl: "https://www.cbsnews.com/detroit/news/artificial-intelligence-chatgpt-threatens-changes-jobs-work/"
-ampWebUrl: "https://www.cbsnews.com/amp/detroit/news/artificial-intelligence-chatgpt-threatens-changes-jobs-work/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/detroit/news/artificial-intelligence-chatgpt-threatens-changes-jobs-work/"
+originalUrl: "https://www.cbsnews.com/news/artificial-intelligence-chatgpt-threatens-changes-jobs-work/"
+webUrl: "https://www.cbsnews.com/news/artificial-intelligence-chatgpt-threatens-changes-jobs-work/"
+ampWebUrl: "https://www.cbsnews.com/amp/news/artificial-intelligence-chatgpt-threatens-changes-jobs-work/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/artificial-intelligence-chatgpt-threatens-changes-jobs-work/"
 type: article
-quality: 71
+quality: 69
 heat: -1
 published: false
 
@@ -17,7 +17,6 @@ provider:
   domain: cbsnews.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
@@ -59,6 +58,15 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "How artificial intelligence may change health care"
+    excerpt: "Officials believe convicted rapist, Jesse McFadden, murdered six people and then killed himself."
+    publishedDateTime: 2023-05-05T21:40:00Z
+    webUrl: "https://kfor.com/video/how-artificial-intelligence-may-change-health-care/8623439/"
+    type: article
+    provider:
+      name: Oklahoma's News
+      domain: kfor.com
+    quality: 19
   - title: "How Generative AI Is Changing Work"
     excerpt: "Customer Service Jobs"
     publishedDateTime: 2023-05-08T13:16:00Z
@@ -69,6 +77,6 @@ related:
       domain: hbr.org
     quality: 17
 
-secured: "agQFpuCTTuJVKaSwFAYd6UemHV67HRA+KmoHWK8JF6UEoa5bjSQSw3T0LiUm6jzekonL6qrBpgLQc1T2NSwElIruwBRHS0rq8yP2cboUXAzFFMt80exxWbfkzwuizmwZvl3+Hg9+34zhsHAkVxRE0Mh7ySXxvKObn9y0nmeTv3kGI+Fle5tBTNbG2ZvqsZm5chyWUYf8Md6X4SKHjea2Lf8OeBWOcaVtk1uuIPOqKOL4de+YPhogWSsw45+1gC1naMs99qOP1yB3zBSZwn2KlPP9aGbsVf2SkHmXAeOeSMwomiOdMNKft6nzIwkUUARteOcMg27ZecWX8L6jgHO2Qa8Trfih0ZQQn2adFSc04qs=;kWB+R2INX9e/R1QWEOJP5Q=="
+secured: "f6uAWf5drf5fqRoZ4HhkFKcCpBCKXpNI+ZyokMQ8xMEKDNuhOOH288wcFZY2g2Ex/f6qywU8qDFQuCEW5PEgO6fGNmp1PdA5p1vCo4jMJSwzpG1KsFmG/eq52rOfmX6wxXGdw2SMzt/ggKSz8u6NDUmxeYhOfBU0u0+r5qVhBqLUMLe/1fd7ZkHOsK/EfNF3ohOMsSzxsmNYIbX/5rllRaOnj/JWMxNp3pio7vVMvkgXnmeqIRqmLz+4XZkxShyql29PxcdL61Fv1DoOKwRK2pXZSv0IXFvhH7qJG874txnd42tzkwkKOqWfYWrXOGdCICouXHV37Xd4RbItfVxp7R2zELlTrXFpmfD3iL5P8BY=;WhERQS6feUDKudYznA+hag=="
 ---
 

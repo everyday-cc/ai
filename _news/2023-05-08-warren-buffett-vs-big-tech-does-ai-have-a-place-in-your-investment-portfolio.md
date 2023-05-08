@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Warren Buffett Vs Big Tech: Does AI Have A Place In Your Investment Portfolio?"
+    excerpt: "Artificial Intelligence (AI) stocks should now be part of most investors' portfolios as Big Tech prepare for an AI boom, suggests the CEO and founde"
+    publishedDateTime: 2023-05-08T19:09:00Z
+    webUrl: "https://menafn.com/1106202785/Warren-Buffett-Vs-Big-Tech-Does-AI-Have-A-Place-In-Your-Investment-Portfolio"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 35
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?286630"
+        width: 444
+        height: 250
+        isCached: true
 
 secured: "2L9J1sksyldwO551YqVSfEWaMCliXJ09NlHVrjpoAWKeYPltbcwy+YA3cWY3S7mmWXSqYlz4qSlkN+BZJ1vxF7KpXbM9RQXkwBqDKDaX/sQ/kGk05bCdodQJMMAW9xGoUHD3bVBAuNNjBzBg4rq77G/0U3Ifo7raC7a1pVKuyc/P9tqL4XrmQTAq40wd8gFm4wWEelTSvZlFJ2+pOhGzJbg+cYE1QwIRa/7UwFwCTpJQjbz9eIhaikZbdNx3rjJnkJkdqslBtIv9LcMo+Im4Tqe+tttXnwVBr7bty0HnDufewvxP46z9ZX76zFfhZMdjOfSYX24aM8kbYQxxGahPNBxhMReMMmsPhsLfXVXlEqY=;9ClQSwLFKZxcOYC2GdVmcA=="
 ---

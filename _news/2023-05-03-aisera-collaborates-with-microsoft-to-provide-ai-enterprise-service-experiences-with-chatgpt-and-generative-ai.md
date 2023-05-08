@@ -1,26 +1,24 @@
 ---
 category: news
 title: "Aisera Collaborates with Microsoft to Provide AI Enterprise Service Experiences with ChatGPT and Generative AI"
-excerpt: "Aisera, a leading provider of Generative AI solutions for organizations, providing innovative service experiences for employees (EX), customers (CX) and Operations (OX), is partnering with Microsoft to deliver an AI copilot for enterprise service experiences."
-publishedDateTime: 2023-05-03T15:07:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/05/03/9806661.htm"
-webUrl: "https://it.tmcnet.com/news/2023/05/03/9806661.htm"
+excerpt: "Aisera Collaborates with Microsoft to Provide AI Enterprise Service Experiences with ChatGPT and Generative AI May 03, 2023 (PRNewswire via COMTEX) --"
+publishedDateTime: 2023-05-03T12:01:00Z
+originalUrl: "https://www.marketwatch.com/press-release/aisera-collaborates-with-microsoft-to-provide-ai-enterprise-service-experiences-with-chatgpt-and-generative-ai-2023-05-03"
+webUrl: "https://www.marketwatch.com/press-release/aisera-collaborates-with-microsoft-to-provide-ai-enterprise-service-experiences-with-chatgpt-and-generative-ai-2023-05-03"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
-    width: 550
-    height: 353
-    isCached: true
-
-secured: "z9M9U2qywKUCqaYFIaDMwAZXY2Uut4VFAz6Lv/Ol3+Ej238A0kjklvOdnh2A+rozJN67tifFztye/1ZDgn+K30GQDF1ahY91QzN6oWqcZ2Lc1xn1tosgjqAdD0jS7Zah5IIUmBF6n7MwWH7b5OL17eixTHdhvJpN3IaA5RJ8QMWcZMyF84MMJbZd8IV/kEl+S5EVSBuTCmpngTjn4gtUhhwSzYw/ItVjbTE0BH5VLB5aBr9N2FBzDDcvXd0z/ku6MqCNtH42do+7cJC7oOPQ5xMG+Tp3le+b1mKlqDT8C1U2FuCCZhOeNHvPD52xsUKTj91KTP8rD5tH1t/lBFCn0ZOsvxGlBTlt4Toy/B82qD8=;kB1SCpnZdTM2qkOSG2pwRg=="
+secured: "9NkQOpMyfmVSovlhVFxIhVXJQJ7n6I5oM494bFzZ8eE9Y/kCmOlfyp97ohHFf9/7HOrWNROKDvpIZdPecpGsESSeX6O5FQCGGD5vUbWzYkkbUup4fJCMO/N8bWuqBRDDFI5g2XZGDXoXT+UL21lztwbLxcFP6BHQeUMwx+KZKnnwRSacI4KElblAF5AyZ5n3tRw0RUFacqq+gN1cmIUFO6KCWAtOVefFn7ahwBeoQKOXZi1L0NWrdUNxarYCaTGe3kFqK3eZGuZqsngwM4PhlG2OxPaK8FoOB7Z783teUgCpNokdd3EQWTwk3FF3FuJ4FAvpzJidmXlizcsmDr1nf5VDs7177o8P/vBvMRVruGo=;xSFfidXQPXy9HjyLEI8qvQ=="
 ---
 

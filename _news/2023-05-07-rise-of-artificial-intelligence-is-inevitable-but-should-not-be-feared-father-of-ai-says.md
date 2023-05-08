@@ -3,12 +3,10 @@ category: news
 title: "Rise of artificial intelligence is inevitable but should not be feared, ‘father of AI’ says"
 excerpt: "Jürgen Schmidhuber believes AI will progress to the point where it surpasses human intelligence and will pay no attention to people"
 publishedDateTime: 2023-05-06T23:21:00Z
-originalUrl: "https://www.theguardian.com/technology/2023/may/07/rise-of-artificial-intelligence-is-inevitable-but-should-not-be-feared-father-of-ai-says?ref=biztoc.com"
-webUrl: "https://www.theguardian.com/technology/2023/may/07/rise-of-artificial-intelligence-is-inevitable-but-should-not-be-feared-father-of-ai-says?ref=biztoc.com"
-ampWebUrl: "https://amp.theguardian.com/technology/2023/may/07/rise-of-artificial-intelligence-is-inevitable-but-should-not-be-feared-father-of-ai-says"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/07/rise-of-artificial-intelligence-is-inevitable-but-should-not-be-feared-father-of-ai-says"
+originalUrl: "https://www.theguardian.com/technology/2023/may/07/rise-of-artificial-intelligence-is-inevitable-but-should-not-be-feared-father-of-ai-says"
+webUrl: "https://www.theguardian.com/technology/2023/may/07/rise-of-artificial-intelligence-is-inevitable-but-should-not-be-feared-father-of-ai-says"
 type: article
-quality: 62
+quality: 22
 heat: -1
 published: false
 
@@ -22,12 +20,6 @@ provider:
 
 topics:
   - AI
-
-images:
-  - url: "https://i.guim.co.uk/img/media/f2a30653e070396966e3a4e43f03d1a7986757d2/1341_236_5335_3201/master/5335.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1170583493e429e9fd50edf6fe85387e"
-    width: 600
-    height: 360
-    isCached: true
 
 related:
   - title: "Should We Be Worried About AI? I Thought Not, Until I Asked An AI"
@@ -88,6 +80,6 @@ related:
       domain: wealthprofessional.ca
     quality: 19
 
-secured: "reIeA9FSiYYPS+M9BJSkPlg2YnO6cP6Nkt4yhEPxE5nEmJPIPyTR/ePqDSEjW0JvNy9siRyrC8AHVCkhM9pGhR0DcKZv1G54oT62NpitCwneks9WXzubCyKsEV2kqKnNrLE73M+dkH/pmNmLO99xK+VheXSA4SYKp1YHfilL9XrU2nfkKpMGAWSXmfUFidkSzmtGQb5P+/hUG3gXHeGFzH4AsxCs2m/hwMnrK0Z+gOVgusyzZtkPX3jVMNX79NLUYWNBHalUzssiOLMsCJ4vSI/bhBQ5eW+orwGZjY0HivGHlJoLUYPg6t5lOw+ew6rmWRNc/DGpjNBH5qiUVQQGTr4P6KFn268n7nhb0IosTmY=;4JpjxiBPQpPllwH5lhhlIg=="
+secured: "nSXkSJErLCxvpf3swdRHCOdD1P1EwHZsXvwtAGuYURbI+Ptvma+kO9c8k+rnk0ssqMDRPtLZypoz52GsH7TouPr1pY92tlRvogFUDQqHfqCdritVQJVcrN6HB/8Y1qj+EhR3fc7XPTKmcQ3XrBo/VrKbhhpzPlsh940EStkuPeVlGVPTjxsr5A0SafrImBTH4OA4xFLw38ylWlql6Lj3ccWtkj/RFAyn/LAxwLWvZKO2q/tnQK3JSn4A7AZ86sL3haKNFaR3A9H7VyIyXl5YWqxhwfRqYgBa0e/WokJ4jgUbOQsirWwyEFCmy4BpDZcB92Wqu/9F4M4Kv2AMihijPLRM7TcAbMRM/CpaOv3gweMHccqmwjQW82srCHS+Gnb1FaQl9gOG/9UXSLqmcMeqgxcbH1/xTa7ZduXlGPXcmeqC/oMQeUPkqvLfN5JGry554eJMZGXOE4uITCbZKwOqMVqV6ZMc2Tl7QX0n4r9ANeNWIbhQiGXUXkyM41gKHBmeJ787u7yVWd4cVN68kfvu/Q==;ng8185PBfa5jzBPOmonb3g=="
 ---
 

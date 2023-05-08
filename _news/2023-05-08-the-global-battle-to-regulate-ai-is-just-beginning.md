@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/the-global-battle-to-regulate-ai-is-ju
 webUrl: "https://www.wired.com/story/the-global-battle-to-regulate-ai-is-just-beginning/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://www.itweb.co.za/static/pictures/2023/05/AI-create-image-2023.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Bringing AI Tools to the Workplace Requires a Delicate Balance"
+    excerpt: "By midyear, all of Morgan Stanley’s thousands of wealth advisers are expected to have access to a new artificial-intelligence-powered chat tool.The tool, which is already in use by about 600 staff members,"
+    publishedDateTime: 2023-05-08T20:02:00Z
+    webUrl: "https://www.spokesman.com/stories/2023/may/08/bringing-ai-tools-to-the-workplace-requires-a-deli/"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 37
+    images:
+      - url: "https://thumb.spokesman.com/o2qlnZLoJkpiNpKj1YWkMoSjY4c=/1200x630/smart/media.spokesman.com/photos/2023/05/08/645948d902eed.hires.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "MZf4Mkxeats8EdfYdFg5sm8m3jvbLZIrq7lSTatcr+tmQKrIFlg5VOIAUXdn6Fd9GavKEFNEF0kKcL9ekD6KA0QtJNXLxI2EKJN7pu7vhTsgbpp7dzS2goX9tqnYzWslJNa7fwJoSY3asBmsdjLDYt/1dZ+FRkuROw0KYOHFpsywbTIChe2FN986RkveCShikkdkK2Z7h0WMdW03NMCUYllOxQpuaKoWZtN1oWtebPCfko5h4W26l5KZgiIr3H+TqlKVJBU6+/f4fV4EXZoC0MaPACaD/GAXkBg3IoN+A64AF1lcGuBGb1MuVrkAKjCHWYMt3adJ+2uY/4XDu3aUTS0b/QjVfU1I7RbTswE4+PEPuPcWE2NRj5D5SpV9tuTTzMrlA3DGsig2DI14Ty5sV2hGEZUhNW/A0WkhDSPIUfORkQ5wKAZ35C+n4ZXciFFhByD89+eY9fm46WJNzKUo/qXwzQZY2CUhiaCY3jpkhMU+R6cPaZN+27s2Qf3ysyjep2u0qPjHkQ0RLkzrUX2h9Q==;XZUpgUPIPD1f77iC5g4HlQ=="

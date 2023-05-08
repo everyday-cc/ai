@@ -369,6 +369,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft and AMD vs. Nvidia: new battle over AI hardware?"
+    excerpt: "AMD is getting help with the development of its AI accelerators. According to Bloomberg, Microsoft is offering support to the chip company to avoid having"
+    publishedDateTime: 2023-05-08T13:04:00Z
+    webUrl: "https://www.techzine.eu/news/infrastructure/105662/microsoft-and-amd-vs-nvidia-new-battle-over-ai-hardware/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 56
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2023/05/Nvidia-GPU-server.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
   - title: "How Epic, Microsoft plan to use AI to answer patient inquiries"
     excerpt: "EHR vendor Epic Systems and Microsoft are training Azure OpenAI on a large collection of information so it can asynchronously draft responses to patient messages for providers, The Verona Press reported May 4."
     publishedDateTime: 2023-05-05T14:45:00Z
@@ -408,20 +422,6 @@ related:
         width: 900
         height: 550
         isCached: true
-  - title: "Microsoft and AMD vs. Nvidia: new battle over AI hardware?"
-    excerpt: "AMD is getting help with the development of its AI accelerators. According to Bloomberg, Microsoft is offering support to the chip company to avoid having"
-    publishedDateTime: 2023-05-08T13:04:00Z
-    webUrl: "https://www.techzine.eu/news/infrastructure/105662/microsoft-and-amd-vs-nvidia-new-battle-over-ai-hardware/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 54
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2023/05/Nvidia-GPU-server.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
   - title: "Microsoft working with AMD on AI chips"
     excerpt: "The companies are teaming up to offer an alternative to Nvidia, which dominates the market for AI-capable chips called graphics processing units, said the people, who asked not to be identified because the matter is private."
     publishedDateTime: 2023-05-05T05:54:00Z
@@ -459,6 +459,6 @@ related:
       domain: timesnownews.com
     quality: 17
 
-secured: "PAuAJr2pracYEnY+zafn+pGR3gFhChgnAzjZwbCpFwPQHXsDO8Wd7V9CKJOWHw5dIajwkakWQSzpWTGrBQPh0clUz44Ed5EHvkbPYjWZI4TIjZAbxYLXRah0uKNIMXoOxcSru2rg+9bDOz/ay2rU40ejfMKsMoYE3tLGaRM8cGnyblBIahSTKD4i2l7n0xtyYpCdW1bYiNxQ915c3Dr+RTis5U4Kcv2qILj/j3WPkWL1RCmODVOOpDtHaEej4XLUKnYJOM+jyosMwXKc6mLysPYgyamWe5olLLGI4ISJL7h1EtQdZW3/T9NfYFrnSGDHeNqiwE1IQcmbUqzqoN+nIC8KqQTVq8uNn/xWKsahfhM=;HaecaC3/7f5aw8hA7Rg09Q=="
+secured: "NDnhYbl4KrMEQxWQxZK3+F2G/uRqv2SVpX7wxGWrnzctoCrD2c9PdqS49A6wYKnF/vLa1oMWweO1MECyUzJd6as/Cf2ieMgf0mj3FRNjlEEmLNj3fQpul3porSsMirSwL6VukFfUh0aqEgU0T9iBxHgt8G5dGNGOAMlrefmyTi/0kYwvlNyeB7Q9EOmvIUctAc/avbML/0X22oEc2Pwbbm/+Rd00CHg06lucXmaytAtiTvGvVTjhaUQEA5AN2ckEyl97QI0IpEJiRoXj5kO4BwkM4rmQtBxsr9XRpiQEqUvcI8CToM0bERGUe340YT2zM8eAYrwNpJfUvHIbFIYkXapJi4Kor9IzWu8PzpIKWIv4MXzB0TC7adr/yL0ATC8ZAc/hrh+jeosH7CZsLCcWPFcOPYlR5OpuGj2aDa9pfffP3YcY5F0G3WLmjL2hk8+Xv3IDy74SZX9PFh6MqecghiP0CCdoLiUm2y2xLz543826dmo6JMdw60NdlYisR1H9/x/Vqo7XY6i3fxkfKVvmsQ==;FPNhTGTDPzxLb/mcm8x9AA=="
 ---
 

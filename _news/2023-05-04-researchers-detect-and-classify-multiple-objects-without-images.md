@@ -2,23 +2,19 @@
 category: news
 title: "Researchers detect and classify multiple objects without images"
 excerpt: "Researchers have developed a new high-speed way to detect the location, size and category of multiple objects without acquiring images or requiring complex scene reconstruction. Because the new approach greatly decreases the computing power necessary for object detection,"
-publishedDateTime: 2023-05-04T00:52:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2023/05/230503121252.htm"
-webUrl: "https://www.sciencedaily.com/releases/2023/05/230503121252.htm"
+publishedDateTime: 2023-05-03T19:18:00Z
+originalUrl: "https://phys.org/news/2023-05-multiple-images.html"
+webUrl: "https://phys.org/news/2023-05-multiple-images.html"
 type: article
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - Computer Vision
   - AI
 
-secured: "HrpTTj6SiOM8H16FFumQDnrrjI1BhzC/mL6dOLHCzg5DGG0VhXxYqP3KXBfhVLwEnmjPTCfymqtcvqqJ6/BJ+/tIEUQqmyYIg2DwX9ehbhXMlArDVeuYnIPomggGlerJwbG99BFj476dZdL2EW4i8JtPZXE7BOZC6rwYHShpadyCqGQ61tvwbIY1pF5KLLgd88RQbaff1bDpOXttAjEFl64TUdApBwrYC0wzxDXSCACfNbwWRZgWcyQPM54ylCWWCn4hru35ailFKKPHxS+beKWWAHTJJ90O7yMidwRrohaqLPMZB5psYkIDg1Z5S3EA0USAPDSOoWIFnNf8j/qe/bAM4yjT+KRNz8/i2OUhNi0=;NE6Yfrai54mr9LkX2ZVybQ=="
+secured: "6t2hlwdFnsBrHBaqNMhG3G+R3iyq7PAbtX0E8jBMjJ+fUMVawYoMFT69mvUuKjdZXIm/uLdjbs6Au+0DQXyfx97FYEk5H6yKeOFrMAci+/yLRaAnZhdf/lfz6KtAbnwZDlbtXhNd5GAmHhzGwp+GFHDjWW573HlcypjfuatSQfwIDmCJChPwj7wrULU/cZ62pkl9BO+LZpeuarvytMbclbggPWQGrpIhr+xfEJXNaYfmJbB8VwJspS6oruZYfljeR1wWwamcjAp1v7deC04chWmmFlOTYclu5Vlh7veRRVlrrHZEyMYopEbjQO60BcVTTrVbIiccI0pxsAAmRalOio/h9SNJqTF8f0WTwQLTadNWRCV0vC48MzLAuI4iZr+9LnkQJaUDglVfg9V3Ukw8x8l282KVjVqWvX8LVPVHk1R8cwURm8WaicO6k5sJr1eCDriJSEtVvM7pQvb73siwtuUyEU4KinkdbQDZJkV3An5GuLv1Q8773yXiXheiyXAD6etiwGPVc0LyH4bJDcW8Ew==;ShS3uIt9m8c7mvkA/dzdoA=="
 ---
 

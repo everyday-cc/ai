@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/michaeltnietzel/2023/05/04/nsf-announce
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaeltnietzel/2023/05/04/nsf-announces-140-million-investment-in-seven-artificial-intelligence-research-institutes/amp/"
 type: article
 quality: 77
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -62,6 +62,15 @@ related:
         width: 1280
         height: 724
         isCached: true
+  - title: "Carnegie Mellon University wins $20 million for creation of national AI research institute"
+    excerpt: "Carnegie Mellon University has received a $20 million commitment from the U.S. National Science Foundation and other federal agencies to create one of seven new National Artificial Intelligence Research Institutes."
+    publishedDateTime: 2023-05-08T18:36:00Z
+    webUrl: "https://www.bizjournals.com/pittsburgh/inno/stories/fundings/2023/05/08/cmu-national-ai-research-institute.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 7
 
 secured: "09B4rwt7BQz5Q1j6g0t3I9vNTcVdE/xLOz0wYGz3nGt32HpBNRWUNDP5ScBSKBzHAyUrusNvBLojxSnhLuYCQ3N2diuCS7O5pdgCr+dl8ZVyeDyPURuuQA2+I1mQkL35x4WTKDl5esPSJ2CnD+TO9pOjPbw/i4e3m/NKdGasoCbwJTwM2lOIBM2TKVeNsxaT48uCOVWGlYiDxDvJ1RsY4PwQc95tLDPc892S2+nE5YBhe3wTXoqGjLIyVnKgWGD/atqbngBQGQMpb9fU7bzYRP8TrAdhQFU4o2vgDWS1HkM+WQ0j3fFI5vg2x9GctpF7DoqM0yoLOAR9ekXWSC0R424qv37uuulNtYz39U0cTjddNnhUFuzY4gnE5n/Ri8N3g/BuMPnJG8ScCNJmXuzAAGpTIkFVNqk0GkrUr85Lyb5cNQ+lUF3Vp0ZOJVZwaLSmFI1YI48Uk2o/u5hseqWaYpkm5dXTujMdyejxfNmG6OkY0RsF4CG0BhXOBlmtUPHBmKV+2/5+vxcv46KRMXAk5w==;T4c3VAT7sUF6kqmQLxW0+g=="
 ---

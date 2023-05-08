@@ -382,6 +382,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft and AMD vs. Nvidia: new battle over AI hardware?"
+    excerpt: "AMD is getting help with the development of its AI accelerators. According to Bloomberg, Microsoft is offering support to the chip company to avoid having"
+    publishedDateTime: 2023-05-08T13:04:00Z
+    webUrl: "https://www.techzine.eu/news/infrastructure/105662/microsoft-and-amd-vs-nvidia-new-battle-over-ai-hardware/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 56
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2023/05/Nvidia-GPU-server.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
   - title: "Microsoft’s Bing AI chatbot to let users post images, ask questions"
     excerpt: "Microsoft is getting rid of the waitlist to try its new OpenAI-based Bing search and chat, and adding features like the ability to request and post images."
     publishedDateTime: 2023-05-04T20:09:00Z
@@ -406,20 +420,6 @@ related:
       - url: "https://www.assemblymag.com/ext/resources/LatestHeadlines/headlines900/siemens-plm-900.jpg?height=635&t=1682976658&width=1200"
         width: 900
         height: 550
-        isCached: true
-  - title: "Microsoft and AMD vs. Nvidia: new battle over AI hardware?"
-    excerpt: "AMD is getting help with the development of its AI accelerators. According to Bloomberg, Microsoft is offering support to the chip company to avoid having"
-    publishedDateTime: 2023-05-08T13:04:00Z
-    webUrl: "https://www.techzine.eu/news/infrastructure/105662/microsoft-and-amd-vs-nvidia-new-battle-over-ai-hardware/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 54
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2023/05/Nvidia-GPU-server.jpg"
-        width: 2560
-        height: 1440
         isCached: true
   - title: "Microsoft working with AMD on AI chips"
     excerpt: "The companies are teaming up to offer an alternative to Nvidia, which dominates the market for AI-capable chips called graphics processing units, said the people, who asked not to be identified because the matter is private."

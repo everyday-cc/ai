@@ -59,6 +59,15 @@ related:
         width: 1280
         height: 724
         isCached: true
+  - title: "Carnegie Mellon University wins $20 million for creation of national AI research institute"
+    excerpt: "Carnegie Mellon University has received a $20 million commitment from the U.S. National Science Foundation and other federal agencies to create one of seven new National Artificial Intelligence Research Institutes."
+    publishedDateTime: 2023-05-08T18:36:00Z
+    webUrl: "https://www.bizjournals.com/pittsburgh/inno/stories/fundings/2023/05/08/cmu-national-ai-research-institute.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 7
 
 secured: "+GYmx1NWIL6xEZBBsFsjXmV/QBJmQumzO3gUERBYelYaUqU6uzr0lgwo8tCGyKvp74tIQxh4OcojrzrPsfH3JaMRLYAKG9DpZ4V8ZXdpv4c1wyqqJJtE6I8Xj+b22jj5BQvjdQx46fXw0iKUG7gaDYponMCjrfedTxIA7Om7BbHpdLMvwrdh/frrOcldr+ceyw/hgYbfRs0bi4NUqgzqwSpQsfyg544EO0f7gG3phJRfBhiDIPMh6/hx5H7vpEHyKSsg3n2V4Z9PHeSdB7DvBcORx4HWYlLC5qwx0IJhZmINTWhMGt5pU+6FeDY2qV5NYiIQDZhl8ONJRGnu+4AmdGVAvYJriWIqhfBBww4uha8=;9JbDM12EOgFdzVnfATIRug=="
 ---

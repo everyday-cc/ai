@@ -2,14 +2,12 @@
 category: news
 title: "EU expected to delay fingerprinting and facial recognition checks at Dover"
 excerpt: "Exclusive: move predicted after fears extra checks could mar travel to 2024 Paris Olympics"
-publishedDateTime: 2023-05-08T08:29:00Z
-originalUrl: "https://www.theguardian.com/politics/2023/may/08/eu-expected-to-delay-fingerprinting-and-facial-recognition-checks-at-dover?ref=biztoc.com"
-webUrl: "https://www.theguardian.com/politics/2023/may/08/eu-expected-to-delay-fingerprinting-and-facial-recognition-checks-at-dover?ref=biztoc.com"
-ampWebUrl: "https://amp.theguardian.com/politics/2023/may/08/eu-expected-to-delay-fingerprinting-and-facial-recognition-checks-at-dover"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/politics/2023/may/08/eu-expected-to-delay-fingerprinting-and-facial-recognition-checks-at-dover"
+publishedDateTime: 2023-05-08T13:06:00Z
+originalUrl: "https://www.theguardian.com/politics/2023/may/08/eu-expected-to-delay-fingerprinting-and-facial-recognition-checks-at-dover"
+webUrl: "https://www.theguardian.com/politics/2023/may/08/eu-expected-to-delay-fingerprinting-and-facial-recognition-checks-at-dover"
 type: article
-quality: 57
-heat: 57
+quality: 17
+heat: -1
 published: false
 
 provider:
@@ -24,12 +22,24 @@ topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://i.guim.co.uk/img/media/1a7f3858882d587a5601118dc8a61b484e378d34/0_176_3500_2100/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=367fe432151f480a162c0dd3695d2680"
-    width: 620
-    height: 372
-    isCached: true
+related:
+  - title: "Dover chaos fears as EU tipped to delay fingerprint and facial recognition checks"
+    excerpt: "One of the issues facing authorities at the Port of Dover and at Folkestone is the lack of room available to create first-time registration zones for the EU's new entry and exit system (ESS)."
+    publishedDateTime: 2023-05-08T20:56:00Z
+    webUrl: "https://www.express.co.uk/news/world/1767936/dover-fingerprint-facial-recognition-brexit"
+    ampWebUrl: "https://www.express.co.uk/news/world/1767936/dover-fingerprint-facial-recognition-brexit/amp"
+    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/world/1767936/dover-fingerprint-facial-recognition-brexit/amp"
+    type: article
+    provider:
+      name: Daily Express
+      domain: express.co.uk
+    quality: 54
+    images:
+      - url: "https://cdn.images.express.co.uk/img/dynamic/78/590x/secondary/Port-4740308.jpg?r=1683579375171"
+        width: 590
+        height: 393
+        isCached: true
 
-secured: "4xpZCc76YMfLxQ4Wb9QRnaddSO5xbXP8OhAAAD9wHMxLb9/2FKKTVm8qwEZrrTARowixoRSQtL0tZiv54uGTPmdOAa9kH2DEi19yaze9UDWf6w41u9ebU6UfdLgdN6E4zu6JNjv13Rk6pnOAOcyZ5tPhuwYI3YVhsYoqFOaxSSAf3p8PUUzKyUiuz+Y+kyhizY18gURgV57lqHYsZoQYpy3UC8m4AlzbtnnoOvlehyIgJO4gwGL3H6RLblm+VTGpT1SyEZbzEoXqq0U4ZypBhIx4xn1+JolQjDHNl2MM0+RNQo9Q3MwjLpixuorX3V7k1rSQ2YFaxLMos+VaILgQ6SuNQGMWG+LPU0MsM05368Q=;DT9iP1ttNtBhC5KVYO60kQ=="
+secured: "6EFfKtrPMwQOGFKdVDIxJhF36384MepvTbe+HKGdnW/jcJHRiPVdXOmNIK/X+OuxY2r5K0DHbSWIfHVea0fxjgdfl6l7apfW0qmszlMn/M+oXFUjy0w+LPZ5J0RhSfDIgEBMWKGAtit1T1aJA/N+9fTwKCtPZ0MCxDrJNuUBqtgNWdR06HHk+V25U1hhDVBBw/NB4hemmh3OUEgurlyF/h1Rqum9NvCwAk5jPkgbzvGAe1ImDydWtZZ/Y7FFz31Uq4i5/9UvS7Lf1VEJmR738LSM/QMsBDHxzXMFqDYvNHEynwVyRF/OMrxvIOpc/BRiV7u7J0G1H8hFkPnRuhCw5/FtyAAGDzauH4Iy+iQO/ejidJcQnaA1HXNda2CEUULpF6ZtVy5I3PoXEto31f4IV6cKoaPdi+8JtpFUkhJQwPzi9kn7aqccEpFGkfa+qM3E2eZLH4jyPHUjYRcAU/NsqJlFCXsxGQG9ayJtGIZzstmKxjsAIQXYNxWYI7OjrFMUB2RYZ9VNf1eXSU+iFiAQZg==;Y+ENdVZawsL1v17jHZiRlw=="
 ---
 

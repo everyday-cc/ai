@@ -50,6 +50,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 63
+  - title: "The AI boom is reshaping the cloud business"
+    excerpt: "To support generative AI models, AWS, Microsoft and Google Cloud are investing in infrastructure and maneuvering to manage cost."
+    publishedDateTime: 2023-05-08T21:01:00Z
+    webUrl: "https://www.ciodive.com/news/AWS-Microsoft-Google-cloud-infrastructure-AI-ML-compute/649712/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 39
+    images:
+      - url: "https://www.ciodive.com/imgproxy/ArdjKqH_M6Qda4q_61cVhQAyFro4BqPoZNqLfAFdujU/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTgwMjMyMDgzNl9yV0VrMjI5LmpwZw.jpg"
+        width: 770
+        height: 435
+        isCached: true
 
 secured: "jODmVEIDV0yBEUiRuHMwRQlJrThtSPhV8jFK0OV79znX/UXZuOzd6W3OJ6YvngdwjirSg43KRPCN4nxhhfjoSJTLTcHakMxXtIab6U/eBmXAWUqGDbu5hGOvAvL6PGVRqww3jvfovSWooPYSVMBOzWyMRrT0KRGWrDYptxPUzT+iPpT3fmZeiBGs1QDOqEmPHvcNqkqz5JGcC3uhGEF/8IASsKLHVCNXqeZbVt8aoNPLmkJQMfSctzbb96KrL/pxeCR6fGFLM7UxzQ7TrAsASk9zXlWnCoIZytq46q95Ay1uDwAznEPArK3Ihoe9xvRuTmy4cHP7MHXpzArvKEtQFdeF+DlbnfQS4s+XocENX+OEwnfwAWFpzEuX0lQ2PZ4oWfTiO/RKOo0J3zdnN7peJmwycO2z7bH5ONSn0bOjWFa0+4OFBuHDOdhFgRRAU9jiblW5l+DhLuWsxILyHzA+dq9yJkUjkA1wQVOQQzgL+nWiLkwxlh1ypgyWmjTXZMSUPGJDn0cQKkWoaoEzNEaYfA==;gi42mdQzfjsdWgKwiMrwgg=="
 ---

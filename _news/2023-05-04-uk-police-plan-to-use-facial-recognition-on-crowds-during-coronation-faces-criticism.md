@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ndtv.com/world-news/king-charles-iiis-coronation-uk-poli
 cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/king-charles-iiis-coronation-uk-police-plan-to-use-facial-recognition-on-crowds-during-coronation-faces-criticism-4004541/amp/1"
 type: article
 quality: 52
-heat: 112
+heat: 122
 published: true
 
 provider:
@@ -87,6 +87,15 @@ related:
         width: 2048
         height: 1152
         isCached: true
+  - title: "Spain fines Mobile World Congress 200,000 euros for facial recognition use"
+    excerpt: "One of the largest technology fairs in the world is facing a fine for using remote biometric tech in violation of European data privacy laws."
+    publishedDateTime: 2023-05-08T15:40:00Z
+    webUrl: "https://www.biometricupdate.com/202305/spain-fines-mobile-world-congress-200000-euros-for-facial-recognition-use"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 32
   - title: "At Growth Rate Of 16%, Facial Recognition Market Size To Surpass USD 16.74 Billion In 2030"
     excerpt: "Facial Recognition Industry Technological advancements, a slew of face recognition systems that include cloud computing are hitting the f"
     publishedDateTime: 2023-05-06T07:14:00Z

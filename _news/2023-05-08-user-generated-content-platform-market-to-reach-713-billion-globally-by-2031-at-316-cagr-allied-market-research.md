@@ -2,9 +2,9 @@
 category: news
 title: "User Generated Content Platform Market to Reach $71.3 Billion, Globally, by 2031 at 31.6% CAGR: Allied Market Research"
 excerpt: "Allied Market Research published a report, titled, \" User Generated Content Platform Market by Product Type (Blogs, Websites, Advertising and Promotions, Social Media, Audio and Video, Others), by End User (Individual,"
-publishedDateTime: 2023-05-08T12:43:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2023/05/08/9809061.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2023/05/08/9809061.htm"
+publishedDateTime: 2023-05-08T10:27:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/05/08/9809061.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/05/08/9809061.htm"
 type: article
 quality: 0
 heat: 0
@@ -18,6 +18,12 @@ topics:
   - Facebook AI
   - AI
 
-secured: "eR2eAgaI1BdQbXr6OWCNxzVhoZboETCPJKKStCyh+N2+937N3EPcc5jb8hpw3qBvmp0MSmtdgJQKf7k0/ApfKDFaTNKymMIM2m1N44B1VGKenp85q1+e3CI+ETBt2ZhUTki8WwkZIgZt1pse/gaOpOwrvkrQWuFOCCP4guHJmU/ZxOCgDDRxPfogqX+O1arDTNKfTYgCPKtWeUrPUo6uK0kci4562q/X5Wev2nRUGpelz5cBzW3eiuCCB5CoHYBRxCQogWIQ8vHcegcgpiC9hXeqoKxv8/PTgrLGlvUHQLrbBkHmBYSRSACHEiSkekt+Ibjrv1rbPe2sUhTCK5nUOfDEzi4i30gLYqhPJH3iwzkgmpNNe1kGdk2UMBgvo1VCFFB0KSzOiSisTnTx2znb36LWX3b10iyuIWIhPejdEOwZnJcCZUaApTYW0Ky/glCkNjixMHOdYYxU2YiCc/E2WU2sXADXQx5Ez3bmg+Py3ghP8TbAEFIjG+gE+Rm6l2adcVBey/ehyALM92Y3h1m4fw==;nDK/qbyc8mKsLCY2mLfpNA=="
+images:
+  - url: "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg"
+    width: 400
+    height: 400
+    isCached: true
+
+secured: "IFicMRch7zrsgK3uIudlGOLcQBtov5O9fmr3MiM8H/pIAQqP4dfBwaEo2FMfGPdhGucDJX13mHiRMgvYu5RixMSnPmGCihayOB3k6PJrj6B19wcCNDfEojUpLLX15fZ7FszfIzc+q+I+Xr9wquYIwHCB3CQ+sQ2a8XGx35q9LFsruptJjAN9bOTmRdumYulbVDQxKtj45Yan8ScLxTGbisie9BwcQJRKFegVfOKcc1UFGPYefwqg0tR1ysh7kc9s+J2hKEjt/cf+UvMCewLH6OFcgkp5eK5o/qpbYxBTNNlKIN9h1xgrMyfrsoRID5KK2aVoev5sPRyEKljj/TAKJgyP8nz3WYdranQqd0yPsh0=;csiXu6+DqLLtmHqaXkeUHA=="
 ---
 
