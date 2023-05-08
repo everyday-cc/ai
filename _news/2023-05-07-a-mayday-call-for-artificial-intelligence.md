@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/a-mayday-call-for-artificial-intelligence
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/a-mayday-call-for-artificial-intelligence/amp/"
 type: article
 quality: 89
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -40,6 +40,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "What Generative AI Means For Banking"
+    excerpt: "The technology has many use cases across banking. Here's where it can provide the greatest value and how banks can manage the ensuing risks."
+    publishedDateTime: 2023-05-08T13:32:00Z
+    webUrl: "https://www.forbes.com/sites/michaelabbott/2023/05/08/what-generative-ai-means-for-banking/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "How AI Built This"
     excerpt: "The Information has a simple mission: deliver important, deeply reported stories about the technology business you won’t find elsewhere. Many of the most influential people in the industry turn to us for fresh information and original insight."
     publishedDateTime: 2023-05-05T18:43:00Z

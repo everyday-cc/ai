@@ -2,7 +2,7 @@
 category: news
 title: "EU expected to delay fingerprinting and facial recognition checks at Dover"
 excerpt: "Exclusive: move predicted after fears extra checks could mar travel to 2024 Paris Olympics"
-publishedDateTime: 2023-05-08T07:39:00Z
+publishedDateTime: 2023-05-08T13:06:00Z
 originalUrl: "https://www.theguardian.com/politics/2023/may/08/eu-expected-to-delay-fingerprinting-and-facial-recognition-checks-at-dover"
 webUrl: "https://www.theguardian.com/politics/2023/may/08/eu-expected-to-delay-fingerprinting-and-facial-recognition-checks-at-dover"
 ampWebUrl: "https://amp.theguardian.com/politics/2023/may/08/eu-expected-to-delay-fingerprinting-and-facial-recognition-checks-at-dover"
@@ -30,6 +30,6 @@ images:
     height: 372
     isCached: true
 
-secured: "vaATvbnzBS5CNDbUM9mhTV3OPmjuFN/fC8HTLDlaau2OuSLKd27yc33DRiyvMlK1Kdl8KZSzT3frvg6iOQx8l2HJtLBI6oGNNKPqhLRbK1OEbz5utOpyG/jSQMgKEbaiXi6ZcVR1/vLXcblV5TZVNV02WR6ac4EaGTGMzc+c3XASiTiLZdoGBhPftNHV0ic2RSUC2tNUVeTQeXTMBMc0Bq+9SWkQeKyCjKm4REIEcaAXBNWtU98udRt66vPtomh6nJvUCXe3atKLBuXwAD8q0is8QAbP3vo2mbaZ2JGyl6o2naLBYAmDjYiYNtpHLlZWdlAgobP6ftzfBKoHYVDp/fbKrTqwnK2XjwHZp1wFxZgobM/F6FgnSTh9i3u1iiuiVpiT7I01/BSfA1uqhjG6iGDf9nI5t5BtYDHVT7l5d/dDCN0tw/+amVY+HLPO6K+r1hnzPMMLPBPmYwnJ9qtqLdJSz6CMkORNThCxUo6RBrww6pbob6dPVr8e/IrYw2FKQuZosUptHTlhaNmKNb+mSA==;P2zkvE0pTrtejyJjNWjENQ=="
+secured: "UPdZIk2EY6xX8G+SP0WtSlLp8+U/BGpb7EYB9qkbsu0WYj94HAaFB/AuKFdkBMnqEnVU+fpgSDKes/W7yRfmYZHnJ8wPKalfYY15Iob5pkkSzFtTE0g/fmm0+w9qCSJSYH/kqYVckOJwywat/NaxMTvt5fZZcdSzoHuNdu2phZx7sFFMjAyjcubFoN9NB78tm7J1Ugddqb5x5Vonl9yHXjVE9+tk33u+4rVbWxdObFq3fNFZjMq4sk1sSTsh8GbFWqvKHYkFmEm800QXr8O5gsG6W4LYhNGydnJkJWRnA/qk72N20Kq1znYtxw/6KVsRugw0atptdncKO7swPN0FJWaxJmf8Z/aY8gYu2s4Slb0=;CbhdYoM8IwfSGjH0oN8yNQ=="
 ---
 

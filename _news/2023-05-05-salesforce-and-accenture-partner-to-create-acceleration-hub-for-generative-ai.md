@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/ai/salesforce-accenture-partner-create-accel
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/salesforce-accenture-partner-create-acceleration-hub-generative-ai/amp/"
 type: article
 quality: 84
-heat: 94
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Salesforce goes all in on generative AI with Slack GPT"
+    excerpt: "Salesforce last week made the AI-ready platform designed with OpenAI available for developers of allied apps and services. Einstein GPT is available as a beta version, and the company is currently prototyping the integration of Einstein GPT within Slack, according to Seaman ( Figure B )."
+    publishedDateTime: 2023-05-08T14:57:00Z
+    webUrl: "https://www.techrepublic.com/article/salesforce-launches-slack-gpt/"
+    ampWebUrl: "https://www.techrepublic.com/article/salesforce-launches-slack-gpt/amp/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/salesforce-launches-slack-gpt/amp/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 87
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/05/Hero.Salesforce.jpg"
+        width: 1400
+        height: 512
+        isCached: true
   - title: "Salesforce launches SlackGPT, embracing generative AI for enterprise workflows"
     excerpt: "Salesforce today announced SlackGPT, a new generative AI-powered experience planned for the Slack app, to be released soon."
     publishedDateTime: 2023-05-04T16:00:00Z

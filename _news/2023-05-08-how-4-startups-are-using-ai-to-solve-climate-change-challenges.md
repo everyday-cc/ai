@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/outreach-initiatives/entrepreneurs/how-4-startup
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/entrepreneurs/how-4-startups-are-using-ai-to-solve-climate-change-challenges/amp/"
 type: article
 quality: 109
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -47,6 +47,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "How Generative AI Is Changing Work"
+    excerpt: "Customer Service Jobs"
+    publishedDateTime: 2023-05-08T13:16:00Z
+    webUrl: "https://hbr.org/insight-center/how-generative-ai-is-changing-work?tpcc=orgsocial_edit&linkedin"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 17
 
 secured: "sVgf8xvW36jTJSIa4MTNF0uWH6s3vRtHl/T9zIW0jfLEugi+lJw4wRnNhTjVE6WyRO0aG/ql5U4RFbko/xH1/W1Owi3ZAH19Pey7Y/rjBVb6YtWTMphzlqukI8GNQgawbe6NYwleoMg2WwFetrgS+4bxS9Hyj+3rYPVlQ4cNLOqN5J5zOzAQ0S6KYSUKPKO7KwJ7RHeN6WBRq/1zMUCH5xT5s5v2QSosrKhsrU9RBpG7m/99WfaGStStmtLyrYeDe5C1Vc7i901SbgAoiC+gG/9CsRaQMgkMdvMIk8Oi9YGH9B2D74iNJ/5tfnz/NFnXZA+5k+0a0DDYVItV91P091omFX+MAJ1t+n9p8/4ioT0=;TTjGTy+3KK5yQFOSk0/fww=="
 ---

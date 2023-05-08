@@ -51,22 +51,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "How AI is revolutionizing fraud detection in financial transactions and processes"
-    excerpt: "The banking, financial institutions, and fintech industries face a growing number of scams each year, that can be typically categorized into three main types: physical attacks, internal collusion and violation of the Four Eyes Rule,"
-    publishedDateTime: 2023-05-06T10:35:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-ai-is-revolutionizing-fraud-detection-in-financial-transactions-and-processes/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-ai-is-revolutionizing-fraud-detection-in-financial-transactions-and-processes/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-ai-is-revolutionizing-fraud-detection-in-financial-transactions-and-processes/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 54
-    images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2023/05/Jaya-Mahajanam-Director-of-Pre-Sales-and-Solutions-–-E42.jpg"
-        width: 1648
-        height: 1982
-        isCached: true
 
 secured: "j+bjColgQwB7skmTu0erIsvlfnTfYRu39GYYcr1O0LUIoxLGhjOJQXpVLszE+6D0WoAmaSUiY2Ln0fHNecptv7RCxhk0ZXqzcya/JHDOp80x2Gtm9REpZRhtMde8TZH2SVz1yUSh2FXke0EWDU9cpSh5LI5FUohDeM5W1kuf8R6GgjqiC50ehKHIeyF2DpDXSbPTFWX/CxR9rmV22jSxayxMnIfprU+XD2gM1NZLlO0WtHtlxGpxqvcEeivuF885pCBfITCJXNy/YJ8W3RvsTsBagEIeXwEZjQS3C7IteJ06ukxKfYbw9zZU/EmFapHem4idR2y7PJGvJv3BrkcuI53WqntLPUd9ZDd0ARydLs4=;j8QY07dTsBy56n7pHYuv3A=="
 ---

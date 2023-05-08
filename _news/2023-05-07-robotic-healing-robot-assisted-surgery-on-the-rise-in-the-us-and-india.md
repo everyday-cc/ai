@@ -33,20 +33,6 @@ related:
         width: 770
         height: 500
         isCached: true
-  - title: "Questions raised over facial recognition use in Indian prisons"
-    excerpt: "Government agencies provide contradictory information on the introduction of facial recognition use in prisons amid rising scrutiny against the technology."
-    publishedDateTime: 2023-05-03T20:21:00Z
-    webUrl: "https://www.biometricupdate.com/202305/questions-raised-over-facial-recognition-use-in-indian-prisons"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 54
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/14130825/prison_bars.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "+anWziktbQc2UNQr+lBrujJmSMJQ7DqWYCFORydzcJJaQOs12ufrCnNBwEb6hz9bHWJ/3j7hHoxGFN2q5VQrrc+LlCf8EKN8ggIDUHHoJM88ASbWgtXpiBLVgWoNrrIxjOWBAF6Ui0ZICvjjw1gROEQ5ERt6CiUvd7tPGqBthjZQBsQqhKV5nZ/QyqwZQlZbKIDaDl3Z2Fz4Sq+ctS8EWUNe72BSJGeRw/GhM+SlVQhAZm8uT7Eez7Ua68U/QpbDGJX0Yoxc8j63t3GG4p6M537uDJJdxPFcNUOdSY6cElDBOdXRWX8jguBfvqIoqmSbW6DmVXYxGxYSvftNj+h+My4nGI6lH0xJpcbHfg4uCWVgVf90egsUklOchNnelEGXiREcpHzNblex82d3qOH4ENVA0gxv9gwX3WlnIoawoZf0dyQF1n4WTkpSqgBjseQoJPcuhkUWpwgql5TpN6cpd2+K0F2tvqhCw7MbSj+1Kc27X5C6QGdOmwnxUvQdSEM/S84oSrT13CeUI/9KuT1f/A==;KE4pTMe+ZEWnhApMRW18Eg=="
 ---

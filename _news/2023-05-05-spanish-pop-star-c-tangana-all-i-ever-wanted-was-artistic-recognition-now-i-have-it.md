@@ -39,6 +39,20 @@ related:
         width: 840
         height: 560
         isCached: true
+  - title: "Spanish pop star C. Tangana: 'All I ever wanted was artistic recognition. Now I have it'"
+    excerpt: "A spotlight fell in the darkened concert arena on a long table strewn with drinks, ashtrays and dinner plates, as if a leisurely meal had just taken"
+    publishedDateTime: 2023-05-08T09:59:00Z
+    webUrl: "https://thebrunswicknews.com/news/world_news/spanish-pop-star-c-tangana-all-i-ever-wanted-was-artistic-recognition-now-i-have/article_fdedb406-75a7-577c-a767-378b59d4fabf.html"
+    type: article
+    provider:
+      name: Brunswick News
+      domain: thebrunswicknews.com
+    quality: 15
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/thebrunswicknews.com/content/tncms/assets/v3/editorial/4/e7/4e7a2060-4c69-58ab-8c20-fd10f7751b85/6458d4c85a21a.image.jpg?crop=1600%2C840%2C0%2C113&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "dVCHP55U9ZXdisG5b+G212tZVZeo5i2PO6JfAz1zJLEpFX6MGJdDe/dz2Xdrz5qW7HyLLa/2iugyFNau9tujl82pgycI5IksDZ2aFKu9sn5rl4iHejnBn/t1XkoJVHwy95c0pmfXtTikBGIHIabXDt1JKqwzovS1hsgYHcn6+wV+v5kSM6Eq4D85LovqBThH6S3rZm8to43UnZ3YmczSM34c3G8wIUAv96+2ULf9W8cIMvWbZLX3GGFpJg18KN6tqYJAmQuQUgid+N5tcCHXTgB0r92dzglpNI/1aP+VFdOdLxlKfRWtn4/oIQGnpQ6Q0PRcj3N8rcuZxJ4rOkVgugmzEVVmaVLhEJkrKTxaFTXpcIZz3+DlePsE8mfEhJeQuGjQyChwbotldAeB7Bp1bHrMVzveWn795SpoEmkOhGm9YtvOq7zWQJlB2NnLzbquab80VntqPX7lLgjLn+NE1DLQe5TFHNLGxlEzDjvcl3qXEaxnX7TTro4yxj+IdknO8+xLZxx+C2YmAV0a1Usoww==;kkc0ewIZoiDGjUVSVm/GSw=="
 ---

@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence identifies anti-aging drug candidates targeting 'zombie' cells"
+    excerpt: "A new publication in the May issue of Nature Aging by researchers from Integrated Biosciences, a biotechnology company combining synthetic biology and machine learning to target aging, demonstrates the power of artificial intelligence (AI) to discover novel senolytic compounds,"
+    publishedDateTime: 2023-05-08T14:15:00Z
+    webUrl: "https://phys.org/news/2023-05-artificial-intelligence-anti-aging-drug-candidates.html"
+    ampWebUrl: "https://phys.org/news/2023-05-artificial-intelligence-anti-aging-drug-candidates.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-05-artificial-intelligence-anti-aging-drug-candidates.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 53
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/artificial-intelligenc-39.jpg"
+        width: 2000
+        height: 1000
+        isCached: true
   - title: "Artificial intelligence identifies anti-aging drug candidates targeting ‘zombie’ cells"
     excerpt: "Senolytics are an emerging class of investigational drug compounds that selectively kill aging-associated senescent cells (left, with red stain) without affecting other cells (rig"
     publishedDateTime: 2023-05-04T15:00:00Z

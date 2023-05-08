@@ -94,16 +94,14 @@ related:
         height: 630
         isCached: true
   - title: "In 30 secs, ChatGPT produces 643 words on India and AI; Edge manages just 143"
-    excerpt: "ChatGPT seemed more comprehensive at 643 words, while the Edge version was terse at 163 words, but it included footnotes with citations."
-    publishedDateTime: 2023-05-08T04:30:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/in-30-secs-chatgpt-produces-643-words-on-india-and-ai-edge-manages-just-143/articleshow/100063143.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/technology/in-30-secs-chatgpt-produces-643-words-on-india-and-ai-edge-manages-just-143/amp_articleshow/100063143.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/in-30-secs-chatgpt-produces-643-words-on-india-and-ai-edge-manages-just-143/amp_articleshow/100063143.cms"
+    excerpt: "In the IANS New York office, we have been experimenting with chatbots and one of the tasks we set for the two as a test was to \"write a report"
+    publishedDateTime: 2023-05-08T12:55:00Z
+    webUrl: "https://glamsham.com/world/health-lifestyle/in-30-secs-chatgpt-produces-643-words-on-india-and-ai-edge-manages-just-143"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 36
+      name: glamsham.com
+      domain: glamsham.com
+    quality: 16
 
 secured: "KmUVGPyDgMa6QXNi19YcPm4QyQZ06zYOI6YWeFlSnzS8nV1ItNsjVHGKbv7T9NENNJk8REMWlF0eGhehRZHXD9pRU7Coa2sW0LyiOMVTtdQE/hEITKl9i3NEXhj33Cyw5HYsGorjHltXDW/fixFq6RL7TA3fgCQwT5AxSlQuh504yOZtPRxVYbf3Am+K/sVrdyMrMhsX5XrG4Bbd9Qs4LuqhmVrFKsAKTZEQ/dweVVJdrdTJmQjmdzmVgESoDHCkqRFJffxQ/X6l2cSG4StlWSqZmhVja2LEEGrY2ZUcHp88KPZAxFdbMFjGbe3sZYWW5oWgiNP5DdnQocERM1APd/KkJxZm1dQnoi7IgjIknTqY8jpE96u+y2Y2PnBkeB6/zE5rq1X569WBtxeyi+xH+rdks60XWlNlzqxhxtfIAyvODcXrlzXTfy5q0vP9U52W1tmuPTZm4KBi40lyLGjyXjDvxIuThaDMtLQ7MfVlaDovQ1i7R29Ve8bRoQTtVTpXYl9t4RfDfCM+Tt00WpmaqQ==;4t7iuo3PeYB0XIQbzoydXQ=="
 ---

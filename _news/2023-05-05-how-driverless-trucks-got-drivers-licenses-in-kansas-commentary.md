@@ -127,15 +127,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 28
-  - title: "Driverless semis between Dallas and Houston? Aurora Driver CEO explains trucking plans along I-45"
-    excerpt: "The trucks will run on an autonomous driving system called the Aurora Driver, developed by Pittsburgh-based Aurora Innovation."
-    publishedDateTime: 2023-05-03T19:18:00Z
-    webUrl: "https://www.wfaa.com/article/news/local/insider-qa-aurora-ceo-chris-urmson-on-self-driving-trucks-autonomous/287-fe589d59-a52f-4269-9424-9531a24dcc87"
-    type: article
-    provider:
-      name: WFAA8
-      domain: wfaa.com
-    quality: 21
   - title: "Global Self-driving Cars Market [2023] | New Report Anticipates Industry to Surpass USD 6567.8 Million in Revenue by 2030"
     excerpt: "Toyota BMW Volvo Mercedes-Benz Audi Among other players domestic and global, Self-driving Cars market share data is available for global, North America, Europe, Asia-Pacific, Middle East and Africa, and South America separately. Research ..."
     publishedDateTime: 2023-05-04T12:10:00Z

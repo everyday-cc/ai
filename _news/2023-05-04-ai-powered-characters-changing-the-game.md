@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/charliefink/2023/05/04/ai-powered-chara
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/05/04/ai-powered-characters-changing-the-game/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -53,20 +53,6 @@ related:
       - url: "https://www.unite.ai/wp-content/uploads/2023/05/ai-manufacturing-971x600.jpg"
         width: 971
         height: 600
-        isCached: true
-  - title: "How AI is changing the game for software developers — for better and worse"
-    excerpt: "On one hand, these platforms can potentially revolutionize how developers work. On the other, they also threaten job security for those in the industry, presenting a stark contrast to established processes."
-    publishedDateTime: 2023-05-03T21:48:00Z
-    webUrl: "https://siliconangle.com/2023/05/03/how-ai-is-changing-the-game-for-software-developers-for-better-and-worse-kubeconeu/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/AI-in-DevOps.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "5wcjPR11bAxUAzoG/srXyMuXhdo1MbHg/xbqPNur/FawsnlwAIKrc6JIfvlfrcJSK651rdYmozfpchRhy2O6n6ch1xgAxuj0fzmqfYZYs4qWmT/26Qz+bt9kFlLTsYjGPWF3FH1MCEy10Zu3HeZb4V7VwyNHMtZVsTI/Y3taYxApqbaD1OInnHhNXy5dbka/6l3CpjuBoJzIXeqYFw7cwzvuUDVqLZoQWRbMng6npEYhBbDEYSVWkldKk5oqALgo6PThkB20VVBpp/NLneniCC4CFF3UkFtwmwXM+oMGcYWhjdOCnIZXTqvbJIftKjThY6pgGW+wblnkKzGI92/zByaHItf/tvZqWV08iTQNsCcp/1HgPMax8KvAAo7YZkXgbmt2q8UojfTwr+N1P80ydh8t6QnfqlQEJ3UCnNrJVmg2dLuadl51tspjER8RrCAWXwuI4ov/N7v63+imgJi9Gtjr/9XQ2MMqIVRO/5nd1TDJsO5fKeHTIqyM+BBVtBnhRpioR/rWcmc7Byl0to/H3w==;98ew/OGksMmEDfQodqISIg=="

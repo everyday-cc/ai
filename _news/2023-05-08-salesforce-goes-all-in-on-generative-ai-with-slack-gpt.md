@@ -1,0 +1,68 @@
+---
+category: news
+title: "Salesforce goes all in on generative AI with Slack GPT"
+excerpt: "Salesforce last week made the AI-ready platform designed with OpenAI available for developers of allied apps and services. Einstein GPT is available as a beta version, and the company is currently prototyping the integration of Einstein GPT within Slack, according to Seaman ( Figure B )."
+publishedDateTime: 2023-05-08T14:57:00Z
+originalUrl: "https://www.techrepublic.com/article/salesforce-launches-slack-gpt/"
+webUrl: "https://www.techrepublic.com/article/salesforce-launches-slack-gpt/"
+ampWebUrl: "https://www.techrepublic.com/article/salesforce-launches-slack-gpt/amp/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/salesforce-launches-slack-gpt/amp/"
+type: article
+quality: 87
+heat: 107
+published: true
+
+provider:
+  name: TechRepublic
+  domain: techrepublic.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: "https://www.techrepublic.com/wp-content/uploads/2023/05/Hero.Salesforce.jpg"
+    width: 1400
+    height: 512
+    isCached: true
+
+related:
+  - title: "Salesforce and Accenture partner to create acceleration hub for generative AI"
+    excerpt: "Acceleration hub from Salesforce and Accenture will use the companies' AI and connected customer skills to help clients harness generative AI."
+    publishedDateTime: 2023-05-05T00:28:00Z
+    webUrl: "https://venturebeat.com/ai/salesforce-accenture-partner-create-acceleration-hub-generative-ai/"
+    ampWebUrl: "https://venturebeat.com/ai/salesforce-accenture-partner-create-acceleration-hub-generative-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/salesforce-accenture-partner-create-acceleration-hub-generative-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 84
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/03/Salesforce-logo_2023.jpg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Salesforce launches SlackGPT, embracing generative AI for enterprise workflows"
+    excerpt: "Salesforce today announced SlackGPT, a new generative AI-powered experience planned for the Slack app, to be released soon."
+    publishedDateTime: 2023-05-04T16:00:00Z
+    webUrl: "https://venturebeat.com/ai/salesforce-launches-slackgpt-embracing-generative-ai-for-enterprise-workflows/"
+    ampWebUrl: "https://venturebeat.com/ai/salesforce-launches-slackgpt-embracing-generative-ai-for-enterprise-workflows/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/salesforce-launches-slackgpt-embracing-generative-ai-for-enterprise-workflows/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 83
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1231317627.jpg?w=1200&strip=all"
+        width: 1018
+        height: 574
+        isCached: true
+
+secured: "vBBTq5KVcExqRKPhi63ouk+tUFmkBmk92Gr6DKCJrbcCCx2EDoTFpWLVzMrHjIXOU9Q1KDFLrlZ3NrwU55Teb/lYLg6Cbl93pyEhZjKR9P33z66aSsAAaPFEFqQKtTvLWJzZxzC8Ry5ppTKMdckUBmS4/ewo0bmaQLCMmEs6jWraD0+pDHYyZzqgCXv8ymxaq316v7da5qsfkxU7rs640ADEh4D6yAxCUydoTc0jOJu2972igDnjPQlZD+BUPXthho/qROQ/uHDfAGdXGtt2nCYNMEsYpOIt1J4i7sPccFxaPE6vYDebtMUt8xjFu7aob2lkEg6jIOV8ceupmOdRiJ1v122HvBdhhqSaYfVwzi0=;tgD2FZ6F2OAOrQsNvnRi6w=="
+---
+

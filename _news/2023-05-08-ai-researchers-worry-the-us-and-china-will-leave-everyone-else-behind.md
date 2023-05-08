@@ -2,11 +2,11 @@
 category: news
 title: "AI Researchers Worry the U.S. and China Will Leave Everyone Else Behind"
 excerpt: "After ChatGPT sparked a frenzy among tech companies, a conference in Africa is focusing on AI’s promise and peril for poorer nations."
-publishedDateTime: 2023-05-08T03:29:00Z
-originalUrl: "https://www.wsj.com/articles/worlds-top-ai-researchers-debate-the-technologys-next-steps-55be2849?mod=hp_listc_pos2&autoplay=false"
-webUrl: "https://www.wsj.com/articles/worlds-top-ai-researchers-debate-the-technologys-next-steps-55be2849?mod=hp_listc_pos2&autoplay=false"
+publishedDateTime: 2023-05-08T10:21:00Z
+originalUrl: "https://www.wsj.com/articles/worlds-top-ai-researchers-debate-the-technologys-next-steps-55be2849"
+webUrl: "https://www.wsj.com/articles/worlds-top-ai-researchers-debate-the-technologys-next-steps-55be2849"
 type: article
-quality: 67
+quality: 47
 heat: -1
 published: false
 
@@ -20,12 +20,6 @@ provider:
 
 topics:
   - AI
-
-images:
-  - url: "https://images.wsj.net/im-777121/social"
-    width: 1280
-    height: 640
-    isCached: true
 
 related:
   - title: "World’s Top AI Researchers Debate the Technology’s Next Steps"
@@ -85,6 +79,6 @@ related:
         height: 900
         isCached: true
 
-secured: "adnK7sndSglbJA474wR2R0ehAopzc61s8RDv2VnvCkEqEKYQhMALPcnev1UgmIx1A6HJfev6Z0m9O9cUu/1R+UB0Jby23p0WckEAwEbtTKuq8hngS2qzXcNyibAvqcxC4qPddMVr5T4QmOHAjYytKkCB64TmRuY2UWGMi30BShGctMMKZjV3wqXsFbL9QVK1WSGeKQf+Zq8AzLKnnn0N+0AukV4GwqR9mSbd0L280lNrvIwkP7WhQUgA+EfTUfuuD8r4/2HMyJy9wSyz4yYQmVcmB1KXaHkkMSkBrxbuAQ8HSUl3JkP5DnH+64VnNj/j8CZJ6vE1I2fjgwuDxspiTeyI9GJBIHq9K7IaEO2DUC1pvVfto2B0waoKqPgib7o1CnycXcZ6NIIUsAIyocBGaEOx+aAtHPTxK0C+yBwXZhgxkl4fsdarodssuxGSzdY3xCOejmd86Cc5tZDDNzOli9DXSdV4sg+/cYVuxC3p3ul+bRI79FUC746POh3fvhysvgPq6ZBpeosyQ2Fp4KGcmQ==;8nBcA4HThSN0owXRl8DEKQ=="
+secured: "8T0nMwzdl2DIhhdFLeQ/zVnKGaTku8TzIhZHIuM9qwIs3hV5+sSZfgq2uTaE/EczACW2JxoVHcJQe4syw3FC3L3oDRkkL4lusNkGe6SGOvqoz2nk8YNVIa9DSk5z3y/jplA9L4eKHLXtMwlrKaI9frq5De7yHw3mzZCd4RCyWZhuFRAbqh9wtmH9+hKcDqS+xWFuTpXTLb5KywyRxNei/F6MCiVUoXI9+sQULHfZ3XnRFLcgoliryCdHFmc1m/7ljq3orOnR1bBXkdrcoVoJgs3BidcFiUJyBOolq3FcHDg4+t13UzW6IpzbgIK/l1sdVQoDyHWOV4r4iEDARW1CYSK6iT92i/1KBQ+Bk1HeiU9B0wkrsukNztMNqu4Fsc5D8iCqnjbop6MQZZkVzQUTyAMoNcCsdPDmw0TNqLfq3S1gG7hcIl6bKTcoVEzPAyI1RJfmKDnwWNcxVm9ECMZXxE4cGbwNIOQmGQFLCC1TNfI+AWUZjM4YK35gJinwbCZ8VNr4Eg2o/TKktoRJVnA6uw==;JcsnUamHibYXmOKxW/qpRg=="
 ---
 

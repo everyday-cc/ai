@@ -27,47 +27,81 @@ images:
     isCached: true
 
 related:
-  - title: "How AI And LLMs Are Streamlining Financial Services"
-    excerpt: "As AI becomes increasingly sophisticated and widely adopted, we can anticipate even more innovation in the fintech sector, leading to smarter, more efficient financial services."
-    publishedDateTime: 2023-05-05T14:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/05/how-ai-and-llms-are-streamlining-financial-services/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/05/how-ai-and-llms-are-streamlining-financial-services/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/05/how-ai-and-llms-are-streamlining-financial-services/amp/"
+  - title: "The risks and limitations of AI in insurance"
+    excerpt: "After examining the world of opportunities between AI and the insurance industry, it's time to investigate the risks of AI and how to adopt AI responsibly.\nThe post The risks and limitations of AI in insurance appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-05-08T13:00:00Z
+    webUrl: "https://www.ibm.com/blog/the-risks-and-limitations-of-ai-in-insurance/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64542fab9410055126fb7277/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 715
-        isCached: true
-  - title: "How AI and fintech are encouraging retirement savings"
-    excerpt: "Fintech and related tools informed by artificial intelligence (AI) have the potential to encourage more Americans to increase their retirement savings, according to a panel of experts at the ..."
-    publishedDateTime: 2023-05-04T02:00:00Z
-    webUrl: "https://www.foxbusiness.com/technology/how-ai-fintech-encouraging-retirement-savings"
-    ampWebUrl: "https://www.foxbusiness.com/technology/how-ai-fintech-encouraging-retirement-savings.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/how-ai-fintech-encouraging-retirement-savings.amp"
+      name: IBM
+      domain: ibm.com
+    quality: 99
+  - title: "One State Wants to Prevent AI-Driven Discrimination in Insurance"
+    excerpt: "Colorado has a draft rule that would impose oversight and transparency requirements on insurance companies that use big data about consumers or feed such data into predictive models and algorithms."
+    publishedDateTime: 2023-05-07T05:13:00Z
+    webUrl: "https://www.governing.com/policy/one-state-wants-to-prevent-ai-driven-discrimination-in-insurance"
+    ampWebUrl: "https://www.governing.com/policy/one-state-wants-to-prevent-ai-driven-discrimination-in-insurance?_amp=true"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/policy/one-state-wants-to-prevent-ai-driven-discrimination-in-insurance?_amp=true"
     type: article
     provider:
-      name: Fox Business
-      domain: foxbusiness.com
+      name: Governing
+      domain: governing.com
     quality: 59
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/f4f4d6b2-216a-4b4d-9ae3-8342af80d8b8/ebef14eb-8fc9-45a5-89d9-0e698365c75c/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/a86d3ad/2147483647/strip/true/crop/940x490+0+70/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fab%2Fdd%2F19d7f4fee90845302682372b188f%2Finsurance-2.jpg"
+        width: 840
+        height: 438
         isCached: true
-  - title: "Art world AI-nxiety: what is artificial intelligence and how are artists using it?"
-    excerpt: "From breaking news and insider insights to exhibitions and events around the world, the team at The Art Newspaper picks apart the art world’s big stories with the help of special guests."
-    publishedDateTime: 2023-05-05T18:15:00Z
-    webUrl: "https://www.theartnewspaper.com/2023/04/28/art-world-ai-nxiety-what-is-artificial-intelligence-and-how-are-artists-using-it"
+  - title: "Navigating the hype of AI tools in HR"
+    excerpt: "Sometimes it’s better to be first to a new technology, but in the case of AI in HR, it may just be better to be smart than first."
+    publishedDateTime: 2023-05-08T14:16:00Z
+    webUrl: "https://www.benefitspro.com/2023/05/08/147764/"
+    ampWebUrl: "https://www.benefitspro.com/2023/05/08/147764/?amp=1"
+    cdnAmpWebUrl: "https://www-benefitspro-com.cdn.ampproject.org/c/s/www.benefitspro.com/2023/05/08/147764/?amp=1"
     type: article
     provider:
-      name: The Art Newspaper
-      domain: theartnewspaper.com
-    quality: 28
+      name: Benefits Pro
+      domain: benefitspro.com
+    quality: 59
+    images:
+      - url: "https://images.benefitspro.com/contrib/content/uploads/sites/412/2022/10/Looking-at-Technology-Article-202210271701.jpg"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "US announces measures to address risk of artificial intelligence arms race"
+    excerpt: "White House said it would invest $140m in pursuit of AI advances that are ‘ethical, trustworthy, responsible, and serve the public good’"
+    publishedDateTime: 2023-05-04T15:52:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/may/04/us-announces-measures-to-address-risk-of-artificial-intelligence-arms-race"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/04/us-announces-measures-to-address-risk-of-artificial-intelligence-arms-race"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/04/us-announces-measures-to-address-risk-of-artificial-intelligence-arms-race"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 55
+    images:
+      - url: "https://i.guim.co.uk/img/media/f7eb9b7ae2efb54e5f8ccbce13aed19e3f76803e/0_0_6431_3861/master/6431.jpg?width=620&quality=85&auto=format&fit=max&s=ad8bac99eb3bf3d060964213513541f7"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "Generative AI in factory automation and the edge"
+    excerpt: "Siemens and Microsoft: generative AI in factory automation and at the edge In factory automation Siemens and Microsoft recently demonstrated how with the combination of Microsoft Azure machine learning and Siemens’ industrial edge, images captured by ..."
+    publishedDateTime: 2023-05-05T18:09:00Z
+    webUrl: "https://www.embedded.com/generative-ai-in-factory-automation-and-the-edge/"
+    type: article
+    provider:
+      name: Embedded
+      domain: embedded.com
+    quality: 19
+  - title: "Apple’s AI plans uncertain, as pioneers argue about the risks of the technology"
+    excerpt: "Jürgen Schmidhuber has been called “the father of AI” for his work in natural language processing within neural networks – the technology behind Siri and Google Translate. He has likewise written a huge number of papers and won awards for his work."
+    publishedDateTime: 2023-05-08T13:31:00Z
+    webUrl: "https://9to5mac.com/2023/05/08/apple-ai-plans/"
+    type: article
+    provider:
+      name: 9to5Mac
+      domain: 9to5mac.com
+    quality: 15
 
 secured: "uUUip5qumdBo6iy4D5A8A/6mhVmiIwhF6U5JEkMxbvQSFeHIn0fH7zqhQdy46VxdBGzcvTvW/4NbB7riStMtTeVQ1y9Tnf3ndoYq44lCuN7QXiMD/MtH23WsXTd2SukeVQgM4Aa2vIuz0bZgbo0HFIWXzYo/CpHVPqn6nkRR1eSLzkwEHgJOSmEsPIZ9WF86rbe4HqhBzEZv5PmUDqCfkZFcCBK9s5IMXYoi9ukSMa1J9OZJrXM450JHug0FUZ1D4SLNghrZuQWauFbDHJPOErqvVOl8sXuFkSdKJlspZzrJoorx9WRqHpA9esXniekd+ycdDGvgFES465CYKmpCZS4XIl3a3DeK7we3penUoagx5mCh4VIzujTnSGyvMzBQMhkS0r8pl5LT5gg8PEVq/9HJvu1CllxZarmYQtkLPoG65kHOcYjA8KtLpNZmcbDZyNlgte7/ik0XK3GgdOYcYf7Gv5KbJtBWHm472EMVBD364Xdzysb1T5qrA35RsN3RTDVQBKZJ0VrlewGzDf/y6A==;nz2pYsXeV+dgvl8g9XLqhg=="
 ---

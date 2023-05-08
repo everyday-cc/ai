@@ -7,7 +7,7 @@ originalUrl: "https://www.eagletribune.com/region/artificial-intelligence-identi
 webUrl: "https://www.eagletribune.com/region/artificial-intelligence-identifies-anti-aging-drug-candidates-targeting-zombie-cells/article_b28a039e-8fac-591c-bf1e-1fdf62afc6a0.html"
 type: article
 quality: 31
-heat: 31
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence identifies anti-aging drug candidates targeting 'zombie' cells"
+    excerpt: "A new publication in the May issue of Nature Aging by researchers from Integrated Biosciences, a biotechnology company combining synthetic biology and machine learning to target aging, demonstrates the power of artificial intelligence (AI) to discover novel senolytic compounds,"
+    publishedDateTime: 2023-05-08T14:15:00Z
+    webUrl: "https://phys.org/news/2023-05-artificial-intelligence-anti-aging-drug-candidates.html"
+    ampWebUrl: "https://phys.org/news/2023-05-artificial-intelligence-anti-aging-drug-candidates.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-05-artificial-intelligence-anti-aging-drug-candidates.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 53
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/artificial-intelligenc-39.jpg"
+        width: 2000
+        height: 1000
+        isCached: true
   - title: "Artificial intelligence identifies anti-aging drug candidates targeting ‘zombie’ cells"
     excerpt: "Using an AI-driven platform built on work pioneered at MIT, researchers have identified three anti-aging 'senolytic' compounds with comparable efficacy and superior medicinal chemistry relative to current investigational candidates."
     publishedDateTime: 2023-05-05T00:00:00Z

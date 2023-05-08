@@ -393,6 +393,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 54
+  - title: "Microsoft and AMD vs. Nvidia: new battle over AI hardware?"
+    excerpt: "AMD is getting help with the development of its AI accelerators. According to Bloomberg, Microsoft is offering support to the chip company to avoid having"
+    publishedDateTime: 2023-05-08T13:04:00Z
+    webUrl: "https://www.techzine.eu/news/infrastructure/105662/microsoft-and-amd-vs-nvidia-new-battle-over-ai-hardware/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 54
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2023/05/Nvidia-GPU-server.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
   - title: "Microsoft working with AMD on AI chips"
     excerpt: "The companies are teaming up to offer an alternative to Nvidia, which dominates the market for AI-capable chips called graphics processing units, said the people, who asked not to be identified because the matter is private."
     publishedDateTime: 2023-05-05T05:54:00Z
@@ -411,6 +425,24 @@ related:
       name: ExtremeTech
       domain: extremetech.com
     quality: 49
+  - title: "Bloomberg seeks an AI ethics & policy reporter"
+    excerpt: "We’re seeking a persistent, talented and intellectually curious reporter who can explore the ethical and regulatory dimensions of the emerging field of artificial intelligence. We aim to hire someone with a profound appreciation of both the potential benefits and unintended harms resulting from chatbots,"
+    publishedDateTime: 2023-05-08T13:04:00Z
+    webUrl: "https://talkingbiznews.com/biz-news-help-wanted/bloomberg-seeks-an-ai-ethics-policy-reporter/"
+    type: article
+    provider:
+      name: Talking Biz News
+      domain: talkingbiznews.com
+    quality: 34
+  - title: "MakeMyTrip Teams Up with Microsoft to Transform Travel Booking with Voice-Assisted AI in Indian Languages"
+    excerpt: "Transforming the travel landscape, MakeMyTrip and Microsoft join forces to create an inclusive, accessible, and seamless travel booking experience, Technology & Science News, Times Now"
+    publishedDateTime: 2023-05-08T12:37:00Z
+    webUrl: "https://www.timesnownews.com/technology-science/makemytrip-teams-up-with-microsoft-to-transform-travel-booking-with-voice-assisted-ai-in-indian-languages-article-100077105"
+    type: article
+    provider:
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 17
 
 secured: "P2ZH6Z9KOYbQ+9aCHZPSW+2HSZ7Rrl6xUoKouDcKD6VRkLsEDswHMx/TCmaVqz9CRNi/B3LwJDzmQZqxoCk+bf0u9tNdVpUNlr12ISqaC1h9dX+MoN7AVmmSe9vFe7VYeukz4ann4X/xIcyH8DWQo0g8c27drk2MszzOSf1Zr8yRcA4RvvILA8zVNrjoOpPY9xgOgTWzlGStNWr7+tROwHFXbGZetr66vyKSiW49Q7ap8Orh8qgfqvMarwGx2o9qyR/F93piGLWhwNkfzFFsGMtZ9xQVrPbAVQ99IU4Fs6f2a+uQUalKV1vJtu1NQds6CyFNOgt2izINCalef6bXa5n56Iq+0IyzbksQq/W7hGq5mieR5xN4IOSpbmI2TeTKEzp0M6gcgJNnS8O4dYqcBuqb8JjN0Kg8U5OKvuJJYg074kViF9Uy+LxWnJrPr9CHko8HtNBFnDJj5zinc4Nob9W1KjX9n7s6w0+9+LIf3bsKFYjhQclxXuwFHgopy612Y0iWwout7zX7LlPlRuulCA==;rYD9vOHxDXcPcw6qnDr7Zg=="
 ---

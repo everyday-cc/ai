@@ -24,6 +24,17 @@ images:
     height: 990
     isCached: true
 
+related:
+  - title: "Machine learning can support urban planning for energy use"
+    excerpt: "As Philadelphia strives to meet greenhouse gas emissions goals established in its 2050 Plan, a better understanding of how zoning can play a role in managing building energy use could set the city up for success."
+    publishedDateTime: 2023-05-04T20:18:00Z
+    webUrl: "https://techxplore.com/news/2023-05-machine-urban-energy.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 19
+
 secured: "VI5UHQPzThGIcJIGmCJaWaVw2xUQZOpyBjdS8MK93MuNT9oPc2P3BY/TGA9MZ0xjuQdXoLLNpSdTBzealAOVa7+gi5AWtgqyjA3r5n9JRzfXfBSrJFMNN5qtnhUtwMzMI3F4ByV4CQHuni3SryPH1TTI0E7kUSFIf45IN2noRFivfe81a5syjGB2zgz3g6/o3lymlNNWACcJIfS9fyqMhKLyz9yRAhaMmRzxPzL2qgiua/ls48TMeL6j0lThNmYXAVZ2+Lm0LAw5GOekIfsJWHJItVd9dEDwRR/QkkIe/1lpsKJALdyPpEPw7mZwuIfMlQjZ8G5zWqQL2twNqy8uOtI545w01aH1x0FXSadCFZtqCasknVEjIxBgPu3+4P/6zfUz61heX54mljeeJ7b8kUaVrPG7YzECpvyv9+b08oAXpoa5VRohiODqVeQs/aouN28OhsAjoA8uhdrjWNhjzUx4ft3nVG3qR7AtwqtUGqx1v5gtrFqPPVM7ZPIKPQWOvkXP+Rt/mz7jfMdjitbFpg==;/k8C4H3W+wka4m/NNzdY7Q=="
 ---
 

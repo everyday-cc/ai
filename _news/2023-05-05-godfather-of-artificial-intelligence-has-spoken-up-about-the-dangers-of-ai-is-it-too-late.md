@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/news/world/godfather-of-artificial-intellig
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/world/godfather-of-artificial-intelligence-geoffrey-hinton-has-spoken-up-about-the-dangers-of-ai/amp-11683244206712.html"
 type: article
 quality: 64
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://static.toiimg.com/thumb/msid-100072587,width-1070,height-580,imgsize-84784,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         width: 1068
         height: 580
-        isCached: true
-  - title: "When the ‘Godfather of AI’ quits, we all need to start thinking"
-    excerpt: "Mechanics don’t set road rules, so techies must not define the AI world, we need people outside the bubble to understand what is happening and contribute to regulations."
-    publishedDateTime: 2023-05-03T23:09:00Z
-    webUrl: "https://www.afr.com/technology/when-the-godfather-of-ai-quits-we-all-need-to-start-thinking-20230503-p5d5ex"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 37
-    images:
-      - url: "https://static.ffx.io/images/$zoom_0.75%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_1091%2C$y_334/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_opinion_no_age_social_wm/756f177adfd455524acf7929424c5d03de7788f4"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Former Google scientist warns about the dangers of artificial intelligence"
     excerpt: "A leading artificial intelligence researcher some call the “godfather” of AI says the technology is developing at a “scary” rate."

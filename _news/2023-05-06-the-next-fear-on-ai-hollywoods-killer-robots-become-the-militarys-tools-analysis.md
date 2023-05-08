@@ -81,6 +81,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "AI and the Hollywood Writers’ Strike"
+    excerpt: "The fear—or hope, depending on side of the desk you sit on—is that AI can replace writers and undermine their fees. One of the key sticking points in the Writers Guild of America (WGA) strike that began on May 1 at midnight,"
+    publishedDateTime: 2023-05-08T14:28:00Z
+    webUrl: "https://www.thenation.com/article/economy/ai-and-the-hollywood-writers-strike/"
+    ampWebUrl: "https://www.thenation.com/article/economy/ai-and-the-hollywood-writers-strike/tnamp/"
+    cdnAmpWebUrl: "https://www-thenation-com.cdn.ampproject.org/c/s/www.thenation.com/article/economy/ai-and-the-hollywood-writers-strike/tnamp/"
+    type: article
+    provider:
+      name: The Nation
+      domain: thenation.com
+    quality: 59
+    images:
+      - url: "https://www.thenation.com/wp-content/uploads/2023/05/1SAGShotCrop.jpg"
+        width: 1440
+        height: 907
+        isCached: true
   - title: "Writers vs AI bots is more than a Hollywood drama"
     excerpt: "They moved to hiring writers on short-term contracts to develop new dramas in what are known as “mini-rooms”; these are disbanded before the show is commissioned. This approach not only pays writers less and limits residuals, but means they do not gain practical experience on productions; they must find themselves another mini-room project instead."
     publishedDateTime: 2023-05-05T11:06:00Z

@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Facial recognition: How does the tech being used to police the King’s Coronation work?"
+    excerpt: "he Metropolitan Police confirmed on Wednesday that it will be deploying live facial recognition technology in central London during the King’s coronation this weekend. This means the coronation ..."
+    publishedDateTime: 2023-05-04T19:20:00Z
+    webUrl: "https://www.standard.co.uk/tech/facial-recognition-technology-coronation-met-police-privacy-artificial-intelligence-b1078801.html"
+    type: article
+    provider:
+      name: London Evening Standard
+      domain: standard.co.uk
+    quality: 31
+    images:
+      - url: "https://static.standard.co.uk/2023/05/04/10/AFP_33EC47T.jpg?width=1200&width=1200&auto=webp&quality=75"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "AsKTfwRoqDbS2MR+TeHZuuJzCP0EqlOuxypdE5puIR5pZo1sPh6RprgFu8I3QBRwG4Co5qfvJApdWuHTrgmC+mMHtekMzz493SsEcrIMvbE40fMkkrVovtPatg9ihDowURtbMMUCGx2/0DH62n4SOaRQfb6CE9RLlNjRNwUyEsQSX2NkG0Q/qc1zF1Jb/hYcEqzmqM+GDIKgyX4xSUkDLe8OoaCBmZDtbXfRasdaC/Wg4bbuRPrYOoDZdv96iRfXQwvP2bVhLQoJutW+FS+1RBzVNpyYEdF1+zqtcz7LckzDZaLd0+RlGegGzmXXsdHKk2F6p6nB3uhx2xr/IB3YI5VudhteCaLvRqxbH+Gd3bxq4dSe4PVbpQsAS6l94XUHo6GpfigmEiYorAzMqPgm+5zqDTBpCF0/sVSZn0nP8LYTObe9XoT5eirFC53Wve6lRKPPDg6YhKqxkgHBZFSgJ82W+H+Pfixi5MCnWFU35uP8pX2JDRvWDPyJElLbOYMkF5SSR2WteLbTTCPb5OLUHQ==;e2+rUnKlAZtHYfLmw81B6w=="
 ---

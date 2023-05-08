@@ -65,6 +65,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) Chips Market, 2030"
+    excerpt: "Research Reports has published a new report titled as \" Artificial Intelligence (AI) Chips Market \" by End User ( Electronics, Automotive, Consumer Goods ), Types ( GPU, ASIC, FPGA, CPU ), Region and Global Forecast to 2023-2030 - Executive Data Report."
+    publishedDateTime: 2023-05-08T00:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-2030-2023-05-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 79
   - title: "Global Artificial Intelligence (AI) Robots Market [2023-2030] | Projected to Reach USD 27820 Million with a 22.2% CAGR"
     excerpt: "Among other players domestic and global, Artificial Intelligence (AI) Robots market share data is available for global, North America, Europe, Asia-Pacific, Middle East and Africa, and South ..."
     publishedDateTime: 2023-05-04T12:10:00Z
@@ -88,6 +97,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 66
+  - title: "Artificial Intelligence (AI) in Healthcare Market Industry-Specific Challenges and Risks(2023-2030)"
+    excerpt: "Global Artificial Intelligence (AI) in Healthcare Market report provides valuable insights on the global market for"
+    publishedDateTime: 2023-05-08T08:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-industry-specific-challenges-and-risks2023-2030-2023-05-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
   - title: "Natural Language Processing For Healthcare And Life Sciences Market Size, Revenue, and Forecast 2030"
     excerpt: "Highlights with Short Brief of Natural Language Processing For Healthcare And Life Sciences Market: The Natural Language Processing For Healthcare And Life Sciences market revenue was Million USD in 2016, grew to Million USD in 2021, and will reach Million ..."
     publishedDateTime: 2023-05-04T12:10:00Z

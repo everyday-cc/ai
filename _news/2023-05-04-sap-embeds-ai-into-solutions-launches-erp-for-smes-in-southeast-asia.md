@@ -24,6 +24,17 @@ images:
     height: 1440
     isCached: true
 
+related:
+  - title: "SAP to Embed IBM Watson AI into SAP Solutions"
+    excerpt: "SAP SE announced that IBM Watson technology will be embedded into SAP solutions to provide new AI-driven insights and automation."
+    publishedDateTime: 2023-05-05T06:38:00Z
+    webUrl: "https://www.ciol.com/sap-to-embed-ibm-watson-ai-into-sap-solutions/"
+    type: article
+    provider:
+      name: CIOL
+      domain: ciol.com
+    quality: 34
+
 secured: "PQpopCtt8KGAzENcZJNbTps8uUvi6XdNlxPRnTGTZs2t7G6bjR8yh2E3O1efeqihisIxJRvGN7Ni2Rmxp50eLSyOUy24uKcDj+K2h4cROtOSdgvTkkrp73jUfPF53MStxnGaZHMvmO4RVPm5dpVNXTittUNq39M34pm9/SdgcGjhpmo+ilerRiFg38Zy9SKZIadah5CfpCzDPajTLSshzvzhAupsY703xTtA7P9nvfqaMQIW9sGuYuj+JU1xg7sOBjlDL+GKqYKeXakoXpZrSoJaVG5g+Kk4tT9Jd971Jkd0IUe5rMTHd6siBbS6oJ89Q/pl9Rj42itSM9RA/wSZA5Le+uuVTo0nFislDcoArIo=;hKArWUi65d/1iDacaCrd3A=="
 ---
 

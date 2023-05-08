@@ -52,20 +52,6 @@ related:
         width: 971
         height: 600
         isCached: true
-  - title: "How AI is changing the game for software developers — for better and worse"
-    excerpt: "On one hand, these platforms can potentially revolutionize how developers work. On the other, they also threaten job security for those in the industry, presenting a stark contrast to established processes."
-    publishedDateTime: 2023-05-03T21:48:00Z
-    webUrl: "https://siliconangle.com/2023/05/03/how-ai-is-changing-the-game-for-software-developers-for-better-and-worse-kubeconeu/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/AI-in-DevOps.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "+/a977Zu0vX1rfWL8AE1GgVTL4wz+lKCPd1DN+v7e1S9i5kdVSQaCtbSgx2BJbE0jTQOakEBOM246qaBkugx39JkfvPg/4JZGBx/G0BkP4DCXLO67V36a1YAECdy8FUxZ40pS4i3uDYvaDT8kHndUwSCrolwtDOJ24ar8AWb1XDNd14JBmfcLLEGMLIAGWYlEKg6tQaxvrMrM/UepGOAiI58fPfwDOi4gxCU4V9fuV4lVcc6g4zhpkb0PyYuYlzkLoVA93ahbjzmK92F+5JQIzc2tAmqKMqfhyhwvobflPeBFvawTDG7rsF88cNVg58Q9AB7cW9XSMguqk4p2MkpA0EZ8Pn0azGffTDy+nJM8jpuDnH2HJRyMn/k+UvGB4GnazrGGoIeSRvoQzxIJtmZR1BOKw5CzLolnb2lSWFDzEvZAfCLpgsM+oYR8ZxrkST2vnJxe/sQCZdaL2D0yPGeVYvL8Op3WE9+bxWaRz/Fl3HvbagbcX+O1FWnrGTZ04VqlCRPq3TuZuve7NMT51XGhA==;6vr2U/mlY6ejU2PM8OTRfw=="
 ---

@@ -74,17 +74,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Video: Geoffrey Hinton talks about the “existential threat” of AI"
-    excerpt: "Watch Hinton speak with Will Douglas Heaven, MIT Technology Review’s senior editor for AI, at EmTech Digital."
-    publishedDateTime: 2023-05-03T20:15:00Z
-    webUrl: "https://www.technologyreview.com/2023/05/03/1072589/video-geoffrey-hinton-google-ai-risk-ethics/"
-    ampWebUrl: "https://www.technologyreview.com/2023/05/03/1072589/video-geoffrey-hinton-google-ai-risk-ethics/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/05/03/1072589/video-geoffrey-hinton-google-ai-risk-ethics/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 37
 
 secured: "4evpGlJt+VyVPjPA3M/b3wENVlkDNDOXKV5etpTur5YX5e0TZ3G0GgWF/GazGhVLmZONyfLZ6a3scfRYUhN/0DNmHCb0HeXUUtS3Fel8DmEj0qs5btjg4sw7IL7EgpRvLolaQcfe7qKqOi3YWtxpUVzwNBr40fpOefRJ/s4BOirdmVcq6CdHtZC/R8gIHad4aDvjiUHKJb/2ZRRPgeP43wcnpwTq6y2fqPI41opWckUWibtDdgLr7wGzqQ6Pe/B7m7xkW6iijKWzksJKVP5MWQJ9Swp2CvKiJBqgszJzxwnmVqhgcn02q+IdfM0Nos6TgZIbywSBltN4fEJLa5MgsxnWWpnc0PjVHqRWYoPTBvxy2RlfNz0i6Ta21P/3LxonDg/VWEfZ3WBqACvCKw4khwmVjWZQP9hif+sfQGkt0K1BnvOqJ/519U83lAOStWycyOBCk6S62ScHo7rduyMTe51un3aXaLqKtLUlS+zxEfVSunzYTxPD4TkUQWE8X/1aOSyNzQdeUDZ29jqM6csbbw==;rAhRKyB3+nh6FDeTHfC4WQ=="
 ---

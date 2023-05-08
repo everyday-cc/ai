@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/article/amd-ai-microsoft/update-1-microsof
 webUrl: "https://www.reuters.com/article/amd-ai-microsoft/update-1-microsoft-helping-finance-amds-expansion-into-ai-chips-bloomberg-idUSL4N3714JL"
 type: article
 quality: 118
-heat: 398
+heat: 428
 published: true
 
 provider:
@@ -399,6 +399,20 @@ related:
         width: 900
         height: 550
         isCached: true
+  - title: "Microsoft and AMD vs. Nvidia: new battle over AI hardware?"
+    excerpt: "AMD is getting help with the development of its AI accelerators. According to Bloomberg, Microsoft is offering support to the chip company to avoid having"
+    publishedDateTime: 2023-05-08T13:04:00Z
+    webUrl: "https://www.techzine.eu/news/infrastructure/105662/microsoft-and-amd-vs-nvidia-new-battle-over-ai-hardware/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 54
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2023/05/Nvidia-GPU-server.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
   - title: "Microsoft working with AMD on AI chips"
     excerpt: "The companies are teaming up to offer an alternative to Nvidia, which dominates the market for AI-capable chips called graphics processing units, said the people, who asked not to be identified because the matter is private."
     publishedDateTime: 2023-05-05T05:54:00Z
@@ -417,6 +431,24 @@ related:
       name: ExtremeTech
       domain: extremetech.com
     quality: 49
+  - title: "Bloomberg seeks an AI ethics & policy reporter"
+    excerpt: "We’re seeking a persistent, talented and intellectually curious reporter who can explore the ethical and regulatory dimensions of the emerging field of artificial intelligence. We aim to hire someone with a profound appreciation of both the potential benefits and unintended harms resulting from chatbots,"
+    publishedDateTime: 2023-05-08T13:04:00Z
+    webUrl: "https://talkingbiznews.com/biz-news-help-wanted/bloomberg-seeks-an-ai-ethics-policy-reporter/"
+    type: article
+    provider:
+      name: Talking Biz News
+      domain: talkingbiznews.com
+    quality: 34
+  - title: "MakeMyTrip Teams Up with Microsoft to Transform Travel Booking with Voice-Assisted AI in Indian Languages"
+    excerpt: "Transforming the travel landscape, MakeMyTrip and Microsoft join forces to create an inclusive, accessible, and seamless travel booking experience, Technology & Science News, Times Now"
+    publishedDateTime: 2023-05-08T12:37:00Z
+    webUrl: "https://www.timesnownews.com/technology-science/makemytrip-teams-up-with-microsoft-to-transform-travel-booking-with-voice-assisted-ai-in-indian-languages-article-100077105"
+    type: article
+    provider:
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 17
 
 secured: "CMtrelO94urQwDFOPp4B6LZ3BZ0xmt4ysPCVGXcKE6ZlRl21hXosU9C8Y08JIL31xG3Qi5c4pJCHEg4rpV+ia8CrrdCS8k5CMLko1z7vuuhcDsfa8kA9dhVuvfTKQCLRXm8fUaeZoCtUPRfsbVSCADtDP/PlsbYxnbYEVWf4OrRssGh88v7/0xy6+PPQ8t7Id0nwBrjWwJBnVVgRoCtV9/28vo0WCqin6cxlnAuT/jLvs5GuyDEB+gCCHLKIVc+PKfGcTJ9XV8+1K3SIbQuzozIbesFwhKS0U3ajJGkx//eOHbS79VJAs0GCUH+Zesbywderyonc1fEDIlFHMKOVHff1F6066ZpOdH6taWIaKDfS3PnhDx5h+rupVAEKJjwW6Rs1Vmc70dRqKRzin4rRtm0zTVhpZDXBwZre1HaY+vYO0kba4+K5EO8MCUxeIFAPxqhrQJUk9NnCU2Bs0wh8ObyUoal42w8CHSV28Z2h8G1539OYg1SlDDQxjyKn80WtCT2Her2ObZwrgmNlLGInrw==;rJXOb0NWBrx5ejrCkZPTYw=="
 ---

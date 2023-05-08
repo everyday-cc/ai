@@ -108,6 +108,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
+  - title: "Deep Learning Camera Market Research | 2023-2030"
+    excerpt: "The Global Deep Learning Camera market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
+    publishedDateTime: 2023-05-08T07:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-camera-market-research-2023-2030-2023-05-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
   - title: "You Must Look Beyond AI To Stay Ahead Of Today's Cybersecurity Threats"
     excerpt: "AI algorithms learn from historical data, making it difficult to anticipate new advanced threats or zero-day attacks. It can also be prone to false positives, which can cause unnecessary disruption and confusion among security professionals, and can be vulnerable to hackers who attempt to manipulate the algorithms."
     publishedDateTime: 2023-05-05T13:45:00Z
@@ -117,6 +126,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Voice Recognition Biometrics Market Research, 2030"
+    excerpt: "The Global Voice Recognition Biometrics market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
+    publishedDateTime: 2023-05-08T00:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-biometrics-market-research-2030-2023-05-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
 
 secured: "RvGaOI09mQ37tpnVfcl05KlO2aKUtMO0+86IGtGgAxczkt6eRhPKSdwJm2zajRd81WkEaQ16l/EgzPwW8sd51U8HRuTb5VNk6VtohkqSA6eoEQFI5q4W2e6VR4QFMBG6yPiPrNCgHX58FWAx180mzHb1uVWiYDVAOLjNANnF0qIokiSH/5GJY65ckgMATGE35dw3SeaMm2EkzlyIMko51LtYuwpeZeQrIJgf0ZjxAGTLM4Yi6TBAoATtDoecBeVEsmvcBKMq7nyLfHLcLq1dzhUXW2iwiABU94EEqJbWOU0q1XIOqpc9j5uASvVmzYwgo2xZxrzlICQuHV8gtf1ZIC0WNI+10C90g+tcWGNMZ4I=;MwZ4sk/Xu4fg3WyCwo/RvA=="
 ---

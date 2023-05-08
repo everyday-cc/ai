@@ -7,7 +7,7 @@ originalUrl: "https://gizmodo.com/nyc-msg-facial-recognition-landlords-ban-law-h
 webUrl: "https://gizmodo.com/nyc-msg-facial-recognition-landlords-ban-law-hearing-1850401997"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://www.nydailynews.com/resizer/A1GIYA7uiW28B64Wfc2PtS8B8E0=/1200x630/filters:format(jpg):quality(70):focal(3753x1333:3763x1343)/cloudfront-us-east-1.images.arcpublishing.com/tronc/LGQX7TQZDZAW7A43PDRQY53FJY.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Facial recognition: How does the tech being used to police the King’s Coronation work?"
+    excerpt: "he Metropolitan Police confirmed on Wednesday that it will be deploying live facial recognition technology in central London during the King’s coronation this weekend. This means the coronation ..."
+    publishedDateTime: 2023-05-04T19:20:00Z
+    webUrl: "https://www.standard.co.uk/tech/facial-recognition-technology-coronation-met-police-privacy-artificial-intelligence-b1078801.html"
+    type: article
+    provider:
+      name: London Evening Standard
+      domain: standard.co.uk
+    quality: 31
+    images:
+      - url: "https://static.standard.co.uk/2023/05/04/10/AFP_33EC47T.jpg?width=1200&width=1200&auto=webp&quality=75"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "L1Q8vp5O71BcSudKftq9L2l/eRZJ/cEBcFWZEDs99SIOBaPLIQFZSmVvCwB6a6NfKS4pt7GnDv6xPn7HueHRKfNiENv8T2f2JG/HZZnAJosYSJk1zpA6lTbyARUbkcWxVgZrDebWsErtZ4OXITEaPBNgQO7wzSCyEgmd0KE86ZNxyjn5xQ+SDW1YdILAacYUJqKWydqacMGTzl55herSZtPbKgKPWHERzx3txodkcn8pMjncb9iv5cpD9Y4T5GB/u35eVgI7mCyYSVwmzW5zYqJbJJjXnSiH//t/C0OI700K5Gh3wpLMzJ3k44ZR652+WOTmpKRal+LAzlyVXMtAredccZ4kIfcqL7Rmz2iY6eK4WmB+/z27hTRdujs0JGEC8KSV2abfWSObAOyE2E0v/BDmUnVlmIHQoS725oGkon8otjlQSCXxbN6kt/t2tS4a7c/DlnV1fKKOgFyQaTx8Q7gDKijBc5OMe+Ug/USXUI1An4TOc8r4wmz5tACt2k3FshHZpFU7z6QKbi9qxxposw==;/zyfgErxVHl2lNIgNYnRww=="

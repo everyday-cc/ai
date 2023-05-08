@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/indias-robot-installations-hit-an-a
 webUrl: "https://www.therobotreport.com/indias-robot-installations-hit-an-all-time-high/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Questions raised over facial recognition use in Indian prisons"
-    excerpt: "Government agencies provide contradictory information on the introduction of facial recognition use in prisons amid rising scrutiny against the technology."
-    publishedDateTime: 2023-05-03T20:21:00Z
-    webUrl: "https://www.biometricupdate.com/202305/questions-raised-over-facial-recognition-use-in-indian-prisons"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 54
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/14130825/prison_bars.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Robotic healing: Robot-assisted surgery on the rise in the US and India"
     excerpt: "Jerry Ahrens visited the emergency room with a stomach ache, which turned out to be a mass on his right kidney. He needed surgery."
     publishedDateTime: 2023-05-07T12:14:00Z

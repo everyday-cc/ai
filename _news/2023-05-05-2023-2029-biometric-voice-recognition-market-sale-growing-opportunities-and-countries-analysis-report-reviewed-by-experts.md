@@ -102,20 +102,15 @@ related:
         width: 898
         height: 470
         isCached: true
-  - title: "Artificial Intelligence in Building Market Size and Value: In-Depth Research Report, and possible growth directions of 12.7% CAGR from 2023-2030"
-    excerpt: "The \"Artificial Intelligence in Building Market\" is segmented into regions, Applications, and Types. The report presents the research and analysis provided within the Artificial Intelligence in Building Market Research is meant to benefit stakeholders,"
-    publishedDateTime: 2023-05-03T22:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-building-market-size-and-value-in-depth-research-report-and-possible-growth-directions-of-127-cagr-from-2023-2030-2023-05-03"
+  - title: "Facial Recognition Market 2023-2028: Report, Industry Size, Growth Factors and Opportunities"
+    excerpt: "According to IMARC Group latest report titled \" Facial Recognition Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2023-2028 \", offers a comprehensive analysis of the industry,"
+    publishedDateTime: 2023-05-04T10:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-2023-2028-report-industry-size-growth-factors-and-opportunities-2023-05-04"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+    quality: 38
   - title: "2023 \"Data Science and Machine-Learning Platforms Market\" Modern Trends and Future Growth Insights 2030 | 122 Pages Report"
     excerpt: "Global \"Data Science and Machine-Learning Platforms Market\" research report provides Innovative Insights on the Strategies adopted by Major Global Players [Domino Data Lab, Dataiku, Lexalytics, TIBCO Software,"
     publishedDateTime: 2023-05-05T16:47:00Z
@@ -143,6 +138,20 @@ related:
       - url: "https://menafn.com/updates/pr/2023-05/05/EP_aa8fdimage_story.png"
         width: 898
         height: 470
+        isCached: true
+  - title: "Global \"Speech and Voice Recognition Technology Market\" 2023 (Latest Report) Becoming the Top Industry Player by 2030 | 116 Pages Report"
+    excerpt: "The Speech and Voice Recognition Technology Market Scope and Overview Report for 2023 presents a detailed analysis of"
+    publishedDateTime: 2023-05-08T06:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-speech-and-voice-recognition-technology-market-2023-latest-report-becoming-the-top-industry-player-by-2030-116-pages-report-2023-05-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 21
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "gWFkHzbyjBj3EoCd06rKiHqxr+NeAr4iIaeXqYkZTNaqSxlf2zI+HJwbx8zoOZLFDceL+3rKMSdiJsmbjBfaHX2EdaCURx9gRMhAtxi3q7ZkE2RM/oRu58uLghab1B/Y9GVc6TWsCCSDP3eLs7EXvEE+jSxNHCgtyPsHvDVLuRXxbv9HNDuO/KlSZP14p/aTsot93KePmbwrZdi0NPS2C5G0IJYhFKVueTl14seWbdzpFhXF2sZ38lHz5pfw4tMjmojV0wBaPzuuh32g6Eseq63M/BqT3zqhMKw/oT8+18YK8usXc5PwRiE6dmn15+aF4eGlFTd5xZ6S1qyI+TNpCJ4dntnc5H7zAaEUGMBXdk0=;kKRYNGBFK+J6aELp7qRL4A=="

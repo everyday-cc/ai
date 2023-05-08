@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/advisor/in/investing/cryptocurrency/top-10-
 webUrl: "https://www.forbes.com/advisor/in/investing/cryptocurrency/top-10-artificial-intelligence-ai-cryptocurrencies/"
 type: article
 quality: 84
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -29,6 +29,15 @@ images:
     isCached: true
 
 related:
+  - title: "IDVV Announces Artificial Intelligence (AI) Client In Medical Sector"
+    excerpt: "International Endeavors Corporation “IEC” (OTC PINK:IDVV) announced that its AI division WITech has entered into an agreement with its first client in the Medical Sector, Anti Aging & Wellness, a provider of various anti-aging"
+    publishedDateTime: 2023-05-05T15:07:00Z
+    webUrl: "https://www.sacbee.com/press-releases/article275102746.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 34
   - title: "The crypto-to-AI pivot was a mirage. How AI could make crypto bigger than ever"
     excerpt: "Crypto startups that used artificial intelligence have made AI their focal point—and it may help them achieve their crypto dreams."
     publishedDateTime: 2023-05-07T04:00:00Z

@@ -99,6 +99,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence for Healthcare Applications Market 2023 | Increasing Number of Users by 2030"
+    excerpt: "The Artificial Intelligence for Healthcare Applications Market Scope and Overview Report for 2023 presents a detailed analysis of the latest trends in the global Artificial Intelligence for Healthcare Applications market."
+    publishedDateTime: 2023-05-08T06:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-healthcare-applications-market-2023-increasing-number-of-users-by-2030-2023-05-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Healthcare Natural Language Processing Market Forecast to 2031"
     excerpt: "The Healthcare Natural Language Processing Market Report [101] offers statistical analyses on market growth prospects and in-depth information on the leading manufacturers - SAS I"
     publishedDateTime: 2023-05-05T01:14:00Z
@@ -131,6 +145,29 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Data Science and Machine-Learning Platforms Market Revenue, Growth Opportunities and Forecast to 2031"
+    excerpt: "Our report on the Data Science and Machine-Learning Platforms Market provides in-depth analysis on the current state of"
+    publishedDateTime: 2023-05-08T08:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-platforms-market-revenue-growth-opportunities-and-forecast-to-2031-2023-05-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Healthcare Cognitive Computing Market Analysis, Share, Revenue, Growth Rate With Forecast Overview Till 2030"
+    excerpt: "Further, for the in-depth analysis, the report encompasses the industry growth indicators, restraints, supply and demand risk, along with detailed discussion on current and future market trends that are associated with the growth of the market."
+    publishedDateTime: 2023-05-08T01:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-cognitive-computing-market-analysis-share-revenue-growth-rate-with-forecast-overview-till-2030-2023-05-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
 
 secured: "TUqbGipMAbePwUg733YugohPW2WwJJlkOJv05TyVo7PX6+q3wC91+uhnIW6s9o/Abvtmc+cESJQCcBp9SG2olkwUU0efbkuQ4ZTj9upY6GdHxFJYMxWoowC3uOjgGaiRyoPl4wTEgoWjCugvp01ThdoUIbsI9IcSiUlYNW4liykd09TIH8TJlsUOmJtxvgcmJTNGwS493E2zPlgvCSKMhMZD0d+TsUrGRvYPT0amUAiJUwYUorfAXBtPJuhTUfiRX2xuezydNpClHQnHHUOMn/9UnfNM4zxuhJoQK/B2yWGEdyDy3DHIhNYvQsfA9iEocMg+nacD7J4uK4UNf6+qp/+A6asBc8fhcJqlOUD/Sl4=;/LD65wQFJ7tRAforu+f1hw=="
 ---

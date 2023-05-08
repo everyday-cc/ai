@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/chatgpt-and-ai-guide-to-2023-most-ta
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-and-ai-guide-to-2023-most-talked-about-technology-2023-may?amp"
 type: article
 quality: 85
-heat: 135
+heat: 125
 published: true
 
 provider:
@@ -76,15 +76,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "10 ways ChatGPT and generative AI can strengthen zero trust"
-    excerpt: "ChatGPT and generative AI are already helping strengthen zero trust cybersecurity. Here are 10 ways it's doing so now or will soon."
-    publishedDateTime: 2023-05-03T19:07:00Z
-    webUrl: "https://venturebeat.com/security/10-ways-chatgpt-and-generative-ai-can-strengthen-zero-trust/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
   - title: "How I used ChatGPT and AI art tools to launch my Etsy business fast"
     excerpt: "David Gewirtz produced a print-on-demand Etsy store with a compelling identity and plenty of unique text and art. Here's how."
     publishedDateTime: 2023-05-04T13:56:00Z

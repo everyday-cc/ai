@@ -83,6 +83,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "US sanctions force Chinese firms to strive for alternatives to AI chips: experts"
+    excerpt: "The US government's intensifying chip sanctions against China have forced Chinese firms to search for alternatives to advanced chips used in cutting-edge artificial intelligence (AI) and could even offer a new opportunity for Chinese firms to take the lead in the emerging technology,"
+    publishedDateTime: 2023-05-08T14:36:00Z
+    webUrl: "https://www.globaltimes.cn/page/202305/1290343.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 49
+    images:
+      - url: "https://www.globaltimes.cn/Portals/0/attachment/2023/2023-04-11/61b112bd-1fff-4b0e-bc56-3d47fa2f37df.jpeg"
+        width: 800
+        height: 480
+        isCached: true
 
 secured: "XloQs4zNaPdmHQkOjRmWE6m4gLPzWa0TDtvvVGDorWuO70eDzMuoZTDntAYC4o5QbY29vreQtkr2LVyobxtccEpjPq6QIm5kdCQK+NV/dJXAKemWosrC2w9QrPryqyRUSjZ9arcnv1DhOLj3HTh+zNEQSL+9beJNAAOqTFzhArwqdlrz4MEsvnAmwu/omly8XZajGhqtRI1I/+GbQoMUnG1K1xs0b79eeYZ+RWgIHmFZPAHwHqi1RgBqWPdFPPNZsRr/xI3JFxSFS7aHbT+yAa16VMkSTPxWOGnzT22hf1YuqOSXuCmk+k2589beNvM64RWxTn7+C9XXK3K+KCE9vxwLOTlcyxsIltXNUwx6wdzLYjdBryr760LRMVJ8KuzerJ5nqN2C1mQCBDO0m+fEhC0Ayc72PuFD3Jljhg6kmzUmfqybipATjYFtb2YnzMvBNWSyjaM/nEf8M6+MnyPJeAQUw4pkFGq0pts4pDsHgEkiwp0qFe1qRWz56rnPfNhtlnWCtjiYsSY+gikOyJ9PoQ==;OIgQ7Lxq3h5zs3qLeo5jSQ=="
 ---

@@ -1,48 +1,20 @@
 ---
 category: news
-title: "‘Co-founders of Google DeepMind and LinkedIn launch chatbot’"
-excerpt: "The co-founders of Google DeepMind and LinkedIn have created a new AI chatbot. The announcement comes amid a surge of interest in AI from consumers and"
-publishedDateTime: 2023-05-03T11:10:00Z
-originalUrl: "https://www.techzine.eu/news/applications/105441/co-founders-of-google-deepmind-and-linkedin-launch-chatbot/"
-webUrl: "https://www.techzine.eu/news/applications/105441/co-founders-of-google-deepmind-and-linkedin-launch-chatbot/"
+title: "Co-founders of Google DeepMind and LinkedIn launch chatbot"
+excerpt: "The co-founders of Google DeepMind and LinkedIn have launched an artificial intelligence chatbot called Pi, adding to the flood of similar products rolled out publicly this year by the likes of OpenAI, Google and Snap."
+publishedDateTime: 2023-05-02T19:00:00Z
+originalUrl: "https://www.ft.com/content/08b40743-16d8-4113-8258-147bf9dbce94?shareType=nongift"
+webUrl: "https://www.ft.com/content/08b40743-16d8-4113-8258-147bf9dbce94?shareType=nongift"
 type: article
-quality: 19
-heat: -1
-published: false
 
 provider:
-  name: techzine
-  domain: techzine.eu
+  name: The Financial Times
+  domain: ft.com
 
 topics:
   - Google AI
   - AI
 
-related:
-  - title: "Startup from Reid Hoffman and DeepMind co-founder debuts chatbot"
-    excerpt: "Pi was built to be a supportive 'neutral listener' that asks follow-up questions to keep a conversation flowing."
-    publishedDateTime: 2023-05-06T22:00:00Z
-    webUrl: "https://www.moneyweb.co.za/news/ai/startup-from-reid-hoffman-and-deepmind-co-founder-debuts-chatbot/"
-    type: article
-    provider:
-      name: Moneyweb
-      domain: moneyweb.co.za
-    quality: 39
-    images:
-      - url: "https://www.moneyweb.co.za/wp-content/uploads/2023/05/397933961-1024x682.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "The Stack: Bluesky Emerges as Twitter Rival, DeepMind and LinkedIn Co-Founders Launch Pi Chatbot"
-    excerpt: "Twitter rival Bluesky gains momentum, DeepMind and LinkedIn co-founders collaborate to launch AI chatbot... News this week centred around the return of tech royalty: former Twitter monarch Jack Dorsey made a new bid for the microblogging throne with the launch of Bluesky,"
-    publishedDateTime: 2023-05-05T12:05:00Z
-    webUrl: "https://www.exchangewire.com/blog/2023/05/05/the-stack-bluesky-emerges-as-twitter-rival-deepmind-and-linkedin-co-founders-launch-pi-chatbot/"
-    type: article
-    provider:
-      name: exchangewire.com
-      domain: exchangewire.com
-    quality: 6
-
-secured: "faINjQVCKAJz3R+dwBSoAvbs12eRaG2pX6SC1ZqlaIFU3QHkXF0Nuh4+fJihcOtKLTTq+/gvTinqTfTAr1Qv92BueLspUJ9xPoHAc/viE5BTUeKHNxkjlQjXCKo6RBpmB0ySB+wC9uRfWV1jTovEThYhT8kUMdSmptq5kGW9UwYDNXW90glEOx5LW05QNF1OyGENGIsHNwngs2NexBvCKTYT2CAYbTWRumIwot6w+Cygjl9yTqfujDaH8eRt8UvBItCGh15AfL0Ovtx/Epo5ZE+SDEIU72P/a9FsDwEkNHaS8KL7ifJIjMu2ASz8o7387zZCWRmTt63uoYxuxAXXSP6Ove6IvjoEXnYiOiccov9ZKInxCnDUKmk8NhOlcd6nr7hF/wPMBogxEGkzXkufTlIsNb41tx5URUvnnZzT+A7es/B1kXo817Mx9ndxiBIuhJF12FkEIOyoN86X1LFKcY4jMc65h657a4S3ECHWCqhvrt0db79AZlEg+xm5fJNgNJCiey8j2i9tOezG7n0tDg==;gBKcUTfshqkGhOtJ3nLcLw=="
+secured: "dfvjE5INCjC8IVE2WYVFLaBpcTDoC9JFdiAq9Y3ck5zBWRNdj12foVBu94eY551z0gSaqzAXix73R0vgk0ydFw1jAMDDw/QA70sinVrKcE9GsJ/7DBqjX9vLnIxGP5LodwR5MmaE9BVQxDvemGnIr15sQasivE4Nxs1Z2I8+ZoziWN5N/ytdV4BwLsdzEYQ97GQS/kxRKweqHlK8eF/KfdEbbOyXP0OucpFyTFBQJVjsuBQ6ThoNS5BfEmRFFTxf2Yb93enycYVyM3/v4yqHAkal+so0hztdP08cu5oEYod+j6PZz9J8i3oYWqJr4r33CJu/yb6xYPrfftSK/h68a79XNMV6A2nkyHnf5NlIsefSsQUEpQzZKPRBPBtHAGJ8xQCAsiykWAJA9HRVozttgbOXEmCmU6mV5gvi26UjddTCqSvoPXjaDT5EeW/840yVAV0ozu9oJBaDMhAukphobcBp8L1o678U7QQloHz3M5DTsnmLKwWoA0270yIDMbnKwlmmqnXIivNDWvCbo9gNmw==;GPe6dGJBy5VePHbC8hnKxg=="
 ---
 

@@ -19,80 +19,88 @@ topics:
   - AI
 
 related:
-  - title: "Biden administration takes action to promote responsible AI innovation"
-    excerpt: "The Biden administration pushes responsible AI with R&D investment, policymaking, and assessments of current generative AI systems."
-    publishedDateTime: 2023-05-05T17:49:00Z
-    webUrl: "https://venturebeat.com/ai/biden-administration-takes-action-to-promote-responsible-ai-innovation/"
-    ampWebUrl: "https://venturebeat.com/ai/biden-administration-takes-action-to-promote-responsible-ai-innovation/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/biden-administration-takes-action-to-promote-responsible-ai-innovation/amp/"
+  - title: "The risks and limitations of AI in insurance"
+    excerpt: "After examining the world of opportunities between AI and the insurance industry, it's time to investigate the risks of AI and how to adopt AI responsibly.\nThe post The risks and limitations of AI in insurance appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-05-08T13:00:00Z
+    webUrl: "https://www.ibm.com/blog/the-risks-and-limitations-of-ai-in-insurance/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/04/annevb_chatbots_and_AI_everywhere_all_at_once_-_tech_colorful_e_beb92de9-8091-4437-9e29-d568ea8d4b74.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Information ministry holds lecture on AI"
-    excerpt: "Muscat: The Ministry of Information on Thursday organised a lecture on artificial intelligence (AI). The lecture dealt with the concept of"
-    publishedDateTime: 2023-05-04T14:14:00Z
-    webUrl: "https://www.omanobserver.om/article/1136617/oman/information-ministry-holds-lecture-on-ai"
-    ampWebUrl: "https://www.omanobserver.om/ampArticle/1136617"
-    cdnAmpWebUrl: "https://www-omanobserver-om.cdn.ampproject.org/c/s/www.omanobserver.om/ampArticle/1136617"
+      name: IBM
+      domain: ibm.com
+    quality: 99
+  - title: "One State Wants to Prevent AI-Driven Discrimination in Insurance"
+    excerpt: "Colorado has a draft rule that would impose oversight and transparency requirements on insurance companies that use big data about consumers or feed such data into predictive models and algorithms."
+    publishedDateTime: 2023-05-07T05:13:00Z
+    webUrl: "https://www.governing.com/policy/one-state-wants-to-prevent-ai-driven-discrimination-in-insurance"
+    ampWebUrl: "https://www.governing.com/policy/one-state-wants-to-prevent-ai-driven-discrimination-in-insurance?_amp=true"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/policy/one-state-wants-to-prevent-ai-driven-discrimination-in-insurance?_amp=true"
     type: article
     provider:
-      name: omanobserver
-      domain: omanobserver.om
+      name: Governing
+      domain: governing.com
     quality: 59
     images:
-      - url: "https://www.omanobserver.om/omanobserver/uploads/images/2023/05/04/2321824.jpg"
-        width: 1000
-        height: 503
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/a86d3ad/2147483647/strip/true/crop/940x490+0+70/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fab%2Fdd%2F19d7f4fee90845302682372b188f%2Finsurance-2.jpg"
+        width: 840
+        height: 438
         isCached: true
-  - title: "A case against banning TikTok. A US national strategy for AI."
-    excerpt: "These steps build on the Administration’s strong record of leadership to ensure technology improves the lives of the American people, and break new ground in the federal government’s ongoing effort… National Standards Strategy for Critical and Emerging Technology (Record) The Biden administration's National Standards Strategy for Critical and Emerging Technology is intended to help set global rules to ensure tech is \"universally safe and interoperable."
-    publishedDateTime: 2023-05-05T19:45:00Z
-    webUrl: "https://thecyberwire.com/newsletters/policy-briefing/5/87"
+  - title: "Navigating the hype of AI tools in HR"
+    excerpt: "Sometimes it’s better to be first to a new technology, but in the case of AI in HR, it may just be better to be smart than first."
+    publishedDateTime: 2023-05-08T14:16:00Z
+    webUrl: "https://www.benefitspro.com/2023/05/08/147764/"
+    ampWebUrl: "https://www.benefitspro.com/2023/05/08/147764/?amp=1"
+    cdnAmpWebUrl: "https://www-benefitspro-com.cdn.ampproject.org/c/s/www.benefitspro.com/2023/05/08/147764/?amp=1"
     type: article
     provider:
-      name: Cyber Wire
-      domain: thecyberwire.com
-    quality: 39
+      name: Benefits Pro
+      domain: benefitspro.com
+    quality: 59
     images:
-      - url: "https://thecyberwire.com/images/social-media/policy-briefing/2023/Policy-23-050523.jpg"
-        width: 2640
-        height: 1320
+      - url: "https://images.benefitspro.com/contrib/content/uploads/sites/412/2022/10/Looking-at-Technology-Article-202210271701.jpg"
+        width: 620
+        height: 372
         isCached: true
-  - title: "White House Must Take More Action To Address AI Concerns"
-    excerpt: "Twitter The White House Blueprint for an AI Bill of Rights issued last October is a strong start to a government response to protect workers, families, and our democracy from the potential pitfalls of AI. The recent release of generative AI tools is ..."
-    publishedDateTime: 2023-05-04T11:00:00Z
-    webUrl: "https://www.americanprogress.org/article/white-house-must-take-more-action-to-address-ai-concerns/"
+  - title: "US announces measures to address risk of artificial intelligence arms race"
+    excerpt: "White House said it would invest $140m in pursuit of AI advances that are ‘ethical, trustworthy, responsible, and serve the public good’"
+    publishedDateTime: 2023-05-04T15:52:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/may/04/us-announces-measures-to-address-risk-of-artificial-intelligence-arms-race"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/04/us-announces-measures-to-address-risk-of-artificial-intelligence-arms-race"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/04/us-announces-measures-to-address-risk-of-artificial-intelligence-arms-race"
     type: article
     provider:
-      name: Center for American Progress
-      domain: americanprogress.org
-    quality: 37
+      name: The Guardian
+      domain: theguardian.com
+    quality: 55
     images:
-      - url: "https://www.americanprogress.org/wp-content/uploads/sites/2/2023/05/AIColumn.jpg"
-        width: 1680
-        height: 1120
+      - url: "https://i.guim.co.uk/img/media/f7eb9b7ae2efb54e5f8ccbce13aed19e3f76803e/0_0_6431_3861/master/6431.jpg?width=620&quality=85&auto=format&fit=max&s=ad8bac99eb3bf3d060964213513541f7"
+        width: 620
+        height: 372
         isCached: true
-  - title: "Biden-Harris administration announces initiatives for responsible AI innovation"
-    excerpt: "VP Harris meets with tech CEOs and major AI companies commit to independent evaluation at DEF CON 31. #NewsismyBusiness"
-    publishedDateTime: 2023-05-05T09:04:00Z
-    webUrl: "https://newsismybusiness.com/biden-harris-administration-announces-initiatives-for-responsible-ai-innovation/"
+  - title: "How AI is revolutionizing fraud detection in financial transactions and processes"
+    excerpt: "The banking, financial institutions, and fintech industries face a growing number of scams each year, that can be typically categorized into three main types: physical attacks, internal collusion and violation of the Four Eyes Rule,"
+    publishedDateTime: 2023-05-06T10:35:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-ai-is-revolutionizing-fraud-detection-in-financial-transactions-and-processes/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-ai-is-revolutionizing-fraud-detection-in-financial-transactions-and-processes/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-ai-is-revolutionizing-fraud-detection-in-financial-transactions-and-processes/"
     type: article
     provider:
-      name: Business
-      domain: newsismybusiness.com
-    quality: 35
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 54
     images:
-      - url: "https://newsismybusiness.com/wp-content/uploads/2023/05/dreamstime_m_51454298-394x218.jpg"
-        width: 394
-        height: 218
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2023/05/Jaya-Mahajanam-Director-of-Pre-Sales-and-Solutions-–-E42.jpg"
+        width: 1648
+        height: 1982
         isCached: true
+  - title: "Apple’s AI plans uncertain, as pioneers argue about the risks of the technology"
+    excerpt: "Jürgen Schmidhuber has been called “the father of AI” for his work in natural language processing within neural networks – the technology behind Siri and Google Translate. He has likewise written a huge number of papers and won awards for his work."
+    publishedDateTime: 2023-05-08T13:31:00Z
+    webUrl: "https://9to5mac.com/2023/05/08/apple-ai-plans/"
+    type: article
+    provider:
+      name: 9to5Mac
+      domain: 9to5mac.com
+    quality: 15
 
 secured: "Cz5qoLeIFZTtWqDKcxvE/zO1f30TijFLvo7sLo+Nan2dhSQlvYiWz9Q7Ep5/bbLAPjHBruCaEmCNYkqy81kyhgRAhd4SYZXqb861qi+UR3dMkUgGFFpWscpDBsXYk2QcPOsNyXpOUYWdG9k1Cvkb0tp+nXMmMFVJxyHM671GXCXRIbLuOMx7A1qju23BQmcm6Ek7R4nGXpR0yDNB+ENQXBXtabU7B7oMGBAwkl9V88bPBhDNTDeGkgfZoZvIZmkFQ4lbsO9M7h+/YgjvRqXLG8l7KLvI3qF96phYu1/+SJki+fC4O9HWEwcVJKCimKlwqextxL39ykIbmE84Kdku12wlvxXA+vO7SZqIWjKq9po=;JVjO0OED10Z86Tym/2I0QQ=="
 ---

@@ -71,6 +71,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "AI and the Hollywood Writers’ Strike"
+    excerpt: "The fear—or hope, depending on side of the desk you sit on—is that AI can replace writers and undermine their fees. One of the key sticking points in the Writers Guild of America (WGA) strike that began on May 1 at midnight,"
+    publishedDateTime: 2023-05-08T14:28:00Z
+    webUrl: "https://www.thenation.com/article/economy/ai-and-the-hollywood-writers-strike/"
+    ampWebUrl: "https://www.thenation.com/article/economy/ai-and-the-hollywood-writers-strike/tnamp/"
+    cdnAmpWebUrl: "https://www-thenation-com.cdn.ampproject.org/c/s/www.thenation.com/article/economy/ai-and-the-hollywood-writers-strike/tnamp/"
+    type: article
+    provider:
+      name: The Nation
+      domain: thenation.com
+    quality: 59
+    images:
+      - url: "https://www.thenation.com/wp-content/uploads/2023/05/1SAGShotCrop.jpg"
+        width: 1440
+        height: 907
+        isCached: true
   - title: "The next fear on AI: Hollywood’s killer robots become the military’s tools | Analysis"
     excerpt: "U.S. national security officials are warning about the potential for the new technology to upend war, cyber conflict and — in the most extreme case — the use of nuclear weapons."
     publishedDateTime: 2023-05-06T02:18:00Z

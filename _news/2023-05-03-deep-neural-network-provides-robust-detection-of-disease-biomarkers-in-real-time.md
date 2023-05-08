@@ -1,38 +1,26 @@
 ---
 category: news
 title: "Deep neural network provides robust detection of disease biomarkers in real time"
-excerpt: "A lab has developed a deep neural network that improves the accuracy of their unique devices for detecting pathogen biomarkers."
-publishedDateTime: 2023-05-02T20:57:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2023/05/230502155410.htm"
-webUrl: "https://www.sciencedaily.com/releases/2023/05/230502155410.htm"
+excerpt: "The deep neural network he developed classifies particle ... a relatively cheap edge device for accelerated execution of artificial intelligence algorithms. This means the system also requires ..."
+publishedDateTime: 2023-05-02T19:51:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/988059"
+webUrl: "https://www.eurekalert.org/news-releases/988059"
 type: article
-quality: 44
-heat: 44
-published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Machine Learning
   - AI
 
-related:
-  - title: "Neural Network Detects Disease Biomarkers in Real Time"
-    excerpt: "Researchers have developed a deep neural network that can classify biomarkers with high accuracy in real time."
-    publishedDateTime: 2023-05-03T08:43:00Z
-    webUrl: "https://www.technologynetworks.com/informatics/news/neural-network-detects-disease-biomarkers-in-real-time-372867"
-    type: article
-    provider:
-      name: technologynetworks
-      domain: technologynetworks.com
-    quality: 19
+images:
+  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/6d22b318-021d-4e41-8f94-e12273e138f2/Rendition/low-res/Content/Public"
+    width: 700
+    height: 467
+    isCached: true
 
-secured: "4aRpaYJahHg9GaJoQpS+0BBIw62ISmw/zB6m35zOgccvmTdEvaJLZC3vhoAeP3v+Z0TQp7MYlPS9JbQ1uEzLUjGTaO7kY6rQBOSQtjzVMAzmG1da+DRN3icSDqI3p/igj3ETl+8ME08zUD5Wqt6U0dZ9/5Sxjx8zoesSCMXmZifV6CnudduE7xxg9fopwEJQab9PewBfEj2vtHC35BNle/KXZhIdauT5/wJI/g+GA+R7EJr819fen4TadYt3sqO5/MkvyBv8PXadFE9NRds7z4zDFMjRGlWgA7soQoaWwhkd3PxQtcn/Qpeh6nZZ41WtqL3JlCwHHIZrd73O8PRnCyEmvb+rXqh3zPQ6BawyYSI=;qqpimPaOU/b7h/7cr5fbIA=="
+secured: "cuNQ1F+kMGrnvmlymMMQEmiGoZOgIecd/FVVan73nQyd9XUWaIKZbu4M/AzHiruEB3RanjlhsTIohvu6eFWDV2awiLCsOYobXFiESRQtGq0VYtCnjK1FIwKQwczHVZzaO9mH6grXWbKeZqZaCHcdIQU893A7o3oWjLTLpj3ietHmRkzWZwaNWFS7nwoscfe2uZJzhbFCPnUTJRYJRRvSbbKAGRjU+tU3fi8QOIHzlipuc1KExXOX3Ts8HOZcRgMmdOQa5/R28Rb62abSQ/wSLZ1NinXDX2BX+ntMuq7pFvofoYMti2cnJMiIHg4GHHtsPLkHNYunH0Kz+smwmT/2NIjrWp635IIYCTr0fc+67ig=;d30l50MyBmL/oPFUcw+e+g=="
 ---
 

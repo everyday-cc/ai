@@ -115,6 +115,24 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
+  - title: "Deep Learning Camera Market Research | 2023-2030"
+    excerpt: "The Global Deep Learning Camera market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
+    publishedDateTime: 2023-05-08T07:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-camera-market-research-2023-2030-2023-05-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+  - title: "Voice Recognition Biometrics Market Research, 2030"
+    excerpt: "The Global Voice Recognition Biometrics market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
+    publishedDateTime: 2023-05-08T00:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-biometrics-market-research-2030-2023-05-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
 
 secured: "DrF7YaBZNBTs61oNYrXD7itJUMpuHnMTZGd47Sta1RhjMqR1Hzxm1brTYemNkzswFaM7jd0dpxXj/1ISKGxuPCyJNJkDFdw/1rrtceiiBrkBQRDSiY1Bk4pVhGAktY33TKcTs4SJMJTyoKDziS1Xd/UgQyalvjaOnDrPZZFoShpgOlB6JtMTcTuHQcoyT6qXulwQUk5TxqG1WHkBZIWANQ+1n2HHFXf2CBVmhx3rLe2ESfjrsPAL4i/bdi0DgFaoGgPehcs56pF3Ww9JPYfOOCcdqKlO/1bmUjo8ArgfTmvwdCJzDi2IFgdqVMK5cLnkCcA1souAbOOqrnLt6rllwCFt8JBDKoqCypvwoFmYs3Gl1qciUQlmBoDWk4gqBzzU2l8dyPj5JA7yi9/xfm2pa0ujQ7yKgUfNGsYhozCf3KfabHeSdOHXryku792h3IxTR1Tv2AQQtSFK7pl7DR/nYO/U3+0/qzsdl5b2KO6raOKKRUDIHm5WbdByUI376sXNCy/Pu2TkWc4GibUK3dGgmQ==;mbmK7E2umY0/t4CoO5WIoA=="
 ---

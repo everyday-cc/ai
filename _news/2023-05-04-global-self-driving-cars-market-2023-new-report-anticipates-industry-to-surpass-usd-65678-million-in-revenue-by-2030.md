@@ -140,15 +140,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 28
-  - title: "Driverless semis between Dallas and Houston? Aurora Driver CEO explains trucking plans along I-45"
-    excerpt: "The trucks will run on an autonomous driving system called the Aurora Driver, developed by Pittsburgh-based Aurora Innovation."
-    publishedDateTime: 2023-05-03T19:18:00Z
-    webUrl: "https://www.wfaa.com/article/news/local/insider-qa-aurora-ceo-chris-urmson-on-self-driving-trucks-autonomous/287-fe589d59-a52f-4269-9424-9531a24dcc87"
-    type: article
-    provider:
-      name: WFAA8
-      domain: wfaa.com
-    quality: 21
 
 secured: "YdUK9g8j4d2OLhPDn94NN0hcZs1BPk5uquI+LnrY13s9rt+TumTu7hf7xVx5EpJMLRLZ+Dsm4ggYl4g4Kn5SLc5aj58FXsOwHuopgYIL488tUA7GvjtwN64Sk3qq6wbAVpYMcgxvweo0uUL6kdvxvtYv1BCT5EnjTEmh7Wecv5zBArfCWPJE6xw7fdZc7q+OGKoT2ZhmN630RT6kc/anyQ4rHdMbnn+jdSSe6jcFoXpf5D4by7DwuQhnA+7twVbWlTA+agZOHijxf6vtRHt9r2yRdTym4OmdC2TnNkwP/1qSEsxevJQ2hqzjkA9HoQS/heIMD4/flRz/huopP16ZVfUuJfyqYoXmlBSG3D12+JQ=;rRrQOQtTXscKlJcxGvctfA=="
 ---

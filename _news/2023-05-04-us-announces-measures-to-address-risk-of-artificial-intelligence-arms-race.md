@@ -30,22 +30,81 @@ images:
     isCached: true
 
 related:
-  - title: "UK and US intervene amid AI industry’s rapid advances"
-    excerpt: "Competition and Markets Authority sends ‘pre-warning’ to sector, while White House announces measures to address risks"
-    publishedDateTime: 2023-05-04T19:28:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/may/04/uk-and-us-intervene-amid-ai-industrys-rapid-advances?ref=upstract.com"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/04/uk-and-us-intervene-amid-ai-industrys-rapid-advances"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/04/uk-and-us-intervene-amid-ai-industrys-rapid-advances"
+  - title: "The risks and limitations of AI in insurance"
+    excerpt: "After examining the world of opportunities between AI and the insurance industry, it's time to investigate the risks of AI and how to adopt AI responsibly.\nThe post The risks and limitations of AI in insurance appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-05-08T13:00:00Z
+    webUrl: "https://www.ibm.com/blog/the-risks-and-limitations-of-ai-in-insurance/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
+      name: IBM
+      domain: ibm.com
+    quality: 99
+  - title: "One State Wants to Prevent AI-Driven Discrimination in Insurance"
+    excerpt: "Colorado has a draft rule that would impose oversight and transparency requirements on insurance companies that use big data about consumers or feed such data into predictive models and algorithms."
+    publishedDateTime: 2023-05-07T05:13:00Z
+    webUrl: "https://www.governing.com/policy/one-state-wants-to-prevent-ai-driven-discrimination-in-insurance"
+    ampWebUrl: "https://www.governing.com/policy/one-state-wants-to-prevent-ai-driven-discrimination-in-insurance?_amp=true"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/policy/one-state-wants-to-prevent-ai-driven-discrimination-in-insurance?_amp=true"
+    type: article
+    provider:
+      name: Governing
+      domain: governing.com
+    quality: 59
     images:
-      - url: "https://i.guim.co.uk/img/media/1842f1cd10851ca8c141668d27a780e211171188/0_60_6000_3600/master/6000.jpg?width=620&quality=85&auto=format&fit=max&s=50e4be4f74f12ed6e3bc1701cffc96cd"
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/a86d3ad/2147483647/strip/true/crop/940x490+0+70/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fab%2Fdd%2F19d7f4fee90845302682372b188f%2Finsurance-2.jpg"
+        width: 840
+        height: 438
+        isCached: true
+  - title: "Navigating the hype of AI tools in HR"
+    excerpt: "Sometimes it’s better to be first to a new technology, but in the case of AI in HR, it may just be better to be smart than first."
+    publishedDateTime: 2023-05-08T14:16:00Z
+    webUrl: "https://www.benefitspro.com/2023/05/08/147764/"
+    ampWebUrl: "https://www.benefitspro.com/2023/05/08/147764/?amp=1"
+    cdnAmpWebUrl: "https://www-benefitspro-com.cdn.ampproject.org/c/s/www.benefitspro.com/2023/05/08/147764/?amp=1"
+    type: article
+    provider:
+      name: Benefits Pro
+      domain: benefitspro.com
+    quality: 59
+    images:
+      - url: "https://images.benefitspro.com/contrib/content/uploads/sites/412/2022/10/Looking-at-Technology-Article-202210271701.jpg"
         width: 620
         height: 372
         isCached: true
+  - title: "How AI is revolutionizing fraud detection in financial transactions and processes"
+    excerpt: "The banking, financial institutions, and fintech industries face a growing number of scams each year, that can be typically categorized into three main types: physical attacks, internal collusion and violation of the Four Eyes Rule,"
+    publishedDateTime: 2023-05-06T10:35:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-ai-is-revolutionizing-fraud-detection-in-financial-transactions-and-processes/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-ai-is-revolutionizing-fraud-detection-in-financial-transactions-and-processes/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-ai-is-revolutionizing-fraud-detection-in-financial-transactions-and-processes/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 54
+    images:
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2023/05/Jaya-Mahajanam-Director-of-Pre-Sales-and-Solutions-–-E42.jpg"
+        width: 1648
+        height: 1982
+        isCached: true
+  - title: "Generative AI in factory automation and the edge"
+    excerpt: "Siemens and Microsoft: generative AI in factory automation and at the edge In factory automation Siemens and Microsoft recently demonstrated how with the combination of Microsoft Azure machine learning and Siemens’ industrial edge, images captured by ..."
+    publishedDateTime: 2023-05-05T18:09:00Z
+    webUrl: "https://www.embedded.com/generative-ai-in-factory-automation-and-the-edge/"
+    type: article
+    provider:
+      name: Embedded
+      domain: embedded.com
+    quality: 19
+  - title: "Apple’s AI plans uncertain, as pioneers argue about the risks of the technology"
+    excerpt: "Jürgen Schmidhuber has been called “the father of AI” for his work in natural language processing within neural networks – the technology behind Siri and Google Translate. He has likewise written a huge number of papers and won awards for his work."
+    publishedDateTime: 2023-05-08T13:31:00Z
+    webUrl: "https://9to5mac.com/2023/05/08/apple-ai-plans/"
+    type: article
+    provider:
+      name: 9to5Mac
+      domain: 9to5mac.com
+    quality: 15
 
 secured: "hBH6URbFrk0C4Yx6f0sXJWSL7zTh17Wl6JgTlTi79AO1oct/YFWbU+1+Nam/qAzEohx+5ju5WkPfzpujq7Oyaz7zfrIKt49sGvJSDi0DHAVbUZEPZ5MEqnHuelRHBV9hpn3xN0IcT4u1jTH9v6Nf+1KzfG7KDEeV+M9klLWhW9gjlfSO/mn1XdRV725Ypf2u+LL7PUoS02ByfMVAqm1S+br6iEmnA/QRwB2Rej469AUkbx66W/dImUr6X3mPhu04qu0JTYBp8NcOpZzMDnu6c3eS+LTCD0SjzRuP5nA37ESfQVWMpMCcUiDd5ryLmjVNmWdWXspiHUy8zDSFzm/eHHBQ/lHY9owxEgUK9IFtP/12szBH+jCWh56UfaUrciSdV5PEh9ZB5xOryopztcANfnsb4DShgbBW/RkewR9nKUu0OqiouETvdjAbNFl3crfCJF4X1TzCeMWAMkMuEF5OYX3HfLpkcwMo86zLG2k9h65/EKZAa50DSQve37JUqvwXHyKdcFv/frvT3kZtCrMuSA==;SMd7HQ88mhaljUF+yrpqFA=="
 ---

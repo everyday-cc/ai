@@ -1,28 +1,26 @@
 ---
 category: news
 title: "AI Won’t Beat the Market Any Better Than Wall Street"
-excerpt: "JPMorgan Chase & Co. just launched an AI bot that generates trade signals from Fed statements. While AI may soon do the work of Wall Street, it’s unlikely to do any better for investors than the industry it seeks to replace."
-publishedDateTime: 2023-05-08T05:31:00Z
-originalUrl: "https://www.washingtonpost.com/business/2023/05/08/personal-finance-ai-won-t-beat-the-market-any-better-than-wall-street/3096b248-ed8e-11ed-b67d-a219ec5dfd30_story.html"
-webUrl: "https://www.washingtonpost.com/business/2023/05/08/personal-finance-ai-won-t-beat-the-market-any-better-than-wall-street/3096b248-ed8e-11ed-b67d-a219ec5dfd30_story.html"
+excerpt: "Artificial intelligence is coming for finance. Researchers are using ChatGPT to decipher Federal Reserve statements and to mine headlines for clues about where stocks are headed. JPMorgan Chase & Co. just launched an AI bot that generates trade signals from Fed statements."
+publishedDateTime: 2023-05-08T10:30:00Z
+originalUrl: "https://www.bloomberg.com/opinion/articles/2023-05-08/personal-finance-ai-won-t-beat-the-market-any-better-than-wall-street"
+webUrl: "https://www.bloomberg.com/opinion/articles/2023-05-08/personal-finance-ai-won-t-beat-the-market-any-better-than-wall-street"
 type: article
-quality: 37
-heat: 37
+quality: 47
+heat: 47
 published: false
 
 provider:
-  name: The Washington Post
-  domain: washingtonpost.com
+  name: Bloomberg L.P.
+  domain: bloomberg.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
-images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GAT63OHNRYI63NT5UIM6YXP5GA.jpg&w=1440"
-    width: 1440
-    height: 958
-    isCached: true
-
-secured: "iKNIXB19sgqcbAo6QMbDz7lGVv6ifWZtufowkoKkJLpq2UnmeT66WZlKfPkw2N7XFdB7MJNeDUG/14SiIUBjZUN3QbUi1hTsPNXjP/b08uRWN446G8GhoQND3JAiK9TDw6tAYily3cYY62n58RnJksHZJfjjJmBL8Lt5eY/6nPx+OM51KLWGRduwJhlV21nNZC2Ok5zpGprs/JXC2SN6068PolA5sXZ0cYsCerpswDbzYDaEyazDamPy3lZowwgvDl9RsVJZBUH/QZRCkZ4/Y5y2Enjk/dr715o4vGPjZDw2OozAzS/suZQ081On9RzK/BTjUPUPnyEc293QiZ3uFXmp3fi7kEg89EvasSrlcsg=;LqnW4t+qUZ5qVyxLzDkZtQ=="
+secured: "I88Eep5Qv4AVV7BnmJnpeDFrIwOkAa/21UKxPPKxRIjlZVAyPdGysUjodytvccJZLuHYEwDFgtR+MIQwW5Nm+mT/jHLOQt5UvZnPBud4HfbamBakbnbH6j0/x8VNDUCCWiwq2AERrYJzYxV9tqsyBZx9AmMiIIevBrYzv11KHSBqrPpDOtSPiKS4m6Z2GVlthz5pPE/Bcbkw7eYSGWpvUpvjYfPODzyd5HdSviSpeNpe86r12RM/zmVUcbQ/NZnfxUavqIgw3eTWDjovPUp5dCLvHz9gYDf538+S2CuwL/iyy1t4Y036E72a4DjYguo5qBKNxlPRdj+odCljpKb2Z66s+rtLZAkoVVtqlM2iCEjTovXM0a52UmbRd8Lv1Weh6YtP7cfFtlVkNMTLeKOw0yQqKGrtJU69TtxT8CtPtSsmabfa9t/AHuhTCBKLrNZ/qlS0VgzQT2tJWUve9e2qoCwJi5N8/hIZTm9m6UmFaINI4DWuBhwFftIEURSkNgV6UNsOONmvR+8dO/glQysivg==;v7w34sNSgg27Z5+7EnnQCA=="
 ---
 

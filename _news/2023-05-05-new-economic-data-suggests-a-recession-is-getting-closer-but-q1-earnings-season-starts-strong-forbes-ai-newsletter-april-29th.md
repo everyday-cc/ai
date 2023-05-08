@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/qai/2023/05/05/new-economic-data-sugg
 webUrl: "https://www.forbes.com/sites/qai/2023/05/05/new-economic-data-suggests-a-recession-is-getting-closer-but-q1-earnings-season-starts-strongforbes-ai-newsletter-april-29th/"
 type: article
 quality: 18
-heat: 18
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,24 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Jobs Market Remains Strong And The Fed Hints At A Pause To Rate Hikes - Forbes AI Newsletter May 6th"
+    excerpt: "Subscribe to the Forbes AI newsletter to stay in the loop and get AI-backed investing insights, the latest news and more delivered directly to your inbox every weekend."
+    publishedDateTime: 2023-05-08T13:31:00Z
+    webUrl: "https://www.forbes.com/sites/qai/2023/05/08/jobs-market-remains-strong-and-the-fed-hints-at-a-pause-to-rate-hikesforbes-ai-newsletter-may-6th/"
+    ampWebUrl: "https://www.forbes.com/sites/qai/2023/05/08/jobs-market-remains-strong-and-the-fed-hints-at-a-pause-to-rate-hikesforbes-ai-newsletter-may-6th/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/05/08/jobs-market-remains-strong-and-the-fed-hints-at-a-pause-to-rate-hikesforbes-ai-newsletter-may-6th/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 72
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6458f92af96b32b6112796dd/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 789
+        isCached: true
 
 secured: "92qV1dF6Z50T4gpz/taqxxnWP1oX2tpNoEpELGa6LmX1o4Kj7e/RccusKIEn63fBAbNi84QRpK+df31AtTjcnxa+Ml/YlzsSXrzBi40dxluWizqnfL4Z3LjavQi5fnOzmmD0N0a/NS2e4e1Jyo2O72JeXZXR2+fD6k7uQdIJntkEUYI+BvjcLU69Qo+Zmro5V4+rTaYcZauBS2rdD1tQwzjDCmFrxj3l6nquc4sd0cCam1FrhaCsrnlCw9VTMEpAsAs+HG3FJxkWtM1mBdOsDhq8v2KyHwCLjJtLMKmtLCPFDC4sikPB9D2ZBMnBuc0B0cC134IEeji3MigBvvUnJfalriOZlRRh9ceyNQCZ+HHggKJFKr1uSUoEEAdRyhd4A6VSF9qN9IuooY9kOm9lOjwqjDkiqOn/oabVbaJHKg4nuw4gtH8GT7owG+I7as2uAhgsCul4vqUqxc36Lx9LpSYu0A9nimKhZlrJT8MAPj7tnOsjRAlaVCh71CZrPWhnxb5X8RFAKeYuGfhKe8mYGQ==;4HAiP2/cSYXbzJEqDuUrZg=="
 ---

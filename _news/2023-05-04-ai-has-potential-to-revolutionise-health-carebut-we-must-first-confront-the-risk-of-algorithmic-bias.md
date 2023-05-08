@@ -27,19 +27,6 @@ images:
     height: 1616
     isCached: true
 
-related:
-  - title: "AI has potential to revolutionise health care – but we must first confront the risk of algorithmic bias"
-    excerpt: "AI algorithms reinforce existing biases. Before they are introduced as routine tools in clinical care, we must establish ethical guidelines to reduce the risk of harm."
-    publishedDateTime: 2023-05-03T20:19:00Z
-    webUrl: "https://theconversation.com/ai-has-potential-to-revolutionise-health-care-but-we-must-first-confront-the-risk-of-algorithmic-bias-204112"
-    ampWebUrl: "https://theconversation.com/amp/ai-has-potential-to-revolutionise-health-care-but-we-must-first-confront-the-risk-of-algorithmic-bias-204112"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/ai-has-potential-to-revolutionise-health-care-but-we-must-first-confront-the-risk-of-algorithmic-bias-204112"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 25
-
 secured: "/8PJq2HEFx33fgnJKDk24ezPFTfLRIcIdP8b8iEP1vQ2GxJYvv/hIDvUrsrhv3t4Sayfp+BHVtSDSUUhfBO8bs1psdhPe0C1tCpiJq6mfcnkeZzIVjATfuQW65PLeCpyjIL4UCRmVfG9rLUKN9Hgys9i6dkIkxGhN/qnHJ/grpcQFjYQcJgKQddLLIka3SJiDSFobQXY5XeSrDMD8onAGHJOVYsddbS239FhLIETkrdiH1/9L8fQtJZ6q0NCoyEjeI+ony4tY9eYszYAHMUAs0QKJusjShhm9uAXsOO+Cu3dwNUk1ix3Rg88Zi8lkXQAMslkQwY6XR69CQwBQakhpAzvVuWmvVuyd/7cq6BCGjrp6+Ln71ubndC3tZX1jIyNmEDtOnIuQ5AbQZnzxpuP9zgt35tcz32Wl/Xbe91SdhU7mGsVXV0KgZuCQJazfkISmXccZ1pWvLGzwTVfuRE2EzQZJy6Uh4tUfHFRz8ig8p2agbGMgueGKvo4sjC83M+lc2gdU83s94tfx1UUG0C3Wg==;cnKmvCz1JaCVdE2UCxCr/w=="
 ---
 

@@ -85,15 +85,6 @@ related:
         width: 394
         height: 218
         isCached: true
-  - title: "Generative AI in factory automation and the edge"
-    excerpt: "Siemens and Microsoft: generative AI in factory automation and at the edge In factory automation Siemens and Microsoft recently demonstrated how with the combination of Microsoft Azure machine learning and Siemens’ industrial edge, images captured by ..."
-    publishedDateTime: 2023-05-05T18:09:00Z
-    webUrl: "https://www.embedded.com/generative-ai-in-factory-automation-and-the-edge/"
-    type: article
-    provider:
-      name: Embedded
-      domain: embedded.com
-    quality: 19
 
 secured: "B+Z7InTjQwQJzuI+o+Dpogbg7B6YEicNIHJn52aeZkOMaEQZv/UDIkUiaAw+auY5qdcwnzqP2uuk2IR8pgpIT+50Gh3/izkC9tRrJfuxFUuSsTu3hztxT57FNDD2U5MvQm4x8MEgWm4fUF/KI1hU7S9CJ4PNkdXbeIbDRUJeU3eRhXVXQ9/9XmZC/7HjCC5q4A8syqSV02AHIDTIoHfGshqXg4DXQJpqdqpbQeEEwRV3YjYrnPtlYwZBoEkuZxb3i9ykjPo5Pny8699AjjhEEPC1U1h71TGbJPEkHep11jQ8kIsEAZ/UsTNuayRFdRz/jJajtw2o5900zMNXYbq8W5braMkKG/r0dGK9xIBZ8VmCGmGJuIqAZ8Y/fFfMna+nxogPPT8L3e3bDc6Xn5gY+Bq8HzW0YRwaP9kBk9+0yb5EpreGnUPxQNzHiJ88VOql1vHZi2IZNHM+0iOy3jRpdtC3vLKHakSBb9eVLLviinwIi9p/Pc/u10HGh5DotY5VjjFX7bL7gmJrZ1jYdGN/xg==;b42wxTEBwv/3HThNJjhbUA=="
 ---

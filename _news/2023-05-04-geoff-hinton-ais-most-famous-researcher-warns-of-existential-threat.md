@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/craigsmith/2023/05/04/geoff-hinton-ais-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/craigsmith/2023/05/04/geoff-hinton-ais-most-famous-researcher-warns-of-existential-threat/amp/"
 type: article
 quality: 86
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -76,17 +76,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Video: Geoffrey Hinton talks about the “existential threat” of AI"
-    excerpt: "Watch Hinton speak with Will Douglas Heaven, MIT Technology Review’s senior editor for AI, at EmTech Digital."
-    publishedDateTime: 2023-05-03T20:15:00Z
-    webUrl: "https://www.technologyreview.com/2023/05/03/1072589/video-geoffrey-hinton-google-ai-risk-ethics/"
-    ampWebUrl: "https://www.technologyreview.com/2023/05/03/1072589/video-geoffrey-hinton-google-ai-risk-ethics/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/05/03/1072589/video-geoffrey-hinton-google-ai-risk-ethics/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 37
 
 secured: "ZPeELmKmaAHB9SkZUWykB+EKKlpg9w0yYoTAki2EXK9BdmfXZKLv4N6SmfABa+A4+QbnUAP5UoJqeXAai2mS1chbpym4oQ0dzELnkh22tB5RnW9nY8szO9KNMradiPoJrjcNcq0vvfX6U68yJHZtoJM+bqjcCoZbaeFdXHHU956ZYqhxfGVVpFjdSRDwc2qwF2x2g8Iodm+AG6SSlxWolTS6FH+hLTi4FB/QHRbPkE7Fz8OcPTBPulu6kCSXKRgD930Rv2HxEP5KyJ6zPWSjNXJEQ7L9XuKC2SthWfKgRpDGZye48k51n2HPSLNXv4LJYd7S5NagExIt1A1XZqoyGMWIPg6n8L1nE0WmUVftlPY=;vtXhgHYFS7l60y8d9QF64w=="
 ---

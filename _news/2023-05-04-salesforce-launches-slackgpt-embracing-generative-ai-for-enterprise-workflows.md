@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Salesforce goes all in on generative AI with Slack GPT"
+    excerpt: "Salesforce last week made the AI-ready platform designed with OpenAI available for developers of allied apps and services. Einstein GPT is available as a beta version, and the company is currently prototyping the integration of Einstein GPT within Slack, according to Seaman ( Figure B )."
+    publishedDateTime: 2023-05-08T14:57:00Z
+    webUrl: "https://www.techrepublic.com/article/salesforce-launches-slack-gpt/"
+    ampWebUrl: "https://www.techrepublic.com/article/salesforce-launches-slack-gpt/amp/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/salesforce-launches-slack-gpt/amp/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 87
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/05/Hero.Salesforce.jpg"
+        width: 1400
+        height: 512
+        isCached: true
   - title: "Salesforce and Accenture partner to create acceleration hub for generative AI"
     excerpt: "Acceleration hub from Salesforce and Accenture will use the companies' AI and connected customer skills to help clients harness generative AI."
     publishedDateTime: 2023-05-05T00:28:00Z

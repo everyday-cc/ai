@@ -3,8 +3,8 @@ category: news
 title: "Spider-like robotic AI arms can be attached to and controlled by humans"
 excerpt: "A Japanese robotics company called Jizai Arms has engineered a system of supernumerary robotic limbs consisting of six arms that can be worn and controlled by the user."
 publishedDateTime: 2023-05-07T17:14:00Z
-originalUrl: "https://interestingengineering.com/innovation/spider-like-robotic-ai-arms-can-be-attached-to-and-controlled-by-humans"
-webUrl: "https://interestingengineering.com/innovation/spider-like-robotic-ai-arms-can-be-attached-to-and-controlled-by-humans"
+originalUrl: "https://interestingengineering.com/innovation/ai-arms-controlled-by-humans"
+webUrl: "https://interestingengineering.com/innovation/ai-arms-controlled-by-humans"
 type: article
 quality: 54
 heat: -1
@@ -56,6 +56,6 @@ related:
         height: 640
         isCached: true
 
-secured: "9lZphfqS7FUv7E+DvDWsk03YPMZCw9hRtsoVRzHVyuYuhYTqoGt0y37PJIJIWqhGLoL4Aar20pVpsL52bS9YCeRz93z8DkhhZ37c1KsG31dHZpqkgBupBzLW9qugdCqnzYBuSfDe7JUibzpKIUxE6X0T58/3zrwWzq/O4Wue9eaT0KjF4XbOn6vFtKV39o0FADZuqXQ3yfXjBs+xZ/EUS9aR7Q5FtmaM8IdgUJnUaqlY7bXTwd44vnLADTFqd3i4MrAHvaRTPPSKtPegGgsRNURyZfMSV6IoJ7FZ44JiXfIOWs1kP56hFqn5roThslYO+vh+3CcPR3/JIpNdX/DY/1zTTGtdesW6MbQ1hwkfIWvvjjr/q8JSqTTer3ygbXTQZHbulhauAsbjTmaQ1mRZ25o7LHgwNTGP/g1pA1R8+7zOPVesV5cjto//PX7asTIVyUG2Ot0y1DmGfCRqlOhhUK7VQ0Xd+GBQma7f6dfgs5Bc986a0mG7cFh6HzsKZ+UYVuRb2Awpeh8S8Dzog+F+XA==;brXEoXYZOfncnwM+LT3S8A=="
+secured: "fMNmdjZ51rwTOWUUDkcF7eOOrohd7QpqynJPAqmPWV5PSXUXiEovZBVErbGFxeJVd+adRPQrgZgYlp0TCmhmhIO9QvykpNrKQN77a4ahwwsGjrdacNtYlIkw0vQAjOmX/jvm8pK6nZa7iUA7VsPfdCQWUucvWjUZZJgo+YzSqqvvDg7ErJj7TA3JWLM5NJqi7tPChnHxeTIAFAdEQbHx0TZ/dWf5GOdF53uL50BOqFeouySWIa0YKFBofe71iftXRR2iSm3MVdzQkHVklfC91e3ID2ybovC9K7cQXSnfv55OaTN5Jd30JKAFFZQebCnYIc8Ra6FOWApIdP8uKTc8xnmJvYnDHP8xwQHPDNJrj6U=;t0l/aE49uTQf/wUFUI+gOg=="
 ---
 

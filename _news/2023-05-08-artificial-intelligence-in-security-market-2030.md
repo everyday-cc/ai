@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-2030-2023-05-07"
 type: article
 quality: 84
-heat: 154
+heat: 174
 published: true
 
 provider:
@@ -108,6 +108,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
+  - title: "Deep Learning Camera Market Research | 2023-2030"
+    excerpt: "The Global Deep Learning Camera market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
+    publishedDateTime: 2023-05-08T07:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-camera-market-research-2023-2030-2023-05-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
   - title: "You Must Look Beyond AI To Stay Ahead Of Today's Cybersecurity Threats"
     excerpt: "AI algorithms learn from historical data, making it difficult to anticipate new advanced threats or zero-day attacks. It can also be prone to false positives, which can cause unnecessary disruption and confusion among security professionals, and can be vulnerable to hackers who attempt to manipulate the algorithms."
     publishedDateTime: 2023-05-05T13:45:00Z
@@ -117,6 +126,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Voice Recognition Biometrics Market Research, 2030"
+    excerpt: "The Global Voice Recognition Biometrics market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
+    publishedDateTime: 2023-05-08T00:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-biometrics-market-research-2030-2023-05-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
 
 secured: "A+iRgnjSNxCpgxo+5re6jhiIOehKhgKcytzaFfZSfw5+rLa03Rfm2dhA6v65JL9w/Jko9U8EtiBCZ6pyeWlufmJKFPOZ+h4FsSPev8at/cHka9qiYIYPHRCSwjVERJcB1kuHwzL1c1pTmQn7f5upJxN9fs6oU6TuYkVaU06rj14OmIpiD3fjvoPKRKqPEBwLsWiIp9fNnGOIJY7/L2bYmG9sGEMJQA05KKfx3ZMC/mAIm56XU9H1V2EW/xct9Aho+EUFqB00dRnYVAfAE6jXu8SXbJXvx48e5dtB8UQcVfIJ8MlERdJdznoBmaCZlzGzgmoCDl2RnJSi8OeF2EUEPpP0CT80V2B4c5fHM6/yXjM=;BnFWDjMh/OvHEJvfkzVhXQ=="
 ---

@@ -69,6 +69,20 @@ related:
         width: 620
         height: 465
         isCached: true
+  - title: "US sanctions force Chinese firms to strive for alternatives to AI chips: experts"
+    excerpt: "The US government's intensifying chip sanctions against China have forced Chinese firms to search for alternatives to advanced chips used in cutting-edge artificial intelligence (AI) and could even offer a new opportunity for Chinese firms to take the lead in the emerging technology,"
+    publishedDateTime: 2023-05-08T14:36:00Z
+    webUrl: "https://www.globaltimes.cn/page/202305/1290343.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 49
+    images:
+      - url: "https://www.globaltimes.cn/Portals/0/attachment/2023/2023-04-11/61b112bd-1fff-4b0e-bc56-3d47fa2f37df.jpeg"
+        width: 800
+        height: 480
+        isCached: true
   - title: "Chinese voice-recognition company iFlytek unveils ChatGPT rival"
     excerpt: "Chinese voice-recognition company iflytek Co. has entered the race to build a rival to OpenAI Inc.’s ChatGPT, with a live demonstration of its artificial intelligence model for educational and enterprise uses,"
     publishedDateTime: 2023-05-07T11:40:00Z

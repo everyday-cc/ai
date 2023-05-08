@@ -25,38 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Police accused over use of facial recognition at King Charles’s coronation"
-    excerpt: "Met says technology will not be used to target protesters or activists, but campaigners say use is ‘extremely worrying’"
-    publishedDateTime: 2023-05-03T21:34:00Z
-    webUrl: "https://www.theguardian.com/uk-news/2023/may/03/metropolitan-police-live-facial-recognition-in-crowds-at-king-charles-coronation"
-    ampWebUrl: "https://amp.theguardian.com/uk-news/2023/may/03/metropolitan-police-live-facial-recognition-in-crowds-at-king-charles-coronation"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/uk-news/2023/may/03/metropolitan-police-live-facial-recognition-in-crowds-at-king-charles-coronation"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/b8db4757a16c78241897d176d4991a39cfc6636f/0_576_8640_5184/master/8640.jpg?width=620&quality=85&auto=format&fit=max&s=358de4318acd68df80290c528e9dc6a6"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "Police to use live facial recognition in crowds at King Charles coronation"
-    excerpt: "Met says technology will not be used to target protesters or activists, but campaigners say use is ‘extremely worrying’"
-    publishedDateTime: 2023-05-03T19:37:00Z
-    webUrl: "https://www.theguardian.com/uk-news/2023/may/03/metropolitan-police-live-facial-recognition-in-crowds-at-king-charles-coronation?ref=upstract.com"
-    ampWebUrl: "https://amp.theguardian.com/uk-news/2023/may/03/metropolitan-police-live-facial-recognition-in-crowds-at-king-charles-coronation"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/uk-news/2023/may/03/metropolitan-police-live-facial-recognition-in-crowds-at-king-charles-coronation"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/b8db4757a16c78241897d176d4991a39cfc6636f/0_576_8640_5184/master/8640.jpg?width=620&quality=85&auto=format&fit=max&s=358de4318acd68df80290c528e9dc6a6"
-        width: 620
-        height: 372
-        isCached: true
   - title: "UK Police Plan To Use Facial Recognition On Crowds During Coronation, Faces Criticism"
     excerpt: "Human rights advocates are concerned that police could use face-scanning technology to target protesters, as they have in the past."
     publishedDateTime: 2023-05-04T09:54:00Z
@@ -72,6 +40,22 @@ related:
       - url: "https://c.ndtvimg.com/2021-05/kheealvk_facial-recognition-pixabay-650_625x300_27_May_21.jpg"
         width: 650
         height: 400
+        isCached: true
+  - title: "Karnataka Assembly elections: ECI to pilot facial recognition tech in upcoming polls"
+    excerpt: "The 'Electhon 2023' hackathon was a collaboration between the Election Commission (EC), the International Institute of Information Technology in Bengaluru, and the Indian Institute of Science in Bengaluru."
+    publishedDateTime: 2023-05-08T06:51:00Z
+    webUrl: "https://www.livemint.com/news/india/karnataka-assembly-elections-eci-to-pilot-facial-recognition-tech-in-upcoming-polls-11683526705081.html"
+    ampWebUrl: "https://www.livemint.com/news/india/karnataka-assembly-elections-eci-to-pilot-facial-recognition-tech-in-upcoming-polls/amp-11683526705081.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/karnataka-assembly-elections-eci-to-pilot-facial-recognition-tech-in-upcoming-polls/amp-11683526705081.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 52
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/05/08/600x338/2-0-1453543862-iStock-855246344-0_1679736566717_1683528306159.jpg"
+        width: 600
+        height: 337
         isCached: true
   - title: "Snipers, facial recognition and a bomb-proof nerve centre - huge coronation security in place as police get new powers to tackle disruption"
     excerpt: "Police will have assembled an intelligence database of likely demonstrators and in the past have visited known individuals to try to ask them their intentions."
@@ -103,19 +87,19 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Live: Charles makes history with public prayer before being crowned King"
-    excerpt: "Charles and Camilla arrived at the Abbey from Buckingham Palace, where they will return in the Gold State Coach after the lavish service. 12.03pm The King has been crowned with St Edward’s Crown by the Archbishop of Canterbury in Westminster Abbey."
-    publishedDateTime: 2023-05-06T11:51:00Z
-    webUrl: "https://www.wiltsglosstandard.co.uk/news/national/23504742.live-charles-makes-history-public-prayer-crowned-king/"
+  - title: "At Growth Rate Of 16%, Facial Recognition Market Size To Surpass USD 16.74 Billion In 2030"
+    excerpt: "Facial Recognition Industry Technological advancements, a slew of face recognition systems that include cloud computing are hitting the f"
+    publishedDateTime: 2023-05-06T07:14:00Z
+    webUrl: "https://menafn.com/1106189715/At-Growth-Rate-Of-16-Facial-Recognition-Market-Size-To-Surpass-USD-1674-Billion-In-2030"
     type: article
     provider:
-      name: wiltsglosstandard.co.uk
-      domain: wiltsglosstandard.co.uk
-    quality: 23
+      name: Mena FN
+      domain: menafn.com
+    quality: 29
     images:
-      - url: "https://www.wiltsglosstandard.co.uk/resources/images/16749571/?type=og-image"
-        width: 945
-        height: 630
+      - url: "https://menafn.com/updates/pr/2023-05/06/EP_19b97image_story.jpeg"
+        width: 890
+        height: 466
         isCached: true
   - title: "Protesters eye Coronation of King Charles III — and facial recognition eyes them"
     excerpt: "It’s apparent that a coronation is ripe territory for the convergence of righteous convictions, from the progressive to the fanatical, writes."

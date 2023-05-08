@@ -51,6 +51,15 @@ related:
         width: 1600
         height: 800
         isCached: true
+  - title: "Finovax Leads the Charge in Fintech Innovation: AI-Powered Solutions Drive Business Growth"
+    excerpt: "Based Fintech Company Embraces Artificial Intelligence to Revolutionize Financial Data Products and Fuel Expansion New York, United States - May 8, 2023 — (NEW YORK CITY, NY) — Finovax, a trailblazing fintech"
+    publishedDateTime: 2023-05-08T14:00:00Z
+    webUrl: "https://www.asiaone.com/business/finovax-leads-charge-fintech-innovation-ai-powered-solutions-drive-business-growth"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 9
 
 secured: "SdgvLD/7actILrA1YsBICYcg5QnNuhBCqnfgupFbRhlc4Obyl7nPhELKkYnoOEXJlXG2k/fVwY96kNak/E2iVFIN7gjAvIDgbjSgs5Y6P0acPFMnDguyjikQeD7fYXNLEUvndwANqGPMSdGQ4WuwGut4R8AC8JdDh5PZn2nkdkVndhJQ5+J1p5BhkPiIm8m7Dep3N+0nVPhhhJO+W7htfgva7KSfKJVwjIq9DikZuTeDdB08k32GKA24czrHECKdQbOrkVuzwCFYPowNnU30BUCbD0+/PThlzquEsOaQ9pqDZ4LCgfmk0csF7JgNLjPLojM0/Dou1XUENoESsJLuiKGoGKhWcOFOp3nf58Bc25uboN+k91nJd4sNcWu6C1FkJo+WmR9C1uAForUkCbuRwWu9rUSrIVnptOAy4VX8TCMeS9dLFXcP/eK0QC6EP3OUXQjBZNnDy8gfIeGtkVxBwIb8ZoSOh18TEjRoKlZYMi6BTq1SbIXfxBSWoqoWPh2Z6tpIUrPt4LmBHgf16IviNQ==;dVYn4RMAlp3H9R0jfaxxXQ=="
 ---

@@ -50,20 +50,6 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 47
-  - title: "How AI is changing the game for software developers — for better and worse"
-    excerpt: "On one hand, these platforms can potentially revolutionize how developers work. On the other, they also threaten job security for those in the industry, presenting a stark contrast to established processes."
-    publishedDateTime: 2023-05-03T21:48:00Z
-    webUrl: "https://siliconangle.com/2023/05/03/how-ai-is-changing-the-game-for-software-developers-for-better-and-worse-kubeconeu/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/AI-in-DevOps.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "3ghKvgUfsrYuHtHtG3fzfPKCMspfZ/HixlKg74t1i3k9wLxuHhjxWAXJt50V2myeMHvhfh4pZXr+JWWYpfmKbDQMA9EuG+ZXXoxmfLwbMB99otlEgRGBrR1F2lQKVGdvTE6xqBqX8cVfY7LXATL0eHNOgfnH7kQWafMOOzhZvlZZ5unsveLyOCOxYZ9Bthc9VdRVJ+iInQLAAOqTYsUQsOtwKlIdoO3y2sz3mnxDqrxUub8vs+3KG/9LZe26N+psc76j9R1LoWgZEl2OGrzp8LGVpDz3ugdtJ5EtCf6AdqV234VDp3xvHmLTlGQ4wahHlAi4rHB3clhn8xkiYJXuHM1O+kBxL1zDnD6MIv26aVvKSoS3HM98WcIufF6vuxxj5ceLVZOt2hT3J5tlxxPEXdCPhnPZopkxYcLeD9byR7nK5E+vqtAQ0Ki6iCUGG7Hy2P0sgQtUd+qMLPHaPIeX4xJdAYu4rx6e+q4UcLemdQpxJAuwhjitmdo6Um8FLuucxBq5kWQAxhib8o7TqYTsyA==;atIB0kSTA4oD4HIDXjJ8zQ=="
 ---

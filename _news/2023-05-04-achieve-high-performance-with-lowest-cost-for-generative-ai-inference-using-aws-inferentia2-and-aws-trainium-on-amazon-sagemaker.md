@@ -38,6 +38,15 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 99
+  - title: "Taming Generative AI with Model Governance"
+    excerpt: "This story was produced by WIRED Brand Lab for PwC. WIRED is where tomorrow is realized. It is the essential source of information and ideas that make sense of a world in constant transformation. The WIRED conversation illuminates how technology is changing every aspect of our lives—from culture to business,"
+    publishedDateTime: 2023-05-08T13:01:00Z
+    webUrl: "https://www.wired.com/sponsored/story/taming-generative-ai-with-model-governance/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 51
   - title: "System Shock publisher faces anger for using AI-generated artwork, says it wanted to start a conversation"
     excerpt: "A Twitter post on the official System Shock remake account included an image of Shodan created by Midjourney, along with the words \"designed by an immortal"
     publishedDateTime: 2023-05-05T11:15:00Z

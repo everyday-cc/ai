@@ -195,6 +195,24 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "MakeMyTrip ties up with Microsoft for AI-backed trip bookings"
+    excerpt: "MakeMyTrip ties up with Microsoft for voice-assisted travel bookings. Microsoft Azure OpenAI Service and Azure Cognitive Services will converse with the user to offer personalised travel recommendatio"
+    publishedDateTime: 2023-05-08T13:20:00Z
+    webUrl: "https://www.thehindubusinessline.com/companies/makemytrip-ties-up-with-microsoft-for-ai-backed-trip-bookings/article66826930.ece"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 34
+  - title: "MakeMyTrip brings generative AI for travel bookings, ties up with Microsoft"
+    excerpt: "MakeMyTrip plans to expand the platform to other Indian languages, such as Bhojpuri and various southern dialects, in the near future"
+    publishedDateTime: 2023-05-08T12:23:00Z
+    webUrl: "https://www.business-standard.com/companies/news/makemytrip-brings-generative-ai-for-travel-bookings-ties-up-with-microsoft-123050800609_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 32
   - title: "MakeMyTrip collaborates with Microsoft to introduce voice assisted booking in Indian languages"
     excerpt: "The new, in-platform tech stack powered by Microsoft Azure OpenAI Service and Azure Cognitive Services, will converse with the user to offer personalized travel recommendations based on their preferences,"
     publishedDateTime: 2023-05-08T08:42:00Z
@@ -206,6 +224,24 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 27
+  - title: "AI News roundup: Microsoft tests privacy focused version of ChatGPT, Slack's generative AI push and more"
+    excerpt: "According to the online publication The Information, Microsoft is planning to offer the variant on its Azure cloud platform and it will run on dedicated servers where data collected by the chatbot would be separated from the public variant."
+    publishedDateTime: 2023-05-04T13:30:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/ai-news-roundup-microsoft-tests-privacy-focused-version-of-chatgpt-slacks-generative-ai-push-and-more-10529011.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 17
+  - title: "MakeMyTrip teams up with Microsoft for voice-assisted booking in Indian languages"
+    excerpt: "The new, in-platform tech stack powered by Microsoft Azure OpenAI Service and Azure Cognitive Services, will converse with the user to offer personalised travel recommendations based on their preferences,"
+    publishedDateTime: 2023-05-08T11:50:00Z
+    webUrl: "https://www.cnbctv18.com/business/makemytrip-teams-up-with-microsoft-for-voice-assisted-booking-in-indian-languages-16598231.htm"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 14
 
 secured: "rwa62lFRGjr42xTpyZYKd24VjbKmmCksoOINhAsomLpSEKtak2lSdSG8wDjTfxPMfJcxhyr7e0vKTxzjNz+zSflhS/tM3TqbYJcCTV3a1FZ6E1CvavAcjb51C7gJaAuT7aLEfZEymCRzaujrQr2RYpTZEs9+VWz7LvQX+cmdppr5ftDzQKknSAO+AcvaPuVGaf8DuN0olXxIBi4lQgByGm8BXmTkRIg7hk5TMipOT1Gyn9SXIxonj1E5GC8aME+KbQcfuUk/YM9NpFRI7PzIal6Cbl54lZv88J/MXPbokuNe3YbI2rUzRNbPxV0ZyJYDSoE0eih0j+ZsbQaCSUpOfgqVogYI51vlH7Yq53IxbkbWAKYq3I7Nn4yMD2O3oB8a6r8uegjPK+XxVuRvbec34MM1fho6ObQTcNbrjK2zcVbKsil8ulFZ89qP+pXLqrfQlPQwWp9j9gHX3uiITUnt2Mt1uVyMWwuAaF/VXHDE6BNmrpxamhFEHIayTPpCgHPdwE0dUQPUIdzuJxl46Jk43Q==;rtgPb30ydjO1OpGwJpX8RQ=="
 ---

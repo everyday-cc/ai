@@ -69,6 +69,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "US sanctions force Chinese firms to strive for alternatives to AI chips: experts"
+    excerpt: "The US government's intensifying chip sanctions against China have forced Chinese firms to search for alternatives to advanced chips used in cutting-edge artificial intelligence (AI) and could even offer a new opportunity for Chinese firms to take the lead in the emerging technology,"
+    publishedDateTime: 2023-05-08T14:36:00Z
+    webUrl: "https://www.globaltimes.cn/page/202305/1290343.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 49
+    images:
+      - url: "https://www.globaltimes.cn/Portals/0/attachment/2023/2023-04-11/61b112bd-1fff-4b0e-bc56-3d47fa2f37df.jpeg"
+        width: 800
+        height: 480
+        isCached: true
   - title: "Chinese voice-recognition company iFlytek unveils ChatGPT rival"
     excerpt: "Chinese voice-recognition company iflytek Co. has entered the race to build a rival to OpenAI Inc.’s ChatGPT, with a live demonstration of its artificial intelligence model for educational and enterprise uses,"
     publishedDateTime: 2023-05-07T11:40:00Z
@@ -84,6 +98,6 @@ related:
         height: 573
         isCached: true
 
-secured: "MXhj0crkSDR2rqtNj5fE4aSREMiui3peOYdM58dNn00DXR5e4Ymu3ZnwYVvPy0YDOmYnVZGXizKBAY20QPmySl5/x9mtrEHDrB7v1cKDv2eICeqHqT36v61JF3FzVn0y5VBZxfn6MvL2SnBNCvo6xBtXxzD+1kN3lDR6YAkBzaLb+nogxMYfl/nDRCaBtCXTm3Cjystpl7/wg/JIaGnC/mtvwy32NehOayUFkE/zPcMNU0qbHFHm2Uyl9z4XKIpwXdabm7/P2jMWG/0LAa3AE8Xg04rA/WP1TvtPQWNRJADYAlJhfGmCAfY4vTJS5FGIjI6PdU1o9s5ayiBljAQQpzKlu1rtHyIs34BNQL2z6vQ=;zjW2+P9md0ehdYYBrJmYUg=="
+secured: "DOInR+pKOvwT/glhCl0Kdhg1NTyS0FH6w+VTjQzUy9d0xGZ6aMWfis+hprMi9fVvAg2d7RHFsR9hNan/hQZ0ilaLqIm4vDLOrfRoEpdgIMCrlhYoW8i9gwSqayofUD59avfD4j0e97+a1a6Hh82jh0X/mKGfsaYZr6ydyNVXEqXQhhUud9EADlX0m9IQJMFC+wCr6N8Wh+xnXnYlt1v/mBUg7oo7+bScsYG4Fv93x44Z3wiWGZdpakFaDCRlGotaiMocwvV3mwJMbAQlkZ9nJzDl3Me26zV/SJ78TgbTslfbupQ0MCIYhDvbxuo0559oKGB2r+emxkoWbdqx9Q/GKLrWUpZfgqYBUZ72mHds0Nq9O/OjWYx80bHtnL0IcejX3WPpV45dSRMPWe0uuoZnRWNq8MIph9S8BKx7io9fjlumLimVoLz4sTVdb+WCHv3CKRsonsjVDkrMyqjlllzJFzi3ld215luc6uA5wZZNVT3nzmQA1zl8sEsdvfECd7xtJwW5vqiy/FMiMa5svrbe4w==;hbM83d72LdfvdcJQeWydJg=="
 ---
 

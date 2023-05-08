@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/hollywood-screenwriters-artificial-intel
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/hollywood-screenwriters-artificial-intelligence-guardrails/amp"
 type: article
 quality: 87
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -74,6 +74,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "AI and the Hollywood Writers’ Strike"
+    excerpt: "The fear—or hope, depending on side of the desk you sit on—is that AI can replace writers and undermine their fees. One of the key sticking points in the Writers Guild of America (WGA) strike that began on May 1 at midnight,"
+    publishedDateTime: 2023-05-08T14:28:00Z
+    webUrl: "https://www.thenation.com/article/economy/ai-and-the-hollywood-writers-strike/"
+    ampWebUrl: "https://www.thenation.com/article/economy/ai-and-the-hollywood-writers-strike/tnamp/"
+    cdnAmpWebUrl: "https://www-thenation-com.cdn.ampproject.org/c/s/www.thenation.com/article/economy/ai-and-the-hollywood-writers-strike/tnamp/"
+    type: article
+    provider:
+      name: The Nation
+      domain: thenation.com
+    quality: 59
+    images:
+      - url: "https://www.thenation.com/wp-content/uploads/2023/05/1SAGShotCrop.jpg"
+        width: 1440
+        height: 907
+        isCached: true
   - title: "The next fear on AI: Hollywood’s killer robots become the military’s tools | Analysis"
     excerpt: "U.S. national security officials are warning about the potential for the new technology to upend war, cyber conflict and — in the most extreme case — the use of nuclear weapons."
     publishedDateTime: 2023-05-06T02:18:00Z
@@ -114,6 +130,6 @@ related:
         height: 833
         isCached: true
 
-secured: "9upNfCc1Srjtv8pGNR7LCEESmPIp0m5x3OQNNiUPe6649MWKeN7zf+5eioBb/xJnIQW5+Is69YNUxmyHOYlPpFf4drWtXgsVGM5eOHBrG4IgtP4siCnLL15tCVU00UY9naob06FvB4kCiEB2l1J5UVpxt+vzSmNO0y9c25ScG/dwshxpxnTJJJhXPJBKZfJ7YyNWk+yN9Z9szTb9I5GILdgklp2tfw/hWREYbDKwSt0mksCPJMn5WFhp6EoHxvujMH7wepbXVU0laXKa71b/6zjs09Rq+l/sCDAqZzxEjoye6BPc/gJEc+fxLQitmOZY2ejgVT3ApUjzWX8UHwioPewgrazT77B175CeHqgMUYo=;KAampH/Zi6PCpf2l+gLF3g=="
+secured: "zs1A9pO+egaWBL/UdeE/YDSbwwgR9Fg7f6i9jIImWS5xvRPxuUjULQcNp6brK6deSX92c3LV9FcA5qWCfU+5rw+gcku4UEQtyAKa0yXGnu/THm1zE64r/30Sh50iMMMZPNlEhEvc2YPx2BR/DPOaH1tK6CmHX1elX7fRvSrPum/cBXpy/7cFnztdu9rBv2uVlz/EU5bR64MCceZmKuSYuZSGZWUorkMa9efndqxc5tU3mo9X0GxxYFjybMShgbQvw5YPXU1ZGiJNLYf1eAVY1of+EbMTUQ2FfoXBTzDqYuyXgcH/uw+dqthGI8ttU4RP6wNsWZyvi+13x/QE3Ef4noTyY7EG/d4au9LyyZqMhevFryVQd3uSWzt1ykhkEgDPY8guskRTTOtqe//7La9n1L0JKvB8yW9IhA2BR2Gh91+JW7sig5BGdHiiIF12k4XYMgOw+ZWz+oI7grKLurEm4LCZth5BbuZAFhH15jcygLPt6l5m/IXVavI+OYnH2PYTJBBlWp97vB/FNNPWf9Bz1w==;n/AmkpsNblkBYsZfjL/Wqg=="
 ---
 

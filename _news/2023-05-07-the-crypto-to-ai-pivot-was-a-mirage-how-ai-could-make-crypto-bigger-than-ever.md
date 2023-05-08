@@ -32,6 +32,15 @@ related:
         width: 2560
         height: 1440
         isCached: true
+  - title: "IDVV Announces Artificial Intelligence (AI) Client In Medical Sector"
+    excerpt: "International Endeavors Corporation “IEC” (OTC PINK:IDVV) announced that its AI division WITech has entered into an agreement with its first client in the Medical Sector, Anti Aging & Wellness, a provider of various anti-aging"
+    publishedDateTime: 2023-05-05T15:07:00Z
+    webUrl: "https://www.sacbee.com/press-releases/article275102746.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 34
 
 secured: "C+dTnzRLMSxx+eaEUVPOSW3O7XfuI+7XjYBb/tvnN042PR5uDmXBFWfCPfPXZfPu154NeGWIQh9wvyGK8aBASOiXSnRgZA8AmaY7JDjcowlH7K8ny4prw/S5FIMZmAnAt3fZgGKNG6WmEGDfK5ALySw8ymnSKQncxnc0Pbtm2nV+QqyO4Hkpp7RQmcVnNJx1znNKq9XrgvyXabKK+LDsLBUkHYZbirgbCVVP4dV6tqVeAbGUOOpy2mg11Bay0HDocYrEV4zzpTjZHiYirHm6to1VR4V13FFy6sNiQibWZuJpIcC/P5GdMdv5wf2bJgxHG1ji8HxqfLE+trZFMG4q8PlmXJ4giu1bDi5zMNjG8Iq8EefYYhfZGqOprLZ5N81jTvloscUws9TAfoab9gcrR6KdrOZFtWjC9Mc3zcd7owf21twaoqpKSH79NCh4gOPCn0QRjDIfCjJdHq55vkEIaxq7NGuZ+VDuUJoT6rHQiJ4IRdkQoE7bElx66uzKUpOLYOxpz2/jJntNGWlrMA07Fw==;fuNtl+kxMuewBwvVuacPlg=="
 ---

@@ -45,6 +45,15 @@ related:
         width: 1258
         height: 630
         isCached: true
+  - title: "Taming Generative AI with Model Governance"
+    excerpt: "This story was produced by WIRED Brand Lab for PwC. WIRED is where tomorrow is realized. It is the essential source of information and ideas that make sense of a world in constant transformation. The WIRED conversation illuminates how technology is changing every aspect of our lives—from culture to business,"
+    publishedDateTime: 2023-05-08T13:01:00Z
+    webUrl: "https://www.wired.com/sponsored/story/taming-generative-ai-with-model-governance/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 51
 
 secured: "yLVuReCMW2KT5arIMBn78ud56nXXroecHPJJ+AVqcTnD7MLO47EeRPpxd+XQKQJGSUTXwNwF0dz0IAhS0uClao88bhQByWfEXk6P0qSXCWjzig12aYpcKAiYeZx9YM5SG/DSsdcwnRAMzupWot58j6+RYy6WNFzuKA8FYITO8m0j2RTkN+zg+vdQ0hg1SJ9a6+iaCEPNajzwnKXVVaoezcsaarGes5h9Twip/2SKS15DtDRQ3Q2BUDinSmdI8rE4ThVwuQ6QKkWvP2F11gH2ekigVQmdsJBpGsKkvzrPDsYfCvcA1CzQZ/L0l3RoX5TqqXaNNM05Aww6PqHES9J7K62xS+uLVrD0wVf9zyn8g4PHBgl2bDYO0D5JUbKDg9394DuPcQjvG+WSr0bmwmwEsbNnnbKQ2fpmGWbd+cvDWKBPpE+zXxeNfQRzo2+hvH4CI+tKMvk4y0qD4FC6snJyh4p5Im/SqmpoXoQzRYEHYgxHYGOvam7hmWK5XUedlADCdpV6jHiQL/VGuwyOdffT2Q==;/TXnZjZcVmoK5HOv27lgTQ=="
 ---

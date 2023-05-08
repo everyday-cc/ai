@@ -3,12 +3,9 @@ category: news
 title: "AI could create religions to control humans, warns Sapiens author Harari"
 excerpt: "The world could soon see the first religion that attracts devotees with sacred texts created by artificial intelligence, the historian Yuval Noah Harari has s"
 publishedDateTime: 2023-05-02T13:19:00Z
-originalUrl: "https://www.thetimes.co.uk/article/f551b41e-e8db-11ed-8b19-8262c49fff39?shareToken=89574dfe5503f4968d0751ac0ab04962"
-webUrl: "https://www.thetimes.co.uk/article/f551b41e-e8db-11ed-8b19-8262c49fff39?shareToken=89574dfe5503f4968d0751ac0ab04962"
+originalUrl: "https://www.thetimes.co.uk/article/f551b41e-e8db-11ed-8b19-8262c49fff39?shareToken=a6f2bbfb6db6f3e078309f8250e3938f"
+webUrl: "https://www.thetimes.co.uk/article/f551b41e-e8db-11ed-8b19-8262c49fff39?shareToken=a6f2bbfb6db6f3e078309f8250e3938f"
 type: article
-quality: 18
-heat: 18
-published: false
 
 provider:
   name: The Times
@@ -18,6 +15,12 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "oOZUYpLocOLfMjrrLpOEpO+TZ4bxSjE0XULhxsafILDS4qSVO2UkDDyEA052mEW3KICcQZtwYFUrYPS28ZIeNmTGtkGgZHmDucMGoLROrLvaTPoZ5vXVGuJ6yJefA7x7JnUFqSLA9mg2yjWstnpZ8ZK7joVSx2pTd0RUv2DktqBZZglOB/SNR4u1OFRPVuVpwL+vokcytRklo72BKEhf1WI8UZfB+a/2FaasYt+QCr3sek6v6Q+dseZL64QpzC8zP34Q4P2asuFCFx0m3wKGPL+x4fauFsBJUy3ppR4L5Zz74zamkYU63rEOasaNnNn/9rXY/wXGyX5fOHj1+/lMUtlNRjNdf8XR1ZB8RPx8z3fdAITLVi15CQH/+b9sQnE3ZPSKEHOBl8VrfWGumBb9+c9c7hhsfudWJeUe0fRMchk1vYU/PE8KmuRvV4bzo/8DbV+OT6x4aUXPv8PQe+BH4LjV87GClSuV0lYfcA8nxThW5edZ8ijFn3Bz4d+SH//Y8fSdPeEUpfpoMT5Hpm0xQg==;BMpNUOIUOLwgXB6yRxvUGA=="
+images:
+  - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F417a9e96-e8d7-11ed-bf4a-7aba37244b0f.jpg?crop=3072%2C1728%2C0%2C160&resize=1200"
+    width: 1200
+    height: 675
+    isCached: true
+
+secured: "AStDYcmQxBXO3m71sY3gngtWKMp3LQVgOKgBFKKkgwUlUEZzdzXZxJKhuNrCNSov6V8jzRoXgZFWgjTbxcqpukYTQwF26q3bAjOhp0nLE2OqwVXj/3Lbfqe3K6yT0zld5bOW5f0gxrnqNDMMXZ6Rs1EvBzSOE7UW8kZHvptm4EANnxkIMS8TvcXKoiZFVmcSEMlCNMEjpekXrAKamqK1d1qiPqudsL89r1PBliEtEivj2mBhGHI045/DSyuaE76Mt3WolaX14I93/hVCucsTE61Eey9X5yvNbFu2aH/GHTOUzKah0DDtkf2g30Q+q8B/4QILYY6eOwUJr46VVJabpW39PljDQl/NgQCd5GwuDWk=;TGYsTtOVCFtDv5VmhpeRjA=="
 ---
 

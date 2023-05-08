@@ -23,19 +23,19 @@ topics:
   - AI
 
 related:
-  - title: "Brain dynamics uncovered using a machine-learning algorithm"
-    excerpt: "CEBRA is a machine-learning method that can be used to compress time series in a way that reveals otherwise hidden structures in the variability of the data. It excels at processing behavioural and neural data recorded simultaneously,"
-    publishedDateTime: 2023-05-03T22:37:00Z
-    webUrl: "https://www.nature.com/articles/d41586-023-01339-9"
+  - title: "Creating a Thai language AI tool"
+    excerpt: "Thai artificial intelligence (AI) engineers from public and private organisations have teamed up to develop a Thai-language generative AI-powered chatbot, expected to benefit several sectors from education to business."
+    publishedDateTime: 2023-05-07T23:43:00Z
+    webUrl: "https://www.bangkokpost.com/business/2565696/creating-a-thai-language-ai-tool"
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 39
+      name: Bangkok Post
+      domain: bangkokpost.com
+    quality: 41
     images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-01339-9/d41586-023-01339-9_25308634.png"
-        width: 1024
-        height: 576
+      - url: "https://static.bangkokpost.com/media/content/dcx/2023/05/08/4747356_700.jpg"
+        width: 700
+        height: 468
         isCached: true
 
 secured: "bgXt0szvRQ1OtgHM4O5LVDev6VO33jVq5CddPW99PUMz8wc25OJTa7rr1GAb5IxzXA0K3eD/LCXxuTWWuw0wReuF6Q78OTbpbbzkI7cmLQDKGJFn19IsYG8b3CSz8tkpIRfIRgMTIesocVgpQ/ngGcET/Ilw2WoC9zrjz5oCQS53IgALObHduiCbPYcnoxHUMIu8OUg+uwcN8s2Dz8Iz1iGw8YzmBITO9S+xseWMi54YhOpxnKSfgIDy5Gp11vG9+F4riNjpZD4xDo8rIeeekicCm1F1cn7N7nSWsdwrnZaYkQpWNNIvRw9XF2gccYO1TP04U+xke+2hg2ED70aE2Np9HSmFSFxo1o7PivO6dmo=;6kHldCQ44BLSb3zXK0R24A=="

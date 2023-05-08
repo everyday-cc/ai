@@ -98,17 +98,15 @@ related:
         height: 1365
         isCached: true
   - title: "In 30 secs, ChatGPT produces 643 words on India and AI; Edge manages just 143"
-    excerpt: "ChatGPT seemed more comprehensive at 643 words, while the Edge version was terse at 163 words, but it included footnotes with citations."
-    publishedDateTime: 2023-05-08T04:30:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/in-30-secs-chatgpt-produces-643-words-on-india-and-ai-edge-manages-just-143/articleshow/100063143.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/technology/in-30-secs-chatgpt-produces-643-words-on-india-and-ai-edge-manages-just-143/amp_articleshow/100063143.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/in-30-secs-chatgpt-produces-643-words-on-india-and-ai-edge-manages-just-143/amp_articleshow/100063143.cms"
+    excerpt: "In the IANS New York office, we have been experimenting with chatbots and one of the tasks we set for the two as a test was to \"write a report"
+    publishedDateTime: 2023-05-08T12:55:00Z
+    webUrl: "https://glamsham.com/world/health-lifestyle/in-30-secs-chatgpt-produces-643-words-on-india-and-ai-edge-manages-just-143"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 36
+      name: glamsham.com
+      domain: glamsham.com
+    quality: 16
 
-secured: "0rNrX2c0chc/UuIbGo8sZ28zX3HfrjDTgYnNrdE4YI6dz2raQM5gQU3jSSV9uXKhzzF9yEdR2IA99iehvurxUUp1h9BpfRzEta2NHlbqdGrkRuNxF70I0SEpirILRgWTMaGCFRUZWX1vsyHwcF1r7IQB3PNmaKb3//u6NPJtZ2T3KJMyXm6pXOxIl0cwvOKTAZByNsSXsJ9WoPFhV55Tz4T6h6jBIJpnfCPuKj2RdXiaAjeNxPdwZE61QKomx6Tra1xgsG35PtTkeZAVbIwD5FdoqnNBL+c+jT7cfj1VJor+44F/xXM9eYD6n4MAQen0rYrKY6qhChCwazOvLRulvR9PhkN6o+rNHWZeTW7mGOI=;EJjgcFyJX/VkDQ3Y9jshbw=="
+secured: "sXH/6qL+BF9Oo+NGMxcw81u3JStw4CsFGdCYElQJfmXmEGfHfL97ReABi16YjOwGg++w7zcpBJFiew878lJb+9rUYkDVcBWf2QWhQChkqlsUH3luw8OiF1ZOf+h2ZxLIbnH70bNZ5kHYRvn7SMWBbHkIF9hAdKy6w5s7r1iJCE2yuZmXtCHUsZHe4kg/l4eVYievVJXMZZyh1pqb+AhCt2T1Xu4p+P91x9OovwRuCYFBe8l4KGLbZZJKRr+5THjNKhALi2VxGV6MHGnRQn6CbQSnc02GESFcEiojT4dzMlIvncQhO112b1u4/PEj19VNbOwmr60Skpk9LOXGv2X5Z1xZDigRWEGT9ZdEvr4OkaMB6xoXUJL9qFof2uJvai2stWlvp+UjlaFlzHkOQ+rMMDLoWCePXU6mti0IzwKS1Qyp6GNe0PQngp3nbKvcYA6ASlAlkKwiPg4yQC1ZvgQnf2cnnpfbMS89myOSHMOEHxz+4epz12aFghZzsQkja980HFE9D4M1KWR0Yl0L3JxC3g==;+RqF6YazAuI3FlYBTvP+gg=="
 ---
 

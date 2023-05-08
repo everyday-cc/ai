@@ -17,7 +17,7 @@ provider:
   domain: cbsnews.com
 
 topics:
-  - AI in Autos
+  - AI in Healthcare
   - AI
 
 images:
@@ -43,7 +43,16 @@ related:
         width: 1300
         height: 708
         isCached: true
+  - title: "How Generative AI Is Changing Work"
+    excerpt: "Customer Service Jobs"
+    publishedDateTime: 2023-05-08T13:16:00Z
+    webUrl: "https://hbr.org/insight-center/how-generative-ai-is-changing-work?tpcc=orgsocial_edit&linkedin"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 17
 
-secured: "w7L+WkmVinu3Jm1+laxG02ZO2SXXoQ0p/OjbJKtCKESUGZIYsc9OthzfyqxYyxK0moX5p+ltmGDWtcYNXZFPqrCIWA5usOXGNvayHMGTKrqoCU+3KFAdsGilJFpSVtLkVTh5Q/vqW6PMxOk44Ufte8pytyliBM0pBfFL9sh5UUQfo54Ptr7way3Q8Eip14+u0MXmDcK79qKztaga0DMbZByyORE/fhrZqkifQP3IEowj2+A+//wj4U5E3el3Wst3aWBCpGgONvB41/CSOVXUu3jeUQf2OtFkB1Mx9X5UHcwyC/sfmFBz3dwPG7UE8RuVt+G/poOkg1FyTTv4d6PmQtNUnxxRxHtpiKTZgYqPlHc=;RrcjHuSJahvHW39c7guMOw=="
+secured: "agQFpuCTTuJVKaSwFAYd6UemHV67HRA+KmoHWK8JF6UEoa5bjSQSw3T0LiUm6jzekonL6qrBpgLQc1T2NSwElIruwBRHS0rq8yP2cboUXAzFFMt80exxWbfkzwuizmwZvl3+Hg9+34zhsHAkVxRE0Mh7ySXxvKObn9y0nmeTv3kGI+Fle5tBTNbG2ZvqsZm5chyWUYf8Md6X4SKHjea2Lf8OeBWOcaVtk1uuIPOqKOL4de+YPhogWSsw45+1gC1naMs99qOP1yB3zBSZwn2KlPP9aGbsVf2SkHmXAeOeSMwomiOdMNKft6nzIwkUUARteOcMg27ZecWX8L6jgHO2Qa8Trfih0ZQQn2adFSc04qs=;kWB+R2INX9e/R1QWEOJP5Q=="
 ---
 
