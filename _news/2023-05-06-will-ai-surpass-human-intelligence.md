@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Intelligence agencies have used AI since the cold war – but now face new security challenges"
-    excerpt: "But intelligence agencies, including the CIA, in charge of foreign intelligence for the US, and its sister organisation the National Security Agency (NSA), have been using earlier forms of AI since the start of the cold war."
-    publishedDateTime: 2023-05-03T15:07:00Z
-    webUrl: "https://theconversation.com/intelligence-agencies-have-used-ai-since-the-cold-war-but-now-face-new-security-challenges-204320"
-    ampWebUrl: "https://theconversation.com/amp/intelligence-agencies-have-used-ai-since-the-cold-war-but-now-face-new-security-challenges-204320"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/intelligence-agencies-have-used-ai-since-the-cold-war-but-now-face-new-security-challenges-204320"
+  - title: "Artificial General Intelligence: The Next Frontier In Technology"
+    excerpt: "For an AI to be classified as AGI, it needs to have certain characteristics such as common sense, background knowledge, transfer learning, abstraction, and causality. Vision from the Marvel Cinematic"
+    publishedDateTime: 2023-05-08T07:43:00Z
+    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/artificial-general-intelligence-the-next-frontier-in/451139"
     type: article
     provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 65
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 54
     images:
-      - url: "https://images.theconversation.com/files/522983/original/file-20230426-28-upolxb.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
-        width: 320
-        height: 213
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1683531881-Hithere11.png"
+        width: 2000
+        height: 1333
         isCached: true
   - title: "This ‘intelligence’ may be artificial, but the threat is very real as AI takes over"
     excerpt: "THE robots are coming and you’d better watch out – your jobs, prosperity and freedom are in their sights. Will Smith famously fought an army of Artificially Intelligent androids who had"
@@ -57,6 +55,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "‘Paytm to be free cashflow positive’: CEO on fintech's ‘aim’, inclusion of Artificial General Intelligence"
+    excerpt: "Paytm logged a 51.5% rise in fourth-quarter revenue on Friday, aided by a surge in loan growth, and posted an operating profit for a second consecutive quarter."
+    publishedDateTime: 2023-05-07T13:42:00Z
+    webUrl: "https://www.livemint.com/companies/news/paytm-to-be-free-cashflow-positive-vijay-shekhar-on-fintechs-aim-inclusion-of-artificial-general-intelligence-11683464854386.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 1
 
 secured: "sGfOfc55nqmkP7oI/5S9IFEMwwU+D5aLB4sgsfgOQRFGiIUAzAkjrk6ytguSdhbsxWCRPQAiiHgd0puk2QfBHNw7xX7t+XAytZMyOI8dXEQ3c4E9c7vKLYLbQB3UIvaqOHT61RmmfJqvJ2aX/4fhrnp3PqXDQAa8n1JEdxehdHOlAL4mV+VinNuIKw39wDRqNzzPiaXaSpmMfChtO/J3JPCBiTKqtPaPDwRvDSQdKQHj5VoEu3J4YVtBMLB1g6w0Zep9a7crjjT5GTzaDF1lPMHNHgN5JX/8VDmcKo9x4QMdwh/qY235ChAs+2XdOIDuQwSxPfbOuStSBv+H9hq5JH+lTF9BeBxIwH50hErbiWw=;owOiYHm5HjYzFAD8ZJLKTQ=="
 ---

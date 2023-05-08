@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "LinkedIn & DeepMind Co-founders Launch Emotional AI Chatbot, Pi by Inflection AI"
-    excerpt: "Inflection AI, created by LinkedIn and DeepMind founders, introduces Pi, a chatbot with emotional intelligence and human-like conversations."
-    publishedDateTime: 2023-05-03T15:52:00Z
-    webUrl: "https://yourstory.com/2023/05/inflection-ai-pi-chatbot-linkedin-deepmind-founders"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 29
   - title: "The Stack: Bluesky Emerges as Twitter Rival, DeepMind and LinkedIn Co-Founders Launch Pi Chatbot"
     excerpt: "Twitter rival Bluesky gains momentum, DeepMind and LinkedIn co-founders collaborate to launch AI chatbot... News this week centred around the return of tech royalty: former Twitter monarch Jack Dorsey made a new bid for the microblogging throne with the launch of Bluesky,"
     publishedDateTime: 2023-05-05T12:05:00Z

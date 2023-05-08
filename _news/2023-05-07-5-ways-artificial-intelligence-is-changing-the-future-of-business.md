@@ -71,6 +71,20 @@ related:
         width: 570
         height: 367
         isCached: true
+  - title: "How lab grown neurons could power the future of AI"
+    excerpt: "Melbourne-based Cortical Labs’ lab grown neurons could speed up AI training in a more energy efficient way and its work has caught the eye of hyperscalers and Amazon’s CTO"
+    publishedDateTime: 2023-05-08T03:13:00Z
+    webUrl: "https://www.computerweekly.com/news/366537095/How-lab-grown-neurons-could-power-the-future-of-AI"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 39
+    images:
+      - url: "https://cdn.ttgtmedia.com/rms/onlineimages/ai_g1182183209.jpg"
+        width: 1200
+        height: 400
+        isCached: true
 
 secured: "lMNNVSH8CpKqfJ6HRc5xYrxONrodNLpFVlhUe7QTwc1iMPG/lmfHt5HVuLff3Ehs36mv3iSRM+QLFGYuqILeymHfS31nlDUnr0UkUdeE8g8SgCyvovn9WwjFMycpNQY9h7YEiNEmc/RydsHfog39OllE+fHszYfslY4x17t4XpAgQ6HFJo1LDPT50Ow+MkHMQ4nLLLiV1ikq2q40ATw1xFNMSV/HzBQxGkZXyYiT5bTXsiV8OaIvSUEEA9gbvMS5MBk+KplH+T523O1niITNCKmSKCt+6ZtIzQvUTpTKHSGWWFgaV359KuavdZ6lbrFqUsN8BhsTMtHgIE+flkC62uxs6cL9ThE413W2Ur/wBuE+/ldGPM5osaVQhpez8Dmiq0HOPsTTHhmNMRsVX1+1Xe2r+rZsVP7YmzfBS2Kra7Upu5pBcmd7fITqQ2joD0tHMcFActLQOdhZ+YJQff+cTLR7v9bA/SFPiBVTIop9IJw2A4lzQH60ZSXDnrvHsmen04vyf+p7fBBBTZfEFRYNbw==;A+cZ4HK9zHYRqLteTdgHGw=="
 ---

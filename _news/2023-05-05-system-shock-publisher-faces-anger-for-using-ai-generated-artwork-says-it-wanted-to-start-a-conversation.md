@@ -45,34 +45,6 @@ related:
         width: 1258
         height: 630
         isCached: true
-  - title: "How Vericast optimized feature engineering using Amazon SageMaker Processing"
-    excerpt: "This post is co-written by Jyoti Sharma and Sharmo Sarkar from Vericast. For any machine learning (ML) problem, the data scientist begins by working with data. This includes gathering, exploring, and understanding the business and technical aspects of the data, along with evaluation of any manipulations"
-    publishedDateTime: 2023-05-03T15:17:59Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-vericast-optimized-feature-engineering-using-amazon-sagemaker-processing/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 86
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/04/20/ML-13673_arch.png"
-        width: 975
-        height: 556
-        isCached: true
-  - title: "Implement backup and recovery using an event-driven serverless architecture with Amazon SageMaker Studio"
-    excerpt: "Amazon SageMaker Studio is the first fully integrated development environment (IDE) for ML. It provides a single, web-based visual interface where you can perform all machine learning (ML) development steps required to build, train, tune, debug, deploy, and monitor models. It gives data scientists all"
-    publishedDateTime: 2023-05-03T16:07:41Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/implement-backup-and-recovery-using-an-event-driven-serverless-architecture-with-amazon-sagemaker-studio/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 72
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/03/implement-backup-sagemaker-studio.jpg"
-        width: 956
-        height: 474
-        isCached: true
 
 secured: "yLVuReCMW2KT5arIMBn78ud56nXXroecHPJJ+AVqcTnD7MLO47EeRPpxd+XQKQJGSUTXwNwF0dz0IAhS0uClao88bhQByWfEXk6P0qSXCWjzig12aYpcKAiYeZx9YM5SG/DSsdcwnRAMzupWot58j6+RYy6WNFzuKA8FYITO8m0j2RTkN+zg+vdQ0hg1SJ9a6+iaCEPNajzwnKXVVaoezcsaarGes5h9Twip/2SKS15DtDRQ3Q2BUDinSmdI8rE4ThVwuQ6QKkWvP2F11gH2ekigVQmdsJBpGsKkvzrPDsYfCvcA1CzQZ/L0l3RoX5TqqXaNNM05Aww6PqHES9J7K62xS+uLVrD0wVf9zyn8g4PHBgl2bDYO0D5JUbKDg9394DuPcQjvG+WSr0bmwmwEsbNnnbKQ2fpmGWbd+cvDWKBPpE+zXxeNfQRzo2+hvH4CI+tKMvk4y0qD4FC6snJyh4p5Im/SqmpoXoQzRYEHYgxHYGOvam7hmWK5XUedlADCdpV6jHiQL/VGuwyOdffT2Q==;/TXnZjZcVmoK5HOv27lgTQ=="
 ---

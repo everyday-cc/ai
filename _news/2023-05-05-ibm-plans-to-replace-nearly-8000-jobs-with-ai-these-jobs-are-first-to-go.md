@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/32242532"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32242532"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -21,22 +21,6 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "AI threatens 7,800 jobs as IBM pauses hiring"
-    excerpt: "Independent of this move, IBM announced 3,900 job cuts in late January. However, many of the roles reduced due to AI will likely come as a result of the upcoming hiring freeze and jobs vacated by attrition."
-    publishedDateTime: 2023-05-03T16:22:00Z
-    webUrl: "https://www.zdnet.com/article/ai-threatens-7800-jobs-as-ibm-pauses-hiring/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-threatens-7800-jobs-as-ibm-pauses-hiring/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-threatens-7800-jobs-as-ibm-pauses-hiring/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/0393b7d5f621704a38027b7cfd596f95695ca462/2023/05/03/d1aff5ee-9f8f-4e70-ad00-0768eff07be4/robot-replace-employee.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "IBM eyes hiring pause because AI does the job"
     excerpt: "Non-customer-facing roles may see a 30 percent cut in workforce, replaced by AI and automation, Arvind Krishna said."
     publishedDateTime: 2023-05-04T12:07:00Z
@@ -45,15 +29,6 @@ related:
     provider:
       name: Astro Awani
       domain: astroawani.com
-    quality: 19
-  - title: "IBM to pause hiring for jobs that AI could do"
-    excerpt: "International Business Machines Corp. Chief Executive Officer Arvind Krishna said the company expects to pause hiring for roles it thinks could be replaced with artificial intelligence in the coming years."
-    publishedDateTime: 2023-05-05T21:34:00Z
-    webUrl: "https://www.news-journal.com/news/business/ibm-to-pause-hiring-for-jobs-that-ai-could-do/article_a9ce5b06-eb8c-11ed-9635-c72a4b171373.html"
-    type: article
-    provider:
-      name: Longview News-Journal
-      domain: news-journal.com
     quality: 19
 
 secured: "juq0QwwEL/pY783GtkHstASj1IrE2yKTAWKtlEIkhizD+0hkZ9Iyxppuz/s7BPgkbq7Oj6FfRQcOeOuCT5EIJJneoT92x1mY6+HfoOgabvOKu2WPDgYTw43IKKAX2j1yVp3/k58uQCqMCBf5xbBkCt4FXQycTaACnYhbY2UDaxUf6sZA8CVZFdruaNcBxmxtd/aDBUUdwcb5amO0zJri3naAnguw1JoxQXKWrbct0Wiu7/kxE3G9kLfi4AT50WuhQZPWtzkl08zu4FDxRgGyt7fVpHRVdZOUQkuP9XxNAOMW4Gjfn0bgSEcqcFGSgjXxCZVp9o5ldNAIupJRmMG1fh9EtsUZO0EvfyZCeAtkItU=;h97n7yJq8quZ9Zs9VvZWfw=="

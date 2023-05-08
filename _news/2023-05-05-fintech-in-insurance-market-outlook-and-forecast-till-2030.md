@@ -117,15 +117,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 58
-  - title: "3 Cutting-Edge AI Stocks Set to Dominate the Market"
-    excerpt: "It has shown the incredible powers of AI to understand language and create humanlike content. The technology is poised to transform many parts of business. According to a survey of from Enterprise Technology Research, about 53% of IT decisionmakers expect ..."
-    publishedDateTime: 2023-05-03T16:47:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-cutting-edge-ai-stocks-set-to-dominate-the-market-1032288476"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "Passenger Vehicle Voice Recognition Market Trends and Forecast: Analyzing Growth Potential with CAGR forecasted 10.9% during 2023-2030"
     excerpt: "Passenger Vehicle Voice Recognition market outlook (2023-2030) provides a thorough analysis of the market's current state, including factors such as market size, growth rate, segmentation, and key players."
     publishedDateTime: 2023-05-04T23:42:00Z

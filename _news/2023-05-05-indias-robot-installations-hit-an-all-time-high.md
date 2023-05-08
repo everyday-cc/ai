@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/indias-robot-installations-hit-an-a
 webUrl: "https://www.therobotreport.com/indias-robot-installations-hit-an-all-time-high/"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/14130825/prison_bars.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "India’s robot boom hits all-time high"
-    excerpt: "The long-term potential of robotics in India becomes clearer when compared to China: India´s robot density in the automotive industry, which is the number of industrial robots per 10,000 employees, reached 148 robots in 2021."
-    publishedDateTime: 2023-05-03T15:24:00Z
-    webUrl: "https://robohub.org/indias-robot-boom-hits-all-time-high/"
-    type: article
-    provider:
-      name: Robohub
-      domain: robohub.org
-    quality: 39
-    images:
-      - url: "https://robohub.org/wp-content/uploads/2023/05/Graph_operational_stock_India_per_1000-425x240.jpg"
-        width: 425
-        height: 240
         isCached: true
   - title: "Robotic healing: Robot-assisted surgery on the rise in the US and India"
     excerpt: "Jerry Ahrens visited the emergency room with a stomach ache, which turned out to be a mass on his right kidney. He needed surgery."

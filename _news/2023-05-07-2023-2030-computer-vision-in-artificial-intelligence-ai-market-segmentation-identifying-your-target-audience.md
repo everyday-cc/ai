@@ -37,6 +37,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Automotive Market"
+    excerpt: "Research Reports has published a new report titled as \"Artificial Intelligence (AI) in Automotive Market\" by End"
+    publishedDateTime: 2023-05-08T05:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-2023-05-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 82
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Of Things (AIoT) Solutions Market Research, 2023-2030"
+    excerpt: "In 2023,Artificial Intelligence Of Things (AIoT) Solutions Market with technical and procedural infrastructure that"
+    publishedDateTime: 2023-05-08T03:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-of-things-aiot-solutions-market-research-2023-2030-2023-05-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 81
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence (AI) Robots Market [2023-2030] | Projected to Reach USD 27820 Million with a 22.2% CAGR"
     excerpt: "Among other players domestic and global, Artificial Intelligence (AI) Robots market share data is available for global, North America, Europe, Asia-Pacific, Middle East and Africa, and South ..."
     publishedDateTime: 2023-05-04T12:10:00Z

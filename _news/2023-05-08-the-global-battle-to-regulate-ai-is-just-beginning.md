@@ -7,8 +7,8 @@ originalUrl: "https://www.wired.com/story/the-global-battle-to-regulate-ai-is-ju
 webUrl: "https://www.wired.com/story/the-global-battle-to-regulate-ai-is-just-beginning/"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Wired
@@ -27,6 +27,24 @@ images:
     height: 670
     isCached: true
 
-secured: "woQSkrGINcZYr6m2HtrqrO8bNjYgHC5WE/iSgpJcc+KjHULAfzotBsWXoKu0AQ6XVVwBD6+igH22+EjO5DPhNmSauGQD1cBBITu+5SF9zY6dBjbmKVqmpjXisdndr+28m7lRvR8jEkogoU/8JtVuWZGRuXgIdmY35mtWktFIOdH88cA9cJkuctZBy4vl0Mqs4Gyf1qeOLWzHat0Mxt2+jGgRyT0YJN5ksystVym4SuU/2a5NIcYxUlU8st1ObwpMAAKGK3qeg+KS2yjAqH6ykgBfhfdKGsH+ffDOaFDiomLZCSskg58SjTXId6clKDFlUx2/T6RI2RttNJYaV/ml+hH9h3lavmVjyglx+aq8tEc=;0pFxxghnJ3EvDK+i8z99tQ=="
+related:
+  - title: "Africa must regulate AI to reap its full benefits"
+    excerpt: "AI regulation is needed to power Africa’s economy and eradicate many of its socio-economic challenges, say experts."
+    publishedDateTime: 2023-05-08T08:25:00Z
+    webUrl: "https://www.itweb.co.za/content/P3gQ2MGAjJJvnRD1"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/P3gQ2MGAjJJvnRD1"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/P3gQ2MGAjJJvnRD1"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 59
+    images:
+      - url: "https://www.itweb.co.za/static/pictures/2023/05/AI-create-image-2023.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+
+secured: "MZf4Mkxeats8EdfYdFg5sm8m3jvbLZIrq7lSTatcr+tmQKrIFlg5VOIAUXdn6Fd9GavKEFNEF0kKcL9ekD6KA0QtJNXLxI2EKJN7pu7vhTsgbpp7dzS2goX9tqnYzWslJNa7fwJoSY3asBmsdjLDYt/1dZ+FRkuROw0KYOHFpsywbTIChe2FN986RkveCShikkdkK2Z7h0WMdW03NMCUYllOxQpuaKoWZtN1oWtebPCfko5h4W26l5KZgiIr3H+TqlKVJBU6+/f4fV4EXZoC0MaPACaD/GAXkBg3IoN+A64AF1lcGuBGb1MuVrkAKjCHWYMt3adJ+2uY/4XDu3aUTS0b/QjVfU1I7RbTswE4+PEPuPcWE2NRj5D5SpV9tuTTzMrlA3DGsig2DI14Ty5sV2hGEZUhNW/A0WkhDSPIUfORkQ5wKAZ35C+n4ZXciFFhByD89+eY9fm46WJNzKUo/qXwzQZY2CUhiaCY3jpkhMU+R6cPaZN+27s2Qf3ysyjep2u0qPjHkQ0RLkzrUX2h9Q==;XZUpgUPIPD1f77iC5g4HlQ=="
 ---
 

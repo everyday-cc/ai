@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/get-started-with-gen
 webUrl: "https://aws.amazon.com/blogs/machine-learning/get-started-with-generative-ai-on-aws-using-amazon-sagemaker-jumpstart/"
 type: article
 quality: 99
-heat: 139
+heat: 119
 published: true
 
 provider:
@@ -36,34 +36,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/04/achieve-high-performance-sagemaker-1258x630.jpg"
         width: 1258
         height: 630
-        isCached: true
-  - title: "How Vericast optimized feature engineering using Amazon SageMaker Processing"
-    excerpt: "This post is co-written by Jyoti Sharma and Sharmo Sarkar from Vericast. For any machine learning (ML) problem, the data scientist begins by working with data. This includes gathering, exploring, and understanding the business and technical aspects of the data, along with evaluation of any manipulations"
-    publishedDateTime: 2023-05-03T15:17:59Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-vericast-optimized-feature-engineering-using-amazon-sagemaker-processing/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 86
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/04/20/ML-13673_arch.png"
-        width: 975
-        height: 556
-        isCached: true
-  - title: "Implement backup and recovery using an event-driven serverless architecture with Amazon SageMaker Studio"
-    excerpt: "Amazon SageMaker Studio is the first fully integrated development environment (IDE) for ML. It provides a single, web-based visual interface where you can perform all machine learning (ML) development steps required to build, train, tune, debug, deploy, and monitor models. It gives data scientists all"
-    publishedDateTime: 2023-05-03T16:07:41Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/implement-backup-and-recovery-using-an-event-driven-serverless-architecture-with-amazon-sagemaker-studio/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 72
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/03/implement-backup-sagemaker-studio.jpg"
-        width: 956
-        height: 474
         isCached: true
   - title: "System Shock publisher faces anger for using AI-generated artwork, says it wanted to start a conversation"
     excerpt: "A Twitter post on the official System Shock remake account included an image of Shodan created by Midjourney, along with the words \"designed by an immortal"

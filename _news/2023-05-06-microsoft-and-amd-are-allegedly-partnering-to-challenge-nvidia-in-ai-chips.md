@@ -158,22 +158,6 @@ related:
         width: 1024
         height: 575
         isCached: true
-  - title: "Aisera embraces Microsoft AI copilot for advanced enterprise service experience"
-    excerpt: "California-based Aisera today extended its partnership with Microsoft to deliver an AI copilot for improving enterprise service."
-    publishedDateTime: 2023-05-03T16:40:00Z
-    webUrl: "https://venturebeat.com/ai/aisera-embraces-microsoft-ai-copilot-for-advanced-enterprise-service-experience/"
-    ampWebUrl: "https://venturebeat.com/ai/aisera-embraces-microsoft-ai-copilot-for-advanced-enterprise-service-experience/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/aisera-embraces-microsoft-ai-copilot-for-advanced-enterprise-service-experience/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 100
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1320248306-Khanisorn-Chaokla-e1674620924925.jpg?w=1200&strip=all"
-        width: 1200
-        height: 595
-        isCached: true
   - title: "Nowhere is safe from AI: Microsoft and AMD team up to develop new AI chips"
     excerpt: "It’s no secret that AI is the tech hardware industry’s current hot commodity; everybody wants to make some cash off the burgeoning popularity of machine learning tools such as ChatGPT and Google Bard. Nvidia is leading the AI charge, with its high-end processors already being used to train and run a variety of chatbots."
     publishedDateTime: 2023-05-05T11:02:00Z
@@ -286,20 +270,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "CallMiner Collaborates with Microsoft to Enhance AI and ML Capabilities"
-    excerpt: "CallMiner, a leading provider of conversation intelligence to drive business performance improvement, today announced it"
-    publishedDateTime: 2023-05-03T16:46:00Z
-    webUrl: "https://www.datanami.com/this-just-in/callminer-collaborates-with-microsoft-to-enhance-ai-and-ml-capabilities/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 71
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-North-America23.png"
-        width: 1664
-        height: 674
-        isCached: true
   - title: "Microsoft supporting AMD’s expansion into AI chips"
     excerpt: "AI chips are in great demand after the explosion of chatbots like ChatGPT and other services based on the technology. Read more at straitstimes.com."
     publishedDateTime: 2023-05-05T00:39:00Z
@@ -393,20 +363,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "CallMiner Collaborates with Microsoft to Enhance AI Capabilities"
-    excerpt: "CallMiner Collaborates with Microsoft to Enhance AI and Machine Learning Capabilities for contact centres perform better and more efficiently"
-    publishedDateTime: 2023-05-03T15:24:00Z
-    webUrl: "https://contact-centres.com/callminer-collaborates-with-microsoft-to-enhance-ai-capabilities/"
-    type: article
-    provider:
-      name: Chat Bots
-      domain: contact-centres.com
-    quality: 54
-    images:
-      - url: "https://contact-centres.com/wp-content/uploads/2023/05/callminer-microsoft-ai-mage-777x437-may-2023-min.png"
-        width: 776
-        height: 437
-        isCached: true
   - title: "How Epic, Microsoft plan to use AI to answer patient inquiries"
     excerpt: "EHR vendor Epic Systems and Microsoft are training Azure OpenAI on a large collection of information so it can asynchronously draft responses to patient messages for providers, The Verona Press reported May 4."
     publishedDateTime: 2023-05-05T14:45:00Z
@@ -455,20 +411,6 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 51
-  - title: "Aisera Collaborates with Microsoft to Provide AI Enterprise Service Experiences"
-    excerpt: "Aisera, provider of Generative AI solutions for organizations, is partnering with Microsoft to deliver an AI copilot for"
-    publishedDateTime: 2023-05-03T16:30:00Z
-    webUrl: "https://www.datanami.com/this-just-in/aisera-collaborates-with-microsoft-to-provide-ai-enterprise-service-experiences/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 50
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-North-America23.png"
-        width: 1664
-        height: 674
-        isCached: true
 
 secured: "/Meyzqoo8vrw4DgI4NrC7ApRQ3BM7KEr+3K0AHM3q4a+n4+26f1w+kPjMCIzQlUVuUNIC9NZtooRDJtuRK++kN/0AG0cahqVX4EUQgd75xGna+vOZBjG0jqylnkAv3kYZum3egPZG5rF8aEB6yBWN32UabchYU3sA3EftjO9KCQjEflIp0fZzchQrbqDk2szQh60ADNuQ6Y8pu17VPB3H+JVRIwI/E59pR2KdxLMQV8Uw/69I6RjgwLd2exHIKyxc1l7wAvH02XOQlWr+KVSwH4kdlRV6Tla0IECQmvTbLfEw6DbUkRBGcGT5ZP3y13eTC/9x1PKbJzAiW44zHwpvmT5Gklksbfmu+aTS9U+ab66sxKlGJzM4yQWA6NI2mVIvysDvWcA+qmPhaTXAKFOXzLtloXz3VHaPuV+qtYItc3RmR1XI0tXdWM+VcgCDMFcii3P0bgfMJv3xsjN3SSmMAacHjC06JvYKLnvG8DM7xlV0GFmuoEJ19suCQkOolQ53WIngb3L9E9weSIoX277Wg==;oeYIVKypI7De9bm5NKuhSg=="
 ---

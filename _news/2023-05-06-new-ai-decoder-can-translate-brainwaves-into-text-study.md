@@ -9,8 +9,8 @@ ampWebUrl: "https://m.jpost.com/science/article-741820/amp"
 cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/science/article-741820/amp"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: The Jerusalem Post Blogs
@@ -27,31 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "AI brain activity decoder can reveal stories in peoples' minds, researchers say"
-    excerpt: "An artificial intelligence system developed at the University of Texas is able to translate a subject's brain activity into a stream of text after storytelling."
-    publishedDateTime: 2023-05-03T15:17:00Z
-    webUrl: "https://www.foxnews.com/science/ai-brain-activity-decoder-can-reveal-stories-peoples-minds-researchers-say"
-    ampWebUrl: "https://www.foxnews.com/science/ai-brain-activity-decoder-can-reveal-stories-peoples-minds-researchers-say.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/science/ai-brain-activity-decoder-can-reveal-stories-peoples-minds-researchers-say.amp"
+  - title: "Israeli experts create AI to translate ancient cuneiform text - study"
+    excerpt: "Researchers at Tel Aviv University (TAU) and Ariel University have developed an artificial intelligence model that can automatically translate Akkadian text written in cuneiform into English."
+    publishedDateTime: 2023-05-03T17:15:00Z
+    webUrl: "https://www.jpost.com/archaeology/article-741982"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 85
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0cbb3aee-10db-495f-9fe0-b479aa2bec89/0ec766a6-9a55-4885-b3f4-4c77f19ec376/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "UT Austin researchers create artificial intelligence system capable of reading minds"
-    excerpt: "Researchers at the University of Texas at Austin have developed an artificial intelligence system that can read minds by translating a person's brain activity into a continuous stream of text. The study led by Alexander Huth,"
-    publishedDateTime: 2023-05-04T19:08:00Z
-    webUrl: "https://www.chron.com/news/houston-texas/article/university-of-texas-artificial-intelligence-18076875.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 10
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 34
 
 secured: "IsiaAx5wZdtQR3fNKMQmMHL7XsZbtj/YKFW4nKFAaCC5FGhvBbVDgRON0avPOZzAGRcOh1eEbgI7DAU4ELDYhIXumRAgxoQutOWxSX12bWoeDMDNH60EPMCd060EcCUrmZl4DT2c5HZbtPweSbOCTfEUpuXF2ePBFNiVQiaTVPv8oq/Mr5o2Y5U3Kkl2EruEZKU8rmynoH9y5hXEgv/g55vmWencXgDcuwROoPKv66vKjtSyCK9QwrBIrCH/Bxc6TvbBX+dJ1+Zyc9sV2hYOfAuJi4dGhLO5aHrXz7I7Pnx4YD83h0xlzCdudeWhJ+qhZ+NXABDWfepki1yXe7bK28QxeQKd4E7fwUTXZ0twm68=;PVpd1u0s3VPSSm1c0FpFNQ=="
 ---

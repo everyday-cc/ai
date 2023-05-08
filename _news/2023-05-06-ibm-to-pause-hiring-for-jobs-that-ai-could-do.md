@@ -19,42 +19,36 @@ topics:
   - AI
 
 related:
-  - title: "AI threatens 7,800 jobs as IBM pauses hiring"
-    excerpt: "Independent of this move, IBM announced 3,900 job cuts in late January. However, many of the roles reduced due to AI will likely come as a result of the upcoming hiring freeze and jobs vacated by attrition."
-    publishedDateTime: 2023-05-03T16:22:00Z
-    webUrl: "https://www.zdnet.com/article/ai-threatens-7800-jobs-as-ibm-pauses-hiring/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-threatens-7800-jobs-as-ibm-pauses-hiring/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-threatens-7800-jobs-as-ibm-pauses-hiring/"
+  - title: "Google, IBM to Tesla, how these companies are using AI to transform work"
+    excerpt: "Google, IBM to Tesla are some companies that are leading the way in AI and driving transformation and innovation. Artificial Intelligence (AI) is one of the most transformative technologies of the current time."
+    publishedDateTime: 2023-05-08T07:34:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/google-ibm-to-tesla-how-these-companies-are-using-ai-to-transform-work-71683530733850.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/google-ibm-to-tesla-how-these-companies-are-using-ai-to-transform-work-71683530733850.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/google-ibm-to-tesla-how-these-companies-are-using-ai-to-transform-work-71683530733850.html"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 75
     images:
-      - url: "https://www.zdnet.com/a/img/resize/0393b7d5f621704a38027b7cfd596f95695ca462/2023/05/03/d1aff5ee-9f8f-4e70-ad00-0768eff07be4/robot-replace-employee.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://images.hindustantimes.com/tech/img/2023/05/08/1600x900/Digital-Ad-Tax-0_1683531188343_1683531212843.jpg"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "IBM Plans To Replace Nearly 8,000 Jobs With AI — These Jobs Are First to Go"
-    excerpt: "IBM CEO Arvind Krishna announced a hiring pause, but that’s not all. He also stated the company plans to replace nearly 8,000 jobs with AI.  Krishna noted that back-office functions, specifically in the human resources (HR) sector,"
-    publishedDateTime: 2023-05-05T15:40:00Z
-    webUrl: "https://www.benzinga.com/startups/23/05/32242532/ibm-plans-to-replace-nearly-8-000-jobs-with-ai-these-jobs-are-first-to-go-startup"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32242532"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32242532"
+  - title: "Google Is Using AI to Make Hearing Aids More Personalized"
+    excerpt: "A new partnership between Google and an Australian hearing coalition is using machine intelligence to improve the customizability of hearing aids and cochlear implants."
+    publishedDateTime: 2023-05-07T11:00:00Z
+    webUrl: "https://www.wired.com/story/cochlear-and-google-hearing-technology-coalition/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 37
-  - title: "IBM eyes hiring pause because AI does the job"
-    excerpt: "Non-customer-facing roles may see a 30 percent cut in workforce, replaced by AI and automation, Arvind Krishna said."
-    publishedDateTime: 2023-05-04T12:07:00Z
-    webUrl: "https://www.astroawani.com/berita-english/ibm-eyes-hiring-pause-because-ai-does-job-418087"
-    type: article
-    provider:
-      name: Astro Awani
-      domain: astroawani.com
-    quality: 19
+      name: Wired
+      domain: wired.com
+    quality: 67
+    images:
+      - url: "https://media.wired.com/photos/6455349e6279e36472844413/191:100/w_1280,c_limit/Cochlear-and-Google-Partner-to-Improve-Hearing-Technology-Gear.jpg"
+        width: 1280
+        height: 670
+        isCached: true
 
 secured: "Y/ubgQGqH2VCrPj7G0FlsIIAU/bpEPLPFsjGsvcltXagNhXTJXqEY4OhGW7RFXD+oRCQgEzxQ0W9NNqsk6NF5SmKzZz84lhtRlqt/XrsNDzMBk4s1fCMxFp9Vv5jLmcdIWEpVljlhxk3K2aQi5Bz1AmP3rWuqOcYVd3RXKHKw9XOiSfAQqQ/827RF0eIR2l+mt9gsW4khEU4kZVmWNaPKV2x5+piicvqshtHsg5aHKBTl2xbFdCrtuTc2BOr3Kps4BasYjSvQe5yVquQBW1bS5KcdebsKhIgP6vKadY9CuNB/wgsI0zY6gQjJqninsBdqBMHaf6ZMfgMcSaZpPqMycJ4pW73jVP9o1HK4qlLmI0=;mzYXDfISJq5Jw1LMs9EVIw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/hugging-face-and-servicenow-open-up-gener
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/hugging-face-and-servicenow-open-up-generative-ai-for-coding-with-starcoder/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "How generative AI is building better antibodies"
+    excerpt: "Language models similar to those behind ChatGPT have been used to improve antibody therapies against COVID-19, Ebola and other viruses."
+    publishedDateTime: 2023-05-04T23:00:00Z
+    webUrl: "https://www.nature.com/articles/d41586-023-01516-w"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 37
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-01516-w/d41586-023-01516-w_25313644.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "ServiceNow and Hugging Face release open-source AI model for generating code"
     excerpt: "The companies claim that StarCoder is the most advanced model of its kind in the open-source ecosystem. It was developed through a research project that ServiceNow and Hugging Face launched last year."
     publishedDateTime: 2023-05-04T22:53:00Z

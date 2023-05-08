@@ -33,15 +33,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "LinkedIn & DeepMind Co-founders Launch Emotional AI Chatbot, Pi by Inflection AI"
-    excerpt: "Inflection AI, created by LinkedIn and DeepMind founders, introduces Pi, a chatbot with emotional intelligence and human-like conversations."
-    publishedDateTime: 2023-05-03T15:52:00Z
-    webUrl: "https://yourstory.com/2023/05/inflection-ai-pi-chatbot-linkedin-deepmind-founders"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 29
 
 secured: "oXcFbQjp1VmsGUIzZjNFDkLnBF+RcQQuk/1XHxuSNUQVMouHjANNBqWKqrD2XxLm+dvnbqO7476HDS28EM25oAMu5TeINnCbdk5ukAykp4nGT8UpmELadvEEbgYZw2oFHZwO49qb4R9V5vvU2B6NRUWhJg+bc5IduWt3J3t52xF8Z2qzhImPQH6zg1Bu0MfNPhEVp7IUrB4p6GMvyikkVKlRg4fhLUL/urX4K3Fhvnp3H2O6ajnLCW03nN7Pp7iJN90ulaH8s9fAI1a1WsYdT/1kW8sy2M7It7zaXYIUJmKZFfXJWp/yNsI0hCqDsqh0RgX8tfEh61QVxuLPFsc5s/MWRCQKDnyJesEKcTaX4Q21DBkRTlTcmYkNtJFx+MTOFQUVRDm7p5YMAnMNUu6H/tsXG85aqAuiDUIe8mrIeWmQazwsMzkBJZoknBLw7yg0Kpq7FuO/Z8oHxvsliminG+eP81uCqDGvaBHHcwgSagvKJ+Iu0xga4morcnEGTAtR6lKmVYGWShmc2lnxFJF0JQ==;Wxz0kqzUM+oeWzXWMkzbBQ=="
 ---

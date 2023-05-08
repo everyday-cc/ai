@@ -30,38 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
-    excerpt: "Here's a guide to help understand Open AI's viral text-generating system. We outline the most recent updates and answer the most common FAQs."
-    publishedDateTime: 2023-05-03T16:45:00Z
-    webUrl: "https://techcrunch.com/2023/05/03/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/"
-    ampWebUrl: "https://techcrunch.com/2023/05/03/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/03/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
-        width: 1200
-        height: 798
-        isCached: true
-  - title: "AI-Powered Characters Changing The Game"
-    excerpt: "Gamers have been clamoring for better non-player characters for years, and the arrival of conversational AI may finally provide the computing superpower to make it possible."
-    publishedDateTime: 2023-05-04T10:00:00Z
-    webUrl: "https://www.forbes.com/sites/charliefink/2023/05/04/ai-powered-characters-changing-the-game/"
-    ampWebUrl: "https://www.forbes.com/sites/charliefink/2023/05/04/ai-powered-characters-changing-the-game/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/05/04/ai-powered-characters-changing-the-game/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64534a81ed2c825a139c02fa/0x0.jpg?format=jpg&width=1200"
-        width: 961
-        height: 856
-        isCached: true
   - title: "ChatGPT and Generative AI: Our Guide to 2023's Most Talked-About Technology"
     excerpt: "ChatGPT brought generative AI into the limelight when it hit 1 million users in five days. But how valid is the buzz around ChatGPT?"
     publishedDateTime: 2023-05-04T16:00:00Z
@@ -78,97 +46,21 @@ related:
         width: 470
         height: 352
         isCached: true
-  - title: "These robot dogs can't bark — but they can speak in full sentences thanks to ChatGPT"
-    excerpt: "Boston Dynamics' robot dogs can now verbally respond in \"plain English\" when asked to describe their previous and future tasks."
-    publishedDateTime: 2023-05-04T08:00:00Z
-    webUrl: "https://www.businessinsider.com/boston-dynamics-robot-dogs-can-speak-full-sentecnes-ai-chatgpt-2023-5"
-    ampWebUrl: "https://www.businessinsider.com/boston-dynamics-robot-dogs-can-speak-full-sentecnes-ai-chatgpt-2023-5?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/boston-dynamics-robot-dogs-can-speak-full-sentecnes-ai-chatgpt-2023-5?amp"
+  - title: "ChatGPT and Generative AI Around the World: Maturity, Opportunities, and Hurdles in Key Regions"
+    excerpt: "ChatGPT has received a lot of press since its November 2022 launch. But while interest in the tool is high, its use is not yet universal."
+    publishedDateTime: 2023-05-05T17:00:00Z
+    webUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-around-the-world-opportunities-key-hurdles-2023-may"
+    ampWebUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-around-the-world-opportunities-key-hurdles-2023-may?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-and-generative-ai-around-the-world-opportunities-key-hurdles-2023-may?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 82
+    quality: 75
     images:
-      - url: "https://i.insider.com/6452919af6389a0018ef54d5?width=1200&format=jpeg"
+      - url: "https://i.insider.com/6441b16a3f6f690018debe44?width=1200&format=jpeg"
         width: 1200
-        height: 600
-        isCached: true
-  - title: "ChatGPT and the new AI are wreaking havoc on cybersecurity in exciting and frightening ways"
-    excerpt: "Unrestrained by ethics or law, cybercriminals are racing to use AI to find innovative new hacks, says Recorded Future CEO Christopher Ahlberg."
-    publishedDateTime: 2023-05-08T00:09:00Z
-    webUrl: "https://www.zdnet.com/article/chatgpt-and-the-new-ai-are-wreaking-havoc-on-cybersecurity/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/chatgpt-and-the-new-ai-are-wreaking-havoc-on-cybersecurity/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chatgpt-and-the-new-ai-are-wreaking-havoc-on-cybersecurity/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 77
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/0f069f7582c82f625117f92909ccd4f7bb840cdf/2023/05/07/0c2625f3-8f61-483b-8cbb-b39dfadd09fe/alhberg-recorded-future.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Google Reportedly Upgrading Search With AI Chatbot, TikTok Videos"
-    excerpt: "According to the Wall Street Journal, the search engine is planning to add AI prompts that will pop up in response to queries that can’t be easily answered by traditional web results, as well as swipe-through video clips."
-    publishedDateTime: 2023-05-06T17:17:00Z
-    webUrl: "https://www.pcmag.com/news/google-reportedly-upgrading-search-with-ai-chatbot-tiktok-videos"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/01rDZGzDgqaHe7cTh5kJj9Z-1.fit_lim.size_1200x630.v1683393323.jpg"
-        width: 945
-        height: 630
-        isCached: true
-  - title: "Beware the AI Scams: Meta Blocks 1,000+ Links Tied to ChatGPT-Themed Malware"
-    excerpt: "Hackers pounced on ChatGPT's popularity to create malware posing as OpenAI's chatbot, and then circulated links to it on Facebook, many to dangerous browser extensions."
-    publishedDateTime: 2023-05-03T17:31:00Z
-    webUrl: "https://www.pcmag.com/news/beware-ai-scams-meta-blocks-1000-plus-links-tied-to-chatgpt-themed-malware"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 64
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/03Nuq1pc0GAzFeP4dTeYrAt-1.fit_lim.size_1200x630.v1683131377.jpg"
-        width: 1120
-        height: 630
-        isCached: true
-  - title: "Man v machine: everything you need to know about AI"
-    excerpt: "As systems become more capable – and ubiquitous – should we be worrying about what the future holds for humans in a ‘robot’ world?"
-    publishedDateTime: 2023-05-06T15:20:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/may/06/man-v-machine-everything-you-need-to-know-about-ai"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/06/man-v-machine-everything-you-need-to-know-about-ai"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/06/man-v-machine-everything-you-need-to-know-about-ai"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/9127fb3fdc623596d2c3da48be625ee17222c275/0_151_4500_2701/master/4500.jpg?width=620&quality=85&auto=format&fit=max&s=6571ea48a2c8e68b192e158449621bd0"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "Explained | What is the EU’s Artificial Intelligence Act and how does it plan to rein in tech like ChatGPT?"
-    excerpt: "As artificial intelligence technologies become omnipresent and their algorithms more advanced—capable of performing a wide variety of tasks including voice assistance, recommending music, driving cars, detecting cancer, and even deciding whether you get shortlisted for a job— the risks and uncertainties associated with them have also ballooned."
-    publishedDateTime: 2023-05-03T17:13:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/explained-what-is-the-eus-artificial-intelligence-act-and-how-does-it-plan-to-rein-in-tech-like-chatgpt/article66794478.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/explained-what-is-the-eus-artificial-intelligence-act-and-how-does-it-plan-to-rein-in-tech-like-chatgpt/article66794478.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/explained-what-is-the-eus-artificial-intelligence-act-and-how-does-it-plan-to-rein-in-tech-like-chatgpt/article66794478.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 56
-    images:
-      - url: "https://th-i.thgim.com/public/incoming/n82nfe/article66809441.ece/alternates/FREE_1200/iStock-1474442258.jpg"
-        width: 1200
-        height: 675
+        height: 900
         isCached: true
   - title: "Screenwriters take aim at artificial intelligence, ChatGPT"
     excerpt: "Not six months since the release of ChatGPT, generative artificial intelligence is already prompting widespread unease throughout Hollywood. Concern over chatbots writing or rewriting scripts is one of the reasons TV and film screenwriters took to picket lines earlier this week."
@@ -183,22 +75,6 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/04465331-5204-49cb-8f02-71d5ec64e61c_poster.jpg?quality=10"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "AI startup Inflection Started by Hoffman and Suleyman, Introduces ChatGPT-like Chatbot"
-    excerpt: "An artificial intelligence startup Inflection AI, started by Reid Hoffman and Mustafa Suleyman, has launched its first AI chatbot product."
-    publishedDateTime: 2023-05-05T14:03:00Z
-    webUrl: "https://enterprisetalk.com/quick-bytes/ai-startup-inflection-started-by-hoffman-and-suleyman-introduces-chatgpt-like-chatbot/"
-    ampWebUrl: "https://enterprisetalk.com/quick-bytes/ai-startup-inflection-started-by-hoffman-and-suleyman-introduces-chatgpt-like-chatbot/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/ai-startup-inflection-started-by-hoffman-and-suleyman-introduces-chatgpt-like-chatbot/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 49
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2023/05/AI-startup-Inflection-Started-by-Hoffman-and-Suleyman-Introduces.jpg"
-        width: 1500
-        height: 844
         isCached: true
   - title: "10 ways ChatGPT and generative AI can strengthen zero trust"
     excerpt: "ChatGPT and generative AI are already helping strengthen zero trust cybersecurity. Here are 10 ways it's doing so now or will soon."
@@ -218,119 +94,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 47
-  - title: "Forget ChatGPT. These Are the Best AI-Powered Apps."
-    excerpt: "Chat features built into Duolingo, Expedia and others can be more useful than ask-me-anything bots."
-    publishedDateTime: 2023-05-07T12:00:00Z
-    webUrl: "https://www.wsj.com/articles/forget-chatgpt-these-are-the-best-ai-powered-apps-d927d0bf"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 47
-  - title: "Gartner: ChatGPT has prompted increase in AI investments"
-    excerpt: "A Gartner poll shows that 45% reported that the publicity of ChatGPT has prompted them to increase AI investments."
-    publishedDateTime: 2023-05-07T23:30:00Z
-    webUrl: "https://techwireasia.com/2023/05/gartner-chatgpt-has-prompted-increase-in-ai-investments/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 39
-    images:
-      - url: "https://cdn.techwireasia.com/wp-content/uploads/2023/05/shutterstock_2261871805-897x500.jpg"
-        width: 897
-        height: 500
-        isCached: true
-  - title: "AI startup inflection launches ChatGPT style chatbot"
-    excerpt: "Another similar chatbot called Pi has been recently launched by an AI startup called Inflection. The AI development firm was founded by LinkedIn cofounder Reid Hoffman and Google DeepMind co-founder Mustafa Suleyman last year in March."
-    publishedDateTime: 2023-05-03T23:06:00Z
-    webUrl: "https://techstory.in/ai-startup-inflection-launches-pi/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 37
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2023/05/bitcoin-3137984_960_720-360x240.jpg"
-        width: 360
-        height: 240
-        isCached: true
-  - title: "Could AI pen ‘Casablanca’? Screenwriters take aim at ChatGPT"
-    excerpt: "Not six months since the release of ChatGPT, generative artificial intelligence is already prompting widespread unease throughout Hollywood."
-    publishedDateTime: 2023-05-05T13:45:00Z
-    webUrl: "https://www.seattletimes.com/business/could-ai-pen-casablanca-screenwriters-take-aim-at-chatgpt/"
-    ampWebUrl: "https://www.seattletimes.com/business/could-ai-pen-casablanca-screenwriters-take-aim-at-chatgpt/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/could-ai-pen-casablanca-screenwriters-take-aim-at-chatgpt/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 37
-  - title: "AI ChatGPT creates rap for Warriors vs. Lakers playoffs"
-    excerpt: "ChatGPT is what most people are either talking about most of these days or even experimenting with. The KPIX morning team tested the feature by getting AI to become a Warriors fan. (05/05/2023)"
-    publishedDateTime: 2023-05-05T19:42:00Z
-    webUrl: "https://www.cbsnews.com/sanfrancisco/video/ai-chatgpt-creates-rap-for-warriors-vs-lakers-playoffs/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 37
-    images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/05/05/5bbac4b0-a433-4855-bdf9-7b9c0bdeab1a/thumbnail/1200x630/fbafe097c79e45cf7a745903b439427a/df287121c4263b21552fa7ddab43f411.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Could AI pen 'Casablanca'? Screenwriters take aim at ChatGPT"
-    excerpt: "When Greg Brockman, the president and co-founder of ChatGPT maker OpenAI, was recently extolling the capabilities of artificial intelligence, he turned to “Game of Thrones.” Imagine, he said, if you could use AI to rewrite the ending of that not-so-popular finale."
-    publishedDateTime: 2023-05-05T17:46:00Z
-    webUrl: "https://www.chron.com/entertainment/article/could-ai-pen-casablanca-screenwriters-take-aim-18081098.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 37
-    images:
-      - url: "https://s.hdnux.com/photos/01/32/60/06/23790004/3/rawImage.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
-  - title: "Tim Cook Responds to Rise of ChatGPT, Says AI's Potential is 'Very Interesting'"
-    excerpt: "Apple CEO Tim Cook today provided some commentary surrounding artificial intelligence amid the surging popularity of ChatGPT and other chatbots."
-    publishedDateTime: 2023-05-04T22:19:00Z
-    webUrl: "https://www.macrumors.com/2023/05/04/tim-cook-says-ai-potential-is-very-interesting/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 33
-    images:
-      - url: "https://images.macrumors.com/t/pzKIprG8tHcRzLmSJb7EVvATZPs=/1600x/article-new/2023/05/Tim-Cook-WWDC-Stage.jpeg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "'ChatGPT is the new crypto': Meta warns hackers are exploiting interest in the AI chatbot"
-    excerpt: "Hackers have seized on worldwide interest in the artificial intelligence-powered tool ChatGPT in an effort to break into people's devices, Facebook owner Meta revealed ... to provide AI functionality.\" \"Our research and that of security researchers has ..."
-    publishedDateTime: 2023-05-03T20:31:00Z
-    webUrl: "https://dailyprogress.com/business/technology/chatgpt-is-the-new-crypto-meta-warns-hackers-are-exploiting-interest-in-the-ai-chatbot/article_cefdb746-cf13-5036-b6bf-f9d8f50911b9.html"
-    type: article
-    provider:
-      name: The Daily Progress
-      domain: dailyprogress.com
-    quality: 30
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/dailyprogress.com/content/tncms/assets/v3/editorial/c/aa/caacae9d-25ba-5538-9e77-6244efebab37/6452be43f210c.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Google shared AI knowledge with the world — until ChatGPT caught up"
-    excerpt: "In op-eds, podcasts and TV appearances, Google CEO Sundar Pichai has urged caution on AI. \"On a societal scale, it can cause a lot of harm,\" he warned on \"60 Minutes\" in April, describing how the technology could supercharge the creation of fake images and videos."
-    publishedDateTime: 2023-05-04T15:36:00Z
-    webUrl: "https://www.detroitnews.com/story/business/2023/05/04/google-shared-ai-knowledge-with-the-world-until-chatgpt-caught-up/70183544007/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 19
 
 secured: "3iLi/hdwvxUThpJibi7X1b+sr51VGGtUpKGMf1l7i1uedoK44QcDbnZP9FYSNxTjHBKsrYrLSgOZf7iFesz2/f7wNy4L+QU6wcI/l9F8wFYxS810dxs7n/4hzv3bwUeXZQOTFI6CKUQjRPKfNfXdZO4mB4zUPwTc1JOBTsl/rChpJUqDnYoKA8sW0/5QoURaUUOlD4EkVP4AZN3p7J5MtSHYaeTjBB4oPbPdJ271zYNmE/Ntwzr/Z5tXC1/8Fx/MT6kAFbviT2yNaMvGu/oTqOsGqRNb6O8vrar/kUgQZSZ7AcmH9pAgLy79cBavjW6Fnv/aZm0Lduulci9FhHDy3tEP4zxWTLuHXj2fc19QkjQ=;lbdMXSTgKyUih3y77dlemQ=="
 ---
