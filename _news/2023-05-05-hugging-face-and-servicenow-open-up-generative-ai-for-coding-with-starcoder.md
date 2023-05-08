@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/hugging-face-and-servicenow-open-up-gener
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/hugging-face-and-servicenow-open-up-generative-ai-for-coding-with-starcoder/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -31,6 +31,15 @@ images:
     isCached: true
 
 related:
+  - title: "Taming Generative AI with Model Governance"
+    excerpt: "This story was produced by WIRED Brand Lab for PwC. WIRED is where tomorrow is realized. It is the essential source of information and ideas that make sense of a world in constant transformation. The WIRED conversation illuminates how technology is changing every aspect of our lives—from culture to business,"
+    publishedDateTime: 2023-05-08T13:01:00Z
+    webUrl: "https://www.wired.com/sponsored/story/taming-generative-ai-with-model-governance/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 51
   - title: "How generative AI is building better antibodies"
     excerpt: "Language models similar to those behind ChatGPT have been used to improve antibody therapies against COVID-19, Ebola and other viruses."
     publishedDateTime: 2023-05-04T23:00:00Z

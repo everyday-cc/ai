@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/05/04/box-introduces-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/05/04/box-introduces-box-ai-to-bring-the-power-of-ai-to-enterprise-content/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 468
     height: 263
     isCached: true
-
-related:
-  - title: "Centene Makeover Continues As Health Insurer Divests Artificial Intelligence Platform"
-    excerpt: "Centene will divest Apixio, an artificial intelligence platform, as the health insurer focuses on its health benefits business and continues to review its portfolio."
-    publishedDateTime: 2023-05-04T00:01:00Z
-    webUrl: "https://www.forbes.com/sites/brucejapsen/2023/05/03/centene-makeover-continues-as-health-insurer-divests-artificial-intelligence-platform/"
-    ampWebUrl: "https://www.forbes.com/sites/brucejapsen/2023/05/03/centene-makeover-continues-as-health-insurer-divests-artificial-intelligence-platform/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucejapsen/2023/05/03/centene-makeover-continues-as-health-insurer-divests-artificial-intelligence-platform/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 82
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5dca0d42f5b54ee0b18a87a03661ea94/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 765
-        isCached: true
 
 secured: "8hiN/fdVuKpNGv+vl9Mx37HDrRkq4hQ27ahHTY7wGViPA9VkuVshmIQEXS/R4QfpIhBvpB2cc/2pz4mnaJv7cyW7ccAP55smr82sCJ+uxAbMSmFHSfnBJWpGr/iC9OEbj3t0NuWf2hVg8Brp/6PGhFNyKdDsf4By64i+J6qr8xym4O2+3GazjlGmCDu3zTrB6NEr1bMVO7ZGv8ezM1TVzZKrO4/VA84FnekJIZiHJrNABkjd6umko133pdtmHg4sDe5v2dN7dIDmwQclt924ZePveFc14keqJbnZKan58FfJip8FWRcCeB/fjjUoOx29w5N819v7x4Tqn6R6NHph7xYBTMi0GZJCmQN1kDWp5/5xFBVcJgn+4gYQlf7YNx23vzwnTmArDeH9Zw1swalpdUEK0JYePLTAMEO7k2nfDG/Zd3i8gSkWubc1kC8P5nz903i2AqqjisSHEAGJFa4wn35HT6Mcx4wv3XMnNR8b/3DC474MDBtkJIi9iPSWaNjKK0xb5Lj67Gl7W70SeizK5A==;Rp3yOiNRAPxq7AHOBTdGYA=="
 ---

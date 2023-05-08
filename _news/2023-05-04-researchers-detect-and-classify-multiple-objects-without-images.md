@@ -2,33 +2,23 @@
 category: news
 title: "Researchers detect and classify multiple objects without images"
 excerpt: "Researchers have developed a new high-speed way to detect the location, size and category of multiple objects without acquiring images or requiring complex scene reconstruction. Because the new approach greatly decreases the computing power necessary for object detection,"
-publishedDateTime: 2023-05-03T19:18:00Z
-originalUrl: "https://phys.org/news/2023-05-multiple-images.html"
-webUrl: "https://phys.org/news/2023-05-multiple-images.html"
+publishedDateTime: 2023-05-04T00:52:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2023/05/230503121252.htm"
+webUrl: "https://www.sciencedaily.com/releases/2023/05/230503121252.htm"
 type: article
-quality: 4
-heat: 4
-published: false
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
-related:
-  - title: "High-Speed Way to Detect Location, Size, and Category of Multiple Objects"
-    excerpt: "A new high-speed method to detect the size, location, and category of several objects has been developed by scientists. This is done without needing images or requiring complicated scene reconstruction."
-    publishedDateTime: 2023-05-04T13:02:00Z
-    webUrl: "https://www.azooptics.com/News.aspx?newsID=28282"
-    type: article
-    provider:
-      name: AZoOptics
-      domain: azooptics.com
-    quality: 3
-
-secured: "/CeECG6rAlwuIXTs1A1XMafE+TEp6A1yQYmbubHkOqkIDMS5ooldQj4AD65U8Px6XHTyLTiim9cu8sD1B2hdNtmJbOINYFiiVRcdmBOetDqmBsmz2fxzNK0sSp8HdObtjS/nIVXrdfCkhKTFWIphtAo2iVDzswySYgicMQ0LrBf0/U7E1yGjy25ePELfN3/s13THJ4ZNVyUEVVQbQUVm0jefKnA4o4sgyuuzzcZRIEy9waW/w8hFUnSNyGqWpoQ2hwW++fICoVwOCeLiLRzHGmZbv2X4h1UieLs9TFHmXIf75COJIFyVhe68W6nylllchhfT1f7hZghXf4k52EMaWBadSlkqdofkz+e9mG87Rn2sPqqKlQ1OGXBHKGM33mnyUtz7Fb6ubDKyWj6dBs5SFtQU7IY6hCkj9VD4v9fH1tNdnzHb8Y4+T1Ia3fgdz7OkvzECqSui9Q4dWBu8zdMjd+QyiXC0WHKXa5dRlhQG/Idlq0QMsZ46TO+NNPUr9As2p+LT7gDDFNDCuQgv8CFDPQ==;LPu502p9wzMyLQFR35mH6A=="
+secured: "HrpTTj6SiOM8H16FFumQDnrrjI1BhzC/mL6dOLHCzg5DGG0VhXxYqP3KXBfhVLwEnmjPTCfymqtcvqqJ6/BJ+/tIEUQqmyYIg2DwX9ehbhXMlArDVeuYnIPomggGlerJwbG99BFj476dZdL2EW4i8JtPZXE7BOZC6rwYHShpadyCqGQ61tvwbIY1pF5KLLgd88RQbaff1bDpOXttAjEFl64TUdApBwrYC0wzxDXSCACfNbwWRZgWcyQPM54ylCWWCn4hru35ailFKKPHxS+beKWWAHTJJ90O7yMidwRrohaqLPMZB5psYkIDg1Z5S3EA0USAPDSOoWIFnNf8j/qe/bAM4yjT+KRNz8/i2OUhNi0=;NE6Yfrai54mr9LkX2ZVybQ=="
 ---
 

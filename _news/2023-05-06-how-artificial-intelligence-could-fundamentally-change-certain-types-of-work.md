@@ -43,6 +43,22 @@ related:
         width: 1300
         height: 708
         isCached: true
+  - title: "White House challenges hackers to break top AI models at DEF CON 31"
+    excerpt: "On Thursday, the White House announced a surprising collaboration between top AI developers, including OpenAI, Google, Antrhopic, Hugging Face, Microsoft, Nvidia, and Stability AI, to participate in a public evaluation of their generative AI systems at DEF CON 31,"
+    publishedDateTime: 2023-05-08T16:42:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/05/white-house-challenges-hackers-to-break-top-ai-models-at-def-con-31/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/05/white-house-challenges-hackers-to-break-top-ai-models-at-def-con-31/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/05/white-house-challenges-hackers-to-break-top-ai-models-at-def-con-31/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 87
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/05/cyber_whitehouse_hero_2-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "How Generative AI Is Changing Work"
     excerpt: "Customer Service Jobs"
     publishedDateTime: 2023-05-08T13:16:00Z

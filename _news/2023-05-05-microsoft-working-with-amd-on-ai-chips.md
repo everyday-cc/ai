@@ -312,6 +312,20 @@ related:
         width: 472
         height: 315
         isCached: true
+  - title: "Microsoft Rebuts Allegations Of AI Chip Collaboration With AMD, Should NVIDIA Worry?"
+    excerpt: "People who are supposedly knowledgeable about the situation say Microsoft and AMD have teamed up to design AI chips to rival NVIDIA's product offerings."
+    publishedDateTime: 2023-05-08T15:35:00Z
+    webUrl: "https://hothardware.com/news/microsoft-rebuts-allegations-ai-chip-collaboration-amd"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 64
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/61562/content/Microsoft_Processor_Hero.jpg"
+        width: 708
+        height: 398
+        isCached: true
   - title: "Microsoft and AMD are reportedly teaming up to combat Nvidia’s AI dominance"
     excerpt: "Although Microsoft uses \" tens of thousands \" of Nvidia GPUs in its Azure data centers, Bloomberg reports that the company is also working with AMD to improve the AI capabilities of its GPUs. Although extremely light on details,"
     publishedDateTime: 2023-05-05T18:16:00Z

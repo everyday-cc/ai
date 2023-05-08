@@ -74,15 +74,6 @@ related:
       name: Interesting Engineering
       domain: interestingengineering.com
     quality: 27
-  - title: "AI could run a million microbial experiments per year"
-    excerpt: "An artificial intelligence system enables robots to conduct autonomous scientific experiments—as many as 10,000 per day—potentially driving a drastic leap forward in the pace of discovery in areas from medicine to agriculture to environmental science."
-    publishedDateTime: 2023-05-04T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/988308"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 19
   - title: "AI could run a million microbial experiments per year, says study"
     excerpt: "An artificial intelligence system enables robots to conduct autonomous scientific experiments—as many as 10,000 per day—potentially driving a drastic leap forward in the pace of discovery in areas from medicine to agriculture to environmental science."
     publishedDateTime: 2023-05-04T19:22:00Z

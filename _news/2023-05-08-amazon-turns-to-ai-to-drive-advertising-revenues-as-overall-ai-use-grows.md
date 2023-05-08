@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/walterloeb/2023/05/08/amazon-turns-to-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/walterloeb/2023/05/08/amazon-turns-to-ai-to-drive-advertising-revenues-as-overall-ai-use-grows/amp/"
 type: article
 quality: 86
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 541
     isCached: true
+
+related:
+  - title: "ChatGPT and Generative AI in Media and Advertising: With Use Cases Set, the Battle for Hearts and Minds Begins"
+    excerpt: "Generative AI can already do much of the work and low-skilled labor that powers modern media and advertising."
+    publishedDateTime: 2023-05-08T17:01:00Z
+    webUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-media-and-advertising-battle-use-cases-2023-may"
+    ampWebUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-media-and-advertising-battle-use-cases-2023-may?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-and-generative-ai-media-and-advertising-battle-use-cases-2023-may?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
+    images:
+      - url: "https://i.insider.com/64402b373f6f690018de8d48?width=1200&format=jpeg"
+        width: 470
+        height: 352
+        isCached: true
 
 secured: "9IfJFX+dMkwPqEmR/vA2ptYhQYl0z+0JwpabhWqGdoobk7C/0HQXeioB49Hf0J7T1sPVGp6YkI8m+UbgJ6yuWVzqb+Ywsb0infTkMIFkC4EcwZq4x8aDpdEGdzePqQ68fXhN59OeSormc0yHpU0+9AgDFwnkKcfr8SjHZwKfUE1nIVjeSgIEnAWjgTG4NFdrhi4J57YsAIE7rB2rk4MVRHTnPzm0U7v75EEaevxBGPF9yo1fEXDlNn+aa8WkaZHDJdhGjo+lneHi94+vfKDn0n1ytr8AR3myw7ys95C7PNUXvyvlKFt69kPfhvYt7rWyn2xyiOLUc78qbzkSjX1txXbeokclMUuDMhYSvgN+cRg=;Ehky5XKxP+fMWBM5P0lFDA=="
 ---

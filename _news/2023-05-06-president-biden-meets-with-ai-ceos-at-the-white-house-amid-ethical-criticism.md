@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/05/critics-take-
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/05/critics-take-aim-at-bidens-ai-meeting-with-ceos-from-google-openai-microsoft/amp/"
 type: article
 quality: 101
-heat: 251
+heat: 261
 published: true
 
 provider:
@@ -152,6 +152,22 @@ related:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/kamala-harris-ap22131652890528.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Biden, Harris meet with CEOs about AI risks"
+    excerpt: "Vice President Kamala Harris has met with the heads of Google, Microsoft and two other companies developing artificial intelligence WASHINGTON -- Vice President Kamala Harris met on Thursday with ..."
+    publishedDateTime: 2023-05-06T03:36:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/harris-meet-ceos-artificial-intelligence-risks-99068989"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/harris-meet-ceos-artificial-intelligence-risks-99068989"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/harris-meet-ceos-artificial-intelligence-risks-99068989"
+    type: article
+    provider:
+      name: ABC News
+      domain: abcnews.go.com
+    quality: 57
+    images:
+      - url: "https://s.abcnews.com/images/Politics/wirestory_578d623e473b0eeb3fa3e4728d7e9868_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Harris to meet with CEOs about artificial intelligence risks"
     excerpt: "Vice President Kamala Harris will meet with the CEOs of four major companies developing artificial intelligence. The Biden administration is rolling out initiatives meant to ensure the rapidly evolvin"

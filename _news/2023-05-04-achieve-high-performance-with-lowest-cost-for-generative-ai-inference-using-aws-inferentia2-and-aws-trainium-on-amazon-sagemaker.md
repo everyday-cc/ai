@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Host ML models on Amazon SageMaker using Triton: TensorRT models"
+    excerpt: "Sometimes it can be very beneficial to use tools such as compilers that can modify and compile your models for optimal inference performance. In this post, we explore TensorRT and how to use it with Amazon SageMaker inference using NVIDIA Triton Inference Server. We explore how TensorRT works and how"
+    publishedDateTime: 2023-05-08T17:04:28Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/host-ml-models-on-amazon-sagemaker-using-triton-tensorrt-models/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 106
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/08/host-ml-models-triton-tensorrt-1260x630.jpg"
+        width: 1260
+        height: 630
+        isCached: true
   - title: "Get started with generative AI on AWS using Amazon SageMaker JumpStart"
     excerpt: "Generative AI is gaining a lot of public attention at present, with talk around products such as GPT4, ChatGPT, DALL-E2, Bard, and many other AI technologies. Many customers have been asking for more information on AWS’s generative AI solutions. The aim of this post is to address those needs. This post"
     publishedDateTime: 2023-05-04T18:11:40Z
@@ -38,24 +52,20 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 99
-  - title: "Taming Generative AI with Model Governance"
-    excerpt: "This story was produced by WIRED Brand Lab for PwC. WIRED is where tomorrow is realized. It is the essential source of information and ideas that make sense of a world in constant transformation. The WIRED conversation illuminates how technology is changing every aspect of our lives—from culture to business,"
-    publishedDateTime: 2023-05-08T13:01:00Z
-    webUrl: "https://www.wired.com/sponsored/story/taming-generative-ai-with-model-governance/"
+  - title: "Create high-quality datasets with Amazon SageMaker Ground Truth and FiftyOne"
+    excerpt: "This is a joint post co-written by AWS and Voxel51. Voxel51 is the company behind FiftyOne, the open-source toolkit for building high-quality datasets and computer vision models. A retail company is building a mobile app to help customers buy clothes. To create this app, they need a high-quality dataset"
+    publishedDateTime: 2023-05-05T16:37:15Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/create-high-quality-datasets-with-amazon-sagemaker-ground-truth-and-fiftyone/"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 51
-  - title: "System Shock publisher faces anger for using AI-generated artwork, says it wanted to start a conversation"
-    excerpt: "A Twitter post on the official System Shock remake account included an image of Shodan created by Midjourney, along with the words \"designed by an immortal"
-    publishedDateTime: 2023-05-05T11:15:00Z
-    webUrl: "https://www.techspot.com/news/98575-system-shock-remake-publisher-faces-anger-using-ai.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 30
+      name: AWS
+      domain: aws.amazon.com
+    quality: 86
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/05/create-high-quality-datasets.jpg"
+        width: 959
+        height: 477
+        isCached: true
 
 secured: "s8wTm0Z7JceNVx7d5hyZIzxZMiER0y9cCpxh+5nbF+SNLRvG6QZPgMrJj+zHgfgnTkBHkuC1L8GqqgnDfux/9OuidJ1A+JXKxYijLHStwHEkX+L4CoJfgodE1XNoLcr7j/tT0OpEPz83AT7GhRPFVJoqiWydT27RR1wYD3s2wLlbYEkiT7hu7ulRJf04xUE6pzRkLbGyuebxTfzxatMBD1O36FZIDmyBtGoIc/E9xvV68cdVgEaWw06iEqq4HqgoJ7y5xSlj3V14zM0pQWGL+CDwAQI/J8mEK4nXU2VKCHdG276lhK82bOcMy91YqJ28EuwoVR/E+jnyKUuvJeaq558eGY8n+Xxbazm2ay1janA=;gbIrw1q5vU1s1tKslJnvmg=="
 ---

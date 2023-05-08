@@ -6,8 +6,8 @@ publishedDateTime: 2023-05-08T08:23:00Z
 originalUrl: "https://www.marketwatch.com/press-release/start-ai-sai-is-now-available-for-trading-on-lbank-exchange-2023-05-08"
 webUrl: "https://www.marketwatch.com/press-release/start-ai-sai-is-now-available-for-trading-on-lbank-exchange-2023-05-08"
 type: article
-quality: 67
-heat: 67
+quality: 69
+heat: 69
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

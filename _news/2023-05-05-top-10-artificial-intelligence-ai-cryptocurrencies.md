@@ -30,14 +30,14 @@ images:
 
 related:
   - title: "IDVV Announces Artificial Intelligence (AI) Client In Medical Sector"
-    excerpt: "International Endeavors Corporation “IEC” (OTC PINK:IDVV) announced that its AI division WITech has entered into an agreement with its first client in the Medical Sector, Anti Aging & Wellness, a provider of various anti-aging"
-    publishedDateTime: 2023-05-05T15:07:00Z
-    webUrl: "https://www.sacbee.com/press-releases/article275102746.html"
+    excerpt: "LAS VEGAS, NV / ACCESSWIRE / May 5, 2023 / International Endeavors Corporation 'IEC' (OTC PINK:IDVV) announced that its AI division WITech has"
+    publishedDateTime: 2023-05-05T16:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/idvv-announces-artificial-intelligence-ai-client-in-medical-sector-1032298117"
     type: article
     provider:
-      name: Sacramento Bee
-      domain: sacbee.com
-    quality: 34
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
   - title: "The crypto-to-AI pivot was a mirage. How AI could make crypto bigger than ever"
     excerpt: "Crypto startups that used artificial intelligence have made AI their focal point—and it may help them achieve their crypto dreams."
     publishedDateTime: 2023-05-07T04:00:00Z

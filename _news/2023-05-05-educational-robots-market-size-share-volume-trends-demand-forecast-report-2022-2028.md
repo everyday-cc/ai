@@ -37,6 +37,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Face Recognition Software Market 2023 with Regional Segmentations Forecast till 2030"
+    excerpt: "The Global \"Face Recognition Software Market\" report analyzes crucial growth factors, key strategies employed by"
+    publishedDateTime: 2023-05-08T09:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-software-market-2023-with-regional-segmentations-forecast-till-2030-2023-05-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "to/EXo20V8+TiQl3x5yPlg+A49X7zp6xwvU+8nUL2PdF4yBsZJ2wnSs+doa3ogqVj7AdeHonRc1QxGctbHBytFg+qbosK1WBjiP6bNeINrAgELtKDxFSIhhDUqenpBry+RM+sWmcvcIzwg+uA+uCe0+7+bO0Et/+Pp1niSzTdfOOB4PDEf3TPCUCUkMOVHxygw+s29EyyXbB89mv4/FTCJ72Iv1boF5EjK8Un5W1IKRRvDltDSvJutnVZKpq0tsOX76J6A0z10z0x8EM7pUzHLw2AO9IWqvNSWIEAaD7xRUKqFKAtRRyGIvAdUR5gxukrOEzXp0CB364IsXttnbYGqcz0jSee0Iu3XbeUsOZ73Y=;m/EbEORrLacVPwKvqacQXg=="
 ---

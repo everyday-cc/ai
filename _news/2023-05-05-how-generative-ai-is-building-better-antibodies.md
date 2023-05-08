@@ -40,6 +40,15 @@ related:
         width: 1199
         height: 600
         isCached: true
+  - title: "Taming Generative AI with Model Governance"
+    excerpt: "This story was produced by WIRED Brand Lab for PwC. WIRED is where tomorrow is realized. It is the essential source of information and ideas that make sense of a world in constant transformation. The WIRED conversation illuminates how technology is changing every aspect of our lives—from culture to business,"
+    publishedDateTime: 2023-05-08T13:01:00Z
+    webUrl: "https://www.wired.com/sponsored/story/taming-generative-ai-with-model-governance/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 51
   - title: "ServiceNow and Hugging Face release open-source AI model for generating code"
     excerpt: "The companies claim that StarCoder is the most advanced model of its kind in the open-source ecosystem. It was developed through a research project that ServiceNow and Hugging Face launched last year."
     publishedDateTime: 2023-05-04T22:53:00Z

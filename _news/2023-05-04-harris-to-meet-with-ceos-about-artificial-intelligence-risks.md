@@ -163,6 +163,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden, Harris meet with CEOs about AI risks"
+    excerpt: "Vice President Kamala Harris has met with the heads of Google, Microsoft and two other companies developing artificial intelligence WASHINGTON -- Vice President Kamala Harris met on Thursday with ..."
+    publishedDateTime: 2023-05-06T03:36:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/harris-meet-ceos-artificial-intelligence-risks-99068989"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/harris-meet-ceos-artificial-intelligence-risks-99068989"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/harris-meet-ceos-artificial-intelligence-risks-99068989"
+    type: article
+    provider:
+      name: ABC News
+      domain: abcnews.go.com
+    quality: 57
+    images:
+      - url: "https://s.abcnews.com/images/Politics/wirestory_578d623e473b0eeb3fa3e4728d7e9868_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Harris meets with CEOs about artificial intelligence risks"
     excerpt: "Vice President Kamala Harris met with the heads of Google, Microsoft and two other companies developing artificial intelligence. The Biden administration is rolling out initiatives meant to ensure the"
     publishedDateTime: 2023-05-04T17:23:00Z

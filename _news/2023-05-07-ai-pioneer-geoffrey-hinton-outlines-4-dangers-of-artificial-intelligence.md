@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "What Really Made Geoffrey Hinton Into an AI Doomer"
+    excerpt: "The AI pioneer is alarmed by how clever the technology he helped create has become. And it all started with a joke."
+    publishedDateTime: 2023-05-08T15:18:00Z
+    webUrl: "https://www.wired.com/story/geoffrey-hinton-ai-chatgpt-dangers/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 67
+    images:
+      - url: "https://media.wired.com/photos/6458f22c4a854832b16fcf7b/191:100/w_1280,c_limit/GeoffHinton_Biz_h_15908078.jpg"
+        width: 1280
+        height: 670
+        isCached: true
   - title: "What Are The Concerns About Artificial Intelligence Raised By The Godfather Of AI Geoffrey Hinton?"
     excerpt: "Geoffrey Hinton, the Godfather of AI, has quit his job at Google to warn about the dangers of Artificial Intelligence. Check what are the 4 concerns"
     publishedDateTime: 2023-05-05T16:38:00Z
@@ -58,20 +72,6 @@ related:
       - url: "https://img.jagranjosh.com/images/2023/May/552023/ai-danger-geoffrey-hinton.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "4 dangers that most worry AI pioneer Geoffrey Hinton"
-    excerpt: "Geoffrey Hinton, a computer scientist known as the \"godfather of artificial intelligence,\" recently resigned his high-profile job at Google. Here's a look at his biggest concerns about the future of AI"
-    publishedDateTime: 2023-05-04T00:30:00Z
-    webUrl: "https://omaha.com/business/technology/4-dangers-that-most-worry-ai-pioneer-geoffrey-hinton/article_93a31fb7-1da7-558f-9fee-721c195269b4.html"
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 37
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/9/3a/93a31fb7-1da7-558f-9fee-721c195269b4/6452be8b093f4.preview.jpg?crop=1842%2C967%2C0%2C78&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "jtto5LlG6i1yfnyOrzOf4ksaNm6KJByvlk/kYxGUHUqV5t509dmLYUH2UeufRReY8lKV4wjr5azGqmwEEkJ1a6aH/yOKPNIYyGRX4PwI+zB6phEKIg8PpaOqwCOb2PV/9xW70GioVJmzNZ2WINcRLQh7YF8MaVmveDoWdqmWXr4rdC6796AXAREWmDx3xBrtXzSw7/1X/99nhhEs4r1zHwc9Zc+adE1/17H24tEPf1OqNVi628B5k7R62POQQUCLTdp/SzNGVx8ngmB5sumykOfJFYplQnncGpG30fWaM0R3535oqKzUurrObwJkHdV+CgmSVIqw++Zct6GhySqUJCWLq70YoNb0EILV2TBMkGgyEVYnqDxaOBwS9/J3W8wZ4PS0YHzoItMdX/l3OIY+2gpt6ht8eNSL6zvxWDmIapFOiQC0h1MEW4QsZ06FKvUEjzm1nIEWFcV9elZqZ87JzUhQUfmwv1FSyUj3N9yjE+YHJks+8ePnu6navO5IXuAnbhi4J90mf44yjdj1wCyS6g==;XWGLe/qazfy3Puj0La1S/Q=="

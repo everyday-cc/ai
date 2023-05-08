@@ -7,7 +7,7 @@ originalUrl: "https://www.dbta.com/Editorial/News-Flashes/IBM-and-SAP-Collaborat
 webUrl: "https://www.dbta.com/Editorial/News-Flashes/IBM-and-SAP-Collaborate-to-Power-SAPs-Digital-Assistant-with-IBM-Watson-158487.aspx"
 type: article
 quality: 18
-heat: 18
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,17 @@ provider:
 topics:
   - IBM AI
   - AI
+
+related:
+  - title: "SAP to Embed IBM Watson AI into SAP Solutions"
+    excerpt: "SAP SE announced that IBM Watson technology will be embedded into SAP solutions to provide new AI-driven insights and automation."
+    publishedDateTime: 2023-05-05T06:38:00Z
+    webUrl: "https://www.ciol.com/sap-to-embed-ibm-watson-ai-into-sap-solutions/"
+    type: article
+    provider:
+      name: CIOL
+      domain: ciol.com
+    quality: 34
 
 secured: "qTJ3pDcby3J5ePCtGm/vTPTUyc7G2cU6m12uZHa4jDOV4NU/5s3RMYR5o4Fu8a+Mk/s1eHGvqxYmI8x61jpWM6/PTzVduvAYwOMbI8PjpXzKIs15D6b+KwrCl088W9vC/tnJHZmfWguAlfATx85l+0yphvlTr43D/qXMSmI3XZYHdUKvKYQAZqG79OdieKJ7ZYvv/n9GNsizLgaHTBweKOgcinyL9RWBXcUNA5DZgKKZNXgQ6Nuxc8U3INEp1F8oCfLi7FPTevDA6shGBFDCzaX4HRkIk4AvuQ1oXRWtj38xmfXJQqxEQzXaRuonMozb37EgLHMXD6qqD0JJXYpsrOijVsb3xft2AmoMaAsIN4o=;L0Fwm3zDeTfX9wnJ60ZciQ=="
 ---

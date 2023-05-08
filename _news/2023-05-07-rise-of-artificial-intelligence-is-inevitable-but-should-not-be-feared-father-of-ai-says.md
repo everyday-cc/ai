@@ -3,8 +3,8 @@ category: news
 title: "Rise of artificial intelligence is inevitable but should not be feared, ‘father of AI’ says"
 excerpt: "Jürgen Schmidhuber believes AI will progress to the point where it surpasses human intelligence and will pay no attention to people"
 publishedDateTime: 2023-05-06T23:21:00Z
-originalUrl: "https://www.theguardian.com/technology/2023/may/07/rise-of-artificial-intelligence-is-inevitable-but-should-not-be-feared-father-of-ai-says"
-webUrl: "https://www.theguardian.com/technology/2023/may/07/rise-of-artificial-intelligence-is-inevitable-but-should-not-be-feared-father-of-ai-says"
+originalUrl: "https://www.theguardian.com/technology/2023/may/07/rise-of-artificial-intelligence-is-inevitable-but-should-not-be-feared-father-of-ai-says?ref=biztoc.com"
+webUrl: "https://www.theguardian.com/technology/2023/may/07/rise-of-artificial-intelligence-is-inevitable-but-should-not-be-feared-father-of-ai-says?ref=biztoc.com"
 ampWebUrl: "https://amp.theguardian.com/technology/2023/may/07/rise-of-artificial-intelligence-is-inevitable-but-should-not-be-feared-father-of-ai-says"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/07/rise-of-artificial-intelligence-is-inevitable-but-should-not-be-feared-father-of-ai-says"
 type: article
@@ -88,6 +88,6 @@ related:
       domain: wealthprofessional.ca
     quality: 19
 
-secured: "s+HyzMp6Nn2ZInK4UU9yN+LDEfU48phPUPkjthvnZTUwSoKgBB6hk4JvVTgjQFi4G9gfkXBN4dDJdiRYmodJE7lWk0Z7mnOxGmuVPTUzTOVvC/ikXUJ9/1yUJKLa04dauyZKOCfmW9B/G9AR87JlXl9dHM3l3EWWdbkVMlWxisrq9A/TICOUmDl68NRpmg5cDUV5pr1NWsG0EJ7UFzrBd0r/APHRB4Gwxgu6PfLBn2tMuciZR+BeKeOL2E4qlRj3iJ/OOmRFCrk9P2gJsw5SLAUrbjDbsO+RSiNyU+oEzS06AeiUsSr1VWT3158FcfVVpTpoBKfJTTKgKtIdso8Ze4wo+ZT5nA+oKd3TJW8g6VhEdHIsiuPo2RdsK5MbpZR1rRfZFdFaPhvmbEmked3fctMF2dVmgE2A3EgTMYbU8xUQ+BATTR89T7hdTR/KcJxtzas+ZQtUcJ6YJDy8M1l9EfZt7kRWg+uXa+RpIhLXkgknkx3GcJBCdOxPwqWHYEns5/5NV87sRXyYZJB4PNmsMQ==;8mbp/ITVe6Y1Z51VvnjaWQ=="
+secured: "reIeA9FSiYYPS+M9BJSkPlg2YnO6cP6Nkt4yhEPxE5nEmJPIPyTR/ePqDSEjW0JvNy9siRyrC8AHVCkhM9pGhR0DcKZv1G54oT62NpitCwneks9WXzubCyKsEV2kqKnNrLE73M+dkH/pmNmLO99xK+VheXSA4SYKp1YHfilL9XrU2nfkKpMGAWSXmfUFidkSzmtGQb5P+/hUG3gXHeGFzH4AsxCs2m/hwMnrK0Z+gOVgusyzZtkPX3jVMNX79NLUYWNBHalUzssiOLMsCJ4vSI/bhBQ5eW+orwGZjY0HivGHlJoLUYPg6t5lOw+ew6rmWRNc/DGpjNBH5qiUVQQGTr4P6KFn268n7nhb0IosTmY=;4JpjxiBPQpPllwH5lhhlIg=="
 ---
 

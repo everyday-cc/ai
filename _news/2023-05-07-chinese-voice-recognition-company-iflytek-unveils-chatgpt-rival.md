@@ -69,6 +69,20 @@ related:
         width: 620
         height: 465
         isCached: true
+  - title: "How China is Developing AI Without US Chips"
+    excerpt: "China has been ramping up its own chip development and is making strides in developing AI without relying on US technology."
+    publishedDateTime: 2023-05-07T17:18:00Z
+    webUrl: "https://insidebitcoins.com/news/how-china-is-developing-ai-without-us-chips"
+    type: article
+    provider:
+      name: Inside Bitcoins
+      domain: insidebitcoins.com
+    quality: 54
+    images:
+      - url: "https://insidebitcoins.com/wp-content/uploads/2018/02/china-economy.jpg"
+        width: 1920
+        height: 1200
+        isCached: true
   - title: "AIGC wave prompts major Chinese internet companies to speed chip development"
     excerpt: "With the rise of AI-generated content (AIGC) in 2023, major players in the tech sector are joining the ranks of AI chip manufacturing one after another. Not only are international corporations like Amazon,"
     publishedDateTime: 2023-05-05T07:34:00Z

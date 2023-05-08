@@ -1,18 +1,22 @@
 ---
 category: news
 title: "IDVV Announces Artificial Intelligence (AI) Client In Medical Sector"
-excerpt: "International Endeavors Corporation “IEC” (OTC PINK:IDVV) announced that its AI division WITech has entered into an agreement with its first client in the Medical Sector, Anti Aging & Wellness, a provider of various anti-aging"
-publishedDateTime: 2023-05-05T15:07:00Z
-originalUrl: "https://www.sacbee.com/press-releases/article275102746.html"
-webUrl: "https://www.sacbee.com/press-releases/article275102746.html"
+excerpt: "LAS VEGAS, NV / ACCESSWIRE / May 5, 2023 / International Endeavors Corporation 'IEC' (OTC PINK:IDVV) announced that its AI division WITech has"
+publishedDateTime: 2023-05-05T16:01:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/idvv-announces-artificial-intelligence-ai-client-in-medical-sector-1032298117"
+webUrl: "https://markets.businessinsider.com/news/stocks/idvv-announces-artificial-intelligence-ai-client-in-medical-sector-1032298117"
 type: article
-quality: 34
+quality: 64
 heat: -1
 published: false
 
 provider:
-  name: Sacramento Bee
-  domain: sacbee.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Healthcare
@@ -43,6 +47,6 @@ related:
       domain: fastcompany.com
     quality: 13
 
-secured: "WldZARdF1Xe4fu20FJa7J1G9iXgxO2KfHJY7W2CDPH8rU8QmlLpGe0oHjQxiLU0G3OJIONuJWqZt8pwlJfwzm5WtNUt4XN85tMI+wyCsPJtRLIAAlKPTyVIow96igiJtct/0OJijG186lmz2NT7xdxlhL+Fv7ftJ3YfqjDT8fc4ZPnZb0iVeaYgWzTzwolxhqtfqJ8d2pIMUWfxl9YHC3R40Jc3b3y6Keub/l6k/C8bRNXM6KHoXr0xD0dbryQjAnYjqTMeyPrXVxTEYy/QD6JIDto48UJXCCQ5mMdz+831RgJRICWX9y54lO6jIZO3PMPR9/6p6p5kUU0WmXjcGpD3H3OROhV4Nry/RSsuiznA=;fYnIrXJTy/Syaj/+Kriq8w=="
+secured: "0gl+r2XJ8rEFlXo4yVyC4gz+KIBRLix5heA57pDBUrC82c7HTc2g/tMxUnIta3aPl9qIgwZrPGLTcALP8qwuHizno5GgqGcQgBwmk8rpXMs9vR2JPqlbn2SUi0p1kMV1yrTcgiMfGHyXfMGc7cnEmvNa9JZD+/9cWhCkmp/y3tHY1kTLD8TSSD26jQ/BAR1AQf3Hr0mX7s1e33WaZ9dWHOSaznzbMves/WVVCr42VgkEmJ03yCE2ZbnNC8T/aZoyRsan28vjsE4XUyHiA4z9Id29cITn3KN10XjQ9V2+8/ZBkp3ZSyVAQVEOefo3/N8garwt9Q5vQFOtqq5SOBnFkMXuzczsSPWgOwdqPR0WMWI=;QrItV6xK2gx4NlJfIk42hQ=="
 ---
 

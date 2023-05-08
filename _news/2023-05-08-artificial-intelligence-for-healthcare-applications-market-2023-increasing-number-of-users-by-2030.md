@@ -85,20 +85,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Face Recognition Systems Market Share by 2031"
-    excerpt: "This \"Face Recognition Systems Market\" report offers a thorough analysis of the industry, including forecasts for"
-    publishedDateTime: 2023-05-04T01:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-share-by-2031-2023-05-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Healthcare Natural Language Processing Market Forecast to 2031"
     excerpt: "The Healthcare Natural Language Processing Market Report [101] offers statistical analyses on market growth prospects and in-depth information on the leading manufacturers - SAS I"
     publishedDateTime: 2023-05-05T01:14:00Z

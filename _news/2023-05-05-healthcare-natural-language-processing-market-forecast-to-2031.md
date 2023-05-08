@@ -80,20 +80,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Face Recognition Systems Market Share by 2031"
-    excerpt: "This \"Face Recognition Systems Market\" report offers a thorough analysis of the industry, including forecasts for"
-    publishedDateTime: 2023-05-04T01:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-share-by-2031-2023-05-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence for Healthcare Applications Market 2023 | Increasing Number of Users by 2030"
     excerpt: "The Artificial Intelligence for Healthcare Applications Market Scope and Overview Report for 2023 presents a detailed analysis of the latest trends in the global Artificial Intelligence for Healthcare Applications market."
     publishedDateTime: 2023-05-08T06:38:00Z

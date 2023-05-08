@@ -46,7 +46,7 @@ related:
   - title: "Rise of artificial intelligence is inevitable but should not be feared, ‘father of AI’ says"
     excerpt: "Jürgen Schmidhuber believes AI will progress to the point where it surpasses human intelligence and will pay no attention to people"
     publishedDateTime: 2023-05-06T23:21:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/may/07/rise-of-artificial-intelligence-is-inevitable-but-should-not-be-feared-father-of-ai-says"
+    webUrl: "https://www.theguardian.com/technology/2023/may/07/rise-of-artificial-intelligence-is-inevitable-but-should-not-be-feared-father-of-ai-says?ref=biztoc.com"
     ampWebUrl: "https://amp.theguardian.com/technology/2023/may/07/rise-of-artificial-intelligence-is-inevitable-but-should-not-be-feared-father-of-ai-says"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/07/rise-of-artificial-intelligence-is-inevitable-but-should-not-be-feared-father-of-ai-says"
     type: article

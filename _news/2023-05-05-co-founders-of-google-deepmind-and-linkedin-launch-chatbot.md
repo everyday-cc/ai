@@ -19,20 +19,29 @@ topics:
   - AI
 
 related:
-  - title: "Technology: Google DeepMind merger, LLM food"
-    excerpt: "Tech correspondent Mark Pesce joins Kathryn to look at the merger of two of Alphabet's big AI teams: Google Brain and DeepMind. Can both put past differences aside to work well together? It comes as AI chatbots explode in popularity - but what are they being trained on?"
-    publishedDateTime: 2023-05-03T23:55:00Z
-    webUrl: "https://www.rnz.co.nz/national/programmes/ninetonoon/audio/2018888689/technology-google-deepmind-merger-llm-food"
+  - title: "Startup from Reid Hoffman and DeepMind co-founder debuts chatbot"
+    excerpt: "Pi was built to be a supportive 'neutral listener' that asks follow-up questions to keep a conversation flowing."
+    publishedDateTime: 2023-05-06T22:00:00Z
+    webUrl: "https://www.moneyweb.co.za/news/ai/startup-from-reid-hoffman-and-deepmind-co-founder-debuts-chatbot/"
     type: article
     provider:
-      name: rnz
-      domain: rnz.co.nz
+      name: Moneyweb
+      domain: moneyweb.co.za
     quality: 39
     images:
-      - url: "https://rnz-ressh.cloudinary.com/image/upload/s--13YbS_Un--/t_tohu-badge-facebook/v1644423959/4MC2S0W_copyright_image_260698"
-        width: 1200
-        height: 630
+      - url: "https://www.moneyweb.co.za/wp-content/uploads/2023/05/397933961-1024x682.jpg"
+        width: 1024
+        height: 682
         isCached: true
+  - title: "The Stack: Bluesky Emerges as Twitter Rival, DeepMind and LinkedIn Co-Founders Launch Pi Chatbot"
+    excerpt: "Twitter rival Bluesky gains momentum, DeepMind and LinkedIn co-founders collaborate to launch AI chatbot... News this week centred around the return of tech royalty: former Twitter monarch Jack Dorsey made a new bid for the microblogging throne with the launch of Bluesky,"
+    publishedDateTime: 2023-05-05T12:05:00Z
+    webUrl: "https://www.exchangewire.com/blog/2023/05/05/the-stack-bluesky-emerges-as-twitter-rival-deepmind-and-linkedin-co-founders-launch-pi-chatbot/"
+    type: article
+    provider:
+      name: exchangewire.com
+      domain: exchangewire.com
+    quality: 6
 
 secured: "pMP/GhXiLJTgZc/wAWqzYGy8ub4Z3DFaOpYxAnMrp5HnKSKBpbnqBI5uTuriq0lX0mSP8wzGwJIn/MYnj5qzO0iSIJ1c0e32sv61b7u2XXbWaioZ8PIjbsyShiwFtYTttyEejUZYM6jNLNF3H2h/y4xNqAZ5CuJDr8BTzEuEojgQMGqpdZbwdO/kNkBz0eJGdcpMugekGtaThLxzkekDaWhKW3SvtrNXBMthekrEFge09GKs6kh9B48LTuPmLYK0N1un/QzwlOBD8F+6Hq3TEFh4AmT3/pWZ6gcu5mStjpFV/sXNGskZhiVFQk44CLv0fbPtroTMCmIN8kW8dTJDNOwmXO5UkynK3pxMUX3h9eY=;zgoBbX+dHMP6UQoDxGI/Kw=="
 ---

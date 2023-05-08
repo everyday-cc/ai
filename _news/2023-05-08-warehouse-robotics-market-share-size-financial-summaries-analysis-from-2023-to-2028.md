@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/warehouse-robotics-marke
 webUrl: "https://www.marketwatch.com/press-release/warehouse-robotics-market-share-size-financial-summaries-analysis-from-2023-to-2028-2023-05-08"
 type: article
 quality: 77
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Face Recognition Software Market 2023 with Regional Segmentations Forecast till 2030"
+    excerpt: "The Global \"Face Recognition Software Market\" report analyzes crucial growth factors, key strategies employed by"
+    publishedDateTime: 2023-05-08T09:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-software-market-2023-with-regional-segmentations-forecast-till-2030-2023-05-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Educational Robots Market Size Share Volume Trends Demand Forecast Report 2022-2028"
     excerpt: "These start-ups are raising significant investments ... Use of Robots for instructional functions Technological Advancement within the Field of AI The major restraining factors of Educational Robots Market are as follows: 5. Educational Robots Market ..."
     publishedDateTime: 2023-05-04T17:59:00Z

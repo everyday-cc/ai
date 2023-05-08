@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/article/amd-ai-microsoft/update-1-microsof
 webUrl: "https://www.reuters.com/article/amd-ai-microsoft/update-1-microsoft-helping-finance-amds-expansion-into-ai-chips-bloomberg-idUSL4N3714JL"
 type: article
 quality: 118
-heat: 428
+heat: 438
 published: true
 
 provider:
@@ -308,6 +308,20 @@ related:
       - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/p1240491-19-100715058-orig_11.jpgautowebp8570"
         width: 472
         height: 315
+        isCached: true
+  - title: "Microsoft Rebuts Allegations Of AI Chip Collaboration With AMD, Should NVIDIA Worry?"
+    excerpt: "People who are supposedly knowledgeable about the situation say Microsoft and AMD have teamed up to design AI chips to rival NVIDIA's product offerings."
+    publishedDateTime: 2023-05-08T15:35:00Z
+    webUrl: "https://hothardware.com/news/microsoft-rebuts-allegations-ai-chip-collaboration-amd"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 64
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/61562/content/Microsoft_Processor_Hero.jpg"
+        width: 708
+        height: 398
         isCached: true
   - title: "Microsoft and AMD are reportedly teaming up to combat Nvidia’s AI dominance"
     excerpt: "Although Microsoft uses \" tens of thousands \" of Nvidia GPUs in its Azure data centers, Bloomberg reports that the company is also working with AMD to improve the AI capabilities of its GPUs. Although extremely light on details,"

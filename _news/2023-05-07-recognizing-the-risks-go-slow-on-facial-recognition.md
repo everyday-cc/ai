@@ -25,20 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "These New Yorkers Want to Stop Landlords From Using Facial Recognition"
-    excerpt: "At a raucous city council hearing, lawmakers and activists alike argued in favor of bills banning biometric tech in residential buildings and large venues."
-    publishedDateTime: 2023-05-04T00:04:00Z
-    webUrl: "https://gizmodo.com/nyc-msg-facial-recognition-landlords-ban-law-hearing-1850401997"
+  - title: "Facial recognition: NYC bills would regulate controversial software"
+    excerpt: "One council member says they understand businesses such as bodegas and grocery stores need facial recognition for security, but how are they going to use it and not abuse it?"
+    publishedDateTime: 2023-05-04T12:14:00Z
+    webUrl: "https://www.fox5ny.com/news/facial-recognition-software-nyc-bills-introduced"
+    ampWebUrl: "https://www.fox5ny.com/news/facial-recognition-software-nyc-bills-introduced.amp"
+    cdnAmpWebUrl: "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/news/facial-recognition-software-nyc-bills-introduced.amp"
     type: article
     provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 69
+      name: Fox 5 NY
+      domain: fox5ny.com
+    quality: 59
     images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/532d2605600e5fb6b48f117eb031be29.jpg"
-        width: 1200
-        height: 675
+      - url: "https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2023/05/932/470/LS10-BANNING-FACIAL-RECOGNITION-SOFTWARE_00.00.11.58.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
         isCached: true
+  - title: "Turn to Tara: Facial recognition software could give your selfie to law enforcement"
+    excerpt: "Team 12 Investigative reporter Tara Rosenblum explains how an innocent profile picture on a social media account can become part of a police database."
+    publishedDateTime: 2023-05-04T15:21:00Z
+    webUrl: "https://brooklyn.news12.com/turn-to-tara-facial-recognition-software-could-give-your-selfie-to-law-enforcement"
+    ampWebUrl: "https://brooklyn.news12.com/amp/turn-to-tara-facial-recognition-software-could-give-your-selfie-to-law-enforcement"
+    cdnAmpWebUrl: "https://brooklyn-news12-com.cdn.ampproject.org/c/s/brooklyn.news12.com/amp/turn-to-tara-facial-recognition-software-could-give-your-selfie-to-law-enforcement"
+    type: article
+    provider:
+      name: News 12 Networks
+      domain: news12.com
+    quality: 33
   - title: "Facial recognition: How does the tech being used to police the King’s Coronation work?"
     excerpt: "he Metropolitan Police confirmed on Wednesday that it will be deploying live facial recognition technology in central London during the King’s coronation this weekend. This means the coronation ..."
     publishedDateTime: 2023-05-04T19:20:00Z

@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "ROISD’s Music Education Program receives national recognition"
+    excerpt: "Staff report Red Oak ISD has been honored with the Best Communities for Music Education designation from The NAMM Foundation for its outstanding commitment to music education. Now in its 24th year, the Best Communities for Music Education designation is awarded to districts that demonstrate outstanding achievement in efforts to provide music access and education"
+    publishedDateTime: 2023-05-04T21:54:00Z
+    webUrl: "https://www.waxahachietx.com/2023/05/04/roisds-music-education-program-receives-national-recognition/"
+    type: article
+    provider:
+      name: Waxahachie Daily Light
+      domain: waxahachietx.com
+    quality: 41
+    images:
+      - url: "https://www.waxahachietx.com/wp-content/uploads/2023/05/ROISD-NAMM.jpg"
+        width: 2048
+        height: 1536
+        isCached: true
   - title: "A case against banning TikTok. A US national strategy for AI."
     excerpt: "These steps build on the Administration’s strong record of leadership to ensure technology improves the lives of the American people, and break new ground in the federal government’s ongoing effort… National Standards Strategy for Critical and Emerging Technology (Record) The Biden administration's National Standards Strategy for Critical and Emerging Technology is intended to help set global rules to ensure tech is \"universally safe and interoperable."
     publishedDateTime: 2023-05-05T19:45:00Z

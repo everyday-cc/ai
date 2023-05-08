@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-04-18-singapore-headquartered-finbotsai-secures-first-client-in-australia.md",
+      "title": "Singapore-headquartered finbots.ai secures first client in Australia",
+      "excerpt": "Accel-backed finbots.ai, a Singapore headquartered B2B SaaS FinTech today announced signing Argenic - a growth stage Australian FinTech providing a suite of financial solutions for SMEs - as their latest client.",
+      "sourceUrl": null,
+      "webUrl": "https://www.finextra.com/pressarticle/96483/singapore-headquartered-finbotsai-secures-first-client-in-australia",
+      "originalUrl": "https://www.finextra.com/pressarticle/96483/singapore-headquartered-finbotsai-secures-first-client-in-australia",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finextra.com/about/finextra-logo.png",
+          "width": 512,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-18T01:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-18-fintech-media-advertising-the-first-eu-company-fully-based-on-ai.md",
       "title": "Fintech Media Advertising - The first EU company fully based on AI",
       "excerpt": "BUCHAREST, Romania, April 18, 2023 /PRNewswire/ -- Fintech Media Advertising SA is a Romanian startup that specializes in performance marketing for financial companies, including Neo Banks and ...",

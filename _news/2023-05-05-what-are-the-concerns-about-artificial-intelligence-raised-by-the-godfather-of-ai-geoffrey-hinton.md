@@ -60,19 +60,19 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "4 dangers that most worry AI pioneer Geoffrey Hinton"
-    excerpt: "Geoffrey Hinton, a computer scientist known as the \"godfather of artificial intelligence,\" recently resigned his high-profile job at Google. Here's a look at his biggest concerns about the future of AI"
-    publishedDateTime: 2023-05-04T00:30:00Z
-    webUrl: "https://omaha.com/business/technology/4-dangers-that-most-worry-ai-pioneer-geoffrey-hinton/article_93a31fb7-1da7-558f-9fee-721c195269b4.html"
+  - title: "What Really Made Geoffrey Hinton Into an AI Doomer"
+    excerpt: "The AI pioneer is alarmed by how clever the technology he helped create has become. And it all started with a joke."
+    publishedDateTime: 2023-05-08T15:18:00Z
+    webUrl: "https://www.wired.com/story/geoffrey-hinton-ai-chatgpt-dangers/"
     type: article
     provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 37
+      name: Wired
+      domain: wired.com
+    quality: 67
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/9/3a/93a31fb7-1da7-558f-9fee-721c195269b4/6452be8b093f4.preview.jpg?crop=1842%2C967%2C0%2C78&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
+      - url: "https://media.wired.com/photos/6458f22c4a854832b16fcf7b/191:100/w_1280,c_limit/GeoffHinton_Biz_h_15908078.jpg"
+        width: 1280
+        height: 670
         isCached: true
 
 secured: "4evpGlJt+VyVPjPA3M/b3wENVlkDNDOXKV5etpTur5YX5e0TZ3G0GgWF/GazGhVLmZONyfLZ6a3scfRYUhN/0DNmHCb0HeXUUtS3Fel8DmEj0qs5btjg4sw7IL7EgpRvLolaQcfe7qKqOi3YWtxpUVzwNBr40fpOefRJ/s4BOirdmVcq6CdHtZC/R8gIHad4aDvjiUHKJb/2ZRRPgeP43wcnpwTq6y2fqPI41opWckUWibtDdgLr7wGzqQ6Pe/B7m7xkW6iijKWzksJKVP5MWQJ9Swp2CvKiJBqgszJzxwnmVqhgcn02q+IdfM0Nos6TgZIbywSBltN4fEJLa5MgsxnWWpnc0PjVHqRWYoPTBvxy2RlfNz0i6Ta21P/3LxonDg/VWEfZ3WBqACvCKw4khwmVjWZQP9hif+sfQGkt0K1BnvOqJ/519U83lAOStWycyOBCk6S62ScHo7rduyMTe51un3aXaLqKtLUlS+zxEfVSunzYTxPD4TkUQWE8X/1aOSyNzQdeUDZ29jqM6csbbw==;rAhRKyB3+nh6FDeTHfC4WQ=="

@@ -2,9 +2,9 @@
 category: news
 title: "EU expected to delay fingerprinting and facial recognition checks at Dover"
 excerpt: "Exclusive: move predicted after fears extra checks could mar travel to 2024 Paris Olympics"
-publishedDateTime: 2023-05-08T13:06:00Z
-originalUrl: "https://www.theguardian.com/politics/2023/may/08/eu-expected-to-delay-fingerprinting-and-facial-recognition-checks-at-dover"
-webUrl: "https://www.theguardian.com/politics/2023/may/08/eu-expected-to-delay-fingerprinting-and-facial-recognition-checks-at-dover"
+publishedDateTime: 2023-05-08T08:29:00Z
+originalUrl: "https://www.theguardian.com/politics/2023/may/08/eu-expected-to-delay-fingerprinting-and-facial-recognition-checks-at-dover?ref=biztoc.com"
+webUrl: "https://www.theguardian.com/politics/2023/may/08/eu-expected-to-delay-fingerprinting-and-facial-recognition-checks-at-dover?ref=biztoc.com"
 ampWebUrl: "https://amp.theguardian.com/politics/2023/may/08/eu-expected-to-delay-fingerprinting-and-facial-recognition-checks-at-dover"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/politics/2023/may/08/eu-expected-to-delay-fingerprinting-and-facial-recognition-checks-at-dover"
 type: article
@@ -30,6 +30,6 @@ images:
     height: 372
     isCached: true
 
-secured: "UPdZIk2EY6xX8G+SP0WtSlLp8+U/BGpb7EYB9qkbsu0WYj94HAaFB/AuKFdkBMnqEnVU+fpgSDKes/W7yRfmYZHnJ8wPKalfYY15Iob5pkkSzFtTE0g/fmm0+w9qCSJSYH/kqYVckOJwywat/NaxMTvt5fZZcdSzoHuNdu2phZx7sFFMjAyjcubFoN9NB78tm7J1Ugddqb5x5Vonl9yHXjVE9+tk33u+4rVbWxdObFq3fNFZjMq4sk1sSTsh8GbFWqvKHYkFmEm800QXr8O5gsG6W4LYhNGydnJkJWRnA/qk72N20Kq1znYtxw/6KVsRugw0atptdncKO7swPN0FJWaxJmf8Z/aY8gYu2s4Slb0=;CbhdYoM8IwfSGjH0oN8yNQ=="
+secured: "4xpZCc76YMfLxQ4Wb9QRnaddSO5xbXP8OhAAAD9wHMxLb9/2FKKTVm8qwEZrrTARowixoRSQtL0tZiv54uGTPmdOAa9kH2DEi19yaze9UDWf6w41u9ebU6UfdLgdN6E4zu6JNjv13Rk6pnOAOcyZ5tPhuwYI3YVhsYoqFOaxSSAf3p8PUUzKyUiuz+Y+kyhizY18gURgV57lqHYsZoQYpy3UC8m4AlzbtnnoOvlehyIgJO4gwGL3H6RLblm+VTGpT1SyEZbzEoXqq0U4ZypBhIx4xn1+JolQjDHNl2MM0+RNQo9Q3MwjLpixuorX3V7k1rSQ2YFaxLMos+VaILgQ6SuNQGMWG+LPU0MsM05368Q=;DT9iP1ttNtBhC5KVYO60kQ=="
 ---
 

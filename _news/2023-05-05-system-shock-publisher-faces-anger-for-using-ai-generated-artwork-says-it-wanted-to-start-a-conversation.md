@@ -22,38 +22,20 @@ topics:
   - AI
 
 related:
-  - title: "Get started with generative AI on AWS using Amazon SageMaker JumpStart"
-    excerpt: "Generative AI is gaining a lot of public attention at present, with talk around products such as GPT4, ChatGPT, DALL-E2, Bard, and many other AI technologies. Many customers have been asking for more information on AWS’s generative AI solutions. The aim of this post is to address those needs. This post"
-    publishedDateTime: 2023-05-04T18:11:40Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/get-started-with-generative-ai-on-aws-using-amazon-sagemaker-jumpstart/"
+  - title: "Apparently System Shock dev used AI to create AI to \"start conversations\""
+    excerpt: "Nightdive, the studio behind the System Shock remake, recently boasted about using AI to create artwork of its game's own evil AI. And, well, things slightly backfired on the developer. Nightdive used AI software Midjourney to create a picture of Shodan ..."
+    publishedDateTime: 2023-05-04T10:44:00Z
+    webUrl: "https://www.eurogamer.net/apparently-system-shock-dev-used-ai-to-create-ai-to-start-conversations"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 99
-  - title: "Achieve high performance with lowest cost for generative AI inference using AWS Inferentia2 and AWS Trainium on Amazon SageMaker"
-    excerpt: "The world of artificial intelligence (AI) and machine learning (ML) has been witnessing a paradigm shift with the rise of generative AI models that can create human-like text, images, code, and audio. Compared to classical ML models, generative AI models are significantly bigger and more complex. However,"
-    publishedDateTime: 2023-05-04T22:10:15Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/achieve-high-performance-with-lowest-cost-for-generative-ai-inference-using-aws-inferentia2-and-aws-trainium-on-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 90
+      name: Eurogamer
+      domain: eurogamer.net
+    quality: 36
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/04/achieve-high-performance-sagemaker-1258x630.jpg"
-        width: 1258
+      - url: "https://assetsio.reedpopcdn.com/shodan-AI-system-shock.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        width: 1200
         height: 630
         isCached: true
-  - title: "Taming Generative AI with Model Governance"
-    excerpt: "This story was produced by WIRED Brand Lab for PwC. WIRED is where tomorrow is realized. It is the essential source of information and ideas that make sense of a world in constant transformation. The WIRED conversation illuminates how technology is changing every aspect of our lives—from culture to business,"
-    publishedDateTime: 2023-05-08T13:01:00Z
-    webUrl: "https://www.wired.com/sponsored/story/taming-generative-ai-with-model-governance/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 51
 
 secured: "yLVuReCMW2KT5arIMBn78ud56nXXroecHPJJ+AVqcTnD7MLO47EeRPpxd+XQKQJGSUTXwNwF0dz0IAhS0uClao88bhQByWfEXk6P0qSXCWjzig12aYpcKAiYeZx9YM5SG/DSsdcwnRAMzupWot58j6+RYy6WNFzuKA8FYITO8m0j2RTkN+zg+vdQ0hg1SJ9a6+iaCEPNajzwnKXVVaoezcsaarGes5h9Twip/2SKS15DtDRQ3Q2BUDinSmdI8rE4ThVwuQ6QKkWvP2F11gH2ekigVQmdsJBpGsKkvzrPDsYfCvcA1CzQZ/L0l3RoX5TqqXaNNM05Aww6PqHES9J7K62xS+uLVrD0wVf9zyn8g4PHBgl2bDYO0D5JUbKDg9394DuPcQjvG+WSr0bmwmwEsbNnnbKQ2fpmGWbd+cvDWKBPpE+zXxeNfQRzo2+hvH4CI+tKMvk4y0qD4FC6snJyh4p5Im/SqmpoXoQzRYEHYgxHYGOvam7hmWK5XUedlADCdpV6jHiQL/VGuwyOdffT2Q==;/TXnZjZcVmoK5HOv27lgTQ=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.financialexpress.com/business/blockchain-data-science-an
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-data-science-and-ai-how-it-is-changing-the-game-for-fintechs-in-india-3075675/lite/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Financial Express
@@ -36,6 +36,20 @@ related:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
     quality: 41
+  - title: "How Artificial Intelligence is Revolutionising the Fintech Landscape?"
+    excerpt: "According to surveys, 2/3 of FinTech companies currently use AI technology in their activities to a greater or lesser extent. Its influence will increase. Last year, the worldwide market for AI solutions in the FinTech industry was assessed at roughly 9 billion USD;"
+    publishedDateTime: 2023-05-08T17:05:00Z
+    webUrl: "https://www.baltictimes.com/how_artificial_intelligence_is_revolutionising_the_fintech_landscape_/"
+    type: article
+    provider:
+      name: The Baltic Times
+      domain: baltictimes.com
+    quality: 39
+    images:
+      - url: "https://media.baltictimes.com/media/photos/157961_66405011364592af6ddd73_big.jpg"
+        width: 855
+        height: 570
+        isCached: true
 
 secured: "ffzqW6m69XY8JJ9LzxaB7WY7CRwbuGsyZbHAyU3P+PfHLEedsNsAP2RQRyFljtyoCYBZGnPZ+DzozypqF3zFN9VS4LDL4wjpgEid//bdEdfyjrGBM8Kh+lIMTwhDi5i978+yk7CWt0EczLuO0kzOGRPS49ag4M6m1LylK8irgNF8L4P3BU7X8xNuQWdR819s9QTpXIRrx9t6mye1+TRBETxa5qlxW5wyVb8l16ZtgJbwKj4GIxz/Y127SFtg5jtzYvXbfF7AozD5pjFO8eS55cZ8msZirk/4zebNnGA6BywhUxUpaK7oKMJY7ocjzpKBbfmJ2aAY1klKFw2VCBNx3BSP5RT2RAhwAFxGnkOHR/0=;7whvJlcaccUzxKLqshh2iw=="
 ---

@@ -69,6 +69,20 @@ related:
         width: 620
         height: 465
         isCached: true
+  - title: "How China is Developing AI Without US Chips"
+    excerpt: "China has been ramping up its own chip development and is making strides in developing AI without relying on US technology."
+    publishedDateTime: 2023-05-07T17:18:00Z
+    webUrl: "https://insidebitcoins.com/news/how-china-is-developing-ai-without-us-chips"
+    type: article
+    provider:
+      name: Inside Bitcoins
+      domain: insidebitcoins.com
+    quality: 54
+    images:
+      - url: "https://insidebitcoins.com/wp-content/uploads/2018/02/china-economy.jpg"
+        width: 1920
+        height: 1200
+        isCached: true
   - title: "AIGC wave prompts major Chinese internet companies to speed chip development"
     excerpt: "With the rise of AI-generated content (AIGC) in 2023, major players in the tech sector are joining the ranks of AI chip manufacturing one after another. Not only are international corporations like Amazon,"
     publishedDateTime: 2023-05-05T07:34:00Z
@@ -98,6 +112,6 @@ related:
         height: 573
         isCached: true
 
-secured: "oRV4gmH5Tpi/HLii3ls6DWdfquMuHgmtEGF/mIoOGQPi7enaXWa1/sPnDBCADj62yn2QMJSiIH4ZAAkvydTohc6aEv04QMmP07emobykH+6y358vAowcPOmufW9agQRdYv9sv+mfnXhhCzgejHGx+Va3UAEUZzZTGSykp7b9sDlOWCN9Zf8UOUtl3UGq60SUw02NKqinKj7DDKIXZBQJuB7RTCYtTUz2osvIK/BgEC/W/bbKk5XfPuSTnsoJOooERWgD2qojVA8Sx60oauVCPcc3KNPcfsv7Qr9EdWFU0pWSPuyD8RLl93mnrvRYCh6HYwi8pe0td0uIuAyKb2VXfSM6snczcCLYE2B+D4g/Avo=;bp2n3ouUIokGvyyyQwxdzQ=="
+secured: "4arRtYpcUhEinGbnsb8XctcJ8OhmbVkEn6GyJAU023WU7Av3oIJK3ILRMjnQwdyKLCmU72ALN5V7U3Ma3NipJ0mdbVY8+mmJp3Yqbdu4dV2HJb9IO1bGOSDNxwI6yU0Uv2KebMfnHIfXBLIkFJ6Edgnw5i8vHYNWVpUckNAE9mYjW7ozZ8LqqOpdW9ELvxXt93njeZoKN7eloAhXvvdKMCtVxl4yJIgkNqMpTwHzkAc8z1lcxgQPJKvh6c3UyD+vMDCsHrbDP9mNYAJbqWQ7TZxmIw7kMv9DNcOES8UJTPeRWFSBKeGmsr33sQ94kCpN86XAQcsv0tiDLxjvKSvq35yJjPtPil3EV7skRGa5anbyugjCMvZCf/gLffpfqQ7buhAHLvpXgP86+EoKrERBtEfAjkC/ITatA6ikcyvu9GWTHbpRfaB92dQH5BIX/k/a4m4rs7gmC7d92voFxdzOxrxHfRhLHzQt9tPpFUdZbjqhAi3ehVJtAGCvf/qv1BzQ7SjSCWkKShZmEb7rv5ZTcw==;/w0NQhhLc2QwjWANP5D78g=="
 ---
 

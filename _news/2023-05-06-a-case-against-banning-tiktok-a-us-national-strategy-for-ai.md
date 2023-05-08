@@ -57,6 +57,20 @@ related:
         width: 1000
         height: 503
         isCached: true
+  - title: "ROISD’s Music Education Program receives national recognition"
+    excerpt: "Staff report Red Oak ISD has been honored with the Best Communities for Music Education designation from The NAMM Foundation for its outstanding commitment to music education. Now in its 24th year, the Best Communities for Music Education designation is awarded to districts that demonstrate outstanding achievement in efforts to provide music access and education"
+    publishedDateTime: 2023-05-04T21:54:00Z
+    webUrl: "https://www.waxahachietx.com/2023/05/04/roisds-music-education-program-receives-national-recognition/"
+    type: article
+    provider:
+      name: Waxahachie Daily Light
+      domain: waxahachietx.com
+    quality: 41
+    images:
+      - url: "https://www.waxahachietx.com/wp-content/uploads/2023/05/ROISD-NAMM.jpg"
+        width: 2048
+        height: 1536
+        isCached: true
   - title: "White House Must Take More Action To Address AI Concerns"
     excerpt: "Twitter The White House Blueprint for an AI Bill of Rights issued last October is a strong start to a government response to protect workers, families, and our democracy from the potential pitfalls of AI. The recent release of generative AI tools is ..."
     publishedDateTime: 2023-05-04T11:00:00Z

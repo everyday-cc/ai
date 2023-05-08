@@ -3,8 +3,8 @@ category: news
 title: "First babies conceived using PlayStation-controlled robot are born"
 excerpt: "the student mechanical engineer who controlled the sperm-injecting device, told MIT Technology Review. The robot was developed by Overture Life, a company that’s working towards automating in ..."
 publishedDateTime: 2023-04-27T15:02:00Z
-originalUrl: "https://metro.co.uk/2023/04/27/first-babies-conceived-using-playstation-controlled-robot-are-born-18685759/"
-webUrl: "https://metro.co.uk/2023/04/27/first-babies-conceived-using-playstation-controlled-robot-are-born-18685759/"
+originalUrl: "https://metro.co.uk/2023/04/27/first-babies-conceived-using-playstation-controlled-robot-are-born-18685759/?ico=amp_tag-post-strip_item_2_news"
+webUrl: "https://metro.co.uk/2023/04/27/first-babies-conceived-using-playstation-controlled-robot-are-born-18685759/?ico=amp_tag-post-strip_item_2_news"
 ampWebUrl: "https://metro.co.uk/2023/04/27/first-babies-conceived-using-playstation-controlled-robot-are-born-18685759/amp/"
 cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/04/27/first-babies-conceived-using-playstation-controlled-robot-are-born-18685759/amp/"
 type: article
@@ -23,6 +23,6 @@ images:
     height: 400
     isCached: true
 
-secured: "sMlM2I+R6eFCA2BLdV9tMIQooNmUf9r7KNe+SwbM4O87YelipEVnzroy/2Y7WXY1OP7M7afpPBAClIehxrPvD20d/2giOhuWGubi+KRNd+nK82bL6aZbGG/eTHhVTSrB48KGS7sPB5gwnM+3xhCXR2U7V/M5AmG3YSPBFBC+1D2OSkQuVMqYIftPEQvyZIPMDUkedyDzKNmOce+i0rI2TxB8HcJ+avGzNqWK0NPp9510tgvocGFjjx3NRlRlqgiDyphM0B/aFO+zi94FJ/p9UScFWECAqPfpEUznrBBfUrYdINawtsVxTwiVM0X9R/XMg1tU5OaGdhVrCWkP0EWuYGWZFJTHYI7y//a5qxPpbR0=;0vthQycAMbbGf6WsQ/FCjQ=="
+secured: "KFIlXq41yaFblXAnsL01ISFVROwzUbb6brRdW6d+ANND3G6qeh1ml/tFjH/YXwXVbtVtE2/g881YS9M0RCzyqB+PCTiL2bCF/04Mydvu4lAKEsmdIwezy0f6JvoVx+bFYW5kO3IYGmThw6mPuyAGWTuEzWmYZgrxYp0JHDGaYn9zazKjnzJS8E+l3X92zFnQ75jE6UgCaPoiuvJ6cK9aWYVE6n7C1qvYROGa90eV6mcGcF5Nv8WQ01k4M+6ZrM+5+zZkxPOdPpainLluuFWzubwkE7YYgMJ6fCrCXhQgvQriUk3M4mPsEDqK5h+CUe+wwdVqaHjGkCPH6yLxBmrlnuGbQaxBQaMte8f4JUU6aNc=;w06cdSGCgb+sPG19mB58gA=="
 ---
 

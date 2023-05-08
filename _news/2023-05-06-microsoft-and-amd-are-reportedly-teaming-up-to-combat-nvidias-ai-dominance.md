@@ -315,6 +315,20 @@ related:
         width: 472
         height: 315
         isCached: true
+  - title: "Microsoft Rebuts Allegations Of AI Chip Collaboration With AMD, Should NVIDIA Worry?"
+    excerpt: "People who are supposedly knowledgeable about the situation say Microsoft and AMD have teamed up to design AI chips to rival NVIDIA's product offerings."
+    publishedDateTime: 2023-05-08T15:35:00Z
+    webUrl: "https://hothardware.com/news/microsoft-rebuts-allegations-ai-chip-collaboration-amd"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 64
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/61562/content/Microsoft_Processor_Hero.jpg"
+        width: 708
+        height: 398
+        isCached: true
   - title: "NVIDIA shares are trading higher after Microsoft denied AMD is involved with its Athena AI chips."
     excerpt: "Never miss a trade again with the fastest news alerts in the world! This headline only article is a sample of real-time intelligence Benzinga Pro traders use to win in the markets everyday. Want the fastest, most accurate stock market intelligence? Want ..."
     publishedDateTime: 2023-05-05T17:32:00Z

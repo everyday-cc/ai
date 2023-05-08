@@ -5,6 +5,8 @@ excerpt: "Boca Raton, FL – Some doctors believe artificial intelligence is sav
 publishedDateTime: 2023-05-03T17:24:00Z
 originalUrl: "https://www.foxnews.com/tech/artificial-intelligence-helping-detect-early-signs-breast-cancer-some-us-hospitals"
 webUrl: "https://www.foxnews.com/tech/artificial-intelligence-helping-detect-early-signs-breast-cancer-some-us-hospitals"
+ampWebUrl: "https://www.foxnews.com/tech/artificial-intelligence-helping-detect-early-signs-breast-cancer-some-us-hospitals.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/artificial-intelligence-helping-detect-early-signs-breast-cancer-some-us-hospitals.amp"
 type: article
 quality: 40
 heat: 40
@@ -21,6 +23,13 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
+
+images:
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/03/340/340/Caroline-Elliott-Web.jpg?ve=1&tl=1"
+    width: 340
+    height: 340
+    isCached: true
 
 secured: "za0H3lK+rH+BNllXwcXzAv1Zt8yL72oH02BhePs4NuPJotERiZzVUNHFsSCpWwFzyrT5RfmKyUQL7Ru4qzhyIIutYmM/5DH2PeUmdsnIGCdtZcGQLAVdUZLIMLhuqM7tVbY8egqXjrk8jMBwNGnVaUIF8CtC5GgdZE9q2eEeY/lmofNlkzQSuQQIl8FsAmm2wWPlxVDJw77p4o5Skj7w1iLcf0h71KLj0zbd3JnItVtTvaBTWmZNlBv7dIPhU1mD1Vrre+ZVqhhGNVBAUwJWg1AH2MDLiujoC4TUAe2vVNJi9iD/QP7edN992VGluxiavfeiCEHzgK63/kqGzcwohzx4ya58i2+WhjGZuMEbB3U=;I/D2OXNwv0nKk07cTNISmQ=="
 ---

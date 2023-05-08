@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.statnews.com/wp-content/uploads/2023/04/stat_ai_billboard_2000x1125_f1-1024x576.jpg"

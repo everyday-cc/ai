@@ -31,14 +31,14 @@ images:
 
 related:
   - title: "IEEE Computer Society Emerging Technology Fund Recipient Introduces Machine Learning Cybersecurity Benchmarks"
-    excerpt: "Today, at the virtual Backdoor Attacks and Defenses in Machine Learning (BANDS) workshop during The Eleventh International Conference on Learning Representations (ICLR), participants in the IEEE Trojan Removal Competition presented their findings and success rates at effectively and efficiently mitigating the effects of neural trojans while maintaining high performance."
-    publishedDateTime: 2023-05-05T21:05:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/05/05/9808842.htm"
+    excerpt: "Presentation at The Eleventh International Conference on Learning Representations (ICLR) debuts new findings for end-to-end neural network Trojan"
+    publishedDateTime: 2023-05-05T21:17:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ieee-computer-society-emerging-technology-fund-recipient-introduces-machine-learning-cybersecurity-benchmarks-1032298575"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 20
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 50
     images:
       - url: "https://mma.prnewswire.com/media/2070851/IEEEComputerSociety_Cybersecurity.jpg"
         width: 400

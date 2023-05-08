@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Co-founders of Google DeepMind and LinkedIn launch chatbot"
+    excerpt: "We’ll send you a myFT Daily Digest email rounding up the latest Artificial intelligence news every morning. The co-founders of Google DeepMind and LinkedIn have launched an artificial ..."
+    publishedDateTime: 2023-05-05T00:37:00Z
+    webUrl: "https://www.ft.com/content/08b40743-16d8-4113-8258-147bf9dbce94"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 19
   - title: "The Stack: Bluesky Emerges as Twitter Rival, DeepMind and LinkedIn Co-Founders Launch Pi Chatbot"
     excerpt: "Twitter rival Bluesky gains momentum, DeepMind and LinkedIn co-founders collaborate to launch AI chatbot... News this week centred around the return of tech royalty: former Twitter monarch Jack Dorsey made a new bid for the microblogging throne with the launch of Bluesky,"
     publishedDateTime: 2023-05-05T12:05:00Z
