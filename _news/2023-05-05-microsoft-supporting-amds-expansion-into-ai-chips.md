@@ -348,20 +348,6 @@ related:
         width: 472
         height: 315
         isCached: true
-  - title: "Here’s what’s missing from Microsoft’s Responsible AI program: An ethics team"
-    excerpt: "While Microsoft expresses interest in responsible AI, it is worth noting that they fired their entire AI ethics team in March 2023."
-    publishedDateTime: 2023-05-03T09:38:00Z
-    webUrl: "https://www.medianama.com/2023/05/223-microsoft-responsible-ai-program-no-ethics-team/"
-    type: article
-    provider:
-      name: MediaNama
-      domain: medianama.com
-    quality: 68
-    images:
-      - url: "https://www.medianama.com/wp-content/uploads/2023/05/christina-wocintechchat-com-F75IfIWSqRY-unsplash-scaled.jpg"
-        width: 2560
-        height: 1709
-        isCached: true
   - title: "Microsoft and AMD are reportedly teaming up to combat Nvidia’s AI dominance"
     excerpt: "Although Microsoft uses \" tens of thousands \" of Nvidia GPUs in its Azure data centers, Bloomberg reports that the company is also working with AMD to improve the AI capabilities of its GPUs. Although extremely light on details,"
     publishedDateTime: 2023-05-05T18:16:00Z
@@ -498,20 +484,6 @@ related:
       name: ExtremeTech
       domain: extremetech.com
     quality: 49
-  - title: "Private ChatGPT? Microsoft to offer AI alternative for businesses with sensitive information"
-    excerpt: "Microsoft plans to address data privacy concerns of large firms that hold sensitive information and have large regulatory costs for leaks with its new offering."
-    publishedDateTime: 2023-05-03T09:55:00Z
-    webUrl: "https://interestingengineering.com/innovation/private-chatgpt-alternative-microsoft"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 43
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/05/03/image/jpeg/3PScUnRYvnd3RphoGb0FtFuP8cH4wCOUj66eRN9Q.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "dPCBzvb0H2nfdZjIAIRY4GGA2fkhg0ps/dmuWz/+IrCtk4dtjlb4oft0qUPzEO6L3UO3yra0j4NMAVVTxm5WjVJz+TghsYyBP3D4P9UZZKLYMFw63LrZcM7QcV0G+e/A8VHK2JODonCM+r2gmsgALrexjQB3DVjrKFcDucg9mjL2sRHsx8tSwEMeJwwp24SrkMnk1TKMqdoacg7i0rzdxTrZlOrFR8w56tXOWZCvAp5+OGizDOFdKb00JG+jOKArIbzxpanEyCsrJMP8PTTmcJlghwQU2L0GYytaIjTBuWv7wSzxaQfU7+3JCswVr24ftSmo7xrCfbtVDyle1SMWZBrIVxLnlQdygszVvkQjpmcegOheBvpPkWnc8tZoBC/ACv4C41XVjx3NtC8ql1dyyfwPPM2O63yFMNwm1KXPuCCDMD0/8ck+DjXFjpGgMpCJSGemLPVt7kJ/JB/5rm6hHERi+dJYrf2rNLoYiY4fZAtvR3k2reyEM1wP6n0WMC1bOfTqC/FEjMpPT5YF1FC4jg==;19fIkH3CR2HZr8fSj59Smg=="
 ---

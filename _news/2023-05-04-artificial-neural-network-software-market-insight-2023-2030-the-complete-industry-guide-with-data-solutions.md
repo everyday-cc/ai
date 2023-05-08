@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "2023-2030, The Global Artificial Intelligence in Aviation Market is Experiencing Significant Growth Worldwide"
+    excerpt: "The Readers in the section will understand how the Artificial Intelligence in Aviation market scenario changed across the globe during the pandemic, post-pandemic and Russia-Ukrai"
+    publishedDateTime: 2023-05-07T10:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-2030-the-global-artificial-intelligence-in-aviation-market-is-experiencing-significant-growth-worldwide-2023-05-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "/m2jbB5g5PHpyO/JJUYmuPSxY8i2uEYqtWpr8Aoh8gXxH19cvJuumPMbABHONYcBBQECeA9vMoxoH5EpxhU8dh1hKNJ3lPGnQfsf8G9uv3wu5Id7TtF77SrMgCjyilmxsUdbNDkHyPUWOR+0SQeuKTdc7kPHptG2Uaao+RH5B6iWWhVBNxVTFd75wZ3jLZ5POi63xT+TUJrTqkta4fKQtpevMJjZf1J8jwyrGOIERi5KGxTMOy/8CkUz3F3eRbJ1SftfWXcOR8/Q4z7hK1ZIH2JyumPQf39lBp0qZ5s6OZGrfD81AryduR9nPq1MPwFOmCdYpold5zgPLOI/gin+cGbVBFugU8Fu6CGxLQzKYBA=;TPfUW7Se9wmRA8VKstRwEQ=="
 ---

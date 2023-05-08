@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/may/03/ai-could-be-as-tr
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/03/ai-could-be-as-transformative-as-industrial-revolution-patrick-vallance"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 620
     height: 372
     isCached: true
+
+related:
+  - title: "Cognizant CEO: ‘Generative AI Will Revolutionize The Technology Services Industry’"
+    excerpt: "Ravi Kumar, who joined Cognizant as CEO in January after 20 years at rival India-based global IT services and consulting firm Infosys, Wednesday told financial analysts at the Teaneck, N.J.-based company’s fiscal first-quarter 2023 financial conference ..."
+    publishedDateTime: 2023-05-04T19:00:00Z
+    webUrl: "https://www.crn.com/news/managed-services/cognizant-ceo-generative-ai-will-revolutionize-the-technology-services-industry-"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 33
+    images:
+      - url: "https://www.crn.com/resources/0281-17ef13153994-989a74181a92-1000/cognizant_ravi_kumar_s_ceo.jpeg"
+        width: 600
+        height: 375
+        isCached: true
 
 secured: "P4brWOOcDLUHVMHmEv/3LBesVKwpVYWAnSp9TAVUU4ntNEouE3B9MKme6Ap+XSldKbavCUa/t07Rr1Uli5EI8mm0dQFq6Gus0PCB9SsnL4NC0JTrwvCAs0+G1x+FiDaXg3gzCw4WpWb/hi9tp/RWsLyhceBvTKHcnkuWgrDeacKj2PFFVSXEP5aNnjI1gAzkbO+3E8ZTFIJPaoEAazScXWLVQUChXCqsJtLvvxj9Tov1jzmN1DmOZFFxW1Kygz4pNaRbZLPjHehCRPJ+NNSmiRSebkSe4wdUsWemmTOUv4wWJUFJbQ7MneuZomSVifinI0oTCMmjODPpR/6dBRnSiYegxknSOHzfj4zSso/rdCA3UjTl4t5g3kW9zGd4V/qDFCjhGSn5xlP3CgrNRlB/4htQTOt2SyYjPS+Q4+UFdkwTUBMptQ58YsoN0Q+JNpXjOAxWNymB7mP+VnZWdMGOqDfGwNYrNi6TRVrHZlXFr7PR5ctvaBA129AEppWfkTlpNLjLaWku13mAyMXm8fFlZA==;HWw3hM/n2LQGf+eRMFlLlw=="
 ---

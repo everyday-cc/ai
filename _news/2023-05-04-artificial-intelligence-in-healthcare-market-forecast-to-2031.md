@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-forecast-to-2031-2023-05-04"
 type: article
 quality: 84
-heat: 184
+heat: 174
 published: true
 
 provider:
@@ -126,20 +126,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "Europe Speech and Voice Recognition Market Trends, Size, Share, Growth Status, and Forecast 2023 to 2031"
-    excerpt: "The Europe speech and voice recognition is expected to reach USD 1,665.08 Million by 2025 from USD 286.89 Million in 2017, at a CAGR of 24.7% in the forecast period 2018 to 2025. The major factors driving the growth of this market are the effective integration due to increased demand for voice and speech-based biometric systems,"
-    publishedDateTime: 2023-05-03T10:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/europe-speech-and-voice-recognition-market-trends-size-share-growth-status-and-forecast-2023-to-2031-2023-05-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Passenger Vehicle Voice Recognition Market Trends and Forecast: Analyzing Growth Potential with CAGR forecasted 10.9% during 2023-2030"
     excerpt: "Passenger Vehicle Voice Recognition market outlook (2023-2030) provides a thorough analysis of the market's current state, including factors such as market size, growth rate, segmentation, and key players."
     publishedDateTime: 2023-05-04T23:42:00Z

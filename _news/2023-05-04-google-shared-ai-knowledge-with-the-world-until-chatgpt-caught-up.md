@@ -83,22 +83,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Profitably Using Generative AI ChatGPT As Your Stock Trading Advisor, Albeit With AI Ethics Cautionary Caveats In Mind"
-    excerpt: "There is a rush toward using ChatGPT and generative AI to aid in picking stocks and doing stock price predictions. Watch out for scams. You need to know what makes sense and what to avoid, which is covered herein."
-    publishedDateTime: 2023-05-03T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/05/03/profitably-using-generative-ai-chatgpt-as-your-stock-trading-advisor-albeit-with-ai-ethics-cautionary-caveats-in-mind/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/05/03/profitably-using-generative-ai-chatgpt-as-your-stock-trading-advisor-albeit-with-ai-ethics-cautionary-caveats-in-mind/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/05/03/profitably-using-generative-ai-chatgpt-as-your-stock-trading-advisor-albeit-with-ai-ethics-cautionary-caveats-in-mind/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 80
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64509b00e5f9e8fe9adc456e/0x0.jpg?format=jpg&crop=829,553,x116,y0,safe&width=1200"
-        width: 829
-        height: 553
-        isCached: true
   - title: "ChatGPT and Generative AI in Payments: Reality, Hype, What's Next, and How to Prepare"
     excerpt: "ChatGPT is the most talked-about technology of 2023 and has caught the attention of payments services providers."
     publishedDateTime: 2023-05-05T18:00:00Z
@@ -368,29 +352,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Is the world ready for ChatGPT therapists?"
-    excerpt: "The current landscape of mobile mental-health apps is the result of a 70-year search to automate therapy. Now, advanced AIs pose fresh ethical questions."
-    publishedDateTime: 2023-05-03T09:39:00Z
-    webUrl: "https://www.nature.com/articles/d41586-023-01473-4"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 24
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-01473-4/d41586-023-01473-4_25290462.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "UAE Ultra App: Botim 3.0 offers video chat, AI, money transfer, Arabic ChatGPT and more"
-    excerpt: "UAE-based Astra Tech announce launch of Botim 3.0 Ultra App UAE Ultra App: Botim 3.0 offers video chat, AI, money transfer, Arabic ChatGPT and more app development, apps, astra tech, BOTIM, UAE Techno"
-    publishedDateTime: 2023-05-03T09:57:00Z
-    webUrl: "https://www.arabianbusiness.com/industries/technology/uae-ultra-app-botim-3-0-offers-video-chat-ai-money-transfer-arabic-chatgpt-and-more"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 11
 
 secured: "5s28DInwzYIjdlnKESG9kUfzZqXTjR2TGXnobNZNuZXw0zuomMRq+/d97dxqUAtiRIbTun6Zp9fPgV4v+JVsEt1Kdh9/Ssb5ZICV3aKo64bYIjvupk5hERNMbckU+OTEY8mEYjhBvVB7JXkslL40b9T89WMPOmESLhEuyIeVNlK8LhbRxrKUdwPEjevU2SmfCs2c+8aXcabwuOsfKB0/VxMGwfa0sWutZWLGt/CT7LERJuywOrt6RPxh8xx03cBLQ3Ul5c8MQwtBLDYEzCYgdVe4dSOEj6CxrGZLpMsnjXF61LK3rG1AKuiDbxhYDGG7PA8qCDOChFln6i4n7dLXcd+o/+XHGQtL4EnOqQCrIRivE2TOtd7qUFRLNTZyG1gP7qVVsm705oyZ8yXnmZ0nkuhfJsNOHJn+GIILA+q41G5/oxqOIbxkHFapFgBmnW30XYK1ZCgakd8hk9lbnsS4nZ67OYnfGbdNX2RkDq07AxYiOMmn5r/BoBE2aug/9hVr11gcVtDGJM7uFa28HvgWkQ==;vtBTyIYOQrQOD6S2vymXIA=="
 ---

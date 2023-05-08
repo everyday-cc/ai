@@ -23,15 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Automatic Speech Recognition Market Trends [2023-2030] | Booming Industry Globally"
-    excerpt: "GlobalAutomatic Speech Recognition Market[2023-2030] research report is a compilation of information and analysis"
-    publishedDateTime: 2023-05-03T09:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-market-trends-2023-2030-booming-industry-globally-2023-05-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
   - title: "Global Artificial Intelligence (AI) in Healthcare Market [2023] | New Report Anticipates Industry to Surpass USD 13240 Million in Revenue by 2030"
     excerpt: "The Global Artificial Intelligence (AI) in Healthcare Market Size Reached USD 2222.5 Million in 2021-2022. It is Expected to Grow at a CAGR of 28.5% till 2030. The Global Artificial Intelligence (AI) in Healthcare Market is to Reach the Value of ..."
     publishedDateTime: 2023-05-04T12:10:00Z

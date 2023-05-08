@@ -22,43 +22,57 @@ topics:
   - AI
 
 related:
-  - title: "IEEE Computer Society Emerging Technology Fund Recipient Introduces Machine Learning Cybersecurity Benchmarks"
-    excerpt: "Presentation at The Eleventh International Conference on Learning Representations (ICLR) debuts new findings for end-to-end neural network Trojan"
-    publishedDateTime: 2023-05-05T20:34:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ieee-computer-society-emerging-technology-fund-recipient-introduces-machine-learning-cybersecurity-benchmarks-1032298575"
+  - title: "Artificial Intelligence in Security Market, 2030"
+    excerpt: "The Global Artificial Intelligence in Security market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
+    publishedDateTime: 2023-05-08T00:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-2030-2023-05-07"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 50
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
     images:
-      - url: "https://mma.prnewswire.com/media/2070851/IEEEComputerSociety_Cybersecurity.jpg"
-        width: 400
-        height: 400
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Are You Concerned About Generative AI Becoming A Cybersecurity Risk?"
-    excerpt: "While in general, artificial intelligence has the potential to enhance security measures and more effectively detect threats, there is an emerging concern that generative AI tools can—and likely will—be leveraged by malicious actors to launch attacks that are more sophisticated and harder to detect."
-    publishedDateTime: 2023-05-03T12:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/03/are-you-concerned-about-generative-ai-becoming-a-cybersecurity-risk/"
+  - title: "Machine Learning Data Catalog Software Market, 2030"
+    excerpt: "The Global Machine Learning Data Catalog Software market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
+    publishedDateTime: 2023-05-07T15:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-data-catalog-software-market-2030-2023-05-07"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Data Science and Machine Learning Service Market Report with SWOT and PESTAL Analysis, 2023 to 2030"
+    excerpt: "Data Science and Machine Learning Service Market is predicted to grow significantly. The market is likely to increase over the anticipated period of time in 2022 because major companies are adopting new strategies at an increasing rate."
+    publishedDateTime: 2023-05-05T05:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-service-market-report-with-swot-and-pestal-analysis-2023-to-2030-2023-05-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Object Recognition Imaging Systems Market, 2030"
+    excerpt: "The Global Object Recognition Imaging Systems market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
+    publishedDateTime: 2023-05-07T15:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/object-recognition-imaging-systems-market-2030-2023-05-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 49
-  - title: "Cybersecurity Still Finding Its Place In New AI Era"
-    excerpt: "It is difficult nowadays to talk to inventors in any tech sector without AI coming up in the conversation — and that is certainly true in cybersecurity."
-    publishedDateTime: 2023-05-03T11:00:00Z
-    webUrl: "https://news.crunchbase.com/cybersecurity/artificial-intelligence-rsa-venture-startup/"
-    type: article
-    provider:
-      name: news.crunchbase
-      domain: crunchbase.com
-    quality: 37
-    images:
-      - url: "https://news.crunchbase.com/wp-content/uploads/AI_Sector_Cybersecurity.jpg"
-        width: 900
-        height: 506
-        isCached: true
 
 secured: "DrF7YaBZNBTs61oNYrXD7itJUMpuHnMTZGd47Sta1RhjMqR1Hzxm1brTYemNkzswFaM7jd0dpxXj/1ISKGxuPCyJNJkDFdw/1rrtceiiBrkBQRDSiY1Bk4pVhGAktY33TKcTs4SJMJTyoKDziS1Xd/UgQyalvjaOnDrPZZFoShpgOlB6JtMTcTuHQcoyT6qXulwQUk5TxqG1WHkBZIWANQ+1n2HHFXf2CBVmhx3rLe2ESfjrsPAL4i/bdi0DgFaoGgPehcs56pF3Ww9JPYfOOCcdqKlO/1bmUjo8ArgfTmvwdCJzDi2IFgdqVMK5cLnkCcA1souAbOOqrnLt6rllwCFt8JBDKoqCypvwoFmYs3Gl1qciUQlmBoDWk4gqBzzU2l8dyPj5JA7yi9/xfm2pa0ujQ7yKgUfNGsYhozCf3KfabHeSdOHXryku792h3IxTR1Tv2AQQtSFK7pl7DR/nYO/U3+0/qzsdl5b2KO6raOKKRUDIHm5WbdByUI376sXNCy/Pu2TkWc4GibUK3dGgmQ==;mbmK7E2umY0/t4CoO5WIoA=="
 ---

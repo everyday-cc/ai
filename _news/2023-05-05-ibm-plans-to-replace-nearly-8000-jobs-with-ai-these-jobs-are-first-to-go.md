@@ -37,20 +37,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "IBM CEO: ‘AI to cut 7,800 jobs in next five years’"
-    excerpt: "IBM CEO Arvind Krishna expects AI to eliminate up to 7,800 jobs at the company. 30 percent of current non-customer-facing employees are set not to be"
-    publishedDateTime: 2023-05-03T09:41:00Z
-    webUrl: "https://www.techzine.eu/news/infrastructure/105453/ibm-ceo-ai-to-cut-7800-jobs-in-next-five-years/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 39
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2019/09/IBMs-Global-Center-for-Watson-IoT-in-Munich-Germany-5.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "IBM pauses hiring, says it could replace 7,800 workers with AI"
     excerpt: "IBM has paused hiring and said that it could lay off around 7,800 workers over the next five years. CEO Arvind Krishna claimed that employees could be replaced by artificial intelligence. Speaking about back-office workers,"
     publishedDateTime: 2023-05-03T14:11:00Z

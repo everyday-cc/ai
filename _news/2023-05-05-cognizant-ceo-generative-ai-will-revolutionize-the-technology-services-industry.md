@@ -25,37 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Where is India in the generative AI race?"
-    excerpt: "In the high-stakes race for supremacy in the field of generative AI, India's bustling startup ecosystem is facing an uphill battle."
-    publishedDateTime: 2023-05-03T09:26:00Z
-    webUrl: "https://techcrunch.com/2023/05/03/where-is-india-in-the-generative-ai-race/"
-    ampWebUrl: "https://techcrunch.com/2023/05/03/where-is-india-in-the-generative-ai-race/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/03/where-is-india-in-the-generative-ai-race/amp/"
+  - title: "AI ‘could be as transformative as industrial revolution’"
+    excerpt: "UK’s outgoing chief scientist urges ministers to ‘get ahead’ of profound social and economic changes"
+    publishedDateTime: 2023-05-03T14:29:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/may/03/ai-could-be-as-transformative-as-industrial-revolution-patrick-vallance"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/03/ai-could-be-as-transformative-as-industrial-revolution-patrick-vallance"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/03/ai-could-be-as-transformative-as-industrial-revolution-patrick-vallance"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1483825958.jpg?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Data science and AI: How it is changing the game for fintechs in India"
-    excerpt: "The financial sector in India has always embraced cutting-edge technologies, and as a result, it has been undergoing transformations. The emergence of FinTech companies in India has disrupted the financial sector and it is now amongst the fastest growing Fintech markets in the world."
-    publishedDateTime: 2023-05-06T05:45:00Z
-    webUrl: "https://www.financialexpress.com/business/blockchain-data-science-and-ai-how-it-is-changing-the-game-for-fintechs-in-india-3075675/"
-    ampWebUrl: "https://www.financialexpress.com/business/blockchain-data-science-and-ai-how-it-is-changing-the-game-for-fintechs-in-india-3075675/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-data-science-and-ai-how-it-is-changing-the-game-for-fintechs-in-india-3075675/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/05/Add-a-little-bit-of-body-text-15.jpg"
-        width: 1200
-        height: 675
+      - url: "https://i.guim.co.uk/img/media/a6eaef833556b81337c95f6e88a34a1b44407791/0_300_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=6c607e1e58ea849496f7dd45d0c4493e"
+        width: 620
+        height: 372
         isCached: true
 
 secured: "SjUeGrfj2YCofXxkCRhYTZSLLj7iu7gx51fx9SnCa6NmaWpgG6l+5RgbCBwI/+tQ8fLqXBVezQYrQtfTPs1N239rFZrGushyg/l1n2jcDTWUsHsglh2heXzc/C8sosVCR/scwwQaIQGfqwKSiTbKIEvm8bJxrs4YBYY0xfQ3KU79Y88Eky8/qgGj3p33XOIHtETpIq6u1e7stdtas+LE82pi4p5WyU5k0BEanlfkHP01L0VZvssS3jEOCPIS+OErR9ITmqXTIODSw+OIZ1lyZ8rNCb3AuFAb882R0ZrdaBOhIXP0Xgowj6Y83xP2yctkSc0BHoebhFALmmkZrlLiIzp141qFQeQPXr4hVSPCKhc=;CSgXi8XMzbEEsYnz74P57Q=="

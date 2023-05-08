@@ -46,6 +46,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Databricks to acquire San Francisco AI startup Okera"
+    excerpt: "San Francisco-based Databricks announced on Wednesday that it was acquiring another startup in the city that makes AI-powered data governance tools. Okera develops no-code tools for enterprise customers to manage sensitive and personally identifiable data while maintaining security and performance at scale."
+    publishedDateTime: 2023-05-03T18:20:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/news/2023/05/03/databricks-acquires-san-francisco-ai-startup-okera.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "/2nQDQHnqOK0wF6JOkbnfJKi83AT1ZEzL4uQQ30g5WIe+tEGgcjyAMw3lh3a1NhUmCo0eETUl48uYL94974deexqYaY/vEq35bsIRsgH21ah+1zkSWP8jj3p7lUEjHWWpcfk9IoxxOQk6YEa9aBkhKyh7CSq7pjbW6q8ijCt0YK3v3ViCEU5r85X1RfCRdmDsmS1pEM23Sn8O8pT4mFNgon4WSPQpJD1tzbdBrI+27NvZa7ddK3aDYqy/2P28vZaNEltzOrw6b25gjNDCQjSTEmspsgzAXdxkyB2t9nRD36eNn4BaG6oChnlaUltvIUKCykbIpda059bQDeIXoSiD2ta3vZdX4IByj/TctjkGlhw3alH0uJw+c+9HDqg8kKCJ8KuxxVxsK4VtfrOwNkXgu8QNXgkMZ/GbAzcVq0NPRgdSYPzaKmpnM3Q1CW9qDheZ5Zg1d/uD14QwsjE7t/RrFlcDewu+tejc6tp3b3X2oVL1T1XHTBNgnX3a26wvRgogx+MUZ4nIg78H+2n/jTtKQ==;ankSY6JEUc93cAl/Nvmtzw=="
 ---

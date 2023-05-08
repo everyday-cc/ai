@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/data-artificial-intelligence-start
 webUrl: "https://www.businessinsider.com/data-artificial-intelligence-startup-databricks-acquire-governance-security-okera-2023-5"
 type: article
 quality: 77
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         height: 600
         isCached: true
   - title: "Databricks acquires San Francisco AI startup Okera"
+    excerpt: "San Francisco-based Databricks announced on Wednesday that it was acquiring another startup in the city that makes AI-powered data governance tools. Okera develops no-code tools for enterprise customers to manage sensitive and personally identifiable data while maintaining security and performance at scale."
+    publishedDateTime: 2023-05-03T18:20:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/news/2023/05/03/databricks-acquires-san-francisco-ai-startup-okera.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
+  - title: "Databricks to acquire San Francisco AI startup Okera"
     excerpt: "San Francisco-based Databricks announced on Wednesday that it was acquiring another startup in the city that makes AI-powered data governance tools. Okera develops no-code tools for enterprise customers to manage sensitive and personally identifiable data while maintaining security and performance at scale."
     publishedDateTime: 2023-05-03T18:20:00Z
     webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/news/2023/05/03/databricks-acquires-san-francisco-ai-startup-okera.html"

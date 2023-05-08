@@ -51,15 +51,6 @@ related:
         width: 1600
         height: 800
         isCached: true
-  - title: "Power of Fintech Events for Industry Visionaries"
-    excerpt: "In the past few years, we have seen an explosion in financial technology (FinTech) innovations. This has caused a drastic transformation of how banks and other financial institutions operate. FinTech promises faster payments,"
-    publishedDateTime: 2023-05-03T11:04:00Z
-    webUrl: "https://techbullion.com/power-of-fintech-events-for-industry-visionaries/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 4
 
 secured: "SdgvLD/7actILrA1YsBICYcg5QnNuhBCqnfgupFbRhlc4Obyl7nPhELKkYnoOEXJlXG2k/fVwY96kNak/E2iVFIN7gjAvIDgbjSgs5Y6P0acPFMnDguyjikQeD7fYXNLEUvndwANqGPMSdGQ4WuwGut4R8AC8JdDh5PZn2nkdkVndhJQ5+J1p5BhkPiIm8m7Dep3N+0nVPhhhJO+W7htfgva7KSfKJVwjIq9DikZuTeDdB08k32GKA24czrHECKdQbOrkVuzwCFYPowNnU30BUCbD0+/PThlzquEsOaQ9pqDZ4LCgfmk0csF7JgNLjPLojM0/Dou1XUENoESsJLuiKGoGKhWcOFOp3nf58Bc25uboN+k91nJd4sNcWu6C1FkJo+WmR9C1uAForUkCbuRwWu9rUSrIVnptOAy4VX8TCMeS9dLFXcP/eK0QC6EP3OUXQjBZNnDy8gfIeGtkVxBwIb8ZoSOh18TEjRoKlZYMi6BTq1SbIXfxBSWoqoWPh2Z6tpIUrPt4LmBHgf16IviNQ==;dVYn4RMAlp3H9R0jfaxxXQ=="
 ---

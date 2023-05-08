@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/biden-administration-takes-action-to-prom
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/biden-administration-takes-action-to-promote-responsible-ai-innovation/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -98,15 +98,6 @@ related:
       name: Embedded
       domain: embedded.com
     quality: 19
-  - title: "MotionPoint Releases Adaptive Translation™: Proprietary AI to Reduce the Cost of Quality Translation"
-    excerpt: "MotionPoint introduces Adaptive Translation™ technology to reduce human translation costs without sacrificing quality."
-    publishedDateTime: 2023-05-03T11:00:00Z
-    webUrl: "https://slator.com/motionpoint-releases-adaptive-translation-proprietary-ai-to-reduce-the-cost-of-quality-translation/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 4
 
 secured: "j4DNAT1ODy7ZMLh9NDfkAtHpGZVUV+78AhqMGtAYRIRAt7k6LWWYbNRTfYxetl52AfI3ctMVJWfUBLAH0f3l3t/wlqdOxxiXx7CxOznfIyuxvXlLgd9xgS1BKRn2AwsON92bHlzFTzoF7oHUOpMP1oMgpgIJQlJcj+wDushgcCQKntVM/RPX9iF67GMB4AY/ijKwqMUmTPw0fC2Dd4rmOJOnPu4StlaMllCpM/wMXWzFKIUyJyTZJ1wBaWs5NBOgzpBknOn/+VLbWq5QJDibEOQZnyvDMwp3B5HrzocB/nEAUebnAbFrnllyfSxienM2H6WG37CtmZCyYjSCUDlCswGw1jK40IDYzvsdQ3LxTfQLyaYloap4tl1gh7sPK0OOv6S5GMDDY7DQ5jEn9F23QCzEETm+BTUM7aBBIS434QAywACR6u1ZuA++GFdoOyS/ajFSj8l9myd8ostocMt0kOgKsmW7p8rKVfamJzbBmHsiV0kflLv/IWQ7boJYykPtI99nfvTGyoR6ypn//cj8Nw==;RxzKm+YfBsiK1AZzD0ohPQ=="
 ---

@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning in Manufacturing Market Dynamics and Drivers: 2023-2031"
+    excerpt: "Global “ Machine Learning in Manufacturing Market ” Research Report 2023-2031 offers a detailed analysis of the industry landscape, including growth drivers, restraints, and competitive dynamics of Top Manufacturers [Teradata,"
+    publishedDateTime: 2023-05-07T16:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-manufacturing-market-dynamics-and-drivers-2023-2031-2023-05-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 70
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Autonomous or Driverless Cars Market [2023-2030] | Top Key-Players in the Industry are - Tesla, Volkswagen, Nissan, Volvo"
     excerpt: "Global Autonomous or Driverless Cars Market [2023-2030] research report provides a key analysis of the market status of Autonomous or Driverless Cars manufacturers with the best facts and figures, definitions,"
     publishedDateTime: 2023-05-05T08:56:00Z

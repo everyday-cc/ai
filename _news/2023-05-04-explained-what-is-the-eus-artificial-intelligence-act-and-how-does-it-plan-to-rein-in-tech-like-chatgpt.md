@@ -91,22 +91,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Profitably Using Generative AI ChatGPT As Your Stock Trading Advisor, Albeit With AI Ethics Cautionary Caveats In Mind"
-    excerpt: "There is a rush toward using ChatGPT and generative AI to aid in picking stocks and doing stock price predictions. Watch out for scams. You need to know what makes sense and what to avoid, which is covered herein."
-    publishedDateTime: 2023-05-03T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/05/03/profitably-using-generative-ai-chatgpt-as-your-stock-trading-advisor-albeit-with-ai-ethics-cautionary-caveats-in-mind/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/05/03/profitably-using-generative-ai-chatgpt-as-your-stock-trading-advisor-albeit-with-ai-ethics-cautionary-caveats-in-mind/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/05/03/profitably-using-generative-ai-chatgpt-as-your-stock-trading-advisor-albeit-with-ai-ethics-cautionary-caveats-in-mind/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 80
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64509b00e5f9e8fe9adc456e/0x0.jpg?format=jpg&crop=829,553,x116,y0,safe&width=1200"
-        width: 829
-        height: 553
-        isCached: true
   - title: "ChatGPT and Generative AI in Payments: Reality, Hype, What's Next, and How to Prepare"
     excerpt: "ChatGPT is the most talked-about technology of 2023 and has caught the attention of payments services providers."
     publishedDateTime: 2023-05-05T18:00:00Z
@@ -360,20 +344,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Is the world ready for ChatGPT therapists?"
-    excerpt: "The current landscape of mobile mental-health apps is the result of a 70-year search to automate therapy. Now, advanced AIs pose fresh ethical questions."
-    publishedDateTime: 2023-05-03T09:39:00Z
-    webUrl: "https://www.nature.com/articles/d41586-023-01473-4"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 24
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-01473-4/d41586-023-01473-4_25290462.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Google shared AI knowledge with the world — until ChatGPT caught up"
     excerpt: "In op-eds, podcasts and TV appearances, Google CEO Sundar Pichai has urged caution on AI. \"On a societal scale, it can cause a lot of harm,\" he warned on \"60 Minutes\" in April, describing how the technology could supercharge the creation of fake images and videos."
     publishedDateTime: 2023-05-04T15:36:00Z
@@ -383,15 +353,6 @@ related:
       name: Detroit News
       domain: detroitnews.com
     quality: 19
-  - title: "UAE Ultra App: Botim 3.0 offers video chat, AI, money transfer, Arabic ChatGPT and more"
-    excerpt: "UAE-based Astra Tech announce launch of Botim 3.0 Ultra App UAE Ultra App: Botim 3.0 offers video chat, AI, money transfer, Arabic ChatGPT and more app development, apps, astra tech, BOTIM, UAE Techno"
-    publishedDateTime: 2023-05-03T09:57:00Z
-    webUrl: "https://www.arabianbusiness.com/industries/technology/uae-ultra-app-botim-3-0-offers-video-chat-ai-money-transfer-arabic-chatgpt-and-more"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 11
 
 secured: "c0oWL51VYiPnBo6nn/apGwUA9sglLMiEBQcunPDARTz7KdqP97pojsmpbhriOM+h9U7ugx8RDRB65mwylsDyqNMagIshAUJxRVz0PzSKA73gyvCWSwApyNK3ZVxCHwp41bu1jbRYUVYd2MFbWhrhmtnWlUXWGf0CpTyMBR0V/1gPbvvo3+ud3gRBozTJqlpmC45SPWHuo6PgUDKO0+j+rRsPcRf5YLWDqJpuVGK6atwFywpfCDX5PhvDn42ynsthS75rpqvhuDRyEk1XCyQIW8G+KwNKNn/xbm9EK+Vpb7vwxbiZtsl6tTPimGIEX0xYUq2llcFsWOsy/Z14/9cgwXZoxx3EdeYHDqDCTe0OBuruXnU0iboNkjAm+b0JpnUZgDfczIBvq6mrBtPOc8/nLiEUt6pXCgzz4Qyn6U2xjpI5ERWlWbL/4JIWtDHv7fgGMWX1sT6E7caEDBnOQpSELPZhb629XsovpjRlXuU0WqlyCogJltwgUe5M8lToO8WQseTpjkjDIGGQd4DlfR8x7g==;LTKdkwkozPsyVn7b4pDYug=="
 ---

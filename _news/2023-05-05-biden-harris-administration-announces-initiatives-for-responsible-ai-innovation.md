@@ -94,15 +94,6 @@ related:
       name: Embedded
       domain: embedded.com
     quality: 19
-  - title: "MotionPoint Releases Adaptive Translation™: Proprietary AI to Reduce the Cost of Quality Translation"
-    excerpt: "MotionPoint introduces Adaptive Translation™ technology to reduce human translation costs without sacrificing quality."
-    publishedDateTime: 2023-05-03T11:00:00Z
-    webUrl: "https://slator.com/motionpoint-releases-adaptive-translation-proprietary-ai-to-reduce-the-cost-of-quality-translation/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 4
 
 secured: "8+FfN48KcrWNB/4RZ2+Q86RQJPV5+iTLiqjq9aicfNnYy+g0yKmdy373XlNdfd8VNBR15fTcKwHOD2t1Ga7Zyf9lnB3GKqoP4GAA8fG6ftNOys3tyWNtRSOBGSeLtoVWV2NHT1Akn9yCfComXpS4DU9VYo+vu3gQBuualOftwe8H4TWYY8aBBYywozwb8qwwwXhrgVP9S8uHvt5eCGjO+BpKwq57nNPEMb4cCc9f6+z32qL+B/x35SHb7rNvu/Gk5IqjbAxAie4I9Ojje1DGKfBN0tYiEqnP8BAWxNXeR/v/PmlPF7LMwxbgF/0hTF26gp+3xV4VF8CWD0Qmmxs9+bd5hDH/NmNgkPalX2AKRVWLibFBUAqWHX2ivfYp+KrwbytL3WgsqczSfBaXMu0cHMDrWA/5QAWF7+U/OlbQt/1PLWIqgooYO3QLnSDoBSjlGy9tfSlBX6Ej+l5VfmxOqjtNPobOqZc19dRwrQf3WefM8lWoclQYsjAOVWFZrBNUSxGuI9SNNka5KJ7178uGlw==;v0j0HnzvrKRqj4awmfQIXg=="
 ---

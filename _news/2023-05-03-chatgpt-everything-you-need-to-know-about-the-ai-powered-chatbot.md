@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/05/03/chatgpt-everything-you-need-to-kno
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/03/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/"
 type: article
 quality: 89
-heat: 359
+heat: 329
 published: true
 
 provider:
@@ -78,22 +78,6 @@ related:
       - url: "https://i.insider.com/6452919af6389a0018ef54d5?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Profitably Using Generative AI ChatGPT As Your Stock Trading Advisor, Albeit With AI Ethics Cautionary Caveats In Mind"
-    excerpt: "There is a rush toward using ChatGPT and generative AI to aid in picking stocks and doing stock price predictions. Watch out for scams. You need to know what makes sense and what to avoid, which is covered herein."
-    publishedDateTime: 2023-05-03T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/05/03/profitably-using-generative-ai-chatgpt-as-your-stock-trading-advisor-albeit-with-ai-ethics-cautionary-caveats-in-mind/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/05/03/profitably-using-generative-ai-chatgpt-as-your-stock-trading-advisor-albeit-with-ai-ethics-cautionary-caveats-in-mind/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/05/03/profitably-using-generative-ai-chatgpt-as-your-stock-trading-advisor-albeit-with-ai-ethics-cautionary-caveats-in-mind/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 80
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64509b00e5f9e8fe9adc456e/0x0.jpg?format=jpg&crop=829,553,x116,y0,safe&width=1200"
-        width: 829
-        height: 553
         isCached: true
   - title: "ChatGPT and Generative AI in Payments: Reality, Hype, What's Next, and How to Prepare"
     excerpt: "ChatGPT is the most talked-about technology of 2023 and has caught the attention of payments services providers."
@@ -364,20 +348,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Is the world ready for ChatGPT therapists?"
-    excerpt: "The current landscape of mobile mental-health apps is the result of a 70-year search to automate therapy. Now, advanced AIs pose fresh ethical questions."
-    publishedDateTime: 2023-05-03T09:39:00Z
-    webUrl: "https://www.nature.com/articles/d41586-023-01473-4"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 24
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-01473-4/d41586-023-01473-4_25290462.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Google shared AI knowledge with the world — until ChatGPT caught up"
     excerpt: "In op-eds, podcasts and TV appearances, Google CEO Sundar Pichai has urged caution on AI. \"On a societal scale, it can cause a lot of harm,\" he warned on \"60 Minutes\" in April, describing how the technology could supercharge the creation of fake images and videos."
     publishedDateTime: 2023-05-04T15:36:00Z
@@ -387,15 +357,6 @@ related:
       name: Detroit News
       domain: detroitnews.com
     quality: 19
-  - title: "UAE Ultra App: Botim 3.0 offers video chat, AI, money transfer, Arabic ChatGPT and more"
-    excerpt: "UAE-based Astra Tech announce launch of Botim 3.0 Ultra App UAE Ultra App: Botim 3.0 offers video chat, AI, money transfer, Arabic ChatGPT and more app development, apps, astra tech, BOTIM, UAE Techno"
-    publishedDateTime: 2023-05-03T09:57:00Z
-    webUrl: "https://www.arabianbusiness.com/industries/technology/uae-ultra-app-botim-3-0-offers-video-chat-ai-money-transfer-arabic-chatgpt-and-more"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 11
 
 secured: "548fFOQWzqd6RwaQ0fULqkpifC4beKgpVjs0ozEBuRvkzqVNmcmbGqKMIL7RIVGQhZNwK02fmHVHInI3L969r+CyPtFlk7MPv5KxYl/6CoFn8UQcAn+j+/pEnDKSTB4fkhFwkIG5sxCc9knbHkWRVGVYpHlSDuUb/kFs0eUNxPyUSxd9gxwd34t+qYUcNKmR2F+4g67Q21aCwBG5w02jJAaFapyDvtDFwDTfk34xvFmEE8RZznTDyz8jN1F7TDuE8JdI9HtsV95H3TSq7eIFZZ8hQnEMC9lwHQow8DsN462tqCZvyesieMEit9G2TzXpQPLhLb4D5ZXkjM9bJGgqNuv9sCfCpRHl/9EQIb6G7upxvp0CLgC9dFPCCrlgCURE9uNoAcL/Frx7G2YsvcO8x7damFDTphS89tuJbenSWy8EAXpTXBM5tY2kX0w6AEznjZ0YJ9TV/U4s3vc8GX/OdDcqmmh8+Ux+DF9S9s795JN0gwlUFEHTsSypBncCN6asw82koGR7FCfPb7x2JyJpMA==;bGCQg17bsBrPkF4tZk/lig=="
 ---

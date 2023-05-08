@@ -359,20 +359,6 @@ related:
         width: 472
         height: 315
         isCached: true
-  - title: "Here’s what’s missing from Microsoft’s Responsible AI program: An ethics team"
-    excerpt: "While Microsoft expresses interest in responsible AI, it is worth noting that they fired their entire AI ethics team in March 2023."
-    publishedDateTime: 2023-05-03T09:38:00Z
-    webUrl: "https://www.medianama.com/2023/05/223-microsoft-responsible-ai-program-no-ethics-team/"
-    type: article
-    provider:
-      name: MediaNama
-      domain: medianama.com
-    quality: 68
-    images:
-      - url: "https://www.medianama.com/wp-content/uploads/2023/05/christina-wocintechchat-com-F75IfIWSqRY-unsplash-scaled.jpg"
-        width: 2560
-        height: 1709
-        isCached: true
   - title: "NVIDIA shares are trading higher after Microsoft denied AMD is involved with its Athena AI chips."
     excerpt: "Never miss a trade again with the fastest news alerts in the world! This headline only article is a sample of real-time intelligence Benzinga Pro traders use to win in the markets everyday. Want the fastest, most accurate stock market intelligence? Want ..."
     publishedDateTime: 2023-05-05T17:32:00Z
@@ -500,20 +486,6 @@ related:
       name: ExtremeTech
       domain: extremetech.com
     quality: 49
-  - title: "Private ChatGPT? Microsoft to offer AI alternative for businesses with sensitive information"
-    excerpt: "Microsoft plans to address data privacy concerns of large firms that hold sensitive information and have large regulatory costs for leaks with its new offering."
-    publishedDateTime: 2023-05-03T09:55:00Z
-    webUrl: "https://interestingengineering.com/innovation/private-chatgpt-alternative-microsoft"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 43
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/05/03/image/jpeg/3PScUnRYvnd3RphoGb0FtFuP8cH4wCOUj66eRN9Q.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "wxz3L8At65DjiZeXmPgP4KQ8VQESG+vi6WSxuZEjHsIz86yqSFqtGNhtTSgsVP7Xo2n1xJ4rBavDiZfCOy8xqaCNZ5imXm01/0/Wu8utC50ONsny7zJGJANIo38MQc3LvErp7Al8QqzP5SVF3Fdnn8Jd8+R4s3yWJhdurYiumhUuYgpRn5zA1lzZn9pf70bbarW5ESzqilCKpPNU1q/JxkQRFF03tCRpBu74iUC/Z1ITKnMGYsSqikZyQyxMIYWNNuWuiP5jd2YjUz1LgSI6PqVKFv+bd192TAzwSeyRJSTaus29AAi8NzfDujdq7vaL193x0/7YBOBtrieJHijRswHxT0XW05Ri89vxwZ6yz9Mb86qkYdg8/8hp+qK5A+DNPEMKO+xjWzeyvk8/os7QEgcCDwWzm7WNJPCKfz/XvG9qqqN/fQaa2Jl647eVDT3mcoOGTYrLwnw16LG3zf6puaA93CI5teE5WqeQMd5zEzDT6eRZZtHh9fGLk03OzKkQCpx8epVE9/D8jG9Dhj6xhw==;Zyj9M0xynW3mnIlscy1InA=="
 ---
