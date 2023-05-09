@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/biden-administration-takes-action-to-prom
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/biden-administration-takes-action-to-promote-responsible-ai-innovation/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -31,19 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "ROISD’s Music Education Program receives national recognition"
-    excerpt: "Staff report Red Oak ISD has been honored with the Best Communities for Music Education designation from The NAMM Foundation for its outstanding commitment to music education. Now in its 24th year, the Best Communities for Music Education designation is awarded to districts that demonstrate outstanding achievement in efforts to provide music access and education"
-    publishedDateTime: 2023-05-04T21:54:00Z
-    webUrl: "https://www.waxahachietx.com/2023/05/04/roisds-music-education-program-receives-national-recognition/"
+  - title: "The AI Revolution Transforming Hybrid And Remote Work And The Return To Office"
+    excerpt: "With the advent of generative AI like ChatGPT, we are on the cusp of realizing the full potential of remote and hybrid work by reducing - while not eliminating - the benefits of office visits."
+    publishedDateTime: 2023-05-09T14:47:00Z
+    webUrl: "https://www.forbes.com/sites/glebtsipursky/2023/05/09/the-ai-revolution-transforming-hybrid-and-remote-work-and-the-return-to-office/"
+    ampWebUrl: "https://www.forbes.com/sites/glebtsipursky/2023/05/09/the-ai-revolution-transforming-hybrid-and-remote-work-and-the-return-to-office/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glebtsipursky/2023/05/09/the-ai-revolution-transforming-hybrid-and-remote-work-and-the-return-to-office/amp/"
     type: article
     provider:
-      name: Waxahachie Daily Light
-      domain: waxahachietx.com
-    quality: 41
+      name: Forbes
+      domain: forbes.com
+    quality: 83
     images:
-      - url: "https://www.waxahachietx.com/wp-content/uploads/2023/05/ROISD-NAMM.jpg"
-        width: 2048
-        height: 1536
+      - url: "https://imageio.forbes.com/specials-images/imageserve/645a5c605e5c27c4782796df/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "A case against banning TikTok. A US national strategy for AI."
     excerpt: "These steps build on the Administration’s strong record of leadership to ensure technology improves the lives of the American people, and break new ground in the federal government’s ongoing effort… National Standards Strategy for Critical and Emerging Technology (Record) The Biden administration's National Standards Strategy for Critical and Emerging Technology is intended to help set global rules to ensure tech is \"universally safe and interoperable."
@@ -73,6 +75,15 @@ related:
         width: 394
         height: 218
         isCached: true
+  - title: "IBM Unveils All-In-One AI Integration Tool"
+    excerpt: "Blue-chip tech name IBM (NYSE:IBM) today launched WatsonX, a new, all-in-one artificial intelligence (AI) tool that will help companies with their AI integration. This announcement comes roughly 15 months after IBM sold its Watson Health unit to Francisco Partners."
+    publishedDateTime: 2023-05-09T12:50:00Z
+    webUrl: "https://www.schaeffersresearch.com/content/news/2023/05/09/ibm-unveils-all-in-one-ai-integration-tool"
+    type: article
+    provider:
+      name: SchaeffersResearch.com
+      domain: schaeffersresearch.com
+    quality: 21
 
 secured: "j4DNAT1ODy7ZMLh9NDfkAtHpGZVUV+78AhqMGtAYRIRAt7k6LWWYbNRTfYxetl52AfI3ctMVJWfUBLAH0f3l3t/wlqdOxxiXx7CxOznfIyuxvXlLgd9xgS1BKRn2AwsON92bHlzFTzoF7oHUOpMP1oMgpgIJQlJcj+wDushgcCQKntVM/RPX9iF67GMB4AY/ijKwqMUmTPw0fC2Dd4rmOJOnPu4StlaMllCpM/wMXWzFKIUyJyTZJ1wBaWs5NBOgzpBknOn/+VLbWq5QJDibEOQZnyvDMwp3B5HrzocB/nEAUebnAbFrnllyfSxienM2H6WG37CtmZCyYjSCUDlCswGw1jK40IDYzvsdQ3LxTfQLyaYloap4tl1gh7sPK0OOv6S5GMDDY7DQ5jEn9F23QCzEETm+BTUM7aBBIS434QAywACR6u1ZuA++GFdoOyS/ajFSj8l9myd8ostocMt0kOgKsmW7p8rKVfamJzbBmHsiV0kflLv/IWQ7boJYykPtI99nfvTGyoR6ypn//cj8Nw==;RxzKm+YfBsiK1AZzD0ohPQ=="
 ---

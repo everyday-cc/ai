@@ -9,7 +9,7 @@ ampWebUrl: "https://www.huffpost.com/entry/ai-google-search_n_6452a48ee4b0fbfe50
 cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/ai-google-search_n_6452a48ee4b0fbfe50a095d0/amp"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Wendy’s hired Google AI to take your drive-through order"
+    excerpt: "The next time you get a craving for a spicy chicken sandwich, you might have to ask an AI to ring it up for you. American fast food burger chain Wendy’s is teaming up with Google to make an AI-powered chatbot for taking drive-through food orders,"
+    publishedDateTime: 2023-05-09T13:53:00Z
+    webUrl: "https://www.pcworld.com/article/1814175/wendys-hired-google-ai-to-take-your-drive-through-order.html"
+    type: article
+    provider:
+      name: PC World
+      domain: pcworld.com
+    quality: 47
 
 secured: "Cz6cB69zth/SxBy015ONqHBww/KsBHxAwoN6VNADcyXJQfJub2o22PwLREJhKGy4AoutwydEiZawR5KDxEzKr7nka9msFtBY5RS3/XDj/90u0OESiAfr0nD9y170J+VboC2fL7xnoBfih3tI0yjLRwF+SpaUj898qZGbsgqXn0Kzqr4U+q9LyECRtPmhztMGADXAJL43LodbdMoiTx5Jc2r4SaAD4Xk5/LCQiGftomhLRR0Wk+HLXBkW1geZOb/qEnuluwaCd/P+2botlVvNCy5mKjU6ANH3K/upZa8yHOk2p9rbn6INHtH/0rFGbn0wNgqkjez1QN0eVhGHPz+tvyjp1LeZ0DmYs7RAapY4vj8=;Fb2Zdil6uX1qydiL2j/7Yw=="
 ---

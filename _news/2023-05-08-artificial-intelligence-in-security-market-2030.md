@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI Accelerator Chip Market: Trend & Outlook by 2030"
+    excerpt: "The Main Objective of The AI Accelerator Chip Market Is to Develop the Perspectives of Business Professionals and"
+    publishedDateTime: 2023-05-09T03:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-accelerator-chip-market-trend-outlook-by-2030-2023-05-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI In Computer Vision Market Growth and Revenue Forecast by 2030"
     excerpt: "Brief Overview of the AI In Computer Vision Market: During The Forecast Period Spanning from 2023 To 2030, The Global AI In Computer Vision Market Is Expected to Experience Significant Growth. As of 2022, The Market Is Steadily Increasing, and with The ..."
     publishedDateTime: 2023-05-09T05:59:00Z

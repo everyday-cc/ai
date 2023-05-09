@@ -113,6 +113,20 @@ related:
         width: 1920
         height: 1200
         isCached: true
+  - title: "Chinese firms to seek AI chips alternatives"
+    excerpt: "THE US government's intensifying chip sanctions against China have forced Chinese firms to search for alternatives to advanced chips used in cutting-edge artificial intelligence (AI) and could even offer a new opportunity for Chinese firms to take the lead in the emerging technology,"
+    publishedDateTime: 2023-05-09T14:06:00Z
+    webUrl: "https://www.manilatimes.net/2023/05/10/business/foreign-business/chinese-firms-to-seek-ai-chips-alternatives/1890644"
+    type: article
+    provider:
+      name: manilatimes
+      domain: manilatimes.net
+    quality: 54
+    images:
+      - url: "https://www.manilatimes.net/uploads/authors/468_1656384454.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "US sanctions force Chinese firms to strive for alternatives to AI chips: experts"
     excerpt: "The US government's intensifying chip sanctions against China have forced Chinese firms to search for alternatives to advanced chips used in cutting-edge artificial intelligence (AI) and could even offer a new opportunity for Chinese firms to take the lead in the emerging technology,"
     publishedDateTime: 2023-05-08T14:36:00Z

@@ -48,6 +48,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "ChatGPT Fever Has Investors Pouring Billions Into AI Startups, No Business Plan Required"
+    excerpt: "It is boom times for startups touting generative artificial intelligence technology."
+    publishedDateTime: 2023-05-09T11:51:00Z
+    webUrl: "https://www.wsj.com/articles/no-business-plan-no-problem-chatgpt-spawns-an-investor-gold-rush-in-ai-6bdbed3c"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 38
   - title: "AI ChatGPT creates rap for Warriors vs. Lakers playoffs"
     excerpt: "ChatGPT is what most people are either talking about most of these days or even experimenting with. The KPIX morning team tested the feature by getting AI to become a Warriors fan. (05/05/2023)"
     publishedDateTime: 2023-05-05T19:42:00Z

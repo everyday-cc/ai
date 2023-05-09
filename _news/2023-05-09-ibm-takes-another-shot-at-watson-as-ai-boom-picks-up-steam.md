@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/05/09/ibm-takes-another-shot-at-watson
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/05/09/ibm-takes-another-shot-at-watson-as-ai-boom-picks-up-steam.html"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,15 @@ images:
     isCached: true
 
 related:
+  - title: "“Big Blue” Takes Aim Once More at Watson"
+    excerpt: "It’s been a long time since IBM (NYSE:IBM) has actively touted Watson. Originally created to beat humans at the “Jeopardy!” game show, Watson marked IBM’s early splash in artificial intelligence, but it never amounted to a profitable offering."
+    publishedDateTime: 2023-05-09T13:49:00Z
+    webUrl: "https://www.baystreet.ca/articles/techinsider/87351/050923"
+    type: article
+    provider:
+      name: BayStreet
+      domain: baystreet.ca
+    quality: 34
   - title: "IBM and SAP Collaborate to Power SAP’s Digital Assistant with IBM Watson"
     excerpt: "SAP and IBM announced that IBM Watson technology will be embedded into SAP solutions to provide new AI-driven insights and automation. The move aims to help accelerate innovation and create more efficient and effective user experiences across the SAP solution portfolio."
     publishedDateTime: 2023-05-08T13:02:00Z
@@ -41,6 +50,6 @@ related:
       domain: dbta.com
     quality: 18
 
-secured: "TLUBb0obfT7W6jH3/fdq9KLtyazsGPjI83yf4j3FK/3syZb5NUa/rRQRHECGj+Njn9ij+NIE/CKnVIvbZiFrRfOuP6pGMPiiAaWVAVUOP9otnm3WRQEsMm0uW7DS+p6XpaUopjukCdS0nPcs9vc5DGFDcL8tzxdvZNZqF0ppHJB/yCS9II9eLCKxdjxlLHh2aG2jU9f96+7hsnuHA73oCsIKjuv2BrxwD++lq7dHm4gliUv9MYGsfrmyYe/LEhII33QKf4qFyFhMwTFRChj1a91Zgt3TFWOpbj/P0B7E7a2smtM171pOHtESB4C1BtQMobanhHLyWJVSfCqdwkD44U30xctIC+7lP4j3o2SboDc=;tNIE5Ah3B6GJgjUfKwqraw=="
+secured: "LOpqhTmn6efpESRm95SZ0UoKBUqxq5hEjXG18hPpUrtTgzs4Zx3lu/fA+tNiAllvYKES/+Qy2lhdAgFiLrr3bBQ0AcARVas4TBo9zrnykikm13dpk5ZaiZqkyW6/TzVdEE5BY97cAtTLFP/5ihlpffR/JoVJIXY2ZX6ut51JQ37q/ScTbZ2OYuqTGUD+SiycBDAhhEYqkmp1zffxrA6uOCe6F+Ih/F4/zWtpnPCs1BzVhTgFh5lvujWYIoNrE9VTnMQ5VaLDFGemSjAAr8WFBJM0CcK/tFq8DIqoOPQ/q9OyW4TuTdN5udsfJOLHaYku0BUJz/2gpU52losU1lSTYSAzb05MVl1DCRiUh0nm6JUvVdCWf9zQcQPJ1ae9/vF9wA0KeQzgICVDwofNjso03RgQd4x3FX1kudA/eMZvJb4Wda2QJIerGX0q55usO9cRvpLCepTeF2wz1WZNECj2Yo5Hy6p2XTTpEpjvuN2ZplrJ9Q/vhZrnCi8rPjlItxAGWXaSnQ6lB8d2OaVDdP2+RQ==;z1CJb4KpW8xniE9vMEtoPw=="
 ---
 

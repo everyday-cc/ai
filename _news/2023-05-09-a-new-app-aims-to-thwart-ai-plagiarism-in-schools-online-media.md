@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "With Seed Funding Secured, AI Detection Tool GPTZero Launches New Browser Plugin"
+    excerpt: "CEO Edward Tian and his team of 10 machine learning engineers wants to “preserve what’s human” by giving people the ability to discern what’s machine generated."
+    publishedDateTime: 2023-05-09T14:33:00Z
+    webUrl: "https://www.forbes.com/sites/rashishrivastava/2023/05/09/with-seed-funding-secured-ai-detection-tool-gptzero-launches-new-browser-plugin/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 62
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/645a534875a3f83c6644914e/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "jQyqlijWVLsINgOdjUYXlfkF20wriDHWuT67DVM559L2P9FA/lLiu05pcPMuSQ9zpBlB7VRY2Q0dB7o0/ExmJ4P+/K3H49JI8Q+2Q8lU2VUT+bdVWel/yn3XKPvhWBLZyhs68jIdRxI0kDMHkINm4Fmc98rNAJ6FGXx2ptogigK7YvIjj1geXJXOHOHUZnfMc5klWc5SAfjASEZf19L04MoUkPJ4ODvdxMXkM+eYlXthBtOgq5ZaS3K57o5nYGmdqYl9mWYnvT1Z9odd+bMlTJj2d+ESMCWGSJvflffec8S0FdtUnwCoBHLqEsoPNwaY97nER3Ngkt+uXb4a13Vx1enJQaGH66gleDB02Dht/K8FIQZehd0SGoaceApENguDjr6htLvAAhWQUX+tU29P40NDQjvz/Jp32G2kLvm8yuQAgaX105zKyWX1pzK3EvLH93PZdbBH2/O0hMp1nY5ILIEOkrRbdLISB37nwY468u3nGdpIMJ/4t4X4FcyeMSto04uK+NIAIjZWc/f5Ma8o+w==;JwkZ8OPMUK4ddpv3GfTNIg=="
 ---

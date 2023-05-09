@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-05-09/pearson-outline
 webUrl: "https://www.bloomberg.com/news/articles/2023-05-09/pearson-outlines-ai-plans-after-chatgpt-share-price-jitters"
 type: article
 quality: 67
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "ChatGPT Fever Has Investors Pouring Billions Into AI Startups, No Business Plan Required"
+    excerpt: "It is boom times for startups touting generative artificial intelligence technology."
+    publishedDateTime: 2023-05-09T11:51:00Z
+    webUrl: "https://www.wsj.com/articles/no-business-plan-no-problem-chatgpt-spawns-an-investor-gold-rush-in-ai-6bdbed3c"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 38
   - title: "Could AI pen ‘Casablanca’? Screenwriters take aim at ChatGPT"
     excerpt: "Not six months since the release of ChatGPT, generative artificial intelligence is already prompting widespread unease throughout Hollywood."
     publishedDateTime: 2023-05-05T13:45:00Z

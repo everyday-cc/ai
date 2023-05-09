@@ -25,61 +25,59 @@ images:
     isCached: true
 
 related:
-  - title: "AI Could Enable 10,000 Robot-Led Microbe Experiments Per Day"
-    excerpt: "Automation uncovers combinations of amino acids that feed two bacterial species and could tell us much more about the 90% of bacteria that humans have hardly studied."
-    publishedDateTime: 2023-05-05T09:13:00Z
-    webUrl: "https://www.technologynetworks.com/immunology/news/ai-could-enable-10000-robot-led-microbe-experiments-per-day-372973"
+  - title: "The Critical Need To Identify AI Generated Content"
+    excerpt: "A lot of concern about AI is raised by hundreds of tech and government leaders who now realize that AI released without serious guardrails could have significant consequences for all of us."
+    publishedDateTime: 2023-05-09T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/timbajarin/2023/05/09/the-critical-need-to-identify-ai-generated-content/"
+    ampWebUrl: "https://www.forbes.com/sites/timbajarin/2023/05/09/the-critical-need-to-identify-ai-generated-content/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2023/05/09/the-critical-need-to-identify-ai-generated-content/amp/"
     type: article
     provider:
-      name: technologynetworks
-      domain: technologynetworks.com
-    quality: 54
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/372973/ai-could-enable-10000-robot-led-microbe-experiments-per-day-372973-640x360.jpg?cb=20230505"
-        width: 640
-        height: 360
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64594cd3534232d7f02796dd/0x0.jpg?format=jpg&width=1200"
+        width: 836
+        height: 425
         isCached: true
-  - title: "Novel AI-Enabled Robot To Can Perform 10K Microbial Experiments Daily"
-    excerpt: "Researchers have developed an artificial intelligence (AI) system that can help robots to conduct automated scientific experim"
-    publishedDateTime: 2023-05-05T09:32:00Z
-    webUrl: "https://menafn.com/1106185008/Novel-AI-Enabled-Robot-To-Can-Perform-10K-Microbial-Experiments-Daily"
+  - title: "Artificial intelligence identifies new anti-aging compounds"
+    excerpt: "This research result is a significant milestone for both longevity research and the application of artificial intelligence to drug discovery,” said co-lead author Felix Wong, the co-founder of Integrated Biosciences."
+    publishedDateTime: 2023-05-08T14:58:00Z
+    webUrl: "https://www.earth.com/news/artificial-intelligence-identifies-new-anti-aging-compounds/"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 54
+      name: earth
+      domain: earth.com
+    quality: 39
     images:
-      - url: "https://menafn.com/updates/pr/2023-05/05/I_59976image_story.jpg"
-        width: 400
-        height: 267
+      - url: "https://cff2.earth.com/uploads/2023/05/08085811/Aging.jpg"
+        width: 1000
+        height: 667
         isCached: true
-  - title: "AI could run a million microbial experiments per year"
-    excerpt: "Automation uncovers combinations of amino acids that feed two bacterial species and could tell us much more about the 90% of bacteria that humans have hardly studied. An artificial intelligence system enables robots to conduct autonomous scientific experiments -- as many as 10,"
-    publishedDateTime: 2023-05-05T15:08:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2023/05/230504155641.htm"
+  - title: "AI-generated images of satanic kids’ event misrepresented as real"
+    excerpt: "CLAIM: Photos show children being taught Satanism in libraries in the U.S. during an event called SatanCon. AP’S ASSESSMENT: False. The images were generated with an artificial intelligence tool and posted online."
+    publishedDateTime: 2023-05-08T21:41:00Z
+    webUrl: "https://apnews.com/article/fact-check-satanic-kids-libraries-415653916064"
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
-  - title: "BacterAI: New AI system enables robots to conduct 10,000 scientific experiments a day"
-    excerpt: "Scientists created BacterAI, an AI-powered system enabling robots to conduct 10,000 experiments daily, accelerating scientific discoveries."
-    publishedDateTime: 2023-05-05T13:10:00Z
-    webUrl: "https://interestingengineering.com/science/revolutionizing-scientific-experimentation-artificial-intelligence"
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/afs:Medium:341014000747/822.jpeg"
+        width: 822
+        height: 500
+        isCached: true
+  - title: "Spotify takes down thousands of AI-generated songs after suspected bot use to inflate streams, report says"
+    excerpt: "Spotify took down about 7% of tracks from AI startup Boomy, after Universal warned streaming services they were artificially boosted, the FT reported."
+    publishedDateTime: 2023-05-09T12:29:00Z
+    webUrl: "https://www.businessinsider.com/spotify-takes-down-thousands-of-ai-generated-songs-bot-streams-2023-5"
     type: article
     provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 27
-  - title: "AI could run a million microbial experiments per year, says study"
-    excerpt: "An artificial intelligence system enables robots to conduct autonomous scientific experiments—as many as 10,000 per day—potentially driving a drastic leap forward in the pace of discovery in areas from medicine to agriculture to environmental science."
-    publishedDateTime: 2023-05-04T19:22:00Z
-    webUrl: "https://phys.org/news/2023-05-ai-million-microbial-year.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 19
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 29
 
 secured: "jmpNacOJ8I0T3uYmtcOM3bdP/Wk/QxRLcpkecfjhkFJ1g21edlgUj4iPt2SQbWoekz56iSjyhnaC4T9NQuGy4K5Cwgk/qoix7cqrrqi1AGwDzie84o0uI23+tQhHG4auQUyr7zBCTASzhBfeoU3Wzysr9hiU0mXiV25w7a/UizkxcLLczIFosAtDtoqky09F+zkytbmskNRhZ4mn0J2gQr2iyixZMrj8xavNKjOowbCjSfCiYfM0sfIb1hCMU2FeIgp0zQ4ep2Mtw13cnRHJPwUPJnNGDxld9JOhCGYWgkAGPsx9ACEuRiY1/CV3E9FbWGZVEcoTIY/yHM40rUN8X+Swr72KksA0DnPHnBCSD1wacYkXL2M+JLyRD6zzpBz/I/STRi9XVU/p6zYkr9j8vuTbcnJ1fjjzDrK1kHjBgsdLTJpN9nelwktfE1eJUcRRzubte9n642BX3RoZ+s++EidxmUDcZ8ZwxguF80uLW/f3sH2/THeBNFtacuL/sqyek3RizVigNaM2FNpuD+JcXw==;IvHshlSqGvmVcHQOdC2qjw=="
 ---

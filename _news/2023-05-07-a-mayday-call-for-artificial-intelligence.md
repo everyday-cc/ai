@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/a-mayday-call-for-artificial-intelligence
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/a-mayday-call-for-artificial-intelligence/amp/"
 type: article
 quality: 91
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -32,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "Cedars-Sinai establishes center for AI, machine learning"
+    excerpt: "Los Angeles-based Cedars-Sinai has established a new center focused on advancing artificial intelligence and machine learning."
+    publishedDateTime: 2023-05-09T14:06:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/cedars-sinai-establishes-center-for-ai-machine-learning.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
   - title: "What Generative AI Means For Banking"
     excerpt: "The technology has many use cases across banking. Here's where it can provide the greatest value and how banks can manage the ensuing risks."
     publishedDateTime: 2023-05-08T13:32:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-05-large-brain-like-neural-networks
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-05-large-brain-like-neural-networks-ai.amp"
 type: article
 quality: 74
-heat: 105
+heat: 114
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://www.cwi.nl/images/13355/brein_op_chip_shutterstock-verkle.2e16d0ba.fill-1200x630.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Human Brain Project: Study Presents Large Brain-like Neural Networks for AI"
+    excerpt: "In a new study in Nature Machine Intelligence, researchers Bojian Yin and Sander Bohté from the HBP partner Dutch National Research"
+    publishedDateTime: 2023-05-09T14:56:00Z
+    webUrl: "https://www.datanami.com/this-just-in/human-brain-project-study-presents-large-brain-like-neural-networks-for-ai/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 52
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/05/Human-Brain-Project-300x300.jpg"
+        width: 300
+        height: 300
         isCached: true
   - title: "Learning Advances Could Move Brain-Like AI Into Smartphones"
     excerpt: "Implemented in chips, called neuromorphic hardware, such spiking neural networks hold the promise of bringing AI programmes closer to users – on their own devices. These local solutions are good for privacy, robustness and responsiveness. Applications ..."

@@ -46,6 +46,15 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Need an online form? This new AI tool will build that for you"
+    excerpt: "Typeform, a company behind a lot of the forms you fill out online every day, is working with OpenAI to launch a new integration of GPT-4 with its system, called Formless. This partnership will bring artificial intelligence, like that used in ChatGPT, to make the creation of online forms faster and more intuitive than ever."
+    publishedDateTime: 2023-05-09T13:00:00Z
+    webUrl: "https://www.zdnet.com/article/need-an-online-form-this-ai-tool-can-build-that-for-you/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 47
 
 secured: "LESZGlDVCDF7My3OxWu+joy4VWJEFsY+37M2YKnxdTuf2KneFhQzefUMytU/6ngmu7qJqo0L8Ziemp86dfOmSIQVWE786FZZBeh56x14EqUtnjK9hTU6l8POtlvdgnbMgIGm85Y/5TVpiMsEIrgnwdGgHF8vNOqbryGmjzrB96BssEYk7dui/uonvpi/A1j+YTzT+i4FzYpyxKUXQJj4zcNv91wAktDoWEnfgiXuMRqw/EGYhr9rIHOsfHASwxlV+j+B5pdhq57qRbtyYJ9QMIC5BCsFnG0vyNaDvmVVlQDqZpX9YEDqhEMGrFchdQsJ/ONJPjfdtzBLFARMd9oVFu96w6LWZMNAeC12sk3DmCs6cBbkTbPfWlrS4fHXnuKQgPBR8Gg0Xsvv+apLQttHiVAwS0yn7dN3XCojUgERM4R0RsVACGpvIby1YMpjeKnXBSh2kX027Wev+7qU/rOtJ22xxHC5MvrKVeo8sxMIEXSeE1SjU77CkEfNssW8DAGWH26iwtQmWx9n5REJIqmLFw==;Rri1V0ltswGdbpJ16PwC1Q=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/university-of-sout
 webUrl: "https://markets.businessinsider.com/news/stocks/university-of-southern-california-launches-1b-plus-initiative-for-computing-including-ai-advanced-computation-and-quantum-computing-1032298479"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -29,36 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Opinion: California Wrong to Expand Facial Recognition Use"
-    excerpt: "The technology still misidentifies individuals, especially when it’s focused on people of color. While the technology has advanced, the problems haven't gone away, and new legislation won’t fix them either."
-    publishedDateTime: 2023-05-04T22:56:00Z
-    webUrl: "https://www.govtech.com/opinion/opinion-california-wrong-to-expand-facial-recognition-use"
-    ampWebUrl: "https://www.govtech.com/opinion/opinion-california-wrong-to-expand-facial-recognition-use?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/opinion/opinion-california-wrong-to-expand-facial-recognition-use?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/cf6e9f9/2147483647/strip/true/crop/940x490+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F13%2F77%2F5763ddd14e65eb9c7594500441fc%2Fshutterstock-1270097047.jpg"
-        width: 840
-        height: 438
-        isCached: true
-  - title: "Facial recognition: How does the tech being used to police the King’s Coronation work?"
-    excerpt: "he Metropolitan Police confirmed on Wednesday that it will be deploying live facial recognition technology in central London during the King’s coronation this weekend. This means the coronation ..."
-    publishedDateTime: 2023-05-04T19:20:00Z
-    webUrl: "https://www.standard.co.uk/tech/facial-recognition-technology-coronation-met-police-privacy-artificial-intelligence-b1078801.html"
-    type: article
-    provider:
-      name: London Evening Standard
-      domain: standard.co.uk
-    quality: 31
-    images:
-      - url: "https://static.standard.co.uk/2023/05/04/10/AFP_33EC47T.jpg?width=1200&width=1200&auto=webp&quality=75"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "In California, the specter of self-driving trucks brings a backlash"
     excerpt: "California, the birthplace and epicenter of the self-driving industry, could soon put the brakes on autonomous trucking."
     publishedDateTime: 2023-05-05T04:00:00Z

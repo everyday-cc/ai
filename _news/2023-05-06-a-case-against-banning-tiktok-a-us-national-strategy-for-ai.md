@@ -41,19 +41,21 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "ROISD’s Music Education Program receives national recognition"
-    excerpt: "Staff report Red Oak ISD has been honored with the Best Communities for Music Education designation from The NAMM Foundation for its outstanding commitment to music education. Now in its 24th year, the Best Communities for Music Education designation is awarded to districts that demonstrate outstanding achievement in efforts to provide music access and education"
-    publishedDateTime: 2023-05-04T21:54:00Z
-    webUrl: "https://www.waxahachietx.com/2023/05/04/roisds-music-education-program-receives-national-recognition/"
+  - title: "The AI Revolution Transforming Hybrid And Remote Work And The Return To Office"
+    excerpt: "With the advent of generative AI like ChatGPT, we are on the cusp of realizing the full potential of remote and hybrid work by reducing - while not eliminating - the benefits of office visits."
+    publishedDateTime: 2023-05-09T14:47:00Z
+    webUrl: "https://www.forbes.com/sites/glebtsipursky/2023/05/09/the-ai-revolution-transforming-hybrid-and-remote-work-and-the-return-to-office/"
+    ampWebUrl: "https://www.forbes.com/sites/glebtsipursky/2023/05/09/the-ai-revolution-transforming-hybrid-and-remote-work-and-the-return-to-office/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glebtsipursky/2023/05/09/the-ai-revolution-transforming-hybrid-and-remote-work-and-the-return-to-office/amp/"
     type: article
     provider:
-      name: Waxahachie Daily Light
-      domain: waxahachietx.com
-    quality: 41
+      name: Forbes
+      domain: forbes.com
+    quality: 83
     images:
-      - url: "https://www.waxahachietx.com/wp-content/uploads/2023/05/ROISD-NAMM.jpg"
-        width: 2048
-        height: 1536
+      - url: "https://imageio.forbes.com/specials-images/imageserve/645a5c605e5c27c4782796df/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Biden-Harris administration announces initiatives for responsible AI innovation"
     excerpt: "VP Harris meets with tech CEOs and major AI companies commit to independent evaluation at DEF CON 31. #NewsismyBusiness"
@@ -69,6 +71,15 @@ related:
         width: 394
         height: 218
         isCached: true
+  - title: "IBM Unveils All-In-One AI Integration Tool"
+    excerpt: "Blue-chip tech name IBM (NYSE:IBM) today launched WatsonX, a new, all-in-one artificial intelligence (AI) tool that will help companies with their AI integration. This announcement comes roughly 15 months after IBM sold its Watson Health unit to Francisco Partners."
+    publishedDateTime: 2023-05-09T12:50:00Z
+    webUrl: "https://www.schaeffersresearch.com/content/news/2023/05/09/ibm-unveils-all-in-one-ai-integration-tool"
+    type: article
+    provider:
+      name: SchaeffersResearch.com
+      domain: schaeffersresearch.com
+    quality: 21
 
 secured: "B+Z7InTjQwQJzuI+o+Dpogbg7B6YEicNIHJn52aeZkOMaEQZv/UDIkUiaAw+auY5qdcwnzqP2uuk2IR8pgpIT+50Gh3/izkC9tRrJfuxFUuSsTu3hztxT57FNDD2U5MvQm4x8MEgWm4fUF/KI1hU7S9CJ4PNkdXbeIbDRUJeU3eRhXVXQ9/9XmZC/7HjCC5q4A8syqSV02AHIDTIoHfGshqXg4DXQJpqdqpbQeEEwRV3YjYrnPtlYwZBoEkuZxb3i9ykjPo5Pny8699AjjhEEPC1U1h71TGbJPEkHep11jQ8kIsEAZ/UsTNuayRFdRz/jJajtw2o5900zMNXYbq8W5braMkKG/r0dGK9xIBZ8VmCGmGJuIqAZ8Y/fFfMna+nxogPPT8L3e3bDc6Xn5gY+Bq8HzW0YRwaP9kBk9+0yb5EpreGnUPxQNzHiJ88VOql1vHZi2IZNHM+0iOy3jRpdtC3vLKHakSBb9eVLLviinwIi9p/Pc/u10HGh5DotY5VjjFX7bL7gmJrZ1jYdGN/xg==;b42wxTEBwv/3HThNJjhbUA=="
 ---

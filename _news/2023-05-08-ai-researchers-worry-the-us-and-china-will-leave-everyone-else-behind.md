@@ -73,20 +73,15 @@ related:
         width: 2400
         height: 1600
         isCached: true
-  - title: "As AI ethics are debated, this Google expert says: Consider who’s acting as ‘steward’ of the technology"
-    excerpt: "\"The more perspectives, the more communities, the more cultures are brought into this conversation, the better the guardrails,\" Carolyn Yap, director of AI Practice, said during PACT's AI-focused Phorum conference."
-    publishedDateTime: 2023-05-04T20:56:00Z
-    webUrl: "https://technical.ly/software-development/ai-google-pact-phorum-ethics/"
+  - title: "The Race to Write the World’s First AI Rule Book"
+    excerpt: "The proposed Artificial Intelligence Act is a far-reaching legal framework. But rival nations are watching, hoping to take advantage of delays."
+    publishedDateTime: 2023-05-09T13:11:00Z
+    webUrl: "https://www.thecipherbrief.com/the-race-to-write-the-worlds-first-ai-rule-book"
     type: article
     provider:
-      name: Technical
-      domain: technical.ly
-    quality: 38
-    images:
-      - url: "https://technical.ly/wp-content/uploads/2023/05/IMG_1781.jpg"
-        width: 1200
-        height: 900
-        isCached: true
+      name: The Cipher Brief
+      domain: thecipherbrief.com
+    quality: 19
 
 secured: "8T0nMwzdl2DIhhdFLeQ/zVnKGaTku8TzIhZHIuM9qwIs3hV5+sSZfgq2uTaE/EczACW2JxoVHcJQe4syw3FC3L3oDRkkL4lusNkGe6SGOvqoz2nk8YNVIa9DSk5z3y/jplA9L4eKHLXtMwlrKaI9frq5De7yHw3mzZCd4RCyWZhuFRAbqh9wtmH9+hKcDqS+xWFuTpXTLb5KywyRxNei/F6MCiVUoXI9+sQULHfZ3XnRFLcgoliryCdHFmc1m/7ljq3orOnR1bBXkdrcoVoJgs3BidcFiUJyBOolq3FcHDg4+t13UzW6IpzbgIK/l1sdVQoDyHWOV4r4iEDARW1CYSK6iT92i/1KBQ+Bk1HeiU9B0wkrsukNztMNqu4Fsc5D8iCqnjbop6MQZZkVzQUTyAMoNcCsdPDmw0TNqLfq3S1gG7hcIl6bKTcoVEzPAyI1RJfmKDnwWNcxVm9ECMZXxE4cGbwNIOQmGQFLCC1TNfI+AWUZjM4YK35gJinwbCZ8VNr4Eg2o/TKktoRJVnA6uw==;JcsnUamHibYXmOKxW/qpRg=="
 ---

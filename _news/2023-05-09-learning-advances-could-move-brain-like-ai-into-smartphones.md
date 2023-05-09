@@ -72,6 +72,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Human Brain Project: Study Presents Large Brain-like Neural Networks for AI"
+    excerpt: "In a new study in Nature Machine Intelligence, researchers Bojian Yin and Sander Bohté from the HBP partner Dutch National Research"
+    publishedDateTime: 2023-05-09T14:56:00Z
+    webUrl: "https://www.datanami.com/this-just-in/human-brain-project-study-presents-large-brain-like-neural-networks-for-ai/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 52
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/05/Human-Brain-Project-300x300.jpg"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "OwWYvNMSuygDtrAGvG6uDWMv0mVs7TEj8C5JFEPgAMdQVI0X9dUuPSnmUJyUpicyY5GEmLtXLB0l++PxbSuOpPxACt+Oe6XM0bNgwInunm4+9Mc7nfHlHQgIATc/1nXeX38YUFV7y0PRyusbYR1VL4ON15nx61jNlolDa2RBytp0VFA5ZpcZ0jBYhqOr/5aKUtNek2WDScYuBOejVMPkNFAMyVS8YGgiBm9jilFX+RzD5UNvj1qoRdoQgwchCSZ86KrwyPDuLNlFmC5aDFj+5H9X8raLNvAg5q3Ft5jpFPY6mRw60D5j3i6Fb6kpziTgPjAwKvUtWLroN9VRMusZArtDhRvSZ6cNj8+bl8cYMD0=;FfJ/x/EUu2ehqdUmy06uIQ=="
 ---

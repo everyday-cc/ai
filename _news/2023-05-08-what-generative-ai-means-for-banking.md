@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Cedars-Sinai establishes center for AI, machine learning"
+    excerpt: "Los Angeles-based Cedars-Sinai has established a new center focused on advancing artificial intelligence and machine learning."
+    publishedDateTime: 2023-05-09T14:06:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/cedars-sinai-establishes-center-for-ai-machine-learning.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
   - title: "How AI Built This"
     excerpt: "The Information has a simple mission: deliver important, deeply reported stories about the technology business you won’t find elsewhere. Many of the most influential people in the industry turn to us for fresh information and original insight."
     publishedDateTime: 2023-05-05T18:43:00Z

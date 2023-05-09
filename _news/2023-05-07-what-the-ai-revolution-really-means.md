@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/ai-is-bringing-a-p
 webUrl: "https://markets.businessinsider.com/news/stocks/ai-is-bringing-a-profitable-revolution-to-all-sectors-1032299076"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -23,49 +23,19 @@ topics:
   - AI
 
 related:
-  - title: "Synopsys.AI- Revolutionizing Chip Design Through AI-Driven EDA Suite"
-    excerpt: "Ranked Industry Analyst Patrick Moorhead gives his thoughts on Synopsys.ai and how Synopsys is leveraging AI into chip design and EDA."
-    publishedDateTime: 2023-05-04T22:15:00Z
-    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/05/04/synopsysairevolutionizing-chip-design-through-ai-driven-eda-suite/"
-    ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/05/04/synopsysairevolutionizing-chip-design-through-ai-driven-eda-suite/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/05/04/synopsysairevolutionizing-chip-design-through-ai-driven-eda-suite/amp/"
+  - title: "A.I. Week: How artificial intelligence is revolutionizing the medical world"
+    excerpt: "Artificial intelligence is revolutionizing the international medical field, and in the near future, its role in our hospitals is expected to just keep growing."
+    publishedDateTime: 2023-05-09T14:02:00Z
+    webUrl: "https://www.wxyz.com/news/a-i-week-how-artificial-intelligence-is-revolutionizing-the-medical-world"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
+      name: WXYZ
+      domain: wxyz.com
+    quality: 35
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64542c02cba0ed1862eabd27/0x0.jpg?format=jpg&width=1200"
-        width: 624
-        height: 780
-        isCached: true
-  - title: "Canadian AI startup Astrus on the way to revolutionize analog chip design"
-    excerpt: "Astrus, a Canada-based startup focusing on analog IC design automation, is aspiring to revolutionize the global chip design industry by leveraging recent breakthroughs in artificial intelligence (AI)."
-    publishedDateTime: 2023-05-09T02:14:00Z
-    webUrl: "https://www.digitimes.com/news/a20230509VL200/ai-analog-ic-canada-eda-ic-design-distribution.html?chid=13"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 53
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230509vl200_files/6_r.jpg"
-        width: 336
-        height: 224
-        isCached: true
-  - title: "Artificial intelligence is real care: the future of AI-driven medical schemes"
-    excerpt: "Although typically perceived as robotic and inhuman, it is important to understand that care sits at the heart of AI-driven health innovation. In simple terms, AI-driven systems can quickly analyse large amounts of data and generate insights that help inform healthcare decisions."
-    publishedDateTime: 2023-05-05T06:12:00Z
-    webUrl: "https://www.bizcommunity.com/Article/196/159/238033.html"
-    type: article
-    provider:
-      name: Bizcommunity
-      domain: bizcommunity.com
-    quality: 51
-    images:
-      - url: "https://biz-file.com/c/2305/696789-1200x624.jpg?2"
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/983adc4/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2Fae6%2Fbe88c4e651db4a7dbe102614d7272948%2Fae6989154e2e4be3ae579d57a55711ef%2Fposter_8be10a2ad5c74533856a8bf2a479b3eb.jpg"
         width: 1200
-        height: 624
+        height: 630
         isCached: true
 
 secured: "Vf7mi618vzSQoWK4h2LUxPzs3PkthVBKUl3wN82HfMBLwEc0UFd3rFf8DBUhcy7mZ68jGYZsCw8wtsS5cMnGPXQmtBjPUbogrILRFxs6aGvHLqhZu6EQNtjaTn+793Vc39c3QebigA2pPoLT4eotZ0kev4cgqKTqG9jxECFzVCBDSwwEFB1HMU5MODuvDQq+dZguOezK3+NSaA5NWGRs0IqP6VNjd7rCGuP3TZpOHib3I95RjaVdN5BO4uLEm1YmVVqAxbNvyRXgrV10eX4/s6lc0xjFd5upiPykH35edwv78pNVH3Pb+cW4m7bEOsWMRHNkSyC37EnZ1dlKRWwnpi4DpBhP8+lMctGCxBHeHVI=;2MlXuw1aRAUrUxVEi+9avA=="

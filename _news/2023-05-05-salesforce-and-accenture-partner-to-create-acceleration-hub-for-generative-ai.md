@@ -46,6 +46,15 @@ related:
         width: 1400
         height: 512
         isCached: true
+  - title: "Informatica goes all in on generative AI with Claire GPT"
+    excerpt: "Informatica today announced Claire GPT, a generative AI tool aiming to help enterprises with data management tasks."
+    publishedDateTime: 2023-05-09T13:00:00Z
+    webUrl: "https://venturebeat.com/data-infrastructure/informatica-goes-all-in-on-generative-ai-with-claire-gpt/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
 
 secured: "JAsVWU49eBeMKSfKImyMohNQe3snGBSm0odUqStY0uTVibvO4rfeWPjxzqt4WEgtyVydAF4NZALeC6ucTwvMxAOeDWrmeQ6RmtuDMeEke3T4hvO3gZ7Yu+XR02+CSbg8/wjc+RLdXpBmmkdgEJp+j13WYPb51HLeLK1ILJ2LzmHrzXKZxQsGFELdG+dYvkRwbPPwdOP3HMFA4Qyxv8JjS2WGrZ1wi6ynMnTIFCnFPqqRWBc1OWVgXcVxQUIJNRXfPNroGTXYk36pC2SUfQr057DSS+zY+s47Y1zJwiSe1/K62YpJQGy5ceQRWia2d+EiOOmvZlmQJsUVijuSI0mrVgna6QxOnoCQ4TfbH9jpBIe6xoDNRRnhEaae91DQkx58lMyf0esk+SRGvw9oiW+rtkCd0IEiJusaM70ndNdQYtC50+CsQ87kP1iVQWeiLC8L1ww5wO+inTwF8sQEuynttEdLmcr5Juw/HnUQBrqbrFCMk6yMLl1wBHDW8uTQfp9NA97GOzsXXCA3fi+Ow4eVIA==;J0uGIXIngzEfDm6e1QHI3g=="
 ---

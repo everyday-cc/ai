@@ -24,63 +24,49 @@ topics:
   - AI Ethics
 
 related:
-  - title: "Hugging Face and ServiceNow open up generative AI for coding with StarCoder"
-    excerpt: "ServiceNow and Hugging Face have launched StarCoder, a large language model enabling generative AI for code generation."
-    publishedDateTime: 2023-05-04T21:32:00Z
-    webUrl: "https://venturebeat.com/ai/hugging-face-and-servicenow-open-up-generative-ai-for-coding-with-starcoder/"
-    ampWebUrl: "https://venturebeat.com/ai/hugging-face-and-servicenow-open-up-generative-ai-for-coding-with-starcoder/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/hugging-face-and-servicenow-open-up-generative-ai-for-coding-with-starcoder/amp/"
+  - title: "It’s generative AI models vs. hackers at DEF CON’s AI Village"
+    excerpt: "This year’s DEF CON 31 security conference, being held August 10–13, will feature a public assessment of generative AI at the AI Village."
+    publishedDateTime: 2023-05-05T20:40:00Z
+    webUrl: "https://venturebeat.com/ai/its-generative-ai-models-vs-hackers-at-def-cons-ai-village/"
+    ampWebUrl: "https://venturebeat.com/ai/its-generative-ai-models-vs-hackers-at-def-cons-ai-village/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/its-generative-ai-models-vs-hackers-at-def-cons-ai-village/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
     quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/05/image1-1.png?w=1200&strip=all"
-        width: 1199
-        height: 600
-        isCached: true
-  - title: "Why generative AI is the finance industry’s road to superior customer service"
-    excerpt: "Delivering a premium customer experience has always been essential to financial services. But in today’s rapidly changing environment, financial institutions need to do more than maintain the experiences they’ve developed."
-    publishedDateTime: 2023-05-08T15:38:00Z
-    webUrl: "https://techcrunch.com/sponsor/nvidia-aws-company/why-generative-ai-is-the-finance-industrys-road-to-superior-customer-service/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 83
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/04/GettyImages-1456589557.jpg?resize=1200,633"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/05/VB_hackers_hackathon_bing_1200x800.jpg?w=1200&strip=all"
         width: 1200
-        height: 633
+        height: 800
         isCached: true
-  - title: "How generative AI is building better antibodies"
-    excerpt: "Language models similar to those behind ChatGPT have been used to improve antibody therapies against COVID-19, Ebola and other viruses."
-    publishedDateTime: 2023-05-04T23:00:00Z
-    webUrl: "https://www.nature.com/articles/d41586-023-01516-w"
+  - title: "Godfathers of AI, too, now fear unbridled Generative AI tools"
+    excerpt: "The Turing Award is named after Alan M. Turing, the British mathematician who developed the idea for the Universal Turing Machine, the basis for the first computer. Turing is also considered one of the founding fathers of AI, along with Marvin Minsky, Allen Newell, and Herbert A. Simon."
+    publishedDateTime: 2023-05-05T02:59:00Z
+    webUrl: "https://www.livemint.com/mint-top-newsletter/techtalk05052023.html"
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 37
+      name: Mint
+      domain: livemint.com
+    quality: 39
     images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-01516-w/d41586-023-01516-w_25313644.jpg"
-        width: 1024
-        height: 576
+      - url: "https://www.livemint.com/lm-img/img/2023/05/03/original/Picture3_1683118493527.jpg"
+        width: 624
+        height: 446
         isCached: true
-  - title: "ServiceNow and Hugging Face release open-source AI model for generating code"
-    excerpt: "The companies claim that StarCoder is the most advanced model of its kind in the open-source ecosystem. It was developed through a research project that ServiceNow and Hugging Face launched last year."
-    publishedDateTime: 2023-05-04T22:53:00Z
-    webUrl: "https://siliconangle.com/2023/05/04/servicenow-hugging-face-release-open-source-ai-model-generating-code/"
+  - title: "IBM's generative AI strike force"
+    excerpt: "O.G. tech giant IBM is launching a counterstrike in the industry's suddenly-hot AI fight with today's announcement of Watsonx. The big picture: Business-focused IBM claims its latest AI offering, set to launch in July, provides more accurate answers and takes a more responsible approach than rivals."
+    publishedDateTime: 2023-05-09T10:00:00Z
+    webUrl: "https://www.axios.com/2023/05/09/watsonx-ibm-generative-ai-chatgpt"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 36
+      name: Axios
+      domain: axios.com
+    quality: 39
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/code.png"
-        width: 718
-        height: 400
+      - url: "https://images.axios.com/2abZGvpVZrwSgGGrbzRnGszoxeg=/0x489:6000x3864/1366x768/2023/05/09/1683594467793.jpg"
+        width: 1366
+        height: 768
         isCached: true
 
 secured: "T3FysIPiHwQ9YbOfRcNJBmrKWx9IkrhPHHJKaLVpHw9TuJlaBPPMclF38LRdNxi6ClaFF426deoe2LyWeTfs1y/05H4qVKaxABNbD/CqioxQ9XfMuM2PKt5SVkwyg4+h+r0FHOkDeOz6O2TtRoX63k32xgN47hA7OQqvFvlmtNJbdskyMOBrCFnJjSGqMcpJIQwQ3HAVWY+cepOJXqV1yelFvJPgYN01WJrF61IM+GbABWwzP2QKTxI1TWEulbjp8SH3YD/TvxwDkGycoRIVAXkWHYyap4hq/NK0v0k7sub82txP6f3Xm0r0idpcM2ABSwzuvyzZ5Z7oakffxBF6AuobVuxaedCqQQdX7Qxi13srWjV8A+taf4y/DBFuPuhz3uDMSmD7rW8e4V9YpS1l92YdUW4junlaTm7iXhvxQ076iMn0qFF5LW+yCGCeSlX77lrOhWe6Yv+S4ERwIESuumkd+Wdw7zFrEhhv5uiL9dF5bUSGgQLfaTdGxObm0Wl8+LDriBAKRSPR3VBMcnb7DQ==;2q19RPDkDkTZwFDObv3ySA=="

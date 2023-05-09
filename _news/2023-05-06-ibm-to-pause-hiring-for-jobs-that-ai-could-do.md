@@ -49,6 +49,15 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "Leading the Way with AI: How Companies are Transforming Industries"
+    excerpt: "Here are some companies that are leading the way in AI and driving transformation and innovation, including EnKash and Addverb., Technology & Science News, Times Now"
+    publishedDateTime: 2023-05-09T13:13:00Z
+    webUrl: "https://www.timesnownews.com/technology-science/leading-the-way-with-ai-how-companies-are-transforming-industries-article-100104420"
+    type: article
+    provider:
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 19
 
 secured: "Y/ubgQGqH2VCrPj7G0FlsIIAU/bpEPLPFsjGsvcltXagNhXTJXqEY4OhGW7RFXD+oRCQgEzxQ0W9NNqsk6NF5SmKzZz84lhtRlqt/XrsNDzMBk4s1fCMxFp9Vv5jLmcdIWEpVljlhxk3K2aQi5Bz1AmP3rWuqOcYVd3RXKHKw9XOiSfAQqQ/827RF0eIR2l+mt9gsW4khEU4kZVmWNaPKV2x5+piicvqshtHsg5aHKBTl2xbFdCrtuTc2BOr3Kps4BasYjSvQe5yVquQBW1bS5KcdebsKhIgP6vKadY9CuNB/wgsI0zY6gQjJqninsBdqBMHaf6ZMfgMcSaZpPqMycJ4pW73jVP9o1HK4qlLmI0=;mzYXDfISJq5Jw1LMs9EVIw=="
 ---

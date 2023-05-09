@@ -63,6 +63,29 @@ related:
         width: 855
         height: 570
         isCached: true
+  - title: "FinovateSpring Hosting 60+ Live Demos Showcasing Disruptive Fintech Solutions"
+    excerpt: "London-based Informa, an international events, digital services and academic knowledge group, will host its upcoming event, FinovateSpring, a world-class conference for leading fintech companies and global financial institutions from May 23-25,"
+    publishedDateTime: 2023-05-09T14:26:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273825335/finovatespring-hosting-60+-live-demos-showcasing-disruptive-fintech-solutions"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 21
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1683349716023.jpg"
+        width: 630
+        height: 420
+        isCached: true
+  - title: "4 AI-powered firms reshaping the FinTech space in Czech Republic"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2023-05-09T12:02:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/4-ai-powered-firms-reshaping-the-fintech-space-in-czech-republic/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 19
 
 secured: "FVoOKz6CCbhm84sSOI0GvJUAfjhERnGD2GheISWW4IbRz9PSd/gfDnzh9sif9Jq+PgTjqpzT9OWXhVkZ2nz7RPdmedtuT5owKLlL8TSIVD9RzieQZWx0LzzG4RjGCz+1ABSVy5mVvC0egPNPnnutO7kiHhh5vr/iWnlUVW/69xYgPQkfzUBDYJI5l5nzh1e/bM7FkyOiVgbpebd/7/R7Mgssc4plgZrglfIaB+tboinlkukmHF+b7d9HAa5AI6+cqLdOz7EbQH3TMykqEizZnn69ZqRWyGgYYF5tHcEuvu7J63lF/M91vG0poP3YXuIztC7FpUKjtVE27E7g19cBObddwc2JAPrTta6QfLmmTil+xTxwPobjZiFcgJqRJy4uoVVyFHKMa1LQ494z4XILLCd84d7kIg0vHENyOiwAl0cupaDGKbKYSjMrbNyDdC89ySQRzw/b94Gee6EUHdGulnlvT7dzIspy17qTAojTaTvSittJn8poM0/iJIDURGFidnYhKTy7C+jymvn+1wbHfw==;eZ7puCEJ8BEGJgnMRWGHqA=="
 ---

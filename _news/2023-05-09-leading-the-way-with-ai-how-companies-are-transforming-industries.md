@@ -1,0 +1,64 @@
+---
+category: news
+title: "Leading the Way with AI: How Companies are Transforming Industries"
+excerpt: "Here are some companies that are leading the way in AI and driving transformation and innovation, including EnKash and Addverb., Technology & Science News, Times Now"
+publishedDateTime: 2023-05-09T13:13:00Z
+originalUrl: "https://www.timesnownews.com/technology-science/leading-the-way-with-ai-how-companies-are-transforming-industries-article-100104420"
+webUrl: "https://www.timesnownews.com/technology-science/leading-the-way-with-ai-how-companies-are-transforming-industries-article-100104420"
+type: article
+quality: 19
+heat: -1
+published: false
+
+provider:
+  name: timesnownews
+  domain: timesnownews.com
+
+topics:
+  - Microsoft AI
+  - AI
+
+related:
+  - title: "Google, IBM to Tesla, how these companies are using AI to transform work"
+    excerpt: "Google, IBM to Tesla are some companies that are leading the way in AI and driving transformation and innovation. Artificial Intelligence (AI) is one of the most transformative technologies of the current time."
+    publishedDateTime: 2023-05-08T07:34:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/google-ibm-to-tesla-how-these-companies-are-using-ai-to-transform-work-71683530733850.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/google-ibm-to-tesla-how-these-companies-are-using-ai-to-transform-work-71683530733850.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/google-ibm-to-tesla-how-these-companies-are-using-ai-to-transform-work-71683530733850.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 75
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2023/05/08/1600x900/Digital-Ad-Tax-0_1683531188343_1683531212843.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Google Is Using AI to Make Hearing Aids More Personalized"
+    excerpt: "A new partnership between Google and an Australian hearing coalition is using machine intelligence to improve the customizability of hearing aids and cochlear implants."
+    publishedDateTime: 2023-05-07T11:00:00Z
+    webUrl: "https://www.wired.com/story/cochlear-and-google-hearing-technology-coalition/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 67
+    images:
+      - url: "https://media.wired.com/photos/6455349e6279e36472844413/191:100/w_1280,c_limit/Cochlear-and-Google-Partner-to-Improve-Hearing-Technology-Gear.jpg"
+        width: 1280
+        height: 670
+        isCached: true
+  - title: "IBM to pause hiring for jobs that AI could do"
+    excerpt: "International Business Machines Corp. Chief Executive Officer Arvind Krishna said the company expects to pause hiring for roles it thinks could be replaced with artificial intelligence in the coming years."
+    publishedDateTime: 2023-05-05T21:34:00Z
+    webUrl: "https://www.news-journal.com/news/business/ibm-to-pause-hiring-for-jobs-that-ai-could-do/article_a9ce5b06-eb8c-11ed-9635-c72a4b171373.html"
+    type: article
+    provider:
+      name: Longview News-Journal
+      domain: news-journal.com
+    quality: 19
+
+secured: "WDpwKV6D3qDJH0p+4jv78G0/pRXiBV4FhH70R1/ehAKZMV+w34tZIyb2XG/94GrOuq4szGxkNblcsUWshrXTRN7xepgztzi+7G+7ks1lplM/l/NzTuHUqftfv6T3aYNpKBZjukm/d6F8vAPwRc4guOm2SXT7W5k2H+1e7wVTWA7TimrxArgUQSF0z+Ir5gH+LAUeyI3tT9QtuZaVc7ywLR5mrIWXa7iIg0zgYxsjfRs2U69dgyIVSoTXqepxgN7lh0dNPPg0hZ++Uv6fUA5YGeVjFi9bF3oGbX1UuuC8Rtzao5uq0OKpY77SlPIf0kkHC7SnDVG8ksQaG7IH5RgyDq1B/QJcCYIqE9JON9BcErrRS1kY8OlMc1456YM8Vth2vhEafQLHD1HXtbUU7k/kDZEO87wVWrVW1Zf+Zmsb8oFwbQ3XKKE4/HbJelfUs+rPh3HwY4m0hpfdPiB/1SHhUZppwp/gK4svmENcHt0ChFMMnpegFIy6InhbJaj+vDlkHuI72hWuiUhhGRapRL338w==;34bIixO5q3qEc2JSf7OIIg=="
+---
+

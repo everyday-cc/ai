@@ -1,20 +1,24 @@
 ---
 category: news
 title: "SAP to Embed IBM Watson Artificial Intelligence into SAP® Solutions"
-excerpt: "New AI capabilities in SAP Start will be designed to help users boost productivity with both natural language capabilities and predictive insights using IBM Watson AI solutions built on IBM's ..."
-publishedDateTime: 2023-05-02T13:52:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20230502cl86092/sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20230502cl86092/sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions"
+excerpt: "SAP to Embed IBM Watson Artificial Intelligence into SAP® Solutions May 02, 2023 (PRNewswire via COMTEX) -- PR Newswire WALLDORF, Germany and ARMONK,"
+publishedDateTime: 2023-05-02T13:00:00Z
+originalUrl: "https://www.marketwatch.com/press-release/sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions-2023-05-02"
+webUrl: "https://www.marketwatch.com/press-release/sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions-2023-05-02"
 type: article
 
 provider:
-  name: Morningstar
-  domain: morningstar.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - IBM AI
   - AI
 
-secured: "GGCtiUJVYE7BJS4dQFBR0usU598GD9+0Gj7rMnIA1o53F+Nv44d1AiNTca29qPFNw7FGkF76BpENlTbX+9MBceMaZl0x8DX1TdQ0qW11ZlTaySi6zIEFkQ3sUqxZ+35Rgu248eH3rRbeOSmS0TNVVcijubx5AS63Q8sTdDMEng2Y/Kcs1eCdP3RMhePsx2BgGLcTzTL4IH1CMLNIpAmwWqRZVQ79Pzu7KT+w7HuOIGS0t/PNJJ2ydZDjDe7kP+mLnLBCXmuKdsFOVIpa0Mb5nZEwJSxFCGJ5+LQtHqah/IihnDnoVzwD3kaysOod+TSw7o75w2aGh1xTpB+zDOMpFKRxvUbxgim+zNKHnM7Gmk8=;bzlYNPpzY2nJD2oq5cL00w=="
+secured: "5viD8fcBVCX9THOpboQBnimY7tPJ18IBZBmhg9+hCiFGi+VyNI6SKyXJSTmc5BsbUYXdgYiTczNDDkVfpBVBPb8KITRKNH/wnOSf8XIcNG8g+5kburB54g4G3c62mgR4k2EsmnCC1WtPSkNs0i8sKsKS56F1O9GQMWtYiMy9TtgZJFY5Nd0EXoXYLK6kRCCYIRfd3ewbt8QU65ZbtrFofZ5UF+O5WDWF83ts7VNiLt/BIKUXd9DviYQJNabBxLgWpOGpGeFiRhge7y8xwCQ5Se4ioPq0qSPfL2t/BfzJr5AZKqD8096QVbkjvEFmy1cAt7nQD11/qaAr4JM44F/H5qgzgaX4KV6ZRwc4MGGVUBE=;raFySesjF8QWfQP21kKCVQ=="
 ---
 

@@ -39,36 +39,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "VP Harris to meet with CEOs about artificial intelligence risks"
-    excerpt: "Companies worried about being liable for something in their training data might also not have incentives to rigorously track it, said Margaret Mitchell, chief ethics scientist at AI startup Hugging Face. \"I think it might not be possible for OpenAI to ..."
-    publishedDateTime: 2023-05-04T20:01:00Z
-    webUrl: "https://www.kcra.com/article/kamala-harris-ceos-artificial-intelligence-risks/43794424"
-    ampWebUrl: "https://www.kcra.com/amp/article/kamala-harris-ceos-artificial-intelligence-risks/43794424"
-    cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/kamala-harris-ceos-artificial-intelligence-risks/43794424"
-    type: article
-    provider:
-      name: kcra.com
-      domain: kcra.com
-    quality: 59
-    images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/kamala-harris-ap22131652890528.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Vice President Harris, tech giants discuss artificial intelligence"
-    excerpt: "Now that artificial intelligence has been rolled out to the public, the urgent question is how to harness its benefits without unleashing its risks. CBS News' Dina Demetrius reports."
-    publishedDateTime: 2023-05-04T21:31:00Z
-    webUrl: "https://www.cbsnews.com/chicago/video/vice-president-harris-tech-giants-discuss-artificial-intelligence/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 37
-    images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/05/04/ff108f96-1c1c-49ec-9dc6-1a2757283e2f/thumbnail/1200x630/b6e6ef76be42705a0e6e9d60bf025be3/5cc0f0b9b9352e0cce38ce92b58fc030.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "pgakJVhWKejVCn6lH6eJpB7w3eVivK86ouKMkJI49GEPedOzEtSdRtXuuu6Aik15SRj9iL/rZmukS17bgJ37spvwHNgcwA+OvJIcg4yAcNxZZfIUUE7Yd6OhXdC8v+ys5yOyr5XRqz22UYe1OVvuJmDwBTkitZ44xBWJP6Bd8da9pmeYJMDwD/hldT9iIPGwUpJScyKnIxz3v8KTfTjKEUy5ovdajXNA57ZpCIi7pYcSVXDL4/LmxDfD5zFicWcAogMImsiMwbQzRFqRTIvKR6eT3A63GlA21Nd8OXkOnq7wd9JAF1JJ9QQK8W2gC2I/hNAwDZX+avMjRTj/rUGp+FJvH/+aXOfNBp0zlvGsRtk=;YQLP3I4cyomhSco8Pz3MUw=="
 ---

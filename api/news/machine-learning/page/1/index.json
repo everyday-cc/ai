@@ -53,7 +53,7 @@
       "originalUrl": "https://techxplore.com/news/2023-05-large-brain-like-neural-networks-ai.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -96,7 +96,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/host-ml-models-on-amazon-sagemaker-using-triton-tensorrt-models/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -352,7 +352,7 @@
       "originalUrl": "https://venturebeat.com/ai/a-mayday-call-for-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -1138,6 +1138,40 @@
       ]
     },
     {
+      "path": "_news/2023-05-02-deep-learning-in-drug-discovery-and-deep-learning-in-diagnostics-market-is-anticipated-to-grow-at-over-20-cagr-claims-roots-analysis.md",
+      "title": "Deep Learning in Drug Discovery and Deep Learning in Diagnostics Market is anticipated to grow at over 20% CAGR, claims Roots Analysis",
+      "excerpt": "Roots Analysis has announced the addition of \"Deep Learning in Drug Discovery Market and Deep Learning in Diagnostics Market (2nd",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/deep-learning-in-drug-discovery-and-deep-learning-in-diagnostics-market-is-anticipated-to-grow-at-over-20-cagr-claims-roots-analysis-301813085.html",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/deep-learning-in-drug-discovery-and-deep-learning-in-diagnostics-market-is-anticipated-to-grow-at-over-20-cagr-claims-roots-analysis-301813085.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-02T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-02-botkeeper-operating-system-bos-awarded-for-artificial-intelligence-machine-learning-solution.md",
       "title": "Botkeeper Operating System (BOS) Awarded for Artificial Intelligence / Machine Learning Solution",
       "excerpt": "The Botkeeper Operating System (BOS) is designed to ease capacity issues by automating the bookkeeping work that slows firms down and deprives their growing advisory service practices of needed resources.",
@@ -1379,49 +1413,6 @@
         "AI",
         "Machine Learning",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-deep-neural-network-provides-robust-detection-of-disease-biomarkers-in-real-time.md",
-      "title": "Deep neural network provides robust detection of disease biomarkers in real time",
-      "excerpt": "The deep neural network he developed classifies particle ... a relatively cheap edge device for accelerated execution of artificial intelligence algorithms. This means the system also requires ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/05/230502155410.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/05/230502155410.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-01T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

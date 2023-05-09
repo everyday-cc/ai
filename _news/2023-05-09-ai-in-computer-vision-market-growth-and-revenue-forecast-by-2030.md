@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI Accelerator Chip Market: Trend & Outlook by 2030"
+    excerpt: "The Main Objective of The AI Accelerator Chip Market Is to Develop the Perspectives of Business Professionals and"
+    publishedDateTime: 2023-05-09T03:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-accelerator-chip-market-trend-outlook-by-2030-2023-05-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI Marketing Market Future Growth and Business Opportunities 2023 | Updated Report"
     excerpt: "AI Marketing Market Size 2023 | New Report (124 Pages) | Analytics | In This Reports AI Marketing Market Top AI"
     publishedDateTime: 2023-05-05T05:52:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-05-08/gptzero-seeks-t
 webUrl: "https://www.bloomberg.com/news/articles/2023-05-08/gptzero-seeks-to-thwart-plagerism-in-schools-online-media"
 type: article
 quality: 67
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "With Seed Funding Secured, AI Detection Tool GPTZero Launches New Browser Plugin"
+    excerpt: "CEO Edward Tian and his team of 10 machine learning engineers wants to “preserve what’s human” by giving people the ability to discern what’s machine generated."
+    publishedDateTime: 2023-05-09T14:33:00Z
+    webUrl: "https://www.forbes.com/sites/rashishrivastava/2023/05/09/with-seed-funding-secured-ai-detection-tool-gptzero-launches-new-browser-plugin/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 62
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/645a534875a3f83c6644914e/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "A new app aims to thwart AI plagiarism in schools, online media"
     excerpt: "The startup GPTZero, designed by a 22-year-old college student, has attracted 1.2 million registered users since January. It aims to deter the misuse of ChatGPT in classrooms."
     publishedDateTime: 2023-05-08T23:19:00Z

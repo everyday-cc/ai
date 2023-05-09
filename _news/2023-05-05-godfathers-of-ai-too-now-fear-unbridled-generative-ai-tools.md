@@ -41,15 +41,29 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Generative AI defined: How it works, benefits and dangers"
-    excerpt: "In April 2023, the European Union proposed new copyright rules for generative AI that would require companies to disclose any copyrighted material used to develop these tools. Hopes are that such rules will encourage transparency and ethics in AI ..."
-    publishedDateTime: 2023-05-04T19:22:00Z
-    webUrl: "https://www.techrepublic.com/article/what-is-generative-ai/"
+  - title: "Taming Generative AI with Model Governance"
+    excerpt: "This story was produced by WIRED Brand Lab for PwC. WIRED is where tomorrow is realized. It is the essential source of information and ideas that make sense of a world in constant transformation. The WIRED conversation illuminates how technology is changing every aspect of our lives—from culture to business,"
+    publishedDateTime: 2023-05-08T13:01:00Z
+    webUrl: "https://www.wired.com/sponsored/story/taming-generative-ai-with-model-governance/"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 49
+      name: Wired
+      domain: wired.com
+    quality: 51
+  - title: "IBM's generative AI strike force"
+    excerpt: "O.G. tech giant IBM is launching a counterstrike in the industry's suddenly-hot AI fight with today's announcement of Watsonx. The big picture: Business-focused IBM claims its latest AI offering, set to launch in July, provides more accurate answers and takes a more responsible approach than rivals."
+    publishedDateTime: 2023-05-09T10:00:00Z
+    webUrl: "https://www.axios.com/2023/05/09/watsonx-ibm-generative-ai-chatgpt"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 39
+    images:
+      - url: "https://images.axios.com/2abZGvpVZrwSgGGrbzRnGszoxeg=/0x489:6000x3864/1366x768/2023/05/09/1683594467793.jpg"
+        width: 1366
+        height: 768
+        isCached: true
 
 secured: "xyDAjKooZK/djAuRHkW6HnLr/haq5OeXIhJmTP45UKdoULBX2Lemj+6nwgyY8+xDIXwj1nPLQiqy3Klhx/QjIKNxrxmg0Lfau+aq1Y2or5Z4nNOvi5Tcal3ziVbBqHvNDvikjpIeaCjHgTfp8I2ETrwS69rQ5WuqXeCrGoClvGyr1DmsjwAIlfJ/1PrehZlxJ5MYvlXAgW7Z5eofN4o/eORpLxgGWh7gIN971qwp0srEariivWqjd6mns/24in6WZmBSXqxk6WKIRyJ175BfIfqv6D2AHlHsBPmC9URHoZb2dybn/9sxOzO/Lg4/en6c1fN8WMHLX/c3bZwg7cPE3XJLI1aQe8iNzqj+Sd8JVGM=;p17dZok9m9b3TYv3bDRCaQ=="
 ---

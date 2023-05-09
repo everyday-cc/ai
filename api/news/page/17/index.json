@@ -2,6 +2,278 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2023-04-28-ai-weekly-replit-raises-97-million-for-ai-coding-hugging-face-takes-aim-at-chatgpt.md",
+      "title": "AI Weekly: Replit Raises $97 Million For AI Coding, Hugging Face Takes Aim At ChatGPT",
+      "excerpt": "The feature is said to be an experiment available in select regions. AI startup Runway launches an app to bring users video-to-video generative AI Runway, which contributed to the development Stable Diffusion, has launched a video-to-video generative AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/charliefink/2023/04/27/ai-weekly-replit-raises-97-million-for-ai-coding-hugging-face-takes-aim-at-chatgpt/",
+      "originalUrl": "https://www.forbes.com/sites/charliefink/2023/04/27/ai-weekly-replit-raises-97-million-for-ai-coding-hugging-face-takes-aim-at-chatgpt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/644b07d0576948b60d02778e/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 821,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2023/04/27/ai-weekly-replit-raises-97-million-for-ai-coding-hugging-face-takes-aim-at-chatgpt/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/04/27/ai-weekly-replit-raises-97-million-for-ai-coding-hugging-face-takes-aim-at-chatgpt/amp/",
+      "publishedDateTime": "2023-04-27T16:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-28-spotify-ceo-addresses-ai-concerns-but-also-sees-opportunity-to-attract-more-creators.md",
+      "title": "Spotify CEO Addresses AI Concerns, But Also Sees Opportunity To Attract More Creators",
+      "excerpt": "Spotify CEO Daniel Ek discussed concerns and opportunities surrounding the integration of AI into the music platform during its Q1 2023 earnings call.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johanmoreno/2023/04/27/spotify-ceo-addresses-ai-concerns-but-also-sees-opportunity-to-attract-more-creators/",
+      "originalUrl": "https://www.forbes.com/sites/johanmoreno/2023/04/27/spotify-ceo-addresses-ai-concerns-but-also-sees-opportunity-to-attract-more-creators/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/644b068b82129dfcc9027798/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johanmoreno/2023/04/27/spotify-ceo-addresses-ai-concerns-but-also-sees-opportunity-to-attract-more-creators/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/04/27/spotify-ceo-addresses-ai-concerns-but-also-sees-opportunity-to-attract-more-creators/amp/",
+      "publishedDateTime": "2023-04-27T16:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-28-how-artificial-intelligence-is-transforming-hollywood.md",
+      "title": "How artificial intelligence is transforming Hollywood",
+      "excerpt": "Artificial intelligence is revolutionizing Hollywood productions and raising new questions. CNBC’s Julia Boorstin shows us how companies are using AI to put actors’ faces on body doubles and even “revive” deceased movie stars on screen.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/nightly-news/video/how-artificial-intelligence-is-transforming-hollywood-171546693664",
+      "originalUrl": "https://www.nbcnews.com/nightly-news/video/how-artificial-intelligence-is-transforming-hollywood-171546693664",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_04/WA-NNWEB-20230427-01_AI_HOLLYWOOD_BOORSTIN_3_21_MIXDOWN_frame_3793-376hvp.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo171546693664",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo171546693664",
+      "publishedDateTime": "2023-04-27T15:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-28-first-babies-conceived-using-playstation-controlled-robot-are-born.md",
+      "title": "First babies conceived using PlayStation-controlled robot are born",
+      "excerpt": "the student mechanical engineer who controlled the sperm-injecting device, told MIT Technology Review. The robot was developed by Overture Life, a company that’s working towards automating in ...",
+      "sourceUrl": null,
+      "webUrl": "https://metro.co.uk/2023/04/27/first-babies-conceived-using-playstation-controlled-robot-are-born-18685759/?ico=tag-post-strip_item_3_news",
+      "originalUrl": "https://metro.co.uk/2023/04/27/first-babies-conceived-using-playstation-controlled-robot-are-born-18685759/?ico=tag-post-strip_item_3_news",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://metro.co.uk/wp-content/uploads/2023/04/picsea-kd3qRzgEl70-unsplash-5929.jpg?quality=90&strip=all&zoom=1&resize=600%2C400",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://metro.co.uk/2023/04/27/first-babies-conceived-using-playstation-controlled-robot-are-born-18685759/amp/",
+      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/04/27/first-babies-conceived-using-playstation-controlled-robot-are-born-18685759/amp/",
+      "publishedDateTime": "2023-04-27T15:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Metro",
+        "domain": "metro.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-28-embedded-vision-summit-announces-full-conference-program-for-edge-ai-and-computer-vision-innovators-may-22-24-in-santa-clara-california.md",
+      "title": "Embedded Vision Summit® Announces Full Conference Program for Edge AI and Computer Vision Innovators, May 22-24 in Santa Clara, California",
+      "excerpt": "The premier conference and tradeshow for practical, deployable computer vision and edge AI, the Summit focuses on empowering product creators to bring perceptual intelligence to products.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-journal.com/embedded-vision-summit-announces-full-conference-program-for-edge-ai-and-computer-vision-innovators-may/article_c1e20f7d-3f5b-58b4-a4cd-4c3c9b367e3d.html",
+      "originalUrl": "https://www.news-journal.com/embedded-vision-summit-announces-full-conference-program-for-edge-ai-and-computer-vision-innovators-may/article_c1e20f7d-3f5b-58b4-a4cd-4c3c9b367e3d.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-27T14:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Longview News-Journal",
+        "domain": "news-journal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-28-this-week-in-xr-katami-scores-22-million-for-3d-remote-work-platform-ai-spikes-cloud-demand.md",
+      "title": "This Week In XR: Katami Scores $22 Million For 3D Remote Work Platform, AI Spikes Cloud Demand",
+      "excerpt": "This Week in XR is also a podcast hosted by the author of this column, Ted Schilowitz, Futurist, Paramount Global, and Rony Abovitz, founder of Magic Leap. This week our guest is Anand Agarawala, CEO and co-founder of Spatial. We can be found on Spotify, iTunes, and YouTube.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/charliefink/2023/04/27/this-week-in-xr-katami-scores-22-million-for-3d-remote-work-platform-ai-spikes-cloud-demand/",
+      "originalUrl": "https://www.forbes.com/sites/charliefink/2023/04/27/this-week-in-xr-katami-scores-22-million-for-3d-remote-work-platform-ai-spikes-cloud-demand/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/644ac7fff1a16e88ab0d1575/0x0.jpg?format=jpg&crop=2327,1309,x0,y89,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2023/04/27/this-week-in-xr-katami-scores-22-million-for-3d-remote-work-platform-ai-spikes-cloud-demand/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/04/27/this-week-in-xr-katami-scores-22-million-for-3d-remote-work-platform-ai-spikes-cloud-demand/amp/",
+      "publishedDateTime": "2023-04-27T14:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-28-amazon-amzn-aws-q1-2023-segment-sales-grew-16-to-214-billion.md",
       "title": "Amazon (AMZN) AWS Q1 2023 segment sales grew 16% to $21.4 billion",
       "excerpt": "Amazon (AMZN) shared its Q1 2023 report which notes that AWS segment sales grew 16 percent with reasons cited including investments in generative AI.",
@@ -912,298 +1184,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-write-long-form-content-in-seconds-with-half-off-this-leading-ai-tool.md",
-      "title": "Write long-form content in seconds with half off this leading AI tool",
-      "excerpt": "Wordplay AI Content Generator overhauls your content marketing and a lifetime subscription price is now half off.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-tool-write-longform-content/",
-      "originalUrl": "https://www.techrepublic.com/article/ai-tool-write-longform-content/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/04/Wordplay.jpg",
-          "width": 781,
-          "height": 515,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/article/ai-tool-write-longform-content/amp/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/ai-tool-write-longform-content/amp/",
-      "publishedDateTime": "2023-04-27T09:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-best-graphics-card-under-1000-in-2023-top-gpu-picks.md",
-      "title": "Best graphics card under $1000 in 2023 – top GPU picks",
-      "excerpt": "Then there are also 4th Generation tensor cores, responsible for powering the AI optimisation of DLSS 3 and all this for under $1K. This is also a GPU with impressive specs. It comes with a boost ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.videogamer.com/tech/gpu/best-under-1000/",
-      "originalUrl": "https://www.videogamer.com/tech/gpu/best-under-1000/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.videogamer.com/wp-content/uploads/Best-graphics-card-under-1000-1.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VideoGamer.com",
-        "domain": "videogamer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-teslas-price-cuts-slow-a-rival-in-the-race-to-deliver-self-driving-tech.md",
-      "title": "Tesla’s Price Cuts Slow a Rival in the Race to Deliver Self-Driving Tech",
-      "excerpt": "Tesla started cutting prices in China. That same week, shares of rival self-driving technology provider Mobileye surged on their first day of trading following a hotly anticipated IPO. Now Tesla’s pri",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-04-27-2023/card/tesla-s-price-cuts-slow-a-rival-in-the-race-to-deliver-self-driving-tech-pO1vq8GciuAVLeQdmojo",
-      "originalUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-04-27-2023/card/tesla-s-price-cuts-slow-a-rival-in-the-race-to-deliver-self-driving-tech-pO1vq8GciuAVLeQdmojo",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-771268?width=600",
-          "width": 600,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-the-dangers-of-letting-ai-loose-on-finance.md",
-      "title": "The dangers of letting AI loose on finance",
-      "excerpt": "We must recognise the stability risks — whether over-concentration or digital herding — as well as the benefits",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/9bc5e530-ac72-4b4c-9eb1-f5e5c48f34c9",
-      "originalUrl": "https://www.ft.com/content/9bc5e530-ac72-4b4c-9eb1-f5e5c48f34c9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg",
-          "width": 619,
-          "height": 377,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T09:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-developers-embrace-ai-tools-but-face-big-code-challenges-survey-finds.md",
-      "title": "Developers embrace AI Tools but face ‘Big Code’ challenges, survey finds",
-      "excerpt": "A new report from Sourcegraph warns Big Code will hit crisis mode if companies don't get a handle on how their developers use AI at work.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/developers-embrace-ai-tools-but-face-big-code-challenges-survey-finds/",
-      "originalUrl": "https://venturebeat.com/ai/developers-embrace-ai-tools-but-face-big-code-challenges-survey-finds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/04/Screenshot-2023-04-27-at-1.35.41-AM-e1682604857405.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/developers-embrace-ai-tools-but-face-big-code-challenges-survey-finds/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/developers-embrace-ai-tools-but-face-big-code-challenges-survey-finds/amp/",
-      "publishedDateTime": "2023-04-27T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-global-x-funds-global-x-robotics-artificial-intelligence-etf-nasdaq-botz.md",
-      "title": "Global X Funds - Global X Robotics & Artificial Intelligence ETF (NASDAQ: BOTZ)",
-      "excerpt": "Calculated by average return of all stock recommendations since inception of the Stock Advisor service in February of 2002. Returns as of 04/27/2023. Discounted offers are only available to new ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/quote/nasdaq/botz/",
-      "originalUrl": "https://www.fool.com/quote/nasdaq/botz/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/misc-assets/hp-sa-cumulative-growth-chart.png",
-          "width": 843,
-          "height": 342,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

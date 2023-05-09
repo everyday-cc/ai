@@ -7,7 +7,7 @@ originalUrl: "https://www.technologynetworks.com/immunology/news/ai-could-enable
 webUrl: "https://www.technologynetworks.com/immunology/news/ai-could-enable-10000-robot-led-microbe-experiments-per-day-372973"
 type: article
 quality: 54
-heat: 104
+heat: 84
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
         width: 400
         height: 267
         isCached: true
-  - title: "Novel AI-enabled robot to conduct automated scientific experiments"
-    excerpt: "Researchers have developed an artificial intelligence (AI) system that can help robots to conduct automated scientific experiments - as many as 10,000 per day - potentially driving a drastic"
-    publishedDateTime: 2023-05-06T00:21:00Z
-    webUrl: "https://www.thehansindia.com/hans/young-hans/novel-ai-enabled-robot-to-conduct-automated-scientific-experiments-796141"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 54
-    images:
-      - url: "https://assets.thehansindia.com/h-upload/2023/05/06/1350055-ai.jpg"
-        width: 1200
-        height: 720
-        isCached: true
   - title: "AI could run a million microbial experiments per year"
     excerpt: "Automation uncovers combinations of amino acids that feed two bacterial species and could tell us much more about the 90% of bacteria that humans have hardly studied. An artificial intelligence system enables robots to conduct autonomous scientific experiments -- as many as 10,"
     publishedDateTime: 2023-05-05T15:08:00Z
@@ -71,15 +57,6 @@ related:
       name: Interesting Engineering
       domain: interestingengineering.com
     quality: 27
-  - title: "AI could run a million microbial experiments per year, says study"
-    excerpt: "An artificial intelligence system enables robots to conduct autonomous scientific experiments—as many as 10,000 per day—potentially driving a drastic leap forward in the pace of discovery in areas from medicine to agriculture to environmental science."
-    publishedDateTime: 2023-05-04T19:22:00Z
-    webUrl: "https://phys.org/news/2023-05-ai-million-microbial-year.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 19
 
 secured: "dOCSG1Rm2TevY97j9QtbmE2ayjQ06o+JM/4feLcjrEZoQ63+pOdq8O0ftSQsZ5TBGV+O4qBCJRQmULl8C8W/bElGbnoqkp5z/Gphk95j2lXMKswMD1SpPvB/40wWD3ZCMKPnEoCE/RLKMNvljCTuSCYcO6TX7D/owD5Ip4a5TjuaM7+JdAUTOyNgsHUdOylgx42p1giaQ2deYfsBsu532f0gBNlKd9dxKuR3KaaWEcJCnQ89SlNGpJj8lJ2pDGK97Uxtw1ubxrwKNsErcdiQEUcVkvXWglv7jVfXxU/Dx0+R78qv9evenygd9x+lX6YQsS0FGTg/+BvgbEcZhYlkv3P0UDg35HNEWll/edN/f8/d9ZU0KLcSWwVhTZjPFtsj1jFx+c4D6/jbwNWGs2oVV0GdAIwT6G5oNDz5gt8Yxa/FQgn5UXInbSqH5YYKumkKjAERcm2fc3BjKCWa5Q7D6NOcyR44gKfKXown5nvosjcxZPWiHxcOvQ2luBHiyOZSYw3mxJdp8m4woufA7LAYCg==;1KQBH9BWybzzgrhQpMLfmg=="
 ---

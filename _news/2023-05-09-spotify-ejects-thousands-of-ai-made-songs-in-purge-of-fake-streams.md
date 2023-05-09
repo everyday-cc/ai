@@ -1,29 +1,36 @@
 ---
 category: news
 title: "Spotify ejects thousands of AI-made songs in purge of fake streams"
-excerpt: "Spotify has removed tens of thousands of songs from artificial intelligence music start-up Boomy, ramping up policing of its platform amid complaints of fraud and clutter across streaming services."
-publishedDateTime: 2023-05-09T04:00:00Z
-originalUrl: "https://www.ft.com/content/b6802c8f-50e7-4df8-8682-cca794881e30"
-webUrl: "https://www.ft.com/content/b6802c8f-50e7-4df8-8682-cca794881e30"
+excerpt: "Spotify has removed tens of thousands of songs from artificial intelligence music start-up Boomy, ramping up policing of its platform amid complaints of fraud and clutter across streaming services. In recent months the music industry has been confronting the rise of AI-generated songs and,"
+publishedDateTime: 2023-05-09T13:20:00Z
+originalUrl: "https://arstechnica.com/information-technology/2023/05/spotify-ejects-thousands-of-ai-made-songs-in-purge-of-fake-streams/"
+webUrl: "https://arstechnica.com/information-technology/2023/05/spotify-ejects-thousands-of-ai-made-songs-in-purge-of-fake-streams/"
 type: article
-quality: 37
-heat: 37
+quality: 47
+heat: 47
 published: false
 
 provider:
-  name: The Financial Times
-  domain: ft.com
+  name: Ars Technica
+  domain: arstechnica.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
-images:
-  - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/lifestyle-weekend.jpg"
-    width: 619
-    height: 377
-    isCached: true
-
 related:
+  - title: "World's First AI Healthcare Radio Station Now Streaming Through Spotify"
+    excerpt: "The world's first AI healthcare radio station started streaming on LifesavingRadio.com through Spotify to help enhance surgical performance in the OR."
+    publishedDateTime: 2023-05-09T14:03:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230509005162/en/Worlds-First-AI-Healthcare-Radio-Station-Now-Streaming-Through-Spotify"
+    type: article
+    provider:
+      name: newsroom.businesswire.com
+      domain: businesswire.com
+    quality: 34
   - title: "Boomy’s AI-generated tracks start landing back on Spotify amid growing battle against artificial streaming"
     excerpt: "Less than a week after uploads to Spotify from AI-powered music creation app Boomy were blocked over concerns about artificial streaming, Boomy says it’s back in business on the prominent music streaming platform."
     publishedDateTime: 2023-05-08T15:08:00Z
@@ -39,6 +46,6 @@ related:
         height: 2160
         isCached: true
 
-secured: "BNejJxGjqBfm6rrW8gnSis47si6PKQwdcDQ2eljmy14CBDSRshVyfH7JPOuYhpDzqz2s9miEwOlXERFoTIig7fvJYD9fUNofroQVpzlv/tfZ0TibfnxbmZepGbWG57enXq/P1MBgM4MtPEJaDp9i+VQImrQ127jseFuJPlZtub4K7GBf+YZQmQNfQ1KbCEi/d5hkmXJqsau5/+DF0oGxQ+CyDRnFmN8kTZBaedw3URZCMDrb7eRRLJFtODQhZJSzPcNwSIrF2GP0s0NEiJJApWHYCVY2DeMR0Wrqjl6zx90Zo7dIZTnfabgz7l+8fzj7fLlSrG8R99etj1KJJV5E5ufuxtKHFtfBkxSbRRFoO9ZkhBCONZ/AIXslFJQpVzLETCBdwADqscVad4m8APPuvmDtxsJ5YQMgnpH3lpFcgBfE4a/ArmenlwSlnhewq5AII9wbF96RVLEvGZjVPiW0/DU/aysl81zVLDBnZNp/XCP8Nysc+KXwstTQKuNHBSKpJU9KJq5wv+pRrJJmj3MEEw==;ECH5pKweuqsc7ahjxnYRRQ=="
+secured: "Tnqlz1kiRwu8oDIQXzf4KqNoHggkSBUywe6gLdPuFaMIvPYqy4aZe+ME9K8gTH/Dp8VAGJ1SoSEdXl/1XnB6PDRD6YnILCnLsxOkoktONKeaMPlaln2ftPbo7pBAyh8QkY/w8bMfpEr/Hs2z9JHhH3Qadcm70PtaJU8Se5y6II5BYnj+V42DEKPMeQJLafgz2+wGaA3ejQvC/gAQH2Jh6SkZFTVlytmFzfXU7SpgOTMbaK+6Iq9hpgKDz2JFtPCcdIX26zTT+68hHFIrPGJmBHShEgnQ9HGK6bpiPTKPQz3W0Ia6hUNK4ULh3xmd2w7MLPztgotiEz0uu9r2LBwuSC8+s3MZl43gReX+SbTs7orebT46Q/QsvPV8v66PKGW24czYt81H1GlJ53hK18hnmWlGx9EMbnf49fAyiMPVw1ed2chA21tu7rnfEazKAAMKjDoEHJmUhYJ1tVu6eA+zVH5DMgjnyuXoIsYW9R2oXIoI3zSF3Z5ysGSoe6gxavs7T2HNHKxvbneYo4MPYaufqg==;phBKyZzVjhk9Ecsqglgh7w=="
 ---
 

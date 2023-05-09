@@ -69,6 +69,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "IBM brings back Watson as AI heats up"
+    excerpt: "IBM has unveiled WatsonX, the next generation of the company's AI system. Matthias Balk/picture alliance via Getty Images Watson, the artificial intelligence created by IBM more than a decade ago, is ready for its encore as interest in artificial ..."
+    publishedDateTime: 2023-05-09T15:34:00Z
+    webUrl: "https://fortune.com/2023/05/09/ibm-brings-back-watson-ai/"
+    ampWebUrl: "https://fortune.com/2023/05/09/ibm-brings-back-watson-ai/amp/"
+    cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/05/09/ibm-brings-back-watson-ai/amp/"
+    type: article
+    provider:
+      name: Fortune
+      domain: fortune.com
+    quality: 104
+    images:
+      - url: "https://content.fortune.com/wp-content/uploads/2023/05/GettyImages-1039870520-e1683644169196.jpg?w=840"
+        width: 840
+        height: 559
+        isCached: true
   - title: "IBM CEO sees a future for generative AI with Watsonx in the enterprise"
     excerpt: "IBM is partnering with Hugging Face to bring access to open AI models to IBM’s enterprise users. The Watsonx AI models also include the Watson Code Assistant, which is a generative AI coding tool that will be integrated with IBM’s Red Hat Ansible ..."
     publishedDateTime: 2023-05-09T11:05:00Z
@@ -85,6 +101,15 @@ related:
         width: 1200
         height: 578
         isCached: true
+  - title: "Reshaping IT automation with IBM Watson Code Assistant"
+    excerpt: "Previewing IBM Watson Code Assistant, an innovative solution that empowers developers to write syntactically correct code with AI-generated recommendations.\nThe post Reshaping IT automation with IBM Watson Code Assistant appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-05-09T12:03:00Z
+    webUrl: "https://www.ibm.com/blog/reshaping-it-automation-with-ibm-watson-code-assistant/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 97
   - title: "The Future Of Communication In The Age Of Artificial Intelligence"
     excerpt: "Are you ready to future-proof your career? Discover how to blend your unique human skills with AI and stay ahead of the game. Don't risk being left behind and losing your job - read on to find out how to stay relevant in a rapidly evolving workforce,"
     publishedDateTime: 2023-05-04T23:14:00Z
@@ -100,6 +125,29 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/645437c77701f76c839c02fc/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 685
+        isCached: true
+  - title: "IBM: Remember Watson? It's Still Around, Ready to Give Your Business an AI Upgrade"
+    excerpt: "IBM has a new AI and data platform called Watsonx (Opens in a new window) aimed at making it easy for enterprises to take advantage of artificial intelligence. The name Watson fir"
+    publishedDateTime: 2023-05-09T13:03:00Z
+    webUrl: "https://www.pcmag.com/news/ibm-remember-watson-its-still-around-ready-to-give-your-business-an-ai"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 58
+  - title: "IBM Think 2023: Watsonx Promises Enterprise AI At Scale With Trust"
+    excerpt: "Branden Voegerl, the IBM solutions director at Carmel, Ind.-based partner CleanSlate Technology Group, told CRN that AI has been coming up more in conversations with customers, including by those asking for AI tools with more security guardrails than that offered by ChatGPT, a text-generator program that has helped popularize generative AI."
+    publishedDateTime: 2023-05-09T13:33:00Z
+    webUrl: "https://www.crn.com/news/cloud/ibm-think-2023-watsonx-promises-enterprise-ai-at-scale-with-trust"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 58
+    images:
+      - url: "https://www.crn.com/resources/0281-17f8b0808f94-b4ed03592f04-1000/watsonx.jpeg"
+        width: 611
+        height: 457
         isCached: true
   - title: "IBM unveils Watsonx, a tool to help companies integrate AI"
     excerpt: "IBM has launched Watsonx, a new artificial intelligence and data platform to help companies integrate AI in their businesses."
@@ -138,6 +186,15 @@ related:
       name: CIOL
       domain: ciol.com
     quality: 34
+  - title: "IBM joins the AI race with WatsonX; will 'multiply impact' of artificial intelligence across businesses"
+    excerpt: "IBM, on Tuesday, announced its new WatsonX platform, which is an all-in-one AI building and integration tool for businesses. The iconic American multinational corporation, International Business Machines Corps (IBM) dipped its toes into artificial intelligence more than 10 years ago."
+    publishedDateTime: 2023-05-09T13:18:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/ibm-joins-the-ai-race-with-watsonx-will-multiply-impact-of-artificial-intelligence-across-businesses-71683637877347.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 33
   - title: "IBM Unveils the Watsonx Platform to Power Next-Generation Foundation Models for Business"
     excerpt: "Watsonx is a new platform to be released for foundation models and generative AI, offering a studio, data store, and governance toolkit; New Watson products infused with foundatio"
     publishedDateTime: 2023-05-09T11:44:00Z
@@ -152,7 +209,21 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "IBM Introduces Watsonx Platform to Empower Next-Gen Foundation Models for Business Amid Rising Popularity of ChatGPT and Other LLMs"
+    excerpt: "The Watsonx platform, announced at IBM's annual Think conference, aims to enable enterprises to scale and accelerate the impact of advanced AI with trusted data. It offers a full technology stack that allows organizations to train,"
+    publishedDateTime: 2023-05-09T13:57:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/05/09/9810544.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 9
+    images:
+      - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
+        width: 550
+        height: 353
+        isCached: true
 
-secured: "oonThlhx1kYPXY9jfzr1h3rsfODw07IEJGO6QjGGf0gs80TgFK0z56DMYrAqJkBiRG12EyjrpgVEPTxCmM9NxsoDS3aM2wE5QiIeLE4eGcD2KZFGUzKXObKGKKWIJ1bZfjrDn/qjrFLrU/AvI8CubV3tbU/eq3ujg1ONj4NKc0ew3NlyTYhYCUWEDFNwpIIfhGwkKIeEFoTj6EBuBvvc7t+6w2U/BZ1QX7TO/9nOvTnCMlvUs5Cd3W87i9I6yHlw+muBzrAhsn+/Z/N+4Cxkd4gHTmcNo/2GSFb25qAFClI0aVnvLgHDMAk8UD7bA9IWSsjW3817vGJ8Gx2RbxuoarqMCUjjKPcBssTuu6Nj4WE=;+S7uFKXh7wyKHWiyq5CAfA=="
+secured: "c7NyTDQNMtncXAtIjLK2IniadVpLfqfqmteHHVHDrfpXTfyX8zud2/DtT34Y06kFtcq5/MCC859c8ckZirSexuzZxUzbgluKLdl+JNivJhdS/TjVVQvIYP0l+wifqKEIfqhM2RHyt1/nYzfyfT9Gim6QABACjiJ2AkHn8kgEk7Y2EZFQ8l10mZDZAnP6mtw7gHokqMcF13Izpf+9WGyazXikg0SxWO+ZZsu+bDjaVhziANPNri3V4GcXlKDzg5bMmoDilzNdeVIU8wOWIVHSfet47G7uymEoTkNiQht1DGjReRoQ9KEihGTrugjl7AXOzT2r9nUkFU4uGfL35KSwZCRUrdRCukbBLLQhCtSsGq/5hjGysh/8PqtIYWa2TgPiOdBElsNaMaUy490bAkgipX/OZBIVmcsm1XNvYkmc9SSkXMwrreJ4q86aWWo+sN0QNO5/D61oY7cmJ2Q3p0ZeiAMnYAGa5DPviuGBi7bIHSMxT3vLKGf/y3y/RZFwQZK/oRK3VO59XV7Ily8EbX57OQ==;CpCHSa9YvOkUZZ3/5UZ1Ag=="
 ---
 

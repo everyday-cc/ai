@@ -43,20 +43,6 @@ related:
         width: 1260
         height: 630
         isCached: true
-  - title: "Achieve high performance with lowest cost for generative AI inference using AWS Inferentia2 and AWS Trainium on Amazon SageMaker"
-    excerpt: "The world of artificial intelligence (AI) and machine learning (ML) has been witnessing a paradigm shift with the rise of generative AI models that can create human-like text, images, code, and audio. Compared to classical ML models, generative AI models are significantly bigger and more complex. However,"
-    publishedDateTime: 2023-05-04T22:10:15Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/achieve-high-performance-with-lowest-cost-for-generative-ai-inference-using-aws-inferentia2-and-aws-trainium-on-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 90
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/04/achieve-high-performance-sagemaker-1258x630.jpg"
-        width: 1258
-        height: 630
-        isCached: true
 
 secured: "zvTXAeAXcL/o8X9hXjWT/k42j+XVD9aqXrNh7Nx/vfF7ZS8ThJC0nmCRXhTSb8vAkmlLDKWjzyLYqc32hC0l7ZNMUQbKTgZiFlpRigYKmHNDdtmDToLmhd0eBM/q+e2ilE/cZMxyr6Ai05J2G2+SCzFQSIYg/rF0YudcRPPpiMxzEWIhZnDFSxzQORBjBwVPWZYxcauxky4ZJ4mFuorlGStwhSlfy41LZDyo0upXY5xHgpjTxDCQtbdCqxo45pdgd6J/4DN5lVy1RyRW9422lJu98cyRrA1orl4Ey/sha5HBVYAl4plFGaDSoyeJfbxwhNCzaF50N4tScoN+DBBSoD1Jg91D8TfZvgxGPXTShYs=;RG1AlSY17n8MO7LXZA2Mlg=="
 ---

@@ -1,28 +1,26 @@
 ---
 category: news
 title: "SymphonyAI announces strategic collaboration with Microsoft Azure AI for generative AI"
-excerpt: "SymphonyAI introduces Sensa Copilot, a vertical application that integrates Microsoft Azure OpenAI Service and Azure Cognitive Search to drive value for customers in financial crime prevention and regulatory compliance PALO ALTO,"
-publishedDateTime: 2023-05-09T10:47:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/05/09/9809924.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/05/09/9809924.htm"
+excerpt: "SymphonyAI introduces Sensa Copilot, a vertical application that integrates Microsoft Azure OpenAI Service and Azure Cognitive Search to drive"
+publishedDateTime: 2023-05-09T12:30:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/symphonyai-announces-strategic-collaboration-with-microsoft-azure-ai-for-generative-ai-1032305943"
+webUrl: "https://markets.businessinsider.com/news/stocks/symphonyai-announces-strategic-collaboration-with-microsoft-azure-ai-for-generative-ai-1032305943"
 type: article
-quality: 61
+quality: 71
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png"
-    width: 550
-    height: 353
-    isCached: true
 
 related:
   - title: "Microsoft Is Helping Finance AMD’s Expansion Into AI Chips"
@@ -352,6 +350,24 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "70% of employees are happy to delegate work to AI, according to new Microsoft report"
+    excerpt: "According to the survey, while 49% of respondents expressed fear of losing their jobs to AI, 70% stated that they would delegate as much work as possible to AI in order to reduce their workload."
+    publishedDateTime: 2023-05-09T13:00:00Z
+    webUrl: "https://www.zdnet.com/article/70-of-employees-are-happy-to-delegate-work-to-ai-according-to-new-microsoft-report/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 57
+  - title: "AMP Robotics Raises Additional Series C Investment From Microsoft Climate Innovation Fund"
+    excerpt: "AMP Robotics Corp. (“AMP”), a pioneer in artificial intelligence (AI), robotics, and infrastructure for the waste and recycling industry, has received financing from Microsoft’s Climate Innovation Fund."
+    publishedDateTime: 2023-05-09T13:00:00Z
+    webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2023-5-9-amp-robotics-raises-additional-series-c-investment-from-microsoft-climate-innovation-fund"
+    type: article
+    provider:
+      name: The Buffalo News
+      domain: buffalonews.com
+    quality: 57
   - title: "Microsoft backs AMD's move into AI"
     excerpt: "Creating an Athena chip Software King of the World Microsoft is helping finance AMD's expansion into AI chips. Meanwhile, AMD is working with Microsoft to create an in-house chipset, codenamed Athena,"
     publishedDateTime: 2023-05-05T10:02:00Z
@@ -408,17 +424,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Microsoft’s Bing AI chatbot to let users post images, ask questions"
-    excerpt: "Microsoft is getting rid of the waitlist to try its new OpenAI-based Bing search and chat, and adding features like the ability to request and post images."
-    publishedDateTime: 2023-05-04T20:09:00Z
-    webUrl: "https://www.seattletimes.com/business/microsofts-bing-ai-chatbot-to-let-users-post-images-ask-questions/"
-    ampWebUrl: "https://www.seattletimes.com/business/microsofts-bing-ai-chatbot-to-let-users-post-images-ask-questions/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/microsofts-bing-ai-chatbot-to-let-users-post-images-ask-questions/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 54
   - title: "Siemens and Microsoft Drive Productivity With Generative AI"
     excerpt: "MUNICH—Siemens and Microsoft are harnessing the collaborative power of generative artificial intelligence (AI) to help manufacturers drive innovation and efficiency across the design, engineering, manufacturing and operational life cycle of products."
     publishedDateTime: 2023-05-06T14:00:00Z
@@ -583,6 +588,6 @@ related:
       domain: timesnownews.com
     quality: 17
 
-secured: "ZiuRFY7Nb5RH0Qr+fGFVHtV+BJ8Ql/ETxmsq5pSVMoTDFflMuYc9WjLQ8UH/UR5wle/VeI9yOg+6f/vvjQ1F2bkMF2AygmbLdZ3ZwrGfo7sWmY9XjAQfKMyMtZ1xAFgo0KqcsfcDFbPGoxmXqIMEWNjWkS4WybqS1nPDPVbc0LMeeM9oetpVp/1OGU5p5XAh8CZCXnUAxujyZNRRkUGmqBkT93o3mcgL6n8rlQK9hGlibHHaSJJINVEGO5qmt0YweYh9vXq/0+Q0tvQJIAwlTBPpGNNasraKaa6DOrymwfeOEJqUZMnXOqDIxjfOVKbJxVU2kp2cFjvGQIbeBHx2FJi3i3bEec1nCEu5RwzJvuM=;wKZb4/sq+5mHvZC6UCWxAw=="
+secured: "oLIz5FGqTLCQBpRP8CiIv9HZNLStXrZWypjPS1BLYjDZUtzX78nwZuhXYoYR5Ti4DRKr0ZVWQ03atuEL5Xb5ryKTG6PLcqDGWqB1l8qGwG6T1Ko9B6fXC+dIypGkIEkNIwDeOQoD/HnxIcgGxw3pOkeelsHLbnUgn0GBZFj9Wm5vmLwuKxso6tLwMa0u9uIwQdJjyTwf5NxY5L+WxEwBgUd7a6qEn5ww+gA6Ijwo9rhZ70odsBBMUY8YKsdJmfLO5coqFeY7Pcm+xfDNtjAGuI9ulq8xIX+tNl1n2G9yVnggNf3gG9aDi85oMFjzyoywy0ku6Ta5w96Y/BotRuw0UY/0/LNbQ8QaGN6RiI5e6uI=;qQxZXPQMS0ysOIVbrx3e5g=="
 ---
 

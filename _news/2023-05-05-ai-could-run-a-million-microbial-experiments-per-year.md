@@ -51,20 +51,6 @@ related:
         width: 400
         height: 267
         isCached: true
-  - title: "Novel AI-enabled robot to conduct automated scientific experiments"
-    excerpt: "Researchers have developed an artificial intelligence (AI) system that can help robots to conduct automated scientific experiments - as many as 10,000 per day - potentially driving a drastic"
-    publishedDateTime: 2023-05-06T00:21:00Z
-    webUrl: "https://www.thehansindia.com/hans/young-hans/novel-ai-enabled-robot-to-conduct-automated-scientific-experiments-796141"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 54
-    images:
-      - url: "https://assets.thehansindia.com/h-upload/2023/05/06/1350055-ai.jpg"
-        width: 1200
-        height: 720
-        isCached: true
   - title: "BacterAI: New AI system enables robots to conduct 10,000 scientific experiments a day"
     excerpt: "Scientists created BacterAI, an AI-powered system enabling robots to conduct 10,000 experiments daily, accelerating scientific discoveries."
     publishedDateTime: 2023-05-05T13:10:00Z
@@ -74,15 +60,6 @@ related:
       name: Interesting Engineering
       domain: interestingengineering.com
     quality: 27
-  - title: "AI could run a million microbial experiments per year, says study"
-    excerpt: "An artificial intelligence system enables robots to conduct autonomous scientific experiments—as many as 10,000 per day—potentially driving a drastic leap forward in the pace of discovery in areas from medicine to agriculture to environmental science."
-    publishedDateTime: 2023-05-04T19:22:00Z
-    webUrl: "https://phys.org/news/2023-05-ai-million-microbial-year.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 19
 
 secured: "4nk5snHi81h/fkX5OpggjAofKRwxSrjmM3Zq50tkDjmSYVgAmRLwSGPIgYwYwLkUjLbdUI04L0h/7uHeCQ6a4WhjQBjMMAjoO4LPc+xORlB3blNTqdJDmCkhCRKatL16HvmVKC1MDLy/za/VHICrcHHOvDx7+5B7rrU1xqy7xJh20xq8pZodh7XJ/eYM9wYztGyZ4yUPGPVCaz7FOCsh616+gEv1f7C4Bn+v7y3ED1L++9rRb0dVP3ER+HNZFDDF/UP6POlgPUz5uoBUbsd0m9vd9vzbaame1VvYJUDBDaKHTHG3ZRJrpXOilbC2F4jnbREKmRTy2g1Bnx6tjufiyq87J/uaC2nIvVMV+7wbD84=;/pZFlvYXXaZv7LsJLBzKeA=="
 ---

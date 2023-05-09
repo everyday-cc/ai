@@ -2,6 +2,196 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-05-09-ai-hype-will-drive-datacenter-gpu-prices-sky-high.md",
+      "title": "AI Hype Will Drive Datacenter GPU Prices Sky High",
+      "excerpt": "Like many HPC and AI system builders, we are impatient to see what the “Antares” Instinct MI300A hybrid CPU-GPU system on chip from AMD might look like in",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2023/05/08/ai-hype-will-drive-datacenter-gpu-prices-sky-high/",
+      "originalUrl": "https://www.nextplatform.com/2023/05/08/ai-hype-will-drive-datacenter-gpu-prices-sky-high/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.nextplatform.com/wp-content/uploads/2023/05/llnl-el-capitan-mountain-logo.jpg",
+          "width": 1905,
+          "height": 755,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2023/05/08/ai-hype-will-drive-datacenter-gpu-prices-sky-high/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/05/08/ai-hype-will-drive-datacenter-gpu-prices-sky-high/amp/",
+      "publishedDateTime": "2023-05-08T15:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-09-ai-ethics-for-ad-professionals-10-rules-of-engagement.md",
+      "title": "AI ethics for ad professionals: 10 rules of engagement",
+      "excerpt": "Advertising professionals need guidelines for AI ethics. Here are 10 rules for engagement with artificial intelligence tools at work.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-ethics-for-ad-professionals-10-rules-of-engagement/",
+      "originalUrl": "https://venturebeat.com/ai/ai-ethics-for-ad-professionals-10-rules-of-engagement/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2015/08/TV-advertising.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 869,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/ai-ethics-for-ad-professionals-10-rules-of-engagement/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-ethics-for-ad-professionals-10-rules-of-engagement/amp/",
+      "publishedDateTime": "2023-05-08T13:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-09-study-presents-large-brain-like-neural-networks-for-ai.md",
+      "title": "Study presents large brain-like neural networks for AI",
+      "excerpt": "In a new study in Nature Machine Intelligence, researchers Bojian Yin and Sander Bohté from the HBP partner Dutch National Research Institute for Mathematics and Computer Science (CWI) demonstrate a significant step towards artificial intelligence that can be used in local devices like smartphones and in VR-like applications,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-05-large-brain-like-neural-networks-ai.html",
+      "originalUrl": "https://techxplore.com/news/2023-05-large-brain-like-neural-networks-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/human-brain-project-st.jpg",
+          "width": 1345,
+          "height": 1105,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-05-large-brain-like-neural-networks-ai.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-05-large-brain-like-neural-networks-ai.amp",
+      "publishedDateTime": "2023-05-08T13:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-09-ai-and-predictive-analytics-moving-from-insights-to-foresight.md",
+      "title": "AI And Predictive Analytics: Moving From Insights To Foresight",
+      "excerpt": "Given how much AI dominates today's technology conversations, many businesses feel the competitive pressure to jump on AI and analytics opportunities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/microsoft_/2023/05/08/ai-and-predictive-analytics-moving-from-insights-to-foresight/",
+      "originalUrl": "https://www.forbes.com/sites/microsoft_/2023/05/08/ai-and-predictive-analytics-moving-from-insights-to-foresight/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/645947bc0b8337af0bbe84e5/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/microsoft_/2023/05/08/ai-and-predictive-analytics-moving-from-insights-to-foresight/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/microsoft_/2023/05/08/ai-and-predictive-analytics-moving-from-insights-to-foresight/amp/",
+      "publishedDateTime": "2023-05-08T13:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-09-gptzero-app-seeks-to-thwart-ai-plagiarism-in-schools-online-media.md",
       "title": "GPTZero App Seeks to Thwart AI Plagiarism in Schools, Online Media",
       "excerpt": "Journalists, screenwriters and college professors are among widening groups of people who are concerned about eventually losing their livelihoods to artificial intelligence programs like ChatGPT, which can produce copy faster and possibly better than humans.",
@@ -10,7 +200,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2023-05-08/gptzero-seeks-to-thwart-plagerism-in-schools-online-media",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -165,7 +355,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/host-ml-models-on-amazon-sagemaker-using-triton-tensorrt-models/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -261,6 +451,59 @@
       ]
     },
     {
+      "path": "_news/2023-05-08-why-generative-ai-is-the-finance-industrys-road-to-superior-customer-service.md",
+      "title": "Why generative AI is the finance industry’s road to superior customer service",
+      "excerpt": "Delivering a premium customer experience has always been essential to financial services. But in today’s rapidly changing environment, financial institutions need to do more than maintain the experiences they’ve developed.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/sponsor/nvidia-aws-company/why-generative-ai-is-the-finance-industrys-road-to-superior-customer-service/",
+      "originalUrl": "https://techcrunch.com/sponsor/nvidia-aws-company/why-generative-ai-is-the-finance-industrys-road-to-superior-customer-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/04/GettyImages-1456589557.jpg?resize=1200,633",
+          "width": 1200,
+          "height": 633,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-08T08:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-08-salesforce-goes-all-in-on-generative-ai-with-slack-gpt.md",
       "title": "Salesforce goes all in on generative AI with Slack GPT",
       "excerpt": "Salesforce last week made the AI-ready platform designed with OpenAI available for developers of allied apps and services. Einstein GPT is available as a beta version, and the company is currently prototyping the integration of Einstein GPT within Slack, according to Seaman ( Figure B ).",
@@ -269,7 +512,7 @@
       "originalUrl": "https://www.techrepublic.com/article/salesforce-launches-slack-gpt/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -622,7 +865,7 @@
       "originalUrl": "https://www.ibm.com/blog/the-risks-and-limitations-of-ai-in-insurance/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 189,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1014,251 +1257,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-natural-language-processing-for-healthcare-and-life-sciences-market-projected-to-show-strong-growth-by-2030-microsoft-google-ibm-3m.md",
-      "title": "Natural Language Processing For Healthcare And Life Sciences Market Projected to Show Strong Growth by 2030| Microsoft, Google, IBM, 3M",
-      "excerpt": "The Global Natural Language Processing For Healthcare And Life Sciences Market research report gives an essential outline",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-for-healthcare-and-life-sciences-market-projected-to-show-strong-growth-by-2030-microsoft-google-ibm-3m-2023-05-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-for-healthcare-and-life-sciences-market-projected-to-show-strong-growth-by-2030-microsoft-google-ibm-3m-2023-05-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-08T03:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-ethics-of-ai-examining-impact-of-artificial-intelligence-on-society-morality.md",
-      "title": "Ethics of AI: Examining Impact of Artificial Intelligence on Society, Morality",
-      "excerpt": "In a recent interview with WABC radio host John Catsimatidis, Democratic presidential candidate Robert F. Kennedy Jr. made startling allegations abou",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1106195695/Ethics-of-AI-Examining-Impact-of-Artificial-Intelligence-on-Society-Morality",
-      "originalUrl": "https://menafn.com/1106195695/Ethics-of-AI-Examining-Impact-of-Artificial-Intelligence-on-Society-Morality",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/Menafn_News_Images/Local_TelecomTech_117.jpg",
-          "width": 4896,
-          "height": 3264,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-08T02:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-warehouse-robotics-market-share-size-financial-summaries-analysis-from-2023-to-2028.md",
-      "title": "Warehouse Robotics Market Share, Size, Financial Summaries Analysis from 2023 to 2028",
-      "excerpt": "Warehouse Robotics report provides a detailed analysis of regional and country-level market size, segmentation market growth, market share, competitive Landscape, sales analysis, impact of domestic. The warehouse robotics market has been witnessing significant growth in recent years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/warehouse-robotics-market-share-size-financial-summaries-analysis-from-2023-to-2028-2023-05-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/warehouse-robotics-market-share-size-financial-summaries-analysis-from-2023-to-2028-2023-05-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-08T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-makemytrip-adds-ai-voice-chat-to-lure-more-india-travelers.md",
-      "title": "MakeMyTrip Adds AI Voice Chat to Lure More India Travelers",
-      "excerpt": "India’s largest online travel-booking service is rolling out a voice chat service powered by artificial intelligence, becoming the country’s first major company to harness recent advances in generative AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-05-08/makemytrip-adds-ai-voice-chat-to-lure-more-india-travelers",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-05-08/makemytrip-adds-ai-voice-chat-to-lure-more-india-travelers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iVQ2b33ZQBzI/v1/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-08T00:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-google-ibm-to-tesla-how-these-companies-are-using-ai-to-transform-work.md",
-      "title": "Google, IBM to Tesla, how these companies are using AI to transform work",
-      "excerpt": "Google, IBM to Tesla are some companies that are leading the way in AI and driving transformation and innovation. Artificial Intelligence (AI) is one of the most transformative technologies of the current time.",
-      "sourceUrl": null,
-      "webUrl": "https://tech.hindustantimes.com/tech/news/google-ibm-to-tesla-how-these-companies-are-using-ai-to-transform-work-71683530733850.html",
-      "originalUrl": "https://tech.hindustantimes.com/tech/news/google-ibm-to-tesla-how-these-companies-are-using-ai-to-transform-work-71683530733850.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/tech/img/2023/05/08/1600x900/Digital-Ad-Tax-0_1683531188343_1683531212843.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/google-ibm-to-tesla-how-these-companies-are-using-ai-to-transform-work-71683530733850.html",
-      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/google-ibm-to-tesla-how-these-companies-are-using-ai-to-transform-work-71683530733850.html",
-      "publishedDateTime": "2023-05-08T00:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times Tech",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

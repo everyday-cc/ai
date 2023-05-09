@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/build-an-image-searc
 webUrl: "https://aws.amazon.com/blogs/machine-learning/build-an-image-search-engine-with-amazon-kendra-and-amazon-rekognition/"
 type: article
 quality: 106
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 958
     height: 477
     isCached: true
+
+related:
+  - title: "Outsourced Amazon cleaners set to win historic union recognition"
+    excerpt: "OUTSOURCED cleaners at an Amazon warehouse in Kent are set to become the first British workers at a site run by the US-owned online giant to win union recognition, the United Voices of the World (UVW) said today."
+    publishedDateTime: 2023-05-09T14:17:00Z
+    webUrl: "https://morningstaronline.co.uk/article/b/outsourced-amazon-cleaners-set-to-win-historic-union-recognition"
+    type: article
+    provider:
+      name: Morning Star
+      domain: morningstaronline.co.uk
+    quality: 24
+    images:
+      - url: "https://morningstaronline.co.uk/sites/default/files/AP22322049579948_1.jpeg"
+        width: 1180
+        height: 585
+        isCached: true
 
 secured: "zM0siyFGxQVSoqmxd8ynUuvZtXkk1W+TlE3L9nd5VUVrIJMm6xp3z5q9/ijZeG/bzxxz21hUr8Rpj6Ml1TxOD9zzcYp0dqTdUFGOPfbVTUdLFpf62YhYA6UxIos8CPBz4hVsXdAPxPJEVinH95WRAQqsR2wFEAIQTNm+5E2YDaBfs0FdKkPWXedhJuXOW7n47IaT8ER+gx72VabSTddKYZ/rKo9NBholm3+VJ3ayigxWIpz6SYt6u0Y4zWbEt/Dnob1UBnCMGKVIANLMPfyT19Nne5KZgMEm6iUZiimhxqSfryD7e0GSoEUzbeDOyUenupHkZI9MdrYtcHgjqI2nq2GiWCtYeT9dG5baF5oSs3o=;YdIsrv7aaqXJXmw/S+2/tg=="
 ---

@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-09-ai-wrote-95-percent-of-this-murder-mystery.md",
+      "title": "AI Wrote 95 Percent of This Murder Mystery",
+      "excerpt": "Stephen Marche composed 'Death of an Author' using three AI tools, under the shared pen name Aidan Marchine. Here’s a look at the result.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/death-of-an-author-ai-book-excerpt/",
+      "originalUrl": "https://www.wired.com/story/death-of-an-author-ai-book-excerpt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6459890a40f1b0ff5784445b/master/pass/Death-of-An-Author-AI-Culture-1337018866.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/death-of-an-author-ai-book-excerpt/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/death-of-an-author-ai-book-excerpt/amp",
+      "publishedDateTime": "2023-05-09T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-09-cloud-services-ai-partner-programs-and-other-ways-to-boost-your-companys-valuation.md",
       "title": "Cloud Services: AI, Partner Programs And Other Ways To Boost Your Company’s Valuation",
       "excerpt": "These companies have leveraged Google's technology resources to develop cutting-edge solutions for a wide range of industries, including ICT, healthcare, finance, retail and manufacturing.",
@@ -10,7 +63,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/09/cloud-services-ai-partner-programs-and-other-ways-to-boost-your-companys-valuation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -50,7 +103,8 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -220,7 +274,7 @@
       "originalUrl": "https://tech.hindustantimes.com/tech/news/google-ibm-to-tesla-how-these-companies-are-using-ai-to-transform-work-71683530733850.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -264,7 +318,7 @@
       "originalUrl": "https://tech.hindustantimes.com/tech/news/microsoft-is-helping-finance-amd-s-expansion-into-ai-chips-71683222710006.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 518,
+      "heat": 528,
       "tags": null,
       "images": [
         {
@@ -1492,59 +1546,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-google-microsoft-and-meta-each-said-ai-nearly-50-times-on-earnings-calls-heres-why-we-should-all-care.md",
-      "title": "Google, Microsoft and Meta each said ‘AI’ nearly 50 times on earnings calls. Here’s why we should all care",
-      "excerpt": "In earnings results this week, Alphabet, Microsoft and Meta all announced revenue boosts and put their AI priorities front-and-center.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/google-microsoft-and-meta-each-said-ai-nearly-50-times-on-earnings-calls-heres-why-we-should-all-care/",
-      "originalUrl": "https://venturebeat.com/ai/google-microsoft-and-meta-each-said-ai-nearly-50-times-on-earnings-calls-heres-why-we-should-all-care/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/04/Untitled-design-61.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/google-microsoft-and-meta-each-said-ai-nearly-50-times-on-earnings-calls-heres-why-we-should-all-care/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/google-microsoft-and-meta-each-said-ai-nearly-50-times-on-earnings-calls-heres-why-we-should-all-care/amp/",
-      "publishedDateTime": "2023-04-27T10:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

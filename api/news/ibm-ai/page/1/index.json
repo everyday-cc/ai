@@ -61,7 +61,7 @@
       "originalUrl": "https://www.ibm.com/blog/ibm-watson-orchestrate-unlocking-new-levels-productivity-for-every-employee/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -265,7 +265,7 @@
       "originalUrl": "https://www.ibm.com/blog/introducing-watsonx-the-future-of-ai-for-business/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 224,
+      "heat": 286,
       "tags": null,
       "images": [
         {
@@ -317,7 +317,7 @@
       "originalUrl": "https://www.cnbc.com/2023/05/09/ibm-takes-another-shot-at-watson-as-ai-boom-picks-up-steam.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -369,7 +369,7 @@
       "originalUrl": "https://www.ibm.com/blog/the-risks-and-limitations-of-ai-in-insurance/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 189,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -596,10 +596,10 @@
     {
       "path": "_news/2023-05-02-sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions.md",
       "title": "SAP to Embed IBM Watson Artificial Intelligence into SAP® Solutions",
-      "excerpt": "New AI capabilities in SAP Start will be designed to help users boost productivity with both natural language capabilities and predictive insights using IBM Watson AI solutions built on IBM's ...",
+      "excerpt": "SAP to Embed IBM Watson Artificial Intelligence into SAP® Solutions May 02, 2023 (PRNewswire via COMTEX) -- PR Newswire WALLDORF, Germany and ARMONK,",
       "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/pr-newswire/20230502cl86092/sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions",
-      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20230502cl86092/sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions",
+      "webUrl": "https://www.marketwatch.com/press-release/sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions-2023-05-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions-2023-05-02",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -609,12 +609,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-02T06:52:00-07:00",
+      "publishedDateTime": "2023-05-02T06:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Morningstar",
-        "domain": "morningstar.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

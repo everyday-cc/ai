@@ -41,6 +41,29 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Artificial intelligence is real care: the future of AI-driven medical schemes"
+    excerpt: "Although typically perceived as robotic and inhuman, it is important to understand that care sits at the heart of AI-driven health innovation. In simple terms, AI-driven systems can quickly analyse large amounts of data and generate insights that help inform healthcare decisions."
+    publishedDateTime: 2023-05-05T06:12:00Z
+    webUrl: "https://www.bizcommunity.com/Article/196/159/238033.html"
+    type: article
+    provider:
+      name: Bizcommunity
+      domain: bizcommunity.com
+    quality: 51
+    images:
+      - url: "https://biz-file.com/c/2305/696789-1200x624.jpg?2"
+        width: 1200
+        height: 624
+        isCached: true
+  - title: "Death of an Author Prophesies the Future of AI Novels"
+    excerpt: "Stephen Marche composed this novella with extensive input from large language models. It’s required reading for anyone who's thinking about doing the same."
+    publishedDateTime: 2023-05-09T13:00:00Z
+    webUrl: "https://www.wired.com/story/death-of-an-author-ai-book-review/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 47
 
 secured: "TmRaeCeuYcXvU1Gakey5sJHuUqHNySWHR/iEK3PVxrNQX3jEnylQMtvpcFiZkUCyLCeoj2eXtvliDAXPNxbGhtzDk1HyT/J9kNWC4wC3/Ni9grrp/BgNQaspYJdl3qE25szyTfJZTnfB7hUQqHP6yCoQwHkMAkWP90fwCqjwJTMBq4FJ9l5Xi9Ig1hP9H3D7LhxDFfMdSZARLZZw/+WUdU+wqZU9ULkwZsU3PHkCR+BSQDBFmAdwxRPdsUz1RNjICy0bWT2c1puQv/rtW05f8u1idJIqJ+0k3YRBWbJRbgI65cw5BcfsXuJE2ZZZh1AuskwIHyEQ6SlXifLY7T45lgRAzMakRFJh4tZOJGl1da2k7LyPlod9Zv4de1NYQiloKgeW7WW6mOROEZeRDuJzamCFmessNxgj8l5R//27sCQAVG+3yCOe9gixaFImPTMP3KcmdmOVxi7H0OrM9SZby+Ey2xO30EiZOmvf8iVEHncLQINQodqOtatmmHpWalxXsxJF5ABVeOw0w7MmJDN1tQ==;nyozMEIqo+33t38bYdYBWA=="
 ---

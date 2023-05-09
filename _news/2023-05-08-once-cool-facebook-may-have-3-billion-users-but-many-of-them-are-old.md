@@ -83,6 +83,15 @@ related:
         width: 1461
         height: 834
         isCached: true
+  - title: "Facebook says its evolving to meet the needs of Young adults"
+    excerpt: "Facebook says it is not dead. The social media giant also wants you to know that it is not just for “old people”, as young people have been saying for years. Now, with the biggest thorn in its side – TikTok – facing heightened government scrutiny amid growing tensions between the United States and China,"
+    publishedDateTime: 2023-05-09T12:13:00Z
+    webUrl: "https://www.tvcnews.tv/2023/05/facebook-says-its-evolving-to-meet-the-needs-of-young-adults/"
+    type: article
+    provider:
+      name: tvcnews.tv
+      domain: tvcnews.tv
+    quality: 4
 
 secured: "5mpYVElEybRU7iFVaS2+Ppg/CeDXVV/hWSO4jo1oIMtESvyaUnBXtYqRp7noIc3Bn2NLA1/R4NtxWUF983ZOvi0C9NerwmH+d2NRZl6fgrZ2yukfgyQ/rv77gxoGsHjijkH9Nw+XE5CikBf1s+QzxRpKZZ2424F4DpCT/5J1SyZKKx85Mbe9b7ESSGf/lChAoSXuKFo/4qJGXSx5XYmy9Zaa1a2oYQTZdYCt/Op7o2soEnY2ltbiLQQgU7oiV/qA2mkpEz9Za/YI0KEuw9YyoNydx5OpZ2ORb1aq0EDkE85tBMCK4lEMaylYUognnTVGbtQFw3Y/YEh+qOGiRVd+YxtEnShrZP+23HFbH7O3QWw=;7mi7nVQlgiLEhcUmwDilIQ=="
 ---

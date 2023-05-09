@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-09-ai-wrote-95-percent-of-this-murder-mystery.md",
+      "title": "AI Wrote 95 Percent of This Murder Mystery",
+      "excerpt": "Stephen Marche composed 'Death of an Author' using three AI tools, under the shared pen name Aidan Marchine. Here’s a look at the result.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/death-of-an-author-ai-book-excerpt/",
+      "originalUrl": "https://www.wired.com/story/death-of-an-author-ai-book-excerpt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6459890a40f1b0ff5784445b/master/pass/Death-of-An-Author-AI-Culture-1337018866.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/death-of-an-author-ai-book-excerpt/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/death-of-an-author-ai-book-excerpt/amp",
+      "publishedDateTime": "2023-05-09T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-09-artificial-intelligence-ai-chips-market-by-product-type-and-consumers-2030.md",
       "title": "Artificial Intelligence (AI) Chips Market by Product Type and Consumers-2030",
       "excerpt": "Moreover, customer preference analysis, market dynamics (drivers, restraints, opportunities), new product release, impact of COVID-19, regional conflicts and carbon neutrality provide crucial information for us to take a deep dive into the Artificial Intelligence (AI) Chips market.",
@@ -105,7 +158,7 @@
       "originalUrl": "https://www.forbes.com/sites/robtoews/2023/05/07/the-geopolitics-of-ai-chips-will-define-the-future-of-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -210,7 +263,7 @@
       "originalUrl": "https://www.wsj.com/articles/u-s-sanctions-drive-chinese-firms-to-advance-ai-without-latest-chips-f6aed67f",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -262,7 +315,7 @@
       "originalUrl": "https://tech.hindustantimes.com/tech/news/microsoft-is-helping-finance-amd-s-expansion-into-ai-chips-71683222710006.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 518,
+      "heat": 528,
       "tags": null,
       "images": [
         {
@@ -1411,40 +1464,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-26-cadence-collaborates-with-guc-on-ai-hpc-and-networking-in-advanced-packaging-technologies.md",
-      "title": "Cadence Collaborates with GUC on AI, HPC and Networking in Advanced Packaging Technologies",
-      "excerpt": "GUC’s big-die CoWoS platform represents real-world CPU, GPU, AI, and networking chips by integrating multiple instances of the Cadence 112G-LR SerDes with a 7.2Gbps HBM3 controller and PHY ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20230426005217/cadence-collaborates-with-guc-on-ai-hpc-and-networking-in-advanced-packaging-technologies",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20230426005217/cadence-collaborates-with-guc-on-ai-hpc-and-networking-in-advanced-packaging-technologies",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-26T07:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar",
-        "domain": "morningstar.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

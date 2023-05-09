@@ -2,9 +2,9 @@
 category: news
 title: "New Artificial Intelligence Tool Can Diagnose Colon Cancer"
 excerpt: "Detailed price information for Bausch Health Companies Inc (BHC-T) from The Globe and Mail including charting and trades."
-publishedDateTime: 2023-05-03T15:28:00Z
-originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/BHC-T/pressreleases/16543041/new-artificial-intelligence-tool-can-diagnose-colon-cancer/"
-webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/BHC-T/pressreleases/16543041/new-artificial-intelligence-tool-can-diagnose-colon-cancer/"
+publishedDateTime: 2023-05-03T13:38:00Z
+originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/BHC-T/pressreleases/16543041/"
+webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/BHC-T/pressreleases/16543041/"
 type: article
 
 provider:
@@ -15,12 +15,6 @@ topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://barchart-news-media-prod.aws.barchart.com/FC/fbf6e68ba80e8e45990c8b0717fbffb9/bogdanhoda-1.jpg"
-    width: 777
-    height: 436
-    isCached: true
-
-secured: "XPYf8BBSPvgDjsyCl3OOp/+qx2KTVcjpVzx4q3lUJ7f7iRZt5ljndvqLShiqwU9aag/8ba3Ro447z6zSUYXl63+rjObHiNXMpZPb/bqKp/8j6kw4ZULjELz+nX7/xTrHlsEdYarbukfje07bM8SFg+9PXIyQ6RnFrjW+8Ot9QUorUoHTR3gSaHgPpB3hACcfCO/OV4zzWYdSuQX+1EejxwahVxVfbolAwZul0eCr4i15elA7dI1+cvyFfvn8eiuh52cTTHk99PEwK2PJr39RWfR5/F3aC8T0M/yjhY5LiH0ue3vohAXCzs4QNXQG98Qztu7nBpHTAlHsleoQYpuqhl2yoKLoy3sLJJDjWMPELxM=;G2cH2Dwm+kFEBSTJocyi6Q=="
+secured: "ys7JJ2UPH2EIWkTvuPhs4j8Eh/MzreNLyw998vFPBgVBlLsWNQ7WsKSAkYnwhCuL4NG+zlzgejk4BUQJ4pLw1QN0XgbJEQXS87KduxG6evsLmVrTeqvD+WANzNQasMSsUkzDmMTM7vG9ELWvHmXh2cOlhDU719vj/1l6lQliCfalDWasNHJNMwhiWgZRkePgGo49k33oan5HrACAdJzaYWHqdGT5T4Baqu1V/LCM1QXxkdP91iKWEsEKCD7gcuLhMRTjb+bMJmLkc0BV0DfgFNYihFn5LzagWi4MgklcgWB9KepWcEKuZdLTtqFvdYmskoqpDFwyZv5j0av/2UjR0UgzcUbHa5mXgty26/XSQUTrtUcrQ17ObWkZoJImwtqIW82mDuANO6BSHWqfCDNhOi3suYaaj5wQs0a+DekX1xkmnTWEQZJ0376deVvawEgN9QFucVh2uSWN3PwjGubMFxHS3i+FLa0UvRh/EHjzgld6qWWch/Dn2WzQcZsOUGOPlHrhsss6bOPvzNTuQQaNLA==;qOPSyjTsQNBMXpBU+UntOg=="
 ---
 

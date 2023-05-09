@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/05/critics-take-
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/05/critics-take-aim-at-bidens-ai-meeting-with-ceos-from-google-openai-microsoft/amp/"
 type: article
 quality: 101
-heat: 201
+heat: 171
 published: true
 
 provider:
@@ -79,22 +79,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "VP Harris meets with CEOs about artificial intelligence risks"
-    excerpt: "The Biden administration plans to announce an investment of $140 million to establish seven new AI research institutes, administration officials told reporters in previewing the effort."
-    publishedDateTime: 2023-05-04T20:20:00Z
-    webUrl: "https://www.wpbf.com/article/kamala-harris-ceos-artificial-intelligence-risks/43794424"
-    ampWebUrl: "https://www.wpbf.com/amp/article/kamala-harris-ceos-artificial-intelligence-risks/43794424"
-    cdnAmpWebUrl: "https://www-wpbf-com.cdn.ampproject.org/c/s/www.wpbf.com/amp/article/kamala-harris-ceos-artificial-intelligence-risks/43794424"
-    type: article
-    provider:
-      name: WPBF
-      domain: wpbf.com
-    quality: 59
-    images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/kamala-harris-ap22131652890528.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Biden, Harris meet with CEOs about AI risks"
     excerpt: "Vice President Kamala Harris has met with the heads of Google, Microsoft and two other companies developing artificial intelligence WASHINGTON -- Vice President Kamala Harris met on Thursday with ..."
     publishedDateTime: 2023-05-06T03:36:00Z
@@ -110,34 +94,6 @@ related:
       - url: "https://s.abcnews.com/images/Politics/wirestory_578d623e473b0eeb3fa3e4728d7e9868_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "White House unveils an AI plan ahead of meeting with tech CEOs"
-    excerpt: "CNN By Brian Fung, CNN The White House on Thursday announced a series of measures to address the challenges of artificial intelligence, driven by the sudden popularity of tools such as ChatGPT and amid rising concerns about the technology’s potential risks for discrimination,"
-    publishedDateTime: 2023-05-04T21:18:00Z
-    webUrl: "https://kesq.com/money/cnn-social-media-technology/2023/05/04/white-house-unveils-an-ai-plan-ahead-of-meeting-with-tech-ceos/"
-    type: article
-    provider:
-      name: KESQ News
-      domain: kesq.com
-    quality: 39
-    images:
-      - url: "https://kesq.b-cdn.net/2023/05/hypatia-h_9dfc3363f190ea51a20993445362a943-h_f35f6fb89accb1580ccc1f934a872977-300-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
-  - title: "Vice President Harris meets with CEOs about artificial intelligence risks"
-    excerpt: "Vice President Kamala Harris met with the heads of Google, Microsoft and two other companies developing artificial intelligence."
-    publishedDateTime: 2023-05-04T21:07:00Z
-    webUrl: "https://www.pressherald.com/2023/05/04/vice-president-harris-meets-with-ceos-about-artificial-intelligence-risks/"
-    type: article
-    provider:
-      name: Portland Press Herald
-      domain: pressherald.com
-    quality: 38
-    images:
-      - url: "https://multifiles.pressherald.com/uploads/sites/4/2023/05/Biden_37837-1-1683234434.jpg"
-        width: 1000
-        height: 667
         isCached: true
   - title: "White House pushes tech CEOs to limit risks of AI"
     excerpt: "The White House on Thursday pushed Silicon Valley CEOs to limit the risks of artificial intelligence, in the administration’s most visible effort to confront rising questions and calls to regulate the rapidly advancing technology."

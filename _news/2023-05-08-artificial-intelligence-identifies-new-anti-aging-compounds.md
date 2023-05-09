@@ -25,20 +25,59 @@ images:
     isCached: true
 
 related:
-  - title: "New AI Agent Uses Game-Playing Robots to Answer Scientific Questions"
-    excerpt: "Performing autonomous scientific experiments is enabled by an artificial intelligence system enables—as many as 10,000 for a day—possibly driving an extreme leap forward in the pace of breakthroughs in areas varying from medicine to agriculture to environmental science."
-    publishedDateTime: 2023-05-05T14:24:00Z
-    webUrl: "https://www.azorobotics.com/News.aspx?newsID=13931"
+  - title: "The Critical Need To Identify AI Generated Content"
+    excerpt: "A lot of concern about AI is raised by hundreds of tech and government leaders who now realize that AI released without serious guardrails could have significant consequences for all of us."
+    publishedDateTime: 2023-05-09T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/timbajarin/2023/05/09/the-critical-need-to-identify-ai-generated-content/"
+    ampWebUrl: "https://www.forbes.com/sites/timbajarin/2023/05/09/the-critical-need-to-identify-ai-generated-content/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2023/05/09/the-critical-need-to-identify-ai-generated-content/amp/"
     type: article
     provider:
-      name: Azorobotics
-      domain: azorobotics.com
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64594cd3534232d7f02796dd/0x0.jpg?format=jpg&width=1200"
+        width: 836
+        height: 425
+        isCached: true
+  - title: "Novel AI-enabled robot to conduct automated scientific experiments"
+    excerpt: "Researchers have developed an artificial intelligence (AI) system that can help robots to conduct automated scientific experiments - as many as 10,000 per day - potentially driving a drastic"
+    publishedDateTime: 2023-05-06T00:21:00Z
+    webUrl: "https://www.thehansindia.com/hans/young-hans/novel-ai-enabled-robot-to-conduct-automated-scientific-experiments-796141"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
     quality: 54
     images:
-      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_13931_16832897643391821.jpg"
-        width: 1024
-        height: 682
+      - url: "https://assets.thehansindia.com/h-upload/2023/05/06/1350055-ai.jpg"
+        width: 1200
+        height: 720
         isCached: true
+  - title: "AI-generated images of satanic kids’ event misrepresented as real"
+    excerpt: "CLAIM: Photos show children being taught Satanism in libraries in the U.S. during an event called SatanCon. AP’S ASSESSMENT: False. The images were generated with an artificial intelligence tool and posted online."
+    publishedDateTime: 2023-05-08T21:41:00Z
+    webUrl: "https://apnews.com/article/fact-check-satanic-kids-libraries-415653916064"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/afs:Medium:341014000747/822.jpeg"
+        width: 822
+        height: 500
+        isCached: true
+  - title: "Spotify takes down thousands of AI-generated songs after suspected bot use to inflate streams, report says"
+    excerpt: "Spotify took down about 7% of tracks from AI startup Boomy, after Universal warned streaming services they were artificially boosted, the FT reported."
+    publishedDateTime: 2023-05-09T12:29:00Z
+    webUrl: "https://www.businessinsider.com/spotify-takes-down-thousands-of-ai-generated-songs-bot-streams-2023-5"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 29
 
 secured: "surdbyD57GUb3X077V9mb5jzrC/0HIVMMY3vI9qVbQJH/M2tAc7sdvU5g2cRZXRwAmhctbIwis7t25IZv6NnDh90iYyIt50QhMr0qzb+HwIzalxUJ2cZkANgzJOFzYzOnLcNSJrO+mQl6CVDGqJa4spbjy/OnbwcgbHJ6fSxcEq/D0OmZHafMO2u27CfpCZUjRx+JystGlWeMd1aGOdN49O2zzHEZQXhbG7DqkHws9VeY4XQA5yvQc/wLJZJVN/31iT9HucBAthZtNxdt8vYpsKCoLALCb5VpjwZmCnKdBm+WPSOLMOz2b+5d5zjQms6XcGu6x+Vc4eTM07igprzVPemrOfyNkYKWSqMZT9pLNJWJ73J2mjZQiKHchiSHQoYVI+gIhWCRP+pV4qScwrP/MXcIOIJqEc2VPQJQ41WTtavsIX4h7VqR2QuB2ofaF3v7YkjbxYDy9iVSyDiQhkfIuofpxZ9qddu2/07egFuuiV3kyrlD8mSlvN6oHG36lIPW1Lgf3eVy8WhecOwf6Atew==;Fl87j4Dek5oDtIvwfpd8uw=="
 ---

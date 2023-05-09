@@ -2,6 +2,246 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-05-06-new-ai-decoder-can-translate-brainwaves-into-text-study.md",
+      "title": "New AI decoder can translate brainwaves into text - study",
+      "excerpt": "This is an important step on the way to develop brain–computer interfaces that can decode continuous language through non ... listened to podcasts while the AI attempted to transcribe their ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.jpost.com/science/article-741820",
+      "originalUrl": "https://www.jpost.com/science/article-741820",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/536262",
+          "width": 690,
+          "height": 407,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.jpost.com/science/article-741820/amp",
+      "cdnAmpWebUrl": "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/science/article-741820/amp",
+      "publishedDateTime": "2023-05-06T00:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Jerusalem Post Blogs",
+        "domain": "jpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-06-pricey-college-textbooks-next-on-ais-hit-list-professor-says-chatgtp-could-replace-them.md",
+      "title": "Pricey college textbooks next on AI’s hit list? Professor says ChatGTP could replace them",
+      "excerpt": "A professor says AI chatbot software, such as ChatGPT, could restructure postsecondary education by replacing some textbooks and promoting critical thinking.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/pricey-college-textbooks-next-ais-hit-list-professor-says-chatgtp",
+      "originalUrl": "https://www.foxnews.com/tech/pricey-college-textbooks-next-ais-hit-list-professor-says-chatgtp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e8afa715-b39f-4644-a45b-0a685525bf00/d6941cd8-4851-4e07-88de-2143f1711cbc/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/pricey-college-textbooks-next-ais-hit-list-professor-says-chatgtp.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/pricey-college-textbooks-next-ais-hit-list-professor-says-chatgtp.amp",
+      "publishedDateTime": "2023-05-05T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-06-data-science-and-ai-how-it-is-changing-the-game-for-fintechs-in-india.md",
+      "title": "Data science and AI: How it is changing the game for fintechs in India",
+      "excerpt": "The financial sector in India has always embraced cutting-edge technologies, and as a result, it has been undergoing transformations. The emergence of FinTech companies in India has disrupted the financial sector and it is now amongst the fastest growing Fintech markets in the world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/business/blockchain-data-science-and-ai-how-it-is-changing-the-game-for-fintechs-in-india-3075675/",
+      "originalUrl": "https://www.financialexpress.com/business/blockchain-data-science-and-ai-how-it-is-changing-the-game-for-fintechs-in-india-3075675/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2023/05/Add-a-little-bit-of-body-text-15.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/business/blockchain-data-science-and-ai-how-it-is-changing-the-game-for-fintechs-in-india-3075675/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-data-science-and-ai-how-it-is-changing-the-game-for-fintechs-in-india-3075675/lite/",
+      "publishedDateTime": "2023-05-05T22:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-06-ai-image-creator-midjourney-reopens-free-trials-after-month-long-pause.md",
+      "title": "AI Image Creator Midjourney Reopens Free Trials After Month-Long Pause",
+      "excerpt": "Midjourney, an enormously popular AI tool for creating photo-realistic images with text prompts, halted free trials at the end of March. But the company is opening up free trials again through the end of the weekend,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/mattnovak/2023/05/05/ai-image-creator-midjourney-reopens-free-trials-after-month-long-pause/",
+      "originalUrl": "https://www.forbes.com/sites/mattnovak/2023/05/05/ai-image-creator-midjourney-reopens-free-trials-after-month-long-pause/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6455adcd61c63272dae31896/0x0.jpg?format=jpg&width=1200",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/mattnovak/2023/05/05/ai-image-creator-midjourney-reopens-free-trials-after-month-long-pause/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattnovak/2023/05/05/ai-image-creator-midjourney-reopens-free-trials-after-month-long-pause/amp/",
+      "publishedDateTime": "2023-05-05T18:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-06-how-youtube-became-a-force-for-free-speech-in-south-korea.md",
+      "title": "How YouTube became a force for free speech in South Korea",
+      "excerpt": "YouTube's most watched daily live program in South Korea might surprise you. It is not about K-pop, it is not a K-drama, and has nothing to do with BlackPink.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/05/05/media/south-korea-youtube-influence-politics-intl-hnk-dst/index.html",
+      "originalUrl": "https://www.cnn.com/2023/05/05/media/south-korea-youtube-influence-politics-intl-hnk-dst/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/230316102327-01-south-korea-youtube-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/05/05/media/south-korea-youtube-influence-politics-intl-hnk-dst/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/05/05/media/south-korea-youtube-influence-politics-intl-hnk-dst/index.html",
+      "publishedDateTime": "2023-05-05T16:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-06-president-biden-meets-with-ai-ceos-at-the-white-house-amid-ethical-criticism.md",
       "title": "President Biden meets with AI CEOs at the White House amid ethical criticism",
       "excerpt": "On Thursday, President Joe Biden held a meeting at the White House with CEOs of leading AI companies, including Google, Microsoft, OpenAI, and Anthropic,",
@@ -10,7 +250,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2023/05/critics-take-aim-at-bidens-ai-meeting-with-ceos-from-google-openai-microsoft/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 201,
+      "heat": 171,
       "tags": null,
       "images": [
         {
@@ -62,7 +302,7 @@
       "originalUrl": "https://venturebeat.com/ai/its-generative-ai-models-vs-hackers-at-def-cons-ai-village/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -266,7 +506,7 @@
       "originalUrl": "https://venturebeat.com/ai/biden-administration-takes-action-to-promote-responsible-ai-innovation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -318,7 +558,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-an-image-search-engine-with-amazon-kendra-and-amazon-rekognition/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -560,7 +800,7 @@
       "originalUrl": "https://tech.hindustantimes.com/tech/news/microsoft-is-helping-finance-amd-s-expansion-into-ai-chips-71683222710006.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 518,
+      "heat": 528,
       "tags": null,
       "images": [
         {
@@ -812,7 +1052,7 @@
       "originalUrl": "https://www.forbes.com/sites/billconerly/2023/05/05/ai-for-business-leaders-especially-skeptics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -863,7 +1103,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/05/05/elon-musk-stirs-debate-on-claims-that-ai-will-enable-you-to-live-forever-an-immortal-question-for-ai-ethics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1008,257 +1248,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-05-inside-the-high-stakes-ai-powered-race-to-dethrone-google-search.md",
-      "title": "Inside The High-Stakes, AI-Powered Race To Dethrone Google Search",
-      "excerpt": "Artificial intelligence is “a bit like dropping a bomb right at the center of the information nexus,” said one startup founder.",
-      "sourceUrl": null,
-      "webUrl": "https://www.huffpost.com/entry/ai-google-search_n_6452a48ee4b0fbfe50a095d0",
-      "originalUrl": "https://www.huffpost.com/entry/ai-google-search_n_6452a48ee4b0fbfe50a095d0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.huffingtonpost.com/asset/6452a4f02700001a006fb6ef.jpg?cache=gLMM3kdUI0&ops=1200_630",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.huffpost.com/entry/ai-google-search_n_6452a48ee4b0fbfe50a095d0/amp",
-      "cdnAmpWebUrl": "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/ai-google-search_n_6452a48ee4b0fbfe50a095d0/amp",
-      "publishedDateTime": "2023-05-05T02:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HuffPost",
-        "domain": "huffpost.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/huffpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-05-ai-could-enable-10000-robot-led-microbe-experiments-per-day.md",
-      "title": "AI Could Enable 10,000 Robot-Led Microbe Experiments Per Day",
-      "excerpt": "Automation uncovers combinations of amino acids that feed two bacterial species and could tell us much more about the 90% of bacteria that humans have hardly studied.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/immunology/news/ai-could-enable-10000-robot-led-microbe-experiments-per-day-372973",
-      "originalUrl": "https://www.technologynetworks.com/immunology/news/ai-could-enable-10000-robot-led-microbe-experiments-per-day-372973",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/372973/ai-could-enable-10000-robot-led-microbe-experiments-per-day-372973-640x360.jpg?cb=20230505",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-05T02:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks",
-        "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-05-digital-video-publishers-tout-ai-and-new-metrics-at-newfronts-sales-events.md",
-      "title": "Digital Video Publishers Tout AI and New Metrics at NewFronts Sales Events",
-      "excerpt": "Artificial intelligence, entertainment-industry turmoil and new ways of gauging the success of advertising loomed large at this week’s NewFronts media showcases for digital ad buyers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/digital-video-publishers-tout-ai-and-new-metrics-at-newfronts-sales-events-97a42c4f",
-      "originalUrl": "https://www.wsj.com/articles/digital-video-publishers-tout-ai-and-new-metrics-at-newfronts-sales-events-97a42c4f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-776380/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-05T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-05-05-from-michelangelo-to-robots-this-startup-is-carving-a-new-era-of-sculpture.md",
-      "title": "From Michelangelo to robots: This startup is carving a new era of sculpture",
-      "excerpt": "An Italian startup aims to carve a new era of sculpture, where robotic chisels and AI deliver unprecedented speed, accuracy, and innovation.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/from-michelangelo-to-robots-startup-is-carving-new-era-of-sculpture",
-      "originalUrl": "https://thenextweb.com/news/from-michelangelo-to-robots-startup-is-carving-new-era-of-sculpture",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F05%2FUntitled-design-1-1.jpg&signature=55aa3c4b4413c21a9d7d47e03e7e2628",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-05T01:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-05-healthcare-natural-language-processing-market-2023-insight-and-global-trends.md",
-      "title": "Healthcare Natural Language Processing Market 2023 Insight and Global Trends",
-      "excerpt": "The Healthcare Natural Language Processing Market Scope and Overview Report for 2023 presents a detailed analysis of",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-market-2023-insight-and-global-trends-2023-05-05",
-      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-market-2023-insight-and-global-trends-2023-05-05",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-05T00:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

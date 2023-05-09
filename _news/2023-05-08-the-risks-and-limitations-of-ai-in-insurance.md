@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/the-risks-and-limitations-of-ai-in-insura
 webUrl: "https://www.ibm.com/blog/the-risks-and-limitations-of-ai-in-insurance/"
 type: article
 quality: 99
-heat: 179
+heat: 189
 published: true
 
 provider:
@@ -100,6 +100,20 @@ related:
       - url: "https://static.toiimg.com/photo/75476733.cms"
         width: 640
         height: 360
+        isCached: true
+  - title: "The threat and promise of artificial intelligence"
+    excerpt: "We’ll send you a myFT Daily Digest email rounding up the latest Artificial intelligence news every morning. In 1900, the UK had 3.3mn horses. These animals provided pulling power, transport and cavalry."
+    publishedDateTime: 2023-05-09T15:25:00Z
+    webUrl: "https://www.ft.com/content/41fd34b2-89ee-4b21-ac0a-9b15560ef37c"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 37
+    images:
+      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
+        width: 619
+        height: 377
         isCached: true
   - title: "Generative AI in factory automation and the edge"
     excerpt: "Siemens and Microsoft: generative AI in factory automation and at the edge In factory automation Siemens and Microsoft recently demonstrated how with the combination of Microsoft Azure machine learning and Siemens’ industrial edge, images captured by ..."

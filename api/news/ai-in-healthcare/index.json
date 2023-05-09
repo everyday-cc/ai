@@ -64,7 +64,7 @@
       "originalUrl": "https://www.entrepreneur.com/finance/how-will-we-know-when-artificial-intelligence-has-become/451129",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -205,7 +205,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-market-2023-insight-and-global-trends-2023-05-05",
       "featuredContent": null,
       "highlight": null,
-      "heat": 153,
+      "heat": 163,
       "tags": null,
       "images": [
         {
@@ -436,27 +436,18 @@
       "title": "New Artificial Intelligence Tool Can Diagnose Colon Cancer",
       "excerpt": "Detailed price information for Bausch Health Companies Inc (BHC-T) from The Globe and Mail including charting and trades.",
       "sourceUrl": null,
-      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/BHC-T/pressreleases/16543041/new-artificial-intelligence-tool-can-diagnose-colon-cancer/",
-      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/BHC-T/pressreleases/16543041/new-artificial-intelligence-tool-can-diagnose-colon-cancer/",
+      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/BHC-T/pressreleases/16543041/",
+      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/BHC-T/pressreleases/16543041/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://barchart-news-media-prod.aws.barchart.com/FC/fbf6e68ba80e8e45990c8b0717fbffb9/bogdanhoda-1.jpg",
-          "width": 777,
-          "height": 436,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-03T08:28:00-07:00",
+      "publishedDateTime": "2023-05-03T06:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Globe and Mail",

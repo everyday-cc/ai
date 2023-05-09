@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/article/salesforce-launches-slack-gpt/a
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/salesforce-launches-slack-gpt/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Informatica goes all in on generative AI with Claire GPT"
+    excerpt: "Informatica today announced Claire GPT, a generative AI tool aiming to help enterprises with data management tasks."
+    publishedDateTime: 2023-05-09T13:00:00Z
+    webUrl: "https://venturebeat.com/data-infrastructure/informatica-goes-all-in-on-generative-ai-with-claire-gpt/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
 
 secured: "+INnL5bDQKhqPu+tWjhmrMH1rxF5UDqpjdUebhiRfbptA7c68Ydc8NVERJ8HZyTRdHOvBhDHaZ+Kgc3fFspUxAOq6xL0sjwqDJzWMsOCbUa/kF/WZicN2zOPefwFzvkl4mc+jZT9LtsauoZWkYvGf114b5HnNks4PONuO3DBUv6Fh3J55gr2yriJBN8ttswmCKIc7dp5s8s6+8ww13LZaEF3Pwa0gFSPlni8UCywMkyKD7X0wJj+gOCuDHZTPdE4a/DxDhZDQhgFDBU7N3IQhwaTkX0M1uxCnfyJrhClUbHiWF0SSGDFQg5JzRQ/ATV6p4EcOL7rjXENHMBEzljycjqZOk3uwcM7/hYKrF9OXQjsPr/SGW02ufPnGWm67kLKGoH4ka/2m3ln+b/nEhsTi6iN0ar/zXCd0gKOr0ie75cncXBxuGuQsQXG8GAQiIXZKZwWbeu7EkFh0RhzVWr44ERCSRQFmR8ptTQtNKI3g++dGxD/pm9oUb+iHG1ZIDuWDQc+u/0IRkTykImWd7gmxQ==;ZCikH81UmogEADvLPRZpmQ=="
 ---

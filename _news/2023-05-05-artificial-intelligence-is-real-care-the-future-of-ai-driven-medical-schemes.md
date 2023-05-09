@@ -25,45 +25,45 @@ images:
     isCached: true
 
 related:
-  - title: "Synopsys.AI- Revolutionizing Chip Design Through AI-Driven EDA Suite"
-    excerpt: "Ranked Industry Analyst Patrick Moorhead gives his thoughts on Synopsys.ai and how Synopsys is leveraging AI into chip design and EDA."
-    publishedDateTime: 2023-05-04T22:15:00Z
-    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/05/04/synopsysairevolutionizing-chip-design-through-ai-driven-eda-suite/"
-    ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/05/04/synopsysairevolutionizing-chip-design-through-ai-driven-eda-suite/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/05/04/synopsysairevolutionizing-chip-design-through-ai-driven-eda-suite/amp/"
+  - title: "The Geopolitics Of AI Chips Will Define The Future Of AI"
+    excerpt: "The most important and widely used AI chip in the world today, Nvidia’s A100 GPU, has transistors that are 7 nanometers wide. Google’s latest tensor processing unit (TPU)—the most credible alternative to Nvidia GPUs— likewise uses 7-nanometer technology."
+    publishedDateTime: 2023-05-07T23:00:00Z
+    webUrl: "https://www.forbes.com/sites/robtoews/2023/05/07/the-geopolitics-of-ai-chips-will-define-the-future-of-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/robtoews/2023/05/07/the-geopolitics-of-ai-chips-will-define-the-future-of-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2023/05/07/the-geopolitics-of-ai-chips-will-define-the-future-of-ai/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 104
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64542c02cba0ed1862eabd27/0x0.jpg?format=jpg&width=1200"
-        width: 624
-        height: 780
+      - url: "https://imageio.forbes.com/specials-images/imageserve/645743bb6563f17e999c02fa/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 900
         isCached: true
-  - title: "Canadian AI startup Astrus on the way to revolutionize analog chip design"
-    excerpt: "Astrus, a Canada-based startup focusing on analog IC design automation, is aspiring to revolutionize the global chip design industry by leveraging recent breakthroughs in artificial intelligence (AI)."
-    publishedDateTime: 2023-05-09T02:14:00Z
-    webUrl: "https://www.digitimes.com/news/a20230509VL200/ai-analog-ic-canada-eda-ic-design-distribution.html?chid=13"
+  - title: "Death of an Author Prophesies the Future of AI Novels"
+    excerpt: "Stephen Marche composed this novella with extensive input from large language models. It’s required reading for anyone who's thinking about doing the same."
+    publishedDateTime: 2023-05-09T13:00:00Z
+    webUrl: "https://www.wired.com/story/death-of-an-author-ai-book-review/"
     type: article
     provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 53
+      name: Wired
+      domain: wired.com
+    quality: 47
+  - title: "How lab grown neurons could power the future of AI"
+    excerpt: "Melbourne-based Cortical Labs’ lab grown neurons could speed up AI training in a more energy efficient way and its work has caught the eye of hyperscalers and Amazon’s CTO"
+    publishedDateTime: 2023-05-08T03:13:00Z
+    webUrl: "https://www.computerweekly.com/news/366537095/How-lab-grown-neurons-could-power-the-future-of-AI"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 39
     images:
-      - url: "https://img.digitimes.com/newsshow/20230509vl200_files/6_r.jpg"
-        width: 336
-        height: 224
+      - url: "https://cdn.ttgtmedia.com/rms/onlineimages/ai_g1182183209.jpg"
+        width: 1200
+        height: 400
         isCached: true
-  - title: "What the AI Revolution Really Means"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence – or AI – is the newest megatrend to burst"
-    publishedDateTime: 2023-05-06T19:01:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-is-bringing-a-profitable-revolution-to-all-sectors-1032299076"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
 
 secured: "xgaKGuLBqdMKwjkNQ60yNRQcU377NqnWuiKJfPwU2Wf6MUXGSCGkxUCvxvTJ6wMAakNFUtcynX53IiQLsEC9B8ZB7AcYxXWJwY93zuldeGOLiW2DzVPbOwa8Xvll+M/GHOMINyyaZ4Bx2rXaGsAniF3is7NWkRAID2jVHSgsZQi1fwGaOJkmFH4UMQ7tL1h6paEGbElWJoYf9SwuH7lL7M0RzQUvQidS5bcav8VDQCB/8SV0UKeCpvxRyCi0g1+KcTg49Ub8nhattcUgI2nmqy6mO1DP4z2L/a/RT3ibg5ZqtvkQVM8gKxsOp7TyxjWT8cVFj/D6mAQgO0ZdCj/YjmYXXonpFhwDnYFs1d/mM5H3kqtXU0wTamlt4g+ysiEcYzhKbw4eQE53Xbs8qQKNPmv6T9JFKvyDmTVVOxgvY076Bngq2Iy9YfmyabK5U6xLZV13u2fA4TixCU+b8B0RgNPK1d5EaogzOSLJIpzBeM+1NpDbfwnzxlXN99J/aVmQk+HEre/iUq7BaVahwFsc5Q==;rx+uxExZ69VOej/jN16IRw=="
 ---

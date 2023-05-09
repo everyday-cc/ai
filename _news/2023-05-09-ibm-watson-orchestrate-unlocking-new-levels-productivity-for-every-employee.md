@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/ibm-watson-orchestrate-unlocking-new-leve
 webUrl: "https://www.ibm.com/blog/ibm-watson-orchestrate-unlocking-new-levels-productivity-for-every-employee/"
 type: article
 quality: 114
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 630
     height: 330
     isCached: true
+
+related:
+  - title: "IBM Launches AI Development Platform With Renewed Watson Brand"
+    excerpt: "International Business Machines Corp. is introducing a platform for large companies to train and use artificial intelligence models, leaning on its Watson legacy to stand out in the crowded field for AI tools."
+    publishedDateTime: 2023-05-09T10:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-05-09/ibm-launches-ai-development-platform-with-renewed-watson-brand"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 84
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iP6Hj8wMEfqk/v0/1200x731.jpg"
+        width: 1200
+        height: 731
+        isCached: true
 
 secured: "hVYHfPJ8rF1IQVjQeXQp0TBQfhJ8hQZgxJFMjfQ0OUBsarEXYCn9boAbdkf9fwlyQW/RB3s8DpkRoC3yhErHE1aiUJpfV1G0SxA83XA4gNIAPS1JWlyE+5xZpkNO0faXsn4oDoyoMyoNcxGOAVSmIRCfXrdNbMu1u52sp4BN0yDUQOls+p7kVxMa0RxabzUSSjVFjgSfaIg9uP0od9n+7BB0TkYpnDn/0i6I2/2GM0YPlJp1uBcy+dfTsLytIqDqds+5E+KaIeSJHGnwjY6KQS8iH6joHpjCxHMrUNzObvflzsidmKrs54j7XfwtVRwkSwLRzpxeNVFWYH11eAfKZbr6bzAgiBibuw7Hfo2rgcc=;pgZi78vNlmworu2k4/JaWw=="
 ---

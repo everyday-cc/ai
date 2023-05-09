@@ -53,6 +53,15 @@ related:
       name: Longview News-Journal
       domain: news-journal.com
     quality: 19
+  - title: "Leading the Way with AI: How Companies are Transforming Industries"
+    excerpt: "Here are some companies that are leading the way in AI and driving transformation and innovation, including EnKash and Addverb., Technology & Science News, Times Now"
+    publishedDateTime: 2023-05-09T13:13:00Z
+    webUrl: "https://www.timesnownews.com/technology-science/leading-the-way-with-ai-how-companies-are-transforming-industries-article-100104420"
+    type: article
+    provider:
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 19
 
 secured: "RboRI8MGnqymmLjDSw+j1UKTbBrn9i/8yfCP5iz41AWyOEBQrC8hwu9//noFRxrQr0CVh2lM2rAbEsgDWaHbfwXuItlo7kNVZchNAzd2eSmbMgCng2OVvyrZcZh21kwrkbnMK53Vnd21IRPo51Zvl9Rbph0OiSdlJK0RaWy/WJoV5wfUjsvINhSxt1zVdNImzLro8GlJSkts/CORj+51NWS5FnRwc2Vj0Tjc8lVCjuo/kXwmCUGzjqUR5LOfKrpVRTMI+zc8Ow8G8PSv4zcljDlj/ADwy8qhP4qDiDc3IrTjOT1Ntuw7NxVVLsv2kbVbM6Gie5OMEgv0d7DcIkkIKk62D2Aw2jUNRyYnNnfK/BSHWa2T01uOtd6u89zdl2Z+3DMeuH396xp1I706JsmTpuMubvaCpI3T0mc+6KnuzGkgkBYrUzSO8vmijWkvpUzhepQIoeGUHgSgL3/6KVmiDRZnveWe5VHutHvwO6a9oLoWFYkI4fF8vyxHi7zuZ6heixVwq/DtAyVxFnd2Vt3uqw==;Kh4XBFlMsFh86hojfS1qiA=="
 ---

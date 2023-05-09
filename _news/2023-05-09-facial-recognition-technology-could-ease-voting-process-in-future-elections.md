@@ -57,6 +57,22 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Marriage is entitled to constitutional protection, not just legal recognition: SC"
+    excerpt: "The Supreme Court said on Tuesday it has to be alive to the fact that the concept of marriage has evolved and must accept the basic proposition that marriage itself is entitled to constitutional protection as it is not just a matter of statutory recognition."
+    publishedDateTime: 2023-05-09T15:04:00Z
+    webUrl: "https://www.rediff.com/news/report/marriage-is-entitled-to-constitutional-protection-not-just-legal-recognition-sc/20230509.htm"
+    ampWebUrl: "https://m.rediff.com/amp/news/report/marriage-is-entitled-to-constitutional-protection-not-just-legal-recognition-sc/20230509.htm"
+    cdnAmpWebUrl: "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/news/report/marriage-is-entitled-to-constitutional-protection-not-just-legal-recognition-sc/20230509.htm"
+    type: article
+    provider:
+      name: rediff.com
+      domain: rediff.com
+    quality: 39
+    images:
+      - url: "https://im.rediff.com/345-230/news/2020/dec/27supreme-court.jpg"
+        width: 345
+        height: 230
+        isCached: true
 
 secured: "iiZFsOoSIH5N7Kzg1qFdhHYvVyZiJ1iayJu6PeOWTAkqeEn7lCh6zLyKYJItB7WehNs+BB0f7H/E4NGe6A1LOVmXe2+DS3O34yOHAIR6QWGUoOj1dtlUrqMqWB9ojJqzO+AzhDmJaX2VUh/H9hcvgRpXM89lPnujVGfTSyMD7kUunD+iDfSutlXXHysyfyebGhXlXLYpRT+hx4V3u30svlkbf7Aq1Nt4lK0cgknQcwGRjQbLnRitfZMJyqKuqDoh+1fr5/iuLCRe9hVT9gJrjfmFek8BdAJB8dFkQS8Lo+CA7+CoD9tpdeaNvUJM+izRvuMmESs9oQ1mfpbSM/Hr9H0LNVPWy+3N1YzRm34t16+KaM2zMTHd8cXOGdqPUtS5Bm/g/MaRxRCWJibBFpS29UauUO5zuDq7IuHI1zt++SLsLj+pEirt2sN5LljZ4cmGL/WD3oq8KqD0RodIkcdoJGiZeXuY6AairgusqSQYm3PA6S584h85Sfs9yWhG6Lcxnz9dPk9j9kkGCfOA/7j9vQ==;rWrAebQlW0ehOrU0UP/o3g=="
 ---

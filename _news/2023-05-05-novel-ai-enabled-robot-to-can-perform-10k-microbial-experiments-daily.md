@@ -39,20 +39,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Novel AI-enabled robot to conduct automated scientific experiments"
-    excerpt: "Researchers have developed an artificial intelligence (AI) system that can help robots to conduct automated scientific experiments - as many as 10,000 per day - potentially driving a drastic"
-    publishedDateTime: 2023-05-06T00:21:00Z
-    webUrl: "https://www.thehansindia.com/hans/young-hans/novel-ai-enabled-robot-to-conduct-automated-scientific-experiments-796141"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 54
-    images:
-      - url: "https://assets.thehansindia.com/h-upload/2023/05/06/1350055-ai.jpg"
-        width: 1200
-        height: 720
-        isCached: true
   - title: "AI could run a million microbial experiments per year"
     excerpt: "Automation uncovers combinations of amino acids that feed two bacterial species and could tell us much more about the 90% of bacteria that humans have hardly studied. An artificial intelligence system enables robots to conduct autonomous scientific experiments -- as many as 10,"
     publishedDateTime: 2023-05-05T15:08:00Z
@@ -71,15 +57,6 @@ related:
       name: Interesting Engineering
       domain: interestingengineering.com
     quality: 27
-  - title: "AI could run a million microbial experiments per year, says study"
-    excerpt: "An artificial intelligence system enables robots to conduct autonomous scientific experiments—as many as 10,000 per day—potentially driving a drastic leap forward in the pace of discovery in areas from medicine to agriculture to environmental science."
-    publishedDateTime: 2023-05-04T19:22:00Z
-    webUrl: "https://phys.org/news/2023-05-ai-million-microbial-year.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 19
 
 secured: "g8dDGP/EQlXj1558jwOHhG8curJGUIIweX7CytZ08j2oq45/1oTTnCQUeijztTzOX7u/6f4VV4CJsijouCHNmfjZMaLFL0I+DnFm2EaTaLcGPEGlm3FbUVllf28/G2vkpztUcN342uxekVlAItm9Wz4/OQVWyihaHDZqgD9rcxQUZuKYvUTEnNwvfmF4VT8jKsxeg9uFHyF+P/H9DF97+0/nz7VL1F/d0wqMsUxOOctfmOv8PaQWZC+qdlrJUGntsc7uhZA8j9URIM3I9ljlHQKwJCJxklMqeeTwVzY/lI4Xx4dNJPITvQBUKyOc+oZpPG+TebDxoNs0SqzrP9WV3obT517w8EKX5aVPNRTb1OVxmCzqNY/rvMpbTwrnOA0SK7DNParnQDl6wGP/TA07g9bZ4BeytR3/njSv66A79Ngq+SZrWxVnQ4WmcunI775xw32zdbuf7mAQSEzgSlSmCDyIXHLelVKPz0K1LZCEv1mvRV/xYMaIzxLryeT848HaCXyYRNTEBUL7Q4oMYr1qVw==;e5TTN5AXHqaMpivBgtVabg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/05/05/elon-musk-stirs-d
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/05/05/elon-musk-stirs-debate-on-claims-that-ai-will-enable-you-to-live-forever-an-immortal-question-for-ai-ethics/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -48,6 +48,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Need an online form? This new AI tool will build that for you"
+    excerpt: "Typeform, a company behind a lot of the forms you fill out online every day, is working with OpenAI to launch a new integration of GPT-4 with its system, called Formless. This partnership will bring artificial intelligence, like that used in ChatGPT, to make the creation of online forms faster and more intuitive than ever."
+    publishedDateTime: 2023-05-09T13:00:00Z
+    webUrl: "https://www.zdnet.com/article/need-an-online-form-this-ai-tool-can-build-that-for-you/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 47
 
 secured: "6CDuZPnoifeMBKgWWthOCTGNFNMzjdGmD0W9DZ6etisvB9f6GmQfvTmYh5p5MlTd8TQ/oE74s1VitbjDuPWWDIIHMjMObFIzKXoFKvZIDTym2fMXsEGzoAKKFR5vuRBdr6QduT9DD55/BHriNpXzpeaRcnjEvq9n1QsvQrMM3OW0lgpO2GOcvAH/BG+CEwsWVsNAGSXW74CRHwcl8vChOMIjnvVgNH/RBiVQUbmtSMHYqjos003o4BxUyOTKIayIaMSo5APwrO1PAbwZ2xjSeqhftyEkzuo6S/UzljW7pWPHsbAA1FfNGZBeRsgkt9h/gAro29pmJA+3UVcp6HJeB1BNlM7tyd/3LR8GGN1WavEcoM0fIs5xd0aLRl5VGjZ6nqxc1shX2HdH9ZQigiMmqFtzwnZNnx4POSXqF+3tJuCtI6cKtvJRGQPlCLCsTRN3BNZxelg/oxA+wZtGONfmMBv/WbIPSdZ6cYvz4JzEBc5jgr3+A0nYWS59ibIIx8k0gqrvGW4GpBtr4DVJv36tJQ==;jOyErA3SnT6hP+/5gjrvSA=="
 ---

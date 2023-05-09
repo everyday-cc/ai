@@ -43,18 +43,20 @@ related:
         height: 256
         isCached: true
   - title: "In global rush to regulate AI, Europe set to be trailblazer"
-    excerpt: "The EU’s AI Act could become the de facto global standard for artificial intelligence, with companies and organizations potentially deciding that the sheer size of the bloc's single market would make it easier to comply than develop different products for different regions."
-    publishedDateTime: 2023-05-09T10:32:00Z
-    webUrl: "https://www.chron.com/news/world/article/in-global-rush-to-regulate-ai-europe-set-to-be-18087485.php"
+    excerpt: "European lawmakers have rushed to add language on general artificial intelligence systems like ChatGPT as they put the finishing touches on the Western world's first AI rules"
+    publishedDateTime: 2023-05-09T08:51:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/global-rush-regulate-ai-europe-set-trailblazer-99189394"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/global-rush-regulate-ai-europe-set-trailblazer-99189394"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/global-rush-regulate-ai-europe-set-trailblazer-99189394"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 37
+      name: ABC
+      domain: abcnews.go.com
+    quality: 57
     images:
-      - url: "https://s.hdnux.com/photos/01/32/63/16/23802752/3/rawImage.jpg"
-        width: 2048
-        height: 1365
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
 
 secured: "MZf4Mkxeats8EdfYdFg5sm8m3jvbLZIrq7lSTatcr+tmQKrIFlg5VOIAUXdn6Fd9GavKEFNEF0kKcL9ekD6KA0QtJNXLxI2EKJN7pu7vhTsgbpp7dzS2goX9tqnYzWslJNa7fwJoSY3asBmsdjLDYt/1dZ+FRkuROw0KYOHFpsywbTIChe2FN986RkveCShikkdkK2Z7h0WMdW03NMCUYllOxQpuaKoWZtN1oWtebPCfko5h4W26l5KZgiIr3H+TqlKVJBU6+/f4fV4EXZoC0MaPACaD/GAXkBg3IoN+A64AF1lcGuBGb1MuVrkAKjCHWYMt3adJ+2uY/4XDu3aUTS0b/QjVfU1I7RbTswE4+PEPuPcWE2NRj5D5SpV9tuTTzMrlA3DGsig2DI14Ty5sV2hGEZUhNW/A0WkhDSPIUfORkQ5wKAZ35C+n4ZXciFFhByD89+eY9fm46WJNzKUo/qXwzQZY2CUhiaCY3jpkhMU+R6cPaZN+27s2Qf3ysyjep2u0qPjHkQ0RLkzrUX2h9Q==;XZUpgUPIPD1f77iC5g4HlQ=="

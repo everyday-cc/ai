@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/healthcare-natural-langu
 webUrl: "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-market-2023-insight-and-global-trends-2023-05-05"
 type: article
 quality: 83
-heat: 153
+heat: 163
 published: true
 
 provider:
@@ -98,6 +98,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 39
+  - title: "Global \"Machine Learning Market\" 2023 to See Massive Growth by 2030 | Research Reports World"
+    excerpt: "The Machine Learning Market Scope and Overview Report for 2023 presents a detailed analysis of the latest trends in"
+    publishedDateTime: 2023-05-09T10:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-market-2023-to-see-massive-growth-by-2030-research-reports-world-2023-05-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
 
 secured: "MmuLXmsxICDdf8Naojf8iQvbHhVKyjMDq8HU+1VtVd+ytXNHElsXF64ytvMLp6VwSBM80+qINTsOVPNqPHKERKLKUvyRsOa5ymG8ToKbiiUu1MmS7VJXVsWxAXxC9KOuBpjpAWrAX895N9DPzPhstlUGzJpoHlegjGVi7cQoBfmI6Nl42bYZh0FIg87XNiMOIzFmx1hSmLsy56hTPQXHtwjKSNdKeY0mIpgtzvGAFCA33jbluZLXFWUvVBJVzkeaApvPbSJGPKZrcpB7tAP5QX9bXG93oIueqesHK7PY5BnkyU/FrC6Y4Bj8yns/yZ/Dc81uZDCxAkDPykEIMpvbUeCV278grkRR839vr9dfnwk=;tOIFgZADaKSgGS5jkqMAhg=="
 ---
