@@ -122,15 +122,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 35
-  - title: "Self-driving Bus Market Share, Size, Financial Summaries Analysis from 2023 to 2028"
-    excerpt: "Self-driving Bus report provides a detailed analysis of regional and country-level market size, segmentation market growth, market share, competitive Landscape, sales analysis, impact of domestic. The self-driving bus market has witnessed exponential growth in recent years due to the increasing demand for autonomous vehicles and the growing need for efficient and safe public transportation."
-    publishedDateTime: 2023-05-04T06:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-bus-market-share-size-financial-summaries-analysis-from-2023-to-2028-2023-05-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 28
   - title: "Global Self-driving Cars Market [2023] | New Report Anticipates Industry to Surpass USD 6567.8 Million in Revenue by 2030"
     excerpt: "Toyota BMW Volvo Mercedes-Benz Audi Among other players domestic and global, Self-driving Cars market share data is available for global, North America, Europe, Asia-Pacific, Middle East and Africa, and South America separately. Research ..."
     publishedDateTime: 2023-05-04T12:10:00Z

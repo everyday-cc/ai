@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI Robot Dog Market Size, Revenue, and Forecast 2030"
+    excerpt: "The Global AI Robot Dog market is anticipated to rise at a considerable rate during the forecast period, between 2023 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
+    publishedDateTime: 2023-05-08T11:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-robot-dog-market-size-revenue-and-forecast-2030-2023-05-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Of Things (AIoT) Solutions Market Research, 2023-2030"
     excerpt: "In 2023,Artificial Intelligence Of Things (AIoT) Solutions Market with technical and procedural infrastructure that"
     publishedDateTime: 2023-05-08T03:10:00Z

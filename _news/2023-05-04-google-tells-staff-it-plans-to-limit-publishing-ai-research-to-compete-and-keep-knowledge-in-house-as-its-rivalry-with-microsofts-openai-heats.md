@@ -6,8 +6,8 @@ publishedDateTime: 2023-05-04T09:00:00Z
 originalUrl: "https://www.businessinsider.com/google-publishing-less-confidential-ai-research-to-compete-with-openai-2023-4"
 webUrl: "https://www.businessinsider.com/google-publishing-less-confidential-ai-research-to-compete-with-openai-2023-4"
 type: article
-quality: 47
-heat: 47
+quality: 49
+heat: 49
 published: false
 
 provider:
@@ -22,6 +22,7 @@ topics:
   - AI Ethics
   - AI
   - Microsoft AI
+  - Facebook AI
 
 images:
   - url: "https://i.insider.com/6452c554b4a8cd00187aaab6?width=1200&format=jpeg"

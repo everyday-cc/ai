@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/chatgpt-and-ai-guide-to-2023-most-ta
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-and-ai-guide-to-2023-most-talked-about-technology-2023-may?amp"
 type: article
 quality: 85
-heat: 125
+heat: 135
 published: true
 
 provider:
@@ -85,6 +85,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 47
+  - title: "I asked AI bot ChatGPT to write a column on happiness. Here’s what happened next"
+    excerpt: "I had to find out for myself. So I conducted a little experiment. I asked ChatGPT to write an article for me. I submitted the prompt, “Write a 500-word column on happiness.” That’s a broad, overworked topic,"
+    publishedDateTime: 2023-05-08T21:21:00Z
+    webUrl: "https://www.aol.com/news/asked-ai-bot-chatgpt-write-180244290.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 32
+    images:
+      - url: "https://media.zenfs.com/en/aol_san_luis_obispo_tribune_mcclatchy_563/9121ec7733a744f8785aa5baaae9181f"
+        width: 1140
+        height: 759
+        isCached: true
 
 secured: "WEOIWqAmTSZUEHVnnLZxNvv1s4DpTc3mLLutAOyVAybJye4I8OBZUyUUuSE1fZJh643Sl+4iv8J7567/tdQv6ELL6xfvPtqyGchxJuRqTLVn66DYqU9nzrtKtdaoQaLQ20wpvEh8nAIfiQ7GD/Xdy0kRt4vex/hz4tH1CX/DUHkOBsqVddxe7HwDwlgPuQbJsciLZopu/SKS2MPRgB7vSQie0yvL5bLpwH3bFZg1VF0EtTjhe7TCjuN6dEsw2azm5lL5tgU0Oc7zE11vLQmMKTGS5dzHVp0iQktgOax3oWAE9clekeEdg1Rekr2NbjQI5Kt8bn588EF1mclgTUU4ojb4BZuWD+MZSYcQiLTiLpE=;Z2i8P2lEdRrMJT7K1BkyGQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/article/salesforce-launches-slack-gpt/a
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/salesforce-launches-slack-gpt/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 109
 published: true
 
 provider:

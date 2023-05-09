@@ -254,6 +254,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden Administration Turns To Hackers To Tame AI As White House Looks Towards Regulating Artificial Intelligence To Preserve Jobs"
+    excerpt: "Gamers Making Thousands Selling Gaming Skins And Assets: Gameflip's Bold Vision For The Future Of Gaming Commerce Artificial intelligence (AI) technology — led by the growth of ChatGPT — has governments around the world concerned about its impact."
+    publishedDateTime: 2023-05-08T20:01:00Z
+    webUrl: "https://www.benzinga.com/news/23/05/32272632/biden-administration-turns-to-hackers-to-tame-ai-as-white-house-looks-towards-regulating-artificial"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32272632"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32272632"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 23
 
 secured: "B2wWmsfY/CL4YjF683lFBm5FVoAMow7EJbbXBIAxSXseGf7GigoBgCQ2T9qN4Tc39KzJoRk2LW/qKO6h0x49DWv7yg99v2r3bOGgFTCuoBaVsYEK2urrAm1y8N5XIwb0stgdnajbcwMKu2mh8CyN484ihBF0shajADmwGFBXBcuoXAvGNJaUM9guknyjQuSmO9APLQpwL3KbVcrJlw4shD7FLjKwXwusLYyJdCmj3eR+z7TSjCEdh6AASbnmXVKtHoj14CcauM1X3urzswg90LavjiiOmI8TYA55OlGE6mlv9lgLG2ZCOC9pPQ1EDzypdB0h/S4aMGIta2ixUb3Lj4nYosjTThfb3NxRLVfWUH6KJYb8wyWWDa+EW7ZB/xxHJD48oxa9U+tic3mBnnDCaoh7LMzn13Vv4vLeH3f4wXpJb5jFYCj3RoKWEbY9ihMSkuu+VBVk2b5TkZK3Qkhf1AcE+UqyHrICjb/zpVdFjS1YU4ZMwYDJkNP+IKhnmzGCXMURpTLPGA9gfCPO0EcO4g==;n1iQF5DrkTajBuSSJYsGtg=="
 ---

@@ -57,6 +57,20 @@ related:
         width: 3000
         height: 1999
         isCached: true
+  - title: "DeepMind boss says human-level AI is just a few years away"
+    excerpt: "The head of Google’s artificial intelligence division DeepMind has predicted that human-level AI may be just a few years away. The forecast from Demis Hassabis puts the date for the arrival of ..."
+    publishedDateTime: 2023-05-04T12:14:00Z
+    webUrl: "https://www.independent.co.uk/tech/ai-deepmind-artificial-general-intelligence-b2332322.html"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 54
+    images:
+      - url: "https://static.independent.co.uk/2023/05/04/10/deepmind%20human%20level%20ai.jpg?quality=75&width=1200&auto=webp"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Tech Digest daily roundup: DeepMind boss says ‘human-level’ AI just a few years away"
     excerpt: "The head of Google’s artificial intelligence division DeepMind has predicted that human-level AI may be just a few years away."
     publishedDateTime: 2023-05-05T10:13:00Z
@@ -71,15 +85,6 @@ related:
         width: 704
         height: 396
         isCached: true
-  - title: "DeepMind boss says human-level AI is just a few years away"
-    excerpt: "The head of Google’s artificial intelligence division DeepMind has predicted that human-level AI may be just a few years away. The forecast from Demis Hassabis puts the date for the arrival ofAGI) – systems that can think in similar but superior ways to humans – much earlier than previous predictions."
-    publishedDateTime: 2023-05-04T12:42:00Z
-    webUrl: "https://www.aol.com/news/deepmind-boss-says-human-level-115422614.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 34
   - title: "Google DeepMind CEO says human-level AI will be here in ‘a few years’"
     excerpt: "Google's DeepMind CEO predicts that human-level artificial intelligence will be achievable within just \"a few years.\" Demis Hassabis made the prediction Thursday during an interview at the Wall ..."
     publishedDateTime: 2023-05-05T03:37:00Z

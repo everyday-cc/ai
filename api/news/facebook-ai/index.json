@@ -63,7 +63,7 @@
       "originalUrl": "https://venturebeat.com/ai/biden-administration-takes-action-to-promote-responsible-ai-innovation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -264,6 +264,49 @@
       ]
     },
     {
+      "path": "_news/2023-05-04-on-facebook-artificial-intelligence-could-soon-make-stories-for-you.md",
+      "title": "On Facebook, artificial intelligence could soon make Stories for you",
+      "excerpt": "After Snapchat, it’s Facebook’s turn to make use of artificial intelligence. The social network is testing a new feature that can automatically create Stories using AI. Some users recently ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/tech/tech-news/2023/04/15/on-facebook-artificial-intelligence-could-soon-make-stories-for-you",
+      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2023/04/15/on-facebook-artificial-intelligence-could-soon-make-stories-for-you",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apicms.thestar.com.my/uploads/images/2023/04/15/2027177.jpg",
+          "width": 1240,
+          "height": 826,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-03T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-03-optimized-pytorch-20-inference-with-aws-graviton-processors.md",
       "title": "Optimized PyTorch 2.0 inference with AWS Graviton processors",
       "excerpt": "New generations of CPUs offer a significant performance improvement in machine learning (ML) inference due to specialized built-in instructions. Combined with their flexibility, high speed of development, and low operating cost, these general-purpose processors offer an alternative to other existing",
@@ -314,6 +357,49 @@
         "AI",
         "AWS AI",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-03-godfather-of-ai-leaves-google-warns-of-techs-dangers.md",
+      "title": "‘Godfather of AI’ leaves Google, warns of tech’s dangers",
+      "excerpt": "But it’s the concerns of insiders in the AI research community that are attracting ... a top AI scientist at Facebook parent Meta, has taken a more optimistic approach. AP Technology Reporter ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kwtx.com/2023/05/02/godfather-ai-leaves-google-warns-techs-dangers/",
+      "originalUrl": "https://www.kwtx.com/2023/05/02/godfather-ai-leaves-google-warns-techs-dangers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-kwtx-prod.cdn.arcpublishing.com/resizer/xR0qjtUBey2hosBOwU9Xt-0_7jQ=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/627XNACR65DVZIYFW3WKTTTWHU.png",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kwtx.com/2023/05/02/godfather-ai-leaves-google-warns-techs-dangers/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-kwtx-com.cdn.ampproject.org/c/s/www.kwtx.com/2023/05/02/godfather-ai-leaves-google-warns-techs-dangers/?outputType=amp",
+      "publishedDateTime": "2023-05-02T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KWTX",
+        "domain": "kwtx.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
       ]
     },
     {
@@ -537,6 +623,58 @@
         "name": "The Diplomat",
         "domain": "thediplomat.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-28-jpmorgan-debuts-ai-model-used-to-decipher-fed-speeches-for-potential-trading-signals.md",
+      "title": "JPMorgan debuts AI model used to decipher Fed speeches for potential trading signals",
+      "excerpt": "An curved arrow pointing right. Ahead of the Federal Reserve's policy meeting next week, JPMorgan Chase unveiled a new artificial intelligence-powered tool that digests comments from the US ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/bonds/ai-artificial-intelligence-chatgpt-jpmorgan-investing-outlook-fed-jerome-powell-2023-4",
+      "originalUrl": "https://markets.businessinsider.com/news/bonds/ai-artificial-intelligence-chatgpt-jpmorgan-investing-outlook-fed-jerome-powell-2023-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6439595af62706001942ff9a?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/news/bonds/ai-artificial-intelligence-chatgpt-jpmorgan-investing-outlook-fed-jerome-powell-2023-4",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/bonds/ai-artificial-intelligence-chatgpt-jpmorgan-investing-outlook-fed-jerome-powell-2023-4",
+      "publishedDateTime": "2023-04-27T12:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1216,6 +1354,58 @@
       ]
     },
     {
+      "path": "_news/2023-04-24-3-ai-stocks-that-could-go-parabolic.md",
+      "title": "3 AI Stocks That Could Go Parabolic",
+      "excerpt": "For instance, a new AI program called Advantage+ is helping advertisers recover their returns on Facebook and Instagram ... has positions in Apple, Lam Research, Meta Platforms, Microsoft, and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/04/23/3-ai-stocks-that-could-go-parabolic/",
+      "originalUrl": "https://www.fool.com/investing/2023/04/23/3-ai-stocks-that-could-go-parabolic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/729035/artificial-intelligence-ai-data-deep-processing.jpg",
+          "width": 5500,
+          "height": 4125,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-23T10:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-20-ai-can-kill-us-but-some-in-congress-dont-even-know-how-to-log-in-to-facebook-lawmakers-say.md",
       "title": "AI can 'kill us,' but some in Congress don’t even know how to log in to Facebook, lawmakers say",
       "excerpt": "WASHINGTON – AI has the potential to both benefit and harm the U.S. in unknown and unimagined ways but Congress has hardly any experts on the rapidly developing technology, lawmakers told Fox News.",
@@ -1297,187 +1487,6 @@
       "provider": {
         "name": "The Washington Post",
         "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-ai-governance-market-research-2023-2030-top-key-players-in-the-industry-are-sas-institute-pymetrics-fico-facebook.md",
-      "title": "AI Governance Market Research [2023-2030] | Top Key-Players in the Industry are - SAS Institute, Pymetrics, FICO, Facebook",
-      "excerpt": "The AI Governance market research report is the outcome of comprehensive primary and secondary research. It offers a detailed analysis of the current and future objectives of the market ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-governance-market-research-2023-2030-top-key-players-in-the-industry-are---sas-institute-pymetrics-fico-facebook-2023-04-18",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-governance-market-research-2023-2030-top-key-players-in-the-industry-are---sas-institute-pymetrics-fico-facebook-2023-04-18",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-18T20:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-18-europe-spins-up-ai-research-hub-to-apply-accountability-rules-on-big-tech.md",
-      "title": "Europe spins up AI research hub to apply accountability rules on Big Tech",
-      "excerpt": "For the European way to [do] artificial intelligence. For something that is autonomous — which is leading the world in terms of non-standard research technology in this field, which is such a ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/04/18/ecat/",
-      "originalUrl": "https://techcrunch.com/2023/04/18/ecat/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/04/algo-trans.jpg?resize=1200,697",
-          "width": 1200,
-          "height": 697,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/04/18/ecat/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/04/18/ecat/amp/",
-      "publishedDateTime": "2023-04-17T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-17-ai-could-have-a-14-trillion-impact-by-2030-here-are-3-top-stocks-to-buy-now.md",
-      "title": "AI Could Have a $14 Trillion Impact by 2030: Here Are 3 Top Stocks to Buy Now",
-      "excerpt": "Artificial intelligence has been all the rage lately, capturing the imagination of consumers and investors alike. Ark Invest estimates the opportunity from AI at $14 trillion by 2030. Palantir ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/04/16/ai-trillion-dollar-impact-2030-top-stocks-buy/",
-      "originalUrl": "https://www.fool.com/investing/2023/04/16/ai-trillion-dollar-impact-2030-top-stocks-buy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-16T13:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-16-deepfake-porn-could-be-a-growing-problem-amid-ai-race.md",
-      "title": "Deepfake porn could be a growing problem amid AI race",
-      "excerpt": "Research into deepfake porn is not prevalent, but one report released in 2019 by the AI firm DeepTrace Labs ... which includes Facebook, Instagram and Messenger. Meta spokesperson Dani Lever ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.clickondetroit.com/business/2023/04/16/deepfake-porn-could-be-a-growing-problem-amid-ai-race/",
-      "originalUrl": "https://www.clickondetroit.com/business/2023/04/16/deepfake-porn-could-be-a-growing-problem-amid-ai-race/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/LEJTYZBG2VC6FFWEGO2D3DKEFA.jpg?_a=ATCqVhC0",
-          "width": 700,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-16T08:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "clickondetroit.com",
-        "domain": "clickondetroit.com",
         "images": null,
         "publishers": null,
         "authors": null

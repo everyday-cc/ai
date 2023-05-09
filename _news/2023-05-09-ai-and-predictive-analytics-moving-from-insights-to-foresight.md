@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/microsoft_/2023/05/08/ai-and-predictive-an
 ampWebUrl: "https://www.forbes.com/sites/microsoft_/2023/05/08/ai-and-predictive-analytics-moving-from-insights-to-foresight/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/microsoft_/2023/05/08/ai-and-predictive-analytics-moving-from-insights-to-foresight/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/645947bc0b8337af0bbe84e5/0x0.jpg?format=jpg&width=1200"
@@ -29,6 +30,6 @@ images:
     height: 800
     isCached: true
 
-secured: "iF/o/ZTI+Z7qoNYGRcwvg8xzgSM2bD340TPXqs2cdsQNHbPo4I8+H1TKGkGUk0EZ6/ebHbnIfCPGnaIvlhi6fv4MNfe1EZT0oumu25pfapNGyD/O+1LQPsdTRdzVVwC5yxW4a6d2yJ0lMDWpoF/K3LyPNTx0wffMQnbe0EavyxZIF+f3A6R3bqsr/SyxfZLufVQR+Wz+EsfXlnvFI6PZKndXZOOEDLFhn/QsOra1Zo7eP9PX8k55SgswOV0ZaZmlcP0tG6ein34XVIY2KSUpL4SsTmTuGXd92hLNeEVcwhzUjHWm4lEs8Sawu7NyT0MpZuz/6G8RqHst9g5dBGnOnSgaKWzcrSjPtjmLrtGeZok=;UWrw2wAhp0wcWvVi6Np5OQ=="
+secured: "ewbcOyatadIR+Q7Q7ZtwJOKsmdZDSYIHx09fyzE2wRa4/hDoeMJ2miWW6CC/k1Gd953tWK0VcrYlI+0LwkpBocfRa8ye+i/3VkbEv7t1bOonnm5Hs0az7Zy3xTrmfB3WScY753DhDhGwPWDFTHAmSGwBHRDkViIclL5r1m6uPvitpGbCYq8m8rv1mIGg2ca6avBXEI0ygddr1NQRtRDjYDX35PDhGs50ke7j2JUsUEVjh5a/+IYd8r2Kt8lBnDgc3C3mylFtcuW3JPfs3speN0gS1Fz+SCXmByjXYYm6eFuDVQBVm0P63jCAQ+20hMsKBilf91zXz0k1TWUH+MAvh58oBxmbyfKDoxYbE/DDATRpRGUUbq9JE3ekCv9mrIBpU5ghGrQOlv+BqOn43MfZdusZh+UVPhQqULCu8Ilv+Bj5kh4yoBTuIJecuMWjqmtt+mRRsmS/+0LB6vXWqBYPs+RUfkvFLvuHSc9WekiPNjDeOOoR9zqzIg/RG+2svA83+spTrDs+ztsLBYdpqxLlqQ==;wjrenadMtip73xBqBMbSCg=="
 ---
 

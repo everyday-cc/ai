@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/its-generative-ai-models-vs-hackers-at-de
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/its-generative-ai-models-vs-hackers-at-def-cons-ai-village/amp/"
 type: article
 quality: 87
-heat: 120
+heat: 117
 published: true
 
 provider:

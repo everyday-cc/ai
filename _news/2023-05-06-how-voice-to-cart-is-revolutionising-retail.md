@@ -26,13 +26,13 @@ images:
 
 related:
   - title: "Banking Sector Revolution: 3 Fintech Stocks to Watch"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Fintech is revolutionizing the banking sector. In fact, artificial"
+    excerpt: "Fintech is revolutionizing the banking sector. In fact, artificial intelligence (AI), and blockchain could lead to a far more efficient and accessible system. Fueling the boom, we’re already seeing a good deal of global cashless payments."
     publishedDateTime: 2023-05-04T15:33:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/banking-sector-revolution-3-fintech-stocks-to-watch-1032293459"
+    webUrl: "https://www.nasdaq.com/articles/banking-sector-revolution%3A-3-fintech-stocks-to-watch"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Nasdaq
+      domain: nasdaq.com
     quality: 49
   - title: "Finovax Leads the Charge in Fintech Innovation: AI-Powered Solutions Drive Business Growth"
     excerpt: "New York-Based Fintech Company Embraces Artificial Intelligence to Revolutionize Financial Data Products and Fuel Expansion New York, United"

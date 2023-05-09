@@ -3,12 +3,12 @@ category: news
 title: "How artificial intelligence could fundamentally change certain types of work"
 excerpt: "A report released in March found that AI services could automate as many as 300 million fulltime jobs worldwide."
 publishedDateTime: 2023-05-06T00:24:00Z
-originalUrl: "https://www.cbsnews.com/news/artificial-intelligence-chatgpt-threatens-changes-jobs-work/"
-webUrl: "https://www.cbsnews.com/news/artificial-intelligence-chatgpt-threatens-changes-jobs-work/"
-ampWebUrl: "https://www.cbsnews.com/amp/news/artificial-intelligence-chatgpt-threatens-changes-jobs-work/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/artificial-intelligence-chatgpt-threatens-changes-jobs-work/"
+originalUrl: "https://www.cbsnews.com/detroit/news/artificial-intelligence-chatgpt-threatens-changes-jobs-work/"
+webUrl: "https://www.cbsnews.com/detroit/news/artificial-intelligence-chatgpt-threatens-changes-jobs-work/"
+ampWebUrl: "https://www.cbsnews.com/amp/detroit/news/artificial-intelligence-chatgpt-threatens-changes-jobs-work/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/detroit/news/artificial-intelligence-chatgpt-threatens-changes-jobs-work/"
 type: article
-quality: 69
+quality: 71
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
   domain: cbsnews.com
 
 topics:
+  - AI in Autos
   - AI
 
 images:
@@ -77,6 +78,6 @@ related:
       domain: hbr.org
     quality: 17
 
-secured: "f6uAWf5drf5fqRoZ4HhkFKcCpBCKXpNI+ZyokMQ8xMEKDNuhOOH288wcFZY2g2Ex/f6qywU8qDFQuCEW5PEgO6fGNmp1PdA5p1vCo4jMJSwzpG1KsFmG/eq52rOfmX6wxXGdw2SMzt/ggKSz8u6NDUmxeYhOfBU0u0+r5qVhBqLUMLe/1fd7ZkHOsK/EfNF3ohOMsSzxsmNYIbX/5rllRaOnj/JWMxNp3pio7vVMvkgXnmeqIRqmLz+4XZkxShyql29PxcdL61Fv1DoOKwRK2pXZSv0IXFvhH7qJG874txnd42tzkwkKOqWfYWrXOGdCICouXHV37Xd4RbItfVxp7R2zELlTrXFpmfD3iL5P8BY=;WhERQS6feUDKudYznA+hag=="
+secured: "kEtwvddK9NCmxim7r5y5w8Y3GaH9Vdm2Q3LuKWpx6/oxbZ4x2BQanA573CBL8xmHERkNLCJ1NwV/NkyLXjjttYJ0PFnDXJJZF8iR5b2mcbrNEMIC2W7Rw7E/6sA56W/lqiqVmjIne8AQQlM6abzObxrB9R4p2EPx94DSm8oDD6td6/5H2J0ZuawlFfWMoEp/b/I25scuqRGMOUcqmoYWECJW72UY441Mb/sCQg5s9gYyoUfKDoLnJ+95YNJeeD1uhcKf2pWjniOPXh3q7y002Z8pYsPFI2n+6aUn3U1M63jmdsD+AMSTn6vU1PSeIpukkszGX+ghItm35YexFWiRCIgeynOkQgUthp3hWKftz1E=;2B7h22a1yuVq0erGiZr4uw=="
 ---
 

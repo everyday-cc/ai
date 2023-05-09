@@ -58,6 +58,22 @@ related:
         width: 1000
         height: 503
         isCached: true
+  - title: "Biden administration investing $140M into AI research and development amid boom"
+    excerpt: "The Biden administration announced Thursday it will invest $140 million into research and development of artificial intelligence (AI) amid the current boom of the new technology. Along with the ..."
+    publishedDateTime: 2023-05-04T12:25:00Z
+    webUrl: "https://thehill.com/policy/technology/3986899-biden-administration-investing-140m-into-ai-research-and-development-amid-boom/"
+    ampWebUrl: "https://thehill.com/policy/technology/3986899-biden-administration-investing-140m-into-ai-research-and-development-amid-boom/amp/"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/3986899-biden-administration-investing-140m-into-ai-research-and-development-amid-boom/amp/"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 55
+    images:
+      - url: "https://thehill.com/wp-content/uploads/sites/2/2022/07/worker_computer_051221istock_cyber-shortage.jpg?w=1280"
+        width: 1280
+        height: 719
+        isCached: true
   - title: "A case against banning TikTok. A US national strategy for AI."
     excerpt: "These steps build on the Administration’s strong record of leadership to ensure technology improves the lives of the American people, and break new ground in the federal government’s ongoing effort… National Standards Strategy for Critical and Emerging Technology (Record) The Biden administration's National Standards Strategy for Critical and Emerging Technology is intended to help set global rules to ensure tech is \"universally safe and interoperable."
     publishedDateTime: 2023-05-05T19:45:00Z

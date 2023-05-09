@@ -51,6 +51,20 @@ related:
         width: 3000
         height: 1999
         isCached: true
+  - title: "DeepMind boss says human-level AI is just a few years away"
+    excerpt: "The head of Google’s artificial intelligence division DeepMind has predicted that human-level AI may be just a few years away. The forecast from Demis Hassabis puts the date for the arrival of ..."
+    publishedDateTime: 2023-05-04T12:14:00Z
+    webUrl: "https://www.independent.co.uk/tech/ai-deepmind-artificial-general-intelligence-b2332322.html"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 54
+    images:
+      - url: "https://static.independent.co.uk/2023/05/04/10/deepmind%20human%20level%20ai.jpg?quality=75&width=1200&auto=webp"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Google DeepMind CEO claims we’re ‘just a few years away’ from human-like AI"
     excerpt: "According to Demis Hassabis, the CEO of Google DeepMind, AGI “could be just a few years, maybe within a decade away.”"
     publishedDateTime: 2023-05-04T09:52:00Z
@@ -79,15 +93,6 @@ related:
         width: 704
         height: 396
         isCached: true
-  - title: "DeepMind boss says human-level AI is just a few years away"
-    excerpt: "The head of Google’s artificial intelligence division DeepMind has predicted that human-level AI may be just a few years away. The forecast from Demis Hassabis puts the date for the arrival ofAGI) – systems that can think in similar but superior ways to humans – much earlier than previous predictions."
-    publishedDateTime: 2023-05-04T12:42:00Z
-    webUrl: "https://www.aol.com/news/deepmind-boss-says-human-level-115422614.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 34
 
 secured: "4aqlVOsZl0edfrQwhmMBMffNs3Vn1RGzw4F9yA39kBwkzqqH441SmiENxBtnD+h7Uy6RffWo7ES5kCzEaW2Ro+WXirkpPOVbcnxem4+28NbWVF+dHR+pjxm317mJR3tR8UXO0x0GwpACx4xuV0sH++p1SmUKhjCWgwRAk4PGptzPqU/33/TL1eFomOg7paaHlM+MeU9KYOGRLED2Wlqo8PeNUe/6JL+JnP1C+j7hdaF2jP7HYht1Tzge7DlTTALDXWgeYPu3EAFf0FJ99AKqUhfOLVlZRFdNVOm6utFdkRL+03rNslrhCfvAo6S0KNhjBcDpQ2xPixK6SfIUSE8KuDGu3+f1wYtrYnGECLIc85U=;QPxKtjLkRscbGIyST+3pLQ=="
 ---

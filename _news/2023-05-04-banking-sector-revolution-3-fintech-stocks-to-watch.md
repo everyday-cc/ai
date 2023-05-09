@@ -1,22 +1,18 @@
 ---
 category: news
 title: "Banking Sector Revolution: 3 Fintech Stocks to Watch"
-excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Fintech is revolutionizing the banking sector. In fact, artificial"
+excerpt: "Fintech is revolutionizing the banking sector. In fact, artificial intelligence (AI), and blockchain could lead to a far more efficient and accessible system. Fueling the boom, we’re already seeing a good deal of global cashless payments."
 publishedDateTime: 2023-05-04T15:33:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/banking-sector-revolution-3-fintech-stocks-to-watch-1032293459"
-webUrl: "https://markets.businessinsider.com/news/stocks/banking-sector-revolution-3-fintech-stocks-to-watch-1032293459"
+originalUrl: "https://www.nasdaq.com/articles/banking-sector-revolution%3A-3-fintech-stocks-to-watch"
+webUrl: "https://www.nasdaq.com/articles/banking-sector-revolution%3A-3-fintech-stocks-to-watch"
 type: article
 quality: 49
 heat: 49
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Finance
@@ -56,6 +52,6 @@ related:
       domain: asiaone.com
     quality: 9
 
-secured: "SdgvLD/7actILrA1YsBICYcg5QnNuhBCqnfgupFbRhlc4Obyl7nPhELKkYnoOEXJlXG2k/fVwY96kNak/E2iVFIN7gjAvIDgbjSgs5Y6P0acPFMnDguyjikQeD7fYXNLEUvndwANqGPMSdGQ4WuwGut4R8AC8JdDh5PZn2nkdkVndhJQ5+J1p5BhkPiIm8m7Dep3N+0nVPhhhJO+W7htfgva7KSfKJVwjIq9DikZuTeDdB08k32GKA24czrHECKdQbOrkVuzwCFYPowNnU30BUCbD0+/PThlzquEsOaQ9pqDZ4LCgfmk0csF7JgNLjPLojM0/Dou1XUENoESsJLuiKGoGKhWcOFOp3nf58Bc25uboN+k91nJd4sNcWu6C1FkJo+WmR9C1uAForUkCbuRwWu9rUSrIVnptOAy4VX8TCMeS9dLFXcP/eK0QC6EP3OUXQjBZNnDy8gfIeGtkVxBwIb8ZoSOh18TEjRoKlZYMi6BTq1SbIXfxBSWoqoWPh2Z6tpIUrPt4LmBHgf16IviNQ==;dVYn4RMAlp3H9R0jfaxxXQ=="
+secured: "2om7syHf1zl7Ad70wdrSY56mVR4X3f0DPh4JJBy3VcQgI+HgZ66TcA39Kc84WLZWsBRbScFS4wCoNOZSmENbgefMGckZbALqOjnhfoXk9kb/DHYoe8pjJiQYaHALUJg6h55i0wulJdZVMstzZ1qruwW0xtlvcwseqfAK94ndKErYT5N8zo8LBhFOyzbG0fyqLMQwwhZks1/xT+0YziiDzVLjzeXxNzP1CUSaO4maXyElnVQVcyQ7U7wzkLwvyL5ywY4Ef4SjJdpxraXTnh96pnmiYsvRewq/o5PCSKNkQDGt1dfQDkjhTYgir8LxDCqw0YlvGnzBi8Mp/r6hNq3MY0NV/Voes/WY0fa6DJ7wVq5oDJ4DaBegR6fQDWSEZdlGxkF6oAHKtjIDprwgdWk9wgTcDm1Jm5DCjwS/VlvXXIkRtlaLGrzKl/SFMM53/RZqTk+ED0zTjok3Klpqwj0KSEzfXprvtwzDlZuTOwtqmjrLPLDVrl+7trDJ5ZBjkvw/HuvnXV4+5buQCASoGPcX8Q==;avNuDWuSXiHoGogdWBs2gw=="
 ---
 

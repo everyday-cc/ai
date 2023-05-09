@@ -85,6 +85,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 47
+  - title: "I asked AI bot ChatGPT to write a column on happiness. Here’s what happened next"
+    excerpt: "I had to find out for myself. So I conducted a little experiment. I asked ChatGPT to write an article for me. I submitted the prompt, “Write a 500-word column on happiness.” That’s a broad, overworked topic,"
+    publishedDateTime: 2023-05-08T21:21:00Z
+    webUrl: "https://www.aol.com/news/asked-ai-bot-chatgpt-write-180244290.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 32
+    images:
+      - url: "https://media.zenfs.com/en/aol_san_luis_obispo_tribune_mcclatchy_563/9121ec7733a744f8785aa5baaae9181f"
+        width: 1140
+        height: 759
+        isCached: true
 
 secured: "24f705NtwiFvcmDfhjok8DPWTTLT3sG1OExTTyBjzz0Ncx4E16IndQkym8LG7GTFKbbjsgUNAnB58F0+s8zHSlGTeBat+cbxlfpCYGZmhArwo+wh1qvnv5YgjLiFY50ntRtfYRD7MRm6a+Rd10OVTyqYmRfI/hwpjQc2lzJEvUXetJ4n5JQMbq3CZ+4GTUNX3kPPsSG2fnskUDe868HcTPpiJYglDo/yrj2Kin5m6VaZX2aHmOUVcFY+miS6ubfTUX6sPKnk5atbubd2MTVTxRQSakbz+NviC4nMWDCrTPl5JIH0jbXlKX6+ufgzRE9JrcsnyDPC95LCc3ctUWOaZe5tK5tP8jkEtACTmc1KpYoAinqrv+Zwvs3OWDg0L2MZyiRk+s1ZNxtFg9tqz4IXqNX6FhetJeghlQwHpuLVjZfcnV7DaxTIc8MHW/YBOhKzn6cAfjhG1MJB1zkj5QINAEG9bnaRSZqi9KgmIzLGslFvSv4OJbp4A5Ijdk1aSY6F+vJArvjBWYWQ4yXCV4BF5w==;4qoAZ5HwxetTUISl60wEcA=="
 ---

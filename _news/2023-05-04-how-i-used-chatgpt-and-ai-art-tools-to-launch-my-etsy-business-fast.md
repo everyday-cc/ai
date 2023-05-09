@@ -84,6 +84,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "I asked AI bot ChatGPT to write a column on happiness. Here’s what happened next"
+    excerpt: "I had to find out for myself. So I conducted a little experiment. I asked ChatGPT to write an article for me. I submitted the prompt, “Write a 500-word column on happiness.” That’s a broad, overworked topic,"
+    publishedDateTime: 2023-05-08T21:21:00Z
+    webUrl: "https://www.aol.com/news/asked-ai-bot-chatgpt-write-180244290.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 32
+    images:
+      - url: "https://media.zenfs.com/en/aol_san_luis_obispo_tribune_mcclatchy_563/9121ec7733a744f8785aa5baaae9181f"
+        width: 1140
+        height: 759
+        isCached: true
 
 secured: "UcDbsMyNON0wdzUPM1lbg4dKFYd29eAVvCqkGBu8Ph0BBqvz689CcfpmVbKtHFu53HmMNMoV0yq7B/eEWwToYQI+P4+sKjYHB1vURIGJy0oAGjN+E6h+4KWutmFf0DyeiQTLAGH7g+hBerQVyWTSQPsVlHFG3AQt6zPU6LmbfY4AYCP7INj+riZ8CkSz3uQDr93DiHZyvbqHqs9Ds8DgcGPB477+/c5A30A0OxqCzl+LtaVFzy+1g8BIa3EzfdEycuf5ttAYzO0uienjdop8GpH3zLRoZvUKqog2MBZtxFHMsfHGKQYzkEF7nesRpUaMH1ZxTPS3NjO5lXc9Nj/gtSEb1ALgGCZApuTif5f/ejE7i9uyuO8Q3dNGOaOwskwXPGOsPOETcLqUac7OKJJ5zrij/C6Er1Ywto/dUOX1l0luQndLiEezPtjf4/S4cfRo0RwymgNtOc8wG7c85GEOgPO8VK77hs0VKjgM9CUG/rn3U0kbIWbCyVLaTKCoUIeqzOWmQjTDbwZaf80rnx5kgw==;z3K2NOjyEDyoMCZ81qGhAw=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/2023-computer-vision-mar
 webUrl: "https://www.marketwatch.com/press-release/2023-computer-vision-market-swot-analysis-and-regional-growth-prospect-2030-2023-05-05"
 type: article
 quality: 66
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: MarketWatch
@@ -27,6 +27,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "2023 \"Neural Network Market\" SWOT Analysis: Future Business Advancements and Challenges till 2030"
+    excerpt: "The Global Neural Network market is poised for significant growth between 2023 and 2030, with a positive outlook for 2022 and beyond. As key players in the industry adopt effective strategies, the market is expected to expand further,"
+    publishedDateTime: 2023-05-08T17:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-neural-network-market-swot-analysis-future-business-advancements-and-challenges-till-2030-2023-05-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "lrvQEueBhYZLB5Z7bkBHfJrrAvpk7gzI07D6KkmHS6dJv47FNcnvfaCYdiXLYf98pv7NoxzkSB5M03lQfFKVGPn3BbCaHdHnaHtMxyZYc36zDO/tGJjIr9HfuzmPxJrqf02inXQySVD4HSEmCtmwC01ivGXyaoV6t9yDeQj/CvZRuVx8dxRgdQYtW3b+ywVmo6ff087OERZgGljb+H/JxZnhJVtTZYW5QjzT5HXcs0Ss+7l/u4e/iKPgoY0OBRL5Crk5n/UUiY9OVBzInWdIVTEnv5oQxrehvkCLS/yzj2Yi4K9BAzKahcB3qdjBlPTZVPMQ1r5wW8tK2UhotMsU/a/wu1X2XivrkbhsOqFMnkE=;xv54NGCWBNPCTXGZ9BRphg=="
 ---

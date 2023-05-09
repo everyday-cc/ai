@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/article/bing-ai-chat-open/amp/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/bing-ai-chat-open/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "The new AI-powered Bing is now open to everyone - with some serious upgrades"
-    excerpt: "Microsoft just made the new Bing available to all and unveiled new features that you will want to try out for yourself."
-    publishedDateTime: 2023-05-04T06:59:00Z
-    webUrl: "https://www.zdnet.com/article/bings-ai-powered-search-engine-is-now-open-to-everyone-with-some-serious-upgrades/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/bings-ai-powered-search-engine-is-now-open-to-everyone-with-some-serious-upgrades/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/bings-ai-powered-search-engine-is-now-open-to-everyone-with-some-serious-upgrades/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 84
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/ae622570e582fe0a96fd327e4fc9a1568a6e55ad/2023/05/03/db1dd215-0cb0-424a-95e3-9ec44538759a/bing-chat.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "I asked ChatGPT, Bing, and Bard what worries them. Google's AI went Terminator on me"
     excerpt: "Just to be clear: this is not science fiction. Chatbots might have some worries that might, in turn, worry us just a bit."
     publishedDateTime: 2023-05-08T17:14:00Z

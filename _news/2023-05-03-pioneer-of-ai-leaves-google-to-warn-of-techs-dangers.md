@@ -16,6 +16,13 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
+
+images:
+  - url: "https://www.adn.com/resizer//6tO2cJKADc46WCRzc8lQ2xLIXus=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/adn/TK2UUPZS6PBOZVMEJSBJOZTAAI.jpg"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Godfather of artificial intelligence has spoken up about the dangers of AI: Is it too late?"
@@ -134,6 +141,6 @@ related:
       domain: thehill.com
     quality: 19
 
-secured: "HshiZE/hkQbCIJ2ZYpFqb4LokFAFtgqRIwKeq1+uY0wbtUbGeZc3JGqeHkrxGBlnMntC2YvWrQ0gMIgyaxv6M4iscXKM5wb1C60GjAIJB9qMQvdH6TdfhggwBemhbqR+81IiA0MVLjaVR2lCIp7SYqriqo0swENEug2Pr7nT7WSHE8chwGN44cxMzj/HTNeyyefdvBOuU4nUKssnWsyfSLyK1pTRzvTZKHN0nmbVigoRz2yvqNNPD+OZz92iojS0gHwli6D++F31nb2jORtlgfZkmQSh4fPWgBH2G2EkVrPaCVdtEjX5fCm6ofsrNhLk0KjC747m3rDsHGfj6AmbeLGFbGDvN36R6lNCLv2UF3j/FAaIO8qQ/XWUnG5lZao/WQ5M4Esjwbf4AmYdtulRnMwj51JerGKSrbHAHd8S9sAo3x+PQezn46vppltYaZ8tBE8E9cBFxdv2cHBiOynxXtd1+EY7RwKr4zXsY5NMSS95UuOgnGP/GtOWdKibRhogWaKHpt0wVCpml+2tUsuVpg==;H5RfyQ/OBhxgJ1zbIb1zgQ=="
+secured: "SlEAXuUBcnKO5H+i10iCAJspLJIuFiUZVjsvo7xc0s1oFEdkxADimdX42+PJ4JAzgcgdQ8TjUslgtS5So8JfqihtMmR+wBbJ++gHNqVHZ/pxpMAXIns10JoJ4rT82le1GUToPMAqSvasVPeYRaT4Pjq7ceI21/ekCrgpMS9LWCg8yVc87DEV9yJ9n1BTZmjxFbIWkzo7rbQylVcEppnZqAACgICstnjBe7h0wAKFSB1p1BDY36v6wvFQ0kH/BFz+sPNxMQMjcn6XwjCFRMQ8W+DwVAoTj/RkMrPhgxtZbOBJEmtKW+r6B9qdAHWSj6pEA/UrkwQvQZIbG//I76eY9FTrNh4gHGNLpSsST7e0LqY=;FDheZQJnjLoHXdhmFhlSqA=="
 ---
 

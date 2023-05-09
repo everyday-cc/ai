@@ -78,38 +78,6 @@ related:
         width: 1400
         height: 934
         isCached: true
-  - title: "Microsoft launches new features for its AI-powered Bing and Edge"
-    excerpt: "Microsoft announced a major expansion of its artificial intelligence-based search tools today, opening up new features that allow visual and multimodal searches as well as persistent chat tools. The updates significantly expand the capabilities of Bing,"
-    publishedDateTime: 2023-05-04T06:59:00Z
-    webUrl: "https://venturebeat.com/ai/microsoft-launches-new-features-for-its-ai-powered-bing-and-edge/"
-    ampWebUrl: "https://venturebeat.com/ai/microsoft-launches-new-features-for-its-ai-powered-bing-and-edge/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/microsoft-launches-new-features-for-its-ai-powered-bing-and-edge/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/05/HeroImage_16x9_8K.jpg?fit=800%2C450&strip=all"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Microsoft opens up its AI-powered Bing to all users"
-    excerpt: "Nearly three months after the company debuted a limited preview version of its new Bing, powered by the viral AI chatbot ChatGPT, Microsoft is opening it up to all users without a waitlist – as long as they’re signed into the search engine via Microsoft’s Edge browser."
-    publishedDateTime: 2023-05-04T07:01:00Z
-    webUrl: "https://www.cnn.com/2023/05/04/tech/microsoft-bing-updates/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2023/05/04/tech/microsoft-bing-updates/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/05/04/tech/microsoft-bing-updates/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 104
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/230503170645-microsoft-bing-ai-052023-super-tease.jpeg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Microsoft barrels ahead with AI plans, opens up Bing Chat preview to everyone"
     excerpt: "The \"Open Preview\" phase of the New Bing makes the chatbot and other features available to anyone with a Microsoft Account, and it coincides with a push to make the chatbot \"more visual.\" Bing Chat will soon be able to generate charts and graphs as part of its answers,"
     publishedDateTime: 2023-05-04T16:32:00Z

@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden administration investing $140M into AI research and development amid boom"
+    excerpt: "The Biden administration announced Thursday it will invest $140 million into research and development of artificial intelligence (AI) amid the current boom of the new technology. Along with the ..."
+    publishedDateTime: 2023-05-04T12:25:00Z
+    webUrl: "https://thehill.com/policy/technology/3986899-biden-administration-investing-140m-into-ai-research-and-development-amid-boom/"
+    ampWebUrl: "https://thehill.com/policy/technology/3986899-biden-administration-investing-140m-into-ai-research-and-development-amid-boom/amp/"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/3986899-biden-administration-investing-140m-into-ai-research-and-development-amid-boom/amp/"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 55
+    images:
+      - url: "https://thehill.com/wp-content/uploads/sites/2/2022/07/worker_computer_051221istock_cyber-shortage.jpg?w=1280"
+        width: 1280
+        height: 719
+        isCached: true
   - title: "ROISD’s Music Education Program receives national recognition"
     excerpt: "Staff report Red Oak ISD has been honored with the Best Communities for Music Education designation from The NAMM Foundation for its outstanding commitment to music education. Now in its 24th year, the Best Communities for Music Education designation is awarded to districts that demonstrate outstanding achievement in efforts to provide music access and education"
     publishedDateTime: 2023-05-04T21:54:00Z

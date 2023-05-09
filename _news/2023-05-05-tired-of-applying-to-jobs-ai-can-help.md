@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thedailystar.net/tech-startup/news/tired-applying-jobs-a
 cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/tired-applying-jobs-ai-can-help-3310986?amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: The Daily Star
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Can Artificial Intelligence Help Mitigate Grading Bias?"
+    excerpt: "The ed-tech platform Copyleaks has developed an AI-assisted tool to eliminate human bias and discrepancies in the grading process, aiming to provide consistency in grading while helping teachers save time."
+    publishedDateTime: 2023-05-08T22:45:00Z
+    webUrl: "https://www.govtech.com/education/higher-ed/can-artificial-intelligence-help-mitigate-grading-bias"
+    ampWebUrl: "https://www.govtech.com/education/higher-ed/can-artificial-intelligence-help-mitigate-grading-bias?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/can-artificial-intelligence-help-mitigate-grading-bias?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 57
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/14a756a/2147483647/strip/true/crop/770x402+0+56/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F06%2F13%2F1bc18e99e74438bb2258170d601e%2Fgrading.jpg"
+        width: 840
+        height: 438
+        isCached: true
   - title: "Why legal innovators want to chat about AI"
     excerpt: "Since ChatGPT first grabbed public attention, Inkling has been advising law firms on adopting generative AI. This includes helping them to measure the quality and quantity of the results when using it, compared with what could be delivered by lawyers who are not using it."
     publishedDateTime: 2023-05-05T04:00:00Z

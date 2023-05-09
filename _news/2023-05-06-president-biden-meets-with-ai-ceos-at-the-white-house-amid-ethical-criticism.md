@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/05/critics-take-
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/05/critics-take-aim-at-bidens-ai-meeting-with-ceos-from-google-openai-microsoft/amp/"
 type: article
 quality: 101
-heat: 261
+heat: 271
 published: true
 
 provider:
@@ -250,6 +250,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden Administration Turns To Hackers To Tame AI As White House Looks Towards Regulating Artificial Intelligence To Preserve Jobs"
+    excerpt: "Gamers Making Thousands Selling Gaming Skins And Assets: Gameflip's Bold Vision For The Future Of Gaming Commerce Artificial intelligence (AI) technology — led by the growth of ChatGPT — has governments around the world concerned about its impact."
+    publishedDateTime: 2023-05-08T20:01:00Z
+    webUrl: "https://www.benzinga.com/news/23/05/32272632/biden-administration-turns-to-hackers-to-tame-ai-as-white-house-looks-towards-regulating-artificial"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32272632"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32272632"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 23
   - title: "Harris to meet with CEOs about artificial intelligence risks"
     excerpt: "The Democratic administration plans to announce an investment of $140 million to establish seven new AI research institutes"
     publishedDateTime: 2023-05-05T12:49:00Z

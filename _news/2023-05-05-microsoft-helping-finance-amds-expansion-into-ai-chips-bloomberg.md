@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/article/amd-ai-microsoft/update-1-microsof
 webUrl: "https://www.reuters.com/article/amd-ai-microsoft/update-1-microsoft-helping-finance-amds-expansion-into-ai-chips-bloomberg-idUSL4N3714JL"
 type: article
 quality: 118
-heat: 438
+heat: 418
 published: true
 
 provider:
@@ -62,38 +62,6 @@ related:
       - url: "https://www.techrepublic.com/wp-content/uploads/2023/02/microsoft-bing-openai-gguy.jpeg"
         width: 1400
         height: 934
-        isCached: true
-  - title: "Microsoft launches new features for its AI-powered Bing and Edge"
-    excerpt: "Microsoft announced a major expansion of its artificial intelligence-based search tools today, opening up new features that allow visual and multimodal searches as well as persistent chat tools. The updates significantly expand the capabilities of Bing,"
-    publishedDateTime: 2023-05-04T06:59:00Z
-    webUrl: "https://venturebeat.com/ai/microsoft-launches-new-features-for-its-ai-powered-bing-and-edge/"
-    ampWebUrl: "https://venturebeat.com/ai/microsoft-launches-new-features-for-its-ai-powered-bing-and-edge/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/microsoft-launches-new-features-for-its-ai-powered-bing-and-edge/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/05/HeroImage_16x9_8K.jpg?fit=800%2C450&strip=all"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Microsoft opens up its AI-powered Bing to all users"
-    excerpt: "Nearly three months after the company debuted a limited preview version of its new Bing, powered by the viral AI chatbot ChatGPT, Microsoft is opening it up to all users without a waitlist – as long as they’re signed into the search engine via Microsoft’s Edge browser."
-    publishedDateTime: 2023-05-04T07:01:00Z
-    webUrl: "https://www.cnn.com/2023/05/04/tech/microsoft-bing-updates/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2023/05/04/tech/microsoft-bing-updates/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/05/04/tech/microsoft-bing-updates/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 104
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/230503170645-microsoft-bing-ai-052023-super-tease.jpeg"
-        width: 1100
-        height: 619
         isCached: true
   - title: "Critics take aim at Biden’s AI meeting with CEOs from Google, OpenAI, Microsoft"
     excerpt: "On Thursday, President Joe Biden held a meeting at the White House with CEOs of leading AI companies, including Google, Microsoft, OpenAI, and Anthropic,"

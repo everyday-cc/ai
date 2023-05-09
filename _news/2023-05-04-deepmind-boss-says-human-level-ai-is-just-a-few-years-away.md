@@ -1,22 +1,28 @@
 ---
 category: news
 title: "DeepMind boss says human-level AI is just a few years away"
-excerpt: "The head of Google’s artificial intelligence division DeepMind has predicted that human-level AI may be just a few years away. The forecast from Demis Hassabis puts the date for the arrival ofAGI) – systems that can think in similar but superior ways to humans – much earlier than previous predictions."
-publishedDateTime: 2023-05-04T12:42:00Z
-originalUrl: "https://www.aol.com/news/deepmind-boss-says-human-level-115422614.html"
-webUrl: "https://www.aol.com/news/deepmind-boss-says-human-level-115422614.html"
+excerpt: "The head of Google’s artificial intelligence division DeepMind has predicted that human-level AI may be just a few years away. The forecast from Demis Hassabis puts the date for the arrival of ..."
+publishedDateTime: 2023-05-04T12:14:00Z
+originalUrl: "https://www.independent.co.uk/tech/ai-deepmind-artificial-general-intelligence-b2332322.html"
+webUrl: "https://www.independent.co.uk/tech/ai-deepmind-artificial-general-intelligence-b2332322.html"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: AOL
-  domain: aol.com
+  name: The Independent
+  domain: independent.co.uk
 
 topics:
   - Google AI
   - AI
+
+images:
+  - url: "https://static.independent.co.uk/2023/05/04/10/deepmind%20human%20level%20ai.jpg?quality=75&width=1200&auto=webp"
+    width: 1200
+    height: 900
+    isCached: true
 
 related:
   - title: "Current language models lightyears away from human-like AI: Early DeepMind investor"
@@ -89,6 +95,6 @@ related:
       domain: foxbusiness.com
     quality: 34
 
-secured: "uklADJkuMcoUOlvIwu3yMTS3K1SAEvh9s2QXRHNfE+GnwKuIDGSsD3ff3EkmnGYuWHFZo/eyqhD3MoPnhLMw2WJON75xeKq+Jca5BnDZfViuNdJyKYc1W/3NQ+qTWsnXpSpNe/rBiaIC4ZllUcO9veTos7PkQNdjf+uz4t90NUHMz8P1CkelrTVw7PVzL4Rp96JEIiZsCFcUrC4QGewfQf1JRgpz4fghip9YC+Uk/Jpa7mXaaEgIN0jxd7TOBgasYKb4hsa57/1NRqlJwZfE5S7SUEK1RG58F+QutjDn8JZRlnDLHZNUPnuXXrWxcel524l6QEG6GDM79wpd9OXfH8E/E/QjTnwNimzsJTkqXyBtCNYttdMYc2lkZAtq6NRKTJrj16dlbakqbvZx3IevIV1wiWwDbNcmZCjmurUdRoa1s+gaSukt1gPITKOarP5M1wmaGn71eFQd4DaC2geGmbTupEifdsLOvU7qRtMzIy9S40Z7oS5aFDjk8kSb/p7T/x0FQhoNxYnP4l9p7NBGCA==;+h3O2niBw3aujf3DypHOIw=="
+secured: "As6JG+7IZaPWLXQYWQdu3b3gewFROwjs9uAnpN0OZJUdwlXxQYQ9eUIYsrLrSESjCbml5nEu8zeYxcwyjS1xgXq/XaVUD50VyCUOupLF43PA7fTuHUi5fs9+izSChzIzoXDDYAaFSfcqTg9d7RwYIZHetyzYbRKr+tPEXviWor7t+Xu+4Qu9z6xX5ND8SsZEFtWs6gOR/D9q9PPCK5vwm9GYujdDXb37E30NPc2wzwEA5fGIPrLksskVxjuIALXWGXfiwz4t/eqCNnWqIckyxFnyfT9Nqkw4zs49o5Hg9+zpJaivbFlYS3TNxnIGO4XMY+lujwj5lYgWzHTxTbDhrc7eMb0ftRc7CA+WW0spxDE=;j/pZpOIsj0NM1uizG2rrBA=="
 ---
 
